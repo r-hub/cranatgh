@@ -91,6 +91,8 @@ create_gh_repo <- function(package, description) {
 #'
 #' @param package Name of the package
 #' @param description \code{Title} field in the \code{DESCRIPTION} file.
+#'
+#' @export
 
 update_description <- function(package, description) {
 
