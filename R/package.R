@@ -1,7 +1,7 @@
 
 #' 'CRAN' mirror at 'GitHub'
 #'
-#' The machinery behind the 'CRAN' mirror at &lt;https://github.com/cran&gt;.
+#' The machinery behind the 'CRAN' mirror at \url{https://github.com/cran}.
 #'
 #' @docType package
 #' @name cranatgh
