@@ -37,6 +37,8 @@ add_package <- function(package) {
 
 add_missing_versions <- function(package, versions, new_package, timeline) {
 
+  if (length(versions) == 0) return()
+
   if (new_package) {
     create_git_repo(package)
   } else {
