@@ -11,7 +11,7 @@
 add_package <- function(package) {
 
   crandb_timeline <- get_crandb_timeline(package)
-  crandb_versions <- names(crandb_timeline)
+  crandb_versions <- setdiff(names(crandb_timeline), "archived")
   github_versions <- get_github_versions(package)
 
   if (length(crandb_versions) == 0) {
