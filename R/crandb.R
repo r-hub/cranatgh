@@ -19,3 +19,9 @@ get_crandb_versions <- function(package) {
   )
   names(crandb_versions$timeline)
 }
+
+#' @importFrom crandb list_packages
+
+get_all_cran_packages <- function() {
+  names(list_packages(format = "short", limit = 1000000L))
+}

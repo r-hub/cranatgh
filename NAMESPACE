@@ -2,6 +2,7 @@
 
 export(add_package)
 export(update_description)
+importFrom(crandb,list_packages)
 importFrom(crandb,package)
 importFrom(description,description)
 importFrom(gh,gh)
