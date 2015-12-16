@@ -77,6 +77,8 @@ remove_gh_repo <- function(package) {
 
 create_gh_repo <- function(package, description) {
 
+  description <- clean_description(description)
+
   gh("POST /orgs/:org/repos",
     org = get_gh_owner(),
     name = package,
@@ -96,10 +98,18 @@ create_gh_repo <- function(package, description) {
 
 update_description <- function(package, description) {
 
+  description <- clean_description(description)
+
   gh("PATCH /repos/:owner/:repo",
      owner = get_gh_owner(),
      repo = package,
      name = package,
      description = description
   )
+}
+
+clean_description <- function(description) {
+  description <- unname(description)
+  description <- gsub("\n", " ", description)
+  description
 }
