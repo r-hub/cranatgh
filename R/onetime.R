@@ -11,4 +11,6 @@ add_all_packages <- function() {
     cat(pkgs[[i]], "\n")
     res[[i]] <- try(add_package(pkgs[[i]]), silent = TRUE)
   }
+
+  res
 }
