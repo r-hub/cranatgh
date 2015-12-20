@@ -58,6 +58,7 @@ add_missing_versions <- function(package, versions, new_package, timeline) {
 
 
 #' @importFrom description description
+#' @importFrom utils untar
 
 add_missing_version <- function(package, version, date) {
 

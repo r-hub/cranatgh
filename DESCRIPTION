@@ -12,7 +12,8 @@ Imports:
     crandb,
     gh,
     description,
-    httr
+    httr,
+    utils
 Suggests:
     testthat,
     pingr
