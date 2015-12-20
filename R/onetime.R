@@ -15,7 +15,7 @@ add_all_packages <- function() {
   res
 }
 
-update_all_descriptions <- function(pkgs = get_all_cran_package(),
+update_all_descriptions <- function(pkgs = get_all_cran_packages(),
                                     sleep = 1) {
 
   res <- structure(
