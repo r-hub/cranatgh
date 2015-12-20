@@ -75,9 +75,8 @@ remove_gh_repo <- function(package) {
 
 #' @importFrom httr POST add_headers status_code
 
-create_gh_repo <- function(package, description) {
-
-  description <- clean_description(description)
+create_gh_repo <- function(package,
+                           description = make_description(package)) {
 
   gh("POST /orgs/:org/repos",
     org = get_gh_owner(),
@@ -92,19 +91,28 @@ create_gh_repo <- function(package, description) {
 #' Updates the repostory description and homepage.
 #'
 #' @param package Name of the package
-#' @param description \code{Title} field in the \code{DESCRIPTION} file.
+#' @param description Description on the GitHub page.
+#'   By default (is \code{NULL}), the \code{Title} field in the
+#'   \code{DESCRIPTION} file is used, plus some links to the
+#'   package homepage and CRAN.
 #'
 #' @export
 
-update_description <- function(package, description) {
+update_description <- function(package, description = NULL) {
 
-  description <- clean_description(description)
+  if (is.null(description)) {
+    description <- make_description(package)
+
+  } else {
+    description <- clean_description(description)
+  }
 
   gh("PATCH /repos/:owner/:repo",
      owner = get_gh_owner(),
      repo = package,
      name = package,
-     description = description
+     description = description,
+     homepage = ""
   )
 }
 

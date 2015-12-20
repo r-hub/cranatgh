@@ -14,3 +14,20 @@ add_all_packages <- function() {
 
   res
 }
+
+update_all_descriptions <- function(pkgs = get_all_cran_package(),
+                                    sleep = 1) {
+
+  res <- structure(
+    replicate(length(pkgs), NULL),
+    names = pkgs
+  )
+
+  for (i in seq_along(pkgs)) {
+    cat(pkgs[[i]], "\n")
+    res[[i]] <- try(update_description(pkgs[[i]]), silent = TRUE)
+    Sys.sleep(sleep)
+  }
+
+  res
+}

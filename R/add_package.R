@@ -49,11 +49,11 @@ add_missing_versions <- function(package, versions, new_package, timeline) {
     metadata <- add_missing_version(package, ver, timeline[[ver]])
   }
 
-  if (new_package) create_gh_repo(package, metadata$get("Title"))
+  if (new_package) create_gh_repo(package, metadata)
 
   push_to_github(package)
 
-  if (!new_package) update_description(package, metadata$get("Title"))
+  if (!new_package) update_description(package, metadata)
 }
 
 

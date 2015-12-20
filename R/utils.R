@@ -17,3 +17,11 @@ with_wd <- function(wd, expr) {
 na_to_empty <- function(x) {
   if (length(x) == 1 && is.na(x)) "" else x
 }
+
+dont_break <- function(...) {
+  gsub("\\s+", "\u00a0", paste0(...))
+}
+
+null_or <- function(x, expr) {
+  if (is.null(x)) "" else expr
+}
