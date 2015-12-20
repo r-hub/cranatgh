@@ -5,8 +5,8 @@
 
 > 'CRAN' mirror at 'GitHub'
 
-[![Linux Build Status](https://travis-ci.org/metacran/cranatgh.svg?branch=master)](https://travis-ci.org//cranatgh)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/metacran/cranatgh?svg=true)](https://ci.appveyor.com/project/metacran/cranatgh)
+[![Linux Build Status](https://travis-ci.org/metacran/cranatgh.svg?branch=master)](https://travis-ci.org/metacran/cranatgh)
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/metacran/cranatgh?svg=true)](https://ci.appveyor.com/project/gaborcsardi/cranatgh)
 [![](http://www.r-pkg.org/badges/version/cranatgh)](http://www.r-pkg.org/pkg/cranatgh)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/cranatgh)](http://www.r-pkg.org/pkg/cranatgh)
 [![Coverage Status](https://img.shields.io/codecov/c/github/metacran/cranatgh/master.svg)](https://codecov.io/github/metacran/cranatgh?branch=master)
