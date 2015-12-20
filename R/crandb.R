@@ -66,6 +66,16 @@ make_description <- function(pkg) {
       package(package),
       error = function(e) NULL
     )
+
+  } else if (is(pkg, "description")) {
+    pkg <- list(
+      Title = pkg$get("Title"),
+      URL = pkg$get("URL"),
+      BugReports = pkg$get("BugReports")
+    )
+
+  } else {
+    stop("'pkg' must be a character scalar or a 'description' object")
   }
 
   paste(

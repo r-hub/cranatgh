@@ -157,19 +157,13 @@ create_gh_repo <- function(package,
 #'
 #' @param package Name of the package
 #' @param description Description on the GitHub page.
-#'   By default (is \code{NULL}), the \code{Title} field in the
-#'   \code{DESCRIPTION} file is used.
 #'
 #' @export
 
-update_description <- function(package, description = NULL) {
+update_description <- function(package,
+                               description = make_description(package)) {
 
-  if (is.null(description)) {
-    description <- make_description(package)
-
-  } else {
-    description <- clean_description(description)
-  }
+  description <- clean_description(description)
 
   gh("PATCH /repos/:owner/:repo",
      owner = get_gh_owner(),
