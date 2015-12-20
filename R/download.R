@@ -4,6 +4,8 @@
 #' @param package Package name.
 #' @param version Package version.
 #' @return Character vector of URLs.
+#'
+#' @keywords internal
 
 package_urls <- function(package, version) {
   c(sprintf("%s/src/contrib/%s_%s.tar.gz", cran_mirror, package, version),
@@ -18,6 +20,8 @@ package_urls <- function(package, version) {
 #' @param package Package name.
 #' @param version Package version.
 #' @return Name of the downloaded file
+#'
+#' @keywords internal
 
 get_package_tarball <- function(package, version) {
   urls <- package_urls(package, version)
@@ -39,6 +43,7 @@ get_package_tarball <- function(package, version) {
 #' @param dest_file Destination file
 #' @return Logical scalar, whether the download was successfull.
 #'
+#' @keywords internal
 #' @importFrom httr GET write_disk status_code
 
 try_download <- function(url, dest_file) {

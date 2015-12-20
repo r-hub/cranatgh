@@ -17,4 +17,5 @@ Character vector of URLs.
 \description{
 Possible download URLs for CRAN packages
 }
+\keyword{internal}
 

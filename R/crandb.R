@@ -1,4 +1,13 @@
 
+#' Get the timeline of a package from crandb
+#'
+#' @param package Package name.
+#' @return The timeline, in a named list, where names are
+#'   package versions, and entries are dates. If the package is not
+#'   in crandb, \code{NULL} is returned. A special entry named
+#'   \code{archived} is included for archived packages.
+#'
+#' @keywords internal
 #' @importFrom crandb package
 
 get_crandb_timeline <- function(package) {
@@ -9,7 +18,13 @@ get_crandb_timeline <- function(package) {
   crandb_versions$timeline
 }
 
-
+#' Get all versions of a package from crandb
+#'
+#' @param package Package name.
+#' @return Character vector of package versions. If the package is not
+#'   in crandb, \code{NULL} is returned.
+#'
+#' @keywords internal
 #' @importFrom crandb package
 
 get_crandb_versions <- function(package) {
@@ -20,12 +35,29 @@ get_crandb_versions <- function(package) {
   names(crandb_versions$timeline)
 }
 
+#' All active packages on CRAN
+#'
+#' @return Character vector of all active CRAN packages.
+#'
+#' @keywords internal
 #' @importFrom crandb list_packages
 
 get_all_cran_packages <- function() {
   names(list_packages(format = "short", limit = 1000000L))
 }
 
+#' Create a GitHub description string for a package
+#'
+#' On GitHub the description cannot contain newline characters,
+#' and HTML tags are not allowed, either. But it is possible to include
+#' non-breaking space characters, and this results for a nice
+#' multi-line description for most packages.
+#'
+#' @param pkg Package name, or a `description` object.
+#' @return Character scalar, an appropriate GitHub repository
+#'   description.
+#'
+#' @keywords internal
 #' @importFrom crandb package
 
 make_description <- function(pkg) {
@@ -47,9 +79,23 @@ make_description <- function(pkg) {
   )
 }
 
+#' Get the URL of a CRAN package
+#'
+#' @param package Package name.
+#' @return Character scalar, the URL.
+#'
+#' @keywords internal
+
 cran_url <- function(package) {
   paste0("http://cran.r-project.org/web/packages/", package)
 }
+
+#' Get the Metacran (\url{http://www.r-pkg.org} URL of a package
+#'
+#' @param package Package name.
+#' @return The Metacran URL.
+#'
+#' @keywords internal
 
 metacran_url <- function(package) {
   paste0("http://www.r-pkg.org/pkg/", package)

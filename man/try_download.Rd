@@ -18,4 +18,5 @@ Logical scalar, whether the download was successfull.
 It tries to write the file directly on disk.
 Unsuccessful downloads result an error.
 }
+\keyword{internal}
 

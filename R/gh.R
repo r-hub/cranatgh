@@ -1,9 +1,34 @@
 
+#' Get the token to be used for GitHub API calls
+#'
+#' It is taken from the \code{GITHUB_TOKEN} environment
+#' variable.
+#'
+#' @return Character scalar, the token, or \code{NA} is the
+#'   \code{GITHUB_TOKEN} environment variable is not set.
+#'
+#' @keywords internal
+
 get_gh_token <- function() {
   Sys.getenv("GITHUB_TOKEN", NA_character_)
 }
 
+#' The GitHub repository or organization of the mirror
+#'
+#' @return Character scalar.
+#'
+#' @keywords internal
+
 get_gh_owner <- function(package) "cran"
+
+#' The clone URL of a package at GitHub
+#'
+#' It is always an HTTPS URL currently.
+#'
+#' @param package Name of the package.
+#' @return The url.
+#'
+#' @keywords internal
 
 get_clone_url <- function(package) {
 
@@ -13,6 +38,13 @@ get_clone_url <- function(package) {
 
   sprintf("https://%sgithub.com/%s/%s.git", token, owner, package)
 }
+
+#' Get all versions of a package in the GitHub mirror
+#'
+#' @param package Package name.
+#' @return Character vector of version numbers.
+#'
+#' @keywords internal
 
 get_github_versions <- function(package) {
   github_versions <- tryCatch(
@@ -30,6 +62,12 @@ get_github_versions <- function(package) {
   github_versions
 }
 
+#' Clone a repository from the GitHub CRAN mirror
+#'
+#' @param package Package name.
+#' @return Output of the command line git call.
+#'
+#' @keywords internal
 
 clone_git_repo <- function(package) {
   git("clone", get_clone_url(package))
@@ -39,6 +77,9 @@ clone_git_repo <- function(package) {
 #' Push the package to GitHub
 #'
 #' @param package Package name.
+#' @return Output of the command line git call.
+#'
+#' @keywords internal
 
 push_to_github <- function(package) {
   wd <- getwd()
@@ -50,6 +91,17 @@ push_to_github <- function(package) {
   git("push", "--tags", "-u", "origin", "master")
 }
 
+#' Add a CRAN at GitHub remote to a local git tree
+#'
+#' It is assumed that the git tree of the package is
+#' in the working directory.
+#'
+#' If there is already a remote called \code{origin}, then
+#' nothing is done.
+#'
+#' @param package Package name.
+#'
+#' @keywords internal
 
 add_gh_remote <- function(package) {
 
@@ -62,6 +114,14 @@ add_gh_remote <- function(package) {
   }
 }
 
+#' Remove a GitHub remote
+#'
+#' This is only used for the unit tests. Otherwise we don't remove
+#' repositories from GitHub, even if a package is archived.
+#'
+#' @param package Package name.
+#'
+#' @keywords internal
 
 remove_gh_repo <- function(package) {
 
@@ -72,7 +132,12 @@ remove_gh_repo <- function(package) {
   )
 }
 
-
+#' Create a repository for a package at GitHub
+#'
+#' @param package Package name.
+#' @param description Repository description.
+#'
+#' @keywords internal
 #' @importFrom httr POST add_headers status_code
 
 create_gh_repo <- function(package,
@@ -93,8 +158,7 @@ create_gh_repo <- function(package,
 #' @param package Name of the package
 #' @param description Description on the GitHub page.
 #'   By default (is \code{NULL}), the \code{Title} field in the
-#'   \code{DESCRIPTION} file is used, plus some links to the
-#'   package homepage and CRAN.
+#'   \code{DESCRIPTION} file is used.
 #'
 #' @export
 
@@ -115,6 +179,15 @@ update_description <- function(package, description = NULL) {
      homepage = ""
   )
 }
+
+#' Clean a string, so that it can be used as a repo description
+#'
+#' Currently it just removes newline characters.
+#'
+#' @param description Character scalar.
+#' @return Character scalr. Cleaned up description.
+#'
+#' @keywords internal
 
 clean_description <- function(description) {
   description <- unname(description)

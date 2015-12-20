@@ -1,4 +1,17 @@
 
+#' Run a git command using system git
+#'
+#' System git must be properly installed and it must be in the
+#' \code{PATH}.
+#'
+#' @param ... Arguments to pass to git.
+#' @param env Named character vector, environment variables
+#'   to set for git.
+#' @return A list containing the \code{status}, \code{stdout},
+#'   \code{stderr} of the system git command.
+#'
+#' @keywords internal
+
 git <- function(..., env = character()) {
 
   stdout <- tempfile()
@@ -21,6 +34,12 @@ git <- function(..., env = character()) {
   )
 }
 
+#' Create an empty local git tree
+#'
+#' @param package Package name, directory to create a git tree in.
+#' @return The return value of the call to git.
+#'
+#' @keywords internal
 
 create_git_repo <- function(package) {
   dir.create(package)

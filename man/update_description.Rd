@@ -4,12 +4,14 @@
 \alias{update_description}
 \title{Update description on GitHub}
 \usage{
-update_description(package, description)
+update_description(package, description = NULL)
 }
 \arguments{
 \item{package}{Name of the package}
 
-\item{description}{\code{Title} field in the \code{DESCRIPTION} file.}
+\item{description}{Description on the GitHub page.
+By default (is \code{NULL}), the \code{Title} field in the
+\code{DESCRIPTION} file is used.}
 }
 \description{
 Updates the repostory description and homepage.

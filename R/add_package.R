@@ -1,6 +1,15 @@
 
 #' Add or update a package in CRAN @@ GitHub
 #'
+#' The update is performed based on the current state of the
+#' crandb database (See \url{https://github.com/metacran/crandb}.)
+#'
+#' All versions that are missing form the GitHub repository
+#' at \url{https://github.com/cran}, are added.
+#'
+#' If the package is missing from the GitHub mirror completely,
+#' then it is created.
+#'
 #' @param package Name of the package
 #' @return Invisible `TRUE` if the package was successfully updated,
 #'   `FALSE` otherwise.
@@ -34,6 +43,15 @@ add_package <- function(package) {
   invisible(TRUE)
 }
 
+#' Add some (or all) versions of a package to the GitHub mirror
+#'
+#' @param package Name of the package to update.
+#' @param versions Character vector, package versions to add.
+#' @param new_package Logical scalar, whether the package is new. If
+#'   the package is new, then its repo does not exists (yet) on GitHub.
+#' @param timeline The full timeline of the package, from crandb.
+#'
+#' @keywords internal
 
 add_missing_versions <- function(package, versions, new_package, timeline) {
 
@@ -57,6 +75,21 @@ add_missing_versions <- function(package, versions, new_package, timeline) {
 }
 
 
+#' Add a single missing version of a package to the GitHub mirror
+#'
+#' It assumes that the package's repository exists on GitHub,
+#' and that the working directory contains a clone of of it.
+#'
+#' It then downloads the specified version from CRAN and adds it
+#' to the local clone. Finally, it pushes the repo to GitHub.
+#'
+#' @param package Name of the package to update.
+#' @param version Character scalar, the version to add.
+#' @param date The exact date and time the version was built for CRAN.
+#' @return The package's metadata, i.e. the contents of the `DESCRIPTION`
+#'   file, in a `desciption` object, see the `description` package.
+#'
+#' @keywords internal
 #' @importFrom description description
 #' @importFrom utils untar
 
