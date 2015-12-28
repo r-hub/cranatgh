@@ -73,3 +73,7 @@ dont_break <- function(...) {
 nullna_or <- function(x, expr) {
   if (is.null(x) || (length(x) == 1 && is.na(x))) "" else expr
 }
+
+fix_maintainer <- function(x) {
+  sub("\\s*<", " <", x)
+}
