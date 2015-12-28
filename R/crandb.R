@@ -69,6 +69,7 @@ make_description <- function(pkg) {
 
   } else if (is(pkg, "description")) {
     pkg <- list(
+      Package = pkg$get("Package"),
       Title = pkg$get("Title"),
       URL = pkg$get("URL"),
       BugReports = pkg$get("BugReports")
@@ -82,7 +83,7 @@ make_description <- function(pkg) {
     sep = "  ",
     dont_break(":exclamation: This is a read-only mirror of the CRAN R package repository."),
     dont_break(
-      pkg, " \u2014 ", pkg$Title,
+      pkg$Package, " \u2014 ", pkg$Title,
       null_or(pkg$URL, paste0(". Homepage: ", pkg$URL))
     ),
     null_or(pkg$BugReports, dont_break("Report bugs for this package: ", pkg$BugReports))
