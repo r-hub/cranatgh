@@ -75,5 +75,7 @@ nullna_or <- function(x, expr) {
 }
 
 fix_maintainer <- function(x) {
-  sub("\\s*<", " <", x)
+  x <- sub("\\s*<", " <", x)
+  x <- gsub("'", "\\\\'", x)
+  x
 }
