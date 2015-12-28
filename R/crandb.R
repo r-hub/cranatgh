@@ -63,7 +63,7 @@ get_all_cran_packages <- function() {
 make_description <- function(pkg) {
   if (is.character(pkg)) {
     pkg <- tryCatch(
-      package(package),
+      package(pkg),
       error = function(e) NULL
     )
 
@@ -82,7 +82,7 @@ make_description <- function(pkg) {
     sep = "  ",
     dont_break(":exclamation: This is a read-only mirror of the CRAN R package repository."),
     dont_break(
-      package, " \u2014 ", pkg$Title,
+      pkg, " \u2014 ", pkg$Title,
       null_or(pkg$URL, paste0(". Homepage: ", pkg$URL))
     ),
     null_or(pkg$BugReports, dont_break("Report bugs for this package: ", pkg$BugReports))
