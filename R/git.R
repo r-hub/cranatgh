@@ -48,3 +48,10 @@ create_git_repo <- function(package) {
   setwd(package)
   git("init", ".")
 }
+
+set_git_user <- function(package) {
+  with_wd(package, {
+    git("config", "--local", "user.name", "cran-robot")
+    git("config", "--local", "user.email", "csardi.gabor+cran@gmail.com")
+  })
+}

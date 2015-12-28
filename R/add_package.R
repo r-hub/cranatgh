@@ -63,6 +63,8 @@ add_missing_versions <- function(package, versions, new_package, timeline) {
     clone_git_repo(package)
   }
 
+  set_git_user(package)
+
   for (ver in versions) {
     metadata <- add_missing_version(package, ver, timeline[[ver]])
   }
