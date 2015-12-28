@@ -70,6 +70,6 @@ dont_break <- function(...) {
 #'
 #' @keywords internal
 
-null_or <- function(x, expr) {
-  if (is.null(x)) "" else expr
+nullna_or <- function(x, expr) {
+  if (is.null(x) || (length(x) == 1 && is.na(x))) "" else expr
 }

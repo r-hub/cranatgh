@@ -84,9 +84,9 @@ make_description <- function(pkg) {
     dont_break(":exclamation: This is a read-only mirror of the CRAN R package repository."),
     dont_break(
       pkg$Package, " \u2014 ", pkg$Title,
-      null_or(pkg$URL, paste0(". Homepage: ", pkg$URL))
+      nullna_or(pkg$URL, paste0(". Homepage: ", pkg$URL))
     ),
-    null_or(pkg$BugReports, dont_break("Report bugs for this package: ", pkg$BugReports))
+    nullna_or(pkg$BugReports, dont_break("Report bugs for this package: ", pkg$BugReports))
   )
 }
 
