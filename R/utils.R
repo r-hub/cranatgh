@@ -76,6 +76,13 @@ nullna_or <- function(x, expr) {
 
 fix_maintainer <- function(x) {
   x <- sub("\\s*<", " <", x)
-  x <- gsub("'", "\\\\'", x)
+
+  ## ': end of single quote
+  ## ": start of double quote
+  ## ': single quote (within double quotes)
+  ## ": end of double quote
+  ## ': start of single quote for the rest of the string
+  x <- gsub("'", paste0("'", '"', "'", '"', "'"), x)
+
   x
 }
