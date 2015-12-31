@@ -3,4 +3,4 @@
 #'
 #' @keywords internal
 
-cran_mirror <- "http://cran.rstudio.com"
+cran_mirror <- "http://cran.r-project.org"
