@@ -101,7 +101,8 @@ add_missing_version <- function(package, version, date) {
   file.rename(file.path(package, ".git"), "dot-git")
 
   ## Remove everything from the old version
-  ## TODO
+  unlink(package, recursive = TRUE, force = TRUE)
+  dir.create(package)
 
   ## Put the new version in place
   tar_file <- get_package_tarball(package, version)
