@@ -97,24 +97,36 @@ add_missing_versions <- function(package, versions, new_package, timeline) {
 
 add_missing_version <- function(package, version, date) {
 
+  ## Rename the .git directory. We'll need it later
   file.rename(file.path(package, ".git"), "dot-git")
 
+  ## Remove everything from the old version
+  ## TODO
+
+  ## Put the new version in place
   tar_file <- get_package_tarball(package, version)
   untar(tar_file)
   unlink(tar_file)
 
+  ## Put back the .git directory
+  ## The unlink is for the occasional case when there is already
+  ## a .git directory in the package. This is junk anyway, and it
+  ## should not be there
   unlink(file.path(package, ".git"))
   file.rename("dot-git", file.path(package, ".git"))
 
   setwd(package)
   on.exit(setwd(".."), add = TRUE)
 
+  ## Add all the new files
   git("status")
   git("add", "-A", ".")
   git("status")
 
+  ## Package information from DESCRIPTION
   metadata <- description$new()
 
+  ## Commit the new version
   git(
     env = paste0("GIT_COMMITTER_DATE='", date, "'"),
     "commit",
