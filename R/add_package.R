@@ -11,13 +11,17 @@
 #' then it is created.
 #'
 #' @param package Name of the package
+#' @param reset Whether to remove and re-add all the commits.
+#'   This is useful for commit errors, e.g. an older version of
+#'   cranatgh failed to remove files from the repo that were
+#'   deleted in the new package versions.
 #' @return Invisible `TRUE` if the package was successfully updated,
 #'   `FALSE` otherwise.
 #'
 #' @importFrom gh gh
 #' @export
 
-add_package <- function(package) {
+add_package <- function(package, reset = FALSE) {
 
   crandb_timeline <- get_crandb_timeline(package)
   crandb_versions <- setdiff(names(crandb_timeline), "archived")
@@ -27,15 +31,23 @@ add_package <- function(package) {
     stop("Package not in CRANDB, how is this possible?")
   }
 
-  missing_versions <- setdiff(crandb_versions, github_versions)
+  missing_versions <- if (reset) {
+    crandb_versions
+  } else {
+    setdiff(crandb_versions, github_versions)
+  }
 
+  ## Note that if reset == TRUE, then all versions are missing,
+  ## but new_package will be still FALSE, because we don't need
+  ## to create the GitHub repo
   with_tempdir(
     {
       add_missing_versions(
         package,
         missing_versions,
         new_package = length(github_versions) == 0,
-        timeline = crandb_timeline
+        timeline = crandb_timeline,
+        reset = reset
       )
     }
   )
@@ -45,19 +57,20 @@ add_package <- function(package) {
 
 #' Add some (or all) versions of a package to the GitHub mirror
 #'
-#' @param package Name of the package to update.
 #' @param versions Character vector, package versions to add.
 #' @param new_package Logical scalar, whether the package is new. If
 #'   the package is new, then its repo does not exists (yet) on GitHub.
 #' @param timeline The full timeline of the package, from crandb.
-#'
+#' @inheritParams add_package
+#' 
 #' @keywords internal
 
-add_missing_versions <- function(package, versions, new_package, timeline) {
+add_missing_versions <- function(package, versions, new_package,
+                                 timeline, reset) {
 
   if (length(versions) == 0) return()
 
-  if (new_package) {
+  if (new_package || reset) {
     create_git_repo(package)
   } else {
     clone_git_repo(package)
@@ -71,7 +84,7 @@ add_missing_versions <- function(package, versions, new_package, timeline) {
 
   if (new_package) create_gh_repo(package, make_description(metadata))
 
-  push_to_github(package)
+  push_to_github(package, forced_push = reset)
 
   if (!new_package) update_description(package, make_description(metadata))
 }

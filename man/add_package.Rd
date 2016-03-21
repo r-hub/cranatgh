@@ -4,10 +4,15 @@
 \alias{add_package}
 \title{Add or update a package in CRAN @ GitHub}
 \usage{
-add_package(package)
+add_package(package, reset = FALSE)
 }
 \arguments{
 \item{package}{Name of the package}
+
+\item{reset}{Whether to remove and re-add all the commits.
+This is useful for commit errors, e.g. an older version of
+cranatgh failed to remove files from the repo that were
+deleted in the new package versions.}
 }
 \value{
 Invisible `TRUE` if the package was successfully updated,

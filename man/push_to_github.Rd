@@ -4,10 +4,12 @@
 \alias{push_to_github}
 \title{Push the package to GitHub}
 \usage{
-push_to_github(package)
+push_to_github(package, forced_push)
 }
 \arguments{
 \item{package}{Package name.}
+
+\item{forced_push}{Whether to make a forced push.}
 }
 \value{
 Output of the command line git call.

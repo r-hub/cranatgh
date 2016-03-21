@@ -77,18 +77,19 @@ clone_git_repo <- function(package) {
 #' Push the package to GitHub
 #'
 #' @param package Package name.
+#' @param forced_push Whether to make a forced push.
 #' @return Output of the command line git call.
 #'
 #' @keywords internal
 
-push_to_github <- function(package) {
+push_to_github <- function(package, forced_push) {
   wd <- getwd()
   on.exit(setwd(wd), add = TRUE)
   setwd(package)
 
   add_gh_remote(package)
 
-  git("push", "--tags", "-u", "origin", "master")
+  git("push", "--tags", if (forced_push) "-f", "-u", "origin", "master")
 }
 
 #' Add a CRAN at GitHub remote to a local git tree

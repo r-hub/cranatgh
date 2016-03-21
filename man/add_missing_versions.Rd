@@ -4,10 +4,10 @@
 \alias{add_missing_versions}
 \title{Add some (or all) versions of a package to the GitHub mirror}
 \usage{
-add_missing_versions(package, versions, new_package, timeline)
+add_missing_versions(package, versions, new_package, timeline, reset)
 }
 \arguments{
-\item{package}{Name of the package to update.}
+\item{package}{Name of the package}
 
 \item{versions}{Character vector, package versions to add.}
 
@@ -15,6 +15,11 @@ add_missing_versions(package, versions, new_package, timeline)
 the package is new, then its repo does not exists (yet) on GitHub.}
 
 \item{timeline}{The full timeline of the package, from crandb.}
+
+\item{reset}{Whether to remove and re-add all the commits.
+This is useful for commit errors, e.g. an older version of
+cranatgh failed to remove files from the repo that were
+deleted in the new package versions.}
 }
 \description{
 Add some (or all) versions of a package to the GitHub mirror
