@@ -105,7 +105,7 @@ add_missing_versions <- function(package, versions, new_package,
 #'   file, in a `desciption` object, see the `description` package.
 #'
 #' @keywords internal
-#' @importFrom description description
+#' @importFrom desc description
 #' @importFrom utils untar
 
 add_missing_version <- function(package, version, date) {

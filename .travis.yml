@@ -10,7 +10,7 @@ before_install:
   - ./pkg-build.sh bootstrap
 
 install:
-  - ./pkg-build.sh install_github gaborcsardi/gh metacran/crandb metacran/description
+  - ./pkg-build.sh install_github gaborcsardi/gh metacran/crandb
   - ./pkg-build.sh install_github jimhester/covr
   - ./pkg-build.sh install_deps
 
