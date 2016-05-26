@@ -144,10 +144,16 @@ remove_gh_repo <- function(package) {
 create_gh_repo <- function(package,
                            description = make_description(package)) {
 
-  gh("POST /orgs/:org/repos",
-    org = get_gh_owner(),
-    name = package,
-    description = description
+  tryCatch(
+    gh(
+      "POST /orgs/:org/repos",
+      org = get_gh_owner(),
+      name = package,
+      description = description
+    ),
+    error = function(e) {
+      warning("Cannot create GH repo, already exists? ", e)
+    }
   )
 }
 
