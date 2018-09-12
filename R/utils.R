@@ -74,6 +74,10 @@ nullna_or <- function(x, expr) {
   if (is.null(x) || (length(x) == 1 && is.na(x))) "" else expr
 }
 
+str_trim <- function(x) {
+  sub("\\s$", "", sub("^\\s+", "", x))
+}
+
 fix_maintainer <- function(x) {
   x <- sub("\\s*<", " <", x)
 
@@ -83,6 +87,10 @@ fix_maintainer <- function(x) {
   ## ": end of double quote
   ## ': start of single quote for the rest of the string
   x <- gsub("'", paste0("'", '"', "'", '"', "'"), x)
+
+  if (toupper(x) == "ORPHANED") {
+    x <- str_trim(git("config", "user.email")$stdout)
+  }
 
   x
 }
