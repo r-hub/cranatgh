@@ -18,4 +18,3 @@ If there is already a remote called \code{origin}, then
 nothing is done.
 }
 \keyword{internal}
-

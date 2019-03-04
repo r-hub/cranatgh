@@ -22,4 +22,3 @@ Return value of the expression.
 Run an expression in a temporary directory
 }
 \keyword{internal}
-

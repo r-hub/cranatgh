@@ -2,7 +2,7 @@
 % Please edit documentation in R/crandb.R
 \name{metacran_url}
 \alias{metacran_url}
-\title{Get the Metacran (\url{http://www.r-pkg.org} URL of a package}
+\title{Get the Metacran (\url{https://www.r-pkg.org} URL of a package}
 \usage{
 metacran_url(package)
 }
@@ -13,7 +13,6 @@ metacran_url(package)
 The Metacran URL.
 }
 \description{
-Get the Metacran (\url{http://www.r-pkg.org} URL of a package
+Get the Metacran (\url{https://www.r-pkg.org} URL of a package
 }
 \keyword{internal}
-

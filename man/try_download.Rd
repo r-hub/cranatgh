@@ -19,4 +19,3 @@ It tries to write the file directly on disk.
 Unsuccessful downloads result an error.
 }
 \keyword{internal}
-

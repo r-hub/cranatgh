@@ -8,4 +8,3 @@
 \description{
 The machinery behind the 'CRAN' mirror at \url{https://github.com/cran}.
 }
-

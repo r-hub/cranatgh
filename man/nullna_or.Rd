@@ -19,4 +19,3 @@ If \code{x} is \code{NULL}, then an empty string is returned,
 otherwise \code{expr}.
 }
 \keyword{internal}
-

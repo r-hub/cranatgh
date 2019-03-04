@@ -15,4 +15,3 @@ It is taken from the \code{GITHUB_TOKEN} environment
 variable.
 }
 \keyword{internal}
-

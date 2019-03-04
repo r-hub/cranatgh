@@ -25,4 +25,3 @@ deleted in the new package versions.}
 Add some (or all) versions of a package to the GitHub mirror
 }
 \keyword{internal}
-

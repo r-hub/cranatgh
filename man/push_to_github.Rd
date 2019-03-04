@@ -18,4 +18,3 @@ Output of the command line git call.
 Push the package to GitHub
 }
 \keyword{internal}
-

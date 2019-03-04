@@ -16,4 +16,3 @@ The return value of the call to git.
 Create an empty local git tree
 }
 \keyword{internal}
-

@@ -16,4 +16,3 @@ Character vector of version numbers.
 Get all versions of a package in the GitHub mirror
 }
 \keyword{internal}
-

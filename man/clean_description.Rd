@@ -16,4 +16,3 @@ Character scalr. Cleaned up description.
 Currently it just removes newline characters.
 }
 \keyword{internal}
-

@@ -16,4 +16,3 @@ Character.
 Replace are whitespace with non-breakable space in a string
 }
 \keyword{internal}
-

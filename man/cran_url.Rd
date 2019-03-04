@@ -16,4 +16,3 @@ Character scalar, the URL.
 Get the URL of a CRAN package
 }
 \keyword{internal}
-

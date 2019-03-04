@@ -14,4 +14,3 @@ This is only used for the unit tests. Otherwise we don't remove
 repositories from GitHub, even if a package is archived.
 }
 \keyword{internal}
-

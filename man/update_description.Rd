@@ -14,4 +14,3 @@ update_description(package, description = make_description(package))
 \description{
 Updates the repostory description and homepage.
 }
-

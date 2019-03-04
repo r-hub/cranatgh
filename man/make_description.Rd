@@ -20,4 +20,3 @@ non-breaking space characters, and this results for a nice
 multi-line description for most packages.
 }
 \keyword{internal}
-

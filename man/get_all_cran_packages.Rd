@@ -13,4 +13,3 @@ Character vector of all active CRAN packages.
 All active packages on CRAN
 }
 \keyword{internal}
-

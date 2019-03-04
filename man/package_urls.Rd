@@ -18,4 +18,3 @@ Character vector of URLs.
 Possible download URLs for CRAN packages
 }
 \keyword{internal}
-

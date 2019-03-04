@@ -13,4 +13,3 @@ Character scalar.
 The GitHub repository or organization of the mirror
 }
 \keyword{internal}
-

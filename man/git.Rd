@@ -21,4 +21,3 @@ System git must be properly installed and it must be in the
 \code{PATH}.
 }
 \keyword{internal}
-

@@ -13,4 +13,3 @@ A list of results. For successful updates \code{TRUE}.
 \description{
 Update all (active) CRAN packages
 }
-

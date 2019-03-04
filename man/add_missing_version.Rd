@@ -26,4 +26,3 @@ It then downloads the specified version from CRAN and adds it
 to the local clone. Finally, it pushes the repo to GitHub.
 }
 \keyword{internal}
-

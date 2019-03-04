@@ -15,4 +15,3 @@ create_gh_repo(package, description = make_description(package))
 Create a repository for a package at GitHub
 }
 \keyword{internal}
-

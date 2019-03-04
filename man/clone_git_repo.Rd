@@ -16,4 +16,3 @@ Output of the command line git call.
 Clone a repository from the GitHub CRAN mirror
 }
 \keyword{internal}
-

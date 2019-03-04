@@ -18,4 +18,3 @@ and empty string is returned. Otherwise \code{x}
 is returned.
 }
 \keyword{internal}
-

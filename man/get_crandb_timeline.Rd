@@ -19,4 +19,3 @@ The timeline, in a named list, where names are
 Get the timeline of a package from crandb
 }
 \keyword{internal}
-

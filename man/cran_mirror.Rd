@@ -12,4 +12,3 @@ cran_mirror
 The CRAN mirror to use for package downloads
 }
 \keyword{internal}
-

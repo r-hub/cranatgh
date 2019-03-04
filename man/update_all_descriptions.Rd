@@ -21,4 +21,3 @@ A list of results. For successful updates the
 \description{
 Update the repository description of some packages
 }
-
