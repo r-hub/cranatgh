@@ -3,4 +3,4 @@
 #'
 #' @keywords internal
 
-crandb_url <- "http://crandb.r-pkg.org"
+crandb_url <- "https://crandb.r-pkg.org"

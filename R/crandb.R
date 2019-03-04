@@ -98,10 +98,10 @@ make_description <- function(pkg) {
 #' @keywords internal
 
 cran_url <- function(package) {
-  paste0("http://cran.r-project.org/web/packages/", package)
+  paste0("https://cloud.r-project.org/web/packages/", package)
 }
 
-#' Get the Metacran (\url{http://www.r-pkg.org} URL of a package
+#' Get the Metacran (\url{https://www.r-pkg.org} URL of a package
 #'
 #' @param package Package name.
 #' @return The Metacran URL.
@@ -109,5 +109,5 @@ cran_url <- function(package) {
 #' @keywords internal
 
 metacran_url <- function(package) {
-  paste0("http://www.r-pkg.org/pkg/", package)
+  paste0("https://www.r-pkg.org/pkg/", package)
 }
