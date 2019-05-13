@@ -8,11 +8,11 @@
 #'   \code{archived} is included for archived packages.
 #'
 #' @keywords internal
-#' @importFrom crandb package
+#' @importFrom pkgsearch cran_package
 
 get_crandb_timeline <- function(package) {
   crandb_versions <- tryCatch(
-    package(package, "all"),
+    pkgsearch::cran_package(package, "all"),
     error = function(e) NULL
   )
   crandb_versions$timeline
@@ -25,11 +25,11 @@ get_crandb_timeline <- function(package) {
 #'   in crandb, \code{NULL} is returned.
 #'
 #' @keywords internal
-#' @importFrom crandb package
+#' @importFrom pkgsearch cran_package
 
 get_crandb_versions <- function(package) {
   crandb_versions <- tryCatch(
-    package(package, "all"),
+    pksearch::cran_package(package, "all"),
     error = function(e) NULL
   )
   names(crandb_versions$timeline)
@@ -40,10 +40,10 @@ get_crandb_versions <- function(package) {
 #' @return Character vector of all active CRAN packages.
 #'
 #' @keywords internal
-#' @importFrom crandb list_packages
+#' @importFrom pkgsearch list_packages
 
 get_all_cran_packages <- function() {
-  names(list_packages(format = "short", limit = 1000000L))
+  names(pkgsearch::list_packages(format = "short", limit = 1000000L))
 }
 
 #' Create a GitHub description string for a package
@@ -58,12 +58,12 @@ get_all_cran_packages <- function() {
 #'   description.
 #'
 #' @keywords internal
-#' @importFrom crandb package
+#' @importFrom pkgsearch cran_package
 
 make_description <- function(pkg) {
   if (is.character(pkg)) {
     pkg <- tryCatch(
-      package(pkg),
+      pkgsearch::cran_package(pkg),
       error = function(e) NULL
     )
 

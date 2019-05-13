@@ -7,7 +7,7 @@ test_that("get_crandb_versions", {
   if (!is_online()) skip("Cannot reach GitHub")
 
   with_mock(
-    `crandb::package` = crandb_igraph,
+    `pkgsearch::cran_package` = crandb_igraph,
 
     expect_equal(
       get_crandb_versions("igraph"),
@@ -28,7 +28,7 @@ test_that("get_crandb_versions for non-exixting packages", {
   if (!is_online()) skip("Cannot reach GitHub")
 
   with_mock(
-    `crandb::package` = function(...) stop("does not exist"),
+    `pkgsearch::cran_package` = function(...) stop("does not exist"),
 
     expect_equal(
       get_crandb_versions("444"),

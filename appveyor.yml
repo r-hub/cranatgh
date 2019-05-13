@@ -13,7 +13,7 @@ install:
 # Adapt as necessary starting from here
 
 build_script:
-  - travis-tool.sh install_github gaborcsardi/gh metacran/crandb
+  - travis-tool.sh install_github r-lib/gh r-hub/pkgsearch
   - travis-tool.sh install_deps
 
 test_script:
