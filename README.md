@@ -1,6 +1,3 @@
-
-
-
 # cranatgh
 
 > 'CRAN' mirror at 'GitHub'
@@ -15,18 +12,14 @@ The machinery behind the 'CRAN' mirror at &lt;https://github.com/cran&gt;.
 
 ## Installation
 
-
 ```r
-devtools::install_github("metacran/cranatgh")
+remotes::install_github("metacran/cranatgh")
 ```
 
 ## Usage
 
-
-```r
-library(cranatgh)
-```
+`cranatgh` is used in the [web app that triggers Jenkins updates for CRAN @ GitHub  ](https://github.com/metacran/cranatgh.app). These updates are [triggered every minute](https://github.com/metacran/cron/blob/master/minutely/update-crandb.r#L28).
 
 ## License
 
-MIT © [Gabor Csardi](https://github.com/gaborcsardi).
+MIT © [Gábor Csárdi](https://github.com/gaborcsardi), [R Consortium](https://www.r-consortium.org/).
