@@ -1,51 +1,17 @@
 
-#' Run an expression in a temporary directory
-#'
-#' @param expr Expression to evaluate.
-#' @param tmpdir Temporary directory to evaluate it in. By default
-#'   a new temporary direcotory is created.
-#' @param remove Whether to remove the temporary directory
-#'   after the expression is evaluated.
-#' @return Return value of the expression.
-#'
-#' @keywords internal
+`%||%` <- function(l, r) if (is.null(l)) r else l
 
-with_tempdir <- function(expr, tmpdir = tempfile(), remove = TRUE) {
+cran_mirror <- "https://cloud.r-project.org"
 
-  if (remove) on.exit(unlink(tmpdir, recursive = TRUE), add = TRUE)
-  if (!file.exists(tmpdir)) dir.create(tmpdir)
-
-  with_wd(tmpdir, expr)
-}
-
-#' Run an expression with a different working directory
-#'
-#' @param wd Temporary working directory to use.
-#' @param expr Expression to evaluate.
-#' @return Return value of the expression.
-#'
-#' @keywords internal
-
-with_wd <- function(wd, expr) {
-  old_wd <- getwd()
-  on.exit(setwd(old_wd), add = TRUE)
-  setwd(wd)
-  expr
-}
-
-#' Empty sting from \code{NA}
-#'
-#' If \code{x} is a single \code{NA} (any mode),
-#' and empty string is returned. Otherwise \code{x}
-#' is returned.
-#'
-#' @param x Input.
-#' @return \code{x} or and empty string.
-#'
-#' @keywords internal
-
-na_to_empty <- function(x) {
-  if (length(x) == 1 && is.na(x)) "" else x
+set_names <- function(x, nms) {
+  stopifnot(
+    length(x) == length(nms),
+    is.character(nms),
+    all(!is.na(nms)),
+    all(nms != "")
+  )
+  names(x) <- nms
+  x
 }
 
 #' Replace are whitespace with non-breakable space in a string
@@ -74,10 +40,6 @@ nullna_or <- function(x, expr) {
   if (is.null(x) || (length(x) == 1 && is.na(x))) "" else expr
 }
 
-str_trim <- function(x) {
-  sub("\\s$", "", sub("^\\s+", "", x))
-}
-
 fix_maintainer <- function(x) {
   x <- sub("\\s*<", " <", x)
 
@@ -88,9 +50,6 @@ fix_maintainer <- function(x) {
   ## ': start of single quote for the rest of the string
   x <- gsub("'", paste0("'", '"', "'", '"', "'"), x)
 
-  if (toupper(x) == "ORPHANED") {
-    x <- str_trim(git("config", "user.email")$stdout)
-  }
-
+  if (toupper(x) == "ORPHANED") x <- "cran@R-project.org"
   x
 }

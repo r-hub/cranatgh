@@ -1,4 +1,24 @@
 
+default_cranatgh_user <- function() {
+  Sys.getenv("CRANATGH_USER", "cran-robot")
+}
+
+default_cranatgh_email <- function() {
+  Sys.getenv("CRANATGH_EMAIL", "csardi.gabor+cran@gmail.com")
+}
+
+default_cranatgh_org <- function() {
+  Sys.getenv("CRANATGH_ORG", "cran")
+}
+
+default_tree_location <- function() {
+  Sys.getenv("CRANATGH_TREES", NA_character_)
+}
+
+default_local_mirror_directory <- function() {
+  Sys.getenv("CRANATGH_LOCAL_CRAN_MIRROR", NA_character_)
+}
+
 #' Get the token to be used for GitHub API calls
 #'
 #' It is taken from the \code{GITHUB_TOKEN} environment
@@ -10,16 +30,9 @@
 #' @keywords internal
 
 get_gh_token <- function() {
-  Sys.getenv("GITHUB_TOKEN", NA_character_)
+  token <- Sys.getenv("GITHUB_PAT", NA_character_)
+  if (is.na(token)) Sys.getenv("GITHUB_TOKEN", NA_character_) else token
 }
-
-#' The GitHub repository or organization of the mirror
-#'
-#' @return Character scalar.
-#'
-#' @keywords internal
-
-get_gh_owner <- function(package) "cran"
 
 #' The clone URL of a package at GitHub
 #'
@@ -32,7 +45,7 @@ get_gh_owner <- function(package) "cran"
 
 get_clone_url <- function(package) {
 
-  owner <- get_gh_owner(package)
+  owner <- default_cranatgh_org()
   token <- get_gh_token()
   token <- if (is.na(token)) "" else paste0(token, "@")
 
@@ -59,7 +72,7 @@ get_github_versions <- function(package) {
   github_versions <- vapply(github_versions, "[[", FUN.VALUE = "", "name")
   github_versions <- grep("R-", github_versions, value = TRUE, invert = TRUE)
 
-  github_versions
+  rev(github_versions)
 }
 
 #' Clone a repository from the GitHub CRAN mirror
@@ -82,7 +95,7 @@ clone_git_repo <- function(package) {
 #'
 #' @keywords internal
 
-push_to_github <- function(package, forced_push) {
+push_to_github <- function(package, forced_push = FALSE) {
   wd <- getwd()
   on.exit(setwd(wd), add = TRUE)
   setwd(package)
@@ -128,7 +141,7 @@ remove_gh_repo <- function(package) {
 
   gh(
     "DELETE /repos/:owner/:repo",
-    owner = get_gh_owner(package),
+    owner = default_cranatgh_org(),
     repo = package
   )
 }
@@ -147,7 +160,7 @@ create_gh_repo <- function(package,
   tryCatch(
     gh(
       "POST /orgs/:org/repos",
-      org = get_gh_owner(),
+      org = default_cranatgh_org(),
       name = package,
       description = description
     ),
@@ -173,7 +186,7 @@ update_description <- function(package,
   description <- clean_description(description)
 
   gh("PATCH /repos/:owner/:repo",
-     owner = get_gh_owner(),
+     owner = default_cranatgh_org(),
      repo = package,
      name = package,
      description = description,

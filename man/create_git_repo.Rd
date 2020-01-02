@@ -4,7 +4,7 @@
 \alias{create_git_repo}
 \title{Create an empty local git tree}
 \usage{
-create_git_repo(package)
+create_git_repo(path)
 }
 \arguments{
 \item{package}{Package name, directory to create a git tree in.}
@@ -13,6 +13,6 @@ create_git_repo(package)
 The return value of the call to git.
 }
 \description{
-Create an empty local git tree
+Created within the current working directory.
 }
 \keyword{internal}

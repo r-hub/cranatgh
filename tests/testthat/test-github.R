@@ -3,41 +3,33 @@ context("GitHub related")
 
 test_that("get_github_versions", {
 
-  skip_on_cran()
-  if (!is_online()) skip("Cannot reach GitHub")
+  if (!has_gh_access()) skip("Cannot reach GitHub")
+  skip_github_tests()
 
-  with_mock(
-    `gh::gh` = github_testthat,
-
-    expect_equal(
-      get_github_versions("testthat"),
-      c("0.10.0", "0.9.1", "0.9", "0.8.1", "0.8", "0.7.1", "0.7", "0.6",
-        "0.5", "0.4", "0.3", "0.2", "0.1.1", "0.1")
-    )
+  expect_equal(
+    get_github_versions("igraph0"),
+    c("0.5.5-1", "0.5.5-2", "0.5.5-3", "0.5.5", "0.5.6-1", "0.5.6-2",
+      "0.5.6", "0.5.7")
   )
 })
 
 
 test_that("get_github_versions with package not on github", {
 
-  skip_on_cran()
-  if (!is_online()) skip("Cannot reach GitHub")
+  if (!has_gh_access()) skip("Cannot reach GitHub")
+  skip_github_tests()
 
-  with_mock(
-    `gh::gh` = function(...) stop("does not exist"),
-
-    expect_equal(
-      get_github_versions("444"),
-      character()
-    )
+  expect_equal(
+    get_github_versions("dfgd--gsdfgxfg444"),
+    character()
   )
 })
 
 
 test_that("clone_git_repo", {
 
-  skip_on_cran()
-  if (!is_online()) skip("Cannot reach GitHub")
+  if (!has_gh_access()) skip("Cannot reach GitHub")
+  skip_github_tests()
 
   tmpdir <- tempfile()
   with_tempdir(
@@ -49,35 +41,23 @@ test_that("clone_git_repo", {
       expect_true(file.info(file.path(tmpdir, "crayon", ".git"))$isdir)
     }
   )
-
 })
 
 
 test_that("add_gh_remote", {
 
-  skip_on_cran()
-  if (!is_online()) skip("Cannot reach GitHub")
+  if (!has_gh_access()) skip("Cannot reach GitHub")
+  skip_github_tests()
 
   with_tempdir({
     git("init", ".")
     cat("test", file = "test.txt")
     git("add", "test.txt")
     git("commit", "-m", "testing")
-
-    with_mock(
-      `cranatgh::get_clone_url` =
-        function(...) "git@github.com:gaborcsardi/playground.git",
-
-      add_gh_remote("foobar")
-    )
+    add_gh_remote("foobar")
     expect_true(grepl("origin", git("remote")$stdout, fixed = TRUE))
 
-    with_mock(
-      `cranatgh::get_clone_url` =
-        function(...) "git@github.com:gaborcsardi/playground.git",
-
-      expect_silent(add_gh_remote("foobar"))
-    )
+    expect_silent(add_gh_remote("foobar"))
     expect_true(grepl("origin", git("remote")$stdout, fixed = TRUE))
   })
 })
@@ -85,9 +65,8 @@ test_that("add_gh_remote", {
 
 test_that("create_gh_repo", {
 
-  skip_on_cran()
-  if (!is_online()) skip("Cannot reach GitHub")
-  if (is.na(get_gh_token())) skip("Need to set GITHUB_TOKEN")
+  if (!has_gh_access()) skip("Cannot reach GitHub")
+  skip_github_tests()
 
   with_tempdir({
     git("init", ".")
@@ -95,97 +74,66 @@ test_that("create_gh_repo", {
     git("add", "test.txt")
     git("commit", "-m", "testing")
 
-    with_mock(
-      `cranatgh::get_clone_url` =
-        function(...) "git@github.com:metacran/cranatghtest.git",
-      `cranatgh::get_gh_owner` = function(...) "metacran",
-      try(remove_gh_repo("cranatghtest"), silent = TRUE)
-    )
+    package <- paste0("cranatghtest", get_random_id())
 
-    expect_error(
-      gh::gh("/repos/metacran/cranatghtest"),
-      "GitHub API error"
-    )
+    ## order matters here, because remove_gh_repo() uses the env var
+    on.exit(try(remove_gh_repo(package)), add = TRUE)
+    withr::local_envvar(c("CRANATGH_ORG" = "metacran"))
 
-    with_mock(
-      `cranatgh::get_clone_url` =
-        function(...) "git@github.com:metacran/cranatghtest.git",
-      `cranatgh::get_gh_owner` = function(...) "metacran",
-      create_gh_repo("cranatghtest", description = "just testing")
-    )
+    create_gh_repo(package, description = "just testing")
 
-    x <- gh::gh("/repos/metacran/cranatghtest")
-    expect_equal(x$name, "cranatghtest")
+    x <- gh::gh("/repos/metacran/:repo", repo = package)
+    expect_equal(x$name, package)
   })
 })
 
 
 test_that("push_to_github", {
 
-  skip_on_cran()
-  if (!is_online()) skip("Cannot reach GitHub")
-  if (is.na(get_gh_token())) skip("Need to set GITHUB_TOKEN")
+  if (!has_gh_access()) skip("Cannot reach GitHub")
+  skip_github_tests()
+
+  package <- paste0("cranatghtest", get_random_id())
 
   with_tempdir({
-    dir.create("cranatghtest")
-    setwd("cranatghtest")
+    dir.create(package)
+    setwd(package)
     git("init", ".")
     cat("test", file = "test.txt")
     git("add", "test.txt")
     git("commit", "-m", "testing")
     setwd("..")
 
-    with_mock(
-      `cranatgh::get_clone_url` =
-        function(...) "git@github.com:metacran/cranatghtest.git",
-      `cranatgh::get_gh_owner` = function(...) "metacran",
-      try(remove_gh_repo("cranatghtest"), silent = TRUE),
-      create_gh_repo("cranatghtest", description = "just testing")
-    )
+    ## order matters here, because remove_gh_repo() uses the env var
+    on.exit(try(remove_gh_repo(package)), add = TRUE)
+    withr::local_envvar(c("CRANATGH_ORG" = "metacran"))
 
-    with_mock(
-      `cranatgh::get_clone_url` =
-        function(...) {
-          sprintf(
-            "https://%s@github.com/metacran/cranatghtest.git",
-            get_gh_token()
-          )
-        },
-      `cranatgh::get_gh_owner` = function(...) "metacran",
-      push_to_github("cranatghtest")
-    )
+    create_gh_repo(package, description = "just testing")
+    push_to_github(package)
 
-    setwd("cranatghtest")
+    setwd(package)
     expect_true(grepl("origin", git("remote")$stdout, fixed = TRUE))
 
-    x <- gh::gh("/repos/metacran/cranatghtest/commits")
+    x <- gh::gh("/repos/metacran/:repo/commits", repo = package)
     expect_equal(length(x), 1)
-
   })
 })
 
 test_that("update_description", {
 
-  skip_on_cran()
-  if (!is_online()) skip("Cannot reach GitHub")
-  if (is.na(get_gh_token())) skip("Need to set GITHUB_TOKEN")
+  if (!has_gh_access()) skip("Cannot reach GitHub")
+  skip_github_tests()
 
-  with_mock(
-    `cranatgh::get_clone_url` =
-      function(...) "git@github.com:metacran/cranatghtest.git",
-    `cranatgh::get_gh_owner` = function(...) "metacran",
-    try(remove_gh_repo("cranatghtest"), silent = TRUE),
-    create_gh_repo("cranatghtest", description = "just testing")
-  )
+  package <- paste0("cranatghtest", get_random_id())
 
-  with_mock(
-    `cranatgh::get_clone_url` =
-      function(...) "git@github.com:metacran/cranatghtest.git",
-    `cranatgh::get_gh_owner` = function(...) "metacran",
-    update_description("cranatghtest", "new description")
-  )
+  ## order matters here, because remove_gh_repo() uses the env var
+  on.exit(try(remove_gh_repo(package)), add = TRUE)
+  withr::local_envvar(c("CRANATGH_ORG" = "metacran"))
 
-  x <- gh::gh("/repos/metacran/cranatghtest")
+  create_gh_repo(package, description = "just testing")
+
+  update_description(package, "new description")
+
+  x <- gh::gh("/repos/metacran/:repo", repo = package)
   expect_equal(x$description, "new description")
-
 })

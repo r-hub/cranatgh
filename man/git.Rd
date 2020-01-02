@@ -4,13 +4,15 @@
 \alias{git}
 \title{Run a git command using system git}
 \usage{
-git(..., env = character())
+git(..., env = character(), timeout = 60 * 60)
 }
 \arguments{
 \item{...}{Arguments to pass to git.}
 
 \item{env}{Named character vector, environment variables
 to set for git.}
+
+\item{timeout}{Timeout, in seconds, defaults to one hour.}
 }
 \value{
 A list containing the \code{status}, \code{stdout},
@@ -19,5 +21,8 @@ A list containing the \code{status}, \code{stdout},
 \description{
 System git must be properly installed and it must be in the
 \code{PATH}.
+}
+\details{
+It throws an error on error.
 }
 \keyword{internal}

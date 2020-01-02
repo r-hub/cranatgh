@@ -4,54 +4,49 @@
 #' System git must be properly installed and it must be in the
 #' \code{PATH}.
 #'
+#' It throws an error on error.
+#'
 #' @param ... Arguments to pass to git.
 #' @param env Named character vector, environment variables
 #'   to set for git.
+#' @param timeout Timeout, in seconds, defaults to one hour.
 #' @return A list containing the \code{status}, \code{stdout},
 #'   \code{stderr} of the system git command.
 #'
 #' @keywords internal
 
-git <- function(..., env = character()) {
-
-  stdout <- tempfile()
-  stderr <- tempfile()
-
-  status <- system2(
+git <- function(..., env = character(), timeout = 60 * 60) {
+  processx::run(
     "git",
     args = unlist(list(...)),
-    env = env,
-    stdout = stdout,
-    stderr = stderr
-  )
-
-  if (status != 0) stop("Error: ", status, ", ", stderr)
-
-  list(
-    status = status,
-    stdout = readChar(stdout, file.info(stdout)$size),
-    stderr = readChar(stderr, file.info(stderr)$size)
+    env = c(Sys.getenv(), env)
   )
 }
 
 #' Create an empty local git tree
+#'
+#' Created within the current working directory.
 #'
 #' @param package Package name, directory to create a git tree in.
 #' @return The return value of the call to git.
 #'
 #' @keywords internal
 
-create_git_repo <- function(package) {
-  dir.create(package)
+create_git_repo <- function(path) {
+  dir.create(path)
   wd <- getwd()
   on.exit(setwd(wd), add = TRUE)
-  setwd(package)
+  setwd(path)
   git("init", ".")
 }
 
-set_git_user <- function(package) {
-  with_wd(package, {
-    git("config", "--local", "user.name", "cran-robot")
-    git("config", "--local", "user.email", "csardi.gabor+cran@gmail.com")
+set_git_user <- function(path, user = NULL, email = NULL) {
+
+  user <- user %||% default_cranatgh_user()
+  email <- email %||% default_cranatgh_email()
+
+  withr::with_dir(path, {
+    git("config", "--local", "user.name", user)
+    git("config", "--local", "user.email", email)
   })
 }

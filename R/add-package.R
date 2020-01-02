@@ -22,73 +22,81 @@
 #' @export
 
 add_package <- function(package, reset = FALSE) {
-
-  crandb_timeline <- get_crandb_timeline(package)
-  crandb_versions <- setdiff(names(crandb_timeline), "archived")
+  crandb_versions <- get_cran_versions(package)
   github_versions <- get_github_versions(package)
 
-  if (length(crandb_versions) == 0) {
-    stop("Package not in CRANDB, how is this possible?")
+  if (nrow(crandb_versions) == 0) {
+    warning("Package not in CRANDB")
+    return()
   }
 
   missing_versions <- if (reset) {
-    crandb_versions
+    crandb_versions$version
   } else {
-    setdiff(crandb_versions, github_versions)
+    setdiff(crandb_versions$version, github_versions)
   }
 
   ## Note that if reset == TRUE, then all versions are missing,
   ## but new_package will be still FALSE, because we don't need
   ## to create the GitHub repo
-  with_tempdir(
-    {
-      add_missing_versions(
-        package,
-        missing_versions,
-        new_package = length(github_versions) == 0,
-        timeline = crandb_timeline,
-        reset = reset
-      )
-    }
+  add_missing_versions(
+    package,
+    missing_versions,
+    new_package = length(github_versions) == 0,
+    timeline = crandb_versions,
+    reset = reset
   )
-
-  invisible(TRUE)
 }
+
 
 #' Add some (or all) versions of a package to the GitHub mirror
 #'
 #' @param versions Character vector, package versions to add.
 #' @param new_package Logical scalar, whether the package is new. If
 #'   the package is new, then its repo does not exists (yet) on GitHub.
-#' @param timeline The full timeline of the package, from crandb.
+#' @param timeline The full timeline of the package, from crandb, a two
+#'   column data frame, with columns "version" and "date".
 #' @inheritParams add_package
-#' 
+#'
 #' @keywords internal
 
 add_missing_versions <- function(package, versions, new_package,
                                  timeline, reset) {
 
-  if (length(versions) == 0) return()
+  if (length(versions) == 0) return(invisible())
 
-  if (new_package || reset) {
-    create_git_repo(package)
-  } else {
-    clone_git_repo(package)
-  }
+  oldwd <- getwd()
+  on.exit(setwd(oldwd), add = TRUE)
+  change_to_cranatgh_home()
+
+  if (new_package || reset) create_git_repo(package)
+
+  if (!file.exists(package)) clone_git_repo(package)
 
   set_git_user(package)
 
-  for (ver in versions) {
-    metadata <- add_missing_version(package, ver, timeline[[ver]])
+  for (idx in seq_along(versions)) {
+    ver <- timeline$version[idx]
+    ts <- timeline$date[idx]
+    metadata <- add_missing_version(package, ver, ts)
   }
 
-  if (new_package) create_gh_repo(package, make_description(metadata))
+  desc <- make_description(metadata)
+
+  if (new_package) create_gh_repo(package, desc)
 
   push_to_github(package, forced_push = reset)
 
-  if (!new_package) update_description(package, make_description(metadata))
+  if (!new_package) update_description(package, desc)
+
+  invisible()
 }
 
+change_to_cranatgh_home <- function() {
+  home <- default_tree_location()
+  if (is.na(home)) home <- tempdir()
+  setwd(home)
+}
 
 #' Add a single missing version of a package to the GitHub mirror
 #'
@@ -142,7 +150,7 @@ add_missing_version <- function(package, version, date) {
 
   ## Commit the new version
   git(
-    env = paste0("GIT_COMMITTER_DATE='", date, "'"),
+    env = c("GIT_COMMITTER_DATE" = date),
     "commit",
     "--allow-empty",
     "-m", paste0("'version ", version, "'"),
