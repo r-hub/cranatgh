@@ -68,7 +68,8 @@ get_github_versions <- function(package) {
       "/repos/:owner/:repo/tags",
       owner = "cran",
       repo = package,
-      .limit = Inf
+      .limit = Inf,
+      .token = get_gh_token()
     ),
     condition = function(e) list()
   )
@@ -154,7 +155,8 @@ remove_gh_repo <- function(package) {
   gh(
     "DELETE /repos/:owner/:repo",
     owner = default_cranatgh_org(),
-    repo = package
+    repo = package,
+    .token = get_gh_token()
   )
 }
 
@@ -174,7 +176,8 @@ create_gh_repo <- function(package,
       "POST /orgs/:org/repos",
       org = default_cranatgh_org(),
       name = package,
-      description = description
+      description = description,
+      .token = get_gh_token()
     ),
     error = function(e) {
       warning("Cannot create GH repo, already exists? ", e)
