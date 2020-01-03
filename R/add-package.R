@@ -161,9 +161,9 @@ add_missing_version <- function(package, version, date) {
     env = c("GIT_COMMITTER_DATE" = date),
     "commit",
     "--allow-empty",
-    "-m", paste0("'version ", version, "'"),
+    "-m", paste0("version ", version),
     "--date", date,
-    "--author", paste0("'", fix_maintainer(metadata$get_maintainer()), "'")
+    "--author", fix_maintainer(metadata$get_maintainer())
   )
 
   git("tag", version)
