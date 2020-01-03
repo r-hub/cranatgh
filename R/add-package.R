@@ -19,12 +19,14 @@
 #'   `FALSE` otherwise.
 #'
 #' @importFrom gh gh
+#' @importFrom cli cli_h2 cli_alert_info no
 #' @export
 
 add_package <- function(package, reset = FALSE) {
   crandb_versions <- get_cran_versions(package)
   github_versions <- get_github_versions(package)
 
+  cli_h2("Adding package {.pkg {package}}")
   if (nrow(crandb_versions) == 0) {
     warning("Package not in CRANDB")
     return()
@@ -35,6 +37,10 @@ add_package <- function(package, reset = FALSE) {
   } else {
     setdiff(crandb_versions$version, github_versions)
   }
+  cli_alert_info(c(
+    "{.pkg {package}} has {no(length(missing_versions))} ",
+    "missing version{?s./:/s:} {missing_versions}"
+  ))
 
   ## Note that if reset == TRUE, then all versions are missing,
   ## but new_package will be still FALSE, because we don't need
@@ -114,8 +120,11 @@ change_to_cranatgh_home <- function() {
 #' @keywords internal
 #' @importFrom desc description
 #' @importFrom utils untar
+#' @importFrom cli cli_process_start cli_process_done
 
 add_missing_version <- function(package, version, date) {
+
+  proc <- cli_process_start("Adding {.pkg {package}} {version}")
 
   ## Rename the .git directory. We'll need it later
   file.rename(file.path(package, ".git"), "dot-git")
@@ -158,6 +167,8 @@ add_missing_version <- function(package, version, date) {
   )
 
   git("tag", version)
+
+  cli_process_done(proc)
 
   metadata
 }

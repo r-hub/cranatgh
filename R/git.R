@@ -30,6 +30,7 @@ git <- function(..., env = character(), timeout = 60 * 60) {
 #' @param package Package name, directory to create a git tree in.
 #' @return The return value of the call to git.
 #'
+#' @importFrom cli cli_alert_info
 #' @keywords internal
 
 create_git_repo <- function(path) {
@@ -37,6 +38,7 @@ create_git_repo <- function(path) {
   wd <- getwd()
   on.exit(setwd(wd), add = TRUE)
   setwd(path)
+  cli_alert_info("Creating git repo in {.path {path}}")
   git("init", ".")
 }
 

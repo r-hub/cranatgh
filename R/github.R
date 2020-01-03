@@ -83,12 +83,19 @@ get_github_versions <- function(package) {
 #' @param package Package name.
 #' @return Output of the command line git call.
 #'
+#' @importFrom cli cli_alert_info
 #' @keywords internal
 
 clone_git_repo <- function(package) {
-  git("clone", get_clone_url(package))
+  url <- get_clone_url(package)
+  proc <- cli_process_start("Cloning GitHub repo from {.url {safe_url(url)}}")
+  git("clone", url)
+  cli_process_done(proc)
 }
 
+safe_url <- function(url) {
+  sub("//[a-z0-9]+@", "//<token>@", url)
+}
 
 #' Push the package to GitHub
 #'
@@ -105,7 +112,9 @@ push_to_github <- function(package, forced_push = FALSE) {
 
   add_gh_remote(package)
 
+  proc <- cli_process_start("Pushing {.pkg {package}} to GitHub")
   git("push", "--tags", if (forced_push) "-f", "-u", "origin", "master")
+  cli_process_done(proc)
 }
 
 #' Add a CRAN at GitHub remote to a local git tree
@@ -182,19 +191,23 @@ create_gh_repo <- function(package,
 #' @param description Description on the GitHub page.
 #'
 #' @export
+#' @importFrom cli cli_process_start cli_process_done
 
 update_description <- function(package,
                                description = make_description(package)) {
 
   description <- clean_description(description)
 
+  proc <- cli_process_start("Updating repo description for {.pkg {package}}")
   gh("PATCH /repos/:owner/:repo",
      owner = default_cranatgh_org(),
      repo = package,
      name = package,
      description = description,
-     homepage = ""
+     homepage = "",
+     .token = get_gh_token()
   )
+  cli_process_done(proc)
 }
 
 #' Clean a string, so that it can be used as a repo description
