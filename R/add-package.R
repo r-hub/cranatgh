@@ -75,9 +75,8 @@ add_missing_versions <- function(package, versions, new_package,
 
   set_git_user(package)
 
-  for (idx in seq_along(versions)) {
-    ver <- timeline$version[idx]
-    ts <- timeline$date[idx]
+  for (ver in versions) {
+    ts <- timeline$date[match(ver, timeline$version)]
     metadata <- add_missing_version(package, ver, ts)
   }
 
