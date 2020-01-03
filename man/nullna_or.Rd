@@ -2,7 +2,7 @@
 % Please edit documentation in R/utils.R
 \name{nullna_or}
 \alias{nullna_or}
-\title{Empty string if input is \code{NULL}.}
+\title{Empty string if input is \code{NULL}}
 \usage{
 nullna_or(x, expr)
 }
@@ -15,7 +15,6 @@ nullna_or(x, expr)
 Expression or an empty string.
 }
 \description{
-If \code{x} is \code{NULL}, then an empty string is returned,
-otherwise \code{expr}.
+If \code{x} is \code{NULL}, then an empty string, otherwise the value of \code{expr}.
 }
 \keyword{internal}

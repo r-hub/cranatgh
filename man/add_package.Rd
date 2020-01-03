@@ -15,8 +15,8 @@ cranatgh failed to remove files from the repo that were
 deleted in the new package versions.}
 }
 \value{
-Invisible `TRUE` if the package was successfully updated,
-  `FALSE` otherwise.
+Invisible \code{TRUE} if the package was successfully updated,
+\code{FALSE} otherwise.
 }
 \description{
 The update is performed based on the current state of the

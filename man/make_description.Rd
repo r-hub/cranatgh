@@ -7,11 +7,11 @@
 make_description(pkg)
 }
 \arguments{
-\item{pkg}{Package name, or a `description` object.}
+\item{pkg}{Package name, or a \code{description} object.}
 }
 \value{
 Character scalar, an appropriate GitHub repository
-  description.
+description.
 }
 \description{
 On GitHub the description cannot contain newline characters,

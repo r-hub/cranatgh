@@ -11,8 +11,8 @@ Character scalar, the token, or \code{NA} if the
 environment variable mentioned above are not set.
 }
 \description{
-It is taken from the `CRANATGH_GITHUB_TOKEN`,
-`GITHUB_PAT` or `GITHUB_TOKEN` environment variables, whichever is
+It is taken from the \code{CRANATGH_GITHUB_TOKEN},
+\code{GITHUB_PAT} or \code{GITHUB_TOKEN} environment variables, whichever is
 found first.
 }
 \keyword{internal}

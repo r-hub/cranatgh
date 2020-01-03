@@ -14,7 +14,6 @@ It is assumed that the git tree of the package is
 in the working directory.
 }
 \details{
-If there is already a remote called \code{origin}, then
-nothing is done.
+If there is already a remote called \code{origin}, then it does nothing.
 }
 \keyword{internal}

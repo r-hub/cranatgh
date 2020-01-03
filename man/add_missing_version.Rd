@@ -14,8 +14,8 @@ add_missing_version(package, version, date)
 \item{date}{The exact date and time the version was built for CRAN.}
 }
 \value{
-The package's metadata, i.e. the contents of the `DESCRIPTION`
-  file, in a `desciption` object, see the `description` package.
+The package's metadata, i.e. the contents of the \code{DESCRIPTION}
+file, in a \code{desciption} object, see the \code{description} package.
 }
 \description{
 It assumes that the package's repository exists on GitHub,

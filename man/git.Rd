@@ -15,12 +15,10 @@ to set for git.}
 \item{timeout}{Timeout, in seconds, defaults to one hour.}
 }
 \value{
-A list containing the \code{status}, \code{stdout},
-  \code{stderr} of the system git command.
+Return value from \code{\link[processx:run]{processx::run()}}.
 }
 \description{
-System git must be properly installed and it must be in the
-\code{PATH}.
+System git must be properly installed and it must be in the \code{PATH}.
 }
 \details{
 It throws an error on error.
