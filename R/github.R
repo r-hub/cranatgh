@@ -21,17 +21,20 @@ default_local_mirror_directory <- function() {
 
 #' Get the token to be used for GitHub API calls
 #'
-#' It is taken from the \code{GITHUB_TOKEN} environment
-#' variable.
+#' It is taken from the `CRANATGH_GITHUB_TOKEN`,
+#' `GITHUB_PAT` or `GITHUB_TOKEN` environment variables, whichever is
+#' found first.
 #'
-#' @return Character scalar, the token, or \code{NA} is the
-#'   \code{GITHUB_TOKEN} environment variable is not set.
+#' @return Character scalar, the token, or \code{NA} if the
+#' environment variable mentioned above are not set.
 #'
 #' @keywords internal
 
 get_gh_token <- function() {
-  token <- Sys.getenv("GITHUB_PAT", NA_character_)
-  if (is.na(token)) Sys.getenv("GITHUB_TOKEN", NA_character_) else token
+  token <- Sys.getenv("CRANATGH_GITHUB_TOKEN", NA_character_)
+  if (is.na(token)) token <- Sys.getenv("GITHUB_PAT", NA_character_)
+  if (is.na(token)) token <- Sys.getenv("GITHUB_TOKEN", NA_character_)
+  token
 }
 
 #' The clone URL of a package at GitHub

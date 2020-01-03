@@ -7,11 +7,12 @@
 get_gh_token()
 }
 \value{
-Character scalar, the token, or \code{NA} is the
-  \code{GITHUB_TOKEN} environment variable is not set.
+Character scalar, the token, or \code{NA} if the
+environment variable mentioned above are not set.
 }
 \description{
-It is taken from the \code{GITHUB_TOKEN} environment
-variable.
+It is taken from the `CRANATGH_GITHUB_TOKEN`,
+`GITHUB_PAT` or `GITHUB_TOKEN` environment variables, whichever is
+found first.
 }
 \keyword{internal}
