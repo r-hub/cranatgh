@@ -25,7 +25,7 @@ default_local_mirror_directory <- function() {
 #' `GITHUB_PAT` or `GITHUB_TOKEN` environment variables, whichever is
 #' found first.
 #'
-#' @return Character scalar, the token, or \code{NA} if the
+#' @return Character scalar, the token, or `NA` if the
 #' environment variable mentioned above are not set.
 #'
 #' @keywords internal
@@ -123,8 +123,7 @@ push_to_github <- function(package, forced_push = FALSE) {
 #' It is assumed that the git tree of the package is
 #' in the working directory.
 #'
-#' If there is already a remote called \code{origin}, then
-#' nothing is done.
+#' If there is already a remote called `origin`, then it does nothing.
 #'
 #' @param package Package name.
 #'

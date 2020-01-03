@@ -1,8 +1,7 @@
 
 #' Run a git command using system git
 #'
-#' System git must be properly installed and it must be in the
-#' \code{PATH}.
+#' System git must be properly installed and it must be in the `PATH`.
 #'
 #' It throws an error on error.
 #'
@@ -10,8 +9,7 @@
 #' @param env Named character vector, environment variables
 #'   to set for git.
 #' @param timeout Timeout, in seconds, defaults to one hour.
-#' @return A list containing the \code{status}, \code{stdout},
-#'   \code{stderr} of the system git command.
+#' @return Return value from [processx::run()].
 #'
 #' @keywords internal
 

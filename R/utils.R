@@ -16,7 +16,7 @@ set_names <- function(x, nms) {
 
 #' Replace are whitespace with non-breakable space in a string
 #'
-#' @param ... Input, it will be concatenated using \code{paste0}.
+#' @param ... Input, it will be concatenated using [base::paste0()].
 #' @return Character.
 #'
 #' @keywords internal
@@ -25,10 +25,9 @@ dont_break <- function(...) {
   gsub("\\s+", "\u00a0", paste0(...))
 }
 
-#' Empty string if input is \code{NULL}.
+#' Empty string if input is `NULL`
 #'
-#' If \code{x} is \code{NULL}, then an empty string is returned,
-#' otherwise \code{expr}.
+#' If `x` is `NULL`, then an empty string, otherwise the value of `expr`.
 #'
 #' @param x Condition.
 #' @param expr Expression.

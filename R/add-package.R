@@ -2,10 +2,10 @@
 #' Add or update a package in CRAN @@ GitHub
 #'
 #' The update is performed based on the current state of the
-#' crandb database (See \url{https://github.com/metacran/crandb}.)
+#' crandb database (See <https://github.com/metacran/crandb>.)
 #'
 #' All versions that are missing form the GitHub repository
-#' at \url{https://github.com/cran}, are added.
+#' at <https://github.com/cran>, are added.
 #'
 #' If the package is missing from the GitHub mirror completely,
 #' then it is created.
