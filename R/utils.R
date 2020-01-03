@@ -49,6 +49,6 @@ fix_maintainer <- function(x) {
   ## ': start of single quote for the rest of the string
   x <- gsub("'", paste0("'", '"', "'", '"', "'"), x)
 
-  if (toupper(x) == "ORPHANED") x <- "cran@R-project.org"
+  if (toupper(x) == "ORPHANED") x <- "ORPHANED <cran@R-project.org>"
   x
 }
