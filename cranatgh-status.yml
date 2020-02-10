@@ -527,7 +527,7 @@ ARTP2: 0.9.45
 arules: 1.6-4
 arulesCBA: 1.1.6
 arulesNBMiner: 0.1-5
-arulesSequences: 0.2-23
+arulesSequences: 0.2-8
 arulesViz: 1.3-3
 aRxiv: 0.5.19
 as.color: '0.1'
@@ -1027,6 +1027,7 @@ BEACH: 1.3.1
 beadarrayFilter: 1.1.0
 beadarrayMSV: 1.1.0
 beadplexr: 0.3.0
+beakr: 0.3.1
 beam: 2.0.1
 beanplot: '1.2'
 BEANSP: '1.0'
@@ -1325,7 +1326,7 @@ bisoreg: '1.5'
 bisque: 1.0.2
 BisqueRNA: 1.0.1
 BisRNA: 0.2.2
-bit: 1.1-15.1
+bit: 1.1-15.2
 bit64: 0.9-7
 bitops: 1.0-6
 BiTrinA: '1.3'
@@ -2432,7 +2433,7 @@ commentr: 1.0.4
 CommonJavaJars: 1.0-6
 commonmark: '1.7'
 CommonMean.Copula: 1.0.0
-commonsMath: 1.2.4
+commonsMath: 1.2.5
 CommonTrend: 0.7-1
 CommT: 0.1.1
 COMMUNAL: 1.1.0
@@ -3978,7 +3979,7 @@ ebSNP: '1.0'
 ecb: '0.2'
 ECctmc: 0.2.5
 ecd: 0.9.1
-Ecdat: 0.3-4
+Ecdat: 0.3-7
 ecdfHT: 0.1.1
 ecespa: 1.1-10
 ECFsup: 0.1-2
@@ -4090,7 +4091,7 @@ EffectStars2: 0.1-3
 EffectTreat: '1.0'
 EfficientMaxEigenpair: 0.1.4
 efflog: '1.0'
-effsize: 0.7.6
+effsize: 0.7.8
 efreadr: 0.2.2
 EFS: 1.0.3
 efts: 0.9-0
@@ -6196,7 +6197,7 @@ gregmisc: 2.1.5
 gremlin: 0.1.0.1
 gren: 0.0.1
 GREP2: 1.0.2
-greport: 0.7-1
+greport: 0.7-2
 greta: 0.3.1
 gretel: 0.0.1
 grex: '1.9'
@@ -7868,7 +7869,7 @@ lazyWeave: 3.0.2
 lba: 2.4.4
 lbfgs: 1.2.1
 lbfgsb3: 2015-2.13.1
-lbfgsb3c: 2019-11.26
+lbfgsb3c: 2020-2.3
 lbiassurv: '1.1'
 LBLGXE: '1.4'
 lbreg: '1.3'
@@ -8056,7 +8057,7 @@ linemap: 0.1.0
 lineqGPR: 0.1.1
 linERR: '1.0'
 lineup: 0.37-11
-lingtypology: 1.0.9
+lingtypology: 1.1.1
 linguisticsdown: 1.2.0
 link2GI: 0.4.1
 LinkageMapView: 2.1.2
@@ -8513,6 +8514,7 @@ MarkedPointProcess: '0.2'
 markerSearchPower: '1.0'
 marketeR: 0.1.1
 MarketMatching: 1.1.2
+marketr: 0.0.1
 maRketSim: '0.9'
 markmyassignment: 0.8.2
 markophylo: 1.0.7
@@ -8913,7 +8915,7 @@ MethylCapSig: 1.0.1
 MetNorm: '0.1'
 MeTo: 0.1.0
 MetProc: 1.0.1
-metR: 0.5.0
+metR: 0.6.0
 Metrics: 0.1.4
 metricsgraphics: 0.9.0
 MetricsWeighted: 0.5.0
@@ -9123,7 +9125,7 @@ mitools: '2.4'
 MittagLeffleR: 0.3.0
 miWQS: 0.2.0
 mix: 1.0-10
-mixAK: '5.1'
+mixAK: '5.2'
 MixAll: 1.5.1
 mixcat: 1.0-4
 mixchar: 0.1.0
@@ -9238,6 +9240,7 @@ mlPhaser: '0.01'
 MLPUGS: 0.2.0
 mlr: 2.17.0
 mlr3: 0.1.6
+mlr3data: 0.1.0
 mlr3db: 0.1.4
 mlr3filters: 0.1.1
 mlr3learners: 0.1.5
@@ -10449,7 +10452,7 @@ olctools: 0.3.0
 OligoSpecificitySystem: '1.3'
 olr: '1.1'
 OLScurve: 0.2.0
-olsrr: 0.5.2
+olsrr: 0.5.3
 omd: '1.0'
 OmicKriging: 1.4.0
 omics: 0.1-5
@@ -13519,7 +13522,7 @@ RNCBI: '0.9'
 RNCBIAxis2Libs: '0.9'
 RNCBIEUtilsLibs: '0.9'
 RNCEP: 1.0.8
-rncl: 0.8.3
+rncl: 0.8.4
 RND: '1.2'
 RndTexExams: '1.5'
 RNentropy: 1.2.2
@@ -14431,7 +14434,7 @@ scRNAtools: '1.0'
 scrobbler: 0.2.12
 SCRSELECT: 1.3-3
 SCRT: 1.3.1
-scrubr: 0.1.1
+scrubr: 0.3.0
 scrypt: 0.1.3
 scs: 1.3-2
 scTenifoldNet: 1.1.0
@@ -15474,7 +15477,7 @@ spectralGraphTopology: 0.2.0
 SpectralMap: '1.0'
 spectrino: 2.0.0
 spectrolab: 0.0.8
-Spectrum: '1.0'
+Spectrum: '1.1'
 SPEDInstabR: '1.8'
 speech: 0.1.0
 speedglm: 0.3-2
@@ -16511,6 +16514,7 @@ tidyselect: 1.0.0
 tidystats: '0.4'
 tidystopwords: 0.9.0
 tidystringdist: 0.1.4
+tidytable: 0.3.0
 tidytext: 0.2.2
 tidytidbits: 0.2.1
 tidytransit: 0.6.1
@@ -17646,7 +17650,7 @@ wpp2008: 1.0-1
 wpp2010: 1.2-0
 wpp2012: 2.2-1
 wpp2015: 1.1-2
-wpp2017: 1.2-1
+wpp2017: 1.2-3
 wpp2019: 1.1-1
 wppExplorer: 2.3-3
 wq: 0.4.8
