@@ -1832,7 +1832,7 @@ catIrt: 0.5-0
 CATkit: 3.3.3
 catlearn: 0.7.1
 catmap: 1.6.4
-catnet: 1.15.5
+catnet: 1.15.6
 caTools: 1.18.0
 CatPredi: '1.1'
 catR: '3.16'
@@ -4385,7 +4385,7 @@ epiR: 1.0-13
 EpiReport: 0.1.0
 EpiResTest: '1.0'
 episcan: .na.character
-episensr: 0.9.5
+episensr: 0.9.6
 episheet: 0.4.0
 EpiSignalDetection: 0.1.1
 episode: 1.0.0
@@ -5051,7 +5051,7 @@ flexrsurv: 1.4.5
 FlexScan: 0.1.0
 flexsurv: 1.1.1
 flexsurvcure: 1.0.0
-flextable: 0.5.8
+flextable: 0.5.9
 FlickrAPI: 0.1.0.0
 flifo: 0.1.5
 flightplanning: 0.7.2
@@ -7314,7 +7314,7 @@ iosmooth: '0.94'
 iotables: 0.4.2
 iotools: 0.2-5
 ip2location: 8.0.0
-ipaddress: 0.1.0
+ipaddress: 0.1.1
 ipc: 0.1.3
 IPCAPS: 1.1.5
 ipcwswitch: 1.0.3
@@ -10619,7 +10619,7 @@ OpenImageR: 1.1.6
 openintro: 1.7.1
 OpenML: '1.10'
 OpenMPController: 0.2-5
-OpenMx: 2.17.2
+OpenMx: 2.17.3
 openNLP: 0.2-7
 openNLPdata: 1.5.3-4
 openNLPmodels: 0.0-3
@@ -11783,7 +11783,7 @@ PP: 0.6.2
 PP3: '1.2'
 ppc: '1.01'
 ppcc: '1.2'
-PPCI: 0.1.4
+PPCI: 0.1.5
 ppclust: 1.1.0
 ppcong: 0.0.2
 ppcor: '1.1'
@@ -11819,7 +11819,7 @@ prc: 2019.1-23
 prcbench: '0.8'
 prclust: '1.3'
 prcr: 0.2.1
-pre: 0.7.2
+pre: 1.0.0
 precintcon: 2.3.0
 PrecipStat: '1.03'
 PreciseSums: '0.3'
@@ -11912,6 +11912,7 @@ prnsamplr: 0.1.1
 pro: 0.1.1
 prob: 1.0-1
 probably: 0.0.4
+ProbBayes: '1.1'
 ProbeDeveloper: 1.0.0
 probemapper: 1.0.0
 probemod: 0.2.1
@@ -13027,7 +13028,7 @@ REddyProcNCDF: 1.1.4
 redist: 1.3-3
 redland: 1.0.17-11
 redlistr: 1.0.3
-rEDM: 1.2.2
+rEDM: 1.2.3
 Redmonder: 0.2.0
 redR: 1.0.1
 redshiftTools: 1.0.1
@@ -13374,6 +13375,7 @@ ri2: 0.1.2
 RI2by2: '1.3'
 RIA: 1.4.2
 ribd: 1.0.1
+ribiosUtils: 1.5-6
 RiboSort: '1.1'
 ricegeneann: 1.0.2
 riceidconverter: 1.1.1
@@ -13716,7 +13718,7 @@ RobStatTM: 1.0.2
 robsurvey: 0.1.1
 robumeta: '2.0'
 robust: 0.4-18
-RobustAFT: 1.4-4
+RobustAFT: 1.4-5
 robustarima: 0.2.5
 robustbase: 0.93-5
 robustBLME: 0.1.3
@@ -14166,7 +14168,7 @@ RTConnect: 0.1.4
 RTD: 0.1.1
 RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
-rtdists: 0.10-0
+rtdists: 0.11-2
 rtematres: '0.2'
 rTensor: '1.4'
 rTephra: '0.1'
@@ -14996,7 +14998,7 @@ signalextraction: 2.0.3
 signalHsmm: '1.5'
 SignifReg: .na.character
 signmedian.test: 1.5.1
-signnet: 0.5.1
+signnet: 0.5.2
 signs: 0.1.2
 SigOptR: 0.0.1
 sigora: 3.0.5
@@ -15014,7 +15016,7 @@ Sim.DiffProcGUI: '2.5'
 Sim.PLFN: '1.0'
 sim1000G: '1.40'
 simba: 0.3-5
-SimBIID: 0.1.3
+SimBIID: 0.1.4
 simboot: 0.2-6
 simcausal: 0.5.5
 simcdm: 0.1.1
@@ -15158,6 +15160,7 @@ skeleSim: 0.9.8
 skeletor: 1.0.4
 skellam: 0.2.0
 SkewHyperbolic: 0.4-0
+skewlmm: 0.1.0
 skewt: '0.1'
 skewtools: 0.1.1
 Skillings.Mack: '1.10'
@@ -15166,7 +15169,7 @@ skimr: '2.1'
 sklarsomega: '2.0'
 skm: 0.1.5.4
 skmeans: 0.2-11
-skpr: 0.62.0
+skpr: 0.64.2
 Sky: '1.0'
 skynet: 1.3.0
 skyscapeR: 0.2.2
@@ -15208,7 +15211,7 @@ sm: 2.2-5.6
 sma: 0.5.9
 smaa: 0.3-0
 smac: '1.0'
-smacof: 2.0-0
+smacof: 2.1-0
 smacpod: 2.0.4
 smallarea: '0.1'
 SmallCountRounding: 0.4.0
@@ -15285,7 +15288,7 @@ SMUT: '1.1'
 SMVar: 1.3.3
 sn: 1.5-5
 sna: '2.5'
-snahelper: 1.0.0
+snahelper: 1.1.0
 snakecase: 0.11.0
 SnakeCharmR: 1.0.7
 SnakesAndLaddersAnalysis: 2.1.0
@@ -15386,7 +15389,7 @@ SolveRationalMatrixEquation: 0.1.0
 som: 0.3-5.1
 som.nn: 1.1.0
 soma: 1.1.1
-SOMbrero: 1.2-4
+SOMbrero: 1.2-5
 somebm: '0.1'
 someKfwer: '1.2'
 someMTP: 1.4.1
@@ -15439,12 +15442,12 @@ spaceExt: '1.0'
 spacejam: '1.1'
 spaceNet: '1.2'
 spacesRGB: 1.3-0
-spacesXYZ: 1.0-4
+spacesXYZ: 1.1-1
 spacetime: 1.2-3
 spacey: 0.1.0
 spacodiR: 0.13.0115
 spacom: 1.0-5
-spacyr: '1.2'
+spacyr: 1.2.1
 SPADAR: '1.0'
 spAddins: 0.2.0
 SpadeR: 0.1.1
@@ -15568,12 +15571,12 @@ spatstat.data: 1.4-3
 spatstat.Knet: 1.11-2
 spatstat.local: 3.6-0
 spatstat.utils: 1.17-0
-spatsurv: '1.2'
+spatsurv: '1.4'
 spbabel: 0.5.0
 spBayes: 0.4-3
 spBayesSurv: 1.1.4
 spBFA: '1.0'
-Spbsampling: 1.3.1
+Spbsampling: 1.3.2
 spc: 0.6.3
 spc4sts: 0.5.2
 spca: 0.6.0
@@ -15831,6 +15834,7 @@ stability: 0.5.0
 stable: 1.1.4
 stabledist: 0.7-1
 StableEstim: '2.1'
+stableGR: '1.0'
 stablelearner: 0.1-1
 stablespec: 0.3.0
 stabm: 1.1.1
@@ -15906,7 +15910,7 @@ StatPerMeCo: 0.1.0
 statprograms: 0.2.0
 statquotes: 0.2.2
 StatRank: 0.0.6
-stats19: 1.1.0
+stats19: 1.2.0
 statsDK: 0.1.1
 statsExpressions: 0.3.1
 statsgrokse: 0.1.4
@@ -17462,7 +17466,7 @@ VertexSort: 0.1-1
 VeryLargeIntegers: 0.1.8
 vesselr: 0.2.1
 vetools: 1.3-28
-vetr: 0.2.8
+vetr: 0.2.9
 VetResearchLMM: 1.0.0
 vfcp: 1.4.0
 VFP: '1.2'
