@@ -429,7 +429,7 @@ aplpack: 1.3.3
 APML0: '0.10'
 apmsWAPP: '1.0'
 apng: '1.0'
-apollo: 0.0.9
+apollo: 0.1.0
 apparent: '1.1'
 appell: 0.0-4
 APPEstimation: 0.1.1
@@ -562,7 +562,7 @@ aSPC: 0.1.2
 aspect: 1.0-5
 aspi: 0.2.0
 aSPU: '1.48'
-asremlPlus: 4.1-36
+asremlPlus: 4.2-18
 ASSA: '1.0'
 AssayCorrector: 2.0.0
 assertable: 0.2.7
@@ -586,7 +586,7 @@ assertr: '2.7'
 assertthat: 0.2.1
 AssetCorr: 1.0.3
 AssetPricing: 1.0-1
-assignPOP: 1.1.8
+assignPOP: 1.1.9
 assignR: 1.1.3
 assist: 3.1.6
 ASSISTant: 1.4.2
@@ -816,7 +816,7 @@ base64: '2.0'
 base64enc: 0.1-3
 base64url: '1.4'
 baseballDBR: 0.1.2
-baseflow: 0.11.2
+baseflow: 0.12.0
 basefun: 1.0-7
 baseline: 1.2-3
 basetheme: 0.1.2
@@ -1112,7 +1112,7 @@ bfast: 1.5.7
 bfork: 0.1.2
 bfp: 0.0-40
 BFpack: 0.1.1
-BFS: 0.2.2
+BFS: 0.2.4
 bfsl: 0.1.0
 bfw: 0.4.1
 BGData: 2.1.0
@@ -1693,7 +1693,7 @@ c060: 0.2-5
 c14bazAAR: 1.2.0
 c212: '0.95'
 c2c: 0.1.0
-c3: 0.2.0
+c3: 0.3.0
 c3net: 1.1.1
 C443: 1.0.0
 C50: 0.1.3
@@ -2074,7 +2074,7 @@ chk: 0.4.0
 chlorpromazineR: 0.1.2
 CHMM: 0.1.1
 chngpt: 2020.2-26
-CHNOSZ: 1.3.5
+CHNOSZ: 1.3.6
 ChocoLattes: 0.1.0
 choiceDes: 0.9-3
 ChoiceModelR: '1.2'
@@ -2087,7 +2087,7 @@ chords: 0.95.4
 choroplethr: 3.6.3
 choroplethrAdmin1: 1.1.1
 choroplethrMaps: 1.0.1
-chorrrds: 0.1.9.3
+chorrrds: 0.1.9.4
 chplot: '1.3'
 christmas: 1.0.0
 chromer: '0.1'
@@ -2208,7 +2208,7 @@ ClimDown: 1.0.2
 clime: 0.4.1
 climextRemes: 0.2.1
 ClimInd: 0.1-2
-ClimMobTools: 0.2-7
+ClimMobTools: 0.3.2
 ClimProjDiags: 0.1.0
 climtrends: 1.0.6
 climwin: 1.2.2
@@ -2419,6 +2419,7 @@ coloc: 3.2-1
 colocalization: 1.0.1
 colocalized: 0.2.0
 colocr: 0.1.0
+colorBlindness: 0.1.6
 colordistance: 1.1.0
 coloredICA: 1.0.0
 colorednoise: 1.0.5
@@ -2508,7 +2509,7 @@ complmrob: 0.7.0
 CompLognormal: '3.0'
 compoisson: '0.3'
 COMPoissonReg: 0.7.0
-Compositional: '3.7'
+Compositional: '3.8'
 compositions: 1.40-4
 compositionsGUI: '1.0'
 compound.Cox: '3.19'
@@ -2559,6 +2560,7 @@ configural: 0.1.1
 confinterpret: 1.0.0
 ConfIntVariance: 1.0.2
 conflicted: 1.0.4
+conflr: 0.1.0
 conformal: '0.2'
 conformalClassification: 1.0.0
 ConfoundedMeta: 1.3.0
@@ -2684,6 +2686,7 @@ CorrectOverloadedPeaks: 1.2.17
 CorReg: 1.2.17
 corregp: 2.0.2
 correlate: '1.0'
+correlation: 0.1.0
 correlationfunnel: 0.1.0
 correlbinom: 0.0.1
 Correlplot: 1.0-2
@@ -3062,7 +3065,7 @@ dabestr: 0.2.3
 DAC: 0.1.1
 DACF: 1.0.0
 dad: 3.4.0
-dae: 3.1-21
+dae: 3.1-23
 daewr: 1.2-3
 daff: 0.3.5
 DAFOT: 0.0.1
@@ -3275,7 +3278,7 @@ decision: 0.1.0
 DecisionAnalysis: 1.0.0
 DecisionCurve: '1.4'
 decisionSupport: 1.105.2
-deckgl: 0.1.8
+deckgl: 0.2.5
 DeclareDesign: 0.20.0
 decode: '1.2'
 decoder: 1.1.13
@@ -3416,7 +3419,7 @@ DetMCD: 0.0.5
 detpack: 1.1.3
 DetR: 0.0.5
 detrendeR: 1.0.4
-detrendr: 0.6.4
+detrendr: 0.6.5
 deTS: '1.0'
 DetSel: 1.0.4
 detzrcr: 0.3.0
@@ -3999,7 +4002,7 @@ EasyHTMLReport: 0.1.1
 EasyMARK: '1.0'
 easyml: 0.1.0
 EasyMx: 0.2-12
-easyNCDF: 0.0.4
+easyNCDF: 0.1.0
 easynls: '5.0'
 easypackages: 0.1.0
 easypower: 1.0.1
@@ -4188,6 +4191,7 @@ EKMCMC: 0.1.0
 EL: '1.0'
 el.convex: '1.0'
 EL2Surv: '1.1'
+elaborator: '1.0'
 elasso: '1.1'
 ElastH: '0.3'
 elastic: 1.1.0
@@ -5219,6 +5223,7 @@ FPDclustering: 1.4.1
 fpeek: 0.1.1
 fpest: 0.1.1
 fplot: 0.2.1
+fplyr: 1.1.0
 fpmoutliers: 0.1.0
 fpop: 2019.08.26
 fPortfolio: 3042.83.1
@@ -6063,7 +6068,7 @@ GLSE: 0.1.0
 GLSME: 1.0.5
 glue: 1.3.2
 gluedown: 1.0.2
-gluvarpro: '2.0'
+gluvarpro: '3.0'
 glycanr: 0.3.1
 gma: '1.0'
 GMAC: '3.0'
@@ -6252,6 +6257,7 @@ graphon: 0.3.3
 GraphPCA: '1.1'
 graphql: '1.5'
 graphscan: 1.1.1
+graphsim: 0.1.2
 graphTweets: 0.5.3
 grasp: 2.5-7
 grasper: 0.4-4
@@ -6259,7 +6265,7 @@ GRASS: 0.3-9
 GrassmannOptim: '2.0'
 gratia: 0.3.0
 graticule: 0.1.2
-grattan: 1.8.0.0
+grattan: 1.8.0.1
 gravitas: 0.1.2
 gravity: 0.9.8
 gRbase: 1.8-6.4
@@ -6394,6 +6400,7 @@ gtable: 0.3.0
 gtcorr: 0.2-1
 gte: 1.2-2
 gTests: '0.2'
+gtfs2gps: 1.0-5
 gtfsrouter: 0.0.1
 gtheory: 0.1.2
 gtkDevice: 1.9-4
@@ -7443,7 +7450,7 @@ isoboost: 1.0.0
 isocat: 0.2.4
 IsoCI: '1.1'
 isocir: 2.0-6
-ISOcodes: 2019.12.22
+ISOcodes: 2020.03.16
 IsoGene: 1.0-24
 isopam: 0.9-13
 isopat: '1.0'
@@ -7747,7 +7754,7 @@ klausuR: 0.12-10
 klin: '2007-02-05'
 klustR: 0.1.0
 km.ci: 0.5-2
-kmc: 0.2-3
+kmc: 0.2-4
 kmconfband: '0.1'
 kmcudaR: 1.1.0
 KMDA: '1.0'
@@ -8305,7 +8312,7 @@ logcondiscr: 1.0.6
 logconPH: '1.5'
 logger: '0.1'
 logging: 0.10-108
-loggit: 1.1.1
+loggit: 1.2.0
 loggle: '1.0'
 logiBin: '0.3'
 LogicForest: 2.1.0
@@ -9558,7 +9565,7 @@ morse: 3.2.5
 MorseGen: '1.2'
 mortAAR: 1.0.2
 MortalityGaps: 1.0.0
-MortalityLaws: 1.8.3
+MortalityLaws: 1.8.4
 MortalitySmooth: 2.3.4
 MortalityTables: '1.0'
 MortCast: 2.1-2
@@ -9995,7 +10002,7 @@ namedCapture: 2020.3.2
 NameNeedle: 1.2.4
 namer: 0.1.5
 namespace: 0.9.1
-nandb: 2.0.5
+nandb: 2.0.6
 naniar: 0.5.0
 nanop: 2.0-6
 NanoStringNorm: 1.2.1
@@ -10875,7 +10882,7 @@ PACE: 0.1-0
 pack: 0.1-1
 packageDiff: '0.1'
 packagedocs: 0.4.0
-packagefinder: 0.1.5
+packagefinder: 0.2.0
 packager: 1.1.0
 packageRank: 0.3.0
 packagetrackr: 0.1.1
@@ -12285,7 +12292,7 @@ qqman: 0.1.4
 QQperm: 1.0.1
 qqplotr: 0.0.4
 qqplotter: '1.16'
-qqtest: '1.1'
+qqtest: 1.2.0
 qqvases: 1.0.0
 QRAGadget: 0.1.0
 qrage: '1.0'
@@ -12455,7 +12462,7 @@ R2ucare: 1.0.0
 R2wd: '1.5'
 R2WinBUGS: 2.1-21
 R330: '1.0'
-R3port: 0.1.1
+R3port: 0.2.3
 R4CDISC: '0.4'
 R4CouchDB: 0.7.5
 R4dfp: 0.2-4
@@ -13096,6 +13103,7 @@ regexPipes: 0.0.1
 regexr: 1.1.0
 regexSelect: 1.0.0
 reghelper: 0.3.5
+registr: 1.0.0
 registry: 0.5-1
 reglogit: 1.2-6
 regnet: 0.4.0
@@ -13928,7 +13936,7 @@ RPEClust: 0.1.0
 RPEGLMEN: 1.0.1
 RPEIF: 1.0.7
 RPEnsemble: '0.4'
-RPESE: 1.0.2
+RPESE: 1.0.3
 RPEXE.RPEXT: 0.0.1
 rpf: 1.0.3
 rpg: '1.6'
@@ -14362,7 +14370,7 @@ Rxnat: 1.0.6
 RxnSim: 1.0.3
 RxODE: 0.9.2-0
 rxSeq: 0.99.3
-RXshrink: 1.3.1
+RXshrink: 1.3.2
 rxylib: 0.2.4
 Ryacas: 1.1.2
 Ryacas0: 0.4.2
@@ -14591,7 +14599,7 @@ scorer: 0.2.0
 SCORER2: 0.99.0
 scoring: '0.6'
 scoringRules: 1.0.0
-SCORPIUS: '1.0'
+SCORPIUS: 1.0.6
 ScottKnott: 1.2-7
 ScottKnottESD: 2.0.3
 scout: 1.0.4
@@ -14679,7 +14687,7 @@ searcher: 0.0.5
 SearchTrees: 0.5.2
 seas: 0.5-2
 SEAsic: '0.1'
-season: 0.3.9
+season: 0.3.10
 seasonal: 1.7.0
 seasonalview: '0.3'
 seastests: 0.14.2
@@ -14863,7 +14871,7 @@ session: 1.0.3
 sessioninfo: 1.1.1
 sessionTools: 0.9-2
 set: '1.1'
-set6: 0.1.2
+set6: 0.1.3
 SetMethods: '2.4'
 SETPath: '1.0'
 SetRank: 1.1.0
@@ -15124,6 +15132,7 @@ simpleRCache: 0.3.2
 simpleroptions: 0.2.0
 simpleSetup: 0.1.0
 SimpleTable: 0.1-2
+simplexdesign: 0.1.0
 simplexreg: '1.3'
 SimplicialCubature: '1.2'
 SimplifyStats: 2.0.2
@@ -15343,7 +15352,7 @@ SnakeCharmR: 1.0.7
 SnakesAndLaddersAnalysis: 2.1.0
 snappier: 0.1.0
 snapshot: 0.1.2
-snem: 0.1.0
+snem: 0.1.1
 snfa: 0.0.1
 SNFtool: 2.3.0
 snht: 1.0.5
@@ -16003,7 +16012,7 @@ STGS: 0.1.0
 stheoreme: '1.2'
 STI: '0.1'
 Stickbreaker: 1.0.0
-sticky: 0.5.2
+sticky: 0.5.6.1
 stilt: 1.3.0
 stima: 1.2.1
 stinepack: '1.4'
@@ -16133,7 +16142,7 @@ SubLasso: '1.0'
 sublime: '1.3'
 sublogo: '1.1'
 submax: 1.1.1
-subniche: 0.9.7
+subniche: '1.0'
 SubpathwayGMir: '1.0'
 SubpathwayLNCE: '1.0'
 SubpathwayMiner: '3.1'
@@ -16538,7 +16547,7 @@ temperatureresponse: '0.2'
 templates: 0.3.0
 TempleMetrics: 1.2.0
 tempoR: 1.0.4.4
-Temporal: 0.1.1
+Temporal: 0.2.0
 tempR: 0.9.9.16
 Tendril: 2.0.4
 tenispolaR: 0.1.4
@@ -16829,7 +16838,7 @@ TMB: 1.7.16
 tmbstan: 1.0.2
 TmCalculator: 1.0.0
 tmcn: 0.2-13
-TMDb: '1.0'
+TMDb: '1.1'
 tmg: '0.3'
 Tmisc: 0.1.22
 tmle: 1.4.0.1
@@ -17285,7 +17294,7 @@ unglue: 0.0.1
 ungroup: 1.1.5
 unheadr: 0.2.1
 uniah: '1.0'
-Unicode: 12.0.0-1
+Unicode: 13.0.0-1
 uniCox: '1.0'
 UniDOE: 1.0.2
 unifDAG: 1.0.3
@@ -17304,7 +17313,7 @@ unisensR: 0.3.2
 UnitCircle: 0.1.3
 unitedR: 0.3.1
 unitizer: 1.4.9
-units: 0.6-5
+units: 0.6-6
 unittest: 1.4-0
 unival: 1.0.2
 univariateML: 1.0.0
@@ -17382,7 +17391,7 @@ utiml: 0.1.6
 uuid: 0.1-4
 UWHAM: '1.0'
 uwIntroStats: 0.0.7
-uwot: 0.1.5
+uwot: 0.1.8
 V8: 3.0.2
 VA: '1.0'
 vabayelMix: '0.3'
@@ -17895,7 +17904,7 @@ wrswoR: '1.1'
 wrswoR.benchmark: '0.2'
 WRTDStidal: 1.1.2
 wru: 0.1-9
-wskm: 1.4.28
+wskm: 1.4.36
 wsrf: 1.7.17
 wSVM: 0.1-7
 wsyn: 1.0.2
@@ -18048,6 +18057,7 @@ yuimaGUI: 1.3.0
 yum: 0.0.1
 yummlyr: 0.1.1
 Z10: 0.1.0
+zalpha: 0.1.0
 zbank: 0.1.0
 zCompositions: 1.3.4
 zeallot: 0.1.0
