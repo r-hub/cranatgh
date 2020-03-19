@@ -230,6 +230,7 @@ aimsir17: 0.0.1
 aire.zmvm: 0.8.2
 airGR: 1.4.3.65
 airGRteaching: 0.2.8.69
+aiRly: 0.1.0
 airportr: 0.1.3
 airqualityES: 1.0.0
 airr: 1.2.0
@@ -757,6 +758,7 @@ baggr: 0.4.0
 Bagidis: '1.0'
 BAGofT: 0.1.0
 bagRboostR: 0.0.2
+bahc: 0.1.0
 bain: 0.2.4
 bairt: 0.1.2
 baitmet: 1.0.1
@@ -1082,7 +1084,7 @@ Bergm: 5.0.1
 BerkeleyEarth: '1.8'
 BerlinData: 1.0.1
 berryFunctions: 1.18.2
-BeSS: 1.0.7
+BeSS: 1.0.8
 Bessel: 0.6-0
 BEST: 0.5.1
 bestglm: 0.37.3
@@ -1580,7 +1582,7 @@ BRETIGEA: 1.0.0
 brew: 1.0-6
 brewdata: '0.4'
 brglm: 0.6.2
-brglm2: 0.6.1
+brglm2: 0.6.2
 bride: '1.3'
 bridgedist: 0.1.0
 bridger2: 0.1.0
@@ -2404,6 +2406,7 @@ colcor: '1.0'
 cold: 2.0-0
 colf: 0.1.3
 CollapsABEL: 0.10.11
+collapse: 1.0.0
 CollapseLevels: 0.2.0
 collapsibleTree: 0.1.7
 collateral: 0.4.2
@@ -2593,7 +2596,7 @@ constants: 0.0.2
 constellation: 0.2.0
 constrainedKriging: 0.2.4
 conStruct: 1.0.4
-contact: 1.2.0
+contact: 1.2.1
 container: 0.3.0
 Containers: '1.2'
 ContaminatedMixt: 1.3.4
@@ -2602,7 +2605,7 @@ contfrac: 1.1-12
 conting: '1.7'
 contoureR: 1.0.5
 ContourFunctions: .na.character
-contrast: '0.21'
+contrast: '0.22'
 contribution: 0.1.0
 control: 0.2.5
 controlTest: 1.1.0
@@ -2773,6 +2776,7 @@ coxphMIC: 0.1.0
 coxphSGD: 0.2.1
 coxphw: 4.0.1
 CoxPlus: 1.1.1
+CoxR2: '1.0'
 CoxRidge: 0.9.2
 coxrobust: '1.0'
 coxrt: 1.0.3
@@ -3635,7 +3639,7 @@ distillery: 1.0-6
 disto: 0.2.0
 distory: 1.4.3
 distr: 2.8.0
-distr6: 1.3.4
+distr6: 1.3.5
 distrDoc: 2.8.0
 distreg.vis: 1.7.0
 distrEllipse: 2.8.0
@@ -3791,7 +3795,7 @@ dpcid: '1.0'
 dpcR: '0.5'
 dpglasso: '1.0'
 Dpit: '1.0'
-dplR: 1.7.0
+dplR: 1.7.1
 dplRCon: '1.0'
 dplyr: 0.8.5
 dplyr.teradata: 0.3.2
@@ -3871,6 +3875,7 @@ DSpat: 0.1.6
 DSpoty: 0.1.0
 dsr: 0.2.2
 dsrTest: 0.2.1
+DSSAT: 0.0.1
 dssd: 0.2.1
 DSsim: 1.1.5
 dst: 1.4.0
@@ -4093,6 +4098,7 @@ EDA: '1.3'
 eda4treeR: 0.2.0
 EDanalysis: '1.0'
 edarf: 1.1.1
+edbuildr: 0.1.1
 edcc: 1.0-0
 edci: 1.1-3
 eddi: 0.0.1
@@ -4232,6 +4238,7 @@ EloOptimized: 0.3.0
 EloRating: 0.46.11
 elpatron: 0.0.4
 elrm: '1.2'
+elsa: 1.1-28
 ElstonStewart: '1.1'
 ELT: '1.6'
 ELYP: 0.7-5
@@ -4472,6 +4479,7 @@ errorist: 0.1.0
 errorizer: 0.2.1
 errorlocate: 0.3.0
 errors: 0.3.3
+errum: 0.0.2
 ERSA: 0.1.1
 eRTG3D: 0.6.2
 ES: '1.0'
@@ -4506,7 +4514,7 @@ EstHer: '1.0'
 estimability: '1.3'
 EstimateGroupNetwork: 0.2.2
 EstimationTools: 1.2.1
-estimatr: 0.20.0
+estimatr: 0.22.0
 estmeansd: 0.2.0
 EstMix: 1.0.1
 estout: '1.2'
@@ -4890,6 +4898,7 @@ FDRSeg: 1.0-3
 fdrtool: 1.2.15
 fds: '1.8'
 fdth: 1.2-1
+FDX: 1.0.0
 FeaLect: '1.20'
 feasts: 0.1.3
 feather: 0.3.5
@@ -5173,6 +5182,7 @@ forensim: '4.3'
 foreSIGHT: 0.9.81
 forestChange: '1.0'
 forestControl: 0.2.1
+ForestDisc: 0.1.0
 forestError: 0.1.1
 ForestFit: 0.5.7
 forestFloor: 1.9.5
@@ -5833,7 +5843,7 @@ ggdendro: 0.1-20
 ggdistribute: 1.0.3
 ggdmc: 0.2.6.0
 gge: '1.4'
-ggeasy: 0.1.1
+ggeasy: 0.1.2
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.1
 ggedit: 0.3.0
@@ -5925,6 +5935,7 @@ ggsom: 0.4.0
 ggspatial: 1.0.3
 ggspectra: 0.3.5
 ggstance: 0.3.3
+ggstar: 0.0.4
 ggstatsplot: 0.3.1
 ggsubplot: 0.3.2
 ggswissmaps: 0.1.1
@@ -5964,7 +5975,7 @@ GillespieSSA2: 0.2.6.1
 gim: 0.28.0
 gimme: 0.7-1
 gimmeTools: '0.1'
-gimms: 1.1.1
+gimms: 1.1.3
 GiNA: 1.0.1
 GiniDistance: 0.1.0
 GiniWegNeg: 1.0.1
@@ -8198,7 +8209,7 @@ lisa: 0.1.1
 liso: '0.2'
 lisp: '0.1'
 lisrelToR: 0.1.4
-list: '9.1'
+list: '9.2'
 listarrays: 0.3.1
 listdtr: '1.0'
 listenv: 0.8.0
@@ -8821,6 +8832,7 @@ mcpd: '1.0'
 MCPerm: 1.1.4
 MCPMod: 1.0-10.1
 MCPModGeneral: 0.1-1
+MCPModPack: '0.1'
 mcprofile: 0.2-3
 mcr: 1.2.1
 MCS: 0.1.3
@@ -9593,7 +9605,7 @@ moult: 2.1.0
 mountainplot: '1.2'
 mousetrack: 1.0.0
 mousetrap: 3.1.4
-move: 3.2.2
+move: 3.3.0
 movecost: '0.3'
 moveHMM: '1.7'
 moveVis: 0.10.4-1
@@ -9641,6 +9653,7 @@ MPTinR: 1.12.0
 MPTmultiverse: 0.3-3
 mptools: 1.0.1
 MPV: '1.55'
+MQMF: 0.1.0
 Mqrcm: '1.1'
 mQTL: '1.0'
 mr: '0.1'
@@ -9648,6 +9661,7 @@ mr.raps: '0.2'
 mra: 2.16.11
 mratios: 1.4.0
 mrbayes: 0.1.0
+mrbin: 1.3.0
 mrbsizeR: 1.2.1
 MRCE: '2.1'
 mRchmadness: 1.0.0
@@ -10086,7 +10100,7 @@ needy: '0.2'
 NEff: '1.1'
 NegBinBetaBinreg: .na.character
 negenes: 1.0-12
-neighbr: 1.0.2
+neighbr: 1.0.3
 neldermead: 1.0-11
 Nemenyi: '1.2'
 NeMo: '1.0'
@@ -10111,6 +10125,7 @@ netcoh: '0.2'
 netCoin: 1.1.24
 netcom: 1.0.4
 NetComp: '1.6'
+netcontrol: '0.1'
 NetData: '0.3'
 netdep: 0.1.0
 netdiffuseR: 1.21.0
@@ -10282,7 +10297,7 @@ nmadb: 1.2.0
 NMADiagT: 0.1.2
 nmaINLA: 0.1.2
 NMAoutlier: 0.1.13
-nmathresh: 0.1.4
+nmathresh: 0.1.5
 nmcdr: 0.3.0
 NMF: 0.22.0
 nmfem: 1.0.5
@@ -10576,6 +10591,7 @@ ODS: 0.2.0
 oec: 2.7.8
 OECD: 0.2.4
 oem: 2.0.9
+oenb: 0.0.1
 officer: 0.3.8
 offlineChange: 0.0.2
 ofGEM: '1.0'
@@ -10651,7 +10667,7 @@ openadds: 0.2.0
 openair: 2.7-0
 openblender: 0.4.6
 opencage: 0.1.4
-opencastR: 0.1.2
+opencastR: 0.1.3
 OpenCL: 0.2-1
 opencpu: 2.1.6
 opencpu.demo: 0.7-0
@@ -11054,6 +11070,7 @@ partsm: 1.1-2
 party: 1.3-4
 partykit: 1.2-7
 parviol: '1.1'
+parzer: 0.1.0
 PAS: 1.2.5
 PASenseWear: '1.0'
 Pasha: 0.99.21
@@ -11144,7 +11161,7 @@ pcadapt: 4.3.1
 PCADSC: .na.character
 pcaL1: 1.5.4
 pcalg: 2.6-10
-pCalibrate: 0.1-1
+pCalibrate: 0.2-1
 PCAmixdata: '3.1'
 pcaPA: '2.0'
 pcaPP: 1.9-73
@@ -11446,7 +11463,7 @@ PhysicalActivity: 0.2-2
 PhySim: '1.0'
 physiology: 1.2.1
 PhySortR: 1.0.8
-phytools: 0.6-99
+phytools: 0.7-20
 phytotools: '1.0'
 pi0: 1.4-1
 picante: 1.8.1
@@ -11508,7 +11525,7 @@ pkgfilecache: .na.character
 pkggraph: 0.2.3
 pkgKitten: 0.1.5
 pkgload: 1.0.2
-pkgmaker: '0.31'
+pkgmaker: 0.31.1
 pkgnet: 0.4.0
 PKgraph: '1.7'
 pkgsearch: 3.0.2
@@ -12444,7 +12461,7 @@ r2d2: 1.0-0
 r2d3: 0.2.3
 R2DGC: 1.0.3
 r2dRue: 1.0.4
-R2DT: '0.1'
+R2DT: '0.2'
 R2G2: '1.0'
 r2glmm: 0.1.2
 R2GUESS: '2.0'
@@ -12508,7 +12525,7 @@ RadOnc: 1.1.5
 radsafer: 2.2.0
 radtools: 1.0.6
 RadTran: '1.0'
-Radviz: 0.8.2
+Radviz: 0.9.0
 RAdwords: 0.1.18
 rafalib: 1.0.0
 RAFM: '1.1'
@@ -13800,6 +13817,7 @@ rock: 0.1.0
 rockchalk: 1.8.144
 RockFab: '1.2'
 rocNIT: '1.0'
+ROCnReg: '1.0'
 rococo: 1.1.7
 rocplus: 1.0-0
 ROCR: 1.0-7
@@ -13989,7 +14007,7 @@ rprintf: 0.2.1
 RProbSup: '2.1'
 Rprofet: 2.2.0
 rprojroot: 1.3-2
-RProtoBuf: 0.4.15
+RProtoBuf: 0.4.16
 RPS: 1.0.1
 rpsftm: 1.2.6
 rpst: 1.0.0
@@ -14637,6 +14655,7 @@ SCVA: 1.3.1
 scvxclustr: '0.1'
 sda: 1.3.7
 SDaA: 0.1-3
+sdafilter: 1.0.0
 SDALGCP: 0.3.0
 SDAR: 0.9-3
 sdat: '1.1'
@@ -14988,6 +15007,7 @@ shinyMobile: 0.1.0
 shinyMolBio: '0.2'
 shinyNotes: 0.0.1
 shinypanels: 0.5.0
+shinyr: 0.2.6
 shinyrecap: 0.1.0
 shinyRGL: 0.1.0
 shinyShortcut: 0.1.0
@@ -15017,7 +15037,7 @@ shrink: 1.2.1
 Shrinkage: '1.0'
 ShrinkCovMat: 1.4.0
 shrinkTVP: 1.1.1
-SHT: 0.1.2
+SHT: 0.1.3
 shuffle: 1.0.1
 shuffleCI: 0.1.0
 shutterstock: 0.1.0
@@ -15134,6 +15154,7 @@ simpleRCache: 0.3.2
 simpleroptions: 0.2.0
 simpleSetup: 0.1.0
 SimpleTable: 0.1-2
+simplevis: 1.0.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 SimplicialCubature: '1.2'
@@ -15343,7 +15364,7 @@ SMPracticals: 1.4-3
 SMR: 2.0.1
 sms: 2.3.1
 smss: 1.0-2
-smurf: 1.0.4
+smurf: 1.0.5
 SMUT: '1.1'
 SMVar: 1.3.3
 sn: 1.5-5
@@ -15402,7 +15423,7 @@ SocialMediaMineR: '0.4'
 socialmixr: 0.1.6
 SocialNetworks: '1.1'
 SocialPosition: 1.0.1
-sociome: 1.3.2
+sociome: 1.4.0
 SocrataR: '0.5'
 socviz: '1.1'
 SOD: '1.0'
@@ -15629,6 +15650,7 @@ SpATS: 1.0-11
 spatsoc: 0.1.9
 spatstat: 1.63-3
 spatstat.data: 1.4-3
+spatstat.gui: 1.0-2
 spatstat.Knet: 1.11-2
 spatstat.local: 3.6-0
 spatstat.utils: 1.17-0
@@ -16233,7 +16255,7 @@ survClip: 0.2.3
 survcomp: 1.1.6
 SurvCorr: '1.0'
 SurvDisc: 0.1.1
-surveillance: 1.17.3
+surveillance: 1.18.0
 survELtest: 2.0.1
 survexp.fr: '1.0'
 survey: '3.37'
@@ -16696,7 +16718,7 @@ TideCurves: 0.0.4
 TideHarmonics: 0.1-1
 Tides: '2.1'
 TideTables: 0.0.2
-tidybayes: 2.0.1
+tidybayes: 2.0.2
 tidyboot: 0.1.1
 tidycells: 0.2.2
 tidycensus: 0.9.6
@@ -16715,7 +16737,7 @@ tidyimpute: 0.1.0
 tidyinftheo: 0.2.1
 tidyjson: 0.2.4
 tidylog: 1.0.0
-tidyLPA: 1.0.5
+tidyLPA: 1.0.6
 tidymargins: 0.1.0
 tidymodels: 0.1.0
 tidymv: 2.2.0
@@ -17202,6 +17224,7 @@ TUWmodel: 1.1-1
 tvd: 0.1.0
 tvgeom: 1.0.1
 tvm: 0.4.0
+TVMM: '1.0'
 tvR: 0.3.1
 tvReg: 0.5.0
 TVsMiss: 0.1.1
@@ -17350,7 +17373,7 @@ urlshorteneR: 1.1.2
 urltools: 1.7.3
 urn: 2.2.1
 uroot: 2.1-0
-ursa: 3.8.16
+ursa: 3.8.17
 usa: 0.1.0
 USAboundaries: 0.3.1
 UScancer: 0.1-2
@@ -17489,7 +17512,7 @@ vctrs: 0.2.4
 vcvComp: 1.0.1
 VDA: '1.3'
 VDAP: 2.0.0
-vdar: 0.1.1
+vdar: 0.1.2-1
 VDCutil: '1.15'
 vdg: 1.2.0
 Vdgraph: 2.2-2
@@ -17781,6 +17804,7 @@ WGScan: '0.1'
 wgsea: '1.8'
 WgtEff: 0.1.2
 WhatIf: 1.5-9
+whatr: 1.0.0
 wheatmap: 0.1.0
 whereami: 0.1.9
 whereport: '0.1'
@@ -17906,6 +17930,7 @@ wrswoR: '1.1'
 wrswoR.benchmark: '0.2'
 WRTDStidal: 1.1.2
 wru: 0.1-9
+wsbackfit: '1.0'
 wskm: 1.4.36
 wsrf: 1.7.17
 wSVM: 0.1-7
