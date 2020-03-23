@@ -330,7 +330,7 @@ ampir: 0.1.0
 AMPLE: 0.0.2
 AmpliconDuo: '1.1'
 AMR: 1.0.1
-amt: 0.0.7
+amt: 0.0.8
 AmyloGram: '1.1'
 AnaCoDa: 0.1.3.0
 anacor: 1.1-3
@@ -500,7 +500,7 @@ ari: 0.3.5
 ARIbrain: '0.2'
 aricode: 0.1.2
 arkdb: 0.0.5
-arkhe: 0.2.1
+arkhe: 0.2.2
 arm: 1.10-1
 armada: 0.1.0
 armspp: 0.0.2
@@ -908,7 +908,7 @@ bayesloglin: 1.0.1
 bayeslongitudinal: 0.1.0
 bayesLopod: 1.0.1
 bayesm: 3.1-4
-BayesMallows: 0.4.1
+BayesMallows: 0.4.2
 BayesMAMS: '0.1'
 bayesMCClust: '1.0'
 BayesMed: '1.0'
@@ -936,7 +936,7 @@ Bayesrel: 0.6.1
 BayesReversePLLH: '1.3'
 BayesRS: 0.1.3
 bayess: '1.4'
-BayesS5: '1.31'
+BayesS5: '1.40'
 BayesSAE: 1.0-2
 BayesSenMC: 0.1.1
 BayesSingleSub: '0.6'
@@ -1254,7 +1254,7 @@ BinNor: 2.3.1
 binom: 1.1-1
 binomen: 0.1.2
 binomialcftp: '1.0'
-binomialMix: '1.0'
+binomialMix: 1.0.1
 binomialRF: 0.0.2
 binomlogit: '1.2'
 binomSamSize: 0.1-5
@@ -1728,7 +1728,7 @@ CAISEr: 1.0.16
 calACS: 2.2.2
 CalciOMatic: 1.1-3
 Calculator.LR.FNs: '1.3'
-calculus: 0.2.0
+calculus: 0.2.1
 calcWOI: 1.0.2
 calendar: 0.0.1
 CALF: 0.2.0
@@ -1896,7 +1896,7 @@ CC: '1.0'
 CCA: '1.2'
 ccafs: 0.1.0
 CCAGFA: 1.0.8
-CCAMLRGIS: 3.0.2
+CCAMLRGIS: 3.0.3
 ccaPP: 0.3.3
 cccd: '1.5'
 ccChooser: 0.2.6
@@ -2138,7 +2138,7 @@ CircStats: 0.2-6
 circular: 0.4-93
 CircularDDM: 0.1.0
 circumplex: 0.3.5
-cIRT: 1.3.0
+cIRT: 1.3.1
 CISE: 0.1.0
 cit: '2.2'
 CITAN: 2015.12-2
@@ -2640,7 +2640,7 @@ CoordinateCleaner: 2.0-11
 COP: '1.0'
 copas: 0.8-0
 COPASutils: '0.1'
-copBasic: 2.1.4
+copBasic: 2.1.5
 copCAR: 2.0-2
 CopCTS: 1.0.0
 cope: 0.2.3
@@ -2711,7 +2711,7 @@ corrperm: '2.0'
 corrplot: '0.84'
 corrr: 0.4.2
 corrsieve: 1.6-8
-CorrToolBox: 1.6.1
+CorrToolBox: 1.6.2
 corset: 0.1-4
 CorShrink: 0.1-6
 corTest: 0.9.8
@@ -2760,6 +2760,7 @@ COveR: 1.0.3
 covfefe: .na.character
 covglasso: 1.0.1
 covid19italy: 0.1.0
+covid19us: 0.1.0
 covLCA: '1.0'
 covmat: '1.0'
 Covpath: '1.0'
@@ -2960,7 +2961,7 @@ CTM: '0.2'
 ctmcd: 1.4.1
 ctmcmove: 1.2.9
 ctmle: 0.1.2
-ctmm: 0.5.8
+ctmm: 0.5.9
 ctqr: '1.1'
 ctrdata: '1.2'
 CTRE: 0.1.0
@@ -3505,7 +3506,7 @@ DiagrammeRsvg: '0.1'
 DiagTest3Grp: '1.6'
 DiallelAnalysisR: 0.1.1
 dialr: 0.3.0
-dialrjars: 8.11.4
+dialrjars: 8.12.0
 dials: 0.0.4
 diamonds: 1.0-5
 diaplt: 1.3.0
@@ -4131,6 +4132,7 @@ edgarWebR: 1.0.1
 edgebundleR: 0.1.4
 edgeCorr: '1.0'
 edgeRun: 1.0.9
+edina: 0.1.0
 EDISON: 1.1.1
 editData: 0.1.2
 EditImputeCont: 1.1.6
@@ -4147,6 +4149,7 @@ edstan: 1.0.6
 EdSurvey: 2.4.0
 edtdbg: 1.0.0
 educineq: 0.1.0
+edwards97: 0.1.0
 eechidna: 1.4.0
 eefAnalytics: 1.0.6
 eegAnalysis: '0.0'
@@ -4173,7 +4176,7 @@ EffectStars2: 0.1-3
 EffectTreat: '1.0'
 EfficientMaxEigenpair: 0.1.4
 efflog: '1.0'
-effsize: 0.7.8
+effsize: 0.7.9
 efreadr: 0.2.2
 EFS: 1.0.3
 efts: 0.9-0
@@ -4966,9 +4969,9 @@ FGalgorithm: '1.0'
 fGarch: 3042.83.2
 fgdr: 1.0.0
 fgeo: 1.1.4
-fgeo.analyze: 1.1.12
+fgeo.analyze: 1.1.13
 fgeo.plot: 1.1.9
-fgeo.tool: 1.2.5
+fgeo.tool: 1.2.6
 fgeo.x: 1.1.4
 fgm: '1.0'
 Fgmutils: 0.9.5
@@ -5235,7 +5238,7 @@ fortunes: 1.5-4
 forward: 1.0.5
 forwards: 0.1.3
 ForwardSearch: '1.0'
-fossil: 0.3.7
+fossil: 0.4.0
 FossilSim: 2.1.1
 foto: 1.0.0
 FourgameteP: 0.1.0
@@ -5665,7 +5668,7 @@ generalCorr: 1.1.5
 generalhoslem: 1.3.4
 GeneralisedCovarianceMeasure: 0.1.0
 GeneralizedHyperbolic: 0.8-4
-GeneralizedUmatrix: 1.1.8
+GeneralizedUmatrix: 1.1.9
 GeneralOaxaca: '1.0'
 GeneralTree: 0.0.1
 generator: 0.1.0
@@ -6476,7 +6479,7 @@ GWAF: '2.2'
 GWASbyCluster: 0.1.7
 GWASExactHW: '1.01'
 GWASinlps: '1.2'
-GWASinspector: 1.4.5
+GWASinspector: 1.4.6
 GWAtoolbox: 2.2.4
 gwdegree: 0.1.1
 gwer: '2.0'
@@ -6767,7 +6770,7 @@ HMDHFDplus: 1.9.13
 hmeasure: 1.0-2
 hmgm: 1.0.2
 hmi: 0.9.17
-Hmisc: 4.3-1
+Hmisc: 4.4-0
 hmlasso: 0.0.1
 HMM: '1.0'
 hmm.discnp: 2.1-12
@@ -7891,7 +7894,7 @@ ktaucenters: 0.1.0
 KTensorGraphs: '0.2'
 ktsolve: '1.2'
 ktspair: '1.0'
-kubik: 0.1.2
+kubik: 0.2.0
 kuiper.2samp: '1.0'
 kulife: 0.1-14
 Kurt: '1.0'
@@ -7928,7 +7931,7 @@ lacunaritycovariance: 1.0-13
 LadR: 1.0.6
 laeken: 0.5.1
 laercio: 1.0-1
-LaF: 0.8.0
+LaF: 0.8.4
 lagged: 0.3-0
 lago: 0.1-1
 LAGOSNE: 2.0.1
@@ -8680,7 +8683,7 @@ marmap: 1.0.3
 marqLevAlg: 2.0.1
 MARSS: 3.10.12
 MARX: '0.2'
-maSAE: 2.0.0
+maSAE: 2.0.1
 mase: 0.1.2
 MaskJointDensity: '1.0'
 mason: 0.2.6
@@ -8927,7 +8930,7 @@ MedDietCalc: 0.1.1
 MedDietScore: 0.1.0
 mederrRank: 0.0.8
 medExtractR: '0.1'
-medfate: 0.8.2
+medfate: 0.9.0
 medflex: 0.6-6
 mediacloudr: 0.1.0
 MediaK: '1.0'
@@ -9006,7 +9009,7 @@ Metabonomic: '3.5'
 MetaboQC: '1.0'
 metacart: 2.0-2
 metacoder: 0.3.3
-metacom: 1.5.2
+metacom: 1.5.3
 MetaComp: 1.1.2
 metacor: 1.0-2.1
 MetaCycle: 1.2.0
@@ -10677,6 +10680,7 @@ ONETr: 1.0.3
 OneTwoSamples: 1.0-3
 onewaytests: '2.4'
 onion: 1.2-7
+onlineCOV: '1.3'
 onlineCPD: '1.0'
 onlinePCA: 1.3.1
 onlineVAR: 0.1-1
@@ -10690,7 +10694,7 @@ oolong: 0.3.4
 OOmisc: '1.2'
 oompaBase: 3.2.9
 oompaData: 3.1.1
-OOR: 0.1.2
+OOR: 0.1.3
 oosp: 0.3.3
 opalr: 1.3.0
 opart: 2019.1.0
@@ -11221,7 +11225,7 @@ PCIT: 1.5-3
 pcLasso: '1.1'
 pcmabc: '1.1'
 PCMBase: 1.2.11
-PCMBaseCpp: 0.1.8
+PCMBaseCpp: 0.1.9
 PCMRS: 0.1-1
 pcnetmeta: '2.6'
 pco: 1.0.1
@@ -11851,7 +11855,7 @@ postinfectious: 0.1.0
 postlightmercury: '1.2'
 postlogic: 0.1.0.1
 POT: 1.1-7
-potts: 0.5-8
+potts: 0.5-9
 PottsUtils: 0.3-3
 POUMM: 2.1.6
 povcalnetR: 0.1.0
@@ -11978,7 +11982,7 @@ prevR: 3.4.0
 prevtoinc: 0.12.0
 prewas: 1.1.0
 pRF: '1.2'
-priceR: 0.1.0
+priceR: 0.1.1
 pricesensitivitymeter: 1.1.1
 prim: 1.0.17
 PRIMAL: 1.0.2
@@ -12048,7 +12052,7 @@ PROFANCY: '1.0'
 profdpm: '3.3'
 ProfessR: 2.4-1
 profExtrema: 0.2.1
-proffer: 0.0.2
+proffer: 0.1.0
 profile: '1.0'
 ProfileLikelihood: '1.1'
 profileModel: 0.6.0
@@ -12223,7 +12227,7 @@ pulseTD: 0.1.0
 pulver: 0.1.1
 pumilioR: 1.3.1
 puniform: 0.2.1
-PUPAIM: 0.1.0
+PUPAIM: 0.2.0
 PupillometryR: 0.0.1
 PupilPre: 0.6.2
 PurBayes: '1.3'
@@ -12269,7 +12273,7 @@ pysd2r: 0.1.0
 pystr: 2.0.0
 PythonInR: 0.1-11
 pzfx: 0.2.0
-qad: 0.1.1
+qad: 0.1.2
 QAIG: 0.1.5
 qAnalyst: 0.6.4
 qap: 0.1-1
@@ -12718,7 +12722,7 @@ rawFasta: 1.0.0
 rawKS: 0.1.0
 rawr: 0.1.0
 raws.profile: 0.1.0
-rayimage: 0.2.3
+rayimage: 0.2.5
 rayrender: 0.6.0
 rayshader: 0.13.7
 rbacon: 2.4.1
@@ -13318,7 +13322,7 @@ retimes: 0.1-2
 retistruct: 0.6.2
 retractcheck: 1.0.0
 retrodesign: 0.1.0
-retrosheet: 1.1.0
+retrosheet: 1.1.1
 reutils: 0.2.3
 reval: 2.0.0
 revdbayes: 1.3.6
@@ -14156,7 +14160,7 @@ RSDA: 3.0.1
 rsdepth: 0.1-5
 rsdmx: 0.5-13
 RSE: '1.3'
-rSEA: 2.1.0
+rSEA: 2.1.1
 RSearchYJ: 0.0.1
 rsed: 0.1.2
 RSeed: 0.1.60
@@ -15012,6 +15016,7 @@ shiftR: '1.5'
 ShiftShareSE: 1.0.1
 shiny: 1.4.0.2
 shiny.i18n: 0.1.0
+shiny.info: 0.2.0
 shiny.router: 0.1.1
 shiny.semantic: 0.3.0
 shinyAce: 0.4.1
@@ -15879,7 +15884,7 @@ spTimer: '3.3'
 sptm: 2019.11-25
 spup: 1.3-1
 spuRs: 2.0.2
-SPUTNIK: '1.1'
+SPUTNIK: '1.3'
 spweights: 0.1-7
 SPYvsSPY: 0.1.1
 SQB: '0.4'
@@ -16021,7 +16026,7 @@ StateTrace: '1.0'
 statfi: 0.9.8
 StatFingerprints: '2.0'
 statgenGWAS: 1.0.4
-statgenSTA: 1.0.3
+statgenSTA: 1.0.4
 statGraph: 0.3.0
 stationaRy: 0.5.1
 stationery: 0.98.24
@@ -16283,7 +16288,7 @@ sure: 0.2.0
 surface: '0.4'
 SurfaceTortoise: 1.0.1
 suropt: 0.1.1
-Surrogate: '1.6'
+Surrogate: '1.7'
 SurrogateOutcome: '1.0'
 SurrogateTest: '1.1'
 surrosurv: 1.1.25
@@ -16450,7 +16455,7 @@ SynergizeR: '0.2'
 synergyfinder: '0.1'
 SyNet: '2.0'
 synlik: 0.1.2
-synoptReg: 1.0.0
+synoptReg: 1.0.1
 synRNASeqNet: '1.0'
 syntaxr: 0.8.0
 Synth: 1.1-5
@@ -16474,7 +16479,7 @@ taber: 0.1.0
 tabit: 0.1.1
 tablaxlsx: 1.2.2
 table.express: 0.3.1
-table1: '1.1'
+table1: '1.2'
 Table1Heatmap: '1.1'
 table1xls: 0.4.0
 TableHC: 0.1.2
@@ -16511,7 +16516,7 @@ taipan: 0.1.2
 takos: 0.1.0
 TAM: 3.4-26
 Tampo: '1.0'
-tanaka: 0.1.1
+tanaka: 0.1.2
 TanB: '0.1'
 TANDEM: 1.0.3
 tangles: 0.8.1
@@ -17448,7 +17453,7 @@ usethis: 1.5.1
 usfertilizer: 0.1.5
 USgrid: 0.1.0
 USGSstates2k: 1.0.1
-ushr: 0.2.1
+ushr: 0.2.2
 UsingR: 2.0-6
 uskew: 0.11-3
 uskewFactors: '2.0'
@@ -18022,7 +18027,7 @@ xergm.common: 1.7.7
 xesreadR: 0.2.3
 xfun: '0.12'
 xgb2sql: 0.1.2
-xgboost: 0.90.0.2
+xgboost: 1.0.0.1
 xgobi: 1.2-15
 XGR: 1.1.7
 xgrid: 1.0-1
@@ -18033,7 +18038,7 @@ XiMpLe: 0.10-2
 xkcd: 0.0.6
 xkcdcolors: '1.0'
 XKCDdata: 0.1.0
-XLConnect: 1.0.0
+XLConnect: 1.0.1
 XLConnectJars: 0.2-15
 xlink: 1.0.1
 xLLiM: '2.1'
