@@ -1387,7 +1387,7 @@ blavaan: 0.3-9
 BLCOP: 0.3.2
 blendedLink: '1.0'
 blender: 0.1.2
-Blendstat: 1.0.2
+Blendstat: 1.0.3
 blighty: 3.1-4
 blin: 0.0.1
 blink: 1.0.0
@@ -2492,7 +2492,7 @@ ComPairWise: '1.0'
 compare: 0.2-6
 compareC: 1.3.1
 CompareCausalNetworks: 0.2.6.2
-compareDF: 2.0.1
+compareDF: 2.0.2
 compareGroups: 4.4.1
 compareODM: '1.2'
 comparer: 0.2.0
@@ -3588,7 +3588,7 @@ diptest: 0.75-7
 DIRECT: 1.0.1
 DirectedClustering: 0.1.1
 DirectEffects: '0.2'
-Directional: '4.2'
+Directional: '4.3'
 directlabels: 2020.1.31
 directotree: 1.0.0
 directPA: '1.4'
@@ -3627,7 +3627,7 @@ diseasemapping: 1.4.6
 Disequilibrium: '1.0'
 DisHet: 1.0.0
 DisimForMixed: '0.2'
-DisImpact: 0.0.5
+DisImpact: 0.0.6
 disk.frame: 0.3.4
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
@@ -3896,6 +3896,7 @@ DSSAT: 0.0.1
 dssd: 0.2.1
 DSsim: 1.1.5
 dst: 1.4.0
+dstack: 0.1.0
 DstarM: 0.3.0
 dstat: 1.0.4
 DStree: '1.0'
@@ -4094,7 +4095,7 @@ EcoNetGen: 0.2.3
 econetwork: '0.3'
 economiccomplexity: '1.0'
 econullnetr: 0.2.0
-ecoreg: 0.2.2
+ecoreg: 0.2.3
 ecoretriever: '0.2'
 ecoseries: 0.1.5
 ecosim: 1.3-1
@@ -4120,6 +4121,7 @@ edbuildr: 0.1.1
 edcc: 1.0-0
 edci: 1.1-3
 eddi: 0.0.1
+eddington: 2.1.1
 edeaR: 0.8.4
 edeR: 1.0.0
 edesign: 1.0-9
@@ -4453,6 +4455,7 @@ Eplot: '1.0'
 eplusr: 0.12.0
 eply: 0.1.2
 epoc: 0.2.6-1.1
+eponge: 0.1.0
 epos: 0.1.0
 epr: '3.0'
 epsi: 1.1-0
@@ -6497,6 +6500,7 @@ gWidgetstcltk: 0.0-55
 gWidgetsWWW: 0.0-9
 GWLelast: 1.2.2
 GWmodel: 2.1-3
+GWnnegPCA: 0.0.1
 gWQS: 2.0.1
 gWQSRS: 1.1.1
 GWRM: 2.1.0.3
@@ -8345,6 +8349,7 @@ lodGWAS: 1.0-7
 lodi: 0.9.2
 lodplot: '1.1'
 loe: '1.1'
+loewesadditivity: 0.1.0
 log10: 0.1.0-03
 log4r: 0.3.2
 LOGAN: 1.0.0
@@ -8851,7 +8856,7 @@ MCMCtGARCH: '1.0'
 MCMCtGARCHM: '1.0'
 MCMCtNARCH: '1.0'
 MCMCtreeR: '1.1'
-MCMCvis: 0.13.5
+MCMCvis: 0.14.0
 mcMST: 1.0.1
 mco: 1.0-15.1
 Mcomp: '2.8'
@@ -9104,7 +9109,7 @@ mexhaz: '1.7'
 mExplorer: 1.0.0
 MExPosition: 2.0.3
 MF: 4.3.2
-MFAg: '1.5'
+MFAg: '1.6'
 mfblock: '1.0'
 mfbvar: 0.5.3
 MFDA: 1.1-4
@@ -9414,7 +9419,7 @@ mlogitBMA: 0.1-6
 MLPAstats: 0.5-9
 mlPhaser: '0.01'
 MLPUGS: 0.2.0
-mlr: 2.17.0
+mlr: 2.17.1
 mlr3: 0.1.8
 mlr3data: 0.1.0
 mlr3db: 0.1.5
@@ -9652,7 +9657,7 @@ mozzie: 0.1.0
 mp: 0.4.1
 mpa: 0.7.3
 MPAgenomics: 1.1.2
-mpath: 0.3-23
+mpath: 0.3-24
 mpbart: '0.2'
 MPBoost: 0.1-3
 mpc: '0.1'
@@ -9962,8 +9967,8 @@ muUtil: 1.6.0
 MuViCP: 1.3.2
 MVA: 1.0-6
 mvabund: 4.1.3
-MVar: 2.1.1
-MVar.pt: 2.1.1
+MVar: 2.1.2
+MVar.pt: 2.1.2
 MVB: '1.1'
 MvBinary: '1.1'
 mvbutils: 2.8.232
@@ -10293,6 +10298,7 @@ nlme: 3.1-122
 nlmeODE: '1.1'
 nlmeU: 0.70-3
 nlmixr: 1.1.1-7
+nlmm: 1.0.1
 NLMR: '1.0'
 nlmrt: 2016.3.2
 nlMS: '1.1'
@@ -10831,6 +10837,7 @@ ordinalgmifs: 1.0.6
 ordinalLBM: '1.0'
 OrdinalLogisticBiplot: '0.4'
 ordinalNet: '2.7'
+ordinalpattern: 0.2.0
 ordinalRR: '1.0'
 OrdLogReg: '1.1'
 OrdMonReg: 1.0.3
@@ -11060,7 +11067,7 @@ parallelSVM: 0.1-9
 ParallelTree: 0.1.3
 parameters: 0.6.0
 paramGUI: 2.1.4
-ParamHelpers: '1.13'
+ParamHelpers: '1.14'
 paramhetero: 0.2.0
 paramlink: 1.1-2
 params: 0.6.1
@@ -11603,7 +11610,7 @@ plaqr: '2.0'
 PlasmaMutationDetector: 1.7.2
 Plasmidprofiler: 0.1.6
 Plasmode: 0.1.0
-plater: 1.0.1
+plater: 1.0.2
 platetools: 0.1.2
 PlayerRatings: 1.1-0
 playitbyr: 0.2-1
@@ -11852,6 +11859,7 @@ posterdown: '1.0'
 PosteriorBootstrap: 0.1.0
 postGIStools: 0.2.4
 postgwas: '1.11'
+postHoc: 0.1.1
 postinfectious: 0.1.0
 postlightmercury: '1.2'
 postlogic: 0.1.0.1
@@ -12237,7 +12245,7 @@ purging: 1.0.0
 purrr: 0.3.3
 purrrlyr: 0.0.5
 purrrogress: 0.1.1
-Pursuit: 1.0.0
+Pursuit: 1.0.1
 pushbar: 0.1.0
 pushoverr: 1.0.0
 puzzle: 0.0.1
@@ -12554,7 +12562,7 @@ radiant: 0.9.9.1
 radiant.basics: 1.3.4
 radiant.data: 1.3.4
 radiant.design: 1.3.5
-radiant.model: 1.0.0
+radiant.model: 1.3.10
 radiant.multivariate: 0.9.9.1
 RadioGx: 0.0.2
 radiomics: 0.1.3
@@ -12917,6 +12925,7 @@ RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
 RcppCNPy: 0.2.10
 RcppCWB: 0.2.8
+RcppDate: 0.0.1
 RcppDE: 0.1.6
 RcppDist: 0.1.1
 RcppDL: 0.0.5
@@ -13342,7 +13351,7 @@ Rexperigen: 0.2.1
 rexpokit: 0.26.6.6
 RFA: 0.0-9
 Rfacebook: 0.6.15
-rfacebookstat: 2.0.1
+rfacebookstat: 2.0.2
 Rfast: 1.9.9
 Rfast2: 0.0.5
 rfbCNPJ: 0.1.1
@@ -13747,7 +13756,7 @@ RMySQL: 0.10.20
 rmytarget: 2.1.8
 RNAseqNet: 0.1.3
 rnaseqWrapper: 1.0-1
-RNAsmc: 0.4.0
+RNAsmc: 0.5.0
 rnassqs: 0.5.0
 RNAstructureModuleMiner: .na.character
 rnaturalearth: 0.1.0
@@ -13811,7 +13820,7 @@ robfilter: 4.1.2
 robFitConGraph: 0.1.0
 RobGARCHBoot: 1.0.0
 robin: 1.0.0
-RobinHood: 1.2.1
+RobinHood: 1.2.4
 robis: 2.1.8
 roblm: '0.6'
 RobLox: 1.2.0
@@ -14561,6 +14570,7 @@ SASmixed: 1.0-4
 SASPECT: 0.1-1
 sass: 0.2.0
 SASxport: 1.7.0
+sate: 1.1.0
 satellite: 1.0.2
 satin: '0.2'
 satscanMapper: 1.0.1
@@ -14954,7 +14964,7 @@ setwidth: 1.0-4
 Seurat: 3.1.4
 severity: '2.0'
 sExtinct: '1.1'
-sf: 0.8-1
+sf: 0.9-0
 sfa: 1.0-1
 sfadv: 1.0.1
 sfc: 0.1.0
@@ -15070,7 +15080,7 @@ shinyTime: 1.0.1
 shinytoastr: 2.1.1
 shinyTree: 0.2.7
 shinyWidgets: 0.5.1
-shinyypr: 0.0.1
+shinyypr: 0.0.2
 SHIP: 1.0.2
 shipunov: .na.character
 SHLR: '1.0'
@@ -15780,6 +15790,7 @@ spGoogle: 0.1-2
 spgrass6: 0.8-9
 spgs: 1.0-3
 spgwr: 0.6-33
+spherepc: 0.1.2
 sphereplot: '1.5'
 SphericalCubature: '1.4'
 SphericalK: '1.2'
@@ -16460,7 +16471,7 @@ synoptReg: 1.0.1
 synRNASeqNet: '1.0'
 syntaxr: 0.8.0
 Synth: 1.1-5
-synthACS: 1.5.3
+synthACS: 1.5.5
 synthpop: 1.5-1
 SynthTools: 1.0.1
 sys: '3.3'
@@ -16783,7 +16794,7 @@ tidycomm: 0.1.0
 tidycwl: 1.0.4
 tidydice: 0.0.6
 tidyfast: 0.2.1
-tidyfst: 0.8.8
+tidyfst: 0.9.3
 tidygapminder: 0.1.1
 tidygenomics: 0.1.2
 tidygeocoder: 0.2.5
@@ -17645,6 +17656,7 @@ VineCopula: 2.3.0
 vinereg: 0.7.0
 vines: 1.1.5
 violinmplot: 0.2.1
+violinplotter: 1.0.0
 vioplot: 0.3.4
 viopoints: 0.2-1
 vip: 0.2.1
@@ -17815,7 +17827,7 @@ webdriver: 1.0.5
 webex: 0.9.1
 WebGestaltR: 0.4.3
 webglobe: 1.0.2
-webmockr: 0.6.0
+webmockr: 0.6.2
 webp: '1.0'
 WebPower: 0.5.2
 webr: 0.1.5
@@ -18152,7 +18164,7 @@ zeallot: 0.1.0
 ZeBook: '1.1'
 zebu: 0.1.2
 zeitgebr: 0.3.3
-Zelig: 5.1.6.1
+Zelig: 5.1.6
 ZeligChoice: 0.9-6
 ZeligEI: 0.1-2
 ZeligGAM: 0.7-1
