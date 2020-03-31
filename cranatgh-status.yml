@@ -150,7 +150,7 @@ adk: '1.0'
 adklakedata: 0.6.1
 adlift: 1.4-1
 ADM3: '1.3'
-admisc: '0.6'
+admisc: '0.7'
 AdMit: 2.1.3
 admixturegraph: 1.0.2
 ADMM: 0.3.1
@@ -364,6 +364,7 @@ animaltracker: 0.1.0
 animation: '2.6'
 animint2: 2019.7.3
 anipaths: 0.9.8
+aniview: 0.1.0
 ANLP: '1.3'
 anm: 1.1-1
 anMC: 0.2.2
@@ -971,7 +972,7 @@ bayou: '2.1'
 BaySIC: '1.0'
 baystability: 0.1.0
 BAYSTAR: 0.2-9
-baytrends: 1.1.0
+baytrends: 1.2.1
 bazar: 1.0.11
 BB: 2019.10-1
 bbefkr: '4.2'
@@ -1504,7 +1505,7 @@ BoolFilter: 1.0.0
 boolfun: 0.2.8
 BoolNet: 2.1.5
 Boom: 0.9.4
-BoomSpikeSlab: 1.2.1
+BoomSpikeSlab: 1.2.2
 boost: 1.0-0
 BoostMLR: 1.0.2
 boostmtree: 1.4.1
@@ -2776,6 +2777,7 @@ covequal: 0.1.0
 COveR: 1.0.3
 covfefe: .na.character
 covglasso: 1.0.1
+COVID19: 0.2.1
 covid19italy: 0.1.0
 covid19us: 0.1.1
 covLCA: '1.0'
@@ -2992,7 +2994,7 @@ CTT: 2.3.3
 CTTinShiny: 0.1.0
 CTTShiny: '0.1'
 ctv: 0.8-5
-CUB: 1.1.3
+CUB: 1.1.4
 cubature: 2.0.4
 cubelyr: 1.0.0
 cubeview: 0.2.0
@@ -5363,7 +5365,7 @@ frontiles: '1.2'
 frost: 0.0.4
 frostr: 0.1.0
 frt: '0.1'
-fs: 1.3.2
+fs: 1.4.0
 FSA: 0.8.30
 FSAdata: 0.3.8
 fsbrain: 0.0.3
@@ -6511,7 +6513,7 @@ GWAF: '2.2'
 GWASbyCluster: 0.1.7
 GWASExactHW: '1.01'
 GWASinlps: '1.2'
-GWASinspector: 1.4.6
+GWASinspector: 1.4.6.7
 GWAtoolbox: 2.2.4
 gwdegree: 0.1.1
 gwer: '2.0'
@@ -7216,6 +7218,7 @@ import: 1.1.0
 importar: 0.1.1
 ImportExport: '1.1'
 importinegi: 1.1.1
+impressionist.colors: '1.0'
 imprProbEst: '1.0'
 imptree: 0.5.1
 imputation: 2.0.1
@@ -8989,7 +8992,7 @@ meditations: 1.0.1
 MEDITS: 0.1.7
 medmod: 1.0.0
 MedOr: '0.1'
-MEDseq: 1.0.1
+MEDseq: 1.1.0
 medSTC: 1.0.0
 MedSurvey: 1.1.1.1.0
 MEET: '5.1'
@@ -10996,7 +10999,7 @@ PACE: 0.1-0
 pack: 0.1-1
 packageDiff: '0.1'
 packagedocs: 0.4.0
-packagefinder: 0.2.0
+packagefinder: 0.2.1
 packager: 1.1.0
 packageRank: 0.3.0
 packagetrackr: 0.1.1
@@ -11207,7 +11210,7 @@ pavo: 2.4.0
 pawacc: 1.2.2
 PAWL: '0.5'
 pawls: 1.0.0
-paws: 0.1.6
+paws: 0.1.7
 paws.analytics: 0.1.7
 paws.application.integration: 0.1.7
 paws.common: 0.3.0
@@ -12145,7 +12148,7 @@ ProliferativeIndex: 1.0.1
 PROMETHEE: '1.1'
 promises: 1.1.0
 promote: 1.1.1
-promotionImpact: 0.1.2
+promotionImpact: 0.1.3
 ProNet: 1.0.0
 prop.comb.RR: '1.2'
 propagate: 1.0-6
@@ -12495,7 +12498,7 @@ QuantileGradeR: 0.1.1
 QuantileNPCI: 0.9.0
 quantities: 0.1.3
 quantkriging: 0.1.0
-quantmod: 0.4-16
+quantmod: 0.4.17
 QuantNorm: 1.0.5
 quantoptr: 0.1.3
 QuantPsyc: '1.5'
@@ -14182,7 +14185,7 @@ rroad: 0.0.5
 rromeo: 0.1.1
 rrp: '2.9'
 rrpack: 0.1-11
-RRphylo: 2.4.0
+RRphylo: 2.4.4
 RRPP: 0.5.2
 rrr: 1.0.0
 RRreg: 0.7.1
@@ -14805,7 +14808,7 @@ sdPrior: 1.0-0
 sdprisk: 1.1-6
 sdpt3r: '0.3'
 SDR: 0.7.0.0
-SDraw: 2.1.8
+SDraw: 2.1.11
 sdStaf: 1.0.2
 SDT: 1.0.0
 sdtalt: '1.03'
@@ -15189,7 +15192,7 @@ sigloc: 0.0.4
 sigma2tools: '1.2'
 sigmajs: 0.1.3
 sigmaNet: 1.1.0
-sigminer: 0.1.11
+sigminer: 1.0.0
 sigmoid: 0.3.0
 SIGN: 0.1.0
 Signac: 0.2.4
@@ -15244,6 +15247,7 @@ simglm: 0.7.4
 simGWAS: 0.2.0-2
 SimHap: 1.2.0
 SimHaz: '0.1'
+simhelpers: 0.1.0
 SimilaR: 1.0.6
 SimilarityMeasures: '1.4'
 similarityRichards: 0.5.0
@@ -15301,7 +15305,7 @@ simsem: 0.5-15
 SimSeq: 1.4.0
 simsl: 0.1.0
 simstandard: 0.3.0
-simstudy: 0.1.15
+simstudy: 0.1.16
 simSummary: 0.1.0
 simsurv: 0.2.3
 simTargetCov: 1.0.1
@@ -15786,7 +15790,7 @@ spbabel: 0.5.0
 spBayes: 0.4-3
 spBayesSurv: 1.1.4
 spBFA: '1.0'
-Spbsampling: 1.3.2
+Spbsampling: 1.3.3
 spc: 0.6.3
 spc4sts: 0.5.2
 spca: 0.6.0
@@ -16122,6 +16126,7 @@ statmod: 1.4.34
 statnet: '2019.6'
 statnet.common: 4.3.0
 statnetWeb: 0.5.5
+statnipokladna: 0.5.6
 Statomica: '1.0'
 statoo: 0.1.3
 staTools: 0.1.0
@@ -17652,7 +17657,7 @@ vcdExtra: 0.7-1
 vcf2geno: '2.3'
 vcfR: 1.10.0
 vcov: 0.0.1
-vcr: 0.5.0
+vcr: 0.5.4
 vcrpart: 1.0-3
 vctrs: 0.2.4
 vcvComp: 1.0.1
@@ -18237,6 +18242,7 @@ Z10: 0.1.0
 zalpha: 0.1.0
 zbank: 0.1.0
 zCompositions: 1.3.4
+zcurve: 1.0.0
 zeallot: 0.1.0
 ZeBook: '1.1'
 zebu: 0.1.2
