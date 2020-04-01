@@ -719,6 +719,7 @@ awsjavasdk: 0.2.0
 awsMethods: 1.1-1
 awspack: 0.1.6
 aylmer: 1.0-9
+aziztest: 0.1.0
 AzureAuth: 1.2.3
 AzureCognitive: 1.0.0
 AzureContainers: 1.2.1
@@ -1073,7 +1074,7 @@ beginr: 0.1.7
 behaviorchange: 0.2.2
 behavr: 0.3.2
 belex: 0.1.0
-belg: 1.0.1
+belg: 1.0.2
 belief: '1.0'
 bench: 1.1.1
 benchden: 1.0.5
@@ -1147,6 +1148,7 @@ Bhat: 0.9-10
 BHH2: 2016.05.31
 bhm: '1.15'
 BHMSMAfMRI: '1.3'
+bhpm: '1.7'
 BHPMF: '1.0'
 bhrcr: 1.0.3
 BHSBVAR: 2.0.2
@@ -1174,7 +1176,7 @@ BIFIEsurvey: 3.3-12
 BiG: 0.1.0
 bigalgebra: 0.8.4
 biganalytics: 1.1.14
-bigassertr: 0.1.2
+bigassertr: 0.1.3
 bigchess: 1.7.0
 bigdata: '0.1'
 bigdatadist: '1.1'
@@ -2202,7 +2204,7 @@ CleanBSequences: 0.4.0
 cleancall: 0.1.1
 cleandata: 0.3.0
 cleanEHR: '1.0'
-cleaner: 1.3.1
+cleaner: 1.4.0
 cleanerR: 0.1.1
 cleangeo: 0.2-3
 cleanNLP: 3.0.2
@@ -2416,7 +2418,7 @@ cofeatureR: 1.1.1
 CoFRA: '0.1002'
 coga: 1.1.0
 cogmapr: 0.9.1
-cognitoR: 0.1.0
+cognitoR: 1.0.0
 cohorttools: 0.1.2
 coil: .na.character
 CoImp: '1.0'
@@ -2432,7 +2434,7 @@ colcor: '1.0'
 cold: 2.0-1
 colf: 0.1.3
 CollapsABEL: 0.10.11
-collapse: 1.0.0
+collapse: 1.1.0
 CollapseLevels: 0.2.0
 collapsibleTree: 0.1.7
 collateral: 0.4.2
@@ -2732,6 +2734,7 @@ corrsieve: 1.6-8
 CorrToolBox: 1.6.2
 corset: 0.1-4
 CorShrink: 0.1-6
+cort: 0.3.0
 corTest: 0.9.8
 corto: 1.0.5
 corTools: '1.0'
@@ -5110,7 +5113,7 @@ fizzbuzzR: 0.1.1
 FKBL: 0.50-4
 FKF: 0.1.5
 FKSUM: 0.1.3
-flacco: '1.7'
+flacco: '1.8'
 flagr: 0.3.2
 flam: '3.2'
 FLAME: 1.0.0
@@ -5353,7 +5356,7 @@ fresh: 0.1.0
 FrF2: 2.1-1
 FrF2.catlg128: 1.2-1
 frite: 0.1.0
-FRK: 0.2.2
+FRK: 0.2.2.1
 fRLR: '1.1'
 frm: 1.2.2
 frmhet: 1.1.3
@@ -5653,7 +5656,7 @@ gemlog: '0.36'
 gemma2: 0.1.1
 gemmR: 1.3-2
 gems: 1.1.1
-gemtc: 0.8-2
+gemtc: 0.8-4
 gemtc.jar: 0.14.3
 gen2stage: '1.0'
 gen5helper: 1.0.1
@@ -5856,7 +5859,7 @@ getPass: 0.2-2
 getProxy: '1.12'
 GetQuandlData: 0.1.0
 GetR: '0.1'
-gets: '0.21'
+gets: '0.22'
 getspres: 0.1.1
 getTBinR: 0.7.0
 GetTDData: 1.4.2
@@ -6245,7 +6248,7 @@ govdown: 0.8.0
 govStatJPN: '0.1'
 gower: 0.2.1
 gpairs: '1.2'
-GPareto: 1.1.4
+GPareto: 1.1.4.1
 GPArotation: 2014.11-1
 GPB: '1.2'
 GPC: '0.1'
@@ -6475,7 +6478,7 @@ gtable: 0.3.0
 gtcorr: 0.2-1
 gte: 1.2-2
 gTests: '0.2'
-gtfs2gps: 1.0-5
+gtfs2gps: 1.0-7
 gtfsrouter: 0.0.1
 gtheory: 0.1.2
 gtkDevice: 1.9-4
@@ -6652,7 +6655,7 @@ HDMD: '1.2'
 hdme: 0.3.2
 HDMT: 1.0.1
 hdnom: 6.0.0
-HDoutliers: '1.0'
+HDoutliers: 1.0.1
 hdpca: 1.1.3
 HDPenReg: 0.94.6
 hdr: '0.1'
@@ -6922,7 +6925,7 @@ httptest: 3.3.0
 httpuv: 1.5.2
 httr: 1.4.1
 hues: 0.2.0
-huge: 1.3.4
+huge: 1.3.4.1
 HUM: '1.0'
 humanFormat: '1.0'
 humaniformat: 0.6.0
@@ -6977,7 +6980,7 @@ hypergeo: 1.2-13
 HypergeoMat: 3.0.0
 hypersampleplan: 0.1.1
 hyperSMURF: '2.0'
-hyperSpec: 0.99-20200213
+hyperSpec: 0.99-20200213.1
 hypervolume: 2.0.12
 hyphenatr: 0.3.0
 HyPhy: '1.0'
@@ -6989,6 +6992,7 @@ hypred: '0.5'
 HyRiM: 1.0.3
 HYRISK: '1.2'
 hysteresis: '2.6'
+hystReet: 0.0.1
 hzar: 0.2-5
 IAbin: .na.character
 iAdapt: 0.1.0
@@ -7245,7 +7249,7 @@ inbreedR: 0.3.2
 inca: 0.0.4
 incadata: 0.8.2
 INCATome: '1.0'
-IncDTW: 1.1.3
+IncDTW: 1.1.3.1
 incgraph: 1.0.1
 incidence: 1.7.1
 IncomPair: 0.1.0
@@ -7513,7 +7517,7 @@ ISDA.R: '1.0'
 isdals: 2.0-4
 iSDM: .na.character
 isdparser: 0.4.0
-ISEtools: 3.1.1
+ISEtools: 3.1.1.1
 IsingFit: 0.3.1
 isingLenzMC: 0.2.5
 IsingSampler: 0.2.1
@@ -8660,7 +8664,7 @@ MANOVA.RM: 0.3.4
 manymodelr: 0.2.4
 ManyTests: '1.2'
 MaOEA: 0.5.2
-maotai: 0.1.3
+maotai: 0.1.4
 MAP: 0.1.3
 Map2NCBI: '1.4'
 MAPA: 2.0.4
@@ -9333,6 +9337,7 @@ MissingDataGUI: 0.2-5
 missingHE: 1.3.2
 missMDA: '1.16'
 MissMech: 1.0.2
+missMethods: 0.1.0
 missRanger: 2.1.0
 missSBM: 0.2.1
 MiST: '1.0'
@@ -9748,7 +9753,7 @@ mra: 2.16.11
 mratios: 1.4.0
 mrbayes: 0.1.0
 mrbin: 1.3.0
-mrbsizeR: 1.2.1
+mrbsizeR: 1.2.1.1
 MRCE: '2.1'
 mRchmadness: 1.0.0
 MRCV: 0.3-3
@@ -9759,7 +9764,7 @@ mregions: 0.1.6
 mrf2d: 0.2.0
 MRFA: '0.4'
 MRFcov: 1.0.37
-mrfDepth: 1.0.11
+mrfDepth: 1.0.12
 mrfse: '0.1'
 mrgsolve: 0.10.1
 MRH: '2.2'
@@ -10949,7 +10954,7 @@ otpr: 0.3.0
 otrimle: '1.3'
 OTRselect: '1.0'
 otsad: 0.2.0
-otuSummary: 0.1.0
+otuSummary: 0.1.1
 OTUtable: 1.1.2
 otvPlots: 0.2.1
 ouch: 2.14-1
@@ -11291,7 +11296,7 @@ pco: 1.0.1
 pCODE: 0.9.3
 PCovR: '2.7'
 PCPS: 1.0.7
-pcr: 1.2.1
+pcr: 1.2.2
 pcrcoal: 1.2.0
 PCRedux: 1.0-6
 pcrsim: 1.0.2
@@ -11395,7 +11400,7 @@ performanceEstimation: 1.1.0
 pergola: '1.0'
 peRiodiCS: 0.5.0
 PeriodicTable: 0.1.2
-periscope: 0.4.8
+periscope: 0.4.9-1
 perm: 1.0-0.0
 PermAlgo: '1.1'
 PerMallows: '1.13'
@@ -11865,6 +11870,7 @@ poolfstat: 1.1.1
 pooling: 1.1.2
 poolr: 0.8-2
 poolVIM: 1.0.0
+poorman: 0.1.9
 pop: '0.1'
 pop.wolf: '0.1'
 popbio: '2.7'
@@ -12502,7 +12508,7 @@ quantmod: 0.4.17
 QuantNorm: 1.0.5
 quantoptr: 0.1.3
 QuantPsyc: '1.5'
-quantreg: '5.54'
+quantreg: '5.55'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
 quantregGrowth: 0.4-3
@@ -13474,6 +13480,7 @@ RGCxGC: 1.1-2
 rgdal: 1.4-8
 rgdax: 1.0.0
 RGeckoboard: 0.1-5
+rGEDI: 0.1.1
 rgen: 0.0.1
 RGenData: '1.0'
 RGENERATE: 1.3.5
@@ -13613,7 +13620,7 @@ ripums: 0.1.0
 Rirt: 0.0.2
 ris: '1.2'
 risaac: '0.1'
-RISCA: '0.8'
+RISCA: 0.8.1
 rise: 1.0.4
 rIsing: 0.1.0
 Risk: .na.character
@@ -13737,7 +13744,7 @@ rmake: 1.1.0
 RMallow: '1.1'
 Rmalschains: 0.2-6
 rmangal: 2.0.0
-rmapshaper: 0.4.3
+rmapshaper: 0.4.4
 rmapzen: 0.4.2
 rmargint: 1.0.2
 RMariaDB: 1.0.8
@@ -13851,7 +13858,7 @@ rngwell19937: 0.6-0
 RNHANES: 1.1.0
 RNifti: 1.1.0
 Rniftilib: 0.0-32
-RNiftyReg: 2.6.7
+RNiftyReg: 2.6.8
 Rnightlights: 0.2.4
 rNMF: 0.5.0
 Rnmr1D: 1.2.5
@@ -14204,7 +14211,7 @@ Rsagacmd: 0.0.5
 RSAgeo: '1.2'
 RSAlgaeR: 1.0.0
 rsam: 0.1.0
-rsample: 0.0.5
+rsample: 0.0.6
 Rsampletrees: 1.0.3
 Rsampling: 0.1.1
 RSAP: '0.9'
@@ -15062,7 +15069,7 @@ sgr: '1.3'
 sgRSEA: '0.1'
 sgt: '2.0'
 shades: 1.4.0
-shadow: 0.6.4
+shadow: 0.6.4.1
 shadowtext: 0.0.7
 shallot: 0.4.8
 shape: 1.4.4
@@ -15428,7 +15435,7 @@ smapr: 0.2.1
 smart: 1.0.1
 SMARTAR: 1.0.0
 smartdata: 1.0.3
-SmartEDA: 0.3.3
+SmartEDA: 0.3.4
 SmarterPoland: '1.7'
 SMARTp: 0.1.1
 smartR: 0.62.0
@@ -15958,7 +15965,7 @@ spsmooth: 1.1-3
 spssDDI: '0.1'
 spsur: 1.0.0.4
 spsurv: 1.0.0
-spsurvey: 4.1.1
+spsurvey: 4.1.2
 spt: 2.5.1
 spTDyn: '2.0'
 sptemExp: 0.1.4
@@ -15979,7 +15986,7 @@ SQLiteDF: 0.1.34
 SQLiteMap: 0.6.2
 sqliter: 0.1.0
 sqlparseR: 0.1.0
-SqlRender: 1.6.4
+SqlRender: 1.6.5
 sqlscore: 0.1.4
 sqlshare: 1.0.3
 sqlutils: '1.2'
@@ -16092,7 +16099,7 @@ staRt: 1.1.12
 STARTdesign: '1.0'
 startR: 0.0.1
 STARTS: 1.2-35
-startup: 0.14.0
+startup: 0.14.1
 startupmsg: 0.9.6
 stashR: '0.3'
 STAT: 0.1.0
@@ -16209,7 +16216,7 @@ stokes: 1.0-5
 STOPES: '0.1'
 stopwords: '1.0'
 Storm: '1.2'
-stormwindmodel: 0.1.2
+stormwindmodel: 0.1.3
 storr: 1.2.1
 stoRy: 0.1.3
 stosim: 0.0.14
@@ -16636,7 +16643,7 @@ tawny.types: 1.1.5
 taxa: 0.3.3
 taxadb: 0.1.0
 TaxicabCA: 0.1.1
-taxize: 0.9.93
+taxize: 0.9.94
 taxizedb: 0.1.4
 taxlist: 0.1.7
 taxonomizr: 0.5.3
@@ -16649,7 +16656,7 @@ TBEST: '5.0'
 TBFmultinomial: 0.1.3
 tbl2xts: 0.1.3
 tbltools: 0.1.0
-tbm: 0.3-2
+tbm: 0.3-2.1
 tbrf: 0.1.4
 TBSSurvival: '1.3'
 TCA: 1.1.0
@@ -17408,7 +17415,7 @@ TwslmSpikeWeight: 1.0.1
 txtplot: 1.0-3
 txtq: 0.2.0
 types: 1.0.0
-uaparserjs: 0.1.0
+uaparserjs: 0.3.1
 uavRmp: 0.5.4
 uavRst: 0.5-4
 ubci: 0.0.5
@@ -18148,7 +18155,7 @@ xlutils3: 0.1.0
 xmeta: 1.1-5
 Xmisc: 0.2.1
 XML: 3.99-0.3
-xml2: 1.2.5
+xml2: 1.3.0
 XML2R: 0.0.6
 xmlparsedata: 1.0.3
 xmlrpc2: '1.1'
@@ -18159,7 +18166,7 @@ xnet: 0.1.11
 XNomial: 1.0.4
 xoi: 0.69-2
 xopen: 1.0.0
-xpectr: 0.2.0
+xpectr: 0.3.0
 xplain: 0.2.1
 xplorerr: 0.1.1
 Xplortext: 1.2.1
@@ -18270,7 +18277,7 @@ ZIM: 1.1.0
 zip: 2.0.4
 zipangu: 0.2.0
 zipcode: '1.0'
-ZIPFA: 0.8.0
+ZIPFA: 0.8.1
 zipfextR: 1.0.1
 zipfR: 0.6-66
 ziphsmm: 2.0.6
