@@ -378,7 +378,7 @@ anocva: 0.1.1
 anoint: '1.4'
 ANOM: '0.5'
 anomalize: 0.2.0
-anomaly: 3.0.0
+anomaly: 3.0.1
 anomalyDetection: 0.2.5
 anominate: '0.6'
 anonymizer: 0.2.0
@@ -395,7 +395,7 @@ antaresRead: 2.2.5
 antaresViz: 0.15.1
 anthro: 0.9.2
 AnthropMMD: 3.0.1
-Anthropometry: '1.13'
+Anthropometry: '1.14'
 antitrust: '0.99'
 antiword: '1.3'
 AntMAN: '1.0'
@@ -1420,7 +1420,7 @@ blockmatrix: '1.0'
 BlockMessage: '1.0'
 blockmodeling: 0.3.6
 blockmodels: 1.1.1
-blockrand: '1.3'
+blockrand: '1.5'
 blockRAR: 1.0.2
 blocksdesign: '3.9'
 blockseg: 0.5.2
@@ -1549,7 +1549,7 @@ bossMaps: 0.1.0
 BOSSreg: 0.1.0
 botor: 0.3.0
 boussinesq: 1.0.3
-BoutrosLab.plotting.general: 5.9.2
+BoutrosLab.plotting.general: 6.0.0
 boxcoxmix: '0.21'
 boxoffice: 1.3.0
 boxplotdbl: 1.3.0
@@ -2050,7 +2050,7 @@ changepointsHD: 0.3.3
 changepointsVar: 0.1.0
 ChangepointTesting: '1.0'
 changer: 0.0.3
-ChannelAttribution: '1.9'
+ChannelAttribution: '1.17'
 ChannelAttributionApp: '1.1'
 Chaos01: 1.2.1
 ChaosGame: '0.4'
@@ -2623,6 +2623,7 @@ ConR: 1.2.4
 CONS: 0.1.1
 ConSpline: '1.2'
 ConsRank: 2.1.0
+ConsReg: 0.1.0
 constants: 0.0.2
 constellation: 0.2.0
 constrainedKriging: 0.2.4
@@ -2782,6 +2783,7 @@ COveR: 1.0.3
 covfefe: .na.character
 covglasso: 1.0.1
 COVID19: 0.2.1
+covid19.analytics: '1.0'
 covid19italy: 0.1.0
 covid19us: 0.1.1
 covLCA: '1.0'
@@ -2895,7 +2897,7 @@ CRM: 1.2.4
 crminer: 0.3.0
 crmn: 0.0.21
 crmPack: 1.0.0
-crmReg: 1.0.0
+crmReg: 1.0.1
 crn: '1.1'
 crochet: 2.2.0
 cromwellDashboard: 0.5.1
@@ -3508,7 +3510,7 @@ DGCA: 1.0.2
 dggridR: 2.0.3
 dglars: 2.1.6
 dglm: 1.8.3
-DGLMExtPois: 0.1.1
+DGLMExtPois: 0.1.2
 DGM: 1.7.2
 dgmb: '1.2'
 dgo: 0.2.15
@@ -4493,7 +4495,7 @@ epsiwal: 0.1.0
 EPT: 0.7.5
 epubr: 0.6.1
 epxToR: 0.4-0
-eq5d: 0.6.0
+eq5d: 0.7.0
 EQL: 1.0-1
 eqn2svg: 0.1.0
 eqs2lavaan: '3.0'
@@ -4591,7 +4593,7 @@ etma: 1.1-1
 etrunct: '0.1'
 etseed: 0.1.0
 EuclideanMaps: '1.0'
-eudract: 0.9.1
+eudract: 0.9.2
 eulerian: '1.0'
 eulerr: 6.1.0
 euroMix: '1.1'
@@ -4661,7 +4663,7 @@ ExactPath: '1.0'
 exactRankTests: 0.8-31
 ExactSampling: '1.0'
 exampletestr: 1.5.2
-exams: 2.3-5
+exams: 2.3-6
 ExceedanceTools: 1.2.2
 exceedProb: 0.0.1
 excel.link: 0.9.8-1
@@ -4691,7 +4693,7 @@ ExpertChoice: 0.2.0
 expint: 0.1-6
 ExplainPrediction: 1.3.0
 explor: 0.3.5
-explore: 0.5.4
+explore: 0.5.5
 exploreR: '0.1'
 expm: 0.999-4
 expoRkit: '0.9'
@@ -4822,7 +4824,7 @@ fancycut: 0.1.2
 fanovaGraph: '1.4'
 fanplot: 3.4.2
 fansi: 0.4.1
-FAOSTAT: 2.1.1
+FAOSTAT: 2.1.2
 faoutlier: 0.7.2
 far: 0.6-5
 faraway: 1.0.7
@@ -5386,7 +5388,7 @@ fsia: 1.1.1
 FSinR: 1.0.8
 FSInteract: 0.1.2
 fslr: 2.24.1
-fsMTS: 0.1.4
+fsMTS: 0.1.5
 FSMUMI: '1.0'
 fso: 2.1-1
 fSRM: 0.6.4
@@ -5916,7 +5918,7 @@ GGEBiplots: 0.1.1
 ggedit: 0.3.0
 ggeffects: 0.14.2
 ggenealogy: 1.0.1
-ggetho: 0.3.4
+ggetho: 0.3.5
 ggExtra: '0.9'
 ggFacetSample: 1.0.0
 ggfan: 0.1.3
@@ -6382,7 +6384,7 @@ gridExtra: '2.3'
 gridGeometry: 0.2-0
 gridGraphics: 0.5-0
 gridGraphviz: '0.3'
-GridOnClusters: 0.0.6
+GridOnClusters: 0.0.7
 GridR: 0.9.1
 gridsample: 0.2.1
 gridsampler: '0.6'
@@ -7177,7 +7179,7 @@ iilasso: 0.0.2
 iIneq: 1.0.1
 IIS: '1.0'
 iJRF: .na.character
-ijtiff: 2.0.4
+ijtiff: 2.0.5
 iki.dataclim: '1.0'
 iLaplace: 1.1.0
 ilc: '1.0'
@@ -7221,7 +7223,7 @@ ImpactEffectsize: 0.4.0
 impactflu: 0.1.0
 ImpactIV: '1.0'
 impimp: 0.3.1
-implicitMeasures: 0.1.1
+implicitMeasures: 0.1.2
 implied: 0.2.5
 implyr: 0.3.0
 imPois: 0.1.4
@@ -8101,7 +8103,7 @@ lconnect: 0.1.0
 lcopula: 1.0.4
 LCox: 0.1.0
 lcpm: 0.1.1
-lctools: '0.2'
+lctools: 0.2-8
 lcyanalysis: 1.0.4
 lda: 1.4.2
 lda.cv: 1.1-2
@@ -8132,7 +8134,7 @@ leabRa: 0.1.0
 leaderCluster: '1.2'
 LeafAngle: '1.2'
 LeafArea: 0.1.8
-leafem: 0.1.0
+leafem: 0.1.1
 leaflet: 2.0.3
 leaflet.esri: 1.0.0
 leaflet.extras: 1.0.0
@@ -8560,7 +8562,7 @@ ltsbase: 1.0.1
 ltsk: 1.0.8
 ltsspca: 0.1.0
 ltxsparklines: 1.1.2
-lubridate: 1.7.4
+lubridate: 1.7.8
 luca: '1.0'
 lucid: '1.7'
 LUCIDus: 1.0.0
@@ -9110,6 +9112,7 @@ metaplus: 0.7-11
 metapost: 1.0-6
 metapro: 1.5.8
 MetaQC: 0.1.9
+metarep: 1.0.1
 metaRMST: 1.0.0
 metaRNASeq: 1.0.2
 metaSDTreg: 0.2.0
@@ -9251,7 +9254,7 @@ MicroNiche: 1.0.0
 micropan: 2.0.1
 microplot: 1.0-42
 microPop: '1.5'
-microsamplingDesign: 1.0.6
+microsamplingDesign: 1.0.7
 microseq: '2.0'
 MicroStrategyR: 1.0-1
 microsynth: 2.0.13
@@ -9354,7 +9357,7 @@ MiST: '1.0'
 mistat: 1.0-5
 mistr: 0.0.3
 mistral: 2.1.0
-misty: 0.2.2
+misty: 0.3.0
 MitISEM: '1.2'
 mitml: 0.3-7
 mitools: '2.4'
@@ -9485,13 +9488,13 @@ mlr3filters: 0.2.0
 mlr3learners: 0.1.6
 mlr3measures: 0.1.3
 mlr3misc: 0.1.8
-mlr3pipelines: 0.1.2
+mlr3pipelines: 0.1.3
 mlr3proba: 0.1.4
 mlr3shiny: 0.1.1
 mlr3tuning: 0.1.2
 mlr3verse: 0.1.1
 mlr3viz: 0.1.1
-mlrCPO: 0.3.4-4
+mlrCPO: 0.3.6
 mlrMBO: 1.1.4
 MLRMPA: '1.0'
 MLRShiny: 0.1.0
@@ -9599,7 +9602,7 @@ modelObj: '4.0'
 modelplotr: 1.0.0
 modelr: 0.1.6
 modelStudio: 1.0.1
-modelsummary: 0.1.1
+modelsummary: 0.2.0
 modeltests: 0.1.0
 modeltools: 0.2-23
 modelwordcloud: '0.1'
@@ -9692,11 +9695,11 @@ mosaicData: 0.17.0
 mosaicManip: 0.2-6
 mosaicModel: 0.3.0
 mosaicQA: 1.2.0
-mosmafs: 0.1.1
+mosmafs: 0.1.2
 MOST: 0.1.0
 mosum: 1.2.3
 mota: '1.2'
-MoTBFs: '1.2'
+MoTBFs: '1.3'
 MOTE: 1.0.2
 MotilityLab: 0.2-5
 motmot: 2.1.3
@@ -10094,7 +10097,7 @@ MWRidge: 1.0.0
 MWright: 0.3.2
 mwshiny: 2.0.0
 mxkssd: '1.1'
-MXM: 1.4.5
+MXM: 1.4.6
 mxmmod: 1.0.1
 My.stepwise: 0.1.0
 mycobacrvR: '1.0'
@@ -11641,7 +11644,7 @@ pkggraph: 0.2.3
 pkgKitten: 0.1.5
 pkgload: 1.0.2
 pkgmaker: 0.31.1
-pkgnet: 0.4.0
+pkgnet: 0.4.1
 PKgraph: '1.7'
 pkgsearch: 3.0.2
 PkgsFromFiles: '0.5'
@@ -11692,6 +11695,7 @@ plfMA: 1.0.4
 plgp: 1.1-7
 pliable: '1.1'
 plink: 1.5-1
+plinkFile: 0.1.0
 plinkQC: 0.3.0
 PLIS: '1.1'
 plm: 2.2-3
@@ -13084,7 +13088,7 @@ rddtools: 0.4.0
 rde: 0.1.0
 rDEA: 1.2-6
 rDecode: 0.1.0
-rdefra: 0.3.6
+rdefra: 0.3.8
 rdetools: '1.0'
 RDF: '1.1'
 rdflib: 0.2.3
@@ -13494,7 +13498,7 @@ RGCxGC: 1.1-2
 rgdal: 1.4-8
 rgdax: 1.0.0
 RGeckoboard: 0.1-5
-rGEDI: 0.1.2
+rGEDI: 0.1.6
 rgen: 0.0.1
 RGenData: '1.0'
 RGENERATE: 1.3.5
@@ -15049,7 +15053,7 @@ setwidth: 1.0-4
 Seurat: 3.1.4
 severity: '2.0'
 sExtinct: '1.1'
-sf: 0.9-0
+sf: 0.9-1
 sfa: 1.0-1
 sfadv: 1.0.1
 sfc: 0.1.0
@@ -15058,7 +15062,7 @@ sFFLHD: 0.1.2
 sfheaders: 0.2.1
 sfinx: 1.7.99
 SFS: 0.1.4
-sfsmisc: 1.1-5
+sfsmisc: 1.1-6
 sft: 2.2-1
 SFtools: 0.1.0
 SGB: 1.0.1
@@ -15269,7 +15273,7 @@ simGWAS: 0.2.0-2
 SimHap: 1.2.0
 SimHaz: '0.1'
 simhelpers: 0.1.0
-SimilaR: 1.0.6
+SimilaR: 1.0.7
 SimilarityMeasures: '1.4'
 similarityRichards: 0.5.0
 Simile: 1.3.3
@@ -15764,7 +15768,7 @@ spathial: 0.1.1
 spatial: 7.3-11
 spatial.gev.bma: '1.0'
 spatial.tools: 1.6.2
-SpatialAcc: '0.1'
+SpatialAcc: 0.1-4
 SpatialBall: 0.1.0
 SpatialBSS: '0.8'
 spatialClust: 1.1.1
@@ -15826,7 +15830,7 @@ spcov: '1.01'
 spCP: '1.2'
 spcr: '2.0'
 spd: 2.0-1
-spData: 0.3.3
+spData: 0.3.5
 spdep: 1.1-3
 spdownscale: 0.1.0
 spdplyr: 0.3.0
@@ -16236,9 +16240,9 @@ storr: 1.2.1
 stoRy: 0.1.3
 stosim: 0.0.14
 STPGA: 5.2.1
-stplanr: 0.5.1
+stplanr: 0.5.2
 stpm: 1.7.7
-stpp: 2.0-3
+stpp: 2.0-4
 stppResid: '1.1'
 stR: '0.4'
 STRAH: '1.0'
@@ -16672,6 +16676,7 @@ TBFmultinomial: 0.1.3
 tbl2xts: 0.1.3
 tbltools: 0.1.0
 tbm: 0.3-2.1
+tbma: 0.1.0
 tbrf: 0.1.4
 TBSSurvival: '1.3'
 TCA: 1.1.0
@@ -17014,7 +17019,7 @@ tlm: 0.1.5
 tlmec: 0.0-2
 TLMoments: 0.7.5
 tlnise: '2.0'
-tlrmvnmvt: 1.0.1
+tlrmvnmvt: 1.1.0
 tls: 0.1.0
 tm: 0.7-7
 tm.plugin.alceste: '1.1'
@@ -17208,7 +17213,7 @@ TRES: 1.1.1
 trex: '0.5'
 triads: '0.2'
 TriadSim: 0.1.1
-trialr: 0.1.3
+trialr: 0.1.4
 TrialSize: '1.3'
 TRIANG: '1.2'
 TRIANGG: '1.0'
@@ -17761,7 +17766,7 @@ violinmplot: 0.2.1
 violinplotter: 1.0.1
 vioplot: 0.3.4
 viopoints: 0.2-1
-vip: 0.2.1
+vip: 0.2.2
 vipor: 0.4.5
 VIRF: 0.1.0
 viridis: 0.5.1
@@ -17961,6 +17966,7 @@ WeightIt: 0.9.0
 weightQuant: '1.0'
 weightr: 2.0.2
 weights: 1.0.1
+WeightSVM: 1.7-3
 weightTAPSPACK: '0.1'
 weirs: '0.25'
 welchADF: 0.3.2
