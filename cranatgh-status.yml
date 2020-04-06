@@ -77,6 +77,7 @@ Actigraphy: 1.4.0
 ActisoftR: 0.0.2
 ActiveDriver: 1.0.0
 ActiveDriverWGS: 1.0.1
+activegp: 1.0.3
 ActivePathways: 1.0.1
 activity: '1.3'
 activityCounts: 0.1.2
@@ -1600,6 +1601,7 @@ brew: 1.0-6
 brewdata: '0.4'
 brglm: 0.6.2
 brglm2: 0.6.2
+brickr: 0.3.2
 bride: '1.3'
 bridgedist: 0.1.0
 bridger2: 0.1.0
@@ -1843,7 +1845,7 @@ casino: 0.1.0
 CASMAP: 0.6.0
 caspar: '1.0'
 cassandRa: 0.1.0
-CAST: 0.3.1
+CAST: 0.4.0
 castor: 1.5.5
 cat: 0.0-6.5
 cat.dt: 0.1.0
@@ -4123,7 +4125,7 @@ ecolottery: 1.0.0
 EconDemand: '1.0'
 econet: 0.1.81
 EcoNetGen: 0.2.3
-econetwork: '0.3'
+econetwork: '0.4'
 economiccomplexity: '1.0'
 econullnetr: 0.2.0
 ecoreg: 0.2.3
@@ -5798,7 +5800,7 @@ GEOmap: 2.4-4
 geomapdata: 1.0-4
 GeomComb: '1.0'
 geomedb: 2.0.0
-geomerge: 0.3.1
+geomerge: 0.3.2
 geometa: 0.6-1
 geometr: 0.2.4
 geometry: 0.4.5
@@ -6765,7 +6767,7 @@ HighDimOut: 1.0.0
 HighestMedianRules: '1.0'
 highfrequency: 0.6.4
 highlight: 0.5.0
-highlightHTML: 0.2.1
+highlightHTML: 0.2.4
 highmean: '3.0'
 HighProbability: '1.0'
 highr: '0.8'
@@ -8042,7 +8044,7 @@ lassoshooting: 0.1.5-1
 LassoSIR: 0.1.1
 last.call: 0.1.3
 lasvmR: '0.1'
-latdiag: 0.2-4
+latdiag: '0.3'
 latentnet: 2.10.5
 latentnetHRT: 0.7-18
 LatentREGpp: 0.2.2
@@ -10143,7 +10145,7 @@ nat: 1.8.14
 nat.nblast: 1.6.5
 nat.templatebrains: '0.9'
 nat.utils: 0.5.1
-nationwider: 1.1.0
+nationwider: 1.1.1
 natmanager: 0.4.0
 natserv: 0.3.0
 natural: 0.9.0
@@ -10419,7 +10421,7 @@ NMI: .na.character
 Nmisc: 0.3.5
 nmixgof: 0.1.0
 NMMAPSlite: '0.3'
-NMOF: 2.0-1
+NMOF: 2.1-0
 NMRS: '1.0'
 nmslibR: 1.0.4
 NMVANOVA: 1.1.0
@@ -11976,6 +11978,7 @@ ppcong: 0.0.2
 ppcor: '1.1'
 ppcSpatial: 0.2.0
 PPforest: 0.1.1
+ppgam: 1.0.0
 ppgmmga: '1.2'
 ppiPre: '1.9'
 ppitables: 0.5.2
@@ -12263,7 +12266,7 @@ PSW: 1.1-3
 psy: '1.1'
 psych: 1.9.12.31
 psychmeta: 2.3.6
-psychNET: 0.0.4
+psychNET: 0.0.4.1
 psycho: 0.5.0
 psychometric: '2.2'
 psychomix: 1.1-8
@@ -15138,7 +15141,7 @@ shinyEventLogger: 0.1.1
 shinyFeedback: 0.1.0
 shinyFiles: 0.7.5
 shinyglide: 0.1.2
-shinyHeatmaply: 0.1.0
+shinyHeatmaply: 0.2.0
 shinyhelper: 0.3.2
 shinyhttr: 1.0.0
 ShinyImage: 0.1.0
@@ -15977,7 +15980,7 @@ SPRT: '1.0'
 spsann: 2.2.0
 spsarlm: 0.1-3
 spselect: 0.0.1
-spsh: 1.0.4
+spsh: 1.1.0
 spsi: '0.1'
 SPSL: 0.1-9
 spsmooth: 1.1-3
@@ -16420,6 +16423,7 @@ survC1: 1.0-2
 survClip: 0.2.3
 survcomp: 1.1.6
 SurvCorr: '1.0'
+survCurve: '1.0'
 SurvDisc: 0.1.1
 surveillance: 1.18.0
 survELtest: 2.0.1
@@ -17318,7 +17322,7 @@ TSMining: '1.0'
 TSmisc: 2016.8-1
 TSMN: 1.0.0
 tsModel: '0.6'
-tsmp: 0.4.8
+tsmp: 0.4.14
 TSMSN: 0.0.1
 TSMySQL: 2015.4-1
 tsna: 0.3.1
