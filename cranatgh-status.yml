@@ -432,7 +432,7 @@ APfun: 0.1.4
 aphid: 1.3.3
 APIS: 1.0.0
 aplore3: '0.9'
-aplot: 0.0.3
+aplot: 0.0.4
 aplpack: 1.3.3
 APML0: '0.10'
 apmsWAPP: '1.0'
@@ -704,7 +704,7 @@ aws.alexa: 0.1.7
 aws.cloudtrail: 0.1.5
 aws.comprehend: 0.2.1
 aws.ec2metadata: 0.2.0
-aws.iam: 0.1.7
+aws.iam: 0.1.8
 aws.kms: 0.1.2
 aws.lambda: 0.1.6
 aws.polly: 0.1.5
@@ -839,7 +839,7 @@ basictabler: 0.3.1
 basicTrendline: 2.0.3
 BASiNET: 0.0.4
 BASIX: '1.1'
-basket: 0.10.1
+basket: 0.10.2
 BASS: 0.2.2
 BaSTA: 1.9.4
 bastah: 1.0.7
@@ -1330,7 +1330,7 @@ biOpsGUI: 0.1.2
 bioRad: 0.5.1
 biorxivr: 0.1.3
 Bios2cor: '2.1'
-bios2mds: 1.2.2
+bios2mds: 1.2.3
 bioset: 0.2.3
 biosignalEMG: 2.1.0
 biospear: 1.0.2
@@ -3264,7 +3264,7 @@ DCCA: 0.1.1
 DCchoice: 0.0.16
 dccvalidator: 0.2.0
 DCD: 0.1.0
-DCEM: 2.0.1
+DCEM: 2.0.2
 dcemri: 0.1.4
 dcemriS4: '0.55'
 dcens: '1.0'
@@ -4113,7 +4113,7 @@ ecm: 4.4.0
 ecmwfr: 1.2.2
 eco: 4.0-1
 EcoDiet: 1.0.0
-ecodist: 2.0.3
+ecodist: 2.0.5
 ecoengine: '1.9'
 EcoGenetics: 1.2.1-5
 Ecohydmod: 1.0.0
@@ -4351,7 +4351,7 @@ EMP: 2.0.5
 empichar: 1.0.0
 empirical: 0.2.0
 empiricalBayes: '2.1'
-EmpiricalCalibration: 2.0.1
+EmpiricalCalibration: 2.0.2
 empiricalFDR.DESeq2: 1.0.3
 emplik: 1.0-4.3
 emplik2: '1.21'
@@ -5148,7 +5148,7 @@ flexmixNL: 0.0.1
 FlexParamCurve: 1.5-5
 flexPM: '2.0'
 flexrsurv: 1.4.5
-FlexScan: 0.1.0
+FlexScan: 0.2.0
 flexsurv: 1.1.1
 flexsurvcure: 1.0.0
 flextable: 0.5.9
@@ -6429,7 +6429,7 @@ grplassocat: '1.0'
 grppenalty: 2.1-0
 grpreg: 3.2.2
 grpregOverlap: 2.2-0
-grpSLOPE: 0.2.1
+grpSLOPE: 0.3.0
 grpss: 3.0.1
 GrpString: 0.3.2
 GRPtests: 0.1.0
@@ -7080,7 +7080,7 @@ icensmis: 1.3.1
 icesAdvice: 2.0-0
 icesDatras: 1.3-0
 icesSAG: 1.3-6
-icesTAF: 3.3-3
+icesTAF: 3.4-0
 icesVocab: 1.1-4
 ICGE: '0.3'
 ICGOR: '2.0'
@@ -7201,7 +7201,7 @@ imagine: 1.5.3
 ImaginR: 0.1.7
 IMak: 1.2.2
 Imap: '1.32'
-imbalance: 1.0.2
+imbalance: 1.0.2.1
 imdbapi: 0.1.0
 iMediate: 0.5.5
 iMessager: '1.0'
@@ -8335,7 +8335,7 @@ lmbc: '0.9'
 lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
-lme4: 1.1-21
+lme4: 1.1-23
 lmec: '1.0'
 lmem.gwaser: 0.1.0
 lmem.qtler: 0.1.1
@@ -8386,7 +8386,7 @@ lnMLE: '1.0'
 loa: 0.2.45.4
 loadr: 0.1.2
 lobstr: 1.1.1
-LocalControl: 1.1.2
+LocalControl: 1.1.2.1
 LocalControlStrategy: .na.character
 localdepth: 0.5-7
 localgauss: '0.40'
@@ -8708,7 +8708,7 @@ mapStats: '2.4'
 maptools: 0.9-9
 maptpx: 1.9-2
 maptree: 1.4-7
-mapview: 2.7.0
+mapview: 2.7.8
 mAr: 1.1-2
 MAR1: '1.0'
 mar1s: 2.1.1
@@ -10343,7 +10343,7 @@ NightDay: 1.0.1.1
 nilde: 1.1-3
 nima: 0.6.2
 nimble: 0.9.0
-nimbleEcology: 0.2.0
+nimbleEcology: 0.2.1
 nipals: '0.7'
 Nippon: '0.7'
 NipponMap: '0.2'
@@ -13884,7 +13884,7 @@ Rnightlights: 0.2.4
 rNMF: 0.5.0
 Rnmr1D: 1.2.5
 rnn: 0.9.8
-rnoaa: 0.9.5
+rnoaa: 0.9.6
 rNOMADS: 2.4.2
 RNOmni: 0.7.1
 Rnotes: 1.1-1
@@ -14929,7 +14929,7 @@ selfea: 1.0.1
 selfingTree: '0.2'
 SelvarMix: 1.2.1
 sem: 3.1-9
-semantic.dashboard: 0.1.1
+semantic.dashboard: 0.1.5
 Semblance: 1.1.0
 semdiag: 0.1.2
 semdrw: 0.1.0
@@ -16115,7 +16115,7 @@ staRdom: 1.1.10
 stargazer: 5.2.2
 starma: '1.3'
 starmie: 0.1.2
-stars: 0.4-0
+stars: 0.4-1
 STARSEQ: 1.2.1
 staRt: 1.1.12
 STARTdesign: '1.0'
@@ -17982,7 +17982,7 @@ wevid: 0.6.2
 wfe: 1.9.1
 wfg: '0.1'
 wfindr: 0.1.0
-wflo: '1.2'
+wflo: '1.3'
 wgaim: 2.0-1
 WGCNA: '1.69'
 wgeesel: '1.5'
@@ -18150,7 +18150,7 @@ xbreed: 1.0.1.1
 XBRL: 0.99.18
 xdcclarge: 0.1.0
 xergm: 1.8.3
-xergm.common: 1.7.7
+xergm.common: 1.7.8
 xesreadR: 0.2.3
 xfun: '0.12'
 xgb2sql: 0.1.2
