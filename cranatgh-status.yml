@@ -2547,7 +2547,7 @@ CompLognormal: '3.0'
 compoisson: '0.3'
 COMPoissonReg: 0.7.0
 Compositional: '3.8'
-compositions: 1.40-4
+compositions: 1.40-5
 compositionsGUI: '1.0'
 compound.Cox: '3.19'
 CompoundEvents: 0.1.0
@@ -3178,6 +3178,7 @@ dataesgobr: 1.0.0
 DataExplorer: 0.8.1
 dataframe: '2.5'
 DataFrameConstr: 1.1-2
+dataframeexplorer: 0.1.5
 dataframes2xls: 0.4.7
 datafsm: 0.2.3
 datagovsgR: 0.3.1
@@ -4671,7 +4672,7 @@ ExactNumCI: 1.0.0
 ExactPath: '1.0'
 exactRankTests: 0.8-31
 ExactSampling: '1.0'
-exampletestr: 1.5.2
+exampletestr: 1.6.0
 exams: 2.3-6
 ExceedanceTools: 1.2.2
 exceedProb: 0.0.1
@@ -6835,6 +6836,7 @@ Hmisc: 4.4-0
 hmlasso: 0.0.1
 HMM: '1.0'
 hmm.discnp: 2.1-12
+hmma: 1.0.0
 HMMCont: '1.0'
 HMMcopula: 1.0.3
 HMMEsolver: 0.1.2
@@ -7647,7 +7649,7 @@ JAGUAR: 3.0.1
 JamendoR: 0.1.0
 james.analysis: 1.0.1
 janeaustenr: 0.1.5
-janitor: 1.2.1
+janitor: 2.0.0
 jaod: 0.2.0
 jarbes: 1.7.2
 JASPAR: 0.0.1
@@ -8130,7 +8132,7 @@ ldamatch: 1.0.1
 ldaPrototype: 0.1.1
 ldat: 0.3.3
 LDATS: 0.2.7
-ldatuning: 1.0.0
+ldatuning: 1.0.1
 LDAvis: 0.3.2
 ldbod: 0.1.2
 ldbounds: 1.1-1.1
@@ -8360,7 +8362,7 @@ lmeNBBayes: 1.3.1
 lmenssp: '1.2'
 LMERConvenienceFunctions: '2.10'
 lmeresampler: 0.1.1
-lmerTest: 3.1-1
+lmerTest: 3.1-2
 lmeSplines: 1.1-10
 LMest: 2.6.0
 lmeVarComp: '1.1'
@@ -8821,7 +8823,7 @@ matsbyname: 0.4.12
 matsindf: 0.3.4
 MatSkew: 0.1.5
 MATTOOLS: '1.1'
-MatTransMix: 0.1.7
+MatTransMix: 0.1.8
 mau: 0.1.2
 mauricer: 2.0.5
 MAVE: 1.3.10
@@ -8843,7 +8845,7 @@ MaxPro: 4.1-2
 MaxSkew: '1.1'
 maxstat: 0.7-25
 maxTPR: 0.1.0
-MazamaCoreUtils: 0.4.2
+MazamaCoreUtils: 0.4.3
 MazamaLocationUtils: 0.1.6
 MazamaSpatialUtils: 0.6.4
 MazamaWebUtils: 0.1.7
@@ -9881,7 +9883,7 @@ msr: '0.4'
 mssm: 0.1.3
 mssqlR: 1.0.0
 msSurv: 1.2-2
-MST: '2.1'
+MST: '2.2'
 mstate: 0.2.12
 mStats: 3.2.2
 mSTEM: 1.0-1
@@ -11183,9 +11185,9 @@ parsec: 1.2.3
 parsedate: 1.2.0
 parsemsf: 0.1.1
 parser: '0.1'
-parsetools: 0.1.2
+parsetools: 0.1.3
 parSim: 0.1.1
-parsnip: 0.0.5
+parsnip: 0.1.0
 parspatstat: 0.1-4
 PartCensReg: '1.39'
 partDSA: 0.9.14
@@ -11857,7 +11859,7 @@ politeness: 0.5.1
 politicaldata: 0.1.3
 pollen: 0.72.0
 pollimetry: 1.0.1
-pollster: 0.1.0
+pollster: 0.1.1
 pollstR: 2.0.1
 polmineR: 0.8.0
 PoloniexR: 0.0.1
@@ -13734,7 +13736,7 @@ rkt: '1.5'
 RKUM: 0.1.1
 rkvo: '0.1'
 Rlab: 2.15.1
-Rlabkey: 2.3.4
+Rlabkey: 2.4.0
 rLakeAnalyzer: 1.11.4.1
 rLandsat: 0.1.1
 rlandscape: '1.0'
@@ -14740,7 +14742,7 @@ scclust: 0.2.2
 sccr: '2.0'
 SCCS: '1.1'
 scdensity: 1.0.2
-scdhlm: 0.3.1
+scdhlm: 0.3.2
 scenario: '1.0'
 SCEPtER: 0.2-1
 SCEPtERbinary: 0.1-1
@@ -16274,7 +16276,7 @@ strap: '1.4'
 strapgod: 0.0.4
 strat: '0.1'
 strataG: 2.4.905
-stratamatch: 0.1.4
+stratamatch: 0.1.5
 stratasphere: '1.0'
 stratbr: '1.2'
 strategicplayers: '1.0'
@@ -16699,7 +16701,7 @@ tbl2xts: 0.1.3
 tbltools: 0.1.0
 tbm: 0.3-2.1
 tbma: 0.1.0
-tbrf: 0.1.4
+tbrf: 0.1.5
 TBSSurvival: '1.3'
 TCA: 1.1.0
 TCC: 1.1.3
@@ -17589,7 +17591,7 @@ usedist: 0.4.0
 useful: 1.2.6
 usefun: 0.4.3
 userfriendlyscience: 0.7.2
-usethis: 1.5.1
+usethis: 1.6.0
 usfertilizer: 0.1.5
 USgrid: 0.1.0
 USGSstates2k: 1.0.1
