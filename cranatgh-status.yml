@@ -330,7 +330,7 @@ ampd: '0.2'
 ampir: 0.1.0
 AMPLE: 0.0.2
 AmpliconDuo: '1.1'
-AMR: 1.0.1
+AMR: 1.1.0
 amt: 0.0.9
 AmyloGram: '1.1'
 AnaCoDa: 0.1.3.0
@@ -708,7 +708,7 @@ aws.comprehend: 0.2.1
 aws.ec2metadata: 0.2.0
 aws.iam: 0.1.8
 aws.kms: 0.1.4
-aws.lambda: 0.1.6
+aws.lambda: 0.2.0
 aws.polly: 0.1.5
 aws.s3: 0.3.21
 aws.ses: 0.1.4
@@ -1612,7 +1612,7 @@ bride: '1.3'
 bridgedist: 0.1.0
 bridger2: 0.1.0
 bridgesampling: 1.0-0
-brinton: 0.1.5
+brinton: 0.1.6
 brio: 1.0.0
 briqr: 0.1.0
 BRISC: 0.2.0
@@ -1977,7 +1977,7 @@ cellranger: 1.1.0
 celltrackR: 0.3.1
 CellularAutomaton: '1.1'
 cellVolumeDist: '1.3'
-cellWise: 2.1.0
+cellWise: 2.1.1
 celsius: 1.0.7
 cem: 1.1.19
 cems: '0.4'
@@ -2143,6 +2143,7 @@ cifti: 0.4.5
 CIM: 1.0.0
 cimir: 0.4-0
 cimis: 0.1-7
+CIMTx: 0.1.0
 cin: '0.1'
 CINID: '1.2'
 CINNA: 1.1.53
@@ -2220,7 +2221,7 @@ cleanNLP: 3.0.2
 cleanr: 1.3.0
 clere: 1.2.0
 clespr: 1.1.2
-clhs: 0.7-2
+clhs: 0.7-3
 cli: 2.0.2
 cliapp: 0.1.0
 ClickClust: 1.1.5
@@ -2253,6 +2254,7 @@ clines: 2.0-3
 clinfun: 1.0.15
 ClinicalRobustPriors: 2.1-2
 ClinicalTrialSummary: 1.1.1
+ClinicalUtilityRecal: 0.1.0
 clinPK: 0.9.0
 ClinReport: 0.9.1.8
 clinsig: '1.2'
@@ -2654,7 +2656,7 @@ controlTest: 1.1.0
 ConvCalendar: '1.2'
 ConvergenceClubs: 2.2.1
 ConvergenceConcepts: 1.2.2
-convergEU: 0.4.1
+convergEU: 0.4.2
 convertGraph: '0.1'
 convertr: '0.1'
 convevol: '1.3'
@@ -2720,7 +2722,7 @@ corpora: '0.5'
 CorporaCoCo: 1.1-0
 corporaexplorer: 0.8.2
 CoRpower: 1.0.3
-corpus: 0.10.0
+corpus: 0.10.1
 corpustools: 0.4.2
 corr2D: 1.0.0
 CorrBin: '1.6'
@@ -3702,7 +3704,7 @@ distillery: 1.0-6
 disto: 0.2.0
 distory: 1.4.3
 distr: 2.8.0
-distr6: 1.3.5
+distr6: 1.3.6
 distrDoc: 2.8.0
 distreg.vis: 1.7.0
 distrEllipse: 2.8.0
@@ -3807,7 +3809,7 @@ docxtractr: 0.6.1
 Dodge: 0.9-2
 dodgr: 0.2.5
 DODR: 0.99.2
-DoE.base: 1.1-4
+DoE.base: 1.1-5
 DoE.MIParray: '0.13'
 DoE.multi.response: 0.1.0
 DoE.wrapper: '0.11'
@@ -3920,7 +3922,7 @@ drugCombo: 1.1.1
 drumr: 0.1.0
 ds: '4.0'
 ds4psy: 0.1.0
-dsa: 0.70.3
+dsa: 0.74.18
 DSAIDE: 0.8.3
 DSAIRM: 0.8.2
 dsample: 0.91.2.2
@@ -4495,7 +4497,7 @@ EpiSignalDetection: 0.1.1
 episode: 1.0.0
 episplineDensity: 0.0-1
 epistasis: 0.0.1-1
-EpiStats: 1.3-1
+EpiStats: 1.4-1
 EpistemicGameTheory: 0.1.2
 epitab: 0.2.2
 epitable: 0.1.2
@@ -4683,7 +4685,7 @@ ExactNumCI: 1.0.0
 ExactPath: '1.0'
 exactRankTests: 0.8-31
 ExactSampling: '1.0'
-exampletestr: 1.6.0
+exampletestr: 1.6.1
 exams: 2.3-6
 ExceedanceTools: 1.2.2
 exceedProb: 0.0.1
@@ -5402,7 +5404,7 @@ frt: '0.1'
 fs: 1.4.1
 FSA: 0.8.30
 FSAdata: 0.3.8
-fsbrain: 0.0.3
+fsbrain: 0.1.0
 fscaret: 0.9.4.4
 fsdaR: 0.4-9
 FSelector: '0.31'
@@ -6033,7 +6035,7 @@ ggspatial: 1.0.3
 ggspectra: 0.3.5
 ggstance: 0.3.4
 ggstar: 0.0.4
-ggstatsplot: 0.3.1
+ggstatsplot: 0.4.0
 ggsubplot: 0.3.2
 ggswissmaps: 0.1.1
 ggtern: 3.3.0
@@ -6051,7 +6053,7 @@ gh: 1.1.0
 GHap: 1.2.2
 Ghat: 0.1.0
 GhcnDaily: '1.5'
-ghibli: 0.3.1
+ghibli: 0.3.2
 ghit: 0.2.5
 Ghost: 0.1.0
 ghostr: 1.0.0
@@ -6792,7 +6794,7 @@ highcharter: 0.7.0
 highD2pop: '1.0'
 HighDimOut: 1.0.0
 HighestMedianRules: '1.0'
-highfrequency: 0.6.4
+highfrequency: 0.6.5
 highlight: 0.5.0
 highlightHTML: 0.2.4
 highmean: '3.0'
@@ -6926,7 +6928,7 @@ HSAR: 0.4.2
 HSAUR: 1.3-9
 HSAUR2: 1.1-17
 HSAUR3: 1.0-9
-hscovar: 0.1.2
+hscovar: 0.2.1
 hsdar: 1.0.1
 HSDiC: '0.1'
 hSDM: 1.4.1
@@ -6993,7 +6995,7 @@ hybridEnsemble: 1.0.0
 HybridFS: 0.1.3
 hybridHclust: 1.0-5
 HybridMC: '0.2'
-hybridModels: 0.3.5
+hybridModels: 0.3.6
 HydeNet: 0.10.9
 hydra: 0.1.0
 hydroApps: 0.1-1
@@ -7247,7 +7249,7 @@ immer: 1.1-35
 Immigrate: 0.0.2
 immuneSIM: 0.8.7
 IMP: '1.1'
-imp4p: '0.8'
+imp4p: '0.9'
 IMPACT: 0.1.1
 ImpactEffectsize: 0.4.0
 impactflu: 0.1.0
@@ -7852,6 +7854,7 @@ kernscr: 1.0.5
 KernSmooth: 2.23-16
 KernSmoothIRT: '6.4'
 kexpmv: 0.0.3
+keyATM: 0.1.0
 KeyboardSimulator: 2.5.0
 keyholder: 0.1.4
 keyplayer: 1.0.3
@@ -9682,7 +9685,7 @@ momentchi2: 0.1.5
 momentfit: 0.1-0
 moments: '0.14'
 momentuHMM: 1.5.1
-Momocs: 1.2.9
+Momocs: 1.3.0
 momr: '1.1'
 MomTrunc: '5.87'
 mondate: 0.10.01.02
@@ -10044,7 +10047,7 @@ MultNonParam: 1.3.3
 multtest: 2.8.0
 multxpert: 0.1.1
 muma: '1.4'
-MuMIn: 1.43.15
+MuMIn: 1.43.17
 mumm: 0.2.1
 munfold: 0.3.5
 munsell: 0.5.0
@@ -10477,7 +10480,7 @@ nnlasso: '0.3'
 NNLM: 0.4.3
 nnls: '1.4'
 NNMIS: 1.0.1
-NNS: 0.5.0
+NNS: 0.5.1
 NNTbiomarker: 0.29.11
 nnTensor: 1.0.2
 noaaoceans: 0.2.0
@@ -12205,7 +12208,7 @@ projections: 0.3.1
 ProjectManagement: 1.2.4
 projector: 0.0.2
 projects: 2.1.0
-ProjectTemplate: 0.9.0
+ProjectTemplate: 0.9.1
 projmanr: 0.2.1
 projmgr: 0.1.0
 projpred: 1.1.6
@@ -12908,6 +12911,7 @@ rbtt: 0.1.0
 rbugs: 0.5-9
 rbundler: 0.3.7
 rbvs: 1.0.2
+rbw: 0.2.0
 RC: 1.0.2.13
 RCA: '2.0'
 RCAL: '1.0'
@@ -13118,7 +13122,7 @@ rcv: 0.2.1
 RCzechia: 1.4.6
 Rd: 0.2.0
 Rd2md: 0.0.2
-Rd2roxygen: '1.9'
+Rd2roxygen: '1.10'
 rda: '1.0'
 RDataCanvas: '0.1'
 rdatacite: 0.5.2
@@ -13417,7 +13421,7 @@ represtools: 0.1.3
 reprex: 0.3.0
 reproducer: 0.3.1
 reproducible: 1.0.0
-reproj: 0.4.0
+reproj: 0.4.2
 REPTILE: '1.0'
 repurrrsive: 1.0.0
 reqres: 0.2.3
@@ -13905,6 +13909,7 @@ RNCEP: 1.0.9
 rncl: 0.8.4
 RND: '1.2'
 RndTexExams: '1.5'
+rNeighborGWAS: 1.0.0
 RNentropy: 1.2.2
 RNeo4j: 1.6.4
 rneos: 0.3-2
@@ -14324,7 +14329,7 @@ rSHAPE: 0.3.2
 RSiena: 1.2-23
 rsig: '1.0'
 RsimMosaic: 1.0.3
-rsimsum: 0.8.0
+rsimsum: 0.9.0
 rsinaica: 0.6.1
 RSIP: 1.0.0
 RSiteCatalyst: 1.4.16
@@ -14553,7 +14558,7 @@ RWeka: 0.4-42
 RWekajars: 3.9.3-2
 rwfec: '0.2'
 rwhatsapp: 0.2.2
-Rwhois: 1.0.3
+Rwhois: 1.0.4
 RWiener: 1.3-2
 RWildbook: 0.9.3
 rWind: 1.1.5
@@ -15284,7 +15289,7 @@ SigWinR: '1.0'
 SII: 1.0.3.1
 siland: '2.0'
 SILGGM: 1.0.0
-silicate: 0.3.0
+silicate: 0.4.0
 SILM: 1.0.0
 Sim.DiffProc: '4.5'
 Sim.DiffProcGUI: '2.5'
@@ -16083,7 +16088,7 @@ ssd: '0.3'
 SSDforR: 1.5.12
 SSDM: 0.2.8
 sSDR: 1.2.0
-ssdtools: 0.1.1
+ssdtools: 0.2.0
 sse: 0.7-16
 ssev: 0.1.0
 ssfa: '1.1'
@@ -16980,7 +16985,7 @@ tidystopwords: 0.9.0
 tidystringdist: 0.1.4
 tidytable: 0.4.0
 tidytext: 0.2.3
-tidytidbits: 0.2.1
+tidytidbits: 0.2.2
 tidytransit: 0.7.0
 tidytree: 0.3.3
 tidyUSDA: 0.2.7
@@ -18260,7 +18265,7 @@ xROI: 0.9.13
 XRPython: '0.8'
 XRSCC: '0.1'
 xseq: 0.2.1
-xslt: '1.4'
+xslt: 1.4.1
 xsp: 0.1.2
 xspliner: 0.0.4
 xSub: 2.0.2
