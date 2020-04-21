@@ -152,7 +152,7 @@ adklakedata: 0.6.1
 adlift: 1.4-1
 ADM3: '1.3'
 admisc: '0.8'
-AdMit: 2.1.4
+AdMit: 2.1.5
 admixturegraph: 1.0.2
 ADMM: 0.3.1
 admmDensestSubmatrix: 0.1.0
@@ -895,7 +895,7 @@ bayesDP: 1.3.3
 BayesESS: 0.1.19
 BayesFactor: 0.9.12-4.2
 BayesFM: 0.1.3
-bayesGARCH: 2.1.4
+bayesGARCH: 2.1.5
 bayesGDS: 0.6.2
 BayesGESM: '1.4'
 BayesGOF: '5.2'
@@ -924,7 +924,7 @@ BayesMallows: 0.4.2
 BayesMAMS: '0.1'
 bayesMCClust: '1.0'
 BayesMed: '1.0'
-bayesmeta: '2.4'
+bayesmeta: '2.5'
 BayesMFSurv: 0.1.0
 bayesmix: 0.7-4
 BayesMixSurv: 0.9.1
@@ -1393,7 +1393,7 @@ bizdays: 1.0.6
 bjscrapeR: 0.1.0
 bkmr: 0.2.0
 BKPC: 1.0.1
-blackbox: 1.1.27
+blackbox: 1.1.32
 blaise: 1.3.4
 BlakerCI: 1.0-6
 BlandAltmanLeh: 0.3.1
@@ -1475,7 +1475,7 @@ BMTME: 1.0.12
 bnclassify: 0.4.5
 BNDataGenerator: '1.0'
 bnlearn: '4.5'
-bnma: 1.0.0
+bnma: 1.1.0
 BNN: 1.0.2
 bnnSurvival: 0.1.5
 bnormnlr: '1.0'
@@ -1625,7 +1625,7 @@ brms: 2.12.0
 brnn: '0.8'
 Brobdingnag: 1.2-6
 broman: 0.69-5
-broom: 0.5.5
+broom: 0.5.6
 broom.mixed: 0.2.5
 broomExtra: 3.0.0
 brotli: '1.2'
@@ -2089,7 +2089,7 @@ ChemometricsWithRData: 0.1.3
 chemosensors: 0.7.8
 ChemoSpec: 5.2.12
 ChemoSpec2D: 0.4.147
-ChemoSpecUtils: 0.4.38
+ChemoSpecUtils: 0.4.51
 cherry: 0.6-13
 chest: 0.3.1
 CHFF: 0.1.0
@@ -3120,7 +3120,7 @@ DAAG: '1.24'
 DAAGbio: 0.63-3
 DAAGxtras: 0.8-4
 daarem: 0.4.1
-dabestr: 0.2.4
+dabestr: 0.2.5
 DAC: 0.1.1
 DACF: 1.0.0
 dad: 3.4.0
@@ -3536,7 +3536,7 @@ dgodata: 0.0.2
 dgof: '1.2'
 dgumbel: 1.0.1
 DGVM3D: 1.0.0
-DHARMa: 0.2.7
+DHARMa: 0.3.0
 DHBins: '1.1'
 dhga: '0.1'
 dhglm: '2.0'
@@ -4956,7 +4956,7 @@ fcros: 1.6.1
 FCSlib: 1.1.0
 fcuk: 0.1.21
 FD: 1.0-12
-fda: 2.4.8.1
+fda: 5.1.4
 fda.usc: 2.0.2
 fdaACF: 0.1.0
 fdadensity: 0.1.2
@@ -5113,7 +5113,7 @@ fishMod: '0.29'
 fishmove: 0.3-3
 FishResp: 1.0.3
 fishtree: 0.3.2
-fishualize: 0.1.0
+fishualize: 0.2.0
 FisPro: '1.0'
 FIT: 0.0.6
 fit.models: 0.5-14
@@ -5469,7 +5469,7 @@ funnelR: 0.1.0
 FunNet: '1.00'
 funprog: 0.2.0
 funr: 0.3.2
-funrar: 1.4.0
+funrar: 1.4.1
 funreg: '1.2'
 FUNTA: 0.1.0
 funtimes: '6.1'
@@ -6665,7 +6665,7 @@ hcc: '0.54'
 hcci: 1.0.0
 HCD: '0.1'
 hchinamap: 0.1.0
-HCmodelSets: '1.1'
+HCmodelSets: 1.1.1
 hcp: '0.1'
 HCR: 0.1.1
 HCT: 0.1.0
@@ -7066,7 +7066,7 @@ ibmdbR: 1.50.0
 ibmsunburst: 0.1.1
 Iboot: 0.1-1
 ibr: 2.0-3
-iBreakDown: 1.1.1
+iBreakDown: 1.2.0
 IBrokers: 0.9-12
 ibs: '1.4'
 iBST: '1.0'
@@ -7350,7 +7350,7 @@ infraFDTD.assist: '0.6'
 infuser: '0.2'
 Infusion: 1.4.1
 infutil: '1.0'
-ingredients: '1.1'
+ingredients: 1.2.0
 ini: 0.3.1
 IniStatR: 1.0.0
 injectoR: 0.2.4
@@ -9467,7 +9467,7 @@ mize: 0.2.3
 mizer: 2.0.0
 mkde: '0.1'
 MKdescr: '0.5'
-mkin: 0.9.49.10
+mkin: 0.9.49.11
 MKinfer: '0.4'
 MKLE: '0.05'
 MKmisc: '1.6'
@@ -9960,7 +9960,7 @@ multDM: 1.1.1
 multdyn: '1.6'
 MultEq: '2.3'
 multfisher: '1.1'
-multgee: 1.6.0
+multgee: 1.7.0
 MultiABEL: 1.1-6
 multiApply: 2.1.1
 multiAssetOptions: 0.1-1
@@ -10106,7 +10106,7 @@ mvnmle: 0.1-11.1
 mvnormtest: 0.1-9
 mvnpermute: 1.0.0
 mvnTest: 1.1-0
-MVNtestchar: 1.0.1
+MVNtestchar: 1.0.2
 mvord: 1.0.0
 mvoutlier: 2.0.9
 mvp: 1.0-8
@@ -13697,7 +13697,7 @@ rIsing: 0.1.0
 Risk: .na.character
 riskclustr: '0.2'
 riskParityPortfolio: 0.2.1
-RiskPortfolios: 2.1.3
+RiskPortfolios: 2.1.4
 riskPredictClustData: 0.2.6
 riskR: '1.1'
 riskRegression: 2020.02.05
@@ -14575,7 +14575,7 @@ Rwofost: 0.6-3
 Rwordseg: 0.3-2
 rworldmap: 1.3-6
 rworldxtra: '1.01'
-RWsearch: 4.7.0
+RWsearch: 4.8.0
 rwstats: '0.1'
 rwt: 1.0.0
 rwty: 1.0.2
@@ -15754,7 +15754,7 @@ spanel: '0.1'
 spanish: 0.4.2
 spANOVA: 0.99.2
 spanr: '1.0'
-spant: 1.3.0
+spant: 1.4.0
 SPAr: '0.1'
 sparc: 0.9.0
 sparcl: 1.0.4
@@ -15765,7 +15765,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.1.0
+sparklyr: 1.2.0
 sparklyr.nested: 0.0.3
 SparkR: 2.4.5
 sparkTable: 1.3.0
@@ -18097,7 +18097,7 @@ wISAM: 0.2.8
 WiSEBoot: 1.4.0
 wiseR: 1.0.1
 wiserow: 0.1.0
-withr: 2.1.2
+withr: 2.2.0
 witness: '1.2'
 wkb: 0.4-0
 wkNNMI: 1.0.0
