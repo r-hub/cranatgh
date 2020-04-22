@@ -154,7 +154,7 @@ ADM3: '1.3'
 admisc: '0.8'
 AdMit: 2.1.5
 admixturegraph: 1.0.2
-ADMM: 0.3.1
+ADMM: 0.3.2
 admmDensestSubmatrix: 0.1.0
 ADMMnet: '0.1'
 ADMMsigma: '2.1'
@@ -1370,6 +1370,7 @@ BisqueRNA: 1.0.2
 BisRNA: 0.2.2
 bit: 1.1-15.2
 bit64: 0.9-7
+bite: '0.3'
 bitops: 1.0-6
 BiTrinA: '1.3'
 bitrugs: '0.1'
@@ -1627,7 +1628,7 @@ Brobdingnag: 1.2-6
 broman: 0.69-5
 broom: 0.5.6
 broom.mixed: 0.2.5
-broomExtra: 3.0.0
+broomExtra: 4.0.0
 brotli: '1.2'
 BrownDog: 0.2.1
 Brq: '2.5'
@@ -1711,7 +1712,7 @@ BVSNLP: 1.1.8
 bw: 1.0.0
 bwd: 0.1.0
 bWGR: 1.6.6
-bwimage: '1.2'
+bwimage: '1.3'
 BWStest: 0.2.2
 bwsTools: 1.1.0
 bwsurvival: '1.0'
@@ -1779,7 +1780,7 @@ camtrapR: 2.0.1
 cancensus: 0.2.1
 cancerGI: 1.0.0
 cancerTiming: 3.1.8
-candisc: 0.8-0
+candisc: 0.8-3
 Canopy: 1.3.0
 canprot: 0.1.2
 cansim: 0.3.5
@@ -2778,7 +2779,7 @@ countfitteR: '1.0'
 countgmifs: 0.0.2
 countHMM: 0.1.0
 Countr: 3.5.4
-countrycode: 1.1.1
+countrycode: 1.1.2
 CountsEPPM: '3.0'
 countToFPKM: '1.0'
 countTransformers: 0.0.6
@@ -2929,7 +2930,7 @@ crossReg: '1.0'
 crossrun: 0.1.0
 CrossScreening: 0.1.1
 crosstalk: 1.1.0.1
-CrossVA: 0.9.9
+CrossVA: 0.10.0
 crossval: 1.0.3
 CrossValidate: 2.3.4
 crosswalkr: 0.2.6
@@ -3137,7 +3138,7 @@ Daim: 1.1.0
 DAIME: 2.1.3
 DAISIE: '1.4'
 DAKS: 2.1-3
-DALEX: 1.0.1
+DALEX: 1.2.0
 DALEX2: '0.9'
 DALEXtra: 0.2.1
 dalmatian: 0.3.0
@@ -3345,7 +3346,7 @@ decisionSupport: 1.105.2
 deckgl: 0.2.5
 DeclareDesign: 0.22.0
 decode: '1.2'
-decoder: 1.2.1
+decoder: 1.2.2
 decomposedPSF: 0.1.3
 DecomposeR: 1.0.1
 decompr: 4.5.0
@@ -3973,7 +3974,7 @@ dtplyr: 1.0.1
 DTR: '1.7'
 dtree: 0.4.2
 DTRlearn: '1.3'
-DTRlearn2: '1.0'
+DTRlearn2: '1.1'
 DTRreg: '1.5'
 DTSg: 0.4.0
 dtt: 0.1-2
@@ -4783,7 +4784,7 @@ ezsummary: 0.2.1
 EZtune: 2.0.0
 fabCI: '0.1'
 FABInference: '0.1'
-fable: 0.1.2
+fable: 0.2.0
 fabletools: 0.1.3
 fabMix: '5.0'
 fabricatr: 0.10.0
@@ -5184,7 +5185,7 @@ flip: 2.5.0
 flippant: 1.1.0
 flipscores: '0.2'
 FLLat: 1.2-1
-float: 0.2-3
+float: 0.2-4
 flobr: 0.2.0
 flock: '0.7'
 flood: .na.character
@@ -5457,6 +5458,7 @@ funest: 0.0.1.3
 funFEM: '1.1'
 funfits: 2.0-3
 fungible: 1.95.2
+funGp: 0.1.0
 funHDDC: 2.3.0
 funique: 0.0.1
 fUnitRoots: '3042.79'
@@ -5878,7 +5880,7 @@ gesis: '0.2'
 gestalt: 0.1.8
 gestate: 1.4.0
 GESTr: '0.1'
-GET: 0.1-6
+GET: 0.1-7
 GetBCBData: '0.5'
 getCRUCLdata: 0.3.1
 GetDFPData: 1.5.2
@@ -6003,7 +6005,7 @@ ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
 ggplotify: 0.0.5
 ggplotlyExtra: 0.0.1
-ggpmisc: 0.3.3
+ggpmisc: 0.3.4
 ggPMX: '1.1'
 ggpointdensity: 0.1.0
 ggpol: 0.0.6
@@ -6329,7 +6331,7 @@ gptk: '1.08'
 gpuR: 2.0.3
 gputools: '1.1'
 GPvam: 3.0-5
-GPvecchia: 0.1.2
+GPvecchia: 0.1.3
 gqlr: 0.0.2
 gquad: 2.1-1
 grabsampling: 1.0.0
@@ -6556,7 +6558,7 @@ GWAF: '2.2'
 GWASbyCluster: 0.1.7
 GWASExactHW: '1.01'
 GWASinlps: '1.2'
-GWASinspector: 1.4.6.7
+GWASinspector: 1.4.7
 GWAtoolbox: 2.2.4
 gwdegree: 0.1.1
 gwer: '2.0'
@@ -9528,7 +9530,7 @@ mlr3: 0.2.0
 mlr3data: 0.1.0
 mlr3db: 0.1.5
 mlr3filters: 0.2.0
-mlr3learners: 0.1.6
+mlr3learners: 0.2.0
 mlr3measures: 0.1.3
 mlr3misc: 0.2.0
 mlr3pipelines: 0.1.3
@@ -9593,7 +9595,7 @@ MMST: 0.6-1
 mmtfa: '0.3'
 mmtsne: 0.1.0
 MMVBVS: 0.8.0
-MMWRweek: 0.1.1
+MMWRweek: 0.1.3
 mnis: 0.2.7
 mniw: '1.0'
 mnj: '1.0'
@@ -9918,7 +9920,7 @@ msu: 0.0.1
 MSVAR: '0.0'
 MSwM: '1.4'
 MTA: 0.2.0
-MTAR: 0.1.0
+MTAR: 0.1.1
 mtconnectR: 1.2.1
 mtcreator: '0.1'
 MTDrh: 0.1.0
@@ -10483,6 +10485,7 @@ NNLM: 0.4.3
 nnls: '1.4'
 NNMIS: 1.0.1
 NNS: 0.5.1
+nnt: 0.1.4
 NNTbiomarker: 0.29.11
 nnTensor: 1.0.4
 noaaoceans: 0.2.0
@@ -11933,7 +11936,7 @@ poolfstat: 1.1.1
 pooling: 1.1.2
 poolr: 0.8-2
 poolVIM: 1.0.0
-poorman: 0.1.10
+poorman: 0.1.11
 pop: '0.1'
 pop.wolf: '0.1'
 popbio: '2.7'
@@ -13560,7 +13563,7 @@ RGenetics: '0.1'
 rgenoud: 5.8-3.0
 rgeoapi: 1.1.0
 RGeode: 0.1.0
-rgeolocate: 1.0.1
+rgeolocate: 1.2.0
 rgeopat2: 0.3.9
 rgeoprofile: 0.1.1
 rgeos: 0.5-2
@@ -14405,7 +14408,7 @@ rstream: 1.3.6
 Rstreams: '1.1'
 RStripe: '0.1'
 rstudioapi: '0.11'
-rsubgroup: '0.9'
+rsubgroup: '1.0'
 RSuite: 0.37-253
 Rsundials: '1.6'
 rsunlight: 0.7.0
@@ -14686,6 +14689,7 @@ sand: 1.0.3
 sandwich: 2.5-1
 SanFranBeachWater: 0.1.0
 sanitizers: 0.1.0
+sanityTracker: 0.1.0
 sankey: 1.0.2
 sankeywheel: 0.1.0
 sanon: '1.5'
@@ -14707,6 +14711,7 @@ SARP.moodle: 0.3.10
 sars: 1.2.1
 sas7bdat: '0.5'
 SAScii: '1.0'
+sasLM: 0.1.2
 sasMap: 1.0.0
 SASmarkdown: 0.4.3
 SASmixed: 1.0-4
@@ -16169,6 +16174,7 @@ starma: '1.3'
 starmie: 0.1.2
 stars: 0.4-1
 STARSEQ: 1.2.1
+starsExtra: 0.0.3
 staRt: 1.1.12
 STARTdesign: '1.0'
 startR: 0.0.1
@@ -16217,7 +16223,7 @@ statquotes: 0.2.2
 StatRank: 0.0.6
 stats19: 1.2.0
 statsDK: 0.1.1
-statsExpressions: 0.4.0
+statsExpressions: 0.4.1
 statsgrokse: 0.1.4
 statsguRu: 0.1.0
 statsr: 0.1-0
@@ -16316,7 +16322,7 @@ Strategy: 1.0.1
 stratEst: 0.1.2
 stratification: 2.2-6
 StratifiedBalancing: 0.3.0
-StratifiedMedicine: 0.2.2
+StratifiedMedicine: 0.2.3
 StratifiedRF: 0.2.2
 stratifyR: 1.0-2
 stratigraph: '0.6'
@@ -16923,6 +16929,7 @@ threeBrain: 0.1.5
 ThreeGroups: '0.21'
 threejs: 0.3.3
 ThreeWay: 1.1.3
+ThreeWiseMonkeys: 0.1.0
 threewords: 0.1.0
 threg: 1.0.3
 thregI: 1.0.4
@@ -17622,7 +17629,7 @@ usdarnass: 0.1.0
 usdm: 1.1-18
 usedist: 0.4.0
 useful: 1.2.6
-usefun: 0.4.4
+usefun: 0.4.5
 userfriendlyscience: 0.7.2
 usethis: 1.6.0
 usfertilizer: 0.1.5
@@ -17803,7 +17810,7 @@ VhayuR: 1.1.2
 vhcub: 1.0.0
 VHDClassification: '0.3'
 vhica: 0.2.7
-viafr: 0.1.0
+viafr: 0.2.0
 vici: 0.5.2
 VICmodel: 0.1.2
 VideoComparison: 0.9-4
@@ -18191,7 +18198,7 @@ wvtool: '1.0'
 WWGbook: 1.0.1
 wwntests: 1.0.0
 WWR: 1.2.2
-wyz.code.metaTesting: 1.1.11
+wyz.code.metaTesting: 1.1.12
 wyz.code.offensiveProgramming: 1.1.18
 wyz.code.rdoc: .na.character
 wyz.code.testthat: 1.1.17
