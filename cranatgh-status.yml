@@ -529,7 +529,7 @@ ArrayBin: '0.2'
 arrayhelpers: 1.1-0
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
-arrow: 0.16.0.2
+arrow: 0.17.0
 ars: '0.6'
 arse: .na.character
 arsenal: 3.4.0
@@ -597,7 +597,7 @@ assertthat: 0.2.1
 AssetCorr: 1.0.3
 AssetPricing: 1.0-1
 assignPOP: 1.1.9
-assignR: 1.1.3
+assignR: 1.2.0
 assist: 3.1.6
 ASSISTant: 1.4.2
 AssocAFC: 1.0.2
@@ -2309,7 +2309,7 @@ clustergas: '1.0'
 clusterGeneration: 1.3.4
 clusterGenomics: '1.0'
 clusterhap: '0.1'
-Clustering: '1.4'
+Clustering: '1.5'
 clustering.sc.dp: '1.0'
 clusterlab: 0.0.2.8
 clustermole: 1.0.1
@@ -2419,7 +2419,7 @@ codified: 0.2.0
 CoDiNA: 1.1.1
 codingMatrices: 0.3.2
 codyn: 2.0.3
-coefficientalpha: '0.5'
+coefficientalpha: '0.7'
 coefplot: 1.2.6
 coenocliner: 0.2-2
 coenoflex: 2.2-0
@@ -3008,7 +3008,7 @@ ctrdata: '1.2'
 CTRE: 0.1.0
 ctrlGene: 1.0.1
 cts: '1.0'
-ctsem: 3.1.1
+ctsem: 3.2.0
 CTShiny: 0.1.0
 CTT: 2.3.3
 CTTinShiny: 0.1.0
@@ -3436,7 +3436,7 @@ depcoeff: 0.0.1
 Depela: '0.0'
 depend.truncation: '3.0'
 DepLogo: '1.0'
-DEploid: 0.5.2
+DEploid: 0.5.3
 depmix: 0.9.16
 depmixS4: 1.4-2
 depth: 2.1-1.1
@@ -8499,7 +8499,7 @@ longitudinalcascade: 0.3.2.1
 longitudinalData: 2.4.1
 longmemo: 1.1-2
 LongMemoryTS: 0.1.0
-longpower: 1.0-19
+longpower: 1.0-21
 longROC: '1.0'
 longRPart: '1.0'
 longRPart2: 0.2.3
@@ -9500,7 +9500,7 @@ mlergm: '0.5'
 mleur: 1.0-6
 MLeval: '0.3'
 mlf: 1.2.1
-mlflow: 1.7.0
+mlflow: 1.8.0
 MLGL: 0.6.1
 mlgt: '0.16'
 mlica: '0.6'
@@ -12312,7 +12312,7 @@ PsumtSim: '0.4'
 PSW: 1.1-3
 psy: '1.1'
 psych: 1.9.12.31
-psychmeta: 2.3.7
+psychmeta: 2.3.8
 psychNET: 0.0.4.1
 psycho: 0.5.0
 psychometric: '2.2'
@@ -12430,7 +12430,7 @@ QCEWAS: 1.2-2
 QCGWAS: 1.0-8
 qclust: '1.0'
 qcQpcr: '1.5'
-qcr: '1.0'
+qcr: '1.2'
 QCSimulator: 0.0.1
 QCSIS: '0.1'
 qcv: '1.0'
@@ -12866,7 +12866,7 @@ raws.profile: 0.1.0
 rayimage: 0.2.7
 rayrender: 0.9.1
 rayshader: 0.15.1
-rbacon: 2.4.1
+rbacon: 2.4.2
 rbamtools: 2.9.2
 rbart: '1.0'
 RBaseX: 0.2.4
@@ -13273,7 +13273,7 @@ ReDaMoR: 0.4.2
 REdaS: 0.9.3
 redcapAPI: '2.3'
 REDCapExporter: 0.2.0
-REDCapR: 0.10.2
+REDCapR: 0.11.0
 RedditExtractoR: 2.1.5
 reddPrec: 0.4.0
 REddyProc: 1.2.2
@@ -13483,7 +13483,7 @@ review: '2.5'
 revoIPC: 1.0-3
 revtools: 0.4.1
 reweight: 1.2.1
-rex: 1.1.2
+rex: 1.2.0
 Rexperigen: 0.2.1
 rexpokit: 0.26.6.6
 RFA: 0.0-9
@@ -15360,7 +15360,7 @@ simpleRCache: 0.3.2
 simpleroptions: 0.2.0
 simpleSetup: 0.1.0
 SimpleTable: 0.1-2
-simplevis: 1.0.0
+simplevis: 1.1.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 SimplicialCubature: '1.2'
@@ -16772,7 +16772,7 @@ tea: '1.1'
 TeachBayes: '1.0'
 teachingApps: 1.0.4
 TeachingDemos: '2.12'
-TeachingSampling: 4.0.1
+TeachingSampling: 4.1.1
 TeachNet: 0.7.1
 tealeaves: 1.0.0
 TEAM: 0.1.0
@@ -17198,7 +17198,7 @@ trajectories: 0.2-1
 trajr: 1.3.0
 tRakt: 0.9.0
 tram: 0.3-2
-TraMineR: 2.0-15
+TraMineR: 2.2-0
 TraMineRextras: 0.4.7
 tramME: 0.0.2
 tramnet: 0.0-2
@@ -17628,7 +17628,7 @@ usethis: 1.6.0
 usfertilizer: 0.1.5
 USgrid: 0.1.0
 USGSstates2k: 1.0.1
-ushr: 0.2.2
+ushr: 0.2.3
 UsingR: 2.0-6
 uskew: 0.11-3
 uskewFactors: '2.0'
