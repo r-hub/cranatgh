@@ -31,7 +31,7 @@ ABPS: '0.3'
 AbsFilterGSEA: 1.5.1
 AbSim: 0.2.6
 abstractr: 0.1.0
-abtest: 0.2.0
+abtest: 0.2.1
 abundant: '1.1'
 Ac3net: 1.2.2
 ACA: '1.1'
@@ -331,7 +331,7 @@ ampir: 0.1.0
 AMPLE: 0.0.2
 AmpliconDuo: '1.1'
 AMR: 1.1.0
-amt: 0.0.9
+amt: 0.1.0
 AmyloGram: '1.1'
 AnaCoDa: 0.1.3.0
 anacor: 1.1-3
@@ -656,7 +656,7 @@ audit: 0.1-1
 audited: '1.9'
 auditor: 1.2.0
 augmentedRCBD: 0.1.2
-augSIMEX: 3.7.3
+augSIMEX: 3.7.4
 auk: 0.4.1
 aurelius: 0.8.4
 AurieLSHGaussian: 0.2.0
@@ -731,7 +731,7 @@ AzureKeyVault: 1.0.3
 AzureKusto: 1.0.5
 AzureML: 0.2.15
 azuremlsdk: 0.6.85
-AzureRMR: 2.3.1
+AzureRMR: 2.3.2
 AzureStor: 3.2.0
 AzureVision: 1.0.1
 AzureVM: 2.1.1
@@ -1194,7 +1194,7 @@ BiGGR: '1.8'
 bigIntegerAlgos: 0.1.2
 bigKRLS: 3.0.5
 BIGL: 1.4.3
-biglars: 1.0.2
+biglars: '1.0'
 biglasso: 1.3-7
 bigleaf: 0.7.1
 biglm: 0.9-1
@@ -1776,7 +1776,7 @@ CamelUp: 0.1.1
 CampaR1: .na.character
 camsRad: .na.character
 caMST: 0.1.3
-camtrapR: 2.0.1
+camtrapR: 2.0.2
 cancensus: 0.2.1
 cancerGI: 1.0.0
 cancerTiming: 3.1.8
@@ -2292,7 +2292,7 @@ cluscov: 1.1.0
 clusrank: 0.6-2
 ClussCluster: 0.1.0
 clust.bin.pair: 0.1.2
-ClustBlock: 2.1.1
+ClustBlock: 2.2.0
 clustcurv: 2.0.0
 clustDRM: 0.1-0
 clustEff: 0.1.2
@@ -2330,7 +2330,7 @@ ClustGeo: '2.0'
 clusthaplo: '1.2'
 ClustImpute: 0.1.3
 clustMD: 1.2.1
-clustMixType: 0.2-2
+clustMixType: 0.2-5
 ClustMMDD: 1.0.4
 ClustOfVar: '1.1'
 clustRcompaR: 0.2.0
@@ -3033,7 +3033,7 @@ cumplyr: 0.1-1
 cumSeg: '1.2'
 cumstats: '1.0'
 cumulocityr: 0.1.0
-cuRe: 1.0.0
+cuRe: 1.0.1
 curl: '4.3'
 curlconverter: 0.7.0
 currentSurvival: '1.0'
@@ -5078,7 +5078,7 @@ financial: '0.2'
 FinancialInstrument: 1.3.1
 FinancialMath: 0.1.1
 FinAsym: '1.0'
-finbif: 0.2.0
+finbif: 0.3.0
 FinCal: 0.6.3
 finch: 0.3.0
 FinCovRegularization: 1.1.0
@@ -5217,7 +5217,7 @@ FMAdist: 0.1.0
 fmbasics: 0.3.0
 FMC: 1.0.0
 FMCCSD: '1.0'
-fmcmc: 0.2-0
+fmcmc: 0.3-0
 fmdates: 0.1.4
 FME: 1.3.6.1
 fmlogcondens: 1.0.2
@@ -5433,7 +5433,7 @@ ftnonpar: 0.1-88
 fTrading: '3042.79'
 FTRLProximal: 0.3.0
 fts: 0.9.9.2
-ftsa: '5.5'
+ftsa: '5.6'
 ftsspec: 1.0.0
 fuel: 1.0.2
 fueleconomy: 1.0.0
@@ -5663,7 +5663,7 @@ GDELTtools: '1.2'
 gdimap: 0.1-9
 GDINA: 2.7.9
 gdistance: 1.3-1
-gdm: 1.4.1
+gdm: 1.4.2
 gdmp: 0.2.0
 gdns: 0.3.1
 gdor: 0.1-1
@@ -9611,6 +9611,7 @@ MNP: 3.1-0
 mnreadR: 2.1.4
 MNS: '1.0'
 mnspc: '1.01'
+mnt: '1.0'
 mob: 0.1.0
 mobForest: 1.3.1
 MobileTrigger: 0.0.31
@@ -9765,7 +9766,7 @@ mozzie: 0.1.0
 mp: 0.4.1
 mpa: 0.7.3
 MPAgenomics: 1.1.2
-mpath: 0.3-24
+mpath: 0.3-25
 mpbart: '0.2'
 MPBoost: 0.1-3
 mpc: '0.1'
@@ -13055,6 +13056,7 @@ RcppAnnoy: 0.0.16
 RcppAPT: 0.0.6
 RcppArmadillo: 0.9.860.2.0
 RcppBDT: 0.2.3
+RcppBigIntAlgos: 0.2.2
 RcppBlaze: 0.2.2
 rcppbugs: 0.1.4
 RcppCCTZ: 0.2.7
@@ -13156,7 +13158,7 @@ rdian: 0.1.1
 Rdice: 1.0.0
 RDIDQ: '1.0'
 RDieHarder: 0.2.1
-Rdimtools: 1.0.0
+Rdimtools: 1.0.1
 rdist: 0.0.4
 Rdistance: 2.1.3
 rdiversity: 1.2.1
@@ -13514,7 +13516,7 @@ rflann: '1.3'
 rflexscan: 0.2.0
 rflights: 0.1.103
 RFLPtools: '1.6'
-rfm: 0.2.0
+rfm: 0.2.1
 RFmarkerDetector: '1.0'
 RFmerge: 0.1-6
 rfml: 0.1.0
@@ -13918,7 +13920,7 @@ RndTexExams: '1.5'
 rNeighborGWAS: 1.0.0
 RNentropy: 1.2.2
 RNeo4j: 1.6.4
-rneos: 0.3-2
+rneos: 0.4-0
 rnetcarto: 0.2.4
 RNetCDF: 2.1-1
 RNetLogo: 1.0-4
@@ -14151,7 +14153,7 @@ rpdo: 0.3.0
 RpeakChrom: 1.1.0
 RPEClust: 0.1.0
 RPEGLMEN: 1.0.1
-RPEIF: 1.0.7
+RPEIF: 1.0.8
 RPEnsemble: '0.4'
 RPESE: 1.0.3
 RPEXE.RPEXT: 0.0.1
@@ -15238,6 +15240,7 @@ shock: '1.0'
 shopifyr: 1.0.0
 shortcuts: 1.4.0
 ShortForm: 0.4.6
+shorts: 0.0.1
 shotGroups: 0.7.5.1
 showimage: 1.0.0
 showtext: 0.7-1
@@ -15498,7 +15501,7 @@ slouch: 2.1.4
 slowraker: 0.1.1
 slp: 1.0-5
 sltl: '1.0'
-slurmR: 0.3-0
+slurmR: 0.4-1
 sm: 2.2-5.6
 sma: 0.5.9
 smaa: 0.3-0
@@ -16831,7 +16834,7 @@ TestCor: 0.0.1.1
 testcorr: 0.1.2
 TestDataImputation: '1.1'
 TestDesign: 1.0.2
-TestDimorph: 0.3.0
+TestDimorph: 0.3.1
 testDriveR: 0.5.1
 testequavar: 0.1.2
 tester: 0.1.7
@@ -17217,6 +17220,7 @@ translate: 0.1.2
 translateR: '1.0'
 translateSPSS2R: 1.0.0
 translation.ko: 0.0.1.5.2
+transmem: 0.1.0
 transmission: 0.2.0
 TransModel: '2.1'
 transnet: '0.1'
