@@ -1087,7 +1087,7 @@ benchden: 1.0.5
 benchmark: '0.3'
 Benchmarking: '0.28'
 benchmarkme: 1.0.3
-benchmarkmeData: 1.0.3
+benchmarkmeData: 1.0.4
 benchr: 0.2.5
 bender: 0.1.1
 benford.analysis: 0.1.5
@@ -2310,7 +2310,7 @@ clustergas: '1.0'
 clusterGeneration: 1.3.4
 clusterGenomics: '1.0'
 clusterhap: '0.1'
-Clustering: '1.5'
+Clustering: '1.6'
 clustering.sc.dp: '1.0'
 clusterlab: 0.0.2.8
 clustermole: 1.0.1
@@ -3145,7 +3145,7 @@ dalmatian: 0.3.0
 DALY: 1.5.0
 dam: 0.0.1
 DamiaNN: 1.0.0
-DAMisc: 1.5.3
+DAMisc: 1.5.4
 DAMOCLES: '2.2'
 damr: 0.3.4
 dams: '0.2'
@@ -3832,6 +3832,7 @@ doRNG: 1.8.2
 DOS: 1.0.0
 DOS2: 0.5.2
 dosearch: 1.0.4
+dosedesignR: 0.2.4
 DoseFinding: 0.9-17
 DOSim: '2.2'
 doSMP: 1.0-1
@@ -4265,6 +4266,7 @@ eigenprcomp: '1.0'
 eikosograms: 0.1.1
 EILA: 0.1-2
 eimpute: 0.1.0
+einet: 0.1.0
 eiPack: 0.2-1
 eiPartialID: 0.1.2
 eive: '2.3'
@@ -4951,7 +4953,7 @@ fcm: 0.1.3
 FCMapper: '1.1'
 FCNN4R: 0.6.2
 fCopulae: 3042.82.1
-FCPS: 1.1.0
+FCPS: 1.2.0
 fcr: '1.0'
 fcros: 1.6.1
 FCSlib: 1.1.0
@@ -5043,7 +5045,7 @@ fgof: 0.2-1
 fgpt: '2.3'
 FGSG: 1.0.2
 fgui: 1.0-8
-FHDI: 1.3.2
+FHDI: 1.4.0
 fheatmap: 1.0.1
 fhidata: 2019.8.27
 FHtest: '1.4'
@@ -5096,7 +5098,7 @@ fingerPro: '1.1'
 fingertipscharts: 0.0.10
 fingertipsR: 1.0.3
 finiteruinprob: '0.6'
-finity: 0.1.4
+finity: 0.1.4.1
 finreportr: 1.0.1
 FinTS: 0.4-6
 fipe: 0.0.1
@@ -5148,6 +5150,7 @@ FKF: 0.1.5
 FKSUM: 0.1.3
 flacco: '1.8'
 flagr: 0.3.2
+flair: 0.0.2
 flam: '3.2'
 FLAME: 2.0.0
 flamingos: 0.1.0
@@ -5388,7 +5391,7 @@ frequentdirections: 0.1.0
 freqweights: 1.0.4
 FRESA.CAD: 3.1.0
 fresh: 0.1.0
-FrF2: 2.1-1
+FrF2: '2.2'
 FrF2.catlg128: 1.2-1
 frite: 0.1.0
 FRK: 0.2.2.1
@@ -5672,7 +5675,7 @@ gds: 0.1.0
 gdsfmt: 1.1.0.1
 gdtools: 0.2.2
 gdxdt: 0.1.0
-GE: 0.0.5
+GE: 0.0.7
 gear: 0.3.4
 gearman: 0.1-5
 GeDS: 0.1.3
@@ -6324,7 +6327,7 @@ gpr: '1.1'
 GPrank: 0.1.4
 GPRMortality: 0.1.0
 gProfileR: 0.7.0
-gprofiler2: 0.1.8
+gprofiler2: 0.1.9
 GPSCDF: 0.1.1
 GPseq: '0.5'
 gptk: '1.08'
@@ -6550,7 +6553,7 @@ gustave: 0.4.1
 gutenbergr: 0.1.5
 GUTS: 1.1.1
 GVARX: '1.3'
-gvc: 0.5.2
+gvc: 5.2.0
 gvcm.cat: '1.9'
 gvcR: 0.1.0
 gvlma: 1.0.0.3
@@ -7034,7 +7037,7 @@ hypothesestest: '1.0'
 hypothesisr: 0.1.1
 hypr: 0.1.6
 hypred: '0.5'
-HyRiM: 1.0.3
+HyRiM: 2.0.0
 HYRISK: '1.2'
 hysteresis: '2.6'
 hystReet: 0.0.1
@@ -7782,6 +7785,7 @@ JudgeIt: 1.5.1
 jug: 0.1.7
 Julia: '1.1'
 JuliaCall: 0.17.1
+JuliaConnectoR: 0.6.0
 JumpTest: '1.1'
 junctions: '1.1'
 JuniperKernel: 1.4.1.0
@@ -8269,7 +8273,7 @@ libsoc: '0.7'
 libstableR: 1.0.2
 LICORS: 0.2.0
 LICurvature: 0.1.1
-lidR: 2.2.3
+lidR: 2.2.4
 lifecontingencies: 1.3.6
 lifecourse: '2.0'
 lifecycle: 0.2.0
@@ -9348,7 +9352,7 @@ minimist: '0.1'
 miniparquet: 0.1.2
 Minirand: 0.1.3
 miniUI: 0.1.1.1
-minMSE: 0.1.1
+minMSE: 0.3.1
 minpack.lm: 1.2-1
 minPtest: '1.7'
 minqa: 1.2.4
@@ -9784,7 +9788,7 @@ MplusAutomation: 0.7-3
 MplusTrees: 0.1.1
 mpm: 1.0-22
 mpMap: '1.14'
-mpMap2: 1.0.2
+mpMap2: 1.0.3
 mpmcorrelogram: 0.1-4
 mpmi: '0.43'
 MPN: 0.3.0
@@ -10037,7 +10041,7 @@ MultiSV: 0.0-67
 multitable: '1.6'
 multitaper: 1.0-14
 multiv: 1.1-6
-multivariance: 2.2.0
+multivariance: 2.3.0
 MultivariateRandomForest: 1.1.5
 MultiVarMI: '1.0'
 MultiVarSel: 1.1.3
@@ -10842,7 +10846,7 @@ openEBGM: 0.8.3
 OpenImageR: 1.1.6
 openintro: 1.7.1
 OpenLand: 1.0.1
-openmetrics: 0.1.0
+openmetrics: 0.1.1
 OpenML: '1.10'
 OpenMPController: 0.2-5
 OpenMx: 2.17.3
@@ -12008,7 +12012,7 @@ powerCRT: 0.1.0
 powerEQTL: 0.1.3
 PowerfulMaxEigenpair: 0.1.1
 powerGWASinteraction: 1.1.3
-poweRlaw: 0.70.4
+poweRlaw: 0.70.5
 powerlmm: 0.4.0
 powerMediation: 0.3.2
 PowerNormal: 1.2.0
@@ -13138,7 +13142,7 @@ rdatamarket: '0.6'
 rdataretriever: 2.0.0
 Rdbi: 0.1-2
 Rdbi.PgSQL: 0.1-2
-rdbnomics: 0.6.0
+rdbnomics: 0.6.1
 rdd: '0.57'
 rddapp: 1.2.1
 rddensity: '1.0'
@@ -13475,6 +13479,7 @@ retistruct: 0.6.3
 retractcheck: 1.0.0
 retrodesign: 0.1.0
 retrosheet: 1.1.1
+retry: 0.1.0
 reutils: 0.2.3
 reval: 2.0.0
 revdbayes: 1.3.6
@@ -15852,7 +15857,7 @@ SpatialPack: 0.3-8
 SpatialPosition: 2.0.1
 spatialprobit: 0.9-11
 spatialreg: 1.1-5
-spatialrisk: 0.6.6
+spatialrisk: 0.6.7
 SpatialRoMLE: 0.1.0
 spatialsegregation: '2.45'
 spatialTailDep: '1.0'
@@ -16170,7 +16175,7 @@ StanHeaders: 2.19.2
 stapler: 0.7.1
 staplr: 2.9.0
 STAR: 0.3-7
-staRdom: 1.1.10
+staRdom: 1.1.11
 stargazer: 5.2.2
 starm: 0.1.0
 starma: '1.3'
@@ -16857,7 +16862,7 @@ TexMix: 0.5.3
 TExPosition: 2.6.10.1
 texPreview: 1.4.4
 texreg: 1.36.23
-text.alignment: 0.1.0
+text.alignment: 0.1.1
 text2speech: 0.2.10
 text2vec: '0.6'
 textcat: 1.0-6
@@ -18173,7 +18178,7 @@ WrightMap: 1.2.2
 write.snns: 0.0-4.2
 writexl: '1.2'
 WriteXLS: 5.0.0
-wrMisc: 1.1.0
+wrMisc: 1.2.0
 wrProteo: 1.0.0
 WRS2: 1.0-0
 wrspathrow: '0.1'
