@@ -2801,7 +2801,7 @@ covglasso: 1.0.1
 COVID19: 1.0.0
 covid19.analytics: 1.0.1
 covid19france: 0.1.0
-covid19italy: 0.1.0
+covid19italy: 0.2.0
 covid19us: 0.1.2
 covLCA: '1.0'
 covmat: '1.0'
@@ -3011,7 +3011,7 @@ ctrdata: '1.2'
 CTRE: 0.1.0
 ctrlGene: 1.0.1
 cts: '1.0'
-ctsem: 3.2.0
+ctsem: 3.2.1
 CTShiny: 0.1.0
 CTT: 2.3.3
 CTTinShiny: 0.1.0
@@ -6262,7 +6262,7 @@ gomms: '1.0'
 GoodmanKruskal: 0.0.3
 goodpractice: 1.0.2
 googleAnalyticsR: 0.7.1
-googleAuthR: 1.1.1
+googleAuthR: 1.2.1
 googlebigquery: '0.1'
 googleCloudRunner: 0.1.1
 googleCloudStorageR: 0.5.1
@@ -6376,7 +6376,7 @@ graphicsQC: 1.0-8
 graphite: '1.1'
 graphkernels: '1.6'
 GraphKit: '0.5'
-graphlayouts: 0.6.0
+graphlayouts: 0.7.0
 graphon: 0.3.3
 GraphPCA: '1.1'
 graphql: '1.5'
@@ -7438,7 +7438,7 @@ InterpretMSSpectrum: '1.2'
 interpretR: 0.2.4
 InterSIM: 2.2.0
 InterVA4: 1.7.6
-InterVA5: 1.0.4
+InterVA5: 1.1.0
 interval: 1.1-0.1
 intervals: 0.15.2
 IntervalSurgeon: '1.0'
@@ -9621,7 +9621,7 @@ MNP: 3.1-0
 mnreadR: 2.1.4
 MNS: '1.0'
 mnspc: '1.01'
-mnt: '1.0'
+mnt: '1.2'
 mob: 0.1.0
 mobForest: 1.3.1
 MobileTrigger: 0.0.31
@@ -9720,7 +9720,7 @@ MonoPoly: 0.3-10
 monoProc: 1.0-6
 monoreg: '1.2'
 monotonicity: 1.3.1
-monreg: 0.1.3
+monreg: 0.1.4
 Monte.Carlo.se: 0.1.0
 MonteCarlo: 1.0.6
 moonBook: 0.2.3
@@ -11291,7 +11291,7 @@ pawls: 1.0.0
 paws: 0.1.7
 paws.analytics: 0.1.7
 paws.application.integration: 0.1.7
-paws.common: 0.3.0
+paws.common: 0.3.1
 paws.compute: 0.1.7
 paws.cost.management: 0.1.7
 paws.customer.engagement: 0.1.7
@@ -11430,7 +11430,7 @@ pedmut: 0.1.0
 pedometrics: 0.7.0
 pedprobr: 0.2.0
 pedquant: 0.1.5
-pedSimulate: 0.0.3
+pedSimulate: 0.0.4
 pedtools: 0.9.3
 PeerPerformance: 2.2.2
 pegas: '0.13'
@@ -12363,7 +12363,7 @@ PTXQC: 1.0.4
 ptycho: 1.1-4
 PubBias: '1.0'
 pubchunks: 0.2.0
-pubh: 1.1.6
+pubh: 1.1.12
 PublicationBias: 2.0.0
 publipha: 0.1.1
 Publish: 2019.12.04
@@ -14063,7 +14063,7 @@ ROI.plugin.lpsolve: 0.3-3
 ROI.plugin.msbinlp: 0.3-0
 ROI.plugin.neos: 0.3-1
 ROI.plugin.nloptr: 0.3-3
-ROI.plugin.optimx: 0.3-2
+ROI.plugin.optimx: 0.3-3
 ROI.plugin.qpoases: 0.3-3
 ROI.plugin.quadprog: 0.2-5
 ROI.plugin.scs: 0.3-2
@@ -14464,7 +14464,7 @@ RTest: 1.2.6
 rtext: 0.1.21
 Rtextrankr: 1.0.0
 RtextSummary: 0.1.0
-RTextTools: 1.4.2
+RTextTools: 1.4.3
 RTextureMetrics: '1.1'
 rtf: 0.4-14.1
 rtfbs: '0.3'
@@ -15888,7 +15888,7 @@ spatstat.gui: 1.0-2
 spatstat.Knet: 1.11-2
 spatstat.local: 3.6-0
 spatstat.utils: 1.17-0
-spatsurv: '1.4'
+spatsurv: '1.5'
 spbabel: 0.5.1
 spBayes: 0.4-3
 spBayesSurv: 1.1.4
@@ -16653,7 +16653,7 @@ synoptReg: 1.0.1
 synRNASeqNet: '1.0'
 syntaxr: 0.8.0
 Synth: 1.1-5
-synthACS: 1.5.6
+synthACS: 1.5.7
 synthpop: 1.5-1
 SynthTools: 1.0.1
 sys: '3.3'
