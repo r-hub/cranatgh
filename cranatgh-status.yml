@@ -401,7 +401,7 @@ antitrust: '0.9'
 antiword: '1.3'
 AntMAN: '1.0'
 AntWeb: '0.7'
-anyflights: 0.1.0
+anyflights: 0.2.0
 anyLib: 1.0.5
 anytime: 0.3.7
 aod: 1.3.1
@@ -508,7 +508,7 @@ ARIbrain: '0.2'
 aricode: 0.1.2
 arkdb: 0.0.5
 arkhe: 0.2.2
-arm: 1.10-1
+arm: 1.11-1
 armada: 0.1.0
 armspp: 0.0.2
 arnie: 0.1.2
@@ -541,7 +541,7 @@ ARTP: 2.0.5
 ARTP2: 0.9.45
 arules: 1.6-5
 arulesCBA: 1.2.0
-arulesNBMiner: 0.1-5
+arulesNBMiner: 0.1-7
 arulesSequences: 0.2-24
 arulesViz: 1.3-3
 aRxiv: 0.5.19
@@ -729,7 +729,7 @@ AzureCognitive: 1.0.0
 AzureContainers: 1.2.1
 AzureGraph: 1.1.0
 AzureKeyVault: 1.0.3
-AzureKusto: 1.0.5
+AzureKusto: 1.0.6
 AzureML: 0.2.15
 azuremlsdk: 0.6.85
 AzureRMR: 2.3.2
@@ -996,7 +996,7 @@ BBMV: '2.1'
 bbo: '0.2'
 BBRecapture: '0.2'
 bbreg: 1.0.0
-bbricks: 0.1.2
+bbricks: 0.1.3
 bbw: 0.1.3
 bc3net: 1.0.4
 BCA: 0.9-3
@@ -1478,7 +1478,7 @@ BMTME: 1.0.9
 bnclassify: 0.4.5
 BNDataGenerator: '1.0'
 bnlearn: '4.5'
-bnma: 1.1.1
+bnma: 1.1.2
 BNN: 1.0.2
 bnnSurvival: 0.1.5
 bnormnlr: '1.0'
@@ -1524,7 +1524,7 @@ BoostMLR: 1.0.2
 boostmtree: 1.4.1
 boostr: 1.0.0
 boostSeq: '1.0'
-boot: 1.3-24
+boot: 1.3-25
 BootCL: '1.7'
 bootcluster: 0.1.0
 bootES: '1.2'
@@ -1701,7 +1701,7 @@ BusinessDuration: 0.2.0
 bustt: 0.1.0
 butcher: 0.1.2
 butler: '0.3'
-BuyseTest: 1.8.5
+BuyseTest: 2.1.0
 Bvalue: '1.0'
 BVAR: 0.2.2
 bvarsv: '1.1'
@@ -2197,7 +2197,7 @@ clampSeg: 1.0-5
 ClamR: 2.1-1
 clarifai: 0.4.2
 clarkeTest: 0.1.0
-class: 7.3-16
+class: 7.3-17
 ClassComparison: 3.1.8
 ClassDiscovery: 3.3.12
 classGraph: 0.7-5
@@ -2526,7 +2526,7 @@ ComPairWise: '1.0'
 compare: 0.2-6
 compareC: 1.3.1
 CompareCausalNetworks: 0.2.6.2
-compareDF: 2.0.2
+compareDF: 2.1.0
 compareGroups: 4.4.1
 compareODM: '1.2'
 comparer: 0.2.1
@@ -3222,7 +3222,7 @@ datarobot: 2.17.0
 datasailr: 0.8.3
 datasauRus: 0.1.4
 dataseries: 0.2.0
-datasets.load: 1.2.0
+datasets.load: 1.4.0
 Datasmith: 1.0-1
 DataSpaceR: 0.7.3
 DatAssim: '1.0'
@@ -4577,7 +4577,7 @@ esc: 0.5.1
 escalation: 0.1.2
 esd4all: 1.0-9
 esDesign: 1.0.2
-eSDM: 0.3.3
+eSDM: 0.3.4
 ESEA: '1.0'
 eseis: 0.5.0
 ESG: '0.1'
@@ -5271,7 +5271,7 @@ forecastSNSTS: 1.3-0
 ForecastTB: 1.0.1
 forecTheta: '2.2'
 forega: '1.0'
-foreign: 0.8-78
+foreign: 0.8-79
 forensic: '0.2'
 forensim: '4.3'
 foreSIGHT: 0.9.81
@@ -5964,7 +5964,7 @@ ggfittext: 0.8.1
 ggfocus: 1.0.0
 ggforce: 0.3.1
 ggformula: 0.9.4
-ggfortify: 0.4.9
+ggfortify: 0.4.10
 gggenes: 0.4.0
 ggghost: 0.2.1
 gggibbous: 0.1.0
@@ -7525,7 +7525,7 @@ IPWboxplot: 0.1.0
 ipwCoxCSV: '1.0'
 ipwErrorY: '2.1'
 IPWsurvival: '0.5'
-iq: '1.3'
+iq: '1.4'
 IQCC: '0.7'
 iqLearn: '1.5'
 IQMNMR: '1.0'
@@ -7864,7 +7864,7 @@ kernhaz: 0.1.0
 kernlab: 0.9-29
 kernplus: 0.1.2
 kernscr: 1.0.5
-KernSmooth: 2.23-16
+KernSmooth: 2.23-17
 KernSmoothIRT: '6.4'
 kexpmv: 0.0.3
 keyATM: 0.1.0
@@ -8023,7 +8023,7 @@ labdsv: 2.0-1
 label.switching: '1.8'
 labeledLoop: '0.1'
 labeling: '0.3'
-labelled: 2.2.2
+labelled: 2.3.0
 labelmachine: 1.0.0
 labelrank: '0.1'
 labeltodendro: '1.3'
@@ -8323,7 +8323,7 @@ linemap: 0.1.0
 lineqGPR: 0.1.1
 linERR: '1.0'
 lineup: 0.37-11
-lingtypology: 1.1.2
+lingtypology: 1.1.3
 linguisticsdown: 1.2.0
 link2GI: 0.4.3
 LinkageMapView: 2.1.2
@@ -8386,6 +8386,7 @@ lmds: 0.1.0
 lme: 3.1-0
 lme4: 1.1-23
 lmec: '1.0'
+lmeInfo: 0.1.0
 lmem.gwaser: 0.1.0
 lmem.qtler: 0.1.1
 lmeNB: '1.3'
@@ -8587,7 +8588,7 @@ lsei: 1.2-0
 lsgl: 1.3.6
 lshorth: 0.1-6
 lsl: 0.5.6
-lslx: 0.6.9
+lslx: 0.6.10
 lsm: 0.2.0
 lsmeans: 2.30-0
 LSMonteCarlo: '1.0'
@@ -8665,7 +8666,7 @@ MAd: 0.8-2.1
 mada: 0.5.9
 MADAM: '1.2'
 maddison: '0.1'
-maditr: 0.6.3
+maditr: 0.7.1
 madness: 0.2.7
 MADPop: 1.1.2
 madr: 1.0.0
@@ -8801,7 +8802,7 @@ maSAE: 2.0.1
 mase: 0.1.2
 MaskJointDensity: '1.0'
 mason: 0.2.6
-MASS: 7.3-51.5
+MASS: 7.3-51.6
 MASSI: '1.1'
 Massign: 1.1.0
 MASSTIMATE: '1.4'
@@ -10486,7 +10487,7 @@ nnclust: '2.2'
 nncRda: '1.87'
 nnDiag: 0.0-5
 nneo: 0.1.0
-nnet: 7.3-13
+nnet: 7.3-14
 nnetpredint: '1.2'
 nnfor: 0.9.6
 nnGarrote: 1.0.2
@@ -11289,18 +11290,18 @@ pawacc: 1.2.2
 PAWL: '0.5'
 pawls: 1.0.0
 paws: 0.1.7
-paws.analytics: 0.1.7
-paws.application.integration: 0.1.7
+paws.analytics: 0.1.8
+paws.application.integration: 0.1.8
 paws.common: 0.3.1
-paws.compute: 0.1.7
-paws.cost.management: 0.1.7
-paws.customer.engagement: 0.1.7
-paws.database: 0.1.7
-paws.machine.learning: 0.1.7
-paws.management: 0.1.7
-paws.networking: 0.1.7
-paws.security.identity: 0.1.7
-paws.storage: 0.1.7
+paws.compute: 0.1.8
+paws.cost.management: 0.1.8
+paws.customer.engagement: 0.1.8
+paws.database: 0.1.8
+paws.machine.learning: 0.1.8
+paws.management: 0.1.8
+paws.networking: 0.1.8
+paws.security.identity: 0.1.8
+paws.storage: 0.1.8
 pbapply: 1.4-2
 pbatR: 2.2-13
 PBC: '1.2'
@@ -11585,7 +11586,7 @@ phonfieldwork: 0.0.3
 phonics: 1.3.2
 phonR: 1.0-7
 phonTools: 0.2-2.1
-photobiology: 0.10.1
+photobiology: 0.10.2
 photobiologyFilters: 0.5.0
 photobiologyInOut: 0.4.22-1
 photobiologyLamps: 0.4.3
@@ -12663,7 +12664,7 @@ R2G2: '1.0'
 r2glmm: 0.1.2
 R2GUESS: '2.0'
 R2HTML: 2.3.2
-R2jags: 0.5-7
+R2jags: 0.6-1
 r2lh: '0.7'
 r2lUniv: '0.9'
 R2MLwiN: 0.8-6
@@ -13067,7 +13068,7 @@ Rcpp11: 3.1.2.0
 RcppAlgos: 2.4.1
 RcppAnnoy: 0.0.16
 RcppAPT: 0.0.6
-RcppArmadillo: 0.9.860.2.0
+RcppArmadillo: 0.9.870.2.0
 RcppBDT: 0.2.3
 RcppBigIntAlgos: 0.2.2
 RcppBlaze: 0.2.2
@@ -14606,7 +14607,7 @@ Rxnat: 1.0.8
 RxnSim: 1.0.3
 RxODE: 0.9.2-0
 rxSeq: 0.99.3
-RXshrink: 1.3.2
+RXshrink: 1.3.3
 rxylib: 0.2.4
 Ryacas: 1.1.3
 Ryacas0: 0.4.2
@@ -14723,7 +14724,7 @@ SAR: 1.0.1
 sara4r: 0.0.7
 sarima: 0.8.2
 SARP.compo: 0.1.3
-SARP.moodle: 0.3.10
+SARP.moodle: 0.7.1
 sars: 1.2.1
 sas7bdat: '0.5'
 SAScii: '1.0'
@@ -15842,7 +15843,7 @@ SpatEntropy: 0.1.0
 SPAtest: 3.0.2
 spatgraphs: 3.2-1
 spathial: 0.1.2
-spatial: 7.3-11
+spatial: 7.3-12
 spatial.gev.bma: '1.0'
 spatial.tools: 1.6.2
 SpatialAcc: 0.1-4
@@ -15885,7 +15886,7 @@ spatsoc: 0.1.13
 spatstat: 1.63-3
 spatstat.data: 1.4-3
 spatstat.gui: 1.0-2
-spatstat.Knet: 1.11-2
+spatstat.Knet: 1.12-2
 spatstat.local: 3.6-0
 spatstat.utils: 1.17-0
 spatsurv: '1.5'
@@ -17878,7 +17879,7 @@ visualR: 2.0.2
 VisuClust: '1.2'
 visvow: 0.8.0
 vita: 1.0.0
-vitae: 0.2.1
+vitae: 0.2.2
 vitality: '1.3'
 vivo: 0.1.2
 VizCompX: '0.1'
