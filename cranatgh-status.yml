@@ -1021,7 +1021,7 @@ Bchron: 4.7.1
 Bclim: 3.1.2
 bclust: '1.5'
 BClustLonG: 0.1.2
-bcmaps: 0.18.0
+bcmaps: 0.18.1
 bcmixed: 0.1.4
 bcool: '1.2'
 bcp: 4.0.3
@@ -1986,6 +1986,7 @@ cellVolumeDist: '1.3'
 cellWise: 2.1.1
 celsius: 1.0.7
 cem: 1.1.19
+cemco: '0.1'
 cems: '0.4'
 CenBAR: 0.1.0
 CENFA: 1.1.0
@@ -2017,7 +2018,7 @@ cepR: .na.character
 cepreader: 1.1-3
 ceramic: 0.6.0
 CerioliOutlierDetection: 1.1.9
-CeRNASeek: 2.1.2
+CeRNASeek: 2.1.3
 cernn: '0.1'
 ceRtainty: 1.0.0
 cetcolor: 0.2.0
@@ -2389,7 +2390,7 @@ CNull: '1.0'
 cnum: 0.1.1
 CNVassoc: '2.2'
 CNVassocData: '1.0'
-CNVScope: 3.0.8
+CNVScope: 3.0.9
 coala: 0.6.0
 coalescentMCMC: 0.4-1
 coalitions: 0.6.12
@@ -2805,7 +2806,7 @@ COVID19: 1.0.0
 covid19.analytics: 1.0.1
 covid19france: 0.1.0
 covid19italy: 0.2.0
-covid19us: 0.1.2
+covid19us: 0.1.3
 covLCA: '1.0'
 covmat: '1.0'
 Covpath: '1.0'
@@ -3736,7 +3737,7 @@ disttools: 0.1.7
 divagis: 1.0.0
 divDyn: 0.8.0
 DivE: '1.2'
-diveMove: 1.4.5
+diveMove: 1.4.6
 diverge: 1.0.3
 diverse: 0.1.5
 diversitree: 0.9-13
@@ -4976,7 +4977,7 @@ fdakma: 1.2.1
 fdaMixed: '0.6'
 fdANOVA: 0.1.2
 fdapace: 0.5.2
-fdaPDE: '1.0'
+fdaPDE: 1.0-8
 fdasrvf: 1.9.3
 fdatest: '2.1'
 FDboost: 0.3-2
@@ -5163,7 +5164,7 @@ flair: 0.0.2
 flam: '3.2'
 FLAME: 2.0.0
 flamingos: 0.1.0
-flan: '0.7'
+flan: '0.8'
 flare: 1.6.0.2
 flars: '1.0'
 flashClust: 1.01-2
@@ -6252,6 +6253,7 @@ gof: 1.0.1
 gofastr: 0.3.0
 gofCopula: 0.3-2
 goffda: 0.0.6
+gofgamma: '1.0'
 GoFKernel: 2.1-1
 GofKmt: 2.1.1
 gofMC: 1.1.2
@@ -6750,6 +6752,7 @@ here: '0.1'
 hereR: 0.3.3
 hergm: 4.1-6
 heritability: '1.3'
+heritEWAS: 0.1.0
 HeritSeq: 1.0.1
 hermite: 1.1.2
 hero: 0.4.7
@@ -7317,7 +7320,7 @@ incReg: '1.0'
 inctools: 1.0.15
 IncucyteDRC: 0.5.4
 indelmiss: 1.0.9
-IndependenceTests: '0.2'
+IndependenceTests: '0.4'
 IndepTest: 0.2.0
 IndexConstruction: 0.1-2
 IndexNumber: '1.1'
@@ -7643,7 +7646,7 @@ ITRLearn: 1.0-1
 ITRSelect: 1.0-1
 its: 1.1.8
 its.analysis: 1.4.1
-itsadug: '2.3'
+itsadug: '2.4'
 itsmr: '1.9'
 itunesr: '0.1'
 IUPS: '1.0'
@@ -8030,7 +8033,7 @@ labdsv: 2.0-1
 label.switching: '1.8'
 labeledLoop: '0.1'
 labeling: '0.3'
-labelled: 2.3.0
+labelled: 2.3.1
 labelmachine: 1.0.0
 labelrank: '0.1'
 labeltodendro: '1.3'
@@ -9412,7 +9415,7 @@ missCompare: 1.0.1
 missDeaths: 2.5.1
 missForest: '1.4'
 MissingDataGUI: 0.2-5
-missingHE: 1.3.2
+missingHE: 1.4.0
 missMDA: '1.16'
 MissMech: 1.0.2
 missMethods: 0.1.0
@@ -10544,7 +10547,7 @@ nonmemica: 0.9.1
 nonneg.cg: 0.1.6
 nonnest2: 0.5-3
 NonNorMvtDist: 1.0.2
-nonpar: 1.0.1
+nonpar: 1.0.2
 nonparaeff: 0.5-8
 Nonpareil: 3.3.4
 NonpModelCheck: '3.0'
@@ -12028,7 +12031,7 @@ powerAnalysis: 0.2.1
 powerbydesign: 1.0.4
 powerCompRisk: 1.0.1
 powerCRT: 0.1.0
-powerEQTL: 0.1.3
+powerEQTL: 0.1.7
 PowerfulMaxEigenpair: 0.1.1
 powerGWASinteraction: 1.1.3
 poweRlaw: 0.70.6
@@ -12748,7 +12751,7 @@ RAHRS: 1.0.2
 rai: 1.0.0
 railtrails: 0.1.1
 rainbow: '3.6'
-RAINBOWR: 0.1.14
+RAINBOWR: 0.1.17
 raincpc: 1.1.0
 rainette: '0.1'
 RainfallErosivityFactor: 0.1.0
@@ -13481,10 +13484,10 @@ ResistorArray: 1.0-32
 resourcer: 1.0.0
 ResourceSelection: 0.3-5
 resper: '0.3'
-respirometry: 1.0.2
+respirometry: 1.1.0
 RESS: '1.3'
 REST: 1.0.1
-restatapi: 0.7.5
+restatapi: 0.8.0
 restez: 1.0.0
 restfulr: 0.0.13
 restimizeapi: 1.0.0
@@ -14306,7 +14309,7 @@ RRTCS: 0.0.3
 rrules: 0.1-0
 rrum: 0.2.0
 rrv: 0.4.1
-RSA: 0.9.13
+RSA: 0.10.0
 Rsac: 0.1-8
 RSADBE: '1.0'
 rsae: 0.1-5
@@ -15055,7 +15058,7 @@ sendplot: 4.0.0
 sensemakr: 0.1.3
 sensibo.sky: 1.0.0
 sensiPhy: 0.8.5
-sensitivity: 1.18.1
+sensitivity: 1.19.0
 sensitivity2x2xk: .na.character
 sensitivityCalibration: 0.0.1
 SensitivityCaseControl: '2.1'
@@ -15226,7 +15229,7 @@ shinydashboardPlus: 0.7.0
 shinyDND: 0.1.0
 shinyEffects: 0.1.0
 shinyEventLogger: 0.1.1
-shinyFeedback: 0.1.0
+shinyFeedback: 0.2.0
 shinyFiles: 0.8.0
 shinyglide: 0.1.2
 shinyHeatmaply: 0.2.0
@@ -15358,7 +15361,7 @@ SimEUCartelLaw: 1.0.1
 simex: '1.8'
 simexaft: 1.0.7.1
 simExam: 1.0.0
-simfinR: 0.2.1
+simfinR: 0.2.2
 simFrame: 0.5.3
 simglm: 0.7.4
 simGWAS: 0.2.0-2
@@ -15743,7 +15746,7 @@ SortedEffects: 1.2.0
 sortinghat: '0.1'
 sorvi: 0.7.26
 sos: 2.0-0
-sos4R: 0.3.1
+sos4R: 0.4.0
 sotkanet: 0.9.48
 sotu: 1.0.2
 sound: 1.4.5
@@ -16556,6 +16559,7 @@ survrec: 1.2-2
 SurvRegCensCov: '1.4'
 survRM2: 1.0-2
 survRM2adapt: 1.0-1
+survSens: 0.1.0
 survsim: 1.1.5
 survSNP: '0.24'
 survsup: 0.0.2
@@ -16679,7 +16683,7 @@ sysid: 1.0.4
 syskern: R2000.6-1
 syslognet: 0.1.2.1
 systemfit: 1.1-24
-systemfonts: 0.2.0
+systemfonts: 0.2.1
 systemicrisk: 0.4.2
 syt: 0.1.0
 syuzhet: 1.0.4
@@ -16732,7 +16736,7 @@ TanB: '0.1'
 TANDEM: 1.0.3
 tangles: 0.8.1
 TangPoemR: 0.1.0
-tangram: '0.4'
+tangram: 0.7.1
 TANOVA: 1.0.0
 TaoTeProgramming: '1.0'
 TapeR: 0.3.3
@@ -16858,6 +16862,7 @@ termstrc: '1.3'
 Ternary: 1.1.4
 ternvis: '1.2'
 terra: 0.5-8
+terrainmeshr: 0.1.0
 TESS: 2.1.0
 tesseract: '4.1'
 test2norm: 0.1.1
@@ -17612,7 +17617,7 @@ UniprotR: 1.2.4
 uniqtag: '1.0'
 uniqueAtomMat: 0.1-3-2
 uniReg: '1.1'
-unisensR: 0.3.2
+unisensR: 0.3.3
 UnitCircle: 0.1.3
 unitedR: 0.3.1
 unitizer: 1.4.9
@@ -18208,7 +18213,7 @@ write.snns: 0.0-4.2
 writexl: '1.2'
 WriteXLS: 5.0.0
 wrMisc: 1.2.0
-wrProteo: 1.0.0
+wrProteo: 1.1.1
 WRS2: 1.0-0
 wrspathrow: '0.1'
 wrspathrowData: '1.0'
