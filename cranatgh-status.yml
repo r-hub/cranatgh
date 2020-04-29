@@ -331,7 +331,7 @@ ampir: 0.1.0
 AMPLE: 0.0.2
 AmpliconDuo: '1.1'
 AMR: 1.1.0
-amt: 0.1.0
+amt: 0.1.1
 AmyloGram: '1.1'
 AnaCoDa: 0.1.3.0
 anacor: 1.1-3
@@ -355,6 +355,7 @@ andrews: '1.0'
 anesrake: '0.80'
 anfis: 0.99.1
 AnglerCreelSurveySimulation: 1.0.2
+anglr: 0.5.0
 angstroms: 0.0.1
 aniDom: 0.1.4
 anim.plots: 0.2.1
@@ -697,7 +698,7 @@ averisk: 1.0.3
 avgrankoverlap: '1.0'
 aVirtualTwins: 1.0.1
 AWAPer: 0.1.3
-aweek: 1.0.0
+aweek: 1.0.1
 AWR: 1.11.189
 AWR.Athena: 2.0.7-0
 AWR.Kinesis: 1.7.3
@@ -1731,7 +1732,7 @@ c3net: 1.1.1
 C443: 2.0.0
 C50: 0.1.3
 ca: 0.71.1
-CA3variants: '2.0'
+CA3variants: '2.5'
 cabinets: 0.4.0
 cablecuttr: 0.1.1
 cabootcrs: '2.0'
@@ -1882,6 +1883,7 @@ CatPredi: '1.1'
 catR: '3.16'
 CatReg: 1.0.0
 catseyes: 0.2.3
+catsim: 0.2.0
 catspec: '0.97'
 catSurv: 1.2.0
 CATT: '2.0'
@@ -2062,7 +2064,7 @@ changepointsHD: 0.3.3
 changepointsVar: 0.1.0
 ChangepointTesting: '1.0'
 changer: 0.0.3
-ChannelAttribution: '1.17'
+ChannelAttribution: '1.18'
 ChannelAttributionApp: '1.1'
 Chaos01: 1.2.1
 ChaosGame: '0.4'
@@ -2387,7 +2389,7 @@ CNull: '1.0'
 cnum: 0.1.1
 CNVassoc: '2.2'
 CNVassocData: '1.0'
-CNVScope: 3.0.6
+CNVScope: 3.0.8
 coala: 0.6.0
 coalescentMCMC: 0.4-1
 coalitions: 0.6.12
@@ -2487,7 +2489,7 @@ colorSpec: 1.2-1
 colortools: 0.1.5
 colourlovers: 0.3.5
 colourpicker: '1.0'
-colourvalues: 0.3.4
+colourvalues: 0.3.5
 colourvision: 2.0.2
 colr: 0.1.900
 colSums: '1.1'
@@ -2895,7 +2897,7 @@ crch: 1.0-4
 CREAM: 1.1.1
 credentials: '1.1'
 CreditMetrics: 0.0-2
-creditmodel: 1.1.9
+creditmodel: '1.2'
 creditr: 0.6.1
 CreditRisk: 0.1.3
 credsubs: 1.0.1
@@ -3175,7 +3177,7 @@ data.table: 1.12.8
 data.tree: 0.7.11
 data.world: 1.2.2
 Data2LD: 2.0.0
-data360r: 1.0.2
+data360r: 1.0.6
 DatabaseConnector: 2.4.2
 DatabaseConnectorJars: 1.1.0
 DatABEL: 0.9-6
@@ -3305,7 +3307,7 @@ dcmodify: 0.1.2
 dcmr: '1.0'
 DCODE: '1.0'
 dCovTS: '1.1'
-DCPO: 0.5.1
+DCPO: 0.5.2
 dcurver: 0.9.1
 dcv: 0.1.1
 ddalpha: 1.3.11
@@ -3677,10 +3679,11 @@ discrimARTs: '0.2'
 DiscriMiner: 0.1-29
 discSurv: 1.4.1
 diseasemapping: 1.4.6
+diseq: 0.0.11
 Disequilibrium: '1.0'
 DisHet: 1.0.0
 DisimForMixed: '0.2'
-DisImpact: 0.0.7
+DisImpact: 0.0.8
 disk.frame: 0.3.4
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
@@ -4059,6 +4062,7 @@ DySeq: '0.22'
 DZEXPM: .na.character
 e1071: 1.7-3
 E4tools: 0.1.1
+eadrm: 0.1.2
 eaf: 1.9-1
 Eagle: '2.2'
 EAinference: 0.2.3
@@ -4865,7 +4869,7 @@ farff: '1.1'
 fArma: '3042.81'
 farmR: '1.1'
 FarmSelect: 1.0.2
-FarmTest: 2.0.1
+FarmTest: 2.1.0
 farsi: '1.0'
 farver: 2.0.3
 FASeg: 0.1.9
@@ -5152,7 +5156,7 @@ FixSeqMTP: 0.1.2
 fizzbuzzR: 0.1.1
 FKBL: 0.50-4
 FKF: 0.1.5
-FKSUM: 0.1.3
+FKSUM: 0.1.4
 flacco: '1.8'
 flagr: 0.3.2
 flair: 0.0.2
@@ -6044,7 +6048,7 @@ ggsoccer: 0.1.4
 ggsolvencyii: 0.1.2
 ggsom: 0.4.0
 ggspatial: 1.1.1
-ggspectra: 0.3.5
+ggspectra: 0.3.6
 ggstance: 0.3.4
 ggstar: 0.0.4
 ggstatsplot: 0.4.0
@@ -6240,6 +6244,7 @@ gnmf: 0.7.1
 gnn: 0.0-2
 gnomeGUI: 2.7.0-2
 gnorm: 1.0.0
+GNRS: 0.1.0
 gnumeric: 0.7-8
 goalprog: '1.0'
 goeveg: 0.4.2
@@ -6575,13 +6580,13 @@ gwerAM: '1.0'
 GWEX: 1.0.2
 gwfa: 0.0.4
 GWG: '1.0'
-gWidgets: 0.0-54.1
+gWidgets: 0.0-54.2
 gWidgets2: 1.0-8
 gWidgets2RGtk2: 1.0-7
 gWidgets2tcltk: 1.0-6
 gWidgetsRGtk2: 0.0-86
 gWidgetsrJava: 0.0-9
-gWidgetstcltk: 0.0-55
+gWidgetstcltk: 0.0-55.1
 gWidgetsWWW: 0.0-9
 GWLelast: 1.2.2
 GWmodel: 2.1-3
@@ -7017,7 +7022,7 @@ hydrogeo: 0.6-1
 hydroGOF: 0.4-0
 hydrolinks: 0.10.0
 HydroMe: '2.0'
-hydroPSO: 0.5-0
+hydroPSO: 0.5-1
 hydrosanity: 0.8.76
 hydroscoper: '1.3'
 hydrostats: 0.2.7
@@ -7801,7 +7806,7 @@ justifier: 0.1.0
 jvcoords: 1.0.2
 jvmr: 2.11.2.1
 jvnVaR: '1.0'
-JWileymisc: 1.1.0
+JWileymisc: 1.1.1
 jwutil: 1.2.3
 kableExtra: 1.1.0
 kader: 0.0.8
@@ -8122,6 +8127,7 @@ lawn: 0.5.0
 lawstat: '3.4'
 lax: 1.1.0
 lazy: 1.2-16
+lazybar: 0.1.0
 lazyData: 1.1.0
 lazyeval: 0.2.2
 lazyraster: 0.5.0
@@ -8220,7 +8226,7 @@ learnPopGen: 1.0.4
 learnr: 0.10.1
 learnrbook: 0.0.2
 learnstats: 0.1.1
-leastcostpath: 1.2.1
+leastcostpath: 1.2.3
 ledger: 2.0.6
 leerSIECyL: 1.0.2
 lefse: '0.1'
@@ -8421,7 +8427,7 @@ lmPerm: 2.1.0
 lmQCM: 0.2.1
 lmreg: '1.2'
 lmridge: '1.2'
-lmSubsets: '0.4'
+lmSubsets: '0.5'
 lmSupport: 2.9.13
 lmtest: 0.9-37
 lmvar: 1.5.2
@@ -9825,7 +9831,7 @@ mr.raps: '0.2'
 mra: 2.16.11
 mratios: 1.4.0
 mrbayes: 0.1.0
-mrbin: 1.3.0
+mrbin: 1.4.0
 mrbsizeR: 1.2.1.1
 MRCE: '2.1'
 mRchmadness: 1.0.0
@@ -10600,7 +10606,7 @@ NPCD: 1.0-11
 NPCirc: 2.0.1
 npConfRatio: '1.0'
 npcopTest: '1.03'
-npcp: 0.1-11
+npcp: 0.2-0
 npcure: 0.1-5
 npde: '2.0'
 npExact: '0.2'
@@ -11016,7 +11022,7 @@ oshka: 0.1.2
 osi: 0.1.0
 osmar: 1.1-7
 osmdata: 0.1.3
-osmose: 3.3.3
+osmose: 3.3.4
 osmplotr: 0.3.2
 OSMscale: 0.5.1
 OSNMTF: 0.1.0
@@ -11293,7 +11299,7 @@ pavo: 2.4.0
 pawacc: 1.2.2
 PAWL: '0.5'
 pawls: 1.0.0
-paws: 0.1.7
+paws: 0.1.8
 paws.analytics: 0.1.8
 paws.application.integration: 0.1.8
 paws.common: 0.3.1
@@ -11598,7 +11604,7 @@ photobiologyLEDs: 0.4.3-1
 photobiologyPlants: 0.4.2
 photobiologySensors: 0.4.0
 photobiologySun: 0.4.1
-photobiologyWavebands: 0.4.3
+photobiologyWavebands: 0.4.4
 photosynthesis: 1.0.0
 phpSerialize: '0.8'
 phrasemachine: 1.1.2
@@ -11982,7 +11988,7 @@ population: '0.2'
 populationPDXdesign: 1.0.3
 PopVar: 1.2.1
 porridge: 0.0.4
-portalr: 0.3.3
+portalr: 0.3.4
 portes: '3.0'
 portfolio: 0.5-0
 portfolio.optimization: 1.0-0
@@ -12874,6 +12880,7 @@ RationalExp: 0.2.2
 rationalfun: 0.1-0
 ratios: 1.2.0
 RAtmosphere: '1.1'
+ratPASTA: 0.1.0
 rattle: 5.3.0
 rattle.data: 1.0.2
 raustats: 0.15.0
@@ -14018,7 +14025,7 @@ robustgam: 0.1.7
 RobustGaSP: 0.5.7
 robustHD: 0.6.1
 robustlmm: '2.3'
-robustloggamma: 1.0-2.1
+robustloggamma: 1.0-2
 robustrank: 2019.3-7
 RobustRankAggreg: '1.1'
 robustrao: 1.0-5
@@ -14419,7 +14426,7 @@ rstantools: 2.0.0
 rstap: 1.0.3
 RStars: '1.0'
 RStata: 1.1.1
-rstatix: 0.4.0
+rstatix: 0.5.0
 rstatscn: 1.1.3
 Rstem: 0.4-1
 rstiefel: 1.0.0
@@ -15045,7 +15052,7 @@ semverutils: 0.1.0
 sen2r: 1.3.4
 sendmailR: 1.2-1
 sendplot: 4.0.0
-sensemakr: 0.1.2
+sensemakr: 0.1.3
 sensibo.sky: 1.0.0
 sensiPhy: 0.8.5
 sensitivity: 1.18.1
@@ -15392,7 +15399,7 @@ simpleRCache: 0.3.2
 simpleroptions: 0.2.0
 simpleSetup: 0.1.0
 SimpleTable: 0.1-2
-simplevis: 1.1.0
+simplevis: 1.1.1
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 SimplicialCubature: '1.2'
@@ -16231,7 +16238,7 @@ statgenGWAS: 1.0.4
 statgenSTA: 1.0.4
 statGraph: 0.3.0
 stationaRy: 0.5.1
-stationery: 0.98.24
+stationery: 0.98.30
 statip: 0.2.3
 statisticalModeling: 0.3.0
 StatMatch: 1.3.0
@@ -17314,7 +17321,7 @@ triangle: '0.12'
 triangulation: 0.5.0
 trib: 1.2.0
 tribe: 0.1.8
-tricolore: 1.2.1
+tricolore: 1.2.2
 triebeard: 0.3.0
 trifield: '1.1'
 triggr: '0.2'
@@ -17430,6 +17437,7 @@ TSPostgreSQL: 2015.4-1
 TSPred: '4.0'
 tsqn: 1.0.0
 TSrepr: 1.0.4
+tsriadditive: 1.0.0
 TSS.RESTREND: 0.2.13
 TSsdmx: 2016.8-1
 tsSelect: 0.1.8
@@ -17660,7 +17668,7 @@ usedist: 0.4.0
 useful: 1.2.6
 usefun: 0.4.5
 userfriendlyscience: 0.7.2
-usethis: 1.6.0
+usethis: 1.6.1
 usfertilizer: 0.1.5
 USgrid: 0.1.0
 USGSstates2k: 1.0.1
@@ -17832,9 +17840,9 @@ vfcp: 1.4.0
 VFP: '1.2'
 vfprogression: 0.7.1
 VFS: 1.0.2
-VGAM: 1.1-2
+VGAM: 1.1-3
 VGAMdata: 1.0-3
-VGAMextra: 0.0-1
+VGAMextra: 0.0-2
 VhayuR: 1.1.2
 vhcub: 1.0.0
 VHDClassification: '0.3'
@@ -18041,7 +18049,7 @@ websocket: 1.1.0
 websockets: 1.1.7
 webTRISr: 0.2.0
 webuse: 0.1.3
-webutils: '1.0'
+webutils: '1.1'
 webvis: 0.0.2
 wec: 0.4-1
 weco: '1.2'
