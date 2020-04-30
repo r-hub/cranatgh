@@ -2046,7 +2046,7 @@ cghseg: 1.0.5
 CGIwithR: 0.73-0
 cglasso: 1.1.1
 cglm: '1.1'
-cgmanalysis: 2.6.1
+cgmanalysis: '2.7'
 CGManalyzer: '1.3'
 CGP: 2.1-1
 CGPfunctions: 0.6.0
@@ -2169,7 +2169,7 @@ CircSpatial: '1.0'
 CircStats: 0.2-6
 circular: 0.4-93
 CircularDDM: 0.1.0
-circumplex: 0.3.5
+circumplex: 0.3.6
 cIRT: 1.3.1
 CISE: 0.1.0
 cit: '2.2'
@@ -3532,7 +3532,7 @@ dfvad: 0.3.0
 dga: '1.2'
 dGAselID: '1.2'
 DGCA: 1.0.2
-dggridR: 2.0.3
+dggridR: 2.0.4
 dglars: 2.1.6
 dglm: 1.8.3
 DGLMExtPois: 0.1.2
@@ -3752,7 +3752,7 @@ divo: 1.0.1
 dixon: 0.0-6
 dixonTest: 1.0.2
 diyar: 0.0.3
-DJL: '3.2'
+DJL: '3.3'
 dkanr: 0.1.3
 dkDNA: 0.1.1
 dLagM: 1.1.2
@@ -4906,7 +4906,7 @@ FastImputation: '2.0'
 fastJT: 1.0.5
 FastKM: '1.0'
 FastKNN: 0.0.1
-fastLink: 0.5.0
+fastLink: 0.6.0
 fastlogranktest: 0.1.1
 fastLSU: 0.1.0
 FastLZeroSpikeInference: 2018.12.10
@@ -5666,7 +5666,7 @@ GCPM: 1.2.2
 GD: '1.7'
 GDAdata: '0.93'
 gdalcubes: 0.2.4
-gdalUtilities: 1.0.0
+gdalUtilities: 1.1.0
 gdalUtils: 2.0.3.2
 gdata: 2.18.0
 GDAtools: '1.4'
@@ -5963,7 +5963,7 @@ GGEBiplots: 0.1.1
 ggedit: 0.3.0
 ggeffects: 0.14.3
 ggenealogy: 1.0.1
-ggetho: 0.3.5
+ggetho: 0.3.6
 ggExtra: '0.9'
 ggFacetSample: 1.0.0
 ggfan: 0.1.3
@@ -6837,7 +6837,7 @@ hint: 0.1-1
 hints: '1.0'
 HiPLARM: '0.1'
 hiPOD: '1.0'
-hipread: 0.2.1
+hipread: 0.2.2
 HiResTEC: '0.59'
 hIRT: 0.3.0
 hisemi: 1.1-0
@@ -7400,7 +7400,7 @@ installr: 0.22.0
 instaR: 0.2.4
 instruments: 0.1.0
 insuranceData: '1.0'
-insurancerating: 0.6.0
+insurancerating: 0.6.1
 int64: 1.1.2
 intamap: 1.4-9
 intamapInteractive: 1.1-12
@@ -7692,7 +7692,7 @@ jaod: 0.2.0
 jarbes: 1.7.2
 JASPAR: 0.0.1
 Java: '0.5'
-JavaGD: 0.6-1.1
+JavaGD: 0.6-2
 Jaya: 0.1.9
 JBTools: 0.7.2.9
 jcext: 0.1.1
@@ -7780,7 +7780,7 @@ jSDM: 0.1.0
 jskm: 0.3.8
 JSM: 1.0.0
 JSmediation: 0.1.1
-jsmodule: 1.0.6
+jsmodule: 1.0.7
 json64: 0.1.3
 jSonarR: 1.1.1
 jsonify: 1.1.1
@@ -8014,7 +8014,7 @@ kubik: 0.2.0
 kuiper.2samp: '1.0'
 kulife: 0.1-14
 Kurt: '1.0'
-kutils: '1.69'
+kutils: '1.70'
 kvh: 1.4.1
 kwb.hantush: 0.3.0
 kyotil: 2019.11-22
@@ -9135,7 +9135,7 @@ MetaboLouise: 1.0.0
 Metabonomic: '3.5'
 MetaboQC: '1.0'
 metacart: 2.0-2
-metacoder: 0.3.3
+metacoder: 0.3.4
 metacom: 1.5.3
 MetaComp: 1.1.2
 metacor: 1.0-2.1
@@ -12256,7 +12256,7 @@ propagate: 1.0-6
 PropCIs: 0.3-0
 PropClust: 1.4-6
 properties: 0.0-9
-prophet: '0.6'
+prophet: 0.6.1
 proportion: 2.0.0
 propOverlap: '1.0'
 propr: 4.2.6
@@ -14914,7 +14914,7 @@ SDEFSR: 0.7.21
 sdglinkage: 0.1.0
 SDisc: '1.24'
 SDLfilter: 1.2.1
-sdm: 1.0-82
+sdm: 1.0-89
 SDMPlay: '1.3'
 sdmpredictors: 0.2.8
 SDMTools: '1.1'
@@ -15047,7 +15047,7 @@ semPLS: 1.0-10
 semPower: .na.character
 SEMrushR: 0.1.0
 semsfa: '1.1'
-semTable: '1.7'
+semTable: '1.8'
 semTools: 0.5-2
 semtree: 0.9.14
 semver: 0.2.0
@@ -15215,7 +15215,7 @@ shiny.router: 0.1.1
 shiny.semantic: 0.3.0
 shinyAce: 0.4.1
 shinyaframe: 1.0.1
-shinyalert: '1.0'
+shinyalert: '1.1'
 shinyanimate: 0.3.0
 shinybootstrap2: 0.2.1
 shinybrms: 1.0.1
@@ -16760,12 +16760,12 @@ TauStar: 1.1.4
 tauturri: 0.3.0
 tawny: 2.1.7
 tawny.types: 1.1.5
-taxa: 0.3.3
+taxa: 0.3.4
 taxadb: 0.1.0
 TaxicabCA: 0.1.1
 taxize: 0.9.95
 taxizedb: 0.1.4
-taxlist: 0.1.7
+taxlist: 0.1.8
 taxonomizr: 0.5.3
 Taxonstand: '2.2'
 taxotools: 0.0.43
@@ -17245,7 +17245,7 @@ trajectories: 0.2-1
 trajr: 1.3.0
 tRakt: 0.9.0
 tram: 0.3-2
-TraMineR: 2.2-0
+TraMineR: 2.2-0.1
 TraMineRextras: 0.6.0
 tramME: 0.0.2
 tramnet: 0.0-2
@@ -17371,7 +17371,7 @@ TSA: '1.2'
 TSAgg: 1.0.1
 tsallisqexp: 0.9-3
 tsapp: 1.0.0
-tsbox: 0.2.0
+tsbox: 0.2.1
 tsbridge: '1.1'
 tsBSS: 0.5.5
 tsbugs: '1.2'
