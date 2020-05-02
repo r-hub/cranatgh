@@ -1118,6 +1118,7 @@ BetaBit: '1.3'
 betaboost: 1.0.1
 betacal: 0.1.0
 betafam: '1.0'
+betafunctions: 1.0.2
 betalink: 2.2.1
 betapart: 1.5.1
 BetaPASS: 1.1-1
@@ -1376,6 +1377,7 @@ BisRNA: 0.2.2
 bit: 1.1-15.2
 bit64: 0.9-7
 bite: '0.3'
+bitmexr: 0.2.3
 bitops: 1.0-6
 BiTrinA: '1.3'
 bitrugs: '0.1'
@@ -1669,7 +1671,7 @@ bssm: 0.1.11
 bssn: '1.0'
 bst: 0.3-20
 bstats: 1.1-11-5
-bsts: 0.9.2
+bsts: 0.9.5
 BSW: 0.1.0
 btb: 0.1.30
 BTdecayLasso: 0.1.0
@@ -1995,7 +1997,7 @@ CENFA: 1.1.0
 cenGAM: 0.5.3
 cenROC: 1.0.0
 censCov: 1.0-0
-CensMFM: '2.0'
+CensMFM: '2.11'
 CensMixReg: '3.1'
 censNID: 0-0-1
 censorcopula: '2.0'
@@ -2389,7 +2391,7 @@ CNOGpro: '1.1'
 cNORM: 1.2.2
 CNprep: '2.0'
 CNull: '1.0'
-cnum: 0.1.1
+cnum: 0.1.2
 CNVassoc: '2.2'
 CNVassocData: '1.0'
 CNVScope: 3.0.9
@@ -4731,7 +4733,7 @@ expert: 1.0-0
 ExpertChoice: 0.2.0
 expint: 0.1-6
 ExplainPrediction: 1.3.0
-explor: 0.3.5
+explor: 0.3.6
 explore: 0.5.5
 exploreR: '0.1'
 expm: 0.999-4
@@ -5537,7 +5539,7 @@ fwdmsa: '0.2'
 FWDselect: 2.1.0
 fwi.fbp: '1.7'
 fwsim: 0.3.4
-fxregime: 1.0-3
+fxregime: 1.0-4
 fxtract: 0.9.2
 fy: 0.2.0
 g.data: '2.4'
@@ -6275,7 +6277,7 @@ goodpractice: 1.0.2
 googleAnalyticsR: 0.7.1
 googleAuthR: 1.2.1
 googlebigquery: '0.1'
-googleCloudRunner: 0.1.1
+googleCloudRunner: 0.2.0
 googleCloudStorageR: 0.5.1
 googleCloudVisionR: 0.2.0
 googleComputeEngineR: 0.3.0
@@ -8759,7 +8761,7 @@ mapi: 1.0.1
 Mapinguari: 1.0.0
 mapLD: 1.0-1
 MAPLES: '1.0'
-mapmisc: 1.7.7
+mapmisc: 1.7.8
 mapplots: 1.5.1
 mapproj: 1.2.7
 mapr: 0.4.0
@@ -8931,6 +8933,7 @@ mc2d: 0.1-18
 MC2toPath: 0.0.16
 MCAPS: '0.3'
 MCAvariants: '2.2'
+mcb: 0.1.9
 mcBFtest: 0.1.0
 mcbiopi: 1.1.6
 mcc: '1.0'
@@ -9747,6 +9750,7 @@ mopa: 1.0.1
 mopsocd: 0.5.1
 MOQA: 2.0.0
 MOrder: '0.1'
+moreparty: 0.1.0
 morgenstemning: '1.0'
 morpheus: 1.0-1
 Morpho: '2.8'
@@ -9895,7 +9899,7 @@ MSCquartets: 1.0.5
 mscstexta4r: 0.1.2
 mscstts: 0.5.3
 mscsweblm4r: 0.1.2
-msd: 0.1.0
+msd: 0.2.0
 msda: 1.0.2
 msde: 1.0.4
 MsdeParEst: .na.character
@@ -10036,7 +10040,7 @@ multinets: 0.2.2
 MultinomialCI: '1.1'
 multinomineq: 0.2.1
 multinomRob: 1.8-6.1
-MultiOrd: 2.4.1
+MultiOrd: 2.4.2
 multipanelfigure: 2.1.2
 MultiPhen: 2.0.3
 multiPIM: 1.4-3
@@ -10240,7 +10244,7 @@ NBShiny: 0.1.0
 NBShiny2: 0.1.0
 nc: 2020.3.23
 NCA: 3.0.2
-nCal: 2018.8-20
+nCal: 2020.5-1
 ncappc: 0.3.0
 ncar: 0.4.2
 NCBI2R: 1.4.7
@@ -11357,6 +11361,7 @@ PCADSC: .na.character
 pcaL1: 1.5.4
 pcalg: 2.6-10
 pCalibrate: 0.2-1
+pcalls: '1.0'
 PCAmatchR: 0.1.6
 PCAmixdata: '3.1'
 pcaPA: '2.0'
@@ -11573,6 +11578,7 @@ phateR: 1.0.0
 phcfM: '1.2'
 phd: '0.1'
 pheatmap: 1.0.12
+PheCAP: 1.1.0
 PHEindicatormethods: 1.3.1
 phenability: '2.0'
 phenesse: 0.1.1
@@ -12077,7 +12083,7 @@ ppstat: '0.9'
 PPtree: 2.3.0
 PPtreeViz: 2.0.4
 pqantimalarials: '0.2'
-PQLseq: '1.1'
+PQLseq: '1.2'
 prabclus: 2.3-2
 pracma: 2.2.9
 PracTools: 1.2.1
@@ -12287,7 +12293,7 @@ proton: '1.0'
 prototest: '1.2'
 protr: 1.6-2
 ProTrackR: 0.3.7
-protViz: 0.6.4
+protViz: 0.6.8
 proustr: 0.4.0
 provenance: '2.4'
 provGraphR: '1.0'
@@ -12404,7 +12410,7 @@ PurBayes: '1.3'
 purge: 0.2.1
 purging: 1.0.0
 purrr: 0.3.4
-purrrlyr: 0.0.5
+purrrlyr: 0.0.6
 purrrogress: 0.1.1
 Pursuit: 1.0.1
 pushbar: 0.1.0
@@ -13809,7 +13815,7 @@ Rlabkey: 2.4.0
 rLakeAnalyzer: 1.11.4.1
 rLandsat: 0.1.1
 rlandscape: '1.0'
-rlang: 0.4.5
+rlang: 0.4.6
 rlas: 1.3.5
 RLastFM: 0.1-5
 rlc: .na.character
@@ -14033,6 +14039,7 @@ RobustGaSP: 0.5.7
 robustHD: 0.6.1
 robustlmm: '2.3'
 robustloggamma: 1.0-2
+robustMVMR: 0.1.0
 robustrank: 2019.3-7
 RobustRankAggreg: '1.1'
 robustrao: 1.0-5
@@ -14053,7 +14060,7 @@ rocNIT: '1.0'
 ROCnReg: 1.0-1
 rococo: 1.1.7
 rocplus: 1.0-0
-ROCR: 1.0-7
+ROCR: 1.0-11
 ROCS: '1.3'
 rocsvm.path: 0.1.0
 ROCt: 0.9.5
@@ -14477,7 +14484,7 @@ RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
 rtdists: 0.11-2
 rtematres: '0.2'
-rtemps: 0.4.0
+rtemps: 0.5.0
 rTensor: 1.4.1
 rTephra: '0.1'
 RTest: 1.2.6
@@ -14748,7 +14755,7 @@ SARP.moodle: 0.7.1
 sars: 1.2.1
 sas7bdat: '0.5'
 SAScii: '1.0'
-sasLM: 0.1.2
+sasLM: 0.1.3
 sasMap: 1.0.0
 SASmarkdown: 0.4.3
 SASmixed: 1.0-4
@@ -17007,7 +17014,7 @@ tidycomm: 0.1.0
 tidycwl: 1.0.4
 tidydice: 0.0.6
 tidyfast: 0.2.1
-tidyfst: 0.9.5
+tidyfst: 0.9.6
 tidyft: 0.4.5
 tidygapminder: 0.1.1
 tidygenomics: 0.1.2
@@ -17155,7 +17162,7 @@ tmlenet: 0.1.0
 tmod: '0.40'
 tmpm: 1.0.3
 tmt: 0.2.1-0
-tmuxr: 0.1.0
+tmuxr: 0.2.2
 tmvmixnorm: 1.0.2
 tmvnsim: 1.0-2
 tmvtnorm: 1.4-10
@@ -18140,7 +18147,7 @@ wildcard: 1.1.0
 wildlifeDI: 0.3.0
 wildpoker: '1.1'
 wilson: 2.3.1
-windAC: 1.2.1
+windAC: 1.2.2
 WindCurves: 0.1.3
 windex: '1.0'
 windfarmGA: 2.2.3
@@ -18427,7 +18434,7 @@ zoib: 1.5.4
 ZOIP: '0.1'
 zoltr: 0.5.1
 zonator: 0.5.9
-zoo: 1.8-7
+zoo: 1.8-8
 zooaRch: '1.2'
 zooaRchGUI: 1.0.2
 zoocat: 0.2.0.1
