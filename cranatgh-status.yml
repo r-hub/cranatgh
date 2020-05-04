@@ -641,7 +641,7 @@ ATR: 0.1-1
 aTSA: 3.1.2
 atsd: 1.2.0
 attachment: 0.1.0
-attempt: 0.3.0
+attempt: 0.3.1
 attenuation: 1.0.0
 attfad: '1.1'
 attrCUSUM: 0.1.0
@@ -818,7 +818,7 @@ BARIS: 1.1.0
 bark: 0.1-0
 Barnard: '1.8'
 barplot3d: 1.0.1
-barsurf: 0.4.0
+barsurf: 0.5.0
 BART: '2.7'
 bartBMA: '1.0'
 bartCause: 1.0-2
@@ -1372,7 +1372,7 @@ BiSEp: '2.2'
 biseVec: 1.3-25
 bisoreg: '1.5'
 bisque: 1.0.2
-BisqueRNA: 1.0.2
+BisqueRNA: 1.0.3
 BisRNA: 0.2.2
 bit: 1.1-15.2
 bit64: 0.9-7
@@ -2112,7 +2112,7 @@ childhoodmortality: 0.3.0
 childsds: 0.7.4
 chilemapas: '0.2'
 ChillModels: 1.0.2
-chillR: 0.70.21
+chillR: 0.70.24
 chinese.misc: 0.2.1
 chipPCR: 0.0.8-10
 ChIPtest: '1.0'
@@ -2807,7 +2807,7 @@ COveR: 1.0.3
 covfefe: .na.character
 covglasso: 1.0.1
 COVID19: 1.0.0
-covid19.analytics: 1.0.1
+covid19.analytics: '1.1'
 covid19france: 0.1.0
 covid19italy: 0.2.0
 covid19us: 0.1.3
@@ -3466,7 +3466,7 @@ describedata: 0.1.0
 DescribeDisplay: 0.2.7
 describer: 0.2.0
 description: 1.0.0
-DescriptiveStats.OBeu: 1.3.1
+DescriptiveStats.OBeu: 1.3.2
 descriptr: 0.5.1
 descstatsr: 0.1.0
 desctable: 0.1.7
@@ -4775,7 +4775,7 @@ ExtremalDep: 0.0.3-3
 ExtremeBounds: 0.1.6
 extremefit: 1.0.2
 extremeIndex: .na.character
-extRemes: 2.0-11
+extRemes: 2.0-12
 extremeStat: 1.4.0
 extremevalues: 2.3.2
 extremis: '0.90'
@@ -6524,7 +6524,7 @@ GSODR: 2.1.0
 GSparO: '1.0'
 gsrc: '1.1'
 gsrsb: 1.1.1
-gss: 2.1-12
+gss: 2.2-0
 gsscopu: 0.9-3
 GSSE: '0.1'
 gstar: 0.1.0
@@ -8806,7 +8806,7 @@ marketr: 0.0.1
 maRketSim: '0.9'
 markmyassignment: 0.8.2
 markophylo: 1.0.7
-markovchain: 0.8.4
+markovchain: 0.8.4.1
 Markovchart: 1.0.6
 MarkowitzR: 1.0.2
 marl: '1.0'
@@ -9013,7 +9013,7 @@ mcunit: 0.3.1
 MCUSUM: '1.0'
 md: .na.character
 md.log: 0.1.1
-mda: 0.4-10
+mda: '0.5'
 mDAG: 1.2.2
 mdapack: 0.0.1
 mdatools: 0.10.3
@@ -10549,7 +10549,7 @@ noncompliance: 0.2.2
 noncomplyR: '1.0'
 nonet: 0.4.0
 nonlinearICP: 0.1.2.1
-nonlinearTseries: 0.2.8
+nonlinearTseries: 0.2.9
 nonmem2R: 0.2.1
 nonmemica: 0.9.1
 nonneg.cg: 0.1.6
@@ -10784,7 +10784,7 @@ oec: 2.7.8
 OECD: 0.2.4
 oem: 2.0.9
 oenb: 0.0.1
-officer: 0.3.8
+officer: 0.3.9
 offlineChange: 0.0.4
 ofGEM: '1.0'
 ofp: 1.0.0
@@ -15347,7 +15347,7 @@ siland: '2.0'
 SILGGM: 1.0.0
 silicate: 0.4.0
 SILM: 1.0.0
-Sim.DiffProc: '4.5'
+Sim.DiffProc: '4.6'
 Sim.DiffProcGUI: '2.5'
 Sim.PLFN: '1.0'
 sim1000G: '1.40'
@@ -16135,7 +16135,7 @@ srp: 1.2.0
 SRPM: '0.1'
 SRRS: 0.1.1
 SRTtools: 1.2.0
-srvyr: 0.3.8
+srvyr: 0.3.9
 ss3sim: 1.0.3
 ssa: 1.3.0
 ssanv: '1.1'
@@ -16925,7 +16925,7 @@ textometry: 0.1.4
 TextoMineR: '1.1'
 textrank: 0.3.0
 textreadr: 0.9.0
-textrecipes: 0.2.0
+textrecipes: 0.2.1
 textreg: 0.1.5
 TextRegression: 0.1-3
 textreuse: 0.1.4
@@ -17074,7 +17074,7 @@ time: '1.1'
 time2event: 0.1.0
 timechange: 0.0.1
 timeDate: '3043.102'
-timedelay: 1.0.8
+timedelay: 1.0.9
 timeit: 0.2.1
 timekit: 0.3.1
 timeline: '0.9'
@@ -17232,7 +17232,7 @@ track: 1.1.9
 trackdem: 0.5.2
 trackdf: 0.2.1
 trackeR: 1.5.2
-trackeRapp: '1.0'
+trackeRapp: '1.1'
 trackObjs: 1.0-18
 trackr: 0.10.6
 TrackReconstruction: '1.2'
@@ -18325,7 +18325,7 @@ xptr: 1.1.3
 XR: 0.7.2
 xray: '0.2'
 XReg: '1.0'
-xrf: 0.1.2
+xrf: 0.2.0
 xRing: 0.1.0
 XRJulia: 0.9.0
 xrnet: 0.1.7
