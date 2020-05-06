@@ -121,6 +121,7 @@ addinsOutline: 0.1.6
 additiveDEA: '1.1'
 additivityTests: 1.1-4
 addreg: '3.0'
+addScales: 0.1-5
 ADDT: '2.0'
 ade4: 1.7-15
 ade4TkGUI: 0.3-0
@@ -635,7 +636,7 @@ atlantistools: 0.4.3
 atlas: 1.0.0
 atm: 0.1.0
 atmcmc: '1.0'
-ATmet: '1.2'
+ATmet: 1.2.1
 atmi: '1.0'
 atmopt: 0.1.0
 AtmRay: '1.31'
@@ -759,7 +760,7 @@ backbone: 1.1.0
 backfitRichards: 0.5.0
 backpipe: 0.2.3
 backports: 1.1.6
-backShift: 0.1.4.2
+backShift: 0.1.4.3
 backtest: 0.3-4
 backtestGraphics: 0.1.6
 bacondecomp: 0.1.1
@@ -1076,7 +1077,7 @@ bear: 2.6.4
 beast: '1.1'
 beastier: 2.1.1
 beats: 0.1.1
-beautier: 2.3.5
+beautier: 2.3.6
 BEDASSLE: '1.5'
 BEDMatrix: 2.0.2
 bedr: 1.0.7
@@ -1297,7 +1298,7 @@ binsreg: 0.2.0
 binst: 0.2.1
 bio.infer: 1.3-3
 bio3d: 2.4-1
-bioacoustics: 0.2.2
+bioacoustics: 0.2.3
 bioC.logs: '1.1'
 BioCircos: 0.3.4
 BiocManager: 1.30.10
@@ -1575,6 +1576,7 @@ bpa: 0.1.1
 bpbounds: 0.1.4
 bpca: 1.3-0
 bpcp: '1.4'
+bpDir: 0.1.1
 bPeaks: '1.2'
 BPEC: 1.3.1
 bpgmm: 1.0.5
@@ -1889,7 +1891,7 @@ CatPredi: '1.1'
 catR: '3.16'
 CatReg: 1.0.0
 catseyes: 0.2.3
-catsim: 0.2.0
+catsim: 0.2.1
 catspec: '0.97'
 catSurv: 1.2.0
 CATT: '2.0'
@@ -2431,7 +2433,7 @@ codetools: 0.2-16
 codified: 0.2.0
 CoDiNA: 1.1.1
 codingMatrices: 0.3.2
-codyn: 2.0.3
+codyn: 2.0.4
 coefficientalpha: '0.7'
 coefplot: 1.2.6
 coenocliner: 0.2-2
@@ -2642,7 +2644,7 @@ ConnMatTools: 0.3.5
 CONOR: '1.0'
 CONORData: '1.0'
 conover.test: 1.1.5
-conquer: 1.0.0
+conquer: 1.0.1
 conquestr: 0.5.1
 ConR: 1.2.4
 CONS: 0.1.1
@@ -3356,7 +3358,7 @@ decision: 0.1.0
 DecisionAnalysis: 1.0.0
 DecisionCurve: '1.4'
 decisionSupport: 1.105.2
-deckgl: 0.2.5
+deckgl: 0.2.7
 DeclareDesign: 0.22.0
 decode: '1.2'
 decoder: 1.2.2
@@ -3379,7 +3381,7 @@ deducorrect: 1.3.7
 deductive: 0.1.3
 deep: 0.1.0
 deepboost: 0.1.6
-deepdep: 0.2.0
+deepdep: 0.2.1
 deepdive: 1.0.1
 deepgmm: 0.1.59
 deeplearning: 0.1.0
@@ -3519,7 +3521,7 @@ dexter: 1.0.7
 dextergui: 0.2.2
 dexterMST: 0.1.2
 df2json: 0.0.2
-DFA.CANCOR: 0.1.6
+DFA.CANCOR: 0.1.8
 dfadjust: 1.0.1
 dfcomb: 3.0-0
 dfCompare: 1.0.0
@@ -3939,7 +3941,7 @@ DrugClust: '0.2'
 drugCombo: 1.1.1
 drumr: 0.1.0
 ds: '4.0'
-ds4psy: 0.2.0
+ds4psy: 0.2.1
 dsa: 0.74.18
 DSAIDE: 0.8.3
 DSAIRM: 0.8.2
@@ -4459,7 +4461,7 @@ entropy: 1.2.1
 EntropyEstimation: '1.2'
 EntropyExplorer: '1.1'
 EntropyMCMC: 1.0.4
-entrymodels: 0.2.0
+entrymodels: 0.2.1
 envalysis: '0.4'
 EnvCpt: 1.1.1
 envDocument: 2.4.1
@@ -6230,7 +6232,7 @@ Gmedian: 1.2.5
 gmediation: 0.1.1
 gmeta: 2.3-0
 gmfd: 1.0.1
-Gmisc: 1.9.2
+Gmisc: 1.10.0
 GMKMcharlie: 1.0.3
 gmm: 1.6-4
 GMMAT: 1.1.2
@@ -6555,7 +6557,7 @@ gtkDevice: 1.9-4
 gtm: '1.0'
 gtools: 3.8.2
 gtop: 0.2.0
-gtrendsR: 1.4.4
+gtrendsR: 1.4.5
 gtsf: 0.1.0
 gtsummary: 1.3.0
 gtWAS: 1.1.0
@@ -7263,7 +7265,7 @@ imageviewer: 0.1.0
 imaginator: 0.1.1
 imagine: 1.5.3
 ImaginR: 0.1.7
-IMak: 1.2.2
+IMak: 2.0.0
 Imap: '1.32'
 imbalance: 1.0.2.1
 imdbapi: 0.1.0
@@ -7777,7 +7779,7 @@ jose: '1.0'
 JOUSBoost: 2.1.0
 jpeg: 0.1-8.1
 JPEN: '1.0'
-jpmesh: 1.2.0
+jpmesh: 1.2.1
 jpndistrict: 0.3.6
 JPSurv: 1.0.1
 JQL: 3.6.9
@@ -8611,7 +8613,7 @@ LSD: 4.0-0
 LSDinterface: 0.4.0
 LSDsensitivity: 0.3.2
 lsdv: '1.1'
-lsei: 1.2-0
+lsei: 1.2-0.1
 lsgl: 1.3.6
 lshorth: 0.1-6
 lsl: 0.5.6
@@ -8672,7 +8674,7 @@ lxb: '1.5'
 lymphclon: 1.3.0
 LZeroSpikeInference: 1.0.3
 m2b: '1.0'
-m2r: 1.0.0
+m2r: 1.0.1
 M2SMF: '2.0'
 M3: '0.3'
 M4comp: 0.0.1
@@ -8741,6 +8743,7 @@ MAMS: '1.3'
 MAMSE: 0.2-1
 managelocalrepo: 0.1.5
 MANCIE: '1.4'
+mand: '0.1'
 mandelbrot: 0.2.0
 manet: '2.0'
 mangoTraining: 1.0-7
@@ -10189,7 +10192,7 @@ MWRidge: 1.0.0
 MWright: 0.3.2
 mwshiny: 2.0.0
 mxkssd: '1.1'
-MXM: 1.4.6
+MXM: 1.4.7
 mxmmod: 1.0.1
 My.stepwise: 0.1.0
 mycobacrvR: '1.0'
@@ -10671,7 +10674,7 @@ npsm: 0.5.1
 npsp: 0.7-5
 npsr: 0.1.1
 npst: '2.0'
-npsurv: 0.4-0
+npsurv: 0.4-0.1
 npsurvSS: 1.0.1
 nptest: 1.0-0
 NRAIA: 0.9-8
@@ -12156,6 +12159,7 @@ PResiduals: 0.2-6
 presmTP: 1.1.0
 press: '2.0'
 pressData: '2.0'
+presser: 1.0.0
 preText: 0.6.2
 prettyB: 0.2.1
 prettycode: 1.1.0
@@ -15218,6 +15222,7 @@ ShapeChange: '1.4'
 shapefiles: '0.7'
 ShapePattern: 2.1.0
 shapeR: 0.1-5
+ShapeRotator: 0.1.0
 shapes: 1.2.5
 ShapeSelectForest: '1.4'
 SHAPforxgboost: 0.0.3
@@ -15429,7 +15434,7 @@ simpleCache: 0.4.1
 simplecolors: 0.1.0
 simplegraph: 1.0.0
 simpleNeural: 0.1.3
-simplePHENOTYPES: 1.0.5
+simplePHENOTYPES: 1.2.4
 simpleRCache: 0.3.2
 simpleroptions: 0.2.0
 simpleSetup: 0.1.0
@@ -15447,7 +15452,7 @@ simputation: 0.2.4
 simr: 1.0.5
 SimRAD: '0.96'
 SimReg: '3.0'
-simrel: '2.0'
+simrel: 2.0.2
 SimRepeat: 0.1.0
 SiMRiv: 1.0.4
 SimRVPedigree: 0.4.4
@@ -16531,6 +16536,7 @@ support.BWS3: 0.2-0
 support.CEs: 0.4-1
 supportInt: '1.1'
 sur: 1.0.2
+surbayes: 0.1.0
 sure: 0.2.0
 surface: '0.4'
 SurfaceTortoise: 1.0.1
@@ -17130,7 +17136,7 @@ tinsel: 0.0.1
 tint: 0.1.2
 tinter: 0.1.0
 tinyProject: 0.6.1
-tinytest: 1.1.0
+tinytest: 1.2.0
 tinytex: '0.22'
 tiobeindexr: 0.1.1
 TipDatingBeast: 1.1-0
@@ -17247,7 +17253,7 @@ tpr: 0.3-1.2
 tpsDesign: '1.3'
 TR8: 0.9.20
 tracer: .na.character
-tracerer: 2.0.2
+tracerer: '2.1'
 tracheideR: 0.1.1
 track: 1.1.9
 trackdem: 0.5.2
