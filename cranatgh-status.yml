@@ -849,7 +849,7 @@ basicTrendline: 2.0.3
 BASiNET: 0.0.4
 BASIX: '1.1'
 basket: 0.10.2
-BASS: 0.2.2
+BASS: 1.2.0
 BaSTA: 1.9.4
 bastah: 1.0.7
 BAT: 2.0.1
@@ -917,7 +917,7 @@ BayesianNetwork: 0.1.5
 BayesianPower: 0.1.6
 BayesianTools: 0.1.7
 bayesImageS: 0.6-0
-BayesLCA: '1.8'
+BayesLCA: '1.9'
 bayesLife: 4.1-0
 bayeslm: 0.8.0
 BayesLN: 0.1.2
@@ -1024,7 +1024,7 @@ BCHM: '0.99'
 Bchron: 4.7.1
 Bclim: 3.1.2
 bclust: '1.5'
-BClustLonG: 0.1.2
+BClustLonG: 0.1.3
 bcmaps: 0.18.1
 bcmixed: 0.1.4
 bcool: '1.2'
@@ -1440,7 +1440,7 @@ blockmodeling: 0.3.6
 blockmodels: 1.1.1
 blockrand: '1.5'
 blockRAR: 1.0.2
-blocksdesign: '3.9'
+blocksdesign: '4.0'
 blockseg: 0.5.2
 blockTools: 0.6-3
 blogdown: '0.18'
@@ -1815,7 +1815,7 @@ capwire: 1.1.4
 car: 3.0-7
 caracas: 0.0.1
 caRamel: '1.1'
-carat: 0.1.1
+carat: '1.0'
 CARBayes: '5.2'
 CARBayesdata: '2.1'
 CARBayesST: '3.1'
@@ -2085,6 +2085,7 @@ chartql: 0.1.0
 CHAT: '1.1'
 CHCN: '1.5'
 cheatmap: 1.0.0
+cheatR: 1.2.1
 cheb: '0.3'
 chebpol: 2.1-2
 checkarg: 0.1.0
@@ -3181,6 +3182,8 @@ DARTData: '1.0'
 dartR: 1.1.11
 darts: '1.0'
 dashboard: 0.1.0
+dashCoreComponents: 1.10.0
+dashHtmlComponents: 1.0.3
 Dasst: 0.3.3
 dat: 0.4.0
 data.table: 1.12.8
@@ -3223,7 +3226,7 @@ dataonderivatives: 0.3.1
 dataone: 2.1.4
 dataonelibs: 1.0.0
 datapack: 1.3.2
-datapackage.r: 1.3.0
+datapackage.r: 1.3.1
 DataPackageR: 0.15.7
 datapasta: 3.1.0
 dataPreparation: 0.4.3
@@ -5053,7 +5056,7 @@ fftwtools: 0.9-8
 fgac: 0.6-1
 FGalgorithm: '1.0'
 fGarch: 3042.83.2
-fgdr: 1.0.0
+fgdr: 1.0.1
 fgeo: 1.1.4
 fgeo.analyze: 1.1.13
 fgeo.plot: 1.1.9
@@ -5308,7 +5311,7 @@ forestplot: '1.9'
 forestr: 2.0.2
 forestRK: 0.0-5
 forestSAS: 1.0.1
-ForestTools: 0.2.0
+ForestTools: 0.2.1
 foretell: 0.2.0
 forge: 0.2.0
 ForImp: 1.0.3
@@ -5347,7 +5350,7 @@ FPDclustering: 1.4.1
 fpeek: 0.1.1
 fpest: 0.1.1
 fplot: 0.2.1
-fplyr: 1.1.0
+fplyr: 1.2.0
 fpmoutliers: 0.1.0
 fpop: 2019.08.26
 fPortfolio: 3042.83.1
@@ -7501,7 +7504,7 @@ invLT: 0.2.1
 iNZightMR: 2.2.5
 iNZightTools: 1.8.3
 io: 0.3.2
-ioanalysis: 0.2.2
+ioanalysis: 0.3.0
 IOHanalyzer: 0.1.3
 IOHexperimenter: 0.1.0
 ioncopy: 2.1.1
@@ -7647,7 +7650,7 @@ itan: '1.0'
 itcSegment: '0.8'
 ITEMAN: '1.0'
 itemanalysis: '1.0'
-ItemResponseTrees: 0.2.4
+ItemResponseTrees: 0.2.5
 iteRates: '3.1'
 iterators: 1.0.12
 iterLap: 1.1-3
@@ -10911,7 +10914,7 @@ opentraj: '1.0'
 opentripplanner: 0.2.1.0
 openVA: 1.0.11
 openwindfarm: 0.1.0
-openxlsx: 4.1.4
+openxlsx: 4.1.5
 opera: '1.1'
 operator.tools: 1.6.3
 operators: 0.1-8
@@ -11314,6 +11317,7 @@ pathlibr: 0.1.0
 pathmapping: 1.0.2
 pathmox: 0.2.0
 pathological: 0.1-2
+paths: 0.1.0
 PathSelectMP: '1.1'
 patPRO: 1.1.0
 patrick: 0.0.1
@@ -11786,7 +11790,7 @@ PlasmaMutationDetector: 1.7.2
 Plasmidprofiler: 0.1.6
 Plasmode: 0.1.0
 plater: 1.0.2
-platetools: 0.1.2
+platetools: 0.1.3
 PlayerRatings: 1.1-0
 playitbyr: 0.2-1
 playwith: 0.9-8
@@ -13448,7 +13452,7 @@ Renext: 3.1-0
 RenextGUI: 1.4-0
 renpow: 0.1-1
 rentrez: 1.2.2
-renv: 0.9.3
+renv: 0.10.0
 Renvlp: '2.8'
 Reol: '1.8'
 ReorderCluster: '1.0'
@@ -13554,7 +13558,7 @@ Rexperigen: 0.2.1
 rexpokit: 0.26.6.6
 RFA: 0.0-9
 Rfacebook: 0.6.15
-rfacebookstat: 2.0.2
+rfacebookstat: 2.0.3
 Rfast: 1.9.9
 Rfast2: 0.0.5
 rfbCNPJ: 0.1.1
@@ -14441,7 +14445,7 @@ rsppfp: 1.0.4
 rsprng: '1.0'
 RSPS: '1.0'
 rsq: '1.1'
-RSQL: 0.1.1
+RSQL: 0.1.3
 RSQLite: 2.2.0
 RSQLite.extfuns: 0.0.1
 RSQLServer: 0.3.0
@@ -14659,7 +14663,7 @@ RXshrink: 1.3.3
 rxylib: 0.2.4
 Ryacas: 1.1.3
 Ryacas0: 0.4.2
-ryandexdirect: 3.2.2
+ryandexdirect: 3.5.0
 RYandexTranslate: '1.0'
 rym: 0.5.4
 RYoudaoTranslate: '1.0'
@@ -17198,7 +17202,7 @@ TNC: 0.1.0
 tnet: 3.0.16
 Tnseq: 0.1.2
 toaster: 0.5.5
-TOC: 0.0-4
+TOC: 0.0-5
 todor: 0.1.0
 togglr: 0.1.33
 TOHM: '1.3'
