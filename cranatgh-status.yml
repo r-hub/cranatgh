@@ -963,6 +963,7 @@ BayesSpec: 0.5.3
 BayesSummaryStatLM: 1.0-1
 BayesSUR: 1.1-2
 bayesSurv: '3.3'
+BayesSurvival: 0.1.0
 bayest: '1.2'
 bayestestR: 0.6.0
 bayesTFR: 6.4-0
@@ -1533,6 +1534,7 @@ boostmtree: 1.4.1
 boostr: 1.0.0
 boostSeq: '1.0'
 boot: 1.3-25
+boot.heterogeneity: 0.1.0
 BootCL: '1.7'
 bootcluster: 0.1.0
 bootES: '1.2'
@@ -1999,7 +2001,7 @@ cems: '0.4'
 CenBAR: 0.1.0
 CENFA: 1.1.0
 cenGAM: 0.5.3
-cenROC: 1.0.0
+cenROC: 1.2.0
 censCov: 1.0-0
 CensMFM: '2.11'
 CensMixReg: '3.1'
@@ -2817,6 +2819,7 @@ COVID19: 1.0.0
 covid19.analytics: '1.1'
 covid19france: 0.1.0
 covid19italy: 0.2.0
+covid19nytimes: 0.1.3
 covid19us: 0.1.4
 covLCA: '1.0'
 covmat: '1.0'
@@ -3572,7 +3575,7 @@ diagmeta: 0.4-0
 DiagnosisMed: '0.2'
 diagonals: 5.2.0
 diagram: 1.6.4
-DiagrammeR: 1.0.5
+DiagrammeR: 1.0.6.1
 DiagrammeRsvg: '0.1'
 DiagTest3Grp: '1.6'
 DiallelAnalysisR: 0.1.1
@@ -4281,7 +4284,7 @@ eHOF: '1.8'
 EHR: 0.1-3
 EHRtemporalVariability: 1.0.4
 ei: 1.3-3
-eia: 0.3.4
+eia: 0.3.6
 EIAdata: 0.0.5
 eicm: 1.0.0
 eiCompare: '2.1'
@@ -5706,7 +5709,7 @@ gds: 0.1.0
 gdsfmt: 1.1.0.1
 gdtools: 0.2.2
 gdxdt: 0.1.0
-GE: 0.0.9
+GE: 0.1.0
 gear: 0.3.4
 gearman: 0.1-5
 GeDS: 0.1.3
@@ -5737,7 +5740,7 @@ GenABEL.data: 1.0.0
 genalg: 0.2.0
 GenAlgo: 2.1.5
 genasis: '1.0'
-genBaRcode: 1.2.2
+genBaRcode: 1.2.3
 genBart: 1.0.1
 GenBinomApps: 1.0-2
 GenCAT: 1.0.3
@@ -6196,7 +6199,7 @@ glmpathcr: 1.0.8
 glmpca: 0.1.0
 glmperm: 1.0-5
 GLMsData: 1.0.0
-GlmSimulatoR: 0.2.1
+GlmSimulatoR: 0.2.2
 glmtlp: '1.1'
 glmtree: '0.1'
 glmulti: 1.0.7.1
@@ -7929,6 +7932,7 @@ kirby21.base: 1.7.0
 kirby21.fmri: 1.7.0
 kirby21.t1: 1.7.0
 kissmig: 1.0-3
+kit: 0.0.1
 kitagawa: 2.2-2
 kiwisR: 0.1.8
 kknn: 1.3.1
@@ -8662,7 +8666,7 @@ lucr: 0.2.0
 ludic: 0.1.8
 lue: 0.2.1
 lulcc: 1.0.4
-lumberjack: 1.1.4
+lumberjack: 1.2.0
 lumendb: 0.2.2
 Luminescence: 0.9.7
 LumiWCluster: 1.0.2
@@ -9705,7 +9709,7 @@ ModelMetrics: 1.2.2.2
 modelObj: '4.0'
 modelplotr: 1.0.0
 modelr: 0.1.7
-modelStudio: 1.0.2
+modelStudio: 1.1.0
 modelsummary: 0.2.1
 modeltests: 0.1.1
 modeltools: 0.2-23
@@ -10064,7 +10068,7 @@ multimark: 2.1.2
 MultiMeta: '0.1'
 multimode: '1.4'
 multinbmod: '1.0'
-multinet: '3.2'
+multinet: '3.3'
 multinets: 0.2.2
 MultinomialCI: '1.1'
 multinomineq: 0.2.1
@@ -10543,6 +10547,7 @@ nnfor: 0.9.6
 nnGarrote: 1.0.2
 nngeo: 0.3.7
 nnlasso: '0.3'
+nnlib2Rcpp: 0.1.2
 NNLM: 0.4.3
 nnls: '1.4'
 NNMIS: 1.0.1
@@ -11961,7 +11966,7 @@ pollster: 0.1.1
 pollstR: 2.0.1
 polmineR: 0.8.0
 PoloniexR: 0.0.1
-polspline: 1.1.17
+polspline: 1.1.18
 polyaAeppli: '2.0'
 polyapost: '1.6'
 polychaosbasics: 1.1-1
@@ -12375,6 +12380,7 @@ pspearman: 0.3-0
 pspline: 1.0-17
 PSPManalysis: 0.2.2
 pssm: '1.1'
+PSSMCOOL: 0.1.0
 pssmooth: 1.0.2
 psSubpathway: 0.1.1
 PST: '0.94'
@@ -13255,6 +13261,7 @@ rdrobust: 0.99.7
 Rdrools: 1.1.1
 Rdroolsjars: 1.0.1
 rdrop2: 0.8.1
+Rdrw: 1.0.0
 rdryad: 0.4.0
 RDS: 0.9-2
 Rdsdp: 1.0.5
@@ -13643,7 +13650,7 @@ RGeode: 0.1.0
 rgeolocate: 1.2.0
 rgeopat2: 0.3.9
 rgeoprofile: 0.1.1
-rgeos: 0.5-2
+rgeos: 0.5-3
 rgeospatialquality: 0.3.2
 rgexf: 0.16.0
 RGF: 1.0.6
@@ -13808,6 +13815,7 @@ rJavax: '0.3'
 rjazz: 0.1.7
 RJDBC: 0.2-8
 RJDemetra: 0.1.5
+rjdmarkdown: 0.1.0
 rjdqa: 0.1.0
 rje: 1.10.15
 rjmcmc: 0.4.5
@@ -14296,6 +14304,7 @@ rpubs: 0.2.2
 rpud: 0.0.2
 RPushbullet: 0.3.3
 rpvm: 1.0-4
+Rpvt: 0.1.0
 RPyGeo: 1.0.0
 rPython: 0.0-6
 rQCC: 1.20.3
@@ -14421,7 +14430,7 @@ RSiteCatalyst: 1.4.16
 RSiteSearch: 1.0-7
 RSKC: 2.4.2
 rskey: 0.4.1
-rsleep: 1.0.1
+rsleep: 1.0.2
 rslp: 0.1.0
 rslurm: 0.5.0
 rsm: '2.10'
@@ -15324,7 +15333,7 @@ shock: '1.0'
 shopifyr: 1.0.0
 shortcuts: 1.4.0
 ShortForm: 0.4.6
-shorts: 1.0.0
+shorts: 1.0.1
 shotGroups: 0.7.5.1
 showimage: 1.0.0
 showtext: 0.7-1
@@ -15684,7 +15693,7 @@ snipEM: 1.0.1
 snn: '1.1'
 snnR: '1.0'
 snort: '1.0'
-snotelr: 1.0.1
+snotelr: 1.0.4
 snow: 0.4-3
 Snowball: 0.0-9
 SnowballC: 0.7.0
@@ -16684,6 +16693,7 @@ SwissAir: 1.1.5
 swissdd: 1.0.2
 swissMrP: '0.62'
 swissparl: 0.2.1
+switchcase: 0.1.0
 switchnpreg: 0.8-0
 switchr: 0.14.3
 switchrGist: 0.2.4
@@ -17689,7 +17699,7 @@ unjoin: 0.0.4
 unknownR: '0.4'
 unmarked: 1.0.0
 UNPaC: 1.1.0
-unpivotr: 0.5.1
+unpivotr: 0.6.0
 unrepx: '1.0'
 unrtf: '1.4'
 unsystation: 0.2.0
@@ -18358,7 +18368,7 @@ xopen: 1.0.0
 xpectr: 0.3.0
 xplain: 0.2.1
 xplorerr: 0.1.1
-Xplortext: 1.3.1
+Xplortext: 1.3.2
 xpose: 0.4.8
 xpose.nlmixr: 0.1.5
 xpose4: 4.7.0
