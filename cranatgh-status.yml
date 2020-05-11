@@ -126,7 +126,7 @@ ADDT: '2.0'
 ade4: 1.7-15
 ade4TkGUI: 0.3-0
 adeba: 1.1.2
-adegenet: 2.1.2
+adegenet: 2.1.3
 adegraphics: 1.0-15
 adehabitat: 1.8.9
 adehabitatHR: 0.4.18
@@ -1412,7 +1412,7 @@ BlandAltmanLeh: 0.3.1
 blandr: 0.5.1
 blastula: 0.3.1
 blatr: 1.0.1
-Blaunet: 2.0.8
+Blaunet: 2.0.9
 blavaan: 0.3-9
 BLCOP: 0.3.2
 blendedLink: '1.0'
@@ -1542,7 +1542,7 @@ bootfs: '1.4'
 bootImpute: 1.0.0
 bootLR: 1.0.2
 BootMRMR: '0.1'
-bootnet: '1.3'
+bootnet: '1.4'
 BootPR: '0.60'
 bootRes: 1.2.4
 bootruin: 1.2-4
@@ -1576,7 +1576,7 @@ boxplotdbl: 1.3.0
 boxr: 0.3.5
 bpa: 0.1.1
 bpbounds: 0.1.4
-bpca: 1.3-0
+bpca: 1.3-2
 bpcp: '1.4'
 bpDir: 0.1.1
 bPeaks: '1.2'
@@ -2916,7 +2916,7 @@ creditmodel: '1.2'
 creditr: 0.6.1
 CreditRisk: 0.1.3
 credsubs: 1.0.1
-credule: 0.1.3
+credule: 0.1.4
 cregg: 0.3.0
 cRegulome: 0.3.2
 crevents: 0.1.0
@@ -3147,7 +3147,7 @@ DAC: 0.1.1
 DACF: 1.0.0
 dad: 3.4.0
 dae: 3.1-23
-daewr: 1.2-4
+daewr: 1.2-5
 daff: 0.3.5
 DAFOT: 0.0.1
 dafs: 1.0-37
@@ -3291,7 +3291,7 @@ dBlockmodeling: 0.2.0
 dblr: 0.1.0
 dbmss: 2.7-1
 dbnR: 0.3.4
-dbparser: 1.1.0
+dbparser: 1.1.1
 dbplot: 0.3.3
 dbplyr: 1.4.3
 dbscan: 1.1-5
@@ -3310,7 +3310,7 @@ dcens: '1.0'
 DCG: .na.character
 DCGL: 2.1.2
 dcGOR: 1.0.6
-DChaos: 0.1-4
+DChaos: 0.1-5
 dChipIO: 0.1.5
 DCL: 0.1.0
 dclone: 2.3-0
@@ -3907,7 +3907,7 @@ DPtree: 1.0.1
 DPw: '1.1'
 DPWeibull: '1.5'
 dqrng: 0.2.1
-dqshiny: 0.0.3
+dqshiny: 0.0.4
 dr: 3.0.10
 dr4pl: 1.1.11
 DRAFT: 0.3.0
@@ -4805,7 +4805,7 @@ eyetracking: '1.1'
 eyetrackingR: 0.1.8
 eyeTrackR: 1.0.1
 ez: 4.4-0
-ezcox: 0.4.0
+ezcox: 0.5.0
 ezCutoffs: 1.0.1
 ezec: 1.0.1
 ezglm: '1.0'
@@ -4920,7 +4920,7 @@ fastGHQuad: '1.0'
 fastglm: 0.0.1
 FastGP: '1.2'
 fastGraph: '2.1'
-FastHCS: 0.0.6
+FastHCS: 0.0.7
 fastHICA: 1.0.2
 fastHorseshoe: 0.1.0
 fastICA: 1.2-2
@@ -5634,7 +5634,7 @@ gapfill: 0.9.6
 gapmap: 0.0.4
 gapminder: 0.3.0
 GAR: '1.1'
-garchx: '1.0'
+garchx: '1.1'
 gargle: 0.5.0
 garray: 1.1.2
 GAS: 0.3.3
@@ -7416,7 +7416,7 @@ InPosition: 0.12.7.1
 insect: 1.2.0
 insideRODE: '2.0'
 insight: 0.8.3
-InSilicoVA: 1.2.8
+InSilicoVA: 1.2.9
 insol: 1.2.1
 InspectChangepoint: '1.1'
 inspectdf: 0.0.7
@@ -8430,7 +8430,7 @@ lmds: 0.1.0
 lme: 3.1-0
 lme4: 1.1-23
 lmec: '1.0'
-lmeInfo: 0.1.0
+lmeInfo: 0.1.1
 lmem.gwaser: 0.1.0
 lmem.qtler: 0.1.1
 lmeNB: '1.3'
@@ -9136,7 +9136,7 @@ memnet: 0.1.0
 memo: 1.0.1
 memochange: 1.1.0
 memoise: 1.1.0
-memor: '0.2'
+memor: 0.2.2
 memoria: 1.0.0
 MEMSS: 0.9-3
 memuse: 4.1-0
@@ -9727,7 +9727,7 @@ MODIS: 1.1.7
 modiscloud: '0.14'
 MODISSnow: 0.1.0.0
 MODISTools: 1.1.1
-MODIStsp: 1.3.9
+MODIStsp: 1.4.0
 modmarg: 0.9.2
 modMax: '1.1'
 modopt.matlab: 1.0-2
@@ -10315,7 +10315,7 @@ neat: 1.2.1
 NeatMap: 0.3.6.2
 neatmaps: 2.1.0
 neatRanges: 0.1.3
-neatStats: 1.0.4
+neatStats: 1.2.0
 needmining: 0.1.1
 needs: 0.0.3
 needy: '0.2'
@@ -11162,7 +11162,7 @@ PAFit: 1.0.1.8
 PAFway: 0.1.3
 pagedown: '0.10'
 pagenum: '1.1'
-pageviews: 0.3.0
+pageviews: 0.5.0
 PAGI: '1.0'
 PAGWAS: '2.0'
 painter: 0.1.0
@@ -11520,7 +11520,7 @@ peplib: 1.5.1
 PepPrep: 1.1.0
 PepSAVIms: 0.9.1
 peptider: 0.2.2
-Peptides: 2.4.1
+Peptides: 2.4.2
 pequod: 0.0-5
 perARMA: '1.6'
 Perc: 0.1.5
@@ -11834,7 +11834,7 @@ plot.matrix: .na.character
 plot2groups: '0.10'
 plot3D: '1.3'
 plot3Drgl: 1.0.1
-plot3logit: 1.0.2
+plot3logit: 2.0.0
 plotAndPlayGTK: 0.8.78
 PlotContour: 0.1.0
 plotdap: 0.0.7
@@ -12010,7 +12010,7 @@ poolfstat: 1.1.1
 pooling: 1.1.2
 poolr: 0.8-2
 poolVIM: 1.0.0
-poorman: 0.1.11
+poorman: 0.2.0
 pop: '0.1'
 pop.wolf: '0.1'
 popbio: '2.7'
@@ -12668,7 +12668,7 @@ Quartet: 1.1.0
 QuasiSeq: 1.0-10-2
 quaternions: '0.2'
 QuClu: 0.1.0
-queryparser: 0.2.0
+queryparser: 0.3.0
 questionr: 0.7.0
 queuecomputer: 0.8.3
 queueing: 0.2.12
@@ -14010,7 +14010,7 @@ RNetCDF: 2.3-1
 RNetLogo: 1.0-4
 Rnets: 1.2.1
 RNewsflow: 1.2.4
-RNeXML: 2.4.3
+RNeXML: 2.4.4
 RNGforGPD: 1.0.2
 rngSetSeed: 0.3-2
 rngtools: '1.5'
@@ -16662,7 +16662,7 @@ svmplus: 1.0.1
 SVN: 1.0.1
 svrpath: 0.1.2
 svs: 2.0.0
-svSocket: 0.9-57
+svSocket: 1.0.0
 svSweave: 0.9-8
 svTools: 0.9-5
 svUnit: 1.0.3
@@ -16980,7 +16980,7 @@ textometry: 0.1.4
 TextoMineR: '1.1'
 textrank: 0.3.0
 textreadr: 0.9.0
-textrecipes: 0.2.1
+textrecipes: 0.2.2
 textreg: 0.1.5
 TextRegression: 0.1-3
 textreuse: 0.1.4
