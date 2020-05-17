@@ -1823,7 +1823,7 @@ capwire: 1.1.4
 car: 3.0-7
 caracas: 0.0.1
 caRamel: '1.1'
-carat: '1.0'
+carat: '1.1'
 CARBayes: '5.2'
 CARBayesdata: '2.1'
 CARBayesST: '3.1'
@@ -2099,7 +2099,7 @@ cheb: '0.3'
 chebpol: 2.1-2
 checkarg: 0.1.0
 CheckDigit: 0.1-1
-checkdown: 0.0.4
+checkdown: 0.0.5
 checkLuhn: 1.1.0
 checkmate: 2.0.0
 checkpoint: 0.4.9
@@ -4680,7 +4680,7 @@ evalITR: 0.1.0
 evaluate: '0.14'
 EvaluationMeasures: 1.1.0
 evaluator: 0.4.2
-EValue: 2.0.0
+EValue: 2.1.0
 Evapotranspiration: '1.14'
 evclass: 1.1.1
 evclust: 1.1.0
@@ -5892,7 +5892,7 @@ geomorph: 3.2.1
 geonames: '0.999'
 geonapi: 0.3-1
 geonetwork: '0.3'
-geoops: 0.2.0
+geoops: 0.3.0
 geoparser: 0.1.2
 geophys: 1.4-1
 geoPlot: '2.3'
@@ -8624,7 +8624,7 @@ LPmerge: '1.7'
 lpmodeler: 0.2-1
 LPower: 0.1.1
 LPR: '1.0'
-LPRelevance: '3.0'
+LPRelevance: '3.1'
 lpridge: 1.0-8
 LPS: 1.0.10
 lpSolve: 5.6.15
@@ -8800,7 +8800,7 @@ MANOVA.RM: 0.3.4
 manymodelr: 0.2.4
 ManyTests: '1.2'
 MaOEA: 0.5.2
-maotai: 0.1.5
+maotai: 0.1.6
 MAP: 0.1.3
 Map2NCBI: '1.4'
 MAPA: 2.0.4
@@ -10287,7 +10287,7 @@ nat.templatebrains: '0.9'
 nat.utils: 0.5.1
 nationwider: 1.1.1
 natmanager: 0.4.0
-natserv: 0.4.0
+natserv: 1.0.0
 natural: 0.9.0
 naturalsort: 0.1.3
 NatureSounds: 1.0.3
@@ -11375,7 +11375,7 @@ PatternClass: 2.0.1
 patternize: 0.0.2
 patternplot: 1.0.0
 Patterns: '1.2'
-PAutilities: 0.3.1
+PAutilities: 1.0.1
 pauwels2014: '1.0'
 pavo: 2.4.0
 pawacc: 1.2.2
@@ -12516,7 +12516,7 @@ pwrRasch: 0.1-2
 pwt: 7.1-1
 pwt8: 8.1-1
 pwt9: 9.1-0
-pxR: 0.42.2
+pxR: 0.42.3
 pxweb: 0.9.1
 PxWebApiData: 0.3.0
 pycno: '1.2'
@@ -13171,7 +13171,7 @@ Rcpp11: 3.1.2.0
 RcppAlgos: 2.4.1
 RcppAnnoy: 0.0.16
 RcppAPT: 0.0.6
-RcppArmadillo: 0.9.870.2.0
+RcppArmadillo: 0.9.880.1.0
 RcppBDT: 0.2.3
 RcppBigIntAlgos: 0.2.2
 RcppBlaze: 0.2.2
@@ -13464,7 +13464,7 @@ REIDS: 0.1.0
 reinforcedPred: 0.1.1
 reinforcelearn: 0.2.1
 ReinforcementLearning: 1.0.5
-ReIns: 1.0.9
+ReIns: 1.0.10
 reinstallr: 0.1.4
 reinsureR: 0.1.0
 rel: 1.4.2
@@ -13626,7 +13626,7 @@ RfEmpImp: 2.0.3
 rFerns: 3.0.0
 RFGLS: '1.1'
 RFgroove: '1.1'
-rFIA: 0.2.2
+rFIA: 0.2.3
 rfigshare: 0.3.7
 RFinanceYJ: 0.3.1
 RFinfer: 0.2.0
@@ -13750,7 +13750,7 @@ rhoR: 1.3.0.2
 rhosp: '1.07'
 Rhpc: 0.19-276
 RHPCBenchmark: 0.1.0
-RhpcBLASctl: 0.20-17
+RhpcBLASctl: 0.20-137
 rHpcc: '1.0'
 RHRV: 4.2.5
 RHT: '1.0'
@@ -14352,7 +14352,7 @@ rpubs: 0.2.2
 rpud: 0.0.2
 RPushbullet: 0.3.3
 rpvm: 1.0-4
-Rpvt: 0.1.0
+Rpvt: 0.1.1
 RPyGeo: 1.0.0
 rPython: 0.0-6
 rQCC: 1.20.3
@@ -14646,7 +14646,7 @@ RUnit: 0.4.32
 runittotestthat: 0.0-2
 Runiversal: 1.0.2
 runjags: 2.0.4-6
-runner: 0.3.5
+runner: 0.3.7
 runStat: '1.1'
 runstats: 1.1.0
 Runuran: '0.30'
@@ -14952,7 +14952,7 @@ scmamp: 0.2.55
 scMappR: 0.1.1
 scModels: 1.0.1
 scope: '2.2'
-scoper: 0.2.0
+scoper: 1.0.0
 scopr: 0.3.3
 SCOR: 1.1.0
 score: 1.0.2
@@ -15357,7 +15357,7 @@ shinyloadtest: 1.0.1
 shinylogs: 0.1.7
 shinyLP: 1.1.2
 shinymanager: 1.0.200
-shinymaterial: 1.0.1
+shinymaterial: 1.1.0
 shinyMatrix: 0.3.0
 shinyML: 0.2.0
 shinyMobile: 0.1.0
@@ -15730,7 +15730,7 @@ SMPracticals: 1.4-3
 SMR: 2.0.1
 sms: 2.3.1
 smss: 1.0-2
-smurf: 1.0.5
+smurf: 1.0.6
 SMUT: '1.1'
 SMVar: 1.3.3
 sn: 1.6-1
@@ -16173,7 +16173,7 @@ spotifyr: 2.1.1
 spp: 1.16.0
 SPPcomb: '0.1'
 sppmix: 1.0.2
-spray: 1.0-8
+spray: 1.0-9
 spread: 2019.8.5
 spreadr: 0.1.0
 SPREDA: '1.1'
@@ -16752,7 +16752,7 @@ SwissAir: 1.1.5
 swissdd: 1.0.3
 swissMrP: '0.62'
 swissparl: 0.2.1
-switchcase: 0.1.0
+switchcase: 0.1.1
 switchnpreg: 0.8-0
 switchr: 0.14.3
 switchrGist: 0.2.4
@@ -17485,7 +17485,7 @@ trread: 0.2.7
 TRSbook: 1.0.2
 trtf: 0.3-7
 trueskill: '0.1'
-TruncatedNormal: 2.1.2
+TruncatedNormal: '2.2'
 truncdist: 1.0-2
 truncgof: 0.6-0
 truncnorm: 1.0-8
@@ -18140,7 +18140,7 @@ WaveletComp: '1.1'
 WaveletGARCH: 0.1.1
 WaveLetLongMemory: 0.1.2
 wavelets: 0.3-0.2
-wavemulcor: 2.2.1
+wavemulcor: 3.1.0
 waver: 0.2.1
 WaverR: '1.0'
 WaveSampling: 0.1.1
@@ -18453,7 +18453,7 @@ xROI: 0.9.9
 XRPython: '0.8'
 XRSCC: '0.1'
 xseq: 0.2.1
-xslt: 1.4.1
+xslt: 1.4.2
 xsp: 0.1.2
 xspliner: 0.0.4
 xSub: 2.0.2
