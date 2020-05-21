@@ -356,7 +356,7 @@ anchoredDistr: 1.0.3
 anchors: 3.0-8
 AnDE: '1.0'
 andrews: '1.0'
-Andromeda: 0.1.3
+Andromeda: 0.2.0
 anesrake: '0.80'
 anfis: 0.99.1
 AnglerCreelSurveySimulation: 1.0.2
@@ -754,7 +754,7 @@ babette: 2.1.2
 BaBooN: 0.2-0
 babynames: 1.0.0
 BACA: '1.3'
-BacArena: '1.8'
+BacArena: 1.8.2
 BACCO: 2.0-9
 BACCT: '1.0'
 bacistool: 0.9.9
@@ -876,7 +876,7 @@ bayes4psy: 1.2.3
 bayesAB: 1.1.2
 bayesammi: 0.1.0
 bayesanova: '1.3'
-BayesARIMAX: 0.1.0
+BayesARIMAX: 0.1.1
 BayesBD: '1.2'
 BayesBEKK: 0.1.0
 BayesBinMix: 1.4.1
@@ -1118,7 +1118,7 @@ Bessel: 0.6-0
 BEST: 0.5.2
 bestglm: 0.37.3
 Bestie: 0.1.1
-bestNormalize: 1.5.0
+bestNormalize: 1.6.0
 BESTree: 0.5.2
 bestSDP: 0.1.2
 BetaBit: '1.3'
@@ -1516,7 +1516,7 @@ boclust: 0.1.2
 bodenmiller: '0.1'
 BOG: '2.0'
 boilerpipeR: '1.3'
-BOIN: 2.6.4
+BOIN: 2.6.5
 bold: 1.0.0
 Bolstad: 0.2-40
 Bolstad2: 1.0-28
@@ -1566,7 +1566,7 @@ Boptbd: 1.0.5
 bor: 0.1.0
 boral: '1.8'
 borrowr: 0.1.1
-Boruta: 6.0.0
+Boruta: 7.0.0
 BosonSampling: 0.1.1
 boss: '2.1'
 BoSSA: '3.6'
@@ -1821,7 +1821,7 @@ captr: 0.3.0
 capushe: 1.1.1
 capwire: 1.1.4
 car: 3.0-7
-caracas: 0.0.1
+caracas: 1.0.0
 caRamel: '1.1'
 carat: '1.1'
 CARBayes: '5.2'
@@ -2829,7 +2829,7 @@ covid19.analytics: '1.1'
 covid19france: 0.1.0
 covid19italy: 0.2.0
 covid19nytimes: 0.1.3
-covid19us: 0.1.4
+covid19us: 0.1.6
 covLCA: '1.0'
 covmat: '1.0'
 Covpath: '1.0'
@@ -2945,7 +2945,7 @@ crmn: 0.0.21
 crmPack: 1.0.0
 crmReg: 1.0.1
 crn: '1.1'
-crochet: 2.2.0
+crochet: 2.3.0
 cromwellDashboard: 0.5.1
 crone: 0.1.1
 cronR: 0.4.0
@@ -3181,7 +3181,7 @@ DamiaNN: 1.0.0
 DAMisc: 1.5.4
 DAMOCLES: '2.2'
 damr: 0.3.4
-dams: '0.2'
+dams: 0.3.0
 DandEFA: '1.6'
 dang: 0.0.11
 dani: 0.1-1
@@ -3695,6 +3695,7 @@ discharge: 1.0.0
 disclap: '1.5'
 disclapmix: 1.7.3
 DiscML: '1.0'
+discnorm: 0.1.0
 disco: '0.6'
 discord: '0.1'
 discourseGT: 1.0.0
@@ -3746,7 +3747,7 @@ distillery: 1.0-7
 disto: 0.2.0
 distory: 1.4.4
 distr: 2.8.0
-distr6: 1.3.6
+distr6: 1.3.7
 distrDoc: 2.8.0
 distreg.vis: 1.7.0
 distrEllipse: 2.8.0
@@ -4149,7 +4150,7 @@ ebGenotyping: 2.0.1
 EBglmnet: '4.1'
 ebimetagenomics: '0.6'
 ebirdst: 0.2.1
-EBMAforecast: '0.52'
+EBMAforecast: 1.0.0
 ebmc: 1.0.0
 EBPRS: 2.0.3
 EBrank: 1.0.0
@@ -4421,7 +4422,7 @@ empirical: 0.2.0
 empiricalBayes: '2.1'
 EmpiricalCalibration: 2.0.2
 empiricalFDR.DESeq2: 1.0.3
-emplik: 1.0-4.3
+emplik: 1.1-1
 emplik2: '1.21'
 ems: 1.3.2
 EMSaov: '2.3'
@@ -5747,7 +5748,7 @@ geiger: 2.0.6.4
 GEint: 0.1.5
 gelnet: 1.2.1
 gem: '0.19'
-gemlog: '0.36'
+gemlog: '0.40'
 gemma2: 0.1.1
 gemmR: 1.3-2
 gems: 1.1.1
@@ -5807,7 +5808,7 @@ genero: 0.1.0
 geneSignatureFinder: 2014.02.17
 geneSLOPE: 0.37.0
 GeneSOM: 0.2-5
-GenEst: 1.4.2
+GenEst: 1.4.3
 genesysr: 1.0.0
 genetics: 1.3.8.1.2
 GeneticSubsetter: '0.8'
@@ -6077,7 +6078,7 @@ ggQQunif: 0.1.5
 ggquickeda: 0.1.6
 ggquiver: 0.2.0
 ggRandomForests: 2.0.1
-ggraph: 2.0.2
+ggraph: 2.0.3
 ggraptR: '1.2'
 ggrasp: '1.0'
 ggrepel: 0.8.2
@@ -6125,6 +6126,7 @@ ghql: 0.1.0
 GHQp: '1.0'
 GHS: '0.1'
 ghyp: 1.6.1
+ghypernet: 1.0.0
 GiANT: '1.3'
 gibble: 0.4.0
 gibbs.met: 1.1-3
@@ -6937,7 +6939,7 @@ HMMoce: 1.0.0
 HMMpa: 1.0.1
 HMP: 2.0.1
 HMPTrees: '1.4'
-HMR: 1.0.0
+HMR: 1.0.1
 hms: 0.5.3
 Hmsc: 3.0-6
 hmstimer: 0.0.2
@@ -8716,7 +8718,7 @@ lvnet: 0.3.5
 lvplot: 0.2.0
 LVQTools: '1.2'
 LW1949: 1.1.0
-lwgeom: 0.2-3
+lwgeom: 0.2-4
 lxb: '1.5'
 lymphclon: 1.3.0
 LZeroSpikeInference: 1.0.3
@@ -8867,7 +8869,7 @@ marketr: 0.0.1
 maRketSim: '0.9'
 markmyassignment: 0.8.2
 markophylo: 1.0.7
-markovchain: 0.8.4.1
+markovchain: 0.8.5
 Markovchart: 1.0.6
 MarkowitzR: 1.0.2
 marl: '1.0'
@@ -9079,7 +9081,7 @@ md: .na.character
 md.log: 0.1.1
 mda: '0.5'
 mDAG: 1.2.2
-mdapack: 0.0.1
+mdapack: 0.0.2
 mdatools: 0.10.3
 MDBED: 1.0.0
 MDD: '0.5'
@@ -9236,7 +9238,7 @@ metamer: 0.2.0
 metamicrobiomeR: '1.1'
 metamisc: 0.2.2
 metaMix: '0.3'
-metan: 1.5.1
+metan: 1.6.0
 metansue: '2.4'
 metap: '1.3'
 MetaPath: '1.0'
@@ -9421,7 +9423,7 @@ mime: '0.9'
 mimi: 0.2.0
 MImix: '1.0'
 mimR: 2.6.2
-MIMSunit: 0.9.0
+MIMSunit: 0.9.1
 mimsy: 0.6.0
 MinBAR: 1.1.0
 MindOnStats: '0.11'
@@ -9947,7 +9949,7 @@ MRS: 1.2.4
 MRSP: 0.4.3
 MRsurv: '0.2'
 mrt: '0.4'
-MRTSampleSize: 0.1.0
+MRTSampleSize: 0.2.0
 MRwarping: '1.0'
 ms.sev: 1.0.4
 msae: 0.1.1
@@ -9967,7 +9969,7 @@ MSCMT: 1.3.4
 MScombine: '1.4'
 MSCquartets: 1.0.5
 mscstexta4r: 0.1.2
-mscstts: 0.5.3
+mscstts: 0.5.4
 mscsweblm4r: 0.1.2
 msd: 0.2.0
 msda: 1.0.2
@@ -10724,7 +10726,7 @@ npROCRegression: 1.0-5
 nprotreg: 1.0.0
 nprq: '0.63'
 NPS: '1.1'
-npsf: 0.5.2
+npsf: 0.6.0
 NPsimex: 0.2-1
 npsm: 0.5.1
 npsp: 0.7-5
@@ -12535,7 +12537,7 @@ pystr: 2.0.0
 PythonInR: 0.1-11
 pzfx: 0.2.0
 qad: 0.1.2
-QAIG: 0.1.5
+QAIG: 0.1.7
 qAnalyst: 0.6.4
 qap: 0.1-1
 qat: '0.74'
@@ -12805,7 +12807,7 @@ rabhit: 0.1.4
 rabi: 1.0.2
 RAC: '1.5'
 race: 0.1.59
-RaceID: 0.1.9
+RaceID: 0.2.0
 raceland: 1.0.8
 RAD: '0.3'
 RADami: 1.1-2
@@ -13287,7 +13289,7 @@ RDieHarder: 0.2.1
 Rdimtools: 1.0.2
 rdist: 0.0.5
 Rdistance: 2.1.3
-rdiversity: 1.2.1
+rdiversity: '2.0'
 rdlocrand: '0.6'
 RDML: '1.0'
 rdmulti: '0.5'
@@ -13710,7 +13712,7 @@ rggobi: 2.1.22
 RghcnV3: '2.9'
 rgho: 2.0.0
 RGIFT: 0.1-5
-RGISTools: 1.0.0
+RGISTools: 1.0.2
 rgl: 0.100.54
 rglobi: 0.2.21
 Rglpk: 0.6-4
@@ -14296,7 +14298,7 @@ RPEGLMEN: 1.0.1
 RPEIF: 1.0.8
 RPEnsemble: '0.4'
 RPESE: 1.0.3
-RPEXE.RPEXT: 0.0.1
+RPEXE.RPEXT: 0.0.2
 rpf: 1.0.4
 rpg: '1.6'
 rpgm: 1.1.2
@@ -14408,6 +14410,7 @@ rriskDistributions: 2.1.2
 rrlda: '1.1'
 RRNA: '1.0'
 rroad: 0.0.5
+rRofex: 1.6.9
 rromeo: 0.1.1
 rrp: '2.9'
 rrpack: 0.1-11
@@ -14648,6 +14651,7 @@ rugarch: 1.4-2
 ruimtehol: 0.2.3
 ruin: 0.1.1
 ruler: 0.2.3
+rules: 0.0.1
 rUnemploymentData: 1.1.0
 runes: 0.0.1
 RUnit: 0.4.32
@@ -15094,12 +15098,12 @@ seer: 1.1.4
 SEER2R: '1.0'
 SEERaBomb: '2019.2'
 SeerMapper: 1.2.0
-SeerMapper2010East: 1.2.0
-SeerMapper2010Regs: 1.2.0
-SeerMapper2010West: 1.2.0
+SeerMapper2010East: 1.2.2
+SeerMapper2010Regs: 1.2.2
+SeerMapper2010West: 1.2.2
 SeerMapperEast: .na.character
-SeerMapperRegs: 1.2.0
-SeerMapperWest: 1.2.0
+SeerMapperRegs: 1.2.2
+SeerMapperWest: 1.2.2
 seewave: 2.1.5
 seg: 0.5-7
 segclust: '0.76'
@@ -15465,7 +15469,7 @@ Sim.PLFN: '1.0'
 sim1000G: '1.40'
 sim2Dpredictr: 0.1.0
 simba: 0.3-5
-SimBIID: 0.1.4
+SimBIID: 0.2.0
 simboot: 0.2-6
 simcausal: 0.5.5
 simcdm: 0.1.1
@@ -15499,7 +15503,7 @@ Simile: 1.3.3
 similr: 1.0.0
 SimInf: 6.5.1
 simIReff: '1.0'
-simITS: 0.1.0
+simITS: 0.1.1
 SimJoint: 0.3.7
 simLife: 0.5.2
 simmer: 4.4.1
@@ -16161,7 +16165,7 @@ spm12r: 2.8.1
 spMaps: 0.4.0
 spMC: 0.3.10
 SPmlficmcm: '1.4'
-spmoran: 0.1.7.2
+spmoran: 0.2.0
 SPMS: '2.0'
 spnet: 0.9.1-0
 SpNetPrep: '1.1'
@@ -16664,7 +16668,7 @@ surveydata: 0.2.5
 surveyeditor: '1.0'
 surveyNG: '0.3'
 surveyoutliers: '0.1'
-surveyplanning: '3.0'
+surveyplanning: '4.0'
 surveysd: 1.2.0
 Survgini: '1.0'
 SurvGSD: 1.0.0
@@ -17163,7 +17167,7 @@ tidypredict: 0.4.5
 tidyquant: 1.0.0
 tidyquery: 0.2.1
 tidyqwi: 0.1.2
-tidyr: 1.0.3
+tidyr: 1.1.0
 tidyREDCap: 0.2.0
 tidyRSS: 2.0.1
 tidyrules: 0.1.3
@@ -18220,7 +18224,7 @@ weightTAPSPACK: '0.1'
 weirs: '0.25'
 welchADF: 0.3.2
 wellknown: 0.6.0
-WeMix: 3.1.3
+WeMix: 3.1.4
 wesanderson: 0.3.6
 wethepeople: 0.6.1
 wevid: 0.6.2
