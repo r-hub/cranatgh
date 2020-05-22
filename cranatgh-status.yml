@@ -400,7 +400,7 @@ antaresEditObject: 0.1.9
 antaresProcessing: 0.18.0
 antaresRead: 2.2.5
 antaresViz: 0.15.1
-anthro: 0.9.2
+anthro: 0.9.3
 AnthropMMD: 3.0.1
 Anthropometry: '1.14'
 antitrust: '0.9'
@@ -1416,7 +1416,7 @@ BlandAltmanLeh: 0.3.1
 blandr: 0.5.1
 blastula: 0.3.2
 blatr: 1.0.1
-Blaunet: 2.0.9
+Blaunet: 2.1.0
 blavaan: 0.3-9
 BLCOP: 0.3.2
 blendedLink: '1.0'
@@ -1643,7 +1643,7 @@ brm: '1.0'
 brms: 2.12.0
 brnn: '0.8'
 Brobdingnag: 1.2-6
-broman: 0.69-5
+broman: 0.70-4
 broom: 0.5.6
 broom.mixed: 0.2.6
 broomExtra: 4.0.2
@@ -1820,8 +1820,8 @@ captioner: 2.2.3
 captr: 0.3.0
 capushe: 1.1.1
 capwire: 1.1.4
-car: 3.0-7
-caracas: 1.0.0
+car: 3.0-8
+caracas: 1.0.1
 caRamel: '1.1'
 carat: '1.1'
 CARBayes: '5.2'
@@ -2134,7 +2134,7 @@ chisq.posthoc.test: 0.1.2
 chk: 0.4.0
 chlorpromazineR: 0.1.2
 CHMM: 0.1.1
-chngpt: 2020.5-13
+chngpt: 2020.5-21
 CHNOSZ: 1.3.6
 ChocoLattes: 0.1.0
 choiceDes: 0.9-3
@@ -3377,7 +3377,7 @@ decctools: 0.2.1
 DECIDE: '1.2'
 decido: 0.3.0
 decision: 0.1.0
-DecisionAnalysis: 1.0.0
+DecisionAnalysis: 1.1.0
 DecisionCurve: '1.4'
 decisionSupport: 1.105.3
 deckgl: 0.2.7
@@ -4154,7 +4154,7 @@ EBMAforecast: 1.0.0
 ebmc: 1.0.0
 EBPRS: 2.0.3
 EBrank: 1.0.0
-ebreg: 0.1.0
+ebreg: 0.1.1
 EBS: '3.1'
 ebSNP: '1.0'
 ecb: '0.2'
@@ -4297,9 +4297,9 @@ eGST: 1.0.0
 eha: 2.8.1
 ehaGoF: 0.1.0
 ehelp: '1.2'
-eHOF: '1.8'
+eHOF: '1.9'
 EHR: 0.1-3
-EHRtemporalVariability: 1.0.4
+EHRtemporalVariability: 1.1.0
 ei: 1.3-3
 eia: 0.3.6
 EIAdata: 0.1.1
@@ -4568,7 +4568,7 @@ epsiwal: 0.1.0
 EPT: 0.7.5
 epubr: 0.6.1
 epuR: '0.1'
-epxToR: 0.4-0
+epxToR: 0.4-1
 eq5d: 0.7.0
 EQL: 1.0-1
 eqn2svg: 0.1.0
@@ -6700,7 +6700,7 @@ haplotypes: 1.1.2
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
-hardhat: 0.1.2
+hardhat: 0.1.3
 HardyWeinberg: 1.6.3
 HARModel: '1.0'
 harmonicmeanp: '3.0'
@@ -8050,7 +8050,7 @@ kriging: '1.1'
 KrigInv: 1.4.1
 KRIS: 1.1.1
 KRLS: 1.0-0
-krm: 2019.12-11
+krm: 2020.5-20
 KRMM: '1.0'
 ks: 1.11.7
 kSamples: 1.2-9
@@ -8406,7 +8406,7 @@ link2GI: 0.4.3
 LinkageMapView: 2.1.2
 linkcomm: 1.0-12
 LinkedGASP: '1.0'
-LinkedMatrix: 1.3.1
+LinkedMatrix: 1.4.0
 linkim: '0.1'
 linkprediction: 1.0-0
 linkR: 1.1.1
@@ -8447,7 +8447,7 @@ live: 1.5.13
 livechatR: 0.1.0
 ljr: 1.4-0
 LLAhclust: 0.2-2
-llama: '0.9'
+llama: 0.9.3
 llbayesireg: 1.0.0
 LLdecomp: '1.0'
 lle: '1.1'
@@ -8846,7 +8846,7 @@ march: '3.1'
 marcher: .na.character
 marelac: 2.1.10
 marelacTeaching: '1.1'
-MareyMap: 1.3.4
+MareyMap: 1.3.5
 marg: 1.2-2.1
 MargCond: 1.0.0
 margie: '1.0'
@@ -9073,7 +9073,7 @@ MCSim: '1.0'
 mcsm: '1.0'
 McSpatial: '2.0'
 mcStats: 0.1.2
-mctest: 1.2.5
+mctest: '1.3'
 MCTM: '1.0'
 mcunit: 0.3.1
 MCUSUM: '1.0'
@@ -10182,8 +10182,8 @@ muUtil: 1.6.0
 MuViCP: 1.3.2
 MVA: 1.0-6
 mvabund: 4.1.3
-MVar: 2.1.2
-MVar.pt: 2.1.2
+MVar: 2.1.3
+MVar.pt: 2.1.3
 MVB: '1.1'
 MvBinary: '1.1'
 mvbutils: 2.8.232
@@ -10268,7 +10268,7 @@ nacopula: 0.8-1
 NADA: 1.6-1.1
 nadiv: 2.16.2.0
 NAEPprimer: 1.0.1
-naijR: 0.0.7
+naijR: 0.1.0
 naivebayes: 0.9.7
 naivereg: 1.0.5
 nakagami: 1.0.0
@@ -10317,7 +10317,7 @@ NBShiny: 0.1.0
 NBShiny2: 0.1.0
 nc: 2020.5.13
 NCA: 3.0.2
-nCal: 2020.5-1
+nCal: 2020.5-21
 ncappc: 0.3.0
 ncar: 0.4.2
 NCBI2R: 1.4.7
@@ -10491,7 +10491,7 @@ nichevol: 0.1.19
 NightDay: 1.0.1.1
 nilde: 1.1-3
 nima: 0.6.2
-nimble: 0.9.0
+nimble: 0.9.1
 nimbleEcology: 0.2.2
 nipals: '0.7'
 Nippon: '0.7'
@@ -10962,7 +10962,7 @@ openNLPmodels.es: 0.0-4
 OpenRepGrid: 0.1.12
 opensensmapr: 0.5.1
 openssl: 1.4.1
-openSTARS: 1.1.0
+openSTARS: 1.2.0
 OpenStreetMap: 0.3.4
 opentick: 0.1-1
 opentraj: '1.0'
@@ -11145,11 +11145,11 @@ OutliersO3: 0.6.3
 outliertree: 1.2.0
 OutrankingTools: '1.0'
 outreg: 0.2.2
-outsider.base: 0.1.0
+outsider.base: 0.1.1
 OUwie: '2.1'
 ouxy: '1.1'
 overdisp: 0.1.0
-overlap: 0.3.2
+overlap: 0.3.3
 overlapping: '1.6'
 overlapptest: '1.1'
 overture: 0.4-0
@@ -11578,7 +11578,7 @@ performanceEstimation: 1.1.0
 pergola: '1.0'
 peRiodiCS: 0.5.0
 PeriodicTable: 0.1.2
-periscope: 0.4.10
+periscope: 0.4.10-1
 perm: 1.0-0.0
 PermAlgo: '1.1'
 PerMallows: '1.13'
@@ -11654,7 +11654,7 @@ phase1PRMD: 1.0.2
 phase1RMD: 1.0.9
 phaseR: 2.1.3
 PhaseType: 0.1.3
-phateR: 1.0.0
+phateR: 1.0.4
 phcfM: '1.2'
 phd: '0.1'
 pheatmap: 1.0.12
@@ -11811,6 +11811,7 @@ pkggraph: 0.2.3
 pkgKitten: 0.1.5
 pkgload: 1.0.2
 pkgmaker: 0.31.1
+pkgndep: 1.0.0
 pkgnet: 0.4.1
 PKgraph: '1.7'
 pkgsearch: 3.0.2
@@ -13286,7 +13287,7 @@ rdian: 0.1.1
 Rdice: 1.0.0
 RDIDQ: '1.0'
 RDieHarder: 0.2.1
-Rdimtools: 1.0.2
+Rdimtools: 1.0.3
 rdist: 0.0.5
 Rdistance: 2.1.3
 rdiversity: '2.0'
@@ -13652,7 +13653,7 @@ rflights: 0.1.103
 RFLPtools: '1.6'
 rfm: 0.2.1
 RFmarkerDetector: '1.0'
-RFmerge: 0.1-6
+RFmerge: 0.1-10
 rfml: 0.1.0
 RfmriVC: '1.0'
 Rfmtool: 3.0.0
@@ -16759,7 +16760,7 @@ swephR: 0.3.0
 sweSCB: '0.3'
 swfscMisc: '1.3'
 swgee: '1.4'
-SWIM: 0.2.0
+SWIM: 0.2.1
 SwimmeR: 0.2.0
 swirl: 2.4.5
 swirlify: 0.5.3
