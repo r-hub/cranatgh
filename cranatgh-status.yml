@@ -2052,7 +2052,7 @@ cg: 1.0-3
 cgam: '1.15'
 cgAUC: 1.2.1
 cgdsr: 1.3.0
-CGE: 0.3.2
+CGE: 0.3.3
 CGene: '1.2'
 cggd: '0.8'
 CGGP: 1.0.2
@@ -2779,7 +2779,7 @@ CorrToolBox: 1.6.2
 corset: 0.1-4
 CorShrink: 0.1-6
 cort: 0.3.1
-corTest: 0.9.8
+corTest: 1.0.0
 corto: 1.0.8
 corTools: '1.0'
 corx: 1.0.2
@@ -3142,7 +3142,7 @@ cytominer: .na.character
 czso: 0.2.3
 D2C: 1.2.1
 D3GB: '1.1'
-d3heatmap: 0.6.1.2
+d3heatmap: 0.6.1
 D3M: '0.41'
 d3Network: 0.5.2.1
 D3partitionR: 0.5.0
@@ -4182,7 +4182,7 @@ eco: 4.0-1
 EcoDiet: 1.0.0
 ecodist: 2.0.5
 ecoengine: '1.9'
-EcoGenetics: 1.2.1-5
+EcoGenetics: 1.2.1
 Ecohydmod: 1.0.0
 EcoHydRology: 0.4.12.1
 EcoIndR: '1.6'
@@ -5320,7 +5320,7 @@ forecastSNSTS: 1.3-0
 ForecastTB: 1.0.1
 forecTheta: '2.2'
 forega: '1.0'
-foreign: 0.8-79
+foreign: 0.8-80
 forensic: '0.2'
 forensim: '4.3'
 foreSIGHT: 0.9.81
@@ -7222,7 +7222,7 @@ IDE: 0.3.0
 idealstan: 0.7.2
 ideamdb: 0.0.9
 idefix: 0.4.3
-idem: '4.0'
+idem: '5.0'
 iDEMO: 0.2-0
 idendr0: 1.5.3
 identifyr: '0.1'
@@ -7938,7 +7938,7 @@ kernscr: 1.0.5
 KernSmooth: 2.23-17
 KernSmoothIRT: '6.4'
 kexpmv: 0.0.3
-keyATM: 0.1.0
+keyATM: 0.2.0
 KeyboardSimulator: 2.5.0
 keyholder: 0.1.5
 keyplayer: 1.0.3
@@ -8432,7 +8432,7 @@ lisp: '0.1'
 lisrelToR: 0.1.4
 list: '9.2'
 listarrays: 0.3.1
-listcomp: 0.2.0
+listcomp: 0.3.0
 listdtr: '1.0'
 listenv: 0.8.0
 LIStest: '2.1'
@@ -8497,7 +8497,7 @@ lmPerm: 2.1.0
 lmQCM: 0.2.1
 lmreg: '1.2'
 lmridge: '1.2'
-lmSubsets: '0.5'
+lmSubsets: 0.5-1
 lmSupport: 2.9.13
 lmtest: 0.9-37
 lmvar: 1.5.2
@@ -8597,7 +8597,7 @@ longRPart2: 0.2.3
 longurl: 0.3.0
 loo: 2.2.0
 lookupTable: '0.1'
-loon: 1.2.3
+loon: 1.3.0
 loon.data: 0.0.9
 loop: '1.1'
 LoopAnalyst: 1.2-6
@@ -11685,7 +11685,7 @@ phitest: 1.0-0
 phmm: 0.7-5
 phom: '1.0'
 phonenumber: 0.2.2
-phonfieldwork: 0.0.3
+phonfieldwork: 0.0.4
 phonics: 1.3.2
 phonR: 1.0-7
 phonTools: 0.2-2.1
@@ -11983,7 +11983,7 @@ PoisBinNonNor: 1.3.2
 poisbinom: 1.0.1
 PoisBinOrd: 1.4.2
 PoisBinOrdNonNor: 1.5.2
-PoisBinOrdNor: 1.6.1
+PoisBinOrdNor: 1.6.2
 poisDoubleSamp: '1.1'
 poisFErobust: 2.0.0
 poismf: 0.1.3
@@ -12984,7 +12984,7 @@ rationalfun: 0.1-0
 ratios: 1.2.0
 RAtmosphere: '1.1'
 ratPASTA: 0.1.0
-rattle: 5.3.0
+rattle: 5.4.0
 rattle.data: 1.0.2
 raustats: 0.15.0
 ravelRy: 0.1.0
@@ -13222,7 +13222,7 @@ RcppQuantuccia: 0.0.3
 RcppRedis: 0.1.10
 RcppRoll: 0.3.0
 RcppShark: 3.1.1
-RcppSimdJson: 0.0.4
+RcppSimdJson: 0.0.5
 RcppSMC: 0.2.1
 RcppStreams: 0.1.3
 RcppThread: 0.5.4
@@ -14104,7 +14104,7 @@ robfilter: 4.1.2
 robFitConGraph: 0.1.0
 RobGARCHBoot: 1.0.1
 robin: 1.0.1
-RobinHood: 1.2.4
+RobinHood: '1.4'
 robis: 2.1.8
 roblm: '0.6'
 RobLox: 1.2.0
@@ -15208,7 +15208,7 @@ sentryR: 1.1.0
 seoR: 0.1.0
 sEparaTe: 0.2.1
 separationplot: '1.3'
-seplyr: 0.8.7
+seplyr: 0.8.8
 seq2R: '1.0'
 SeqAlloc: '1.0'
 SeqBayesDesign: 0.1.0
@@ -15502,7 +15502,7 @@ SimilarityMeasures: '1.4'
 similarityRichards: 0.5.0
 Simile: 1.3.3
 similr: 1.0.0
-SimInf: 6.5.1
+SimInf: 7.0.0
 simIReff: '1.0'
 simITS: 0.1.1
 SimJoint: 0.3.7
@@ -15609,7 +15609,7 @@ SiZer: 0.1-7
 sjdbc: 1.6.0
 sjlabelled: 1.1.4
 sjmisc: 2.8.4
-sjPlot: 2.8.3
+sjPlot: 2.8.4
 sjstats: 0.18.0
 SK: '1.1'
 SKAT: 2.0.0
@@ -15885,7 +15885,7 @@ sound: 1.4.5
 soundcorrs: 0.1.1
 soundecology: 1.3.3
 SoundexBR: '1.2'
-soundgen: 1.6.2
+soundgen: 1.7.0
 SOUP: '1.1'
 source.gist: 1.0.0
 sourceR: 1.0.1
@@ -16098,7 +16098,7 @@ speedglm: 0.3-2
 speedR: 1.1-38
 speedRlibs: 1.1-36
 speedRlibTF: 0.3-39
-spef: 1.0.8
+spef: 1.0.9
 speff2trial: 1.0.4
 SPEI: '1.7'
 spellcheckr: 0.1.2
@@ -17176,7 +17176,7 @@ tidyselect: 1.1.0
 tidystats: '0.4'
 tidystopwords: 0.9.0
 tidystringdist: 0.1.4
-tidytable: 0.4.1
+tidytable: 0.5.0
 tidytext: 0.2.4
 tidytidbits: 0.2.2
 tidytransit: 0.7.1
