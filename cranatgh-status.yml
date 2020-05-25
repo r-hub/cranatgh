@@ -569,7 +569,7 @@ ASICS: 1.0.1
 AsioHeaders: 1.12.2-1
 ASIP: 0.4.9
 askpass: '1.1'
-aslib: '0.1'
+aslib: 0.1.1
 ASMap: 1.0-4
 asnipe: 1.1.12
 aspace: '3.2'
@@ -734,7 +734,7 @@ aziztest: 0.1.0
 AzureAuth: 1.2.4
 AzureCognitive: 1.0.0
 AzureContainers: 1.3.0
-AzureGraph: 1.1.0
+AzureGraph: 1.1.1
 AzureKeyVault: 1.0.3
 AzureKusto: 1.0.6
 AzureML: 0.2.15
@@ -820,7 +820,7 @@ baRcodeR: 0.1.5
 BarcodingR: 1.0-3
 BARD: '1.24'
 BAREB: 0.1.0
-BARIS: 1.1.0
+BARIS: 1.1.1
 bark: 0.1-0
 Barnard: '1.8'
 barplot3d: 1.0.1
@@ -1303,7 +1303,7 @@ binsreg: 0.2.0
 binst: 0.2.1
 bio.infer: 1.3-3
 bio3d: 2.4-1
-bioacoustics: 0.2.3
+bioacoustics: 0.2.4
 bioC.logs: '1.1'
 BioCircos: 0.3.4
 BiocManager: 1.30.10
@@ -3584,7 +3584,7 @@ dhReg: 0.1.0
 DHS.rates: 0.7.1
 dHSIC: '2.1'
 di: 1.1.4
-diagis: 0.1.3-1
+diagis: 0.1.4
 diagmeta: 0.4-0
 DiagnosisMed: '0.2'
 diagonals: 5.2.0
@@ -3801,7 +3801,7 @@ dlnm: 2.4.2
 dlookr: 0.3.13
 dlsem: 2.4.6
 dlstats: 0.1.3
-dm: 0.1.2
+dm: 0.1.3
 dma: 1.4-0
 dmacs: 0.1.0
 dmai: 0.4.0
@@ -4182,7 +4182,7 @@ eco: 4.0-1
 EcoDiet: 1.0.0
 ecodist: 2.0.5
 ecoengine: '1.9'
-EcoGenetics: 1.2.1
+EcoGenetics: 1.2.1-6
 Ecohydmod: 1.0.0
 EcoHydRology: 0.4.12.1
 EcoIndR: '1.6'
@@ -4376,7 +4376,7 @@ emax.glm: 0.1.2
 emayili: 0.3.9
 emba: 0.1.4
 EMbC: 2.0.3
-embed: 0.0.6
+embed: 0.1.0
 EmbedSOM: 2.1.1
 embryogrowth: '7.6'
 EMC: '1.3'
@@ -4514,7 +4514,7 @@ epanetReader: 0.7.3
 ePCR: 0.9.9-11
 EPGLM: '1.1'
 EPGMr: 1.0.0
-eph: 0.3.0
+eph: 0.3.1
 Epi: '2.40'
 epi2loc: 1.0-1
 epibase: 0.1-3
@@ -4635,7 +4635,7 @@ esotericR: '1.0'
 ESPRESSO: '2.0'
 esquisse: 0.3.0
 esreg: 0.5.0
-ess: 0.1.1
+ess: '1.0'
 essHist: 1.2.2
 essurvey: 1.0.5
 estatapi: 0.4.0
@@ -5719,7 +5719,7 @@ gDefrag: '0.2'
 GDELTtools: '1.2'
 gdiff: 0.2-1
 gdimap: 0.1-9
-GDINA: 2.7.9
+GDINA: 2.8.0
 gdistance: 1.3-1
 gdm: 1.4.2
 gdmp: 0.2.0
@@ -5730,7 +5730,7 @@ gds: 0.1.0
 gdsfmt: 1.1.0.1
 gdtools: 0.2.2
 gdxdt: 0.1.0
-GE: 0.1.0
+GE: 0.1.1
 gear: 0.3.4
 gearman: 0.1-5
 GeDS: 0.1.3
@@ -6716,7 +6716,7 @@ hashids: 0.9.0
 hashmap: 0.2.2
 hashr: 0.1.0
 hasseDiagram: 0.1.3
-haven: 2.2.0
+haven: 2.3.0
 hawkes: 0.0-4
 hazer: 1.1.1
 hazus: '0.1'
@@ -7546,7 +7546,7 @@ iNZightMR: 2.2.5
 iNZightTools: 1.8.5
 iNZightTS: 1.5.2
 io: 0.3.2
-ioanalysis: 0.3.0
+ioanalysis: 0.3.1
 IOHanalyzer: 0.1.3
 IOHexperimenter: 0.1.0
 ioncopy: 2.1.1
@@ -7966,7 +7966,7 @@ kirby21.base: 1.7.0
 kirby21.fmri: 1.7.0
 kirby21.t1: 1.7.0
 kissmig: 1.0-3
-kit: 0.0.1
+kit: 0.0.2
 kitagawa: 2.2-2
 kiwisR: 0.1.8
 kknn: 1.3.1
@@ -8129,7 +8129,7 @@ lambda.tools: 1.0.9
 Lambda4: '3.0'
 LambertW: 0.6.4
 lamme: 0.0.1
-lamW: 1.3.0
+lamW: 1.3.2
 lancet.iraqmortality: 0.2-0
 LANDD: 1.1.0
 landest: '1.0'
@@ -8143,7 +8143,7 @@ landsepi: 0.0.8
 Langevin: 1.2.1
 languagelayeR: 1.2.4
 languageR: 1.5.0
-languageserver: 0.3.5
+languageserver: 0.3.6
 languageserversetup: 0.1.2
 lans2r: 1.0.5
 LaplaceDeconv: 1.0.4
@@ -9656,7 +9656,7 @@ MM: 1.6-5
 MM2S: 1.0.6
 MM2Sdata: 1.0.3
 MM4LMM: 2.0.2
-mma: 9.0-0
+mma: 10.3-2
 mmabig: 2.0-0
 MMAC: 0.1.2
 mmand: 1.6.1
@@ -10839,7 +10839,7 @@ ODB: 1.2.1
 odbc: 1.2.2
 odds.converter: 1.4.8
 odds.n.ends: 0.1.1
-oddsratio: 2.0.0
+oddsratio: 2.0.1
 oddstream: 0.5.0
 odeintr: 1.7.1
 ODEnetwork: 1.3.2
@@ -11336,7 +11336,7 @@ partialCI: 1.2.0
 Partiallyoverlapping: '2.0'
 partialOR: '0.9'
 particles: 0.2.2
-partition: 0.1.1
+partition: 0.1.2
 partitionBEFsp: '1.0'
 partitionComparison: 0.2.5
 partitionMap: '0.5'
@@ -12404,7 +12404,7 @@ pscl: 1.5.5
 PSCN: '1.0'
 pscore: 0.1-2
 psd: 1.2.0
-psda: 1.3.3
+psda: 1.4.0
 psData: 0.2.2
 pse: 0.4.7
 pseudo: 1.4.3
@@ -12452,7 +12452,7 @@ psychReport: '0.7'
 psychrolib: 2.5.0
 PsyControl: 1.0.0.0
 psymonitor: 0.0.2
-psyosphere: 0.1.5
+psyosphere: 0.1.6
 psyphy: 0.1-9
 psytabs: '1.0'
 psyverse: 0.1.0
@@ -13516,7 +13516,7 @@ remoter: 0.4-0
 remotes: 2.1.1
 remss: 1.0.0
 rENA: 0.2.0.1
-REndo: 2.3.1
+REndo: 2.4.0
 Renext: 3.1-0
 RenextGUI: 1.4-0
 renpow: 0.1-1
@@ -14188,7 +14188,7 @@ ROI.plugin.glpk: 0.3-0
 ROI.plugin.ipop: 0.2-5
 ROI.plugin.lpsolve: 0.3-3
 ROI.plugin.msbinlp: 0.3-0
-ROI.plugin.neos: 0.3-1
+ROI.plugin.neos: 0.3-2
 ROI.plugin.nloptr: 0.3-3
 ROI.plugin.optimx: 0.3-3
 ROI.plugin.qpoases: 0.3-3
@@ -14221,7 +14221,7 @@ ROP: '1.0'
 rope: '1.0'
 ropenaq: 0.2.9
 ropenblas: 0.2.6
-ROpenCVLite: 0.3.412
+ROpenCVLite: 0.4.430
 ropendata: 0.1.0
 ROpenDota: 0.1.2
 ROpenFIGI: 0.2.8
@@ -15069,7 +15069,7 @@ searcher: 0.0.5
 SearchTrees: 0.5.2
 seas: 0.5-2
 SEAsic: '0.1'
-season: 0.3.10
+season: 0.3.11
 seasonal: 1.7.0
 seasonalview: '0.3'
 seastests: 0.14.2
@@ -15217,7 +15217,7 @@ seqDesign: '1.2'
 SeqDetect: 1.0.7
 seqest: 1.0.0
 SeqFeatR: 0.3.1
-seqgendiff: 1.2.1
+seqgendiff: 1.2.2
 SeqGrapheR: 0.4.8.5
 seqHMM: 1.0.14
 seqICP: '1.1'
@@ -15980,7 +15980,7 @@ sparseSEM: '2.5'
 sparsestep: 1.0.0
 sparsesvd: '0.2'
 sparseSVM: 1.1-6
-SparseTSCGM: '2.5'
+SparseTSCGM: '3.0'
 sparsevar: 0.0.11
 sparsio: 1.0.1
 spartan: 3.0.2
@@ -16271,7 +16271,7 @@ sse: 0.7-16
 ssev: 0.1.0
 ssfa: '1.1'
 ssfit: '1.1'
-ssgraph: '1.11'
+ssgraph: '1.12'
 ssh: '0.6'
 ssh.utils: '1.0'
 SSHAARP: 1.0.0
@@ -17651,7 +17651,7 @@ TUWmodel: 1.1-1
 tvd: 0.1.0
 tvgeom: 1.0.1
 tvm: 0.4.0
-TVMM: '2.0'
+TVMM: '3.0'
 tvR: 0.3.1
 tvReg: 0.5.2
 TVsMiss: 0.1.1
@@ -17718,7 +17718,7 @@ ukds: 0.1.0
 ukgasapi: '0.17'
 UKgrid: 0.1.2
 uklr: 1.0.1
-ukpolice: 0.1.4
+ukpolice: 0.2.0
 ulid: 0.3.0
 Ultimixt: '2.1'
 Umacs: '0.924'
@@ -18466,7 +18466,7 @@ xrf: 0.2.0
 xRing: 0.1.0
 XRJulia: 0.9.0
 xrnet: 0.1.7
-xROI: 0.9.9
+xROI: 0.9.16
 XRPython: '0.8'
 XRSCC: '0.1'
 xseq: 0.2.1
