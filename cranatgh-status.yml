@@ -245,7 +245,7 @@ AIS: '1.0'
 ajv: 1.0.0
 akc: 0.9.4
 Ake: '1.0'
-akima: 0.6-2
+akima: 0.6-2.1
 akmeans: '1.1'
 akmedoids: 0.1.5
 ALA4R: 1.8.0
@@ -482,7 +482,7 @@ aratio: '1.2'
 arc: '1.2'
 ARCensReg: '2.1'
 ArchaeoChron: '0.1'
-ArchaeoPhases: '1.4'
+ArchaeoPhases: 1.4.5
 archdata: '1.2'
 archetypal: 1.1.0
 archetypes: 2.2-0.1
@@ -1253,7 +1253,7 @@ billboard: 0.1.0
 billboarder: 0.2.8
 bim: 1.01-5
 bimetallic: '1.0'
-bimets: 1.4.3
+bimets: 1.5.0
 bimixt: '1.0'
 BimodalIndex: 1.1.9
 Binarize: '1.3'
@@ -1307,6 +1307,7 @@ binst: 0.2.1
 bio.infer: 1.3-3
 bio3d: 2.4-1
 bioacoustics: 0.2.4
+bioassays: 0.1.0
 bioC.logs: '1.1'
 BioCircos: 0.3.4
 BiocManager: 1.30.10
@@ -1324,7 +1325,7 @@ biogram: 1.6.3
 Biograph: '2.0'
 Bioi: 0.2.10
 BioIDMapper: '3.0'
-bioimagetools: 1.1.4
+bioimagetools: 1.1.5
 bioinactivation: 1.2.3
 BioInstaller: 0.3.7
 biolink: 0.1.6
@@ -1653,7 +1654,7 @@ broom.mixed: 0.2.6
 broomExtra: 4.0.2
 brotli: '1.2'
 BrownDog: 0.2.1
-Brq: '2.5'
+Brq: '3.0'
 brr: 1.0.0
 brranching: 0.5.0
 brt: 1.3.0
@@ -2135,7 +2136,7 @@ chinese.misc: 0.2.2
 chipPCR: 0.0.8-10
 ChIPtest: '1.0'
 chisq.posthoc.test: 0.1.2
-chk: 0.4.0
+chk: 0.5.0
 chlorpromazineR: 0.1.2
 CHMM: 0.1.1
 chngpt: 2020.5-21
@@ -2715,7 +2716,7 @@ copent: '0.1'
 coppeCosenzaR: 0.1.3
 coprimary: '1.0'
 cops: 1.0-2
-copula: 0.999-20
+copula: 1.0-0
 Copula.Markov: '2.8'
 Copula.Markov.survival: 0.1.0
 Copula.surv: '1.0'
@@ -3344,7 +3345,7 @@ dcmodify: 0.1.2
 dcmr: '1.0'
 DCODE: '1.0'
 dCovTS: '1.1'
-DCPO: 0.5.2
+DCPO: 0.5.3
 dcurver: 0.9.1
 dcv: 0.1.1
 ddalpha: 1.3.11
@@ -3690,7 +3691,7 @@ directPA: '1.4'
 DirectStandardisation: '1.3'
 dirichlet: '1.0'
 dirichletprocess: 0.3.1.1
-DirichletReg: 0.6-3
+DirichletReg: 0.7-0
 dirmcmc: 1.3.3
 dirmult: 0.1.3-4
 disaggregation: 0.1.3
@@ -3812,7 +3813,7 @@ dm: 0.1.3
 dma: 1.4-0
 dmacs: 0.1.0
 dmai: 0.4.0
-dmdScheme: 1.1.3
+dmdScheme: 1.1.3.1
 dml: 1.1.0
 dmm: 2.1-5
 DMMF: 0.5.1.2
@@ -3914,7 +3915,7 @@ dpglasso: '1.0'
 Dpit: '1.0'
 dplR: 1.7.1
 dplRCon: '1.0'
-dplyr: 0.8.5
+dplyr: 1.0.0
 dplyr.teradata: 0.3.2
 dplyrAssist: 0.1.0
 DPM.GGM: '0.14'
@@ -3939,7 +3940,7 @@ dragonking: 0.1.0
 dragulaR: 0.3.1
 drake: 7.12.1
 DramaAnalysis: 3.0.1
-drat: 0.1.5
+drat: 0.1.6
 draw: 1.0.0
 drawExpression: '1.0'
 DRaWR: 1.0.1
@@ -4760,7 +4761,7 @@ excursions: 2.4.5
 exdex: 1.0.1
 exif: 0.1.0
 exifr: 0.3.1
-exiftoolr: 0.1.2
+exiftoolr: 0.1.3
 ExomeCNV: '1.4'
 ExomeDepth: 1.1.15
 exp2flux: '0.1'
@@ -5453,8 +5454,8 @@ frequencyConnectedness: 0.2.2
 frequentdirections: 0.1.0
 freqweights: 1.0.4
 FRESA.CAD: 3.1.0
-fresh: 0.1.0
-FrF2: '2.2'
+fresh: 0.2.0
+FrF2: 2.2-2
 FrF2.catlg128: 1.2-1
 frite: 0.1.0
 FRK: 0.2.2.1
@@ -6188,6 +6189,7 @@ glasso: '1.11'
 glassoFast: '1.0'
 glassomix: '1.2'
 glba: '0.2'
+glca: 0.1.0
 glcm: 1.6.5
 gld: 2.6.2
 GLDEX: 2.0.0.7
@@ -6517,7 +6519,7 @@ GroupBN: 0.2.0
 GroupComparisons: 0.1.0
 groupdata2: 1.2.0
 grouped: 0.6-0
-groupedstats: 1.0.0
+groupedstats: 1.0.1
 groupedSurv: 1.0.4.1
 groupICA: .na.character
 groupRemMap: 0.1-0
@@ -7424,7 +7426,7 @@ Inflation: 0.1.0
 inflection: 1.3.5
 influence.ME: 0.9-9
 influence.SEM: '2.2'
-influenceAUC: 0.1.1
+influenceAUC: 0.1.2
 influenceR: 0.1.0
 influential: 1.0.0
 influxdbr: 0.14.2
@@ -7698,7 +7700,7 @@ ISR3: '0.98'
 ISRaD: 1.2.3
 issueReporter: 0.1.0
 istacr: 0.1.1
-iSTATS: '1.2'
+iSTATS: '1.3'
 iSubpathwayMiner: '3.0'
 isva: '1.9'
 ISwR: 2.0-8
@@ -7859,7 +7861,7 @@ JSmediation: 0.1.1
 jsmodule: 1.0.7
 json64: 0.1.3
 jSonarR: 1.1.1
-jsonify: 1.1.1
+jsonify: 1.2.0
 jsonld: '2.2'
 jsonlite: 1.6.1
 jsonstat: 0.0.2
@@ -8626,7 +8628,7 @@ lori: 2.2.0
 lossDev: 3.0.0-4
 LOST: 2.0.2
 LotkasLaw: 0.0.1.0
-lotri: 0.2.1
+lotri: 0.2.2
 lowmemtkmeans: 0.1.2
 LowRankQP: 1.0.4
 LowWAFOMNX: 1.1.1
@@ -8949,7 +8951,7 @@ matrixsampling: 2.0.0
 matrixStats: 0.56.0
 matrixStrucTest: 1.0.0
 matrixTests: 0.1.9
-matsbyname: 0.4.14
+matsbyname: 0.4.15
 matsindf: 0.3.4
 MatSkew: 0.1.5
 MATTOOLS: '1.1'
@@ -9410,7 +9412,7 @@ micropan: 2.0.1
 microplot: 1.0-42
 microPop: '1.5'
 microsamplingDesign: 1.0.7
-microseq: '2.0'
+microseq: '2.1'
 MicroStrategyR: 1.0-1
 microsynth: 2.0.13
 MicSim: 1.0.15
@@ -10470,6 +10472,7 @@ newallelic: '0.1'
 Newdistns: '2.1'
 NewmanOmics: 1.0.4
 newsanchor: 0.1.1
+newscatcheR: 0.0.1
 newsmap: 0.7.1
 newTestSurvRec: 1.0.2
 nFactors: 2.4.1
@@ -10510,7 +10513,7 @@ NightDay: 1.0.1.1
 nilde: 1.1-3
 nima: 0.6.2
 nimble: 0.9.1
-nimbleEcology: 0.2.2
+nimbleEcology: 0.3.0
 nipals: '0.7'
 Nippon: '0.7'
 NipponMap: '0.2'
@@ -10780,7 +10783,7 @@ NST: 2.0.4
 NSUM: '1.0'
 NTS: 1.1.0
 NTsets: '1.0'
-nucim: 1.0.6
+nucim: 1.0.9
 NUCOMBog: 1.0.4.2
 nullabor: 0.3.9
 numbers: 0.7-5
@@ -11237,7 +11240,7 @@ PairTrading: '1.1'
 PairViz: 1.3.3
 pairwise: 0.4.4-7
 pairwiseCI: 0.1-27
-pairwiseComparisons: 0.3.1
+pairwiseComparisons: 1.0.0
 PairwiseD: 0.9.62
 pak: 0.1.2
 PakPC2017: 1.0.0
@@ -11961,7 +11964,7 @@ pmclust: 0.2-0
 PMCMR: '4.3'
 PMCMRplus: 1.4.4
 pmd: 0.1.5
-pmdplyr: 0.3.1.1
+pmdplyr: 0.3.3
 pmfdR: '1.0'
 pmg: 0.9-43
 pmhtutorial: '1.5'
@@ -12274,7 +12277,7 @@ PRIMME: 3.1-1
 PRIMsrc: 0.8.2
 princurve: 2.1.4
 prinsimp: 0.8-8
-printr: .na.character
+printr: '0.1'
 prioGene: 1.0.1
 PriorCD: 0.1.0
 PriorGen: 1.1.2
@@ -12357,7 +12360,7 @@ ProjectionBasedClustering: 1.1.1
 projections: 0.3.1
 ProjectManagement: 1.3.3
 projector: 0.0.2
-projects: 2.1.0
+projects: 2.1.1
 ProjectTemplate: 0.9.2
 projmanr: 0.2.1
 projmgr: 0.1.0
@@ -12558,14 +12561,14 @@ pysd2r: 0.1.0
 pystr: 2.0.0
 PythonInR: 0.1-11
 pzfx: 0.2.0
-qad: 0.1.2
+qad: 0.2.0
 QAIG: 0.1.7
 qAnalyst: 0.6.4
 qap: 0.1-1
 qat: '0.74'
 QBAsyDist: 0.1.2
 qboxplot: '0.2'
-QCA: '3.8'
+QCA: 3.8.1
 QCA3: 0.0-8
 QCAfalsePositive: 1.1.1
 QCAGUI: '2.5'
@@ -13041,7 +13044,7 @@ rbhl: 0.9.0
 rbi: 0.10.3
 rbi.helpers: 0.3.1
 rbin: 0.2.0
-rbiom: 1.0.0
+rbiom: 1.0.2
 RbioRXN: '1.5'
 rbiouml: '1.9'
 rbison: 0.8.0
@@ -13105,7 +13108,7 @@ rcheology: 4.0.0.0
 rchess: '0.1'
 rchie: 1.0.2
 RchivalTag: 0.1.1
-Rchoice: '0.3'
+Rchoice: 0.3-2
 rChoiceDialogs: 1.0.6
 RChronoModel: '0.4'
 rcicr: 0.3.4.1
@@ -13614,7 +13617,7 @@ resper: '0.3'
 respirometry: 1.1.0
 RESS: '1.3'
 REST: 1.0.1
-restatapi: 0.8.0
+restatapi: 0.8.6
 restez: 1.0.0
 restfulr: 0.0.13
 restimizeapi: 1.0.0
@@ -13650,7 +13653,7 @@ Rexperigen: 0.2.1
 rexpokit: 0.26.6.6
 RFA: 0.0-9
 Rfacebook: 0.6.15
-rfacebookstat: 2.1.0
+rfacebookstat: 2.1.1
 Rfast: 1.9.9
 Rfast2: 0.0.5
 rfbCNPJ: 0.1.1
@@ -15949,7 +15952,7 @@ spaero: 0.5.0
 spagmix: 0.3-1
 spam: 2.5-1
 spam64: 2.5-1
-spaMM: 3.2.0
+spaMM: 3.3.0
 spanel: '0.1'
 spanish: 0.4.2
 spANOVA: 0.99.2
@@ -16151,7 +16154,7 @@ sphet: '1.7'
 spi: '1.1'
 SPIAssay: 1.1.0
 spider: 1.5.0
-spiderbar: 0.2.2
+spiderbar: 0.2.3
 spiders: '1.2'
 SPIGA: 1.0.0
 spikes: '1.1'
@@ -16801,7 +16804,7 @@ switchr: 0.14.3
 switchrGist: 0.2.4
 swmmr: 0.9.1
 SWMPr: 2.3.1
-SWMPrExtension: 1.1.4
+SWMPrExtension: 1.1.5
 SWordInstaller: 1.0-2
 swst: 0.0.2
 sybil: 2.1.5
@@ -17064,7 +17067,7 @@ texmexseq: '0.3'
 TexMix: 0.5.3
 TExPosition: 2.6.10.1
 texPreview: 1.4.4
-texreg: 1.36.23
+texreg: 1.37.1
 text.alignment: 0.1.1
 text2speech: 0.2.10
 text2vec: '0.6'
@@ -17205,7 +17208,7 @@ tidyselect: 1.1.0
 tidystats: '0.4'
 tidystopwords: 0.9.0
 tidystringdist: 0.1.4
-tidytable: 0.5.0
+tidytable: 0.5.1
 tidytext: 0.2.4
 tidytidbits: 0.2.2
 tidytransit: 0.7.1
@@ -17514,7 +17517,7 @@ trio: 2.1.1
 trioGxE: 0.1-1
 TrioSGL: 1.1.0
 trip: 1.6.0
-tripack: 1.3-9
+tripack: 1.3-9.1
 tripEstimation: 0.0-44
 TripleR: 1.5.3
 tripsAndDipR: 0.1.0
@@ -17874,7 +17877,7 @@ uuid: 0.1-4
 UWHAM: '1.0'
 uwIntroStats: 0.0.7
 uwot: 0.1.8
-V8: 3.0.2
+V8: 3.1.0
 VA: '1.0'
 vabayelMix: '0.3'
 vacem: 0.1-1
