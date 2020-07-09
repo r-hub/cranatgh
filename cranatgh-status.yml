@@ -285,7 +285,7 @@ alleHap: 0.9.9
 allelematch: 2.5.1
 AlleleRetain: 2.0.2
 allelic: '0.1'
-allestimates: 0.1.6
+allestimates: 0.1.7
 AllPossibleSpellings: '1.1'
 alluvial: 0.1-2
 alm: 0.4.0
@@ -1954,7 +1954,7 @@ catSurv: 1.2.0
 CATT: '2.0'
 CATTexact: 0.1.1
 cattonum: 0.0.5
-causact: 0.3.1
+causact: 0.3.2
 causaldrf: '0.3'
 causaleffect: 1.3.10
 CausalFX: 1.0.1
@@ -2173,7 +2173,7 @@ ChemoSpec2D: 0.4.147
 ChemoSpecUtils: 0.4.51
 cherry: 0.6-13
 cherryblossom: 0.1.0
-chest: 0.3.1
+chest: 0.3.2
 CHFF: 0.1.0
 chi: '0.1'
 chi2x3way: '1.1'
@@ -5696,7 +5696,7 @@ futile.options: 1.0.1
 futile.paradigm: 2.0.4
 fUtilities: '290.76'
 futility: '0.4'
-future: 1.17.0
+future: 1.18.0
 future.apply: 1.6.0
 future.BatchJobs: 0.16.2
 future.batchtools: 0.9.0
@@ -6370,7 +6370,7 @@ GLMMarp: 0.1-1
 glmmboot: 0.5.1
 glmmBUGS: 2.4.2
 glmmEP: 1.0-3.1
-glmmfields: 0.1.3
+glmmfields: 0.1.4
 GLMMGibbs: '0.5'
 glmmGS: '0.5'
 glmmLasso: 1.5.1
@@ -9979,7 +9979,7 @@ modelr: 0.1.8
 modelStudio: 1.1.0
 modelsummary: 0.5.0
 modeltests: 0.1.2
-modeltime: 0.0.1
+modeltime: 0.0.2
 modeltools: 0.2-23
 modelwordcloud: '0.1'
 moderndive: 0.4.0
@@ -9988,7 +9988,7 @@ modest: 0.3-1
 modesto: 0.1.2
 modEvA: '2.0'
 modeval: 0.1.3
-modgetxl: '0.3'
+modgetxl: '0.4'
 modi: 0.1.0
 modifiedmk: 1.5.0
 MODIS: 1.2.2
@@ -10161,6 +10161,7 @@ MRFA: '0.4'
 MRFcov: 1.0.37
 mrfDepth: 1.0.12
 mrfse: '0.2'
+mrgsim.parallel: 0.1.1
 mrgsolve: 0.10.4
 MRH: '2.2'
 MRHawkes: '1.0'
@@ -10168,6 +10169,7 @@ mri: 1.0.1
 MRIaggr: '1.1'
 mritc: 0.5-2
 mRm: 1.1.6
+MRmediation: 1.0.0
 mrMLM: '4.0'
 mrMLM.GUI: '4.0'
 MRMR: 0.1.4
@@ -10209,7 +10211,7 @@ mscsweblm4r: 0.1.2
 msd: 0.2.0
 msda: 1.0.2
 msde: 1.0.4
-MsdeParEst: .na.character
+MsdeParEst: '1.7'
 msDilution: 1.0.2
 mseapca: '1.0'
 MSeasy: '5.3'
@@ -10278,7 +10280,7 @@ MTSKNN: 0.0-5
 MTSYS: 1.2.0
 MTurkR: 0.8.0
 MTurkRGUI: 0.1.5
-MUACz: .na.character
+MUACz: 2.0.0
 MUCflights: 0.0-3
 MuChPoint: 0.6.1
 muckrock: 0.1.0
@@ -10332,7 +10334,7 @@ multigraph: '0.93'
 multigroup: 0.4.5
 MultiJoin: 0.1.1
 MultiKink: 0.1.0
-multilaterals: .na.character
+multilaterals: '1.0'
 MultiLCIRT: '2.11'
 multilevel: '2.6'
 multilevelMatching: 1.0.0
@@ -10416,7 +10418,7 @@ mut: '1.1'
 mutatr: '0.1'
 mutoss: 0.1-12
 mutossGUI: 0.1-11
-mutSignatures: '1.2'
+mutSignatures: 2.0.1
 muUtil: 1.6.0
 MuViCP: 1.3.2
 MVA: 1.0-6
@@ -10453,7 +10455,7 @@ mvnormalTest: 1.0.0
 mvnormtest: 0.1-9
 mvnpermute: 1.0.0
 mvnTest: 1.1-0
-MVNtestchar: 1.0.2
+MVNtestchar: 1.1.0
 mvord: 1.0.1
 mvoutlier: 2.0.9
 mvp: 1.0-8
@@ -10536,7 +10538,7 @@ nat.nblast: 1.6.5
 nat.templatebrains: '0.9'
 nat.utils: 0.5.1
 nationwider: 1.1.1
-natmanager: 0.4.0
+natmanager: 0.4.6
 natserv: 1.0.0
 natural: 0.9.0
 naturalsort: 0.1.3
@@ -10580,7 +10582,7 @@ ncodeR: 0.2.0.1
 ncomplete: 1.0-1
 nCopula: 0.1.1
 ncpen: 1.0.0
-NCSampling: .na.character
+NCSampling: '1.0'
 NCSCopula: 1.0.1
 NCutYX: 0.1.0
 ncvar: 1.0-4
@@ -10602,7 +10604,7 @@ needmining: 0.1.1
 needs: 0.0.3
 needy: '0.2'
 NEff: '1.1'
-NegBinBetaBinreg: .na.character
+NegBinBetaBinreg: '1.0'
 negenes: 1.0-12
 neighbr: 1.0.3
 neldermead: 1.0-11
@@ -10626,6 +10628,7 @@ netassoc: 0.6.3
 netCDF: '1.5'
 netchain: 0.2.0
 netClass: '1.2'
+netClust: 1.0.1
 NetCluster: '0.2'
 netcoh: '0.2'
 netCoin: 1.1.25
@@ -10671,6 +10674,7 @@ NetworkExtinction: 0.1.1
 networkGen: 0.1.1
 NetworkInference: 1.2.4
 networkR: 0.1.2
+NetworkReg: '1.0'
 networkreporting: 0.1.1
 NetworkRiskMeasures: 0.1.4
 NetworkSim: 0.1.0
@@ -10791,7 +10795,7 @@ nls.multstart: 1.1.0
 nls2: '0.2'
 NLSdata: '0.9'
 nlsem: '0.8'
-nlshelper: .na.character
+nlshelper: '0.2'
 nlshrink: 1.0.1
 nlsMicrobio: 0.0-1
 nlsmsn: 0.0-5
@@ -10815,7 +10819,7 @@ NMF: 0.22.0
 nmfem: 1.0.5
 nmfgpu4R: 0.2.5.2
 NMFN: '2.0'
-NMI: .na.character
+NMI: '2.0'
 Nmisc: 0.3.5
 nmixgof: 0.1.0
 NMMAPSlite: '0.3'
@@ -10833,7 +10837,7 @@ nneo: 0.1.0
 nnet: 7.3-14
 nnetpredint: '1.2'
 nnfor: 0.9.6
-nnGarrote: 1.0.2
+nnGarrote: 1.0.3
 nngeo: 0.3.8
 nnlasso: '0.3'
 nnlib2Rcpp: 0.1.4
@@ -10847,7 +10851,7 @@ nnTensor: 1.0.5
 nntrf: 0.1.0
 noaaoceans: 0.2.0
 noaastormevents: 0.1.1
-NOAAWeather: .na.character
+NOAAWeather: 0.1.0
 NobBS: 0.1.0
 noctua: 1.7.1
 nodbi: 0.4.0
@@ -10858,7 +10862,7 @@ noia: 0.97.1
 noise: '1.0'
 NoiseFiltersR: 0.1.0
 noisyCE2: 1.0.0
-nomadlist: .na.character
+nomadlist: 0.1.0
 nombre: 0.1.0
 nomclust: 2.1.6
 NominalLogisticBiplot: '0.2'
@@ -10879,7 +10883,7 @@ nonlinearTseries: 0.2.10
 nonmem2R: 0.2.1
 nonmemica: 0.9.1
 nonneg.cg: 0.1.6
-nonnest2: 0.5-4
+nonnest2: 0.5-5
 NonNorMvtDist: 1.0.2
 nonpar: 1.0.2
 nonparaeff: 0.5-8
@@ -10934,7 +10938,7 @@ nparACT: '0.8'
 nparcomp: '3.0'
 nparLD: '2.1'
 nparMD: 0.1.0
-nparsurv: .na.character
+nparsurv: 0.1.0
 NPBayesImpute: '0.6'
 NPBayesImputeCat: '0.2'
 npbr: '1.6'
@@ -10969,7 +10973,8 @@ NPP: 0.2.0
 nppbib: 1.1-0
 npphen: 1.1-0
 nprcgenekeepr: 1.0.3
-npreg: 1.0-2
+npreg: 1.0-3
+npregderiv: '1.0'
 npregfast: 1.5.1
 npRmpi: 0.60-2
 nprobust: 0.3.0
@@ -11023,7 +11028,7 @@ numDeriv: 2016.8-1.1
 Numero: 1.6.0
 numform: 0.6.0
 numGen: 0.1.1
-numKM: .na.character
+numKM: 0.2.0
 numOSL: '2.6'
 NutrienTrackeR: 0.99.2
 nutriNetwork: 0.1.1
@@ -11077,16 +11082,17 @@ occ: '1.1'
 ocd: '1.0'
 oce: 1.2-0
 ocean: 0.2-4
-oceanis: 1.7.3
+oceanis: 1.7.4
 oceanmap: 0.1.1
 OceanView: 1.0.5
-oceanwaves: .na.character
+oceanwaves: 0.1.0
 ocedata: 0.1.8
 ockc: '1.0'
 oclust: 0.1.0
 OCNet: 0.3.1
 ocomposition: '1.1'
 ocp: 0.1.1
+ocs4R: '0.1'
 OData: '0.6'
 ODB: 1.2.1
 odbc: 1.2.3
@@ -11194,7 +11200,7 @@ openblender: 0.5.81
 opencage: 0.1.4
 opencastR: 0.1.3
 OpenCL: 0.2-1
-opencpu: 2.1.7
+opencpu: 2.2.0
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
 openCR: 1.4.1
@@ -11203,7 +11209,7 @@ opendatatoronto: 0.1.3
 opendotaR: 0.1.4
 openEBGM: 0.8.3
 OpenImageR: 1.1.7
-openintro: 1.7.1
+openintro: 2.0.0
 OpenLand: 1.0.1
 openmetrics: 0.1.1
 OpenML: '1.10'
@@ -11283,7 +11289,7 @@ optmatch: 0.9-13
 optparse: 1.6.6
 optpart: 3.0-3
 optR: 1.2.5
-optrcdmaeAT: .na.character
+optrcdmaeAT: 1.0.0
 optrdd: '1.0'
 optrees: '1.0'
 OptSig: '2.1'
@@ -11353,6 +11359,7 @@ orthoDr: 0.6.4
 orthogonalsplinebasis: 0.1.6
 OrthoPanels: 1.1-3
 orthopolynom: 1.0-5
+oRus: 1.0.0
 OSACC: '1.0'
 osc: 1.0.5
 OscillatorGenerator: 0.1.0
@@ -11541,7 +11548,7 @@ papeR: 1.0-4
 paperplanes: 0.0.1.9
 papply: '0.1'
 parade: '0.1'
-paradox: 0.2.0
+paradox: 0.3.0
 parallelDist: 0.2.4
 ParallelForest: 1.1.0
 parallelize.dynamic: '0.9'
@@ -11572,11 +11579,12 @@ Pareto: 2.0.0
 ParetoPosStable: '1.1'
 parfm: 2.7.6
 parfossil: 0.2.0
-parglm: 0.1.4
+parglm: 0.1.5
 parlitools: 0.4.1
 parma: 1.5-3
 parmigene: 1.0.2
 parmsurvfit: 0.1.0
+paropt: '0.1'
 PARSE: 0.1.0
 parsec: 1.2.3
 parsedate: 1.2.0
@@ -11584,7 +11592,7 @@ parsemsf: 0.1.1
 parser: '0.1'
 parsetools: 0.1.3
 parSim: 0.1.1
-parsnip: 0.1.1
+parsnip: 0.1.2
 parspatstat: 0.1-4
 PartCensReg: '1.39'
 partDSA: 0.9.14
@@ -11615,7 +11623,7 @@ PASSED: 1.0-2
 passport: 0.2.0
 passt: 0.1.1
 password: 1.0-0
-pasta: .na.character
+pasta: 0.1.0
 pastecs: 1.3.21
 pastis: 0.1-2
 PASWR: '1.1'
@@ -11697,7 +11705,8 @@ PCA4TS: '0.1'
 PCA4you: 1.2.4
 pcaBootPlot: 0.2.0
 pcadapt: 4.3.3
-PCADSC: .na.character
+PCADSC: 0.8.0
+pcal: 1.0.0
 pcaL1: 1.5.4
 pcalg: 2.6-10
 pCalibrate: 0.2-1
@@ -11720,6 +11729,7 @@ pcg: '1.1'
 pcgen: 0.2.0
 PCGSE: '0.4'
 pch: '1.4'
+pchc: '0.1'
 PCICt: 0.5-4.1
 pcIRT: 0.2.4
 PCIT: 1.5-3
@@ -11792,7 +11802,7 @@ pedigreemm: 0.3-3
 pedigreeTools: '0.1'
 pedmut: 0.1.0
 pedometrics: 0.7.0
-pedprobr: 0.2.0
+pedprobr: '0.3'
 pedquant: 0.1.5
 pedSimulate: 0.0.4
 pedtools: 0.9.4
@@ -11841,7 +11851,7 @@ performanceEstimation: 1.1.0
 pergola: '1.0'
 peRiodiCS: 0.5.0
 PeriodicTable: 0.1.2
-periscope: 0.4.10-1
+periscope: 0.5.1
 perm: 1.0-0.0
 PermAlgo: '1.1'
 PerMallows: '1.13'
@@ -11874,12 +11884,13 @@ perturbR: 0.1.3
 pesel: 0.7.3
 pesticides: '0.1'
 PET: 0.5.1
-PetfindeR: 2.0.0
+PetfindeR: 2.1.0
 petitr: '1.0'
 pETM: 0.1.5
 petrinetR: 0.2.1
 petro.One: 0.2.3
 pewdata: 0.3.1
+pexm: 1.0.0
 pez: 1.2-0
 PF: '9.5'
 pfa: '1.1'
@@ -11953,7 +11964,7 @@ phmm: 0.7-5
 phom: '1.0'
 phonenumber: 0.2.2
 phonfieldwork: 0.0.6
-phonics: 1.3.2
+phonics: 1.3.6
 phonR: 1.0-7
 phonTools: 0.2-2.1
 photobiology: 0.10.4
@@ -12041,7 +12052,7 @@ pinnacle.API: 2.3.3
 pinnacle.data: 0.1.4
 pinochet: 0.1.0
 pinp: 0.0.9
-pins: 0.4.1
+pins: 0.4.2
 PINSPlus: 2.0.4
 pinyin: 1.1.6
 pipe.design: 0.5.1
@@ -12069,12 +12080,12 @@ PKconverter: '1.5'
 pkDACLASS: '1.0'
 PKfit: 1.2.5
 pkgbuild: 1.0.8
-pkgcache: 1.0.7
+pkgcache: 1.1.0
 pkgcond: 0.1.0
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdown: 1.5.1
-pkgfilecache: .na.character
+pkgfilecache: 0.1.2
 pkggraph: 0.2.3
 pkgKitten: 0.1.5
 pkgload: 1.1.0
@@ -12132,7 +12143,7 @@ plgp: 1.1-7
 pliable: '1.1'
 plink: 1.5-1
 plinkFile: 0.1.0
-plinkQC: 0.3.0
+plinkQC: 0.3.2
 PLIS: '1.1'
 plm: 2.2-3
 plmDE: '1.0'
@@ -12143,7 +12154,7 @@ pln: 0.2-1
 PLNmodels: 0.10.6
 plogr: 0.2.0
 PLordprob: '1.1'
-plot.matrix: .na.character
+plot.matrix: '1.4'
 plot2groups: '0.10'
 plot3D: '1.3'
 plot3Drgl: 1.0.1
@@ -12152,7 +12163,7 @@ plotAndPlayGTK: 0.8.78
 PlotContour: 0.1.0
 plotdap: 0.0.7
 plotfunctions: '1.4'
-plotGMM: 0.2.1
+plotGMM: 0.2.2
 plotGoogleMaps: '2.2'
 plothelper: 0.1.9
 plotKML: 0.6-1
@@ -12276,7 +12287,7 @@ polaroid: 0.0.1
 poLCA: 1.4.1
 policytree: '1.0'
 polidata: 0.1.0
-poliscidata: 2.2.3
+poliscidata: 2.3.0
 polished: 0.1.0
 polite: 0.1.1
 politeness: 0.6.0
@@ -12376,7 +12387,7 @@ PoSI: '1.0'
 postal: 0.1.1
 PostcodesioR: 0.1.1
 postCP: 1.7.2
-postDoubleR: .na.character
+postDoubleR: 1.4.12
 posterdown: '1.0'
 PosteriorBootstrap: 0.1.0
 postGIStools: 0.2.4
@@ -12480,6 +12491,7 @@ PredictTestbench: 1.1.3
 predkmeans: 0.1.1
 predmixcor: 1.1-1
 PredPsych: '0.4'
+predReliability: 0.1.0
 predtoolsTS: 0.1.1
 prefeR: 0.1.1
 preference: 1.1.3
@@ -12577,7 +12589,7 @@ processdata: '0.8'
 processmapR: 0.3.4
 processmonitR: 0.1.0
 processR: 0.2.3
-processx: 3.4.2
+processx: 3.4.3
 ProcMod: 1.0.3
 ProDenICA: '1.0'
 prodest: 1.0.1
@@ -12602,7 +12614,7 @@ profmem: 0.5.0
 ProFound: 1.3.4
 ProfoundData: 0.2.1
 profr: 0.3.3
-proftools: 0.99-2
+proftools: 0.99-3
 profvis: 0.3.6
 progenyClust: '1.2'
 ProgGUIinR: 0.0-4
@@ -12706,7 +12718,7 @@ pso: 1.0.3
 psoptim: '1.0'
 pspearman: 0.3-0
 pspline: 1.0-17
-pspline.inference: '0.23'
+pspline.inference: '0.24'
 PSPManalysis: 0.2.2
 pssm: '1.1'
 PSSMCOOL: 0.1.0
@@ -12731,6 +12743,7 @@ psychotools: 0.5-1
 psychotree: 0.15-3
 psychReport: 1.1.0
 psychrolib: 2.5.0
+psychTools: 1.9.12
 PsyControl: 1.0.0.0
 psymonitor: 0.0.2
 psyosphere: 0.1.6
@@ -12757,7 +12770,7 @@ PTXQC: 1.0.5
 ptycho: 1.1-4
 PubBias: '1.0'
 pubchunks: 0.2.2
-pubh: 1.1.6
+pubh: 1.1.16
 PublicationBias: 2.0.0
 publipha: 0.1.1
 Publish: 2019.12.04
@@ -12818,7 +12831,7 @@ pyramid: '1.5'
 pysd2r: 0.1.0
 pystr: 2.0.0
 PythonInR: 0.1-12
-pzfx: 0.2.0
+pzfx: 0.3.0
 qad: 0.2.0
 QAIG: 0.1.7
 qAnalyst: 0.6.4
@@ -12951,7 +12964,7 @@ qtlnet: 1.5.4
 QTLNetworkR: 0.1-7
 QTLRel: '1.6'
 QTOCen: 0.1.1
-Qtools: 1.5.1
+Qtools: 1.5.2
 qtpaint: 0.9.1
 qtutils: 0.1-3
 QuACN: 1.8.0
@@ -12975,7 +12988,7 @@ Quandl: 2.10.0
 quantable: 0.3.6
 quantchem: '0.13'
 quantdates: '1.0'
-quanteda: 2.0.1
+quanteda: 2.1.0
 quanteda.textmodels: 0.9.1
 quantification: 0.2.0
 QuantifQuantile: '2.2'
@@ -13131,7 +13144,7 @@ Radviz: 0.9.2
 RAdwords: 0.1.18
 rafalib: 1.0.0
 RAFM: '1.1'
-ragg: 0.3.0
+ragg: 0.3.1
 RagGrid: 0.2.0
 rags2ridges: 2.2.2
 ragt2ridges: 0.3.4
@@ -13277,7 +13290,7 @@ RationalExp: 0.2.2
 rationalfun: 0.1-0
 ratios: 1.2.0
 RAtmosphere: '1.1'
-ratPASTA: 0.1.1
+ratPASTA: 0.1.2
 rattle: 5.4.0
 rattle.data: 1.0.2
 raustats: 0.15.0
@@ -13315,7 +13328,7 @@ rbi.helpers: 0.3.2
 rbin: 0.2.0
 rbiom: 1.0.2
 RbioRXN: '1.5'
-rbiouml: '1.9'
+rbiouml: '1.10'
 rbison: 1.0.0
 rbit: 1.0.0
 Rbitcoin: 0.9.2
@@ -13336,6 +13349,7 @@ RBPcurve: '1.2'
 rbraries: 0.2.0
 rbridge: 1.0.2
 RBrownie: 0.1.1
+rbscCI: 0.1.0
 rbtc: 0.1-6
 RBtest: '1.1'
 rbtt: 0.1.0
@@ -13356,7 +13370,7 @@ rcarbon: 1.3.1
 rCarto: '0.8'
 rcartocolor: 2.0.0
 RCassandra: 0.1-3
-rCAT: .na.character
+rCAT: 0.1.6
 rCBA: 0.4.3
 rcbalance: 1.8.5
 rcbsubset: 1.1.4
@@ -13385,7 +13399,7 @@ rcicr: 0.3.4.1
 RCircos: 1.2.1
 rcites: 1.1.0
 rcitoid: 0.1.0
-Rclean: .na.character
+Rclean: 1.0.0
 RClickhouse: 0.5.2
 rclimateca: 1.0.3
 RClimMAWGEN: '1.1'
@@ -13451,7 +13465,7 @@ RcmdrPlugin.StatisticalURV: 1.0-1
 RcmdrPlugin.steepness: 0.3-2
 RcmdrPlugin.survival: 1.2-1
 RcmdrPlugin.SurvivalT: 1.0-7
-RcmdrPlugin.sutteForecastR: .na.character
+RcmdrPlugin.sutteForecastR: 1.0.0
 RcmdrPlugin.TeachingDemos: 1.1-0
 RcmdrPlugin.TeachStat: 1.0.10
 RcmdrPlugin.temis: 0.7.10
@@ -13470,7 +13484,7 @@ rcompletion: 0.1-2
 rcongresso: 0.4.6
 RConics: '1.0'
 rconifers: 1.0.7
-rcoreoa: .na.character
+rcoreoa: 0.4.0
 rcorpora: 2.0.0
 rcosmo: 1.1.2
 Rcplex: 0.3-3
@@ -13489,7 +13503,7 @@ RcppCCTZ: 0.2.7
 RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
 RcppCNPy: 0.2.10
-RcppCWB: 0.2.10
+RcppCWB: 0.3.0
 RcppDate: 0.0.1
 RcppDE: 0.1.6
 RcppDist: 0.1.1
@@ -13520,7 +13534,7 @@ RcppQuantuccia: 0.0.3
 RcppRedis: 0.1.10
 RcppRoll: 0.3.0
 RcppShark: 3.1.1
-RcppSimdJson: 0.0.6
+RcppSimdJson: 0.1.0
 RcppSMC: 0.2.1
 RcppStreams: 0.1.3
 RcppThread: 0.5.4
@@ -13565,7 +13579,7 @@ rdatamarket: '0.6'
 rdataretriever: 2.0.0
 Rdbi: 0.1-2
 Rdbi.PgSQL: 0.1-2
-rdbnomics: 0.6.1
+rdbnomics: 0.6.2
 Rdca: 0.1.0
 rdd: '0.57'
 rddapp: 1.2.1
@@ -13680,6 +13694,7 @@ rebus.numbers: 0.0-1
 rebus.unicode: 0.0-2
 RECA: '1.7'
 recalls: 0.1.0
+recapr: 0.4.3
 reccsim: 0.9-1
 recexcavAAR: 0.3.0
 rechonest: '1.2'
@@ -13705,7 +13720,7 @@ RECSO: '1.0'
 RecurRisk: 1.0.2
 recurse: 1.1.2
 red: 1.5.0
-reda: 0.5.1
+reda: 0.5.2
 ReDaMoR: 0.4.2
 REdaS: 0.9.3
 redcapAPI: '2.3'
@@ -13718,7 +13733,7 @@ REddyProcNCDF: 1.1.4
 redist: 1.3-3
 redland: 1.0.17-11
 redlistr: 1.0.3
-rEDM: 1.3.8.5
+rEDM: 1.5.0
 Redmonder: 0.2.0
 redR: 1.0.1
 redshiftTools: 1.0.1
@@ -13757,6 +13772,7 @@ regmedint: 0.1.0
 regnet: 0.4.0
 regplot: '1.1'
 regpro: 0.1.1
+regrap: 1.0.1
 regress: 1.3-21
 RegressionFactory: 0.7.2
 regressoR: 1.1.9
@@ -13796,7 +13812,7 @@ reldist: 1.6-6
 Relectoral: 0.1.0
 relen: 1.0.1
 relevent: 1.0-4
-Relexon: .na.character
+Relexon: 0.2.1
 relgam: '1.0'
 Reliability: 0.0-2
 ReliabilityTheory: 0.1.5
@@ -13879,7 +13895,7 @@ rerddapXtracto: 0.4.8
 REREFACT: '1.0'
 reReg: 1.2.1
 rerf: 2.0.4
-rERR: .na.character
+rERR: '0.1'
 resample: '0.4'
 resampledata: 0.3.1
 resautonet: '1.0'
@@ -13932,7 +13948,7 @@ reweight: 1.2.1
 rewie: 0.1.0
 rex: 1.2.0
 Rexperigen: 0.2.1
-rexpokit: 0.26.6.6
+rexpokit: 0.26.6.7
 RFA: 0.0-9
 Rfacebook: 0.6.15
 rfacebookstat: 2.1.1
@@ -14122,7 +14138,7 @@ RImpala: 0.1.6
 rinat: 0.1.5
 rindex: '0.12'
 rinform: 1.0.2
-ring: .na.character
+ring: 1.0.0
 ringbuffer: '1.1'
 ringscale: 0.1.2
 RInno: 1.0.1
@@ -14144,7 +14160,7 @@ risaac: '0.1'
 RISCA: 0.8.2
 rise: 1.0.4
 rIsing: 0.1.0
-Risk: .na.character
+Risk: '1.0'
 riskclustr: '0.3'
 riskCommunicator: 0.1.0
 riskParityPortfolio: 0.2.1
@@ -14174,7 +14190,7 @@ rjacobi: 0.9.2
 rjade: '0.1'
 RJafroc: 1.3.2
 rjags: 4-10
-rJava: 0.9-12
+rJava: 0.9-13
 rJavax: '0.3'
 rjazz: 0.1.7
 RJDBC: 0.2-8
@@ -14226,7 +14242,7 @@ rlandscape: '1.0'
 rlang: 0.4.6
 rlas: 1.3.6
 RLastFM: 0.1-5
-rlc: .na.character
+rlc: 0.2.0
 rld: '1.0'
 Rlda: 0.2.6
 rLDCP: 1.0.2
@@ -14254,7 +14270,7 @@ RLRsim: 3.1-6
 Rlsf: 1.1.1
 RLT: 3.2.2
 rLTP: 0.1.4
-RLumCarlo: 0.1.5
+RLumCarlo: 0.1.6
 RLumModel: 0.2.5
 RLumShiny: 0.2.2
 rly: 1.6.2
@@ -14273,12 +14289,13 @@ rmangal: 2.0.0
 rmapshaper: 0.4.4
 rmapzen: 0.4.2
 rmargint: 1.0.2
-RMariaDB: 1.0.8
+RMariaDB: 1.0.9
 RmarineHeatWaves: 0.17.0
 RMark: 2.2.7
 rmarkdown: '2.3'
 rmatio: 0.14.0
 RMAWGEN: 1.3.7
+Rmbal: 0.1.0
 RMC: '0.2'
 rmcfs: 1.3.1
 rmcorr: 0.4.0
@@ -14327,7 +14344,7 @@ rmongodb: 1.8.0
 Rmonkey: 0.3.1
 rMorningStar: 1.0.6
 Rmosek: 1.3.5
-rMouse: .na.character
+rMouse: '0.1'
 rmp: '2.0'
 Rmpfr: 0.8-1
 Rmpi: 0.6-9
@@ -14355,7 +14372,7 @@ RNAseqNet: 0.1.4
 rnaseqWrapper: 1.0-1
 RNAsmc: 0.6.0
 rnassqs: 0.5.0
-RNAstructureModuleMiner: .na.character
+RNAstructureModuleMiner: 0.1.0
 rnaturalearth: 0.1.0
 rnaturalearthdata: 0.1.0
 RnavGraph: 0.1.8
@@ -14370,7 +14387,7 @@ RNCEP: 1.0.10
 rncl: 0.8.4
 RND: '1.2'
 RndTexExams: '1.5'
-rNeighborGWAS: 1.0.0
+rNeighborGWAS: 1.2.0
 rNeighborQTL: 1.0.0
 RNentropy: 1.2.2
 RNeo4j: 1.6.4
@@ -14394,8 +14411,8 @@ Rnightlights: 0.2.4
 Rnightly: 0.1.0
 rNMF: 0.5.0
 Rnmr1D: 1.2.5
-rnn: 0.9.8
-rnoaa: 1.0.0
+rnn: 1.4.0
+rnoaa: 1.1.0
 rNOMADS: 2.4.2
 RNOmni: 0.7.1
 Rnotes: 1.1-1
@@ -14422,7 +14439,7 @@ robFitConGraph: 0.1.0
 RobGARCHBoot: 1.0.1
 robin: 1.0.1
 RobinHood: '1.4'
-robis: 2.1.8
+robis: 2.3.9
 roblm: '0.6'
 RobLox: 1.2.0
 RobLoxBioC: 1.2.0
@@ -14475,7 +14492,7 @@ rock: 0.1.0
 rockchalk: 1.8.144
 RockFab: '1.2'
 rocNIT: '1.0'
-ROCnReg: 1.0-1
+ROCnReg: 1.0-2
 rococo: 1.1.7
 rocplus: 1.0-0
 ROCR: 1.0-11
@@ -14486,7 +14503,7 @@ rocTree: 1.1.0
 ROCwoGS: '1.0'
 Rodam: 0.1.6
 RODBC: 1.3-17
-RODBCDBI: .na.character
+RODBCDBI: 0.1.1
 RODBCext: 0.3.2
 rodd: 0.2-1
 rODE: 0.99.6
