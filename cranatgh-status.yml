@@ -511,7 +511,7 @@ arcos: '1.1'
 ArDec: '2.0'
 ARDL: 0.1.0
 ArduinoControl: '1.0'
-areal: 0.1.6
+areal: 0.1.7
 arealDB: 0.3.4
 areaplot: 1.2-1
 arena2r: 1.0.0
@@ -1191,7 +1191,7 @@ bfw: 0.4.1
 BGData: 2.1.0
 bgeva: 0.3-1
 BGGE: 0.6.5
-BGGM: 2.0.0
+BGGM: 2.0.1
 bggum: 1.0.2
 bglm: '1.0'
 BGLR: 1.0.8
@@ -1772,7 +1772,7 @@ BuyseTest: 2.1.3
 Bvalue: '1.0'
 BVAR: 1.0.0
 bvarsv: '1.1'
-bvartools: 0.0.2
+bvartools: 0.0.3
 bvenn: '0.1'
 bvls: '1.4'
 bvpSolve: 1.4.1
@@ -3622,7 +3622,7 @@ detrendeR: 1.0.4
 detrendr: 0.6.7
 deTS: '1.0'
 DetSel: 1.0.4
-detzrcr: 0.3.0
+detzrcr: 0.3.1
 devEMF: '3.8'
 devFunc: '0.1'
 DEVis: 1.0.1
@@ -4275,7 +4275,7 @@ ebreg: 0.1.2
 EBS: '3.1'
 eBsc: '4.9'
 ebSNP: '1.0'
-ecap: 0.1.1
+ecap: 0.1.2
 ecb: '0.2'
 ecce: 1.0.7
 ECctmc: 0.2.5
@@ -4384,6 +4384,7 @@ EEM: 1.1.1
 eemR: 1.0.1
 eeptools: 1.2.4
 eesim: 0.1.0
+EFA.dimensions: 0.1.6
 EFA.MRFA: 1.0.9
 EFAtools: 0.1.1
 EFAutilities: 2.0.0
@@ -7641,7 +7642,7 @@ INLAMSM: '0.1'
 INLAutils: 0.0.5
 inline: 0.3.15
 inlinedocs: 2019.12.5
-inlmisc: 0.4.9
+inlmisc: 0.5.0
 inops: 0.0.1
 iNOTE: '1.0'
 inpdfr: 0.1.11
@@ -7712,6 +7713,7 @@ InterSIM: 2.2.0
 InterVA4: 1.7.6
 InterVA5: 1.1.0
 interval: 1.1-0.1
+intervalaverage: 0.8.0
 intervals: 0.15.2
 IntervalSurgeon: '1.0'
 intervcomp: 0.1.2
@@ -7938,7 +7940,7 @@ iWeigReg: '1.0'
 iWISA: 1.0-2
 iwtp: 1.0.0
 iZID: 0.0.1
-J4R: 1.0.7
+J4R: 1.0.8
 jaatha: 3.2.1
 jabr: 0.1.2
 jaccard: 0.1.0
@@ -8404,6 +8406,7 @@ lavaan.survey: 1.1.3.1
 lavaanPlot: 0.5.1
 lavaSearch2: 1.5.5
 Lavash: '1.0'
+LAWBL: 1.1.0
 lawn: 0.5.0
 lawstat: '3.4'
 lax: 1.1.0
@@ -8631,7 +8634,7 @@ LinkedMatrix: 1.4.0
 linkim: '0.1'
 linkprediction: 1.0-0
 linkR: 1.1.1
-linkspotter: 1.2.0
+linkspotter: 1.3.0
 linl: 0.0.4
 linLIR: '1.1'
 linpk: '1.0'
@@ -9247,7 +9250,7 @@ MCDA: 0.0.20
 MCDM: '1.2'
 MCE: '1.1'
 mcemGLM: 1.1.1
-mcen: '1.1'
+mcen: '1.2'
 mcga: 3.0.3
 mcgfa: 2.2.1
 mcgibbsit: 1.1.0
@@ -9319,7 +9322,7 @@ md.log: 0.1.1
 mda: 0.5-2
 mDAG: 1.2.2
 mdapack: 0.0.2
-mdatools: 0.11.0
+mdatools: 0.11.1
 MDBED: 1.0.0
 MDD: '0.5'
 mde: 0.2.1
@@ -10568,7 +10571,7 @@ natural: 0.9.0
 naturalsort: 0.1.3
 NatureSounds: 1.0.3
 nauf: 1.1.0
-nawtilus: 0.1.3
+nawtilus: 0.1.4
 NB: '0.9'
 NB.MClust: 1.1.1
 NBAloveR: 0.1.3.3
@@ -11115,7 +11118,7 @@ oceanwaves: 0.1.0
 ocedata: 0.1.8
 ockc: '1.0'
 oclust: 0.1.0
-OCNet: 0.3.1
+OCNet: 0.3.2
 ocomposition: '1.1'
 ocp: 0.1.1
 ocs4R: '0.1'
@@ -11538,6 +11541,7 @@ palettesForR: 0.1.2
 palettetown: 0.1.1
 palinsol: '0.93'
 palm: 1.1.3
+palmerpenguins: 0.1.0
 palmtree: 0.9-1
 paloma: 1.2.2
 palr: 0.2.0
@@ -12264,7 +12268,7 @@ pmml: 2.3.1
 pmmlTransformations: 1.3.3
 pmpp: 0.1.1
 pmr: 1.2.5
-pmsampsize: 1.0.2
+pmsampsize: 1.0.3
 pmultinom: 1.0.0
 PMwR: 0.14-0
 pmxTools: '1.0'
@@ -12394,7 +12398,7 @@ poppr: 2.8.6
 popprxl: 0.1.4
 popRange: '1.1'
 popReconstruct: 1.0-6
-popsom: 4.2.1
+popsom: 4.3.0
 poptrend: 0.1.0
 population: '0.2'
 populationPDXdesign: 1.0.3
@@ -13185,7 +13189,7 @@ RAHRS: 1.0.2
 rai: 1.0.0
 railtrails: 0.1.1
 rainbow: '3.6'
-RAINBOWR: 0.1.17
+RAINBOWR: 0.1.19
 raincin: 1.0.3
 raincpc: 1.1.0
 rainette: 0.1.1
@@ -13194,7 +13198,7 @@ rainfarmr: '0.1'
 rainfreq: '0.3'
 rake: '1.2'
 rakeR: 0.2.1
-ralger: 2.0.0
+ralger: 2.0.1
 rAltmetric: 0.7.0
 RAM: 1.2.1.7
 Ramble: 0.1.1
@@ -13356,7 +13360,7 @@ Rbgs: '0.2'
 rbhl: 0.9.0
 rbi: 0.10.3
 rbi.helpers: 0.3.2
-rbibutils: 1.0.2
+rbibutils: 1.0.3
 rbin: 0.2.0
 rbiom: 1.0.2
 rbiorxiv: 0.2.0
@@ -14042,7 +14046,7 @@ rgam: 0.6.6
 rGammaGamma: 1.0.12
 rgauges: 0.2.0
 Rgb: 1.6.1
-rgbif: 3.1.0
+rgbif: 3.2.0
 RGBM: 1.0-8
 Rgbp: 1.1.4
 RGCCA: 2.1.2
@@ -15546,7 +15550,7 @@ semiArtificial: 2.3.1
 SemiCompRisks: '3.3'
 SEMID: 0.3.2
 SemiMarkov: 1.4.6
-seminr: 1.0.2
+seminr: 1.1.0
 SemiPar: 1.0-4.2
 SemiParBIVProbit: '3.8'
 SemiParSampleSel: '1.5'
@@ -15751,6 +15755,7 @@ shinycustomloader: 0.9.0
 shinyCyJS: 0.0.11
 shinydashboard: 0.7.1
 shinydashboardPlus: 0.7.5
+shinydisconnect: 0.1.0
 shinyDND: 0.1.0
 shinyEffects: 0.1.0
 shinyEventLogger: 0.1.1
@@ -17602,7 +17607,7 @@ tidymv: 3.0.0
 tidync: 0.2.4
 tidypmc: '1.7'
 tidyposterior: 0.0.3
-tidypredict: 0.4.5
+tidypredict: 0.4.6
 tidyquant: 1.0.1
 tidyquery: 0.2.1
 tidyqwi: 0.1.2
@@ -17683,7 +17688,7 @@ tint: 0.1.3
 tinter: 0.1.0
 tinyProject: 0.6.1
 tinytest: 1.2.2
-tinytex: '0.24'
+tinytex: '0.25'
 tiobeindexr: 0.1.1
 TipDatingBeast: 1.1-0
 tipom: 1.0.2-1
@@ -17722,7 +17727,7 @@ tm.plugin.webmining: '1.3'
 tm1r: 1.1.4
 tmap: '3.1'
 tmaptools: '3.1'
-TMB: 1.7.16
+TMB: 1.7.17
 tmbstan: 1.0.2
 TmCalculator: 1.0.0
 tmcn: 0.2-13
@@ -17905,7 +17910,7 @@ TrendInTrend: 1.1.3
 trendsegmentR: 1.0.0
 TrendSLR: '1.0'
 trendyy: 0.1.1
-TRES: 1.1.1
+TRES: 1.1.2
 trex: '0.5'
 triads: '0.2'
 TriadSim: 0.2.0
@@ -18422,7 +18427,7 @@ vegawidget: 0.3.1
 vegclust: 1.7.7
 vegdata: 0.9.8
 vegetarian: '1.2'
-vegperiod: 0.2.6
+vegperiod: 0.2.7
 vegtable: 0.1.6
 vein: 0.8.9
 velociraptr: 1.1.0
@@ -18648,7 +18653,7 @@ webddx: 0.1.0
 WebDevelopR: '1.0'
 webdriver: 1.0.5
 webex: 0.9.1
-WebGestaltR: 0.4.3
+WebGestaltR: 0.4.4
 webglobe: 1.0.2
 webmockr: 0.6.2
 webp: '1.0'
@@ -18827,7 +18832,7 @@ WrightMap: 1.2.3
 write.snns: 0.0-4.2
 writexl: '1.3'
 WriteXLS: 5.0.0
-wrMisc: 1.2.4
+wrMisc: 1.3.0
 wrProteo: 1.1.3
 WRS2: 1.1-0
 wrspathrow: '0.1'
