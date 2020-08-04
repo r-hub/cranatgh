@@ -97,7 +97,7 @@ ada: 2.0-5
 adabag: '4.2'
 ADaCGH: 1.5-3
 adagio: 0.7.1
-adamethods: '1.2'
+adamethods: 1.2.1
 AdapEnetClass: '1.2'
 adapr: 2.0.0
 AdapSamp: 1.1.1
@@ -1429,7 +1429,7 @@ bisoreg: '1.5'
 bisque: 1.0.2
 BisqueRNA: 1.0.4
 BisRNA: 0.2.2
-bit: 4.0.3
+bit: 4.0.4
 bit64: 4.0.2
 bite: '0.3'
 bitmexr: 0.3.1
@@ -2077,7 +2077,7 @@ CensMFM: '2.11'
 CensMixReg: '3.1'
 censNID: 0-0-1
 censorcopula: '2.0'
-censReg: 0.5-30
+censReg: 0.5-32
 CensRegMod: '1.0'
 CensSpatial: '2.58'
 census: 0.2.0
@@ -2231,7 +2231,7 @@ CHsharp: '0.4'
 chunked: 0.5.0
 chunkR: 1.1.1
 CIAAWconsensus: '1.3'
-cicerone: 1.0.1
+cicerone: 1.0.3
 CIDnetworks: 0.8.1
 CIEE: 0.1.1
 CIFsmry: 1.0.1.1
@@ -3365,7 +3365,7 @@ datasus: 0.4.1.1
 datautils: 0.1.5
 dataverse: 0.2.0
 dataview: 2.1.1
-DataVisualizations: 1.1.12
+DataVisualizations: 1.2.0
 DataViz: 0.2.8
 date: 1.2-39
 daterangepicker: 0.1.0
@@ -3809,7 +3809,7 @@ discnorm: 0.1.0
 disco: '0.6'
 discord: '0.1'
 discourseGT: 1.0.0
-discoveR: 1.2.8
+discoveR: 1.2.9
 discretecdAlgorithm: 0.0.7
 DiscreteFDR: 1.3-4
 DiscreteInverseWeibull: 1.0.2
@@ -6073,7 +6073,7 @@ geomapdata: 1.0-4
 GeomComb: '1.0'
 geomedb: 2.0.1
 geomerge: 0.3.2
-geometa: 0.6-2
+geometa: 0.6-3
 geometr: 0.2.5
 geometry: 0.4.5
 geomnet: 0.2.0
@@ -6361,6 +6361,7 @@ gjam: 2.3.2
 GJRM: 0.2-2
 gk: 0.5.1
 GK2011: 0.1.3
+gkgraphR: 1.0.1
 gkmSVM: 0.80.0
 glacierSMBM: '0.1'
 glamlasso: '3.0'
@@ -6975,6 +6976,7 @@ HDGLM: '0.1'
 hdi: 0.1-7
 HDInterval: 0.2.2
 hdlm: 1.3.1
+HDLSSkST: '1.0'
 hdm: 0.3.1
 HDMD: '1.2'
 hdme: 0.3.3
@@ -7220,7 +7222,7 @@ HSAUR: 1.3-9
 HSAUR2: 1.1-17
 HSAUR3: 1.0-9
 hscovar: 0.2.1
-hsdar: 1.0.2
+hsdar: 1.0.3
 HSDiC: '0.1'
 hSDM: 1.4.1
 hsicCCA: '1.0'
@@ -8887,7 +8889,7 @@ LPBkg: '1.2'
 lpbrim: 1.0.0
 lpc: 1.0.2.1
 LPCM: 0.46-3
-lpdensity: '1.0'
+lpdensity: '2.0'
 LPGraph: '2.1'
 lpint: '2.0'
 lpirfs: 0.1.9
@@ -9914,7 +9916,7 @@ mlPhaser: '0.01'
 MLPUGS: 0.2.0
 mlr: 2.17.1
 mlr3: 0.4.0
-mlr3data: 0.1.0
+mlr3data: 0.2.0
 mlr3db: 0.1.5
 mlr3filters: 0.3.0
 mlr3learners: 0.2.0
@@ -9977,6 +9979,7 @@ mmpf: 0.0.5
 mmpp: '0.6'
 mmppr: '0.1'
 MMPPsampler: '1.0'
+mmr: 0.1.0
 MMRcaseselection: 0.1.0
 MMS: 3.0.11
 mmsample: '0.1'
@@ -10322,7 +10325,7 @@ mstherm: 0.4.7
 mstknnclust: 0.3.0
 MSToolkit: 3.2.0
 mstR: '1.2'
-mstrio: 11.2.2
+mstrio: 11.2.2.1
 msu: 0.0.1
 MSVAR: '0.0'
 MSwM: '1.4'
@@ -10357,7 +10360,7 @@ mueRelativeRisk: 0.1.1
 MuFiCokriging: '1.2'
 mugnet: 1.02.0
 muhaz: 1.2.6.1
-muHVT: 1.0.1
+muHVT: 1.0.2
 muir: 0.1.0
 MullerPlot: 0.1.2
 mulset: 1.0.0
@@ -10678,7 +10681,7 @@ neldermead: 1.0-11
 Nemenyi: '1.2'
 NeMo: '1.0'
 neo2R: 2.1.0
-neo4jshell: 0.1.0
+neo4jshell: 0.1.1
 neo4r: 0.1.1
 neonUtilities: 1.3.6
 neotoma: 1.7.4
@@ -10771,7 +10774,7 @@ newFocus: '1.0'
 NewmanOmics: 1.0.4
 newsanchor: 0.1.1
 newscatcheR: 0.1.0
-newsmap: 0.7.1
+newsmap: 0.7.2
 newTestSurvRec: 1.0.2
 nFactors: 2.4.1
 nFCA: '0.3'
@@ -11786,7 +11789,7 @@ pcaL1: 1.5.4
 pcalg: 2.6-10
 pCalibrate: 0.2-1
 pcalls: '1.0'
-PCAmatchR: 0.1.6
+PCAmatchR: 0.2.1
 PCAmixdata: '3.1'
 pcaPA: '2.0'
 pcaPP: 1.9-73
@@ -11880,7 +11883,7 @@ pedometrics: 0.7.0
 pedprobr: '0.3'
 pedquant: 0.1.5
 pedSimulate: 0.0.4
-pedtools: 0.9.4
+pedtools: 0.9.5
 PeerPerformance: 2.2.2
 pegas: '0.13'
 PEGroupTesting: '1.0'
@@ -12533,7 +12536,7 @@ pqantimalarials: '0.2'
 PQLseq: '1.2'
 prabclus: 2.3-2
 pracma: 2.2.9
-PracTools: 1.2.1
+PracTools: 1.2.2
 pragma: 0.1.3
 prais: 1.1.1
 praise: 1.0.0
@@ -13406,6 +13409,7 @@ Rbgs: '0.2'
 rbhl: 0.9.0
 rbi: 0.10.3
 rbi.helpers: 0.3.2
+rBiasCorrection: 0.2.1
 rbibutils: 1.0.3
 rbin: 0.2.0
 rbiom: 1.0.2
@@ -15519,7 +15523,7 @@ season: 0.3.11
 seasonal: 1.7.1
 seasonalview: '0.3'
 seastests: 0.14.2
-seawaveQ: 1.0.0
+seawaveQ: 2.0.1
 SEchart: '0.1'
 SecKW: '0.2'
 SECP: 0.1-4
@@ -16268,7 +16272,7 @@ SocialMediaMineR: '0.4'
 socialmixr: 0.1.6
 SocialNetworks: '1.1'
 SocialPosition: 1.0.1
-sociome: 1.4.0
+sociome: 1.4.2
 SocrataR: '0.5'
 socviz: '1.2'
 SOD: '1.0'
@@ -16358,7 +16362,7 @@ SourceSet: 0.1.3
 sourcetools: 0.1.7
 SoyNAM: '1.6'
 sp: 1.4-2
-SP2000: 0.0.10
+SP2000: 0.1.0
 sp23design: '0.9'
 sp500SlidingWindow: 0.1.0
 spa: '2.0'
@@ -16896,7 +16900,7 @@ STEPCAM: '1.2'
 stepp: 3.2.0.0
 stepPenal: '0.2'
 stepPlr: '0.93'
-stepR: 2.0-4
+stepR: 2.1-0
 StepReg: 1.4.1
 steps: 1.1.0
 StepSignalMargiLike: 2.6.0
@@ -16914,7 +16918,7 @@ stilt: 1.3.0
 stima: 1.2.1
 stinepack: '1.4'
 stlcsb: 0.1.2
-stlnpp: 0.3.5
+stlnpp: 0.3.6
 stlplus: 0.5.1
 stm: 1.3.5
 stmBrowser: '1.0'
@@ -17341,6 +17345,7 @@ tabr: 0.4.3
 tabshiftr: 0.1.2
 tabula: 1.5.1
 tabularaster: 0.6.5
+tabularmaps: 0.1.0
 tabulizer: 0.2.2
 tabulizerjars: 1.0.1
 tabulog: 0.1.1
@@ -17403,7 +17408,7 @@ tbd: 0.1.0
 tbdiag: '0.1'
 TBEST: '5.0'
 TBFmultinomial: 0.1.3
-tbl2xts: 1.0.1
+tbl2xts: 1.0.2
 tbltools: 0.1.0
 tbm: 0.3-2.1
 tbma: 0.1.0
@@ -18289,7 +18294,7 @@ unjoin: 0.1.0
 unknownR: '0.4'
 unmarked: 1.0.1
 UNPaC: 1.1.0
-unpivotr: 0.6.0
+unpivotr: 0.6.1
 unrepx: '1.0'
 unrtf: '1.4'
 unsystation: 0.2.0
