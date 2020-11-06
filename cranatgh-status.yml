@@ -76,9 +76,10 @@ ACSNMineR: 0.16.8.25
 acss: 0.2-5
 acss.data: '1.0'
 ACSWR: '1.0'
+act: '0.94'
 ACTCD: 1.2-0
 ActCR: 0.1.0
-actel: 1.1.1
+actel: 1.2.0
 ActFrag: 0.1.1
 Actigraphy: 1.4.0
 ActisoftR: 0.0.2
@@ -133,7 +134,7 @@ additivityTests: 1.1-4
 addreg: '3.0'
 addScales: 1.0-1
 ADDT: '2.0'
-ade4: 1.7-15
+ade4: 1.7-16
 ade4TkGUI: 0.3-0
 adeba: 1.1.2
 adegenet: 2.1.3
@@ -267,7 +268,7 @@ akima: 0.6-2.1
 akmbiclust: 0.1.0
 akmeans: '1.1'
 akmedoids: 0.1.5
-ALA4R: 1.8.0
+ALA4R: 1.9.0
 alabama: 2015.3-1
 alakazam: 1.0.2
 ALassoSurvIC: 0.1.0
@@ -302,7 +303,7 @@ alluvial: 0.1-2
 alm: 0.4.0
 almanac: 0.1.1
 alookr: 0.3.2
-alpaca: 0.3.2
+alpaca: 0.3.3
 alphabetr: 0.2.2
 alphahull: '2.2'
 alphaOutlier: 1.2.0
@@ -320,7 +321,7 @@ ALSCPC: '1.0'
 ALSM: 0.2.0
 altair: 4.0.1
 alterryx: 0.5.0
-altmeta: '3.1'
+altmeta: '3.2'
 ALTopt: 0.1.2
 altR2: 1.0.0
 AMA: 1.0.8
@@ -381,7 +382,7 @@ anchoredDistr: 1.0.3
 anchors: 3.0-8
 AnDE: '1.0'
 andrews: '1.0'
-Andromeda: 0.3.2
+Andromeda: 0.4.0
 andurinha: 0.0.2
 anesrake: '0.80'
 anfis: 0.99.1
@@ -404,6 +405,7 @@ anm: 1.1-1
 anMC: 0.2.2
 ANN: '0.1'
 ANN2: 2.3.3
+anndata: 0.7.4
 AnnotationBustR: 1.3.0
 AnnotLists: '1.2'
 annovarR: 1.0.0
@@ -430,7 +432,7 @@ antaresEditObject: 0.1.9
 antaresProcessing: 0.18.0
 antaresRead: 2.2.5
 antaresViz: 0.15.2
-anthro: 0.9.3
+anthro: 0.9.4
 AnthropMMD: 3.1.0
 Anthropometry: '1.14'
 anticlust: 0.5.3
@@ -476,7 +478,7 @@ APML: 0.0.1
 APML0: '0.10'
 apmsWAPP: '1.0'
 apng: '1.0'
-apollo: 0.2.0
+apollo: 0.2.1
 apparent: '1.1'
 appell: 0.0-4
 APPEstimation: 0.1.1
@@ -552,7 +554,7 @@ ari: 0.3.5
 ARIbrain: '0.2'
 aricode: 1.0.0
 ariExtra: 0.2.11
-arkdb: 0.0.7
+arkdb: 0.0.8
 arkhe: 0.2.2
 arm: 1.11-1
 armada: 0.1.0
@@ -582,7 +584,7 @@ arsenal: 3.5.0
 ART: '1.0'
 artfima: '1.5'
 ARTIVA: '1.2'
-ARTool: 0.10.7
+ARTool: 0.10.8
 ARTP: 2.0.5
 ARTP2: 0.9.45
 arules: 1.6-6
@@ -644,7 +646,7 @@ assertr: '2.7'
 assertthat: 0.2.1
 AssetCorr: 1.0.3
 AssetPricing: 1.0-1
-assignPOP: 1.2.0
+assignPOP: 1.2.1
 assignR: 1.2.1
 assist: 3.1.7
 ASSISTant: 1.4.2
@@ -714,6 +716,7 @@ auk: 0.4.2
 aurelius: 0.8.4
 AurieLSHGaussian: 0.2.0
 auRoc: 0.2-1
+ausplotsR: '1.2'
 AUtests: '0.99'
 auteur: 0.12.1010
 auth0: 0.2.1
@@ -773,7 +776,7 @@ aws.sqs: 0.1.8
 AWS.tools: 0.0.5
 aws.transcribe: 0.1.3
 aws.translate: 0.1.4
-awsjavasdk: 0.2.0
+awsjavasdk: 0.2.2
 awsMethods: 1.1-1
 awspack: 0.1.6
 aylmer: 1.0-9
@@ -789,6 +792,7 @@ azuremlsdk: 1.10.0
 AzureQstor: 1.0.1
 AzureRMR: 2.3.6
 AzureStor: 3.3.0
+AzureTableStor: 1.0.0
 AzureVision: 1.0.2
 AzureVM: 2.2.2
 AzureVMmetadata: 1.0.1
@@ -810,7 +814,7 @@ backblazer: 0.1.0
 backbone: 1.2.2
 backfitRichards: 0.5.0
 backpipe: 0.2.3
-backports: 1.1.10
+backports: 1.2.0
 backShift: 0.1.4.3
 backtest: 0.3-4
 backtestGraphics: 0.1.6
@@ -894,7 +898,7 @@ basefun: 1.0-7
 baseline: 1.3-1
 basetheme: 0.1.2
 basf: 0.1.0
-basicMCMCplots: 0.2.5
+basicMCMCplots: 0.2.6
 basicspace: '0.24'
 basictabler: 0.3.1
 basicTrendline: 2.0.3
@@ -905,7 +909,7 @@ BasketballAnalyzeR: 0.5.0
 BASS: 1.2.2
 BaSTA: 1.9.4
 bastah: 1.0.7
-BAT: 2.2.1
+BAT: 2.3.0
 batade: '0.1'
 batata: 0.1.1
 batch: 1.1-5
@@ -980,7 +984,7 @@ BayesLCA: '1.9'
 bayesLife: 4.1-0
 bayeslincom: 1.0.0
 bayeslm: 0.8.0
-BayesLN: 0.1.2
+BayesLN: 0.2.1
 BayesLogit: '2.1'
 bayesloglin: 1.0.1
 bayeslongitudinal: 0.1.0
@@ -1147,7 +1151,7 @@ BEANSP: '1.0'
 beanz: '2.4'
 bear: 2.6.4
 beast: '1.1'
-beastier: '2.2'
+beastier: 2.2.1
 BeastJar: 1.10.6
 beats: 0.1.1
 beautier: '2.4'
@@ -1267,7 +1271,7 @@ BiDimRegression: 2.0.0
 BIEN: 1.2.4
 bifactorial: '1.4'
 BifactorIndicesCalculator: 0.2.1
-bife: '0.7'
+bife: 0.7.1
 BIFIEsurvey: 3.3-12
 BiG: 0.1.0
 bigalgebra: 0.8.4
@@ -1295,7 +1299,7 @@ bigmatrix: 0.9.6
 bigmemory: 4.5.36
 bigmemory.sri: 0.1.3
 bigml: 0.1.2
-bigparallelr: 0.2.5
+bigparallelr: 0.3.0
 bigpca: '1.1'
 bigQueryR: 0.5.0
 BigQuic: 1.1-9
@@ -1306,7 +1310,7 @@ bigrf: 0.1-6
 bigrquery: 1.3.2
 bigRR: 1.3-8
 BigSEM: '0.2'
-bigsnpr: 1.4.4
+bigsnpr: 1.5.2
 bigsparser: 0.4.0
 bigsplines: 1.1-1
 bigstatsr: 1.2.3
@@ -1405,7 +1409,7 @@ bioimagetools: 1.1.5
 bioinactivation: 1.2.3
 BioInsight: 0.1.0
 BioInstaller: 0.3.7
-biolink: 0.1.6
+biolink: 0.1.7
 Biolinv: 0.1-2
 biom: 0.3.9
 BIOM.utils: '0.9'
@@ -1436,12 +1440,12 @@ bioseq: 0.1.1
 bioset: 0.2.3
 biosignalEMG: 2.1.0
 biospear: 1.0.2
-biostat3: 0.1.4
+biostat3: 0.1.5
 BioStatR: 3.0.0
 Biotech: 1.0.0
 biotic: 0.1.2
 biotools: '3.1'
-BioVenn: 1.0.2
+BioVenn: 1.0.3
 bipartite: '2.15'
 bipartiteD3: 0.2.0
 biplotbootGUI: '1.2'
@@ -1670,6 +1674,7 @@ BOSSreg: 0.1.0
 botor: 0.3.0
 boundingbox: 1.0.1
 boussinesq: 1.0.3
+boutliers: 1.1-1
 BoutrosLab.plotting.general: 6.0.1
 boxcoxmix: '0.28'
 boxoffice: 1.3.0
@@ -1715,7 +1720,7 @@ brea: 0.2.0
 breakage: 1.1-1
 breakaway: '3.0'
 breakDown: 0.2.0
-breakfast: 1.0.0
+breakfast: '2.0'
 breakpoint: '1.2'
 BreakPoints: '1.2'
 breathtestcore: 0.8.0
@@ -1741,14 +1746,15 @@ BRL: 0.1.0
 brlr: 0.9-1
 brlrmr: 0.1.7
 brm: 1.1.1
-brms: 2.14.0
+brms: 2.14.4
 brnn: '0.8'
 Brobdingnag: 1.2-6
+brokenstick: 1.1.0
 broman: 0.70-4
 broom: 0.7.2
 broom.helpers: 1.0.0
 broom.mixed: 0.2.6
-broomExtra: 4.0.6
+broomExtra: 4.1.0
 brotli: '1.2'
 BrownDog: 0.2.1
 Brq: '3.0'
@@ -1904,6 +1910,7 @@ caMassClass: '1.9'
 camel: 0.2.0
 CamelUp: 2.0.2
 CampaR1: .na.character
+campfin: 1.0.1
 camsRad: 0.3.0
 caMST: 0.1.3
 camtrapR: 2.0.3
@@ -2019,12 +2026,14 @@ CATT: '2.0'
 CATTexact: 0.1.1
 cattonum: 0.0.5
 causact: 0.3.3
+causalCmprsk: 1.0.0
 causaldrf: '0.3'
 causaleffect: 1.3.10
 CausalFX: 1.0.1
 CausalGAM: 0.1-4
 CausalImpact: 1.2.4
 CausalKinetiX: 0.2.1
+CausalMBSTS: 0.1.0
 causalMGM: 0.1.1
 causaloptim: 0.7.1
 CausalQueries: 0.0.3
@@ -2058,7 +2067,7 @@ CCAMLRGIS: 3.0.6
 ccaPP: 0.3.3
 cccd: '1.5'
 ccChooser: 0.2.6
-cccp: 0.2-4
+cccp: 0.2-7
 cccrm: 2.0.1
 ccda: 1.1.1
 ccdrAlgorithm: 0.0.5
@@ -2221,10 +2230,10 @@ cheb: '0.3'
 chebpol: 2.1-2
 checkarg: 0.1.0
 CheckDigit: 0.1-1
-checkdown: 0.0.6
+checkdown: 0.0.7
 checkLuhn: 1.1.0
 checkmate: 2.0.0
-checkpoint: 0.4.9
+checkpoint: 0.4.10
 checkr: 0.5.0
 cheddar: 0.1-636
 cheese: 0.1.1
@@ -2283,11 +2292,11 @@ chromseq: 0.1.3
 chron: 2.3-55
 chronosphere: 0.4.0
 CHsharp: '0.4'
-chunked: 0.5.0
+chunked: 0.5.1
 chunkhooks: 0.0.1
 chunkR: 1.1.1
 CIAAWconsensus: '1.3'
-ciccr: 0.1.0
+ciccr: 0.2.0
 cicerone: 1.0.3
 CIDnetworks: 0.8.1
 CIEE: 0.1.1
@@ -2306,7 +2315,7 @@ CIplot: '1.0'
 cir: 2.0.0
 CircE: '1.1'
 circglmbayes: 1.2.3
-circlize: 0.4.10
+circlize: 0.4.11
 CircMLE: 0.3.0
 CircNNTSR: 2.2-1
 CircOutlier: 3.2.3
@@ -2487,7 +2496,7 @@ ClustGeo: '2.0'
 clusthaplo: '1.2'
 ClustImpute: 0.1.5
 clustMD: 1.2.1
-clustMixType: 0.2-5
+clustMixType: 0.2-9
 ClustMMDD: 1.0.4
 ClustOfVar: '1.1'
 clustRcompaR: 0.2.0
@@ -2534,7 +2543,7 @@ CMShiny: 0.1.0
 cmstatr: 0.7.0
 cmvnorm: 1.0-6
 cna: 3.0.0
-CNAIM: 1.0.0
+CNAIM: 1.0.1
 cnaOpt: 0.2.0
 cnbdistr: 1.0.1
 cncaGUI: '1.0'
@@ -2554,7 +2563,7 @@ coala: 0.6.0
 coalescentMCMC: 0.4-1
 coalitions: 0.6.15
 coarseDataTools: 0.6-5
-cobalt: 4.2.3
+cobalt: 4.2.4
 cobiclust: 0.1.0
 COBRA: 0.99.4
 cobs: 1.3-4
@@ -2581,7 +2590,7 @@ codebook: 0.9.2
 CodeDepends: 0.6.5
 codemetar: 0.1.9
 codep: 0.9-1
-codetools: 0.2-16
+codetools: 0.2-18
 codexcopd: 0.1.0
 codified: 0.2.0
 CoDiNA: 1.1.2
@@ -2599,7 +2608,7 @@ coga: 1.1.0
 cogmapr: 0.9.1
 cognitoR: 1.0.2
 cohorttools: 0.1.3
-coil: 1.2.1
+coil: 1.2.2
 CoImp: '1.0'
 coin: 1.3-1
 coindeskr: 0.1.0
@@ -2613,7 +2622,7 @@ colcor: '1.0'
 cold: 2.0-1
 colf: 0.1.3
 CollapsABEL: 0.10.8
-collapse: 1.3.2
+collapse: 1.4.0
 CollapseLevels: 0.3.0
 collapsibleTree: 0.1.7
 collateral: 0.4.2
@@ -2724,7 +2733,7 @@ complexity: 1.1.1
 complexplus: '2.1'
 complmrob: 0.7.0
 CompLognormal: '3.0'
-CompModels: 0.1.0
+CompModels: 0.2.0
 compoisson: '0.3'
 COMPoissonReg: 0.7.0
 Compositional: '4.1'
@@ -2831,7 +2840,7 @@ contfrac: 1.1-12
 conting: '1.7'
 contoureR: 1.0.5
 ContourFunctions: 0.1.1
-contourPlot: 0.1.4
+contourPlot: 0.2.0
 contrast: '0.22'
 contribution: 0.1.0
 control: 0.2.5
@@ -3053,7 +3062,7 @@ cplots: 0.4-0
 cpm: '2.3'
 CPMCGLM: '1.2'
 CPP: 0.1.0
-cpp11: 0.2.3
+cpp11: 0.2.4
 cppcor: '1.2'
 cppRouting: '2.0'
 cpr: 0.2.3
@@ -3062,6 +3071,7 @@ cprobit: 1.0.2
 cprr: 0.2.0
 CPsurv: 1.0.0
 cpsurvsim: 1.2.0
+cpsvote: 0.1.0
 cpt: 1.0.2
 cptcity: 1.0.6
 cptec: 0.1.0
@@ -3106,7 +3116,7 @@ cricketr: 0.0.23
 crimCV: 0.9.6
 crimedata: 0.2.0
 crimelinkage: 0.0.4
-crimeutils: 0.1.0
+crimeutils: 0.2.0
 crisp: 1.0.0
 crispRdesignR: 1.1.5
 CRM: 1.2.4
@@ -3143,7 +3153,7 @@ crp.CSFP: '2.0'
 CRPClustering: '1.2'
 crplyr: 0.3.6
 crq: '0.3'
-crqa: '2.0'
+crqa: 2.0.1
 crqanlp: '0.3'
 crrp: '1.0'
 crrSC: '1.1'
@@ -3215,7 +3225,7 @@ ctmcmove: 1.2.9
 ctmle: 0.1.2
 ctmm: 0.5.10
 ctqr: '1.1'
-ctrdata: 1.4.0
+ctrdata: 1.4.1
 CTRE: 0.1.0
 ctrlGene: 1.0.1
 cts: '1.0'
@@ -3246,6 +3256,7 @@ cumSeg: '1.3'
 cumstats: '1.0'
 cumulocityr: 0.1.0
 cuRe: 1.0.1
+curephEM: 0.1.6
 curl: '4.3'
 curlconverter: 0.7.0
 currentSurvival: '1.0'
@@ -3309,7 +3320,7 @@ cyclocomp: 1.1.0
 cycloids: '1.0'
 cyclomort: 1.0.2
 cyclones: 1.2-9
-Cyclops: 3.0.0
+Cyclops: 3.1.0
 cymruservices: 0.5.0
 cyphid: '1.1'
 cyphr: 1.1.0
@@ -3338,6 +3349,7 @@ DAAGbio: 0.63-3
 DAAGxtras: 0.8-4
 daarem: '0.5'
 dabestr: 0.3.0
+dabr: 0.0.1
 DAC: 0.1.1
 DACF: 1.0.0
 dad: 3.4.3
@@ -3403,6 +3415,7 @@ DatabionicSwarm: 1.1.3
 datacheck: 1.2.2
 datacheckr: 0.2.0
 DataClean: '1.0'
+datacleanr: 1.0.0
 DataCombine: 0.2.21
 dataCompareR: 0.1.3
 datadigest: 1.0.2
@@ -3431,7 +3444,7 @@ datanugget: 1.0.0
 dataonderivatives: 0.3.1
 dataone: 2.1.4
 dataonelibs: 1.0.0
-datapack: 1.3.2
+datapack: 1.4.0
 datapackage.r: 1.3.1
 DataPackageR: 0.15.7
 datapasta: 3.1.0
@@ -3448,6 +3461,7 @@ datasets.load: 1.4.0
 datasetsICR: '1.0'
 Datasmith: 1.0-1
 DataSpaceR: 0.7.4
+dataspice: 1.0.0
 DatAssim: '1.0'
 datastepr: 0.0.2
 datastructures: 0.2.9
@@ -3455,7 +3469,7 @@ datasus: 0.4.1.1
 datautils: 0.1.5
 dataverse: 0.2.0
 dataview: 2.1.1
-DataVisualizations: 1.2.0
+DataVisualizations: 1.2.1
 DataViz: 0.2.8
 date: 1.2-39
 daterangepicker: 0.1.0
@@ -3491,12 +3505,12 @@ DBKGrad: '1.7'
 dblcens: 1.1.7
 dBlockmodeling: 0.2.0
 dblr: 0.1.0
-dbmss: 2.7-1
+dbmss: 2.7-3
 dbnlearn: 0.1.0
 dbnR: 0.5.3
 dbparser: 1.2.0
 dbplot: 0.3.3
-dbplyr: 1.4.4
+dbplyr: 2.0.0
 dbscan: 1.1-5
 dbstats: 1.0.5
 dbx: 0.2.7
@@ -3531,7 +3545,7 @@ dcov: 0.1.1
 dCovTS: '1.1'
 DCPO: 0.5.3
 dCUR: 1.0.0
-dcurver: 0.9.1
+dcurver: 0.9.2
 dcv: 0.1.1
 ddalpha: 1.3.11
 DDD: '4.4'
@@ -3578,7 +3592,7 @@ DeclareDesign: 0.22.0
 decode: '1.2'
 decoder: 1.2.2
 decomposedPSF: 0.1.3
-DecomposeR: 1.0.2
+DecomposeR: 1.0.3
 decompr: 4.5.0
 decon: 1.2-4
 deconstructSigs: 1.8.0
@@ -3600,6 +3614,7 @@ deepboost: 0.1.6
 deepdep: 0.2.1
 deepdive: 1.0.1
 deepgmm: 0.1.62
+deepgp: 0.1.0
 deeplearning: 0.1.0
 deeplr: 1.0.0
 deepnet: '0.2'
@@ -3621,7 +3636,7 @@ dejaVu: 0.2.0
 Delaporte: 7.0.3
 delayed: 0.3.0
 DelayedEffect.Design: 0.0.4
-deldir: 0.1-29
+deldir: 0.2-2
 delftfews: 0.3-67
 DeLorean: 1.5.0
 delt: 0.8.2
@@ -3649,7 +3664,7 @@ dendroExtra: 0.0.2
 dendroextras: 0.2.3
 dendrometeR: 1.0.0
 DendroSync: 0.1.3
-dendroTools: 1.0.7
+dendroTools: 1.0.9
 DendSer: 1.0.1
 dendsort: 0.3.3
 DengueRT: 1.0.1
@@ -3770,7 +3785,7 @@ dGAselID: '1.2'
 DGCA: 1.0.2
 dggridR: 2.0.4
 dglars: 2.1.6
-dglm: '1.8'
+dglm: 1.8.4
 DGLMExtPois: 0.1.3
 DGM: 1.7.2
 dgmb: '1.2'
@@ -3806,7 +3821,7 @@ dice: '1.2'
 dicecrawler: 0.1.0
 DiceDesign: 1.8-1
 DiceEval: '1.5'
-DiceKriging: 1.5.6
+DiceKriging: 1.5.8
 DiceOptim: 2.0.1
 diceR: 1.0.0
 DiceView: 2.0-0
@@ -3879,7 +3894,7 @@ dina: 2.0.0
 dinamic: '1.0'
 dineq: 0.1.0
 dint: 2.1.3
-DiPALM: '1.0'
+DiPALM: '1.1'
 DiPhiSeq: 0.2.0
 diproperm: 0.1.0
 DiPs: 0.6.1
@@ -3912,7 +3927,7 @@ DiscML: '1.0'
 discnorm: 0.1.0
 disco: '0.6'
 discord: '0.1'
-discourseGT: 1.1.0
+discourseGT: 1.1.1
 discoveR: 1.2.9
 discoverableresearch: 0.0.1
 discretecdAlgorithm: 0.0.7
@@ -3963,7 +3978,7 @@ distillery: '1.1'
 disto: 0.2.0
 distory: 1.4.4
 distr: 2.8.0
-distr6: 1.4.4
+distr6: 1.4.6
 distrDoc: 2.8.0
 distreg.vis: 1.7.0
 distrEllipse: 2.8.0
@@ -4072,7 +4087,7 @@ docopulae: 0.4.0
 docstring: 1.0.0
 doctr: 0.2.0
 documair: 0.6-0
-document: 3.2.0
+document: 3.3.0
 documenter: 0.1.1
 docuSignr: 0.0.3
 docxtools: 0.2.2
@@ -4122,7 +4137,7 @@ DoubleExpSeq: '1.1'
 doubt: 0.1.0
 DOvalidation: 1.1.0
 Dowd: '0.12'
-downlit: 0.2.0
+downlit: 0.2.1
 downloader: '0.4'
 downloadthis: 0.2.1
 downscale: 3.0-1
@@ -4160,7 +4175,7 @@ dr: 3.0.10
 dr4pl: 1.1.11
 dracor: 0.2.4
 DRAFT: 0.3.0
-dragon: 1.0.4
+dragon: 1.0.5
 dragonking: 0.1.0
 dragulaR: 0.3.1
 drake: 7.12.7
@@ -4179,6 +4194,7 @@ drf: 1.0.0
 drfit: 0.7.2
 drgee: 1.1.10
 DRHotNet: '1.2'
+drhur: 0.1.0
 DRI: '1.1'
 DriftBurstHypothesis: 0.4.0.1
 drifter: 0.2.1
@@ -4272,7 +4288,7 @@ dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.5
 dub: 0.2.0
-duckdb: 0.2.1-2
+duckdb: 0.2.2
 duckduckr: 1.0.0
 dummies: 1.5.6
 dummy: 0.1.3
@@ -4401,7 +4417,7 @@ ebGenotyping: 2.0.1
 EBglmnet: '4.1'
 ebimetagenomics: '0.6'
 ebirdst: 0.2.1
-EBMAforecast: 1.0.0
+EBMAforecast: 1.0.2
 ebmc: 1.0.0
 ebmstate: 0.1.1
 EBPRS: 2.1.0
@@ -4416,13 +4432,13 @@ ecb: '0.2'
 ecce: 1.0.7
 ECctmc: 0.2.5
 ecd: 0.9.1
-Ecdat: 0.3-7
+Ecdat: 0.3-9
 ecdfHT: 0.1.1
-ecespa: 1.1-11
+ecespa: 1.1-12
 ECFsup: 0.1-2
 Ecfun: 0.2-4
 ECGofTestDx: '0.4'
-ech: 0.1.0
+ech: 0.1.1.1
 ECharts2Shiny: 0.2.13
 echarts4r: 0.3.3
 echelon: 0.1.0
@@ -4524,9 +4540,10 @@ EEM: 1.1.1
 eemR: 1.0.1
 eeptools: 1.2.4
 eesim: 0.1.0
+ef: 1.2.0
 EFA.dimensions: 0.1.6
 EFA.MRFA: 1.0.9
-EFAtools: 0.2.0
+EFAtools: 0.3.0
 EFAutilities: 2.1.1
 EFDR: '1.0'
 effectFusion: 1.1.2
@@ -4749,7 +4766,7 @@ ensembleR: 0.1.0
 ensr: 0.1.0
 ensurer: '1.1'
 entcn: 0.1.0
-entropart: 1.6-4
+entropart: 1.6-6
 entropy: 1.2.1
 EntropyEstimation: '1.2'
 EntropyExplorer: '1.1'
@@ -4797,6 +4814,7 @@ epiDisplay: 3.5.0.1
 EpiDynamics: 0.3.1
 EpiEstim: 2.2-3
 epifit: 0.1.2
+epifitter: 0.1.0
 epiflows: 0.2.0
 epigraphdb: 0.2.1
 epiGWAS: 1.0.2
@@ -4806,6 +4824,7 @@ epikit: 0.1.2
 epimdr: 0.6-5
 EpiModel: 2.0.2
 epinet: 2.1.8
+epinetr: '0.93'
 EpiNow2: 1.2.1
 epipen: 1.0-0
 epiphy: 0.3.4
@@ -4832,7 +4851,7 @@ eplusr: 0.13.0
 eply: 0.1.2
 epoc: 0.2.6-1.1
 eponge: 0.1.0
-epos: 0.1.1
+epos: 0.1.3
 epr: '3.0'
 epsi: 1.1-0
 epsiwal: 0.1.0
@@ -4902,7 +4921,7 @@ esDesign: 1.0.2
 eSDM: 0.3.5
 ESEA: '1.0'
 eseis: 0.5.0
-ESG: '0.1'
+ESG: '1.1'
 ESGtoolkit: 0.2.0
 eshrink: 0.1.2
 ESKNN: '1.0'
@@ -4948,6 +4967,7 @@ EuclideanMaps: '1.0'
 eudract: 0.9.2
 eulerian: '1.0'
 eulerr: 6.1.0
+Eunomia: 1.0.1
 eurlex: 0.3.1
 euroMix: '1.1'
 europepmc: '0.4'
@@ -5177,7 +5197,7 @@ fairness: 1.1.1
 fairselect: 0.1-1
 fairsubset: '1.0'
 faisalconjoint: '1.15'
-fakemake: 1.8.0
+fakemake: 1.8.1
 fakeR: '1.0'
 falcon: '0.2'
 falconx: '0.2'
@@ -5247,6 +5267,7 @@ FastKM: '1.0'
 fastkmedoids: '1.0'
 FastKNN: 0.0.1
 fastLink: 0.6.0
+fastlogitME: 0.1.0
 fastlogranktest: 0.2.1
 fastLSU: 0.1.0
 FastLZeroSpikeInference: 2018.12.10
@@ -5327,11 +5348,11 @@ fdasrvf: 1.9.4
 fdatest: '2.1'
 FDboost: 1.0-0
 fdcov: 1.1.0
-fddm: 0.2-1
+fddm: 0.2-2
 FDGcopulas: '1.0'
 fdim: 1.0-7
 fdistr: 0.1.0
-fdm2id: 0.9.3
+fdm2id: 0.9.4
 fDMA: 2.2.6
 fdq: '0.11'
 fdrci: '2.1'
@@ -5383,8 +5404,9 @@ fExtremes: '3042.82'
 ff: 4.0.4
 ffbase: 0.13.1
 FFD: 1.0-6
+FFdownload: 1.0.5
 FField: 0.1.0
-fflr: 0.3.8
+fflr: 0.3.10
 ffmanova: 1.1.0
 ffmetadata: 1.0.0
 ffscrapr: 1.0.0
@@ -5471,7 +5493,7 @@ FiRE: '1.0'
 firebase: 0.1.0
 firebehavioR: 0.1.2
 FiSh: '1.0'
-fishbc: 0.0.1
+fishbc: 0.1.0
 fishdata: 0.1.3
 FisherEM: '1.6'
 fisheyeR: '0.9'
@@ -5482,7 +5504,7 @@ fishmethods: 1.11-1
 fishMod: '0.29'
 fishmove: 0.3-3
 FishResp: 1.0.3
-fishtree: 0.3.2
+fishtree: 0.3.3
 fishualize: 0.2.0
 FisPro: '1.0'
 FIT: 0.0.6
@@ -5546,6 +5568,7 @@ flexmixNL: 0.0.1
 FlexParamCurve: 1.5-5
 flexPM: '2.0'
 flexpolyline: 0.1.1
+FlexReg: '1.0'
 flexrsurv: 1.4.5
 FlexScan: 0.2.0
 flexsurv: 1.1.1
