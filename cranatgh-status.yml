@@ -13890,13 +13890,13 @@ Rarity: 1.3-6
 rarms: 1.0.0
 rARPACK: 0.11-0
 RaschSampler: 0.8-8
-rasciidoc: 2.2.0
+rasciidoc: 2.2.2
 rasclass: 0.2.2
 rase: 0.3-3
 RaSEn: 1.1.0
 Rassoc: '1.0'
 raster: 3.3-7
-rasterdiv: 0.2-1
+rasterdiv: 0.2-2
 rasterDT: 0.3.1
 rasterImage: 0.4.0
 rasterize: '0.1'
@@ -13915,7 +13915,7 @@ raters: 2.0.1
 ratesci: 0.3-0
 RATest: 0.1.8
 ratetables: 1.0-2
-RAthena: 1.11.0
+RAthena: 1.11.1
 Ratings: 0.1-2
 RatingScaleReduction: 1.2.2
 RationalExp: 0.2.2
@@ -13926,9 +13926,10 @@ ratPASTA: 0.1.2
 rattle: 5.4.0
 rattle.data: 1.0.2
 raustats: 0.15.0
-Ravages: '0.1'
+Ravages: 0.1.1
 raveio: 0.0.3
 ravelRy: 0.1.0
+RavenR: 2.0.1
 rAverage: 0.5-8
 rAvis: 0.1.4
 raw: 0.1.6
@@ -13939,6 +13940,7 @@ raws.profile: 0.1.0
 rayimage: 0.3.1
 rayrender: 0.14.0
 rayshader: 0.19.2
+raytracing: 0.1.0
 rbace: 0.2.2
 rbacon: 2.5.0
 rbamtools: 2.9.2
@@ -13950,6 +13952,7 @@ Rbeast: 0.2.2
 rbefdata: 0.3.5
 rbenchmark: 1.0.0
 Rbent: 0.1.0
+rbenvo: 1.0.5
 RBerkeley: 0.7-5
 RBesT: 1.6-1
 rBeta2009: '1.0'
@@ -13960,8 +13963,8 @@ Rbgs: '0.2'
 rbhl: 0.9.0
 rbi: 0.10.3
 rbi.helpers: 0.3.2
-rBiasCorrection: 0.2.3
-rbibutils: '1.4'
+rBiasCorrection: 0.2.4
+rbibutils: '2.0'
 rbin: 0.2.0
 rbiom: 1.0.2
 rbiorxiv: 0.2.0
@@ -14011,6 +14014,7 @@ RCassandra: 0.1-3
 rCAT: 0.1.6
 rCBA: 0.4.3
 rcbalance: 1.8.5
+RCBR: 0.5.9
 rcbsubset: 1.1.4
 rcc: 1.0.0
 rccdates: 1.0.0
@@ -14132,9 +14136,9 @@ RCPmod: '2.190'
 Rcpp: 1.0.4.6
 Rcpp11: 3.1.2.0.1
 RcppAlgos: 2.4.1
-RcppAnnoy: 0.0.16
+RcppAnnoy: 0.0.17
 RcppAPT: 0.0.6
-RcppArmadillo: 0.10.1.0.0
+RcppArmadillo: 0.10.1.2.0
 RcppBDT: 0.2.3
 RcppBigIntAlgos: 0.3.4
 RcppBlaze: 0.2.2
@@ -14148,7 +14152,7 @@ RcppDate: 0.0.1
 RcppDE: 0.1.6
 RcppDist: 0.1.1
 RcppDL: 0.0.5
-RcppDynProg: 0.1.5
+RcppDynProg: 0.1.6
 RcppEigen: 0.3.3.7.0
 RcppEigenAD: 1.0.0
 RcppEnsmallen: 0.2.15.0.1
@@ -14210,6 +14214,7 @@ rCUR: '1.3'
 rcure: 0.1.0
 RCurl: 1.95-4.12
 rcv: 0.2.1
+RCytoGPS: 1.0.1
 RCzechia: 1.6.1
 Rd: 0.2.0
 Rd2md: 0.0.2
@@ -14292,7 +14297,7 @@ read.gb: 2.0.1
 Read.isi: '0.5'
 readABF: 1.0.2
 readability: 0.1.1
-readabs: 0.4.5.1
+readabs: 0.4.6
 readbitmap: 0.1.5
 readBrukerFlexData: 1.8.5
 readbulk: 1.1.3
@@ -14354,6 +14359,7 @@ recommenderlab: 0.2-6
 recommenderlabBX: 0.1-1
 recommenderlabJester: 0.1-2
 Recon: 0.3.0.0
+reconstructKM: 0.3.0
 reconstructr: 2.0.2
 recorder: 0.8.2
 RecordLinkage: 0.4-12.1
@@ -14378,7 +14384,7 @@ REddyProcNCDF: 1.1.4
 redist: 2.0.2
 redland: 1.0.17-14
 redlistr: 1.0.3
-rEDM: 1.6.1
+rEDM: 1.7.0
 Redmonder: 0.2.0
 redR: 1.0.1
 redshiftTools: 1.0.1
@@ -14391,7 +14397,7 @@ RefFreeEWAS: '2.2'
 refGenome: 1.7.7
 refimpact: 1.0.0
 refinr: 0.3.1
-RefManageR: 1.2.12
+RefManageR: 1.3.0
 refnr: 0.1.0
 refset: 0.1.1
 refuge: 0.3.2
@@ -14413,7 +14419,7 @@ registr: 1.0.0
 registry: 0.5-1
 reglogit: 1.2-6
 regmed: 1.1.0
-regmedint: 0.1.0
+regmedint: 0.2.0
 regnet: 0.4.0
 regplot: '1.1'
 regpro: 0.1.1
@@ -14460,6 +14466,7 @@ relevent: 1.0-4
 Relexon: 0.2.1
 relgam: '1.0'
 Reliability: 0.0-2
+reliabilitydiag: 0.1.3
 ReliabilityTheory: 0.1.5
 reliaR: '0.01'
 relimp: 1.0-5
@@ -14487,7 +14494,7 @@ RenextGUI: 1.4-0
 renpow: 0.1-1
 rentrez: 1.2.3
 renv: 0.12.2
-Renvlp: '2.8'
+Renvlp: '2.9'
 RenvModule: '1.0'
 Reol: '1.8'
 ReorderCluster: '1.0'
@@ -14513,6 +14520,7 @@ repmis: '0.5'
 repo: 2.1.5
 RepoGenerator: 0.0.1
 repolr: '3.4'
+reporter: 1.0.6
 ReporteRs: 0.8.9
 ReporteRsjars: 0.0.4
 reportr: 1.3.0
@@ -14607,7 +14615,7 @@ Rfacebook: 0.6.15
 rfacebookstat: 2.1.9
 rfacts: 0.0.2
 Rfast: 2.0.1
-Rfast2: 0.0.7
+Rfast2: 0.0.8
 rfbCNPJ: 0.1.1
 RFc: 0.1-2
 rFDSN: 0.0.0
@@ -14694,7 +14702,7 @@ RghcnV3: '2.9'
 rgho: 2.0.0
 RGIFT: 0.1-5
 RGISTools: 1.0.2
-rgl: 0.100.54
+rgl: 0.103.5
 rglobi: 0.2.21
 Rglpk: 0.6-4
 rglwidget: 0.2.1
@@ -14818,7 +14826,7 @@ ripums: 0.1.0
 Rirt: 0.0.2
 ris: '1.2'
 risaac: '0.1'
-RISCA: 0.8.2
+RISCA: '0.9'
 rise: 1.0.4
 rIsing: 0.1.0
 Risk: '1.0'
@@ -14967,8 +14975,8 @@ RMCriteria: 0.2.0
 rmd: 0.1.5
 rmda: '1.6'
 rmdcev: 1.2.4
-rmdfiltr: 0.1.2
-rmdformats: 0.3.7
+rmdfiltr: 0.1.3
+rmdformats: 1.0.0
 rmdHelpers: '1.2'
 rmdpartials: 0.5.8
 rmdplugr: 0.4.1
@@ -14996,8 +15004,8 @@ Rmixmod: 2.1.5
 RmixmodCombi: '1.0'
 RMixpanel: 0.7-1
 RMixtComp: 4.1.2
-RMixtCompIO: 4.0.5
-RMixtCompUtilities: 4.1.3
+RMixtCompIO: 4.0.6
+RMixtCompUtilities: 4.1.4
 RMKdiscrete: '0.1'
 RMKL: '1.0'
 RMLPCA: 0.0.1
@@ -15010,6 +15018,7 @@ rmonad: 0.7.0
 RMongo: 0.0.25
 rmongodb: 1.8.0
 Rmonkey: 0.3.1
+rmoo: 0.1.5
 rMorningStar: 1.0.6
 Rmosek: 1.3.5
 rMouse: '0.1'
@@ -15058,8 +15067,8 @@ RNCEP: 1.0.10
 rncl: 0.8.4
 RND: '1.2'
 RndTexExams: '1.5'
-rNeighborGWAS: 1.2.1
-rNeighborQTL: 1.1.0
+rNeighborGWAS: 1.2.2
+rNeighborQTL: 1.1.1
 RNentropy: 1.2.2
 RNeo4j: 1.6.4
 rneos: 0.4-0
@@ -15069,7 +15078,7 @@ RNetLogo: 1.0-4
 Rnets: 1.2.1
 RNewsflow: 1.2.5
 RNeXML: 2.4.5
-RNGforGPD: '1.0'
+RNGforGPD: 1.1.0
 rngSetSeed: 0.3-2
 rngtools: '1.5'
 rngWELL: 0.10-6
@@ -15098,7 +15107,7 @@ ROAuth: 0.9.6
 RobAStBase: 1.2.1
 RobAStRDA: 1.2.0
 robcbi: 1.1-3
-robCompositions: 2.2.1
+robCompositions: 2.3.0
 robcor: 0.1-6
 robcp: 0.2.5
 roben: 0.1.0
@@ -15107,7 +15116,7 @@ robets: '1.4'
 RobExtremes: 1.2.0
 robfilter: 4.1.2
 robFitConGraph: 0.1.0
-RobGARCHBoot: 1.0.1
+RobGARCHBoot: 1.1.0
 robin: 1.0.2
 RobinHood: '1.4'
 robis: 2.3.9
@@ -15260,7 +15269,7 @@ rorqual.morpho: 0.1.1
 rorutadis: 0.4.2
 ROSE: 0.0-3
 Rosenbrock: 0.1.0
-rosetta: 0.3.0
+rosetta: 0.3.1
 rosetteApi: 1.14.4
 rosm: 0.2.5
 rospca: 1.0.4
@@ -15359,13 +15368,13 @@ rpql: '0.8'
 rPraat: 1.3.1
 rpredictit: 0.0.2
 rPref: '1.3'
-RPresto: 1.3.4
+RPresto: 1.3.5
 rprev: 1.0.4
 rprime: 0.1.2
 rprintf: 0.2.1
 RProbSup: '3.0'
 Rprofet: 2.2.1
-rprojroot: 1.3-2
+rprojroot: 2.0.2
 RProtoBuf: 0.4.17
 RPS: 1.0.1
 RPscoring: 0.1.0
@@ -15498,6 +15507,7 @@ rsem: 0.5.0
 RSentiment: 2.2.2
 RSeqMeth: 1.0.2
 Rserve: 1.7-3.1
+rsetse: 0.4.0
 rsf: 0.2.2
 rSFA: '1.04'
 rsgcc: '1.0'
@@ -15537,7 +15547,7 @@ rsolr: 0.0.10
 Rsomoclu: 1.7.5
 rspa: 0.2.5
 rSPACE: 1.2.0
-rSPARCS: 0.0.9
+rSPARCS: 0.1.0
 rsparkling: 0.2.19
 rsparse: 0.4.0
 Rspc: 1.2.2
@@ -15558,16 +15568,16 @@ RSqlParser: '1.5'
 RSQLServer: 0.3.0
 rSQM: 1.3.14
 RsqMed: 0.1.7.1
-Rssa: 1.0.2
+Rssa: 1.0.3
 RSSampling: '1.0'
-RSSL: 0.9.2
+RSSL: 0.9.3
 RSSOP: '1.1'
 rstack: 1.0.0
 rstackdeque: 1.1.1
 RStackExchange: 0.1.2
 rstan: 2.21.2
 rstanarm: 2.21.1
-rstanemax: 0.1.2
+rstanemax: 0.1.3
 rstansim: 0.1.1
 rstantools: 2.1.1
 rstap: 1.0.3
@@ -15579,11 +15589,12 @@ Rstem: 0.4-1
 rstiefel: 1.0.0
 RStoolbox: 0.2.6
 RStorm: '1.0'
+RstoxData: 1.0.17
 rstpm2: 1.5.1
 rstream: 1.3.6
 Rstreams: '1.1'
 RStripe: '0.1'
-rstudioapi: '0.12'
+rstudioapi: '0.13'
 rsubgroup: '1.0'
 RSuite: 0.37-253
 Rsundials: '1.6'
@@ -15602,7 +15613,7 @@ rSymbiota: 1.0.0
 Rsymphony: 0.1-28
 rSymPy: 0.2-1.2
 rsyncrosim: 1.2.4
-rsyntax: 0.1.0
+rsyntax: 0.1.1
 rsyslog: 1.0.1
 rt: 1.0.0
 rt.test: 1.18.7.9
@@ -15656,7 +15667,7 @@ rTorch: 0.4.2
 Rtrack: 1.0.0
 RTransferEntropy: 0.2.12
 RTransProb: 0.3.3
-rtrek: 0.3.0
+rtrek: 0.3.2
 rtrends: 0.1.0
 RTriangle: 1.6-0.10
 rtrie: 0.1.1
@@ -15682,7 +15693,7 @@ rucrdtw: 0.1.4
 rugarch: 1.4-4
 ruimtehol: 0.2.5
 ruin: 0.1.1
-ruler: 0.2.3
+ruler: 0.2.4
 rules: 0.1.0
 rumidas: 0.1.0
 rUnemploymentData: 1.1.0
@@ -15722,7 +15733,7 @@ rvHPDT: '3.0'
 RVideoPoker: '0.3'
 RViennaCL: 1.7.1.8
 rviewgraph: '1.2'
-rvinecopulib: 0.5.4.1.0
+rvinecopulib: 0.5.5.1.0
 RVIpkg: 0.1.1
 rvkstat: 2.6.3
 rvmbinary: '1.0'
@@ -15735,6 +15746,7 @@ rvsel: 0.2.1
 RVsharing: 1.7.0
 rvTDT: '1.0'
 RVtests: '1.2'
+rwa: 0.0.3
 rwalkr: 0.5.3
 rwars: 1.0.0
 Rwave: 2.4-8
@@ -15781,7 +15793,7 @@ RxODE: 0.9.2-1
 rxSeq: 0.99.3
 RXshrink: 1.4.3
 rxylib: 0.2.6
-Ryacas: 1.1.3
+Ryacas: 1.1.3.1
 Ryacas0: 0.4.3
 ryandexdirect: 3.6.0
 RYandexTranslate: '1.0'
@@ -15798,7 +15810,7 @@ rzmq: 0.9.7
 RZooRoH: 0.2.3
 s2: 1.0.3
 s20x: 3.1-29
-s2dv: 0.0.1
+s2dv: 0.1.1
 s2dverification: 2.9.0
 s2net: 1.0.1
 S2sls: '0.1'
@@ -15830,7 +15842,7 @@ saeSim: 0.10.0
 SAFD: '2.1'
 SafeBayes: '1.1'
 safeBinaryRegression: 0.1-3
-safedata: 1.0.8
+safedata: 1.0.9
 SafeQuant: '2.3'
 safer: 0.2.1
 safetyGraphics: 1.1.0
@@ -15844,7 +15856,7 @@ SailoR: '1.2'
 salem: 0.2.0
 SALES: 1.0.0
 salesforcer: 0.2.2
-salso: 0.2.3
+salso: 0.2.5
 SALTSampler: 1.1.0
 salty: 0.1.0
 SAM: 1.1.2.1
@@ -15897,7 +15909,7 @@ sapa: 2.0-2
 sapfluxnetr: 0.1.1
 SAPP: 1.0.8
 saps: 1.0.0
-saqgetr: 0.2.0
+saqgetr: 0.2.1
 SAR: 1.0.3
 sara4r: 0.0.7
 sarima: 0.8.4
@@ -15928,7 +15940,7 @@ saws: 0.9-6.2
 sazedR: 2.0.2
 SBAGM: 0.1.0
 sbart: 0.1.1
-SBdecomp: '1.0'
+SBdecomp: '1.1'
 sBF: 1.1.1
 sbfc: 1.0.2
 sbgcop: '0.980'
@@ -15963,14 +15975,14 @@ scalreg: 1.0.1
 scam: 1.2-8
 scan: '0.40'
 scanstatistics: 1.0.1
-scape: 2.3-2
+scape: 2.3.3
 scapeMCMC: 1.1-3
 scar: 0.2-1
 scaRabee: 1.1-3
 SCAT: 0.5.0
 scatr: 1.0.1
 scatterD3: 0.9.1
-scattermore: '0.6'
+scattermore: '0.7'
 scatterpie: 0.1.5
 scatterplot3d: 0.3-41
 SCBiclust: 1.0.0
@@ -16033,7 +16045,8 @@ SCORER2: 0.99.0
 scoring: '0.6'
 scoringRules: 1.0.1
 scoringTools: 0.1.1
-scoringutils: 0.1.0
+scoringutils: 0.1.4
+SCORNET: 0.1.0
 SCORPIUS: 1.0.7
 ScottKnott: 1.2-7
 ScottKnottESD: 2.0.3
@@ -16065,7 +16078,8 @@ scrubr: 0.3.2
 scrypt: 0.1.3
 scs: 1.3-2
 scSorter: 0.0.1
-scTenifoldNet: 1.2.3
+scTenifoldKnk: 1.0.0
+scTenifoldNet: 1.2.4
 SCtools: 0.3.1
 sctransform: 0.3.1
 scuba: 1.10-0
@@ -16081,6 +16095,7 @@ SDAR: 0.9-55
 sdat: '1.1'
 SDBP: '1.0'
 sdcHierarchies: 0.18.3
+sdcLog: 0.1.0
 sdcMicro: 5.5.1
 sdcMicroGUI: 1.4.0
 SDCNway: 1.0.0
@@ -16102,7 +16117,7 @@ sdm: 1.0-89
 SDMPlay: '1.3'
 sdmpredictors: 0.2.9
 SDMTools: '1.1'
-SDMtune: 1.1.2
+SDMtune: 1.1.3
 sdmvspecies: 0.3.2
 sdnet: 2.4.1
 sdols: 3.0.0
@@ -16374,7 +16389,7 @@ SGP: 1.9-5.0
 sGPCA: '1.0'
 SGPdata: 23.0-0.0
 sgPLS: '1.7'
-sgpv: 1.0.0
+sgpv: 1.1.0
 sgr: '1.3'
 sgRSEA: '0.1'
 sgt: '2.0'
@@ -16406,6 +16421,7 @@ shattering: 1.0.4
 shazam: 1.0.2
 sheldusr: '0.1'
 SHELF: 1.7.0
+ShellChron: 0.2.8
 shelltrace: 3.5.1
 ShiftConvolvePoibin: 1.0.0
 shiftR: '1.5'
@@ -16415,14 +16431,14 @@ shiny: 1.5.0
 shiny.i18n: 0.2.0
 shiny.info: 0.2.0
 shiny.pwa: 0.2.0
-shiny.router: 0.1.1
+shiny.router: 0.2.0
 shiny.semantic: 0.4.0
 shinyAce: 0.4.1
 shinyaframe: 1.0.1
 shinyalert: 2.0.0
 shinyanimate: 0.3.0
 shinybootstrap2: 0.2.1
-shinybrms: 1.4.1
+shinybrms: 1.5.0
 shinyBS: '0.61'
 shinybusy: 0.2.2
 shinyChakraSlider: 0.1.0
@@ -16462,6 +16478,7 @@ shinyNotes: 0.0.1
 shinyobjects: 0.2.0
 shinypanel: 0.1.2
 shinypanels: 0.5.0
+ShinyQuickStarter: 1.0.1
 shinyr: 0.2.6
 shinyrecap: 0.1.0
 shinyrecipes: 0.1.0
@@ -16491,7 +16508,7 @@ ShortForm: 0.4.6
 shorts: 1.1.3
 shotGroups: 0.7.5.1
 showimage: 1.0.0
-showtext: '0.9'
+showtext: 0.9-1
 showtextdb: '3.0'
 shp2graph: 0-5
 shrink: 1.2.1
@@ -16548,7 +16565,7 @@ SigWinR: '1.0'
 SII: 1.0.3.1
 siland: '2.0'
 SILGGM: 1.0.0
-silicate: 0.6.1
+silicate: 0.7.0
 SILM: 1.0.0
 Sim.DiffProc: '4.8'
 Sim.DiffProcGUI: '2.5'
@@ -16626,12 +16643,13 @@ simplextree: 1.0.1
 SimplicialCubature: '1.2'
 SimplifyStats: 2.0.4
 simplr: 0.1-1
-simPop: 1.2.0
+simPop: 1.2.1
 simPopulation: 0.4.1
 Simpsons: 0.1.0
 simputation: 0.2.4
 simr: 1.0.5
 SimRAD: '0.96'
+simrec: 1.0.0
 SimReg: '3.0'
 simrel: 2.0.2
 SimRepeat: 0.1.0
@@ -16643,7 +16661,7 @@ SimSCRPiecewise: 0.1.1
 simsem: 0.5-15
 SimSeq: 1.4.0
 simsl: 0.1.0
-simstandard: 0.5.0
+simstandard: 0.6.0
 simstudy: 0.2.1
 simSummary: 0.1.0
 simsurv: 0.2.3
@@ -16764,6 +16782,7 @@ slm: 1.2.0
 SLmisc: '1.4'
 sloop: 1.0.1
 SLOPE: 0.3.2
+slopeOP: 1.0.1
 slouch: 2.1.4
 slowraker: 0.1.1
 slp: 1.0-5
@@ -16807,10 +16826,10 @@ smd: 0.6.6
 smd.and.more: 1.3-0
 smdata: '1.2'
 smdc: 0.0.2
-SMDIC: 0.1.2
+SMDIC: 0.1.3
 smds: '1.0'
 sme: 1.0.2
-smerc: '1.3'
+smerc: 1.3.3
 SMFI5: '1.0'
 SMFilter: 1.0.3
 smfishHmrf: '0.1'
@@ -16828,7 +16847,7 @@ SMLE: 0.4.1
 SMLoutliers: '0.1'
 SMM: 1.0.2
 SMMA: 1.0.3
-SMMT: 1.0.2
+SMMT: 1.0.5
 SMNCensReg: '3.0'
 smnet: 2.1.2
 smog: 2.1.0
@@ -16855,7 +16874,7 @@ SMPracticals: 1.4-3
 SMR: 2.0.1
 sms: 2.3.1
 smss: 1.0-2
-smurf: 1.0.6
+smurf: 1.0.7
 SMUT: '1.1'
 SMVar: 1.3.3
 sn: 1.6-2
@@ -16913,7 +16932,7 @@ SocEpi: 1.0.0
 social: '1.0'
 SocialMediaLab: 0.23.2
 SocialMediaMineR: '0.4'
-socialmixr: 0.1.7
+socialmixr: 0.1.8
 SocialNetworks: '1.1'
 SocialPosition: 1.0.1
 sociome: 1.4.2
@@ -16973,7 +16992,7 @@ somspace: 1.0.0
 sonar: 1.0.2
 SongEvo: 1.0.0
 sonicLength: 1.4.6
-sonicscrewdriver: 0.0.1
+sonicscrewdriver: 0.0.3
 sonify: 0.0-1
 soobench: 1.9.18
 sophisthse: 0.7.0
@@ -16994,7 +17013,7 @@ sos4R: 0.4.2
 sotkanet: 0.9.48
 sotu: 1.0.2
 sound: 1.4.5
-soundcorrs: 0.3.0
+soundcorrs: 0.4.0
 soundecology: 1.3.3
 SoundexBR: '1.2'
 soundgen: 1.8.2
@@ -17042,7 +17061,7 @@ spanel: '0.1'
 spanish: 0.4.2
 spANOVA: 0.99.2
 spanr: '1.0'
-spant: 1.7.0
+spant: 1.8.0
 SPAr: '0.1'
 sparc: 0.9.0
 sparcl: 1.0.4
@@ -17099,7 +17118,7 @@ sparseSVM: 1.1-6
 SparseTSCGM: '3.0'
 sparsevar: 0.0.11
 sparsio: 1.0.1
-sparta: 0.6.0
+sparta: 0.6.1
 spartan: 3.0.2
 SPAS: 2020.1.1
 spass: '1.2'
@@ -17135,14 +17154,14 @@ SpatialPack: 0.3-8196
 SpatialPosition: 2.0.1
 spatialprobit: 0.9-11
 spatialreg: 1.1-5
-SpatialRegimes: '0.1'
+SpatialRegimes: '0.2'
 spatialrisk: 0.6.7
 SpatialRoMLE: 0.1.0
 spatialsegregation: '2.45'
 spatialTailDep: '1.0'
 SpatialTools: 1.0.4
 SpatialVS: '1.1'
-SpatialVx: '0.7'
+SpatialVx: 0.7-1
 spatialwarnings: 2.0.0
 spatialwidget: 0.2.3
 SpaTimeClus: 1.0.1
@@ -17198,6 +17217,7 @@ SpeciesMix: '0.3'
 specificity: '0.1'
 specklestar: 0.0.1.7
 specmine: 3.0.2
+specmine.datasets: 0.0.1
 specr: 0.2.1
 specs: 0.1.1
 SpecsVerification: 0.5-3
@@ -17229,6 +17249,7 @@ sperich: 1.5-8
 sperrorest: 3.0.1
 spew: 1.3.0
 spex: 0.7.1
+spfda: 0.9.0
 spfrontier: 0.2.5
 spFSR: 1.0.0
 spftir: 0.1.0
@@ -17259,7 +17280,7 @@ SPINA: 4.1.0
 spinBayes: 0.1.0
 spind: 2.2.1
 spinebil: 0.1.0
-spinifex: 0.2.6
+spinifex: 0.2.7
 spinyReg: 0.1-0
 spiR: 0.1.1
 spiritR: 0.1.1
@@ -17279,7 +17300,7 @@ SplitSoftening: 2.0-1
 splitstackshape: 1.4.8
 splitTools: 0.3.1
 splm: 1.4-11
-splmm: 1.1.1
+splmm: 1.1.2
 splot: 0.5.1
 spls: 2.2-3
 splus2R: 1.2-2
@@ -17366,10 +17387,10 @@ sqlshare: 1.0.3
 sqlutils: '1.2'
 SQN: 1.0.5
 sqp: '0.5'
-SQRL: 0.7.3
+SQRL: 0.7.4
 SQUAREM: '2020.5'
 squash: 1.0.9
-squashinformr: 0.1.4
+squashinformr: 0.1.5
 squid: 0.1.2
 sra: 0.1.3
 SRCS: '1.1'
@@ -17381,7 +17402,7 @@ sROC: 0.1-2
 srp: 1.2.0
 SRPM: '0.1'
 SRRS: '0.1'
-SRS: 0.1.2
+SRS: 0.2.1
 SRTtools: 1.2.0
 srvyr: 0.4.0
 ss3sim: 1.0.3
@@ -17391,7 +17412,7 @@ SSBtools: 0.8.0
 ssc: 2.1-0
 sscor: '0.2'
 ssd: '0.3'
-SSDforR: 1.5.19
+SSDforR: 1.5.20
 SSDM: 0.2.8
 sSDR: 1.2.0
 ssdtools: 0.3.2
@@ -17450,6 +17471,7 @@ stabreg: 0.1.2
 stabs: 0.6-3
 Stack: 2.0-1
 stackoverflow: 0.7.0
+stacks: 0.1.0
 stacomiR: 0.5.4.3
 stacomirtools: 0.5.3
 StagedChoiceSplineMix: 1.0.0
@@ -17472,7 +17494,7 @@ stargazer: 5.2.2
 starm: 0.1.0
 starma: '1.3'
 starmie: 0.1.2
-starnet: 0.0.5
+starnet: 0.0.6
 stars: 0.4-3
 starschemar: 1.2.0
 STARSEQ: 1.2.1
@@ -17491,18 +17513,18 @@ STAT: 0.1.0
 stat.extend: 0.1.4
 STAT2: 0.1.0
 Stat2Data: 2.0.0
-statar: 0.7.2
+statar: 0.7.3
 stataread: '2.6'
 statarepl: 0.1.0
 statcanR: 0.1.0
-StatCharrms: 0.90.9
+StatCharrms: 0.90.96
 statcheck: 1.3.0
 statcomp: 0.1.0
 StatDA: 1.7.4
 StatDataML: 1.0-26
 statebins: 1.4.0
 states: 0.2.2
-statespacer: 0.3.0
+statespacer: 0.4.0
 statesRcontiguous: 0.1.0
 StateTrace: '1.0'
 statfi: 0.9.8
@@ -17510,7 +17532,7 @@ StatFingerprints: '2.0'
 statgenGWAS: 1.0.5
 statgenGxE: 1.0.3
 statgenSTA: 1.0.6
-statGraph: 0.3.0
+statGraph: 0.4.0
 stationaRy: 0.5.1
 stationery: 0.98.30
 statip: 0.2.3
