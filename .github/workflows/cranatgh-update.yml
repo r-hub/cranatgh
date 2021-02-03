@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: docker.pkg.github.com/r-hub/cranatgh/cranatgh:latest
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
       env:
         CRANATGH_GITHUB_TOKEN: ${{ secrets.CRANATGH_GITHUB_TOKEN }}
 
