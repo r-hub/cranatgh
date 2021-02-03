@@ -7,7 +7,7 @@
 dont_break(...)
 }
 \arguments{
-\item{...}{Input, it will be concatenated using \code{\link[base:paste0]{base::paste0()}}.}
+\item{...}{Input, it will be concatenated using \code{\link[base:paste]{base::paste0()}}.}
 }
 \value{
 Character.

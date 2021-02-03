@@ -13,16 +13,19 @@ Imports:
     desc,
     gh,
     httr,
+    jsonlite,
     pkgsearch (>= 3.0.2),
     processx,
+    stats,
     tibble,
     utils,
-    withr
+    withr,
+    yaml
 Suggests:
     mockery,
     pingr,
     testthat
 SystemRequirements: git
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.1
 Roxygen: list(markdown = TRUE)
 Encoding: UTF-8

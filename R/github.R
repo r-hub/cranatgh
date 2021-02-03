@@ -19,6 +19,17 @@ default_local_mirror_directory <- function() {
   Sys.getenv("CRANATGH_LOCAL_CRAN_MIRROR", NA_character_)
 }
 
+default_cranatgh_repo <- function() {
+  Sys.getenv("CRANATGH_DEFAULT_REPO", "https://github.com/r-hub/cranatgh")
+}
+
+default_status_url <- function() {
+  Sys.getenv(
+    "CRANATGH_STATUS_URL",
+    "https://r-hub.github.io/cranatgh/cranatgh-status.yml"
+  )
+}
+
 #' Get the token to be used for GitHub API calls
 #'
 #' It is taken from the `CRANATGH_GITHUB_TOKEN`,
@@ -71,7 +82,8 @@ get_github_versions <- function(package) {
       .limit = Inf,
       .token = get_gh_token()
     ),
-    condition = function(e) list()
+    error = function(e) list(),
+    warning = function(e) list()
   )
   github_versions <- vapply(github_versions, "[[", FUN.VALUE = "", "name")
   github_versions <- grep("R-", github_versions, value = TRUE, invert = TRUE)
@@ -95,7 +107,7 @@ clone_git_repo <- function(package) {
 }
 
 safe_url <- function(url) {
-  sub("//[a-z0-9]+@", "//<token>@", url)
+  sub("://[-:a-z0-9]+@", "://<token>@", url)
 }
 
 #' Push the package to GitHub
@@ -225,4 +237,8 @@ clean_description <- function(description) {
   description <- unname(description)
   description <- gsub("\n", " ", description)
   description
+}
+
+graphql_query <- function(query) {
+
 }

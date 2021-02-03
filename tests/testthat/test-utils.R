@@ -49,7 +49,7 @@ test_that("fix_maintainer", {
 
   cases <- list(
     list("  <foo@bar>", " <foo@bar>"),
-    list("ORPHANED", "cran@R-project.org")
+    list("ORPHANED", "ORPHANED <cran@R-project.org>")
   )
 
   for (c in cases) {

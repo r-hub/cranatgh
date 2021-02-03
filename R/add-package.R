@@ -99,7 +99,7 @@ add_missing_versions <- function(package, versions, new_package,
 
 change_to_cranatgh_home <- function() {
   home <- default_tree_location()
-  if (is.na(home)) home <- tempdir()
+  if (is.na(home)) dir.create(home <- tempfile())
   setwd(home)
 }
 
@@ -155,6 +155,8 @@ add_missing_version <- function(package, version, date) {
 
   ## Package information from DESCRIPTION
   metadata <- description$new()
+  maint <- metadata$get_maintainer()
+  auth <- metadata$get("Author")
 
   ## Commit the new version
   git(
@@ -163,7 +165,7 @@ add_missing_version <- function(package, version, date) {
     "--allow-empty",
     "-m", paste0("version ", version),
     "--date", date,
-    "--author", fix_maintainer(metadata$get_maintainer())
+    "--author", fix_maintainer(maint, auth)
   )
 
   git("tag", version)

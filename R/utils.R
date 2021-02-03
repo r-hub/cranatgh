@@ -39,16 +39,17 @@ nullna_or <- function(x, expr) {
   if (is.null(x) || (length(x) == 1 && is.na(x))) "" else expr
 }
 
-fix_maintainer <- function(x) {
-  x <- sub("\\s*<", " <", x)
+fix_maintainer <- function(maint, auth) {
+  if (is.na(maint)) maint <- auth
+  maint <- sub("\\s*<", " <", maint)
 
   ## ': end of single quote
   ## ": start of double quote
   ## ': single quote (within double quotes)
   ## ": end of double quote
   ## ': start of single quote for the rest of the string
-  x <- gsub("'", paste0("'", '"', "'", '"', "'"), x)
+  maint <- gsub("'", paste0("'", '"', "'", '"', "'"), maint)
 
-  if (toupper(x) == "ORPHANED") x <- "ORPHANED <cran@R-project.org>"
-  x
+  if (toupper(maint) == "ORPHANED") maint <- "ORPHANED <cran@R-project.org>"
+  maint
 }
