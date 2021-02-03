@@ -17,7 +17,7 @@ jobs:
         CRANATGH_GITHUB_TOKEN: ${{ secrets.CRANATGH_GITHUB_TOKEN }}
 
     steps:
-      - name: Query dependencies
+      - name: Update outdated packages
         run: |
           cranatgh::update_all_packages(max_failures = 1000)
         shell: Rscript {0}
