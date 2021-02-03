@@ -1,0 +1,19 @@
+name: Update CRAN@GH
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '23 * * * *'
+
+jobs:
+  gh-update:
+    container:
+      image: docker.pkg.github.com/r-hub/cranatgh/cranatgh:latest
+      env:
+        CRANATGH_GITHUB_TOKEN: ${{ secrets.CRANATGH_GITHUB_TOKEN }}
+
+    steps:
+      - name: Query dependencies
+        run: |
+          cranatgh::update_all_packages(max_failures = 1000)
+        shell: Rscript {0}
