@@ -19,8 +19,8 @@ jobs:
     steps:
       - name: Git config
         run: |
-	  git config --global user.email "csardi.gabor+cran@gmail.com"
-	  git config --global user.name "CRAN@GH robot"
+          git config --global user.email "csardi.gabor+cran@gmail.com"
+          git config --global user.name "CRAN@GH robot"
       - name: Update outdated packages
         run: |
           cranatgh::update_all_packages(max_failures = 1000)
