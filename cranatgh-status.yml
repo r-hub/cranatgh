@@ -19070,7 +19070,7 @@ sysid: 1.0.4
 syskern: R2000.6-1
 syslognet: 0.1.2.1
 systemfit: 1.1-24
-systemfonts: 1.0.0
+systemfonts: 1.0.1
 systemicrisk: 0.4.2
 syt: 0.2.0
 syuzhet: 1.0.6
@@ -19095,7 +19095,7 @@ tablerDash: 0.1.0
 tables: 0.9.6
 tableschema.r: 1.1.1
 tablesgg: 0.7-1
-tablet: 0.2.0
+tablet: 0.2.1
 tabnet: 0.1.0
 tabplot: '1.3'
 tabplotGTK: '0.6'
@@ -19131,6 +19131,7 @@ targets: 0.1.0
 tashu: 0.1.1
 taskPR: '0.34'
 taskscheduleR: '1.4'
+tastypie: 0.0.2
 tatest: '1.0'
 tatoo: 1.1.1
 tau: 0.0-23
@@ -19142,7 +19143,7 @@ taxadb: 0.1.0
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.0
-taxonomizr: 0.5.3
+taxonomizr: 0.6.0
 taxotools: 0.0.79
 tbart: '1.0'
 tbd: 0.1.0
@@ -19164,6 +19165,7 @@ tcltk: 0.1-1
 tcltk2: 1.2-11
 tclust: 1.4-2
 tcpl: 2.0.2
+td: 0.0.1
 tdROC: '1.0'
 tdaunif: 0.1.0
 tdigest: 0.3.0
@@ -19197,11 +19199,12 @@ tensorflow: 2.2.0
 tensorordinal: 0.2.0
 tensorr: 0.1.1
 tensorregress: '3.0'
+tensorsign: 0.1.0
 tensorsparse: '3.0'
 tensr: 1.0.1
 tergm: 3.7.0
 tergmLite: 2.2.1
-term: 0.3.0
+term: 0.3.1
 termstrc: '1.3'
 ternvis: '1.2'
 terra: 1.0-10
@@ -19217,7 +19220,7 @@ tester: 0.1.7
 testextra: 0.1.0
 testforDEP: 0.2.0
 testit: '0.12'
-testthat: 3.0.1
+testthat: 3.0.2
 testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
@@ -19231,6 +19234,7 @@ text.alignment: 0.1.2
 text2speech: 0.2.13
 text2vec: '0.6'
 textTinyR: 1.1.3
+textTools: 0.1.0
 textcat: 1.0-7
 textclean: 0.9.3
 textdata: 0.4.1
@@ -19250,7 +19254,7 @@ textrecipes: 0.4.0
 textreg: 0.1.5
 textreuse: 0.1.5
 textshape: 1.7.1
-textshaping: 0.2.1
+textshaping: 0.3.0
 textstem: 0.1.4
 textutils: 0.2-0
 tfCox: 0.1.0
@@ -19269,6 +19273,7 @@ tframe: 2015.12-1.1
 tframePlus: 2016.7-1
 tfruns: '1.4'
 tfse: 0.5.0
+tgamtheme: 0.1.0
 tgcd: '2.5'
 tggd: 0.1.1
 tglm: '1.0'
@@ -19349,12 +19354,12 @@ tidypmc: '1.7'
 tidyposterior: 0.0.3
 tidypredict: 0.4.8
 tidyquant: 1.0.2
-tidyquery: 0.2.1
+tidyquery: 0.2.2
 tidyqwi: 0.1.2
 tidyr: 1.1.2
 tidyrules: 0.1.5
 tidyselect: 1.1.0
-tidyseurat: 0.1.17
+tidyseurat: 0.1.8
 tidystats: '0.5'
 tidystopwords: 0.9.0
 tidystringdist: 0.1.4
@@ -19414,7 +19419,7 @@ tinsel: 0.0.1
 tint: 0.1.3
 tinter: 0.1.0
 tinyProject: 0.6.1
-tinylabels: 0.1.0
+tinylabels: 0.2.0
 tinyscholar: 0.1.2
 tinytest: 1.2.4
 tinytex: '0.29'
@@ -19431,7 +19436,7 @@ titecrm: 0.1-1
 titrationCurves: 0.1.0
 tkRplotR: 0.1.4
 tkrgl: '0.9'
-tkrplot: 0.0-24
+tkrplot: 0.0-25
 tktdjl2r: 0.2.0
 tlemix: 0.1.3
 tlm: 0.1.5
@@ -19536,7 +19541,7 @@ traj: '1.2'
 trajectories: 0.2-2
 trajr: 1.4.0
 tram: 0.5-2
-tramME: 0.0.3
+tramME: 0.0.4
 tramnet: 0.0-3
 tranSurv: 1.2.2
 transcribeR: 0.0.0
@@ -19554,6 +19559,7 @@ transport: 0.12-2
 transx: 0.0.1
 trapezoid: 2.0-0
 trawl: 0.2.1
+treasuryTR: 0.1.0
 treatSens: '2.1'
 tree: 1.0-40
 tree.bins: 0.1.1
@@ -19638,6 +19644,7 @@ trundler: 0.1.19
 trust: 0.1-8
 trustOptim: 0.8.6.2
 trustedtimestamping: 0.2.6
+truthiness: 1.2.4
 tryCatchLog: 1.2.1
 ts.extend: 0.1.1
 tsBSS: 0.5.6
@@ -19645,7 +19652,7 @@ tsDyn: 10-1.2
 tsModel: '0.6'
 tsPI: 1.0.3
 tsSelect: 0.1.8
-tsallisqexp: 0.9-3
+tsallisqexp: 0.9-4
 tsapp: 1.0.3
 tsbox: 0.2.1
 tsbridge: '1.1'
@@ -19720,6 +19727,7 @@ tvR: 0.3.1
 tvReg: 0.5.3
 tvd: 0.1.0
 tvem: 1.0-0
+tvgarch: '1.0'
 tvgeom: 1.0.1
 tvm: 0.4.0
 tvthemes: 1.1.1
@@ -19744,14 +19752,14 @@ twostageTE: '1.3'
 twoway: 0.6.3
 twowaytests: '1.0'
 twslm: 1.0.2
-txshift: 0.3.4
+txshift: 0.3.5
 txtplot: 1.0-4
 txtq: 0.2.3
 types: 1.0.0
 tzupdater: 0.1.2
 uCAREChemSuiteCLI: 0.2.0
 uFTIR: 0.1.2
-uGMAR: 3.2.6
+uGMAR: 3.3.0
 uHMM: '1.0'
 uaparserjs: 0.3.5
 uavRmp: 0.5.7
@@ -19793,7 +19801,8 @@ unga: 0.1.0
 ungeneanno: 0.1.6
 unglue: 0.1.0
 ungroup: 1.3.0
-unheadr: 0.3.0
+unheadr: 0.3.1
+uni.survival.tree: '1.3'
 uniCox: '1.0'
 uniPlot: 0.3-1
 uniReg: '1.1'
@@ -19832,7 +19841,8 @@ updog: 2.0.2
 uplift: 0.3.5
 uplifteval: 0.1.0
 upmfit: 0.1.0
-upsetjs: 1.6.0
+upsetjs: 1.9.0
+upstartr: 0.1.0
 uptasticsearch: 0.4.0
 uptimeRobot: 1.0.0
 upwaver: 1.2.1
@@ -19855,7 +19865,7 @@ useful: 1.2.6
 usefun: 0.4.8
 usemodels: 0.1.0
 userfriendlyscience: 0.7.2
-usethis: 2.0.0
+usethis: 2.0.1
 usfertilizer: 0.1.5
 ushr: 0.2.3
 uskew: 0.11-3
@@ -19971,7 +19981,7 @@ vegdata: 0.9.8
 vegetarian: '1.2'
 vegperiod: 0.3.1
 vegtable: 0.1.6
-vein: 0.9.0.1
+vein: 0.9.1.2
 velociraptr: 1.1.0
 velox: 0.2.0
 vembedr: 0.1.4
@@ -20017,6 +20027,7 @@ virtualspecies: 1.5.1
 virtuoso: 0.1.5
 virustotal: 0.2.1
 visNetwork: 2.0.9
+visStatistics: 0.1.1
 visTree: 0.8.1
 visae: 0.1.0
 viscomplexr: 1.1.0
@@ -20033,14 +20044,15 @@ visualize: 4.4.0
 visualpred: 0.1.0
 visvow: 1.1.1
 vita: 1.0.0
-vitae: 0.4.1
+vitae: 0.4.2
 vitality: '1.3'
 vivo: 0.2.1
 vizdraws: '1.1'
 vkR: '0.2'
-vlad: 0.2.1
+vlad: 0.2.2
 vlda: 1.1.5
 vmd: 0.1.0
+vmr: 0.0.1
 vmsbase: 2.2.1
 vmv: '1.0'
 vocaldia: 0.8.3
@@ -20052,7 +20064,7 @@ voronoiTreemap: 0.2.0
 vortexR: 1.1.7
 vortexRdata: 1.0.5
 vosonSML: 0.29.13
-vote: 2.1-0
+vote: 2.2-0
 voteogram: 0.3.1
 votesys: 0.1.1
 vottrans: '1.0'
@@ -20092,7 +20104,7 @@ wahc: '1.0'
 waiter: 0.2.0
 wakefield: 0.3.6
 wal: 0.1.0
-waldo: 0.2.3
+waldo: 0.2.4
 waldwolf: '0.1'
 walkalytics: 0.1.0
 walker: 1.0.1-1
@@ -20103,7 +20115,7 @@ wally: 1.0.10
 walmartAPI: 0.1.5
 walrus: 1.0.3
 wand: 0.5.0
-warbleR: 1.1.25
+warbleR: 1.1.9
 warp: 0.2.0
 warpMix: 0.1.0
 washdata: 0.1.3
@@ -20143,8 +20155,9 @@ weathercan: 0.5.0
 weathermetrics: 1.2.2
 weatherr: 0.1.3
 webTRISr: 0.2.0
-webchem: 1.1.0
+webchem: 1.1.1
 webddx: 0.1.0
+webdeveloper: 0.1.0
 webdriver: 1.0.6
 webex: 0.9.1
 webfakes: 1.1.1
@@ -20155,7 +20168,7 @@ webr: 0.1.5
 webreadr: 0.4.0
 websearchr: 0.0.3
 webshot: 0.5.2
-websocket: 1.3.1
+websocket: 1.3.2
 websockets: 1.1.7
 webuse: 0.1.3
 webutils: '1.1'
@@ -20200,6 +20213,7 @@ whitestrap: 0.0.1
 whoa: 0.0.1
 whoami: 1.3.0
 whoapi: 0.1.2
+wiad: 0.0.1.0
 wicket: 0.4.0
 widals: 0.6.1
 widenet: 0.1-2
@@ -20208,7 +20222,7 @@ widyr: 0.1.3
 wiesbaden: 1.2.3
 wikibooks: '0.2'
 wikifacts: 0.4.1
-wikilake: '0.4'
+wikilake: 0.5.0
 wikipediatrend: 2.1.6
 wikisourcer: 0.1.5
 wikitaxa: 0.4.0
@@ -20224,7 +20238,7 @@ winch: 0.0.6
 windAC: 1.2.4
 windex: 2.0.1
 windfarmGA: 2.3.0
-winfapReader: 0.1-1
+winfapReader: 0.1-2
 wingui: '0.2'
 wiod: 0.3.0
 wiqid: 0.3.0
@@ -20259,7 +20273,8 @@ wordcloud2: 0.2.1
 wordgraph: 0.1.0
 wordmatch: '1.0'
 wordnet: 0.1-15
-wordpressr: 0.2.0
+wordpiece: 1.0.2
+wordpressr: 0.2.1
 wordsalad: 0.2.0
 wordspace: 0.2-6
 workflowr: 1.6.2
@@ -20268,6 +20283,7 @@ worldmet: 0.9.2
 worms: 0.2.2
 worrms: 0.4.2
 wosr: 0.3.0
+wowa: 1.0.1
 wpp2008: 1.0-1
 wpp2010: 1.2-0
 wpp2012: 2.2-1
@@ -20279,12 +20295,12 @@ wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
 wrGraph: 1.2.0
-wrMisc: 1.5.1
+wrMisc: 1.5.2
 wrProteo: 1.3.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.2
-wrapr: 2.0.6
-wrassp: 0.1.9
+wrapr: 2.0.7
+wrassp: 1.0.0
 write.snns: 0.0-4.2
 writexl: 1.3.1
 wrspathrow: '0.1'
@@ -20327,12 +20343,12 @@ xdcclarge: 0.1.0
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.20'
+xfun: '0.21'
 xgb2sql: 0.1.2
 xgboost: 1.3.2.1
 xgobi: 1.2-15
 xgrid: 1.0-1
-xgxr: 1.0.9
+xgxr: 1.1.0
 xhmmScripts: '1.1'
 xkcd: 0.0.6
 xkcdcolors: '1.0'
@@ -20345,7 +20361,7 @@ xlsx2dfs: 0.1.0
 xlsxjars: 0.6.1
 xltabr: 0.1.2
 xlutils3: 0.1.0
-xmeta: 1.2-1
+xmeta: 1.3-0
 xml2: 1.3.2
 xml2relational: 0.1.0
 xmlconvert: 0.1.1
@@ -20383,6 +20399,7 @@ xtractomatic: 3.4.2
 xtreg2way: 1.0.0
 xts: 0.12.1
 xtune: 0.1.0
+xutils: 0.0.1
 xwf: 0.2-3
 xxIRT: 2.1.2
 xyloplot: '2.0'
@@ -20393,9 +20410,10 @@ yacca: 1.1.1
 yager: 0.1.1
 yakmoR: 0.1.1
 yaml: 2.2.1
-yamlet: 0.5.3
+yamlet: 0.6.9
 yamlme: 0.1.1
 yap: 0.1.1
+yaps: 1.2.4
 yardstick: 0.0.7
 yarr: 0.1.2
 yarrr: 0.1.5
@@ -20411,7 +20429,7 @@ ykmeans: '1.0'
 yll: 1.0.0
 ymlthis: 0.1.3
 yonder: 0.2.0
-yorkr: 0.0.18
+yorkr: 0.0.19
 yotover: 0.3.5
 youtubecaption: 1.0.0
 ypr: 0.5.1
@@ -20442,7 +20460,7 @@ zic: 0.9.1
 zicounts: 1.1.5
 zip: 2.1.1
 zipR: 0.1.1
-zipangu: 0.2.2
+zipangu: 0.2.3
 zipcode: '1.0'
 zipcodeR: 0.2.0
 zipfR: 0.6-70
@@ -20458,6 +20476,7 @@ zooaRch: '1.2'
 zooaRchGUI: 1.0.2
 zoocat: 0.2.0
 zooimage: 5.5.2
+zoolog: 0.2.1
 zoom: 2.0.4
 zoomgrid: 1.0.0
 zoon: 0.6.5
