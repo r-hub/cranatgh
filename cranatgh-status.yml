@@ -968,6 +968,7 @@ ClimInd: 0.1-2
 ClimMobTools: 0.3.5
 ClimProjDiags: 0.1.1
 ClinReport: 0.9.1.8
+ClinSigMeasures: '1.0'
 ClinicalRobustPriors: 2.1-2
 ClinicalTrialSummary: 1.1.1
 ClinicalUtilityRecal: 0.1.0
@@ -1417,7 +1418,7 @@ DiagTest3Grp: '1.6'
 DiagnosisMed: '0.2'
 DiagrammeR: 1.0.6.1
 DiagrammeRsvg: '0.1'
-DiallelAnalysisR: 0.3.0
+DiallelAnalysisR: 0.4.0
 DiceDesign: '1.9'
 DiceEval: '1.5'
 DiceKriging: 1.6.0
@@ -3597,7 +3598,7 @@ NDP: 0.1.0
 NEArender: '1.5'
 NEff: '1.1'
 NEpiC: 1.0.1
-NFCP: 0.1.0
+NFCP: 0.2.0
 NFLSimulatoR: 0.3.0
 NFP: 0.99.3
 NFWdist: 0.1.0
@@ -4034,7 +4035,7 @@ PSSMCOOL: 0.2.1
 PST: '0.94'
 PSTR: 1.2.4
 PSW: 1.1-3
-PSweight: 1.1.2
+PSweight: 1.1.3
 PTAk: 1.3-34
 PTE: '1.7'
 PTXQC: 1.0.9
@@ -5097,6 +5098,7 @@ ResearchMethods: '1.4'
 ResidentialEnergyConsumption: 1.1.0
 ResistorArray: 1.0-32
 ResourceSelection: 0.3-5
+RespirAnalyzer: 1.0.0
 RestRserve: 0.4.1
 RevEcoR: 0.99.3
 Rexperigen: 0.2.1
@@ -5301,6 +5303,7 @@ SACOBRA: '1.2'
 SADEG: 1.0.0
 SADISA: '1.2'
 SAENET: '1.1'
+SAFARI: 0.1.0
 SAFD: '2.1'
 SAGA: 2.0.0
 SAGMM: 0.2.4
@@ -5768,6 +5771,7 @@ SoftClustering: 1.1902.2
 SoftRandomForest: 0.1.0
 SoilHyP: 0.1.5
 SoilR: 1.1-23
+SoilTaxonomy: '0.1'
 Sojourn: 0.1.0
 Sojourn.Data: 0.1.0
 SolveLS: '1.0'
@@ -7540,6 +7544,7 @@ blockRAR: 1.0.2
 blockTools: 0.6-3
 blockcluster: 4.4.3
 blockingChallenge: '1.0'
+blocklength: 0.1.3
 blockmatrix: '1.0'
 blockmodeling: 1.0.0
 blockmodels: 1.1.4
@@ -8365,6 +8370,7 @@ commandr: 1.0.1
 commentr: 1.0.4
 commonmark: '1.7'
 commonsMath: 1.2.5
+communication: '0.1'
 comorbidities: '1.0'
 comorbidity: 0.5.3
 compHclust: 1.0-3
@@ -8457,7 +8463,7 @@ conos: 1.4.0
 conover.test: 1.1.5
 conquer: 1.0.2
 conquestr: 0.8.5
-constants: 1.0.0
+constants: 1.0.1
 constellation: 0.2.0
 constrainedKriging: 0.2.4
 contact: 1.2.5
@@ -9461,7 +9467,7 @@ dsmisc: 0.3.3
 dsmodels: 1.1.0
 dsr: 0.2.2
 dsrTest: 0.2.1
-dssd: 0.2.1
+dssd: 0.2.2
 dst: 1.4.1
 dstack: 0.2.1
 dstat: 1.0.4
@@ -9485,6 +9491,7 @@ duawranglr: 0.6.5
 dub: 0.2.0
 duckdb: 0.2.4
 duckduckr: 1.0.0
+dumbbell: '0.1'
 dummies: 1.5.6
 dummy: 0.1.3
 dundermifflin: 0.1.1
@@ -9678,7 +9685,7 @@ edstan: 1.0.6
 edtdbg: 1.0.0
 educineq: 0.1.0
 edwards97: 0.1.0
-eechidna: 1.4.0
+eechidna: 1.4.1
 eefAnalytics: 1.0.10
 eegAnalysis: '0.0'
 eegkit: 1.0-4
@@ -10310,7 +10317,7 @@ federalregister: 0.2.0
 fedregs: 1.0.0
 fedreporter: 0.2.1
 feedeR: 0.0.10
-feisr: 1.1.4
+feisr: 1.2.0
 fellov: '0.1'
 felp: 0.2.3
 femmeR: 0.5.1
@@ -10793,6 +10800,7 @@ gapmap: 0.0.4
 gapminder: 0.3.0
 garchx: '1.2'
 gargle: 0.5.0
+gargoyle: 0.0.1
 garma: 0.9.7
 garray: 1.1.2
 gaselect: 1.0.9
@@ -10966,6 +10974,7 @@ geoelectrics: 0.2.0
 geofabrik: 0.1.0
 geofacet: 0.2.0
 geofd: '2.0'
+geofi: 1.0.0
 geogenr: 1.0.0
 geogrid: 0.1.1
 geohash: 0.3.0
@@ -12536,6 +12545,7 @@ kernDeepStackNet: 2.0.2
 kerndwd: 2.0.3
 kernelFactory: 0.3.0
 kernelPSI: 1.1.1
+kernelPhil: '0.1'
 kernelPop: 1.0.2
 kernelTDA: 1.0.0
 kernelboot: 0.1.7
@@ -12920,7 +12930,7 @@ linemap: 0.2.0
 lineqGPR: 0.1.1
 lineup: 0.38-3
 lineup2: '0.4'
-lingmatch: 1.0.0
+lingmatch: 1.0.1
 lingtypology: 1.1.4
 linguisticsdown: 1.2.0
 link2GI: 0.4-5
@@ -13089,7 +13099,7 @@ longurl: 0.3.3
 loo: 2.4.1
 lookout: 0.1.0
 lookupTable: '0.1'
-loon: 1.3.2
+loon: 1.3.3
 loon.data: 0.1.1
 loon.ggplot: 1.0.1
 loop: '1.1'
@@ -13260,7 +13270,7 @@ mapDK: 0.3.0
 mapLD: 1.0-1
 mapReasy: '1.0'
 mapReduce: 1.2.6
-mapSpain: 0.1.2
+mapSpain: 0.2.0
 mapStats: '2.4'
 mapaccuracy: 0.1.0
 mapboxapi: '0.2'
@@ -13634,7 +13644,7 @@ miLineage: '2.1'
 miP: '1.1'
 miRNAss: '1.5'
 miRada: 1.13.8-8
-miRecSurv: 0.0.1
+miRecSurv: 1.0.1
 miRtest: '1.8'
 miWQS: 0.4.2
 micEcdat: 0.1-1
@@ -14250,7 +14260,7 @@ mvLSW: 1.2.3
 mvMISE: '1.0'
 mvMORPH: 1.1.3
 mvMonitoring: 0.1.0
-mvPot: 0.1.4
+mvPot: 0.1.5
 mvProbit: 0.1-10
 mvQuad: 1.0-6
 mvSLOUCH: 2.6.1
@@ -15744,7 +15754,7 @@ popReconstruct: 1.0-6
 popbio: '2.7'
 popdemo: 1.3-0
 popgen: 1.0-3
-popgenr: '0.1'
+popgenr: '0.2'
 popgraph: '1.4'
 popkin: 1.3.8
 poplab: '1.0'
@@ -15786,12 +15796,12 @@ powell: 1.0-0
 powerAnalysis: 0.2.1
 powerCRT: 0.1.0
 powerCompRisk: 1.0.1
-powerEQTL: 0.2.2
+powerEQTL: 0.2.7
 powerGWASinteraction: 1.1.3
 powerLATE: 0.1.1
 powerMediation: 0.3.2
 powerSurvEpi: 0.1.1
-powerbydesign: 1.0.4
+powerbydesign: 1.0.5
 powerlmm: 0.4.0
 powerpkg: '1.5'
 powerplus: '3.1'
@@ -16427,7 +16437,7 @@ radous: 0.1.2
 radsafer: 2.2.4
 radtools: 1.0.6
 rafalib: 1.0.0
-ragg: 1.1.0
+ragg: 1.1.1
 rags2ridges: 2.2.4
 ragt2ridges: 0.3.4
 ragtop: 1.1.1
@@ -17225,7 +17235,7 @@ rosqp: 0.1.0
 rosr: 0.0.8
 rotasym: 1.1.0
 rotationForest: 0.1.3
-rotations: 1.6.1
+rotations: '1.6'
 rotl: 3.0.11
 rotor: 0.3.5
 roughrf: '1.0'
@@ -18624,6 +18634,7 @@ sprintfr: 0.1.0
 sprintr: 0.9.0
 sprm: 1.2.2
 sprsmdl: 0.1-0
+spsComps: 0.1.0
 spsUtil: 0.1.0
 spsann: 2.2.0
 spsarlm: 0.1-3
@@ -18915,7 +18926,7 @@ subselect: 0.15.2
 subsemble: 0.0.9
 subspace: 1.0.4
 subspaceMOA: 0.6.0
-subtee: 0.3-6
+subtee: 0.3-7.1
 subtype: '1.0'
 sudachir: 0.1.0
 suddengains: 0.4.4
@@ -19185,7 +19196,7 @@ tauturri: 0.3.0
 tawny: 2.1.7
 tawny.types: 1.1.5
 taxa: 0.3.4
-taxadb: 0.1.0
+taxadb: 0.1.1
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.0
@@ -19868,7 +19879,7 @@ uniqueAtomMat: 0.1-3-2
 unisensR: 0.3.3
 unitedR: '0.4'
 unitizer: 1.4.12
-units: 0.6-7
+units: 0.7-0
 unittest: 1.4-0
 univOutl: '0.2'
 unival: 1.0.2
