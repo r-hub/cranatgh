@@ -546,7 +546,7 @@ Bergm: 5.0.2
 BerkeleyEarth: '1.8'
 BerlinData: 1.0.1
 Bessel: 0.6-0
-Bestie: 0.1.1
+Bestie: 0.1.2
 BetaBit: '1.4'
 BetaPASS: 1.1-1
 BeviMed: '5.8'
@@ -1048,7 +1048,7 @@ CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
 Compind: '2.1'
 ComplexAnalysis: '1.0'
-ComplexUpset: 1.0.3
+ComplexUpset: 1.1.0
 Compositional: '4.4'
 CompoundEvents: 0.1.0
 Compounding: 1.0.2
@@ -3095,6 +3095,7 @@ MDBED: 1.0.0
 MDD: '0.5'
 MDFS: 1.2.0
 MDM: '1.3'
+MDMAPR: 0.1.0
 MDMR: 0.5.1
 MDPtoolbox: 4.0.3
 MDR: '1.2'
@@ -3449,7 +3450,7 @@ MicroMacroMultilevel: 0.4.0
 MicroNiche: 1.0.0
 MicroSEC: 1.1.3
 MicroStrategyR: 1.0-1
-Microsoft365R: 1.0.0
+Microsoft365R: 2.0.0
 MigClim: '1.6'
 MinBAR: 1.1.2
 MinEDfind: 0.1.3
@@ -4291,6 +4292,7 @@ QGameTheory: 0.1.2
 QGglmm: 0.7.4
 QHOT: 0.1.0
 QICD: 1.2.0
+QKPIs: '1.0'
 QLSpline: 1.0-1
 QLearning: 0.1.1
 QNB: 1.1.9
@@ -5322,7 +5324,7 @@ SAMtool: 1.1.1
 SAPP: 1.0.8
 SAR: 1.0.3
 SARP.compo: 0.1.3
-SARP.moodle: 0.8.6
+SARP.moodle: 0.8.7
 SASPECT: 0.1-1
 SAScii: '1.0'
 SASmarkdown: 0.4.3
@@ -6228,7 +6230,7 @@ TunePareto: '2.5'
 TurtleGraphics: 1.0-8
 Tushare: 0.1.3
 TwitterAutomatedTrading: 0.1.0
-TwoArmSurvSim: '0.1'
+TwoArmSurvSim: '0.2'
 TwoCop: '1.0'
 TwoPhaseInd: 1.1.1
 TwoRegression: 0.1.2
@@ -7295,7 +7297,7 @@ bellreg: 0.0.1
 bench: 1.1.1
 benchden: 1.0.5
 benchmark: '0.3'
-benchmarkme: 1.0.5
+benchmarkme: 1.0.6
 benchmarkmeData: 1.0.4
 benchr: 0.2.5
 bender: 0.1.1
@@ -7930,6 +7932,7 @@ ccmReportR: 0.1.0
 ccmm: '1.0'
 ccostr: 0.1.0
 ccrs: 0.1.0
+ccrtm: 0.1.6
 ccss: '1.0'
 cctools: 0.1.2
 cd: 0.1.0
@@ -8968,7 +8971,7 @@ dbnlearn: 0.1.0
 dbparser: 1.2.0
 dbplot: 0.3.3
 dbplyr: 2.1.0
-dbscan: 1.1-5
+dbscan: 1.1-6
 dbstats: 1.0.5
 dbx: 0.2.8
 dc3net: 1.2.0
@@ -10220,6 +10223,7 @@ fastM: 0.0-4
 fastNaiveBayes: 2.2.1
 fastR: 0.8-1
 fastR2: 1.2.1
+fastRG: 0.3.0
 fastSOM: 1.0.1
 fastStat: '1.4'
 fastTextR: 2.0.0
@@ -10812,7 +10816,7 @@ gateR: 0.1.7
 gatepoints: 0.1.4
 gauseR: '1.0'
 gaussDiff: '1.1'
-gausscov: 0.0.12
+gausscov: 0.0.13
 gaussfacts: 0.0.2
 gaussplotR: 0.2.3
 gausspred: 1.0-0
@@ -11564,7 +11568,7 @@ gtools: 3.8.2
 gtop: 0.2.0
 gtrendsR: 1.4.8
 gtsf: 0.1.0
-gtsummary: 1.3.6
+gtsummary: 1.3.7
 gtx: 0.0.8
 guaguas: 0.1.0
 guardianapi: 0.1.1
@@ -12779,7 +12783,7 @@ lbfgsb3c: 2020-3.2
 lbiassurv: '1.1'
 lbreg: '1.3'
 lcars: 0.3.6
-lcc: 1.1.1
+lcc: 1.1.2
 lcd: 0.7-3
 lcda: '0.3'
 lchemix: 0.1.0
@@ -13358,7 +13362,7 @@ matrixStats: 0.58.0
 matrixStrucTest: 1.0.0
 matrixTests: 0.1.9
 matrixcalc: 1.0-3
-matrixdist: 1.0.1
+matrixdist: 1.0.2
 matrixpls: 1.0.9
 matrixprofiler: 0.1.3
 matrixsampling: 2.0.0
@@ -13611,6 +13615,7 @@ mev: 1.13.1
 mewAvg: 0.3.0
 mexhaz: '1.10'
 mfGARCH: 0.2.0
+mfaces: 0.1-2
 mfblock: '1.0'
 mfbvar: 0.5.6
 mfdb: 6.2-0
@@ -14489,7 +14494,7 @@ nice: 0.4-1
 nicheROVER: '1.0'
 nichevol: 0.1.19
 nightmares: 0.0.2
-nilde: 1.1-3
+nilde: 1.1-4
 nima: 0.6.2
 nimble: 0.10.1
 nimbleEcology: 0.3.1
@@ -14570,7 +14575,7 @@ nnlasso: '0.3'
 nnlib2Rcpp: 0.1.4
 nnls: '1.4'
 nnt: 0.1.4
-nntrf: 0.1.3
+nntrf: 0.1.4
 noaaoceans: 0.2.0
 noaastormevents: 0.2.0
 noah: 0.1.0
@@ -15213,7 +15218,7 @@ pawls: 1.0.0
 paws: 0.1.10
 paws.analytics: 0.1.10
 paws.application.integration: 0.1.10
-paws.common: 0.3.8
+paws.common: 0.3.9
 paws.compute: 0.1.10
 paws.cost.management: 0.1.10
 paws.customer.engagement: 0.1.10
@@ -15593,7 +15598,7 @@ plot.matrix: 1.5.2
 plot2groups: '0.10'
 plot3D: '1.3'
 plot3Drgl: 1.0.1
-plot3logit: 3.0.0
+plot3logit: 3.1.0
 plotAndPlayGTK: 0.8.78
 plotGMM: 0.2.2
 plotGoogleMaps: '2.2'
@@ -16247,7 +16252,7 @@ quantoptr: 0.1.3
 quantreg: '5.85'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
-quantregGrowth: 0.4-3
+quantregGrowth: 1.0-0
 quantregRanger: '1.0'
 quantspec: 1.2-3
 quarks: 1.0.4
@@ -16973,7 +16978,8 @@ rgsp: 0.2.0
 rgugik: 0.2.1
 rgw: 0.3.0
 rhandsontable: 0.3.7
-rhcoclust: 1.0.0
+rhcoclust: 1.1.0
+rheroicons: 0.3.1
 rhierbaps: 1.1.3
 rhli: 0.0.2
 rhmc: 1.0.0
@@ -17105,7 +17111,7 @@ rmetasim: 3.1.7
 rmgarch: 1.3-7
 rmi: 0.1.1
 rminer: 1.4.6
-rminizinc: 0.0.5
+rminizinc: 0.0.6
 rmio: 0.2.0
 rmmseg4j: 0.2-0
 rmngb: 0.6-1
@@ -17637,7 +17643,7 @@ scBio: 0.1.6
 scDIFtest: 0.1.1
 scLink: 1.0.1
 scMappR: 0.1.5
-scModels: 1.0.1
+scModels: 1.0.2
 scPDSI: 0.1.3
 scRNAtools: '1.0'
 scSorter: 0.0.1
@@ -17775,7 +17781,7 @@ secrettext: 0.1.0
 secrlinear: 1.1.1
 secsse: 2.0.7
 secuTrialR: 1.0.8
-secure: '0.5'
+secure: '0.6'
 securitytxt: 0.1.1
 see: 0.6.2
 seeclickfixr: 1.1.0
@@ -17922,6 +17928,7 @@ sft: 2.2-1
 sftrack: 0.5.2
 sgPLS: '1.7'
 sgRSEA: '0.1'
+sgat: '0.9'
 sgd: 1.1.1
 sgee: 0.6-0
 sgeostat: 1.0-27
@@ -18915,7 +18922,7 @@ subgxe: 0.9.0
 sublime: '1.3'
 sublogo: '1.1'
 submax: 1.1.1
-subniche: '1.3'
+subniche: '1.4'
 subplex: 1.2-2
 subprocess: 0.8.3
 subrank: 0.9.9.1
@@ -19216,6 +19223,7 @@ tccox: 0.1.0
 tcensReg: 0.1.7
 tcftt: 0.1.0
 tcgsaseq: 2.0.5
+tci: 0.1.0
 tcie: '0.3'
 tcl: 0.1.0
 tcltk: 0.1-1
@@ -19330,7 +19338,7 @@ tfplot: 2015.12-1
 tfprobability: 0.11.0.0
 tframe: 2015.12-1.1
 tframePlus: 2016.7-1
-tfruns: '1.4'
+tfruns: 1.5.0
 tfse: 0.5.0
 tgamtheme: 0.1.0
 tgcd: '2.5'
@@ -19792,6 +19800,7 @@ tvgeom: 1.0.1
 tvm: 0.4.0
 tvthemes: 1.1.1
 twang: '1.6'
+twangContinuous: 1.0.0
 tweedie: 2.3.3
 tweenr: 1.0.1
 tweet2r: '1.1'
@@ -20357,7 +20366,7 @@ wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
 wrGraph: 1.2.1
-wrMisc: 1.5.2
+wrMisc: 1.5.3
 wrProteo: 1.3.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.2
