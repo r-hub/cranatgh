@@ -362,7 +362,7 @@ BIOM.utils: '0.9'
 BIOMASS: 2.1.4
 BIOdry: '0.8'
 BIPOD: 0.2.1
-BIRDS: 0.1.2
+BIRDS: 0.1.27.1
 BIS: 0.2.1
 BKPC: 1.0.1
 BLCOP: 0.3.3
@@ -1080,7 +1080,7 @@ CopCTS: 1.0.0
 Copula.Markov: '2.8'
 Copula.Markov.survival: 1.0.0
 Copula.surv: '1.1'
-CopulaCenR: 1.1.2
+CopulaCenR: 1.1.3
 CopulaDTA: 1.0.0
 CopulaREMADA: '1.3'
 CopulaRegression: 0.1-5
@@ -2037,7 +2037,7 @@ GDINA: 2.8.0
 GE: 0.1.6
 GEEaSPU: 1.0.2
 GEEmediate: 1.1.3
-GEInter: 0.1.0
+GEInter: 0.2.0
 GENEAclassify: 1.5.2
 GENEAread: 2.0.9
 GENEAsphere: 1.5.1
@@ -3986,7 +3986,7 @@ POFIBGE: 0.1.0
 POINT: '1.1'
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
-POSetR: '1.0'
+POSetR: 1.0.1
 POT: 1.1-7
 POUMM: 2.1.7
 POV: 0.1.4
@@ -4710,7 +4710,7 @@ RProtoBuf: 0.4.17
 RPscoring: 0.1.0
 RPtests: 0.1.4
 RPublica: 0.1.3
-RPushbullet: 0.3.3
+RPushbullet: 0.3.4
 RPyGeo: 1.0.0
 RQDA: 0.3-1
 RQEntangle: 0.1.3
@@ -4946,7 +4946,7 @@ RcmdrPlugin.SurvivalT: 1.0-7
 RcmdrPlugin.TeachStat: 1.1.0
 RcmdrPlugin.TeachingDemos: 1.2-0
 RcmdrPlugin.TextMining: 0.1-0
-RcmdrPlugin.UCA: 4.3-3
+RcmdrPlugin.UCA: 4.3-4
 RcmdrPlugin.WorldFlora: '1.1'
 RcmdrPlugin.aRnova: 0.0.5
 RcmdrPlugin.coin: 1.0-22
@@ -5105,7 +5105,7 @@ ResearchMethods: '1.4'
 ResidentialEnergyConsumption: 1.1.0
 ResistorArray: 1.0-32
 ResourceSelection: 0.3-5
-RespirAnalyzer: 1.0.0
+RespirAnalyzer: 1.0.1
 RestRserve: 0.4.1
 RevEcoR: 0.99.3
 Rexperigen: 0.2.1
@@ -7769,7 +7769,7 @@ bwsurvival: '1.0'
 bysykkel: 0.3.1
 bytescircle: '1.1'
 bzinb: 1.0.4
-c060: 0.2-5
+c060: 0.2-6
 c14bazAAR: 1.2.0
 c212: '0.98'
 c2c: 0.1.0
@@ -9444,7 +9444,7 @@ drake: 7.13.1
 drat: 0.1.8
 draw: 1.0.0
 drawExpression: '1.0'
-drawsample: 0.1.1
+drawsample: 1.0.0
 drc: 3.0-1
 dreamerr: 1.2.3
 drf: 1.0.0
@@ -10349,7 +10349,7 @@ ffmetadata: 1.0.0
 ffscrapr: 1.2.2
 ffstream: 0.1.6
 fftw: 1.0-6
-fftwtools: 0.9-10
+fftwtools: 0.9-11
 fgac: 0.6-1
 fgdr: 1.1.0
 fgeo: 1.1.4
@@ -10432,7 +10432,7 @@ fitzRoy: 0.3.3
 fivethirtyeight: 0.6.1
 fixedTimeEvents: '1.0'
 fixerapi: 0.1.6
-fixest: 0.8.2
+fixest: 0.8.3
 fizzbuzzR: 0.1.1
 flacco: '1.8'
 flagr: 0.3.2
@@ -11189,7 +11189,7 @@ ggquiver: 0.2.0
 ggraph: 2.0.5
 ggraptR: '1.3'
 ggrasp: '1.0'
-ggrastr: 0.2.2
+ggrastr: 0.2.3
 ggrepel: 0.9.1
 ggridges: 0.5.3
 ggrisk: '1.2'
@@ -11257,7 +11257,7 @@ gitter: '1.1'
 givitiR: '1.3'
 gjam: 2.3.4
 gk: 0.5.1
-gkgraphR: 1.0.1
+gkgraphR: 1.0.2
 gkmSVM: 0.81.0
 glacierSMBM: '0.1'
 glamlasso: '3.0'
@@ -13360,7 +13360,7 @@ matconv: 0.4.0
 matdist: 0.1.1
 mateable: 0.3.1
 mathgraph: 0.9-8
-mathjaxr: 1.2-0
+mathjaxr: 1.4-0
 mathpix: 0.4.0
 maticce: 1.0-3
 matie: '1.2'
@@ -15721,7 +15721,7 @@ polidata: 0.1.0
 poliscidata: 2.3.0
 polished: 0.2.0
 polite: 0.1.1
-politeness: 0.7.6
+politeness: 0.7.7
 politicaldata: 0.1.3
 pollen: 0.72.0
 pollimetry: 1.0.1
@@ -18190,7 +18190,7 @@ sinar: 0.1.0
 sinartra: '0.1'
 sindyr: 0.2.3
 sinew: 0.3.8
-singcar: 0.1.2
+singcar: 0.1.3
 singleCellHaystack: 0.3.3
 singlecase: '0.1'
 sinib: 1.0.0
@@ -18499,7 +18499,7 @@ sparsesvd: '0.2'
 sparsevar: 0.0.11
 sparsevb: 0.1.0
 sparsio: 1.0.1
-sparta: 0.7.0
+sparta: 0.7.1
 spartan: 3.0.2
 spass: '1.3'
 spatclus: 1.0-3
@@ -19222,6 +19222,7 @@ tawny: 2.1.7
 tawny.types: 1.1.5
 taxa: 0.3.4
 taxadb: 0.1.1
+taxalight: 0.1.1
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.0
