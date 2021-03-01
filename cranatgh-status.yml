@@ -564,7 +564,7 @@ BiasCorrector: 0.1.2
 BiasedUrn: '1.07'
 BibPlots: 0.0.6
 BifactorIndicesCalculator: 0.2.1
-BigQuic: 1.1-9
+BigQuic: 1.1-9.1
 BigSEM: '0.2'
 BigTSP: '1.0'
 BigVAR: 1.0.6
@@ -708,7 +708,7 @@ CBPS: '0.21'
 CBSr: 1.0.5
 CBT: '1.0'
 CC: '1.0'
-CCA: '1.2'
+CCA: 1.2.1
 CCAGFA: 1.0.8
 CCAMLRGIS: 3.0.6
 CCM: '1.2'
@@ -1828,6 +1828,7 @@ FMradio: 1.1.1
 FMsmsnReg: '1.0'
 FNN: 1.1.3
 FOCI: 0.1.2
+FORTLS: 1.0.0
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
@@ -2123,6 +2124,7 @@ GPCMlasso: 0.1-4
 GPCSIV: 0.1.0
 GPFDA: 3.1.1
 GPGame: 1.1.0
+GPIC: 0.1.0
 GPL2025: 1.0.1
 GPLTR: '1.2'
 GPM: 3.0.1
@@ -2786,6 +2788,7 @@ KenSyn: '0.3'
 Kendall: '2.2'
 KernSmooth: 2.23-18
 KernSmoothIRT: '6.4'
+KernelICA: 0.1.0
 KernelKnn: 1.1.0
 Kernelheaping: 2.2.2
 Keyboard: 0.1.0
@@ -3029,9 +3032,10 @@ MAR1: '1.0'
 MARSANNhybrid: 0.1.0
 MARSS: 3.11.3
 MARSSVRhybrid: 0.1.0
+MARVEL: 1.0.0
 MARX: '0.2'
 MASS: 7.3-53.1
-MASSExtra: 1.0.2
+MASSExtra: 1.1.1
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
 MAT: '2.2'
@@ -4172,6 +4176,7 @@ PoisNor: 1.3.2
 PoissonBinomial: 1.2.1
 PoissonPCA: 1.0.2
 PoissonSeq: 1.1.2
+PolicyPortfolios: 0.2.2
 PoloniexR: 0.0.1
 PolyHaplotyper: 1.0.0
 PolyPatEx: 0.9.2
@@ -5688,6 +5693,7 @@ SigTree: 1.10.6
 SigWinR: '1.0'
 SightabilityModel: 1.4.1
 Signac: 1.1.1
+SignacX: 2.2.0
 SignifReg: '3.0'
 Sim.DiffProc: '4.8'
 Sim.DiffProcGUI: '2.5'
@@ -6637,6 +6643,7 @@ admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
 adnuts: 1.0.1
+adobeanalyticsr: 0.1.5
 adoption: 0.6.2
 adoptr: 0.4.1
 adpss: 0.1.1
@@ -7341,6 +7348,7 @@ bglm: '1.0'
 bgmfiles: 0.0.6
 bgmm: 1.8.4
 bgsmtr: '0.7'
+bgumbel: 0.0.1
 bhm: '1.16'
 bhmbasket: 0.9.1
 bhpm: '1.7'
@@ -8861,6 +8869,7 @@ dabestr: 0.3.0
 dabr: 0.0.2
 dad: 3.4.3
 dadjoke: '1.0'
+dadjokeapi: 1.0.2
 dae: 3.1-32
 daewr: 1.2-5
 daff: 0.3.5
@@ -8892,6 +8901,7 @@ dashboardthemes: 1.1.3
 dat: 0.5.0
 data.table: 1.14.0
 data.tree: 1.0.0
+data.validator: 0.1.4
 data.world: 1.2.2
 data360r: 1.0.8
 dataCompareR: 0.1.3
@@ -9224,6 +9234,7 @@ dina: 2.0.0
 dinamic: '1.0'
 dineq: 0.1.0
 dint: 2.1.3
+dipm: '1.0'
 diproperm: 0.1.0
 dipsaus: 0.1.5
 diptest: 0.75-7
@@ -9382,6 +9393,7 @@ doebioresearch: 0.1.0
 doex: '1.2'
 dominanceanalysis: 2.0.0
 domino: 0.3.1
+domir: 0.0.0
 donut: 1.0.1
 doremi: 1.0.0
 dosearch: 1.0.6
@@ -10927,7 +10939,7 @@ generator: 0.1.0
 generics: 0.1.0
 genero: 0.1.0
 genesysr: 1.0.0
-genetics: 1.3.8.1.2
+genetics: 1.3.8.1.3
 genie: 1.0.5
 genieclust: 0.9.8
 genio: 1.0.12
@@ -11186,6 +11198,7 @@ ggsci: '2.9'
 ggseas: 0.5.4
 ggseqlogo: '0.1'
 ggshadow: 0.0.2
+ggside: 0.0.1.3
 ggsignif: 0.6.1
 ggsn: 0.5.0
 ggsoccer: 0.1.6
@@ -12381,6 +12394,7 @@ iterators: 1.0.13
 iterpc: 0.4.2
 itertools: 0.1-3
 itertools2: 0.1.1
+itraxR: '1.1'
 itree: '0.1'
 its: 1.1.8
 its.analysis: 1.6.0
@@ -13296,6 +13310,7 @@ maps: 3.3.0
 mapsFinland: 0.1.1
 mapsRinteractive: 1.0.1
 mapsapi: 0.4.8
+mapsf: 0.1.1
 maptiles: 0.1.1
 maptools: 1.0-2
 maptpx: 1.9-7
@@ -13607,6 +13622,7 @@ methcon5: 0.1.0
 metools: 1.0.0
 metricTester: 1.3.6
 metricsgraphics: 0.9.0
+metro: 0.9.1
 metropolis: 0.1.8
 metrumrg: '5.5'
 mets: 1.2.8.1
@@ -13869,6 +13885,7 @@ mlr3verse: 0.2.0
 mlr3viz: 0.5.1
 mlrCPO: 0.3.7-2
 mlrMBO: 1.1.5
+mlrintermbo: 0.5.0
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.1
 mlt: 1.2-3
@@ -14686,7 +14703,7 @@ npsr: 0.1.1
 npst: '2.0'
 npsurv: 0.5-0
 npsurvSS: 1.0.1
-nptest: 1.0-2
+nptest: 1.0-3
 nricens: '1.6'
 nsRFA: 0.7-15
 nsROC: '1.1'
@@ -15780,6 +15797,7 @@ portfolioSim: 0.2-7
 portsort: 0.1.0
 postCP: 1.7.2
 postDoubleR: 1.4.12
+postGGIR: 1.0.0
 postGIStools: 0.2.4
 postHoc: 0.1.3
 postal: 0.1.1
@@ -15805,7 +15823,7 @@ powerEQTL: 0.2.7
 powerGWASinteraction: 1.1.3
 powerLATE: 0.1.1
 powerMediation: 0.3.2
-powerSurvEpi: 0.1.1
+powerSurvEpi: 0.1.3
 powerbydesign: 1.0.5
 powerlmm: 0.4.0
 powerpkg: '1.5'
@@ -18365,7 +18383,7 @@ som: 0.3-5.1
 som.nn: 1.1.0
 soma: 1.1.1
 someKfwer: '1.2'
-someMTP: 1.4.1
+someMTP: 1.4.1.1
 somebm: '0.1'
 sommer: 4.1.2
 somplot: 1.6.4
@@ -20463,7 +20481,7 @@ xsp: 0.1.2
 xspliner: 0.0.4
 xtable: 1.8-4
 xtal: '1.15'
-xtensor: 0.11.1-0
+xtensor: 0.13.2-0
 xterm256: 0.1-2
 xtermStyle: 3.0.5
 xtractomatic: 3.4.2
