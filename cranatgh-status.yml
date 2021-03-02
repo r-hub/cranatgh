@@ -560,7 +560,7 @@ BiGGR: '1.8'
 BiProbitPartial: 1.0.3
 BiSEp: '2.2'
 BiTrinA: '1.3'
-BiasCorrector: 0.1.2
+BiasCorrector: 0.1.3
 BiasedUrn: '1.07'
 BibPlots: 0.0.6
 BifactorIndicesCalculator: 0.2.1
@@ -928,7 +928,7 @@ ChangepointTesting: '1.0'
 ChannelAttribution: 2.0.2
 ChannelAttributionApp: '1.3'
 Chaos01: 1.2.1
-ChaosGame: '0.4'
+ChaosGame: '1.0'
 CharFun: 0.1.0
 ChargeTransport: 1.0.2
 CheckDigit: 0.1-1
@@ -1133,7 +1133,7 @@ CrossScreening: 0.1.1
 CrossVA: 0.10.0
 CrossValidate: 2.3.4
 Crossover: 0.1-20
-CruzPlot: 1.4.4
+CruzPlot: 1.4.5
 CryptRndTest: 1.2.2
 CrypticIBDcheck: 0.3-3
 CsChange: 0.1.6
@@ -1821,7 +1821,7 @@ FMAdist: 0.1.0
 FMC: 1.0.0
 FMCCSD: '1.0'
 FME: 1.3.6.1
-FMM: 0.1.1
+FMM: 0.1.2
 FMP: '1.4'
 FMStable: 0.1-2
 FMradio: 1.1.1
@@ -3503,7 +3503,7 @@ Modelcharts: 0.1.0
 Modeler: 3.4.5
 MolgenisArmadillo: 1.0.1
 MolgenisAuth: 0.0.14
-MomTrunc: '5.91'
+MomTrunc: '5.97'
 Momocs: 1.3.2
 Mondrian: 1.1.0
 MonetDB.R: 2.0.0
@@ -3694,7 +3694,7 @@ NetComp: '1.6'
 NetData: '0.3'
 NetIndices: 1.4.4
 NetLogoR: 0.3.7
-NetMix: 0.1.5
+NetMix: 0.2.0
 NetOrigin: 1.0-3
 NetPreProc: '1.1'
 NetRep: 1.2.4
@@ -4561,7 +4561,7 @@ RJSONLD: '1.0'
 RJSplot: '2.5'
 RJaCGH: 2.0.4
 RJafroc: 2.0.1
-RJcluster: 0.1.0
+RJcluster: 0.1.1
 RKEA: 0.0-6
 RKEAjars: 5.0-4
 RKEEL: 1.3.2
@@ -5209,7 +5209,7 @@ RobPer: 1.2.2
 RobRSVD: '1.0'
 RobRex: 1.2.0
 RobStatTM: 1.0.2
-RobinHood: '1.5'
+RobinHood: '1.6'
 Robocoap: 0.1-1
 RobustAFT: 1.4-5
 RobustBayesianCopas: '2.0'
@@ -7045,7 +7045,7 @@ automultinomial: 2.0.0
 autoplotly: 0.1.2
 autopls: '1.3'
 autoshiny: 0.0.2
-autostsm: '1.2'
+autostsm: 1.2.1
 autota: 0.1.3
 autothresholdr: 1.3.9
 autovarCore: 1.0-4
@@ -7314,7 +7314,7 @@ bentcableAR: 0.3.0
 benthos: 1.3-6
 ber: '4.0'
 berryFunctions: 1.19.1
-bestNormalize: 1.6.1
+bestNormalize: 1.7.0
 bestSDP: 0.1.2
 bestglm: 0.37.3
 bestridge: 1.0.1
@@ -8252,7 +8252,7 @@ cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.1
 cmfilter: 0.9.1
-cmfrec: 2.4.2
+cmfrec: 2.4.5
 cmm: '0.12'
 cmmr: 0.1.2
 cmna: 1.0.3
@@ -8848,7 +8848,7 @@ cytofan: 0.1.0
 cytometree: 2.0.2
 cytominer: 0.2.2
 czechrates: 0.1.10
-czso: 0.3.2
+czso: 0.3.4
 d3Network: 0.5.2.1
 d3Tree: 0.2.2
 d3heatmap: 0.6.1
@@ -9029,7 +9029,7 @@ debugr: 0.0.1
 decctools: 0.2.1
 decido: 0.3.0
 decision: 0.1.0
-decisionSupport: 1.105.3
+decisionSupport: '1.106'
 deckgl: 0.2.7
 decode: '1.2'
 decoder: 1.2.2
@@ -10496,7 +10496,7 @@ fmdates: 0.1.4
 fmerPack: 0.0-1
 fmf: 1.1.1
 fmlogcondens: 1.0.2
-fmpcloudr: 0.1.4
+fmpcloudr: 0.1.5
 fmri: 1.9.6
 fmriqa: 0.3.0
 fmrs: 1.0-9
@@ -12378,7 +12378,7 @@ isoph: '1.1'
 isoreader: 1.3.0
 isotone: 1.1-0
 isotonic.pen: '1.0'
-isotree: 0.1.28
+isotree: 0.2.7
 ispd: '0.2'
 isqg: '1.3'
 issueReporter: 0.1.0
@@ -15068,7 +15068,7 @@ packHV: '2.2'
 packMBPLSDA: 0.8.0
 packS4: 0.9.3
 packageDiff: '0.1'
-packageRank: 0.3.5
+packageRank: 0.4.0
 packagedocs: 0.4.0
 packagefinder: 0.3.2
 packager: 1.10.0
@@ -15158,7 +15158,7 @@ paramGUI: 2.1.4
 parameters: 0.12.0
 paramhetero: 0.2.0
 paramlink: 1.1-2
-params: 0.6.1
+params: 0.7.3
 paramtest: 0.1.0
 paran: 1.5.2
 parboost: 0.1.4
@@ -15559,7 +15559,7 @@ pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.1
 pkgbuild: 1.2.0
-pkgcache: 1.1.1
+pkgcache: 1.2.0
 pkgcond: 0.1.0
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
@@ -16273,7 +16273,7 @@ quantregForest: 1.3-7
 quantregGrowth: 1.0-0
 quantregRanger: '1.0'
 quantspec: 1.2-3
-quarks: 1.0.4
+quarks: 1.0.5
 quarrint: 1.0.0
 quarto: '0.1'
 quaternions: '0.2'
@@ -16299,7 +16299,7 @@ quotedargs: 0.1.3
 qut: '2.2'
 qvalue: 1.26.0
 qvcalc: 1.0.2
-qwraps2: 0.5.0
+qwraps2: 0.5.1
 r.blip: '1.1'
 r.jive: '2.4'
 r2d2: 1.0-0
@@ -16307,7 +16307,7 @@ r2d3: 0.2.5
 r2dRue: 1.0.4
 r2dictionary: '0.1'
 r2dii.analysis: 0.1.5
-r2dii.data: 0.1.8
+r2dii.data: 0.1.9
 r2dii.match: 0.0.8
 r2glmm: 0.1.2
 r2lUniv: '0.9'
@@ -16336,7 +16336,7 @@ rBDAT: 0.9.7
 rBMF: '1.1'
 rBayesianOptimization: 1.1.0
 rBeta2009: '1.0'
-rBiasCorrection: 0.2.6
+rBiasCorrection: 0.2.7
 rCAT: 0.1.6
 rCBA: 0.4.3
 rCMA: '1.1'
@@ -17035,7 +17035,7 @@ ringbuffer: '1.1'
 ringscale: 0.1.2
 rintimg: 0.1.0
 rintrojs: 0.2.2
-rio: 0.5.16
+rio: 0.5.26
 rioja: 0.9-26
 ripa: 2.0-2
 ripe: 0.1.0
@@ -17486,7 +17486,7 @@ rules: 0.1.1
 rumidas: 0.1.1
 runStat: '1.1'
 runes: 0.1.0
-runexp: 0.1.0
+runexp: 0.2.0
 runittotestthat: 0.0-2
 runjags: 2.0.4-6
 runner: 0.3.8
@@ -18467,7 +18467,7 @@ sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
 sparklyr: 1.5.2
-sparklyr.flint: 0.2.0
+sparklyr.flint: 0.2.1
 sparklyr.nested: 0.0.3
 sparktex: '0.1'
 sparktf: 0.1.0
@@ -20096,7 +20096,7 @@ vici: 0.5.2
 vietnamcode: 0.1.1
 viewshed3d: 3.2.0
 vimcom: 0.9-9
-vimp: 2.1.6
+vimp: 2.1.9
 vimpclust: 0.1.0
 vindecodr: 0.1.1
 vinereg: 0.7.3
@@ -20172,7 +20172,7 @@ vrtest: '0.97'
 vscc: '0.2'
 vsgoftest: 1.0-1
 vstsr: 1.0.0
-vtable: 1.2.6
+vtable: 1.2.7
 vtcl: 1.0-1
 vtreat: 1.6.2
 vtree: 5.1.9
