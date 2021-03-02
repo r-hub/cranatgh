@@ -1353,7 +1353,7 @@ DataPackageR: 0.15.7
 DataSpaceR: 0.7.4
 DataVisualizations: 1.2.2
 DataViz: 0.2.8
-DatabaseConnector: 3.0.0
+DatabaseConnector: 4.0.0
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.1.5
 Datasmith: 1.0-1
@@ -1828,7 +1828,7 @@ FMradio: 1.1.1
 FMsmsnReg: '1.0'
 FNN: 1.1.3
 FOCI: 0.1.2
-FORTLS: 1.0.0
+FORTLS: 1.0.1
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
@@ -2068,6 +2068,7 @@ GGMM: 1.0.1
 GGMncv: 2.0.0
 GGMridge: '1.1'
 GGMselect: 0.1-12.4
+GGRidge: 0.1.0
 GGUM: 0.4-2
 GGally: 2.1.0
 GHQp: '1.0'
@@ -2954,7 +2955,7 @@ LendingClub: 2.0.0
 LexisNexisTools: 0.3.3
 LexisPlotR: 0.4.0
 LibOPF: 2.6.0
-LiblineaR: 2.10-8
+LiblineaR: 2.10-12
 LiblineaR.ACF: 1.94-2
 Libra: '1.6'
 LifeHist: 1.0-1
@@ -2973,7 +2974,7 @@ LinearizedSVR: '1.3'
 LinkageMapView: 2.1.2
 LinkedGASP: '1.0'
 LinkedMatrix: 1.4.0
-LipidMS: 2.1.1
+LipidMS: 2.1.2
 LipidMSdata: 1.0.0
 Lmoments: 1.3-1
 LncFinder: 1.1.4
@@ -3367,7 +3368,7 @@ Matrix.utils: 0.9.8
 MatrixCorrelation: 0.9.5
 MatrixEQTL: '2.3'
 MatrixLDA: '0.2'
-MatrixModels: 0.4-1
+MatrixModels: 0.5-0
 MaxMC: 0.1.1
 MaxPro: 4.1-2
 MaxSkew: '1.1'
@@ -3750,7 +3751,7 @@ OBMbpkg: 1.0.0
 OBRE: 0.1-0
 OBsMD: '6.1'
 OCA: '0.4'
-OCNet: 0.3.2
+OCNet: 0.4.0
 ODB: 1.2.1
 ODEnetwork: 1.3.2
 ODEsensitivity: 1.1.2
@@ -4444,7 +4445,7 @@ RChronoModel: '0.4'
 RCircos: 1.2.1
 RClickhouse: 0.5.2
 RClimMAWGEN: '1.1'
-RClimacell: 0.1.0
+RClimacell: 0.1.2
 RClone: 1.0.2
 RColetum: 0.2.1
 RColorBrewer: 1.1-2
@@ -5488,7 +5489,7 @@ SODC: '1.0'
 SOFIA: '1.0'
 SOIL: '1.1'
 SOLOMON: 1.0-1
-SOMEnv: 0.1.1
+SOMEnv: 1.1.1
 SOMbrero: 1.3-1
 SOPIE: '1.5'
 SOR: 0.23.1
@@ -5680,7 +5681,7 @@ ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.0.1
 ShinyImage: 0.1.0
 ShinyItemAnalysis: 1.3.5
-ShinyQuickStarter: 1.0.2
+ShinyQuickStarter: 2.0.0
 ShinyTester: 0.1.0
 ShortForm: 0.4.6
 ShrinkCovMat: 1.4.0
@@ -5855,7 +5856,8 @@ SplitReg: 1.0.2
 SplitSoftening: 2.0-1
 SportsAnalytics: '0.2'
 SpotSampling: 0.1.0
-SqlRender: 1.6.8
+SqlRender: 1.7.0
+Sshaped: '0.99'
 Sstack: 1.0.1
 StAMPP: 1.6.1
 StMoMo: 0.4.1
@@ -7257,7 +7259,7 @@ bcr: 0.1.1
 bcrm: 0.5.4
 bcrypt: '1.1'
 bcs: 1.0.0
-bcv: 1.0.1.2
+bcv: 1.0.1.3
 bdDwC: 0.1.15
 bda: 15.2.2
 bdchecks: 0.1.7
@@ -8327,7 +8329,7 @@ colcor: '1.0'
 cold: 2.0-1
 colf: 0.1.3
 collUtils: 1.0.5
-collapse: 1.5.1
+collapse: 1.5.2
 collapsibleTree: 0.1.7
 collateral: 0.4.2
 collectArgs: 0.4.0
@@ -8901,7 +8903,7 @@ dashboardthemes: 1.1.3
 dat: 0.5.0
 data.table: 1.14.0
 data.tree: 1.0.0
-data.validator: 0.1.4
+data.validator: 0.1.5
 data.world: 1.2.2
 data360r: 1.0.8
 dataCompareR: 0.1.3
@@ -9269,7 +9271,7 @@ discrim: 0.1.1
 discrimARTs: '0.2'
 disdat: 1.0-0
 diseasemapping: 1.4.9
-diseq: 0.1.3
+diseq: 0.1.5
 disk.frame: 0.4.0
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
@@ -9315,7 +9317,7 @@ distrom: '1.0'
 distrr: 0.0.6
 disttools: 0.1.7
 dittodb: 0.1.3
-divDyn: 0.8.0
+divDyn: 0.8.1
 divagis: 1.0.0
 diveMove: 1.5.3
 diveRsity: 1.9.90
@@ -9610,7 +9612,7 @@ easystab: '1.0'
 eatATA: 0.10.0
 eatDB: 0.4.1
 eatGADS: 0.16.0
-eatRep: 0.13.4
+eatRep: 0.13.5
 eatTools: 0.5.0
 ebGenotyping: 2.0.1
 ebSNP: '1.0'
@@ -10300,7 +10302,7 @@ fdaPDE: 1.0-9
 fdaPOIFD: 1.0.0
 fdadensity: 0.1.2
 fdakma: 1.2.1
-fdaoutlier: 0.1.1
+fdaoutlier: 0.2.0
 fdapace: 0.5.6
 fdasrvf: 1.9.4
 fdatest: '2.1'
@@ -11780,7 +11782,7 @@ higlasso: 0.9.0
 higrad: 0.1.0
 hilbertSimilarity: 0.4.3
 hildareadR: 0.2.0
-hillR: 0.5.0
+hillR: 0.5.1
 hilldiv: 1.5.1
 hillmakeR: '0.2'
 hindex: 0.2.0
@@ -12448,7 +12450,7 @@ jeek: 1.1.1
 jenkins: '1.0'
 jetpack: 0.4.3
 jetset: 3.4.0
-jfa: 0.5.0
+jfa: 0.5.1
 jiebaR: '0.11'
 jiebaRD: '0.1'
 jipApprox: 0.1.3
@@ -13136,7 +13138,7 @@ lpSolve: 5.6.15
 lpSolveAPI: 5.5.2.0-17.7
 lpbrim: 1.0.0
 lpc: 1.0.2.1
-lpdensity: '2.1'
+lpdensity: '2.2'
 lpint: '2.0'
 lpirfs: 0.1.9
 lplyr: 0.1.6
@@ -13847,7 +13849,7 @@ mlegp: 3.1.8
 mlergm: '0.7'
 mleur: 1.0-6
 mlf: 1.2.1
-mlflow: 1.14.0
+mlflow: 1.14.1
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
@@ -15463,7 +15465,7 @@ phom: '1.0'
 phonR: 1.0-7
 phonTools: 0.2-2.1
 phonenumber: 0.2.2
-phonfieldwork: 0.0.10
+phonfieldwork: 0.0.11
 phonics: 1.3.9
 photobiology: 0.10.5
 photobiologyFilters: 0.5.2
@@ -15542,6 +15544,7 @@ pipeGS: '0.4'
 pipeR: 0.6.1.3
 pipefittr: 0.1.2
 pipeliner: 0.1.1
+pipenostics: 0.1.7
 pirate: 1.0.0
 piratings: 0.1.9
 pisaRT: 2.0.1
@@ -15606,7 +15609,7 @@ pliable: '1.1'
 plink: 1.5-1
 plinkFile: 0.1.0
 plinkQC: 0.3.3
-plm: 2.4-0
+plm: 2.4-1
 plmDE: '1.0'
 plmm: 0.1-1
 pln: 0.2-2
@@ -15848,6 +15851,7 @@ ppmlasso: '1.1'
 ppr: 1.1-2
 pps: '1.0'
 ppsbm: 0.2.2
+ppsr: 0.0.2
 ppstat: '0.9'
 pqantimalarials: '0.2'
 prLogistic: '1.2'
@@ -15879,7 +15883,7 @@ predict3d: 0.1.3.3
 prediction: 0.3.14
 predictionInterval: 1.0.0
 predictmeans: 1.0.4
-predictoR: 1.1.4
+predictoR: 1.1.5
 predictrace: 1.2.1
 predkmeans: 0.1.1
 predmixcor: 1.1-1
@@ -16076,7 +16080,7 @@ pterrace: '1.0'
 ptest: 1.0-8
 ptinpoly: '2.8'
 ptm: 0.2.2
-ptmixed: 1.0.2
+ptmixed: 1.0.3
 ptproc: '1.0'
 pts2polys: 0.1.3
 ptstem: 0.0.7
@@ -17274,7 +17278,7 @@ roxygen2: 7.1.1
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
-rpact: 3.0.3
+rpact: 3.0.4
 rpanel: 1.1-4
 rpart: 4.1-15
 rpart.LAD: 0.1.2
@@ -17860,7 +17864,7 @@ semsfa: '1.1'
 semtree: 0.9.14
 semver: 0.2.0
 semverutils: 0.1.0
-sen2r: 1.4.0
+sen2r: 1.4.1
 sendmailR: 1.2-1
 sendplot: 4.0.0
 sensR: 1.5-2
@@ -18537,7 +18541,7 @@ spatstat.sparse: 1.2-1
 spatstat.utils: 2.0-0
 spatsurv: '1.5'
 spbabel: 0.5.5
-spc: 0.6.4
+spc: 0.6.5
 spc4sts: 0.5.2
 spca: 0.6.0
 spcadjust: '1.1'
@@ -19459,7 +19463,7 @@ tidytuesdayR: 1.0.1
 tidyverse: 1.3.0
 tidyvpc: 1.1.0
 tidyxl: 1.0.7
-tiff: 0.1-6
+tiff: 0.1-7
 tiger: 0.2.3.1
 tigerhitteR: 1.1.0
 tigerstats: 0.3.2
@@ -19660,7 +19664,7 @@ treeclim: 2.0.5.1
 treecm: 1.2.2
 treedata.table: 0.1.0
 treedater: 0.5.0
-treeducken: 1.0.0
+treeducken: 1.1.0
 treefit: 1.0.0
 treeglia: 1.0.1
 treeheatr: 0.2.1
