@@ -655,6 +655,7 @@ BradleyTerryScalable: 0.1.0
 BrailleR: '0.9'
 Branching: 0.9.4
 BrasilMF: 1.0.0
+BrazilMet: 0.1.0
 BreakPoints: '1.2'
 BreedingSchemeLanguage: 0.9.6
 Brobdingnag: 1.2-6
@@ -1399,7 +1400,7 @@ DescribeDisplay: 0.2.7
 DescriptiveStats.OBeu: 1.3.2
 Design: 2.3-0
 DesignCTPB: 0.4.0
-DesignLibrary: 0.1.5.5
+DesignLibrary: 0.1.6
 DesignPatterns: 0.1.2
 DetLifeInsurance: 0.1.3
 DetMCD: 0.0.5
@@ -1715,7 +1716,7 @@ EuclideanMaps: '1.0'
 Eunomia: 1.0.1
 EurosarcBayes: '1.1'
 EvCombR: 0.1-2
-EvalEst: 2015.4-2
+EvalEst: 2021.2-1
 EvaluateCore: 0.1.1
 EvaluationMeasures: 1.1.0
 Evapotranspiration: '1.15'
@@ -3042,7 +3043,7 @@ MASSTIMATE: 2.0-1
 MAT: '2.2'
 MATA: '0.5'
 MATTOOLS: '1.1'
-MAVE: 1.3.10
+MAVE: 1.3.11
 MAVIS: 1.1.3
 MAVTgsa: '1.3'
 MAc: 1.1.1
@@ -3329,7 +3330,7 @@ MXM: 1.5.1
 MaOEA: 0.6.2
 MaXact: 0.2.1
 MachineLearning: 0.1.4
-MachineShop: 2.6.1
+MachineShop: 2.7.0
 Maeswrap: '1.7'
 MagneticMap: '1.0'
 MajKMeans: 0.1.0
@@ -3594,7 +3595,7 @@ NBR: 0.1.3
 NBShiny: 0.1.0
 NBShiny2: 0.1.0
 NBShiny3: 0.1.0
-NCA: 3.0.3
+NCA: 3.1.0
 NCBI2R: 1.4.7
 NCSCopula: 1.0.1
 NCSampling: '1.0'
@@ -5340,6 +5341,7 @@ SAVE: '1.0'
 SAVER: 1.1.2
 SAutomata: 0.1.0
 SBAGM: 0.1.0
+SBICgraph: 1.0.0
 SBMSplitMerge: 1.1.1
 SBRect: '0.26'
 SBSA: 0.2.3
@@ -5745,7 +5747,7 @@ Skillings.Mack: '1.10'
 Sky: '1.0'
 SkyWatchr: 0.8-2
 SlaPMEG: 1.0.0
-SleepCycles: 1.0.1
+SleepCycles: 1.1.0
 Sleuth2: 2.0-5
 Sleuth3: 1.0-3
 SlidingWindows: 0.1.9
@@ -6285,7 +6287,7 @@ Umoments: 0.1.1
 Umpire: 2.0.10
 UncDecomp: 1.0.1
 UncerIn2: '2.0'
-UncertainInterval: 0.6.0
+UncertainInterval: 0.7.0
 UniDOE: '1.0'
 UniIsoRegression: 0.0-0
 Unicode: 13.0.0-2
@@ -6644,7 +6646,7 @@ admisc: '0.11'
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
-adnuts: 1.0.1
+adnuts: 1.1.2
 adobeanalyticsr: 0.1.5
 adoption: 0.6.2
 adoptr: 0.4.1
@@ -7265,7 +7267,7 @@ bda: 15.2.2
 bdchecks: 0.1.7
 bdclean: 0.1.15
 bde: 1.0.1
-bdl: 1.0.2
+bdl: 1.0.3
 bdlp: 0.9-2
 bdoc: '1.2'
 bdots: 0.1.9
@@ -7655,7 +7657,7 @@ bpcp: '1.4'
 bpcs: 1.0.0
 bpgmm: 1.0.7
 bpkde: '1.0'
-bpnreg: 1.0.3
+bpnreg: 2.0.0
 bpp: 1.0.0
 bqror: 0.1.4
 bqtl: 1.0-32
@@ -9446,6 +9448,7 @@ drake: 7.13.1
 drat: 0.1.8
 draw: 1.0.0
 drawExpression: '1.0'
+drawer: 0.1.0
 drawsample: 1.0.0
 drc: 3.0-1
 dreamerr: 1.2.3
@@ -9651,7 +9654,7 @@ ecolMod: 1.2.6
 ecolTest: 0.0.1
 ecolottery: 1.0.0
 econet: 0.1.93
-econetwork: 0.5.0
+econetwork: 0.5.1
 economiccomplexity: '1.1'
 econullnetr: 0.2.0
 ecoreg: 0.2.3
@@ -10481,7 +10484,7 @@ florestal: 0.1.3
 flowDiv: '2.0'
 flower: '1.0'
 flowfield: '1.0'
-flowr: 0.9.10
+flowr: 0.9.11
 flows: '1.1'
 flsa: 1.5.2
 flubase: '1.0'
@@ -10523,6 +10526,7 @@ foodingraph: 0.1.0
 foodweb: 1-0
 foolbox: 0.1.1
 footprint: '0.1'
+forImage: 0.1.0
 forams: 2.0-5
 forcats: 0.5.1
 foreSIGHT: 1.0.0
@@ -12776,7 +12780,7 @@ lavaan: 0.6-7
 lavaan.shiny: '1.2'
 lavaan.survey: 1.1.3.1
 lavaanPlot: 0.6.0
-lavacreg: 0.1-0
+lavacreg: 0.1-1
 lawn: 0.6.0
 lawstat: '3.4'
 lax: 1.1.0
@@ -13228,7 +13232,7 @@ maGUI: '3.0'
 maRketSim: '0.9'
 maSAE: 2.0.2
 maanova: 1.4.1
-mable: 2.1.1
+mable: 3.0.0
 maboost: 1.0-0
 macc: 1.0.1
 machQA: 0.1.4
@@ -13615,7 +13619,7 @@ metaviz: 0.3.1
 metawho: 0.2.0
 meteR: '1.2'
 meteo: 0.1-5
-meteoForecast: '0.53'
+meteoForecast: '0.54'
 meteogRam: '1.0'
 meteoland: 0.9.7
 meteor: 0.3-4
@@ -13825,7 +13829,7 @@ mixstock: '0.9'
 mixtNB: '1.0'
 mixtools: 1.2.0
 mixtox: 1.3.2
-mixture: 2.0.2
+mixture: 2.0.3
 mize: 0.2.4
 mizer: 2.0.4
 mkde: '0.1'
@@ -15429,6 +15433,7 @@ ph2bayes: 0.0.2
 ph2bye: 0.1.4
 ph2hetero: 1.0.2
 ph2mult: 0.1.1
+ph2rand: 0.1.0
 phalen: '1.0'
 phangorn: 2.5.5
 phantom: 0.1.3
@@ -16395,7 +16400,7 @@ rLindo: 8.0.1
 rMEA: 1.2.0
 rMIDAS: 0.3.0
 rMR: 1.1.0
-rMVP: 1.0.4
+rMVP: 1.0.5
 rMisbeta: '1.0'
 rModeling: 0.0.3
 rMorningStar: 1.0.7
@@ -17492,7 +17497,7 @@ runStat: '1.1'
 runes: 0.1.0
 runexp: 0.2.0
 runittotestthat: 0.0-2
-runjags: 2.0.4-6
+runjags: 2.2.0-2
 runner: 0.3.8
 runonce: 0.2.2
 runstats: 1.1.0
@@ -18485,6 +18490,7 @@ sparseFLMM: 0.4.0
 sparseHessianFD: 0.3.3.4
 sparseIndexTracking: 0.1.1
 sparseLDA: 0.1-9
+sparseLRMatrix: 0.1.0
 sparseLTSEigen: 0.2.0.1
 sparseMVN: 0.2.1.1
 sparseMatEst: 1.0.0
@@ -18834,7 +18840,7 @@ steps: 1.2.0
 stepwise: '0.3'
 stevedata: 0.3.0
 stevedore: 0.9.3
-stevetemplates: 0.2.0
+stevetemplates: 0.3.0
 stfit: 0.99.8
 stheoreme: '1.2'
 stickr: 0.3.1
@@ -19680,6 +19686,7 @@ treespace: 1.1.4.0
 treestartr: 0.1.0
 treestructure: 0.1.0
 treethresh: 0.1-9
+treetop: 0.0.1
 trekcolors: 0.1.2
 trekfont: 0.9.4
 trelliscope: 0.9.8
@@ -19718,6 +19725,7 @@ tripack: 1.3-9.1
 triplot: 1.3.0
 tripsAndDipR: 0.1.0
 triversity: '1.0'
+troopdata: 0.1.2
 tropAlgebra: 0.1.1
 tropicalSparse: 0.1.0
 tropr: 0.1.2
