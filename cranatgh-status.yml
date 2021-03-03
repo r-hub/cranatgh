@@ -1104,7 +1104,7 @@ Correlplot: 1.0-2
 CosW: '0.1'
 CosmoPhotoz: '0.1'
 Counterfactual: '1.2'
-Countr: 3.5.4
+Countr: 3.5.5
 CountsEPPM: '3.0'
 CovCombR: '1.0'
 CovSel: 1.2.1
@@ -2907,6 +2907,7 @@ LSMRealOptions: 0.1.0
 LSMonteCarlo: '1.0'
 LSPFP: 1.0.3
 LSRS: 0.2.0
+LST: 0.1.0
 LSTS: '1.0'
 LSX: 0.9.6
 LTPDvar: '1.2'
@@ -4090,7 +4091,7 @@ ParallelPC: '1.2'
 ParallelTree: 0.1.3
 ParamHelpers: '1.14'
 ParentOffspring: '1.0'
-Pareto: 2.4.0
+Pareto: 2.4.2
 ParetoPosStable: '1.1'
 PartCensReg: '1.39'
 Partiallyoverlapping: '2.0'
@@ -13005,7 +13006,7 @@ llogistic: 1.0.3
 lm.beta: 1.5-1
 lm.br: 2.9.3
 lmPerm: 2.1.0
-lmQCM: 0.2.2
+lmQCM: 0.2.3
 lmSubsets: 0.5-2
 lmSupport: 2.9.13
 lmbc: '0.9'
@@ -13385,7 +13386,7 @@ matrixTests: 0.1.9
 matrixcalc: 1.0-3
 matrixdist: 1.0.2
 matrixpls: 1.0.9
-matrixprofiler: 0.1.3
+matrixprofiler: 0.1.4
 matrixsampling: 2.0.0
 matsbyname: 0.4.16
 matsindf: 0.3.6
@@ -13706,6 +13707,7 @@ micropan: '2.1'
 microplot: 1.0-44
 microsamplingDesign: 1.0.7
 microseq: 2.1.4
+microservices: 0.1.0
 microsynth: 2.0.31
 midas: 1.0.1
 midasml: 0.0.5
@@ -15069,7 +15071,7 @@ pa: 1.2-1
 pacbpred: 0.92.2
 pack: 0.1-1
 packClassic: 0.5.2
-packDAMipd: 0.2.1
+packDAMipd: 0.2.2
 packHV: '2.2'
 packMBPLSDA: 0.8.0
 packS4: 0.9.3
@@ -15778,6 +15780,7 @@ pop: '0.1'
 pop.wolf: '0.1'
 popEpi: 0.4.8
 popKorn: 0.3-0
+popPCR: 0.1.0
 popPK: '1.03'
 popRange: '1.1'
 popReconstruct: 1.0-6
@@ -17417,7 +17420,7 @@ rspear: 0.1-2
 rspiro: '0.2'
 rsppfp: 1.0.4
 rsprng: '1.0'
-rsq: '2.1'
+rsq: '2.2'
 rsqliteadmin: 1.0.0
 rstac: 0.9.0
 rstack: 1.0.0
@@ -17988,6 +17991,7 @@ sharpr2: 1.1.1.0
 sharpshootR: '1.7'
 sharx: 1.0-5
 shattering: 1.0.4
+shatteringdt: 0.1.0
 shazam: 1.0.2
 sheldusr: '0.1'
 shelltrace: 3.5.1
@@ -18789,7 +18793,7 @@ statVisual: 1.2.1
 statar: 0.7.3
 stataread: '2.6'
 statarepl: 0.1.0
-statcanR: 0.1.0
+statcanR: 0.2.1
 statcheck: 1.3.0
 statcomp: 0.1.0
 statebins: 1.4.0
@@ -18836,7 +18840,7 @@ stepPenal: '0.2'
 stepPlr: '0.93'
 stepR: 2.1-1
 stepp: 3.2.2
-steps: 1.2.0
+steps: 1.2.1
 stepwise: '0.3'
 stevedata: 0.3.0
 stevedore: 0.9.3
@@ -19232,7 +19236,7 @@ tawny: 2.1.7
 tawny.types: 1.1.5
 taxa: 0.3.4
 taxadb: 0.1.1
-taxalight: 0.1.1
+taxalight: 0.1.2
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.0
@@ -19452,7 +19456,7 @@ tidypredict: 0.4.8
 tidyquant: 1.0.2
 tidyquery: 0.2.2
 tidyqwi: 0.1.2
-tidyr: 1.1.2
+tidyr: 1.1.3
 tidyrules: 0.1.5
 tidyselect: 1.1.0
 tidyseurat: 0.1.8
@@ -19832,6 +19836,7 @@ tvm: 0.4.0
 tvthemes: 1.1.1
 twang: '1.6'
 twangContinuous: 1.0.0
+twangRDC: '0.1'
 tweedie: 2.3.3
 tweenr: 1.0.1
 tweet2r: '1.1'
@@ -20053,6 +20058,7 @@ vaultr: 1.0.2
 vbdm: 0.0.4
 vbmp: 1.3.0
 vbsr: 0.0.5
+vccp: 0.1.0
 vcd: 1.4-8
 vcdExtra: 0.7-5
 vcf2geno: '2.3'
