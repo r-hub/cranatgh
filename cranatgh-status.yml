@@ -1529,6 +1529,7 @@ EDISON: 1.1.1
 EDMeasure: 1.2.0
 EDNE.EQ: '1.0'
 EDOIF: 0.1.2
+EDOtrans: 0.1.0
 EDR: 0.6-7
 EDanalysis: '1.0'
 EEM: 1.1.1
@@ -1623,6 +1624,7 @@ EXRQ: '1.0'
 EZtune: 3.0.0
 Eagle: 2.4.3
 EasyABC: '1.5'
+EasyDescribe: 0.1.0
 EasyHTMLReport: 0.1.1
 EasyMARK: '1.0'
 EasyMx: 0.2-12
@@ -1665,7 +1667,7 @@ EmbedSOM: 2.1.1
 Emcdf: 0.1.2
 EmiStatR: 1.2.2.0
 EmissV: 0.665.3.0
-EmpiricalCalibration: 2.0.2
+EmpiricalCalibration: 2.1.0
 EnQuireR: '0.10'
 EncDNA: 1.0.2
 EnergyOnlineCPM: '1.0'
@@ -2474,6 +2476,7 @@ HybridMC: '0.2'
 HydeNet: 0.10.11
 HydroCode: 1.0.2
 HydroMe: 2.0-1
+HyperG: 1.0.0
 HyperbolicDist: 0.6-2
 HypergeoMat: 3.1.0
 IAPWS95: 1.1.0
@@ -2511,6 +2514,7 @@ ICODS: '1.0'
 ICON: 0.4.0
 ICRanks: '3.1'
 ICS: 1.3-1
+ICSKAT: 0.1.0
 ICSNP: 1.1-1
 ICSOutlier: 0.3-0
 ICSS: '1.0'
@@ -2622,6 +2626,7 @@ IceCast: 2.1.0
 Icens: 1.24.0
 IgAScores: 0.1.2
 IgorR: 0.8.1
+ImageFusion: 0.0.1
 ImageMetrics: '0.6'
 ImaginR: 0.1.7
 Imap: '1.32'
@@ -2809,7 +2814,7 @@ KraljicMatrix: 0.2.1
 KrigInv: 1.4.1
 KsPlot: '1.3'
 Kurt: '1.0'
-L0Learn: 1.2.0
+L0Learn: 2.0.0
 L1mstate: '1.0'
 L1pack: 0.38.196
 L2DensityGoFtest: 0.1.0
@@ -3222,7 +3227,7 @@ MMWRweek: 0.1.3
 MMeM: 0.1.0
 MNB: 1.0.0
 MNLR: 0.1.0
-MNLpred: 0.0.5
+MNLpred: 0.0.6
 MNM: 1.0-3
 MNP: 3.1-1
 MNS: '1.0'
@@ -3270,6 +3275,7 @@ MRReg: 0.1.3
 MRS: 1.2.4
 MRSP: 0.4.3
 MRTSampleSize: 0.3.0
+MRTSampleSizeBinary: 0.1.0
 MRmediation: 1.0.1
 MRsurv: '0.2'
 MRwarping: '1.0'
@@ -3805,6 +3811,7 @@ Ohmage: '2.9'
 OjaNP: 1.0-0
 OkNNE: 1.0.0
 OligoSpecificitySystem: '1.3'
+OmegaG: 1.0.1
 OmicKriging: 1.4.0
 OmicsPLS: 1.2.0
 Omisc: 0.1.4
@@ -5543,7 +5550,7 @@ SRPM: '0.1'
 SRRS: '0.1'
 SRS: 0.2.2
 SRTtools: 1.2.0
-SSBtools: 0.9.0
+SSBtools: 1.0.0
 SSDM: 0.2.8
 SSDforR: 1.5.21
 SSHAARP: 1.0.1
@@ -5907,7 +5914,7 @@ StratifiedBalancing: 0.3.0
 StratifiedMedicine: 1.0.3
 StratifiedRF: 0.2.2
 StratifiedSampling: 0.1.0
-StratigrapheR: 1.2.0
+StratigrapheR: 1.2.1
 StreamMetabolism: 1.1.2
 StreamingLm: '0.1'
 StressStrength: 1.0.2
@@ -6025,9 +6032,10 @@ TH.data: 1.0-10
 TIMP: 1.13.2
 TITAN2: 2.4.1
 TInPosition: 0.13.6.1
+TKCat: 0.5.4
 TKF: 0.0.8
 TLBC: '1.0'
-TLMoments: 0.7.5.1
+TLMoments: 0.7.5.2
 TLdating: 0.1.3
 TMB: 1.7.19
 TMDb: '1.1'
@@ -7566,7 +7574,7 @@ blockmodels: 1.1.4
 blockrand: '1.5'
 blocksdesign: '4.8'
 blockseg: 0.5.2
-blogdown: '1.1'
+blogdown: '1.2'
 blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-1
@@ -7759,7 +7767,7 @@ burnr: 0.5.0
 bursts: 1.0-1
 busdater: 0.2.0
 bustt: 0.1.0
-butcher: 0.1.2
+butcher: 0.1.3
 butler: '0.3'
 bvarsv: '1.1'
 bvartools: 0.1.0
@@ -7823,7 +7831,7 @@ callr: 3.5.1
 calmate: 0.12.1
 calpassapi: 0.0.3
 camel: 0.2.0
-campfin: 1.0.4
+campfin: 1.0.6
 camsRad: 0.3.0
 camtrapR: 2.0.3
 cancensus: 0.4.2
@@ -8964,6 +8972,7 @@ datetime: 0.1.4
 datetimeutils: 0.4-0
 datoramar: 0.1.0
 datos: 0.3.0
+datplot: 1.0.0
 datr: 0.1.0
 datrProfile: 0.1.0
 dave: '2.0'
@@ -10794,7 +10803,7 @@ games: 1.1.2
 gamesGA: 1.1.3.7
 gamesNws: '0.5'
 gamlr: 1.13-6
-gamlss: 5.2-0
+gamlss: 5.3-1
 gamlss.add: 5.1-6
 gamlss.cens: 5.0-1
 gamlss.countKinf: 3.5.1
@@ -11809,6 +11818,7 @@ hkclustering: 1.0.1
 hkdatasets: 0.0.3
 hkevp: 1.1.4
 hkex.api: '0.1'
+hlidacr: 0.1.3
 hlr: 0.0-4
 hmclearn: 0.0.5
 hmeasure: 1.0-2
@@ -11934,7 +11944,7 @@ hydroscoper: '1.3'
 hydrostats: 0.2.7
 hyfo: 1.4.3
 hyper.fit: 1.1.1
-hyper2: 1.0-7
+hyper2: 2.0-0
 hyperSMURF: '2.0'
 hyperSpec: 0.99-20201127
 hypercube: 0.2.1
@@ -11965,7 +11975,7 @@ iC10: '1.5'
 iC10TrainingData: 1.3.1
 iCAMP: 1.3.4
 iCARH: 2.0.2.1
-iCellR: 1.6.0
+iCellR: 1.6.1
 iCiteR: 0.2.1
 iClick: '1.5'
 iCluster: 2.1.0
@@ -12074,7 +12084,7 @@ identifyr: '0.1'
 identity: 0.2-1
 ideq: 0.1.4
 ider: 0.1.0
-idiogramFISH: 2.0.0
+idiogramFISH: 2.0.2
 idm: 1.8.2
 idmTPreg: '1.1'
 idmodelr: 0.3.2
@@ -12336,7 +12346,7 @@ ipmisc: 6.0.0
 ipmr: 0.0.1
 ipptoolbox: '1.2'
 ipr: 0.1.0
-ipred: 0.9-9
+ipred: 0.9-10
 iprior: 0.7.3
 ips: 0.0.11
 iptmnetr: 0.1.8
@@ -12658,7 +12668,7 @@ kntnr: 0.4.4
 koRpus: 0.13-5
 koRpus.lang.en: 0.1-4
 kobe: 1.3.2
-kofdata: 0.1.4
+kofdata: '0.1'
 kofnGA: '1.3'
 kohonen: 3.0.10
 kokudosuuchi: 1.0.0
@@ -13084,7 +13094,7 @@ logconcens: 0.17-0
 logcondens: 2.1.5
 logcondens.mode: 1.0.1
 logcondiscr: 1.0.6
-logger: '0.1'
+logger: 0.2.0
 logging: 0.10-108
 loggit: 2.1.1
 loggle: '1.0'
@@ -13206,6 +13216,7 @@ lvmisc: 0.1.0
 lvnet: 0.3.5
 lvplot: 0.2.0
 lwgeom: 0.2-5
+lwqs: 0.5.0
 lxb: '1.5'
 lymphclon: 1.3.0
 m2b: '1.0'
@@ -14597,7 +14608,7 @@ nnetpredint: '1.2'
 nnfor: 0.9.6
 nngeo: 0.4.1
 nnlasso: '0.3'
-nnlib2Rcpp: 0.1.4
+nnlib2Rcpp: 0.1.6
 nnls: '1.4'
 nnt: 0.1.4
 nntrf: 0.1.4
@@ -14720,7 +14731,7 @@ nsarfima: 0.2.0.0
 nscancor: 0.6.1-25
 nscprepr: 0.1.1
 nse: '1.19'
-nse2r: 0.1.3
+nse2r: 0.1.4
 nseval: '0.4'
 nsga2R: '1.0'
 nsga3: 0.0.3
@@ -15090,7 +15101,7 @@ paco: 0.4.2
 pacose: '1.4'
 pacotest: 0.4.0
 pact: 0.5.0
-pacviz: 1.0.0.5
+pacviz: 1.0.1
 padr: 0.5.3
 paf: '1.0'
 pafdR: '1.0'
@@ -15099,7 +15110,7 @@ pagedown: '0.13'
 pagemap: 0.1.1
 pagenum: '1.1'
 pageviews: 0.5.0
-pagoda2: 1.0.1
+pagoda2: 1.0.2
 pagoo: 0.3.8
 painter: 0.1.0
 paintmap: '1.0'
@@ -15847,6 +15858,7 @@ ppcc: '1.2'
 ppclust: 1.1.0
 ppcong: 0.0.2
 ppcor: '1.1'
+ppdiag: 0.1.0
 ppendemic: 0.1.1
 ppgam: 1.0.1
 ppgmmga: '1.2'
@@ -15891,7 +15903,7 @@ predict3d: 0.1.3.3
 prediction: 0.3.14
 predictionInterval: 1.0.0
 predictmeans: 1.0.4
-predictoR: 1.1.5
+predictoR: 1.1.7
 predictrace: 1.2.1
 predkmeans: 0.1.1
 predmixcor: 1.1-1
@@ -16002,6 +16014,7 @@ promethee123: 0.1.0
 promises: 1.2.0.1
 promote: 1.1.1
 promotionImpact: 0.1.4
+prompt: 1.0.0
 prompter: 1.0.0
 prop.comb.RR: '1.2'
 propOverlap: '1.0'
@@ -16672,7 +16685,7 @@ rdataretriever: 3.0.0
 rdbnomics: 0.6.4
 rdd: '0.57'
 rddapp: 1.2.1
-rddensity: '2.1'
+rddensity: '2.2'
 rddtools: 1.4.0
 rde: 0.1.0
 rdefra: 0.3.8
@@ -16984,7 +16997,7 @@ rgenie: 1.0.0
 rgenius: 0.1.0
 rgenoud: 5.8-3.0
 rgeoapi: 1.1.0
-rgeoda: 0.0.8
+rgeoda: 0.0.8-1
 rgeolocate: 1.3.1
 rgeopat2: 0.3.9
 rgeoprofile: 0.2.0
@@ -17872,7 +17885,7 @@ semsfa: '1.1'
 semtree: 0.9.14
 semver: 0.2.0
 semverutils: 0.1.0
-sen2r: 1.4.1
+sen2r: 1.4.2
 sendmailR: 1.2-1
 sendplot: 4.0.0
 sensR: 1.5-2
@@ -18244,6 +18257,7 @@ skewlmm: 0.2.3
 skewt: '0.1'
 skewtools: 0.1.1
 skills: '1.0'
+skillsengineeR: 0.2.0
 skimr: 2.1.2
 sklarsomega: 2.0-1
 skm: 0.1.5.4
@@ -18252,7 +18266,7 @@ skpr: 0.64.2
 skynet: 1.4.0
 skyscapeR: 0.2.2
 sla: '0.1'
-slackr: 2.0.1
+slackr: 2.2.0
 slam: 0.1-48
 slanter: 0.1-0
 sld: 0.3.3
@@ -18290,6 +18304,7 @@ smartR: 0.62.3
 smartdata: 1.0.3
 smartmap: 0.1.1
 smartsizer: 1.0.3
+smartsnp: 1.1.0
 smatr: 3.4-8
 smbinning: '0.9'
 smcUtils: '0.2'
@@ -18308,6 +18323,7 @@ smfsb: '1.3'
 smicd: 1.1.2
 smint: 0.4.2
 smirnov: 1.0-1
+smmR: 1.0.0
 smnet: 2.1.2
 smog: 2.1.0
 smoke: 2.0.0
@@ -18535,6 +18551,7 @@ spatialnbda: '1.0'
 spatialprobit: 0.9-11
 spatialreg: 1.1-5
 spatialrisk: 0.6.7
+spatialsample: 0.1.0
 spatialsegregation: '2.45'
 spatialwarnings: 2.0.0
 spatialwidget: 0.2.3
@@ -18647,7 +18664,7 @@ splus2R: 1.3-3
 splusTimeDate: 2.5.0-142
 splusTimeSeries: 1.5.0-75
 spm: 1.2.0
-spm12r: 2.8.2
+spm12r: 2.8.3
 spmoran: 0.2.1
 spnet: 0.9.1-0
 spnn: 1.2.1
@@ -19392,7 +19409,7 @@ thgenetics: 0.4-2
 thickmatch: 0.3.1
 thief: '0.3'
 thinkr: '0.15'
-this.path: 0.2.1
+this.path: 0.3.0
 thor: 1.1.2
 thorn: 0.2.0
 threeBrain: 0.1.9
@@ -19413,7 +19430,7 @@ tibblify: 0.1.0
 tibbrConnector: 1.5.1
 tictactoe: 0.2.2
 tictoc: '1.0'
-tidyBF: 0.4.3
+tidyBF: 0.5.0
 tidyCpp: 0.0.2
 tidyHeatmap: 1.1.5
 tidyLPA: 1.0.8
@@ -19523,7 +19540,7 @@ tinylabels: 0.2.0
 tinyscholar: 0.1.2
 tinyspotifyr: 0.2.2
 tinytest: 1.2.4
-tinytex: '0.29'
+tinytex: '0.30'
 tiobeindexr: 0.1.1
 tipitaka: 0.1.1
 tipom: 1.0.2-1
@@ -19861,6 +19878,7 @@ txshift: 0.3.5
 txtplot: 1.0-4
 txtq: 0.2.3
 types: 1.0.0
+tzdb: 0.1.0
 tzupdater: 0.1.2
 uCAREChemSuiteCLI: 0.2.0
 uFTIR: 0.1.2
@@ -19955,6 +19973,7 @@ upwaver: 1.2.1
 uqr: 1.0.0
 urbin: 0.1-12
 urca: 1.3-0
+urlchecker: 1.0.0
 urlshorteneR: 1.4.3
 urltools: 1.7.3
 urn: 2.2.1
@@ -20444,7 +20463,7 @@ xROI: 0.9.17
 xRing: 0.1.0
 xSub: 3.0.1
 xVA: 0.8.5
-xaringan: '0.19'
+xaringan: '0.20'
 xaringanthemer: 0.3.0
 xbreed: 1.0.1.1
 xdcclarge: 0.1.0
