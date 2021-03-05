@@ -1789,7 +1789,7 @@ FDRsampsize: '1.0'
 FDX: 1.0.3
 FDboost: 1.0-0
 FENmlm: 2.4.3
-FER: '0.93'
+FER: '0.94'
 FEST: '0.08'
 FESta: 1.0.0
 FEprovideR: '1.1'
@@ -2024,7 +2024,7 @@ GAparsimony: 0.9.4
 GB2: '2.1'
 GB2group: 0.3.0
 GBJ: 0.5.3
-GBcurves: 0.1.0
+GBcurves: 0.1.1
 GCAI.bias: '1.0'
 GCD: 4.0.7
 GCPM: 1.2.2
@@ -2499,7 +2499,7 @@ ICAFF: 1.0.1
 ICAMS: 2.2.4
 ICAOD: 1.0.1
 ICBayes: '1.2'
-ICBioMark: 0.1.0
+ICBioMark: 0.1.1
 ICC: 2.3.0
 ICC.Sample.Size: '1.0'
 ICCbin: 1.1.1
@@ -5276,7 +5276,7 @@ Rspotify: 0.1.2
 RsqMed: 0.1.7.1
 Rssa: 1.0.3
 Rstem: 0.4-1
-RstoxData: 1.0.24
+RstoxData: 1.1.1
 Rstreams: '1.1'
 Rsundials: '1.6'
 Rsurrogate: '2.0'
@@ -6866,6 +6866,7 @@ apollo: 0.2.4
 apparent: '1.1'
 appell: 0.0-4
 apple: '0.3'
+appler: 0.1.0
 applicable: 0.0.1.2
 appnn: 1.0-0
 approximator: 1.2-7
@@ -6915,7 +6916,7 @@ argparser: '0.6'
 ari: 0.3.5
 ariExtra: 0.2.11
 aricode: 1.0.0
-arkdb: 0.0.8
+arkdb: 0.0.10
 arkhe: 0.2.2
 arm: 1.11-2
 armada: 0.1.0
@@ -7167,6 +7168,7 @@ basicMCMCplots: 0.2.6
 basicTrendline: 2.0.5
 basicspace: '0.24'
 basictabler: 0.3.1
+basifoR: '0.3'
 basket: 0.10.2
 bastah: 1.0.7
 batade: '0.1'
@@ -7279,7 +7281,7 @@ bde: 1.0.1
 bdl: 1.0.3
 bdlp: 0.9-2
 bdoc: '1.2'
-bdots: 0.1.9
+bdots: 1.0.0
 bdpar: 3.0.0
 bdpopt: 1.0-1
 bdpv: '1.3'
@@ -7330,14 +7332,14 @@ berryFunctions: 1.19.1
 bestNormalize: 1.7.0
 bestSDP: 0.1.2
 bestglm: 0.37.3
-bestridge: 1.0.1
+bestridge: 1.0.4
 betaboost: 1.0.1
 betacal: 0.1.0
 betadiv: 1.0.1
 betafam: '1.0'
 betafunctions: 1.4.4
 betalink: 2.2.1
-betapart: 1.5.2
+betapart: 1.5.3
 betaper: 1.1-2
 betareg: 3.1-4
 betas: 0.1.1
@@ -7657,7 +7659,7 @@ boxcoxmix: '0.28'
 boxoffice: 1.3.0
 boxplotdbl: 1.3.0
 boxr: 0.3.6
-bp: 1.0.0
+bp: 1.0.1
 bpDir: 0.1.1
 bpa: 0.1.1
 bpbounds: 0.1.4
@@ -7871,6 +7873,7 @@ caretEnsemble: 2.0.1
 caretLSF: '1.9'
 caretNWS: '0.25'
 carfima: 2.0.2
+cargo: 0.1.10
 caribou: '1.1'
 caroline: 0.7.6
 carpenter: 0.2.2
@@ -8077,7 +8080,7 @@ childsds: 0.7.6
 chilemapas: '0.2'
 chillR: 0.72.2
 chinese.misc: 0.2.3
-chipPCR: 0.0.8-8
+chipPCR: 1.0-2
 chirps: 0.1.2
 chisq.posthoc.test: 0.1.2
 chk: 0.5.1
@@ -8235,7 +8238,7 @@ clusterGeneration: 1.3.7
 clusterGenomics: '1.0'
 clusterPower: 0.7.0
 clusterRepro: '0.9'
-clusterSEs: 2.6.2
+clusterSEs: 2.6.4
 clusterSim: 0.49-2
 clusterability: 0.1.1.0
 clusteredinterference: 1.0.1
@@ -9262,7 +9265,7 @@ dirmcmc: 1.3.3
 dirmult: 0.1.3-4
 disaggR: 0.1.11
 disaggregation: 0.1.3
-disastr.api: 1.0.4
+disastr.api: 1.0.5
 discSurv: 1.4.1
 discfrail: '0.1'
 discgolf: 0.2.0
@@ -9435,7 +9438,7 @@ dpcid: '1.0'
 dpglasso: '1.0'
 dplR: 1.7.2
 dplRCon: '1.0'
-dplyr: 1.0.4
+dplyr: 1.0.5
 dplyr.teradata: 0.4.1
 dplyrAssist: 0.1.0
 dpmixsim: 0.0-9
@@ -10023,7 +10026,7 @@ evalITR: 0.2.0
 evaluate: '0.14'
 evaluator: 0.4.2
 evclass: 1.1.1
-evclust: 1.1.0
+evclust: 2.0.0
 evd: 2.3-3
 evdbayes: 1.1-1
 event: 1.1.1
@@ -11141,7 +11144,7 @@ ggetho: 0.3.6
 ggfan: 0.1.3
 ggfittext: 0.9.1
 ggfocus: 1.0.0
-ggforce: 0.3.2
+ggforce: 0.3.3
 ggformula: 0.10.1
 ggfortify: 0.4.11
 gggap: 1.0.1
@@ -11358,7 +11361,7 @@ gmediation: 0.1.1
 gmeta: 2.3-0
 gmfd: 1.0.1
 gmgm: 1.0.1
-gmm: 1.6-5
+gmm: 1.6-6
 gmnl: 1.1-3.2
 gmodels: 2.18.1
 gmp: 0.6-2
@@ -13883,7 +13886,7 @@ mlogitBMA: 0.1-6
 mlpack: 3.4.2.1
 mlquantify: 0.1.4
 mlr: 2.19.0
-mlr3: 0.10.0
+mlr3: 0.11.0
 mlr3benchmark: 0.1.1
 mlr3cluster: 0.1.1
 mlr3data: 0.3.0
@@ -14824,7 +14827,7 @@ oem: 2.0.10
 oenb: 0.0.1
 ofGEM: '1.0'
 officedown: 0.2.1
-officer: 0.3.16
+officer: 0.3.17
 offlineChange: 0.0.4
 ofp: 1.0.0
 ofw: 1.0-0
@@ -14851,6 +14854,7 @@ omu: 1.0.4
 omxr: 0.3.3
 oncomodel: '1.0'
 oncrawlR: 0.2.0
+ondisc: 1.0.0
 oneclust: 0.2.1
 onehot: 0.1.1
 onelogin: 0.2.0
@@ -14913,6 +14917,7 @@ openxlsx: 4.2.3
 opera: '1.1'
 operator.tools: 1.6.3
 operators: 0.1-8
+opitools: 1.0.2
 opm: 1.1.0
 opmdata: 0.7.0
 oposSOM: 0.2-3
@@ -15589,7 +15594,7 @@ pkgfilecache: 0.1.3
 pkggraph: 0.2.3
 pkgload: 1.2.0
 pkgmaker: 0.32.2
-pkgndep: 1.0.2
+pkgndep: 1.0.3
 pkgnet: 0.4.1
 pkgnews: 0.0.1
 pkgsearch: 3.0.3
@@ -17959,6 +17964,7 @@ sever: 0.0.6
 severity: '2.0'
 sf: 0.9-7
 sfa: 1.0-1
+sfaR: 0.0.91
 sfadv: 1.0.1
 sfc: 0.1.0
 sfcr: 0.1.1
@@ -18630,7 +18636,7 @@ spherepc: 0.1.4
 sphereplot: '1.5'
 sphet: '1.7'
 spi: '1.1'
-spiR: 0.1.1
+spiR: 0.2.1
 spider: 1.5.0
 spiderbar: 0.2.3
 spiders: '1.2'
@@ -18785,7 +18791,7 @@ stagedtrees: 2.0.1
 stam: 0.0-1
 stampr: '0.2'
 standGL: '1.1'
-standardize: 0.2.1
+standardize: 0.2.2
 stapler: 0.7.1
 staplr: 3.1.1
 stargazer: 5.2.2
@@ -18820,6 +18826,7 @@ statespacer: 0.4.0
 statfi: 0.9.8
 statgenGWAS: 1.0.5
 statgenGxE: 1.0.4
+statgenHTP: 1.0.0
 statgenSTA: 1.0.6
 stationaRy: 0.5.1
 stationery: 0.98.30
@@ -18861,7 +18868,7 @@ steps: 1.2.1
 stepwise: '0.3'
 stevedata: 0.3.0
 stevedore: 0.9.3
-stevetemplates: 0.3.0
+stevetemplates: 0.4.0
 stfit: 0.99.8
 stheoreme: '1.2'
 stickr: 0.3.1
@@ -19112,7 +19119,7 @@ svmplus: 1.0.1
 svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: 0.1-1
-svyVGAM: 0.222-2
+svyVGAM: '1.0'
 svydiags: '0.3'
 swCRTdesign: '3.1'
 swa: 0.8.1
@@ -19470,7 +19477,7 @@ tidync: 0.2.4
 tidypmc: '1.7'
 tidyposterior: 0.0.3
 tidypredict: 0.4.8
-tidyquant: 1.0.2
+tidyquant: 1.0.3
 tidyquery: 0.2.2
 tidyqwi: 0.1.2
 tidyr: 1.1.3
@@ -20276,6 +20283,7 @@ wccsom: 1.2.8
 wcep: 1.0.0
 wdm: 0.2.2
 wdman: 0.2.5
+wdnr.gis: 0.1.0
 wdpar: 1.0.6
 weatherData: 0.5.0
 weathercan: 0.5.0
