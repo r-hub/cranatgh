@@ -125,6 +125,7 @@ ASSA: '2.0'
 ASSISTant: 1.4.2
 ASSOCShiny: 0.1.0
 AST: 0.1.0
+ATAforecasting: 0.0.52
 ATE: 0.2.0
 ATR: 0.1-1
 ATmet: 1.2.1
@@ -1273,6 +1274,7 @@ DOS: 1.0.0
 DOS2: 0.5.2
 DOSim: '2.2'
 DOT: '0.1'
+DOVE: '1.5'
 DOvalidation: 1.1.0
 DPBBM: 0.2.5
 DPM.GGM: '0.14'
@@ -2073,7 +2075,7 @@ GGMridge: '1.1'
 GGMselect: 0.1-12.4
 GGRidge: 0.1.0
 GGUM: 0.4-2
-GGally: 2.1.0
+GGally: 2.1.1
 GHQp: '1.0'
 GHS: '0.1'
 GHap: 2.0.0
@@ -2247,6 +2249,7 @@ GenomicTools: 0.2.9.7
 GenomicTools.fileHandler: 0.1.5.9
 GeoBoxplot: '1.0'
 GeoDE: '1.0'
+GeoFIS: '1.0'
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
 GeoMongo: 1.0.1
@@ -2914,7 +2917,7 @@ LSPFP: 1.0.3
 LSRS: 0.2.0
 LST: 0.1.0
 LSTS: '1.0'
-LSX: 0.9.6
+LSX: 0.9.7
 LTPDvar: '1.2'
 LTR: 1.0.0
 LTRCforests: 0.5.5
@@ -6912,7 +6915,7 @@ argonDash: 0.2.0
 argonR: 0.2.0
 argosfilter: '0.63'
 argparse: 2.0.3
-argparser: '0.6'
+argparser: 0.7.1
 ari: 0.3.5
 ariExtra: 0.2.11
 aricode: 1.0.0
@@ -7172,7 +7175,7 @@ basifoR: '0.3'
 basket: 0.10.2
 bastah: 1.0.7
 batade: '0.1'
-batata: 0.2.0
+batata: 0.2.1
 batch: 1.1-5
 batchmeans: 1.0-4
 batchr: 0.0.1
@@ -8724,6 +8727,7 @@ crosshybDetector: '1.0'
 crossmap: 0.2.0
 crossmatch: 1.3-1
 crossrun: 0.1.0
+crosstable: 0.2.1
 crosstalk: 1.1.1
 crossval: 1.0.3
 crosswalkr: 0.2.6
@@ -8967,7 +8971,7 @@ datastepr: 0.0.2
 datastructures: 0.2.9
 datasus: 0.4.1
 datautils: 0.1.5
-dataverse: 0.3.0
+dataverse: 0.3.7
 dataview: 2.1.1
 date: 1.2-39
 daterangepicker: 0.1.0
@@ -9098,7 +9102,7 @@ dendRoAnalyst: 0.1.1
 dendextend: 1.14.0
 dendextendRcpp: 0.6.1
 dendroExtra: 0.0.2
-dendroTools: 1.1.1
+dendroTools: 1.1.2
 dendroextras: 0.2.3
 dendrometeR: 1.0.0
 dendsort: 0.3.3
@@ -13166,7 +13170,7 @@ lpmodeler: 0.2-1
 lpridge: 1.0-8
 lqa: 1.0-3
 lqmm: 1.5.5
-lqr: '3.31'
+lqr: '3.41'
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
@@ -13892,7 +13896,7 @@ mlr3benchmark: 0.1.1
 mlr3cluster: 0.1.1
 mlr3data: 0.3.0
 mlr3db: 0.3.0
-mlr3filters: 0.4.0
+mlr3filters: 0.4.1
 mlr3fselect: 0.5.0
 mlr3hyperband: 0.1.2
 mlr3learners: 0.4.3
@@ -13902,7 +13906,7 @@ mlr3oml: 0.4.2
 mlr3pipelines: 0.3.4
 mlr3proba: 0.3.1
 mlr3shiny: 0.1.1
-mlr3spatiotempcv: 0.1.1
+mlr3spatiotempcv: 0.2.0
 mlr3tuning: 0.7.0
 mlr3verse: 0.2.1
 mlr3viz: 0.5.1
@@ -15392,7 +15396,7 @@ perARMA: '1.6'
 perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.1
-perfectphyloR: 0.2.0
+perfectphyloR: 0.2.1
 performance: 0.7.0
 performanceEstimation: 1.1.0
 pergola: '1.0'
@@ -15420,7 +15424,7 @@ personr: 1.0.0
 perspectev: '1.1'
 perturb: '2.10'
 perturbR: 0.1.3
-peruse: 0.3.0
+peruse: 0.3.1
 pesel: 0.7.3
 pesticides: '0.1'
 pestr: 0.8.2
@@ -17058,7 +17062,7 @@ rifle: '1.0'
 riingo: 0.3.1
 rijkspalette: 1.0.1
 rimage: '0.5'
-rinat: 0.1.7
+rinat: 0.1.8
 rindex: '0.12'
 rinform: 1.0.2
 ring: 1.0.0
@@ -20368,7 +20372,7 @@ wildcard: 1.1.0
 wildlifeDI: 0.4.0
 wildpoker: '1.1'
 wildviz: 0.1.1
-wilson: 2.4.0
+wilson: 2.4.1
 winRatioAnalysis: 0.1.0
 winch: 0.0.6
 windAC: 1.2.4
