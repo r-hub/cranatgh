@@ -852,7 +852,7 @@ CSUV: 0.1.1
 CSclone: '1.0'
 CSeqpat: 0.1.2
 CTAShiny: 0.1.0
-CTD: 0.99.8
+CTD: 1.0.0
 CTFS: '1.00'
 CTM: '0.2'
 CTP: 2.0.0
@@ -1491,7 +1491,7 @@ DrInsight: 0.1.2
 DramaAnalysis: 3.0.2
 DriftBurstHypothesis: 0.4.0.1
 DrillR: '0.1'
-DriveML: 0.1.0
+DriveML: 0.1.2
 DrugClust: '0.2'
 DstarM: 0.4.0
 DtD: 0.2.2
@@ -3654,7 +3654,7 @@ NNLM: 0.4.3
 NNMIS: 1.0.1
 NNS: '0.6'
 NNTbiomarker: 0.29.11
-NNbenchmark: 3.1.6
+NNbenchmark: 3.1.9
 NOAAWeather: 0.1.0
 NORMA: '0.1'
 NORMT3: 1.0-3
@@ -4251,6 +4251,7 @@ ProbBayes: '1.1'
 ProbForecastGOP: '1.3'
 ProbMarg: 1.0.1
 ProbReco: 0.1.0.1
+ProbSamplingI: 0.1.0
 ProbYX: 1.1-0
 ProbeDeveloper: 1.0.0
 ProbeR: '2.0'
@@ -4704,7 +4705,7 @@ RPANDA: '1.9'
 RPCLR: '1.0'
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.0
-RPEIF: 1.1.0
+RPEIF: 1.2.0
 RPESE: 1.1.0
 RPEXE.RPEXT: 0.0.2
 RPEnsemble: '0.5'
@@ -5764,7 +5765,7 @@ Sleuth3: 1.0-3
 SlidingWindows: 0.1.9
 SlimPLS: '0.3'
 SmCCNet: 0.99.0
-SmallCountRounding: 0.6.0
+SmallCountRounding: 0.7.0
 SmartEDA: 0.3.6
 SmartMeterAnalytics: 1.0.3
 SmartSVA: 0.1.3
@@ -5798,6 +5799,7 @@ Sojourn: 0.1.0
 Sojourn.Data: 0.1.0
 SolveLS: '1.0'
 SolveRationalMatrixEquation: 0.1.0
+SolveSAPHE: 2.0.0
 SongEvo: 1.0.0
 SorptionAnalysis: 0.1.0
 SortableHTMLTables: 0.1-3
@@ -6264,7 +6266,7 @@ UBCRM: 1.0.1
 UBL: 0.0.6
 UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 0.5.0
-UCSCXenaTools: 1.4.0
+UCSCXenaTools: 1.4.2
 UComp: 2.1.2
 UKFE: 0.1.4
 UKgrid: 0.1.3
@@ -7164,7 +7166,7 @@ base64enc: 0.1-3
 base64url: '1.4'
 baseballDBR: 0.1.2
 baseflow: 0.13.0
-basefun: 1.0-7
+basefun: 1.1-0
 baseline: 1.3-1
 basetheme: 0.1.2
 basf: 0.2.0
@@ -7611,7 +7613,7 @@ bnpa: 0.3.0
 bnpmr: '1.2'
 bnpsd: 1.2.3
 bnspatial: 1.1.1
-bnstruct: 1.0.8
+bnstruct: 1.0.9
 bnviewer: 0.1.6
 boa: 1.1.8-2
 boclust: 0.1.2
@@ -7877,7 +7879,7 @@ caretEnsemble: 2.0.1
 caretLSF: '1.9'
 caretNWS: '0.25'
 carfima: 2.0.2
-cargo: 0.1.10
+cargo: 0.1.19
 caribou: '1.1'
 caroline: 0.7.6
 carpenter: 0.2.2
@@ -7987,7 +7989,7 @@ ceg: 0.1.0
 celestial: 1.4.6
 cellOrigins: 0.1.3
 cellVolumeDist: '1.3'
-cellWise: 2.2.3
+cellWise: 2.2.5
 cellranger: 1.1.0
 celltrackR: 0.3.1
 celsius: 1.0.7
@@ -9381,7 +9383,7 @@ dnet: 1.1.7
 dng: 0.2.1
 dnr: 0.3.5
 do: 1.7.0.0
-doBy: 4.6.8
+doBy: 4.6.9
 doFuture: 0.12.0
 doMC: 1.3.7
 doMPI: 0.2.2
@@ -10757,7 +10759,7 @@ fxtract: 0.9.4
 fy: 0.3.0
 g.data: '2.4'
 g2f: '0.2'
-g3viz: 1.1.3
+g3viz: 1.1.4
 gCat: '0.1'
 gDefrag: '0.3'
 gIPFrm: '3.1'
@@ -10817,7 +10819,7 @@ gamlss.cens: 5.0-1
 gamlss.countKinf: 3.5.1
 gamlss.data: 5.1-4
 gamlss.demo: 4.3-3
-gamlss.dist: 5.1-7
+gamlss.dist: 5.3-2
 gamlss.inf: 1.0-1
 gamlss.mx: 6.0-0
 gamlss.nl: 4.1-0
@@ -11261,6 +11263,7 @@ gif: 0.1.0
 gifski: 0.8.7.1
 gifti: 0.8.0
 giftwrap: 0.0.4
+gigg: 0.2.1
 gim: 0.33.1
 gimme: 0.7-4
 gimmeTools: '0.1'
@@ -11292,7 +11295,7 @@ glasso: '1.11'
 glassoFast: '1.0'
 glassomix: '1.2'
 glba: '0.2'
-glca: 1.1.0
+glca: 1.2.1
 glcm: 1.6.5
 gld: 2.6.2
 gldist: '2160.2'
@@ -11363,7 +11366,7 @@ gmapsdistance: '3.4'
 gmat: 0.2.2
 gmatrix: '0.3'
 gmediation: 0.1.1
-gmeta: 2.3-0
+gmeta: 2.3-1
 gmfd: 1.0.1
 gmgm: 1.0.1
 gmm: 1.6-6
@@ -12033,6 +12036,7 @@ iai: 1.5.0
 ialiquor: 0.1.0
 iarm: 0.4.2
 ib: 0.1.0
+ibawds: 0.1.2
 ibb: 0.0.2
 ibd: '1.5'
 ibdreg: 0.3.1
@@ -12497,7 +12501,7 @@ joinXL: 1.0.1
 joineR: 1.2.5
 joineRML: 0.4.5
 joineRmeta: 0.1.2
-joinet: 0.0.6
+joinet: 0.0.7
 joint.Cox: '3.10'
 jointDiag: '0.4'
 jointMeanCov: 0.1.0
@@ -13276,7 +13280,7 @@ magic: 1.5-9
 magicLamp: 0.1.0
 magicaxis: 2.2.1
 magicfor: 0.1.0
-magick: 2.6.0
+magick: 2.7.0
 magickGUI: 1.2.2
 magma: 1.3.0-2
 magnets: '0.2'
@@ -13896,9 +13900,9 @@ mlr3: 0.11.0
 mlr3benchmark: 0.1.1
 mlr3cluster: 0.1.1
 mlr3data: 0.3.0
-mlr3db: 0.3.0
+mlr3db: 0.4.0
 mlr3filters: 0.4.1
-mlr3fselect: 0.5.0
+mlr3fselect: 0.5.1
 mlr3hyperband: 0.1.2
 mlr3learners: 0.4.3
 mlr3measures: 0.3.1
@@ -13916,7 +13920,7 @@ mlrMBO: 1.1.5
 mlrintermbo: 0.5.0
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.1
-mlt: 1.2-3
+mlt: 1.3-0
 mlt.docreg: 1.0-10
 mltest: 1.0.1
 mltools: 0.3.5
@@ -14313,7 +14317,7 @@ mvMonitoring: 0.1.0
 mvPot: 0.1.5
 mvProbit: 0.1-10
 mvQuad: 1.0-6
-mvSLOUCH: 2.6.1
+mvSLOUCH: 2.6.2
 mvShapiroTest: '1.0'
 mvabund: 4.1.9
 mvbutils: 2.8.232
@@ -14772,6 +14776,7 @@ nycflights13: 1.0.1
 nyctaxi: 0.0.1
 nytR: '0.1'
 nzelect: 0.4.0
+nzffdr: 1.0.0
 nzilbb.labbcat: 0.6-3
 nzpullover: 0.3.0
 o2geosocial: 1.0.1
@@ -14885,7 +14890,7 @@ oolong: 0.3.11
 oompaBase: 3.2.9
 oompaData: 3.1.1
 oosp: 0.3.3
-opalr: 1.5.2
+opalr: 2.0.0
 opart: 2019.1.0
 opefimor: '1.2'
 openCR: 1.5.0
@@ -15264,16 +15269,16 @@ pawacc: 1.2.2
 pawls: 1.0.0
 paws: 0.1.10
 paws.analytics: 0.1.11
-paws.application.integration: 0.1.10
+paws.application.integration: 0.1.11
 paws.common: 0.3.9
 paws.compute: 0.1.11
-paws.cost.management: 0.1.10
+paws.cost.management: 0.1.11
 paws.customer.engagement: 0.1.10
 paws.database: 0.1.10
 paws.machine.learning: 0.1.11
 paws.management: 0.1.11
 paws.networking: 0.1.11
-paws.security.identity: 0.1.10
+paws.security.identity: 0.1.11
 paws.storage: 0.1.11
 pbapply: 1.4-3
 pbatR: 2.2-13
@@ -15288,7 +15293,7 @@ pbdSLAP: 0.3-0
 pbdZMQ: 0.3-5
 pbivnorm: 0.6.0
 pbixr: 0.1.4
-pbkrtest: 0.5-0.1
+pbkrtest: 0.5.1
 pbm: 1.1.0
 pbmcapply: 1.5.0
 pbo: 1.3.4
@@ -15732,7 +15737,7 @@ pogit: 1.2.0
 poibin: '1.5'
 poilog: '0.4'
 pointRes: 1.1.3
-pointblank: 0.6.0
+pointblank: 0.7.0
 pointdensityP: 0.3.5
 pointdexter: 0.1.1
 pointr: 0.2.0
@@ -15752,7 +15757,7 @@ polaroid: 0.0.1
 policytree: 1.0.3
 polidata: 0.1.0
 poliscidata: 2.3.0
-polished: 0.2.0
+polished: 0.3.0
 polite: 0.1.1
 politeness: 0.7.7
 politicaldata: 0.1.3
@@ -16656,7 +16661,7 @@ rccmisc: 0.3.7
 rcdd: 1.2-2
 rcdk: 3.5.0
 rcdklibs: '2.3'
-rchallenge: 1.3.3
+rchallenge: 1.3.4
 rcheology: 4.0.4.0
 rchess: '0.1'
 rchie: 1.0.2
@@ -17258,6 +17263,7 @@ rocsvm.path: 0.1.0
 rodd: 0.2-1
 rodeo: 0.7.6
 rodham: 0.1.1
+roistats: 0.1.0
 rolasized: '1.0'
 roll: 1.1.6
 rollRegres: 0.1.3
@@ -18336,7 +18342,7 @@ smfsb: '1.3'
 smicd: 1.1.2
 smint: 0.4.2
 smirnov: 1.0-1
-smmR: 1.0.0
+smmR: 1.0.1
 smnet: 2.1.2
 smog: 2.1.0
 smoke: 2.0.0
@@ -18703,7 +18709,7 @@ sprintfr: 0.1.0
 sprintr: 0.9.0
 sprm: 1.2.2
 sprsmdl: 0.1-0
-spsComps: 0.1.0
+spsComps: 0.1.1
 spsUtil: 0.1.0
 spsann: 2.2.0
 spsarlm: 0.1-3
@@ -18833,7 +18839,7 @@ statespacer: 0.4.0
 statfi: 0.9.8
 statgenGWAS: 1.0.5
 statgenGxE: 1.0.4
-statgenHTP: 1.0.0
+statgenHTP: 1.0.1
 statgenSTA: 1.0.6
 stationaRy: 0.5.1
 stationery: 0.98.30
@@ -19086,9 +19092,9 @@ survivalBIV: '1.3'
 survivalMPL: '0.2'
 survivalMPLdc: 0.1.1
 survivalROC: 1.0.3
-survivalmodels: 0.1.6
+survivalmodels: 0.1.7
 survivalsvm: 0.0.5
-survminer: 0.4.8
+survminer: 0.4.9
 survrec: 1.2-2
 survsim: 1.1.5
 survsup: 0.0.2
@@ -19337,7 +19343,7 @@ tergmLite: 2.2.1
 term: 0.3.1
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.0-10
+terra: 1.1-4
 terrainmeshr: 0.1.0
 terrainr: 0.3.1
 tesseract: '4.1'
@@ -19858,12 +19864,13 @@ tutoR: 0.3.2
 tutorial: 0.4.3
 tuts: 0.1.1
 tvR: 0.3.1
-tvReg: 0.5.3
+tvReg: 0.5.4
 tvd: 0.1.0
 tvem: 1.2-0
 tvgarch: '1.0'
 tvgeom: 1.0.1
 tvm: 0.4.0
+tvmediation: 1.0.0
 tvthemes: 1.1.1
 twang: '1.6'
 twangContinuous: 1.0.0
@@ -19940,7 +19947,7 @@ ungeneanno: 0.1.6
 unglue: 0.1.0
 ungroup: 1.3.0
 unheadr: 0.3.1
-uni.survival.tree: '1.3'
+uni.survival.tree: '1.4'
 uniCox: '1.0'
 uniPlot: 0.3-1
 uniReg: '1.1'
@@ -19973,7 +19980,7 @@ unrtf: '1.4'
 unstruwwel: 0.1.0
 unsystation: 0.2.0
 untb: 1.7-4
-unvotes: 0.2.0
+unvotes: 0.3.0
 upclass: '2.0'
 updog: 2.0.2
 uplift: 0.3.5
@@ -20040,6 +20047,7 @@ vagam: '1.1'
 valaddin: 1.0.1
 valection: 1.0.0
 valetr: 0.1.0
+valhallr: 0.1.0
 validaRA: 0.1.1
 validann: 1.2.1
 validate: 1.0.1
