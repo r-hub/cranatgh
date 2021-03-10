@@ -408,7 +408,7 @@ BPHO: 1.3-0
 BPM: 1.0.0
 BRDT: 0.1.0
 BRETIGEA: 1.0.0
-BRISC: 1.0.0
+BRISC: 1.0.1
 BRL: 0.1.0
 BRugs: 0.9-0
 BSBT: 1.0.0
@@ -2460,7 +2460,7 @@ HighDimOut: 1.0.0
 HighProbability: '1.0'
 HighestMedianRules: '1.0'
 HistDAWass: 1.0.4
-HistData: 0.8-6
+HistData: 0.8-7
 HistogramTools: 0.3.2
 HiveR: 0.3.63
 Hmisc: 4.5-0
@@ -3070,7 +3070,7 @@ MBNMAtime: 0.1.3
 MBSGS: 1.1.0
 MBSP: '1.0'
 MBTAr: 2.0.0
-MBmca: 0.0.3-5
+MBmca: 1.0.1-1
 MC2toPath: 0.0.16
 MCAPS: '0.3'
 MCAvariants: '2.5'
@@ -3085,7 +3085,7 @@ MCLIME: '1.1'
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
-MCMCglmm: '2.30'
+MCMCglmm: '2.31'
 MCMChybridGP: '5.4'
 MCMCpack: 1.5-0
 MCMCprecision: 0.4.0
@@ -3285,7 +3285,7 @@ MRwarping: '1.0'
 MSBVAR: 0.9-3
 MSCMT: 1.3.4
 MSCquartets: 1.1.0
-MSEtool: 3.0.1
+MSEtool: 3.0.2
 MSG: '0.6'
 MSGARCH: '2.42'
 MSGARCHelm: 0.1.0
@@ -4808,7 +4808,7 @@ RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
 RTL: 0.1.5
 RTOMO: 1.1-6
-RTTWebClient: 0.1.0
+RTTWebClient: 0.1.1
 RTaxometrics: '3.1'
 RTest: 1.2.6
 RTextTools: 1.4.3
@@ -4990,7 +4990,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.6
 RcppAlgos: 2.4.1
 RcppAnnoy: 0.0.18
-RcppArmadillo: 0.10.2.1.0
+RcppArmadillo: 0.10.2.2.0
 RcppBDT: 0.2.3
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
@@ -5260,7 +5260,7 @@ Rpvt: 0.1.1
 Rquake: 2.4-4
 Rquefts: 1.0-7
 Rramas: 0.1-6
-Rraven: 1.0.9
+Rraven: 1.0.12
 Rrdrand: 0.1-16
 Rrelperm: 0.1.0
 RsSimulx: 1.0.0
@@ -5312,7 +5312,7 @@ Rwofost: 0.6-3
 Rwordseg: 0.3-2
 Rwtss: 0.8.0
 RxCEcolInf: 0.1-4
-RxODE: 1.0.4
+RxODE: 1.0.5
 RxnSim: 1.0.3
 Rxnat: 1.0.14
 Ryacas: 1.1.3.1
@@ -5339,7 +5339,7 @@ SAMM: 1.1.1
 SAMTx: 0.1.0
 SAMUR: '0.6'
 SAMURAI: 1.2.1
-SAMtool: 1.1.1
+SAMtool: 1.1.2
 SAPP: 1.0.8
 SAR: 1.0.3
 SARP.compo: 0.1.3
@@ -6046,7 +6046,7 @@ TMB: 1.7.19
 TMDb: '1.1'
 TNC: 0.1.0
 TOC: 0.0-5
-TOHM: '1.3'
+TOHM: '1.4'
 TOSTER: 0.3.4
 TP.idm: '1.5'
 TPAM: '1.0'
@@ -6306,7 +6306,7 @@ UniDOE: '1.0'
 UniIsoRegression: 0.0-0
 Unicode: 13.0.0-2
 UnifiedDoseFinding: 0.1.7
-UniprotR: 2.0.4
+UniprotR: 2.0.5
 UnitCircle: 0.1.3
 UnivRNG: 1.2.3
 UpSetR: 1.4.0
@@ -7107,7 +7107,7 @@ bReeze: 0.4-3
 bSims: 0.2-1
 bWGR: 1.6.6
 baRcodeR: 0.1.5
-baRulho: 1.0.3
+baRulho: 1.0.4
 babar: '1.0'
 babel: 0.3-0
 babelwhale: 1.0.1
@@ -7173,7 +7173,7 @@ basf: 0.2.0
 basicMCMCplots: 0.2.6
 basicTrendline: 2.0.5
 basicspace: '0.24'
-basictabler: 0.3.1
+basictabler: 1.0.0
 basifoR: '0.3'
 basket: 0.10.2
 bastah: 1.0.7
@@ -7268,7 +7268,7 @@ bcfrailph: 0.1.0
 bcfrailphdv: 0.1.0
 bcgam: '1.0'
 bclust: '1.5'
-bcmaps: 1.0.1
+bcmaps: 1.0.2
 bcmixed: 0.1.4
 bcool: '1.2'
 bcp: 4.0.3
@@ -9557,7 +9557,7 @@ dynCorr: 1.1.0
 dynGraph: '0.99100403'
 dynOmics: '1.2'
 dynRB: '0.15'
-dynaSpec: 1.0.0
+dynaSpec: 1.0.1
 dynaTree: 1.2-10
 dynamac: 0.1.11
 dynamicGraph: 0.2.2.6
@@ -10306,7 +10306,7 @@ fbRanks: '2.0'
 fbar: 0.6.0
 fbati: 1.0-4
 fbroc: 0.4.1
-fbst: '1.3'
+fbst: '1.4'
 fc: 0.1.0
 fcaR: 1.0.7
 fcd: '0.1'
@@ -10848,7 +10848,7 @@ garray: 1.1.2
 gaselect: 1.0.9
 gasfluxes: 0.4-4
 gasper: 1.1.1
-gastempt: 0.5.1
+gastempt: 0.5.4
 gaston: 1.5.7
 gateR: 0.1.7
 gatepoints: 0.1.4
@@ -12630,7 +12630,7 @@ kirby21.base: 1.7.3
 kirby21.fmri: 1.7.0
 kirby21.t1: 1.7.0
 kissmig: 1.0-3
-kit: 0.0.6
+kit: 0.0.7
 kitagawa: 3.1.0
 kittyR: 1.0.0
 kiwisR: 0.2.0
@@ -13019,7 +13019,7 @@ littler: 0.3.12
 liureg: 1.1.2
 live: 1.5.13
 livechatR: 0.1.0
-liver: '1.4'
+liver: '1.5'
 ljr: 1.4-0
 llama: '0.10'
 llbayesireg: 1.0.0
@@ -15274,7 +15274,7 @@ paws.common: 0.3.9
 paws.compute: 0.1.11
 paws.cost.management: 0.1.11
 paws.customer.engagement: 0.1.10
-paws.database: 0.1.10
+paws.database: 0.1.11
 paws.machine.learning: 0.1.11
 paws.management: 0.1.11
 paws.networking: 0.1.11
@@ -15782,7 +15782,7 @@ polydect: 0.1-2
 polyfreqs: 1.0.2
 polyglot: 0.3.0
 polylabelr: 0.2.0
-polymapR: 1.1.1
+polymapR: 1.1.2
 polymars: 1.0-5
 polynom: 1.4-0
 polynomial: 0.1.0
@@ -15808,7 +15808,7 @@ pop: '0.1'
 pop.wolf: '0.1'
 popEpi: 0.4.8
 popKorn: 0.3-0
-popPCR: 0.1.0
+popPCR: 0.1.1.1
 popPK: '1.03'
 popRange: '1.1'
 popReconstruct: 1.0-6
@@ -16366,7 +16366,7 @@ r3dmol: 0.1.1
 r4lineups: 0.1.1
 r4ss: 1.36.1
 r511: 0.1.1
-r5r: 0.3-2
+r5r: 0.3-3
 r6extended: 0.1.2
 rARPACK: 0.11-0
 rAltmetric: 0.7.0
@@ -17548,7 +17548,7 @@ rvalues: 0.6.3
 rvcheck: 0.1.8
 rversions: 2.0.2
 rvertnet: 0.8.0
-rvest: 0.3.6
+rvest: 1.0.0
 rvg: 0.2.5
 rvgtest: 0.7.4
 rviewgraph: '1.2'
@@ -18514,7 +18514,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.5.2
+sparklyr: 1.6.0
 sparklyr.flint: 0.2.1
 sparklyr.nested: 0.0.3
 sparktex: '0.1'
@@ -18737,7 +18737,7 @@ sqlshare: 1.0.3
 sqlutils: '1.2'
 sqp: '0.5'
 squash: 1.0.9
-squashinformr: 0.2.1
+squashinformr: 0.2.2
 squid: 0.1.2
 sra: 0.1.3
 srcr: 1.0.0
@@ -20264,7 +20264,7 @@ wally: 1.0.10
 walmartAPI: 0.1.5
 walrus: 1.0.3
 wand: 0.5.0
-warbleR: 1.1.9
+warbleR: 1.1.26
 warp: 0.2.0
 warpMix: 0.1.0
 washdata: 0.1.3
@@ -20458,7 +20458,7 @@ wrspathrowData: '1.0'
 wrswoR: 1.1.1
 wrswoR.benchmark: 0.2.1
 wru: 0.1-10
-wsbackfit: 1.0-3
+wsbackfit: 1.0-4
 wsjplot: 0.1.0
 wskm: 1.4.40
 wsrf: 1.7.17
@@ -20622,7 +20622,7 @@ zoib: 1.5.4
 zoltr: 0.5.1
 zonator: 0.6.0
 zonebuilder: 0.0.1
-zoo: 1.8-8
+zoo: 1.8-9
 zooaRch: '1.2'
 zooaRchGUI: 1.0.2
 zoocat: 0.2.0
