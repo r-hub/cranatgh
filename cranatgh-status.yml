@@ -356,7 +356,7 @@ BICORN: 0.1.0
 BIEN: 1.2.4
 BIFIEsurvey: 3.3-12
 BIGDAWG: 2.3.6
-BIGL: 1.6.1
+BIGL: 1.6.2
 BINCO: 0.1-1
 BINCOR: 0.2.0
 BIOM.utils: '0.9'
@@ -1714,7 +1714,7 @@ EstMix: 1.0.1
 EstSimPDMP: '1.2'
 EstimDiagnostics: 0.0.2
 EstimateGroupNetwork: 0.3.1
-EstimationTools: 2.0.0
+EstimationTools: 2.1.0
 EthSEQ: 2.1.4
 EuclideanMaps: '1.0'
 Eunomia: 1.0.1
@@ -1856,6 +1856,7 @@ FSAdata: 0.3.8
 FSDAM: 2020.11-18
 FSInteract: 0.1.2
 FSK2R: 0.1.2
+FSM: 1.0.0
 FSMUMI: '1.0'
 FSSF: 0.1.1
 FSTpackage: '0.1'
@@ -3295,6 +3296,7 @@ MSMwRA: '1.3'
 MSPRT: '3.0'
 MSQC: 1.0.2
 MSRDT: 0.1.0
+MSSQL: 1.0.0
 MST: '2.2'
 MSToolkit: 3.2.0
 MSVAR: '0.0'
@@ -4575,7 +4577,7 @@ RJSONLD: '1.0'
 RJSplot: '2.5'
 RJaCGH: 2.0.4
 RJafroc: 2.0.1
-RJcluster: 0.1.1
+RJcluster: 0.1.2
 RKEA: 0.0-6
 RKEAjars: 5.0-4
 RKEEL: 1.3.2
@@ -4706,7 +4708,7 @@ RPCLR: '1.0'
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.0
 RPEIF: 1.2.0
-RPESE: 1.1.0
+RPESE: 1.2.0
 RPEXE.RPEXT: 0.0.2
 RPEnsemble: '0.5'
 RPMG: 2.2-3
@@ -5530,7 +5532,7 @@ SPINA: 4.1.0
 SPIn: '1.1'
 SPMS: '2.0'
 SPODT: 0.9-1
-SPOT: 2.1.10
+SPOT: 2.3.0
 SPPcomb: '0.1'
 SPREDA: '1.1'
 SPRT: '1.0'
@@ -5555,6 +5557,7 @@ SRRS: '0.1'
 SRS: 0.2.2
 SRTtools: 1.2.0
 SSBtools: 1.0.0
+SSDL: '1.1'
 SSDM: 0.2.8
 SSDforR: 1.5.21
 SSHAARP: 1.0.1
@@ -6899,11 +6902,13 @@ archeofrag: 0.6.0
 archetypal: 1.1.1
 archetypes: 2.2-0.1
 archiDART: '3.4'
+archiveRetriever: 0.0.1
 archivist: 2.3.5
 archivist.github: 0.2.6
 arcos: '1.27'
 arcpullr: 0.1.2
 arctools: 1.1.0
+areabiplot: 1.0.0
 areal: 0.1.7
 arealDB: 0.3.4
 areaplot: 1.2.2
@@ -10486,7 +10491,7 @@ flexpolyline: 0.2.1
 flexrsurv: 1.4.5
 flexsurv: '2.0'
 flexsurvcure: 1.2.0
-flextable: 0.6.3
+flextable: 0.6.4
 flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
@@ -12800,7 +12805,7 @@ latticist: 0.9-44
 lava: 1.6.8.1
 lava.tobit: '0.5'
 lavaSearch2: 1.5.6
-lavaan: 0.6-7
+lavaan: 0.6-8
 lavaan.shiny: '1.2'
 lavaan.survey: 1.1.3.1
 lavaanPlot: 0.6.0
@@ -13125,7 +13130,7 @@ logitnorm: 0.8.38
 logitr: 0.1.0
 loglognorm: 1.0.1
 logmult: 0.7.3
-lognorm: 0.1.6
+lognorm: 0.1.9
 logr: 1.2.1
 logregperm: '1.0'
 logspline: 2.1.8
@@ -13332,7 +13337,7 @@ mapedit: 0.6.0
 mapfit: 0.9.7
 mapfuser: 0.1.2
 mapi: 1.0.1
-mapmisc: 1.7.9
+mapmisc: 1.8.0
 mapplots: 1.5.1
 mappoly: 0.2.1
 mapproj: 1.2.7
@@ -13498,6 +13503,7 @@ mcsm: '1.0'
 mctest: 1.3.1
 mcunit: 0.3.1
 mcvis: 1.0.6
+mcwr: 1.0.0
 md: 1.0.4
 md.log: 0.1.1
 mda: 0.5-2
@@ -13714,6 +13720,7 @@ miceRanger: 1.3.5
 miceadds: 3.11-6
 micemd: 1.6.0
 michelRodange: 1.0.0
+miclust: 1.2.6
 micompr: 1.1.0
 microPop: '1.5'
 microbats: 0.1-1
@@ -13847,6 +13854,7 @@ mixmeta: 1.1.0
 mixnet: '0.1'
 mixor: 1.0.4
 mixpack: 0.3.6
+mixpoissonreg: 1.0.0
 mixreg: 0.0-6
 mixsep: 0.2.1-2
 mixsmsn: 1.1-8
@@ -14051,6 +14059,7 @@ monogeneaGM: '1.1'
 monographaR: 1.2.1
 monomvn: 1.9-13
 monoreg: '1.2'
+monotone: 0.1.0
 monotonicity: 1.3.1
 monreg: 0.1.4
 moonBook: 0.2.4
@@ -14920,7 +14929,7 @@ openmetrics: 0.3.0
 opensensmapr: 0.5.1
 openssl: 1.4.3
 opentick: 0.1-1
-opentimsr: 1.0.4
+opentimsr: 1.0.5
 opentraj: '1.0'
 opentripplanner: 0.3.1
 openwindfarm: 0.1.0
@@ -15003,6 +15012,7 @@ ordinalRR: '1.1'
 ordinalgmifs: 1.0.6
 ordinalpattern: 0.2.0
 ore: 1.6.3
+oreo: '1.0'
 ores: 0.3.2
 orf: 0.1.3
 org: 2019.4.2
@@ -15788,7 +15798,7 @@ polynom: 1.4-0
 polynomial: 0.1.0
 polyphemus: 0.3.4
 polypoly: 0.0.2
-polyqtlR: 0.0.4
+polyqtlR: 0.0.5
 polyreg: 0.6.7
 polysat: 1.7-4
 polytomous: 0.1.6
@@ -16350,7 +16360,7 @@ r2dRue: 1.0.4
 r2dictionary: '0.1'
 r2dii.analysis: 0.1.6
 r2dii.data: 0.1.9
-r2dii.match: 0.0.8
+r2dii.match: 0.0.9
 r2glmm: 0.1.2
 r2lUniv: '0.9'
 r2lh: '0.7'
@@ -16705,6 +16715,7 @@ rddapp: 1.2.1
 rddensity: '2.2'
 rddtools: 1.4.0
 rde: 0.1.0
+rdecision: 1.0.2
 rdefra: 0.3.8
 rdetools: '1.0'
 rdflib: 0.2.3
@@ -16944,7 +16955,7 @@ reshapeGUI: 0.1.0
 resourcer: 1.1.0
 resper: '0.3'
 respirometry: 1.3.0
-restatapi: 0.9.8
+restatapi: 0.10.0
 restaurant: 0.1.0
 restez: 1.0.0
 restfulr: 0.0.13
@@ -17263,7 +17274,7 @@ rocsvm.path: 0.1.0
 rodd: 0.2-1
 rodeo: 0.7.6
 rodham: 0.1.1
-roistats: 0.1.0
+roistats: 0.1.1
 rolasized: '1.0'
 roll: 1.1.6
 rollRegres: 0.1.3
@@ -17465,6 +17476,7 @@ rstap: 1.0.3
 rstatix: 0.7.0
 rstatscn: 1.1.3
 rstiefel: 1.0.0
+rstoat: 1.0.0
 rstpm2: 1.5.2
 rstream: 1.3.6
 rstudioapi: '0.13'
@@ -17629,7 +17641,7 @@ safi: '1.0'
 sail: 0.1.0
 salem: 0.2.0
 salesforcer: 0.2.2
-salso: 0.2.5
+salso: 0.2.15
 salty: 0.1.0
 sambia: 0.1.0
 samc: 1.2.1
@@ -17740,6 +17752,7 @@ scdensity: 1.0.2
 scdhlm: 0.5.2
 scenario: '1.0'
 scgwr: 0.1.2-1
+schemr: 0.1.0
 schoRsch: 1.9.1
 schoenberg: 2.0.2
 scholar: 0.2.0
@@ -18426,7 +18439,7 @@ solitude: 1.1.1
 solr: 0.1.6
 solrad: 1.0.0
 solrium: 1.1.4
-solvebio: 2.10.0
+solvebio: 2.10.1
 som: 0.3-5.1
 som.nn: 1.1.0
 soma: 1.1.1
@@ -19678,7 +19691,7 @@ traits: 0.5.0
 traj: '1.2'
 trajectories: 0.2-2
 trajr: 1.4.0
-tram: 0.5-2
+tram: 0.6-0
 tramME: 0.0.4
 tramnet: 0.0-3
 tranSurv: 1.2.2
