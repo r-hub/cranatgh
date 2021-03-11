@@ -1009,6 +1009,7 @@ CoOL: 1.0.1
 CoRpower: 1.0.4
 CoSMoS: 2.0.0
 CoSeg: '0.38'
+CoTiMA: 0.3.6
 CodataGS: '1.43'
 CodeDepends: 0.6.5
 CohortPlat: 1.0.0
@@ -1076,6 +1077,7 @@ ContourFunctions: 0.1.1
 ConvCalendar: '1.2'
 ConvergenceClubs: 2.2.1
 ConvergenceConcepts: 1.2.2
+Convolutioner: 0.1.0
 CoopGame: 0.2.1
 CoordinateCleaner: 2.0-18
 CopCTS: 1.0.0
@@ -2466,7 +2468,7 @@ HistogramTools: 0.3.2
 HiveR: 0.3.63
 Hmisc: 4.5-0
 Hmsc: 3.0-11
-HoRM: 0.1.2
+HoRM: 0.1.3
 Holidays: 1.0-7
 Homeric: 0.1-3
 HomoPolymer: '1.0'
@@ -3152,7 +3154,7 @@ MGLM: 0.2.0
 MGMM: 0.3.1
 MGMS2: 1.0.2
 MGRASTer: '0.9'
-MGSDA: '1.5'
+MGSDA: '1.6'
 MHCtools: 1.3.0
 MHMM: 1.0.0
 MHTcop: 0.1.1
@@ -5941,7 +5943,7 @@ SubpathwayGMir: '1.0'
 SubpathwayLNCE: '1.0'
 SubpathwayMiner: '3.1'
 SubtypeDrug: 0.1.4
-SuessR: 0.1.1
+SuessR: 0.1.2
 SummaryLasso: 1.2.1
 Sunclarco: 1.0.0
 Sunder: 0.0.4
@@ -6011,7 +6013,8 @@ TCGA2STAT: '1.2'
 TCGAretriever: '1.5'
 TCIApathfinder: 1.0.6
 TCIU: 1.1.0
-TDA: 1.6.9
+TDA: 1.7.5
+TDAkit: 0.1.0
 TDAmapper: '1.0'
 TDAstats: 0.4.1
 TDCor: 0.1-2
@@ -7227,7 +7230,7 @@ bayesefa: 0.0.0.4
 bayesforecast: 0.0.1
 bayesian: 0.0.2
 bayesianETAS: 1.0.3
-bayeslincom: 1.0.0
+bayeslincom: 1.1.0
 bayeslm: 0.8.0
 bayesloglin: 1.0.1
 bayeslongitudinal: 0.1.0
@@ -7283,7 +7286,7 @@ bcr: 0.1.1
 bcrm: 0.5.4
 bcrypt: '1.1'
 bcs: 1.0.0
-bcv: 1.0.1.3
+bcv: '1.0'
 bdDwC: 0.1.15
 bda: 15.2.2
 bdchecks: 0.1.7
@@ -7903,7 +7906,7 @@ casen: 0.1.4
 casino: 0.1.0
 caspar: '1.0'
 cassandRa: 0.1.0
-castor: 1.6.6
+castor: 1.6.7
 cat: 0.0-6.5
 cat.dt: 0.2.0
 cat2cat: 0.2.0
@@ -10557,7 +10560,7 @@ forcats: 0.5.1
 foreSIGHT: 1.0.0
 foreach: 1.5.1
 forecTheta: '2.2'
-forecast: '8.13'
+forecast: '8.14'
 forecastHybrid: 5.0.19
 forecastML: 0.9.0
 forecastSNSTS: 1.3-0
@@ -11060,7 +11063,7 @@ geosphere: 1.5-10
 geospt: 1.0-2
 geosptdb: 0.5-0
 geostats: '1.1'
-geostatsp: 1.8.2
+geostatsp: 1.8.4
 geotech: '1.0'
 geotools: '0.1'
 geotoolsR: '1.1'
@@ -11189,7 +11192,7 @@ ggmosaic: 0.3.3
 ggmr: 0.1.1
 ggmsa: 0.0.6
 ggmuller: 0.5.4
-ggmulti: 0.1.0
+ggmulti: 1.0.1
 ggnetwork: 0.5.8
 ggnewscale: 0.4.5
 ggnormalviolin: 0.1.2
@@ -11954,7 +11957,7 @@ hydroPSO: 0.5-1
 hydroTSM: 0.6-0
 hydroToolkit: 0.1.0
 hydrogeo: 0.6-1
-hydrolinks: 0.10.0
+hydrolinks: 0.9.3
 hydrosanity: 0.8.76
 hydroscoper: '1.3'
 hydrostats: 0.2.7
@@ -12802,7 +12805,7 @@ latticeDensity: 1.1.6
 latticeExtra: 0.6-29
 latticedl: '1.2'
 latticist: 0.9-44
-lava: 1.6.8.1
+lava: 1.6.9
 lava.tobit: '0.5'
 lavaSearch2: 1.5.6
 lavaan: 0.6-8
@@ -13157,7 +13160,7 @@ loon.data: 0.1.1
 loon.ggplot: 1.0.1
 loop: '1.1'
 loopr: 1.0.1
-loose.rock: 1.1.0
+loose.rock: 1.1.1
 lordif: 0.3-3
 lorec: 0.6.1
 lorentz: 1.0-5
@@ -13372,6 +13375,7 @@ markdown: '1.1'
 markdownInput: 0.1.2
 marked: 1.2.6
 markerSearchPower: '1.0'
+markerpen: 0.1.0
 marketeR: 0.1.1
 marketr: 0.0.2
 markmyassignment: 0.8.3
@@ -13929,7 +13933,7 @@ mlrintermbo: 0.5.0
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.1
 mlt: 1.3-0
-mlt.docreg: 1.0-10
+mlt.docreg: 1.1-0
 mltest: 1.0.1
 mltools: 0.3.5
 mlvocab: '0.1'
@@ -15283,7 +15287,7 @@ paws.application.integration: 0.1.11
 paws.common: 0.3.9
 paws.compute: 0.1.11
 paws.cost.management: 0.1.11
-paws.customer.engagement: 0.1.10
+paws.customer.engagement: 0.1.11
 paws.database: 0.1.11
 paws.machine.learning: 0.1.11
 paws.management: 0.1.11
@@ -15597,7 +15601,7 @@ piton: 1.0.0
 pivmet: 0.3.0
 pivot: 18.4.17
 pivotaltrackR: 0.2.0
-pivottabler: 1.5.0
+pivottabler: 1.5.1
 pixelpuzzle: 1.0.0
 pixels: 0.1.1
 pixiedust: 0.9.1
@@ -16923,7 +16927,7 @@ reportROC: '3.5'
 reportReg: 0.3.0
 reportRx: '1.0'
 reporter: 1.1.2
-reportfactory: 0.1.3
+reportfactory: 0.2.0
 reportr: 1.3.0
 reports: 0.1.4
 reporttools: 1.1.2
@@ -17556,7 +17560,7 @@ ruv: 0.9.7.1
 rv: 2.3.4
 rvHPDT: '3.0'
 rvTDT: '1.0'
-rvalues: 0.6.3
+rvalues: 0.7.1
 rvcheck: 0.1.8
 rversions: 2.0.2
 rvertnet: 0.8.0
@@ -17679,7 +17683,7 @@ sapevom: 0.2.0
 sapfluxnetr: 0.1.1
 saps: 1.0.0
 saqgetr: 0.2.21
-sara4r: 0.0.7
+sara4r: 0.0.8
 sarima: 0.8.4
 sarp.snowprofile: 1.0.0
 sarp.snowprofile.alignment: 1.0.2
@@ -17854,7 +17858,7 @@ secret: 1.1.0
 secrettext: 0.1.0
 secrlinear: 1.1.1
 secsse: 2.0.7
-secuTrialR: 1.0.8
+secuTrialR: 1.0.9
 secure: '0.6'
 securitytxt: 0.1.1
 see: 0.6.2
@@ -17997,6 +18001,7 @@ sfcr: 0.1.1
 sfdct: 0.1.0
 sfheaders: 0.4.0
 sfinx: 1.7.99
+sfnetworks: 0.5.0
 sfo: 0.1.1
 sfsmisc: 1.1-8
 sft: 2.2-1
@@ -18868,7 +18873,7 @@ statprograms: 0.2.0
 statquotes: 0.2.2
 stats19: 1.3.0
 statsDK: 0.1.1
-statsExpressions: 0.7.1
+statsExpressions: 1.0.0
 statsgrokse: 0.1.4
 statsguRu: 0.1.1
 statsr: 0.3.0
@@ -19470,7 +19475,7 @@ tidyLPA: 1.0.8
 tidyMicro: '1.47'
 tidyREDCap: 0.2.0
 tidyRSS: 2.0.3
-tidySEM: 0.1.6
+tidySEM: 0.1.7
 tidyUSDA: 0.3.0
 tidybayes: 2.3.1
 tidyboot: 0.1.1
@@ -20506,7 +20511,7 @@ xdcclarge: 0.1.0
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.21'
+xfun: '0.22'
 xgb2sql: 0.1.2
 xgboost: 1.3.2.1
 xgobi: 1.2-15
