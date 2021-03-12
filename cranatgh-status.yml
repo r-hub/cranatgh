@@ -873,6 +873,7 @@ CVST: 0.2-2
 CVThresh: 1.1.1
 CVTuningCov: '1.0'
 CVXR: 1.0-9
+CVarE: '1.1'
 CVcalibration: 1.0-1
 CVglasso: '1.0'
 CVrisk: 1.0.0
@@ -3024,7 +3025,7 @@ M2SMF: '2.0'
 M2SMJF: '1.0'
 M3: '0.3'
 M4comp: 0.0.1
-MABOUST: 1.0.0
+MABOUST: 1.0.1
 MADAM: '1.2'
 MADPop: 1.1.2
 MAFDash: 0.1.0
@@ -4462,7 +4463,7 @@ RChronoModel: '0.4'
 RCircos: 1.2.1
 RClickhouse: 0.5.2
 RClimMAWGEN: '1.1'
-RClimacell: 0.1.2
+RClimacell: 0.1.3
 RClone: 1.0.2
 RColetum: 0.2.1
 RColorBrewer: 1.1-2
@@ -4891,7 +4892,7 @@ RankingProject: 0.3.1
 RapidPolygonLookup: 0.1.1
 RapidoPGS: 1.0.2
 Raquifer: 0.1.0
-Rarefy: '1.0'
+Rarefy: '1.1'
 Rarity: 1.3-6
 RaschSampler: 0.8-8
 Rassoc: '1.0'
@@ -6402,6 +6403,7 @@ VizCompX: '0.1'
 VizOR: 0.8-5
 Voss: 0.1-4
 VoxR: 1.0.0
+VulnToolkit: 1.1.1
 W2CWM2C: '2.2'
 W3CMarkupValidator: 0.1-6
 WACS: 1.1.0
@@ -8148,6 +8150,7 @@ citecorp: 0.3.0
 citr: 0.3.2
 ciu: 0.1.0
 ciuupi: 1.1.0
+ciuupi2: 1.0.1
 civis: 3.0.0
 cjoint: 2.1.0
 ck37r: 1.0.3
@@ -8563,6 +8566,7 @@ corehunter: 3.2.1
 corels: 0.0.2
 corkscrew: '1.1'
 corlink: 1.0.0
+corncob: 0.2.0
 cornet: 0.0.4
 coro: 1.0.1
 coroICA: 1.0.2
@@ -9300,7 +9304,7 @@ discretization: 1.0-1
 discrim: 0.1.1
 discrimARTs: '0.2'
 disdat: 1.0-0
-diseasemapping: 1.4.9
+diseasemapping: 1.5.0
 diseq: 0.1.5
 disk.frame: 0.4.0
 diskImageR: 1.0.0
@@ -11242,7 +11246,7 @@ ggspatial: 1.1.5
 ggspectra: 0.3.7
 ggstance: 0.3.5
 ggstar: 1.0.1
-ggstatsplot: 0.7.0
+ggstatsplot: 0.7.1
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
 ggswissmaps: 0.1.1
@@ -11258,6 +11262,7 @@ ggwordcloud: 0.5.0
 ggx: 0.1.1
 gh: 1.2.0
 ghcm: 1.0.0
+ghee: 0.1.0
 ghibli: 0.3.2
 ghit: 0.2.5
 ghostr: 1.0.0
@@ -11333,6 +11338,7 @@ glmmEP: 1.0-3.1
 glmmGS: '0.5'
 glmmLasso: 1.5.1
 glmmML: 1.1.1
+glmmSeq: 0.0.1
 glmmTMB: 1.0.2.1
 glmmboot: 0.5.1
 glmmfields: 0.1.4
@@ -11640,7 +11646,7 @@ gwerAM: '1.0'
 gwfa: 0.0.4
 gwrpvr: '1.0'
 gwrr: 0.2-1
-gwsem: 2.0.9
+gwsem: 2.1.0
 gym: 0.1.0
 gyriq: 1.0.2
 h2o: 3.32.0.1
@@ -16631,7 +16637,7 @@ rayrender: 0.14.0
 rayshader: 0.19.2
 raytracing: 0.1.0
 rbace: 0.2.2
-rbacon: 2.5.1
+rbacon: 2.5.2
 rbamtools: 2.9.2
 rbart: '1.0'
 rbcb: 0.1.5
@@ -19715,7 +19721,7 @@ transport: 0.12-2
 transx: 0.0.1
 trapezoid: 2.0-0
 trawl: 0.2.2
-treasuryTR: 0.1.0
+treasuryTR: 0.1.1
 treatSens: '2.1'
 tree: 1.0-40
 tree.bins: 0.1.1
