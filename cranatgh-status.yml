@@ -176,7 +176,7 @@ AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
 AhoCorasickTrie: 0.1.2
-AirSensor: 1.0.2
+AirSensor: 1.0.8
 Ake: '1.0'
 AlgDesign: 1.2.0
 AlgebraicHaploPackage: '1.2'
@@ -515,7 +515,7 @@ BayesSenMC: 0.1.2
 BayesSingleSub: '0.6'
 BayesSpec: 0.5.3
 BayesSummaryStatLM: '1.0'
-BayesSurvival: 0.1.0
+BayesSurvival: 0.2.0
 BayesTree: 0.3-1.4
 BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
@@ -3089,7 +3089,7 @@ MCLIME: '1.1'
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
-MCMCglmm: '2.31'
+MCMCglmm: '2.32'
 MCMChybridGP: '5.4'
 MCMCpack: 1.5-0
 MCMCprecision: 0.4.0
@@ -3323,7 +3323,7 @@ MTurkRGUI: 0.1.5
 MUACz: 2.1.0
 MUCflights: 0.0-3
 MUS: 0.1.6
-MVA: 1.0-6
+MVA: 1.0-7
 MVB: '1.1'
 MVLM: 0.1.4
 MVN: '5.8'
@@ -3370,7 +3370,7 @@ Massign: 1.1.0
 MasterBayes: '2.57'
 MatManlyMix: 1.1.1
 MatSkew: 0.1.5
-MatTransMix: 0.1.12
+MatTransMix: 0.1.13
 MatchIt: 4.1.0
 MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
@@ -4167,7 +4167,7 @@ PhysActBedRest: '1.1'
 PhysicalActivity: 0.2-4
 PieceExpIntensity: 1.0.4
 Pijavski: 1.0.3
-PivotalR: 0.1.9
+PivotalR: 0.1.18.5
 PkgsFromFiles: '0.5'
 PlackettLuce: 0.3.2
 PlaneGeometry: 1.2.0
@@ -4590,7 +4590,7 @@ RKHSMetaMod: '1.1'
 RKUM: 0.1.1
 RKelly: '1.0'
 RKlout: '1.0'
-RKorAPClient: 0.5.9
+RKorAPClient: 0.6.1
 RLMM: 1.8.0
 RLRsim: 3.1-6
 RLT: 3.2.2
@@ -5945,7 +5945,7 @@ SubpathwayGMir: '1.0'
 SubpathwayLNCE: '1.0'
 SubpathwayMiner: '3.1'
 SubtypeDrug: 0.1.4
-SuessR: 0.1.2
+SuessR: 0.1.3
 SummaryLasso: 1.2.1
 Sunclarco: 1.0.0
 Sunder: 0.0.4
@@ -7061,7 +7061,7 @@ auth0: 0.2.1
 auto.pca: '0.3'
 autoBagging: 0.1.0
 autoCovariateSelection: 1.0.0
-autoFRK: 1.3.3
+autoFRK: 1.4.3
 autoMrP: '0.98'
 autoSEM: 0.1.0
 autoTS: 0.9.11
@@ -7262,7 +7262,7 @@ bbemkr: '2.0'
 bbl: 0.4.0
 bbmle: 1.0.23.1
 bbo: '0.2'
-bbotk: 0.3.0
+bbotk: 0.3.1
 bbreg: 2.0.1
 bbricks: 0.1.4
 bbsBayes: 2.3.6.2020
@@ -8193,7 +8193,7 @@ clevr: 0.1.1
 clhs: 0.7-3
 cli: 2.3.1
 cliapp: 0.1.1
-clickR: 0.5.27
+clickR: 0.6.64
 clickstream: 1.3.1
 clifford: 1.0-2
 clifro: 3.2-3
@@ -8282,7 +8282,7 @@ clv: 0.3-2.2
 cmaRs: 0.1.0
 cmaes: 1.0-11
 cmaesr: 1.0.3
-cmcR: 0.1.3
+cmcR: 0.1.4
 cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.1
@@ -9233,7 +9233,7 @@ didrooRFM: 1.0.0
 dief: '1.2'
 dielectric: 0.2.3
 diem: '1.0'
-dietr: 1.1.0
+dietr: 1.1.1
 diezeit: 0.1-0
 difNLR: 1.3.7
 difR: '5.1'
@@ -10582,6 +10582,7 @@ forestFloor: 1.9.5
 forestHES: 1.0-1
 forestRK: 0.0-5
 forestSAS: 1.0.1
+forestecology: 0.1.0
 forestinventory: 1.0.0
 forestmangr: 0.9.3
 forestmodel: 0.6.2
@@ -10591,7 +10592,7 @@ forestry: 0.1.0
 foretell: 0.2.0
 forge: 0.2.0
 fork: 1.2.4
-formatR: '1.7'
+formatR: '1.8'
 formattable: 0.2.1
 formula.tools: 1.7.1
 formulaic: 0.0.8
@@ -11527,7 +11528,7 @@ greta: 0.3.1
 gretel: 0.0.1
 gretlR: 0.1.0
 grex: '1.9'
-greybox: 0.6.7
+greybox: 0.6.8
 greyzoneSurv: '1.0'
 grf: 1.2.0
 grid: 0.7-4
@@ -12553,7 +12554,7 @@ jstable: 1.0.1
 jstor: 0.3.9
 jtGWAS: '1.5'
 jti: 0.6.0
-jtools: 2.1.2
+jtools: 2.1.3
 jtrans: 0.2.1
 jubilee: 0.3.3
 jug: 0.1.7
@@ -13753,7 +13754,7 @@ microseq: 2.1.4
 microservices: 0.1.0
 microsynth: 2.0.31
 midas: 1.0.1
-midasml: 0.0.5
+midasml: 0.0.6
 midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
@@ -14421,6 +14422,7 @@ narray: 0.4.1
 nasadata: 0.9.0
 nasapower: 3.0.1
 nasaweather: '0.1'
+naspaclust: 0.1.0
 nat: 1.8.16
 nat.nblast: 1.6.5
 nat.templatebrains: '1.0'
@@ -15631,7 +15633,7 @@ pkgload: 1.2.0
 pkgmaker: 0.32.2
 pkgndep: 1.0.3
 pkgnet: 0.4.1
-pkgnews: 0.0.1
+pkgnews: 0.0.2
 pkgsearch: 3.0.3
 pkgutils: 0.6.0
 pkgverse: 0.0.1
@@ -16054,7 +16056,7 @@ promethee123: 0.1.0
 promises: 1.2.0.1
 promote: 1.1.1
 promotionImpact: 0.1.4
-prompt: 1.0.0
+prompt: 1.0.1
 prompter: 1.0.0
 prop.comb.RR: '1.2'
 propOverlap: '1.0'
@@ -17281,6 +17283,7 @@ rocc: '1.3'
 roccv: '1.2'
 rock: 0.1.1
 rockchalk: 1.8.144
+rockr: 1.0.0
 rococo: 1.1.7
 rocplus: 1.0-0
 rocsvm.path: 0.1.0
@@ -17326,7 +17329,7 @@ rosqp: 0.1.0
 rosr: 0.0.8
 rotasym: 1.1.0
 rotationForest: 0.1.3
-rotations: '1.6'
+rotations: 1.6.2
 rotl: 3.0.11
 rotor: 0.3.5
 roughrf: '1.0'
@@ -18392,7 +18395,7 @@ smovie: 1.1.3
 smpic: 0.1.0
 sms: 2.3.1
 smss: 1.0-2
-smurf: 1.0.7
+smurf: 1.1.0
 sn: 1.6-2
 sna: '2.6'
 snahelper: 1.2.0
@@ -19486,7 +19489,7 @@ tidyMicro: '1.47'
 tidyREDCap: 0.2.0
 tidyRSS: 2.0.3
 tidySEM: 0.1.7
-tidyUSDA: 0.3.0
+tidyUSDA: 0.3.1
 tidybayes: 2.3.1
 tidyboot: 0.1.1
 tidycat: 0.1.1
@@ -19525,6 +19528,7 @@ tidyr: 1.1.3
 tidyrules: 0.1.5
 tidyselect: 1.1.0
 tidyseurat: 0.1.8
+tidysq: 1.1.0
 tidystats: '0.5'
 tidystopwords: 0.9.0
 tidystringdist: 0.1.4
@@ -20048,7 +20052,7 @@ usl: 3.0.0
 usmap: 0.5.2
 ustyc: 1.0.0
 utc: 0.1.5
-utf8: 1.1.4
+utf8: 1.2.1
 utf8latex: 1.0.4
 utile.tables: 0.2.1
 utile.tools: 0.2.6
