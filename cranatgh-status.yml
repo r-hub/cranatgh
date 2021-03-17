@@ -1317,6 +1317,7 @@ DSviaDRM: '1.0'
 DT: '0.17'
 DTAT: 0.3-4
 DTAXG: 0.1.0
+DTAplots: 1.0.2.4
 DTComPair: 1.0.3
 DTDA: 2.1-2
 DTDA.cif: 1.0.2
@@ -1356,7 +1357,7 @@ DataExplorer: 0.8.2
 DataFrameConstr: 1.1-2
 DataGraph: 1.2.1
 DataLoader: '1.3'
-DataPackageR: 0.15.7
+DataPackageR: 0.15.8
 DataSpaceR: 0.7.4
 DataVisualizations: 1.2.2
 DataViz: 0.2.8
@@ -1884,7 +1885,7 @@ FactorCopula: '0.5'
 FactorsR: '1.4'
 Factoshiny: '2.4'
 Fahrmeir: 2016.5.31
-FamEvent: '2.0'
+FamEvent: '2.1'
 Familias: '2.4'
 FamilyRank: '1.0'
 FarmSelect: 1.0.2
@@ -3100,7 +3101,7 @@ MCMCtGARCH: '1.0'
 MCMCtGARCHM: '1.0'
 MCMCtNARCH: '1.0'
 MCMCtreeR: '1.1'
-MCMCvis: 0.14.0
+MCMCvis: 0.15.0
 MCPAN: 1.1-21
 MCPMod: 1.0-10.1
 MCPModGeneral: 0.1-1
@@ -3789,6 +3790,7 @@ ONETr: 1.0.3
 OOBCurve: '0.3'
 OOI: 0.1.0
 OOR: 0.1.3
+OOS: 1.0.0
 OOmisc: '1.2'
 OPDOE: 1.0-10
 OPE: '0.7'
@@ -5470,7 +5472,7 @@ SLEMI: 1.0.1
 SLHD: 2.1-1
 SLICER: 0.2.0
 SLIDE: 1.0.0
-SLOPE: 0.3.2
+SLOPE: 0.3.3
 SLTCA: 0.1.0
 SLmisc: '1.4'
 SMARTAR: 1.1.0
@@ -6913,6 +6915,7 @@ arc: '1.3'
 archdata: 1.2-1
 archeofrag: 0.6.0
 archetypal: 1.1.1
+archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
 archiveRetriever: 0.0.1
@@ -7061,7 +7064,7 @@ augSIMEX: 3.7.4
 augmentedRCBD: 0.1.4
 auk: 0.4.3
 aurelius: 0.8.4
-ausplotsR: 1.2.2
+ausplotsR: 1.2.3
 auteur: 0.12.1010
 auth0: 0.2.1
 auto.pca: '0.3'
@@ -7462,7 +7465,7 @@ bimetallic: '1.0'
 bimets: 1.5.3
 bimixt: '1.0'
 binGroup: 2.2-1
-binGroup2: 1.0.2
+binGroup2: 1.1.0
 binMto: 0.0-7
 binaryGP: '0.2'
 binaryLogic: 0.3.9
@@ -7898,7 +7901,7 @@ caretEnsemble: 2.0.1
 caretLSF: '1.9'
 caretNWS: '0.25'
 carfima: 2.0.2
-cargo: 0.1.19
+cargo: 0.1.28
 caribou: '1.1'
 caroline: 0.7.6
 carpenter: 0.2.2
@@ -8914,7 +8917,7 @@ dabr: 0.0.2
 dad: 3.4.6
 dadjoke: '1.0'
 dadjokeapi: 1.0.2
-dae: 3.1-32
+dae: 3.1-37
 daewr: 1.2-7
 daff: 0.3.5
 dafs: 1.0-37
@@ -10387,6 +10390,7 @@ femmeR: 0.5.1
 fence: '1.0'
 fergm: 1.1.4
 fermicatsR: '1.4'
+ferrn: 0.0.1
 fetchR: 2.1-1
 ff: 4.0.4
 ffbase: 0.13.3
@@ -10567,6 +10571,7 @@ fontquiver: 0.2.1
 foodingraph: 0.1.0
 foodweb: 1-0
 foolbox: 0.1.1
+footballpenaltiesBL: 1.0.0
 footprint: '0.1'
 forImage: 0.1.0
 forams: 2.0-5
@@ -10719,8 +10724,8 @@ fume: '1.0'
 fun: '0.3'
 funFEM: '1.1'
 funGp: 0.2.1
-funHDDC: 2.3.0
-funLBM: '2.1'
+funHDDC: 2.3.1
+funLBM: '2.2'
 funModeling: 1.9.4
 funbarRF: 1.0.2
 func2vis: 1.0-1
@@ -11169,7 +11174,7 @@ ggdmc: 0.2.6.0
 gge: '1.6'
 ggeasy: 0.1.3
 ggedit: 0.3.1
-ggeffects: 1.0.1
+ggeffects: 1.0.2
 ggenealogy: 1.0.1
 ggetho: 0.3.6
 ggfan: 0.1.3
@@ -11785,7 +11790,7 @@ hermiter: 2.0.3
 hero: 0.4.7
 hesim: 0.5.0
 het.test: '0.1'
-hetGP: 1.1.2
+hetGP: 1.1.3
 hetmeta: 0.1.0
 hett: 0.3-3
 hettreatreg: 0.1.0
@@ -12409,6 +12414,7 @@ irrNA: 0.1.4
 irregulAR1: 1.0.0
 irt: 0.1.3
 irtDemo: 0.1.4
+irtGUI: '0.1'
 irtProb: '1.2'
 irtoys: 0.2.1
 irtplay: 1.6.2
@@ -12641,7 +12647,7 @@ kfigr: '1.2'
 kgc: 1.0.0.2
 kgrams: 0.1.0
 kgschart: 1.3.5
-khroma: 1.4.0
+khroma: 1.4.1
 kibior: 0.1.1
 kidney.epi: 1.2.0
 kim: 0.2.133
@@ -13617,7 +13623,7 @@ metScanR: 1.2.3
 meta: 4.18-0
 meta4diag: 2.0.8
 metaBLUE: 1.0.0
-metaBMA: 0.6.6
+metaBMA: 0.6.7
 metaDigitise: 1.0.1
 metaEnsembleR: 0.1.0
 metaLik: 0.43.0
@@ -13847,7 +13853,7 @@ mixAK: '5.3'
 mixAR: 0.22.5
 mixComp: 0.1-2
 mixEMM: '1.0'
-mixIndependR: 0.4.4
+mixIndependR: 1.0.0
 mixKernel: '0.4'
 mixOmics: 6.3.2
 mixPHM: 0.7-2
@@ -14037,6 +14043,7 @@ modeltests: 0.1.4
 modeltime: 0.4.1
 modeltime.ensemble: 0.3.0
 modeltime.gluonts: 0.1.0
+modeltime.h2o: 0.1.0
 modeltime.resample: 0.2.0
 modeltools: 0.2-23
 modelwordcloud: '0.1'
@@ -14344,7 +14351,7 @@ mutossGUI: 0.1-11
 mvGPS: 1.0.2
 mvLSW: 1.2.3
 mvMISE: '1.0'
-mvMORPH: 1.1.3
+mvMORPH: 1.1.4
 mvMonitoring: 0.1.0
 mvPot: 0.1.5
 mvProbit: 0.1-10
@@ -14372,7 +14379,7 @@ mvnmle: 0.1-8
 mvnormalTest: 1.0.0
 mvnormtest: 0.1-9
 mvnpermute: 1.0.0
-mvord: 1.1.0
+mvord: 1.1.1
 mvoutlier: 2.0.9
 mvp: 1.0-8
 mvpart: 1.6-2
@@ -14555,6 +14562,7 @@ newscatcheR: 0.1.0
 newsmap: 0.7.3
 newsmd: 0.3.1
 nfda: '0.2'
+nfl4th: 1.0.0
 nflfastR: 4.0.0
 nga: '1.4'
 ngram: 3.0.4
@@ -15224,6 +15232,7 @@ parallelPlot: 0.1.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
 parallelly: 1.24.0
+param6: 0.1.0
 paramGUI: 2.1.4
 parameters: 0.12.0
 paramhetero: 0.2.0
@@ -16442,6 +16451,7 @@ rFDSN: 0.0.0
 rFIA: 0.3.1
 rFSA: 0.9.6
 rFTRLProximal: 1.0.0
+rFUSION: '0.1'
 rFerns: 4.0.0
 rForest: '0.1'
 rGEDI: 0.1.11
@@ -16543,7 +16553,7 @@ radous: 0.1.2
 radsafer: 2.2.4
 radtools: 1.0.6
 rafalib: 1.0.0
-ragg: 1.1.1
+ragg: 1.1.2
 rags2ridges: 2.2.4
 ragt2ridges: 0.3.4
 ragtop: 1.1.1
@@ -16566,7 +16576,7 @@ ramify: 0.3.3
 ramlegacy: 0.2.0
 ramps: 0.6.16
 ramsvm: '2.2'
-randChecks: 0.1.0
+randChecks: 0.2.0
 randNames: 0.2.3
 randaes: '0.3'
 randcorr: '1.0'
@@ -16648,6 +16658,7 @@ rattle.data: 1.0.2
 raustats: 0.15.0
 raveio: 0.0.3
 ravelRy: 0.1.0
+raven.rdf: 0.2.0
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -17752,7 +17763,7 @@ scMappR: 0.1.5
 scModels: 1.0.2
 scPDSI: 0.1.3
 scRNAtools: '1.0'
-scSorter: 0.0.1
+scSorter: 0.0.2
 scTenifoldKnk: 1.0.1
 scTenifoldNet: 1.2.4
 scUtils: 0.1.0
@@ -18021,7 +18032,7 @@ settings: 0.2.4
 setwidth: 1.0-4
 sever: 0.0.6
 severity: '2.0'
-sf: 0.9-7
+sf: 0.9-8
 sfa: 1.0-1
 sfaR: 0.0.91
 sfadv: 1.0.1
@@ -19480,7 +19491,7 @@ thgenetics: 0.4-2
 thickmatch: 0.3.1
 thief: '0.3'
 thinkr: '0.15'
-this.path: 0.4.1
+this.path: 0.4.2
 thor: 1.1.2
 thorn: 0.2.0
 threeBrain: 0.1.9
@@ -20017,7 +20028,7 @@ unitedR: '0.4'
 unitizer: 1.4.12
 units: 0.7-1
 unittest: 1.4-0
-univOutl: '0.2'
+univOutl: '0.3'
 unival: 1.0.2
 univariateML: 1.1.0
 universals: 0.0.4
@@ -20342,6 +20353,7 @@ waves: 0.1.0
 waveslim: 1.8.2
 wavethresh: 4.6.8
 wayback: 0.2.4
+waydown: 1.1.0
 wbs: '1.4'
 wbsd: 1.0.0
 wbstats: 1.0.4
