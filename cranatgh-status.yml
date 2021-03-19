@@ -847,6 +847,7 @@ CRUF: 0.5.1
 CRWRM: 0.0.1
 CSESA: 1.2.0
 CSFA: 1.2.0
+CSGo: 0.5.1
 CSMES: 1.0.0
 CSS: '1.0'
 CSTools: 4.0.0
@@ -895,8 +896,8 @@ Canopy: 1.3.0
 CarbonEL: 0.1-4
 CarletonStats: '2.0'
 Carlson: 1.0.1
-Cascade: '1.8'
-CascadeData: '1.2'
+Cascade: '2.0'
+CascadeData: '1.3'
 CaseBasedReasoning: '0.1'
 CatDataAnalysis: 0.1-3
 CatDyn: 1.1-1
@@ -3626,6 +3627,7 @@ NCmisc: 1.1.6
 NCutYX: 0.1.0
 NDP: 0.1.0
 NEArender: '1.5'
+NEONiso: 0.4.0
 NEff: '1.1'
 NEpiC: 1.0.1
 NFCP: 0.2.0
@@ -6414,6 +6416,7 @@ VisuClust: '1.2'
 Visualize.CRAN.Downloads: '1.0'
 VizCompX: '0.1'
 VizOR: 0.8-5
+VorteksExport: 0.1.8
 Voss: 0.1-4
 VoxR: 1.0.0
 VulnToolkit: 1.1.1
@@ -6923,7 +6926,7 @@ archetypal: 1.1.1
 archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
-archiveRetriever: 0.0.1
+archiveRetriever: 0.0.2
 archivist: 2.3.5
 archivist.github: 0.2.6
 arcos: '1.27'
@@ -7108,6 +7111,7 @@ aws.alexa: 0.1.8
 aws.cloudtrail: 0.1.5
 aws.comprehend: 0.2.1
 aws.ec2metadata: 0.2.0
+aws.ecx: 0.99.0
 aws.iam: 0.1.8
 aws.kms: 0.1.4
 aws.lambda: 0.2.0
@@ -7755,6 +7759,7 @@ brotli: '1.2'
 brr: 1.0.0
 brranching: 0.6.0
 brt: 1.3.0
+bruceR: 0.6.0
 brunnermunzel: 1.4.1
 brxx: 0.1.2
 bs: '1.0'
@@ -7801,7 +7806,7 @@ burnr: 0.6.0
 bursts: 1.0-1
 busdater: 0.2.0
 bustt: 0.1.0
-butcher: 0.1.3
+butcher: 0.1.4
 butler: '0.3'
 bvarsv: '1.1'
 bvartools: 0.1.0
@@ -10856,6 +10861,7 @@ gamlss.countKinf: 3.5.1
 gamlss.data: 6.0-1
 gamlss.demo: 4.3-3
 gamlss.dist: 5.3-2
+gamlss.foreach: 1.0-5
 gamlss.inf: 1.0-1
 gamlss.mx: 6.0-0
 gamlss.nl: 4.1-0
@@ -11533,6 +11539,7 @@ graphscan: 1.1.1
 graphsim: 1.0.1
 grasp: 2.5-7
 grasper: 0.4-4
+grates: 0.1.1
 gratia: 0.5.1
 graticule: 0.1.2
 gratis: 0.2.1
@@ -11626,7 +11633,7 @@ gsrsb: 1.1.1
 gss: 2.2-2
 gsscopu: 0.9-3
 gstar: 0.1.0
-gstat: 2.0-6
+gstat: 2.0-7
 gstudio: '1.3'
 gsubfn: '0.7'
 gsw: 1.0-5
@@ -13360,7 +13367,7 @@ mapDK: 0.3.0
 mapLD: 1.0-1
 mapReasy: '1.0'
 mapReduce: 1.2.6
-mapSpain: 0.2.0
+mapSpain: 0.2.1
 mapStats: '2.4'
 mapaccuracy: 0.1.0
 mapboxapi: '0.2'
@@ -13945,14 +13952,14 @@ mlr: 2.19.0
 mlr3: 0.11.0
 mlr3benchmark: 0.1.1
 mlr3cluster: 0.1.1
-mlr3data: 0.3.0
+mlr3data: 0.3.1
 mlr3db: 0.4.0
 mlr3filters: 0.4.1
 mlr3fselect: 0.5.1
 mlr3hyperband: 0.1.2
 mlr3learners: 0.4.5
 mlr3measures: 0.3.1
-mlr3misc: 0.7.0
+mlr3misc: 0.8.0
 mlr3oml: 0.4.2
 mlr3pipelines: 0.3.4
 mlr3proba: 0.3.2
@@ -14049,7 +14056,7 @@ modelplotr: 1.1.0
 modelr: 0.1.8
 modelsummary: 0.6.6
 modeltests: 0.1.4
-modeltime: 0.4.1
+modeltime: 0.4.2
 modeltime.ensemble: 0.3.0
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.0
@@ -15089,7 +15096,7 @@ osmgeosample: '0.1'
 osmose: 3.3.4
 osmplotr: 0.3.2
 osqp: 0.6.0.3
-osrm: 3.4.0
+osrm: 3.4.1
 osrmr: 0.1.35
 ot: 0.2.0
 otinference: 0.1.0
@@ -15738,7 +15745,7 @@ plpoisson: 0.2.0
 pls: 2.7-3
 pls.pcr: 0.2.7
 plsRbeta: 0.2.6
-plsRcox: 1.7.4
+plsRcox: 1.7.6
 plsRglm: 1.3.0
 plsVarSel: 0.9.6
 plsdepot: 0.1.17
@@ -16413,7 +16420,7 @@ r2glmm: 0.1.2
 r2lUniv: '0.9'
 r2lh: '0.7'
 r2mlm: 0.2.0
-r2pmml: 0.24.0
+r2pmml: 0.26.0
 r2rtf: 0.2.0
 r2shortcode: '0.1'
 r2stl: 1.0.0
@@ -19087,7 +19094,7 @@ sugarbag: 0.1.3
 sugrrants: 0.2.8
 sumFREGAT: 1.2.1
 summariser: 2.3.0
-summarytools: 0.9.8
+summarytools: 0.9.9
 sunburstR: 2.1.5
 suncalc: 0.5.0
 sundialr: 0.1.4
@@ -19973,6 +19980,7 @@ twslm: 1.0.2
 txshift: 0.3.5
 txtplot: 1.0-4
 txtq: 0.2.3
+typed: 0.0.1
 types: 1.0.0
 tzdb: 0.1.0
 tzupdater: 0.1.2
