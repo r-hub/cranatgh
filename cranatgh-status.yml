@@ -421,7 +421,7 @@ BSL: 3.2.0
 BSPADATA: '1.0'
 BSS: 0.1.0
 BSSasymp: 1.2-1
-BSW: 0.1.0
+BSW: 0.1.1
 BSagri: 0.1-10
 BSquare: '1.1'
 BTLLasso: 0.1-11
@@ -1301,7 +1301,7 @@ DRIP: '1.6'
 DRR: 0.0.4
 DRaWR: 1.0.1
 DRomics: 2.2-0
-DSAIDE: 0.9.0
+DSAIDE: 0.9.1
 DSAIRM: 0.8.7
 DSBayes: '1.1'
 DSI: 1.2.0
@@ -2037,7 +2037,7 @@ GAparsimony: 0.9.4
 GB2: '2.1'
 GB2group: 0.3.0
 GBJ: 0.5.3
-GBcurves: 0.1.1
+GBcurves: 0.1.2
 GCAI.bias: '1.0'
 GCD: 4.0.7
 GCPM: 1.2.2
@@ -2199,7 +2199,7 @@ GWAF: '2.2'
 GWASExactHW: '1.01'
 GWASbyCluster: 0.1.7
 GWASinlps: '1.2'
-GWASinspector: 1.5.1
+GWASinspector: 1.5.2
 GWAtoolbox: 2.2.4
 GWEX: 1.0.2
 GWG: '1.0'
@@ -2604,7 +2604,7 @@ IQCC: '0.7'
 IQMNMR: '1.0'
 IRATER: 0.0.1
 IRISMustangMetrics: 2.4.4
-IRISSeismic: 1.6.0
+IRISSeismic: 1.6.2
 IROmiss: 1.0.2
 IRSF: 1.0.3
 IRTBEMM: 1.0.7
@@ -2929,7 +2929,7 @@ LSPFP: 1.0.3
 LSRS: 0.2.0
 LST: 0.1.0
 LSTS: '1.0'
-LSX: 0.9.7
+LSX: 0.9.8
 LTPDvar: '1.2'
 LTR: 1.0.0
 LTRCforests: 0.5.5
@@ -3786,6 +3786,7 @@ ODMconverter: '2.3'
 ODS: 0.2.0
 OData: '0.6'
 OECD: 0.2.4
+OEFPIL: 0.1.0
 OGI: 1.0.0
 OHPL: '1.4'
 OIdata: '1.0'
@@ -4873,6 +4874,7 @@ RZabbix: 0.1.0
 RZigZag: 0.2.1
 RZooRoH: 0.3.0
 RaJIVE: '1.0'
+RaMS: 1.0.0
 RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 2.0.0
@@ -5555,7 +5557,7 @@ SPPcomb: '0.1'
 SPREDA: '1.1'
 SPRT: '1.0'
 SPSL: 0.1-9
-SPUTNIK: 1.3.1
+SPUTNIK: 1.3.2
 SPYvsSPY: 0.1.1
 SPlit: '1.0'
 SPmlficmcm: '1.4'
@@ -6165,7 +6167,7 @@ Tariff: 1.0.5
 TauP.R: '1.5'
 TauStar: 1.1.4
 TaxicabCA: 0.1.1
-Taxonstand: '2.2'
+Taxonstand: '2.3'
 TcGSA: 0.12.7
 Tcomp: 1.0.1
 TeXCheckR: 0.7.0
@@ -7700,7 +7702,7 @@ bp: 1.0.1
 bpDir: 0.1.1
 bpa: 0.1.1
 bpbounds: 0.1.4
-bpca: 1.3-2
+bpca: 1.3-4
 bpcp: '1.4'
 bpcs: 1.0.0
 bpgmm: 1.0.7
@@ -7882,7 +7884,7 @@ canprot: 1.1.0
 cansim: 0.3.5
 canvas: 0.2-0
 canvasXpress: 1.29.6
-canvasXpress.data: 1.30.5
+canvasXpress.data: 1.32.7
 cap: '1.0'
 cape: 3.1.0
 caper: 1.0.1
@@ -9277,7 +9279,7 @@ diffeR: 0.0-6
 diffee: 1.1.0
 diffeqr: 1.1.0
 diffman: 0.1.1
-diffobj: 0.3.3
+diffobj: 0.3.4
 diffpriv: 0.4.2
 diffr: '0.1'
 diffractometry: 0.1-8
@@ -10039,7 +10041,7 @@ esreg: 0.5.0
 ess: '1.0'
 essHist: 1.2.2
 essentials: 0.1.0
-essurvey: 1.0.6
+essurvey: 1.0.7
 estatapi: 0.4.0
 estimability: '1.3'
 estimatr: 0.30.2
@@ -10373,7 +10375,7 @@ fdapace: 0.5.6
 fdasrvf: 1.9.4
 fdatest: '2.1'
 fdcov: 1.1.0
-fddm: 0.2-2
+fddm: 0.3-1
 fdim: 1.0-7
 fdistr: 0.1.0
 fdm2id: 0.9.5
@@ -11032,7 +11034,7 @@ genomic.autocorr: 1.0-1
 genomicper: '1.6'
 genotypeR: 0.0.1.8
 genpathmox: '0.6'
-genpwr: 1.0.2
+genpwr: 1.0.3
 genridge: 0.6.7
 genscore: 1.0.2
 gensemble: '1.0'
@@ -12261,6 +12263,7 @@ indelmiss: 1.0.9
 independence: 1.0.1
 indicoio: '0.3'
 indicspecies: 1.7.9
+indiedown: 0.1.1
 indirect: 0.2.0
 inegiR: 3.0.0
 ineq: 0.2-13
@@ -12290,7 +12293,7 @@ infutil: '1.0'
 ingredients: 2.0.1
 ini: 0.3.1
 injectoR: 0.2.4
-inlabru: 2.3.0
+inlabru: 2.3.1
 inldata: 1.0.3
 inline: 0.3.17
 inlinedocs: 2019.12.5
@@ -12312,7 +12315,7 @@ install.load: 1.2.3
 installr: 0.22.0
 instruments: 0.1.0
 insuranceData: '1.0'
-insurancerating: 0.6.4
+insurancerating: 0.6.5
 int64: 1.1.2
 intReg: 0.2-8
 intRegGOF: 0.85-5
@@ -12450,7 +12453,7 @@ islasso: 1.2.2
 ismev: '1.42'
 isni: '1.2'
 isnullptr: 1.0.1
-isoSurv: 0.1.0
+isoSurv: 0.2.0
 isoband: 0.2.4
 isoboost: 1.0.0
 isocat: 0.2.6
@@ -13006,7 +13009,7 @@ liftLRD: 1.0-8
 liftr: 0.9.2
 lifx: 0.2.0
 liger: 2.0.1
-lightgbm: 3.1.1
+lightgbm: 3.2.0
 lightr: '1.4'
 lightsout: '0.3'
 likeLTD: 6.3.0
@@ -13475,7 +13478,7 @@ matsindf: 0.3.6
 matuR: 0.0.1.0
 mau: 0.1.2
 mauricer: '2.3'
-maxLik: 1.4-6
+maxLik: 1.4-8
 maxLinear: '1.0'
 maxTPR: 0.1.0
 maxadjAUC: 0.1.0
@@ -13873,7 +13876,7 @@ mistral: 2.1.0
 misty: 0.3.2
 mitml: 0.4-1
 mitools: '2.4'
-mitre: 0.5.1
+mitre: 0.5.2
 mix: 1.0-10
 mixAK: '5.3'
 mixAR: 0.22.5
@@ -14031,7 +14034,7 @@ mob: '0.4'
 mobForest: 1.3.1
 mobilityIndexR: 0.2.1
 mobr: 2.0.2
-mobsim: 0.1.0
+mobsim: 0.2.0
 moc: '2.0'
 moc.gapbk: 0.1.0
 mockery: 0.4.2
@@ -14903,7 +14906,7 @@ odprism: '1.1'
 odr: 1.0.2
 oec: 2.7.8
 oem: 2.0.10
-oenb: 0.0.1
+oenb: 0.0.2
 ofGEM: '1.0'
 officedown: 0.2.1
 officer: 0.3.17
@@ -15245,7 +15248,7 @@ panelr: 0.7.5
 panelvar: 0.5.3
 pangaear: 1.0.0
 papayar: '1.0'
-papeR: 1.0-4
+papeR: 1.0-5
 paperplanes: 0.0.1.9
 papply: '0.1'
 parSim: 0.1.4
@@ -15479,7 +15482,7 @@ perfectphyloR: 0.2.1
 performance: 0.7.0
 performanceEstimation: 1.1.0
 pergola: '1.0'
-periscope: 0.6.1
+periscope: 0.6.2
 perm: 1.0-0.0
 permDep: 1.0.2
 permGPU: '0.15'
@@ -15847,7 +15850,7 @@ polspline: 1.1.19
 polyCub: 0.8.0
 polyMatrix: 0.3.1
 polyPK: 3.1.0
-polyRAD: '1.3'
+polyRAD: '1.4'
 polySegratio: 0.2-5
 polySegratioMM: 0.6-4
 polyaAeppli: '2.0'
@@ -16471,7 +16474,7 @@ rDNAse: 1.1-1
 rDVR: 0.1.1
 rDecode: 0.1.0
 rDotNet: 0.9.1
-rEDM: 1.8.0
+rEDM: 1.8.1
 rEHR: '1.0'
 rEMM: 1.0-11
 rENA: 0.2.1.2
@@ -16501,7 +16504,7 @@ rJavax: '0.3'
 rJython: 0.0-4
 rKIN: '0.1'
 rKOMICS: '1.0'
-rKolada: 0.1.3
+rKolada: 0.2.0
 rLDCP: 1.0.2
 rLFT: 1.0.0
 rLTP: 0.1.4
@@ -16652,6 +16655,7 @@ rapidxmlr: 0.1.0
 rappdirs: 0.3.3
 rapport: '1.0'
 rapportools: '1.0'
+rappsflyer: 0.2.0
 rapsimng: 0.1.0
 raptr: 0.1.7
 rare: 0.1.1
@@ -16667,7 +16671,7 @@ rasterDT: 0.3.1
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.1
 rasterList: 0.5.8
-rasterVis: '0.50'
+rasterVis: 0.50.1
 rasterdiv: 0.2-3
 rasterize: '0.1'
 rasterly: 0.2.0
@@ -17288,7 +17292,7 @@ rngtools: '1.5'
 rngwell19937: 0.6-0
 rnn: 1.4.0
 rnoaa: 1.3.2
-rnpn: 1.1.1
+rnpn: 1.2.0
 rnr: 0.2.1
 rnrfa: 2.0.4
 roadoi: '0.7'
@@ -17327,6 +17331,7 @@ robustarima: 0.2.5
 robustbase: 0.93-7
 robustfa: 1.0-5
 robustgam: 0.1.7
+robustlm: 0.1.0
 robustlmm: 2.4-3
 robustloggamma: 1.0-2
 robustrank: 2019.9-10
@@ -17900,6 +17905,7 @@ sdmpredictors: 0.2.9
 sdmvspecies: 0.3.2
 sdnet: 2.4.1
 sdols: 3.0.0
+sdpdth: '0.2'
 sdprisk: 1.1-6
 sdpt3r: '0.3'
 sdtalt: '1.03'
@@ -17982,7 +17988,7 @@ semdiag: 0.1.2
 semdrw: 0.1.0
 semds: 0.9-6
 semiArtificial: 2.3.1
-seminr: 2.0.0
+seminr: 2.0.1
 semisupKernelPCA: 0.1.5
 semnar: 0.7.1
 semnova: 0.1-6
@@ -18789,6 +18795,7 @@ sport: 0.2.0
 spotGUI: 0.2.1
 spotidy: 0.1.0
 spotifyr: 2.1.1
+spotoroo: 0.1.0
 spp: 1.16.0
 sppmix: 1.0.2
 spray: 1.0-11
@@ -19071,7 +19078,7 @@ stuart: 0.9.1
 stubthat: 1.2.1
 studentlife: 1.1.0
 studyStrap: 1.0.0
-styler: 1.3.2
+styler: 1.4.0
 stylest: 0.2.0
 stylo: 0.7.4
 suRtex: '0.9'
@@ -19547,7 +19554,7 @@ tictactoe: 0.2.2
 tictoc: '1.0'
 tidyBF: 0.5.0
 tidyCpp: 0.0.3
-tidyHeatmap: 1.1.5
+tidyHeatmap: 1.2.2
 tidyLPA: 1.0.8
 tidyMicro: '1.47'
 tidyREDCap: 0.2.0
@@ -19768,7 +19775,7 @@ trafo: 1.0.1
 trainR: 0.0.1
 traineR: 1.0.1
 traipse: 0.2.0
-traitdataform: 0.6.1
+traitdataform: 0.6.5
 traitr: '0.9'
 traits: 0.5.0
 traj: '1.2'
@@ -20270,7 +20277,7 @@ viromeBrowser: 1.0.0
 virtualNicheR: '1.0'
 virtualPollen: 1.0.0
 virtualspecies: 1.5.1
-virtuoso: 0.1.5
+virtuoso: 0.1.6
 virustotal: 0.2.1
 visNetwork: 2.0.9
 visStatistics: 0.1.1
