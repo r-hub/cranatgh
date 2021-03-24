@@ -779,7 +779,7 @@ CLME: 2.0-12
 CLONETv2: 2.1.0
 CLSOCP: '1.0'
 CLUSTShiny: 0.1.0
-CLVTools: 0.7.0
+CLVTools: 0.8.0
 CMC: '1.0'
 CME.assistant: 1.1.4
 CMF: 1.0.2
@@ -1152,7 +1152,7 @@ CustosAscensor: 0.1.0
 CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
-Cyclops: 3.1.0
+Cyclops: 3.1.1
 CytobankAPI: 1.3.0
 CytobankAPIstats: '2.0'
 CytobankBridgeR: 1.0.0
@@ -1237,7 +1237,7 @@ DGEobj: 1.0.1
 DGLMExtPois: 0.1.3
 DGM: 1.7.2
 DGVM3D: 1.0.0
-DHARMa: 0.3.3.0
+DHARMa: 0.3.4
 DHBins: '1.1'
 DHS.rates: 0.8.0
 DICOM: '0.1'
@@ -1752,7 +1752,7 @@ ExactMultinom: 0.1.2
 ExactNumCI: 1.0.0
 ExactPath: '1.0'
 ExactSampling: '1.0'
-ExamPAData: 0.2.0
+ExamPAData: 0.2.1
 ExceedanceTools: 1.2.2
 ExcelFunctionsR: 0.1.4
 ExcessMass: '1.0'
@@ -1819,7 +1819,7 @@ FIACH: 0.1.2
 FIAR: '0.6'
 FILEST: 1.1.2
 FIT: 0.0.6
-FITSio: 2.1-0
+FITSio: 2.1-5
 FKBL: 0.50-4
 FKF: 0.1.7
 FKF.SP: 0.1.1
@@ -3974,7 +3974,7 @@ PGM2: 1.0-1
 PGRdup: 0.2.3.7
 PHENIX: 1.3.1
 PHEindicatormethods: 1.3.2
-PHInfiniteEstimates: '1.7'
+PHInfiniteEstimates: '1.9'
 PHSMM: '1.0'
 PHYLOGR: 1.0.11
 PHeval: 0.5.4
@@ -4480,7 +4480,7 @@ RChronoModel: '0.4'
 RCircos: 1.2.1
 RClickhouse: 0.5.2
 RClimMAWGEN: '1.1'
-RClimacell: 0.1.3
+RClimacell: 0.1.4
 RClone: 1.0.2
 RColetum: 0.2.1
 RColorBrewer: 1.1-2
@@ -4581,7 +4581,7 @@ RISCA: '0.9'
 RISmed: '2.2'
 RIdeogram: 0.2.2
 RImageJ: 0.3-144
-RImageJROI: 0.1.1
+RImageJROI: 0.1.2
 RImagePalette: 0.1.1
 RImpact: '1.0'
 RImpala: 0.1.6
@@ -4763,7 +4763,7 @@ RRate: '1.0'
 RRedshiftSQL: 0.1.2
 RRphylo: 2.5.0
 RRreg: 0.7.1
-RSA: 0.10.2
+RSA: 0.10.4
 RSADBE: '1.0'
 RSAGA: 1.3.0
 RSAP: '0.9'
@@ -7030,7 +7030,7 @@ assignR: 2.0.0
 assist: 3.1.7
 assocInd: 1.0.1
 assortnet: '0.12'
-asteRisk: 0.99.1
+asteRisk: 0.99.2
 aster: 1.0-3
 aster2: '0.3'
 astro: '1.2'
@@ -8660,7 +8660,7 @@ coveffectsplot: 0.0.9.1
 covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.2
-covid19.analytics: '2.0'
+covid19.analytics: '2.1'
 covid19br: 0.1.1
 covid19dbcand: 0.1.1
 covid19france: 0.1.0
@@ -9628,7 +9628,7 @@ dynsbm: '0.7'
 dynsim: 1.2.1
 dynsurv: 0.4-2
 dynutils: 1.0.6
-dynwrap: 1.2.1
+dynwrap: 1.2.2
 e1071: 1.7-6
 eAnalytics: 0.1.4
 eBsc: '4.13'
@@ -11322,7 +11322,7 @@ gifti: 0.8.0
 giftwrap: 0.0.4
 gigg: 0.2.1
 gim: 0.33.1
-gimme: 0.7-4
+gimme: 0.7-5
 gimmeTools: '0.1'
 gimms: 1.1.3
 giphyr: 0.2.0
@@ -11415,6 +11415,7 @@ gluedown: 1.0.3
 gluvarpro: '4.0'
 glvmfit: 0.0.0
 glycanr: 0.3.1
+gm: 1.0.0
 gmDatabase: 0.5.0
 gmGeostats: 0.10-7
 gma: '1.0'
@@ -12119,7 +12120,7 @@ icamix: '1.0'
 icapca: '1.1'
 icarus: 0.3.1
 iccbeta: 1.2.0
-iccde: 0.3.1
+iccde: 0.3.2
 icd: 4.0.9
 icd.data: '1.0'
 icd9: '1.3'
@@ -13233,7 +13234,7 @@ lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpdensity: '2.2'
 lpint: '2.0'
-lpirfs: 0.1.9
+lpirfs: 0.2.0
 lplyr: 0.1.6
 lpme: 1.1.1
 lpmodeler: 0.2-1
@@ -14598,7 +14599,7 @@ newsmap: 0.7.3
 newsmd: 0.3.1
 nfda: '0.2'
 nfl4th: 1.0.0
-nflfastR: 4.0.0
+nflfastR: 4.1.0
 nga: '1.4'
 ngram: 3.0.4
 ngramr: 1.7.2
@@ -15411,6 +15412,7 @@ pcr: 1.2.2
 pcrcoal: 1.2.0
 pcrsim: 1.0.2
 pcse: 1.9.1.1
+pcsstools: 0.1.1
 pct: 0.7.0
 pcts: '0.15'
 pcurve: 0.6-4
@@ -16082,7 +16084,7 @@ processcontrol: 0.1.0
 processdata: '0.8'
 processmapR: 0.3.4
 processmonitR: 0.1.0
-processx: 3.4.5
+processx: 3.5.0
 procmaps: 0.0.3
 prodest: 1.0.1
 prodigenr: 0.5.0
@@ -16272,7 +16274,7 @@ qPCR.CT: '1.1'
 qVarSel: '1.0'
 qad: 1.0.0
 qap: 0.1-1
-qape: '1.0'
+qape: '1.1'
 qat: '0.74'
 qbld: 1.0.1
 qboxplot: '0.2'
@@ -16455,6 +16457,7 @@ r511: 0.1.1
 r5r: 0.3-3
 r6extended: 0.1.2
 r6methods: 0.1.0
+rADA: 1.1.9
 rARPACK: 0.11-0
 rAltmetric: 0.7.0
 rAmCharts: 2.1.13
@@ -16765,7 +16768,7 @@ rclipboard: 0.1.3
 rcmdcheck: 1.3.3
 rco: 1.0.1
 rcol: 0.1.0
-rcompanion: 2.3.27
+rcompanion: 2.4.0
 rcompgen: 0.1-8
 rcompletion: 0.1-2
 rcongresso: 0.4.6
@@ -17188,7 +17191,7 @@ riskRegression: 2020.12.08
 riskSimul: '0.1'
 riskclustr: '0.3'
 risksetROC: 1.0.4
-riskyr: 0.2.0
+riskyr: 0.3.0
 rite: '0.3'
 ritis: 1.0.0
 riv: 2.0-5
@@ -18617,7 +18620,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.6.0
+sparklyr: 1.6.1
 sparklyr.flint: 0.2.1
 sparklyr.nested: 0.0.3
 sparktex: '0.1'
@@ -18680,7 +18683,7 @@ spatialwidget: 0.2.3
 spatsoc: 0.1.16
 spatstat: 2.0-1
 spatstat.Knet: 1.65-0
-spatstat.core: 1.65-5
+spatstat.core: 2.0-0
 spatstat.data: 2.1-0
 spatstat.geom: 2.0-1
 spatstat.gui: 1.2-0
@@ -18998,7 +19001,7 @@ stinepack: '1.4'
 stlELM: 0.1.0
 stlTDNN: 0.1.0
 stlcsb: 0.1.2
-stlnpp: 0.3.6
+stlnpp: 0.3.7
 stlplus: 0.5.1
 stm: 1.3.6
 stmBrowser: '1.0'
@@ -19438,7 +19441,7 @@ tensor: '1.5'
 tensorA: 0.36.2
 tensorBF: 1.0.2
 tensorBSS: 0.3.7
-tensorflow: 2.2.0
+tensorflow: 2.4.0
 tensorordinal: 0.2.0
 tensorr: 0.1.1
 tensorregress: '3.0'
@@ -19595,6 +19598,7 @@ tidymargins: 0.1.0
 tidymodels: 0.1.2
 tidymv: 3.2.0
 tidync: 0.2.4
+tidyndr: 0.1.0
 tidypmc: '1.7'
 tidyposterior: 0.0.3
 tidypredict: 0.4.8
@@ -19985,7 +19989,7 @@ twang: '1.6'
 twangContinuous: 1.0.0
 twangRDC: '0.1'
 tweedie: 2.3.3
-tweenr: 1.0.1
+tweenr: 1.0.2
 tweet2r: '1.1'
 twenty48: 0.1.0
 twfy: 0.1.0
