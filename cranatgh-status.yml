@@ -598,7 +598,7 @@ BioPhysConnectoR: '1.6'
 BioProbability: '1.0'
 BioStatR: 3.1.2
 BioVenn: 1.1.1
-BiocManager: 1.30.10
+BiocManager: 1.30.12
 Biocomb: '0.4'
 Biodem: '0.5'
 BiodiversityR: 2.12-3
@@ -847,7 +847,7 @@ CRUF: 0.5.1
 CRWRM: 0.0.1
 CSESA: 1.2.0
 CSFA: 1.2.0
-CSGo: 0.5.1
+CSGo: 0.5.2
 CSMES: 1.0.0
 CSS: '1.0'
 CSTools: 4.0.0
@@ -1237,7 +1237,7 @@ DGEobj: 1.0.1
 DGLMExtPois: 0.1.3
 DGM: 1.7.2
 DGVM3D: 1.0.0
-DHARMa: 0.3.4
+DHARMa: 0.4.0
 DHBins: '1.1'
 DHS.rates: 0.8.0
 DICOM: '0.1'
@@ -1540,7 +1540,7 @@ EDFIR: '1.0'
 EDISON: 1.1.1
 EDMeasure: 1.2.0
 EDNE.EQ: '1.0'
-EDOIF: 0.1.2
+EDOIF: 0.1.3
 EDOtrans: 0.1.0
 EDR: 0.6-7
 EDanalysis: '1.0'
@@ -1603,7 +1603,7 @@ EMVC: '0.3'
 EMVS: '1.1'
 EMbC: 2.0.3
 ENA: 1.3-0
-ENMTools: 1.0.2
+ENMTools: '1.0'
 ENMeval: 0.3.1
 ENiRG: '1.0'
 ENmisc: 1.2-7
@@ -2046,7 +2046,7 @@ GCalcium: 1.0.0
 GCalignR: 1.0.3
 GD: '1.9'
 GDAdata: '0.93'
-GDAtools: '1.5'
+GDAtools: '1.6'
 GDD: 0.1-8
 GDELTtools: '1.2'
 GDINA: 2.8.0
@@ -2181,7 +2181,7 @@ GSCAD: 0.1.0
 GSDA: '1.0'
 GSE: '4.2'
 GSED: '2.5'
-GSIF: 0.5-5.1
+GSIF: 0.5-5
 GSM: 1.3.2
 GSMX: '1.3'
 GSODR: 3.1.0
@@ -2546,7 +2546,7 @@ IDF: 2.0.0
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '1.2'
-IDSpatialStats: 0.3.10
+IDSpatialStats: 0.3.5
 IDTurtle: '1.2'
 IDetect: 0.1.0
 IDmeasurer: 1.0.0
@@ -3064,7 +3064,7 @@ MASSExtra: 1.1.1
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
 MAT: '2.2'
-MATA: 0.7.0
+MATA: 0.7.1
 MATTOOLS: '1.1'
 MAVE: 1.3.11
 MAVIS: 1.1.3
@@ -3289,7 +3289,7 @@ MRIaggr: '1.1'
 MRMR: 0.1.4
 MRPC: 2.3.0
 MRQoL: '1.0'
-MRReg: 0.1.3
+MRReg: 0.1.4
 MRS: 1.2.4
 MRSP: 0.4.3
 MRTSampleSize: 0.3.0
@@ -4208,7 +4208,7 @@ PoisBinOrdNonNor: 1.5.3
 PoisBinOrdNor: 1.6.3
 PoisNonNor: 1.6.3
 PoisNor: 1.3.3
-PoissonBinomial: 1.2.2
+PoissonBinomial: 1.2.3
 PoissonPCA: 1.0.2
 PoissonSeq: 1.1.2
 PolicyPortfolios: 0.2.2
@@ -5056,7 +5056,7 @@ RcppRoll: 0.3.0
 RcppSMC: 0.2.3
 RcppShark: 3.1.1
 RcppSimdJson: 0.1.5
-RcppSpdlog: 0.0.4
+RcppSpdlog: 0.0.5
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.1.7
@@ -5450,7 +5450,7 @@ SGCS: '2.7'
 SGL: '1.3'
 SGP: 1.9-5.0
 SGPdata: 23.0-0.0
-SHAPforxgboost: 0.1.0
+SHAPforxgboost: 0.1.1
 SHARE: 1.1.0
 SHELF: 1.7.0
 SHIP: 1.0.2
@@ -6614,7 +6614,7 @@ acepack: 1.3-3.3
 acer: '0.1'
 acfMPeriod: 1.0.0
 acid: '1.1'
-acled.api: 1.1.2
+acled.api: 1.1.3
 acm4r: '1.0'
 acmeR: 1.1.0
 acnr: 1.0.0
@@ -6849,7 +6849,7 @@ animint2: 2020.9.18
 anipaths: 0.9.8
 aniview: 0.1.0
 anm: 1.1-1
-anndata: 0.7.5.1
+anndata: 0.7.5.2
 annovarR: 1.0.0
 anocva: 0.1.1
 anoint: '1.4'
@@ -7278,7 +7278,7 @@ bayest: '1.4'
 bayestestR: 0.8.2
 bayesvl: 0.8.5
 bayfoxr: 0.0.1
-baymedr: 0.1.0
+baymedr: 0.1.1
 baymvb: 1.0.4
 bayou: '2.1'
 baystability: 0.1.0
@@ -7853,7 +7853,7 @@ caMassClass: '1.9'
 caRamel: '1.2'
 caRecall: 0.1.0
 caRpools: '0.83'
-caTools: 1.18.1
+caTools: 1.18.2
 cabinets: 0.6.0
 cablecuttr: 0.1.1
 cabootcrs: '2.0'
@@ -7876,7 +7876,7 @@ calibrate: 1.7.7
 calibrateBinary: '0.1'
 calibrator: 1.2-8
 caliver: 2.0.0
-callr: 3.5.1
+callr: 3.6.0
 calmate: 0.12.1
 calpassapi: 0.0.3
 camel: 0.2.0
@@ -8817,7 +8817,7 @@ csound: 0.1-1
 csp: 0.1.0
 cspec: 0.1.2
 cspp: 0.3.1
-csppData: 0.1.1
+csppData: 0.1.2
 csrplus: 1.03-0
 cssTools: '1.0'
 cstab: 0.2-2
@@ -9253,7 +9253,7 @@ diagmeta: 0.4-0
 diagonals: 5.2.0
 diagram: 1.6.5
 dialr: 0.3.2
-dialrjars: 8.12.19
+dialrjars: 8.12.20
 dials: 0.0.9
 diamonds: 1.0-5
 diaplt: 1.3.0
@@ -10592,7 +10592,7 @@ fontBitstreamVera: 0.1.1
 fontHind: 0.1.1
 fontLiberation: 0.1.0
 fontMPlus: 0.1.1
-fontawesome: 0.1.0
+fontawesome: 0.2.0
 fontcm: '1.1'
 fontquiver: 0.2.1
 foodingraph: 0.1.0
@@ -10600,7 +10600,7 @@ foodweb: 1-0
 foolbox: 0.1.1
 footballpenaltiesBL: 1.0.0
 footprint: '0.1'
-foqat: 1.6.2
+foqat: 1.6.4
 forImage: 0.1.0
 forams: 2.0-5
 forcats: 0.5.1
@@ -10735,7 +10735,7 @@ fst: 0.9.4
 fstcore: 0.9.6
 fsthet: 1.0.1
 ftDK: '1.0'
-ftExtra: 0.1.1
+ftExtra: 0.2.0
 ftnonpar: 0.1-88
 ftrCOOL: 1.1.2
 fts: 0.9.9.2
@@ -11843,7 +11843,7 @@ hgm: '1.18'
 hgutils: 0.2.7
 hhh4contacts: 0.13.1
 hhi: 1.2.0
-hht: 2.1.3
+hht: 2.1.4
 hiPOD: '1.0'
 hiddenf: '2.0'
 hier.part: 1.0-6
@@ -12685,7 +12685,7 @@ kgschart: 1.3.5
 khroma: 1.4.1
 kibior: 0.1.1
 kidney.epi: 1.2.0
-kim: 0.2.133
+kim: 0.2.172
 kimisc: '0.4'
 kin.cohort: '0.7'
 kineticF: '1.0'
@@ -13956,7 +13956,7 @@ mlegp: 3.1.8
 mlergm: '0.7'
 mleur: 1.0-6
 mlf: 1.2.1
-mlflow: 1.14.1
+mlflow: 1.15.0
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
@@ -14213,7 +14213,7 @@ mrfDepth: 1.0.13
 mrfse: '0.2'
 mrgsim.parallel: 0.1.1
 mrgsim.sa: 0.1.0
-mrgsolve: 0.10.7
+mrgsolve: 0.11.0
 mri: 1.0.1
 mritc: 0.5-2
 mro: 0.1.1
@@ -14888,7 +14888,7 @@ oc: '1.2'
 occ: '1.1'
 occCite: 0.4.6
 ocd: '1.1'
-oce: 1.3-0
+oce: 1.4-0
 ocean: 0.2-4
 oceanis: 1.7.5.1
 oceanmap: 0.1.1
@@ -15381,7 +15381,7 @@ pbdZMQ: 0.3-5
 pbivnorm: 0.6.0
 pbixr: 0.1.4
 pbkrtest: 0.5.1
-pbm: 1.1.0
+pbm: 1.2.1
 pbmcapply: 1.5.0
 pbo: 1.3.4
 pbs: '1.1'
@@ -15412,7 +15412,7 @@ pchc: '0.5'
 pcmabc: 1.1.1
 pcnetmeta: '2.7'
 pco: 1.0.1
-pcoxtime: '1.0'
+pcoxtime: 1.0.1
 pcr: 1.2.2
 pcrcoal: 1.2.0
 pcrsim: 1.0.2
@@ -16192,7 +16192,7 @@ psy: '1.1'
 psych: 2.1.3
 psychNET: 0.0.4
 psychReport: 3.0.0
-psychTools: 2.0.8
+psychTools: 2.1.3
 psychmeta: 2.4.2
 psycho: 0.6.1
 psychometric: '2.2'
@@ -16473,7 +16473,7 @@ rBDAT: 0.9.8
 rBMF: '1.1'
 rBayesianOptimization: 1.1.0
 rBeta2009: '1.0'
-rBiasCorrection: 0.2.7
+rBiasCorrection: 0.2.8
 rCAT: 0.1.6
 rCBA: 0.4.3
 rCMA: '1.1'
@@ -17119,7 +17119,7 @@ rgeoapi: 1.1.0
 rgeoda: 0.0.8-1
 rgeolocate: 1.3.1
 rgeopat2: 0.3.9
-rgeoprofile: 0.2.0
+rgeoprofile: 0.2.1
 rgeos: 0.5-5
 rgeospatialquality: 0.3.2
 rgexf: 0.16.0
@@ -18309,7 +18309,7 @@ simmr: 0.4.5
 simode: 1.2.0
 simone: 1.0-4
 simpleCache: 0.4.1
-simpleMLP: 0.2.0
+simpleMLP: 1.0.0
 simpleNeural: 0.1.3
 simplePHENOTYPES: 1.3.0
 simpleRCache: 0.3.2
@@ -18475,8 +18475,8 @@ smovie: 1.1.3
 smpic: 0.1.0
 sms: 2.3.1
 smss: 1.0-2
-smurf: 1.1.0
-sn: 1.6-2
+smurf: 1.1.1
+sn: 2.0.0
 sna: '2.6'
 snahelper: 1.2.0
 snakecase: 0.11.0
@@ -18673,7 +18673,7 @@ spatial.gev.bma: '1.0'
 spatial.tools: 1.6.2
 spatialClust: 1.1.1
 spatialCovariance: 0.6-9
-spatialEco: 1.3-5
+spatialEco: 1.3-6
 spatialTailDep: '1.0'
 spatialfil: '0.15'
 spatialfusion: 0.6-2
@@ -18693,7 +18693,7 @@ spatstat.core: 2.0-0
 spatstat.data: 2.1-0
 spatstat.geom: 2.0-1
 spatstat.gui: 1.2-0
-spatstat.linnet: 2.0-0
+spatstat.linnet: 2.1-1
 spatstat.local: 4.0-0
 spatstat.sparse: 2.0-0
 spatstat.utils: 2.1-0
@@ -18968,7 +18968,7 @@ statnipokladna: 0.6.0
 statoo: 0.1.3
 statprograms: 0.2.0
 statquotes: 0.2.2
-stats19: 1.4.0
+stats19: 1.4.1
 statsDK: 0.1.1
 statsExpressions: 1.0.0
 statsgrokse: 0.1.4
@@ -19335,7 +19335,7 @@ tabit: 0.2.1
 tablaxlsx: 1.2.4
 table.express: 0.3.1
 table.glue: 0.0.2
-table1: 1.2.1
+table1: '1.3'
 table1xls: 0.4.0
 tableHTML: 2.1.0
 tableMatrix: 0.82.0
@@ -19377,7 +19377,7 @@ tapkee: '1.2'
 tapnet: '0.3'
 tarchetypes: 0.1.1
 targeted: 0.1.1
-targets: 0.3.0
+targets: 0.3.1
 tashu: 0.1.1
 taskPR: '0.34'
 taskscheduleR: '1.4'
@@ -20689,7 +20689,7 @@ yamlet: 0.7.2
 yamlme: 0.1.1
 yap: 0.1.1
 yaps: 1.2.4
-yardstick: 0.0.7
+yardstick: 0.0.8
 yarr: 0.1.2
 yarrr: 0.1.5
 yasp: 0.2.0
