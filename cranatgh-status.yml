@@ -421,6 +421,7 @@ BSL: 3.2.0
 BSPADATA: '1.0'
 BSS: 0.1.0
 BSSasymp: 1.2-1
+BSSprep: '0.1'
 BSW: 0.1.1
 BSagri: 0.1-10
 BSquare: '1.1'
@@ -3569,7 +3570,7 @@ MullerPlot: 0.1.2
 MultAlloc: '1.2'
 MultEq: '2.3'
 MultNonParam: 1.3.4
-MultOrdRS: 0.1-1
+MultOrdRS: 0.1-2
 MultiABEL: 1.1-6
 MultiBD: 0.2.0
 MultiCNVDetect: 0.1-1
@@ -4645,7 +4646,7 @@ RMediation: 1.1.4
 RMendeley: 0.1-2
 RMessenger: '0.1'
 RMixpanel: 0.7-1
-RMixtComp: 4.1.2
+RMixtComp: 4.1.3
 RMixtCompIO: 4.0.6
 RMixtCompUtilities: 4.1.4
 RMongo: 0.0.25
@@ -5785,7 +5786,7 @@ Skillings.Mack: '1.10'
 Sky: '1.0'
 SkyWatchr: 0.8-2
 SlaPMEG: 1.0.0
-SleepCycles: 1.1.0
+SleepCycles: 1.1.1
 Sleuth2: 2.0-5
 Sleuth3: 1.0-3
 SlidingWindows: 0.1.9
@@ -7922,7 +7923,7 @@ caretEnsemble: 2.0.1
 caretLSF: '1.9'
 caretNWS: '0.25'
 carfima: 2.0.2
-cargo: 0.1.28
+cargo: 0.1.29
 caribou: '1.1'
 caroline: 0.7.6
 carpenter: 0.2.2
@@ -8071,6 +8072,7 @@ cfdecomp: 0.3.0
 cffdrs: 1.8.18
 cfma: '1.0'
 cfmortality: 0.3.0
+cforward: 0.1.0
 cg: 1.0-3
 cgAUC: 1.2.1
 cgal4h: 0.1.0
@@ -9114,7 +9116,7 @@ deconvolveR: 1.2-1
 decor: 1.0.0
 decorators: 0.1.0
 deducorrect: 1.3.7
-deductive: 0.1.3
+deductive: 1.0.0
 deep: 0.1.0
 deepMOU: 0.1.1
 deepNN: '1.0'
@@ -9467,7 +9469,7 @@ doebioresearch: 0.1.0
 doex: '1.2'
 dominanceanalysis: 2.0.0
 domino: 0.3.1
-domir: 0.0.0
+domir: 0.0.1
 donut: 1.0.1
 doremi: 1.0.0
 dosearch: 1.0.6
@@ -9591,6 +9593,7 @@ dupiR: '1.2'
 dupree: 0.3.0
 durmod: 1.1-4
 dvfBm: '1.0'
+dvir: 2.0.0
 dvmisc: 1.1.4
 dvn: '0.3'
 dvqcc: 0.1.0
@@ -10511,7 +10514,7 @@ fitzRoy: 1.0.0
 fivethirtyeight: 0.6.1
 fixedTimeEvents: '1.0'
 fixerapi: 0.1.6
-fixest: 0.8.3
+fixest: 0.8.4
 fizzbuzzR: 0.1.1
 flacco: '1.8'
 flagr: 0.3.2
@@ -11075,7 +11078,7 @@ geoelectrics: 0.2.0
 geofabrik: 0.1.0
 geofacet: 0.2.0
 geofd: '2.0'
-geofi: 1.0.0
+geofi: 1.0.1
 geogenr: 1.0.0
 geogrid: 0.1.1
 geohash: 0.3.0
@@ -11344,7 +11347,7 @@ gitlabr: 1.1.6
 gitlink: 0.1.3
 gitter: '1.1'
 givitiR: '1.3'
-gjam: 2.3.4
+gjam: 2.3.5
 gk: 0.5.1
 gkgraphR: 1.0.2
 gkmSVM: 0.81.0
@@ -11419,7 +11422,7 @@ glue: 1.4.2
 gluedown: 1.0.3
 gluvarpro: '4.0'
 glvmfit: 0.0.0
-glycanr: 0.3.1
+glycanr: 0.4.0
 gm: 1.0.0
 gmDatabase: 0.5.0
 gmGeostats: 0.10-7
@@ -11663,7 +11666,7 @@ gtWAS: 1.1.0
 gtable: 0.3.0
 gtcorr: 0.2-1
 gte: 1.2-2
-gtfs2gps: 1.3-2
+gtfs2gps: 1.4-0
 gtfsrouter: 0.0.4
 gtfstools: 0.1.0
 gtheory: 0.1.2
@@ -12040,7 +12043,7 @@ hypred: '0.5'
 hystReet: 0.0.2
 hysteresis: '2.6'
 hzar: 0.2-5
-i2dash: 0.2.2
+i2dash: 0.2.3
 i2extras: 0.0.2
 iAdapt: 2.0.0
 iBATCGH: 1.3.1
@@ -12234,7 +12237,7 @@ impactflu: 0.1.0
 impimp: 0.3.1
 implicitMeasures: 0.2.0
 implied: 0.3.1
-implyr: 0.3.0
+implyr: 0.4.0
 import: 1.2.0
 importar: 0.1.1
 importinegi: 1.1.3
@@ -12650,7 +12653,7 @@ kelvin: 2.0-2
 kendallRandomWalks: 0.9.4
 kequate: 1.6.3
 kerTests: 0.1.2
-keras: 2.3.0.0
+keras: 2.4.0
 kerasR: 0.6.1
 kerasformula: 1.5.1
 kerastuneR: 0.1.0.3
@@ -13590,7 +13593,7 @@ mds: 0.3.2
 mdsOpt: 0.5-1
 mdscore: 0.1-3
 mdsdt: '1.2'
-mdsr: 0.2.4
+mdsr: 0.2.5
 mdsstat: 0.3.2
 mdthemes: 0.1.0
 mdw: 2020.6-17
@@ -14081,7 +14084,7 @@ modelplotr: 1.1.0
 modelr: 0.1.8
 modelsummary: 0.6.6
 modeltests: 0.1.4
-modeltime: 0.4.2
+modeltime: 0.5.0
 modeltime.ensemble: 0.3.0
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.0
@@ -14294,7 +14297,7 @@ mudens: 1.3.2
 mudfold: 1.1.2
 mueRelativeRisk: 0.1.1
 mugnet: 1.02.0
-muhaz: 1.2.6.1
+muhaz: 1.2.6.2
 muir: 0.1.0
 mully: 2.1.31
 mulset: 1.0.0
@@ -15827,6 +15830,7 @@ poLCA: 1.4.1
 pocketapi: '0.1'
 pocrm: '0.12'
 podr: 0.0.5
+poems: 1.0.1
 pogit: 1.2.0
 poibin: '1.5'
 poilog: '0.4'
@@ -16525,7 +16529,7 @@ rLFT: 1.0.0
 rLTP: 0.1.4
 rLakeAnalyzer: 1.11.4.1
 rLandsat: 0.1.1
-rLiDAR: 0.1.1
+rLiDAR: '0.1'
 rLindo: 8.0.1
 rMEA: 1.2.0
 rMIDAS: 0.3.0
@@ -16717,7 +16721,7 @@ rayrender: 0.14.0
 rayshader: 0.19.2
 raytracing: 0.1.0
 rbace: 0.2.2
-rbacon: 2.5.2
+rbacon: 2.5.3
 rbamtools: 2.9.2
 rbart: '1.0'
 rbcb: 0.1.5
@@ -17810,7 +17814,7 @@ sbw: 1.1.1
 scBio: 0.1.6
 scDIFtest: 0.1.1
 scLink: 1.0.1
-scMappR: 1.0.0
+scMappR: 1.0.1
 scModels: 1.0.2
 scPDSI: 0.1.3
 scRNAtools: '1.0'
@@ -17939,7 +17943,7 @@ searchable: 0.3.3.1
 searcher: 0.0.5
 seas: 0.5-2
 season: 0.3.12
-seasonal: 1.8.1
+seasonal: 1.8.2
 seasonalclumped: 0.3.2
 seasonalview: '0.3'
 seastests: 0.14.2
@@ -18095,7 +18099,7 @@ sfheaders: 0.4.0
 sfinx: 1.7.99
 sfnetworks: 0.5.1
 sfo: 0.1.1
-sfsmisc: 1.1-9
+sfsmisc: 1.1-10
 sft: 2.2-1
 sftrack: 0.5.2
 sgPLS: '1.7'
@@ -19036,7 +19040,7 @@ storr: 1.2.5
 stosim: 0.0.14
 stplanr: 0.8.1
 stpm: 1.7.9
-stpp: 2.0-4
+stpp: 2.0-5
 stppResid: '1.1'
 str2str: 0.1.1
 strand: 0.2.0
@@ -19538,7 +19542,7 @@ tgstat: 2.3.16
 thankr: 1.0.0
 thectar: 1.0.0
 theiaR: 0.4.0
-thematic: 0.1.1
+thematic: 0.1.2
 themetagenomics: 1.0.2
 themis: 0.1.3
 thermocouple: 1.0.2
@@ -20313,7 +20317,7 @@ visualR: 2.0.2
 visualizationTools: '0.2'
 visualize: 4.4.0
 visualpred: 0.1.0
-visvow: 1.1.2
+visvow: 1.2.0
 vita: 1.0.0
 vitae: 0.4.2
 vitality: '1.3'
@@ -20605,7 +20609,7 @@ wyz.code.testthat: 1.1.17
 x.ent: 1.1.7
 x12: 1.9.3
 x12GUI: 0.13.0
-x13binary: 1.1.39-2
+x13binary: 1.1.39-3
 x3ptools: 0.0.2
 xLLiM: '2.2'
 xROI: 0.9.17
