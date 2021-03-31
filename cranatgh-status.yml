@@ -487,7 +487,7 @@ BayesGPfit: 0.1.0
 BayesGWQS: 0.0.2
 BayesH: '1.0'
 BayesLCA: '1.9'
-BayesLN: 0.2.1
+BayesLN: 0.2.2
 BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
@@ -507,6 +507,7 @@ BayesPiecewiseICAR: 0.2.1
 BayesPostEst: 0.3.1
 BayesProject: '1.0'
 BayesQTLBIC: 1.0-2
+BayesRGMM: '1.0'
 BayesRS: 0.1.3
 BayesReversePLLH: '1.4'
 BayesS5: '1.41'
@@ -598,7 +599,7 @@ BioPETsurv: 0.1.0
 BioPhysConnectoR: '1.6'
 BioProbability: '1.0'
 BioStatR: 3.1.2
-BioVenn: 1.1.1
+BioVenn: 1.1.2
 BiocManager: 1.30.12
 Biocomb: '0.4'
 Biodem: '0.5'
@@ -988,6 +989,7 @@ ClusBoot: '1.0'
 ClusTorus: 0.0.1
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
+ClustAssess: 0.1.0
 ClustBlock: 2.3.1
 ClustGeo: '2.0'
 ClustImpute: 0.2.0
@@ -1679,7 +1681,7 @@ ElstonStewart: '1.1'
 EmbedSOM: 2.1.1
 Emcdf: 0.1.2
 EmiStatR: 1.2.2.0
-EmissV: 0.665.3.0
+EmissV: 0.665.5.2
 EmpiricalCalibration: 2.1.0
 EnQuireR: '0.10'
 EncDNA: 1.0.2
@@ -2368,7 +2370,7 @@ HDPenReg: 0.94.7
 HDclassif: 2.2.0
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
-HDiR: '1.1'
+HDiR: 1.1.1
 HDoutliers: 1.0.3
 HDtest: '2.1'
 HDtweedie: '1.1'
@@ -2776,7 +2778,7 @@ KANT: '2.0'
 KATforDCEMRI: '1.0'
 KCSKNNShiny: 0.1.0
 KCSNBShiny: 0.1.0
-KDViz: 1.3.1
+KDViz: '1.3'
 KENDL: '1.1'
 KERE: 1.0.0
 KFAS: 1.4.4
@@ -3058,7 +3060,7 @@ MAR1: '1.0'
 MARSANNhybrid: 0.1.0
 MARSS: 3.11.3
 MARSSVRhybrid: 0.1.0
-MARVEL: 1.0.0
+MARVEL: 1.1.0
 MARX: '0.2'
 MASS: 7.3-53.1
 MASSExtra: 1.1.1
@@ -3388,7 +3390,7 @@ MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
 MatchItSE: '1.0'
 MatchLinReg: 0.7.3
-MatchThem: 0.9.3
+MatchThem: 1.0.0
 Matching: 4.9-7
 MatchingFrontier: 1.0.0
 Matrix: 1.3-2
@@ -3761,6 +3763,7 @@ NoiseFiltersR: 0.1.0
 NominalLogisticBiplot: '0.2'
 NonCompart: 0.4.7
 NonNorMvtDist: 1.0.2
+NonParRolCor: 0.4.0
 NonProbEst: 0.2.4
 NonlinearTSA: 0.5.0
 NonpModelCheck: '3.0'
@@ -3859,6 +3862,7 @@ OpenMPController: 0.2-5
 OpenMx: 2.19.1
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.0
+OpenSpecy: 0.8.2
 OpenStreetMap: 0.3.4
 Opportunistic: '1.2'
 Opt5PL: 0.1.1
@@ -5832,7 +5836,7 @@ SongEvo: 1.0.0
 SorptionAnalysis: 0.1.0
 SortableHTMLTables: 0.1-3
 SortedEffects: 1.2.0
-SoundShape: '1.0'
+SoundShape: 1.1.0
 SoundexBR: '1.2'
 SoupX: 1.5.0
 SourceSet: 0.1.3
@@ -5871,6 +5875,7 @@ SpatialExtremes: 2.0-9
 SpatialFloor: 1.1.0
 SpatialGraph: 1.0-2
 SpatialKDE: 0.6.2
+SpatialKWD: 0.3.0
 SpatialML: 0.1.3
 SpatialNP: 1.1-4
 SpatialPack: 0.3-8196
@@ -6639,7 +6644,7 @@ activityCounts: 0.1.2
 activityGCMM: 1.0.0
 activpalProcessing: 1.0.2
 actogrammr: 0.2.3
-actuar: 3.1-1
+actuar: 3.1-2
 actuaryr: 1.1.1
 acumos: 0.4-1
 ada: 2.0-5
@@ -7947,7 +7952,7 @@ caspar: '1.0'
 cassandRa: 0.1.0
 castor: 1.6.7
 cat: 0.0-6.5
-cat.dt: 0.3.0
+cat.dt: 0.3.1
 cat2cat: 0.2.1
 catIrt: 0.5-0
 catR: '3.16'
@@ -8479,6 +8484,7 @@ compete: '0.1'
 competitiontoolbox: 0.1.3
 completejourney: 1.1.0
 complex.surv.dat.sim: 2.0.0
+complexNet: 0.1.0
 complexity: 1.1.1
 complexplus: '2.1'
 complmrob: 0.7.0
@@ -8683,7 +8689,7 @@ covid19swiss: 0.1.0
 covid19us: 0.1.7
 covidprobability: 0.1.0
 covidregionaldata: 0.8.2
-covidsymptom: 0.9.1
+covidsymptom: 0.9.2
 covmat: '1.0'
 covr: 3.5.1
 covreg: '1.0'
@@ -9457,14 +9463,14 @@ docker: 0.0.2
 dockerfiler: 0.1.3
 docknitr: 1.0.1
 dockr: 0.8.6
-doconv: 0.1.0
+doconv: 0.1.1
 docopt: 0.7.1
 docopulae: 0.4.0
 docstring: 1.0.0
 doctr: 0.2.0
 docuSignr: 0.0.3
 documair: 0.6-0
-document: 3.3.0
+document: 3.3.1
 documenter: 0.1.1
 docxtools: 0.2.2
 docxtractr: 0.6.5
@@ -9714,7 +9720,7 @@ ecdfHT: 0.1.1
 ecespa: 1.1-13
 ech: 0.1.1.2
 echarts4r: 0.4.0
-echarty: 0.1.0
+echarty: 0.1.3
 echelon: 0.1.0
 echo.find: 4.0.1
 echogram: 0.1.2
@@ -10276,7 +10282,7 @@ fail: '1.3'
 fairadapt: 0.1.0
 fairml: '0.3'
 fairmodels: 0.2.4
-fairness: 1.2.0
+fairness: 1.2.1
 fairselect: 0.1-1
 fairsubset: '1.0'
 faisalconjoint: '1.15'
@@ -10647,6 +10653,7 @@ formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
 formulops: 0.5.0
+forplo: 0.1.0
 forrel: 1.3.0
 fortunes: 1.5-4
 forward: 1.0.5
@@ -11221,6 +11228,7 @@ ggfocus: 1.0.0
 ggforce: 0.3.3
 ggformula: 0.10.1
 ggfortify: 0.4.11
+ggfx: 1.0.0
 gggap: 1.0.1
 gggenes: 0.4.1
 ggghost: 0.2.1
@@ -11758,6 +11766,7 @@ hashr: 0.1.3
 hasseDiagram: 0.1.3
 haven: 2.3.1
 hawkes: 0.0-4
+hawkesbow: 1.0.0
 hazer: 1.1.1
 hazus: '0.1'
 hbbr: 1.1.2
@@ -12696,6 +12705,7 @@ kidney.epi: 1.2.0
 kim: 0.2.172
 kimisc: '0.4'
 kin.cohort: '0.7'
+kindisperse: 0.9.2
 kineticF: '1.0'
 kinfit: 1.1.14
 kinn: '0.2'
@@ -14593,7 +14603,7 @@ networktree: 1.0.1
 neuRosim: 0.2-12
 neural: 1.4.2.2
 neuralnet: 1.44.2
-neurobase: 1.29.0
+neurobase: 1.32.0
 neuroblastoma: '1.0'
 neurocInstall: 0.12.0
 neurohcp: 0.9.0
@@ -14613,6 +14623,7 @@ newsmd: 0.3.1
 nfda: '0.2'
 nfl4th: 1.0.0
 nflfastR: 4.1.0
+nflseedR: 1.0.1
 nga: '1.4'
 ngram: 3.0.4
 ngramr: 1.7.2
@@ -14811,7 +14822,7 @@ npmv: 2.4.0
 npordtests: '1.2'
 nppbib: 1.2-0
 npphen: 1.1-0
-nprcgenekeepr: 1.0.3
+nprcgenekeepr: 1.0.5
 npreg: 1.0-5
 npregderiv: '1.0'
 npregfast: 1.5.1
@@ -16071,7 +16082,7 @@ princurve: 2.1.6
 prinsimp: 0.8-8
 printr: 0.1.1
 prioGene: 1.0.1
-prioritizr: 5.0.3
+prioritizr: 7.0.1
 prioritizrdata: 0.2.4
 prioritylasso: 0.2.5
 prism: 0.2.0
@@ -16561,6 +16572,7 @@ rPython: 0.0-6
 rQCC: 1.20.7
 rRAP: '1.1'
 rRofex: 2.0.3
+rSAFE: 0.1.2
 rSARP: 1.0.0
 rSCA: '3.1'
 rSEA: 2.1.1
@@ -16644,7 +16656,7 @@ random.polychor.pa: 1.1.4-4
 randomForest: 4.6-14
 randomForest.ddR: 0.1.2
 randomForestExplainer: 0.10.1
-randomForestSRC: 2.10.1
+randomForestSRC: 2.11.0
 randomGLM: 1.02-1
 randomLCA: 1.1-1
 randomNames: 1.4-0.0
@@ -16815,7 +16827,7 @@ rddapp: 1.2.1
 rddensity: '2.2'
 rddtools: 1.4.0
 rde: 0.1.0
-rdecision: 1.0.2
+rdecision: 1.0.3
 rdefra: 0.3.8
 rdetools: '1.0'
 rdflib: 0.2.3
@@ -17778,7 +17790,7 @@ santaR: '1.0'
 santoku: 0.5.0
 sanzo: 0.1.0
 saotd: 0.2.0
-sapa: 2.0-2
+sapa: 2.0-3
 sapevom: 0.2.0
 sapfluxnetr: 0.1.1
 saps: 1.0.0
@@ -18132,7 +18144,7 @@ shape: 1.4.5
 shapeNA: 0.0.2
 shapeR: 0.1-5
 shapefiles: '0.7'
-shapes: 1.2.5
+shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
 shar: '1.2'
@@ -18698,13 +18710,13 @@ spatialwarnings: 2.0.0
 spatialwidget: 0.2.3
 spatsoc: 0.1.16
 spatstat: 2.0-1
-spatstat.Knet: 1.65-0
+spatstat.Knet: 2.0-0
 spatstat.core: 2.0-0
 spatstat.data: 2.1-0
 spatstat.geom: 2.0-1
-spatstat.gui: 1.2-0
+spatstat.gui: 2.0-0
 spatstat.linnet: 2.1-1
-spatstat.local: 4.0-0
+spatstat.local: 4.1-0
 spatstat.sparse: 2.0-0
 spatstat.utils: 2.1-0
 spatsurv: '1.5'
@@ -18820,7 +18832,7 @@ sport: 0.2.0
 spotGUI: 0.2.3
 spotidy: 0.1.0
 spotifyr: 2.1.1
-spotoroo: 0.1.0
+spotoroo: 0.1.1
 spp: 1.16.0
 sppmix: 1.0.2
 spray: 1.0-11
@@ -19199,7 +19211,7 @@ survSNP: '0.24'
 survSens: 0.1.0
 survSpearman: 1.0.0
 survcomp: 1.1.6
-surveillance: 1.19.0
+surveillance: 1.19.1
 survexp.fr: '1.0'
 survey: '4.0'
 surveyNG: '0.3'
@@ -19222,6 +19234,7 @@ survivalROC: 1.0.3
 survivalmodels: 0.1.7
 survivalsvm: 0.0.5
 survminer: 0.4.9
+survmixer: '1.3'
 survrec: 1.2-2
 survsim: 1.1.5
 survsup: 0.0.2
@@ -19616,6 +19629,7 @@ tidymodels: 0.1.2
 tidymv: 3.2.0
 tidync: 0.2.4
 tidyndr: 0.1.0
+tidypaleo: 0.1.0
 tidypmc: '1.7'
 tidyposterior: 0.1.0
 tidypredict: 0.4.8
@@ -20580,7 +20594,7 @@ wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
 wrGraph: 1.2.2
-wrMisc: 1.5.3
+wrMisc: 1.5.4
 wrProteo: 1.4.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.2
