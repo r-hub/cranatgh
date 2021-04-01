@@ -946,6 +946,7 @@ ChemoSpecUtils: 0.4.96
 ChemometricsWithR: 0.1.9
 ChemometricsWithRData: 0.1.3
 ChillModels: 1.0.2
+ChineseNames: 1.0.0
 ChoR: 0.0-4
 ChocoLattes: 0.1.0
 ChoiceModelR: '1.2'
@@ -1261,7 +1262,7 @@ DImodels: '1.0'
 DIscBIO: 1.1.0
 DJL: '3.6'
 DLASSO: 2.0.2
-DLMtool: 6.0.0
+DLMtool: 6.0.1
 DMCfun: 1.3.0
 DMMF: 0.5.1.2
 DMR: '2.0'
@@ -2275,7 +2276,7 @@ GeomComb: '1.0'
 GermaParl: 1.5.2
 GerminaR: 2.0.1
 GetBCBData: '0.6'
-GetDFPData: 1.5.3
+GetDFPData: '1.6'
 GetDFPData2: '0.5'
 GetHFData: '1.7'
 GetITRData: '0.7'
@@ -3668,7 +3669,7 @@ NMF: 0.23.0
 NMFN: '2.0'
 NMI: '2.0'
 NMMAPSlite: '0.3'
-NMOF: 2.3-1
+NMOF: 2.4-0
 NMRS: '1.0'
 NMVANOVA: 1.1.0
 NNLM: 0.4.3
@@ -3728,7 +3729,7 @@ NetData: '0.3'
 NetIndices: 1.4.4
 NetLogoR: 0.3.7
 NetMix: 0.2.0
-NetOrigin: 1.0-3
+NetOrigin: 1.1-2
 NetPreProc: '1.1'
 NetRep: 1.2.4
 NetSci: 0.1.0
@@ -4283,7 +4284,7 @@ ProbYX: 1.1-0
 ProbeDeveloper: 1.0.0
 ProbeR: '2.0'
 ProbitSpatial: '1.0'
-ProcData: 0.2.5
+ProcData: 0.3.2
 ProcMod: 1.0.7
 ProfessR: 2.4-1
 ProfileLikelihood: '1.1'
@@ -6519,7 +6520,7 @@ WordR: 0.3.1
 WorldFlora: '1.7'
 Wrapped: '2.0'
 WrightMap: 1.2.3
-WriteXLS: 6.2.0
+WriteXLS: 6.3.0
 WufooR: 1.0.1
 XBRL: 0.99.18
 XGR: 1.1.7
@@ -7090,7 +7091,7 @@ augSIMEX: 3.7.4
 augmentedRCBD: 0.1.4
 auk: 0.4.3
 aurelius: 0.8.4
-ausplotsR: 1.2.3
+ausplotsR: '1.2'
 auteur: 0.12.1010
 auth0: 0.2.1
 auto.pca: '0.3'
@@ -7294,6 +7295,7 @@ bayou: '2.1'
 baystability: 0.1.0
 baytrends: 2.0.2
 bazar: 1.0.11
+bbdetection: '1.0'
 bbefkr: '4.2'
 bbemkr: '2.0'
 bbl: 0.4.0
@@ -7383,7 +7385,7 @@ benford.analysis: 0.1.5
 bentcableAR: 0.3.0
 benthos: 1.3-6
 ber: '4.0'
-berryFunctions: 1.19.1
+berryFunctions: 1.20.1
 bestNormalize: 1.7.0
 bestSDP: 0.1.2
 bestglm: 0.37.3
@@ -8158,7 +8160,7 @@ chorrrds: 0.1.9.5
 chplot: '1.3'
 christmas: 1.0.0
 chromer: '0.1'
-chromoMap: '0.3'
+chromoMap: 0.3.1
 chromoR: '1.0'
 chromseq: 0.1.3
 chron: 2.3-56
@@ -9041,7 +9043,7 @@ dataview: 2.1.1
 date: 1.2-39
 daterangepicker: 0.1.0
 datetime: 0.1.4
-datetimeutils: 0.4-0
+datetimeutils: 0.5-0
 datoramar: 0.1.0
 datos: 0.3.0
 datplot: 1.0.0
@@ -10785,7 +10787,7 @@ funcy: 1.0.1
 fundiversity: 0.0.1
 funest: 0.0.1.3
 funfits: 2.0-3
-fungible: 1.96.3
+fungible: '1.97'
 funique: 0.0.1
 funnelR: 0.1.0
 funneljoin: 0.1.0
@@ -11995,7 +11997,7 @@ httk: 2.0.3
 httpRequest: 0.0.10
 httpcache: 1.2.0
 httpcode: 0.3.0
-httpgd: 1.0.1
+httpgd: 1.1.0
 httping: 0.2.0
 httpproblems: 1.0.0
 httptest: 4.0.0
@@ -12334,7 +12336,7 @@ insane: 0.1.0
 insect: 1.2.0
 insee: 1.0.0
 insideRODE: '2.0'
-insight: 0.13.1
+insight: 0.13.2
 insol: 1.2.2
 inspectdf: 0.0.10
 inspector: 1.0.2
@@ -17852,7 +17854,7 @@ scaleboot: 1.0-1
 scales: 1.1.1
 scalpel: 1.0.3
 scalreg: 1.0.1
-scam: 1.2-10
+scam: 1.2-11
 scan: '0.51'
 scanstatistics: 1.0.1
 scape: 2.3.3
@@ -18276,7 +18278,7 @@ sigloc: 0.0.4
 sigma2tools: '1.2'
 sigmaNet: 1.1.0
 sigmajs: 0.1.5
-sigminer: 1.2.5
+sigminer: 2.0.0
 sigmoid: 0.3.0
 signal: 0.7-6
 signal.hsmm: '1.2'
@@ -18382,7 +18384,7 @@ sirt: 3.9-4
 sirus: 0.3.2
 sisVIVE: '1.4'
 sisal: '0.48'
-sisireg: 0.8.1
+sisireg: 0.9.0
 sismonr: 2.1.0
 sistec: 0.2.0
 sisus: 3.9-13
@@ -19536,7 +19538,7 @@ textreuse: 0.1.5
 textshape: 1.7.1
 textshaping: 0.3.3
 textstem: 0.1.4
-textutils: 0.2-0
+textutils: 0.2-1
 tfCox: 0.1.0
 tfaddons: 0.10.0
 tfarima: 0.1.1
