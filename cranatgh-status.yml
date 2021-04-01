@@ -989,7 +989,7 @@ ClusBoot: '1.0'
 ClusTorus: 0.0.1
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
-ClustAssess: 0.1.0
+ClustAssess: 0.1.1
 ClustBlock: 2.3.1
 ClustGeo: '2.0'
 ClustImpute: 0.2.0
@@ -2469,7 +2469,7 @@ HiLMM: '1.1'
 HiPLARM: '0.1'
 HiResTEC: '0.59'
 HiddenMarkov: 1.8-11
-HierDpart: 0.5.0
+HierDpart: 1.5.0
 HierO: '0.2'
 HighDimOut: 1.0.0
 HighProbability: '1.0'
@@ -4445,7 +4445,7 @@ RANN.L1: '2.5'
 RAP: '1.1'
 RAPIDR: 0.1.1
 RAPTOR: 1.0.1
-RAQSAPI: 2.0.0
+RAQSAPI: 2.0.1
 RATest: 0.1.8
 RAdwords: 0.1.18
 RAhrefs: 0.1.4
@@ -6164,7 +6164,7 @@ TUWmodel: 1.1-1
 TVMM: 3.2.1
 TVsMiss: 0.1.1
 TWIX: 0.2.6
-Taba: 0.2.0
+Taba: 1.0.0
 Table1Heatmap: '1.1'
 TableHC: 0.1.2
 TableMonster: '1.7'
@@ -6578,7 +6578,7 @@ aGE: 0.0.9
 aLFQ: 1.3.6
 aMNLFA: '0.1'
 aPCoA: '1.2'
-aRbs: 0.1.1
+aRbs: 0.1.2
 aRpsDCA: 1.1.1
 aRxiv: 0.5.19
 aSPC: 0.1.2
@@ -6887,7 +6887,7 @@ aods3: 0.4-1.1
 aof: 0.1.2
 aoos: 0.5.0
 aop: 1.0.0
-aopdata: 0.1.0
+aopdata: 0.2.0
 aoristic: 1.1.0
 aos: 0.1.0
 apTreeshape: 1.5-0.1
@@ -7419,7 +7419,7 @@ bglm: '1.0'
 bgmfiles: 0.0.6
 bgmm: 1.8.4
 bgsmtr: '0.7'
-bgumbel: 0.0.2.2
+bgumbel: 0.0.3
 bhm: '1.16'
 bhmbasket: 0.9.1
 bhpm: '1.7'
@@ -8265,6 +8265,7 @@ clipp: 0.1.0
 clipr: 0.7.1
 cliqueMS: 0.3.1
 clisymbols: 1.2.0
+clock: 0.1.0
 clogitL1: '1.5'
 clogitLasso: '1.1'
 clogitboost: '1.1'
@@ -8322,6 +8323,7 @@ clustringr: '1.0'
 clustsig: '1.1'
 clustvarsel: 2.3.4
 clv: 0.3-2.2
+cmR: 1.0.1
 cmaRs: 0.1.0
 cmaes: 1.0-11
 cmaesr: 1.0.3
@@ -8372,6 +8374,7 @@ coda: 0.19-4
 coda.base: 0.3.1
 codadiags: '1.0'
 codalm: 0.1.0
+codeCollection: 0.1.2
 codebook: 0.9.2
 codebreaker: 0.0.2
 codemetar: 0.1.9
@@ -9130,7 +9133,7 @@ deep: 0.1.0
 deepMOU: 0.1.1
 deepNN: '1.0'
 deepboost: 0.1.6
-deepdep: 0.2.1
+deepdep: 0.2.2
 deepdive: 1.0.1
 deepgmm: 0.1.62
 deepgp: 0.2.0
@@ -10667,7 +10670,7 @@ fpCompare: 0.2.3
 fpa: '1.0'
 fpc: 2.2-9
 fpca: 0.2-1
-fpeek: 0.1.1
+fpeek: 0.1.2
 fpest: 0.1.1
 fplot: 1.0.0
 fplyr: 1.2.1
@@ -10885,7 +10888,7 @@ games: 1.1.2
 gamesGA: 1.1.3.7
 gamesNws: '0.5'
 gamlr: 1.13-6
-gamlss: 5.3-2
+gamlss: 5.3-4
 gamlss.add: 5.1-6
 gamlss.cens: 5.0-1
 gamlss.countKinf: 3.5.1
@@ -13010,7 +13013,7 @@ lfstat: 0.9.4
 lg: 0.4.1
 lga: 1.1-1
 lgarch: 0.6-2
-lgcp: '1.6'
+lgcp: '1.7'
 lgr: 0.4.2
 lgrExtra: 0.0.5
 lgrdata: 0.1.1
@@ -13811,7 +13814,7 @@ micompr: 1.1.0
 microPop: '1.5'
 microbats: 0.1-1
 microbenchmark: 1.4-7
-microbial: 0.0.17
+microbial: 0.0.18
 microclass: '1.2'
 microclustr: 0.1.0
 microcontax: '1.2'
@@ -15737,7 +15740,7 @@ plan: 0.4-3
 planar: '1.6'
 planets: 0.1.0
 planor: 1.5-3
-plantecophys: 1.4-4
+plantecophys: 1.4-6
 plantecowrap: 1.0.4
 plaqr: '2.0'
 plater: 1.0.3
@@ -18719,7 +18722,7 @@ spatstat.linnet: 2.1-1
 spatstat.local: 4.1-0
 spatstat.sparse: 2.0-0
 spatstat.utils: 2.1-0
-spatsurv: '1.5'
+spatsurv: '1.6'
 spbabel: 0.5.5
 spc: 0.6.5
 spc4sts: 0.5.2
@@ -19654,7 +19657,7 @@ tidytuesdayR: 1.0.1
 tidyverse: 1.3.0
 tidyvpc: 1.1.0
 tidyxl: 1.0.7
-tiff: 0.1-7
+tiff: 0.1-8
 tiger: 0.2.3.1
 tigerhitteR: 1.1.0
 tigerstats: 0.3.2
@@ -20350,7 +20353,7 @@ vmr: 0.0.3
 vmsbase: 2.2.1
 vmv: '1.0'
 vocaldia: 0.8.3
-volcano3D: 1.1.0
+volcano3D: 1.2.0
 volesti: 1.1.2
 volleystat: 0.2.0
 voronoi: '1.1'
