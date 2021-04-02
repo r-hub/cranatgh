@@ -1607,7 +1607,7 @@ EMVC: '0.3'
 EMVS: '1.1'
 EMbC: 2.0.3
 ENA: 1.3-0
-ENMTools: '1.0'
+ENMTools: 1.0.3
 ENMeval: 0.3.1
 ENiRG: '1.0'
 ENmisc: 1.2-7
@@ -2476,6 +2476,7 @@ HighDimOut: 1.0.0
 HighProbability: '1.0'
 HighestMedianRules: '1.0'
 HistDAWass: 1.0.4
+HistDat: 0.1.0
 HistData: 0.8-7
 HistogramTools: 0.3.2
 HiveR: 0.3.63
@@ -4476,6 +4477,7 @@ RCBR: 0.5.9
 RCEIM: '0.3'
 RCGLS: 1.0.3
 RCMIP5: 1.2.0
+RCMinification: '1.0'
 RCPmod: '2.190'
 RCRnorm: 0.0.2
 RCSF: 1.0.2
@@ -4876,7 +4878,7 @@ RWmisc: 0.1.0
 RWsearch: 4.8.0
 RXKCD: 1.9.2
 RXMCDA: 1.5.5
-RXshrink: '1.7'
+RXshrink: '2.0'
 RYandexTranslate: '1.0'
 RYoudaoTranslate: '1.0'
 RZabbix: 0.1.0
@@ -5153,6 +5155,7 @@ ResourceSelection: 0.3-5
 RespirAnalyzer: 1.0.1
 RestRserve: 0.4.1
 RevEcoR: 0.99.3
+ReviewR: 2.3.6
 Rexperigen: 0.2.1
 RfEmpImp: 2.1.5
 Rfacebook: 0.6.15
@@ -5162,6 +5165,7 @@ Rfit: 0.24.2
 RfmriVC: '1.0'
 Rfmtool: 4.1.0
 Rfolding: '1.0'
+Rforestry: 0.9.0.4
 Rfractran: '1.0'
 Rfssa: 1.0.0
 Rfun: '1.0'
@@ -6020,7 +6024,7 @@ SyncRNG: 1.3.0
 SynchWave: 1.1.1
 SynergizeR: '0.2'
 Synth: 1.1-5
-SynthETIC: 0.1.0
+SynthETIC: 1.0.0
 SynthTools: 1.0.1
 SystemicR: 0.1.0
 T2EQ: '1.1'
@@ -7270,7 +7274,7 @@ bayesdfa: 0.1.6
 bayesdistreg: 0.1.0
 bayesefa: 0.0.0.4
 bayesforecast: 0.0.1
-bayesian: 0.0.2
+bayesian: 0.0.3
 bayesianETAS: 1.0.3
 bayeslincom: 1.1.0
 bayeslm: 0.8.0
@@ -8172,6 +8176,7 @@ chunkhooks: 0.0.1
 ciTools: 0.6.1
 ciccr: 0.2.0
 cicerone: 1.0.4
+cif: 0.0.9
 cifti: 0.4.5
 ciftiTools: 0.2.2
 cimir: 0.4-1
@@ -8790,7 +8795,7 @@ cropdatape: 1.0.0
 crossReg: '1.0'
 crossdes: 1.1-1
 crosshybDetector: '1.0'
-crossmap: 0.2.0
+crossmap: 0.3.0
 crossmatch: 1.3-1
 crossrun: 0.1.0
 crosstable: 0.2.1
@@ -10919,7 +10924,7 @@ gapfill: 0.9.6-1
 gapmap: 0.0.4
 gapminder: 0.3.0
 garchx: '1.2'
-gargle: 1.0.0
+gargle: 1.1.0
 gargoyle: 0.0.1
 garma: 0.9.7
 garray: 1.1.2
@@ -12338,7 +12343,7 @@ insee: 1.0.0
 insideRODE: '2.0'
 insight: 0.13.2
 insol: 1.2.2
-inspectdf: 0.0.10
+inspectdf: 0.0.11
 inspector: 1.0.2
 inspectr: 1.0.0
 instaR: 0.2.4
@@ -12566,7 +12571,7 @@ jeek: 1.1.1
 jenkins: '1.0'
 jetpack: 0.4.3
 jetset: 3.4.0
-jfa: 0.5.1
+jfa: 0.5.2
 jiebaR: '0.11'
 jiebaRD: '0.1'
 jipApprox: 0.1.3
@@ -13321,7 +13326,7 @@ lvmcomp: '1.2'
 lvmisc: 0.1.0
 lvnet: 0.3.5
 lvplot: 0.2.0
-lwgeom: 0.2-5
+lwgeom: 0.2-6
 lwqs: 0.5.0
 lxb: '1.5'
 lymphclon: 1.3.0
@@ -13497,7 +13502,7 @@ matman: 1.1.2
 matpow: 0.1.1
 matricks: 0.8.2
 matrixLaplacian: '1.0'
-matrixNormal: 0.0.4
+matrixNormal: 0.0.5
 matrixProfile: 0.5.0
 matrixStats: 0.58.0
 matrixStrucTest: 1.0.0
@@ -13592,7 +13597,7 @@ mcr: 1.2.1
 mcreplicate: 0.1.1
 mcsm: '1.0'
 mctest: 1.3.1
-mcunit: 0.3.1
+mcunit: 0.3.2
 mcvis: 1.0.6
 mcwr: 1.0.0
 md: 1.0.4
@@ -16076,7 +16081,7 @@ prevR: 3.4.1
 prevalence: 0.4.0
 prevederer: 0.0.1
 prevtoinc: 0.12.0
-prewas: 1.1.0
+prewas: 1.1.1
 priceR: 0.1.5
 pricesensitivitymeter: 1.2.1
 prim: 1.0.20
@@ -18324,7 +18329,7 @@ simecol: 0.8-13
 simest: '0.4'
 simex: '1.8'
 simexaft: 1.0.7.1
-simfinR: 0.2.2
+simfinR: 0.2.3
 simfinapi: 0.1.0
 simglm: 0.8.0
 simgof: 1.0.2
@@ -19342,7 +19347,7 @@ synlik: 0.1.2
 synoptReg: 1.1.0
 syntaxr: 0.8.0
 synthACS: 1.6.0
-synthesis: 1.2.0
+synthesis: 1.2.1
 synthesisr: 0.3.0
 synthpop: 1.6-0
 sys: '3.4'
@@ -19653,7 +19658,7 @@ tidystats: '0.5'
 tidystopwords: 0.9.0
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
-tidytable: 0.5.9
+tidytable: 0.6.0
 tidytext: 0.3.0
 tidytidbits: 0.2.3
 tidytransit: 0.7.3
