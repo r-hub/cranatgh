@@ -1228,7 +1228,7 @@ DEPONS2R: 1.0.0
 DES: 1.0.0
 DESP: '0.2'
 DESnowball: '1.0'
-DET: 2.0.2
+DET: 3.0.0
 DEVis: 1.0.1
 DEoptim: 2.2-5
 DEoptimR: 1.0-8
@@ -1631,7 +1631,7 @@ ETAS: 0.4.7
 ETC: '1.3'
 ETLUtils: '1.5'
 EVER: '1.2'
-EValue: 4.1.1
+EValue: 4.1.2
 EW: '1.1'
 EWGoF: 2.2.2
 EWOC2: '1.0'
@@ -2842,7 +2842,7 @@ LAM: 0.5-15
 LANDD: 1.1.0
 LARF: '1.4'
 LARisk: 0.1.0
-LAWBL: 1.3.0
+LAWBL: 1.4.0
 LBLGXE: '1.4'
 LBSPR: 0.1.5
 LCA: 0.1.1
@@ -3959,7 +3959,7 @@ PCRedux: '1.1'
 PCS: '1.2'
 PCSinR: 0.1.0
 PCovR: 2.7.1
-PDE: 1.1.2
+PDE: 1.2.1
 PDFEstimator: '2.2'
 PDM: '0.1'
 PDN: 0.1.0
@@ -4080,7 +4080,7 @@ PSSMCOOL: 0.2.1
 PST: '0.94'
 PSTR: 1.2.4
 PSW: 1.1-3
-PSweight: 1.1.3
+PSweight: 1.1.4
 PTAk: 1.3-34
 PTE: '1.7'
 PTXQC: 1.0.9
@@ -4991,7 +4991,7 @@ RcmdrPlugin.SurvivalT: 1.0-7
 RcmdrPlugin.TeachStat: 1.1.0
 RcmdrPlugin.TeachingDemos: 1.2-0
 RcmdrPlugin.TextMining: 0.1-0
-RcmdrPlugin.UCA: 4.3-4
+RcmdrPlugin.UCA: 4.4-2
 RcmdrPlugin.WorldFlora: '1.1'
 RcmdrPlugin.aRnova: 0.0.5
 RcmdrPlugin.coin: 1.0-22
@@ -7166,7 +7166,7 @@ babynames: 1.0.0
 bacistool: 1.0.0
 backShift: 0.1.4.3
 backblazer: 0.1.0
-backbone: 1.3.1
+backbone: 1.4.0
 backfitRichards: 0.5.0
 backpipe: 0.2.3
 backports: 1.2.1
@@ -7687,7 +7687,7 @@ boot: 1.3-27
 boot.heterogeneity: 1.1.2
 bootComb: 1.0.1
 bootES: '1.2'
-bootImpute: 1.1.0
+bootImpute: 1.2.0
 bootLR: 1.0.2
 bootRes: '1.2'
 bootSVD: '1.1'
@@ -8367,7 +8367,7 @@ cobiclust: 0.1.0
 cobs: 1.3-4
 cobs99: 0.9-9
 coca: 1.1.0
-cocktailApp: 0.2.1
+cocktailApp: 0.2.2
 cocor: 1.1-3
 cocoreg: 0.1.1
 cocorresp: 0.4-1
@@ -9136,7 +9136,7 @@ deepMOU: 0.1.1
 deepNN: '1.0'
 deepboost: 0.1.6
 deepdep: 0.2.2
-deepdive: 1.0.1
+deepdive: 1.0.2
 deepgmm: 0.1.62
 deepgp: 0.2.0
 deeplearning: 0.1.0
@@ -9412,7 +9412,7 @@ diveRsity: 1.9.90
 diverge: 1.0.4
 diverse: 0.1.5
 diversitree: 0.9-15
-diversityForest: 0.2.0
+diversityForest: 0.3.0
 divest: 0.10.0
 divisors: 0.1-4
 divo: 1.0.1
@@ -9718,7 +9718,7 @@ ebmstate: 0.1.2
 ebreg: 0.1.2
 ec50estimator: 0.1.0
 ecap: 0.1.2
-ecb: '0.2'
+ecb: 0.4.0
 ecce: 1.0.7
 ecd: 0.9.1
 ecdfHT: 0.1.1
@@ -11329,7 +11329,7 @@ ggvis: 0.4.7
 ggvoronoi: 0.8.4
 ggwordcloud: 0.5.0
 ggx: 0.1.1
-gh: 1.2.0
+gh: 1.2.1
 ghcm: 1.0.0
 ghee: 0.1.0
 ghibli: 0.3.2
@@ -13426,6 +13426,7 @@ mapfit: 0.9.7
 mapfuser: 0.1.2
 mapi: 1.0.1
 mapmisc: 1.8.0
+mapping: '1.0'
 mapplots: 1.5.1
 mappoly: 0.2.1
 mapproj: 1.2.7
@@ -13468,7 +13469,7 @@ markophylo: 1.0.8
 markovchain: 0.8.5-4
 marl: '1.0'
 marmap: 1.0.5
-marqLevAlg: 2.0.4
+marqLevAlg: 2.0.5
 mase: 0.1.2
 mashr: 0.2.38
 mason: 0.3.0
@@ -13816,7 +13817,7 @@ micompr: 1.1.0
 microPop: '1.5'
 microbats: 0.1-1
 microbenchmark: 1.4-7
-microbial: 0.0.18
+microbial: 0.0.19
 microclass: '1.2'
 microclustr: 0.1.0
 microcontax: '1.2'
@@ -14071,6 +14072,7 @@ mobr: 2.0.2
 mobsim: 0.2.0
 moc: '2.0'
 moc.gapbk: 0.1.0
+mockcpp: 0.0.1
 mockery: 0.4.2
 mockr: '0.1'
 mockthat: 0.2.4
@@ -14224,7 +14226,7 @@ mrMLM: 4.0.2
 mrMLM.GUI: 4.0.2
 mra: 2.16.11
 mratios: 1.4.2
-mrbayes: 0.2.0
+mrbayes: 0.3.0
 mrbin: 1.5.0
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
@@ -14317,7 +14319,7 @@ mudens: 1.3.2
 mudfold: 1.1.2
 mueRelativeRisk: 0.1.1
 mugnet: 1.02.0
-muhaz: 1.2.6.2
+muhaz: 1.2.6.3
 muir: 0.1.0
 mully: 2.1.31
 mulset: 1.0.0
@@ -16757,7 +16759,7 @@ rbi.helpers: 0.3.2
 rbibutils: '2.0'
 rbin: 0.2.0
 rbiom: 1.0.2
-rbiorxiv: 0.2.0
+rbiorxiv: 0.2.1
 rbiouml: '1.10'
 rbison: 1.0.0
 rbit: 1.0.0
@@ -17002,6 +17004,7 @@ relaxnet: 0.3-2
 relaxo: 0.1-2
 reldist: 1.6-6
 relen: 1.0.1
+relevance: '1.1'
 relevent: 1.0-4
 relgam: '1.0'
 reliaR: '0.01'
@@ -17018,7 +17021,7 @@ remindR: 0.0.1
 remix: '2.1'
 remote: 1.2.1
 remoter: 0.4-0
-remotes: 2.2.0
+remotes: 2.3.0
 remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
@@ -17284,7 +17287,7 @@ rmargint: 2.0.2
 rmarkdown: '2.7'
 rmatio: 0.14.0
 rmcfs: 1.3.1
-rmcorr: 0.4.2
+rmcorr: 0.4.3
 rmd: 0.1.5
 rmdHelpers: '1.2'
 rmda: '1.6'
@@ -17765,7 +17768,7 @@ salesforcer: 0.2.2
 salso: 0.2.20
 salty: 0.1.0
 sambia: 0.1.0
-samc: 1.2.1
+samc: 1.3.0
 samon: 4.0.1
 sampSurf: 0.7-6
 sampfling: 0.6-3
@@ -18465,7 +18468,7 @@ smartsnp: 1.1.0
 smatr: 3.4-8
 smbinning: '0.9'
 smcUtils: '0.2'
-smcfcs: 1.4.2
+smcfcs: 1.5.0
 smco: '0.1'
 smcure: '2.0'
 smd: 0.6.6
@@ -19936,7 +19939,7 @@ trustedtimestamping: 0.2.6
 truthiness: 1.2.4
 tryCatchLog: 1.2.1
 ts.extend: 0.1.1
-tsBSS: 0.5.6
+tsBSS: 0.5.7
 tsDyn: 10-1.2
 tsModel: '0.6'
 tsPI: 1.0.3
