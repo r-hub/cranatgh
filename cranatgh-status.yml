@@ -335,7 +335,7 @@ BENMMI: 4.3-7
 BEQI2: 2.0-0
 BEST: 0.5.2
 BESTree: 0.5.2
-BET: 0.3.4
+BET: 0.3.5
 BETS: 0.4.9
 BFS: 0.3.0
 BFpack: 0.3.2
@@ -1228,7 +1228,7 @@ DEPONS2R: 1.0.0
 DES: 1.0.0
 DESP: '0.2'
 DESnowball: '1.0'
-DET: 3.0.0
+DET: 3.0.1
 DEVis: 1.0.1
 DEoptim: 2.2-5
 DEoptimR: 1.0-8
@@ -2462,7 +2462,7 @@ HextractoR: '1.4'
 HiCblock: '1.5'
 HiCfeat: '1.4'
 HiCglmi: '1.4'
-HiClimR: 2.1.8
+HiClimR: 2.1.9
 HiCseg: '1.1'
 HiDimDA: 0.2-4
 HiDimMaxStable: '0.1'
@@ -4847,7 +4847,7 @@ RTextTools: 1.4.3
 RTextureMetrics: '1.1'
 RTisean: 3.0.9
 RTransProb: 0.3.3
-RTransferEntropy: 0.2.13
+RTransferEntropy: 0.2.14
 RTriangle: 1.6-0.10
 RUVIIIC: 1.0.17
 RUnit: 0.4.32
@@ -4993,7 +4993,7 @@ RcmdrPlugin.SurvivalT: 1.0-7
 RcmdrPlugin.TeachStat: 1.1.0
 RcmdrPlugin.TeachingDemos: 1.2-0
 RcmdrPlugin.TextMining: 0.1-0
-RcmdrPlugin.UCA: 4.4-2
+RcmdrPlugin.UCA: 4.4-3
 RcmdrPlugin.WorldFlora: '1.1'
 RcmdrPlugin.aRnova: 0.0.5
 RcmdrPlugin.coin: 1.0-22
@@ -7765,7 +7765,7 @@ bride: '1.3'
 bridgedist: 0.1.0
 bridger2: 0.1.0
 bridgesampling: 1.0-0
-brinton: 0.2.4
+brinton: 0.2.5
 brio: 1.1.1
 briqr: 0.1.0
 briskaR: 1.0.2
@@ -7866,6 +7866,7 @@ ca: 0.71.1
 caGUI: 0.1-4
 caMST: 0.1.3
 caMassClass: '1.9'
+caROC: 0.1.5
 caRamel: '1.2'
 caRecall: 0.1.0
 caRpools: '0.83'
@@ -8182,7 +8183,7 @@ ciftiTools: 0.2.2
 cimir: 0.4-1
 cimis: 0.1-7
 cin: '0.1'
-cinaR: 0.2.0
+cinaR: 0.2.1
 cinaRgenesets: 0.1.1
 cinterpolate: 1.0.0
 cir: 2.1.1
@@ -9353,7 +9354,7 @@ disclapmix: 1.7.3
 discnorm: 0.1.0
 disco: '0.6'
 discord: 1.0.0
-discourseGT: 1.1.4
+discourseGT: 1.1.5
 discoveR: 2.2.2
 discoverableresearch: 0.0.1
 discreteMTP: 0.1-2
@@ -9418,7 +9419,7 @@ diverge: 1.0.4
 diverse: 0.1.5
 diversitree: 0.9-15
 diversityForest: 0.3.0
-divest: 0.10.0
+divest: 0.10.1
 divisors: 0.1-4
 divo: 1.0.1
 dixon: 0.0-7
@@ -9788,7 +9789,7 @@ edgeRun: 1.0.9
 edgebundleR: 0.1.4
 edgedata: 0.2.0
 edina: 0.1.1
-editData: 0.1.2
+editData: 0.1.8
 editrules: 2.9.3
 edmcr: '0.1'
 edmdata: 1.1.0
@@ -11093,7 +11094,7 @@ geodaData: 0.1.0
 geodetector: 1.0-4
 geodimension: 1.0.0
 geodist: 0.0.7
-geodiv: 1.0.0
+geodiv: 1.0.1
 geodrawr: 2.0.0
 geoelectrics: 0.2.0
 geofabrik: 0.1.0
@@ -11118,7 +11119,7 @@ geometr: 0.2.8
 geometries: 0.2.0
 geometry: 0.4.5
 geomnet: 0.3.1
-geomorph: 3.3.2
+geomorph: 4.0.0
 geomultistar: 1.1.0
 geonames: '0.999'
 geonapi: '0.4'
@@ -11497,7 +11498,7 @@ gontr: 1.1.0
 gooJSON: '1.0'
 goodpractice: 1.0.2
 googleAnalyticsR: 0.8.0
-googleAuthR: 1.3.1
+googleAuthR: 1.4.0
 googleCloudRunner: 0.4.1
 googleCloudStorageR: 0.6.0
 googleCloudVisionR: 0.2.0
@@ -12002,7 +12003,7 @@ httk: 2.0.3
 httpRequest: 0.0.10
 httpcache: 1.2.0
 httpcode: 0.3.0
-httpgd: 1.1.0
+httpgd: 1.1.1
 httping: 0.2.0
 httpproblems: 1.0.0
 httptest: 4.0.0
@@ -12606,6 +12607,7 @@ jomo: 2.7-2
 josaplay: 0.1.3
 jose: '1.0'
 journalabbr: 0.2.2
+joyn: 0.0.1
 jpeg: 0.1-8.1
 jpmesh: 2.0.1
 jpndistrict: 0.3.9
@@ -12989,7 +12991,7 @@ learnstats: 0.1.1
 leastcostpath: 1.8.0
 ledger: 2.0.7
 leerSIECyL: 1.0.2
-lefko3: 3.3.2
+lefko3: 3.4.0
 lefse: '0.1'
 legco: 0.1.3
 legislatoR: '1.0'
@@ -13104,7 +13106,7 @@ listArray: 0.1.1
 listWithDefaults: 1.2.0
 listarrays: 0.3.1
 listcomp: 0.3.0
-listcompr: 0.1.0
+listcompr: 0.2.0
 listdown: 0.4.1
 listdtr: '1.1'
 listenv: 0.8.0
@@ -13801,7 +13803,7 @@ miRNAss: '1.5'
 miRada: 1.13.8-8
 miRecSurv: 1.0.1
 miRtest: '1.8'
-miWQS: 0.4.2
+miWQS: 0.4.4
 micEcdat: 0.1-1
 micEcon: 0.6-16
 micEconAids: 0.6-18
@@ -14644,7 +14646,7 @@ ngspatial: 1.2-2
 ngstk: 0.2.3
 nhanesA: 0.6.5.3
 nhdR: 0.5.4
-nhdplusTools: 0.3.16
+nhdplusTools: 0.4.0
 nhds: 1.0.3
 nhlapi: 0.1.4
 nhlscrape: 0.1.3
@@ -14952,7 +14954,7 @@ oem: 2.0.10
 oenb: 0.0.2
 ofGEM: '1.0'
 officedown: 0.2.1
-officer: 0.3.17
+officer: 0.3.18
 offlineChange: 0.0.4
 ofp: 1.0.0
 ofw: 1.0-0
@@ -16110,7 +16112,7 @@ probFDA: 1.0.1
 probably: 0.0.6
 probemapper: 1.0.0
 probemod: 0.2.1
-probhat: 0.3.1
+probhat: 0.4.0
 probout: 1.1.1
 probsvm: '1.00'
 proccalibrad: '0.14'
@@ -16939,7 +16941,7 @@ recosystem: 0.4.4
 recurse: 1.1.2
 red: 1.5.0
 redR: 1.0.1
-reda: 0.5.2
+reda: 0.5.3
 redcapAPI: '2.3'
 reddPrec: 0.4.0
 redist: 2.0.2
@@ -17058,7 +17060,7 @@ repra: '0.4'
 represent: '1.0'
 representr: 0.1.1
 represtools: 0.1.3
-reprex: 1.0.0
+reprex: 2.0.0
 reproducer: 0.4.2
 reproducible: 1.2.6
 reproj: 0.4.2
@@ -17787,7 +17789,7 @@ sampling: '2.9'
 samplingDataCRT: '1.0'
 samplingEstimates: 0.1-3
 samplingVarEst: '1.4'
-samplingbook: 1.2.2
+samplingbook: 1.2.4
 samr: '3.0'
 sams: 0.4.0
 samurais: 0.1.0
@@ -17817,6 +17819,7 @@ sarsop: 0.6.8
 sas7bdat: '0.5'
 sasLM: 0.5.1
 sasMap: 1.0.0
+sasfunclust: 1.0.0
 sass: 0.3.1
 sassy: 1.0.4
 sate: 1.1.0
@@ -18606,6 +18609,7 @@ soundgen: 2.0.0
 source.gist: 1.0.0
 sourceR: 1.1.0
 sourcetools: 0.1.7
+sovereign: 1.0.0
 sp: 1.4-5
 sp23design: '0.9'
 sp500SlidingWindow: 0.1.0
