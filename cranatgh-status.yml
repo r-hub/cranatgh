@@ -2306,7 +2306,7 @@ GlobalDeviance: '0.4'
 GlobalFit: '1.2'
 GlobalOptions: 0.1.2
 GmAMisc: 1.2.0
-Gmedian: 1.2.5
+Gmedian: 1.2.6
 Gmisc: 2.0.1
 GoFKernel: 2.1-1
 GofKmt: 2.2.0
@@ -4210,7 +4210,7 @@ PlotRegionHighlighter: '1.0'
 PoA: 1.2.1
 PoMoS: '1.1'
 PoSI: '1.1'
-PogromcyDanych: '1.5'
+PogromcyDanych: '1.7'
 PoiClaClu: 1.0.2.1
 PointFore: 0.2.0
 PoisBinNonNor: 1.3.3
@@ -4628,7 +4628,7 @@ RLastFM: 0.1-5
 RLeafAngle: '1.0'
 RLogicalOps: '0.1'
 RLumCarlo: 0.1.7
-RLumModel: 0.2.7
+RLumModel: 0.2.8
 RLumShiny: 0.2.2
 RM.weights: '2.0'
 RM2: '0.0'
@@ -5761,7 +5761,7 @@ SimComp: '3.3'
 SimCop: 0.7.0
 SimCorMultRes: 1.7.0
 SimCorrMix: 0.1.1
-SimDesign: '2.2'
+SimDesign: '2.3'
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.1
 SimHap: 1.2.0
@@ -6510,7 +6510,7 @@ WeightedPortTest: '1.0'
 WeightedROC: 2020.1.31
 WgtEff: 0.1.2
 WhatIf: 1.5-10
-WhiteStripe: 2.3.2
+WhiteStripe: 2.4.0
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
@@ -6941,7 +6941,7 @@ apt: '3.0'
 aptg: 0.1.1
 apyramid: 0.1.2
 aqfig: '0.8'
-aqp: '1.27'
+aqp: '1.29'
 aqr: '0.4'
 ar.matrix: 0.1.0
 arabic2kansuji: 0.1.1
@@ -7434,7 +7434,7 @@ bgmm: 1.8.4
 bgsmtr: '0.7'
 bgumbel: 0.0.3
 bhm: '1.16'
-bhmbasket: 0.9.1
+bhmbasket: 0.9.2
 bhpm: '1.7'
 bhrcr: 1.0.3
 biClassify: '1.0'
@@ -7643,7 +7643,7 @@ blockmatrix: '1.0'
 blockmodeling: 1.0.0
 blockmodels: 1.1.4
 blockrand: '1.5'
-blocksdesign: '4.8'
+blocksdesign: '4.9'
 blockseg: 0.5.2
 blogdown: '1.2'
 blorr: 0.3.0
@@ -14633,7 +14633,7 @@ networktree: 1.0.1
 neuRosim: 0.2-12
 neural: 1.4.2.2
 neuralnet: 1.44.2
-neurobase: 1.32.0
+neurobase: 1.32.1
 neuroblastoma: '1.0'
 neurocInstall: 0.12.0
 neurohcp: 0.9.0
@@ -14840,7 +14840,7 @@ npbr: '1.6'
 npcopTest: '1.03'
 npcp: 0.2-2
 npcure: 0.1-5
-npde: '3.0'
+npde: '3.1'
 nph: '2.0'
 nplplot: '4.5'
 nplr: 0.1-7
@@ -15545,7 +15545,7 @@ perfectphyloR: 0.2.1
 performance: 0.7.0
 performanceEstimation: 1.1.0
 pergola: '1.0'
-periscope: 0.6.2
+periscope: 0.6.3
 perm: 1.0-0.0
 permDep: 1.0.2
 permGPU: '0.15'
@@ -15835,7 +15835,7 @@ plspm.formula: '1.0'
 plspolychaos: 1.1-1
 plsr: 0.0.1
 pltesim: '1.0'
-plu: 0.2.0
+plu: 0.2.1
 plugdensity: 0.8-3
 plumber: 1.1.0
 plumberDeploy: 0.2.1
@@ -16587,7 +16587,7 @@ rMorningStar: 1.0.7
 rMouse: '0.1'
 rNMF: 0.5.0
 rNOMADS: 2.5.0
-rNeighborGWAS: 1.2.2
+rNeighborGWAS: 1.2.3
 rNeighborQTL: 1.1.1
 rODE: 0.99.6
 rPACI: 0.1.2
@@ -16916,7 +16916,7 @@ readrba: 0.1.1
 readroper: 0.9.3
 readsdmx: 0.3.0
 readsdr: 0.2.0
-readsparse: 0.1.1-2
+readsparse: 0.1.2
 readstata13: 0.9.2
 readtext: '0.80'
 readtextgrid: 0.1.1
@@ -19051,7 +19051,7 @@ stepR: 2.1-1
 stepp: 3.2.2
 steps: 1.2.1
 stepwise: '0.3'
-stevedata: 0.3.0
+stevedata: 0.3.1
 stevedore: 0.9.3
 stevetemplates: 0.4.0
 stfit: 0.99.8
@@ -19140,7 +19140,7 @@ striprtf: 0.5.2
 strm: 0.1.1
 strptimer: 0.1.0
 strucchange: 1.5-2
-strucchangeRcpp: 1.5-3-1.0.1
+strucchangeRcpp: 1.5-3-1.0.2
 structSSI: '1.1'
 structree: 1.1.7
 strum: '0.6'
@@ -19306,6 +19306,7 @@ svgtools: 1.0.1
 svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
+svplots: 0.1.0
 svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: 0.1-1
