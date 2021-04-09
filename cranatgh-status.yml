@@ -1242,7 +1242,7 @@ DGEobj: 1.0.1
 DGLMExtPois: 0.1.3
 DGM: 1.7.2
 DGVM3D: 1.0.0
-DHARMa: 0.4.0
+DHARMa: 0.4.1
 DHBins: '1.1'
 DHS.rates: 0.8.0
 DICOM: '0.1'
@@ -2029,7 +2029,7 @@ GADAG: 0.99.0
 GADGET: 0.2.0
 GADMTools: 3.8-1
 GAIPE: '1.0'
-GALLO: '1.1'
+GALLO: '1.2'
 GAMBoost: '1.2'
 GAMens: 1.2.1
 GANPA: '1.1'
@@ -2420,7 +2420,7 @@ HPbayes: '0.1'
 HRM: 1.2.1
 HRM.curve: 0.0.1
 HRQoL: '1.0'
-HRW: 1.0-3
+HRW: 1.0-4
 HS: '1.1'
 HSAR: 0.5.1
 HSAUR: 1.3-9
@@ -4068,7 +4068,7 @@ PROscorerTools: 0.0.1
 PROsetta: 0.2.1
 PRROC: 1.3.1
 PRSim: 1.3-1
-PReMiuM: 3.2.3
+PReMiuM: 3.2.5
 PResiduals: 1.0-0
 PSAboot: '1.1'
 PSAgraphics: 2.1.1
@@ -4081,7 +4081,7 @@ PSLM2015: 0.2.0
 PSM: '0.8'
 PSMix: 1.1.1
 PSPManalysis: 0.3.4
-PSS.Health: 0.1.5
+PSS.Health: 0.1.6
 PSSIM: 0.1.0
 PSSMCOOL: 0.2.1
 PST: '0.94'
@@ -5637,7 +5637,7 @@ STV: 1.0.2
 STraTUS: 1.1.2
 SUE: '1.0'
 SUMMER: 1.1.0
-SUNGEO: 0.2.1
+SUNGEO: 0.2.22
 SV: 1.3.5
 SVGMapping: '1.4'
 SVMMaj: 0.2.9
@@ -6104,7 +6104,7 @@ TPAM: '1.0'
 TPD: 1.1.0
 TPEA: 3.1.0
 TPES: 1.0.0
-TPLSr: 1.0.1
+TPLSr: 1.0.3
 TPMplt: 0.1.3
 TPmsm: 1.2.2
 TR8: 0.9.22
@@ -6387,6 +6387,7 @@ VDAP: 2.0.0
 VDCutil: '1.15'
 VDJgermlines: '0.1'
 VDSPCalibration: '1.0'
+VEwaning: '1.1'
 VFP: '1.3'
 VFS: 1.0.2
 VGAM: 1.1-5
@@ -6574,6 +6575,7 @@ ZIBseq: '1.2'
 ZIGP: '3.8'
 ZIM: 1.1.0
 ZIPFA: 0.8.1
+ZIprop: 0.1.0
 ZOIP: '0.1'
 ZRA: '0.2'
 ZVCV: 2.1.0
@@ -7732,7 +7734,7 @@ boxoffice: 1.3.0
 boxplotdbl: 1.3.0
 boxr: 0.3.6
 bp: 1.0.1
-bpDir: 0.1.1
+bpDir: 0.1.2
 bpa: 0.1.1
 bpbounds: 0.1.4
 bpca: 1.3-4
@@ -10013,7 +10015,7 @@ epitab: 0.2.2
 epitable: 0.1.2
 epitools: 0.5-10.1
 epitrix: 0.2.2
-epitweetr: 0.1.24
+epitweetr: 0.1.28
 eplusr: 0.14.1
 eply: 0.1.2
 epoc: 0.2.6-1.1
@@ -12621,6 +12623,7 @@ jointNmix: '1.0'
 jointPm: 2.3.1
 jointseg: 1.0.2
 jomo: 2.7-2
+jordan: 1.0-1
 josaplay: 0.1.3
 jose: '1.0'
 journalabbr: 0.2.2
@@ -12935,7 +12938,7 @@ lazyraster: 0.5.0
 lazyrmd: 0.2.0
 lazysf: 0.1.0
 lazysql: 0.1.3
-lazytrade: 0.4.5
+lazytrade: 0.5.1
 lba: 2.4.4
 lbfgs: 1.2.1
 lbfgsb3: 2015-2.13
@@ -14588,7 +14591,7 @@ neo2R: 2.1.0
 neo4jshell: 0.1.1
 neo4r: 0.1.1
 neonUtilities: 2.0.1
-neonstore: 0.4.0
+neonstore: 0.4.2
 neotoma: 1.7.4
 nephro: '1.2'
 neptune: 0.1.2
@@ -15331,7 +15334,7 @@ parallelize.dynamic: '0.9'
 parallelly: 1.24.0
 param6: 0.1.0
 paramGUI: 2.1.4
-parameters: 0.12.0
+parameters: 0.13.0
 paramhetero: 0.2.0
 paramlink: 1.1-2
 params: 0.7.3
@@ -15545,7 +15548,7 @@ pequod: 0.0-5
 perARMA: '1.6'
 perccal: '1.0'
 perccalc: 1.0.5
-percentiles: 0.2.1
+percentiles: 0.2.2
 perfectphyloR: 0.2.1
 performance: 0.7.0
 performanceEstimation: 1.1.0
@@ -15581,7 +15584,7 @@ pestr: 0.8.2
 petitr: '1.0'
 petrinetR: 0.2.1
 petro.One: 0.2.3
-pewdata: 0.3.1
+pewdata: 0.3.2
 pexm: 1.0.0
 pez: 1.2-2
 pfa: '1.1'
@@ -16088,7 +16091,7 @@ prereg: 0.5.0
 presens: 2.1.0
 presentes: 0.1.0
 preseqR: 4.0.0
-presize: 0.1.3
+presize: 0.2.3
 presmTP: 1.1.0
 press: '2.0'
 pressData: '2.0'
@@ -16539,6 +16542,7 @@ rCUR: '1.3'
 rCarto: '0.8'
 rChoiceDialogs: 1.0.6
 rClinicalCodes: 1.0.1
+rD3plot: 1.0.10
 rDEA: 1.2-6
 rDNA: '1.31'
 rDNAse: 1.1-1
@@ -16885,7 +16889,7 @@ rdrobust: 1.0.1
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
 rdtLite: '1.3'
-rdwd: 1.4.0
+rdwd: 1.5.0
 rdwplus: 0.1.0
 rdyncall: 0.7.5
 re2r: 0.2.0
@@ -17151,7 +17155,7 @@ rfbCNPJ: 0.1.1
 rfieldclimate: 0.1.0
 rfigshare: 0.3.7
 rfinterval: 1.0.0
-rfishbase: 3.1.6
+rfishbase: 3.1.7
 rfisheries: '0.2'
 rfishnet2: 0.2.0
 rflann: '1.3'
@@ -18089,7 +18093,7 @@ sensitivitymult: 1.0.2
 sensitivitymv: 1.4.3
 sensitivitymw: '1.1'
 sensmediation: 0.3.0
-sensobol: 1.0.0
+sensobol: 1.0.1
 sensors4plumes: '0.9'
 sensory: '1.1'
 senstrat: 1.0.3
@@ -20423,7 +20427,7 @@ vrtest: '0.97'
 vscc: '0.2'
 vsgoftest: 1.0-1
 vstsr: 1.0.0
-vtable: 1.2.7
+vtable: 1.3.1
 vtcl: 1.0-1
 vtreat: 1.6.2
 vtree: 5.1.9
