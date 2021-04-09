@@ -335,7 +335,7 @@ BENMMI: 4.3-7
 BEQI2: 2.0-0
 BEST: 0.5.2
 BESTree: 0.5.2
-BET: 0.3.5
+BET: 0.3.6
 BETS: 0.4.9
 BFS: 0.3.0
 BFpack: 0.3.2
@@ -757,7 +757,7 @@ CHCN: '1.5'
 CHFF: 0.1.0
 CHMM: 0.1.1
 CHNCapitalStock: 0.1.0
-CHNOSZ: 1.4.0
+CHNOSZ: 1.4.1
 CHOIRBM: 0.0.2
 CHsharp: '0.4'
 CIAAWconsensus: '1.3'
@@ -1058,7 +1058,7 @@ ComparisonCR: 1.0.4
 ComparisonSurv: 1.0.9
 CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
-Compind: '2.1'
+Compind: '2.2'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.2.0
 Compositional: '4.5'
@@ -1376,7 +1376,7 @@ DatabionicSwarm: 1.1.5
 Datasmith: 1.0-1
 DatastreamDSWS2R: 1.7.9
 Davies: 1.1-9
-DeCAFS: 3.1.5
+DeCAFS: 3.2.3
 DeLorean: 1.5.0
 DeRezende.Ferreira: 0.1.0
 DealGPL570: 0.2.0
@@ -1559,7 +1559,7 @@ EFAutilities: 2.1.1
 EFDR: '1.0'
 EFS: 1.0.3
 EGAnet: 0.9.8
-EGRET: 3.0.2
+EGRET: 3.0.5
 EGRETci: 2.0.3
 EHR: 0.3-1
 EHRtemporalVariability: 1.1.2.1
@@ -2551,7 +2551,7 @@ ICsurv: '1.0'
 ICtest: 0.3-4
 IDCard: 0.3.0
 IDE: 0.3.0
-IDF: 2.0.0
+IDF: 2.1.0
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '1.2'
@@ -2613,6 +2613,7 @@ IPtoCountry: 0.0.1
 IQCC: '0.7'
 IQMNMR: '1.0'
 IRATER: 0.0.1
+IRCcheck: 1.0.0
 IRISMustangMetrics: 2.4.4
 IRISSeismic: 1.6.2
 IROmiss: 1.0.2
@@ -2956,7 +2957,7 @@ LabRS: 0.1.0
 LabourMarketAreas: 3.2.5
 LadR: 1.0.6
 LagSequential: 0.1.1
-Lahman: 8.0-1
+Lahman: 9.0-0
 LakeMetabolizer: 1.5.0
 Lambda4: '3.0'
 LambertW: 0.6.6
@@ -3870,7 +3871,7 @@ OpenMPController: 0.2-5
 OpenMx: 2.19.1
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.0
-OpenSpecy: 0.8.2
+OpenSpecy: 0.9.0
 OpenStreetMap: 0.3.4
 Opportunistic: '1.2'
 Opt5PL: 0.1.1
@@ -4109,8 +4110,8 @@ PairwiseD: 0.9.62
 PakPC2017: 1.0.0
 PakPMICS2014Ch: 0.1.0
 PakPMICS2014HH: 0.1.0
-PakPMICS2014HL: 0.1.0
-PakPMICS2014Wm: 0.1.0
+PakPMICS2014HL: 0.1.1
+PakPMICS2014Wm: 0.1.1
 PakPMICS2018: 1.0.0
 PakPMICS2018bh: 0.1.0
 PakPMICS2018fs: 0.1.0
@@ -6010,6 +6011,7 @@ SurvBoost: 0.1.2
 SurvCorr: '1.0'
 SurvDisc: 0.1.1
 SurvGSD: 1.0.0
+SurvHiDim: 0.1.0
 SurvLong: '1.1'
 SurvMI: 0.1.0
 SurvRank: '0.1'
@@ -6209,6 +6211,7 @@ TempCont: 0.1.0
 TempleMetrics: 1.2.0
 Temporal: 0.2.0
 Tendril: 2.0.4
+TensorClustering: 1.0.1
 TensorTest2D: 1.0.0
 Ternary: 1.2.1
 TestCor: 0.0.2.2
@@ -6241,6 +6244,7 @@ TideCurves: 0.0.4
 TideHarmonics: 0.1-1
 TideTables: 0.0.3
 Tides: '2.1'
+TidyMultiqc: 0.1.0
 TileManager: 0.4.0
 TilePlot: '1.3'
 TimeMachine: '1.2'
@@ -6596,6 +6600,7 @@ aLFQ: 1.3.6
 aMNLFA: '0.1'
 aPCoA: '1.2'
 aRbs: 0.1.2
+aRchi: 1.0.3
 aRpsDCA: 1.1.1
 aRxiv: 0.5.19
 aSPC: 0.1.2
@@ -6985,7 +6990,7 @@ ari: 0.3.5
 ariExtra: 0.2.11
 aricode: 1.0.0
 arkdb: 0.0.12
-arkhe: 0.2.2
+arkhe: 0.3.0
 arm: 1.11-2
 armada: 0.1.0
 armspp: 0.0.2
@@ -7663,6 +7668,7 @@ bmd: '0.5'
 bmem: '1.8'
 bmeta: 0.1.2
 bmgarch: 1.0.0
+bmggum: 0.1.0
 bmixture: '1.6'
 bmk: '1.0'
 bmlm: 1.3.11
@@ -8110,7 +8116,7 @@ cgh: 1.0-7
 cghFLasso: 0.2-1
 cghRA: 1.6.0
 cghseg: 1.0.5
-cglasso: 2.0.3
+cglasso: 2.0.4
 cglm: '1.1'
 cgmanalysis: 2.7.1
 cgmquantify: 0.1.0
@@ -8653,7 +8659,7 @@ corrcoverage: 1.2.1
 correctedAUC: 0.0.3
 corregp: 2.0.2
 correlate: '1.0'
-correlation: 0.6.0
+correlation: 0.6.1
 correlationfunnel: 0.2.0
 correlbinom: 0.0.1
 corrgram: '1.13'
@@ -10163,7 +10169,7 @@ exactmeta: 1.0-2
 exampletestr: 1.6.2
 exams: 2.3-6
 exams.mylearn: '1.3'
-exams2sakai: '0.1'
+exams2sakai: '0.2'
 exceedProb: 0.0.1
 excel.link: 0.9.9
 excelR: 0.4.0
@@ -11836,7 +11842,7 @@ healthcareai: 2.5.0
 healthfinance: 0.1.0
 healthforum: 0.1.0
 healthyR: 0.1.2
-healthyR.data: 1.0.0
+healthyR.data: 1.0.1
 healthyR.ts: 0.1.1
 healthyverse: 1.0.0
 heatex: '1.0'
@@ -13893,7 +13899,7 @@ miniCRAN: 0.2.14
 miniGUI: 0.8-1
 miniMeta: '0.2'
 miniUI: 0.1.1.1
-minidown: 0.1.0
+minidown: 0.1.1
 minimalRSD: 1.0.0
 minimap: 0.1.0
 minimax: '1.0'
@@ -14707,7 +14713,7 @@ nlist: 0.3.1
 nlme: 3.1-122
 nlmeODE: '1.1'
 nlmeU: 0.70-3
-nlmixr: 1.1.1-9
+nlmixr: 2.0.3
 nlmm: 1.0.1
 nlmrt: 2016.3.2
 nlnet: '1.4'
@@ -15550,7 +15556,7 @@ perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
 perfectphyloR: 0.2.1
-performance: 0.7.0
+performance: 0.7.1
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 0.6.3
@@ -16474,7 +16480,7 @@ quarto: '0.1'
 quaternions: '0.2'
 queryparser: 0.3.1
 questionr: 0.7.4
-queuecomputer: 1.0.0
+queuecomputer: 1.1.0
 queueing: 0.2.12
 quhomology: 1.1.1
 quickPlot: 0.1.6
@@ -16598,7 +16604,7 @@ rMouse: '0.1'
 rNMF: 0.5.0
 rNOMADS: 2.5.0
 rNeighborGWAS: 1.2.3
-rNeighborQTL: 1.1.1
+rNeighborQTL: 1.1.2
 rODE: 0.99.6
 rPACI: 0.1.2
 rPAex: 1.0.1
@@ -17586,7 +17592,7 @@ rsbp: 0.1.0
 rscala: 3.2.19
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 0.8.16
+rsconnect: 0.8.17
 rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.18.0
@@ -18385,7 +18391,7 @@ simplecolors: 0.1.1
 simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simpleroptions: 0.2.0
-simplevis: 2.4.0
+simplevis: 2.6.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -18423,7 +18429,7 @@ sirt: 3.9-4
 sirus: 0.3.2
 sisVIVE: '1.4'
 sisal: '0.48'
-sisireg: 0.9.0
+sisireg: 0.9.1
 sismonr: 2.1.0
 sistec: 0.2.0
 sisus: 3.9-13
@@ -18900,7 +18906,7 @@ spsh: 1.1.0
 spsi: '0.1'
 spsmooth: 1.1-3
 spssDDI: '0.1'
-spsur: 1.0.1.6
+spsur: 1.0.1.7
 spsurv: 1.0.0
 spsurvey: 4.1.4
 spt: 2.5.1
@@ -20390,6 +20396,7 @@ visvow: 1.2.0
 vita: 1.0.0
 vitae: 0.4.2
 vitality: '1.3'
+vivid: 0.1.0
 vivo: 0.2.1
 vizdraws: '1.1'
 vkR: '0.2'
@@ -20628,7 +20635,7 @@ wordspace: 0.2-6
 workflowr: 1.6.2
 workflows: 0.2.2
 workflowsets: 0.0.1
-worldmet: 0.9.3
+worldmet: 0.9.4
 worms: 0.2.2
 worrms: 0.4.2
 wosr: 0.3.0
@@ -20779,7 +20786,7 @@ ykmeans: '1.0'
 yll: 1.0.0
 ymlthis: 0.1.4
 yonder: 0.2.0
-yorkr: 0.0.19
+yorkr: 0.0.20
 yotover: 0.3.5
 youtubecaption: 1.0.0
 ypr: 0.5.1
