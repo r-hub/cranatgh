@@ -1409,7 +1409,7 @@ DepLogo: '1.0'
 Depela: '0.0'
 DepthProc: 2.1.3
 Deriv: 4.1.3
-DescTools: 0.99.40
+DescTools: 0.99.41
 DescToolsAddIns: '1.9'
 DescrTab2: 2.0.7
 DescribeDisplay: 0.2.7
@@ -3423,6 +3423,7 @@ MeTo: 0.1.0
 MeanShift: 1.1-1
 MedDietCalc: 0.1.1
 MedDietScore: 0.1.0
+MedLEA: 1.0.1
 MedOr: '0.1'
 MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
@@ -3959,6 +3960,7 @@ PCFAM: '1.0'
 PCGSE: '0.4'
 PCICt: 0.5-4.1
 PCIT: 1.5-3
+PCL: '1.0'
 PCMBase: 1.2.11
 PCMBaseCpp: 0.1.9
 PCMRS: 0.1-2
@@ -4856,7 +4858,7 @@ RTisean: 3.0.9
 RTransProb: 0.3.3
 RTransferEntropy: 0.2.14
 RTriangle: 1.6-0.10
-RUVIIIC: 1.0.17
+RUVIIIC: 1.0.18
 RUnit: 0.4.32
 RVA: 0.0.4
 RVAideMemoire: 0.9-79
@@ -5355,7 +5357,7 @@ Rwofost: 0.6-3
 Rwordseg: 0.3-2
 Rwtss: 0.8.0
 RxCEcolInf: 0.1-4
-RxODE: 1.0.7
+RxODE: 1.0.8
 RxnSim: 1.0.3
 Rxnat: 1.0.14
 Ryacas: 1.1.3.1
@@ -5396,6 +5398,7 @@ SAVE: '1.0'
 SAVER: 1.1.2
 SAutomata: 0.1.0
 SBAGM: 0.1.0
+SBCK: 0.3.1
 SBICgraph: 1.0.0
 SBMSplitMerge: 1.1.1
 SBRect: '0.26'
@@ -6490,7 +6493,7 @@ WVPlots: 1.3.2
 WWGbook: 1.0.1
 WWR: 1.2.2
 WaMaSim: 1.0.0
-WaterML: 1.9.5
+WaterML: 1.9.8
 Watersheds: '1.1'
 Wats: 0.2-9
 WaveCD: '1.0'
@@ -7236,6 +7239,7 @@ base64: '2.0'
 base64enc: 0.1-3
 base64url: '1.4'
 baseballDBR: 0.1.2
+basecamb: 0.9.0
 baseflow: 0.13.2
 basefun: 1.1-0
 baseline: 1.3-1
@@ -7797,7 +7801,7 @@ brokenstick: 1.1.0
 brolgar: 0.1.0
 broman: 0.72-4
 broom: 0.7.6
-broom.helpers: 1.2.1
+broom.helpers: 1.3.0
 broom.mixed: 0.2.6
 broomExtra: 4.2.1
 brotli: '1.2'
@@ -7875,7 +7879,7 @@ c3net: 1.1.1
 cAIC4: '0.9'
 cIRT: 1.3.1
 cMonkey: 4.9.2
-cNORM: 2.0.2
+cNORM: 2.0.3
 cOde: 1.0.0
 cPCG: '1.0'
 cRegulome: 0.3.2
@@ -9363,7 +9367,7 @@ dirichlet: '1.0'
 dirichletprocess: 0.4.0
 dirmcmc: 1.3.3
 dirmult: 0.1.3-4
-disaggR: 0.1.11
+disaggR: 0.2.0.2
 disaggregation: 0.1.3
 disastr.api: 1.0.5
 discSurv: 1.4.1
@@ -9873,6 +9877,7 @@ eiwild: 0.6.7
 eixport: 0.5.0
 el.convex: '1.0'
 elaborator: '1.1'
+elasdics: 0.1.1
 elasso: '1.1'
 elastic: 1.2.0
 elasticIsing: '0.2'
@@ -10043,6 +10048,7 @@ eqtl: 1.1-7
 equSA: 1.2.1
 equalCovs: '1.0'
 equaltestMI: 0.6.1
+equatags: 0.1.0
 equate: 2.0.7
 equateIRT: 2.1.0
 equateMultiple: 0.1.0
@@ -10949,6 +10955,7 @@ gap.datasets: 0.0.4
 gapfill: 0.9.6-1
 gapmap: 0.0.4
 gapminder: 0.3.0
+garchmodels: 0.1.0
 garchx: '1.2'
 gargle: 1.1.0
 gargoyle: 0.0.1
@@ -12354,7 +12361,7 @@ infra: 0.1.2
 infraFDTD.assist: '0.6'
 infuser: '0.2'
 infutil: '1.0'
-ingredients: 2.0.1
+ingredients: 2.2.0
 ini: 0.3.1
 injectoR: 0.2.4
 inlabru: 2.3.1
@@ -13069,6 +13076,7 @@ librarysnapshot: 0.1.2
 libsoc: '0.7'
 libstableR: 1.0.2
 lidR: 3.1.2
+lidaRtRee: 3.0.2
 lifecontingencies: 1.3.7
 lifecourse: '2.0'
 lifecycle: 1.0.0
@@ -14773,7 +14781,7 @@ nnlib2Rcpp: 0.1.6
 nnls: '1.4'
 nnt: 0.1.4
 nntrf: 0.1.4
-noaaoceans: 0.2.0
+noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
 noctua: 2.0.1
@@ -20051,6 +20059,7 @@ tubern: 0.1.0
 tuckerR.mmgg: 1.5.1
 tufte: '0.9'
 tufterhandout: 1.2.1
+tukeyGH: 1.0.0
 tukeytrend: '0.7'
 tumblR: '1.2'
 tumgr: 0.0.4
@@ -20387,7 +20396,7 @@ visdat: 0.5.3
 visit: '2.1'
 visova: '1.1'
 visreg: 2.7.0
-vistime: 1.2.0
+vistime: 1.2.1
 vistributions: 0.1.1
 visualFields: '0.6'
 visualR: 2.0.2
