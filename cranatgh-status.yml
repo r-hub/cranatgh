@@ -1328,7 +1328,7 @@ DTAT: 0.3-4
 DTAXG: 0.1.0
 DTAplots: 1.0.2.4
 DTComPair: 1.0.3
-DTDA: 2.1-2
+DTDA: '3.0'
 DTDA.cif: 1.0.2
 DTDA.ni: '1.0'
 DTK: '3.5'
@@ -2008,7 +2008,7 @@ FusedPCA: '0.2'
 FusionLearn: 0.1.1
 Fuzzy.p.value: '1.1'
 FuzzyAHP: 0.9.5
-FuzzyLP: 0.1-5
+FuzzyLP: 0.1-6
 FuzzyMCDM: '1.1'
 FuzzyNumbers: 0.4-6
 FuzzyNumbers.Ext.2: '3.2'
@@ -2224,7 +2224,7 @@ GameTheoryAllocation: '1.0'
 GammaTest: '2.1'
 Gammareg: '3.0'
 GapAnalysis: 1.0.1
-GauPro: 0.2.3
+GauPro: 0.2.4
 GaussianHMM1d: 1.0.1
 GeDS: 0.1.3
 GeNetIt: 0.1-4
@@ -3872,7 +3872,7 @@ OpenMPController: 0.2-5
 OpenMx: 2.19.1
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.0
-OpenSpecy: 0.9.0
+OpenSpecy: 0.9.1
 OpenStreetMap: 0.3.4
 Opportunistic: '1.2'
 Opt5PL: 0.1.1
@@ -4508,7 +4508,7 @@ RCrypto: 0.1.0
 RCryptsy: '0.4'
 RCurl: 1.95-4.12
 RCytoGPS: 1.1.1
-RCzechia: 1.6.7
+RCzechia: 1.7.0
 RDF: '1.1'
 RDFTensor: '1.3'
 RDIDQ: '1.0'
@@ -4803,7 +4803,7 @@ RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.1.4
 RSQLServer: 0.3.0
-RSQLite: 2.2.5
+RSQLite: 2.2.6
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.3
 RSSOP: '1.1'
@@ -5066,7 +5066,7 @@ RcppMsgPack: 0.2.3
 RcppNLoptExample: 0.0.1
 RcppNumerical: 0.4-0
 RcppOctave: '0.9'
-RcppParallel: 5.0.3
+RcppParallel: 5.1.1
 RcppProgress: 0.4.2
 RcppQuantuccia: 0.0.3
 RcppRedis: 0.1.10
@@ -5242,7 +5242,7 @@ Rmixmod: 2.1.5
 RmixmodCombi: '1.0'
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
-Rmpfr: 0.8-3
+Rmpfr: 0.8-4
 Rmpi: 0.6-9.1
 Rmst: 0.0.3
 RnavGraph: 0.1.8
@@ -7275,7 +7275,7 @@ bayesDem: 2.5-1
 bayesGAM: 0.0.1
 bayesGARCH: 2.1.5
 bayesGDS: 0.6.2
-bayesImageS: 0.6-0
+bayesImageS: 0.6-1
 bayesLife: 5.0-1
 bayesLopod: 1.0.1
 bayesMCClust: '1.0'
@@ -7696,7 +7696,7 @@ bnstruct: 1.0.9
 bnviewer: 0.1.6
 boa: 1.1.8-2
 boclust: 0.1.2
-bodenmiller: '0.1'
+bodenmiller: 0.1.1
 boilerpipeR: '1.3'
 bold: 1.1.0
 bomWater: 0.4.1
@@ -9367,7 +9367,7 @@ dirichlet: '1.0'
 dirichletprocess: 0.4.0
 dirmcmc: 1.3.3
 dirmult: 0.1.3-4
-disaggR: 0.2.0.2
+disaggR: 0.2.0.3
 disaggregation: 0.1.3
 disastr.api: 1.0.5
 discSurv: 1.4.1
@@ -10593,7 +10593,7 @@ flexpolyline: 0.2.1
 flexrsurv: 1.4.5
 flexsurv: '2.0'
 flexsurvcure: 1.2.0
-flextable: 0.6.4
+flextable: 0.6.5
 flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
@@ -12212,7 +12212,7 @@ icsurvROC: 0.1.0
 icsw: 1.0.0
 idar: '1.2'
 idbg: '1.0'
-idbr: '0.3'
+idbr: '1.0'
 idealstan: 0.7.2
 ideamdb: 0.0.9
 idefix: 1.0.1
@@ -16745,7 +16745,7 @@ rapidoc: 8.4.3
 rapidraker: 0.1.0
 rapidxmlr: 0.1.0
 rappdirs: 0.3.3
-rapport: '1.0'
+rapport: '1.1'
 rapportools: '1.0'
 rappsflyer: 0.2.0
 rapsimng: 0.2.0
@@ -16791,7 +16791,7 @@ rawr: 0.1.1
 raws.profile: 0.1.0
 rayimage: 0.5.1
 rayrender: 0.21.2
-rayshader: 0.19.2
+rayshader: 0.24.5
 raytracing: 0.1.0
 rbace: 0.2.2
 rbacon: 2.5.3
@@ -17218,7 +17218,7 @@ rgrass7: 0.2-5
 rgrassdoc: 1.0.0
 rgrs: '0.3'
 rgsp: 0.2.0
-rgugik: 0.2.1
+rgugik: 0.3.0
 rgw: 0.3.0
 rhandsontable: 0.3.7
 rhcoclust: 1.1.0
@@ -20662,7 +20662,7 @@ wppExplorer: 2.3-4
 wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
-wrGraph: 1.2.2
+wrGraph: 1.2.3
 wrMisc: 1.5.4
 wrProteo: 1.4.0
 wrTopDownFrag: 1.0.2
