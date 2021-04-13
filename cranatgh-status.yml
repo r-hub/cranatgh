@@ -133,7 +133,7 @@ AUC: 0.3.0
 AUCRF: '1.1'
 AUtests: '0.99'
 AWAPer: 0.1.46
-AWR: 1.11.189
+AWR: 1.11.189-1
 AWR.Athena: 2.0.7-0
 AWR.KMS: '0.1'
 AWR.Kinesis: 1.7.3
@@ -239,6 +239,7 @@ AssetPricing: 1.0-1
 AssocAFC: 1.0.2
 AssocTests: 1.0-1
 AssotesteR: 0.1-10
+AsthmaNHANES: 1.1.0
 AsyK: 1.5.4
 AsynchLong: '2.1'
 AtelieR: '0.24'
@@ -975,7 +976,7 @@ CliftLRD: 0.1-1
 ClimClass: 2.1.0
 ClimDown: 1.0.2
 ClimInd: 0.1-3
-ClimMobTools: 0.3.7
+ClimMobTools: 0.3.9
 ClimProjDiags: 0.1.1
 ClinReport: 0.9.1.8
 ClinSigMeasures: '1.0'
@@ -2608,6 +2609,7 @@ IPPP: '1.1'
 IPSUR: '3.0'
 IPV: 0.1.1
 IPWboxplot: 0.1.0
+IPWpn: 0.1.0
 IPWsurvival: '0.5'
 IPtoCountry: 0.0.1
 IQCC: '0.7'
@@ -4656,7 +4658,7 @@ RMThreshold: '1.1'
 RMTstat: '0.3'
 RMaCzek: 1.3.5
 RMallow: '1.1'
-RMariaDB: 1.1.0
+RMariaDB: 1.1.1
 RMark: 2.2.7
 RMediation: 1.1.4
 RMendeley: 0.1-2
@@ -4899,7 +4901,7 @@ RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 2.0.0
 RaceID: 0.2.3
-RadData: 1.0.0
+RadData: 1.0.1
 RadOnc: 1.1.5
 RadTran: '1.0'
 RadialPlotter: '2.2'
@@ -5479,7 +5481,7 @@ SHIP: 1.0.2
 SHLR: '1.0'
 SHT: 0.1.3
 SI: 0.2.0
-SIBER: 2.1.5
+SIBER: 2.1.6
 SIBERG: 2.0.2
 SID: '1.0'
 SIDES: '1.15'
@@ -6794,7 +6796,7 @@ akiFlagger: 0.3.0
 akima: 0.6-2.1
 akmbiclust: 0.1.0
 akmeans: '1.1'
-akmedoids: 0.1.5
+akmedoids: 1.3.0
 alR: 2.2.2
 alabama: 2015.3-1
 alakazam: 1.1.0
@@ -8143,6 +8145,7 @@ charlson: '1.0'
 chartql: 0.1.0
 cheatR: 1.2.1
 cheatmap: 1.0.0
+cheatsheet: 0.1.0
 cheb: '0.3'
 chebpol: 2.1-2
 checkLuhn: 1.1.0
@@ -9047,7 +9050,7 @@ datamap: 0.1-1
 datamaps: 0.0.3
 datamart: 0.5.2
 datamerge: 1.0.3
-datamods: 1.1.2
+datamods: 1.1.3
 datanugget: 1.0.0
 dataonderivatives: 0.3.1
 dataone: 2.2.1
@@ -10480,7 +10483,7 @@ ffbase: 0.13.3
 fflr: 0.3.9
 ffmanova: 1.1.0
 ffmetadata: 1.0.0
-ffscrapr: 1.3.0
+ffscrapr: 1.4.0
 ffstream: 0.1.6
 fftw: 1.0-6
 fftwtools: 0.9-11
@@ -11300,7 +11303,7 @@ gglorenz: 0.0.2
 ggm: '2.5'
 ggmap: 3.0.0
 ggmcmc: 1.5.1.1
-ggmix: 0.0.1
+ggmix: 0.0.2
 ggmosaic: 0.3.3
 ggmr: 0.1.1
 ggmsa: 0.0.6
@@ -11391,7 +11394,7 @@ gimme: 0.7-5
 gimmeTools: '0.1'
 gimms: 1.1.3
 giphyr: 0.2.0
-giscoR: 0.2.2
+giscoR: 0.2.4
 gistr: 0.9.0
 git2r: 0.28.0
 git2rdata: 0.3.1
@@ -11460,6 +11463,7 @@ glmpathcr: 1.0.8
 glmpca: 0.2.0
 glmperm: 1.0-5
 glmtlp: '1.1'
+glmtoolbox: 0.1.0
 glmtree: '0.2'
 glmulti: 1.0.8
 glmvsd: '1.4'
@@ -11723,7 +11727,7 @@ gtWAS: 1.1.0
 gtable: 0.3.0
 gtcorr: 0.2-1
 gte: 1.2-2
-gtfs2gps: 1.4-0
+gtfs2gps: 1.4-1
 gtfsio: 0.1.0
 gtfsrouter: 0.0.4
 gtfstools: 0.1.0
@@ -11957,6 +11961,7 @@ hkclustering: 1.0.1
 hkdatasets: 0.0.3
 hkevp: 1.1.4
 hkex.api: '0.1'
+hlaR: 0.1.0
 hlidacr: 0.1.3
 hlr: 0.0-4
 hmclearn: 0.0.5
@@ -12012,7 +12017,7 @@ hrIPW: 0.1.3
 hrbrthemes: 0.8.0
 hrcomprisk: 0.1.1
 hrr: 1.1.1
-hscovar: 0.4.0
+hscovar: 0.4.2
 hsdar: 1.0.3
 hse: 0.0-26
 hsicCCA: '1.0'
@@ -12224,7 +12229,7 @@ identifyr: '0.1'
 identity: 0.2-1
 ideq: 0.1.4
 ider: 0.1.0
-idiogramFISH: 2.0.2
+idiogramFISH: 2.0.3
 idm: 1.8.2
 idmTPreg: '1.1'
 idmodelr: 0.3.2
@@ -12477,7 +12482,7 @@ ipcwswitch: 1.0.4
 ipdmeta: '2.4'
 ipdw: 0.2-9
 ipeaData: 0.0.2
-ipeadatar: 0.1.1
+ipeadatar: 0.1.2
 ipflasso: '1.1'
 ipfp: 1.0.1
 ipfr: 1.0.2
@@ -13089,7 +13094,7 @@ liftLRD: 1.0-8
 liftr: 0.9.2
 lifx: 0.2.0
 liger: 2.0.1
-lightgbm: 3.2.0
+lightgbm: 3.2.1
 lightr: '1.4'
 lightsout: '0.3'
 likeLTD: 6.3.0
@@ -14049,7 +14054,7 @@ mlr3: 0.11.0
 mlr3benchmark: 0.1.1
 mlr3cluster: 0.1.1
 mlr3data: 0.3.1
-mlr3db: 0.4.0
+mlr3db: 0.4.1
 mlr3filters: 0.4.1
 mlr3fselect: 0.5.1
 mlr3hyperband: 0.1.2
@@ -14524,7 +14529,7 @@ n1qn1: 6.0.1-10
 nCDunnett: 1.1.0
 nCal: 2020.9-10
 nCopula: 0.1.1
-nCov2019: 0.4.3
+nCov2019: 0.4.4
 nFCA: '0.3'
 nFDR: '0.0'
 nFactors: 2.4.1
@@ -15558,7 +15563,7 @@ pencopulaCond: '0.2'
 pendensity: 0.2.13
 pense: 2.0.2
 pensim: 1.3.2
-peopleanalyticsdata: 0.2.0
+peopleanalyticsdata: 0.2.1
 peperr: '1.3'
 peplib: 1.5.1
 peppm: 0.0.1
@@ -15726,7 +15731,7 @@ piecepackr: 1.7.1
 piecewiseSEM: 2.1.2
 pifpaf: 1.0.1
 piggyback: 0.0.11
-pillar: 1.5.1
+pillar: 1.6.0
 pim: 2.0.2
 pimeta: 1.1.3
 pinbasic: 1.2.2
