@@ -442,7 +442,7 @@ BWGS: 0.1.0
 BWStest: 0.2.2
 BaBooN: 0.2-0
 BaM: 1.0.2
-BaMORC: 1.0.1
+BaMORC: '1.0'
 BaPreStoPro: '0.1'
 BaSAR: '1.3'
 BaSTA: 1.9.4
@@ -709,7 +709,7 @@ CAinterprTools: 1.1.0
 CAscaling: '1.0'
 CAvariants: '5.6'
 CB2: 1.3.4
-CBCgrps: 2.8.1
+CBCgrps: 2.8.2
 CBDA: 1.0.0
 CBPS: '0.22'
 CBSr: 1.0.5
@@ -1371,7 +1371,7 @@ DataPackageR: 0.15.8
 DataSpaceR: 0.7.4
 DataVisualizations: 1.2.2
 DataViz: 0.2.8
-DatabaseConnector: 4.0.0
+DatabaseConnector: 4.0.2
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.1.5
 Datasmith: 1.0-1
@@ -2348,7 +2348,7 @@ Guerry: 1.7.0
 GuessCompx: 1.0.3
 GxEScanR: 2.0.2
 GxM: '1.1'
-H2x2Factorial: 1.0.3
+H2x2Factorial: 1.1.0
 HAC: 1.0-8
 HACSim: 1.0.5
 HAP.ROR: '1.0'
@@ -2845,6 +2845,7 @@ L0Learn: 2.0.3
 L1mstate: '1.0'
 L1pack: 0.38.196
 L2DensityGoFtest: 0.1.0
+LA: 0.1.0
 LAGOSNE: 2.0.2
 LAM: 0.5-15
 LANDD: 1.1.0
@@ -4356,6 +4357,7 @@ QLSpline: 1.0-1
 QLearning: 0.1.1
 QNB: 1.1.9
 QPBoot: '0.2'
+QPmin: 0.5-1
 QPot: '1.5'
 QQperm: 1.0.1
 QRAGadget: 0.1.0
@@ -5068,7 +5070,7 @@ RcppMsgPack: 0.2.3
 RcppNLoptExample: 0.0.1
 RcppNumerical: 0.4-0
 RcppOctave: '0.9'
-RcppParallel: 5.1.1
+RcppParallel: 5.1.2
 RcppProgress: 0.4.2
 RcppQuantuccia: 0.0.3
 RcppRedis: 0.1.10
@@ -5130,6 +5132,7 @@ Redmonder: 0.2.0
 RefFreeEWAS: '2.2'
 RefManageR: 1.3.0
 RegClust: '1.0'
+RegKink: 0.1.0
 RegSDC: 0.5.0
 RegressionFactory: 0.7.4
 RegularizedSCA: 0.5.4
@@ -6005,7 +6008,7 @@ SuperLearner: 2.0-26
 SuperPCA: 0.3.0
 SuperRanker: 1.2.0
 SuperpixelImageSegmentation: 1.0.3
-Superpower: 0.1.0
+Superpower: 0.1.1
 SuppDists: 1.1-9.5
 SurfaceTortoise: 1.0.2
 Surrogate: '1.8'
@@ -6975,7 +6978,7 @@ archivist: 2.3.5
 archivist.github: 0.2.6
 arcos: '1.27'
 arcpullr: 0.1.2
-arctools: 1.1.0
+arctools: 1.1.2
 areabiplot: 1.0.0
 areal: 0.1.7
 arealDB: 0.3.4
@@ -8168,6 +8171,7 @@ chi: '0.1'
 chi2x3way: '1.1'
 chicane: 0.1.4
 chickn: 1.2.3
+childdevdata: 1.1.0
 childesr: 0.2.1
 childhoodmortality: 0.3.0
 childsds: 0.7.6
@@ -9432,6 +9436,7 @@ distrSim: 2.8.0
 distrTEst: 2.8.0
 distrTeach: 2.8.0
 distreg.vis: 1.7.1
+distribglm: 0.4.1
 distributional: 0.2.2
 distributions: '1.3'
 distributions3: 0.1.1
@@ -11034,7 +11039,7 @@ gear: 0.3.4
 gearman: 0.1-5
 gee: 4.13-19
 gee4: 0.1.0.0
-geeCRT: 0.0.1
+geeCRT: 0.1.0
 geeM: 0.10.1
 geecure: 1.0-6
 geepack: 1.3-2
@@ -11943,6 +11948,7 @@ hildareadR: 0.2.0
 hillR: 0.5.1
 hilldiv: 1.5.1
 hillmakeR: '0.2'
+himach: 0.1.0
 hindex: 0.2.0
 hindexcalculator: 1.0.0
 hint: 0.1-1
@@ -12111,6 +12117,7 @@ hysteresis: '2.6'
 hzar: 0.2-5
 i2dash: 0.2.3
 i2extras: 0.1.0
+iAR: 0.1.0
 iAdapt: 2.0.0
 iBATCGH: 1.3.1
 iBST: '1.0'
@@ -12158,6 +12165,7 @@ iRepro: '1.1'
 iSDM: '1.0'
 iSTATS: '1.5'
 iScreen: '1.0'
+iSubGen: 1.0.0
 iSubpathwayMiner: '3.0'
 iTOP: 1.0.2
 iWISA: 1.0-2
@@ -12621,7 +12629,7 @@ jiebaRD: '0.1'
 jipApprox: 0.1.3
 jit: 1.3-1
 jjb: 0.1.1
-jlctree: 0.0.1
+jlctree: 0.0.2
 jlsm: 0.1.0
 jmcm: 0.2.4
 jmdem: 1.0.1
@@ -12852,7 +12860,7 @@ kstMatrix: 0.1-2
 ktaucenters: 0.1.0
 ktsolve: '1.3'
 ktspair: '1.0'
-kubik: 0.2.0
+kubik: 0.3.0
 kuiper.2samp: '1.0'
 kulife: 0.1-14
 kuniezu: 0.1.3
@@ -13076,6 +13084,7 @@ lhmixr: 0.1.0
 lhs: 1.1.1
 liayson: 1.0.3
 libamtrack: 0.6.3
+libbib: '1.0'
 libcoin: 1.0-8
 libgeos: 3.8.1-4
 libproj: 7.1.0-2
@@ -13284,6 +13293,7 @@ longROC: '1.0'
 longRPart: '1.0'
 longRPart2: 0.2.3
 longclust: 1.2.3
+longit: 0.1.0
 longitudinal: 1.1.12
 longitudinalData: 2.4.1
 longitudinalcascade: 0.3.2.1
@@ -13382,6 +13392,7 @@ lymphclon: 1.3.0
 m2b: '1.0'
 m2r: 1.0.2
 m4fe: '0.1'
+m61r: 0.0.2
 mAr: 1.1-2
 mBvs: '1.4'
 mDAG: 1.2.2
@@ -13678,6 +13689,7 @@ meanr: 0.1-2
 meanscore: 1.0-6
 meantables: 0.1.0
 measuRing: '0.5'
+measurementProtocol: 0.1.0
 measurements: 1.4.0
 measures: '0.3'
 meboot: 1.4-8
@@ -13895,6 +13907,7 @@ midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
 migest: 1.8.3
+migraph: 0.6.2
 migrate: 0.3.0
 migration.indices: 0.3.0
 migrbc: 2.0.9
@@ -15050,6 +15063,7 @@ onlineforecast: 0.9.3
 onlineretail: 0.1.1
 onls: 0.1-1
 onnx: 0.0.2
+onsr: 1.0.0
 ontologyIndex: '2.7'
 ontologyPlot: '1.6'
 ontologySimilarity: '2.5'
@@ -16630,6 +16644,7 @@ rODE: 0.99.6
 rPACI: 0.1.2
 rPAex: 1.0.1
 rPackedBar: 0.2.2
+rPanglaoDB: 0.1.0
 rPlant: '2.7'
 rPorta: 0.1-9
 rPowerSampleSize: 1.0.2
@@ -17101,6 +17116,7 @@ repmis: '0.5'
 repmod: 0.1.7
 repo: 2.1.5
 repolr: '3.4'
+report: 0.3.0
 reportROC: '3.5'
 reportReg: 0.3.0
 reportRx: '1.0'
@@ -18067,6 +18083,7 @@ segmenTier: 0.1.2
 segmented: 1.3-3
 segmentr: 0.2.0
 segregation: 0.5.0
+segregatr: 0.2.0
 seismic: '1.0'
 seismicRoll: 1.1.4
 sejmRP: 1.3.4
@@ -18083,6 +18100,7 @@ selectspm: '0.3'
 seleniumPipes: 0.3.7
 selfea: 1.0.1
 selfingTree: '0.2'
+selfmade: '0.1'
 sem: 3.1-11
 semEff: 0.5.0
 semGOF: 0.2-0
@@ -18786,7 +18804,7 @@ spatstat: 2.1-0
 spatstat.Knet: 2.0-0
 spatstat.core: 2.0-0
 spatstat.data: 2.1-0
-spatstat.geom: 2.0-1
+spatstat.geom: 2.1-0
 spatstat.gui: 2.0-0
 spatstat.linnet: 2.1-1
 spatstat.local: 4.1-0
@@ -19729,7 +19747,7 @@ tidytidbits: 0.2.3
 tidytransit: 0.7.3
 tidytree: 0.3.3
 tidytuesdayR: 1.0.1
-tidyverse: 1.3.0
+tidyverse: 1.3.1
 tidyvpc: 1.1.0
 tidyxl: 1.0.7
 tiff: 0.1-8
@@ -20387,12 +20405,12 @@ vindecodr: 0.1.1
 vinereg: 0.7.3
 vines: 1.1.5
 violinmplot: 0.2.1
-violinplotter: 2.0.0
+violinplotter: 2.0.1
 vioplot: 0.3.6
 viopoints: 0.2-1
 vip: 0.3.2
 vipor: 0.4.5
-viridis: 0.5.1
+viridis: 0.6.0
 viridisLite: 0.4.0
 viromeBrowser: 1.1.0
 virtualNicheR: '1.0'
@@ -20843,7 +20861,7 @@ zip: 2.1.1
 zipR: 0.1.1
 zipangu: 0.2.3
 zipcode: '1.0'
-zipcodeR: 0.2.0
+zipcodeR: 0.3.0
 zipfR: 0.6-70
 zipfextR: 1.0.2
 ziphsmm: 2.0.6
