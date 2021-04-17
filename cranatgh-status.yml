@@ -1407,7 +1407,7 @@ DendroSync: 0.1.3
 DengueRT: 1.0.1
 DensParcorr: '1.1'
 Density.T.HoldOut: '2.00'
-DepLogo: '1.0'
+DepLogo: '1.2'
 Depela: '0.0'
 DepthProc: 2.1.3
 Deriv: 4.1.3
@@ -1730,7 +1730,7 @@ EstCRM: '1.4'
 EstHer: '1.0'
 EstMix: 1.0.1
 EstSimPDMP: '1.2'
-EstimDiagnostics: 0.0.2
+EstimDiagnostics: 0.0.3
 EstimateGroupNetwork: 0.3.1
 EstimationTools: 2.1.0
 EthSEQ: 2.1.4
@@ -3210,7 +3210,7 @@ MKinfer: '0.6'
 MKmisc: '1.6'
 MKomics: '0.5'
 MKpower: '0.5'
-ML.MSBD: 1.2.0
+ML.MSBD: 1.2.1
 ML2Pvae: 1.0.0
 MLCIRTwithin: 2.1.1
 MLCM: 0.4.2
@@ -3370,7 +3370,7 @@ MXM: 1.5.1
 MaOEA: 0.6.2
 MaXact: 0.2.1
 MachineLearning: 0.1.4
-MachineShop: 2.7.0
+MachineShop: 2.8.0
 Maeswrap: '1.7'
 MagneticMap: '1.0'
 MajKMeans: 0.1.0
@@ -3481,7 +3481,7 @@ Methplot: '1.0'
 MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
 Metrics: 0.1.4
-MetricsWeighted: 0.5.1
+MetricsWeighted: 0.5.2
 MfUSampler: 1.0.4
 MiClip: '1.3'
 MiDA: 0.1.2
@@ -6465,7 +6465,7 @@ VizOR: 0.8-5
 VorteksExport: 0.1.8
 Voss: 0.1-4
 VoxR: 1.0.0
-VulnToolkit: 1.1.1
+VulnToolkit: 1.1.2
 W2CWM2C: '2.2'
 W3CMarkupValidator: 0.1-6
 WACS: 1.1.0
@@ -6610,7 +6610,7 @@ aLFQ: 1.3.6
 aMNLFA: '0.1'
 aPCoA: '1.2'
 aRbs: 0.1.2
-aRchi: 1.0.3
+aRchi: 1.0.5
 aRpsDCA: 1.1.1
 aRxiv: 0.5.19
 aSPC: 0.1.2
@@ -7142,7 +7142,7 @@ automagic: 0.5.1
 automap: 1.0-14
 automl: 1.3.2
 automultinomial: 2.0.0
-autoplotly: 0.1.2
+autoplotly: 0.1.3
 autopls: '1.3'
 autoshiny: 0.0.2
 autostsm: 1.2.2
@@ -8021,7 +8021,7 @@ causaldrf: '0.3'
 causaleffect: 1.3.12
 causaloptim: 0.7.1
 causalsens: 0.1.2
-causalweight: 1.0.0
+causalweight: 1.0.1
 cba: 0.2-21
 cban: '1.0'
 cbanalysis: 0.2.0
@@ -8321,7 +8321,7 @@ clr: 0.1.2
 clrdag: 0.6.0
 clttools: '1.3'
 clubSandwich: 0.5.3
-clue: 0.3-58
+clue: 0.3-59
 clues: 0.6.2.2
 clusTransition: '1.0'
 cluscov: 1.1.0
@@ -8956,6 +8956,7 @@ cwbtools: 0.3.3
 cwhmisc: '6.6'
 cwm: 0.0.3
 cxhull: 0.2.0
+cxr: 1.0.0
 cxx: 0.0-3
 cxxPack: '7.0'
 cxxfunplus: '1.0'
@@ -9063,7 +9064,7 @@ dataonderivatives: 0.3.1
 dataone: 2.2.1
 dataonelibs: 1.0.0
 datapack: 1.4.0
-datapackage.r: 1.3.2
+datapackage.r: 1.3.3
 datapasta: 3.1.0
 dataprep: 0.1.1
 dataquieR: 1.0.5
@@ -9105,7 +9106,7 @@ dbflobr: 0.1.0
 dbhydroR: 0.2-8
 dblcens: 1.1.7
 dblr: 0.1.0
-dbmss: 2.7-4
+dbmss: 2.7-5
 dbnR: 0.5.3
 dbnlearn: 0.1.0
 dbparser: 1.2.0
@@ -9249,7 +9250,7 @@ descstat: 0.1-2
 descstatsr: 0.1.0
 desctable: 0.1.9
 deseasonalize: '1.35'
-desiR: 1.2.1
+desiR: 1.2.2
 designGG: '1.1'
 designGLMM: 0.1.0
 designmatch: 0.3.1
@@ -9746,7 +9747,7 @@ easyr: 0.5-3
 easyreg: '4.0'
 easystab: '1.0'
 eat: 0.1.0
-eatATA: 0.10.0
+eatATA: 0.11.1
 eatDB: 0.4.1
 eatGADS: 0.16.0
 eatRep: 0.13.5
@@ -9989,7 +9990,7 @@ ensemblepp: 1.0-0
 ensr: 0.1.0
 ensurer: '1.1'
 entcn: 0.1.0
-entropart: 1.6-6
+entropart: 1.6-7
 entropy: 1.2.1
 entrymodels: 0.2.1
 envDocument: 2.4.1
@@ -10932,7 +10933,7 @@ gamCopula: 0.0-7
 gamRR: 0.7.0
 gama: 1.0.3
 gamair: 1.0-2
-gambin: 2.4.4
+gambin: 2.5.0
 gamboostLSS: 2.0-5
 gamboostMSM: 1.1.87
 gamclass: 0.62.3
@@ -11134,7 +11135,7 @@ geoRglm: 0.9-8
 geoSpectral: 0.17.5
 geoTS: 0.1.3
 geoaxe: 0.1.0
-geobr: '1.6'
+geobr: 1.6.1
 geocacheR: 0.1.0
 geocodeHERE: '0.1'
 geodaData: 0.1.0
@@ -11891,7 +11892,7 @@ helpr: '0.1'
 helsinki: 0.9.29
 heplots: 1.3-8
 here: 1.0.1
-hereR: 0.6.1
+hereR: 0.7.0
 hergm: 4.1-7
 heritEWAS: 0.2.0
 heritability: '1.3'
@@ -11943,7 +11944,7 @@ highfrequency: 0.8.0.1
 highlight: 0.5.0
 highlightHTML: 0.2.5
 highmean: '3.0'
-highr: '0.8'
+highr: '0.9'
 highriskzone: 1.4.5
 higlasso: 0.9.0
 higrad: 0.1.0
@@ -13419,7 +13420,7 @@ maGUI: '3.0'
 maRketSim: '0.9'
 maSAE: 2.0.3
 maanova: 1.4.1
-mable: 3.0.0
+mable: 3.0.1
 maboost: 1.0-0
 macc: 1.0.1
 machQA: 0.1.4
@@ -14259,7 +14260,7 @@ motmot: 2.1.3
 motmot.2.0: 1.1.2
 motoRneuron: 1.0.0
 moult: 2.1.0
-mountainplot: '1.2'
+mountainplot: '1.3'
 mousetrack: 1.0.0
 mousetrap: 3.1.5
 movMF: 0.2-5
@@ -15066,7 +15067,7 @@ onlineVAR: 0.1-1
 onlineforecast: 0.9.3
 onlineretail: 0.1.1
 onls: 0.1-1
-onnx: 0.0.2
+onnx: 0.0.3
 onsr: 1.0.0
 ontologyIndex: '2.7'
 ontologyPlot: '1.6'
@@ -15242,7 +15243,7 @@ outbreaker2: 1.1.2
 outbreaks: 1.9.0
 outcomerate: 1.0.1
 outliers: '0.14'
-outliertree: 1.6.0
+outliertree: 1.7.1
 outreg: 0.2.2
 outsider: 0.1.1
 outsider.base: 0.1.3
@@ -16127,7 +16128,7 @@ prefeR: 0.1.1
 preference: 1.1.6
 prefmod: 0.8-34
 prepdat: 1.0.8
-prepplot: '1.0'
+prepplot: 1.0-1
 preprocomb: 0.3.0
 preprosim: 0.2.0
 preproviz: 0.2.0
@@ -16451,7 +16452,7 @@ qrfactor: '1.4'
 qrjoint: 2.0-3
 qrmdata: 2019-12-03-1
 qrmix: 0.9.0
-qrmtools: 0.0-13
+qrmtools: 0.0-14
 qrng: 0.0-8
 qrnn: 2.0.5
 qrsvm: 0.2.1
@@ -16953,7 +16954,7 @@ readABF: 1.0.2
 readBrukerFlexData: 1.8.5
 readGenalex: '1.0'
 readHAC: '1.0'
-readJDX: 0.5.36
+readJDX: 0.5.41
 readMETEO: '1.2'
 readMLData: 0.9-7
 readMzXmlData: 2.8.1
@@ -16997,7 +16998,7 @@ recapr: 0.4.3
 reccsim: 0.9-1
 recexcavAAR: 0.3.0
 rechonest: '1.2'
-recipes: 0.1.15
+recipes: 0.1.16
 reclin: 0.1.1
 recluster: '2.9'
 recmap: 1.0.7
@@ -17093,7 +17094,7 @@ relimp: 1.0-5
 relsurv: 2.2-3
 rem: 1.3.1
 remMap: 0.2-0
-remap: 0.2.0
+remap: 0.2.1
 rematch: 1.0.1
 rematch2: 2.1.2
 remedy: 0.1.0
@@ -17196,7 +17197,7 @@ rexpokit: 0.26.6.7
 rfPermute: 2.1.81
 rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.1
-rfacebookstat: 2.2.2
+rfacebookstat: 2.3.0
 rfacts: 0.1.1
 rfbCNPJ: 0.1.1
 rfieldclimate: 0.1.0
@@ -19343,11 +19344,11 @@ survxai: 0.2.2
 sutteForecastR: '0.1'
 svDialogs: 1.0.0
 svDialogstcltk: 0.9-4
-svGUI: 1.0.0
+svGUI: 1.0.1
 svHttp: 0.9-55
 svIDE: 0.9-54
 svKomodo: 0.9-63
-svMisc: 1.1.0
+svMisc: 1.1.4
 svSocket: 1.0.1
 svSweave: 0.9-8
 svTools: 0.9-5
@@ -20113,7 +20114,7 @@ tvR: 0.3.1
 tvReg: 0.5.4
 tvd: 0.1.0
 tvem: 1.2-0
-tvgarch: '1.0'
+tvgarch: '2.0'
 tvgeom: 1.0.1
 tvm: 0.4.0
 tvmediation: 1.0.0
@@ -20312,7 +20313,7 @@ valuer: 1.1.2
 vamc: 0.2.1
 vampyr: 1.0.6
 vanddraabe: 1.1.1
-vannstats: 1.0.3.27
+vannstats: 1.0.4.15
 vanquish: 1.0.0
 vapour: 0.5.5
 varComp: 0.2-0
@@ -20681,7 +20682,7 @@ wordsalad: 0.2.0
 wordspace: 0.2-6
 workflowr: 1.6.2
 workflows: 0.2.2
-workflowsets: 0.0.1
+workflowsets: 0.0.2
 worldmet: 0.9.4
 worms: 0.2.2
 worrms: 0.4.2
