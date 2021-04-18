@@ -1558,7 +1558,7 @@ EFA.MRFA: 1.0.9
 EFA.dimensions: 0.1.7.2
 EFAtools: 0.3.1
 EFAutilities: 2.1.1
-EFDR: '1.0'
+EFDR: '1.2'
 EFS: 1.0.3
 EGAnet: 0.9.8
 EGRET: 3.0.5
@@ -4902,7 +4902,7 @@ RaJIVE: '1.0'
 RaMS: 1.0.0
 RaPKod: '0.9'
 RaProR: 1.1-5
-RaSEn: 2.0.0
+RaSEn: 2.1.0
 RaceID: 0.2.3
 RadData: 1.0.1
 RadOnc: 1.1.5
@@ -5101,7 +5101,7 @@ Rdbi: 0.1-2
 Rdbi.PgSQL: 0.1-2
 Rdca: 0.1.0
 Rdice: 1.0.0
-Rdimtools: 1.0.4
+Rdimtools: 1.0.6
 Rdistance: 2.1.3
 Rdpack: 2.1.1
 Rdrools: 1.1.1
@@ -5354,7 +5354,7 @@ Runuran: '0.33'
 RunuranGUI: '0.3'
 Rvcg: 0.19.2
 Rvelslant: 0.2-3
-Rvmmin: 2018-4.17
+Rvmmin: 2018-4.17.1
 Rvoterdistance: '1.1'
 Rwave: 2.4-8
 Rwhois: 1.0.4
@@ -7142,7 +7142,7 @@ automagic: 0.5.1
 automap: 1.0-14
 automl: 1.3.2
 automultinomial: 2.0.0
-autoplotly: 0.1.3
+autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
 autostsm: 1.2.2
@@ -8938,7 +8938,7 @@ cutoffR: '1.0'
 cutpointr: 1.1.0
 cuttlefish.model: '1.0'
 cvAUC: 1.1.0
-cvCovEst: 0.3.4
+cvCovEst: 0.3.5
 cvGEE: 0.3-0
 cvTools: 0.3.2
 cvar: 0.4-0
@@ -10526,7 +10526,7 @@ filematrix: '1.3'
 filenamer: 0.2.3
 fileplyr: 0.2.0
 files: 0.0.1
-filesstrings: 3.2.1
+filesstrings: 3.2.2
 filling: 0.2.2
 fillr: 1.0.0
 filterviewR: '0.11'
@@ -11634,7 +11634,7 @@ graphsim: 1.0.1
 grasp: 2.5-7
 grasper: 0.4-4
 grates: 0.1.2
-gratia: 0.5.1
+gratia: 0.6.0
 graticule: 0.1.2
 gratis: 0.2.1
 grattan: 1.9.0.4
@@ -13613,7 +13613,7 @@ mbr: 0.0.1
 mbrglm: 0.0.1
 mbsts: '1.0'
 mc.heterogeneity: 0.1.2
-mc2d: 0.1-18
+mc2d: 0.1-19
 mcBFtest: 0.1.0
 mcGlobaloptim: '0.1'
 mcIRT: '0.41'
@@ -13843,7 +13843,7 @@ mfx: 1.2-2
 mgarchBEKK: 0.0.2
 mgc: 2.0.2
 mgcViz: 0.1.6
-mgcv: 1.8-34
+mgcv: 1.8-35
 mgee2: '0.1'
 mglR: 0.1.0
 mglmn: 0.1.0
@@ -13978,7 +13978,7 @@ missMethods: 0.2.0
 missRanger: 2.1.3
 missSBM: 0.3.0
 missingHE: 1.4.1
-mistat: 1.0-5
+mistat: 2.0.3
 mistr: 0.0.4
 mistral: 2.1.0
 misty: 0.3.2
@@ -14083,7 +14083,7 @@ mlr3measures: 0.3.1
 mlr3misc: 0.9.0
 mlr3oml: 0.4.3
 mlr3pipelines: 0.3.4
-mlr3proba: 0.3.2
+mlr3proba: 0.4.0
 mlr3shiny: 0.1.1
 mlr3spatiotempcv: 0.3.0
 mlr3tuning: 0.8.0
@@ -14189,7 +14189,7 @@ modernVA: 0.1.1
 moderndive: 0.5.1
 modes: 0.7.0
 modest: 0.3-1
-modesto: 0.1.2
+modesto: 0.1.3
 modeval: 0.1.3
 modgetxl: '0.4'
 modi: 0.1.0
@@ -16724,7 +16724,7 @@ rake: '1.2'
 rakeR: 0.2.1
 ralger: 2.2.4
 ramchoice: '1.1'
-ramcmc: 0.1.0-1.1
+ramcmc: 0.1.1
 rameritrade: 0.1.5
 ramidst: 0.1.0
 ramify: 0.3.3
@@ -18774,7 +18774,7 @@ sparsepp: '1.22'
 sparsereg: '1.2'
 sparsestep: 1.0.1
 sparsesvd: '0.2'
-sparsevar: 0.0.11
+sparsevar: 0.1.0
 sparsevb: 0.1.0
 sparsio: 1.0.1
 sparta: 0.7.2
@@ -19186,7 +19186,7 @@ stremo: '0.2'
 stremr: '0.4'
 stressaddition: 3.1.0
 stressr: 1.0.0
-strex: 1.4.1
+strex: 1.4.2
 strider: '1.3'
 stringb: 0.1.17
 stringdist: 0.9.6.3
@@ -19685,7 +19685,7 @@ thriftr: 1.1.5
 thsls: '0.1'
 thunder: 0.0.12
 thurstonianIRT: 0.11.1
-tibble: 3.1.0
+tibble: 3.1.1
 tibbleOne: 0.1.1
 tibbletime: 0.1.6
 tibblify: 0.1.0
@@ -20158,7 +20158,7 @@ uavRmp: 0.5.7
 uavRst: 0.5-4
 ubci: 0.0.5
 ubeR: 0.1.4
-ubiquity: 1.0.3
+ubiquity: 1.0.4
 ubms: 1.0.2
 ucbthesis: '1.0'
 uchardet: 1.1.0
@@ -20647,7 +20647,7 @@ wiod: 0.3.0
 wiqid: 0.3.0
 wiseR: 1.0.1
 wiserow: 0.1.0
-withr: 2.4.1
+withr: 2.4.2
 witness: '1.2'
 wk: 0.4.1
 wkNNMI: 1.0.0
@@ -20834,7 +20834,7 @@ ykmeans: '1.0'
 yll: 1.0.0
 ymlthis: 0.1.4
 yonder: 0.2.0
-yorkr: 0.0.20
+yorkr: 0.0.21
 yotover: 0.3.5
 youtubecaption: 1.0.0
 ypr: 0.5.1
