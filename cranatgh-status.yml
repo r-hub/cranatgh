@@ -1020,7 +1020,7 @@ CoOL: 1.0.1
 CoRpower: 1.0.4
 CoSMoS: 2.0.0
 CoSeg: '0.38'
-CoTiMA: 0.3.6
+CoTiMA: 0.3.9
 CodataGS: '1.43'
 CodeDepends: 0.6.5
 CohortPlat: 1.0.0
@@ -1975,7 +1975,7 @@ ForecastTB: 1.0.1
 ForestDisc: 0.1.0
 ForestFit: 0.7.1
 ForestGapR: 0.0.3
-ForestTools: 0.2.1
+ForestTools: 0.2.4
 FormalSeries: '1.0'
 Formula: 1.2-4
 FortranCallsR: '0.1'
@@ -2556,7 +2556,7 @@ IDE: 0.3.0
 IDF: 2.1.0
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
-IDSA: '1.2'
+IDSA: '2.1'
 IDSpatialStats: 0.3.5
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -2801,7 +2801,7 @@ KMsurv: 0.1-5
 KMunicate: 0.2.0
 KNNShiny: 0.1.0
 KOBT: 0.1.0
-KODAMA: '1.5'
+KODAMA: '1.6'
 KOGMWU: '1.2'
 KONPsurv: 1.0.3
 KPC: 0.1.0
@@ -2943,7 +2943,7 @@ LSMonteCarlo: '1.0'
 LSPFP: 1.0.3
 LSRS: 0.2.0
 LST: 0.1.0
-LSTS: '1.0'
+LSTS: '2.0'
 LSX: 0.9.8
 LTPDvar: '1.2'
 LTR: 1.0.0
@@ -3468,7 +3468,7 @@ MetaboLouise: 1.0.0
 MetaboQC: '1.0'
 MetabolAnalyze: 1.3.1
 MetabolicSurv: 1.1.1
-MetabolomicsBasics: '1.1'
+MetabolomicsBasics: '1.2'
 Metabonomic: '3.5'
 Metadata: '1.1'
 MetaheuristicFPA: '1.0'
@@ -3925,7 +3925,7 @@ PAFit: 1.0.1.8
 PAFway: 0.1.3
 PAGI: '1.0'
 PAGWAS: '2.0'
-PAMA: 1.0.0
+PAMA: 1.0.1
 PAMmisc: 1.6.8
 PAMpal: 0.9.14
 PANDA: 0.9.9
@@ -5477,7 +5477,7 @@ SGB: 1.0.1
 SGCS: '2.7'
 SGL: '1.3'
 SGP: 1.9-5.0
-SGPdata: 23.0-0.0
+SGPdata: 25.0-0.0
 SHAPforxgboost: 0.1.1
 SHARE: 1.1.0
 SHELF: 1.7.0
@@ -5584,7 +5584,7 @@ SPIn: '1.1'
 SPMS: '2.0'
 SPODT: 0.9-1
 SPORTSCausal: '1.0'
-SPOT: 2.3.0
+SPOT: 2.4.2
 SPPcomb: '0.1'
 SPREDA: '1.1'
 SPRT: '1.0'
@@ -6221,7 +6221,7 @@ TempleMetrics: 1.2.0
 Temporal: 0.2.0
 Tendril: 2.0.4
 TensorClustering: 1.0.1
-TensorTest2D: 1.0.0
+TensorTest2D: 1.0.1
 Ternary: 1.2.1
 TestCor: 0.0.2.2
 TestDataImputation: '1.2'
@@ -6667,7 +6667,7 @@ acrt: 1.0.1
 acs: 2.1.4
 acss: 0.2-5
 acss.data: '1.0'
-act: 1.0.1
+act: 1.0.2
 actel: 1.2.1
 activPAL: 0.1.3
 activatr: 0.1.0
@@ -7123,7 +7123,7 @@ augSIMEX: 3.7.4
 augmentedRCBD: 0.1.4
 auk: 0.4.3
 aurelius: 0.8.4
-ausplotsR: '1.2'
+ausplotsR: 1.2.4
 auteur: 0.12.1010
 auth0: 0.2.1
 auto.pca: '0.3'
@@ -7183,7 +7183,7 @@ azuremlsdk: 1.10.0
 b3archives: 1.0.0
 b6e6rl: '1.1'
 bPeaks: '1.2'
-bRacatus: 1.0.2
+bRacatus: 1.0.3
 bReeze: 0.4-3
 bSims: 0.2-1
 bWGR: 1.6.6
@@ -7486,7 +7486,7 @@ bigQueryR: 0.5.0
 bigRR: 1.3-8
 bigReg: 0.1.2
 bigSurvSGD: 0.0.1
-bigalgebra: 0.8.4
+bigalgebra: 1.0.0
 biganalytics: 1.1.21
 bigassertr: 0.1.4
 bigchess: 1.9.1
@@ -8203,7 +8203,7 @@ chromoR: '1.0'
 chromseq: 0.1.3
 chron: 2.3-56
 chronicle: 0.2.5
-chronosphere: 0.4.0
+chronosphere: 0.4.1
 chunkR: 1.1.1
 chunked: 0.5.1
 chunkhooks: 0.0.1
@@ -8283,7 +8283,7 @@ clifro: 3.2-3
 clikcorr: '1.0'
 clim.pact: 2.3-7
 climaemet: 0.2.0
-climate: 0.9.9
+climate: 1.0.0
 climate.plot: 0.1-2
 climateStability: 0.1.3
 climatol: 3.1.2
@@ -10494,7 +10494,7 @@ ffbase: 0.13.3
 fflr: 0.3.9
 ffmanova: 1.1.0
 ffmetadata: 1.0.0
-ffscrapr: 1.4.0
+ffscrapr: 1.4.1
 ffstream: 0.1.6
 fftw: 1.0-6
 fftwtools: 0.9-11
@@ -12673,7 +12673,7 @@ jquerylib: 0.1.3
 jrc: 0.4.0
 jrich: 0.60-35
 jrt: 1.0.1
-jrvFinance: 1.4.1
+jrvFinance: 1.4.2
 js: '1.2'
 jsTree: '1.2'
 jsTreeR: 1.2.0
@@ -12949,7 +12949,7 @@ latexpdf: 0.1.6
 latrend: 1.1.2
 latte: 0.2.1
 lattice: 0.20-41
-latticeDensity: 1.1.6
+latticeDensity: 1.2.6
 latticeExtra: 0.6-29
 latticedl: '1.2'
 latticist: 0.9-44
@@ -13980,7 +13980,7 @@ missSBM: 0.3.0
 missingHE: 1.4.1
 mistat: 2.0.3
 mistr: 0.0.4
-mistral: 2.1.0
+mistral: 2.2.1
 misty: 0.3.2
 mitml: 0.4-1
 mitools: '2.4'
@@ -15246,7 +15246,7 @@ outliers: '0.14'
 outliertree: 1.7.1
 outreg: 0.2.2
 outsider: 0.1.1
-outsider.base: 0.1.3
+outsider.base: 0.1.4
 ouxy: '2.1'
 overdisp: 0.1.1
 overlap: 0.3.3
@@ -16636,7 +16636,7 @@ rLindo: 8.0.1
 rMEA: 1.2.0
 rMIDAS: 0.3.0
 rMR: 1.1.0
-rMVP: 1.0.5
+rMVP: 1.0.6
 rMisbeta: '1.0'
 rModeling: 0.0.3
 rMorningStar: 1.0.7
@@ -16926,7 +16926,7 @@ rdist: 0.0.5
 rdiversity: '2.0'
 rdlocrand: 0.7.1
 rdmulti: '0.7'
-rdnb: 0.1-3
+rdnb: 0.1-4
 rdoc: 0.1.0
 rdomains: 0.1.9
 rdoxygen: 1.0.0
@@ -18637,7 +18637,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
-soilDB: 2.5.9
+soilDB: 2.6.1
 soilassessment: 0.2.1
 soilcarbon: 1.2.0
 soilphysics: '4.0'
@@ -18807,7 +18807,7 @@ spatialwidget: 0.2.3
 spatsoc: 0.1.16
 spatstat: 2.1-0
 spatstat.Knet: 2.0-0
-spatstat.core: 2.0-0
+spatstat.core: 2.1-2
 spatstat.data: 2.1-0
 spatstat.geom: 2.1-0
 spatstat.gui: 2.0-0
@@ -18865,7 +18865,7 @@ spellcheckr: 0.1.2
 spelling: '2.2'
 spemd: 0.1-1
 sperich: 1.5-8
-sperrorest: 3.0.1
+sperrorest: 3.0.2
 spew: 1.3.0
 spex: 0.7.1
 spfda: 0.9.0
@@ -18890,7 +18890,7 @@ spikeslab: 1.1.5
 spinBayes: 0.1.0
 spind: 2.2.1
 spinebil: 0.1.0
-spinifex: 0.2.7
+spinifex: 0.2.8
 spinyReg: 0.1-0
 spiritR: 0.1.1
 splancs: 2.01-40
@@ -18951,7 +18951,7 @@ spsh: 1.1.0
 spsi: '0.1'
 spsmooth: 1.1-3
 spssDDI: '0.1'
-spsur: 1.0.1.7
+spsur: 1.0.1.8
 spsurv: 1.0.0
 spsurvey: 4.1.4
 spt: 2.5.1
@@ -19909,7 +19909,7 @@ trackdf: 0.2.2
 trackeR: 1.5.2
 trackeRapp: '1.1'
 trackr: 0.10.6
-trackter: 0.1.0
+trackter: 0.1.1
 tractor.base: 3.3.3.1
 trade: 0.5.5
 tradeCosts: 0.3-1
@@ -20357,7 +20357,7 @@ vcfR: 1.12.0
 vcov: 0.0.1
 vcpen: '1.8'
 vcr: 0.6.0
-vcrpart: 1.0-3
+vcrpart: 1.0-4
 vctrs: 0.3.7
 vcvComp: 1.0.2
 vdar: 0.1.3
