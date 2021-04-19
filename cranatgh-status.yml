@@ -2386,6 +2386,7 @@ HEMDAG: 2.7.4
 HETOP: 0.2-6
 HFWutils: 0.9.5.2011.03.21
 HGLMMM: '0.1'
+HGMND: 0.1.0
 HGNChelper: 0.8.1
 HGSL: 1.0.0
 HH: 3.1-43
@@ -2944,7 +2945,7 @@ LSPFP: 1.0.3
 LSRS: 0.2.0
 LST: 0.1.0
 LSTS: '2.0'
-LSX: 0.9.8
+LSX: 0.9.9
 LTPDvar: '1.2'
 LTR: 1.0.0
 LTRCforests: 0.5.5
@@ -4240,6 +4241,7 @@ Polychrome: 1.2.6
 PolynomF: 2.0-3
 Pomic: 1.0.4
 PoolTestR: 0.1.1
+PooledCohort: 0.0.1
 PooledMeanGroup: '1.0'
 PopED: 0.5.0
 PopGenKit: '1.0'
@@ -4495,6 +4497,7 @@ RCMinification: '1.0'
 RCPmod: '2.190'
 RCRnorm: 0.0.2
 RCSF: 1.0.2
+RCSL: 0.99.95
 RCT: '1.1'
 RCarb: 0.1.4
 RCassandra: 0.1-3
@@ -5623,6 +5626,7 @@ SSOSVM: 0.2.1
 SSP: 1.0.1
 SSRA: 0.1-0
 SSRMST: 0.1.1
+SSRTcalc: 0.3.3
 SSSR: '1.0'
 SSrat: '1.1'
 SSsimple: 0.6.6
@@ -6228,6 +6232,7 @@ TestDataImputation: '1.2'
 TestDesign: 1.2.2
 TestDimorph: 0.4.1
 TestFunctions: 0.2.0
+TestGardener: 0.1.4
 TestScorer: 1.7.2
 TestSurvRec: 1.2.1
 TestingSimilarity: '1.1'
@@ -6844,7 +6849,7 @@ alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '3.3'
 amap: 0.8-18
-amapGeocode: 0.5.0
+amapGeocode: 0.6.0
 amba: 0.3.1
 amber: 1.0.3
 ambhasGW: 0.0.2
@@ -7147,7 +7152,7 @@ autopls: '1.3'
 autoshiny: 0.0.2
 autostsm: 1.2.2
 autota: 0.1.3
-autothresholdr: 1.3.9
+autothresholdr: 1.3.10
 autovarCore: 1.0-4
 av: 0.5.1
 available: 1.0.4
@@ -7629,7 +7634,7 @@ bivquant: '0.1'
 bivrp: 1.2-2
 biwavelet: 0.20.19
 biwt: '1.0'
-bizdays: 1.0.6
+bizdays: 1.0.8
 bjscrapeR: 0.1.0
 bkmr: 0.2.0
 bkmrhat: 1.0.2
@@ -8491,7 +8496,7 @@ colourvision: 2.0.3
 colr: 0.1.900
 colt: 0.1.1
 comFuncs: 0.0.5
-comat: 0.9.0
+comat: 0.9.1
 comato: '1.1'
 combinat: 0.0-8
 combinedevents: 0.1.1
@@ -8658,7 +8663,7 @@ corels: 0.0.2
 corkscrew: '1.1'
 corlink: 1.0.0
 corncob: 0.2.0
-cornet: 0.0.4
+cornet: 0.0.5
 coro: 1.0.1
 coroICA: 1.0.2
 corona: 0.3.0
@@ -10573,6 +10578,7 @@ fitbitScraper: 0.1.8
 fitcoach: '1.0'
 fitdc: 0.0.1
 fitdistrplus: 1.1-3
+fitmix: 0.1.0
 fitplc: 1.2-3
 fitteR: 0.1.0
 fitur: 0.6.1
@@ -10756,7 +10762,7 @@ frbf: '1.0'
 frbs: 3.2-0
 frechet: 0.2.0
 fredr: 2.1.0
-freealg: 1.0-0
+freealg: 1.0-2
 freedom: 1.0.1
 freegroup: 1.1-0
 freeknotsplines: '1.0'
@@ -10851,7 +10857,7 @@ furniture: 1.9.10
 furrr: 0.2.2
 fusedest: 1.3.1
 fuser: 1.0.1
-fusionchartsR: 0.0.1
+fusionchartsR: 0.0.2
 fusionclust: 1.0.0
 futile: 2.0.0
 futile.any: 1.3.2
@@ -10969,7 +10975,7 @@ gaoptim: '1.1'
 gap: 1.2.2
 gap.datasets: 0.0.4
 gapfill: 0.9.6-1
-gapmap: 0.0.4
+gapmap: 0.1.0
 gapminder: 0.3.0
 garchmodels: 0.1.1
 garchx: '1.2'
@@ -13718,6 +13724,7 @@ meditations: 1.0.1
 medmod: 1.0.0
 medrxivr: 0.0.5
 meedr: 0.0.1
+meerva: 0.1-1
 meetupapi: 0.1.0
 mefa: 3.2-7
 mefa4: 0.3-7
@@ -14029,7 +14036,7 @@ mixstock: '0.9'
 mixtNB: '1.0'
 mixtools: 1.2.0
 mixtox: 1.3.2
-mixture: 2.0.3
+mixture: 2.0.4
 mize: 0.2.4
 mizer: 2.1.0
 mkde: '0.1'
@@ -14337,7 +14344,7 @@ msap: 1.1.8
 msarc: 1.4.5
 mscalib: 0.5.9
 msce: 1.0.1
-mschart: 0.2.6
+mschart: 0.3.0
 mscp: '1.0'
 mscstexta4r: 0.1.2
 mscstts: 0.6.2
@@ -15102,7 +15109,7 @@ opencpu.encode: '0.22'
 opencv: 0.2.0
 opendatatoronto: 0.1.4
 opendotaR: 0.1.4
-openintro: 2.0.0
+openintro: 2.1.0
 openmetrics: 0.3.0
 opensensmapr: 0.5.1
 openssl: 1.4.3
@@ -15578,7 +15585,7 @@ penalized: 0.9-51
 penalizedLDA: '1.1'
 penalizedSVM: 1.1.2
 penaltyLearning: 2020.5.13
-pencal: 0.3.2
+pencal: 0.4.1
 pencopula: '0.3'
 pencopulaCond: '0.2'
 pendensity: 0.2.13
@@ -16025,7 +16032,7 @@ popsom: '5.1'
 poptrend: 0.1.0
 population: '0.2'
 populationPDXdesign: 1.0.3
-porridge: 0.2.0
+porridge: 0.2.1
 portalr: 0.3.7
 portes: '5.0'
 portfolio: 0.5-0
@@ -16433,7 +16440,7 @@ qpcR: 1.4-1
 qpdf: '1.1'
 qpmadr: 0.1.0
 qqid: 1.0.3
-qqman: 0.1.4
+qqman: 0.1.8
 qqplotr: 0.0.4
 qqplotter: '1.16'
 qqr: 0.0.1
@@ -17375,7 +17382,7 @@ rmdHelpers: '1.2'
 rmda: '1.6'
 rmdcev: 1.2.4
 rmdfiltr: 0.1.3
-rmdformats: 1.0.1
+rmdformats: 1.0.2
 rmdpartials: 0.5.8
 rmdplugr: 0.4.1
 rmdshower: 2.1.1
@@ -18737,7 +18744,7 @@ sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
 spark: 2.0.0
-spark.sas7bdat: '1.2'
+spark.sas7bdat: '1.4'
 sparkTable: 1.3.0
 sparkavro: 0.3.0
 sparkbq: 0.1.1
@@ -18880,7 +18887,7 @@ sphereplot: '1.5'
 sphet: '1.7'
 spi: '1.1'
 spiR: 0.2.1
-spidR: 1.0.0
+spidR: 1.0.1
 spider: 1.5.0
 spiderbar: 0.2.3
 spiders: '1.2'
@@ -18925,6 +18932,7 @@ spongecake: 0.1.2
 spork: 0.1.8
 sporm: 1.1.1
 sport: 0.2.0
+sportyR: 1.0.0
 spotGUI: 0.2.3
 spotidy: 0.1.0
 spotifyr: 2.1.1
@@ -19115,6 +19123,7 @@ steps: 1.2.1
 stepwise: '0.3'
 stevedata: 0.3.1
 stevedore: 0.9.3
+stevemisc: 1.0.0
 stevetemplates: 0.5.0
 stfit: 0.99.8
 stheoreme: '1.2'
@@ -19352,7 +19361,7 @@ svMisc: 1.1.4
 svSocket: 1.0.1
 svSweave: 0.9-8
 svTools: 0.9-5
-svUnit: 1.0.3
+svUnit: 1.0.6
 svWidgets: 0.9-45
 svapls: '1.4'
 svars: 1.3.7
@@ -19691,7 +19700,7 @@ tibbletime: 0.1.6
 tibblify: 0.1.0
 tibbrConnector: 1.5.1
 tictactoe: 0.2.2
-tictoc: '1.0'
+tictoc: 1.0.1
 tidyBF: 0.5.0
 tidyBdE: 0.1.0
 tidyCpp: 0.0.3
@@ -19755,6 +19764,7 @@ tidytree: 0.3.3
 tidytuesdayR: 1.0.1
 tidyverse: 1.3.1
 tidyvpc: 1.1.0
+tidywikidatar: 0.2.0
 tidyxl: 1.0.7
 tiff: 0.1-8
 tiger: 0.2.3.1
@@ -19982,7 +19992,7 @@ trelloR: 0.7.0
 trend: 1.1.4
 trendchange: '1.1'
 trendeval: 0.0.1
-trending: 0.0.2
+trending: 0.0.3
 trendsegmentR: 1.0.0
 trendyy: 0.1.1
 trex: '0.5'
@@ -20635,7 +20645,7 @@ wildcard: 1.1.0
 wildlifeDI: 0.4.0
 wildpoker: '1.1'
 wildviz: 0.1.1
-wilson: 2.4.1
+wilson: 2.4.2
 winRatioAnalysis: 0.1.0
 winch: 0.0.6
 windAC: 1.2.4
