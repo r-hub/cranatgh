@@ -1228,7 +1228,7 @@ DEEVD: 1.2.1
 DELTD: 2.6.7
 DEMEtics: 0.8-7
 DEMOVA: '1.0'
-DEPONS2R: 1.0.0
+DEPONS2R: 1.0.3
 DES: 1.0.0
 DESP: '0.2'
 DESnowball: '1.0'
@@ -1762,7 +1762,7 @@ ExactMultinom: 0.1.2
 ExactNumCI: 1.0.0
 ExactPath: '1.0'
 ExactSampling: '1.0'
-ExamPAData: 0.2.1
+ExamPAData: 0.3.0
 ExceedanceTools: 1.2.2
 ExcelFunctionsR: 0.1.4
 ExcessMass: '1.0'
@@ -2574,7 +2574,7 @@ IFP: 0.2.4
 IFSPlot: '1.0'
 IGG: '1.0'
 IGM.MEA: 0.3.5
-IGP: 0.1.0
+IGP: 0.2.0
 IGST: 0.1.0
 IHSEP: '0.1'
 IIS: '1.0'
@@ -3060,7 +3060,7 @@ MADAM: '1.2'
 MADPop: 1.1.2
 MAFDash: 0.1.0
 MAGNAMWAR: 2.0.4
-MAINT.Data: 2.5.0
+MAINT.Data: 2.6.0
 MALDIquant: 1.19.3
 MALDIquantForeign: '0.12'
 MALDIrppa: 1.0.5
@@ -3100,7 +3100,7 @@ MBESS: 4.8.0
 MBHdesign: 2.1.8
 MBI: '1.0'
 MBNMAdose: 0.3.0
-MBNMAtime: 0.1.3
+MBNMAtime: 0.2.0
 MBSGS: 1.1.0
 MBSP: '1.0'
 MBTAr: 2.0.0
@@ -5829,7 +5829,7 @@ Sleuth3: 1.0-3
 SlidingWindows: 0.2.0
 SlimPLS: '0.3'
 SmCCNet: 0.99.0
-SmallCountRounding: 0.7.0
+SmallCountRounding: 0.8.0
 SmartEDA: 0.3.7
 SmartMeterAnalytics: 1.0.3
 SmartSVA: 0.1.3
@@ -6350,6 +6350,7 @@ UMR: 1.0.0
 UNCLES: '2.0'
 UNF: 2.0.6
 UNPaC: 1.1.0
+UPCM: 0.0-2
 UPG: 0.2.2
 UPMASK: '1.2'
 UPSvarApprox: 0.1.2
@@ -6981,7 +6982,7 @@ arabicStemR: '1.2'
 aratio: '1.2'
 arc: '1.3'
 archdata: 1.2-1
-archeofrag: 0.6.0
+archeofrag: '0.7'
 archetypal: 1.1.1
 archetyper: 0.1.0
 archetypes: 2.2-0.1
@@ -7202,6 +7203,7 @@ baRcodeR: 0.1.5
 baRulho: 1.0.5
 babar: '1.0'
 babel: 0.3-0
+babelgene: '21.4'
 babelwhale: 1.0.1
 babette: '2.2'
 babsim.hospital: 11.7.14
@@ -7259,6 +7261,7 @@ base64enc: 0.1-3
 base64url: '1.4'
 baseballDBR: 0.1.2
 basecamb: 1.0.1
+basedosdados: 0.0.5
 baseflow: 0.13.2
 basefun: 1.1-0
 baseline: 1.3-1
@@ -9912,7 +9915,7 @@ eiwild: 0.6.7
 eixport: 0.5.0
 el.convex: '1.0'
 elaborator: '1.1'
-elasdics: 0.1.1
+elasdics: 0.1.2
 elasso: '1.1'
 elastic: 1.2.0
 elasticIsing: '0.2'
@@ -10525,6 +10528,7 @@ fgeo.analyze: 1.1.14
 fgeo.plot: 1.1.10
 fgeo.tool: 1.2.6
 fgeo.x: 1.1.4
+fglsnet: '1.0'
 fgm: '1.0'
 fgof: 0.2-1
 fgpt: '2.3'
@@ -10985,6 +10989,7 @@ gammSlice: 2.0-2
 gamma: 1.0.1
 gamreg: '0.3'
 gamsel: 1.8-1
+ganGenerativeData: '1.1'
 ganalytics: 0.10.7
 gaoptim: '1.1'
 gap: 1.2.3-1
@@ -13497,7 +13502,7 @@ mand: '0.1'
 mandelbrot: 0.2.0
 manet: '2.0'
 mangoTraining: '1.1'
-manhattanly: 0.2.0
+manhattanly: 0.3.0
 manhplot: '1.1'
 manifestoR: 1.5.0
 manipulate: 1.0.1
@@ -13939,7 +13944,7 @@ midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
 migest: 1.8.3
-migraph: 0.6.2
+migraph: 0.6.3
 migrate: 0.3.0
 migration.indices: 0.3.0
 migrbc: 2.0.9
@@ -14041,7 +14046,7 @@ mixfdr: '1.0'
 mixggm: '1.0'
 mixl: 1.2.3
 mixlink: 0.1.5
-mixlm: 1.2.4
+mixlm: 1.2.5
 mixlow: 1.0.1
 mixmeta: 1.1.1
 mixnet: '0.1'
@@ -15022,7 +15027,7 @@ occCite: 0.4.6
 ocd: '1.1'
 oce: 1.4-0
 ocean: 0.2-4
-oceanis: 1.7.5.1
+oceanis: 1.7.5.2
 oceanmap: 0.1.1
 oceanwaves: 0.1.0
 ocedata: 0.1.8
@@ -15535,7 +15540,7 @@ pcalg: 2.7-2
 pcalls: '1.0'
 pccc: 1.0.5
 pcdpca: '0.4'
-pcds: 0.1.1
+pcds: 0.1.2
 pcensmix: 1.2-1
 pcenum: '1.0'
 pcev: 2.2.2
@@ -16024,6 +16029,7 @@ polysat: 1.7-4
 polytomous: 0.1.6
 polywog: 0.4-1
 pom: '1.1'
+pomcheckr: 0.1.0
 pomdp: 0.99.0
 pomp: '3.3'
 pompom: 0.2.1
@@ -16706,7 +16712,7 @@ rSPDE: 0.6.2
 rSQM: 1.3.14
 rSymPy: 0.2-1.2
 rSymbiota: 1.0.0
-rTLS: 0.2.3
+rTLS: 0.2.3.3
 rTOFsPRO: '1.4'
 rTRNG: 4.23.1-1
 rTableICC: 1.0.7
@@ -17067,6 +17073,7 @@ refGenome: 1.7.7
 referenceIntervals: 1.2.0
 refimpact: 1.0.0
 refinr: 0.3.1
+refitME: 1.2.0
 refnr: 0.1.0
 refset: 0.1.1
 refuge: 0.3.3
@@ -17163,7 +17170,7 @@ reportROC: '3.5'
 reportReg: 0.3.0
 reportRx: '1.0'
 reporter: 1.1.2
-reportfactory: 0.2.0
+reportfactory: 0.3.0
 reportr: 1.3.0
 reports: 0.1.4
 reporttools: 1.1.2
@@ -17877,6 +17884,7 @@ saemix: '2.4'
 saery: '1.0'
 safeBinaryRegression: 0.1-3
 safedata: 1.0.9
+safejoin: 0.1.0
 safer: 0.2.1
 safetyData: 1.0.0
 safetyGraphics: 1.1.0
@@ -18158,6 +18166,7 @@ semds: 0.9-6
 semiArtificial: 2.3.1
 seminr: 2.0.2
 semisupKernelPCA: 0.1.5
+semmcmc: 0.0.4
 semnar: 0.7.1
 semnova: 0.1-6
 semsfa: '1.1'
@@ -19362,7 +19371,7 @@ surveyplanning: '4.0'
 surveysd: 1.3.0
 survidm: 1.3.1
 survivALL: 0.9.3
-survival: 3.2-10
+survival: 3.2-11
 survival4: 1.4-0
 survival5: '2.4'
 survivalAnalysis: 0.2.0
@@ -20825,7 +20834,7 @@ xpectr: 0.4.0
 xplain: 0.2.2
 xplorerr: 0.1.1
 xpose: 0.4.12
-xpose.nlmixr: 0.1.5
+xpose.nlmixr: 0.2.0
 xpose4: 4.7.1
 xpose4classic: 4.4.1
 xpose4data: 4.4.1
