@@ -259,7 +259,7 @@ AzureAuth: 1.3.1
 AzureCognitive: 1.0.1
 AzureContainers: 1.3.1
 AzureCosmosR: 1.0.0
-AzureGraph: 1.2.2
+AzureGraph: 1.3.0
 AzureKeyVault: 1.0.4
 AzureKusto: 1.0.6
 AzureML: 0.2.15
@@ -286,7 +286,7 @@ BAMD: '3.5'
 BAMMtools: 2.1.7
 BANEScarparkinglite: 0.1.3
 BANFF: '2.0'
-BANOVA: 1.1.9
+BANOVA: 1.2.0
 BARD: '1.24'
 BAREB: 0.1.0
 BARIS: 1.1.1
@@ -295,7 +295,7 @@ BAS: 1.5.5
 BASIX: '1.1'
 BASS: 1.2.2
 BASiNET: 0.0.4
-BAT: 2.5.0
+BAT: 2.5.1
 BAYESDEF: 0.1.0
 BAYSTAR: 0.2-9
 BAwiR: 1.2.6
@@ -305,6 +305,7 @@ BBI: 0.3.0
 BBMM: '3.0'
 BBMV: '2.1'
 BBRecapture: '0.2'
+BBSSL: 0.1.0
 BBcor: 1.0.1
 BBmisc: '1.11'
 BCA: 0.9-3
@@ -862,7 +863,7 @@ CTAShiny: 0.1.0
 CTD: 1.0.0
 CTFS: '1.00'
 CTM: '0.2'
-CTP: '3.0'
+CTP: 3.0.1
 CTRE: 0.1.0
 CTShiny: 0.1.0
 CTShiny2: 0.1.0
@@ -2054,7 +2055,7 @@ GCPM: 1.2.2
 GCSM: 0.1.1
 GCalcium: 1.0.0
 GCalignR: 1.0.3
-GD: '1.9'
+GD: '1.10'
 GDAdata: '0.93'
 GDAtools: '1.6'
 GDD: 0.1-8
@@ -2480,7 +2481,7 @@ HiDimMaxStable: '0.1'
 HiLMM: '1.1'
 HiPLARM: '0.1'
 HiResTEC: '0.59'
-HiddenMarkov: 1.8-11
+HiddenMarkov: 1.8-13
 HierDpart: 1.5.0
 HierO: '0.2'
 HighDimOut: 1.0.0
@@ -4860,6 +4861,7 @@ RTConnect: 0.1.4
 RTD: 0.4.1
 RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
+RTIGER: 0.99.0
 RTL: 0.1.6
 RTOMO: 1.1-6
 RTTWebClient: 0.1.1
@@ -6350,7 +6352,7 @@ UMR: 1.0.0
 UNCLES: '2.0'
 UNF: 2.0.6
 UNPaC: 1.1.0
-UPCM: 0.0-2
+UPCM: 0.0-3
 UPG: 0.2.2
 UPMASK: '1.2'
 UPSvarApprox: 0.1.2
@@ -6798,7 +6800,7 @@ aidar: 1.0.5
 aif360: 0.1.0
 aimPlot: 1.0.0
 aimsir17: 0.0.2
-airGR: 1.6.10.4
+airGR: 1.6.12
 airGRdatassim: 0.1.3
 airGRteaching: 0.2.10.112
 aire.zmvm: 0.8.2
@@ -7029,7 +7031,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
-arrow: 3.0.0
+arrow: 4.0.0
 ars: '0.6'
 arse: 1.0.0
 arsenal: 3.6.2
@@ -8918,7 +8920,7 @@ ctqr: '2.0'
 ctrdata: 1.5.3
 ctrlGene: 1.0.1
 cts: '1.0'
-ctsem: 3.4.2
+ctsem: 3.4.3
 ctsemOMX: 1.0.3
 ctv: 0.8-5
 cuRe: 1.0.1
@@ -9133,7 +9135,7 @@ dbnlearn: 0.1.0
 dbparser: 1.2.0
 dbplot: 0.3.3
 dbplyr: 2.1.1
-dbscan: 1.1-7
+dbscan: 1.1-8
 dbstats: 1.0.5
 dbx: 0.2.8
 dc3net: 1.2.0
@@ -9215,7 +9217,7 @@ defrostR: 1.1.0
 degenes: '1.1'
 degreenet: 1.3-3
 deisotoper: 0.0.7
-dejaVu: 0.2.1
+dejaVu: 0.3.0
 delayed: 0.3.0
 deldir: 0.2-10
 delftfews: 0.3-67
@@ -10579,7 +10581,7 @@ fishMod: '0.29'
 fishbc: 0.2.0
 fishdata: 0.1.3
 fisheyeR: '0.9'
-fishflux: 0.0.1
+fishflux: 0.0.1.4
 fishkirkko2015: 1.0.0
 fishmethods: 1.11-1
 fishmove: 0.3-3
@@ -10611,6 +10613,7 @@ flacco: '1.8'
 flagr: 0.3.2
 flair: 0.0.2
 flam: '3.2'
+flametree: 0.1.2
 flamingos: 0.1.0
 flan: '0.8'
 flare: 1.7.0
@@ -11185,7 +11188,7 @@ geojsonR: 1.0.9
 geojsonio: 0.9.4
 geojsonlint: 0.4.0
 geojsonsf: 2.0.1
-geoknife: 1.6.4
+geoknife: 1.6.5
 geomapdata: 1.0-4
 geomedb: 2.0.1
 geomerge: 0.3.2
@@ -13177,7 +13180,7 @@ linkprediction: 1.0-0
 linkspotter: 1.3.0
 linl: 0.0.4
 linne: 0.0.2
-linpk: '1.0'
+linpk: 1.1.1
 linprog: 0.9-2
 lint: '0.3'
 lintools: 0.1.3
@@ -13749,7 +13752,7 @@ meditations: 1.0.1
 medmod: 1.0.0
 medrxivr: 0.0.5
 meedr: 0.0.1
-meerva: 0.1-1
+meerva: 0.1-2
 meetupapi: 0.1.0
 mefa: 3.2-7
 mefa4: 0.3-7
@@ -14085,7 +14088,7 @@ mlegp: 3.1.8
 mlergm: '0.7'
 mleur: 1.0-6
 mlf: 1.2.1
-mlflow: 1.15.0
+mlflow: 1.16.0
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
@@ -15023,7 +15026,7 @@ obsSens: '1.3'
 observer: 0.1.2
 oc: '1.2'
 occ: '1.1'
-occCite: 0.4.6
+occCite: 0.4.7
 ocd: '1.1'
 oce: 1.4-0
 ocean: 0.2-4
@@ -15866,6 +15869,7 @@ platetools: 0.1.3
 playitbyr: 0.2-1
 playwith: 0.9-8
 plde: 0.1.2
+pleLMA: 0.1.0
 pleiades: 0.3.0
 pleio: '1.6'
 pleiotest: 1.0.0
@@ -16165,6 +16169,7 @@ prefeR: 0.1.1
 preferably: 0.3.0
 preference: 1.1.6
 prefmod: 0.8-34
+prenoms: 0.0.1
 prepdat: 1.0.8
 prepplot: 1.0-1
 preprocomb: 0.3.0
@@ -18740,7 +18745,7 @@ sp23design: '0.9'
 sp500SlidingWindow: 0.1.0
 spANOVA: 0.99.2
 spAddins: 0.2.0
-spBFA: '1.0'
+spBFA: '1.1'
 spBayes: 0.4-3
 spBayesSurv: 1.1.5
 spCP: '1.2'
@@ -19196,7 +19201,7 @@ stockR: 1.0.74
 stockfish: 0.1.1
 stocks: 1.1.4
 stoichcalc: 1.1-3
-stokes: 1.0-5
+stokes: 1.0-7
 stopwords: '2.2'
 stormwindmodel: 0.1.4
 storr: 1.2.5
