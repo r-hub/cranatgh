@@ -561,7 +561,7 @@ BeviMed: '5.8'
 BeyondBenford: '1.4'
 Bhat: 0.9-10
 BiBitR: 0.3.1
-BiDAG: 2.0.0
+BiDAG: 2.0.1
 BiDimRegression: 2.0.0
 BiG: 0.1.0
 BiGGR: '1.8'
@@ -1219,7 +1219,7 @@ DDHFm: 1.1.2
 DDIwR: '0.5'
 DDM: 1.0-0
 DDPGPSurv: '1.0'
-DDPNA: 0.2.6
+DDPNA: 0.2.7
 DDRTree: 0.1.5
 DDoutlier: 0.1.0
 DEA: 0.1-2
@@ -1243,6 +1243,7 @@ DFA.CANCOR: 0.2.0
 DFIT: 1.0-3
 DGCA: 1.0.2
 DGEobj: 1.0.3
+DGEobj.utils: 1.0.3
 DGLMExtPois: 0.1.3
 DGM: 1.7.2
 DGVM3D: 1.0.0
@@ -1264,7 +1265,7 @@ DISTRIB: '1.0'
 DIZutils: 0.0.7
 DIconvex: 1.0.0
 DImodels: '1.0'
-DIscBIO: 1.1.0
+DIscBIO: 1.2.0
 DJL: '3.6'
 DLASSO: 2.0.2
 DLMtool: 6.0.1
@@ -2126,7 +2127,7 @@ GMAC: '3.0'
 GMCM: '1.4'
 GMD: '0.3'
 GMDH: '1.6'
-GMDH2: '1.5'
+GMDH2: '1.6'
 GMDHreg: 0.2.1
 GMKMcharlie: 1.1.1
 GMMAT: 1.3.1
@@ -2179,7 +2180,7 @@ GRASS: 0.3-9
 GRCdata: '1.0'
 GREMLINS: 0.2.0
 GREP2: 1.0.2
-GROAN: 1.2.0
+GROAN: 1.2.1
 GRPtests: 0.1.2
 GRRGI: '1.1'
 GRS.test: '1.1'
@@ -3778,7 +3779,7 @@ NitrogenUptake2016: 0.2.3
 NlcOptim: '0.6'
 NlinTS: 1.4.5
 NlsyLinks: 2.0.6
-Nmisc: 0.3.5
+Nmisc: 0.3.7
 NobBS: 0.1.0
 NoiseFiltersR: 0.1.0
 NominalLogisticBiplot: '0.2'
@@ -3932,7 +3933,7 @@ PAFit: 1.0.1.8
 PAFway: 0.1.3
 PAGI: '1.0'
 PAGWAS: '2.0'
-PAMA: 1.0.1
+PAMA: 1.1.0
 PAMmisc: 1.6.8
 PAMpal: 0.9.14
 PANDA: 0.9.9
@@ -4652,6 +4653,7 @@ RLumShiny: 0.2.2
 RM.weights: '2.0'
 RM2: '0.0'
 RM2006: 0.1.1
+RMAT: 0.2.0
 RMAWGEN: 1.3.7
 RMC: '0.2'
 RMCriteria: 0.2.0
@@ -6472,7 +6474,7 @@ VideoComparison: 0.9-4
 VineCopula: 2.4.1
 VisCov: '1.3'
 VisuClust: '1.2'
-Visualize.CRAN.Downloads: '1.0'
+Visualize.CRAN.Downloads: 1.0.1
 VizCompX: '0.1'
 VizOR: 0.8-5
 VorteksExport: 0.1.8
@@ -6591,6 +6593,7 @@ YPmodel: '1.4'
 YRmisc: 0.1.6
 YaleToolkit: 4.2.2
 Yamm: 1.3.1
+YatesAlgo.FactorialExp.SR: 4.0.4
 YieldCurve: '4.1'
 YjdnJlp: 0.9.8
 YourCast: '1.6'
@@ -7133,6 +7136,7 @@ audiometry: 0.2.0
 audit: 0.1-1
 audited: '1.9'
 auditor: 1.3.0
+audrex: 1.0.0
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.4
 auk: 0.4.3
@@ -9910,6 +9914,7 @@ eigenprcomp: '1.0'
 eikosograms: 0.1.1
 eimpute: 0.1.1
 einet: 0.1.0
+eiopaR: 0.1.0
 eirm: '0.3'
 eive: '2.3'
 eivtools: 0.1-8
@@ -10112,7 +10117,7 @@ ergmclust: 1.0.0
 ergmharris: '1.0'
 ergmito: 0.3-0
 erhcv: 0.1.4
-erify: 0.1.0
+erify: 0.2.0
 erp.easy: 1.1.0
 erpR: 0.2.0
 err: 0.2.0
@@ -11505,6 +11510,7 @@ glmpca: 0.2.0
 glmperm: 1.0-5
 glmtlp: '1.1'
 glmtoolbox: 0.1.0
+glmtrans: 1.0.0
 glmtree: '0.2'
 glmulti: 1.0.8
 glmvsd: '1.4'
@@ -11800,7 +11806,7 @@ gvlma: 1.0.0.3
 gwaRs: 0.3.0
 gwasforest: 1.0.0
 gwdegree: 0.1.1
-gwer: '2.1'
+gwer: '3.0'
 gwerAM: '1.0'
 gwfa: 0.0.4
 gwpcormapper: 0.1.2
@@ -13504,7 +13510,7 @@ managelocalrepo: 0.1.5
 mand: '0.1'
 mandelbrot: 0.2.0
 manet: '2.0'
-mangoTraining: '1.1'
+mangoTraining: 1.1.1
 manhattanly: 0.3.0
 manhplot: '1.1'
 manifestoR: 1.5.0
@@ -13540,7 +13546,7 @@ mapsFinland: 0.1.1
 mapsRinteractive: 1.0.1
 mapsapi: 0.4.8
 mapsf: 0.1.1
-maptiles: 0.1.2
+maptiles: 0.1.3
 maptools: 1.1-1
 maptpx: 1.9-7
 maptree: 1.4-7
@@ -13609,7 +13615,7 @@ matrixStrucTest: 1.0.0
 matrixTests: 0.1.9
 matrixcalc: 1.0-3
 matrixdist: 1.0.2
-matrixpls: 1.0.9
+matrixpls: 1.0.13
 matrixprofiler: 0.1.4
 matrixsampling: 2.0.0
 matsbyname: 0.4.16
@@ -13682,7 +13688,7 @@ mcmc: 0.9-7
 mcmcOutput: 0.1.1
 mcmcabn: '0.3'
 mcmcderive: 0.1.1
-mcmcensemble: 2.2.0
+mcmcensemble: 3.0.0
 mcmcplots: 0.4.3
 mcmcr: 0.5.0
 mcmcsae: 0.6.0
@@ -14115,7 +14121,7 @@ mlr3fselect: 0.5.1
 mlr3hyperband: 0.1.2
 mlr3learners: 0.4.5
 mlr3measures: 0.3.1
-mlr3misc: 0.9.0
+mlr3misc: 0.9.1
 mlr3oml: 0.4.3
 mlr3pipelines: 0.3.4
 mlr3proba: 0.4.0
@@ -14270,6 +14276,7 @@ moodleR: 0.3.2
 moonBook: 0.2.4
 moonsun: '0.1'
 mopa: 1.0.1
+mopac: 0.1.0
 mopsocd: 0.5.1
 moreparty: 0.2.0
 morgenstemning: '1.0'
@@ -14489,7 +14496,7 @@ multiplex: 2.9.4
 multiplyr: 0.1.1
 multipol: 1.0-7
 multirich: 2.1.1
-multiridge: '1.5'
+multiridge: '1.7'
 multiselect: 0.1.0
 multisensi: 2.1-1
 multisom: '1.3'
@@ -14526,7 +14533,7 @@ mutSignatures: 2.1.1
 mutatr: '0.1'
 mutoss: 0.1-12
 mutossGUI: 0.1-11
-mvGPS: 1.0.2
+mvGPS: 1.1.1
 mvLSW: 1.2.3
 mvMISE: '1.0'
 mvMORPH: 1.1.4
@@ -15096,7 +15103,7 @@ onemapsgapi: 1.0.0
 onepass: 0.1.1
 onewaytests: '2.6'
 onion: 1.5-0
-onlineBcp: 0.1.0
+onlineBcp: 0.1.1
 onlineCOV: '1.3'
 onlineCPD: '1.0'
 onlinePCA: 1.3.1
@@ -15830,7 +15837,7 @@ pkdata: 0.1.0
 pkgKitten: 0.2.1
 pkgbuild: 1.2.0
 pkgcache: 1.2.1
-pkgcond: 0.1.0
+pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepends: 0.1.0
@@ -16704,7 +16711,7 @@ rPref: '1.3'
 rPython: 0.0-6
 rQCC: 1.20.7
 rRAP: '1.1'
-rRofex: 2.0.3
+rRofex: 2.0.5
 rSAFE: 0.1.2
 rSARP: 1.0.0
 rSCA: '3.1'
@@ -16883,7 +16890,7 @@ rbgm: 0.1.0
 rbhl: 0.9.0
 rbi: 0.10.3
 rbi.helpers: 0.3.2
-rbibutils: '2.1'
+rbibutils: 2.1.1
 rbin: 0.2.0
 rbiom: 1.0.2
 rbiorxiv: 0.2.1
@@ -17753,6 +17760,7 @@ rtape: '2.2'
 rtdists: 0.11-2
 rtematres: '0.2'
 rtemps: 0.8.0
+rtern: 0.1.1
 rtext: 0.1.22
 rtf: 0.4-14.1
 rtfbs: '0.3'
@@ -18012,7 +18020,7 @@ scgwr: 0.1.2-1
 schemr: 0.1.0
 schoRsch: 1.9.1
 schoenberg: 2.0.2
-scholar: 0.2.0
+scholar: 0.2.1
 schoolmath: '0.4'
 schrute: 0.2.2
 schumaker: '1.2'
@@ -18426,7 +18434,7 @@ signal.hsmm: '1.2'
 signalHsmm: '1.5'
 signalextraction: 2.0.3
 signmedian.test: 1.5.1
-signnet: 0.7.0
+signnet: 0.7.1
 signs: 0.1.2
 sigora: 3.0.5
 sigr: 1.1.3
@@ -19513,7 +19521,7 @@ tabit: 0.2.1
 tablaxlsx: 1.2.4
 table.express: 0.3.1
 table.glue: 0.0.2
-table1: '1.3'
+table1: '1.4'
 table1xls: 0.4.0
 tableHTML: 2.1.0
 tableMatrix: 0.82.0
@@ -19934,7 +19942,7 @@ topologyGSA: 1.4.6
 topsa: 0.1.0
 topsis: '1.0'
 tor: 1.1.2
-torch: 0.2.1
+torch: 0.3.0
 torchaudio: 0.1.1.0
 torchdatasets: 0.0.1
 torchvision: 0.2.0
@@ -20577,6 +20585,7 @@ warp: 0.2.0
 warpMix: 0.1.0
 washdata: 0.1.3
 washeR: 0.1.2
+washex: 1.0.0
 wasim: '1.1'
 waspr: 1.0.0
 water: '0.8'
@@ -20774,7 +20783,7 @@ wru: 0.1-11
 wsbackfit: 1.0-4
 wsjplot: 0.1.0
 wskm: 1.4.40
-wsrf: 1.7.20
+wsrf: 1.7.21
 wsyn: 1.0.3
 wtcrsk: '1.6'
 wtest: '3.2'
