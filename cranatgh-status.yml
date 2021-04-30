@@ -561,7 +561,7 @@ BeviMed: '5.8'
 BeyondBenford: '1.4'
 Bhat: 0.9-10
 BiBitR: 0.3.1
-BiDAG: 2.0.1
+BiDAG: 2.0.2
 BiDimRegression: 2.0.0
 BiG: 0.1.0
 BiGGR: '1.8'
@@ -672,6 +672,7 @@ Brq: '3.0'
 Brundle: 1.0.9
 BsMD: 2020.4.30
 Buddle: 2.0.1
+BuildSys: 1.0.9
 BullsEyeR: 0.2.0
 BurStFin: '1.02'
 BurStMisc: '1.1'
@@ -3052,7 +3053,7 @@ LowWAFOMNX: 1.1.1
 LowWAFOMSobol: 1.1.1
 LumReader: 0.1.0
 LumiWCluster: 1.0.2
-Luminescence: 0.9.10
+Luminescence: 0.9.11
 M2SMF: '2.0'
 M2SMJF: '1.0'
 M3: '0.3'
@@ -3629,7 +3630,7 @@ N2H4: 0.5.7
 N2R: 0.1.1
 NACHO: 1.1.0
 NADA: 1.6-1.1
-NADA2: 1.0.0
+NADA2: 1.0.1
 NADIA: 0.4.1
 NAEPirtparams: 1.0.0
 NAEPprimer: 1.0.1
@@ -4048,6 +4049,7 @@ POFIBGE: 0.1.1
 POINT: '1.1'
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
+POSTm: '1.1'
 POSetR: 1.0.3
 POT: 1.1-7
 POUMM: 2.1.7
@@ -5043,6 +5045,7 @@ RcmdrPlugin.sutteForecastR: 1.0.0
 RcmdrPlugin.temis: 0.7.10
 Rcoclust: '0.1'
 Rcolombos: 2.0.2
+Rcompadre: 1.0.0
 Rcplex: 0.3-3
 Rcpp: 1.0.6
 Rcpp11: 3.1.2.0.1
@@ -5456,7 +5459,7 @@ SDCNway: 1.0.1
 SDD: '1.2'
 SDDA: 1.0-5
 SDDE: 1.0.1
-SDEFSR: 0.7.21
+SDEFSR: 0.7.22
 SDLfilter: 2.1.0
 SDMPlay: '1.3'
 SDMTools: '1.1'
@@ -5862,7 +5865,7 @@ SoftClustering: 1.1902.2
 SoftRandomForest: 0.1.0
 SoilHyP: 0.1.5
 SoilR: 1.1-23
-SoilTaxonomy: '0.1'
+SoilTaxonomy: 0.1.2
 Sojourn: 1.0.2
 Sojourn.Data: 0.2.0
 SolveLS: '1.0'
@@ -6012,7 +6015,7 @@ SuessR: 0.1.3
 SummaryLasso: 1.2.1
 Sunclarco: 1.0.0
 Sunder: 0.0.4
-SunsVoc: 0.1.1
+SunsVoc: 0.1.2
 SunsetTSA: 1.0.0
 SunterSampling: 1.0.1
 SupMZ: 0.2.0
@@ -6080,7 +6083,7 @@ TCC: 1.1.3
 TCGA2STAT: '1.2'
 TCGAretriever: '1.5'
 TCIApathfinder: 1.0.6
-TCIU: 1.1.0
+TCIU: 1.2.0
 TDA: 1.7.7
 TDAkit: 0.1.0
 TDAmapper: '1.0'
@@ -6937,7 +6940,7 @@ aods3: 0.4-1.1
 aof: 0.1.2
 aoos: 0.5.0
 aop: 1.0.0
-aopdata: 0.2.1
+aopdata: 0.2.2
 aoristic: 1.1.0
 aos: 0.1.0
 apTreeshape: 1.5-0.1
@@ -7110,7 +7113,7 @@ asymptor: '1.0'
 asypow: 2015.6.25
 ata: 1.1.1
 atable: 0.1.10
-atakrig: 0.9.7
+atakrig: 0.9.8
 atlantistools: 0.4.3
 atlas: 1.0.0
 atm: 0.1.0
@@ -7447,7 +7450,7 @@ betaboost: 1.0.1
 betacal: 0.1.0
 betadiv: 1.0.1
 betafam: '1.0'
-betafunctions: 1.4.4
+betafunctions: 1.5.0
 betalink: 2.2.1
 betapart: 1.5.4
 betaper: 1.1-2
@@ -8943,7 +8946,7 @@ cumstats: '1.0'
 cumulocityr: 0.1.0
 cuperdec: 1.0.0
 curephEM: 0.1.6
-curl: '4.3'
+curl: 4.3.1
 curlconverter: 0.7.0
 currentSurvival: '1.0'
 curry: 0.1.1
@@ -9045,7 +9048,7 @@ dapr: 0.0.3
 daqapo: 0.3.1
 darch: '0.9'
 darksky: 1.3.0
-dartR: 1.9.4
+dartR: 1.9.6
 darts: '1.0'
 dash: 0.5.0
 dashCoreComponents: 1.10.0
@@ -9129,6 +9132,7 @@ dbEmpLikeGOF: 1.2.4
 dbEmpLikeNorm: 1.0.0
 dbWebForms: 0.1.0
 dbarts: 0.9-19
+dbd: 0.0-8
 dbfaker: 0.1.0
 dbflobr: 0.1.0
 dbhydroR: 0.2-8
@@ -9957,7 +9961,7 @@ eltr: 0.1.0
 em2: '0.9'
 emIRT: 0.0.11
 emax.glm: 0.1.2
-emayili: 0.4.8
+emayili: 0.4.10
 emba: 0.1.8
 embed: 0.1.4
 embryogrowth: '8.0'
@@ -10639,7 +10643,7 @@ flexiblas: 3.0.0
 flexmet: 1.0.0.0
 flexmix: 2.3-17
 flexmixNL: 0.0.1
-flexpolyline: 0.2.2
+flexpolyline: 0.2.3
 flexrsurv: 1.4.5
 flexsurv: '2.0'
 flexsurvcure: 1.2.0
@@ -11021,7 +11025,7 @@ gateR: 0.1.8
 gatepoints: 0.1.4
 gauseR: '1.0'
 gaussDiff: '1.1'
-gausscov: 0.1.0
+gausscov: 0.1.1
 gaussfacts: 0.0.2
 gaussplotR: 0.2.3
 gausspred: 1.0-0
@@ -11314,7 +11318,7 @@ ggdmc: 0.2.6.0
 gge: '1.6'
 ggeasy: 0.1.3
 ggedit: 0.3.1
-ggeffects: 1.0.2
+ggeffects: 1.1.0
 ggenealogy: 1.0.1
 ggetho: 0.3.6
 ggfan: 0.1.3
@@ -11419,7 +11423,7 @@ ggvis: 0.4.7
 ggvoronoi: 0.8.4
 ggwordcloud: 0.5.0
 ggx: 0.1.1
-gh: 1.2.1
+gh: 1.3.0
 ghcm: 1.0.0
 ghee: 0.1.0
 ghibli: 0.3.2
@@ -11621,7 +11625,7 @@ gpg: 1.2.2
 gphmm: 0.99.0
 gpindex: 0.2.5
 gpk: '1.0'
-gplite: 0.11.1
+gplite: 0.12.0
 gplm: 0.7-4
 gplots: 3.1.1
 gpls: 1.3.1
@@ -11992,7 +11996,7 @@ hildareadR: 0.2.0
 hillR: 0.5.1
 hilldiv: 1.5.1
 hillmakeR: '0.2'
-himach: 0.1.1
+himach: 0.1.2
 hindex: 0.2.0
 hindexcalculator: 1.0.0
 hint: 0.1-1
@@ -12413,7 +12417,7 @@ influence.ME: 0.9-9
 influence.SEM: '2.2'
 influenceAUC: 0.1.2
 influenceR: 0.1.0
-influential: 2.2.1
+influential: 2.2.2
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
 infochimps: '0.3'
@@ -12735,6 +12739,7 @@ jtools: 2.1.3
 jtrans: 0.2.1
 jubilee: 0.3.3
 jug: 0.1.7
+juicr: '0.1'
 junctions: 1.1.1
 junr: 0.1.3
 justifier: 0.1.0
@@ -13529,6 +13534,7 @@ mapReduce: 1.2.6
 mapSpain: 0.2.3
 mapStats: '2.4'
 mapaccuracy: 0.1.0
+mapbayr: 0.4.1
 mapboxapi: '0.2'
 mapboxer: 0.4.0
 mapcan: 0.0.1
@@ -13714,7 +13720,7 @@ md: 1.0.4
 md.log: 0.1.1
 mda: 0.5-2
 mdapack: 0.0.2
-mdatools: 0.11.4
+mdatools: 0.11.5
 mdbr: 0.1.2
 mde: 0.3.0
 mded: 0.1-2
@@ -13877,7 +13883,7 @@ mev: 1.13.1
 mewAvg: 0.3.0
 mexhaz: '1.10'
 mfGARCH: 0.2.0
-mfaces: 0.1-2
+mfaces: 0.1-3
 mfblock: '1.0'
 mfbvar: 0.5.6
 mfdb: 6.2-0
@@ -14316,7 +14322,7 @@ move: 4.0.6
 moveHMM: '1.7'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.3
-movecost: '0.6'
+movecost: '0.7'
 mozzie: 0.1.0
 mp: 0.4.1
 mpMap: '1.14'
@@ -15828,7 +15834,7 @@ piratings: 0.1.9
 pisaRT: 2.0.1
 pitchRx: 1.8.2
 piton: 1.0.0
-pivmet: 0.3.0
+pivmet: 0.4.0
 pivot: 18.4.17
 pivotaltrackR: 0.2.0
 pivottabler: 1.5.1
@@ -16400,6 +16406,7 @@ pumilioR: 1.3.1
 puniform: 0.2.4
 pureseqtmr: '1.2'
 purge: 0.2.1
+purgeR: '1.0'
 purging: 1.0.0
 purrr: 0.3.4
 purrrlyr: 0.0.7
@@ -16897,6 +16904,7 @@ rbi: 0.10.3
 rbi.helpers: 0.3.2
 rbibutils: 2.1.1
 rbin: 0.2.0
+rbioapi: 0.7.0
 rbiom: 1.0.2
 rbiorxiv: 0.2.1
 rbiouml: '1.10'
@@ -18500,7 +18508,7 @@ simplecolors: 0.1.1
 simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simpleroptions: 0.2.0
-simplevis: 2.6.0
+simplevis: 3.0.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -18977,7 +18985,7 @@ splot: 0.5.1
 spls: 2.2-3
 splus2R: 1.3-3
 splusTimeDate: 2.5.2
-splusTimeSeries: 1.5.0-75
+splusTimeSeries: 1.5.2
 spm: 1.2.0
 spm12r: 2.8.3
 spmoran: 0.2.1
@@ -19568,7 +19576,7 @@ tapkee: '1.2'
 tapnet: '0.3'
 tarchetypes: 0.1.1
 targeted: 0.1.1
-targets: 0.4.1
+targets: 0.4.2
 tashu: 0.1.1
 taskPR: '0.34'
 taskscheduleR: '1.5'
@@ -19652,7 +19660,7 @@ tergmLite: 2.2.1
 term: 0.3.1
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.1-17
+terra: 1.2-5
 terrainmeshr: 0.1.0
 terrainr: 0.4.0
 tesseract: '4.1'
@@ -19808,7 +19816,7 @@ tidyquery: 0.2.2
 tidyqwi: 0.1.2
 tidyr: 1.1.3
 tidyrules: 0.1.5
-tidyselect: 1.1.0
+tidyselect: 1.1.1
 tidyseurat: 0.2.0
 tidysq: 1.1.0
 tidystats: '0.5'
@@ -19985,7 +19993,7 @@ tradeCosts: 0.3-1
 tradestatistics: '1.1'
 trafo: 1.0.1
 trainR: 0.0.1
-traineR: 1.0.1
+traineR: 1.6.1
 traipse: 0.2.0
 traitdataform: 0.6.5
 traitr: '0.9'
@@ -20279,7 +20287,7 @@ uniqtag: '1.0'
 uniqueAtomMat: 0.1-3-2
 unisensR: 0.3.3
 unitedR: '0.4'
-unitizer: 1.4.9
+unitizer: 1.4.14
 units: 0.7-1
 unittest: 1.4-0
 univOutl: '0.3'
@@ -20633,7 +20641,7 @@ webddx: 0.1.0
 webdeveloper: 0.1.0
 webdriver: 1.0.6
 webex: 0.9.1
-webfakes: 1.1.2
+webfakes: 1.1.3
 webglobe: 1.0.3
 webmockr: 0.8.0
 webp: '1.0'
@@ -20663,6 +20671,7 @@ weights: 1.0.1
 weirs: '0.25'
 welchADF: 0.3.2
 wellknown: 0.7.2
+welo: 0.1.0
 wesanderson: 0.3.6
 wethepeople: 0.6.1
 wevid: 0.6.2
@@ -20943,6 +20952,7 @@ zipcodeR: 0.3.0
 zipfR: 0.6-70
 zipfextR: 1.0.2
 ziphsmm: 2.0.6
+zlog: 1.0.0
 zmatrix: '1.1'
 zoeppritz: 1.0-8
 zoib: 1.5.4
