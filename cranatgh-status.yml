@@ -110,7 +110,7 @@ ARES: '1.2'
 ARHT: 0.1.0
 ARIbrain: '0.2'
 AROC: 1.0-3
-ARPobservation: 1.2.0
+ARPobservation: 1.2.1
 ART: '1.0'
 ARTIVA: '1.2'
 ARTP: 2.0.5
@@ -1199,7 +1199,7 @@ DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
 DBItest: 1.7.0
 DBKGrad: '1.7'
-DBfit: '1.0'
+DBfit: '2.0'
 DCA: '2.0'
 DCCA: 0.1.1
 DCD: 0.1.0
@@ -4411,7 +4411,7 @@ Quartet: 1.2.2
 QuasiSeq: 1.0-10-2
 Quor: '0.1'
 R.SamBada: 0.1.2
-R.cache: 0.14.0
+R.cache: 0.15.0
 R.devices: 2.17.0
 R.filesets: 2.14.0
 R.huge: 0.9.0
@@ -5324,7 +5324,7 @@ Rpoppler: 0.1-0
 Rprofet: 2.2.1
 Rpvt: 0.1.1
 Rquake: 2.4-4
-Rquefts: 1.0-7
+Rquefts: 1.2-1
 Rramas: 0.1-6
 Rraven: 1.0.13
 Rrdrand: 0.1-16
@@ -5819,7 +5819,7 @@ Simpsons: 0.1.0
 SimuChemPC: '1.3'
 SimultAnR: '1.1'
 SinIW: '0.2'
-SingleCaseES: 0.4.3
+SingleCaseES: 0.4.4
 SiteAdapt: 1.1.0
 SitesInterest: '1.0'
 SixSigma: 0.9-52
@@ -6702,7 +6702,7 @@ actuaryr: 1.1.1
 acumos: 0.4-1
 ada: 2.0-5
 adabag: '4.2'
-adagio: 0.7.1
+adagio: 0.8.4
 adamethods: 1.2.1
 adapr: 2.0.0
 adapt: '1.0'
@@ -6902,7 +6902,7 @@ anfis: 0.99.1
 anglr: 0.7.0
 angstroms: 0.0.1
 aniDom: 0.1.5
-anim.plots: 0.2.1
+anim.plots: 0.2.2
 animalEKF: '1.1'
 animalTrack: 1.0.0
 animaltracker: 0.2.0
@@ -7436,7 +7436,7 @@ benchmarkme: 1.0.7
 benchmarkmeData: 1.0.4
 benchr: 0.2.5
 bender: 0.1.1
-benford: 0.1.0
+benford: 0.2.0
 benford.analysis: 0.1.5
 bentcableAR: 0.3.0
 benthos: 1.3-6
@@ -9647,7 +9647,7 @@ dse1: 2011.11-2
 dse2: 2011.11-2
 dseplus: 2006.4-1
 dsims: 0.1.1
-dslabs: 0.7.3
+dslabs: 0.7.4
 dslice: 1.2.0
 dsm: 2.3.1
 dsmisc: 0.3.3
@@ -9830,7 +9830,7 @@ ecoreg: 0.2.3
 ecorest: 1.0.0
 ecoretriever: '0.2'
 ecoseries: 0.1.5
-ecosim: 1.3-1
+ecosim: 1.3-2
 ecospace: 1.4.2
 ecospat: '3.2'
 ecostats: 0.1.4
@@ -9903,7 +9903,7 @@ eggCounts: '2.3'
 egoTERGM: 2.1.1
 egonet: '1.2'
 egor: 0.21.02
-eha: 2.8.5
+eha: 2.9.0
 ehaGoF: 0.1.1
 ehelp: '1.2'
 ei: 1.3-3
@@ -11097,7 +11097,7 @@ gemlog: '0.41'
 gemmR: 1.3-2
 gemma2: 0.1.3
 gems: 1.1.1
-gemtc: 0.8-8
+gemtc: 1.0-0
 gemtc.jar: 0.14.3
 gen2stage: '1.0'
 gen3sis: '1.2'
@@ -11478,7 +11478,7 @@ gldist: '2160.2'
 gldrm: '1.5'
 glinternet: 1.0.11
 gllm: '0.37'
-gllvm: 1.2.3
+gllvm: 1.3.0
 glm.ddR: 0.1.1
 glm.deploy: 1.0.4
 glm.predict: 4.0-0
@@ -14268,7 +14268,7 @@ momentuHMM: 1.5.2
 momr: '1.1'
 monaco: 0.2.1
 mondate: 0.10.02
-mongolite: 2.3.0
+mongolite: 2.3.1
 mongopipe: 0.1.1
 monitoR: 1.0.7
 monkeylearn: 0.2.0
@@ -14615,7 +14615,7 @@ naaccr: 1.0.0
 nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.17.1
-naijR: 0.2.1
+naijR: 0.2.2
 naivebayes: 0.9.7
 naivereg: 1.0.5
 nakagami: 1.0.0
@@ -15160,7 +15160,7 @@ opendotaR: 0.1.4
 openintro: 2.1.0
 openmetrics: 0.3.0
 opensensmapr: 0.5.1
-openssl: 1.4.3
+openssl: 1.4.4
 opentick: 0.1-1
 opentimsr: 1.0.5
 opentraj: '1.0'
@@ -15433,7 +15433,7 @@ parallelMap: 1.5.0
 parallelPlot: 0.1.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
-parallelly: 1.24.0
+parallelly: 1.25.0
 param6: 0.1.0
 paramGUI: 2.1.4
 parameters: 0.13.0
@@ -16256,7 +16256,7 @@ processcontrol: 0.1.0
 processdata: '0.8'
 processmapR: 0.3.4
 processmonitR: 0.1.0
-processx: 3.5.1
+processx: 3.5.2
 procmaps: 0.0.3
 prodest: 1.0.1
 prodigenr: 0.5.0
@@ -17409,7 +17409,7 @@ rknn: 1.2-1
 rkt: '1.6'
 rkvo: '0.1'
 rlandscape: '1.0'
-rlang: 0.4.10
+rlang: 0.4.11
 rlas: 1.4.0
 rlc: 0.3.0
 rld: '1.0'
@@ -17523,7 +17523,7 @@ robustHD: 0.6.1
 robustMVMR: 0.1.0
 robustSingleCell: 0.1.1
 robustX: 1.2-4
-robustarima: 0.2.5
+robustarima: 0.2.6
 robustbase: 0.93-7
 robustfa: 1.0-5
 robustgam: 0.1.7
@@ -18127,7 +18127,7 @@ seasonalclumped: 0.3.2
 seasonalview: '0.3'
 seastests: 0.14.2
 seawaveQ: 2.0.2
-secr: 4.3.3
+secr: 4.4.1
 secrdesign: 2.5.11
 secret: 1.1.0
 secrettext: 0.1.0
@@ -18560,7 +18560,7 @@ sivipm: 1.1-4
 sivs: 0.2.4
 sizeMat: 1.1.2
 sjPlot: 2.8.7
-sjdbc: 1.6.0
+sjdbc: 1.6.1
 sjlabelled: 1.1.7
 sjmisc: 2.8.6
 sjstats: 0.18.1
@@ -20818,7 +20818,7 @@ x12GUI: 0.13.0
 x13binary: 1.1.39-3
 x3ptools: 0.0.2
 xLLiM: '2.2'
-xROI: 0.9.18
+xROI: 0.9.19
 xRing: 0.1.0
 xSub: 3.0.1
 xVA: 0.8.5
