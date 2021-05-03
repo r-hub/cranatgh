@@ -327,7 +327,7 @@ BClustLonG: 0.1.3
 BDEsize: '1.5'
 BDP2: 0.1.3
 BDWreg: 1.2.0
-BDgraph: '2.63'
+BDgraph: '2.64'
 BE: 0.1.2
 BEACH: 1.3.1
 BEANSP: '1.0'
@@ -348,7 +348,7 @@ BGGM: 2.0.3
 BGLR: 1.0.8
 BGPhazard: 2.1.0
 BGSIMD: '1.0'
-BGVAR: 2.1.5
+BGVAR: 2.2.0
 BGmisc: '0.1'
 BH: 1.75.0-0
 BHAI: 0.99.2
@@ -2208,7 +2208,7 @@ GUILDS: '1.3'
 GUIProfiler: 2.0.1
 GUIgems: '0.1'
 GUTS: 1.1.1
-GUniFrac: '1.1'
+GUniFrac: '1.2'
 GVARX: '1.3'
 GWAF: '2.2'
 GWASExactHW: '1.01'
@@ -2569,7 +2569,7 @@ IDSpatialStats: 0.3.5
 IDTurtle: '1.2'
 IDetect: 0.1.0
 IDmeasurer: 1.0.0
-IDmining: 1.0.6
+IDmining: 1.0.7
 IETD: 1.0.0
 IFAA: 1.0.1
 IFC: 0.1.1
@@ -2743,6 +2743,7 @@ JAGUAR: 3.0.1
 JASPAR: 0.0.1
 JBTools: 0.7.2.9
 JBrowseR: 0.7.1
+JCRImpactFactor: 1.0.0
 JFE: 2.5.1
 JGEE: '1.1'
 JGL: 2.3.1
@@ -2829,7 +2830,7 @@ KarsTS: 2.4.1
 KbMvtSkew: 1.0.2
 KenSyn: '0.3'
 Kendall: '2.2'
-KernSmooth: 2.23-18
+KernSmooth: 2.23-20
 KernSmoothIRT: '6.4'
 KernelICA: 0.1.0
 KernelKnn: 1.1.0
@@ -3082,7 +3083,7 @@ MARSS: 3.11.3
 MARSSVRhybrid: 0.1.0
 MARVEL: 1.1.0
 MARX: '0.2'
-MASS: 7.3-53.1
+MASS: 7.3-54
 MASSExtra: 1.1.2
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
@@ -3459,7 +3460,7 @@ MetaAnalyser: 0.2.1
 MetaClean: 1.0.0
 MetaComp: 1.1.2
 MetaCycle: 1.2.0
-MetaDBparse: 1.0.0
+MetaDBparse: 2.0.0
 MetaDE: '1.0'
 MetaIntegration: 0.1.2
 MetaIntegrator: 2.1.3
@@ -3648,7 +3649,7 @@ NBR: 0.1.3
 NBShiny: 0.1.0
 NBShiny2: 0.1.0
 NBShiny3: 0.1.0
-NCA: 3.1.0
+NCA: 3.1.1
 NCBI2R: 1.4.7
 NCSCopula: 1.0.1
 NCSampling: '1.0'
@@ -3801,7 +3802,7 @@ NostalgiR: 1.0.2
 Nozzle.R1: 1.1-1
 Numero: 1.8.0
 NutrienTrackeR: 1.1.0
-OAIHarvester: 0.3-1
+OAIHarvester: 0.3-2
 OBASpatial: '1.8'
 OBMbpkg: 1.0.0
 OBRE: 0.1-0
@@ -5086,7 +5087,7 @@ RcppMsgPack: 0.2.3
 RcppNLoptExample: 0.0.1
 RcppNumerical: 0.4-0
 RcppOctave: '0.9'
-RcppParallel: 5.1.2
+RcppParallel: 5.1.3
 RcppProgress: 0.4.2
 RcppQuantuccia: 0.0.3
 RcppRedis: 0.1.10
@@ -5487,6 +5488,7 @@ SEMsens: 1.0.1
 SETPath: '1.0'
 SEchart: '0.1'
 SFS: 0.1.4
+SFSI: 0.3.0
 SFtools: 0.1.0
 SGB: 1.0.1
 SGCS: '2.7'
@@ -5865,9 +5867,9 @@ SoftClustering: 1.1902.2
 SoftRandomForest: 0.1.0
 SoilHyP: 0.1.5
 SoilR: 1.1-23
-SoilTaxonomy: 0.1.2
+SoilTaxonomy: 0.1.3
 Sojourn: 1.0.2
-Sojourn.Data: 0.2.0
+Sojourn.Data: 0.3.0
 SolveLS: '1.0'
 SolveRationalMatrixEquation: 0.1.0
 SolveSAPHE: 2.1.0
@@ -6329,6 +6331,7 @@ TrialSize: '1.4'
 TrioSGL: 1.1.0
 TripleR: 1.5.3
 TropFishR: 1.6.2
+TrtCombo.FactorialExp.SR: 4.0.4
 TruncatedNormal: '2.2'
 Tsphere: '1.0'
 TukeyC: 1.3-3
@@ -7464,7 +7467,7 @@ bettermc: 1.1.1
 beyondWhittle: 1.1.1
 bezier: 1.1.2
 bfa: '0.4'
-bfast: 1.5.7
+bfast: 1.6.0
 bfork: 0.1.2
 bfp: 0.0-42
 bfsMaps: 0.9.6
@@ -7742,7 +7745,7 @@ boost: 1.0-0
 boostSeq: '1.0'
 boostmtree: 1.5.0
 boostr: 1.0.0
-boot: 1.3-27
+boot: 1.3-28
 boot.heterogeneity: 1.1.2
 bootComb: 1.0.1
 bootES: '1.2'
@@ -8275,7 +8278,7 @@ clam: 2.3.8
 clampSeg: 1.1-0
 clarifai: 0.4.2
 clarkeTest: 0.1.0
-class: 7.3-18
+class: 7.3-19
 classGraph: 0.7-5
 classInt: 0.4-3
 classPP: '1.0'
@@ -8889,6 +8892,7 @@ crul: 1.1.0
 crunch: 1.28.0
 crunchy: 0.3.3
 cruts: '1.1'
+cry: 0.4.1
 crypto: 1.1.3
 cryst: 0.1.0
 csSAM: 1.2.4
@@ -9123,7 +9127,7 @@ datplot: 1.0.0
 datr: 0.1.0
 datrProfile: 0.1.0
 dave: '2.0'
-dawai: 1.2.3
+dawai: 1.2.5
 daySupply: 0.1.0
 daymetr: '1.4'
 db.r: 0.1.3
@@ -9345,7 +9349,7 @@ diagmeta: 0.4-0
 diagonals: 5.2.0
 diagram: 1.6.5
 dialr: 0.3.2
-dialrjars: 8.12.20
+dialrjars: 8.12.22
 dials: 0.0.9
 diamonds: 1.0-5
 diaplt: 1.3.0
@@ -9508,7 +9512,7 @@ dlnm: 2.4.5
 dlookr: 0.4.4
 dlsem: 2.4.6
 dlstats: 0.1.4
-dm: 0.1.13
+dm: 0.2.0
 dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
@@ -9838,6 +9842,7 @@ ecotox: 1.4.2
 ecotoxicology: 1.0.1
 ecoval: 1.2.7
 ecp: 3.1.3
+ecpc: '2.0'
 ecr: 2.1.0
 ectotemp: 0.2.0
 ed50: 0.1.1
@@ -10130,7 +10135,7 @@ erratum: 2.1.0
 errint: '1.0'
 errorist: 0.1.0
 errorizer: 0.2.1
-errorlocate: 0.9.8
+errorlocate: 0.9.9
 errors: 0.3.6
 errum: 0.0.3
 es.dif: 1.0.2
@@ -11717,7 +11722,7 @@ grobblR: 0.2.0
 groc: 1.0.8
 grofit: '1.1'
 gromovlab: 0.8-3
-groundhog: 1.3.2
+groundhog: 1.4.0
 groupICA: 0.1.1
 groupRemMap: 0.1-0
 groupWQS: 0.0.3
@@ -11759,6 +11764,7 @@ gscounts: 0.1-3
 gset: 1.1.0
 gsg: '2.0'
 gsheet: 0.4.5
+gsignal: 0.3-1
 gsisdecoder: 0.0.1
 gskat: '1.0'
 gsl: 2.1-6
@@ -12990,6 +12996,7 @@ latentnet: 2.10.5
 latentnetHRT: 0.7-18
 later: 1.2.0
 latex2exp: 0.5.0
+latexdiffr: 0.1.0
 latexpdf: 0.1.6
 latrend: 1.1.2
 latte: 0.2.1
@@ -13162,7 +13169,7 @@ likeLTD: 6.3.0
 likelihood: '1.7'
 likelihoodAsy: '0.51'
 likelihoodExplore: 0.1.0
-likelihoodR: 1.0.3
+likelihoodR: 1.0.4
 likert: 1.3.5
 lilikoi: 2.0.4
 lillies: 0.2.9
@@ -14385,7 +14392,7 @@ msaFACE: 0.1.0
 msaR: 0.5.0
 msae: 0.1.3
 msaeDB: 0.2.1
-msaeRB: 0.1.4
+msaeRB: 0.1.5
 msaenet: '3.1'
 msap: 1.1.8
 msarc: 1.4.5
@@ -14855,7 +14862,7 @@ nnc: '1.14'
 nncRda: '1.87'
 nnclust: '2.2'
 nneo: 0.1.0
-nnet: 7.3-15
+nnet: 7.3-16
 nnetpredint: '1.2'
 nnfor: 0.9.6
 nngeo: 0.4.2
@@ -15102,6 +15109,7 @@ ompr.roi: 0.8.0
 omsvg: 0.1.0
 omu: 1.0.4
 omxr: 0.3.3
+onbabynames: 0.0.1
 oncomodel: '1.0'
 oncrawlR: 0.2.0
 ondisc: 1.0.0
@@ -15483,7 +15491,7 @@ parzer: 0.4.0
 pass: '1.0'
 pass.lme: 0.9.0
 passport: 0.3.0
-passt: 0.1.1
+passt: 0.1.3
 password: 1.0-0
 pasta: 0.1.0
 pastecs: 1.3.21
@@ -15838,7 +15846,7 @@ pivmet: 0.4.0
 pivot: 18.4.17
 pivotaltrackR: 0.2.0
 pivottabler: 1.5.1
-pixarfilms: 0.0.1
+pixarfilms: 0.2.0
 pixelpuzzle: 1.0.0
 pixels: 0.1.1
 pixiedust: 0.9.1
@@ -16383,7 +16391,7 @@ ptm: 0.2.2
 ptmixed: 1.0.3
 ptproc: '1.0'
 pts2polys: 0.1.3
-ptspotter: '1.0'
+ptspotter: 1.0.1
 ptstem: 0.0.7
 ptsuite: 1.0.0
 ptvapi: 2.0.1
@@ -16855,7 +16863,7 @@ rarms: 1.0.0
 rasciidoc: 3.1.1
 rasclass: 0.2.2
 rase: 0.3-3
-raster: 3.4-5
+raster: 3.4-10
 rasterDT: 0.3.1
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.1
@@ -17007,6 +17015,7 @@ rdtLite: '1.3'
 rdwd: 1.5.0
 rdwplus: 0.1.0
 rdyncall: 0.7.5
+re2: 0.1.0
 re2r: 0.2.0
 reGenotyper: 1.2.0
 reReg: 1.4.0
@@ -17238,7 +17247,7 @@ restrictedMVN: '1.0'
 restriktor: 0.2-800
 resumer: 0.0.5
 rethinker: 1.1.0
-reticulate: '1.19'
+reticulate: '1.20'
 retimes: 0.1-2
 retistruct: 0.6.3
 retractcheck: 1.0.0
@@ -17760,7 +17769,7 @@ rsunlight: 0.7.0
 rsurface: 1.1.0
 rsurfer: '0.2'
 rsvd: 1.0.5
-rsvg: 2.1.1
+rsvg: 2.1.2
 rsyncrosim: 1.2.9
 rsyntax: 0.1.1
 rsyslog: 1.0.1
@@ -17992,6 +18001,7 @@ sbtools: 1.1.14
 sbw: 1.1.1
 scBio: 0.1.6
 scDIFtest: 0.1.1
+scINSIGHT: 0.1.0
 scLink: 1.0.1
 scMappR: 1.0.1
 scModels: 1.0.2
@@ -18498,6 +18508,7 @@ simmr: 0.4.5
 simode: 1.2.0
 simone: 1.0-4
 simpleCache: 0.4.2
+simpleMH: 0.1.0
 simpleMLP: 1.0.0
 simpleNeural: 0.1.3
 simplePHENOTYPES: 1.3.0
@@ -18859,7 +18870,7 @@ spatcounts: '1.1'
 spate: '1.7'
 spatgraphs: 3.2-2
 spathial: 0.1.2
-spatial: 7.3-13
+spatial: 7.3-14
 spatial.gev.bma: '1.0'
 spatial.tools: 1.6.2
 spatialClust: 1.1.1
@@ -18871,7 +18882,7 @@ spatialfusion: 0.6-2
 spatialkernel: 0.4-8
 spatialnbda: '1.0'
 spatialprobit: 0.9-11
-spatialreg: 1.1-5
+spatialreg: 1.1-8
 spatialrisk: 0.6.7
 spatialsample: 0.1.0
 spatialsegregation: '2.45'
@@ -19510,7 +19521,7 @@ synlik: 0.1.2
 synoptReg: 1.2.1
 syntaxr: 0.8.0
 synthACS: 1.6.0
-synthesis: 1.2.1
+synthesis: 1.2.2
 synthesisr: 0.3.0
 synthpop: 1.6-0
 sys: '3.4'
@@ -19791,7 +19802,7 @@ tidyfast: 0.2.1
 tidyfst: 0.9.9
 tidyft: 0.4.5
 tidygapminder: 0.1.1
-tidygate: 0.4.0
+tidygate: 0.4.7
 tidygenomics: 0.1.2
 tidygeoRSS: 0.0.1
 tidygeocoder: 1.0.3
@@ -20471,7 +20482,7 @@ versions: '0.3'
 vertexenum: 1.0.2
 vesselr: 0.2.1
 vetools: 1.3-28
-vetr: 0.2.9
+vetr: 0.2.13
 vfcp: 1.4.0
 vfinputs: 0.1.0
 vfprogression: 0.7.1
