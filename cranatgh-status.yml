@@ -204,7 +204,7 @@ AnalyzeIO: 0.1.1
 AnalyzeTS: '2.3'
 AncestryMapper: '2.0'
 AnchorRegression: 0.1.3
-Andromeda: 0.4.0
+Andromeda: 0.4.1
 AnglerCreelSurveySimulation: 1.0.2
 Animal: '1.0'
 AnimalAPD: 1.0.0
@@ -244,6 +244,7 @@ AsthmaNHANES: 1.1.0
 AsyK: 1.5.4
 AsynchLong: '2.1'
 AtelieR: '0.24'
+AtmChile: 0.1.0
 AtmRay: '1.31'
 AugmenterR: 0.1.0
 AurieLSHGaussian: 0.2.0
@@ -357,6 +358,7 @@ BHMSMAfMRI: '1.3'
 BHPMF: '1.0'
 BHSBVAR: 3.0.0
 BHTSpack: '0.6'
+BI: 1.0.0
 BICORN: 0.1.0
 BIEN: 1.2.4
 BIFIEsurvey: 3.3-12
@@ -481,6 +483,7 @@ BayesCTDesign: 0.6.0
 BayesCombo: '1.0'
 BayesComm: 0.1-2
 BayesDA: 2012.04-1
+BayesDesign: 0.1.1
 BayesESS: 0.1.19
 BayesFM: 0.1.4
 BayesFactor: 0.9.12-4.2
@@ -827,7 +830,7 @@ COST: 0.1.0
 COUNT: 1.3.4
 COUSCOus: 1.0.0
 COVID19: 2.3.2
-COVIDIBGE: 0.1.3
+COVIDIBGE: 0.1.4
 COZIGAM: 2.0-3
 COveR: 1.0.3
 CP: '1.6'
@@ -1004,7 +1007,7 @@ ClustOfVar: '1.1'
 ClustVarLV: 2.0.1
 Cluster.OBeu: 1.2.3
 ClusterBootstrap: 1.1.2
-ClusterR: 1.2.3
+ClusterR: 1.2.4
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.3
 ClusteredMutations: 1.0.1
@@ -1346,6 +1349,7 @@ DTRreg: '1.7'
 DTSg: 0.7.0
 DTWBI: '1.1'
 DTWUMI: '1.0'
+DTwrappers: 0.0.1
 DUBStepR: 1.1.1
 DVHmetrics: 0.4.1
 DWBmodelUN: 1.0.0
@@ -1498,6 +1502,7 @@ DoE.multi.response: 0.1.0
 DoE.wrapper: '0.11'
 DoEstRare: '0.2'
 DoTC: '0.2'
+DockerParallel: 1.0.0
 Dodge: 0.9-2
 Dominance: 1.2.0
 Dopt: 0.1-4
@@ -1835,7 +1840,7 @@ FIT: 0.0.6
 FITSio: 2.1-6
 FKBL: 0.50-4
 FKF: 0.1.7
-FKF.SP: 0.1.1
+FKF.SP: 0.1.2
 FKSUM: 0.1.4
 FLAME: 2.0.0
 FLCore: 1.4-4
@@ -2947,7 +2952,7 @@ LSC: 0.1.5
 LSD: 4.1-0
 LSDinterface: 0.4.0
 LSDsensitivity: 0.3.2
-LSMRealOptions: 0.1.0
+LSMRealOptions: 0.2.0
 LSMonteCarlo: '1.0'
 LSPFP: 1.0.3
 LSRS: 0.2.0
@@ -3064,7 +3069,7 @@ MADAM: '1.2'
 MADPop: 1.1.2
 MAFDash: 0.1.0
 MAGNAMWAR: 2.0.4
-MAINT.Data: 2.6.0
+MAINT.Data: 2.6.1
 MALDIquant: 1.19.3
 MALDIquantForeign: '0.12'
 MALDIrppa: 1.0.5
@@ -3414,7 +3419,7 @@ MatchLinReg: 0.7.3
 MatchThem: 1.0.0
 Matching: 4.9-9
 MatchingFrontier: 1.0.0
-Matrix: 1.3-2
+Matrix: 1.3-3
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.9.5
 MatrixEQTL: '2.3'
@@ -3879,7 +3884,7 @@ OneTwoSamples: 1.0-3
 OpVaR: 1.1.1
 OpasnetUtils: '1.3'
 OpenCL: 0.2-1
-OpenImageR: 1.1.7
+OpenImageR: 1.1.8
 OpenLand: 1.0.1
 OpenML: '1.10'
 OpenMPController: 0.2-5
@@ -3913,7 +3918,7 @@ OrdNor: 2.2.3
 OrdinalLogisticBiplot: '0.4'
 OrgMassSpecR: 0.5-3
 OriGen: 1.4.3
-OrthoPanels: 1.1-3
+OrthoPanels: 1.1-4
 OscillatorGenerator: 0.1.0
 OsteoBioR: 0.1.1
 OutbreakTools: 0.1-1
@@ -4039,14 +4044,14 @@ PMCMRplus: 1.9.0
 PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.16-0
-PNADcIBGE: 0.6.3
+PNADcIBGE: 0.6.4
 PNSIBGE: 0.1.2
 PNWColors: 0.1.0
 PO.EN: '1.0'
 POCRE: 0.5.0
 POD: 1.2.0
 POET: '2.0'
-POFIBGE: 0.1.1
+POFIBGE: 0.1.2
 POINT: '1.1'
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
@@ -4928,6 +4933,7 @@ RadioGx: 0.0.2
 RadioSonde: '1.4'
 Radviz: 0.9.2
 RagGrid: 0.2.0
+Rage: 1.0.0
 RainfallErosivityFactor: 0.1.0
 Ramble: 0.1.1
 Rambo: 1.1.1
@@ -5087,7 +5093,7 @@ RcppMsgPack: 0.2.3
 RcppNLoptExample: 0.0.1
 RcppNumerical: 0.4-0
 RcppOctave: '0.9'
-RcppParallel: 5.1.3
+RcppParallel: 5.1.4
 RcppProgress: 0.4.2
 RcppQuantuccia: 0.0.3
 RcppRedis: 0.1.10
@@ -5138,6 +5144,7 @@ ReadImages: 0.1.3.3
 RealVAMS: 0.4-3
 Rearrangement: '2.1'
 RecAssoRules: '1.0'
+Recocrop: 0.3-2
 Recon: 0.3.0.0
 RecordLinkage: 0.4-12.1
 RecordTest: 2.0.0
@@ -6026,7 +6033,7 @@ SuperGauss: 2.0.1
 SuperLearner: 2.0-26
 SuperPCA: 0.3.0
 SuperRanker: 1.2.0
-SuperpixelImageSegmentation: 1.0.3
+SuperpixelImageSegmentation: 1.0.4
 Superpower: 0.1.1
 SuppDists: 1.1-9.5
 SurfaceTortoise: 1.0.2
@@ -6325,6 +6332,7 @@ TreeTools: 1.4.4
 TrendInTrend: 1.1.3
 TrendSLR: '1.0'
 Trendtwosub: 0.0.2
+TriDimRegression: 1.0.0.0
 TriMatch: 0.9.9
 TriadSim: 0.2.0
 TrialSize: '1.4'
@@ -7317,6 +7325,7 @@ bayesPop: 8.1-3
 bayesQR: '2.3'
 bayesSurv: '3.3'
 bayesTFR: 7.0-4
+bayesZIB: 0.0.1
 bayesammi: 0.1.0
 bayesanova: '1.4'
 bayesbio: 1.0.0
@@ -8513,7 +8522,7 @@ colorpatch: 0.1.2
 colorplaner: 0.1.3
 colorr: 1.0.0
 colorscience: 1.0.8
-colorspace: 2.0-0
+colorspace: 2.0-1
 colortools: 0.1.5
 colourlovers: 0.3.6
 colourpicker: 1.1.0
@@ -8764,6 +8773,7 @@ covid19nytimes: 0.1.3
 covid19sf: 0.1.0
 covid19swiss: 0.1.0
 covid19us: 0.1.7
+covidcast: 0.4.2
 covidprobability: 0.1.0
 covidregionaldata: 0.9.0
 covidsymptom: 0.9.2
@@ -9330,7 +9340,7 @@ dfphase1: 1.1.3
 dfpk: 3.5.1
 dfrr: 0.1.4
 dfvad: 0.3.0
-dga: '1.2'
+dga: 2.0.0
 dggridR: 2.0.4
 dglars: 2.1.6
 dglm: 1.8.4
@@ -9408,7 +9418,7 @@ dint: 2.1.3
 dipm: '1.2'
 diproperm: 0.1.0
 dipsaus: 0.1.5
-diptest: 0.75-7
+diptest: 0.76-0
 dipw: 0.1.0
 directPA: '1.5'
 directlabels: 2021.1.13
@@ -9752,7 +9762,7 @@ eNetXplorer: 1.1.2
 ePCR: 0.9.9-11
 eRTG3D: 0.6.3
 eRm: 1.0-2
-eSDM: 0.3.5
+eSDM: 0.3.7
 eVenn: '2.4'
 eadrm: 0.1.3
 eaf: '2.0'
@@ -9957,7 +9967,7 @@ ellipsis: 0.3.2
 elliptic: 1.4-0
 ellipticalsymmetry: 0.1.2
 elmNN: '1.0'
-elmNNRcpp: 1.0.2
+elmNNRcpp: 1.0.3
 elo: 2.1.1
 elpatron: 0.0.4
 elrm: '1.2'
@@ -10907,7 +10917,7 @@ future: 1.21.0
 future.BatchJobs: 0.17.0
 future.apply: 1.7.0
 future.batchtools: 0.10.0
-future.callr: 0.6.0
+future.callr: 0.6.1
 future.tests: 0.2.1
 futureheatwaves: 1.0.3
 fuzzr: 0.2.2
@@ -11199,7 +11209,7 @@ geogrid: 0.1.1
 geohash: 0.3.0
 geohashTools: 0.3.1
 geojson: 0.3.4
-geojsonR: 1.0.9
+geojsonR: 1.1.0
 geojsonio: 0.9.4
 geojsonlint: 0.4.0
 geojsonsf: 2.0.1
@@ -11681,7 +11691,7 @@ grasp: 2.5-7
 grasper: 0.4-4
 grates: 0.1.2
 gratia: 0.6.0
-graticule: 0.1.2
+graticule: 0.1.6
 gratis: 0.2.1
 grattan: 1.9.0.4
 gravitas: 0.1.3
@@ -14792,7 +14802,7 @@ nightmares: 0.0.2
 nilde: 1.1-4
 nima: 0.6.2
 nimble: 0.11.0
-nimbleEcology: 0.3.1
+nimbleEcology: 0.4.0
 nimbleSCR: 0.1.1
 nimbleSMC: 0.10.0
 nipals: '0.7'
@@ -15162,7 +15172,7 @@ opencastR: 0.1.3
 opencpu: 2.2.2
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
-opencv: 0.2.0
+opencv: 0.2.1
 opendatatoronto: 0.1.4
 opendotaR: 0.1.4
 openintro: 2.1.0
@@ -15447,6 +15457,7 @@ paramGUI: 2.1.4
 parameters: 0.13.0
 paramhetero: 0.2.0
 paramlink: 1.1-2
+paramlink2: 1.0.2
 params: 0.7.3
 paramtest: 0.1.0
 paran: 1.5.2
@@ -15892,6 +15903,7 @@ plantecowrap: 1.0.4
 plaqr: '2.0'
 plater: 1.0.3
 platetools: 0.1.3
+platowork: 0.0.1
 playitbyr: 0.2-1
 playwith: 0.9-8
 plde: 0.1.2
@@ -18141,7 +18153,7 @@ secr: 4.4.1
 secrdesign: 2.5.11
 secret: 1.1.0
 secrettext: 0.1.0
-secrlinear: 1.1.1
+secrlinear: 1.1.4
 secsse: 2.0.7
 secuTrialR: 1.0.9
 secure: '0.6'
@@ -18152,6 +18164,7 @@ seecolor: 0.1.0
 seedCCA: '3.0'
 seededlda: 0.6.0
 seedr: 0.3.0
+seedreg: 1.0.0
 seeds: 0.9.1
 seedwater: '2.0'
 seedy: '1.3'
@@ -18209,7 +18222,8 @@ semsfa: '1.1'
 semtree: 0.9.15
 semver: 0.2.0
 semverutils: 0.1.0
-sen2r: 1.4.2
+sen2r: 1.4.3
+sendgridr: 0.2.4
 sendmailR: 1.2-1
 sendplot: 4.0.0
 sensR: 1.5-2
@@ -18283,7 +18297,7 @@ sever: 0.0.6
 severity: '2.0'
 sf: 0.9-8
 sfa: 1.0-1
-sfaR: 0.0.91
+sfaR: 0.1.0
 sfadv: 1.0.1
 sfc: 0.1.0
 sfcr: 0.1.1
@@ -18323,12 +18337,12 @@ shapefiles: '0.7'
 shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
-shar: '1.2'
+shar: 1.2.1
 sharpData: '1.4'
 sharpPen: '1.7'
 sharpeRratio: 1.4.2
 sharpr2: 1.1.1.0
-sharpshootR: '1.8'
+sharpshootR: 1.8.1
 sharx: 1.0-5
 shattering: 1.0.4
 shatteringdt: 0.1.0
@@ -19230,7 +19244,7 @@ stochvol: 3.0.4
 stochvolTMB: 0.1.2
 stockPortfolio: '1.2'
 stockR: 1.0.74
-stockfish: 0.1.1
+stockfish: 0.1.2
 stocks: 1.1.4
 stoichcalc: 1.1-3
 stokes: 1.0-7
@@ -19348,7 +19362,7 @@ superbiclust: '1.1'
 superdiag: '2.0'
 superheat: 0.1.0
 superml: 0.5.3
-supernova: 2.3.0
+supernova: 2.4.0
 superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-6
@@ -19622,7 +19636,7 @@ tcftt: 0.1.0
 tcgsaseq: 2.0.5
 tci: 0.1.0
 tcie: '0.3'
-tcl: 0.1.0
+tcl: 0.1.1
 tcltk: 0.1-1
 tcltk2: 1.2-11
 tclust: 1.4-2
@@ -19886,6 +19900,7 @@ timetree: '1.0'
 timevis: 1.0.0
 timma: 1.2.1
 timsac: 1.3.6
+timsr: 0.0.2
 tinsel: 0.0.1
 tint: 0.1.3
 tinter: 0.1.0
@@ -20228,7 +20243,7 @@ twosamples: 1.1.1
 twostage: 1.0-6
 twostageTE: '1.3'
 twoway: 0.6.3
-twowaytests: '1.0'
+twowaytests: '1.1'
 twslm: 1.0.2
 txshift: 0.3.5
 txtplot: 1.0-4
@@ -20975,7 +20990,7 @@ zooaRch: '1.2'
 zooaRchGUI: 1.0.2
 zoocat: 0.2.0
 zooimage: 5.5.2
-zoolog: 0.3.0
+zoolog: 0.3.1
 zoom: 2.0.4
 zoomgrid: 1.0.0
 zoon: 0.6.5
