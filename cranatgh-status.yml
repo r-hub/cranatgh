@@ -414,7 +414,7 @@ BPEC: 1.3.1
 BPHO: 1.3-0
 BPM: 1.0.0
 BRDT: 0.1.0
-BRETIGEA: 1.0.0
+BRETIGEA: 1.0.3
 BRISC: 1.0.1
 BRL: 0.1.0
 BRugs: 0.9-0
@@ -690,7 +690,7 @@ CADStat: 3.0.8
 CAGExploreR: '1.0'
 CAISEr: 1.0.16
 CALF: 1.0.15
-CALIBERrfimpute: 1.0-1
+CALIBERrfimpute: 1.0-5
 CALINE3: '1.0'
 CAM: '1.0'
 CAMAN: '0.74'
@@ -1239,7 +1239,7 @@ DESP: '0.2'
 DESnowball: '1.0'
 DET: 3.0.1
 DEVis: 1.0.1
-DEoptim: 2.2-5
+DEoptim: 2.2-6
 DEoptimR: 1.0-8
 DEploid: 0.5.3
 DFA: 0.9.0
@@ -3678,7 +3678,7 @@ NHMM: '3.11'
 NHMMfdr: 1.0.6
 NHMSAR: '1.17'
 NHPoisson: '3.3'
-NHSDataDictionaRy: 1.2.2
+NHSDataDictionaRy: 1.2.3
 NHSRdatasets: 0.3.0
 NIPTeR: 1.0.2
 NIRStat: '1.1'
@@ -4045,7 +4045,7 @@ PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.16-0
 PNADcIBGE: 0.6.4
-PNSIBGE: 0.1.2
+PNSIBGE: 0.1.3
 PNWColors: 0.1.0
 PO.EN: '1.0'
 POCRE: 0.5.0
@@ -6995,6 +6995,7 @@ apyramid: 0.1.2
 aqfig: '0.8'
 aqp: '1.29'
 aqr: '0.4'
+aquodom: 0.1.0
 ar.matrix: 0.1.0
 arabic2kansuji: 0.1.1
 arabicStemR: '1.2'
@@ -7601,7 +7602,7 @@ binsreg: 0.2.0
 binst: 0.2.1
 bio.infer: 1.3-6
 bio3d: 2.4-1
-bioC.logs: '1.1'
+bioC.logs: '1.2'
 bioOED: 0.2.1
 bioPN: 1.2.0
 bioRad: 0.5.2
@@ -8342,7 +8343,7 @@ clinfun: 1.0.15
 clinmon: 0.6.0
 clinsig: '1.2'
 clinspacy: 1.0.2
-clipp: 0.1.0
+clipp: 1.0.0
 clipr: 0.7.1
 cliqueMS: 0.3.1
 clisymbols: 1.2.0
@@ -9321,7 +9322,7 @@ devoid: 0.1.1
 devtools: 2.4.0
 dexter: 1.1.2
 dexterMST: 0.9.2
-dextergui: 0.2.2
+dextergui: 0.2.3
 df2json: 0.0.2
 dfCompare: 1.0.0
 dfConn: 0.2.1
@@ -10977,7 +10978,7 @@ gafit: 0.5.1
 gaiah: 0.0.4
 gainML: 0.1.0
 gains: '1.2'
-galah: 1.0.0
+galah: 1.1.0
 galgo: '1.4'
 galts: 1.3.1
 galvanizer: 0.5.1
@@ -12217,7 +12218,7 @@ iMessager: '1.0'
 iNEXT: 2.0.20
 iNOTE: '1.0'
 iNZightMR: 2.2.5
-iNZightPlots: 2.12.6
+iNZightPlots: 2.13.0
 iNZightRegression: 1.3.0
 iNZightTS: 1.5.7
 iNZightTools: 1.11.0
@@ -13974,7 +13975,7 @@ microservices: 0.1.0
 microsimulation: 1.3.4
 microsynth: 2.0.31
 midas: 1.0.1
-midasml: 0.1.4
+midasml: 0.1.5
 midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
@@ -15417,7 +15418,7 @@ palm: 1.1.4
 palmerpenguins: 0.1.0
 palmtree: 0.9-1
 paloma: 1.2.2
-palr: 0.2.0
+palr: 0.3.0
 pals: '1.7'
 paltran: 1.3-0
 pamctdp: 0.3.2
@@ -15611,7 +15612,7 @@ pdfetch: 0.2.4
 pdfminer: '1.0'
 pdfsearch: 0.3.0
 pdftables: '0.1'
-pdftools: 2.3.1
+pdftools: 3.0.0
 pdi: 0.4.2
 pdist: '1.2'
 pdmod: 1.0.1
@@ -16596,7 +16597,7 @@ quantoptr: 0.1.3
 quantreg: '5.85'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
-quantregGrowth: 1.1-0
+quantregGrowth: 1.2-0
 quantregRanger: '1.0'
 quantspec: 1.2-3
 quarks: 1.0.6
@@ -16760,7 +16761,7 @@ rTLS: 0.2.3.3
 rTOFsPRO: '1.4'
 rTRNG: 4.23.1-1
 rTableICC: 1.0.7
-rTensor: 1.4.1
+rTensor: '1.4'
 rTephra: '0.1'
 rTorch: 0.4.2
 rUnemploymentData: 1.1.0
@@ -18046,7 +18047,7 @@ scatterpie: 0.1.6
 scatterplot3d: 0.3-41
 scbursts: '1.6'
 scclust: 0.2.2
-sccore: 0.1.2
+sccore: 0.1.3
 sccr: '2.1'
 scdensity: 1.0.2
 scdhlm: 0.5.2
@@ -18830,7 +18831,7 @@ spam64: 2.6-0
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 1.11.0
+spant: 1.12.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -19138,6 +19139,7 @@ stam: 0.0-1
 stampr: '0.2'
 standGL: '1.1'
 standardize: 0.2.2
+standartox: 0.0.1
 stapler: 0.7.1
 staplr: 3.1.1
 stargazer: 5.2.2
@@ -19299,7 +19301,7 @@ stringr: 1.4.0
 strip: 1.0.0
 stripless: 1.0-3
 striprtf: 0.5.2
-strm: 0.1.1
+strm: 0.1.2
 strptimer: 0.1.0
 strucchange: 1.5-2
 strucchangeRcpp: 1.5-3-1.0.2
@@ -19449,7 +19451,7 @@ svHttp: 0.9-55
 svIDE: 0.9-54
 svKomodo: 0.9-63
 svMisc: 1.1.4
-svSocket: 1.0.1
+svSocket: 1.0.2
 svSweave: 0.9-8
 svTools: 0.9-5
 svUnit: 1.0.6
@@ -20531,6 +20533,7 @@ visNetwork: 2.0.9
 visStatistics: 0.1.1
 visTree: 0.8.1
 visa: 0.1.0
+visachartR: 1.0.2
 visae: 0.1.0
 viscomplexr: 1.1.0
 visdat: 0.5.3
@@ -20811,6 +20814,7 @@ wrMisc: 1.5.4
 wrProteo: 1.4.1
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.2
+wrappedtools: 0.7.6
 wrapr: 2.0.7
 wrassp: 1.0.0
 write.snns: 0.0-4.2
@@ -20899,7 +20903,7 @@ xray: '0.2'
 xrf: 0.2.0
 xrnet: 0.1.7
 xseq: 0.2.1
-xslt: 1.4.2
+xslt: 1.4.3
 xsp: 0.1.2
 xspliner: 0.0.4
 xtable: 1.8-4
