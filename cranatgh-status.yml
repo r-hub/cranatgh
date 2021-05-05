@@ -2322,7 +2322,7 @@ GlobalFit: '1.2'
 GlobalOptions: 0.1.2
 GmAMisc: 1.2.0
 Gmedian: 1.2.6
-Gmisc: 2.0.1
+Gmisc: 2.0.2
 GoFKernel: 2.1-1
 GofKmt: 2.2.0
 GomoGomonoMi: 0.1.0
@@ -2838,7 +2838,7 @@ Kendall: '2.2'
 KernSmooth: 2.23-20
 KernSmoothIRT: '6.4'
 KernelICA: 0.1.0
-KernelKnn: 1.1.1
+KernelKnn: 1.1.2
 Kernelheaping: 2.2.2
 Keyboard: 0.1.0
 KeyboardSimulator: 2.6.0
@@ -7177,11 +7177,11 @@ automultinomial: 2.0.0
 autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
-autostsm: 1.2.2
+autostsm: '1.3'
 autota: 0.1.3
 autothresholdr: 1.3.10
 autovarCore: 1.0-4
-av: 0.5.1
+av: 0.6.0
 available: 1.0.4
 avar: 0.1.1
 averisk: 1.0.3
@@ -7334,7 +7334,7 @@ bayesbr: 0.0.0.1
 bayesclust: '3.1'
 bayescopulareg: 0.1.3
 bayescount: 0.9.99-5
-bayesdfa: 0.1.6
+bayesdfa: 0.1.7
 bayesdistreg: 0.1.0
 bayesefa: 0.0.0.4
 bayesforecast: 0.0.1
@@ -7381,7 +7381,7 @@ bcTSNE: 0.10.0
 bcaboot: 0.2-1
 bcc: 1.3.1
 bccp: 0.3.0
-bcdata: 0.2.3
+bcdata: 0.2.4
 bcf: '1.3'
 bcfrailph: 0.1.0
 bcfrailphdv: 0.1.0
@@ -9678,7 +9678,7 @@ dti: 1.5.1
 dtp: 0.1.0
 dtpcrm: 0.1.1
 dtplyr: 1.1.0
-dtrSurv: '1.1'
+dtrSurv: '1.2'
 dtree: 0.4.2
 dtt: 0.1-2
 dttr2: 0.3.0
@@ -15279,7 +15279,7 @@ ormPlot: 0.3.4
 oro.dicom: 0.5.3
 oro.nifti: 0.11.0
 oro.pet: 0.2.6
-orsifronts: 0.1.1
+orsifronts: 0.2.0
 orsk: 1.0-5
 orth: '1.5'
 orthoDr: 0.6.4
@@ -15457,7 +15457,7 @@ paramGUI: 2.1.4
 parameters: 0.13.0
 paramhetero: 0.2.0
 paramlink: 1.1-2
-paramlink2: 1.0.2
+paramlink2: 1.0.3
 params: 0.7.3
 paramtest: 0.1.0
 paran: 1.5.2
@@ -16343,7 +16343,7 @@ provParseR: '0.3'
 provSummarizeR: 1.4.2
 provTraceR: '1.0'
 provViz: 1.0.7
-provenance: '3.2'
+provenance: '3.3'
 proxy: 0.4-25
 proxyC: 0.1.5
 prozor: 0.2.11
@@ -16371,7 +16371,7 @@ psoptim: '1.0'
 pspearman: 0.3-0
 pspline: 1.0-17
 pspline.inference: 1.0.4
-psqn: 0.2.0
+psqn: 0.2.1
 psrwe: '1.3'
 pssm: '1.1'
 pssmooth: 1.0.3
@@ -17340,7 +17340,7 @@ rgrass7: 0.2-5
 rgrassdoc: 1.0.0
 rgrs: '0.3'
 rgsp: 0.2.0
-rgugik: 0.3.0
+rgugik: 0.3.1
 rgw: 0.3.0
 rhandsontable: 0.3.7
 rhcoclust: 1.1.0
@@ -17662,7 +17662,7 @@ rpostgisLT: 0.6.0
 rppo: 1.0.1
 rpql: '0.8'
 rpredictit: 0.0.2
-rprev: 1.0.4
+rprev: 1.0.5
 rprime: 0.1.2
 rprintf: 0.2.1
 rprojroot: 2.0.2
@@ -17891,7 +17891,7 @@ ryouready: '0.4'
 rysgran: 2.1.0
 rzeit2: 0.2.3
 rzentra: 0.1.0
-rzmq: 0.9.7
+rzmq: 0.9.8
 s2: 1.0.4
 s20x: 3.1-30
 s2dv: 0.1.1
@@ -19041,7 +19041,7 @@ sprintfr: 0.1.0
 sprintr: 0.9.0
 sprm: 1.2.2
 sprsmdl: 0.1-0
-spsComps: 0.1.1
+spsComps: '0.2'
 spsUtil: 0.1.0
 spsann: 2.2.0
 spsarlm: 0.1-3
@@ -19984,7 +19984,7 @@ tor: 1.1.2
 torch: 0.3.0
 torchaudio: 0.1.1.0
 torchdatasets: 0.0.1
-torchvision: 0.2.0
+torchvision: 0.3.0
 torus: '1.0'
 tosca: 0.3-1
 tosls: '1.0'
@@ -20820,7 +20820,7 @@ wrspathrowData: '1.0'
 wrswoR: 1.1.1
 wrswoR.benchmark: '0.2'
 wru: 0.1-11
-wsbackfit: 1.0-4
+wsbackfit: 1.0-5
 wsjplot: 0.1.0
 wskm: 1.4.40
 wsrf: 1.7.21
