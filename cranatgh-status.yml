@@ -675,7 +675,7 @@ Brq: '3.0'
 Brundle: 1.0.9
 BsMD: 2020.4.30
 Buddle: 2.0.1
-BuildSys: 1.0.9
+BuildSys: 1.1.0
 BullsEyeR: 0.2.0
 BurStFin: '1.02'
 BurStMisc: '1.1'
@@ -857,6 +857,7 @@ CRWRM: 0.0.1
 CSESA: 1.2.0
 CSFA: 1.2.0
 CSGo: 0.5.2
+CSIndicators: 0.0.1
 CSMES: 1.0.0
 CSS: '1.0'
 CSTools: 4.0.0
@@ -1169,6 +1170,7 @@ CytobankAPI: 1.3.0
 CytobankAPIstats: '2.0'
 CytobankBridgeR: 1.0.0
 D2C: 1.2.1
+D2MCS: 1.0.0
 D3GB: '1.1'
 D3M: '0.41'
 D3partitionR: 0.5.0
@@ -1207,7 +1209,7 @@ DCA: '2.0'
 DCCA: 0.1.1
 DCD: 0.1.0
 DCEM: 2.0.4
-DCEtool: 0.0.1
+DCEtool: 0.1.1
 DCG: 0.9.3
 DCGL: 2.1.2
 DCL: 0.1.0
@@ -1621,7 +1623,7 @@ EMVS: '1.1'
 EMbC: 2.0.3
 EMpeaksR: 0.1.0
 ENA: 1.3-0
-ENMTools: 1.0.3
+ENMTools: 1.0.4
 ENMeval: 0.3.1
 ENiRG: '1.0'
 ENmisc: 1.2-7
@@ -3955,7 +3957,7 @@ PATHChange: '1.0'
 PAWL: '0.5'
 PAactivPAL: '2.0'
 PAmeasures: 0.1.0
-PAsso: 0.1.8
+PAsso: 0.1.9
 PAutilities: 1.0.1
 PBC: '1.2'
 PBD: '1.4'
@@ -4771,7 +4773,7 @@ RPCLR: '1.0'
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.0
 RPEIF: 1.2.1
-RPESE: 1.2.0
+RPESE: 1.2.1
 RPEXE.RPEXT: 0.0.2
 RPEnsemble: '0.5'
 RPMG: 2.2-3
@@ -5916,7 +5918,7 @@ SpatEntropy: 2.0-1
 SpatMCA: 1.0.2.0
 SpatPCA: 1.3.3.0
 SpatialAcc: 0.1-4
-SpatialBSS: 0.9-0
+SpatialBSS: 0.10-0
 SpatialBall: 0.1.0
 SpatialEpi: 1.2.3
 SpatialEpiApp: '0.3'
@@ -5924,7 +5926,7 @@ SpatialExtremes: 2.0-9
 SpatialFloor: 1.1.0
 SpatialGraph: 1.0-2
 SpatialKDE: 0.6.2
-SpatialKWD: 0.3.1
+SpatialKWD: 0.4.0
 SpatialML: 0.1.3
 SpatialNP: 1.1-4
 SpatialPack: 0.3-8196
@@ -6563,6 +6565,7 @@ WhiteStripe: 2.4.0
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
+WienR: 0.1-9
 WikiSocio: 0.7.0
 WikidataQueryServiceR: 1.0.0
 WikidataR: 1.4.0
@@ -8452,7 +8455,7 @@ coca: 1.1.0
 cocktailApp: 0.2.2
 cocor: 1.1-3
 cocoreg: 0.1.1
-cocorresp: 0.4-1
+cocorresp: 0.4-3
 cocron: 1.0-1
 coda: 0.19-4
 coda.base: 0.3.1
@@ -9769,7 +9772,7 @@ eRm: 1.0-2
 eSDM: 0.3.7
 eVenn: '2.4'
 eadrm: 0.1.3
-eaf: '2.0'
+eaf: '2.1'
 earlyR: 0.0.5
 earlygating: '1.0'
 earlywarnings: 1.0.59
@@ -10935,7 +10938,7 @@ fuzzySim: '3.0'
 fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.6
 fuzzyreg: 0.5.1
-fuzzywuzzyR: 1.0.3
+fuzzywuzzyR: 1.0.4
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
 fwildclusterboot: 0.3.4
@@ -11000,7 +11003,7 @@ gameofthrones: 1.0.2
 games: 1.1.2
 gamesGA: 1.1.3.7
 gamesNws: '0.5'
-gamlr: 1.13-6
+gamlr: 1.13-7
 gamlss: 5.3-4
 gamlss.add: 5.1-6
 gamlss.cens: 5.0-1
@@ -11285,7 +11288,7 @@ getspres: 0.1.1
 gettingtothebottom: '3.2'
 gettz: 0.0.4
 gexp: 1.0-1
-geysertimes: 0.1.5
+geysertimes: 0.1.6
 gfboost: 0.1.0
 gfcanalysis: 1.6.0
 gfer: 0.1.10
@@ -11863,6 +11866,7 @@ hacksaw: 0.0.2
 hadron: 3.1.2
 hagis: 3.1.1
 hail: 0.1.1
+hakaiApi: 1.0.0
 hal9001: 0.2.7
 haldensify: 0.0.6
 halfcircle: 0.1.0
@@ -12129,7 +12133,7 @@ httpgd: 1.1.1
 httping: 0.2.0
 httpproblems: 1.0.0
 httptest: 4.0.0
-httpuv: 1.6.0
+httpuv: 1.6.1
 httr: 1.4.2
 hues: 0.2.0
 huge: 1.3.4.1
@@ -12181,6 +12185,7 @@ hyperoverlap: '1.0'
 hypersampleplan: 0.1.1
 hypervolume: 2.0.12
 hyphenatr: 0.3.0
+hypoRF: 1.0.0
 hypoparsr: 0.1.0
 hypothesestest: '1.0'
 hypothesisr: 0.1.1
@@ -12196,7 +12201,7 @@ iAdapt: 2.0.0
 iBATCGH: 1.3.1
 iBST: '1.0'
 iBUGS: 0.1.4
-iBreakDown: 1.3.1
+iBreakDown: 2.0.1
 iC10: '1.5'
 iC10TrainingData: 1.3.1
 iCAMP: 1.3.4
@@ -12467,7 +12472,7 @@ insane: 0.1.0
 insect: 1.2.0
 insee: 1.0.0
 insideRODE: '2.0'
-insight: 0.13.2
+insight: 0.14.0
 insol: 1.2.2
 inspectdf: 0.0.11
 inspector: 1.0.2
@@ -12572,7 +12577,7 @@ ipfr: 1.0.2
 ipft: 0.7.2
 ipify: 0.2.0
 iplots: 1.1-7.1
-ipmisc: 6.0.0
+ipmisc: 6.0.2
 ipmr: 0.0.1
 ipptoolbox: '1.2'
 ipr: 0.1.0
@@ -16376,7 +16381,7 @@ pseval: 1.3.1
 psfmi: 0.7.1
 psgp: 0.3-19
 psica: 1.0.2
-psidR: '2.0'
+psidR: '2.1'
 pso: 1.0.3
 psoptim: '1.0'
 pspearman: 0.3-0
@@ -16489,6 +16494,7 @@ qcQpcr: '1.5'
 qcapower: 0.1.0
 qcc: '2.7'
 qccrs: 0.1.0
+qch: 1.0.0
 qclust: '1.0'
 qcr: '1.2'
 qcv: '1.0'
@@ -17467,7 +17473,7 @@ rmangal: 2.0.2
 rmapshaper: 0.4.4
 rmapzen: 0.4.2
 rmargint: 2.0.2
-rmarkdown: '2.7'
+rmarkdown: '2.8'
 rmatio: 0.14.0
 rmcfs: 1.3.1
 rmcorr: 0.4.3
@@ -18544,7 +18550,7 @@ simplecolors: 0.1.1
 simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simpleroptions: 0.2.0
-simplevis: 3.0.0
+simplevis: 3.1.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -20058,7 +20064,7 @@ transport: 0.12-2
 transx: 0.0.1
 trapezoid: 2.0-0
 trawl: 0.2.2
-treasuryTR: 0.1.2
+treasuryTR: 0.1.3
 treatSens: '2.1'
 tree: 1.0-40
 tree.bins: 0.1.1
@@ -20203,6 +20209,7 @@ ttestshiny: 0.1.0
 tth: 4.12-0
 ttime: '1.2'
 ttrTests: '1.7'
+ttt: '1.0'
 tttplot: 1.1.1
 ttutils: 1.0-1
 ttwa: 0.8.5.1
@@ -20460,6 +20467,7 @@ varsExplore: 0.3.0
 vartors: 0.2.6
 varycoef: 0.3.0
 vasicek: 0.0.3
+vasicekreg: 1.0.0
 vaultr: 1.0.2
 vbdm: 0.0.4
 vbmp: 1.3.0
@@ -20970,7 +20978,7 @@ zGPS.AO: 0.1.0
 zTree: 1.0.6
 zalpha: 0.2.0
 zbank: 0.1.0
-zcurve: 1.0.8
+zcurve: 1.0.9
 zdeskR: 0.1.1
 zeallot: 0.1.0
 zebu: 0.1.3.0
