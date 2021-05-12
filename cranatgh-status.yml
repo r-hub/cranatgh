@@ -656,7 +656,7 @@ BootMRMR: '0.1'
 BootPR: '0.60'
 BootValidation: 0.1.65
 BootWPTOS: '1.2'
-BootstrapQTL: 1.0.2
+BootstrapQTL: 1.0.5
 Boptbd: 1.0.5
 Boruta: 7.0.0
 BosonSampling: 0.1.1
@@ -1957,7 +1957,7 @@ FinePop: 1.5.1
 FinePop2: '0.4'
 FisHiCal: '1.1'
 FisPro: '1.1'
-FishResp: 1.0.3
+FishResp: 1.1.0
 FisherEM: '1.6'
 FitAR: '1.94'
 FitARMA: 1.6.1
@@ -2342,7 +2342,7 @@ GraphKit: '0.5'
 GraphPCA: '1.1'
 GrapheR: 1.9-86-3
 GrassmannOptim: '2.0'
-GreedyEPL: '1.0'
+GreedyEPL: '1.1'
 GreedyExperimentalDesign: '1.4'
 GreedyExperimentalDesignJARs: '1.0'
 GreedySBTM: '1.0'
@@ -3628,7 +3628,7 @@ MultiSkew: 1.1.1
 MultiVarMI: '1.0'
 MultiVarSel: 1.1.3
 Multiclasstesting: 1.3.9
-MultinomialCI: '1.1'
+MultinomialCI: '1.2'
 MultipleBubbles: 0.2.0
 MultiplierDEA: 0.1.18
 MultisiteMediation: 0.0.3
@@ -3953,7 +3953,7 @@ PANDA: 0.9.9
 PANICr: 1.0.0
 PARSE: 0.1.0
 PAS: 1.2.5
-PASSED: 1.0-3
+PASSED: 1.1-0
 PASWR: '1.1'
 PASWR2: 1.0.2
 PASenseWear: '1.0'
@@ -4193,7 +4193,7 @@ PepSAVIms: 0.9.1
 Peptides: 2.4.3
 PerFit: 1.4.5
 PerMallows: '1.13'
-Perc: 0.1.5
+Perc: 0.1.6
 PerfMeas: 1.2.1
 PerformanceAnalytics: 2.0.4
 PeriodicTable: 0.1.2
@@ -6255,6 +6255,7 @@ TempleMetrics: 1.2.0
 Temporal: 0.2.0
 Tendril: 2.0.4
 TensorClustering: 1.0.1
+TensorComplete: 0.1.0
 TensorTest2D: 1.0.2
 Ternary: 1.2.1
 TestCor: 0.0.2.2
@@ -6553,7 +6554,7 @@ WaveletCo: '1.0'
 WaveletComp: '1.1'
 WaveletGARCH: 0.1.1
 WaverR: '1.0'
-WeMix: 3.1.6
+WeMix: 3.1.7
 WebDevelopR: '1.0'
 WebGestaltR: 0.4.4
 WebPower: 0.5.2
@@ -6572,7 +6573,7 @@ WhiteStripe: 2.4.0
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
-WienR: 0.1-9
+WienR: 0.2-0
 WikiSocio: 0.7.0
 WikidataQueryServiceR: 1.0.0
 WikidataR: 1.4.0
@@ -6683,6 +6684,7 @@ abodOutlier: '0.1'
 abstractr: 0.1.0
 abtest: 0.2.2
 abundant: '1.1'
+academictwitteR: 0.1.0
 acc: 1.3.3
 accSDA: 1.0.0
 accelerometry: 3.1.2
@@ -7258,7 +7260,7 @@ badgecreatr: 0.2.0
 badger: 0.1.0
 bagRboostR: 0.0.2
 baggedcv: '1.0'
-baggr: 0.4.0
+baggr: 0.6.4
 baguette: 0.1.0
 bahc: 0.3.0
 bain: 0.2.4
@@ -8129,7 +8131,7 @@ cds: 1.0.3
 ceRtainty: 1.0.0
 cec2005benchmark: 1.0.4
 cec2013: 0.1-5
-cecs: 0.2.0
+cecs: 0.2.1
 ced: 1.0.1
 ceg: 0.1.0
 celestial: 1.4.6
@@ -8326,7 +8328,7 @@ cleandata: 0.3.0
 cleaner: 1.5.1
 cleanerR: 0.1.1
 cleangeo: 0.2-4
-cleanr: 1.3.1
+cleanr: 1.3.2
 clere: 1.2.0
 clespr: 1.1.2
 clevr: 0.1.1
@@ -9373,7 +9375,7 @@ dhglm: '2.0'
 dhh: 0.0.1
 di: 1.1.4
 diagis: 0.1.5
-diagmeta: 0.4-0
+diagmeta: 0.4-1
 diagonals: 6.0.0
 diagram: 1.6.5
 dialr: 0.3.2
@@ -9468,7 +9470,7 @@ discrim: 0.1.1
 discrimARTs: '0.2'
 disdat: 1.0-0
 diseasemapping: 1.5.0
-diseq: 0.2.1
+diseq: 0.3.1
 disk.frame: 0.4.1
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
@@ -9580,7 +9582,7 @@ docker: 0.0.2
 dockerfiler: 0.1.3
 docknitr: 1.0.1
 dockr: 0.8.6
-doconv: 0.1.1
+doconv: 0.1.2
 docopt: 0.7.1
 docopulae: 0.4.0
 docstring: 1.0.0
@@ -12818,7 +12820,7 @@ kde1d: 1.0.3
 kdecopula: 0.9.2
 kdensity: 1.1.0
 kdetrees: 0.1.5
-kdevine: 0.4.2
+kdevine: 0.4.3
 kdist: '0.2'
 kdtools: 0.4.2
 kedd: 1.0.3
@@ -14769,7 +14771,7 @@ netgen: 1.3.2
 netgsa: 3.1.0
 netgwas: '1.13'
 netjack: 1.2.0
-netmeta: 1.3-0
+netmeta: 1.4-0
 netmhc2pan: 1.3.1
 netmodels: '0.2'
 netrankr: 0.3.0
@@ -15232,7 +15234,7 @@ opitools: 1.0.3
 opm: 1.1.0
 opmdata: 0.7.0
 oposSOM: 0.2-3
-oppr: 1.0.2
+oppr: 1.0.3
 ops: '1.0'
 optAUC: '1.0'
 optBiomarker: 1.0-28
@@ -18630,7 +18632,7 @@ sivs: 0.2.4
 sizeMat: 1.1.2
 sjPlot: 2.8.7
 sjdbc: 1.6.1
-sjlabelled: 1.1.7
+sjlabelled: 1.1.8
 sjmisc: 2.8.6
 sjstats: 0.18.1
 skatMeta: 1.4.3
@@ -18650,7 +18652,7 @@ skimr: 2.1.3
 sklarsomega: 2.0-1
 skm: 0.1.5.4
 skmeans: 0.2-13
-skpr: 0.64.2
+skpr: 0.66.5
 skynet: 1.4.0
 skyscapeR: 0.2.2
 sla: '0.1'
@@ -18727,7 +18729,7 @@ smoothie: 1.0-1
 smoothmest: 0.1-2
 smoothr: 0.1.2
 smoothtail: 2.0.5
-smoots: 1.0.1
+smoots: 1.1.0
 smotefamily: 1.3.1
 smovie: 1.1.3
 smpic: 0.1.0
@@ -19282,7 +19284,7 @@ stmgp: 1.0.3
 stmgui: 0.1.6
 stminsights: 0.4.1
 stoRy: 0.1.5
-stocc: '1.30'
+stocc: '1.31'
 stochQN: 0.1.2
 stochasticGEM: '0.0'
 stochmod: '1.2'
@@ -19947,7 +19949,7 @@ timetree: '1.0'
 timevis: 1.0.0
 timma: 1.2.1
 timsac: 1.3.6
-timsr: 0.0.2
+timsr: 0.0.3
 tinsel: 0.0.1
 tint: 0.1.3
 tinter: 0.1.0
