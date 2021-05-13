@@ -401,7 +401,7 @@ BNN: 1.0.2
 BNPMIXcluster: '1.3'
 BNPMediation: 0.1.0
 BNPTSclust: '2.0'
-BNPdensity: 2020.3.4
+BNPdensity: 2021.5.4
 BNPmix: 0.2.8
 BNSL: 0.1.4
 BNSP: 2.1.6
@@ -1071,7 +1071,7 @@ CompetingRiskFrailty: '2.0'
 Compind: '2.2'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.2.1
-Compositional: '4.6'
+Compositional: '4.7'
 CompoundEvents: 0.1.0
 Compounding: 1.0.2
 ConConPiWiFun: 0.4.6.1
@@ -3282,7 +3282,7 @@ MNB: 1.0.0
 MNLR: 0.1.0
 MNLpred: 0.0.6
 MNM: 1.0-3
-MNP: 3.1-1
+MNP: 3.1-2
 MNS: '1.0'
 MOCCA: '1.4'
 MODIS: 1.2.3
@@ -3429,6 +3429,7 @@ Matrix: 1.3-3
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.9.5
 MatrixEQTL: '2.3'
+MatrixExtra: 0.1.2
 MatrixLDA: '0.2'
 MatrixModels: 0.5-0
 MaxMC: 0.1.1
@@ -4648,7 +4649,7 @@ RJafroc: 2.0.1
 RJcluster: 2.5.0
 RKEA: 0.0-6
 RKEAjars: 5.0-4
-RKEEL: 1.3.2
+RKEEL: 1.3.3
 RKEELdata: 1.0.5
 RKEELjars: 1.0.19
 RKHSMetaMod: '1.1'
@@ -4776,7 +4777,7 @@ RPANDA: '1.9'
 RPCLR: '1.0'
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.0
-RPEIF: 1.2.1
+RPEIF: 1.2.2
 RPESE: 1.2.1
 RPEXE.RPEXT: 0.0.2
 RPEnsemble: '0.5'
@@ -5363,7 +5364,7 @@ Rspotify: 0.1.2
 RsqMed: 0.1.7.1
 Rssa: 1.0.3
 Rstem: 0.4-1
-RstoxData: 1.1.1
+RstoxData: 1.1.8
 Rstreams: '1.1'
 Rsundials: '1.6'
 Rsurrogate: '3.0'
@@ -7873,7 +7874,7 @@ brotli: '1.2'
 brr: 1.0.0
 brranching: 0.7.0
 brt: 1.3.0
-bruceR: 0.6.2
+bruceR: 0.6.4
 brunnermunzel: 1.4.1
 brxx: 0.1.2
 bs: '1.0'
@@ -8128,6 +8129,7 @@ cder: 0.2-2
 cdfquantreg: 1.2.2
 cdlTools: '0.15'
 cdlei: '1.0'
+cdmTools: 1.0.0
 cdom: 0.1.0
 cdparcoord: 1.0.1
 cds: 1.0.3
@@ -8238,7 +8240,7 @@ childesr: 0.2.1
 childhoodmortality: 0.3.0
 childsds: 0.7.6
 chilemapas: '0.2'
-chillR: 0.72.2
+chillR: 0.72.4
 chinese.misc: 0.2.3
 chipPCR: 1.0-2
 chirps: 0.1.2
@@ -8968,7 +8970,7 @@ ctsem: 3.4.3
 ctsemOMX: 1.0.3
 ctv: 0.8-5
 cuRe: 1.0.1
-cubature: 2.0.4.1
+cubature: 2.0.4.2
 cubelyr: 1.0.1
 cubeview: 0.2.0
 cubfits: 0.1-3
@@ -9474,7 +9476,7 @@ discrimARTs: '0.2'
 disdat: 1.0-0
 diseasemapping: 1.5.0
 diseq: 0.3.1
-disk.frame: 0.4.1
+disk.frame: 0.5.0
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
 dismo: 1.3-3
@@ -11348,6 +11350,7 @@ ggamma: 1.0.1
 gganimate: 1.0.7
 ggasym: 0.1.5
 ggbeeswarm: 0.6.0
+ggbreak: 0.0.2
 ggbuildr: 0.1.0
 ggbump: 0.1.0
 ggcharts: 0.2.1
@@ -11668,7 +11671,7 @@ goxygen: 1.0.3
 gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
-gpbStat: 0.3.0
+gpbStat: 0.3.1
 gpboost: 0.6.0
 gpclib: 1.5-6
 gpg: 1.2.2
@@ -11949,7 +11952,7 @@ hdeco: '0.4'
 hdf5: 1.6.9
 hdf5r: 1.3.3
 hdfqlr: 0.6-1
-hdi: 0.1-7
+hdi: 0.1-8
 hdiVAR: 1.0.1
 hdlm: 1.3.1
 hdm: 0.3.1
@@ -12752,7 +12755,7 @@ joineR: 1.2.5
 joineRML: 0.4.5
 joineRmeta: 0.1.2
 joinet: 0.0.7
-joint.Cox: '3.11'
+joint.Cox: '3.12'
 jointDiag: '0.4'
 jointMeanCov: 0.1.0
 jointNmix: '1.0'
@@ -13662,7 +13665,7 @@ matchbook: 1.0.7
 matchingMarkets: 1.0-2
 matchingR: 1.3.2
 matchmaker: 0.1.1
-matconv: 0.4.0
+matconv: 0.4.2
 matdist: 0.1.1
 mateable: 0.3.1
 materialmodifier: 1.0.0
@@ -13828,7 +13831,7 @@ meditations: 1.0.1
 medmod: 1.0.0
 medrxivr: 0.0.5
 meedr: 0.0.1
-meerva: 0.1-2
+meerva: 0.2-1
 meetupapi: 0.1.0
 mefa: 3.2-7
 mefa4: 0.3-7
@@ -14023,7 +14026,7 @@ midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
-migest: 1.8.3
+migest: 1.8.4
 migraph: 0.6.5
 migrate: 0.3.0
 migration.indices: 0.3.0
@@ -14825,7 +14828,7 @@ nflfastR: 4.1.0
 nflseedR: 1.0.2
 nga: '1.4'
 ngram: 3.0.4
-ngramr: 1.7.2
+ngramr: 1.7.4
 ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
@@ -16122,7 +16125,7 @@ polywog: 0.4-1
 pom: '1.1'
 pomcheckr: 0.1.0
 pomdp: 0.99.0
-pomp: '3.3'
+pomp: '3.4'
 pompom: 0.2.1
 pooh: 0.3-2
 pool: 0.1.6
@@ -16971,7 +16974,7 @@ rbefdata: 0.3.5
 rbenchmark: 1.0.0
 rbenvo: 1.0.5
 rbgm: 0.1.0
-rbhl: 0.9.0
+rbhl: 0.9.2
 rbi: 0.10.3
 rbi.helpers: 0.3.2
 rbibutils: 2.1.1
@@ -17219,7 +17222,7 @@ relMix: 1.3.3
 relSim: 0.3-1
 rela: '4.1'
 relabeLoadings: '1.0'
-relaimpo: 2.2-3
+relaimpo: 2.2-4
 relatable: 1.0.0
 relations: 0.6-9
 relax: 1.3.8
@@ -17450,6 +17453,7 @@ riskR: '1.1'
 riskRegression: 2020.12.08
 riskSimul: '0.1'
 riskclustr: '0.3'
+riskmetric: 0.1.0
 risksetROC: 1.0.4
 riskyr: 0.3.0
 rite: '0.3'
@@ -17992,7 +17996,7 @@ safi: '1.0'
 sail: 0.1.0
 salem: 0.2.0
 salesforcer: 0.2.2
-salso: 0.2.20
+salso: 0.2.22
 salty: 0.1.0
 sambia: 0.1.0
 samc: 1.3.0
@@ -18268,7 +18272,7 @@ semds: 0.9-6
 semiArtificial: 2.3.1
 seminr: 2.0.2
 semisupKernelPCA: 0.1.5
-semmcmc: 0.0.4
+semmcmc: 0.0.6
 semnar: 0.7.1
 semnova: 0.1-6
 semsfa: '1.1'
@@ -18492,7 +18496,7 @@ showtext: 0.9-2
 showtextdb: '3.0'
 shp2graph: 0-5
 shrink: 1.2.1
-shrinkTVP: 2.0.1
+shrinkTVP: 2.0.2
 shuffle: 1.0.1
 shuffleCI: 0.1.0
 shutterplot: 0.1.0
@@ -19741,7 +19745,7 @@ tergmLite: 2.2.1
 term: 0.3.1
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.2-5
+terra: 1.2-10
 terrainmeshr: 0.1.0
 terrainr: 0.4.0
 tesseract: 4.1.1
@@ -20388,6 +20392,7 @@ unrtf: '1.4'
 unstruwwel: 0.1.0
 unsystation: 0.2.0
 untb: 1.7-4
+unusualprofile: 0.1.0
 unvotes: 0.3.0
 upclass: '2.0'
 updog: 2.0.2
@@ -21054,6 +21059,7 @@ zoocat: 0.2.0
 zooimage: 5.5.2
 zoolog: 0.3.1
 zoom: 2.0.4
+zoomGroupStats: 0.1.0
 zoomgrid: 1.0.0
 zoon: 0.6.5
 zscorer: 0.3.1
