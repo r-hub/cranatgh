@@ -519,7 +519,7 @@ BayesRS: 0.1.3
 BayesReversePLLH: '1.4'
 BayesS5: '1.41'
 BayesSAE: 1.0-2
-BayesSPsurv: 0.1.2
+BayesSPsurv: 0.1.3
 BayesSUR: 2.0-0
 BayesSampling: 1.1.0
 BayesSenMC: 0.1.2
@@ -659,7 +659,7 @@ BootWPTOS: '1.2'
 BootstrapQTL: 1.0.5
 Boptbd: 1.0.5
 Boruta: 7.0.0
-BosonSampling: 0.1.1
+BosonSampling: 0.1.3
 BoutrosLab.plotting.general: 6.0.3
 BradleyTerry: 0.8-8
 BradleyTerry2: 1.1-2
@@ -3142,7 +3142,7 @@ MCMCtGARCH: '1.0'
 MCMCtGARCHM: '1.0'
 MCMCtNARCH: '1.0'
 MCMCtreeR: '1.1'
-MCMCvis: 0.15.1
+MCMCvis: 0.15.2
 MCPAN: 1.1-21
 MCPMod: 1.0-10.1
 MCPModGeneral: 0.1-1
@@ -4073,7 +4073,7 @@ PPCI: 0.1.5
 PPMR: '1.0'
 PPQplan: 1.1.0
 PPRL: 0.3.6
-PPTcirc: 0.1.0
+PPTcirc: 0.2.0
 PPforest: 0.1.1
 PPtree: 2.3.0
 PPtreeViz: 2.0.4
@@ -4278,7 +4278,7 @@ PortfolioEffectEstim: '1.4'
 PortfolioEffectHFT: '1.8'
 PortfolioOptim: 1.1.1
 PostcodesioR: 0.3.0
-PosteriorBootstrap: 0.1.0
+PosteriorBootstrap: 0.1.1
 PottsUtils: 0.3-3
 PoweR: 1.0.7
 Power2Stage: 0.5-3
@@ -5166,7 +5166,7 @@ RefFreeEWAS: '2.2'
 RefManageR: 1.3.0
 RegClust: '1.0'
 RegKink: 0.1.0
-RegSDC: 0.5.0
+RegSDC: 0.6.0
 RegressionFactory: 0.7.4
 RegularizedSCA: 0.5.4
 ReinforcementLearning: 1.0.5
@@ -6891,6 +6891,7 @@ altair: 4.1.1
 alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '3.3'
+amanida: 0.0.8
 amap: 0.8-18
 amapGeocode: 0.6.0
 amba: 0.3.1
@@ -7050,7 +7051,7 @@ ari: 0.3.5
 ariExtra: 0.2.11
 aricode: 1.0.0
 arkdb: 0.0.12
-arkhe: 0.3.0
+arkhe: 0.3.1
 arm: 1.11-2
 armada: 0.1.0
 armspp: 0.0.2
@@ -7560,6 +7561,7 @@ bigmds: 1.0.0
 bigmemory: 4.5.36
 bigmemory.sri: 0.1.3
 bigml: 0.1.2
+bignum: 0.1.0
 bigparallelr: 0.3.1
 bigpca: '1.1'
 bigreadr: 0.2.4
@@ -7905,7 +7907,7 @@ btergm: 1.9.13
 btf: '1.2'
 bubblyr: 0.1.2
 bucky: 1.0.6
-buffeRs: '0.21'
+buffeRs: '0.30'
 buildmer: '1.9'
 buildr: 0.1.0
 bujar: 0.2-9
@@ -10082,7 +10084,7 @@ enviGCMS: 0.6.6
 enviPat: '2.4'
 enviPick: '1.5'
 envir: 0.2.0
-envirem: '2.2'
+envirem: '2.3'
 envlpaster: 0.1-2
 envnames: 0.4.1
 envoutliers: 1.1.0
@@ -10466,6 +10468,7 @@ fastR2: 1.2.1
 fastRG: 0.3.0
 fastSOM: 1.0.1
 fastStat: '1.4'
+fastText: 1.0.0
 fastTextR: 2.0.0
 fastVAR: '1.2'
 fasta: 0.1.0
@@ -10920,7 +10923,7 @@ functional: '0.6'
 functiondepends: 0.2.1
 functools: 0.2.0
 funcy: 1.0.1
-fundiversity: 0.0.1
+fundiversity: 0.2.0
 funest: 0.0.1.3
 funfits: 2.0-3
 fungible: '1.97'
@@ -11315,7 +11318,7 @@ gexp: 1.0-1
 geysertimes: 0.1.6
 gfboost: 0.1.0
 gfcanalysis: 1.6.0
-gfer: 0.1.10
+gfer: 0.1.11
 gfiExtremes: 1.0.0
 gfiUltra: 1.0.0
 gfilinreg: 2.0.1
@@ -12936,7 +12939,7 @@ knor: 0.0-7
 knorm: '1.0'
 knotR: 1.0-2
 kntnr: 0.4.4
-koRpus: 0.13-6
+koRpus: 0.13-7
 koRpus.lang.en: 0.1-4
 kobe: 1.3.2
 kofdata: 0.1.5
@@ -14689,7 +14692,7 @@ namer: 0.1.5
 namespace: 0.9.1
 nametagger: 0.1.1
 nandb: 2.0.8
-naniar: 0.6.0
+naniar: 0.6.1
 nanny: 0.1.8
 nanop: 2.0-6
 nanostringr: 0.2.0
@@ -15486,7 +15489,7 @@ panelWranglR: 1.2.13
 panelaggregation: 0.1.1
 panelr: 0.7.5
 panelvar: 0.5.3
-pangaear: 1.0.0
+pangaear: 1.1.0
 papayar: '1.0'
 papeR: 1.0-5
 paperplanes: 0.0.1.9
@@ -15524,7 +15527,7 @@ parmigene: 1.1.0
 parmsurvfit: 0.1.0
 paropt: '0.1'
 parseRPDR: 0.1.0
-parsec: 1.2.3
+parsec: 1.2.4
 parsedate: 1.2.1
 parsemsf: 0.1.1
 parser: '0.1'
@@ -16124,7 +16127,7 @@ polytomous: 0.1.6
 polywog: 0.4-1
 pom: '1.1'
 pomcheckr: 0.1.0
-pomdp: 0.99.0
+pomdp: 0.99.1
 pomp: '3.4'
 pompom: 0.2.1
 pooh: 0.3-2
@@ -16877,7 +16880,7 @@ randNames: 0.2.3
 randaes: '0.3'
 randcorr: '1.0'
 randgeo: 0.3.0
-randnet: '0.2'
+randnet: '0.3'
 rando: 0.2.0
 random: 0.2.6
 random.polychor.pa: 1.1.4-4
@@ -17155,7 +17158,7 @@ reconstructKM: 0.3.0
 reconstructr: 2.0.2
 recorder: 0.8.2
 recordr: 1.0.3
-recosystem: 0.4.4
+recosystem: 0.4.5
 recurse: 1.1.2
 red: 1.5.0
 redR: 1.0.1
@@ -17257,7 +17260,7 @@ repec: 0.1.0
 repello: 1.0.1
 repfdr: 1.2.3
 repijson: 0.1.0
-replicateBE: 1.0.15
+replicateBE: 1.0.17
 replicatedpp2w: 0.1-3
 replicationDemos: '1.05'
 replicationInterval: 2.0.1
@@ -18041,7 +18044,7 @@ sarp.snowprofile.alignment: 1.0.2
 sars: 1.3.3
 sarsop: 0.6.8
 sas7bdat: '0.5'
-sasLM: 0.5.2
+sasLM: 0.5.3
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.0
@@ -18142,6 +18145,7 @@ scoringutils: 0.1.4
 scout: 1.0.4
 scphaser: 1.0.0
 scpm: 2.0.0
+scqe: 1.0.0
 scraEP: '1.1'
 scrapeR: 0.1.6
 scrappy: 0.0.1
@@ -18157,7 +18161,7 @@ scrubr: 0.3.2
 scrypt: 0.1.3
 scs: 1.3-2
 sctransform: 0.3.2
-scuba: 1.10-0
+scuba: 1.11-0
 sculpt3d: 0.3-1
 scvxclustr: '0.1'
 sdPrior: 1.0-0
@@ -18420,7 +18424,7 @@ shinyBS: '0.61'
 shinyChakraSlider: 0.1.0
 shinyCyJS: 0.0.11
 shinyDND: 0.1.0
-shinyEffects: 0.1.0
+shinyEffects: 0.2.0
 shinyEventLogger: 0.1.1
 shinyFeedback: 0.3.0
 shinyFiles: 0.9.0
@@ -18782,6 +18786,7 @@ sobolnp: 0.1.0
 soc.ca: 0.7.3
 socceR: 0.1.1
 social: '1.0'
+socialh: 0.1.0
 socialmixr: 0.1.8
 sociome: 2.0.0
 socviz: '1.2'
@@ -18948,6 +18953,7 @@ spatial.tools: 1.6.2
 spatialClust: 1.1.1
 spatialCovariance: 0.6-9
 spatialEco: 1.3-6
+spatialTIME: 1.0.0
 spatialTailDep: '1.0'
 spatialfil: '0.15'
 spatialfusion: 0.6-2
@@ -19144,7 +19150,7 @@ ssanv: '1.1'
 ssc: 2.1-0
 sscor: '0.2'
 ssd: '0.3'
-ssdtools: 0.3.3
+ssdtools: 0.3.4
 sse: 0.7-16
 ssev: 0.1.0
 ssfa: '1.1'
@@ -19496,7 +19502,7 @@ survivoR: 0.9.3
 survminer: 0.4.9
 survmixer: '1.3'
 survrec: 1.2-2
-survsim: 1.1.5
+survsim: 1.1.6
 survsup: 0.0.2
 survtmle: 1.1.1
 survutils: 1.0.2
@@ -20655,6 +20661,7 @@ vtable: 1.3.1
 vtcl: 1.0-1
 vtreat: 1.6.2
 vtree: 5.1.9
+vtype: '0.8'
 vudc: '1.1'
 vwline: 0.2-2
 vwr: 0.3.0
