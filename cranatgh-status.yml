@@ -1100,6 +1100,7 @@ Convolutioner: 0.1.0
 CoopGame: 0.2.1
 CoordinateCleaner: 2.0-18
 CopCTS: 1.0.0
+CopernicusDEM: 1.0.0
 Copula.Markov: '2.8'
 Copula.Markov.survival: 1.0.0
 Copula.surv: '1.1'
@@ -2406,11 +2407,11 @@ HGMND: 0.1.0
 HGNChelper: 0.8.1
 HGSL: 1.0.0
 HH: 3.1-43
-HHG: 2.3.2
+HHG: 2.3.4
 HI: '0.4'
 HIBAG: 1.2.4
 HIBPwned: 0.1.7
-HIMA: 1.0.7
+HIMA: 1.1.0
 HIV.LifeTables: '0.1'
 HIest: '2.0'
 HK80: 0.0.2
@@ -4311,7 +4312,7 @@ ProFit: 1.3.3
 ProFound: 1.14.1
 ProNet: 1.0.0
 ProPublicaR: 1.1.1
-ProSGPV: 0.1.0
+ProSGPV: 0.3.0
 ProTrackR: 0.3.7
 ProbBayes: '1.1'
 ProbForecastGOP: '1.3'
@@ -4529,7 +4530,7 @@ RCircos: 1.2.1
 RClickhouse: 0.5.2
 RClimMAWGEN: '1.1'
 RClimacell: 0.1.4
-RClone: 1.0.2
+RClone: 1.0.3
 RColetum: 0.2.1
 RColorBrewer: 1.1-2
 RConics: '1.0'
@@ -5338,6 +5339,7 @@ Rpipedrive: 0.1.1
 Rpoet: 1.1.0
 Rpolyhedra: 0.4.2
 Rpoppler: 0.1-0
+RprobitB: 0.1.0
 Rprofet: 2.2.1
 Rpvt: 0.1.1
 Rquake: 2.4-4
@@ -6368,6 +6370,7 @@ TwoPhaseInd: 1.1.1
 TwoRegression: 0.1.2
 TwoSampleTest.HD: '1.0'
 TwoStepCLogit: 1.2.5
+TwoWayFEWeights: 0.1.0
 TwoWaySurvival: '2.2'
 TwslmSpikeWeight: 1.0.1
 UBCRM: 1.0.1
@@ -6937,7 +6940,7 @@ animalTrack: 1.0.0
 animaltracker: 0.2.0
 animation: '2.6'
 animint2: 2020.9.18
-anipaths: 0.9.8
+anipaths: 0.10.0
 aniview: 0.1.0
 anm: 1.1-1
 anndata: 0.7.5.2
@@ -7133,7 +7136,7 @@ astroFns: 4.1-0
 astrochron: '1.0'
 astrodatR: '0.1'
 astrolibR: '0.1'
-astsa: '1.12'
+astsa: '1.13'
 asuR: 0.08-24
 asus: 1.0.0
 asymLD: '0.1'
@@ -7275,7 +7278,7 @@ ballr: 0.2.6
 bama: '1.2'
 bamboo: 0.9.25
 bamdit: 3.3.2
-bamlss: 1.1-3
+bamlss: 1.1-4
 bamp: 2.0.8
 bams: '1.6'
 banR: 0.2.2
@@ -7969,7 +7972,7 @@ cablecuttr: 0.1.1
 cabootcrs: '2.0'
 cacIRT: '1.4'
 cacheSweave: '0.6'
-cachem: 1.0.4
+cachem: 1.0.5
 cacher: '1.1'
 caesar: 1.1.0
 caffsim: 0.2.2
@@ -8026,7 +8029,7 @@ cardidates: 0.4.8
 cardioModel: '1.4'
 care: 1.1.10
 careless: 1.2.1
-caret: 6.0-86
+caret: 6.0-88
 caretEnsemble: 2.0.1
 caretLSF: '1.9'
 caretNWS: '0.25'
@@ -9386,7 +9389,7 @@ diagmeta: 0.4-1
 diagonals: 6.0.0
 diagram: 1.6.5
 dialr: 0.3.2
-dialrjars: 8.12.22
+dialrjars: 8.12.23
 dials: 0.0.9
 diamonds: 1.0-5
 diaplt: 1.3.0
@@ -12064,7 +12067,7 @@ hints: '1.0'
 hiphop: 0.0.1
 hipread: 0.2.2
 hisemi: 1.1-0
-hisse: 1.9.18
+hisse: 1.9.19
 histmdl: 0.7-1
 histogram: 0.0-25
 historydata: '0.1'
@@ -13247,7 +13250,7 @@ lineqGPR: 0.1.1
 lineup: 0.38-3
 lineup2: '0.4'
 lingmatch: 1.0.2
-lingtypology: 1.1.4
+lingtypology: 1.1.5
 linguisticsdown: 1.2.0
 link2GI: 0.4-5
 linkR: 1.1.1
@@ -13304,7 +13307,7 @@ lmbc: '0.9'
 lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
-lme4: 1.1-26
+lme4: 1.1-27
 lmeInfo: 0.1.3
 lmeNB: '1.3'
 lmeNBBayes: 1.3.1
@@ -13395,7 +13398,7 @@ logitr: 0.1.0
 loglognorm: 1.0.1
 logmult: 0.7.3
 lognorm: 0.1.9
-logr: 1.2.1
+logr: 1.2.3
 logregperm: '1.0'
 logspline: 2.1.8
 lokern: 1.1-9
@@ -14134,7 +14137,7 @@ mixl: 1.2.3
 mixlink: 0.1.5
 mixlm: 1.2.5
 mixlow: 1.0.1
-mixmeta: 1.1.1
+mixmeta: 1.1.2
 mixnet: '0.1'
 mixor: 1.0.4
 mixpack: 0.3.6
@@ -14408,7 +14411,7 @@ mpm: 1.0-22
 mpmcorrelogram: 0.1-4
 mpmi: 0.43.1
 mpoly: 1.1.1
-mppR: 1.2.1
+mppR: 1.3.0
 mppa: '1.0'
 mpr: 1.0.5
 mprobit: '0.9'
@@ -14780,7 +14783,7 @@ netcontrol: '0.1'
 netdep: 0.1.0
 netdiffuseR: 1.22.0
 netgen: 1.3.2
-netgsa: 3.1.0
+netgsa: 4.0.0
 netgwas: '1.13'
 netjack: 1.2.0
 netmeta: 1.4-0
@@ -15591,7 +15594,7 @@ pawls: 1.0.0
 paws: 0.1.11
 paws.analytics: 0.1.11
 paws.application.integration: 0.1.11
-paws.common: 0.3.9
+paws.common: 0.3.10
 paws.compute: 0.1.11
 paws.cost.management: 0.1.11
 paws.customer.engagement: 0.1.11
@@ -15971,6 +15974,7 @@ plfMA: 1.0.5
 plfm: 2.2.2
 plgp: 1.1-7
 pliable: '1.1'
+pliman: 0.2.0
 plink: 1.5-1
 plinkFile: 0.1.0
 plinkQC: 0.3.3
@@ -16818,7 +16822,7 @@ rTLS: 0.2.3
 rTOFsPRO: '1.4'
 rTRNG: 4.23.1-1
 rTableICC: 1.0.7
-rTensor: '1.4'
+rTensor: 1.4.8
 rTephra: '0.1'
 rTorch: 0.4.2
 rUnemploymentData: 1.1.0
@@ -17225,7 +17229,7 @@ relMix: 1.3.3
 relSim: 0.3-1
 rela: '4.1'
 relabeLoadings: '1.0'
-relaimpo: 2.2-4
+relaimpo: 2.2-5
 relatable: 1.0.0
 relations: 0.6-9
 relax: 1.3.8
@@ -17709,7 +17713,7 @@ rplexos: 1.1.8
 rplos: 1.0.0
 rplotengine: 1.0-7
 rpls: 0.6.0
-rplum: 0.2.0
+rplum: 0.2.1
 rpmodel: 1.0.4
 rpms: 0.4.0
 rpn: '1.0'
@@ -17844,7 +17848,7 @@ rsvg: 2.1.2
 rsyncrosim: 1.2.9
 rsyntax: 0.1.1
 rsyslog: 1.0.1
-rt: 1.0.1
+rt: 1.1.0
 rt.test: 1.18.7.9
 rt3: 0.1.2
 rtable: 0.1.5
@@ -18331,7 +18335,7 @@ seqtest: 0.1-0
 sequence: '2.0'
 sequences: 0.5.9
 sequenza: 3.0.0
-sequoia: 2.3.3
+sequoia: 2.3.4
 sergeant: 0.9.0
 serial: '3.0'
 serialize: 0.2-1
@@ -20478,7 +20482,7 @@ validator: '1.0'
 valmetrics: 1.0.0
 valorate: 1.0-1
 valottery: 0.0.1
-valr: 0.6.2
+valr: 0.6.3
 valueEQ5D: 0.7.1
 valuer: 1.1.2
 vamc: 0.2.1
@@ -20929,7 +20933,7 @@ xdcclarge: 0.1.0
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.22'
+xfun: '0.23'
 xgb2sql: 0.1.2
 xgboost: 1.4.1.1
 xgobi: 1.2-15
