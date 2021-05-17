@@ -47,7 +47,7 @@ AGPRIS: '1.0'
 AGSDest: 2.3.2
 AGread: 1.1.1
 AHM: 1.0.1
-AHMbook: 0.2.2
+AHMbook: 0.2.3
 AHPhybrid: 0.1.0
 AHR: 1.5.0
 AICcmodavg: 2.3-1
@@ -337,7 +337,7 @@ BEDASSLE: '1.5'
 BEDMatrix: 2.0.3
 BENMMI: 4.3-7
 BEQI2: 2.0-0
-BEST: 0.5.2
+BEST: 0.5.3
 BESTree: 0.5.2
 BET: 0.3.7
 BETS: 0.4.9
@@ -413,6 +413,7 @@ BOSSreg: 0.2.0
 BPEC: 1.3.1
 BPHO: 1.3-0
 BPM: 1.0.0
+BRACoD.R: 0.0.1.2
 BRDT: 0.1.0
 BRETIGEA: 1.0.3
 BRISC: 1.0.1
@@ -1031,7 +1032,7 @@ CoSeg: '0.38'
 CoTiMA: 0.3.9
 CodataGS: '1.43'
 CodeDepends: 0.6.5
-CohortPlat: 1.0.1
+CohortPlat: 1.0.3
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
 CollapsABEL: 0.10.8
@@ -2962,7 +2963,7 @@ LSMRealOptions: 0.2.0
 LSMonteCarlo: '1.0'
 LSPFP: 1.0.3
 LSRS: 0.2.0
-LST: 0.1.0
+LST: 1.1.0
 LSTS: '2.0'
 LSX: 0.9.9
 LTPDvar: '1.2'
@@ -4896,6 +4897,7 @@ RUVIIIC: 1.0.19
 RUnit: 0.4.32
 RVA: 0.0.4
 RVAideMemoire: 0.9-79
+RVCompare: 0.1.2
 RVFam: '1.1'
 RVIpkg: 0.2.3
 RVPedigree: 0.0.3
@@ -5313,7 +5315,7 @@ RobustAFT: 1.4-5
 RobustBayesianCopas: '2.0'
 RobustCalibration: 0.5.1
 RobustEM: '1.0'
-RobustGaSP: 0.6.1
+RobustGaSP: 0.6.2
 RobustLinearReg: 1.2.0
 RobustRankAggreg: '1.1'
 RockFab: '1.2'
@@ -5474,6 +5476,7 @@ SCperf: 1.1.1
 SCtools: 0.3.1
 SDALGCP: 0.4.0
 SDAR: 0.9-55
+SDAResources: 0.1.0
 SDBP: '1.0'
 SDCNway: 1.0.1
 SDD: '1.2'
@@ -5898,7 +5901,7 @@ SortableHTMLTables: 0.1-3
 SortedEffects: 1.4.0
 SoundShape: 1.1.0
 SoundexBR: '1.2'
-SoupX: 1.5.0
+SoupX: 1.5.2
 SourceSet: 0.1.3
 SoyNAM: 1.6.1
 SpATS: 1.0-13
@@ -6032,7 +6035,7 @@ SubgrpID: '0.11'
 SubpathwayGMir: '1.0'
 SubpathwayLNCE: '1.0'
 SubpathwayMiner: '3.1'
-SubtypeDrug: 0.1.4
+SubtypeDrug: 0.1.5
 SuessR: 0.1.3
 SummaryLasso: 1.2.1
 Sunclarco: 1.0.0
@@ -7188,6 +7191,7 @@ autoFRK: 1.4.3
 autoMrP: '0.98'
 autoSEM: 0.1.0
 autoTS: 0.9.11
+autocart: 1.4.4
 autocogs: 0.1.3
 autoencoder: '1.1'
 autoharp: 0.0.7
@@ -7710,7 +7714,7 @@ blighty: 3.1-4
 blin: 0.0.1
 blindrecalc: 0.1.2
 blink: 1.1.0
-bliss: 1.0.1
+bliss: 1.0.2
 blkbox: '1.0'
 blkergm: '1.1'
 blm: 2013.2.4.4
@@ -7828,7 +7832,7 @@ bpp: 1.0.1
 bqror: 0.1.4
 bqtl: 1.0-32
 braQCA: 1.0.0.1
-bracer: 1.1.1
+bracer: 1.2.0
 braggR: 0.1.0
 braidReports: 0.5.4
 braidrm: '0.71'
@@ -8371,6 +8375,7 @@ clinfun: 1.0.15
 clinmon: 0.6.0
 clinsig: '1.2'
 clinspacy: 1.0.2
+clintools: 0.8.0
 clipp: 1.0.0
 clipr: 0.7.1
 cliqueMS: 0.3.1
@@ -8953,6 +8958,7 @@ csrplus: 1.03-0
 cssTools: '1.0'
 cstab: 0.2-2
 cstar: '1.0'
+csurvey: '1.0'
 csv: 0.5.9
 csvread: 1.2.1
 csvy: 0.3.0
@@ -11454,7 +11460,7 @@ ggsci: '2.9'
 ggseas: 0.5.4
 ggseqlogo: '0.1'
 ggshadow: 0.0.2
-ggside: 0.0.1.3
+ggside: 0.1.0
 ggsignif: 0.6.1
 ggsn: 0.5.0
 ggsoccer: 0.1.6
@@ -12336,7 +12342,7 @@ iconr: 0.1.0
 icosa: 0.10.1
 icpsrdata: 0.5.0
 icr: 0.6.2
-icrf: 1.0.0
+icrf: 2.0.0
 icsurvROC: 0.1.0
 icsw: 1.0.0
 idar: '1.2'
@@ -13163,6 +13169,7 @@ leerSIECyL: 1.0.2
 lefko3: 3.4.0
 lefse: '0.1'
 legco: 0.1.3
+legion: 0.1.0
 legislatoR: '1.0'
 legocolors: 0.3.1
 lehdr: 0.2.4
@@ -14112,7 +14119,7 @@ mixAR: 0.22.5
 mixComp: 0.1-2
 mixEMM: '1.0'
 mixIndependR: 1.0.0
-mixKernel: '0.5'
+mixKernel: '0.6'
 mixOmics: 6.3.2
 mixPHM: 0.7-2
 mixR: 0.1.1
@@ -14165,6 +14172,7 @@ mlapi: 0.1.0
 mlbench: 2.1-3
 mlbgameday: 0.2.0
 mlbstats: 0.1.0
+mlbstatsR: 0.1.0
 mldr: 0.4.3
 mldr.datasets: 0.4.2
 mle.tools: 1.0.0
@@ -15378,7 +15386,7 @@ outsider: 0.1.1
 outsider.base: 0.1.4
 ouxy: '2.1'
 overdisp: 0.1.1
-overlap: 0.3.3
+overlap: 0.3.4
 overlapping: '1.6'
 overlapptest: 1.2-4
 overture: 0.4-0
@@ -15701,7 +15709,7 @@ pedometrics: 0.7.0
 pedprobr: 0.5.0
 pedquant: 0.1.6
 pedtools: 0.9.7
-pegas: '1.0'
+pegas: 1.0-1
 pems.utils: 0.2.29.1
 penDvine: 0.2.4
 penMSM: '0.99'
@@ -15730,7 +15738,7 @@ perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
 perfectphyloR: 0.2.1
-performance: 0.7.1
+performance: 0.7.2
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 0.6.3
@@ -17259,6 +17267,7 @@ remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
 renv: 0.13.2
+repana: 1.23.0
 repeated: 1.1.2
 repec: 0.1.0
 repello: 1.0.1
@@ -18574,6 +18583,7 @@ simex: '1.8'
 simexaft: 1.0.7.1
 simfinR: 0.2.3
 simfinapi: 0.1.0
+simfit: 0.1.0
 simglm: 0.8.0
 simgof: 1.0.2
 simhelpers: 0.1.1
@@ -19266,7 +19276,7 @@ statswalesr: 0.1.3
 stcm: 0.1.1
 stcos: 0.3.0
 stcov: 0.1.0
-stdReg: 3.4.0
+stdReg: 3.4.1
 stddiff: '3.0'
 stdvectors: 0.0.5
 steadyICA: '1.0'
@@ -19363,7 +19373,7 @@ stringdist: 0.9.6.3
 stringfish: 0.15.1
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
-stringi: 1.6.1
+stringi: 1.6.2
 stringkernels: 0.8.9
 stringr: 1.4.0
 strip: 1.0.0
@@ -19960,7 +19970,7 @@ timelineR: 1.0.0
 timelineS: 0.1.1
 timeordered: 0.9.9
 timeperiodsR: 0.6.2
-timereg: 1.9.8
+timereg: 1.9.9
 timesboot: '1.0'
 timeseriesdb: 0.4.1
 timeslab: 1.0-1
@@ -20677,6 +20687,7 @@ wPerm: 1.0.1
 wSVM: 0.1-7
 wTO: 1.6.3
 waccR: 0.1.0
+wacolors: 0.2.1
 wactor: 0.0.1
 waffect: '1.2'
 waffle: 0.7.0
@@ -20861,6 +20872,7 @@ wordmatch: '1.0'
 wordnet: 0.1-15
 wordpiece: 1.0.2
 wordpressr: 0.2.2
+words: 1.0.1
 wordsalad: 0.2.0
 wordspace: 0.2-6
 workflowr: 1.6.2
