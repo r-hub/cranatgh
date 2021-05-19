@@ -1103,7 +1103,7 @@ Convolutioner: 0.1.0
 CoopGame: 0.2.1
 CoordinateCleaner: 2.0-18
 CopCTS: 1.0.0
-CopernicusDEM: 1.0.0
+CopernicusDEM: 1.0.1
 Copula.Markov: '2.8'
 Copula.Markov.survival: 1.0.0
 Copula.surv: '1.1'
@@ -1631,7 +1631,7 @@ EMbC: 2.0.3
 EMpeaksR: 0.1.0
 ENA: 1.3-0
 ENMTools: 1.0.4
-ENMeval: 0.3.1
+ENMeval: 2.0.0
 ENiRG: '1.0'
 ENmisc: 1.2-7
 EPGLM: '1.1'
@@ -1947,6 +1947,7 @@ FertBoot: 0.5.0
 Fgmutils: 0.9.5
 FiRE: '1.0'
 FiSh: '1.1'
+FielDHub: 0.1.0
 FieldSim: 3.2.1
 FinAna: 0.1.2
 FinAsym: '1.0'
@@ -2034,7 +2035,7 @@ FuzzyMCDM: '1.1'
 FuzzyNumbers: 0.4-6
 FuzzyNumbers.Ext.2: '3.2'
 FuzzyQ: 0.1.0
-FuzzyR: 2.3.1
+FuzzyR: 2.3.2
 FuzzySTs: '0.2'
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
@@ -2481,7 +2482,7 @@ HaploSim: 1.8.4
 HardyWeinberg: 1.7.2
 HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
-HeckmanEM: 0.1.1
+HeckmanEM: 0.1.2
 HellCor: '1.3'
 HelpersMG: '4.5'
 HeritSeq: 1.0.1
@@ -2940,7 +2941,7 @@ LOPART: 2020.6.29
 LOST: 2.0.2
 LPBkg: '1.2'
 LPCM: 0.46-7
-LPDynR: 1.0.1
+LPDynR: 1.0.2
 LPGraph: '2.1'
 LPKsample: '2.1'
 LPM: '2.8'
@@ -3884,7 +3885,7 @@ OkNNE: 1.0.0
 OligoSpecificitySystem: '1.3'
 OmegaG: 1.0.1
 OmicKriging: 1.4.0
-OmicsPLS: 1.2.0
+OmicsPLS: 2.0.2
 Omisc: 0.1.4
 OmnibusFisher: '1.0'
 OnAge: 1.0.1
@@ -4993,6 +4994,7 @@ Rblpapi: 0.3.11
 Rborist: 0.2-3
 Rcan: 1.3.82
 Rcapture: 1.4-3
+Rcatch22: 0.1.10
 Rcell: 1.3-2
 RcellData: 1.3-2
 Rcereal: 1.2.1.1
@@ -5087,7 +5089,7 @@ RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
 RcppDE: 0.1.6
 RcppDL: 0.0.5
-RcppDate: 0.0.2
+RcppDate: 0.0.3
 RcppDist: 0.1.1
 RcppDynProg: 0.2.0
 RcppEigen: 0.3.3.9.1
@@ -7321,6 +7323,7 @@ basedosdados: 0.0.5
 baseflow: 0.13.2
 basefun: 1.1-0
 baseline: 1.3-1
+basemaps: 0.0.1
 basetheme: 0.1.2
 basf: 0.2.0
 basicMCMCplots: 0.2.6
@@ -7774,12 +7777,12 @@ bnpa: 0.3.0
 bnpmr: '1.2'
 bnpsd: 1.2.3
 bnspatial: 1.1.1
-bnstruct: 1.0.10
+bnstruct: 1.0.11
 bnviewer: 0.1.6
 boa: 1.1.8-2
 boclust: 0.1.2
 bodenmiller: 0.1.1
-boilerpipeR: '1.3'
+boilerpipeR: 1.3.2
 bold: 1.2.0
 bomWater: 0.4.1
 bomrang: 0.7.4
@@ -7840,7 +7843,7 @@ bpp: 1.0.1
 bqror: 0.1.4
 bqtl: 1.0-32
 braQCA: 1.0.0.1
-bracer: 1.2.0
+bracer: 1.2.1
 braggR: 0.1.0
 braidReports: 0.5.4
 braidrm: '0.71'
@@ -7946,7 +7949,7 @@ bvarsv: '1.1'
 bvartools: 0.2.0
 bvenn: '0.1'
 bvls: '1.4'
-bvpSolve: 1.4.1
+bvpSolve: 1.4.2
 bw: 1.0.0
 bwd: 0.1.0
 bwimage: '1.3'
@@ -8576,6 +8579,7 @@ comFuncs: 0.0.5
 comat: 0.9.1
 comato: '1.1'
 combinat: 0.0-8
+combinationpvalues: 0.1.0
 combinedevents: 0.1.1
 combiter: 1.0.3
 comclim: 0.9.5
@@ -9517,7 +9521,7 @@ distdichoR: 0.1-1
 distdrawr: 0.1.3
 distfree.cr: 1.5.1
 distill: '1.2'
-distillery: '1.2'
+distillery: 1.2-1
 disto: 0.2.0
 distory: 1.4.4
 distr: 2.8.0
@@ -9606,7 +9610,7 @@ docker: 0.0.2
 dockerfiler: 0.1.3
 docknitr: 1.0.1
 dockr: 0.8.6
-doconv: 0.1.2
+doconv: 0.1.3
 docopt: 0.7.1
 docopulae: 0.4.0
 docstring: 1.0.0
@@ -11335,7 +11339,7 @@ getspres: 0.2.0
 gettingtothebottom: '3.2'
 gettz: 0.0.4
 gexp: 1.0-1
-geysertimes: 0.1.6
+geysertimes: 0.1.8
 gfboost: 0.1.0
 gfcanalysis: 1.6.0
 gfer: 0.1.11
@@ -11431,7 +11435,7 @@ ggmosaic: 0.3.3
 ggmr: 0.1.1
 ggmsa: 0.0.6
 ggmuller: 0.5.4
-ggmulti: 1.0.1
+ggmulti: 1.0.2
 ggnetwork: 0.5.8
 ggnewscale: 0.4.5
 ggnormalviolin: 0.1.2
@@ -11469,6 +11473,7 @@ ggrisk: '1.2'
 ggroups: 2.1.0
 ggsci: '2.9'
 ggseas: 0.5.4
+ggseg: 1.6.3
 ggseqlogo: '0.1'
 ggshadow: 0.0.2
 ggside: 0.1.0
@@ -11870,7 +11875,7 @@ gtools: 3.8.2
 gtop: 0.2.0
 gtrendsR: 1.4.8
 gtsf: 0.1.0
-gtsummary: 1.4.0
+gtsummary: 1.4.1
 gtx: 0.0.8
 guaguas: 0.1.0
 guardianapi: 0.1.1
@@ -12212,7 +12217,7 @@ hybridHclust: 1.0-5
 hybridModels: 0.3.7
 hybridogram: 0.3.0
 hydra: 0.1.0
-hydraulics: 0.2.4
+hydraulics: 0.3.0
 hydroApps: 0.1-1
 hydroGOF: 0.4-0
 hydroPSO: 0.5-1
@@ -12348,6 +12353,7 @@ icesDatras: 1.3-0
 icesSAG: 1.3-6
 icesTAF: 3.6.0
 icesVocab: 1.1.9
+ichimoku: 0.1.2
 icmm: '1.1'
 icomp: '0.1'
 iconr: 0.1.0
@@ -12534,7 +12540,7 @@ install.load: 1.2.3
 installr: 0.23.2
 instruments: 0.1.0
 insuranceData: '1.0'
-insurancerating: 0.6.5
+insurancerating: 0.6.6
 int64: 1.1.2
 intReg: 0.2-8
 intRegGOF: 0.85-5
@@ -13373,7 +13379,7 @@ localScore: 1.0.6
 localdepth: 0.5-7
 localgauss: '0.40'
 localsolver: '2.3'
-locatexec: 0.1.0
+locatexec: 0.1.1
 locationgamer: 0.1.0
 locfdr: 1.1-8
 locfit: 1.5-9.4
@@ -13737,6 +13743,7 @@ maxstat: 0.7-25
 mazeGen: 0.1.3
 mazealls: 0.2.0
 mazeinda: 0.0.1
+mbRes: 0.1.0
 mbbefd: 0.8.9.1
 mbclusterwise: '1.0'
 mbend: 1.3.1
@@ -17596,7 +17603,7 @@ rngWELL: 0.10-6
 rngtools: '1.5'
 rngwell19937: 0.6-0
 rnn: 1.4.0
-rnoaa: 1.3.2
+rnoaa: 1.3.4
 rnpn: 1.2.1
 rnr: 0.2.1
 rnrfa: 2.0.4
@@ -18421,7 +18428,7 @@ shades: 1.4.0
 shadow: 0.7.1
 shadowtext: 0.0.8
 shallot: 0.4.10
-shape: 1.4.5
+shape: 1.4.6
 shapeNA: 0.0.2
 shapeR: 0.1-5
 shapefiles: '0.7'
@@ -18556,7 +18563,7 @@ sigloc: 0.0.4
 sigma2tools: '1.2'
 sigmaNet: 1.1.0
 sigmajs: 0.1.5
-sigminer: 2.0.0
+sigminer: 2.0.1
 sigmoid: 0.3.0
 signal: 0.7-6
 signal.hsmm: '1.2'
@@ -18846,7 +18853,7 @@ solidearthtide: 1.0.2
 solitude: 1.1.1
 solr: 0.1.6
 solrad: 1.0.0
-solrium: 1.1.4
+solrium: 1.2.0
 solvebio: 2.11.0
 som: 0.3-5.1
 som.nn: 1.1.0
@@ -19046,7 +19053,7 @@ spectralAnalysis: 3.12.0
 spectralGP: 1.3.3
 spectralGraphTopology: 0.2.0
 spectrino: 2.0.0
-spectrolab: 0.0.10
+spectrolab: 0.0.11
 sped: 0.2-1
 speech: 0.1.0
 speedR: 1.1-38
@@ -19254,7 +19261,7 @@ starvz: 0.5.0
 starwarsdb: 0.1.2
 stashR: '0.3'
 stat.extend: 0.1.4
-statGraph: 0.4.1
+statGraph: 0.5.0
 statTarget: 1.2.2
 statVisual: 1.2.1
 statar: 0.7.3
@@ -19657,7 +19664,7 @@ tabit: 0.2.1
 tablaxlsx: 1.2.4
 table.express: 0.3.1
 table.glue: 0.0.2
-table1: '1.4'
+table1: 1.4.1
 table1xls: 0.4.0
 tableHTML: 2.1.0
 tableMatrix: 0.82.0
@@ -20112,7 +20119,7 @@ trackeRapp: '1.1'
 trackr: 0.10.6
 trackter: 0.1.1
 tractor.base: 3.3.3.1
-trade: 0.5.5
+trade: 0.8.0
 tradeCosts: 0.3-1
 tradestatistics: '1.1'
 trafo: 1.0.1
@@ -20956,7 +20963,7 @@ xROI: 0.9.19
 xRing: 0.1.0
 xSub: 3.0.1
 xVA: 0.8.5
-xaringan: '0.20'
+xaringan: '0.21'
 xaringanthemer: 0.3.4
 xbreed: 1.0.1.1
 xdcclarge: 0.1.0
