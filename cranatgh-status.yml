@@ -1030,7 +1030,7 @@ CoOL: 1.0.1
 CoRpower: 1.0.4
 CoSMoS: 2.0.0
 CoSeg: '0.38'
-CoTiMA: 0.3.9
+CoTiMA: 0.4.0
 CodataGS: '1.43'
 CodeDepends: 0.6.5
 CohortPlat: 1.0.3
@@ -4167,7 +4167,7 @@ Paneldata: '1.0'
 PantaRhei: 0.1.2
 ParBayesianOptimization: 1.2.4
 ParDNAcopy: '2.0'
-ParallelDSM: '0.1'
+ParallelDSM: '0.2'
 ParallelForest: 1.1.0
 ParallelLogger: 2.0.1
 ParallelPC: '1.2'
@@ -4310,7 +4310,7 @@ PredictiveRegression: 0.1-4
 PresenceAbsence: 1.1.9
 PressPurt: 1.0.2
 PrevMap: 1.5.3
-PriceIndices: 0.0.4
+PriceIndices: 0.0.5
 PriorCD: 0.1.0
 PriorGen: 1.1.2
 PrivateLR: 1.2-22
@@ -5191,7 +5191,7 @@ ReliabilityTheory: 0.1.5
 RelimpPCR: 0.2.4
 Renext: 3.1-0
 RenextGUI: 1.4-0
-RenvModule: '1.0'
+RenvModule: '1.1'
 Renvlp: '2.9'
 Reol: '1.8'
 ReorderCluster: '1.0'
@@ -5270,7 +5270,7 @@ Rjpstatdb: '0.1'
 RkMetrics: '1.3'
 Rknots: 1.3.2
 Rlab: 2.15.1
-Rlabkey: 2.6.0
+Rlabkey: 2.7.0
 Rlda: 0.2.6
 Rlgt: 0.1-3
 Rlibeemd: 1.4.1
@@ -6025,7 +6025,7 @@ StrathE2E2: 3.3.0
 StratifiedBalancing: 0.3.0
 StratifiedMedicine: 1.0.3
 StratifiedRF: 0.2.2
-StratifiedSampling: 0.1.0
+StratifiedSampling: 0.2.0
 StratigrapheR: 1.2.1
 StreamMetabolism: 1.1.2
 StreamingLm: '0.1'
@@ -8097,6 +8097,7 @@ cattonum: 0.0.5
 causact: 0.4.0
 causalCmprsk: 1.0.1
 causalMGM: 0.1.1
+causaldata: 0.1.1
 causaldrf: '0.3'
 causaleffect: 1.3.12
 causaloptim: 0.7.1
@@ -9406,6 +9407,7 @@ diagis: 0.1.5
 diagmeta: 0.4-1
 diagonals: 6.0.0
 diagram: 1.6.5
+dialectR: '1.0'
 dialr: 0.3.2
 dialrjars: 8.12.23
 dials: 0.0.9
@@ -9832,7 +9834,7 @@ easyNCDF: 0.1.0
 easyPSID: 0.1.1
 easyPubMed: '2.13'
 easySVG: 0.1.0
-easySdcTable: 0.6.0
+easySdcTable: 0.7.0
 easyVerification: 0.4.4
 easyalluvial: 0.3.0
 easyanova: '7.0'
@@ -9895,7 +9897,7 @@ ecoreg: 0.2.3
 ecorest: 1.0.0
 ecoretriever: '0.2'
 ecoseries: 0.1.5
-ecosim: 1.3-2
+ecosim: 1.3-3
 ecospace: 1.4.2
 ecospat: '3.2'
 ecostats: 0.1.4
@@ -11021,7 +11023,7 @@ gSEM: 0.4.3.4
 gSeg: '1.0'
 gStream: 0.2.0
 gTests: '0.2'
-gWQS: 3.0.3
+gWQS: 3.0.4
 gWQSRS: 1.1.1
 gWidgets: 0.0-8
 gWidgets2: 1.0-8
@@ -11775,7 +11777,7 @@ greta: 0.3.1
 gretel: 0.0.1
 gretlR: 0.1.0
 grex: '1.9'
-greybox: 0.6.9
+greybox: 0.7.0
 greyzoneSurv: '1.0'
 grf: 1.2.0
 grid: 0.7-4
@@ -13235,7 +13237,7 @@ librarian: 1.7.0
 librarysnapshot: 0.1.2
 libsoc: '0.7'
 libstableR: 1.0.2
-lidR: 3.1.2
+lidR: 3.1.3
 lidaRtRee: 3.0.3
 lifecontingencies: 1.3.7
 lifecourse: '2.0'
@@ -14054,7 +14056,7 @@ microservices: 0.1.0
 microsimulation: 1.3.4
 microsynth: 2.0.31
 midas: 1.0.1
-midasml: 0.1.5
+midasml: 0.1.5-1
 midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
@@ -14824,6 +14826,7 @@ nets: 0.9.1
 netseg: 1.0-0
 netstat: 0.1.1
 nettools: 1.0.1
+nettskjemar: 0.1.4
 netweavers: '1.1'
 network: 1.16.1
 networkABC: 0.8-0
@@ -14987,6 +14990,7 @@ nomisr: 0.4.4
 nomnoml: 0.2.3
 nomogramEx: '3.0'
 nomogramFormula: 1.2.0.0
+nomordR: '0.1'
 nonbinROC: 1.0.1
 noncensus: '0.1'
 noncompliance: 0.2.2
@@ -16616,7 +16620,7 @@ qqr: 0.0.1
 qqtest: 1.2.0
 qqvases: 1.0.0
 qrLMM: '2.1'
-qrNLMM: '2.0'
+qrNLMM: '2.1'
 qrage: '1.0'
 qrandom: 1.2.4
 qrcm: '3.0'
@@ -16771,6 +16775,7 @@ rDNAse: 1.1-1
 rDVR: 0.1.1
 rDecode: 0.1.0
 rDotNet: 0.9.1
+rDppDiversity: 0.0.1
 rEDM: 1.8.2
 rEHR: '1.0'
 rEMM: 1.0-11
@@ -18651,7 +18656,7 @@ simstudy: 0.2.1
 simsurv: 1.0.0
 simtimer: 4.0.0
 simts: 0.1.1
-simukde: 1.2.0
+simukde: 1.3.0
 simul: 0.1.1
 simulator: 0.2.0
 simule: 1.3.0
@@ -18706,6 +18711,7 @@ skimr: 2.1.3
 sklarsomega: 2.0-1
 skm: 0.1.5.4
 skmeans: 0.2-13
+sknifedatar: 0.1.1
 skpr: 0.66.5
 skynet: 1.4.0
 skyscapeR: 0.2.2
@@ -20647,7 +20653,7 @@ visit: '2.1'
 visova: '1.1'
 visreg: 2.7.0
 vistime: 1.2.1
-vistributions: 0.1.1
+vistributions: 0.1.2
 visualFields: 0.6.1
 visualR: 2.0.2
 visualizationTools: '0.2'
