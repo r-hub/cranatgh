@@ -267,7 +267,7 @@ AzureKusto: 1.0.6
 AzureML: 0.2.15
 AzureQstor: 1.0.1
 AzureRMR: 2.4.1
-AzureStor: 3.4.1
+AzureStor: 3.5.0
 AzureTableStor: 1.0.0
 AzureVM: 2.2.2
 AzureVMmetadata: 1.0.1
@@ -1215,7 +1215,7 @@ DCA: '2.0'
 DCCA: 0.1.1
 DCD: 0.1.0
 DCEM: 2.0.4
-DCEtool: 0.1.1
+DCEtool: 0.2.2
 DCG: 0.9.3
 DCGL: 2.1.2
 DCL: 0.1.0
@@ -1278,7 +1278,7 @@ DIZutils: 0.0.7
 DIconvex: 1.0.0
 DImodels: '1.0'
 DIscBIO: 1.2.0
-DJL: '3.6'
+DJL: '3.7'
 DLASSO: 2.0.2
 DLMtool: 6.0.1
 DMCfun: 1.3.0
@@ -3907,7 +3907,7 @@ OpenMPController: 0.2-5
 OpenMx: 2.19.5
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.0
-OpenSpecy: 0.9.1
+OpenSpecy: 0.9.2
 OpenStreetMap: 0.3.4
 Opportunistic: '1.2'
 Opt5PL: 0.1.1
@@ -5785,7 +5785,7 @@ SesIndexCreatoR: 1.0-2
 SetMethods: '2.6'
 SetRank: 1.1.0
 SetTest: 0.2.0
-Seurat: 4.0.1
+Seurat: 4.0.2
 SeuratObject: 4.0.1
 ShapeChange: '1.4'
 ShapePattern: 2.1.0
@@ -7042,7 +7042,7 @@ archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
 archiveRetriever: 0.0.2
-archivist: 2.3.5
+archivist: 2.3.6
 archivist.github: 0.2.6
 arcos: '1.27'
 arcpullr: 0.1.2
@@ -7839,7 +7839,7 @@ bpcs: 1.0.0
 bpgmm: 1.0.7
 bpkde: '1.0'
 bpnreg: 2.0.1
-bpp: 1.0.1
+bpp: 1.0.2
 bqror: 0.1.4
 bqtl: 1.0-32
 braQCA: 1.0.0.1
@@ -8459,7 +8459,7 @@ cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.1
 cmfilter: 0.9.1
-cmfrec: 2.4.5
+cmfrec: 3.1.0
 cmm: '0.12'
 cmmr: 0.1.2
 cmna: 1.0.3
@@ -9561,7 +9561,7 @@ divest: 0.10.1
 divisors: 0.1-4
 divo: 1.0.1
 dixon: 0.0-7
-dixonTest: 1.0.2
+dixonTest: 1.0.3
 diyar: 0.3.0
 dkDNA: 0.1.1
 dkanr: 0.1.3
@@ -9697,7 +9697,7 @@ drm: 0.5-8
 drmdel: 1.3.1
 dropR: '0.1'
 droptest: 0.1.3
-drord: 1.0.0
+drord: 1.0.1
 drought: '1.0'
 drsmooth: 1.9.0
 drtmle: 1.0.5
@@ -10680,7 +10680,7 @@ fitODBOD: 1.4.1-1
 fitPoly: 3.0.0
 fitTetra: '1.0'
 fitbitScraper: 0.1.8
-fitbitViz: 1.0.0
+fitbitViz: 1.0.1
 fitcoach: '1.0'
 fitdc: 0.0.1
 fitdistrplus: 1.1-3
@@ -13902,7 +13902,7 @@ merror: 2.0.2
 meshsimp: '0.1'
 messaging: 0.1.0
 met: 0.1.0
-metR: 0.9.1
+metR: 0.9.2
 metRology: 0.9-28-1
 metScanR: 1.2.3
 meta: 4.18-1
@@ -14670,7 +14670,7 @@ mvmesh: '1.6'
 mvmeta: 1.0.3
 mvnTest: 1.1-0
 mvna: 2.0.1
-mvnfast: 0.2.5.1
+mvnfast: 0.2.7
 mvngGrAd: 0.1.5
 mvnmle: 0.1-8
 mvnormalTest: 1.0.0
@@ -15089,7 +15089,7 @@ nscancor: 0.6.1-25
 nscprepr: 0.1.1
 nsdr: 0.1.0
 nse: '1.20'
-nse2r: 0.1.4
+nse2r: 0.1.5
 nseval: '0.4'
 nsga2R: '1.0'
 nsga3: 0.0.3
@@ -15567,7 +15567,7 @@ parsec: 1.2.5
 parsedate: 1.2.1
 parsemsf: 0.1.1
 parser: '0.1'
-parsermd: 0.1.1
+parsermd: 0.1.2
 parsetools: 0.1.3
 parsnip: 0.1.5
 parspatstat: 0.1-4
@@ -15627,7 +15627,7 @@ pawls: 1.0.0
 paws: 0.1.11
 paws.analytics: 0.1.11
 paws.application.integration: 0.1.11
-paws.common: 0.3.10
+paws.common: 0.3.11
 paws.compute: 0.1.11
 paws.cost.management: 0.1.11
 paws.customer.engagement: 0.1.11
@@ -17158,7 +17158,7 @@ readrba: 0.1.1
 readroper: 0.9.3
 readsdmx: 0.3.0
 readsdr: 0.2.0
-readsparse: 0.1.2-1
+readsparse: 0.1.2-2
 readstata13: 0.9.2
 readtext: '0.80'
 readtextgrid: 0.1.1
@@ -18476,7 +18476,7 @@ shinyKGode: 1.0.5
 shinyKnobs: 0.1.3
 shinyLP: 1.1.2
 shinyML: 1.0.1
-shinyMatrix: 0.5.0
+shinyMatrix: 0.6.0
 shinyMergely: 0.1.0
 shinyMobile: 0.8.0
 shinyMolBio: '0.2'
@@ -19351,7 +19351,7 @@ stochQN: 0.1.2
 stochasticGEM: '0.0'
 stochmod: '1.2'
 stochprofML: 2.0.3
-stochvol: 3.0.5
+stochvol: 3.0.6
 stochvolTMB: 0.1.2
 stockPortfolio: '1.2'
 stockR: 1.0.74
@@ -19858,7 +19858,7 @@ tfestimators: 1.9.1
 tfhub: 0.8.0
 tfio: 0.4.1
 tfplot: 2015.12-1
-tfprobability: 0.11.0.0
+tfprobability: 0.12.0.0
 tframe: 2015.12-1.1
 tframePlus: 2016.7-1
 tfruns: 1.5.0
@@ -20001,7 +20001,7 @@ timelineR: 1.0.0
 timelineS: 0.1.1
 timeordered: 0.9.9
 timeperiodsR: 0.6.2
-timereg: 1.9.9
+timereg: 2.0.0
 timesboot: '1.0'
 timeseriesdb: 0.4.1
 timeslab: 1.0-1
@@ -20711,7 +20711,7 @@ vudc: '1.1'
 vwline: 0.2-2
 vwr: 0.3.0
 wBoot: 1.0.3
-wCorr: 1.9.1
+wCorr: 1.9.5
 wISAM: 0.2.8
 wNNSel: '0.1'
 wPerm: 1.0.1
