@@ -368,7 +368,7 @@ BIGL: 1.6.2
 BINCO: 0.1-1
 BINCOR: 0.2.0
 BIOM.utils: '0.9'
-BIOMASS: '2.1'
+BIOMASS: 2.1.5
 BIOdry: '0.8'
 BIPOD: 0.2.1
 BIRDS: 0.1.27.1
@@ -1012,7 +1012,7 @@ ClustOfVar: '1.1'
 ClustVarLV: 2.0.1
 Cluster.OBeu: 1.2.3
 ClusterBootstrap: 1.1.2
-ClusterR: 1.2.4
+ClusterR: 1.2.5
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.3
 ClusteredMutations: 1.0.1
@@ -1282,7 +1282,7 @@ DJL: '3.7'
 DLASSO: 2.0.2
 DLMtool: 6.0.1
 DMCfun: 1.3.0
-DMLLZU: 0.1.0
+DMLLZU: 0.1.1
 DMMF: 0.5.1.2
 DMR: '2.0'
 DMRMark: 1.1.1
@@ -1378,7 +1378,7 @@ DatAssim: '1.0'
 Data2LD: 3.2.1
 DataClean: '1.0'
 DataCombine: 0.2.21
-DataEditR: 0.1.1
+DataEditR: 0.1.2
 DataEntry: 0.9-3
 DataExplorer: 0.8.2
 DataFrameConstr: 1.1-2
@@ -1984,7 +1984,7 @@ FluMoDL: 0.0.3
 FluOMatic: '1.0'
 Flury: '0.1'
 FlyingR: 0.2.0
-FoReco: 0.1.1
+FoReco: 0.2.0
 ForIT: '1.0'
 ForImp: 1.0.3
 ForeCA: 0.2.7
@@ -2167,7 +2167,7 @@ GOxploreR: 1.2.0
 GPArotation: 2014.11-1
 GPB: '1.2'
 GPC: '0.1'
-GPCMlasso: 0.1-4
+GPCMlasso: 0.1-5
 GPCSIV: 0.1.0
 GPFDA: 3.1.1
 GPGame: 1.1.0
@@ -2396,6 +2396,7 @@ HDLSSkST: 2.0.0
 HDMD: '1.2'
 HDMT: 1.0.3
 HDPenReg: 0.94.7
+HDSpatialScan: 1.0.0
 HDclassif: 2.2.0
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
@@ -3091,7 +3092,7 @@ MAMA: 2.2.1
 MAMS: 1.4.1
 MAMSE: 0.2-1
 MANCIE: '1.4'
-MANOVA.RM: 0.4.3
+MANOVA.RM: 0.5.1
 MAP: 0.1.3
 MAPA: 2.0.4
 MAPITR: 1.1.2
@@ -3517,7 +3518,7 @@ MiClip: '1.3'
 MiDA: 0.1.2
 MiRAnorm: 1.0.0
 MiRKAT: 1.1.2
-MiRNAQCD: 1.1.1
+MiRNAQCD: 1.1.2
 MiRSEA: '1.1'
 MiSPU: '1.0'
 MiST: '1.0'
@@ -3900,7 +3901,7 @@ OpVaR: 1.1.1
 OpasnetUtils: '1.3'
 OpenABMCovid19: '1.0'
 OpenCL: 0.2-1
-OpenImageR: 1.1.8
+OpenImageR: 1.1.9
 OpenLand: 1.0.1
 OpenML: '1.10'
 OpenMPController: 0.2-5
@@ -4167,7 +4168,7 @@ Paneldata: '1.0'
 PantaRhei: 0.1.2
 ParBayesianOptimization: 1.2.4
 ParDNAcopy: '2.0'
-ParallelDSM: '0.2'
+ParallelDSM: 0.2.1
 ParallelForest: 1.1.0
 ParallelLogger: 2.0.1
 ParallelPC: '1.2'
@@ -4274,7 +4275,7 @@ Pomic: 1.0.4
 PoolTestR: 0.1.1
 PooledCohort: 0.0.1
 PooledMeanGroup: '1.0'
-PopED: 0.5.0
+PopED: 0.6.0
 PopGenKit: '1.0'
 PopGenReport: 3.0.4
 PopGenome: 2.7.5
@@ -8613,7 +8614,7 @@ compendiumdb: 1.0.3
 comperank: 0.1.1
 comperes: 0.2.5
 compete: '0.1'
-competitiontoolbox: 0.1.3
+competitiontoolbox: 0.7.0
 completejourney: 1.1.0
 complex.surv.dat.sim: 2.0.0
 complexNet: 0.1.0
@@ -9273,7 +9274,7 @@ deep: 0.1.0
 deepMOU: 0.1.1
 deepNN: '1.0'
 deepboost: 0.1.6
-deepdep: 0.2.2
+deepdep: 0.2.5.2
 deepdive: 1.0.2
 deepgmm: 0.1.62
 deepgp: 0.2.0
@@ -10076,7 +10077,7 @@ endorse: 1.6.1
 endtoend: '2.29'
 energy: 1.7-8
 energyr: 0.1.2
-enerscape: 0.1.0
+enerscape: 0.1.1
 enetLTS: 0.1.0
 english: 1.2-5
 engsoccerdata: 0.1.5
@@ -10426,6 +10427,7 @@ facebook.S4: 1.1.0
 facerec: 0.1.0
 facilitation: 0.5.2
 factas: '2.3'
+factiv: 0.1.0
 factoextra: 1.0.7
 factoptd: 1.0.3
 factor.switching: '1.1'
@@ -11066,7 +11068,7 @@ gamlss.demo: 4.3-3
 gamlss.dist: 5.3-2
 gamlss.foreach: 1.0-5
 gamlss.inf: 1.0-1
-gamlss.lasso: 1.0-0
+gamlss.lasso: 1.0-1
 gamlss.mx: 6.0-0
 gamlss.nl: 4.1-0
 gamlss.spatial: 2.0.0
@@ -11362,7 +11364,7 @@ ggDCA: '1.1'
 ggExtra: '0.9'
 ggFacetSample: 1.0.0
 ggHorizon: '0.1'
-ggOceanMaps: 1.0.9
+ggOceanMaps: '1.1'
 ggPMX: 1.1.2
 ggQC: 0.0.31
 ggQQunif: 0.1.5
@@ -11379,7 +11381,7 @@ ggamma: 1.0.1
 gganimate: 1.0.7
 ggasym: 0.1.6
 ggbeeswarm: 0.6.0
-ggbreak: 0.0.2
+ggbreak: 0.0.3
 ggbuildr: 0.1.0
 ggbump: 0.1.0
 ggcharts: 0.2.1
@@ -12292,7 +12294,7 @@ iNOTE: '1.0'
 iNZightMR: 2.2.5
 iNZightPlots: 2.13.0
 iNZightRegression: 1.3.1
-iNZightTS: 1.5.7
+iNZightTS: 1.5.8
 iNZightTools: 1.11.0
 iNextPD: 0.3.2
 iRF: 2.0.0
@@ -12377,7 +12379,7 @@ identifyr: '0.1'
 identity: 0.2-1
 ideq: 0.1.4
 ider: 0.1.0
-idiogramFISH: 2.0.4
+idiogramFISH: 2.0.5
 idm: 1.8.2
 idmTPreg: '1.1'
 idmodelr: 0.3.2
@@ -12824,7 +12826,7 @@ jsr223: 0.3.4
 jstable: 1.0.2
 jstor: 0.3.9
 jtGWAS: '1.5'
-jti: 0.7.0
+jti: 0.7.1
 jtools: 2.1.3
 jtrans: 0.2.1
 jubilee: 0.3.3
@@ -12989,7 +12991,7 @@ krige: 0.6.1
 kriging: '1.1'
 krippendorffsalpha: '1.1'
 krm: 2020.5-20
-ks: 1.12.0
+ks: 1.13.0
 ksNN: 0.1.2
 kscons: 0.7.0
 kselection: 0.2.0
@@ -13043,7 +13045,7 @@ lago: 0.1-1
 lagsarlmtree: 1.0-1
 lakemorpho: 1.1.1
 laketemps: 0.5.1
-lamW: 2.0.0
+lamW: 2.1.0
 lambda.r: 1.2.4
 lambda.tools: 1.0.9
 lambdaTS: 1.0.0
@@ -14078,6 +14080,7 @@ mimi: 0.2.0
 mimsy: 0.6.2
 minMSE: 0.3.1
 minPtest: '1.7'
+mind: 0.1.0
 mindicador: 0.1.5
 mindr: 1.2.3
 mineCitrus: 1.0.0
@@ -14135,7 +14138,7 @@ mistral: 2.2.1
 misty: 0.4.0
 mitml: 0.4-1
 mitools: '2.4'
-mitre: 0.6.0
+mitre: 1.0.0
 mix: 1.0-10
 mixAK: '5.3'
 mixAR: 0.22.5
@@ -14330,7 +14333,7 @@ modellingTools: 0.1.0
 modello: '0.1'
 modelplotr: 1.1.0
 modelr: 0.1.8
-modelsummary: 0.7.0
+modelsummary: 0.8.0
 modeltests: 0.1.4
 modeltime: 0.5.1
 modeltime.ensemble: 0.4.0
@@ -14424,7 +14427,7 @@ move: 4.0.6
 moveHMM: '1.7'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.3
-movecost: '0.7'
+movecost: '0.8'
 mozzie: 0.1.0
 mp: 0.4.1
 mpMap: '1.14'
@@ -15576,6 +15579,7 @@ partR2: 0.9.1
 partialAR: 1.0.12
 partialCI: 1.2.0
 partialOR: '0.9'
+particle.swarm.optimisation: '1.0'
 particles: 0.2.2
 partition: 0.1.3
 partitionBEFsp: '1.0'
@@ -15998,7 +16002,7 @@ platowork: 0.0.1
 playitbyr: 0.2-1
 playwith: 0.9-8
 plde: 0.1.2
-pleLMA: 0.1.0
+pleLMA: 0.1.1
 pleiades: 0.3.0
 pleio: '1.6'
 pleiotest: 1.0.0
@@ -16480,7 +16484,7 @@ psycho: 0.6.1
 psychometric: '2.2'
 psychomix: 1.1-8
 psychonetrics: '0.9'
-psychotools: 0.6-0
+psychotools: 0.6-1
 psychotree: 0.15-3
 psychrolib: 2.5.1
 psymonitor: 0.0.2
@@ -17053,7 +17057,7 @@ rcdd: 1.2-2
 rcdk: 3.5.0
 rcdklibs: '2.3'
 rchallenge: 1.3.4
-rcheology: 4.0.5.0
+rcheology: 4.1.0.0
 rchess: '0.1'
 rchie: 1.0.2
 rcicr: 0.3.4.1
@@ -17370,6 +17374,7 @@ reval: 2.0.0
 revdbayes: 1.3.9
 revealedPrefs: 0.4.1
 revealjs: '0.9'
+reveneraR: 0.1.0
 revengc: 1.0.4
 reverseR: '0.1'
 revgeo: '0.15'
@@ -17840,7 +17845,7 @@ rsf: 0.2.2
 rsgcc: '1.0'
 rsggm: '0.3'
 rsig: '1.0'
-rsimsum: 0.9.1
+rsimsum: 0.10.0
 rsinaica: 0.6.1
 rskey: 0.4.4
 rsleep: 1.0.3
@@ -18105,7 +18110,7 @@ sbfc: 1.0.2
 sbgcop: '0.980'
 sbioPN: 1.1.0
 sbl: 0.1.0
-sbm: 0.2.2
+sbm: 0.4.1
 sbmSDP: '0.2'
 sbo: 0.5.0
 sboost: 0.1.1
@@ -19058,6 +19063,7 @@ spectral.methods: 0.7.2.133
 spectralAnalysis: 3.12.0
 spectralGP: 1.3.3
 spectralGraphTopology: 0.2.0
+spectre: 1.0.0
 spectrino: 2.0.0
 spectrolab: 0.0.11
 sped: 0.2-1
@@ -20245,7 +20251,7 @@ trust: 0.1-8
 trustOptim: 0.8.6.2
 trustedtimestamping: 0.2.6
 truthiness: 1.2.4
-tryCatchLog: 1.2.1
+tryCatchLog: 1.2.4
 ts.extend: 0.1.1
 tsBSS: 0.5.7
 tsDyn: 10-1.2
@@ -21007,7 +21013,7 @@ xoi: 0.69-2
 xopen: 1.0.0
 xpectr: 0.4.0
 xplain: 0.2.2
-xplorerr: 0.1.1
+xplorerr: 0.1.2
 xpose: 0.4.12
 xpose.nlmixr: 0.2.0
 xpose4: 4.7.1
