@@ -806,7 +806,7 @@ CNLTreg: 0.1-2
 CNLTtsa: 0.1-2
 CNOGpro: '1.1'
 CNVRG: '0.2'
-CNVScope: 3.5.6
+CNVScope: 3.6.0
 CNVassoc: '2.2'
 CNVassocData: '1.0'
 CNprep: '2.0'
@@ -2620,7 +2620,7 @@ INDperform: 0.2.2
 INLABMA: 0.1-11
 INLAMSM: 0.2-2
 INLAutils: 0.0.5
-INQC: 2.0.4
+INQC: 2.0.5
 INSPIRE: '1.5'
 INTRIGUE: 0.1.0
 IOHanalyzer: 0.1.4
@@ -6027,7 +6027,7 @@ StratifiedBalancing: 0.3.0
 StratifiedMedicine: 1.0.3
 StratifiedRF: 0.2.2
 StratifiedSampling: 0.2.0
-StratigrapheR: 1.2.1
+StratigrapheR: 1.2.2
 StreamMetabolism: 1.1.2
 StreamingLm: '0.1'
 StressStrength: 1.0.2
@@ -6466,7 +6466,7 @@ VFP: '1.3'
 VFS: 1.0.2
 VGAM: 1.1-5
 VGAMdata: 1.1-5
-VGAMextra: 0.0-4
+VGAMextra: 0.0-5
 VHDClassification: '0.3'
 VICmodel: 0.1.2
 VIF: '1.0'
@@ -8365,7 +8365,7 @@ cliapp: 0.1.1
 clickR: 0.7.35
 clickstream: 1.3.1
 clifford: 1.0-2
-clifro: 3.2-3
+clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-7
 climaemet: 0.2.0
@@ -9332,7 +9332,7 @@ depmix: 0.9.16
 depmixS4: 1.5-0
 depth: 2.1-1.1
 depth.plot: '0.1'
-depthTools: '0.6'
+depthTools: '0.7'
 dequer: 2.0-1
 derivmkts: 0.2.4
 desc: 1.3.0
@@ -9890,7 +9890,7 @@ ecoengine: '1.9'
 ecolMod: 1.2.6
 ecolTest: 0.0.1
 ecolottery: 1.0.0
-econet: 0.1.93
+econet: 0.1.94
 econetwork: 0.5.1
 economiccomplexity: '1.1'
 econullnetr: 0.2.0
@@ -10501,7 +10501,7 @@ fastVAR: '1.2'
 fasta: 0.1.0
 fastai: 2.0.8
 fastclime: 1.4.1
-fastcluster: 1.1.25
+fastcluster: 1.2.2
 fastcmh: 0.2.7
 fastcmprsk: 1.1.1
 fastcox: 1.1.3
@@ -10560,7 +10560,7 @@ fdaPOIFD: 1.0.0
 fdadensity: 0.1.2
 fdakma: 1.2.1
 fdaoutlier: 0.2.0
-fdapace: 0.5.6
+fdapace: 0.5.7
 fdasrvf: 1.9.6
 fdatest: '2.1'
 fdcov: 1.1.0
@@ -11542,7 +11542,7 @@ gitlabr: 1.1.6
 gitlink: 0.1.3
 gitter: '1.1'
 givitiR: '1.3'
-gjam: 2.3.6
+gjam: 2.3.7
 gk: 0.5.1
 gkgraphR: 1.0.2
 gkmSVM: 0.81.0
@@ -12679,7 +12679,7 @@ isdals: 2.0-4
 isdparser: 0.4.0
 isingLenzMC: 0.2.5
 island: 0.2.7
-islasso: 1.2.2
+islasso: 1.3.0
 ismev: '1.42'
 isni: '1.2'
 isnullptr: 1.0.1
@@ -13158,7 +13158,7 @@ leaderCluster: '1.2'
 leafR: '0.3'
 leafSTAR: '1.0'
 leafdown: 1.0.0
-leafem: 0.1.3
+leafem: 0.1.6
 leafgl: 0.1.1
 leaflegend: 0.3.0
 leaflet: 2.0.4.1
@@ -13196,7 +13196,7 @@ legion: 0.1.0
 legislatoR: '1.0'
 legocolors: 0.3.1
 lehdr: 0.2.4
-leiden: 0.3.7
+leiden: 0.3.8
 leidenAlg: 0.1.1
 leiv: 2.0-7
 lemma: 1.3-4
@@ -16497,7 +16497,7 @@ pt: '1.0'
 pterrace: '1.0'
 ptest: 1.0-8
 ptinpoly: '2.8'
-ptm: 0.2.3
+ptm: 0.2.4
 ptmixed: 1.0.3
 ptproc: '1.0'
 pts2polys: 0.1.3
@@ -17151,7 +17151,7 @@ readMzXmlData: 2.8.1
 readODS: 1.7.0
 readOffice: 0.2.2
 readability: 0.1.1
-readabs: 0.4.8
+readabs: 0.4.9
 readbitmap: 0.1.5
 readbulk: 1.1.3
 reader: 1.0.6
@@ -20080,7 +20080,7 @@ tnam: '1.6'
 tnet: 3.0.16
 toOrdinal: 1.1-0.0
 toaster: 0.5.5
-todor: 0.1.1
+todor: 0.1.2
 togglr: 0.1.33
 tokenbrowser: 0.1.5
 tokenizers: 0.2.1
@@ -20251,7 +20251,7 @@ trundler: 0.1.19
 trust: 0.1-8
 trustOptim: 0.8.6.2
 trustedtimestamping: 0.2.6
-truthiness: 1.2.4
+truthiness: 1.2.5
 tryCatchLog: 1.2.4
 ts.extend: 0.1.1
 tsBSS: 0.5.7
