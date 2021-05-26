@@ -2694,7 +2694,7 @@ ImportExport: '1.3'
 ImputeRobust: 1.3-1
 InDisc: 1.0.3
 InPosition: 0.12.7.1
-InSilicoVA: 1.3.1
+InSilicoVA: 1.3.2
 IncDTW: 1.1.4.2
 IncomPair: 0.1.0
 IncucyteDRC: 0.5.4
@@ -2974,6 +2974,7 @@ LSPFP: 1.0.3
 LSRS: 0.2.0
 LST: 1.1.0
 LSTS: '2.0'
+LSVAR: '1.2'
 LSX: 0.9.9
 LTPDvar: '1.2'
 LTR: 1.0.0
@@ -3428,7 +3429,7 @@ MasterBayes: '2.57'
 MatManlyMix: 1.1.1
 MatSkew: 0.1.5
 MatTransMix: 0.1.9
-MatchIt: 4.1.0
+MatchIt: 4.2.0
 MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
 MatchItSE: '1.0'
@@ -3519,7 +3520,7 @@ MfUSampler: 1.0.4
 MiClip: '1.3'
 MiDA: 0.1.2
 MiRAnorm: 1.0.0
-MiRKAT: 1.1.2
+MiRKAT: 1.1.3
 MiRNAQCD: 1.1.2
 MiRSEA: '1.1'
 MiSPU: '1.0'
@@ -3617,6 +3618,7 @@ MullerPlot: 0.1.2
 MultAlloc: '1.2'
 MultBiplotR: 1.3.30
 MultEq: '2.3'
+MultIS: 0.5.1
 MultNonParam: 1.3.4
 MultOrdRS: 0.1-2
 MultiABEL: 1.1-6
@@ -4478,6 +4480,7 @@ R62S3: 1.4.1
 R6DS: 1.2.0
 R6Frame: 0.1.0
 R6P: 0.2.0
+RABR: 0.1.0
 RAC: '1.5'
 RAD: '0.3'
 RADami: 1.1-2
@@ -6417,7 +6420,7 @@ UScensus2000blkgrp: '0.03'
 UScensus2000cdp: '0.03'
 UScensus2000tract: '0.03'
 UScensus2010: '0.11'
-USgas: 0.1.0
+USgas: 0.1.1
 USgrid: 0.1.2
 UStatBookABSC: 1.0.0
 UWHAM: '1.0'
@@ -7369,7 +7372,7 @@ bayesPop: 8.1-3
 bayesQR: '2.3'
 bayesSurv: '3.3'
 bayesTFR: 7.0-4
-bayesZIB: 0.0.1
+bayesZIB: 0.0.2
 bayesammi: 0.1.0
 bayesanova: '1.4'
 bayesbio: 1.0.0
@@ -7709,7 +7712,7 @@ bivgeom: '1.0'
 bivpois: 0.50-3
 bivquant: '0.1'
 bivrp: 1.2-2
-biwavelet: 0.20.19
+biwavelet: 0.20.21
 biwt: '1.0'
 bizdays: 1.0.8
 bjscrapeR: 0.1.0
@@ -7903,7 +7906,7 @@ bruceR: 0.6.4
 brunnermunzel: 1.4.1
 brxx: 0.1.2
 bs: '1.0'
-bs4Dash: 0.5.0
+bs4Dash: 2.0.0
 bsTools: 0.1.0
 bsam: 1.1.3
 bsamGP: 1.2.3
@@ -8000,7 +8003,7 @@ cairoDevice: 2.28.2
 calACS: 2.2.2
 calcUnique: 0.1.2
 calcWOI: 1.0.3
-calculus: 0.3.0
+calculus: 0.3.1
 calendR: '1.1'
 calendar: 0.0.1
 calibFit: 2.1.0
@@ -9870,7 +9873,7 @@ ebimetagenomics: '0.6'
 ebirdst: 0.2.2
 ebmc: 1.0.0
 ebmstate: 0.1.2
-ebreg: 0.1.2
+ebreg: 0.1.3
 ec50estimator: 0.1.0
 ecap: 0.1.2
 ecb: 0.4.0
@@ -10169,7 +10172,7 @@ epsi: 1.1-0
 epsiwal: 0.1.0
 epuR: '0.1'
 epubr: 0.6.2
-epwshiftr: 0.1.2
+epwshiftr: 0.1.3
 epxToR: 0.4-1
 eq5d: 0.9.0
 eqn2svg: 0.1.0
@@ -11425,6 +11428,7 @@ ggguitar: 0.1.1
 ggh4x: 0.1.2.1
 gghalfnorm: 1.1.2
 gghalves: 0.1.1
+ggheatmap: '1.0'
 gghighlight: 0.3.1
 gghilbertstrings: 0.3.3
 ggimage: 0.2.8
@@ -12367,7 +12371,7 @@ icesSAG: 1.3-6
 icesTAF: 3.6.0
 icesVocab: 1.1.9
 ichimoku: 0.1.2
-icmm: '1.1'
+icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
 icosa: 0.10.1
@@ -16035,7 +16039,7 @@ plogr: 0.2.0
 plot.matrix: '1.6'
 plot2groups: '0.10'
 plot3D: '1.4'
-plot3Drgl: 1.0.1
+plot3Drgl: 1.0.2
 plot3logit: 3.1.0
 plotAndPlayGTK: 0.8.78
 plotGMM: 0.2.2
@@ -16663,6 +16667,7 @@ qtl: 1.48-1
 qtl2: '0.24'
 qtl2convert: '0.24'
 qtl2fst: '0.24'
+qtl2ggplot: 1.0.6
 qtl2pleio: 1.4.3
 qtlDesign: '0.941'
 qtlbim: 2.0.7
@@ -18550,6 +18555,7 @@ shinysurveys: 0.1.2
 shinytest: 1.5.0
 shinythemes: 1.2.0
 shinytoastr: 2.1.1
+shinyvalidate: 0.1.0
 shinyypr: 0.0.2
 shipunov: '1.14'
 shock: '1.0'
@@ -19398,7 +19404,7 @@ strat: '0.1'
 stratEst: 1.0.1
 strataG: 2.4.905
 stratallo: 0.1.0
-stratamatch: 0.1.6
+stratamatch: 0.1.7
 stratasphere: '1.0'
 stratbr: '1.2'
 strategicplayers: '1.0'
@@ -19434,7 +19440,7 @@ striprtf: 0.5.2
 strm: 0.1.2
 strptimer: 0.1.0
 strucchange: 1.5-2
-strucchangeRcpp: 1.5-3-1.0.2
+strucchangeRcpp: 1.5-3-1.0.3
 structSSI: '1.1'
 structree: 1.1.7
 strum: '0.6'
