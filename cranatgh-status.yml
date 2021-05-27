@@ -189,7 +189,7 @@ AlleleShift: 1.0-1
 AlphaPart: 0.8.1
 AlphaSimR: 1.0.1
 AlphaVantageClient: 0.0.1
-Amelia: 1.7.6
+Amelia: 1.8.0
 AmericanCallOpt: '0.95'
 AmesHousing: 0.0.4
 AmigaFFH: 0.3.1
@@ -1359,7 +1359,7 @@ DTSg: 0.7.0
 DTWBI: '1.1'
 DTWUMI: '1.0'
 DTwrappers: 0.0.1
-DUBStepR: 1.1.1
+DUBStepR: 1.1.2
 DVHmetrics: 0.4.1
 DWBmodelUN: 1.0.0
 DWD: '0.11'
@@ -1478,7 +1478,7 @@ Dire: 1.0.3
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
-Directional: '4.9'
+Directional: '5.0'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.14
@@ -1780,7 +1780,7 @@ ExactMultinom: 0.1.2
 ExactNumCI: 1.0.0
 ExactPath: '1.0'
 ExactSampling: '1.0'
-ExamPAData: 0.3.0
+ExamPAData: 0.4.0
 ExceedanceTools: 1.2.2
 ExcelFunctionsR: 0.1.4
 ExcessMass: '1.0'
@@ -3722,7 +3722,7 @@ NMRS: '1.0'
 NMVANOVA: 1.1.0
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.7.0
+NNS: 0.7.0.1
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.1.9
 NOAAWeather: 0.1.0
@@ -5211,7 +5211,7 @@ Repliscope: 1.1.0
 RepoGenerator: 0.0.1
 ReporteRs: 0.8.9
 ReporteRsjars: 0.0.4
-Require: 0.0.10
+Require: 0.0.12
 ResearchAssociate: 1.0.1
 ResearchMethods: '1.4'
 ResidentialEnergyConsumption: 1.1.0
@@ -7191,7 +7191,7 @@ auctionr: 0.1.0
 audio: 0.1-7
 audiolyzR: 0.4-9
 audiometry: 0.2.0
-audit: 0.1-1
+audit: 0.1-2
 audited: '1.9'
 auditor: 1.3.0
 audrex: 1.0.0
@@ -11847,7 +11847,7 @@ grpss: 3.0.1
 grr: 0.9.5
 grt: 0.2.1
 gsDesign: 3.2.0
-gsEasy: '1.3'
+gsEasy: '1.4'
 gsalib: '2.1'
 gsarima: 0.1-5
 gsbDesign: 1.0-1
@@ -11882,7 +11882,7 @@ gtable: 0.3.0
 gtcorr: 0.2-1
 gte: 1.2-2
 gtfs2gps: 1.4-1
-gtfsio: 0.1.0
+gtfsio: 0.1.1
 gtfsrouter: 0.0.4
 gtfstools: 0.1.0
 gtheory: 0.1.2
@@ -12846,7 +12846,7 @@ jtrans: 0.2.1
 jubilee: 0.3.3
 jug: 0.1.7
 juicr: '0.1'
-junctions: 1.1.1
+junctions: 2.0.1
 junr: 0.1.3
 justifier: 0.1.0
 jvcoords: 1.0.2
@@ -13537,7 +13537,7 @@ lucr: 0.2.0
 ludic: 0.1.8
 lue: 0.2.1
 lulcc: 1.0.4
-lumberjack: 1.2.0
+lumberjack: 1.2.1
 lumendb: 0.2.2
 lunar: 0.1-04
 lutz: 0.3.1
@@ -13740,7 +13740,7 @@ matrixTests: 0.1.9
 matrixcalc: 1.0-3
 matrixdist: 1.0.2
 matrixpls: 1.0.13
-matrixprofiler: 0.1.4
+matrixprofiler: 0.1.5
 matrixsampling: 2.0.0
 matsbyname: 0.4.16
 matsindf: 0.3.6
@@ -14763,6 +14763,7 @@ nat.utils: 0.5.1
 nationwider: 1.1.1
 natmanager: 0.4.7
 natserv: 1.0.0
+natstrat: 1.0.0
 natural: 0.9.0
 naturalsort: 0.1.3
 nauf: 1.1.0
@@ -15337,7 +15338,7 @@ optional: '2.0'
 optionstrat: 1.4.1
 optiscale: 1.2.2
 optismixture: '0.1'
-optmatch: 0.9-13
+optmatch: 0.9-14
 optparse: 1.6.6
 optpart: 3.0-3
 optrcdmaeAT: 1.0.0
@@ -17575,7 +17576,7 @@ rmac: '0.9'
 rmaf: 3.0.1
 rmake: 1.1.0
 rmangal: 2.0.2
-rmapshaper: 0.4.4
+rmapshaper: 0.4.5
 rmapzen: 0.4.2
 rmargint: 2.0.2
 rmarkdown: '2.8'
@@ -17945,7 +17946,7 @@ rtrends: 0.1.0
 rtrie: 0.1.1
 rtrim: 2.1.1
 rts: 1.0-49
-rtsVis: 0.0.2
+rtsVis: 0.0.3
 rtsdata: 0.1.2
 rtson: '1.3'
 rtsplot: 0.1.3
@@ -19032,7 +19033,7 @@ spatialkernel: 0.4-8
 spatialnbda: '1.0'
 spatialprobit: 0.9-11
 spatialreg: 1.1-8
-spatialrisk: 0.6.8
+spatialrisk: 0.6.9
 spatialsample: 0.1.0
 spatialsegregation: '2.45'
 spatialwarnings: 3.0.0
