@@ -516,7 +516,7 @@ BayesPiecewiseICAR: 0.2.1
 BayesPostEst: 0.3.1
 BayesProject: '1.0'
 BayesQTLBIC: 1.0-2
-BayesRGMM: '1.0'
+BayesRGMM: '1.1'
 BayesRS: 0.1.3
 BayesReversePLLH: '1.4'
 BayesS5: '1.41'
@@ -732,6 +732,7 @@ CCMnet: 0.0-3
 CCMtools: '1.0'
 CCP: '1.1'
 CCTpack: 1.5.2
+CCWeights: 0.1.2
 CCpop: '1.0'
 CDECRetrieve: 0.1.4
 CDF.PSIdekick: '1.2'
@@ -1309,7 +1310,7 @@ DOvalidation: 1.1.0
 DPBBM: 0.2.5
 DPM.GGM: '0.14'
 DPP: 0.1.2
-DPQ: 0.4-3
+DPQ: 0.4-4
 DPQmpfr: 0.3-1
 DPWeibull: '1.7'
 DPpackage: 1.1-7
@@ -2079,7 +2080,7 @@ GDAtools: '1.6'
 GDD: 0.1-8
 GDELTtools: '1.2'
 GDINA: 2.8.0
-GE: 0.1.8
+GE: 0.1.9
 GEEaSPU: 1.0.2
 GEEmediate: 1.1.3
 GEInter: 0.3.0
@@ -2398,7 +2399,7 @@ HDLSSkST: 2.0.0
 HDMD: '1.2'
 HDMT: 1.0.3
 HDPenReg: 0.94.7
-HDSpatialScan: 1.0.0
+HDSpatialScan: 1.0.1
 HDclassif: 2.2.0
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
@@ -3882,7 +3883,7 @@ OWEA: 0.1.1
 Oarray: 1.4-9
 OasisR: 3.0.2
 Observation: 0.2.0
-OceanView: 1.0.5
+OceanView: '1.0'
 Ohit: 1.0.0
 Ohmage: '2.9'
 OjaNP: 1.0-0
@@ -4081,7 +4082,7 @@ POSetR: 1.0.3
 POT: 1.1-7
 POUMM: 2.1.7
 POV: 0.1.4
-PP: 0.6.2
+PP: 0.6.3-11
 PP3: '1.2'
 PPCI: 0.1.5
 PPMR: '1.0'
@@ -5211,7 +5212,7 @@ Repliscope: 1.1.0
 RepoGenerator: 0.0.1
 ReporteRs: 0.8.9
 ReporteRsjars: 0.0.4
-Require: 0.0.12
+Require: 0.0.9
 ResearchAssociate: 1.0.1
 ResearchMethods: '1.4'
 ResidentialEnergyConsumption: 1.1.0
@@ -5410,7 +5411,7 @@ Rvoterdistance: '1.1'
 Rwave: 2.4-8
 Rwhois: 1.0.5
 Rwinsteps: 1.0-1.1
-Rwofost: 0.6-3
+Rwofost: 0.8-2
 Rwordseg: 0.3-2
 Rwtss: 0.8.0
 RxCEcolInf: 0.1-4
@@ -6396,7 +6397,7 @@ UBCRM: 1.0.1
 UBL: 0.0.7
 UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.0.0
-UCSCXenaTools: 1.4.4
+UCSCXenaTools: 1.4.5
 UComp: 2.1.2
 UKFE: 0.1.6
 UKgrid: 0.1.3
@@ -6448,7 +6449,7 @@ VA: '1.0'
 VALERIE: 1.1.0
 VAM: 0.5.2
 VAR.etp: '0.7'
-VARDetect: 0.1.2
+VARDetect: 0.1.3
 VARMER: 1.0.0
 VARSEDIG: '1.9'
 VARshrink: 0.3.1
@@ -7049,7 +7050,7 @@ archetypal: 1.1.1
 archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
-archiveRetriever: 0.0.2
+archiveRetriever: 0.1.0
 archivist: 2.3.6
 archivist.github: 0.2.6
 arcos: '1.27'
@@ -7209,7 +7210,7 @@ autoFRK: 1.4.3
 autoMrP: '0.98'
 autoSEM: 0.1.0
 autoTS: 0.9.11
-autocart: 1.4.4
+autocart: 1.4.5
 autocogs: 0.1.3
 autoencoder: '1.1'
 autoharp: 0.0.7
@@ -7892,7 +7893,7 @@ brm: 1.1.1
 brms: 2.15.0
 brnn: '0.8'
 brokenstick: 1.1.0
-brolgar: 0.1.0
+brolgar: 0.1.1
 broman: 0.72-4
 broom: 0.7.6
 broom.helpers: 1.3.0
@@ -8024,7 +8025,7 @@ cancerGI: 1.0.0
 cancerTiming: 3.1.8
 candisc: 0.8-5
 canprot: 1.1.0
-cansim: 0.3.7
+cansim: 0.3.8
 canvas: 0.2-0
 canvasXpress: 1.32.9
 canvasXpress.data: 1.32.7
@@ -8687,6 +8688,7 @@ conicfit: 1.0.4
 conics: '0.3'
 conjoint: '1.41'
 conjurer: 1.2.0
+conleyreg: 0.1.1
 connect3: 0.1.0
 connectedness: '0.2'
 connections: 0.1.1
@@ -10505,7 +10507,7 @@ fastR2: 1.2.1
 fastRG: 0.3.0
 fastSOM: 1.0.1
 fastStat: '1.4'
-fastText: 1.0.0
+fastText: 1.0.1
 fastTextR: 2.0.0
 fastVAR: '1.2'
 fasta: 0.1.0
@@ -10977,7 +10979,7 @@ funreg: '1.2'
 funtimes: '7.0'
 furniture: 1.9.10
 furrr: 0.2.2
-fusedest: 1.3.1
+fusedest: '1.3'
 fuser: 1.0.1
 fusionchartsR: 0.0.2
 fusionclust: 1.0.0
@@ -11434,7 +11436,7 @@ gghilbertstrings: 0.3.3
 ggimage: 0.2.8
 ggimg: 0.1.1
 gginference: 0.1.3
-gginnards: 0.0.4
+gginnards: 0.1.0
 ggip: 0.2.0
 ggiraph: 0.7.10
 ggiraphExtra: 0.3.0
@@ -11997,7 +11999,7 @@ hdeco: '0.4'
 hdf5: 1.6.9
 hdf5r: 1.3.3
 hdfqlr: 0.6-1
-hdi: 0.1-8
+hdi: 0.1-9
 hdiVAR: 1.0.1
 hdlm: 1.3.1
 hdm: 0.3.1
@@ -12130,6 +12132,7 @@ hmm.discnp: 3.0-6
 hmma: 1.1.0
 hmmhdd: '1.0'
 hmmm: 1.0-4
+hmmr: 1.0-0
 hms: 1.1.0
 hmstimer: 0.1.0
 hnp: 1.2-6
@@ -13066,7 +13069,7 @@ lambdaTS: 1.0.0
 lamme: 0.0.1
 lancet.iraqmortality: 0.2-0
 landest: '1.0'
-landmap: 0.0.9
+landmap: 0.0.11
 landpred: '1.0'
 landsat: 1.1.0
 landsat8: 0.1-10
@@ -13448,7 +13451,7 @@ logspline: 2.1.8
 lokern: 1.1-9
 lolR: '2.1'
 lolog: '1.2'
-lomb: '1.2'
+lomb: '2.0'
 longCatEDA: '0.31'
 longROC: '1.0'
 longRPart: '1.0'
@@ -13567,7 +13570,7 @@ mHG: '1.1'
 mHMMbayes: 0.1.1
 mMPA: 1.2.0
 mQTL: '1.0'
-mRMRe: 2.1.0
+mRMRe: 2.1.1
 mRchmadness: 1.0.0
 mRm: 1.1.6
 mRpostman: 1.0.0
@@ -14907,7 +14910,7 @@ nightmares: 0.0.2
 nilde: 1.1-4
 nima: 0.6.2
 nimble: 0.11.1
-nimbleCarbon: 0.1.1
+nimbleCarbon: 0.1.2
 nimbleEcology: 0.4.0
 nimbleSCR: 0.1.1
 nimbleSMC: 0.10.0
@@ -14961,7 +14964,7 @@ nltm: 1.4.2
 nlts: 1.0-2
 nmaINLA: 1.0.0
 nmadb: 1.2.0
-nmaplateplot: 1.0.0
+nmaplateplot: 1.0.1
 nmathresh: 0.1.6
 nmcdr: 0.3.0
 nmfem: 1.0.5
@@ -15589,7 +15592,7 @@ parsemsf: 0.1.1
 parser: '0.1'
 parsermd: 0.1.2
 parsetools: 0.1.3
-parsnip: 0.1.5
+parsnip: 0.1.6
 parspatstat: 0.1-4
 partDSA: 0.9.14
 partR2: 0.9.1
@@ -16191,7 +16194,7 @@ pompom: 0.2.1
 pooh: 0.3-2
 pool: 0.1.6
 poolVIM: 1.0.0
-poolfstat: 1.2.0
+poolfstat: 2.0.0
 pooling: 1.1.2
 poolr: 0.8-2
 poorman: 0.2.5
@@ -17464,7 +17467,7 @@ rgrs: '0.3'
 rgsp: 0.2.0
 rgugik: 0.3.1
 rgw: 0.3.0
-rhandsontable: 0.3.7
+rhandsontable: 0.3.8
 rhcoclust: 1.1.0
 rheroicons: 0.3.2
 rhierbaps: 1.1.3
@@ -18833,7 +18836,7 @@ snapshot: 0.1.2
 snem: 0.1.1
 snfa: 0.0.1
 snht: 1.0.5
-snipEM: 1.0.1
+snipEM: '1.0'
 snn: '1.1'
 snnR: '1.0'
 snort: '1.0'
@@ -19559,6 +19562,7 @@ surveyeditor: '1.0'
 surveyoutliers: '0.1'
 surveyplanning: '4.0'
 surveysd: 1.3.0
+surveyvoi: 1.0.2
 survidm: 1.3.1
 survivALL: 0.9.3
 survival: 3.2-11
@@ -20155,6 +20159,7 @@ trackter: 0.1.1
 tractor.base: 3.3.3.1
 trade: 0.8.0
 tradeCosts: 0.3-1
+tradepolicy: 0.5.0
 tradestatistics: '1.1'
 trafo: 1.0.1
 trainR: 0.0.1
@@ -20232,7 +20237,7 @@ triads: '0.2'
 trialr: 0.1.5
 triangle: '0.12'
 triangulation: 0.5.0
-triangulr: 1.2.0
+triangulr: 1.2.1
 trib: 1.2.0
 tribe: 0.1.8
 tricolore: 1.2.2
@@ -20463,7 +20468,7 @@ universals: 0.0.4
 unix: 1.5.2
 unjoin: 0.1.0
 unknownR: '0.4'
-unmarked: 1.1.0
+unmarked: 1.1.1
 unnest: 0.0.2
 unpivotr: 0.6.1
 unrepx: '1.0'
@@ -20682,7 +20687,7 @@ visova: '1.1'
 visreg: 2.7.0
 vistime: 1.2.1
 vistributions: 0.1.2
-visualFields: 0.6.1
+visualFields: '0.6'
 visualR: 2.0.2
 visualizationTools: '0.2'
 visualize: 4.4.0
