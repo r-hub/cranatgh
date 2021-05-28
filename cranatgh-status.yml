@@ -2586,6 +2586,7 @@ IDF: 2.1.0
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
+IDSL.IPA: '1.1'
 IDSpatialStats: 0.3.5
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -3546,7 +3547,7 @@ MissingDataGUI: 0.2-5
 MitISEM: '1.2'
 MittagLeffleR: 0.3.0
 MixAll: 1.5.1
-MixGHD: 2.3.4
+MixGHD: 2.3.5
 MixMAP: 1.3.4
 MixMatrix: 0.2.4
 MixMod: '1.0'
@@ -3795,7 +3796,7 @@ NetworkInference: 1.2.4
 NetworkReg: '1.0'
 NetworkRiskMeasures: 0.1.4
 NetworkSim: 0.1.0
-NetworkToolbox: 1.4.1
+NetworkToolbox: 1.4.2
 NeuralNetTools: 1.5.2
 NeuralSens: 0.2.2
 Newdistns: '2.1'
@@ -4218,7 +4219,7 @@ PermuteNGS: 1.0.3
 PerseusR: 0.3.4
 PersianStemmer: '1.0'
 PersomicsArray: '1.0'
-PesticideLoadIndicator: 0.0.1
+PesticideLoadIndicator: 1.0.0
 PetfindeR: 2.1.0
 PhViD: 1.0.8
 PharmPow: '1.0'
@@ -4490,7 +4491,7 @@ RAEN: '0.2'
 RAFM: '1.1'
 RAHRS: 1.0.2
 RAINBOWR: 0.1.26
-RALSA: 1.0.0
+RALSA: 1.0.1
 RAM: 1.2.1.7
 RAMClustR: 1.2.1
 RAMP: 2.0.2
@@ -5409,6 +5410,7 @@ Rvelslant: 0.2-3
 Rvmmin: 2018-4.17.1
 Rvoterdistance: '1.1'
 Rwave: 2.4-8
+RweaveExtra: 1.0-0
 Rwhois: 1.0.5
 Rwinsteps: 1.0-1.1
 Rwofost: 0.8-2
@@ -5639,6 +5641,7 @@ SPMS: '2.0'
 SPODT: 0.9-1
 SPORTSCausal: '1.0'
 SPOT: 2.5.0
+SPOTMisc: 1.2.2
 SPPcomb: '0.1'
 SPREDA: '1.1'
 SPRT: '1.0'
@@ -6237,7 +6240,7 @@ TSsql: 2017.4-1
 TSstudio: 0.1.6
 TSxls: 2013.8-2
 TSzip: 2013.9-1
-TTAinterfaceTrendAnalysis: 1.5.6
+TTAinterfaceTrendAnalysis: 1.5.7
 TTCA: 0.1.1
 TTR: 0.24.2
 TTS: '1.0'
@@ -6809,7 +6812,7 @@ admmDensestSubmatrix: 0.1.0
 adnuts: 1.1.2
 adobeanalyticsr: 0.1.5
 adoption: 0.6.2
-adoptr: 0.4.1
+adoptr: 0.4.2
 adpss: 0.1.1
 ads: 1.5-5
 adsDataHubR: 0.1.1
@@ -6979,7 +6982,7 @@ anscombiser: 1.0.0
 ant: 0.0-8
 antaresEditObject: 0.1.9
 antaresProcessing: 0.18.0
-antaresRead: 2.2.5
+antaresRead: 2.2.6
 antaresViz: 0.15.4
 anthro: 0.9.4
 anticlust: 0.5.6
@@ -7092,7 +7095,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
-arrow: 4.0.0.1
+arrow: 4.0.1
 ars: '0.6'
 arse: 1.0.0
 arsenal: 3.6.2
@@ -7903,7 +7906,7 @@ brotli: '1.2'
 brr: 1.0.0
 brranching: 0.7.0
 brt: 1.3.0
-bruceR: 0.6.4
+bruceR: 0.7.0
 brunnermunzel: 1.4.1
 brxx: 0.1.2
 bs: '1.0'
@@ -8176,7 +8179,7 @@ cellWise: 2.2.5
 cellranger: 1.1.0
 celltrackR: 0.3.1
 celsius: 1.0.7
-cem: 1.1.27
+cem: 1.1.29
 cemco: '0.1'
 cems: '0.4'
 cenGAM: 0.5.3
@@ -8816,7 +8819,7 @@ covRobust: 1.1-3
 covTest: '1.0'
 covTestR: 0.1.4
 covafillr: 0.4.4
-covatest: 1.1.3
+covatest: 1.1.4
 coveffectsplot: 0.0.9.1
 covequal: 0.1.0
 covfefe: 0.1.0
@@ -9605,7 +9608,7 @@ dnc: '1.2'
 dnet: 1.1.7
 dng: 0.2.1
 dnr: 0.3.5
-do: 1.7.0.0
+do: 1.8.0.0
 doBy: 4.6.10
 doFuture: 0.12.0
 doMC: 1.3.7
@@ -10272,7 +10275,7 @@ evalITR: 0.2.0
 evaluate: '0.14'
 evaluator: 0.4.2
 evclass: 1.1.1
-evclust: 2.0.1
+evclust: 2.0.2
 evd: 2.3-3
 evdbayes: 1.1-1
 event: 1.1.1
@@ -10293,7 +10296,7 @@ evident: 1.0.2
 evir: 1.7-4
 evmix: '2.12'
 evobiR: '1.1'
-evolqg: 0.2-8
+evolqg: 0.2-9
 evolvability: 1.1.0
 evoper: 0.5.0
 evora: '1.0'
@@ -10698,7 +10701,7 @@ fitbitScraper: 0.1.8
 fitbitViz: 1.0.1
 fitcoach: '1.0'
 fitdc: 0.0.1
-fitdistrplus: 1.1-3
+fitdistrplus: 1.1-5
 fitmix: 0.1.0
 fitplc: 1.2-3
 fitteR: 0.1.0
@@ -11379,7 +11382,7 @@ ggExtra: '0.9'
 ggFacetSample: 1.0.0
 ggHorizon: '0.1'
 ggOceanMaps: '1.1'
-ggPMX: 1.2.1
+ggPMX: 1.2.2
 ggQC: 0.0.31
 ggQQunif: 0.1.5
 ggROC: '1.0'
@@ -11477,6 +11480,7 @@ ggpmisc: 0.3.9
 ggpointdensity: 0.1.0
 ggpol: 0.0.7
 ggpolypath: 0.1.0
+ggpp: 0.4.0
 ggprism: 1.0.2
 ggpubr: 0.4.0
 ggpval: 0.2.4
@@ -12748,7 +12752,7 @@ ivmte: 1.2.0
 ivpack: '1.2'
 ivpanel: '1.0'
 ivprobit: '1.1'
-ivreg: 0.5-0
+ivreg: 0.6-0
 ivregEX: '1.0'
 ivsacim: '1.1'
 ivtools: 2.3.0
@@ -13281,6 +13285,7 @@ lilikoi: 2.0.4
 lillies: 0.2.9
 limSolve: 1.5.6
 lime: 0.5.2
+liminal: 0.1.2
 limitplot: '1.2'
 limma: 2.9.9
 lin.eval: 0.1.2
@@ -14632,6 +14637,7 @@ multirich: 2.1.3
 multiridge: '1.7'
 multiselect: 0.1.0
 multisensi: 2.1-1
+multisite.accuracy: '1.0'
 multisom: '1.3'
 multispatialCCM: '1.0'
 multistate: '0.2'
@@ -14676,7 +14682,7 @@ mvProbit: 0.1-10
 mvQuad: 1.0-6
 mvSLOUCH: 2.6.4
 mvShapiroTest: '1.0'
-mvabund: 4.1.9
+mvabund: 4.1.12
 mvbutils: 2.8.232
 mvc: '1.3'
 mvcluster: '1.0'
@@ -15240,7 +15246,7 @@ onehot: 0.1.1
 onelogin: 0.2.0
 onemap: 2.1.3
 onemapsgapi: 1.0.0
-onepass: 0.1.1
+onepass: 0.1.2
 onewaytests: '2.6'
 onion: 1.5-0
 onlineBcp: 0.1.1
@@ -15769,7 +15775,7 @@ penalizedLDA: '1.1'
 penalizedSVM: 1.1.2
 penalizedclr: 0.1.0
 penaltyLearning: 2020.5.13
-pencal: 0.4.1
+pencal: 0.4.2
 pencopula: '0.3'
 pencopulaCond: '0.2'
 pendensity: 0.2.13
@@ -16500,6 +16506,7 @@ psychNET: 0.0.4
 psychReport: 3.0.1
 psychTools: 2.1.3
 psychmeta: 2.5.1
+psychmetadata: 1.0.0
 psycho: 0.6.1
 psychometric: '2.2'
 psychomix: 1.1-8
@@ -17032,7 +17039,7 @@ rayrender: 0.21.2
 rayshader: 0.24.10
 raytracing: 0.1.0
 rbace: 0.2.2
-rbacon: 2.5.5
+rbacon: 2.5.6
 rbamtools: 2.9.2
 rbart: '1.0'
 rbcb: 0.1.5
@@ -18088,6 +18095,7 @@ samplingDataCRT: '1.0'
 samplingEstimates: 0.1-3
 samplingVarEst: '1.4'
 samplingbook: 1.2.4
+sampsizeval: 1.0.0.0
 samr: '3.0'
 sams: 0.4.0
 samurais: 0.1.0
@@ -18476,7 +18484,7 @@ sharpeRratio: 1.4.2
 sharpr2: 1.1.1.0
 sharpshootR: 1.8.1
 sharx: 1.0-5
-shattering: 1.0.4
+shattering: 1.0.5
 shatteringdt: 0.1.0
 shazam: 1.0.2
 sheldusr: '0.1'
@@ -19500,7 +19508,7 @@ supclust: 1.1-0
 supcluster: '1.0'
 superMDS: 1.0.2
 superb: 0.9.5.0
-superbiclust: '1.1'
+superbiclust: '1.2'
 superdiag: '2.0'
 superheat: 0.1.0
 superml: 0.5.3
@@ -19835,6 +19843,7 @@ tesseract: 4.1.1
 test2norm: 0.1.1
 testComplexity: 0.1.1
 testDriveR: 0.5.1
+testarguments: 0.0.1
 testassay: 0.1.1
 testcorr: 0.2.0
 testequavar: 0.1.2
@@ -20190,7 +20199,7 @@ transport: 0.12-2
 transx: 0.0.1
 trapezoid: 2.0-0
 trawl: 0.2.2
-treasuryTR: 0.1.3
+treasuryTR: 0.1.4
 treatSens: '2.1'
 tree: 1.0-40
 tree.bins: 0.1.1
