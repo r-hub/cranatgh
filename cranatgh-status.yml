@@ -686,7 +686,7 @@ BusinessDuration: 0.2.0
 BuyseTest: 2.3.0
 Bvalue: '1.0'
 C443: 3.2.0
-C50: 0.1.4
+C50: 0.1.5
 CA3variants: '3.0'
 CADFtest: 0.3-3
 CADStat: 3.0.8
@@ -1194,7 +1194,7 @@ DAGGER: '1.4'
 DAIME: 2.1.3
 DAISIE: 3.0.1
 DAKS: 2.1-3
-DALEX: 2.2.0
+DALEX: 2.2.1
 DALEX2: '0.9'
 DALEXtra: 2.1.1
 DALY: 1.5.0
@@ -1550,6 +1550,7 @@ E4tools: 0.1.1
 EAinference: 0.2.3
 EAlasso: 0.1.0
 EBASS: '0.1'
+EBCHS: 0.1.0
 EBEN: '4.6'
 EBMAforecast: 1.0.2
 EBPRS: 2.1.0
@@ -1582,7 +1583,7 @@ EFAutilities: 2.1.1
 EFDR: '1.2'
 EFS: 1.0.3
 EGAnet: 0.9.8
-EGRET: 3.0.5
+EGRET: 3.0.6
 EGRETci: 2.0.4
 EHR: 0.3-1
 EHRtemporalVariability: 1.1.4
@@ -2390,7 +2391,7 @@ HCD: '0.1'
 HCR: 0.1.1
 HCT: 0.1.0
 HCTR: 0.1.1
-HCmodelSets: '1.1'
+HCmodelSets: 1.1.2
 HDBRR: 0.1.8
 HDCI: 1.0-2
 HDCurves: 0.1.0
@@ -2696,7 +2697,7 @@ ImpactEffectsize: 0.6.1
 ImpactIV: '1.0'
 ImportExport: '1.3'
 ImputeRobust: 1.3-1
-InDisc: 1.0.3
+InDisc: 1.0.4
 InPosition: 0.12.7.1
 InSilicoVA: 1.3.2
 IncDTW: 1.1.4.2
@@ -3441,7 +3442,7 @@ MatchLinReg: 0.7.3
 MatchThem: 1.0.0
 Matching: 4.9-9
 MatchingFrontier: 1.0.0
-Matrix: 1.3-3
+Matrix: 1.3-4
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.9.5
 MatrixEQTL: '2.3'
@@ -3694,6 +3695,7 @@ NFLSimulatoR: 0.3.0
 NFP: 0.99.4
 NFWdist: 0.1.0
 NGBVS: 0.2.0
+NGLVieweR: 1.3.1
 NGSSEML: '2.1'
 NHANES: 2.1.0
 NHEMOtree: '1.0'
@@ -5783,6 +5785,7 @@ SentimentAnalysis: 1.3-4
 SeqAlloc: '1.0'
 SeqBayesDesign: 0.1.0
 SeqDetect: 1.0.7
+SeqExpMatch: 0.1.0
 SeqFeatR: 0.3.1
 SeqGrapheR: 0.4.8.5
 SeqKat: 0.0.8
@@ -5834,9 +5837,10 @@ SimComp: '3.3'
 SimCop: 0.7.0
 SimCorMultRes: 1.7.0
 SimCorrMix: 0.1.1
-SimDesign: '2.3'
+SimDesign: '2.5'
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.1
+SimEvolEnzCons: 1.0.2
 SimHap: 1.2.0
 SimHaz: '0.1'
 SimInf: 8.2.0
@@ -6779,6 +6783,7 @@ addhazard: 1.1.0
 addinsJoaoMelo: 0.1.0
 addinsOutline: 0.1.6
 addinslist: 0.4.0
+additive: 0.0.1
 additiveDEA: '1.1'
 additivityTests: 1.1-4
 addreg: '3.0'
@@ -7812,6 +7817,7 @@ boostmtree: 1.5.0
 boostr: 1.0.0
 boot: 1.3-28
 boot.heterogeneity: 1.1.2
+boot.pval: 0.1.0
 bootComb: 1.0.1
 bootES: '1.2'
 bootImpute: 1.2.0
@@ -8403,7 +8409,7 @@ clinfun: 1.0.15
 clinmon: 0.6.0
 clinsig: '1.2'
 clinspacy: 1.0.2
-clintools: 0.8.0
+clintools: 0.8.1
 clipp: 1.0.0
 clipr: 0.7.1
 cliqueMS: 0.3.1
@@ -8597,7 +8603,7 @@ comFuncs: 0.0.5
 comat: 0.9.1
 comato: '1.1'
 combinat: 0.0-8
-combinationpvalues: 0.1.0
+combinationpvalues: 0.1.2
 combinedevents: 0.1.1
 combiter: 1.0.3
 comclim: 0.9.5
@@ -9009,7 +9015,7 @@ ctqr: '2.0'
 ctrdata: 1.6.0
 ctrlGene: 1.0.1
 cts: '1.0'
-ctsem: 3.4.3
+ctsem: 3.5.0
 ctsemOMX: 1.0.3
 ctv: 0.8-5
 cuRe: 1.0.1
@@ -9672,6 +9678,7 @@ downsize: 0.2.2
 dpa: 1.0-3
 dparser: 1.3.1-4
 dpcR: '0.5'
+dpcc: 1.0.0
 dpcid: '1.0'
 dpglasso: '1.0'
 dplR: 1.7.2
@@ -10067,7 +10074,7 @@ emil: 2.2.8
 emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 1.6.0
+emmeans: 1.6.1
 emoa: 0.5-0.1
 emojifont: 0.5.5
 emon: 1.3.2
@@ -10144,7 +10151,7 @@ eph: 0.4.0
 epi2loc: 1.0-1
 epiDisplay: 3.5.0.1
 epiGWAS: 1.0.2
-epiR: 2.0.19
+epiR: 2.0.26
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.9.2.8
@@ -10287,7 +10294,7 @@ event.chart: '2.0'
 eventInterval: '1.3'
 eventTrack: 1.0.0
 eventdataR: 0.2.0
-eventglm: 1.0.2
+eventglm: 1.2.1
 eventr: 1.0.0
 events: '0.5'
 eventstream: 0.1.0
@@ -10342,7 +10349,7 @@ experDesign: 0.1.0
 experiment: 1.2.0
 expert: 1.0-0
 expint: 0.1-6
-explor: 0.3.8
+explor: 0.3.9
 exploratory: 0.3.13
 explore: 0.7.0
 exploreR: '0.1'
@@ -10813,7 +10820,7 @@ forcats: 0.5.1
 foreSIGHT: 1.0.0
 foreach: 1.5.1
 forecTheta: '2.2'
-forecast: '8.14'
+forecast: '8.15'
 forecastHybrid: 5.0.19
 forecastML: 0.9.0
 forecastSNSTS: 1.3-0
@@ -11503,6 +11510,7 @@ ggroups: 2.1.0
 ggsci: '2.9'
 ggseas: 0.5.4
 ggseg: 1.6.3
+ggseg3d: 1.6.3
 ggseqlogo: '0.1'
 ggshadow: 0.0.2
 ggside: 0.1.0
@@ -11915,7 +11923,7 @@ gumbel: 1.10-2
 gunit: 1.0.0
 gunsales: 0.1.2
 gustave: 0.4.1
-gutenbergr: 0.2.0
+gutenbergr: 0.2.1
 gvc: 6.0.0
 gvcR: 0.1.0
 gvcm.cat: '1.9'
@@ -12368,6 +12376,7 @@ ical: 0.1.6
 icamix: '1.0'
 icapca: '1.1'
 icarus: 0.3.1
+iccCounts: 1.0.1
 iccbeta: 1.2.0
 iccde: 0.3.2
 icd: 4.0.9
@@ -12660,7 +12669,7 @@ ipcwswitch: 1.0.4
 ipdmeta: '2.4'
 ipdw: 0.2-9
 ipeaData: 0.0.2
-ipeadatar: 0.1.2
+ipeadatar: 0.1.3
 ipflasso: '1.1'
 ipfp: 1.0.1
 ipfr: 1.0.2
@@ -12813,7 +12822,7 @@ jmvconnect: 1.2.18
 jmvcore: 1.2.23
 jocre: 0.3.3
 joinXL: 1.0.1
-joineR: 1.2.5
+joineR: 1.2.6
 joineRML: 0.4.5
 joineRmeta: 0.1.2
 joinet: 0.0.7
@@ -13009,7 +13018,7 @@ kokudosuuchi: 1.0.0
 kolmim: '1.0'
 komadown: 0.2.0
 komaletter: 0.4.2
-konfound: 0.3.0
+konfound: 0.4.0
 kosel: 0.0.1
 kpcalg: 1.0.1
 kpeaks: 1.1.0
@@ -13751,7 +13760,7 @@ matricks: 0.8.2
 matrixLaplacian: '1.0'
 matrixNormal: 0.0.5
 matrixProfile: 0.5.0
-matrixStats: 0.58.0
+matrixStats: 0.59.0
 matrixStrucTest: 1.0.0
 matrixTests: 0.1.9
 matrixcalc: 1.0-3
@@ -14027,7 +14036,7 @@ mfx: 1.2-2
 mgarchBEKK: 0.0.2
 mgc: 2.0.2
 mgcViz: 0.1.6
-mgcv: 1.8-35
+mgcv: 1.8-36
 mgee2: '0.2'
 mglR: 0.1.0
 mglmn: 0.1.0
@@ -14180,7 +14189,7 @@ mixIndependR: 1.0.0
 mixKernel: '0.6'
 mixOmics: 6.3.2
 mixPHM: 0.7-2
-mixR: 0.1.1
+mixR: 0.2.0
 mixRasch: '1.1'
 mixRaschTools: 1.1.1
 mixSPE: 0.9.1
@@ -14397,7 +14406,7 @@ mokken: 3.0.6
 moko: 1.0.3
 molaR: '4.5'
 molic: 2.0.2
-mombf: 3.0.1
+mombf: 3.0.3
 momentchi2: 0.1.5
 momentfit: '0.2'
 moments: '0.14'
@@ -14633,7 +14642,7 @@ multilm: '0.1'
 multimark: 2.1.2
 multimode: '1.5'
 multinbmod: '1.0'
-multinet: 3.3.2
+multinet: '4.0'
 multinets: 0.2.2
 multinma: 0.3.0
 multinomRob: 1.8-6.1
@@ -14658,6 +14667,7 @@ multiv: 1.1-6
 multivar: 0.0.2
 multivariance: 2.4.0
 multivator: 1.1-9
+multiverse: 0.5.0
 multiviewtest: 2.0.0
 multiwave: '1.4'
 multiway: 1.0-6
@@ -14683,7 +14693,7 @@ mutatr: '0.1'
 mutoss: 0.1-12
 mutossGUI: 0.1-11
 mvGPS: 1.1.1
-mvLSW: 1.2.3
+mvLSW: '1.2'
 mvMISE: '1.0'
 mvMORPH: 1.1.4
 mvMonitoring: 0.1.0
@@ -15496,7 +15506,7 @@ packageDiff: '0.1'
 packageRank: 0.4.2
 packagedocs: 0.4.0
 packagefinder: 0.3.2
-packager: 1.11.1
+packager: 1.12.0
 packagetrackr: 0.1.1
 packcircles: 0.3.4
 packdep: 0.3.1
@@ -15707,7 +15717,7 @@ pcaPA: '2.0'
 pcaPP: 1.9-74
 pcadapt: 4.3.3
 pcal: 1.0.0
-pcalg: 2.7-2
+pcalg: 2.7-3
 pcalls: '1.0'
 pccc: 1.0.5
 pcdpca: '0.4'
@@ -16515,7 +16525,7 @@ psych: 2.1.3
 psychNET: 0.0.4
 psychReport: 3.0.1
 psychTools: 2.1.3
-psychmeta: 2.5.1
+psychmeta: 2.6.0
 psychmetadata: 1.0.0
 psycho: 0.6.1
 psychometric: '2.2'
@@ -16778,7 +16788,7 @@ r2lUniv: '0.9'
 r2lh: '0.7'
 r2mlm: 0.2.0
 r2pmml: 0.26.0
-r2rtf: 0.2.0
+r2rtf: 0.3.0
 r2shortcode: '0.1'
 r2stl: 1.0.0
 r2sundials: 5.0.0-10
@@ -16818,7 +16828,7 @@ rDNAse: 1.1-1
 rDVR: 0.1.1
 rDecode: 0.1.0
 rDotNet: 0.9.1
-rDppDiversity: 0.0.1
+rDppDiversity: 0.0.2
 rEDM: 1.8.2
 rEHR: '1.0'
 rEMM: 1.0-11
@@ -16990,7 +17000,7 @@ rangeModelMetadata: 0.1.3
 rangemap: 0.1.16
 rangemodelR: '1.0'
 ranger: 0.12.1
-rankFD: 0.0.5
+rankFD: 0.1.0
 rankdist: 1.1.4
 rankhazard: 1.1.0
 rankreg: 0.2-2
@@ -17535,7 +17545,7 @@ ris: '1.2'
 risaac: '0.1'
 rise: 1.0.4
 riskCommunicator: 0.1.0
-riskParityPortfolio: 0.2.1
+riskParityPortfolio: 0.2.2
 riskPredictClustData: 0.2.6
 riskR: '1.1'
 riskRegression: 2020.12.08
@@ -18040,7 +18050,7 @@ rysgran: 2.1.0
 rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.8
-s2: 1.0.4
+s2: 1.0.5
 s20x: 3.1-30
 s2dv: 0.1.1
 s2dverification: 2.9.0
@@ -18300,7 +18310,7 @@ seasonalclumped: 0.3.2
 seasonalview: '0.3'
 seastests: 0.14.2
 seawaveQ: 2.0.2
-secr: 4.4.1
+secr: 4.4.4
 secrdesign: 2.5.11
 secret: 1.1.0
 secrettext: 0.1.0
@@ -18321,7 +18331,7 @@ seedwater: '2.0'
 seedy: '1.3'
 seeg: '1.0'
 seem: '1.0'
-seer: 1.1.5
+seer: 1.1.6
 seewave: 2.1.6
 seg: 0.5-7
 segMGarch: '1.2'
@@ -18623,6 +18633,7 @@ signal: 0.7-7
 signal.hsmm: '1.2'
 signalHsmm: '1.5'
 signalextraction: 2.0.3
+signed.backbones: 0.91.5
 signmedian.test: 1.5.1
 signnet: 0.7.1
 signs: 0.1.2
@@ -18641,7 +18652,7 @@ simITS: 0.1.1
 simLife: 0.5.2
 simMP: 0.17.3
 simMSM: 1.1.41
-simPATHy: '0.4'
+simPATHy: '0.5'
 simPH: 1.3.13
 simPop: 1.2.1
 simPopulation: 0.4.1
@@ -18760,7 +18771,7 @@ skimr: 2.1.3
 sklarsomega: 2.0-1
 skm: 0.1.5.4
 skmeans: 0.2-13
-sknifedatar: 0.1.1
+sknifedatar: 0.1.2
 skpr: 0.66.5
 skynet: 1.4.0
 skyscapeR: 0.2.2
@@ -18942,7 +18953,7 @@ soundgen: 2.0.0
 source.gist: 1.0.0
 sourceR: 1.1.0
 sourcetools: 0.1.7
-sovereign: 1.0.0
+sovereign: 1.1.0
 sp: 1.4-5
 sp23design: '0.9'
 sp500SlidingWindow: 0.1.0
@@ -18998,7 +19009,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.6.2
+sparklyr: 1.6.3
 sparklyr.flint: 0.2.1
 sparklyr.nested: 0.0.3
 sparktex: '0.1'
@@ -20435,7 +20446,7 @@ uchardet: 1.1.0
 uclust: 0.2.0
 ucminf: 1.1-4
 udapi: 0.1.3
-udpipe: 0.8.5
+udpipe: 0.8.6
 udunits: '1.3'
 udunits2: '0.13'
 ufs: 0.4.3
@@ -20647,7 +20658,7 @@ vegalite: 0.6.1
 vegan: 2.5-7
 vegan3d: 1.1-2
 vegawidget: 0.3.2
-vegclust: 1.7.7
+vegclust: 2.0.0
 vegdata: 0.9.8
 vegetarian: '1.2'
 vegperiod: 0.3.1
