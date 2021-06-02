@@ -4140,7 +4140,7 @@ PSW: 1.1-3
 PSweight: 1.1.4
 PTAk: 1.3-34
 PTE: '1.7'
-PTXQC: 1.0.9
+PTXQC: 1.0.10
 PTwins: 0.1.1
 PUPAIM: 0.2.0
 PUlasso: 3.2.4
@@ -4599,6 +4599,7 @@ RFGLS: '1.1'
 RFLPtools: '1.9'
 RFOC: 3.4-6
 RFc: 0.1-2
+RFclust: 0.1.1
 RFgroove: '1.1'
 RFinanceYJ: 0.3.1
 RFinfer: 0.2.0
@@ -6098,7 +6099,7 @@ SurviMChd: 0.1.1
 SvyNom: '1.1'
 SwarmSVM: 0.1-6
 SweaveListingUtils: 0.7.7
-SwimmeR: 0.9.0
+SwimmeR: 0.10.0
 SwissAir: 1.1.5
 SyNet: '2.0'
 SyScSelection: 1.0.2
@@ -6832,6 +6833,7 @@ afCEC: 1.0.2
 afc: 1.4.0
 afdx: 1.1.1
 afex: 0.28-1
+affinity: 0.2.5
 affinitymatrix: 0.1.0
 affluenceIndex: '1.0'
 afmToolkit: 0.0.1
@@ -7202,7 +7204,7 @@ auctestr: 1.0.0
 auctionr: 0.1.0
 audio: 0.1-7
 audiolyzR: 0.4-9
-audiometry: 0.2.0
+audiometry: 0.3.0
 audit: 0.1-2
 audited: '1.9'
 auditor: 1.3.0
@@ -7282,7 +7284,7 @@ baRulho: 1.0.5
 babar: '1.0'
 babel: 0.3-0
 babelgene: '21.4'
-babelwhale: 1.0.1
+babelwhale: 1.0.2
 babette: '2.2'
 babsim.hospital: 11.8.2
 babynames: 1.0.1
@@ -8526,7 +8528,7 @@ codalm: 0.1.0
 codeCollection: 0.1.2
 codebook: 0.9.2
 codebreaker: 0.0.2
-codemetar: 0.3.0
+codemetar: 0.3.1
 codename: 0.2.0
 codep: 0.9-1
 coder: 0.13.5
@@ -9016,7 +9018,7 @@ ctrdata: 1.6.0
 ctrlGene: 1.0.1
 cts: '1.0'
 ctsem: 3.5.0
-ctsemOMX: 1.0.3
+ctsemOMX: 1.0.4
 ctv: 0.8-5
 cuRe: 1.0.1
 cubature: 2.0.4.2
@@ -9188,7 +9190,7 @@ dataprep: 0.1.3
 dataquieR: 1.0.5
 dataresqc: 1.1.0
 datarium: 0.1.0
-datarobot: 2.17.1
+datarobot: 2.18.0
 datasailr: 0.8.8
 datasauRus: 0.1.4
 dataseries: 0.2.0
@@ -9460,7 +9462,7 @@ diffEq: '1.0'
 diffIRT: '1.5'
 diffMeanVar: 0.0.6
 diffMeshGP: 0.1.0
-diffcor: 0.6.4
+diffcor: 0.7.0
 diffdepprop: 0.1-9
 diffdf: 1.0.4
 diffeR: 0.0-6
@@ -9505,6 +9507,7 @@ dirmult: 0.1.3-4
 disaggR: 0.2.1
 disaggregation: 0.1.3
 disastr.api: 1.0.5
+discAUC: 0.4.0
 discSurv: 1.4.1
 discfrail: '0.1'
 discgolf: 0.2.0
@@ -9918,7 +9921,7 @@ ecolottery: 1.0.0
 econet: 0.1.94
 econetwork: 0.5.1
 economiccomplexity: '1.1'
-econullnetr: 0.2.0
+econullnetr: 0.2.1
 ecoreg: 0.2.3
 ecorest: 1.0.0
 ecoretriever: '0.2'
@@ -9939,8 +9942,8 @@ ed50: 0.1.1
 ed50simulation: 0.1.1
 eda4treeR: 0.3.0
 edarf: 1.1.1
-edbuildmapr: 0.2.0
-edbuildr: 0.2.1
+edbuildmapr: 0.3.0
+edbuildr: 0.3.0
 edcc: 1.0-0
 edci: 1.1-3
 eddi: 0.0.1
@@ -11981,6 +11984,7 @@ happytime: 0.1.0
 hapsim: '0.31'
 hardhat: 0.1.5
 harmonicmeanp: '3.0'
+harmony: 0.1.0
 harrietr: 0.2.3
 harrypotter: 2.1.1
 harvestr: 0.7.1
@@ -13513,6 +13517,7 @@ lpSolveAPI: 5.5.2.0-17.7
 lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpdensity: '2.2'
+lphom: 0.1.3
 lpint: '2.0'
 lpirfs: 0.2.0
 lplyr: 0.1.6
@@ -13788,6 +13793,7 @@ maxstat: 0.7-25
 mazeGen: 0.1.3
 mazealls: 0.2.0
 mazeinda: 0.0.1
+mazing: 1.0.2
 mbRes: 0.1.0
 mbbefd: 0.8.9.1
 mbclusterwise: '1.0'
@@ -13837,7 +13843,7 @@ mclust1998: 1.1-9
 mclustcomp: 0.3.1
 mcmc: 0.9-7
 mcmcOutput: 0.1.1
-mcmcabn: '0.3'
+mcmcabn: '0.4'
 mcmcderive: 0.1.1
 mcmcensemble: 3.0.0
 mcmcplots: 0.4.3
@@ -14405,7 +14411,7 @@ mojson: '0.1'
 mokken: 3.0.6
 moko: 1.0.3
 molaR: '4.5'
-molic: 2.0.2
+molic: 2.0.3
 mombf: 3.0.3
 momentchi2: 0.1.5
 momentfit: '0.2'
@@ -14595,7 +14601,7 @@ mueRelativeRisk: 0.1.1
 mugnet: 1.02.0
 muhaz: 1.2.6.4
 muir: 0.1.0
-mully: 2.1.31
+mully: 2.1.33
 mulset: 1.0.0
 multDM: 1.1.3
 multbxxc: 1.0.1
@@ -16422,7 +16428,7 @@ processmonitR: 0.1.0
 processx: 3.5.2
 procmaps: 0.0.3
 prodest: 1.0.1
-prodigenr: 0.6.0
+prodigenr: 0.6.1
 prodlim: 2019.11.13
 productivity: 1.1.0
 productplots: 0.1.1
@@ -17008,7 +17014,7 @@ rapbase: 1.10.0
 rapiclient: 0.1.3
 rapidjsonr: 1.2.0
 rapidoc: 8.4.3
-rapidraker: 0.1.2
+rapidraker: 0.1.3
 rapidxmlr: 0.1.0
 rappdirs: 0.3.3
 rapport: '1.1'
@@ -17034,7 +17040,7 @@ rasterdiv: 0.2-3
 rasterize: '0.1'
 rasterly: 0.2.0
 rasterpdf: 0.1.1
-ratPASTA: 0.1.2
+ratPASTA: 0.2.1
 ratelimitr: 0.4.1
 ratematrix: 1.2.3
 rater: 1.1.0
@@ -17385,7 +17391,7 @@ reqres: 0.2.3
 request: 0.1.0
 requireR: 1.0.0.1
 rerddap: 0.7.4
-rerddapXtracto: 1.1.0
+rerddapXtracto: 1.1.1
 rerf: 2.0.4
 resample: '0.4'
 resampledata: 0.3.1
@@ -17585,7 +17591,7 @@ rkt: '1.6'
 rkvo: '0.1'
 rlandscape: '1.0'
 rlang: 0.4.11
-rlas: 1.4.0
+rlas: 1.5.0
 rlc: 0.3.0
 rld: '1.0'
 rle: 0.9.2
@@ -17699,9 +17705,9 @@ robustETM: '1.0'
 robustHD: 0.6.1
 robustMVMR: 0.1.0
 robustSingleCell: 0.1.1
-robustX: 1.2-4
+robustX: 1.2-5
 robustarima: 0.2.6
-robustbase: 0.93-7
+robustbase: 0.93-8
 robustfa: 1.0-5
 robustgam: 0.1.7
 robustlm: 0.1.0
@@ -17807,7 +17813,7 @@ rplexos: 1.1.8
 rplos: 1.0.0
 rplotengine: 1.0-7
 rpls: 0.6.0
-rplum: 0.2.1
+rplum: 0.2.2
 rpmodel: 1.0.4
 rpms: 0.4.0
 rpn: '1.0'
@@ -19615,6 +19621,7 @@ survsup: 0.0.2
 survtmle: 1.1.1
 survutils: 1.0.2
 survxai: 0.2.2
+susieR: 0.11.33
 sutteForecastR: '0.1'
 svDialogs: 1.0.3
 svDialogstcltk: 0.9-4
@@ -19845,7 +19852,7 @@ tenispolaR: 0.1.4
 tensor: '1.5'
 tensorA: 0.36.2
 tensorBF: 1.0.2
-tensorBSS: 0.3.7
+tensorBSS: 0.3.8
 tensorTS: 0.1.1
 tensorflow: 2.4.0
 tensorordinal: 0.2.0
