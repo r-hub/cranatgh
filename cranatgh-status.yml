@@ -75,7 +75,7 @@ AMModels: 0.1.4
 AMOEBA: '1.1'
 AMORE: 0.2-16
 AMPLE: 0.0.2
-AMR: 1.6.0
+AMR: 1.7.1
 ANLP: '1.3'
 ANN: '0.1'
 ANN2: 2.3.4
@@ -266,7 +266,7 @@ AzureKeyVault: 1.0.4
 AzureKusto: 1.0.6
 AzureML: 0.2.15
 AzureQstor: 1.0.1
-AzureRMR: 2.4.1
+AzureRMR: 2.4.2
 AzureStor: 3.5.0
 AzureTableStor: 1.0.0
 AzureVM: 2.2.2
@@ -1361,7 +1361,7 @@ DTSg: 0.7.1
 DTWBI: '1.1'
 DTWUMI: '1.0'
 DTwrappers: 0.0.1
-DUBStepR: 1.1.2
+DUBStepR: 1.1.3
 DVHmetrics: 0.4.1
 DWBmodelUN: 1.0.0
 DWD: '0.11'
@@ -1945,7 +1945,7 @@ FaultTree: 0.99.5
 FcircSEC: 1.0.0
 FeaLect: '1.20'
 FeatureHashing: 0.9.1.4
-FeatureImpCluster: 0.1.2
+FeatureImpCluster: 0.1.4
 FedData: 2.5.7
 FeedbackTS: '1.5'
 FertBoot: 0.5.0
@@ -2113,7 +2113,7 @@ GFisher: 0.1.0
 GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.1
-GGIR: 2.3-0
+GGIR: 2.4-0
 GGMM: 1.0.1
 GGMncv: 2.0.0
 GGMnonreg: 1.0.0
@@ -2784,7 +2784,7 @@ JMbayes2: 0.1-6
 JMcmprsk: 0.9.10
 JMdesign: '1.1'
 JOP: '3.6'
-JOPS: 0.1.13
+JOPS: 0.1.15
 JOUSBoost: 2.1.0
 JPEN: '1.0'
 JPSurv: 1.0.1
@@ -3624,7 +3624,7 @@ MultAlloc: '1.2'
 MultBiplotR: 1.3.30
 MultEq: '2.3'
 MultIS: 0.5.1
-MultNonParam: 1.3.4
+MultNonParam: 1.3.5
 MultOrdRS: 0.1-2
 MultiABEL: 1.1-6
 MultiBD: 0.2.0
@@ -5237,7 +5237,7 @@ Rfit: 0.24.2
 RfmriVC: '1.0'
 Rfmtool: 4.1.0
 Rfolding: '1.0'
-Rforestry: 0.9.0.4
+Rforestry: 0.9.0.40
 Rfractran: '1.0'
 Rfssa: 1.0.0
 Rfun: '1.0'
@@ -5941,7 +5941,7 @@ SpaDES.core: 1.0.6
 SpaDES.tools: 0.3.6
 SpaTimeClus: 1.0.1
 SpadeR: 0.1.1
-SparkR: 2.4.6
+SparkR: 3.1.2
 SparseBiplots: 4.0.0
 SparseDC: 0.1.17
 SparseFactorAnalysis: '1.0'
@@ -7516,7 +7516,7 @@ bentcableAR: 0.3.0
 benthos: 1.3-6
 ber: '4.0'
 berryFunctions: 1.20.1
-bestNormalize: 1.7.0
+bestNormalize: 1.8.0
 bestSDP: 0.1.2
 bestglm: 0.37.3
 bestridge: 1.0.5
@@ -7607,7 +7607,7 @@ bigpca: '1.1'
 bigreadr: 0.2.4
 bigrf: 0.1-6
 bigrquery: 1.3.2
-bigsnpr: 1.6.1
+bigsnpr: 1.8.1
 bigsparser: 0.4.4
 bigsplines: 1.1-1
 bigstatsr: 1.5.1
@@ -8958,7 +8958,7 @@ crov: 0.2.0
 crp.CSFP: '2.0'
 crplyr: 0.3.8
 crq: '0.3'
-crqa: 2.0.1
+crqa: 2.0.2
 crqanlp: '0.3'
 crrSC: '1.1'
 crrp: '1.0'
@@ -10604,7 +10604,7 @@ fdrtool: 1.2.16
 fds: '1.8'
 fdth: 1.2-5
 feamiR: 0.1.0
-feasts: 0.2.1
+feasts: 0.2.2
 feather: 0.3.5
 feature: 1.2.15
 featureCorMatrix: 0.4.0
@@ -12035,7 +12035,7 @@ hds: 0.8.1
 healthcareai: 2.5.0
 healthfinance: 0.1.0
 healthforum: 0.1.0
-healthyR: 0.1.2
+healthyR: 0.1.3
 healthyR.data: 1.0.1
 healthyR.ts: 0.1.1
 healthyverse: 1.0.0
@@ -12661,9 +12661,9 @@ ionicons: 0.1.1
 ionr: 0.3.0
 iopsych: 0.90.1
 iosmooth: '0.94'
-iotables: 0.4.3
+iotables: 0.4.4
 iotools: 0.3-1
-ip2location: 8.0.0
+ip2location: 8.0.1
 ip2proxy: 1.0.0
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
@@ -13768,12 +13768,12 @@ matrixProfile: 0.5.0
 matrixStats: 0.59.0
 matrixStrucTest: 1.0.0
 matrixTests: 0.1.9
-matrixcalc: 1.0-3
+matrixcalc: 1.0-4
 matrixdist: 1.0.2
 matrixpls: 1.0.13
 matrixprofiler: 0.1.5
 matrixsampling: 2.0.0
-matsbyname: 0.4.16
+matsbyname: 0.4.18
 matsindf: 0.3.6
 matuR: 0.0.1.0
 mau: 0.1.2
@@ -13979,7 +13979,7 @@ metacor: 1.0-2.1
 metadynminer: 0.1.6
 metadynminer3d: 0.0.1
 metafolio: 0.1.0
-metafor: 2.4-0
+metafor: 3.0-1
 metaforest: 0.1.3
 metafuse: 2.0-1
 metagam: 0.2.0
@@ -14046,7 +14046,7 @@ mgcv: 1.8-36
 mgee2: '0.2'
 mglR: 0.1.0
 mglmn: 0.1.0
-mgm: 1.2-11
+mgm: 1.2-12
 mgpd: '1.99'
 mgraph: '1.0'
 mgss: '1.2'
@@ -14287,7 +14287,7 @@ mlr3oml: 0.4.3
 mlr3pipelines: 0.3.4
 mlr3proba: 0.4.0
 mlr3shiny: 0.1.1
-mlr3spatiotempcv: 0.3.0
+mlr3spatiotempcv: 0.4.0
 mlr3tuning: 0.8.0
 mlr3verse: 0.2.1
 mlr3viz: 0.5.3
@@ -14706,7 +14706,7 @@ mvMonitoring: 0.1.0
 mvPot: 0.1.5
 mvProbit: 0.1-10
 mvQuad: 1.0-6
-mvSLOUCH: 2.6.4
+mvSLOUCH: 2.6.5
 mvShapiroTest: '1.0'
 mvabund: 4.1.12
 mvbutils: 2.8.232
@@ -15142,7 +15142,7 @@ nsapi: 0.1.1
 nsarfima: 0.2.0.0
 nscancor: 0.6.1-25
 nscprepr: 0.1.1
-nsdr: 0.1.0
+nsdr: 0.1.1
 nse: '1.20'
 nse2r: 0.1.5
 nseval: '0.4'
@@ -15858,7 +15858,7 @@ pexm: 1.0.0
 pez: 1.2-2
 pfa: '1.1'
 pfda: 1.0.0
-pfica: 0.1.1
+pfica: 0.1.2
 pflamelet: 0.1.1
 pgTools: 0.1.0
 pga: 0.1-1
@@ -15964,7 +15964,7 @@ phyndr: 0.1.0
 phyr: 1.1.0
 phyreg: 1.0.2
 physiology: 1.2.1
-phytools: 0.7-70
+phytools: 0.7-80
 phytotools: '1.0'
 pi0: 1.4-1
 piRF: 0.1.0
@@ -16049,7 +16049,7 @@ plantecophys: 1.4-6
 plantecowrap: 1.0.4
 plaqr: '2.0'
 plater: 1.0.3
-platetools: 0.1.3
+platetools: 0.1.5
 platowork: 0.0.1
 playitbyr: 0.2-1
 playwith: 0.9-8
@@ -16934,7 +16934,7 @@ radar: 1.0.0
 radarBoxplot: 1.0.0
 radarchart: 0.3.1
 radiant: 1.3.2
-radiant.basics: 1.3.4
+radiant.basics: 1.4.0
 radiant.data: 1.3.12
 radiant.design: 1.3.5
 radiant.model: 1.4.0
@@ -17974,7 +17974,7 @@ rtist: 1.0.0
 rtk: 0.2.6.1
 rtkore: 1.5.5
 rtkpp: 0.9.2
-rtmpt: 0.2-0
+rtmpt: 0.2-1
 rtodoist: 0.1.0
 rtop: 0.5-14
 rtrek: 0.3.3
@@ -18078,7 +18078,7 @@ sSDR: 1.2.0
 sValues: 0.1.6
 saasCNV: 0.3.4
 sabarsi: 0.1.0
-sabre: 0.3.2
+sabre: 0.4.0
 sabreR: '2.0'
 sac: 1.0.2
 saccades: 0.1-1
@@ -18310,7 +18310,7 @@ searchConsoleR: 0.4.0
 searchable: 0.3.3.1
 searcher: 0.0.5
 seas: 0.5-2
-season: 0.3.12
+season: 0.3.13
 seasonal: 1.8.2
 seasonalclumped: 0.3.2
 seasonalview: '0.3'
@@ -18331,7 +18331,7 @@ seecolor: 0.1.0
 seedCCA: '3.0'
 seededlda: 0.6.0
 seedr: 0.3.0
-seedreg: 1.0.0
+seedreg: 1.0.1
 seeds: 0.9.1
 seedwater: '2.0'
 seedy: '1.3'
@@ -18358,7 +18358,7 @@ selectMeta: 1.0.8
 selectSNPs: 1.0.1
 selectapref: 0.1.2
 selection: '1.0'
-selection.index: 1.1.0
+selection.index: 1.1.1
 selectiongain: 2.0.591
 selectiveInference: 1.2.5
 selectr: 0.4-2
@@ -18750,8 +18750,8 @@ sitar: 1.2.0
 siteymlgen: 1.0.0
 sitmo: 2.0.1
 sitools: '1.4'
-sitree: 0.1-7
-sitreeE: 0.0-5
+sitree: 0.1-8
+sitreeE: 0.0-7
 sivipm: 1.1-4
 sivs: 0.2.4
 sizeMat: 1.1.2
@@ -19769,7 +19769,7 @@ tacmagic: 0.3.1
 tactile: 0.2.0
 tadaatoolbox: 0.9.0
 tagcloud: '0.6'
-tailDepFun: 1.0.0
+tailDepFun: 1.0.1
 tailloss: '1.0'
 tailr: 0.1.3
 taipan: 0.1.2
@@ -20202,7 +20202,7 @@ tradepolicy: 0.5.0
 tradestatistics: '1.1'
 trafo: 1.0.1
 trainR: 0.0.1
-traineR: 1.6.1
+traineR: 1.6.2
 traipse: 0.2.0
 traitdataform: 0.6.5
 traitr: '0.9'
@@ -20633,7 +20633,7 @@ varrank: '0.4'
 vars: 1.5-3
 varsExplore: 0.3.0
 vartors: 0.2.6
-varycoef: 0.3.0
+varycoef: 0.3.1
 vasicek: 0.0.3
 vasicekreg: 1.0.1
 vaultr: 1.0.2
