@@ -925,7 +925,7 @@ CateSelection: '1.0'
 CauchyCP: 0.1.0
 CausalFX: 1.0.1
 CausalGAM: 0.1-4
-CausalImpact: 1.2.6
+CausalImpact: 1.2.7
 CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.0
 CausalQueries: 0.0.3
@@ -1513,7 +1513,7 @@ DoE.multi.response: 0.1.0
 DoE.wrapper: '0.11'
 DoEstRare: '0.2'
 DoTC: '0.2'
-DockerParallel: 1.0.0
+DockerParallel: 1.0.3
 Dodge: 0.9-2
 Dominance: 1.2.0
 Dopt: 0.1-4
@@ -1974,7 +1974,7 @@ FitAR: '1.94'
 FitARMA: 1.6.1
 FitUltD: 3.1.0
 FixSeqMTP: 0.1.2
-FixedPoint: 0.6.1
+FixedPoint: '0.6'
 FlexDir: '1.0'
 FlexGAM: 0.7.2
 FlexParamCurve: 1.5-5
@@ -2247,6 +2247,7 @@ GWnnegPCA: 0.0.4
 GWpcor: 0.1.6
 GWsignif: '1.2'
 GaDiFPT: '1.0'
+GaSP: 1.0.0
 GameTheory: '2.7'
 GameTheoryAllocation: '1.0'
 GammaTest: '2.1'
@@ -2760,7 +2761,7 @@ IsoCorr: '1.0'
 IsoGene: 1.0-24
 IsoSpecR: 2.1.3
 IsoplotR: '4.0'
-IsoplotRgui: '3.8'
+IsoplotRgui: '4.0'
 IsoriX: 0.8.2
 IsotopeR: 0.5.4
 ItemResponseTrees: 0.2.5
@@ -2827,7 +2828,7 @@ KCSNBShiny: 0.1.0
 KDViz: '1.3'
 KENDL: '1.1'
 KERE: 1.0.0
-KFAS: 1.4.5
+KFAS: 1.4.6
 KFKSDS: '1.6'
 KFPCA: '1.0'
 KGode: 1.0.3
@@ -2929,6 +2930,7 @@ LIHNPSD: 0.2.1
 LIM: 1.4.6
 LINselect: 1.1.3
 LIStest: '2.1'
+LKT: '1.0'
 LLAhclust: 0.2-2
 LLM: 1.1.0
 LLN: '1.1'
@@ -4009,7 +4011,7 @@ PCGSE: '0.4'
 PCICt: 0.5-4.1
 PCIT: 1.5-3
 PCL: '1.0'
-PCMBase: 1.2.11
+PCMBase: 1.2.12
 PCMBaseCpp: 0.1.9
 PCMRS: 0.1-2
 PCPS: 1.0.7
@@ -4663,7 +4665,7 @@ RInno: 1.0.1
 RInside: 0.2.16
 RItools: 0.1-17
 RJDBC: 0.2-8
-RJDemetra: 0.1.6
+RJDemetra: 0.1.7
 RJSDMX: 2.3-3
 RJSONIO: 1.3-1.4
 RJSONLD: '1.0'
@@ -4829,6 +4831,7 @@ RQuantLib: 0.4.12
 RRBoost: '0.1'
 RRF: 1.9.1
 RRI: '1.1'
+RRMLRfMC: 0.4.0
 RRNA: '1.0'
 RRPP: 1.0.0
 RRRR: 1.1.0
@@ -5519,6 +5522,7 @@ SDraw: 2.1.13
 SE.EQ: '1.0'
 SE.IGE: '1.0'
 SEA: '2.0'
+SEAGLE: 1.0.0
 SEAsic: '0.1'
 SECP: 0.1-4
 SEER2R: '1.0'
@@ -6511,7 +6515,7 @@ VUROCS: '1.0'
 VWPre: 1.2.4
 VaR: '0.2'
 VaRES: '1.0'
-VancouvR: 0.1.3
+VancouvR: 0.1.4
 VarBundle: 0.3.0
 VarED: 1.0.0
 VarEff: '1.0'
@@ -7221,6 +7225,7 @@ auth0: 0.2.1
 auto.pca: '0.3'
 autoBagging: 0.1.0
 autoCovariateSelection: 1.0.0
+autoFC: 0.1.2
 autoFRK: 1.4.3
 autoMrP: '0.98'
 autoSEM: 0.1.0
@@ -8798,7 +8803,7 @@ correlbinom: 0.0.1
 corrgram: '1.14'
 corrgrapher: 1.0.4
 corrperm: '2.0'
-corrplot: '0.88'
+corrplot: '0.89'
 corrr: 0.4.3
 corrsieve: 1.6-8
 corset: 0.1-4
@@ -8991,12 +8996,12 @@ csci: 0.9.3
 cshapes: '2.0'
 cslogistic: 0.1-3
 csn: 1.1.3
-csodata: 1.1.1
+csodata: 1.2.0
 csound: 0.1-1
 csp: 0.1.0
 cspec: 0.1.2
 cspp: 0.3.1
-csppData: 0.1.2
+csppData: 0.1.3
 csrplus: 1.03-0
 cssTools: '1.0'
 cstab: 0.2-2
@@ -9070,7 +9075,7 @@ cvcrand: 0.1.0
 cvequality: 0.2.0
 cvmdisc: 0.1.0
 cvmgof: 1.0.3
-cvms: 1.2.1
+cvms: 1.3.0
 cvplogistic: 3.1-0
 cvq2: 1.2.0
 cvxbiclustr: 0.0.1
@@ -9303,7 +9308,7 @@ deep: 0.1.0
 deepMOU: 0.1.1
 deepNN: '1.0'
 deepboost: 0.1.6
-deepdep: 0.2.5.2
+deepdep: 0.2.5.3
 deepdive: 1.0.2
 deepgmm: 0.1.62
 deepgp: 0.2.0
@@ -9397,7 +9402,7 @@ devEMF: 4.0-2
 devFunc: '0.1'
 devRate: 0.2.1
 devoid: 0.1.1
-devtools: 2.4.1
+devtools: 2.4.2
 dexter: 1.1.3
 dexterMST: 0.9.2
 dextergui: 0.2.3
@@ -10406,6 +10411,7 @@ eyelinker: 0.2.1
 eyetracking: '1.1'
 eyetrackingR: 0.1.8
 ez: 4.4-0
+ez.combat: 1.0.0
 ezCutoffs: 1.0.1
 ezEDA: 0.1.0
 ezcox: 0.8.1
@@ -10717,6 +10723,7 @@ fitPoly: 3.0.0
 fitTetra: '1.0'
 fitbitScraper: 0.1.8
 fitbitViz: 1.0.1
+fitbitr: 0.1.0
 fitcoach: '1.0'
 fitdc: 0.0.1
 fitdistrplus: 1.1-5
@@ -10736,7 +10743,7 @@ flair: 0.0.2
 flam: '3.2'
 flametree: 0.1.2
 flamingos: 0.1.0
-flan: '0.8'
+flan: '0.9'
 flare: 1.7.0
 flars: '1.0'
 flashCard: 0.1.0
@@ -10873,6 +10880,7 @@ fpCompare: 0.2.3
 fpa: '1.0'
 fpc: 2.2-9
 fpca: 0.2-1
+fpcb: 0.1.0
 fpeek: 0.1.2
 fpest: 0.1.1
 fplot: 1.0.0
@@ -11304,7 +11312,7 @@ geoelectrics: 0.2.0
 geofabrik: 0.1.0
 geofacet: 0.2.0
 geofd: '2.0'
-geofi: 1.0.1
+geofi: 1.0.2
 geogenr: 1.0.0
 geogrid: 0.1.1
 geohash: 0.3.0
@@ -11327,6 +11335,7 @@ geomorph: 4.0.0
 geomultistar: 1.1.0
 geonames: '0.999'
 geonapi: '0.4'
+geonet: 0.1.1
 geonetwork: '0.3'
 geoops: 0.3.0
 geoparser: 0.1.2
@@ -11360,6 +11369,7 @@ gert: 1.3.0
 gesca: 1.0.4
 gesis: '0.2'
 gesisdata: 0.1.0
+gesso: 1.0.0
 gestalt: 0.1.8
 gestate: 1.4.0
 gesttools: 1.0.1
@@ -11909,7 +11919,7 @@ gtable: 0.3.0
 gtcorr: 0.2-1
 gte: 1.2-2
 gtfs2gps: 1.4-1
-gtfsio: 0.1.1
+gtfsio: 0.1.2
 gtfsrouter: 0.0.4
 gtfstools: 0.1.0
 gtheory: 0.1.2
@@ -12293,7 +12303,7 @@ hypoRF: 1.0.0
 hypoparsr: 0.1.0
 hypothesestest: '1.0'
 hypothesisr: 0.1.1
-hypr: 0.2.0
+hypr: 0.2.1
 hypred: '0.5'
 hystReet: 0.0.2
 hysteresis: '2.7'
@@ -13941,7 +13951,7 @@ memnet: 0.1.0
 memo: 1.0.1
 memochange: 1.1.1
 memofunc: 1.0.2
-memoiR: 0.5-0
+memoiR: 1.0-0
 memoise: 2.0.0
 memor: 0.2.3
 memoria: 1.0.0
@@ -13998,7 +14008,7 @@ metamedian: 0.1.5
 metamer: 0.2.0
 metamicrobiomeR: '1.2'
 metamisc: 0.2.3
-metan: 1.13.0
+metan: 1.14.0
 metansue: '2.4'
 metap: '1.4'
 metapack: 0.1.2
@@ -14746,7 +14756,7 @@ mvst: 1.1.0
 mvtBinaryEP: '1.0'
 mvtboost: 0.5.0
 mvtmeta: '1.1'
-mvtnorm: 1.1-1
+mvtnorm: 1.1-2
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-1
 mwa: 0.4.3
@@ -14887,7 +14897,7 @@ netstat: 0.1.1
 nettools: 1.0.1
 nettskjemar: 0.1.4
 netweavers: '1.1'
-network: 1.16.1
+network: 1.17.0
 networkABC: 0.8-0
 networkD3: '0.4'
 networkDynamic: 0.10.1
@@ -16525,6 +16535,7 @@ psica: 1.0.2
 psidR: '2.1'
 pso: 1.0.3
 psoptim: '1.0'
+psp: '0.1'
 pspearman: 0.3-0
 pspline: 1.0-17
 pspline.inference: 1.0.4
@@ -16687,6 +16698,7 @@ qqtest: 1.2.0
 qqvases: 1.0.0
 qrLMM: '2.1'
 qrNLMM: '2.1'
+qra: 0.1.8
 qrage: '1.0'
 qrandom: 1.2.4
 qrcm: '3.0'
@@ -17670,7 +17682,7 @@ rnassqs: 0.5.0
 rnaturalearth: 0.1.0
 rnaturalearthdata: 0.1.0
 rnbn: 1.1.2
-rnbp: 0.2.0
+rnbp: 0.2.1
 rncl: 0.8.4
 rneos: 0.4-0
 rnetcarto: 0.2.4
@@ -18457,7 +18469,7 @@ serieslcb: 0.4.0
 seroincidence: 2.0.0
 serp: 0.1.8
 serpstatr: 0.1.0
-serrsBayes: 0.4-1
+serrsBayes: 0.4-2
 servosphereR: 0.1.1
 servr: '0.22'
 sesem: 1.0.2
@@ -19207,6 +19219,7 @@ spnet: 0.9.1-0
 spnn: 1.2.1
 spocc: 1.2.0
 spoccutils: 0.1.0
+spoiler: 1.0.0
 spongebob: 0.4.0
 spongecake: 0.1.2
 spork: 0.1.8
@@ -20419,7 +20432,7 @@ tvgeom: 1.0.1
 tvm: 0.5.0
 tvmediation: 1.0.0
 tvthemes: 1.1.1
-twang: '2.1'
+twang: '2.2'
 twangContinuous: 1.0.0
 twangRDC: '1.0'
 tweedie: 2.3.3
@@ -20670,7 +20683,7 @@ vdmR: 0.2.6
 vec2dtransf: '1.1'
 veccompare: 0.1.0
 vecsets: '1.3'
-vectools: 0.2.0
+vectools: 0.3.0
 vectoptim: '0.2'
 vectorwavelet: 0.1.0
 vegalite: 0.6.1
