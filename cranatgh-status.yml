@@ -1585,7 +1585,7 @@ EFS: 1.0.3
 EGAnet: 0.9.8
 EGRET: 3.0.6
 EGRETci: 2.0.4
-EHR: 0.4-0
+EHR: 0.4-1
 EHRtemporalVariability: 1.1.4
 EIAdata: 0.1.1
 EILA: 0.1-2
@@ -4804,8 +4804,8 @@ RPANDA: '1.9'
 RPCLR: '1.0'
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.1
-RPEIF: 1.2.2
-RPESE: 1.2.2
+RPEIF: 1.2.3
+RPESE: 1.2.3
 RPEXE.RPEXT: 0.0.2
 RPEnsemble: '0.5'
 RPMG: 2.2-3
@@ -5493,7 +5493,7 @@ SCMA: 1.3.1
 SCOR: 1.1.1
 SCORER2: 0.99.0
 SCORNET: 0.1.1
-SCORPIUS: 1.0.7
+SCORPIUS: 1.0.8
 SCOUTer: 1.0.0
 SCPME: '1.0'
 SCRABBLE: 0.0.1
@@ -5809,7 +5809,7 @@ SetMethods: '2.6'
 SetRank: 1.1.0
 SetTest: 0.2.0
 Seurat: 4.0.2
-SeuratObject: 4.0.1
+SeuratObject: 4.0.2
 ShapeChange: '1.4'
 ShapePattern: 2.1.0
 ShapeRotator: 0.1.0
@@ -6675,7 +6675,7 @@ ZIBseq: '1.2'
 ZIGP: '3.8'
 ZIM: 1.1.0
 ZIPFA: 0.8.1
-ZIprop: 0.1.0
+ZIprop: 0.1.1
 ZOIP: '0.1'
 ZRA: '0.2'
 ZVCV: 2.1.0
@@ -6856,6 +6856,7 @@ aggregation: 1.0.1
 aggrisk: '1.0'
 aghq: 0.2.1
 agilp: '1.0'
+aglm: 0.4.0
 agop: 0.2-3
 agreement: 1.0-1
 agriTutorial: 0.1.5
@@ -7246,7 +7247,7 @@ automultinomial: 2.0.0
 autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
-autostsm: '1.3'
+autostsm: '1.4'
 autota: 0.1.3
 autothresholdr: 1.3.11
 autovarCore: 1.0-4
@@ -8133,7 +8134,7 @@ causalMGM: 0.1.1
 causaldata: 0.1.1
 causaldrf: '0.3'
 causaleffect: 1.3.12
-causaloptim: 0.7.1
+causaloptim: 0.8.2
 causalsens: 0.1.2
 causalweight: 1.0.1
 caviarpd: 0.2.11
@@ -8248,7 +8249,7 @@ cghRA: 1.6.0
 cghseg: 1.0.5
 cglasso: 2.0.4
 cglm: '1.1'
-cgmanalysis: 2.7.1
+cgmanalysis: 2.7.2
 cgmquantify: 0.1.0
 cgraph: 6.0.1
 cgwtools: '3.3'
@@ -8714,7 +8715,7 @@ conicfit: 1.0.4
 conics: '0.3'
 conjoint: '1.41'
 conjurer: 1.2.0
-conleyreg: 0.1.1
+conleyreg: 0.1.2
 connect3: 0.1.0
 connectedness: '0.2'
 connections: 0.1.1
@@ -8726,6 +8727,7 @@ conquestr: 0.8.5
 constants: 1.0.1
 constellation: 0.2.0
 constrainedKriging: 0.2.4
+contTimeCausal: '1.0'
 contact: 1.2.8
 contactdata: 0.2.0
 container: 0.3.0
@@ -8866,7 +8868,7 @@ covmat: '1.0'
 covr: 3.5.1
 covreg: '1.0'
 covsep: 1.1.0
-covsim: 0.1.0
+covsim: 0.2.0
 cowbell: 0.1.0
 cowplot: 1.1.1
 cowsay: 0.8.0
@@ -9623,6 +9625,7 @@ dmbc: 0.4.0
 dmdScheme: 1.2.6
 dml: 1.1.0
 dmm: 2.1-7
+dmri.tracking: 0.1.0
 dmt: 0.8.20
 dmtools: 0.2.6
 dmutate: 0.1.3
@@ -10197,6 +10200,7 @@ epitweetr: 0.1.28
 eplusr: 0.14.2
 eply: 0.1.2
 epoc: 0.2.6-1.1
+epocakir: 0.9.7
 eponge: 0.1.0
 epos: '1.0'
 epr: '3.0'
@@ -11545,7 +11549,7 @@ ggspatial: 1.1.5
 ggspectra: 0.3.7
 ggstance: 0.3.5
 ggstar: 1.0.2
-ggstatsplot: 0.7.2
+ggstatsplot: 0.8.0
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
@@ -11652,7 +11656,7 @@ glmpathcr: 1.0.8
 glmpca: 0.2.0
 glmperm: 1.0-5
 glmtlp: '1.1'
-glmtoolbox: 0.1.0
+glmtoolbox: 0.1.1
 glmtrans: 1.0.0
 glmtree: '0.2'
 glmulti: 1.0.8
@@ -12142,6 +12146,7 @@ hildareadR: 0.2.0
 hillR: 0.5.1
 hilldiv: 1.5.1
 hillmakeR: '0.2'
+hillshader: 0.1.0
 himach: 0.1.2
 hindex: 0.2.0
 hindexcalculator: 1.0.0
@@ -13128,7 +13133,7 @@ languageserver: 0.3.10
 languageserversetup: 0.1.2
 lans2r: 1.1.0
 lar: 0.1-2
-lares: 5.0.0
+lares: 5.0.1
 largeList: 0.3.1
 largeVis: '0.2'
 lars: '1.2'
@@ -13691,7 +13696,7 @@ manifestoR: 1.5.0
 manipulate: 1.0.1
 manipulateWidget: 0.11.0
 manymodelr: 0.3.5
-maotai: 0.1.9
+maotai: 0.2.0
 mapDK: 0.3.0
 mapLD: 1.0-1
 mapReasy: '1.0'
@@ -13721,7 +13726,7 @@ mapsFinland: 0.1.1
 mapsRinteractive: 1.0.1
 mapsapi: 0.4.8
 mapsf: 0.2.0
-maptiles: 0.1.3
+maptiles: 0.2.0
 maptools: 1.1-1
 maptpx: 1.9-7
 maptree: 1.4-7
@@ -13840,6 +13845,7 @@ mcStats: 0.1.2
 mcb: 0.1.15
 mcbette: '1.13'
 mcbiopi: 1.1.6
+mcboost: 0.3.0
 mcc: '1.0'
 mcca: 0.7.0
 mccf1: '1.1'
@@ -14558,7 +14564,7 @@ msaFACE: 0.1.0
 msaR: 0.5.0
 msae: 0.1.3
 msaeDB: 0.2.1
-msaeRB: 0.1.5
+msaeRB: 0.2.0
 msaenet: '3.1'
 msap: 1.1.8
 msarc: 1.4.5
@@ -14861,7 +14867,7 @@ needs: 0.0.3
 needy: '0.2'
 negenes: 1.0-12
 neighbr: 1.0.3
-neldermead: 1.0-11
+neldermead: '1.0'
 neo2R: 2.1.0
 neo4jshell: 0.1.1
 neo4r: 0.1.1
@@ -15383,11 +15389,11 @@ optimLanduse: 0.0.4
 optimParallel: 1.0-2
 optimStrat: '2.3'
 optimalThreshold: '1.0'
-optimbase: 1.0-9
+optimbase: '1.0'
 optimization: 1.0-7
 optimos.prime: 0.1.2
 optimr: 2019-12.16
-optimsimplex: 1.0-7
+optimsimplex: '1.0'
 optimus: 0.2.0
 optimx: 2020-4.2
 optinterv: 0.1.0
@@ -16368,7 +16374,7 @@ predhy: 0.2.0
 predict3d: 0.1.3.3
 prediction: 0.3.14
 predictionInterval: 1.0.0
-predictmeans: 1.0.4
+predictmeans: 1.0.6
 predictoR: 1.1.9
 predictrace: 2.0.0
 predint: 1.0.0
@@ -17275,6 +17281,7 @@ recipes: 0.1.16
 reclin: 0.1.1
 recluster: '2.9'
 recmap: 1.0.9
+recodeflow: 0.1.0
 recoder: '0.1'
 recom: '1.0'
 recombinator: 1.0.1
@@ -17508,7 +17515,7 @@ rgeoapi: 1.1.0
 rgeoda: 0.0.8-1
 rgeolocate: 1.3.1
 rgeopat2: 0.3.9
-rgeoprofile: 0.2.1
+rgeoprofile: 0.2.2
 rgeos: 0.5-5
 rgeospatialquality: 0.3.2
 rgexf: 0.16.0
@@ -17843,7 +17850,7 @@ rplos: 1.0.0
 rplotengine: 1.0-7
 rpls: 0.6.0
 rplum: 0.2.2
-rpmodel: 1.0.4
+rpmodel: 1.2.0
 rpms: 0.4.0
 rpn: '1.0'
 rpnf: 1.0.5
@@ -18208,6 +18215,7 @@ sbrl: '1.2'
 sbtools: 1.1.15
 sbw: 1.1.1
 scBio: 0.1.6
+scDHA: 1.1.0
 scDIFtest: 0.1.1
 scINSIGHT: 0.1.0
 scLink: 1.0.1
@@ -18459,7 +18467,7 @@ seqRFLP: 1.0.1
 seqest: 1.0.1
 seqgendiff: 1.2.2
 seqhandbook: 0.1.0
-seqinr: 4.2-5
+seqinr: 4.2-8
 seqmagick: 0.1.5
 seqminer: '8.0'
 seqmon: '2.4'
@@ -19032,10 +19040,11 @@ spaero: 0.6.0
 spagmix: 0.3-4
 spam: 2.6-0
 spam64: 2.6-0
+spamtree: 0.2.1
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 1.12.0
+spant: 1.13.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -19947,7 +19956,7 @@ textrecipes: 0.4.0
 textreg: 0.1.5
 textreuse: 0.1.5
 textshape: 1.7.3
-textshaping: 0.3.4
+textshaping: 0.3.5
 textstem: 0.1.4
 textutils: 0.2-1
 tfCox: 0.1.0
@@ -20213,7 +20222,7 @@ toxboot: 0.2.0
 toxplot: 0.1.1
 toxtestD: '2.0'
 tpAUC: 2.1.1
-tpe: 1.0.1
+tpe: '1.0'
 tpr: 0.3-1.2
 tpsDesign: '1.3'
 tracer: 1.0.0
@@ -20668,7 +20677,7 @@ vartors: 0.2.6
 varycoef: 0.3.1
 vasicek: 0.0.3
 vasicekreg: 1.0.1
-vaultr: 1.0.2
+vaultr: 1.1.0
 vbdm: 0.0.4
 vbmp: 1.3.0
 vbsr: 0.0.5
@@ -20918,7 +20927,7 @@ weightedKmeans: 1.2.0
 weightedScores: 0.9.5.3
 weightedZdiff: 0.1.0
 weightr: 2.0.2
-weights: 1.0.2
+weights: 1.0.3
 weirs: '0.25'
 welchADF: 0.3.2
 wellknown: 0.7.4
@@ -21033,7 +21042,7 @@ wppExplorer: 2.3-4
 wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
-wrGraph: 1.2.3
+wrGraph: 1.2.4
 wrMisc: 1.6.0
 wrProteo: 1.4.1
 wrTopDownFrag: 1.0.2
@@ -21206,6 +21215,7 @@ zipcodeR: 0.3.0
 zipfR: 0.6-70
 zipfextR: 1.0.2
 ziphsmm: 2.0.6
+zipsae: 1.0.1
 zlog: 1.0.0
 zmatrix: '1.1'
 zoeppritz: 1.0-8
