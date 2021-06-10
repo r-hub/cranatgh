@@ -367,6 +367,7 @@ BIGDAWG: 2.3.6
 BIGL: 1.6.2
 BINCO: 0.1-1
 BINCOR: 0.2.0
+BINtools: 0.1.0
 BIOM.utils: '0.9'
 BIOMASS: 2.1.5
 BIOdry: '0.8'
@@ -550,7 +551,7 @@ Bayesrel: 0.7.0.7
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
 BcDiag: 1.0.10
-Bchron: 4.7.5
+Bchron: 4.7.6
 Bclim: 3.1.2
 BeSS: 2.0.3
 BeastJar: 1.10.6
@@ -1665,7 +1666,7 @@ EWOC2: '1.0'
 EWS: 0.2.0
 EXRQ: '1.0'
 EZtune: 3.0.0
-Eagle: 2.4.4
+Eagle: 2.4.5
 EasyABC: '1.5'
 EasyDescribe: 0.1.0
 EasyHTMLReport: 0.1.1
@@ -3541,7 +3542,7 @@ MicroMacroMultilevel: 0.4.0
 MicroNiche: 1.0.0
 MicroSEC: 1.1.3
 MicroStrategyR: 1.0-1
-Microsoft365R: 2.2.0
+Microsoft365R: 2.2.1
 MigClim: '1.6'
 MinBAR: 1.1.2
 MinEDfind: 0.1.3
@@ -3979,7 +3980,7 @@ PANDA: 0.9.9
 PANICr: 1.0.0
 PARSE: 0.1.0
 PAS: 1.2.5
-PASSED: 1.1-0
+PASSED: 1.1-1
 PASWR: '1.1'
 PASWR2: 1.0.2
 PASenseWear: '1.0'
@@ -4207,7 +4208,7 @@ PeakSegDisk: 2020.8.13
 PeakSegJoint: 2018.10.3
 PeakSegOptimal: 2018.05.25
 Peaks: '0.2'
-PearsonDS: '1.1'
+PearsonDS: '1.2'
 PearsonICA: 1.2-4
 PedCNV: '0.1'
 PeerPerformance: 2.2.5
@@ -4257,6 +4258,7 @@ PkgsFromFiles: '0.5'
 PlackettLuce: 0.4.0
 PlaneGeometry: 1.2.0
 Planesmuestra: '0.1'
+PlanetNICFI: 1.0.0
 PlasmaMutationDetector: 1.7.2
 Plasmidprofiler: 0.1.6
 Plasmode: 0.1.0
@@ -5002,7 +5004,7 @@ RatingScaleReduction: '1.4'
 Ratings: 0.1-2
 RationalExp: 0.2.2
 Ravages: 0.1.5
-RavenR: 2.0.9
+RavenR: 2.1.0
 Rbeast: 0.2.2
 Rbent: 0.1.0
 Rbgs: '0.2'
@@ -5843,7 +5845,7 @@ Sim.PLFN: '1.0'
 SimBIID: 0.2.1
 SimComp: '3.3'
 SimCop: 0.7.0
-SimCorMultRes: 1.7.0
+SimCorMultRes: 1.8.0
 SimCorrMix: 0.1.1
 SimDesign: '2.5'
 SimDissolution: 0.1.0
@@ -5944,7 +5946,7 @@ SpNetPrep: '1.2'
 SpaCCr: 0.1.0
 SpaDES: 2.0.6
 SpaDES.addins: 0.1.2
-SpaDES.core: 1.0.6
+SpaDES.core: 1.0.8
 SpaDES.tools: 0.3.8
 SpaTimeClus: 1.0.1
 SpadeR: 0.1.1
@@ -6539,6 +6541,7 @@ VeryLargeIntegers: 0.1.8
 VetResearchLMM: 1.0.0
 VhayuR: 1.1.2
 ViSiElse: 1.2.2
+VicmapR: 0.1.3
 VideoComparison: 0.9-4
 VineCopula: 2.4.2
 VisCov: '1.3'
@@ -7168,7 +7171,7 @@ assertive.types: 0.0-3
 assertr: '2.8'
 assertthat: 0.2.1
 assignPOP: 1.2.2
-assignR: 2.0.0
+assignR: 2.1.0
 assist: 3.1.7
 assocInd: 1.0.1
 assortnet: '0.12'
@@ -7840,7 +7843,7 @@ bootSVD: '1.1'
 bootStepAIC: 1.2-0
 bootTimeInference: 0.1.0
 bootUR: 0.2.0
-bootcluster: 0.2.0
+bootcluster: 0.2.5
 bootfs: '1.4'
 bootnet: 1.4.3
 bootruin: 1.2-4
@@ -8234,6 +8237,7 @@ cfa: 0.10-0
 cfda: 0.9.9
 cfdecomp: 0.3.0
 cffdrs: 1.8.18
+cfid: 0.1.2
 cfma: '1.0'
 cfmortality: 0.3.0
 cforward: 0.1.0
@@ -8289,7 +8293,7 @@ chess: 1.0.1
 chest: 0.3.5
 chi: '0.1'
 chi2x3way: '1.1'
-chicane: 0.1.4
+chicane: 0.1.5
 chickn: 1.2.3
 childdevdata: 1.1.0
 childesr: 0.2.1
@@ -8915,7 +8919,7 @@ cragg: 0.0.1
 cramer: 0.9-3
 cran.github.io: .na.character
 crandatapkgs: 0.1.8
-crandep: 0.2.0
+crandep: 0.3.0
 crank: 1.1-2
 cranlike: 1.0.2
 cranlogs: 2.1.1
@@ -9727,6 +9731,7 @@ drawExpression: '1.0'
 drawer: 0.1.0
 drawsample: 1.0.0
 drc: 3.0-1
+drda: 1.0.0
 dreamerr: 1.2.3
 drf: 1.1.0
 drfit: 0.7.2
@@ -9928,6 +9933,7 @@ ecmwfr: 1.3.0
 eco: 4.0-1
 ecoCopula: 1.0.1
 ecochange: '1.3'
+ecocomDP: 1.0.0
 ecodist: 2.0.7
 ecoengine: '1.9'
 ecolMod: 1.2.6
@@ -11381,7 +11387,7 @@ gesisdata: 0.1.0
 gesso: 1.0.0
 gestalt: 0.1.8
 gestate: 1.4.0
-gesttools: 1.0.1
+gesttools: 1.2.0
 getCRUCLdata: 0.3.2
 getDTeval: 0.0.1
 getLattes: 0.1.1
@@ -11448,7 +11454,7 @@ ggdag: 0.2.3
 ggdark: 0.2.1
 ggdemetra: 0.2.2
 ggdendro: 0.1.22
-ggdist: 2.4.0
+ggdist: 2.4.1
 ggdistribute: 1.0.3
 ggdmc: 0.2.6.0
 gge: '1.6'
@@ -12016,7 +12022,7 @@ hashFunction: '1.0'
 hashids: 0.9.0
 hashmap: 0.2.2
 hashr: 0.1.3
-hasseDiagram: 0.1.3
+hasseDiagram: 0.2.0
 haven: 2.4.1
 hawkes: 0.0-4
 hawkesbow: 1.0.2
@@ -12495,7 +12501,7 @@ image.textlinedetector: 0.1.3
 imageData: 0.1-61
 imagefluency: 0.2.3
 imagefx: 0.4.1
-imager: 0.42.8
+imager: 0.42.10
 imagerExtra: 1.3.2
 imageviewer: 0.1.0
 imaginator: 0.1.1
@@ -12539,6 +12545,7 @@ imputeTestbench: 3.0.3
 imputeYn: '1.3'
 imsig: 1.1.3
 in2extRemes: 1.0-3
+inTextSummaryTable: 3.0.0
 inTrees: '1.2'
 inaparc: 1.1.0
 inarmix: '0.4'
@@ -12969,7 +12976,7 @@ keyring: 1.2.0
 keyringr: 0.4.0
 keys: 0.1.0
 kfda: 1.0.0
-kfigr: '1.2'
+kfigr: 1.2.1
 kgc: 1.0.0.2
 kgrams: 0.1.0
 kgschart: 1.3.5
@@ -13522,7 +13529,7 @@ lookup: '1.0'
 lookupTable: '0.1'
 loon: 1.3.6
 loon.data: 0.1.3
-loon.ggplot: 1.2.0
+loon.ggplot: 1.2.1
 loon.shiny: 0.1.0
 loon.tourr: 0.1.1
 loop: '1.1'
@@ -14187,7 +14194,7 @@ mirtsvd: '1.0'
 misaem: 1.0.1
 misc3d: 0.9-0
 miscF: 0.1-5
-miscFuncs: 1.5-1
+miscFuncs: 1.5-2
 miscIC: 0.1.0
 miscTools: 0.6-26
 misclassGLM: 0.3.2
@@ -14423,7 +14430,7 @@ modesto: 0.1.3
 modeval: 0.1.3
 modgetxl: '0.4'
 modi: 0.1.0
-modifiedmk: 1.5.0
+modifiedmk: '1.6'
 modiscloud: '0.14'
 modmarg: 0.9.6
 modopt.matlab: 1.0-2
@@ -14784,7 +14791,7 @@ n1qn1: 6.0.1-10
 nCDunnett: 1.1.0
 nCal: 2020.9-10
 nCopula: 0.1.1
-nCov2019: 0.4.4
+nCov2019: 0.4.5
 nFCA: '0.3'
 nFDR: '0.0'
 nFactors: 2.4.1
@@ -15180,7 +15187,7 @@ nspmix: 1.5-0
 nsprcomp: 0.5.1-2
 nsrr: 0.2.0
 nsyllable: '1.0'
-nucim: 1.0.9
+nucim: 1.0.11
 nullabor: 0.3.9
 numConversion: 0.2-4
 numDeriv: 2016.8-1.1
@@ -15447,6 +15454,7 @@ origami: 1.0.3
 originr: 0.4.0
 orloca: '4.10'
 orloca.es: '4.9'
+ormBigData: 0.0.1
 ormPlot: 0.3.4
 oro.dicom: 0.5.3
 oro.nifti: 0.11.0
@@ -15527,6 +15535,7 @@ pMineR: '0.31'
 pRF: '1.2'
 pROC: 1.17.0.1
 pRSR: 3.1.1
+pRecipe: 0.0.1
 pSI: '1.1'
 pa: 1.2-1
 pacbpred: 0.92.2
@@ -16092,7 +16101,7 @@ plfMA: 1.0.5
 plfm: 2.2.2
 plgp: 1.1-7
 pliable: '1.1'
-pliman: 0.2.0
+pliman: 0.3.0
 plink: 1.5-1
 plinkFile: 0.1.0
 plinkQC: 0.3.3
@@ -16477,7 +16486,7 @@ profvis: 0.3.7
 progenyClust: '1.2'
 prognosticROC: '0.7'
 progress: 1.2.2
-progressr: 0.7.0
+progressr: 0.8.0
 proj4: 1.0-10.1
 projections: 0.5.4
 projector: 0.0.2
@@ -16874,7 +16883,7 @@ rEMM: 1.0-11
 rENA: 0.2.3
 rERR: '0.1'
 rFDSN: 0.0.0
-rFIA: 0.3.1
+rFIA: 0.3.2
 rFSA: 0.9.6
 rFTRLProximal: 1.0.0
 rFUSION: '0.1'
@@ -17110,7 +17119,7 @@ rbgm: 0.1.0
 rbhl: 0.9.2
 rbi: 0.10.3
 rbi.helpers: 0.3.2
-rbibutils: 2.1.1
+rbibutils: '2.2'
 rbin: 0.2.0
 rbioapi: 0.7.0
 rbiom: 1.0.2
@@ -17404,7 +17413,7 @@ repmis: '0.5'
 repmod: 0.1.7
 repo: 2.1.5
 repolr: '3.4'
-report: 0.3.0
+report: 0.3.5
 reportROC: '3.5'
 reportReg: 0.3.0
 reportRx: '1.0'
@@ -17823,7 +17832,7 @@ roxygen2: 7.1.1
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
-rpact: 3.0.4
+rpact: 3.1.0
 rpanel: 1.1-4
 rpart: 4.1-15
 rpart.LAD: 0.1.2
@@ -19055,7 +19064,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.6.3
+sparklyr: 1.7.0
 sparklyr.flint: 0.2.1
 sparklyr.nested: 0.0.3
 sparktex: '0.1'
@@ -19392,7 +19401,7 @@ statespacer: 0.4.0
 statfi: 0.9.8
 statgenGWAS: 1.0.5
 statgenGxE: 1.0.4
-statgenHTP: 1.0.1
+statgenHTP: 1.0.2
 statgenSTA: 1.0.8
 stationaRy: 0.5.1
 stationery: 0.98.30
@@ -19895,7 +19904,7 @@ tensorA: 0.36.2
 tensorBF: 1.0.2
 tensorBSS: 0.3.8
 tensorTS: 0.1.1
-tensorflow: 2.4.0
+tensorflow: 2.5.0
 tensorordinal: 0.2.0
 tensorr: 0.1.1
 tensorregress: '3.0'
@@ -20204,7 +20213,7 @@ topologyGSA: 1.4.6
 topsa: 0.1.0
 topsis: '1.0'
 tor: 1.1.2
-torch: 0.3.0
+torch: 0.4.0
 torchaudio: 0.2.0
 torchdatasets: 0.0.1
 torchvision: 0.3.0
@@ -20448,7 +20457,7 @@ tvgeom: 1.0.1
 tvm: 0.5.0
 tvmediation: 1.0.0
 tvthemes: 1.1.1
-twang: '2.2'
+twang: '2.3'
 twangContinuous: 1.0.0
 twangRDC: '1.0'
 tweedie: 2.3.3
@@ -20900,7 +20909,7 @@ webchem: 1.1.1
 webddx: 0.1.0
 webdeveloper: 0.1.0
 webdriver: 1.0.6
-webex: 0.9.1
+webex: 0.9.2
 webfakes: 1.1.3
 webglobe: 1.0.3
 webmockr: 0.8.0
@@ -21211,7 +21220,7 @@ zip: 2.2.0
 zipR: 0.1.1
 zipangu: 0.2.3
 zipcode: '1.0'
-zipcodeR: 0.3.0
+zipcodeR: 0.3.1
 zipfR: 0.6-70
 zipfextR: 1.0.2
 ziphsmm: 2.0.6
