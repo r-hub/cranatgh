@@ -55,6 +55,7 @@ AID: '2.6'
 AIG: 0.1.9
 AIGIS: '1.0'
 AIM: '1.01'
+AIPW: 0.6.3.2
 AIS: '1.0'
 ALA4R: 1.9.0
 ALDqr: '1.0'
@@ -679,7 +680,7 @@ Brq: '3.0'
 Brundle: 1.0.9
 BsMD: 2020.4.30
 Buddle: 2.0.1
-BuildSys: 1.1.0
+BuildSys: 1.1.1
 BullsEyeR: 0.2.0
 BurStFin: '1.02'
 BurStMisc: '1.1'
@@ -733,7 +734,7 @@ CCMnet: 0.0-3
 CCMtools: '1.0'
 CCP: '1.1'
 CCTpack: 1.5.2
-CCWeights: 0.1.2
+CCWeights: 0.1.3
 CCpop: '1.0'
 CDECRetrieve: 0.1.4
 CDF.PSIdekick: '1.2'
@@ -752,7 +753,7 @@ CEDARS: '1.90'
 CEGO: 2.4.2
 CENFA: 1.1.0
 CEoptim: '1.2'
-CFAcoop: 0.1.0
+CFAcoop: 1.0.0
 CFC: 1.1.2
 CFF: '1.0'
 CFL: '0.1'
@@ -2308,7 +2309,7 @@ GeodRegr: 0.1.0
 GeodesiCL: 1.0.0
 GeomComb: '1.0'
 GermaParl: 1.5.2
-GerminaR: 2.1.1
+GerminaR: 2.1.2
 GetBCBData: '0.6'
 GetDFPData: '1.6'
 GetDFPData2: '0.5'
@@ -3454,6 +3455,7 @@ MatrixCorrelation: 0.9.5
 MatrixEQTL: '2.3'
 MatrixExtra: 0.1.4
 MatrixLDA: '0.2'
+MatrixMixtures: 1.0.0
 MatrixModels: 0.5-0
 MaxMC: 0.1.1
 MaxPro: 4.1-2
@@ -3512,7 +3514,7 @@ MetaboList: '2.0'
 MetaboLouise: 1.0.0
 MetaboQC: '1.0'
 MetabolAnalyze: 1.3.1
-MetabolicSurv: 1.1.1
+MetabolicSurv: 1.1.2
 MetabolomicsBasics: '1.2'
 Metabonomic: '3.5'
 Metadata: '1.1'
@@ -4424,6 +4426,7 @@ QSARdata: '1.3'
 QT: '1.3'
 QTL.gCIMapping: 3.3.1
 QTL.gCIMapping.GUI: 2.1.1
+QTLEMM: 0.1.0
 QTLNetworkR: 0.1-7
 QTLRel: '1.6'
 QTOCen: 0.1.1
@@ -5608,7 +5611,7 @@ SMPracticals: 1.4-3
 SMR: 2.0.1
 SMUT: '1.1'
 SMVar: 1.3.3
-SNFtool: 2.3.0
+SNFtool: 2.3.1
 SNPMClust: '1.3'
 SNPMaP: 1.1.1
 SNPMaP.cdm: 1.1.1
@@ -5945,7 +5948,7 @@ SpNMF: 0.1.1
 SpNetPrep: '1.2'
 SpaCCr: 0.1.0
 SpaDES: 2.0.6
-SpaDES.addins: 0.1.2
+SpaDES.addins: 0.1.3
 SpaDES.core: 1.0.8
 SpaDES.tools: 0.3.8
 SpaTimeClus: 1.0.1
@@ -6418,7 +6421,7 @@ UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.0.0
 UCSCXenaTools: 1.4.5
 UComp: '2.2'
-UKFE: 0.1.6
+UKFE: 0.1.7
 UKgrid: 0.1.3
 UMR: 1.0.0
 UNCLES: '2.0'
@@ -8719,7 +8722,7 @@ conicfit: 1.0.4
 conics: '0.3'
 conjoint: '1.41'
 conjurer: 1.2.0
-conleyreg: 0.1.2
+conleyreg: 0.1.3
 connect3: 0.1.0
 connectedness: '0.2'
 connections: 0.1.1
@@ -9088,9 +9091,10 @@ cvmgof: 1.0.3
 cvms: 1.3.0
 cvplogistic: 3.1-0
 cvq2: 1.2.0
+cvwrapr: '1.0'
 cvxbiclustr: 0.0.1
 cvxclustr: 1.1.1
-cwbtools: 0.3.3
+cwbtools: 0.3.4
 cwhmisc: '6.6'
 cwm: 0.0.3
 cxhull: 0.2.0
@@ -9143,6 +9147,7 @@ dafs: 1.0-37
 dagR: 1.2.0
 dagbag: '1.1'
 dagitty: 0.3-1
+daiR: 0.9.0
 dalmatian: 0.6.1
 dam: 0.0.1
 dampack: 1.0.1
@@ -9601,7 +9606,7 @@ diveR: 0.1.1
 diveRsity: 1.9.90
 diverge: 2.0.1
 diverse: 0.1.5
-diversitree: 0.9-15
+diversitree: 0.9-16
 diversityForest: 0.3.1
 divest: 0.10.1
 divisors: 0.1-4
@@ -9628,6 +9633,7 @@ dmai: 0.4.0
 dmbc: 0.4.0
 dmdScheme: 1.2.6
 dml: 1.1.0
+dmlalg: 0.0.1
 dmm: 2.1-7
 dmri.tracking: 0.1.0
 dmt: 0.8.20
@@ -10113,7 +10119,7 @@ emplik2: '1.30'
 ems: 1.3.10
 emstreeR: 2.2.2
 emu: '4.3'
-emuR: 2.2.0
+emuR: 2.3.0
 emudata: '1.0'
 emulator: 1.2-21
 enRich: '3.1'
@@ -10697,7 +10703,7 @@ filesstrings: 3.2.2
 filling: 0.2.2
 fillr: 1.0.0
 filterviewR: '0.11'
-finalfit: 1.0.2
+finalfit: 1.0.3
 financial: '0.2'
 finbif: 0.5.0
 finch: 0.4.0
@@ -11277,7 +11283,7 @@ genesysr: 1.0.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
 genieclust: 1.0.0
-genio: 1.0.12
+genio: 1.0.23
 genius: 2.2.2
 geniusr: 1.2.0
 genlasso: '1.5'
@@ -11390,7 +11396,7 @@ gestate: 1.4.0
 gesttools: 1.2.0
 getCRUCLdata: 0.3.2
 getDTeval: 0.0.1
-getLattes: 0.1.1
+getLattes: 0.2.0
 getMet: 0.3.2
 getPass: 0.2-2
 getProxy: '1.12'
@@ -11935,7 +11941,7 @@ gtcorr: 0.2-1
 gte: 1.2-2
 gtfs2gps: 1.4-1
 gtfsio: 0.1.2
-gtfsrouter: 0.0.4
+gtfsrouter: 0.0.5
 gtfstools: 0.1.0
 gtheory: 0.1.2
 gtkDevice: 1.9-4
@@ -12049,7 +12055,7 @@ hddtools: 0.9.4
 hdeco: '0.4'
 hdf5: 1.6.9
 hdf5r: 1.3.3
-hdfqlr: 0.6-1
+hdfqlr: 0.6-2
 hdi: 0.1-9
 hdiVAR: 1.0.1
 hdlm: 1.3.1
@@ -12139,7 +12145,7 @@ highMLR: 0.1.0
 highSCREEN: '0.4'
 highTtest: '1.1'
 highcharter: 0.8.2
-highfrequency: 0.8.0.1
+highfrequency: 0.9.0
 highlight: 0.5.0
 highlightHTML: 0.2.5
 highmean: '3.0'
@@ -12566,6 +12572,7 @@ indicoio: '0.3'
 indicspecies: 1.7.9
 indiedown: 0.1.1
 indirect: 0.2.0
+industRial: 0.1.0
 inegiR: 3.0.0
 ineq: 0.2-13
 ineqJD: '1.0'
@@ -12819,7 +12826,7 @@ jack: 1.1.1
 jackalope: 1.1.2
 jackknifeKME: '1.2'
 jackstrap: 0.1.0
-jackstraw: '1.3'
+jackstraw: 1.3.1
 jacpop: '0.6'
 jaggR: 0.1.1
 jagsUI: 1.5.1
@@ -13935,7 +13942,7 @@ medAdherence: '1.03'
 medExtractR: '0.3'
 medSTC: 1.0.0
 mederrRank: 0.0.8
-medfate: 1.1.0
+medfate: 2.2.1
 medflex: 0.6-7
 mediacloudr: 0.1.0
 mediateP: 0.1.0
@@ -13981,13 +13988,14 @@ mergeTrees: 0.1.3
 mergedblocks: 1.1.0
 merlin: 0.1.0
 merror: 2.0.2
+meshed: 0.1.1
 meshsimp: '0.1'
 messaging: 0.1.0
 met: 0.1.0
 metR: 0.9.2
 metRology: 0.9-28-1
 metScanR: 1.2.3
-meta: 4.18-1
+meta: 4.18-2
 meta4diag: 2.0.8
 metaBLUE: 1.0.0
 metaBMA: 0.6.7
@@ -15238,7 +15246,7 @@ obsSens: '1.3'
 observer: 0.1.2
 oc: '1.2'
 occ: '1.1'
-occCite: 0.4.7
+occCite: 0.4.8
 ocd: '1.1'
 oce: 1.4-0
 ocean: 0.2-4
@@ -17044,7 +17052,7 @@ randtests: '1.0'
 randtoolbox: 1.30.1
 rangeBuilder: '1.5'
 rangeMapper: 2.0.2
-rangeModelMetadata: 0.1.3
+rangeModelMetadata: 0.1.4
 rangemap: 0.1.16
 rangemodelR: '1.0'
 ranger: 0.12.1
@@ -17942,7 +17950,7 @@ rsdmx: '0.6'
 rsed: 0.1.2
 rseedcalc: '1.3'
 rsem: 0.5.0
-rsetse: 0.4.0
+rsetse: 0.5.0
 rsf: 0.2.2
 rsgcc: '1.0'
 rsggm: '0.3'
@@ -18287,7 +18295,7 @@ scope: '2.2'
 scoper: 1.1.0
 scopr: 0.3.3
 score: 1.0.2
-scorecard: 0.3.2
+scorecard: 0.3.3
 scorecardModelUtils: 0.0.1.0
 scorepeak: 0.1.2
 scorer: 0.2.0
@@ -18433,7 +18441,7 @@ semmcmc: 0.0.6
 semnar: 0.7.1
 semnova: 0.1-6
 semsfa: '1.1'
-semtree: 0.9.15
+semtree: 0.9.16
 semver: 0.2.0
 semverutils: 0.1.0
 sen2r: 1.4.4
@@ -18617,7 +18625,7 @@ shinydlplot: 0.1.3
 shinydrive: 0.1.1
 shinyfilter: 0.1.1
 shinyfullscreen: 1.1.0
-shinyglide: 0.1.2
+shinyglide: 0.1.3
 shinyhelper: 0.3.2
 shinyhttr: 1.1.0
 shinyjqui: 0.4.0
@@ -18816,6 +18824,7 @@ skeletor: 1.0.4
 skellam: 0.2.0
 sketch: 1.0.3
 sketcher: 0.1.3
+skewMLRM: '1.0'
 skewlmm: 0.2.3
 skewt: '0.1'
 skewtools: 0.1.1
@@ -19011,7 +19020,7 @@ sovereign: 1.1.0
 sp: 1.4-5
 sp23design: '0.9'
 sp500SlidingWindow: 0.1.0
-spANOVA: 0.99.2
+spANOVA: 0.99.3
 spAddins: 0.2.0
 spBFA: '1.1'
 spBayes: 0.4-3
@@ -20829,7 +20838,7 @@ vsgoftest: 1.0-1
 vstsr: 1.0.0
 vtable: 1.3.2
 vtcl: 1.0-1
-vtreat: 1.6.2
+vtreat: 1.6.3
 vtree: 5.1.9
 vtype: '0.8'
 vudc: '1.1'
@@ -21057,7 +21066,7 @@ wrProteo: 1.4.1
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.2
 wrappedtools: 0.7.8
-wrapr: 2.0.7
+wrapr: 2.0.8
 wrassp: 1.0.1
 write.snns: 0.0-4.2
 writexl: 1.4.0
