@@ -370,7 +370,7 @@ BINCO: 0.1-1
 BINCOR: 0.2.0
 BINtools: 0.1.0
 BIOM.utils: '0.9'
-BIOMASS: 2.1.5
+BIOMASS: '2.1'
 BIOdry: '0.8'
 BIPOD: 0.2.1
 BIRDS: 0.1.27.1
@@ -1437,7 +1437,7 @@ DescToolsAddIns: '1.9'
 DescrTab2: 2.0.7
 DescribeDisplay: 0.2.7
 DescriptiveStats.OBeu: 1.3.2
-DescriptiveWH: 1.0.1
+DescriptiveWH: 1.0.2
 Design: 2.3-0
 DesignCTPB: 1.1.1
 DesignLibrary: 0.1.6
@@ -7179,7 +7179,7 @@ assist: 3.1.7
 assocInd: 1.0.1
 assortnet: '0.12'
 asteRisk: 1.0.0
-aster: 1.0-3
+aster: 1.1-2
 aster2: '0.3'
 astro: '1.2'
 astroFns: 4.1-0
@@ -7618,7 +7618,7 @@ bigmds: 1.0.0
 bigmemory: 4.5.36
 bigmemory.sri: 0.1.3
 bigml: 0.1.2
-bignum: 0.1.0
+bignum: 0.2.0
 bigparallelr: 0.3.1
 bigpca: '1.1'
 bigreadr: 0.2.4
@@ -7926,7 +7926,7 @@ brnn: '0.8'
 brokenstick: 1.1.0
 brolgar: 0.1.1
 broman: 0.72-4
-broom: 0.7.6
+broom: 0.7.7
 broom.helpers: 1.3.0
 broom.mixed: 0.2.6
 broomExtra: 4.2.3
@@ -8188,7 +8188,7 @@ cdcfluview: 0.9.4
 cdcsis: 2.0.3
 cde: 0.4.1
 cder: 0.2-2
-cdfquantreg: 1.2.2
+cdfquantreg: 1.2.4
 cdlTools: '0.15'
 cdlei: '1.0'
 cdmTools: 1.0.0
@@ -8394,7 +8394,7 @@ cleanEHR: '1.0'
 cleanNLP: 3.0.3
 cleancall: 0.1.1
 cleandata: 0.3.0
-cleaner: 1.5.2
+cleaner: 1.5.3
 cleanerR: 0.1.1
 cleangeo: 0.2-4
 cleanr: 1.3.2
@@ -9927,7 +9927,7 @@ ecdfHT: 0.1.1
 ecespa: 1.1-13
 ech: 0.1.1.2
 echarts4r: 0.4.0
-echarty: 0.1.3
+echarty: 0.2.0
 echelon: 0.1.0
 echo.find: 4.0.1
 echogram: 0.1.2
@@ -12869,7 +12869,7 @@ joineR: 1.2.6
 joineRML: 0.4.5
 joineRmeta: 0.1.2
 joinet: 0.0.7
-joint.Cox: '3.12'
+joint.Cox: '3.13'
 jointDiag: '0.4'
 jointMeanCov: 0.1.0
 jointNmix: '1.0'
@@ -13738,7 +13738,7 @@ mapr: 0.5.2
 maps: 3.3.0
 mapsFinland: 0.1.1
 mapsRinteractive: 1.0.1
-mapsapi: 0.4.8
+mapsapi: 0.4.9
 mapsf: 0.2.0
 maptiles: 0.2.0
 maptools: 1.1-1
@@ -13880,7 +13880,7 @@ mclogit: 0.8.7.3
 mclust: 5.4.7
 mclust02: 2.1-18
 mclust1998: 1.1-9
-mclustcomp: 0.3.1
+mclustcomp: 0.3.3
 mcmc: 0.9-7
 mcmcOutput: 0.1.1
 mcmcabn: '0.4'
@@ -14423,7 +14423,7 @@ modelplotr: 1.1.0
 modelr: 0.1.8
 modelsummary: 0.8.0
 modeltests: 0.1.4
-modeltime: 0.6.0
+modeltime: 0.6.1
 modeltime.ensemble: 0.4.1
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.1
@@ -15058,7 +15058,7 @@ nneo: 0.1.0
 nnet: 7.3-16
 nnetpredint: '1.2'
 nnfor: 0.9.6
-nngeo: 0.4.2
+nngeo: 0.4.3
 nnlasso: '0.3'
 nnlib2Rcpp: 0.1.7
 nnls: '1.4'
@@ -15616,7 +15616,7 @@ pampe: 1.1.2
 pamr: 1.56.1
 pan: '1.6'
 pancor: 0.1.0
-pander: 0.6.3
+pander: 0.6.4
 pandocfilters: 0.1-4
 panel: '1.0'
 panelAR: '0.1'
@@ -16230,7 +16230,7 @@ polidata: 0.1.0
 poliscidata: 2.3.0
 polished: 0.3.0
 polite: 0.1.1
-politeness: 0.7.8
+politeness: 0.8.4
 politicaldata: 0.1.3
 pollen: 0.72.0
 pollimetry: 1.0.1
@@ -17999,7 +17999,7 @@ rsurfer: '0.2'
 rsvd: 1.0.5
 rsvg: 2.1.2
 rsyncrosim: 1.2.9
-rsyntax: 0.1.1
+rsyntax: 0.1.2
 rsyslog: 1.0.2
 rt: 1.1.0
 rt.test: 1.18.7.9
@@ -19256,7 +19256,7 @@ spoccutils: 0.1.0
 spoiler: 1.0.0
 spongebob: 0.4.0
 spongecake: 0.1.2
-spork: 0.1.8
+spork: 0.2.1
 sporm: 1.1.1
 sport: 0.2.0
 sportyR: 1.0.1
