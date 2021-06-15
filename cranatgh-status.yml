@@ -558,7 +558,7 @@ BeSS: 2.0.3
 BeastJar: 1.10.6
 Benchmarking: '0.29'
 BenfordTests: 1.2.0
-Bergm: 5.0.2
+Bergm: 5.0.3
 BerkeleyEarth: '1.8'
 BerlinData: 1.0.1
 Bessel: 0.6-0
@@ -1060,7 +1060,7 @@ CommonMean.Copula: 1.0.0
 CommonTrend: 0.7-1
 CommunityCorrelogram: '1.0'
 Comp2ROC: 1.1.4
-CompAREdesign: '1.7'
+CompAREdesign: '1.9'
 CompDist: '1.0'
 CompGLM: '2.0'
 CompLognormal: '3.0'
@@ -2415,6 +2415,7 @@ HDoutliers: 1.0.3
 HDtest: '2.1'
 HDtweedie: '1.1'
 HEAT: '1.2'
+HEDA: 0.1.4
 HEMDAG: 2.7.4
 HETOP: 0.2-6
 HFWutils: 0.9.5.2011.03.21
@@ -2570,7 +2571,7 @@ ICDS: 0.1.1
 ICE: '0.69'
 ICEbox: 1.1.2
 ICEinfer: '1.3'
-ICGE: '0.4'
+ICGE: 0.4.1
 ICGOR: '2.0'
 ICODS: '1.0'
 ICON: 0.4.0
@@ -4778,7 +4779,7 @@ ROI.plugin.deoptim: 1.0-0
 ROI.plugin.ecos: 1.0-0
 ROI.plugin.glpk: 1.0-0
 ROI.plugin.ipop: 1.0-0
-ROI.plugin.lpsolve: 1.0-0
+ROI.plugin.lpsolve: 1.0-1
 ROI.plugin.msbinlp: 1.0-0
 ROI.plugin.neos: 1.0-0
 ROI.plugin.nloptr: 1.0-0
@@ -6423,7 +6424,7 @@ UBL: 0.0.7
 UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.0.0
 UCSCXenaTools: 1.4.5
-UComp: '2.2'
+UComp: 2.2.1
 UKFE: 0.1.7
 UKgrid: 0.1.3
 UMR: 1.0.0
@@ -9626,7 +9627,7 @@ dlib: 1.0.3.1
 dlm: 1.1-5
 dlmap: '1.13'
 dlmodeler: 1.4-2
-dlnm: 2.4.5
+dlnm: 2.4.6
 dlookr: 0.4.5
 dlsem: 2.4.6
 dlstats: 0.1.4
@@ -9976,7 +9977,7 @@ ed50: 0.1.1
 ed50simulation: 0.1.1
 eda4treeR: 0.3.0
 edarf: 1.1.1
-edbuildmapr: 0.3.0
+edbuildmapr: 0.3.1
 edbuildr: 0.3.0
 edcc: 1.0-0
 edci: 1.1-3
@@ -12233,7 +12234,7 @@ hotspots: 1.0.3
 housingData: 0.3.0
 hover: 0.1.1
 howmany: 0.3-1
-hpa: 1.1.3
+hpa: 1.2.0
 hpackedbubble: 0.1.0
 hpcwld: '0.5'
 hpiR: 0.3.2
@@ -12581,6 +12582,7 @@ indicoio: '0.3'
 indicspecies: 1.7.9
 indiedown: 0.1.1
 indirect: 0.2.0
+individual: 0.1.1
 industRial: 0.1.0
 inegiR: 3.0.0
 ineq: 0.2-13
@@ -12640,7 +12642,7 @@ intRvals: 1.0.0
 intamap: 1.4-9
 intamapInteractive: 1.1-7
 intccr: 3.0.2
-intcensROC: 0.1.2
+intcensROC: 0.1.3
 intcox: '0.9'
 intcure: '2.1'
 intdag: 1.0.1
@@ -13370,7 +13372,7 @@ lineartestr: 1.0.0
 linemap: 0.2.0
 lineqGPR: 0.1.1
 lineup: 0.38-3
-lineup2: '0.4'
+lineup2: '0.6'
 lingmatch: 1.0.2
 lingtypology: 1.1.5
 linguisticsdown: 1.2.0
@@ -14242,7 +14244,7 @@ mixAR: 0.22.5
 mixComp: 0.1-2
 mixEMM: '1.0'
 mixIndependR: 1.0.0
-mixKernel: '0.6'
+mixKernel: '0.7'
 mixOmics: 6.3.2
 mixPHM: 0.7-2
 mixR: 0.2.0
@@ -14263,7 +14265,7 @@ mixer: '1.9'
 mixexp: 1.2.5
 mixfdr: '1.0'
 mixggm: '1.0'
-mixl: 1.2.3
+mixl: '1.3'
 mixlink: 0.1.5
 mixlm: 1.2.5
 mixlow: 1.0.1
@@ -14709,7 +14711,7 @@ multiplex: 2.9.4
 multiplyr: 0.1.1
 multipol: 1.0-7
 multirich: 2.1.3
-multiridge: '1.7'
+multiridge: '1.9'
 multiselect: 0.1.0
 multisensi: 2.1-1
 multisite.accuracy: '1.0'
@@ -15512,6 +15514,7 @@ outbreaker: 1.1-8
 outbreaker2: 1.1.2
 outbreaks: 1.9.0
 outcomerate: 1.0.1
+outlierensembles: 0.1.0
 outliers: '0.14'
 outliertree: 1.7.2
 outreg: 0.2.2
@@ -16390,6 +16393,7 @@ pre: 1.0.0
 preText: 0.6.2
 precautionary: 0.2-1
 precintcon: 2.3.0
+precisePlacement: 0.1.0
 precisely: 0.1.1
 precommit: 0.1.3
 precrec: 0.12.7
@@ -17228,7 +17232,7 @@ rdi: 1.0.0
 rdian: 0.1.1
 rdist: 0.0.5
 rdiversity: '2.0'
-rdlocrand: 0.7.1
+rdlocrand: '0.8'
 rdmulti: '0.8'
 rdnb: 0.1-4
 rdoc: 0.1.0
@@ -17601,7 +17605,7 @@ rimage: '0.5'
 rinat: 0.1.8
 rindex: '0.12'
 rinform: 1.0.2
-ring: 1.0.0
+ring: 1.0.3
 ringbuffer: '1.1'
 ringscale: 0.1.2
 rintimg: 0.1.0
@@ -18216,7 +18220,7 @@ sarp.snowprofile.alignment: 1.0.2
 sars: 1.3.4
 sarsop: 0.6.8
 sas7bdat: '0.5'
-sasLM: 0.5.3
+sasLM: 0.6.0
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.0
@@ -18378,7 +18382,7 @@ searchable: 0.3.3.1
 searcher: 0.0.5
 seas: 0.5-2
 season: 0.3.13
-seasonal: 1.8.2
+seasonal: 1.8.3
 seasonalclumped: 0.3.2
 seasonalview: '0.3'
 seastests: 0.14.2
@@ -18646,6 +18650,7 @@ shinyloadtest: 1.1.0
 shinylogs: 0.1.7
 shinymanager: 1.0.300
 shinymaterial: 1.2.0
+shinymeta: 0.2.0
 shinyobjects: 0.2.0
 shinypanel: 0.1.4
 shinypanels: 0.5.0
@@ -19153,7 +19158,7 @@ spatstat: 2.1-0
 spatstat.Knet: 2.0-0
 spatstat.core: 2.1-2
 spatstat.data: 2.1-0
-spatstat.geom: 2.1-0
+spatstat.geom: 2.2-0
 spatstat.gui: 2.0-0
 spatstat.linnet: 2.1-1
 spatstat.local: 4.1-1
@@ -19396,7 +19401,7 @@ starma: '1.3'
 starmie: 0.1.2
 starnet: 0.0.6
 stars: 0.5-3
-starsExtra: 0.2.4
+starsExtra: 0.2.5
 starschemar: 1.2.0
 startR: 2.1.0
 startup: 0.15.0
@@ -20912,6 +20917,7 @@ waveslim: 1.8.2
 wavethresh: 4.6.8
 wayback: 0.2.4
 waydown: 1.1.0
+wbacon: '0.5'
 wbs: '1.4'
 wbsd: 1.0.0
 wbstats: 1.0.4
