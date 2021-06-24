@@ -177,7 +177,7 @@ Aelasticnet: 2.13.1
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
-AgroR: 1.2.0
+AgroR: 1.2.1
 AhoCorasickTrie: 0.1.2
 AirSensor: 1.0.8
 Ake: '1.0'
@@ -791,6 +791,7 @@ CIplot: '1.0'
 CJAMP: 0.1.1
 CKAT: 0.1.0
 CKLRT: 0.2.3
+CKMRpop: 0.1.2
 CLA: 0.96-1
 CLAG: '2.7'
 CLME: 2.0-12
@@ -840,7 +841,7 @@ COST: 0.1.0
 COUNT: 1.3.4
 COUSCOus: 1.0.0
 COVID19: 2.3.2
-COVIDIBGE: 0.1.4
+COVIDIBGE: 0.1.5
 COZIGAM: 2.0-3
 COveR: 1.0.3
 CP: '1.6'
@@ -3909,6 +3910,7 @@ OasisR: 3.0.2
 Observation: 0.2.0
 OceanView: '1.0'
 OddsPlotty: 1.0.1
+OenoKPM: 0.1.2
 Ohit: 1.0.0
 Ohmage: '2.9'
 OjaNP: 1.0-0
@@ -4092,14 +4094,14 @@ PMCMRplus: 1.9.0
 PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.16-0
-PNADcIBGE: 0.6.4
-PNSIBGE: 0.1.3
+PNADcIBGE: 0.6.5
+PNSIBGE: 0.1.4
 PNWColors: 0.1.0
 PO.EN: '1.0'
 POCRE: 0.5.0
 POD: 1.2.0
 POET: '2.0'
-POFIBGE: 0.1.2
+POFIBGE: 0.1.3
 POINT: '1.1'
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
@@ -4140,7 +4142,7 @@ PROsetta: 0.3.0
 PRROC: 1.3.1
 PRSim: 1.3-1
 PReMiuM: 3.2.6
-PResiduals: 1.0-0
+PResiduals: 1.0-1
 PSAboot: '1.1'
 PSAgraphics: 2.1.1
 PSCBS: 0.65.0
@@ -4332,6 +4334,7 @@ PowerfulMaxEigenpair: 0.1.1
 PracTools: 1.2.2
 PreKnitPostHTMLRender: 0.1.0
 PreProcess: 3.1.7
+PreProcessing: 0.1.0
 PrecipStat: '1.03'
 PreciseSums: '0.4'
 PredCRG: 1.0.2
@@ -4481,7 +4484,7 @@ R0: 1.2-6
 R1magic: 0.3.2
 R2019nCoV: 0.1.0
 R2Addhaz: 0.1.0
-R2BEAT: 1.0.2-1
+R2BEAT: 1.0.3
 R2BayesX: 1.1-1
 R2Cuba: 1.1-0
 R2DGC: 1.0.3
@@ -4587,6 +4590,7 @@ RDF: '1.1'
 RDFTensor: '1.3'
 RDIDQ: '1.0'
 RDML: '1.0'
+RDP: 0.1.4
 RDS: 0.9-3
 RDSTK: '1.1'
 RDStreeboot: '1.0'
@@ -5588,7 +5592,7 @@ SILM: 1.0.0
 SIMMS: 1.3.1
 SIN: '0.6'
 SINGLE: '1.3'
-SIPDIBGE: 0.1.3
+SIPDIBGE: 0.1.4
 SIRE: 1.1.0
 SIRItoGTFS: 0.2.4
 SIS: 0.8-8
@@ -5859,7 +5863,7 @@ SigTree: 1.10.6
 SigWinR: '1.0'
 SightabilityModel: 1.4.1
 Signac: 1.2.1
-SignacX: 2.2.1
+SignacX: 2.2.2
 SignifReg: '4.0'
 Sim.DiffProc: '4.8'
 Sim.DiffProcGUI: '2.5'
@@ -6899,6 +6903,7 @@ agroclim: 0.1.0
 agrostab: 0.1.0
 agsemisc: 1.3-1
 agtboost: 0.9.1
+ahMLE: '1.18'
 ahaz: '1.14'
 ahnr: 0.3.1
 ahp: 0.2.8
@@ -7458,6 +7463,7 @@ bayesplay: 0.9.0
 bayesplot: 1.8.1
 bayespref: '1.0'
 bayesreg: '1.2'
+bayesrules: 0.0.1
 bayess: '1.4'
 bayest: '1.4'
 bayestestR: 0.10.0
@@ -7513,7 +7519,7 @@ bdl: 1.0.3
 bdlp: 0.9-2
 bdoc: '1.2'
 bdots: 1.0.1
-bdpar: 3.0.0
+bdpar: 3.0.1
 bdpopt: 1.0-1
 bdpv: '1.3'
 bdribs: 1.0.4
@@ -7652,6 +7658,7 @@ bigpca: '1.1'
 bigreadr: 0.2.4
 bigrf: 0.1-6
 bigrquery: 1.3.2
+bigsimr: 0.11.1
 bigsnpr: 1.8.1
 bigsparser: 0.4.4
 bigsplines: 1.1-1
@@ -7868,6 +7875,7 @@ boot.heterogeneity: 1.1.2
 boot.pval: 0.1.0
 bootComb: 1.0.1
 bootES: '1.2'
+bootGOF: 0.1.0
 bootImpute: 1.2.0
 bootLR: 1.0.2
 bootRes: '1.2'
@@ -7955,7 +7963,7 @@ brnn: '0.8'
 brokenstick: 1.1.0
 brolgar: 0.1.1
 broman: 0.72-4
-broom: 0.7.7
+broom: 0.7.8
 broom.helpers: 1.3.0
 broom.mixed: 0.2.6
 broomExtra: 4.2.3
@@ -8644,7 +8652,7 @@ colorpatch: 0.1.2
 colorplaner: 0.1.3
 colorr: 1.0.0
 colorscience: 1.0.8
-colorspace: 2.0-1
+colorspace: 2.0-2
 colortools: 0.1.5
 colourlovers: 0.3.6
 colourpicker: 1.1.0
@@ -9031,6 +9039,7 @@ crunchy: 0.3.3
 cruts: '1.1'
 cry: 0.4.1
 crypto: 1.1.3
+crypto2: 1.3.0
 cryptowatchR: 0.2.0
 cryst: 0.1.0
 csSAM: 1.2.4
@@ -11701,11 +11710,11 @@ glmmGS: '0.5'
 glmmLasso: 1.5.1
 glmmML: 1.1.1
 glmmSeq: 0.1.0
-glmmTMB: 1.0.2.1
+glmmTMB: 1.1.1
 glmmboot: 0.5.1
 glmmfields: 0.1.4
 glmmsr: 0.2.3
-glmnet: 4.1-1
+glmnet: 4.1-2
 glmnetUtils: 1.1.8
 glmnetcr: 1.0.6
 glmpath: '0.98'
@@ -12535,6 +12544,7 @@ igraphdata: 1.0.1
 igraphinshiny: '0.1'
 igraphtosonia: '1.0'
 iheatmapr: 0.5.1
+iheiddown: 0.8.2
 ihpdr: 1.2.1
 ihs: '1.0'
 iid.test: '1.6'
@@ -13622,7 +13632,7 @@ lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
 lsa: 0.73.2
-lsasim: 2.1.0
+lsasim: 2.1.1
 lsbclust: '1.1'
 lsbs: '0.1'
 lsdbc: 0.1.0
@@ -13783,7 +13793,7 @@ mapfit: 0.9.7
 mapfuser: 0.1.2
 mapi: 1.0.1
 mapmisc: 1.8.0
-mapping: '1.2'
+mapping: 1.2.1
 mappings: '0.1'
 mapplots: 1.5.1
 mappoly: 0.2.3
@@ -14223,7 +14233,7 @@ mimi: 0.2.0
 mimsy: 0.6.2
 minMSE: 0.3.1
 minPtest: '1.7'
-mind: 0.1.1
+mind: 0.1.2
 mindicador: 0.1.5
 mindr: 1.2.3
 mineCitrus: 1.0.0
@@ -14328,7 +14338,7 @@ mixtools: 1.2.0
 mixtox: 1.3.2
 mixture: 2.0.4
 mize: 0.2.4
-mizer: 2.1.0
+mizer: 2.2.0
 mkde: '0.1'
 mkin: 1.0.4
 mknapsack: 0.1.0
@@ -15106,7 +15116,7 @@ nmslibR: 1.0.5
 nmw: 0.1.4
 nnDiag: 0.0-5
 nnGarrote: 1.0.3
-nnTensor: 1.0.7
+nnTensor: 1.1.0
 nna: 0.0.2.1
 nnc: '1.14'
 nncRda: '1.87'
@@ -15304,6 +15314,7 @@ observer: 0.1.2
 oc: '1.2'
 occ: '1.1'
 occCite: 0.4.8
+occupancy: '1.2'
 ocd: '1.1'
 oce: 1.4-0
 ocean: 0.2-4
@@ -16285,7 +16296,7 @@ poistweedie: 1.0.1
 poker: 0.8.8
 polAr: 0.2.0
 polaroid: 0.0.1
-policytree: 1.0.4
+policytree: 1.1.0
 polidata: 0.1.0
 poliscidata: 2.3.0
 polished: 0.3.0
@@ -16485,6 +16496,7 @@ prettyGraphs: 2.1.6
 prettyR: 2.2-3
 prettycode: 1.1.0
 prettydoc: 0.4.1
+prettyglm: 0.1.0
 prettymapr: 0.2.2
 prettyunits: 1.1.1
 prevR: 3.4.1
@@ -16582,6 +16594,7 @@ protViz: 0.6.8
 protag: 1.0.0
 proteomicdesign: '2.0'
 proteomics: '0.2'
+proteus: 1.0.0
 protiq: '1.2'
 proto: 1.0.0
 protoclass: '1.0'
@@ -16609,7 +16622,7 @@ pryr: 0.1.4
 ps: 1.6.0
 psData: 0.2.2
 psSubpathway: 0.1.1
-psbcGroup: '1.4'
+psbcGroup: '1.5'
 psborrow: 0.1.0
 pscl: 1.5.5
 pscore: 0.1-2
@@ -17124,7 +17137,7 @@ rankFD: 0.1.0
 rankdist: 1.1.4
 rankhazard: 1.1.0
 rankreg: 0.2-2
-ranlip: 1.0.0
+ranlip: 1.0.1
 rapbase: 1.10.0
 rapiclient: 0.1.3
 rapidjsonr: 1.2.0
@@ -18335,7 +18348,7 @@ scape: 2.3.3
 scapeMCMC: 1.1-3
 scar: 0.2-1
 scatr: 1.0.1
-scatterD3: 0.9.2
+scatterD3: 1.0.0
 scattermore: '0.7'
 scatterpie: 0.1.6
 scatterplot3d: 0.3-41
@@ -18398,6 +18411,7 @@ scs: 1.3-2
 sctransform: 0.3.2
 scuba: 1.11-0
 sculpt3d: 0.3-1
+scutr: 0.1.2
 scvxclustr: '0.1'
 sdPrior: 1.0-0
 sdStaf: 1.0.2
@@ -18836,7 +18850,7 @@ simplecolors: 0.1.1
 simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simpleroptions: 0.2.0
-simplevis: 4.1.0
+simplevis: 4.2.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -19997,7 +20011,7 @@ tensorregress: '4.0'
 tensorsign: 0.1.0
 tensorsparse: '3.0'
 tensr: 1.0.1
-tergm: 3.7.0
+tergm: 4.0.1
 tergmLite: 2.2.1
 term: 0.3.1
 termstrc: '1.3'
@@ -21108,7 +21122,7 @@ woeBinning: 0.1.6
 woeR: 0.2.1
 womblR: 1.0.4
 wombsoft: '2.0'
-wooldridge: 1.3.1
+wooldridge: 1.4-1
 worcs: 0.1.8
 word.alignment: '1.1'
 word2vec: 0.3.3
@@ -21188,7 +21202,7 @@ xRing: 0.1.0
 xSub: 3.0.1
 xVA: 0.8.5
 xaringan: '0.22'
-xaringanthemer: 0.3.4
+xaringanthemer: 0.4.0
 xbreed: 1.0.1.1
 xdcclarge: 0.1.0
 xergm: 1.8.3
