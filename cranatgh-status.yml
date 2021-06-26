@@ -994,7 +994,7 @@ ClickClust: 1.1.5
 ClickClustCont: 0.1.7
 CliftLRD: 0.1-1
 ClimClass: 2.1.0
-ClimDown: 1.0.2
+ClimDown: 1.0.8
 ClimInd: 0.1-3
 ClimMobTools: 0.3.9
 ClimProjDiags: 0.1.1
@@ -1745,7 +1745,7 @@ EpiDynamics: 0.3.1
 EpiEstim: 2.2-4
 EpiILM: 1.5.2
 EpiILMCT: 1.1.6
-EpiModel: 2.0.5
+EpiModel: 2.1.0
 EpiNow2: 1.3.2
 EpiReport: 1.0.1
 EpiResTest: '1.0'
@@ -3414,8 +3414,8 @@ MVQuickGraphs: 0.1.2
 MVR: 1.33.0
 MVT: '0.3'
 MVTests: 2.0.3
-MVar: 2.1.5
-MVar.pt: 2.1.5
+MVar: 2.1.6
+MVar.pt: 2.1.6
 MVisAGe: 0.2.1
 MVpower: '2.0'
 MWLasso: 1.3.1
@@ -3748,7 +3748,7 @@ NMRS: '1.0'
 NMVANOVA: 1.1.0
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.7.0.1
+NNS: 0.7.1
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NOAAWeather: 0.1.0
@@ -5130,7 +5130,7 @@ RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
 RcppCCTZ: 0.2.9
 RcppCNPy: 0.2.10
-RcppCWB: 0.3.2
+RcppCWB: 0.4.0
 RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
 RcppDE: 0.1.6
@@ -6090,7 +6090,7 @@ StructR: '1.1'
 StructureMC: '1.0'
 SubCultCon: '1.0'
 SubLasso: '1.0'
-SubTite: 4.0.1
+SubTite: 4.0.3
 SubVis: 2.0.2
 SubgrPlots: 0.1.3
 SubgrpID: '0.11'
@@ -7998,7 +7998,7 @@ bstats: 1.1-11-5
 bsts: 0.9.6
 bsub: 1.0.2
 btb: 0.1.30.3
-btergm: 1.9.13
+btergm: 1.10.3
 btf: '1.2'
 bubblyr: 0.1.2
 bucky: 1.0.6
@@ -8097,7 +8097,7 @@ candisc: 0.8-5
 canprot: 1.1.0
 cansim: 0.3.8
 canvas: 0.2-0
-canvasXpress: 1.32.9
+canvasXpress: 1.35.0
 canvasXpress.data: 1.32.7
 cap: '1.0'
 cape: 3.1.0
@@ -8940,7 +8940,7 @@ cplexAPI: 1.4.0
 cplm: 0.7-9
 cplots: 0.4-0
 cpm: '2.3'
-cpp11: 0.2.7
+cpp11: 0.3.1
 cppRouting: '2.0'
 cppcor: '1.2'
 cpr: 0.2.3
@@ -10139,7 +10139,7 @@ eltr: 0.1.0
 em2: '0.9'
 emIRT: 0.0.11
 emax.glm: 0.1.2
-emayili: 0.4.10
+emayili: 0.4.11
 emba: 0.1.8
 embed: 0.1.4
 embryogrowth: '8.1'
@@ -10739,7 +10739,7 @@ fhircrackr: 1.0.1
 fiberLD: 0.1-6
 fic: 1.0.0
 fieldRS: 0.2.3
-fields: '12.3'
+fields: '12.5'
 fiery: 1.1.3
 fifer: '1.1'
 fiftystater: 1.0.1
@@ -11080,7 +11080,7 @@ funrar: 1.4.1
 funreg: '1.2'
 funtimes: '7.0'
 furniture: 1.9.10
-furrr: 0.2.2
+furrr: 0.2.3
 fusedest: '1.3'
 fuser: 1.0.1
 fusionchartsR: 0.0.2
@@ -11216,7 +11216,7 @@ gasfluxes: 0.4-4
 gasper: 1.1.1
 gastempt: 0.5.4
 gaston: 1.5.7
-gateR: 0.1.8
+gateR: 0.1.9
 gatepoints: 0.1.4
 gauseR: '1.0'
 gaussDiff: '1.1'
@@ -12129,7 +12129,7 @@ healthfinance: 0.1.0
 healthforum: 0.1.0
 healthyR: 0.1.5
 healthyR.data: 1.0.1
-healthyR.ts: 0.1.1
+healthyR.ts: 0.1.2
 healthyverse: 1.0.0
 heatex: '1.0'
 heatmap.plus: '1.3'
@@ -12691,7 +12691,7 @@ intRegGOF: 0.85-5
 intRvals: 1.0.0
 intamap: 1.4-9
 intamapInteractive: 1.1-7
-intccr: 3.0.2
+intccr: 3.0.3
 intcensROC: 0.1.3
 intcox: '0.9'
 intcure: '2.1'
@@ -12731,7 +12731,7 @@ intervalaverage: 0.8.0
 intervals: 0.15.2
 intervcomp: 0.1.2
 interventionalDBN: 1.2.2
-inti: 0.4.0
+inti: 0.4.1
 intkrige: 1.0.1
 intmed: 0.1.2
 intoo: 0.4.0
@@ -13912,7 +13912,7 @@ mboost: 2.9-5
 mboxr: 0.2.0
 mbr: 0.0.1
 mbrglm: 0.0.1
-mbsts: '1.0'
+mbsts: '2.2'
 mc.heterogeneity: 0.1.2
 mc2d: 0.1-19
 mcBFtest: 0.1.0
@@ -14565,7 +14565,7 @@ mosaicModel: 0.3.0
 mosaicQA: 1.2.0
 mosmafs: 0.1.2
 mosqcontrol: 0.1.0
-mosum: 1.2.5
+mosum: 1.2.6
 mota: '1.2'
 motif: 0.4.3
 motifcluster: 0.1.1
@@ -14673,7 +14673,7 @@ msigdbr: 7.4.1
 msir: 1.3.3
 msltrend: '1.0'
 msm: 1.6.8
-msma: '2.1'
+msma: '2.2'
 msme: 0.5.3
 msmtools: 2.0.1
 msos: 1.2.0
@@ -15513,7 +15513,7 @@ ordiBreadth: '1.0'
 ordinal: 2019.12-10
 ordinalClust: 1.3.5
 ordinalCont: 2.0.2
-ordinalForest: 2.4-1
+ordinalForest: 2.4-2
 ordinalLBM: '1.0'
 ordinalNet: '2.9'
 ordinalRR: '1.1'
@@ -16262,7 +16262,7 @@ pmml: 2.4.0
 pmmlTransformations: 1.3.3
 pmpp: 0.1.1
 pmr: 1.2.5
-pmsampsize: 1.0.3
+pmsampsize: 1.1.0
 pmultinom: 1.0.0
 pmwg: 0.2.0
 pmxTools: 1.2.1
@@ -17086,7 +17086,7 @@ railtrails: 0.1.1
 rainbow: '3.6'
 raincin: 1.0.3
 raincpc: 1.1.0
-rainette: 0.1.3
+rainette: 0.2.0
 rainfarmr: '0.1'
 rainfreq: '0.3'
 rake: '1.2'
@@ -17956,7 +17956,7 @@ rplotengine: 1.0-7
 rpls: 0.6.0
 rplum: 0.2.2
 rpmodel: 1.2.0
-rpms: 0.4.0
+rpms: 0.5.1
 rpn: '1.0'
 rpnf: 1.0.5
 rportfolio: 0.0.3
@@ -18766,7 +18766,7 @@ sicegar: 0.2.4
 siconfir: 1.0.5
 siconvr: 0.0.1
 sideChannelAttack: 1.0-6
-sidier: 4.0.3
+sidier: 4.1.0
 sidrar: 0.2.5
 siebanxicor: 1.0.0
 sievePH: 1.0.1
@@ -19148,8 +19148,8 @@ spacom: 1.0-5
 spacyr: 1.2.1
 spaero: 0.6.0
 spagmix: 0.3-4
-spam: 2.6-0
-spam64: 2.6-0
+spam: 2.7-0
+spam64: 2.7-0
 spamtree: 0.2.1
 spanel: '0.1'
 spanish: 0.4.2
@@ -19378,7 +19378,7 @@ spsh: 1.1.0
 spsi: '0.1'
 spsmooth: 1.1-3
 spssDDI: '0.1'
-spsur: 1.0.1.8
+spsur: 1.0.1.9
 spsurv: 1.0.0
 spsurvey: 4.1.4
 spt: 2.5.1
@@ -20955,7 +20955,7 @@ wactor: 0.0.1
 waffect: '1.2'
 waffle: 0.7.0
 wahc: '1.0'
-waiter: 0.2.1
+waiter: 0.2.2
 wakefield: 0.3.6
 wal: 0.1.0
 waldo: 0.2.5
