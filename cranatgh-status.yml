@@ -3671,6 +3671,7 @@ MultinomialCI: '1.2'
 MultipleBubbles: 0.2.0
 MultiplierDEA: 0.1.18
 MultisiteMediation: 0.0.3
+MultivariateAnalysis: 0.1.0
 MultivariateRandomForest: 1.1.5
 MultiwayRegression: '1.2'
 MvBinary: '1.1'
@@ -3937,7 +3938,7 @@ OpenImageR: 1.1.9
 OpenLand: 1.0.1
 OpenML: '1.10'
 OpenMPController: 0.2-5
-OpenMx: 2.19.5
+OpenMx: 2.19.6
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.1
 OpenSpecy: 0.9.2
@@ -4948,7 +4949,7 @@ RTriangle: 1.6-0.10
 RUVIIIC: 1.0.19
 RUnit: 0.4.32
 RVA: 0.0.4
-RVAideMemoire: 0.9-79
+RVAideMemoire: 0.9-80
 RVCompare: 0.1.2
 RVFam: '1.1'
 RVIpkg: 0.2.3
@@ -5453,7 +5454,7 @@ Rwhois: 1.0.5
 Rwinsteps: 1.0-1.1
 Rwofost: 0.8-2
 Rwordseg: 0.3-2
-Rwtss: 0.8.0
+Rwtss: 0.9.1
 RxCEcolInf: 0.1-4
 RxODE: 1.0.9
 RxnSim: 1.0.3
@@ -5479,7 +5480,7 @@ SAMBA: 0.9.0
 SAMCpack: 0.1.1
 SAMGEP: 0.1.0-1
 SAMM: 1.1.1
-SAMTx: 0.2.0
+SAMTx: 0.3.0
 SAMUR: '0.6'
 SAMURAI: 1.2.1
 SAMtool: 1.1.2
@@ -6862,7 +6863,7 @@ admmDensestSubmatrix: 0.1.0
 adnuts: 1.1.2
 adobeanalyticsr: 0.1.5
 adoption: 0.6.2
-adoptr: 0.4.2
+adoptr: 1.0.0
 adpss: 0.1.1
 ads: 1.5-5
 adsDataHubR: 0.1.1
@@ -8020,7 +8021,7 @@ burnr: 0.6.0
 bursts: 1.0-1
 busdater: 0.2.0
 bustt: 0.1.0
-butcher: 0.1.4
+butcher: 0.1.5
 butler: '0.3'
 bvarsv: '1.1'
 bvartools: 0.2.0
@@ -8475,7 +8476,7 @@ clipp: 1.0.0
 clipr: 0.7.1
 cliqueMS: 0.3.1
 clisymbols: 1.2.0
-clock: 0.3.0
+clock: 0.3.1
 clogitL1: '1.5'
 clogitLasso: '1.1'
 clogitboost: '1.1'
@@ -8542,7 +8543,7 @@ cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.1
 cmfilter: 0.9.1
-cmfrec: 3.1.0
+cmfrec: 3.1.2
 cmm: '0.12'
 cmmr: 0.1.2
 cmna: 1.0.3
@@ -8619,7 +8620,7 @@ colcor: '1.0'
 cold: 2.0-1
 colf: 0.1.3
 collUtils: 1.0.5
-collapse: 1.5.3
+collapse: 1.6.0
 collapsibleTree: 0.1.7
 collateral: 0.4.2
 collectArgs: 0.4.0
@@ -8761,7 +8762,7 @@ conicfit: 1.0.4
 conics: '0.3'
 conjoint: '1.41'
 conjurer: 1.2.0
-conleyreg: 0.1.3
+conleyreg: 0.1.4
 connect3: 0.1.0
 connectedness: '0.2'
 connections: 0.1.1
@@ -9601,6 +9602,7 @@ disk.frame: 0.5.0
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
 dismo: 1.3-3
+disordR: 0.0-2
 disp2D: '1.0'
 dispRity: 1.6.0
 disparityfilter: 2.2.3
@@ -9892,7 +9894,7 @@ dynlm: 0.3-6
 dynmix: '1.0'
 dynpanel: 0.1.0
 dynparam: 1.0.2
-dynplot: 1.1.0
+dynplot: 1.1.1
 dynpred: 0.1.2
 dynprog: 0.1.1
 dynr: 0.1.16-2
@@ -10598,6 +10600,7 @@ fastHorseshoe: 0.1.0
 fastICA: 1.2-2
 fastJT: 1.0.6
 fastLSU: 0.1.0
+fastLaplace: 0.0.2
 fastLink: 0.6.0
 fastM: 0.0-4
 fastNaiveBayes: 2.2.1
@@ -12549,7 +12552,7 @@ ihpdr: 1.2.1
 ihs: '1.0'
 iid.test: '1.6'
 iilasso: 0.0.2
-ijtiff: 2.2.6
+ijtiff: 2.2.7
 iki.dataclim: '1.0'
 ilc: '1.0'
 imPois: 0.1.4
@@ -12763,7 +12766,7 @@ iosmooth: '0.94'
 iotables: 0.4.4
 iotools: 0.3-1
 ip2location: 8.0.1
-ip2proxy: 1.0.0
+ip2proxy: 1.0.1
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
 ipaddress: 0.5.2
@@ -14113,7 +14116,7 @@ metaprotr: 1.2.2
 metarep: 1.0.1
 metasens: 0.6-0
 metatest: 1.0-5
-metathis: 1.0.3
+metathis: 1.1.0
 metavcov: '1.1'
 metaviz: 0.3.1
 metawho: 0.2.0
@@ -15706,7 +15709,7 @@ paradox: 0.7.1
 parallelDist: 0.2.4
 parallelMCMCcombine: '2.0'
 parallelML: '1.2'
-parallelMap: 1.5.0
+parallelMap: 1.5.1
 parallelPlot: 0.1.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
@@ -16556,7 +16559,7 @@ prof.tree: 0.1.0
 profExtrema: 0.2.1
 profanal: '1.0'
 profdpm: '3.3'
-proffer: 0.1.1
+proffer: 0.1.3
 profile: 1.0.2
 profileModel: 0.6.1
 profileR: 0.3-5
@@ -17342,7 +17345,7 @@ readbulk: 1.1.3
 reader: 1.0.6
 readit: 1.0.0
 readmnist: 1.0.6
-readobj: 0.3.2
+readobj: 0.4.0
 readr: 1.4.0
 readrba: 0.1.1
 readroper: 0.9.3
@@ -17410,7 +17413,7 @@ refGenome: 1.7.7
 referenceIntervals: 1.2.0
 refimpact: 1.0.0
 refinr: 0.3.1
-refitME: 1.2.0
+refitME: 1.2.1
 refnr: 0.1.0
 refset: 0.1.1
 refuge: 0.3.3
@@ -18530,7 +18533,7 @@ semmcmc: 0.0.6
 semnar: 0.7.1
 semnova: 0.1-6
 semsfa: '1.1'
-semtree: 0.9.16
+semtree: 0.9.9
 semver: 0.2.0
 semverutils: 0.1.0
 sen2r: 1.5.0
@@ -18590,7 +18593,7 @@ serieslcb: 0.4.0
 seroincidence: 2.0.0
 serp: 0.1.8
 serpstatr: 0.1.0
-serrsBayes: 0.4-2
+serrsBayes: 0.5-0
 servosphereR: 0.1.1
 servr: '0.22'
 sesem: 1.0.2
@@ -19132,7 +19135,7 @@ spTest: 0.2.5
 spThin: 0.2.0
 spTimer: 3.3.1
 spa: '2.0'
-spaMM: 3.8.0
+spaMM: 3.8.9
 spaa: 0.2.2
 space: 0.1-1.1
 spaceExt: '1.0'
@@ -19173,7 +19176,7 @@ sparktf: 0.1.0
 sparkwarc: 0.1.5
 sparkxgb: 0.1.1
 sparr: 2.2-15
-sparrpowR: 0.2.1
+sparrpowR: 0.2.2
 sparseBC: '1.2'
 sparseEigen: 0.1.0
 sparseFLMM: 0.4.1
@@ -19586,7 +19589,7 @@ stplanr: 0.8.2
 stpm: 1.7.10
 stpp: 2.0-5
 stppResid: '1.1'
-str2str: 0.1.1
+str2str: 0.2.0
 strand: 0.2.0
 strandCet: '1.0'
 stranger: 0.3.3
@@ -19697,7 +19700,7 @@ supernova: 2.4.1
 superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-6
-support: 0.1.4
+support: 0.1.5
 support.BWS: 0.4-3
 support.BWS2: 0.3-0
 support.BWS3: 0.2-0
@@ -20057,7 +20060,7 @@ textgRid: 1.0.1
 textile: 0.1.4
 textir: 2.0-5
 textmatching: 0.1.0
-textmineR: 3.0.4
+textmineR: 3.0.5
 textmining: 0.0.1
 textometry: 0.1.4
 textplot: 0.1.4
@@ -20612,6 +20615,7 @@ udpipe: 0.8.6
 udunits: '1.3'
 udunits2: '0.13'
 ufs: 0.4.3
+ugomquantreg: 1.0.0
 ui: 0.1.1
 uiucthemes: 0.3.1
 uk2us: 0.1.0
@@ -20761,7 +20765,7 @@ vampyr: 1.1.1
 vanddraabe: 1.1.1
 vannstats: 1.0.7.15
 vanquish: 1.0.0
-vapour: 0.5.5
+vapour: 0.6.5
 varComp: 0.2-0
 varEst: 0.1.0
 varImp: '0.4'
