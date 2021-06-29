@@ -1744,7 +1744,7 @@ EpiCurve: 2.4-1
 EpiDynamics: 0.3.1
 EpiEstim: 2.2-4
 EpiILM: 1.5.2
-EpiILMCT: 1.1.6
+EpiILMCT: 1.1.7
 EpiModel: 2.1.0
 EpiNow2: 1.3.2
 EpiReport: 1.0.1
@@ -4665,7 +4665,7 @@ RGtk2Extras: 0.6.1
 RH2: 0.2.4
 RHMS: '1.6'
 RHPCBenchmark: 0.1.0
-RHRT: '1.0'
+RHRT: 1.0.1
 RHRV: 4.2.6
 RHSDB: 0.1.0
 RHT: '1.0'
@@ -5374,7 +5374,7 @@ RobustGaSP: 0.6.2
 RobustLinearReg: 1.2.0
 RobustRankAggreg: '1.1'
 RockFab: '1.2'
-Rodam: 0.1.6
+Rodam: 0.1.8
 RolWinMulCor: 1.2.0
 RonFHIR: 0.4.0
 Rook: 1.1-1
@@ -6841,7 +6841,7 @@ adehabitatHS: 0.3.15
 adehabitatLT: 0.3.25
 adehabitatMA: 0.3.14
 adephylo: 1.1-11
-adepro: 3.0.0
+adepro: 3.1.0
 adept: '1.2'
 adeptdata: '1.1'
 adespatial: 0.3-14
@@ -6992,7 +6992,7 @@ amerika: 0.1.0
 aml: 0.1-1
 ammistability: 0.1.2
 ampd: '0.2'
-ampir: 1.0.0
+ampir: 1.1.0
 amt: 0.1.4
 anMC: 0.2.2
 anacor: 1.1-3
@@ -8767,7 +8767,7 @@ connect3: 0.1.0
 connectedness: '0.2'
 connections: 0.1.1
 conogive: 1.0.0
-conos: 1.4.1
+conos: 1.4.2
 conover.test: 1.1.5
 conquer: 1.0.2
 conquestr: 0.8.5
@@ -9119,7 +9119,7 @@ customsteps: 0.7.1.0
 cusum: 0.4.1
 cutoff: '1.3'
 cutoffR: '1.0'
-cutpointr: 1.1.0
+cutpointr: 1.1.1
 cuttlefish.model: '1.0'
 cvAUC: 1.1.0
 cvCovEst: 0.3.5
@@ -10228,6 +10228,7 @@ epandist: 1.1.1
 epanet2toolkit: 0.5.1
 epanetReader: 0.7.3
 epca: 1.0.0
+epcc: 1.4.7
 eph: 0.4.0
 epi2loc: 1.0-1
 epiDisplay: 3.5.0.1
@@ -10486,7 +10487,7 @@ eyetrackingR: 0.1.8
 ez: 4.4-0
 ez.combat: 1.0.0
 ezCutoffs: 1.0.1
-ezEDA: 0.1.0
+ezEDA: 0.1.1
 ezcox: 0.8.1
 ezec: 1.0.1
 ezglm: '1.0'
@@ -10824,6 +10825,7 @@ flars: '1.0'
 flashCard: 0.1.0
 flashClust: 1.01-2
 flashlight: 0.8.0
+flatness: 0.1.4
 flatr: 0.1.1
 flattabler: 1.2.0
 flatxml: 0.1.1
@@ -11627,7 +11629,7 @@ ggtern: 3.3.0
 ggtext: 0.1.1
 ggthemes: 4.2.4
 ggupset: 0.3.0
-ggvenn: 0.1.8
+ggvenn: 0.1.9
 ggversa: 0.0.1
 ggvis: 0.4.7
 ggvoronoi: 0.8.4
@@ -11959,7 +11961,7 @@ grplassocat: '1.0'
 grppenalty: 2.1-0
 grpreg: 3.3.1
 grpregOverlap: 2.2-0
-grpsel: 1.0.0
+grpsel: 1.1.0
 grpss: 3.0.1
 grr: 0.9.5
 grt: 0.2.1
@@ -13010,6 +13012,7 @@ kdensity: 1.1.0
 kdetrees: 0.1.5
 kdevine: 0.4.3
 kdist: '0.2'
+kdpee: 1.0.0
 kdtools: 0.4.2
 kedd: 1.0.3
 keep: '1.0'
@@ -13334,7 +13337,7 @@ learnstats: 0.1.1
 leastcostpath: 1.8.0
 ledger: 2.0.7
 leerSIECyL: 1.0.2
-lefko3: 3.4.0
+lefko3: 3.5.0
 lefse: '0.1'
 legco: 0.1.3
 legion: 0.1.0
@@ -13382,7 +13385,7 @@ libbib: '1.6'
 libcoin: 1.0-8
 libgeos: 3.9.1-1
 libproj: 7.1.0-2
-libr: 1.1.3
+libr: 1.2.0
 librarian: 1.7.0
 librarysnapshot: 0.1.2
 libsoc: '0.7'
@@ -13766,7 +13769,7 @@ malaria.em: '2.0'
 malariaAtlas: 1.0.1
 mallet: '1.0'
 managelocalrepo: 0.1.5
-mand: '0.1'
+mand: '1.0'
 mandelbrot: 0.2.0
 manet: '2.0'
 mangoTraining: 1.1.1
@@ -14116,7 +14119,7 @@ metaprotr: 1.2.2
 metarep: 1.0.1
 metasens: 0.6-0
 metatest: 1.0-5
-metathis: 1.1.0
+metathis: 1.1.1
 metavcov: '1.1'
 metaviz: 0.3.1
 metawho: 0.2.0
@@ -14391,7 +14394,7 @@ mlr3fselect: 0.5.1
 mlr3hyperband: 0.1.2
 mlr3learners: 0.4.5
 mlr3measures: 0.3.1
-mlr3misc: 0.9.1
+mlr3misc: 0.9.2
 mlr3oml: 0.4.3
 mlr3pipelines: 0.3.4
 mlr3proba: 0.4.0
@@ -14672,6 +14675,7 @@ msgps: 1.3.1
 msgr: 1.1.2
 msgtools: 0.2.7
 mshap: 0.1.0
+msig: '1.0'
 msigdbr: 7.4.1
 msir: 1.3.3
 msltrend: '1.0'
@@ -14740,7 +14744,7 @@ multiclassPairs: 0.4.3
 multicmp: '1.1'
 multicolor: 0.1.4
 multicon: '1.6'
-multicool: 0.1-11
+multicool: 0.1-12
 multicore: '0.2'
 multicross: 2.1.0
 multidplyr: 0.1.0
@@ -14982,7 +14986,7 @@ netgen: 1.3.2
 netgsa: 4.0.0
 netgwas: '1.13'
 netjack: 1.2.0
-netmeta: 1.4-0
+netmeta: 1.5-0
 netmhc2pan: 1.3.1
 netmodels: '0.2'
 netplot: 0.1-1
@@ -15650,7 +15654,7 @@ pagedown: '0.15'
 pagemap: 0.1.1
 pagenum: '1.2'
 pageviews: 0.5.0
-pagoda2: 1.0.3
+pagoda2: 1.0.4
 pagoo: 0.3.9
 painter: 0.1.0
 paintmap: '1.0'
@@ -16430,7 +16434,7 @@ ppiPre: '1.9'
 ppitables: 0.5.4
 ppls: 1.6-1
 ppmHR: '1.0'
-ppmSuite: 0.1.6
+ppmSuite: 0.1.7
 ppmlasso: '1.1'
 ppr: 1.1-2
 pps: '1.0'
@@ -16919,7 +16923,7 @@ r2dictionary: '0.1'
 r2dii.analysis: 0.1.8
 r2dii.data: 0.1.9
 r2dii.match: 0.0.9
-r2dii.plot: 0.0.1
+r2dii.plot: 0.1.0
 r2glmm: 0.1.2
 r2lUniv: '0.9'
 r2lh: '0.7'
@@ -17781,7 +17785,7 @@ rmgarch: 1.3-7
 rmi: 0.1.1
 rminer: 1.4.6
 rminizinc: 0.0.6
-rmio: 0.2.0
+rmio: 0.3.0
 rmmseg4j: 0.2-0
 rmngb: 0.6-1
 rmonad: 0.7.0
@@ -18609,7 +18613,7 @@ settings: 0.2.7
 setwidth: 1.0-4
 sever: 0.0.6
 severity: '2.0'
-sf: 1.0-0
+sf: 1.0-1
 sfa: 1.0-1
 sfaR: 0.1.0
 sfadv: 1.0.1
@@ -19832,7 +19836,7 @@ swimplot: 1.2.0
 swirl: 2.4.5
 swirlify: 0.5.3
 swissMrP: '0.62'
-swissdd: 1.1.1
+swissdd: 1.1.3
 swissparl: 0.2.1
 switchcase: 0.1.1
 switchnpreg: 0.8-0
