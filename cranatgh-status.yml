@@ -1010,7 +1010,7 @@ CluMix: 2.3.1
 ClueR: '1.4'
 ClusBoot: '1.0'
 ClusPred: 1.0.0
-ClusTorus: 0.0.1
+ClusTorus: 0.1.1
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
 ClustAssess: 0.1.1
@@ -1036,7 +1036,7 @@ CoDiNA: 1.1.2
 CoFRA: '0.1002'
 CoImp: '1.0'
 CoMiRe: '0.7'
-CoOL: 1.0.1
+CoOL: 1.0.2
 CoRpower: 1.0.4
 CoSMoS: 2.1.0
 CoSeg: '0.38'
@@ -1682,7 +1682,7 @@ EasyStrata: '8.6'
 EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
 Ecdat: 0.3-9
-Ecfun: 0.2-4
+Ecfun: 0.2-5
 EcoDiet: 1.0.0
 EcoGenetics: 1.2.1
 EcoHydRology: 0.4.12.1
@@ -2600,7 +2600,7 @@ IDF: 2.1.0
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
-IDSL.IPA: '1.1'
+IDSL.IPA: '1.2'
 IDSpatialStats: 0.3.5
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -3406,7 +3406,7 @@ MUS: 0.1.6
 MVA: 1.0-7
 MVB: '1.1'
 MVLM: 0.1.4
-MVN: '5.8'
+MVN: '5.9'
 MVNBayesian: 0.0.8-11
 MVNtestchar: 1.1.3
 MVPARTwrap: 0.1-9
@@ -3562,6 +3562,7 @@ MinEDfind: 0.1.3
 MindOnStats: '0.11'
 Miney: '0.1'
 Minirand: 0.1.3
+MisRepARMA: 0.0.1
 MiscPsycho: '1.6'
 Miso: 0.2.1
 MissMech: '1.0'
@@ -4367,7 +4368,7 @@ ProbSamplingI: 0.1.0
 ProbYX: 1.1-0
 ProbeDeveloper: 1.0.0
 ProbeR: '2.0'
-ProbitSpatial: '1.0'
+ProbitSpatial: '1.1'
 ProcData: 0.3.2
 ProcMod: 1.0.8
 ProfessR: 2.4-1
@@ -5880,7 +5881,7 @@ SimEUCartelLaw: 1.0.1
 SimEvolEnzCons: 1.0.2
 SimHap: 1.2.0
 SimHaz: '0.1'
-SimInf: 8.3.0
+SimInf: 8.3.2
 SimJoint: 0.3.7
 SimMultiCorrData: 0.2.2
 SimPhe: 0.2.0
@@ -7048,7 +7049,7 @@ anyLib: 1.0.5
 anybadger: 0.1.0
 anyflights: 0.3.1
 anytime: 0.3.9
-ao: 0.1.0
+ao: 0.1.1
 aod: 1.3.1
 aods3: 0.4-1.1
 aof: 0.1.2
@@ -7111,6 +7112,7 @@ archetypal: 1.1.1
 archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
+archive: 1.0.0
 archiveRetriever: 0.1.0
 archivist: 2.3.6
 archivist.github: 0.2.6
@@ -8399,7 +8401,7 @@ citbcmst: 1.0.4
 citccmst: 1.0.2
 citecorp: 0.3.0
 citr: 0.3.2
-ciu: 0.1.0
+ciu: 0.5.0
 ciuupi: 1.1.0
 ciuupi2: 1.0.1
 civis: 3.0.0
@@ -8463,6 +8465,7 @@ climextRemes: 0.2.2
 climtrends: 1.0.6
 climwin: 1.2.3
 clinDR: 2.3.5
+clinDataReview: 1.0.0
 clinPK: 0.9.0
 clinUtiDNA: '1.0'
 clinUtils: 0.0.1
@@ -8471,7 +8474,7 @@ clinfun: 1.0.15
 clinmon: 0.6.0
 clinsig: '1.2'
 clinspacy: 1.0.2
-clintools: 0.8.1
+clintools: 0.8.2
 clipp: 1.0.0
 clipr: 0.7.1
 cliqueMS: 0.3.1
@@ -8569,7 +8572,7 @@ cnum: 0.1.3
 coRanking: 0.2.1
 coala: 0.6.0
 coalescentMCMC: 0.4-1
-coalitions: 0.6.18
+coalitions: 0.6.20
 coarseDataTools: 0.6-5
 cobalt: 4.3.1
 cobiclust: 0.1.0
@@ -8856,7 +8859,7 @@ correlbinom: 0.0.1
 corrgram: '1.14'
 corrgrapher: 1.0.4
 corrperm: '2.0'
-corrplot: '0.89'
+corrplot: '0.90'
 corrr: 0.4.3
 corrsieve: 1.6-8
 corset: 0.1-4
@@ -10293,7 +10296,7 @@ erah: 1.1.2
 erboost: '1.3'
 ercv: 1.0.1
 erer: '3.0'
-ergMargins: 0.1.2
+ergMargins: 0.1.3
 ergm: 4.0.1
 ergm.count: 4.0.2
 ergm.ego: 1.0.0
@@ -10798,7 +10801,7 @@ fitODBOD: 1.4.1-1
 fitPoly: 3.0.0
 fitTetra: '1.0'
 fitbitScraper: 0.1.8
-fitbitViz: 1.0.1
+fitbitViz: 1.0.2
 fitbitr: 0.1.0
 fitcoach: '1.0'
 fitdc: 0.0.1
@@ -12353,6 +12356,7 @@ hwig: 0.0.1
 hwordcloud: 0.1.0
 hwriter: 1.3.2
 hwriterPlus: 1.0-3
+hwsdr: '1.0'
 hwwntest: 1.3.1
 hySpc.testthat: 0.2.1
 hybridEnsemble: 1.0.0
@@ -12434,7 +12438,7 @@ iNZightMR: 2.2.5
 iNZightPlots: 2.13.2
 iNZightRegression: 1.3.1
 iNZightTS: 1.5.8
-iNZightTools: 1.11.0
+iNZightTools: 1.11.1
 iNextPD: 0.3.2
 iRF: 2.0.0
 iRafNet: 1.1-1
@@ -12480,7 +12484,7 @@ ical: 0.1.6
 icamix: '1.0'
 icapca: '1.1'
 icarus: 0.3.1
-iccCounts: 1.0.1
+iccCounts: 1.0.2
 iccbeta: 1.2.0
 iccde: 0.3.2
 icd: 4.0.9
@@ -13366,7 +13370,7 @@ lfactors: 1.0.4
 lfda: 1.1.3
 lfe: 2.8-6
 lfl: 2.1.1
-lfmm: '1.0'
+lfmm: '1.1'
 lfstat: 0.9.4
 lg: 0.4.1
 lga: 1.1-1
@@ -15717,7 +15721,7 @@ parallelMap: 1.5.1
 parallelPlot: 0.1.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
-parallelly: 1.26.0
+parallelly: 1.26.1
 param6: 0.1.0
 paramGUI: 2.1.4
 parameters: 0.14.0
@@ -15767,6 +15771,7 @@ party: 1.3-7
 partykit: 1.2-13
 parviol: '1.1'
 parzer: 0.4.0
+pasadr: '1.0'
 pass: '1.0'
 pass.lme: 0.9.0
 passport: 0.3.0
@@ -15901,7 +15906,7 @@ peakRAM: 1.0.2
 pear: '1.2'
 pearson7: 1.0-3
 pec: 2020.11.17
-pedSimulate: 1.0.0
+pedSimulate: 1.0.1
 pedantics: '1.7'
 pedbuildr: 0.2.1
 pedgene: '3.3'
@@ -16142,7 +16147,7 @@ pkgcache: 1.2.2
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
-pkgdepends: 0.1.1
+pkgdepends: 0.1.2
 pkgdown: 1.6.1
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
@@ -16399,6 +16404,7 @@ postlightmercury: '1.2'
 postlogic: 0.1.0.1
 postpack: 0.5.3
 potential: 0.1.0
+potools: 0.2.0
 potts: 0.5-9
 pould: 1.0.1
 povcalnetR: 0.1.1
@@ -16920,7 +16926,7 @@ r2d2: 1.0-0
 r2d3: 0.2.5
 r2dRue: 1.0.4
 r2dictionary: '0.1'
-r2dii.analysis: 0.1.8
+r2dii.analysis: 0.1.9
 r2dii.data: 0.2.0
 r2dii.match: 0.0.10
 r2dii.plot: 0.1.0
@@ -18710,6 +18716,7 @@ shinyWidgets: 0.6.0
 shinyaframe: 1.0.1
 shinyalert: 2.0.0
 shinyanimate: 0.3.0
+shinybatch: '0.3'
 shinybootstrap2: 0.2.1
 shinybrms: 1.5.1
 shinybusy: 0.2.2
@@ -18858,7 +18865,7 @@ simplecolors: 0.1.1
 simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simpleroptions: 0.2.0
-simplevis: 4.2.0
+simplevis: 4.3.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -19022,7 +19029,7 @@ sn: 2.0.0
 sna: '2.6'
 snahelper: 1.2.0
 snakecase: 0.11.0
-snap: 1.0.0
+snap: 1.1.0
 snappier: 0.1.0
 snapshot: 0.1.2
 snem: 0.1.1
@@ -20834,7 +20841,7 @@ vegdata: 0.9.8
 vegetarian: '1.2'
 vegperiod: 0.3.1
 vegtable: 0.1.6
-vein: 0.9.2
+vein: 0.9.3
 velociraptr: 1.1.0
 velox: 0.2.0
 vembedr: 0.1.4
@@ -21251,7 +21258,7 @@ xopen: 1.0.0
 xpectr: 0.4.0
 xplain: 0.2.2
 xplorerr: 0.1.2
-xpose: 0.4.12
+xpose: 0.4.13
 xpose.nlmixr: 0.2.0
 xpose4: 4.7.1
 xpose4classic: 4.4.1
