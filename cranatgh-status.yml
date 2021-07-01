@@ -777,6 +777,7 @@ CHNOSZ: 1.4.1
 CHOIRBM: 0.0.2
 CHsharp: '0.4'
 CIAAWconsensus: '1.3'
+CICA: 0.1.0
 CIDnetworks: 0.8.1
 CIEE: 0.1.1
 CIFsmry: 1.0.1.1
@@ -1766,6 +1767,7 @@ EstimateGroupNetwork: 0.3.1
 EstimationTools: 2.1.0
 EthSEQ: 2.1.4
 EuclideanMaps: '1.0'
+EuclideanSD: 0.1.0
 Eunomia: 1.0.1
 EurosarcBayes: '1.1'
 EvCombR: 0.1-2
@@ -2090,7 +2092,7 @@ GDAtools: '1.7'
 GDD: 0.1-8
 GDELTtools: '1.2'
 GDINA: 2.8.7
-GE: 0.1.9
+GE: 0.2.0
 GEEaSPU: 1.0.2
 GEEmediate: 1.1.3
 GEInter: 0.3.0
@@ -3627,7 +3629,7 @@ MortalitySmooth: '2.3'
 MortalityTables: 2.0.2
 MotilityLab: 0.2-5
 MovieSpider: '1.0'
-MplusAutomation: '0.8'
+MplusAutomation: 1.0.0
 MplusTrees: 0.1.1
 Mposterior: 0.1.2
 Mqrcm: '1.2'
@@ -3779,6 +3781,7 @@ NPsimex: 0.2-1
 NRAIA: 0.9-8
 NRejections: 1.2.0
 NSA: 0.0.3
+NSAE: 0.1.1
 NSM3: '1.16'
 NSO1212: 1.3.0
 NST: 3.0.6
@@ -5368,6 +5371,7 @@ RobStatTM: 1.0.2
 RobinHood: '1.6'
 Robocoap: 0.1-1
 RobustAFT: 1.4-5
+RobustBF: 0.1.0
 RobustBayesianCopas: '2.0'
 RobustCalibration: 0.5.1
 RobustEM: '1.0'
@@ -5376,6 +5380,7 @@ RobustLinearReg: 1.2.0
 RobustRankAggreg: '1.1'
 RockFab: '1.2'
 Rodam: 0.1.8
+Rogue: 1.0.0
 RolWinMulCor: 1.2.0
 RonFHIR: 0.4.0
 Rook: 1.1-1
@@ -5476,7 +5481,7 @@ SAGMM: 0.2.4
 SAGx: 1.6-4
 SALES: 1.0.0
 SALTSampler: 1.1.0
-SAM: 1.1.2.1
+SAM: 1.1.3
 SAMBA: 0.9.0
 SAMCpack: 0.1.1
 SAMGEP: 0.1.0-1
@@ -5852,7 +5857,7 @@ ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.0.1
 ShinyImage: 0.1.0
 ShinyItemAnalysis: 1.3.7
-ShinyQuickStarter: 2.0.0
+ShinyQuickStarter: 2.0.1
 ShinyTester: 0.1.0
 ShortForm: 0.4.6
 ShrinkCovMat: 1.4.0
@@ -7091,7 +7096,7 @@ aprean3: 1.0.1
 apricom: 1.0.0
 aprof: 0.4.1
 apsimr: '1.2'
-apsimx: '1.977'
+apsimx: '1.993'
 apsrtable: 0.8-8
 apt: '3.0'
 aptg: 0.1.1
@@ -8198,6 +8203,7 @@ cbsem: 1.0.0
 cbsodataR: 0.5.1
 ccChooser: 0.2.6
 ccRemover: 1.0.4
+ccTensor: 0.99.0
 ccaPP: 0.3.3
 ccafs: 0.3.0
 ccboost: 0.1-1.3
@@ -8561,7 +8567,7 @@ cms: 0.1.0
 cmsaf: 3.1.0
 cmsafops: 1.1.1
 cmsafvis: 1.1.1
-cmstatr: 0.8.0
+cmstatr: 0.9.0
 cmvnorm: 1.0-6
 cna: 3.2.0
 cnaOpt: 0.2.0
@@ -11395,7 +11401,7 @@ geoelectrics: 0.2.0
 geofabrik: 0.1.0
 geofacet: 0.2.0
 geofd: '2.0'
-geofi: 1.0.2
+geofi: 1.0.3
 geogenr: 1.0.0
 geogrid: 0.1.1
 geohash: 0.3.0
@@ -11538,6 +11544,7 @@ ggfocus: 1.0.0
 ggforce: 0.3.3
 ggformula: 0.10.1
 ggfortify: 0.4.11
+ggfun: 0.0.2
 ggfx: 1.0.0
 gggap: 1.0.1
 gggenes: 0.4.1
@@ -12436,7 +12443,7 @@ iMessager: '1.0'
 iNEXT: 2.0.20
 iNOTE: '1.0'
 iNZightMR: 2.2.5
-iNZightPlots: 2.13.2
+iNZightPlots: 2.13.3
 iNZightRegression: 1.3.1
 iNZightTS: 1.5.8
 iNZightTools: 1.11.1
@@ -12914,7 +12921,7 @@ jeek: 1.1.1
 jenkins: '1.0'
 jetpack: 0.5.0
 jetset: 3.4.0
-jfa: 0.5.4
+jfa: 0.5.5
 jiebaR: '0.11'
 jiebaRD: '0.1'
 jipApprox: 0.1.3
@@ -13144,7 +13151,7 @@ krige: 0.6.1
 kriging: '1.1'
 krippendorffsalpha: '1.1'
 krm: 2020.5-20
-ks: 1.13.1
+ks: 1.13.2
 ksNN: 0.1.2
 kscons: 0.7.0
 kselection: 0.2.0
@@ -13384,6 +13391,7 @@ lgrdata: 0.1.1
 lgtdl: 1.1.5
 lhmixr: 0.1.0
 lhs: 1.1.1
+liGP: 1.0.0
 liayson: 1.0.4
 libamtrack: 0.6.3
 libbib: '1.6'
@@ -13589,7 +13597,7 @@ logregperm: '1.0'
 logspline: 2.1.8
 lokern: 1.1-9
 lolR: '2.1'
-lolog: '1.2'
+lolog: '1.3'
 lomb: '2.0'
 longCatEDA: '0.31'
 longROC: '1.0'
@@ -14628,7 +14636,7 @@ mrbayes: 0.3.0
 mrbin: 1.5.2
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
-mrds: 2.2.4
+mrds: 2.2.5
 mreg: '1.1'
 mregions: 0.1.6
 mrf2d: '0.5'
@@ -16004,6 +16012,7 @@ pgnorm: '2.0'
 pgraph: '1.6'
 pgs: 0.4-0
 pgsc: 1.0.0
+pguIMP: 0.0.0.1
 ph2bayes: 0.0.2
 ph2bye: 0.1.4
 ph2hetero: 1.0.2
@@ -16056,7 +16065,7 @@ photobiologyPlants: 0.4.2
 photobiologySensors: 0.5.0
 photobiologySun: 0.4.1
 photobiologyWavebands: 0.4.4
-photosynthesis: 2.0.0
+photosynthesis: 2.0.1
 phpSerialize: '0.8'
 phrasemachine: 1.1.2
 phreeqc: 3.6.3
@@ -17428,7 +17437,7 @@ refitME: 1.2.1
 refnr: 0.1.0
 refset: 0.1.1
 refuge: 0.3.3
-refund: 0.1-23
+refund: 0.1-24
 refund.shiny: 0.3.0
 refund.wave: '0.1'
 regDIF: 1.0.0
@@ -17685,7 +17694,7 @@ rif: 0.2.0
 rifle: '1.0'
 riingo: 0.3.1
 rijkspalette: 1.0.2
-rim: 0.4.0
+rim: 0.4.1
 rimage: '0.5'
 rinat: 0.1.8
 rindex: '0.12'
@@ -18331,7 +18340,7 @@ sbo: 0.5.0
 sboost: 0.1.1
 sbpiper: 1.9.0
 sbrl: '1.2'
-sbtools: 1.1.15
+sbtools: 1.1.16
 sbw: 1.1.3
 scBio: 0.1.6
 scDHA: 1.1.1
@@ -18866,7 +18875,7 @@ simplecolors: 0.1.1
 simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simpleroptions: 0.2.0
-simplevis: 4.3.0
+simplevis: 4.4.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -19204,7 +19213,7 @@ sparseSEM: '2.5'
 sparseSVM: 1.1-6
 sparsebn: 0.1.2
 sparsebnUtils: 0.0.8
-sparsediscrim: '0.2'
+sparsediscrim: 0.3.0
 sparseinv: 0.1.3
 sparsenet: '1.4'
 sparsepca: 0.1.2
@@ -19332,6 +19341,7 @@ spind: 2.2.1
 spinebil: 0.1.0
 spinifex: 0.2.8
 spinyReg: 0.1-0
+spiralize: 1.0.1
 spiritR: 0.1.1
 splancs: 2.01-42
 splashr: 0.6.0
@@ -19896,6 +19906,7 @@ systemfonts: 1.0.2
 systemicrisk: 0.4.2
 syt: 0.2.0
 syuzhet: 1.0.6
+tLagPropOdds: '1.0'
 tRakt: 0.9.0
 tRophicPosition: 0.7.7
 tTOlr: '0.2'
@@ -19923,7 +19934,7 @@ tabplot: '1.3'
 tabplotGTK: '0.6'
 tabplotd3: 0.3.3
 tabr: 0.4.5
-tabshiftr: 0.1.2
+tabshiftr: 0.3.0
 tabuSearch: 1.1.1
 tabula: 1.6.1
 tabularaster: 0.7.0
@@ -20048,7 +20059,7 @@ tester: 0.1.7
 testextra: 0.1.0
 testforDEP: 0.2.0
 testit: '0.13'
-testthat: 3.0.3
+testthat: 3.0.4
 testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
@@ -20739,6 +20750,7 @@ utility: 1.4.5
 utilityFunctionTools: 0.1.1
 utilsIPEA: 0.0.6
 utiml: 0.1.7
+utr.annotation: 1.0.3
 uuid: 0.1-4
 uwIntroStats: 0.0.7
 uwo4419: 0.3.0
