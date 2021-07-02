@@ -438,7 +438,7 @@ BSW: 0.1.1
 BSagri: 0.1-10
 BSquare: '1.1'
 BTLLasso: 0.1-11
-BTM: 0.3.5
+BTM: 0.3.6
 BTR: 1.2.4
 BTSPAS: 2021.1.1
 BTYD: 2.4.2
@@ -534,6 +534,7 @@ BayesSingleSub: '0.6'
 BayesSpec: 0.5.3
 BayesSummaryStatLM: '2.0'
 BayesSurvival: 0.2.0
+BayesTools: 0.1.0
 BayesTree: 0.3-1.4
 BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
@@ -2713,7 +2714,7 @@ ImportExport: '1.3'
 ImputeRobust: 1.3-1
 InDisc: 1.1.0
 InPosition: 0.12.7.1
-InSilicoVA: 1.3.2
+InSilicoVA: 1.3.3
 IncDTW: 1.1.4.2
 IncomPair: 0.1.0
 IncucyteDRC: 0.5.4
@@ -4225,7 +4226,7 @@ Patterns: '1.3'
 PdPDB: 2.0.1
 Peacock.test: '1.0'
 Peak2Trough: '1.3'
-PeakError: 2017.06.19
+PeakError: 2021.7.1
 PeakSegDP: 2017.08.15
 PeakSegDisk: 2020.8.13
 PeakSegJoint: 2018.10.3
@@ -4596,7 +4597,7 @@ RDF: '1.1'
 RDFTensor: '1.3'
 RDIDQ: '1.0'
 RDML: '1.0'
-RDP: 0.1.4
+RDP: 0.1.5
 RDS: 0.9-3
 RDSTK: '1.1'
 RDStreeboot: '1.0'
@@ -5713,7 +5714,7 @@ SRPM: '0.1'
 SRRS: '0.1'
 SRS: 0.2.2
 SRTtools: 1.2.0
-SSBtools: 1.1.0
+SSBtools: 1.2.0
 SSDL: '1.1'
 SSDM: 0.2.8
 SSDforR: 1.5.21
@@ -6810,7 +6811,7 @@ activpalProcessing: '1.0'
 actogrammr: 0.2.3
 actuar: 3.1-4
 actuaryr: 1.1.1
-acumos: 0.4-1
+acumos: 0.4-4
 ada: 2.0-5
 adabag: '4.2'
 adagio: 0.8.4
@@ -7467,6 +7468,7 @@ bayesmeta: '2.6'
 bayesmix: 0.7-5
 bayesmodels: 0.1.1
 bayesmove: 0.2.0
+bayesnec: 1.0.1
 bayespack: 1.0-2
 bayesplay: 0.9.0
 bayesplot: 1.8.1
@@ -8004,7 +8006,7 @@ bssm: 1.1.4
 bssn: '1.0'
 bst: 0.3-23
 bstats: 1.1-11-5
-bsts: 0.9.6
+bsts: 0.9.7
 bsub: 1.1.0
 btb: 0.1.30.3
 btergm: 1.10.3
@@ -9254,7 +9256,7 @@ datamap: 0.1-1
 datamaps: 0.0.3
 datamart: 0.5.2
 datamerge: 1.0.3
-datamods: 1.1.4
+datamods: 1.1.5
 datanugget: 1.0.0
 dataonderivatives: 0.3.1
 dataone: 2.2.1
@@ -11172,7 +11174,7 @@ gafit: 0.5.1
 gaiah: 0.0.4
 gainML: 0.1.0
 gains: '1.2'
-galah: 1.1.0
+galah: 1.2.0
 galgo: '1.4'
 galts: 1.3.1
 galvanizer: 0.5.3
@@ -12197,6 +12199,7 @@ hglm: 2.2-1
 hglm.data: 1.0-1
 hgm: '1.18'
 hgutils: 0.2.7
+hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
 hhsmm: 0.1.2
@@ -12728,7 +12731,7 @@ interAdapt: '0.1'
 interacCircos: 1.0.0
 interactionR: 0.1.2
 interactionTest: '1.2'
-interactions: 1.1.3
+interactions: 1.1.5
 interactivity: '0.2'
 intercure: 0.1.0
 interep: 0.3.1
@@ -14382,6 +14385,7 @@ mlegp: 3.1.8
 mlergm: '0.7'
 mleur: 1.0-6
 mlf: 1.2.1
+mlfit: 0.5.2
 mlflow: 1.18.0
 mlgt: '0.16'
 mlica: '0.6'
@@ -15267,6 +15271,7 @@ npst: '2.0'
 npsurv: 0.5-0
 npsurvSS: 1.0.1
 nptest: 1.0-3
+npwbs: 0.1.0
 nricens: '1.6'
 nsRFA: 0.7-15
 nsROC: '1.1'
@@ -16024,6 +16029,7 @@ phalen: '1.0'
 phangorn: 2.7.0
 phantom: 0.1.3
 pharmaRTF: 0.1.3
+phase: 1.1.1
 phase1PRMD: 1.0.2
 phase1RMD: 1.0.9
 phaseR: 2.1.3
@@ -17437,6 +17443,7 @@ refimpact: 1.0.0
 refinr: 0.3.1
 refitME: 1.2.1
 refnr: 0.1.0
+refreg: 0.1.0
 refset: 0.1.1
 refuge: 0.3.3
 refund: 0.1-24
@@ -17653,6 +17660,7 @@ rgl: 0.106.8
 rglobi: 0.2.24
 rglwidget: 0.2.1
 rgnparser: 0.2.0
+rgoogleads: 0.1.1
 rgoogleslides: 0.3.2
 rgovcan: 1.0.3
 rgp: 0.4-1
@@ -21159,7 +21167,7 @@ wombsoft: '2.0'
 wooldridge: 1.4-1
 worcs: 0.1.8
 word.alignment: '1.1'
-word2vec: 0.3.3
+word2vec: 0.3.4
 wordbankr: 0.3.1
 wordcloud: '2.6'
 wordcloud2: 0.2.1
