@@ -468,7 +468,7 @@ BarBorGradient: 1.0.5
 BarcodingR: 1.0-3
 Barnard: '1.8'
 Barycenter: 1.3.1
-BaseSet: 0.0.16
+BaseSet: 0.0.17
 BasketballAnalyzeR: 0.5.0
 BatchExperiments: 1.4.2
 BatchGetSymbols: 2.6.1
@@ -1272,7 +1272,7 @@ DGEobj.utils: 1.0.3
 DGLMExtPois: 0.1.3
 DGM: 1.7.3
 DGVM3D: 1.0.0
-DHARMa: 0.4.1
+DHARMa: 0.4.2
 DHBins: '1.1'
 DHS.rates: 0.9.0
 DICOM: '0.1'
@@ -2160,7 +2160,7 @@ GMCM: '1.4'
 GMD: '0.3'
 GMDH: '1.6'
 GMDH2: '1.6'
-GMDHreg: 0.2.1
+GMDHreg: 0.2.2
 GMKMcharlie: 1.1.5
 GMMAT: 1.3.1
 GMMBoost: 1.1.3
@@ -3106,6 +3106,7 @@ M3: '0.3'
 M4comp: 0.0.1
 MAAPER: 1.1.0
 MABOUST: 1.0.1
+MACER: 0.1.0
 MADAM: '1.2'
 MADPop: 1.1.2
 MAFDash: 0.1.0
@@ -3757,6 +3758,7 @@ NNMIS: 1.0.1
 NNS: 0.7.1
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
+NO.PING.PONG: 0.1.4
 NOAAWeather: 0.1.0
 NORMA: '0.1'
 NORMT3: 1.0-3
@@ -3873,6 +3875,7 @@ ODEsensitivity: 1.1.2
 ODMconverter: '2.3'
 ODS: 0.2.0
 OData: '0.6'
+ODataQuery: 0.5.3
 OECD: 0.2.4
 OEFPIL: 0.1.0
 OGI: 1.0.0
@@ -4686,7 +4689,7 @@ RIFS: 0.1-5
 RIGHT: 0.2.0
 RII: 0.4-1
 RISCA: '0.9'
-RISmed: '2.2'
+RISmed: 2.3.0
 RIdeogram: 0.2.2
 RImageJ: 0.3-144
 RImageJROI: 0.1.2
@@ -4822,7 +4825,7 @@ ROP: '1.0'
 ROSE: 0.0-4
 RObsDat: '16.03'
 ROlogit: 0.1.2
-ROpenCVLite: 4.51.0
+ROpenCVLite: 4.52.0
 ROpenDota: 0.1.2
 ROpenFIGI: 0.2.8
 ROpenWeatherMap: '1.1'
@@ -4849,7 +4852,7 @@ RPPanalyzer: 1.4.7
 RPS: 1.0.1
 RPgSQL: 1.0-0
 RPostgreSQL: 0.6-2
-RPostgres: 1.3.2
+RPostgres: 1.3.3
 RPresto: 1.3.6
 RProbSup: '3.0'
 RProtoBuf: 0.4.17
@@ -5277,7 +5280,7 @@ Rfit: 0.24.2
 RfmriVC: '1.0'
 Rfmtool: 4.1.2
 Rfolding: '1.0'
-Rforestry: 0.9.0.4
+Rforestry: 0.9.0.47
 Rfractran: '1.0'
 Rfssa: 1.0.0
 Rfun: '1.0'
@@ -5471,7 +5474,7 @@ Ryacas: 1.1.3.1
 Ryacas0: 0.4.3
 Rz: 0.9-1
 S2sls: '0.1'
-SACCR: '3.0'
+SACCR: '3.1'
 SACOBRA: '1.2'
 SADEG: 1.0.0
 SADISA: '1.2'
@@ -5854,7 +5857,7 @@ ShapeSelectForest: '1.4'
 ShapleyValue: 0.1.0
 SharedHT2: '2.0'
 SharpeR: 1.2.1
-ShellChron: 0.2.8
+ShellChron: 0.4.0
 ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.0.1
 ShinyImage: 0.1.0
@@ -6661,7 +6664,7 @@ WideLM: 0.1-1
 WienR: 0.2-0
 WikiSocio: 0.7.0
 WikidataQueryServiceR: 1.0.0
-WikidataR: 2.1.5
+WikidataR: 2.2.0
 WikipediR: 1.5.0
 WikipediaR: '1.1'
 WilcoxCV: 1.0-2
@@ -7220,7 +7223,7 @@ assignR: 2.1.1
 assist: 3.1.7
 assocInd: 1.0.1
 assortnet: '0.12'
-asteRisk: 1.0.0
+asteRisk: 1.1.0
 aster: 1.1-2
 aster2: '0.3'
 astro: '1.2'
@@ -7624,7 +7627,7 @@ biOps: '0.2'
 biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.1
-bibliometrix: 3.1.3
+bibliometrix: 3.1.4
 bibliometrixData: 0.1.0
 biblionetwork: 0.1.0
 bibliospec: 0.0.4
@@ -8125,7 +8128,7 @@ capwire: 1.1.4
 car: 3.0-11
 carData: 3.0-4
 carSurv: 1.0.0
-caracas: 1.1.0
+caracas: 1.1.1
 carat: '1.4'
 carbonate: 0.1.3
 carcass: '1.6'
@@ -8146,6 +8149,7 @@ carpenter: 0.2.2
 carrier: 0.1.0
 cartograflow: 1.0.3
 cartogram: 0.2.2
+cartogramR: 0.9-9
 cartography: 3.0.0
 cartools: 0.1.0
 carx: 0.7.1
@@ -8921,7 +8925,7 @@ covid19swiss: 0.1.0
 covid19us: 0.1.7
 covidcast: 0.4.2
 covidprobability: 0.1.0
-covidregionaldata: 0.9.1
+covidregionaldata: 0.9.2
 covidsymptom: 0.9.2
 covmat: '1.0'
 covr: 3.5.1
@@ -10341,7 +10345,7 @@ eshrink: 0.1.2
 esmisc: 0.0.3
 esmprep: 0.2.0
 esotericR: '1.0'
-esquisse: 1.0.1
+esquisse: 1.0.2
 esreg: 0.5.0
 ess: 1.1.2
 essHist: 1.2.2
@@ -12581,7 +12585,7 @@ image.CornerDetectionF9: 0.1.0
 image.CornerDetectionHarris: 0.1.1
 image.LineSegmentDetector: 0.1.0
 image.Otsu: '0.1'
-image.binarization: 0.1.1
+image.binarization: 0.1.2
 image.dlib: 0.1.0
 image.libfacedetection: '0.1'
 image.textlinedetector: 0.1.3
@@ -12990,7 +12994,7 @@ jsr223: 0.3.4
 jstable: 1.0.3
 jstor: 0.3.9
 jtGWAS: '1.5'
-jti: 0.7.1
+jti: 0.8.0
 jtools: 2.1.3
 jtrans: 0.2.1
 jubilee: 0.3.3
@@ -13678,7 +13682,7 @@ lss2: '1.1'
 ltable: '1.0'
 ltbayes: '0.4'
 ltm: 1.1-1
-ltmix: 0.2.0
+ltmix: 0.2.1
 ltmle: 1.2-0
 ltsa: 1.4.6
 ltsbase: 1.0.1
@@ -13938,7 +13942,7 @@ mbr: 0.0.1
 mbrglm: 0.0.1
 mbsts: '2.2'
 mc.heterogeneity: 0.1.2
-mc2d: 0.1-20
+mc2d: 0.1-21
 mcBFtest: 0.1.0
 mcGlobaloptim: '0.1'
 mcIRT: '0.41'
@@ -15354,7 +15358,7 @@ ockc: '1.0'
 oclust: 0.1.0
 ocomposition: '1.1'
 ocp: 0.1.1
-ocs4R: '0.1'
+ocs4R: '0.2'
 od: 0.2.1
 odbc: 1.3.2
 odds.converter: 1.4.8
@@ -15432,7 +15436,7 @@ oolong: 0.4.0
 oompaBase: 3.2.9
 oompaData: 3.1.1
 oosp: 0.3.3
-opalr: 2.1.1
+opalr: 3.0.0
 opart: 2019.1.0
 opdisDownsampling: 0.5.0
 opefimor: '1.2'
@@ -16479,7 +16483,7 @@ prc: 2019.1-23
 prcbench: 1.0.1
 prclust: '1.3'
 prcr: 0.2.1
-pre: 1.0.0
+pre: 1.0.1
 preText: 0.6.2
 precautionary: 0.2-1
 precintcon: 2.3.0
@@ -16940,6 +16944,7 @@ qvcalc: 1.0.2
 qwraps2: 0.5.2
 r.blip: '1.1'
 r.jive: '2.4'
+r02pro: '0.1'
 r2d2: 1.0-0
 r2d3: 0.2.5
 r2dRue: 1.0.4
@@ -17505,7 +17510,7 @@ relgam: '1.0'
 reliaR: '0.01'
 reliabilitydiag: 0.1.3
 relimp: 1.0-5
-relsurv: 2.2-4
+relsurv: 2.2-5
 rem: 1.3.1
 remMap: 0.2-0
 remap: 0.2.1
@@ -17859,10 +17864,10 @@ robeth: 2.7-6
 robets: '1.4'
 robfilter: 4.1.2
 robin: 1.0.3
-robis: 2.3.9
+robis: 2.6.0
 roblm: '0.6'
 robmed: 0.9.0
-robmixglm: 1.2-1
+robmixglm: 1.2-2
 robomit: 1.0.6
 robotstxt: 0.7.13
 robreg3S: '0.3'
@@ -17920,7 +17925,7 @@ rolr: 1.0.0
 rolypoly: 0.1.0
 romero.gateway: 0.4.4
 romic: 1.0.0
-rootSolve: 1.8.2.1
+rootSolve: 1.8.2.2
 rootWishart: 0.4.1
 roots: '1.0'
 rope: '1.0'
@@ -18076,7 +18081,7 @@ rsf: 0.2.2
 rsgcc: '1.0'
 rsggm: '0.3'
 rsig: '1.0'
-rsimsum: 0.10.0
+rsimsum: 0.10.1
 rsinaica: 0.6.1
 rskey: 0.4.4
 rsleep: 1.0.3
@@ -18806,6 +18811,7 @@ siebanxicor: 1.0.0
 sievePH: 1.0.1
 sievetest: 1.2.3
 sifds: '0.9'
+sift: 0.1.0
 sig: 0.0-5
 sigInt: 0.2.0
 sigQC: 0.1.22
@@ -19234,7 +19240,7 @@ sparsesvd: '0.2'
 sparsevar: 0.1.0
 sparsevb: 0.1.0
 sparsio: 1.0.1
-sparta: 0.8.0
+sparta: 0.8.1
 spartan: 3.0.2
 spass: '1.3'
 spatPomp: 0.21.0.0
@@ -19965,6 +19971,7 @@ takos: 0.2.0
 tanaka: 0.1.3
 tangles: 0.8.1
 tangram: 0.7.1
+tangram.pipe: 1.0.0
 tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
