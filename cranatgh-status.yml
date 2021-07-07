@@ -211,7 +211,7 @@ AnglerCreelSurveySimulation: 1.0.2
 Animal: '1.0'
 AnimalAPD: 1.0.0
 AnimalHabitatNetwork: 0.1.0
-AnnoProbe: 0.1.4
+AnnoProbe: 0.1.5
 AnnotLists: '1.2'
 AnnotationBustR: 1.3.0
 AnnuityRIR: 1.0-0
@@ -699,6 +699,7 @@ CADFtest: 0.3-3
 CADStat: 3.0.8
 CAGExploreR: '1.0'
 CAISEr: 1.0.16
+CALANGO: 1.0.2
 CALF: 1.0.15
 CALIBERrfimpute: 1.0-5
 CALINE3: '1.0'
@@ -1272,7 +1273,7 @@ DGEobj.utils: 1.0.3
 DGLMExtPois: 0.1.3
 DGM: 1.7.3
 DGVM3D: 1.0.0
-DHARMa: 0.4.2
+DHARMa: 0.4.3
 DHBins: '1.1'
 DHS.rates: 0.9.0
 DICOM: '0.1'
@@ -1867,7 +1868,7 @@ FKBL: 0.50-4
 FKF: 0.1.7
 FKF.SP: 0.1.2
 FKSUM: 0.1.4
-FLAME: 2.0.0
+FLAME: 2.1.0
 FLCore: 1.4-4
 FLEDA: 1.4-3
 FLIM: '1.2'
@@ -2795,7 +2796,7 @@ JM: 1.4-8
 JMI: 0.1.0
 JMLSD: '1.0'
 JMbayes: 0.8-85
-JMbayes2: 0.1-6
+JMbayes2: 0.1-7
 JMcmprsk: 0.9.10
 JMdesign: '1.1'
 JOP: '3.6'
@@ -3067,7 +3068,7 @@ LinearizedSVR: '1.3'
 LinkageMapView: 2.1.2
 LinkedGASP: '1.0'
 LinkedMatrix: 1.4.0
-LipidMS: 3.0.0
+LipidMS: 3.0.1
 LipidMSdata: 1.0.0
 Lmoments: 1.3-1
 LncFinder: 1.1.4
@@ -3714,7 +3715,7 @@ NCmisc: 1.1.6
 NCutYX: 0.1.0
 NDP: 0.1.0
 NEArender: '1.5'
-NEONiso: 0.4.0
+NEONiso: 0.5.0
 NEff: '1.1'
 NEpiC: 1.0.1
 NFCP: 1.1.0
@@ -4460,7 +4461,7 @@ QUALYPSO: '1.2'
 QUIC: '2012.02'
 QVM: 0.1.1
 QZ: 0.2-1
-Qapprox: 0.1.0
+Qapprox: 0.2.0
 QoLR: '1.0'
 Qtools: 1.5.4
 QuACN: 1.8.0
@@ -5129,7 +5130,7 @@ Rcoclust: '0.1'
 Rcolombos: 2.0.2
 Rcompadre: 1.0.0
 Rcplex: 0.3-3
-Rcpp: 1.0.6
+Rcpp: 1.0.7
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.7
 RcppAlgos: 2.4.3
@@ -6075,7 +6076,7 @@ Stem: '1.0'
 StempCens: 1.1.0
 StepReg: 1.4.2
 StepSignalMargiLike: 2.6.0
-SteppedPower: 0.1.0
+SteppedPower: 0.2.0
 StepwiseTest: '1.0'
 StereoMorph: 1.6.4
 Stickbreaker: 1.0.0
@@ -6774,7 +6775,7 @@ abodOutlier: '0.1'
 abstractr: 0.1.0
 abtest: 0.2.2
 abundant: '1.1'
-academictwitteR: 0.2.0
+academictwitteR: 0.2.1
 acc: 1.3.3
 accSDA: 1.0.0
 accelerometry: 3.1.2
@@ -9087,6 +9088,7 @@ csvwr: 0.1.5
 csvy: 0.3.0
 ctDNAtools: 0.4.0
 ctest: 0.9-21
+ctf: 0.1.0
 ctgdist: 0.1.0
 ctgt: '2.0'
 cthresh: '4.5'
@@ -11520,7 +11522,7 @@ ggRandomForests: 2.0.1
 ggResidpanel: 0.3.0
 ggThemeAssist: 0.1.5
 ggTimeSeries: 1.0.1
-ggVennDiagram: 1.1.0
+ggVennDiagram: 1.1.4
 ggallin: 0.1.1
 ggalluvial: 0.12.3
 ggalt: 0.4.0
@@ -11859,7 +11861,7 @@ gpboost: 0.6.3
 gpclib: 1.5-6
 gpg: 1.2.2
 gphmm: 0.99.0
-gpindex: 0.2.5
+gpindex: 0.3.1
 gpk: '1.0'
 gplite: 0.12.0
 gplm: 0.7-4
@@ -12611,7 +12613,7 @@ imgw: 0.3.0
 iml: 0.10.1
 immcp: 0.9.2
 immer: 1.1-35
-immunarch: 0.6.5
+immunarch: 0.6.6
 immuneSIM: 0.8.7
 imp4p: '1.1'
 impactflu: 0.1.0
@@ -12951,7 +12953,7 @@ jmuOutlier: '2.2'
 jmv: 1.2.23
 jmvReadWrite: 0.1.0
 jmvconnect: 2.0.0
-jmvcore: 1.2.23
+jmvcore: '1.8'
 job: 0.3.0
 jocre: 0.3.3
 joinXL: 1.0.1
@@ -13025,6 +13027,7 @@ kappaSize: '1.2'
 kappalab: 0.4-7
 kaps: 1.0.2
 karaoke: '1.0'
+katex: 1.0.0
 kayadata: 0.5.1
 kazaam: 0.1-0
 kcirt: 0.6.0
@@ -14555,7 +14558,7 @@ mombf: 3.0.3
 momentchi2: 0.1.5
 momentfit: '0.2'
 moments: '0.14'
-momentuHMM: 1.5.2
+momentuHMM: 1.5.3
 momr: '1.1'
 monaco: 0.2.1
 mondate: 0.10.02
@@ -14931,7 +14934,7 @@ narray: 0.4.1.1
 nasadata: 0.9.0
 nasapower: 3.0.1
 nasaweather: '0.1'
-naspaclust: 0.1.0
+naspaclust: 0.2.1
 nat: 1.8.16
 nat.nblast: 1.6.5
 nat.templatebrains: '1.0'
@@ -15321,7 +15324,7 @@ nyctaxi: 0.0.1
 nytR: '0.1'
 nzelect: 0.4.0
 nzffdr: 1.0.0
-nzilbb.labbcat: 0.7-1
+nzilbb.labbcat: 1.0-1
 nzpullover: 0.3.0
 o2geosocial: 1.0.1
 oRus: 1.0.0
@@ -15372,7 +15375,7 @@ odeintr: 1.7.1
 odesolve: 0.9-9
 odfWeave: 0.8.4
 odfWeave.survey: '1.0'
-odin: 1.0.8
+odin: 1.2.0
 odk: '1.5'
 odkr: 0.2.0
 odpc: 2.0.4
@@ -15957,7 +15960,7 @@ pencal: 0.4.2
 pencopula: '0.3'
 pencopulaCond: '0.2'
 pendensity: 0.2.13
-pense: 2.0.3
+pense: 2.1.0
 pensim: 1.3.3
 peopleanalyticsdata: 0.2.1
 peperr: '1.3'
@@ -16334,7 +16337,7 @@ poistweedie: 1.0.1
 poker: 0.8.8
 polAr: 0.2.0
 polaroid: 0.0.1
-policytree: 1.1.0
+policytree: 1.1.1
 polidata: 0.1.0
 poliscidata: 2.3.0
 polished: 0.3.0
@@ -17613,6 +17616,7 @@ reverseR: '0.1'
 revgeo: '0.15'
 review: '2.5'
 revoIPC: 1.0-3
+revpref: 0.1.0
 revss: 1.0.1
 revtools: 0.4.1
 revulyticsR: 0.0.3
@@ -18474,7 +18478,7 @@ sdef: '1.7'
 sdetorus: 0.1.7
 sdglinkage: 0.1.0
 sdm: 1.0-89
-sdmApp: 0.0.1
+sdmApp: 0.0.2
 sdmpredictors: 0.2.9
 sdmvspecies: 0.3.2
 sdnet: 2.4.1
@@ -19444,6 +19448,7 @@ sqlutils: '1.2'
 sqp: '0.5'
 squash: 1.0.9
 squashinformr: 0.2.2
+squeezy: '1.0'
 squid: 0.1.2
 sra: 0.1.3
 srcr: 1.0.0
@@ -20176,9 +20181,9 @@ tibbrConnector: 1.5.1
 tictactoe: 0.2.2
 tictoc: 1.0.1
 tidyBF: 0.5.1
-tidyBdE: 0.1.1
+tidyBdE: 0.1.2
 tidyCpp: 0.0.3
-tidyHeatmap: 1.2.2
+tidyHeatmap: 1.3.1
 tidyLPA: 1.0.8
 tidyMicro: '1.47'
 tidyREDCap: 0.2.0
@@ -20361,7 +20366,7 @@ topicdoc: 0.1.0
 topicmodels: 0.2-12
 topmodel: 0.7.3
 topoDistance: 1.0.1
-topologyGSA: 1.4.6
+topologyGSA: 1.4.7
 topsa: 0.1.0
 topsis: '1.0'
 tor: 1.1.2
@@ -20533,6 +20538,7 @@ tsbox: 0.2.1
 tsbridge: '1.1'
 tsbugs: '1.2'
 tsc: 1.0-3
+tscopula: 0.2.1
 tscount: 1.4.3
 tsdb: 1.0-0
 tsdecomp: '0.2'
