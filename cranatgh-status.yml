@@ -57,7 +57,7 @@ AIGIS: '1.0'
 AIM: '1.01'
 AIPW: 0.6.3.2
 AIS: '1.0'
-ALA4R: 1.9.0
+ALA4R: 1.9.1
 ALDqr: '1.0'
 ALEPlot: '1.1'
 ALKr: '0.5'
@@ -213,7 +213,7 @@ AnglerCreelSurveySimulation: 1.0.2
 Animal: '1.0'
 AnimalAPD: 1.0.0
 AnimalHabitatNetwork: 0.1.0
-AnnoProbe: 0.1.5
+AnnoProbe: 0.1.6
 AnnotLists: '1.2'
 AnnotationBustR: 1.3.0
 AnnuityRIR: 1.0-0
@@ -1197,6 +1197,7 @@ D2MCS: 1.0.0
 D3GB: '1.1'
 D3M: '0.41'
 D3partitionR: 0.5.0
+DA: 1.2.0
 DA.MRFA: '1.1'
 DAAG: '1.24'
 DAAGbio: 0.63-3
@@ -1657,7 +1658,7 @@ EPGMr: 1.0.0
 EPT: 0.7.5
 EPX: 1.0.4
 EQL: 1.0-1
-EQUIVNONINF: '1.0'
+EQUIVNONINF: 1.0.2
 ER: 1.1.0
 ERP: '2.2'
 ERSA: 0.1.3
@@ -3924,7 +3925,7 @@ OWEA: 0.1.1
 Oarray: 1.4-9
 OasisR: 3.0.2
 Observation: 0.2.0
-OceanView: '1.0'
+OceanView: 1.0.6
 OddsPlotty: 1.0.1
 OenoKPM: 0.1.2
 Ohit: 1.0.0
@@ -4144,6 +4145,7 @@ PRIMME: 3.2-1
 PRIMsrc: 0.8.2
 PRISM.forecast: 0.2.1
 PRISMA: 0.2-7
+PRISMA2020: 0.0.3
 PRISMAstatement: 1.1.1
 PROBShiny: 0.1.0
 PROFANCY: '1.0'
@@ -5882,7 +5884,7 @@ SigOptR: 0.0.1
 SigTree: 1.10.6
 SigWinR: '1.0'
 SightabilityModel: 1.4.1
-Signac: 1.2.1
+Signac: 1.3.0
 SignacX: 2.2.2
 SignifReg: '4.1'
 Sim.DiffProc: '4.8'
@@ -6351,7 +6353,7 @@ TensorTest2D: 1.0.3
 Ternary: 1.2.2
 TestCor: 0.0.2.2
 TestDataImputation: '1.2'
-TestDesign: 1.2.4
+TestDesign: 1.2.5
 TestDimorph: 0.4.1
 TestFunctions: 0.2.0
 TestGardener: 0.1.4
@@ -6425,7 +6427,7 @@ TreatmentSelection: 2.1.1
 TreeBUGS: 1.4.7
 TreeDep: 0.1.3
 TreeDiagram: 0.1.1
-TreeDist: 2.0.3
+TreeDist: 2.1.0
 TreeLS: 2.0.2
 TreePar: '3.3'
 TreeRank: 1.1-0
@@ -6672,7 +6674,7 @@ WideLM: 0.1-1
 WienR: 0.2-0
 WikiSocio: 0.7.0
 WikidataQueryServiceR: 1.0.0
-WikidataR: 2.2.0
+WikidataR: 2.3.1
 WikipediR: 1.5.0
 WikipediaR: '1.1'
 WilcoxCV: 1.0-2
@@ -6845,7 +6847,7 @@ addhazard: 1.1.0
 addinsJoaoMelo: 0.1.0
 addinsOutline: 0.1.6
 addinslist: 0.4.0
-additive: 0.0.1
+additive: 0.0.2
 additiveDEA: '1.1'
 additivityTests: 1.1-4
 addreg: '3.0'
@@ -6902,7 +6904,7 @@ afmToolkit: 0.0.1
 afmtools: 0.1.8
 afpt: 1.1.0.1
 after: 1.0.0
-aftgee: 1.1.5
+aftgee: 1.1.6
 afthd: 0.1.0
 agRee: 0.5-3
 agce: '1.2'
@@ -7374,6 +7376,7 @@ badger: 0.1.0
 bagRboostR: 0.0.2
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
+baggingbwsel: '1.0'
 baggr: 0.6.4
 baguette: 0.1.0
 bahc: 0.3.0
@@ -7470,7 +7473,7 @@ bayesdfa: 1.1.0
 bayesdistreg: 0.1.0
 bayesefa: 0.0.0.4
 bayesforecast: 1.0.1
-bayesian: 0.0.5
+bayesian: 0.0.6
 bayesianETAS: 1.0.3
 bayeslincom: 1.2.0
 bayeslm: 0.8.0
@@ -11339,7 +11342,7 @@ gems: 1.1.1
 gemtc: 1.0-1
 gemtc.jar: 0.14.3
 gen2stage: '1.0'
-gen3sis: '1.2'
+gen3sis: '1.3'
 gen5helper: 1.0.1
 genBaRcode: 1.2.4
 genBart: 1.0.1
@@ -11584,7 +11587,7 @@ ggguitar: 0.1.1
 ggh4x: 0.1.2.1
 gghalfnorm: 1.1.2
 gghalves: 0.1.1
-ggheatmap: '1.1'
+ggheatmap: '2.0'
 gghighlight: 0.3.2
 gghilbertstrings: 0.3.3
 ggimage: 0.2.8
@@ -12006,7 +12009,7 @@ grpsel: 1.1.0
 grpss: 3.0.1
 grr: 0.9.5
 grt: 0.2.1
-gsDesign: 3.2.0
+gsDesign: 3.2.1
 gsEasy: '1.4'
 gsalib: '2.1'
 gsarima: 0.1-5
@@ -13016,7 +13019,7 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.1.0
 jsr223: 0.3.4
-jstable: 1.0.3
+jstable: 1.0.4
 jstor: 0.3.9
 jtGWAS: '1.5'
 jti: 0.8.0
@@ -13027,7 +13030,7 @@ jug: 0.1.7
 juicr: '0.1'
 junctions: 2.0.1
 junr: 0.1.3
-justifier: 0.1.0
+justifier: 0.2.0
 jvcoords: 1.0.3
 jvmr: 2.11.2.1
 jvnVaR: '1.0'
@@ -13434,7 +13437,7 @@ libcoin: 1.0-8
 libgeos: 3.9.1-1
 libproj: 7.1.0-2
 libr: 1.2.0
-librarian: 1.7.0
+librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: '0.7'
 libstableR: 1.0.2
@@ -15206,7 +15209,7 @@ noisySBM: 0.1.4
 noisyr: 1.0.0
 nomadlist: 0.1.0
 nombre: 0.3.0
-nomclust: 2.2.1
+nomclust: 2.5.0
 nomine: 1.0.0
 nomisr: 0.4.4
 nomnoml: 0.2.3
@@ -15313,6 +15316,7 @@ nscprepr: 0.1.1
 nsdr: 0.1.1
 nse: '1.20'
 nse2r: 0.1.5
+nser: 1.0.0
 nseval: '0.4'
 nsga2R: '1.0'
 nsga3: 0.0.3
@@ -15433,6 +15437,7 @@ omsvg: 0.1.0
 omu: 1.0.4
 omxr: 0.3.3
 onbabynames: 0.0.1
+onbrand: 1.0.0
 oncoPredict: '0.1'
 oncomodel: '1.0'
 oncrawlR: 0.2.0
@@ -15981,6 +15986,7 @@ pencal: 0.4.2
 pencopula: '0.3'
 pencopulaCond: '0.2'
 pendensity: 0.2.13
+penfa: 0.1.0
 pense: 2.1.0
 pensim: 1.3.3
 peopleanalyticsdata: 0.2.1
@@ -16390,6 +16396,7 @@ polymapR: 1.1.2
 polymars: 1.0-5
 polynom: 1.4-0
 polynomial: 0.1.0
+polypharmacy: 1.0.0
 polyphemus: 0.3.4
 polypoly: 0.0.2
 polyqtlR: 0.0.6
@@ -16453,7 +16460,7 @@ postlightmercury: '1.2'
 postlogic: 0.1.0.1
 postpack: 0.5.3
 potential: 0.1.0
-potools: 0.2.0
+potools: 0.2.2
 potts: 0.5-9
 pould: 1.0.1
 povcalnetR: 0.1.1
@@ -16764,7 +16771,7 @@ pumilioR: 1.3.1
 puniform: 0.2.4
 pureseqtmr: '1.2'
 purge: 0.2.1
-purgeR: '1.1'
+purgeR: '1.2'
 purging: 1.0.0
 purrr: 0.3.4
 purrrlyr: 0.0.7
@@ -17199,6 +17206,7 @@ rangemap: 0.1.17
 rangemodelR: '1.0'
 ranger: 0.12.1
 rankFD: 0.1.0
+rankUncertainty: 1.0.0.0
 rankdist: 1.1.4
 rankhazard: 1.1.0
 rankreg: 0.2-2
@@ -18146,6 +18154,7 @@ rstiefel: 1.0.1
 rstoat: 1.0.0
 rstpm2: 1.5.2
 rstream: 1.3.6
+rstudio.prefs: 0.1.4
 rstudioapi: '0.13'
 rsubgroup: '1.1'
 rsunlight: 0.7.0
@@ -18387,6 +18396,7 @@ sbrl: '1.2'
 sbtools: 1.1.16
 sbw: 1.1.3
 scBio: 0.1.6
+scCAN: 1.0.0
 scDHA: 1.1.1
 scDIFtest: 0.1.1
 scINSIGHT: 0.1.0
@@ -18527,7 +18537,7 @@ seasonalclumped: 0.3.2
 seasonalview: '0.3'
 seastests: 0.14.2
 seawaveQ: 2.0.2
-secr: 4.4.4
+secr: 4.4.5
 secrdesign: 2.5.11
 secret: 1.1.0
 secrettext: 0.1.0
@@ -19302,7 +19312,7 @@ spatstat: 2.2-0
 spatstat.Knet: 2.0-0
 spatstat.core: 2.2-0
 spatstat.data: 2.1-0
-spatstat.geom: 2.2-0
+spatstat.geom: 2.2-2
 spatstat.gui: 2.0-0
 spatstat.linnet: 2.2-1
 spatstat.local: 4.1-1
@@ -20708,6 +20718,7 @@ unbalhaar: '2.0'
 uncertainty: 0.2.0
 uncmbb: 0.2.2
 uncompress: '1.3'
+uncorbets: 0.1.0
 understandBPMN: 1.1.1
 unfoldr: '0.7'
 unga: 0.1.0
