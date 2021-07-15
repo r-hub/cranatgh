@@ -1748,7 +1748,7 @@ EnviroStat: 0.4-2
 Epi: '2.44'
 EpiBayes: 0.1.2
 EpiContactTrace: 0.15.0
-EpiCurve: 2.4-1
+EpiCurve: 2.4-2
 EpiDynamics: 0.3.1
 EpiEstim: 2.2-4
 EpiILM: 1.5.2
@@ -6963,7 +6963,7 @@ akmedoids: 1.3.0
 alR: 2.2.2
 alabama: 2015.3-1
 alakazam: 1.1.0
-albatross: 0.3-1
+albatross: 0.3-2
 albopictus: '0.5'
 ald: 1.3.1
 aldvmm: 0.8.3
@@ -7383,7 +7383,7 @@ bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
 baggingbwsel: '1.0'
 baggr: 0.6.4
-baguette: 0.1.0
+baguette: 0.1.1
 bahc: 0.3.0
 bain: 0.2.4
 bairt: 0.1.2
@@ -8935,7 +8935,7 @@ covatest: 1.2.0
 coveffectsplot: 0.0.9.1
 covequal: 0.1.0
 covfefe: 0.1.0
-covglasso: '1.0'
+covglasso: 1.0.3
 covid19.analytics: '2.1'
 covid19br: 0.1.1
 covid19dbcand: 0.1.1
@@ -10021,7 +10021,7 @@ ecd: 0.9.1
 ecdfHT: 0.1.1
 ecespa: 1.1-13
 ech: 0.1.1.2
-echarts4r: 0.4.0
+echarts4r: 0.4.1
 echarty: 0.2.0
 echelon: 0.1.0
 echo.find: 4.0.1
@@ -10767,6 +10767,7 @@ ffbase: 0.13.3
 fflr: 0.3.9
 ffmanova: 1.1.0
 ffmetadata: 1.0.0
+ffp: 0.1.0
 ffscrapr: 1.4.3
 ffstream: 0.1.6
 fftw: 1.0-6
@@ -11964,7 +11965,7 @@ gretlR: 0.1.0
 grex: '1.9'
 greybox: 1.0.0
 greyzoneSurv: '1.0'
-grf: 2.0.1
+grf: 2.0.2
 grid: 0.7-4
 gridBase: 0.4-7
 gridBezier: 1.1-1
@@ -12131,7 +12132,7 @@ haplotypes: 1.1.2
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
-hardhat: 0.1.5
+hardhat: 0.1.6
 harmonicmeanp: '3.0'
 harmony: 0.1.0
 harrietr: 0.2.3
@@ -12684,7 +12685,7 @@ incadata: 0.9.1
 incase: 0.3.1
 incgraph: 1.0.1
 incidence: 1.7.3
-incidence2: 1.2.0
+incidence2: 1.2.1
 incidental: '0.1'
 inctools: 1.0.15
 indelmiss: 1.0.9
@@ -14429,7 +14430,7 @@ mlergm: '0.7'
 mleur: 1.0-6
 mlf: 1.2.1
 mlfit: 0.5.2
-mlflow: 1.18.0
+mlflow: 1.19.0
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
@@ -14546,7 +14547,7 @@ modelStudio: 3.0.0
 modelbased: 0.7.0
 modelc: 1.0.0.0
 modelcf: '2.1'
-modeldata: 0.1.0
+modeldata: 0.1.1
 modeldb: 0.2.2
 modelfree: 1.1-1
 modelgrid: 1.1.1.0
@@ -14616,7 +14617,7 @@ moonsun: '0.1'
 mopa: 1.0.1
 mopac: 0.1.0
 mopsocd: 0.5.1
-moreparty: 0.2.0
+moreparty: 0.2.1
 morgenstemning: '1.0'
 morpheus: 1.0-1
 morphomap: '1.3'
@@ -14892,7 +14893,7 @@ mvc: '1.3'
 mvcluster: '1.0'
 mvctm: '1.2'
 mvcwt: '1.3'
-mvdalab: '1.5'
+mvdalab: '1.6'
 mvglmmRank: 1.2-2
 mvgraph: '1.2'
 mvgraphnorm: '1.81'
@@ -15705,7 +15706,7 @@ packager: 1.12.0
 packagetrackr: 0.1.1
 packcircles: 0.3.4
 packdep: 0.3.1
-packer: 0.0.6
+packer: 0.1.0
 packrat: 0.6.0
 pacman: 0.5.1
 paco: 0.4.2
@@ -16459,7 +16460,7 @@ portfolioSim: 0.2-7
 portsort: 0.1.0
 postCP: 1.7.2
 postDoubleR: 1.4.12
-postGGIR: 2.0.0
+postGGIR: 2.4.0
 postGIStools: 0.2.4
 postHoc: 0.1.3
 postal: 0.1.1
@@ -18695,7 +18696,7 @@ sets: 1.0-18
 setter: 0.0-1
 settings: 0.2.7
 setwidth: 1.0-4
-sever: 0.0.6
+sever: 0.0.7
 severity: '2.0'
 sf: 1.0-1
 sfa: 1.0-1
@@ -19722,7 +19723,7 @@ stringdist: 0.9.6.3
 stringfish: 0.15.1
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
-stringi: 1.6.2
+stringi: 1.7.2
 stringkernels: 0.8.9
 stringr: 1.4.0
 strip: 1.0.0
@@ -20075,6 +20076,7 @@ tcltk: 0.1-1
 tcltk2: 1.2-11
 tclust: 1.4-2
 tcpl: 2.0.2
+tcplfit2: 0.1.1
 td: 0.0.4
 tdROC: '1.0'
 tdaunif: 0.1.0
@@ -20425,6 +20427,7 @@ torchvision: 0.3.0
 torus: '1.0'
 tosca: 0.3-1
 tosls: '1.0'
+tosr: 0.1.0
 tossm: '1.3'
 totalcensus: 0.6.6
 touch: 0.1-5
@@ -21013,7 +21016,7 @@ vmsbase: 2.2.1
 vmv: '1.0'
 vocaldia: 0.8.3
 volcano3D: 1.2.0
-volesti: 1.1.2
+volesti: 1.1.2-2
 volleystat: 0.2.0
 voronoi: '1.1'
 voronoiTreemap: 0.2.0
