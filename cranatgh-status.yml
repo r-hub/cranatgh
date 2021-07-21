@@ -1104,6 +1104,7 @@ CondReg: '0.20'
 ConfIntVariance: 1.0.2
 ConfigParser: 1.0.0
 ConfoundedMeta: 1.3.0
+ConfusionTableR: 1.0.1
 CongreveLamsdell2016: 1.0.2
 Conigrave: 0.4.4
 ConjointChecks: 0.0.9
@@ -2731,7 +2732,7 @@ IndTestPP: '3.0'
 IndepTest: 0.2.0
 IndependenceTests: '0.5'
 IndexConstruction: 0.1-3
-IndexNumR: 0.2.0
+IndexNumR: 0.3.0
 IndexNumber: 1.3.2
 IndianTaxCalc: 1.0.2
 InfDim: '1.0'
@@ -2757,7 +2758,7 @@ IntegratedJM: '1.6'
 IntegratedMRF: 1.1.9
 InterSIM: 2.2.0
 InterVA4: 1.7.6
-InterVA5: 1.1.0
+InterVA5: 1.1.3
 Interact: '1.1'
 InteractiveIGraph: 1.0.6.1
 Interatrix: 1.1.3
@@ -3109,7 +3110,7 @@ LowWAFOMNX: 1.1.1
 LowWAFOMSobol: 1.1.1
 LumReader: 0.1.0
 LumiWCluster: 1.0.2
-Luminescence: 0.9.13
+Luminescence: 0.9.14
 M2SMF: '2.0'
 M2SMJF: '1.0'
 M3: '0.3'
@@ -3689,7 +3690,7 @@ MultinomialCI: '1.2'
 MultipleBubbles: 0.2.0
 MultiplierDEA: 0.1.18
 MultisiteMediation: 0.0.3
-MultivariateAnalysis: 0.1.1
+MultivariateAnalysis: 0.2.0
 MultivariateRandomForest: 1.1.5
 MultiwayRegression: '1.2'
 MvBinary: '1.1'
@@ -4612,7 +4613,7 @@ RCrypto: 0.1.0
 RCryptsy: '0.4'
 RCurl: 1.95-4.12
 RCytoGPS: 1.1.1
-RCzechia: 1.7.2
+RCzechia: 1.8.2
 RDF: '1.1'
 RDFTensor: '1.3'
 RDIDQ: '1.0'
@@ -5817,7 +5818,7 @@ SciencePo: 0.3.6.12
 SciencesPo: 1.4.1
 ScoreGGUM: '1.0'
 ScorePlus: '0.1'
-ScottKnott: 1.2-7
+ScottKnott: 1.3-0
 ScottKnottESD: 2.0.3
 ScrabbleScore: '1.0'
 ScreenClean: 1.0.1
@@ -6913,7 +6914,7 @@ aemo: 0.3.0
 afCEC: 1.0.2
 afc: 1.4.0
 afdx: 1.1.1
-afex: 0.28-1
+afex: 1.0-0
 affinity: 0.2.5
 affinitymatrix: 0.1.0
 affluenceIndex: '1.0'
@@ -8518,7 +8519,7 @@ clinDR: 2.3.5
 clinDataReview: 1.1.0
 clinPK: 0.9.0
 clinUtiDNA: '1.0'
-clinUtils: 0.0.3
+clinUtils: 0.0.4
 clines: 2.0-3
 clinfun: 1.0.15
 clinmon: 0.6.0
@@ -8955,6 +8956,7 @@ covid19.analytics: '2.1'
 covid19br: 0.1.1
 covid19dbcand: 0.1.1
 covid19france: 0.1.0
+covid19india: 0.1.2
 covid19italy: 0.3.0
 covid19jp: 0.1.0
 covid19mobility: 0.1.1
@@ -11683,7 +11685,7 @@ ggseg: 1.6.3
 ggseg3d: 1.6.3
 ggseqlogo: '0.1'
 ggshadow: 0.0.2
-ggside: 0.1.1
+ggside: 0.1.2
 ggsignif: 0.6.2
 ggsn: 0.5.0
 ggsoccer: 0.1.6
@@ -12733,6 +12735,7 @@ influence.SEM: '2.2'
 influenceAUC: 0.1.2
 influenceR: 0.1.0
 influential: 2.2.3
+influxdbclient: 0.1.0
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
 infochimps: '0.3'
@@ -13969,7 +13972,7 @@ matrixdist: 1.1.2
 matrixpls: 1.0.13
 matrixprofiler: 0.1.5
 matrixsampling: 2.0.0
-matsbyname: 0.4.19
+matsbyname: 0.4.20
 matsindf: 0.3.6
 matuR: 0.0.1.0
 mau: 0.1.2
@@ -14111,7 +14114,7 @@ meditate: 0.1.3
 meditations: 1.0.1
 medmod: 1.0.0
 medrxivr: 0.0.5
-meedr: 0.0.1
+meedr: 0.0.2
 meerva: 0.2-1
 meetupapi: 0.1.0
 mefa: 3.2-7
@@ -14593,7 +14596,7 @@ modeltime.resample: 0.2.0
 modeltools: 0.2-23
 modelwordcloud: '0.1'
 modernVA: 0.1.1
-moderndive: 0.5.1
+moderndive: 0.5.2
 modes: 0.7.0
 modest: 0.3-1
 modesto: 0.1.3
@@ -14903,7 +14906,7 @@ mutSignatures: 2.1.1
 mutatr: '0.1'
 mutoss: 0.1-12
 mutossGUI: 0.1-11
-mutualinf: 1.0.0
+mutualinf: 1.0.1
 mvGPS: 1.1.1
 mvLSW: '1.2'
 mvMISE: '1.0'
@@ -15014,6 +15017,7 @@ nbTransmission: 1.1.2
 nbapalettes: 0.1.0
 nbc4va: '1.1'
 nbconvertR: 1.3.2
+nberwp: 1.0.0
 nbpMatching: 1.5.1
 nc: 2020.8.6
 ncappc: 0.3.0
@@ -15576,6 +15580,7 @@ optimLanduse: 0.0.4
 optimParallel: 1.0-2
 optimStrat: '2.3'
 optimalThreshold: '1.0'
+optimall: 0.1.0
 optimbase: '1.0'
 optimization: 1.0-7
 optimos.prime: 0.1.2
@@ -15793,7 +15798,7 @@ pander: 0.6.4
 pandocfilters: 0.1-4
 panel: '1.0'
 panelAR: '0.1'
-panelView: 1.1.2
+panelView: 1.1.5
 panelWranglR: 1.2.13
 panelaggregation: 0.1.1
 panelr: 0.7.5
@@ -15843,7 +15848,7 @@ parsemsf: 0.1.1
 parser: '0.1'
 parsermd: 0.1.2
 parsetools: 0.1.3
-parsnip: 0.1.6
+parsnip: 0.1.7
 parspatstat: 0.1-4
 partDSA: 0.9.14
 partR2: 0.9.1
@@ -16043,7 +16048,7 @@ perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
 perfectphyloR: 0.2.1
-performance: 0.7.2
+performance: 0.7.3
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 0.6.3
@@ -17107,7 +17112,7 @@ rJava: 1.0-4
 rJavax: '0.3'
 rJython: 0.0-4
 rKIN: '0.1'
-rKOMICS: '1.0'
+rKOMICS: '1.1'
 rKolada: 0.2.0
 rLDCP: 1.0.2
 rLFT: 1.0.0
@@ -17154,6 +17159,7 @@ rSPDE: 0.6.2
 rSQM: 1.3.14
 rSymPy: 0.2-1.2
 rSymbiota: 1.0.0
+rTG: 0.2.2
 rTLS: 0.2.3
 rTOFsPRO: '1.4'
 rTRNG: 4.23.1-1
@@ -17558,7 +17564,7 @@ regpro: 0.1.1
 regrap: 1.0.1
 regress: 1.3-21
 regressoR: 1.2.1
-regrrr: 0.1.1
+regrrr: 0.1.2
 regsel: '0.2'
 regsem: 1.8.0
 regspec: '2.4'
@@ -17669,7 +17675,7 @@ restimizeapi: 1.0.0
 restlos: 0.2-2
 restorepoint: '0.2'
 restrictedMVN: '1.0'
-restriktor: 0.2-800
+restriktor: 0.3-100
 resumer: 0.0.5
 rethinker: 1.1.0
 reticulate: '1.20'
@@ -18514,7 +18520,7 @@ scorer: 0.2.0
 scoring: '0.6'
 scoringRules: 1.0.1
 scoringTools: 0.1.2
-scoringutils: 0.1.7
+scoringutils: 0.1.7.2
 scout: 1.0.4
 scphaser: 1.0.0
 scpm: 2.0.0
@@ -19650,7 +19656,7 @@ statnipokladna: 0.7.0
 statoo: 0.1.3
 statprograms: 0.2.0
 statquotes: 0.2.2
-stats19: 1.4.1
+stats19: 1.4.3
 statsDK: 0.1.1
 statsExpressions: 1.1.0
 statsgrokse: 0.1.4
@@ -20078,7 +20084,7 @@ taskscheduleR: '1.5'
 tastypie: 0.1.0
 tatest: '1.0'
 tatoo: 1.1.1
-tau: 0.0-23
+tau: 0.0-24
 tauturri: 0.3.0
 tawny: 2.1.7
 tawny.types: 1.1.5
@@ -20687,7 +20693,7 @@ tukeyGH: 1.0.0
 tukeytrend: '0.7'
 tumblR: '1.2'
 tumgr: 0.0.4
-tune: 0.1.5
+tune: 0.1.6
 tuneR: 1.3.3
 tuneRanger: '0.5'
 tuple: 0.4-02
@@ -20910,7 +20916,7 @@ vampyr: 1.1.1
 vanddraabe: 1.1.1
 vannstats: 1.0.7.15
 vanquish: 1.0.0
-vapour: 0.7.0
+vapour: 0.7.5
 varComp: 0.2-0
 varEst: 0.1.0
 varImp: '0.4'
@@ -21104,7 +21110,7 @@ wactor: 0.0.1
 waffect: '1.2'
 waffle: 0.7.0
 wahc: '1.0'
-waiter: 0.2.2
+waiter: 0.2.3
 wakefield: 0.3.6
 wal: 0.1.0
 waldo: 0.2.5
