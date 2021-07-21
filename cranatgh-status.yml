@@ -515,7 +515,7 @@ BayesNI: '0.1'
 BayesNSGP: 0.1.1
 BayesNetBP: 1.5.9
 BayesNetDiscovery: '0.1'
-BayesPPD: 1.0.1
+BayesPPD: 1.0.2
 BayesPanel: 0.1-2
 BayesPen: '1.0'
 BayesPieceHazSelect: 1.1.0
@@ -715,6 +715,7 @@ CARE1: 1.1.0
 CARLIT: '1.0'
 CARRoT: 2.5.2
 CARS: 0.2.2
+CARlasso: '0.1'
 CARramps: 0.1.2
 CARrampsOcl: 0.1.4
 CASMAP: 0.6.1
@@ -2432,7 +2433,7 @@ HDoutliers: 1.0.3
 HDtest: '2.1'
 HDtweedie: '1.1'
 HEAT: '1.2'
-HEDA: 0.1.4
+HEDA: 0.1.5
 HEMDAG: 2.7.4
 HETOP: 0.2-6
 HFWutils: 0.9.5.2011.03.21
@@ -2619,7 +2620,7 @@ IDetect: 0.1.0
 IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
-IFAA: 1.0.1
+IFAA: 1.0.2
 IFC: 0.1.1
 IFP: 0.2.4
 IFSPlot: '1.0'
@@ -4161,7 +4162,7 @@ PROTOLIDAR: '0.1'
 PROreg: '1.1'
 PROscorer: 0.0.1
 PROscorerTools: 0.0.1
-PROsetta: 0.3.0
+PROsetta: 0.3.2
 PRROC: 1.3.1
 PRSim: 1.3-1
 PReMiuM: 3.2.6
@@ -4442,7 +4443,7 @@ QCSimulator: 0.0.1
 QDComparison: '3.0'
 QDiabetes: 1.0-2
 QF: 0.0.4
-QFASA: 1.1.0
+QFASA: 1.1.1
 QFRM: 1.0.1
 QGameTheory: 0.1.2
 QGglmm: 0.7.4
@@ -5158,7 +5159,7 @@ RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
 RcppCCTZ: 0.2.9
 RcppCNPy: 0.2.10
-RcppCWB: 0.4.2
+RcppCWB: 0.4.3
 RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
 RcppDE: 0.1.6
@@ -6361,7 +6362,7 @@ TechPhD: 1.0.0
 Tejapi: 1.0.1
 TempCont: 0.1.0
 TempleMetrics: 1.2.0
-Temporal: 0.2.0
+Temporal: 0.3.0
 Tendril: 2.0.4
 TensorClustering: 1.0.2
 TensorComplete: 0.1.0
@@ -6534,7 +6535,7 @@ UtilityFrailtyPH12: '1.0'
 V8: 3.4.2
 VA: '1.0'
 VALERIE: 1.1.0
-VAM: 0.5.2
+VAM: 0.5.3
 VAR.etp: '0.7'
 VARDetect: 0.1.3
 VARMER: 1.0.0
@@ -6934,7 +6935,7 @@ agop: 0.2-3
 agreement: 1.0-1
 agriTutorial: 0.1.5
 agricolae: 1.3-5
-agricolaeplotr: 0.2.1
+agricolaeplotr: 0.2.2
 agridat: '1.18'
 agriwater: 1.0.1
 agrmt: 1.42.7
@@ -7155,7 +7156,7 @@ archivist: 2.3.6
 archivist.github: 0.2.6
 arcos: '1.27'
 arcpullr: 0.2.0
-arctools: 1.1.2
+arctools: 1.1.4
 areabiplot: 1.0.0
 areal: 0.1.7
 arealDB: 0.3.9
@@ -7605,7 +7606,7 @@ benchmarkme: 1.0.7
 benchmarkmeData: 1.0.4
 benchr: 0.2.5
 bender: 0.1.1
-benford: 1.0.0
+benford: 1.0.1
 benford.analysis: 0.1.5
 bentcableAR: 0.3.0
 benthos: 1.3-6
@@ -10786,7 +10787,7 @@ fflr: 0.3.9
 ffmanova: 1.1.0
 ffmetadata: 1.0.0
 ffp: 0.1.0
-ffscrapr: 1.4.3
+ffscrapr: 1.4.4
 ffsimulator: 1.0.0
 ffstream: 0.1.6
 fftw: 1.0-6
@@ -11682,7 +11683,7 @@ ggseg: 1.6.3
 ggseg3d: 1.6.3
 ggseqlogo: '0.1'
 ggshadow: 0.0.2
-ggside: 0.1.0
+ggside: 0.1.1
 ggsignif: 0.6.2
 ggsn: 0.5.0
 ggsoccer: 0.1.6
@@ -12906,7 +12907,7 @@ ismev: '1.42'
 isni: '1.2'
 isnullptr: 1.0.1
 isoSurv: 0.2.0
-isoWater: 1.0.0
+isoWater: 1.0.1
 isoband: 0.2.5
 isoboost: 1.0.1
 isocalcR: 0.0.1
@@ -13050,7 +13051,7 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.1.0
 jsr223: 0.3.4
-jstable: 1.0.4
+jstable: 1.0.5
 jstor: 0.3.9
 jtGWAS: '1.5'
 jti: 0.8.0
@@ -15770,7 +15771,7 @@ paleofire: 1.2.4
 paleomorph: 0.1.4
 paleopop: 2.1.1
 paleotree: 3.3.25
-paletteer: 1.3.0
+paletteer: 1.4.0
 palettesForR: 0.1.2
 palettetown: 0.1.1
 palinsol: '0.93'
@@ -19030,7 +19031,7 @@ sitree: 0.1-8
 sitreeE: 0.0-7
 sitsfeats: 0.0.1
 sivipm: 1.1-4
-sivs: 0.2.4
+sivs: 0.2.5
 sizeMat: 1.1.2
 sjPlot: 2.8.9
 sjdbc: 1.6.1
@@ -20734,7 +20735,7 @@ txtplot: 1.0-4
 txtq: 0.2.4
 typed: 0.0.1
 types: 1.0.0
-tzdb: 0.1.1
+tzdb: 0.1.2
 tzupdater: 0.1.2
 uCAREChemSuiteCLI: 0.2.0
 uFTIR: 0.1.2
