@@ -219,7 +219,7 @@ AnnotationBustR: 1.3.0
 AnnuityRIR: 1.0-0
 AntAngiCool: '1.1'
 AntAngioCOOL: '1.2'
-AntMAN: '1.0'
+AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 3.1.0
 Anthropometry: '1.15'
@@ -940,6 +940,7 @@ CateSelection: '1.0'
 CauchyCP: 0.1.0
 CausalFX: 1.0.1
 CausalGAM: 0.1-4
+CausalGPS: 0.2.5
 CausalImpact: 1.2.7
 CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.0
@@ -3959,7 +3960,7 @@ OneStep: 0.9.2
 OneTwoSamples: 1.0-3
 OpVaR: 1.1.1
 OpasnetUtils: '1.3'
-OpenABMCovid19: 1.0.1
+OpenABMCovid19: '1.0'
 OpenCL: 0.2-1
 OpenImageR: 1.1.9
 OpenLand: 1.0.1
@@ -7857,7 +7858,7 @@ blkergm: '1.1'
 blm: 2013.2.4.4
 blme: 1.0-5
 blmeco: '1.4'
-blob: 1.2.1
+blob: 1.2.2
 blockCV: 2.1.4
 blockForest: 0.2.4
 blockRAR: 1.0.2
@@ -8029,7 +8030,7 @@ bruceR: 0.7.2
 brunnermunzel: 1.4.1
 brxx: 0.1.2
 bs: '1.0'
-bs4Dash: 2.0.1
+bs4Dash: 2.0.2
 bsTools: 0.1.0
 bsam: 1.1.3
 bsamGP: 1.2.3
@@ -8828,6 +8829,7 @@ conleyreg: 0.1.4
 connect3: 0.1.0
 connectedness: '0.2'
 connections: 0.1.1
+connectwidgets: 0.1.1
 conogive: 1.0.0
 conos: 1.4.2
 conover.test: 1.1.5
@@ -10702,7 +10704,7 @@ fastlogitME: 0.1.0
 fastlogranktest: 0.2.1
 fastmaRching: 1.1.0
 fastmap: 1.1.0
-fastmatch: 1.1-0
+fastmatch: 1.1-3
 fastmatrix: 0.3-819
 fastmit: 0.1.1
 fastnet: 1.0.0
@@ -11355,7 +11357,7 @@ gdmp: 0.2.0
 gdns: 0.5.0
 gdor: 0.1-1
 gdpc: 1.1.2
-gds: 0.1.0
+gds: 0.1.1
 gdsfmt: 1.1.0.1
 gdtools: 0.2.3
 gdxdt: 0.1.0
@@ -11708,7 +11710,7 @@ ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
 ggswissmaps: 0.1.1
-ggtern: 3.3.0
+ggtern: 3.3.5
 ggtext: 0.1.1
 ggthemes: 4.2.4
 ggupset: 0.3.0
@@ -12855,7 +12857,7 @@ ionr: 0.3.0
 iopsych: 0.90.1
 iosmooth: '0.94'
 iotables: 0.4.4
-iotools: 0.3-1
+iotools: 0.3-2
 ip2location: 8.0.1
 ip2proxy: 1.0.1
 ipADMIXTURE: 0.1.0
@@ -12940,6 +12942,7 @@ isva: '1.9'
 italy: 0.1.0
 itan: '1.0'
 itcSegment: '0.8'
+itdr: '1.0'
 iteRates: '3.1'
 itemanalysis: '1.0'
 iterLap: 1.1-3
@@ -12971,7 +12974,7 @@ ivpanel: '1.0'
 ivprobit: '1.1'
 ivreg: 0.6-0
 ivregEX: '1.0'
-ivsacim: '1.1'
+ivsacim: '1.3'
 ivtools: 2.3.0
 ivx: 1.1.0
 iwtp: 1.0.0
@@ -13403,7 +13406,7 @@ leafSTAR: '1.0'
 leafdown: 1.0.0
 leafem: 0.1.6
 leafgl: 0.1.1
-leaflegend: 0.3.0
+leaflegend: 0.4.0
 leaflet: 2.0.4.1
 leaflet.esri: 1.0.0
 leaflet.extras: 1.0.0
@@ -15249,7 +15252,7 @@ noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
 noctua: 2.0.1
-nodbi: 0.4.2
+nodbi: 0.4.3
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodiv: 1.4.0
@@ -18217,6 +18220,7 @@ rstpm2: 1.5.2
 rstream: 1.3.6
 rstudio.prefs: 0.1.5
 rstudioapi: '0.13'
+rstyles: 0.4.0
 rsubgroup: '1.1'
 rsunlight: 0.7.0
 rsurface: 1.1.0
@@ -19253,7 +19257,7 @@ soundgen: 2.1.0
 source.gist: 1.0.0
 sourceR: 1.1.0
 sourcetools: 0.1.7
-sovereign: 1.1.0
+sovereign: 1.2.0
 sp: 1.4-5
 sp23design: '0.9'
 sp500SlidingWindow: 0.1.0
@@ -19299,7 +19303,7 @@ spamtree: 0.2.1
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 1.13.0
+spant: 1.14.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -20273,7 +20277,7 @@ thriftr: 1.1.5
 thsls: '0.1'
 thunder: 0.0.12
 thurstonianIRT: 0.11.1
-tibble: 3.1.2
+tibble: 3.1.3
 tibbleOne: 0.1.1
 tibbletime: 0.1.6
 tibblify: 0.1.0
@@ -21148,7 +21152,7 @@ waterYearType: 1.0.1
 waterfall: 1.0.2
 waterfalls: 0.1.2
 waterquality: 0.2.6
-wavScalogram: 1.1.0
+wavScalogram: 1.1.1
 waveband: 4.7.1
 waveclock: 1.0-4
 waved: '1.2'
