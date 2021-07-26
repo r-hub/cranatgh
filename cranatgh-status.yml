@@ -1020,7 +1020,7 @@ CluMix: 2.3.1
 ClueR: '1.4'
 ClusBoot: '1.0'
 ClusPred: 1.0.0
-ClusTorus: 0.1.1
+ClusTorus: 0.1.3
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
 ClustAssess: 0.1.1
@@ -1312,6 +1312,7 @@ DMR: '2.0'
 DMRMark: 1.1.1
 DMRnet: 0.2.0
 DMTL: 0.1.2
+DMtest: 1.0.0
 DMwR: 0.4.1
 DMwR2: 0.0.2
 DNAprofiles: '0.3'
@@ -2265,7 +2266,7 @@ GWEX: 1.0.2
 GWG: '1.0'
 GWI: 1.0.2
 GWLelast: 1.2.2
-GWRM: 2.1.0.3
+GWRM: 2.1.0.4
 GWSDAT: 3.1.0
 GWmodel: 2.2-6
 GWnnegPCA: 0.0.4
@@ -3620,6 +3621,7 @@ MoTBFs: '1.4'
 MobileTrigger: 0.0.31
 Mobilize: '2.9'
 ModStatR: 1.3.1
+ModTools: 0.9.4
 Modalclust: '0.7'
 ModelGood: 1.0.9
 ModelMap: 3.4.0.1
@@ -3947,6 +3949,7 @@ OkNNE: 1.0.0
 OligoSpecificitySystem: '1.3'
 OmegaG: 1.0.1
 OmicKriging: 1.4.0
+OmicNavigator: 1.4.2
 OmicsPLS: 2.0.2
 Omisc: 0.1.4
 OmnibusFisher: '1.0'
@@ -3998,6 +4001,7 @@ OrgMassSpecR: 0.5-3
 OriGen: 1.4.3
 OrthoPanels: 1.1-4
 OscillatorGenerator: 0.1.0
+Ostats: 0.1.0
 OsteoBioR: 0.1.1
 OutbreakTools: 0.1-1
 OutlierDC: 0.3-0
@@ -5179,6 +5183,7 @@ RcppEigenAD: 1.0.0
 RcppEnsmallen: 0.2.17.0.1
 RcppExamples: 0.1.9
 RcppFaddeeva: 0.1.0
+RcppFarmHash: 0.0.1
 RcppFastFloat: 0.0.2
 RcppGSL: 0.3.9
 RcppGetconf: 0.0.3
@@ -5697,7 +5702,7 @@ SODC: '1.0'
 SOFIA: '1.0'
 SOIL: '1.1'
 SOLOMON: 1.0-1
-SOMEnv: 1.1.1
+SOMEnv: 1.1.2
 SOMbrero: 1.3-1
 SOP: '1.0'
 SOPIE: '1.5'
@@ -6155,7 +6160,7 @@ SupMZ: 0.2.0
 SuperExactTest: 1.0.7
 SuperGauss: 2.0.1
 SuperLearner: 2.0-28
-SuperPCA: 0.3.0
+SuperPCA: 0.4.0
 SuperRanker: 1.2.0
 SuperpixelImageSegmentation: 1.0.4
 Superpower: 0.1.2
@@ -6617,7 +6622,7 @@ VeryLargeIntegers: 0.1.8
 VetResearchLMM: 1.0.0
 VhayuR: 1.1.2
 ViSiElse: 1.2.2
-VicmapR: 0.1.6
+VicmapR: 0.1.7
 VideoComparison: 0.9-4
 VineCopula: 2.4.2
 VisCov: '1.3'
@@ -6987,7 +6992,7 @@ albopictus: '0.5'
 ald: 1.3.1
 aldvmm: 0.8.4
 alfr: 1.2.1
-alfred: 0.1.12
+alfred: 0.2.0
 algaeClassify: 1.2.0
 algo: 0.1.0
 algorithmia: 0.3.0
@@ -7022,6 +7027,7 @@ alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '3.3'
 amanida: 0.0.8
+amanpg: 0.3.0
 amap: 0.8-18
 amapGeocode: 0.6.0
 amba: 0.3.1
@@ -7517,7 +7523,7 @@ bayesreg: '1.2'
 bayesrules: 0.0.1
 bayess: '1.4'
 bayest: '1.4'
-bayestestR: 0.10.0
+bayestestR: 0.10.5
 bayesvl: 0.8.5
 bayfoxr: 0.0.1
 baymedr: 0.1.1
@@ -7675,6 +7681,7 @@ biclique: 1.0.5
 biclust: 2.0.3
 biclustermd: 0.2.3
 bicreduc: 0.4-7
+bidask: 0.1.0
 bifactorial: '1.4'
 bife: 0.7.1
 bifurcatingr: 1.0.0
@@ -9162,6 +9169,7 @@ cudaBayesregData: 0.3-8
 cudia: '0.1'
 cultevo: 1.0.2
 cumSeg: '1.3'
+cuml4r: 0.1.0
 cumplyr: 0.1-1
 cumstats: '1.0'
 cumulocityr: 0.1.0
@@ -9588,6 +9596,7 @@ diceR: 1.1.0
 dicecrawler: 0.1.0
 dichromat: 2.0-0
 dicionariosIBGE: '1.6'
+dictionar6: 0.1.2
 did: 2.0.0
 didrooRFM: 1.0.0
 dief: '1.2'
@@ -10840,7 +10849,7 @@ fillr: 1.0.0
 filterviewR: '0.11'
 finalfit: 1.0.3
 financial: '0.2'
-finbif: 0.6.0
+finbif: 0.6.1
 finch: 0.4.0
 findInFiles: 0.2.0
 findR: 0.2.1
@@ -12250,7 +12259,7 @@ heritability: '1.3'
 hermite: 1.1.2
 hermiter: 2.0.3
 hero: 0.4.7
-hesim: 0.5.0
+hesim: 0.5.1
 het.test: '0.1'
 hetGP: 1.1.4
 hetmeta: 0.1.0
@@ -13727,6 +13736,7 @@ lpdensity: '2.2'
 lphom: 0.1.4
 lpint: '2.0'
 lpirfs: 0.2.0
+lpl: '0.11'
 lplyr: 0.1.6
 lpme: 1.1.2
 lpmodeler: 0.2-1
@@ -14148,7 +14158,7 @@ memnet: 0.1.0
 memo: 1.0.1
 memochange: 1.1.1
 memofunc: 1.0.2
-memoiR: 1.0-0
+memoiR: 1.1-0
 memoise: 2.0.0
 memor: 0.2.3
 memoria: 1.0.0
@@ -16482,6 +16492,7 @@ popEpi: 0.4.8
 popKorn: 0.3-0
 popPCR: 0.1.1.1
 popPK: '1.03'
+popRF: 1.0.0
 popRange: '1.1'
 popReconstruct: 1.0-6
 popbio: '2.7'
@@ -16749,7 +16760,7 @@ proxyC: 0.2.0
 prozor: 0.2.11
 prrd: 0.0.4
 prt: 0.1.4
-pryr: 0.1.4
+pryr: 0.1.5
 ps: 1.6.0
 psData: 0.2.2
 psSubpathway: 0.1.1
@@ -16819,7 +16830,7 @@ ptycho: 1.1-4
 pubchunks: 0.3.0
 pubh: 1.1.20
 publipha: 0.1.1
-pubmed.mineR: 1.0.17
+pubmed.mineR: 1.0.18
 pubmedR: 0.0.3
 pubprint: '0.2'
 pubtatordb: 0.1.4
@@ -17180,6 +17191,7 @@ rTableICC: 1.0.7
 rTensor: 1.4.8
 rTephra: '0.1'
 rTorch: 0.4.2
+rUM: 0.3.0
 rUnemploymentData: 1.1.0
 rWBclimate: 0.1.3
 rWMBAT: '2.0'
@@ -18304,7 +18316,7 @@ rvalues: 0.7.1
 rvcheck: 0.1.8
 rversions: 2.1.1
 rvertnet: 0.8.2
-rvest: 1.0.0
+rvest: 1.0.1
 rvg: 0.2.5
 rvgtest: 0.7.4
 rviewgraph: '1.2'
@@ -18565,7 +18577,7 @@ sdafilter: 1.0.0
 sdat: '1.1'
 sdcHierarchies: 0.19.0
 sdcLog: 0.3.0
-sdcMicro: 5.6.0
+sdcMicro: 5.6.1
 sdcMicroGUI: 1.4.0
 sdcSpatial: 0.1.1
 sdcTable: '0.31'
@@ -18646,7 +18658,7 @@ selectMeta: 1.0.8
 selectSNPs: 1.0.1
 selectapref: 0.1.2
 selection: '1.0'
-selection.index: 1.1.1
+selection.index: 1.1.2
 selectiongain: 2.0.591
 selectiveInference: 1.2.5
 selectr: 0.4-2
@@ -18750,7 +18762,7 @@ settings: 0.2.7
 setwidth: 1.0-4
 sever: 0.0.7
 severity: '2.0'
-sf: 1.0-1
+sf: 1.0-2
 sfa: 1.0-1
 sfaR: 0.1.0
 sfadv: 1.0.1
@@ -18899,7 +18911,7 @@ shortcuts: 1.4.0
 shorts: 1.1.6
 shotGroups: 0.8.1
 showimage: 1.0.0
-showtext: 0.9-2
+showtext: 0.9-3
 showtextdb: '3.0'
 shp2graph: 0-5
 shrink: 1.2.1
@@ -19514,7 +19526,7 @@ spread: 2019.8.5
 spreadr: 0.2.0
 spreval: 1.0.0
 sprex: 1.4.1
-springer: 0.1.3
+springer: 0.1.4
 sprint: 1.0.7
 sprinter: 1.1.0
 sprintfr: 0.1.0
@@ -20026,7 +20038,7 @@ synthesis: 1.2.2
 synthesisr: 0.3.0
 synthpop: 1.6-0
 sys: '3.4'
-sysfonts: 0.8.3
+sysfonts: 0.8.4
 sysid: 1.0.4
 syskern: R2000.6-1
 syslognet: 0.1.2.1
@@ -20345,8 +20357,8 @@ tidysynth: 0.1.0
 tidytable: 0.6.3
 tidytext: 0.3.1
 tidytidbits: 0.2.3
-tidytransit: 1.0.0
-tidytreatment: 0.2.0
+tidytransit: 1.1.0
+tidytreatment: 0.2.1
 tidytree: 0.3.4
 tidytuesdayR: 1.0.1
 tidyverse: 1.3.1
