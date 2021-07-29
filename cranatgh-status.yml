@@ -191,7 +191,7 @@ AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: 1.0-1
 AlphaPart: 0.8.1
-AlphaSimR: 1.0.1
+AlphaSimR: 1.0.2
 AlphaVantageClient: 0.0.1
 Amelia: 1.8.0
 AmericanCallOpt: '0.95'
@@ -1351,7 +1351,7 @@ DRR: 0.0.4
 DRaWR: 1.0.1
 DRomics: 2.2-0
 DSAIDE: 0.9.3
-DSAIRM: 0.8.7
+DSAIRM: 0.9.3
 DSBayes: '1.1'
 DSI: 1.3.0
 DSL: 0.1-7
@@ -4492,7 +4492,7 @@ QVM: 0.1.1
 QZ: 0.2-1
 Qapprox: 0.2.0
 QoLR: '1.0'
-Qtools: 1.5.4
+Qtools: 1.5.5
 QuACN: 1.8.0
 QuClu: 0.1.0
 QuadRoot: 0.1.0
@@ -5195,6 +5195,7 @@ RcppHMM: 1.2.2
 RcppHNSW: 0.3.0
 RcppHoney: 0.1.7
 RcppHungarian: '0.1'
+RcppML: 0.1.0
 RcppMLPACK: 1.0.10-7
 RcppMeCab: 0.0.1.2
 RcppMovStat: 1.0.2
@@ -11794,7 +11795,7 @@ gldist: '2160.2'
 gldrm: '1.5'
 glinternet: 1.0.11
 gllm: '0.37'
-gllvm: 1.3.0
+gllvm: 1.3.1
 glm.ddR: 0.1.1
 glm.deploy: 1.0.4
 glm.predict: 4.0-0
@@ -14283,7 +14284,7 @@ mgm: 1.2-12
 mgpd: '1.99'
 mgraph: '1.0'
 mgss: '1.2'
-mgsub: 1.7.2
+mgsub: 1.7.3
 mgwrsar: 0.1-1
 mhazard: 0.1.2
 mhcnuggetsr: '1.1'
@@ -16486,7 +16487,7 @@ polywog: 0.4-1
 pom: '1.1'
 pomcheckr: 0.1.1
 pomdp: 0.99.2
-pomp: '3.4'
+pomp: '3.5'
 pompom: 0.2.1
 pooh: 0.3-2
 pool: 0.1.6
@@ -16713,6 +16714,7 @@ profileModel: 0.6.1
 profileR: 0.3-5
 profilr: 0.1.0
 profmem: 0.6.0
+profoc: 0.8.0
 profr: 0.3.3
 proftools: 0.99-3
 profvis: 0.3.7
@@ -18193,7 +18195,7 @@ rscimark: '1.0'
 rsconnect: 0.8.18
 rscontract: 0.1.2
 rscopus: 0.6.6
-rscorecard: 0.19.1
+rscorecard: 0.20.0
 rscproxy: 2.0-5
 rsdepth: 0.1-5
 rsdmx: '0.6'
