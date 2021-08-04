@@ -1298,6 +1298,7 @@ DIFlasso: 1.0-4
 DIFplus: '1.1'
 DIFshiny: 0.1.0
 DIFtree: 3.1.6
+DIGSS: 1.0.2
 DIME: '1.2'
 DIMORA: 0.2.0
 DIRECT: 1.0.1
@@ -2672,7 +2673,7 @@ IOHanalyzer: 0.1.5.2
 IOHexperimenter: 0.1.4
 IPCAPS: 1.1.8
 IPCWK: '1.0'
-IPDFileCheck: 0.6.6
+IPDFileCheck: 0.7.2
 IPDfromKM: 0.1.10
 IPEC: 0.1.3
 IPLGP: 1.2.0
@@ -5746,7 +5747,7 @@ SPIn: '1.1'
 SPMS: '2.0'
 SPODT: 0.9-1
 SPORTSCausal: '1.0'
-SPOT: 2.5.0
+SPOT: 2.5.8
 SPOTMisc: 1.2.2
 SPPcomb: '0.1'
 SPREDA: '1.1'
@@ -8390,6 +8391,7 @@ changeLOS: '2.1'
 changedetection: 0.2.0
 changepoint: 2.2.2
 changepoint.geo: 1.0.1
+changepoint.influence: 1.0.1
 changepoint.mv: 1.0.2
 changepoint.np: 1.0.3
 changepointTests: 0.1.1
@@ -9488,6 +9490,7 @@ deformula: 0.1.1
 defrostR: 1.1.0
 degenes: '1.1'
 degreenet: 1.3-3
+degross: 0.9.0
 deisotoper: 0.0.7
 dejaVu: 0.3.0
 delayed: 0.3.0
@@ -10194,6 +10197,7 @@ eha: 2.9.0
 ehaGoF: 0.1.1
 ehelp: '1.2'
 ei: 1.3-3
+ei.Datasets: 0.0.1-1
 eiCompare: 3.0.0
 eiPack: 0.2-1
 eiPartialID: 0.1.2
@@ -10390,7 +10394,7 @@ eqtl: 1.1-7
 equSA: 1.2.1
 equalCovs: '1.0'
 equaltestMI: 0.6.1
-equatags: 0.1.0
+equatags: 0.1.1
 equate: 2.0.7
 equateIRT: 2.2.0
 equateMultiple: 0.1.0
@@ -10783,7 +10787,7 @@ fda.usc: 2.0.2
 fdaACF: 1.0.0
 fdaMixed: '0.6'
 fdaPDE: 1.0-9
-fdaPOIFD: 1.0.1
+fdaPOIFD: 1.0.2
 fdadensity: 0.1.2
 fdakma: 1.2.1
 fdaoutlier: 0.2.0
@@ -11207,7 +11211,7 @@ funtimes: '8.0'
 furniture: 1.9.10
 furrr: 0.2.3
 fusedest: '1.3'
-fusen: 0.2.3
+fusen: 0.2.4
 fuser: 1.0.1
 fusionchartsR: 0.0.2
 fusionclust: 1.0.0
@@ -11708,9 +11712,9 @@ ggplot2: 3.3.5
 ggplot2movies: 0.0.1
 ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
-ggplotify: 0.0.7
+ggplotify: 0.0.8
 ggplotlyExtra: 0.0.1
-ggpmisc: 0.4.1
+ggpmisc: 0.4.2
 ggpointdensity: 0.1.0
 ggpol: 0.0.7
 ggpolypath: 0.1.0
@@ -11962,7 +11966,7 @@ gpboost: 0.6.6
 gpclib: 1.5-6
 gpg: 1.2.3
 gphmm: 0.99.0
-gpindex: 0.3.1
+gpindex: 0.3.4
 gpk: '1.0'
 gplite: 0.12.0
 gplm: 0.7-4
@@ -12216,7 +12220,7 @@ hashids: 0.9.0
 hashmap: 0.2.2
 hashr: 0.1.3
 hasseDiagram: 0.2.0
-haven: 2.4.2
+haven: 2.4.3
 hawkes: 0.0-4
 hawkesbow: 1.0.2
 hazer: 1.1.1
@@ -12671,7 +12675,7 @@ ig: '1.2'
 ig.vancouver.2014.topcolour: 0.1.2.0
 igate: 0.3.3
 iglu: 3.0.0
-igoR: 0.1.1
+igoR: 0.1.2
 igraph: 1.2.6
 igraph0: 0.5.7
 igraphdata: 1.0.1
@@ -12790,6 +12794,7 @@ influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
 infochimps: '0.3'
 informR: 1.0-5
+informedSen: 1.0.7
 infotheo: 1.2.0
 infra: 0.1.2
 infraFDTD.assist: '0.6'
@@ -13653,7 +13658,7 @@ lmodel2: 1.7-3
 lmom: '2.8'
 lmomPi: 0.5.0
 lmomRFA: '3.3'
-lmomco: 2.3.6
+lmomco: 2.3.7
 lmreg: '1.2'
 lmridge: '1.2'
 lmtest: 0.9-38
@@ -17126,7 +17131,7 @@ rBDAT: 0.9.8
 rBMF: '1.1'
 rBayesianOptimization: 1.2.0
 rBeta2009: '1.0'
-rBiasCorrection: 0.3.1
+rBiasCorrection: 0.3.2
 rCAT: 0.1.6
 rCBA: 0.4.3
 rCMA: '1.1'
@@ -17966,7 +17971,7 @@ rmetasim: 3.1.7
 rmgarch: 1.3-7
 rmi: 0.1.1
 rminer: 1.4.6
-rminizinc: 0.0.6
+rminizinc: 0.0.7
 rmio: 0.3.0
 rmmseg4j: 0.2-0
 rmngb: 0.6-1
@@ -18038,6 +18043,7 @@ robustSingleCell: 0.1.1
 robustX: 1.2-5
 robustarima: 0.2.6
 robustbase: 0.93-8
+robustcov: '0.1'
 robustfa: 1.0-5
 robustgam: 0.1.7
 robustlm: 0.1.0
@@ -18056,6 +18062,7 @@ roccv: '1.2'
 rock: 0.4.3
 rockchalk: 1.8.144
 rockr: 1.0.0
+roclang: 0.1.0
 rococo: 1.1.7
 rocplus: 1.0-0
 rocsvm.path: 0.1.0
@@ -18520,6 +18527,7 @@ scLink: 1.0.1
 scMappR: 1.0.2
 scModels: 1.0.2
 scPDSI: 0.1.3
+scPOP: 0.1.0
 scRNAtools: '1.0'
 scSorter: 0.0.2
 scTenifoldKnk: 1.0.1
@@ -19096,7 +19104,7 @@ sitar: 1.2.0
 siteymlgen: 1.0.0
 sitmo: 2.0.1
 sitools: '1.4'
-sitree: 0.1-8
+sitree: 0.1-9
 sitreeE: 0.0-7
 sitsfeats: 0.0.1
 sivipm: 1.1-4
@@ -19823,6 +19831,7 @@ stressaddition: 3.1.0
 stressr: 1.0.0
 strex: 1.4.2
 strider: '1.3'
+string2path: 0.0.1
 stringb: 0.1.17
 stringdist: 0.9.7
 stringfish: 0.15.2
@@ -20140,7 +20149,7 @@ tangram.pipe: 1.0.0
 tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
-tarchetypes: 0.2.1
+tarchetypes: 0.3.0
 targeted: 0.1.1
 targets: 0.6.0
 tashu: 0.1.1
@@ -20337,7 +20346,7 @@ tibbrConnector: 1.5.1
 tictactoe: 0.2.2
 tictoc: 1.0.1
 tidyBF: 0.5.1
-tidyBdE: 0.1.2
+tidyBdE: 0.2.0
 tidyCpp: 0.0.3
 tidyHeatmap: 1.3.1
 tidyLPA: 1.0.8
@@ -20402,7 +20411,7 @@ tidytree: 0.3.4
 tidytuesdayR: 1.0.1
 tidyverse: 1.3.1
 tidyvpc: 1.1.0
-tidywikidatar: 0.4.0
+tidywikidatar: 0.4.1
 tidyxl: 1.0.7
 tiff: 0.1-8
 tiger: 0.2.3.1
@@ -20760,7 +20769,7 @@ tukeytrend: '0.7'
 tumblR: '1.2'
 tumgr: 0.0.4
 tune: 0.1.6
-tuneR: 1.3.3
+tuneR: 1.3.3.1
 tuneRanger: '0.5'
 tuple: 0.4-02
 turboEM: '2020.1'
@@ -21074,7 +21083,7 @@ vici: 0.5.2
 vietnamcode: 0.1.1
 viewshed3d: 4.0.0
 vimcom: 0.9-9
-vimp: 2.2.3
+vimp: 2.2.4
 vimpclust: 0.1.0
 vindecodr: 0.1.1
 vinereg: 0.7.4
@@ -21421,7 +21430,7 @@ wyz.code.testthat: 1.1.17
 x.ent: 1.1.7
 x12: 1.9.3
 x12GUI: 0.13.0
-x13binary: 1.1.39-3
+x13binary: 1.1.57-1
 x3ptools: 0.0.2
 xLLiM: '2.2'
 xROI: 0.9.20
