@@ -1097,7 +1097,7 @@ CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
 Compind: '2.2'
 ComplexAnalysis: '1.0'
-ComplexUpset: 1.3.0
+ComplexUpset: 1.3.1
 Compositional: '4.8'
 CompoundEvents: 0.1.0
 Compounding: 1.0.2
@@ -1668,6 +1668,7 @@ ENiRG: '1.0'
 ENmisc: 1.2-7
 EPGLM: '1.1'
 EPGMr: 1.0.0
+EPP: 0.3.2
 EPT: 0.7.5
 EPX: 1.0.4
 EQL: 1.0-1
@@ -1855,6 +1856,7 @@ FCMapper: '1.1'
 FCNN4R: 0.6.2
 FCPS: 1.3.0
 FCSlib: 1.3.0
+FCVAR: 0.1.0
 FD: 1.0-12
 FDGcopulas: '1.0'
 FDRSeg: 1.0-3
@@ -3710,7 +3712,7 @@ MultinomialCI: '1.2'
 MultipleBubbles: 0.2.0
 MultiplierDEA: 0.1.18
 MultisiteMediation: 0.0.3
-MultivariateAnalysis: 0.3.0
+MultivariateAnalysis: 0.4.0
 MultivariateRandomForest: 1.1.5
 MultiwayRegression: '1.2'
 MvBinary: '1.1'
@@ -3962,7 +3964,7 @@ OkNNE: 1.0.0
 OligoSpecificitySystem: '1.3'
 OmegaG: 1.0.1
 OmicKriging: 1.4.0
-OmicNavigator: 1.4.2
+OmicNavigator: 1.4.3
 OmicsPLS: 2.0.2
 Omisc: 0.1.4
 OmnibusFisher: '1.0'
@@ -4109,6 +4111,7 @@ PHInfiniteEstimates: '2.0'
 PHSMM: '1.0'
 PHYLOGR: 1.0.11
 PHeval: 0.5.4
+PICBayes: '1.0'
 PIGE: '1.1'
 PIGShift: 1.0.1
 PIN: '0.8'
@@ -4551,7 +4554,7 @@ R2STATS: 0.68-39
 R2SWF: 0.9-5
 R2WinBUGS: 2.1-21
 R2admb: 0.7.16.2
-R2jags: 0.6-1
+R2jags: 0.7-1
 R2ucare: 1.0.0
 R2wd: '1.5'
 R330: '1.0'
@@ -4588,7 +4591,7 @@ RAQSAPI: 2.0.1
 RATest: 0.1.9
 RAdwords: 0.1.18
 RAhrefs: 0.1.4
-RApiDatetime: 0.0.4
+RApiDatetime: 0.0.5
 RApiSerialize: 0.1.0
 RAppArmor: 3.2.2
 RArcInfo: '0.4'
@@ -6060,7 +6063,7 @@ SpatEntropy: 2.0-1
 SpatMCA: 1.0.2.0
 SpatPCA: 1.3.3.0
 SpatialAcc: 0.1-4
-SpatialBSS: 0.10-0
+SpatialBSS: 0.11-0
 SpatialBall: 0.1.0
 SpatialEpi: 1.2.5
 SpatialEpiApp: '0.3'
@@ -6877,7 +6880,7 @@ adagio: 0.8.4
 adamethods: 1.2.1
 adapr: 2.0.0
 adapt: '1.0'
-adapt4pv: 0.1.0
+adapt4pv: 0.2-0
 adaptDA: '1.0'
 adaptMCMC: '1.4'
 adaptMT: 1.0.0
@@ -7554,7 +7557,7 @@ bbdetection: '1.0'
 bbefkr: '4.2'
 bbemkr: '2.0'
 bbl: 0.4.0
-bbmle: 1.0.23.1
+bbmle: 1.0.24
 bbo: '0.2'
 bbotk: 0.3.2
 bbreg: 2.0.1
@@ -7736,7 +7739,7 @@ bigparallelr: 0.3.1
 bigpca: '1.1'
 bigreadr: 0.2.4
 bigrf: 0.1-6
-bigrquery: 1.3.2
+bigrquery: 1.4.0
 bigsimr: 0.11.1
 bigsnpr: 1.8.1
 bigsparser: 0.5.0
@@ -9207,6 +9210,7 @@ curry: 0.1.1
 cursory: 1.0.0
 cursr: 0.1.0
 curstatCI: 0.1.1
+curtailment: 0.1.1
 curvHDR: 1.2-1
 curvclust: 0.0.1
 curveDepth: 0.1.0.9
@@ -9645,7 +9649,7 @@ diffdepprop: 0.1-9
 diffdf: 1.0.4
 diffeR: 0.0-6
 diffee: 1.1.0
-diffeqr: 1.1.0
+diffeqr: 1.1.1
 diffman: 0.1.1
 diffmatchpatch: 0.1.0
 diffobj: 0.3.4
@@ -9711,7 +9715,7 @@ disk.frame: 0.5.0
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
 dismo: 1.3-3
-disordR: 0.0-2
+disordR: 0.0-7
 disp2D: '1.0'
 dispRity: 1.6.0
 disparityfilter: 2.2.3
@@ -9806,6 +9810,7 @@ do: 2.0.0.0
 doBy: 4.6.11
 doFuture: 0.12.0
 doMC: 1.3.7
+doMIsaul: 1.0.0
 doMPI: 0.2.2
 doParallel: 1.0.16
 doRNG: 1.8.2
@@ -10582,7 +10587,7 @@ extracat: 1.7-6
 extrafont: '0.17'
 extrafontdb: '1.0'
 extraoperators: 0.1.1
-extras: 0.1.0
+extras: 0.2.0
 extraterrestrial: 0.1.0
 extremeIndex: 0.0.2
 extremeStat: 1.4.0
@@ -12115,7 +12120,7 @@ gsmoothr: 0.1.7
 gsrc: '1.1'
 gsrs: 0.1.1
 gsrsb: 1.1.1
-gss: 2.2-2
+gss: 2.2-3
 gsscopu: 0.9-3
 gstar: 0.1.0
 gstat: 2.0-7
@@ -12194,6 +12199,7 @@ halfcircle: 0.1.0
 halp: 0.1.3
 hamlet: 0.9.6
 handlr: 0.3.0
+handwriter: 1.0.0
 handyplots: 1.1.3
 hans: '0.1'
 hansard: 0.8.0
@@ -12612,6 +12618,7 @@ icaOcularCorrection: 3.0.0
 ical: 0.1.6
 icamix: '1.0'
 icapca: '1.1'
+icardaFIGSr: 1.0.1
 icarus: 0.3.1
 iccCounts: 1.0.3
 iccbeta: 1.2.0
@@ -14548,7 +14555,7 @@ mlr3learners: 0.4.5
 mlr3measures: 0.3.1
 mlr3misc: 0.9.3
 mlr3oml: 0.4.3
-mlr3pipelines: 0.3.5
+mlr3pipelines: 0.3.5-1
 mlr3proba: 0.4.0
 mlr3shiny: 0.1.1
 mlr3spatiotempcv: 0.4.1
@@ -14741,7 +14748,7 @@ move: 4.0.6
 moveHMM: '1.7'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.3
-movecost: '1.2'
+movecost: '1.3'
 mozzie: 0.1.0
 mp: 0.4.1
 mpMap: '1.14'
@@ -15234,7 +15241,7 @@ nlcv: 0.3.5
 nleqslv: 3.3.2
 nlgeocoder: 0.1.3
 nlirms: 3.4.4
-nlist: 0.3.1
+nlist: 0.3.2
 nlme: 3.1-122
 nlmeODE: '1.1'
 nlmeU: 0.70-3
@@ -16515,7 +16522,7 @@ polytomous: 0.1.6
 polywog: 0.4-1
 pom: '1.1'
 pomcheckr: 0.1.1
-pomdp: 0.99.2
+pomdp: 0.99.3
 pomp: '3.5'
 pompom: 0.2.1
 pooh: 0.3-2
@@ -16672,7 +16679,7 @@ presmTP: 1.1.0
 press: '2.0'
 pressData: '2.0'
 presser: 1.1.0
-prettifyAddins: 2.0.3
+prettifyAddins: 2.1.1
 prettyB: 0.2.2
 prettyGraphs: 2.1.6
 prettyR: 2.2-3
@@ -17370,7 +17377,7 @@ ratios: 1.2.0
 rattle: 5.4.0
 rattle.data: 1.0.2
 raustats: 0.15.0
-raveio: 0.0.3
+raveio: 0.0.4
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
 raw: 0.1.8
@@ -17710,7 +17717,7 @@ repra: '0.4'
 represent: '1.0'
 representr: 0.1.2
 represtools: 0.1.3
-reprex: 2.0.0
+reprex: 2.0.1
 reproducer: 0.4.2
 reproducible: 1.2.7
 reproj: 0.4.2
@@ -18224,7 +18231,7 @@ rsbp: 0.1.0
 rscala: 3.2.19
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 0.8.18
+rsconnect: 0.8.24
 rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.20.0
@@ -19340,7 +19347,7 @@ spTest: 0.2.5
 spThin: 0.2.0
 spTimer: 3.3.1
 spa: '2.0'
-spaMM: 3.8.9
+spaMM: 3.8.23
 spaa: 0.2.2
 space: 0.1-1.1
 spaceExt: '1.0'
@@ -19840,7 +19847,7 @@ stringgaussnet: '1.1'
 stringi: 1.7.3
 stringkernels: 0.8.9
 stringr: 1.4.0
-stringx: 0.1.2
+stringx: 0.1.3
 strip: 1.0.0
 stripless: 1.0-3
 striprtf: 0.5.2
@@ -20070,6 +20077,7 @@ symbols: '1.1'
 symengine: 0.1.5
 symmetry: 0.2.1
 symmoments: 1.2.1
+symphony: 0.1.0
 syn: 0.1.0
 synRNASeqNet: '1.0'
 synbreed: 0.9-7
@@ -20238,7 +20246,7 @@ termstrc: '1.3'
 ternvis: '1.2'
 terra: 1.3-4
 terrainmeshr: 0.1.0
-terrainr: 0.4.1
+terrainr: 0.5.0
 tesseract: 4.1.1
 test2norm: 0.1.1
 testComplexity: 0.1.1
@@ -20565,6 +20573,7 @@ tracer: 1.0.0
 tracerer: 2.2.2
 tracheideR: 0.1.1
 track: 1.1.9
+track2KBA: 1.0.0
 trackObjs: 1.0-18
 trackdem: 0.5.2
 trackdf: 0.2.2
@@ -20772,7 +20781,7 @@ tune: 0.1.6
 tuneR: 1.3.3.1
 tuneRanger: '0.5'
 tuple: 0.4-02
-turboEM: '2020.1'
+turboEM: '2021.1'
 turfR: 0.8-7
 turner: 0.1.7
 tutoR: 0.3.2
@@ -20992,7 +21001,7 @@ vampyr: 1.1.1
 vanddraabe: 1.1.1
 vannstats: 1.0.7.15
 vanquish: 1.0.0
-vapour: 0.7.6
+vapour: 0.7.7
 varComp: 0.2-0
 varEst: 0.1.0
 varImp: '0.4'
