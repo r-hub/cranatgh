@@ -3791,7 +3791,7 @@ NMVANOVA: 1.1.0
 NMdata: 0.0.8
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.7.1
+NNS: 0.7.2
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.4
@@ -3905,6 +3905,7 @@ OBRE: 0.1-0
 OBsMD: '6.1'
 OCA: '0.4'
 OCNet: 0.5.0
+OCSdata: 1.0.1
 ODB: 1.2.1
 ODEnetwork: 1.3.2
 ODEsensitivity: 1.1.2
@@ -4129,7 +4130,7 @@ PKmodelFinder: '1.1'
 PKreport: '1.5'
 PKtools: 1.5-0
 PL.popN: '1.2'
-PL94171: 0.2.0
+PL94171: 0.3.2
 PLIS: '1.1'
 PLMIX: 2.1.1
 PLNmodels: 0.11.4
@@ -4410,7 +4411,7 @@ ProFit: 1.3.3
 ProFound: 1.14.1
 ProNet: 1.0.0
 ProPublicaR: 1.1.1
-ProSGPV: 0.3.0
+ProSGPV: 1.0.0
 ProTrackR: 0.3.7
 ProbBayes: '1.1'
 ProbForecastGOP: '1.3'
@@ -5521,7 +5522,7 @@ Rwofost: 0.8-2
 Rwordseg: 0.3-2
 Rwtss: 0.9.1
 RxCEcolInf: 0.1-4
-RxODE: 1.0.9
+RxODE: 1.1.0
 RxnSim: 1.0.3
 Rxnat: 1.0.14
 Ryacas: 1.1.3.1
@@ -7206,7 +7207,7 @@ argon2: 0.2-0
 argonDash: 0.2.0
 argonR: 0.2.0
 argosfilter: '0.63'
-argparse: 2.0.3
+argparse: 2.0.4
 argparser: 0.7.1
 ari: 0.3.5
 ariExtra: 0.3.1
@@ -8581,6 +8582,7 @@ cloudRmpiJars: '1.1'
 cloudSimplifieR: 0.1.9
 cloudUtil: 0.1.12
 cloudml: 0.6.1
+cloudstoR: 0.1.0
 clpAPI: 1.3.0
 clr: 0.1.2
 clrdag: 0.6.0
@@ -8817,6 +8819,7 @@ con2aqi: 0.1.0
 con2lki: 0.1.0
 conStruct: 1.0.4
 concatenate: 1.0.0
+concatipede: 1.0.1
 concaveman: 1.1.0
 conclust: '1.1'
 concor: 1.0-0
@@ -9916,6 +9919,7 @@ drimmR: 1.0.1
 driveR: 0.2.1
 drm: 0.5-8
 drmdel: 1.3.1
+droll: 0.1.0
 dropR: '0.1'
 droptest: 0.1.3
 drord: 1.0.1
@@ -14447,6 +14451,7 @@ mispr: 1.0.0
 misreport: 0.1.1
 missCompare: 1.0.3
 missDeaths: '2.7'
+missDiag: 1.0.1
 missForest: '1.4'
 missMDA: '1.18'
 missMethods: 0.2.0
@@ -16188,7 +16193,7 @@ phalen: '1.0'
 phangorn: 2.7.1
 phantom: 0.1.3
 pharmaRTF: 0.1.3
-phase: 1.1.2
+phase: 1.1.3
 phase1PRMD: 1.0.2
 phase1RMD: 1.0.9
 phaseR: 2.1.3
@@ -16277,6 +16282,7 @@ piRF: 0.1.0
 picante: 1.8.2
 picasso: 1.3.1
 pid: '0.50'
+piecemaker: 1.0.0
 piecepackr: 1.7.2
 piecewiseSEM: 2.1.2
 pifpaf: 1.0.1
@@ -16469,7 +16475,7 @@ poems: 1.0.1
 pogit: 1.2.0
 poibin: '1.5'
 poilog: '0.4'
-pointRes: 1.1.3
+pointRes: 2.0.0
 pointblank: 0.8.0
 pointdensityP: 0.3.5
 pointdexter: 0.1.1
@@ -18319,7 +18325,7 @@ rticulate: 1.7.2
 rtide: 0.0.9
 rties: 5.0.0
 rtiff: '1.4'
-rtika: 1.24.1
+rtika: 2.0.0
 rtimes: 0.5.0
 rtimicropem: 1.4.0
 rtip: 1.1.1
@@ -18639,7 +18645,7 @@ sdcLog: 0.3.0
 sdcMicro: 5.6.1
 sdcMicroGUI: 1.4.0
 sdcSpatial: 0.1.1
-sdcTable: '0.31'
+sdcTable: 0.32.0
 sdcTarget: 0.9-11
 sddpack: '0.9'
 sde: 2.0.15
@@ -19593,6 +19599,7 @@ sprintfr: 0.1.0
 sprintr: 0.9.0
 sprm: 1.2.2
 sprsmdl: 0.1-0
+sprtt: 0.1.0
 spsComps: 0.3.0
 spsUtil: 0.1.2
 spsann: 2.2.0
@@ -20016,7 +20023,7 @@ svTools: 0.9-5
 svUnit: 1.0.6
 svWidgets: 0.9-45
 svapls: '1.4'
-svars: 1.3.7
+svars: 1.3.8
 svcR: 1.6.5
 svcm: 0.1.2
 svd: '0.5'
@@ -20584,6 +20591,7 @@ track2KBA: 1.0.0
 trackObjs: 1.0-18
 trackdem: 0.5.2
 trackdf: 0.2.2
+trackdown: 1.0.0
 trackeR: 1.5.2
 trackeRapp: '1.1'
 trackr: 0.10.7
