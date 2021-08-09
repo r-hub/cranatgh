@@ -181,7 +181,7 @@ AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
 AgroR: 1.2.2
-AgroReg: 1.0.0
+AgroReg: 1.1.0
 AhoCorasickTrie: 0.1.2
 AirSensor: 1.0.8
 Ake: '1.0'
@@ -1110,6 +1110,7 @@ CondIndTests: 0.1.5
 CondReg: '0.20'
 ConfIntVariance: 1.0.2
 ConfigParser: 1.0.0
+ConformalSmallest: '1.0'
 ConfoundedMeta: 1.3.0
 ConfusionTableR: 1.0.1
 CongreveLamsdell2016: 1.0.2
@@ -1856,7 +1857,7 @@ FCMapper: '1.1'
 FCNN4R: 0.6.2
 FCPS: 1.3.0
 FCSlib: 1.3.0
-FCVAR: 0.1.0
+FCVAR: 0.1.1
 FD: 1.0-12
 FDGcopulas: '1.0'
 FDRSeg: 1.0-3
@@ -2195,7 +2196,7 @@ GMSimpute: 0.0.1.0
 GMZTests: 0.1.4
 GNAR: 1.1.1
 GNE: 0.99-3
-GNRS: 0.3.0
+GNRS: 0.3.1
 GNSSseg: '6.0'
 GOFSN: '1.0'
 GOFShiny: 0.1.0
@@ -2631,7 +2632,7 @@ IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
 IDSL.IPA: '1.2'
-IDSpatialStats: 0.3.5
+IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
 IDetect: 0.1.0
 IDmeasurer: 1.0.0
@@ -3075,6 +3076,7 @@ LearnGeom: '1.5'
 LearningRlab: '2.2'
 LearningStats: 0.1.0
 LendingClub: 2.0.0
+LexFindR: 1.0.0
 LexisNexisTools: 0.3.4
 LexisPlotR: 0.4.0
 LibOPF: 2.6.1
@@ -3257,7 +3259,7 @@ MFDF: 0.0-2
 MFDFA: '1.1'
 MFHD: 0.0.1
 MFKnockoffs: '0.9'
-MFPCA: '1.3'
+MFPCA: 1.3-8
 MFSAS: 1.0-0
 MFT: '2.0'
 MGBT: 1.0.7
@@ -3886,7 +3888,7 @@ NonNorMvtDist: 1.0.2
 NonParRolCor: 0.6.0
 NonProbEst: 0.2.4
 NonlinearTSA: 0.5.0
-NonpModelCheck: '3.0'
+NonpModelCheck: '4.0'
 Nonpareil: 3.3.4
 NormExpression: 0.1.0
 NormPsy: 1.0.8
@@ -4131,6 +4133,7 @@ PKreport: '1.5'
 PKtools: 1.5-0
 PL.popN: '1.2'
 PL94171: 0.3.2
+PLFD: 0.1.0
 PLIS: '1.1'
 PLMIX: 2.1.1
 PLNmodels: 0.11.4
@@ -4942,7 +4945,7 @@ RSGHB: 1.2.2
 RSIP: 1.0.0
 RSKC: 2.4.2
 RSMET: 1.3.8
-RSNNS: 0.4-12
+RSNNS: 0.4-13
 RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.1.4
@@ -7751,7 +7754,7 @@ bigstatsr: 1.5.1
 bigstep: 1.0.3
 bigtabulate: 1.1.5
 bigtcr: '1.1'
-bigtime: 0.2.0
+bigtime: 0.2.1
 bigutilsr: 0.3.4
 bikedata: 0.2.4
 bikeshare14: 0.1.4
@@ -8263,7 +8266,7 @@ catsim: 0.2.3
 catspec: '0.97'
 cattonum: 0.0.5
 causact: 0.4.0
-causalCmprsk: 1.0.1
+causalCmprsk: 1.0.2
 causalMGM: 0.1.1
 causaldata: 0.1.1
 causaldrf: '0.3'
@@ -9778,9 +9781,10 @@ diversityForest: 0.3.1
 divest: 0.10.1
 divisors: 0.1-4
 divo: 1.0.1
+divseg: 0.0.4
 dixon: 0.0-7
 dixonTest: 1.0.3
-diyar: 0.3.0
+diyar: 0.3.1
 dkDNA: 0.1.1
 dkanr: 0.1.3
 dlbayes: 0.1.0
@@ -10155,11 +10159,11 @@ edesign: 1.0-9
 edf: 1.0.0
 edfReader: 1.2.1
 edfun: 0.2.0
-edgar: 2.0.3
+edgar: 2.0.4
 edgarWebR: 1.1.0
 edgeCorr: '1.0'
 edgeRun: 1.0.9
-edgebundle: 0.2.0
+edgebundle: 0.2.1
 edgebundleR: 0.1.4
 edgedata: 0.2.0
 edina: 0.1.1
@@ -11647,6 +11651,7 @@ ggamma: 1.0.1
 gganimate: 1.0.7
 ggasym: 0.1.6
 ggbeeswarm: 0.6.0
+ggborderline: 0.1.0
 ggbreak: 0.0.3
 ggbuildr: 0.1.0
 ggbump: 0.1.0
@@ -11742,7 +11747,7 @@ ggrasp: '1.0'
 ggrastr: 0.2.3
 ggrepel: 0.9.1
 ggridges: 0.5.3
-ggrisk: '1.2'
+ggrisk: '1.3'
 ggroups: 2.1.0
 ggsci: '2.9'
 ggseas: 0.5.4
@@ -12827,7 +12832,7 @@ inops: 0.0.1
 inpdfr: 0.1.11
 inplace: 0.1.2
 insane: 0.1.0
-insect: 1.2.0
+insect: 1.4.2
 insee: 1.1.0
 insideRODE: '2.0'
 insight: 0.14.2
@@ -13089,7 +13094,7 @@ joinXL: 1.0.1
 joineR: 1.2.6
 joineRML: 0.4.5
 joineRmeta: 0.1.2
-joinet: 0.0.9
+joinet: 0.0.10
 joint.Cox: '3.14'
 jointDiag: '0.4'
 jointMeanCov: 0.1.0
@@ -13115,7 +13120,7 @@ js: '1.2'
 jsTree: '1.2'
 jsTreeR: 1.3.0
 jskm: 0.4.2
-jsmodule: 1.1.7
+jsmodule: 1.1.8
 json64: 0.1.3
 jsonStrings: 1.0.0
 jsonify: 1.2.1
@@ -14922,7 +14927,7 @@ multidplyr: 0.1.0
 multifear: 0.1.2
 multifluo: '1.1'
 multifwf: 0.2.2
-multigraph: '0.93'
+multigraph: '0.95'
 multigroup: 0.4.5
 multilaterals: '1.0'
 multilevel: '2.6'
@@ -16650,7 +16655,7 @@ prclust: '1.3'
 prcr: 0.2.1
 pre: 1.0.1
 preText: 0.6.2
-precautionary: 0.2-1
+precautionary: 0.2.6
 precintcon: 2.3.0
 precisePlacement: 0.1.0
 precisely: 0.1.1
@@ -17721,7 +17726,7 @@ reportROC: '3.5'
 reportReg: 0.3.0
 reportRx: '1.0'
 reporter: 1.1.3
-reportfactory: 0.3.1
+reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
 reporttools: 1.1.2
@@ -19852,7 +19857,7 @@ stressaddition: 3.1.0
 stressr: 1.0.0
 strex: 1.4.2
 strider: '1.3'
-string2path: 0.0.1
+string2path: 0.0.2
 stringb: 0.1.17
 stringdist: 0.9.7
 stringfish: 0.15.2
@@ -20108,7 +20113,7 @@ synthesis: 1.2.2
 synthesisr: 0.3.0
 synthpop: 1.6-0
 sys: '3.4'
-sysfonts: 0.8.4
+sysfonts: 0.8.5
 sysid: 1.0.4
 syskern: R2000.6-1
 syslognet: 0.1.2.1
