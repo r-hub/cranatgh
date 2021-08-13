@@ -28,7 +28,7 @@ ADMM: 0.3.3
 ADMMnet: 0.1.1
 ADMMsigma: '2.1'
 ADMUR: 1.0.3
-ADP: 0.1.5
+ADP: 0.1.6
 ADPF: 0.0.1
 ADPclust: '0.7'
 ADVICE: '1.0'
@@ -3116,6 +3116,7 @@ LocalControlStrategy: 1.3.3
 Lock5Data: 3.0.0
 Lock5withR: 1.2.2
 LogConcDEAD: 1.6-4
+LogRegEquiv: 0.1.2
 LogicForest: 2.1.0
 LogicOpt: 1.0.0
 LogicReg: 1.6.4
@@ -3290,6 +3291,7 @@ MIIPW: 0.1.0
 MIIVsem: 0.5.8
 MILC: '1.0'
 MIMSunit: 0.10.0
+MINTplates: 1.0.0
 MIPHENO: '1.2'
 MIRES: 0.1.0
 MIRL: '1.0'
@@ -3410,7 +3412,7 @@ MRwarping: '1.0'
 MSBVAR: 0.9-3
 MSCMT: 1.3.4
 MSCquartets: 1.1.0
-MSEtool: 3.1.1
+MSEtool: 3.2.0
 MSG: '0.8'
 MSGARCH: '2.42'
 MSGARCHelm: 0.1.0
@@ -3821,6 +3823,7 @@ NPMOD: 0.1.0
 NPMPM: '1.0'
 NPMVCP: '1.1'
 NPP: 0.4.0
+NPRED: 1.0.5
 NPS: '1.1'
 NPflow: 0.13.3
 NPsimex: 0.2-1
@@ -4950,7 +4953,7 @@ RSGHB: 1.2.2
 RSIP: 1.0.0
 RSKC: 2.4.2
 RSMET: 1.3.8
-RSNNS: 0.4-13
+RSNNS: 0.4-14
 RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.1.4
@@ -6293,6 +6296,7 @@ TLMoments: 0.7.5.2
 TLdating: 0.1.3
 TMB: 1.7.20
 TMDb: '1.1'
+TMTI: 0.1.0
 TNC: 0.1.0
 TNRS: 0.1.0
 TOC: 0.0-5
@@ -7958,7 +7962,7 @@ boilerpipeR: 1.3.2
 bold: 1.2.0
 bomWater: 0.4.1
 bomrang: 0.7.4
-bookdown: '0.22'
+bookdown: '0.23'
 bookdownplus: 1.5.8
 boolean: 2.0-2
 boolean3: 3.1.6
@@ -8283,7 +8287,7 @@ causaleffect: 1.3.13
 causaloptim: 0.8.2
 causalsens: 0.1.2
 causalweight: 1.0.2
-caviarpd: 0.2.11
+caviarpd: 0.2.17
 cba: 0.2-21
 cban: '1.0'
 cbanalysis: 0.2.0
@@ -8339,7 +8343,7 @@ cds: 1.0.3
 ceRtainty: 1.0.0
 cec2005benchmark: 1.0.4
 cec2013: 0.1-5
-cecs: 0.2.1
+cecs: 0.2.2
 ced: 1.0.1
 ceg: 0.1.0
 celestial: 1.4.6
@@ -8479,6 +8483,7 @@ chronosphere: 0.4.1
 chunkR: 1.1.1
 chunked: 0.5.1
 chunkhooks: 0.0.1
+chyper: 0.3.1
 ciTools: 0.6.1
 ciccr: 0.2.0
 cicerone: 1.0.4
@@ -9684,6 +9689,7 @@ diffusr: 0.1.4
 diffviewer: 0.1.0
 digeR: '1.3'
 digest: 0.6.27
+digitTests: 0.1.0
 digitalPCR: 1.1.0
 digitize: 0.0.4
 dils: 0.8.1
@@ -11009,6 +11015,7 @@ flock: '0.7'
 flood: 0.1.1
 flora: 0.3.4
 florestal: 0.1.3
+flow: 0.0.2
 flowDiv: '2.0'
 flower: '1.0'
 flowfield: '1.0'
@@ -12041,7 +12048,7 @@ graphicsQC: '1.0'
 graphite: '1.1'
 graphkernels: '1.6'
 graphlayouts: 0.7.1
-graphon: 0.3.4
+graphon: 0.3.5
 graphql: '1.5'
 graphscan: 1.1.1
 graphsim: 1.0.2
@@ -13423,7 +13430,7 @@ lavaSearch2: 1.5.6
 lavaan: 0.6-9
 lavaan.shiny: '1.2'
 lavaan.survey: 1.1.3.1
-lavaanPlot: 0.6.0
+lavaanPlot: 0.6.2
 lavacreg: 0.1-1
 lawn: 0.6.0
 lawstat: '3.4'
@@ -13657,6 +13664,7 @@ lllcrc: '1.2'
 llogistic: 1.0.3
 lm.beta: 1.5-1
 lm.br: 2.9.3
+lmDiallel: 0.9.4
 lmPerm: 2.1.0
 lmQCM: 0.2.3
 lmSubsets: 0.5-2
@@ -14360,7 +14368,7 @@ miP: '1.1'
 miRNAss: '1.5'
 miRada: 1.13.8-8
 miRecSurv: 1.0.1
-miRetrieve: 1.3.0
+miRetrieve: 1.3.2
 miRtest: '1.8'
 miWQS: 0.4.4
 micEcdat: 0.1-1
@@ -15506,7 +15514,7 @@ obAnalytics: 0.1.1
 obfuscatoR: 0.2.1
 objectProperties: 0.6.7
 objectSignals: 0.10.2
-objectremover: 0.7.0
+objectremover: 0.8.0
 obliclus: '0.9'
 oblique.tree: '1.1'
 obliqueRF: '0.3'
@@ -15536,6 +15544,7 @@ odds.converter: 1.4.8
 odds.n.ends: 0.1.3
 oddsratio: 2.0.1
 oddstream: 0.5.0
+odeGUTS: 1.0.0
 odeintr: 1.7.1
 odesolve: 0.9-9
 odfWeave: 0.8.4
@@ -15849,7 +15858,7 @@ paf: '1.0'
 pafdR: '1.0'
 pafr: 0.0.2
 pagedown: '0.15'
-pagemap: 0.1.1
+pagemap: 0.1.2
 pagenum: '1.2'
 pageviews: 0.5.0
 pagoda2: 1.0.5
@@ -16092,7 +16101,7 @@ pdp: 0.7.0
 pdqr: 0.3.0
 pds3: 0.5.0
 pdxTrees: 0.4.0
-pdynmc: 0.9.4
+pdynmc: 0.9.5
 peRiodiCS: 0.5.0
 peRspective: 0.1.1
 peacesciencer: 0.5.0
@@ -16865,6 +16874,7 @@ pspearman: 0.3-0
 pspline: 1.0-17
 pspline.inference: 1.0.4
 psqn: 0.2.1
+psr: 0.1.0
 psrwe: '1.3'
 pssm: '1.1'
 pssmooth: 1.0.3
@@ -17237,7 +17247,7 @@ rNOMADS: 2.5.0
 rNeighborGWAS: 1.2.4
 rNeighborQTL: 1.1.2
 rODE: 0.99.6
-rPACI: 0.1.2
+rPACI: 0.2.1
 rPAex: 1.0.1
 rPackedBar: 0.2.2
 rPanglaoDB: 0.2.1
@@ -17669,7 +17679,7 @@ regpro: 0.1.1
 regrap: 1.0.1
 regress: 1.3-21
 regressoR: 1.2.1
-regrrr: 0.1.2
+regrrr: 0.1.3
 regsel: '0.2'
 regsem: 1.8.0
 regspec: '2.4'
@@ -18483,7 +18493,7 @@ sail: 0.1.0
 salbm: '1.0'
 salem: 0.2.0
 salesforcer: 1.0.0
-salso: 0.2.22
+salso: 0.2.23
 salty: 0.1.0
 sambia: 0.1.0
 samc: 1.4.0
@@ -18804,7 +18814,7 @@ seplyr: 1.0.3
 seq2R: '1.0'
 seqCBS: 1.2.1
 seqDesign: '1.2'
-seqHMM: 1.1.0
+seqHMM: 1.1.1
 seqICP: '1.1'
 seqMeta: 1.6.7
 seqPERM: '1.0'
@@ -19824,7 +19834,7 @@ stochasticGEM: '0.0'
 stochmod: '1.2'
 stochprofML: 2.0.3
 stochvol: 3.1.0
-stochvolTMB: 0.1.2
+stochvolTMB: 0.2.0
 stockPortfolio: '1.2'
 stockR: 1.0.74
 stockfish: 0.1.2
@@ -19834,7 +19844,7 @@ stokes: 1.0-8
 stopwords: '2.2'
 stormwindmodel: 0.1.4
 storr: 1.2.5
-storywranglr: 0.1.0
+storywranglr: 0.2.0
 stosim: 0.0.14
 stplanr: 0.8.3
 stpm: 1.7.10
@@ -20010,7 +20020,7 @@ surveysd: 1.3.0
 surveyvoi: 1.0.3
 survidm: 1.3.2
 survivALL: 0.9.3
-survival: 3.2-11
+survival: 3.2-12
 survival4: 1.4-0
 survival5: '2.4'
 survivalAnalysis: 0.2.0
@@ -21192,7 +21202,7 @@ vortexR: 1.1.7
 vortexRdata: 1.0.5
 voson.tcn: 0.1.8
 vosonSML: 0.29.13
-vote: 2.2-1
+vote: 2.3-0
 voteogram: 0.3.1
 votesmart: 0.1.0
 votesys: 0.1.1
