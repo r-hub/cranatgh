@@ -90,6 +90,7 @@ ANOVAShiny2: 0.1.0
 ANOVAreplication: 1.1.4
 AOV1R: 0.1.0
 AOfamilies: '1.0'
+APAtree: 1.0.0
 APCI: 0.1.0
 APCanalysis: '1.0'
 APFr: 1.0.2
@@ -765,7 +766,7 @@ CEAmarkov: 0.1.0
 CEC: 0.9.4
 CEDARS: '1.90'
 CEGO: 2.4.2
-CENFA: 1.1.0
+CENFA: 1.1.1
 CEoptim: '1.2'
 CFAcoop: 1.0.0
 CFC: 1.1.2
@@ -4891,7 +4892,7 @@ ROpenWeatherMap: '1.1'
 ROptEst: 1.2.1
 ROptEstOld: 1.2.0
 ROptRegTS: 1.2.0
-ROptSpace: 0.2.2
+ROptSpace: 0.2.3
 ROptimizely: 0.2.0
 ROracle: 1.3-1
 ROracleUI: 1.3-2
@@ -5582,7 +5583,7 @@ SBRect: '0.26'
 SBSA: 0.2.3
 SBSDiff: 0.1.0
 SBdecomp: '1.1'
-SBmedian: 0.1.0
+SBmedian: 0.1.1
 SC.MEB: '1.0'
 SC2API: 1.0.0
 SCAT: 0.5.0
@@ -6238,7 +6239,7 @@ SynthETIC: 1.0.1
 SynthTools: 1.0.1
 SystemicR: 0.1.0
 T2EQ: '1.1'
-T4cluster: 0.1.1
+T4cluster: 0.1.2
 T4transport: 0.1.0
 TAF: 4.0.0
 TAG: 0.5.1
@@ -6821,6 +6822,7 @@ aPCoA: '1.2'
 aRbs: 0.1.3
 aRchi: 1.0.5
 aRpsDCA: 1.1.1
+aRtsy: 0.1.0
 aRxiv: 0.5.19
 aSPC: 0.1.2
 aSPU: '1.50'
@@ -7974,7 +7976,7 @@ boostmtree: 1.5.0
 boostr: 1.0.0
 boot: 1.3-28
 boot.heterogeneity: 1.1.2
-boot.pval: 0.1.0
+boot.pval: '0.2'
 bootComb: 1.0.2
 bootES: 1.2.1
 bootGOF: 0.1.0
@@ -8252,7 +8254,7 @@ casen: 0.1.4
 casino: 0.1.0
 caspar: '1.0'
 cassandRa: 0.1.0
-castor: 1.6.8
+castor: 1.6.9
 cat: 0.0-6.5
 cat.dt: 0.3.1
 cat2cat: 0.2.1
@@ -9137,6 +9139,7 @@ crossmatch: 1.3-1
 crossrun: 0.1.0
 crosstable: 0.2.1
 crosstalk: 1.1.1
+crosstalkr: 0.7.0
 crossval: 1.0.3
 crosswalkr: 0.2.6
 crossword.r: 0.3.6
@@ -10208,6 +10211,7 @@ eemdTDNN: 0.1.0
 eeptools: 1.2.4
 eesim: 0.1.0
 ef: 1.2.0
+efdm: 0.1.0
 eff2: 1.0.0
 effectFusion: '1.1'
 effectR: 1.0.2
@@ -10896,6 +10900,7 @@ fhidata: 2019.8.27
 fhircrackr: 1.0.1
 fiberLD: 0.1-6
 fic: 1.0.0
+fidap: 0.0.2
 fieldRS: 0.2.3
 fields: '12.5'
 fiery: 1.1.3
@@ -11087,7 +11092,7 @@ forestRK: 0.0-5
 forestSAS: 1.0.1
 forestecology: 0.1.0
 forestinventory: 1.0.0
-forestmangr: 0.9.3
+forestmangr: 0.9.4
 forestmodel: 0.6.2
 forestplot: 2.0.0
 forestr: 2.0.2
@@ -11675,6 +11680,7 @@ ggbreak: 0.0.4
 ggbuildr: 0.1.0
 ggbump: 0.1.0
 ggcharts: 0.2.1
+ggcleveland: 0.1.0
 ggcolpairs: 0.2.4
 ggconf: 0.1.3
 ggcorrplot: 0.1.3
@@ -13655,7 +13661,7 @@ littler: 0.3.13
 liureg: 1.1.2
 live: 1.5.13
 livechatR: 0.1.0
-liver: '1.7'
+liver: '1.8'
 ljr: 1.4-0
 llama: 0.10.1
 llbayesireg: 1.0.0
@@ -13956,6 +13962,7 @@ malan: 1.0.2
 malani: '1.0'
 malaria.em: '2.0'
 malariaAtlas: 1.0.1
+malaytextr: 0.1.0
 mallet: '1.0'
 managelocalrepo: 0.1.5
 mand: '1.0'
@@ -14208,6 +14215,7 @@ mediacloudr: 0.1.0
 mediateP: 0.1.0
 mediation: 4.5.0
 mediationsens: 0.0.2
+medicaldata: 0.2.0
 medicalrisk: '1.3'
 medicare: 0.2.1
 meditate: 0.1.3
@@ -15009,7 +15017,7 @@ mutSignatures: 2.1.1
 mutatr: '0.1'
 mutoss: 0.1-12
 mutossGUI: 0.1-11
-mutualinf: 1.0.1
+mutualinf: 1.1.0
 mvGPS: 1.1.1
 mvLSW: '1.2'
 mvMISE: '1.0'
@@ -15514,7 +15522,7 @@ obAnalytics: 0.1.1
 obfuscatoR: 0.2.1
 objectProperties: 0.6.7
 objectSignals: 0.10.2
-objectremover: 0.8.0
+objectremover: 0.8.1
 obliclus: '0.9'
 oblique.tree: '1.1'
 obliqueRF: '0.3'
@@ -16719,7 +16727,7 @@ presmTP: 1.1.0
 press: '2.0'
 pressData: '2.0'
 presser: 1.1.0
-prettifyAddins: 2.1.1
+prettifyAddins: 2.1.2
 prettyB: 0.2.2
 prettyGraphs: 2.1.6
 prettyR: 2.2-3
@@ -16822,6 +16830,7 @@ proptest: 0.1-5
 prospectr: 0.2.1
 protViz: 0.6.8
 protag: 1.0.0
+protein8k: 0.0.1
 proteomicdesign: '2.0'
 proteomics: '0.2'
 proteus: 1.0.0
@@ -17021,7 +17030,7 @@ qmix: 0.1.2.0
 qmrparser: 0.1.5
 qoma.smuggler: 0.0.1
 qp: 0.3-2
-qpNCA: 1.1.5
+qpNCA: 1.1.6
 qpcR: 1.4-1
 qpdf: '1.1'
 qpmadr: 1.1.0-0
@@ -19087,6 +19096,7 @@ simgof: 1.0.2
 simhelpers: 0.1.1
 similarityRichards: 0.5.0
 similr: 1.0.0
+simlandr: 0.1.1
 simmer: 4.4.3
 simmer.bricks: 0.2.1
 simmer.plot: 0.1.16
@@ -19123,6 +19133,7 @@ simstandard: 0.6.3
 simstudy: 0.2.1
 simsurv: 1.0.0
 simtimer: 4.0.0
+simtrait: 1.0.21
 simts: 0.1.1
 simukde: 1.3.0
 simul: 0.1.1
@@ -19579,7 +19590,7 @@ spiritR: 0.1.1
 splancs: 2.01-42
 splashr: 0.6.0
 splines: 2.0-7
-splines2: 0.4.3
+splines2: 0.4.4
 splinesurv: 0.6-14
 splinetree: 0.2.0
 splitFeas: 0.1.0
@@ -19730,6 +19741,7 @@ stampr: '0.2'
 standGL: '1.1'
 standardize: 0.2.2
 standartox: 0.0.1
+stanette: 2.21.2
 stapler: 0.7.1
 staplr: 3.1.1
 stargazer: 5.2.2
@@ -19766,6 +19778,7 @@ statfi: 0.9.8
 statgenGWAS: 1.0.7
 statgenGxE: 1.0.4
 statgenHTP: 1.0.3
+statgenIBD: 1.0.0
 statgenSTA: 1.0.8
 stationaRy: 0.5.1
 stationery: 0.98.30
@@ -19816,6 +19829,7 @@ sticky: 0.5.6.1
 stilt: 1.3.0
 stima: 1.2.1
 stinepack: '1.4'
+stlARIMA: 0.1.0
 stlELM: 0.1.0
 stlTDNN: 0.1.0
 stlcsb: 0.1.2
@@ -20643,7 +20657,7 @@ traj: '1.2'
 trajectories: 0.2-3
 trajr: 1.4.0
 tram: 0.6-0
-tramME: 0.1.1
+tramME: 0.1.2
 tramnet: 0.0-6
 tranSurv: 1.2.2
 transcribeR: 0.0.0
@@ -21594,6 +21608,7 @@ youtubecaption: 1.0.0
 ypr: 0.5.2
 yuima: 1.9.6
 yuimaGUI: 1.3.0
+yulab.utils: 0.0.2
 yum: 0.1.0
 yummlyr: 0.1.1
 zCompositions: 1.3.4
