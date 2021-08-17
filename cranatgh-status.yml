@@ -1283,7 +1283,7 @@ DEoptimR: 1.0-9
 DEploid: 0.5.3
 DFA: 0.9.0
 DFA.CANCOR: 0.2.1
-DFIT: 1.0-3
+DFIT: '1.1'
 DGCA: 1.0.2
 DGEobj: 1.0.3
 DGEobj.utils: 1.0.3
@@ -1926,7 +1926,7 @@ FRCC: '1.0'
 FREEtree: 0.1.0
 FREGAT: 1.1.0
 FREQ: '1.0'
-FRESA.CAD: 3.3.0
+FRESA.CAD: 3.3.1
 FREddyPro: '1.0'
 FRK: 2.0.0
 FRegSigCom: 0.3.0
@@ -2006,6 +2006,7 @@ FinePop: 1.5.1
 FinePop2: '0.4'
 FisHiCal: '1.1'
 FisPro: '1.1'
+Fiscore: 0.1.2
 FishResp: 1.1.0
 FisherEM: '1.6'
 FitAR: '1.94'
@@ -3014,7 +3015,7 @@ LPWC: 1.0.0
 LPmerge: '1.7'
 LPower: 0.1.1
 LPsmooth: 0.1.3
-LREP: 0.1.0
+LREP: 0.1.1
 LRQMM: 1.2.2
 LRTH: '1.3'
 LRcontrast: '1.0'
@@ -3206,6 +3207,7 @@ MCI: 1.3.3
 MCI2: 1.1.2
 MCL: '1.0'
 MCLIME: '1.1'
+MCM: 0.1.2
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
@@ -3648,6 +3650,7 @@ ModTools: 0.9.4
 Modalclust: '0.7'
 ModelGood: 1.0.9
 ModelMap: 3.4.0.1
+ModelMatrixModel: 0.1.0
 ModelMetrics: 1.2.2.2
 Modelcharts: 0.1.0
 Modeler: 3.4.5
@@ -6902,6 +6905,7 @@ adapr: 2.0.0
 adapt: '1.0'
 adapt4pv: 0.2-0
 adaptDA: '1.0'
+adaptDiag: 0.1.0
 adaptMCMC: '1.4'
 adaptMT: 1.0.0
 adaptTest: '1.0'
@@ -8787,6 +8791,7 @@ comato: '1.1'
 combinat: 0.0-8
 combinationpvalues: 0.1.3
 combinedevents: 0.1.1
+combiroc: 0.2.3
 combiter: 1.0.3
 comclim: 0.9.5
 cometExactTest: 0.1.5
@@ -9401,7 +9406,7 @@ datasus: 0.4.1
 datautils: 0.1.5
 dataverse: 0.3.9
 dataview: 2.1.1
-datawizard: 0.1.0
+datawizard: 0.2.0
 date: 1.2-39
 daterangepicker: 0.1.0
 datetime: 0.1.4
@@ -9860,6 +9865,7 @@ dockr: 0.8.6
 doconv: 0.1.3
 docopt: 0.7.1
 docopulae: 0.4.0
+docreview: 0.0.1
 docstring: 1.0.0
 doctr: 0.2.0
 docuSignr: 0.0.3
@@ -9921,7 +9927,7 @@ drLumi: 0.1.2
 dracor: 0.2.4
 dragon: 1.2.0
 dragonking: 0.1.0
-dragracer: 0.1.5
+dragracer: 0.1.6
 dragulaR: 0.3.1
 drake: 7.13.2
 drat: 0.2.1
@@ -11603,7 +11609,7 @@ geotech: '1.0'
 geotools: '0.1'
 geotoolsR: '1.1'
 geotopbricks: 1.5.4
-geouy: 0.2.4
+geouy: 0.2.5
 geoviz: 0.2.2
 geovol: '1.0'
 geozoning: 1.0.0
@@ -11703,7 +11709,7 @@ ggfocus: 1.0.0
 ggforce: 0.3.3
 ggformula: 0.10.1
 ggfortify: 0.4.12
-ggfun: 0.0.2
+ggfun: 0.0.3
 ggfx: 1.0.0
 gggap: 1.0.1
 gggenes: 0.4.1
@@ -11798,6 +11804,7 @@ ggswissmaps: 0.1.1
 ggtern: 3.3.5
 ggtext: 0.1.1
 ggthemes: 4.2.4
+ggtikz: 0.0.1
 ggupset: 0.3.0
 ggvenn: 0.1.9
 ggversa: 0.0.1
@@ -12490,7 +12497,7 @@ htm2txt: 2.1.1
 html2R: 0.1.0
 html5: 0.1.0
 htmlTable: 2.2.1
-htmldf: 0.3.0
+htmldf: 0.4.0
 htmltab: 0.8.1
 htmltidy: 0.5.0
 htmltools: 0.5.1.1
@@ -12676,7 +12683,7 @@ icesDatras: 1.3-0
 icesSAG: 1.3-6
 icesTAF: 3.6.0
 icesVocab: 1.1.9
-ichimoku: 0.3.0
+ichimoku: 1.0.0
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -12860,7 +12867,7 @@ insane: 0.1.0
 insect: 1.4.2
 insee: 1.1.0
 insideRODE: '2.0'
-insight: 0.14.2
+insight: 0.14.3
 insol: 1.2.2
 inspectdf: 0.0.11
 inspector: 1.0.3
@@ -13040,7 +13047,7 @@ iterators: 1.0.13
 iterpc: 0.4.2
 itertools: 0.1-3
 itertools2: 0.1.1
-itraxR: '1.2'
+itraxR: '1.4'
 itree: '0.1'
 its: 1.1.8
 its.analysis: 1.6.0
@@ -13974,7 +13981,7 @@ manhplot: '1.1'
 manifestoR: 1.5.0
 manipulate: 1.0.1
 manipulateWidget: 0.11.0
-manymodelr: 0.3.5
+manymodelr: 0.3.6
 maotai: 0.2.0
 mapDK: 0.3.0
 mapLD: 1.0-1
@@ -14113,6 +14120,7 @@ mbmixture: 0.2-5
 mboost: 2.9-5
 mboxr: 0.2.0
 mbr: 0.0.1
+mbrdr: 1.0.8
 mbrglm: 0.0.1
 mbsts: '2.2'
 mc.heterogeneity: 0.1.2
@@ -14176,7 +14184,7 @@ mda: 0.5-2
 mdapack: 0.0.2
 mdatools: 0.11.5
 mdbr: 0.1.2
-mde: 0.3.0
+mde: 0.3.1
 mded: 0.1-2
 mdendro: '2.0'
 mdftracks: 0.2.1
@@ -15333,7 +15341,7 @@ nmslibR: 1.0.5
 nmw: 0.1.4
 nnDiag: 0.0-5
 nnGarrote: 1.0.3
-nnTensor: 1.1.2
+nnTensor: 1.1.4
 nna: 0.0.2.1
 nnc: '1.14'
 nncRda: '1.87'
@@ -15858,7 +15866,7 @@ pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
 pacotest: 0.4.0
-pacs: 0.3.2
+pacs: 0.3.3
 pact: 0.5.0
 pacviz: 1.0.1
 padr: 0.5.3
@@ -17035,6 +17043,7 @@ qpcR: 1.4-1
 qpdf: '1.1'
 qpmadr: 1.1.0-0
 qqboxplot: 0.1.0
+qqconf: 1.0.0
 qqid: 1.0.3
 qqman: 0.1.8
 qqplotr: 0.0.5
@@ -18579,6 +18588,7 @@ scBio: 0.1.6
 scCAN: 1.0.1
 scDHA: 1.1.1
 scDIFtest: 0.1.1
+scDiffCom: 0.1.0
 scINSIGHT: 0.1.0
 scLink: 1.0.1
 scMappR: 1.0.2
@@ -20237,6 +20247,7 @@ taxizedb: 0.3.0
 taxlist: 0.2.2
 taxonomizr: 0.8.0
 taxotools: 0.0.79
+taylor: 0.2.0
 tbart: '1.0'
 tbd: 0.1.0
 tbdiag: '0.1'
@@ -20259,6 +20270,7 @@ tcltk2: 1.2-11
 tclust: 1.4-2
 tcpl: 2.0.2
 tcplfit2: 0.1.1
+tcsinvest: 0.1.1
 td: 0.0.4
 tdROC: '1.0'
 tdaunif: 0.1.0
@@ -20337,6 +20349,7 @@ textcat: 1.0-7
 textclean: 0.9.3
 textdata: 0.4.1
 texteffect: '0.3'
+texter: 0.0.0.9
 textfeatures: 0.3.3
 textgRid: 1.0.1
 textile: 0.1.4
@@ -20608,7 +20621,7 @@ tor: 1.1.2
 torch: 0.4.0
 torchaudio: 0.2.0
 torchdatasets: 0.0.1
-torchvision: 0.3.0
+torchvision: 0.4.0
 torus: '1.0'
 tosca: 0.3-1
 tosls: '1.0'
@@ -20677,7 +20690,7 @@ trapezoid: 2.0-0
 trawl: 0.2.2
 treasuryTR: 0.1.5
 treatSens: '2.1'
-tree: 1.0-40
+tree: 1.0-41
 tree.bins: 0.1.1
 tree.interpreter: 0.1.1
 treeClust: 1.1-7
