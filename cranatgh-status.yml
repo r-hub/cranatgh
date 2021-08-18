@@ -90,7 +90,7 @@ ANOVAShiny2: 0.1.0
 ANOVAreplication: 1.1.4
 AOV1R: 0.1.0
 AOfamilies: '1.0'
-APAtree: 1.0.0
+APAtree: 1.0.1
 APCI: 0.1.0
 APCanalysis: '1.0'
 APFr: 1.0.2
@@ -4364,7 +4364,7 @@ PoisBinOrdNor: 1.6.3
 PoisNonNor: 1.6.3
 PoisNor: 1.3.3
 PoissonBinomial: 1.2.4
-PoissonPCA: 1.0.2
+PoissonPCA: 1.0.3
 PoissonSeq: 1.1.2
 PolicyPortfolios: 0.2.2
 PoloniexR: 0.0.1
@@ -4743,7 +4743,7 @@ RHawkes: '0.0'
 RHclust: 1.0.0
 RHive: 2.0-0.2
 RHmm: 2.0.3
-RHybridFinder: 0.1.0
+RHybridFinder: 0.2.0
 RI2by2: '1.3'
 RIA: 1.6.0
 RIFS: 0.1-5
@@ -4764,7 +4764,7 @@ RItools: 0.1-17
 RJDBC: 0.2-8
 RJDemetra: 0.1.7
 RJSDMX: 2.3-3
-RJSONIO: 1.3-1.4
+RJSONIO: 1.3-1.5
 RJSONLD: '1.0'
 RJSplot: '2.5'
 RJaCGH: 2.0.4
@@ -5540,7 +5540,7 @@ Rwtss: 0.9.1
 RxCEcolInf: 0.1-4
 RxODE: 1.1.0
 RxnSim: 1.0.3
-Rxnat: 1.0.14
+Rxnat: 1.0.8
 Ryacas: 1.1.3.1
 Ryacas0: 0.4.3
 Rz: 0.9-1
@@ -6769,7 +6769,7 @@ XICOR: 0.3.3
 XKCDdata: 0.1.0
 XLConnect: 1.0.4
 XLConnectJars: 0.2-9
-XML: 3.99-0.6
+XML: 3.99-0.7
 XML2R: 0.0.6
 XMLSchema: 0.7-0
 XMRF: '1.0'
@@ -7024,7 +7024,7 @@ airt: 0.2.0
 ajv: 1.0.0
 akc: 0.9.5
 akiFlagger: 0.3.0
-akima: 0.6-2.1
+akima: 0.6-2.2
 akmbiclust: 0.1.0
 akmeans: '1.1'
 akmedoids: 1.3.0
@@ -9428,7 +9428,7 @@ dbMC: 1.0.0
 dbWebForms: 0.1.0
 dbarts: 0.9-19
 dbcsp: 0.0.1.0
-dbd: 0.0-8
+dbd: 0.0-21
 dbfaker: 0.1.0
 dbflobr: 0.1.0
 dbglm: 1.0.0
@@ -9922,7 +9922,7 @@ dpseg: 0.1.1
 dqrng: 0.3.0
 dqshiny: 0.0.4
 dr: 3.0.10
-dr4pl: 1.1.11
+dr4pl: 2.0.0
 drLumi: 0.1.2
 dracor: 0.2.4
 dragon: 1.2.0
@@ -12011,7 +12011,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.3.4
-gpboost: 0.6.6
+gpboost: 0.6.7
 gpclib: 1.5-6
 gpg: 1.2.3
 gphmm: 0.99.0
@@ -12462,7 +12462,7 @@ horserule: 1.0.0
 horseshoe: 0.2.0
 horseshoenlm: 0.0.6
 hot: '0.3'
-hot.deck: 1.1-2
+hot.deck: '1.2'
 hotspot: '1.0'
 hotspots: 1.0.3
 housingData: 0.3.0
@@ -13266,7 +13266,7 @@ kirby21.base: 1.7.3
 kirby21.fmri: 1.7.0
 kirby21.t1: 1.7.0
 kissmig: 1.0-3
-kit: 0.0.7
+kit: 0.0.8
 kitagawa: 3.1.0
 kittyR: 1.1.0
 kiwisR: 0.2.0
@@ -13429,7 +13429,7 @@ latentnetHRT: 0.7-18
 later: 1.2.0
 latex2exp: 0.5.0
 latexdiffr: 0.1.0
-latexpdf: 0.1.6
+latexpdf: 0.1.7
 latrend: 1.1.2
 latte: 0.2.1
 lattice: 0.20-44
@@ -13969,7 +13969,7 @@ malan: 1.0.2
 malani: '1.0'
 malaria.em: '2.0'
 malariaAtlas: 1.0.1
-malaytextr: 0.1.0
+malaytextr: 0.1.1
 mallet: '1.0'
 managelocalrepo: 0.1.5
 mand: '1.0'
@@ -14303,7 +14303,7 @@ metafuse: 2.0-1
 metagam: 0.2.0
 metagear: '0.7'
 metagen: '1.0'
-metaggR: 0.1.0
+metaggR: 0.2.0
 metaheur: 0.2.0
 metaheuristicOpt: 2.0.0
 metajam: 0.2.3
@@ -14383,7 +14383,7 @@ miLineage: '2.1'
 miP: '1.1'
 miRNAss: '1.5'
 miRada: 1.13.8-8
-miRecSurv: 1.0.1
+miRecSurv: 1.0.2
 miRetrieve: 1.3.2
 miRtest: '1.8'
 miWQS: 0.4.4
@@ -14602,7 +14602,7 @@ mlr3db: 0.4.1
 mlr3filters: 0.4.2
 mlr3fselect: 0.5.1
 mlr3hyperband: 0.1.2
-mlr3learners: 0.4.5
+mlr3learners: 0.5.0
 mlr3measures: 0.3.1
 mlr3misc: 0.9.3
 mlr3oml: 0.4.3
@@ -15415,7 +15415,7 @@ nortestARMA: 1.0.2
 nortsTest: 1.0.3
 nos: 1.1.0
 nose: '1.0'
-nosoi: 1.0.3
+nosoi: 1.1.0
 not: '1.2'
 noteMD: 0.1.0
 notifier: 1.0.0
@@ -15653,7 +15653,7 @@ openair: 2.8-3
 openblender: 0.5.81
 opencage: 0.2.2
 opencastR: 0.1.3
-opencpu: 2.2.4
+opencpu: 2.2.5
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
 opencv: 0.2.1
@@ -15714,7 +15714,7 @@ optional: '2.0'
 optionstrat: 1.4.1
 optiscale: 1.2.2
 optismixture: '0.1'
-optmatch: 0.9-14
+optmatch: 0.9-15
 optparse: 1.6.6
 optpart: 3.0-3
 optrcdmaeAT: 1.0.0
@@ -15729,7 +15729,7 @@ orclus: 0.2-6
 orcutt: '2.3'
 ordBTL: '0.8'
 ordDisp: 2.1.1
-ordPens: 0.3-1
+ordPens: 1.0.0
 ordcrm: 1.0.0
 orddom: '3.1'
 orderbook: '1.03'
@@ -17111,7 +17111,7 @@ quantable: 0.3.6
 quantchem: '0.13'
 quantdates: '1.0'
 quantdr: 1.2.0
-quanteda: 3.0.0
+quanteda: 3.1.0
 quanteda.textmodels: 0.9.4
 quanteda.textplots: '0.94'
 quanteda.textstats: 0.94.1
@@ -19203,7 +19203,7 @@ sklarsomega: 2.0-1
 skm: 0.1.5.4
 skmeans: 0.2-13
 sknifedatar: 0.1.2
-skpr: 0.66.5
+skpr: 1.0.0
 skynet: 1.4.0
 skyscapeR: 0.2.2
 sla: '0.1'
@@ -20618,7 +20618,7 @@ topologyGSA: 1.4.7
 topsa: 0.1.0
 topsis: '1.0'
 tor: 1.1.2
-torch: 0.4.0
+torch: 0.5.0
 torchaudio: 0.2.0
 torchdatasets: 0.0.1
 torchvision: 0.4.0
