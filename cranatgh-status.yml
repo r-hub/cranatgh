@@ -1433,7 +1433,7 @@ DeRezende.Ferreira: 0.1.0
 DealGPL570: 0.2.0
 DecisionAnalysis: 1.1.0
 DecisionCurve: '1.4'
-DeclareDesign: 0.26.0
+DeclareDesign: 0.28.0
 DecomposeR: 1.0.4
 DecorateR: 0.1.2
 Deducer: 0.7-9
@@ -3874,7 +3874,7 @@ NetWeaver: 0.0.6
 NetworkAnalysis: 0.3-1
 NetworkChange: '0.7'
 NetworkComparisonTest: 2.2.1
-NetworkDistance: 0.3.3
+NetworkDistance: 0.3.4
 NetworkExtinction: 0.1.1
 NetworkInference: 1.2.4
 NetworkReg: '1.0'
@@ -4965,7 +4965,7 @@ RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.1.4
 RSQLServer: 0.3.0
-RSQLite: 2.2.7
+RSQLite: 2.2.8
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.3
 RSSOP: '1.1'
@@ -5222,7 +5222,7 @@ RcppEnsmallen: 0.2.17.0.1
 RcppExamples: 0.1.9
 RcppFaddeeva: 0.1.0
 RcppFarmHash: 0.0.2
-RcppFastFloat: 0.0.2
+RcppFastFloat: 0.0.3
 RcppGSL: 0.3.9
 RcppGetconf: 0.0.3
 RcppGreedySetCover: 0.1.0
@@ -5376,7 +5376,7 @@ Ricetl: 0.2.5
 RichR: 1.0.0
 RidgeFusion: 1.0-3
 Ridit: '1.1'
-RiemBase: 0.2.4
+RiemBase: 0.2.5
 RiemBaseExt: 0.1.2
 RiemGrassmann: 0.1.0
 RiemStiefel: 0.1.1
@@ -5404,7 +5404,7 @@ Rlda: 0.2.6
 Rlgt: 0.1-3
 Rlibeemd: 1.4.1
 Rlinkedin: '0.2'
-Rlinsolve: 0.3.1
+Rlinsolve: 0.3.2
 Rlof: 1.1.2
 Rlsf: 1.1.1
 RmSQL: 0.3-9
@@ -6949,7 +6949,7 @@ adfExplorer: 0.1.4
 adheRenceRX: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.3
-adiv: 2.0.1
+adiv: '2.1'
 adjclust: 0.6.3
 adjustedcranlogs: 0.1.0
 adk: '1.0'
@@ -9359,7 +9359,7 @@ dashHtmlComponents: 1.0.3
 dashPivottable: 0.0.2-1
 dashTable: 4.7.0
 dashboard: 0.1.0
-dashboardthemes: 1.1.3
+dashboardthemes: 1.1.5
 dat: 0.5.0
 data.table: 1.14.0
 data.tree: 1.0.0
@@ -10308,7 +10308,7 @@ eltr: 0.1.0
 em2: '0.9'
 emIRT: 0.0.11
 emax.glm: 0.1.2
-emayili: 0.4.15
+emayili: 0.4.16
 emba: 0.1.8
 embed: 0.1.4
 embryogrowth: '8.1'
@@ -10935,7 +10935,7 @@ filenamer: 0.2.3
 fileplyr: 0.2.0
 files: 0.0.1
 filesstrings: 3.2.2
-filling: 0.2.2
+filling: 0.2.3
 fillr: 1.0.0
 filterviewR: '0.11'
 finalfit: 1.0.3
@@ -14089,7 +14089,7 @@ maticce: 1.0-3
 matie: '1.2'
 matlab: 1.0.2
 matlabr: 1.5.2
-matlib: 0.9.4
+matlib: 0.9.5
 matman: 1.1.2
 matpow: 0.1.1
 matricks: 0.8.2
@@ -14379,7 +14379,7 @@ mfr: '1.04'
 mfx: 1.2-2
 mgarchBEKK: 0.0.2
 mgc: 2.0.2
-mgcViz: 0.1.6
+mgcViz: 0.1.8
 mgcv: 1.8-36
 mgee2: '0.2'
 mglR: 0.1.0
@@ -16034,7 +16034,7 @@ patentsview: 0.2.2
 path.chain: 0.2.0
 pathClass: '0.9'
 pathdiagram: 0.1.9.1
-pathfindR: 1.6.1
+pathfindR: 1.6.2
 pathfindR.data: 1.1.2
 pathlibr: 0.1.0
 pathlit: 0.1.0
@@ -17910,7 +17910,7 @@ rgexf: 0.16.2
 rggm: 1.0.1
 rggobi: 2.1.9
 rgho: 2.0.1
-rgl: 0.107.10
+rgl: 0.107.14
 rglobi: 0.2.25
 rglwidget: 0.2.1
 rgnparser: 0.2.0
@@ -18952,7 +18952,7 @@ sharpeRratio: 1.4.2
 sharpr2: 1.1.1.0
 sharpshootR: 1.8.1
 sharx: 1.0-5
-shattering: 1.0.6
+shattering: 1.0.7
 shatteringdt: 0.1.0
 shazam: 1.1.0
 sheldusr: '0.1'
@@ -19363,7 +19363,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
-soilDB: 2.6.3
+soilDB: 2.6.5
 soilassessment: 0.2.1
 soilcarbon: 1.2.0
 soilphysics: '4.0'
@@ -19521,7 +19521,7 @@ spatial.tools: 1.6.2
 spatialClust: 1.1.1
 spatialCovariance: 0.6-9
 spatialEco: 1.3-7
-spatialTIME: 1.0.0
+spatialTIME: 1.1.0
 spatialTailDep: '1.0'
 spatialfil: '0.15'
 spatialfusion: 0.6-3
