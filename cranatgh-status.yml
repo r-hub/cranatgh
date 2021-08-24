@@ -1128,7 +1128,7 @@ ConvCalendar: '1.2'
 ConvergenceClubs: 2.2.1
 ConvergenceConcepts: 1.2.2
 Convolutioner: 0.1.0
-CoopGame: 0.2.1
+CoopGame: 0.2.2
 CoordinateCleaner: 2.0-18
 CopCTS: 1.0.0
 CopernicusDEM: 1.0.1
@@ -1364,7 +1364,7 @@ DSI: 1.3.0
 DSL: 0.1-7
 DSLite: 1.3.0
 DSMolgenisArmadillo: 1.3.5
-DSOpal: 1.3.0
+DSOpal: 1.3.1
 DSSAT: 0.0.3
 DSWE: 1.5.1
 DSjobtracker: 0.1.1
@@ -2391,6 +2391,7 @@ Goslate: '1.0'
 Gotoh: '0.9'
 GpGp: 0.4.0
 Grace: 0.5.3
+GramQuad: '0.1'
 GrammR: 1.1.0
 GraphFactor: '1.1'
 GraphKit: '0.5'
@@ -2946,6 +2947,7 @@ LBSPR: 0.1.5
 LCA: 0.1.1
 LCAextend: '1.3'
 LCAvarsel: '1.1'
+LCCR: '1.0'
 LCF: 1.7.0
 LCFdata: '2.0'
 LCMCR: 0.4.11
@@ -3301,6 +3303,7 @@ MIPHENO: '1.2'
 MIRES: 0.1.0
 MIRL: '1.0'
 MISA: 2.11.1-1.0
+MIWilson: 1.0.0
 MIXFIM: '1.1'
 MIfuns: '5.1'
 MImix: '1.0'
@@ -3506,7 +3509,7 @@ MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
 MatchItSE: '1.0'
 MatchLinReg: 0.7.3
-MatchThem: 1.0.0
+MatchThem: 1.0.1
 Matching: 4.9-9
 MatchingFrontier: 1.0.0
 Matrix: 1.3-4
@@ -3594,7 +3597,7 @@ MfUSampler: 1.0.4
 MiClip: '1.3'
 MiDA: 0.1.2
 MiRAnorm: 1.0.0
-MiRKAT: 1.1.4
+MiRKAT: 1.1.5
 MiRNAQCD: 1.1.2
 MiRSEA: '1.1'
 MiSPU: '1.0'
@@ -3640,7 +3643,7 @@ MixtureInf: '1.1'
 MixtureRegLTIC: 1.0.0
 MlBayesOpt: 0.3.4
 MmgraphR: '0.3'
-MoBPS: 1.4.87
+MoBPS: 1.6.54
 MoEClust: 1.4.0
 MoLE: 1.0.1
 MoMPCA: 1.0.1
@@ -5025,7 +5028,7 @@ RUVIIIC: 1.0.19
 RUnit: 0.4.32
 RVA: 0.0.4
 RVAideMemoire: 0.9-80
-RVCompare: 0.1.2
+RVCompare: 0.1.5
 RVFam: '1.1'
 RVIpkg: 0.2.6
 RVPedigree: 0.0.3
@@ -5296,7 +5299,7 @@ RecordLinkage: 0.4-12.1
 RecordTest: 2.1.0
 Records: '1.0'
 RecurRisk: '1.0'
-RedditExtractoR: 2.1.5
+RedditExtractoR: 3.0.1
 RedisBaseContainer: 1.0.1
 Rediscover: 0.2.0
 Redmonder: 0.2.0
@@ -6269,7 +6272,7 @@ TCGAretriever: '1.5'
 TCIApathfinder: 1.0.6
 TCIU: 1.2.0
 TDA: 1.7.7
-TDAkit: 0.1.0
+TDAkit: 0.1.2
 TDAmapper: '1.0'
 TDAstats: 0.4.1
 TDCor: 0.1-2
@@ -6685,6 +6688,7 @@ W2CWM2C: '2.2'
 W3CMarkupValidator: 0.1-6
 WACS: 1.1.0
 WARN: 1.2-4
+WASP: 1.4.0
 WCE: 1.0.2
 WCM: 0.2.2
 WCQ: '0.2'
@@ -7840,7 +7844,7 @@ biofiles: 1.0.0
 biogas: 1.23.2
 biogeo: '1.0'
 biogram: 1.6.3
-biogrowth: 0.2.2
+biogrowth: 0.2.3
 bioimagetools: 1.1.5
 bioinactivation: 1.2.3
 biokNN: 0.1.0
@@ -8074,7 +8078,7 @@ briskaR: 1.0.2
 brlr: 0.9-1
 brlrmr: 0.1.7
 brm: 1.1.1
-brms: 2.16.0
+brms: 2.16.1
 brnn: '0.8'
 brokenstick: 1.1.0
 brolgar: 0.1.1
@@ -8509,7 +8513,7 @@ cin: '0.1'
 cinaR: 0.2.1
 cinaRgenesets: 0.1.1
 cinterpolate: 1.0.0
-cir: 2.1.1
+cir: 2.2.0
 circacompare: 0.1.1
 circglmbayes: 1.3.0
 circle: 0.7.1
@@ -9209,6 +9213,7 @@ csvread: 1.2.1
 csvwr: 0.1.5
 csvy: 0.3.0
 ctDNAtools: 0.4.0
+cta: 1.3.0
 ctest: 0.9-21
 ctf: 0.1.0
 ctgdist: 0.1.0
@@ -9221,7 +9226,7 @@ ctmcmove: 1.2.9
 ctmle: 0.1.2
 ctmm: 0.6.1
 ctqr: '2.0'
-ctrdata: 1.7.0
+ctrdata: 1.7.1
 ctrlGene: 1.0.1
 cts: '1.0'
 ctsem: 3.5.4
@@ -9659,7 +9664,7 @@ diagonals: 6.0.0
 diagram: 1.6.5
 dialectR: '1.0'
 dialr: 0.4.0
-dialrjars: 8.12.28
+dialrjars: 8.12.29
 dials: 0.0.9
 diamonds: 1.0-5
 diaplt: 1.3.0
@@ -9730,7 +9735,7 @@ dirichlet: '1.0'
 dirichletprocess: 0.4.0
 dirmcmc: 1.3.3
 dirmult: 0.1.3-4
-disaggR: 1.0.1
+disaggR: 1.0.2
 disaggregation: 0.1.3
 disastr.api: 1.0.5
 discAUC: 0.4.0
@@ -9846,7 +9851,7 @@ dmt: 0.8.20
 dmtools: 0.2.6
 dmutate: 0.1.3
 dna: 2.1-2
-dnapath: 0.6.8
+dnapath: 0.6.9
 dnc: '1.2'
 dnet: 1.1.7
 dng: 0.2.1
@@ -9859,7 +9864,7 @@ doMIsaul: 1.0.0
 doMPI: 0.2.2
 doParallel: 1.0.16
 doRNG: 1.8.2
-doRedis: 2.0.0
+doRedis: 3.0.0
 doSMP: 1.0-1
 doSNOW: 1.0.19
 dobin: 1.0.2
@@ -11315,7 +11320,7 @@ gDefrag: '0.3'
 gIPFrm: '3.1'
 gLRTH: 0.2.0
 gMCP: 0.8-15
-gMOIP: 1.4.6
+gMOIP: 1.4.7
 gMWT: 1.1.1
 gPCA: '1.0'
 gPdtest: '0.4'
@@ -11564,7 +11569,7 @@ geoTS: 0.1.3
 geoaxe: 0.1.0
 geobr: 1.6.4
 geocacheR: 0.1.0
-geocmeans: 0.1.1
+geocmeans: 0.2.0
 geocodeHERE: '0.1'
 geodaData: 0.1.0
 geodata: 0.2-3
@@ -12039,7 +12044,7 @@ gpmap: 0.1.2
 gppm: 0.2.0
 gppois: 0.2-1
 gpr: '1.1'
-gprofiler2: 0.2.0
+gprofiler2: 0.2.1
 gptk: '1.08'
 gpuR: 2.0.3
 gputools: '1.1'
@@ -12329,8 +12334,9 @@ healthforum: 0.1.0
 healthyR: 0.1.6
 healthyR.ai: 0.0.1
 healthyR.data: 1.0.1
-healthyR.ts: 0.1.2
-healthyverse: 1.0.0
+healthyR.ts: 0.1.3
+healthyverse: 1.0.1
+heapsofpapers: 0.1.0
 heatex: '1.0'
 heatmap.plus: '1.3'
 heatmap3: 1.1.9
@@ -12700,7 +12706,7 @@ icesDatras: 1.3-0
 icesSAG: 1.3-6
 icesTAF: 3.6.0
 icesVocab: 1.1.9
-ichimoku: 1.0.0
+ichimoku: 1.1.0
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -12832,7 +12838,7 @@ incadata: 0.9.1
 incase: 0.3.1
 incgraph: 1.0.1
 incidence: 1.7.3
-incidence2: 1.2.1
+incidence2: 1.2.2
 incidental: '0.1'
 inctools: 1.0.15
 indelmiss: 1.0.9
@@ -13032,7 +13038,7 @@ isingLenzMC: 0.2.5
 island: 0.2.7
 islasso: 1.3.1
 ismev: '1.42'
-isni: '1.2'
+isni: '1.3'
 isnullptr: 1.0.1
 isoSurv: 0.2.0
 isoWater: 1.0.1
@@ -13135,7 +13141,7 @@ jmetrik: '1.1'
 jmotif: 1.1.1
 jmuOutlier: '2.2'
 jmv: '2.0'
-jmvReadWrite: 0.1.0
+jmvReadWrite: 0.2.1
 jmvconnect: 2.0.0
 jmvcore: '1.8'
 job: 0.3.0
@@ -13579,7 +13585,7 @@ lexiconPT: 0.1.0
 lfactors: 1.0.4
 lfda: 1.1.3
 lfe: 2.8-7
-lfl: 2.1.1
+lfl: 2.1.2
 lfmm: '1.1'
 lfstat: 0.9.4
 lg: 0.4.1
@@ -14052,7 +14058,7 @@ margins: 0.3.26
 marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
-mark: 0.1.4
+mark: 0.2.0
 markdown: '1.1'
 markdownInput: 0.1.2
 marked: 1.2.6
@@ -14096,7 +14102,7 @@ matricks: 0.8.2
 matrixLaplacian: '1.0'
 matrixNormal: 0.0.5
 matrixProfile: 0.5.0
-matrixStats: 0.60.0
+matrixStats: 0.60.1
 matrixStrucTest: 1.0.0
 matrixTests: 0.1.9
 matrixcalc: 1.0-5
@@ -14257,6 +14263,7 @@ megaptera: 1.0-0
 meifly: '0.3'
 mekko: 0.1.0
 melody: 0.4.7
+meltr: 1.0.0
 meltt: 0.4.1
 melviewr: 0.0.1
 mem: '2.16'
@@ -14594,7 +14601,7 @@ mle.tools: 1.0.0
 mleap: 1.1.0
 mlearning: 1.0-0
 mlegp: 3.1.8
-mlergm: '0.7'
+mlergm: '0.8'
 mleur: 1.0-6
 mlf: 1.2.1
 mlfit: 0.5.2
@@ -14774,6 +14781,7 @@ monmlp: 1.1.5
 monoClust: 1.2.1
 monoProc: 1.0-6
 monobin: 0.1.1
+monobinShiny: 0.0.9
 monogeneaGM: '1.1'
 monographaR: 1.2.1
 monomvn: 1.9-13
@@ -14806,7 +14814,7 @@ mosmafs: 0.1.2
 mosqcontrol: 0.1.0
 mosum: 1.2.6
 mota: '1.2'
-motif: 0.4.3
+motif: 0.5.0
 motifcluster: 0.1.1
 motifr: 1.0.0
 motmot: 2.1.3
@@ -14853,7 +14861,7 @@ mrMLM.GUI: 4.0.2
 mra: 2.16.11
 mratios: 1.4.2
 mrbayes: 0.4.0
-mrbin: 1.5.2
+mrbin: 1.6.0
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
 mrds: 2.2.5
@@ -15047,7 +15055,7 @@ mutSignatures: 2.1.1
 mutatr: '0.1'
 mutoss: 0.1-12
 mutossGUI: 0.1-11
-mutualinf: 1.1.0
+mutualinf: 1.1.1
 mvGPS: 1.1.1
 mvLSW: '1.2'
 mvMISE: '1.0'
@@ -15138,7 +15146,7 @@ naptime: 1.3.0
 nardl: 0.1.6
 narray: 0.4.1.1
 nasadata: 0.9.0
-nasapower: 3.0.1
+nasapower: 4.0.0
 nasaweather: '0.1'
 naspaclust: 0.2.1
 nat: 1.8.16
@@ -15503,7 +15511,7 @@ nscprepr: 0.1.1
 nsdr: 0.1.1
 nse: '1.20'
 nse2r: 0.1.5
-nser: 1.2.0
+nser: 1.3.0
 nseval: '0.4'
 nsga2R: '1.0'
 nsga3: 0.0.3
@@ -15657,7 +15665,7 @@ oolong: 0.4.0
 oompaBase: 3.2.9
 oompaData: 3.1.1
 oosp: 0.3.3
-opalr: 3.0.0
+opalr: 3.0.1
 opart: 2019.1.0
 opdisDownsampling: 0.6.0
 opefimor: '1.2'
@@ -15670,7 +15678,7 @@ openNLPmodels: 0.0-3
 openNLPmodels.en: 0.0-4
 openNLPmodels.es: 0.0-4
 openSTARS: 1.2.2
-openSkies: 1.1.3
+openSkies: 1.1.4
 openVA: 1.0.12
 openadds: 0.2.0
 openair: 2.8-3
@@ -16011,8 +16019,8 @@ partitionMetric: '1.1'
 partitions: 1.10-2
 partools: 1.1.6
 partsm: 1.1-3
-party: 1.3-7
-partykit: 1.2-13
+party: 1.3-8
+partykit: 1.2-15
 parviol: '1.1'
 parzer: 0.4.0
 pasadr: '1.0'
@@ -16055,18 +16063,18 @@ pavo: 2.7.0
 pawacc: 1.2.2
 pawls: 1.0.0
 paws: 0.1.11
-paws.analytics: 0.1.11
-paws.application.integration: 0.1.11
+paws.analytics: 0.1.12
+paws.application.integration: 0.1.12
 paws.common: 0.3.12
-paws.compute: 0.1.11
-paws.cost.management: 0.1.11
-paws.customer.engagement: 0.1.11
-paws.database: 0.1.11
-paws.machine.learning: 0.1.11
-paws.management: 0.1.11
-paws.networking: 0.1.11
-paws.security.identity: 0.1.11
-paws.storage: 0.1.11
+paws.compute: 0.1.12
+paws.cost.management: 0.1.12
+paws.customer.engagement: 0.1.12
+paws.database: 0.1.12
+paws.machine.learning: 0.1.12
+paws.management: 0.1.12
+paws.networking: 0.1.12
+paws.security.identity: 0.1.12
+paws.storage: 0.1.12
 pbapply: 1.4-3
 pbatR: 2.2-13
 pbdBASE: 0.5-3
@@ -16295,6 +16303,7 @@ phonTools: 0.2-2.1
 phonenumber: 0.2.3
 phonfieldwork: 0.0.11
 phonics: 1.3.10
+phosphoricons: 0.1.1
 photobiology: 0.10.6
 photobiologyFilters: 0.5.2
 photobiologyInOut: 0.4.22-1
@@ -16520,6 +16529,7 @@ pmfdR: '1.0'
 pmg: 0.9-43
 pmhtutorial: '1.5'
 pmlbr: 0.2.0
+pmledecon: 0.1.0
 pmlr: '1.0'
 pmml: 2.4.0
 pmmlTransformations: 1.3.3
@@ -17231,7 +17241,7 @@ rCUR: '1.3'
 rCarto: '0.8'
 rChoiceDialogs: 1.0.6
 rClinicalCodes: 1.0.1
-rD3plot: 1.0.10
+rD3plot: 1.0.22
 rDEA: 1.2-6
 rDNA: '1.31'
 rDNAse: 1.1-1
@@ -17435,7 +17445,7 @@ rareGE: '0.1'
 rareNMtests: '1.1'
 rarhsmm: 1.0.7
 rarms: 1.0.0
-rasciidoc: 3.1.2
+rasciidoc: 3.1.3
 rasclass: 0.2.2
 rase: 0.3-3
 raster: 3.4-13
@@ -18211,7 +18221,7 @@ round: 0.20-0
 roundhouse: 0.0.2
 routr: 0.4.0
 rowr: 1.1.3
-roxut: 0.3.23
+roxut: 0.4.0
 roxyPackage: 0.03-6
 roxygen: '0.1'
 roxygen2: 7.1.1
@@ -18490,7 +18500,7 @@ rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.8
 s2: 1.0.6
-s20x: 3.1-30
+s20x: 3.1-31
 s2dv: 1.0.0
 s2dverification: 2.10.0
 s2net: 1.0.1
@@ -18499,6 +18509,7 @@ s4vd: 1.1-1
 sAIC: '1.0'
 sBF: 1.1.1
 sBIC: 0.2.0
+sClust: '1.0'
 sEparaTe: 0.3.0
 sExtinct: '1.1'
 sFFLHD: 0.1.2
@@ -18765,7 +18776,7 @@ secsse: 2.1.7
 secuTrialR: 1.0.9
 secure: '0.6'
 securitytxt: 0.1.1
-see: 0.6.4
+see: 0.6.7
 seeclickfixr: 1.1.0
 seecolor: 0.1.0
 seedCCA: '3.0'
@@ -20469,6 +20480,7 @@ tidyboot: 0.1.1
 tidycat: 0.1.2
 tidycells: 0.2.2
 tidycensus: '1.0'
+tidycharts: 0.1.2
 tidycode: 0.1.1
 tidycomm: 0.2.1
 tidycwl: 1.0.5
@@ -20889,7 +20901,7 @@ turner: 0.1.7
 tutoR: 0.3.2
 tutorial: 0.4.3
 tuts: 0.1.1
-tvR: 0.3.1
+tvR: 0.3.2
 tvReg: 0.5.4
 tvd: 0.1.0
 tvem: '1.3'
@@ -21066,7 +21078,7 @@ utility: 1.4.5
 utilityFunctionTools: 0.1.1
 utilsIPEA: 0.0.6
 utiml: 0.1.7
-utr.annotation: 1.0.3
+utr.annotation: 1.0.4
 uuid: 0.1-4
 uwIntroStats: 0.0.7
 uwo4419: 0.3.0
@@ -21304,7 +21316,7 @@ wahc: '1.0'
 waiter: 0.2.3
 wakefield: 0.3.6
 wal: 0.1.0
-waldo: 0.2.5
+waldo: 0.3.0
 waldwolf: '0.1'
 walkalytics: 0.1.0
 walker: 1.0.2
@@ -21440,7 +21452,7 @@ wild1: '1.09'
 wildcard: 1.1.0
 wildlifeDI: 0.4.1
 wildpoker: '1.1'
-wildviz: 0.1.1
+wildviz: 0.1.2
 wilson: 2.4.2
 winRatioAnalysis: 0.1.0
 winch: 0.0.6
