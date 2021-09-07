@@ -887,6 +887,7 @@ CSGo: 0.6.7
 CSIndicators: 0.0.1
 CSMES: 1.0.0
 CSS: '1.0'
+CSTE: '1.0'
 CSTools: 4.0.0
 CSUV: 0.1.1
 CSclone: '1.0'
@@ -2285,7 +2286,7 @@ GWI: 1.0.2
 GWLelast: 1.2.2
 GWRM: 2.1.0.4
 GWSDAT: 3.1.0
-GWmodel: 2.2-6
+GWmodel: 2.2-7
 GWnnegPCA: 0.0.4
 GWpcor: 0.1.6
 GWsignif: '1.2'
@@ -3295,6 +3296,7 @@ MHTmult: 0.1.0
 MHTrajectoryR: 1.0.1
 MHadaptive: 1.1-8
 MIAmaxent: 1.2.0
+MICsplines: '1.0'
 MIDASwrappeR: 0.5.1
 MIDN: '1.0'
 MIICD: '2.4'
@@ -6066,7 +6068,7 @@ SolveSAPHE: 2.1.0
 SongEvo: 1.0.0
 SorptionAnalysis: 0.1.0
 SortableHTMLTables: 0.1-3
-SortedEffects: 1.5.0
+SortedEffects: 1.6.0
 SoundShape: 1.1.0
 SoundexBR: '1.2'
 SoupX: 1.5.2
@@ -6945,6 +6947,7 @@ additivityTests: 1.1-4
 addreg: '3.0'
 ade4: 1.7-17
 ade4TkGUI: 0.3-1
+adea: 1.1.6
 adeba: 1.1.2
 adegenet: 2.1.4
 adegraphics: 1.0-15
@@ -7664,7 +7667,7 @@ beans: 0.1.0
 beanz: '2.4'
 bear: 2.6.4
 beast: '1.1'
-beastier: 2.4.6
+beastier: 2.4.7
 beats: 0.1.1
 beautier: 2.6.2
 bedr: 1.0.7
@@ -8615,7 +8618,7 @@ clinmon: 0.6.0
 clinsig: '1.2'
 clinspacy: 1.0.2
 clintools: 0.8.5
-clipp: 1.0.1
+clipp: 1.1.0
 clipr: 0.7.1
 cliqueMS: 0.3.1
 clisymbols: 1.2.0
@@ -9435,6 +9438,7 @@ datautils: 0.1.5
 dataverse: 0.3.9
 dataview: 2.1.1
 datawizard: 0.2.0.1
+datazoom.amazonia: 0.1.0
 date: 1.2-39
 daterangepicker: 0.1.0
 datetime: 0.1.4
@@ -9636,6 +9640,7 @@ devEMF: 4.0-2
 devFunc: '0.1'
 devRate: 0.2.1
 devoid: 0.1.1
+devtoolbox: 0.1.0
 devtools: 2.4.2
 dexter: 1.1.3
 dexterMST: 0.9.2
@@ -10064,7 +10069,7 @@ dynaTree: 1.2-10
 dynamac: 0.1.11
 dynamicGraph: 0.2.2
 dynamicTreeCut: 1.63-1
-dynamichazard: 0.6.8
+dynamichazard: 1.0.0
 dynamo: '1.0'
 dynatopmodel: 1.2.1
 dyncomp: 0.0.2-1
@@ -12241,7 +12246,7 @@ gumbel: 1.10-2
 gumboot: 1.0.0
 gunit: 1.0.0
 gunsales: 0.1.2
-gustave: 0.4.1
+gustave: 0.4.2
 gutenbergr: 0.2.1
 gvc: 6.0.0
 gvcR: 0.1.0
@@ -13066,7 +13071,7 @@ isoSurv: 0.2.0
 isoWater: 1.0.1
 isoband: 0.2.5
 isoboost: 1.0.1
-isobxr: 1.0.0
+isobxr: 1.0.1
 isocalcR: 0.0.2
 isocat: 0.2.6
 isocir: 2.0-6
@@ -13135,6 +13140,7 @@ jackstraw: 1.3.1
 jacpop: '0.6'
 jaggR: 0.1.1
 jagsUI: 1.5.2
+jalcal: 0.1.0
 james.analysis: 1.0.1
 janeaustenr: 0.1.5
 janitor: 2.1.0
@@ -14400,6 +14406,7 @@ metsyn: 0.1.2
 mev: 1.13.1
 mewAvg: 0.3.0
 mexhaz: '1.11'
+mexicolors: 0.2.0
 mfGARCH: 0.2.1
 mfaces: 0.1-3
 mfblock: '1.0'
@@ -14499,7 +14506,7 @@ mimi: 0.2.0
 mimsy: 0.6.2
 minMSE: 0.3.1
 minPtest: '1.7'
-mind: 0.1.2
+mind: 0.1.3
 mindicador: 0.1.5
 mindr: 1.2.3
 mineCitrus: 1.0.0
@@ -14660,7 +14667,7 @@ mlr3measures: 0.3.1
 mlr3misc: 0.9.3
 mlr3oml: 0.4.3
 mlr3pipelines: 0.3.5-1
-mlr3proba: 0.4.0
+mlr3proba: 0.4.1
 mlr3shiny: 0.1.1
 mlr3spatiotempcv: 1.0.0
 mlr3tuning: 0.8.0
@@ -16668,7 +16675,7 @@ popgraph: '1.4'
 popkin: 1.3.13
 poplab: '1.0'
 poplite: 0.99.5
-poppr: 2.9.2
+poppr: 2.9.3
 popprxl: '0.1'
 popsom: '5.2'
 poptrend: 0.1.0
@@ -17668,7 +17675,7 @@ readrba: 0.1.1
 readroper: 0.9.3
 readsdmx: 0.3.0
 readsdr: 0.2.0
-readsparse: 0.1.3
+readsparse: 0.1.5
 readstata13: 0.10.0
 readtext: '0.81'
 readtextgrid: 0.1.1
@@ -17943,7 +17950,7 @@ rgeoda: 0.0.8-4
 rgeolocate: 1.3.1
 rgeopat2: 0.3.9
 rgeoprofile: 0.2.2
-rgeos: 0.5-5
+rgeos: 0.5-7
 rgeospatialquality: 0.3.2
 rgexf: 0.16.2
 rggm: 1.0.1
@@ -18096,7 +18103,7 @@ rmdformats: 1.0.2
 rmdpartials: 0.5.8
 rmdplugr: 0.4.1
 rmdshower: 2.1.1
-rmdwc: 0.1.1
+rmdwc: 0.2.1
 rmeta: '3.0'
 rmetalog: 1.0.3
 rmetasim: 3.1.7
@@ -18109,7 +18116,7 @@ rmmseg4j: 0.2-0
 rmngb: 0.6-1
 rmonad: 0.7.0
 rmongodb: 1.8.0
-rmoo: 0.1.6
+rmoo: 0.1.7
 rmp: '2.0'
 rmpw: 0.0.4
 rms: 6.2-0
@@ -19599,7 +19606,7 @@ spcosa: 0.3-9
 spcov: '1.01'
 spcr: '2.0'
 spd: 2.0-1
-spdep: 1.1-8
+spdep: 1.1-11
 spdownscale: 0.1.0
 spdplyr: 0.4.0
 spduration: 0.17.1
@@ -19778,6 +19785,7 @@ ssfit: '1.1'
 ssgraph: '1.12'
 ssh: 0.8.0
 ssh.utils: '1.0'
+sship: 0.7.0
 ssimparser: 0.1.0
 ssize.fdr: '1.2'
 ssizeRNA: 1.3.2
@@ -19993,7 +20001,7 @@ stringr: 1.4.0
 stringx: 0.2.2
 strip: 1.0.0
 stripless: 1.0-3
-striprtf: 0.5.2
+striprtf: 0.5.3
 strm: 0.1.2
 strptimer: 0.1.0
 strucchange: 1.5-2
