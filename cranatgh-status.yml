@@ -1327,6 +1327,7 @@ DMwR2: 0.0.2
 DNAprofiles: '0.3'
 DNAseqtest: '1.0'
 DNAtools: 0.2-3
+DNH4: 0.1.11
 DNLC: 1.0.0
 DNMF: '1.3'
 DNetFinder: '1.0'
@@ -1337,7 +1338,7 @@ DOS: 1.0.0
 DOS2: 0.5.2
 DOSim: '2.2'
 DOT: '0.1'
-DOVE: '1.6'
+DOVE: '1.7'
 DOvalidation: 1.1.0
 DPBBM: 0.2.5
 DPM.GGM: '0.14'
@@ -5604,7 +5605,7 @@ SCAT: 0.5.0
 SCBiclust: 1.0.0
 SCBmeanfd: 1.2.2
 SCCI: '1.2'
-SCCS: '1.3'
+SCCS: '1.4'
 SCEM: 1.1.0
 SCEPtER: 0.2-4
 SCEPtERbinary: 0.1-1
@@ -6314,7 +6315,7 @@ TKF: 0.0.8
 TLBC: '1.0'
 TLMoments: 0.7.5.2
 TLdating: 0.1.3
-TMB: 1.7.20
+TMB: 1.7.21
 TMDb: '1.1'
 TMTI: 0.1.0
 TNC: 0.1.0
@@ -7969,7 +7970,7 @@ bmrm: '4.1'
 bmscstan: 1.1.0
 bnclassify: 0.4.5
 bndovb: '1.1'
-bnlearn: 4.6.1
+bnlearn: '4.7'
 bnma: 1.4.0
 bnmonitor: 0.1.1
 bnnSurvival: 0.1.5
@@ -10145,6 +10146,7 @@ ebGenotyping: 2.0.1
 ebSNP: '1.0'
 eba: 1.10-0
 ebal: 0.1-6
+ebci: 1.0.0
 ebdbNet: 1.2.5
 ebimetagenomics: '0.6'
 ebirdst: 0.3.1
@@ -11281,7 +11283,7 @@ funcy: 1.0.1
 fundiversity: 0.2.0
 funest: 0.0.1.3
 funfits: 2.0-3
-fungible: '1.97'
+fungible: '1.98'
 funique: 0.0.1
 funnelR: 0.1.0
 funneljoin: 0.1.0
@@ -13573,6 +13575,7 @@ learNN: 0.2.0
 learnPopGen: 1.0.4
 learningCurve: 1.1.2
 learningr: 0.29.1
+learningtower: 1.0.0
 learnr: 0.10.1
 learnrbook: 1.0.2
 learnstats: 0.1.1
@@ -14208,7 +14211,7 @@ mcmcabn: '0.4'
 mcmcderive: 0.1.2
 mcmcensemble: 3.0.0
 mcmcplots: 0.4.3
-mcmcr: 0.6.0
+mcmcr: 0.6.1
 mcmcsae: 0.6.0
 mcmcse: 1.4-1
 mco: 1.15.6
@@ -14448,7 +14451,7 @@ mice: 3.13.0
 miceExt: 1.1.0
 miceFast: 0.7.1
 miceMNAR: 1.0.2
-miceRanger: 1.4.0
+miceRanger: 1.5.0
 miceadds: 3.11-6
 micemd: 1.7.0
 michelRodange: 1.0.0
@@ -15921,7 +15924,7 @@ pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
 pacotest: 0.4.0
-pacs: 0.3.3
+pacs: 0.3.4
 pact: 0.5.0
 pacviz: 1.0.1
 padr: 0.5.3
@@ -17639,7 +17642,7 @@ reactablefmtr: 1.0.0
 reactlog: 1.1.0
 read.cwa: 0.2.1
 read.dbc: 1.0.5
-read.gb: 2.0.1
+read.gb: '2.2'
 read.gt3x: 1.0.2
 readABF: 1.0.2
 readBrukerFlexData: 1.8.5
@@ -20383,7 +20386,7 @@ tensorsparse: '3.0'
 tensr: 1.0.1
 tergm: 4.0.2
 tergmLite: 2.5.0
-term: 0.3.1
+term: 0.3.2
 termstrc: '1.3'
 ternvis: '1.2'
 terra: 1.3-22
@@ -20657,7 +20660,7 @@ tmbstan: 1.0.2
 tmcn: 0.2-13
 tmg: '0.3'
 tmhmm: '1.3'
-tmle: 1.5.0-1
+tmle: 1.5.0.2
 tmle.npvi: 0.10.0
 tmlenet: 0.1.0
 tmod: 0.46.2
@@ -21558,7 +21561,7 @@ wrMisc: 1.6.1
 wrProteo: 1.4.3
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.2
-wrappedtools: 0.7.8
+wrappedtools: 0.7.9
 wrapr: 2.0.8
 wrassp: 1.0.1
 write.snns: 0.0-4.2
@@ -21659,7 +21662,7 @@ xtractomatic: 3.4.2
 xtreg2way: 1.0.0
 xts: 0.12.1
 xtune: 0.1.0
-xutils: 0.0.1
+xutils: 0.0.2
 xwf: 0.2-3
 xxIRT: 2.1.2
 xyloplot: '2.0'
@@ -21693,6 +21696,7 @@ yonder: 0.2.0
 yorkr: 0.0.25
 yotover: 0.3.5
 youtubecaption: 1.0.0
+yowie: 0.1.0
 ypr: 0.5.2
 yuima: 1.9.6
 yuimaGUI: 1.3.0
