@@ -360,7 +360,7 @@ BGGM: 2.0.4
 BGLR: 1.0.8
 BGPhazard: 2.1.0
 BGSIMD: '1.0'
-BGVAR: 2.3.0
+BGVAR: 2.3.1
 BGmisc: '0.1'
 BH: 1.75.0-0
 BHAI: 0.99.2
@@ -3219,6 +3219,7 @@ MCDM: '1.2'
 MCE: '1.1'
 MCI: 1.3.3
 MCI2: 1.1.2
+MCID: 0.1.0
 MCL: '1.0'
 MCLIME: '1.1'
 MCM: 0.1.3
@@ -4010,7 +4011,7 @@ OpVaR: '1.2'
 OpasnetUtils: '1.3'
 OpenABMCovid19: '1.0'
 OpenCL: 0.2-2
-OpenImageR: 1.1.9
+OpenImageR: 1.2.0
 OpenLand: 1.0.1
 OpenML: '1.10'
 OpenMPController: 0.2-5
@@ -4328,7 +4329,7 @@ PermuteNGS: 1.0.3
 PerseusR: 0.3.4
 PersianStemmer: '1.0'
 PersomicsArray: '1.0'
-PesticideLoadIndicator: 1.1.0
+PesticideLoadIndicator: 1.2.0
 PetfindeR: 2.1.0
 PhViD: 1.0.8
 PhageCocktail: 1.0.0
@@ -4542,7 +4543,7 @@ QoLR: '1.0'
 Qtools: 1.5.5
 QuACN: 1.8.0
 QuClu: 0.1.0
-QuadRoot: 0.1.0
+QuadRoot: 0.2.0
 QualInt: 1.0.0
 Quandl: 2.11.0
 QuantNorm: 1.0.5
@@ -6147,7 +6148,7 @@ SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
 SqlRender: 1.8.0
-Sshaped: '0.99'
+Sshaped: '1.0'
 Sstack: 1.0.1
 StAMPP: 1.6.3
 StMoMo: 0.4.1
@@ -6156,6 +6157,7 @@ StVAR: '1.1'
 StabilizedRegression: '1.0'
 StableEstim: '2.1'
 Stack: 2.0-1
+StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
 StakeholderAnalysis: '1.2'
 StanHeaders: 2.21.0-7
@@ -7150,7 +7152,7 @@ animint2: 2020.9.18
 anipaths: 0.10.1
 aniview: 0.1.0
 anm: 1.1-1
-anndata: 0.7.5.2
+anndata: 0.7.5.3
 annovarR: 1.0.0
 anocva: 0.1.1
 anoint: '1.4'
@@ -7548,7 +7550,7 @@ bats: 0.1-3
 batteryreduction: 0.1.1
 baycn: 1.2.0
 bayefdr: 0.1.0
-bayes4psy: 1.2.6
+bayes4psy: 1.2.7
 bayesAB: 1.1.3
 bayesCGH: '0.6'
 bayesCL: 0.0.1
@@ -8939,7 +8941,7 @@ conover.test: 1.1.5
 conquer: 1.0.2
 conquestr: 0.8.5
 conserveR: 1.0.4
-consort: 0.1.1
+consort: 0.2.0
 constants: 1.0.1
 constellation: 0.2.0
 constrainedKriging: 0.2.4
@@ -9695,7 +9697,7 @@ diagram: 1.6.5
 dialectR: '1.0'
 dialr: 0.4.0
 dialrjars: 8.12.29
-dials: 0.0.9
+dials: 0.0.10
 diamonds: 1.0-5
 diaplt: 1.3.0
 diathor: 0.0.6
@@ -9788,7 +9790,7 @@ discretization: 1.0-1
 discrim: 0.1.3
 discrimARTs: '0.2'
 disdat: 1.0-0
-diseasemapping: 1.5.0
+diseasemapping: 1.5.1
 diseq: 0.3.1
 disk.frame: 0.5.0
 diskImageR: 1.0.0
@@ -10139,7 +10141,7 @@ easyNCDF: 0.1.0
 easyPSID: 0.1.1
 easyPubMed: '2.13'
 easySVG: 0.1.0
-easySdcTable: 0.8.0
+easySdcTable: 0.9.0
 easyVerification: 0.4.4
 easyalluvial: 0.3.0
 easyanova: '7.0'
@@ -10245,7 +10247,7 @@ edina: 0.1.1
 editData: 0.1.8
 editrules: 2.9.3
 edl: '1.0'
-edmcr: '0.1'
+edmcr: 0.2.0
 edmdata: 1.2.0
 edmr: 0.6.3
 edpclient: 0.5.1
@@ -10613,7 +10615,7 @@ exactDistr: 0.2-5
 exactLoglinTest: 1.4.2
 exactRankTests: 0.8-32
 exactci: 1.4-2
-exactextractr: 0.6.1
+exactextractr: 0.7.0
 exactmaxsel: '1.0'
 exactmeta: 1.0-2
 exampletestr: 1.6.5
@@ -11226,7 +11228,7 @@ freesurfer: 1.6.8
 freesurferformats: 0.1.15
 freetypeharfbuzz: 0.2.6
 frenchCurve: 0.1.0
-frenchdata: 0.1.1
+frenchdata: 0.2.0
 freqMAP: '0.2'
 freqdist: '0.1'
 freqdom: 2.0.1
@@ -13044,7 +13046,7 @@ ipred: 0.9-11
 iprior: 0.7.3
 ips: 0.0.11
 iptmnetr: 0.1.8
-iptools: 0.6.1
+iptools: 0.7.2
 ipumsr: 0.4.5
 ipw: 1.0-11
 ipwCoxCSV: '1.0'
@@ -13476,7 +13478,7 @@ languageserver: 0.3.11
 languageserversetup: 0.1.2
 lans2r: 1.1.0
 lar: 0.1-2
-lares: 5.0.1
+lares: 5.0.2
 largeList: 0.3.1
 largeVis: '0.2'
 lars: '1.2'
@@ -14056,7 +14058,7 @@ mapDK: 0.3.0
 mapLD: 1.0-1
 mapReasy: '1.0'
 mapReduce: 1.2.6
-mapSpain: 0.3.0
+mapSpain: 0.3.1
 mapStats: '2.4'
 mapaccuracy: 0.1.0
 mapbayr: 0.5.0
@@ -14579,7 +14581,7 @@ mistat: 2.0.3
 mistr: 0.0.4
 mistral: 2.2.1
 misty: 0.4.2
-mitml: 0.4-1
+mitml: 0.4-2
 mitools: '2.4'
 mitre: 1.0.0
 mix: 1.0-10
@@ -15042,7 +15044,7 @@ multidplyr: 0.1.0
 multifear: 0.1.2
 multifluo: '1.1'
 multifwf: 0.2.2
-multigraph: '0.95'
+multigraph: '0.96'
 multigroup: 0.4.5
 multilaterals: '1.0'
 multilevel: '2.6'
@@ -15641,7 +15643,7 @@ odds.converter: 1.4.8
 odds.n.ends: 0.1.3
 oddsratio: 2.0.1
 oddstream: 0.5.0
-odeGUTS: 1.0.0
+odeGUTS: 1.0.1
 odeintr: 1.7.1
 odesolve: 0.9-9
 odfWeave: 0.8.4
@@ -15715,6 +15717,7 @@ ontologySimilarity: '2.5'
 oolong: 0.4.0
 oompaBase: 3.2.9
 oompaData: 3.1.1
+ooplah: 0.1.0
 oosp: 0.3.3
 opalr: 3.0.1
 opart: 2019.1.0
@@ -16046,7 +16049,7 @@ parmigene: 1.1.0
 parmsurvfit: 0.1.0
 paropt: 0.2.1
 parqr: 0.1.0
-parseRPDR: 0.2.0
+parseRPDR: 0.2.1
 parsec: 1.2.5
 parsedate: 1.2.1
 parsemsf: 0.1.1
@@ -17226,6 +17229,7 @@ quarrint: 1.0.0
 quarto: '1.0'
 quaternions: '0.2'
 queryparser: 0.3.1
+quest: 0.1.0
 questionr: 0.7.4
 queuecomputer: 1.1.0
 queueing: 0.2.12
@@ -18060,7 +18064,7 @@ riskyr: 0.3.0
 rite: '0.3'
 ritis: 1.0.0
 riv: 2.0-5
-riverdist: 0.15.3
+riverdist: 0.15.4
 rivernet: 1.2.1
 riverplot: '0.10'
 rivervis: 0.46.0
@@ -20662,7 +20666,7 @@ tiobeindexr: 0.1.1
 tipitaka: 0.1.2
 tipom: 1.0.2-1
 tippy: 0.1.0
-tipr: 0.2.0
+tipr: 0.3.0
 tis: '1.38'
 titan: 1.0-9
 titanic: 0.1.0
@@ -21503,7 +21507,7 @@ whereami: 0.1.9
 whereport: '0.1'
 whiboclustering: 0.1.2
 whisker: '0.4'
-whitebox: 0.1.0
+whitebox: 2.0.0
 whitechapelR: 0.3.0
 whitening: 1.2.0
 whitestrap: 0.0.1
