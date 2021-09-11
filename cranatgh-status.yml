@@ -350,7 +350,7 @@ BENMMI: 4.3-7
 BEQI2: 2.0-0
 BEST: 0.5.3
 BESTree: 0.5.2
-BET: 0.3.8
+BET: 0.4.0
 BETS: 0.4.9
 BFS: 0.3.1
 BFpack: 0.3.2
@@ -1921,7 +1921,7 @@ FORTLS: 1.0.3
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
-FPDclustering: 1.4.1
+FPDclustering: '2.0'
 FPV: '0.5'
 FRACTION: '1.0'
 FRAPO: 0.4-1
@@ -2044,7 +2044,7 @@ ForecastTB: 1.0.1
 ForestDisc: 0.1.0
 ForestFit: 0.7.1
 ForestGapR: 0.0.3
-ForestTools: 0.2.4
+ForestTools: 0.2.5
 FormalSeries: '1.0'
 Formula: 1.2-4
 FortranCallsR: '0.1'
@@ -5336,7 +5336,7 @@ RelimpPCR: 0.2.4
 Renext: 3.1-0
 RenextGUI: 1.4-0
 RenvModule: '1.1'
-Renvlp: '2.9'
+Renvlp: '3.0'
 Reol: '1.8'
 ReorderCluster: '1.0'
 Reot: 0.1.0
@@ -10940,7 +10940,7 @@ ffmanova: 1.1.0
 ffmetadata: 1.0.0
 ffp: 0.1.0
 ffscrapr: 1.4.6
-ffsimulator: 1.0.0
+ffsimulator: 1.1.0
 ffstream: 0.1.6
 fftw: 1.0-6
 fftwtools: 0.9-11
@@ -11342,7 +11342,7 @@ fuzzySim: '3.0'
 fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.6
 fuzzyreg: 0.5.1
-fuzzywuzzyR: 1.0.4
+fuzzywuzzyR: 1.0.5
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
 fwildclusterboot: 0.3.6
@@ -11559,6 +11559,7 @@ geneNetBP: 2.0.1
 geneSLOPE: 0.37.0
 geneSignatureFinder: 2014.02.17
 genefu: 1.0.9
+genekitr: 0.2.1
 genemodel: 1.1.0
 genepi: 1.0.1
 genepop: 1.1.7
@@ -13262,7 +13263,7 @@ kappalab: 0.4-7
 kaps: 1.0.2
 karaoke: '1.0'
 karel: 0.1.0
-katex: 1.1.0
+katex: 1.2.0
 kayadata: 0.5.1
 kazaam: 0.1-0
 kcirt: 0.6.0
@@ -14631,7 +14632,7 @@ mixtox: 1.3.2
 mixtur: 1.2.0
 mixture: 2.0.4
 mize: 0.2.4
-mizer: 2.2.1
+mizer: 2.3.0
 mkde: '0.1'
 mkin: 1.0.4
 mknapsack: 0.1.0
@@ -15598,7 +15599,7 @@ nzelect: 0.4.0
 nzffdr: 1.0.0
 nzilbb.labbcat: 1.0-1
 nzpullover: 0.3.0
-o2geosocial: 1.0.1
+o2geosocial: 1.1.0
 oRus: 1.0.0
 oXim: 1.2.2
 oaColors: 0.0.4
@@ -18082,7 +18083,7 @@ rjqpd: 0.2.3
 rjson: 0.2.20
 rjsonapi: 0.1.0
 rjstat: 0.4.1
-rjwsacruncher: 0.1.1
+rjwsacruncher: 0.1.2
 rkafka: '1.1'
 rkafkajars: '1.1'
 rkdb: 0.9.0
@@ -18469,7 +18470,7 @@ rtern: 0.1.1
 rtext: 0.1.22
 rtf: 0.4-14.1
 rtfbs: '0.3'
-rticles: '0.20'
+rticles: '0.21'
 rticulate: 1.7.2
 rtide: 0.0.9
 rties: 5.0.0
@@ -19207,7 +19208,7 @@ simex: '1.8'
 simexaft: 1.0.7.1
 simfam: 1.0.2
 simfinR: 0.2.3
-simfinapi: 0.1.0
+simfinapi: 0.2.0
 simfit: 0.1.0
 simglm: 0.8.8
 simgof: 1.0.2
@@ -19602,7 +19603,7 @@ spatial.tools: 1.6.2
 spatialClust: 1.1.1
 spatialCovariance: 0.6-9
 spatialEco: 1.3-7
-spatialTIME: 1.1.0
+spatialTIME: 1.2.0
 spatialTailDep: '1.0'
 spatialfil: '0.15'
 spatialfusion: 0.6-3
@@ -20136,7 +20137,7 @@ survJamda.data: 1.0.2
 survMS: 0.0.1
 survMisc: 0.5.5
 survParamSim: 0.1.5
-survPen: 1.5.1
+survPen: 1.5.2
 survPresmooth: 1.1-10
 survRM2: 1.0-3
 survRM2adapt: 1.0-1
@@ -21399,7 +21400,7 @@ wal: 0.1.0
 waldo: 0.3.0
 waldwolf: '0.1'
 walkalytics: 0.1.0
-walker: 1.0.2
+walker: 1.0.3
 walkr: 0.4.0
 walkscoreAPI: '1.2'
 wallace: 1.1.0
