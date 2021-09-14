@@ -121,7 +121,7 @@ ARTIVA: '1.2'
 ARTP: 2.0.5
 ARTP2: 0.9.45
 ARTool: 0.11.0
-ARpLMEC: '1.1'
+ARpLMEC: '2.1'
 ASGS.foyer: 0.3.1
 ASICS: 1.0.1
 ASIP: 0.4.9
@@ -559,7 +559,7 @@ BayesianReasoning: 0.3.3
 BayesianTools: 0.1.7
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
-Bayesrel: 0.7.0.7
+Bayesrel: 0.7.1
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
 BcDiag: 1.0.10
@@ -1339,6 +1339,7 @@ DODR: 0.99.2
 DOPE: 2.1.0
 DOS: 1.0.0
 DOS2: 0.5.2
+DOSPortfolio: 0.1.0
 DOSim: '2.2'
 DOT: '0.1'
 DOVE: '1.7'
@@ -2217,6 +2218,7 @@ GOsummaries: '1.1'
 GOxploreR: 1.2.2
 GPArotation: 2014.11-1
 GPB: '1.2'
+GPBayes: 0.1.0-2
 GPC: '0.1'
 GPCMlasso: 0.1-5
 GPCSIV: 0.1.0
@@ -3208,7 +3210,7 @@ MBESS: 4.8.0
 MBHdesign: 2.1.8
 MBI: '1.0'
 MBNMAdose: 0.3.0
-MBNMAtime: 0.2.0
+MBNMAtime: 0.2.1
 MBSGS: 1.1.0
 MBSP: '1.0'
 MBTAr: 2.0.0
@@ -3824,7 +3826,7 @@ NMdata: 0.0.9
 NMproject: 0.6.5
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.7.2
+NNS: 0.8.0
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.4
@@ -4141,6 +4143,7 @@ PGEE: '1.5'
 PGICA: '1.0'
 PGM2: 1.0-1
 PGRdup: 0.2.3.7
+PH1XBAR: 0.9.4
 PHENIX: 1.3.1
 PHEindicatormethods: 1.3.2
 PHInfiniteEstimates: '2.0'
@@ -5363,6 +5366,7 @@ ResourceSelection: 0.3-5
 RespirAnalyzer: 1.0.1
 RestRserve: 0.4.1
 RevEcoR: 0.99.3
+RevGadgets: 1.0.0
 ReviewR: 2.3.7
 Revticulate: 0.3.0
 Rexperigen: 0.2.1
@@ -5480,7 +5484,7 @@ RobustLinearReg: 1.2.0
 RobustRankAggreg: '1.1'
 RockFab: '1.2'
 Rodam: 0.1.8
-Rogue: 1.0.0
+Rogue: 2.0.0
 RolWinMulCor: 1.2.0
 RonFHIR: 0.4.0
 Rook: 1.1-1
@@ -6533,7 +6537,7 @@ TreatmentSelection: 2.1.1
 TreeBUGS: 1.4.7
 TreeDep: 0.1.3
 TreeDiagram: 0.1.1
-TreeDist: 2.1.1
+TreeDist: 2.2.0
 TreeLS: 2.0.2
 TreePar: '3.3'
 TreeRank: 1.1-0
@@ -6653,7 +6657,7 @@ VGAM: 1.1-5
 VGAMdata: 1.1-5
 VGAMextra: 0.0-5
 VHDClassification: '0.3'
-VIC5: 0.2.2
+VIC5: 0.2.3
 VICmodel: 0.1.2
 VIF: '1.0'
 VIFCP: '1.2'
@@ -7625,7 +7629,7 @@ bbemkr: '2.0'
 bbl: 0.4.0
 bbmle: 1.0.24
 bbo: '0.2'
-bbotk: 0.3.2
+bbotk: 0.4.0
 bbreg: 2.0.1
 bbricks: 0.1.4
 bbsBayes: 2.3.8.2020
@@ -10536,7 +10540,7 @@ es.dif: 1.0.2
 esDesign: 1.0.3
 esaBcv: 1.2.1
 esaddle: 0.0.7
-esaps: 0.1.0
+esaps: 0.2.2
 esback: 0.3.0
 esc: 0.5.1
 escalation: 0.1.4
@@ -10866,7 +10870,7 @@ fastshap: 0.0.5
 fasttime: 1.0-2
 fastverse: 0.2.1
 fat2Lpoly: 1.2.4
-faux: 1.0.0
+faux: 1.1.0
 fauxnaif: 0.6.1
 fauxpas: 0.5.0
 faviconPlease: 0.1.1
@@ -11073,7 +11077,7 @@ flexmix: 2.3-17
 flexmixNL: 0.0.1
 flexpolyline: 0.2.3
 flexrsurv: 1.4.5
-flexsurv: '2.0'
+flexsurv: '2.1'
 flexsurvcure: 1.2.0
 flextable: 0.6.8
 flifo: 0.1.5
@@ -11218,7 +11222,7 @@ fragility: '1.1'
 fragilityindex: 0.1.0
 frailtyEM: 1.0.1
 frailtyHL: '2.3'
-frailtySurv: 1.3.6
+frailtySurv: 1.3.7
 frailtypack: 3.4.0
 frair: 0.5.100
 frambgrowth: 0.1.0
@@ -14658,7 +14662,7 @@ mlapi: 0.1.0
 mlbench: 2.1-3
 mlbgameday: 0.2.0
 mlbstats: 0.1.0
-mlbstatsR: 0.1.0.2
+mlbstatsR: 0.1.0.3
 mldr: 0.4.3
 mldr.datasets: 0.4.2
 mle.tools: 1.0.0
@@ -14692,7 +14696,7 @@ mlr3cluster: 0.1.2
 mlr3data: 0.5.0
 mlr3db: 0.4.1
 mlr3filters: 0.4.2
-mlr3fselect: 0.5.1
+mlr3fselect: 0.6.0
 mlr3hyperband: 0.2.0
 mlr3learners: 0.5.0
 mlr3measures: 0.3.1
@@ -15180,7 +15184,7 @@ myepisodes: 1.1.1
 mztwinreg: 1.0-1
 n1qn1: 6.0.1-10
 nCDunnett: 1.1.0
-nCal: 2020.9-10
+nCal: 2021.9-12
 nCopula: 0.1.1
 nCov2019: 0.4.5
 nFCA: '0.3'
@@ -15295,7 +15299,7 @@ netcontrol: '0.1'
 netdep: 0.1.0
 netdiffuseR: 1.22.3
 netgen: 1.3.2
-netgsa: 4.0.0
+netgsa: 4.0.1
 netgwas: '1.13'
 netjack: 1.2.0
 netmeta: 1.5-0
@@ -15577,7 +15581,7 @@ nscprepr: 0.1.1
 nsdr: 0.1.1
 nse: '1.20'
 nse2r: 0.1.5
-nser: 1.3.0
+nser: 1.3.1
 nseval: '0.4'
 nsga2R: '1.0'
 nsga3: 0.0.3
@@ -15967,7 +15971,7 @@ pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
 pacotest: 0.4.0
-pacs: 0.3.4
+pacs: 0.3.5
 pact: 0.5.0
 pacviz: 1.0.1
 padr: 0.5.3
@@ -16287,7 +16291,7 @@ permGPU: '0.15'
 permGS: 0.2.5
 permPATH: '1.2'
 permax: '1.2'
-permimp: 1.0-1
+permimp: 1.0-2
 permtest: '1.2'
 permubiome: 1.3.1
 permuco: 1.1.0
@@ -17301,7 +17305,7 @@ r6extended: 0.1.2
 r6methods: 0.1.0
 rADA: 1.1.9
 rARPACK: 0.11-0
-rATTAINS: 0.1.1
+rATTAINS: 0.1.2
 rAltmetric: 0.7.0
 rAmCharts: 2.1.13
 rAmCharts4: 1.4.0
@@ -19134,7 +19138,7 @@ shinyscreenshot: 0.1.0
 shinyservicebot: 0.1.0
 shinystan: 2.5.0
 shinysurveys: 0.2.0
-shinytest: 1.5.0
+shinytest: 1.5.1
 shinythemes: 1.2.0
 shinytitle: 0.1.0
 shinytoastr: 2.1.1
@@ -19536,7 +19540,7 @@ spTest: 0.2.5
 spThin: 0.2.0
 spTimer: 3.3.1
 spa: '2.0'
-spaMM: 3.8.23
+spaMM: 3.9.0
 spaa: 0.2.2
 space: 0.1-1.1
 spaceExt: '1.0'
@@ -19898,7 +19902,7 @@ startR: 2.1.0
 starter: 0.1.5
 startup: 0.15.0
 startupmsg: 0.9.6
-starvars: 1.1.2
+starvars: 1.1.5
 starvz: 0.5.0
 starwarsdb: 0.1.2
 stashR: '0.3'
@@ -20026,7 +20030,7 @@ stratifyR: 1.0-2
 stratigraph: '0.6'
 stratvns: '1.1'
 straweib: '1.1'
-strawr: 0.0.8
+strawr: 0.0.9
 stray: 0.1.1
 stream: 1.5-0
 stream.net: 1.0.6
@@ -20119,7 +20123,7 @@ superml: 0.5.3
 supernova: 2.4.2
 superpc: '1.12'
 supervisedPRIM: 2.0.0
-suppdata: 1.1-6
+suppdata: 1.1-7
 support: 0.1.5
 support.BWS: 0.4-3
 support.BWS2: 0.3-0
