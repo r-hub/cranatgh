@@ -289,7 +289,7 @@ BACCT: '1.0'
 BACprior: '2.0'
 BADER: '0.1'
 BAEssd: 1.0.1
-BAGofT: 0.1.0
+BAGofT: 1.0.0
 BALCONY: 0.2.10
 BALD: 1.0.0-3
 BALLI: 0.2.0
@@ -2731,7 +2731,7 @@ ISDA.R: '1.0'
 ISEtools: 3.1.1.1
 ISIPTA: 0.1-8
 ISLR: '1.2'
-ISLR2: '1.1'
+ISLR2: '1.2'
 ISM: 0.1.0
 ISOcodes: 2021.02.24
 ISOpureR: 1.1.3
@@ -4285,7 +4285,7 @@ PamBinaries: 1.4.0
 PamGeneMixed: '1.03'
 PanCanVarSel: 0.0.3
 PanJen: '1.6'
-PandemicLP: 0.2.1
+PandemicLP: 1.1.0
 PanelCount: 1.0.9
 PanelMatch: 2.0.0
 Paneldata: '1.0'
@@ -4734,7 +4734,7 @@ RFmarkerDetector: '1.0'
 RFmerge: 0.1-10
 RForcecom: '1.1'
 RFormatter: 0.1.1
-RFpredInterval: 1.0.2
+RFpredInterval: 1.0.4
 RFreak: 0.3-0
 RGA: 0.4.2
 RGBM: 1.0-8
@@ -8957,7 +8957,7 @@ conquer: 1.0.2
 conquestr: 0.8.5
 conserveR: 1.0.4
 consort: 0.2.0
-consortr: '0.9'
+consortr: 0.9.1
 constants: 1.0.1
 constellation: 0.2.0
 constrainedKriging: 0.2.4
@@ -9049,7 +9049,7 @@ corrr: 0.4.3
 corrsieve: 1.6-8
 corset: 0.1-4
 cort: 0.3.2
-corto: 1.1.6
+corto: 1.1.8
 corx: 1.0.6.1
 cosa: 2.0.0
 cosinor: '1.1'
@@ -9066,7 +9066,7 @@ countHMM: 0.1.0
 countToFPKM: '1.0'
 countTransformers: 0.0.6
 countcolors: 0.9.1
-countdata: '1.1'
+countdata: '1.2'
 countfitteR: '1.4'
 countgmifs: 0.0.2
 countrycode: 1.3.0
@@ -9084,7 +9084,7 @@ coveffectsplot: 0.0.9.1
 covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.3
-covid19.analytics: '2.1'
+covid19.analytics: 2.1.1
 covid19br: 0.1.1
 covid19dbcand: 0.1.1
 covid19france: 0.1.0
@@ -9423,7 +9423,7 @@ dataMeta: 0.1.1
 dataPreparation: 1.0.1
 dataQualityR: '1.0'
 dataReporter: 1.0.0
-dataRetrieval: 2.7.9
+dataRetrieval: 2.7.10
 datacheck: 1.2.2
 datacheckr: 0.2.0
 datacleanr: 1.0.1
@@ -12189,7 +12189,7 @@ grizbayr: 1.3.1
 grmsem: 1.1.0
 grnn: 0.1.0
 grnnR: '1.0'
-grobblR: 0.2.0
+grobblR: 0.2.1
 groc: 1.0.8
 grofit: '1.1'
 gromovlab: 0.8-3
@@ -12238,7 +12238,7 @@ gsheet: 0.4.5
 gsignal: 0.3-2
 gsisdecoder: 0.0.1
 gskat: '1.0'
-gsl: 2.1-6
+gsl: 2.1-7
 gsloid: 0.1.0
 gsmaRt: '1.0'
 gsmoothr: 0.1.7
@@ -13820,7 +13820,7 @@ locStra: '1.7'
 localFDA: 1.0.0
 localICE: 0.1.1
 localIV: 0.3.1
-localModel: 0.3.12
+localModel: '0.5'
 localScore: 1.0.6
 localdepth: 0.5-7
 localgauss: '0.40'
@@ -14807,7 +14807,7 @@ modelplotr: 1.1.0
 modelr: 0.1.8
 modelsummary: 0.9.1
 modeltests: 0.1.4
-modeltime: 0.7.0
+modeltime: 1.0.0
 modeltime.ensemble: 0.4.2
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.1
@@ -16303,7 +16303,7 @@ permubiome: 1.3.1
 permuco: 1.1.0
 permutations: 1.0-9
 permute: 0.9-5
-permutes: '2.1'
+permutes: 2.1.1
 perry: 0.2.0
 persiandictionary: '1.0'
 personalized: 0.2.6
@@ -17226,7 +17226,7 @@ qualV: 0.3-3
 qualityTools: '1.55'
 qualmap: 0.2.0
 qualpalr: 0.4.3
-qualtRics: 3.1.4
+qualtRics: 3.1.5
 qualvar: 0.2.0
 qualypsoss: 1.0.0
 quantable: 0.3.6
@@ -17780,7 +17780,7 @@ redR: 1.0.1
 reda: 0.5.3
 redcapAPI: '2.3'
 reddPrec: 0.4.0
-redist: 3.1.1
+redist: 3.1.3
 redland: 1.0.17-14
 redlistr: 1.0.3
 redoc: 2.0.0.49
@@ -17938,7 +17938,7 @@ restrictedMVN: '1.0'
 restriktor: 0.3-100
 resumer: 0.0.5
 rethinker: 1.1.0
-reticulate: '1.20'
+reticulate: '1.21'
 retimes: 0.1-2
 retistruct: 0.6.3
 retractcheck: 1.0.0
@@ -18554,7 +18554,7 @@ rv: 2.3.4
 rvHPDT: '3.0'
 rvTDT: '1.0'
 rvalues: 0.7.1
-rvcheck: 0.1.8
+rvcheck: 0.2.0
 rversions: 2.1.1
 rvertnet: 0.8.2
 rvest: 1.0.1
@@ -19693,7 +19693,7 @@ spectralGP: 1.3.3
 spectralGraphTopology: 0.2.0
 spectre: 1.0.2
 spectrino: 2.0.0
-spectrolab: 0.0.14
+spectrolab: 0.0.15
 sped: 0.2-1
 speech: 0.1.3
 speedR: 1.1-38
@@ -19931,7 +19931,7 @@ statfi: 0.9.8
 statgenGWAS: 1.0.7
 statgenGxE: 1.0.4
 statgenHTP: 1.0.4
-statgenIBD: 1.0.0
+statgenIBD: 1.0.1
 statgenSTA: 1.0.8
 stationaRy: 0.5.1
 stationery: 0.98.30
@@ -20386,7 +20386,7 @@ tawny: 2.1.7
 tawny.types: 1.1.5
 taxa: 0.4.0
 taxadb: 0.1.3
-taxalight: 0.1.4
+taxalight: 0.1.5
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.2
@@ -20638,7 +20638,7 @@ tidytree: 0.3.5
 tidytuesdayR: 1.0.1
 tidyverse: 1.3.1
 tidyvpc: 1.1.0
-tidywikidatar: 0.4.1
+tidywikidatar: 0.4.2
 tidyxl: 1.0.7
 tiff: 0.1-8
 tiger: 0.2.3.1
@@ -21427,7 +21427,7 @@ wahc: '1.0'
 waiter: 0.2.3
 wakefield: 0.3.6
 wal: 0.1.0
-waldo: 0.3.0
+waldo: 0.3.1
 waldwolf: '0.1'
 walkalytics: 0.1.0
 walker: 1.0.3
