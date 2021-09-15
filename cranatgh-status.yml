@@ -2014,6 +2014,7 @@ FinePop2: '0.4'
 FisHiCal: '1.1'
 FisPro: '1.1'
 Fiscore: 0.1.3
+FishPhyloMaker: 0.2.0
 FishResp: 1.1.0
 FisherEM: '1.6'
 FitAR: '1.94'
@@ -2075,7 +2076,7 @@ FuncNN: '1.0'
 Funclustering: '1.0'
 FunctSNP: 1.0-2
 FunctionalNetworks: 1.0.0
-FunnelPlotR: 0.3.2
+FunnelPlotR: 0.4.0
 FusedLasso: 1.0.6
 FusedPCA: '0.2'
 FusionLearn: 0.1.1
@@ -2730,13 +2731,13 @@ ISCO08ConveRsions: 0.1.0
 ISDA.R: '1.0'
 ISEtools: 3.1.1.1
 ISIPTA: 0.1-8
-ISLR: '1.2'
+ISLR: '1.4'
 ISLR2: '1.2'
 ISM: 0.1.0
 ISOcodes: 2021.02.24
 ISOpureR: 1.1.3
 ISOweek: 0.6-2
-ISR: 2021.09.09
+ISR: 2021.09.15
 ISR3: '0.98'
 ISRaD: 1.7.8
 ISwR: 2.0-8
@@ -3187,7 +3188,7 @@ MAR1: '1.0'
 MARSANNhybrid: 0.1.0
 MARSS: 3.11.3
 MARSSVRhybrid: 0.1.0
-MARVEL: 1.2.0
+MARVEL: 1.2.1
 MARX: '0.2'
 MASS: 7.3-54
 MASSExtra: 1.1.2
@@ -3544,7 +3545,7 @@ MaxSkew: '1.1'
 MaxentVariableSelection: 1.0-3
 MazamaCoreUtils: 0.4.8
 MazamaLocationUtils: 0.1.13
-MazamaSpatialUtils: 0.7.3
+MazamaSpatialUtils: 0.7.6
 MazamaWebUtils: 0.1.7
 McParre: 1.0.1
 McSpatial: '2.0'
@@ -5654,7 +5655,7 @@ SDDA: 1.0-5
 SDDE: 1.0.1
 SDEFSR: 0.7.22
 SDLfilter: 2.1.1
-SDMPlay: '1.3'
+SDMPlay: '2.0'
 SDMTools: '1.1'
 SDMtune: 1.1.5
 SDR: 0.7.0.0
@@ -5853,7 +5854,7 @@ STARTS: 1.2-35
 STARTdesign: '1.0'
 STAT: 0.1.0
 STAT2: 0.1.0
-STB: 0.6.4
+STB: 0.6.5
 STEPCAM: '1.2'
 STFTS: 0.1.0
 STGS: 0.1.0
@@ -6149,6 +6150,7 @@ SpherWave: 1.2.2
 SphereOptimize: 0.1.1
 SphericalCubature: '1.5'
 SphericalK: '1.2'
+SpiceFP: 0.1.0
 Spillover: 0.1.0.1
 Splinets: 1.0.0
 SplitGLM: 1.0.2
@@ -6158,7 +6160,7 @@ SplitSoftening: 2.0-1
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.8.0
+SqlRender: 1.8.1
 Sshaped: '1.0'
 Sstack: 1.0.1
 StAMPP: 1.6.3
@@ -6218,7 +6220,7 @@ StructR: '1.1'
 StructureMC: '1.0'
 SubCultCon: '1.0'
 SubLasso: '1.0'
-SubTite: 4.0.3
+SubTite: 4.0.5
 SubVis: 2.0.2
 SubgrPlots: 0.1.3
 SubgrpID: '0.11'
@@ -6578,7 +6580,7 @@ UBCRM: 1.0.1
 UBL: 0.0.7
 UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.1.1
-UCSCXenaTools: 1.4.6
+UCSCXenaTools: 1.4.7
 UComp: 2.2.2
 UKB.COVID19: 0.1.1
 UKFE: 0.1.7
@@ -7269,6 +7271,7 @@ ares: 0.7.2
 arf3DS4: 2.5-4
 arfima: 1.7-0
 argo: 3.0.1
+argoFloats: 1.0.2
 argon2: 0.2-0
 argonDash: 0.2.0
 argonR: 0.2.0
@@ -10184,7 +10187,7 @@ ebal: 0.1-6
 ebci: 1.0.0
 ebdbNet: 1.2.5
 ebimetagenomics: '0.6'
-ebirdst: 0.3.1
+ebirdst: 0.3.2
 ebmc: 1.0.0
 ebmstate: 0.1.2
 ebreg: 0.1.3
@@ -11697,7 +11700,7 @@ gepaf: 0.1.1
 gerbil: 0.1.5
 germanpolls: '0.3'
 germinationmetrics: 0.1.5
-gert: 1.3.2
+gert: 1.4.0
 gesca: 1.0.4
 gesis: '0.2'
 gesisdata: 0.1.0
@@ -12296,7 +12299,7 @@ gwfa: 0.0.4
 gwpcormapper: 0.1.2
 gwrpvr: '1.0'
 gwrr: 0.2-1
-gwsem: 2.1.1
+gwsem: 2.1.2
 gym: 0.1.0
 gyriq: 1.0.2
 h2o: 3.32.1.3
@@ -13063,7 +13066,7 @@ ipmisc: 6.0.2
 ipmr: 0.0.4
 ipptoolbox: '1.2'
 ipr: 0.1.0
-ipred: 0.9-11
+ipred: 0.9-12
 iprior: 0.7.3
 ips: 0.0.11
 iptmnetr: 0.1.8
@@ -13072,7 +13075,7 @@ ipumsr: 0.4.5
 ipw: 1.0-11
 ipwCoxCSV: '1.0'
 ipwErrorY: '2.1'
-iq: '1.9'
+iq: 1.9.1
 iqLearn: '1.5'
 iqspr: '2.3'
 irace: 3.4.1
@@ -14654,7 +14657,7 @@ mixtox: 1.3.2
 mixtur: 1.2.0
 mixture: 2.0.4
 mize: 0.2.4
-mizer: 2.3.0
+mizer: 2.3.0.1
 mkde: '0.1'
 mkin: 1.0.4
 mknapsack: 0.1.0
@@ -15076,7 +15079,7 @@ multilevelPSA: 1.2.5
 multilevelTools: 0.1.1
 multilinguer: 0.0.4
 multilm: '0.1'
-multimark: 2.1.2
+multimark: 2.1.3
 multimode: '1.5'
 multimorbidity: 0.5.0
 multinbmod: '1.0'
@@ -15759,7 +15762,7 @@ openSTARS: 1.2.2
 openSkies: 1.1.4
 openVA: 1.0.12
 openadds: 0.2.0
-openair: 2.8-3
+openair: 2.8-4
 openblender: 0.5.81
 opencage: 0.2.2
 opencastR: 0.1.3
@@ -15963,7 +15966,7 @@ packHV: '2.2'
 packMBPLSDA: 0.8.0
 packS4: 0.9.3
 packageDiff: '0.1'
-packageRank: 0.4.2
+packageRank: 0.5.0
 packagedocs: 0.4.0
 packagefinder: 0.3.2
 packager: 1.13.0
@@ -16304,7 +16307,7 @@ permuco: 1.1.0
 permutations: 1.0-9
 permute: 0.9-5
 permutes: 2.1.1
-perry: 0.2.0
+perry: 0.3.0
 persiandictionary: '1.0'
 personalized: 0.2.6
 personalized2part: 0.0.1
@@ -16928,7 +16931,7 @@ profileModel: 0.6.1
 profileR: 0.3-5
 profilr: 0.1.0
 profmem: 0.6.0
-profoc: 0.8.3
+profoc: 0.8.4
 profr: 0.3.3
 proftools: 0.99-3
 profvis: 0.3.7
@@ -17035,6 +17038,7 @@ psychotree: 0.15-4
 psychrolib: 2.5.2
 psymetadata: 1.0.0
 psymonitor: 0.0.2
+psyntur: 0.1.0
 psyosphere: 0.1.6
 psyphy: 0.2-2
 psytabs: '1.0'
@@ -17831,7 +17835,7 @@ regsubseq: '0.12'
 regtest: '0.05'
 regtomean: '1.0'
 regtools: 1.1.0
-rehh: 3.2.1
+rehh: 3.2.2
 rehh.data: 1.0.0
 rehydratoR: 0.5.2
 reinforcedPred: 0.1.1
@@ -17927,7 +17931,7 @@ reshapeGUI: 0.1.0
 resourcer: 1.1.0
 resper: '0.3'
 respirometry: 1.3.0
-restatapi: 0.10.7
+restatapi: 0.11.3
 restaurant: 0.1.0
 restez: 1.0.0
 restfulr: 0.0.13
@@ -17993,7 +17997,7 @@ rgam: 0.6.6
 rgauges: 0.2.0
 rgbif: 3.6.0
 rgcvpack: 0.1-4
-rgdal: 1.5-25
+rgdal: 1.5-26
 rgdax: 1.2.1
 rgee: 1.1.0
 rgen: 0.0.1
@@ -18057,6 +18061,7 @@ ridittools: '0.1'
 riem: 0.1.1
 rif: 0.2.0
 rifle: '1.0'
+rigr: 1.0.1
 riingo: 0.3.1
 rijkspalette: 1.0.2
 rim: 0.4.1
@@ -18971,6 +18976,7 @@ seqHMM: 1.1.1
 seqICP: '1.1'
 seqMeta: 1.6.7
 seqPERM: '1.0'
+seqR: 1.0.0
 seqRFLP: 1.0.1
 seqest: 1.0.1
 seqgendiff: 1.2.2
@@ -19826,6 +19832,7 @@ squid: 0.1.2
 sra: 0.1.3
 srcr: 1.0.0
 srd: '1.0'
+sregsurvey: 0.1.0
 srm: 0.3-6
 srp: 1.2.0
 srt: 1.0.3
@@ -19930,7 +19937,7 @@ statespacer: 0.4.0
 statfi: 0.9.8
 statgenGWAS: 1.0.7
 statgenGxE: 1.0.4
-statgenHTP: 1.0.4
+statgenHTP: 1.0.5
 statgenIBD: 1.0.1
 statgenSTA: 1.0.8
 stationaRy: 0.5.1
@@ -21066,6 +21073,7 @@ ubiquity: 2.0.0
 ubms: 1.0.2
 ucbthesis: '1.0'
 uchardet: 1.1.0
+ucie: 1.0.0
 uclust: 1.0.0
 ucminf: 1.1-4
 udapi: 0.1.3
@@ -21490,6 +21498,7 @@ webddx: 0.1.0
 webdeveloper: 0.1.0
 webdriver: 1.0.6
 webex: 0.9.2
+webexercises: 1.0.0
 webfakes: 1.1.3
 webglobe: 1.0.3
 webmockr: 0.8.0
@@ -21767,7 +21776,7 @@ yhat: 2.0-3
 yhatr: 0.15.1
 ykmeans: '1.0'
 yll: 1.0.0
-ymlthis: 0.1.4
+ymlthis: 0.1.5
 yonder: 0.2.0
 yorkr: 0.0.25
 yotover: 0.3.5
@@ -21791,7 +21800,7 @@ zeallot: 0.1.0
 zebu: 0.1.3.0
 zeitgebr: 0.3.5
 zeligverse: 0.1.1
-zen4R: 0.4-2
+zen4R: '0.5'
 zendeskR: '0.4'
 zenplots: 1.0.4
 zeroEQpart: 0.1.0
