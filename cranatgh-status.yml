@@ -4176,7 +4176,7 @@ PKreport: '1.5'
 PKtools: 1.5-0
 PL.popN: '1.2'
 PL94171: 0.3.2
-PLFD: 0.1.0
+PLFD: 0.1.1
 PLIS: '1.1'
 PLMIX: 2.1.1
 PLNmodels: 0.11.4
@@ -4688,7 +4688,7 @@ RCriteo: 1.0.2
 RCrypto: 0.1.0
 RCryptsy: '0.4'
 RCurl: 1.95-4.12
-RCytoGPS: 1.1.1
+RCytoGPS: 1.2.1
 RCzechia: 1.8.3
 RDF: '1.1'
 RDFTensor: '1.3'
@@ -5780,6 +5780,7 @@ SOLOMON: 1.0-1
 SOMEnv: 1.1.2
 SOMbrero: 1.3-1
 SOP: '1.0'
+SOPC: 0.0.1
 SOPIE: '1.5'
 SOR: 0.23.1
 SOUP: '1.1'
@@ -5837,7 +5838,7 @@ SSBtools: 1.2.2
 SSDL: '1.1'
 SSDM: 0.2.8
 SSDforR: 1.5.22
-SSHAARP: 1.0.1
+SSHAARP: 1.1.0
 SSL: '0.1'
 SSLASSO: 1.2-2
 SSLR: 0.9.3.3
@@ -6820,7 +6821,7 @@ XICOR: 0.3.3
 XKCDdata: 0.1.0
 XLConnect: 1.0.4
 XLConnectJars: 0.2-9
-XML: 3.99-0.7
+XML: 3.99-0.8
 XML2R: 0.0.6
 XMLSchema: 0.7-0
 XMRF: '1.0'
@@ -7591,7 +7592,7 @@ bayesMCClust: '1.0'
 bayesPop: 8.1-3
 bayesQR: '2.3'
 bayesSurv: '3.3'
-bayesTFR: 7.0-4
+bayesTFR: 7.0-5
 bayesZIB: 0.0.2
 bayesammi: 0.1.0
 bayesanova: '1.4'
@@ -10376,7 +10377,7 @@ eltr: 0.1.0
 em2: '0.9'
 emIRT: 0.0.11
 emax.glm: 0.1.2
-emayili: 0.4.18
+emayili: 0.5.0
 emba: 0.1.8
 embed: 0.1.4
 embryogrowth: '8.2'
@@ -10655,7 +10656,7 @@ excel.link: 0.9.9
 excelR: 0.4.0
 excelstrippr: 0.1.2
 excerptr: 2.0.1
-excursions: 2.5.1
+excursions: 2.5.2
 exdex: 1.0.1
 exdqlm: 0.1.2
 exif: 0.1.0
@@ -12041,7 +12042,7 @@ gms: 0.4.0
 gmt: 2.0.2
 gmum.r: 0.2.1
 gmvalid: '1.2'
-gmvarkit: 1.4.2
+gmvarkit: 1.5.0
 gmwm: 2.0.0
 gnFit: 0.2.0
 gnlm: 1.1.1
@@ -12718,7 +12719,7 @@ iNZightMR: 2.2.5
 iNZightPlots: 2.13.3
 iNZightRegression: 1.3.1
 iNZightTS: 1.5.8
-iNZightTools: 1.11.2
+iNZightTools: 1.12.0
 iNextPD: 0.3.2
 iRF: 2.0.0
 iRafNet: 1.1-1
@@ -13168,7 +13169,7 @@ ivitr: 0.1.0
 ivivc: 0.2.2
 ivlewbel: '1.1'
 ivmodel: 1.9.0
-ivmte: 1.2.0
+ivmte: 1.4.0
 ivpack: '1.2'
 ivpanel: '1.0'
 ivprobit: '1.1'
@@ -13179,6 +13180,7 @@ ivtools: 2.3.0
 ivx: 1.1.0
 iwtp: 1.0.0
 jSDM: 0.1.0
+jScore: 0.1.0
 jSonarR: 1.1.1
 jaatha: 3.2.1
 jabr: 0.1.2
@@ -14007,7 +14009,7 @@ mAr: 1.1-2
 mBvs: '1.5'
 mDAG: 1.2.2
 mExplorer: 1.0.0
-mFLICA: 0.1.1
+mFLICA: 0.1.3
 mFilter: 0.1-5
 mGSZ: '1.0'
 mHG: '1.1'
@@ -14188,7 +14190,7 @@ matricks: 0.8.2
 matrixLaplacian: '1.0'
 matrixNormal: 0.0.5
 matrixProfile: 0.5.0
-matrixStats: 0.60.1
+matrixStats: 0.61.0
 matrixStrucTest: 1.0.0
 matrixTests: 0.1.9
 matrixcalc: 1.0-5
@@ -14886,7 +14888,7 @@ mopac: 0.1.0
 mopsocd: 0.5.1
 moreparty: 0.2.1
 morgenstemning: '1.0'
-morphemepiece: 1.0.0
+morphemepiece: 1.0.1
 morphemepiece.data: 1.0.0
 morpheus: 1.0-1
 morphomap: '1.3'
@@ -15438,7 +15440,7 @@ nlrx: 0.4.2
 nls: 0.5-3
 nls.multstart: 1.2.0
 nls2: '0.2'
-nlsMicrobio: 0.0-1
+nlsMicrobio: 0.0-3
 nlsem: '0.8'
 nlshelper: '0.2'
 nlshrink: 1.0.1
@@ -15447,7 +15449,7 @@ nlsr: 2021.8.19
 nlsrk: '1.1'
 nlstac: 0.1.0
 nlstimedist: 2.0.0
-nlstools: 1.0-2
+nlstools: 2.0-0
 nlt: 2.2-1
 nltm: 1.4.2
 nlts: 1.0-2
@@ -15775,7 +15777,7 @@ openNLPmodels.en: 0.0-4
 openNLPmodels.es: 0.0-4
 openSTARS: 1.2.2
 openSkies: 1.1.4
-openVA: 1.0.12
+openVA: 1.0.13
 openadds: 0.2.0
 openair: 2.8-4
 openblender: 0.5.81
@@ -16990,7 +16992,7 @@ protolite: 2.1.1
 proton: '1.0'
 prototest: '1.2'
 protr: 1.6-2
-protti: 0.1.1
+protti: 0.2.0
 proustr: 0.4.0
 provDebugR: 1.0.1
 provExplainR: '1.1'
@@ -17960,7 +17962,7 @@ restrictedMVN: '1.0'
 restriktor: 0.3-100
 resumer: 0.0.5
 rethinker: 1.1.0
-reticulate: '1.21'
+reticulate: '1.22'
 retimes: 0.1-2
 retistruct: 0.6.3
 retractcheck: 1.0.0
@@ -19131,7 +19133,7 @@ shinyShortcut: 0.1.0
 shinyTime: 1.0.1
 shinyToastify: 2.0.0
 shinyTree: 0.2.7
-shinyWidgets: 0.6.1
+shinyWidgets: 0.6.2
 shinyaframe: 1.0.1
 shinyalert: 2.0.0
 shinyanimate: 0.3.0
@@ -19937,7 +19939,7 @@ startR: 2.1.0
 starter: 0.1.5
 startup: 0.15.0
 startupmsg: 0.9.6
-starvars: 1.1.5
+starvars: 1.1.7
 starvz: 0.5.0
 starwarsdb: 0.1.2
 stashR: '0.3'
@@ -20106,7 +20108,7 @@ stuart: 0.9.1
 stubthat: 1.2.1
 studentlife: 1.1.0
 studyStrap: 1.0.0
-styler: 1.5.1
+styler: 1.6.1
 stylest: 0.2.0
 stylo: 0.7.4
 suRtex: '0.9'
@@ -20601,7 +20603,7 @@ tictactoe: 0.2.2
 tictoc: 1.0.1
 tidyBF: 0.5.1
 tidyBdE: 0.2.0
-tidyCpp: 0.0.4
+tidyCpp: 0.0.5
 tidyHeatmap: 1.3.1
 tidyLPA: 1.0.8
 tidyMicro: '1.47'
@@ -21281,7 +21283,7 @@ varitas: 0.0.2
 varjmcm: 0.1.1
 varmixt: 0.2-4
 varrank: '0.4'
-vars: 1.5-3
+vars: 1.5-6
 varsExplore: 0.3.0
 vartors: 0.2.6
 varycoef: 0.3.1
