@@ -273,7 +273,7 @@ AzureCognitive: 1.0.1
 AzureContainers: 1.3.2
 AzureCosmosR: 1.0.0
 AzureGraph: 1.3.1
-AzureKeyVault: 1.0.4
+AzureKeyVault: 1.0.5
 AzureKusto: 1.0.6
 AzureML: 0.2.15
 AzureQstor: 1.0.1
@@ -2387,6 +2387,7 @@ Gini: 0.1.0
 GiniDistance: 0.1.0
 GiniWegNeg: 1.0.1
 Giza: '1.0'
+GlarmaVarSel: '1.0'
 GlmSimulatoR: 0.2.4
 GlobalDeviance: '0.4'
 GlobalFit: '1.2'
@@ -4797,7 +4798,7 @@ RItools: 0.1-17
 RJDBC: 0.2-8
 RJDemetra: 0.1.7
 RJSDMX: 2.3-3
-RJSONIO: 1.3-1.5
+RJSONIO: 1.3-1.6
 RJSONLD: '1.0'
 RJSplot: '2.5'
 RJaCGH: 2.0.4
@@ -4889,7 +4890,7 @@ ROCnReg: 1.0-5
 ROCpsych: '1.3'
 ROCt: 0.9.5
 ROCwoGS: '1.0'
-RODBC: 1.3-18
+RODBC: 1.3-19
 RODBCDBI: 0.1.1
 RODBCext: 0.3.2
 RODM: '1.1'
@@ -5600,7 +5601,7 @@ SAMM: 1.1.1
 SAMTx: 0.3.0
 SAMUR: '0.6'
 SAMURAI: 1.2.1
-SAMtool: 1.2.1
+SAMtool: 1.2.2
 SAPP: 1.0.8
 SAR: 1.0.3
 SARP.compo: 0.1.5
@@ -5882,7 +5883,7 @@ SVN: 1.0.1
 SWATmodel: 0.5.9
 SWIM: 0.2.2
 SWMPr: 2.4.1
-SWMPrExtension: 1.1.6
+SWMPrExtension: 1.1.7
 SWTools: 0.2.1.0
 SWordInstaller: 1.0-2
 SYNCSA: 1.3.4
@@ -6191,6 +6192,7 @@ StatPerMeCo: 0.1.0
 StatRank: 0.0.6
 StateTrace: '1.0'
 Statomica: '1.0'
+Statsomat: '1.0'
 SteinIV: 0.1-1
 SteinerNet: 3.1.0
 Stem: '1.0'
@@ -6778,7 +6780,7 @@ WebGestaltR: 0.4.4
 WebPower: '0.6'
 WeedMap: '0.1'
 WeibullFit: 0.1.0
-WeibullR: 1.0.12
+WeibullR: '1.1'
 WeightIt: 0.12.0
 WeightSVM: 1.7-5
 Weighted.Desc.Stat: '1.0'
@@ -7410,7 +7412,7 @@ auditor: 1.3.3
 audrex: 1.0.1
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.5
-auk: 0.4.4
+auk: 0.5.0
 aurelius: 0.8.4
 ausplotsR: 1.2.6
 auteur: 0.12.1010
@@ -8171,7 +8173,7 @@ btf: '1.2'
 bubblyr: 0.1.2
 bucky: 1.0.6
 buffeRs: '0.31'
-buildmer: '2.0'
+buildmer: '2.1'
 buildr: 0.1.0
 bujar: 0.2-9
 bulletcp: 1.0.0
@@ -9034,7 +9036,7 @@ coro: 1.0.1
 coroICA: 1.0.2
 corona: 0.3.0
 coronavirus: 0.3.22
-corpcor: 1.6.9
+corpcor: 1.6.10
 corpora: '0.5'
 corporaexplorer: 0.8.4
 corpus: 0.10.2
@@ -9297,6 +9299,7 @@ cudaBayesregData: 0.3-8
 cudia: '0.1'
 cultevo: 1.0.2
 cumSeg: '1.3'
+cuml: 0.2.0
 cuml4r: 0.1.0
 cumplyr: 0.1-1
 cumstats: '1.0'
@@ -10130,7 +10133,7 @@ dynsim: 1.2.3
 dynsurv: 0.4-2
 dynutils: 1.0.7
 dynwrap: 1.2.2
-e1071: 1.7-8
+e1071: 1.7-9
 eAnalytics: 0.1.4
 eBsc: '4.13'
 eCAR: 0.1.1
@@ -10376,7 +10379,7 @@ emax.glm: 0.1.2
 emayili: 0.4.18
 emba: 0.1.8
 embed: 0.1.4
-embryogrowth: '8.1'
+embryogrowth: '8.2'
 emdatr: '0.3'
 emdbook: 1.3.12
 emdi: 2.1.0
@@ -11264,6 +11267,7 @@ frequencies: 0.1.1
 frequency: 0.4.1
 frequencyConnectedness: 0.2.3
 frequentdirections: 0.1.0
+frequentistSSD: 0.1.0
 freqweights: 1.0.4
 fresh: 0.2.0
 friends: 0.1.0
@@ -15080,6 +15084,7 @@ multifear: 0.1.2
 multifluo: '1.1'
 multifwf: 0.2.2
 multigraph: '0.96'
+multigraphr: 0.1.0
 multigroup: 0.4.5
 multilaterals: '1.0'
 multilevel: '2.6'
@@ -17712,7 +17717,7 @@ rdyncall: 0.7.5
 re2: 0.1.1
 re2r: 0.2.0
 reGenotyper: 1.2.0
-reReg: 1.4.0
+reReg: 1.4.1
 reactR: 0.4.4
 reactable: 0.2.3
 reactablefmtr: 1.0.0
@@ -21658,7 +21663,7 @@ wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
 wrGraph: 1.3.0
-wrMisc: 1.6.1
+wrMisc: 1.6.2
 wrProteo: 1.4.3
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.2
