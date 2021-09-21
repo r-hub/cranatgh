@@ -192,7 +192,7 @@ AlignStat: 1.3.1
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: 1.0-2
-AlphaPart: 0.8.1
+AlphaPart: 0.8.2
 AlphaSimR: 1.0.4
 AlphaVantageClient: 0.0.1
 Amelia: 1.8.0
@@ -521,6 +521,7 @@ BayesNI: '0.1'
 BayesNSGP: 0.1.1
 BayesNetBP: 1.5.9
 BayesNetDiscovery: '0.1'
+BayesOrdDesign: 0.1.0
 BayesPPD: 1.0.3
 BayesPanel: 0.1-2
 BayesPen: '1.0'
@@ -764,7 +765,7 @@ CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
 CDatanet: 0.0.1
 CEAmarkov: 0.1.0
-CEC: 0.9.4
+CEC: 0.10.3
 CEDARS: '1.90'
 CEGO: 2.4.2
 CENFA: 1.1.1
@@ -1474,7 +1475,7 @@ DescribeDisplay: 0.2.7
 DescriptiveStats.OBeu: 1.3.2
 DescriptiveWH: 1.0.3
 Design: 2.3-0
-DesignCTPB: 1.1.1
+DesignCTPB: 1.1.3
 DesignLibrary: 0.1.8
 DesignPatterns: 0.1.2
 DetLifeInsurance: 0.1.3
@@ -3176,7 +3177,7 @@ MADPop: 1.1.2
 MAFDash: 0.1.0
 MAGEE: 1.0.0
 MAGNAMWAR: 2.0.4
-MAINT.Data: 2.6.1
+MAINT.Data: 2.6.2
 MALDIquant: '1.20'
 MALDIquantForeign: '0.12'
 MALDIrppa: 1.0.5
@@ -3498,7 +3499,7 @@ MVpower: '2.0'
 MWLasso: 1.3.1
 MWRidge: 1.0.0
 MWright: 0.3.2
-MXM: 1.5.1
+MXM: 1.5.2
 MaOEA: 0.6.2
 MaXact: 0.2.1
 MachineLearning: 0.1.4
@@ -3634,7 +3635,7 @@ MicroMacroMultilevel: 0.4.0
 MicroNiche: 1.0.0
 MicroSEC: 1.1.3
 MicroStrategyR: 1.0-1
-Microsoft365R: 2.3.0
+Microsoft365R: 2.3.1
 MigClim: '1.6'
 MinBAR: 1.1.2
 MinEDfind: 0.1.3
@@ -3941,7 +3942,7 @@ NormalLaplace: 0.3-0
 NormalizeMets: '0.25'
 NostalgiR: 1.0.2
 Nozzle.R1: 1.1-1
-Numero: 1.8.2
+Numero: 1.8.4
 NutrienTrackeR: 1.1.0
 OAIHarvester: 0.3-2
 OBASpatial: '1.8'
@@ -4386,6 +4387,7 @@ PlotContour: 0.1.0
 PlotPrjNetworks: 1.0.0
 PlotRegionHighlighter: '1.0'
 PoA: 1.2.1
+PoDBAY: 1.4.3
 PoMoS: '1.1'
 PoSI: '1.1'
 PogromcyDanych: '1.7'
@@ -4815,7 +4817,7 @@ RKHSMetaMod: '1.1'
 RKUM: 0.1.1
 RKelly: '1.0'
 RKlout: '1.0'
-RKorAPClient: 0.6.1
+RKorAPClient: 0.7.1
 RLMM: 1.8.0
 RLRsim: 3.1-6
 RLT: 3.2.3
@@ -5242,6 +5244,7 @@ RcppBlaze: 0.2.2
 RcppCCTZ: 0.2.9
 RcppCNPy: 0.2.10
 RcppCWB: 0.4.3
+RcppCensSpatial: 0.1.0
 RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
 RcppDE: 0.1.6
@@ -6631,7 +6634,7 @@ UncerIn2: '2.0'
 UncertainInterval: 0.7.0
 UniDOE: '1.0'
 UniIsoRegression: 0.0-0
-Unicode: 13.0.0-2
+Unicode: 14.0.0-1
 UnifiedDoseFinding: 0.1.8
 UniprotR: 2.0.8
 UnitCircle: 0.1.3
@@ -7524,7 +7527,7 @@ ballr: 0.2.6
 bama: '1.2'
 bamboo: 0.9.25
 bamdit: 3.3.2
-bamlss: 1.1-4
+bamlss: 1.1-5
 bamp: 2.1.0
 bams: '1.6'
 banR: 0.2.2
@@ -8166,7 +8169,7 @@ bsplinePsd: 0.6.0
 bsplus: 0.1.2
 bspm: 0.3.8
 bspmma: 0.1-2
-bssm: 1.1.7
+bssm: 1.1.7-1
 bssn: '1.0'
 bst: 0.3-23
 bstats: 1.1-11-5
@@ -8519,7 +8522,7 @@ chess: 1.0.1
 chest: 0.3.5
 chi: '0.1'
 chi2x3way: '1.1'
-chicane: 0.1.6
+chicane: 0.1.7
 chickn: 1.2.3
 childdevdata: 1.1.0
 childesr: 0.2.1
@@ -8663,7 +8666,7 @@ clipp: 1.1.0
 clipr: 0.7.1
 cliqueMS: 0.3.1
 clisymbols: 1.2.0
-clock: 0.4.0
+clock: 0.4.1
 clockify: 0.0.9
 clogitL1: '1.5'
 clogitLasso: '1.1'
@@ -10011,7 +10014,7 @@ dragon: 1.2.0
 dragonking: 0.1.0
 dragracer: 0.1.6
 dragulaR: 0.3.1
-drake: 7.13.2
+drake: 7.13.3
 drat: 0.2.1
 draw: 1.0.0
 drawExpression: '1.0'
@@ -11336,7 +11339,7 @@ functional: '0.6'
 functiondepends: 0.2.1
 functools: 0.2.0
 funcy: 1.0.1
-fundiversity: 0.2.0
+fundiversity: 0.2.1
 funest: 0.0.1.3
 funfits: 2.0-3
 fungible: '1.98'
@@ -13779,7 +13782,7 @@ listenv: 0.8.0
 listless: 0.0-2
 listviewer: 3.0.0
 liteq: 1.1.0
-litteR: 0.9.0
+litteR: 0.9.1
 littler: 0.3.13
 liureg: 1.1.2
 live: 1.5.13
@@ -14320,7 +14323,7 @@ mdsstat: 0.3.2
 mdthemes: 0.1.0
 mdw: 2020.6-17
 meaRtools: 1.0.4
-meanShiftR: '0.53'
+meanShiftR: '0.56'
 meanr: 0.1-3
 meanscore: 1.0-6
 meantables: 0.1.0
@@ -14960,7 +14963,7 @@ mrMLM: 4.0.2
 mrMLM.GUI: 4.0.2
 mra: 2.16.11
 mratios: 1.4.2
-mrbayes: 0.4.0
+mrbayes: 0.5.0
 mrbin: 1.6.0
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
@@ -15077,6 +15080,7 @@ multiRDPG: 1.0.1
 multiROC: 1.1.1
 multiband: 0.1.0
 multibiplotGUI: '1.0'
+multiblock: 0.8.0
 multibridge: 1.1.0
 multic: 0.4.3
 multicastR: 2.0.0
@@ -16168,7 +16172,7 @@ patternator: 0.1.0
 patternize: 0.0.2
 patternplot: 1.0.0
 pauwels2014: '1.0'
-pavo: 2.7.0
+pavo: 2.7.1
 pawacc: 1.2.2
 pawls: 1.0.0
 paws: 0.1.12
@@ -16282,7 +16286,7 @@ pedigreemm: 0.3-3
 pedmut: 0.2.0
 pedometrics: 0.7.0
 pedprobr: 0.5.0
-pedquant: 0.1.6
+pedquant: 0.1.7
 pedsuite: 1.0.4
 pedtools: 1.0.1
 peermodels: 0.10.2
@@ -16570,7 +16574,7 @@ pliman: 0.3.0
 plink: 1.5-1
 plinkFile: 0.1.0
 plinkQC: 0.3.4
-plm: 2.4-1
+plm: 2.4-2
 plmDE: '1.0'
 plmm: 0.1-1
 pln: 0.2-2
@@ -16766,7 +16770,7 @@ portalr: 0.3.8
 portes: '5.0'
 portfolio: 0.5-2
 portfolio.optimization: 1.0-0
-portfolioBacktest: 0.2.3
+portfolioBacktest: 0.3.0
 portfolioSim: 0.2-7
 portsort: 0.1.0
 postCP: 1.7.2
@@ -16837,7 +16841,7 @@ pragma: 0.1.3
 prais: 1.1.1
 praise: 1.0.0
 praktikum: '0.1'
-praznik: 8.0.0
+praznik: 9.0.0
 prc: 2019.1-23
 prcbench: 1.0.1
 prclust: '1.3'
@@ -17206,7 +17210,7 @@ qqr: 0.0.1
 qqtest: 1.2.0
 qqvases: 1.0.0
 qrLMM: '2.1'
-qrNLMM: '2.2'
+qrNLMM: '3.0'
 qra: 0.1.8
 qrage: '1.0'
 qrandom: 1.2.4
@@ -17574,7 +17578,7 @@ rase: 0.3-3
 raster: 3.4-13
 rasterDT: 0.3.1
 rasterImage: 0.4.0
-rasterKernelEstimates: 1.0.1
+rasterKernelEstimates: 1.0.2
 rasterList: 0.5.8
 rasterVis: 0.50.3
 rasterdiv: 0.2-3
@@ -18511,7 +18515,7 @@ rstiefel: 1.0.1
 rstoat: 1.0.0
 rstpm2: 1.5.2
 rstream: 1.3.6
-rstudio.prefs: 0.1.6
+rstudio.prefs: 0.1.7
 rstudioapi: '0.13'
 rstyles: 0.4.0
 rsubgroup: '1.1'
@@ -19722,7 +19726,7 @@ speccalt: 0.1.1
 speciesgeocodeR: 1.0-4
 specificity: '0.1'
 specklestar: 0.0.1.7
-specmine: 3.1.5
+specmine: 3.1.6
 specmine.datasets: 0.0.2
 specr: 0.2.1
 specs: 0.1.1
@@ -19855,6 +19859,7 @@ spup: 1.3-2
 spweights: 0.1-7
 sqldf: 0.4-11
 sqliter: 0.1.0
+sqliteutils: 0.1.0
 sqlparseR: 0.1.0
 sqlscore: 0.1.4
 sqlshare: 1.0.3
@@ -20241,7 +20246,7 @@ survivalMPLdc: 0.1.1
 survivalROC: 1.0.3
 survivalmodels: 0.1.9
 survivalsvm: 0.0.5
-survivoR: 0.9.3
+survivoR: 0.9.4
 survminer: 0.4.9
 survmixer: '1.3'
 survrec: 1.2-2
@@ -20414,9 +20419,9 @@ tangram.pipe: 1.0.0
 tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
-tarchetypes: 0.3.0
+tarchetypes: 0.3.1
 targeted: 0.1.1
-targets: 0.7.0
+targets: 0.8.0
 tashu: 0.1.1
 taskPR: '0.34'
 taskscheduleR: '1.5'
