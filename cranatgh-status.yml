@@ -430,7 +430,7 @@ BPM: 1.0.0
 BRACoD.R: 0.0.1.2
 BRDT: 0.1.0
 BRETIGEA: 1.0.3
-BRISC: 1.0.1
+BRISC: 1.0.2
 BRL: 0.1.0
 BRugs: 0.9-0
 BSBT: 1.1.0
@@ -470,7 +470,7 @@ BacArena: 1.8.2
 Bagidis: '1.0'
 BalanceCheck: '0.2'
 BalancedSampling: 1.5.5
-Ball: 1.3.11
+Ball: 1.3.12
 BallMapper: 0.2.0
 BarBorGradient: 1.0.5
 BarcodingR: 1.0-3
@@ -1612,6 +1612,7 @@ EDOtrans: 0.1.0
 EDR: 0.6-7
 EDanalysis: '1.0'
 EEM: 1.1.1
+EEMDSVR: 0.1.0
 EEMDelm: 0.1.0
 EESPCA: 0.3.0
 EFA.MRFA: 1.1.2
@@ -1660,7 +1661,7 @@ EMMIXuskew: 0.11-6
 EMMLi: 0.0.3
 EMMREML: '3.1'
 EMP: 2.0.5
-EMSC: 0.9.2
+EMSC: 0.9.3
 EMSHS: 1.0.0
 EMSNM: '1.0'
 EMSS: 1.1.0
@@ -3834,7 +3835,7 @@ NMdata: 0.0.9
 NMproject: 0.6.5
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.8.0
+NNS: 0.8.1
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.4
@@ -4845,7 +4846,7 @@ RMSNumpress: 1.0.1
 RMTL: '0.9'
 RMThreshold: '1.1'
 RMTstat: '0.3'
-RMVL: 0.0.2.1
+RMVL: 0.0.3.0
 RMaCzek: 1.3.5
 RMallow: '1.1'
 RMariaDB: 1.1.2
@@ -5117,7 +5118,7 @@ RandVar: 1.2.1
 RandomCoefficients: 0.0.2
 RandomFields: 3.3.8
 RandomFieldsUtils: 0.5.3
-RandomForestsGLS: 0.1.2
+RandomForestsGLS: 0.1.3
 Randomuseragent: 0.0.1
 RanglaPunjab: 2.3.4
 RankAggreg: 0.6.6
@@ -6616,6 +6617,7 @@ UScensus2000tract: '0.03'
 UScensus2010: 0.20.0
 USgas: 0.1.1
 USgrid: 0.1.2
+USpopcenters: 0.1.0
 UStatBookABSC: 1.0.0
 UWHAM: '1.0'
 UdderQuarterInfectionData: 1.0.0
@@ -8077,7 +8079,7 @@ boxcoxmix: '0.28'
 boxoffice: 1.3.0
 boxplotdbl: 1.3.0
 boxr: 0.3.6
-bp: 1.0.1
+bp: 2.0.0
 bpDir: 0.1.2
 bpa: 0.1.1
 bpbounds: 0.1.4
@@ -8635,7 +8637,7 @@ clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-7
 climaemet: 1.0.0
-climate: 1.0.1
+climate: 1.0.3
 climate.plot: 0.1-2
 climateStability: 0.1.3
 climatol: 3.1.2
@@ -9303,7 +9305,7 @@ cudaBayesregData: 0.3-8
 cudia: '0.1'
 cultevo: 1.0.2
 cumSeg: '1.3'
-cuml: 0.2.0
+cuml: 0.2.1
 cuml4r: 0.1.0
 cumplyr: 0.1-1
 cumstats: '1.0'
@@ -9584,7 +9586,7 @@ decor: 1.0.0
 decorators: 0.1.0
 deducorrect: 1.3.7
 deductive: 1.0.0
-dedupewider: 0.0.1
+dedupewider: 0.0.2
 deep: 0.1.0
 deepMOU: 0.1.1
 deepNN: '1.1'
@@ -10456,7 +10458,7 @@ envi: 0.1.10
 enviGCMS: 0.6.6
 enviPat: '2.4'
 enviPick: '1.5'
-envir: 0.2.0
+envir: 0.2.1
 envirem: '2.3'
 envlpaster: 0.1-2
 envnames: 0.4.1
@@ -11676,7 +11678,7 @@ geomapdata: 1.0-4
 geomedb: 2.0.1
 geomerge: 0.3.2
 geometa: 0.6-4
-geometr: 0.2.9
+geometr: 0.2.10
 geometries: 0.2.0
 geometry: 0.4.5
 geomnet: 0.3.1
@@ -11763,7 +11765,7 @@ ggFacetSample: 1.0.0
 ggHoriPlot: 1.0.0
 ggHorizon: '0.1'
 ggOceanMaps: '1.1'
-ggPMX: 1.2.3
+ggPMX: 1.2.4
 ggQC: 0.0.31
 ggQQunif: 0.1.5
 ggROC: '1.0'
@@ -12540,11 +12542,12 @@ hmmhdd: '1.0'
 hmmm: 1.0-4
 hmmr: 1.0-0
 hms: 1.1.0
-hmstimer: 0.1.0
+hmstimer: 0.1.1
 hnp: 1.2-6
 hoa: 2.1.4.1
 hoardeR: 0.9.4-2
 hoardr: 0.5.2
+hockeyR: 0.1.0
 hockeystick: 0.6.1
 hof: '0.1'
 hogsvdR: '0.1'
@@ -12613,7 +12616,7 @@ httk: 2.0.4
 httpRequest: 0.0.10
 httpcache: 1.2.0
 httpcode: 0.3.0
-httpgd: 1.2.0
+httpgd: 1.2.1
 httping: 0.2.0
 httpproblems: 1.0.1
 httptest: 4.0.0
@@ -13968,7 +13971,7 @@ lspartition: '0.4'
 lspline: 1.0-0
 lspls: 0.2-2
 lsplsGlm: '1.0'
-lsr: '0.5'
+lsr: 0.5.1
 lss: '0.52'
 lss2: '1.1'
 ltable: '1.0'
@@ -14068,7 +14071,7 @@ magrittr: 2.0.1
 maic: 0.1.3
 mail: '1.0'
 mailR: 0.4.1
-mailmerge: 0.2.1
+mailmerge: 0.2.2
 mailtoR: 0.1.0
 majesticR: 0.1.1
 makeFlow: 1.0.2
@@ -15315,6 +15318,7 @@ nestedRanksTest: '0.2'
 nestfs: '1.0'
 nestr: 0.1.1
 net.security: 0.3.0
+net4pg: 0.1.0
 netCDF: '1.5'
 netClass: '1.2'
 netClust: 1.0.1
@@ -15441,7 +15445,7 @@ nlreg: 1.2-2.2
 nlrq: 0.1-6
 nlrr: '0.1'
 nlrwr: 1.1-0
-nlrx: 0.4.2
+nlrx: 0.4.3
 nls: 0.5-3
 nls.multstart: 1.2.0
 nls2: '0.2'
@@ -17049,7 +17053,7 @@ psycModel: 0.3.2
 psych: 2.1.6
 psychNET: 0.0.4
 psychReport: 3.0.1
-psychTools: 2.1.6
+psychTools: 2.1.8
 psychmeta: 2.6.0
 psychmetadata: 1.0.0
 psycho: 0.6.1
@@ -17740,7 +17744,7 @@ readABF: 1.0.2
 readBrukerFlexData: 1.8.5
 readGenalex: '1.0'
 readHAC: '1.0'
-readJDX: 0.5.61
+readJDX: 0.6.1
 readMETEO: '1.2'
 readMLData: 0.9-7
 readMzXmlData: 2.8.1
@@ -18229,7 +18233,7 @@ rneos: 0.4-0
 rnetcarto: 0.2.4
 rngSetSeed: 0.3-2
 rngWELL: 0.10-6
-rngtools: '1.5'
+rngtools: 1.5.2
 rngwell19937: 0.6-0
 rnn: 1.4.0
 rnoaa: 1.3.4
@@ -18507,7 +18511,7 @@ rstiefel: 1.0.1
 rstoat: 1.0.0
 rstpm2: 1.5.2
 rstream: 1.3.6
-rstudio.prefs: 0.1.5
+rstudio.prefs: 0.1.6
 rstudioapi: '0.13'
 rstyles: 0.4.0
 rsubgroup: '1.1'
@@ -19169,7 +19173,7 @@ shinyloadtest: 1.1.0
 shinylogs: 0.1.7
 shinymanager: 1.0.400
 shinymaterial: 1.2.0
-shinymeta: 0.2.0.1
+shinymeta: 0.2.0.2
 shinyobjects: 0.2.0
 shinypanel: 0.1.4
 shinypanels: 0.5.0
@@ -19309,7 +19313,7 @@ simputation: 0.2.7
 simr: 1.0.5
 simrec: 1.0.0
 simrel: 2.1.0
-sims: 0.0.2
+sims: 0.0.3
 simsalapar: 1.0-10
 simsem: 0.5-16
 simsl: 0.2.1
@@ -19381,7 +19385,7 @@ skpr: 1.0.0
 skynet: 1.4.0
 skyscapeR: 0.2.2
 sla: '0.1'
-slackr: 3.0.1
+slackr: 3.2.0
 slam: 0.1-48
 slanter: 0.2-0
 sld: 0.3.3
@@ -20850,7 +20854,7 @@ trafo: 1.0.1
 trainR: 0.0.1
 traineR: 1.6.2
 traipse: 0.2.0
-traitdataform: 0.6.6
+traitdataform: 0.6.7
 traitr: '0.9'
 traits: 0.5.0
 traj: '1.2'
@@ -21208,6 +21212,7 @@ useful: 1.2.6
 usefun: 0.4.8
 usemodels: 0.1.0
 userfriendlyscience: 0.7.2
+usethat: 0.3.0
 usethis: 2.0.1
 usethis2: 0.2.0
 usfertilizer: 0.1.5
