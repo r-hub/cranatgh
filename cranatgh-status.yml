@@ -2957,7 +2957,7 @@ L0Learn: 2.0.3
 L1mstate: '1.0'
 L1pack: 0.38.196
 L2DensityGoFtest: 0.1.0
-LA: 0.1.1
+LA: 0.1.2
 LAGOSNE: 2.0.2
 LAM: 0.5-15
 LANDD: 1.1.0
@@ -5118,8 +5118,8 @@ RandMeta: 0.1.0
 RandPro: 0.2.2
 RandVar: 1.2.1
 RandomCoefficients: 0.0.2
-RandomFields: 3.3.8
-RandomFieldsUtils: 0.5.3
+RandomFields: 3.3.10
+RandomFieldsUtils: 0.5.4
 RandomForestsGLS: 0.1.3
 Randomuseragent: 0.0.1
 RanglaPunjab: 2.3.4
@@ -6001,7 +6001,7 @@ SigOptR: 0.0.1
 SigTree: 1.10.6
 SigWinR: '1.0'
 SightabilityModel: 1.4.1
-Signac: 1.3.0
+Signac: 1.4.0
 SignacX: 2.2.4
 SignifReg: '4.1'
 Sim.DiffProc: '4.8'
@@ -6478,7 +6478,7 @@ TensorTest2D: 1.0.3
 Ternary: 1.2.2
 TestCor: 0.0.2.2
 TestDataImputation: '2.2'
-TestDesign: 1.2.5
+TestDesign: 1.2.6
 TestDimorph: 0.4.1
 TestFunctions: 0.2.0
 TestGardener: 0.1.4
@@ -6557,7 +6557,7 @@ TreeDist: 2.2.0
 TreeLS: 2.0.2
 TreePar: '3.3'
 TreeRank: 1.1-0
-TreeSearch: 0.4.3
+TreeSearch: 1.0.0
 TreeSim: '2.4'
 TreeSimGM: '2.5'
 TreeTools: 1.5.0
@@ -6909,6 +6909,7 @@ abf2: 0.7-1
 abglasso: 0.1.1
 abind: 1.4-5
 abjutils: 0.3.1
+abmR: 1.0.2
 abn: 2.5-0
 abnormality: 0.1.0
 abodOutlier: '0.1'
@@ -6963,7 +6964,7 @@ adagio: 0.8.4
 adamethods: 1.2.1
 adapr: 2.0.0
 adapt: '1.0'
-adapt4pv: 0.2-0
+adapt4pv: 0.2-1
 adaptDA: '1.0'
 adaptDiag: 0.1.0
 adaptMCMC: '1.4'
@@ -7230,7 +7231,7 @@ apexcharter: 0.2.0
 aphid: 1.3.3
 apisensr: 0.3.0
 aplore3: '0.9'
-aplot: 0.1.0
+aplot: 0.1.1
 aplpack: 1.3.3
 apmsWAPP: '1.0'
 apng: '1.1'
@@ -8093,6 +8094,7 @@ bpgmm: 1.0.7
 bpkde: '1.0'
 bpnreg: 2.0.2
 bpp: 1.0.2
+bpr: 1.0.4
 bqror: 1.1.0
 bqtl: 1.0-33
 braQCA: 1.0.0.1
@@ -8107,7 +8109,7 @@ brainwaver: '1.6'
 branchLars: '1.0'
 brandwatchR: 0.3.0
 brant: 0.3-0
-bravo: 2.0.0
+bravo: 2.0.1
 brazilmaps: 0.1.0
 brea: 0.2.0
 breakDown: 0.2.1
@@ -8220,7 +8222,7 @@ c2c: 0.1.0
 c2d4u.tools: '1.2'
 c3: 0.3.0
 c3net: 1.1.1
-cAIC4: '0.9'
+cAIC4: '1.0'
 cIRT: 1.3.1
 cMonkey: 4.9.2
 cNORM: 2.1.0
@@ -8655,7 +8657,7 @@ clinDR: 2.3.5
 clinDataReview: 1.1.0
 clinPK: 0.9.0
 clinUtiDNA: '1.0'
-clinUtils: 0.0.4
+clinUtils: 0.1.0
 clines: 2.0-3
 clinfun: 1.0.15
 clinmon: 0.6.0
@@ -9149,7 +9151,7 @@ cplexAPI: 1.4.0
 cplm: 0.7-9
 cplots: 0.4-0
 cpm: '2.3'
-cpp11: 0.3.1
+cpp11: 0.4.0
 cppRouting: '2.0'
 cppcor: '1.2'
 cpr: 0.2.3
@@ -9378,7 +9380,7 @@ cytofan: 0.1.0
 cytometree: 2.0.2
 cytominer: 0.2.2
 czechrates: 0.2.2
-czso: 0.3.4
+czso: 0.3.5
 d3Network: 0.5.2.1
 d3Tree: 0.2.2
 d3heatmap: 0.6.1
@@ -9561,7 +9563,7 @@ ddsPLS: 1.1.4
 ddst: '1.4'
 deBInfer: 0.4.2
 deGradInfer: 1.0.1
-deSolve: '1.28'
+deSolve: '1.29'
 deTS: '1.0'
 deTestSet: 1.1.7.2
 deaR: 1.2.3
@@ -11756,7 +11758,7 @@ gfilmm: 2.0.4
 gfilogisreg: 1.0.1
 gfmR: 1.1-0
 gfoRmula: 0.3.2
-gfonts: 0.1.2
+gfonts: 0.1.3
 gfpop: 1.0.3
 gg.gap: '1.3'
 ggBubbles: 0.1.4
@@ -11971,6 +11973,7 @@ gld: 2.6.2
 gldist: '2160.2'
 gldrm: '1.5'
 glinternet: 1.0.12
+glinvci: 1.1.4
 gllm: '0.37'
 gllvm: 1.3.1
 glm.ddR: 0.1.1
@@ -12192,7 +12195,7 @@ greta: 0.3.1
 gretel: 0.0.1
 gretlR: 0.1.0
 grex: '1.9'
-greybox: 1.0.0
+greybox: 1.0.1
 greyzoneSurv: '1.0'
 grf: 2.0.2
 grid: 0.7-4
@@ -12625,6 +12628,7 @@ httpproblems: 1.0.1
 httptest: 4.0.0
 httpuv: 1.6.3
 httr: 1.4.2
+httr2: 0.1.0
 hues: 0.2.0
 huge: 1.3.5
 humanFormat: '1.0'
@@ -13218,7 +13222,7 @@ jeek: 1.1.1
 jenkins: '1.0'
 jetpack: 0.5.0
 jetset: 3.4.0
-jfa: 0.5.7
+jfa: 0.6.0
 jiebaR: '0.11'
 jiebaRD: '0.1'
 jipApprox: 0.1.3
@@ -13550,7 +13554,7 @@ latexdiffr: 0.1.0
 latexpdf: 0.1.7
 latrend: 1.1.2
 latte: 0.2.1
-lattice: 0.20-44
+lattice: 0.20-45
 latticeDensity: 1.2.6
 latticeExtra: 0.6-29
 latticedl: '1.2'
@@ -14438,7 +14442,7 @@ metamicrobiomeR: '1.2'
 metamisc: 0.2.5
 metan: 1.15.0
 metansue: '2.4'
-metap: '1.4'
+metap: '1.5'
 metapack: 0.1.3
 metaplot: 0.8.3
 metaplotr: 0.0.3
@@ -14529,7 +14533,7 @@ miceRanger: 1.5.0
 miceadds: 3.11-6
 micemd: 1.7.0
 michelRodange: 1.0.0
-miclust: 1.2.6
+miclust: 1.2.7
 micompr: 1.1.1
 microPop: '1.5'
 microSTASIS: 0.1.0
@@ -14600,7 +14604,7 @@ minxent: '0.01'
 mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
-miraculix: 0.9.20
+miraculix: 0.9.23
 mirf: '1.0'
 mirt: '1.34'
 mirtCAT: '1.11'
@@ -14970,6 +14974,7 @@ mrdrc: 1.0-6
 mrds: 2.2.5
 mreg: '1.1'
 mregions: 0.1.6
+mrf: 0.1.5
 mrf2d: '0.5'
 mrfDepth: 1.0.13
 mrfse: '0.2'
@@ -14992,7 +14997,7 @@ msProstate: 1.0.3
 msSPChelpR: 0.8.7
 msSurv: 1.2-2
 msaFACE: 0.1.0
-msaR: 0.5.0
+msaR: 0.6.0
 msae: 0.1.3
 msaeDB: 0.2.1
 msaeRB: 0.2.1
@@ -15208,6 +15213,7 @@ mvtmeta: '1.1'
 mvtnorm: 1.1-2
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-1
+mwTensor: 0.99.1
 mwa: 0.4.3
 mwaved: 1.1.7
 mwshiny: 2.1.0
@@ -15879,7 +15885,7 @@ orddom: '3.1'
 orderbook: '1.03'
 orderedLasso: '1.7'
 ordering: 0.7.0
-orderly: 1.3.0
+orderly: 1.4.3
 orders: 0.1.6
 orderstats: 0.1.0
 ordiBreadth: '1.0'
@@ -15901,6 +15907,7 @@ orgR: 0.9.0
 orgutils: 0.4-1
 orientlib: 0.10.4
 origami: 1.0.3
+origin: 0.5.3
 originr: 0.4.0
 orloca: '4.10'
 orloca.es: '4.9'
@@ -16086,7 +16093,7 @@ parallelPlot: 0.1.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
 parallelly: 1.28.1
-param6: 0.2.1
+param6: 0.2.2
 paramGUI: 2.1.4
 parameters: 0.14.0
 paramhetero: 0.2.0
@@ -17054,7 +17061,7 @@ pssmooth: 1.0.3
 pstest: 0.1.3.900
 psy: '1.1'
 psycModel: 0.3.2
-psych: 2.1.6
+psych: 2.1.9
 psychNET: 0.0.4
 psychReport: 3.0.1
 psychTools: 2.1.8
@@ -17239,6 +17246,7 @@ qtl2: '0.24'
 qtl2convert: '0.24'
 qtl2fst: '0.24'
 qtl2ggplot: 1.1.0
+qtl2pattern: 1.0.17
 qtl2pleio: 1.4.3
 qtlDesign: '0.941'
 qtlbim: 2.0.7
@@ -17386,7 +17394,7 @@ rFIA: 0.3.2
 rFSA: 0.9.6
 rFTRLProximal: 1.0.0
 rFUSION: '0.1'
-rFerns: 4.0.0
+rFerns: 5.0.0
 rForest: '0.1'
 rGEDI: 0.1.11
 rGammaGamma: 1.0.12
@@ -17575,6 +17583,7 @@ rarms: 1.0.0
 rasciidoc: 3.1.3
 rasclass: 0.2.2
 rase: 0.3-3
+rassta: 1.0.0
 raster: 3.4-13
 rasterDT: 0.3.1
 rasterImage: 0.4.0
@@ -17891,7 +17900,7 @@ relaxo: 0.1-2
 reldist: 1.6-6
 relen: 1.0.1
 relevance: '1.3'
-relevent: 1.0-4
+relevent: '1.1'
 relgam: '1.0'
 reliaR: '0.01'
 reliabilitydiag: 0.1.3
@@ -17978,6 +17987,7 @@ restrictedMVN: '1.0'
 restriktor: 0.3-100
 resumer: 0.0.5
 rethinker: 1.1.0
+rethnicity: 0.1.1
 reticulate: '1.22'
 retimes: 0.1-2
 retistruct: 0.6.3
@@ -18045,7 +18055,7 @@ rgeoda: 0.0.8-6
 rgeolocate: 1.3.1
 rgeopat2: 0.3.9
 rgeoprofile: 0.2.2
-rgeos: 0.5-7
+rgeos: 0.5-8
 rgeospatialquality: 0.3.2
 rgexf: 0.16.2
 rggm: 1.0.1
@@ -18497,6 +18507,7 @@ rsparse: 0.4.0
 rspear: 0.1-2
 rspiro: '0.2'
 rsppfp: 1.0.4
+rsprite2: 0.1.0
 rsprng: '1.0'
 rsq: '2.2'
 rsqliteadmin: 1.0.1
@@ -18681,7 +18692,7 @@ safejoin: 0.1.0
 safer: 0.2.1
 safetyCharts: 0.2.0
 safetyData: 1.0.0
-safetyGraphics: 1.1.0
+safetyGraphics: 2.0.0
 safi: '1.0'
 sageR: 0.3.0
 sail: 0.1.0
@@ -18760,7 +18771,7 @@ sboost: 0.1.1
 sbpiper: 1.9.0
 sbrl: '1.2'
 sbtools: 1.1.17
-sbw: 1.1.3
+sbw: 1.1.5
 scBio: 0.1.6
 scCAN: 1.0.1
 scDHA: 1.1.2
@@ -18772,6 +18783,7 @@ scMappR: 1.0.2
 scModels: 1.0.2
 scPDSI: 0.1.3
 scPOP: 0.1.0
+scRNAstat: 0.1.1
 scRNAtools: '1.0'
 scSorter: 0.0.2
 scTenifoldKnk: 1.0.1
@@ -18788,7 +18800,7 @@ scales: 1.1.1
 scalpel: 1.0.3
 scalreg: 1.0.1
 scam: 1.2-12
-scan: '0.51'
+scan: '0.53'
 scanstatistics: 1.0.1
 scape: 2.3.3
 scapeMCMC: 1.1-3
@@ -19110,7 +19122,7 @@ sheldusr: '0.1'
 shelltrace: 3.5.1
 shiftR: '1.5'
 shinipsum: 0.1.0
-shiny: 1.6.0
+shiny: 1.7.0
 shiny.i18n: 0.2.0
 shiny.info: 0.2.0
 shiny.pwa: 0.2.1
@@ -19235,7 +19247,7 @@ sigloc: 0.0.4
 sigma2tools: '1.2'
 sigmaNet: 1.1.0
 sigmajs: 0.1.5
-sigminer: 2.0.5
+sigminer: 2.1.0
 sigmoid: 0.3.0
 signal: 0.7-7
 signal.hsmm: '1.2'
@@ -19355,7 +19367,7 @@ sitar: 1.2.0
 siteymlgen: 1.0.0
 sitmo: 2.0.1
 sitools: '1.4'
-sitree: 0.1-9
+sitree: 0.1-10
 sitreeE: 0.0-7
 sitsfeats: 0.0.1
 sivipm: 1.1-4
@@ -19452,7 +19464,7 @@ smnet: 2.1.2
 smog: 2.1.0
 smoke: 2.0.0
 smoof: 1.6.0.2
-smooth: 3.1.2
+smooth: 3.1.3
 smoothAPC: '0.3'
 smoothHR: 1.0.2
 smoothROCtime: 0.1.0
@@ -19463,7 +19475,7 @@ smoothie: 1.0-3
 smoothmest: 0.1-2
 smoothr: 0.2.2
 smoothtail: 2.0.5
-smoots: 1.1.0
+smoots: 1.1.1
 smotefamily: 1.3.1
 smovie: 1.1.3
 smpic: 0.1.0
@@ -19575,7 +19587,7 @@ sp500SlidingWindow: 0.1.0
 spANOVA: 0.99.3
 spAddins: 0.2.0
 spBFA: '1.1'
-spBayes: 0.4-4
+spBayes: 0.4-5
 spBayesSurv: 1.1.5
 spCP: '1.2'
 spData: 0.3.10
@@ -20166,7 +20178,7 @@ summarytools: 1.0.0
 sunburstR: 2.1.6
 suncalc: 0.5.0
 sundialr: 0.1.4.1
-supc: 0.2.2
+supc: 0.2.3
 supclust: 1.1-0
 supcluster: '1.0'
 superMDS: 1.0.2
@@ -21059,7 +21071,7 @@ tutoR: 0.3.2
 tutorial: 0.4.3
 tuts: 0.1.1
 tvR: 0.3.2
-tvReg: 0.5.4
+tvReg: 0.5.6
 tvd: 0.1.0
 tvem: '1.3'
 tvgarch: '2.1'
@@ -21855,7 +21867,7 @@ zip: 2.2.0
 zipR: 0.1.1
 zipangu: 0.2.3
 zipcode: '1.0'
-zipcodeR: 0.3.2
+zipcodeR: 0.3.3
 zipfR: 0.6-70
 zipfextR: 1.0.2
 ziphsmm: 2.0.6
