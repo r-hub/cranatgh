@@ -1047,7 +1047,7 @@ ClusterR: 1.2.5
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.3
 ClusteredMutations: 1.0.1
-Clustering: '1.7'
+Clustering: 1.7.3
 CoClust: 0.3-2
 CoCo: 0.1.7.6
 CoCoAn: 1.0-2
@@ -2453,7 +2453,7 @@ HCR: 0.1.1
 HCT: 0.1.0
 HCTR: 0.1.1
 HCmodelSets: 1.1.2
-HDBRR: 1.1.0
+HDBRR: 1.1.1
 HDCI: 1.0-2
 HDCurves: 0.1.0
 HDDesign: '1.1'
@@ -3051,7 +3051,7 @@ LSAfun: 0.6.1
 LSAmitR: 1.0-2
 LSC: 0.1.5
 LSD: 4.1-0
-LSDinterface: 1.0.1
+LSDinterface: 1.1.0
 LSDsensitivity: 0.3.2
 LSMRealOptions: 0.2.1
 LSMonteCarlo: '1.0'
@@ -4942,7 +4942,7 @@ RPCLR: '1.0'
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.1
 RPEIF: 1.2.3
-RPESE: 1.2.3
+RPESE: 1.2.4
 RPEXE.RPEXT: 0.0.2
 RPEnsemble: '0.5'
 RPMG: 2.2-3
@@ -5142,7 +5142,7 @@ Ratings: 0.1-2
 RationalExp: 0.2.2
 Ravages: 0.1.5
 RavenR: 2.1.0
-RawHummus: 0.1.5
+RawHummus: 0.1.8
 Rbeast: 0.2.2
 Rbent: 0.1.0
 Rbgs: '0.2'
@@ -12625,7 +12625,7 @@ httpcode: 0.3.0
 httpgd: 1.2.1
 httping: 0.2.0
 httpproblems: 1.0.1
-httptest: 4.0.0
+httptest: 4.1.0
 httpuv: 1.6.3
 httr: 1.4.2
 httr2: 0.1.0
@@ -17026,7 +17026,7 @@ provenance: '3.3'
 proxy: 0.4-26
 proxyC: 0.2.1
 prozor: 0.2.11
-prrd: 0.0.4
+prrd: 0.0.5
 prt: 0.1.4
 pryr: 0.1.5
 ps: 1.6.0
@@ -17218,7 +17218,7 @@ qqtest: 1.2.0
 qqvases: 1.0.0
 qrLMM: '2.1'
 qrNLMM: '3.0'
-qra: 0.1.8
+qra: 0.2.1
 qrage: '1.0'
 qrandom: 1.2.4
 qrcm: '3.0'
@@ -17655,7 +17655,7 @@ rbtt: 0.1.0
 rbugs: 0.5-9
 rbundler: 0.3.7
 rbvs: '1.0'
-rbw: 0.2.0
+rbw: 0.3.0
 rcage: '1.1'
 rcane: '1.0'
 rcanvec: 0.2.1
@@ -17970,6 +17970,7 @@ resautonet: '1.0'
 rescue: 1.0.3
 resemble: 2.0.0
 reservoir: 1.1.5
+resevol: 0.2.0.2
 reshape: 0.8.8
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
@@ -19897,7 +19898,7 @@ ssanv: '1.1'
 ssc: 2.1-0
 sscor: '0.2'
 ssd: '0.3'
-ssdtools: 0.3.5
+ssdtools: 0.3.6
 sse: 0.7-17
 ssev: 0.1.0
 ssfa: '1.1'
@@ -20906,6 +20907,7 @@ treeClust: 1.1-7
 treeDA: 0.0.5
 treeHFM: 1.0.3
 treeHMM: 0.1.1
+treebalance: 1.0.0
 treebase: 0.1.4
 treeclim: 2.0.5.1
 treecm: 1.2.2
@@ -21380,6 +21382,7 @@ vhica: 0.2.7
 viafr: 0.2.0
 vici: 0.5.2
 vietnamcode: 0.1.1
+vietnameseConverter: 0.3.0
 viewshed3d: 4.0.0
 vimcom: 0.9-9
 vimp: 2.2.5
