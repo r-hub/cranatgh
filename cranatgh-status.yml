@@ -1846,7 +1846,7 @@ ExplainPrediction: 1.3.0
 ExtDist: 0.6-4
 ExtMallows: 0.1.0
 ExtractTrainData: 9.1.5
-ExtremalDep: 0.0.3-3
+ExtremalDep: 0.0.3-4
 ExtremeBounds: 0.1.6
 ExtremeRisks: 0.0.4
 FABInference: '0.1'
@@ -2193,7 +2193,7 @@ GLMMRR: 0.5.0
 GLMMadaptive: 0.8-2
 GLMMarp: 0.1-1
 GLMaSPU: '1.0'
-GLMcat: 0.2.3
+GLMcat: 0.2.4
 GLMpack: 0.1.0
 GLMsData: 1.0.0
 GLSE: 0.1.0
@@ -2772,7 +2772,7 @@ ImputeRobust: 1.3-1
 InDisc: 1.1.0
 InPosition: 0.12.7.1
 InSilicoVA: 1.3.4
-IncDTW: 1.1.4.2
+IncDTW: 1.1.4.3
 IncomPair: 0.1.0
 IncucyteDRC: 0.5.4
 IndTestPP: '3.0'
@@ -3053,7 +3053,7 @@ LSAmitR: 1.0-2
 LSC: 0.1.5
 LSD: 4.1-0
 LSDinterface: 1.1.0
-LSDsensitivity: 0.3.2
+LSDsensitivity: 1.1.0
 LSMRealOptions: 0.2.1
 LSMonteCarlo: '1.0'
 LSPFP: 1.0.3
@@ -4155,7 +4155,7 @@ PGEE: '1.5'
 PGICA: '1.0'
 PGM2: 1.0-1
 PGRdup: 0.2.3.7
-PH1XBAR: 0.9.4
+PH1XBAR: 0.10.1
 PHENIX: 1.3.1
 PHEindicatormethods: 1.3.2
 PHInfiniteEstimates: '2.0'
@@ -5143,7 +5143,7 @@ RatingScaleReduction: '1.4'
 Ratings: 0.1-2
 RationalExp: 0.2.2
 Ravages: 0.1.5
-RavenR: 2.1.0
+RavenR: 2.1.4
 RawHummus: 0.1.8
 Rbeast: 0.2.2
 Rbent: 0.1.0
@@ -6005,7 +6005,7 @@ SigWinR: '1.0'
 SightabilityModel: 1.4.1
 Signac: 1.4.0
 SignacX: 2.2.4
-SignifReg: '4.1'
+SignifReg: '4.2'
 Sim.DiffProc: '4.8'
 Sim.DiffProcGUI: '2.5'
 Sim.PLFN: '1.0'
@@ -6835,7 +6835,7 @@ XML2R: 0.0.6
 XMLSchema: 0.7-0
 XMRF: '1.0'
 XNomial: 1.0.4
-XPolaris: 1.0.1
+XPolaris: 1.0.2
 XR: 0.7.2
 XRJulia: 0.9.0
 XRPython: '0.8'
@@ -7020,7 +7020,7 @@ admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
 adnuts: 1.1.2
 adobeanalyticsr: 0.1.5
-adoption: 0.6.2
+adoption: 0.6.4
 adoptr: 1.0.0
 adpss: 0.1.1
 ads: 1.5-5
@@ -7347,7 +7347,7 @@ asnipe: 1.1.16
 aspace: '3.2'
 aspect: 1.0-5
 aspi: 0.2.0
-asremlPlus: 4.3-19
+asremlPlus: 4.3-21
 assemblerr: 0.1.0
 assert: 1.0.1
 assertable: 0.2.8
@@ -7769,7 +7769,7 @@ bfsMaps: 0.9.6
 bfsl: 0.2.0
 bfw: 0.4.1
 bgeva: 0.3-1
-bggAnalytics: 0.1.1
+bggAnalytics: 0.2.0
 bggum: 1.0.2
 bglm: '1.0'
 bgmfiles: 0.0.6
@@ -7786,7 +7786,7 @@ biOps: '0.2'
 biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.1
-biblio: 0.0.1
+biblio: 0.0.2
 bibliometrix: 3.1.4
 bibliometrixData: 0.1.0
 biblionetwork: 0.1.0
@@ -8341,7 +8341,7 @@ catR: '3.16'
 catSurv: 1.3.0
 catalog: 0.1.0
 catch: 1.0.1
-catchr: 0.2.3
+catchr: 0.2.31
 catcont: 0.5.0
 catdap: 1.3.5
 catdata: 1.2.2
@@ -9346,6 +9346,7 @@ cvAUC: 1.1.0
 cvCovEst: 1.0.0
 cvGEE: 0.3-0
 cvTools: 0.3.2
+cvam: 0.9.0
 cvar: 0.4-0
 cvcqv: 1.0.0
 cvcrand: 0.1.0
@@ -9368,7 +9369,7 @@ cxxPack: '7.0'
 cxxfunplus: '1.0'
 cyanoFilter: 0.1.3
 cycleRtools: 1.1.1
-cyclestreets: 0.4.0
+cyclestreets: 0.5.0
 cyclocomp: 1.1.0
 cycloids: '1.0'
 cyclomort: 1.0.2
@@ -9786,7 +9787,7 @@ diffusionMap: 1.2.0
 diffusr: 0.1.4
 diffviewer: 0.1.0
 digeR: '1.3'
-digest: 0.6.27
+digest: 0.6.28
 digitTests: 0.1.0
 digitalPCR: 1.1.0
 digitize: 0.0.4
@@ -12492,6 +12493,7 @@ hier.part: 1.0-6
 hierBipartite: 0.0.2
 hierDiversity: '0.1'
 hierNet: '1.9'
+hierSDR: '0.1'
 hierarchicalDS: '3.0'
 hierarchicalSets: 1.0.2
 hierband: '1.0'
@@ -12803,7 +12805,7 @@ icesDatras: 1.3-0
 icesSAG: 1.3-6
 icesTAF: 3.6.0
 icesVocab: 1.1.9
-ichimoku: 1.2.0
+ichimoku: 1.2.1
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -13513,7 +13515,7 @@ laercio: 1.0-1
 lagged: 0.3-0
 lago: 0.1-1
 lagsarlmtree: 1.0-1
-lakemorpho: 1.1.1
+lakemorpho: 1.2.0
 laketemps: 0.5.1
 lamW: 2.1.0
 lambda.r: 1.2.4
@@ -13696,7 +13698,7 @@ lg: 0.4.1
 lga: 1.1-1
 lgarch: 0.6-2
 lgcp: '1.7'
-lgpr: 1.1.4
+lgpr: 1.1.5
 lgr: 0.4.3
 lgrExtra: 0.0.5
 lgrdata: 0.1.1
@@ -16774,7 +16776,7 @@ poppr: 2.9.3
 popprxl: '0.1'
 popsom: '5.2'
 poptrend: 0.1.0
-populR: 0.1.0
+populR: 0.1.1
 population: '0.2'
 populationPDXdesign: 1.0.3
 porridge: 0.2.1
@@ -17812,7 +17814,7 @@ rechonest: '1.2'
 recipes: 0.1.16
 reclin: 0.1.1
 recluster: '2.9'
-recmap: 1.0.9
+recmap: 1.0.11
 recodeflow: 0.1.0
 recoder: '0.1'
 recogito: 0.1.1
@@ -17875,7 +17877,7 @@ regplot: '1.1'
 regpro: 0.1.1
 regrap: 1.0.1
 regress: 1.3-21
-regressoR: 1.2.1
+regressoR: 2.0.0
 regrrr: 0.1.3
 regsel: '0.2'
 regsem: 1.8.0
@@ -17979,7 +17981,7 @@ resevol: 0.2.0.2
 reshape: 0.8.8
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
-resourcer: 1.1.0
+resourcer: 1.1.1
 resper: '0.3'
 respirometry: 1.3.0
 restatapi: 0.11.3
@@ -18986,7 +18988,7 @@ semantic.dashboard: 0.2.0
 semdiag: 0.1.2
 semdrw: 0.1.0
 semds: 0.9-6
-semiArtificial: 2.3.1
+semiArtificial: 2.4.1
 seminr: 2.2.1
 semisupKernelPCA: 0.1.5
 semmcmc: 0.0.6
@@ -19145,7 +19147,7 @@ shinyCyJS: 0.0.11
 shinyDND: 0.1.0
 shinyEffects: 0.2.0
 shinyEventLogger: 0.1.1
-shinyFeedback: 0.3.0
+shinyFeedback: 0.4.0
 shinyFiles: 0.9.0
 shinyHeatmaply: 0.2.0
 shinyIRT: '0.1'
@@ -19361,7 +19363,7 @@ sinib: 1.0.0
 sinx: 0.0.5
 siplab: '1.5'
 sirad: 2.3-3
-sirt: 3.9-4
+sirt: 3.10-118
 sirus: 0.3.2
 sisVIVE: '1.4'
 sisal: '0.48'
@@ -20145,7 +20147,7 @@ stuart: 0.9.1
 stubthat: 1.2.1
 studentlife: 1.1.0
 studyStrap: 1.0.0
-styler: 1.6.1
+styler: 1.6.2
 stylest: 0.2.0
 stylo: 0.7.4
 suRtex: '0.9'
@@ -20459,7 +20461,7 @@ taxizedb: 0.3.0
 taxlist: 0.2.2
 taxonomizr: 0.8.0
 taxotools: 0.0.79
-taylor: 0.2.0
+taylor: 0.2.1
 tbart: '1.0'
 tbd: 0.1.0
 tbdiag: '0.1'
@@ -20652,7 +20654,7 @@ tidybayes: 3.0.1
 tidyboot: 0.1.1
 tidycat: 0.1.2
 tidycells: 0.2.2
-tidycensus: '1.0'
+tidycensus: '1.1'
 tidycharts: 0.1.2
 tidycode: 0.1.1
 tidycomm: 0.2.1
@@ -21197,7 +21199,7 @@ unix: 1.5.3
 unjoin: 0.1.0
 unknownR: '0.4'
 unmarked: 1.1.1
-unnest: 0.0.2
+unnest: 0.0.3
 unpivotr: 0.6.2
 unrepx: '1.0'
 unrtf: '1.4'
