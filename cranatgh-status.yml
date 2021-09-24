@@ -433,7 +433,7 @@ BRDT: 0.1.0
 BRETIGEA: 1.0.3
 BRISC: 1.0.2
 BRL: 0.1.0
-BRugs: 0.9-0
+BRugs: 0.9-1
 BSBT: 1.1.0
 BSDA: 1.2.1
 BSGS: '2.0'
@@ -754,7 +754,7 @@ CCP: '1.1'
 CCTpack: 1.5.2
 CCWeights: 0.1.3
 CCpop: '1.0'
-CDECRetrieve: 0.1.4
+CDECRetrieve: 0.1.5
 CDF.PSIdekick: '1.2'
 CDFt: '1.2'
 CDLasso: '1.1'
@@ -1423,6 +1423,7 @@ DataCombine: 0.2.21
 DataEditR: 0.1.3
 DataEntry: 0.9-3
 DataExplorer: 0.8.2
+DataFakeR: 0.1.2
 DataFrameConstr: 1.1-2
 DataGraph: 1.2.5
 DataLoader: '1.3'
@@ -2310,6 +2311,7 @@ GammaTest: '2.1'
 Gammareg: '3.0'
 GapAnalysis: 1.0.2
 GauPro: 0.2.4
+GaussSuppression: 0.1.0
 GaussianHMM1d: 1.0.1
 GeDS: 0.1.3
 GeNetIt: 0.1-4
@@ -2743,7 +2745,7 @@ ISM: 0.1.0
 ISOcodes: 2021.02.24
 ISOpureR: 1.1.3
 ISOweek: 0.6-2
-ISR: 2021.09.15
+ISR: 2021.9.24
 ISR3: '0.98'
 ISRaD: 1.7.8
 ISwR: 2.0-8
@@ -6223,7 +6225,7 @@ StrathE2E2: 3.3.0
 StratifiedBalancing: 0.3.0
 StratifiedMedicine: 1.0.4
 StratifiedRF: 0.2.2
-StratifiedSampling: 0.2.0
+StratifiedSampling: 0.3.0
 StratigrapheR: 1.2.3
 StreamMetabolism: 1.1.2
 StreamingLm: '0.1'
@@ -8389,6 +8391,7 @@ cccd: '1.5'
 cccp: 0.2-7
 cccrm: 2.0.3
 ccda: 1.1.1
+ccdf: 1.1.4
 ccdrAlgorithm: 0.0.5
 ccems: '1.0'
 ccfa: 1.1.0
@@ -9546,7 +9549,7 @@ dclong.spt: 0.1.1
 dclust: 0.1.0
 dcminfo: 0.1.7
 dcmle: 0.3-1
-dcmodify: 0.1.5
+dcmodify: 0.1.9
 dcmr: '1.0'
 dcortools: 0.1.2
 dcov: 0.1.1
@@ -14143,7 +14146,7 @@ maps: 3.3.0
 mapsFinland: 0.1.1
 mapsRinteractive: 1.0.1
 mapsapi: 0.5.0
-mapsf: 0.2.0
+mapsf: 0.3.0
 maptiles: 0.2.0
 maptools: 1.1-2
 maptpx: 1.9-7
@@ -14745,7 +14748,7 @@ mlr3hyperband: 0.2.0
 mlr3learners: 0.5.0
 mlr3measures: 0.3.1
 mlr3misc: 0.9.4
-mlr3oml: 0.4.3
+mlr3oml: 0.5.0
 mlr3pipelines: 0.3.6
 mlr3proba: 0.4.1
 mlr3shiny: 0.1.1
@@ -15758,7 +15761,7 @@ omxr: 0.3.3
 onbabynames: 0.0.1
 onbrand: 1.0.1
 onc.api: 2.0.1.0
-oncoPredict: '0.1'
+oncoPredict: '0.2'
 oncomodel: '1.0'
 oncrawlR: 0.2.0
 ondisc: 1.0.0
@@ -17006,7 +17009,7 @@ proportion: 2.0.0
 propr: 4.2.6
 proptest: 0.1-5
 prospectr: 0.2.1
-protViz: 0.6.8
+protViz: 0.7.0
 protag: 1.0.0
 protein8k: 0.0.1
 proteomicdesign: '2.0'
@@ -17416,14 +17419,14 @@ rIntervalTree: 0.1.0
 rIsing: 0.1.0
 rJPSGCS: 0.2-10
 rJST: '1.3'
-rJava: 1.0-4
+rJava: 1.0-5
 rJavax: '0.3'
 rJython: 0.0-4
 rKIN: '0.1'
 rKOMICS: '1.1'
 rKolada: 0.2.0
 rLDCP: 1.0.2
-rLFT: 1.0.0
+rLFT: 1.0.1
 rLTP: 0.1.4
 rLakeAnalyzer: 1.11.4.1
 rLandsat: 0.1.1
@@ -19659,7 +19662,7 @@ sparseBC: '1.2'
 sparseEigen: 0.1.0
 sparseFLMM: 0.4.1
 sparseGAM: '1.0'
-sparseHessianFD: 0.3.3.4
+sparseHessianFD: 0.3.3.5
 sparseIndexTracking: 0.1.1
 sparseLDA: 0.1-9
 sparseLRMatrix: 0.1.0
@@ -21025,6 +21028,7 @@ tsfa: 2021.1-3
 tsfeatures: 1.0.2
 tsfgrnn: 1.0.1
 tsfknn: 0.5.0
+tsfngm: 0.1.0
 tsgui: 0.2.1
 tsiR: 0.4.3
 tsibble: 1.0.1
@@ -21165,7 +21169,7 @@ unbalhaar: '2.0'
 uncertainty: 0.2.0
 uncmbb: 0.2.2
 uncompress: '1.3'
-uncorbets: 0.1.0
+uncorbets: 0.1.1
 understandBPMN: 1.1.1
 unfoldr: '0.7'
 unga: 0.1.0
