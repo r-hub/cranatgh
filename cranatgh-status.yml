@@ -87,7 +87,7 @@ ANOVA.TFNs: '1.0'
 ANOVAIREVA: 0.1.0
 ANOVAShiny: 0.1.0
 ANOVAShiny2: 0.1.0
-ANOVAreplication: 1.1.4
+ANOVAreplication: 1.1.5
 AOV1R: 0.1.0
 AOfamilies: '1.0'
 APAtree: 1.0.1
@@ -1103,7 +1103,7 @@ ComparisonCR: 1.0.4
 ComparisonSurv: 1.0.9
 CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
-Compind: '2.2'
+Compind: '2.3'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.1
 Compositional: '4.9'
@@ -1237,6 +1237,7 @@ DAP: '1.0'
 DART: '1.1'
 DARTData: '1.0'
 DATforDCEMRI: '0.5'
+DArand: 0.0.1.0
 DBEST: '1.8'
 DBFTest: '1.0'
 DBGSA: '1.2'
@@ -1769,7 +1770,7 @@ EntropyExplorer: '1.1'
 EntropyMCMC: 1.0.4
 EnvCpt: 1.1.3
 EnvExpInd: 0.1.0
-EnvNJ: 0.1.2
+EnvNJ: 0.1.3
 EnvNicheR: '1.4'
 EnvStats: 2.4.0
 EnviroPRA: '1.0'
@@ -2137,7 +2138,7 @@ GDAtools: '1.7'
 GDD: 0.1-8
 GDELTtools: '1.2'
 GDINA: 2.8.7
-GE: 0.2.1
+GE: 0.2.2
 GEEaSPU: 1.0.2
 GEEmediate: 1.1.3
 GEInter: 0.3.1
@@ -2590,6 +2591,7 @@ HoRM: 0.1.3
 Holidays: 1.0-7
 Homeric: 0.1-3
 HomoPolymer: '1.0'
+HostSwitch: 0.1.0
 HotDeckImputation: 1.1.0
 Hotelling: 1.0-8
 HotellingEllipse: 0.1.1
@@ -2651,7 +2653,7 @@ ICcalib: 1.0.8
 ICcforest: 0.5.1
 ICsurv: '1.0'
 ICtest: 0.3-4
-ICvectorfields: 0.0.2
+ICvectorfields: 0.1.0
 IDCard: 0.3.0
 IDE: 0.3.0
 IDF: 2.1.0
@@ -2915,7 +2917,7 @@ KMsurv: 0.1-5
 KMunicate: 0.2.1
 KNNShiny: 0.1.0
 KOBT: 0.1.0
-KODAMA: '1.6'
+KODAMA: '1.7'
 KOGMWU: '1.2'
 KONPsurv: 1.0.3
 KPC: 0.1.0
@@ -4260,7 +4262,7 @@ PSMix: 1.1.1
 PSPManalysis: 0.3.4
 PSS.Health: 0.2.1
 PSSIM: 0.1.0
-PSSMCOOL: 0.2.1
+PSSMCOOL: 0.2.2
 PST: '0.94'
 PSTR: 1.2.4
 PSW: 1.1-3
@@ -4957,7 +4959,7 @@ RPPanalyzer: 1.4.7
 RPS: 1.0.1
 RPgSQL: 1.0-0
 RPostgreSQL: '0.7'
-RPostgres: 1.4.0
+RPostgres: 1.4.1
 RPresto: 1.3.7
 RProbSup: '3.0'
 RProtoBuf: 0.4.17
@@ -6019,6 +6021,7 @@ SimCorrMix: 0.1.1
 SimDesign: 2.7.1
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.1
+SimEngine: 1.0.0
 SimEvolEnzCons: 1.0.2
 SimHap: 1.2.0
 SimHaz: '0.1'
@@ -6059,7 +6062,7 @@ Skillings.Mack: '1.10'
 Sky: '1.0'
 SkyWatchr: 0.8-2
 SlaPMEG: 1.0.1
-SleepCycles: 1.1.3
+SleepCycles: 1.1.4
 Sleuth2: 2.0-5
 Sleuth3: 1.0-3
 SlidingWindows: 0.2.0
@@ -6346,7 +6349,7 @@ TGS: 1.0.1
 TGST: '1.0'
 TGUICore: 0.9.9
 TGUITeaching: 0.9.9
-TH.data: 1.0-10
+TH.data: 1.1-0
 TIGERr: 0.1.0
 TIMP: 1.13.2
 TITAN2: 2.4.1
@@ -6497,7 +6500,7 @@ TextRegression: 0.1-3
 TextoMineR: '1.1'
 ThankYouStars: 0.2.0
 ThermIndex: 0.2.0
-Thermimage: 4.0.1
+Thermimage: 4.1.3
 Thinknum: 1.3.0
 ThreeArmedTrials: 1.0-3
 ThreeGroups: '0.21'
@@ -7586,7 +7589,7 @@ bats: 0.1-3
 batteryreduction: 0.1.1
 baycn: 1.2.0
 bayefdr: 0.1.0
-bayes4psy: 1.2.7
+bayes4psy: 1.2.8
 bayesAB: 1.1.3
 bayesCGH: '0.6'
 bayesCL: 0.0.1
@@ -8127,7 +8130,7 @@ breathteststan: 0.8.0
 brew: 1.0-6
 brewdata: '0.4'
 brglm: 0.7.2
-brglm2: 0.8.0
+brglm2: 0.8.1
 briKmeans: '0.1'
 brickr: 0.3.5
 bride: '1.3'
@@ -8281,7 +8284,7 @@ cancerGI: 1.0.0
 cancerTiming: 3.1.8
 candisc: 0.8-5
 canprot: 1.1.0
-cansim: 0.3.9
+cansim: 0.3.10
 canvas: 0.2-0
 canvasXpress: 1.35.0
 canvasXpress.data: 1.34.2
@@ -9465,7 +9468,7 @@ dataframe: '2.5'
 dataframeexplorer: 1.0.0
 dataframes2xls: 0.4.7
 datafsm: 0.2.4
-datagovindia: 1.0.4
+datagovindia: 1.0.5
 datagovsgR: 0.3.2
 datalist: '0.2'
 datamap: 0.1-1
@@ -9550,6 +9553,7 @@ dclust: 0.1.0
 dcminfo: 0.1.7
 dcmle: 0.3-1
 dcmodify: 0.1.9
+dcmodifydb: 0.1.2
 dcmr: '1.0'
 dcortools: 0.1.2
 dcov: 0.1.1
@@ -9755,6 +9759,7 @@ dichromat: 2.0-0
 dicionariosIBGE: '1.6'
 dictionar6: 0.1.3
 did: 2.0.0
+did2s: 0.4.0
 didimputation: 0.1.0
 didrooRFM: 1.0.0
 dief: '1.2'
@@ -10739,7 +10744,7 @@ eyeTrackR: 1.0.1
 eyedata: 0.1.0
 eyelinker: 0.2.1
 eyetracking: '1.1'
-eyetrackingR: 0.1.8
+eyetrackingR: 0.2.0
 ez: 4.4-0
 ez.combat: 1.0.0
 ezCutoffs: 1.0.1
@@ -11291,7 +11296,7 @@ freqweights: 1.0.4
 fresh: 0.2.0
 friends: 0.1.0
 frite: 0.1.0
-fritools: 2.2.1
+fritools: 2.3.0
 frm: 1.2.2
 frmhet: 1.1.3
 frmpd: 1.1.0
@@ -11948,7 +11953,7 @@ gimme: 0.7-6
 gimmeTools: '0.1'
 gimms: 1.2.1
 giphyr: 0.2.0
-giscoR: 0.2.4
+giscoR: 0.3.0
 gistr: 0.9.0
 git2r: 0.28.0
 git2rdata: 0.3.1
@@ -13157,6 +13162,7 @@ isoph: '1.1'
 isoreader: 1.3.0
 isotone: 1.1-0
 isotonic.pen: '1.0'
+isotracer: 1.0.4
 isotree: 0.3.0
 ispd: '0.2'
 isqg: '1.3'
@@ -13712,7 +13718,7 @@ liGP: 1.0.1
 liayson: 1.0.4
 libamtrack: 0.6.3
 libbib: 1.6.2
-libcoin: 1.0-8
+libcoin: 1.0-9
 libgeos: 3.9.1-1
 libproj: 7.1.0-2
 libr: 1.2.0
@@ -15038,7 +15044,7 @@ msig: '1.0'
 msigdbr: 7.4.1
 msir: 1.3.3
 msltrend: '1.0'
-msm: 1.6.8
+msm: 1.6.9
 msma: '2.2'
 msme: 0.5.3
 msmtools: 2.0.1
@@ -15947,7 +15953,7 @@ osmgeosample: '0.1'
 osmose: 3.3.4
 osmplotr: 0.3.3
 osqp: 0.6.0.3
-osrm: 3.4.1
+osrm: 3.5.0
 osrmr: 0.1.36
 ot: 0.2.0
 otinference: 0.1.0
@@ -16150,7 +16156,7 @@ partitionMetric: '1.1'
 partitions: 1.10-2
 partools: 1.1.6
 partsm: 1.1-3
-party: 1.3-8
+party: 1.3-9
 partykit: 1.2-15
 parviol: '1.1'
 parzer: 0.4.0
@@ -17815,7 +17821,7 @@ recapr: 0.4.4
 reccsim: 0.9-1
 recexcavAAR: 0.3.0
 rechonest: '1.2'
-recipes: 0.1.16
+recipes: 0.1.17
 reclin: 0.1.1
 recluster: '2.9'
 recmap: 1.0.11
@@ -18301,7 +18307,7 @@ robustMVMR: 0.3.1
 robustSingleCell: 0.1.1
 robustX: 1.2-5
 robustarima: 0.2.6
-robustbase: 0.93-8
+robustbase: 0.93-9
 robustcov: '0.1'
 robustfa: 1.0-5
 robustgam: 0.1.7
@@ -18723,7 +18729,7 @@ sampler: 0.2.4
 samplesize: 0.2-4
 samplesize4surveys: 4.1.1
 samplesizeCMH: 0.0.0
-samplesizelogisticcasecontrol: 0.0.6
+samplesizelogisticcasecontrol: 2.0.0
 sampling: '2.9'
 samplingDataCRT: '1.0'
 samplingEstimates: 0.1-3
@@ -18998,6 +19004,7 @@ semisupKernelPCA: 0.1.5
 semmcmc: 0.0.6
 semnar: 0.7.1
 semnova: 0.1-6
+semptools: 0.2.9.2
 semsfa: '1.1'
 semtree: 0.9.17
 semver: 0.2.0
@@ -20192,7 +20199,7 @@ sunburstR: 2.1.6
 suncalc: 0.5.0
 sundialr: 0.1.4.1
 supc: 0.2.4
-supclust: 1.1-0
+supclust: 1.1-1
 supcluster: '1.0'
 superMDS: 1.0.2
 superb: 0.9.7.5
@@ -21038,7 +21045,7 @@ tsibbletalk: 0.1.0
 tsintermittent: '1.9'
 tslars: '1.0'
 tsmp: 0.4.14
-tsna: 0.3.3
+tsna: 0.3.4
 tsne: 0.1-3
 tsnetwork: '1.2'
 tsoutliers: 0.6-8
@@ -21395,7 +21402,7 @@ vhica: 0.2.7
 viafr: 0.2.0
 vici: 0.5.2
 vietnamcode: 0.1.1
-vietnameseConverter: 0.3.0
+vietnameseConverter: 0.3.1
 viewshed3d: 4.0.0
 vimcom: 0.9-9
 vimp: 2.2.5
@@ -21557,7 +21564,7 @@ wdm: 0.2.2
 wdman: 0.2.5
 wdnr.gis: 0.1.2
 wdpar: 1.3.1
-weaana: 0.1.0
+weaana: 0.1.1
 wearables: 0.6.2
 weatherData: 0.5.0
 weathercan: 0.6.1
