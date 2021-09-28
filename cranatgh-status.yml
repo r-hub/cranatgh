@@ -3376,7 +3376,7 @@ MLpreemption: 1.0.1
 MM: 1.6-5
 MM2S: 1.0.6
 MM2Sdata: 1.0.3
-MM4LMM: 2.0.2
+MM4LMM: 2.1.0
 MMAC: 0.1.2
 MMD: 1.0.0
 MMDCopula: 0.2.0
@@ -3761,7 +3761,7 @@ MultinomialCI: '1.2'
 MultipleBubbles: 0.2.0
 MultiplierDEA: 0.1.18
 MultisiteMediation: 0.0.4
-MultivariateAnalysis: 0.4.2
+MultivariateAnalysis: 0.4.3
 MultivariateRandomForest: 1.1.5
 MultiwayRegression: '1.2'
 MvBinary: '1.1'
@@ -3842,7 +3842,7 @@ NMdata: 0.0.9
 NMproject: 0.6.5
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.8.1
+NNS: 0.8.2
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.4
@@ -4777,7 +4777,7 @@ RGtk2.10: 2.10.6
 RGtk2DfEdit: '0.5'
 RGtk2Extras: 0.6.1
 RH2: 0.2.4
-RHMS: '1.6'
+RHMS: '1.7'
 RHPCBenchmark: 0.1.0
 RHRT: 1.0.1
 RHRV: 4.2.6
@@ -4845,7 +4845,7 @@ RMETAR: '1.0'
 RMKL: '1.0'
 RMKdiscrete: '0.1'
 RMLPCA: 0.0.1
-RMOA: 1.0.1
+RMOA: 1.0.2
 RMOAjars: 1.0.1
 RMPSH: 1.1.1
 RMPSS: 1.1.1
@@ -5689,7 +5689,7 @@ SECP: 0.1-4
 SEER2R: '1.0'
 SEERaBomb: '2019.2'
 SEHmodel: 0.0.9
-SEIRfansy: 1.1.0
+SEIRfansy: 1.1.1
 SEL: 1.0-2
 SELF: 0.1.1
 SEMID: 0.3.2
@@ -5994,7 +5994,7 @@ ShellChron: 0.4.0
 ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.0.1
 ShinyImage: 0.1.0
-ShinyItemAnalysis: 1.3.7
+ShinyItemAnalysis: 1.4.0
 ShinyQuickStarter: 2.0.1
 ShinyTester: 0.1.0
 ShortForm: 0.4.6
@@ -6564,7 +6564,7 @@ TreeDist: 2.2.0
 TreeLS: 2.0.2
 TreePar: '3.3'
 TreeRank: 1.1-0
-TreeSearch: 1.0.0
+TreeSearch: 1.0.1
 TreeSim: '2.4'
 TreeSimGM: '2.5'
 TreeTools: 1.5.0
@@ -7012,7 +7012,7 @@ adfExplorer: 0.1.6
 adheRenceRX: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.3
-adiv: '2.1'
+adiv: 2.1.1
 adjclust: 0.6.3
 adjustedcranlogs: 0.1.0
 adk: '1.0'
@@ -7504,7 +7504,7 @@ babar: '1.0'
 babel: 0.3-0
 babelgene: '21.4'
 babelwhale: 1.0.3
-babette: '2.2'
+babette: '2.3'
 babsim.hospital: 11.8.2
 babynames: 1.0.1
 bacistool: 1.0.0
@@ -9445,7 +9445,7 @@ dashTable: 4.7.0
 dashboard: 0.1.0
 dashboardthemes: 1.1.5
 dat: 0.5.0
-data.table: 1.14.0
+data.table: 1.14.2
 data.tree: 1.0.0
 data.validator: 0.1.5
 data.world: 1.2.2
@@ -9979,7 +9979,7 @@ doebioresearch: 0.1.0
 doex: '1.2'
 dominanceanalysis: 2.0.0
 domino: 0.3.1
-domir: 0.1.0
+domir: 0.2.0
 donut: 1.0.1
 doremi: 1.0.0
 dosearch: 1.0.8
@@ -10544,7 +10544,7 @@ equatags: 0.1.1
 equate: 2.0.7
 equateIRT: 2.2.0
 equateMultiple: 0.1.0
-equatiomatic: 0.2.0
+equatiomatic: 0.3.0
 equivUMP: 0.1.1
 equivalence: 0.7.2
 equivalenceTest: 0.0.1.1
@@ -11546,7 +11546,7 @@ gcmr: 1.0.2
 gcmrec: 1.0-3
 gcolor: '1.0'
 gconcord: '0.4'
-gconsensus: 0.3.0
+gconsensus: 0.3.1
 gcookbook: '2.0'
 gdalUtilities: 1.1.2
 gdalUtils: 2.0.3.2
@@ -11932,7 +11932,7 @@ ggvoronoi: 0.8.4
 ggwordcloud: 0.5.0
 ggx: 0.1.1
 gh: 1.3.0
-ghcm: 1.0.0
+ghcm: 2.0.0
 ghee: 0.1.0
 ghibli: 0.3.2
 ghit: 0.2.5
@@ -12548,7 +12548,7 @@ hkclustering: 1.0.1
 hkdatasets: 1.0.0
 hkevp: 1.1.4
 hkex.api: '0.1'
-hlaR: 0.1.0
+hlaR: 0.1.1
 hlidacr: 0.2.0
 hlr: 0.0-4
 hmclearn: 0.0.5
@@ -13941,10 +13941,10 @@ loo: 2.4.1
 lookout: 0.1.0
 lookup: '1.0'
 lookupTable: '0.1'
-loon: 1.3.7
+loon: 1.3.8
 loon.data: 0.1.3
 loon.ggplot: 1.2.1
-loon.shiny: 1.0.0
+loon.shiny: 1.0.1
 loon.tourr: 0.1.2
 loop: '1.1'
 loopr: 1.0.1
@@ -16939,7 +16939,7 @@ primerTree: 1.0.5
 primes: 1.1.0
 princurve: 2.1.6
 prinsimp: 0.8-8
-printr: 0.1.1
+printr: '0.2'
 prioGene: 1.0.1
 prioritizr: 7.0.1
 prioritizrdata: 0.2.4
@@ -17696,7 +17696,7 @@ rcitoid: 0.1.0
 rclimateca: 1.0.3
 rclinicaltrials: '1.4'
 rclipboard: 0.1.3
-rcmdcheck: 1.3.3
+rcmdcheck: 1.4.0
 rco: 1.0.2
 rcol: 0.2.0
 rcolors: 0.1.0
@@ -17789,7 +17789,7 @@ readit: 1.0.0
 readmnist: 1.0.6
 readmoRe: 0.2-12
 readobj: 0.4.1
-readr: 2.0.1
+readr: 2.0.2
 readrba: 0.1.1
 readroper: 0.9.3
 readsdmx: 0.3.0
@@ -18034,7 +18034,7 @@ rewie: 0.1.0
 rex: 1.2.0
 rexpokit: 0.26.6.7
 rextendr: 0.2.0
-rfPermute: '2.2'
+rfPermute: '2.5'
 rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.1
 rfacebookstat: 2.4.0
@@ -19986,7 +19986,7 @@ stars: 0.5-3
 starsExtra: 0.2.6
 starschemar: 1.2.0
 startR: 2.1.0
-starter: 0.1.5
+starter: 0.1.6
 startup: 0.15.0
 startupmsg: 0.9.6
 starvars: 1.1.7
@@ -20085,7 +20085,7 @@ stochvol: 3.1.0
 stochvolTMB: 0.2.0
 stockPortfolio: '1.2'
 stockR: 1.0.74
-stockfish: 0.1.2
+stockfish: 0.1.3
 stocks: 1.1.4
 stoichcalc: 1.1-3
 stokes: 1.0-8
@@ -20700,7 +20700,7 @@ tidypredict: 0.4.8
 tidyquant: 1.0.3
 tidyquery: 0.2.2
 tidyqwi: 0.1.2
-tidyr: 1.1.3
+tidyr: 1.1.4
 tidyrules: 0.1.5
 tidyselect: 1.1.1
 tidyseurat: 0.2.7
