@@ -1491,6 +1491,7 @@ Devore5: 0.4-5
 Devore6: 0.6-0
 Devore7: 0.7.6
 Dforest: 0.4.2
+DiNAMIC.Duo: 1.0.0
 DiPALM: '1.1'
 DiPhiSeq: 0.2.0
 DiPs: 0.6.2
@@ -2330,6 +2331,7 @@ GenOrd: 1.4.0
 GenSA: 1.1.7
 GenTag: '1.0'
 GenWin: '0.1'
+GenderInfer: 0.1.0
 GeneBook: '1.0'
 GeneClusterNet: 1.0.1
 GeneCycle: 1.1.5
@@ -2407,6 +2409,7 @@ GofCens: '0.91'
 GofKmt: 2.2.0
 GomoGomonoMi: 0.1.0
 GoodmanKruskal: 0.0.3
+GoogleImage2Array: 0.99.2
 GoogleKnowledgeGraphR: 0.1.0
 Goslate: '1.0'
 Gotoh: '0.9'
@@ -2438,7 +2441,7 @@ GrowingSOM: '0.1'
 GrpString: 0.3.2
 GsymPoint: 1.1.1
 GuardianR: '0.9'
-Guerry: 1.7.1
+Guerry: 1.7.4
 GuessCompx: 1.0.3
 GxEScanR: 2.0.2
 GxM: '1.1'
@@ -3611,7 +3614,7 @@ MetaSubtract: '1.60'
 MetaUtility: 2.1.1
 MetaboList: '2.0'
 MetaboLouise: 1.0.0
-MetaboQC: '1.0'
+MetaboQC: '1.1'
 MetabolAnalyze: 1.3.1
 MetabolicSurv: 1.1.2
 MetabolomicsBasics: '1.2'
@@ -3877,7 +3880,7 @@ NRejections: 1.2.0
 NSA: 0.0.3
 NSAE: 0.1.1
 NSM3: '1.16'
-NSO1212: 1.3.0
+NSO1212: 1.4.0
 NST: 3.0.6
 NSUM: '1.0'
 NScluster: 1.3.5
@@ -5326,6 +5329,7 @@ Rdtq: '0.1'
 Rduino: '0.1'
 ReCiPa: '3.0'
 ReDaMoR: 0.4.3
+ReDirection: 1.0.0
 ReIns: 1.0.10
 ReacTran: 1.4.3.1
 Read.isi: '0.5'
@@ -6070,7 +6074,7 @@ Sleuth3: 1.0-3
 SlidingWindows: 0.2.0
 SlimPLS: '0.3'
 SmCCNet: 0.99.0
-SmallCountRounding: 0.8.0
+SmallCountRounding: 0.9.0
 SmartEDA: 0.3.8
 SmartMeterAnalytics: 1.0.3
 SmartSVA: 0.1.3
@@ -7044,7 +7048,7 @@ afdx: 1.1.1
 afex: 1.0-1
 affinity: 0.2.5
 affinitymatrix: 0.1.0
-affluenceIndex: '1.0'
+affluenceIndex: '2.0'
 afmToolkit: 0.0.1
 afmtools: 0.1.8
 afpt: 1.1.0.1
@@ -7264,7 +7268,7 @@ apt: '3.0'
 aptg: 0.1.1
 apyramid: 0.1.2
 aqfig: '0.8'
-aqp: '1.31'
+aqp: '1.32'
 aqr: '0.4'
 aquodom: 0.1.0
 ar.matrix: 0.1.0
@@ -7605,7 +7609,7 @@ bayesGAM: 0.0.1
 bayesGARCH: 2.1.10
 bayesGDS: 0.6.2
 bayesImageS: 0.6-1
-bayesLife: 5.0-1
+bayesLife: 5.0-3
 bayesLopod: 1.0.1
 bayesMCClust: '1.0'
 bayesPop: 8.1-3
@@ -7906,7 +7910,7 @@ bioPN: 1.2.0
 bioRad: 0.5.2
 bioacoustics: 0.2.5
 bioassays: 1.0.1
-biocompute: 1.0.4
+biocompute: 1.0.6
 biofiles: 1.0.0
 biogas: 1.23.2
 biogeo: '1.0'
@@ -8022,7 +8026,7 @@ bmgarch: 1.0.1
 bmggum: 0.1.0
 bmixture: '1.7'
 bmk: '1.0'
-bmlm: 1.3.11
+bmlm: 1.3.12
 bmmix: 0.1-2
 bmotif: 2.0.2
 bmp: '0.3'
@@ -8071,7 +8075,7 @@ bootRes: '1.2'
 bootSVD: '1.1'
 bootStepAIC: 1.2-0
 bootTimeInference: 0.1.0
-bootUR: 0.2.0
+bootUR: 0.3.0
 bootcluster: 0.2.5
 bootf2: 0.4.1
 bootfs: '1.4'
@@ -8513,6 +8517,7 @@ changepointTests: 0.1.1
 changepointsHD: 0.3.3
 changepointsVar: 0.1.0
 changer: 0.0.3
+chantrics: 1.0.0
 charlatan: 0.4.0
 charlson: '1.0'
 chartql: 0.1.0
@@ -9538,7 +9543,7 @@ dbhydroR: 0.2-8
 dblcens: 1.1.7
 dblr: 0.1.0
 dbmss: 2.7-7
-dbnR: 0.5.3
+dbnR: 0.7.1
 dbnlearn: 0.1.0
 dbparser: 1.2.0
 dbplot: 0.3.3
@@ -10420,7 +10425,7 @@ emil: 2.2.8
 emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 1.6.3
+emmeans: 1.7.0
 emoa: 0.5-0.1
 emoji: 0.2.0
 emojifont: 0.5.5
@@ -11676,7 +11681,7 @@ geocacheR: 0.1.0
 geocmeans: 0.2.0
 geocodeHERE: '0.1'
 geodaData: 0.1.0
-geodata: 0.2-3
+geodata: 0.3-2
 geodetector: 1.0-4
 geodimension: 1.0.0
 geodist: 0.0.7
@@ -11846,7 +11851,7 @@ gghalves: 0.1.1
 ggheatmap: '2.1'
 gghighlight: 0.3.2
 gghilbertstrings: 0.3.3
-ggimage: 0.2.9
+ggimage: 0.3.0
 ggimg: 0.1.1
 gginference: 0.1.3
 gginnards: 0.1.0-1
@@ -12464,7 +12469,7 @@ hellno: 0.0.1
 helloJavaWorld: 0.0-9
 helminthR: 1.0.9
 helpr: '0.1'
-helsinki: 1.0.3
+helsinki: 1.0.5
 heplots: 1.3-8
 here: 1.0.1
 hereR: 0.8.0
@@ -13145,6 +13150,7 @@ irtplay: 1.6.2
 irtrees: 0.1.0
 irtreliability: 0.1-1
 isa2: 0.3.5
+isaeditor: 0.1.1
 isatabr: 1.0.0
 isdals: 2.0-4
 isdparser: 0.4.0
@@ -13440,7 +13446,7 @@ kmlcov: 1.0.1
 kmodR: 0.1.0
 knitLatex: 0.9.0
 knitcitations: 1.0.12
-knitr: '1.35'
+knitr: '1.36'
 knitrBootstrap: 1.0.2
 knitrProgressBar: 1.1.0
 knitrdata: 0.6.1
@@ -13733,7 +13739,7 @@ librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: '0.7'
 libstableR: 1.0.2
-lidR: 3.2.0
+lidR: 3.2.1
 lidaRtRee: 3.1.0
 lifecontingencies: 1.3.7
 lifecourse: '2.0'
@@ -13862,7 +13868,7 @@ lmomco: 2.3.7
 lmreg: '1.2'
 lmridge: '1.2'
 lmtest: 0.9-38
-lmtp: 0.9.1
+lmtp: 1.0.0
 lmvar: 1.5.2
 lmviz: 0.2.0
 lnMLE: '1.0'
@@ -14175,6 +14181,7 @@ margLikArrogance: '0.2'
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
+marginaleffects: 0.1.0
 marginalizedRisk: 2021.2-4
 marginalmodelplots: 0.4.2
 margins: 0.3.26
@@ -14304,6 +14311,7 @@ mclogit: 0.8.7.3
 mclust: 5.4.7
 mclust02: 2.1-18
 mclust1998: 1.1-9
+mclustAddons: '0.5'
 mclustcomp: 0.3.3
 mcmc: 0.9-7
 mcmcOutput: 0.1.1
@@ -14388,6 +14396,7 @@ megaptera: 1.0-0
 meifly: '0.3'
 mekko: 0.1.0
 melody: 0.4.7
+melt: 1.0.0
 meltr: 1.0.0
 meltt: 0.4.1
 melviewr: 0.0.1
@@ -14569,7 +14578,7 @@ microcontax: '1.2'
 microdemic: 0.6.0
 microeco: 0.5.1
 microhaplot: 1.0.1
-micromap: 1.9.4
+micromap: 1.9.5
 micromapST: 1.1.1
 micropan: '2.1'
 microplot: 1.0-44
@@ -14860,7 +14869,7 @@ modellingTools: 0.1.0
 modello: '0.1'
 modelplotr: 1.1.0
 modelr: 0.1.8
-modelsummary: 0.9.1
+modelsummary: 0.9.2
 modeltests: 0.1.4
 modeltime: 1.0.0
 modeltime.ensemble: 0.4.2
@@ -15368,6 +15377,7 @@ netdiffuseR: 1.22.3
 netgen: 1.3.2
 netgsa: 4.0.1
 netgwas: '1.13'
+netie: '1.0'
 netjack: 1.2.0
 netmeta: 1.5-0
 netmhc2pan: 1.3.1
@@ -16454,7 +16464,7 @@ phonenumber: 0.2.3
 phonfieldwork: 0.0.11
 phonics: 1.3.10
 phosphoricons: 0.1.1
-photobiology: 0.10.6
+photobiology: 0.10.7
 photobiologyFilters: 0.5.2
 photobiologyInOut: 0.4.22-1
 photobiologyLEDs: 0.4.3-1
@@ -17943,7 +17953,7 @@ remindR: 0.0.1
 remix: '2.1'
 remote: 1.2.1
 remoter: 0.4-0
-remotes: 2.4.0
+remotes: 2.4.1
 remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
@@ -18359,7 +18369,7 @@ rolr: 1.0.0
 rolypoly: 0.1.0
 romero.gateway: 0.4.4
 romic: 1.0.0
-rootSolve: 1.8.2.2
+rootSolve: 1.8.2.3
 rootWishart: 0.4.1
 roots: '1.0'
 rope: '1.0'
@@ -18902,6 +18912,7 @@ sdPrior: 1.0-0
 sdStaf: 1.0.2
 sda: 1.3.7
 sdafilter: 1.0.0
+sdamr: 0.1.0
 sdat: '1.1'
 sdcHierarchies: 0.19.1
 sdcLog: 0.3.0
@@ -19835,7 +19846,7 @@ splitSelect: 1.0.1
 splitTools: 0.3.1
 splitfngr: 0.1.2
 splithalf: 0.7.2
-splithalfr: 2.1.1
+splithalfr: 2.2.0
 splitstackshape: 1.4.8
 splm: 1.4-11
 splmm: 1.1.3
@@ -19917,7 +19928,7 @@ sregsurvey: 0.1.0
 srm: 0.3-6
 srp: 1.2.0
 srt: 1.0.3
-srvyr: 1.0.1
+srvyr: 1.1.0
 ss3sim: 1.0.3
 ssMousetrack: 1.1.5
 ssa: 1.3.0
@@ -21434,7 +21445,7 @@ virtualPollen: 1.0.0
 virtualspecies: 1.5.1
 virtuoso: 0.1.6
 virustotal: 0.2.1
-visNetwork: 2.0.9
+visNetwork: 2.1.0
 visR: 0.2.0
 visStatistics: 0.1.1
 visTree: 0.8.1
