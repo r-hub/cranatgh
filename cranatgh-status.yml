@@ -1549,7 +1549,7 @@ DiversificationR: 0.1.0
 DiversityOccupancy: 1.0.6
 DiversitySampler: '2.1'
 DnE: 2.1.0
-DoE.MIParray: '0.13'
+DoE.MIParray: '1.0'
 DoE.base: '1.2'
 DoE.multi.response: 0.1.0
 DoE.wrapper: '0.11'
@@ -3059,7 +3059,7 @@ LSAmitR: 1.0-2
 LSC: 0.1.5
 LSD: 4.1-0
 LSDinterface: 1.1.0
-LSDsensitivity: 1.1.1
+LSDsensitivity: 1.1.2
 LSMRealOptions: 0.2.1
 LSMonteCarlo: '1.0'
 LSPFP: 1.0.3
@@ -6267,7 +6267,7 @@ SuperpixelImageSegmentation: 1.0.4
 Superpower: 0.1.2
 SuppDists: 1.1-9.5
 SurfaceTortoise: 1.0.2
-Surrogate: '1.9'
+Surrogate: '2.0'
 SurrogateOutcome: '1.0'
 SurrogateRegression: 0.5.0
 SurrogateTest: '1.2'
@@ -8108,7 +8108,7 @@ bpkde: '1.0'
 bpnreg: 2.0.2
 bpp: 1.0.2
 bpr: 1.0.4
-bqror: 1.1.0
+bqror: 1.2.0
 bqtl: 1.0-33
 braQCA: 1.0.0.1
 bracer: 1.2.1
@@ -9902,7 +9902,7 @@ div: 0.3.1
 divDyn: 0.8.1
 divagis: 1.0.0
 diveMove: 1.6.0
-diveR: 0.1.1
+diveR: 0.1.2
 diveRsity: 1.9.90
 diverge: 2.0.1
 diverse: 0.1.5
@@ -11363,7 +11363,7 @@ funcy: 1.0.1
 fundiversity: 0.2.1
 funest: 0.0.1.3
 funfits: 2.0-3
-fungible: '1.98'
+fungible: '1.99'
 funique: 0.0.1
 funnelR: 0.1.0
 funneljoin: 0.1.0
@@ -12648,7 +12648,7 @@ httpproblems: 1.0.1
 httptest: 4.1.0
 httpuv: 1.6.3
 httr: 1.4.2
-httr2: 0.1.0
+httr2: 0.1.1
 hues: 0.2.0
 huge: 1.3.5
 humanFormat: '1.0'
@@ -13440,7 +13440,7 @@ kmlcov: 1.0.1
 kmodR: 0.1.0
 knitLatex: 0.9.0
 knitcitations: 1.0.12
-knitr: '1.34'
+knitr: '1.35'
 knitrBootstrap: 1.0.2
 knitrProgressBar: 1.1.0
 knitrdata: 0.6.1
@@ -15444,7 +15444,7 @@ nifti.io: 1.0.0
 nightmares: 0.0.2
 nilde: 1.1-4
 nima: 0.6.2
-nimble: 0.11.1
+nimble: 0.12.0
 nimbleCarbon: 0.1.2
 nimbleEcology: 0.4.0
 nimbleSCR: 0.1.2
@@ -18413,7 +18413,7 @@ rpatrec: 1.0.1
 rpca: 0.2.3
 rpcdsearch: '1.0'
 rpdo: 0.3.1
-rpf: 1.0.8
+rpf: 1.0.9
 rpg: '1.6'
 rpgm: 1.1.2
 rphast: '1.6'
@@ -20788,7 +20788,7 @@ tipitaka: 0.1.2
 tipom: 1.0.2-1
 tippy: 0.1.0
 tipr: 0.3.0
-tis: '1.38'
+tis: '1.39'
 titan: 1.0-9
 titanic: 0.1.0
 titeIR: 0.1.0
@@ -21704,6 +21704,7 @@ wordgraph: 0.1.0
 wordmatch: '1.0'
 wordnet: 0.1-15
 wordpiece: 1.0.2
+wordpiece.data: 1.0.1
 wordpredictor: 0.0.2
 wordpressr: 0.2.3
 words: 1.0.1
