@@ -226,6 +226,7 @@ AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 3.1.0
 Anthropometry: '1.15'
+AntibodyTiters: 0.1.4
 Aoptbdtvc: 0.0.2
 AovBay: 0.1.0
 ApacheLogProcessor: 0.2.3
@@ -685,6 +686,7 @@ BradleyTerry: 0.8-8
 BradleyTerry2: 1.1-2
 BradleyTerryScalable: 0.1.0
 BrailleR: '0.9'
+BrainCon: 0.1.0
 Branching: 0.9.4
 BrasilMF: 1.0.0
 BrazilMet: 0.1.0
@@ -717,7 +719,7 @@ CALINE3: '1.0'
 CAM: '1.0'
 CAMAN: '0.74'
 CANSIM2R: 1.14.1
-CARBayes: 5.2.4
+CARBayes: 5.2.5
 CARBayesST: 3.2.1
 CARBayesdata: '2.2'
 CARE1: 1.1.0
@@ -946,7 +948,7 @@ CaseBasedReasoning: '0.1'
 CatDataAnalysis: 0.1-3
 CatDyn: 1.1-1
 CatEncoders: 0.1.1
-CatPredi: '1.1'
+CatPredi: '1.2'
 CatReg: 2.0.3
 CateSelection: '1.0'
 CauchyCP: 0.1.0
@@ -1058,6 +1060,7 @@ CoDiNA: 1.1.2
 CoFRA: '0.1002'
 CoImp: '1.0'
 CoMiRe: '0.7'
+CoNI: 0.1.0
 CoOL: 1.0.3
 CoRpower: 1.0.4
 CoSMoS: 2.1.0
@@ -2084,7 +2087,7 @@ FuncNN: '1.0'
 Funclustering: '1.0'
 FunctSNP: 1.0-2
 FunctionalNetworks: 1.0.0
-FunnelPlotR: 0.4.0
+FunnelPlotR: 0.4.1
 FusedLasso: 1.0.6
 FusedPCA: '0.2'
 FusionLearn: 0.1.1
@@ -2988,6 +2991,7 @@ LDAShiny: 0.9.3
 LDATS: 0.2.7
 LDAvis: 0.3.2
 LDExplorer: 1.0.3
+LDLcalc: '1.0'
 LDNN: '1.10'
 LDOD: '1.0'
 LDPD: 1.1.2
@@ -3738,7 +3742,7 @@ MultAlloc: '1.2'
 MultBiplotR: 1.3.30
 MultEq: '2.3'
 MultIS: 0.6.2
-MultNonParam: 1.3.5
+MultNonParam: 1.3.6
 MultOrdRS: 0.1-2
 MultSurvTests: '0.2'
 MultiABEL: 1.1-6
@@ -4167,7 +4171,7 @@ PGRdup: 0.2.3.7
 PH1XBAR: 0.10.1
 PHENIX: 1.3.1
 PHEindicatormethods: 1.3.2
-PHInfiniteEstimates: '2.0'
+PHInfiniteEstimates: '2.1'
 PHSMM: '1.0'
 PHYLOGR: 1.0.11
 PHeval: 0.5.4
@@ -5651,6 +5655,7 @@ SCEM: 1.1.0
 SCEPtER: 0.2-4
 SCEPtERbinary: 0.1-1
 SCEPtERextras: 0.1-0
+SCEnt: 0.0.1
 SCGLR: '3.0'
 SCI: 1.0-2
 SCINA: 1.2.0
@@ -5844,7 +5849,7 @@ SQDA: '1.0'
 SQLiteDF: 0.1.34
 SQLiteMap: 0.6.2
 SQN: 1.0.5
-SQRL: 0.8.0
+SQRL: 1.0.0
 SQUAREM: '2021.1'
 SRCS: '1.1'
 SRMA: 1.0.0-2
@@ -5981,7 +5986,7 @@ SeqMADE: '1.0'
 SeqNet: 1.1.3
 SequenceAnalysis: '1.3'
 SequenceSpikeSlab: 0.1.1
-Sequential: '3.4'
+Sequential: '4.0'
 SequentialDesign: '1.0'
 SesIndexCreatoR: 1.0-2
 SetMethods: '2.6'
@@ -6057,7 +6062,7 @@ Simpsons: 0.1.0
 SimuChemPC: '1.3'
 SimultAnR: '1.1'
 SinIW: '0.2'
-SingleCaseES: 0.4.4
+SingleCaseES: 0.5.0
 SiteAdapt: 1.1.0
 SitesInterest: '1.0'
 SixSigma: 0.10.3
@@ -6995,7 +7000,7 @@ addhazard: 1.1.0
 addinsJoaoMelo: 0.1.0
 addinsOutline: 0.1.6
 addinslist: 0.4.0
-additive: 0.0.2
+additive: 0.0.3
 additiveDEA: '1.1'
 additivityTests: 1.1-4
 addreg: '3.0'
@@ -8160,7 +8165,7 @@ brokenstick: 1.1.0
 brolgar: 0.1.2
 broman: 0.72-4
 broom: 0.7.9
-broom.helpers: 1.3.0
+broom.helpers: 1.4.0
 broom.mixed: 0.2.7
 broomExtra: 4.2.3
 brotli: '1.2'
@@ -9932,7 +9937,7 @@ dlookr: 0.5.1
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.4
-dm: 0.2.3
+dm: 0.2.4
 dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
@@ -11422,6 +11427,7 @@ g3viz: 1.1.4
 gCat: '0.1'
 gDefrag: '0.3'
 gIPFrm: '3.1'
+gJLS2: 0.2.0
 gLRTH: 0.2.0
 gMCP: 0.8-15
 gMOIP: 1.4.7
@@ -12367,7 +12373,7 @@ hackeRnews: 0.1.0
 hacks: 0.1-9
 hacksaw: 0.0.2
 hadron: 3.1.2
-hagis: 3.1.1
+hagis: 3.1.2
 hail: 0.1.1
 hakaiApi: 1.0.0
 hal9001: 0.4.1
@@ -12670,7 +12676,7 @@ hutilscpp: 0.8.1
 huxtable: 5.4.0
 hwde: '0.67'
 hwep: 0.0.1
-hwig: 0.0.1
+hwig: 0.0.2
 hwordcloud: 0.1.0
 hwriter: 1.3.2
 hwriterPlus: 1.0-3
@@ -12847,7 +12853,7 @@ identifyr: '0.1'
 identity: 0.2-1
 ideq: 0.1.4
 ider: 0.1.0
-idiogramFISH: 2.0.5
+idiogramFISH: 2.0.6
 idm: 1.8.2
 idmTPreg: '1.1'
 idmodelr: 0.3.2
@@ -14091,7 +14097,7 @@ madrat: 1.64.5
 mads: 0.1.6
 madsim: 1.2.1
 mafs: 0.0.3
-magclass: 5.24.7
+magclass: 6.0.9
 magi: 1.0.0
 magic: 1.5-9
 magicLamp: 0.1.0
@@ -14431,10 +14437,11 @@ met: 0.1.0
 metR: 0.11.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
-meta: 4.19-1
+meta: 4.19-2
 meta4diag: 2.0.8
 metaBLUE: 1.0.0
 metaBMA: 0.6.7
+metaCluster: 0.1.0
 metaDigitise: 1.0.1
 metaEnsembleR: 0.1.0
 metaLik: 0.43.0
@@ -14773,7 +14780,7 @@ mlr3misc: 0.9.4
 mlr3oml: 0.5.0
 mlr3pipelines: 0.3.6
 mlr3proba: 0.4.1
-mlr3shiny: 0.1.1
+mlr3shiny: 0.2.0
 mlr3spatiotempcv: 1.0.0
 mlr3tuning: 0.9.0
 mlr3tuningspaces: 0.0.1
@@ -14902,7 +14909,7 @@ moko: 1.0.3
 molaR: '4.5'
 molic: 2.0.3
 molnet: 0.1.0
-mombf: 3.0.4
+mombf: 3.0.6
 momentchi2: 0.1.5
 momentfit: '0.2'
 moments: '0.14'
@@ -15273,7 +15280,7 @@ naaccr: 1.0.0
 nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.17.1
-naijR: 0.3.0
+naijR: 0.3.1
 naivebayes: 0.9.7
 naivereg: 1.0.5
 nakagami: 1.1.0
@@ -15544,6 +15551,7 @@ noctua: 2.2.0
 nodbi: 0.4.3
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
+nodeSub: '1.2'
 nodiv: 1.4.0
 nofrills: 0.3.1
 noia: 0.97.1
@@ -15554,7 +15562,7 @@ noisyr: 1.0.0
 nomadlist: 0.1.0
 nombre: 0.3.0
 nomclust: 2.5.0
-nominatimlite: 0.1.0
+nominatimlite: 0.1.1
 nomine: 1.0.0
 nomisr: 0.4.4
 nomnoml: 0.2.3
@@ -15803,7 +15811,7 @@ onlineCOV: '1.3'
 onlineCPD: '1.0'
 onlinePCA: 1.3.1
 onlineVAR: 0.1-1
-onlineforecast: 0.10.0
+onlineforecast: 1.0.0
 onlineretail: 0.1.2
 onls: 0.1-1
 onnx: 0.0.3
@@ -16381,6 +16389,7 @@ permutations: 1.0-9
 permute: 0.9-5
 permutes: 2.1.1
 perry: 0.3.0
+perryExamples: 0.1.0
 persiandictionary: '1.0'
 personalized: 0.2.6
 personalized2part: 0.0.1
@@ -16418,7 +16427,7 @@ pgnorm: '2.0'
 pgraph: '1.6'
 pgs: 0.4-0
 pgsc: 1.0.0
-pguIMP: 0.0.0.2
+pguIMP: 0.0.0.3
 ph2bayes: 0.0.2
 ph2bye: 0.1.4
 ph2hetero: 1.0.2
@@ -16924,6 +16933,7 @@ preprosim: 0.2.0
 preproviz: 0.2.0
 preputils: 1.0.3
 prereg: 0.5.0
+preregr: 0.1.3
 presens: 2.1.0
 presentes: 0.1.0
 preseqR: 4.0.0
@@ -17517,6 +17527,7 @@ rabi: 1.0.2
 race: 0.1.59
 raceland: 1.1.1
 racir: 2.0.0
+ractivecampaign: 0.1.1
 radar: 1.0.0
 radarBoxplot: 1.0.0
 radarchart: 0.3.1
@@ -17974,7 +17985,7 @@ repmis: '0.5'
 repmod: 0.1.7
 repo: 2.1.5
 repolr: '3.4'
-report: 0.3.5
+report: 0.4.0
 reportROC: '3.5'
 reportReg: 0.3.0
 reportRx: '1.0'
@@ -18304,7 +18315,7 @@ robeth: 2.7-6
 robets: '1.4'
 robfilter: 4.1.2
 robin: 1.0.3
-robis: 2.6.0
+robis: 2.8.1
 roblm: '0.6'
 robmed: 0.9.0
 robmixglm: 1.2-2
@@ -19212,7 +19223,7 @@ shinybrms: 1.5.1
 shinybusy: 0.2.2
 shinycssloaders: 1.0.0
 shinycustomloader: 0.9.0
-shinydashboard: 0.7.1
+shinydashboard: 0.7.2
 shinydashboardPlus: 2.0.3
 shinydisconnect: 0.1.0
 shinydlplot: 0.1.3
@@ -19712,7 +19723,7 @@ sparsesvd: '0.2'
 sparsevar: 0.1.0
 sparsevb: 0.1.0
 sparsio: 1.0.1
-sparta: 0.8.1
+sparta: 0.8.1.1
 spartan: 3.0.2
 spass: '1.3'
 spatPomp: 0.28.0.0
@@ -20665,7 +20676,7 @@ thriftr: 1.1.5
 thsls: '0.1'
 thunder: 0.0.12
 thurstonianIRT: 0.12.1
-tibble: 3.1.4
+tibble: 3.1.5
 tibbleOne: 0.1.1
 tibbletime: 0.1.6
 tibblify: 0.1.0
@@ -20975,6 +20986,7 @@ trekfont: 0.9.5
 trelliscope: 0.9.8
 trelliscopejs: 0.2.6
 trelloR: 0.7.1
+tremendousr: 1.0.0
 trend: 1.1.4
 trendchange: '1.1'
 trendeval: 0.0.1
@@ -21486,7 +21498,7 @@ voronoi: '1.1'
 voronoiTreemap: 0.2.0
 vortexR: 1.1.7
 vortexRdata: 1.0.5
-voson.tcn: 0.1.8
+voson.tcn: 0.2.4
 vosonSML: 0.29.13
 vote: 2.3-1
 voteogram: 0.3.1
