@@ -1039,7 +1039,7 @@ ClusVis: 1.2.0
 ClussCluster: 0.1.0
 ClustAssess: 0.1.1
 ClustBlock: 2.4.0
-ClustGeo: '2.0'
+ClustGeo: '2.1'
 ClustImpute: 0.2.4
 ClustMMDD: 1.0.4
 ClustOfVar: '1.1'
@@ -4057,7 +4057,7 @@ OptCirClust: 0.0.4
 OptGS: 1.1.1
 OptHedging: '1.0'
 OptInterim: 3.0.1
-OptM: 0.1.5
+OptM: 0.1.6
 OptSig: '2.1'
 OptiQuantR: 0.0.1
 OptimClassifier: 0.1.5
@@ -5252,7 +5252,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.7
 RcppAlgos: 2.4.3
 RcppAnnoy: 0.0.19
-RcppArmadillo: 0.10.6.0.0
+RcppArmadillo: 0.10.7.0.0
 RcppBDT: 0.2.4
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
@@ -5712,7 +5712,7 @@ SETPath: '1.0'
 SEchart: '0.1'
 SEofM: 0.1.0
 SFS: 0.1.4
-SFSI: 0.4.0
+SFSI: 1.0.0
 SFtools: 0.1.0
 SGB: 1.0.1
 SGCS: '2.7'
@@ -5759,7 +5759,7 @@ SLOPE: 0.3.3
 SLTCA: 0.1.0
 SLmisc: '1.4'
 SMARTAR: 1.1.0
-SMARTbayesR: 1.0.2
+SMARTbayesR: 2.0.0
 SMARTp: 0.1.1
 SMC: '1.1'
 SMCP: 1.1.3
@@ -6129,7 +6129,7 @@ SpNetPrep: '1.2'
 SpaCCr: 0.1.0
 SpaDES: 2.0.7
 SpaDES.addins: 0.1.3
-SpaDES.core: 1.0.8
+SpaDES.core: 1.0.9
 SpaDES.tools: 0.3.9
 SpaTimeClus: 1.0.1
 SpadeR: 0.1.1
@@ -7251,7 +7251,7 @@ aphid: 1.3.3
 apisensr: 0.3.0
 aplore3: '0.9'
 aplot: 0.1.1
-aplpack: 1.3.3
+aplpack: 1.3.5
 apmsWAPP: '1.0'
 apng: '1.1'
 apollo: 0.2.5
@@ -8778,7 +8778,7 @@ cms: 0.1.0
 cmsaf: 3.2.0
 cmsafops: 1.2.0
 cmsafvis: 1.1.5
-cmstatr: 0.9.0
+cmstatr: 0.9.1
 cmvnorm: 1.0-6
 cna: 3.2.0
 cnaOpt: 0.4.0
@@ -9809,7 +9809,7 @@ diffrprojectswidget: 0.1.5
 diffusion: 0.2.7
 diffusionMap: 1.2.0
 diffusr: 0.1.4
-diffviewer: 0.1.0
+diffviewer: 0.1.1
 digeR: '1.3'
 digest: 0.6.28
 digitTests: 0.1.0
@@ -10337,7 +10337,7 @@ eeptools: 1.2.4
 eesim: 0.1.0
 ef: 1.2.0
 efdm: 0.1.0
-eff2: 1.0.0
+eff2: 1.0.1
 effectFusion: '1.1'
 effectR: 1.0.2
 effects: 4.2-0
@@ -13371,7 +13371,7 @@ kelvin: 2.0-2
 kendallRandomWalks: 0.9.4
 kequate: 1.6.3
 kerTests: 0.1.3
-keras: 2.6.0
+keras: 2.6.1
 kerasR: 0.6.1
 kerasformula: 1.5.1
 kerastuneR: 0.1.0.3
@@ -14674,7 +14674,7 @@ missingHE: 1.4.1
 mistat: 2.0.3
 mistr: 0.0.4
 mistral: 2.2.1
-misty: 0.4.2
+misty: 0.4.3
 mitml: 0.4-2
 mitools: '2.4'
 mitre: 1.0.0
@@ -16857,6 +16857,7 @@ powerMediation: 0.3.4
 powerSurvEpi: 0.1.3
 powerbydesign: 1.0.5
 powerlmm: 0.4.0
+powerly: 1.5.2
 powerpkg: '1.5'
 powerplus: '3.1'
 powerr: 0.1-3
@@ -17406,7 +17407,7 @@ rARPACK: 0.11-0
 rATTAINS: 0.1.2
 rAltmetric: 0.7.0
 rAmCharts: 2.1.13
-rAmCharts4: 1.4.0
+rAmCharts4: 1.4.1
 rAverage: 0.5-8
 rAvis: 0.1.4
 rBDAT: 0.9.8
@@ -18930,7 +18931,7 @@ sdcLog: 0.3.0
 sdcMicro: 5.6.1
 sdcMicroGUI: 1.4.0
 sdcSpatial: 0.1.1
-sdcTable: 0.32.0
+sdcTable: 0.32.1
 sdcTarget: 0.9-11
 sddpack: '0.9'
 sde: 2.0.15
@@ -20742,7 +20743,7 @@ tidystopwords: 0.9.0
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
 tidytable: 0.6.5
-tidytext: 0.3.1
+tidytext: 0.3.2
 tidytidbits: 0.2.3
 tidytransit: 1.1.0
 tidytreatment: 0.2.1
