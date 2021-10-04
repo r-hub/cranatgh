@@ -546,7 +546,7 @@ BayesSingleSub: '0.6'
 BayesSpec: 0.5.3
 BayesSummaryStatLM: '2.0'
 BayesSurvival: 0.2.0
-BayesTools: 0.1.1
+BayesTools: 0.1.2
 BayesTree: 0.3-1.4
 BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
@@ -1211,7 +1211,7 @@ CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
 Cyclops: 3.1.2
-CytobankAPI: 1.3.0
+CytobankAPI: 1.4.0
 CytobankAPIstats: '2.0'
 CytobankBridgeR: 1.0.0
 D2C: 1.2.1
@@ -1371,7 +1371,7 @@ DRI: '1.1'
 DRIP: '1.6'
 DRR: 0.0.4
 DRaWR: 1.0.1
-DRomics: 2.2-0
+DRomics: 2.3-0
 DSAIDE: 0.9.3
 DSAIRM: 0.9.3
 DSBayes: '1.1'
@@ -2059,7 +2059,7 @@ ForecastFramework: 0.9.0
 ForecastTB: 1.0.1
 ForestDisc: 0.1.0
 ForestFit: 0.7.1
-ForestGapR: 0.0.3
+ForestGapR: 0.1.6
 ForestTools: 0.2.5
 FormalSeries: '1.0'
 Formula: 1.2-4
@@ -3058,7 +3058,7 @@ LPmerge: '1.7'
 LPower: 0.1.1
 LPsmooth: 0.1.3
 LREP: 0.1.1
-LRQMM: 1.2.2
+LRQMM: 1.2.3
 LRTH: '1.3'
 LRcontrast: '1.0'
 LS2W: 1.3.4
@@ -4280,7 +4280,7 @@ PSW: 1.1-3
 PSweight: 1.1.4
 PTAk: 1.3-34
 PTE: '1.7'
-PTXQC: 1.0.10
+PTXQC: 1.0.11
 PTwins: 0.1.1
 PUPAIM: 0.2.0
 PUlasso: 3.2.4
@@ -5170,7 +5170,7 @@ Rblpapi: 0.3.11
 Rborist: 0.2-3
 Rcan: 1.3.82
 Rcapture: 1.4-3
-Rcatch22: 0.1.12
+Rcatch22: 0.1.13
 Rcell: 1.3-2
 RcellData: 1.3-2
 Rcereal: 1.2.1.1
@@ -5335,7 +5335,7 @@ Rdtq: '0.1'
 Rduino: '0.1'
 ReCiPa: '3.0'
 ReDaMoR: 0.4.3
-ReDirection: 1.0.0
+ReDirection: 1.0.1
 ReIns: 1.0.10
 ReacTran: 1.4.3.1
 Read.isi: '0.5'
@@ -6591,7 +6591,7 @@ TriadSim: 0.3.0
 TrialSize: '1.4'
 TrioSGL: 1.1.0
 TripleR: 1.5.3
-TropFishR: 1.6.2
+TropFishR: 1.6.3
 TrtCombo.FactorialExp.SR: 4.0.4
 TruncatedNormal: 2.2.2
 Tsphere: '1.0'
@@ -8555,7 +8555,7 @@ chi2x3way: '1.1'
 chicane: 0.1.7
 chickn: 1.2.3
 childdevdata: 1.1.0
-childesr: 0.2.1
+childesr: 0.2.2
 childhoodmortality: 0.3.0
 childsds: 0.7.6
 chilemapas: '0.2'
@@ -8884,7 +8884,7 @@ colorscience: 1.0.8
 colorspace: 2.0-2
 colortools: 0.1.5
 colourlovers: 0.3.6
-colourpicker: 1.1.0
+colourpicker: 1.1.1
 colourvalues: 0.3.7
 colourvision: 2.0.4
 colr: 0.1.900
@@ -9519,7 +9519,7 @@ datasus: 0.4.1
 datautils: 0.1.5
 dataverse: 0.3.9
 dataview: 2.1.1
-datawizard: 0.2.0.1
+datawizard: 0.2.1
 datazoom.amazonia: 0.1.0
 date: 1.2-39
 daterangepicker: 0.1.0
@@ -10345,7 +10345,7 @@ eff2: 1.0.1
 effectFusion: '1.1'
 effectR: 1.0.2
 effects: 4.2-0
-effectsize: 0.4.5
+effectsize: '0.5'
 effectsizescr: 0.1.0
 efflog: '1.0'
 effsize: 0.8.1
@@ -11385,7 +11385,7 @@ funneljoin: 0.1.0
 funprog: 0.3.0
 funr: 0.3.2
 funrar: 1.4.1
-funreg: '1.2'
+funreg: 1.2.2
 funtimes: '8.1'
 furniture: 1.9.10
 furrr: 0.2.3
@@ -12046,7 +12046,7 @@ glmpathcr: 1.0.8
 glmpca: 0.2.0
 glmperm: 1.0-5
 glmtlp: '1.1'
-glmtoolbox: 0.1.1
+glmtoolbox: 0.1.2
 glmtrans: 1.0.0
 glmtree: '0.2'
 glmulti: 1.0.8
@@ -12289,7 +12289,7 @@ gsDesign: 3.2.1
 gsEasy: '1.4'
 gsalib: '2.1'
 gsarima: 0.1-5
-gsbDesign: 1.0-1
+gsbDesign: 1.0-2
 gsbm: 0.2.1
 gsc: 0.3.0
 gscaLCA: 0.0.5
@@ -12483,7 +12483,7 @@ helpr: '0.1'
 helsinki: 1.0.5
 heplots: 1.3-8
 here: 1.0.1
-hereR: 0.8.0
+hereR: 0.8.1
 hergm: 4.1-8
 heritEWAS: 0.2.0
 heritability: '1.3'
@@ -12780,6 +12780,7 @@ iRegression: 1.2.1
 iRepro: '1.1'
 iRoCoDe: 1.0.0
 iSDM: '1.0'
+iSFun: 0.1.0
 iSTATS: '1.5'
 iScreen: '1.0'
 iSubGen: 1.0.1
@@ -13585,7 +13586,7 @@ lassoshooting: 0.1.5-1
 last.call: 0.1.3
 lasvmR: '0.1'
 latdiag: '0.3'
-latentcor: 1.0.0
+latentcor: 1.1.0
 latentgraph: '1.1'
 latentnet: 2.10.5
 latentnetHRT: 0.7-18
@@ -13943,7 +13944,7 @@ logitr: 0.3.0
 loglognorm: 1.0.1
 logmult: 0.7.3
 lognorm: 0.1.9
-logr: 1.2.5
+logr: 1.2.6
 logregperm: '1.0'
 logspline: 2.1.8
 lokern: 1.1-9
@@ -17450,7 +17451,7 @@ rFSA: 0.9.6
 rFTRLProximal: 1.0.0
 rFUSION: '0.1'
 rFerns: 5.0.0
-rForest: '0.1'
+rForest: 0.1.4
 rGEDI: 0.1.11
 rGammaGamma: 1.0.12
 rGoodData: 0.1.1
@@ -18358,6 +18359,7 @@ robustrank: 2019.9-10
 robustrao: 1.0-5
 robustreg: 0.1-11
 robustsae: 0.1.0
+robustsur: 0.0-7
 robustvarComp: 0.1-5
 robvis: 0.3.0
 rocNIT: '1.0'
@@ -18502,7 +18504,7 @@ rrdflibs: 1.3.0
 rrecsys: 0.9.7.3.1
 rredis: 1.7.0
 rredlist: 0.7.0
-rrefine: 1.1.1
+rrefine: 1.1.2
 rreg: 0.2.1
 rrepast: 0.8.0
 rres: '1.1'
@@ -18793,7 +18795,7 @@ sanzo: 0.1.0
 saotd: 0.2.0
 sapa: 2.0-3
 sapevom: 0.2.0
-sapfluxnetr: 0.1.1
+sapfluxnetr: 0.1.2
 saps: 1.0.0
 saqgetr: 0.2.21
 sara4r: 0.0.8
@@ -20179,7 +20181,7 @@ stringdist: 0.9.8
 stringfish: 0.15.2
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
-stringi: 1.7.4
+stringi: 1.7.5
 stringkernels: 0.8.9
 stringr: 1.4.0
 stringx: 0.2.2
@@ -20597,7 +20599,7 @@ tester: 0.1.7
 testextra: 0.1.0
 testforDEP: 0.2.0
 testit: '0.13'
-testthat: 3.0.4
+testthat: 3.1.0
 testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
@@ -21682,6 +21684,7 @@ widenet: 0.1-2
 widgetframe: 0.3.1
 widyr: 0.1.4
 wiesbaden: 1.2.4
+wig: 0.1.0
 wikibooks: '0.2'
 wikifacts: 0.4.2
 wikilake: 0.5.0
