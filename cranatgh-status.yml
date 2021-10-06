@@ -541,7 +541,7 @@ BayesSAE: 1.0-2
 BayesSPsurv: 0.1.4
 BayesSUR: 2.0-0
 BayesSampling: 1.1.0
-BayesSenMC: 0.1.3
+BayesSenMC: 0.1.4
 BayesSingleSub: '0.6'
 BayesSpec: 0.5.3
 BayesSummaryStatLM: '2.0'
@@ -958,7 +958,7 @@ CausalGAM: 0.1-4
 CausalGPS: 0.2.6
 CausalImpact: 1.2.7
 CausalKinetiX: 0.2.1
-CausalMBSTS: 0.1.0
+CausalMBSTS: 0.1.1
 CausalQueries: 0.0.3
 Causata: 4.2-0
 CautiousLearning: 1.0.1
@@ -1690,7 +1690,7 @@ ENiRG: '1.0'
 ENmisc: 1.2-7
 EPGLM: '1.1'
 EPGMr: 1.0.0
-EPP: 0.3.2
+EPP: 0.3.3
 EPT: 0.7.5
 EPX: 1.0.4
 EQL: 1.0-1
@@ -1739,7 +1739,7 @@ Ecohydmod: 1.0.0
 EconDemand: '1.0'
 EcotoneFinder: 0.2.3
 Ecume: 0.9.1
-EdSurvey: 2.7.0
+EdSurvey: 2.7.1
 EditImputeCont: 1.1.6
 EffectLiteR: 0.4-4
 EffectStars: 1.9-1
@@ -2749,7 +2749,7 @@ ISAT: 1.0.5
 ISBF: 0.2.1
 ISCO08ConveRsions: 0.1.0
 ISDA.R: '1.0'
-ISEtools: 3.1.1.1
+ISEtools: 3.1.1
 ISIPTA: 0.1-8
 ISLR: '1.4'
 ISLR2: '1.3'
@@ -2773,7 +2773,7 @@ Iboot: 0.1-1
 IceCast: 2.1.0
 Icens: 1.24.0
 IgAScores: 0.1.2
-IgorR: 0.8.1
+IgorR: '0.8'
 ImageFusion: 0.0.1
 ImageMetrics: '0.6'
 ImaginR: 0.1.7
@@ -3589,7 +3589,7 @@ MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
 MediaNews: 0.2.1
 Mediana: 1.0.8
-MedianaDesigner: '0.3'
+MedianaDesigner: '0.4'
 Mega2R: 1.0.8
 Meiosis: 1.0.2
 MendelianRandomization: 0.5.1
@@ -5566,7 +5566,7 @@ Rsomoclu: 1.7.5
 Rspc: 1.2.2
 Rspotify: 0.1.2
 RsqMed: 0.1.7.1
-Rssa: 1.0.3
+Rssa: 1.0.4
 Rstem: 0.4-1
 RstoxData: 1.2.1
 Rstreams: '1.1'
@@ -5744,7 +5744,7 @@ SILM: 1.0.0
 SIMMS: 1.3.1
 SIN: '0.6'
 SINGLE: '1.3'
-SIPDIBGE: 0.1.4
+SIPDIBGE: 0.1.5
 SIRE: 1.1.0
 SIRItoGTFS: 0.2.4
 SIS: 0.8-8
@@ -6621,7 +6621,7 @@ UCSCXenaShiny: 1.1.1
 UCSCXenaTools: 1.4.7
 UComp: 2.2.2
 UKB.COVID19: 0.1.1
-UKFE: 0.1.8
+UKFE: 0.1.9
 UKgrid: 0.1.3
 UMR: 1.1.0
 UNCLES: '2.0'
@@ -7159,7 +7159,7 @@ alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '3.3'
 amanida: 0.1.0
-amanpg: 0.3.2
+amanpg: 0.3.3
 amap: 0.8-18
 amapGeocode: 0.6.0
 amba: 0.3.1
@@ -7404,7 +7404,7 @@ aster: 1.1-2
 aster2: '0.3'
 astro: '1.2'
 astroFns: 4.1-0
-astrochron: '1.0'
+astrochron: '1.1'
 astrodatR: '0.1'
 astrolibR: '0.1'
 astsa: '1.14'
@@ -8470,7 +8470,7 @@ cenROC: 1.2.0
 censCov: 1.0-0
 censNID: 0-0-1
 censReg: 0.5-32
-censable: 0.0.2
+censable: 0.0.3
 censo2017: 0.6.1
 censorcopula: '2.0'
 census: 0.2.0
@@ -9018,7 +9018,7 @@ contact: 1.2.8
 contactdata: 0.2.0
 container: 0.3.0
 contentid: 0.0.12
-contextual: 0.9.8.4
+contextual: 0.9.8
 contfrac: 1.1-12
 conting: '1.7'
 contingency: 0.0.6
@@ -10233,7 +10233,7 @@ easyreg: '4.0'
 easystab: '1.0'
 eat: 0.1.0
 eatATA: 1.0.0
-eatDB: 0.4.1
+eatDB: 0.5.0
 eatGADS: 0.17.0
 eatRep: 0.13.6
 eatTools: 0.7.0
@@ -11001,7 +11001,7 @@ fedmatch: 2.0.3
 fedregs: 1.0.0
 fedreporter: 0.2.1
 fedstatAPIr: '0.1'
-feedeR: 0.0.10
+feedeR: 0.0.8
 feisr: 1.2.0
 fellov: '0.1'
 felp: 0.2.3
@@ -11422,7 +11422,7 @@ fuzzyRankTests: '0.4'
 fuzzySim: '3.0'
 fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.6
-fuzzyreg: 0.5.1
+fuzzyreg: '0.5'
 fuzzywuzzyR: 1.0.5
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
@@ -13722,7 +13722,7 @@ lenses: 0.0.3
 leontief: '0.2'
 leri: 0.0.1
 lero.lero: '0.2'
-lessR: 4.0.3
+lessR: 4.0.5
 lest: 1.1.0
 lestat: '1.9'
 letsR: '4.0'
@@ -13754,7 +13754,7 @@ libamtrack: 0.6.3
 libbib: 1.6.2
 libcoin: 1.0-9
 libgeos: 3.9.1-1
-libproj: 7.1.0-2
+libproj: 8.1.0-1
 libr: 1.2.0
 librarian: 1.8.1
 librarysnapshot: 0.1.2
@@ -13837,7 +13837,7 @@ listless: 0.0-2
 listviewer: 3.0.0
 liteq: 1.1.0
 litteR: 0.9.1
-littler: 0.3.13
+littler: 0.3.14
 liureg: 1.1.2
 live: 1.5.13
 livechatR: 0.1.0
@@ -14007,7 +14007,7 @@ lpmodeler: 0.2-1
 lpridge: 1.0-8
 lqa: 1.0-3
 lqmm: 1.5.5
-lqr: '3.43'
+lqr: '4.0'
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
@@ -14283,7 +14283,7 @@ maxstat: 0.7-25
 mazeGen: 0.1.3
 mazealls: 0.2.0
 mazeinda: 0.0.1
-mazing: 1.0.2
+mazing: 1.0.5
 mbRes: 0.1.1
 mbbefd: 0.8.10
 mbclusterwise: '1.0'
@@ -14444,7 +14444,7 @@ mergeTrees: 0.1.3
 mergedblocks: 1.1.0
 merlin: 0.1.0
 merror: 2.0.2
-meshed: 0.1.2
+meshed: 0.1.3
 meshsimp: '0.1'
 messaging: 0.1.0
 messydates: 0.1.1
@@ -15452,7 +15452,7 @@ newsmd: 0.3.1
 nfda: '0.2'
 nfl4th: 1.0.0
 nflfastR: 4.2.0
-nflreadr: 1.1.0
+nflreadr: 1.1.1
 nflseedR: 1.0.2
 nga: '1.4'
 ngram: 3.0.4
@@ -16629,7 +16629,7 @@ platowork: 0.0.1
 playitbyr: 0.2-1
 playwith: 0.9-8
 plde: 0.1.2
-pleLMA: 0.1.1
+pleLMA: 0.2.1
 pleiades: 0.3.0
 pleio: '1.6'
 pleiotest: 1.0.0
@@ -17896,7 +17896,7 @@ redR: 1.0.1
 reda: 0.5.3
 redcapAPI: '2.3'
 reddPrec: 0.4.0
-redist: 3.1.4
+redist: 3.1.5
 redland: 1.0.17-14
 redlistr: 1.0.3
 redoc: 2.0.0.49
@@ -18038,7 +18038,7 @@ resautonet: '1.0'
 rescue: 1.0.3
 resemble: 2.0.0
 reservoir: 1.1.5
-resevol: 0.2.0.2
+resevol: 0.2.0.8
 reshape: 0.8.8
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
@@ -19100,7 +19100,7 @@ seqHMM: 1.1.1
 seqICP: '1.1'
 seqMeta: 1.6.7
 seqPERM: '1.0'
-seqR: 1.0.0
+seqR: 1.0.1
 seqRFLP: 1.0.1
 seqest: 1.0.1
 seqgendiff: 1.2.2
@@ -19364,7 +19364,7 @@ simecol: 0.8-13
 simest: '0.4'
 simex: '1.8'
 simexaft: 1.0.7.1
-simfam: 1.0.2
+simfam: 1.0.3
 simfinR: 0.2.3
 simfinapi: 0.2.0
 simfit: 0.1.0
@@ -19548,7 +19548,7 @@ smoothie: 1.0-3
 smoothmest: 0.1-2
 smoothr: 0.2.2
 smoothtail: 2.0.5
-smoots: 1.1.1
+smoots: 1.1.2
 smotefamily: 1.3.1
 smovie: 1.1.3
 smpic: 0.1.0
@@ -20160,7 +20160,7 @@ stranger: 0.3.3
 strap: '1.4'
 strapgod: 0.0.4
 strat: '0.1'
-stratEst: 1.1.0
+stratEst: 1.1.4
 strataG: 2.4.905
 stratallo: 0.1.0
 stratamatch: 0.1.7
@@ -20842,7 +20842,7 @@ titecrm: 0.1-1
 titrationCurves: 0.1.0
 tkRplotR: 0.1.7
 tkrgl: '0.9'
-tkrplot: 0.0-25
+tkrplot: 0.0-26
 tktdjl2r: 0.2.0
 tldr: 0.2.3
 tlemix: 0.1.3
@@ -21810,7 +21810,7 @@ wvioplot: '0.1'
 wvtool: '1.0'
 wwntests: 1.0.1
 wyz.code.metaTesting: 1.1.20
-wyz.code.offensiveProgramming: 1.1.18
+wyz.code.offensiveProgramming: 1.1.23
 wyz.code.rdoc: 1.1.16
 wyz.code.testthat: 1.1.17
 x.ent: 1.1.7
