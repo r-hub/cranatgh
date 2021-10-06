@@ -148,7 +148,7 @@ AWS.tools: 0.0.5
 AbSim: 0.2.6
 AbsFilterGSEA: '1.5'
 Ac3net: 1.2.2
-AcceptanceSampling: 1.0-6
+AcceptanceSampling: 1.0-7
 Ace: 0.0.8
 AcousticNDLCodeR: 1.0.2
 AcrossTic: 1.0-3
@@ -363,7 +363,7 @@ BGGM: 2.0.4
 BGLR: 1.0.8
 BGPhazard: 2.1.0
 BGSIMD: '1.0'
-BGVAR: 2.3.1
+BGVAR: 2.4.0
 BGmisc: '0.1'
 BH: 1.75.0-0
 BHAI: 0.99.2
@@ -1110,7 +1110,7 @@ CompetingRiskFrailty: '2.0'
 Compind: '2.3'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.1
-Compositional: '4.9'
+Compositional: '5.0'
 CompoundEvents: 0.1.0
 Compounding: 1.0.2
 ConConPiWiFun: 0.4.6.1
@@ -3260,7 +3260,7 @@ MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
 MCMCglmm: '2.32'
 MCMChybridGP: '5.4'
-MCMCpack: 1.5-0
+MCMCpack: 1.6-0
 MCMCprecision: 0.4.0
 MCMCtGARCH: '1.0'
 MCMCtGARCHM: '1.0'
@@ -3427,7 +3427,7 @@ MOST: 0.1.0
 MOTE: 1.0.2
 MOrder: '0.1'
 MPAgenomics: 1.2.3
-MPBoost: 0.1-3
+MPBoost: 0.1-4
 MPCI: 1.0.7
 MPDiR: 0.1-20
 MPGE: 1.0.0
@@ -4107,7 +4107,7 @@ PAGWAS: '2.0'
 PAMA: 1.2.0
 PAMhm: 0.1.2
 PAMmisc: 1.6.8
-PAMpal: 0.13.0
+PAMpal: 0.9.14
 PANDA: 0.9.9
 PANICr: 1.0.0
 PARSE: 0.1.0
@@ -4345,7 +4345,7 @@ PeakSegDisk: 2020.8.13
 PeakSegJoint: 2018.10.3
 PeakSegOptimal: 2018.05.25
 Peaks: '0.2'
-PearsonDS: '1.2'
+PearsonDS: 1.2.1
 PearsonICA: 1.2-4
 PedCNV: '0.1'
 PeerPerformance: 2.2.5
@@ -4986,7 +4986,7 @@ RPyGeo: 1.0.0
 RQDA: 0.3-1
 RQEntangle: 0.1.3
 RQGIS: 1.0.4
-RQuantLib: 0.4.13
+RQuantLib: 0.4.14
 RRBoost: '0.1'
 RRF: 1.9.1
 RRI: '1.1'
@@ -5152,6 +5152,7 @@ RankingProject: 0.3.1
 RapidPolygonLookup: 0.1.1
 RapidoPGS: 2.1.0
 Raquifer: 0.1.0
+RareComb: '1.0'
 Rarefy: '1.1'
 Rarity: 1.3-6
 RaschSampler: 0.8-8
@@ -5356,7 +5357,7 @@ Records: '1.0'
 RecurRisk: '1.0'
 RedditExtractoR: 3.0.3
 RedisBaseContainer: 1.0.1
-Rediscover: 0.2.0
+Rediscover: 0.3.0
 Redmonder: 0.2.0
 RefFreeEWAS: '2.2'
 RefManageR: 1.3.0
@@ -5479,7 +5480,7 @@ Rmixmod: 2.1.5
 RmixmodCombi: '1.0'
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
-Rmpfr: 0.8-4
+Rmpfr: 0.8-5
 Rmpi: 0.6-9.1
 Rmst: 0.0.3
 RnavGraph: 0.1.8
@@ -6155,7 +6156,7 @@ SpatEntropy: 2.0-1
 SpatMCA: 1.0.2.0
 SpatPCA: 1.3.3.0
 SpatialAcc: 0.1-4
-SpatialBSS: 0.11-0
+SpatialBSS: 0.9-0
 SpatialBall: 0.1.0
 SpatialEpi: 1.2.5
 SpatialEpiApp: '0.3'
@@ -6454,7 +6455,7 @@ TSsql: 2017.4-1
 TSstudio: 0.1.6
 TSxls: 2013.8-2
 TSzip: 2013.9-1
-TTAinterfaceTrendAnalysis: 1.5.7
+TTAinterfaceTrendAnalysis: 1.5.8
 TTCA: 0.1.1
 TTR: 0.24.2
 TTS: '1.0'
@@ -6585,7 +6586,7 @@ TreeRank: 1.1-0
 TreeSearch: 1.0.1
 TreeSim: '2.4'
 TreeSimGM: '2.5'
-TreeTools: 1.5.0
+TreeTools: 1.5.1
 TrendInTrend: 1.1.3
 TrendSLR: '1.0'
 Trendtwosub: 0.0.2
@@ -6679,7 +6680,7 @@ VARSEDIG: '1.9'
 VARshrink: 0.3.1
 VARsignR: 0.1.3
 VARtests: 2.0.5
-VBLPCM: 2.4.7
+VBLPCM: 2.4.8
 VBMA4hmm: '0.1'
 VBTree: 0.1.0
 VBmix: 0.3.2
@@ -7232,7 +7233,7 @@ anyLib: 1.0.5
 anybadger: 0.1.0
 anyflights: 0.3.1
 anytime: 0.3.9
-ao: 0.1.3
+ao: 0.1.4
 aod: 1.3.1
 aods3: 0.4-1.1
 aof: 0.1.2
@@ -7902,7 +7903,7 @@ binom: 1.1-1
 binomSamSize: 0.1-5
 binomTools: 1.0-1
 binomen: 0.1.2
-binomialMix: 1.0.1
+binomialMix: '1.0'
 binomialRF: 0.1.0
 binomialcftp: '1.0'
 binomlogit: '1.2'
@@ -8235,7 +8236,7 @@ bvarsv: '1.1'
 bvartools: 0.2.0
 bvenn: '0.1'
 bvls: '1.4'
-bvpSolve: 1.4.2
+bvpSolve: 1.4.3
 bw: 1.0.0
 bwd: 0.1.0
 bwimage: '1.3'
@@ -9091,7 +9092,7 @@ corrcoverage: 1.2.1
 correctedAUC: 0.0.3
 corregp: 2.0.2
 correlate: '1.0'
-correlation: 0.7.0
+correlation: 0.7.1
 correlationfunnel: 0.2.0
 correlbinom: 0.0.1
 corrgram: '1.14'
@@ -9600,7 +9601,7 @@ deBInfer: 0.4.2
 deGradInfer: 1.0.1
 deSolve: '1.29'
 deTS: '1.0'
-deTestSet: 1.1.7.2
+deTestSet: 1.1.7.3
 deaR: 1.2.3
 deadband: 0.1.0
 deal: 1.2-39
@@ -10201,7 +10202,7 @@ eRm: 1.0-2
 eSDM: 0.3.7
 eVenn: '2.4'
 eadrm: 0.1.3
-eaf: '2.1'
+eaf: '2.2'
 earlyR: 0.0.5
 earlygating: '1.1'
 earlywarnings: 1.0.59
@@ -11820,6 +11821,7 @@ ggResidpanel: 0.3.0
 ggThemeAssist: 0.1.5
 ggTimeSeries: 1.0.1
 ggVennDiagram: 1.1.4
+ggalignment: 1.0.0
 ggallin: 0.1.1
 ggalluvial: 0.12.3
 ggalt: 0.4.0
@@ -11981,7 +11983,7 @@ gimme: 0.7-6
 gimmeTools: '0.1'
 gimms: 1.2.1
 giphyr: 0.2.0
-giscoR: 0.3.0
+giscoR: 0.3.1
 gistr: 0.9.0
 git2r: 0.28.0
 git2rdata: 0.3.1
@@ -12477,7 +12479,7 @@ heatwaveR: 0.4.5
 heavy: 0.38.196
 heddlr: 0.6.0
 hedgehog: '0.1'
-heemod: 0.14.2
+heemod: 0.14.4
 hei: 0.1.0
 heims: 0.4.0
 helda: 1.1.5
@@ -13027,7 +13029,7 @@ inpdfr: 0.1.11
 inplace: 0.1.2
 insane: 0.1.0
 insect: 1.4.2
-insee: 1.1.1
+insee: 1.1.2
 insideRODE: '2.0'
 insiderTrades: 0.0.1
 insight: 0.14.4
@@ -13567,7 +13569,7 @@ lambdaTS: 1.0.0
 lamme: 0.0.1
 lancet.iraqmortality: 0.2-0
 landest: '1.0'
-landmap: 0.0.11
+landmap: 0.0.9
 landpred: '1.0'
 landsat: 1.1.0
 landsat8: 0.1-10
@@ -13905,7 +13907,7 @@ localIV: 0.3.1
 localModel: '0.5'
 localScore: 1.0.6
 localdepth: 0.5-7
-localgauss: '0.40'
+localgauss: '0.41'
 localsolver: '2.3'
 locatexec: 0.1.1
 locationgamer: 0.1.0
@@ -14387,7 +14389,7 @@ measuRing: '0.5'
 measurementProtocol: 0.1.0
 measurements: 1.4.0
 measures: '0.3'
-meboot: 1.4-9.1
+meboot: 1.4-9.2
 mecdf: 0.6.1
 mechkar: 1.14.6
 mecor: 0.9.0
@@ -14444,7 +14446,7 @@ mergeTrees: 0.1.3
 mergedblocks: 1.1.0
 merlin: 0.1.0
 merror: 2.0.2
-meshed: 0.1.3
+meshed: 0.1.4
 meshsimp: '0.1'
 messaging: 0.1.0
 messydates: 0.1.1
@@ -14544,7 +14546,7 @@ mfx: 1.2-2
 mgarchBEKK: 0.0.2
 mgc: 2.0.2
 mgcViz: 0.1.9
-mgcv: 1.8-37
+mgcv: 1.8-38
 mgee2: '0.2'
 mglR: 0.1.0
 mglmn: 0.1.0
@@ -14731,7 +14733,7 @@ mixpack: 0.3.6
 mixpoissonreg: 1.0.0
 mixreg: 0.0-6
 mixsep: 0.2.1-2
-mixsmsn: 1.1-9
+mixsmsn: 1.1-10
 mixsqp: 0.3-43
 mixstock: '0.9'
 mixtNB: '1.0'
@@ -14793,7 +14795,7 @@ mlr3learners: 0.5.0
 mlr3measures: 0.4.0
 mlr3misc: 0.9.4
 mlr3oml: 0.5.0
-mlr3pipelines: 0.3.6
+mlr3pipelines: 0.3.6-1
 mlr3proba: 0.4.1
 mlr3shiny: 0.2.0
 mlr3spatiotempcv: 1.0.0
@@ -15451,7 +15453,7 @@ newsmap: 0.7.4
 newsmd: 0.3.1
 nfda: '0.2'
 nfl4th: 1.0.0
-nflfastR: 4.2.0
+nflfastR: 4.3.0
 nflreadr: 1.1.1
 nflseedR: 1.0.2
 nga: '1.4'
@@ -17367,7 +17369,7 @@ quarto: '1.0'
 quaternions: '0.2'
 queryparser: 0.3.1
 quest: 0.1.0
-questionr: 0.7.4
+questionr: 0.7.5
 queuecomputer: 1.1.0
 queueing: 0.2.12
 quhomology: 1.1.1
@@ -17576,7 +17578,7 @@ railtrails: 0.1.1
 rainbow: '3.6'
 raincin: 1.0.3
 raincpc: 1.1.0
-rainette: 0.2.0
+rainette: 0.2.1
 rainfarmr: '0.1'
 rainfreq: '0.3'
 rake: '1.2'
@@ -18276,7 +18278,7 @@ rmdHelpers: '1.2'
 rmda: '1.6'
 rmdcev: 1.2.4
 rmdfiltr: 0.1.3
-rmdformats: 1.0.2
+rmdformats: 1.0.3
 rmdpartials: 0.5.8
 rmdplugr: 0.4.1
 rmdshower: 2.1.1
@@ -18346,7 +18348,7 @@ robotstxt: 0.7.13
 robreg3S: '0.3'
 robregcc: '1.1'
 robsel: 0.1.0
-robservable: 0.2.0
+robservable: 0.2.1
 robslopes: 1.0.2
 robsurvey: 0.1.1
 robumeta: '2.0'
@@ -18364,7 +18366,7 @@ robustcov: '0.1'
 robustfa: 1.0-5
 robustgam: 0.1.7
 robustlm: 0.1.0
-robustlmm: 2.4-4
+robustlmm: 2.4-5
 robustloggamma: 1.0-2
 robustrank: 2019.9-10
 robustrao: 1.0-5
@@ -18822,7 +18824,7 @@ sasfunclust: 1.0.0
 sass: 0.4.0
 sassy: 1.0.5
 sate: 1.1.0
-satellite: 1.0.2
+satellite: 1.0.3
 satin: '1.0'
 satscanMapper: 1.0.1
 saturnin: 1.1.1
@@ -18877,7 +18879,7 @@ scape: 2.3.3
 scapeMCMC: 1.1-3
 scar: 0.2-1
 scatr: 1.0.1
-scatterD3: 1.0.0
+scatterD3: 1.0.1
 scattermore: '0.7'
 scatterpie: 0.1.7
 scatterplot3d: 0.3-41
@@ -19064,7 +19066,7 @@ semtree: 0.9.17
 semver: 0.2.0
 semverutils: 0.1.0
 sen2r: 1.5.0
-sendgridr: 0.2.4
+sendgridr: 0.3.3
 sendmailR: 1.2-1
 sendplot: 4.0.0
 sensR: 1.5-2
@@ -19848,7 +19850,7 @@ spftir: 0.1.0
 spgrass6: 0.8-9
 spgs: 1.0-3
 spgwr: 0.6-34
-spherepc: 0.1.4
+spherepc: 0.1.6
 sphereplot: '1.5'
 sphet: '1.7'
 sphunif: 1.0.1
@@ -20301,7 +20303,7 @@ survMS: 0.0.1
 survMisc: 0.5.5
 survParamSim: 0.1.5
 survPen: 1.5.2
-survPresmooth: 1.1-10
+survPresmooth: 1.1-11
 survRM2: 1.0-3
 survRM2adapt: 1.0-1
 survRM2perm: 0.1.0
@@ -21354,7 +21356,7 @@ validann: 1.2.1
 validata: 0.1.0
 validate: 1.0.4
 validateRS: 1.0.0
-validatedb: 0.1.3
+validatedb: 0.1.4
 validatejsonr: 1.0.4
 validatetools: 0.5.0
 validator: '1.0'
@@ -21363,7 +21365,7 @@ valorate: 1.0-1
 valottery: 0.0.1
 valr: 0.6.3
 valse: 0.1-0
-valueEQ5D: 0.7.1
+valueEQ5D: 0.7.2
 valuer: 1.1.2
 vamc: 0.2.1
 vampyr: 1.1.1
@@ -21809,10 +21811,10 @@ wv: 0.1.1
 wvioplot: '0.1'
 wvtool: '1.0'
 wwntests: 1.0.1
-wyz.code.metaTesting: 1.1.20
+wyz.code.metaTesting: 1.1.21
 wyz.code.offensiveProgramming: 1.1.23
-wyz.code.rdoc: 1.1.16
-wyz.code.testthat: 1.1.17
+wyz.code.rdoc: 1.1.19
+wyz.code.testthat: 1.1.20
 x.ent: 1.1.7
 x12: 1.9.3
 x12GUI: 0.13.0
