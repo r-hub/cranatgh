@@ -997,7 +997,7 @@ ChineseNames: 1.1.0
 ChoR: 0.0-4
 ChocoLattes: 0.1.0
 ChoiceModelR: '1.2'
-CholWishart: 1.1.0
+CholWishart: 1.1.2
 CircE: '1.1'
 CircMLE: 0.3.0
 CircNNTSR: 2.2-1
@@ -1061,7 +1061,7 @@ CoCoGraph: 0.1.7.6
 CoDiNA: 1.1.2
 CoFRA: '0.1002'
 CoImp: '1.0'
-CoMiRe: '0.7'
+CoMiRe: 0.7.1
 CoNI: 0.1.0
 CoOL: 1.0.3
 CoRpower: 1.0.4
@@ -1864,6 +1864,7 @@ FABInference: '0.1'
 FACTMLE: '1.1'
 FACTscorer: 0.1.0
 FADA: 1.3.5
+FADPclust: 0.1.0
 FAIRmaterials: 0.0.2
 FAMILY: 0.1.19
 FAMT: '2.5'
@@ -2224,7 +2225,7 @@ GMSimpute: 0.0.1.0
 GMZTests: 0.1.4
 GNAR: 1.1.1
 GNE: 0.99-3
-GNRS: 0.3.2
+GNRS: 0.3.3
 GNSSseg: '6.0'
 GOFSN: '1.0'
 GOFShiny: 0.1.0
@@ -2236,7 +2237,7 @@ GOsummaries: '1.1'
 GOxploreR: 1.2.3
 GPArotation: 2014.11-1
 GPB: '1.2'
-GPBayes: 0.1.0-2
+GPBayes: 0.1.0-2.1
 GPC: '0.1'
 GPCMlasso: 0.1-5
 GPCSIV: 0.1.0
@@ -2695,7 +2696,7 @@ IMAGE: '1.0'
 IMD: 1.0.2
 IMEC: 0.2.0
 IMFData: 0.2.0
-IMIFA: 2.1.6
+IMIFA: 2.1.7
 IMIS: '0.1'
 IMIX: 1.1.4
 IMP: '1.1'
@@ -3387,7 +3388,7 @@ MLZ: 0.1.3
 MLeval: '0.3'
 MLmetrics: 1.1.1
 MLpreemption: 1.0.1
-MM: 1.6-5
+MM: 1.6-6
 MM2S: 1.0.6
 MM2Sdata: 1.0.3
 MM4LMM: 2.1.0
@@ -4107,7 +4108,7 @@ PAGI: '1.0'
 PAGWAS: '2.0'
 PAMA: 1.2.0
 PAMhm: 0.1.2
-PAMmisc: 1.6.8
+PAMmisc: 1.7.0
 PAMpal: 0.9.14
 PANDA: 0.9.9
 PANICr: 1.0.0
@@ -5652,7 +5653,7 @@ SBSA: 0.2.3
 SBSDiff: 0.1.0
 SBdecomp: '1.1'
 SBmedian: 0.1.1
-SC.MEB: '1.0'
+SC.MEB: '1.1'
 SC2API: 1.0.0
 SCAT: 0.5.0
 SCBiclust: 1.0.0
@@ -6195,7 +6196,7 @@ Splinets: 1.0.0
 SplitGLM: 1.0.2
 SplitKnockoff: '0.8'
 SplitReg: 1.0.2
-SplitSoftening: 2.0-1
+SplitSoftening: 2.1-0
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
@@ -6503,7 +6504,7 @@ Tendril: 2.0.4
 TensorClustering: 1.0.2
 TensorComplete: 0.1.0
 TensorTest2D: 1.0.3
-Ternary: 1.2.2
+Ternary: 1.2.3
 TestCor: 0.0.2.2
 TestDataImputation: '2.2'
 TestDesign: 1.2.6
@@ -8844,7 +8845,7 @@ cognitoR: 1.0.2
 cohorts: 1.0.0
 cohorttools: 0.1.4
 coil: 1.2.3
-coin: 1.4-1
+coin: 1.4-2
 coindeskr: 0.1.0
 coinmarketcapr: 0.3.2
 cointReg: 0.2.0
@@ -9074,7 +9075,7 @@ coreSim: 0.2.4
 coreTDT: '1.0'
 coreheat: 0.2.2
 corehunter: 3.2.1
-corels: 0.0.2
+corels: 0.0.3
 corkscrew: '1.1'
 corlink: 1.0.0
 corncob: 0.2.0
@@ -9116,7 +9117,7 @@ cosmosR: '1.0'
 cosso: 2.1-1
 costat: '2.4'
 costsensitive: 0.1.2.10
-cotram: 0.3-0
+cotram: 0.3-1
 cotrend: 1.0.2
 couchDB: 1.4.1
 countHMM: 0.1.0
@@ -9142,7 +9143,7 @@ covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.3
 covid19.analytics: 2.1.1
-covid19br: 0.1.1
+covid19br: 0.1.2
 covid19dbcand: 0.1.1
 covid19france: 0.1.0
 covid19india: 0.1.3
@@ -9478,7 +9479,7 @@ data.validator: 0.1.5
 data.world: 1.2.2
 data360r: 1.0.8
 dataCompareR: 0.1.3
-dataMaid: 1.4.0
+dataMaid: 1.4.1
 dataMeta: 0.1.1
 dataPreparation: 1.0.2
 dataQualityR: '1.0'
@@ -9549,7 +9550,7 @@ dbEmpLikeGOF: 1.2.4
 dbEmpLikeNorm: 1.0.0
 dbMC: 1.0.0
 dbWebForms: 0.1.0
-dbarts: 0.9-19
+dbarts: 0.9-20
 dbcsp: 0.0.1.0
 dbd: 0.0-22
 dbfaker: 0.1.0
@@ -9825,6 +9826,7 @@ diffviewer: 0.1.1
 digeR: '1.3'
 digest: 0.6.28
 digitTests: 0.1.0
+digitalDLSorteR: 0.1.0
 digitalPCR: 1.1.0
 digitize: 0.0.4
 dils: 0.8.1
@@ -10128,7 +10130,7 @@ dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.2.9
+duckdb: 0.3.0
 duckduckr: 1.0.0
 dumbbell: '0.1'
 dummies: 1.5.6
@@ -10183,7 +10185,7 @@ dynr: 0.1.16-2
 dynsbm: '0.7'
 dynsim: 1.2.3
 dynsurv: 0.4-2
-dynutils: 1.0.8
+dynutils: 1.0.9
 dynwrap: 1.2.2
 e1071: 1.7-9
 eAnalytics: 0.1.4
@@ -10430,7 +10432,7 @@ eltr: 0.1.0
 em2: '0.9'
 emIRT: 0.0.11
 emax.glm: 0.1.2
-emayili: 0.5.0
+emayili: 0.6.1
 emba: 0.1.8
 embed: 0.1.4
 embryogrowth: '8.2'
@@ -10572,7 +10574,7 @@ equalCovs: '1.0'
 equaltestMI: 0.6.1
 equatags: 0.1.1
 equate: 2.0.7
-equateIRT: 2.2.0
+equateIRT: 2.2.1
 equateMultiple: 0.1.0
 equatiomatic: 0.3.0
 equivUMP: 0.1.1
@@ -10852,7 +10854,7 @@ fad: 0.3-3
 fail: '1.3'
 fairadapt: 0.2.0
 fairml: '0.6'
-fairmodels: 1.1.0
+fairmodels: 1.2.0
 fairness: 1.2.2
 fairselect: 0.1-1
 fairsubset: '1.0'
@@ -11430,7 +11432,7 @@ fuzzyreg: '0.5'
 fuzzywuzzyR: 1.0.5
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
-fwildclusterboot: 0.3.7
+fwildclusterboot: '0.4'
 fwsim: 0.3.4
 fxTWAPLS: 0.0.7
 fxregime: 1.0-4
@@ -12394,7 +12396,7 @@ hagis: 3.1.2
 hail: 0.1.1
 hakaiApi: 1.0.0
 hal9001: 0.4.1
-haldensify: 0.0.6
+haldensify: 0.2.1
 halfcircle: 0.1.0
 halp: 0.1.3
 hamlet: 0.9.6
@@ -12889,7 +12891,7 @@ ifa: '7.0'
 ifaTools: '0.22'
 ifctools: 0.3.4
 ifs: 0.1.5
-ifultools: 2.0-22
+ifultools: 2.0-23
 ig: '1.2'
 ig.vancouver.2014.topcolour: 0.1.2.0
 igate: 0.3.3
@@ -13384,7 +13386,7 @@ kdetrees: 0.1.5
 kdevine: 0.4.3
 kdist: '0.2'
 kdpee: 1.0.0
-kdtools: 0.5.2
+kdtools: 0.6.0
 kedd: 1.0.3
 keep: '1.0'
 kehra: '0.1'
@@ -13593,7 +13595,7 @@ largeVis: '0.2'
 lars: '1.2'
 laser: 2.4-1
 lass0: 1.1.0
-lasso2: 1.2-21.1
+lasso2: 1.2-22
 lassopv: 0.2.0
 lassoscore: '0.6'
 lassoshooting: 0.1.5-1
@@ -14423,7 +14425,7 @@ megaptera: 1.0-0
 meifly: '0.3'
 mekko: 0.1.0
 melody: 0.4.7
-melt: 1.0.0
+melt: 1.0.1
 meltr: 1.0.0
 meltt: 0.4.1
 melviewr: 0.0.1
@@ -14769,7 +14771,7 @@ mlegp: 3.1.8
 mlergm: '0.8'
 mleur: 1.0-6
 mlf: 1.2.1
-mlfit: 0.5.2
+mlfit: 0.5.3
 mlflow: 1.20.2
 mlgt: '0.16'
 mlica: '0.6'
@@ -15273,7 +15275,7 @@ mvst: 1.1.0
 mvtBinaryEP: '1.0'
 mvtboost: 0.5.0
 mvtmeta: '1.1'
-mvtnorm: 1.1-2
+mvtnorm: 1.1-3
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-1
 mwTensor: 0.99.2
@@ -15692,7 +15694,7 @@ nscprepr: 0.1.1
 nsdr: 0.1.1
 nse: '1.20'
 nse2r: 0.1.5
-nser: 1.3.2
+nser: 1.3.3
 nseval: '0.4'
 nsga2R: '1.0'
 nsga3: 0.0.3
@@ -16432,7 +16434,7 @@ petitr: '1.0'
 petrinetR: 0.2.1
 petro.One: 0.2.3
 pewdata: 0.3.2
-pexm: 1.0.0
+pexm: 1.0.1
 pez: 1.2-3
 pfa: '1.1'
 pfda: 1.0.0
@@ -16963,6 +16965,7 @@ preputils: 1.0.3
 prereg: 0.5.0
 preregr: 0.1.3
 presens: 2.1.0
+presenter: 0.1.0
 presentes: 0.1.0
 preseqR: 4.0.0
 presize: 0.2.3
@@ -17390,6 +17393,7 @@ quickpsy: 0.1.5.1
 quickregression: '0.2'
 quiddich: 1.0.0
 quietR: 0.1.0
+quincunx: 0.1.1
 quint: 2.1.0
 quipu: 1.9.0
 quokar: 0.1.0
@@ -18575,7 +18579,7 @@ rsleep: 1.0.3
 rslp: 0.2.0
 rslurm: 0.6.0
 rsm: 2.10.3
-rsmatrix: 0.1.2
+rsmatrix: 0.2.0
 rsml: '1.3'
 rsnps: 0.4.0
 rsoi: 0.5.4
@@ -18957,7 +18961,7 @@ sdafilter: 1.0.0
 sdamr: 0.1.0
 sdat: '1.1'
 sdcHierarchies: 0.19.1
-sdcLog: 0.3.0
+sdcLog: 0.4.0
 sdcMicro: 5.6.1
 sdcMicroGUI: 1.4.0
 sdcSpatial: 0.1.1
@@ -19077,7 +19081,7 @@ sendmailR: 1.2-1
 sendplot: 4.0.0
 sensR: 1.5-2
 sense: 1.0.0
-sensemakr: 0.1.3
+sensemakr: 0.1.4
 sensiPhy: 0.8.5
 sensibo.sky: 1.0.0
 sensitivity: 1.26.1
@@ -20010,7 +20014,7 @@ st: 1.2.6
 stR: '0.4'
 stUPscales: 1.0.3.4
 sta: 0.1.5
-staRdom: 1.1.21
+staRdom: 1.1.23
 staRt: 1.1.12
 staTools: 0.1.0
 stab: 0.1.9
@@ -21445,7 +21449,7 @@ vegdata: 0.9.8
 vegetarian: '1.2'
 vegperiod: 0.3.1
 vegtable: 0.1.6
-vein: 0.9.3
+vein: 0.9.4
 velociraptr: 1.1.0
 velox: 0.2.0
 vembedr: 0.1.4
