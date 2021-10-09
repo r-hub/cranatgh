@@ -3018,6 +3018,7 @@ LGEWIS: '1.1'
 LGRF: '1.0'
 LGS: '0.91'
 LHD: 1.3.3
+LIC: 0.0.1
 LICORS: 0.2.0
 LICurvature: 0.1.1
 LIHKGr: 0.1.0
@@ -3723,7 +3724,7 @@ MonteCarloSEM: 0.0.2
 MoonFinder: 1.0.3
 Morpho: '2.9'
 MorseGen: '1.2'
-MortCast: 2.4-0
+MortCast: 2.6-0
 MortHump: '0.2'
 MortalityGaps: 1.0.0
 MortalityLaws: 1.8.5
@@ -4263,7 +4264,7 @@ PROscorerTools: 0.0.1
 PROsetta: 0.3.2
 PRROC: 1.3.1
 PRSim: 1.3-1
-PReMiuM: 3.2.6
+PReMiuM: 3.2.7
 PResiduals: 1.0-1
 PSAboot: '1.1'
 PSAgraphics: 2.1.1
@@ -5494,7 +5495,7 @@ Rnightlights: 0.2.4
 Rnightly: 0.1.0
 Rnmr1D: 1.2.5
 Rnotes: 1.1-1
-Rnumerai: 2.1.3
+Rnumerai: 2.1.4
 Rnvd3: 1.0.0
 RoBMA: 2.0.0
 RobAStBase: 1.2.1
@@ -9868,6 +9869,7 @@ discoverableresearch: 0.0.1
 discreteMTP: 0.1-2
 discreteRV: 1.2.2
 discretecdAlgorithm: 0.0.7
+discretefit: 0.0.0
 discretization: 1.0-1
 discrim: 0.1.3
 discrimARTs: '0.2'
@@ -10719,6 +10721,7 @@ exifr: 0.3.2
 exiftoolr: 0.1.5
 exoplanets: 0.2.2
 exp2flux: '0.1'
+expDB: 0.1.0
 expSBM: 1.3.5
 expandFunctions: 0.1.0
 expands: 2.1.3
@@ -13090,7 +13093,7 @@ interp: 1.0-33
 interplot: 0.2.3
 interpret: 0.1.26
 interpretR: 0.2.4
-interval: 1.1-0.7
+interval: 1.1-0.8
 intervalaverage: 0.8.0
 intervals: 0.15.2
 intervcomp: 0.1.2
@@ -13546,7 +13549,7 @@ l2boost: 1.0.1
 laGP: 1.5-5
 labdsv: 2.0-1
 label.switching: '1.8'
-labelVector: 0.1.1
+labelVector: 0.1.2
 labeledLoop: '0.1'
 labeling: 0.4.2
 labelled: 2.8.0
@@ -14435,7 +14438,7 @@ meme: 0.2.3
 memery: 0.5.6
 memgene: 1.0.1
 memify: 0.1.1
-memisc: 0.99.27.3
+memisc: 0.99.30.7
 memnet: 0.1.0
 memo: 1.0.1
 memochange: 1.1.1
@@ -14994,7 +14997,7 @@ moult: 2.2.0
 mountainplot: '1.3'
 mousetrack: 1.0.0
 mousetrap: 3.2.0
-movMF: 0.2-5
+movMF: 0.2-6
 move: 4.0.6
 moveHMM: '1.7'
 moveVis: 0.10.5
@@ -15934,7 +15937,7 @@ optionstrat: 1.4.1
 optiscale: 1.2.2
 optismixture: '0.1'
 optmatch: 0.9-15
-optparse: 1.6.6
+optparse: 1.7.1
 optpart: 3.0-3
 optrcdmaeAT: 1.0.0
 optrdd: '1.0'
@@ -18073,6 +18076,7 @@ reticulate: '1.22'
 retimes: 0.1-2
 retistruct: 0.6.3
 retractcheck: 1.0.0
+retriever: 0.1.0
 retrodesign: 0.1.0
 retroharmonize: 0.1.17
 retrosheet: 1.1.4
@@ -18143,7 +18147,7 @@ rggm: 1.0.1
 rggobi: 2.1.9
 rgho: 2.0.1
 rgl: 0.107.14
-rglobi: 0.2.25
+rglobi: 0.2.9
 rglwidget: 0.2.1
 rgnparser: 0.2.0
 rgoogleads: 0.3.0
@@ -19888,7 +19892,7 @@ splines2: 0.4.5
 splinesurv: 0.6-14
 splinetree: 0.2.0
 splitFeas: 0.1.0
-splitSelect: 1.0.1
+splitSelect: 1.0.2
 splitTools: 0.3.1
 splitfngr: 0.1.2
 splithalf: 0.7.2
@@ -19903,6 +19907,7 @@ splusTimeDate: 2.5.2
 splusTimeSeries: 1.5.2
 spm: 1.2.1
 spm12r: 2.8.3
+spm2: 1.1.0
 spmoran: 0.2.2
 spnet: 0.9.1-0
 spnn: 1.2.1
@@ -20080,7 +20085,7 @@ statgenHTP: 1.0.5
 statgenIBD: 1.0.1
 statgenSTA: 1.0.8
 stationaRy: 0.5.1
-stationery: 0.98.30
+stationery: '1.0'
 statip: 0.2.3
 statisticalModeling: 0.3.0
 statmod: 1.4.36
@@ -20412,6 +20417,7 @@ swirlify: 0.5.3
 swissMrP: '0.62'
 swissdd: 1.1.4
 swissparl: 0.2.1
+switchboard: '0.1'
 switchcase: 0.1.1
 switchnpreg: 0.8-0
 switchr: 0.14.3
@@ -21766,7 +21772,7 @@ wordgraph: 0.1.0
 wordmatch: '1.0'
 wordnet: 0.1-15
 wordpiece: 1.0.2
-wordpiece.data: 1.0.1
+wordpiece.data: 1.0.2
 wordpredictor: 0.0.2
 wordpressr: 0.2.3
 words: 1.0.1
