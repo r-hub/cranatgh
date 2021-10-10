@@ -355,7 +355,7 @@ BEST: 0.5.3
 BESTree: 0.5.2
 BET: 0.4.0
 BETS: 0.4.9
-BFS: 0.4.0
+BFS: 0.4.1
 BFpack: 0.3.2
 BGData: 2.3.0
 BGGE: 0.6.5
@@ -875,7 +875,7 @@ CPGLIB: 1.0.1
 CPGchron: '1.1'
 CPHshape: '1.0'
 CPMCGLM: '1.2'
-CPNCoverageAnalysis: 1.0.0
+CPNCoverageAnalysis: 1.1.0
 CPP: 0.1.0
 CPsurv: 1.0.0
 CR: '1.0'
@@ -2310,7 +2310,7 @@ GWI: 1.0.2
 GWLelast: 1.2.2
 GWRM: 2.1.0.4
 GWSDAT: 3.1.0
-GWmodel: 2.2-7
+GWmodel: 2.2-8
 GWnnegPCA: 0.0.4
 GWpcor: 0.1.6
 GWsignif: '1.2'
@@ -3036,7 +3036,7 @@ LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.1.0
 LMMstar: 0.3.2
-LMest: 3.0.1
+LMest: 3.0.2
 LMfilteR: 0.1.3
 LMoFit: 0.1.6
 LN0SCIs: 0.1.5
@@ -4110,7 +4110,7 @@ PAGWAS: '2.0'
 PAMA: 1.2.0
 PAMhm: 0.1.2
 PAMmisc: 1.7.0
-PAMpal: 0.9.14
+PAMpal: 0.14.4
 PANDA: 0.9.9
 PANICr: 1.0.0
 PARSE: 0.1.0
@@ -4317,7 +4317,7 @@ PamBinaries: 1.6.0
 PamGeneMixed: '1.03'
 PanCanVarSel: 0.0.3
 PanJen: '1.6'
-PandemicLP: 1.1.0
+PandemicLP: 1.1.1
 PanelCount: 1.0.9
 PanelMatch: 2.0.0
 Paneldata: '1.0'
@@ -4995,7 +4995,7 @@ RRF: 1.9.1
 RRI: '1.1'
 RRMLRfMC: 0.4.0
 RRNA: '1.0'
-RRPP: 1.0.0
+RRPP: 1.1.0
 RRRR: 1.1.0
 RRTCS: 0.0.4
 RRate: '1.0'
@@ -6397,7 +6397,7 @@ TPEA: 3.1.0
 TPES: 1.0.0
 TPLSr: 1.0.3
 TPMplt: 0.1.3
-TPmsm: 1.2.2
+TPmsm: 1.2.4
 TR8: 0.9.22
 TRADER: 1.2-3
 TRAMPR: 1.0-9
@@ -6607,7 +6607,7 @@ TruncatedNormal: 2.2.2
 Tsphere: '1.0'
 TukeyC: 1.3-3
 TukeyRegion: 0.1.4
-TunePareto: '2.5'
+TunePareto: 2.5.1
 TurtleGraphics: 1.0-8
 Tushare: 0.1.3
 TwitterAutomatedTrading: 0.1.0
@@ -7021,7 +7021,7 @@ ade4: 1.7-18
 ade4TkGUI: 0.3-1
 adea: 1.1.6
 adeba: 1.1.2
-adegenet: 2.1.4
+adegenet: 2.1.5
 adegraphics: 1.0-16
 adehabitat: 1.8.9
 adehabitatHR: 0.4.19
@@ -8339,7 +8339,7 @@ cardidates: 0.4.8
 cardioModel: '1.4'
 care: 1.1.10
 careless: 1.2.1
-caret: 6.0-89
+caret: 6.0-90
 caretEnsemble: 2.0.1
 caretLSF: '1.9'
 caretNWS: '0.25'
@@ -9147,7 +9147,7 @@ covid19.analytics: 2.1.1
 covid19br: 0.1.2
 covid19dbcand: 0.1.1
 covid19france: 0.1.0
-covid19india: 0.1.3
+covid19india: 0.1.4
 covid19italy: 0.3.1
 covid19jp: 0.1.0
 covid19mobility: 0.1.1
@@ -9658,7 +9658,7 @@ degross: 0.9.0
 deisotoper: 0.0.7
 dejaVu: 0.3.0
 delayed: 0.3.0
-deldir: 1.0-2
+deldir: 1.0-5
 delftfews: 0.3-67
 delt: 0.8.2
 deltaPlotR: '1.6'
@@ -10826,7 +10826,7 @@ fUnitRoots: '3042.79'
 fUtilities: '290.76'
 fabCI: '0.2'
 fabMix: '5.0'
-fabisearch: 0.0.2.4
+fabisearch: 0.0.3.6
 fable: 0.3.1
 fable.prophet: 0.1.0
 fabletools: 0.3.1
@@ -11198,7 +11198,7 @@ fmriqa: 0.3.0
 fmrs: 1.0-9
 fmsb: 0.7.1
 fmt: '1.0'
-fmtr: 1.5.2
+fmtr: 1.5.3
 foba: '0.1'
 focusedMDS: 1.3.3
 foghorn: 1.4.2
@@ -11523,7 +11523,7 @@ gammSlice: 2.0-2
 gamma: 1.0.1
 gamreg: '0.3'
 gamsel: 1.8-1
-ganGenerativeData: 1.1.1
+ganGenerativeData: 1.2.0
 ganalytics: 0.10.7
 gaoptim: '1.1'
 gap: 1.2.3-1
@@ -12378,7 +12378,7 @@ gwrr: 0.2-1
 gwsem: 2.1.2
 gym: 0.1.0
 gyriq: 1.0.2
-h2o: 3.32.1.3
+h2o: 3.34.0.3
 h2o4gpu: 0.3.3
 h3jsr: 1.2.2
 h5: '0.9'
@@ -12483,7 +12483,7 @@ heatmap.plus: '1.3'
 heatmap3: 1.1.9
 heatmapFit: 2.0.4
 heatmapFlex: 0.1.2
-heatmaply: 1.2.1
+heatmaply: 1.3.0
 heatwaveR: 0.4.5
 heavy: 0.38.196
 heddlr: 0.6.0
@@ -12544,7 +12544,7 @@ hierSDR: '0.1'
 hierarchicalDS: '3.0'
 hierarchicalSets: 1.0.2
 hierband: '1.0'
-hierbase: 0.0.4
+hierbase: 0.1.0
 hierformR: 0.1.0
 hierfstat: 0.5-7
 hiertest: '1.1'
@@ -12759,7 +12759,7 @@ iC10: '1.5'
 iC10TrainingData: 1.3.1
 iCAMP: 1.3.4
 iCARH: 2.0.2.1
-iCellR: 1.6.4
+iCellR: 1.6.5
 iCiteR: 0.2.1
 iClick: '1.5'
 iCluster: 2.1.0
@@ -13766,7 +13766,7 @@ libbib: 1.6.2
 libcoin: 1.0-9
 libgeos: 3.9.1-1
 libproj: 8.1.0-1
-libr: 1.2.0
+libr: 1.2.1
 librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: '0.7'
@@ -13782,7 +13782,7 @@ liftLRD: 1.0-8
 liftr: 0.9.2
 lifx: 0.2.0
 liger: 2.0.1
-lightgbm: 3.2.1
+lightgbm: 3.3.0
 lightr: 1.6.0
 lightsout: '0.3'
 likeLTD: 6.3.0
@@ -15489,7 +15489,7 @@ nifti.io: 1.0.0
 nightmares: 0.0.2
 nilde: 1.1-4
 nima: 0.6.2
-nimble: 0.12.0
+nimble: 0.12.1
 nimbleCarbon: 0.1.2
 nimbleEcology: 0.4.0
 nimbleSCR: 0.1.2
@@ -15716,7 +15716,7 @@ numKM: 0.2.0
 numOSL: '2.6'
 numbers: 0.8-2
 numbersBR: 0.0.2
-numform: 0.6.4
+numform: 0.7.0
 nutriNetwork: 0.1.1
 nutshell: '2.0'
 nutshell.audioscrobbler: '1.0'
@@ -16405,7 +16405,7 @@ performance: 0.8.0
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 0.6.3
-perm: 1.0-0.0
+perm: 1.0-0.2
 permDep: 1.0.2
 permGPU: '0.15'
 permGS: 0.2.5
@@ -16679,7 +16679,7 @@ plotdap: 0.0.9
 plotfunctions: '1.4'
 plothelper: 0.1.9
 plotluck: 1.1.1
-plotly: 4.9.4.1
+plotly: 4.10.0
 plotlyGeoAssets: 0.0.2
 plotmm: 0.1.0
 plotmo: 3.6.1
@@ -17219,7 +17219,7 @@ pwt10: 10.0-0
 pwt8: 8.1-1
 pwt9: 9.1-0
 pxR: 0.42.4
-pxweb: 0.11.0
+pxweb: 0.12.0
 pyMTurkR: '1.1'
 pycno: '1.2'
 pyinit: 1.1.1
@@ -19564,7 +19564,7 @@ smoothie: 1.0-3
 smoothmest: 0.1-2
 smoothr: 0.2.2
 smoothtail: 2.0.5
-smoots: 1.1.2
+smoots: 1.1.3
 smotefamily: 1.3.1
 smovie: 1.1.3
 smpic: 0.1.0
@@ -19598,7 +19598,7 @@ snpReady: 0.9.6
 snpStatsWriter: 1.5-6
 snpXpert: '1.0'
 snpar: '1.0'
-snplist: 0.18.1
+snplist: 0.18.2
 snpsettest: 0.1.0
 sns: 1.1.2
 sobir: 0.1.2
@@ -19687,7 +19687,7 @@ spGoogle: 0.1-2
 spMC: 0.3.11
 spMaps: 0.4.0
 spNNGP: 0.1.6
-spNetwork: 0.1.1
+spNetwork: 0.2.0
 spTDyn: 2.0.1
 spTest: 0.2.5
 spThin: 0.2.0
@@ -20660,7 +20660,7 @@ textmining: 0.0.1
 textometry: 0.1.4
 textplot: 0.2.0
 textrank: 0.3.1
-textreadr: 1.0.2
+textreadr: 1.2.0
 textrecipes: 0.4.1
 textreg: 0.1.5
 textreuse: 0.1.5
