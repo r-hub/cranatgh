@@ -132,7 +132,7 @@ ASSA: '2.0'
 ASSISTant: 1.4.2
 ASSOCShiny: 0.1.0
 AST: 0.1.0
-ATAforecasting: 0.0.52
+ATAforecasting: 0.0.53
 ATE: 0.2.0
 ATR: 0.1-1
 ATmet: 1.2.1
@@ -183,7 +183,7 @@ AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
 AgroR: 1.2.3
-AgroReg: 1.1.0
+AgroReg: 1.2.0
 AhoCorasickTrie: 0.1.2
 AirSensor: 1.0.8
 Ake: '1.0'
@@ -226,7 +226,7 @@ AntAngioCOOL: '1.2'
 AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 3.1.0
-Anthropometry: '1.15'
+Anthropometry: '1.16'
 AntibodyTiters: 0.1.4
 Aoptbdtvc: 0.0.2
 AovBay: 0.1.0
@@ -451,7 +451,7 @@ BSquare: '1.1'
 BTLLasso: 0.1-11
 BTM: 0.3.6
 BTR: 1.2.4
-BTSPAS: 2021.1.1
+BTSPAS: 2021.11.1
 BTYD: 2.4.2
 BTYDplus: 1.2.0
 BTdecayLasso: 0.1.0
@@ -988,7 +988,7 @@ CharFun: 0.1.0
 ChargeTransport: 1.0.2
 CheckDigit: 0.1-1
 ChemoSpec: 5.3.21
-ChemoSpec2D: 0.4.187
+ChemoSpec2D: 0.5.0
 ChemoSpecUtils: 1.0.0
 ChemometricsWithR: 0.1.9
 ChemometricsWithRData: 0.1.3
@@ -1951,7 +1951,7 @@ FREGAT: 1.1.0
 FREQ: '1.0'
 FRESA.CAD: 3.3.1
 FREddyPro: '1.0'
-FRK: 2.0.0
+FRK: 2.0.1
 FRegSigCom: 0.3.0
 FSA: 0.9.1
 FSAdata: 0.3.8
@@ -3329,7 +3329,7 @@ MGMM: 0.4.0
 MGMS2: 1.0.2
 MGRASTer: '0.9'
 MGSDA: '1.6'
-MHCtools: 1.4.0
+MHCtools: 1.4.1
 MHMM: 1.0.0
 MHTcop: 0.1.1
 MHTdiscrete: 1.0.1
@@ -3592,7 +3592,7 @@ MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
 MediaNews: 0.2.1
 Mediana: 1.0.8
-MedianaDesigner: '0.4'
+MedianaDesigner: '0.5'
 Mega2R: 1.0.8
 Meiosis: 1.0.2
 MendelianRandomization: 0.5.1
@@ -3846,7 +3846,7 @@ NLPutils: 0.0-5
 NLRoot: '1.0'
 NLSdata: '0.9'
 NMADiagT: 0.1.2
-NMAoutlier: 0.1.17
+NMAoutlier: 0.1.18
 NMF: 0.23.0
 NMFN: '2.0'
 NMI: '2.0'
@@ -4790,7 +4790,7 @@ RGrace: 0.6-6
 RGraphM: 0.1.9
 RGraphics: 3.0-2
 RGreenplum: 0.1.2
-RGtk2: 2.20.36
+RGtk2: 2.20.36.1
 RGtk2.10: 2.10.6
 RGtk2DfEdit: '0.5'
 RGtk2Extras: 0.6.1
@@ -6821,7 +6821,7 @@ WeedMap: '0.1'
 WeibullFit: 0.1.0
 WeibullR: '1.1'
 WeightIt: 0.12.0
-WeightSVM: 1.7-5
+WeightSVM: 1.7-9
 Weighted.Desc.Stat: '1.0'
 WeightedCluster: 1.6-0
 WeightedPortTest: '1.0'
@@ -7252,6 +7252,7 @@ apa: 0.3.3
 apaStyle: '0.5'
 apaTables: 2.0.8
 apaText: 0.1.1
+apache.sedona: 1.1.0
 apc: 2.0.0
 apcf: 0.1.6
 apcluster: 1.4.8
@@ -7918,7 +7919,7 @@ binr: '1.1'
 binsegRcpp: 2020.9.3
 binseqtest: 1.0.3
 binsmooth: 0.2.2
-binsreg: '0.6'
+binsreg: '0.7'
 binst: 0.2.1
 bio.infer: 1.3-6
 bio3d: 2.4-2
@@ -8286,7 +8287,7 @@ cachem: 1.0.6
 cacher: '1.1'
 caesar: 1.1.0
 caffsim: 0.2.2
-cairoDevice: 2.28.2
+cairoDevice: 2.28.2.1
 calACS: 2.2.2
 calcUnique: 0.1.2
 calcWOI: 1.0.3
@@ -8351,7 +8352,7 @@ carpenter: 0.2.2
 carrier: 0.1.0
 cartograflow: 1.0.3
 cartogram: 0.2.2
-cartogramR: 1.0-1
+cartogramR: 1.0-3
 cartography: 3.0.1
 cartools: 0.1.0
 carx: 0.7.1
@@ -8724,7 +8725,7 @@ clr: 0.1.2
 clrdag: 0.6.0
 clttools: '1.3'
 clubSandwich: 0.5.3
-clue: 0.3-59
+clue: 0.3-60
 clues: 0.6.2.2
 clusTransition: '1.0'
 cluscov: 1.1.0
@@ -9301,7 +9302,7 @@ csci: 0.9.3
 cshapes: '2.0'
 cslogistic: 0.1-3
 csn: 1.1.3
-csodata: 1.2.0
+csodata: 1.2.1
 csound: 0.1-1
 csp: 0.1.0
 cspec: 0.1.2
@@ -10087,6 +10088,7 @@ dropR: '0.1'
 droptest: 0.1.3
 drord: 1.0.1
 drought: '1.0'
+drpop: 0.0.1
 drsmooth: 1.9.0
 drtmle: 1.1.0
 drugCombo: 1.2.1
@@ -10225,7 +10227,7 @@ easyNCDF: 0.1.0
 easyPSID: 0.1.2
 easyPubMed: '2.13'
 easySVG: 0.1.0
-easySdcTable: 0.9.0
+easySdcTable: 1.0.0
 easyVerification: 0.4.4
 easyalluvial: 0.3.0
 easyanova: '7.0'
@@ -10527,7 +10529,7 @@ eph: 0.4.0
 epi2loc: 1.0-1
 epiDisplay: 3.5.0.1
 epiGWAS: 1.0.2
-epiR: 2.0.36
+epiR: 2.0.38
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.9.2.8
@@ -10699,7 +10701,7 @@ exPrior: 1.0.1
 exact2x2: 1.6.5
 exactDistr: 0.2-5
 exactLoglinTest: 1.4.2
-exactRankTests: 0.8-32
+exactRankTests: 0.8-34
 exactci: 1.4-2
 exactextractr: 0.7.0
 exactmaxsel: '1.0'
@@ -10713,6 +10715,7 @@ excel.link: 0.9.9
 excelR: 0.4.0
 excelstrippr: 0.1.2
 excerptr: 2.0.1
+excessmort: 0.6.1
 excursions: 2.5.2
 exdex: 1.0.1
 exdqlm: 0.1.2
@@ -10852,6 +10855,7 @@ factorstochvol: 0.10.2
 factory: 0.1.0
 factset.analyticsapi.engines: 3.0.1
 factset.protobuf.stach: 1.0.2
+factset.protobuf.stach.v2: 1.0.0
 factualR: '0.5'
 fad: 0.3-3
 fail: '1.3'
@@ -11087,6 +11091,7 @@ finiteruinprob: '0.6'
 finity: 0.1.4.1
 finreportr: 1.0.2
 fipe: 0.0.1
+fipio: 1.0.0
 fipp: 1.0.0
 firebase: 0.2.0
 firebehavioR: 0.1.2
@@ -11528,7 +11533,7 @@ ganalytics: 0.10.7
 gaoptim: '1.1'
 gap: 1.2.3-1
 gap.datasets: 0.0.4
-gapclosing: 1.0.1
+gapclosing: 1.0.2
 gapfill: 0.9.6-1
 gapmap: 0.1.0
 gapminder: 0.3.0
@@ -12189,7 +12194,7 @@ gpuR: 2.0.3
 gputools: '1.1'
 gqlr: 0.0.2
 gquad: 2.1-1
-grImport: 0.9-3
+grImport: 0.9-4
 grImport2: 0.2-0
 grabsampling: 1.0.0
 gradDescent: '3.0'
@@ -12317,7 +12322,7 @@ gsignal: 0.3-2
 gsisdecoder: 0.0.1
 gskat: '1.0'
 gsl: 2.1-7
-gslnls: 1.0.0
+gslnls: 1.0.1
 gsloid: 0.1.0
 gsmaRt: '1.0'
 gsmoothr: 0.1.7
@@ -13333,8 +13338,8 @@ jrvFinance: 1.4.2
 js: '1.2'
 jsTree: '1.2'
 jsTreeR: 1.4.0
-jskm: 0.4.2
-jsmodule: 1.1.9
+jskm: 0.4.3
+jsmodule: 1.2.0
 json64: 0.1.3
 jsonStrings: 1.0.0
 jsonify: 1.2.1
@@ -14119,7 +14124,7 @@ madgrad: 0.1.0
 maditr: 0.8.2
 madness: 0.2.7
 madr: 1.0.0
-madrat: 2.3.1
+madrat: 2.3.2
 mads: 0.1.6
 madsim: 1.2.1
 mafs: 0.0.3
@@ -14463,7 +14468,7 @@ met: 0.1.0
 metR: 0.11.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
-meta: 4.19-2
+meta: 5.0-0
 meta4diag: 2.0.8
 metaBLUE: 1.0.0
 metaBMA: 0.6.7
@@ -15208,7 +15213,7 @@ multitaper: 1.0-15
 multiv: 1.1-6
 multivar: 0.0.2
 multivariance: 2.4.1
-multivator: 1.1-9
+multivator: 1.1-10
 multiverse: 0.5.0
 multiviewtest: 2.0.0
 multiwave: '1.4'
@@ -15482,6 +15487,7 @@ nhm: 0.1.0
 nhs.predict: 1.4.0
 nhsnumber: 0.1.1
 nhstplot: 1.1.0
+niaidMI: 1.0.0
 nice: 0.4-1
 nicheROVER: 1.1.0
 nichevol: 0.1.19
@@ -15856,7 +15862,7 @@ ooplah: 0.1.0
 oosp: 0.3.3
 opalr: 3.0.1
 opart: 2019.1.0
-opdisDownsampling: 0.6.0
+opdisDownsampling: 0.6.1
 opefimor: '1.2'
 openCR: 2.1.0
 openEBGM: 0.8.3
@@ -16505,7 +16511,7 @@ phonics: 1.3.10
 phosphoricons: 0.1.1
 photobiology: 0.10.7
 photobiologyFilters: 0.5.2
-photobiologyInOut: 0.4.22-1
+photobiologyInOut: 0.4.23
 photobiologyLEDs: 0.4.3-1
 photobiologyLamps: 0.4.3
 photobiologyPlants: 0.4.2
@@ -16591,7 +16597,7 @@ pivmet: 0.4.0
 pivot: 18.4.17
 pivotaltrackR: 0.2.0
 pivottabler: 1.5.3
-piwikproR: 0.2.0
+piwikproR: 0.3.1
 pixarfilms: 0.2.1
 pixelpuzzle: 1.0.0
 pixels: 0.1.1
@@ -17177,7 +17183,7 @@ ptw: 1.9-15
 ptwikiwords: 0.0.3
 ptycho: 1.1-4
 pubchunks: 0.3.0
-pubh: 1.1.20
+pubh: 1.2.5
 publipha: 0.1.1
 pubmed.mineR: 1.0.18
 pubmedR: 0.0.3
@@ -17671,7 +17677,7 @@ rasterDT: 0.3.1
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.2
 rasterList: 0.5.8
-rasterVis: 0.50.3
+rasterVis: 0.51.0
 rasterdiv: 0.2-3
 rasterize: '0.1'
 rasterly: 0.2.0
@@ -17715,7 +17721,7 @@ rbgm: 0.1.0
 rbhl: 0.9.2
 rbi: 0.10.3
 rbi.helpers: 0.3.2
-rbibutils: 2.2.3
+rbibutils: 2.2.4
 rbin: 0.2.0
 rbioacc: 1.0.2
 rbioapi: 0.7.4
@@ -18219,7 +18225,7 @@ riskCommunicator: 0.1.0
 riskParityPortfolio: 0.2.2
 riskPredictClustData: 0.2.6
 riskR: '1.1'
-riskRegression: 2020.12.08
+riskRegression: 2021.10.10
 riskSimul: '0.1'
 riskclustr: '0.3'
 riskmetric: 0.1.1
@@ -18651,7 +18657,7 @@ rtist: 1.0.0
 rtk: 0.2.6.1
 rtkore: 1.5.5
 rtkpp: 0.9.2
-rtmpt: 0.2-1
+rtmpt: 0.2-2
 rtodoist: 0.1.0
 rtop: 0.5-14
 rtrek: 0.3.3
@@ -19032,7 +19038,7 @@ seg: 0.5-7
 segMGarch: '1.2'
 segRDA: 1.0.2
 segclust: '0.76'
-segclust2d: 0.2.0
+segclust2d: 0.3.0
 segmag: 1.2.4
 segmenTier: 0.1.2
 segmented: 1.3-4
@@ -19074,7 +19080,7 @@ semisupKernelPCA: 0.1.5
 semmcmc: 0.0.6
 semnar: 0.7.1
 semnova: 0.1-6
-semptools: 0.2.9.2
+semptools: 0.2.9.3
 semsfa: '1.1'
 semtree: 0.9.17
 semver: 0.2.0
@@ -19148,7 +19154,7 @@ sessioninfo: 1.1.1
 set: '1.2'
 set6: 0.2.3
 setRNG: 2013.9-1
-sets: 1.0-18
+sets: 1.0-19
 setter: 0.0-1
 settings: 0.2.7
 setwidth: 1.0-4
@@ -19160,7 +19166,7 @@ sfaR: 0.1.0
 sfadv: 1.0.1
 sfarrow: 0.4.0
 sfc: 0.1.0
-sfcr: 0.2.0
+sfcr: 0.2.1
 sfdct: 0.1.0
 sfheaders: 0.4.0
 sfinx: 1.7.99
@@ -19177,7 +19183,7 @@ sgee: 0.6-0
 sgeostat: 1.0-27
 sglOptim: 1.3.8
 sglasso: 1.2.4
-sglg: 0.1.10
+sglg: 0.2.0
 sglr: '0.7'
 sgmcmc: 0.2.5
 sgmodel: 0.1.1
@@ -20026,7 +20032,7 @@ stab: 0.1.9
 stabiliser: 0.1.0
 stability: 0.5.0
 stable: 1.1.4
-stableGR: '1.0'
+stableGR: '1.1'
 stabledist: 0.7-1
 stablelearner: 0.1-3
 stablespec: 0.3.0
@@ -20402,7 +20408,7 @@ swamp: 1.5.1
 swapClass: '1.0'
 swatches: 0.5.0
 swdft: 1.0.0
-swdpwr: '1.5'
+swdpwr: '1.6'
 sweSCB: '0.3'
 sweep: 0.2.3
 sweidnumbr: 1.4.2
@@ -20614,7 +20620,7 @@ tergmLite: 2.5.0
 term: 0.3.3
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.4-9
+terra: 1.4-11
 terrainmeshr: 0.1.0
 terrainr: 0.5.0
 tesseract: 4.1.2
@@ -21080,7 +21086,7 @@ truncnorm: 1.0-8
 truncreg: 0.2-5
 trundler: 0.1.19
 trust: 0.1-8
-trustOptim: 0.8.7.2
+trustOptim: 0.8.7.3
 trustedtimestamping: 0.2.6
 truthiness: 1.2.5
 tryCatchLog: 1.2.4
