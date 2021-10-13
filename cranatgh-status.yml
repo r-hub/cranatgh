@@ -121,7 +121,7 @@ ARTIVA: '1.2'
 ARTP: 2.0.5
 ARTP2: 0.9.45
 ARTofR: 0.2.3
-ARTool: 0.11.0
+ARTool: 0.11.1
 ARpLMEC: '2.1'
 ASGS.foyer: 0.3.1
 ASICS: 1.0.1
@@ -351,7 +351,7 @@ BEDASSLE: '1.5'
 BEDMatrix: 2.0.3
 BENMMI: 4.3-7
 BEQI2: 2.0-0
-BEST: 0.5.3
+BEST: 0.5.4
 BESTree: 0.5.2
 BET: 0.4.0
 BETS: 0.4.9
@@ -2572,7 +2572,7 @@ HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
 HeckmanEM: 0.1.2
 HellCor: '1.3'
-HelpersMG: 4.7-0
+HelpersMG: '4.8'
 HeritSeq: 1.0.2
 HeterFunctionalData: 0.1.0
 HeteroGGM: 0.1.0
@@ -2957,6 +2957,7 @@ KernelKnn: 1.1.3
 Kernelheaping: 2.2.8
 Keyboard: 0.1.0
 KeyboardSimulator: 2.6.0
+KingCountyHouses: 0.1.0
 Kmisc: 0.5.0
 KnapsackSampling: 0.1.0
 KneeArrower: 1.0.0
@@ -4573,7 +4574,7 @@ QSARdata: '1.3'
 QT: '1.3'
 QTL.gCIMapping: 3.3.1
 QTL.gCIMapping.GUI: 2.1.1
-QTLEMM: 1.0.0
+QTLEMM: 1.1.0
 QTLNetworkR: 0.1-7
 QTLRel: '1.6'
 QTOCen: 0.1.1
@@ -6220,7 +6221,7 @@ StanHeaders: 2.21.0-7
 StanMoMo: 1.0.0
 StandardizeText: '1.0'
 Stat2Data: 2.0.0
-StatCharrms: 0.90.96
+StatCharrms: 0.90.9
 StatDA: 1.7.4
 StatDataML: 1.0-26
 StatFingerprints: '2.0'
@@ -8928,7 +8929,7 @@ compactr: '0.1'
 comparator: 0.1.1
 compare: 0.2-6
 compareC: 1.3.1
-compareDF: 2.3.1
+compareDF: 2.3.2
 compareGroups: 4.5.1
 compareODM: '1.2'
 comparer: 0.2.2
@@ -11645,7 +11646,7 @@ genalg: 0.2.0
 genasis: '1.0'
 gencve: '0.3'
 gendata: '1.1'
-gender: 0.5.4
+gender: 0.6.0
 genderBR: 1.1.2
 genderNames: 0.1.0
 genderizeR: 2.1.1
@@ -12325,7 +12326,7 @@ gsignal: 0.3-2
 gsisdecoder: 0.0.1
 gskat: '1.0'
 gsl: 2.1-7
-gslnls: 1.0.1
+gslnls: 1.0.2
 gsloid: 0.1.0
 gsmaRt: '1.0'
 gsmoothr: 0.1.7
@@ -12539,7 +12540,7 @@ hgutils: 0.2.7
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
-hhsmm: 0.1.3
+hhsmm: 0.2.0
 hht: 2.1.4
 hiPOD: '1.0'
 hiddenf: '2.0'
@@ -12728,6 +12729,7 @@ hydroTSM: 0.6-0
 hydroToolkit: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.9.3
+hydropeak: 0.1.0
 hydrosanity: 0.8.76
 hydroscoper: 1.4.1
 hydrostats: 0.2.8
@@ -12906,6 +12908,7 @@ ifultools: 2.0-23
 ig: '1.2'
 ig.vancouver.2014.topcolour: 0.1.2.0
 igate: 0.3.3
+igcop: 1.0.1
 iglu: 3.1.0
 igoR: 0.1.2
 igraph: 1.2.6
@@ -13797,7 +13800,7 @@ likeLTD: 6.3.0
 likelihood: '1.7'
 likelihoodAsy: '0.51'
 likelihoodExplore: 0.1.0
-likelihoodR: 1.0.4
+likelihoodR: 1.0.5
 likert: 1.3.5
 lilikoi: 2.0.4
 lillies: 0.2.9
@@ -13870,6 +13873,7 @@ llogistic: 1.0.3
 lm.beta: 1.5-1
 lm.br: 2.9.3
 lmDiallel: 0.9.4
+lmForc: 0.0.1
 lmPerm: 2.1.0
 lmQCM: 0.2.3
 lmSubsets: 0.5-2
@@ -15219,7 +15223,7 @@ multivar: 0.0.2
 multivariance: 2.4.1
 multivator: 1.1-10
 multiverse: 0.5.0
-multiviewtest: 2.0.0
+multiviewtest: 2.0.1
 multiwave: '1.4'
 multiway: 1.0-6
 multiwayvcov: 1.2.3
@@ -15423,7 +15427,7 @@ netgsa: 4.0.1
 netgwas: '1.13'
 netie: '1.0'
 netjack: 1.2.0
-netmeta: 1.5-0
+netmeta: 2.0-0
 netmhc2pan: 1.3.1
 netmodels: '0.2'
 netplot: 0.1-1
@@ -15921,7 +15925,7 @@ optbin: '1.1'
 optextras: 2019-12.4
 optiRum: 0.40.1
 optiSel: 2.0.5
-optiSolve: 0.1.2
+optiSolve: '1.0'
 opticskxi: '0.1'
 opticut: 0.1-2
 optifunset: '1.0'
@@ -16427,7 +16431,7 @@ permubiome: 1.3.1
 permuco: 1.1.0
 permutations: 1.0-9
 permute: 0.9-5
-permutes: 2.1.1
+permutes: '2.2'
 perry: 0.3.0
 perryExamples: 0.1.0
 persiandictionary: '1.0'
@@ -16998,6 +17002,7 @@ prettyunits: 1.1.1
 prevR: 3.4.1
 prevalence: 0.4.0
 prevederer: 0.0.1
+previsionio: 11.3.0
 prevtoinc: 0.12.0
 prewas: 1.1.1
 priceR: 0.1.6
@@ -17214,6 +17219,7 @@ pvaluefunctions: 1.6.1
 pvar: 2.2.5
 pvclass: '1.4'
 pvclust: 2.2-0
+pvcurveanalysis: 1.0.0
 pvldcurve: 1.2.6
 pvrank: '1.1'
 pvsR: '0.3'
@@ -18246,7 +18252,7 @@ rivervis: 0.46.0
 rivr: 1.2-3
 rjacobi: 0.9.2
 rjade: 0.1.1
-rjags: 4-11
+rjags: 4-12
 rjazz: 0.1.7
 rjdmarkdown: 0.2.0
 rjdqa: 0.1.1
@@ -18364,7 +18370,7 @@ robeth: 2.7-6
 robets: '1.4'
 robfilter: 4.1.2
 robin: 1.0.3
-robis: 2.8.1
+robis: 2.8.2
 roblm: '0.6'
 robmed: 0.9.0
 robmixglm: 1.2-2
@@ -18381,7 +18387,7 @@ robust: 0.5-0.0
 robustBLME: 0.1.3
 robustDA: '1.2'
 robustETM: '1.0'
-robustHD: 0.7.0
+robustHD: 0.7.1
 robustMVMR: 0.3.1
 robustSingleCell: 0.1.1
 robustX: 1.2-5
@@ -18830,7 +18836,7 @@ sanon: '1.6'
 santaR: '1.0'
 santoku: 0.5.0
 sanzo: 0.1.0
-saotd: 0.2.0
+saotd: 0.3.0
 sapa: 2.0-3
 sapevom: 0.2.0
 sapfluxnetr: 0.1.2
@@ -19465,7 +19471,7 @@ sistec: 0.2.0
 sisus: 3.9-13
 sitar: 1.2.0
 siteymlgen: 1.0.0
-sitmo: 2.0.1
+sitmo: 2.0.2
 sitools: '1.4'
 sitree: 0.1-10
 sitreeE: 0.0-7
@@ -20295,7 +20301,7 @@ superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-7
 support: 0.1.5
-support.BWS: 0.4-3
+support.BWS: 0.4-4
 support.BWS2: 0.3-0
 support.BWS3: 0.2-0
 support.CEs: 0.5-0
@@ -20476,7 +20482,7 @@ sysid: 1.0.4
 syskern: R2000.6-1
 syslognet: 0.1.2.1
 systemfit: 1.1-24
-systemfonts: 1.0.2
+systemfonts: 1.0.3
 systemicrisk: 0.4.2
 syt: 0.2.0
 syuzhet: 1.0.6
@@ -20655,7 +20661,7 @@ text2map: 0.1.0
 text2sdg: 0.1.0
 text2speech: 0.2.13
 text2vec: '0.6'
-textTinyR: 1.1.4
+textTinyR: 1.1.5
 textTools: 0.1.0
 textcat: 1.0-7
 textclean: 0.9.3
@@ -20677,7 +20683,7 @@ textrecipes: 0.4.1
 textreg: 0.1.5
 textreuse: 0.1.5
 textshape: 1.7.3
-textshaping: 0.3.5
+textshaping: 0.3.6
 textstem: 0.1.4
 textutils: 0.2-1
 tfCox: 0.1.0
@@ -20838,7 +20844,7 @@ timelineR: 1.0.0
 timelineS: 0.1.1
 timeordered: 0.9.9
 timeperiodsR: 0.6.2
-timereg: 2.0.0
+timereg: 2.0.1
 timesboot: '1.0'
 timeseriesdb: 0.4.1
 timeslab: 1.0-1
