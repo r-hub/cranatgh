@@ -553,7 +553,7 @@ BayesTwin: '1.0'
 BayesValidate: '0.0'
 BayesVarSel: 2.0.1
 BayesX: 0.3-1
-BayesXsrc: 3.0-1
+BayesXsrc: 3.0-1.1
 BayesianAnimalTracker: '1.2'
 BayesianFROC: 0.4.0
 BayesianGLasso: 0.2.0
@@ -1141,7 +1141,7 @@ ConvergenceClubs: 2.2.1
 ConvergenceConcepts: 1.2.2
 Convolutioner: 0.1.0
 CoopGame: 0.2.2
-CoordinateCleaner: 2.0-18
+CoordinateCleaner: 2.0-9
 CopCTS: 1.0.0
 CopernicusDEM: 1.0.1
 Copula.Markov: '2.8'
@@ -4218,7 +4218,7 @@ PMCMR: '4.4'
 PMCMRplus: 1.9.2
 PML: '1.2'
 PMmisc: 0.1.2
-PMwR: 0.16-1
+PMwR: 0.17-0
 PNADcIBGE: 0.6.5
 PNSIBGE: 0.1.5
 PNWColors: 0.1.0
@@ -4408,6 +4408,7 @@ PlanetNICFI: 1.0.3
 PlasmaMutationDetector: 1.7.2
 Plasmidprofiler: 0.1.6
 Plasmode: 0.1.0
+Platypus: 3.2.3
 PlayerRatings: 1.1-0
 PlotContour: 0.1.0
 PlotPrjNetworks: 1.0.0
@@ -4535,6 +4536,7 @@ Q2q: 0.1.0
 Q7: 0.1.0
 QAIG: 0.1.7
 QBAsyDist: 0.1.2
+QBMS: '0.6'
 QCA: '3.13'
 QCA3: 0.0-8
 QCAGUI: '2.5'
@@ -4617,7 +4619,7 @@ R1magic: 0.3.2
 R2019nCoV: 0.1.0
 R2Addhaz: 0.1.0
 R2BEAT: 1.0.3
-R2BayesX: 1.1-1
+R2BayesX: 1.1-1.1
 R2Cuba: 1.1-0
 R2DGC: 1.0.3
 R2DT: '0.2'
@@ -5197,7 +5199,7 @@ Rcmdr: 2.7-1
 Rcmdr.HH: 1.8-0
 RcmdrMisc: 2.7-1
 RcmdrPlugin.BCA: 0.9-8
-RcmdrPlugin.BWS1: 0.1-4
+RcmdrPlugin.BWS1: 0.1-5
 RcmdrPlugin.BiclustGUI: 1.1.3
 RcmdrPlugin.DCCV: 0.1-1
 RcmdrPlugin.DCE: 0.1-2
@@ -5327,7 +5329,7 @@ Rcssplot: 1.0.0
 Rcurvep: 1.2.0
 Rd: 0.2.0
 Rd2md: 0.0.5
-Rd2roxygen: '1.11'
+Rd2roxygen: '1.12'
 Rdbi: 0.1-2
 Rdbi.PgSQL: 0.1-2
 Rdca: 0.1.0
@@ -9266,7 +9268,7 @@ crosshybDetector: '1.0'
 crossmap: 0.3.0
 crossmatch: 1.3-1
 crossrun: 0.1.0
-crosstable: 0.2.1
+crosstable: 0.2.2
 crosstalk: 1.1.1
 crosstalkr: 0.7.0
 crossval: 1.0.4
@@ -11967,7 +11969,7 @@ ggspatial: 1.1.5
 ggspectra: 0.3.7
 ggstance: 0.3.5
 ggstar: 1.0.2
-ggstatsplot: 0.8.0
+ggstatsplot: 0.9.0
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
@@ -13360,7 +13362,7 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.1.0
 jsr223: 0.3.4
-jstable: 1.0.6
+jstable: 1.0.7
 jstor: 0.3.9
 jtGWAS: '1.5'
 jti: 0.8.0
@@ -13876,7 +13878,7 @@ lle: '1.1'
 lllcrc: '1.2'
 llogistic: 1.0.3
 lm.beta: 1.5-1
-lm.br: 2.9.3
+lm.br: 2.9.4
 lmDiallel: 0.9.4
 lmForc: 0.0.1
 lmPerm: 2.1.0
@@ -13961,7 +13963,7 @@ logconcens: 0.17-0
 logcondens: 2.1.6
 logcondens.mode: 1.0.1
 logcondiscr: 1.0.6
-logger: 0.2.1
+logger: 0.2.2
 logging: 0.10-108
 loggit: 2.1.1
 loggle: '1.0'
@@ -15676,6 +15678,7 @@ nparsurv: 0.1.0
 npbr: '1.6'
 npcopTest: '1.03'
 npcp: 0.2-2
+npcs: 0.1.0
 npcure: 0.1-5
 npde: '3.1'
 nph: '2.0'
@@ -16129,7 +16132,7 @@ pairheatmap: 1.0.1
 pairsD3: 0.1.0
 pairwise: 0.5.0-2
 pairwiseCI: 0.1-27
-pairwiseComparisons: 3.1.6
+pairwiseComparisons: 3.2.0
 pak: 0.1.2.1
 palaeoSig: 2.0-3
 palasso: 0.0.8
@@ -19654,7 +19657,7 @@ soilprofile: '1.0'
 soiltexture: 1.5.1
 soilwater: 1.0.5
 sokoban: 0.1.0
-solaR: '0.45'
+solaR: '0.46'
 solarPos: '1.0'
 solarius: 0.3.0.2
 solartime: 0.0.2
@@ -20127,7 +20130,7 @@ statpsych: 1.0.0
 statquotes: 0.2.2
 stats19: 1.4.3
 statsDK: 0.1.1
-statsExpressions: 1.1.0
+statsExpressions: 1.2.0
 statsearchanalyticsr: 0.1.4
 statsgrokse: 0.1.4
 statsguRu: 0.1.1
@@ -20554,7 +20557,7 @@ tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
 tarchetypes: 0.3.1
-targeted: 0.1.1
+targeted: '0.1'
 targets: 0.8.0
 tashu: 0.1.1
 taskPR: '0.34'
@@ -20807,7 +20810,7 @@ tidyqwi: 0.1.2
 tidyr: 1.1.4
 tidyrules: 0.1.5
 tidyselect: 1.1.1
-tidyseurat: 0.2.7
+tidyseurat: 0.3.0
 tidysq: 1.1.2-1
 tidystats: '0.5'
 tidystopwords: 0.9.0
@@ -21554,6 +21557,7 @@ visualizationTools: '0.2'
 visualize: 4.4.0
 visualpred: 0.1.0
 visvow: 1.3.3
+visxhclust: 1.0.0
 vita: 1.0.0
 vitae: 0.4.2
 vitality: '1.3'
@@ -21789,7 +21793,7 @@ wmm: 1.1.1
 wmtsa: 2.0-3
 wmwpow: 0.1.3
 wnl: 0.6.3
-wnominate: 1.2.5
+wnominate: '1.2'
 woe: '0.2'
 woeBinning: 0.1.6
 woeR: 0.2.1
