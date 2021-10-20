@@ -132,7 +132,7 @@ ASSA: '2.0'
 ASSISTant: 1.4.2
 ASSOCShiny: 0.1.0
 AST: 0.1.0
-ATAforecasting: 0.0.53
+ATAforecasting: 0.0.54
 ATE: 0.2.0
 ATR: 0.1-1
 ATmet: 1.2.1
@@ -801,7 +801,7 @@ CIDnetworks: 0.8.1
 CIEE: 0.1.1
 CIFsmry: 1.0.1.1
 CIM: 1.0.0
-CIMTx: 0.3.0
+CIMTx: 1.0.0
 CINID: 1.3-0
 CINNA: 1.1.54
 CINOEDV: '2.0'
@@ -829,7 +829,7 @@ CMPControl: '1.0'
 CMShiny: 0.1.0
 CMapViz: 0.1.0
 CMatching: 2.3.0
-CMplot: 3.6.2
+CMplot: 3.7.0
 CNAIM: 1.0.1
 CNLTreg: 0.1-2
 CNLTtsa: 0.1-2
@@ -1281,7 +1281,7 @@ DDoutlier: 0.1.0
 DEA: 0.1-2
 DECIDE: '1.2'
 DEEPR: '0.1'
-DEEVD: 1.2.1
+DEEVD: 1.2.2
 DELTD: 2.6.7
 DEMEtics: 0.8-7
 DEMOVA: '1.0'
@@ -2848,7 +2848,7 @@ IsoCheck: 0.1.0
 IsoCorr: '1.0'
 IsoGene: 1.0-24
 IsoSpecR: 2.1.3
-IsoplotR: '4.1'
+IsoplotR: '4.2'
 IsoplotRgui: '4.1'
 IsoriX: 0.8.2
 IsotopeR: 0.5.4
@@ -3691,6 +3691,7 @@ MixedPsy: 1.0.0
 MixedTS: 1.0.4
 MixfMRI: 0.1-1
 MixtureInf: '1.1'
+MixtureMissing: 1.0.0
 MixtureRegLTIC: 1.0.0
 MlBayesOpt: 0.3.4
 MmgraphR: '0.3'
@@ -3722,7 +3723,7 @@ MonoPhy: '1.3'
 MonoPoly: 0.3-10
 Monte.Carlo.se: 0.1.0
 MonteCarlo: 1.0.6
-MonteCarloSEM: 0.0.2
+MonteCarloSEM: 0.0.3
 MoonFinder: 1.0.3
 Morpho: '2.9'
 MorseGen: '1.2'
@@ -3853,7 +3854,7 @@ NMF: 0.23.0
 NMFN: '2.0'
 NMI: '2.0'
 NMMAPSlite: '0.3'
-NMOF: 2.4-1
+NMOF: 2.5-0
 NMRS: '1.0'
 NMVANOVA: 1.1.0
 NMdata: 0.0.9
@@ -5848,7 +5849,7 @@ SPMS: '2.0'
 SPODT: 0.9-1
 SPORTSCausal: '1.0'
 SPOT: 2.5.8
-SPOTMisc: 1.2.11
+SPOTMisc: 1.2.18
 SPPcomb: '0.1'
 SPREDA: '1.1'
 SPRT: '1.0'
@@ -5984,6 +5985,7 @@ SemiParBIVProbit: '3.8'
 SemiParSampleSel: '1.5'
 SemiSupervised: '1.0'
 SenSrivastava: 2015.6.25
+SenTinMixt: 1.0.0
 SensMap: '0.6'
 SensMixed: 2.1-0
 SensitivityCaseControl: '2.1'
@@ -6407,7 +6409,7 @@ TR8: 0.9.22
 TRADER: 1.2-3
 TRAMPR: 1.0-9
 TRD: '1.1'
-TRES: 1.1.4
+TRES: 1.1.5
 TREXr: 1.0.0
 TRIANG: '1.2'
 TRIANGG: '1.0'
@@ -6819,7 +6821,7 @@ WaveletCo: '1.0'
 WaveletComp: '1.1'
 WaveletGARCH: 0.1.1
 WaverR: '1.0'
-WeMix: 3.1.8
+WeMix: 3.1.9
 WebDevelopR: '1.0'
 WebGestaltR: 0.4.4
 WebPower: '0.6'
@@ -7463,7 +7465,7 @@ augSIMEX: 3.7.4
 augmentedRCBD: 0.1.5
 auk: 0.5.0
 aurelius: 0.8.4
-ausplotsR: 1.2.6
+ausplotsR: '1.2'
 auteur: 0.12.1010
 auth0: 0.2.1
 auto.pca: '0.3'
@@ -7964,7 +7966,7 @@ biosurvey: 0.1.1
 biotic: 0.1.2
 biotools: '4.2'
 bipartite: '2.16'
-bipartiteD3: 0.2.0
+bipartiteD3: 0.3.0
 biplotbootGUI: '1.2'
 birankr: 1.0.1
 birch: '1.2'
@@ -8314,7 +8316,7 @@ camel: 0.2.0
 campfin: 1.0.8
 camsRad: 0.3.0
 camtrapR: 2.0.3
-cancensus: 0.4.4
+cancensus: 0.4.5
 cancerGI: 1.0.0
 cancerTiming: 3.1.8
 candisc: 0.8-6
@@ -8378,6 +8380,7 @@ cat.dt: 0.3.1
 cat2cat: 0.2.1
 catIrt: 0.5-0
 catR: '3.16'
+catSplit: 0.1.0
 catSurv: 1.4.0
 catalog: 0.1.0
 catch: 1.0.1
@@ -13562,7 +13565,7 @@ kzs: '1.4'
 l0ara: 0.1.6
 l1ball: 0.1.0
 l1kdeconv: 1.2.0
-l1spectral: 0.99.2
+l1spectral: 0.99.4
 l2boost: 1.0.1
 laGP: 1.5-5
 labdsv: 2.0-1
@@ -13789,7 +13792,7 @@ librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: '0.7'
 libstableR: 1.0.2
-lidR: 3.2.1
+lidR: 3.2.2
 lidaRtRee: 3.1.0
 lifecontingencies: 1.3.7
 lifecourse: '2.0'
@@ -14466,7 +14469,7 @@ memoiR: 1.1-2
 memoise: 2.0.0
 memor: 0.2.3
 memoria: 1.0.0
-memuse: 4.1-0
+memuse: 4.2-1
 mephas: 1.0.0
 merDeriv: 0.2-3
 merTools: 0.5.2
@@ -17129,6 +17132,7 @@ provSummarizeR: 1.4.2
 provTraceR: '1.0'
 provViz: 1.0.7
 provenance: '3.3'
+proxirr: '0.1'
 proxy: 0.4-26
 proxyC: 0.2.1
 prozor: 0.2.11
@@ -17250,7 +17254,7 @@ pxR: 0.42.4
 pxweb: 0.12.0
 pyMTurkR: '1.1'
 pycno: '1.2'
-pyinit: 1.1.1
+pyinit: 1.1.2
 pylintR: 0.1.0
 pyramid: '1.5'
 pysd2r: 0.1.0
@@ -18350,7 +18354,7 @@ rmt: '1.0'
 rmumps: 5.2.1-14
 rmutil: 1.1.5
 rmweather: 0.1.51
-rmytarget: 2.3.1
+rmytarget: 2.4.0
 rnaseqWrapper: '1.0'
 rnassqs: 0.5.0
 rnaturalearth: 0.1.0
@@ -18425,14 +18429,14 @@ roccv: '1.2'
 rock: 0.4.3
 rockchalk: 1.8.144
 rockr: 1.0.0
-roclang: 0.1.0
+roclang: 0.1.2
 rococo: 1.1.7
 rocplus: 1.0-0
 rocsvm.path: 0.1.0
 rodd: 0.2-1
 rodeo: 0.7.7
 rodham: 0.1.1
-roger: 0.99-0
+roger: 0.99-1
 roistats: 0.1.1
 rolasized: '1.0'
 roll: 1.1.6
@@ -18502,7 +18506,7 @@ rpatrec: 1.0.1
 rpca: 0.2.3
 rpcdsearch: '1.0'
 rpdo: 0.3.1
-rpf: 1.0.9
+rpf: 1.0.11
 rpg: '1.6'
 rpgm: 1.1.2
 rphast: '1.6'
@@ -18605,7 +18609,7 @@ rsf: 0.2.2
 rsgcc: '1.0'
 rsggm: '0.3'
 rsig: '1.0'
-rsimsum: 0.10.1
+rsimsum: 0.11.0
 rsinaica: 0.6.1
 rskey: 0.4.4
 rsleep: 1.0.3
@@ -19117,7 +19121,7 @@ sense: 1.0.0
 sensemakr: 0.1.4
 sensiPhy: 0.8.5
 sensibo.sky: 1.0.0
-sensitivity: 1.26.1
+sensitivity: 1.27.0
 sensitivity2x2xk: '1.01'
 sensitivityCalibration: 0.0.1
 sensitivityPStrat: 1.0-6
@@ -19982,7 +19986,7 @@ spsmooth: 1.1-3
 spssDDI: '0.1'
 spsur: 1.0.1.9
 spsurv: 1.0.0
-spsurvey: 5.0.0
+spsurvey: 5.0.1
 spt: 2.5.1
 sptemExp: 0.1.4
 sptests: 0.1-4
@@ -20307,6 +20311,7 @@ supcluster: '1.0'
 superMDS: 1.0.2
 superb: 0.9.7.6
 superbiclust: '1.2'
+supercompress: '1.0'
 superdiag: '2.0'
 superheat: 0.1.0
 superml: 0.5.3
