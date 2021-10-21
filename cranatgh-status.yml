@@ -91,7 +91,7 @@ ANOVAreplication: 1.1.5
 AOV1R: 0.1.0
 AOfamilies: '1.0'
 APAtree: 1.0.1
-APCI: 1.0.2
+APCI: 1.0.3
 APCanalysis: '1.0'
 APFr: 1.0.2
 APIS: 1.0.1
@@ -1265,7 +1265,7 @@ DCLEAR: 1.0.8
 DCM: 0.1.1
 DCODE: '1.0'
 DCPO: 0.5.3
-DCSmooth: 1.0.2
+DCSmooth: 1.1.2
 DCchoice: 0.1.0
 DChaos: 0.1-6
 DCluster: 0.2-7
@@ -2470,7 +2470,7 @@ HCR: 0.1.1
 HCT: 0.1.0
 HCTR: 0.1.1
 HCmodelSets: 1.1.2
-HDBRR: 1.1.1
+HDBRR: 1.1.2
 HDCI: 1.0-2
 HDCurves: 0.1.0
 HDDesign: '1.1'
@@ -2715,7 +2715,7 @@ INLAutils: 0.0.5
 INQC: 2.0.5
 INSPIRE: '1.5'
 INTRIGUE: 0.1.0
-IOHanalyzer: 0.1.5.2
+IOHanalyzer: 0.1.6.1
 IOHexperimenter: 0.1.4
 IPCAPS: 1.1.8
 IPCWK: '1.0'
@@ -3969,7 +3969,7 @@ NostalgiR: 1.0.2
 Nozzle.R1: 1.1-1
 Numero: 1.8.4
 NutrienTrackeR: 1.1.0
-OAIHarvester: 0.3-2
+OAIHarvester: 0.3-3
 OBASpatial: '1.8'
 OBMbpkg: 1.0.0
 OBRE: 0.1-0
@@ -4658,7 +4658,7 @@ RAEN: '0.2'
 RAFM: '1.1'
 RAHRS: 1.0.2
 RAINBOWR: 0.1.26
-RALSA: 1.0.1
+RALSA: 1.0.2
 RAM: 1.2.1.7
 RAMClustR: 1.2.2
 RAMP: 2.0.2
@@ -5015,7 +5015,7 @@ RSAP: '0.9'
 RSAgeo: '1.2'
 RSAlgaeR: 1.0.0
 RSBJson: 1.1.2
-RSC: '2.0'
+RSC: 2.0.1
 RSCABS: 0.9.5
 RSCAT: 1.1.3
 RSDA: 3.0.9
@@ -5149,7 +5149,7 @@ RandPro: 0.2.2
 RandVar: 1.2.1
 RandomCoefficients: 0.0.2
 RandomFields: 3.3.10
-RandomFieldsUtils: 0.5.4
+RandomFieldsUtils: 0.5.6
 RandomForestsGLS: 0.1.3
 Randomuseragent: 0.0.1
 RanglaPunjab: 2.3.4
@@ -5364,7 +5364,7 @@ RecordLinkage: 0.4-12.1
 RecordTest: 2.1.0
 Records: '1.0'
 RecurRisk: '1.0'
-RedditExtractoR: 3.0.3
+RedditExtractoR: 3.0.5
 RedisBaseContainer: 1.0.1
 Rediscover: 0.3.0
 Redmonder: 0.2.0
@@ -6738,7 +6738,7 @@ VUROCS: '1.0'
 VWPre: 1.2.4
 VaR: '0.2'
 VaRES: '1.0'
-VancouvR: 0.1.6
+VancouvR: 0.1.7
 VarBundle: 0.3.0
 VarED: 1.0.0
 VarEff: '1.0'
@@ -7268,7 +7268,7 @@ apdesign: 1.0.0
 ape: '5.5'
 apercu: 0.2.4
 apex: 1.0.4
-apexcharter: 0.2.0
+apexcharter: 0.3.0
 aphid: 1.3.3
 apisensr: 0.3.0
 aplore3: '0.9'
@@ -7529,7 +7529,7 @@ azuremlsdk: 1.10.0
 b3archives: 1.0.0
 b6e6rl: '1.1'
 bPeaks: '1.2'
-bRacatus: 1.0.4
+bRacatus: 1.0.5
 bReeze: 0.4-3
 bSims: 0.3-0
 bWGR: 1.6.6
@@ -8316,7 +8316,7 @@ camel: 0.2.0
 campfin: 1.0.8
 camsRad: 0.3.0
 camtrapR: 2.0.3
-cancensus: 0.4.5
+cancensus: 0.4.6
 cancerGI: 1.0.0
 cancerTiming: 3.1.8
 candisc: 0.8-6
@@ -10546,7 +10546,7 @@ epiR: 2.0.38
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.9.2.8
-epicontacts: 1.1.0
+epicontacts: 1.1.2
 epidata: 0.4.0
 epifit: 0.1.2
 epifitter: 0.3.0
@@ -10905,7 +10905,7 @@ farver: 2.1.0
 fasano.franceschini.test: 1.1.0
 fasi: 1.0.0
 fasjem: 1.1.2
-fasstr: 0.3.2
+fasstr: 0.3.3
 fast: '0.64'
 fastAdaboost: 1.0.0
 fastDummies: 1.6.3
@@ -14974,7 +14974,7 @@ monkeylearn: 0.2.0
 monmlp: 1.1.5
 monoClust: 1.2.1
 monoProc: 1.0-6
-monobin: 0.1.1
+monobin: 0.2.0
 monobinShiny: 0.0.9
 monogeneaGM: '1.1'
 monographaR: 1.2.1
@@ -15614,7 +15614,7 @@ noisyr: 1.0.0
 nomadlist: 0.1.0
 nombre: 0.3.0
 nomclust: 2.5.0
-nominatimlite: 0.1.2
+nominatimlite: 0.1.3
 nomine: 1.0.0
 nomisr: 0.4.4
 nomnoml: 0.2.3
@@ -15879,6 +15879,7 @@ oompaBase: 3.2.9
 oompaData: 3.1.1
 ooplah: 0.1.0
 oosp: 0.3.3
+opGMMassessment: 0.1.0
 opalr: 3.0.1
 opart: 2019.1.0
 opdisDownsampling: 0.7.0
@@ -16622,6 +16623,7 @@ pivotaltrackR: 0.2.0
 pivottabler: 1.5.3
 piwikproR: 0.3.1
 pixarfilms: 0.2.1
+pixelclasser: 1.0.0
 pixelpuzzle: 1.0.0
 pixels: 0.1.1
 pixiedust: 0.9.1
@@ -18038,6 +18040,7 @@ remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
 renv: 0.14.0
+repairData: 0.1.0
 repana: 1.23.2
 repeated: 1.1.2
 repec: 0.1.0
@@ -18148,7 +18151,7 @@ rfishdraw: 0.1.0
 rfisheries: '0.2'
 rfishnet2: 0.2.0
 rflann: '1.3'
-rflexscan: 0.4.0
+rflexscan: 1.0.0
 rflights: 0.1.103
 rfm: 0.2.2
 rfml: 0.1.0
@@ -19316,7 +19319,7 @@ shinyobjects: 0.2.0
 shinypanel: 0.1.4
 shinypanels: 0.5.0
 shinypivottabler: '1.0'
-shinyr: 0.2.6
+shinyr: 0.3.0
 shinyrecap: 0.1.0
 shinyrecipes: 0.1.0
 shinyreforms: 0.0.1
@@ -19342,7 +19345,7 @@ showtextdb: '3.0'
 shp2graph: 0-5
 shrink: 1.2.1
 shrinkDSM: 0.1.0
-shrinkTVP: 2.0.2
+shrinkTVP: 2.0.3
 shuffle: 1.0.1
 shuffleCI: 0.1.0
 shutterplot: 0.1.0
@@ -19643,10 +19646,10 @@ socceR: 0.1.1
 social: '1.0'
 socialh: 0.1.0
 socialmixr: 0.1.8
-sociome: 2.0.0
+sociome: 2.1.0
 socviz: '1.2'
 sodavis: '1.2'
-sodium: '1.1'
+sodium: 1.2.0
 sofa: 0.4.0
 softImpute: 1.4-1
 softclassval: 1.0-20160527
@@ -20315,7 +20318,7 @@ supercompress: '1.0'
 superdiag: '2.0'
 superheat: 0.1.0
 superml: 0.5.3
-supernova: 2.4.2
+supernova: 2.4.4
 superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-7
@@ -20505,7 +20508,7 @@ systemfonts: 1.0.3
 systemicrisk: 0.4.2
 syt: 0.2.0
 syuzhet: 1.0.6
-tLagPropOdds: '1.1'
+tLagPropOdds: '1.2'
 tRakt: 0.9.0
 tRnslate: 0.0.3
 tRophicPosition: 0.7.7
@@ -20544,7 +20547,7 @@ tabulator: 1.0.0
 tabulizer: 0.2.2
 tabulizerjars: 1.0.1
 tabulog: 0.1.1
-tabxplor: 1.0.1
+tabxplor: 1.0.2
 tacmagic: 0.3.1
 tactile: 0.2.0
 tadaatoolbox: 0.9.0
@@ -20680,7 +20683,7 @@ text2map: 0.1.0
 text2sdg: 0.1.0
 text2speech: 0.2.13
 text2vec: '0.6'
-textTinyR: 1.1.5
+textTinyR: 1.1.6
 textTools: 0.1.0
 textcat: 1.0-7
 textclean: 0.9.3
@@ -21776,7 +21779,7 @@ wilson: 2.4.2
 winRatioAnalysis: 0.1.0
 winch: 0.0.6
 windAC: 1.2.6
-windex: 2.0.2
+windex: 2.0.3
 windfarmGA: 3.0.0
 windsoraiR: 0.1.2
 winfapReader: 0.1-3
