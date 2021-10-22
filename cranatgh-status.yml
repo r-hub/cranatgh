@@ -132,7 +132,7 @@ ASSA: '2.0'
 ASSISTant: 1.4.2
 ASSOCShiny: 0.1.0
 AST: 0.1.0
-ATAforecasting: 0.0.54
+ATAforecasting: 0.0.55
 ATE: 0.2.0
 ATR: 0.1-1
 ATmet: 1.2.1
@@ -193,7 +193,7 @@ AlignStat: 1.3.1
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: 1.0-2
-AlphaPart: 0.8.3
+AlphaPart: 0.8.4
 AlphaSimR: 1.0.4
 AlphaVantageClient: 0.0.1
 Amelia: 1.8.0
@@ -687,7 +687,7 @@ BoutrosLab.plotting.general: 6.0.3
 BradleyTerry: 0.8-8
 BradleyTerry2: 1.1-2
 BradleyTerryScalable: 0.1.0
-BrailleR: '0.9'
+BrailleR: 0.32.1
 BrainCon: 0.1.0
 Branching: 0.9.4
 BrasilMF: 1.0.0
@@ -707,7 +707,7 @@ BurStMisc: '1.1'
 BusinessDuration: 0.2.0
 BuyseTest: 2.3.0
 Bvalue: '1.0'
-C443: 3.2.1
+C443: 3.2.2
 C50: 0.1.5
 CA3variants: '3.0'
 CADFtest: 0.3-3
@@ -4551,7 +4551,7 @@ QCSIS: '0.1'
 QCSimulator: 0.0.1
 QDComparison: '3.0'
 QDiabetes: 1.0-2
-QF: 0.0.4
+QF: 0.0.6
 QFASA: 1.1.1
 QFRM: 1.0.1
 QGameTheory: 0.1.2
@@ -4983,7 +4983,7 @@ RPPairwiseDesign: '1.0'
 RPPanalyzer: 1.4.7
 RPS: 1.0.1
 RPgSQL: 1.0-0
-RPostgreSQL: 0.7-2
+RPostgreSQL: 0.7-3
 RPostgres: 1.4.1
 RPresto: 1.3.7
 RProbSup: '3.0'
@@ -5238,7 +5238,7 @@ RcmdrPlugin.SurvivalT: 1.0-7
 RcmdrPlugin.TeachStat: 1.1.0
 RcmdrPlugin.TeachingDemos: 1.2-0
 RcmdrPlugin.TextMining: 0.1-0
-RcmdrPlugin.UCA: 4.4-3
+RcmdrPlugin.UCA: 4.5-1
 RcmdrPlugin.WorldFlora: '1.1'
 RcmdrPlugin.aRnova: 0.0.5
 RcmdrPlugin.coin: 1.0-22
@@ -5286,7 +5286,7 @@ RcppDist: 0.1.1
 RcppDynProg: 0.2.0
 RcppEigen: 0.3.3.9.1
 RcppEigenAD: 1.0.0
-RcppEnsmallen: 0.2.17.0.1
+RcppEnsmallen: 0.2.18.0.1
 RcppExamples: 0.1.9
 RcppFaddeeva: 0.1.0
 RcppFarmHash: 0.0.2
@@ -5691,7 +5691,7 @@ SCperf: 1.1.1
 SCtools: 0.3.1
 SDALGCP: 0.4.0
 SDAR: 0.9-55
-SDAResources: 0.1.0
+SDAResources: 0.1.1
 SDBP: '1.0'
 SDCNway: 1.0.1
 SDD: '1.2'
@@ -5831,7 +5831,7 @@ SPACECAP: 1.1.0
 SPADAR: '1.0'
 SPARQL: '1.16'
 SPARSEMODr: 1.1.0
-SPARTAAS: 1.0.0
+SPARTAAS: 1.1.0
 SPAS: 2020.1.1
 SPAr: '0.1'
 SPAtest: 3.1.2
@@ -5885,6 +5885,7 @@ SSLASSO: 1.2-2
 SSLR: 0.9.3.3
 SSM: 1.0.1
 SSN: 1.1.15
+SSNbayes: 0.0.1
 SSOAP: 0.9-0
 SSOSVM: 0.2.1
 SSP: 1.0.1
@@ -5937,7 +5938,7 @@ Sample.Size: '1.0'
 SampleSize4ClinicalTrials: 0.2.3
 SampleSizeMeans: '1.1'
 SampleSizeProportions: '1.0'
-SamplerCompare: 1.3.1
+SamplerCompare: 1.3.2
 SamplingBigData: 1.0.0
 SamplingStrata: 1.5-1
 SanFranBeachWater: 0.1.0
@@ -7668,7 +7669,7 @@ bayesm: 3.1-4
 bayesmeta: '2.7'
 bayesmix: 0.7-5
 bayesmodels: 0.1.1
-bayesmove: 0.2.0
+bayesmove: 0.2.1
 bayesnec: 2.0.2
 bayespack: 1.0-2
 bayesplay: 0.9.2
@@ -8317,7 +8318,7 @@ camel: 0.2.0
 campfin: 1.0.8
 camsRad: 0.3.0
 camtrapR: 2.0.3
-cancensus: 0.4.6
+cancensus: 0.4.7
 cancerGI: 1.0.0
 cancerTiming: 3.1.8
 candisc: 0.8-6
@@ -9120,7 +9121,7 @@ corrr: 0.4.3
 corrsieve: 1.6-8
 corset: 0.1-4
 cort: 0.3.2
-corto: 1.1.9
+corto: 1.1.10
 corx: 1.0.6.1
 cosa: 2.0.0
 cosinor: '1.1'
@@ -11556,7 +11557,7 @@ garchmodels: 0.1.1
 garchx: '1.3'
 gargle: 1.2.0
 gargoyle: 0.0.1
-garma: 0.9.8
+garma: 0.9.10
 garray: 1.1.2
 gaselect: 1.0.9
 gasfluxes: 0.4-4
@@ -11710,7 +11711,7 @@ gensphere: '1.3'
 gensvm: 0.1.5
 genvar: 0.0.2.0
 geo: 1.4-3
-geoBayes: 0.6.3
+geoBayes: 0.7.0
 geoChina: 1.1.1
 geoCount: '1.150120'
 geoFKF: 0.1.0
@@ -11767,7 +11768,7 @@ geoops: 0.3.0
 geoparser: 0.1.2
 geophys: 1.4-1
 georob: 0.3-14
-geos: 0.1.1
+geos: 0.1.2
 geosample: 0.2.1
 geosapi: 0.5-1
 geoscale: '2.0'
@@ -11848,7 +11849,7 @@ ggRandomForests: 2.0.1
 ggResidpanel: 0.3.0
 ggThemeAssist: 0.1.5
 ggTimeSeries: 1.0.1
-ggVennDiagram: 1.1.4
+ggVennDiagram: 1.2.0
 ggalignment: 1.0.0
 ggallin: 0.1.1
 ggalluvial: 0.12.3
@@ -11879,6 +11880,7 @@ ggedit: 0.3.1
 ggeffects: 1.1.1
 ggenealogy: 1.0.1
 ggetho: 0.3.6
+ggfacto: 0.2.2
 ggfan: 0.1.3
 ggfittext: 0.9.1
 ggfocus: 1.0.0
@@ -13366,7 +13368,7 @@ jsonld: '2.2'
 jsonlite: 1.7.2
 jsonstat: 0.0.2
 jsontools: 0.1.0
-jsonvalidate: 1.1.0
+jsonvalidate: 1.3.1
 jsr223: 0.3.4
 jstable: 1.0.7
 jstor: 0.3.9
@@ -14245,7 +14247,7 @@ margins: 0.3.26
 marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
-mark: 0.3.0
+mark: 0.4.0
 markdown: '1.1'
 markdownInput: 0.1.2
 marked: 1.2.6
@@ -14653,7 +14655,7 @@ midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
 migest: 2.0.0
-migraph: 0.7.1
+migraph: 0.8.1
 migrate: 0.4.0
 migration.indices: 0.3.0
 migrbc: 2.0.9
@@ -14831,7 +14833,7 @@ mlr3measures: 0.4.0
 mlr3misc: 0.9.4
 mlr3oml: 0.5.0
 mlr3pipelines: 0.3.6-1
-mlr3proba: 0.4.1
+mlr3proba: 0.4.2
 mlr3shiny: 0.2.0
 mlr3spatiotempcv: 1.0.0
 mlr3tuning: 0.9.0
@@ -15060,7 +15062,7 @@ mrMLM.GUI: 4.0.2
 mra: 2.16.11
 mratios: 1.4.2
 mrbayes: 0.5.1
-mrbin: 1.6.0
+mrbin: 1.6.1
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
 mrds: 2.2.5
@@ -15190,7 +15192,7 @@ multicon: '1.6'
 multicool: 0.1-12
 multicore: '0.2'
 multicross: 2.1.0
-multid: 0.1.0
+multid: 0.2.0
 multidplyr: 0.1.0
 multifamm: 0.1.1
 multifear: 0.1.2
@@ -15395,7 +15397,7 @@ ncvar: 1.0-4
 ncvreg: 3.13.0
 ndjson: 0.8.0
 ndl: 0.2.18
-ndtv: 0.13.1
+ndtv: 0.9.0
 ndvits: '1.0'
 nearfar: '1.2'
 neariso: 1.0.1
@@ -15899,7 +15901,7 @@ openSTARS: 1.2.2
 openSkies: 1.1.5
 openVA: 1.0.13
 openadds: 0.2.0
-openair: 2.8-4
+openair: 2.8-5
 openblender: 0.5.81
 opencage: 0.2.2
 opencastR: 0.1.3
@@ -16395,7 +16397,7 @@ pedgene: '3.3'
 pedigree: '1.4'
 pedigreeTools: '0.1'
 pedigreemm: 0.3-3
-pedmut: 0.2.0
+pedmut: 0.3.0
 pedometrics: 0.7.0
 pedprobr: 0.5.0
 pedquant: 0.1.7
@@ -16446,7 +16448,7 @@ permax: '1.2'
 permimp: 1.0-2
 permtest: '1.2'
 permubiome: 1.3.1
-permuco: 1.1.0
+permuco: 1.1.1
 permutations: 1.0-9
 permute: 0.9-5
 permutes: '2.2'
@@ -17083,7 +17085,7 @@ profileModel: 0.6.1
 profileR: 0.3-5
 profilr: 0.1.0
 profmem: 0.6.0
-profoc: 0.8.4
+profoc: 0.8.5
 profr: 0.3.3
 proftools: 0.99-3
 profvis: 0.3.7
@@ -17410,7 +17412,7 @@ quantoptr: 0.1.3
 quantreg: '5.86'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
-quantregGrowth: 1.3-0
+quantregGrowth: 1.3-1
 quantregRanger: '1.0'
 quantspec: 1.2-3
 quarks: 1.0.9
@@ -18735,7 +18737,7 @@ rv: 2.3.4
 rvHPDT: '3.0'
 rvTDT: '1.0'
 rvalues: 0.7.1
-rvcheck: 0.2.0
+rvcheck: 0.2.1
 rversions: 2.1.1
 rvertnet: 0.8.2
 rvest: 1.0.2
@@ -19759,7 +19761,7 @@ spamtree: 0.2.1
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 1.14.0
+spant: 1.15.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -20168,7 +20170,7 @@ stepp: 3.2.2
 steps: 1.2.1
 stepwise: '0.3'
 stevedata: 0.5.0
-stevedore: 0.9.3
+stevedore: 0.9.4
 stevemisc: 1.2.0
 stevetemplates: 0.6.0
 stfit: 0.99.8
@@ -20684,7 +20686,7 @@ texmexseq: '0.3'
 texreg: 1.37.5
 text: 0.9.10
 text.alignment: 0.1.2
-text2map: 0.1.0
+text2map: 0.1.1
 text2sdg: 0.1.0
 text2speech: 0.2.13
 text2vec: '0.6'
@@ -21161,7 +21163,7 @@ tsfknn: 0.5.0
 tsfngm: 0.1.0
 tsgui: 0.2.1
 tsiR: 0.4.3
-tsibble: 1.0.1
+tsibble: 1.1.0
 tsibbledata: 0.3.0
 tsibbletalk: 0.1.0
 tsintermittent: '1.9'
@@ -21444,7 +21446,7 @@ varImp: '0.4'
 varSel: '0.2'
 varSelRF: 0.7-8
 varSelectIP: 0.2-1
-varTestnlme: 1.1.0
+varTestnlme: 1.1.1
 varband: 0.9.0
 varbin: 0.2.1
 varbvs: 2.5-16
