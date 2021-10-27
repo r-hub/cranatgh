@@ -377,7 +377,7 @@ BICORN: 0.1.0
 BIEN: 1.2.4
 BIFIEsurvey: 3.3-12
 BIGDAWG: 2.3.6
-BIGL: 1.6.4
+BIGL: 1.6.5
 BINCO: 0.1-1
 BINCOR: 0.2.0
 BINtools: 0.1.0
@@ -555,7 +555,7 @@ BayesVarSel: 2.0.1
 BayesX: 0.3-1
 BayesXsrc: 3.0-1.1
 BayesianAnimalTracker: '1.2'
-BayesianFROC: 0.4.0
+BayesianFROC: 0.5.0
 BayesianGLasso: 0.2.0
 BayesianLaterality: 0.1.1
 BayesianNetwork: 0.1.5
@@ -7558,7 +7558,7 @@ backblazer: 0.1.0
 backbone: 1.5.1
 backfitRichards: 0.5.0
 backpipe: 0.2.3
-backports: 1.2.1
+backports: 1.3.0
 backtest: 0.3-4
 backtestGraphics: 0.1.6
 bacondecomp: 0.1.1
@@ -8201,7 +8201,7 @@ broman: '0.76'
 broom: 0.7.9
 broom.helpers: 1.4.0
 broom.mixed: 0.2.7
-broomExtra: 4.2.3
+broomExtra: 4.3.0
 brotli: '1.2'
 brr: 1.0.0
 brranching: 0.7.0
@@ -8521,6 +8521,7 @@ ceser: 1.0.0
 cetcolor: 0.2.0
 ceterisParibus: 0.4.2
 cfa: 0.10-0
+cfbfastR: 1.6.4
 cfda: 0.9.9
 cfdecomp: 0.4.0
 cffdrs: 1.8.18
@@ -9219,6 +9220,7 @@ cppcor: '1.2'
 cpr: 0.2.3
 cprobit: 1.0.2
 cprr: 0.2.0
+cpsR: 0.4.4
 cpss: 0.0.2
 cpsurvsim: 1.2.0
 cpsvote: 0.1.0
@@ -11409,7 +11411,7 @@ fullfact: '1.5'
 fulltext: '2.0'
 fume: '1.0'
 fun: '0.3'
-funFEM: '1.1'
+funFEM: '1.2'
 funGp: 0.2.2
 funHDDC: 2.3.1
 funLBM: '2.2'
@@ -11657,7 +11659,7 @@ gems: 1.1.1
 gemtc: 1.0-1
 gemtc.jar: 0.14.3
 gen2stage: '1.0'
-gen3sis: '1.3'
+gen3sis: '1.4'
 gen5helper: 1.0.1
 genBaRcode: 1.2.4
 genBart: 1.0.1
@@ -11728,6 +11730,7 @@ geoBayes: 0.7.0
 geoChina: 1.1.1
 geoCount: '1.150120'
 geoFKF: 0.1.0
+geoFourierFDA: 0.1.0
 geoGAM: 0.1-2
 geoPlot: '2.3'
 geoR: 1.8-1
@@ -14032,7 +14035,7 @@ loon: 1.3.8
 loon.data: 0.1.3
 loon.ggplot: 1.3.0
 loon.shiny: 1.0.1
-loon.tourr: 0.1.2
+loon.tourr: 0.1.3
 loop: '1.1'
 loopr: 1.0.1
 loose.rock: 1.2.0
@@ -14463,7 +14466,7 @@ meditations: 1.0.1
 medmod: 1.0.0
 medrxivr: 0.0.5
 meedr: 0.0.2
-meerva: 0.2-1
+meerva: 0.2-2
 meetupapi: 0.1.0
 mefa: 3.2-8
 mefa4: 0.3-8
@@ -15014,7 +15017,7 @@ mopsocd: 0.5.1
 moreparty: 0.2.1
 morgenstemning: '1.0'
 morphemepiece: 1.0.1
-morphemepiece.data: 1.0.0
+morphemepiece.data: 1.1.0
 morpheus: 1.0-1
 morphomap: '1.3'
 morse: 3.3.1
@@ -15745,7 +15748,7 @@ nscprepr: 0.1.1
 nsdr: 0.1.1
 nse: '1.20'
 nse2r: 0.1.5
-nser: 1.3.3
+nser: 1.3.4
 nseval: '0.4'
 nsga2R: '1.0'
 nsga3: 0.0.3
@@ -16052,7 +16055,7 @@ osi: 0.1.0
 oskeyring: 0.1.1
 osmar: 1.1-7
 osmdata: 0.1.8
-osmextract: 0.3.1
+osmextract: 0.4.0
 osmgeosample: '0.1'
 osmose: 3.3.4
 osmplotr: 0.3.3
@@ -17159,7 +17162,7 @@ provViz: 1.0.7
 provenance: '3.3'
 proxirr: '0.1'
 proxy: 0.4-26
-proxyC: 0.2.1
+proxyC: 0.2.2
 prozor: 0.2.11
 prrd: 0.0.5
 prt: 0.1.4
@@ -17597,6 +17600,7 @@ rSPACE: 1.2.0
 rSPARCS: 0.1.0
 rSPDE: 0.6.3
 rSQM: 1.3.14
+rStrava: 1.1.4
 rSymPy: 0.2-1.2
 rSymbiota: 1.0.0
 rTG: 0.2.2
@@ -17786,7 +17790,7 @@ rbitcoinchartsapi: 1.0.4
 rblt: 0.2.4.5
 rbmn: 0.9-4
 rbokeh: 0.5.2
-rbooster: 1.0.2
+rbooster: 1.1.0
 rbounds: '2.1'
 rbraries: 0.2.0
 rbridge: 1.0.2
@@ -18345,7 +18349,7 @@ rmapzen: 0.4.3
 rmarchingcubes: 0.1.3
 rmargint: 2.0.2
 rmarkdown: '2.11'
-rmatio: 0.15.0
+rmatio: 0.16.0
 rmcfs: 1.3.5
 rmcorr: 0.4.4
 rmd: 0.1.5
@@ -18682,6 +18686,7 @@ rsunlight: 0.7.0
 rsurface: 1.1.0
 rsurfer: '0.2'
 rsvd: 1.0.5
+rsvddpd: 1.0.0
 rsvg: 2.1.2
 rsyncrosim: 1.2.9
 rsyntax: 0.1.2
@@ -18791,6 +18796,7 @@ ryandexdirect: 3.6.0
 rym: 1.0.5
 ryouready: '0.4'
 rysgran: 2.1.0
+rytstat: 0.1.0
 rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.8
@@ -19471,7 +19477,7 @@ simpleboot: 1.1-7
 simplecolors: 0.1.1
 simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
-simplermarkdown: 0.0.2
+simplermarkdown: 0.0.3
 simpleroptions: 0.2.0
 simplevis: 4.6.0
 simplexdesign: 0.1.0
@@ -19652,7 +19658,7 @@ snn: '1.1'
 snnR: '1.0'
 snort: '1.0'
 snotelr: 1.0.4
-snow: 0.4-3
+snow: 0.4-4
 snowFT: 1.6-0
 snowboot: 1.0.2
 snowfall: 1.84-6.1
@@ -20852,7 +20858,7 @@ tidyseurat: 0.3.0
 tidysmd: 0.1.0
 tidysq: 1.1.2-1
 tidystats: '0.5'
-tidystopwords: 0.9.0
+tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
 tidytable: 0.6.5
@@ -21282,7 +21288,7 @@ txtq: 0.2.4
 typed: 0.0.1
 typehint: 0.1.2
 types: 1.0.0
-tzdb: 0.1.2
+tzdb: 0.2.0
 tzupdater: 0.1.2
 u5mr: 0.1.1
 uCAREChemSuiteCLI: 0.2.0
@@ -21424,7 +21430,7 @@ utilityFunctionTools: 0.1.1
 utilsIPEA: 0.0.6
 utiml: 0.1.7
 utr.annotation: 1.0.4
-uuid: 0.1-4
+uuid: 1.0-2
 uwIntroStats: 0.0.7
 uwo4419: 0.3.0
 uwot: 0.1.10
