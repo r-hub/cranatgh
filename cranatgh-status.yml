@@ -4156,6 +4156,7 @@ PCGSE: '0.4'
 PCICt: 0.5-4.1
 PCIT: 1.5-3
 PCL: '1.0'
+PCLassoReg: 1.0.0
 PCMBase: 1.2.12
 PCMBaseCpp: 0.1.9
 PCMRS: 0.1-2
@@ -4546,6 +4547,7 @@ QBMS: '0.6'
 QCA: '3.13'
 QCA3: 0.0-8
 QCAGUI: '2.5'
+QCAcluster: 0.1.0
 QCAfalsePositive: 1.1.1
 QCApro: 1.1-2
 QCAtools: 0.2.3
@@ -4682,7 +4684,7 @@ RApiDatetime: 0.0.6
 RApiSerialize: 0.1.0
 RAppArmor: 3.2.2
 RArcInfo: '0.4'
-RAthena: 2.2.0
+RAthena: 2.3.0
 RAtmosphere: '1.1'
 RBF: 2.1.0
 RBGL: 1.28.0
@@ -6866,6 +6868,7 @@ WorldFlora: '1.9'
 Wrapped: '2.0'
 WrightMap: 1.2.3
 WriteXLS: 6.3.0
+WtTopsis: '1.0'
 WufooR: 1.0.1
 XBRL: 0.99.19
 XGR: 1.1.7
@@ -11717,6 +11720,7 @@ genscore: 1.0.2
 gensemble: '1.0'
 genset: 0.1.0
 gensphere: '1.3'
+genstab: 1.0.0
 gensvm: 0.1.5
 genvar: 0.0.2.0
 geo: 1.4-3
@@ -15618,7 +15622,7 @@ nntrf: 0.1.4
 noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
-noctua: 2.2.0
+noctua: 2.3.0
 nodbi: 0.4.3
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
@@ -20032,7 +20036,7 @@ sqlshare: 1.0.3
 sqlutils: '1.2'
 sqp: '0.5'
 squash: 1.0.9
-squashinformr: 0.2.4
+squashinformr: 0.2.5
 squeezy: '1.0'
 squid: 0.1.2
 sra: 0.1.3
@@ -20590,9 +20594,9 @@ tangram.pipe: 1.1.0
 tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
-tarchetypes: 0.3.1
-targeted: '0.1'
-targets: 0.8.0
+tarchetypes: 0.3.2
+targeted: 0.2.0
+targets: 0.8.1
 tashu: 0.1.1
 taskPR: '0.34'
 taskscheduleR: '1.5'
