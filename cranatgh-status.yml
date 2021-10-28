@@ -227,7 +227,7 @@ AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 3.1.0
 Anthropometry: '1.16'
-AntibodyTiters: 0.1.4
+AntibodyTiters: 0.1.18
 Aoptbdtvc: 0.0.2
 AovBay: 0.1.0
 ApacheLogProcessor: 0.2.3
@@ -329,7 +329,7 @@ BCBCSF: 1.0-1
 BCC1997: 0.1.1
 BCDating: 0.9.8
 BCE: '2.1'
-BCEA: 2.3-1.1
+BCEA: 2.4.1
 BCEE: 1.3.0
 BCEs0: '1.1'
 BCHM: '1.00'
@@ -1713,7 +1713,7 @@ ETAS: 0.4.7
 ETC: '1.3'
 ETLUtils: '1.5'
 EVER: '1.2'
-EValue: 4.1.2
+EValue: 4.1.3
 EW: '1.1'
 EWGoF: 2.2.2
 EWOC2: '1.0'
@@ -3351,7 +3351,7 @@ MIICD: '2.4'
 MIIPW: 0.1.0
 MIIVsem: 0.5.8
 MILC: '1.0'
-MIMSunit: 0.11.0
+MIMSunit: 0.9.2
 MINTplates: 1.0.1
 MIPHENO: '1.2'
 MIRES: 0.1.0
@@ -4040,7 +4040,7 @@ OjaNP: 1.0-0
 OkNNE: 1.0.0
 OligoSpecificitySystem: '1.3'
 OmegaG: 1.0.1
-OmicInt: 1.1.5
+OmicInt: 1.1.7
 OmicKriging: 1.4.0
 OmicNavigator: 1.4.3
 OmicsPLS: 2.0.2
@@ -4293,7 +4293,7 @@ PSSMCOOL: 0.2.2
 PST: '0.94'
 PSTR: 1.2.4
 PSW: 1.1-3
-PSweight: 1.1.4
+PSweight: 1.1.5
 PTAk: 1.4-0
 PTE: '1.7'
 PTXQC: 1.0.11
@@ -5497,7 +5497,7 @@ Rmixmod: 2.1.5
 RmixmodCombi: '1.0'
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
-Rmpfr: 0.8-6
+Rmpfr: 0.8-7
 Rmpi: 0.6-9.2
 Rmst: 0.0.3
 RnavGraph: 0.1.8
@@ -6622,7 +6622,7 @@ TropFishR: 1.6.3
 TrtCombo.FactorialExp.SR: 4.0.4
 TruncatedNormal: 2.2.2
 Tsphere: '1.0'
-TukeyC: 1.3-3
+TukeyC: 1.3-4
 TukeyRegion: 0.1.4
 TunePareto: 2.5.1
 TurtleGraphics: 1.0-8
@@ -7656,7 +7656,7 @@ bayesSurv: '3.3'
 bayesTFR: 7.0-5
 bayesZIB: 0.0.2
 bayesammi: 0.1.0
-bayesanova: '1.4'
+bayesanova: '1.5'
 bayesbio: 1.0.0
 bayesboot: 0.2.2
 bayesbr: 0.0.1.0
@@ -8743,7 +8743,7 @@ cloudUtil: 0.1.12
 cloudml: 0.6.1
 cloudos: 0.2.0
 cloudstoR: 0.1.0
-clpAPI: 1.3.0
+clpAPI: 1.3.1
 clr: 0.1.2
 clrdag: 0.6.0
 clttools: '1.3'
@@ -9659,7 +9659,7 @@ decor: 1.0.0
 decorators: 0.1.0
 deducorrect: 1.3.7
 deductive: 1.0.0
-dedupewider: 0.0.2
+dedupewider: 0.1.0
 deep: 0.1.0
 deepMOU: 0.1.1
 deepNN: '1.1'
@@ -9700,7 +9700,7 @@ demogR: 0.6.0
 demography: '1.22'
 demu: 0.3.0
 dendRoAnalyst: 0.1.3
-dendextend: 1.15.1
+dendextend: 1.15.2
 dendextendRcpp: 0.6.1
 dendroExtra: 0.0.2
 dendroTools: 1.2.0
@@ -9764,7 +9764,7 @@ devRate: 0.2.1
 devoid: 0.1.1
 devtoolbox: 0.1.0
 devtools: 2.4.2
-dexter: 1.1.3
+dexter: 1.1.4
 dexterMST: 0.9.2
 dextergui: 0.2.3
 df2json: 0.0.2
@@ -10273,7 +10273,7 @@ eat: 0.1.0
 eatATA: 1.0.0
 eatDB: 0.5.0
 eatGADS: 0.18.1
-eatRep: 0.13.6
+eatRep: 0.13.7
 eatTools: 0.7.0
 ebGenotyping: 2.0.1
 ebSNP: '1.0'
@@ -10429,7 +10429,7 @@ eiwild: 0.6.7
 eixport: 0.5.0
 el.convex: '1.0'
 elaborator: '1.1'
-elasdics: 0.1.2
+elasdics: 0.1.3
 elasso: '1.1'
 elastic: 1.2.0
 elasticIsing: '0.2'
@@ -10816,7 +10816,7 @@ ez: 4.4-0
 ez.combat: 1.0.0
 ezCutoffs: 1.0.1
 ezEDA: 0.1.1
-ezcox: 1.0.1
+ezcox: 1.0.2
 ezec: 1.0.1
 ezglm: '1.0'
 ezknitr: '0.6'
@@ -11040,7 +11040,7 @@ fec16: 0.1.3
 fecR: 0.0.2
 fechner: 1.0-3
 federalregister: 0.2.0
-fedmatch: 2.0.3
+fedmatch: 2.0.4
 fedregs: 1.0.0
 fedreporter: 0.2.1
 fedstatAPIr: '0.1'
@@ -11622,7 +11622,7 @@ gconsensus: 0.3.1
 gcookbook: '2.0'
 gdalUtilities: 1.2.0
 gdalUtils: 2.0.3.2
-gdalcubes: 0.4.1
+gdalcubes: 0.5.0
 gdata: 2.18.0
 gde: 0.1.4
 gdiff: 0.2-2
@@ -12116,7 +12116,7 @@ globe: 1.2-0
 glogis: 1.0-1
 glow: 0.10.1
 glpk: 4.8-0.5
-glpkAPI: 1.3.2
+glpkAPI: 1.3.3
 glrt: '2.0'
 glue: 1.4.2
 gluedown: 1.0.4
@@ -13807,7 +13807,7 @@ liayson: 1.0.4
 libamtrack: 0.6.3
 libbib: 1.6.2
 libcoin: 1.0-9
-libgeos: 3.9.1-1
+libgeos: 3.10.0-1
 libproj: 8.1.0-1
 libr: 1.2.1
 librarian: 1.8.1
@@ -13979,7 +13979,7 @@ loe: '1.1'
 loewesadditivity: 0.1.0
 log: 1.1.0
 log10: 0.1.0-03
-log4r: 0.4.0
+log4r: 0.4.1
 logKDE: 0.3.2
 logNormReg: 0.4-0
 logOfGamma: 0.0.1
@@ -15332,7 +15332,7 @@ mvtnormpcs: '0.1'
 mvtsplot: 1.0-1
 mwTensor: 0.99.5
 mwa: 0.4.3
-mwaved: 1.1.7
+mwaved: 1.1.8
 mwshiny: 2.1.0
 mxkssd: '1.1'
 mxmmod: 1.1.0
@@ -15905,7 +15905,7 @@ oompaBase: 3.2.9
 oompaData: 3.1.1
 ooplah: 0.1.0
 oosp: 0.3.3
-opGMMassessment: 0.1.0
+opGMMassessment: 0.2.0
 opalr: 3.0.2
 opart: 2019.1.0
 opdisDownsampling: 0.7.0
@@ -16459,7 +16459,7 @@ perfectphyloR: 0.2.1
 performance: 0.8.0
 performanceEstimation: 1.1.0
 pergola: '1.0'
-periscope: 0.6.3
+periscope: 1.0.0
 perm: 1.0-0.2
 permDep: 1.0.2
 permGPU: '0.15'
@@ -16811,7 +16811,7 @@ pogit: 1.2.0
 poibin: '1.5'
 poilog: '0.4'
 pointRes: 2.0.0
-pointblank: 0.8.0
+pointblank: 0.9.0
 pointdensityP: 0.3.5
 pointdexter: 0.1.1
 pointr: 0.2.0
@@ -17910,7 +17910,7 @@ readMzXmlData: 2.8.1
 readODS: 1.7.0
 readOffice: 0.2.2
 readability: 0.1.1
-readabs: 0.4.9
+readabs: 0.4.10
 readbitmap: 0.1.5
 readbulk: 1.1.3
 reader: 1.0.6
@@ -18475,7 +18475,7 @@ roll: 1.1.6
 rollRegres: 0.1.3
 rollbar: 0.1.0
 rolldown: '0.1'
-rollinglda: 0.1.0
+rollinglda: 0.1.1
 rollmatch: 2.0.2
 rollply: 0.5.0
 roloc: 0.1-1
@@ -20237,7 +20237,7 @@ stockfish: 0.1.3
 stocks: 1.1.4
 stoichcalc: 1.1-3
 stokes: 1.0-8
-stopwords: '2.2'
+stopwords: '2.3'
 stormwindmodel: 0.1.4
 storr: 1.2.5
 storywranglr: 0.2.0
@@ -21005,7 +21005,7 @@ torchaudio: 0.2.0
 torchdatasets: 0.1.0
 torchvision: 0.4.0
 torus: '1.0'
-tosca: 0.3-1
+tosca: 0.3-2
 tosls: '1.0'
 tosr: 0.1.0
 tossm: '1.3'
@@ -21884,7 +21884,7 @@ wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
 wrGraph: 1.3.0
-wrMisc: 1.6.2
+wrMisc: 1.7.0
 wrProteo: 1.4.3
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.2
