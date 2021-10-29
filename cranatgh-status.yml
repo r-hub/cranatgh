@@ -4787,6 +4787,7 @@ RGA: 0.4.2
 RGBM: 1.0-8
 RGCCA: 2.1.2
 RGCxGC: 1.1-2
+RGE: '1.0'
 RGENERATE: 1.3.5
 RGENERATEPREC: 1.2.8
 RGF: 1.0.8
@@ -5619,7 +5620,7 @@ Rwofost: 0.8-3
 Rwordseg: 0.3-2
 Rwtss: 0.9.1
 RxCEcolInf: 0.1-4
-RxODE: 1.1.1
+RxODE: 1.1.2
 RxnSim: 1.0.3
 Rxnat: 1.0.8
 Ryacas: 1.1.3.1
@@ -5813,6 +5814,7 @@ SNPMaP: 1.1.1
 SNPMaP.cdm: 1.1.1
 SNPRelate: 0.9.9
 SNPassoc: 2.0-2
+SNPfiltR: 0.1.0
 SNPknock: 0.8.2
 SNPmaxsel: 1.0-3
 SNPtools: '1.1'
@@ -6060,7 +6062,7 @@ SimDesign: 2.7.1
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.1
 SimEngine: 1.0.0
-SimEvolEnzCons: 1.0.2
+SimEvolEnzCons: 2.0.0
 SimHap: 1.2.0
 SimHaz: '0.1'
 SimInf: 8.4.0
@@ -6370,6 +6372,7 @@ TDCor: 0.1-2
 TDD: '0.4'
 TDMR: '2.2'
 TDPanalysis: '1.0'
+TDbook: 0.0.3
 TDboost: '1.2'
 TE: 0.3-0
 TEAM: 0.1.0
@@ -6627,6 +6630,7 @@ TukeyRegion: 0.1.4
 TunePareto: 2.5.1
 TurtleGraphics: 1.0-8
 Tushare: 0.1.3
+Twitmo: 0.1.1
 TwitterAutomatedTrading: 0.1.0
 TwoArmSurvSim: '0.2'
 TwoCop: '1.0'
@@ -7501,6 +7505,7 @@ automultinomial: 2.0.0
 autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
+autostats: 0.1.0
 autostsm: '1.6'
 autota: 0.1.3
 autothresholdr: 1.3.11
@@ -7714,7 +7719,7 @@ bcTSNE: 0.10.0
 bcaboot: 0.2-3
 bcc: 1.3.1
 bccp: 0.5.0
-bcdata: 0.2.4
+bcdata: 0.3.0
 bcf: '1.3'
 bcfrailph: 0.1.0
 bcfrailphdv: 0.1.0
@@ -10650,6 +10655,7 @@ esc: 0.5.1
 escalation: 0.1.4
 esd4all: 1.0-9
 eseis: 0.5.0
+esemifar: 1.0.0
 eshrink: 0.1.2
 esmisc: 0.0.3
 esmprep: 0.2.0
@@ -12415,7 +12421,7 @@ gwfa: 0.0.4
 gwpcormapper: 0.1.2
 gwrpvr: '1.0'
 gwrr: 0.2-1
-gwsem: 2.1.2
+gwsem: 2.1.3
 gym: 0.1.0
 gyriq: 1.0.2
 h2o: 3.34.0.3
@@ -13329,6 +13335,7 @@ jfa: 0.6.0
 jgcricolors: 1.0.0
 jiebaR: '0.11'
 jiebaRD: '0.1'
+jinjar: 0.1.0
 jipApprox: 0.1.3
 jit: 1.3-1
 jjb: 0.1.1
@@ -13730,7 +13737,7 @@ leafSTAR: '1.0'
 leafdown: 1.0.0
 leafem: 0.1.6
 leafgl: 0.1.1
-leaflegend: 0.4.0
+leaflegend: 0.5.0
 leaflet: 2.0.4.1
 leaflet.esri: 1.0.0
 leaflet.extras: 1.0.0
@@ -15283,7 +15290,7 @@ mutSignatures: 2.1.1
 mutatr: '0.1'
 mutoss: 0.1-12
 mutossGUI: 0.1-11
-mutualinf: 1.1.1
+mutualinf: 1.1.2
 mvGPS: 1.2.1
 mvLSW: 1.2.4
 mvMISE: '1.0'
@@ -15449,7 +15456,7 @@ net4pg: 0.1.0
 netCDF: '1.5'
 netClass: '1.2'
 netClust: 1.0.1
-netCoin: 1.2.21
+netCoin: 2.0.20
 netSEM: 0.5.1
 netassoc: 0.6.3
 netchain: 0.2.0
@@ -15640,7 +15647,7 @@ noisyr: 1.0.0
 nomadlist: 0.1.0
 nombre: 0.4.0
 nomclust: 2.5.0
-nominatimlite: 0.1.3
+nominatimlite: 0.1.4
 nomine: 1.0.0
 nomisr: 0.4.4
 nomnoml: 0.2.3
@@ -17518,7 +17525,7 @@ rCUR: '1.3'
 rCarto: '0.8'
 rChoiceDialogs: 1.0.6
 rClinicalCodes: 1.0.1
-rD3plot: 1.0.22
+rD3plot: 1.0.25
 rDEA: 1.2-6
 rDNA: '1.31'
 rDNAse: 1.1-1
@@ -18055,6 +18062,7 @@ relliptical: 0.1.0
 relsurv: 2.2-5
 rem: 1.3.1
 remMap: 0.2-0
+rema: 0.0.1
 remap: 0.2.1
 rematch: 1.0.1
 rematch2: 2.1.2
@@ -19250,6 +19258,7 @@ sglg: 0.2.0
 sglr: '0.7'
 sgmcmc: 0.2.5
 sgmodel: 0.1.1
+sgo: 0.9.0
 sgof: 2.3.2
 sgpv: 1.1.0
 sgr: '1.3'
@@ -19285,7 +19294,7 @@ shiny.i18n: 0.2.0
 shiny.info: 0.2.0
 shiny.pwa: 0.2.1
 shiny.react: 0.2.3
-shiny.reglog: 0.2.0.2
+shiny.reglog: 0.4.1
 shiny.router: 0.2.2
 shiny.semantic: 0.4.2
 shiny.worker: 0.0.1
@@ -19695,6 +19704,7 @@ soil.spec: '2.1'
 soilDB: 2.6.5
 soilassessment: 0.2.1
 soilcarbon: 1.2.0
+soilhypfit: 0.1-3
 soilphysics: '4.0'
 soilprofile: '1.0'
 soiltexture: 1.5.1
@@ -20647,7 +20657,7 @@ tclust: 1.4-2
 tcpl: 2.0.2
 tcplfit2: 0.1.3
 tcsinvest: 0.1.1
-td: 0.0.4
+td: 0.0.5
 tdROC: '1.0'
 tdaunif: 0.1.0
 tdigest: 0.3.0
