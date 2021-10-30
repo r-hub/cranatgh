@@ -280,7 +280,7 @@ AzureKusto: 1.0.6
 AzureML: 0.2.15
 AzureQstor: 1.0.1
 AzureRMR: 2.4.3
-AzureStor: 3.5.1
+AzureStor: 3.5.2
 AzureTableStor: 1.0.0
 AzureVM: 2.2.2
 AzureVMmetadata: 1.0.1
@@ -353,7 +353,7 @@ BENMMI: 4.3-7
 BEQI2: 2.0-0
 BEST: 0.5.4
 BESTree: 0.5.2
-BET: 0.4.0
+BET: 0.4.1
 BETS: 0.4.9
 BFS: 0.4.1
 BFpack: 0.3.2
@@ -1296,7 +1296,7 @@ DEoptim: 2.2-6
 DEoptimR: 1.0-9
 DEploid: 0.5.3
 DFA: 0.9.0
-DFA.CANCOR: 0.2.1
+DFA.CANCOR: 0.2.2
 DFIT: '1.1'
 DGCA: 1.0.2
 DGEobj: 1.0.3
@@ -3629,7 +3629,7 @@ MetaQC: 0.1.9
 MetaSKAT: '0.81'
 MetaStan: 0.4.0
 MetaSubtract: '1.60'
-MetaUtility: 2.1.1
+MetaUtility: 2.1.2
 MetaboList: '2.0'
 MetaboLouise: 1.0.0
 MetaboQC: '1.1'
@@ -5315,7 +5315,7 @@ RcppNumerical: 0.4-0
 RcppOctave: '0.9'
 RcppParallel: 5.1.4
 RcppProgress: 0.4.2
-RcppQuantuccia: 0.0.5
+RcppQuantuccia: 0.1.0
 RcppRedis: 0.1.11
 RcppRoll: 0.3.0
 RcppSMC: 0.2.5
@@ -6767,7 +6767,7 @@ VdgRsm: '1.5'
 Vdgraph: 2.2-2
 VecStatGraphs2D: '1.8'
 VecStatGraphs3D: '1.6'
-VennDiagram: 1.6.20
+VennDiagram: 1.7.0
 VertexSimilarity: '0.1'
 VertexSort: 0.1-1
 VeryLargeIntegers: 0.1.8
@@ -7658,7 +7658,7 @@ bayesPO: 0.3.1
 bayesPop: 8.1-3
 bayesQR: '2.3'
 bayesSurv: '3.3'
-bayesTFR: 7.0-5
+bayesTFR: 7.1-1
 bayesZIB: 0.0.2
 bayesammi: 0.1.0
 bayesanova: '1.5'
@@ -7692,7 +7692,7 @@ bayesreg: '1.2'
 bayesrules: 0.0.2
 bayess: '1.4'
 bayest: '1.4'
-bayestestR: 0.11.0
+bayestestR: 0.11.5
 bayesvl: 0.8.5
 bayfoxr: 0.0.1
 baymedr: 0.1.1
@@ -8552,7 +8552,7 @@ cgraph: 6.0.1
 cgwtools: '3.3'
 ch: 0.1.0.2
 chameleon: 0.2-0
-chandwich: 1.1.4
+chandwich: 1.1.5
 changeLOS: '2.1'
 changedetection: 0.2.0
 changepoint: 2.2.2
@@ -9588,7 +9588,7 @@ dbarts: 0.9-20
 dbcsp: 0.0.1.0
 dbd: 0.0-22
 dbfaker: 0.1.0
-dbflobr: 0.1.0
+dbflobr: 0.2.1
 dbglm: 1.0.0
 dbhydroR: 0.2-8
 dblcens: 1.1.7
@@ -10362,7 +10362,7 @@ edgar: 2.0.4
 edgarWebR: 1.1.0
 edgeCorr: '1.0'
 edgeRun: 1.0.9
-edgebundle: 0.2.1
+edgebundle: 0.3.0
 edgebundleR: 0.1.4
 edgedata: 0.2.0
 edina: 0.1.1
@@ -11091,7 +11091,7 @@ fiberLD: 0.1-6
 fic: 1.0.0
 fidap: 0.0.3
 fieldRS: 0.2.3
-fields: '12.5'
+fields: '13.3'
 fiery: 1.1.3
 fifer: '1.1'
 fiftystater: 1.0.1
@@ -12214,7 +12214,7 @@ goxygen: 1.0.3
 gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
-gpbStat: 0.3.4
+gpbStat: 0.3.5
 gpboost: 0.6.7
 gpclib: 1.5-6
 gpg: 1.2.3
@@ -13833,7 +13833,7 @@ liftLRD: 1.0-8
 liftr: 0.9.2
 lifx: 0.2.0
 liger: 2.0.1
-lightgbm: 3.3.0
+lightgbm: 3.3.1
 lightr: 1.6.0
 lightsout: '0.3'
 likeLTD: 6.3.0
@@ -14249,7 +14249,7 @@ mapproj: 1.2.7
 mapr: 0.5.2
 maps: 3.4.0
 mapsFinland: 0.1.1
-mapsPERU: 0.1.2
+mapsPERU: 0.1.3
 mapsRinteractive: 1.0.1
 mapsapi: 0.5.0
 mapsf: 0.3.0
@@ -14673,7 +14673,7 @@ micromapST: 1.1.1
 micropan: '2.1'
 microplot: 1.0-44
 microsamplingDesign: 1.0.8
-microseq: 2.1.4
+microseq: 2.1.5
 microservices: 0.1.2
 microsimulation: 1.3.5
 microsynth: 2.0.31
@@ -14683,8 +14683,8 @@ midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
-migest: 2.0.0
-migraph: 0.8.2
+migest: 2.0.1
+migraph: 0.8.5
 migrate: 0.4.0
 migration.indices: 0.3.0
 migrbc: 2.0.9
@@ -16736,7 +16736,7 @@ plotAndPlayGTK: 0.8.78
 plotDK: 0.1.0
 plotGMM: 0.2.2
 plotGoogleMaps: '2.2'
-plotKML: 0.8-1
+plotKML: 0.8-2
 plotMCMC: 2.0.1
 plotMElm: 0.1.5
 plotROC: 2.2.1
@@ -17467,7 +17467,7 @@ quickpsy: 0.1.5.1
 quickregression: '0.2'
 quiddich: 1.0.0
 quietR: 0.1.0
-quincunx: 0.1.2
+quincunx: 0.1.4
 quint: 2.1.0
 quipu: 1.9.0
 quokar: 0.1.0
@@ -17654,7 +17654,7 @@ radous: 0.1.3
 radsafer: 2.2.5
 radtools: 1.0.6
 rafalib: 1.0.0
-ragg: 1.1.3
+ragg: 1.2.0
 rags2ridges: 2.2.5
 ragt2ridges: 0.3.4
 ragtop: 1.1.1
@@ -17704,7 +17704,7 @@ randomsearch: 0.2.0
 randquotes: 0.1.1
 randstr: 0.2.0
 randtests: '1.0'
-randtoolbox: 1.31.0
+randtoolbox: 1.31.1
 rangeBuilder: '1.5'
 rangeMapper: 2.0.2
 rangeModelMetadata: 0.1.4
@@ -18513,7 +18513,7 @@ ror: '1.2'
 rorcid: 0.7.0
 rorqual.morpho: 0.1.1
 rorutadis: 0.4.2
-rosetta: 0.3.6
+rosetta: 0.3.8
 rosetteApi: 1.14.4
 rosm: 0.2.5
 rospca: 1.0.4
@@ -19774,7 +19774,7 @@ spGoogle: 0.1-2
 spMC: 0.3.11
 spMaps: 0.4.0
 spNNGP: 0.1.6
-spNetwork: 0.2.0
+spNetwork: 0.2.1
 spTDyn: 2.0.1
 spTest: 0.2.5
 spThin: 0.2.0
@@ -19929,7 +19929,7 @@ spectre: 1.0.2
 spectrino: 2.0.0
 spectrolab: 0.0.16
 sped: 0.2-1
-speech: 0.1.3
+speech: 0.1.4
 speedR: 1.1-38
 speedRlibTF: 0.3-39
 speedRlibs: 1.1-36
@@ -20937,7 +20937,7 @@ tinter: 0.1.0
 tinyProject: 0.6.1
 tinyarray: 2.2.6
 tinylabels: 0.2.1
-tinyscholar: 0.1.3
+tinyscholar: 0.1.4
 tinyspotifyr: 0.2.2
 tinytest: 1.3.1
 tinytex: '0.34'
@@ -21186,7 +21186,7 @@ tsModel: '0.6'
 tsPI: 1.0.3
 tsSelect: 0.1.8
 tsallisqexp: 0.9-4
-tsapp: 1.0.3
+tsapp: 1.0.4
 tsbox: 0.3.1
 tsbridge: '1.1'
 tsbugs: '1.2'
@@ -21734,7 +21734,7 @@ wbsd: 1.0.0
 wbstats: 1.0.4
 wbsts: '2.1'
 wccsom: 1.2.8
-wcde: 0.0.2
+wcde: 0.0.3
 wcep: 1.0.0
 wdm: 0.2.2
 wdman: 0.2.5
