@@ -1023,7 +1023,7 @@ ClimClass: 2.1.0
 ClimDown: 1.0.8
 ClimInd: 0.1-3
 ClimMobTools: 0.3.9
-ClimProjDiags: 0.1.1
+ClimProjDiags: 0.1.2
 ClinReport: 0.9.1.8
 ClinSigMeasures: '1.0'
 ClinicalRobustPriors: 2.1-2
@@ -1566,6 +1566,7 @@ DoTC: '0.2'
 DockerParallel: 1.0.4
 Dodge: 0.9-2
 Dominance: 1.2.0
+DominoDataCapture: 0.1.0
 DominoPredictionLogging: 0.1.0
 Dopt: 0.1-4
 DoseFinding: 1.0-2
@@ -1682,7 +1683,7 @@ EMSHS: 1.0.0
 EMSNM: '1.0'
 EMSS: 1.1.0
 EMSaov: '2.3'
-EMT: '1.1'
+EMT: '1.2'
 EMV: '1.3'
 EMVC: '0.3'
 EMVS: 1.2.1
@@ -5337,7 +5338,7 @@ RcppXts: 0.0.4
 RcppZiggurat: 0.1.6
 Rcrawler: 0.1.9-1
 Rcriticor: '2.0'
-Rcsdp: 0.1.57.1
+Rcsdp: 0.1.57.2
 Rcssplot: 1.0.0
 Rcurvep: 1.2.0
 Rd: 0.2.0
@@ -5354,7 +5355,7 @@ Rdpack: 2.1.2
 Rdrools: 1.1.1
 Rdroolsjars: 1.0.1
 Rdrw: 1.0.2
-Rdsdp: 1.0.5
+Rdsdp: 1.0.5.1
 Rdsm: 2.1.1
 Rdta: 1.0.0
 Rdtq: '0.1'
@@ -6217,7 +6218,7 @@ SpiceFP: 0.1.0
 Spillover: 0.1.0.1
 Splinets: 1.0.0
 SplitGLM: 1.0.2
-SplitKnockoff: '0.8'
+SplitKnockoff: '1.0'
 SplitReg: 1.0.2
 SplitSoftening: 2.1-0
 SportsAnalytics: '0.2'
@@ -7145,7 +7146,7 @@ airt: 0.2.0
 ajv: 1.0.0
 akc: 0.9.5
 akiFlagger: 0.3.0
-akima: 0.6-2.2
+akima: 0.6-2.3
 akmbiclust: 0.1.0
 akmeans: '1.1'
 akmedoids: 1.3.0
@@ -8249,7 +8250,7 @@ btf: '1.2'
 bubblyr: 0.1.2
 bucky: 1.0.6
 buffeRs: '0.31'
-buildmer: '2.1'
+buildmer: '2.2'
 buildr: 0.1.0
 bujar: 0.2-9
 bulletcp: 1.0.0
@@ -9311,6 +9312,7 @@ crq: '0.3'
 crqa: 2.0.2
 crqanlp: '0.3'
 crrSC: '1.1'
+crrcbcv: '1.0'
 crrp: '1.0'
 crrstep: 2015-2.1
 crs: 0.15-33
@@ -11078,7 +11080,7 @@ ffp: 0.1.0
 ffscrapr: 1.4.6
 ffsimulator: 1.1.0
 ffstream: 0.1.6
-fftw: 1.0-6
+fftw: 1.0-6.1
 fftwtools: 0.9-11
 fgac: 0.6-1
 fgdr: 1.1.0
@@ -11792,7 +11794,7 @@ geomnet: 0.3.1
 geomorph: 4.0.1
 geomultistar: 1.1.0
 geonames: '0.999'
-geonapi: '0.4'
+geonapi: '0.5'
 geonet: 0.6.0
 geonetwork: 0.4.1
 geoops: 0.3.0
@@ -11841,6 +11843,7 @@ getProxy: '1.12'
 getTBinR: 0.7.1
 getable: 1.0.3
 gethr: 0.1.0
+getip: 0.1-0
 getlandsat: 0.2.0
 getmstatistic: 0.2.2
 getopt: 1.20.3
@@ -12108,7 +12111,7 @@ glmmTMB: 1.1.2.3
 glmmboot: 0.6.0
 glmmfields: 0.1.4
 glmmsr: 0.2.3
-glmnet: 4.1-2
+glmnet: 4.1-3
 glmnetUtils: 1.1.8
 glmnetcr: 1.0.6
 glmpath: '0.98'
@@ -12154,7 +12157,7 @@ gmgm: 1.1.0
 gmm: 1.6-6
 gmnl: 1.1-3.2
 gmodels: 2.18.1
-gmp: 0.6-2
+gmp: 0.6-2.1
 gms: 0.4.0
 gmt: 2.0.2
 gmum.r: 0.2.1
@@ -12371,7 +12374,7 @@ gsheet: 0.4.5
 gsignal: 0.3-2
 gsisdecoder: 0.0.1
 gskat: '1.0'
-gsl: 2.1-7
+gsl: 2.1-7.1
 gslnls: 1.0.2
 gsloid: 0.1.0
 gsmaRt: '1.0'
@@ -12609,7 +12612,7 @@ highMLR: 0.1.0
 highSCREEN: '0.4'
 highTtest: '1.1'
 highcharter: 0.8.2
-highfrequency: 0.9.0
+highfrequency: 0.9.1
 highlight: 0.5.0
 highlightHTML: 0.2.5
 highmean: '3.0'
@@ -14115,7 +14118,7 @@ ltsk: 1.0.8
 ltsspca: 0.1.0
 ltxsparklines: 1.1.2
 lubridate: 1.8.0
-luca: '1.0'
+luca: 1.0-6
 lucas: '1.0'
 lucid: '1.8'
 lucr: 0.2.0
@@ -14968,7 +14971,7 @@ modellingTools: 0.1.0
 modello: '0.1'
 modelplotr: 1.1.0
 modelr: 0.1.8
-modelsummary: 0.9.2
+modelsummary: 0.9.3
 modeltests: 0.1.4
 modeltime: 1.1.0
 modeltime.ensemble: 1.0.0
@@ -15176,6 +15179,7 @@ mstherm: 0.4.7
 mstknnclust: 0.3.1
 mstrio: 11.3.0.1
 msu: 0.0.1
+mtb: 0.1.0
 mtconnectR: 1.2.1
 mtcreator: '0.1'
 mthapower: 0.1.1
@@ -15584,7 +15588,7 @@ nlmixr: 2.0.6
 nlmm: 1.0.1
 nlmrt: 2016.3.2
 nlnet: '1.4'
-nloptr: 1.2.2.2
+nloptr: 1.2.2.3
 nloptwrap: 0.5-7
 nlpred: 1.0.1
 nlr: 0.1-3
@@ -16394,7 +16398,7 @@ pcrcoal: 1.2.0
 pcrsim: 1.0.2
 pcse: 1.9.1.1
 pcsstools: 0.1.1
-pct: 0.9.1
+pct: 0.9.3
 pcts: '0.15'
 pcurve: 0.6-4
 pdR: '1.7'
@@ -18069,7 +18073,7 @@ relevance: '1.3'
 relevent: '1.1'
 relgam: '1.0'
 reliaR: '0.01'
-reliabilitydiag: 0.1.3
+reliabilitydiag: 0.2.0
 relimp: 1.0-5
 relliptical: 0.1.0
 relsurv: 2.2-5
@@ -18163,7 +18167,7 @@ retistruct: 0.6.3
 retractcheck: 1.0.0
 retriever: 0.2.0
 retrodesign: 0.1.0
-retroharmonize: 0.1.17
+retroharmonize: 0.2.0
 retrosheet: 1.1.4
 retry: 0.1.0
 reutils: 0.2.3
@@ -18768,7 +18772,7 @@ runStat: '1.1'
 runes: 0.1.0
 runexp: 0.2.1
 runittotestthat: 0.0-2
-runjags: 2.2.0-2
+runjags: 2.2.0-3
 runner: 0.4.1
 runonce: 0.2.3
 runstats: 1.1.0
@@ -19015,7 +19019,7 @@ sclero: '0.2'
 sclr: 0.3.1
 scmamp: '0.2'
 scope: '2.2'
-scoper: 1.1.0
+scoper: 1.2.0
 scopr: 0.3.3
 score: 1.0.2
 scorecard: 0.3.5
@@ -19235,7 +19239,7 @@ servr: '0.23'
 sesem: 1.0.2
 session: 1.0.3
 sessionTools: 0.9-2
-sessioninfo: 1.2.0
+sessioninfo: 1.2.1
 set: '1.2'
 set6: 0.2.4
 setRNG: 2013.9-1
@@ -19550,7 +19554,7 @@ sitar: 1.2.0
 siteymlgen: 1.0.0
 sitmo: 2.0.2
 sitools: '1.4'
-sitree: 0.1-10
+sitree: 0.1-9
 sitreeE: 0.0-7
 sitsfeats: 0.0.1
 sivipm: 1.1-4
@@ -19945,7 +19949,7 @@ speedR: 1.1-38
 speedRlibTF: 0.3-39
 speedRlibs: 1.1-36
 speedglm: 0.3-3
-speedycode: 0.1.0
+speedycode: 0.2.0
 spef: 1.0.9
 speff2trial: 1.0.4
 spellcheckr: 0.1.2
@@ -20021,7 +20025,7 @@ sport: 0.2.0
 sportyR: 1.0.1
 spotGUI: 0.2.3
 spotidy: 0.1.0
-spotifyr: 2.2.1
+spotifyr: 2.2.3
 spotoroo: 0.1.1
 spp: 1.16.0
 sppmix: 1.0.2
@@ -20857,7 +20861,7 @@ tidygapminder: 0.1.1
 tidygate: 0.4.7
 tidygenomics: 0.1.2
 tidygeoRSS: 0.0.1
-tidygeocoder: 1.0.4
+tidygeocoder: 1.0.5
 tidygraph: 1.2.0
 tidyhydat: 0.5.4
 tidyimpute: 0.1.0
@@ -21046,6 +21050,7 @@ toxplot: 0.1.1
 toxtestD: '2.0'
 tpAUC: 2.1.1
 tpe: '1.0'
+tpfp: 0.0.1
 tpn: '1.1'
 tpr: 0.3-2
 tpsDesign: '1.3'
@@ -21419,7 +21424,7 @@ uqr: 1.0.0
 urbin: 0.1-12
 urca: 1.3-0
 urlchecker: 1.0.0
-urlshorteneR: 1.4.3
+urlshorteneR: 1.5.1
 urltools: 1.7.3
 urn: 2.2.1
 uroot: 2.1-2
@@ -21558,7 +21563,7 @@ vectorwavelet: 0.1.0
 vegalite: 0.6.1
 vegan: 2.5-7
 vegan3d: 1.1-2
-vegawidget: 0.3.2
+vegawidget: 0.3.3
 vegclust: 2.0.0
 vegdata: 0.9.8
 vegetarian: '1.2'
@@ -21609,7 +21614,7 @@ viromeBrowser: 1.1.0
 virtualNicheR: '1.0'
 virtualPollen: 1.0.0
 virtualspecies: 1.5.1
-virtuoso: 0.1.7
+virtuoso: 0.1.8
 virustotal: 0.2.1
 visNetwork: 2.1.0
 visR: 0.2.0
