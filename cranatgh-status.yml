@@ -864,7 +864,7 @@ COST: 0.1.0
 COUNT: 1.3.4
 COUSCOus: 1.0.0
 COVID19: 2.3.2
-COVIDIBGE: 0.1.6
+COVIDIBGE: 0.1.7
 COZIGAM: 2.0-3
 COveR: 1.0.3
 CP: '1.6'
@@ -2724,6 +2724,7 @@ INSPIRE: '1.5'
 INTRIGUE: 0.1.0
 IOHanalyzer: 0.1.6.1
 IOHexperimenter: 0.1.4
+IP: '0.1'
 IPCAPS: 1.1.8
 IPCWK: '1.0'
 IPDFileCheck: 0.7.2
@@ -3845,6 +3846,7 @@ NHMSAR: '1.17'
 NHPoisson: '3.3'
 NHSDataDictionaRy: 1.2.5
 NHSRdatasets: 0.3.0
+NHSRplotthedots: 0.1.0
 NIMAA: 0.1.0
 NIPTeR: 1.0.2
 NIRStat: '1.1'
@@ -3974,6 +3976,7 @@ NormPsy: 1.0.8
 NormalBetaPrime: '2.2'
 NormalGamma: '1.1'
 NormalLaplace: 0.3-0
+NormalityAssessment: 0.0.1
 NormalizeMets: '0.25'
 NostalgiR: 1.0.2
 Nozzle.R1: 1.1-1
@@ -4475,7 +4478,7 @@ PowerTOST: 1.5-3
 PowerUpR: 1.1.0
 PowerVenn: 0.0.1
 PowerfulMaxEigenpair: 0.1.1
-PracTools: 1.2.2
+PracTools: 1.2.3
 PreKnitPostHTMLRender: 0.1.0
 PreProcess: 3.1.7
 PreProcessing: 0.1.0
@@ -5019,7 +5022,7 @@ RRRR: 1.1.0
 RRTCS: 0.0.4
 RRate: '1.0'
 RRedshiftSQL: 0.1.2
-RRphylo: 2.5.8
+RRphylo: 2.5.9
 RRreg: 0.7.3
 RSA: 0.10.4
 RSADBE: '1.0'
@@ -5291,6 +5294,7 @@ RcppCWB: 0.4.3
 RcppCensSpatial: 0.1.0
 RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
+RcppClock: '1.0'
 RcppDE: 0.1.6
 RcppDL: 0.0.5
 RcppDate: 0.0.3
@@ -6023,7 +6027,7 @@ SequenceSpikeSlab: 0.1.1
 Sequential: '4.1'
 SequentialDesign: '1.0'
 SesIndexCreatoR: 1.0-2
-SetMethods: '2.6'
+SetMethods: '3.0'
 SetRank: 1.1.0
 SetTest: 0.2.0
 Seurat: 4.0.5
@@ -6701,7 +6705,7 @@ UnivRNG: 1.2.3
 UpSetR: 1.4.0
 UsingR: 2.0-6
 UtilityFrailtyPH12: '1.0'
-V8: 3.4.2
+V8: 3.5.0
 VA: '1.0'
 VALERIE: 1.1.0
 VAM: 1.0.0
@@ -8666,7 +8670,7 @@ ciu: 0.5.0
 ciuupi: 1.1.0
 ciuupi2: 1.0.1
 civis: 3.0.0
-cjbart: 0.1.0
+cjbart: 0.2.0
 cjoint: 2.1.0
 ck37r: 1.0.3
 ckanr: 0.6.0
@@ -9227,7 +9231,7 @@ cplexAPI: 1.4.0
 cplm: 0.7-9
 cplots: 0.4-0
 cpm: '2.3'
-cpp11: 0.4.0
+cpp11: 0.4.1
 cppRouting: '2.0'
 cppcor: '1.2'
 cpr: 0.2.3
@@ -9492,7 +9496,7 @@ dagbag: '1.1'
 dagirlite: 0.1.0
 dagitty: 0.3-1
 daiR: 0.9.0
-dalmatian: 0.6.1
+dalmatian: 0.6.3
 dam: 0.0.1
 dampack: 1.0.1
 damr: 0.3.7
@@ -9879,6 +9883,7 @@ dimensio: 0.2.2
 dimensionsR: 0.0.2
 dina: 2.0.0
 dinamic: '1.0'
+dineR: 1.0.0
 dineq: 0.1.0
 dint: 2.1.3
 dipm: '1.2'
@@ -10057,6 +10062,7 @@ dominanceanalysis: 2.0.0
 domino: 0.3.1
 domir: 0.2.0
 donut: 1.0.1
+doolkit: 1.0.0
 doremi: 1.0.0
 dosearch: 1.0.8
 dosedesignR: 0.2.4
@@ -10310,7 +10316,7 @@ ecdfHT: 0.1.1
 ecespa: 1.1-13
 ech: 0.1.1.2
 echarts4r: 0.4.2
-echarty: 1.4.0
+echarty: 1.4.1
 echelon: 0.1.0
 echo.find: 4.0.1
 echogram: 0.1.2
@@ -11487,7 +11493,7 @@ fuzzyreg: '0.5'
 fuzzywuzzyR: 1.0.5
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
-fwildclusterboot: '0.4'
+fwildclusterboot: '0.5'
 fwsim: 0.3.4
 fxTWAPLS: 0.0.7
 fxregime: 1.0-4
@@ -12602,7 +12608,7 @@ hierSDR: '0.1'
 hierarchicalDS: '3.0'
 hierarchicalSets: 1.0.2
 hierband: '1.0'
-hierbase: 0.1.0
+hierbase: 0.1.1
 hierformR: 0.1.0
 hierfstat: 0.5-7
 hiertest: '1.1'
@@ -13260,6 +13266,7 @@ isocalcR: 0.0.2
 isocat: 0.2.6
 isocir: 2.0-6
 isodistrreg: 0.1.0
+isogeochem: 1.0.8.3
 isokernel: 0.1.0
 isopam: 0.9-13
 isopat: '1.0'
@@ -13404,7 +13411,7 @@ jsonld: '2.2'
 jsonlite: 1.7.2
 jsonstat: 0.0.2
 jsontools: 0.1.0
-jsonvalidate: 1.3.1
+jsonvalidate: 1.3.2
 jsr223: 0.3.4
 jstable: 1.0.7
 jstor: 0.3.9
@@ -13873,7 +13880,7 @@ linearQ: '2.0'
 lineartestr: 1.0.0
 linemap: 0.2.0
 lineqGPR: 0.1.1
-lineup: 0.38-3
+lineup: '0.40'
 lineup2: '0.6'
 lingmatch: 1.0.2
 lingtypology: 1.1.7
@@ -14213,7 +14220,7 @@ makeProject: '1.0'
 makeR: '1.0'
 makedummies: 1.2.1
 makemyprior: 1.0.0
-makepipe: 0.0.4
+makepipe: 0.0.5
 makesweave: 0.3.0
 maketools: 1.2.0
 malan: 1.0.2
@@ -16530,7 +16537,7 @@ pgee.mixed: 0.1.0
 pgfSweave: 1.3.0
 pgirmess: 1.7.0
 pglm: 0.2-3
-pgmm: 1.2.4
+pgmm: 1.2.5
 pgnorm: '2.0'
 pgraph: '1.6'
 pgs: 0.4-0
@@ -16828,6 +16835,7 @@ pnn: 1.0.1
 poLCA: 1.4.1
 pocketapi: '0.1'
 pocrm: '0.13'
+podcleaner: 0.1.1
 podr: 0.0.5
 poems: 1.0.1
 pogit: 1.2.0
@@ -17504,7 +17512,7 @@ r2dii.plot: 0.2.0
 r2glmm: 0.1.2
 r2lUniv: '0.9'
 r2lh: '0.7'
-r2mlm: 0.3.0
+r2mlm: 0.3.1
 r2pmml: 0.26.0
 r2pptx: 0.1.0
 r2r: 0.1.1
@@ -17523,7 +17531,7 @@ r6extended: 0.1.2
 r6methods: 0.1.0
 rADA: 1.1.9
 rARPACK: 0.11-0
-rATTAINS: 0.1.2
+rATTAINS: 0.1.3
 rAltmetric: 0.7.0
 rAmCharts: 2.1.13
 rAmCharts4: 1.5.0
@@ -17601,7 +17609,7 @@ rNOMADS: 2.5.0
 rNeighborGWAS: 1.2.4
 rNeighborQTL: 1.1.2
 rODE: 0.99.6
-rPACI: 0.2.1
+rPACI: 0.2.2
 rPAex: 1.0.1
 rPackedBar: 0.2.2
 rPanglaoDB: 0.2.1
@@ -17840,7 +17848,7 @@ rcdd: '1.4'
 rcdk: 3.6.0
 rcdklibs: '2.3'
 rchallenge: 1.3.4
-rcheology: 4.1.1.0
+rcheology: 4.1.2.0
 rchess: '0.1'
 rchie: 1.0.2
 rcicr: 0.3.4.1
@@ -18431,7 +18439,7 @@ rnpn: 1.2.3
 rnr: 0.2.1
 rnrfa: 2.0.4
 roadoi: 0.7.1
-roahd: 1.4.2
+roahd: 1.4.3
 robCompositions: 2.3.1
 robFitConGraph: 0.1.0
 robber: 0.2.2
@@ -18959,6 +18967,7 @@ scDHA: 1.1.2
 scDIFtest: 0.1.1
 scDiffCom: 0.1.0
 scINSIGHT: 0.1.1
+scITD: 1.0.0
 scLink: 1.0.1
 scMappR: 1.0.7
 scModels: 1.0.2
@@ -19581,7 +19590,7 @@ skilljaR: 0.0.1
 skills: '1.0'
 skillsengineeR: 0.2.0
 skimr: 2.1.3
-sklarsomega: 2.0-1
+sklarsomega: '3.0'
 skm: 0.1.5.4
 skmeans: 0.2-13
 sknifedatar: 0.1.2
@@ -21788,6 +21797,7 @@ wec: 0.4-1
 weco: '1.2'
 wedge: 1.0-3
 weed: 1.1.1
+wehoop: 1.2.0
 weibull4: 1.0.0
 weibullness: 1.19.8
 weibulltools: 2.0.0
@@ -22065,7 +22075,7 @@ yummlyr: 0.1.1
 zCompositions: 1.3.4
 zFactor: 0.1.9
 zGPS.AO: 0.1.0
-zTree: 1.0.6
+zTree: 1.0.7
 zalpha: 0.2.0
 zbank: 0.1.0
 zcurve: 1.0.9
