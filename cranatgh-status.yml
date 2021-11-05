@@ -2413,7 +2413,7 @@ GiniDistance: 0.1.0
 GiniWegNeg: 1.0.1
 Giza: '1.0'
 GlarmaVarSel: '1.0'
-GlmSimulatoR: 0.2.4
+GlmSimulatoR: 0.2.5
 GlobalDeviance: '0.4'
 GlobalFit: '1.2'
 GlobalOptions: 0.1.2
@@ -3046,7 +3046,7 @@ LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.1.0
 LMMsolver: 1.0.0
-LMMstar: 0.3.3
+LMMstar: 0.4.0
 LMest: 3.0.2
 LMfilteR: 0.1.3
 LMoFit: 0.1.6
@@ -4000,7 +4000,7 @@ ODS: 0.2.0
 OData: '0.6'
 ODataQuery: 0.5.3
 OECD: 0.2.4
-OEFPIL: 0.1.0
+OEFPIL: 0.1.1
 OGI: 1.0.0
 OHPL: '1.4'
 OIdata: '1.0'
@@ -6732,6 +6732,7 @@ VDJgermlines: '0.1'
 VDSM: 0.1.1
 VDSPCalibration: '1.0'
 VEwaning: '1.1'
+VEwaningVariant: '1.1'
 VFP: 1.3.1
 VFS: 1.0.2
 VGAM: 1.1-5
@@ -7631,7 +7632,7 @@ baseline: 1.3-1
 basemaps: 0.0.1
 basetheme: 0.1.2
 basf: 0.2.0
-basicMCMCplots: 0.2.6
+basicMCMCplots: 0.2.7
 basicTrendline: 2.0.5
 basicspace: '0.24'
 basictabler: 1.0.2
@@ -8542,6 +8543,7 @@ cfbfastR: 1.6.4
 cfda: 0.9.9
 cfdecomp: 0.4.0
 cffdrs: 1.8.18
+cffr: 0.1.0
 cfid: 0.1.2
 cfma: '1.0'
 cfmortality: 0.3.0
@@ -9058,7 +9060,7 @@ conover.test: 1.1.5
 conquer: 1.2.1
 conquestr: 0.8.5
 conserveR: 1.0.4
-consort: 0.2.0
+consort: 1.0.0
 consortr: 0.9.1
 constants: 1.0.1
 constellation: 0.2.0
@@ -9307,7 +9309,7 @@ crossmap: 0.3.0
 crossmatch: 1.3-1
 crossrun: 0.1.0
 crosstable: 0.2.2
-crosstalk: 1.1.1
+crosstalk: 1.2.0
 crosstalkr: 0.7.0
 crossval: 1.0.4
 crosswalkr: 0.2.6
@@ -9391,6 +9393,7 @@ cubeview: 0.2.0
 cubfits: 0.1-3
 cubicBsplines: 1.0.0
 cubing: 1.0-5
+cuda.ml: 0.3.0
 cudaBayesreg: 0.3-9
 cudaBayesregData: 0.3-8
 cudia: '0.1'
@@ -12027,7 +12030,7 @@ ggswissmaps: 0.1.1
 ggtern: 3.3.5
 ggtext: 0.1.1
 ggthemes: 4.2.4
-ggtikz: 0.0.1
+ggtikz: 0.1.0
 ggupset: 0.3.0
 ggvenn: 0.1.9
 ggversa: 0.0.1
@@ -12856,7 +12859,7 @@ iNZightMR: 2.2.5
 iNZightPlots: 2.13.3
 iNZightRegression: 1.3.1
 iNZightTS: 1.5.8
-iNZightTools: 1.12.0
+iNZightTools: 1.12.1
 iNextPD: 0.3.2
 iRF: 2.0.0
 iRafNet: 1.1-1
@@ -13246,7 +13249,7 @@ irtDemo: 0.1.4
 irtGUI: '0.2'
 irtProb: '1.2'
 irtoys: 0.2.1
-irtplay: 1.6.2
+irtplay: 1.6.3
 irtrees: 0.1.0
 irtreliability: 0.1-1
 isa2: 0.3.5
@@ -15239,7 +15242,7 @@ multicastR: 2.0.0
 multichull: 1.0.0
 multiclassPairs: 0.4.3
 multicmp: '1.1'
-multicolor: 0.1.4
+multicolor: 0.1.5
 multicon: '1.6'
 multicool: 0.1-12
 multicore: '0.2'
@@ -16816,7 +16819,7 @@ pmcgd: '1.1'
 pmclust: 0.2-1
 pmd: 0.2.1
 pmdplyr: 0.3.3
-pmetar: 0.3.1
+pmetar: 0.3.2
 pmfdR: '1.0'
 pmg: 0.9-43
 pmhtutorial: '1.5'
@@ -17856,7 +17859,7 @@ rcheology: 4.1.2.0
 rchess: '0.1'
 rchie: 1.0.2
 rcicr: 0.3.4.1
-rcites: 1.1.0
+rcites: 1.2.0
 rcitoid: 0.1.0
 rclimateca: 1.0.3
 rclinicaltrials: '1.4'
@@ -18923,7 +18926,7 @@ sankey: 1.0.2
 sankeywheel: 0.1.0
 sanon: '1.6'
 santaR: '1.0'
-santoku: 0.5.0
+santoku: 0.6.0
 sanzo: 0.1.0
 saotd: 0.3.0
 sapa: 2.0-3
@@ -19339,7 +19342,7 @@ shinyEffects: 0.2.0
 shinyEventLogger: 0.1.1
 shinyFeedback: 0.4.0
 shinyFiles: 0.9.0
-shinyGovstyle: 0.0.6
+shinyGovstyle: 0.0.7
 shinyHeatmaply: 0.2.0
 shinyIRT: '0.1'
 shinyKGode: 1.0.5
@@ -19368,7 +19371,7 @@ shinyanimate: 0.3.0
 shinyauthr: 1.0.0
 shinybatch: '0.3'
 shinybootstrap2: 0.2.1
-shinybrms: 1.5.2
+shinybrms: 1.6.0
 shinybusy: 0.2.2
 shinycssloaders: 1.0.0
 shinycustomloader: 0.9.0
@@ -19535,7 +19538,7 @@ simsalapar: 1.0-10
 simsem: 0.5-16
 simsl: 0.2.1
 simstandard: 0.6.3
-simstudy: 0.2.1
+simstudy: 0.3.0
 simsurv: 1.0.0
 simtimer: 4.0.0
 simtrait: 1.0.21
@@ -20969,7 +20972,7 @@ tinylabels: 0.2.1
 tinyscholar: 0.1.4
 tinyspotifyr: 0.2.2
 tinytest: 1.3.1
-tinytex: '0.34'
+tinytex: '0.35'
 tiobeindexr: 0.1.1
 tipitaka: 0.1.2
 tipom: 1.0.2-1
@@ -21761,7 +21764,7 @@ waveslim: 1.8.2
 wavethresh: 4.6.8
 wayback: 0.2.4
 waydown: 1.1.0
-wbacon: 0.5-2
+wbacon: '0.6'
 wbs: '1.4'
 wbsd: 1.0.0
 wbstats: 1.0.4
@@ -21981,7 +21984,7 @@ xdcclarge: 0.1.0
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.27'
+xfun: '0.28'
 xgb2sql: 0.1.2
 xgboost: 1.4.1.1
 xgobi: 1.2-15
