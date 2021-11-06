@@ -363,7 +363,7 @@ BGGM: 2.0.4
 BGLR: 1.0.8
 BGPhazard: 2.1.0
 BGSIMD: '1.0'
-BGVAR: 2.4.2
+BGVAR: 2.4.3
 BGmisc: '0.1'
 BH: 1.75.0-0
 BHAI: 0.99.2
@@ -1940,7 +1940,7 @@ FMradio: 1.1.1
 FMsmsnReg: '1.0'
 FNN: 1.1.3
 FOCI: 0.1.3
-FORTLS: 1.0.5
+FORTLS: 1.0.6
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
@@ -2970,7 +2970,7 @@ Kmisc: 0.5.0
 KnapsackSampling: 0.1.0
 KneeArrower: 1.0.0
 KnockoffScreen: 0.2.0
-Knoema: 0.1.18
+Knoema: 0.1.19
 KnowBR: '2.0'
 KnowGRRF: '1.0'
 KoNLP: 0.80.2
@@ -5297,7 +5297,7 @@ RcppCWB: 0.4.3
 RcppCensSpatial: 0.1.0
 RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
-RcppClock: '1.0'
+RcppClock: '1.1'
 RcppDE: 0.1.6
 RcppDL: 0.0.5
 RcppDate: 0.0.3
@@ -5631,7 +5631,7 @@ Rwinsteps: 1.0-1.1
 Rwofost: 0.8-3
 Rwordseg: 0.3-2
 Rwtss: 0.9.1
-RxCEcolInf: 0.1-4
+RxCEcolInf: 0.1-5
 RxODE: 1.1.2
 RxnSim: 1.0.3
 Rxnat: 1.0.8
@@ -8133,7 +8133,7 @@ bootRes: '1.2'
 bootSVD: '1.1'
 bootStepAIC: 1.2-0
 bootTimeInference: 0.1.0
-bootUR: 0.3.0
+bootUR: 0.4.1
 bootcluster: 0.2.5
 bootf2: 0.4.1
 bootfs: '1.4'
@@ -8367,7 +8367,7 @@ captioner: 2.2.3
 captr: 0.3.0
 capushe: 1.1.1
 capwire: 1.1.4
-car: 3.0-11
+car: 3.0-12
 carData: 3.0-4
 carSurv: 1.0.0
 caracas: 1.1.1
@@ -8606,7 +8606,7 @@ chess: 1.0.1
 chest: 0.3.5
 chi: '0.1'
 chi2x3way: '1.1'
-chicane: 0.1.7
+chicane: 0.1.8
 chickn: 1.2.3
 childdevdata: 1.1.0
 childesr: 0.2.2
@@ -8813,7 +8813,7 @@ clustsig: '1.1'
 clustvarsel: 2.3.4
 clv: 0.3-2.2
 cmR: 1.0.3
-cmaRs: 0.1.0
+cmaRs: 0.1.1
 cmaes: 1.0-11
 cmaesr: 1.0.3
 cmcR: 0.1.6
@@ -9069,7 +9069,7 @@ constrainedKriging: 0.2.4
 contTimeCausal: '1.0'
 contact: 1.2.8
 contactdata: 0.2.0
-container: 0.3.0
+container: 1.0.0
 contentid: 0.0.12
 contextual: 0.9.8
 contfrac: 1.1-12
@@ -10324,7 +10324,7 @@ ecdfHT: 0.1.1
 ecespa: 1.1-13
 ech: 0.1.1.2
 echarts4r: 0.4.2
-echarty: 1.4.1
+echarty: 1.4.2
 echelon: 0.1.0
 echo.find: 4.0.1
 echogram: 0.1.2
@@ -10679,7 +10679,7 @@ esc: 0.5.1
 escalation: 0.1.4
 esd4all: 1.0-9
 eseis: 0.5.0
-esemifar: 1.0.0
+esemifar: 1.0.1
 eshrink: 0.1.2
 esmisc: 0.0.3
 esmprep: 0.2.0
@@ -10781,7 +10781,7 @@ exdex: 1.0.1
 exdqlm: 0.1.2
 exif: 0.1.0
 exifr: 0.3.2
-exiftoolr: 0.1.5
+exiftoolr: 0.1.6
 exoplanets: 0.2.2
 exp2flux: '0.1'
 expDB: 0.1.0
@@ -12413,7 +12413,7 @@ gtable: 0.3.0
 gtcorr: 0.2-1
 gte: 1.2-2
 gtfs2gps: 1.5-4
-gtfsio: 0.2.0
+gtfsio: 1.0.0
 gtfsrouter: 0.0.5
 gtfstools: 0.1.0
 gtheory: 0.1.2
@@ -13352,7 +13352,7 @@ jaod: 0.3.0
 jarbes: 1.7.2
 jcext: 0.1.1
 jcolors: 0.0.4
-jcp: '1.1'
+jcp: '1.2'
 jds.rmd: 0.3.0
 jdx: 0.1.4
 jeek: 1.1.1
@@ -13397,7 +13397,7 @@ jointseg: 1.0.2
 jomo: 2.7-2
 jordan: 1.0-1
 josaplay: 0.1.3
-jose: 1.1.0
+jose: 1.2.0
 journalabbr: 0.3.0
 joyn: 0.1.3
 jpeg: 0.1-9
@@ -15446,7 +15446,7 @@ ncar: 0.4.4
 ncbit: 2013.03.29
 ncdf: '1.6'
 ncdf.tools: 0.7.1.295
-ncdf4: '1.17'
+ncdf4: 1.17.1
 ncdf4.helpers: 0.3-6
 ncdfgeom: 1.1.1
 ncdump: 0.0.3
@@ -16373,7 +16373,7 @@ pbbd: 1.0.0
 pbdBASE: 0.5-3
 pbdDEMO: 0.3-1
 pbdDMAT: 0.5-1
-pbdMPI: 0.4-3
+pbdMPI: 0.4-4
 pbdNCDF4: 0.1-4
 pbdPROF: 0.4-0
 pbdRPC: 0.2-1
@@ -16833,7 +16833,7 @@ pmhtutorial: '1.5'
 pmlbr: 0.2.0
 pmledecon: 0.1.0
 pmlr: '1.0'
-pmml: 2.5.0
+pmml: 2.5.1
 pmmlTransformations: 1.3.3
 pmpp: 0.1.1
 pmr: 1.2.5
@@ -19599,7 +19599,7 @@ skeletor: 1.0.4
 skellam: 0.2.0
 sketch: 1.1.17
 sketcher: 0.1.3
-skewMLRM: '1.2'
+skewMLRM: '1.3'
 skewlmm: 1.0.0
 skewt: '0.1'
 skewtools: 0.1.1
@@ -19607,7 +19607,7 @@ skilljaR: 0.0.1
 skills: '1.0'
 skillsengineeR: 0.2.0
 skimr: 2.1.3
-sklarsomega: '3.0'
+sklarsomega: 3.0-1
 skm: 0.1.5.4
 skmeans: 0.2-13
 sknifedatar: 0.1.2
