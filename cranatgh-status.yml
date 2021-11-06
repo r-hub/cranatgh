@@ -1696,7 +1696,7 @@ ENiRG: '1.0'
 ENmisc: 1.2-7
 EPGLM: '1.1'
 EPGMr: 1.0.0
-EPP: 0.3.3
+EPP: 0.3.4
 EPT: 0.7.5
 EPX: 1.0.4
 EQL: 1.0-1
@@ -4210,7 +4210,7 @@ PINSPlus: 2.0.5
 PIPS: 1.0.1
 PK: 1.3-5
 PKI: 0.1-9
-PKLMtest: 1.0.0
+PKLMtest: 1.0.1
 PKNCA: 0.9.5
 PKPDmisc: 2.1.2
 PKPDmodels: 0.3.2
@@ -4522,7 +4522,7 @@ ProfessR: 2.4-1
 ProfileLikelihood: '1.1'
 ProfoundData: 0.2.1
 ProgGUIinR: 0.0-4
-ProjectManagement: 1.4.0
+ProjectManagement: 1.4.3
 ProjectTemplate: 0.10.2
 ProjectionBasedClustering: 1.1.6
 ProliferativeIndex: 1.0.1
@@ -5111,7 +5111,7 @@ RVA: 0.0.5
 RVAideMemoire: 0.9-80
 RVCompare: 0.1.5
 RVFam: '1.1'
-RVIpkg: 0.2.6
+RVIpkg: 0.2.8
 RVPedigree: 0.0.3
 RVenn: 1.1.0
 RVerbalExpressions: 0.1.0
@@ -5459,7 +5459,7 @@ Rgraphviz: 1.18.1
 Rgretl: 0.2.2
 Rhh: '1.0'
 Rhpc: 0.21-247
-RhpcBLASctl: 0.21-247
+RhpcBLASctl: 0.21-247.1
 RiDMC: 0.10-15
 RiboSort: '1.1'
 Ricetl: 0.2.5
@@ -5731,7 +5731,7 @@ SE.EQ: '1.0'
 SE.IGE: '1.0'
 SEA: '2.0'
 SEAA: 0.9.6
-SEAGLE: 1.0.0
+SEAGLE: 1.0.1
 SEAsic: '0.1'
 SECP: 0.1-4
 SEER2R: '1.0'
@@ -6338,7 +6338,7 @@ SurviMChd: 0.1.1
 SvyNom: '1.1'
 SwarmSVM: 0.1-6
 SweaveListingUtils: 0.7.7
-SwimmeR: 0.12.0
+SwimmeR: 0.13.0
 SwissAir: 1.1.5
 SyNet: '2.0'
 SyScSelection: 1.0.2
@@ -7114,7 +7114,7 @@ agce: '1.2'
 ageprior: 0.9.2
 aggregation: 1.0.1
 aggrisk: '1.0'
-aghq: 0.2.1
+aghq: 0.3.0
 agilp: '1.0'
 aglm: 0.4.0
 agop: 0.2-3
@@ -8225,7 +8225,7 @@ brotli: '1.2'
 brr: 1.0.0
 brranching: 0.7.0
 brt: 1.3.0
-bruceR: 0.7.2
+bruceR: 0.7.3
 brunnermunzel: 1.4.1
 brxx: 0.1.2
 bs: '1.0'
@@ -10145,7 +10145,7 @@ dropR: '0.1'
 droptest: 0.1.3
 drord: 1.0.1
 drought: '1.0'
-drpop: 0.0.2
+drpop: 0.0.3
 drsmooth: 1.9.0
 drtmle: 1.1.0
 drugCombo: 1.2.1
@@ -10934,7 +10934,7 @@ falsy: '1.0'
 fam.recrisk: '0.1'
 fam2r: '1.2'
 famSKATRC: 1.1.0
-fame: '2.21'
+fame: 2.21.1
 fanc: '2.2'
 fancycut: 0.1.2
 fanovaGraph: '1.5'
@@ -11042,7 +11042,7 @@ fdadensity: 0.1.2
 fdakma: 1.2.1
 fdaoutlier: 0.2.0
 fdapace: 0.5.7
-fdapaceShiny: 1.0.1
+fdapaceShiny: 1.0.3
 fdasrvf: 1.9.7
 fdatest: '2.1'
 fdcov: 1.1.0
@@ -11354,6 +11354,7 @@ fracdist: 0.1.1
 fracprolif: 1.0.7
 fractD: 0.1.0
 fractal: 2.0-4
+fractalRegression: '1.0'
 fractaldim: 0.8-5
 fractalrock: 1.1.0
 fractional: 0.1.3
@@ -12126,6 +12127,7 @@ glmmboot: 0.6.0
 glmmfields: 0.1.4
 glmmsr: 0.2.3
 glmnet: 4.1-3
+glmnetSE: 0.0.1
 glmnetUtils: 1.1.8
 glmnetcr: 1.0.6
 glmpath: '0.98'
@@ -14448,6 +14450,7 @@ mcr: 1.2.2
 mcreplicate: 0.1.2
 mcsm: '1.0'
 mctest: 1.3.1
+mctq: 0.1.0
 mcunit: 0.3.2
 mcvis: 1.0.8
 mcwr: 1.0.0
@@ -14988,7 +14991,7 @@ modellingTools: 0.1.0
 modello: '0.1'
 modelplotr: 1.1.0
 modelr: 0.1.8
-modelsummary: 0.9.3
+modelsummary: 0.9.4
 modeltests: 0.1.4
 modeltime: 1.1.0
 modeltime.ensemble: 1.0.0
@@ -15331,7 +15334,7 @@ mvMonitoring: 0.1.0
 mvPot: 0.1.5
 mvProbit: 0.1-10
 mvQuad: 1.0-6
-mvSLOUCH: 2.6.5
+mvSLOUCH: '2.7'
 mvShapiroTest: '1.0'
 mvabund: 4.1.12
 mvbutils: 2.8.232
@@ -15396,7 +15399,7 @@ naaccr: 1.0.0
 nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.17.1
-naijR: 0.3.2
+naijR: 0.3.3
 naivebayes: 0.9.7
 naivereg: 1.0.5
 nakagami: 1.1.0
@@ -17269,7 +17272,7 @@ ptest: 1.0-8
 ptf: 0.0.1
 ptinpoly: '2.8'
 ptm: 0.2.4
-ptmixed: 1.0.3
+ptmixed: 1.1.0
 ptproc: '1.0'
 pts2polys: 0.1.3
 ptspotter: 1.0.1
@@ -17419,7 +17422,7 @@ qrmtools: 0.0-14
 qrng: 0.0-8
 qrnn: 2.0.5
 qrsvm: 0.2.1
-qs: 0.25.1
+qs: 0.25.1.1
 qsimulatR: '1.0'
 qsort: 0.2.3
 qst: 0.1.2
@@ -17924,7 +17927,7 @@ rdomains: 0.2.0
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '2.0'
-rdrobust: 1.0.6
+rdrobust: 1.0.7
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
 rdtLite: '1.3'
@@ -20188,7 +20191,7 @@ starter: 0.1.6
 startup: 0.15.0
 startupmsg: 0.9.6
 starvars: 1.1.9
-starvz: 0.6.0
+starvz: 0.7.0
 starwarsdb: 0.1.2
 stashR: '0.3'
 stat.extend: 0.1.4
@@ -21158,7 +21161,7 @@ treespace: 1.1.4.1
 treestartr: 0.1.0
 treestructure: 0.1.0
 treethresh: 0.1-9
-treetop: 0.0.1
+treetop: 0.0.3
 trekcolors: 0.1.3
 trekfont: 0.9.5
 trelliscope: 0.9.8
@@ -21367,7 +21370,7 @@ ucminf: 1.1-4
 udapi: 0.1.3
 udpipe: 0.8.6
 udunits: '1.3'
-udunits2: '0.13'
+udunits2: 0.13.1
 ufs: 0.4.3
 ugatsdb: 0.2.1
 ugomquantreg: 1.0.0
