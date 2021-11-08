@@ -1530,7 +1530,7 @@ Dire: 1.0.3
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
-Directional: '5.1'
+Directional: '5.2'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.15
@@ -1566,7 +1566,7 @@ DoTC: '0.2'
 DockerParallel: 1.0.4
 Dodge: 0.9-2
 Dominance: 1.2.0
-DominoDataCapture: 0.1.0
+DominoDataCapture: 0.1.1
 DominoPredictionLogging: 0.1.0
 Dopt: 0.1-4
 DoseFinding: 1.0-2
@@ -2894,7 +2894,7 @@ JSconsole: 0.1.0
 JSmediation: 0.2.0
 JWileymisc: 1.2.0
 JacobiEigen: 0.3-4
-JamendoR: 0.1.0
+JamendoR: 0.1.1
 Java: '0.5'
 JavaGD: 0.6-4
 Jaya: 0.1.9
@@ -3699,7 +3699,7 @@ MixedIndTests: 0.1.5
 MixedPoisson: '2.0'
 MixedPsy: 1.0.0
 MixedTS: 1.0.4
-MixfMRI: 0.1-1
+MixfMRI: 0.1-2
 MixtureInf: '1.1'
 MixtureMissing: 1.0.0
 MixtureRegLTIC: 1.0.0
@@ -7114,7 +7114,7 @@ agce: '1.2'
 ageprior: 0.9.2
 aggregation: 1.0.1
 aggrisk: '1.0'
-aghq: 0.3.0
+aghq: 0.3.1
 agilp: '1.0'
 aglm: 0.4.0
 agop: 0.2-3
@@ -8821,7 +8821,7 @@ cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.1
 cmfilter: 0.9.1
-cmfrec: 3.2.2-1
+cmfrec: 3.2.2-2
 cmm: '0.12'
 cmmr: 0.1.2
 cmna: 1.0.5
@@ -9070,7 +9070,7 @@ contTimeCausal: '1.0'
 contact: 1.2.8
 contactdata: 0.2.0
 container: 1.0.0
-contentid: 0.0.12
+contentid: 0.0.14
 contextual: 0.9.8
 contfrac: 1.1-12
 conting: '1.7'
@@ -9391,7 +9391,7 @@ cuRe: 1.0.1
 cubature: 2.0.4.2
 cubelyr: 1.0.1
 cubeview: 0.2.0
-cubfits: 0.1-3
+cubfits: 0.1-4
 cubicBsplines: 1.0.0
 cubing: 1.0-5
 cuda.ml: 0.3.0
@@ -9456,7 +9456,7 @@ cxxPack: '7.0'
 cxxfunplus: '1.0'
 cyanoFilter: 0.1.3
 cycleRtools: 1.1.1
-cyclestreets: 0.5.0
+cyclestreets: 0.5.2
 cyclocomp: 1.1.0
 cycloids: '1.0'
 cyclomort: 1.0.2
@@ -10693,7 +10693,7 @@ essurvey: 1.0.7
 estadistica: 0.1.0
 estatapi: 0.4.0
 estimability: '1.3'
-estimatr: 0.30.2
+estimatr: 0.30.4
 estimraw: 1.0.0
 estmeansd: 0.2.1
 estout: '1.2'
@@ -11380,7 +11380,7 @@ freegroup: 1.1-0
 freeknotsplines: '1.0'
 freestats: 0.0.3
 freesurfer: 1.6.8
-freesurferformats: 0.1.15
+freesurferformats: 0.1.16
 freetypeharfbuzz: 0.2.6
 frenchCurve: 0.1.0
 frenchdata: 0.2.0
@@ -12976,7 +12976,7 @@ igate: 0.3.3
 igcop: 1.0.1
 iglu: 3.1.0
 igoR: 0.1.3
-igraph: 1.2.7
+igraph: 1.2.8
 igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
@@ -13063,7 +13063,7 @@ incadata: 0.9.1
 incase: 0.3.1
 incgraph: 1.0.1
 incidence: 1.7.3
-incidence2: 1.2.2
+incidence2: 1.2.3
 incidental: '0.1'
 inctools: 1.0.15
 indelmiss: 1.0.9
@@ -13174,7 +13174,7 @@ intervalaverage: 0.8.0
 intervals: 0.15.2
 intervcomp: 0.1.2
 interventionalDBN: 1.2.2
-inti: 0.4.4
+inti: 0.5.0
 intkrige: 1.0.1
 intmed: 0.1.2
 intoo: 0.4.0
@@ -13276,7 +13276,7 @@ isocalcR: 0.0.2
 isocat: 0.2.6
 isocir: 2.0-6
 isodistrreg: 0.1.0
-isogeochem: 1.0.8.3
+isogeochem: 1.0.9
 isokernel: 0.1.0
 isopam: 0.9-13
 isopat: '1.0'
@@ -13824,7 +13824,7 @@ lexicon: 1.2.1
 lexiconPT: 0.1.0
 lfactors: 1.0.4
 lfda: 1.1.3
-lfe: 2.8-7
+lfe: 2.8-7.1
 lfl: 2.1.2
 lfmm: '1.1'
 lfstat: 0.9.4
@@ -14100,7 +14100,7 @@ lpme: 1.1.2
 lpmodeler: 0.2-1
 lpridge: 1.0-8
 lqa: 1.0-3
-lqmm: 1.5.5
+lqmm: 1.5.6
 lqr: '4.0'
 lrequire: 0.1.3
 lrgs: 0.5.4
@@ -15466,7 +15466,7 @@ nearfar: '1.2'
 neariso: 1.0.1
 neat: 1.2.3
 neatRanges: 0.1.3
-neatStats: 1.7.3
+neatStats: 1.8.1
 neatmaps: 2.1.0
 needmining: 0.1.1
 needs: 0.0.3
@@ -18050,7 +18050,7 @@ regexSelect: 1.0.0
 regexTestR: 0.1.0
 regexp: 0.0-1
 regexr: 1.1.0
-reghelper: 1.0.2
+reghelper: 1.1.0
 regioncode: 0.1.1
 regions: 0.1.8
 registr: 1.0.0
@@ -19072,7 +19072,7 @@ scrobbler: 1.0.2
 scrollrevealR: 0.2.0
 scrubr: 0.4.0
 scrypt: 0.1.3
-scs: 1.3-2
+scs: 3.0-0
 sctransform: 0.3.2
 scuba: 1.11-0
 sculpt3d: 0.3-1
@@ -19256,7 +19256,7 @@ serialize: 0.2-1
 seriation: 1.3.1
 serieslcb: 0.4.0
 seroincidence: 2.0.0
-serp: 0.2.1
+serp: 0.2.3
 serpstatr: 0.1.0
 serrsBayes: 0.5-0
 servosphereR: 0.1.1
@@ -19339,7 +19339,7 @@ shiny.pwa: 0.2.1
 shiny.react: 0.2.3
 shiny.reglog: 0.4.1
 shiny.router: 0.2.2
-shiny.semantic: 0.4.2
+shiny.semantic: 0.4.3
 shiny.worker: 0.0.1
 shinyAce: 0.4.1
 shinyBS: '0.61'
@@ -20774,7 +20774,7 @@ texreg: 1.37.5
 text: 0.9.10
 text.alignment: 0.1.2
 text2map: 0.1.1
-text2sdg: 0.1.0
+text2sdg: 0.1.1
 text2speech: 0.2.13
 text2vec: '0.6'
 textTinyR: 1.1.7
@@ -20852,7 +20852,7 @@ thriftr: 1.1.5
 thsls: '0.1'
 thunder: 0.0.12
 thurstonianIRT: 0.12.1
-tibble: 3.1.5
+tibble: 3.1.6
 tibbleOne: 0.1.1
 tibbletime: 0.1.6
 tibblify: 0.1.0
@@ -21850,7 +21850,7 @@ whiboclustering: 0.1.2
 whisker: '0.4'
 whitebox: 2.0.0
 whitechapelR: 0.3.0
-whitening: 1.2.0
+whitening: 1.3.0
 whitestrap: 0.0.1
 whoa: 0.0.2
 whoami: 1.3.0
