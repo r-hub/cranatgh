@@ -496,6 +496,7 @@ BayesBEKK: 0.1.0
 BayesBP: '1.1'
 BayesBinMix: 1.4.1
 BayesBridge: '0.6'
+BayesCACE: '1.0'
 BayesCR: '2.1'
 BayesCTDesign: 0.6.0
 BayesCombo: '1.0'
@@ -2079,6 +2080,7 @@ FourgameteP: 0.1.0
 FourierDescriptors: 0.1-4
 FrF2: 2.2-2
 FrF2.catlg128: 1.2-1
+FracKrigingR: 1.0.0
 FracSim: '0.3'
 FractalParameterEstimation: 1.1.2
 Fragman: 1.0.9
@@ -2343,6 +2345,7 @@ GenEst: 1.4.6
 GenForImp: '1.0'
 GenHMM1d: 0.1.0
 GenKern: 1.2-60
+GenMarkov: 0.1.0
 GenOrd: 1.4.0
 GenSA: 1.1.7
 GenTag: '1.0'
@@ -2489,7 +2492,7 @@ HDMT: 1.0.3
 HDPenReg: 0.94.7
 HDShOP: 0.1.2
 HDSpatialScan: 1.0.2
-HDTSA: 1.0.0
+HDTSA: 1.0.1
 HDclassif: 2.2.0
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
@@ -3583,6 +3586,7 @@ MaxMC: 0.1.1
 MaxPro: 4.1-2
 MaxSkew: '1.1'
 MaxentVariableSelection: 1.0-3
+MaximinInfer: 1.0.0
 MazamaCoreUtils: 0.4.9
 MazamaLocationUtils: 0.2.0
 MazamaRollUtils: 0.1.3
@@ -4815,6 +4819,7 @@ RGrace: 0.6-6
 RGraphM: 0.1.9
 RGraphics: 3.0-2
 RGreenplum: 0.1.2
+RGremlinsConjoint: 0.9.0
 RGtk2: 2.20.36.2
 RGtk2.10: 2.10.6
 RGtk2DfEdit: '0.5'
@@ -7262,7 +7267,7 @@ anonymizer: 0.2.0
 anovir: 0.1.0
 anscombiser: 1.0.0
 ant: 0.0-8
-antaresEditObject: 0.2.2
+antaresEditObject: 0.3.0
 antaresProcessing: 0.18.1
 antaresRead: 2.2.9
 antaresViz: '0.16'
@@ -7304,7 +7309,7 @@ aplot: 0.1.1
 aplpack: 1.3.5
 apmsWAPP: '1.0'
 apng: '1.1'
-apollo: 0.2.5
+apollo: 0.2.6
 apparent: '1.1'
 appell: 0.0-4
 apple: '0.3'
@@ -7520,7 +7525,7 @@ autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
 autostats: 0.1.0
-autostsm: '1.6'
+autostsm: '2.0'
 autota: 0.1.3
 autothresholdr: 1.3.11
 autovarCore: 1.0-4
@@ -8807,7 +8812,7 @@ clustertend: '1.5'
 clusteval: '0.1'
 clusthaplo: '1.2'
 clustrd: 1.3.7-2
-clustree: 0.4.3
+clustree: 0.4.4
 clustringr: '1.0'
 clustsig: '1.1'
 clustvarsel: 2.3.4
@@ -9434,6 +9439,7 @@ cvCovEst: 1.0.1
 cvGEE: 0.3-0
 cvTools: 0.3.2
 cvam: 0.9.2
+cvap: 0.0.3
 cvar: 0.4-0
 cvcqv: 1.0.0
 cvcrand: 0.1.0
@@ -9570,7 +9576,7 @@ datardis: 0.0.1
 dataresqc: 1.1.0
 datarium: 0.1.0
 datarobot: 2.18.0
-datasailr: 0.8.9
+datasailr: 0.8.10
 datasauRus: 0.1.4
 dataseries: 0.2.0
 datasets.load: 1.6.0
@@ -12618,7 +12624,7 @@ hierSDR: '0.1'
 hierarchicalDS: '3.0'
 hierarchicalSets: 1.0.2
 hierband: '1.0'
-hierbase: 0.1.1
+hierbase: 0.1.2
 hierformR: 0.1.0
 hierfstat: 0.5-7
 hiertest: '1.1'
@@ -13445,6 +13451,7 @@ kSamples: 1.2-9
 kStatistics: '2.1'
 kableExtra: 1.3.4
 kader: 0.0.8
+kairos: 1.0.0
 kamila: 0.1.2
 kangar00: '1.4'
 kantorovich: 3.0.0
@@ -13754,6 +13761,7 @@ ldat: 0.3.3
 ldatuning: 1.0.2
 ldbod: 0.1.2
 ldbounds: 1.1-1.1
+lddmm: 0.1.0
 ldhmm: 0.5.1
 ldlasso: '3.2'
 ldr: '1.3'
@@ -13863,7 +13871,7 @@ liftr: 0.9.2
 lifx: 0.2.0
 liger: 2.0.1
 lightgbm: 3.3.1
-lightr: 1.6.0
+lightr: 1.6.1
 lightsout: '0.3'
 likeLTD: 6.3.0
 likelihood: '1.7'
@@ -15033,7 +15041,7 @@ momentuHMM: 1.5.4
 momr: '1.1'
 monaco: 0.2.1
 mondate: 0.10.02
-mongolite: 2.3.1
+mongolite: 2.4.0
 mongopipe: 0.1.1
 monitoR: 1.0.7
 monkeylearn: 0.2.0
@@ -15194,7 +15202,7 @@ mssm: 0.1.5
 mssqlR: 1.0.0
 mstDIF: 0.1.6
 mstR: '1.2'
-mstate: 0.3.1
+mstate: 0.3.2
 mstherm: 0.4.7
 mstknnclust: 0.3.1
 mstrio: 11.3.0.1
@@ -15975,6 +15983,7 @@ opencpu.encode: '0.22'
 opencv: 0.2.1
 opendatatoronto: 0.1.4
 opendotaR: 0.1.4
+openeo: 1.1.0
 openintro: 2.2.0
 openmetrics: 0.3.0
 opensensmapr: 0.5.1
@@ -16184,7 +16193,7 @@ packrat: 0.7.0
 pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
-pacotest: 0.4.0
+pacotest: 0.4.1
 pacs: 0.3.5
 pact: 0.5.0
 pacviz: 1.0.1
@@ -16748,7 +16757,7 @@ pleiades: 0.3.0
 pleio: '1.6'
 pleiotest: 1.0.0
 plethem: 1.1.0
-plfMA: 1.0.5
+plfMA: '1.0'
 plfm: 2.2.2
 plgp: 1.1-7
 pliable: '1.1'
@@ -16991,7 +17000,7 @@ powerMediation: 0.3.4
 powerSurvEpi: 0.1.3
 powerbydesign: 1.0.5
 powerlmm: 0.4.0
-powerly: 1.5.2
+powerly: 1.7.1
 powerpkg: '1.5'
 powerplus: '3.1'
 powerr: 0.1-3
@@ -18030,6 +18039,7 @@ redux: 1.1.0
 ref: '0.9'
 ref.ICAR: '1.0'
 refGenome: 1.7.7
+refer: 0.1.0
 referenceIntervals: 1.2.0
 refimpact: 1.0.0
 refineR: 1.0.0
@@ -20253,6 +20263,7 @@ stepPlr: '0.93'
 stepR: 2.1-1
 stepjglm: 0.0.1
 stepp: 3.2.2
+steprf: 1.0.0
 steps: 1.2.1
 stepwise: '0.3'
 stevedata: 0.5.0
@@ -20278,7 +20289,7 @@ stmCorrViz: '1.3'
 stmgp: 1.0.4
 stmgui: 0.1.6
 stminsights: 0.4.1
-stoRy: 0.1.5
+stoRy: 0.2.0
 stocc: '1.31'
 stochQN: 0.1.2-1
 stochasticGEM: '0.0'
@@ -20894,6 +20905,7 @@ tidyhydat: 0.5.4
 tidyimpute: 0.1.0
 tidyinftheo: 0.2.1
 tidyjson: 0.3.1
+tidylab: 4.1.1
 tidylda: 0.0.1
 tidylo: 0.1.0
 tidylog: 1.0.2
@@ -20977,7 +20989,7 @@ tinsel: 0.0.1
 tint: 0.1.3
 tinter: 0.1.0
 tinyProject: 0.6.1
-tinyarray: 2.2.6
+tinyarray: 2.2.7
 tinylabels: 0.2.1
 tinyscholar: 0.1.4
 tinyspotifyr: 0.2.2
@@ -21051,6 +21063,7 @@ toolmaRk: 0.0.1
 tools4uplift: 1.0.0
 topicdoc: 0.1.0
 topicmodels: 0.2-12
+topicmodels.etm: 0.1.0
 topmodel: 0.7.3
 topoDistance: 1.0.1
 topologyGSA: 1.4.7
@@ -21901,13 +21914,13 @@ wmm: 1.1.1
 wmtsa: 2.0-3
 wmwpow: 0.1.3
 wnl: 0.6.3
-wnominate: '1.2'
+wnominate: '1.3'
 woe: '0.2'
 woeBinning: 0.1.6
 woeR: 0.2.1
 womblR: 1.0.4
 wombsoft: '2.0'
-wooldridge: 1.4-1
+wooldridge: 1.4-2
 worcs: 0.1.8
 word.alignment: '1.1'
 word2vec: 0.3.4
@@ -21996,7 +22009,7 @@ xergm.common: 1.7.8
 xesreadR: 0.2.3
 xfun: '0.28'
 xgb2sql: 0.1.2
-xgboost: 1.4.1.1
+xgboost: 1.5.0.1
 xgobi: 1.2-15
 xgrid: 1.0-1
 xgxr: 1.1.1
