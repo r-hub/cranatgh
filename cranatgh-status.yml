@@ -1112,7 +1112,7 @@ CompetingRiskFrailty: '2.0'
 Compind: '2.3'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.1
-Compositional: '5.0'
+Compositional: '5.2'
 CompoundEvents: 0.1.0
 Compounding: 1.0.2
 ConConPiWiFun: 0.4.6.1
@@ -2600,6 +2600,7 @@ HiResTEC: '0.59'
 HiddenMarkov: 1.8-13
 HierDpart: 1.5.0
 HierO: '0.2'
+HierPorfolios: 0.1.0
 HighDimOut: 1.0.0
 HighProbability: '1.0'
 HighestMedianRules: '1.0'
@@ -2690,7 +2691,7 @@ IDetect: 0.1.0
 IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
-IFAA: 1.0.2
+IFAA: 1.0.3
 IFC: 0.1.2
 IFP: 0.2.4
 IFSPlot: '1.0'
@@ -2864,6 +2865,7 @@ IsoplotRgui: '4.2'
 IsoriX: 0.8.2
 IsotopeR: 0.5.4
 ItemResponseTrees: 0.2.5
+IxPopDyMod: 0.1.0
 J4R: 1.0.8
 JADE: 2.0-3
 JAGUAR: 3.0.1
@@ -3701,7 +3703,7 @@ MixTwice: '1.1'
 MixedDataImpute: '0.1'
 MixedIndTests: 0.1.5
 MixedPoisson: '2.0'
-MixedPsy: 1.0.0
+MixedPsy: 1.1.0
 MixedTS: 1.0.4
 MixfMRI: 0.1-2
 MixtureInf: '1.1'
@@ -7228,7 +7230,7 @@ amt: 0.1.4
 anMC: 0.2.2
 anacor: 1.1-3
 anaglyph: 0.1-1
-analogsea: 1.0.0
+analogsea: 1.0.3
 analogue: 0.17-6
 analogueExtra: 0.1-1
 analysisPipelines: 1.0.2
@@ -7880,6 +7882,7 @@ bigGP: 0.1-7
 bigIntegerAlgos: 0.1.2
 bigKRLS: 3.0.5
 bigMap: 2.3.1
+bigQF: '1.5'
 bigQueryR: 0.5.0
 bigRR: 1.3-8
 bigReg: 0.1.2
@@ -9061,7 +9064,7 @@ connectedness: '0.2'
 connections: 0.1.1
 connectwidgets: 0.1.1
 conogive: 1.0.0
-conos: 1.4.3
+conos: 1.4.4
 conover.test: 1.1.5
 conquer: 1.2.1
 conquestr: 0.8.5
@@ -9384,6 +9387,7 @@ ctmcd: 1.4.1
 ctmcmove: 1.2.9
 ctmle: 0.1.2
 ctmm: 0.6.1
+ctpm: 1.0.1
 ctqr: '2.0'
 ctrdata: 1.7.1
 ctrialsgov: 0.2.5
@@ -11093,7 +11097,7 @@ ferrn: 0.0.1
 fetchR: 2.1-1
 ff: 4.0.5
 ffbase: 0.13.3
-fflr: 1.9.2
+fflr: 2.0.0
 ffmanova: 1.1.0
 ffmetadata: 1.0.0
 ffp: 0.1.0
@@ -12266,7 +12270,7 @@ gprofiler2: 0.2.1
 gptk: '1.08'
 gpuR: 2.0.3
 gputools: '1.1'
-gpx: 1.0.1
+gpx: 1.1.0
 gqlr: 0.0.2
 gquad: 2.1-1
 grImport: 0.9-5
@@ -12408,6 +12412,7 @@ gss: 2.2-3
 gsscopu: 0.9-3
 gstar: 0.1.0
 gstat: 2.0-8
+gstsm: 0.0.1
 gstudio: '1.3'
 gsubfn: '0.7'
 gsw: 1.0-6
@@ -13409,7 +13414,7 @@ joyn: 0.1.3
 jpeg: 0.1-9
 jpmesh: 2.0.2
 jpndistrict: 0.3.9
-jqr: 1.2.1
+jqr: 1.2.2
 jquerylib: 0.1.4
 jrc: 0.5.0
 jrich: 0.60-35
@@ -13871,7 +13876,7 @@ liftr: 0.9.2
 lifx: 0.2.0
 liger: 2.0.1
 lightgbm: 3.3.1
-lightr: 1.6.1
+lightr: 1.6.2
 lightsout: '0.3'
 likeLTD: 6.3.0
 likelihood: '1.7'
@@ -14027,7 +14032,7 @@ log: 1.1.0
 log10: 0.1.0-03
 log4r: 0.4.2
 logKDE: 0.3.2
-logNormReg: 0.4-0
+logNormReg: 0.5-0
 logOfGamma: 0.0.1
 logbin: 2.0.5
 logconPH: '1.5'
@@ -14269,7 +14274,7 @@ mapSpain: 0.4.0
 mapStats: '2.4'
 mapaccuracy: 0.1.0
 mapbayr: 0.5.0
-mapboxapi: '0.2'
+mapboxapi: '0.3'
 mapboxer: 0.4.0
 mapcan: 0.0.1
 mapchina: 0.1.0
@@ -17780,7 +17785,7 @@ rareGE: '0.1'
 rareNMtests: '1.1'
 rarhsmm: 1.0.7
 rarms: 1.0.0
-rasciidoc: 3.2.0
+rasciidoc: 4.0.0
 rasclass: 0.2.2
 rase: 0.3-3
 rassta: 1.0.1
@@ -17831,7 +17836,7 @@ rbenchmark: 1.0.0
 rbenvo: 1.0.5
 rbgm: 0.1.0
 rbhl: 0.9.2
-rbi: 0.10.3
+rbi: 0.10.4
 rbi.helpers: 0.3.2
 rbibutils: 2.2.4
 rbin: 0.2.0
@@ -17864,7 +17869,7 @@ rcarbon: 1.4.2
 rcartocolor: 2.0.0
 rcbalance: 1.8.5
 rcbayes: 0.1.0
-rcbsubset: 1.1.4
+rcbsubset: 1.1.5
 rcc: 1.0.0
 rccdates: 1.0.0
 rccmisc: 0.3.7
@@ -18480,6 +18485,7 @@ robis: 2.8.2
 roblm: '0.6'
 robmed: 0.9.0
 robmixglm: 1.2-2
+robnptests: 1.0.0
 robomit: 1.0.6
 robotstxt: 0.7.13
 robreg3S: '0.3'
@@ -18677,7 +18683,7 @@ rsBayes: 0.1.0
 rsMove: 0.2.8
 rsae: 0.1-5
 rsam: 0.1.0
-rsample: 0.1.0
+rsample: 0.1.1
 rsatscan: 0.3.9200
 rsbml: '1.2'
 rsbp: 0.1.0
@@ -18972,6 +18978,7 @@ satscanMapper: 1.0.1
 saturnin: 1.1.1
 saves: '0.5'
 savonliquide: 0.2.0
+sawnuti: 0.1.0
 saws: 0.9-6.2
 sazedR: 2.0.2
 sbart: 0.1.1
@@ -21722,7 +21729,7 @@ vrtest: '0.97'
 vscc: '0.2'
 vsd: 0.1.0
 vsgoftest: 1.0-1
-vstsr: 1.0.0
+vstsr: 1.1.0
 vtable: 1.3.3
 vtcl: 1.0-1
 vtreat: 1.6.3
