@@ -757,7 +757,7 @@ CCMnet: 0.0-3
 CCMtools: '1.0'
 CCP: '1.1'
 CCTpack: 1.5.2
-CCWeights: 0.1.5
+CCWeights: 0.1.6
 CCpop: '1.0'
 CDECRetrieve: 0.1.5
 CDF.PSIdekick: '1.2'
@@ -1023,7 +1023,7 @@ CliftLRD: 0.1-1
 ClimClass: 2.1.0
 ClimDown: 1.0.8
 ClimInd: 0.1-3
-ClimMobTools: 0.3.9
+ClimMobTools: 0.4.2
 ClimProjDiags: 0.1.3
 ClinReport: 0.9.1.8
 ClinSigMeasures: '1.0'
@@ -1797,7 +1797,7 @@ EpiDynamics: 0.3.1
 EpiEstim: 2.2-4
 EpiILM: 1.5.2
 EpiILMCT: 1.1.7
-EpiModel: 2.1.0
+EpiModel: 2.2.0
 EpiNow2: 1.3.2
 EpiReport: 1.0.2
 EpiResTest: '1.0'
@@ -2127,7 +2127,7 @@ GADAG: 0.99.0
 GADGET: 0.2.0
 GADMTools: 3.9-1
 GAIPE: '1.0'
-GALLO: '1.2'
+GALLO: '1.3'
 GAMBoost: '1.2'
 GAMens: 1.2.1
 GANPA: '1.1'
@@ -2208,7 +2208,7 @@ GJRM: 0.2-5.1
 GK2011: 0.1.3
 GLDEX: 2.0.0.7
 GLDreg: 1.0.7
-GLIDE: 1.0.2
+GLIDE: 1.0.3
 GLMMGibbs: '0.5'
 GLMMRR: 0.5.0
 GLMMadaptive: 0.8-2
@@ -2601,6 +2601,7 @@ HiddenMarkov: 1.8-13
 HierDpart: 1.5.0
 HierO: '0.2'
 HierPorfolios: 0.1.0
+HierPortfolios: 0.1.0
 HighDimOut: 1.0.0
 HighProbability: '1.0'
 HighestMedianRules: '1.0'
@@ -3711,7 +3712,7 @@ MixtureMissing: 1.0.0
 MixtureRegLTIC: 1.0.0
 MlBayesOpt: 0.3.4
 MmgraphR: '0.3'
-MoBPS: 1.6.54
+MoBPS: 1.6.64
 MoEClust: 1.4.1
 MoLE: 1.0.1
 MoMPCA: 1.0.1
@@ -4881,7 +4882,7 @@ RLastFM: 0.1-5
 RLeafAngle: '1.0'
 RLogicalOps: '0.1'
 RLumCarlo: 0.1.7
-RLumModel: 0.2.8
+RLumModel: 0.2.9
 RLumShiny: 0.2.2
 RM.weights: '2.0'
 RM2: '0.0'
@@ -5618,6 +5619,7 @@ Rtextrankr: 1.0.0
 Rthingsboard: 0.2.4
 Rtnmin: 2016-7.7
 Rtrack: 1.0.0
+Rtropical: 1.2.1
 Rtsne: '0.15'
 Rttf2pt1: 1.3.9
 Rtts: 0.3.3
@@ -6692,7 +6694,7 @@ UScensus2000tract: '0.03'
 UScensus2010: 0.20.0
 USgas: 0.1.1
 USgrid: 0.1.2
-USpopcenters: 0.1.0
+USpopcenters: 0.1.1
 UStatBookABSC: 1.0.0
 UWHAM: '1.0'
 UdderQuarterInfectionData: 1.0.0
@@ -7863,7 +7865,7 @@ biOps: '0.2'
 biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.1
-biblio: 0.0.3
+biblio: 0.0.4
 bibliometrix: 3.1.4
 bibliometrixData: 0.1.0
 biblionetwork: 0.1.0
@@ -8075,7 +8077,7 @@ blockmodels: 1.1.4
 blockrand: '1.5'
 blocksdesign: '4.9'
 blockseg: 0.5.2
-blogdown: '1.5'
+blogdown: '1.6'
 blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-1
@@ -9403,7 +9405,7 @@ cubeview: 0.2.0
 cubfits: 0.1-4
 cubicBsplines: 1.0.0
 cubing: 1.0-5
-cuda.ml: 0.3.0
+cuda.ml: 0.3.1
 cudaBayesreg: 0.3-9
 cudaBayesregData: 0.3-8
 cudia: '0.1'
@@ -9481,7 +9483,7 @@ cytofan: 0.1.0
 cytometree: 2.0.2
 cytominer: 0.2.2
 czechrates: 0.2.2
-czso: 0.3.5
+czso: 0.3.7
 d3Network: 0.5.2.1
 d3Tree: 0.2.2
 d3heatmap: 0.6.1
@@ -10160,6 +10162,7 @@ drsmooth: 1.9.0
 drtmle: 1.1.0
 drugCombo: 1.2.1
 drughelper: 0.2.0
+drugprepr: 0.0.4
 drumr: 0.1.0
 ds: '4.0'
 ds4psy: 0.7.0
@@ -11424,7 +11427,7 @@ frt: '0.1'
 fruclimadapt: 0.4.4
 fs: 1.5.0
 fsMTS: 0.1.5
-fsbrain: 0.5.0
+fsbrain: 0.5.1
 fscaret: 0.9.4.4
 fsdaR: 0.4-9
 fsia: 1.1.1
@@ -12040,6 +12043,7 @@ ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
 ggswissmaps: 0.1.1
+ggtea: 0.1.1
 ggtern: 3.3.5
 ggtext: 0.1.1
 ggthemes: 4.2.4
@@ -13488,7 +13492,7 @@ kelvin: 2.0-2
 kendallRandomWalks: 0.9.4
 kequate: 1.6.3
 kerTests: 0.1.3
-keras: 2.6.1
+keras: 2.7.0
 kerasR: 0.6.1
 kerasformula: 1.5.1
 kerastuneR: 0.1.0.3
@@ -14705,7 +14709,7 @@ micompr: 1.1.1
 microPop: '1.5'
 microSTASIS: 0.1.0
 microbats: 0.1-1
-microbenchmark: 1.4.8
+microbenchmark: 1.4.9
 microbial: 0.0.20
 microclass: '1.2'
 microclustr: 0.1.0
@@ -15046,7 +15050,7 @@ momentuHMM: 1.5.4
 momr: '1.1'
 monaco: 0.2.1
 mondate: 0.10.02
-mongolite: 2.4.0
+mongolite: 2.4.1
 mongopipe: 0.1.1
 monitoR: 1.0.7
 monkeylearn: 0.2.0
@@ -16148,7 +16152,7 @@ overture: 0.4-0
 overviewR: 0.0.7
 owd: 1.0.6
 owdbr: 1.0.1.1
-owidR: 1.0.0
+owidR: 1.1.0
 owl: 0.1.1
 owmr: 0.8.2
 ows4R: 0.1-5
@@ -17041,7 +17045,7 @@ pragma: 0.1.3
 prais: 1.1.2
 praise: 1.0.0
 praktikum: '0.1'
-praznik: 9.0.0
+praznik: 10.0.0
 prc: 2019.1-23
 prcbench: 1.0.1
 prclust: '1.3'
@@ -19203,7 +19207,7 @@ semPlot: 1.1.2
 semPower: 1.2.0
 semTable: '1.8'
 semTools: 0.5-5
-semantic.dashboard: 0.2.0
+semantic.dashboard: 0.2.1
 semdiag: 0.1.2
 semdrw: 0.1.0
 semds: 0.9-6
@@ -19733,7 +19737,7 @@ snn: '1.1'
 snnR: '1.0'
 snort: '1.0'
 snotelr: 1.0.4
-snow: 0.4-3
+snow: 0.4-4
 snowFT: 1.6-0
 snowboot: 1.0.2
 snowfall: 1.84-6.1
@@ -20756,7 +20760,7 @@ tensorA: 0.36.2
 tensorBF: 1.0.2
 tensorBSS: 0.3.8
 tensorTS: 0.1.2
-tensorflow: 2.6.0
+tensorflow: 2.7.0
 tensorordinal: 0.2.0
 tensorr: 0.1.1
 tensorregress: '4.0'
@@ -20827,7 +20831,7 @@ tfCox: 0.1.0
 tfaddons: 0.10.0
 tfarima: 0.2.1
 tfautograph: 0.3.2
-tfdatasets: 2.6.0
+tfdatasets: 2.7.0
 tfdeploy: 0.6.1
 tfer: '1.3'
 tfestimators: 1.9.2
