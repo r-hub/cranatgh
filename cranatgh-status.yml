@@ -77,7 +77,7 @@ AMIAS: 1.1.0
 AMModels: 0.1.4
 AMOEBA: '1.1'
 AMORE: 0.2-9
-AMPLE: 0.0.2
+AMPLE: 1.0.0
 AMR: 1.7.1
 ANLP: '1.3'
 ANN: '0.1'
@@ -433,6 +433,7 @@ BPmodel: 1.1.2
 BRACoD.R: 0.0.1.2
 BRDT: 0.1.0
 BRETIGEA: 1.0.3
+BRINDA: 0.1.3
 BRISC: 1.0.2
 BRL: 0.1.0
 BRugs: 0.9-1
@@ -923,7 +924,7 @@ CVR: 0.1.1
 CVST: 0.2-2
 CVThresh: 1.1.1
 CVTuningCov: '1.0'
-CVXR: 1.0-9
+CVXR: 1.0-10
 CVarE: '1.1'
 CVcalibration: 1.0-1
 CVglasso: '1.0'
@@ -1626,7 +1627,7 @@ EDISON: 1.1.1
 EDMeasure: 1.2.0
 EDNE.EQ: '1.0'
 EDOIF: 0.1.3
-EDOtrans: 0.1.0
+EDOtrans: 0.2.0
 EDR: 0.6-7
 EDanalysis: '1.0'
 EEM: 1.1.1
@@ -1639,7 +1640,7 @@ EFAtools: 0.3.1
 EFAutilities: 2.1.1
 EFDR: '1.2'
 EFS: 1.0.3
-EGAnet: 0.9.8
+EGAnet: 1.0.0
 EGRET: 3.0.6
 EGRETci: 2.0.4
 EHR: 0.4-4
@@ -2305,7 +2306,7 @@ GUILDS: '1.3'
 GUIProfiler: 2.0.1
 GUIgems: '0.1'
 GUTS: 1.1.1
-GUniFrac: '1.3'
+GUniFrac: '1.4'
 GVARX: '1.3'
 GWAF: '2.2'
 GWASExactHW: '1.01'
@@ -4992,9 +4993,9 @@ ROptEstOld: 1.2.0
 ROptRegTS: 1.2.0
 ROptSpace: 0.2.3
 ROptimizely: 0.2.0
-ROracle: 1.3-1
+ROracle: 1.3-1.1
 ROracleUI: 1.3-2
-RPANDA: '1.9'
+RPANDA: '2.0'
 RPCLR: '1.0'
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.1
@@ -5528,7 +5529,7 @@ Rnets: 1.2.1
 Rniftilib: 0.0-32
 Rnightlights: 0.2.4
 Rnightly: 0.1.0
-Rnmr1D: 1.2.5
+Rnmr1D: 1.3.0
 Rnotes: 1.1-1
 Rnumerai: 2.1.4
 Rnvd3: 1.0.0
@@ -6138,6 +6139,7 @@ SmarterPoland: '1.8'
 Smisc: 0.3.9
 SmithWilsonYieldCurve: 1.0.1
 SmoothHazard: 1.4.1
+SmoothTensor: 0.1.0
 SmoothWin: 3.0.0
 Snake: '1.0'
 SnakeCharmR: 1.0.7
@@ -6717,7 +6719,7 @@ UnivRNG: 1.2.3
 UpSetR: 1.4.0
 UsingR: 2.0-6
 UtilityFrailtyPH12: '1.0'
-V8: 3.5.0
+V8: 3.6.0
 VA: '1.0'
 VALERIE: 1.1.0
 VAM: 1.0.0
@@ -6797,7 +6799,7 @@ VeryLargeIntegers: 0.1.8
 VetResearchLMM: 1.0.0
 VhayuR: 1.1.2
 ViSiElse: 1.2.2
-VicmapR: 0.1.7
+VicmapR: 0.1.8
 VideoComparison: 0.9-4
 VineCopula: 2.4.3
 VisCov: '1.3'
@@ -9160,7 +9162,7 @@ correlbinom: 0.0.1
 corrgram: '1.14'
 corrgrapher: 1.0.4
 corrperm: '2.0'
-corrplot: '0.90'
+corrplot: '0.91'
 corrr: 0.4.3
 corrsieve: 1.6-8
 corset: 0.1-4
@@ -10316,7 +10318,7 @@ eatATA: 1.0.0
 eatDB: 0.5.0
 eatGADS: 0.18.1
 eatRep: 0.13.7
-eatTools: 0.7.0
+eatTools: 0.7.1
 ebGenotyping: 2.0.1
 ebSNP: '1.0'
 eba: 1.10-0
@@ -11055,7 +11057,7 @@ fdadensity: 0.1.2
 fdakma: 1.2.1
 fdaoutlier: 0.2.0
 fdapace: 0.5.7
-fdapaceShiny: 1.0.3
+fdapaceShiny: 1.0.4
 fdasrvf: 1.9.7
 fdatest: '2.1'
 fdcov: 1.1.0
@@ -11104,7 +11106,7 @@ fflr: 2.0.0
 ffmanova: 1.1.0
 ffmetadata: 1.0.0
 ffp: 0.1.0
-ffscrapr: 1.4.6
+ffscrapr: 1.4.7
 ffsimulator: 1.1.0
 ffstream: 0.1.6
 fftw: 1.0-6.1
@@ -11427,7 +11429,7 @@ frt: '0.1'
 fruclimadapt: 0.4.4
 fs: 1.5.0
 fsMTS: 0.1.5
-fsbrain: 0.5.1
+fsbrain: 0.5.0
 fscaret: 0.9.4.4
 fsdaR: 0.4-9
 fsia: 1.1.1
@@ -11735,7 +11737,7 @@ genekitr: 0.2.1
 genemodel: 1.1.0
 genepi: 1.0.1
 genepop: 1.1.7
-generalCorr: 1.1.9
+generalCorr: 1.2.0
 generalKSStat: 1.0.3
 generalhoslem: 1.3.4
 generator: 0.1.0
@@ -12449,7 +12451,7 @@ gumbel: 1.10-2
 gumboot: 1.0.0
 gunit: 1.0.0
 gunsales: 0.1.2
-gustave: 0.4.2
+gustave: 0.4.3
 gutenbergr: 0.2.1
 gvc: 6.0.0
 gvcR: 0.1.0
@@ -12709,6 +12711,7 @@ hommel: '1.5'
 homologene: 1.4.68.19.3.27
 homomorpheR: 0.2-2
 homtest: 1.0-5
+hoopR: 1.5.0
 hopach: 2.9.1
 hopbyhop: '3.41'
 hopit: 0.10.3
@@ -13944,6 +13947,7 @@ listdtr: '1.1'
 listenv: 0.8.0
 listless: 0.0-2
 listviewer: 3.0.0
+litRiddle: 0.4.0
 liteq: 1.1.0
 litteR: 0.9.1
 littler: 0.3.14
@@ -14335,7 +14339,7 @@ markmyassignment: 0.8.6
 markophylo: 1.0.8
 markovchain: 0.8.6
 marl: '1.0'
-marmap: 1.0.5
+marmap: 1.0.6
 marqLevAlg: 2.0.5
 mase: 0.1.3
 mashr: 0.2.50
@@ -14610,7 +14614,7 @@ metamedian: 0.1.5
 metamer: 0.2.0
 metamicrobiomeR: '1.2'
 metamisc: 0.2.5
-metan: 1.15.0
+metan: 1.16.0
 metansue: '2.4'
 metap: '1.6'
 metapack: 0.1.4
@@ -14918,7 +14922,7 @@ mlr3tuning: 0.9.0
 mlr3tuningspaces: 0.0.1
 mlr3verse: 0.2.2
 mlr3viz: 0.5.7
-mlrCPO: 0.3.7-2
+mlrCPO: 0.3.7-3
 mlrMBO: 1.1.5
 mlrintermbo: 0.5.0
 mlsbm: 0.99.2
@@ -15351,7 +15355,7 @@ mvMonitoring: 0.1.0
 mvPot: 0.1.5
 mvProbit: 0.1-10
 mvQuad: 1.0-6
-mvSLOUCH: '2.7'
+mvSLOUCH: 2.7.2
 mvShapiroTest: '1.0'
 mvabund: 4.1.12
 mvbutils: 2.8.232
@@ -15970,7 +15974,7 @@ opalr: 3.0.2
 opart: 2019.1.0
 opdisDownsampling: 0.7.0
 opefimor: '1.2'
-openCR: 2.2.0
+openCR: 2.2.1
 openEBGM: 0.8.3
 openMSE: 1.0.0
 openNLP: 0.2-7
@@ -16731,7 +16735,7 @@ pkggraph: 0.2.3
 pkglite: 0.2.0
 pkgload: 1.2.3
 pkgmaker: 0.32.2
-pkgndep: 1.0.3
+pkgndep: 1.1.0
 pkgnet: 0.4.1
 pkgnews: 0.0.2
 pkgsearch: 3.0.3
@@ -17462,6 +17466,7 @@ qtlcharts: '0.14'
 qtlhot: 1.0.4
 qtlmt: 0.1-6
 qtlnet: 1.5.4
+qtlpoly: 0.2.2
 qtpaint: 0.9.1
 qtutils: 0.1-3
 quRan: 0.1.0
@@ -17498,7 +17503,7 @@ quantoptr: 0.1.3
 quantreg: '5.86'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
-quantregGrowth: 1.3-1
+quantregGrowth: 1.4-0
 quantregRanger: '1.0'
 quantspec: 1.2-3
 quarks: 1.0.9
@@ -18242,7 +18247,7 @@ rfieldclimate: 0.1.0
 rfigshare: 0.3.7
 rfinance: 0.1.0
 rfinterval: 1.0.0
-rfishbase: 3.1.9
+rfishbase: 3.1.10
 rfishdraw: 0.1.0
 rfisheries: '0.2'
 rfishnet2: 0.2.0
@@ -18745,7 +18750,7 @@ rstap: 1.0.3
 rstatix: 0.7.0
 rstatscn: 1.1.3
 rstiefel: 1.0.1
-rstoat: 1.0.1
+rstoat: 1.0.2
 rstpm2: 1.5.2
 rstream: 1.3.6
 rstudio.prefs: 0.1.7
@@ -19373,7 +19378,7 @@ shinyDND: 0.1.0
 shinyEffects: 0.2.0
 shinyEventLogger: 0.1.1
 shinyFeedback: 0.4.0
-shinyFiles: 0.9.0
+shinyFiles: 0.9.1
 shinyGovstyle: 0.0.7
 shinyHeatmaply: 0.2.0
 shinyIRT: '0.1'
@@ -19556,7 +19561,7 @@ simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simplermarkdown: 0.0.3
 simpleroptions: 0.2.0
-simplevis: 4.6.0
+simplevis: 5.0.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -20076,7 +20081,7 @@ sportyR: 1.0.1
 spotGUI: 0.2.3
 spotidy: 0.1.0
 spotifyr: 2.2.3
-spotoroo: 0.1.1
+spotoroo: 0.1.2
 spp: 1.16.0
 sppmix: 1.0.2
 spray: 1.0-11
@@ -20516,7 +20521,7 @@ survsup: 0.0.2
 survtmle: 1.1.1
 survutils: 1.0.2
 survxai: 0.2.2
-susieR: 0.11.42
+susieR: 0.11.84
 sutteForecastR: '0.1'
 svDialogs: 1.0.3
 svDialogstcltk: 0.9-4
