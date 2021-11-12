@@ -979,7 +979,7 @@ CepLDA: 1.0.0
 CerioliOutlierDetection: 1.1.9
 CfEstimateQuantiles: '1.0'
 ChIPtest: '1.0'
-ChainLadder: 0.2.13
+ChainLadder: 0.2.14
 ChangeAnomalyDetection: 0.1.0
 ChangePointTaylor: 0.1.1
 ChangepointTesting: '1.0'
@@ -2373,6 +2373,7 @@ GeneralizedUmatrix: 1.2.2
 GeneticSubsetter: '0.8'
 GeneticTools: '0.3'
 GenoScan: '0.1'
+GenomeAdapt: 1.0.0
 GenomeAdmixR: 2.1.1
 GenomicMating: '2.0'
 GenomicTools: 0.2.9.7
@@ -2678,6 +2679,7 @@ ICSsmoothing: 1.2.5
 ICV: '1.0'
 ICcalib: 1.0.8
 ICcforest: 0.5.1
+ICglm: 0.1.0
 ICsurv: '1.0'
 ICtest: 0.3-4
 ICvectorfields: 0.1.1
@@ -3592,7 +3594,7 @@ MaxPro: 4.1-2
 MaxSkew: '1.1'
 MaxentVariableSelection: 1.0-3
 MaximinInfer: 1.0.0
-MazamaCoreUtils: 0.4.9
+MazamaCoreUtils: 0.4.10
 MazamaLocationUtils: 0.2.0
 MazamaRollUtils: 0.1.3
 MazamaSpatialPlots: 0.1.2
@@ -4859,7 +4861,7 @@ RInno: 1.0.1
 RInside: 0.2.16
 RItools: 0.1-17
 RJDBC: 0.2-8
-RJDemetra: 0.1.7
+RJDemetra: 0.1.9
 RJSDMX: 2.3-3
 RJSONIO: 1.3-1.6
 RJSONLD: '1.0'
@@ -8227,7 +8229,7 @@ brlrmr: 0.1.7
 brm: 1.1.1
 brms: 2.16.1
 brnn: '0.9'
-brokenstick: 1.1.0
+brokenstick: 2.0.0
 brolgar: 0.1.2
 broman: '0.76'
 broom: 0.7.10
@@ -8557,7 +8559,7 @@ cfbfastR: 1.6.4
 cfda: 0.9.9
 cfdecomp: 0.4.0
 cffdrs: 1.8.18
-cffr: 0.1.0
+cffr: 0.1.1
 cfid: 0.1.2
 cfma: '1.0'
 cfmortality: 0.3.0
@@ -9967,6 +9969,7 @@ dissever: 0.2-3
 distTails: 0.1.2
 distance.sample.size: '0.0'
 distances: 0.1.8
+distanceto: 0.0.2
 distantia: 1.0.2
 distcomp: 1.3-1
 distcrete: 1.0.3
@@ -10284,6 +10287,7 @@ ePCR: 0.9.9-11
 eRTG3D: 0.6.4
 eRm: 1.0-2
 eSDM: 0.3.7
+eSIR: 0.4.1
 eVenn: '2.4'
 eadrm: 0.1.3
 eaf: '2.2'
@@ -11060,7 +11064,7 @@ fdadensity: 0.1.2
 fdakma: 1.2.1
 fdaoutlier: 0.2.0
 fdapace: 0.5.7
-fdapaceShiny: 1.0.4
+fdapaceShiny: 1.0.5
 fdasrvf: 1.9.7
 fdatest: '2.1'
 fdcov: 1.1.0
@@ -11516,7 +11520,7 @@ fuzzyRankTests: '0.4'
 fuzzySim: '3.0'
 fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.6
-fuzzyreg: '0.5'
+fuzzyreg: 0.5.2
 fuzzywuzzyR: 1.0.5
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
@@ -12672,7 +12676,7 @@ hints: '1.0'
 hiphop: 0.0.1
 hipread: 0.2.2
 hisemi: 1.1-0
-hisse: 1.9.19
+hisse: 2.1.5
 histmdl: 0.7-1
 histogram: 0.0-25
 historydata: '0.1'
@@ -15403,6 +15407,7 @@ mvtsplot: 1.0-1
 mwTensor: 0.99.5
 mwa: 0.4.3
 mwaved: 1.1.8
+mwcsr: 0.1.0
 mwshiny: 2.1.0
 mxkssd: '1.1'
 mxmmod: 1.1.0
@@ -16227,6 +16232,7 @@ pagenum: '1.2'
 pageviews: 0.5.0
 pagoda2: 1.0.6
 pagoo: 0.3.9
+painbow: 1.0.1
 painter: 0.1.0
 paintmap: '1.0'
 pairedCI: 0.5-4
@@ -16474,7 +16480,7 @@ pdxTrees: 0.4.0
 pdynmc: 0.9.6
 peRiodiCS: 0.5.0
 peRspective: 0.1.1
-peacesciencer: 0.6.0
+peacesciencer: 0.7.0
 peacots: '1.3'
 peakPantheR: 1.2.0
 peakPick: '0.11'
@@ -17756,7 +17762,7 @@ random.polychor.pa: 1.1.4-4
 randomForest: 4.6-14
 randomForest.ddR: 0.1.2
 randomForestExplainer: 0.10.1
-randomForestSRC: 2.13.0
+randomForestSRC: 2.14.0
 randomGLM: 1.02-1
 randomLCA: 1.1-1
 randomNames: 1.5-0.0
@@ -17995,7 +18001,7 @@ readit: 1.0.0
 readmnist: 1.0.6
 readmoRe: 0.2-12
 readobj: 0.4.1
-readr: 2.0.2
+readr: 2.1.0
 readrba: 0.1.2
 readroper: 0.9.3
 readsdmx: 0.3.0
@@ -18220,6 +18226,7 @@ retimes: 0.1-2
 retistruct: 0.6.3
 retractcheck: 1.0.0
 retriever: 0.2.1
+retrocombinator: 1.0.0
 retrodesign: 0.1.0
 retroharmonize: 0.2.0
 retrosheet: 1.1.4
@@ -18305,6 +18312,7 @@ rgrass7: 0.2-6
 rgrassdoc: 1.0.0
 rgrs: '0.3'
 rgsp: 0.2.0
+rgtmx: 0.1.4
 rgugik: 0.3.1
 rgw: 0.3.0
 rhandsontable: 0.3.8
@@ -19616,7 +19624,7 @@ sitar: 1.2.0
 siteymlgen: 1.0.0
 sitmo: 2.0.2
 sitools: '1.4'
-sitree: 0.1-9
+sitree: 0.1-11
 sitreeE: 0.0-7
 sitsfeats: 0.0.1
 sivipm: 1.1-4
@@ -20784,7 +20792,7 @@ tensorsign: 0.1.0
 tensorsparse: '3.0'
 tensr: 1.0.1
 tergm: 4.0.2
-tergmLite: 2.5.0
+tergmLite: 2.5.5
 term: 0.3.3
 termstrc: '1.3'
 ternvis: '1.2'
@@ -21718,6 +21726,7 @@ vkR: '0.2'
 vlad: 0.2.2
 vlda: 1.1.5
 vmd: 0.1.0
+vmeasur: 0.1.4
 vmr: 0.0.3
 vmsbase: 2.2.1
 vmv: '1.0'
