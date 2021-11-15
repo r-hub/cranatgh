@@ -806,7 +806,7 @@ CIFsmry: 1.0.1.1
 CIM: 1.0.0
 CIMTx: 1.0.0
 CINID: 1.3-0
-CINNA: 1.1.54
+CINNA: 1.1.55
 CINOEDV: '2.0'
 CINmetrics: 0.1.0
 CISE: 0.1.0
@@ -1138,7 +1138,7 @@ ConsRank: 2.1.2
 ConsRankClass: 1.0.1
 ConsReg: 0.1.0
 Containers: '1.2'
-ContaminatedMixt: 1.3.4.1
+ContaminatedMixt: 1.3.6
 ContourFunctions: 0.1.1
 ConvCalendar: '1.2'
 ConvergenceClubs: 2.2.1
@@ -2109,7 +2109,7 @@ Fuzzy.p.value: '1.1'
 FuzzyAHP: 0.9.5
 FuzzyLP: 0.1-6
 FuzzyMCDM: '1.1'
-FuzzyNumbers: 0.4-6
+FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
@@ -2655,7 +2655,7 @@ ICAFF: 1.0.1
 ICAMS: 2.3.10
 ICAOD: 1.0.1
 ICBayes: '1.2'
-ICBioMark: 0.1.2
+ICBioMark: 0.1.4
 ICC: 2.3.0
 ICC.Sample.Size: '1.0'
 ICCbin: 1.1.1
@@ -3002,6 +3002,7 @@ LARF: '1.4'
 LARGB: 0.1.0
 LARisk: 0.1.0
 LAWBL: 1.4.0
+LBC: '1.0'
 LBLGXE: '1.4'
 LBSPR: 0.1.6
 LCA: 0.1.1
@@ -3377,6 +3378,7 @@ MIfuns: '5.1'
 MImix: '1.0'
 MInt: 1.0.1
 MKLE: '0.05'
+MKMeans: '1.0'
 MKclass: '0.3'
 MKdescr: '0.7'
 MKinfer: '0.6'
@@ -3559,6 +3561,7 @@ ManlyMix: 0.1.14
 ManyTests: '1.2'
 Map2NCBI: '1.4'
 MapGAM: 1.2-5
+MapeBay: 0.1.0
 Mapinguari: 1.0.0
 MareyMap: 1.3.6
 MargCond: 1.0.0
@@ -3800,6 +3803,7 @@ MultiVarSel: 1.1.3
 Multiclasstesting: 1.3.9
 MultinomialCI: '1.2'
 MultipleBubbles: 0.2.0
+MultipleRegression: 0.1.0
 MultiplierDEA: 0.1.18
 MultisiteMediation: 0.0.4
 MultivariateAnalysis: 0.4.4
@@ -5553,7 +5557,7 @@ RobStatTM: 1.0.2
 RobinHood: '1.6'
 Robocoap: 0.1-1
 RobustAFT: 1.4-5
-RobustBF: 0.1.0
+RobustBF: 0.2.0
 RobustBayesianCopas: '2.0'
 RobustCalibration: 0.5.1
 RobustEM: '1.0'
@@ -5693,7 +5697,7 @@ SBMSplitMerge: 1.1.1
 SBRect: '0.26'
 SBSA: 0.2.3
 SBSDiff: 0.1.0
-SBdecomp: '1.1'
+SBdecomp: '1.2'
 SBmedian: 0.1.1
 SC.MEB: '1.1'
 SC2API: 1.0.0
@@ -6207,7 +6211,7 @@ SpatPCA: 1.3.3.0
 SpatialAcc: 0.1-4
 SpatialBSS: 0.12-0
 SpatialBall: 0.1.0
-SpatialEpi: 1.2.6
+SpatialEpi: 1.2.7
 SpatialEpiApp: '0.3'
 SpatialExtremes: 2.0-9
 SpatialFloor: 1.1.0
@@ -6334,7 +6338,7 @@ Superpower: 0.1.2
 SuppDists: 1.1-9.5
 SurfaceTortoise: 1.0.2
 Surrogate: '2.0'
-SurrogateOutcome: '1.0'
+SurrogateOutcome: '1.1'
 SurrogateRegression: 0.5.0
 SurrogateTest: '1.2'
 SurvBoost: 0.1.2
@@ -6357,7 +6361,7 @@ SwimmeR: 0.13.0
 SwissAir: 1.1.5
 SyNet: '2.0'
 SyScSelection: 1.0.2
-SymTS: '1.0'
+SymTS: 1.0-1
 SymbolicDeterminants: 2.0.0
 SympluR: 0.3.0
 SyncMove: 0.1-0
@@ -9442,6 +9446,7 @@ customLayout: 0.3.2
 customizedTraining: '1.2'
 customsteps: 0.7.1.0
 cusum: 0.4.1
+cusumcharter: 0.1.0
 cutoff: '1.3'
 cutoffR: '1.0'
 cutpointr: 1.1.1
@@ -9584,7 +9589,7 @@ datapackage.r: 1.3.4
 datapasta: 3.1.0
 dataprep: 0.1.4
 dataquieR: 1.0.9
-datardis: 0.0.1
+datardis: 0.0.2
 dataresqc: 1.1.0
 datarium: 0.1.0
 datarobot: 2.18.0
@@ -9911,7 +9916,7 @@ dimensio: 0.2.2
 dimensionsR: 0.0.2
 dina: 2.0.0
 dinamic: '1.0'
-dineR: 1.0.0
+dineR: 1.0.1
 dineq: 0.1.0
 dint: 2.1.3
 dipm: '1.2'
@@ -10721,7 +10726,7 @@ estimraw: 1.0.0
 estmeansd: 0.2.1
 estout: '1.2'
 estprod: '1.2'
-estudy2: 0.9.3
+estudy2: 0.10.0
 esvis: 0.3.1
 etable: 1.3.1
 etasFLP: 2.2.0
@@ -11422,7 +11427,7 @@ freqweights: 1.0.4
 fresh: 0.2.0
 friends: 0.1.0
 frite: 0.1.0
-fritools: 2.3.0
+fritools: 2.4.0
 frm: 1.2.2
 frmhet: 1.1.3
 frmpd: 1.1.0
@@ -13566,7 +13571,7 @@ kknn: 1.3.1
 klaR: 0.6-15
 klassR: 0.1.7
 klausuR: 0.12-10
-kldtools: '1.1'
+kldtools: '1.2'
 klexdatr: 0.1.2
 klic: 1.0.4
 klin: '2007-02-05'
@@ -14284,7 +14289,7 @@ manhplot: '1.1'
 manifestoR: 1.5.0
 manipulate: 1.0.1
 manipulateWidget: 0.11.1
-manymodelr: 0.3.6
+manymodelr: 0.3.7
 maotai: 0.2.2
 mapDK: 0.3.0
 mapLD: 1.0-1
@@ -14928,7 +14933,7 @@ mlr3learners: 0.5.0
 mlr3measures: 0.4.0
 mlr3misc: 0.9.4
 mlr3oml: 0.5.0
-mlr3pipelines: 0.3.6-1
+mlr3pipelines: 0.4.0
 mlr3proba: 0.4.2
 mlr3shiny: 0.2.0
 mlr3spatiotempcv: 1.0.0
@@ -15112,7 +15117,7 @@ mosqcontrol: 0.1.0
 mosum: 1.2.6
 mota: '1.2'
 motif: 0.5.0
-motifcluster: 0.1.1
+motifcluster: 0.1.2
 motifr: 1.0.0
 motmot: 2.1.3
 motmot.2.0: 1.1.2
@@ -15234,6 +15239,7 @@ mstherm: 0.4.7
 mstknnclust: 0.3.1
 mstrio: 11.3.0.1
 msu: 0.0.1
+mt: 2.0-1.18
 mtb: 0.1.0
 mtconnectR: 1.2.1
 mtcreator: '0.1'
@@ -16233,7 +16239,7 @@ pagedown: '0.15'
 pagemap: 0.1.3
 pagenum: '1.2'
 pageviews: 0.5.0
-pagoda2: 1.0.6
+pagoda2: 1.0.7
 pagoo: 0.3.9
 painbow: 1.0.1
 painter: 0.1.0
@@ -16370,7 +16376,7 @@ patentsview: 0.3.0
 path.chain: 0.2.0
 pathClass: '0.9'
 pathdiagram: 0.1.9.1
-pathfindR: 1.6.2
+pathfindR: 1.6.3
 pathfindR.data: 1.1.2
 pathlibr: 0.1.0
 pathlit: 0.1.0
@@ -18668,6 +18674,7 @@ rpubchem: 1.5.10
 rpubs: 0.2.2
 rpud: 0.0.2
 rpvm: 1.0-4
+rpymat: 0.1.1
 rqPen: 2.2.2
 rqdatatable: 1.3.0
 rqmcmb2: 1.0.2
@@ -18739,7 +18746,7 @@ rsinaica: 0.6.1
 rskey: 0.4.4
 rsleep: 1.0.3
 rslp: 0.2.0
-rslurm: 0.6.0
+rslurm: 0.6.1
 rsm: 2.10.3
 rsmatrix: 0.2.0
 rsml: '1.3'
@@ -18771,7 +18778,7 @@ rstiefel: 1.0.1
 rstoat: 1.0.2
 rstpm2: 1.5.2
 rstream: 1.3.6
-rstudio.prefs: 0.1.7
+rstudio.prefs: 0.1.8
 rstudioapi: '0.13'
 rstyles: 0.4.0
 rsubgroup: '1.1'
@@ -20529,7 +20536,7 @@ survival4: 1.4-0
 survival5: '2.4'
 survivalAnalysis: 0.2.0
 survivalBIV: '1.3'
-survivalMPL: '0.2'
+survivalMPL: 0.2-1
 survivalMPLdc: 0.1.1
 survivalROC: 1.0.3
 survivalmodels: 0.1.9
@@ -20799,7 +20806,7 @@ tergmLite: 2.5.5
 term: 0.3.3
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.4-11
+terra: 1.4-19
 terrainmeshr: 0.1.0
 terrainr: 0.5.0
 tesseract: 4.1.2
