@@ -377,7 +377,7 @@ BI: 1.0.0
 BICORN: 0.1.0
 BIEN: 1.2.4
 BIFIEsurvey: 3.3-12
-BIGDAWG: 2.3.6
+BIGDAWG: 3.0.3
 BIGL: 1.6.5
 BINCO: 0.1-1
 BINCOR: 0.2.0
@@ -520,7 +520,7 @@ BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
 BayesMRA: 1.0.0
-BayesMallows: 1.0.3
+BayesMallows: 1.0.4
 BayesMassBal: 1.0.0
 BayesMed: '1.0'
 BayesMixSurv: 0.9.1
@@ -2581,7 +2581,7 @@ HapEstXXR: 0.1-8
 Hapi: 0.0.3
 Haplin: 7.2.3
 HaploSim: 1.8.4
-HardyWeinberg: 1.7.2
+HardyWeinberg: 1.7.3
 HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
 HeckmanEM: 0.1.2
@@ -6282,7 +6282,7 @@ StatPerMeCo: 0.1.0
 StatRank: 0.0.6
 StateTrace: '1.0'
 Statomica: '1.0'
-Statsomat: '1.0'
+Statsomat: 1.1.0
 SteinIV: 0.1-1
 SteinerNet: 3.1.0
 Stem: '1.0'
@@ -6680,7 +6680,7 @@ TwslmSpikeWeight: 1.0.1
 UBCRM: 1.0.1
 UBL: 0.0.7
 UCR.ColumnNames: 0.1.0
-UCSCXenaShiny: 1.1.1
+UCSCXenaShiny: 1.1.2
 UCSCXenaTools: 1.4.7
 UComp: 2.2.2
 UKB.COVID19: 0.1.1
@@ -7016,7 +7016,7 @@ accelmissing: '1.4'
 accept: 0.8.3
 accrual: '1.3'
 accrued: '1.4'
-accucor: 0.2.4
+accucor: 0.3.0
 accuracy: '1.35'
 ace2fastq: 0.6.0
 aceEditor: 1.0.1
@@ -8415,7 +8415,7 @@ carpenter: 0.2.2
 carrier: 0.1.0
 cartograflow: 1.0.3
 cartogram: 0.2.2
-cartogramR: 1.0-3
+cartogramR: 1.0-5
 cartography: 3.0.1
 cartools: 0.1.0
 carx: 0.7.1
@@ -9521,7 +9521,7 @@ dabr: 0.0.3
 dad: 4.0.0
 dadjoke: '1.0'
 dadjokeapi: 1.0.2
-dae: 3.2-11
+dae: 3.2-13
 daewr: 1.2-7
 daff: 0.3.5
 dafs: 1.0-37
@@ -9923,7 +9923,7 @@ dinamic: '1.0'
 dineR: 1.0.1
 dineq: 0.1.0
 dint: 2.1.3
-dipm: '1.2'
+dipm: '1.3'
 diproperm: 0.2.0
 dipsaus: 0.1.9
 diptest: 0.76-0
@@ -11400,7 +11400,7 @@ frailtySurv: 1.3.7
 frailtypack: 3.4.0
 frair: 0.5.100
 frambgrowth: 0.1.0
-framecleaner: 0.1.0
+framecleaner: 0.2.0
 franc: 1.1.4
 frapplot: 0.1.3
 frbf: '1.0'
@@ -12280,7 +12280,7 @@ gpairs: 1.3.3
 gpbStat: 0.3.5
 gpboost: 0.6.7
 gpclib: 1.5-6
-gpg: 1.2.3
+gpg: 1.2.4
 gphmm: 0.99.0
 gpindex: 0.3.6
 gpk: '1.0'
@@ -12658,7 +12658,7 @@ hierarchicalSets: 1.0.2
 hierband: '1.0'
 hierbase: 0.1.2
 hierformR: 0.1.0
-hierfstat: 0.5-7
+hierfstat: 0.5-10
 hiertest: '1.1'
 highD2pop: '1.0'
 highDmean: 0.1.0
@@ -13022,7 +13022,7 @@ igraphdata: 1.0.1
 igraphinshiny: '0.1'
 igraphtosonia: '1.0'
 iheatmapr: 0.5.1
-iheiddown: 0.8.2
+iheiddown: 0.8.6
 ihpdr: 1.2.1
 ihs: '1.0'
 iid.test: '1.6'
@@ -13033,7 +13033,7 @@ ilc: '1.0'
 imPois: 0.1.4
 imabc: 1.0.0
 image.CannyEdges: 0.1.0
-image.ContourDetector: 0.1.0
+image.ContourDetector: 0.1.1
 image.CornerDetectionF9: 0.1.0
 image.CornerDetectionHarris: 0.1.1
 image.LineSegmentDetector: 0.1.0
@@ -14595,7 +14595,7 @@ met: 0.1.0
 metR: 0.11.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
-meta: 5.0-1
+meta: 5.1-0
 meta4diag: 2.0.8
 metaBLUE: 1.0.0
 metaBMA: 0.6.7
@@ -17042,7 +17042,7 @@ powerMediation: 0.3.4
 powerSurvEpi: 0.1.3
 powerbydesign: 1.0.5
 powerlmm: 0.4.0
-powerly: 1.7.1
+powerly: 1.7.2
 powerpkg: '1.5'
 powerplus: '3.1'
 powerr: 0.1-3
@@ -17142,7 +17142,7 @@ prettyunits: 1.1.1
 prevR: 3.4.1
 prevalence: 0.4.0
 prevederer: 0.0.1
-previsionio: 11.3.1
+previsionio: 11.3.3
 prevtoinc: 0.12.0
 prewas: 1.1.1
 priceR: 0.1.6
@@ -20656,7 +20656,7 @@ syntaxr: 0.8.0
 synthACS: 1.6.0
 synthesis: 1.2.2
 synthesisr: 0.3.0
-synthpop: 1.6-0
+synthpop: 1.7-0
 sys: '3.4'
 sysfonts: 0.8.5
 sysid: 1.0.4
@@ -20931,7 +20931,7 @@ tidyBF: 0.5.1
 tidyBdE: 0.2.2
 tidyCpp: 0.0.5
 tidyHeatmap: 1.3.1
-tidyLPA: 1.0.8
+tidyLPA: 1.1.0
 tidyMicro: '1.47'
 tidyREDCap: 0.2.0
 tidyRSS: 2.0.4
@@ -21701,7 +21701,7 @@ vindecodr: 0.1.1
 vinereg: 0.7.4
 vines: 1.1.5
 violinmplot: 0.2.1
-violinplotter: 2.0.1
+violinplotter: 3.0.0
 vioplot: 0.3.7
 viopoints: 0.2-1
 vip: 0.3.2
