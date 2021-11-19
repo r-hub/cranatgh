@@ -4240,7 +4240,7 @@ PKmodelFinder: '1.1'
 PKreport: '1.5'
 PKtools: 1.5-0
 PL.popN: '1.2'
-PL94171: 0.3.2
+PL94171: 1.0.1
 PLFD: 0.1.1
 PLIS: '1.1'
 PLMIX: 2.1.1
@@ -6083,7 +6083,7 @@ SigTree: 1.10.6
 SigWinR: '1.0'
 SightabilityModel: 1.4.2
 Signac: 1.4.0
-SignacX: 2.2.4
+SignacX: 2.2.5
 SignifReg: '4.2'
 Sim.DiffProc: '4.8'
 Sim.DiffProcGUI: '2.5'
@@ -7067,6 +7067,7 @@ adaptalint: 0.2.4
 adaptiveGPCA: 0.1.2
 adaptivetau: 2.2-3
 adaptsmoFMRI: '1.1'
+adass: 1.0.0
 add2ggplot: 0.3.0
 addScales: 1.0-1
 addhaz: '0.5'
@@ -7291,7 +7292,7 @@ antaresEditObject: 0.3.0
 antaresProcessing: 0.18.1
 antaresRead: 2.2.9
 antaresViz: '0.9'
-anthro: 0.9.4
+anthro: 1.0.0
 anticlust: 0.5.6
 antitrust: 0.99.25
 antiword: '1.3'
@@ -7547,7 +7548,7 @@ autoshiny: 0.0.2
 autostats: 0.1.0
 autostsm: '2.0'
 autota: 0.1.3
-autothresholdr: 1.3.11
+autothresholdr: 1.3.12
 autovarCore: 1.0-4
 av: 0.6.0
 available: 1.0.4
@@ -7743,7 +7744,7 @@ bazar: 1.0.11
 bbdetection: '1.0'
 bbefkr: '4.2'
 bbemkr: '2.0'
-bbl: 0.4.0
+bbl: 0.4.1
 bbmle: 1.0.24
 bbo: '0.2'
 bbotk: 0.4.0
@@ -8747,7 +8748,7 @@ cliapp: 0.1.1
 clickR: 0.8.0
 clickstream: 1.3.1
 cliff: 0.1.2
-clifford: 1.0-2
+clifford: 1.0-5
 clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-7
@@ -8833,7 +8834,7 @@ clusternor: 0.0-4
 clustertend: '1.5'
 clusteval: '0.1'
 clusthaplo: '1.2'
-clustrd: 1.3.7-2
+clustrd: 1.3.8
 clustree: 0.4.4
 clustringr: '1.0'
 clustsig: '1.1'
@@ -10811,6 +10812,7 @@ excelR: 0.4.0
 excelstrippr: 0.1.2
 excerptr: 2.0.1
 excessmort: 0.6.1
+excluder: 0.3.2
 excursions: 2.5.2
 exdex: 1.0.1
 exdqlm: 0.1.2
@@ -10991,6 +10993,7 @@ fasjem: 1.1.2
 fasstr: 0.3.3
 fast: '0.64'
 fastAdaboost: 1.0.0
+fastCorrDiff: '0.5'
 fastDummies: 1.6.3
 fastGHQuad: '1.0'
 fastGraph: '2.1'
@@ -11169,6 +11172,7 @@ files: 0.0.1
 filesstrings: 3.2.2
 filling: 0.2.3
 fillr: 1.0.0
+filterNHP: 0.1.2
 filterviewR: '0.11'
 finalfit: 1.0.3
 financial: '0.2'
@@ -11697,7 +11701,7 @@ gde: 0.1.4
 gdiff: 0.2-2
 gdimap: 0.1-9
 gdistance: 1.3-6
-gdm: 1.5.0
+gdm: 1.5.0-1
 gdmp: 0.2.0
 gdns: 0.5.0
 gdor: 0.1-1
@@ -13327,7 +13331,7 @@ isokernel: 0.1.0
 isopam: 0.9-13
 isopat: '1.0'
 isoph: '1.1'
-isoreader: 1.3.1
+isoreader: 1.3.2
 isotone: 1.1-0
 isotonic.pen: '1.0'
 isotracer: 1.0.4
@@ -13406,7 +13410,7 @@ jenga: 1.0.0
 jenkins: '1.0'
 jetpack: 0.5.0
 jetset: 3.4.0
-jfa: 0.6.0
+jfa: 0.6.1
 jgcricolors: 1.0.0
 jiebaR: '0.11'
 jiebaRD: '0.1'
@@ -13617,6 +13621,7 @@ knnTree: 1.2.4
 knncat: 1.2.2
 knnflex: '1.1'
 knnp: 2.0.0
+knnwtsim: 0.1.0
 knockoff: 0.3.3
 knor: 0.0-7
 knorm: '1.0'
@@ -13862,7 +13867,7 @@ lenses: 0.0.3
 leontief: '0.2'
 leri: 0.0.1
 lero.lero: '0.2'
-lessR: 4.0.6
+lessR: 4.0.8
 lest: 1.1.0
 lestat: '1.9'
 letsR: '4.0'
@@ -15984,7 +15989,7 @@ onemapsgapi: 1.0.0
 onepass: 0.1.2
 onewaytests: '2.6'
 onion: 1.5-0
-onlineBcp: 0.1.1
+onlineBcp: 0.1.2
 onlineCOV: '1.3'
 onlineCPD: '1.0'
 onlinePCA: 1.3.1
@@ -16007,7 +16012,7 @@ oosp: 0.3.3
 opGMMassessment: '0.3'
 opalr: 3.0.2
 opart: 2019.1.0
-opdisDownsampling: 0.7.0
+opdisDownsampling: 0.8.0
 opefimor: '1.2'
 openCR: 2.2.1
 openEBGM: 0.8.3
@@ -16203,7 +16208,7 @@ oz: 1.0-21
 ozmaps: 0.4.5
 p2distance: 1.0.1
 p3state.msm: '1.3'
-pARI: 1.0.0
+pARI: 1.1.0
 pARccs: 0.2-2
 pARtial: '0.1'
 pAnalysis: '2.0'
@@ -18516,7 +18521,7 @@ rngWELL: 0.10-7
 rngtools: 1.5.2
 rngwell19937: 0.6-0
 rnn: 1.4.0
-rnoaa: 1.3.4
+rnoaa: 1.3.7
 rnpn: 1.2.4
 rnr: 0.2.1
 rnrfa: 2.0.4
@@ -20263,7 +20268,7 @@ starma: '1.3'
 starmie: 0.1.2
 starnet: 0.0.6
 stars: 0.5-3
-starsExtra: 0.2.6
+starsExtra: 0.2.7
 starschemar: 1.2.0
 startR: 2.1.0
 starter: 0.1.7
@@ -20494,7 +20499,7 @@ superml: 0.5.3
 supernova: 2.4.4
 superpc: '1.12'
 supervisedPRIM: 2.0.0
-suppdata: 1.1-7
+suppdata: 1.1-8
 support: 0.1.5
 support.BWS: 0.4-4
 support.BWS2: 0.3-0
@@ -21024,7 +21029,7 @@ tigreBrowserWriter: 0.1.5
 tigris: '1.5'
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
-tiledb: 0.9.7
+tiledb: 0.10.0
 tilegramsR: 0.2.0
 tilemaps: 0.2.0
 tiler: 0.2.5
