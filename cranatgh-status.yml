@@ -867,7 +867,7 @@ COSINE: '2.1'
 COST: 0.1.0
 COUNT: 1.3.4
 COUSCOus: 1.0.0
-COVID19: 2.3.2
+COVID19: 3.0.0
 COVIDIBGE: 0.1.7
 COZIGAM: 2.0-3
 COveR: 1.0.3
@@ -1368,6 +1368,7 @@ DPWeibull: '1.7'
 DPpackage: 1.1-7
 DPtree: 1.0.1
 DPw: '1.1'
+DR.SC: '2.2'
 DRAFT: 0.3.0
 DRAYL: '1.0'
 DRDID: 1.0.3
@@ -1991,6 +1992,7 @@ FactorCopula: '0.5'
 FactorsR: '1.4'
 Factoshiny: '2.4'
 Fahrmeir: 2016.5.31
+FairMclus: 2.2.1
 FamEvent: '2.1'
 Familias: '2.4'
 FamilyRank: '1.0'
@@ -2996,7 +2998,7 @@ L0Learn: 2.0.3
 L1mstate: 1.0.1
 L1pack: 0.38.196
 L2DensityGoFtest: 0.2.0
-LA: 0.1.2
+LA: 0.1.3
 LAGOSNE: 2.0.2
 LAM: 0.5-15
 LANDD: 1.1.0
@@ -3685,6 +3687,7 @@ MicroMacroMultilevel: 0.4.0
 MicroNiche: 1.0.0
 MicroSEC: 1.1.3
 MicroStrategyR: 1.0-1
+MicrobiomeStat: '1.0'
 Microsoft365R: 2.3.2
 MigClim: '1.6'
 MinBAR: 1.1.2
@@ -5727,6 +5730,7 @@ SCORPIUS: 1.0.8
 SCOUTer: 1.0.0
 SCPME: '1.0'
 SCRABBLE: 0.0.1
+SCRIP: 1.0.0
 SCRSELECT: 1.3-3
 SCRT: 1.3.1
 SCVA: 1.3.1
@@ -7414,7 +7418,7 @@ arse: 1.0.0
 arsenal: 3.6.3
 artemis: 1.1.1
 artfima: '1.5'
-arules: 1.7-0
+arules: 1.7-1
 arulesCBA: 1.2.0
 arulesNBMiner: 0.1-8
 arulesSequences: 0.2-25
@@ -9704,7 +9708,7 @@ debugr: 0.0.1
 decctools: 0.2.1
 decido: 0.3.0
 decision: 0.1.0
-decisionSupport: '1.108'
+decisionSupport: '1.109'
 deckgl: 0.2.7
 declared: '0.7'
 decode: '1.2'
@@ -10315,7 +10319,7 @@ easi: '0.2'
 easingr: 1.0.1
 easyAHP: 0.1.1
 easyCODA: 0.34.3
-easyDes: '5.0'
+easyDes: '6.0'
 easyNCDF: 0.1.0
 easyPSID: 0.1.2
 easyPubMed: '2.13'
@@ -11415,7 +11419,7 @@ frbf: '1.0'
 frbs: 3.2-0
 frechet: 0.2.0
 fredr: 2.1.0
-freealg: 1.0-2
+freealg: 1.0-3
 freedom: 1.0.1
 freegroup: 1.1-0
 freeknotsplines: '1.0'
@@ -14608,6 +14612,7 @@ metR: 0.11.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
 meta: 5.1-0
+meta.shrinkage: 0.1.0
 meta4diag: 2.0.8
 metaBLUE: 1.0.0
 metaBMA: 0.6.7
@@ -14792,7 +14797,7 @@ minPtest: '1.7'
 minSNPs: 0.0.1
 mind: 0.1.4
 mindicador: 0.1.5
-mindr: 1.2.3
+mindr: 1.3.1
 mineCitrus: 1.0.0
 mined: 1.0-2
 minerva: 1.5.10
@@ -14947,7 +14952,7 @@ mlr3db: 0.4.2
 mlr3filters: 0.4.2
 mlr3fselect: 0.6.0
 mlr3hyperband: 0.2.0
-mlr3learners: 0.5.0
+mlr3learners: 0.5.1
 mlr3measures: 0.4.0
 mlr3misc: 0.9.5
 mlr3oml: 0.5.0
@@ -15889,6 +15894,7 @@ nzffdr: 1.0.0
 nzilbb.labbcat: 1.0-1
 nzpullover: 0.3.0
 o2geosocial: 1.1.0
+o2plsda: 0.0.12
 oRus: 1.0.0
 oXim: 1.2.2
 oaColors: 0.0.4
@@ -18750,7 +18756,7 @@ rscala: 3.2.19
 rscc: 0.2.0
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 0.8.24
+rsconnect: 0.8.25
 rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.20.0
@@ -20267,7 +20273,7 @@ starm: 0.1.0
 starma: '1.3'
 starmie: 0.1.2
 starnet: 0.0.6
-stars: 0.5-3
+stars: 0.5-4
 starsExtra: 0.2.7
 starschemar: 1.2.0
 startR: 2.1.0
@@ -21262,7 +21268,7 @@ trend: 1.1.4
 trendchange: '1.1'
 trendeval: 0.0.1
 trending: 0.0.3
-trendsegmentR: 1.0.0
+trendsegmentR: 1.1.0
 trendyy: 0.1.1
 trex: '0.5'
 triads: '0.2'
@@ -22177,6 +22183,7 @@ yotover: 0.3.5
 youtubecaption: 1.0.0
 yowie: 0.1.0
 ypr: 0.5.2
+ypssc: 1.0.0
 yuima: 1.9.6
 yuimaGUI: 1.3.0
 yulab.utils: 0.0.4
