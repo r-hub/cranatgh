@@ -582,7 +582,7 @@ Bergm: 5.0.3
 BerkeleyEarth: '1.8'
 BerlinData: 1.0.1
 Bessel: 0.6-0
-Bestie: 0.1.2
+Bestie: 0.1.3
 BetaBit: '1.4'
 BetaPASS: 1.1-1
 BeviMed: '5.8'
@@ -2118,7 +2118,7 @@ FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
-FuzzyResampling: 0.1.0
+FuzzyResampling: 0.3.0
 FuzzySTs: '0.2'
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
@@ -3667,7 +3667,7 @@ MetamapsDB: 0.0.2
 Metatron: 0.1-1
 Meth27QC: '1.1'
 MethComp: 1.30.0
-MethodCompare: 0.1.0
+MethodCompare: 0.1.1
 Methplot: '1.0'
 MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
@@ -4214,6 +4214,7 @@ PEMM: '1.0'
 PERMANOVA: 0.2.0
 PERregress: 1.0-8
 PET: 0.5.1
+PEkit: 1.0.0.1000
 PF: '9.5'
 PGEE: '1.5'
 PGICA: '1.0'
@@ -5307,7 +5308,7 @@ RcmdrPlugin.temis: 0.7.10
 Rcoclust: '0.1'
 Rcolombos: 2.0.2
 Rcompadre: 1.1.0
-Rcplex: 0.3-3
+Rcplex: 0.3-4
 Rcpp: 1.0.7
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.7
@@ -5331,7 +5332,7 @@ RcppDist: 0.1.1
 RcppDynProg: 0.2.0
 RcppEigen: 0.3.3.9.1
 RcppEigenAD: 1.0.0
-RcppEnsmallen: 0.2.18.0.1
+RcppEnsmallen: 0.2.18.1.1
 RcppExamples: 0.1.9
 RcppFaddeeva: 0.1.0
 RcppFarmHash: 0.0.2
@@ -7014,7 +7015,7 @@ abnormality: 0.1.0
 abodOutlier: '0.1'
 abstr: 0.4.0
 abstractr: 0.1.0
-abtest: 0.2.2
+abtest: 1.0.1
 abundant: '1.1'
 academictwitteR: 0.3.0
 acc: 1.3.3
@@ -8598,6 +8599,7 @@ cglm: '1.1'
 cgmanalysis: 2.7.2
 cgmquantify: 0.1.0
 cgraph: 6.0.1
+cgrcusum: 0.1.0
 cgwtools: '3.3'
 ch: 0.1.0.2
 chameleon: 0.2-0
@@ -9277,7 +9279,7 @@ cppcor: '1.2'
 cpr: 0.2.3
 cprobit: 1.0.2
 cprr: 0.2.0
-cpsR: 0.4.4
+cpsR: 0.4.5
 cpss: 0.0.2
 cpsurvsim: 1.2.0
 cpsvote: 0.1.0
@@ -10048,7 +10050,7 @@ dlm: 1.1-5
 dlmap: '1.13'
 dlmodeler: 1.4-2
 dlnm: 2.4.7
-dlookr: 0.5.1
+dlookr: 0.5.2
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.4
@@ -10234,7 +10236,7 @@ dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.3.1
+duckdb: 0.3.1-1
 duckduckr: 1.0.0
 dumbbell: '0.1'
 dummies: 1.5.6
@@ -11992,6 +11994,7 @@ gggap: 1.0.1
 gggenes: 0.4.1
 ggghost: 0.2.1
 gggibbous: 0.1.1
+gggrid: 0.1-1
 ggguitar: 0.1.1
 ggh4x: 0.2.0
 gghalfnorm: 1.1.2
@@ -12117,7 +12120,7 @@ gimms: 1.2.1
 giphyr: 0.2.0
 giscoR: 0.3.1
 gistr: 0.9.0
-git2r: 0.28.0
+git2r: 0.29.0
 git2rdata: 0.3.1
 gitcreds: 0.1.1
 gitdown: 0.1.3
@@ -12401,6 +12404,7 @@ gromovlab: 0.8-3
 groundhog: 1.5.0
 groupICA: 0.1.1
 groupRemMap: 0.1-0
+groupTesting: 1.0.0
 groupWQS: 0.0.3
 groupdata2: 2.0.0
 grouped: 0.6-0
@@ -13167,6 +13171,7 @@ inldata: 1.0.3
 inline: 0.3.19
 inlinedocs: 2019.12.5
 inlmisc: 0.5.2
+innsight: 0.1.0
 inops: 0.0.1
 inpdfr: 0.1.11
 inplace: 0.1.2
@@ -14190,7 +14195,7 @@ lsplsGlm: '1.0'
 lsr: 0.5.1
 lss: '0.52'
 lss2: '1.1'
-ltable: '1.0'
+ltable: 2.0.1
 ltbayes: '0.4'
 ltm: 1.1-1
 ltmix: 0.2.1
@@ -14803,7 +14808,7 @@ minPtest: '1.7'
 minSNPs: 0.0.1
 mind: 0.1.4
 mindicador: 0.1.5
-mindr: 1.3.1
+mindr: 1.3.2
 mineCitrus: 1.0.0
 mined: 1.0-2
 minerva: 1.5.10
@@ -15110,8 +15115,8 @@ monkeylearn: 0.2.0
 monmlp: 1.1.5
 monoClust: 1.2.1
 monoProc: 1.0-6
-monobin: 0.2.0
-monobinShiny: 0.0.9
+monobin: 0.2.1
+monobinShiny: 0.1.0
 monogeneaGM: '1.1'
 monographaR: 1.2.1
 monomvn: 1.9-13
@@ -16038,7 +16043,7 @@ openSTARS: 1.2.2
 openSkies: 1.1.5
 openVA: 1.0.13
 openadds: 0.2.0
-openair: 2.8-5
+openair: 2.8-6
 openblender: 0.5.81
 opencage: 0.2.2
 opencastR: 0.1.3
@@ -16717,6 +16722,7 @@ phylolm: 2.6.2
 phylometrics: 0.0.1
 phylopath: 1.1.3
 phyloregion: 1.0.6
+phylosamp: 0.1.6
 phyloseqGraphTest: 0.1.0
 phylosignal: '1.3'
 phylosim: 3.0.5
@@ -16914,7 +16920,7 @@ pmml: 2.5.1
 pmmlTransformations: 1.3.3
 pmpp: 0.1.1
 pmr: 1.2.5
-pmsampsize: 1.1.0
+pmsampsize: 1.1.1
 pmultinom: 1.0.0
 pmwg: 0.2.0
 pmxTools: 1.2.1
@@ -16986,7 +16992,7 @@ polypharmacy: 1.0.0
 polyphemus: 0.3.4
 polypoly: 0.0.2
 polyqtlR: 0.0.6
-polyreg: 0.6.9
+polyreg: 0.7.0
 polysat: 1.7-5
 polytomous: 0.1.6
 polywog: 0.4-1
@@ -17755,12 +17761,12 @@ ractivecampaign: 0.2.0
 radar: 1.0.0
 radarBoxplot: 1.0.5
 radarchart: 0.3.1
-radiant: 1.4.0
+radiant: 1.4.1
 radiant.basics: 1.4.1
 radiant.data: 1.4.1
 radiant.design: 1.4.1
-radiant.model: 1.4.1
-radiant.multivariate: 1.3.5
+radiant.model: 1.4.2
+radiant.multivariate: 1.4.1
 radiomics: 0.1.3
 radir: 1.0.4
 radix: '0.6'
@@ -18403,7 +18409,7 @@ ringostat: 0.1.3
 ringscale: 0.1.2
 rintimg: 0.1.0
 rintrojs: 0.3.0
-rio: 0.5.27
+rio: 0.5.29
 rioja: 0.9-26
 ripa: 2.0-2
 ripe: 0.1.0
@@ -19120,6 +19126,7 @@ schoenberg: 2.0.2
 scholar: 0.2.2
 schoolmath: '0.4'
 schrute: 0.2.2
+schtools: 0.1.0
 schumaker: 1.2.1
 schwartz97: 0.0.6
 scico: 1.2.0
@@ -19673,7 +19680,7 @@ sitar: 1.2.0
 siteymlgen: 1.0.0
 sitmo: 2.0.2
 sitools: '1.4'
-sitree: 0.1-11
+sitree: 0.1-12
 sitreeE: 0.0-7
 sitsfeats: 0.0.1
 sivipm: 1.1-4
@@ -20261,13 +20268,14 @@ stabreg: 0.1.2
 stabs: 0.6-4
 stackoverflow: 0.7.0
 stacks: 0.2.1
-stacomiR: 0.5.4.3
+stacomiR: 0.6.0
 stacomirtools: 0.6.0
 stagePop: 1.1-1
 stagedtrees: 2.2.0
 staggered: '1.1'
 stam: 0.0-1
 stampr: '0.2'
+stan4bart: 0.0-1
 standGL: '1.1'
 standardize: 0.2.2
 standartox: 0.0.1
@@ -20431,7 +20439,7 @@ stressaddition: 3.1.0
 stressr: 1.0.0
 strex: 1.4.2
 strider: '1.3'
-string2path: 0.0.3
+string2path: 0.0.4
 stringb: 0.1.17
 stringdist: 0.9.8
 stringfish: 0.15.4
@@ -20634,7 +20642,7 @@ swatches: 0.5.0
 swdft: 1.0.0
 swdpwr: '1.6'
 sweSCB: '0.3'
-sweater: 0.1.0
+sweater: 0.1.1
 sweep: 0.2.3
 sweidnumbr: 1.4.2
 swephR: 0.3.0
@@ -20868,6 +20876,7 @@ testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
 tetraclasse: 0.1.21
+tetragon: 1.0.0
 texPreview: '1.5'
 texmex: 2.4.8
 texmexseq: '0.3'
@@ -22005,7 +22014,7 @@ wmlf: 0.1.2
 wmm: 1.1.1
 wmtsa: 2.0-3
 wmwpow: 0.1.3
-wnl: 0.6.3
+wnl: 0.6.4
 wnominate: '1.3'
 woe: '0.2'
 woeBinning: 0.1.6
