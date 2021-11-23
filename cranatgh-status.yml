@@ -1485,7 +1485,7 @@ DepLogo: '1.2'
 Depela: '0.0'
 DepthProc: 2.1.4
 Deriv: 4.1.3
-DescTools: 0.99.43
+DescTools: 0.99.44
 DescToolsAddIns: '1.9'
 DescrTab2: 2.0.7
 DescribeDisplay: 0.2.7
@@ -1879,6 +1879,7 @@ FADPclust: 0.1.0
 FAIRmaterials: 0.0.2
 FAMILY: 0.1.19
 FAMT: '2.5'
+FAMetA: 0.1.0
 FAMoS: 0.3.0
 FAO56: 0.1.0
 FAOSTAT: 2.2.1
@@ -2412,6 +2413,7 @@ GetoptLong: 1.0.5
 Ghat: 0.1.0
 GhcnDaily: '1.5'
 Ghost: 0.1.0
+GhostKnockoff: 0.1.0
 GiANT: '1.3'
 GiNA: 1.0.1
 GiRaF: 1.0.1
@@ -2551,7 +2553,7 @@ HPbayes: '0.1'
 HRM: 1.2.1
 HRM.curve: 0.0.1
 HRQoL: '1.0'
-HRW: 1.0-4
+HRW: 1.0-5
 HS: '1.1'
 HSAR: 0.5.1
 HSAUR: 1.3-9
@@ -3952,6 +3954,7 @@ NestedCohort: 1.1-3
 NetCluster: '0.2'
 NetComp: '1.6'
 NetData: '0.3'
+NetExplorer: 0.0.1
 NetFACS: 0.2.0
 NetIndices: 1.4.4
 NetLogoR: 0.3.9
@@ -4341,7 +4344,7 @@ PVR: '0.3'
 PVplr: 0.1.0
 PWD: '1.0'
 PWEALL: 1.3.0
-PWFSLSmoke: 1.2.111
+PWFSLSmoke: 1.2.117
 PabonLasso: '1.0'
 Pade: 1.0.3
 PairTrading: '1.1'
@@ -5810,6 +5813,7 @@ SINGLE: '1.3'
 SIPDIBGE: 0.1.5
 SIRE: 1.1.0
 SIRItoGTFS: 0.2.4
+SIRmcmc: '1.1'
 SIS: 0.8-8
 SISIR: 0.1-2
 SITH: 1.1.0
@@ -7527,7 +7531,7 @@ augSIMEX: 3.7.4
 augmentedRCBD: 0.1.5
 auk: 0.5.1
 aurelius: 0.8.4
-ausplotsR: '1.2'
+ausplotsR: 1.2.7
 auteur: 0.12.1010
 auth0: 0.2.1
 auto.pca: '0.3'
@@ -7909,7 +7913,7 @@ bigGP: 0.1-7
 bigIntegerAlgos: 0.1.2
 bigKRLS: 3.0.5
 bigMap: 2.3.1
-bigQF: '1.5'
+bigQF: '1.6'
 bigQueryR: 0.5.0
 bigRR: 1.3-8
 bigReg: 0.1.2
@@ -8114,7 +8118,7 @@ bmabasket: 0.1.1
 bmass: 1.0.3
 bmd: '0.5'
 bmem: '1.8'
-bmeta: 0.1.2
+bmeta: '0.1'
 bmgarch: 1.0.1
 bmggum: 0.1.0
 bmixture: '1.7'
@@ -9573,7 +9577,7 @@ data.tree: 1.0.0
 data.validator: 0.1.5
 data.world: 1.2.2
 data360r: 1.0.8
-dataCompareR: 0.1.3
+dataCompareR: 0.1.4
 dataMaid: 1.4.1
 dataMeta: 0.1.1
 dataPreparation: 1.0.3
@@ -9894,7 +9898,7 @@ didrooRFM: 1.0.0
 dief: '1.2'
 dielectric: 0.2.3
 diem: '1.0'
-dietr: 1.1.1
+dietr: 1.1.2
 diezeit: 0.1-0
 difNLR: 1.3.7
 difR: '5.1'
@@ -10938,7 +10942,7 @@ fUnitRoots: '3042.79'
 fUtilities: '290.76'
 fabCI: '0.2'
 fabMix: '5.0'
-fabisearch: 0.0.3.6
+fabisearch: 0.0.3.9
 fable: 0.3.1
 fable.ata: 0.0.2
 fable.prophet: 0.1.0
@@ -12502,6 +12506,7 @@ gvcm.cat: '1.9'
 gvlma: 1.0.0.3
 gwaRs: 0.3.0
 gwasforest: 1.0.0
+gwasrapidd: 0.99.11
 gwdegree: 0.1.1
 gwer: '3.0'
 gwerAM: '1.0'
@@ -12666,7 +12671,7 @@ hgutils: 0.2.7
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
-hhsmm: 0.2.1
+hhsmm: 0.2.2
 hht: 2.1.4
 hiPOD: '1.0'
 hiddenf: '2.0'
@@ -13339,7 +13344,7 @@ isoboost: 1.0.1
 isobxr: 1.0.1
 isocalcR: 0.0.2
 isocat: 0.2.6
-isocir: 2.0-6
+isocir: 2.0-7
 isodistrreg: 0.1.0
 isogeochem: 1.0.9
 isokernel: 0.1.0
@@ -14304,7 +14309,7 @@ makeProject: '1.0'
 makeR: '1.0'
 makedummies: 1.2.1
 makemyprior: 1.0.0
-makepipe: 0.0.5
+makepipe: 0.1.0
 makesweave: 0.3.0
 maketools: 1.2.0
 malan: 1.0.2
@@ -14389,6 +14394,7 @@ marketeR: 0.1.1
 marketr: 0.0.2
 markmyassignment: 0.8.6
 markophylo: 1.0.8
+markovMSM: 0.1.0
 markovchain: 0.8.6
 marl: '1.0'
 marmap: 1.0.6
@@ -17896,7 +17902,7 @@ rawKS: 0.1.0
 rawr: 0.1.3
 raws.profile: 0.1.0
 rayimage: 0.6.2
-rayrender: 0.21.2
+rayrender: 0.23.6
 rayshader: 0.24.10
 raytracing: 0.1.0
 rayvertex: 0.3.3
@@ -18087,7 +18093,7 @@ reccsim: 0.9-1
 recexcavAAR: 0.3.0
 rechonest: '1.2'
 recipes: 0.1.17
-reclin: 0.1.1
+reclin: 0.1.2
 recluster: '2.9'
 recmap: 1.0.11
 recodeflow: 0.1.0
@@ -18577,7 +18583,7 @@ robust: 0.6-1
 robustBLME: 0.1.3
 robustDA: '1.2'
 robustETM: '1.0'
-robustHD: 0.7.1
+robustHD: 0.7.2
 robustMVMR: 0.3.1
 robustSingleCell: 0.1.1
 robustX: 1.2-5
@@ -19586,7 +19592,7 @@ simITS: 0.1.1
 simLife: '0.5'
 simMP: 0.17.3
 simMSM: 1.1.41
-simPATHy: '0.5'
+simPATHy: '0.6'
 simPH: 1.3.13
 simPop: 1.2.1
 simPopulation: 0.4.1
@@ -19702,7 +19708,7 @@ skeletor: 1.0.4
 skellam: 0.2.0
 sketch: 1.1.17
 sketcher: 0.1.3
-skewMLRM: '1.4'
+skewMLRM: '1.5'
 skewlmm: 1.0.0
 skewt: '0.1'
 skewtools: 0.1.1
@@ -20301,7 +20307,7 @@ starvars: 1.1.9
 starvz: 0.7.0
 starwarsdb: 0.1.2
 stashR: '0.3'
-stat.extend: 0.2.0
+stat.extend: 0.2.1
 statGraph: 0.5.0
 statTarget: 1.2.2
 statVisual: 1.2.1
@@ -20525,7 +20531,7 @@ supervisedPRIM: 2.0.0
 suppdata: 1.1-8
 support: 0.1.5
 support.BWS: 0.4-4
-support.BWS2: 0.3-0
+support.BWS2: 0.3-1
 support.BWS3: 0.2-0
 support.CEs: 0.5-0
 supportInt: '1.1'
@@ -20682,7 +20688,7 @@ symDMatrix: 2.1.1
 symSEM: '0.1'
 symbolicDA: 0.6-2
 symbols: '1.1'
-symengine: 0.1.5
+symengine: 0.1.6
 symmetry: 0.2.1
 symmoments: 1.2.1
 symphony: 0.1.0
@@ -20719,6 +20725,7 @@ tTOlr: '0.2'
 taRifx: 1.0.6.2
 taRifx.geo: 1.0.6
 tab: 5.1.1
+tabbycat: 0.17.0
 taber: 0.1.2
 tabit: 0.2.1
 tablaxlsx: 1.2.4
@@ -21037,7 +21044,7 @@ tidysynth: 0.1.0
 tidytable: 0.6.5
 tidytext: 0.3.2
 tidytidbits: 0.2.3
-tidytransit: 1.1.0
+tidytransit: 1.2.0
 tidytreatment: 0.2.1
 tidytree: 0.3.6
 tidytuesdayR: 1.0.1
