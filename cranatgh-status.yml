@@ -1363,7 +1363,7 @@ DOvalidation: 1.1.0
 DPBBM: 0.2.5
 DPM.GGM: '0.14'
 DPP: 0.1.2
-DPQ: 0.4-4
+DPQ: 0.5-0
 DPQmpfr: 0.3-1
 DPWeibull: '1.7'
 DPpackage: 1.1-7
@@ -4277,7 +4277,7 @@ POINT: '1.1'
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
 POSTm: '1.1'
-POSetR: 1.0.3
+POSetR: 1.0.4
 POT: 1.1-7
 POUMM: 2.1.7
 POV: 0.1.4
@@ -5537,7 +5537,7 @@ Rmdr: 0.1-1
 RmecabKo: 0.1.6.2
 Rmetrics: '260.72'
 Rmisc: '1.5'
-Rmixmod: 2.1.5
+Rmixmod: 2.1.6
 RmixmodCombi: '1.0'
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
@@ -6201,7 +6201,7 @@ SoundexBR: '1.2'
 SoupX: 1.5.2
 SourceSet: 0.1.3
 SoyNAM: 1.6.1
-SpATS: 1.0-15
+SpATS: 1.0-16
 SpNMF: 0.1.1
 SpNetPrep: '1.2'
 SpaCCr: 0.1.0
@@ -7304,7 +7304,7 @@ ant: 0.0-8
 antaresEditObject: 0.3.0
 antaresProcessing: 0.18.1
 antaresRead: 2.2.9
-antaresViz: '0.9'
+antaresViz: '0.17'
 anthro: 1.0.0
 anticlust: 0.5.6
 antitrust: 0.99.25
@@ -7638,7 +7638,7 @@ ballr: 0.2.6
 bama: '1.2'
 bamboo: 0.9.25
 bamdit: 3.3.2
-bamlss: 1.1-5
+bamlss: 1.1-6
 bamp: 2.1.0
 bams: '1.6'
 banR: 0.2.2
@@ -10122,7 +10122,7 @@ dominanceanalysis: 2.0.0
 domino: 0.3.1
 domir: 0.2.0
 donut: 1.0.2
-doolkit: 1.0.0
+doolkit: 1.0.1
 doremi: 1.0.0
 dosearch: 1.0.8
 dosedesignR: 0.2.4
@@ -10141,7 +10141,7 @@ doubt: 0.1.0
 downlit: 0.4.0
 downloader: '0.4'
 downloadthis: 0.2.1
-downscale: 3.0-1
+downscale: 4.2-0
 downscaledl: '1.0'
 downsize: 0.2.2
 dowser: 0.1.0
@@ -11690,7 +11690,7 @@ gbfs: 1.3.7
 gbm: 2.1.8
 gbm.auto: 1.5.0
 gbm2sas: '2.1'
-gbmt: 0.1.1
+gbmt: 0.1.2
 gbp: 0.1.0.4
 gbs: '1.0'
 gbs2ploidy: '1.0'
@@ -11909,7 +11909,7 @@ gesis: '0.2'
 gesisdata: 0.1.0
 gesso: 1.0.1
 gestalt: 0.1.8
-gestate: 1.4.0
+gestate: 1.5.0
 gesttools: 1.2.0
 getCRUCLdata: 0.3.2
 getDTeval: 0.0.2
@@ -12006,7 +12006,7 @@ ggghost: 0.2.1
 gggibbous: 0.1.1
 gggrid: 0.1-1
 ggguitar: 0.1.1
-ggh4x: 0.2.0
+ggh4x: 0.2.1
 gghalfnorm: 1.1.2
 gghalves: 0.1.1
 ggheatmap: '2.1'
@@ -12157,7 +12157,7 @@ glassomix: '1.2'
 glba: '0.2'
 glca: 1.3.3
 glcm: 1.6.5
-gld: 2.6.2
+gld: 2.6.3
 gldist: '2160.2'
 gldrm: '1.5'
 glinternet: 1.0.12
@@ -14764,7 +14764,7 @@ micEconCES: 1.0-0
 micEconIndex: 0.1-6
 micEconSNQP: 0.6-8
 micar: 1.1.2
-mice: 3.13.0
+mice: 3.14.0
 miceExt: 1.1.0
 miceFast: 0.7.1
 miceMNAR: '1.0'
@@ -15501,7 +15501,7 @@ naniar: 0.6.1
 nanny: 0.1.8
 nanop: 2.0-6
 nanostringr: 0.2.0
-nanotime: 0.3.3
+nanotime: 0.3.4
 naptime: 1.3.0
 nardl: 0.1.6
 narray: 0.4.1.1
@@ -17568,7 +17568,7 @@ quantdr: 1.2.0
 quanteda: 3.1.0
 quanteda.textmodels: 0.9.4
 quanteda.textplots: '0.94'
-quanteda.textstats: 0.94.1
+quanteda.textstats: '0.95'
 quantification: 0.2.0
 quantileDA: '1.1'
 quantilogram: 2.1.1
@@ -18275,6 +18275,7 @@ reshapeGUI: 0.1.0
 resourcer: 1.1.1
 resper: '0.3'
 respirometry: 1.3.0
+responsePatterns: 0.1.0
 restatapi: 0.12.3
 restaurant: 0.1.0
 restez: 1.0.0
@@ -18334,6 +18335,7 @@ rfishnet2: 0.2.0
 rflann: '1.3'
 rflexscan: 1.0.0
 rflights: 0.1.103
+rflsgen: 0.1.0
 rfm: 0.2.2
 rfml: 0.1.0
 rfoaas: 2.1.0
@@ -18367,7 +18369,7 @@ rgl: 0.108.3
 rglobi: 0.2.27
 rglwidget: 0.2.1
 rgnparser: 0.2.0
-rgoogleads: 0.4.0
+rgoogleads: 0.4.1
 rgoogleslides: 0.3.2
 rgovcan: 1.0.3
 rgp: 0.4-1
@@ -19065,7 +19067,7 @@ sasLM: 0.6.3
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.0
-sassy: 1.0.5
+sassy: 1.0.6
 sate: 1.1.0
 satellite: 1.0.4
 satin: '1.0'
@@ -19716,7 +19718,7 @@ skeletor: 1.0.4
 skellam: 0.2.0
 sketch: 1.1.17
 sketcher: 0.1.3
-skewMLRM: '1.5'
+skewMLRM: '1.6'
 skewlmm: 1.0.0
 skewt: '0.1'
 skewtools: 0.1.1
@@ -20009,7 +20011,7 @@ sparsesvd: '0.2'
 sparsevar: 0.1.0
 sparsevb: 0.1.0
 sparsio: 1.0.1
-sparta: 0.8.1.1
+sparta: 0.8.2
 spartan: 3.0.2
 spass: '1.3'
 spatPomp: 0.28.0.0
@@ -20518,6 +20520,7 @@ sugaR: 0.0-5
 sugarbag: 0.1.3
 sugrrants: 0.2.8
 sumFREGAT: 1.2.2
+sumSome: 1.1.0
 summariser: 2.3.0
 summarytools: 1.0.0
 sunburstR: 2.1.6
@@ -20659,7 +20662,7 @@ swatches: 0.5.0
 swdft: 1.0.0
 swdpwr: '1.6'
 sweSCB: '0.3'
-sweater: 0.1.1
+sweater: 0.1.2
 sweep: 0.2.3
 sweidnumbr: 1.4.2
 swephR: 0.3.0
@@ -20873,7 +20876,7 @@ tergmLite: 2.5.5
 term: 0.3.3
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.4-20
+terra: 1.4-22
 terrainmeshr: 0.1.0
 terrainr: 0.5.0
 tesseract: 4.1.2
