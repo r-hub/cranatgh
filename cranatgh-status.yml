@@ -2679,7 +2679,7 @@ ICODS: '1.0'
 ICON: 0.4.0
 ICRanks: '3.1'
 ICS: 1.3-1
-ICSKAT: 0.1.0
+ICSKAT: 0.2.0
 ICSNP: 1.1-1
 ICSOutlier: 0.3-0
 ICSS: '1.1'
@@ -4199,7 +4199,7 @@ PCL: '1.0'
 PCLassoReg: 1.0.0
 PCMBase: 1.2.12
 PCMBaseCpp: 0.1.9
-PCMRS: 0.1-2
+PCMRS: 0.1-3
 PCPS: 1.0.7
 PCRedux: '1.1'
 PCS: '1.2'
@@ -4810,7 +4810,7 @@ REddyProc: 1.3.0
 REddyProcNCDF: 1.1.4
 REndo: 2.4.3
 RFA: 0.0-9
-RFCCA: 1.0.6
+RFCCA: 1.0.7
 RFGLS: '1.1'
 RFLPtools: '1.9'
 RFOC: 3.4-6
@@ -5620,7 +5620,7 @@ Rsagacmd: 0.1.1
 Rsampletrees: '1.0'
 Rsampling: 0.1.1
 Rsconctdply: 0.1.3
-Rserve: 1.8-9
+Rserve: 1.8-10
 Rsfar: 0.0.1
 Rsge: 0.6.3
 Rsgf: 1.0.0
@@ -6907,7 +6907,7 @@ WhiteStripe: 2.4.0
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
-WienR: 0.2-2
+WienR: 0.3-0
 WikiSocio: 0.7.0
 WikidataQueryServiceR: 1.0.0
 WikidataR: 2.3.3
@@ -6967,7 +6967,7 @@ ZIBBSeqDiscovery: '1.0'
 ZIBseq: '1.2'
 ZIGP: '3.8'
 ZIM: 1.1.0
-ZIPBayes: 1.0.1
+ZIPBayes: 1.0.2
 ZIPFA: 0.8.1
 ZIprop: 0.1.1
 ZOIP: '0.1'
@@ -6987,7 +6987,7 @@ aCGH.Spline: '2.2'
 aCRM: 0.1.1
 aGE: 0.0.9
 aLFQ: 1.3.6
-aMNLFA: 1.0.0
+aMNLFA: 1.1.0
 aPCoA: '1.2'
 aRbs: 0.1.3
 aRchi: 1.0.5
@@ -8176,7 +8176,7 @@ bootRes: '1.2'
 bootSVD: '1.1'
 bootStepAIC: 1.2-0
 bootTimeInference: 0.1.0
-bootUR: 0.4.1
+bootUR: 0.4.2
 bootcluster: 0.2.5
 bootf2: 0.4.1
 bootfs: '1.4'
@@ -11183,7 +11183,7 @@ fifer: '1.1'
 fiftystater: 1.0.1
 figpatch: 0.1.0.1
 file2meco: 0.2.0
-filearray: 0.1.1
+filearray: 0.1.2
 filehash: 2.4-2
 filehashSQLite: 0.2-4
 filelock: 1.0.2
@@ -12067,7 +12067,7 @@ ggprism: 1.0.3
 ggpubr: 0.4.0
 ggpval: 0.2.4
 ggquickeda: 0.2.1
-ggquiver: 0.3.0
+ggquiver: 0.3.1
 ggraph: 2.0.5
 ggraptR: '1.3'
 ggrasp: '1.0'
@@ -15425,7 +15425,7 @@ mvMonitoring: 0.1.0
 mvPot: 0.1.5
 mvProbit: 0.1-10
 mvQuad: 1.0-6
-mvSLOUCH: 2.7.2
+mvSLOUCH: 2.7.3
 mvShapiroTest: '1.0'
 mvabund: 4.1.12
 mvbutils: 2.8.232
@@ -15952,7 +15952,7 @@ occupancy: '1.2'
 ocd: '1.1'
 oce: 1.4-0
 ocean: 0.2-4
-oceanis: 1.7.5.2
+oceanis: 1.8.4
 oceanmap: 0.1.1
 oceanwaves: 0.2.0
 ocedata: 0.1.8
@@ -16497,7 +16497,7 @@ pcaPA: '2.0'
 pcaPP: 1.9-74
 pcadapt: 4.3.3
 pcal: 1.0.0
-pcalg: 2.7-3
+pcalg: 2.7-4
 pcalls: '1.0'
 pccc: 1.0.5
 pcdpca: '0.4'
@@ -17428,7 +17428,7 @@ pwt8: 8.1-1
 pwt9: 9.1-0
 pxR: 0.42.4
 pxweb: 0.12.0
-pyMTurkR: '1.1'
+pyMTurkR: 1.1.5
 pycno: '1.2'
 pyinit: 1.1.2
 pylintR: 0.1.0
@@ -18339,7 +18339,7 @@ rfishnet2: 0.2.0
 rflann: '1.3'
 rflexscan: 1.0.0
 rflights: 0.1.103
-rflsgen: 0.1.0
+rflsgen: 0.1.1
 rfm: 0.2.2
 rfml: 0.1.0
 rfoaas: 2.1.0
@@ -18674,7 +18674,7 @@ rosqp: 0.1.0
 rosr: 0.0.8
 rotasym: 1.1.3
 rotationForest: 0.1.3
-rotations: 1.6.2
+rotations: 1.6.3
 rotl: 3.0.11
 rotor: 0.3.5
 roughrf: '1.0'
@@ -19044,6 +19044,7 @@ samr: '3.0'
 sams: 0.4.2
 samurais: 0.1.0
 sand: 2.0.0
+sandbox: 0.2.0
 sandwich: 3.0-1
 sanic: 0.0.1
 sanitizers: 0.1.0
@@ -19067,7 +19068,7 @@ sarp.snowprofile.alignment: 1.0.2
 sars: 1.3.5
 sarsop: 0.6.9
 sas7bdat: '0.5'
-sasLM: 0.6.3
+sasLM: 0.6.4
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.0
@@ -19940,7 +19941,7 @@ spMC: 0.3.11
 spMaps: 0.4.0
 spNNGP: 0.1.6
 spNetwork: 0.2.1
-spOccupancy: 0.1.2
+spOccupancy: 0.1.3
 spTDyn: 2.0.1
 spTest: 0.2.5
 spThin: 0.2.0
@@ -20252,7 +20253,7 @@ ssfit: '1.1'
 ssgraph: '1.12'
 ssh: 0.8.0
 ssh.utils: '1.0'
-sship: 0.7.1
+sship: 0.7.3
 ssimparser: 0.1.0
 ssize.fdr: '1.2'
 ssizeRNA: 1.3.2
@@ -21525,6 +21526,7 @@ uklr: 1.0.2
 ukpolice: 0.2.2
 ulid: 0.3.0
 umap: 0.2.7.0
+umiAnalyzer: 1.0.0
 umlr: 0.3.0
 ump: 0.5-8
 umx: 4.9.0
