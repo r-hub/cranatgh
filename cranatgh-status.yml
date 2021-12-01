@@ -159,7 +159,7 @@ ActFrag: 0.1.1
 Actigraphy: 1.4.0
 ActisoftR: 0.0.2
 ActiveDriver: 1.0.0
-ActiveDriverWGS: 1.1.1
+ActiveDriverWGS: 1.1.2
 ActivePathways: 1.0.2
 ActivityIndex: 0.3.7
 ActuDistns: '3.0'
@@ -184,7 +184,7 @@ Aelasticnet: 2.13.1
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
-AgroR: 1.2.3
+AgroR: 1.2.4
 AgroReg: 1.2.1
 AhoCorasickTrie: 0.1.2
 AirSensor: 1.0.8
@@ -261,6 +261,7 @@ AtmChile: 0.2.0
 AtmRay: '1.31'
 AugmenterR: 0.1.0
 AurieLSHGaussian: 0.2.0
+AustralianPoliticians: 0.1.0
 AutoDeskR: 0.1.3
 AutoModel: 0.4.9
 AutoPipe: 0.1.6
@@ -1807,7 +1808,7 @@ EpiModel: 2.2.0
 EpiNow2: 1.3.2
 EpiReport: 1.0.2
 EpiResTest: '1.0'
-EpiSignalDetection: 0.1.1
+EpiSignalDetection: 0.1.2
 EpiStats: 1.5-1
 EpiWeek: '1.1'
 EpistemicGameTheory: 0.1.2
@@ -2085,6 +2086,7 @@ FortranCallsR: '0.1'
 ForwardSearch: '1.0'
 FossilSim: 2.2.0
 FourScores: 1.5.1
+FourWayHMM: 1.0.0
 FourgameteP: 0.1.0
 FourierDescriptors: 0.1-4
 FrF2: 2.2-2
@@ -3122,7 +3124,7 @@ LVGP: 2.1.5
 LVMMCOR: 0.01.1
 LVQTools: '1.2'
 LW1949: 1.1.0
-LWFBrook90R: 0.4.4
+LWFBrook90R: 0.4.5
 LZeroSpikeInference: 1.0.3
 LaF: 0.8.4
 LabApplStat: 1.4.3
@@ -4503,7 +4505,7 @@ PortfolioEffectEstim: '1.4'
 PortfolioEffectHFT: '1.8'
 PortfolioOptim: 1.1.1
 PosRatioDist: 1.0.1
-PostcodesioR: 0.3.0
+PostcodesioR: 0.3.1
 PosteriorBootstrap: 0.1.1
 PottsUtils: 0.3-3
 PoweR: 1.0.7
@@ -5572,7 +5574,7 @@ RobMixReg: 1.1.0
 RobPer: 1.2.2
 RobRSVD: '1.0'
 RobRex: 1.2.0
-RobStatTM: 1.0.2
+RobStatTM: 1.0.3
 RobinHood: '1.6'
 Robocoap: 0.1-1
 RobustAFT: 1.4-5
@@ -6892,6 +6894,7 @@ WaveletCo: '1.0'
 WaveletComp: '1.1'
 WaveletGARCH: 0.1.1
 WaverR: '1.0'
+Wcompo: '1.0'
 WeMix: 3.2.0
 WebDevelopR: '1.0'
 WebGestaltR: 0.4.4
@@ -7061,7 +7064,7 @@ act: 1.1.9
 actel: 1.2.1
 activPAL: 0.1.3
 activatr: 0.1.0
-activegp: 1.0.5
+activegp: 1.0.6
 activity: 1.3.1
 activityCounts: 0.1.2
 activityGCMM: 1.1.1
@@ -9647,7 +9650,7 @@ dataview: 2.1.1
 datawizard: 0.2.1
 datazoom.amazonia: 0.2.0
 date: 1.2-39
-datefixR: 0.1.1
+datefixR: 0.1.2
 daterangepicker: 0.1.0
 datetime: 0.1.4
 datetimeutils: 0.5-0
@@ -10064,7 +10067,7 @@ divo: 1.0.1
 divseg: 0.0.4
 dixon: 0.0-7
 dixonTest: 1.0.3
-diyar: 0.3.1
+diyar: 0.4.0
 dkDNA: 0.1.1
 dkanr: 0.1.3
 dlbayes: 0.1.0
@@ -16822,7 +16825,7 @@ pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepends: 0.2.0
-pkgdown: 1.6.1
+pkgdown: 2.0.0
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
 pkglite: 0.2.0
@@ -17422,7 +17425,7 @@ pushbar: 0.1.0
 pushoverr: 1.1.0
 puzzle: 0.0.1
 pvLRT: '0.3'
-pvaluefunctions: 1.6.1
+pvaluefunctions: 1.6.2
 pvar: 2.2.5
 pvclass: '1.4'
 pvclust: 2.2-0
@@ -18087,7 +18090,7 @@ readit: 1.0.0
 readmnist: 1.0.6
 readmoRe: 0.2-12
 readobj: 0.4.1
-readr: 2.1.0
+readr: 2.1.1
 readrba: 0.1.2
 readroper: 0.9.3
 readsdmx: 0.3.0
@@ -20766,7 +20769,7 @@ tabbycat: 0.17.0
 taber: 0.1.2
 tabit: 0.2.1
 tablaxlsx: 1.2.4
-table.express: 0.3.1
+table.express: 0.3.2
 table.glue: 0.0.2
 table1: 1.4.2
 table1xls: 0.4.0
@@ -20931,7 +20934,7 @@ texreg: 1.37.5
 text: 0.9.10
 text.alignment: 0.1.2
 text2map: 0.1.1
-text2sdg: 0.1.1
+text2sdg: 0.1.2
 text2speech: 0.2.13
 text2vec: '0.6'
 textTinyR: 1.1.7
