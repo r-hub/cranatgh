@@ -1043,7 +1043,7 @@ CluMP: 0.8.1
 CluMix: 2.3.1
 ClueR: '1.4'
 ClusBoot: '1.0'
-ClusPred: 1.0.0
+ClusPred: 1.1.0
 ClusTorus: 0.1.3
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
@@ -2316,7 +2316,7 @@ GUIDE: 1.2.7
 GUILDS: '1.3'
 GUIProfiler: 2.0.1
 GUIgems: '0.1'
-GUTS: 1.1.1
+GUTS: '1.2'
 GUniFrac: '1.4'
 GVARX: '1.3'
 GWAF: '2.2'
@@ -3445,7 +3445,7 @@ MMST: 0.6-1
 MMVBVS: 0.8.0
 MMWRweek: 0.1.3
 MMeM: 0.1.1
-MNARclust: 1.0.0
+MNARclust: 1.1.0
 MNB: 1.0.0
 MNLR: 0.1.0
 MNLpred: 0.0.8
@@ -3764,7 +3764,7 @@ MonteCarlo: 1.0.6
 MonteCarloSEM: 0.0.3
 MoonFinder: 1.0.3
 Morpho: '2.9'
-MorphoTools2: 0.9.0
+MorphoTools2: 0.9.1
 MorseGen: '1.2'
 MortCast: 2.6-1
 MortHump: '0.2'
@@ -3968,7 +3968,7 @@ NetMix: 0.2.0
 NetOrigin: 1.1-2
 NetPreProc: '1.1'
 NetRep: 1.2.4
-NetSci: 0.1.1
+NetSci: 0.1.2
 NetSim: '0.9'
 NetSimR: 0.1.1
 NetSwan: '0.1'
@@ -4338,7 +4338,7 @@ PSSMCOOL: 0.2.2
 PST: '0.94'
 PSTR: 1.2.4
 PSW: 1.1-3
-PSweight: 1.1.5
+PSweight: 1.1.6
 PTAk: 1.4-0
 PTE: '1.7'
 PTXQC: 1.0.12
@@ -4674,7 +4674,7 @@ R0: 1.2-6
 R1magic: 0.3.2
 R2019nCoV: 0.1.0
 R2Addhaz: 0.1.0
-R2BEAT: 1.0.3
+R2BEAT: 1.0.4
 R2BayesX: 1.1-1.1
 R2Cuba: 1.1-0
 R2DGC: 1.0.3
@@ -4725,6 +4725,7 @@ RAP: '1.1'
 RAPIDR: 0.1.1
 RAPTOR: 1.0.1
 RAQSAPI: 2.0.2
+RAT: 0.1.0
 RATest: 0.1.9
 RAdwords: 0.1.18
 RAhrefs: 0.1.4
@@ -5207,7 +5208,7 @@ RandPro: 0.2.2
 RandVar: 1.2.1
 RandomCoefficients: 0.0.2
 RandomFields: 3.3.13
-RandomFieldsUtils: 1.0.11
+RandomFieldsUtils: 0.5.6
 RandomForestsGLS: 0.1.3
 Randomuseragent: 0.0.1
 RanglaPunjab: 2.3.4
@@ -7492,7 +7493,7 @@ assignR: 2.1.1
 assist: 3.1.7
 assocInd: 1.0.1
 assortnet: '0.12'
-asteRisk: 1.1.0
+asteRisk: 1.2.0
 aster: 1.1-2
 aster2: '0.3'
 astro: '1.2'
@@ -7570,7 +7571,7 @@ autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
 autostats: 0.1.0
-autostsm: '2.0'
+autostsm: '2.1'
 autota: 0.1.3
 autothresholdr: 1.3.12
 autovarCore: 1.0-4
@@ -8894,9 +8895,9 @@ cmprskcoxmsm: 0.2.1
 cmpsR: 0.1.0
 cmrutils: 1.3.1
 cms: 0.1.0
-cmsaf: 3.3.0
-cmsafops: 1.2.1
-cmsafvis: 1.1.8
+cmsaf: 3.3.1
+cmsafops: 1.2.2
+cmsafvis: 1.1.9
 cmstatr: 0.9.1
 cmvnorm: 1.0-6
 cna: 3.2.0
@@ -9900,7 +9901,7 @@ diagonals: 6.0.0
 diagram: 1.6.5
 dialectR: '1.0'
 dialr: 0.4.0
-dialrjars: 8.12.29
+dialrjars: 8.12.38
 dials: 0.0.10
 diamonds: 1.0-5
 diaplt: 1.3.0
@@ -10192,7 +10193,7 @@ dragonking: 0.1.0
 dragracer: 0.1.6
 dragulaR: 0.3.1
 drake: 7.13.3
-drat: 0.2.1
+drat: 0.2.2
 draw: 1.0.0
 drawExpression: '1.0'
 drawer: 0.1.0
@@ -10354,6 +10355,7 @@ easingr: 1.0.1
 easyAHP: 0.1.1
 easyCODA: 0.34.3
 easyDes: '6.0'
+easyDifferentialGeneCoexpression: '0.7'
 easyNCDF: 0.1.0
 easyPSID: 0.1.2
 easyPubMed: '2.13'
@@ -10532,7 +10534,7 @@ eiwild: 0.6.7
 eixport: 0.5.0
 el.convex: '1.0'
 elaborator: '1.1'
-elasdics: 0.1.3
+elasdics: 0.1.4
 elasso: '1.1'
 elastic: 1.2.0
 elasticIsing: '0.2'
@@ -12337,6 +12339,7 @@ gplite: 0.12.0
 gplm: 0.7-4
 gplots: 3.1.1
 gpls: 1.3.1
+gplsim: 0.9.0
 gpmap: 0.1.2
 gppm: 0.2.0
 gppois: 0.2-1
@@ -12417,7 +12420,7 @@ gridGeometry: 0.2-0
 gridGraphics: 0.5-1
 gridGraphviz: '0.3'
 gridSVG: 1.7-2
-gridpattern: 0.2.1
+gridpattern: 0.3.1
 gridsample: 0.2.1
 gridsampler: '0.6'
 gridtext: 0.1.4
@@ -12556,6 +12559,7 @@ hablar: 0.3.0
 hackeRnews: 0.1.0
 hacks: 0.1-9
 hacksaw: 0.0.2
+hacksig: 0.1.1
 hadron: 3.1.2
 hagis: 3.1.3
 hail: 0.1.1
@@ -13137,7 +13141,7 @@ imputeFin: 0.1.2
 imputeLCMD: '2.0'
 imputeMDR: 1.1.2
 imputeMissings: 0.0.3
-imputeMulti: 0.6.4
+imputeMulti: 0.8.3
 imputePSF: 0.1.0
 imputeR: '2.2'
 imputeTS: '3.2'
@@ -13444,7 +13448,7 @@ james.analysis: 1.0.1
 janeaustenr: 0.1.5
 janitor: 2.1.0
 jaod: 0.3.0
-japanmesh: 0.1.0
+japanmesh: 0.1.1
 japanstat: 0.1.0
 jarbes: 1.7.2
 jcext: 0.1.1
@@ -14822,7 +14826,7 @@ midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
-migest: 2.0.1
+migest: 2.0.2
 migraph: 0.8.5
 migrate: 0.4.0
 migration.indices: 0.3.0
@@ -17467,7 +17471,7 @@ qLearn: '1.0'
 qMRI: '1.2'
 qPCR.CT: '1.1'
 qVarSel: '1.0'
-qad: 1.0.0
+qad: 1.0.1
 qap: 0.1-1
 qape: '1.1'
 qat: '0.74'
@@ -17630,6 +17634,7 @@ quickpsy: 0.1.5.1
 quickregression: '0.2'
 quiddich: 1.0.0
 quietR: 0.1.0
+quiltr: 0.1.0
 quincunx: 0.1.4
 quint: 2.1.0
 quipu: 1.9.0
@@ -18058,7 +18063,7 @@ rdomains: 0.2.0
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '2.1'
-rdrobust: 1.0.7
+rdrobust: 1.0.8
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
 rdtLite: '1.3'
@@ -18249,6 +18254,7 @@ remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
 renv: 0.14.0
+renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
 repeated: 1.1.2
@@ -18811,6 +18817,7 @@ rsMove: 0.2.8
 rsae: 0.1-5
 rsam: 0.1.0
 rsample: 0.1.1
+rsat: 0.1.16
 rsatscan: 0.3.9200
 rsbml: '1.2'
 rsbp: 0.1.0
@@ -21665,7 +21672,7 @@ utr.annotation: 1.0.4
 uuid: 1.0-3
 uwIntroStats: 0.0.7
 uwo4419: 0.3.0
-uwot: 0.1.10
+uwot: 0.1.11
 vICC: 1.0.0
 vMask: '1.0'
 vabayelMix: '0.3'
