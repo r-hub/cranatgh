@@ -160,7 +160,7 @@ Actigraphy: 1.4.0
 ActisoftR: 0.0.2
 ActiveDriver: 1.0.0
 ActiveDriverWGS: 1.1.2
-ActivePathways: 1.0.2
+ActivePathways: 1.0.3
 ActivityIndex: 0.3.7
 ActuDistns: '3.0'
 AcuityView: '0.1'
@@ -184,7 +184,7 @@ Aelasticnet: 2.13.1
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
-AgroR: 1.2.4
+AgroR: 1.2.5
 AgroReg: 1.2.1
 AhoCorasickTrie: 0.1.2
 AirSensor: 1.0.8
@@ -1956,6 +1956,7 @@ FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
 FPDclustering: '2.0'
+FPLdata: 0.1.0
 FPV: '0.5'
 FRACTION: '1.0'
 FRAPO: 0.4-1
@@ -2258,7 +2259,7 @@ GOsummaries: '1.1'
 GOxploreR: 1.2.3
 GPArotation: 2014.11-1
 GPB: '1.2'
-GPBayes: 0.1.0-2.1
+GPBayes: 0.1.0-3
 GPC: '0.1'
 GPCMlasso: 0.1-5
 GPCSIV: 0.1.0
@@ -4638,7 +4639,7 @@ QTOCen: 0.1.1
 QUALYPSO: '1.2'
 QUIC: '2012.02'
 QVM: 0.1.1
-QWDAP: 1.1.7
+QWDAP: 1.1.8
 QZ: 0.2-1
 Qapprox: 0.2.0
 QoLR: '1.0'
@@ -4780,7 +4781,7 @@ RCrypto: 0.1.0
 RCryptsy: '0.4'
 RCurl: 1.95-4.12
 RCytoGPS: 1.2.1
-RCzechia: 1.8.3
+RCzechia: 1.9.1
 RDF: '1.1'
 RDFTensor: '1.3'
 RDIDQ: '1.0'
@@ -5172,7 +5173,7 @@ RWiener: 1.3-3
 RWildbook: 0.9.3
 RWinEdt: 2.0-6
 RWmisc: 0.1.1
-RWsearch: 4.9.3
+RWsearch: 4.9.8
 RXKCD: 1.9.2
 RXMCDA: 1.5.5
 RXshrink: '2.0'
@@ -5477,7 +5478,7 @@ Revticulate: 0.3.0
 Rexperigen: 0.2.1
 RfEmpImp: 2.1.5
 Rfacebook: 0.6.15
-Rfast: 2.0.3
+Rfast: 2.0.4
 Rfast2: 0.1.1
 Rfit: 0.24.2
 RfmriVC: '1.0'
@@ -5870,7 +5871,7 @@ SNPMClust: '1.3'
 SNPMaP: 1.1.1
 SNPMaP.cdm: 1.1.1
 SNPRelate: 0.9.9
-SNPassoc: 2.0-2
+SNPassoc: 2.0-11
 SNPfiltR: 0.1.0
 SNPknock: 0.8.2
 SNPmaxsel: 1.0-3
@@ -7129,7 +7130,7 @@ adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
 adlift: 1.4-1
-admisc: '0.20'
+admisc: '0.21'
 admix: 0.3.2
 admixr: 0.9.1
 admixturegraph: 1.0.2
@@ -9110,7 +9111,7 @@ conicfit: 1.0.4
 conics: '0.3'
 conjoint: '1.41'
 conjurer: 1.4.0
-conleyreg: 0.1.4
+conleyreg: 0.1.5
 conmet: 0.1.0
 connect3: 0.1.0
 connectedness: '0.2'
@@ -11736,7 +11737,7 @@ gconsensus: 0.3.1
 gcookbook: '2.0'
 gdalUtilities: 1.2.0
 gdalUtils: 2.0.3.2
-gdalcubes: 0.5.0
+gdalcubes: 0.5.1
 gdata: 2.18.0
 gde: 0.2.0
 gdiff: 0.2-2
@@ -11859,7 +11860,7 @@ geocacheR: 0.1.0
 geocmeans: 0.2.0
 geocodeHERE: '0.1'
 geodaData: 0.1.0
-geodata: 0.3-2
+geodata: 0.3-5
 geodetector: 1.0-4
 geodimension: 1.0.0
 geodist: 0.0.7
@@ -12109,7 +12110,7 @@ ggsom: 0.4.0
 ggspatial: 1.1.5
 ggspectra: 0.3.7
 ggstance: 0.3.5
-ggstar: 1.0.2
+ggstar: 1.0.3
 ggstatsplot: 0.9.0
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
@@ -12339,7 +12340,7 @@ gplite: 0.12.0
 gplm: 0.7-4
 gplots: 3.1.1
 gpls: 1.3.1
-gplsim: 0.9.0
+gplsim: 0.9.1
 gpmap: 0.1.2
 gppm: 0.2.0
 gppois: 0.2-1
@@ -13166,6 +13167,7 @@ incidental: '0.1'
 inctools: 1.0.15
 indelmiss: 1.0.9
 independence: 1.0.1
+index0: 0.0.1
 indicoio: '0.3'
 indicspecies: 1.7.9
 indiedown: 0.1.1
@@ -13341,7 +13343,7 @@ irace: 3.4.1
 ircor: '1.0'
 irg: 0.1.1
 iriR: 0.2.2
-irlba: 2.3.3
+irlba: 2.3.4
 irr: 0.84.1
 irrCAC: '1.0'
 irrICC: '1.0'
@@ -13443,6 +13445,7 @@ jackstraw: 1.3.1
 jacpop: '0.6'
 jaggR: 0.1.1
 jagsUI: 1.5.2
+jagstargets: 1.0.1
 jalcal: 0.1.0
 james.analysis: 1.0.1
 janeaustenr: 0.1.5
@@ -13606,6 +13609,7 @@ keypress: 1.2.0
 keyring: 1.3.0
 keyringr: 0.4.0
 keys: 0.1.1
+kfa: 0.1.0
 kfda: 1.0.0
 kfigr: 1.2.1
 kgc: 1.0.0.2
@@ -13744,6 +13748,7 @@ labstatR: 1.0.11
 labstats: 1.0.1
 lacm: 0.1.1
 lacrmr: 1.0.3
+lactater: 0.1.0
 lactcurves: 1.1.0
 lacunaritycovariance: 1.1-2
 laeken: 0.5.2
@@ -14032,10 +14037,10 @@ listdtr: '1.1'
 listenv: 0.8.0
 listless: 0.0-2
 listviewer: 3.0.0
-litRiddle: 0.4.0
+litRiddle: 0.4.1
 liteq: 1.1.0
 litteR: 0.9.1
-littler: 0.3.14
+littler: 0.3.15
 liureg: 1.1.2
 live: 1.5.13
 livechatR: 0.1.0
@@ -14660,7 +14665,7 @@ met: 0.1.0
 metR: 0.11.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
-meta: 5.1-0
+meta: 5.1-1
 meta.shrinkage: 0.1.0
 meta4diag: 2.1.1
 metaBLUE: 1.0.0
@@ -16835,7 +16840,7 @@ pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepends: 0.2.0
-pkgdown: 2.0.0
+pkgdown: 2.0.1
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
 pkglite: 0.2.0
@@ -17008,7 +17013,7 @@ polished: 0.4.0
 polite: 0.1.1
 politeness: 0.8.5
 politicaldata: 0.1.3
-pollen: 0.72.0
+pollen: 0.82.0
 pollimetry: 1.0.1
 pollstR: 2.0.1
 pollster: 0.1.3
@@ -17079,7 +17084,7 @@ populR: 0.1.2
 population: '0.2'
 populationPDXdesign: 1.0.3
 porridge: 0.2.1
-portalr: 0.3.8
+portalr: 0.3.9
 portes: '5.0'
 portfolio: 0.5-2
 portfolio.optimization: 1.0-0
@@ -19244,7 +19249,7 @@ sdcLog: 0.4.0
 sdcMicro: 5.6.1
 sdcMicroGUI: 1.4.0
 sdcSpatial: 0.1.1
-sdcTable: 0.32.1
+sdcTable: 0.32.2
 sdcTarget: 0.9-11
 sddpack: '0.9'
 sde: 2.0.15
@@ -19750,7 +19755,7 @@ sizeMat: 1.1.2
 sjPlot: 2.8.10
 sjdbc: 1.6.1
 sjlabelled: 1.1.8
-sjmisc: 2.8.7
+sjmisc: 2.8.9
 sjstats: 0.18.1
 skatMeta: 1.4.3
 skda: '0.1'
