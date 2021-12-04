@@ -181,6 +181,7 @@ AdvDif4: 0.7.18
 AdvancedBasketballStats: 1.0.1
 AeRobiology: 2.0.1
 Aelasticnet: 2.13.1
+AeroSampleR: 0.1.12
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
@@ -522,7 +523,7 @@ BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
 BayesMRA: 1.0.0
-BayesMallows: 1.0.4
+BayesMallows: 1.1.0
 BayesMassBal: 1.0.0
 BayesMed: '1.0'
 BayesMixSurv: 0.9.1
@@ -1472,6 +1473,7 @@ DeducerPlugInScaling: 0.1-0
 DeducerSpatial: '0.7'
 DeducerSurvival: 0.1-0
 DeducerText: 0.1-2
+DeductiveR: 1.0.0
 Defaults: 1.1-1
 Delaporte: 8.0.1
 DelayedEffect.Design: 0.0.4
@@ -3826,6 +3828,7 @@ MultisiteMediation: 0.0.4
 MultivariateAnalysis: 0.4.4
 MultivariateRandomForest: 1.1.5
 MultiwayRegression: '1.2'
+MulvariateRandomForestVarImp: 0.0.1
 MvBinary: '1.1'
 My.stepwise: 0.1.0
 Myrrix: '1.2'
@@ -6584,7 +6587,7 @@ Tendril: 2.0.4
 TensorClustering: 1.0.2
 TensorComplete: 0.1.0
 TensorTest2D: 1.0.3
-Ternary: 1.2.3
+Ternary: 1.2.4
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
 TestDesign: 1.2.6
@@ -7270,7 +7273,7 @@ aml: 0.1-1
 ammistability: 0.1.2
 ampd: '0.2'
 ampir: 1.1.0
-amt: 0.1.4
+amt: 0.1.5
 anMC: 0.2.2
 anacor: 1.1-3
 anaglyph: 0.1-1
@@ -8468,6 +8471,7 @@ catIrt: 0.5-0
 catR: '3.16'
 catSplit: 0.1.0
 catSurv: 1.4.0
+cata: 0.0.10.3
 catalog: 0.1.0
 catch: 1.0.1
 catchr: 0.2.31
@@ -9190,7 +9194,7 @@ corkscrew: '1.1'
 corlink: 1.0.0
 corncob: 0.2.0
 cornet: 0.0.5
-coro: 1.0.1
+coro: 1.0.2
 coroICA: 1.0.2
 corona: 0.3.0
 coronavirus: 0.3.31
@@ -9338,6 +9342,7 @@ creditr: 0.6.1
 credsubs: 1.1.1
 credule: 0.1.4
 cregg: 0.4.0
+crestr: 1.0.0
 crevents: 0.1.0
 crfsuite: '0.4'
 cricketr: 0.0.26
@@ -10356,7 +10361,7 @@ easingr: 1.0.1
 easyAHP: 0.1.1
 easyCODA: 0.34.3
 easyDes: '6.0'
-easyDifferentialGeneCoexpression: '0.7'
+easyDifferentialGeneCoexpression: '0.8'
 easyNCDF: 0.1.0
 easyPSID: 0.1.2
 easyPubMed: '2.13'
@@ -10853,7 +10858,7 @@ excelR: 0.4.0
 excelstrippr: 0.1.2
 excerptr: 2.0.1
 excessmort: 0.6.1
-excluder: 0.3.2
+excluder: 0.3.3
 excursions: 2.5.2
 exdex: 1.0.1
 exdqlm: 0.1.2
@@ -11084,7 +11089,7 @@ fastqq: 0.1.2
 fastquant: 0.1.2
 fastrmodels: 1.0.2
 fastrtext: 0.3.4
-fastshap: 0.0.5
+fastshap: 0.0.6
 fasttime: 1.0-2
 fastverse: 0.2.1
 fat2Lpoly: 1.2.4
@@ -13780,7 +13785,7 @@ languageserver: 0.3.12
 languageserversetup: 0.1.2
 lans2r: 1.1.0
 lar: 0.1-2
-lares: 5.0.3
+lares: 5.0.4
 largeList: 0.3.1
 largeVis: '0.2'
 lars: '1.2'
@@ -14334,7 +14339,7 @@ magree: '1.1'
 magrittr: 2.0.1
 maic: 0.1.3
 mail: '1.0'
-mailR: 0.4.1
+mailR: '0.8'
 mailmerge: 0.2.3
 mailtoR: 0.1.0
 majesticR: 0.1.1
@@ -14392,7 +14397,7 @@ mapproj: 1.2.7
 mapr: 0.5.2
 maps: 3.4.0
 mapsFinland: 0.1.1
-mapsPERU: 0.1.3
+mapsPERU: 1.0.2
 mapsRinteractive: 1.0.1
 mapsapi: 0.5.0
 mapscanner: 0.0.6
@@ -14891,6 +14896,7 @@ miscor: 0.1-1
 miscset: 1.1.0
 mise: 0.1.0
 miselect: 0.9.0
+mispitools: 0.1.0
 mispr: 1.0.0
 misreport: 0.1.1
 missCompare: 1.0.3
@@ -15215,7 +15221,7 @@ mp: 0.4.1
 mpMap: '1.14'
 mpMap2: 1.0.4
 mpa: 0.7.3
-mpath: 0.4-2.19
+mpath: 0.4-2.20
 mpbart: '0.2'
 mpc: '0.1'
 mpcmp: 0.3.6
@@ -19258,7 +19264,7 @@ sdetorus: 0.1.8
 sdglinkage: 0.1.0
 sdm: 1.1-8
 sdmApp: 0.0.2
-sdmpredictors: 0.2.10
+sdmpredictors: 0.2.11
 sdmvspecies: 0.3.2
 sdnet: 2.4.1
 sdols: 3.0.0
@@ -19758,6 +19764,7 @@ sjlabelled: 1.1.8
 sjmisc: 2.8.9
 sjstats: 0.18.1
 skatMeta: 1.4.3
+skater: 0.1.0
 skda: '0.1'
 skedastic: 1.0.3
 skeleSim: 0.9.8
@@ -19912,7 +19919,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
-soilDB: 2.6.5
+soilDB: 2.6.9
 soilassessment: 0.2.1
 soilcarbon: 1.2.0
 soilhypfit: 0.1-3
@@ -20129,6 +20136,7 @@ specmine.datasets: 0.0.2
 specr: 0.2.1
 specs: 0.1.1
 spectacles: 0.5-3
+spectator: 0.1.0
 spectral: '2.0'
 spectral.methods: 0.7.2.133
 spectralAnalysis: 3.12.0
@@ -20273,7 +20281,7 @@ squid: 0.1.2
 sra: 0.1.3
 srcr: 1.1.0
 srd: '1.0'
-sregsurvey: 0.1.0
+sregsurvey: 0.1.1
 srm: 0.3-6
 srp: 1.2.0
 srt: 1.0.3
@@ -20777,7 +20785,7 @@ systemfonts: 1.0.3
 systemicrisk: 0.4.2
 syt: 0.2.0
 syuzhet: 1.0.6
-tLagPropOdds: '1.2'
+tLagPropOdds: '1.5'
 tRakt: 0.9.0
 tRnslate: 0.0.3
 tRophicPosition: 0.7.7
@@ -20928,7 +20936,7 @@ ternvis: '1.2'
 terra: 1.4-22
 terrainmeshr: 0.1.0
 terrainr: 0.5.0
-tesseract: 4.1.2
+tesseract: 4.2.0
 test2norm: 0.2.0
 testComplexity: 0.1.1
 testDriveR: 0.5.1
@@ -20941,7 +20949,7 @@ tester: 0.1.7
 testextra: 0.1.0
 testforDEP: 0.2.0
 testit: '0.13'
-testthat: 3.1.0
+testthat: 3.1.1
 testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
@@ -21020,7 +21028,7 @@ thinkr: '0.15'
 this.path: 0.4.4
 thor: 1.1.2
 thorn: 0.2.0
-threeBrain: 0.2.3
+threeBrain: 0.2.4
 threeboost: '1.1'
 threejs: 0.3.3
 threesixtygiving: 0.2.2
@@ -21436,7 +21444,7 @@ tsfknn: 0.5.0
 tsfngm: 0.1.0
 tsgui: 0.2.1
 tsiR: 0.4.3
-tsibble: 1.1.0
+tsibble: 1.1.1
 tsibbledata: 0.3.0
 tsibbletalk: 0.1.0
 tsintermittent: '1.9'
