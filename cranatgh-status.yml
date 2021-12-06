@@ -2251,6 +2251,7 @@ GNAR: 1.1.1
 GNE: 0.99-3
 GNRS: 0.3.4
 GNSSseg: '6.0'
+GOCompare: 1.0.0
 GOFSN: '1.0'
 GOFShiny: 0.1.0
 GOGANPA: '1.0'
@@ -2538,7 +2539,7 @@ HIest: '2.0'
 HK80: 0.0.2
 HKprocess: 0.0-2
 HLMdiag: 0.5.0
-HLSM: 0.8.2
+HLSM: 0.9.0
 HMB: '1.1'
 HMDHFDplus: 1.9.13
 HMM: '1.0'
@@ -4335,7 +4336,7 @@ PSIMEX: '1.1'
 PSLM2015: 0.2.0
 PSM: '0.8'
 PSMix: 1.1.1
-PSPManalysis: 0.3.4
+PSPManalysis: 0.3.7
 PSS.Health: 0.3.1
 PSSIM: 0.1.0
 PSSMCOOL: 0.2.2
@@ -4521,6 +4522,7 @@ PowerUpR: 1.1.0
 PowerVenn: 0.0.1
 PowerfulMaxEigenpair: 0.1.1
 PracTools: 1.2.3
+PracticalEquiDesign: 0.0.3
 PreKnitPostHTMLRender: 0.1.0
 PreProcess: 3.1.7
 PreProcessing: 0.1.0
@@ -5093,7 +5095,7 @@ RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.1.4
 RSQLServer: 0.3.0
-RSQLite: 2.2.8
+RSQLite: 2.2.9
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.3
 RSSOP: '1.1'
@@ -7470,7 +7472,7 @@ aspace: '3.2'
 aspect: 1.0-5
 aspi: 0.2.0
 aspline: 0.1.0
-asremlPlus: 4.3-21
+asremlPlus: 4.3-31
 assemblerr: 0.1.0
 assert: 1.0.1
 assertable: 0.2.8
@@ -7646,7 +7648,7 @@ baggingbwsel: '1.0'
 baggr: 0.6.9
 baguette: 0.1.1
 bahc: 0.3.0
-bain: 0.2.7
+bain: 0.2.8
 bairt: 0.1.2
 baitmet: 1.0.1
 balance: 0.2.4
@@ -7702,6 +7704,7 @@ batch: 1.1-5
 batchmeans: 1.0-4
 batchr: 0.0.2
 batchscr: 0.1.0
+batchtma: 0.1.6
 batchtools: 0.9.15
 batman: 0.1.0
 bats: 0.1-3
@@ -8603,7 +8606,7 @@ cetcolor: 0.2.0
 ceterisParibus: 0.4.2
 cfa: 0.10-0
 cfbfastR: 1.6.4
-cfda: 0.9.9
+cfda: 0.9.10
 cfdecomp: 0.4.0
 cffdrs: 1.8.18
 cffr: 0.1.1
@@ -8881,7 +8884,7 @@ cmR: 1.0.3
 cmaRs: 0.1.1
 cmaes: 1.0-11
 cmaesr: 1.0.3
-cmcR: 0.1.6
+cmcR: 0.1.8
 cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.1
@@ -9380,6 +9383,7 @@ crosstable: 0.3.2
 crosstalk: 1.2.0
 crosstalkr: 0.7.0
 crossval: 1.0.4
+crossvalidationCP: 1.0-0
 crosswalkr: 0.2.6
 crossword.r: 0.3.6
 crov: 0.2.0
@@ -9962,7 +9966,7 @@ digitalDLSorteR: 0.1.1
 digitalPCR: 1.1.0
 digitize: 0.0.4
 dils: 0.8.1
-dimRed: 0.2.3
+dimRed: 0.2.4
 dimensio: 0.2.2
 dimensionsR: 0.0.2
 dina: 2.0.0
@@ -10020,6 +10024,7 @@ displayHTS: '1.0'
 dispmod: '1.2'
 disposables: 1.0.3
 dispositionEffect: 1.0.0
+disprofas: 0.1.2
 disprose: 0.1.1
 dissCqN: 0.1.0
 dissUtils: '1.0'
@@ -10084,7 +10089,7 @@ dlm: 1.1-5
 dlmap: '1.13'
 dlmodeler: 1.4-2
 dlnm: 2.4.7
-dlookr: 0.5.3
+dlookr: 0.5.4
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.4
@@ -10103,7 +10108,7 @@ dmt: 0.8.20
 dmtools: 0.2.6
 dmutate: 0.1.3
 dna: 2.1-2
-dnapath: 0.6.9
+dnapath: 0.6.11
 dnc: '1.2'
 dnet: 1.1.7
 dng: 0.2.1
@@ -10876,6 +10881,7 @@ experDesign: 0.1.0
 experiment: 1.2.0
 expert: 1.0-0
 expint: 0.1-6
+expirest: 0.1.2
 explor: 0.3.9
 exploratory: 0.3.13
 explore: 0.7.1
@@ -11089,7 +11095,7 @@ fastqq: 0.1.2
 fastquant: 0.1.2
 fastrmodels: 1.0.2
 fastrtext: 0.3.4
-fastshap: 0.0.6
+fastshap: 0.0.7
 fasttime: 1.0-2
 fastverse: 0.2.1
 fat2Lpoly: 1.2.4
@@ -11106,6 +11112,7 @@ fbati: 1.0-4
 fbroc: 0.4.1
 fbst: '1.5'
 fc: 0.1.0
+fca: 0.1.0
 fcaR: 1.1.1
 fcci: 1.0.0
 fcd: '0.1'
@@ -12091,7 +12098,7 @@ ggprism: 1.0.3
 ggpubr: 0.4.0
 ggpval: 0.2.4
 ggquickeda: 0.2.1
-ggquiver: 0.3.1
+ggquiver: 0.3.2
 ggraph: 2.0.5
 ggraptR: '1.3'
 ggrasp: '1.0'
@@ -12337,7 +12344,7 @@ gpairs: 1.3.3
 gpbStat: 0.3.5
 gpboost: 0.6.7
 gpclib: 1.5-6
-gpg: 1.2.4
+gpg: 1.2.5
 gphmm: 0.99.0
 gpindex: 0.3.9
 gpk: '1.0'
@@ -13369,7 +13376,7 @@ isdals: 2.0-4
 isdparser: 0.4.0
 isingLenzMC: 0.2.5
 island: 0.2.7
-islasso: 1.4.1
+islasso: 1.4.2
 ismev: '1.42'
 isni: '1.3'
 isnullptr: 1.0.1
@@ -13912,7 +13919,7 @@ learnstats: 0.1.1
 leastcostpath: 1.8.0
 ledger: 2.0.9
 leerSIECyL: 1.0.2
-lefko3: 4.0.1
+lefko3: 4.1.0
 lefse: '0.1'
 legco: 0.1.4
 legion: 0.1.0
@@ -15525,7 +15532,7 @@ naaccr: 1.0.0
 nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.17.1
-naijR: 0.3.3
+naijR: 0.3.4
 naivebayes: 0.9.7
 naivereg: 1.0.5
 nakagami: 1.1.0
@@ -16262,7 +16269,7 @@ outsider.base: 0.1.4
 ouxy: '2.1'
 overdisp: 0.1.1
 overlap: 0.3.4
-overlapping: '1.6'
+overlapping: '1.7'
 overlapptest: 1.2-4
 overture: 0.4-0
 overviewR: 0.0.7
@@ -17811,7 +17818,7 @@ rWind: 1.1.7
 rWishart: 0.1.2
 rYoutheria: 1.0.3
 ra4bayesmeta: 1.0-7
-rabhit: 0.1.5
+rabhit: 0.2.0
 rabi: 1.0.2
 racademyocean: 0.1.0
 race: 0.1.59
@@ -18045,7 +18052,7 @@ rcube: '0.5'
 rcure: 0.1.0
 rcv: 0.2.1
 rda: '1.0'
-rdacca.hp: 1.0-3
+rdacca.hp: 1.0-4
 rdaemon: 1.0.6
 rdatacite: 0.5.2
 rdatamarket: '0.6'
@@ -19431,7 +19438,7 @@ servr: '0.24'
 sesem: 1.0.2
 session: 1.0.3
 sessionTools: 0.9-2
-sessioninfo: 1.2.1
+sessioninfo: 1.2.2
 set: '1.2'
 set6: 0.2.4
 setRNG: 2013.9-1
@@ -20004,7 +20011,7 @@ spaceNet: '1.2'
 spacefillr: 0.2.0
 spacejam: '1.1'
 spacejamr: 0.1.1
-spacesRGB: 1.3-0
+spacesRGB: 1.4-0
 spacesXYZ: 1.1-1
 spacetime: 1.2-5
 spacey: 0.1.1
@@ -21719,7 +21726,7 @@ valuer: 1.1.2
 vamc: 0.2.1
 vampyr: 1.1.1
 vanddraabe: 1.1.1
-vannstats: 1.0.7.15
+vannstats: 1.0.12.5
 vanquish: 1.0.0
 vapour: 0.8.5
 varComp: 0.2-0
@@ -21858,7 +21865,7 @@ visualpred: 0.1.0
 visvow: 1.3.3
 visxhclust: 1.0.0
 vita: 1.0.0
-vitae: 0.4.2
+vitae: 0.5.1
 vitality: '1.3'
 vivid: 0.2.3
 vivo: 0.2.1
@@ -21987,7 +21994,7 @@ weathercan: 0.6.2
 weathermetrics: 1.2.2
 weatherr: 0.1.3
 webTRISr: 0.2.0
-webchem: 1.1.1
+webchem: 1.1.2
 webddx: 0.1.0
 webdeveloper: 0.1.0
 webdriver: 1.0.6
