@@ -864,6 +864,7 @@ CONORData: '1.0'
 CONS: 0.1.1
 COP: '1.0'
 COPASutils: '0.1'
+COR: 0.0.1
 CORE: '3.0'
 CORElearn: 1.56.0
 CORM: 1.0.2
@@ -935,7 +936,7 @@ CVXR: 1.0-10
 CVarE: '1.1'
 CVcalibration: 1.0-1
 CVglasso: '1.0'
-CVrisk: 1.0.0
+CVrisk: 1.1.0
 CaDENCE: 1.2.5
 CaPO4Sim: 0.2.0
 Cairo: 1.5-12.2
@@ -2507,7 +2508,7 @@ HDGLM: '0.1'
 HDInterval: 0.2.2
 HDLSSkST: 2.0.0
 HDMD: '1.2'
-HDMT: 1.0.3
+HDMT: 1.0.4
 HDPenReg: 0.94.7
 HDShOP: 0.1.2
 HDSpatialScan: 1.0.2
@@ -3565,7 +3566,7 @@ MXM: 1.5.2
 MaOEA: 0.6.2
 MaXact: 0.2.1
 MachineLearning: 0.1.4
-MachineShop: 3.1.0
+MachineShop: 3.2.0
 Maeswrap: '1.7'
 MagneticMap: '1.0'
 MajKMeans: 0.1.0
@@ -3636,7 +3637,7 @@ MediaK: '1.0'
 MediaNews: 0.2.1
 Mediana: 1.0.8
 MedianaDesigner: '0.6'
-Mega2R: 1.0.8
+Mega2R: 1.0.9
 Meiosis: 1.0.2
 MendelianRandomization: 0.5.1
 MenuCollection: '1.2'
@@ -4438,7 +4439,7 @@ PharmacoGx: 1.1.6
 Phase123: '2.1'
 Phase12Compare: '1.5'
 PhaseType: 0.1.3
-PhaseTypeR: 1.0.0
+PhaseTypeR: 1.0.1
 PheCAP: 1.2.1
 PheNorm: 0.1.0
 PheVis: 1.0.2
@@ -4762,6 +4763,7 @@ RCBR: 0.5.9
 RCCPCA: 0.1.0
 RCEIM: '0.3'
 RCGLS: 1.0.3
+RCLabels: 0.0.4
 RCMIP5: 1.2.0
 RCMinification: '1.0'
 RCPmod: '2.190'
@@ -5535,7 +5537,7 @@ Rjpstatdb: '0.1'
 RkMetrics: '1.3'
 Rknots: 1.3.2
 Rlab: 2.15.1
-Rlabkey: 2.8.1
+Rlabkey: 2.8.2
 Rlda: 0.2.6
 Rlgt: 0.1-3
 Rlibeemd: 1.4.2
@@ -5692,6 +5694,7 @@ SACOBRA: '1.2'
 SADEG: 1.0.0
 SADISA: '1.2'
 SAENET: '1.1'
+SAEval: 0.1.0
 SAFARI: 0.1.0
 SAFD: '2.1'
 SAGA: 2.0.0
@@ -6649,7 +6652,7 @@ TouRnament: 0.2.5
 ToxCrit: '1.0'
 ToxLim: '1.0'
 ToxicoGx: 0.1.1
-Tplyr: 0.4.2
+Tplyr: 0.4.3
 TraMineR: 2.2-2
 TraMineRextras: 0.6.2
 TraceAssist: 0.1.0
@@ -6695,7 +6698,7 @@ TukeyRegion: 0.1.4
 TunePareto: 2.5.1
 TurtleGraphics: 1.0-8
 Tushare: 0.1.3
-Twitmo: 0.1.1
+Twitmo: 0.1.2
 TwitterAutomatedTrading: 0.1.0
 TwoArmSurvSim: '0.2'
 TwoCop: '1.0'
@@ -7008,7 +7011,7 @@ aRbs: 0.1.3
 aRchi: 1.0.5
 aRpsDCA: 1.1.1
 aRtsy: 0.1.5
-aRxiv: 0.5.19
+aRxiv: '0.6'
 aSPC: 0.1.2
 aSPU: '1.50'
 aTSA: 3.1.2
@@ -7908,7 +7911,7 @@ bhm: '1.17'
 bhmbasket: 0.9.3
 bhpm: '1.7'
 bhrcr: 1.0.3
-biClassify: '1.2'
+biClassify: '1.3'
 biGraph: 0.9-3
 biOps: '0.2'
 biOpsGUI: 0.1.2
@@ -11897,7 +11900,7 @@ geomander: 1.0.8
 geomapdata: 1.0-4
 geomedb: 2.0.1
 geomerge: 0.3.2
-geometa: 0.6-4
+geometa: 0.6-5
 geometr: 0.2.10
 geometries: 0.2.0
 geometry: 0.4.5
@@ -12474,6 +12477,7 @@ grppenalty: 2.1-0
 grpreg: 3.4.0
 grpregOverlap: 2.2-0
 grpsel: 1.1.1
+grpseq: '1.0'
 grpss: 3.0.1
 grr: 0.9.5
 grt: 0.2.1
@@ -12994,7 +12998,7 @@ iWeigReg: '1.0'
 iZID: 0.0.1
 iaQCA: 0.8.7.0
 iadf: 0.1.2
-iai: 1.6.0
+iai: 1.7.0
 ialiquor: 0.1.0
 iarm: 0.4.2
 ib: 0.1.0
@@ -13355,7 +13359,7 @@ irace: 3.4.1
 ircor: '1.0'
 irg: 0.1.1
 iriR: 0.2.2
-irlba: 2.3.4
+irlba: 2.3.5
 irr: 0.84.1
 irrCAC: '1.0'
 irrICC: '1.0'
@@ -15188,7 +15192,7 @@ mopac: 0.1.0
 mopsocd: 0.5.1
 moreparty: 0.2.1
 morgenstemning: '1.0'
-morphemepiece: 1.1.0
+morphemepiece: 1.1.2
 morphemepiece.data: 1.1.0
 morpheus: 1.0-1
 morphomap: '1.3'
@@ -15705,7 +15709,7 @@ nhlscrape: 0.1.3
 nhlscrapr: '1.8'
 nhm: 0.1.0
 nhs.predict: 1.4.0
-nhsnumber: 0.1.1
+nhsnumber: 0.1.2
 nhstplot: 1.1.0
 niaidMI: 1.0.0
 nice: 0.4-1
@@ -16126,7 +16130,7 @@ opentripplanner: 0.3.1
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
 openxlsx: 4.2.4
-opera: 1.1.1
+opera: 1.2.0
 operator.tools: 1.6.3
 operators: 0.1-8
 opitools: 1.8.0
@@ -16243,7 +16247,7 @@ osmextract: 0.4.0
 osmgeosample: '0.1'
 osmose: 3.3.4
 osmplotr: 0.3.3
-osqp: 0.6.0.3
+osqp: 0.6.0.4
 osrm: 3.5.0
 osrmr: 0.1.36
 ot: 0.2.0
@@ -17394,7 +17398,7 @@ psycModel: 0.3.2
 psych: 2.1.9
 psychNET: 0.0.4
 psychReport: 3.0.1
-psychTools: 2.1.8
+psychTools: 2.1.12
 psychmeta: 2.6.0
 psychmetadata: 1.0.0
 psycho: 0.6.1
@@ -17844,7 +17848,7 @@ radous: 0.1.3
 radsafer: 2.2.5
 radtools: 1.0.6
 rafalib: 1.0.0
-ragg: 1.2.0
+ragg: 1.2.1
 rags2ridges: 2.2.5
 ragt2ridges: 0.3.4
 ragtop: 1.1.1
@@ -19073,7 +19077,7 @@ sail: 0.1.0
 salbm: '1.0'
 salem: 0.2.0
 salesforcer: 1.0.0
-salso: 0.2.23
+salso: 0.3.0
 salty: 0.1.0
 sambia: 0.1.0
 samc: 2.0.0
@@ -19492,7 +19496,7 @@ shapefiles: '0.7'
 shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
-shar: 1.2.1
+shar: '1.3'
 sharpData: '1.4'
 sharpPen: '1.7'
 sharpeRratio: 1.4.2
@@ -20356,7 +20360,7 @@ stagedtrees: 2.2.0
 staggered: '1.1'
 stam: 0.0-1
 stampr: '0.2'
-stan4bart: 0.0-1
+stan4bart: 0.0-2
 standGL: '1.1'
 standardize: 0.2.2
 standartox: 0.0.1
@@ -21056,7 +21060,7 @@ tictactoe: 0.2.2
 tictoc: 1.0.1
 tidyBF: 0.5.1
 tidyBdE: 0.2.2
-tidyCpp: 0.0.5
+tidyCpp: 0.0.6
 tidyHeatmap: 1.3.1
 tidyLPA: 1.1.0
 tidyMicro: '1.47'
@@ -21175,7 +21179,7 @@ tint: 0.1.3
 tinter: 0.1.0
 tinyProject: 0.6.1
 tinyarray: 2.2.7
-tinylabels: 0.2.1
+tinylabels: 0.2.2
 tinyscholar: 0.1.4
 tinyspotifyr: 0.2.2
 tinytest: 1.3.1
