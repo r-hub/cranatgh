@@ -229,7 +229,7 @@ AntAngioCOOL: '1.2'
 AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 3.1.0
-Anthropometry: '1.16'
+Anthropometry: '1.17'
 AntibodyTiters: 0.1.18
 Aoptbdtvc: 0.0.2
 AovBay: 0.1.0
@@ -415,7 +415,7 @@ BMTAR: 0.1.1
 BMTME: 1.0.19
 BMhyb: 2.1.5
 BMhyd: 1.2-8
-BMisc: 1.4.2
+BMisc: 1.4.3
 BNDataGenerator: '1.0'
 BNN: 1.0.2
 BNPMIXcluster: '1.3'
@@ -1077,7 +1077,7 @@ CoOL: 1.0.3
 CoRpower: 1.0.4
 CoSMoS: 2.1.0
 CoSeg: '0.38'
-CoTiMA: 0.4.4
+CoTiMA: 0.5.2
 CodataGS: '1.43'
 CodeDepends: 0.6.5
 CohortPlat: 1.0.3
@@ -1317,7 +1317,7 @@ DGM: 1.7.4
 DGVM3D: 1.0.0
 DHARMa: 0.4.4
 DHBins: '1.1'
-DHS.rates: 0.9.0
+DHS.rates: 0.9.1
 DICOM: '0.1'
 DICOMread: 0.0.0.3
 DIDmultiplegt: 0.1.0
@@ -3197,7 +3197,7 @@ LinkedMatrix: 1.4.0
 LipidMS: 3.0.1
 LipidMSdata: 1.0.0
 Lmoments: 1.3-1
-LncFinder: 1.1.4
+LncFinder: 1.1.5
 LncMod: '1.1'
 LncPath: '1.1'
 LncPriCNet: '1.0'
@@ -4593,7 +4593,7 @@ PupilPre: 0.6.2
 PupillometryR: 0.0.4
 PurBayes: '1.3'
 Pursuit: 1.0.2
-PwrGSD: 2.3.3
+PwrGSD: 2.3.5
 PxWebApiData: 0.7.0
 PythonInR: 0.1-9
 Q2q: 0.1.0
@@ -5110,7 +5110,7 @@ RSVGTipsDevice: 1.0-7
 RSarules: '1.0'
 RSauceLabs: 0.1.6
 RScaLAPACK: 0.6.1
-RScelestial: 1.0.2
+RScelestial: 1.0.3
 RSclient: 0.7-6
 RSearchYJ: 0.0.1
 RSeed: 0.1.60
@@ -5867,7 +5867,7 @@ SMIR: '0.02'
 SMITIDstruct: 0.0.5
 SMITIDvisu: 0.0.9
 SML: '0.1'
-SMLE: 2.0-1
+SMLE: 2.0-2
 SMLoutliers: '0.1'
 SMM: 1.0.2
 SMMA: 1.0.3
@@ -6136,7 +6136,7 @@ SimEvolEnzCons: 2.0.0
 SimHap: 1.2.0
 SimHaz: '0.1'
 SimInf: 8.4.0
-SimJoint: 0.3.7
+SimJoint: 0.3.9
 SimMultiCorrData: 0.2.2
 SimPhe: 0.2.0
 SimRAD: '0.96'
@@ -8928,7 +8928,7 @@ coRanking: 0.2.2
 coala: 0.6.0
 coalescentMCMC: 0.4-1
 coalitions: 0.6.20
-coarseDataTools: 0.6-5
+coarseDataTools: 0.6-6
 cobalt: 4.3.1
 cobiclust: 0.1.0
 cobs: 1.3-4
@@ -9778,7 +9778,7 @@ deep: 0.1.0
 deepMOU: 0.1.1
 deepNN: '1.1'
 deepboost: 0.1.6
-deepdep: 0.2.5.4
+deepdep: 0.3.0
 deepdive: 1.0.4
 deepgmm: 0.1.62
 deepgp: 0.3.1
@@ -10615,7 +10615,7 @@ empiricalBayes: '2.1'
 empiricalFDR.DESeq2: 1.0.3
 emplik: 1.1-1
 emplik2: '1.30'
-ems: 1.3.10
+ems: 1.3.11
 emstreeR: 2.2.2
 emu: '4.3'
 emuR: 2.3.0
@@ -10989,7 +10989,7 @@ fabCI: '0.2'
 fabMix: '5.0'
 fabisearch: 0.0.3.9
 fable: 0.3.1
-fable.ata: 0.0.2
+fable.ata: 0.0.3
 fable.prophet: 0.1.0
 fabletools: 0.3.2
 fabricatr: 0.14.0
@@ -12353,7 +12353,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.3.5
-gpboost: 0.6.7
+gpboost: 0.7.0
 gpclib: 1.5-6
 gpg: 1.2.5
 gphmm: 0.99.0
@@ -12562,7 +12562,7 @@ gwdegree: 0.1.1
 gwer: '3.0'
 gwerAM: '1.0'
 gwfa: 0.0.4
-gwpcormapper: 0.1.2
+gwpcormapper: 0.1.3
 gwrpvr: '1.0'
 gwrr: 0.2-1
 gwsem: 2.1.3
@@ -15735,7 +15735,7 @@ nimbleAPT: 1.0.4
 nimbleCarbon: 0.1.2
 nimbleEcology: 0.4.1
 nimbleSCR: 0.1.3
-nimbleSMC: 0.10.0
+nimbleSMC: 0.10.1
 nipals: '0.8'
 nipnTK: 0.1.0
 nitrcbot: '1.2'
@@ -16864,7 +16864,7 @@ pixmap: 0.4-12
 pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.2
-pkgbuild: 1.2.1
+pkgbuild: 1.3.0
 pkgcache: 1.3.0
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
@@ -17071,7 +17071,7 @@ polynomial: 0.1.0
 polypharmacy: 1.0.0
 polyphemus: 0.3.4
 polypoly: 0.0.2
-polyqtlR: 0.0.6
+polyqtlR: 0.0.7
 polyreg: 0.7.0
 polysat: 1.7-6
 polytomous: 0.1.6
@@ -19768,7 +19768,7 @@ sinx: 0.0.5
 siplab: '1.5'
 siqr: 0.8.0
 sirad: 2.3-3
-sirt: 3.10-118
+sirt: 3.11-21
 sirus: 0.3.2
 sisVIVE: '1.4'
 sisal: '0.48'
@@ -21652,7 +21652,7 @@ unmarked: 1.1.1
 unnest: 0.0.3
 unpivotr: 0.6.2
 unrepx: '1.0'
-unrtf: '1.4'
+unrtf: 1.4.1
 unstruwwel: 0.1.0
 unsystation: 0.2.0
 untb: 1.7-4
@@ -21690,7 +21690,7 @@ usefun: 0.4.8
 usemodels: 0.1.0
 userfriendlyscience: 0.7.2
 usethat: 0.3.0
-usethis: 2.1.3
+usethis: 2.1.5
 usethis2: 0.2.0
 usfertilizer: 0.1.5
 ushr: 0.2.3
