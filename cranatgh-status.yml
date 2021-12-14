@@ -1062,7 +1062,7 @@ ClusterR: 1.2.5
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.3
 ClusteredMutations: 1.0.1
-Clustering: 1.7.4
+Clustering: 1.7.5
 CoClust: 0.3-2
 CoCo: 0.1.7.6
 CoCoAn: 1.0-2
@@ -2207,7 +2207,7 @@ GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.1
 GGIR: 2.5-0
 GGMM: 1.0.1
-GGMncv: 2.0.0
+GGMncv: 2.1.0
 GGMnonreg: 1.0.0
 GGMridge: '1.1'
 GGMselect: 0.1-12.4
@@ -2764,7 +2764,7 @@ IPMbook: 0.1.3
 IPMpack: '2.1'
 IPPP: '1.1'
 IPSUR: '3.0'
-IPV: 0.1.1
+IPV: 0.2.0
 IPWboxplot: 0.1.0
 IPWpn: 0.1.0
 IPWsurvival: '0.5'
@@ -4964,9 +4964,9 @@ RMixtComp: 4.1.3
 RMixtCompIO: 4.0.6
 RMixtCompUtilities: 4.1.4
 RMongo: 0.0.25
-RMySQL: 0.10.22
+RMySQL: 0.10.23
 RNAseqNet: 0.1.4
-RNAsmc: 0.6.0
+RNAsmc: 0.7.0
 RNAstructureModuleMiner: 0.1.0
 RNCBI: '0.9'
 RNCBIAxis2Libs: '0.9'
@@ -6503,6 +6503,7 @@ TRMF: 0.1.5
 TROM: '1.3'
 TRSbook: '1.0'
 TSA: '1.3'
+TSANN: 0.1.0
 TSAgg: 1.0.1
 TSCS: 0.1.1
 TSDFGS: '1.0'
@@ -7026,6 +7027,7 @@ aTSA: 3.1.2
 aVirtualTwins: 1.0.1
 aaMI: 1.0-1
 aaSEA: 1.1.0
+abbreviate: '0.1'
 abbyyR: 0.5.5
 abc: '2.1'
 abc.data: '1.0'
@@ -7122,7 +7124,7 @@ additivityTests: 1.1-4
 addreg: '3.0'
 ade4: 1.7-18
 ade4TkGUI: 0.3-1
-adea: 1.1.6
+adea: 1.2.1
 adeba: 1.1.2
 adegenet: 2.1.5
 adegraphics: 1.0-16
@@ -8153,7 +8155,7 @@ bmass: 1.0.3
 bmd: '0.5'
 bmem: '1.8'
 bmeta: '0.1'
-bmgarch: 1.0.1
+bmgarch: 1.1.0
 bmggum: 0.1.0
 bmixture: '1.7'
 bmk: '1.0'
@@ -8921,6 +8923,7 @@ cmsaf: 3.3.1
 cmsafops: 1.2.2
 cmsafvis: 1.1.9
 cmstatr: 0.9.1
+cmtest: 0.1-1
 cmvnorm: 1.0-6
 cna: 3.2.0
 cnaOpt: 0.4.0
@@ -9473,7 +9476,7 @@ ctrlGene: 1.0.1
 cts: '1.0'
 ctsem: 3.5.4
 ctsemOMX: 1.0.4
-ctv: 0.8-5
+ctv: 0.9-0
 cuRe: 1.0.1
 cubature: 2.0.4.2
 cubelyr: 1.0.1
@@ -12884,12 +12887,12 @@ httpgd: 1.2.1
 httping: 0.2.0
 httpproblems: 1.0.1
 httptest: 4.1.0
-httpuv: 1.6.3
+httpuv: 1.6.4
 httr: 1.4.2
 httr2: 0.1.1
 hues: 0.2.0
 huge: 1.3.5
-huito: 0.1.0
+huito: 0.1.1
 humanFormat: '1.0'
 humaniformat: 0.6.0
 humanize: 0.2.0
@@ -13537,7 +13540,7 @@ jordan: 1.0-1
 josaplay: 0.1.3
 jose: 1.2.0
 journalabbr: 0.3.0
-joyn: 0.1.3
+joyn: 0.1.4
 jpeg: 0.1-9
 jpmesh: 2.0.2
 jpndistrict: 0.3.9
@@ -14531,7 +14534,7 @@ mazeGen: 0.1.3
 mazealls: 0.2.0
 mazeinda: 0.0.1
 mazing: 1.0.5
-mbRes: 0.1.1
+mbRes: 0.1.2
 mbbefd: 0.8.10
 mbclusterwise: '1.0'
 mbend: 1.3.1
@@ -14747,7 +14750,7 @@ metamisc: 0.2.5
 metan: 1.16.0
 metansue: '2.4'
 metap: '1.6'
-metapack: 0.1.4
+metapack: 0.1.5
 metaplot: 0.8.3
 metaplotr: 0.0.3
 metaplus: 1.0-2
@@ -16150,7 +16153,7 @@ opentraj: '1.0'
 opentripplanner: 0.3.1
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
-openxlsx: 4.2.4
+openxlsx: 4.2.5
 opera: 1.2.0
 operator.tools: 1.6.3
 operators: 0.1-8
@@ -17470,7 +17473,7 @@ pumilioR: 1.3.1
 puniform: 0.2.4
 pureseqtmr: '1.2'
 purge: 0.2.1
-purgeR: '1.3'
+purgeR: '1.4'
 purging: 1.0.0
 purrr: 0.3.4
 purrrlyr: 0.0.7
@@ -18030,6 +18033,7 @@ rbugs: 0.5-9
 rbundler: 0.3.7
 rbvs: '1.0'
 rbw: 0.3.0
+rcDEA: '1.0'
 rcage: '1.1'
 rcane: '1.0'
 rcanvec: 0.2.1
@@ -18411,7 +18415,7 @@ rfieldclimate: 0.1.0
 rfigshare: 0.3.7
 rfinance: 0.1.0
 rfinterval: 1.0.0
-rfishbase: 3.1.10
+rfishbase: 4.0.0
 rfishdraw: 0.1.0
 rfisheries: '0.2'
 rfishnet2: 0.2.0
@@ -18951,7 +18955,7 @@ rtext: 0.1.22
 rtf: 0.4-14.1
 rtfbs: '0.3'
 rtgstat: 0.1.1
-rticles: '0.21'
+rticles: '0.22'
 rticulate: 1.7.2
 rtide: 0.0.9
 rties: 5.0.0
@@ -20154,7 +20158,7 @@ spcosa: 0.4-0
 spcov: '1.01'
 spcr: '2.1'
 spd: 2.0-1
-spdep: 1.1-12
+spdep: 1.1-13
 spdownscale: 0.1.0
 spdplyr: 0.4.0
 spduration: 0.17.1
@@ -20904,7 +20908,7 @@ taxlist: 0.2.2
 taxonomizr: 0.8.0
 taxotools: 0.0.79
 tayloRswift: 0.1.0
-taylor: 0.2.1
+taylor: 1.0.0
 tbart: '1.0'
 tbd: 0.1.0
 tbdiag: '0.1'
