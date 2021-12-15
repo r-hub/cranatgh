@@ -873,7 +873,7 @@ COSINE: '2.1'
 COST: 0.1.0
 COUNT: 1.3.4
 COUSCOus: 1.0.0
-COVID19: 3.0.0
+COVID19: 3.0.1
 COVIDIBGE: 0.1.8
 COZIGAM: 2.0-3
 COveR: 1.0.3
@@ -2129,7 +2129,7 @@ FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
-FuzzyResampling: 0.3.0
+FuzzyResampling: 0.3.1
 FuzzySTs: '0.2'
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
@@ -3511,7 +3511,7 @@ MRwarping: '1.0'
 MSBVAR: 0.9-3
 MSCMT: 1.3.4
 MSCquartets: 1.1.0
-MSCsimtester: 0.0.9
+MSCsimtester: 1.0.0
 MSEtool: 3.3.0
 MSG: '0.8'
 MSGARCH: '2.42'
@@ -3577,7 +3577,7 @@ MakefileR: '1.0'
 Malmig: '0.3'
 ManagedCloudProvider: 1.0.0
 Mangrove: '1.21'
-ManifoldOptim: 1.0.0
+ManifoldOptim: 1.0.1
 ManlyMix: 0.1.14
 ManyTests: '1.2'
 Map2NCBI: '1.4'
@@ -4250,7 +4250,7 @@ PICBayes: '1.0'
 PIGE: '1.1'
 PIGShift: 1.0.1
 PIN: '0.8'
-PINSPlus: 2.0.5
+PINSPlus: 2.0.6
 PIPS: 1.0.1
 PK: 1.3-5
 PKI: 0.1-9
@@ -4804,13 +4804,13 @@ RDS: 0.9-3
 RDSTK: '1.1'
 RDStreeboot: '1.0'
 RDataCanvas: '0.1'
-RDieHarder: 0.2.2
+RDieHarder: 0.2.3
 RDnp: '1.3'
 RDocumentation: 0.8.2
 RDota: '1.2'
 RDota2: 0.1.6
 REAT: 3.0.3
-REBayes: '2.2'
+REBayes: '2.50'
 RECA: '1.7'
 RECSO: '1.0'
 REDCapExporter: 0.2.2
@@ -5162,7 +5162,7 @@ RTriangle: 1.6-0.10
 RUVIIIC: 1.0.19
 RUnit: 0.4.32
 RVA: 0.0.5
-RVAideMemoire: 0.9-80
+RVAideMemoire: 0.9-81
 RVCompare: 0.1.5
 RVFam: '1.1'
 RVIpkg: 0.2.8
@@ -5345,7 +5345,7 @@ RcppArmadillo: 0.10.7.3.0
 RcppBDT: 0.2.4
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
-RcppCCTZ: 0.2.9
+RcppCCTZ: 0.2.10
 RcppCNPy: 0.2.10
 RcppCWB: 0.4.4
 RcppCensSpatial: 0.1.0
@@ -5717,7 +5717,7 @@ SAMM: 1.1.1
 SAMTx: 0.3.0
 SAMUR: '0.6'
 SAMURAI: 1.2.1
-SAMtool: 1.2.3
+SAMtool: 1.2.4
 SAPP: 1.0.8
 SAR: 1.0.3
 SARP.compo: 0.1.5
@@ -6896,7 +6896,7 @@ WRI: 0.1.0
 WRS2: 1.1-3
 WRSS: '3.0'
 WRTDStidal: 1.1.2
-WSGeometry: '1.2'
+WSGeometry: 1.2.1
 WVPlots: 1.3.2
 WWGbook: 1.0.1
 WWR: 1.2.2
@@ -8713,7 +8713,7 @@ choroplethrAdmin1: 1.1.1
 choroplethrMaps: 1.0.1
 chorrrds: 0.1.9.5
 chplot: '1.3'
-christmas: 1.0.0
+christmas: 1.1.0
 chromer: '0.1'
 chromoMap: 0.3.1
 chromoR: '1.0'
@@ -9135,7 +9135,7 @@ conicfit: 1.0.4
 conics: '0.3'
 conjoint: '1.41'
 conjurer: 1.4.0
-conleyreg: 0.1.5
+conleyreg: 0.1.6
 conmet: 0.1.0
 connect3: 0.1.0
 connectedness: '0.2'
@@ -9163,7 +9163,7 @@ conting: '1.7'
 contingency: 0.0.6
 contourPlot: 0.2.0
 contoureR: 1.0.5
-contrast: '0.22'
+contrast: 0.24.1
 contribution: 0.2.0
 control: 0.2.5
 controlTest: 1.1.0
@@ -9946,7 +9946,7 @@ didrooRFM: 1.0.0
 dief: '1.2'
 dielectric: 0.2.3
 diem: '1.0'
-dietr: 1.1.2
+dietr: 1.1.3
 diezeit: 0.1-0
 difNLR: 1.3.7
 difR: '5.1'
@@ -11513,7 +11513,7 @@ freqweights: 1.0.4
 fresh: 0.2.0
 friends: 0.1.0
 frite: 0.1.0
-fritools: 2.5.0
+fritools: 3.0.0
 frm: 1.2.2
 frmhet: 1.1.3
 frmpd: 1.1.0
@@ -12298,7 +12298,7 @@ gms: 0.4.0
 gmt: 2.0.2
 gmum.r: 0.2.1
 gmvalid: '1.2'
-gmvarkit: 2.0.0
+gmvarkit: 2.0.1
 gmwm: 2.0.0
 gnFit: 0.2.0
 gnlm: 1.1.1
@@ -12431,7 +12431,7 @@ gravity: 0.9.9
 grec: 1.4.1
 greed: 0.5.1
 greekLetters: 0.0.7
-greeks: 0.4.0
+greeks: 0.4.1
 greenclust: 1.1.0
 gregRy: 0.1.0
 gregmisc: 2.1.5
@@ -13392,7 +13392,7 @@ irtGUI: '0.2'
 irtProb: '1.2'
 irtoys: 0.2.1
 irtplay: 1.6.3
-irtrees: 0.1.0
+irtrees: 1.0.0
 irtreliability: 0.1-1
 isa2: 0.3.5
 isaeditor: 0.1.1
@@ -13960,7 +13960,7 @@ lenses: 0.0.3
 leontief: '0.2'
 leri: 0.0.1
 lero.lero: '0.2'
-lessR: 4.0.8
+lessR: 4.1.4
 lest: 1.1.0
 lestat: '1.9'
 letsR: '4.0'
@@ -14411,7 +14411,7 @@ mapSpain: 0.4.0
 mapStats: '2.4'
 mapaccuracy: 0.1.0
 mapbayr: 0.5.0
-mapboxapi: '0.3'
+mapboxapi: 0.3.1
 mapboxer: 0.4.0
 mapcan: 0.0.1
 mapchina: 0.1.0
@@ -16710,7 +16710,7 @@ petitr: '1.0'
 petrinetR: 0.2.1
 petro.One: 0.2.3
 pewdata: 0.3.2
-pexm: 1.1.1
+pexm: 1.1.2
 pez: 1.2-3
 pfa: '1.1'
 pfda: 1.0.0
@@ -16737,7 +16737,7 @@ ph2hetero: 1.0.2
 ph2mult: 0.1.1
 ph2rand: 0.1.0
 phalen: '1.0'
-phangorn: 2.8.0
+phangorn: 2.8.1
 phantom: 0.1.3
 pharmaRTF: 0.1.4
 pharmr: 0.33.1
@@ -17213,7 +17213,7 @@ precautionary: 0.2.6
 precintcon: 2.3.0
 precisePlacement: 0.1.0
 precisely: 0.1.2
-precommit: 0.2.0
+precommit: 0.2.2
 precrec: 0.12.7
 predReliability: 0.1.0
 predatory: '1.2'
@@ -18397,7 +18397,7 @@ revgeo: '0.15'
 review: '2.5'
 revoIPC: 1.0-3
 revpref: 0.1.0
-revss: 1.0.1
+revss: 1.0.2
 revtools: 0.4.1
 revulyticsR: 0.0.3
 reweight: 1.2.1
@@ -18446,7 +18446,7 @@ rgeoda: 0.0.8-6
 rgeolocate: 1.4.1
 rgeopat2: 0.3.9
 rgeoprofile: 0.2.2
-rgeos: 0.5-8
+rgeos: 0.5-9
 rgeospatialquality: 0.3.2
 rgexf: 0.16.2
 rggm: 1.0.1
@@ -18947,7 +18947,7 @@ rt3: 0.1.2
 rtable: 0.1.5
 rtables: 0.4.0
 rtape: '2.2'
-rtdists: 0.11-2
+rtdists: 0.11-4
 rtematres: '0.2'
 rtemps: 0.8.0
 rtern: 0.1.1
@@ -19430,7 +19430,7 @@ sensobol: 1.1.0
 sensors4plumes: '0.9'
 sensory: '1.1'
 senstrat: 1.0.3
-sentencepiece: 0.1.2
+sentencepiece: '0.2'
 sentiment: '0.2'
 sentimentr: 2.9.0
 sentometrics: 1.0.0
@@ -19780,7 +19780,7 @@ singlecase: '0.1'
 sinib: 1.0.0
 sinx: 0.0.5
 siplab: '1.5'
-siqr: 0.8.0
+siqr: 0.8.1
 sirad: 2.3-3
 sirt: 3.11-21
 sirus: 0.3.2
@@ -19961,7 +19961,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
-soilDB: 2.6.9
+soilDB: 2.6.10
 soilassessment: 0.2.1
 soilcarbon: 1.2.0
 soilhypfit: 0.1-4
@@ -20359,7 +20359,7 @@ sspse: '0.6'
 ssr: 0.1.1
 ssrm.logmer: '0.1'
 ssrn: 0.1.0
-sss: 0.1-0
+sss: 0.2.0
 sssc: 1.0.0
 sstModel: 1.0.0
 ssvd: '1.0'
@@ -20421,7 +20421,7 @@ statVisual: 1.2.1
 statar: 0.7.3
 stataread: '2.6'
 statarepl: 0.1.0
-statcanR: 0.2.1
+statcanR: 0.2.3
 statcheck: 1.3.0
 statcomp: 0.1.0
 statebins: 1.4.0
@@ -20711,7 +20711,7 @@ survivoR: 0.9.6
 survminer: 0.4.9
 survmixer: '1.3'
 survrec: 1.2-2
-survsim: 1.1.7
+survsim: 1.1.8
 survsup: 0.0.2
 survtmle: 1.1.1
 survutils: 1.0.2
@@ -20741,7 +20741,7 @@ svenssonm: 0.1.0
 svgPanZoom: 0.3.4
 svgViewR: 1.4.1
 svglite: 2.0.0
-svgtools: 1.0.3
+svgtools: 1.1.0
 svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
@@ -21110,7 +21110,7 @@ tidycharts: 0.1.2
 tidycmprsk: 0.1.0
 tidycode: 0.1.1
 tidycomm: 0.2.1
-tidycwl: 1.0.5
+tidycwl: 1.0.6
 tidydatatutor: 0.1.0
 tidydice: 0.1.1
 tidydr: 0.0.3
@@ -21253,7 +21253,7 @@ tm.plugin.webmining: '1.3'
 tm1r: 1.1.8
 tmap: 3.3-2
 tmaptools: 3.1-1
-tmbstan: 1.0.2
+tmbstan: 1.0.3
 tmcn: 0.2-13
 tmg: '0.3'
 tmhmm: '1.3'
@@ -22189,7 +22189,7 @@ wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
 wrGraph: 1.3.0
-wrMisc: 1.7.0
+wrMisc: 1.8.0
 wrProteo: 1.4.3
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.2
@@ -22238,7 +22238,7 @@ xdcclarge: 0.1.0
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.28'
+xfun: '0.29'
 xgb2sql: 0.1.2
 xgboost: 1.5.0.2
 xgobi: 1.2-15
