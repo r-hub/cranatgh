@@ -347,7 +347,7 @@ BDEsize: '1.6'
 BDP2: 0.1.3
 BDWreg: 1.2.0
 BDgraph: '2.64'
-BE: 0.1.4
+BE: 0.1.5
 BEACH: 1.3.1
 BEANSP: '1.0'
 BED: 1.4.4
@@ -727,7 +727,7 @@ CALIBERrfimpute: 1.0-6
 CALINE3: '1.0'
 CAM: '1.0'
 CAMAN: '0.74'
-CAMML: 0.1.0
+CAMML: 0.1.1
 CANSIM2R: 1.14.1
 CARBayes: 5.2.5
 CARBayesST: 3.2.1
@@ -4330,6 +4330,7 @@ PROscorerTools: 0.0.1
 PROsetta: 0.3.4
 PRP: 0.1.1
 PRROC: 1.3.1
+PRSPGx: 0.1.0
 PRSim: 1.3-1
 PReMiuM: 3.2.7
 PResiduals: 1.0-1
@@ -5535,6 +5536,7 @@ Rip46: 1.0.2
 Rirt: 0.0.2
 Risk: '1.0'
 RiskPortfolios: 2.1.7
+Rita: 1.0.0
 Ritc: 1.0.2
 RiverBuilder: 0.1.1
 RiverLoad: 1.0.2
@@ -6856,6 +6858,7 @@ VhayuR: 1.1.2
 ViSiElse: 1.2.2
 VicmapR: 0.1.8
 VideoComparison: 0.9-4
+ViewPipeSteps: 0.1.0
 VineCopula: 2.4.3
 VisCov: '1.3'
 VisitorCounts: 1.0.0
@@ -7145,6 +7148,7 @@ adheRenceRX: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.3
 adiv: 2.1.1
+adjSURVCI: '1.0'
 adjclust: 0.6.3
 adjustedcranlogs: 0.1.0
 adk: '1.0'
@@ -7576,7 +7580,7 @@ autoCovariateSelection: 1.0.0
 autoFC: 0.1.2
 autoFRK: 1.4.3
 autoMFA: 1.0.0
-autoMrP: '0.98'
+autoMrP: '0.99'
 autoSEM: 0.1.0
 autoTS: 0.9.11
 autocart: 1.4.5
@@ -8303,6 +8307,7 @@ brr: 1.0.0
 brranching: 0.7.0
 brt: 1.3.0
 bruceR: 0.8.2
+brulee: 0.0.1
 brunnermunzel: 1.4.1
 brxx: 0.1.2
 bs: '1.0'
@@ -9462,7 +9467,7 @@ ctest: 0.9-21
 ctf: 0.1.0
 ctgdist: 0.1.0
 ctgt: '2.0'
-cthist: 0.1.1
+cthist: 0.1.2
 cthresh: '4.5'
 cthreshER: 1.1.0
 ctl: 1.0.0-4
@@ -12074,7 +12079,7 @@ ggimg: 0.1.1
 gginference: 0.1.3
 gginnards: 0.1.0-1
 ggip: 0.2.0
-ggiraph: 0.8.0
+ggiraph: 0.8.1
 ggiraphExtra: 0.3.0
 ggjoy: 0.4.1
 gglasso: '1.5'
@@ -13870,7 +13875,7 @@ lazyraster: 0.5.1
 lazyrmd: 0.2.0
 lazysf: 0.1.0
 lazysql: 0.1.3
-lazytrade: 0.5.2
+lazytrade: 0.5.3
 lba: 2.4.4
 lbfgs: 1.2.1
 lbfgsb3: 2015-2.13
@@ -17111,6 +17116,7 @@ popEpi: 0.4.9
 popKorn: 0.3-0
 popPCR: 0.1.1.1
 popPK: '1.03'
+popPyramid: 0.1.1
 popRF: 1.0.0
 popRange: '1.1'
 popReconstruct: 1.0-6
@@ -17769,7 +17775,7 @@ rEMM: 1.1.0
 rENA: 0.2.3
 rERR: '0.1'
 rFDSN: 0.0.0
-rFIA: 0.3.2
+rFIA: 1.0.0
 rFSA: 0.9.6
 rFTRLProximal: 1.0.0
 rFUSION: '0.1'
@@ -18443,7 +18449,7 @@ rgbif: 3.6.0
 rgcvpack: 0.1-4
 rgdal: 1.5-28
 rgdax: 1.2.1
-rgee: 1.1.0
+rgee: 1.1.2
 rgen: 0.0.1
 rgenie: 1.0.0
 rgenius: 0.1.0
@@ -20306,7 +20312,7 @@ spsmooth: 1.1-3
 spssDDI: '0.1'
 spsur: 1.0.2.0
 spsurv: 1.0.0
-spsurvey: 5.0.1
+spsurvey: 5.1.0
 spt: 2.5.1
 sptemExp: 0.1.4
 sptests: 0.1-4
@@ -20704,6 +20710,7 @@ surveyvoi: 1.0.3
 survidm: 1.3.2
 survivALL: 0.9.3
 survival: 3.2-13
+survival.svb: 0.0-1
 survival4: 1.4-0
 survival5: '2.4'
 survival666: '0.5'
@@ -21855,6 +21862,7 @@ verhoeff: 0.4.0
 verification: '1.42'
 verify: 0.8-4
 versions: '0.3'
+versionsort: 1.0.0
 vertexenum: 1.0.2
 vesselr: 0.2.1
 vetiver: 0.1.0
