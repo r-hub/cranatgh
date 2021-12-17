@@ -5503,7 +5503,7 @@ Rfmtool: 4.1.4
 Rfolding: '1.0'
 Rforestry: 0.9.0.57
 Rfractran: '1.0'
-Rfssa: 1.0.0
+Rfssa: 2.0.0
 Rfun: '1.0'
 Rfwdmv: '0.7'
 Rga4gh: 0.1.1
@@ -5900,6 +5900,7 @@ SNSchart: 1.4.0
 SNSequate: 1.3.3
 SNscan: '1.0'
 SOAR: 0.99-11
+SOAs: 1.0-1
 SOD: '1.0'
 SODC: '1.0'
 SOFIA: '1.0'
@@ -6099,7 +6100,7 @@ SesIndexCreatoR: 1.0-2
 SetMethods: '3.0'
 SetRank: 1.1.0
 SetTest: 0.2.0
-Seurat: 4.0.5
+Seurat: 4.0.6
 SeuratObject: 4.0.4
 ShapeChange: '1.4'
 ShapePattern: 2.2.0
@@ -6333,7 +6334,7 @@ Stem: '1.0'
 StempCens: 1.1.0
 StepReg: 1.4.2
 StepSignalMargiLike: 2.6.0
-SteppedPower: 0.2.0
+SteppedPower: 0.3.1
 StepwiseTest: '1.0'
 StereoMorph: 1.6.4
 Stickbreaker: 1.0.0
@@ -7034,6 +7035,7 @@ aTSA: 3.1.2
 aVirtualTwins: 1.0.1
 aaMI: 1.0-1
 aaSEA: 1.1.0
+aba: 0.0.9
 abbreviate: '0.1'
 abbyyR: 0.5.5
 abc: '2.1'
@@ -9297,6 +9299,7 @@ covid19jp: 0.1.0
 covid19mobility: 0.1.1
 covid19nytimes: 0.1.3
 covid19sf: 0.1.1
+covid19srilanka: 1.0.0
 covid19swiss: 0.1.0
 covid19us: 0.1.7
 covidcast: 0.4.2
@@ -11598,7 +11601,7 @@ funtimes: '8.1'
 furniture: 1.9.10
 furrr: 0.2.3
 fusedest: '1.3'
-fusen: 0.2.4
+fusen: 0.3.0
 fuser: 1.0.1
 fusionchartsR: 0.0.2
 fusionclust: 1.0.0
@@ -11740,7 +11743,7 @@ gateR: 0.1.9
 gatepoints: 0.1.4
 gauseR: '1.1'
 gaussDiff: '1.1'
-gausscov: 0.1.1
+gausscov: 0.1.2
 gaussfacts: 0.0.2
 gaussplotR: 0.2.5
 gausspred: 1.0-0
@@ -13712,7 +13715,7 @@ kmlcov: 1.0.1
 kmodR: 0.1.0
 knitLatex: 0.9.0
 knitcitations: 1.0.12
-knitr: '1.36'
+knitr: '1.37'
 knitrBootstrap: 1.0.2
 knitrProgressBar: 1.1.0
 knitrdata: 0.6.1
@@ -14658,7 +14661,7 @@ medAdherence: '1.03'
 medExtractR: '0.3'
 medSTC: 1.0.0
 mederrRank: 0.0.8
-medfate: 2.2.3
+medfate: 2.3.7
 medflex: 0.6-7
 mediacloudr: 0.1.0
 mediateP: 0.1.0
@@ -14761,7 +14764,7 @@ metamicrobiomeR: '1.2'
 metamisc: 0.2.5
 metan: 1.16.0
 metansue: '2.4'
-metap: '1.6'
+metap: '1.7'
 metapack: 0.1.5
 metaplot: 0.8.3
 metaplotr: 0.0.3
@@ -16450,7 +16453,7 @@ parallelMap: 1.5.1
 parallelPlot: 0.1.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
-parallelly: 1.29.0
+parallelly: 1.30.0
 param6: 0.2.3
 paramGUI: 2.1.4
 parameters: 0.15.0
@@ -18163,7 +18166,7 @@ readMzXmlData: 2.8.1
 readODS: 1.7.0
 readOffice: 0.2.2
 readability: 0.1.1
-readabs: 0.4.10
+readabs: 0.4.11
 readbitmap: 0.1.5
 readbulk: 1.1.3
 reader: 1.0.6
@@ -18793,7 +18796,7 @@ roxygen2: 7.1.2
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
-rpact: 3.1.1
+rpact: 3.2.0
 rpanel: 1.1-5
 rpart: 4.1-15
 rpart.LAD: 0.1.2
@@ -19429,7 +19432,7 @@ semtree: 0.9.17
 semver: 0.2.0
 semverutils: 0.1.0
 sen2r: 1.5.0
-sendgridr: 0.3.3
+sendgridr: 0.4.2
 sendmailR: 1.2-1
 sendplot: 4.0.0
 sensR: 1.5-2
@@ -19836,6 +19839,7 @@ sketch: 1.1.17
 sketcher: 0.1.3
 skewMLRM: '1.6'
 skewlmm: 1.0.0
+skewsamp: 1.0.0
 skewt: '1.0'
 skewtools: 0.1.1
 skilljaR: 0.0.1
@@ -21085,6 +21089,7 @@ themetagenomics: 1.0.2
 themis: 0.1.4
 thermocouple: 1.0.2
 theseus: 0.1.0
+thewitcher: 1.0.0
 thgenetics: 0.4-2
 thickmatch: 0.3.1
 thief: '0.3'
@@ -21884,6 +21889,7 @@ viafr: 0.2.0
 vici: 0.5.2
 vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
+viewpoly: 0.1.0
 viewshed3d: 4.0.0
 vimcom: 0.9-9
 vimp: 2.2.5
