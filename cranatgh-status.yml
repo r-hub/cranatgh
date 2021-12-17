@@ -284,7 +284,7 @@ AzureKusto: 1.0.6
 AzureML: 0.2.15
 AzureQstor: 1.0.1
 AzureRMR: 2.4.3
-AzureStor: 3.5.2
+AzureStor: 3.6.0
 AzureTableStor: 1.0.0
 AzureVM: 2.2.2
 AzureVMmetadata: 1.0.1
@@ -603,6 +603,7 @@ BiasCorrector: 0.2.0
 BiasedUrn: '1.07'
 BibPlots: 0.0.8
 BifactorIndicesCalculator: 0.2.2
+BigDataStatMeth: 0.99.14
 BigQuic: 1.1-9.1
 BigSEM: '0.2'
 BigTSP: '1.0'
@@ -1046,7 +1047,7 @@ CluMix: 2.3.1
 ClueR: '1.4'
 ClusBoot: '1.0'
 ClusPred: 1.1.0
-ClusTorus: 0.2.0
+ClusTorus: 0.2.1
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
 ClustAssess: 0.1.1
@@ -1261,7 +1262,7 @@ DBHC: 0.0.2
 DBI: 1.1.1
 DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
-DBItest: 1.7.1
+DBItest: 1.7.2
 DBKGrad: '1.7'
 DBfit: '2.0'
 DCA: '2.0'
@@ -1886,7 +1887,7 @@ FADPclust: 0.1.0
 FAIRmaterials: 0.0.2
 FAMILY: 0.1.19
 FAMT: '2.5'
-FAMetA: 0.1.0
+FAMetA: 0.1.1
 FAMoS: 0.3.0
 FAO56: 0.1.0
 FAOSTAT: 2.2.1
@@ -1948,7 +1949,7 @@ FMAdist: 0.1.0
 FMC: 1.0.0
 FMCCSD: '1.0'
 FME: 1.3.6.2
-FMM: 0.3.0
+FMM: 0.3.1
 FMP: '1.4'
 FMStable: 0.1-2
 FMradio: 1.1.1
@@ -2709,7 +2710,7 @@ IDF: 2.1.0
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
-IDSL.IPA: '1.2'
+IDSL.IPA: '1.3'
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -2921,6 +2922,7 @@ JQL: 3.6.9
 JRF: 0.1-4
 JRM: 0.1-1
 JSM: 1.0.1
+JSUparameters: 1.0.0
 JSconsole: 0.1.0
 JSmediation: 0.2.0
 JWileymisc: 1.2.0
@@ -4668,6 +4670,7 @@ QuantNorm: 1.0.5
 QuantPsyc: '1.5'
 QuantTools: 0.5.7.1
 QuantifQuantile: '2.2'
+QuantileGH: 0.1.0
 QuantileGradeR: 0.1.1
 QuantileNPCI: 0.9.0
 QuantumClone: 1.0.0.6
@@ -5345,11 +5348,12 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.8
 RcppAlgos: 2.4.3
 RcppAnnoy: 0.0.19
-RcppArmadillo: 0.10.7.3.0
+RcppArmadillo: 0.10.7.5.0
 RcppBDT: 0.2.4
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
 RcppCCTZ: 0.2.10
+RcppCGAL: 5.3.1
 RcppCNPy: 0.2.10
 RcppCWB: 0.4.4
 RcppCensSpatial: 0.1.0
@@ -7230,7 +7234,7 @@ airportr: 0.1.3
 airports: 0.1.0
 airqualityES: 1.0.0
 airr: 1.3.0
-airt: 0.2.0
+airt: 0.2.1
 ajv: 1.0.0
 akc: 0.9.5
 akiFlagger: 0.3.0
@@ -7940,7 +7944,7 @@ biOps: '0.2'
 biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.1
-biblio: 0.0.5
+biblio: 0.0.6
 bibliometrix: 3.1.4
 bibliometrixData: 0.1.0
 biblionetwork: 0.1.0
@@ -8938,7 +8942,7 @@ cmsafvis: 1.1.9
 cmstatr: 0.9.1
 cmtest: 0.1-1
 cmvnorm: 1.0-6
-cna: 3.2.0
+cna: 3.3.0
 cnaOpt: 0.4.0
 cnbdistr: 1.0.1
 cncaGUI: '1.0'
@@ -9414,7 +9418,7 @@ crosstable: 0.3.2
 crosstalk: 1.2.0
 crosstalkr: 0.7.0
 crossval: 1.0.4
-crossvalidationCP: 1.0-0
+crossvalidationCP: 1.0-1
 crosswalkr: 0.2.6
 crossword.r: 0.3.6
 crov: 0.2.0
@@ -9800,7 +9804,7 @@ deep: 0.1.0
 deepMOU: 0.1.1
 deepNN: '1.1'
 deepboost: 0.1.6
-deepdep: 0.3.0
+deepdep: 0.4.0
 deepdive: 1.0.4
 deepgmm: 0.1.62
 deepgp: 0.3.1
@@ -12287,7 +12291,7 @@ glow: 0.10.1
 glpk: 4.8-0.5
 glpkAPI: 1.3.3
 glrt: '2.0'
-glue: 1.5.1
+glue: 1.6.0
 gluedown: 1.0.4
 gluvarpro: '4.0'
 glvmfit: 0.1.0
@@ -12593,7 +12597,7 @@ gwrr: 0.2-1
 gwsem: 2.1.3
 gym: 0.1.0
 gyriq: 1.0.2
-h2o: 3.34.0.3
+h2o: 3.34.0.6
 h2o4gpu: 0.3.3
 h3jsr: 1.2.2
 h5: '0.9'
@@ -12835,7 +12839,7 @@ holland: 0.1.2-1
 holodeck: 0.2.1
 homals: 1.0-9
 homeR: 0.3.0
-hommel: '1.5'
+hommel: '1.6'
 homologene: 1.4.68.19.3.27
 homomorpheR: 0.2-2
 homtest: 1.0-5
@@ -13755,7 +13759,7 @@ krige: 0.6.1
 kriging: '1.1'
 krippendorffsalpha: 1.1-1
 krm: 2020.5-20
-ks: 1.13.2
+ks: 1.13.3
 ksNN: 0.1.2
 kscons: 0.7.0
 kselection: 0.2.0
@@ -14270,6 +14274,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
+lrstat: 0.1.0
 lsa: 0.73.2
 lsasim: 2.1.2
 lsbclust: '1.1'
@@ -14597,7 +14602,7 @@ mclogit: 0.8.7.3
 mclust: 5.4.8
 mclust02: 2.1-18
 mclust1998: 1.1-9
-mclustAddons: '0.5'
+mclustAddons: '0.6'
 mclustcomp: 0.3.3
 mcmc: 0.9-7
 mcmcOutput: 0.1.1
@@ -15343,7 +15348,7 @@ mscstts: 0.6.2
 mscsweblm4r: 0.1.2
 msd: 0.3.1
 msda: 1.0.2
-msde: 1.0.4
+msde: 1.0.5
 mseapca: '1.0'
 mseq: '1.2'
 msgcop: '0.9'
@@ -15757,7 +15762,7 @@ nicheROVER: 1.1.0
 nichevol: 0.1.19
 nifti.io: 1.0.0
 nightmares: 0.0.2
-nilde: 1.1-4
+nilde: 1.1-6
 nima: 0.6.2
 nimble: 0.12.1
 nimbleAPT: 1.0.4
@@ -16435,7 +16440,7 @@ panelAR: '0.1'
 panelView: 1.1.5
 panelWranglR: 1.2.13
 panelaggregation: 0.1.1
-panelr: 0.7.5
+panelr: 0.7.6
 panelvar: 0.5.3
 pangaear: 1.1.0
 papayar: '1.0'
@@ -16591,6 +16596,7 @@ pcadapt: 4.3.3
 pcal: 1.0.0
 pcalg: 2.7-4
 pcalls: '1.0'
+pcatsAPIclientR: 1.0.0
 pccc: 1.0.5
 pcdpca: '0.4'
 pcds: 0.1.2
@@ -18232,7 +18238,7 @@ reda: 0.5.3
 redcapAPI: '2.3'
 reddPrec: 0.4.0
 redist: 3.1.5
-redland: 1.0.17-14
+redland: 1.0.17-15
 redlistr: 1.0.3
 redoc: 2.0.0.49
 redshiftTools: 1.0.1
@@ -18520,7 +18526,7 @@ ricu: 0.5.1
 ridge: '3.0'
 ridigbio: 0.3.5
 ridittools: '0.1'
-riem: 0.1.1
+riem: 0.2.0
 rif: 0.2.0
 rifle: '1.0'
 rigr: 1.0.1
@@ -19506,7 +19512,7 @@ settings: 0.2.7
 setwidth: 1.0-4
 sever: 0.0.7
 severity: '2.0'
-sf: 1.0-4
+sf: 1.0-5
 sfa: 1.0-1
 sfaR: 0.1.0
 sfadv: 1.0.1
@@ -19516,7 +19522,7 @@ sfcr: 0.2.1
 sfdct: 0.1.0
 sfheaders: 0.4.0
 sfinx: 1.7.99
-sfnetworks: 0.5.3
+sfnetworks: 0.5.4
 sfo: 0.1.1
 sfsmisc: 1.1-12
 sft: 2.2-1
@@ -20164,12 +20170,12 @@ spatsoc: 0.1.16
 spatstat: 2.3-0
 spatstat.Knet: 2.0-0
 spatstat.core: 2.3-2
-spatstat.data: 2.1-0
+spatstat.data: 2.1-2
 spatstat.geom: 2.3-1
 spatstat.gui: 2.0-0
 spatstat.linnet: 2.3-1
 spatstat.local: 4.1-1
-spatstat.sparse: 2.0-0
+spatstat.sparse: 2.1-0
 spatstat.utils: 2.3-0
 spatsurv: '1.6'
 spbabel: 0.5.5
@@ -21142,7 +21148,7 @@ tidydice: 0.1.1
 tidydr: 0.0.3
 tidyestimate: 1.1.0
 tidyfast: 0.2.1
-tidyfst: 1.0.0
+tidyfst: 1.5.0
 tidyft: 0.4.5
 tidygapminder: 0.1.1
 tidygate: 0.4.7
