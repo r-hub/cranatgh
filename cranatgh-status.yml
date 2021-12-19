@@ -1100,7 +1100,7 @@ CombinePortfolio: '0.4'
 CommEcol: 1.7.1
 CommT: 0.1.1
 CommonJavaJars: 1.0-6
-CommonMean.Copula: 1.0.1
+CommonMean.Copula: 1.0.2
 CommonTrend: 0.7-1
 CommunityCorrelogram: '1.0'
 Comp2ROC: 1.1.4
@@ -2735,7 +2735,7 @@ IMAGE: '1.0'
 IMD: 1.0.2
 IMEC: 0.2.0
 IMFData: 0.2.0
-IMIFA: 2.1.7
+IMIFA: 2.1.8
 IMIS: '0.1'
 IMIX: 1.1.4
 IMP: '1.1'
@@ -3017,7 +3017,7 @@ Kurt: '1.1'
 L0Learn: 2.0.3
 L1mstate: 1.0.1
 L1pack: 0.38.196
-L2DensityGoFtest: 0.2.0
+L2DensityGoFtest: 0.3.0
 LA: 0.1.3
 LAGOSNE: 2.0.2
 LAM: 0.5-15
@@ -3347,7 +3347,7 @@ MDimNormn: 0.8.0
 MDplot: 1.0.1
 MED: 0.1.0
 MEDITS: 0.1.7
-MEDseq: 1.3.1
+MEDseq: 1.3.2
 MEET: '5.1'
 MEGENA: 1.3.7
 MEMSS: 0.9-3
@@ -3615,7 +3615,7 @@ Matrix: 1.4-0
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.9.5
 MatrixEQTL: '2.3'
-MatrixExtra: 0.1.9
+MatrixExtra: 0.1.9-1
 MatrixLDA: '0.2'
 MatrixMixtures: 1.0.0
 MatrixModels: 0.5-0
@@ -3645,7 +3645,7 @@ MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
 MediaNews: 0.2.1
 Mediana: 1.0.8
-MedianaDesigner: '0.6'
+MedianaDesigner: '0.7'
 Mega2R: 1.0.9
 Meiosis: 1.0.2
 MendelianRandomization: 0.5.1
@@ -8158,7 +8158,7 @@ blockmodels: 1.1.5
 blockrand: '1.5'
 blocksdesign: '4.9'
 blockseg: 0.5.2
-blogdown: '1.6'
+blogdown: '1.7'
 blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-1
@@ -9303,7 +9303,7 @@ covid19italy: 0.3.1
 covid19jp: 0.1.0
 covid19mobility: 0.1.1
 covid19nytimes: 0.1.3
-covid19sf: 0.1.1
+covid19sf: 0.1.2
 covid19srilanka: 1.0.0
 covid19swiss: 0.1.0
 covid19us: 0.1.7
@@ -11749,7 +11749,7 @@ gateR: 0.1.9
 gatepoints: 0.1.4
 gauseR: '1.1'
 gaussDiff: '1.1'
-gausscov: 0.1.2
+gausscov: 0.1.3
 gaussfacts: 0.0.2
 gaussplotR: 0.2.5
 gausspred: 1.0-0
@@ -12211,7 +12211,7 @@ git2rdata: 0.3.1
 gitcreds: 0.1.1
 gitdown: 0.1.3
 gitear: 1.0.0
-gitgadget: 0.6.4
+gitgadget: 0.6.6
 githubinstall: 0.2.2
 gitignore: 0.1.5
 gitlabr: 2.0.0
@@ -14894,7 +14894,7 @@ midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
 migest: 2.0.2
-migraph: 0.8.5
+migraph: 0.8.13
 migrate: 0.4.0
 migration.indices: 0.3.0
 migrbc: 2.0.9
@@ -15033,7 +15033,7 @@ mlapi: 0.1.0
 mlbench: 2.1-3
 mlbgameday: 0.2.0
 mlbstats: 0.1.0
-mlbstatsR: 0.1.0.3
+mlbstatsR: 0.1.0
 mldr: 0.4.3
 mldr.datasets: 0.4.2
 mle.tools: 1.0.0
@@ -16153,7 +16153,7 @@ openNLPmodels: 0.0-3
 openNLPmodels.en: 0.0-4
 openNLPmodels.es: 0.0-4
 openSTARS: 1.2.2
-openSkies: 1.1.5
+openSkies: 1.1.6
 openVA: 1.0.13
 openadds: 0.2.0
 openair: 2.8-6
@@ -16170,7 +16170,7 @@ openeo: 1.1.0
 openintro: 2.2.0
 openmetrics: 0.3.0
 opensensmapr: 0.5.1
-openssl: 1.4.5
+openssl: 1.4.6
 opentick: 0.1-1
 opentimsr: 1.0.11
 opentraj: '1.0'
@@ -17364,7 +17364,7 @@ profvis: 0.3.7
 progenyClust: '1.2'
 prognosticROC: '0.7'
 progress: 1.2.2
-progressr: 0.9.0
+progressr: 0.10.0
 proj4: 1.0-10.1
 projections: 0.5.4
 projector: 0.0.2
@@ -19440,7 +19440,7 @@ semtree: 0.9.17
 semver: 0.2.0
 semverutils: 0.1.0
 sen2r: 1.5.0
-sendgridr: 0.4.2
+sendgridr: 0.4.3
 sendmailR: 1.2-1
 sendplot: 4.0.0
 sensR: 1.5-2
@@ -20435,7 +20435,7 @@ starm: 0.1.0
 starma: '1.3'
 starmie: 0.1.2
 starnet: 0.0.6
-stars: 0.5-4
+stars: 0.5-5
 starsExtra: 0.2.7
 starschemar: 1.2.0
 startR: 2.1.0
@@ -21251,7 +21251,7 @@ tinylabels: 0.2.2
 tinyscholar: 0.1.4
 tinyspotifyr: 0.2.2
 tinytest: 1.3.1
-tinytex: '0.35'
+tinytex: '0.36'
 tiobeindexr: 0.1.1
 tipitaka: 0.1.2
 tipom: 1.0.2-1
@@ -21360,7 +21360,7 @@ track2KBA: 1.0.1
 trackObjs: 1.0-18
 trackdem: '0.6'
 trackdf: 0.2.2
-trackdown: 1.0.0
+trackdown: 1.1.1
 trackeR: 1.5.2
 trackeRapp: '1.1'
 trackr: 0.10.7
@@ -21564,7 +21564,7 @@ ttwa: 0.8.5.1
 tuber: 0.9.9
 tubern: 0.1.0
 tuckerR.mmgg: 1.5.1
-tufte: '0.10'
+tufte: '0.11'
 tufterhandout: 1.2.1
 tukeyGH: 1.0.0
 tukeytrend: '0.7'
