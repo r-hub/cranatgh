@@ -1100,7 +1100,7 @@ CombinePortfolio: '0.4'
 CommEcol: 1.7.1
 CommT: 0.1.1
 CommonJavaJars: 1.0-6
-CommonMean.Copula: 1.0.2
+CommonMean.Copula: 1.0.3
 CommonTrend: 0.7-1
 CommunityCorrelogram: '1.0'
 Comp2ROC: 1.1.4
@@ -1260,7 +1260,7 @@ DBEST: '1.8'
 DBFTest: '1.0'
 DBGSA: '1.2'
 DBHC: 0.0.2
-DBI: 1.1.1
+DBI: 1.1.2
 DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
 DBItest: 1.7.2
@@ -1703,7 +1703,7 @@ EMV: '1.3'
 EMVC: '0.3'
 EMVS: 1.2.1
 EMbC: 2.0.3
-EMpeaksR: 0.1.0
+EMpeaksR: 0.2.0
 ENA: 1.3-0
 ENMTools: 1.0.5
 ENMeval: 2.0.2
@@ -2206,7 +2206,7 @@ GFORCE: 0.1.4
 GFisher: 0.1.0
 GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
-GGEBiplots: 0.1.1
+GGEBiplots: 0.1.2
 GGIR: 2.5-0
 GGMM: 1.0.1
 GGMncv: 2.1.1
@@ -3218,7 +3218,7 @@ LogRegEquiv: 0.1.2
 LogicForest: 2.1.0
 LogicOpt: 1.0.0
 LogicReg: 1.6.4
-LogisticDx: '0.2'
+LogisticDx: '0.3'
 LogitNet: 0.1-1
 LogrankA: '1.0'
 LogrankPower: 1.0.0
@@ -4279,6 +4279,7 @@ PLMIX: 2.1.1
 PLNmodels: 0.11.4
 PLRModels: '1.1'
 PLSbiplot1: '0.1'
+PLSiMCpp: '1.0'
 PLmixed: 0.1.5
 PLordprob: '1.1'
 PMA: 1.2.1
@@ -4963,7 +4964,7 @@ RMTstat: '0.3'
 RMVL: 0.0.4.1
 RMaCzek: 1.3.5
 RMallow: '1.1'
-RMariaDB: 1.2.0
+RMariaDB: 1.2.1
 RMark: 2.2.7
 RMediation: 1.1.4
 RMendeley: 0.1-2
@@ -5002,7 +5003,7 @@ ROCS: '1.3'
 ROCaggregator: 1.0.1
 ROCit: 2.1.1
 ROCket: 1.0.1
-ROCnReg: 1.0-6
+ROCnReg: 1.0-7
 ROCpsych: '1.3'
 ROCt: 0.9.5
 ROCwoGS: '1.0'
@@ -5065,7 +5066,7 @@ RPPanalyzer: 1.4.7
 RPS: 1.0.1
 RPgSQL: 1.0-0
 RPostgreSQL: 0.7-3
-RPostgres: 1.4.2
+RPostgres: 1.4.3
 RPresto: 1.3.7
 RProbSup: '3.0'
 RProtoBuf: 0.4.18
@@ -5382,7 +5383,7 @@ RcppHNSW: 0.3.0
 RcppHoney: 0.1.7
 RcppHungarian: '0.1'
 RcppML: 0.3.7
-RcppMLPACK: 1.0.10-7
+RcppMLPACK: 1.0.9
 RcppMeCab: 0.0.1.2
 RcppMovStat: 1.0.2
 RcppMsgPack: 0.2.3
@@ -7207,7 +7208,7 @@ agreement: 1.0-1
 agriTutorial: 0.1.5
 agricolae: 1.3-5
 agricolaeplotr: 0.2.2
-agridat: '1.18'
+agridat: '1.20'
 agrifeature: 1.0.3
 agriwater: 1.0.1
 agrmt: 1.42.8
@@ -7581,6 +7582,7 @@ augSIMEX: 3.7.4
 augmentedRCBD: 0.1.5
 auk: 0.5.1
 aurelius: 0.8.4
+aurin: 0.5.1
 ausplotsR: 1.2.7
 auteur: 0.12.1010
 auth0: 0.2.1
@@ -8567,7 +8569,7 @@ ccfa: 1.1.0
 ccgarch: 0.2.3
 cchs: 0.4.2
 cchsflow: 2.0.0
-ccid: 1.0.0
+ccid: 1.1.0
 cclust: 0.6-23
 ccmEstimator: 1.0.0
 ccmReportR: 0.1.0
@@ -9025,7 +9027,7 @@ colocr: 0.1.1
 colorBlindness: 0.1.9
 colorDF: 0.1.4
 colorRamps: '2.3'
-colorSpec: 1.2-1
+colorSpec: 1.3-0
 colorblindcheck: 1.0.0
 colordistance: 1.1.2
 coloredICA: 1.0.0
@@ -9265,6 +9267,7 @@ corx: 1.0.6.1
 cosa: 2.1.0
 cosinor: '1.1'
 cosinor2: 0.2.1
+cosmicsig: 1.0.7
 cosmoFns: 1.0-1
 cosmosR: '1.0'
 cosso: 2.1-1
@@ -9713,7 +9716,7 @@ dauphin: 0.3.0
 dave: '2.0'
 dawai: 1.2.5
 daySupply: 0.1.0
-daymetr: '1.5'
+daymetr: '1.6'
 db.r: 0.1.3
 dbConnect: '1.0'
 dbEmpLikeGOF: 1.2.4
@@ -10448,7 +10451,7 @@ ecdfHT: 0.1.1
 ecespa: 1.1-13
 ech: 0.1.1.2
 echarts4r: 0.4.2
-echarty: 1.4.2
+echarty: 1.4.3
 echelon: 0.1.0
 echo.find: 4.0.1
 echogram: 0.1.2
@@ -11499,7 +11502,7 @@ fragilityindex: 0.1.0
 frailtyEM: 1.0.1
 frailtyHL: '2.3'
 frailtySurv: 1.3.7
-frailtypack: 3.4.0
+frailtypack: 3.5.0
 frair: 0.5.100
 frambgrowth: 0.1.0
 framecleaner: 0.2.0
@@ -12435,7 +12438,7 @@ graphicalExtremes: 0.1.0
 graphicalVAR: '0.3'
 graphicsQC: '1.0'
 graphite: '1.1'
-graphkernels: '1.6'
+graphkernels: 1.6.1
 graphlayouts: 0.7.2
 graphon: 0.3.5
 graphql: '1.5'
@@ -14785,6 +14788,7 @@ metarep: 1.0.1
 metasens: 1.0-0
 metatest: 1.0-5
 metathis: 1.1.1
+metaumbrella: 1.0.0
 metavcov: 2.1.2
 metaviz: 0.3.1
 metawho: 0.2.0
@@ -14954,7 +14958,7 @@ miscor: 0.1-1
 miscset: 1.1.0
 mise: 0.1.0
 miselect: 0.9.0
-mispitools: 0.1.1
+mispitools: 0.1.3
 mispr: 1.0.0
 misreport: 0.1.1
 missCompare: 1.0.3
@@ -15224,6 +15228,7 @@ monoClust: 1.2.1
 monoProc: 1.0-6
 monobin: 0.2.1
 monobinShiny: 0.1.0
+monochromeR: 0.1.0
 monogeneaGM: '1.1'
 monographaR: 1.2.1
 monomvn: 1.9-13
@@ -15742,6 +15747,7 @@ nfl4th: 1.0.1
 nflfastR: 4.3.0
 nflreadr: 1.1.2
 nflseedR: 1.0.2
+nftbart: '1.1'
 nga: '1.4'
 ngram: 3.2.0
 ngramr: 1.7.4
@@ -16629,7 +16635,7 @@ pdc: 1.0.3
 pder: 1.0-1
 pdfCluster: 1.0-3
 pdfboxr: 2.0.19
-pdfetch: 0.2.4
+pdfetch: 0.2.5
 pdfminer: '1.0'
 pdfsearch: 0.3.0
 pdftables: '0.1'
@@ -16904,7 +16910,7 @@ pixmap: 0.4-12
 pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.2
-pkgbuild: 1.3.0
+pkgbuild: 1.3.1
 pkgcache: 1.3.0
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
@@ -18241,6 +18247,7 @@ reda: 0.5.3
 redcapAPI: '2.3'
 reddPrec: 0.4.0
 redist: 3.1.5
+redistmetrics: 1.0.0
 redland: 1.0.17-15
 redlistr: 1.0.3
 redoc: 2.0.0.49
@@ -18475,7 +18482,7 @@ rgenius: 0.1.0
 rgenoud: 5.8-3.0
 rgeoapi: 1.1.0
 rgeoda: 0.0.8-6
-rgeolocate: 1.4.1
+rgeolocate: 1.4.2
 rgeopat2: 0.3.9
 rgeoprofile: 0.2.2
 rgeos: 0.5-9
@@ -19550,7 +19557,7 @@ sgstar: 0.1.2
 sgt: '2.0'
 shades: 1.4.0
 shadow: 0.7.1
-shadowtext: 0.0.9
+shadowtext: 0.1.0
 shallot: 0.4.10
 shape: 1.4.6
 shapeNA: 0.0.2
@@ -19871,6 +19878,7 @@ sld: 1.0.0
 sleekts: 1.0.2
 sleepr: 0.3.0
 sleepwalk: 0.3.2
+sleev: 1.0.0
 slfm: 1.0.1
 slga: 1.2.0
 slgf: 0.1.0
