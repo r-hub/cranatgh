@@ -540,7 +540,7 @@ BayesPiecewiseICAR: 0.2.1
 BayesPostEst: 0.3.2
 BayesProject: '1.0'
 BayesQTLBIC: 1.0-2
-BayesRGMM: '2.0'
+BayesRGMM: '2.1'
 BayesRS: 0.1.3
 BayesReversePLLH: '1.4'
 BayesS5: '1.41'
@@ -1842,7 +1842,7 @@ EvaluationMeasures: 1.1.0
 Evapotranspiration: '1.15'
 EventDetectGUI: 0.3.0
 EventDetectR: 0.3.5
-EventStudy: '0.36'
+EventStudy: '0.37'
 EventWinRatios: 0.1.0
 EvidenceSynthesis: 0.2.3
 EviewsR: 0.1.0
@@ -2712,6 +2712,7 @@ IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
 IDSL.IPA: '1.3'
+IDSL.UFA: '1.0'
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -3081,7 +3082,7 @@ LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.1.0
 LMMsolver: 1.0.0
-LMMstar: 0.4.0
+LMMstar: 0.4.3
 LMest: 3.0.2
 LMfilteR: 0.1.3
 LMoFit: 0.1.6
@@ -3305,7 +3306,7 @@ MCI2: 1.1.2
 MCID: 0.1.0
 MCL: '1.0'
 MCLIME: '1.1'
-MCM: 0.1.3
+MCM: 0.1.4
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
@@ -3748,7 +3749,7 @@ MixtureRegLTIC: 1.0.0
 MlBayesOpt: 0.3.4
 MmgraphR: '0.3'
 MoBPS: 1.6.64
-MoEClust: 1.4.1
+MoEClust: 1.4.2
 MoLE: 1.0.1
 MoMPCA: 1.0.1
 MoTBFs: '1.4'
@@ -4788,7 +4789,7 @@ RCarb: 0.1.4
 RCassandra: 0.1-3
 RChest: 1.0.3
 RChronoModel: '0.4'
-RCircos: 1.2.1
+RCircos: 1.2.2
 RClickhouse: 0.5.2
 RClimMAWGEN: '1.1'
 RClimacell: 0.1.4
@@ -6735,7 +6736,7 @@ UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.1.4
 UCSCXenaTools: 1.4.7
 UComp: 2.2.2
-UKB.COVID19: 0.1.1
+UKB.COVID19: 0.1.2
 UKFE: 0.2.0
 UKgrid: 0.1.3
 UMR: 1.1.0
@@ -12373,7 +12374,7 @@ googlesheets: 0.3.0
 googlesheets4: 1.0.0
 googleway: 2.7.3
 goric: 1.1-2
-gorica: 0.1.1
+gorica: 0.1.2
 gotop: 0.1.2
 govStatJPN: '0.1'
 govdat: '0.1'
@@ -13443,7 +13444,7 @@ isoph: '1.1'
 isoreader: 1.3.2
 isotone: 1.1-0
 isotonic.pen: '1.0'
-isotracer: 1.0.4
+isotracer: 1.1.0
 isotree: 0.3.9
 ispd: '0.2'
 isqg: '1.3'
@@ -15558,7 +15559,7 @@ mvtsplot: 1.0-1
 mwTensor: 0.99.5
 mwa: 0.4.3
 mwaved: 1.1.8
-mwcsr: 0.1.0
+mwcsr: 0.1.2
 mwshiny: 2.1.0
 mxkssd: '1.1'
 mxmmod: 1.1.0
@@ -16105,7 +16106,7 @@ omsvg: 0.1.0
 omu: 1.0.4
 omxr: 0.3.3
 onbabynames: 0.0.1
-onbrand: 1.0.1
+onbrand: 1.0.2
 onc.api: 2.0.1.0
 oncoPredict: '0.2'
 oncomodel: '1.0'
@@ -17150,7 +17151,7 @@ poppr: 2.9.3
 popprxl: '0.1'
 popsom: '5.2'
 poptrend: 0.1.0
-populR: 0.1.2
+populR: 0.1.3
 population: '0.2'
 populationPDXdesign: 1.0.3
 porridge: 0.2.1
@@ -18947,7 +18948,7 @@ rsqliteadmin: 1.0.1
 rstac: 0.9.1-5
 rstack: 1.0.0
 rstackdeque: 1.1.1
-rstan: 2.21.2
+rstan: 2.21.3
 rstanarm: 2.21.1
 rstanemax: 0.1.3
 rstansim: 0.1.1
@@ -20064,7 +20065,7 @@ spMC: 0.3.11
 spMaps: 0.4.0
 spNNGP: 0.1.6
 spNetwork: 0.2.1
-spOccupancy: 0.1.3
+spOccupancy: 0.2.0
 spTDyn: 2.0.1
 spTest: 0.2.5
 spThin: 0.2.0
@@ -21209,7 +21210,7 @@ tigreBrowserWriter: 0.1.5
 tigris: '1.5'
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
-tiledb: 0.10.1
+tiledb: 0.10.2
 tilegramsR: 0.2.0
 tilemaps: 0.2.0
 tiler: 0.2.5
