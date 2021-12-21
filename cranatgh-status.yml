@@ -3914,6 +3914,7 @@ NMF: 0.23.0
 NMFN: '2.0'
 NMI: '2.0'
 NMMAPSlite: '0.3'
+NMMIPW: 0.1.0
 NMOF: 2.5-0
 NMRS: '1.0'
 NMVANOVA: 1.1.0
@@ -4536,7 +4537,7 @@ PowerTOST: 1.5-3
 PowerUpR: 1.1.0
 PowerVenn: 0.0.1
 PowerfulMaxEigenpair: 0.1.1
-PracTools: 1.2.3
+PracTools: 1.2.4
 PracticalEquiDesign: 0.0.3
 PreKnitPostHTMLRender: 0.1.0
 PreProcess: 3.1.7
@@ -6811,7 +6812,7 @@ VDSM: 0.1.1
 VDSPCalibration: '1.0'
 VEwaning: '1.1'
 VEwaningVariant: '1.1'
-VFP: 1.3.1
+VFP: '1.4'
 VFS: 1.0.2
 VGAM: 1.1-5
 VGAMdata: 1.1-5
@@ -7490,6 +7491,7 @@ asciiSetupReader: 2.4.0
 asciicast: 1.0.0
 asciichartr: 0.1.0
 asciiruler: '0.2'
+ascotraceR: 0.0.1
 ascrda: '1.15'
 asd: '2.2'
 asdreader: 0.1-3
@@ -9168,7 +9170,7 @@ conover.test: 1.1.5
 conquer: 1.2.1
 conquestr: 0.8.5
 conserveR: 1.0.4
-consort: 1.0.0
+consort: 1.0.1
 consortr: 0.9.1
 constants: 1.0.1
 constellation: 0.2.0
@@ -9809,7 +9811,7 @@ deep: 0.1.0
 deepMOU: 0.1.1
 deepNN: '1.1'
 deepboost: 0.1.6
-deepdep: 0.4.0
+deepdep: 0.4.1
 deepdive: 1.0.4
 deepgmm: 0.1.62
 deepgp: 0.3.1
@@ -10440,7 +10442,7 @@ ebdbNet: 1.2.6
 ebimetagenomics: '0.6'
 ebirdst: 0.3.3
 ebmc: 1.0.0
-ebmstate: 0.1.2
+ebmstate: 0.1.3
 ebreg: 0.1.3
 ec50estimator: 0.1.0
 ecap: 0.1.2
@@ -11258,6 +11260,7 @@ fiftystater: 1.0.1
 figpatch: 0.1.0.1
 file2meco: 0.2.0
 filearray: 0.1.2
+filebin: 0.0.5
 filehash: 2.4-2
 filehashSQLite: 0.2-4
 filelock: 1.0.2
@@ -11613,7 +11616,7 @@ furrr: 0.2.3
 fusedest: '1.3'
 fusen: 0.3.0
 fuser: 1.0.1
-fusionchartsR: 0.0.2
+fusionchartsR: 0.0.3
 fusionclust: 1.0.0
 futile: 2.0.0
 futile.any: 1.3.2
@@ -11870,7 +11873,7 @@ generator: 0.1.0
 generics: 0.1.1
 genero: 0.1.0
 genesysr: 1.0.0
-geneticae: 0.1.0
+geneticae: 0.2.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
 genieclust: 1.0.0
@@ -12424,6 +12427,7 @@ gramEvol: 2.1-4
 grangers: 0.1.0
 granova: '2.1'
 granovaGG: 1.4.0
+grantham: 0.1.0
 grapes: 1.0.0
 grapesAgri1: 1.1.0
 graph: 1.30.0
@@ -12460,6 +12464,7 @@ greeks: 0.4.1
 greenclust: 1.1.0
 gregRy: 0.1.0
 gregmisc: 2.1.5
+gremes: 0.1.0
 gremlin: 1.0.1
 gren: 0.0.1
 greport: 0.7-2
@@ -15150,7 +15155,7 @@ mockr: '0.1'
 mockthat: 0.2.6
 mod: 0.1.3
 mod09nrt: '0.14'
-modEvA: '2.0'
+modEvA: '3.0'
 modMax: '1.1'
 modQR: 0.1.2
 modTempEff: '1.5'
@@ -15947,7 +15952,7 @@ npcopTest: '1.03'
 npcp: 0.2-2
 npcs: 0.1.0
 npcure: 0.1-5
-npde: '3.1'
+npde: '3.2'
 nph: '2.0'
 nphPower: 1.0.0
 nplplot: '4.5'
@@ -16411,7 +16416,7 @@ pairsD3: 0.1.0
 pairwise: 0.5.0-2
 pairwiseCI: 0.1-27
 pairwiseComparisons: 3.2.0
-pak: 0.2.0
+pak: 0.2.1
 palaeoSig: 2.0-3
 palasso: 0.0.8
 paleoMAS: 2.0-1
@@ -16517,7 +16522,7 @@ partsm: 1.1-3
 party: 1.3-9
 partykit: 1.2-15
 parviol: '1.1'
-parzer: 0.4.0
+parzer: 0.4.1
 pasadr: '1.0'
 pass: '1.0'
 pass.lme: 0.9.0
@@ -17155,7 +17160,7 @@ poplab: '1.0'
 poplite: 0.99.5
 poppr: 2.9.3
 popprxl: '0.1'
-popsom: '5.2'
+popsom: '6.0'
 poptrend: 0.1.0
 populR: 0.1.3
 population: '0.2'
@@ -19625,7 +19630,7 @@ shinyToastify: 2.0.0
 shinyTree: 0.2.7
 shinyWidgets: 0.6.2
 shinyaframe: 1.0.1
-shinyalert: 2.0.0
+shinyalert: 3.0.0
 shinyanimate: 0.3.0
 shinyauthr: 1.0.0
 shinybatch: '0.3'
@@ -19660,7 +19665,7 @@ shinyr: 0.3.0
 shinyrecap: 0.1.0
 shinyrecipes: 0.1.0
 shinyreforms: 0.0.1
-shinyscreenshot: 0.1.0
+shinyscreenshot: 0.2.0
 shinyservicebot: 0.1.0
 shinystan: 2.5.0
 shinysurveys: 0.2.0
@@ -21247,7 +21252,7 @@ timeslab: 1.0-1
 timetk: 2.6.2
 timetools: '1.14'
 timetree: '1.0'
-timevis: 1.0.0
+timevis: 2.0.0
 timma: 1.2.1
 timsac: 1.3.6
 timsr: 0.0.3
@@ -21395,7 +21400,7 @@ tramnet: 0.0-6
 trampoline: 0.1.0
 tranSurv: 1.2.2
 transcribeR: 0.0.0
-transfR: 0.1.0
+transfR: 0.1.1
 transformmos: 0.1.0
 transformr: 0.1.3
 translate: 0.1.2
@@ -22074,7 +22079,7 @@ wdman: 0.2.5
 wdnr.gis: 0.1.2
 wdpar: 1.3.2
 weaana: 0.1.1
-wearables: 0.6.2
+wearables: 0.8.1
 weatherData: 0.5.0
 weathercan: 0.6.2
 weathermetrics: 1.2.2
@@ -22238,7 +22243,7 @@ wrGraph: 1.3.0
 wrMisc: 1.8.0
 wrProteo: 1.4.3
 wrTopDownFrag: 1.0.2
-wrangle: 0.5.2
+wrangle: 0.5.5
 wrappedtools: 0.7.9
 wrapr: 2.0.8
 wrassp: 1.0.1
