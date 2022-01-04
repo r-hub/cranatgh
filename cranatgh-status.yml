@@ -428,7 +428,7 @@ BNSP: 2.1.6
 BNrich: 0.1.1
 BOG: '2.0'
 BOIN: 2.7.2
-BOJ: 0.2.4
+BOJ: '0.3'
 BOSO: 1.0.3
 BOSSreg: 0.2.0
 BPEC: 1.3.1
@@ -1047,7 +1047,7 @@ CluMix: 2.3.1
 ClueR: '1.4'
 ClusBoot: '1.0'
 ClusPred: 1.1.0
-ClusTorus: 0.2.1
+ClusTorus: 0.2.2
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
 ClustAssess: 0.1.1
@@ -1100,7 +1100,7 @@ CombinePortfolio: '0.4'
 CommEcol: 1.7.1
 CommT: 0.1.1
 CommonJavaJars: 1.0-6
-CommonMean.Copula: 1.0.3
+CommonMean.Copula: 1.0.4
 CommonTrend: 0.7-1
 CommunityCorrelogram: '1.0'
 Comp2ROC: 1.1.4
@@ -1376,6 +1376,7 @@ DPWeibull: '1.8'
 DPpackage: 1.1-7
 DPtree: 1.0.1
 DPw: '1.1'
+DQAstats: 0.2.0
 DR.SC: '2.3'
 DRAFT: 0.3.0
 DRAYL: '1.0'
@@ -2786,7 +2787,7 @@ IRSF: 1.0.3
 IRTBEMM: 1.0.7
 IRTShiny: '1.2'
 IRTpp: 0.2.6
-IRdisplay: '1.0'
+IRdisplay: '1.1'
 IRexamples: 0.0.1
 IRkernel: '1.3'
 ISA: 1.0-32
@@ -4236,6 +4237,7 @@ PDN: 0.1.0
 PDQutils: 0.1.6
 PDSCE: '1.2'
 PDShiny: 0.1.0
+PDtoolkit: 0.0.9
 PEACH: 0.1.1
 PEGroupTesting: '1.0'
 PEIP: 2.2-3
@@ -4357,7 +4359,7 @@ PSMix: 1.1.1
 PSPManalysis: 0.3.7
 PSS.Health: 0.3.1
 PSSIM: 0.1.0
-PSSMCOOL: 0.2.3
+PSSMCOOL: 0.2.4
 PST: '0.94'
 PSTR: 1.2.4
 PSW: 1.1-3
@@ -4663,7 +4665,7 @@ QTOCen: 0.1.1
 QUALYPSO: '1.2'
 QUIC: '2012.02'
 QVM: 0.1.1
-QWDAP: 1.1.8
+QWDAP: 1.1.10
 QZ: 0.2-1
 Qapprox: 0.2.0
 QoLR: '1.0'
@@ -4782,7 +4784,7 @@ RCBR: 0.5.9
 RCCPCA: 0.1.0
 RCEIM: '0.3'
 RCGLS: 1.0.3
-RCLabels: 0.0.4
+RCLabels: 0.1.0
 RCMIP5: 1.2.0
 RCMinification: '1.0'
 RCPmod: '2.190'
@@ -5295,7 +5297,7 @@ RcmdrPlugin.DoE: 0.12-3
 RcmdrPlugin.EACSPIR: 0.2-2
 RcmdrPlugin.EBM: 1.0-10
 RcmdrPlugin.EHESsampling: '2.0'
-RcmdrPlugin.EZR: '1.54'
+RcmdrPlugin.EZR: '1.55'
 RcmdrPlugin.EcoVirtual: '1.0'
 RcmdrPlugin.Export: 0.3-1
 RcmdrPlugin.FactoMineR: '1.7'
@@ -5308,7 +5310,7 @@ RcmdrPlugin.MA: 0.0-2
 RcmdrPlugin.MAc: '1.0'
 RcmdrPlugin.MAd: 0.6.2
 RcmdrPlugin.MPAStats: 1.2.2
-RcmdrPlugin.NMBU: 1.8.12
+RcmdrPlugin.NMBU: 1.8.13
 RcmdrPlugin.OptimClassifier: 0.1.2
 RcmdrPlugin.PT: '1.0'
 RcmdrPlugin.PcaRobust: 1.1.4
@@ -5551,7 +5553,7 @@ RiskPortfolios: 2.1.7
 Rita: 1.0.0
 Ritc: 1.0.2
 RiverBuilder: 0.1.1
-RiverLoad: 1.0.2
+RiverLoad: 1.0.3
 Rivivc: '0.9'
 Rjms: 0.0.5
 Rjmsjars: 0.0.1
@@ -6741,7 +6743,7 @@ UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.1.4
 UCSCXenaTools: 1.4.7
 UComp: 2.2.2
-UKB.COVID19: 0.1.2
+UKB.COVID19: 0.1.3
 UKFE: 0.2.0
 UKgrid: 0.1.3
 UMR: 1.1.0
@@ -7617,7 +7619,7 @@ autoshiny: 0.0.2
 autostats: 0.2.0
 autostsm: '2.1'
 autota: 0.1.3
-autothresholdr: 1.3.12
+autothresholdr: 1.4.0
 autovarCore: 1.0-4
 av: 0.6.0
 available: 1.0.5
@@ -8206,6 +8208,7 @@ boa: 1.1.8-2
 boclust: 0.1.2
 bodenmiller: 0.1.1
 boilerpipeR: 1.3.2
+bolasso: 0.1.0
 bold: 1.2.0
 bomWater: 0.4.1
 bomrang: 0.7.4
@@ -8360,7 +8363,7 @@ btf: '1.2'
 bubblyr: 0.1.2
 bucky: 1.0.6
 buffeRs: '0.31'
-buildmer: '2.2'
+buildmer: '2.3'
 buildr: 0.1.0
 bujar: 0.2-9
 bulletcp: 1.0.0
@@ -8650,7 +8653,7 @@ cfbfastR: 1.6.4
 cfda: 0.9.11
 cfdecomp: 0.4.0
 cffdrs: 1.8.18
-cffr: 0.1.1
+cffr: 0.2.0
 cfid: 0.1.2
 cfma: '1.0'
 cfmortality: 0.3.0
@@ -9680,7 +9683,7 @@ datamart: 0.5.2
 datamerge: 1.0.3
 datamods: 1.2.0
 datanugget: 1.0.0
-dataonderivatives: 0.3.1
+dataonderivatives: 0.4.0
 dataone: 2.2.1
 dataonelibs: 1.0.0
 datapack: 1.4.0
@@ -9704,7 +9707,7 @@ datasus: 0.4.1
 datautils: 0.1.5
 dataverse: 0.3.9
 dataview: 2.1.1
-datawizard: 0.2.1
+datawizard: 0.2.2
 datazoom.amazonia: 0.2.0
 date: 1.2-39
 datefixR: 0.1.3
@@ -10632,7 +10635,7 @@ embed: 0.1.5
 embryogrowth: '8.2'
 emdatr: '0.3'
 emdbook: 1.3.12
-emdi: 2.1.0
+emdi: 2.1.1
 emdist: 0.3-1
 emg: 1.0.9
 emhawkes: 0.9.5
@@ -10651,7 +10654,7 @@ empirical: 0.2.0
 empiricalBayes: '2.1'
 empiricalFDR.DESeq2: 1.0.3
 emplik: 1.1-1
-emplik2: '1.30'
+emplik2: '1.32'
 ems: 1.3.11
 emstreeR: 2.2.2
 emu: '4.3'
@@ -11146,7 +11149,7 @@ fastrtext: 0.3.4
 fastshap: 0.0.7
 fasttime: 1.0-2
 fastverse: 0.2.1
-fat2Lpoly: 1.2.4
+fat2Lpoly: 1.2.5
 faux: 1.1.0
 fauxnaif: 0.6.1
 fauxpas: 0.5.0
@@ -11295,7 +11298,7 @@ finiteruinprob: '0.6'
 finity: 0.1.4.1
 finreportr: 1.0.3
 fipe: 0.0.1
-fipio: 1.0.0
+fipio: 1.1.0
 fipp: 1.0.0
 firebase: 1.0.0
 firebehavioR: 0.1.2
@@ -11329,7 +11332,7 @@ fitteR: 0.1.0
 fitur: 0.6.2
 fitzRoy: 1.0.0
 fivethirtyeight: 0.6.2
-fixedTimeEvents: '1.0'
+fixedTimeEvents: 1.0.1
 fixerapi: 0.1.6
 fixest: 0.10.1
 fizzbuzzR: 0.1.1
@@ -11995,7 +11998,7 @@ gesisdata: 0.1.0
 gesso: 1.0.2
 gestalt: 0.1.8
 gestate: 1.5.0
-gesttools: 1.2.0
+gesttools: 1.3.0
 getCRUCLdata: 0.3.2
 getDTeval: 0.0.2
 getLattes: 0.2.0
@@ -12613,7 +12616,7 @@ gym: 0.1.0
 gyriq: 1.0.2
 h2o: 3.36.0.1
 h2o4gpu: 0.3.3
-h3jsr: 1.2.2
+h3jsr: 1.2.3
 h5: '0.9'
 h5r: 1.4.7
 hBayesDM: 1.1.1
@@ -14066,6 +14069,7 @@ linbin: 0.1.3
 linconGaussR: '0.1'
 lindia: '0.9'
 linear.tools: 1.3.0
+linearModel: 1.0.2
 linearOrdering: 1.0.1
 linearQ: '2.0'
 lineartestr: 1.0.0
@@ -14406,6 +14410,7 @@ magnets: '0.2'
 magree: '1.1'
 magrittr: 2.0.1
 maic: 0.1.3
+maicChecks: 0.1.2
 mail: '1.0'
 mailR: '0.8'
 mailmerge: 0.2.3
@@ -15440,7 +15445,7 @@ multiRDPG: 1.0.1
 multiROC: 1.1.1
 multiband: 0.1.0
 multibiplotGUI: '1.0'
-multiblock: 0.8.0
+multiblock: 0.8.1
 multibridge: 1.1.0
 multic: 0.4.3
 multicastR: 2.0.0
@@ -15616,7 +15621,7 @@ naptime: 1.3.0
 nardl: 0.1.6
 narray: 0.4.1.1
 nasadata: 0.9.0
-nasapower: 4.0.2
+nasapower: 4.0.3
 nasaweather: '0.1'
 naspaclust: 0.2.1
 nat: 1.8.18
@@ -15871,7 +15876,7 @@ noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
 noctua: 2.4.0
-nodbi: 0.6.0
+nodbi: 0.7.0
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodeSub: '1.2'
@@ -15914,6 +15919,7 @@ nopp: 1.1.0
 nor1mix: 1.3-0
 nord: 1.0.0
 nordklimdata1: '1.2'
+norgeo: 2.0.0
 norm: 1.0-9.5
 norm2: 2.0.4
 normalp: 0.7.2
@@ -16231,7 +16237,7 @@ optimalThreshold: '1.0'
 optimall: 0.1.0
 optimbase: '1.0'
 optimg: 0.1.2
-optimization: 1.0-7
+optimization: 1.0-8
 optimos.prime: 0.1.2
 optimr: 2019-12.16
 optimsimplex: '1.0'
@@ -17018,7 +17024,7 @@ pls.pcr: 0.2.7
 plsRbeta: 0.2.6
 plsRcox: 1.7.6
 plsRglm: 1.3.0
-plsVarSel: 0.9.6
+plsVarSel: 0.9.7
 plsdepot: 0.1.17
 plsdof: 0.3-0
 plsgenomics: 1.5-2
@@ -18384,7 +18390,7 @@ reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
 reporttools: 1.1.3
-repr: 1.1.3
+repr: 1.1.4
 repra: '0.4'
 represent: '1.0'
 representr: 0.1.2
@@ -18398,6 +18404,7 @@ reqres: 0.2.3
 request: 0.1.0
 requiRements: 0.0.1
 requireR: 1.0.0.1
+rerandPower: 0.0.1
 rerddap: 0.8.0
 rerddapXtracto: 1.1.2
 rerf: 2.0.4
@@ -19418,6 +19425,7 @@ segmag: 1.2.4
 segmenTier: 0.1.2
 segmented: 1.3-4
 segmentr: 0.2.0
+segmetric: 0.1.0
 segregation: 0.6.0
 segregatr: 0.2.0
 seismic: '1.0'
@@ -19451,7 +19459,7 @@ semdiag: 0.1.2
 semdrw: 0.1.0
 semds: 0.9-6
 semiArtificial: 2.4.1
-seminr: 2.2.1
+seminr: 2.3.0
 semisupKernelPCA: 0.1.5
 semmcmc: 0.0.6
 semnar: 0.7.1
@@ -19839,7 +19847,7 @@ sirt: 3.11-21
 sirus: 0.3.2
 sisVIVE: '1.4'
 sisal: '0.48'
-sisireg: 0.9.1
+sisireg: 1.0.0
 sismonr: 2.1.0
 sistec: 0.2.0
 sisus: 3.9-13
@@ -20689,7 +20697,7 @@ supercompress: '1.0'
 superdiag: '2.0'
 superheat: 0.1.0
 superml: 0.5.3
-supernova: 2.4.4
+supernova: 2.5.0
 superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-8
@@ -21042,7 +21050,7 @@ testDriveR: 0.5.1
 testarguments: 0.0.1
 testassay: 0.1.1
 testcorr: 0.2.0
-testdat: 0.3.0
+testdat: 0.4.0
 testequavar: 0.1.2
 tester: 0.1.7
 testextra: 0.1.0
@@ -21120,6 +21128,7 @@ themetagenomics: 1.0.2
 themis: 0.1.4
 thermocouple: 1.0.2
 theseus: 0.1.0
+thestats: 0.1.0
 thewitcher: 1.0.0
 thgenetics: 0.4-2
 thickmatch: 0.3.1
@@ -21402,9 +21411,10 @@ traitdataform: 0.6.7
 traitr: '0.9'
 traits: 0.5.0
 traj: '1.2'
+trajeR: 0.9.0.3
 trajectories: 0.2-3
 trajr: 1.4.0
-tram: 0.6-2
+tram: 0.6-3
 tramME: 0.1.2
 tramnet: 0.0-6
 trampoline: 0.1.0
@@ -22223,7 +22233,7 @@ wordmatch: '1.0'
 wordnet: 0.1-15
 wordpiece: 2.0.1
 wordpiece.data: 1.0.2
-wordpredictor: 0.0.2
+wordpredictor: 0.0.3
 wordpressr: 0.2.3
 words: 1.0.1
 wordsalad: 0.2.0
