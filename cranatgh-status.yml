@@ -1713,7 +1713,7 @@ ENmisc: 1.2-7
 EPGLM: '1.1'
 EPGMr: 1.0.0
 EPP: 0.3.5
-EPT: 0.7.5
+EPT: 0.7.6
 EPX: 1.0.4
 EQL: 1.0-1
 EQUIVNONINF: 1.0.2
@@ -2164,7 +2164,7 @@ GAparsimony: 0.9.4
 GB2: '2.1'
 GB2group: 0.3.0
 GBJ: 0.5.3
-GBcurves: 0.1.2
+GBcurves: 0.1.6
 GCAI.bias: '1.0'
 GCD: 4.0.7
 GCPBayes: 3.1.0
@@ -2883,7 +2883,7 @@ InventorymodelPackage: 1.0.2
 Irescale: 2.3.0
 IrishDirectorates: '1.4'
 IrregLong: 0.3.3
-Iscores: 1.0.0
+Iscores: 1.1.0
 IsingFit: 0.3.1
 IsingSampler: 0.2.1
 Iso: 0.0-18.1
@@ -3181,7 +3181,7 @@ LearningRlab: '2.2'
 LearningStats: 0.1.0
 LendingClub: 2.0.0
 LexFindR: 1.0.2
-LexisNexisTools: 0.3.4
+LexisNexisTools: 0.3.5
 LexisPlotR: 0.4.0
 LibOPF: 2.6.1
 LiblineaR: 2.10-12
@@ -3500,7 +3500,7 @@ MPV: '1.57'
 MPkn: 0.1.0
 MPsychoR: 0.10-8
 MQMF: 0.1.1
-MRCE: '2.1'
+MRCE: '2.4'
 MRCV: 0.3-3
 MRFA: '0.4'
 MRFcov: 1.0.38
@@ -4687,7 +4687,7 @@ QuantumOps: 3.0.1
 Quartet: 1.2.2
 QuasiSeq: 1.0-10-2
 Quor: '0.1'
-R.SamBada: 0.1.2
+R.SamBada: 0.1.3
 R.cache: 0.15.0
 R.devices: 2.17.0
 R.filesets: 2.14.0
@@ -4868,7 +4868,7 @@ RGBM: 1.0-8
 RGCCA: 2.1.2
 RGCxGC: 1.1-2
 RGE: '1.0'
-RGENERATE: 1.3.5
+RGENERATE: 1.3.6
 RGENERATEPREC: 1.2.8
 RGF: 1.0.8
 RGIFT: 0.1-5
@@ -5164,7 +5164,7 @@ RTD: 0.4.1
 RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
 RTIGER: 0.99.0
-RTL: 0.1.8
+RTL: 0.1.9
 RTOMO: 1.1-6
 RTTWebClient: 0.1.2
 RTaxometrics: '3.2'
@@ -6028,7 +6028,7 @@ SWATmodel: 0.5.9
 SWIM: 0.2.2
 SWMPr: 2.4.1
 SWMPrExtension: 2.1.0
-SWTools: 0.2.1.0
+SWTools: 0.2.2.0
 SWordInstaller: 1.0-2
 SYNCSA: 1.3.4
 Sabermetrics: '2.0'
@@ -6244,7 +6244,7 @@ SoundShape: 1.1.0
 SoundexBR: '1.2'
 SoupX: 1.5.2
 SourceSet: 0.1.3
-SoyNAM: 1.6.1
+SoyNAM: 1.6.2
 SpATS: 1.0-16
 SpNMF: 0.1.1
 SpNetPrep: '1.2'
@@ -6619,7 +6619,7 @@ Tendril: 2.0.4
 TensorClustering: 1.0.2
 TensorComplete: 0.1.0
 TensorTest2D: 1.1.1
-Ternary: 1.2.4
+Ternary: 2.0.0
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
 TestDesign: 1.2.6
@@ -7074,7 +7074,7 @@ abodOutlier: '0.1'
 abstr: 0.4.1
 abstractr: 0.1.0
 abtest: 1.0.1
-abundant: '1.1'
+abundant: '1.2'
 academictwitteR: 0.3.0
 acc: 1.3.3
 accSDA: 1.0.0
@@ -7368,7 +7368,7 @@ anyLib: 1.0.5
 anybadger: 0.1.0
 anyflights: 0.3.2
 anytime: 0.3.9
-ao: 0.1.4
+ao: 0.2.1
 aod: 1.3.1
 aods3: 0.4-1.1
 aof: 0.1.2
@@ -7411,13 +7411,13 @@ aprean3: 1.0.1
 apricom: 1.0.0
 aprof: 0.4.1
 apsimr: '1.2'
-apsimx: '2.2'
+apsimx: 2.3.1
 apsrtable: 0.8-8
 apt: '3.0'
 aptg: 0.1.1
 apyramid: 0.1.2
 aqfig: '0.8'
-aqp: '1.32'
+aqp: '1.40'
 aqr: '0.4'
 aquodom: 0.1.0
 ar.matrix: 0.1.0
@@ -7685,7 +7685,7 @@ bagRboostR: 0.0.2
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
 baggingbwsel: '1.0'
-baggr: 0.6.9
+baggr: 0.6.18
 baguette: 0.1.1
 bahc: 0.3.0
 bain: 0.2.8
@@ -8225,7 +8225,7 @@ boostr: 1.0.0
 boot: 1.3-28
 boot.heterogeneity: 1.1.5
 boot.pval: '0.4'
-bootComb: 1.0.2
+bootComb: 1.1.1
 bootES: 1.2.1
 bootGOF: 0.1.0
 bootImpute: 1.2.0
@@ -8348,7 +8348,7 @@ bsml: 1.5-1
 bspec: '1.5'
 bsplinePsd: 0.6.0
 bsplus: 0.1.3
-bspm: 0.3.8
+bspm: 0.3.9
 bspmma: 0.1-2
 bsreg: 0.0.1
 bssm: 2.0.0
@@ -9002,7 +9002,7 @@ cofad: 0.1.1
 cofeatureR: 1.1.1
 coffee: 0.1.1
 coga: 1.1.1
-cogmapr: 0.9.2
+cogmapr: 0.9.3
 cognitoR: 1.0.2
 cohorts: 1.0.0
 cohorttools: 0.1.4
@@ -9579,7 +9579,7 @@ cxxPack: '7.0'
 cxxfunplus: '1.0'
 cyanoFilter: 0.1.3
 cycleRtools: 1.1.1
-cyclestreets: 0.5.2
+cyclestreets: 0.5.3
 cyclocomp: 1.1.0
 cycloids: '1.0'
 cyclomort: 1.0.2
@@ -10121,7 +10121,7 @@ diveRsity: 1.9.90
 diverge: 2.0.1
 diverse: 0.1.5
 diversitree: 0.9-16
-diversityForest: 0.3.1
+diversityForest: 0.3.2
 divest: 0.10.1
 divisors: 0.1-4
 divo: 1.0.1
@@ -10643,7 +10643,7 @@ emil: 2.2.8
 emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 1.7.1-1
+emmeans: 1.7.2
 emoa: 0.5-0.1
 emoji: 0.2.0
 emojifont: 0.5.5
@@ -11575,7 +11575,7 @@ fst: 0.9.4
 fstcore: 0.9.6
 fsthet: 1.0.1
 ftDK: '1.0'
-ftExtra: 0.2.0
+ftExtra: 0.3.0
 ftnonpar: 0.1-88
 ftrCOOL: 2.0.0
 fts: 0.9.9.2
@@ -12906,7 +12906,7 @@ htestClust: 0.2.0
 htm2txt: 2.1.1
 html2R: 0.1.0
 html5: 0.1.0
-htmlTable: 2.3.0
+htmlTable: 2.4.0
 htmldf: 0.4.0
 htmltab: 0.8.2
 htmltidy: 0.5.0
@@ -12923,7 +12923,7 @@ httpgd: 1.2.1
 httping: 0.2.0
 httpproblems: 1.0.1
 httptest: 4.1.0
-httpuv: 1.6.4
+httpuv: 1.6.5
 httr: 1.4.2
 httr2: 0.1.1
 hues: 0.2.0
@@ -13058,7 +13058,7 @@ iai: 1.7.0
 ialiquor: 0.1.0
 iarm: 0.4.2
 ib: 0.1.0
-ibawds: 0.2.0
+ibawds: 0.3.2
 ibb: 0.0.2
 ibd: '1.5'
 ibdreg: 0.3.6
@@ -13146,7 +13146,7 @@ igate: 0.3.3
 igcop: 1.0.1
 iglu: 3.3.0
 igoR: 0.1.3
-igraph: 1.2.10
+igraph: 1.2.11
 igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
@@ -13582,7 +13582,7 @@ jpmesh: 2.0.2
 jpndistrict: 0.3.9
 jqr: 1.2.2
 jquerylib: 0.1.4
-jrc: 0.5.0
+jrc: 0.5.1
 jrich: 0.60-35
 jrt: 1.1.0
 jrvFinance: 1.4.3
@@ -13803,7 +13803,7 @@ kzs: '1.4'
 l0ara: 0.1.6
 l1ball: 0.1.0
 l1kdeconv: 1.2.0
-l1spectral: 0.99.4
+l1spectral: 0.99.5
 l2boost: 1.0.1
 laGP: 1.5-5
 labdsv: 2.0-1
@@ -14229,7 +14229,7 @@ logisticPCA: '0.2'
 logisticRR: 0.3.0
 logitchoice: 0.9.4
 logitnorm: 0.8.38
-logitr: 0.4.0
+logitr: 0.5.0
 loglognorm: 1.0.1
 logmult: 0.7.3
 lognorm: 0.1.10
@@ -15477,7 +15477,7 @@ multimark: 2.1.3
 multimode: '1.5'
 multimorbidity: 0.5.0
 multinbmod: '1.0'
-multinet: '4.0'
+multinet: 4.0.1
 multinets: 0.2.2
 multinma: 0.3.0
 multinomRob: 1.8-6.1
@@ -16030,7 +16030,7 @@ nutshell.bbdb: '1.0'
 nutshellDE: 1.0-2
 nvctr: 0.1.4
 nvis: 0.2.1
-nvmix: 0.0-6
+nvmix: 0.0-7
 nws: 1.7.0.1
 nycflights13: 1.0.2
 nyctaxi: 0.0.1
@@ -18362,7 +18362,7 @@ remotes: 2.4.2
 remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 0.14.0
+renv: 0.15.0
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
@@ -18468,7 +18468,7 @@ rfPermute: '2.5'
 rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.1
 rfacebookstat: 2.5.0
-rfacts: 0.1.1
+rfacts: 0.2.0
 rfbCNPJ: 0.1.1
 rfieldclimate: 0.1.0
 rfigshare: 0.3.7
@@ -18595,7 +18595,7 @@ riskyr: 0.3.0
 rite: '0.3'
 ritis: 1.0.0
 riv: 2.0-5
-riverdist: 0.15.4
+riverdist: 0.15.5
 rivernet: 1.2.1
 riverplot: '0.10'
 rivervis: 0.46.0
@@ -18624,7 +18624,7 @@ rkvo: '0.1'
 rlandscape: '1.0'
 rlang: 0.4.12
 rlas: 1.5.0
-rlc: 0.4.0
+rlc: 0.4.1
 rld: '1.0'
 rle: 0.9.2
 rleafmap: '0.2'
@@ -18765,7 +18765,7 @@ rocc: '1.3'
 roccv: '1.2'
 rock: 0.5.1
 rockchalk: 1.8.144
-rocker: 0.2.1
+rocker: 0.3.0
 rockr: 1.0.0
 roclang: 0.1.2
 rocnp: 0.1.0
@@ -18950,7 +18950,7 @@ rsf: 0.2.2
 rsgcc: '1.0'
 rsggm: '0.3'
 rsig: '1.0'
-rsimsum: 0.11.0
+rsimsum: 0.11.1
 rsinaica: 0.6.1
 rskey: 0.4.4
 rsleep: 1.0.4
@@ -19588,12 +19588,12 @@ shapefiles: '0.7'
 shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
-shar: '1.3'
+shar: 1.3.1
 sharpData: '1.4'
 sharpPen: '1.7'
 sharpeRratio: 1.4.2
 sharpr2: 1.1.1.0
-sharpshootR: 1.8.4
+sharpshootR: '1.9'
 sharx: 1.0-5
 shattering: 1.0.7
 shatteringdt: 0.1.0
@@ -19756,6 +19756,7 @@ simITS: 0.1.1
 simLife: '0.5'
 simMP: 0.17.3
 simMSM: 1.1.41
+simMetric: 0.1.0
 simPATHy: '0.6'
 simPH: 1.3.13
 simPop: 1.2.1
@@ -20076,7 +20077,7 @@ soundgen: 2.5.0
 source.gist: 1.0.0
 sourceR: 1.1.0
 sourcetools: 0.1.7
-sovereign: 1.2.0
+sovereign: 1.2.1
 sp: 1.4-6
 sp23design: '0.9'
 sp500SlidingWindow: 0.1.0
@@ -20221,7 +20222,7 @@ spcosa: 0.4-0
 spcov: '1.01'
 spcr: '2.1'
 spd: 2.0-1
-spdep: 1.1-13
+spdep: 1.2-1
 spdownscale: 0.1.0
 spdplyr: 0.4.0
 spduration: 0.17.1
@@ -20290,7 +20291,7 @@ spikeslab: 1.1.5
 spinBayes: 0.1.0
 spind: 2.2.1
 spinebil: 0.1.0
-spinifex: 0.3.1
+spinifex: 0.3.2
 spinyReg: 0.1-0
 spiralize: 1.0.3
 spiritR: 0.1.1
@@ -21042,7 +21043,7 @@ termstrc: '1.3'
 ternvis: '1.2'
 terra: 1.4-22
 terrainmeshr: 0.1.0
-terrainr: 0.5.0
+terrainr: 0.5.1
 tesseract: 4.2.0
 test2norm: 0.2.0
 testComplexity: 0.1.1
@@ -21202,7 +21203,7 @@ tidymargins: 0.1.0
 tidymodels: 0.1.4
 tidymv: 3.2.1
 tidync: 0.2.4
-tidyndr: 0.1.1
+tidyndr: 0.2.0
 tidypaleo: 0.1.1
 tidypmc: '1.7'
 tidyposterior: 0.1.0
@@ -21216,7 +21217,7 @@ tidyselect: 1.1.1
 tidyseurat: 0.3.0
 tidysmd: 0.1.0
 tidysq: 1.1.2-1
-tidystats: '0.5'
+tidystats: 0.5.1
 tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
@@ -21417,7 +21418,7 @@ trajr: 1.4.0
 tram: 0.6-3
 tramME: 0.1.2
 tramnet: 0.0-6
-trampoline: 0.1.0
+trampoline: 0.1.1
 tranSurv: 1.2.2
 transcribeR: 0.0.0
 transfR: 0.1.1
@@ -21750,7 +21751,7 @@ updog: 2.1.1
 uplift: 0.3.5
 uplifteval: 0.1.0
 upmfit: 0.1.0
-upsetjs: 1.9.0
+upsetjs: 1.10.10
 upstartr: 0.1.1
 uptasticsearch: 0.4.0
 uptimeRobot: 1.0.0
@@ -21884,7 +21885,7 @@ vcr: 1.0.2
 vcrpart: 1.0-4
 vctrs: 0.3.8
 vcvComp: 1.0.2
-vdar: 0.1.3
+vdar: 0.1.3-2
 vdg: 1.2.1
 vdiffr: 1.0.2
 vdmR: 0.2.6
