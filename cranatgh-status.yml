@@ -94,6 +94,7 @@ AOfamilies: '1.0'
 APAtree: 1.0.1
 APCI: 1.0.5
 APCanalysis: '1.0'
+APCtools: 1.0.0
 APFr: 1.0.2
 APIS: 1.0.1
 APML: 0.0.2
@@ -1461,7 +1462,7 @@ DatabionicSwarm: 1.1.5
 Datasmith: 1.0-1
 DatastreamDSWS2R: 1.8.2
 Davies: 1.1-9
-DeCAFS: 3.2.3
+DeCAFS: 3.3.1
 DeLorean: 1.5.0
 DeRezende.Ferreira: 0.1.0
 DealGPL570: 0.2.0
@@ -2133,7 +2134,7 @@ FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
-FuzzyResampling: 0.3.1
+FuzzyResampling: 0.4.0
 FuzzySTs: '0.2'
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
@@ -2203,6 +2204,7 @@ GFD: 0.3.2
 GFDsurv: 0.1.0
 GFE: 0.1.0
 GFGM.copula: 1.0.4
+GFM: 1.1.0
 GFMaps: '1.1'
 GFORCE: 0.1.4
 GFisher: 0.1.0
@@ -2872,7 +2874,7 @@ InteractiveIGraph: 1.0.6.1
 Interatrix: 1.1.3
 InterfaceqPCR: '1.0'
 Interpol: 1.3.1
-Interpol.T: 2.1.1
+Interpol.T: '2.1'
 InterpretMSSpectrum: '1.2'
 IntervalSurgeon: '1.1'
 IntrinioStockAPI: 0.0.1
@@ -3309,7 +3311,7 @@ MCI2: 1.1.2
 MCID: 0.1.0
 MCL: '1.0'
 MCLIME: '1.1'
-MCM: 0.1.4
+MCM: 0.1.5
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
@@ -3424,6 +3426,7 @@ MLDA: '2.0'
 MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
 MLDS: 0.4.7
+MLDataR: 0.1.1
 MLEP: 0.0-3
 MLEcens: 0.1-4
 MLGL: 0.6.5
@@ -3657,6 +3660,7 @@ MenuCollection: '1.2'
 Mercator: 1.1.1
 MergeGUI: 0.2-1
 MetABEL: 0.2-0
+MetBrewer: 0.1.0
 MetFns: 3.2.2
 MetGen: '0.5'
 MetNorm: '0.1'
@@ -3693,7 +3697,7 @@ MetamapsDB: 0.0.2
 Metatron: 0.1-1
 Meth27QC: '1.1'
 MethComp: 1.30.0
-MethodCompare: 0.1.1
+MethodCompare: 0.1.2
 Methplot: '1.0'
 MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
@@ -5396,7 +5400,7 @@ RcppMsgPack: 0.2.3
 RcppNLoptExample: 0.0.1
 RcppNumerical: 0.4-0
 RcppOctave: '0.9'
-RcppParallel: 5.1.4
+RcppParallel: 5.1.5
 RcppProgress: 0.4.2
 RcppQuantuccia: 0.1.0
 RcppRedis: 0.1.11
@@ -5616,7 +5620,7 @@ RobustBF: 0.2.0
 RobustBayesianCopas: '2.0'
 RobustCalibration: 0.5.1
 RobustEM: '1.0'
-RobustGaSP: 0.6.3
+RobustGaSP: 0.6.4
 RobustLinearReg: 1.2.0
 RobustRankAggreg: '1.1'
 RockFab: '1.2'
@@ -6372,6 +6376,7 @@ StroupGLMM: 0.1.0
 StructFDR: '1.3'
 StructR: '1.1'
 StructureMC: '1.0'
+SuRF.vs: 1.1.0
 SubCultCon: '1.0'
 SubLasso: '1.0'
 SubTite: 4.0.5
@@ -8510,7 +8515,7 @@ casen: 0.1.4
 casino: 0.1.0
 caspar: '1.0'
 cassandRa: 0.1.0
-castor: 1.7.0
+castor: 1.7.1
 cat: 0.0-6.5
 cat.dt: 0.3.1
 cat2cat: 0.2.1
@@ -9106,7 +9111,7 @@ complexity: 1.1.1
 complexplus: '2.1'
 complmrob: 0.7.0
 compoisson: '0.3'
-compositions: 2.0-2
+compositions: 2.0-4
 compositionsGUI: '1.0'
 composits: 0.1.0
 compound.Cox: '3.20'
@@ -10121,7 +10126,7 @@ diveRsity: 1.9.90
 diverge: 2.0.1
 diverse: 0.1.5
 diversitree: 0.9-16
-diversityForest: 0.3.2
+diversityForest: 0.3.3
 divest: 0.10.1
 divisors: 0.1-4
 divo: 1.0.1
@@ -10288,7 +10293,7 @@ ds: '4.0'
 ds4psy: 0.7.0
 dsa: 1.0.12
 dsample: 0.91.2.2
-dsb: 0.2.0
+dsb: 0.3.0
 dscore: 1.4.0
 dse: 2020.2-1
 dse1: 2011.11-2
@@ -10749,7 +10754,7 @@ epitab: 0.2.2
 epitable: 0.1.2
 epitools: 0.5-10.1
 epitrix: 0.2.2
-epitweetr: 0.1.28
+epitweetr: 2.0.3
 eplusr: 0.15.0
 eply: 0.1.2
 epoc: 0.2.6-1.1
@@ -11308,7 +11313,7 @@ fishdata: 1.0.1
 fisheyeR: '0.9'
 fishflux: 0.0.1.5
 fishkirkko2015: 1.0.0
-fishmethods: 1.11-2
+fishmethods: 1.11-3
 fishmove: 0.3-3
 fishtree: 0.3.4
 fishualize: 0.2.2
@@ -12462,7 +12467,7 @@ graticule: 0.1.6
 gratis: 0.2.1
 grattan: 1.9.0.9
 gravitas: 0.1.3
-gravity: 0.9.9
+gravity: '1.0'
 grec: 1.4.1
 greed: 0.5.1
 greekLetters: 0.0.7
@@ -12761,6 +12766,7 @@ hexView: 0.3-4
 hexbin: 1.28.2
 hextri: '0.6'
 hflights: '0.1'
+hfr: 0.5.0
 hgam: 0.1-2
 hglasso: '1.2'
 hglm: 2.2-1
@@ -13917,7 +13923,7 @@ lcd: 0.7-3
 lcda: '0.3'
 lchemix: 0.1.0
 lclGWAS: 1.0.3
-lcmm: 1.9.3
+lcmm: 1.9.4
 lcmr: 1.6.26
 lconnect: 0.1.1
 lcopula: 1.0.4
@@ -14810,7 +14816,7 @@ meteR: '1.2'
 meteo: 0.1-5
 meteoForecast: '0.54'
 meteogRam: '1.0'
-meteoland: 1.0.1
+meteoland: 1.0.2
 meteor: 0.3-4
 meteorits: 0.1.1
 meteospain: 0.0.3
@@ -15251,7 +15257,7 @@ monotone: 0.1.0
 monotonicity: 1.3.1
 monreg: 0.1.4
 moodleR: 0.3.2
-moonBook: 0.2.4
+moonBook: 0.3.1
 moonsun: '0.1'
 mopa: 1.0.1
 mopac: 0.1.0
@@ -15500,7 +15506,7 @@ multistateutils: 1.2.4
 multitable: '1.6'
 multitaper: 1.0-15
 multiv: 1.1-6
-multivar: 0.0.2
+multivar: 1.0.0
 multivariance: 2.4.1
 multivator: 1.1-10
 multiverse: 0.5.0
@@ -16002,7 +16008,7 @@ nscprepr: 0.1.1
 nsdr: 0.1.1
 nse: '1.20'
 nse2r: 0.1.5
-nser: 1.3.4
+nser: 1.4.0
 nseval: '0.4'
 nsga2R: '1.0'
 nsga3: 0.0.3
@@ -16040,7 +16046,7 @@ nzffdr: 1.0.0
 nzilbb.labbcat: 1.0-1
 nzpullover: 0.3.0
 o2geosocial: 1.1.0
-o2plsda: 0.0.12
+o2plsda: 0.0.14
 oRus: 1.0.0
 oXim: 1.2.2
 oaColors: 0.0.4
@@ -16070,7 +16076,7 @@ occupancy: '1.2'
 ocd: '1.1'
 oce: 1.4-0
 ocean: 0.2-4
-oceanic: 0.1.0
+oceanic: 0.1.1
 oceanis: 1.8.4
 oceanmap: 0.1.1
 oceanwaves: 0.2.0
@@ -18305,6 +18311,7 @@ reglogit: 1.2-6
 regmed: 2.0.4
 regmedint: 0.2.1
 regnet: 0.4.0
+rego: 1.2.2
 regplot: '1.1'
 regpro: 0.1.1
 regrap: 1.0.1
@@ -18940,6 +18947,7 @@ rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.20.0
 rscproxy: 2.0-5
+rsdNE: 1.0.0
 rsdepth: 0.1-5
 rsdmx: '0.6'
 rsed: 0.1.2
@@ -19091,7 +19099,7 @@ rwavelet: 0.4.1
 rwc: '1.11'
 rwebstat: 1.1.0
 rwfec: '0.2'
-rwhatsapp: 0.2.3
+rwhatsapp: 0.2.4
 rwirelesscom: 1.4.3
 rwm: '1.53'
 rworldmap: 1.3-6
@@ -21167,7 +21175,7 @@ tidyREDCap: 0.2.0
 tidyRSS: 2.0.4
 tidySEM: 0.2.0
 tidyUSDA: 0.3.2
-tidybayes: 3.0.1
+tidybayes: 3.0.2
 tidybins: 0.1.0
 tidyboot: 0.1.1
 tidycat: 0.1.2
@@ -22133,7 +22141,7 @@ wehoop: 1.2.1
 weibull4: 1.0.0
 weibullness: 1.19.8
 weibulltools: 2.0.0
-weightQuant: '1.0'
+weightQuant: 1.0.1
 weightTAPSPACK: '0.1'
 weightedGCM: 0.1.0
 weightedKmeans: 1.2.0
