@@ -503,7 +503,7 @@ BayesBEKK: 0.1.0
 BayesBP: '1.1'
 BayesBinMix: 1.4.1
 BayesBridge: '0.6'
-BayesCACE: '1.1'
+BayesCACE: '1.2'
 BayesCR: '2.1'
 BayesCTDesign: 0.6.1
 BayesCombo: '1.0'
@@ -639,7 +639,7 @@ BioVenn: 1.1.3
 BiocManager: 1.30.16
 Biocomb: '0.4'
 Biodem: '0.5'
-BiodiversityR: 2.13-1
+BiodiversityR: 2.14-1
 Biograph: '2.0'
 Bioi: 0.2.10
 Biolinv: 0.1-3
@@ -794,6 +794,7 @@ CGE: 0.3.3
 CGGP: 1.0.3
 CGIwithR: 0.73-0
 CGManalyzer: '1.3'
+CGNM: 0.1.0
 CGP: 2.1-1
 CGPfunctions: 0.6.3
 CGene: '1.2'
@@ -1389,7 +1390,7 @@ DRI: '1.1'
 DRIP: '1.6'
 DRR: 0.0.4
 DRaWR: 1.0.1
-DRomics: 2.3-0
+DRomics: 2.4-0
 DRviaSPCN: 0.1.0
 DSAIDE: 0.9.3
 DSAIRM: 0.9.3
@@ -2020,6 +2021,7 @@ FastGP: '1.2'
 FastGaSP: 0.5.2
 FastHCS: 0.0.7
 FastImputation: '2.0'
+FastJM: 1.0.0
 FastKM: '1.0'
 FastKNN: 0.0.1
 FastLZeroSpikeInference: 2018.12.10
@@ -2070,7 +2072,7 @@ FlexDir: '1.0'
 FlexGAM: 0.7.2
 FlexParamCurve: 1.5-5
 FlexReg: '1.0'
-FlexScan: 0.2.1
+FlexScan: 0.2.2
 FlickrAPI: 0.1.0.0
 FloodMapper: '1.0'
 FlowCAr: 1.1.1
@@ -2209,7 +2211,7 @@ GFMaps: '1.1'
 GFORCE: 0.1.4
 GFisher: 0.1.0
 GGClassification: '0.1'
-GGEBiplotGUI: 1.0-9
+GGEBiplotGUI: '1.0'
 GGEBiplots: 0.1.2
 GGIR: 2.5-0
 GGMM: 1.0.1
@@ -2719,13 +2721,14 @@ IDPmisc: 1.1.20
 IDSA: '2.1'
 IDSL.IPA: '1.3'
 IDSL.UFA: '1.0'
+IDSL.UFAx: '1.0'
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
 IDetect: 0.1.0
 IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
-IFAA: 1.0.3
+IFAA: 1.0.4
 IFC: 0.1.2
 IFP: 0.2.4
 IFSPlot: '1.0'
@@ -3373,7 +3376,7 @@ MFHD: 0.0.1
 MFKnockoffs: '0.9'
 MFPCA: 1.3-9
 MFSAS: 1.0-0
-MFSIS: 0.1.1
+MFSIS: 0.1.2
 MFT: '2.0'
 MGBT: 1.0.7
 MGDrivE: 1.6.0
@@ -3862,7 +3865,7 @@ NADIA: 0.4.1
 NAEPirtparams: 1.0.0
 NAEPprimer: 1.0.1
 NAM: 1.7.3
-NAP: '1.0'
+NAP: '1.1'
 NAPPA: '2.0'
 NB: '0.9'
 NB.MClust: 1.1.1
@@ -3926,7 +3929,7 @@ NMMIPW: 0.1.0
 NMOF: 2.5-0
 NMRS: '1.0'
 NMVANOVA: 1.1.0
-NMdata: 0.0.9
+NMdata: 0.0.10
 NMproject: 0.6.7
 NNLM: 0.4.3
 NNMIS: 1.0.1
@@ -4009,7 +4012,7 @@ NetworkRiskMeasures: 0.1.4
 NetworkSim: 0.1.0
 NetworkToolbox: 1.4.2
 NeuralNetTools: 1.5.2
-NeuralSens: 0.2.2
+NeuralSens: 0.2.3
 Newdistns: '2.1'
 NewmanOmics: 1.0.4
 NicheBarcoding: '1.0'
@@ -4450,6 +4453,7 @@ PerfMeas: 1.2.1
 PerformanceAnalytics: 2.0.4
 PeriodicTable: 0.1.2
 PermAlgo: '1.1'
+PermutationR: 0.1.0
 PermuteNGS: 1.0.3
 PerseusR: 0.3.4
 PersianStemmer: '1.0'
@@ -6048,6 +6052,7 @@ SamplerCompare: 1.3.2
 SamplingBigData: 1.0.0
 SamplingStrata: 1.5-1
 SanFranBeachWater: 0.1.0
+SangerTools: 1.0.1
 SanzCircos: 0.1.0
 Scale: 1.0.4
 Scalelink: '1.0'
@@ -6491,7 +6496,7 @@ TGST: '1.0'
 TGUICore: 0.9.9
 TGUITeaching: 0.9.9
 TH.data: 1.1-0
-TIGERr: 0.1.0
+TIGERr: 1.0.0
 TIMP: 1.13.2
 TITAN2: 2.4.1
 TInPosition: 0.13.6.1
@@ -6940,9 +6945,11 @@ WaveletArima: 0.1.1
 WaveletCo: '1.0'
 WaveletComp: '1.1'
 WaveletGARCH: 0.1.1
+WaveletSVR: 0.1.0
 WaverR: '1.0'
 Wcompo: '1.0'
 WeMix: 3.2.1
+WebAnalytics: 0.9.1
 WebDevelopR: '1.0'
 WebGestaltR: 0.4.4
 WebPower: '0.6'
@@ -11167,7 +11174,7 @@ fbRanks: '2.0'
 fbar: 0.6.0
 fbati: 1.0-4
 fbroc: 0.4.1
-fbst: '1.5'
+fbst: '1.6'
 fc: 0.1.0
 fca: 0.1.0
 fcaR: 1.1.1
@@ -11831,6 +11838,7 @@ gee: 4.13-19
 gee4: 0.1.0.0
 geeCRT: 0.1.1
 geeM: 0.10.1
+geeasy: 0.1.1
 geecure: 1.0-6
 geepack: 1.3-2
 geesmv: '1.3'
@@ -12202,6 +12210,7 @@ ggvoronoi: 0.8.4
 ggwordcloud: 0.5.0
 ggx: 0.1.1
 gh: 1.3.0
+ghclass: 0.2.1
 ghcm: 2.0.0
 ghee: 0.1.0
 ghibli: 0.3.2
@@ -13507,7 +13516,7 @@ ivpanel: '1.0'
 ivprobit: '1.1'
 ivreg: 0.6-1
 ivregEX: '1.0'
-ivsacim: 1.3.1
+ivsacim: 2.0.0
 ivtools: 2.3.0
 ivx: 1.1.0
 iwtp: 1.0.0
@@ -13597,7 +13606,7 @@ js: '1.2'
 jsTree: '1.2'
 jsTreeR: 1.4.0
 jskm: 0.4.3
-jsmodule: 1.2.0
+jsmodule: 1.3.0
 json64: 0.1.3
 jsonStrings: 1.0.0
 jsonify: 1.2.1
@@ -14069,6 +14078,7 @@ lime: 0.5.2
 liminal: 0.1.2
 limitplot: '1.2'
 limma: 2.9.9
+limonaid: 0.1.1
 lin.eval: 0.1.2
 linERR: '1.0'
 linLIR: '1.1'
@@ -14084,6 +14094,7 @@ linemap: 0.2.0
 lineqGPR: 0.1.1
 lineup: '0.40'
 lineup2: '0.6'
+lingglosses: 0.0.2
 lingmatch: 1.0.2
 lingtypology: 1.1.8
 linguisticsdown: 1.2.0
@@ -14611,6 +14622,7 @@ mcbiopi: 1.1.6
 mcboost: 0.3.3.0
 mcc: '1.0'
 mcca: 0.7.0
+mccca: 0.1.0
 mccf1: '1.1'
 mcclust: '1.0'
 mccmeiv: '2.1'
@@ -18775,7 +18787,7 @@ rock: 0.5.1
 rockchalk: 1.8.144
 rocker: 0.3.0
 rockr: 1.0.0
-roclang: 0.1.2
+roclang: 0.1.3
 rocnp: 0.1.0
 rococo: 1.1.7
 rocplus: 1.0-0
@@ -18840,7 +18852,7 @@ roxygen2: 7.1.2
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
-rpact: 3.2.0
+rpact: 3.2.1
 rpanel: 1.1-5
 rpart: 4.1-15
 rpart.LAD: 0.1.2
@@ -20128,7 +20140,7 @@ spacom: 1.0-5
 spacyr: 1.2.1
 spaero: 0.6.0
 spagmix: 0.3-4
-spam: 2.7-0
+spam: 2.8-0
 spam64: 2.8-0
 spamtree: 0.2.2
 spanel: '0.1'
@@ -20218,6 +20230,7 @@ spatstat.geom: 2.3-1
 spatstat.gui: 2.0-0
 spatstat.linnet: 2.3-1
 spatstat.local: 4.1-1
+spatstat.random: 2.0-0
 spatstat.sparse: 2.1-0
 spatstat.utils: 2.3-0
 spatsurv: '1.6'
@@ -20586,7 +20599,7 @@ stockR: 1.0.74
 stockfish: 0.1.3
 stocks: 1.1.4
 stoichcalc: 1.1-3
-stokes: 1.0-9
+stokes: 1.1-1
 stopwords: '2.3'
 stormwindmodel: 0.1.4
 storr: 1.2.5
@@ -21687,7 +21700,7 @@ ucminf: 1.1-4
 udapi: 0.1.3
 udpipe: 0.8.8
 udunits: '1.3'
-udunits2: 0.13.1
+udunits2: 0.13.2
 ufs: 0.5.2
 ugatsdb: 0.2.2
 ugomquantreg: 1.0.0
@@ -21969,7 +21982,7 @@ visR: 0.2.0
 visStatistics: 0.1.1
 visTree: 0.8.1
 visa: 0.1.0
-visachartR: 1.1.1
+visachartR: 2.0.0
 visae: 0.2.0
 viscomplexr: 1.1.1
 visdat: 0.5.3
@@ -22252,7 +22265,7 @@ workflowr: 1.7.0
 workflows: 0.2.4
 workflowsets: 0.1.0
 workloopR: 1.1.4
-worldfootballR: 0.4.5
+worldfootballR: 0.4.8
 worldmet: 0.9.5
 worms: 0.2.2
 worrms: 0.4.2
@@ -22405,6 +22418,7 @@ yhat: 2.0-3
 yhatr: 0.15.1
 ykmeans: '1.0'
 yll: 1.0.0
+ymd: 0.0.1
 ymlthis: 0.1.5
 yonder: 0.2.0
 yorkr: 0.0.30
