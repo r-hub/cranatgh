@@ -781,6 +781,7 @@ CDVineCopulaConditional: 0.1.1
 CDatanet: 0.0.1
 CEAmarkov: 0.1.0
 CEC: 0.10.3
+CEDA: 1.0.2
 CEDARS: '1.90'
 CEGO: 2.4.2
 CENFA: 1.1.1
@@ -1379,7 +1380,7 @@ DPpackage: 1.1-7
 DPtree: 1.0.1
 DPw: '1.1'
 DQAstats: 0.2.0
-DR.SC: '2.3'
+DR.SC: '2.4'
 DRAFT: 0.3.0
 DRAYL: '1.0'
 DRDID: 1.0.3
@@ -2740,6 +2741,7 @@ IHSEP: '0.2'
 IIS: '1.0'
 IIVpredictor: 0.1.0
 ILS: '0.2'
+ILSE: 1.1.6
 IM: '1.0'
 IMAGE: '1.0'
 IMD: 1.0.2
@@ -3027,7 +3029,8 @@ Kurt: '1.1'
 L0Learn: 2.0.3
 L1mstate: 1.0.1
 L1pack: 0.38.196
-L2DensityGoFtest: 0.3.0
+L2DensityGoFtest: 0.4.0
+L2E: '1.0'
 LA: 0.1.3
 LAGOSNE: 2.0.2
 LAM: 0.5-15
@@ -4677,6 +4680,7 @@ QVM: 0.1.1
 QWDAP: 1.1.10
 QZ: 0.2-1
 Qapprox: 0.2.0
+QoLMiss: 0.1.0
 QoLR: '1.0'
 Qtools: 1.5.5
 QuACN: 1.8.0
@@ -5173,7 +5177,7 @@ RTD: 0.4.1
 RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
 RTIGER: 0.99.0
-RTL: 0.1.9
+RTL: 0.1.91
 RTOMO: 1.1-6
 RTTWebClient: 0.1.2
 RTaxometrics: '3.2'
@@ -6322,7 +6326,7 @@ SplitSoftening: 2.1-0
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.8.1
+SqlRender: 1.8.3
 Sshaped: '1.0'
 Sstack: 1.0.1
 StAMPP: 1.6.3
@@ -6421,7 +6425,7 @@ SurvGSD: 1.0.0
 SurvHiDim: 0.1.1
 SurvLong: '1.1'
 SurvMI: 0.1.0
-SurvMetrics: 0.3.5
+SurvMetrics: 0.4.0
 SurvRank: '0.1'
 SurvRegCensCov: '1.4'
 SurvTrunc: 0.1.0
@@ -7630,7 +7634,7 @@ autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
 autostats: 0.2.0
-autostsm: '2.1'
+autostsm: 2.1.1
 autota: 0.1.3
 autothresholdr: 1.4.0
 autovarCore: 1.0-4
@@ -8991,6 +8995,7 @@ cocorresp: 0.4-3
 cocron: 1.0-1
 coda: 0.19-4
 coda.base: 0.3.1
+codacore: 0.0.3
 codadiags: '1.0'
 codalm: 0.1.2
 codeCollection: 0.1.2
@@ -9401,7 +9406,7 @@ crblocks: 1.0-0
 crch: 1.0-4
 crctStepdown: 0.2.1
 credentials: 1.3.2
-creditmodel: 1.3.0
+creditmodel: 1.3.1
 creditr: 0.6.1
 credsubs: 1.1.1
 credule: 0.1.4
@@ -10373,6 +10378,7 @@ dynamicGraph: 0.2.2
 dynamicTreeCut: 1.63-1
 dynamichazard: 1.0.1
 dynamo: '1.0'
+dynatopGIS: 0.2.1
 dynatopmodel: 1.2.1
 dyncomp: 0.0.2-1
 dyndimred: 1.0.4
@@ -10735,7 +10741,7 @@ eph: 0.4.0
 epi2loc: 1.0-1
 epiDisplay: 3.5.0.1
 epiGWAS: 1.0.2
-epiR: 2.0.40
+epiR: 2.0.41
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.9.2.8
@@ -10957,7 +10963,7 @@ expp: 1.2.5
 expperm: '1.6'
 exprso: 0.5.1
 expsmooth: '2.3'
-expss: 0.10.7
+expss: 0.11.1
 expstudies: 0.0.5
 exptest: '1.2'
 exreport: 0.4.1
@@ -12032,7 +12038,7 @@ gettingtothebottom: '3.2'
 gettz: 0.0.4
 gexp: 1.0-1
 geysertimes: 0.1.9
-gfboost: 0.1.0
+gfboost: 0.1.1
 gfcanalysis: 1.6.0
 gfer: 0.1.11
 gfiExtremes: 1.0.0
@@ -12448,7 +12454,7 @@ gramEvol: 2.1-4
 grangers: 0.1.0
 granova: '2.1'
 granovaGG: 1.4.0
-grantham: 0.1.0
+grantham: 0.1.1
 grapes: 1.0.0
 grapesAgri1: 1.1.0
 graph: 1.30.0
@@ -12726,7 +12732,7 @@ healthcareai: 2.5.0
 healthfinance: 0.1.0
 healthforum: 0.1.0
 healthyR: 0.1.7
-healthyR.ai: 0.0.4
+healthyR.ai: 0.0.5
 healthyR.data: 1.0.1
 healthyR.ts: 0.1.7
 healthyverse: 1.0.1
@@ -13167,6 +13173,7 @@ igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
 igraphtosonia: '1.0'
+igrf: '1.0'
 iheatmapr: 0.5.1
 iheiddown: 0.8.6
 ihpdr: 1.2.1
@@ -13497,6 +13504,7 @@ itree: '0.1'
 its: 1.1.8
 its.analysis: 1.6.0
 itsadug: '2.4'
+itsdm: 0.1.0
 itsmr: '1.9'
 itunesr: '0.1'
 iv: 0.1.2
@@ -13908,6 +13916,7 @@ lavacreg: 0.1-2
 lawn: 0.6.0
 lawstat: '3.4'
 lax: 1.2.0
+layer: 0.0.1
 lazy: 1.2-16
 lazyData: 1.1.0
 lazyWeave: 3.0.2
@@ -14123,7 +14132,7 @@ list: '9.2'
 listArray: 0.1.1
 listWithDefaults: 1.2.0
 listarrays: 0.3.1
-listcomp: 0.3.0
+listcomp: 0.4.0
 listcompr: 0.4.0
 listdown: 0.4.1
 listdtr: '1.1'
@@ -16346,7 +16355,7 @@ osrmr: 0.1.36
 ot: 0.2.0
 otinference: 0.1.0
 otp: 0.1.0
-otpr: 0.5.0
+otpr: 0.5.1
 otrimle: '2.0'
 otsad: 0.2.0
 otuSummary: 0.1.1
@@ -16711,7 +16720,7 @@ pedmut: 0.3.0
 pedometrics: 0.7.0
 pedprobr: 0.6.1
 pedquant: 0.1.7
-pedsuite: 1.0.4
+pedsuite: 1.1.0
 pedtools: 1.1.0
 peermodels: 0.10.2
 pegas: '1.1'
@@ -17212,7 +17221,7 @@ postGGIR: 2.4.0.2
 postGIStools: 0.2.4
 postHoc: 0.1.3
 postal: 0.1.1
-postcards: 0.2.2
+postcards: 0.2.3
 posterdown: '1.0'
 posterior: 1.2.0
 postgwas: '1.11'
@@ -18261,6 +18270,7 @@ recexcavAAR: 0.3.0
 rechonest: '1.2'
 recipes: 0.1.17
 reclin: 0.1.2
+reclin2: 0.1.1
 recluster: '2.9'
 recmap: 1.0.11
 recodeflow: 0.1.0
@@ -19265,6 +19275,7 @@ sbtools: 1.1.17
 sbw: 1.1.5
 scBio: 0.1.6
 scCAN: 1.0.1
+scCATCH: '3.0'
 scDHA: 1.1.2
 scDIFtest: 0.1.1
 scDiffCom: 0.1.0
@@ -19427,7 +19438,7 @@ see: 0.6.8
 seeclickfixr: 1.1.0
 seecolor: 0.1.0
 seedCCA: '3.0'
-seededlda: 0.6.0
+seededlda: 0.8.0
 seedr: 0.3.0
 seedreg: 1.0.2
 seeds: 0.9.1
@@ -20146,7 +20157,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 1.16.0
+spant: 1.17.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -20966,7 +20977,7 @@ tailloss: '1.0'
 tailr: 0.1.3
 taipan: 0.1.2
 takos: 0.2.0
-tanaka: 0.1.3
+tanaka: 0.2.0
 tangles: 0.8.1
 tangram: 0.7.1
 tangram.pipe: 1.1.0
@@ -21583,7 +21594,7 @@ tsfngm: 0.1.0
 tsgui: 0.2.1
 tsiR: 0.4.3
 tsibble: 1.1.1
-tsibbledata: 0.3.0
+tsibbledata: 0.4.0
 tsibbletalk: 0.1.0
 tsintermittent: '1.9'
 tslars: '1.0'
