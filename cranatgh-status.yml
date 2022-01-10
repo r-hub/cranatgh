@@ -197,7 +197,7 @@ AlignStat: 1.3.1
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: 1.0-2
-AlphaPart: 0.8.4
+AlphaPart: 0.9.0
 AlphaSimR: 1.0.4
 AlphaVantageClient: 0.0.1
 Amelia: 1.8.0
@@ -964,7 +964,7 @@ CaseBasedReasoning: '0.1'
 CatDataAnalysis: 0.1-3
 CatDyn: 1.1-1
 CatEncoders: 0.1.1
-CatPredi: '1.2'
+CatPredi: '1.3'
 CatReg: 2.0.3
 CateSelection: '1.0'
 CauchyCP: 0.1.0
@@ -1844,7 +1844,7 @@ EvCombR: 0.1-2
 EvalEst: 2021.2-1
 EvaluateCore: 0.1.2
 EvaluationMeasures: 1.1.0
-Evapotranspiration: '1.15'
+Evapotranspiration: '1.16'
 EventDetectGUI: 0.3.0
 EventDetectR: 0.3.5
 EventStudy: '0.37'
@@ -1979,7 +1979,7 @@ FREGAT: 1.1.0
 FREQ: '1.0'
 FRESA.CAD: 3.3.1
 FREddyPro: '1.0'
-FRK: 2.0.2
+FRK: 2.0.3
 FRegSigCom: 0.3.0
 FSA: 0.9.1
 FSAdata: 0.3.8
@@ -2916,7 +2916,7 @@ JCRImpactFactor: 1.0.0
 JFE: 2.5.2
 JGEE: '1.1'
 JGL: 2.3.1
-JGR: 1.9-0
+JGR: 1.9-1
 JJcorr: '0.01'
 JLLprod: 1.0.1
 JM: 1.4-8
@@ -4980,7 +4980,7 @@ RMSNumpress: 1.0.1
 RMTL: '0.9'
 RMThreshold: '1.1'
 RMTstat: '0.3'
-RMVL: 0.0.4.1
+RMVL: 0.0.4.3
 RMaCzek: 1.3.5
 RMallow: '1.1'
 RMariaDB: 1.2.1
@@ -7262,7 +7262,7 @@ airqualityES: 1.0.0
 airr: 1.3.0
 airt: 0.2.1
 ajv: 1.0.0
-akc: 0.9.5
+akc: 0.9.6
 akiFlagger: 0.3.0
 akima: 0.6-2.3
 akmbiclust: 0.1.0
@@ -7411,7 +7411,7 @@ apexcharter: 0.3.0
 aphid: 1.3.3
 apisensr: 0.3.0
 aplore3: '0.9'
-aplot: 0.1.1
+aplot: 0.1.2
 aplpack: 1.3.5
 apmsWAPP: '1.0'
 apng: '1.1'
@@ -9421,7 +9421,7 @@ crimelinkage: 0.0.4
 crimeutils: 0.3.0
 crisp: 1.0.0
 crispRdesignR: 1.1.6
-criticalpath: 0.1.0
+criticalpath: 0.2.0
 critpath: 0.1.4
 crmPack: 1.0.0
 crmReg: 1.0.2
@@ -10077,7 +10077,7 @@ discrim: 0.1.3
 discrimARTs: '0.2'
 disdat: 1.0-0
 diseasemapping: 1.5.1
-diseq: 0.3.1
+diseq: 0.4.1
 disk.frame: 0.5.0
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
@@ -10568,7 +10568,7 @@ eemdTDNN: 0.1.0
 eeptools: 1.2.4
 eesim: 0.1.0
 ef: 1.2.0
-efdm: 0.1.0
+efdm: 0.2.0
 eff2: 1.0.1
 effectFusion: 1.1.3
 effectR: 1.0.2
@@ -10928,6 +10928,7 @@ exams2sakai: '0.3'
 exceedProb: 0.0.1
 excel.link: 0.9.10
 excelR: 0.4.0
+exceldata: 0.1.0
 excelstrippr: 0.1.2
 excerptr: 2.0.1
 excessmort: 0.6.1
@@ -11349,7 +11350,7 @@ fitmix: 0.1.0
 fitplc: 1.2-3
 fitteR: 0.1.0
 fitur: 0.6.2
-fitzRoy: 1.0.0
+fitzRoy: 1.1.0
 fivethirtyeight: 0.6.2
 fixedTimeEvents: 1.0.1
 fixerapi: 0.1.6
@@ -11457,7 +11458,7 @@ forcats: 0.5.1
 foreSIGHT: 1.0.0
 foreach: 1.5.1
 forecTheta: '2.2'
-forecast: '8.15'
+forecast: '8.16'
 forecastHybrid: 5.0.19
 forecastML: 0.9.0
 forecastSNSTS: 1.3-0
@@ -11540,6 +11541,7 @@ frbf: '1.0'
 frbs: 3.2-0
 frechet: 0.2.0
 fredr: 2.1.0
+free: '1.0'
 freealg: 1.0-4
 freedom: 1.0.1
 freegroup: 1.1-3
@@ -12055,6 +12057,7 @@ ggBubbles: 0.1.4
 ggChernoff: 0.2.0
 ggCompNet: 0.1.0
 ggDCA: '1.1'
+ggESDA: 0.1.0
 ggExtra: '0.9'
 ggFacetSample: 1.0.0
 ggHoriPlot: 1.0.0
@@ -12316,6 +12319,7 @@ glmtree: '0.2'
 glmulti: 1.0.8
 glmvsd: '1.4'
 glmx: 0.1-1
+glmxdiag: 1.0.0
 globalGSA: '1.0'
 globalKinhom: 0.1.3
 globalOptTests: '1.1'
@@ -12551,7 +12555,7 @@ grplassocat: '1.0'
 grppenalty: 2.1-0
 grpreg: 3.4.0
 grpregOverlap: 2.2-0
-grpsel: 1.1.1
+grpsel: 1.2.0
 grpseq: '1.0'
 grpss: 3.0.1
 grr: 0.9.5
@@ -12792,7 +12796,7 @@ hgutils: 0.2.7
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
-hhsmm: 0.2.3
+hhsmm: 0.2.4
 hht: 2.1.4
 hiPOD: '1.0'
 hibayes: 1.0.0
@@ -12945,6 +12949,7 @@ httpgd: 1.2.1
 httping: 0.2.0
 httpproblems: 1.0.1
 httptest: 4.1.0
+httptest2: 0.1.0
 httpuv: 1.6.5
 httr: 1.4.2
 httr2: 0.1.1
@@ -13602,7 +13607,7 @@ jose: 1.2.0
 journalabbr: 0.3.0
 joyn: 0.1.4
 jpeg: 0.1-9
-jpmesh: 2.0.2
+jpmesh: 2.1.0
 jpndistrict: 0.3.9
 jqr: 1.2.2
 jquerylib: 0.1.4
@@ -14254,6 +14259,7 @@ logistiX: '1.0'
 logistic4p: '1.5'
 logisticPCA: '0.2'
 logisticRR: 0.3.0
+logitFD: '1.0'
 logitchoice: 0.9.4
 logitnorm: 0.8.38
 logitr: 0.5.0
@@ -14935,7 +14941,7 @@ microsimulation: 1.3.6
 microsynth: 2.0.31
 midas: 1.0.1
 midas2: 0.1.0
-midasml: 0.1.8
+midasml: 0.1.9
 midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
@@ -15485,7 +15491,7 @@ multicon: '1.6'
 multicool: 0.1-12
 multicore: '0.2'
 multicross: 2.1.0
-multid: 0.2.0
+multid: 0.3.0
 multidplyr: 0.1.1
 multifamm: 0.1.1
 multifear: 0.1.2
@@ -15513,7 +15519,7 @@ multinomineq: 0.2.1
 multipanelfigure: 2.1.2
 multipleNCC: 1.2-2
 multiplestressR: 0.1.1
-multiplex: 2.9.6
+multiplex: 2.9.7
 multiplyr: 0.1.1
 multipol: 1.0-7
 multirich: 2.1.3
@@ -16394,7 +16400,7 @@ oz: 1.0-21
 ozmaps: 0.4.5
 p2distance: 1.0.1
 p3state.msm: '1.3'
-pARI: 1.1.0
+pARI: 1.1.1
 pARccs: 0.2-2
 pARtial: '0.1'
 pAnalysis: '2.0'
@@ -17172,6 +17178,7 @@ polywog: 0.4-1
 pom: '1.1'
 pomcheckr: 0.1.1
 pomdp: 0.99.3
+pomodoro: 3.3.0
 pomp: '3.6'
 pompom: 0.2.1
 pooh: 0.3-2
@@ -18085,7 +18092,7 @@ rbace: 0.2.2
 rbacon: 2.5.7
 rbamtools: 2.9.2
 rbart: '1.0'
-rbcb: 0.1.5
+rbcb: 0.1.7
 rbedrock: 0.1.1
 rbefdata: 0.3.5
 rbenchmark: 1.0.0
@@ -18178,7 +18185,7 @@ rdbnomics: 0.6.4
 rdd: '0.57'
 rddapp: 1.2.1
 rddensity: '2.2'
-rddtools: 1.5.0
+rddtools: 1.6.0
 rde: 0.1.0
 rdecision: 1.1.0
 rdefra: 0.3.8
@@ -19611,7 +19618,7 @@ sgstar: 0.1.2
 sgt: '2.0'
 shades: 1.4.0
 shadow: 0.7.1
-shadowtext: 0.1.0
+shadowtext: 0.1.1
 shallot: 0.4.10
 shape: 1.4.6
 shapeNA: 0.0.2
@@ -19895,6 +19902,7 @@ sivipm: 1.1-4
 sivs: 0.2.5
 sizeMat: 1.1.2
 sjPlot: 2.8.10
+sjSDM: 1.0.0
 sjdbc: 1.6.1
 sjlabelled: 1.1.8
 sjmisc: 2.8.9
@@ -21077,7 +21085,7 @@ ternvis: '1.2'
 terra: 1.4-22
 terrainmeshr: 0.1.0
 terrainr: 0.5.1
-tesseract: 4.2.0
+tesseract: 5.0.0
 test2norm: 0.2.0
 testComplexity: 0.1.1
 testDriveR: 0.5.1
@@ -21259,7 +21267,7 @@ tidytext: 0.3.2
 tidytidbits: 0.2.3
 tidytransit: 1.2.0
 tidytreatment: 0.2.1
-tidytree: 0.3.6
+tidytree: 0.3.7
 tidytuesdayR: 1.0.1
 tidyverse: 1.3.1
 tidyvpc: 1.2.0
@@ -21392,6 +21400,7 @@ topicmodels.etm: 0.1.0
 topmodel: 0.7.3
 topoDistance: 1.0.1
 topologyGSA: 1.4.7
+toprdata: 1.0.0
 topsa: 0.1.0
 topsis: '1.0'
 tor: 1.1.2
@@ -22295,7 +22304,7 @@ wql: 0.4.9
 wqs: 0.0.1
 wrGraph: 1.3.0
 wrMisc: 1.8.0
-wrProteo: 1.4.3
+wrProteo: 1.5.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.7
 wrappedtools: 0.7.9
