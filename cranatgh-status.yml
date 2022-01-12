@@ -315,6 +315,7 @@ BAS: 1.6.0
 BASIX: '1.1'
 BASS: 1.2.2
 BASiNET: 0.0.4
+BASiNETEntropy: 0.99.1
 BAT: 2.7.1
 BAYESDEF: 0.1.0
 BAYSTAR: 0.2-9
@@ -1379,7 +1380,7 @@ DPWeibull: '1.8'
 DPpackage: 1.1-7
 DPtree: 1.0.1
 DPw: '1.1'
-DQAstats: 0.2.1
+DQAstats: 0.2.2
 DR.SC: '2.4'
 DRAFT: 0.3.0
 DRAYL: '1.0'
@@ -2723,7 +2724,7 @@ IDPmisc: 1.1.20
 IDSA: '2.1'
 IDSL.IPA: '1.3'
 IDSL.UFA: '1.0'
-IDSL.UFAx: '1.0'
+IDSL.UFAx: 1.0.1
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -3443,6 +3444,7 @@ MLID: 1.0.1
 MLML2R: 0.3.3
 MLMOI: 0.1.1
 MLModelSelection: '1.0'
+MLMusingR: 0.1.0
 MLPA: 1.10.0
 MLPAstats: 0.5-9
 MLPUGS: 0.2.0
@@ -3937,7 +3939,7 @@ NMdata: 0.0.10
 NMproject: 0.6.7
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.8.3
+NNS: 0.8.4
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.4
@@ -4028,6 +4030,7 @@ NlcOptim: '0.6'
 NlinTS: 1.4.5
 NlsyLinks: 2.0.6
 Nmisc: 0.3.7
+Nmix: 1.1.2
 NobBS: 0.1.0
 NoiseFiltersR: 0.1.0
 NominalLogisticBiplot: '0.2'
@@ -4391,7 +4394,7 @@ PWFSLSmoke: 1.2.117
 PabonLasso: '1.0'
 Pade: 1.0.3
 PairTrading: '1.1'
-PairViz: 1.3.4
+PairViz: 1.3.5
 PairedData: 1.1.1
 PairwiseD: 0.9.62
 PakPC2017: 1.0.0
@@ -5611,7 +5614,7 @@ Rnmr1D: 1.3.0
 Rnotes: 1.1-1
 Rnumerai: 2.1.4
 Rnvd3: 1.0.0
-RoBMA: 2.1.1
+RoBMA: 2.1.2
 RobAStBase: 1.2.1
 RobAStRDA: 1.2.0
 RobExtremes: 1.2.0
@@ -5750,7 +5753,7 @@ SAMM: 1.1.1
 SAMTx: 0.3.0
 SAMUR: '0.6'
 SAMURAI: 1.2.1
-SAMtool: 1.2.4
+SAMtool: 1.2.5
 SAPP: 1.0.8
 SAR: 1.0.3
 SARP.compo: 0.1.5
@@ -6724,7 +6727,7 @@ TreeRank: 1.1-0
 TreeSearch: 1.0.1
 TreeSim: '2.4'
 TreeSimGM: '2.5'
-TreeTools: 1.5.1
+TreeTools: 1.6.0
 TrendInTrend: 1.1.3
 TrendSLR: '1.0'
 Trendtwosub: 0.0.2
@@ -8343,7 +8346,7 @@ brokenstick: 2.0.0
 brolgar: 0.1.2
 broman: '0.76'
 broom: 0.7.11
-broom.helpers: 1.5.0
+broom.helpers: 1.6.0
 broom.mixed: 0.2.7
 broomExtra: 4.3.0
 brotli: '1.2'
@@ -9325,7 +9328,7 @@ covTest: '1.0'
 covTestR: 0.1.4
 covafillr: 0.4.4
 covatest: 1.2.0
-coveffectsplot: 0.0.9.1
+coveffectsplot: 1.0.0
 covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.3
@@ -10555,6 +10558,7 @@ edina: 0.1.1
 editData: 0.1.8
 editrules: 2.9.3
 edl: '1.1'
+edlibR: 1.0.0
 edmcr: 0.2.0
 edmdata: 1.2.0
 edmr: 0.6.3
@@ -12091,7 +12095,7 @@ gganimate: 1.0.7
 ggasym: 0.1.6
 ggbeeswarm: 0.6.0
 ggborderline: 0.1.0
-ggbreak: 0.0.7
+ggbreak: 0.0.8
 ggbuildr: 0.1.0
 ggbump: 0.1.0
 ggcharts: 0.2.1
@@ -13547,6 +13551,7 @@ jSDM: 0.1.0
 jScore: 0.1.0
 jSonarR: 1.1.1
 jaatha: 3.2.1
+jab.adverse.reactions: 1.0.0
 jabr: 0.1.2
 jaccard: 0.1.0
 jack: 1.1.1
@@ -14509,7 +14514,7 @@ mapping: '1.3'
 mappings: '0.1'
 mapplots: 1.5.1
 mappoly: 0.3.0
-mapproj: 1.2.7
+mapproj: 1.2.8
 mapr: 0.5.2
 maps: 3.4.0
 mapsFinland: 0.1.1
@@ -16690,7 +16695,7 @@ pcrsim: 1.0.2
 pcse: 1.9.1.1
 pcsstools: 0.1.1
 pct: 0.9.3
-pcts: '0.15'
+pcts: 0.15.2
 pcurve: 0.6-4
 pdR: '1.7'
 pdSpecEst: 1.2.4
@@ -17725,7 +17730,7 @@ qtlcharts: '0.16'
 qtlhot: 1.0.4
 qtlmt: 0.1-6
 qtlnet: 1.5.4
-qtlpoly: 0.2.2
+qtlpoly: 0.2.3
 qtpaint: 0.9.1
 qtutils: 0.1-3
 quRan: 0.1.0
@@ -18117,7 +18122,7 @@ rbi: 0.10.4
 rbi.helpers: 0.3.2
 rbibutils: 2.2.7
 rbin: 0.2.0
-rbioacc: 1.0.2
+rbioacc: 1.1-0
 rbioapi: 0.7.4
 rbiom: 1.0.3
 rbiorxiv: 0.2.1
@@ -18190,7 +18195,7 @@ rcube: '0.5'
 rcure: 0.1.0
 rcv: 0.2.1
 rda: '1.0'
-rdacca.hp: 1.0-4
+rdacca.hp: 1.0-5
 rdaemon: 1.0.6
 rdatacite: 0.5.2
 rdatamarket: '0.6'
@@ -18321,7 +18326,7 @@ redland: 1.0.17-15
 redlistr: 1.0.3
 redoc: 2.0.0.49
 redshiftTools: 1.0.1
-redux: 1.1.0
+redux: 1.1.3
 ref: '0.9'
 ref.ICAR: '1.0'
 refGenome: 1.7.7
@@ -19866,6 +19871,7 @@ simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
 simplr: 0.1-1
+simpr: 0.2.1
 simputation: 0.2.7
 simr: 1.0.5
 simrec: 1.0.0
@@ -20365,7 +20371,7 @@ splitfngr: 0.1.2
 splithalf: 0.7.2
 splithalfr: 2.2.0
 splitstackshape: 1.4.8
-splm: 1.4-9
+splm: 1.5-3
 splmm: 1.1.3
 splot: 0.5.1
 spls: 2.2-3
@@ -21101,6 +21107,7 @@ ternvis: '1.2'
 terra: 1.4-22
 terrainmeshr: 0.1.0
 terrainr: 0.5.1
+tessellation: 1.0.0
 tesseract: 5.0.0
 test2norm: 0.2.0
 testComplexity: 0.1.1
@@ -21409,7 +21416,7 @@ tolerance: 2.0.0
 tomba: 1.0.1
 tongfen: 0.3.3
 tonymisc: 1.1.1
-toolStability: 0.1.0
+toolStability: 0.1.1
 toolmaRk: 0.0.1
 tools4uplift: 1.0.0
 topicdoc: 0.1.0
@@ -21418,6 +21425,7 @@ topicmodels.etm: 0.1.0
 topmodel: 0.7.3
 topoDistance: 1.0.1
 topologyGSA: 1.4.7
+topr: 1.0.0
 toprdata: 1.0.0
 topsa: 0.1.0
 topsis: '1.0'
@@ -22467,7 +22475,7 @@ youtubecaption: 1.0.0
 yowie: 0.1.0
 ypr: 0.5.2
 ypssc: 1.1.0
-yuima: 1.9.6
+yuima: 1.15.0
 yuimaGUI: 1.3.0
 yulab.utils: 0.0.4
 yum: 0.1.0
