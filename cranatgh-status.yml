@@ -11,6 +11,7 @@ ABPS: '0.3'
 ACA: '1.1'
 ACCLMA: '1.0'
 ACD: 1.5.3
+ACDC: 1.0.0
 ACDm: 1.0.4
 ACEsearch: 1.0.0
 ACEt: 1.8.1
@@ -66,6 +67,7 @@ ALS: 0.0.6
 ALSCPC: '1.0'
 ALSM: 0.2.0
 ALTopt: 0.1.2
+ALUES: 0.2.1
 ALassoSurvIC: 0.1.0
 AMA: 1.0.8
 AMAP.Seq: '1.0'
@@ -1415,7 +1417,7 @@ DTAT: 0.3-4
 DTAXG: 0.1.0
 DTAplots: 1.0.2.5
 DTComPair: 1.0.3
-DTDA: '3.0'
+DTDA: 3.0.1
 DTDA.cif: 1.0.2
 DTDA.ni: '1.0'
 DTK: '3.5'
@@ -2927,7 +2929,7 @@ JMLSD: '1.0'
 JMbayes: 0.8-85
 JMbayes2: 0.1-8
 JMcmprsk: '0.9'
-JMdesign: '1.1'
+JMdesign: '1.2'
 JOP: '3.6'
 JOPS: 0.1.15
 JOUSBoost: 2.1.0
@@ -7245,7 +7247,7 @@ agroclim: 0.1.0
 agrostab: 0.1.0
 agsemisc: 1.3-1
 agtboost: 0.9.3
-ahMLE: '1.18'
+ahMLE: '1.20'
 ahaz: '1.14'
 ahnr: 0.3.1
 ahp: 0.2.8
@@ -7535,7 +7537,7 @@ aspect: 1.0-5
 aspi: 0.2.0
 aspline: 0.1.0
 asremlPlus: 4.3-31
-assemblerr: 0.1.0
+assemblerr: 0.1.1
 assert: 1.0.1
 assertable: 0.2.8
 assertive: 0.3-6
@@ -8633,7 +8635,7 @@ cds: 1.0.3
 ceRtainty: 1.0.0
 cec2005benchmark: 1.0.4
 cec2013: 0.1-5
-cecs: 0.2.3
+cecs: 0.2.4
 ced: 1.0.1
 ceg: 0.1.0
 celestial: 1.4.6
@@ -10347,7 +10349,7 @@ dtt: 0.1-2
 dttr2: 0.4.0
 dtw: 1.22-3
 dtwSat: 0.2.7
-dtwclust: 5.5.6
+dtwclust: 5.5.7
 dual: 0.0.3
 dualScale: 0.9.1
 dualtrees: 0.1.4
@@ -11721,7 +11723,7 @@ gWQSRS: 1.1.1
 gWidgets: 0.0-8
 gWidgets2: 1.0-9
 gWidgets2RGtk2: 1.0-7
-gWidgets2tcltk: 1.0-6
+gWidgets2tcltk: 1.0-7
 gWidgetsRGtk2: 0.0-9
 gWidgetsWWW: 0.0-9
 gWidgetsrJava: 0.0-9
@@ -12502,6 +12504,7 @@ gratis: 0.2.1
 grattan: 1.9.0.10
 gravitas: 0.1.3
 gravity: '1.0'
+greatR: 0.1.0
 grec: 1.4.1
 greed: 0.5.1
 greekLetters: 0.0.7
@@ -12529,7 +12532,7 @@ gridGeometry: 0.2-0
 gridGraphics: 0.5-1
 gridGraphviz: '0.3'
 gridSVG: 1.7-2
-gridpattern: 0.3.1
+gridpattern: 0.4.0
 gridsample: 0.2.1
 gridsampler: '0.6'
 gridtext: 0.1.4
@@ -12832,7 +12835,7 @@ highD2pop: '1.0'
 highDmean: 0.1.0
 highMLR: 0.1.0
 highSCREEN: '0.4'
-highTtest: '1.1'
+highTtest: '1.2'
 highcharter: 0.9.4
 highfrequency: 0.9.1
 highlight: 0.5.0
@@ -15242,7 +15245,7 @@ modelplotr: 1.1.0
 modelr: 0.1.8
 modelsummary: 0.9.5
 modeltests: 0.1.4
-modeltime: 1.1.0
+modeltime: 1.1.1
 modeltime.ensemble: 1.0.0
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.1
@@ -15611,7 +15614,7 @@ mvnormtest: 0.1-9
 mvnpermute: 1.0.0
 mvord: 1.1.1
 mvoutlier: 2.1.1
-mvp: 1.0-8
+mvp: 1.0-12
 mvpart: 1.6-2
 mvprpb: 1.0.4
 mvrsquared: 0.1.2
@@ -16539,7 +16542,7 @@ parallelize.dynamic: '0.9'
 parallelly: 1.30.0
 param6: 0.2.3
 paramGUI: 2.1.4
-parameters: 0.15.0
+parameters: 0.16.0
 paramhetero: 0.2.0
 paramlink: 1.1-2
 paramlink2: 1.0.3
@@ -17350,7 +17353,7 @@ preprosim: 0.2.0
 preproviz: 0.2.0
 preputils: 1.0.3
 prereg: 0.5.0
-preregr: 0.1.9
+preregr: 0.2.0
 presens: 2.1.0
 presenter: 0.1.1
 presentes: 0.1.0
@@ -17784,6 +17787,7 @@ quickNmix: 1.0.3
 quickPlot: 0.1.6
 quickReg: 1.5.0
 quickblock: 0.2.0
+quickcheck: 0.0.1
 quickerstats: 0.0.1
 quickmapr: 0.3.0
 quickmatch: 0.2.1
@@ -20104,7 +20108,7 @@ solitude: 1.1.3
 solr: 0.1.6
 solrad: 1.0.0
 solrium: 1.2.0
-solvebio: 2.11.0
+solvebio: 2.12.0
 som: 0.3-5.1
 som.nn: 1.1.0
 soma: 1.1.1
@@ -21287,7 +21291,7 @@ tidystringdist: 0.1.4
 tidysynth: 0.1.0
 tidytable: 0.6.6
 tidytext: 0.3.2
-tidytidbits: 0.2.3
+tidytidbits: 0.3.0
 tidytransit: 1.2.0
 tidytreatment: 0.2.1
 tidytree: 0.3.7
@@ -22192,6 +22196,7 @@ websearchr: 0.0.3
 webshot: 0.5.2
 websocket: 1.4.1
 websockets: 1.1.7
+webtools: 0.7.8
 webuse: 0.1.3
 webutils: '1.1'
 webvis: 0.0.2
