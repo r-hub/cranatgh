@@ -1139,6 +1139,7 @@ Conake: '1.0'
 ConcordanceTest: 1.0.0
 CondIndTests: 0.1.5
 CondReg: '0.20'
+CondiS: 0.1.1
 ConfIntVariance: 1.0.2
 ConfigParser: 1.0.0
 ConformalSmallest: '1.0'
@@ -3508,7 +3509,7 @@ MPLikelihoodWB: '1.1'
 MPN: 0.3.0
 MPR.genotyping: '0.8'
 MPS: 2.3.1
-MPSEM: 0.3-6
+MPSEM: 0.4-1
 MPTinR: 1.14.1
 MPTmultiverse: 0.4-2
 MPV: '1.57'
@@ -4384,6 +4385,7 @@ PSW: 1.1-3
 PSweight: 1.1.6
 PTAk: 1.4-0
 PTE: '1.7'
+PTSR: 0.1.0
 PTXQC: 1.0.12
 PTwins: 0.1.1
 PUPAIM: 0.2.0
@@ -4499,7 +4501,7 @@ Pijavski: 1.0.3
 PivotalR: 0.1.18.5
 PkgsFromFiles: '0.5'
 PlackettLuce: 0.4.1
-PlaneGeometry: 1.3.0
+PlaneGeometry: 1.3.1
 Planesmuestra: '0.1'
 PlanetNICFI: 1.0.3
 PlasmaMutationDetector: 1.7.2
@@ -4525,6 +4527,7 @@ PoisBinOrdNor: 1.6.3
 PoisNonNor: 1.6.3
 PoisNor: 1.3.3
 PoissonBinomial: 1.2.4
+PoissonMultinomial: '1.0'
 PoissonPCA: 1.0.3
 PoissonSeq: 1.1.2
 PolicyPortfolios: 0.2.2
@@ -5373,7 +5376,7 @@ Rcoclust: '0.1'
 Rcolombos: 2.0.2
 Rcompadre: 1.1.0
 Rcplex: 0.3-5
-Rcpp: 1.0.7
+Rcpp: 1.0.8
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.8
 RcppAlgos: 2.4.3
@@ -5838,7 +5841,7 @@ SEHmodel: 0.0.9
 SEIRfansy: 1.1.1
 SEL: 1.0-2
 SELF: 0.1.1
-SEMID: 0.3.2
+SEMID: 0.4.0
 SEMModComp: '1.0'
 SEMgraph: 1.0.5
 SEMrushR: 0.1.0
@@ -6560,6 +6563,7 @@ TSF: 0.1.1
 TSGS: '1.0'
 TSGSIS: '0.1'
 TSHRC: 0.1-6
+TSLSTM: 0.1.0
 TSMCP: '1.0'
 TSMN: 1.0.0
 TSMSN: 0.0.1
@@ -8140,7 +8144,7 @@ bisect: 0.9.0
 bisectr: 0.1.0
 bisoreg: '1.5'
 bisque: 1.0.2
-bistablehistory: 1.0.0
+bistablehistory: 1.1.0
 bit: 4.0.4
 bit64: 4.0.5
 bite: '0.3'
@@ -8177,7 +8181,7 @@ blighty: 3.1-4
 blin: 0.0.1
 blindrecalc: 0.1.3
 blink: 1.1.0
-bliss: 1.0.2
+bliss: 1.0.3
 blkbox: '1.0'
 blkergm: '1.1'
 blm: 2013.2.4.4
@@ -9392,7 +9396,7 @@ cprobit: 1.0.2
 cprr: 0.2.0
 cpsR: 0.4.5
 cpss: 0.0.2
-cpsurvsim: 1.2.0
+cpsurvsim: 1.2.1
 cpsvote: 0.1.0
 cpt: 1.0.2
 cptcity: 1.0.6
@@ -10488,7 +10492,7 @@ ebreg: 0.1.3
 ec50estimator: 0.1.0
 ecap: 0.1.2
 ecb: 0.4.0
-ecce: 1.0.7
+ecce: 1.0.8
 ecd: 0.9.1
 ecdfHT: 0.1.1
 ecespa: 1.1-13
@@ -11437,7 +11441,7 @@ flying: 0.1.3
 flyio: 0.1.4
 fma: '2.4'
 fmbasics: 0.3.0
-fmcmc: 0.5-0
+fmcmc: 0.5-1
 fmdates: 0.1.4
 fmerPack: 0.0-1
 fmf: 1.1.1
@@ -11448,7 +11452,7 @@ fmriqa: 0.3.0
 fmrs: 1.0-9
 fmsb: 0.7.2
 fmt: '1.0'
-fmtr: 1.5.4
+fmtr: 1.5.5
 foba: '0.1'
 focusedMDS: 1.3.3
 foghorn: 1.4.2
@@ -12387,6 +12391,7 @@ gnn: 0.0-3
 gnomeGUI: 2.7.0-2
 gnomonicM: 1.0.1
 gnorm: 1.0.0
+gnrprod: 1.0.0
 gnumeric: 0.7-8
 goalprog: '1.0'
 goeveg: 0.5.1
@@ -13331,6 +13336,7 @@ inldata: 1.0.3
 inline: 0.3.19
 inlinedocs: 2019.12.5
 inlmisc: 0.5.2
+inlpubs: 1.0.2
 innsight: 0.1.0
 inops: 0.0.1
 inpdfr: 0.1.11
@@ -13354,6 +13360,7 @@ insurancerating: 0.6.9
 int64: 1.1.2
 intReg: 0.2-8
 intRegGOF: 0.85-5
+intRinsic: 0.2.0
 intRvals: 1.0.0
 intamap: 1.4-9
 intamapInteractive: 1.1-7
@@ -13558,7 +13565,7 @@ jSDM: 0.1.0
 jScore: 0.1.0
 jSonarR: 1.1.1
 jaatha: 3.2.1
-jab.adverse.reactions: 1.0.0
+jab.adverse.reactions: 1.0.1
 jabr: 0.1.2
 jaccard: 0.1.0
 jack: 1.1.1
@@ -14305,6 +14312,7 @@ longitudinal: 1.1.13
 longitudinalData: 2.4.1
 longitudinalcascade: 0.3.2.1
 longmemo: 1.1-2
+longmixr: 1.0.0
 longpower: 1.0.23
 longurl: 0.3.3
 loo: 2.4.1
@@ -15054,7 +15062,7 @@ mixAR: 0.22.5
 mixComp: 0.1-2
 mixEMM: '1.0'
 mixIndependR: 1.0.0
-mixKernel: '0.7'
+mixKernel: '0.8'
 mixOmics: 6.3.2
 mixPHM: 0.7-2
 mixR: 0.2.0
@@ -15163,7 +15171,7 @@ mlrintermbo: 0.5.0
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlt: 1.3-2
-mlt.docreg: 1.1-2
+mlt.docreg: 1.1-3
 mltest: 1.0.1
 mltools: 0.3.5
 mlvocab: '0.1'
@@ -15922,7 +15930,7 @@ nneo: 0.1.0
 nnet: 7.3-17
 nnetpredint: '1.2'
 nnfor: 0.9.6
-nngeo: 0.4.4
+nngeo: 0.4.5
 nnlasso: '0.3'
 nnlib2Rcpp: 0.1.8
 nnls: '1.4'
@@ -16992,7 +17000,7 @@ pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepends: 0.2.0
-pkgdown: 2.0.1
+pkgdown: 2.0.2
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
 pkglite: 0.2.0
@@ -17888,6 +17896,7 @@ rFerns: 5.0.0
 rForest: 0.1.4
 rGEDI: 0.1.9
 rGammaGamma: 1.0.12
+rGhanaCensus: 0.1.0
 rGoodData: 0.1.1
 rGroovy: '1.3'
 rHadoopClient: '0.2'
@@ -18427,7 +18436,7 @@ remotes: 2.4.2
 remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 0.15.0
+renv: 0.15.1
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
@@ -22490,7 +22499,7 @@ yuimaGUI: 1.3.0
 yulab.utils: 0.0.4
 yum: 0.1.0
 yummlyr: 0.1.1
-zCompositions: 1.3.4
+zCompositions: 1.4.0
 zFactor: 0.1.9
 zGPS.AO: 0.1.0
 zTree: 1.0.7
