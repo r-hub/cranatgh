@@ -822,6 +822,7 @@ CINID: 1.3-0
 CINNA: 1.1.55
 CINOEDV: '2.0'
 CINmetrics: 0.1.0
+CIS.DGLM: 0.1.0
 CISE: 0.1.0
 CITAN: 2021.11-1
 CIplot: '1.0'
@@ -2076,7 +2077,7 @@ FixedPoint: 0.6.2
 FlexDir: '1.0'
 FlexGAM: 0.7.2
 FlexParamCurve: 1.5-5
-FlexReg: '1.0'
+FlexReg: '1.1'
 FlexScan: 0.2.2
 FlickrAPI: 0.1.0.0
 FloodMapper: '1.0'
@@ -3251,7 +3252,7 @@ LowWAFOMNX: 1.1.1
 LowWAFOMSobol: 1.1.1
 LumReader: 0.1.0
 LumiWCluster: 1.0.2
-Luminescence: 0.9.17
+Luminescence: 0.9.18
 M2SMF: '2.0'
 M2SMJF: '1.0'
 M3: '0.3'
@@ -3265,6 +3266,7 @@ MAFDash: 0.1.0
 MAGEE: 1.0.1
 MAGNAMWAR: 2.0.4
 MAINT.Data: 2.6.2
+MAKL: 1.0.0
 MALDIquant: '1.21'
 MALDIquantForeign: '0.13'
 MALDIrppa: 1.0.5-1
@@ -4784,7 +4786,7 @@ RApiDatetime: 0.0.6
 RApiSerialize: 0.1.0
 RAppArmor: 3.2.2
 RArcInfo: '0.4'
-RAthena: 2.4.0
+RAthena: 2.5.0
 RAtmosphere: '1.1'
 RBF: 2.1.0
 RBGL: 1.28.0
@@ -5145,7 +5147,7 @@ RSQL: 0.1.4
 RSQLServer: 0.3.0
 RSQLite: 2.2.9
 RSQLite.extfuns: 0.0.1
-RSSL: 0.9.3
+RSSL: 0.9.5
 RSSOP: '1.1'
 RSSampling: '1.0'
 RSVGTipsDevice: 1.0-7
@@ -5731,7 +5733,7 @@ Rwofost: 0.8-3
 Rwordseg: 0.3-2
 Rwtss: 0.9.1
 RxCEcolInf: 0.1-5
-RxODE: 1.1.2
+RxODE: 1.1.4
 RxnSim: 1.0.3
 Rxnat: 1.0.8
 Ryacas: 1.1.3.1
@@ -6648,6 +6650,7 @@ TensorClustering: 1.0.2
 TensorComplete: 0.1.0
 TensorTest2D: 1.1.1
 Ternary: 2.0.0
+TesiproV: 0.9.1
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
 TestDesign: 1.2.6
@@ -6731,7 +6734,7 @@ TreeDist: 2.3.0
 TreeLS: 2.0.2
 TreePar: '3.3'
 TreeRank: 1.1-0
-TreeSearch: 1.0.1
+TreeSearch: 1.1.0
 TreeSim: '2.4'
 TreeSimGM: '2.5'
 TreeTools: 1.6.0
@@ -6844,7 +6847,7 @@ VDJgermlines: '0.1'
 VDSM: 0.1.1
 VDSPCalibration: '1.0'
 VEwaning: '1.1'
-VEwaningVariant: '1.1'
+VEwaningVariant: '1.2'
 VFP: '1.4'
 VFS: 1.0.2
 VGAM: 1.1-5
@@ -8486,6 +8489,7 @@ camel: 0.2.0
 campfin: 1.0.8
 camsRad: 0.3.0
 camtrapR: 2.0.3
+canadacovid: 0.3.1
 canadamaps: '0.1'
 cancensus: 0.4.8
 cancerGI: 1.0.0
@@ -9115,7 +9119,7 @@ commonmark: '1.7'
 commonsMath: 1.2.5
 communication: '0.1'
 comorbidities: '1.0'
-comorbidity: 0.5.3
+comorbidity: 1.0.0
 compHclust: 1.0-3
 compLasso: 0.0-1
 compOverlapCorr: '1.0'
@@ -9588,7 +9592,7 @@ cutoff: '1.3'
 cutoffR: '1.0'
 cutpointr: 1.1.1
 cuttlefish.model: '1.0'
-cvAUC: 1.1.0
+cvAUC: 1.1.4
 cvCovEst: 1.0.1
 cvGEE: 0.3-0
 cvTools: 0.3.2
@@ -9666,7 +9670,7 @@ dagirlite: 0.1.0
 dagitty: 0.3-1
 dagwood: 0.1.3
 daiR: 0.9.0
-dail: '1.0'
+dail: '1.1'
 dalmatian: 1.0.0
 dam: 0.0.1
 dampack: 1.0.1
@@ -10133,7 +10137,7 @@ distillery: 1.2-1
 disto: 0.2.0
 distory: 1.4.4
 distr: 2.8.0
-distr6: 1.6.2
+distr6: 1.6.4
 distrDoc: 2.8.0
 distrEllipse: 2.8.0
 distrEx: 2.8.0
@@ -10397,6 +10401,7 @@ dynOmics: '1.2'
 dynRB: '0.16'
 dynaSpec: 1.0.1
 dynaTree: 1.2-10
+dynamAedes: 2.0.2
 dynamac: 0.1.11
 dynamicGraph: 0.2.2
 dynamicTreeCut: 1.63-1
@@ -11275,7 +11280,7 @@ ferrn: 0.0.1
 fetchR: 2.1-1
 ff: 4.0.5
 ffbase: 0.13.3
-fflr: 2.0.1
+fflr: 2.0.2
 ffmanova: 1.1.0
 ffmetadata: 1.0.0
 ffp: 0.1.0
@@ -11350,6 +11355,7 @@ firebehavioR: 0.1.2
 fishMod: '0.29'
 fishbc: 0.2.1
 fishdata: 1.0.1
+fisheye: 0.1.0
 fisheyeR: '0.9'
 fishflux: 0.0.1
 fishkirkko2015: 1.0.0
@@ -12666,7 +12672,7 @@ gwfa: 0.0.4
 gwpcormapper: 0.1.3
 gwrpvr: '1.0'
 gwrr: 0.2-1
-gwsem: 2.1.3
+gwsem: 2.1.4
 gym: 0.1.0
 gyriq: 1.0.2
 h2o: 3.36.0.1
@@ -13450,7 +13456,7 @@ ipcwswitch: 1.0.4
 ipdmeta: '2.4'
 ipdw: 0.2-9
 ipeaData: 0.0.2
-ipeadatar: 0.1.4
+ipeadatar: 0.1.5
 ipflasso: '1.1'
 ipfp: 1.0.1
 ipfr: 1.0.2
@@ -14015,7 +14021,7 @@ leafSTAR: '1.0'
 leafdown: 1.0.0
 leafem: 0.1.6
 leafgl: 0.1.1
-leaflegend: 0.5.0
+leaflegend: 0.6.0
 leaflet: 2.0.4.1
 leaflet.esri: 1.0.0
 leaflet.extras: 1.0.0
@@ -15948,7 +15954,7 @@ nntrf: 0.1.4
 noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
-noctua: 2.4.0
+noctua: 2.5.0
 nodbi: 0.7.0
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
@@ -17177,6 +17183,7 @@ polAr: 0.2.0
 polaroid: 0.0.1
 policytree: 1.1.1
 polidata: 0.1.0
+polimetrics: 1.2.1.14
 poliscidata: 2.3.0
 polished: 0.5.0
 polite: 0.1.1
@@ -18262,7 +18269,7 @@ rdyncall: 0.7.5
 re2: 0.1.1
 re2r: 0.2.0
 reGenotyper: 1.2.0
-reReg: 1.4.1
+reReg: 1.4.2
 reactR: 0.4.4
 reactable: 0.2.3
 reactablefmtr: 1.0.0
@@ -18496,7 +18503,7 @@ resample: '0.4'
 resampledata: 0.3.1
 resautonet: '1.0'
 rescue: 1.0.3
-resemble: 2.0.0
+resemble: 2.1.2
 reservoir: 1.1.5
 resevol: 0.2.0.9
 reshape: 0.8.8
@@ -18611,7 +18618,7 @@ rgrassdoc: 1.0.0
 rgrs: '0.3'
 rgsp: 0.2.0
 rgtmx: 0.1.4
-rgugik: 0.3.1
+rgugik: 0.3.2
 rgw: 0.3.0
 rhandsontable: 0.3.8
 rhcoclust: 1.1.0
@@ -18817,7 +18824,7 @@ robregcc: '1.1'
 robsel: 0.1.0
 robservable: 0.2.1
 robslopes: 1.0.2
-robsurvey: 0.1.1
+robsurvey: '0.2'
 robumeta: '2.0'
 robust: 0.6-1
 robust2sls: 0.1.0
@@ -19120,6 +19127,7 @@ rtrend: 0.1.2
 rtrends: 0.1.0
 rtrie: 0.1.1
 rtrim: 2.1.1
+rtry: 1.0.0
 rts: 1.1-3
 rtsVis: 0.0.3
 rtsdata: 0.1.3
@@ -20417,7 +20425,7 @@ spoccutils: 0.1.0
 spoiler: 1.0.0
 spongebob: 0.4.0
 spongecake: 0.1.2
-spork: 0.2.1
+spork: 0.2.2
 sporm: 1.1.1
 sport: 0.2.0
 sportyR: 1.0.1
@@ -20427,7 +20435,7 @@ spotifyr: 2.2.3
 spotoroo: 0.1.2
 spp: 1.16.0
 sppmix: 1.0.2
-spray: 1.0-18
+spray: 1.0-19
 spread: 2019.8.5
 spreadr: 0.2.0
 spreval: 1.0.0
@@ -20564,7 +20572,7 @@ startR: 2.1.0
 starter: 0.1.8
 startup: 0.16.0
 startupmsg: 0.9.6
-starvars: 1.1.9
+starvars: 1.1.10
 starvz: 0.7.0
 starwarsdb: 0.1.2
 stashR: '0.3'
@@ -22527,7 +22535,7 @@ zenplots: 1.0.4
 zeroEQpart: 0.1.0
 zetadiv: 1.2.0
 zfa: '1.0'
-zfit: 0.1.0
+zfit: 0.3.0
 zic: 0.9.1
 zicounts: 1.1.5
 zip: 2.2.0
