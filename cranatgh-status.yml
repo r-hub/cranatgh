@@ -575,6 +575,7 @@ BayesianReasoning: 0.4.1
 BayesianTools: 0.1.7
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
+Bayesiantreg: '1.0'
 Bayesrel: 0.7.1
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
@@ -757,7 +758,7 @@ CAvariants: '5.6'
 CB2: 1.3.4
 CBCgrps: 2.8.2
 CBDA: 1.0.0
-CBPS: '0.22'
+CBPS: '0.23'
 CBSr: 1.0.5
 CBT: '1.0'
 CC: '1.0'
@@ -3275,7 +3276,7 @@ MAMA: 2.2.1
 MAMS: 2.0.0
 MAMSE: 0.2-1
 MANCIE: '1.4'
-MANOVA.RM: 0.5.2
+MANOVA.RM: 0.5.3
 MAP: 0.1.3
 MAPA: 2.0.4
 MAPITR: 1.1.2
@@ -3871,7 +3872,7 @@ My.stepwise: 0.1.0
 Myrrix: '1.2'
 Myrrixjars: 1.0-2
 N2H4: 0.5.9
-N2R: 1.0.0
+N2R: 1.0.1
 NACHO: 1.1.0
 NADA: 1.6-1.1
 NADA2: 1.0.1
@@ -4401,7 +4402,7 @@ PWD: '1.0'
 PWEALL: 1.3.0
 PWFSLSmoke: 1.2.117
 PabonLasso: '1.0'
-Pade: 1.0.3
+Pade: 1.0.4
 PairTrading: '1.1'
 PairViz: 1.3.5
 PairedData: 1.1.1
@@ -4542,7 +4543,7 @@ PolyTrend: '1.2'
 Polychrome: 1.3.1
 PolynomF: 2.0-3
 Pomic: 1.0.4
-PoolTestR: 0.1.1
+PoolTestR: 0.1.2
 PooledCohort: 0.0.1
 PooledMeanGroup: '1.0'
 PopED: 0.6.0
@@ -4568,7 +4569,7 @@ PowerTOST: 1.5-3
 PowerUpR: 1.1.0
 PowerVenn: 0.0.1
 PowerfulMaxEigenpair: 0.1.1
-PracTools: 1.2.4
+PracTools: 1.2.5
 PracticalEquiDesign: 0.0.3
 PreKnitPostHTMLRender: 0.1.0
 PreProcess: 3.1.7
@@ -5265,8 +5266,8 @@ RandMeta: 0.1.0
 RandPro: 0.2.2
 RandVar: 1.2.1
 RandomCoefficients: 0.0.2
-RandomFields: 3.3.13
-RandomFieldsUtils: 0.5.6
+RandomFields: 3.3.14
+RandomFieldsUtils: 1.1.0
 RandomForestsGLS: 0.1.3
 Randomuseragent: 0.0.1
 RanglaPunjab: 2.3.4
@@ -7873,7 +7874,7 @@ bcaboot: 0.2-3
 bcc: 1.3.1
 bccp: 0.5.0
 bcdata: 0.3.0
-bcf: '1.3'
+bcf: 1.3.1
 bcfrailph: 0.1.0
 bcfrailphdv: 0.1.0
 bcgam: '1.0'
@@ -8314,7 +8315,7 @@ bpp: 1.0.4
 bpr: 1.0.4
 bqror: 1.3.0
 bqtl: 1.0-33
-braQCA: 1.0.0.1
+braQCA: 1.2.1.18
 bracer: 1.2.1
 braggR: 0.1.1
 braidReports: 0.5.4
@@ -8924,7 +8925,7 @@ clpAPI: 1.3.1
 clr: 0.1.2
 clrdag: 0.6.0
 clttools: '1.3'
-clubSandwich: 0.5.4
+clubSandwich: 0.5.5
 clue: 0.3-60
 clues: 0.6.2.2
 clusTransition: '1.0'
@@ -10412,6 +10413,7 @@ dynamicGraph: 0.2.2
 dynamicTreeCut: 1.63-1
 dynamichazard: 1.0.1
 dynamo: '1.0'
+dynatop: 0.2.1
 dynatopGIS: 0.2.1
 dynatopmodel: 1.2.1
 dyncomp: 0.0.2-1
@@ -12396,7 +12398,7 @@ gms: 0.4.0
 gmt: 2.0.2
 gmum.r: 0.2.1
 gmvalid: '1.2'
-gmvarkit: 2.0.1
+gmvarkit: 2.0.2
 gmwm: 2.0.0
 gnFit: 0.2.0
 gnlm: 1.1.1
@@ -13098,11 +13100,11 @@ iMediate: 0.5.5
 iMessager: '1.0'
 iNEXT: 2.0.20
 iNOTE: '1.0'
-iNZightMR: 2.2.5
+iNZightMR: 2.2.6
 iNZightPlots: 2.13.3
 iNZightRegression: 1.3.1
 iNZightTS: 1.5.8
-iNZightTools: 1.12.1
+iNZightTools: 1.12.2
 iNextPD: 0.3.2
 iRF: 2.0.0
 iRafNet: 1.1-1
@@ -13906,7 +13908,7 @@ lago: 0.1-1
 lagsarlmtree: 1.0-1
 lakemorpho: 1.2.0
 laketemps: 0.5.1
-lamW: 2.1.0
+lamW: 2.1.1
 lambda.r: 1.2.4
 lambda.tools: 1.0.9
 lambdaTS: 1.0.0
@@ -14302,7 +14304,7 @@ logib: 0.1.2
 logicDT: 1.0.1
 logihist: '1.0'
 logilasso: 0.1.0
-logistf: '1.24'
+logistf: 1.24.1
 logistiX: '1.0'
 logistic4p: '1.5'
 logisticPCA: '0.2'
@@ -14683,7 +14685,7 @@ mcStats: 0.1.2
 mcb: 0.1.15
 mcbette: '1.13'
 mcbiopi: 1.1.6
-mcboost: 0.3.3.0
+mcboost: 0.4.0
 mcc: '1.0'
 mcca: 0.7.0
 mccca: 0.1.0
@@ -15691,6 +15693,7 @@ naivebayes: 0.9.7
 naivereg: 1.0.5
 nakagami: 1.1.0
 namedCapture: 2020.4.1
+namedropR: 2.1.1
 namer: 0.1.5
 namespace: 0.9.1
 nametagger: 0.1.1
@@ -18210,7 +18213,7 @@ rcites: 1.2.0
 rcitoid: 0.1.0
 rclimateca: 1.0.3
 rclinicaltrials: '1.4'
-rclipboard: 0.1.3
+rclipboard: 0.1.4
 rcmdcheck: 1.4.0
 rco: 1.0.2
 rcol: 0.2.0
@@ -19147,7 +19150,7 @@ rtypeform: 2.1.0
 rubias: 0.3.2
 rucm: '0.6'
 rucrdtw: 0.1.4
-rugarch: 1.4-4
+rugarch: 1.4-6
 ruimtehol: '0.3'
 ruin: 0.1.1
 ruler: 0.2.4
@@ -19494,7 +19497,7 @@ seasonalityPlot: 0.99.3
 seasonalview: '0.3'
 seastests: 0.15.4
 seawaveQ: 2.0.2
-secr: 4.5.0
+secr: 4.5.1
 secrdesign: 2.5.11
 secret: 1.1.0
 secrettext: 0.1.0
@@ -20042,7 +20045,7 @@ smartsnp: 1.1.0
 smatr: 3.4-8
 smbinning: '0.9'
 smcUtils: '0.2'
-smcfcs: 1.6.0
+smcfcs: 1.6.1
 smco: '0.1'
 smcure: '2.0'
 smd: 0.6.6
@@ -21280,7 +21283,7 @@ tidyboot: 0.1.1
 tidycat: 0.1.2
 tidycells: 0.2.2
 tidycensus: '1.1'
-tidycharts: 0.1.2
+tidycharts: 0.1.3
 tidycmprsk: 0.1.0
 tidycode: 0.1.1
 tidycomm: 0.2.1
@@ -21773,7 +21776,7 @@ tzupdater: 0.1.2
 u5mr: 0.1.1
 uCAREChemSuiteCLI: 0.2.0
 uFTIR: 0.1.4
-uGMAR: 3.4.0
+uGMAR: 3.4.1
 uHMM: '1.0'
 uaparserjs: 0.3.5
 uavRmp: 0.5.7
