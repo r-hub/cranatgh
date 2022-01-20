@@ -1086,7 +1086,7 @@ CoOL: 1.0.3
 CoRpower: 1.0.4
 CoSMoS: 2.1.0
 CoSeg: '0.38'
-CoTiMA: 0.5.2
+CoTiMA: 0.5.4
 CodataGS: '1.43'
 CodeDepends: 0.6.5
 CohortPlat: 1.0.3
@@ -1489,7 +1489,7 @@ DeducerSurvival: 0.1-0
 DeducerText: 0.1-2
 DeductiveR: 1.0.0
 Defaults: 1.1-1
-Delaporte: 8.0.1
+Delaporte: 8.0.2
 DelayedEffect.Design: 0.0.4
 Delta: 0.2.0.3
 Demerelate: 0.9-3
@@ -4010,7 +4010,7 @@ NetFACS: 0.3.0
 NetIndices: 1.4.4
 NetLogoR: 0.3.9
 NetMix: 0.2.0
-NetOrigin: 1.1-2
+NetOrigin: 1.1-4
 NetPreProc: '1.1'
 NetRep: 1.2.4
 NetSci: 0.1.2
@@ -5116,7 +5116,7 @@ RPyGeo: 1.0.0
 RQDA: 0.3-1
 RQEntangle: 0.1.3
 RQGIS: 1.0.4
-RQuantLib: 0.4.14
+RQuantLib: 0.4.15
 RRBoost: '0.1'
 RRF: 1.9.1
 RRI: '1.1'
@@ -6737,6 +6737,7 @@ TreatmentSelection: 2.1.1
 TreeBUGS: 1.4.7
 TreeDep: 0.1.3
 TreeDiagram: 0.1.1
+TreeDimensionTest: 0.0.1
 TreeDist: 2.3.0
 TreeLS: 2.0.2
 TreePar: '3.3'
@@ -8997,7 +8998,7 @@ cmprskcoxmsm: 0.2.1
 cmpsR: 0.1.0
 cmrutils: 1.3.1
 cms: 0.1.0
-cmsaf: 3.3.1
+cmsaf: 3.4.0
 cmsafops: 1.2.2
 cmsafvis: 1.1.9
 cmstatr: 0.9.1
@@ -9541,7 +9542,7 @@ ctest: 0.9-21
 ctf: 0.1.0
 ctgdist: 0.1.0
 ctgt: '2.0'
-cthist: 0.1.2
+cthist: 0.1.3
 cthresh: '4.5'
 cthreshER: 1.1.0
 ctl: 1.0.0-4
@@ -12153,7 +12154,7 @@ ggfocus: 1.0.0
 ggforce: 0.3.3
 ggformula: 0.10.1
 ggfortify: 0.4.14
-ggfun: 0.0.4
+ggfun: 0.0.5
 ggfx: 1.0.0
 gggap: 1.0.1
 gggenes: 0.4.1
@@ -12498,6 +12499,7 @@ gradDescentR: .na.character
 grade: 0.2-1
 gradeR: 1.0.10
 gradientPickerD3: 0.1.0.0
+grafify: 2.0.0
 grainchanger: 0.3.2
 grainscape: 0.4.3
 gramEvol: 2.1-4
@@ -12725,6 +12727,7 @@ haploR: 4.0.6
 haploReconstruct: 0.1.2
 haplotyper: '0.1'
 haplotypes: 1.1.2
+happign: 0.1.0
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
@@ -13003,7 +13006,7 @@ httr: 1.4.2
 httr2: 0.1.1
 hues: 0.2.0
 huge: 1.3.5
-huito: 0.1.1
+huito: 0.1.2
 humanFormat: '1.0'
 humaniformat: 0.6.0
 humanize: 0.2.0
@@ -14813,7 +14816,7 @@ memnet: 0.1.0
 memo: 1.0.1
 memochange: 1.1.1
 memofunc: 1.0.2
-memoiR: 1.1-3
+memoiR: 1.1-4
 memoise: 2.0.1
 memor: 0.2.3
 memoria: 1.0.0
@@ -16314,7 +16317,7 @@ optR: 1.2.5
 optband: 0.2.1
 optbdmaeAT: 1.0.1
 optbin: '1.1'
-optedr: 1.0.0
+optedr: 1.0.1
 optextras: 2019-12.4
 optiRum: 0.40.1
 optiSel: 2.0.5
@@ -18247,7 +18250,7 @@ rcube: '0.5'
 rcure: 0.1.0
 rcv: 0.2.1
 rda: '1.0'
-rdacca.hp: 1.0-5
+rdacca.hp: 1.0-6
 rdaemon: 1.0.6
 rdatacite: 0.5.2
 rdatamarket: '0.6'
@@ -19040,7 +19043,7 @@ rsatscan: 0.3.9200
 rsbml: '1.2'
 rsbp: 0.1.0
 rscala: 3.2.19
-rscc: 0.2.0
+rscc: 0.2.1
 rscielo: 1.0.0
 rscimark: '1.0'
 rsconnect: 0.8.25
@@ -19324,7 +19327,7 @@ sarp.snowprofile.alignment: 1.0.2
 sars: 1.3.5
 sarsop: 0.6.9
 sas7bdat: '0.5'
-sasLM: 0.6.4
+sasLM: 0.6.5
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.0
@@ -21086,6 +21089,7 @@ taxalight: 0.1.5
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.2
+taxonbridge: 1.0.1
 taxonomizr: 0.8.0
 taxotools: 0.0.79
 tayloRswift: 0.1.0
@@ -21303,7 +21307,7 @@ tidyfast: 0.2.1
 tidyfst: 1.5.0
 tidyft: 0.4.5
 tidygapminder: 0.1.1
-tidygate: 0.4.8
+tidygate: 0.4.9
 tidygenomics: 0.1.2
 tidygeoRSS: 0.0.1
 tidygeocoder: 1.0.5
@@ -21959,7 +21963,7 @@ valuer: 1.1.2
 vamc: 0.2.1
 vampyr: 1.1.1
 vanddraabe: 1.1.1
-vannstats: 1.2.1.8
+vannstats: 1.2.1.19
 vanquish: 1.0.0
 vapour: 0.8.5
 varComp: 0.2-0
