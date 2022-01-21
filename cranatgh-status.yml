@@ -1751,7 +1751,7 @@ EXRQ: '1.0'
 EZtune: 3.1.1
 Eagle: '2.5'
 EasyABC: '1.5'
-EasyDescribe: 0.1.0
+EasyDescribe: 0.1.1
 EasyHTMLReport: 0.1.1
 EasyMARK: '1.0'
 EasyMx: 0.2-12
@@ -1781,7 +1781,7 @@ EffectTreat: '1.1'
 EffectiveDose: 1.0-7
 EffectsRelBaseline: '0.5'
 EfficientMaxEigenpair: 0.1.4
-EigenR: 1.2.0
+EigenR: 1.2.1
 ElastH: '0.3'
 EleChemr: 1.2.0
 ElectroGraph: 0.9.3
@@ -2342,7 +2342,7 @@ GUIDE: 1.2.7
 GUILDS: '1.3'
 GUIProfiler: 2.0.1
 GUIgems: '0.1'
-GUTS: '1.2'
+GUTS: 1.2.1
 GUniFrac: '1.4'
 GVARX: '1.3'
 GWAF: '2.2'
@@ -4495,7 +4495,7 @@ PheNorm: 0.1.0
 PheVis: 1.0.2
 Phenotype: 0.1.0
 PhenotypeSimulator: 0.3.4
-PhitestR: 0.1.0
+PhitestR: 0.2.0
 PhotosynQ: 0.2.3
 Phxnlme: 1.0.0
 PhyActBedRest: '1.0'
@@ -5885,7 +5885,7 @@ SII: 1.0.3.1
 SILGGM: 1.0.0
 SILM: 1.0.0
 SIMMS: 1.3.1
-SIMPLE.REGRESSION: 0.1.2
+SIMPLE.REGRESSION: 0.1.3
 SIN: '0.6'
 SINGLE: '1.3'
 SIPDIBGE: 0.1.6
@@ -9225,7 +9225,7 @@ connectedness: '0.2'
 connections: 0.1.1
 connectwidgets: 0.1.1
 conogive: 1.0.0
-conos: 1.4.4
+conos: 1.4.5
 conover.test: 1.1.5
 conquer: 1.2.1
 conquestr: 0.8.5
@@ -9639,6 +9639,7 @@ cyclocomp: 1.1.0
 cycloids: '1.0'
 cyclomort: 1.0.2
 cyclones: 1.2-9
+cyjShiny: 1.0.34
 cylcop: 0.1.0
 cymruservices: 0.5.0
 cyphid: '1.1'
@@ -9820,7 +9821,7 @@ dclust: 0.1.0
 dcminfo: 0.1.7
 dcmle: 0.3-1
 dcmodify: 0.1.9
-dcmodifydb: 0.1.2
+dcmodifydb: 0.2.0
 dcmr: '1.0'
 dcortools: 0.1.2
 dcov: 0.1.1
@@ -10453,7 +10454,7 @@ eChem: 1.0.0
 eDMA: 1.5-3
 eFRED: 0.1.0
 eGST: 1.0.0
-eHOF: '1.10'
+eHOF: '1.11'
 eLNNpaired: 0.2.3
 eList: 0.2.0
 eMLEloglin: 1.0.1
@@ -10815,7 +10816,7 @@ epitable: 0.1.2
 epitools: 0.5-10.1
 epitrix: 0.2.2
 epitweetr: 2.0.3
-eplusr: 0.15.0
+eplusr: 0.15.1
 eply: 0.1.2
 epoc: 0.2.6-1.1
 epocakir: 0.9.7
@@ -12350,6 +12351,7 @@ glmmEP: 1.0-3.1
 glmmGS: '0.5'
 glmmLasso: 1.5.1
 glmmML: 1.1.1
+glmmPen: 1.5.1.8
 glmmSeq: 0.1.0
 glmmTMB: 1.1.2.3
 glmmboot: 0.6.0
@@ -13213,7 +13215,7 @@ idmodelr: 0.3.2
 idr: '1.2'
 ids: 1.0.1
 idx2r: 1.0.0
-ie2misc: 0.8.6
+ie2misc: 0.8.8
 ie2miscdata: 1.0.1
 ieeeround: 0.2-0
 iemisc: 0.9.9
@@ -15772,6 +15774,7 @@ neat: 1.2.3
 neatRanges: 0.1.3
 neatStats: 1.8.1
 neatmaps: 2.1.0
+nebula: 1.2.0
 needmining: 0.1.1
 needs: 0.0.3
 needy: '0.2'
@@ -15859,6 +15862,7 @@ nfda: '0.2'
 nfer: 1.0.1
 nfl4th: 1.0.1
 nflfastR: 4.3.0
+nflplotR: 1.0.0
 nflreadr: 1.1.2
 nflseedR: 1.0.2
 nftbart: '1.1'
@@ -16264,7 +16268,7 @@ ontologySimilarity: '2.5'
 oolong: 0.4.1
 oompaBase: 3.2.9
 oompaData: 3.1.1
-ooplah: 0.1.0
+ooplah: 0.2.0
 oops: 0.1.0
 oosp: 0.3.3
 opGMMassessment: '0.3'
@@ -17348,7 +17352,7 @@ ppiPre: '1.9'
 ppitables: 0.5.4
 ppls: 1.6-1
 ppmHR: '1.0'
-ppmSuite: 0.1.8
+ppmSuite: 0.2.1
 ppmf: 0.1.3
 ppmlasso: '1.1'
 ppr: 1.1-2
@@ -18206,6 +18210,7 @@ rbvs: '1.0'
 rbw: 0.3.0
 rcDEA: '1.0'
 rcage: '1.1'
+rcaiman: 0.1.1
 rcane: '1.0'
 rcanvec: 0.2.1
 rcarbon: 1.4.2
@@ -18655,7 +18660,7 @@ rhmc: 1.0.0
 rhmmer: 0.1.0
 rhnerm: '1.1'
 rhoR: 1.3.0.3
-rhosa: 0.1.0
+rhosa: 0.2.0
 rhosp: '1.07'
 rhub: 1.1.1
 rhymer: 1.1.0
@@ -21043,7 +21048,7 @@ tablerDash: 0.1.0
 tables: 0.9.6
 tableschema.r: 1.1.1
 tablesgg: 0.8-1
-tablet: 0.4.0
+tablet: 0.4.8
 tabnet: 0.3.0
 tabplot: '1.3'
 tabplotGTK: '0.6'
@@ -22215,7 +22220,7 @@ wavefunction: 1.0.0
 wavelets: 0.3-0.2
 wavemulcor: 3.1.2
 waver: 0.2.1
-waves: 0.1.1
+waves: 0.2.0
 waveslim: 1.8.2
 wavethresh: 4.6.8
 wayback: 0.2.4
