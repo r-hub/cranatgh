@@ -1531,7 +1531,7 @@ DiPs: 0.6.2
 DiSSMod: 1.0.0
 DiagTest3Grp: '1.6'
 DiagnosisMed: '0.2'
-DiagrammeR: 1.0.7
+DiagrammeR: 1.0.8
 DiagrammeRsvg: '0.1'
 DiallelAnalysisR: 0.4.0
 DiceDesign: '1.9'
@@ -3309,7 +3309,7 @@ MBC: 0.10-5
 MBCbook: 0.1.1
 MBCluster.Seq: '1.0'
 MBESS: 4.8.1
-MBHdesign: 2.1.11
+MBHdesign: 2.2.2
 MBI: '1.0'
 MBNMAdose: 0.3.0
 MBNMAtime: 0.2.1
@@ -3739,7 +3739,7 @@ MicroNiche: 1.0.0
 MicroSEC: 1.1.3
 MicroStrategyR: 1.0-1
 MicrobiomeStat: '1.1'
-Microsoft365R: 2.3.2
+Microsoft365R: 2.3.3
 MigClim: '1.6'
 MinBAR: 1.1.3
 MinEDfind: 0.1.3
@@ -5391,7 +5391,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.8
 RcppAlgos: 2.4.3
 RcppAnnoy: 0.0.19
-RcppArmadillo: 0.10.7.5.0
+RcppArmadillo: 0.10.8.1.0
 RcppBDT: 0.2.4
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
@@ -7159,7 +7159,7 @@ activityCounts: 0.1.2
 activityGCMM: 1.1.1
 activpalProcessing: '1.0'
 actogrammr: 0.2.3
-actuar: 3.2-0
+actuar: 3.2-1
 actuaryr: 1.1.1
 acumos: 0.4-4
 ada: 2.0-5
@@ -9981,7 +9981,7 @@ devtoolbox: 0.1.0
 devtools: 2.4.3
 dexter: 1.1.4
 dexterMST: 0.9.2
-dextergui: 0.2.3
+dextergui: 0.2.4
 df2json: 0.0.2
 dfCompare: 1.0.0
 dfConn: 0.2.1
@@ -10128,14 +10128,14 @@ diskmemoiser: 1.0-1
 dismo: 1.3-5
 disordR: 0.0-9
 disp2D: '1.0'
-dispRity: 1.6.0
+dispRity: 1.6.8
 disparityfilter: 2.2.3
 displayHTS: '1.0'
 dispmod: '1.2'
 disposables: 1.0.3
 dispositionEffect: 1.0.0
 disprofas: 0.1.3
-disprose: 0.1.3
+disprose: 0.1.4
 dissCqN: 0.1.0
 dissUtils: '1.0'
 dissever: 0.2-3
@@ -11128,7 +11128,7 @@ factualR: '0.5'
 fad: 0.3-3
 fail: '1.3'
 fairadapt: 0.2.1
-fairml: '0.6'
+fairml: 0.6.1
 fairmodels: 1.2.0
 fairness: 1.2.2
 fairselect: 0.1-1
@@ -12033,6 +12033,7 @@ geometries: 0.2.0
 geometry: 0.4.5
 geomnet: 0.3.1
 geomorph: 4.0.1
+geomtextpath: 0.1.0
 geomultistar: 1.1.0
 geonames: '0.999'
 geonapi: 0.5-1
@@ -12741,7 +12742,7 @@ happign: 0.1.0
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
-hardhat: 0.1.6
+hardhat: 0.2.0
 harmonicmeanp: '3.0'
 harmonizer: 0.1.0
 harmony: 0.1.0
@@ -13118,7 +13119,7 @@ iMessager: '1.0'
 iNEXT: 2.0.20
 iNOTE: '1.0'
 iNZightMR: 2.2.6
-iNZightPlots: 2.13.3
+iNZightPlots: 2.14.0
 iNZightRegression: 1.3.1
 iNZightTS: 1.5.8
 iNZightTools: 1.12.2
@@ -13371,7 +13372,7 @@ inlabru: 2.4.0
 inldata: 1.0.3
 inline: 0.3.19
 inlinedocs: 2019.12.5
-inlmisc: 0.5.2
+inlmisc: 0.5.5
 inlpubs: 1.0.2
 innsight: 0.1.0
 inops: 0.0.1
@@ -13966,7 +13967,7 @@ latentgraph: '1.1'
 latentnet: 2.10.5
 latentnetHRT: 0.7-18
 later: 1.3.0
-latex2exp: 0.5.0
+latex2exp: 0.9.0
 latexdiffr: 0.1.0
 latexpdf: 0.1.7
 latrend: 1.2.1
@@ -15815,6 +15816,7 @@ netgsa: 4.0.3
 netgwas: '1.13'
 netie: '1.0'
 netjack: 1.2.0
+netmap: 0.1.0
 netmeta: 2.1-0
 netmhc2pan: 1.3.1
 netmodels: '0.2'
@@ -16238,6 +16240,7 @@ ompr.roi: 0.8.0
 omsvg: 0.1.0
 omu: 1.0.4
 omxr: 0.3.3
+onadata: '0.1'
 onbabynames: 0.0.1
 onbrand: 1.0.2
 onc.api: 2.0.1.0
@@ -17587,6 +17590,7 @@ pspline: 1.0-17
 pspline.inference: 1.0.4
 psqn: 0.3.0
 psr: 0.1.0
+psre: 0.1.0
 psrwe: '3.0'
 pssm: '1.1'
 pssmooth: 1.0.3
@@ -17715,7 +17719,7 @@ qdm: 0.1-0
 qfa: 0.0-10
 qfasar: 1.2.1
 qgam: 1.3.4
-qgcomp: 2.8.5
+qgcomp: 2.8.6
 qgcompint: 0.6.6
 qgen: 0.03-02
 qgg: 1.0.4
@@ -17784,7 +17788,7 @@ qtl: '1.50'
 qtl2: '0.28'
 qtl2convert: '0.26'
 qtl2fst: '0.26'
-qtl2ggplot: 1.1.0
+qtl2ggplot: 1.2.1
 qtl2pattern: 1.0.17
 qtl2pleio: 1.4.3
 qtlDesign: '0.941'
@@ -18487,7 +18491,7 @@ remotes: 2.4.2
 remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 0.15.1
+renv: 0.15.2
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
@@ -18960,7 +18964,7 @@ roxytest: 0.0.1
 royston: '1.2'
 rpact: 3.2.1
 rpanel: 1.1-5
-rpart: 4.1-15
+rpart: 4.1.16
 rpart.LAD: 0.1.2
 rpart.permutation: '1.01'
 rpart.plot: 3.1.0
@@ -19126,7 +19130,7 @@ rsvd: 1.0.5
 rsvddpd: 1.0.0
 rsvg: 2.1.2
 rsyncrosim: 1.3.2
-rsyntax: 0.1.2
+rsyntax: 0.1.3
 rsyslog: 1.0.2
 rt: 1.1.0
 rt.test: 1.18.7.9
@@ -19137,7 +19141,7 @@ rtape: '2.2'
 rtdists: 0.11-5
 rtematres: '0.2'
 rtemps: 0.8.0
-rtern: 0.1.1
+rtern: 0.1.2
 rtext: 0.1.22
 rtf: 0.4-14.1
 rtfbs: '0.3'
@@ -20803,7 +20807,7 @@ subsamp: 0.1.0
 subscore: '3.1'
 subscreen: 3.0.5
 subselect: 0.15.2
-subsemble: 0.0.9
+subsemble: 0.1.0
 subspace: 1.0.4
 subspaceMOA: 0.6.0
 subtee: 1.0.0
@@ -21380,7 +21384,7 @@ tigreBrowserWriter: 0.1.5
 tigris: '1.5'
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
-tiledb: 0.10.2
+tiledb: 0.11.0
 tilegramsR: 0.2.0
 tilemaps: 0.2.0
 tiler: 0.2.5
@@ -21804,7 +21808,7 @@ tzupdater: 0.1.2
 u5mr: 0.1.1
 uCAREChemSuiteCLI: 0.2.0
 uFTIR: 0.1.4
-uGMAR: 3.4.1
+uGMAR: 3.4.2
 uHMM: '1.0'
 uaparserjs: 0.3.5
 uavRmp: 0.5.7
@@ -21891,7 +21895,7 @@ untb: 1.7-4
 unusualprofile: 0.1.0
 unvotes: 0.3.0
 upclass: '2.0'
-updog: 2.1.1
+updog: 2.1.2
 uplift: 0.3.5
 uplifteval: 0.1.0
 upmfit: 0.1.0
@@ -22407,7 +22411,7 @@ wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
 wrGraph: 1.3.0
-wrMisc: 1.8.0
+wrMisc: 1.8.1
 wrProteo: 1.5.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.7
