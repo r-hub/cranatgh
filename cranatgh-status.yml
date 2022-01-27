@@ -188,7 +188,7 @@ AeroSampleR: 0.1.12
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
-AgroR: 1.2.5
+AgroR: 1.2.6
 AgroReg: 1.2.1
 AgroTech: 1.0.1
 AhoCorasickTrie: 0.1.2
@@ -452,7 +452,7 @@ BSBT: 1.2.0
 BSDA: 1.2.1
 BSGS: '2.0'
 BSGW: 0.9.2
-BSL: 3.2.2
+BSL: 3.2.3
 BSPADATA: '1.0'
 BSS: 0.1.0
 BSSasymp: 1.2-3
@@ -1787,6 +1787,7 @@ ElastH: '0.3'
 EleChemr: 1.2.0
 ElectroGraph: 0.9.3
 ElemStatLearn: 2015.6.26
+ElliptCopulas: 0.1.1
 EloChoice: 0.29.4
 EloOptimized: 0.3.1
 EloRating: 0.46.11
@@ -1951,7 +1952,7 @@ FITSio: 2.1-6
 FKBL: 0.50-4
 FKF: 0.2.3
 FKF.SP: 0.1.3
-FKSUM: 0.1.4
+FKSUM: 1.0.0
 FLAME: 2.1.1
 FLCore: 1.4-4
 FLEDA: 1.4-3
@@ -2522,6 +2523,7 @@ HCD: '0.1'
 HCR: 0.1.1
 HCT: 0.1.0
 HCTR: 0.1.1
+HCV: 1.1.0
 HCmodelSets: 1.1.2
 HDBRR: 1.1.3
 HDCI: 1.0-2
@@ -2552,7 +2554,7 @@ HGLMMM: '0.1'
 HGMND: 0.1.0
 HGNChelper: 0.8.1
 HGSL: 1.0.0
-HH: 3.1-43
+HH: 3.1-47
 HHG: 2.3.4
 HI: '0.4'
 HIBAG: 1.2.4
@@ -3268,7 +3270,7 @@ MACER: 0.1.1
 MADAM: '1.2'
 MADPop: 1.1.2
 MAFDash: 0.1.0
-MAGEE: 1.0.1
+MAGEE: 1.0.2
 MAGNAMWAR: 2.0.4
 MAINT.Data: 2.6.2
 MAKL: 1.0.0
@@ -6325,7 +6327,7 @@ SpatialRegimes: '0.2'
 SpatialRoMLE: 0.1.0
 SpatialTools: 1.0.4
 SpatialVS: '1.1'
-SpatialVx: '0.8'
+SpatialVx: '0.9'
 SpatioTemporal: 1.1.9
 Spbsampling: 1.3.4
 SpecDetec: 1.0.0
@@ -6787,7 +6789,7 @@ UCSCXenaShiny: 1.1.5
 UCSCXenaTools: 1.4.7
 UComp: 2.2.2
 UKB.COVID19: 0.1.3
-UKFE: 0.2.0
+UKFE: 0.2.2
 UKgrid: 0.1.3
 UMR: 1.1.0
 UNCLES: '2.0'
@@ -8011,6 +8013,7 @@ bibliometrix: 3.1.4
 bibliometrixData: 0.1.0
 biblionetwork: 0.1.0
 bibliospec: 0.0.4
+bibs: 1.1.1
 bibtex: 0.4.2.3
 biclique: 1.0.5
 biclust: 2.0.3
@@ -8120,6 +8123,7 @@ bioRad: 0.5.2
 bioacoustics: 0.2.7
 bioassays: 1.0.1
 biocompute: 1.1.0
+biodosetools: 3.6.0
 biofiles: 1.0.0
 biogas: 1.23.2
 biogeo: '1.0'
@@ -8543,6 +8547,7 @@ care: 1.1.11
 careless: 1.2.1
 caret: 6.0-90
 caretEnsemble: 2.0.1
+caretForecast: 0.0.2
 caretLSF: '1.9'
 caretNWS: '0.25'
 carfima: 2.0.2
@@ -8836,6 +8841,7 @@ circularEV: 0.1.0
 circumplex: 0.3.8
 cit: 2.3.1
 citation: 0.4.1
+citationchaser: 0.0.4
 citbcmst: 1.0.4
 citccmst: 1.0.2
 citecorp: 0.3.0
@@ -10109,7 +10115,7 @@ discSurv: 1.4.1
 discfrail: '0.1'
 discgolf: 0.2.0
 discharge: 1.0.0
-disclap: '1.5'
+disclap: 1.5.1
 disclapmix: 1.7.3
 discnorm: 0.1.1
 disco: '0.6'
@@ -10508,7 +10514,7 @@ easystab: '1.0'
 eat: 0.1.2
 eatATA: 1.0.0
 eatDB: 0.5.0
-eatGADS: 0.18.1
+eatGADS: 0.19.1
 eatRep: 0.13.7
 eatTools: 0.7.1
 ebGenotyping: 2.0.1
@@ -13278,7 +13284,7 @@ imager: 0.42.11
 imagerExtra: 1.3.2
 imageseg: 0.4.0
 imageviewer: 0.1.0
-imaginator: 0.1.1
+imaginator: 1.0.0
 imagine: 1.5.3
 imbalance: 1.0.2.1
 imbibe: 0.1.0
@@ -13423,6 +13429,7 @@ integrativeME: '1.2'
 integrativeMEdata: '1.0'
 intensegRid: 0.1.1
 intensity.analysis: 0.1.6
+intensitynet: 1.0.0
 interAdapt: '0.1'
 interacCircos: 1.0.0
 interactionR: 0.1.3
@@ -14096,7 +14103,7 @@ leiden: 0.3.9
 leidenAlg: 1.0.1
 leiv: 2.0-7
 lemma: 1.3-4
-lemna: 0.9.0
+lemna: 0.9.1
 lemon: 0.4.5
 lenses: 0.0.3
 leontief: '0.2'
@@ -14683,6 +14690,7 @@ maxmatching: 0.1.0
 maxnet: 0.1.4
 maxnodf: 1.0.0
 maxstat: 0.7-25
+maybe: 0.1.0
 mazeGen: 0.1.3
 mazealls: 0.2.0
 mazeinda: 0.0.1
@@ -15717,6 +15725,7 @@ naaccr: 1.0.0
 nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.17.1
+naflex: 0.1.0
 naijR: 0.3.4
 naivebayes: 0.9.7
 naivereg: 1.0.5
@@ -15803,7 +15812,7 @@ neonUtilities: 2.1.3
 neonstore: 0.4.4
 neotoma: 1.7.4
 nephro: '1.2'
-neptune: 0.2.0
+neptune: 0.2.1
 nesRdata: 0.3.1
 nestedRanksTest: '0.2'
 nestfs: '1.0'
@@ -15900,6 +15909,7 @@ nhs.predict: 1.4.0
 nhsnumber: 0.1.2
 nhstplot: 1.1.0
 niaidMI: 1.0.0
+nic: 0.0.1
 nice: 0.4-1
 nicheROVER: 1.1.0
 nichevol: 0.1.19
@@ -16247,7 +16257,7 @@ omics: 0.1-5
 omicwas: 0.8.0
 omopr: '0.2'
 ompr: 1.0.1
-ompr.roi: 0.8.0
+ompr.roi: 1.0.0
 omsvg: 0.1.0
 omu: 1.0.4
 omxr: 0.3.3
@@ -16868,7 +16878,7 @@ permtest: '1.2'
 permubiome: 1.3.1
 permuco: 1.1.1
 permutations: 1.0-9
-permute: 0.9-5
+permute: 0.9-7
 permutes: 2.3.2
 perry: 0.3.1
 perryExamples: 0.1.1
@@ -17125,7 +17135,7 @@ plotAndPlayGTK: 0.8.78
 plotDK: 0.1.0
 plotGMM: 0.2.2
 plotGoogleMaps: '2.2'
-plotHMM: 2022.1.18
+plotHMM: 2022.1.25
 plotKML: 0.8-2
 plotMCMC: 2.0.1
 plotMElm: 0.1.5
@@ -17299,7 +17309,7 @@ popdemo: 1.3-1
 popgen: 1.0-3
 popgenr: '0.2'
 popgraph: '1.4'
-popkin: 1.3.13
+popkin: 1.3.17
 poplab: '1.0'
 poplite: 0.99.5
 poppr: 2.9.3
@@ -18164,6 +18174,7 @@ rasterdiv: 0.2-3
 rasterize: '0.1'
 rasterly: 0.2.0
 rasterpdf: 0.1.1
+rasterpic: 0.1.0
 ratPASTA: 0.2.1
 ratelimitr: 0.4.1
 ratematrix: 1.2.3
@@ -21496,7 +21507,7 @@ tnet: 3.0.16
 toOrdinal: 1.1-0.0
 toaster: 0.5.5
 toastui: 0.2.1
-tobit1: 0.1-1
+tobit1: 0.1-2
 todor: 0.1.2
 togglr: 0.1.33
 tokenbrowser: 0.1.5
@@ -22568,7 +22579,7 @@ youtubecaption: 1.0.0
 yowie: 0.1.0
 ypr: 0.5.2
 ypssc: 1.1.0
-yuima: 1.15.0
+yuima: 1.15.2
 yuimaGUI: 1.3.0
 yulab.utils: 0.0.4
 yum: 0.1.0
