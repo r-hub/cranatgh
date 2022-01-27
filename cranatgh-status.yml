@@ -421,7 +421,7 @@ BMTAR: 0.1.1
 BMTME: 1.0.19
 BMhyb: 2.1.5
 BMhyd: 1.2-8
-BMisc: 1.4.3
+BMisc: 1.4.4
 BNDataGenerator: '1.0'
 BNN: 1.0.2
 BNPMIXcluster: '1.3'
@@ -891,7 +891,7 @@ COveR: 1.0.3
 CP: '1.6'
 CPAT: 0.1.0
 CPBayes: 1.1.0
-CPE: 1.5.1
+CPE: 1.5.2
 CPGLIB: 1.0.1
 CPGchron: '1.1'
 CPHshape: '1.0'
@@ -1060,7 +1060,7 @@ ClusPred: 1.1.0
 ClusTorus: 0.2.2
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
-ClustAssess: 0.1.1
+ClustAssess: 0.3.0
 ClustBlock: 2.4.0
 ClustGeo: '2.1'
 ClustImpute: 0.2.4
@@ -2970,7 +2970,7 @@ JointRegBC: 0.1.1
 JudgeIt: 1.5.1
 Julia: '1.1'
 JuliaCall: 0.17.4
-JuliaConnectoR: 1.1.0
+JuliaConnectoR: 1.1.1
 JumpTest: '1.1'
 JumpeR: 0.3.0
 JuniperKernel: 1.4.1.0
@@ -3018,7 +3018,7 @@ KernSmooth: 2.23-20
 KernSmoothIRT: '6.4'
 KernelICA: 0.1.0
 KernelKnn: 1.1.4
-Kernelheaping: 2.2.8
+Kernelheaping: 2.3.0
 Keyboard: 0.1.0
 KeyboardSimulator: 2.6.0
 KingCountyHouses: 0.1.0
@@ -3334,7 +3334,7 @@ MCM: 0.1.5
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
-MCMCglmm: '2.32'
+MCMCglmm: '2.33'
 MCMChybridGP: '5.4'
 MCMCpack: 1.6-0
 MCMCprecision: 0.4.0
@@ -4795,7 +4795,7 @@ RApiDatetime: 0.0.6
 RApiSerialize: 0.1.0
 RAppArmor: 3.2.2
 RArcInfo: '0.4'
-RAthena: 2.5.0
+RAthena: 2.5.1
 RAtmosphere: '1.1'
 RBF: 2.1.0
 RBGL: 1.28.0
@@ -5422,7 +5422,7 @@ RcppGreedySetCover: 0.1.0
 RcppHMM: 1.2.2
 RcppHNSW: 0.3.0
 RcppHoney: 0.1.7
-RcppHungarian: '0.1'
+RcppHungarian: '0.2'
 RcppML: 0.3.7
 RcppMLPACK: 1.0.9
 RcppMeCab: 0.0.1.2
@@ -5862,7 +5862,7 @@ SETPath: '1.0'
 SEchart: '0.1'
 SEofM: 0.1.0
 SFS: 0.1.4
-SFSI: 1.0.0
+SFSI: 1.0.1
 SFtools: 0.1.0
 SGB: 1.0.1
 SGCS: '2.7'
@@ -6206,7 +6206,7 @@ SimRepeat: 0.1.0
 SimSCRPiecewise: 0.1.1
 SimSeq: 1.4.0
 SimSurvNMarker: 0.1.1
-SimSurvey: 0.1.3
+SimSurvey: 0.1.4
 SimTimeVar: 1.0.0
 SimVitD: 1.0.1
 SimilaR: 1.0.8
@@ -7387,7 +7387,7 @@ animalEKF: '1.1'
 animalTrack: 1.0.0
 animaltracker: 0.2.0
 animation: '2.7'
-animint2: 2020.9.18
+animint2: 2022.1.25
 anipaths: 0.10.1
 aniview: 0.1.0
 anm: 1.1-1
@@ -7447,7 +7447,7 @@ aplot: 0.1.2
 aplpack: 1.3.5
 apmsWAPP: '1.0'
 apng: '1.1'
-apollo: 0.2.6
+apollo: 0.2.7
 apparent: '1.1'
 appell: 0.0-4
 apple: '0.3'
@@ -8148,6 +8148,7 @@ biotic: 0.1.2
 biotools: '4.2'
 bipartite: '2.16'
 bipartiteD3: 0.3.0
+bipd: '0.1'
 biplotbootGUI: '1.2'
 birankr: 1.0.1
 birch: '1.2'
@@ -8312,6 +8313,7 @@ boxoffice: 1.3.0
 boxplotdbl: 1.3.0
 boxr: 0.3.6
 bp: 2.0.1
+bpAcc: 0.0-1
 bpDir: 0.1.2
 bpa: 0.1.1
 bpbounds: 0.1.4
@@ -8776,7 +8778,7 @@ chi2x3way: '1.1'
 chicane: 0.1.8
 chickn: 1.2.3
 childdevdata: 1.1.0
-childesr: 0.2.2
+childesr: 0.2.3
 childhoodmortality: 0.3.0
 childsds: 0.7.6
 chilemapas: '0.2'
@@ -8968,7 +8970,7 @@ clusterhap: '0.1'
 clustering.sc.dp: '1.0'
 clusterlab: 0.0.2.8
 clustermole: 1.1.0
-clustermq: 0.8.95.2
+clustermq: 0.8.95.3
 clusternomics: 0.1.1
 clusternor: 0.0-4
 clustertend: '1.6'
@@ -9075,7 +9077,7 @@ colcor: '1.0'
 cold: 2.0-3
 colf: 0.1.3
 collUtils: 1.0.5
-collapse: 1.7.2
+collapse: 1.7.3
 collapsibleTree: 0.1.7
 collateral: 0.5.2
 collectArgs: 0.4.0
@@ -9770,7 +9772,7 @@ datasus: 0.4.1
 datautils: 0.1.5
 dataverse: 0.3.10
 dataview: 2.1.1
-datawizard: 0.2.2
+datawizard: 0.2.3
 datazoom.amazonia: 0.2.0
 date: 1.2-39
 datefixR: 0.1.3
@@ -12032,7 +12034,7 @@ geomander: 2.0.2
 geomapdata: 1.0-4
 geomedb: 2.0.1
 geomerge: 0.3.2
-geometa: 0.6-5
+geometa: 0.6-6
 geometr: 0.2.10
 geometries: 0.2.0
 geometry: 0.4.5
@@ -12041,7 +12043,7 @@ geomorph: 4.0.1
 geomtextpath: 0.1.0
 geomultistar: 1.1.0
 geonames: '0.999'
-geonapi: 0.5-1
+geonapi: 0.5-2
 geonet: 0.6.0
 geonetwork: 0.4.1
 geoops: 0.3.0
@@ -12569,7 +12571,7 @@ greta: 0.3.1
 gretel: 0.0.1
 gretlR: 0.1.0
 grex: '1.9'
-greybox: 1.0.2
+greybox: 1.0.3
 greyzoneSurv: '1.0'
 grf: 2.0.2
 grid: 0.7-4
@@ -12726,7 +12728,7 @@ hadron: 3.1.2
 hagis: 3.1.3
 hail: 0.1.1
 hakaiApi: 1.0.0
-hal9001: 0.4.1
+hal9001: 0.4.2
 haldensify: 0.2.1
 halfcircle: 0.1.0
 halp: 0.1.3
@@ -13895,7 +13897,7 @@ kuiper.2samp: '1.0'
 kulife: 0.1-14
 kuniezu: 0.1.3
 kutils: '1.70'
-kvh: 1.4.1
+kvh: 1.4.2
 kwb.hantush: 0.3.0
 kyotil: 2021.5-14
 kza: 4.1.0.1
@@ -13905,7 +13907,7 @@ kzs: '1.4'
 l0ara: 0.1.6
 l1ball: 0.1.0
 l1kdeconv: 1.2.0
-l1spectral: 0.99.5
+l1spectral: 0.99.6
 l2boost: 1.0.1
 laGP: 1.5-5
 labdsv: 2.0-1
@@ -14518,7 +14520,7 @@ magma: 1.3.0-2
 magmaR: 1.0.2
 magnets: '0.2'
 magree: '1.1'
-magrittr: 2.0.1
+magrittr: 2.0.2
 maic: 0.1.3
 maicChecks: 0.1.2
 mail: '1.0'
@@ -15011,7 +15013,7 @@ microhaplot: 1.0.1
 micromap: 1.9.5
 micromapST: 1.1.1
 micropan: '2.1'
-microplot: 1.0-44
+microplot: 1.0-45
 microsamplingDesign: 1.0.8
 microseq: 2.1.5
 microservices: 0.1.2
@@ -15720,7 +15722,7 @@ naivebayes: 0.9.7
 naivereg: 1.0.5
 nakagami: 1.1.0
 namedCapture: 2020.4.1
-namedropR: 2.1.1
+namedropR: 2.2.1
 namer: 0.1.5
 namespace: 0.9.1
 nametagger: 0.1.1
@@ -15751,6 +15753,7 @@ naturaList: 0.4.2
 natural: 0.9.0
 naturalsort: 0.1.3
 nauf: 1.1.0
+navigatr: 0.1.0
 nawtilus: 0.1.4
 nbTransmission: 1.1.2
 nbapalettes: 0.1.0
@@ -15934,7 +15937,7 @@ nlmixr: 2.0.6
 nlmm: 1.0.1
 nlmrt: 2016.3.2
 nlnet: '1.4'
-nloptr: 1.2.2.3
+nloptr: 2.0.0
 nloptwrap: 0.5-7
 nlpred: 1.0.1
 nlr: 0.1-3
@@ -15994,7 +15997,7 @@ nntrf: 0.1.4
 noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
-noctua: 2.5.0
+noctua: 2.5.1
 nodbi: 0.7.0
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
@@ -16243,7 +16246,7 @@ omd: '1.0'
 omics: 0.1-5
 omicwas: 0.8.0
 omopr: '0.2'
-ompr: 1.0.0
+ompr: 1.0.1
 ompr.roi: 0.8.0
 omsvg: 0.1.0
 omu: 1.0.4
@@ -16357,7 +16360,7 @@ optimParallel: 1.0-2
 optimStrat: '2.3'
 optimalThreshold: '1.0'
 optimall: 0.1.0
-optimbase: '1.0'
+optimbase: 1.0-10
 optimg: 0.1.2
 optimization: 1.0-8
 optimos.prime: 0.1.2
@@ -16478,7 +16481,7 @@ owdbr: 1.0.1.1
 owidR: 1.1.0
 owl: 0.1.1
 owmr: 0.8.2
-ows4R: '0.2'
+ows4R: 0.2-1
 ox: 0.1.0
 oxcAAR: 1.1.1
 oxcgrt: 0.1.0
@@ -16773,7 +16776,7 @@ pdR: '1.7'
 pdSpecEst: 1.2.4
 pda: 1.0-2
 pdc: 1.0.3
-pder: 1.0-1
+pder: 1.0-2
 pdfCluster: 1.0-3
 pdfboxr: 2.0.19
 pdfetch: 0.2.5
@@ -17278,7 +17281,7 @@ pool: 0.1.6
 poolVIM: 1.0.0
 poolfstat: 2.0.0
 pooling: 1.1.2
-poolr: 1.0-0
+poolr: 1.1-1
 poorman: 0.2.5
 pop: '0.1'
 pop.wolf: '0.1'
@@ -17843,7 +17846,7 @@ quantities: 0.1.6
 quantkriging: 0.1.0
 quantmod: 0.4.18
 quantoptr: 0.1.3
-quantreg: '5.86'
+quantreg: '5.87'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
 quantregGrowth: 1.4-0
@@ -18524,7 +18527,7 @@ report: 0.4.0
 reportROC: '3.5'
 reportReg: 0.3.0
 reportRx: '1.0'
-reporter: 1.2.8
+reporter: 1.2.9
 reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
@@ -18761,7 +18764,7 @@ rknn: 1.2-1
 rkt: '1.6'
 rkvo: '0.1'
 rlandscape: '1.0'
-rlang: 0.4.12
+rlang: 1.0.0
 rlas: 1.5.0
 rlc: 0.4.1
 rld: '1.0'
@@ -20071,7 +20074,7 @@ sma: 0.5.9
 smaa: 0.3-0
 smac: '1.0'
 smacof: 2.1-3
-smacpod: '2.3'
+smacpod: '2.4'
 smallarea: '0.1'
 smam: 0.6.0
 smapr: 0.2.1
@@ -20105,7 +20108,7 @@ smnet: 2.1.2
 smog: 2.1.0
 smoke: 2.0.0
 smoof: 1.6.0.2
-smooth: 3.1.4
+smooth: 3.1.5
 smoothAPC: '0.3'
 smoothHR: 1.0.3
 smoothROCtime: 0.1.0
@@ -22426,7 +22429,7 @@ wrProteo: 1.5.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.7
 wrappedtools: 0.7.9
-wrapr: 2.0.8
+wrapr: 2.0.9
 wrassp: 1.0.1
 write.snns: 0.0-4.2
 writexl: 1.4.0
