@@ -622,7 +622,7 @@ BinNonNor: 1.5.3
 BinNor: 2.3.3
 BinOrdNonNor: 1.5.2
 BinQuasi: 0.1-6
-BinSegBstrap: '1.0'
+BinSegBstrap: 1.0-1
 Binarize: '1.3'
 BinaryDosage: 1.0.0
 BinaryEMVS: '0.1'
@@ -1069,7 +1069,7 @@ ClustOfVar: '1.1'
 ClustVarLV: 2.0.1
 Cluster.OBeu: 1.2.3
 ClusterBootstrap: 1.1.2
-ClusterR: 1.2.5
+ClusterR: 1.2.6
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.3
 ClusteredMutations: 1.0.1
@@ -3212,7 +3212,7 @@ LifeHist: 1.0-1
 LifeInsuranceContracts: 0.0.3
 LifeTables: '1.0'
 LightningR: 1.0.2
-LilRhino: 1.2.0
+LilRhino: 1.2.1
 LimnoPalettes: 0.1.0
 LinCal: '1.0'
 LinRegInteractive: 0.3-3
@@ -3698,7 +3698,7 @@ MetaDBparse: 2.0.0
 MetaDE: '1.0'
 MetaIntegration: 0.1.2
 MetaIntegrator: 2.1.3
-MetaLandSim: 1.0.8
+MetaLandSim: 1.0.9
 MetaLonDA: 1.1.8
 MetaPCA: 0.1.4
 MetaPath: '1.0'
@@ -4045,7 +4045,7 @@ NlcOptim: '0.6'
 NlinTS: 1.4.5
 NlsyLinks: 2.0.6
 Nmisc: 0.3.7
-Nmix: 1.1.2
+Nmix: 1.2.0
 NobBS: 0.1.0
 NoiseFiltersR: 0.1.0
 NominalLogisticBiplot: '0.2'
@@ -4154,7 +4154,7 @@ OpVaR: '1.2'
 OpasnetUtils: '1.3'
 OpenABMCovid19: '1.0'
 OpenCL: 0.2-2
-OpenImageR: 1.2.0
+OpenImageR: 1.2.1
 OpenLand: 1.0.2
 OpenML: '1.10'
 OpenMPController: 0.2-5
@@ -4520,7 +4520,7 @@ PlanetNICFI: 1.0.3
 PlasmaMutationDetector: 1.7.2
 Plasmidprofiler: 0.1.6
 Plasmode: 0.1.0
-Platypus: 3.2.3
+Platypus: 3.3.2
 PlayerRatings: 1.1-0
 PlotContour: 0.1.0
 PlotPrjNetworks: 1.0.0
@@ -5445,7 +5445,7 @@ RcppSpdlog: 0.0.7
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.1.7
-RcppThread: 2.0.0
+RcppThread: 2.0.1
 RcppUUID: 1.0.0
 RcppXPtrUtils: 0.1.1
 RcppXsimd: 7.1.6
@@ -6723,7 +6723,7 @@ TouRnament: 0.2.5
 ToxCrit: '1.0'
 ToxLim: '1.0'
 ToxicoGx: 0.1.1
-Tplyr: 0.4.3
+Tplyr: 0.4.4
 TraMineR: 2.2-3
 TraMineRextras: 0.6.3
 TraceAssist: 0.1.0
@@ -7870,7 +7870,7 @@ bazar: 1.0.11
 bbdetection: '1.0'
 bbefkr: '4.2'
 bbemkr: '2.0'
-bbl: 0.4.1
+bbl: 1.0.0
 bbmle: 1.0.24
 bbo: '0.2'
 bbotk: 0.5.0
@@ -8197,7 +8197,7 @@ blaster: 1.0.4
 blastula: 0.3.2
 blatent: 0.1.1
 blatr: 1.0.1
-blavaan: 0.3-18
+blavaan: 0.4-1
 blendedLink: '1.0'
 blender: 0.1.2
 blighty: 3.1-4
@@ -8859,7 +8859,7 @@ clValid: '0.7'
 clac: 0.1-2
 cladoRcpp: 0.15.1
 clam: 2.4.0
-clampSeg: 1.1-0
+clampSeg: 1.1-1
 clarifai: 0.4.2
 clarkeTest: 0.1.0
 class: 7.3-20
@@ -9522,7 +9522,7 @@ crsra: 0.2.3
 crsuggest: 0.3.1
 crtests: 0.2.1
 crul: 1.2.0
-crunch: 1.28.2
+crunch: 1.29.0
 crunchy: 0.3.3
 cruts: '1.1'
 cry: 0.4.1
@@ -10043,7 +10043,7 @@ dichromat: 2.0-0
 dicionariosIBGE: '1.6'
 dictionaRy: 0.1.1
 dictionar6: 0.1.3
-did: 2.1.0
+did: 2.1.1
 did2s: 0.4.0
 didimputation: 0.1.0
 didrooRFM: 1.0.0
@@ -10097,7 +10097,7 @@ dineq: 0.1.0
 dint: 2.1.3
 dipm: '1.5'
 diproperm: 0.2.0
-dipsaus: 0.1.9
+dipsaus: 0.2.0
 diptest: 0.76-0
 dipw: 0.1.0
 directPA: '1.5'
@@ -10417,6 +10417,7 @@ dvqcc: 0.1.0
 dwapi: 0.1.3
 dwdradar: 0.2.7
 dwlm: 0.1.0
+dwp: '1.0'
 dyad: '1.0'
 dyads: 1.1.4
 dycdtools: 0.3.1
@@ -11623,6 +11624,7 @@ freqdistributionNogives: 0.1.1
 freqdom: 2.0.1
 freqdom.fda: 0.9.1
 freqparcoord: 1.0.1
+freqpcr: 0.4.0
 freqtables: 0.1.0
 frequencies: 0.1.1
 frequency: 0.4.1
@@ -12446,6 +12448,7 @@ gof: 1.0.1
 gofCopula: 0.4-1
 gofMC: 1.1.2
 gofastr: 0.3.0
+gofcat: 0.1.1
 goffda: 0.1.0
 gofgamma: '1.0'
 goft: 1.3.6
@@ -12510,6 +12513,7 @@ gppm: 0.2.0
 gppois: 0.2-1
 gpr: '1.1'
 gprofiler2: 0.2.1
+gps: '1.0'
 gptk: '1.08'
 gpuR: 2.0.3
 gputools: '1.1'
@@ -12703,6 +12707,7 @@ gvlma: 1.0.0.3
 gwaRs: 0.3.0
 gwasforest: 1.0.0
 gwasrapidd: 0.99.12
+gwavr: 0.1.0
 gwdegree: 0.1.1
 gwer: '3.0'
 gwerAM: '1.0'
@@ -12735,7 +12740,7 @@ hagis: 3.1.3
 hail: 0.1.1
 hakaiApi: 1.0.0
 hal9001: 0.4.2
-haldensify: 0.2.1
+haldensify: 0.2.2
 halfcircle: 0.1.0
 halp: 0.1.3
 hamlet: 0.9.6
@@ -12752,7 +12757,7 @@ haploR: 4.0.6
 haploReconstruct: 0.1.2
 haplotyper: '0.1'
 haplotypes: 1.1.2
-happign: 0.1.0
+happign: 0.1.1
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
@@ -13646,7 +13651,7 @@ jdx: 0.1.4
 jeek: 1.1.1
 jenga: 1.0.0
 jenkins: '1.0'
-jetpack: 0.5.0
+jetpack: 0.5.1
 jetset: 3.4.0
 jfa: 0.6.2
 jgcricolors: 1.0.0
@@ -13714,7 +13719,7 @@ jsr223: 0.3.4
 jstable: 1.0.7
 jstor: 0.3.10
 jtGWAS: '1.5'
-jti: 0.8.0
+jti: 0.8.2
 jtools: 2.1.4
 jtrans: 0.2.1
 jubilee: 0.3.3
@@ -14022,6 +14027,7 @@ lbfgsb3: 2015-2.13
 lbfgsb3c: 2020-3.2
 lbiassurv: '1.1'
 lbm: 0.9.0.2
+lboxcox: '1.0'
 lbreg: '1.3'
 lcars: 0.3.7
 lcc: 1.1.3
@@ -18123,7 +18129,7 @@ randomcoloR: 1.1.0.1
 randomizationInference: 1.0.3
 randomizeBE: 0.3-5
 randomizeR: 2.0.0
-randomizr: 0.20.0
+randomizr: 0.22.0
 randomsearch: 0.2.0
 randquotes: 0.1.1
 randstr: 0.2.0
@@ -20861,7 +20867,7 @@ supercompress: '1.1'
 superdiag: '2.0'
 superheat: 0.1.0
 superml: 0.5.3
-supernova: 2.5.0
+supernova: 2.5.1
 superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-8
@@ -21770,7 +21776,7 @@ ttwa: 0.8.5.1
 tuber: 0.9.9
 tubern: 0.1.0
 tuckerR.mmgg: 1.5.1
-tufte: '0.11'
+tufte: '0.12'
 tufterhandout: 1.2.1
 tukeyGH: 1.0.0
 tukeytrend: '0.7'
@@ -21923,7 +21929,7 @@ updog: 2.1.2
 uplift: 0.3.5
 uplifteval: 0.1.0
 upmfit: 0.1.0
-upsetjs: 1.10.10
+upsetjs: 1.10.11
 upstartr: 0.1.1
 uptasticsearch: 0.4.0
 uptimeRobot: 1.0.0
