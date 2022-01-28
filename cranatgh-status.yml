@@ -1478,7 +1478,7 @@ DeRezende.Ferreira: 0.1.0
 DealGPL570: 0.2.0
 DecisionAnalysis: 1.1.0
 DecisionCurve: '1.4'
-DeclareDesign: 0.28.0
+DeclareDesign: 0.30.0
 DecomposeR: 1.0.4
 DecorateR: 0.1.2
 Deducer: 0.7-9
@@ -2315,6 +2315,7 @@ GRANCore: 0.2.7
 GRAPE: 0.1.1
 GRASS: 0.3-9
 GRCdata: '1.0'
+GREENeR: 0.1.0
 GREMLINS: 0.2.0
 GREP2: 1.0.2
 GRNNs: 0.1.0
@@ -2492,7 +2493,7 @@ GreedySBTM: '1.0'
 Greg: 1.4.0
 GreyModel: 0.1.0
 Grid2Polygons: 0.2.1
-GridOnClusters: 0.0.8
+GridOnClusters: 0.1.0
 GridR: 0.9.1
 GriegSmith: '1.0'
 GrimR: '0.5'
@@ -2782,7 +2783,7 @@ IOHexperimenter: 0.1.4
 IP: '0.1'
 IPCAPS: 1.1.8
 IPCWK: '1.0'
-IPDFileCheck: 0.7.2
+IPDFileCheck: 0.7.4
 IPDfromKM: 0.1.10
 IPEC: 0.1.3
 IPLGP: 2.0.0
@@ -4339,7 +4340,7 @@ POMaSPU: 1.0.0
 POPdemog: 1.0.3
 POSTm: '1.1'
 POSetR: 1.0.4
-POT: 1.1-7
+POT: 1.1-8
 POUMM: 2.1.7
 POV: 0.1.4
 PP: 0.6.3-11
@@ -7126,7 +7127,7 @@ abundant: '1.2'
 academictwitteR: 0.3.0
 acc: 1.3.3
 accSDA: 1.0.0
-acca: '0.1'
+acca: '0.2'
 accelerometry: 3.1.2
 accelmissing: '1.4'
 accept: 0.8.3
@@ -9349,7 +9350,7 @@ cosmosR: '1.0'
 cosso: 2.1-1
 costat: '2.4'
 costsensitive: 0.1.2.10
-cotram: 0.3-1
+cotram: 0.3-2
 cotrend: 1.0.2
 couchDB: 1.4.1
 countHMM: 0.1.0
@@ -9480,7 +9481,7 @@ crmn: 0.0.21
 crn: '1.1'
 crochet: 2.3.0
 cromwellDashboard: 0.5.1
-cronR: 0.6.0
+cronR: 0.6.1
 crone: 0.1.1
 cronologia: 0.2.0
 crop: 0.0-2
@@ -10701,14 +10702,14 @@ ellipsis: 0.3.2
 elliptic: 1.4-0
 ellipticalsymmetry: 0.1.2
 elmNN: '1.0'
-elmNNRcpp: 1.0.3
+elmNNRcpp: 1.0.4
 elo: 2.1.1
 elpatron: 0.0.4
 elrm: 1.2.5
 elsa: 1.1-28
 eltr: 0.1.0
 em2: '0.9'
-emIRT: 0.0.11
+emIRT: 0.0.9
 emax.glm: 0.1.2
 emayili: 0.7.0
 emba: 0.1.8
@@ -11347,7 +11348,7 @@ fifer: '1.1'
 fiftystater: 1.0.1
 figpatch: 0.1.0.1
 file2meco: 0.2.1
-filearray: 0.1.2
+filearray: 0.1.3
 filebin: 0.0.5
 filehash: 2.4-2
 filehashSQLite: 0.2-4
@@ -12465,7 +12466,7 @@ gooJSON: '1.0'
 good: 1.0.1
 goodpractice: 1.0.2
 googleAnalyticsR: 1.0.1
-googleAuthR: 1.4.1
+googleAuthR: 2.0.0
 googleCloudRunner: 0.4.1
 googleCloudStorageR: 0.7.0
 googleCloudVisionR: 0.2.0
@@ -13455,6 +13456,7 @@ internetarchive: 0.1.6
 interp: 1.0-33
 interplot: 0.2.3
 interpret: 0.1.26
+interpretCI: 0.1.1
 interpretR: 0.2.4
 interval: 1.1-0.8
 intervalaverage: 0.8.0
@@ -13651,7 +13653,7 @@ jdx: 0.1.4
 jeek: 1.1.1
 jenga: 1.0.0
 jenkins: '1.0'
-jetpack: 0.5.1
+jetpack: 0.5.2
 jetset: 3.4.0
 jfa: 0.6.2
 jgcricolors: 1.0.0
@@ -14863,7 +14865,7 @@ mergeTrees: 0.1.3
 mergedblocks: 1.1.0
 merlin: 0.1.0
 merror: 2.0.2
-meshed: '0.2'
+meshed: 0.2.1
 meshsimp: '0.1'
 messaging: 0.1.0
 messydates: 0.2.0
@@ -15894,7 +15896,7 @@ nfer: 1.0.1
 nfl4th: 1.0.1
 nflfastR: 4.3.0
 nflplotR: 1.0.0
-nflreadr: 1.1.2
+nflreadr: 1.1.3
 nflseedR: 1.0.2
 nftbart: '1.1'
 nga: '1.4'
@@ -16661,7 +16663,7 @@ parsnip: 0.1.7
 parspatstat: 0.1-4
 partDSA: 0.9.14
 partR2: 0.9.1
-partialAR: 1.0.12
+partialAR: 1.0.5
 partialCI: 1.2.0
 partialOR: '0.9'
 particle.swarm.optimisation: '1.0'
@@ -19054,7 +19056,7 @@ rrBlupMethod6: '1.3'
 rrapply: 1.2.3
 rrat: 1.0.0
 rray: 0.1.0
-rrcov: 1.6-0
+rrcov: 1.6-1
 rrcov3way: 0.2-1
 rrcovHD: 0.2-7
 rrcovNA: 0.4-15
@@ -19121,7 +19123,7 @@ rslurm: 0.6.1
 rsm: 2.10.3
 rsmatrix: 0.2.0
 rsml: '1.3'
-rsnps: 0.4.0
+rsnps: 0.5.0.0
 rsoi: 0.5.4
 rsolr: 0.0.11
 rspa: 0.2.5
@@ -19503,6 +19505,7 @@ scrobbler: 1.0.2
 scrollrevealR: 0.2.0
 scrubr: 0.4.0
 scrypt: 0.1.3
+scryr: 1.0.0
 scs: 3.0-0
 sctransform: 0.3.3
 scuba: 1.11-0
@@ -19587,7 +19590,7 @@ segclust: '0.76'
 segclust2d: 0.3.0
 segmag: 1.2.4
 segmenTier: 0.1.2
-segmented: 1.3-4
+segmented: 1.4-0
 segmentr: 0.2.0
 segmetric: 0.1.0
 segregation: 0.6.0
@@ -20548,6 +20551,7 @@ sqlscore: 0.1.4
 sqlshare: 1.0.3
 sqlutils: '1.2'
 sqp: '0.5'
+squant: 1.1.4
 squash: 1.0.9
 squashinformr: 0.2.5
 squeezy: '1.0'
@@ -21812,6 +21816,7 @@ twenty48: 0.2.0
 twfy: 0.1.0
 twiddler: 0.5-0
 twilio: 0.1.0
+twinning: '1.0'
 twitteR: 1.1.9
 twitterwidget: 0.1.1
 twl: '1.0'
@@ -21827,7 +21832,7 @@ twoway: 0.6.3
 twowaytests: '1.1'
 twoxtwo: 0.1.0
 twslm: 1.0.2
-txshift: 0.3.6
+txshift: 0.3.7
 txtplot: 1.0-4
 txtq: 0.2.4
 typed: 0.0.1
@@ -22475,7 +22480,7 @@ wyz.code.offensiveProgramming: 1.1.23
 wyz.code.rdoc: 1.1.19
 wyz.code.testthat: 1.1.20
 x.ent: 1.1.7
-x12: 1.10.0
+x12: 1.10.1
 x12GUI: 0.9-3
 x13binary: 1.1.57-2
 x3ptools: 0.0.3
