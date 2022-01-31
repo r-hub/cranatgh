@@ -2678,7 +2678,7 @@ HydroCode: 1.0.2
 HydroMe: 2.0-1
 HyperG: 1.0.0
 HyperbolicDist: 0.6-2
-HypergeoMat: 3.1.0
+HypergeoMat: 4.0.0
 IAPWS95: 1.1.0
 IASD: '1.1'
 IAT: '0.3'
@@ -2754,7 +2754,7 @@ IHSEP: '0.2'
 IIS: '1.0'
 IIVpredictor: 0.1.0
 ILS: '0.2'
-ILSE: 1.1.6
+ILSE: 1.1.7
 IM: '1.0'
 IMAGE: '1.0'
 IMD: 1.0.2
@@ -3736,7 +3736,7 @@ MiRNAQCD: 1.1.2
 MiRSEA: '1.1'
 MiSPU: '1.0'
 MiST: '1.0'
-MicSim: 1.0.15
+MicSim: 1.1.0
 MicroDatosEs: 0.8.2
 MicroMacroMultilevel: 0.4.0
 MicroNiche: 1.0.0
@@ -4983,7 +4983,7 @@ RLeafAngle: '1.0'
 RLogicalOps: '0.1'
 RLumCarlo: 0.1.7
 RLumModel: 0.2.9
-RLumShiny: 0.2.2
+RLumShiny: 0.2.3
 RM.weights: '2.0'
 RM2: '0.0'
 RM2006: 0.1.1
@@ -7778,7 +7778,7 @@ base64enc: 0.1-3
 base64url: '1.4'
 baseballDBR: 0.1.2
 basecamb: 1.0.4
-basedosdados: 0.1.0
+basedosdados: 0.2.0
 baseflow: 0.13.2
 basefun: 1.1-2
 baseline: 1.3-1
@@ -8826,7 +8826,7 @@ ciccr: 0.2.0
 cicerone: 1.0.4
 cif: 0.0.9
 cifti: 0.4.5
-ciftiTools: 0.7.0
+ciftiTools: 0.8.0
 cimir: 0.4-1
 cimis: 0.1-7
 cin: '0.1'
@@ -8843,7 +8843,7 @@ circular: 0.4-93
 circularEV: 0.1.0
 circumplex: 0.3.8
 cit: 2.3.1
-citation: 0.4.1
+citation: 0.6.2
 citationchaser: 0.0.4
 citbcmst: 1.0.4
 citccmst: 1.0.2
@@ -9710,7 +9710,7 @@ dams: 0.3.0
 dang: 0.0.15
 dani: 0.1-1
 dann: 0.2.2
-danstat: 0.1.0
+danstat: 0.2.0
 dapr: 0.0.3
 daqapo: 0.3.1
 darch: '0.9'
@@ -9785,7 +9785,7 @@ datawizard: 0.2.3
 datazoom.amazonia: 0.2.0
 date: 1.2-39
 datefixR: 0.1.3
-datelife: 0.6.0
+datelife: 0.6.1
 daterangepicker: 0.1.0
 datetime: 0.1.4
 datetimeutils: 0.5-0
@@ -10913,7 +10913,7 @@ essurvey: 1.0.8
 estadistica: 0.1.0
 estatapi: 0.4.0
 estimability: '1.3'
-estimatr: 0.30.4
+estimatr: 0.30.6
 estimraw: 1.0.0
 estmeansd: 0.2.1
 estout: '1.2'
@@ -14041,7 +14041,7 @@ lcd: 0.7-3
 lcda: '0.3'
 lchemix: 0.1.0
 lclGWAS: 1.0.3
-lcmm: 1.9.4
+lcmm: 1.9.5
 lcmr: 1.6.26
 lconnect: 0.1.1
 lcopula: 1.0.4
@@ -15527,7 +15527,7 @@ msmtools: 2.0.1
 msos: 1.2.0
 mspath: 0.9-9
 msr: '0.4'
-mssm: 0.1.5
+mssm: 0.1.6
 mssqlR: 1.0.0
 mstDIF: 0.1.6
 mstR: '1.2'
@@ -16269,7 +16269,7 @@ omd: '1.0'
 omics: 0.1-5
 omicwas: 0.8.0
 omopr: '0.2'
-ompr: 1.0.1
+ompr: 1.0.2
 ompr.roi: 1.0.0
 omsvg: 0.1.0
 omu: 1.0.4
@@ -16482,7 +16482,7 @@ otsad: 0.2.0
 otuSummary: 0.1.1
 otvPlots: 0.2.1
 ouch: '2.17'
-outForest: 0.1.1
+outForest: 0.1.2
 outbreaker: 1.1-8
 outbreaker2: 1.1.2
 outbreaks: 1.9.0
@@ -16627,7 +16627,7 @@ paperplanes: 0.0.1.9
 papply: '0.1'
 parSim: 0.1.4
 parade: '0.1'
-paradox: 0.7.1
+paradox: 0.8.0
 parallelDist: 0.2.4
 parallelMCMCcombine: '2.0'
 parallelML: '1.2'
@@ -17425,7 +17425,7 @@ precintcon: 2.3.0
 precisePlacement: 0.1.0
 precisely: 0.1.2
 precommit: 0.2.2
-precrec: 0.12.7
+precrec: 0.12.8
 predReliability: 0.1.0
 predatory: '1.2'
 predbayescor: '1.1'
@@ -17548,7 +17548,7 @@ progenyClust: '1.2'
 prognosticROC: '0.7'
 progress: 1.2.2
 progressr: 0.10.0
-proj4: 1.0-10.1
+proj4: 1.0-11
 projections: 0.5.4
 projector: 0.0.2
 projects: 2.1.3
@@ -18533,7 +18533,7 @@ renv: 0.15.2
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
-repeated: 1.1.2
+repeated: 1.1.3
 repec: 0.1.0
 repello: 1.0.1
 repfdr: 1.2.3
@@ -20202,7 +20202,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
-soilDB: 2.6.12
+soilDB: 2.6.13
 soilassessment: 0.2.2
 soilcarbon: 1.2.0
 soilhypfit: 0.1-5
@@ -20589,7 +20589,7 @@ ssfit: '1.1'
 ssgraph: '1.12'
 ssh: 0.8.0
 ssh.utils: '1.0'
-sship: 0.7.3
+sship: 0.7.4
 ssimparser: 0.1.1
 ssize.fdr: '1.2'
 ssizeRNA: 1.3.2
@@ -21400,15 +21400,15 @@ tidyrules: 0.1.5
 tidyselect: 1.1.1
 tidyseurat: 0.3.0
 tidysmd: 0.1.0
-tidysq: 1.1.2-1
+tidysq: 1.1.3
 tidystats: 0.5.1
 tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
 tidytable: 0.6.7
 tidytext: 0.3.2
-tidytidbits: 0.3.0
-tidytransit: 1.2.0
+tidytidbits: 0.3.1
+tidytransit: 1.3.0
 tidytreatment: 0.2.1
 tidytree: 0.3.7
 tidytuesdayR: 1.0.1
@@ -21416,7 +21416,7 @@ tidyverse: 1.3.1
 tidyvpc: 1.2.0
 tidywikidatar: 0.5.0
 tidyxl: 1.0.7
-tiff: 0.1-10
+tiff: 0.1-11
 tiger: 0.2.3.1
 tigerhitteR: 1.1.0
 tigerstats: 0.3.2
@@ -22241,7 +22241,7 @@ wal: 0.1.0
 waldo: 0.3.1
 waldwolf: '0.1'
 walkalytics: 0.1.0
-walker: 1.0.3
+walker: 1.0.3-1
 walkr: 0.4.0
 walkscoreAPI: '1.2'
 wallace: 1.1.0
@@ -22598,7 +22598,7 @@ youtubecaption: 1.0.0
 yowie: 0.1.0
 ypr: 0.5.2
 ypssc: 1.1.0
-yuima: 1.15.2
+yuima: 1.15.3
 yuimaGUI: 1.3.0
 yulab.utils: 0.0.4
 yum: 0.1.0
