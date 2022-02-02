@@ -593,7 +593,7 @@ Bergm: 5.0.3
 BerkeleyEarth: '1.8'
 BerlinData: 1.0.1
 Bessel: 0.6-0
-Bestie: 0.1.3
+Bestie: 0.1.4
 BetaBit: '1.4'
 BetaPASS: 1.1-1
 BeviMed: '5.8'
@@ -1827,7 +1827,7 @@ EpiEstim: 2.2-4
 EpiILM: 1.5.2
 EpiILMCT: 1.1.7
 EpiLPS: 1.0.2
-EpiModel: 2.2.0
+EpiModel: 2.2.1
 EpiNow2: 1.3.2
 EpiReport: 1.0.2
 EpiResTest: '1.0'
@@ -1977,7 +1977,7 @@ FORTLS: 1.0.6
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
-FPDclustering: '2.0'
+FPDclustering: '2.1'
 FPLdata: 0.1.0
 FPV: '0.5'
 FRACTION: '1.0'
@@ -2226,7 +2226,7 @@ GFisher: 0.1.0
 GGClassification: '0.1'
 GGEBiplotGUI: '1.0'
 GGEBiplots: 0.1.2
-GGIR: 2.5-0
+GGIR: 2.6-0
 GGMM: 1.0.1
 GGMncv: 2.1.1
 GGMnonreg: 1.0.0
@@ -2533,7 +2533,7 @@ HDCurves: 0.1.0
 HDDesign: '1.1'
 HDGLM: '0.1'
 HDInterval: 0.2.2
-HDLSSkST: 2.0.0
+HDLSSkST: 2.1.0
 HDMD: '1.2'
 HDMT: 1.0.5
 HDPenReg: 0.94.7
@@ -3148,6 +3148,7 @@ LSC: 0.1.5
 LSD: 4.1-0
 LSDinterface: 1.1.0
 LSDsensitivity: 1.1.2
+LSE: 1.0.0
 LSMRealOptions: 0.2.1
 LSMonteCarlo: '1.0'
 LSPFP: 1.0.3
@@ -3249,7 +3250,7 @@ LogitNet: 0.1-1
 LogrankA: '1.0'
 LogrankPower: 1.0.0
 LongCART: '3.1'
-LongDat: 1.0.0
+LongDat: 1.0.1
 LongMemoryTS: 0.1.0
 LongituRF: '0.9'
 LoopAnalyst: 1.2-6
@@ -3449,7 +3450,7 @@ MLDA: '2.0'
 MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
 MLDS: 0.4.7
-MLDataR: 0.1.1
+MLDataR: 0.1.2
 MLEP: 0.0-3
 MLEcens: 0.1-4
 MLGL: 0.6.5
@@ -4261,6 +4262,7 @@ PCLassoReg: 1.0.0
 PCMBase: 1.2.12
 PCMBaseCpp: 0.1.9
 PCMRS: 0.1-3
+PCObw: 0.0.0
 PCPS: 1.0.7
 PCRedux: '1.1'
 PCS: '1.2'
@@ -5303,7 +5305,7 @@ RatingScaleReduction: '1.4'
 Ratings: 0.1-2
 RationalExp: 0.2.2
 Ravages: 1.0.0
-RavenR: 2.1.6
+RavenR: 2.1.7
 RawHummus: 0.2.1
 Rbeast: 0.9.2
 Rbent: 0.1.0
@@ -6947,7 +6949,7 @@ WASP: 1.4.1
 WCE: 1.0.2
 WCM: 0.2.2
 WCQ: '0.2'
-WDI: 2.7.4
+WDI: 2.7.5
 WEE: '1.0'
 WEGE: 0.1.0
 WGCNA: 1.70-3
@@ -7623,7 +7625,7 @@ atm: 0.1.0
 atmcmc: '1.0'
 atmi: '1.0'
 atmopt: 0.1.0
-atom4R: '0.1'
+atom4R: 0.1-1
 atsd: 1.2.0
 attachment: 0.2.4
 attempt: 0.3.1
@@ -7751,6 +7753,7 @@ bahc: 0.3.0
 bain: 0.2.8
 bairt: 0.1.2
 baitmet: 1.0.1
+baker: 1.0.0
 balance: 0.2.4
 ballr: 0.2.6
 bama: '1.2'
@@ -11039,6 +11042,7 @@ exprso: 0.5.1
 expsmooth: '2.3'
 expss: 0.11.1
 expstudies: 0.0.5
+expstudy: 1.0.0
 exptest: '1.2'
 exreport: 0.4.1
 exsic: 1.1.1
@@ -11534,7 +11538,7 @@ forImage: 0.1.0
 forams: 2.0-5
 forcats: 0.5.1
 foreSIGHT: 1.0.0
-foreach: 1.5.1
+foreach: 1.5.2
 forecTheta: '2.2'
 forecast: '8.16'
 forecastHybrid: 5.0.19
@@ -13351,7 +13355,7 @@ inTextSummaryTable: 3.1.0
 inTrees: '1.2'
 inaparc: 1.1.0
 inarmix: '0.4'
-inbreedR: 0.3.2
+inbreedR: 0.3.3
 incR: 1.1.0
 incReg: '1.0'
 inca: 0.0.4
@@ -13883,7 +13887,7 @@ knncat: 1.2.2
 knnflex: '1.1'
 knnp: 2.0.0
 knnwtsim: 0.1.0
-knockoff: 0.3.3
+knockoff: 0.3.5
 knor: 0.0-7
 knorm: '1.0'
 knotR: 1.0-2
@@ -14435,7 +14439,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.1.1
+lrstat: 0.1.2
 lsa: 0.73.2
 lsasim: 2.1.2
 lsbclust: '1.1'
@@ -15867,6 +15871,7 @@ netmodels: '0.2'
 netplot: 0.1-1
 netrankr: 1.1.1
 netregR: 1.0.1
+netropy: 0.1.0
 nets: 0.9.1
 netseg: 1.0-0
 netstat: 0.1.1
@@ -18292,7 +18297,7 @@ rcites: 1.2.0
 rcitoid: 0.1.0
 rclimateca: 1.0.3
 rclinicaltrials: '1.4'
-rclipboard: 0.1.4
+rclipboard: 0.1.5
 rcmdcheck: 1.4.0
 rco: 1.0.2
 rcol: 0.2.0
@@ -18866,7 +18871,7 @@ rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
 rmt: '1.0'
 rmumps: 5.2.1-14
-rmutil: 1.1.5
+rmutil: 1.1.7
 rmweather: 0.1.51
 rmytarget: 2.4.0
 rnaseqWrapper: '1.0'
@@ -19231,7 +19236,7 @@ rtypeform: 2.1.0
 rubias: 0.3.2
 rucm: '0.6'
 rucrdtw: 0.1.4
-rugarch: 1.4-6
+rugarch: 1.4-7
 ruimtehol: '0.3'
 ruin: 0.1.1
 ruler: 0.2.4
@@ -21308,7 +21313,7 @@ tfestimators: 1.9.2
 tfhub: 0.8.1
 tfio: 0.4.1
 tfplot: 2021.6-1
-tfprobability: 0.12.0.0
+tfprobability: 0.15.0
 tframe: 2015.12-1.1
 tframePlus: 2016.7-1
 tfruns: 1.5.0
@@ -21485,6 +21490,7 @@ tinyspotifyr: 0.2.2
 tinytest: 1.3.1
 tinytex: '0.36'
 tiobeindexr: 0.1.1
+tipa: 1.0.5
 tipitaka: 0.1.2
 tipom: 1.0.2-1
 tippy: 0.1.0
@@ -22396,6 +22402,7 @@ wilcoxmed: 0.0.1
 wild1: '1.09'
 wildcard: 1.1.0
 wildlifeDI: 0.4.1
+wildmeta: 0.1.0
 wildpoker: '1.1'
 wildviz: 0.1.2
 wilson: 2.4.2
@@ -22504,7 +22511,7 @@ wyz.code.offensiveProgramming: 1.1.23
 wyz.code.rdoc: 1.1.19
 wyz.code.testthat: 1.1.20
 x.ent: 1.1.7
-x12: 1.10.1
+x12: 1.10.2
 x12GUI: 0.9-3
 x13binary: 1.1.57-2
 x3ptools: 0.0.3
@@ -22651,6 +22658,7 @@ ziphsmm: 2.0.6
 zipsae: 1.0.2
 zlog: 1.0.0
 zmatrix: '1.1'
+zmisc: 0.2.1
 zoeppritz: 1.0-8
 zoib: 1.5.5
 zoid: 1.0.0
