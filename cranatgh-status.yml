@@ -138,6 +138,7 @@ ASSOCShiny: 0.1.0
 AST: 0.1.0
 ATAforecasting: 0.0.56
 ATE: 0.2.0
+ATNr: '1.0'
 ATR: 0.1-1
 ATbounds: 0.1.0
 ATmet: 1.2.1
@@ -358,7 +359,7 @@ BEANSP: '1.0'
 BED: 1.4.4
 BEDASSLE: '1.5'
 BEDMatrix: 2.0.3
-BEKKs: 1.0.0
+BEKKs: 1.0.1
 BENMMI: 4.3-7
 BEQI2: 2.0-0
 BEST: 0.5.4
@@ -2345,7 +2346,7 @@ GUIDE: 1.2.7
 GUILDS: '1.3'
 GUIProfiler: 2.0.1
 GUIgems: '0.1'
-GUTS: 1.2.1
+GUTS: 1.2.2
 GUniFrac: '1.4'
 GVARX: '1.3'
 GWAF: '2.2'
@@ -4162,7 +4163,7 @@ OpenImageR: 1.2.1
 OpenLand: 1.0.2
 OpenML: '1.10'
 OpenMPController: 0.2-5
-OpenMx: 2.20.0
+OpenMx: 2.20.3
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.1
 OpenSpecy: 0.9.3
@@ -4318,7 +4319,7 @@ PL94171: 1.0.1
 PLFD: 0.1.1
 PLIS: '1.1'
 PLMIX: 2.1.1
-PLNmodels: 0.11.5
+PLNmodels: 0.11.6
 PLRModels: '1.1'
 PLSbiplot1: '0.1'
 PLSiMCpp: 1.0.1
@@ -4402,7 +4403,7 @@ PSW: 1.1-3
 PSweight: 1.1.6
 PTAk: 1.4-0
 PTE: '1.7'
-PTSR: 0.1.0
+PTSR: 0.1.1
 PTXQC: 1.0.12
 PTwins: 0.1.1
 PUPAIM: 0.2.0
@@ -6389,6 +6390,7 @@ SteinIV: 0.1-1
 SteinerNet: 3.1.0
 Stem: '1.0'
 StempCens: 1.1.0
+StepBeta: 0.1.0
 StepReg: 1.4.3
 StepSignalMargiLike: 2.6.0
 SteppedPower: 0.3.1
@@ -6693,7 +6695,7 @@ ThreeWay: 1.1.3
 ThreeWiseMonkeys: 0.1.0
 Thresher: 1.1.3
 ThresholdROC: 2.9.0
-TiPS: 1.1.0
+TiPS: 1.1.1
 TickExec: '1.1'
 TiddlyWikiR: 1.0.1
 TideCurves: 0.0.5
@@ -8024,7 +8026,7 @@ biclique: 1.0.5
 biclust: 2.0.3
 biclustermd: 0.2.3
 bicreduc: 0.4-7
-bidask: 0.1.0
+bidask: 0.1.1
 bifactorial: '1.4'
 bife: 0.7.1
 bifurcatingr: 1.0.0
@@ -8518,6 +8520,7 @@ camsRad: 0.3.0
 camtrapR: 2.0.3
 canadacovid: 0.3.1
 canadamaps: '0.1'
+canadianmaps: 1.0.0
 cancensus: 0.4.8
 cancerGI: 1.0.0
 cancerTiming: 3.1.8
@@ -9477,6 +9480,7 @@ crimelinkage: 0.0.4
 crimeutils: 0.3.0
 crisp: 1.0.0
 crispRdesignR: 1.1.6
+criticality: 0.9.0
 criticalpath: 0.2.0
 critpath: 0.1.4
 crmPack: 1.0.0
@@ -11256,6 +11260,7 @@ fca: 0.1.0
 fcaR: 1.1.1
 fcci: 1.0.1
 fcd: '0.1'
+fcirt: 0.1.0
 fclust: 2.1.1
 fcm: 0.1.3
 fcr: '1.0'
@@ -11270,6 +11275,7 @@ fdaMixed: '0.6'
 fdaMocca: 0.1-0
 fdaPDE: 1.0-9
 fdaPOIFD: 1.0.2
+fdacluster: 0.1.0
 fdadensity: 0.1.2
 fdakma: 1.2.1
 fdaoutlier: 0.2.0
@@ -12141,7 +12147,7 @@ ggFacetSample: 1.0.0
 ggHoriPlot: 1.0.0
 ggHorizon: '0.1'
 ggOceanMaps: 1.2.6
-ggPMX: 1.2.5
+ggPMX: 1.2.6
 ggQC: 0.0.31
 ggQQunif: 0.1.5
 ggROC: '1.0'
@@ -12942,7 +12948,7 @@ hkclustering: 1.0.1
 hkdatasets: 1.0.0
 hkevp: 1.1.4
 hkex.api: '0.1'
-hlaR: 0.1.1
+hlaR: 0.1.2
 hlidacr: 0.2.0
 hlr: 0.0-4
 hmclearn: 0.0.5
@@ -15122,7 +15128,7 @@ missForest: '1.4'
 missMDA: '1.18'
 missMethods: 0.2.0
 missRanger: 2.1.3
-missSBM: 1.0.1
+missSBM: 1.0.2
 missSOM: 1.0.0
 missingHE: 1.4.1
 mistat: 2.0.3
@@ -15541,7 +15547,7 @@ mstherm: 0.4.7
 mstknnclust: 0.3.1
 mstrio: 11.3.0.1
 msu: 0.0.1
-mt: 2.0-1.18
+mt: 2.0-1.19
 mtb: 0.1.1
 mtconnectR: 1.2.1
 mtcreator: '0.1'
@@ -15834,7 +15840,7 @@ neptune: 0.2.1
 nesRdata: 0.3.1
 nestedRanksTest: '0.2'
 nestfs: '1.0'
-nestr: 0.1.1
+nestr: 0.1.2
 net.security: 0.3.0
 net4pg: 0.1.0
 netCDF: '1.5'
@@ -16070,7 +16076,7 @@ nopp: 1.1.0
 nor1mix: 1.3-0
 nord: 1.0.0
 nordklimdata1: '1.2'
-norgeo: 2.0.0
+norgeo: 2.1.0
 norm: 1.0-9.5
 norm2: 2.0.4
 normalp: 0.7.2
@@ -17600,6 +17606,7 @@ provSummarizeR: 1.4.2
 provTraceR: '1.0'
 provViz: 1.0.7
 provenance: '3.3'
+proverbs: 0.1.0
 proxirr: '0.2'
 proxy: 0.4-26
 proxyC: 0.2.4
@@ -17852,7 +17859,7 @@ quadmesh: 0.5.0
 quadprog: 1.5-8
 quadprogXT: 0.0.5
 quadrupen: 0.2-8
-quadtree: 0.1.8
+quadtree: 0.1.9
 qualCI: '0.1'
 qualV: 0.3-4
 qualityTools: '1.55'
@@ -18095,7 +18102,7 @@ radjust: 0.1.0
 radlibs: 0.2.0
 radmixture: 0.0.1
 radous: 0.1.3
-radsafer: 2.2.5
+radsafer: 2.2.6
 radtools: 1.0.6
 rafalib: 1.0.0
 ragg: 1.2.1
@@ -18539,7 +18546,7 @@ renv: 0.15.2
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
-repeated: 1.1.3
+repeated: 1.1.4
 repec: 0.1.0
 repello: 1.0.1
 repfdr: 1.2.3
@@ -18940,7 +18947,7 @@ rock: 0.5.1
 rockchalk: 1.8.144
 rocker: 0.3.0
 rockr: 1.0.0
-roclang: 0.1.3
+roclang: 0.1.4
 rocnp: 0.1.0
 rococo: 1.1.7
 rocplus: 1.0-0
@@ -20052,7 +20059,7 @@ sjlabelled: 1.1.8
 sjmisc: 2.8.9
 sjstats: 0.18.1
 skatMeta: 1.4.3
-skater: 0.1.0
+skater: 0.1.1
 skda: '0.1'
 skedastic: 1.0.3
 skeleSim: 0.9.8
@@ -20252,9 +20259,10 @@ sortinghat: '0.1'
 sorvi: 0.7.26
 sos: 2.1-0
 sos4R: 0.4.2
-sotkanet: 0.9.76
+sotkanet: 0.9.79
 sotu: 1.0.2
 sound: 1.4.5
+soundClass: 0.0.9
 soundcorrs: 0.4.0
 soundecology: 1.3.3
 soundgen: 2.5.0
@@ -20771,7 +20779,7 @@ stormwindmodel: 0.1.4
 storr: 1.2.5
 storywranglr: 0.2.0
 stosim: 0.0.14
-stplanr: 0.8.6
+stplanr: 0.8.7
 stpm: 1.7.10
 stpp: 2.0-5
 stppResid: '1.1'
