@@ -710,7 +710,7 @@ BrasilMF: 1.0.0
 BrazilMet: 0.1.0
 BreakPoints: '1.2'
 BreedingSchemeLanguage: 0.9.6
-Brobdingnag: 1.2-6
+Brobdingnag: 1.2-7
 BrownDog: 0.2.1
 Brq: '3.0'
 Brundle: 1.0.9
@@ -2561,7 +2561,7 @@ HHG: 2.3.4
 HI: '0.4'
 HIBAG: 1.2.4
 HIBPwned: 0.1.7
-HIMA: 1.1.0
+HIMA: 2.0.0
 HIV.LifeTables: '0.1'
 HIest: '2.0'
 HK80: 0.0.2
@@ -2679,7 +2679,7 @@ HydroCode: 1.0.2
 HydroMe: 2.0-1
 HyperG: 1.0.0
 HyperbolicDist: 0.6-2
-HypergeoMat: 4.0.0
+HypergeoMat: 4.0.1
 IAPWS95: 1.1.0
 IASD: '1.1'
 IAT: '0.3'
@@ -3201,6 +3201,7 @@ LearnBayes: 2.15.1
 LearnClust: '1.1'
 LearnEDA: '1.2'
 LearnGeom: '1.5'
+LearnPCA: 0.1.1
 LearningRlab: '2.2'
 LearningStats: 0.1.0
 LendingClub: 2.0.0
@@ -3814,7 +3815,7 @@ MonteCarlo: 1.0.6
 MonteCarloSEM: 0.0.3
 MoonFinder: 1.0.3
 Morpho: '2.9'
-MorphoTools2: 0.9.1.1
+MorphoTools2: 0.9.1.2
 MorseGen: '1.2'
 MortCast: 2.6-1
 MortHump: '0.2'
@@ -5130,7 +5131,7 @@ RQEntangle: 0.1.3
 RQGIS: 1.0.4
 RQuantLib: 0.4.15
 RRBoost: '0.1'
-RRF: 1.9.1
+RRF: '1.9'
 RRI: '1.1'
 RRMLRfMC: 0.4.0
 RRNA: '1.0'
@@ -5895,6 +5896,7 @@ SIHR: 0.2.0
 SII: 1.0.3.1
 SILGGM: 1.0.0
 SILM: 1.0.0
+SIMEXBoost: 0.1.0
 SIMMS: 1.3.1
 SIMPLE.REGRESSION: 0.1.3
 SIN: '0.6'
@@ -5914,7 +5916,7 @@ SLBDD: 0.0.2
 SLC: '0.3'
 SLDAssay: '1.8'
 SLEMI: 1.0.1
-SLFPCA: '1.0'
+SLFPCA: '2.0'
 SLHD: 2.1-1
 SLICER: 0.2.0
 SLIDE: 1.0.0
@@ -6299,7 +6301,7 @@ SpaCCr: 0.1.0
 SpaDES: 2.0.7
 SpaDES.addins: 0.1.3
 SpaDES.core: 1.0.10
-SpaDES.tools: 0.3.9
+SpaDES.tools: 0.3.10
 SpaTimeClus: 1.0.1
 SpadeR: 0.1.1
 SparkR: 3.1.2
@@ -6674,7 +6676,7 @@ Ternary: 2.0.0
 TesiproV: 0.9.1
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
-TestDesign: 1.2.6
+TestDesign: 1.2.7
 TestDimorph: 0.4.1
 TestFunctions: 0.2.0
 TestGardener: 2.0.0
@@ -7280,7 +7282,7 @@ agroclim: 0.1.0
 agrostab: 0.1.0
 agsemisc: 1.3-1
 agtboost: 0.9.3
-agvgd: 0.1.0
+agvgd: 0.1.1
 ahMLE: '1.20'
 ahaz: '1.14'
 ahnr: 0.3.1
@@ -9095,7 +9097,7 @@ colcor: '1.0'
 cold: 2.0-3
 colf: 0.1.3
 collUtils: 1.0.5
-collapse: 1.7.3
+collapse: 1.7.5
 collapsibleTree: 0.1.7
 collateral: 0.5.2
 collectArgs: 0.4.0
@@ -10227,7 +10229,7 @@ dlookr: 0.5.4
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.4
-dm: 0.2.6
+dm: 0.2.7
 dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
@@ -10235,7 +10237,7 @@ dmai: 0.4.0
 dmbc: 1.0.0
 dmdScheme: '1.2'
 dml: 1.1.0
-dmlalg: 1.0.1
+dmlalg: 1.0.2
 dmm: 2.1-7
 dmri.tracking: 0.1.0
 dmt: 0.8.20
@@ -10764,6 +10766,7 @@ encryptedRmd: 0.2.1
 encryptr: 0.1.3
 endoSwitch: 1.0.0
 endogMNP: 0.2-1
+endogeneity: 2.0.1
 endogenous: '1.0'
 endorse: 1.6.1
 endtoend: '2.29'
@@ -11172,6 +11175,7 @@ fam2r: '1.2'
 famSKATRC: 1.1.0
 fame: 2.21.1
 familial: 1.0.1
+familiar: 1.0.0
 fanc: '2.2'
 fancycut: 0.1.2
 fanovaGraph: '1.5'
@@ -12509,7 +12513,7 @@ gotop: 0.1.2
 govStatJPN: '0.1'
 govdat: '0.1'
 govdown: 0.10.1
-gower: 0.2.2
+gower: 1.0.0
 goxygen: 1.0.3
 gpDDE: 0.8.2
 gpHist: '0.1'
@@ -13521,7 +13525,7 @@ ipcwswitch: 1.0.4
 ipdmeta: '2.4'
 ipdw: 0.2-9
 ipeaData: 0.0.2
-ipeadatar: 0.1.5
+ipeadatar: 0.1.6
 ipflasso: '1.1'
 ipfp: 1.0.1
 ipfr: 1.0.2
@@ -15035,7 +15039,7 @@ micemd: 1.8.0
 michelRodange: 1.0.0
 miclust: 1.2.7
 micompr: 1.1.1
-microPop: '1.5'
+microPop: '1.6'
 microSTASIS: 0.1.0
 microbats: 0.1-1
 microbenchmark: 1.4.9
@@ -16043,7 +16047,7 @@ node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodeSub: 1.2.3
 nodiv: 1.4.0
-nofrills: 0.3.1
+nofrills: 0.3.2
 noia: 0.97.1
 noise: 1.0.1
 noisyCE2: 1.1.0
@@ -17046,6 +17050,7 @@ phyndr: 0.1.0
 phyr: 1.1.0
 phyreg: 1.0.2
 physiology: 1.2.1
+physx: '1.0'
 phytools: 1.0-1
 phytotools: '1.0'
 pi0: 1.4-1
@@ -17432,7 +17437,7 @@ praise: 1.0.0
 praktikum: '0.1'
 praznik: 10.0.0
 prc: 2019.1-23
-prcbench: 1.0.1
+prcbench: 1.0.2
 prclust: '1.3'
 prcr: 0.2.1
 pre: 1.0.1
@@ -18142,7 +18147,7 @@ randnet: '0.5'
 rando: 0.2.0
 random: 0.2.6
 random.polychor.pa: 1.1.4-4
-randomForest: 4.6-14
+randomForest: 4.7-1
 randomForest.ddR: 0.1.2
 randomForestExplainer: 0.10.1
 randomForestSRC: 3.0.0
@@ -18807,7 +18812,7 @@ rknn: 1.2-1
 rkt: '1.6'
 rkvo: '0.1'
 rlandscape: '1.0'
-rlang: 1.0.0
+rlang: 1.0.1
 rlas: 1.5.0
 rlc: 0.4.1
 rld: '1.0'
@@ -19439,7 +19444,7 @@ scCATCH: '3.0'
 scDHA: 1.1.2
 scDIFtest: 0.1.1
 scDiffCom: 0.1.0
-scINSIGHT: 0.1.2
+scINSIGHT: 0.1.3
 scITD: 1.0.1
 scImmuneGraph: 1.1.3
 scLink: 1.0.1
@@ -19860,7 +19865,7 @@ shinyfullscreen: 1.1.0
 shinyglide: 0.1.3
 shinyhelper: 0.3.2
 shinyhttr: 1.1.0
-shinyjqui: 0.4.0
+shinyjqui: 0.4.1
 shinyjs: 2.1.0
 shinyloadtest: 1.1.0
 shinylogs: 0.2.0
@@ -19898,7 +19903,7 @@ showtextdb: '3.0'
 shp2graph: 0-5
 shrink: 1.2.1
 shrinkDSM: 0.1.0
-shrinkTVP: 2.0.4
+shrinkTVP: 2.0.5
 shuffle: 1.0.1
 shuffleCI: 0.1.0
 shutterplot: 0.1.0
@@ -20222,7 +20227,7 @@ softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
 soilDB: 2.6.13
-soilassessment: 0.2.2
+soilassessment: 0.2.3
 soilcarbon: 1.2.0
 soilhypfit: 0.1-5
 soilphysics: '4.1'
@@ -21007,7 +21012,7 @@ svdvisual: '1.1'
 svenssonm: 0.1.0
 svgPanZoom: 0.3.4
 svgViewR: 1.4.1
-svglite: 2.0.0
+svglite: 2.1.0
 svgtools: 1.1.0
 svmadmm: '0.3'
 svmpath: '0.970'
@@ -21418,7 +21423,7 @@ tidyqwi: 0.1.2
 tidyr: 1.2.0
 tidyrules: 0.1.5
 tidyselect: 1.1.1
-tidyseurat: 0.3.0
+tidyseurat: 0.5.1
 tidysmd: 0.1.0
 tidysq: 1.1.3
 tidystats: 0.5.1
