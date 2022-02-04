@@ -1345,7 +1345,7 @@ DIME: '1.2'
 DIMORA: 0.2.0
 DIRECT: 1.0.1
 DISTRIB: '1.0'
-DIZutils: 0.0.11
+DIZutils: 0.0.12
 DIconvex: 1.0.0
 DImodels: '1.1'
 DIscBIO: 1.2.0
@@ -2173,7 +2173,7 @@ GAR: '1.1'
 GARCHIto: 0.1.0
 GARCHSK: 0.1.0
 GARCOM: 1.2.0
-GAS: 0.3.3
+GAS: 0.3.4
 GAabbreviate: '1.3'
 GAparsimony: 0.9.4
 GB2: '2.1'
@@ -2988,7 +2988,7 @@ KENDL: '1.1'
 KERE: 1.0.0
 KFAS: 1.4.6
 KFKSDS: '1.6'
-KFPCA: '1.0'
+KFPCA: '2.0'
 KGode: 1.0.3
 KHQ: 0.2.0
 KLexp: 1.0.0
@@ -3273,7 +3273,7 @@ MABOUST: 1.0.1
 MACER: 0.1.1
 MADAM: '1.2'
 MADPop: 1.1.2
-MAFDash: 0.1.0
+MAFDash: 0.2.0
 MAGEE: 1.0.2
 MAGNAMWAR: 2.0.4
 MAINT.Data: 2.6.2
@@ -3450,7 +3450,7 @@ MLCM: 0.4.3
 MLDA: '2.0'
 MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
-MLDS: 0.4.7
+MLDS: 0.4.901
 MLDataR: 0.1.2
 MLEP: 0.0-3
 MLEcens: 0.1-4
@@ -4016,7 +4016,7 @@ NetComp: '1.6'
 NetDA: 0.1.0
 NetData: '0.3'
 NetExplorer: 0.0.2
-NetFACS: 0.3.0
+NetFACS: 0.3.1
 NetIndices: 1.4.4
 NetLogoR: 0.3.9
 NetMix: 0.2.0
@@ -4447,7 +4447,7 @@ ParBayesianOptimization: 1.2.4
 ParDNAcopy: '2.0'
 ParallelDSM: 0.3.1
 ParallelForest: 1.1.0
-ParallelLogger: 2.0.2
+ParallelLogger: 3.0.0
 ParallelPC: '1.2'
 ParallelTree: 0.1.3
 ParamHelpers: '1.14'
@@ -4578,7 +4578,7 @@ PosRatioDist: 1.0.1
 PostcodesioR: 0.3.1
 PosteriorBootstrap: 0.1.1
 PottsUtils: 0.3-3
-PoweR: 1.0.7
+PoweR: '1.0'
 Power2Stage: 0.5-4
 PowerNormal: 1.2.0
 PowerTOST: 1.5-3
@@ -4785,7 +4785,7 @@ RAEN: '0.2'
 RAFM: '1.1'
 RAHRS: 1.0.2
 RAINBOWR: 0.1.29
-RALSA: 1.0.2
+RALSA: 1.1.0
 RAM: 1.2.1.7
 RAMClustR: 1.2.2
 RAMP: 2.0.2
@@ -8368,7 +8368,7 @@ breakfast: '2.2'
 breakpoint: '1.2'
 breathtestcore: 0.8.1
 breathteststan: 0.8.0
-brew: 1.0-6
+brew: 1.0-7
 brewdata: '0.4'
 brglm: 0.7.2
 brglm2: 0.8.2
@@ -10309,7 +10309,7 @@ double.truncation: '1.7'
 doubt: 0.1.0
 downlit: 0.4.0
 downloader: '0.4'
-downloadthis: 0.2.1
+downloadthis: 0.3.0
 downscale: 4.2-0
 downscaledl: '1.0'
 downsize: 0.2.2
@@ -10719,7 +10719,7 @@ elliptic: 1.4-0
 ellipticalsymmetry: 0.1.2
 elmNN: '1.0'
 elmNNRcpp: 1.0.4
-elo: 2.1.1
+elo: 3.0.1
 elpatron: 0.0.4
 elrm: 1.2.5
 elsa: 1.1-28
@@ -11849,7 +11849,7 @@ gamm4.test: 0.1.0
 gammSlice: 2.0-2
 gamma: 1.0.1
 gamreg: '0.3'
-gamsel: 1.8-1
+gamsel: 1.8-2
 gamselBayes: 1.0-1
 ganGenerativeData: 1.2.0
 ganalytics: 0.10.7
@@ -13550,7 +13550,7 @@ ipumsr: 0.4.5
 ipw: 1.0-11
 ipwCoxCSV: '1.0'
 ipwErrorY: '2.1'
-iq: 1.9.1
+iq: '1.9'
 iqLearn: '1.5'
 iqspr: '2.3'
 irace: 3.4.1
@@ -13708,7 +13708,7 @@ joineR: 1.2.6
 joineRML: 0.4.5
 joineRmeta: 0.1.2
 joinet: 0.0.10
-joint.Cox: '3.15'
+joint.Cox: '3.16'
 jointDiag: '0.4'
 jointMeanCov: 0.1.0
 jointNmix: '1.0'
@@ -14133,7 +14133,7 @@ legco: 0.1.4
 legion: 0.1.0
 legislatoR: '1.0'
 legocolors: 0.3.1
-lehdr: 0.2.4
+lehdr: 1.0.1
 leiden: 0.3.9
 leidenAlg: 1.0.1
 leiv: 2.0-7
@@ -14459,7 +14459,7 @@ lsgl: 1.3.6
 lshorth: 0.1-6
 lsl: 0.5.6
 lslx: 0.6.10
-lsm: 0.2.0
+lsm: 0.2.1.2
 lsmeans: 2.30-0
 lspartition: '0.4'
 lspline: 1.0-0
@@ -15637,7 +15637,7 @@ multimorbidity: 0.5.0
 multinbmod: '1.0'
 multinet: 4.0.1
 multinets: 0.2.2
-multinma: 0.4.0
+multinma: 0.4.1
 multinomRob: 1.8-6.1
 multinomineq: 0.2.1
 multipanelfigure: 2.1.2
@@ -16350,7 +16350,7 @@ openNLPdata: 1.5.3-4
 openNLPmodels: 0.0-3
 openNLPmodels.en: 0.0-4
 openNLPmodels.es: 0.0-4
-openSTARS: 1.2.2
+openSTARS: 1.2.3
 openSkies: 1.1.6
 openVA: 1.0.13
 openadds: 0.2.0
@@ -16776,7 +16776,7 @@ pbdMPI: 0.4-4
 pbdNCDF4: 0.1-4
 pbdPROF: 0.4-0
 pbdRPC: 0.2-1
-pbdSLAP: 0.3-1
+pbdSLAP: 0.3-2
 pbdZMQ: 0.3-6
 pbivnorm: 0.6.0
 pbixr: 0.1.4
@@ -17007,7 +17007,7 @@ phonenumber: 0.2.3
 phonfieldwork: 0.0.11
 phonics: 1.3.10
 phosphoricons: 0.1.1
-photobiology: 0.10.8
+photobiology: 0.10.9
 photobiologyFilters: 0.5.2
 photobiologyInOut: 0.4.23
 photobiologyLEDs: 0.4.3-1
@@ -19464,7 +19464,7 @@ scTenifoldKnk: 1.0.1
 scTenifoldNet: '1.3'
 scUtils: 0.1.0
 sca: 0.9-0
-scaRabee: 1.1-3
+scaRabee: 1.1-4
 scaffolder: 0.0.1
 scagnostics: 0.2-4.1
 scaleAlign: 1.0.0.0
@@ -19748,7 +19748,7 @@ settings: 0.2.7
 setwidth: 1.0-4
 sever: 0.0.7
 severity: '2.0'
-sf: 1.0-5
+sf: 1.0-6
 sfa: 1.0-1
 sfaR: 0.1.0
 sfadv: 1.0.1
@@ -20316,7 +20316,7 @@ spaceExt: '1.0'
 spaceNet: '1.2'
 spacefillr: 0.2.0
 spacejam: '1.1'
-spacejamr: 0.1.1
+spacejamr: '0.2'
 spacesRGB: 1.4-0
 spacesXYZ: 1.1-1
 spacetime: 1.2-6
@@ -21008,7 +21008,7 @@ svTools: 0.9-5
 svUnit: 1.0.6
 svWidgets: 0.9-45
 svapls: '1.4'
-svars: 1.3.8
+svars: 1.3.9
 svcR: 1.6.5
 svcm: 0.1.2
 svd: '0.5'
