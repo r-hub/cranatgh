@@ -289,7 +289,7 @@ AzureKusto: 1.0.6
 AzureML: 0.2.15
 AzureQstor: 1.0.1
 AzureRMR: 2.4.3
-AzureStor: 3.6.0
+AzureStor: 3.6.1
 AzureTableStor: 1.0.0
 AzureVM: 2.2.2
 AzureVMmetadata: 1.0.1
@@ -1505,7 +1505,7 @@ DensParcorr: '1.1'
 Density.T.HoldOut: '2.00'
 DepLogo: '1.2'
 Depela: '0.0'
-DepthProc: 2.1.4
+DepthProc: 2.1.5
 Deriv: 4.1.3
 DescTools: 0.99.44
 DescToolsAddIns: '1.9'
@@ -5920,6 +5920,7 @@ SLFPCA: '2.0'
 SLHD: 2.1-1
 SLICER: 0.2.0
 SLIDE: 1.0.0
+SLModels: 0.1.2
 SLOPE: 0.4.0
 SLTCA: 0.1.0
 SLmisc: '1.4'
@@ -6745,7 +6746,7 @@ TrafficBDE: 0.1.0
 TraitStats: 1.0.1
 Traitspace: '1.1'
 TrajDataMining: 0.1.6
-TransModel: '2.1'
+TransModel: '2.3'
 TransP: '0.1'
 TransPhylo: 1.4.5
 TransferEntropy: '1.4'
@@ -6840,7 +6841,7 @@ UncertainInterval: 0.7.0
 UniDOE: '1.0'
 UniIsoRegression: 0.0-0
 Unicode: 14.0.0-1
-UnifiedDoseFinding: 0.1.8
+UnifiedDoseFinding: 0.1.9
 UniprotR: 2.1.0
 UnitCircle: 0.1.3
 UnitStat: 1.1.0
@@ -6958,7 +6959,7 @@ WGCNA: 1.70-3
 WGScan: '0.1'
 WHO: '0.2'
 WINRPACK: 1.1-0
-WINS: '1.0'
+WINS: '1.1'
 WLasso: '1.0'
 WLinfer: 1.1.0
 WLreg: 1.0.0
@@ -8073,7 +8074,7 @@ bigsimr: 0.11.2
 bigsnpr: 1.8.1
 bigsparser: 0.5.0
 bigsplines: 1.1-1
-bigstatsr: 1.5.5
+bigstatsr: 1.5.6
 bigstep: 1.0.3
 bigtabulate: 1.1.5
 bigtcr: '1.1'
@@ -12212,6 +12213,7 @@ ggguitar: 0.1.1
 ggh4x: 0.2.1
 gghalfnorm: 1.1.2
 gghalves: 0.1.1
+gghdr: 0.1.0
 ggheatmap: '2.1'
 gghighlight: 0.3.2
 gghilbertstrings: 0.3.3
@@ -12578,6 +12580,7 @@ graphon: 0.3.5
 graphql: '1.5'
 graphscan: '1.1'
 graphsim: 1.0.2
+graphx: '1.0'
 grasp: 2.5-7
 grasper: 0.4-4
 grates: 0.3.0
@@ -12740,6 +12743,7 @@ gwrr: 0.2-1
 gwsem: 2.1.4
 gym: 0.1.0
 gyriq: 1.0.2
+gyro: 0.1.0
 h2o: 3.36.0.2
 h2o4gpu: 0.3.3
 h3jsr: 1.2.3
@@ -14178,7 +14182,7 @@ libproj: 8.1.0-1
 libr: 1.2.2
 librarian: 1.8.1
 librarysnapshot: 0.1.2
-libsoc: '0.7'
+libsoc: 0.7.3
 libstableR: 1.0.2
 lidR: 3.2.3
 lidaRtRee: 3.1.2
@@ -14592,7 +14596,7 @@ manifestoR: 1.5.0
 manipulate: 1.0.1
 manipulateWidget: 0.11.1
 manymodelr: 0.3.7
-maotai: 0.2.2
+maotai: 0.2.4
 mapDK: 0.3.0
 mapLD: 1.0-1
 mapReasy: '1.0'
@@ -15073,7 +15077,7 @@ migration.indices: 0.3.0
 migrbc: 2.0.9
 migui: '1.1'
 miic: 1.5.3
-mikropml: 1.2.1
+mikropml: 1.2.2
 milonga: '1.0'
 milorGWAS: '0.3'
 milr: 0.3.1
@@ -15801,6 +15805,7 @@ nbapalettes: 0.1.0
 nbc4va: '1.1'
 nbconvertR: 1.3.2
 nberwp: 1.1.0
+nbody: '1.30'
 nbpMatching: 1.5.1
 nc: 2020.8.6
 ncappc: 0.3.0
@@ -15924,7 +15929,7 @@ nflplotR: 1.0.0
 nflreadr: 1.1.3
 nflseedR: 1.0.2
 nflverse: 1.0.0
-nftbart: '1.1'
+nftbart: '1.2'
 nga: '1.4'
 ngram: 3.2.0
 ngramr: 1.7.5
@@ -16649,7 +16654,7 @@ papply: '0.1'
 parSim: 0.1.4
 parade: '0.1'
 paradox: 0.8.0
-parallelDist: 0.2.4
+parallelDist: 0.2.6
 parallelMCMCcombine: '2.0'
 parallelML: '1.2'
 parallelMap: 1.5.1
@@ -18583,7 +18588,7 @@ reporttools: 1.1.3
 repr: 1.1.4
 repra: '0.4'
 represent: '1.0'
-representr: 0.1.2
+representr: 0.1.3
 represtools: 0.1.3
 reprex: 2.0.1
 reproducer: 0.4.2
@@ -18639,7 +18644,7 @@ reval: 3.0-0
 revdbayes: 1.3.9
 revealedPrefs: 0.4.1
 revealjs: '0.9'
-reveneraR: 0.1.0
+reveneraR: 0.1.1
 revengc: 1.0.4
 reverseR: '0.1'
 revgeo: '0.15'
@@ -21540,6 +21545,7 @@ tmlenet: 0.1.0
 tmod: 0.46.2
 tmplate: 0.0.3
 tmpm: 1.0.3
+tmsens: 0.1.0
 tmt: 0.3.0-20
 tmuxr: 0.2.4
 tmvmixnorm: 1.1.1
@@ -22299,7 +22305,7 @@ wavefunction: 1.0.0
 wavelets: 0.3-0.2
 wavemulcor: 3.1.2
 waver: 0.2.1
-waves: 0.2.0
+waves: 0.2.1
 waveslim: 1.8.2
 wavethresh: 4.6.8
 wayback: 0.2.4
