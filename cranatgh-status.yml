@@ -138,7 +138,7 @@ ASSOCShiny: 0.1.0
 AST: 0.1.0
 ATAforecasting: 0.0.56
 ATE: 0.2.0
-ATNr: '1.0'
+ATNr: 1.0.1
 ATR: 0.1-1
 ATbounds: 0.1.0
 ATmet: 1.2.1
@@ -618,7 +618,7 @@ BigTSP: '1.0'
 BigVAR: 1.0.6
 BimodalIndex: 1.1.9
 BinGSD: 0.0.1
-BinMat: 0.1.2
+BinMat: 0.1.3
 BinNonNor: 1.5.3
 BinNor: 2.3.3
 BinOrdNonNor: 1.5.2
@@ -978,7 +978,7 @@ CateSelection: '1.0'
 CauchyCP: 0.1.0
 CausalFX: 1.0.1
 CausalGAM: 0.1-4
-CausalGPS: 0.2.6
+CausalGPS: 0.2.7
 CausalImpact: 1.2.7
 CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.1
@@ -1237,6 +1237,7 @@ CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
 Cyclops: 3.1.2
+CytOpT: 0.9.2
 CytobankAPI: 1.4.0
 CytobankAPIstats: '2.0'
 CytobankBridgeR: 1.0.0
@@ -1326,7 +1327,7 @@ DFIT: '1.1'
 DGCA: 1.0.2
 DGEobj: 1.0.3
 DGEobj.utils: 1.0.4
-DGLMExtPois: 0.1.3
+DGLMExtPois: 0.2.0
 DGM: 1.7.4
 DGVM3D: 1.0.0
 DHARMa: 0.4.5
@@ -1910,6 +1911,7 @@ FAO56: 0.1.0
 FAOSTAT: 2.2.3
 FARDEEP: 1.0.1
 FASeg: 0.1.9
+FAVAR: 0.1.0
 FAdist: '2.3'
 FAiR: 0.4-8
 FAmle: 1.3.5
@@ -2081,6 +2083,7 @@ FitUltD: 3.1.0
 FixSeqMTP: 0.1.2
 FixedPoint: 0.6.2
 FlexDir: '1.0'
+FlexDotPlot: 0.2.1
 FlexGAM: 0.7.2
 FlexParamCurve: 1.5-5
 FlexReg: '1.1'
@@ -2839,6 +2842,7 @@ IVYplot: 0.1.0
 IalsaSynthesis: 0.1.6
 Iboot: 0.1-1
 IceCast: 2.1.0
+IceSat2R: 1.0.0
 Icens: 1.24.0
 IgAScores: 0.1.2
 IgorR: '0.8'
@@ -2861,7 +2865,7 @@ IndTestPP: '3.0'
 IndepTest: 0.2.0
 IndependenceTests: '0.5'
 IndexConstruction: 0.1-3
-IndexNumR: 0.4.0
+IndexNumR: 0.5.0
 IndexNumber: 1.3.2
 IndianTaxCalc: 1.0.2
 InfDim: '1.0'
@@ -3896,6 +3900,7 @@ NAPPA: '2.0'
 NB: '0.9'
 NB.MClust: 1.1.1
 NBAloveR: 0.1.3.3
+NBBDesigns: 1.0.0
 NBBttest: 1.0.0
 NBDdirichlet: '1.3'
 NBDesign: 2.0.0
@@ -4110,7 +4115,7 @@ ORCI: '1.1'
 ORCME: 2.0.2
 ORDER2PARENT: '1.0'
 ORIClust: 1.0-1
-ORION: 1.0.2
+ORION: 1.0.3
 ORKM: 0.0.0.3
 ORMDR: 1.3-2
 ORTSC: 1.0.0
@@ -5733,7 +5738,7 @@ Rtnmin: 2016-7.7
 Rtrack: 1.0.0
 Rtropical: 1.2.1
 Rtsne: '0.15'
-Rttf2pt1: 1.3.9
+Rttf2pt1: 1.3.10
 Rtts: 0.3.3
 RtutoR: '1.2'
 Rtwalk: 1.8.0
@@ -8135,6 +8140,7 @@ bioPN: 1.2.0
 bioRad: 0.5.2
 bioacoustics: 0.2.7
 bioassays: 1.0.1
+bioclim: 0.1.0
 biocompute: 1.1.0
 biodosetools: 3.6.0
 biofiles: 1.0.0
@@ -8524,7 +8530,7 @@ camel: 0.2.0
 campfin: 1.0.8
 camsRad: 0.3.0
 camtrapR: 2.0.3
-canadacovid: 0.3.1
+canadacovid: 0.3.3
 canadamaps: '0.1'
 canadianmaps: 1.0.0
 cancensus: 0.4.8
@@ -9291,6 +9297,7 @@ convey: 0.2.4
 convoSPAT: 1.2.7
 cooccur: '1.3'
 cooccurNet: 0.1.6
+cooltools: '1.6'
 coop: 0.6-3
 coopProductGame: '2.0'
 cooptrees: '1.0'
@@ -9479,6 +9486,7 @@ cregg: 0.4.0
 crestr: 1.0.0
 crevents: 0.1.0
 crfsuite: '0.4'
+cricketdata: 0.1.0
 cricketr: 0.0.26
 crimCV: 0.9.6
 crimedata: 0.2.0
@@ -10105,7 +10113,7 @@ digitize: 0.0.4
 dils: 0.8.1
 dimRed: 0.2.4
 dimensio: 0.2.2
-dimensionsR: 0.0.2
+dimensionsR: 0.0.3
 dina: 2.0.0
 dinamic: '1.0'
 dineR: 1.0.1
@@ -10190,7 +10198,7 @@ distrRmetrics: 2.8.0
 distrSim: 2.8.0
 distrTEst: 2.8.0
 distrTeach: 2.8.0
-distreg.vis: 1.7.2
+distreg.vis: 1.7.3
 distribglm: 0.4.1
 distributional: 0.3.0
 distributions: '1.3'
@@ -10256,7 +10264,7 @@ doFuture: 0.12.0
 doMC: 1.3.8
 doMIsaul: 1.0.1
 doMPI: 0.2.2
-doParallel: 1.0.16
+doParallel: 1.0.17
 doRNG: 1.8.2
 doRedis: 3.0.0
 doSMP: 1.0-1
@@ -11232,6 +11240,7 @@ fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
 fasterize: 1.0.3
 fastglm: 0.0.1
+fasthplus: '1.0'
 fastkmedoids: '1.2'
 fastlogitME: 0.1.0
 fastlogranktest: 0.2.1
@@ -11269,6 +11278,7 @@ fca: 0.1.0
 fcaR: 1.1.1
 fcci: 1.0.1
 fcd: '0.1'
+fcfdr: 1.0.0
 fcirt: 0.1.0
 fclust: 2.1.1
 fcm: 0.1.3
@@ -11400,6 +11410,8 @@ fingertipsR: 1.0.5
 fingertipscharts: 0.0.9
 finiteruinprob: '0.6'
 finity: 0.1.4.1
+finnishgrid: 0.1.0
+finnts: 0.1.0
 finreportr: 1.0.4
 fipe: 0.0.1
 fipio: 1.1.0
@@ -11828,7 +11840,7 @@ games: 1.1.2
 gamesGA: 1.1.3.7
 gamesNws: '0.5'
 gamlr: 1.13-7
-gamlss: 5.3-4
+gamlss: 5.4-1
 gamlss.add: 5.1-6
 gamlss.cens: 5.0-1
 gamlss.countKinf: 3.5.1
@@ -12606,7 +12618,7 @@ greta: 0.3.1
 gretel: 0.0.1
 gretlR: 0.1.0
 grex: '1.9'
-greybox: 1.0.3
+greybox: 1.0.4
 greyzoneSurv: '1.0'
 grf: 2.0.2
 grid: 0.7-4
@@ -13746,7 +13758,7 @@ jsr223: 0.3.4
 jstable: 1.0.7
 jstor: 0.3.10
 jtGWAS: '1.5'
-jti: 0.8.2
+jti: 0.8.3
 jtools: 2.1.4
 jtrans: 0.2.1
 jubilee: 0.3.3
@@ -14410,10 +14422,10 @@ loo: 2.4.1
 lookout: 0.1.0
 lookup: '1.0'
 lookupTable: '0.1'
-loon: 1.3.8
+loon: 1.3.9
 loon.data: 0.1.3
 loon.ggplot: 1.3.0
-loon.shiny: 1.0.1
+loon.shiny: 1.0.2
 loon.tourr: 0.1.3
 loop: '1.1'
 loopr: 1.0.1
@@ -15863,6 +15875,7 @@ netCoin: 2.0.20
 netSEM: 0.5.1
 netassoc: 0.6.3
 netchain: 0.2.0
+netcmc: '1.0'
 netcoh: '0.2'
 netcom: 2.1.5
 netcontrol: '0.1'
@@ -16505,6 +16518,7 @@ otp: 0.1.0
 otpr: 0.5.1
 otrimle: '2.0'
 otsad: 0.2.0
+ottr: 1.1.3
 otuSummary: 0.1.1
 otvPlots: 0.2.1
 ouch: '2.17'
@@ -16646,6 +16660,7 @@ panelaggregation: 0.1.1
 panelr: 0.7.6
 panelvar: 0.5.3
 pangaear: 1.1.0
+panstarrs: 0.1.0
 papayar: '1.0'
 papci: 0.1.0
 papeR: 1.0-5
@@ -16866,7 +16881,7 @@ pedmod: 0.1.0
 pedmut: 0.3.0
 pedometrics: 0.7.0
 pedprobr: 0.6.1
-pedquant: 0.1.7
+pedquant: 0.1.8
 pedsuite: 1.1.0
 pedtools: 1.1.0
 peermodels: 0.10.2
@@ -17060,6 +17075,7 @@ phytools: 1.0-1
 phytotools: '1.0'
 pi0: 1.4-1
 piRF: 0.1.0
+piar: 0.3.2
 picante: 1.8.2
 picasso: 1.3.1
 pid: '0.50'
@@ -17162,7 +17178,7 @@ pliman: 1.1.0
 plink: 1.5-1
 plinkFile: 0.1.0
 plinkQC: 0.3.4
-plm: 2.4-3
+plm: 2.6-0
 plmDE: '1.0'
 plmm: 0.1-1
 pln: 0.2-2
@@ -17567,7 +17583,7 @@ profileModel: 0.6.1
 profileR: 0.3-5
 profilr: 0.1.0
 profmem: 0.6.0
-profoc: 0.8.5
+profoc: 0.9.0
 profr: 0.3.3
 proftools: 0.99-3
 profvis: 0.3.7
@@ -19194,7 +19210,7 @@ rsurface: 1.1.0
 rsurfer: '0.2'
 rsvd: 1.0.5
 rsvddpd: 1.0.0
-rsvg: 2.1.2
+rsvg: 2.2.0
 rsyncrosim: 1.3.2
 rsyntax: 0.1.3
 rsyslog: 1.0.2
@@ -19717,7 +19733,7 @@ seqgendiff: 1.2.2
 seqhandbook: 0.1.0
 seqinr: 4.2-8
 seqmagick: 0.1.5
-seqminer: '8.2'
+seqminer: '8.4'
 seqmon: '2.4'
 seqtest: 0.1-0
 sequence: '2.0'
@@ -19984,7 +20000,7 @@ simfam: 1.0.3
 simfinR: 0.2.3
 simfinapi: 0.2.0
 simfit: 0.1.0
-simglm: 0.8.8
+simglm: 0.8.9
 simgof: 1.0.2
 simhelpers: 0.1.1
 similarityRichards: 0.5.0
@@ -20309,7 +20325,7 @@ spTest: 0.2.5
 spThin: 0.2.0
 spTimer: 3.3.1
 spa: '2.0'
-spaMM: 3.9.25
+spaMM: 3.10.0
 spaa: 0.2.2
 space: 0.1-1.1
 spaceExt: '1.0'
@@ -20378,7 +20394,7 @@ sparsesvd: '0.2'
 sparsevar: 0.1.0
 sparsevb: 0.1.0
 sparsio: 1.0.1
-sparta: 0.8.2
+sparta: 0.8.3
 spartan: 3.0.2
 spass: '1.3'
 spatPomp: 0.29.0.0
@@ -20451,6 +20467,7 @@ specr: 0.2.1
 specs: 0.1.1
 spectacles: 0.5-3
 spectator: 0.1.0
+spectr: 1.0.1
 spectral: '2.0'
 spectral.methods: 0.7.2.133
 spectralAnalysis: 3.12.0
@@ -21599,6 +21616,7 @@ tourr: 0.6.0
 tourrGui: '0.4'
 toxEval: 1.2.0
 toxboot: 0.2.0
+toxpiR: 1.0.2
 toxplot: 0.1.1
 toxtestD: '2.0'
 tpAUC: 2.1.1
@@ -22323,6 +22341,7 @@ wdman: 0.2.5
 wdnr.gis: 0.1.2
 wdpar: 1.3.2
 weaana: 0.1.1
+weakARMA: 1.0.2
 wearables: 0.8.1
 weatherData: 0.5.0
 weathercan: 0.6.2
@@ -22524,7 +22543,7 @@ wyz.code.testthat: 1.1.20
 x.ent: 1.1.7
 x12: 1.10.2
 x12GUI: 0.9-3
-x13binary: 1.1.57-2
+x13binary: 1.1.57-3
 x3ptools: 0.0.3
 xLLiM: '2.2'
 xROI: 0.9.20
