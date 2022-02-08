@@ -168,7 +168,7 @@ ActivePathways: 1.0.4
 ActivityIndex: 0.3.7
 ActuDistns: '3.0'
 AcuityView: '0.1'
-AdMit: 2.1.8
+AdMit: 2.1.9
 AdaSampling: '1.3'
 AdapEnetClass: '1.2'
 AdapSamp: 1.1.1
@@ -189,7 +189,7 @@ AeroSampleR: 0.1.12
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
-AgroR: 1.2.6
+AgroR: 1.2.7
 AgroReg: 1.2.1
 AgroTech: 1.0.1
 AhoCorasickTrie: 0.1.2
@@ -1133,7 +1133,7 @@ CompetingRiskFrailty: '2.0'
 Compind: '2.3'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
-Compositional: '5.3'
+Compositional: '5.4'
 CompoundEvents: 0.1.0
 Compounding: 1.0.2
 ConConPiWiFun: 0.4.6.1
@@ -2254,7 +2254,7 @@ GLDreg: 1.0.7
 GLIDE: 1.0.4
 GLMMGibbs: '0.5'
 GLMMRR: 0.5.0
-GLMMadaptive: 0.8-2
+GLMMadaptive: 0.8-5
 GLMMarp: 0.1-1
 GLMaSPU: '1.0'
 GLMcat: 0.2.4
@@ -3569,7 +3569,7 @@ MSSQL: 1.0.0
 MST: '2.2'
 MSToolkit: 3.2.0
 MSVAR: '0.0'
-MSbox: 1.4.0
+MSbox: 1.4.4
 MSclassifR: 0.1.0
 MScombine: '1.4'
 MSeasy: '5.3'
@@ -4708,7 +4708,7 @@ QTL.gCIMapping: 3.3.1
 QTL.gCIMapping.GUI: 2.1.1
 QTLEMM: 1.1.0
 QTLNetworkR: 0.1-7
-QTLRel: '1.7'
+QTLRel: '1.8'
 QTOCen: 0.1.1
 QUALYPSO: '1.2'
 QUIC: '2012.02'
@@ -4976,7 +4976,7 @@ RJSONLD: '1.0'
 RJSplot: '2.7'
 RJaCGH: 2.0.4
 RJafroc: 2.0.1
-RJcluster: 3.2.2
+RJcluster: 3.2.3
 RKEA: 0.0-6
 RKEAjars: 5.0-4
 RKEEL: 1.3.3
@@ -6569,7 +6569,7 @@ TPMplt: 0.1.3
 TPmsm: 1.2.5
 TR8: 0.9.22
 TRADER: 1.2-3
-TRAMPR: 1.0-9
+TRAMPR: 1.0-10
 TRD: '1.1'
 TRES: 1.1.5
 TREXr: 1.0.0
@@ -7606,7 +7606,7 @@ assignR: 2.1.1
 assist: 3.1.7
 assocInd: 1.0.1
 assortnet: '0.12'
-asteRisk: 1.2.0
+asteRisk: 1.3.0
 aster: 1.1-2
 aster2: '0.3'
 astro: '1.2'
@@ -7668,7 +7668,7 @@ autoCovariateSelection: 1.0.0
 autoFC: 0.1.2
 autoFRK: 1.4.3
 autoMFA: 1.0.0
-autoMrP: 1.0.0
+autoMrP: 1.0.1
 autoReg: 0.1.0
 autoSEM: 0.1.0
 autoTS: 0.9.11
@@ -9046,7 +9046,7 @@ cncaGUI: '1.0'
 cnmlcd: 1.2-0
 cns: 0.1.0
 cnum: 0.1.3
-coRanking: 0.2.2
+coRanking: 0.2.3
 coala: 0.6.0
 coalescentMCMC: 0.4-1
 coalitions: 0.6.20
@@ -10424,7 +10424,7 @@ dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.3.1-1
+duckdb: 0.3.2
 duckduckr: 1.0.0
 dumbbell: '0.1'
 dummies: 1.5.6
@@ -10574,7 +10574,7 @@ ecm: 6.3.0
 ecmwfr: 1.3.0
 eco: 4.0-1
 ecoCopula: 1.0.1
-ecochange: '2.2'
+ecochange: '2.5'
 ecocomDP: 1.2.0
 ecodist: 2.0.7
 ecoengine: '1.9'
@@ -12400,7 +12400,7 @@ glmglrt: 0.2.2
 glmgraph: 1.0.3
 glmlep: '0.2'
 glmm: 1.4.2
-glmm.hp: 0.0-1
+glmm.hp: 0.0-2
 glmmAK: '1.7'
 glmmBUGS: 2.4.2
 glmmEP: 1.0-3.1
@@ -12596,7 +12596,7 @@ graphx: '1.0'
 grasp: 2.5-7
 grasper: 0.4-4
 grates: 0.3.0
-gratia: 0.6.0
+gratia: 0.7.0
 graticule: 0.1.6
 gratis: 1.0.0
 grattan: 1.9.0.10
@@ -13177,7 +13177,7 @@ iNEXT: 2.0.20
 iNOTE: '1.0'
 iNZightMR: 2.2.6
 iNZightPlots: 2.14.0
-iNZightRegression: 1.3.1
+iNZightRegression: 1.3.2
 iNZightTS: 1.5.9
 iNZightTools: 1.12.2
 iNextPD: 0.3.2
@@ -14424,7 +14424,7 @@ lookup: '1.0'
 lookupTable: '0.1'
 loon: 1.3.9
 loon.data: 0.1.3
-loon.ggplot: 1.3.0
+loon.ggplot: 1.3.1
 loon.shiny: 1.0.2
 loon.tourr: 0.1.3
 loop: '1.1'
@@ -15053,7 +15053,7 @@ miceadds: 3.11-6
 miceafter: 0.1.0
 micemd: 1.8.0
 michelRodange: 1.0.0
-miclust: 1.2.7
+miclust: 1.2.8
 micompr: 1.1.1
 microPop: '1.6'
 microSTASIS: 0.1.0
@@ -17223,7 +17223,7 @@ plsVarSel: 0.9.7
 plsdepot: 0.1.17
 plsdof: 0.3-0
 plsgenomics: 1.5-2
-plsmod: 0.1.1
+plsmod: 0.1.2
 plsmselect: 0.2.0
 plspm: 0.4.9
 plspm.formula: '1.0'
@@ -18764,7 +18764,7 @@ riceware: '0.4'
 rich: 1.0.1
 richards: 0.5.0
 ricu: 0.5.1
-ridge: '3.0'
+ridge: '3.1'
 ridigbio: 0.3.5
 ridittools: '0.1'
 riem: 0.2.0
@@ -19363,7 +19363,7 @@ saeBest: 0.1.0
 saeHB: 0.1.0
 saeME: 1.2.4
 saeRobust: 0.2.0
-saeSim: 0.10.0
+saeSim: 0.11.0
 saeeb: 0.1.0
 saekernel: 0.1.1
 saemix: '2.4'
@@ -20006,9 +20006,9 @@ simhelpers: 0.1.1
 similarityRichards: 0.5.0
 similr: 1.0.0
 simlandr: 0.1.2
-simmer: 4.4.3
+simmer: 4.4.4
 simmer.bricks: 0.2.1
-simmer.plot: 0.1.16
+simmer.plot: 0.1.17
 simml: 0.3.0
 simmr: 0.4.5
 simode: 1.2.0
@@ -21246,7 +21246,7 @@ teigen: 2.2.2
 telefit: 1.0.3
 telegram: 0.6.0
 telegram.bot: 2.4.0
-telemac: 0.1.0
+telemac: 0.1.1
 tempR: 0.9.9.19
 tempcyclesdata: 1.0.1
 tempdisagg: '1.0'
@@ -21470,7 +21470,7 @@ tigerstats: 0.3.2
 tigger: 1.0.0
 tightClust: '1.1'
 tigreBrowserWriter: 0.1.5
-tigris: '1.5'
+tigris: 1.5.1
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
 tiledb: 0.11.0
@@ -22662,7 +22662,7 @@ zGPS.AO: 0.1.0
 zTree: 1.0.7
 zalpha: 0.3.0
 zbank: 0.1.0
-zcurve: 1.0.9
+zcurve: 2.1.2
 zdeskR: 0.1.1
 zeallot: 0.1.0
 zebu: 0.1.3.0
