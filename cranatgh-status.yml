@@ -1010,7 +1010,7 @@ ChaosGame: '1.1'
 CharFun: 0.1.0
 ChargeTransport: 1.0.2
 CheckDigit: 0.1-1
-ChemoSpec: 6.1.0
+ChemoSpec: 6.1.2
 ChemoSpec2D: 0.5.0
 ChemoSpecUtils: 1.0.0
 ChemometricsWithR: 0.1.9
@@ -1174,7 +1174,7 @@ Copula.Markov.survival: 1.0.0
 Copula.surv: '1.1'
 CopulaCenR: 1.1.3
 CopulaDTA: 1.0.0
-CopulaREMADA: '1.3'
+CopulaREMADA: '1.5'
 CopulaRegression: 0.1-5
 CopyDetect: '1.3'
 CopyNumber450kCancer: 1.0.4
@@ -2037,7 +2037,7 @@ FastCUB: 0.0.2
 FastGP: '1.2'
 FastGaSP: 0.5.2
 FastHCS: 0.0.7
-FastImputation: '2.0'
+FastImputation: '2.1'
 FastJM: 1.1.0
 FastKM: '1.0'
 FastKNN: 0.0.1
@@ -3616,7 +3616,7 @@ MXM: 1.5.2
 MaOEA: 0.6.2
 MaXact: 0.2.1
 MachineLearning: 0.1.4
-MachineShop: 3.2.0
+MachineShop: 3.3.0
 Maeswrap: '1.7'
 MagneticMap: '1.0'
 MajKMeans: 0.1.0
@@ -3936,7 +3936,7 @@ NHEMOtree: '1.0'
 NHLData: 1.0.0
 NHMM: '3.11'
 NHMMfdr: 1.0.6
-NHMSAR: '1.17'
+NHMSAR: '1.19'
 NHPoisson: '3.3'
 NHSDataDictionaRy: 1.2.5
 NHSRdatasets: 0.3.0
@@ -4184,6 +4184,7 @@ Opt5PL: 0.1.1
 OptCirClust: 0.0.4
 OptGS: 1.1.1
 OptHedging: '1.0'
+OptHoldoutSize: 0.0.0.1
 OptInterim: 3.0.1
 OptM: 0.1.6
 OptSig: '2.1'
@@ -4420,6 +4421,7 @@ PTE: '1.7'
 PTSR: 0.1.2
 PTXQC: 1.0.12
 PTwins: 0.1.1
+PUMP: 1.0.0
 PUPAIM: 0.2.0
 PUlasso: 3.2.4
 PVAClone: 0.1-6
@@ -5466,7 +5468,7 @@ RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.1.7
 RcppThread: 2.0.2
-RcppUUID: 1.0.0
+RcppUUID: 1.1.1
 RcppXPtrUtils: 0.1.1
 RcppXsimd: 7.1.6
 RcppXts: 0.0.4
@@ -7696,7 +7698,7 @@ automultinomial: 2.0.0
 autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
-autostats: 0.2.0
+autostats: 0.3.0
 autostsm: 3.0.0
 autota: 0.1.3
 autothresholdr: 1.4.0
@@ -8970,7 +8972,7 @@ cloudRmpiJars: '1.1'
 cloudSimplifieR: 0.1.9
 cloudUtil: 0.1.12
 cloudml: 0.6.1
-cloudos: 0.2.0
+cloudos: 0.3.0
 cloudstoR: 0.2.0
 clpAPI: 1.3.1
 clr: 0.1.2
@@ -9460,7 +9462,7 @@ cppcor: '1.2'
 cpr: 0.2.3
 cprobit: 1.0.2
 cprr: 0.2.0
-cpsR: 0.4.5
+cpsR: 0.5.0
 cpss: 0.0.2
 cpsurvsim: 1.2.1
 cpsvote: 0.1.0
@@ -9598,7 +9600,7 @@ ctgt: '2.0'
 cthist: 0.1.3
 cthresh: '4.5'
 cthreshER: 1.1.0
-ctl: 1.0.0-4
+ctl: 1.0.0-7
 ctmcd: 1.4.1
 ctmcmove: 1.2.9
 ctmle: 0.1.2
@@ -10975,7 +10977,7 @@ euroMix: '1.1'
 eurocordexr: 0.2.2
 europepmc: 0.4.1
 europop: 0.3.1
-eurostat: 3.7.5
+eurostat: 3.7.10
 ev.trawl: 0.1.0
 eva: 0.2.6
 evabic: 0.0.3
@@ -11580,7 +11582,7 @@ foreign: 0.8-82
 forensic: '0.2'
 forensim: '4.3'
 forestChange: '1.0'
-forestControl: 0.2.1
+forestControl: 0.2.2
 forestError: 1.1.0
 forestFloor: 1.9.5
 forestHES: 1.0-1
@@ -11875,7 +11877,7 @@ gammSlice: 2.0-2
 gamma: 1.0.1
 gamreg: '0.3'
 gamsel: 1.8-2
-gamselBayes: 1.0-1
+gamselBayes: 1.0-2
 ganGenerativeData: 1.2.0
 ganalytics: 0.10.7
 gaoptim: '1.1'
@@ -12993,7 +12995,7 @@ hmeasure: 1.0-2
 hmgm: 1.0.3
 hmi: 1.0.0
 hmlasso: 0.0.1
-hmm.discnp: 3.0-6
+hmm.discnp: 3.0-7
 hmma: 1.1.0
 hmmhdd: '1.0'
 hmmm: 1.0-4
@@ -13406,7 +13408,7 @@ index0: 0.0.1
 indicoio: '0.3'
 indicspecies: 1.7.9
 indiedown: 0.1.1
-indirect: 0.2.0
+indirect: 0.2.1
 individual: 0.1.7
 industRial: 0.1.0
 inegiR: 3.0.0
@@ -14474,7 +14476,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.1.2
+lrstat: 0.1.3
 lsa: 0.73.2
 lsasim: 2.1.2
 lsbclust: '1.1'
@@ -15671,7 +15673,7 @@ multinomineq: 0.2.1
 multipanelfigure: 2.1.2
 multipleNCC: 1.2-2
 multiplestressR: 0.1.1
-multiplex: 2.9.7
+multiplex: 2.9.8
 multiplyr: 0.1.1
 multipol: 1.0-7
 multirich: 2.1.3
@@ -15704,6 +15706,7 @@ munsell: 0.5.0
 munsellinterpol: 2.7-1
 murphydiagram: 0.12.2
 muscle: 3.8.31-4
+musclesyneRgies: 1.1.0
 muscor: '0.2'
 music: 0.1.1
 musicNMR: 0.0.2
@@ -16272,7 +16275,7 @@ occupancy: '1.2'
 ocd: '1.1'
 oce: 1.5-0
 ocean: 0.2-4
-oceanic: 0.1.1
+oceanic: 0.1.2
 oceanis: 1.8.4
 oceanmap: 0.1.1
 oceanwaves: 0.2.0
@@ -16437,7 +16440,7 @@ optimLanduse: 0.0.4
 optimParallel: 1.0-2
 optimStrat: '2.3'
 optimalThreshold: '1.0'
-optimall: 0.1.0
+optimall: 0.1.1
 optimbase: 1.0-10
 optimg: 0.1.2
 optimization: 1.0-8
@@ -18381,7 +18384,7 @@ rde: 0.1.0
 rdecision: 1.1.0
 rdefra: 0.3.8
 rdetools: '1.0'
-rdflib: 0.2.4
+rdflib: 0.2.5
 rdfp: 0.1.4
 rdhs: 0.7.3
 rdi: 1.0.0
@@ -18773,6 +18776,7 @@ rhymer: 1.1.0
 rhype: 0.0.1
 ri: '0.9'
 ri2: 0.2.0
+riAFTBART: 0.1.0
 ribd: 1.3.1
 ribiosUtils: 1.5-6
 ricegeneann: 1.0.2
@@ -19441,7 +19445,7 @@ sapevom: 0.2.0
 sapfluxnetr: 0.1.3
 saps: 1.0.0
 saqgetr: 0.2.21
-sara4r: 0.0.8
+sara4r: 0.0.9
 sarima: 0.8.6
 sarp.snowprofile: 1.0.0
 sarp.snowprofile.alignment: 1.0.2
@@ -21413,7 +21417,7 @@ tidyLPA: 1.1.0
 tidyMicro: '1.47'
 tidyREDCap: 0.2.2
 tidyRSS: 2.0.4
-tidySEM: 0.2.0
+tidySEM: 0.2.1
 tidyUSDA: 0.3.3
 tidybayes: 3.0.2
 tidybins: 0.1.0
@@ -22044,6 +22048,7 @@ uskew: 0.11-3
 uskewFactors: '2.0'
 usl: 3.0.0
 usmap: 0.5.2
+usmapdata: 0.1.0
 ustyc: 1.0.0
 utc: 0.1.5
 utf8: 1.2.2
