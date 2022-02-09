@@ -723,6 +723,7 @@ BurStMisc: '1.1'
 BusinessDuration: 0.2.0
 BuyseTest: 2.3.10
 Bvalue: '1.0'
+BwQuant: 0.1.0
 C443: 3.2.2
 C50: 0.1.6
 CA3variants: '3.0'
@@ -811,7 +812,7 @@ CHCN: '1.5'
 CHFF: 0.1.0
 CHMM: 0.1.1
 CHNCapitalStock: 0.1.0
-CHNOSZ: 1.4.1
+CHNOSZ: 1.4.2
 CHOIRBM: 0.0.2
 CHsharp: '0.4'
 CIAAWconsensus: '1.3'
@@ -1346,6 +1347,7 @@ DIME: '1.2'
 DIMORA: 0.2.0
 DIRECT: 1.0.1
 DISTRIB: '1.0'
+DIZtools: 0.0.2
 DIZutils: 0.0.12
 DIconvex: 1.0.0
 DImodels: '1.1'
@@ -2197,7 +2199,7 @@ GDAtools: '1.7'
 GDD: 0.1-8
 GDELTtools: '1.5'
 GDINA: 2.8.8
-GDPuc: 0.5.1
+GDPuc: 0.7.0
 GE: 0.2.6
 GEEaSPU: 1.0.2
 GEEmediate: 1.1.3
@@ -3353,7 +3355,7 @@ MCMCtGARCH: '1.0'
 MCMCtGARCHM: '1.0'
 MCMCtNARCH: '1.0'
 MCMCtreeR: '1.1'
-MCMCvis: 0.15.3
+MCMCvis: 0.15.5
 MCPAN: 1.1-21
 MCPMod: 1.0-10.1
 MCPModGeneral: 0.1-1
@@ -4013,6 +4015,7 @@ NbClust: '3.0'
 NeMo: '1.0'
 NeatMap: 0.3.6
 NegBinBetaBinreg: '1.0'
+NegativeControlOutcomeAdjustment: 0.0.4
 Neighboot: 1.0.0
 Nemenyi: '1.2'
 NestedCategBayesImpute: 1.2.1
@@ -4303,6 +4306,7 @@ PHEindicatormethods: 1.3.2
 PHInfiniteEstimates: '2.1'
 PHSMM: '1.0'
 PHYLOGR: 1.0.11
+PHclust: 0.1.0
 PHeval: 0.5.4
 PICBayes: '1.0'
 PIGE: '1.1'
@@ -5005,6 +5009,7 @@ RMAT: 0.2.0
 RMAWGEN: 1.3.7
 RMBC: 0.1.0
 RMC: '0.2'
+RMCC: 0.1.0
 RMCriteria: 0.2.0
 RMETAR: '1.0'
 RMKL: '1.0'
@@ -5046,7 +5051,7 @@ RNHANES: 1.1.0
 RNOmni: 1.0.0
 RNRCS: 0.2.5
 RNaviCell: '0.2'
-RNeXML: 2.4.5
+RNeXML: 2.4.6
 RNentropy: 1.2.2
 RNeo4j: 1.6.4
 RNetCDF: 2.5-2
@@ -7376,8 +7381,10 @@ amei: '1.0'
 amelie: 0.2.1
 amen: 1.4.4
 amer: 0.6.9
+amerifluxr: 1.0.0
 amerika: 0.1.0
 aml: 0.1-1
+ammiBayes: 1.0-0
 ammistability: 0.1.2
 ampd: '0.2'
 ampir: 1.1.0
@@ -7659,6 +7666,7 @@ audrex: 1.0.1
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.5
 auk: 0.5.1
+aum: 2022.2.7
 aurelius: 0.8.4
 aurin: 0.6.0
 ausplotsR: 1.2.7
@@ -7693,7 +7701,7 @@ autostsm: 3.0.0
 autota: 0.1.3
 autothresholdr: 1.4.0
 autovarCore: 1.0-4
-av: 0.6.0
+av: 0.7.0
 available: 1.0.5
 avar: 0.1.1
 averisk: 1.0.3
@@ -8043,6 +8051,7 @@ bidask: 0.1.1
 bifactorial: '1.4'
 bife: 0.7.1
 bifurcatingr: 1.0.0
+bigDM: 0.4.1
 bigFastlm: 0.0.2
 bigGP: 0.1-7
 bigIntegerAlgos: 0.1.2
@@ -8140,7 +8149,7 @@ bioC.logs: '1.2'
 bioOED: 0.2.1
 bioPN: 1.2.0
 bioRad: 0.5.2
-bioacoustics: 0.2.7
+bioacoustics: 0.2.8
 bioassays: 1.0.1
 bioclim: 0.1.0
 biocompute: 1.1.0
@@ -9554,6 +9563,7 @@ cruts: '1.1'
 cry: 0.4.1
 crypto: 1.1.3
 crypto2: 1.4.3
+cryptoverse: 0.1.0
 cryptowatchR: 0.2.0
 cryst: 0.1.0
 csSAM: 1.2.4
@@ -10719,6 +10729,7 @@ elementR: 1.3.7
 elevatr: 0.4.2
 elexr: '1.0'
 elfDistr: 1.0.0
+elfgen: 2.2.3
 elhmc: 1.1.0
 elisr: 0.1.1
 elitism: 1.0.4
@@ -11418,7 +11429,7 @@ finreportr: 1.0.4
 fipe: 0.0.1
 fipio: 1.1.0
 fipp: 1.0.0
-firebase: 1.0.0
+firebase: 1.0.1
 firebehavioR: 0.1.2
 fishMod: '0.29'
 fishbc: 0.2.1
@@ -11489,7 +11500,7 @@ flextable: 0.6.10
 flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
-flightsbr: 0.0.1
+flightsbr: 0.1.0
 flintyR: 0.0.2
 flip: 2.5.0
 flipbookr: 0.1.0
@@ -13637,6 +13648,7 @@ itree: '0.1'
 its: 1.1.8
 its.analysis: 1.6.0
 itsadug: '2.4'
+itscalledsoccer: 0.1.0
 itsdm: 0.1.1
 itsmr: '1.9'
 itunesr: '0.1'
@@ -13729,7 +13741,7 @@ jointMeanCov: 0.1.0
 jointNmix: '1.0'
 jointPm: 2.3.1
 jointseg: 1.0.2
-jomo: 2.7-2
+jomo: 2.7-3
 jordan: 1.0-1
 josaplay: 0.1.3
 jose: 1.2.0
@@ -13792,7 +13804,7 @@ kappalab: 0.4-7
 kaps: 1.0.2
 karaoke: '1.0'
 karel: 0.1.0
-katex: 1.3.0
+katex: 1.4.0
 kayadata: 1.0.0
 kazaam: 0.1-0
 kcirt: 0.6.0
@@ -14441,7 +14453,7 @@ lori: 2.2.2
 lossDev: 3.0.0-4
 lotri: 0.3.1
 lowmemtkmeans: 0.1.2
-lowpassFilter: 1.0-0
+lowpassFilter: 1.0-1
 lpSolve: 5.6.15
 lpSolveAPI: 5.5.2.0-17.7
 lpbrim: 1.0.0
@@ -14567,7 +14579,7 @@ madsim: 1.2.1
 mafs: 0.0.3
 magclass: 6.0.9
 magi: 1.1.5
-magic: 1.5-9
+magic: 1.6-0
 magicLamp: 0.1.0
 magicaxis: 2.2.1
 magicfor: 0.1.0
@@ -16007,7 +16019,7 @@ nloptr: 2.0.0
 nloptwrap: 0.5-7
 nlpred: 1.0.1
 nlr: 0.1-3
-nlraa: '0.98'
+nlraa: '1.1'
 nlreg: 1.2-2.2
 nlrq: 0.1-6
 nlrr: '0.1'
@@ -17344,6 +17356,7 @@ polywog: 0.4-1
 pom: '1.1'
 pomcheckr: 0.1.1
 pomdp: 0.99.3
+pomdpSolve: 1.0.0
 pomodoro: 3.3.0
 pomp: '4.1'
 pompom: 0.2.1
@@ -18085,7 +18098,7 @@ rPython: 0.0-6
 rQCC: 2.22.1
 rRAP: '1.1'
 rRofex: 2.0.6
-rSAFE: 0.1.2
+rSAFE: 0.1.3
 rSARP: 1.0.0
 rSCA: '3.1'
 rSEA: 2.1.1
@@ -18706,7 +18719,7 @@ rfviz: 1.0.0
 rgabriel: '0.7'
 rgam: 0.6.6
 rgauges: 0.2.0
-rgbif: 3.6.0
+rgbif: 3.7.0
 rgcvpack: 0.1-4
 rgdal: 1.5-28
 rgdax: 1.2.1
@@ -18901,7 +18914,7 @@ rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
 rmt: '1.0'
 rmumps: 5.2.1-14
-rmutil: 1.1.7
+rmutil: 1.1.8
 rmweather: 0.1.51
 rmytarget: 2.4.0
 rnaseqWrapper: '1.0'
@@ -19154,7 +19167,7 @@ rscimark: '1.0'
 rsconnect: 0.8.25
 rscontract: 0.1.2
 rscopus: 0.6.6
-rscorecard: 0.20.0
+rscorecard: 0.21.0
 rscproxy: 2.0-5
 rsdNE: 1.0.0
 rsdepth: 0.1-5
@@ -19370,7 +19383,7 @@ saeRobust: 0.2.0
 saeSim: 0.11.0
 saeeb: 0.1.0
 saekernel: 0.1.1
-saemix: '2.4'
+saemix: '3.0'
 saery: '1.0'
 safeBinaryRegression: 0.1-3
 safedata: 1.0.9
@@ -19412,7 +19425,7 @@ samurais: 0.1.0
 sand: 2.0.0
 sandbox: 0.2.0
 sandwich: 3.0-1
-sandwichr: 1.0.0
+sandwichr: 1.0.1
 sanic: 0.0.1
 sanitizers: 0.1.0
 sanityTracker: 0.1.0
@@ -21126,7 +21139,7 @@ systemfonts: 1.0.3
 systemicrisk: 0.4.2
 syt: 0.2.0
 syuzhet: 1.0.6
-tLagPropOdds: '1.6'
+tLagPropOdds: '1.7'
 tRakt: 0.9.0
 tRnslate: 0.0.3
 tRophicPosition: 0.7.7
@@ -21203,7 +21216,7 @@ taxalight: 0.1.5
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.2
-taxonbridge: 1.0.1
+taxonbridge: 1.0.2
 taxonomizr: 0.8.0
 taxotools: 0.0.79
 tayloRswift: 0.1.0
@@ -21691,7 +21704,7 @@ treeHFM: 1.0.3
 treeHMM: 0.1.1
 treebalance: 1.1.0
 treebase: 0.1.4
-treeclim: 2.0.5.1
+treeclim: 2.0.6.0
 treecm: 1.2.2
 treedata.table: 0.1.0
 treedater: 0.5.0
