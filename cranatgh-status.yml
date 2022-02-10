@@ -1093,7 +1093,7 @@ CoSeg: '0.38'
 CoTiMA: 0.5.4
 CodataGS: '1.43'
 CodeDepends: 0.6.5
-CohortPlat: 1.0.3
+CohortPlat: 1.0.4
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
 CollapsABEL: 0.10.8
@@ -1238,7 +1238,7 @@ CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
 Cyclops: 3.1.2
-CytOpT: 0.9.2
+CytOpT: 0.9.4
 CytobankAPI: 1.4.0
 CytobankAPIstats: '2.0'
 CytobankBridgeR: 1.0.0
@@ -2231,7 +2231,7 @@ GFORCE: 0.1.4
 GFisher: 0.1.0
 GGClassification: '0.1'
 GGEBiplotGUI: '1.0'
-GGEBiplots: 0.1.2
+GGEBiplots: 0.1.3
 GGIR: 2.6-0
 GGMM: 1.0.1
 GGMncv: 2.1.1
@@ -3144,6 +3144,7 @@ LPmerge: '1.7'
 LPower: 0.1.1
 LPsmooth: 0.1.3
 LREP: 0.1.1
+LRMF3: 0.1.0
 LRQMM: 1.2.3
 LRTH: '1.3'
 LRcontrast: '1.0'
@@ -3322,7 +3323,7 @@ MBAnalysis: 0.1.0
 MBC: 0.10-5
 MBCbook: 0.1.1
 MBCluster.Seq: '1.0'
-MBESS: 4.8.1
+MBESS: 4.9.0
 MBHdesign: 2.2.2
 MBI: '1.0'
 MBNMAdose: 0.3.0
@@ -3390,6 +3391,7 @@ MEET: '5.1'
 MEGENA: 1.3.7
 MEMSS: 0.9-3
 MEPDF: '3.0'
+MERO: 0.1.0
 MESS: 0.5.7
 MEWMA: '1.0'
 MEclustnet: 1.2.2
@@ -6091,7 +6093,7 @@ SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.4.1
 SWMPrExtension: 2.1.0
-SWTools: 0.2.2.0
+SWTools: 0.2.3.0
 SWordInstaller: 1.0-2
 SYNCSA: 1.3.4
 Sabermetrics: '2.0'
@@ -6342,7 +6344,7 @@ SpatialEpiApp: '0.3'
 SpatialExtremes: 2.0-9
 SpatialFloor: 1.1.0
 SpatialGraph: 1.0-2
-SpatialKDE: 0.6.2
+SpatialKDE: 0.7.0
 SpatialKWD: 0.4.0
 SpatialML: 0.1.3
 SpatialNP: 1.1-5
@@ -8039,7 +8041,7 @@ biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.1
 biblio: 0.0.6
-bibliometrix: 3.1.4
+bibliometrix: '3.2'
 bibliometrixData: 0.1.0
 biblionetwork: 0.1.0
 bibliospec: 0.0.4
@@ -8553,7 +8555,7 @@ candisc: 0.8-6
 canprot: 1.1.2
 cansim: 0.3.10
 canvas: 0.2-0
-canvasXpress: 1.37.0-1
+canvasXpress: 1.37.4
 canvasXpress.data: 1.34.2
 cap: '1.0'
 cape: 3.1.0
@@ -9032,7 +9034,7 @@ cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.1
 cmfilter: 0.9.1
-cmfrec: 3.3.1
+cmfrec: 3.4.1
 cml: 0.0.1
 cmm: '0.12'
 cmmr: 0.1.2
@@ -9678,7 +9680,7 @@ cvxclustr: 1.1.1
 cwbtools: 0.3.4
 cwhmisc: '6.6'
 cwm: 0.0.3
-cxhull: 0.3.0
+cxhull: 0.4.0
 cxr: 1.0.0
 cxx: 0.0-3
 cxxPack: '7.0'
@@ -10832,6 +10834,7 @@ envirem: '2.3'
 envlpaster: 0.1-2
 envnames: 0.4.1
 envoutliers: 1.1.0
+envstat: 0.0.1
 eoR: 0.4.0
 eoffice: 0.2.1
 epade: 0.3.8
@@ -12020,7 +12023,7 @@ generator: 0.1.0
 generics: 0.1.2
 genero: 0.1.0
 genesysr: 1.0.0
-geneticae: 0.2.0
+geneticae: 0.3.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
 genieclust: 1.0.0
@@ -12118,6 +12121,7 @@ geospark: 0.3.1
 geosphere: 1.5-14
 geospt: 1.0-2
 geosptdb: 0.5-0
+geostan: 0.2.1
 geostats: '1.3'
 geostatsp: 1.8.6
 geotech: '1.0'
@@ -12792,8 +12796,8 @@ hadron: 3.1.2
 hagis: 3.1.3
 hail: 0.1.1
 hakaiApi: 1.0.0
-hal9001: 0.4.2
-haldensify: 0.2.2
+hal9001: 0.4.3
+haldensify: 0.2.3
 halfcircle: 0.1.0
 halp: 0.1.3
 hamlet: 0.9.6
@@ -13535,6 +13539,7 @@ invacost: 1.1-4
 invctr: 0.1.0
 inventorize: 1.0.6
 inverseRegex: 0.1.0
+invertiforms: 0.1.0
 investr: 1.4.0
 invgamma: '1.1'
 io: 0.3.2
@@ -13827,7 +13832,7 @@ kelvin: 2.0-2
 kendallRandomWalks: 0.9.4
 kequate: 1.6.3
 kerTests: 0.1.3
-keras: 2.7.0
+keras: 2.8.0
 kerasR: 0.6.1
 kerasformula: 1.5.1
 kerastuneR: 0.1.0.4
@@ -14027,7 +14032,7 @@ languageserver: 0.3.12
 languageserversetup: 0.1.2
 lans2r: 1.1.0
 lar: 0.1-2
-lares: 5.0.5
+lares: 5.0.6
 largeList: 0.3.1
 largeVis: '0.2'
 lars: '1.2'
@@ -14949,7 +14954,7 @@ metaSurvival: 0.1.0
 metaboData: 0.6.2
 metaboGSE: 1.2.5
 metabolic: 0.1.0
-metabolighteR: 0.1.2
+metabolighteR: 0.1.3
 metabolomics: 0.1.4
 metacart: 2.0-3
 metacoder: 0.3.5
@@ -15471,7 +15476,7 @@ motifr: 1.0.0
 motmot: 2.1.3
 motmot.2.0: 1.1.2
 motoRneuron: 1.0.0
-moult: 2.2.0
+moult: 2.2.1
 mountainplot: '1.3'
 mousetrack: 1.0.0
 mousetrap: 3.2.1
@@ -15486,7 +15491,7 @@ mp: 0.4.1
 mpMap: '1.14'
 mpMap2: 1.0.4
 mpa: 0.7.3
-mpath: 0.4-2.20
+mpath: 0.4-2.21
 mpbart: '0.2'
 mpc: '0.1'
 mpcmp: 0.3.6
@@ -16527,7 +16532,7 @@ osmextract: 0.4.0
 osmgeosample: '0.1'
 osmose: 3.3.4
 osmplotr: 0.3.3
-ospsuite.utils: 1.0.0
+ospsuite.utils: 1.1.0
 osqp: 0.6.0.5
 osrm: 3.5.1
 osrmr: 0.1.36
@@ -17557,7 +17562,7 @@ prinsimp: 0.8-8
 printr: '0.2'
 prinvars: 0.1.0
 prioGene: 1.0.1
-prioriactions: 0.3.3
+prioriactions: '0.4'
 prioritizr: 7.1.1
 prioritizrdata: 0.2.4
 prioritylasso: 0.2.5
@@ -17796,7 +17801,7 @@ qLearn: '1.0'
 qMRI: '1.2'
 qPCR.CT: '1.1'
 qVarSel: '1.0'
-qacBase: 1.0.2
+qacBase: 1.0.3
 qad: 1.0.1
 qap: 0.1-1
 qape: '1.1'
@@ -18564,7 +18569,7 @@ rela: '4.1'
 relabeLoadings: '1.0'
 relaimpo: 2.2-6
 relatable: 1.0.0
-relations: 0.6-10
+relations: 0.6-11
 relax: 1.3.8
 relaxnet: 0.3-2
 relaxo: 0.1-2
@@ -18744,6 +18749,7 @@ rggobi: 2.1.9
 rgho: 2.0.1
 rgl: 0.108.3
 rglobi: 0.2.27
+rglplus: '1.0'
 rglwidget: 0.2.1
 rgnparser: 0.2.0
 rgoogleads: 0.4.1
@@ -18855,7 +18861,7 @@ rkt: '1.6'
 rkvo: '0.1'
 rlandscape: '1.0'
 rlang: 1.0.1
-rlas: 1.5.0
+rlas: 1.5.1
 rlc: 0.4.1
 rld: '1.0'
 rle: 0.9.2
@@ -19033,7 +19039,7 @@ ropenblas: 0.2.10
 ropendata: 0.1.0
 ropensecretsapi: 1.0.1
 ropensnp: 0.0.3
-roperators: 1.1.0
+roperators: 1.2.0
 ropercenter: 0.3.1
 roprov: 0.1.2
 roptim: 0.1.5
@@ -19280,7 +19286,7 @@ rtv: 0.4.3
 rtweet: 0.7.0
 rtype: 0.1-1
 rtypeform: 2.1.0
-rubias: 0.3.2
+rubias: 0.3.3
 rucm: '0.6'
 rucrdtw: 0.1.4
 rugarch: 1.4-7
@@ -19447,7 +19453,7 @@ saps: 1.0.0
 saqgetr: 0.2.21
 sara4r: 0.0.9
 sarima: 0.8.6
-sarp.snowprofile: 1.0.0
+sarp.snowprofile: 1.2.1
 sarp.snowprofile.alignment: 1.0.2
 sars: 1.3.5
 sarsop: 0.6.9
@@ -19779,7 +19785,7 @@ sessioninfo: 1.2.2
 set: '1.2'
 set6: 0.2.4
 setRNG: 2013.9-1
-sets: 1.0-20
+sets: 1.0-21
 setter: 0.0-1
 settings: 0.2.7
 setwidth: 1.0-4
@@ -19940,7 +19946,7 @@ shortcuts: 1.4.0
 shorts: 1.1.6
 shotGroups: 0.8.1
 showimage: 1.0.0
-showtext: 0.9-4
+showtext: 0.9-5
 showtextdb: '3.0'
 shp2graph: 0-5
 shrink: 1.2.2
@@ -20034,6 +20040,7 @@ simml: 0.3.0
 simmr: 0.4.5
 simode: 1.2.0
 simone: 1.0-4
+simphony: 1.0.0
 simpleCache: 0.4.2
 simpleFDR: '1.1'
 simpleMH: 0.1.0
@@ -20119,6 +20126,7 @@ skeletor: 1.0.4
 skellam: 0.2.0
 sketch: 1.1.17
 sketcher: 0.1.3
+sketchy: 1.0.2
 skewMLRM: '1.6'
 skewlmm: 1.0.0
 skewsamp: 1.0.0
@@ -20598,7 +20606,7 @@ sprintr: 0.9.0
 sprm: 1.2.2
 sprsmdl: 0.1-0
 sprtt: 0.1.0
-sps: 0.1.2
+sps: 0.1.3
 spsComps: 0.3.2.0
 spsUtil: 0.2.2
 spsann: 2.2.0
@@ -21280,7 +21288,7 @@ tensorA: 0.36.2
 tensorBF: 1.0.2
 tensorBSS: 0.3.8
 tensorTS: 0.1.2
-tensorflow: 2.7.0
+tensorflow: 2.8.0
 tensorordinal: 0.2.0
 tensorr: 0.1.1
 tensorregress: '4.0'
@@ -21390,6 +21398,7 @@ thinkr: '0.15'
 this.path: 0.5.0
 thor: 1.1.2
 thorn: 0.2.0
+thredds: '0.1'
 threeBrain: 0.2.4
 threeboost: '1.1'
 threejs: 0.3.3
@@ -21911,7 +21920,7 @@ twoway: 0.6.3
 twowaytests: '1.1'
 twoxtwo: 0.1.0
 twslm: 1.0.2
-txshift: 0.3.7
+txshift: 0.3.8
 txtplot: 1.0-4
 txtq: 0.2.4
 typed: 0.0.1
@@ -22335,7 +22344,7 @@ waterData: 1.0.8
 waterYearType: 1.0.1
 waterfall: 1.0.2
 waterfalls: 0.1.2
-waterquality: 0.2.6
+waterquality: 0.3.0
 wavScalogram: 1.1.1
 waveband: 4.7.1
 waveclock: 1.0-4
@@ -22713,7 +22722,7 @@ zmatrix: '1.1'
 zmisc: 0.2.1
 zoeppritz: 1.0-8
 zoib: 1.5.5
-zoid: 1.0.0
+zoid: 1.1.0
 zoltr: 0.5.1
 zonator: 0.6.0
 zonebuilder: 0.0.2
