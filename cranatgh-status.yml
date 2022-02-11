@@ -726,7 +726,7 @@ Bvalue: '1.0'
 BwQuant: 0.1.0
 C443: 3.2.2
 C50: 0.1.6
-CA3variants: '3.0'
+CA3variants: '3.1'
 CADFtest: 0.3-3
 CADStat: 3.0.8
 CAGExploreR: '1.0'
@@ -997,6 +997,7 @@ CensSpatial: '2.59'
 Census2016: 0.2.0
 CepLDA: 1.0.0
 CerioliOutlierDetection: 1.1.9
+Certara.R: 1.0.0
 CfEstimateQuantiles: '1.0'
 ChIPtest: '1.0'
 ChainLadder: 0.2.15
@@ -1349,7 +1350,7 @@ DIMORA: 0.2.0
 DIRECT: 1.0.1
 DISTRIB: '1.0'
 DIZtools: 0.0.2
-DIZutils: 0.0.12
+DIZutils: 0.0.13
 DIconvex: 1.0.0
 DImodels: '1.1'
 DIscBIO: 1.2.0
@@ -1392,7 +1393,8 @@ DPWeibull: '1.8'
 DPpackage: 1.1-7
 DPtree: 1.0.1
 DPw: '1.1'
-DQAstats: 0.2.3
+DQAgui: 0.1.7
+DQAstats: 0.2.4
 DR.SC: '2.5'
 DRAFT: 0.3.0
 DRAYL: '1.0'
@@ -1471,7 +1473,7 @@ DataPackageR: 0.15.8
 DataSpaceR: 0.7.5
 DataVisualizations: 1.2.2
 DataViz: 0.2.8
-DatabaseConnector: 5.0.0
+DatabaseConnector: 5.0.2
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.1.5
 Datasmith: 1.0-1
@@ -2551,7 +2553,7 @@ HDclassif: 2.2.0
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
 HDiR: 1.1.1
-HDoutliers: 1.0.3
+HDoutliers: 1.0.4
 HDtest: '2.1'
 HDtweedie: '1.1'
 HEAT: '1.2'
@@ -3669,7 +3671,7 @@ MaxSkew: '1.1'
 MaxentVariableSelection: 1.0-3
 MaximinInfer: 1.0.0
 MazamaCoreUtils: 0.4.10
-MazamaLocationUtils: 0.3.1
+MazamaLocationUtils: 0.3.3
 MazamaRollUtils: 0.1.3
 MazamaSpatialPlots: 0.1.2
 MazamaSpatialUtils: 0.7.6
@@ -4775,7 +4777,7 @@ R2MLwiN: 0.8-7
 R2OpenBUGS: 3.2-3.2.1
 R2PPT: '2.1'
 R2STATS: 0.68-39
-R2SWF: 0.9-6
+R2SWF: 0.9-7
 R2WinBUGS: 2.1-21
 R2admb: 0.7.16.2
 R2jags: 0.7-1
@@ -7250,7 +7252,7 @@ adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
 adlift: 1.4-1
-admisc: '0.23'
+admisc: '0.24'
 admix: 0.3.2
 admixr: 0.9.1
 admixturegraph: 1.0.2
@@ -8387,7 +8389,7 @@ brea: 0.2.0
 bread: 0.1.7
 breakDown: 0.2.1
 breakage: 1.1-1
-breakaway: '3.0'
+breakaway: 4.7.8
 breakfast: '2.2'
 breakpoint: '1.2'
 breathtestcore: 0.8.1
@@ -8575,7 +8577,7 @@ capwire: 1.1.4
 car: 3.0-12
 carData: 3.0-5
 carSurv: 1.0.0
-caracas: 1.1.1
+caracas: 1.1.2
 carat: 2.0.2
 carbonate: 0.1.3
 carcass: '1.6'
@@ -8790,7 +8792,7 @@ changepointTests: 0.1.1
 changepoints: 1.0.0
 changepointsHD: 0.3.3
 changepointsVar: 0.1.0
-changer: 0.0.3
+changer: 0.0.4-1
 chantrics: 1.0.0
 charlatan: 0.4.0
 charlson: '1.0'
@@ -8874,7 +8876,7 @@ circacompare: 0.1.1
 circglmbayes: 1.3.0
 circle: 0.7.1
 circletyper: 1.0.1
-circlize: 0.4.13
+circlize: 0.4.14
 circular: 0.4-93
 circularEV: 0.1.0
 circumplex: 0.3.8
@@ -9122,7 +9124,7 @@ colcor: '1.0'
 cold: 2.0-3
 colf: 0.1.3
 collUtils: 1.0.5
-collapse: 1.7.5
+collapse: 1.7.6
 collapsibleTree: 0.1.7
 collateral: 0.5.2
 collectArgs: 0.4.0
@@ -10717,6 +10719,7 @@ eive: '2.3'
 eivtools: 0.1-8
 eiwild: 0.6.7
 eixport: 0.5.0
+eks: 1.0.0
 el.convex: '1.0'
 elaborator: '1.1'
 elasdics: 0.1.5
@@ -11715,7 +11718,7 @@ fsn: '0.1'
 fso: 2.1-1
 fspe: 0.1.0
 fsr: 1.0.1
-fssemR: 0.1.6
+fssemR: 0.1.8
 fst: 0.9.8
 fstcore: 0.9.8
 fsthet: 1.0.1
@@ -11869,6 +11872,7 @@ gamlss.data: 6.0-2
 gamlss.demo: 4.3-3
 gamlss.dist: 6.0-1
 gamlss.foreach: 1.1-3
+gamlss.ggplots: 1.0-0
 gamlss.inf: 1.0-1
 gamlss.lasso: 1.0-1
 gamlss.mx: 6.0-0
@@ -13987,7 +13991,7 @@ l0ara: 0.1.6
 l1ball: 0.1.0
 l1kdeconv: 1.2.0
 l1spectral: 0.99.6
-l2boost: 1.0.1
+l2boost: 1.0.3
 laGP: 1.5-5
 labdsv: 2.0-1
 label.switching: '1.8'
@@ -15442,7 +15446,7 @@ monochromeR: 0.1.0
 monogeneaGM: '1.1'
 monographaR: 1.2.1
 monomvn: 1.9-13
-monoreg: '1.2'
+monoreg: '2.0'
 monotone: 0.1.0
 monotonicity: 1.3.1
 monreg: 0.1.4
@@ -16352,7 +16356,7 @@ ondisc: 1.0.0
 oneclust: 0.2.1
 onehot: 0.1.1
 onelogin: 0.2.0
-onemap: 2.8.1
+onemap: 2.8.2
 onemapsgapi: 1.0.0
 onepass: 0.1.2
 onewaytests: '2.6'
@@ -17584,7 +17588,7 @@ probably: 0.0.6
 probemapper: 1.0.0
 probemod: 0.2.1
 probhat: 0.4.1
-probout: 1.1.1
+probout: 1.1.2
 probsvm: '1.00'
 proccalibrad: '0.14'
 proceduralnames: 0.2.1
@@ -18143,7 +18147,7 @@ rabhit: 0.2.0
 rabi: 1.0.2
 racademyocean: 0.1.0
 race: 0.1.59
-raceland: 1.1.1
+raceland: 1.1.2
 racir: 2.0.0
 ractivecampaign: 0.2.0
 radar: 1.0.0
@@ -21152,7 +21156,7 @@ sysid: 1.0.4
 syskern: R2000.6-1
 syslognet: 0.1.2.1
 systemfit: 1.1-24
-systemfonts: 1.0.3
+systemfonts: 1.0.4
 systemicrisk: 0.4.2
 syt: 0.2.0
 syuzhet: 1.0.6
