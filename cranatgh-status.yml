@@ -579,7 +579,7 @@ BayesianTools: 0.1.7
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
 Bayesiantreg: '1.0'
-Bayesrel: 0.7.1
+Bayesrel: 0.7.4
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
 BcDiag: 1.0.10
@@ -1269,7 +1269,7 @@ DAP: '1.0'
 DART: '1.1'
 DARTData: '1.0'
 DATforDCEMRI: '0.5'
-DArand: 0.0.1.1
+DArand: 0.0.1.2
 DBEST: '1.8'
 DBFTest: '1.0'
 DBGSA: '1.2'
@@ -1280,6 +1280,7 @@ DBI.RPgSQL: 0.1-2
 DBItest: 1.7.2
 DBKGrad: '1.7'
 DBfit: '2.0'
+DBpower: 0.1.0
 DCA: '2.0'
 DCCA: 0.1.1
 DCD: 0.1.0
@@ -4152,6 +4153,7 @@ Ohmage: '2.9'
 OjaNP: 1.0-0
 OkNNE: 1.0.0
 OligoSpecificitySystem: '1.3'
+OlinkAnalyze: 3.0.0
 OmegaG: 1.0.1
 OmicInt: 1.1.7
 OmicKriging: 1.4.0
@@ -4515,7 +4517,7 @@ PharmacoGx: 1.1.6
 Phase123: '2.1'
 Phase12Compare: '1.5'
 PhaseType: 0.1.3
-PhaseTypeR: 1.0.1
+PhaseTypeR: 1.0.2
 PheCAP: 1.2.1
 PheNorm: 0.1.0
 PheVis: 1.0.2
@@ -6725,7 +6727,7 @@ TideTables: 0.0.3
 Tides: '2.1'
 TidyConsultant: 0.1.0
 TidyDensity: 0.0.1
-TidyMultiqc: 1.0.0
+TidyMultiqc: 1.0.2
 TileManager: 0.4.1
 TilePlot: '1.3'
 TimeMachine: '1.2'
@@ -7558,7 +7560,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
-arrow: 6.0.1
+arrow: 7.0.0
 ars: '0.6'
 arse: 1.0.0
 arsenal: 3.6.3
@@ -8221,6 +8223,7 @@ bivrp: 1.2-2
 biwavelet: 0.20.21
 biwt: '1.0'
 bizdays: 1.0.9
+bizicount: 1.0.0
 bjscrapeR: 0.1.0
 bkmr: 0.2.0
 bkmrhat: 1.1.1
@@ -8821,7 +8824,7 @@ chickn: 1.2.3
 childdevdata: 1.1.0
 childesr: 0.2.3
 childhoodmortality: 0.3.0
-childsds: 0.7.6
+childsds: 0.8.0
 chilemapas: '0.2'
 chillR: 0.72.7
 chinese.misc: 0.2.3
@@ -9034,7 +9037,7 @@ cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.1
 cmfilter: 0.9.1
-cmfrec: 3.4.1
+cmfrec: 3.4.2
 cml: 0.0.2
 cmm: '0.12'
 cmmr: 0.1.2
@@ -11881,7 +11884,7 @@ gamma: 1.0.1
 gamreg: '0.3'
 gamsel: 1.8-2
 gamselBayes: 1.0-2
-ganGenerativeData: 1.2.0
+ganGenerativeData: 1.3.2
 ganalytics: 0.10.7
 gaoptim: '1.1'
 gap: 1.2.3-1
@@ -12032,7 +12035,7 @@ genius: 2.2.3
 geniusr: 1.2.0
 genlasso: '1.5'
 genlogis: 1.0.0
-geno2proteo: 0.0.3
+geno2proteo: 0.0.5
 genoPlotR: 0.8.11
 genodds: 1.1.0
 genogeographer: 0.1.19
@@ -12756,7 +12759,7 @@ gunit: 1.0.0
 gunsales: 0.1.2
 gustave: 0.4.3
 gutenbergr: 0.2.1
-gvc: 6.2.0
+gvc: 6.2.1
 gvcR: 0.1.0
 gvcm.cat: '1.9'
 gvlma: 1.0.0.3
@@ -13263,10 +13266,11 @@ icensBKL: '1.2'
 icensmis: 1.5.0
 icertool: 0.0.3
 icesAdvice: 2.0-0
-icesDatras: 1.3-0
+icesConnect: 1.0.0
+icesDatras: 1.4.0
 icesSAG: 1.3-6
 icesTAF: 3.6.0
-icesVocab: 1.1.9
+icesVocab: 1.2.0
 ichimoku: 1.2.5
 icmm: '1.2'
 icomp: '0.1'
@@ -13550,7 +13554,7 @@ ionicons: 0.1.1
 ionr: 0.3.0
 iopsych: 0.90.1
 iosmooth: '0.94'
-iotables: 0.4.7
+iotables: '0.9'
 iotools: 0.3-2
 ip2location: 8.0.1
 ip2proxy: 1.1.0
@@ -13640,7 +13644,7 @@ issueReporter: 0.1.0
 istacr: 0.1.3
 isva: '1.9'
 italy: 0.1.0
-itan: 2.0.1
+itan: 3.1.1
 itcSegment: '0.8'
 itdr: '1.0'
 iteRates: '3.1'
@@ -14981,7 +14985,7 @@ metamicrobiomeR: '1.2'
 metamisc: 0.2.5
 metan: 1.16.0
 metansue: '2.4'
-metap: '1.7'
+metap: '1.8'
 metapack: 0.1.5
 metaplot: 0.8.3
 metaplotr: 0.0.3
@@ -15172,7 +15176,7 @@ missDeaths: '2.7'
 missDiag: 1.0.1
 missForest: '1.4'
 missMDA: '1.18'
-missMethods: 0.2.0
+missMethods: 0.3.0
 missRanger: 2.1.3
 missSBM: 1.0.2
 missSOM: 1.0.0
@@ -15279,7 +15283,7 @@ mlr3data: 0.5.0
 mlr3db: 0.4.2
 mlr3filters: 0.5.0
 mlr3fselect: 0.6.1
-mlr3hyperband: 0.3.0
+mlr3hyperband: 0.4.0
 mlr3learners: 0.5.2
 mlr3measures: 0.4.1
 mlr3misc: 0.10.0
@@ -15711,7 +15715,7 @@ munsell: 0.5.0
 munsellinterpol: 2.7-1
 murphydiagram: 0.12.2
 muscle: 3.8.31-4
-musclesyneRgies: 1.1.0
+musclesyneRgies: 1.1.3
 muscor: '0.2'
 music: 0.1.1
 musicNMR: 0.0.2
@@ -17959,7 +17963,7 @@ quickNmix: 1.0.3
 quickPlot: 0.1.6
 quickReg: 1.5.0
 quickblock: 0.2.0
-quickcheck: 0.0.1
+quickcheck: 0.1.0
 quickerstats: 0.0.1
 quickmapr: 0.3.0
 quickmatch: 0.2.1
@@ -18081,7 +18085,7 @@ rLandsat: 0.1.1
 rLiDAR: 0.1.5
 rLindo: 8.0.1
 rMEA: 1.2.0
-rMIDAS: 0.3.0
+rMIDAS: 0.4.0
 rMR: 1.1.0
 rMVP: 1.0.6
 rMisbeta: '1.0'
@@ -19454,7 +19458,7 @@ saqgetr: 0.2.21
 sara4r: 0.0.9
 sarima: 0.8.6
 sarp.snowprofile: 1.2.1
-sarp.snowprofile.alignment: 1.0.2
+sarp.snowprofile.alignment: 1.1.4
 sars: 1.3.5
 sarsop: 0.6.9
 sas7bdat: '0.5'
@@ -19770,7 +19774,7 @@ sequoia: 2.3.5
 sergeant: 0.9.1
 serial: '3.0'
 serialize: 0.2-1
-seriation: 1.3.1
+seriation: 1.3.2
 serieslcb: 0.4.0
 seroincidence: 2.0.0
 serp: 0.2.3
@@ -20325,7 +20329,7 @@ sound: 1.4.5
 soundClass: 0.0.9
 soundcorrs: 0.4.0
 soundecology: 1.3.3
-soundgen: 2.5.0
+soundgen: 2.5.1
 source.gist: 1.0.0
 sourceR: 1.1.0
 sourcetools: 0.1.7
@@ -20949,6 +20953,7 @@ supc: 0.2.6.2
 supclust: 1.1-1
 supcluster: '1.0'
 superMDS: 1.0.2
+superMICE: 1.0.1
 superb: 0.9.7.8
 superbiclust: '1.2'
 supercompress: '1.1'
@@ -21302,7 +21307,7 @@ termstrc: '1.3'
 ternvis: '1.2'
 terra: 1.5-17
 terrainmeshr: 0.1.0
-terrainr: 0.6.0
+terrainr: 0.6.1
 tessellation: 1.0.0
 tesseract: 5.0.0
 test2norm: 0.2.0
@@ -21552,6 +21557,7 @@ tipitaka: 0.1.2
 tipom: 1.0.2-1
 tippy: 0.1.0
 tipr: 0.3.0
+tipsae: 0.0.4
 tis: '1.39'
 titan: 1.0-9
 titanic: 0.1.0
@@ -22293,6 +22299,7 @@ vrtest: '0.97'
 vscc: '0.2'
 vsd: 0.1.0
 vsgoftest: 1.0-1
+vsp: 0.1.0
 vstsr: 1.1.0
 vtable: 1.3.3
 vtcl: 1.0-1
@@ -22608,7 +22615,7 @@ xltabr: 0.1.2
 xlutils3: 0.1.0
 xmeta: 1.3-0
 xml2: 1.3.3
-xml2relational: 0.1.0
+xml2relational: 0.1.1
 xmlconvert: 0.1.2
 xmlparsedata: 1.0.5
 xmlr: 0.1.2
