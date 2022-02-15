@@ -1685,6 +1685,7 @@ EIX: 1.2.0
 EKMCMC: 1.1.2
 EL: '1.0'
 EL2Surv: '1.1'
+ELCIC: 0.2.0
 ELISAtools: 0.1.5
 ELMR: '1.0'
 ELMSO: 1.0.1
@@ -3261,6 +3262,7 @@ LogicForest: 2.1.0
 LogicOpt: 1.0.0
 LogicReg: 1.6.4
 LogisticDx: '0.3'
+LogisticRCI: '1.0'
 LogitNet: 0.1-1
 LogrankA: '1.0'
 LogrankPower: 1.0.0
@@ -7256,6 +7258,7 @@ adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
 adlift: 1.4-1
+admiral.test: 0.1.2
 admisc: '0.24'
 admix: 0.3.2
 admixr: 0.9.1
@@ -7549,7 +7552,7 @@ argparser: 0.7.1
 ari: 0.3.5
 ariExtra: 0.3.1
 aricode: 1.0.0
-arkdb: 0.0.14
+arkdb: 0.0.15
 arkhe: 0.4.0
 arm: 1.12-2
 armada: 0.1.0
@@ -10868,6 +10871,7 @@ epicalc: 2.9.2.8
 epicontacts: 1.1.2
 epidata: 0.4.0
 epidemia: 1.0.0
+epidm: 1.0.2
 epifit: 0.1.2
 epifitter: 0.3.0
 epiflows: 0.2.0
@@ -11911,7 +11915,7 @@ garchmodels: 0.1.1
 garchx: '1.3'
 gargle: 1.2.0
 gargoyle: 0.0.1
-garma: 0.9.10
+garma: 0.9.11
 garray: 1.1.2
 gaselect: 1.0.9
 gasfluxes: 0.4-4
@@ -12643,7 +12647,7 @@ greatR: 0.1.0
 grec: 1.4.1
 greed: 0.5.1
 greekLetters: 0.0.7
-greeks: 0.4.1
+greeks: 0.5.0
 greenclust: 1.1.0
 gregRy: 0.1.0
 gregmisc: 2.1.5
@@ -12691,6 +12695,7 @@ groupedSurv: 1.0.4.2
 groupedstats: 2.1.0
 groupr: 0.1.0
 groupsubsetselection: 1.0.3
+groupwalk: 0.1.0
 grove: '1.1'
 growcurves: '0.2'
 growfunctions: '0.15'
@@ -12744,7 +12749,7 @@ gstudio: '1.3'
 gsubfn: '0.7'
 gsw: 1.0-6
 gsynth: 1.2.1
-gt: 0.3.1
+gt: 0.4.0
 gt4ireval: '2.0'
 gtWAS: 1.1.0
 gtable: 0.3.0
@@ -13707,7 +13712,7 @@ jaatha: 3.2.1
 jab.adverse.reactions: 1.0.1
 jabr: 0.1.2
 jaccard: 0.1.0
-jack: 1.1.1
+jack: 2.0.0
 jackalope: 1.1.3
 jackknifeKME: '1.2'
 jackstrap: 0.1.0
@@ -14022,7 +14027,7 @@ lacm: 0.1.1
 lacrmr: 1.0.3
 lactater: 0.1.0
 lactcurves: 1.1.0
-lacunaritycovariance: 1.1-2
+lacunaritycovariance: 1.1-3
 laeken: 0.5.2
 laercio: 1.0-1
 lagged: 0.3-1
@@ -14184,7 +14189,7 @@ leerSIECyL: 1.0.2
 lefko3: 4.2.0
 lefse: '0.1'
 legco: 0.1.4
-legion: 0.1.0
+legion: 0.1.1
 legislatoR: '1.0'
 legocolors: 0.3.1
 lehdr: 1.0.1
@@ -14952,7 +14957,7 @@ meshsimp: '0.1'
 messaging: 0.1.0
 messydates: 0.2.0
 met: 0.1.0
-metR: 0.11.0
+metR: 0.12.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
 meta: 5.2-0
@@ -15538,7 +15543,7 @@ mrMLM.GUI: 4.0.2
 mra: 2.16.11
 mratios: 1.4.2
 mrbayes: 0.5.1
-mrbin: 1.6.2
+mrbin: 1.6.3
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
 mrds: 2.2.5
@@ -15886,6 +15891,7 @@ ndjson: 0.8.0
 ndl: 0.2.18
 ndtv: 0.13.2
 ndvits: '1.0'
+ndvtest: 1.0-0
 nearfar: '1.2'
 neariso: 1.0.1
 neat: 1.2.3
@@ -16469,7 +16475,7 @@ optimalThreshold: '1.0'
 optimall: 0.1.1
 optimbase: 1.0-10
 optimg: 0.1.2
-optimization: 1.0-8
+optimization: 1.0-9
 optimos.prime: 0.1.2
 optimr: 2019-12.16
 optimsimplex: 1.0-8
@@ -16722,7 +16728,7 @@ parallelPlot: 0.1.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
 parallelly: 1.30.0
-param6: 0.2.3
+param6: 0.2.4
 paramGUI: 2.1.4
 parameters: 0.16.0
 paramhetero: 0.2.0
@@ -17180,7 +17186,7 @@ pkggraph: 0.2.3
 pkglite: 0.2.0
 pkgload: 1.2.4
 pkgmaker: 0.32.2
-pkgndep: 1.1.0
+pkgndep: 1.1.1
 pkgnet: 0.4.2
 pkgnews: 0.0.2
 pkgsearch: 3.0.3
@@ -19010,7 +19016,7 @@ robustcov: '0.1'
 robustfa: 1.0-5
 robustgam: 0.1.7
 robustlm: 0.1.0
-robustlmm: 2.4-5
+robustlmm: 2.5-0
 robustloggamma: 1.0-2
 robustrank: 2019.9-10
 robustrao: 1.0-5
@@ -20750,7 +20756,7 @@ stars: 0.5-5
 starsExtra: 0.2.7
 starsTileServer: '0.1'
 starschemar: 1.2.0
-startR: 2.1.0
+startR: 2.2.0
 starter: 0.1.8
 startup: 0.16.0
 startupmsg: 0.9.6
@@ -21624,7 +21630,7 @@ tmuxr: 0.2.4
 tmvmixnorm: 1.1.1
 tmvnsim: 1.0-2
 tmvtnorm: 1.4-10
-tmvtnsim: 0.1.0
+tmvtnsim: 0.1.1
 tnam: '1.6'
 tnet: 3.0.16
 toOrdinal: 1.1-0.0
@@ -21691,7 +21697,7 @@ trackdem: '0.6'
 trackdf: 0.2.2
 trackdown: 1.1.1
 trackeR: 1.5.2
-trackeRapp: '1.1'
+trackeRapp: '1.2'
 trackr: 0.10.7
 trackter: 0.1.1
 tractor.base: 3.3.3.1
