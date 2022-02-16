@@ -1479,7 +1479,7 @@ DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.1.5
 Datasmith: 1.0-1
 DatastreamDSWS2R: 1.8.2
-Davies: 1.1-9
+Davies: 1.2-0
 DeCAFS: 3.3.1
 DeLorean: 1.5.0
 DeRezende.Ferreira: 0.1.0
@@ -1972,7 +1972,7 @@ FLIM: '1.2'
 FLLat: 1.2-1
 FLR: '1.0'
 FLSSS: 8.6.6
-FLightR: 0.5.1
+FLightR: 0.5.2
 FMAdist: 0.1.0
 FMC: 1.0.0
 FMCCSD: '1.0'
@@ -2205,7 +2205,7 @@ GDAtools: '1.7'
 GDD: 0.1-8
 GDELTtools: '1.5'
 GDINA: 2.8.8
-GDPuc: 0.7.0
+GDPuc: 0.8.0
 GE: 0.2.6
 GEEaSPU: 1.0.2
 GEEmediate: 1.1.3
@@ -3123,6 +3123,7 @@ LMGene: 2.8.0
 LMMELSM: 0.1.0
 LMMsolver: 1.0.0
 LMMstar: 0.4.4
+LMN: 1.1.1
 LMest: 3.0.2
 LMfilteR: 0.1.3
 LMoFit: 0.1.6
@@ -3193,6 +3194,7 @@ Lahman: 9.0-0
 LakeMetabolizer: 1.5.0
 Lambda4: '3.0'
 LambertW: 0.6.6
+Landmarking: 1.0.0
 Langevin: 1.3.1
 LaplaceDeconv: 1.0.4
 LaplacesDemon: 16.1.6
@@ -4741,6 +4743,7 @@ QoLR: '1.0'
 Qtools: 1.5.5
 QuACN: 1.8.0
 QuClu: 0.1.0
+QuESTr: 0.1.1
 QuadRoot: 0.2.0
 QualInt: 1.0.0
 Quandl: 2.11.0
@@ -10221,7 +10224,7 @@ distillery: 1.2-1
 disto: 0.2.0
 distory: 1.4.4
 distr: 2.8.0
-distr6: 1.6.4
+distr6: 1.6.6
 distrDoc: 2.8.0
 distrEllipse: 2.8.0
 distrEx: 2.8.0
@@ -12238,6 +12241,7 @@ ggdag: 0.2.4
 ggdark: 0.2.1
 ggdemetra: 0.2.2
 ggdendro: 0.1.22
+ggdensity: 0.0.1
 ggdist: 3.1.0
 ggdistribute: 1.0.3
 ggdmc: 0.2.6.0
@@ -12294,7 +12298,7 @@ ggmsa: 1.0.2
 ggmuller: 0.5.4
 ggmulti: 1.0.4
 ggnetwork: 0.5.10
-ggnewscale: 0.4.5
+ggnewscale: 0.4.6
 ggnormalviolin: 0.1.2
 ggnuplot: 0.1.0
 ggokabeito: 0.1.0
@@ -12402,7 +12406,7 @@ gitlink: 0.1.3
 gittargets: 0.0.3
 gitter: '1.1'
 givitiR: '1.3'
-gjam: 2.5.1
+gjam: 2.5.2
 gk: 0.5.1
 gkgraphR: 1.0.2
 gkmSVM: 0.81.0
@@ -12695,7 +12699,7 @@ groupedSurv: 1.0.4.2
 groupedstats: 2.1.0
 groupr: 0.1.0
 groupsubsetselection: 1.0.3
-groupwalk: 0.1.0
+groupwalk: 0.1.1
 grove: '1.1'
 growcurves: '0.2'
 growfunctions: '0.15'
@@ -13327,6 +13331,7 @@ ieeeround: 0.2-0
 iemisc: 0.9.9
 iemiscdata: 0.6.1
 iemisctext: 0.9.99
+ifCNVR: 0.1.0
 ifa: '7.0'
 ifaTools: '0.23'
 ifctools: 0.3.4
@@ -13708,7 +13713,7 @@ iwtp: 1.0.0
 jSDM: 0.1.0
 jScore: 0.1.0
 jSonarR: 1.1.1
-jaatha: 3.2.1
+jaatha: 3.2.2
 jab.adverse.reactions: 1.0.1
 jabr: 0.1.2
 jaccard: 0.1.0
@@ -14976,7 +14981,7 @@ metaRNASeq: 1.0.7
 metaSDTreg: 0.2.1
 metaSEM: 1.2.5.1
 metaSurvival: 0.1.0
-metaboData: 0.6.2
+metaboData: 0.6.3
 metaboGSE: 1.2.5
 metabolic: 0.1.0
 metabolighteR: 0.1.3
@@ -15125,7 +15130,7 @@ microsimulation: 1.3.6
 microsynth: 2.0.31
 midas: 1.0.1
 midas2: 0.1.0
-midasml: 0.1.9
+midasml: 0.1.9-1
 midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
@@ -16358,6 +16363,7 @@ olsrr: 0.5.3
 omd: '1.0'
 omics: 0.1-5
 omicwas: 0.8.0
+omnibus: 1.1.2
 omopr: '0.2'
 ompr: 1.0.2
 ompr.roi: 1.0.0
@@ -17364,7 +17370,7 @@ polspline: 1.1.19
 polyCub: 0.8.0
 polyMatrix: 0.9.16
 polyPK: 3.1.0
-polyRAD: '1.5'
+polyRAD: '1.6'
 polySegratio: 0.2-5
 polySegratioMM: 0.6-4
 polyaAeppli: '2.0'
@@ -18810,7 +18816,7 @@ rhymer: 1.1.0
 rhype: 0.0.1
 ri: '0.9'
 ri2: 0.2.0
-riAFTBART: 0.1.0
+riAFTBART: 0.2.0
 ribd: 1.3.1
 ribiosUtils: 1.5-6
 ricegeneann: 1.0.2
@@ -19676,7 +19682,7 @@ secsse: 2.1.7
 secuTrialR: 1.0.9
 secure: '0.6'
 securitytxt: 0.1.1
-see: 0.6.8
+see: 0.6.9
 seeclickfixr: 1.1.0
 seecolor: 0.1.0
 seedCCA: '3.0'
@@ -20084,7 +20090,7 @@ simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simplermarkdown: 0.0.4
 simpleroptions: 0.2.0
-simplevis: 6.0.0
+simplevis: 6.1.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -20484,7 +20490,7 @@ spatialwidget: 0.2.3
 spatsoc: 0.1.16
 spatstat: 2.3-0
 spatstat.Knet: 2.0-0
-spatstat.core: 2.3-2
+spatstat.core: 2.4-0
 spatstat.data: 2.1-2
 spatstat.geom: 2.3-2
 spatstat.gui: 2.0-0
@@ -22139,6 +22145,7 @@ valueEQ5D: 0.7.2
 valuer: 1.1.2
 vamc: 0.2.1
 vampyr: 1.1.1
+vandalico: 0.0.1
 vanddraabe: 1.1.1
 vannstats: 1.2.1.19
 vanquish: 1.0.0
