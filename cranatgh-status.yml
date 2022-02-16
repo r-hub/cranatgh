@@ -454,7 +454,7 @@ BSDA: 1.2.1
 BSGS: '2.0'
 BSGW: 0.9.2
 BSL: 3.2.3
-BSPADATA: '1.0'
+BSPADATA: 1.1.0
 BSS: 0.1.0
 BSSasymp: 1.2-3
 BSSprep: '0.1'
@@ -607,7 +607,7 @@ BiGGR: '1.8'
 BiProbitPartial: 1.0.3
 BiSEp: '2.2'
 BiTrinA: '1.3'
-BiasCorrector: 0.2.0
+BiasCorrector: 0.2.1
 BiasedUrn: '1.07'
 BibPlots: 0.0.8
 BifactorIndicesCalculator: 0.2.2
@@ -4093,7 +4093,7 @@ NormalityAssessment: 0.0.1
 NormalizeMets: '0.25'
 NostalgiR: 1.0.2
 Nozzle.R1: 1.1-1
-Numero: 1.8.4
+Numero: 1.9.0
 NutrienTrackeR: 1.2.0
 OAIHarvester: 0.3-3
 OBASpatial: '1.8'
@@ -8255,7 +8255,7 @@ blighty: 3.1-4
 blin: 0.0.1
 blindrecalc: 0.1.3
 blink: 1.1.0
-bliss: 1.0.3
+bliss: 1.0.4
 blkbox: '1.0'
 blkergm: '1.1'
 blm: 2013.2.4.4
@@ -9630,7 +9630,7 @@ ctrdata: 1.8.0
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
 cts: '1.0'
-ctsem: 3.5.4
+ctsem: 3.5.5
 ctsemOMX: 1.0.4
 ctv: 0.9-1
 cuRe: 1.0.1
@@ -10191,7 +10191,7 @@ discrim: 0.1.3
 discrimARTs: '0.2'
 disdat: 1.0-0
 diseasemapping: 1.5.1
-diseq: 0.4.2
+diseq: 0.4.3
 disk.frame: 0.7.1
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
@@ -11493,6 +11493,7 @@ fivethirtyeight: 0.6.2
 fixedTimeEvents: 1.0.1
 fixerapi: 0.1.6
 fixest: 0.10.1
+fixtuRes: 0.1.3
 fizzbuzzR: 0.1.1
 flacco: '1.8'
 flagr: 0.3.2
@@ -11905,7 +11906,7 @@ gamma: 1.0.1
 gamreg: '0.3'
 gamsel: 1.8-2
 gamselBayes: 1.0-2
-ganGenerativeData: 1.3.2
+ganGenerativeData: 1.3.3
 ganalytics: 0.10.7
 gaoptim: '1.1'
 gap: 1.2.3-1
@@ -12240,7 +12241,7 @@ ggcorrplot: 0.1.3
 ggdag: 0.2.4
 ggdark: 0.2.1
 ggdemetra: 0.2.2
-ggdendro: 0.1.22
+ggdendro: 0.1.23
 ggdensity: 0.0.1
 ggdist: 3.1.0
 ggdistribute: 1.0.3
@@ -13398,7 +13399,7 @@ imp4p: '1.2'
 impactflu: 0.1.0
 impactr: 0.4.0
 impimp: 0.3.1
-implicitMeasures: 0.2.0
+implicitMeasures: 0.2.1
 implied: 0.4.0
 implyr: 0.4.0
 import: 1.2.0
@@ -14162,7 +14163,7 @@ leafdown: 1.0.0
 leafem: 0.1.6
 leafgl: 0.1.1
 leaflegend: 0.6.0
-leaflet: 2.0.4.1
+leaflet: 2.1.0
 leaflet.esri: 1.0.0
 leaflet.extras: 1.0.0
 leaflet.extras2: 1.1.0
@@ -15179,6 +15180,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.4
+mirai: 0.1.0
 mirf: '1.0'
 mirt: 1.35.1
 mirtCAT: '1.12'
@@ -15316,7 +15318,7 @@ mlr3measures: 0.4.1
 mlr3misc: 0.10.0
 mlr3oml: 0.5.0
 mlr3pipelines: 0.4.0
-mlr3proba: 0.4.3
+mlr3proba: 0.4.4
 mlr3shiny: 0.2.0
 mlr3spatial: 0.1.1
 mlr3spatiotempcv: 1.0.0
@@ -15764,7 +15766,7 @@ mvProbit: 0.1-10
 mvQuad: 1.0-6
 mvSLOUCH: 2.7.3
 mvShapiroTest: '1.0'
-mvabund: 4.1.12
+mvabund: 4.2.1
 mvbutils: 2.8.232
 mvc: '1.3'
 mvcluster: '1.0'
@@ -15989,7 +15991,7 @@ newallelic: '0.1'
 newsanchor: 0.1.1
 newscatcheR: 0.1.0
 newsmap: 0.7.4
-newsmd: 0.3.1
+newsmd: 0.4.0
 nfda: '0.2'
 nfer: 1.0.1
 nfl4th: 1.0.1
@@ -16524,7 +16526,7 @@ ordinalClust: 1.3.5
 ordinalCont: 2.0.2
 ordinalForest: 2.4-2
 ordinalLBM: '1.0'
-ordinalNet: '2.10'
+ordinalNet: '2.11'
 ordinalRR: '1.1'
 ordinalgmifs: 1.0.6
 ordinalpattern: 0.2.0
@@ -17185,6 +17187,7 @@ pkgcache: 1.3.0
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
+pkgdepR: 1.0.0
 pkgdepends: 0.2.0
 pkgdown: 2.0.2
 pkgfilecache: 0.1.4
@@ -17195,7 +17198,7 @@ pkgmaker: 0.32.2
 pkgndep: 1.1.1
 pkgnet: 0.4.2
 pkgnews: 0.0.2
-pkgsearch: 3.0.3
+pkgsearch: 3.1.0
 pkgutils: 0.6.0
 pkgverse: 0.0.1
 pkmon: '1.0'
@@ -18056,7 +18059,7 @@ rBDAT: 0.9.8
 rBMF: '1.1'
 rBayesianOptimization: 1.2.0
 rBeta2009: '1.0'
-rBiasCorrection: 0.3.2
+rBiasCorrection: 0.3.3
 rCAT: 0.1.6
 rCBA: 0.4.3
 rCMA: '1.1'
@@ -18168,7 +18171,7 @@ rWind: 1.1.7
 rWishart: 0.1.2
 rYoutheria: 1.0.3
 ra4bayesmeta: 1.0-7
-rabhit: 0.2.0
+rabhit: 0.2.1
 rabi: 1.0.2
 racademyocean: 0.1.0
 race: 0.1.59
@@ -18524,7 +18527,7 @@ recommenderlab: 0.2-7
 recommenderlabBX: 0.1-1
 recommenderlabJester: 0.1-2
 reconstructKM: 0.3.0
-reconstructr: 2.0.2
+reconstructr: 2.0.3
 recorder: 0.8.2
 recordr: 1.0.3
 recosystem: '0.5'
@@ -18588,7 +18591,7 @@ regsubseq: '0.12'
 regtest: '0.05'
 regtomean: '1.0'
 regtools: 1.1.0
-regweight: 1.0.1
+regweight: 1.0.2
 rehh: 3.2.2
 rehh.data: 1.0.0
 rehydratoR: 0.5.2
@@ -19807,7 +19810,7 @@ serialize: 0.2-1
 seriation: 1.3.2
 serieslcb: 0.4.0
 seroincidence: 2.0.0
-serp: 0.2.3
+serp: 0.2.4
 serpstatr: 0.1.0
 serrsBayes: 0.5-0
 servosphereR: 0.1.1
@@ -20489,12 +20492,12 @@ spatialwarnings: 3.0.2
 spatialwidget: 0.2.3
 spatsoc: 0.1.16
 spatstat: 2.3-0
-spatstat.Knet: 2.0-0
+spatstat.Knet: 2.0-1
 spatstat.core: 2.4-0
 spatstat.data: 2.1-2
 spatstat.geom: 2.3-2
-spatstat.gui: 2.0-0
-spatstat.linnet: 2.3-1
+spatstat.gui: 2.0-1
+spatstat.linnet: 2.3-2
 spatstat.local: 4.1-1
 spatstat.random: 2.1-0
 spatstat.sparse: 2.1-0
@@ -20974,7 +20977,7 @@ sugaR: 0.0-5
 sugarbag: 0.1.3
 sugrrants: 0.2.8
 sumFREGAT: 1.2.2
-sumR: 0.4.3
+sumR: 0.4.4
 sumSome: 1.1.0
 summariser: 2.3.0
 summarytools: 1.0.0
@@ -21041,7 +21044,7 @@ survSens: 0.1.0
 survSpearman: 1.0.0
 survcomp: 1.1.6
 surveil: 0.1.1
-surveillance: 1.19.1
+surveillance: 1.20.0
 survexp.fr: '1.0'
 survey: 4.1-1
 surveyCV: 0.1.1
@@ -21065,7 +21068,7 @@ survivalBIV: '1.3'
 survivalMPL: 0.2-1
 survivalMPLdc: 0.1.1
 survivalROC: 1.0.3
-survivalmodels: 0.1.9
+survivalmodels: 0.1.11
 survivalsvm: 0.0.5
 survivoR: 0.9.12
 survminer: 0.4.9
@@ -21225,6 +21228,7 @@ tabula: 1.6.1
 tabularMLC: 0.0.3
 tabularaster: 0.7.0
 tabularmaps: 0.1.0
+tabulate: 0.1.0
 tabulator: 1.0.0
 tabulizer: 0.2.2
 tabulizerjars: 1.0.1
