@@ -245,7 +245,7 @@ ArArRedux: '1.0'
 ArCo: 0.3-1
 ArDec: '2.0'
 ArchaeoChron: '0.1'
-ArchaeoPhases: '1.5'
+ArchaeoPhases: '1.6'
 ArchaeoPhases.dataset: 0.2.0
 ArduinoControl: '1.0'
 ArfimaMLM: '1.3'
@@ -2044,7 +2044,7 @@ FastGP: '1.2'
 FastGaSP: 0.5.2
 FastHCS: 0.0.7
 FastImputation: '2.1'
-FastJM: 1.1.1
+FastJM: 1.1.2
 FastKM: '1.0'
 FastKNN: 0.0.1
 FastLZeroSpikeInference: 2018.12.10
@@ -3683,6 +3683,7 @@ MazamaLocationUtils: 0.3.3
 MazamaRollUtils: 0.1.3
 MazamaSpatialPlots: 0.1.2
 MazamaSpatialUtils: 0.7.6
+MazamaTimeSeries: 0.2.2
 MazamaWebUtils: 0.1.7
 McParre: 1.0.1
 McSpatial: '2.0'
@@ -4296,6 +4297,7 @@ PCovR: 2.7.1
 PDE: 1.3.0
 PDFEstimator: '3.1'
 PDM: '0.1'
+PDMIF: 0.1.0
 PDN: 0.1.0
 PDQutils: 0.1.6
 PDSCE: '1.2'
@@ -4687,7 +4689,7 @@ Q7: 0.1.0
 QAIG: 0.1.7
 QBAsyDist: 0.1.2
 QBMS: '0.6'
-QCA: '3.14'
+QCA: '3.15'
 QCA3: 0.0-8
 QCAGUI: '2.5'
 QCAcluster: 0.1.0
@@ -4859,7 +4861,7 @@ RCGLS: 1.0.3
 RCLabels: 0.1.0
 RCMIP5: 1.2.0
 RCMinification: '1.0'
-RCPA3: 1.0.1
+RCPA3: 1.1.1
 RCPmod: '2.190'
 RCRnorm: 0.0.2
 RCSF: 1.0.2
@@ -5193,7 +5195,7 @@ RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.1.4
 RSQLServer: 0.3.0
-RSQLite: 2.2.9
+RSQLite: 2.2.10
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.5
 RSSOP: '1.1'
@@ -5582,7 +5584,7 @@ Revticulate: 0.3.0
 Rexperigen: 0.2.1
 RfEmpImp: 2.1.5
 Rfacebook: 0.6.15
-Rfast: 2.0.5
+Rfast: 2.0.6
 Rfast2: 0.1.1
 Rfit: 0.24.2
 RfmriVC: '1.0'
@@ -6328,7 +6330,7 @@ SpATS: 1.0-16
 SpNMF: 0.1.1
 SpNetPrep: '1.2'
 SpaCCr: 0.1.0
-SpaDES: 2.0.7
+SpaDES: 2.0.8
 SpaDES.addins: 0.1.3
 SpaDES.core: 1.0.10
 SpaDES.tools: 0.3.10
@@ -6816,7 +6818,7 @@ Twitmo: 0.1.2
 TwitterAutomatedTrading: 0.1.0
 TwoArmSurvSim: '0.2'
 TwoCop: '1.0'
-TwoPhaseInd: 1.1.1
+TwoPhaseInd: 1.1.2
 TwoRegression: 0.1.2
 TwoSampleTest.HD: '1.0'
 TwoStepCLogit: 1.2.5
@@ -7164,7 +7166,7 @@ abstr: 0.4.1
 abstractr: 0.1.0
 abtest: 1.0.1
 abundant: '1.2'
-academictwitteR: 0.3.0
+academictwitteR: 0.3.1
 acc: 1.3.3
 accSDA: 1.0.0
 acca: '0.2'
@@ -8106,7 +8108,7 @@ bigreadr: 0.2.4
 bigrf: 0.1-6
 bigrquery: 1.4.0
 bigsimr: 0.11.2
-bigsnpr: 1.9.10
+bigsnpr: 1.9.11
 bigsparser: 0.5.0
 bigsplines: 1.1-1
 bigstatsr: 1.5.6
@@ -8275,7 +8277,7 @@ blockmodels: 1.1.5
 blockrand: '1.5'
 blocksdesign: '4.9'
 blockseg: 0.5.2
-blogdown: '1.7'
+blogdown: '1.8'
 blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-1
@@ -8559,6 +8561,7 @@ calmate: 0.12.1
 calpassapi: 0.0.3
 camel: 0.2.0
 campfin: 1.0.8
+campsis: 1.2.0
 campsismod: 0.8.0
 camsRad: 0.3.0
 camtrapR: 2.0.3
@@ -8615,7 +8618,7 @@ cartogramR: 1.0-5
 cartography: 3.0.1
 cartools: 0.1.0
 carx: 0.7.1
-casabourse: 0.2.0
+casabourse: 1.0.0
 cascadess: 0.1.0
 caschrono: '2.2'
 cascsim: '0.4'
@@ -10553,7 +10556,7 @@ easingr: 1.0.1
 easyAHP: 0.1.1
 easyCODA: 0.34.3
 easyDes: '6.0'
-easyDifferentialGeneCoexpression: '0.9'
+easyDifferentialGeneCoexpression: '1.0'
 easyNCDF: 0.1.0
 easyPSID: 0.1.2
 easyPubMed: '2.13'
@@ -10867,7 +10870,7 @@ eph: 0.4.0
 epi2loc: 1.0-1
 epiDisplay: 3.5.0.1
 epiGWAS: 1.0.2
-epiR: 2.0.41
+epiR: 2.0.43
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.9.2.8
@@ -11300,7 +11303,7 @@ fastrmodels: 1.0.2
 fastrtext: 0.3.4
 fastshap: 0.0.7
 fasttime: 1.0-2
-fastverse: 0.2.1
+fastverse: 0.2.2
 fat2Lpoly: 1.2.5
 faux: 1.1.0
 fauxnaif: 0.6.1
@@ -11710,6 +11713,7 @@ frequentdirections: 0.1.0
 frequentistSSD: 0.1.0
 freqweights: 1.0.4
 fresh: 0.2.0
+frictionless: 1.0.0
 friends: 0.1.0
 frite: 0.1.0
 fritools: 3.1.0
@@ -11852,7 +11856,7 @@ gWQSRS: 1.1.1
 gWidgets: 0.0-8
 gWidgets2: 1.0-9
 gWidgets2RGtk2: 1.0-7
-gWidgets2tcltk: 1.0-7
+gWidgets2tcltk: 1.0-8
 gWidgetsRGtk2: 0.0-9
 gWidgetsWWW: 0.0-9
 gWidgetsrJava: 0.0-9
@@ -12676,7 +12680,7 @@ gridGeometry: 0.2-0
 gridGraphics: 0.5-1
 gridGraphviz: '0.3'
 gridSVG: 1.7-2
-gridpattern: 0.4.0
+gridpattern: 0.5.1
 gridsample: 0.2.1
 gridsampler: '0.6'
 gridtext: 0.1.4
@@ -13491,7 +13495,7 @@ insect: 1.4.2
 insee: 1.1.3
 insideRODE: '2.0'
 insiderTrades: 0.0.1
-insight: 0.15.0
+insight: 0.16.0
 insol: 1.2.2
 inspectdf: 0.0.11
 inspector: 1.0.3
@@ -13618,6 +13622,7 @@ iq: '1.9'
 iqLearn: '1.5'
 iqspr: '2.3'
 irace: 3.4.1
+irboost: 0.1-1.1
 ircor: '1.0'
 irg: 0.1.6
 iriR: 0.2.2
@@ -15669,6 +15674,7 @@ multiMarker: 1.0.1
 multiPIM: 1.4-3
 multiRDPG: 1.0.1
 multiROC: 1.1.1
+multiUS: 1.1.0
 multiband: 0.1.0
 multibiplotGUI: '1.0'
 multiblock: 0.8.1
@@ -16907,7 +16913,7 @@ pdfetch: 0.2.5
 pdfminer: '1.0'
 pdfsearch: 0.3.0
 pdftables: '0.1'
-pdftools: 3.0.1
+pdftools: 3.1.0
 pdi: 0.4.2
 pdist: '1.2'
 pdmod: 1.0.1
@@ -17183,12 +17189,12 @@ pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.2
 pkgbuild: 1.3.1
-pkgcache: 1.3.0
+pkgcache: 2.0.0
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
-pkgdepends: 0.2.0
+pkgdepends: 0.3.0
 pkgdown: 2.0.2
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
@@ -18310,7 +18316,7 @@ raustats: 0.15.0
 raveio: 0.0.5
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravetools: 0.0.2
+ravetools: 0.0.3
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -18692,6 +18698,7 @@ reshape: 0.8.8
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
 resourcer: 1.1.1
+respR: 2.0.0
 resper: '0.3'
 respirometry: 1.3.0
 responsePatterns: 0.1.0
@@ -18816,7 +18823,7 @@ rhosa: 0.2.0
 rhosp: '1.07'
 rhub: 1.1.1
 rhymer: 1.1.0
-rhype: 0.0.1
+rhype: 0.2.0
 ri: '0.9'
 ri2: 0.2.0
 riAFTBART: 0.2.0
@@ -19669,7 +19676,7 @@ searchConsoleR: 0.4.0
 searchable: 0.3.3.1
 searcher: 0.0.6
 seas: 0.5-2
-season: 0.3.13
+season: 0.3.14
 seasonal: 1.8.4
 seasonalclumped: 0.3.2
 seasonalityPlot: 0.99.3
@@ -19839,7 +19846,7 @@ sfdct: 0.1.0
 sfheaders: 0.4.0
 sfhotspot: 0.2.0
 sfinx: 1.7.99
-sfnetworks: 0.5.4
+sfnetworks: 0.5.5
 sfo: 0.1.1
 sfsmisc: 1.1-12
 sft: 2.2-1
@@ -20732,7 +20739,7 @@ staTools: 0.1.0
 stab: 0.1.9
 stabiliser: 0.1.2
 stability: 0.5.0
-stable: 1.1.4
+stable: 1.1.5
 stableGR: '1.1'
 stabledist: 0.7-1
 stablelearner: 0.1-3
@@ -20788,7 +20795,7 @@ states: 0.3.1
 statesRcontiguous: 0.1.0
 statespacer: 0.4.0
 statfi: 0.9.8
-statgenGWAS: 1.0.7
+statgenGWAS: 1.0.8
 statgenGxE: 1.0.4
 statgenHTP: 1.0.5
 statgenIBD: 1.0.2
@@ -20991,6 +20998,7 @@ superMDS: 1.0.2
 superMICE: 1.0.1
 superb: 0.9.7.8
 superbiclust: '1.2'
+supercells: 0.8.0
 supercompress: '1.1'
 superdiag: '2.0'
 superheat: 0.1.0
@@ -21341,7 +21349,7 @@ tergmLite: 2.5.5
 term: 0.3.3
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.5-17
+terra: 1.5-21
 terrainmeshr: 0.1.0
 terrainr: 0.6.1
 tessellation: 1.0.0
@@ -21523,7 +21531,7 @@ tidystats: 0.5.1
 tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
-tidytable: 0.6.7
+tidytable: 0.7.0
 tidytext: 0.3.2
 tidytidbits: 0.3.1
 tidytransit: 1.3.0
@@ -21586,7 +21594,7 @@ tinylabels: 0.2.3
 tinyscholar: 0.1.4
 tinyspotifyr: 0.2.2
 tinytest: 1.3.1
-tinytex: '0.36'
+tinytex: '0.37'
 tiobeindexr: 0.1.1
 tipa: 1.0.5
 tipitaka: 0.1.2
@@ -22236,7 +22244,7 @@ versions: '0.3'
 versionsort: 1.0.0
 vertexenum: 1.0.2
 vesselr: 0.2.1
-vetiver: 0.1.1
+vetiver: 0.1.2
 vetools: 1.3-28
 vetr: 0.2.13
 vfcp: 1.4.0
@@ -22745,7 +22753,7 @@ zeallot: 0.1.0
 zebu: 0.1.3.0
 zeitgebr: 0.3.5
 zeligverse: 0.1.1
-zen4R: 0.5-2
+zen4R: 0.5-3
 zendeskR: '0.4'
 zenplots: 1.0.4
 zeroEQpart: 0.1.0
