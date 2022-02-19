@@ -202,6 +202,7 @@ AlignStat: 1.3.1
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: 1.0-2
+Allspice: 1.0.2
 AlphaPart: 0.9.1
 AlphaSimR: 1.1.2
 AlphaVantageClient: 0.0.1
@@ -4175,7 +4176,7 @@ OmicsPLS: 2.0.2
 Omisc: 0.1.4
 OmnibusFisher: '1.0'
 OnAge: 1.0.1
-OncoBayes2: 0.8-2
+OncoBayes2: 0.8-4
 Oncotree: 0.3.3
 OneArmPhaseTwoStudy: 1.0.3
 OneHandClapping: '1.5'
@@ -5508,7 +5509,7 @@ Rdiagnosislist: '1.0'
 Rdice: 1.0.0
 Rdimtools: 1.0.9
 Rdistance: 2.1.3
-Rdpack: 2.1.3
+Rdpack: 2.1.4
 Rdrools: 1.1.1
 Rdroolsjars: 1.0.1
 Rdrw: 1.0.2
@@ -8176,7 +8177,7 @@ bioPN: 1.2.0
 bioRad: 0.5.2
 bioacoustics: 0.2.8
 bioassays: 1.0.1
-bioclim: 0.1.0
+bioclim: 0.2.0
 biocompute: 1.1.0
 biodosetools: 3.6.0
 biofiles: 1.0.0
@@ -9011,6 +9012,7 @@ clusTransition: '1.0'
 cluscov: 1.1.0
 clusrank: 1.0-2
 clust.bin.pair: 0.1.2
+clustAnalytics: '0.3'
 clustDRM: 0.1-0
 clustEff: 0.2.0
 clustMD: 1.2.1
@@ -9798,7 +9800,7 @@ dataMeta: 0.1.1
 dataPreparation: 1.0.4
 dataQualityR: '1.0'
 dataReporter: 1.0.2
-dataRetrieval: 2.7.10
+dataRetrieval: 2.7.11
 datacheck: 1.2.2
 datacheckr: 0.2.0
 datacleanr: 1.0.3
@@ -11014,7 +11016,7 @@ ev.trawl: 0.1.0
 eva: 0.2.6
 evabic: 0.0.3
 evalITR: 0.2.2
-evaluate: '0.14'
+evaluate: '0.15'
 evaluator: 0.4.3
 evclass: 1.1.1
 evclust: 2.0.2
@@ -12518,6 +12520,7 @@ gmm: 1.6-6
 gmnl: 1.1-3.2
 gmodels: 2.18.1
 gmp: 0.6-2.1
+gmpoly: 1.0.0
 gms: 0.4.0
 gmt: 2.0.2
 gmum.r: 0.2.1
@@ -14223,7 +14226,7 @@ leontief: '0.2'
 leprechaun: 1.0.0
 leri: 0.0.1
 lero.lero: '0.2'
-lessR: 4.1.5
+lessR: 4.1.6
 lest: 1.1.0
 lestat: '1.9'
 letsR: '4.0'
@@ -14262,7 +14265,7 @@ librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: 0.7.3
 libstableR: 1.0.2
-lidR: 3.2.3
+lidR: 4.0.0
 lidaRtRee: 3.1.2
 lifecontingencies: 1.3.8
 lifecourse: '2.0'
@@ -14680,7 +14683,7 @@ mapDK: 0.3.0
 mapLD: 1.0-1
 mapReasy: '1.0'
 mapReduce: 1.2.6
-mapSpain: 0.5.0
+mapSpain: 0.6.0
 mapStats: '2.4'
 mapaccuracy: 0.1.0
 mapbayr: 0.6.0
@@ -15211,7 +15214,7 @@ miscor: 0.1-1
 miscset: 1.1.0
 mise: 0.1.0
 miselect: 0.9.0
-mispitools: 0.1.5
+mispitools: 0.1.9
 mispr: 1.0.0
 misreport: 0.1.1
 missCompare: 1.0.3
@@ -15838,7 +15841,7 @@ nFCA: '0.3'
 nFDR: '0.0'
 nFactors: 2.4.1
 nJira: 0.1.1
-nLTT: 1.4.3
+nLTT: 1.4.6
 nVennR: 0.2.3
 na.tools: 0.3.1
 naaccr: 1.0.0
@@ -16283,6 +16286,7 @@ numbers: 0.8-2
 numbersBR: 0.0.2
 numform: 0.7.0
 nutriNetwork: 0.1.1
+nutrientr: '0.1'
 nutshell: '2.0'
 nutshell.audioscrobbler: '1.0'
 nutshell.bbdb: '1.0'
@@ -16327,7 +16331,7 @@ occ: '1.1'
 occCite: 0.5.1
 occupancy: '1.2'
 ocd: '1.1'
-oce: 1.5-0
+oce: 1.6-1
 ocean: 0.2-4
 oceanic: 0.1.2
 oceanis: 1.8.4
@@ -17198,7 +17202,7 @@ pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.2
 pkgbuild: 1.3.1
-pkgcache: 2.0.0
+pkgcache: 2.0.1
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
@@ -17689,7 +17693,7 @@ prophet: '1.0'
 proportion: 2.0.0
 propr: 4.2.6
 proptest: 0.1-5
-prospectr: 0.2.2
+prospectr: 0.2.3
 protViz: 0.7.0
 protag: 1.0.0
 protein8k: 0.0.1
@@ -18222,7 +18226,7 @@ railtrails: 0.1.1
 rainbow: '3.6'
 raincin: 1.0.3
 raincpc: 1.1.0
-rainette: 0.2.1
+rainette: 0.3.0
 rainfarmr: '0.1'
 rainfreq: '0.3'
 rake: '1.2'
@@ -18527,7 +18531,7 @@ recapr: 0.4.4
 reccsim: 0.9-1
 recexcavAAR: 0.3.0
 rechonest: '1.2'
-recipes: 0.1.17
+recipes: 0.2.0
 reclin: 0.1.2
 reclin2: 0.1.1
 recluster: '2.9'
@@ -18585,6 +18589,7 @@ regexTestR: 0.1.3
 regexp: 0.0-1
 regexr: 1.1.0
 reghelper: 1.1.0
+regional: 0.3.0
 regioncode: 0.1.1
 regions: 0.1.8
 registr: 1.0.0
@@ -21336,7 +21341,7 @@ telefit: 1.0.3
 telegram: 0.6.0
 telegram.bot: 2.4.0
 telemac: 0.1.1
-tempR: 0.9.9.19
+tempR: 0.9.9.20
 tempcyclesdata: 1.0.1
 tempdisagg: '1.0'
 temperatureresponse: '0.2'
@@ -21481,6 +21486,7 @@ tictoc: 1.0.1
 tidyBF: 0.5.1
 tidyBdE: 0.2.3
 tidyCpp: 0.0.6
+tidyEmoji: 0.1.0
 tidyHeatmap: 1.6.0
 tidyLPA: 1.1.0
 tidyMicro: '1.47'
@@ -21707,7 +21713,7 @@ tourr: 0.6.0
 tourrGui: '0.4'
 toxEval: 1.2.0
 toxboot: 0.2.0
-toxpiR: 1.0.2
+toxpiR: 1.0.3
 toxplot: 0.1.1
 toxtestD: '2.0'
 tpAUC: 2.1.1
@@ -22107,7 +22113,7 @@ usdm: 1.1-18
 usedist: 0.4.0
 useful: 1.2.6
 usefun: 0.4.8
-usemodels: 0.1.0
+usemodels: 0.2.0
 userfriendlyscience: 0.7.2
 usethat: 0.3.0
 usethis: 2.1.5
@@ -22419,7 +22425,7 @@ wavefunction: 1.0.0
 wavelets: 0.3-0.2
 wavemulcor: 3.1.2
 waver: 0.2.1
-waves: 0.2.1
+waves: 0.2.2
 waveslim: 1.8.2
 wavethresh: 4.6.8
 wayback: 0.2.4
