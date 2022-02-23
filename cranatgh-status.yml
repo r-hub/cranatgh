@@ -796,6 +796,7 @@ CEDA: 1.0.2
 CEDARS: '1.90'
 CEGO: 2.4.2
 CENFA: 1.1.1
+CEOdata: '0.1'
 CEoptim: '1.2'
 CFAcoop: 1.0.0
 CFC: 1.1.2
@@ -889,7 +890,7 @@ COSINE: '2.1'
 COST: 0.1.0
 COUNT: 1.3.4
 COUSCOus: 1.0.0
-COVID19: 3.0.1
+COVID19: 3.0.2
 COVIDIBGE: 0.1.8
 COZIGAM: 2.0-3
 COveR: 1.0.3
@@ -939,7 +940,7 @@ CTT: 2.3.3
 CTTShiny: '0.1'
 CTTinShiny: 0.1.0
 CUB: 1.1.4
-CUFF: '1.7'
+CUFF: '1.8'
 CUMP: '2.0'
 CUSUMdesign: 1.1.5
 CVD: 1.0.2
@@ -1731,7 +1732,7 @@ EMVS: 1.2.1
 EMbC: 2.0.3
 EMpeaksR: 0.2.0
 ENA: 1.3-0
-ENMTools: 1.0.5
+ENMTools: 1.0.6
 ENMeval: 2.0.3
 ENiRG: '1.0'
 ENmisc: 1.2-7
@@ -1777,7 +1778,7 @@ Ecfun: 0.2-5
 EcoDiet: 1.0.0
 EcoGenetics: 1.2.1
 EcoHydRology: 0.4.12.1
-EcoIndR: '1.7'
+EcoIndR: '1.8'
 EcoNetGen: 0.2.3
 EcoSimR: 0.1.0
 EcoTroph: '1.6'
@@ -1916,7 +1917,7 @@ FADPclust: 0.1.0
 FAIRmaterials: 0.0.2
 FAMILY: 0.1.19
 FAMT: '2.5'
-FAMetA: 0.1.2
+FAMetA: 0.1.3
 FAMoS: 0.3.0
 FAO56: 0.1.0
 FAOSTAT: 2.2.3
@@ -2205,7 +2206,7 @@ GCalcium: 1.0.0
 GCalignR: 1.0.3
 GD: '1.10'
 GDAdata: '0.93'
-GDAtools: '1.7'
+GDAtools: 1.7.2
 GDD: 0.1-8
 GDELTtools: '1.5'
 GDINA: 2.8.8
@@ -3250,7 +3251,7 @@ LinearizedSVR: '1.3'
 LinkageMapView: 2.1.2
 LinkedGASP: '1.0'
 LinkedMatrix: 1.4.0
-LipidMS: 3.0.2
+LipidMS: 3.0.3
 LipidMSdata: 1.0.0
 Lmoments: 1.3-1
 LncFinder: 1.1.5
@@ -7543,7 +7544,7 @@ archiveRetriever: 0.1.0
 archivist: 2.3.6
 archivist.github: 0.2.6
 arcos: '1.27'
-arcpullr: 0.2.1
+arcpullr: 0.2.2
 arctools: 1.1.4
 areabiplot: 1.0.0
 areal: 0.1.7
@@ -7607,7 +7608,7 @@ ascrda: '1.15'
 asd: '2.2'
 asdreader: 0.1-3
 ash: 1.0-15
-ashr: 2.2-47
+ashr: 2.2-54
 asht: 0.9.7
 askpass: '1.1'
 aslib: 0.1.1
@@ -8046,7 +8047,7 @@ bfork: 0.1.2
 bfp: 0.0-44
 bfsMaps: 0.9.6
 bfsl: 0.2.0
-bfw: 0.4.1
+bfw: 0.4.2
 bgeva: 0.3-1
 bggAnalytics: 0.2.0
 bggum: 1.0.2
@@ -8965,7 +8966,7 @@ clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-7
 climaemet: 1.0.0
-climate: 1.0.3
+climate: 1.0.4
 climate.plot: 0.1-2
 climateStability: 0.1.3
 climatol: 3.1.2
@@ -8982,7 +8983,7 @@ clinPK: 0.9.0
 clinUtiDNA: '1.0'
 clinUtils: 0.1.1
 clines: 2.0-3
-clinfun: 1.0.15
+clinfun: 1.1.0
 clinmon: 0.6.0
 clinsig: '1.2'
 clinspacy: 1.0.2
@@ -9025,7 +9026,7 @@ clustTool: '1.6'
 clustcurv: 2.0.1
 cluster: 2.1.2
 cluster.datasets: 1.0-1
-clusterCons: '1.0'
+clusterCons: '1.2'
 clusterCrit: 1.2.8
 clusterGeneration: 1.3.7
 clusterGenomics: '1.0'
@@ -9155,7 +9156,7 @@ collectArgs: 0.4.0
 collections: 0.3.5
 collector: 0.1.3
 collidr: 0.1.3
-collin: 0.0.1
+collin: 0.0.2
 collpcm: '1.2'
 colmozzie: 1.1.1
 coloc: 5.1.0
@@ -9942,7 +9943,7 @@ decido: 0.3.0
 decision: 0.1.0
 decisionSupport: '1.110'
 deckgl: 0.2.7
-declared: '0.9'
+declared: '0.10'
 decode: '1.2'
 decoder: 1.2.2
 decomposedPSF: 0.1.3
@@ -12324,6 +12325,7 @@ ggpage: 0.2.3
 ggparallel: 0.2.0
 ggparliament: 2.0.0
 ggparty: 1.0.0
+ggpattern: 0.4.1
 ggperiodic: 1.0.1
 ggplot: 0.4.2
 ggplot.multistats: 1.0.0
@@ -13441,7 +13443,7 @@ imputeTestbench: 3.0.3
 imputeYn: '1.3'
 imsig: 1.1.3
 in2extRemes: 1.0-3
-inTextSummaryTable: 3.1.0
+inTextSummaryTable: 3.1.1
 inTrees: '1.2'
 inaparc: 1.1.0
 inarmix: '0.4'
@@ -14006,7 +14008,7 @@ krige: 0.6.1
 kriging: '1.1'
 krippendorffsalpha: 1.1-1
 krm: 2020.5-20
-ks: 1.13.3
+ks: 1.13.4
 ksNN: 0.1.2
 kscons: 0.7.0
 kselection: 0.2.0
@@ -14083,7 +14085,7 @@ languageserver: 0.3.12
 languageserversetup: 0.1.2
 lans2r: 1.1.0
 lar: 0.1-2
-lares: 5.0.6
+lares: 5.1.0
 largeList: 0.3.1
 largeVis: '0.2'
 lars: '1.2'
@@ -14290,7 +14292,7 @@ likelihoodAsy: '0.51'
 likelihoodExplore: 0.1.0
 likelihoodR: 1.0.7
 likert: 1.3.5
-lilikoi: 2.0.4
+lilikoi: 2.1.0
 lillies: 0.2.9
 limSolve: 1.5.6
 lime: 0.5.2
@@ -14544,6 +14546,7 @@ lsdv: '1.1'
 lsei: 1.3-0
 lsgl: 1.3.6
 lshorth: 0.1-6
+lsirm12pl: 1.0.0
 lsl: 0.5.6
 lslx: 0.6.10
 lsm: 0.2.1.2
@@ -15899,11 +15902,12 @@ nbapalettes: 0.1.0
 nbc4va: '1.1'
 nbconvertR: 1.3.2
 nberwp: 1.1.0
+nbfar: '0.1'
 nbody: '1.30'
 nbpMatching: 1.5.1
 nc: 2020.8.6
 ncappc: 0.3.0
-ncar: 0.4.4
+ncar: 0.4.5
 ncbit: 2013.03.29
 ncdf: '1.6'
 ncdf.tools: 0.7.1.295
@@ -16453,6 +16457,7 @@ openSkies: 1.1.6
 openVA: 1.0.13
 openadds: 0.2.0
 openair: 2.8-6
+openbankeR: 0.1.1
 openblender: 0.5.81
 opencage: 0.2.2
 opencastR: 0.1.3
@@ -19424,7 +19429,7 @@ rzmq: 0.9.8
 s2: 1.0.7
 s20x: 3.1-31
 s2dv: 1.1.0
-s2dverification: 2.10.0
+s2dverification: 2.10.1
 s2net: 1.0.1
 s3x: 0.9.2
 s4vd: 1.1-1
@@ -19969,7 +19974,7 @@ shinyauthr: 1.0.0
 shinybatch: '0.3'
 shinybootstrap2: 0.2.1
 shinybrms: 1.6.0
-shinybusy: 0.2.2
+shinybusy: 0.3.0
 shinycssloaders: 1.0.0
 shinycustomloader: 0.9.0
 shinydashboard: 0.7.2
@@ -20418,6 +20423,7 @@ spMaps: 0.4.0
 spNNGP: 0.1.6
 spNetwork: 0.2.1
 spOccupancy: 0.2.1
+spRingsteen: 0.0.1
 spTDyn: 2.0.1
 spTest: 0.2.5
 spThin: 0.2.0
@@ -21577,7 +21583,7 @@ tigerstats: 0.3.2
 tigger: 1.0.0
 tightClust: '1.1'
 tigreBrowserWriter: 0.1.5
-tigris: 1.5.1
+tigris: '1.6'
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
 tiledb: 0.11.0
@@ -21714,6 +21720,7 @@ torchvision: 0.4.1
 tornado: 0.1.1
 torus: '1.0'
 tosca: 0.3-2
+toscutil: 2.1.0
 tosls: '1.0'
 tosr: 0.1.1
 tossm: '1.3'
@@ -22027,7 +22034,7 @@ udapi: 0.1.3
 udpipe: 0.8.8
 udunits: '1.3'
 udunits2: 0.13.2
-ufRisk: 1.0.1
+ufRisk: 1.0.2
 ufs: 0.5.2
 ugatsdb: 0.2.2
 ugomquantreg: 1.0.0
