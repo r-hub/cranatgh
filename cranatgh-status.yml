@@ -622,7 +622,7 @@ BigTSP: '1.0'
 BigVAR: 1.0.6
 BimodalIndex: 1.1.9
 BinGSD: 0.0.1
-BinMat: 0.1.3
+BinMat: 0.1.4
 BinNonNor: 1.5.3
 BinNor: 2.3.3
 BinOrdNonNor: 1.5.2
@@ -797,7 +797,7 @@ CEDA: 1.0.2
 CEDARS: '1.90'
 CEGO: 2.4.2
 CENFA: 1.1.1
-CEOdata: '0.1'
+CEOdata: '0.2'
 CEoptim: '1.2'
 CFAcoop: 1.0.0
 CFC: 1.1.2
@@ -981,6 +981,7 @@ CatDyn: 1.1-1
 CatEncoders: 0.1.1
 CatPredi: '1.3'
 CatReg: 2.0.3
+CatastRo: 0.2.0
 CateSelection: '1.0'
 CauchyCP: 0.1.0
 CausalFX: 1.0.1
@@ -1356,7 +1357,7 @@ DIMORA: 0.2.0
 DIRECT: 1.0.1
 DISTRIB: '1.0'
 DIZtools: 0.0.3
-DIZutils: 0.0.14
+DIZutils: 0.0.15
 DIconvex: 1.0.0
 DImodels: '1.1'
 DIscBIO: 1.2.0
@@ -1414,7 +1415,7 @@ DRIP: '1.6'
 DRR: 0.0.4
 DRaWR: 1.0.1
 DRomics: 2.4-0
-DRviaSPCN: 0.1.0
+DRviaSPCN: 0.1.1
 DSAIDE: 0.9.3
 DSAIRM: 0.9.3
 DSBayes: '1.1'
@@ -3130,7 +3131,7 @@ LMGene: 2.8.0
 LMMELSM: 0.1.0
 LMMsolver: 1.0.0
 LMMstar: 0.4.4
-LMN: 1.1.1
+LMN: 1.1.2
 LMest: 3.0.2
 LMfilteR: 0.1.3
 LMoFit: 0.1.6
@@ -3169,7 +3170,7 @@ LSAfun: 0.6.1
 LSAmitR: 1.0-2
 LSC: 0.1.5
 LSD: 4.1-0
-LSDinterface: 1.1.0
+LSDinterface: 1.2.0
 LSDsensitivity: 1.1.2
 LSE: 1.0.0
 LSMRealOptions: 0.2.1
@@ -3200,7 +3201,7 @@ LagSequential: 0.1.1
 Lahman: 9.0-0
 LakeMetabolizer: 1.5.0
 Lambda4: '3.0'
-LambertW: 0.6.6
+LambertW: 0.6.7
 Landmarking: 1.0.0
 Langevin: 1.3.1
 LaplaceDeconv: 1.0.4
@@ -3874,7 +3875,7 @@ MultNonParam: 1.3.6
 MultOrdRS: 0.1-2
 MultSurvTests: '0.2'
 MultiABEL: 1.1-6
-MultiATSM: 0.0.1
+MultiATSM: 0.1.1
 MultiBD: 0.2.0
 MultiCNVDetect: 0.1-1
 MultiChIPmixHMM: '5.0'
@@ -4999,7 +5000,7 @@ RImpala: 0.1.6
 RInSp: 1.2.4
 RInno: 1.0.1
 RInside: 0.2.16
-RItools: 0.1-9
+RItools: 0.1-18
 RJDBC: 0.2-8
 RJDemetra: 0.1.9
 RJSDMX: 2.3-3
@@ -5799,7 +5800,7 @@ Ryacas: 1.1.3.1
 Ryacas0: 0.4.3
 Rz: 0.9-1
 S2sls: '0.1'
-SACCR: '3.1'
+SACCR: '3.2'
 SACOBRA: '1.2'
 SADEG: 1.0.0
 SADISA: '1.2'
@@ -7277,13 +7278,13 @@ adklakedata: 0.6.1
 adlift: 1.4-1
 admiral: 0.6.3
 admiral.test: 0.1.2
-admisc: '0.24'
+admisc: '0.25'
 admix: 0.3.2
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
 adnuts: 1.1.2
-adobeanalyticsr: 0.2.1
+adobeanalyticsr: 0.3.0
 adoption: 0.6.4
 adoptr: 1.0.0
 adpss: 0.1.1
@@ -8757,7 +8758,7 @@ cenGAM: 0.5.3
 cenROC: 1.2.0
 censCov: 1.0-0
 censNID: 0-0-1
-censReg: 0.5-32
+censReg: 0.5-34
 censable: 0.0.3
 censo2017: 0.6.1
 censorcopula: '2.0'
@@ -9334,7 +9335,7 @@ contingencytables: 1.0.0
 contourPlot: 0.2.0
 contoureR: 1.0.5
 contrast: 0.24.1
-contribution: 0.2.0
+contribution: 0.2.1
 control: 0.2.5
 controlTest: 1.1.0
 convdistr: 1.5.3
@@ -11244,7 +11245,7 @@ fam.recrisk: '0.1'
 fam2r: '1.2'
 famSKATRC: 1.1.0
 fame: 2.21.1
-familial: 1.0.1
+familial: 1.0.2
 familiar: 1.0.0
 fanc: '2.2'
 fancycut: 0.1.2
@@ -12576,7 +12577,7 @@ good: 1.0.1
 goodpractice: 1.0.2
 googleAnalyticsR: 1.0.1
 googleAuthR: 2.0.0
-googleCloudRunner: 0.4.1
+googleCloudRunner: 0.5.0
 googleCloudStorageR: 0.7.0
 googleCloudVisionR: 0.2.0
 googleComputeEngineR: 0.3.0
@@ -12989,7 +12990,7 @@ hgutils: 0.2.7
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
-hhsmm: 0.2.5
+hhsmm: 0.3.1
 hht: 2.1.4
 hiPOD: '1.0'
 hibayes: 1.0.1
@@ -13829,7 +13830,7 @@ jrt: 1.1.0
 jrvFinance: 1.4.3
 js: '1.2'
 jsTree: '1.2'
-jsTreeR: 1.5.0
+jsTreeR: 1.6.0
 jskm: 0.4.3
 jsmodule: 1.3.0
 json64: 0.1.3
@@ -15747,7 +15748,7 @@ multinet: 4.0.1
 multinets: 0.2.2
 multinma: 0.4.1
 multinomRob: 1.8-6.1
-multinomineq: 0.2.1
+multinomineq: 0.2.3
 multipanelfigure: 2.1.2
 multipleNCC: 1.2-2
 multiplestressR: 0.1.1
@@ -15892,7 +15893,7 @@ naptime: 1.3.0
 nardl: 0.1.6
 narray: 0.4.1.1
 nasadata: 0.9.0
-nasapower: 4.0.5
+nasapower: 4.0.6
 nasaweather: '0.1'
 naspaclust: 0.2.1
 nat: 1.8.18
@@ -15945,7 +15946,7 @@ nearfar: '1.2'
 neariso: 1.0.1
 neat: 1.2.3
 neatRanges: 0.1.3
-neatStats: 1.9.0
+neatStats: 1.10.1
 neatmaps: 2.1.0
 nebula: 1.2.0
 needmining: 0.1.1
@@ -18090,6 +18091,7 @@ r2sundials: 5.0.0-10
 r2symbols: '0.1'
 r3PG: 0.1.3
 r3dmol: 0.1.2
+r4googleads: 0.1.1
 r4lineups: 0.1.1
 r4ss: 1.36.1
 r511: 0.1.1
@@ -18686,7 +18688,7 @@ remotes: 2.4.2
 remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 0.15.2
+renv: 0.15.3
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
@@ -19161,7 +19163,7 @@ roxygen2: 7.1.2
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
-rpact: 3.2.1
+rpact: 3.2.2
 rpanel: 1.1-5
 rpart: 4.1.16
 rpart.LAD: 0.1.2
@@ -19478,6 +19480,7 @@ sae: '1.3'
 sae2: 1.0-1
 saeBest: 0.1.0
 saeHB: 0.2.0
+saeHB.twofold: 0.1.0
 saeME: 1.2.4
 saeRobust: 0.2.0
 saeSim: 0.11.0
@@ -21269,7 +21272,7 @@ table1xls: 0.4.0
 tableExtra: 1.0.1
 tableHTML: 2.1.0
 tableMatrix: 0.82.0
-tableeasy: 1.1.0
+tableeasy: 1.1.1
 tableone: 0.13.0
 tableplot: 0.3-5
 tablerDash: 0.1.0
@@ -21510,7 +21513,7 @@ thregI: 1.0.4
 threshr: 1.0.3
 thriftr: 1.1.5
 thsls: '0.1'
-thunder: 0.0.12
+thunder: 0.3.0
 thurstonianIRT: 0.12.1
 tibble: 3.1.6
 tibbleOne: 0.1.1
@@ -22213,7 +22216,7 @@ vamc: 0.2.1
 vampyr: 1.1.1
 vandalico: 0.0.1
 vanddraabe: 1.1.1
-vannstats: 1.2.2.21
+vannstats: 1.2.2.27
 vanquish: 1.0.0
 vapour: 0.8.5
 varComp: 0.2-0
