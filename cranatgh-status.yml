@@ -1965,6 +1965,7 @@ FHtest: '1.5'
 FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
+FIESTAutils: 1.0.0
 FILEST: 1.1.2
 FIT: 0.0.6
 FITSio: 2.1-6
@@ -3053,7 +3054,7 @@ KnapsackSampling: 0.1.0
 KneeArrower: 1.0.0
 KnockoffScreen: 0.3.0
 Knoema: 0.1.19
-KnowBR: '2.0'
+KnowBR: '2.1'
 KnowGRRF: '1.0'
 KoNLP: 0.80.2
 KoulMde: 3.2.1
@@ -3171,7 +3172,7 @@ LSAmitR: 1.0-2
 LSC: 0.1.5
 LSD: 4.1-0
 LSDinterface: 1.2.0
-LSDsensitivity: 1.1.2
+LSDsensitivity: 1.2.0
 LSE: 1.0.0
 LSMRealOptions: 0.2.1
 LSMonteCarlo: '1.0'
@@ -3409,7 +3410,7 @@ MEET: '5.1'
 MEGENA: 1.3.7
 MEMSS: 0.9-3
 MEPDF: '3.0'
-MERO: 0.1.0
+MERO: 0.1.1
 MESS: 0.5.7
 MEWMA: '1.0'
 MEclustnet: 1.2.2
@@ -5493,7 +5494,7 @@ RcppSpdlog: 0.0.7
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.1.7
-RcppThread: 2.0.2
+RcppThread: 2.1.0
 RcppUUID: 1.1.1
 RcppXPtrUtils: 0.1.1
 RcppXsimd: 7.1.6
@@ -5626,7 +5627,7 @@ RiemBase: 0.2.5
 RiemBaseExt: 0.1.2
 RiemGrassmann: 0.1.0
 RiemStiefel: 0.1.1
-Riemann: 0.1.3
+Riemann: 0.1.4
 Riex: 1.0.2
 Rigroup: 0.83.0
 Rilostat: 1.1.8
@@ -6029,7 +6030,7 @@ SPCALDA: '1.0'
 SPCAvRP: '0.4'
 SPCDAnalyze: 0.1.0
 SPECIES: '1.0'
-SPEDInstabR: '1.8'
+SPEDInstabR: '1.9'
 SPEI: '1.7'
 SPIAssay: 1.1.0
 SPIGA: 1.0.0
@@ -6696,7 +6697,7 @@ TauP.R: '1.5'
 TauStar: 1.1.4
 TaxicabCA: 0.1.1
 Taxonstand: '2.4'
-TcGSA: 0.12.7
+TcGSA: 0.12.10
 Tcomp: 1.0.1
 TeXCheckR: 0.7.0
 TeachBayes: '1.0'
@@ -7409,7 +7410,7 @@ amba: 0.3.1
 amber: 1.0.3
 ambhasGW: 0.0.2
 ambient: 1.0.0
-ambiorix: 1.0.2
+ambiorix: 2.0.0
 ameco: '0.2'
 amei: '1.0'
 amelie: 0.2.1
@@ -7714,6 +7715,7 @@ autoFC: 0.1.2
 autoFRK: 1.4.3
 autoMFA: 1.0.0
 autoMrP: 1.0.1
+autoRasch: 0.1.5
 autoReg: 0.1.0
 autoSEM: 0.1.0
 autoTS: 0.9.11
@@ -9547,7 +9549,7 @@ crimelinkage: 0.0.4
 crimeutils: 0.3.0
 crisp: 1.0.0
 crispRdesignR: 1.1.6
-criticality: 0.9.0
+criticality: 0.9.1
 criticalpath: 0.2.0
 critpath: 0.1.4
 crmPack: 1.0.0
@@ -10515,6 +10517,7 @@ dynaSpec: 1.0.1
 dynaTree: 1.2-10
 dynamAedes: 2.0.2
 dynamac: 0.1.11
+dynamic: 1.1.0
 dynamicGraph: 0.2.2
 dynamicTreeCut: 1.63-1
 dynamichazard: 1.0.1
@@ -10584,6 +10587,7 @@ easySdcTable: 1.0.1
 easyVerification: 0.4.4
 easyalluvial: 0.3.0
 easyanova: '7.0'
+easycensus: 0.2.1
 easycsv: 1.0.8
 easyformatr: 0.1.2
 easylabel: 0.2.4
@@ -11386,7 +11390,7 @@ featureflag: 0.1.0
 features: 2015.12-1
 featuretoolsR: 0.4.4
 featurizer: '0.2'
-febr: 1.9.8
+febr: 1.9.9
 fec16: 0.1.3
 fecR: 0.0.2
 fechner: 1.0-3
@@ -11423,6 +11427,7 @@ fgeo.analyze: 1.1.14
 fgeo.plot: 1.1.10
 fgeo.tool: 1.2.7
 fgeo.x: 1.1.4
+fgitR: 0.2.0
 fglsnet: '1.0'
 fgm: '1.0'
 fgof: 0.2-1
@@ -13796,7 +13801,7 @@ jmetrik: '1.1'
 jmotif: 1.1.1
 jmuOutlier: '2.2'
 jmv: '2.0'
-jmvReadWrite: 0.3.0
+jmvReadWrite: 0.3.1
 jmvconnect: 2.0.0
 jmvcore: '2.2'
 job: 0.3.0
@@ -14790,7 +14795,7 @@ matdist: 0.1.1
 mateable: 0.3.1
 materialmodifier: 1.1.0
 mathgraph: 0.9-8
-mathjaxr: 1.4-0
+mathjaxr: 1.6-0
 mathpix: 0.4.0
 maticce: 1.0-3
 matie: '1.2'
@@ -16298,7 +16303,7 @@ nsp: 1.0.0
 nspmix: 1.5-0
 nsprcomp: 0.5.1-2
 nsrr: 0.2.0
-nsyllable: '1.0'
+nsyllable: 1.0.1
 ntwk: 1.0.0
 nucim: 1.0.11
 nullabor: 0.3.9
@@ -16625,6 +16630,7 @@ otpr: 0.5.1
 otrimle: '2.0'
 otsad: 0.2.0
 ottr: 1.1.3
+ottrpal: '1.0'
 otuSummary: 0.1.1
 otvPlots: 0.2.1
 ouch: '2.17'
@@ -18069,7 +18075,7 @@ r.jive: '2.4'
 r.proxy: 0.1.0
 r02pro: '0.1'
 r2d2: 1.0-0
-r2d3: 0.2.5
+r2d3: 0.2.6
 r2dRue: 1.0.4
 r2dictionary: '0.1'
 r2dii.analysis: 0.1.12
@@ -19217,7 +19223,7 @@ rpymat: 0.1.2
 rqPen: 2.2.2
 rqdatatable: 1.3.1
 rqmcmb2: 1.0.2
-rquery: 1.4.8
+rquery: 1.4.9
 rr: '1.4'
 rr2: 1.0.2
 rrBLUP: 4.6.1
