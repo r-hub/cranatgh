@@ -450,7 +450,7 @@ BRACoD.R: 0.0.1.2
 BRDT: 0.1.0
 BRETIGEA: 1.0.3
 BRINDA: 0.1.3
-BRISC: 1.0.2
+BRISC: 1.0.3
 BRL: 0.1.0
 BRugs: 0.9-1
 BSBT: 1.2.0
@@ -1759,7 +1759,7 @@ ESKNN: '1.0'
 ESPRESSO: '2.0'
 ESTER: 0.2.0
 ETAS: 0.4.9
-ETC: '1.3'
+ETC: '1.5'
 ETLUtils: '1.5'
 EVER: '1.2'
 EValue: 4.1.3
@@ -2459,7 +2459,7 @@ GermaParl: 1.5.2
 GerminaR: 2.1.3
 GetBCBData: '0.6'
 GetDFPData: '1.6'
-GetDFPData2: '0.6'
+GetDFPData2: 0.6.1
 GetFREData: '0.7'
 GetHFData: '1.7'
 GetITRData: '0.7'
@@ -2467,7 +2467,7 @@ GetLattesData: '1.4'
 GetNenshuJP: '0.1'
 GetQuandlData: 0.1.0
 GetR: '0.1'
-GetTDData: 1.4.3
+GetTDData: 1.4.4
 GetoptLong: 1.0.5
 Ghat: 0.1.0
 GhcnDaily: '1.5'
@@ -3188,7 +3188,7 @@ LTPDvar: '1.2'
 LTR: 1.0.0
 LTRCforests: 0.5.5
 LTRCtrees: 1.1.1
-LUCIDus: 2.1.0
+LUCIDus: 2.1.4
 LVGP: 2.1.5
 LVMMCOR: 0.01.1
 LVQTools: '1.2'
@@ -3610,7 +3610,7 @@ MTE: 1.0.1
 MTGS: 0.1.0
 MTLR: 0.2.1
 MTPS: 1.0.1
-MTS: 1.0.3
+MTS: 1.1.1
 MTSKNN: 0.0-5
 MTSYS: 1.2.0
 MTurkR: 0.8.0
@@ -3805,9 +3805,9 @@ MixRF: '1.0'
 MixSAL: '1.0'
 MixSIAR: 3.1.12
 MixSim: 1.1-5
-MixTwice: '1.1'
+MixTwice: '2.0'
 MixedDataImpute: '0.1'
-MixedIndTests: 0.7.0
+MixedIndTests: 0.8.0
 MixedPoisson: '2.0'
 MixedPsy: 1.1.0
 MixedTS: 1.0.4
@@ -4700,7 +4700,7 @@ Q2q: 0.1.0
 Q7: 0.1.0
 QAIG: 0.1.7
 QBAsyDist: 0.1.2
-QBMS: '0.6'
+QBMS: 0.7.0
 QCA: '3.15'
 QCA3: 0.0-8
 QCAGUI: '2.5'
@@ -5510,7 +5510,7 @@ Rcssplot: 1.0.0
 Rcurvep: 1.2.0
 Rd: 0.2.0
 Rd2md: 0.0.5
-Rd2roxygen: '1.12'
+Rd2roxygen: '1.13'
 Rdbi: 0.1-2
 Rdbi.PgSQL: 0.1-2
 Rdca: 0.1.0
@@ -6648,7 +6648,7 @@ TSSQLite: 2015.4-1
 TSSS: 1.3.1
 TSTr: '1.2'
 TSTutorial: 1.2.3
-TSVC: 1.2.1
+TSVC: 1.2.2
 TSclust: 1.3.1
 TScompare: 2015.4-1
 TSdata: 2016.8-1
@@ -8227,7 +8227,7 @@ biotic: 0.1.2
 biotools: '4.2'
 bipartite: '2.16'
 bipartiteD3: 0.3.0
-bipd: '0.1'
+bipd: '0.2'
 biplotbootGUI: '1.2'
 birankr: 1.0.1
 birch: '1.2'
@@ -8293,7 +8293,7 @@ blockRAR: 1.0.2
 blockTools: 0.6-3
 blockcluster: 4.5.1
 blockingChallenge: '1.0'
-blocklength: 0.1.4
+blocklength: 0.1.5
 blockmatrix: '1.0'
 blockmodeling: 1.0.5
 blockmodels: 1.1.5
@@ -8559,7 +8559,7 @@ caRpools: '0.83'
 caTools: 1.18.2
 cabinets: 0.6.0
 cablecuttr: 0.1.1
-cabootcrs: '2.0'
+cabootcrs: 2.1.0
 cacIRT: '1.4'
 cache: 0.0.2
 cacheSweave: '0.6'
@@ -8887,7 +8887,7 @@ chorrrds: 0.1.9.5
 chplot: '1.3'
 christmas: 1.1.1
 chromer: '0.1'
-chromoMap: 0.3.1
+chromoMap: 0.4.1
 chromoR: '1.0'
 chromseq: 0.1.3
 chron: 2.3-56
@@ -8932,7 +8932,7 @@ ciuupi: 1.1.0
 ciuupi2: 1.0.1
 civis: 3.0.0
 cjar: 0.1.0
-cjbart: 0.2.1
+cjbart: 0.2.2
 cjoint: 2.1.0
 ck37r: 1.0.3
 ckanr: 0.6.0
@@ -9305,7 +9305,7 @@ conflicted: 1.1.0
 conflr: 0.1.1
 conformal: '0.2'
 conformalClassification: 1.0.0
-conformalInference.fd: 1.0.0
+conformalInference.fd: 1.1.0
 conformalInference.multi: 1.1.0
 confoundr: '1.2'
 confreq: 1.5.6-4
@@ -9867,7 +9867,7 @@ datasus: 0.4.1
 datautils: 0.1.5
 dataverse: 0.3.10
 dataview: 2.1.1
-datawizard: 0.2.3
+datawizard: 0.3.0
 datazoom.amazonia: 0.2.0
 date: 1.2-39
 datefixR: 0.1.4
@@ -10203,7 +10203,7 @@ disaggR: 1.0.3
 disaggregation: 0.1.3
 disastr.api: 1.0.5
 discAUC: 0.4.0
-discSurv: 1.4.2
+discSurv: 2.0.0
 discfrail: '0.1'
 discgolf: 0.2.0
 discharge: 1.0.0
@@ -11642,6 +11642,7 @@ forecast: '8.16'
 forecastHybrid: 5.0.19
 forecastML: 0.9.0
 forecastSNSTS: 1.3-0
+forecasteR: 1.1.6
 forecasting: '1.26'
 forega: '1.0'
 foreign: 0.8-82
@@ -11852,7 +11853,7 @@ fuzzyRankTests: '0.4'
 fuzzySim: '3.7'
 fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.6
-fuzzyreg: 0.5.2
+fuzzyreg: '0.6'
 fuzzywuzzyR: 1.0.5
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
@@ -12165,7 +12166,7 @@ geometr: 0.2.10
 geometries: 0.2.0
 geometry: 0.4.5
 geomnet: 0.3.1
-geomorph: 4.0.2
+geomorph: 4.0.3
 geomtextpath: 0.1.0
 geomultistar: 1.1.0
 geonames: '0.999'
@@ -12439,6 +12440,7 @@ giscoR: 0.3.1
 gistr: 0.9.0
 git2r: 0.29.0
 git2rdata: 0.3.1
+git4r: 0.1.1
 gitcreds: 0.1.1
 gitdown: 0.1.5
 gitear: 1.0.0
@@ -14132,7 +14134,7 @@ latentgraph: '1.1'
 latentnet: 2.10.5
 latentnetHRT: 0.7-18
 later: 1.3.0
-latex2exp: 0.9.3
+latex2exp: 0.9.4
 latexdiffr: 0.1.0
 latexpdf: 0.1.7
 latrend: 1.2.1
@@ -14242,6 +14244,7 @@ learnrbook: 1.0.2
 learnstats: 0.1.1
 leastcostpath: 1.8.0
 ledger: 2.0.9
+leem: 0.1.0
 leerSIECyL: 1.0.2
 lefko3: 4.2.0
 lefse: '0.1'
@@ -15763,7 +15766,7 @@ multimorbidity: 0.5.0
 multinbmod: '1.0'
 multinet: 4.0.1
 multinets: 0.2.2
-multinma: 0.4.1
+multinma: 0.4.2
 multinomRob: 1.8-6.1
 multinomineq: 0.2.3
 multipanelfigure: 2.1.2
@@ -16346,7 +16349,7 @@ nzffdr: 2.0.0
 nzilbb.labbcat: 1.0-1
 nzpullover: 0.3.0
 o2geosocial: 1.1.0
-o2plsda: 0.0.14
+o2plsda: 0.0.15
 oRus: 1.0.0
 oXim: 1.2.2
 oaColors: 0.0.4
@@ -16400,7 +16403,7 @@ odfWeave.survey: '1.0'
 odin: 1.2.1
 odk: '1.5'
 odkr: 0.2.0
-odpc: 2.0.4
+odpc: 2.0.5
 odprism: '1.1'
 odr: 1.2.1
 oec: 2.7.8
@@ -16470,7 +16473,7 @@ oolong: 0.4.1
 oompaBase: 3.2.9
 oompaData: 3.1.1
 ooplah: 0.2.0
-oops: 0.1.0
+oops: 0.2.0
 oosp: 0.3.3
 opGMMassessment: '0.3'
 opa: 0.2.0
@@ -16505,7 +16508,7 @@ openeo: 1.1.0
 openintro: 2.3.0
 openmetrics: 0.3.0
 opensensmapr: 0.5.1
-openssl: 1.4.6
+openssl: 2.0.0
 opentick: 0.1-1
 opentimsr: 1.0.11
 opentraj: '1.0'
@@ -16728,11 +16731,11 @@ padr: 0.6.0
 paf: '1.0'
 pafdR: '1.0'
 pafr: 0.0.2
-pagedown: '0.16'
+pagedown: '0.17'
 pagemap: 0.1.3
 pagenum: '1.2'
 pageviews: 0.5.0
-pagoda2: 1.0.8
+pagoda2: 1.0.9
 pagoo: 0.3.12
 painbow: 1.0.1
 painter: 0.1.0
@@ -17631,7 +17634,7 @@ presens: 2.1.0
 presenter: 0.1.1
 presentes: 0.1.0
 preseqR: 4.0.0
-presize: 0.2.3
+presize: 0.3.1
 presmTP: 1.1.0
 press: '2.0'
 pressData: '2.0'
@@ -17798,7 +17801,7 @@ psp: '0.1'
 pspearman: 0.3-0
 pspline: 1.0-17
 pspline.inference: 1.0.4
-psqn: 0.3.0
+psqn: 0.3.1
 psr: 0.1.0
 psre: 0.1.0
 psrwe: '3.1'
@@ -18417,6 +18420,7 @@ rbison: 1.0.0
 rbit: 1.0.0
 rbitcoinchartsapi: 1.0.4
 rblt: 0.2.4.5
+rbmi: 1.1.0
 rbmn: 0.9-4
 rbokeh: 0.5.2
 rbooster: 1.1.0
@@ -18439,7 +18443,7 @@ rcarbon: 1.4.3
 rcartocolor: 2.0.0
 rcbalance: 1.8.6
 rcbayes: 0.2.0
-rcbsubset: 1.1.5
+rcbsubset: 1.1.6
 rcc: 1.0.0
 rccdates: 1.0.0
 rccmisc: 0.3.7
@@ -18709,7 +18713,7 @@ remotes: 2.4.2
 remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 0.15.3
+renv: 0.15.4
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
@@ -19001,7 +19005,7 @@ rmapshaper: 0.4.5
 rmapzen: 0.4.3
 rmarchingcubes: 0.1.3
 rmargint: 2.0.2
-rmarkdown: '2.11'
+rmarkdown: '2.12'
 rmatio: 0.16.0
 rmcfs: 1.3.5
 rmcorr: 0.4.5
@@ -19184,7 +19188,7 @@ roxygen2: 7.1.2
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
-rpact: 3.2.2
+rpact: 3.2.3
 rpanel: 1.1-5
 rpart: 4.1.16
 rpart.LAD: 0.1.2
@@ -19502,6 +19506,7 @@ sae: '1.3'
 sae2: 1.0-1
 saeBest: 0.1.0
 saeHB: 0.2.0
+saeHB.spatial: 0.1.0
 saeHB.twofold: 0.1.0
 saeME: 1.2.4
 saeRobust: 0.2.0
@@ -20049,7 +20054,7 @@ shinyrecipes: 0.1.0
 shinyreforms: 0.0.1
 shinyscreenshot: 0.2.0
 shinyservicebot: 0.1.0
-shinystan: 2.5.0
+shinystan: 2.6.0
 shinysurveys: 0.2.0
 shinytest: 1.5.1
 shinythemes: 1.2.0
@@ -20583,7 +20588,7 @@ spatstat.local: 4.1-4
 spatstat.random: 2.1-0
 spatstat.sparse: 2.1-0
 spatstat.utils: 2.3-0
-spatsurv: '1.6'
+spatsurv: '1.7'
 spbabel: 0.5.5
 spc: 0.6.5
 spc4sts: 0.5.5
@@ -22203,6 +22208,7 @@ utiml: 0.1.7
 utr.annotation: 1.0.4
 uuid: 1.0-3
 uwIntroStats: 0.0.7
+uwedragon: 0.1.0
 uwo4419: 0.3.0
 uwot: 0.1.11
 vICC: 1.0.0
@@ -22722,7 +22728,7 @@ xdcclarge: 0.1.0
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.29'
+xfun: '0.30'
 xgb2sql: 0.1.2
 xgboost: 1.5.2.1
 xgobi: 1.2-15
