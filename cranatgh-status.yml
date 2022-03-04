@@ -2098,7 +2098,7 @@ FishPhyloMaker: 0.2.0
 FishResp: 1.1.0
 FisherEM: '1.6'
 FitAR: '1.94'
-FitARMA: 1.6.1
+FitARMA: '1.6'
 FitUltD: 3.1.0
 FixSeqMTP: 0.1.2
 FixedPoint: 0.6.2
@@ -3336,7 +3336,7 @@ MATTOOLS: '1.1'
 MAVE: 1.3.11
 MAVIS: '1.1'
 MAVTgsa: '1.3'
-MAc: 1.1.1
+MAc: '1.1'
 MAclinical: 1.0-5
 MAd: 0.8-2.1
 MAnorm2: 1.2.0
@@ -3764,7 +3764,7 @@ MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
 Metrics: 0.1.4
 MetricsWeighted: 0.5.4
-MfUSampler: 1.0.4
+MfUSampler: 1.0.6
 MiClip: '1.3'
 MiDA: 0.1.2
 MiRAnorm: 1.0.0
@@ -4066,7 +4066,7 @@ NetSimR: 0.1.1
 NetSwan: '0.1'
 NetWeaver: 0.0.6
 NetworkAnalysis: 0.3-1
-NetworkChange: '0.7'
+NetworkChange: '0.8'
 NetworkComparisonTest: 2.2.1
 NetworkDistance: 0.3.4
 NetworkExtinction: 0.1.1
@@ -4955,7 +4955,7 @@ RFreak: 0.3-0
 RGA: 0.4.2
 RGBM: 1.0-8
 RGCCA: 2.1.2
-RGCxGC: 1.1.0
+RGCxGC: 1.1-2
 RGE: '1.0'
 RGENERATE: 1.3.7
 RGENERATEPREC: 1.2.9
@@ -5354,7 +5354,7 @@ RationalExp: 0.2.2
 Ravages: 1.0.0
 RavenR: 2.1.7
 RawHummus: 0.2.1
-Rbeast: 0.9.2
+Rbeast: 0.9.3
 Rbent: 0.1.0
 Rbgs: '0.2'
 RbioRXN: '1.5'
@@ -5756,7 +5756,7 @@ Rsfar: 0.0.1
 Rsge: 0.6.3
 Rsgf: 1.0.0
 RsimMosaic: 1.0.3
-Rsmlx: 4.0.1
+Rsmlx: 4.0.2
 Rsolnp: '1.16'
 Rsomoclu: 1.7.5
 Rspc: 1.2.2
@@ -5939,7 +5939,7 @@ SID: '1.0'
 SIDES: '1.16'
 SIGN: 0.1.0
 SIHR: 0.2.0
-SII: 1.0.3.1
+SII: 1.0.3
 SILGGM: 1.0.0
 SILM: 1.0.0
 SIMEXBoost: 0.1.0
@@ -7240,7 +7240,7 @@ adaptDA: '1.0'
 adaptDiag: 0.1.0
 adaptMCMC: '1.4'
 adaptMT: 1.0.0
-adaptTest: '1.0'
+adaptTest: '1.1'
 adaptalint: 0.2.4
 adaptiveGPCA: 0.1.2
 adaptivetau: 2.2-3
@@ -7390,7 +7390,7 @@ allcontributors: 0.0.2
 alleHap: 0.9.9
 allelematch: 2.5.1
 allelic: '0.1'
-allestimates: 0.2.1
+allestimates: 0.2.2
 alluvial: 0.1-2
 alm: 0.4.0
 almanac: 0.1.1
@@ -8265,7 +8265,7 @@ biwt: '1.0'
 bizdays: 1.0.9
 bizicount: 1.0.0
 bjscrapeR: 0.1.0
-bkmr: 0.2.0
+bkmr: 0.2.1
 bkmrhat: 1.1.1
 blackbox: 1.1.32
 blaise: 1.3.8
@@ -8665,7 +8665,7 @@ catSurv: 1.4.0
 cata: 0.0.10.3
 catalog: 0.1.0
 catch: 1.0.1
-catchr: 0.2.31
+catchr: 0.2.3
 catcont: 0.5.0
 catdap: 1.3.5
 catdata: 1.2.2
@@ -9403,7 +9403,7 @@ coroICA: 1.0.2
 corona: 0.3.0
 coronavirus: 0.3.31
 corpcor: 1.6.10
-corpora: '0.5'
+corpora: 0.5-1
 corporaexplorer: 0.8.4
 corpus: 0.10.2
 corpustools: 0.4.9
@@ -10202,7 +10202,7 @@ dirichlet: '1.0'
 dirichletprocess: 0.4.0
 dirmcmc: 1.3.3
 dirmult: 0.1.3-4
-disaggR: 1.0.3
+disaggR: 1.0.3.1
 disaggregation: 0.1.3
 disastr.api: 1.0.5
 discAUC: 0.4.0
@@ -10741,7 +10741,7 @@ eflm: 0.3.0
 efreadr: 0.2.2
 efts: 0.9-0
 ega: 2.0.0
-egcm: 1.0.12
+egcm: 1.0.8
 egg: 0.4.5
 eggCounts: 2.3-2
 egoTERGM: 2.1.1
@@ -10808,7 +10808,7 @@ elrm: 1.2.5
 elsa: 1.1-28
 eltr: 0.1.0
 em2: '0.9'
-emIRT: 0.0.9
+emIRT: 0.0.13
 emax.glm: 0.1.2
 emayili: 0.7.5
 emba: 0.1.8
@@ -12591,7 +12591,7 @@ gogamer: 0.4.3
 gogarch: 0.7-2
 goldi: 1.0.1
 goldilocks: 0.3.0
-golem: 0.3.1
+golem: 0.3.2
 gomms: '1.0'
 gontr: 1.1.0
 gooJSON: '1.0'
@@ -13041,7 +13041,7 @@ highlight: 0.5.0
 highlightHTML: 0.2.5
 highmean: '3.0'
 highr: '0.9'
-highriskzone: 1.4.6
+highriskzone: 1.4.7
 higlasso: 0.9.0
 higrad: 0.1.0
 hilbertSimilarity: 0.4.3
@@ -13496,7 +13496,7 @@ indelmiss: 1.0.9
 independence: 1.0.1
 index0: 0.0.1
 indicoio: '0.3'
-indicspecies: 1.7.9
+indicspecies: 1.7.11
 indiedown: 0.1.1
 indirect: 0.2.1
 individual: 0.1.7
@@ -13981,7 +13981,7 @@ kiwisR: 0.2.0
 kknn: 1.3.1
 kko: 1.0.1
 klaR: 0.6-15
-klassR: 0.1.7
+klassR: 0.1.9
 klausuR: 0.12-13
 kldtools: '1.2'
 klexdatr: 0.1.2
@@ -14804,8 +14804,8 @@ masscor: 0.0.7.1
 mastif: 1.0.1
 matR: 0.9.1
 matahari: 0.1.3
-match2C: 1.2.1
-matchMulti: 1.1.7
+match2C: 1.2.2
+matchMulti: 1.1.9
 matchbook: 1.0.7
 matchingMarkets: 1.0-2
 matchingR: 1.3.3
@@ -15808,7 +15808,7 @@ muma: '1.4'
 mumm: 0.2.1
 munfold: 0.3.5
 munsell: 0.5.0
-munsellinterpol: 2.7-1
+munsellinterpol: 2.8-2
 murphydiagram: 0.12.2
 muscle: 3.8.31-4
 musclesyneRgies: 1.1.3
@@ -15943,7 +15943,7 @@ nbc4va: '1.1'
 nbconvertR: 1.3.2
 nberwp: 1.1.0
 nbfar: '0.1'
-nbody: '1.30'
+nbody: '1.31'
 nbpMatching: 1.5.1
 nc: 2020.8.6
 ncappc: 0.3.0
@@ -16247,7 +16247,7 @@ nortsTest: 1.0.3
 nos: 1.1.0
 nose: '1.0'
 nosoi: 1.1.0
-not: '1.2'
+not: '1.3'
 noteMD: 0.1.0
 notifier: 1.0.0
 notifyR: '1.02'
@@ -16380,7 +16380,7 @@ obsSens: '1.3'
 observer: 0.1.2
 oc: '1.2'
 occ: '1.1'
-occCite: 0.5.1
+occCite: 0.5.2
 occupancy: '1.2'
 ocd: '1.1'
 oce: 1.6-1
@@ -17391,7 +17391,7 @@ pmhtutorial: '1.5'
 pmlbr: 0.2.0
 pmledecon: 0.1.0
 pmlr: '1.0'
-pmml: 2.5.1
+pmml: 2.5.2
 pmmlTransformations: 1.3.3
 pmparser: 1.0.4
 pmpp: 0.1.1
@@ -17588,7 +17588,7 @@ pqantimalarials: '0.2'
 prLogistic: '1.2'
 prWarp: 1.0.0
 prabclus: 2.3-2
-pracma: 2.3.6
+pracma: 2.3.8
 pragma: 0.1.3
 prais: 1.1.2
 praise: 1.0.0
@@ -17943,7 +17943,7 @@ qgcomp: 2.8.6
 qgcompint: 0.6.6
 qgen: 0.03-02
 qgg: 1.0.4
-qgraph: 1.9.1
+qgraph: 1.9.2
 qgshiny: 0.1.0
 qgtools: '2.0'
 qha: 0.0.8
@@ -19069,7 +19069,7 @@ rnoaa: 1.3.8
 rnpn: 1.2.4
 rnr: 0.2.1
 rnrfa: 2.0.4
-roadoi: 0.7.1
+roadoi: 0.7.2
 roahd: 1.4.3
 robCompositions: 2.3.1
 robFitConGraph: 0.1.0
@@ -19081,7 +19081,7 @@ roben: 0.1.0
 robeth: 2.7-6
 robets: '1.4'
 robfilter: 4.1.2
-robin: 1.0.3
+robin: 1.1.0
 robis: 2.8.2
 roblm: '0.6'
 robmed: 0.10.0
@@ -19791,7 +19791,7 @@ seedy: '1.3'
 seeg: '1.0'
 seem: '1.0'
 seer: 1.1.7
-seewave: 2.1.8
+seewave: 2.2.0
 seg: 0.5-7
 segMGarch: '1.2'
 segRDA: 1.0.2
@@ -20186,7 +20186,7 @@ simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simplermarkdown: 0.0.4
 simpleroptions: 0.2.0
-simplevis: 6.1.0
+simplevis: 6.2.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -20852,7 +20852,7 @@ standartox: 0.0.1
 stanette: 2.21.2
 stapler: 0.7.1
 staplr: 3.1.1
-stargazer: 5.2.2
+stargazer: 5.2.3
 starm: 0.1.0
 starma: '1.3'
 starmie: 0.1.2
@@ -21465,7 +21465,7 @@ tetragon: 1.0.0
 texPreview: '1.5'
 texmex: 2.4.8
 texmexseq: '0.3'
-texreg: 1.37.5
+texreg: 1.38.5
 text: 0.9.50
 text.alignment: 0.1.2
 text2map: 0.1.3
@@ -21627,7 +21627,7 @@ tidytext: 0.3.2
 tidytidbits: 0.3.1
 tidytransit: 1.3.0
 tidytreatment: 0.2.2
-tidytree: 0.3.8
+tidytree: 0.3.9
 tidytuesdayR: 1.0.2
 tidyverse: 1.3.1
 tidyvpc: 1.2.0
