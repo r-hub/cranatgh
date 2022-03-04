@@ -450,7 +450,7 @@ BRACoD.R: 0.0.1.2
 BRDT: 0.1.0
 BRETIGEA: 1.0.3
 BRINDA: 0.1.3
-BRISC: 1.0.3
+BRISC: 1.0.4
 BRL: 0.1.0
 BRugs: 0.9-1
 BSBT: 1.2.0
@@ -1358,7 +1358,7 @@ DIME: '1.2'
 DIMORA: 0.2.0
 DIRECT: 1.0.1
 DISTRIB: '1.0'
-DIZtools: 0.0.3
+DIZtools: 0.0.4
 DIZutils: 0.0.15
 DIconvex: 1.0.0
 DImodels: '1.1'
@@ -1417,7 +1417,7 @@ DRIP: '1.6'
 DRR: 0.0.4
 DRaWR: 1.0.1
 DRomics: 2.4-0
-DRviaSPCN: 0.1.1
+DRviaSPCN: 0.1.2
 DSAIDE: 0.9.3
 DSAIRM: 0.9.3
 DSBayes: '1.1'
@@ -1930,9 +1930,9 @@ FAOSTAT: 2.2.3
 FARDEEP: 1.0.1
 FASeg: 0.1.9
 FAVAR: 0.1.0
-FAdist: '2.3'
+FAdist: '2.4'
 FAiR: 0.4-8
-FAmle: 1.3.5
+FAmle: 1.3.7
 FAwR: 1.1.2
 FBFsearch: '1.1'
 FBN: 1.5.1
@@ -3914,6 +3914,7 @@ MultiwayRegression: '1.2'
 MulvariateRandomForestVarImp: 0.0.2
 MvBinary: '1.1'
 My.stepwise: 0.1.0
+Mychisq: 0.1.2
 Myrrix: '1.2'
 Myrrixjars: 1.0-2
 N2H4: 0.6.1
@@ -7353,7 +7354,7 @@ aimPlot: 1.0.0
 aimsir17: 0.0.2
 airGR: 1.7.0
 airGRdatassim: 0.1.3
-airGRteaching: 0.2.12
+airGRteaching: 0.2.13
 aire.zmvm: 0.8.2
 airportr: 0.1.3
 airports: 0.1.0
@@ -7553,7 +7554,7 @@ archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
 archive: 1.1.4
-archiveRetriever: 0.1.0
+archiveRetriever: 0.1.1
 archivist: 2.3.6
 archivist.github: 0.2.6
 arcos: '1.27'
@@ -8532,7 +8533,7 @@ bwsurvival: '1.0'
 bysykkel: 0.3.1
 bytescircle: 1.1.2
 bzinb: 1.0.4
-c060: 0.2-8
+c060: 0.2-9
 c14bazAAR: 1.2.0
 c212: '0.98'
 c2c: 0.1.0
@@ -9315,7 +9316,7 @@ conicfit: 1.0.4
 conics: '0.3'
 conjoint: '1.41'
 conjurer: 1.4.0
-conleyreg: 0.1.6
+conleyreg: 0.1.7
 conmet: 0.1.0
 connect3: 0.1.0
 connectedness: '0.2'
@@ -9964,7 +9965,7 @@ decido: 0.3.0
 decision: 0.1.0
 decisionSupport: '1.110'
 deckgl: 0.2.7
-declared: '0.10'
+declared: '0.11'
 decode: '1.2'
 decoder: 1.2.2
 decomposedPSF: 0.1.3
@@ -11212,7 +11213,7 @@ fUnitRoots: '3042.79'
 fUtilities: '290.76'
 fabCI: '0.2'
 fabMix: '5.0'
-fabisearch: 0.0.4.1
+fabisearch: 0.0.4.3
 fable: 0.3.1
 fable.ata: 0.0.3
 fable.prophet: 0.1.0
@@ -12157,7 +12158,7 @@ geojson: 0.3.4
 geojsonR: 1.1.0
 geojsonio: 0.9.4
 geojsonlint: 0.4.0
-geojsonsf: 2.0.1
+geojsonsf: 2.0.2
 geoknife: 1.6.6
 geomander: 2.0.2
 geomapdata: 1.0-4
@@ -14220,7 +14221,7 @@ leafSTAR: '1.0'
 leafdown: 1.0.0
 leafem: 0.1.6
 leafgl: 0.1.1
-leaflegend: 0.6.0
+leaflegend: 0.6.1
 leaflet: 2.1.0
 leaflet.esri: 1.0.0
 leaflet.extras: 1.0.0
@@ -14259,7 +14260,7 @@ legislatoR: '1.0'
 legocolors: 0.3.1
 lehdr: 1.0.1
 leiden: 0.3.9
-leidenAlg: 1.0.1
+leidenAlg: 1.0.2
 leidenbase: 0.1.8
 leiv: 2.0-7
 lemma: 1.3-4
@@ -14396,7 +14397,7 @@ littler: 0.3.15
 liureg: 1.1.2
 live: 1.5.13
 livechatR: 0.1.0
-liver: '1.10'
+liver: '1.11'
 ljr: 1.4-0
 llama: 0.10.1
 llbayesireg: 1.0.0
@@ -14468,7 +14469,7 @@ localsolver: '2.3'
 locatexec: 0.1.1
 locationgamer: 0.1.0
 locfdr: 1.1-8
-locfit: 1.5-9.4
+locfit: 1.5-9.5
 locits: 1.7.3
 locpol: 0.7-0
 locpolExpectile: 0.1.1
@@ -15386,7 +15387,7 @@ mlr3pipelines: 0.4.0
 mlr3proba: 0.4.4
 mlr3shiny: 0.2.0
 mlr3spatial: 0.1.1
-mlr3spatiotempcv: 1.0.0
+mlr3spatiotempcv: 1.0.1
 mlr3tuning: 0.12.1
 mlr3tuningspaces: 0.1.1
 mlr3verse: 0.2.4
@@ -16651,7 +16652,7 @@ otpr: 0.5.1
 otrimle: '2.0'
 otsad: 0.2.0
 ottr: 1.1.3
-ottrpal: '1.0'
+ottrpal: 1.0.1
 otuSummary: 0.1.1
 otvPlots: 0.2.1
 ouch: '2.17'
@@ -16729,7 +16730,7 @@ pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
 pacotest: 0.4.1
-pacs: 0.4.2
+pacs: 0.4.3
 pact: 0.5.0
 pacviz: 1.0.1
 padr: 0.6.0
@@ -17040,7 +17041,7 @@ penppml: 0.1.1
 pense: 2.1.0
 pensim: 1.3.3
 peopleanalyticsdata: 0.2.1
-peperr: '1.3'
+peperr: '1.4'
 peplib: 1.5.1
 peppm: 0.0.1
 pepr: 0.4.0
@@ -17212,7 +17213,7 @@ piar: 0.3.2
 picante: 1.8.2
 picasso: 1.3.1
 pid: '0.50'
-piecemaker: 1.0.0
+piecemaker: 1.0.1
 piecepackr: 1.10.1
 piecewiseSEM: 2.1.2
 pifpaf: 1.0.1
@@ -19511,8 +19512,10 @@ sae: '1.3'
 sae2: 1.0-1
 saeBest: 0.1.0
 saeHB: 0.2.0
+saeHB.panel: 0.1.0
 saeHB.spatial: 0.1.0
 saeHB.twofold: 0.1.0
+saeHB.zinb: 0.1.0
 saeME: 1.2.4
 saeRobust: 0.2.0
 saeSim: 0.11.0
@@ -21152,7 +21155,7 @@ surveysd: 1.3.0
 surveyvoi: 1.0.3
 survidm: 1.3.2
 survivALL: 0.9.3
-survival: 3.3-0
+survival: 3.3-1
 survival.svb: 0.0-2
 survival4: 1.4-0
 survival5: '2.4'
@@ -21389,7 +21392,7 @@ tcl: 0.1.1
 tcltk: 0.1-1
 tcltk2: 1.2-11
 tclust: 1.4-2
-tcpl: 2.0.2
+tcpl: 2.1.0
 tcplfit2: 0.1.3
 tcsinvest: 0.1.1
 td: 0.0.6
@@ -21433,7 +21436,7 @@ tensorsparse: '3.0'
 tensr: 1.0.1
 tergm: 4.0.2
 tergmLite: 2.5.5
-term: 0.3.3
+term: 0.3.4
 termstrc: '1.3'
 ternvis: '1.2'
 terra: 1.5-21
@@ -22467,7 +22470,7 @@ wal: 0.1.0
 waldo: 0.3.1
 waldwolf: '0.1'
 walkalytics: 0.1.0
-walker: 1.0.3-1
+walker: 1.0.4
 walkr: 0.4.0
 walkscoreAPI: '1.2'
 wallace: 1.1.2
@@ -22624,7 +22627,7 @@ wiod: 0.3.0
 wiqid: 0.3.0
 wiseR: 1.0.1
 wiserow: 0.1.0
-withr: 2.4.3
+withr: 2.5.0
 witness: '1.2'
 wk: 0.6.0
 wkNNMI: 1.0.0
@@ -22654,8 +22657,8 @@ wordgraph: 0.1.0
 wordler: 0.3.1
 wordmatch: '1.0'
 wordnet: 0.1-15
-wordpiece: 2.0.1
-wordpiece.data: 1.0.2
+wordpiece: 2.1.3
+wordpiece.data: 2.0.0
 wordpredictor: 0.0.3
 wordpressr: 0.2.3
 words: 1.0.1
