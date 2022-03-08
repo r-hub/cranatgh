@@ -983,7 +983,7 @@ CatDyn: 1.1-1
 CatEncoders: 0.1.1
 CatPredi: '1.3'
 CatReg: 2.0.3
-CatastRo: 0.2.0
+CatastRo: 0.2.1
 CateSelection: '1.0'
 CauchyCP: 0.1.0
 CausalFX: 1.0.1
@@ -1472,7 +1472,7 @@ DatAssim: '1.0'
 Data2LD: 3.2.1
 DataClean: '1.0'
 DataCombine: 0.2.21
-DataEditR: 0.1.4
+DataEditR: 0.1.5
 DataEntry: 0.9-3
 DataExplorer: 0.8.2
 DataFakeR: 0.1.2
@@ -2038,7 +2038,7 @@ FactoClass: 1.2.7
 FactoInvestigate: '1.7'
 FactoMineR: '2.4'
 FactoRizationMachines: '0.35'
-FactorAssumptions: 1.1.2
+FactorAssumptions: 2.0.1
 FactorCopula: '0.8'
 FactorsR: '1.5'
 Factoshiny: '2.4'
@@ -2172,7 +2172,7 @@ FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
-FuzzyResampling: 0.4.0
+FuzzyResampling: 0.4.1
 FuzzySTs: '0.2'
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
@@ -2775,7 +2775,7 @@ IGG: '1.0'
 IGM.MEA: 0.3.5
 IGP: 0.2.0
 IGST: 0.1.0
-IGoRRR: 0.3.0
+IGoRRR: 0.3.1
 IHSEP: '0.2'
 IIS: '1.0'
 IIVpredictor: 0.1.0
@@ -3484,7 +3484,7 @@ MLDA: '2.0'
 MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
 MLDS: 0.4.901
-MLDataR: 0.1.2
+MLDataR: 0.1.3
 MLEP: 0.0-3
 MLEcens: 0.1-4
 MLGL: 0.6.5
@@ -3670,7 +3670,7 @@ MasterBayes: '2.57'
 MatManlyMix: 1.1.1
 MatSkew: 0.1.5
 MatTransMix: 0.1.15
-MatchIt: 4.3.3
+MatchIt: 4.3.4
 MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
 MatchItSE: '1.0'
@@ -4155,7 +4155,7 @@ ORTSC: 1.0.0
 ORdensity: '1.0'
 OSACC: '1.0'
 OSCV: '1.0'
-OSDR: '1.1'
+OSDR: 1.1.4
 OSMscale: 0.5.1
 OSNMTF: 0.1.0
 OSTE: '1.0'
@@ -4887,7 +4887,7 @@ RCassandra: 0.1-3
 RChest: 1.0.3
 RChronoModel: '0.4'
 RCircos: 1.2.2
-RClickhouse: 0.6.0
+RClickhouse: 0.6.3
 RClimMAWGEN: '1.1'
 RClimacell: 0.1.4
 RClone: 1.0.3
@@ -7660,7 +7660,7 @@ assignR: 2.2.0
 assist: 3.1.7
 assocInd: 1.0.1
 assortnet: '0.12'
-asteRisk: 1.3.0
+asteRisk: 1.4.0
 aster: 1.1-2
 aster2: '0.3'
 astro: '1.2'
@@ -8370,7 +8370,7 @@ bootLR: 1.0.2
 bootPLS: 0.9.9
 bootRes: '1.2'
 bootSVD: '1.1'
-bootStepAIC: 1.2-0
+bootStepAIC: 1.3-0
 bootTimeInference: 0.1.0
 bootUR: 0.4.2
 bootcluster: 0.3.2
@@ -11512,7 +11512,7 @@ fishkirkko2015: 1.0.0
 fishmethods: 1.11-3
 fishmove: 0.3-3
 fishtree: 0.3.4
-fishualize: 0.2.2
+fishualize: 0.2.3
 fit.models: '0.64'
 fit4NM: 3.3.3
 fitConic: '1.2'
@@ -11588,7 +11588,7 @@ flock: '0.7'
 flood: 0.1.1
 flora: 0.3.4
 florestal: 0.1.3
-flow: 0.0.2
+flow: 0.1.0
 flowDiv: '2.0'
 flower: '1.0'
 flowfield: '1.0'
@@ -12018,7 +12018,7 @@ gconsensus: 0.3.1
 gcookbook: '2.0'
 gdalUtilities: 1.2.0
 gdalUtils: 2.0.3.2
-gdalcubes: 0.5.1
+gdalcubes: 0.6.0
 gdata: 2.18.0
 gde: 0.2.0
 gdiff: 0.2-2
@@ -12676,7 +12676,7 @@ grapes: 1.0.0
 grapesAgri1: 1.1.0
 graph: 1.30.0
 graph3d: 0.2.0
-graph4lg: 1.2.0
+graph4lg: 1.4.0
 graphComp: '1.0'
 graphTweets: 0.5.3
 grapherator: 1.0.0
@@ -13772,7 +13772,7 @@ ivsacim: 2.1.0
 ivtools: 2.3.0
 ivx: 1.1.0
 iwtp: 1.0.0
-jSDM: 0.1.0
+jSDM: 0.2.0
 jScore: 0.1.0
 jSonarR: 1.1.1
 jaatha: 3.2.2
@@ -14256,7 +14256,7 @@ leastcostpath: 1.8.0
 ledger: 2.0.9
 leem: 0.1.0
 leerSIECyL: 1.0.2
-lefko3: 4.2.0
+lefko3: 5.0.1
 lefse: '0.1'
 legco: 0.1.4
 legion: 0.1.1
@@ -14763,7 +14763,7 @@ mapsapi: 0.5.3
 mapscanner: 0.0.6
 mapsf: 0.4.0
 maptiles: 0.3.0
-maptools: 1.1-2
+maptools: 1.1-3
 maptpx: 1.9-7
 maptree: 1.4-7
 mapview: 2.10.0
@@ -15357,7 +15357,7 @@ mlergm: '0.8'
 mleur: 1.0-6
 mlf: 1.2.1
 mlfit: 0.5.3
-mlflow: 1.23.0
+mlflow: 1.24.0
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
@@ -15770,7 +15770,7 @@ multilevelPSA: 1.2.5
 multilevelTools: 0.1.1
 multilinguer: 0.0.7
 multilm: '0.1'
-multimark: 2.1.3
+multimark: 2.1.4
 multimode: '1.5'
 multimorbidity: 0.5.0
 multinbmod: '1.0'
@@ -16520,7 +16520,7 @@ openmetrics: 0.3.0
 opensensmapr: 0.5.1
 openssl: 2.0.0
 opentick: 0.1-1
-opentimsr: 1.0.11
+opentimsr: 1.0.12
 opentraj: '1.0'
 opentripplanner: 0.4.0
 opentriviadb: 1.0.0
@@ -17388,7 +17388,7 @@ pmcgd: '1.1'
 pmclust: 0.2-1
 pmd: 0.2.1
 pmdplyr: 0.3.3
-pmetar: 0.3.2
+pmetar: 0.3.3
 pmfdR: '1.0'
 pmg: 0.9-43
 pmhtutorial: '1.5'
@@ -18430,7 +18430,7 @@ rbison: 1.0.0
 rbit: 1.0.0
 rbitcoinchartsapi: 1.0.4
 rblt: 0.2.4.5
-rbmi: 1.1.0
+rbmi: 1.1.1
 rbmn: 0.9-4
 rbokeh: 0.5.2
 rbooster: 1.1.0
@@ -19834,7 +19834,7 @@ sem: 3.1-13
 semEff: 0.6.0
 semGOF: 0.2-0
 semPLS: 1.0-10
-semPlot: 1.1.4
+semPlot: 1.1.5
 semPower: 1.2.0
 semTable: '1.8'
 semTools: 0.5-5
@@ -19973,7 +19973,7 @@ shapefiles: '0.7'
 shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
-shar: '1.3'
+shar: 1.3.2
 sharpData: '1.4'
 sharpPen: '1.7'
 sharpeRratio: 1.4.2
@@ -20200,7 +20200,7 @@ simplextree: 1.0.1
 simplr: 0.1-1
 simpr: 0.2.2
 simputation: 0.2.7
-simr: 1.0.5
+simr: 1.0.6
 simrec: 1.0.0
 simrel: 2.1.0
 sims: 0.0.3
@@ -20367,7 +20367,7 @@ sms: 2.3.1
 smss: 1.0-2
 smurf: 1.1.2
 smvgraph: 0.1.2
-sn: 2.0.1
+sn: 2.0.2
 sna: '2.6'
 snahelper: 1.4.0
 snakecase: 0.11.0
@@ -21097,7 +21097,7 @@ superMDS: 1.0.2
 superMICE: 1.0.1
 superb: 0.9.7.8
 superbiclust: '1.2'
-supercells: 0.8.0
+supercells: 0.8.2
 supercompress: '1.1'
 superdiag: '2.0'
 superheat: 0.1.0
@@ -21377,7 +21377,7 @@ taxalight: 0.1.5
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.2
-taxonbridge: 1.0.3
+taxonbridge: 1.0.4
 taxonomizr: 0.8.0
 taxotools: 0.0.79
 tayloRswift: 0.1.0
@@ -21838,7 +21838,7 @@ trajeR: 0.9.0.5
 trajectories: 0.2-3
 trajr: 1.4.0
 tram: 0.6-4
-tramME: 0.1.2
+tramME: 0.1.3
 tramnet: 0.0-6
 trampoline: 0.1.1
 tranSurv: 1.2.2
@@ -22189,7 +22189,7 @@ urlshorteneR: 1.5.1
 urltools: 1.7.3
 urn: 2.2.1
 uroot: 2.1-2
-ursa: 3.9.5
+ursa: 3.9.6
 us.census.geoheader: 1.0.2
 usa: 0.1.0
 usdampr: 1.0.1
@@ -22273,7 +22273,7 @@ varImp: '0.4'
 varSel: '0.2'
 varSelRF: 0.7-8
 varSelectIP: 0.2-1
-varTestnlme: 1.3.0
+varTestnlme: 1.3.1
 varband: 0.9.0
 varbin: 0.2.1
 varbvs: 2.5-16
