@@ -402,6 +402,7 @@ BIOdry: '0.8'
 BIPOD: 0.2.1
 BIRDS: 0.2.0
 BIS: 0.2.1
+BISdata: 0.1-1
 BKPC: 1.0.1
 BLCOP: 0.3.3
 BLModel: 1.0.2
@@ -1214,6 +1215,7 @@ CovSelHigh: 1.1.1
 CovTools: 0.5.4
 CovidMutations: 0.1.3
 Covpath: '1.0'
+CoxBcv: 0.0.1.0
 CoxBoost: '1.4'
 CoxICPen: 1.1.0
 CoxPhLb: 1.2.0
@@ -1380,7 +1382,7 @@ DMwR2: 0.0.2
 DNAprofiles: '0.3'
 DNAseqtest: '1.0'
 DNAtools: 0.2-3
-DNH4: 0.1.11
+DNH4: 0.1.12
 DNLC: 1.0.0
 DNMF: '1.3'
 DNetFinder: '1.0'
@@ -2760,6 +2762,7 @@ IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
 IDSL.IPA: '1.3'
+IDSL.MXP: '1.0'
 IDSL.UFA: '1.0'
 IDSL.UFAx: 1.0.1
 IDSpatialStats: 0.3.12
@@ -2805,7 +2808,7 @@ INLAutils: 0.0.5
 INQC: 2.0.5
 INSPIRE: '1.5'
 INTRIGUE: 0.1.0
-IOHanalyzer: 0.1.6.1
+IOHanalyzer: 0.1.6.3
 IOHexperimenter: 0.1.4
 IP: '0.1'
 IPCAPS: 1.1.8
@@ -3058,7 +3061,7 @@ KnapsackSampling: 0.1.0
 KneeArrower: 1.0.0
 KnockoffScreen: 0.3.0
 KnockoffTrio: 1.0.0
-Knoema: 0.1.19
+Knoema: 0.1.9
 KnowBR: '2.1'
 KnowGRRF: '1.0'
 KoNLP: 0.80.2
@@ -3186,6 +3189,7 @@ LSRS: 0.2.0
 LST: 1.1.0
 LSTS: '2.1'
 LSVAR: '1.2'
+LSWPlib: 0.1.0
 LSX: 1.1.1
 LTPDvar: '1.2'
 LTR: 1.0.0
@@ -3278,7 +3282,7 @@ LogicForest: 2.1.0
 LogicOpt: 1.0.0
 LogicReg: 1.6.4
 LogisticDx: '0.3'
-LogisticRCI: '1.0'
+LogisticRCI: '1.1'
 LogitNet: 0.1-1
 LogrankA: '1.0'
 LogrankPower: 1.0.0
@@ -4205,7 +4209,7 @@ OpenImageR: 1.2.1
 OpenLand: 1.0.2
 OpenML: '1.10'
 OpenMPController: 0.2-5
-OpenMx: 2.20.3
+OpenMx: 2.20.6
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.1
 OpenSpecy: 0.9.3
@@ -4348,7 +4352,7 @@ PIN: '0.8'
 PINSPlus: 2.0.6
 PIPS: 1.0.1
 PK: 1.3-5
-PKI: 0.1-9
+PKI: 0.1-10
 PKLMtest: 1.0.1
 PKNCA: 0.9.5
 PKPDmisc: 2.1.2
@@ -4421,7 +4425,7 @@ PROMETHEE: '1.1'
 PROSPER: 0.3.3
 PROTOLIDAR: '0.1'
 PROreg: '1.1'
-PROscorer: 0.0.1
+PROscorer: 0.0.3
 PROscorerTools: 0.0.2
 PROsetta: 0.3.5
 PRP: 0.1.1
@@ -4872,6 +4876,7 @@ RCAL: '2.0'
 RCALI: 0.3.1
 RCBR: 0.5.9
 RCCPCA: 0.1.0
+RCDT: 1.0.0
 RCEIM: '0.3'
 RCGLS: 1.0.3
 RCLabels: 0.1.1
@@ -4891,7 +4896,7 @@ RCircos: 1.2.2
 RClickhouse: 0.6.3
 RClimMAWGEN: '1.1'
 RClimacell: 0.1.4
-RClone: 1.0.3
+RClone: '1.0'
 RColetum: 0.2.1
 RColorBrewer: 1.1-2
 RConics: '1.0'
@@ -4934,7 +4939,7 @@ REREFACT: '1.0'
 RESS: '1.3'
 REST: 1.0.1
 REdaS: 0.9.3
-REddyProc: 1.3.1
+REddyProc: 1.3.2
 REddyProcNCDF: 1.1.4
 REndo: 2.4.3
 RFA: 0.0-9
@@ -5222,7 +5227,7 @@ RSarules: '1.0'
 RSauceLabs: 0.1.6
 RScaLAPACK: 0.6.1
 RScelestial: 1.0.3
-RSclient: 0.7-6
+RSclient: 0.7-8
 RSearchYJ: 0.0.1
 RSeed: 0.1.60
 RSelenium: 1.7.7
@@ -5607,7 +5612,7 @@ Rfit: 0.24.2
 RfmriVC: '1.0'
 Rfmtool: 4.1.4
 Rfolding: '1.0'
-Rforestry: 0.9.0.72
+Rforestry: 0.9.0.95
 Rfractran: '1.0'
 Rfssa: 2.0.1
 Rfun: '1.0'
@@ -7234,6 +7239,7 @@ actuar: 3.2-1
 actuaryr: 1.1.1
 acumos: 0.4-4
 ada: 2.0-5
+adaHuber: '1.1'
 adabag: '4.2'
 adagio: 0.8.4
 adamethods: 1.2.1
@@ -7554,7 +7560,7 @@ arakno: 1.2.0
 aratio: '1.2'
 arc: '1.3'
 archdata: 1.2-1
-archeofrag: '0.7'
+archeofrag: '0.8'
 archetypal: 1.1.1
 archetyper: 0.1.0
 archetypes: 2.2-0.1
@@ -7817,7 +7823,7 @@ bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
 baggingbwsel: '1.0'
 baggr: 0.6.18
-baguette: 0.1.1
+baguette: 0.2.0
 bahc: 0.3.0
 bain: 0.2.8
 bairt: 0.1.2
@@ -8122,7 +8128,7 @@ bigdata: '0.1'
 bigdatadist: '1.1'
 bigdist: 0.1.4
 biglars: '1.0'
-biglasso: 1.5.0
+biglasso: 1.5.1
 bigleaf: 0.7.1
 biglm: 0.9-2.1
 biglmm: 0.9-2
@@ -8434,7 +8440,7 @@ brea: 0.2.0
 bread: 0.1.7
 breakDown: 0.2.1
 breakage: 1.1-1
-breakaway: 4.7.8
+breakaway: 4.7.9
 breakfast: '2.2'
 breakpoint: '1.2'
 breathtestcore: 0.8.1
@@ -9761,7 +9767,7 @@ cytofan: 0.1.0
 cytometree: 2.0.2
 cytominer: 0.2.2
 czechrates: 0.2.2
-czso: 0.3.8
+czso: 0.3.9
 d3Network: 0.5.2.1
 d3Tree: 0.2.2
 d3heatmap: 0.6.1
@@ -10230,7 +10236,7 @@ discreteRV: 1.2.2
 discretecdAlgorithm: 0.0.7
 discretefit: 0.1.2
 discretization: 1.0-1
-discrim: 0.1.3
+discrim: 0.2.0
 discrimARTs: '0.2'
 disdat: 1.0-0
 diseasemapping: 1.5.1
@@ -10486,6 +10492,7 @@ dstack: 0.2.1
 dstat: 1.0.4
 dtables: 0.2.0
 dtangle: 2.0.9
+dtgiw: 0.1.0
 dti: 1.5.1
 dtp: 0.1.0
 dtpcrm: 0.1.1
@@ -10494,6 +10501,7 @@ dtrSurv: '1.2'
 dtree: 0.4.2
 dtt: 0.1-2
 dttr2: 0.4.0
+dtts: 0.1.0
 dtw: 1.22-3
 dtwSat: 0.2.7
 dtwclust: 5.5.8
@@ -11056,7 +11064,7 @@ evaluate: '0.15'
 evaluator: 0.4.3
 evclass: 1.1.1
 evclust: 2.0.2
-evd: 2.3-3
+evd: 2.3-4
 evdbayes: 1.1-1
 event: 1.1.1
 event.chart: '2.0'
@@ -12835,7 +12843,7 @@ gtrendsR: 1.5.0
 gtsf: 0.1.0
 gtsummary: 1.5.2
 gtx: 0.0.8
-guaguas: 0.2.0
+guaguas: 0.3.0
 guardianapi: 0.1.1
 guess: '0.1'
 guf: 1.0.2
@@ -14794,7 +14802,7 @@ margins: 0.3.26
 marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
-mark: 0.4.1
+mark: 0.5.0
 markdown: '1.1'
 markdownInput: 0.1.2
 marked: 1.2.6
@@ -15010,7 +15018,7 @@ mekko: 0.1.0
 melody: 0.4.7
 melt: 1.3.0
 meltr: 1.0.0
-meltt: 0.4.1
+meltt: 0.4.2
 melviewr: 0.0.1
 mem: '2.16'
 memapp: '2.14'
@@ -15544,7 +15552,7 @@ monkeylearn: 0.2.0
 monmlp: 1.1.5
 monoClust: 1.2.1
 monoProc: 1.0-6
-monobin: 0.2.1
+monobin: 0.2.2
 monobinShiny: 0.1.0
 monochromeR: 0.1.0
 monogeneaGM: '1.1'
@@ -15777,7 +15785,7 @@ multilevel: '2.7'
 multilevelMatching: 1.0.0
 multilevelPSA: 1.2.5
 multilevelTools: 0.1.1
-multilinguer: 0.0.7
+multilinguer: 0.2.2
 multilm: '0.1'
 multimark: 2.1.4
 multimode: '1.5'
@@ -16279,7 +16287,7 @@ npROCRegression: 1.0-6
 npRmpi: 0.60-2
 nparACT: '0.8'
 nparLD: '2.1'
-nparMD: 0.1.0
+nparMD: 0.2.1
 nparcomp: '3.0'
 nparsurv: 0.1.0
 npbr: '1.6'
@@ -16689,7 +16697,7 @@ overture: 0.4-0
 overviewR: 0.0.7
 owd: 1.0.6
 owdbr: 1.0.1.1
-owidR: 1.1.0
+owidR: 1.2.0
 owl: 0.1.1
 owmr: 0.8.2
 ows4R: 0.2-1
@@ -16853,7 +16861,7 @@ parsemsf: 0.1.1
 parser: '0.1'
 parsermd: 0.1.2
 parsetools: 0.1.3
-parsnip: 0.1.7
+parsnip: 0.2.0
 parspatstat: 0.1-4
 partDSA: 0.9.14
 partR2: 0.9.1
@@ -17670,7 +17678,7 @@ prettyunits: 1.1.1
 prevR: 3.4.1
 prevalence: 0.4.0
 prevederer: 0.0.1
-previsionio: 11.3.3
+previsionio: 11.7.0
 prevtoinc: 0.12.0
 prewas: 1.1.1
 priceR: 0.1.6
@@ -18717,7 +18725,7 @@ reliaR: '0.01'
 reliabilitydiag: 0.2.0
 relimp: 1.0-5
 relliptical: 1.1.0
-relsurv: 2.2-6
+relsurv: 2.2-7
 rem: 1.3.1
 remMap: 0.2-0
 rema: 0.0.1
@@ -18896,7 +18904,7 @@ rgp: 0.4-1
 rgplates: 0.1.0
 rgpui: 0.1-2
 rgr: 1.1.15
-rgraph6: 2.0-0
+rgraph6: 2.0-1
 rgrass7: 0.2-8
 rgrassdoc: 1.0.0
 rgrs: '0.3'
@@ -20673,7 +20681,7 @@ sperrorest: 3.0.4
 spew: 1.3.0
 spex: 0.7.1
 spfda: 0.9.0
-spfilteR: 1.1.2
+spfilteR: 1.1.4
 spflow: 0.1.0
 spfrontier: 0.2.5
 spftir: 0.1.0
@@ -20696,7 +20704,7 @@ spikeslab: 1.1.5
 spinBayes: 0.1.0
 spind: 2.2.1
 spinebil: 0.1.0
-spinifex: 0.3.4
+spinifex: 0.3.5
 spinyReg: 0.1-0
 spiralize: 1.0.5
 spiritR: 0.1.1
@@ -21092,7 +21100,7 @@ sudokuplus: '1.0'
 sugaR: 0.0-5
 sugarbag: 0.1.3
 sugrrants: 0.2.8
-sumFREGAT: 1.2.2
+sumFREGAT: 1.2.3
 sumR: 0.4.4
 sumSome: 1.1.0
 summariser: 2.3.0
@@ -21594,7 +21602,7 @@ tidybins: 0.1.0
 tidyboot: 0.1.1
 tidycat: 0.1.2
 tidycells: 0.2.2
-tidycensus: '1.1'
+tidycensus: 1.1.2
 tidycharts: 0.1.3
 tidycmprsk: 0.1.2
 tidycode: 0.1.1
@@ -22270,6 +22278,7 @@ valottery: 0.0.1
 valr: 0.6.4
 valse: 0.1-0
 valueEQ5D: 0.7.2
+valuemap: 2.0.0
 valuer: 1.1.2
 vamc: 0.2.1
 vampyr: 1.1.1
@@ -22498,7 +22507,7 @@ walkscoreAPI: '1.2'
 wallace: 1.1.2
 wally: 1.0.10
 walmartAPI: 0.1.5
-walrus: 1.0.3
+walrus: 1.0.4
 wand: 0.5.0
 warabandi: 0.1.0
 warbleR: 1.1.27
@@ -22606,6 +22615,7 @@ wheatmap: 0.2.0
 whereami: 0.1.9
 whereport: '0.1'
 whiboclustering: 0.1.2
+whippr: 0.1.0
 whisker: '0.4'
 whitebox: 2.1.0
 whitechapelR: 0.3.0
@@ -22686,6 +22696,7 @@ wordpressr: 0.2.3
 words: 1.0.1
 wordsalad: 0.2.0
 wordspace: 0.2-7
+workboots: 0.1.0
 workflowr: 1.7.0
 workflows: 0.2.4
 workflowsets: 0.1.0
