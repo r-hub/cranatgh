@@ -153,6 +153,7 @@ AWR.Athena: 2.0.7-0
 AWR.KMS: '0.1'
 AWR.Kinesis: 1.7.3
 AWS.tools: 0.0.5
+AZIAD: 0.0.1
 AbSim: 0.2.6
 AbsFilterGSEA: '1.5'
 Ac3net: 1.2.2
@@ -1021,7 +1022,7 @@ ChaosGame: '1.1'
 CharFun: 0.1.0
 ChargeTransport: 1.0.2
 CheckDigit: 0.1-1
-ChemoSpec: 6.1.2
+ChemoSpec: 6.1.3
 ChemoSpec2D: 0.5.0
 ChemoSpecUtils: 1.0.0
 ChemometricsWithR: 0.1.9
@@ -2760,7 +2761,7 @@ ICsurv: '1.0'
 ICtest: 0.3-4
 ICvectorfields: 0.1.2
 IDCard: 0.3.0
-IDConverter: 0.2.0
+IDConverter: 0.3.0
 IDE: 0.3.0
 IDF: 2.1.1
 IDPSurvival: '1.2'
@@ -2776,7 +2777,7 @@ IDetect: 0.1.0
 IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
-IFAA: 1.0.4
+IFAA: 1.0.5
 IFC: 0.1.2
 IFP: 0.2.4
 IFSPlot: '1.0'
@@ -4907,7 +4908,7 @@ RClimacell: 0.1.4
 RClone: '1.0'
 RColetum: 0.2.1
 RColorBrewer: 1.1-2
-RConics: '1.0'
+RConics: 1.1.1
 RCreliability: 0.1.0
 RCriteo: 1.0.2
 RCrypto: 0.1.0
@@ -5214,6 +5215,7 @@ RSC: 2.0.1
 RSCABS: 0.9.5
 RSCAT: 1.1.3
 RSDA: 3.0.9
+RSDK: 1.0.0
 RSE: '1.3'
 RSEIS: 4.0-3
 RSGHB: 1.2.2
@@ -7430,7 +7432,7 @@ altair: 4.2.1
 alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '4.0'
-amanida: 0.2.0
+amanida: 0.2.1
 amanpg: 0.3.3
 amap: 0.8-18
 amapGeocode: 0.6.0
@@ -8699,6 +8701,7 @@ catlearn: '0.8'
 catmap: 1.6.4
 catmaply: 0.9.0
 catnet: 1.15.7
+cats: 1.0.2
 catseyes: 0.2.5
 catsim: 0.2.3
 catspec: '0.97'
@@ -9533,6 +9536,7 @@ cplexAPI: 1.4.0
 cplm: 0.7-9
 cplots: 0.4-0
 cpm: '2.3'
+cpop: 1.0.0
 cpp11: 0.4.2
 cppRouting: '2.0'
 cppcor: '1.2'
@@ -10362,7 +10366,7 @@ doMIsaul: 1.0.1
 doMPI: 0.2.2
 doParallel: 1.0.17
 doRNG: 1.8.2
-doRedis: 3.0.0
+doRedis: 3.0.1
 doSMP: 1.0-1
 doSNOW: 1.0.20
 dobin: 1.0.2
@@ -13921,7 +13925,7 @@ kSamples: 1.2-9
 kStatistics: '2.1'
 kableExtra: 1.3.4
 kader: 0.0.8
-kairos: 1.0.0
+kairos: 1.0.1
 kamila: 0.1.2
 kangar00: '1.4'
 kantorovich: 3.0.0
@@ -14955,6 +14959,7 @@ mcmcsae: 0.7.0
 mcmcse: 1.5-0
 mco: 1.15.6
 mcompanion: 0.5-3
+mcount: 1.0.0
 mcp: 0.3.2
 mcparallelDo: 1.1.0
 mcpd: '1.0'
@@ -15681,6 +15686,7 @@ msaFACE: 0.1.0
 msaR: 0.6.0
 msae: 0.1.4
 msaeDB: 0.2.1
+msaeHB: 0.1.0
 msaeRB: 0.2.1
 msaenet: '3.1'
 msap: 1.1.8
@@ -15797,6 +15803,7 @@ multilevel: '2.7'
 multilevelMatching: 1.0.0
 multilevelPSA: 1.2.5
 multilevelTools: 0.1.1
+multilevelmod: 0.1.0
 multilinguer: 0.2.2
 multilm: '0.1'
 multimark: 2.1.4
@@ -16636,6 +16643,7 @@ ordinalForest: 2.4-2
 ordinalLBM: '1.0'
 ordinalNet: '2.11'
 ordinalRR: '1.1'
+ordinalbayes: 0.1.0
 ordinalgmifs: 1.0.6
 ordinalpattern: 0.2.0
 ore: 1.7.1.1
@@ -16668,7 +16676,7 @@ osd: '0.1'
 osfr: 0.2.8
 oshka: 0.1.2
 osi: 0.1.0
-oskeyring: 0.1.2
+oskeyring: 0.1.3
 osmar: 1.1-7
 osmdata: 0.1.9
 osmextract: 0.4.0
@@ -17696,7 +17704,7 @@ prevtoinc: 0.12.0
 prewas: 1.1.1
 priceR: 0.1.6
 pricesensitivitymeter: 1.2.2
-prider: 1.0.2
+prider: 1.0.4
 prim: 1.0.20
 primePCA: '1.2'
 primefactr: 0.1.1
@@ -17932,7 +17940,7 @@ pwt10: 10.0-0
 pwt8: 8.1-1
 pwt9: 9.1-0
 pxR: 0.42.4
-pxweb: 0.12.0
+pxweb: 0.13.1
 pyMTurkR: 1.1.5
 pycno: '1.2'
 pyinit: 1.1.2
@@ -18072,6 +18080,7 @@ qualpalr: 0.4.3
 qualtRics: 3.1.5
 qualvar: 0.2.0
 qualypsoss: 1.0.0
+quantCurves: 1.0.0
 quantable: 0.3.6
 quantchem: '0.13'
 quantdates: '1.0'
@@ -18107,7 +18116,7 @@ quickNmix: 1.0.3
 quickPlot: 0.1.6
 quickReg: 1.5.0
 quickblock: 0.2.0
-quickcheck: 0.1.0
+quickcheck: 0.1.1
 quickerstats: 0.0.1
 quickmapr: 0.3.0
 quickmatch: 0.2.1
@@ -19027,6 +19036,7 @@ rld: '1.0'
 rle: 0.9.2
 rleafmap: '0.2'
 rlecuyer: 0.3-5
+rlemon: 0.1.0
 rless: 0.1.1
 rlfsm: 1.1.1
 rliger: 1.0.0
@@ -19088,7 +19098,7 @@ rmutil: 1.1.9
 rmweather: 0.1.51
 rmytarget: 2.4.0
 rnaseqWrapper: '1.0'
-rnassqs: 0.6.0
+rnassqs: 0.6.1
 rnaturalearth: 0.1.0
 rnaturalearthdata: 0.1.0
 rnbn: 1.1.2
@@ -19551,6 +19561,7 @@ sae: '1.3'
 sae2: 1.0-1
 saeBest: 0.1.0
 saeHB: 0.2.0
+saeHB.gpois: 0.1.0
 saeHB.hnb: 0.1.0
 saeHB.panel: 0.1.0
 saeHB.spatial: 0.1.0
@@ -19711,7 +19722,7 @@ schoenberg: 2.0.2
 scholar: 0.2.2
 schoolmath: '0.4'
 schrute: 0.2.2
-schtools: 0.1.0
+schtools: 0.1.1
 schumaker: 1.2.1
 schwartz97: 0.0.6
 scico: 1.3.0
@@ -20440,6 +20451,7 @@ socceR: 0.1.1
 social: '1.0'
 socialh: 0.1.0
 socialmixr: 0.1.8
+socialrisk: 0.5.0
 sociome: 2.1.0
 socviz: '1.2'
 sodavis: '1.2'
@@ -20677,7 +20689,7 @@ spectral: '2.0'
 spectral.methods: 0.7.2.133
 spectralAnalysis: 3.12.0
 spectralGP: 1.3.3
-spectralGraphTopology: 0.2.0
+spectralGraphTopology: 0.2.2
 spectre: 1.0.2
 spectrino: 2.0.0
 spectrolab: 0.0.16
@@ -21211,7 +21223,7 @@ survivalBIV: '1.3'
 survivalMPL: 0.2-1
 survivalMPLdc: 0.1.1
 survivalROC: 1.0.3
-survivalmodels: 0.1.11
+survivalmodels: 0.1.12
 survivalsvm: 0.0.5
 survivoR: 0.9.12
 survminer: 0.4.9
@@ -21826,6 +21838,7 @@ torchvisionlib: 0.1.0
 tornado: 0.1.1
 torus: '1.0'
 tosca: 0.3-2
+toscmask: 1.2.3
 toscutil: 2.1.0
 tosls: '1.0'
 tosr: 0.1.1
@@ -22911,7 +22924,7 @@ zic: 0.9.1
 zicounts: 1.1.5
 zip: 2.2.0
 zipR: 0.1.1
-zipangu: 0.2.3
+zipangu: 0.3.0
 zipcode: '1.0'
 zipcodeR: 0.3.3
 zipfR: 0.6-70
