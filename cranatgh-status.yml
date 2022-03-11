@@ -191,7 +191,7 @@ AeroSampleR: 0.1.12
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
-AgroR: 1.2.7
+AgroR: 1.2.8
 AgroReg: 1.2.1
 AgroTech: 1.0.1
 AhoCorasickTrie: 0.1.2
@@ -1012,7 +1012,7 @@ CfEstimateQuantiles: '1.0'
 ChIPtest: '1.0'
 ChainLadder: 0.2.15
 ChangeAnomalyDetection: 0.1.0
-ChangePointTaylor: 0.1.1
+ChangePointTaylor: '0.2'
 ChangepointTesting: '1.0'
 ChannelAttribution: 2.0.5
 ChannelAttributionApp: '1.3'
@@ -1591,7 +1591,7 @@ DiscreteWeibull: '1.1'
 DiscriMiner: 0.1-29
 Disequilibrium: '1.1'
 DisimForMixed: '0.2'
-DistPlotter: 0.0.1
+DistPlotter: 0.0.2
 Distance: 1.0.4
 DistatisR: 1.0.1
 Distributacalcul: 0.3.0
@@ -1946,7 +1946,7 @@ FCNN4R: 0.6.2
 FCO: 0.7.2
 FCPS: 1.3.0
 FCSlib: 1.3.0
-FCVAR: 0.1.1
+FCVAR: 0.1.2
 FD: 1.0-12
 FDGcopulas: '1.0'
 FDRSeg: 1.0-3
@@ -2554,7 +2554,7 @@ HBglm: '0.1'
 HCD: '0.1'
 HCR: 0.1.1
 HCT: 0.1.0
-HCTDesign: 0.7.0
+HCTDesign: 0.7.1
 HCTR: 0.1.1
 HCV: 1.2.0
 HCmodelSets: 1.1.2
@@ -3304,7 +3304,7 @@ LowWAFOMNX: 1.1.1
 LowWAFOMSobol: 1.1.1
 LumReader: 0.1.0
 LumiWCluster: 1.0.2
-Luminescence: 0.9.18
+Luminescence: 0.9.19
 M2SMF: '2.0'
 M2SMJF: '1.0'
 M3: '0.3'
@@ -4870,7 +4870,7 @@ RBGL: 1.28.0
 RBMRB: 2.1.7
 RBNZ: 1.1.0
 RBPcurve: '1.2'
-RBaseX: 1.0.0
+RBaseX: 1.1.1
 RBerkeley: 0.7-5
 RBesT: 1.6-3
 RBestMatch: 0.1.1
@@ -5287,7 +5287,7 @@ RVA: 0.0.5
 RVAideMemoire: 0.9-81-2
 RVCompare: 0.1.5
 RVFam: '1.1'
-RVIpkg: 0.2.8
+RVIpkg: 0.3.0
 RVPedigree: 0.0.3
 RVenn: 1.1.0
 RVerbalExpressions: 0.1.0
@@ -5934,7 +5934,7 @@ SETPath: '1.0'
 SEchart: '0.1'
 SEofM: 0.1.0
 SFS: 0.1.4
-SFSI: 1.0.1
+SFSI: 1.1.0
 SFtools: 0.1.0
 SGB: 1.0.1
 SGCS: '2.7'
@@ -6741,7 +6741,7 @@ Ternary: 2.0.0
 TesiproV: 0.9.1
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
-TestDesign: 1.2.7
+TestDesign: 1.3.0
 TestDimorph: 0.4.1
 TestFunctions: 0.2.0
 TestGardener: 2.0.0
@@ -7110,7 +7110,7 @@ XICOR: 0.3.3
 XKCDdata: 0.1.0
 XLConnect: 1.0.5
 XLConnectJars: 0.2-9
-XLS: 0.0.9
+XLS: 0.1.0
 XML: 3.99-0.9
 XML2R: 0.0.6
 XMLSchema: 0.7-0
@@ -7969,7 +7969,7 @@ bbo: '0.2'
 bbotk: 0.5.1
 bbreg: 2.0.2
 bbricks: 0.1.4
-bbsBayes: 2.3.8.2020
+bbsBayes: 2.4.0.2020
 bbw: 0.1.3
 bc3net: 1.0.4
 bcROCsurface: 1.0-5
@@ -8210,7 +8210,7 @@ binsmooth: 0.2.2
 binsreg: '0.7'
 binst: 0.2.1
 bio.infer: 1.3-6
-bio3d: 2.4-2
+bio3d: 2.4-3
 bioC.logs: '1.2'
 bioOED: 0.2.1
 bioPN: 1.2.0
@@ -10207,7 +10207,7 @@ digitalDLSorteR: 0.2.0
 digitalPCR: 1.1.0
 digitize: 0.0.4
 dils: 0.8.1
-dimRed: 0.2.4
+dimRed: 0.2.5
 dimensio: 0.2.2
 dimensionsR: 0.0.3
 dina: 2.0.0
@@ -11121,7 +11121,7 @@ exams2sakai: '0.3'
 exceedProb: 0.0.1
 excel.link: 0.9.10
 excelR: 0.4.0
-exceldata: 0.1.1
+exceldata: 0.1.1.1
 excelstrippr: 0.1.2
 excerptr: 2.0.1
 excessmort: 0.6.1
@@ -11459,7 +11459,7 @@ ffp: 0.2.0
 ffscrapr: 1.4.7
 ffsimulator: 1.2.0
 ffstream: 0.1.6
-fftw: 1.0-6.1
+fftw: 1.0-7
 fftwtools: 0.9-11
 fgac: 0.6-1
 fgdr: 1.1.1
@@ -12273,7 +12273,7 @@ gfilogisreg: 1.0.2
 gfmR: 1.1-0
 gfoRmula: 0.3.2
 gfonts: 0.1.3
-gfpop: 1.0.3
+gfpop: 1.1.0
 gg.gap: '1.3'
 ggBubbles: 0.1.4
 ggChernoff: 0.2.0
@@ -12842,7 +12842,7 @@ gtWAS: 1.1.0
 gtable: 0.3.0
 gtcorr: 0.2-1
 gte: 1.2-2
-gtfs2gps: 2.0-1
+gtfs2gps: 2.0-2
 gtfsio: 1.0.0
 gtfsrouter: 0.0.5
 gtfstools: 1.0.0
@@ -13878,7 +13878,7 @@ jpeg: 0.1-9
 jpmesh: 2.1.0
 jpndistrict: 0.3.9
 jpstat: 0.2.0
-jqr: 1.2.2
+jqr: 1.2.3
 jquerylib: 0.1.4
 jrc: 0.5.1
 jrich: 0.60-35
@@ -14012,7 +14012,7 @@ kittyR: 1.1.0
 kiwisR: 0.2.0
 kknn: 1.3.1
 kko: 1.0.1
-klaR: 0.6-15
+klaR: 1.7-0
 klassR: 0.1.9
 klausuR: 0.12-13
 kldtools: '1.2'
@@ -16494,7 +16494,7 @@ onemapsgapi: 1.0.0
 onepass: 0.1.2
 onewaytests: '2.6'
 onion: 1.5-0
-onlineBcp: 0.1.4
+onlineBcp: 0.1.5
 onlineCOV: '1.3'
 onlineCPD: '1.0'
 onlinePCA: 1.3.1
@@ -18778,7 +18778,7 @@ report: 0.5.1
 reportROC: '3.5'
 reportReg: 0.3.0
 reportRx: '1.0'
-reporter: 1.2.9
+reporter: 1.3.1
 reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
@@ -18858,7 +18858,7 @@ rewie: 0.1.0
 rex: 1.2.1
 rexpokit: 0.26.6.7
 rextendr: 0.2.0
-rfPermute: '2.5'
+rfPermute: 2.5.1
 rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.1
 rfacebookstat: 2.5.0
@@ -21557,7 +21557,7 @@ tfio: 0.4.1
 tfplot: 2021.6-1
 tfprobability: 0.15.0
 tframe: 2015.12-1.1
-tframePlus: 2016.7-1
+tframePlus: 2022.3-1
 tfruns: 1.5.0
 tfse: 0.5.0
 tgamtheme: 0.1.0
@@ -21678,7 +21678,7 @@ tidytreatment: 0.2.2
 tidytree: 0.3.9
 tidytuesdayR: 1.0.2
 tidyverse: 1.3.1
-tidyvpc: 1.2.0
+tidyvpc: 1.3.0
 tidywikidatar: 0.5.0
 tidyxl: 1.0.7
 tiff: 0.1-11
