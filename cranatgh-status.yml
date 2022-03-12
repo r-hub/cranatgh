@@ -2889,7 +2889,7 @@ ImportExport: '1.3'
 ImputeRobust: 1.3-1
 InDisc: 1.1.0
 InPosition: 0.12.7.1
-InSilicoVA: 1.3.4
+InSilicoVA: 1.3.5
 IncDTW: 1.1.4.3
 IncomPair: 0.1.0
 IncucyteDRC: 0.5.4
@@ -3242,7 +3242,7 @@ LearnBayes: 2.15.1
 LearnClust: '1.1'
 LearnEDA: '1.2'
 LearnGeom: '1.5'
-LearnPCA: 0.1.1
+LearnPCA: 0.1.3
 LearningRlab: '2.2'
 LearningStats: 0.1.0
 LendingClub: 2.0.0
@@ -4321,7 +4321,7 @@ PCRedux: '1.1'
 PCS: '1.2'
 PCSinR: 0.1.0
 PCovR: 2.7.1
-PDE: 1.3.0
+PDE: 1.4.0
 PDFEstimator: '3.1'
 PDM: '0.1'
 PDMIF: 0.1.0
@@ -4608,7 +4608,7 @@ PoissonBinomial: 1.2.4
 PoissonMultinomial: '1.0'
 PoissonPCA: 1.0.3
 PoissonSeq: '1.1'
-PolicyPortfolios: 0.2.2
+PolicyPortfolios: '0.3'
 PoloniexR: 0.0.1
 PolyHaplotyper: 1.0.1
 PolyPatEx: 0.9.2
@@ -5215,7 +5215,7 @@ RSC: 2.0.1
 RSCABS: 0.9.5
 RSCAT: 1.1.3
 RSDA: 3.0.9
-RSDK: 1.0.0
+RSDK: 1.0.1
 RSE: '1.3'
 RSEIS: 4.0-3
 RSGHB: 1.2.2
@@ -5460,7 +5460,7 @@ Rcoclust: '0.1'
 Rcolombos: 2.0.2
 Rcompadre: 1.1.0
 Rcplex: 0.3-5
-Rcpp: 1.0.8
+Rcpp: 1.0.8.2
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.8
 RcppAlgos: 2.4.3
@@ -5516,7 +5516,7 @@ RcppSpdlog: 0.0.7
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.1.7
-RcppThread: 2.1.1
+RcppThread: 2.1.2
 RcppUUID: 1.1.1
 RcppXPtrUtils: 0.1.1
 RcppXsimd: 7.1.6
@@ -7399,7 +7399,7 @@ ald: 1.3.1
 aldvmm: 0.8.4
 alfr: 1.2.1
 alfred: 0.2.0
-algaeClassify: 1.2.0
+algaeClassify: 1.3.2
 algo: 0.1.0
 algorithmia: 0.3.0
 algstat: 0.0.2
@@ -8423,7 +8423,7 @@ bpDir: 0.1.2
 bpa: 0.1.1
 bpbounds: 0.1.4
 bpca: 1.3-4
-bpcp: '1.4'
+bpcp: 1.4.2
 bpcs: 1.0.0
 bpgmm: 1.0.7
 bpkde: '1.0'
@@ -8650,7 +8650,7 @@ cardidates: 0.4.8
 cardioModel: '1.4'
 care: 1.1.11
 careless: 1.2.1
-caret: 6.0-90
+caret: 6.0-91
 caretEnsemble: 2.0.1
 caretForecast: 0.0.2
 caretLSF: '1.9'
@@ -8680,7 +8680,7 @@ cassandRa: 0.1.0
 castor: 1.7.2
 cat: 0.0-6.5
 cat.dt: 0.3.1
-cat2cat: 0.3.1
+cat2cat: 0.3.3
 catIrt: 0.5-0
 catR: '3.16'
 catSplit: 0.1.0
@@ -12478,7 +12478,7 @@ giscoR: 0.3.1
 gistr: 0.9.0
 git2r: 0.29.0
 git2rdata: 0.3.1
-git4r: 0.1.1
+git4r: 0.1.2
 gitcreds: 0.1.1
 gitdown: 0.1.6
 gitear: 1.0.0
@@ -13244,7 +13244,7 @@ hydroTSM: 0.6-0
 hydroToolkit: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.9.3
-hydropeak: 0.1.0
+hydropeak: 0.1.1
 hydrosanity: 0.8.76
 hydroscoper: 1.4.1
 hydrostats: 0.2.8
@@ -14221,7 +14221,7 @@ lbreg: '1.3'
 lcars: 0.3.7
 lcc: 1.1.3
 lcd: 0.7-3
-lcda: '0.3'
+lcda: 0.3.1
 lchemix: 0.1.0
 lclGWAS: 1.0.3
 lcmm: 1.9.5
@@ -14892,7 +14892,7 @@ maxmatching: 0.1.0
 maxnet: 0.1.4
 maxnodf: 1.0.0
 maxstat: 0.7-25
-maybe: 0.2.0
+maybe: 0.2.1
 mazeGen: 0.1.3
 mazealls: 0.2.0
 mazeinda: 0.0.1
@@ -15054,7 +15054,7 @@ memor: 0.2.3
 memoria: 1.0.0
 memuse: 4.2-1
 mephas: 1.0.0
-merDeriv: 0.2-3
+merDeriv: 0.2-4
 merTools: 0.5.2
 mergeTrees: 0.1.3
 mergedblocks: 1.1.0
@@ -17202,7 +17202,7 @@ photobiology: 0.10.9
 photobiologyFilters: 0.5.2
 photobiologyInOut: 0.4.23
 photobiologyLEDs: 0.4.3-1
-photobiologyLamps: 0.4.3
+photobiologyLamps: 0.5.0
 photobiologyPlants: 0.4.2
 photobiologySensors: 0.5.0
 photobiologySun: 0.4.1
@@ -17640,7 +17640,7 @@ prc: 2019.1-23
 prcbench: 1.0.2
 prclust: '1.3'
 prcr: 0.2.1
-pre: 1.0.2
+pre: 1.0.3
 preText: 0.6.2
 precautionary: 0.2.6
 precintcon: 2.3.0
@@ -18781,7 +18781,7 @@ replyr: 1.0.5
 repmis: '0.5'
 repmod: 0.1.7
 repo: 2.1.5
-repoRter.nih: 0.1.0
+repoRter.nih: 0.1.1
 repolr: '3.4'
 report: 0.5.1
 reportROC: '3.5'
@@ -18820,7 +18820,7 @@ resevol: 0.2.0.9
 reshape: 0.8.8
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
-resourcer: 1.1.1
+resourcer: 1.2.0
 respR: 2.0.0
 resper: '0.3'
 respirometry: 1.3.0
@@ -20297,7 +20297,7 @@ sivipm: 1.1-4
 sivs: 0.2.5
 sizeMat: 1.1.2
 sjPlot: 2.8.10
-sjSDM: 1.0.0
+sjSDM: 1.0.1
 sjdbc: 1.6.1
 sjlabelled: 1.1.8
 sjmisc: 2.8.9
@@ -20780,7 +20780,7 @@ spotifyr: 2.2.3
 spotoroo: 0.1.2
 spp: 1.16.0
 sppmix: 1.0.2
-spqdep: 0.1.0
+spqdep: 0.1.1
 spray: 1.0-19
 spread: 2019.8.5
 spreadr: 0.2.0
@@ -21034,7 +21034,7 @@ storywranglr: 0.2.0
 stosim: 0.0.14
 stplanr: 0.8.7
 stpm: 1.7.10
-stpp: 2.0-5
+stpp: 2.0-6
 stppResid: '1.1'
 str2str: 0.2.1
 strand: 0.2.0
@@ -21306,7 +21306,7 @@ sybilEFBA: 1.0.2
 sybilSBML: 3.1.2
 sybilccFBA: 3.0.1
 sybilcycleFreeFlux: 2.0.2
-sylcount: 0.2-3
+sylcount: 0.2-4
 syllabifyr: 0.1.1
 syllable: 0.1.3
 sylly: 0.1-6
@@ -21419,7 +21419,7 @@ tau: 0.0-24
 tauturri: 0.3.0
 tawny: 2.1.7
 tawny.types: 1.1.5
-taxa: 0.4.0
+taxa: 0.4.1
 taxadb: 0.1.4
 taxalight: 0.1.5
 taxize: 0.9.99
@@ -21691,7 +21691,7 @@ tidytree: 0.3.9
 tidytuesdayR: 1.0.2
 tidyverse: 1.3.1
 tidyvpc: 1.3.0
-tidywikidatar: 0.5.0
+tidywikidatar: 0.5.1
 tidyxl: 1.0.7
 tiff: 0.1-11
 tiger: 0.2.3.1
@@ -22153,7 +22153,7 @@ ucminf: 1.1-4
 udapi: 0.1.3
 udpipe: 0.8.8
 udunits: '1.3'
-udunits2: 0.13.2
+udunits2: 0.13.2.1
 ufRisk: 1.0.3
 ufs: 0.5.2
 ugatsdb: 0.2.2
