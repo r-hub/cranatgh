@@ -926,6 +926,7 @@ CRWRM: 0.0.1
 CSESA: 1.2.0
 CSFA: 1.2.0
 CSGo: 0.6.7
+CSHShydRology: 1.2.0
 CSIndicators: 0.0.1
 CSMES: 1.0.0
 CSS: '1.0'
@@ -7680,6 +7681,7 @@ assignR: 2.2.0
 assist: 3.1.7
 assocInd: 1.0.1
 assortnet: '0.12'
+ast2ast: '0.1'
 asteRisk: 1.4.0
 aster: 1.1-2
 aster2: '0.3'
@@ -8505,6 +8507,7 @@ bshazard: '1.1'
 bslib: 0.3.1
 bsml: 1.5-1
 bspec: '1.5'
+bspline: 1.0.1
 bsplinePsd: 0.6.0
 bsplus: 0.1.3
 bspm: 0.3.9
@@ -8710,6 +8713,7 @@ causact: 0.4.1
 causal.decomp: 0.0.1
 causalCmprsk: 1.0.3
 causalMGM: 0.1.1
+causalOT: '0.1'
 causalPAF: 1.2.4
 causaldata: 0.1.3
 causaldrf: '0.3'
@@ -8874,6 +8878,7 @@ checkmate: 2.0.0
 checkpoint: 1.0.2
 checkr: 0.5.0
 cheddar: 0.1-636
+cheem: 0.2.0
 cheese: 0.1.1
 chemCal: 0.2.2
 chemmodlab: 1.1.0
@@ -10487,7 +10492,7 @@ ds: '4.0'
 ds4psy: 0.7.0
 dsa: 1.0.12
 dsample: 0.91.2.2
-dsb: 0.3.0
+dsb: 1.0.0
 dscore: 1.4.0
 dse: 2020.2-1
 dse1: 2011.11-2
@@ -11229,7 +11234,7 @@ fExoticOptions: '3042.80'
 fExpressCertificates: '1.3'
 fExtremes: '3042.82'
 fGarch: 3042.83.2
-fHMM: 0.3.0
+fHMM: 1.0.0
 fICA: 1.1-2
 fImport: '3042.85'
 fMRIscrub: 0.8.6
@@ -11612,7 +11617,7 @@ flipdownr: 0.1.1
 flippant: 1.5.3
 flipr: 0.3.1
 flipscores: 1.1.0
-float: 0.2-6
+float: 0.2-6.1
 flobr: 0.2.2
 flock: '0.7'
 flood: 0.1.1
@@ -11944,7 +11949,7 @@ galgo: '1.4'
 galigor: 0.2.5
 galts: 1.3.1
 galvanizer: 0.5.3
-gam: '1.20'
+gam: 1.20.1
 gamCopula: 0.0-7
 gamRR: 0.7.0
 gama: 1.0.3
@@ -13540,6 +13545,7 @@ industRial: 0.1.0
 inegiR: 3.0.0
 ineq: 0.2-13
 ineqJD: '1.0'
+inet: 0.1.0
 inetwork: '1.2'
 infer: 1.0.0
 inference: 0.1.0
@@ -15124,7 +15130,7 @@ metapost: 1.0-6
 metapower: 0.2.2
 metapro: 1.5.8
 metaprotr: 1.2.2
-metarep: 1.0.1
+metarep: '1.1'
 metasens: 1.0-1
 metatest: 1.0-5
 metathis: 1.1.1
@@ -16020,6 +16026,7 @@ needmining: 0.1.1
 needs: 0.0.3
 needy: '0.2'
 negenes: 1.0-12
+negligible: 0.1.0
 neighbr: 1.0.3
 neldermead: 1.0-12
 neo2R: 2.1.0
@@ -18696,7 +18703,7 @@ regexp: 0.0-1
 regexr: 1.1.0
 regfilter: 1.0.2
 reghelper: 1.1.0
-regional: 0.3.0
+regional: 0.3.3
 regioncode: 0.1.1
 regions: 0.1.8
 registr: 1.0.0
@@ -20689,7 +20696,7 @@ spectral: '2.0'
 spectral.methods: 0.7.2.133
 spectralAnalysis: 3.12.0
 spectralGP: 1.3.3
-spectralGraphTopology: 0.2.2
+spectralGraphTopology: 0.2.3
 spectre: 1.0.2
 spectrino: 2.0.0
 spectrolab: 0.0.16
