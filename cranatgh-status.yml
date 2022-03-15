@@ -812,7 +812,7 @@ CGE: 0.3.3
 CGGP: 1.0.3
 CGIwithR: 0.73-0
 CGManalyzer: '1.3'
-CGNM: 0.1.1
+CGNM: 0.3.1
 CGP: 2.1-1
 CGPfunctions: 0.6.3
 CGene: '1.2'
@@ -1177,6 +1177,7 @@ ContourFunctions: 0.1.1
 ConvCalendar: '1.2'
 ConvergenceClubs: 2.2.1
 ConvergenceConcepts: 1.2.2
+ConvertPar: '0.1'
 Convolutioner: 0.1.0
 CoopGame: 0.2.2
 CoordinateCleaner: 2.0-20
@@ -2543,7 +2544,7 @@ GuessCompx: 1.0.3
 GxEScanR: 2.0.2
 GxM: '1.1'
 H2x2Factorial: 2.0.0
-HAC: 1.0-8
+HAC: 1.1-0
 HACSim: 1.0.5
 HAP.ROR: '1.0'
 HAPim: '1.3'
@@ -5044,7 +5045,7 @@ RKelly: '1.0'
 RKlout: '1.0'
 RKorAPClient: 0.7.2
 RLMM: 1.8.0
-RLRsim: 3.1-6
+RLRsim: 3.1-7
 RLT: 3.2.4
 RLastFM: 0.1-5
 RLeafAngle: '1.0'
@@ -5735,7 +5736,7 @@ RolWinMulCor: 1.2.0
 RonFHIR: 0.4.0
 Rook: 1.1-1
 RootsExtremaInflections: 1.2.1
-Ropj: 0.3-1
+Ropj: 0.3-2
 Rosenbrock: 0.1.0
 Rothermel: '1.2'
 RoughSetKnowledgeReduction: '0.1'
@@ -5985,7 +5986,7 @@ SLHD: 2.1-1
 SLICER: 0.2.0
 SLIDE: 1.0.0
 SLModels: 0.1.2
-SLOPE: 0.4.0
+SLOPE: 0.4.1
 SLTCA: 0.1.0
 SLmisc: '1.4'
 SMARTAR: 1.1.0
@@ -6294,7 +6295,7 @@ Simile: 1.3.3
 SimpleTable: 0.1-2
 SimplicialCubature: '1.3'
 SimplifyStats: 2.0.4
-SimplyAgree: 0.0.2
+SimplyAgree: 0.0.3
 Simpsons: 0.1.0
 SimuChemPC: '1.3'
 SimultAnR: '1.1'
@@ -6785,7 +6786,7 @@ TimeProjection: 0.2.0
 TimeSeries.OBeu: 1.2.4
 TimeVTree: 0.3.1
 TimeWarp: 1.0.15
-Tinflex: '1.8'
+Tinflex: '2.1'
 TinnR: 1.0-5
 TipDatingBeast: 1.1-0
 TippingPoint: 1.1.0
@@ -7308,7 +7309,7 @@ adklakedata: 0.6.1
 adlift: 1.4-1
 admiral: 0.6.3
 admiral.test: 0.1.2
-admisc: '0.25'
+admisc: '0.26'
 admix: 0.3.2
 admixr: 0.9.1
 admixturegraph: 1.0.2
@@ -7450,7 +7451,7 @@ amer: 0.6.9
 amerifluxr: 1.0.0
 amerika: 0.1.0
 aml: 0.1-1
-ammiBayes: 1.0-0
+ammiBayes: 1.0-1
 ammistability: 0.1.2
 ampd: '0.2'
 ampir: 1.1.0
@@ -8058,7 +8059,7 @@ benford.analysis: 0.1.5
 bentcableAR: 0.3.0
 benthos: 1.3-6
 ber: '4.0'
-berryFunctions: 1.21.0
+berryFunctions: 1.21.2
 bestNormalize: 1.8.2
 bestSDP: 0.1.2
 bestglm: 0.37.3
@@ -8852,7 +8853,7 @@ chameleon: 0.2-0
 chandwich: 1.1.5
 changeLOS: '2.1'
 changedetection: 0.2.0
-changepoint: 2.2.2
+changepoint: 2.2.3
 changepoint.geo: 1.0.1
 changepoint.influence: 1.0.1
 changepoint.mv: 1.0.2
@@ -9684,7 +9685,7 @@ ctest: 0.9-21
 ctf: 0.1.0
 ctgdist: 0.1.0
 ctgt: '2.0'
-cthist: 0.1.3
+cthist: 0.1.4
 cthresh: '4.5'
 cthreshER: 1.1.0
 ctl: 1.0.0-7
@@ -9939,7 +9940,7 @@ dbhydroR: 0.2-8
 dblcens: 1.1.7
 dblr: 0.1.0
 dbmss: 2.7-8
-dbnR: 0.7.1
+dbnR: 0.7.5
 dbnlearn: 0.1.0
 dbparser: 1.2.0
 dbplot: 0.3.3
@@ -9982,6 +9983,7 @@ ddpcr: '1.15'
 ddsPLS: 1.1.4
 ddst: '1.4'
 deBInfer: 0.4.2
+deBif: 0.1.0
 deGradInfer: 1.0.1
 deSolve: '1.30'
 deTS: '1.0'
@@ -9999,7 +10001,7 @@ decido: 0.3.0
 decision: 0.1.0
 decisionSupport: '1.110'
 deckgl: 0.2.7
-declared: '0.11'
+declared: '0.12'
 decode: '1.2'
 decoder: 1.2.2
 decomposedPSF: 0.1.3
@@ -10492,7 +10494,7 @@ ds: '4.0'
 ds4psy: 0.7.0
 dsa: 1.0.12
 dsample: 0.91.2.2
-dsb: 1.0.0
+dsb: 1.0.1
 dscore: 1.4.0
 dse: 2020.2-1
 dse1: 2011.11-2
@@ -10556,6 +10558,7 @@ dycdtools: 0.3.1
 dydea: 0.1.0
 dygraphs: 1.1.1.6
 dyn: 0.2-9.6
+dyn.log: 0.4.0
 dynBiplotGUI: 1.1.6
 dynCorr: 1.1.0
 dynGraph: '0.99100403'
@@ -12012,7 +12015,7 @@ gateR: 0.1.10
 gatepoints: 0.1.4
 gauseR: '1.1'
 gaussDiff: '1.1'
-gausscov: 0.1.5
+gausscov: 0.1.6
 gaussfacts: 0.0.2
 gaussplotR: 0.2.5
 gausspred: 1.0-0
@@ -12839,7 +12842,7 @@ gsrsb: 1.1.1
 gss: 2.2-3
 gsscopu: 0.9-3
 gstar: 0.1.0
-gstat: 2.0-8
+gstat: 2.0-9
 gstsm: 0.0.1
 gstudio: '1.3'
 gsubfn: '0.7'
@@ -14746,7 +14749,7 @@ makeParallel: 0.1.1
 makeProject: '1.0'
 makeR: '1.0'
 makedummies: 1.2.1
-makemyprior: 1.0.1
+makemyprior: 1.1.0
 makepipe: 0.1.0
 makesweave: 0.3.0
 maketools: 1.2.2
@@ -14786,6 +14789,7 @@ mapedit: 0.6.0
 mapfit: 0.9.7
 mapfuser: 0.1.2
 mapi: 1.0.5
+maple: 0.99.5
 mapmisc: 1.8.0
 mapping: '1.3'
 mappings: '0.1'
@@ -15190,7 +15194,7 @@ mht: 3.1.2
 mhtboot: 1.3.3
 mhurdle: 1.3-0
 mi: '1.0'
-mi4p: '0.7'
+mi4p: '0.8'
 miCoPTCM: '1.1'
 miLineage: '2.1'
 miP: '1.1'
@@ -15375,7 +15379,7 @@ mixture: 2.0.4
 mize: 0.2.4
 mizer: 2.3.0.1
 mkde: '0.1'
-mkin: 1.0.5
+mkin: 1.1.0
 mknapsack: 0.1.0
 mkssd: '1.2'
 mlCopulaSelection: '1.3'
@@ -15693,6 +15697,7 @@ msaR: 0.6.0
 msae: 0.1.4
 msaeDB: 0.2.1
 msaeHB: 0.1.0
+msaeOB: 0.1.0
 msaeRB: 0.2.1
 msaenet: '3.1'
 msap: 1.1.8
@@ -16437,7 +16442,7 @@ oceanic: 0.1.2
 oceanis: 1.8.4
 oceanmap: 0.1.1
 oceanwaves: 0.2.0
-ocedata: 0.1.8
+ocedata: 0.2.0
 ockc: '1.0'
 oclust: 0.1.0
 ocomposition: '1.1'
@@ -16479,6 +16484,7 @@ ojsr: 0.1.2
 okcupiddata: 0.1.0
 okmesonet: 0.1.5
 olctools: 0.3.0
+ollg: 1.0.0
 ollggamma: 1.0.2
 olr: '1.1'
 olsrr: 0.5.3
@@ -16545,7 +16551,7 @@ openNLPmodels.en: 0.0-4
 openNLPmodels.es: 0.0-4
 openSTARS: 1.2.3
 openSkies: 1.1.6
-openVA: 1.0.13
+openVA: 1.0.14
 openadds: 0.2.0
 openair: 2.8-6
 openbankeR: 0.1.1
@@ -18288,7 +18294,7 @@ rSymbiota: 1.0.0
 rTG: 1.0.0
 rTLS: 0.2.5.2
 rTOFsPRO: '1.4'
-rTRNG: 4.23.1-1
+rTRNG: 4.23.1-2
 rTableICC: 1.0.7
 rTensor: 1.4.8
 rTephra: '0.1'
@@ -18521,7 +18527,7 @@ rcmdcheck: 1.4.0
 rco: 1.0.2
 rcol: 0.2.0
 rcolors: 0.1.0
-rcompanion: 2.4.13
+rcompanion: 2.4.15
 rcompendium: 0.5.1
 rcompgen: 0.1-8
 rcompletion: 0.1-2
@@ -18763,6 +18769,7 @@ rematch: 1.0.1
 rematch2: 2.1.2
 remedy: 0.1.0
 remindR: 0.0.1
+remiod: 1.0.0
 remix: '2.1'
 remote: 1.2.1
 remoter: 0.4-0
@@ -18828,7 +18835,7 @@ reshape: 0.8.8
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
 resourcer: 1.2.0
-respR: 2.0.0
+respR: 2.0.1
 resper: '0.3'
 respirometry: 1.3.0
 responsePatterns: 0.1.0
@@ -19472,7 +19479,7 @@ rugarch: 1.4-7
 ruimtehol: '0.3'
 ruin: 0.1.1
 ruler: 0.2.4
-rules: 0.1.2
+rules: 0.2.0
 rumidas: 0.1.1
 runStat: '1.1'
 runcharter: 0.2.0
@@ -19500,7 +19507,7 @@ rvest: 1.0.2
 rvg: 0.2.5
 rvgtest: 0.7.4
 rviewgraph: '1.2'
-rvinecopulib: 0.6.1.1.1
+rvinecopulib: 0.6.1.1.2
 rvkstat: 3.2.0
 rvmbinary: '1.0'
 rvmethod: 0.1.2
