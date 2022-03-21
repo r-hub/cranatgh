@@ -502,9 +502,9 @@ Barnard: '1.8'
 Barycenter: 1.3.1
 BaseSet: 0.0.17
 BasketballAnalyzeR: 0.5.0
-BatchExperiments: 1.4.2
+BatchExperiments: 1.4.3
 BatchGetSymbols: 2.6.1
-BatchJobs: '1.8'
+BatchJobs: '1.9'
 BatchMap: 1.0.2.0
 BayClone2: '1.1'
 BayHap: '1.0'
@@ -1686,7 +1686,7 @@ EEMDelm: 0.1.0
 EESPCA: 0.5.0
 EFA.MRFA: 1.1.2
 EFA.dimensions: 0.1.7.4
-EFAtools: 0.3.1
+EFAtools: 0.4.0
 EFAutilities: 2.1.1
 EFDR: '1.2'
 EFS: 1.0.3
@@ -1983,7 +1983,7 @@ FIT: 0.0.6
 FITSio: 2.1-6
 FKBL: 0.50-4
 FKF: 0.2.3
-FKF.SP: 0.1.3
+FKF.SP: 0.2.0
 FKSUM: 1.0.0
 FLAME: 2.1.1
 FLCore: 1.4-4
@@ -2182,7 +2182,7 @@ FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
-FuzzyResampling: 0.4.1
+FuzzyResampling: 0.4.2
 FuzzySTs: '0.2'
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
@@ -2393,7 +2393,7 @@ GWEX: 1.0.2
 GWG: '1.0'
 GWI: 1.0.2
 GWLelast: 1.2.2
-GWPR.light: 0.1.1
+GWPR.light: 0.2.0
 GWRM: 2.1.0.4
 GWSDAT: 3.1.1
 GWmodel: 2.2-8
@@ -2772,6 +2772,7 @@ IDPmisc: 1.1.20
 IDSA: '2.1'
 IDSL.IPA: '1.3'
 IDSL.MXP: '1.0'
+IDSL.SUFA: '1.0'
 IDSL.UFA: '1.0'
 IDSL.UFAx: 1.0.1
 IDSpatialStats: 0.3.12
@@ -3095,6 +3096,7 @@ LARisk: 1.0.0
 LAWBL: 1.4.0
 LBC: '1.0'
 LBLGXE: '1.4'
+LBPG: 0.1.2
 LBSPR: 0.1.6
 LCA: 0.1.1
 LCAextend: '1.3'
@@ -3737,7 +3739,7 @@ Mercator: 1.1.1
 MergeGUI: 0.2-1
 MetABEL: 0.2-0
 MetAlyzer: 0.1.0
-MetBrewer: 0.1.0
+MetBrewer: 0.2.0
 MetFns: 3.2.2
 MetGen: '0.5'
 MetNorm: '0.1'
@@ -4380,6 +4382,7 @@ PLFD: 0.1.1
 PLIS: '1.1'
 PLMIX: 2.1.1
 PLNmodels: 0.11.6
+PLORN: 0.1.1
 PLRModels: '1.1'
 PLSbiplot1: '0.1'
 PLSiMCpp: 1.0.1
@@ -5474,7 +5477,7 @@ RcppBDT: 0.2.4
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
 RcppCCTZ: 0.2.10
-RcppCGAL: '5.4'
+RcppCGAL: 5.4.1
 RcppCNPy: 0.2.10
 RcppCWB: 0.5.1
 RcppCensSpatial: 0.1.0
@@ -6836,7 +6839,7 @@ TreeRank: 1.1-0
 TreeSearch: 1.1.0
 TreeSim: '2.4'
 TreeSimGM: '2.5'
-TreeTools: 1.6.0
+TreeTools: 1.7.0
 TrendInTrend: 1.1.3
 TrendSLR: '1.0'
 Trendtwosub: 0.0.2
@@ -6857,7 +6860,7 @@ TukeyC: 1.3-4
 TukeyRegion: 0.1.4
 TunePareto: 2.5.1
 TurtleGraphics: 1.0-8
-Tushare: 0.1.3
+Tushare: 0.1.4
 Twitmo: 0.1.2
 TwitterAutomatedTrading: 0.1.0
 TwoArmSurvSim: '0.2'
@@ -7736,7 +7739,7 @@ audiometry: 0.3.0
 audit: 0.1-2
 audited: '1.9'
 auditor: 1.3.3
-audrex: 1.0.1
+audrex: 2.0.0
 audubon: 0.1.1
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.5
@@ -9252,6 +9255,7 @@ colt: 0.1.1
 comFuncs: 0.0.5
 comat: 0.9.3
 comato: '1.1'
+combinIT: 1.0.0
 combinat: 0.0-8
 combinationpvalues: 0.1.4
 combinedevents: 0.1.1
@@ -9365,7 +9369,7 @@ connectwidgets: 0.1.1
 conogive: 1.0.0
 conos: 1.4.5
 conover.test: 1.1.5
-conquer: 1.2.2
+conquer: 1.3.0
 conquestr: 0.8.5
 conserveR: 1.0.4
 consolechoice: 1.0.0
@@ -10246,7 +10250,7 @@ directotree: 1.0.0
 dirichlet: '1.0'
 dirichletprocess: 0.4.0
 dirmcmc: 1.3.3
-dirmult: 0.1.3-4
+dirmult: 0.1.3-5
 disaggR: 1.0.3.1
 disaggregation: 0.1.3
 disastr.api: 1.0.5
@@ -10439,7 +10443,7 @@ downscaledl: '1.0'
 downsize: 0.2.2
 dowser: 0.1.0
 dpa: 1.0-3
-dparser: 1.3.1-4
+dparser: 1.3.1-5
 dpcR: '0.5'
 dpcc: 1.0.0
 dpcid: '1.0'
@@ -10886,7 +10890,7 @@ empiricalFDR.DESeq2: 1.0.3
 emplik: 1.1-1
 emplik2: '1.32'
 ems: 1.3.11
-emstreeR: 2.2.2
+emstreeR: 3.0.0
 emu: '4.3'
 emuR: 2.3.0
 emudata: '1.0'
@@ -11358,7 +11362,7 @@ fastTextR: 2.0.0
 fastVAR: '1.2'
 fasta: 0.1.0
 fastadi: 0.1.0
-fastai: 2.1.0
+fastai: 2.2.0
 fastclime: 1.4.1
 fastcluster: 1.2.3
 fastcmh: 0.2.7
@@ -13824,7 +13828,7 @@ ivsacim: 2.1.0
 ivtools: 2.3.0
 ivx: 1.1.0
 iwtp: 1.0.0
-jSDM: 0.2.0
+jSDM: 0.2.1
 jScore: 0.1.0
 jSonarR: 1.1.1
 jaatha: 3.2.2
@@ -14616,7 +14620,7 @@ lpSolveAPI: 5.5.2.0-17.7
 lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpdensity: '2.3'
-lphom: 0.3.0-14
+lphom: 0.3.1-1
 lpint: '2.0'
 lpirfs: 0.2.0
 lpl: '0.11'
@@ -15582,6 +15586,7 @@ moments: '0.14'
 momentuHMM: 1.5.4
 momr: '1.1'
 monaco: 0.2.1
+monashtipr: 0.1.0
 mondate: 0.10.02
 mongolite: 2.4.1
 mongopipe: 0.1.1
@@ -16444,7 +16449,7 @@ obsSens: '1.3'
 observer: 0.1.2
 oc: '1.2'
 occ: '1.1'
-occCite: 0.5.3
+occCite: 0.5.4
 occupancy: '1.2'
 ocd: '1.1'
 oce: 1.6-1
@@ -17934,7 +17939,7 @@ pulsar: 0.3.7
 pulseTD: 0.1.0
 pulver: 0.1.1
 pumilioR: 1.3.1
-puniform: 0.2.4
+puniform: 0.2.5
 pureseqtmr: '1.2'
 purge: 0.2.1
 purgeR: '1.4'
@@ -18138,7 +18143,7 @@ questionr: 0.7.7
 queuecomputer: 1.1.0
 queueing: 0.2.12
 quhomology: 1.1.1
-quickNmix: 1.0.3
+quickNmix: 1.1.1
 quickPlot: 0.1.6
 quickReg: 1.5.0
 quickblock: 0.2.0
@@ -18453,7 +18458,7 @@ ratesci: 0.4-0
 ratetables: 1.0-2
 rationalfun: 0.1-1
 ratios: 1.2.0
-rattle: 5.4.0
+rattle: 5.5.1
 rattle.data: 1.0.2
 raustats: 0.15.0
 raveio: 0.0.5
@@ -19478,6 +19483,7 @@ rtrie: 0.1.1
 rtrim: 2.1.1
 rtry: 1.0.0
 rts: 1.1-3
+rts2: '0.3'
 rtsVis: 0.0.3
 rtsdata: 0.1.3
 rtson: '1.3'
@@ -19573,6 +19579,7 @@ sGMRFmix: 0.3.0
 sGPCA: '1.0'
 sNPLS: 1.0.27
 sRDA: 1.0.0
+sRNAGenetic: 0.1.0
 sROC: 0.1-2
 sSDR: 1.2.0
 sValues: 0.1.6
@@ -19666,7 +19673,7 @@ sarp.snowprofile.alignment: 1.1.4
 sars: 1.3.5
 sarsop: 0.6.9
 sas7bdat: '0.5'
-sasLM: 0.6.6
+sasLM: 0.8.0
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.0
@@ -19842,7 +19849,7 @@ searchConsoleR: 0.4.0
 searchable: 0.3.3.1
 searcher: 0.0.6
 seas: 0.5-2
-season: 0.3.14
+season: 0.3.15
 seasonal: 1.8.4
 seasonalclumped: 0.3.2
 seasonalityPlot: 0.99.3
@@ -20199,6 +20206,7 @@ signal.hsmm: '1.2'
 signalHsmm: '1.5'
 signalextraction: 2.0.3
 signed.backbones: 0.91.5
+signibox: '1.0'
 signmedian.test: 1.5.1
 signnet: 0.8.0
 signs: 0.1.2
@@ -20668,7 +20676,7 @@ spatialreg: 1.2-1
 spatialrisk: 0.7.0
 spatialsample: 0.1.0
 spatialsegregation: '2.45'
-spatialwarnings: 3.0.2
+spatialwarnings: 3.0.3
 spatialwidget: 0.2.3
 spatsoc: 0.1.16
 spatstat: 2.3-3
@@ -20975,6 +20983,7 @@ statgenGWAS: 1.0.8
 statgenGxE: 1.0.4
 statgenHTP: 1.0.5
 statgenIBD: 1.0.4
+statgenMPP: 1.0.0
 statgenSTA: 1.0.8
 stationaRy: 0.5.1
 stationery: '1.0'
@@ -21428,6 +21437,7 @@ tactile: 0.2.0
 tadaatoolbox: 0.9.0
 tagcloud: '0.6'
 tailDepFun: 1.0.1
+tailTransform: 1.0.4
 tailloss: '1.0'
 tailr: 0.1.3
 taipan: 0.1.2
@@ -21816,7 +21826,7 @@ tm.plugin.webmining: '1.3'
 tm1r: 1.1.8
 tmap: 3.3-3
 tmaptools: 3.1-1
-tmbstan: 1.0.3
+tmbstan: 1.0.4
 tmcn: 0.2-13
 tmg: '0.3'
 tmhmm: '1.3'
@@ -22509,7 +22519,7 @@ vocaldia: 0.8.3
 volcano3D: 1.2.0
 volesti: 1.1.2-2
 volleystat: 0.2.0
-voluModel: 0.1.1
+voluModel: 0.1.3
 voronoi: '1.1'
 voronoiTreemap: 0.2.0
 vortexR: 1.1.7
@@ -22683,7 +22693,7 @@ whereport: '0.1'
 whiboclustering: 0.1.2
 whippr: 0.1.0
 whisker: '0.4'
-whitebox: 2.1.1
+whitebox: 2.1.2
 whitechapelR: 0.3.0
 whitening: 1.3.0
 whitestrap: 0.0.1
@@ -22767,7 +22777,7 @@ workflowr: 1.7.0
 workflows: 0.2.6
 workflowsets: 0.2.1
 workloopR: 1.1.4
-worldfootballR: 0.4.10
+worldfootballR: 0.5.0
 worldmet: 0.9.5
 worms: 0.2.2
 worrms: 0.4.2
