@@ -44,6 +44,7 @@ AEenrich: 1.1.0
 AF: 0.1.5
 AFLPsim: 0.4-2
 AFM: '2.0'
+AFR: 0.1.0
 AFheritability: 0.1.0
 AGD: '0.39'
 AGHmatrix: 2.0.4
@@ -840,7 +841,7 @@ CINOEDV: '2.0'
 CINmetrics: 0.1.0
 CIS.DGLM: 0.1.0
 CISE: 0.1.0
-CITAN: 2021.11-1
+CITAN: 2022.1.1
 CIplot: '1.0'
 CJAMP: 0.1.1
 CKAT: 0.1.0
@@ -3282,6 +3283,7 @@ LncFinder: 1.1.5
 LncMod: '1.1'
 LncPath: '1.1'
 LncPriCNet: '1.0'
+LoBrA: '1.0'
 LocFDRPois: 1.0.0
 LocalControl: 1.1.2.2
 LocalControlStrategy: 1.3.3
@@ -4417,6 +4419,7 @@ PPLasso: '1.0'
 PPMR: '1.0'
 PPQplan: 1.1.0
 PPRL: 0.3.6
+PPSFS: 0.1.0
 PPTcirc: 0.2.1
 PPforest: 0.1.2
 PPtree: 2.3.0
@@ -5627,7 +5630,7 @@ Rfast: 2.0.6
 Rfast2: 0.1.1
 Rfit: 0.24.2
 RfmriVC: '1.0'
-Rfmtool: 4.1.5
+Rfmtool: 4.1.6
 Rfolding: '1.0'
 Rforestry: 0.9.0.95
 Rfractran: '1.0'
@@ -7310,6 +7313,7 @@ adheRenceRX: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.3
 adiv: 2.1.1
+adjROC: 0.1.0
 adjSURVCI: '1.0'
 adjclust: 0.6.3
 adjustedcranlogs: 0.1.0
@@ -7515,7 +7519,7 @@ anthro: 1.0.0
 anthroplus: 0.9.0
 anticlust: 0.6.1
 antitrust: 0.99.25
-antiword: '1.3'
+antiword: 1.3.1
 anyLib: 1.0.5
 anybadger: 0.1.0
 anyflights: 0.3.2
@@ -8395,6 +8399,7 @@ boostr: 1.0.0
 boot: 1.3-28
 boot.heterogeneity: 1.1.5
 boot.pval: '0.4'
+bootCT: '1.0'
 bootComb: 1.1.2
 bootES: 1.2.1
 bootGOF: 0.1.0
@@ -8623,6 +8628,7 @@ callr: 3.7.0
 calmate: 0.13.0
 calpassapi: 0.0.3
 camel: 0.2.0
+camerondata: 1.0.0
 campfin: 1.0.8
 campsis: 1.2.0
 campsismod: 0.8.0
@@ -8732,7 +8738,7 @@ causaleffect: 1.3.13
 causaloptim: 0.9.1
 causalsens: 0.1.2
 causalweight: 1.0.2
-caviarpd: 0.2.17
+caviarpd: 0.2.28
 cba: 0.2-21
 cban: '1.0'
 cbanalysis: 0.2.0
@@ -8799,7 +8805,7 @@ cellOrigins: 0.1.3
 cellVolumeDist: '1.3'
 cellWise: 2.2.6
 cellranger: 1.1.0
-celltrackR: 0.3.1
+celltrackR: 1.1.0
 celsius: 1.0.7
 cem: 1.1.29
 cemco: '0.1'
@@ -10533,7 +10539,7 @@ dti: 1.5.1
 dtp: 0.1.0
 dtpcrm: 0.1.1
 dtplyr: 1.2.1
-dtrSurv: '1.2'
+dtrSurv: '1.3'
 dtree: 0.4.2
 dtt: 0.1-2
 dttr2: 0.4.0
@@ -10958,7 +10964,7 @@ eph: 0.4.0
 epi2loc: 1.0-1
 epiDisplay: 3.5.0.1
 epiGWAS: 1.0.2
-epiR: 2.0.43
+epiR: 2.0.44
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.9.2.8
@@ -11718,7 +11724,7 @@ forestinventory: 1.0.0
 forestmangr: 0.9.4
 forestmodel: 0.6.2
 forestplot: 2.0.1
-forestploter: 0.1.3
+forestploter: 0.1.4
 forestr: 2.0.2
 forestry: 0.1.0
 foretell: 0.2.0
@@ -11837,7 +11843,7 @@ fspe: 0.1.0
 fsr: 1.0.1
 fssemR: 0.1.8
 fst: 0.9.8
-fstcore: 0.9.8
+fstcore: 0.9.10
 fsthet: 1.0.1
 ftDK: '1.0'
 ftExtra: 0.3.0
@@ -13067,6 +13073,7 @@ hglasso: '1.2'
 hglm: 2.2-1
 hglm.data: 1.0-1
 hgm: '1.18'
+hgnc: 0.1.0
 hgutils: 0.2.7
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
@@ -13591,7 +13598,7 @@ infutil: '1.0'
 ingredients: 2.2.0
 ini: 0.3.1
 injectoR: 0.2.4
-inlabru: 2.4.0
+inlabru: 2.5.0
 inldata: 1.0.3
 inline: 0.3.19
 inlinedocs: 2019.12.5
@@ -14176,6 +14183,7 @@ landscapeR: '1.2'
 landscapemetrics: 1.5.4
 landscapetools: 0.5.0
 landsepi: 1.1.2
+langevitour: '0.1'
 languageR: 1.5.0
 languagelayeR: 1.2.4
 languageserver: 0.3.12
@@ -14357,7 +14365,7 @@ lgrExtra: 0.0.5
 lgrdata: 0.1.1
 lgtdl: 1.1.5
 lhmixr: 0.1.0
-lhs: 1.1.4
+lhs: 1.1.5
 liGP: 1.0.1
 liayson: 1.0.4
 libamtrack: 0.6.3
@@ -14507,7 +14515,7 @@ lmomRFA: '3.3'
 lmomco: 2.3.7
 lmreg: '1.2'
 lmridge: 1.2.1
-lmtest: 0.9-39
+lmtest: 0.9-40
 lmtp: 1.0.0
 lmvar: 1.5.2
 lmviz: 0.2.0
@@ -15310,7 +15318,7 @@ mipred: 0.0.1
 miraculix: 0.9.4
 mirai: 0.1.1
 mirf: '1.0'
-mirt: 1.35.1
+mirt: '1.36'
 mirtCAT: '1.12'
 mirtjml: 1.4.0
 mirtsvd: '1.0'
@@ -15692,7 +15700,7 @@ mrfDepth: 1.0.13
 mrfse: '0.2'
 mrgsim.parallel: 0.2.1
 mrgsim.sa: 0.1.0
-mrgsolve: 1.0.2
+mrgsolve: 1.0.3
 mri: 1.0.1
 mritc: 0.5-2
 mro: 0.1.1
@@ -15864,6 +15872,7 @@ multivar: 1.0.0
 multivariance: 2.4.1
 multivator: 1.1-10
 multiverse: 0.5.0
+multiversion: 0.3.6
 multiviewtest: 2.0.1
 multiwave: '1.4'
 multiway: 1.0-6
@@ -18423,7 +18432,7 @@ rapidraker: 0.1.3
 rapidxmlr: 0.1.0
 rappdirs: 0.3.3
 rapport: '1.1'
-rapportools: '1.0'
+rapportools: '1.1'
 rappsflyer: 0.2.0
 rapsimng: 0.3.0
 raptr: 0.1.7
@@ -18471,6 +18480,7 @@ rawKS: 0.1.0
 rawr: 0.1.3
 raws.profile: 0.1.0
 rayimage: 0.6.2
+raymolecule: 0.5.0
 rayrender: 0.23.6
 rayshader: 0.24.10
 raytracing: 0.1.0
@@ -18500,7 +18510,7 @@ rbison: 1.0.0
 rbit: 1.0.0
 rbitcoinchartsapi: 1.0.4
 rblt: 0.2.4.5
-rbmi: 1.1.1
+rbmi: 1.1.3
 rbmn: 0.9-4
 rbokeh: 0.5.2
 rbooster: 1.1.0
@@ -20916,7 +20926,7 @@ st: 1.2.7
 stR: '0.5'
 stUPscales: 1.0.3.4
 sta: 0.1.5
-staRdom: 1.1.23
+staRdom: 1.1.25
 staRt: 1.1.12
 staTools: 0.1.0
 stab: 0.1.9
@@ -21077,6 +21087,7 @@ stplanr: 0.8.7
 stpm: 1.7.10
 stpp: 2.0-6
 stppResid: '1.1'
+stppSim: 1.2.0
 str2str: 0.2.1
 strand: 0.2.0
 strandCet: '1.0'
