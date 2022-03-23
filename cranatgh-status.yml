@@ -976,6 +976,7 @@ CallEshotgun: 0.2.0
 CamelUp: 2.0.3
 CampaR1: .na.character
 CancerGram: 1.0.0
+Canek: 0.2.0
 Canopy: 1.3.0
 CarbonEL: 0.1-4
 CarletonStats: '2.0'
@@ -1297,6 +1298,7 @@ DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
 DBItest: 1.7.2
 DBKGrad: '1.7'
+DBR: 1.2.2
 DBfit: '2.0'
 DBpower: 0.1.0
 DCA: '2.0'
@@ -1461,7 +1463,7 @@ DTWBI: '1.1'
 DTWUMI: '1.0'
 DTwrappers: 0.0.2
 DUBStepR: 1.2.0
-DVHmetrics: 0.4.1
+DVHmetrics: 0.4.2
 DWBmodelUN: 1.0.0
 DWD: '0.11'
 DWDLargeR: 0.1-0
@@ -2607,7 +2609,7 @@ HLMdiag: 0.5.0
 HLSM: 0.9.0
 HMB: '1.1'
 HMDHFDplus: 1.9.13
-HMM: '1.0'
+HMM: 1.0.1
 HMMCont: '1.0'
 HMMEsolver: 0.1.2
 HMMcopula: 1.0.4
@@ -3346,7 +3348,7 @@ MARSS: 3.11.4
 MARSSVRhybrid: 0.1.0
 MARVEL: 1.2.1
 MARX: '0.2'
-MASS: 7.3-55
+MASS: 7.3-56
 MASSExtra: 1.1.2
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
@@ -3773,6 +3775,7 @@ MetabolAnalyze: 1.3.1
 MetabolicSurv: 1.1.2
 MetabolomicsBasics: '1.2'
 Metabonomic: '3.5'
+MetaculR: 0.2.0
 Metadata: '1.1'
 MetaheuristicFPA: '1.0'
 MetamapsDB: 0.0.2
@@ -5238,7 +5241,7 @@ RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.1.4
 RSQLServer: 0.3.0
-RSQLite: 2.2.10
+RSQLite: 2.2.11
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.5
 RSSOP: '1.1'
@@ -5548,7 +5551,7 @@ Rdiagnosislist: '1.0'
 Rdice: 1.0.0
 Rdimtools: 1.0.9
 Rdistance: 2.1.3
-Rdpack: '2.2'
+Rdpack: '2.3'
 Rdrools: 1.1.1
 Rdroolsjars: 1.0.1
 Rdrw: 1.0.2
@@ -5628,7 +5631,7 @@ Rexperigen: 0.2.1
 RfEmpImp: 2.1.5
 Rfacebook: 0.6.15
 Rfast: 2.0.6
-Rfast2: 0.1.1
+Rfast2: 0.1.3
 Rfit: 0.24.2
 RfmriVC: '1.0'
 Rfmtool: 4.1.6
@@ -6624,14 +6627,14 @@ TKF: 0.0.8
 TLBC: '1.0'
 TLMoments: 0.7.5.2
 TLdating: 0.1.3
-TMB: 1.8.0
+TMB: 1.8.1
 TMDb: '1.1'
 TMTI: 0.1.0
 TNC: 0.1.0
 TNRS: 0.3.0
 TOC: 0.0-5
 TOHM: '1.4'
-TOSTER: 0.4.0
+TOSTER: 0.4.1
 TP.idm: '1.5'
 TPAM: '1.0'
 TPD: 1.1.0
@@ -6836,7 +6839,7 @@ TreeBUGS: 1.4.7
 TreeDep: 0.1.3
 TreeDiagram: 0.1.1
 TreeDimensionTest: 0.0.2
-TreeDist: 2.3.0
+TreeDist: 2.4.0
 TreeLS: 2.0.2
 TreePar: '3.3'
 TreeRank: 1.1-0
@@ -7315,13 +7318,13 @@ adheRenceRX: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.3
 adiv: 2.1.1
-adjROC: 0.1.0
+adjROC: 0.2.0
 adjSURVCI: '1.0'
 adjclust: 0.6.3
 adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
-adlift: 1.4-1
+adlift: 1.4-2
 admiral: 0.6.3
 admiral.test: 0.1.2
 admisc: '0.26'
@@ -7498,6 +7501,7 @@ animalTrack: 1.0.0
 animaltracker: 0.2.0
 animation: '2.7'
 animint2: 2022.1.25
+animl: 1.0.0
 anipaths: 0.10.1
 aniview: 0.1.0
 anm: 1.1-1
@@ -7745,7 +7749,7 @@ audiometry: 0.3.0
 audit: 0.1-2
 audited: '1.9'
 auditor: 1.3.3
-audrex: 2.0.0
+audrex: 2.0.1
 audubon: 0.1.1
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.5
@@ -7939,7 +7943,7 @@ bayesPop: 9.0-1
 bayesQR: '2.3'
 bayesSurv: '3.3'
 bayesTFR: 7.1-1
-bayesZIB: 0.0.2
+bayesZIB: 0.0.3
 bayesammi: 0.1.0
 bayesanova: '1.5'
 bayesbio: 1.0.0
@@ -8125,7 +8129,7 @@ biasbetareg: '1.0'
 bib2df: 1.1.1
 biblio: 0.0.6
 bibliometrix: 3.2.1
-bibliometrixData: 0.1.0
+bibliometrixData: 0.2.0
 biblionetwork: 0.1.0
 bibliospec: 0.0.4
 bibs: 1.1.1
@@ -8382,7 +8386,7 @@ bnviewer: 0.1.6
 boa: 1.1.8-2
 boclust: 0.1.2
 bodenmiller: 0.1.1
-bodycomp: 0.1.0
+bodycomp: 1.0.0
 boilerpipeR: 1.3.2
 bolasso: 0.1.0
 bold: 1.2.0
@@ -8719,7 +8723,7 @@ categoryEncodings: 1.4.3
 catenary: 1.1.2
 catfun: 0.1.4
 cati: 0.99.4
-catlearn: '0.8'
+catlearn: '0.9'
 catmap: 1.6.4
 catmaply: 0.9.0
 catnet: 1.15.7
@@ -9358,7 +9362,7 @@ conflicted: 1.1.0
 conflr: 0.1.1
 conformal: '0.2'
 conformalClassification: 1.0.0
-conformalInference.fd: 1.1.0
+conformalInference.fd: 1.1.1
 conformalInference.multi: 1.1.1
 conformalbayes: 0.1.0
 confoundr: '1.2'
@@ -9829,7 +9833,7 @@ dPCP: 1.0.4
 dQTG.seq: '1.0'
 dSVA: '1.0'
 dTBM: '2.0'
-daarem: '0.5'
+daarem: '0.7'
 dabestr: 0.3.0
 dabr: 0.0.3
 dad: 4.0.0
@@ -9991,7 +9995,7 @@ dcurver: 0.9.2
 dcurves: 0.2.0
 dcv: 0.1.1
 ddR: '0.1'
-ddalpha: 1.3.12
+ddalpha: 1.3.13
 dde: 1.0.1
 ddeploy: 1.0.4
 ddepn: '2.2'
@@ -10372,7 +10376,7 @@ dma: 1.4-0
 dmacs: 0.1.0
 dmai: 0.4.0
 dmbc: 1.0.0
-dmdScheme: '1.2'
+dmdScheme: 1.3.1
 dml: 1.1.0
 dmlalg: 1.0.2
 dmm: 2.1-7
@@ -11845,7 +11849,7 @@ fspe: 0.1.0
 fsr: 1.0.1
 fssemR: 0.1.8
 fst: 0.9.8
-fstcore: 0.9.10
+fstcore: 0.9.12
 fsthet: 1.0.1
 ftDK: '1.0'
 ftExtra: 0.3.0
@@ -11984,6 +11988,7 @@ gamblers.ruin.gameplay: 4.0.5
 gamboostLSS: 2.0-5
 gamboostMSM: 1.1.87
 gamclass: 0.62.3
+gameR: 0.0.1
 gameofthrones: 1.0.2
 games: 1.1.2
 gamesGA: 1.1.3.7
@@ -12696,7 +12701,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.3.5
-gpboost: 0.7.3
+gpboost: 0.7.3.1
 gpclib: 1.5-6
 gpg: 1.2.6
 gphmm: 0.99.0
@@ -13277,6 +13282,7 @@ hydroToolkit: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.9.3
 hydropeak: 0.1.1
+hydroroute: 0.1.0
 hydrosanity: 0.8.76
 hydroscoper: 1.4.1
 hydrostats: 0.2.8
@@ -13891,7 +13897,7 @@ jmuOutlier: '2.2'
 jmv: '2.0'
 jmvReadWrite: 0.3.1
 jmvconnect: 2.0.0
-jmvcore: '2.2'
+jmvcore: 2.3.3
 job: 0.3.0
 jocre: 0.3.3
 joinXL: 1.0.1
@@ -14185,7 +14191,7 @@ landscapeR: '1.2'
 landscapemetrics: 1.5.4
 landscapetools: 0.5.0
 landsepi: 1.1.2
-langevitour: '0.1'
+langevitour: '0.2'
 languageR: 1.5.0
 languagelayeR: 1.2.4
 languageserver: 0.3.12
@@ -14498,7 +14504,7 @@ lmem.gwaser: 0.1.0
 lmem.qtler: 0.1.1
 lmenssp: '1.2'
 lmerTest: 3.1-3
-lmeresampler: 0.2.0
+lmeresampler: 0.2.1
 lmf: '1.2'
 lmfor: '1.5'
 lmkCHK: 1.0.0
@@ -15598,7 +15604,7 @@ momr: '1.1'
 monaco: 0.2.1
 monashtipr: 0.1.0
 mondate: 0.10.02
-mongolite: 2.4.1
+mongolite: 2.5.0
 mongopipe: 0.1.1
 monitoR: 1.0.7
 monkeylearn: 0.2.0
@@ -15681,7 +15687,7 @@ mppa: '1.0'
 mpr: 1.0.6
 mprobit: '0.9'
 mpspline2: 0.1.3
-mpt: 0.7-0
+mpt: 0.8-0
 mptools: 1.0.1
 mr: '0.1'
 mr.raps: '0.2'
@@ -15937,6 +15943,7 @@ mvord: 1.1.1
 mvoutlier: 2.1.1
 mvp: 1.0-12
 mvpart: 1.6-2
+mvpd: 0.0.1
 mvprpb: 1.0.4
 mvrsquared: 0.1.2
 mvrtn: '1.0'
@@ -16497,7 +16504,7 @@ oem: 2.0.10
 oenb: 0.0.2
 ofGEM: '1.0'
 officedown: 0.2.4
-officer: 0.4.1
+officer: 0.4.2
 offlineChange: 0.0.4
 ofp: 1.0.0
 ofw: 1.0-0
@@ -18129,7 +18136,7 @@ quantdates: '1.0'
 quantdr: 1.2.1
 quanteda: 3.2.1
 quanteda.textmodels: 0.9.4
-quanteda.textplots: '0.94'
+quanteda.textplots: 0.94.1
 quanteda.textstats: '0.95'
 quantification: 0.2.0
 quantileDA: '1.1'
@@ -18198,7 +18205,7 @@ r2pptx: 0.1.0
 r2r: 0.1.1
 r2rtf: 0.3.3
 r2shortcode: '0.1'
-r2spss: 0.3.0
+r2spss: 0.3.1
 r2stl: 1.0.0
 r2sundials: 5.0.0-10
 r2symbols: '0.1'
@@ -18419,7 +18426,7 @@ rangeModelMetadata: 0.1.4
 rangemap: 0.1.18
 rangemodelR: '1.0'
 ranger: 0.13.1
-rankFD: 0.1.0
+rankFD: 0.1.1
 rankUncertainty: 1.0.2.0
 rankdifferencetest: '2021-11-25'
 rankdist: 1.1.4
@@ -19037,7 +19044,7 @@ riskCommunicator: 1.0.0
 riskParityPortfolio: 0.2.2
 riskPredictClustData: 0.2.6
 riskR: '1.1'
-riskRegression: 2022.03.09
+riskRegression: 2022.03.22
 riskSimul: '0.1'
 riskclustr: 0.4.0
 riskmetric: 0.1.2
@@ -19168,7 +19175,7 @@ robFitConGraph: 0.1.0
 robber: 0.2.2
 robcbi: 1.1-3
 robcor: 0.1-6
-robcp: 0.3.3
+robcp: 0.3.4
 roben: 0.1.0
 robeth: 2.7-6
 robets: '1.4'
@@ -19608,6 +19615,7 @@ sae: '1.3'
 sae2: 1.0-1
 saeBest: 0.1.0
 saeHB: 0.2.0
+saeHB.ME: '1.0'
 saeHB.gpois: 0.1.0
 saeHB.hnb: 0.1.0
 saeHB.panel: 0.1.0
@@ -19800,6 +19808,7 @@ scphaser: 1.0.0
 scpi: '0.1'
 scpm: 2.0.0
 scqe: 1.0.0
+scquantum: 1.0.0
 scraEP: '1.2'
 scrapeR: 0.1.6
 scrappy: 0.0.1
@@ -20814,6 +20823,7 @@ spm: 1.2.1
 spm12r: 2.8.3
 spm2: 1.1.2
 spmoran: 0.2.2.2
+spnaf: 0.1.0
 spnet: 0.9.1-0
 spnn: 1.2.1
 spocc: 1.2.0
@@ -21316,6 +21326,7 @@ svgPanZoom: 0.3.4
 svgViewR: 1.4.1
 svglite: 2.1.0
 svgtools: 1.1.0
+svines: 0.1.1
 svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
@@ -22259,7 +22270,7 @@ uniqueAtomMat: 0.1-3-2
 unisensR: 0.3.3
 uniset: 0.2.1
 unitedR: '0.4'
-unitizer: 1.4.17
+unitizer: 1.4.18
 units: 0.8-0
 unittest: 1.4-0
 univOutl: '0.3'
@@ -22476,7 +22487,7 @@ vimcom: 0.9-9
 vimp: 2.2.5
 vimpclust: 0.1.0
 vindecodr: 0.1.1
-vinereg: 0.8.2
+vinereg: 0.8.3
 vines: 1.1.5
 violinmplot: 0.2.1
 violinplotter: 3.0.0
