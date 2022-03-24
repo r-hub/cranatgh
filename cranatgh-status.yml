@@ -1299,7 +1299,7 @@ DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
 DBItest: 1.7.2
 DBKGrad: '1.7'
-DBR: 1.2.2
+DBR: 1.2.3
 DBfit: '2.0'
 DBpower: 0.1.0
 DCA: '2.0'
@@ -1426,7 +1426,7 @@ DRHotNet: '2.0'
 DRI: '1.1'
 DRIP: '1.6'
 DRR: 0.0.4
-DRaWR: 1.0.1
+DRaWR: 1.0.3
 DRomics: 2.4-0
 DRviaSPCN: 0.1.2
 DSAIDE: 0.9.3
@@ -2446,7 +2446,7 @@ Geneclust: 1.0.1
 Geneland: 4.0.6
 GeneralOaxaca: '1.0'
 GeneralTree: 0.0.1
-GeneralisedCovarianceMeasure: 0.1.0
+GeneralisedCovarianceMeasure: 0.2.0
 GeneralizedHyperbolic: 0.8-4
 GeneralizedUmatrix: 1.2.2
 GenericML: 0.1.1
@@ -3289,6 +3289,7 @@ LncPath: '1.1'
 LncPriCNet: '1.0'
 LoBrA: '1.0'
 LocFDRPois: 1.0.0
+LocKer: '1.0'
 LocalControl: 1.1.2.2
 LocalControlStrategy: 1.3.3
 Lock5Data: 3.0.0
@@ -7329,7 +7330,7 @@ adlift: 1.4-2
 admiral: 0.6.3
 admiral.test: 0.1.2
 admisc: '0.26'
-admix: 0.3.2
+admix: 0.4.0
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
@@ -7405,7 +7406,7 @@ airqualityES: 1.0.0
 airr: 1.3.0
 airt: 0.2.1
 ajv: 1.0.0
-akc: 0.9.6
+akc: 0.9.7
 akiFlagger: 0.3.0
 akima: 0.6-2.3
 akmbiclust: 0.1.0
@@ -8092,7 +8093,7 @@ betadiv: 1.0.1
 betafam: '1.0'
 betafunctions: 1.6.1
 betalink: 2.2.1
-betapart: 1.5.4
+betapart: 1.5.5
 betaper: 1.1-2
 betareg: 3.1-4
 betas: 0.1.1
@@ -9565,7 +9566,7 @@ cpi: 0.1.4
 cpk: 1.3-1
 cplexAPI: 1.4.0
 cplm: 0.7-9
-cplots: 0.4-0
+cplots: 0.5-0
 cpm: '2.3'
 cpop: 1.0.0
 cpp11: 0.4.2
@@ -10118,7 +10119,7 @@ description: 1.0.0
 descriptr: 0.5.2
 descstat: 0.1-2
 descstatsr: 0.1.0
-desctable: 0.1.9
+desctable: 0.3.0
 deseasonalize: '1.35'
 desiR: 1.2.2
 designGG: '1.1'
@@ -10541,7 +10542,7 @@ dstack: 0.2.1
 dstat: 1.0.4
 dtables: 0.2.0
 dtangle: 2.0.9
-dtgiw: 0.1.0
+dtgiw: 0.1.1
 dti: 1.5.1
 dtp: 0.1.0
 dtpcrm: 0.1.1
@@ -10949,7 +10950,7 @@ envDocument: 2.4.1
 envalysis: 0.5.1
 envelope: '1.0'
 enveomics.R: 1.8.0
-envi: 0.1.11
+envi: 0.1.13
 enviGCMS: 0.6.6
 enviPat: '2.4'
 enviPick: '1.5'
@@ -11334,7 +11335,7 @@ fanc: '2.2'
 fancycut: 0.1.2
 fanovaGraph: '1.5'
 fanplot: 4.0.0
-fansi: 1.0.2
+fansi: 1.0.3
 faoutlier: 0.7.6
 faq: 0.1.1
 far: 0.6-5
@@ -12733,7 +12734,7 @@ gradDescentR: .na.character
 grade: 0.2-1
 gradeR: 1.0.10
 gradientPickerD3: 0.1.0.0
-grafify: 2.1.0
+grafify: 2.2.0
 grainchanger: 0.3.2
 grainscape: 0.4.3
 gramEvol: 2.1-4
@@ -13216,7 +13217,7 @@ hsicCCA: '1.0'
 hsm: 0.2.0
 hsmm: '0.4'
 hsphase: 2.0.2
-hsrecombi: 0.3.4
+hsrecombi: 0.4.1
 hsstan: 0.8.1
 htdp: 0.1.4
 htestClust: 0.2.1
@@ -14611,7 +14612,7 @@ longmemo: 1.1-2
 longmixr: 1.0.0
 longpower: 1.0.23
 longurl: 0.3.3
-loo: 2.5.0
+loo: 2.5.1
 lookout: 0.1.0
 lookup: '1.0'
 lookupTable: '0.1'
@@ -19841,7 +19842,7 @@ sdcHierarchies: 0.19.2
 sdcLog: 0.5.0
 sdcMicro: 5.6.1
 sdcMicroGUI: 1.4.0
-sdcSpatial: 0.1.1
+sdcSpatial: 0.5.2
 sdcTable: 0.32.2
 sdcTarget: 0.9-11
 sddpack: '0.9'
@@ -20346,6 +20347,7 @@ sisal: '0.48'
 sisireg: 1.0.0
 sismonr: 2.1.0
 sistec: 0.2.0
+sistmr: 0.1.1
 sisus: 3.9-13
 sitar: 1.2.0
 siteymlgen: 1.0.0
@@ -21197,7 +21199,7 @@ sudokuplus: '1.0'
 sugaR: 0.0-5
 sugarbag: 0.1.3
 sugrrants: 0.2.8
-sumFREGAT: 1.2.3
+sumFREGAT: 1.2.4
 sumR: 0.4.6
 sumSome: 1.1.0
 summariser: 2.3.0
@@ -21291,7 +21293,7 @@ survivalMPL: 0.2-1
 survivalMPLdc: 0.1.1
 survivalREC: '1.0'
 survivalROC: 1.0.3
-survivalmodels: 0.1.12
+survivalmodels: 0.1.13
 survivalsvm: 0.0.5
 survivoR: 0.9.12
 survminer: 0.4.9
@@ -22221,7 +22223,7 @@ ucie: 1.0.1
 uclust: 1.0.0
 ucminf: 1.1-4
 udapi: 0.1.3
-udpipe: 0.8.8
+udpipe: 0.8.9
 udunits: '1.3'
 udunits2: 0.13.2.1
 ufRisk: 1.0.3
@@ -22368,7 +22370,7 @@ valhallr: 0.1.0
 validaRA: 0.1.1
 validann: 1.2.1
 validata: 0.1.0
-validate: 1.1.0
+validate: 1.1.1
 validateRS: 1.0.0
 validatedb: 0.1.4
 validatejsonr: 1.0.4
@@ -22736,6 +22738,7 @@ widgetframe: 0.3.1
 widyr: 0.1.4
 wiesbaden: 1.2.5
 wig: 0.1.0
+wikiTools: 0.0.6
 wikibooks: '0.2'
 wikifacts: 0.4.2
 wikilake: 0.6.0
