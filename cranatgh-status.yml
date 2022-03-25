@@ -83,7 +83,7 @@ AMModels: 0.1.4
 AMOEBA: '1.1'
 AMORE: 0.2-9
 AMPLE: 1.0.0
-AMR: 1.8.0
+AMR: 1.8.1
 ANLP: '1.3'
 ANN: '0.1'
 ANN2: 2.3.4
@@ -283,7 +283,7 @@ AutoStepwiseGLM: 0.2.0
 Autoplotprotein: '1.1'
 AutoregressionMDE: '1.0'
 Autoseed: 0.1.0
-AvInertia: 0.0.1
+AvInertia: 0.0.2
 AzureAppInsights: 0.3.0
 AzureAuth: 1.3.3
 AzureCognitive: 1.0.1
@@ -450,7 +450,7 @@ BPEC: 1.3.1
 BPHO: 1.3-0
 BPM: 1.0.0
 BPmodel: 1.1.2
-BRACoD.R: 0.0.1.2
+BRACoD.R: 0.0.2.0
 BRDT: 0.1.0
 BRETIGEA: 1.0.3
 BRINDA: 0.1.3
@@ -2323,7 +2323,7 @@ GORCure: '2.0'
 GOSim: '1.2'
 GOplot: 1.0.2
 GOsummaries: '1.1'
-GOxploreR: 1.2.4
+GOxploreR: 1.2.5
 GPArotation: 2014.11-1
 GPB: '1.2'
 GPBayes: 0.1.0-3
@@ -2382,7 +2382,7 @@ GSSE: '0.1'
 GSelection: 0.1.0
 GSparO: '1.0'
 GUIDE: 1.2.7
-GUILDS: 1.4.4
+GUILDS: 1.4.5
 GUIProfiler: 2.0.1
 GUIgems: '0.1'
 GUTS: 1.2.3
@@ -4403,13 +4403,13 @@ PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.17-0
 PNADcIBGE: 0.7.0
-PNSIBGE: 0.1.6
+PNSIBGE: 0.1.7
 PNWColors: 0.1.0
 PO.EN: '1.0'
 POCRE: 0.6.0
 POD: 1.2.0
 POET: '2.0'
-POFIBGE: 0.1.5
+POFIBGE: 0.1.6
 POINT: '1.1'
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
@@ -5038,7 +5038,7 @@ RInSp: 1.2.4
 RInno: 1.0.1
 RInside: 0.2.16
 RItools: 0.1-18
-RJDBC: 0.2-8
+RJDBC: 0.2-10
 RJDemetra: 0.2.0
 RJSDMX: 2.3-3
 RJSONIO: 1.3-1.6
@@ -5362,7 +5362,7 @@ RandPro: 0.2.2
 RandVar: 1.2.1
 RandomCoefficients: 0.0.2
 RandomFields: 3.3.14
-RandomFieldsUtils: 1.1.0
+RandomFieldsUtils: 1.2.2
 RandomForestsGLS: 0.1.3
 Randomuseragent: 0.0.1
 RanglaPunjab: 2.3.4
@@ -5945,7 +5945,7 @@ SEL: 1.0-2
 SELF: 0.1.1
 SEMID: 0.4.0
 SEMModComp: '1.0'
-SEMgraph: 1.0.5
+SEMgraph: 1.1.0
 SEMrushR: 0.1.0
 SEMsens: 1.0.2
 SETPath: '1.0'
@@ -7090,7 +7090,7 @@ WebGestaltR: 0.4.4
 WebPower: '0.6'
 WeedMap: '0.1'
 WeibullFit: 0.1.0
-WeibullR: 1.1.5
+WeibullR: 1.1.10
 WeightIt: 0.12.0
 WeightSVM: 1.7-9
 Weighted.Desc.Stat: '1.0'
@@ -7360,6 +7360,7 @@ afpt: 1.1.0.1
 after: 1.0.0
 aftgee: 1.1.6
 afthd: 1.1.0
+ag5Tools: 0.0.1
 agRee: 0.5-3
 agce: '1.2'
 ageprior: 0.9.2
@@ -9071,7 +9072,7 @@ clockify: 0.0.9
 clogitL1: '1.5'
 clogitLasso: '1.1'
 clogitboost: '1.1'
-clordr: 1.6.0
+clordr: 1.7.0
 cloudRmpi: '1.2'
 cloudRmpiJars: '1.1'
 cloudSimplifieR: 0.1.9
@@ -10858,7 +10859,7 @@ elementR: 1.3.7
 elevatr: 0.4.2
 elexr: '1.0'
 elfDistr: 1.0.0
-elfgen: 2.2.3
+elfgen: 2.2.7
 elhmc: 1.1.0
 elisr: 0.1.1
 elitism: 1.0.4
@@ -11494,7 +11495,7 @@ ffbase: 0.13.3
 fflr: 2.0.2
 ffmanova: 1.1.0
 ffmetadata: 1.0.0
-ffp: 0.2.0
+ffp: 0.2.1
 ffscrapr: 1.4.7
 ffsimulator: 1.2.0
 ffstream: 0.1.6
@@ -11552,7 +11553,7 @@ findR: 0.2.1
 findpython: 1.0.7
 findviews: 0.1.3
 finebalance: '1.0'
-finetune: 0.1.1
+finetune: 0.2.0
 fingerPro: '1.1'
 fingerprint: 3.5.7
 fingertipsR: 1.0.5
@@ -14130,7 +14131,7 @@ ksharp: 0.1.0.1
 ksrlive: '1.0'
 kst: 0.5-2
 kstIO: 0.3-0
-kstMatrix: 0.1-2
+kstMatrix: 0.1-3
 ktaucenters: 0.1.0
 ktsolve: '1.3'
 ktspair: '1.0'
@@ -17083,10 +17084,10 @@ pdp: 0.7.0
 pdqr: 0.3.0
 pds3: 0.5.0
 pdxTrees: 0.4.0
-pdynmc: 0.9.6
+pdynmc: 0.9.7
 peRiodiCS: 0.5.0
 peRspective: 0.1.1
-peacesciencer: 0.7.0
+peacesciencer: 1.0.0
 peacots: '1.3'
 peakPantheR: 1.2.0
 peakPick: '0.11'
@@ -17467,7 +17468,7 @@ pluralize: 0.2.0
 plus: '1.0'
 pluscode: 0.1.0
 plusser: 0.4-0
-plyr: 1.8.6
+plyr: 1.8.7
 pm4py: 1.2.7
 pmap: 0.6.0
 pmatch: 0.1.4
@@ -19910,7 +19911,7 @@ segclust: '0.76'
 segclust2d: 0.3.0
 segmag: 1.2.4
 segmenTier: 0.1.2
-segmented: 1.4-0
+segmented: 1.4-1
 segmentr: 0.2.0
 segmetric: 0.1.0
 segregation: 0.6.0
@@ -21497,7 +21498,7 @@ taxalight: 0.1.5
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.2
-taxonbridge: 1.0.4
+taxonbridge: 1.0.5
 taxonomizr: 0.8.0
 taxotools: 0.0.79
 tayloRswift: 0.1.0
