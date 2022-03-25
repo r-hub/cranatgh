@@ -126,7 +126,8 @@ push_to_github <- function(package, forced_push = FALSE) {
   add_gh_remote(package)
 
   proc <- cli_process_start("Pushing {.pkg {package}} to GitHub")
-  git("push", "--tags", if (forced_push) "-f", "-u", "origin", "master")
+  current <- sub("* ", "", fixed = TRUE, system("git branch", intern = TRUE))
+  git("push", "--tags", if (forced_push) "-f", "-u", "origin", current)
   cli_process_done(proc)
 }
 
