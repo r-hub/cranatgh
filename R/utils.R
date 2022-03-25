@@ -50,6 +50,8 @@ fix_maintainer <- function(maint, auth) {
   ## ': start of single quote for the rest of the string
   maint <- gsub("'", paste0("'", '"', "'", '"', "'"), maint)
 
+  if (is.na(maint)) maint <- "??? <???@???>"
+  if (!grepl("<.*>", maint)) maint <- paste0(maint, " <???@???>")
   if (toupper(maint) == "ORPHANED") maint <- "ORPHANED <cran@R-project.org>"
   maint
 }
