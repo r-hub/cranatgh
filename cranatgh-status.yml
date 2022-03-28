@@ -732,7 +732,7 @@ BullsEyeR: 0.2.0
 BurStFin: '1.02'
 BurStMisc: '1.1'
 BusinessDuration: 0.2.0
-BuyseTest: 2.3.10
+BuyseTest: 2.3.11
 Bvalue: '1.0'
 BwQuant: 0.1.0
 C443: 3.2.3
@@ -1445,7 +1445,7 @@ DSpoty: 0.1.0
 DSsim: 1.1.5
 DStree: '1.0'
 DSviaDRM: '1.0'
-DT: '0.21'
+DT: '0.22'
 DTAT: 0.3-4
 DTAXG: 0.1.0
 DTAplots: 1.0.2.5
@@ -2382,6 +2382,7 @@ GSODR: 3.1.4
 GSSE: '0.1'
 GSelection: 0.1.0
 GSparO: '1.0'
+GTDL: 1.0.0
 GUIDE: 1.2.7
 GUILDS: 1.4.5
 GUIProfiler: 2.0.1
@@ -2974,6 +2975,7 @@ JBTools: 0.7.2.9
 JBrowseR: 0.9.0
 JCRImpactFactor: 1.0.0
 JFE: 2.5.2
+JFM: '1.0'
 JGEE: '1.1'
 JGL: 2.3.1
 JGR: 1.9-1
@@ -3138,7 +3140,7 @@ LGEWIS: '1.1'
 LGRF: '1.0'
 LGS: '0.91'
 LHD: 1.3.3
-LIC: 0.0.1
+LIC: 0.0.2
 LICORS: 0.2.0
 LICurvature: 0.1.1
 LIHKGr: 0.1.0
@@ -3155,7 +3157,7 @@ LLdecomp: '1.0'
 LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.1.0
-LMMsolver: 1.0.0
+LMMsolver: 1.0.1
 LMMstar: 0.5.4
 LMN: 1.1.2
 LMest: 3.0.3
@@ -3846,7 +3848,7 @@ MixtureRegLTIC: 1.0.0
 MlBayesOpt: 0.3.4
 MmgraphR: '0.3'
 MoBPS: 1.6.64
-MoEClust: 1.4.2
+MoEClust: 1.5.0
 MoLE: 1.0.1
 MoMPCA: 1.0.1
 MoTBFs: '1.4'
@@ -4454,7 +4456,7 @@ PROsetta: 0.3.5
 PRP: 0.1.1
 PRROC: 1.3.1
 PRSPGx: 0.1.0
-PRSim: 1.3-1
+PRSim: 1.4-1
 PReMiuM: 3.2.7
 PResiduals: 1.0-1
 PSAboot: '1.1'
@@ -6257,6 +6259,7 @@ ShapeSelectForest: '1.4'
 ShapleyValue: 0.2.0
 SharedHT2: '2.0'
 SharpeR: 1.3.0
+SheetReader: 1.0.1
 ShellChron: 0.4.0
 ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.0.1
@@ -7266,7 +7269,7 @@ activityCounts: 0.1.2
 activityGCMM: 1.1.1
 activpalProcessing: '1.0'
 actogrammr: 0.2.3
-actuar: 3.2-1
+actuar: 3.2-2
 actuaryr: 1.1.1
 acumos: 0.4-4
 ada: 2.0-5
@@ -7570,7 +7573,7 @@ apollo: 0.2.7
 apparent: '1.1'
 appell: 0.0-4
 apple: '0.3'
-appler: 0.1.2
+appler: 0.1.3
 applicable: 0.0.1.2
 appnn: 1.0-0
 approxOT: 1.0.2
@@ -7854,7 +7857,7 @@ backtestGraphics: 0.1.6
 bacondecomp: 0.1.1
 bacr: 1.0.1
 badgecreatr: 0.2.0
-badger: 0.1.0
+badger: 0.2.0
 bagRboostR: 0.0.2
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
@@ -7922,6 +7925,7 @@ batchr: 0.0.2
 batchscr: 0.1.0
 batchtma: 0.1.6
 batchtools: 0.9.15
+bate: 0.1.0
 batman: 0.1.0
 bats: 0.1-3
 batteryreduction: 0.1.1
@@ -7972,7 +7976,7 @@ bayesmeta: '3.0'
 bayesmix: 0.7-5
 bayesmodels: 0.1.1
 bayesmove: 0.2.1
-bayesnec: 2.0.2
+bayesnec: 2.0.2.3
 bayespack: 1.0-2
 bayesplay: 0.9.2
 bayesplot: 1.9.0
@@ -8315,7 +8319,7 @@ biwt: '1.0'
 bizdays: 1.0.9
 bizicount: 1.0.0
 bjscrapeR: 0.1.0
-bkmr: 0.2.1
+bkmr: 0.2.2
 bkmrhat: 1.1.2
 blackbox: 1.1.32
 blaise: 1.3.8
@@ -8510,8 +8514,8 @@ brolgar: 0.1.2
 broman: '0.76'
 broom: 0.7.12
 broom.helpers: 1.6.0
-broom.mixed: 0.2.7
-broomExtra: 4.3.0
+broom.mixed: 0.2.9.3
+broomExtra: 4.3.1
 brotli: '1.2'
 brr: 1.0.0
 brranching: 0.7.0
@@ -8595,7 +8599,7 @@ c3net: 1.1.1
 cAIC4: '1.0'
 cIRT: 1.3.2
 cMonkey: 4.9.2
-cNORM: 2.1.0
+cNORM: 3.0.0
 cOde: 1.1.1
 cPCG: '1.0'
 cPseudoMaRg: 1.0.1
@@ -9870,7 +9874,7 @@ dapr: 0.0.3
 daqapo: 0.3.1
 darch: '0.9'
 darksky: 1.3.0
-dartR: 1.9.9.1
+dartR: 2.0.3
 darts: '1.0'
 dash: 0.9.3
 dashCoreComponents: 1.10.0
@@ -11186,7 +11190,7 @@ experDesign: 0.1.0
 experiment: 1.2.0
 experimentr: 0.1.0
 expert: 1.0-0
-expint: 0.1-6
+expint: 0.1-7
 expirest: 0.1.2
 explor: 0.3.9
 exploratory: 0.3.13
@@ -11496,7 +11500,7 @@ fetchR: 2.1-1
 ff: 4.0.5
 ffbase: 0.13.3
 fflr: 2.0.2
-ffmanova: 1.1.0
+ffmanova: 1.1.1
 ffmetadata: 1.0.0
 ffp: 0.2.1
 ffscrapr: 1.4.7
@@ -13446,7 +13450,7 @@ idbg: '1.0'
 idbr: '1.0'
 idealstan: 0.7.2
 ideamdb: 0.0.9
-idefix: 1.0.1
+idefix: 1.0.3
 idem: '5.1'
 idendr0: 1.5.3
 identifyr: '0.1'
@@ -14886,6 +14890,7 @@ mashr: 0.2.57
 maskRangeR: '1.0'
 mason: 0.3.0
 masscor: 0.0.7.1
+massiveGST: '1.0'
 mastif: 1.0.1
 matR: 0.9.1
 matahari: 0.1.3
@@ -15193,6 +15198,7 @@ methcon5: 0.1.0
 metools: 1.0.0
 metricTester: 1.3.6
 metricsgraphics: 0.9.0
+metrix: 1.0.0
 metro: 0.9.1
 metropolis: 0.1.8
 metrumrg: '5.5'
@@ -15305,7 +15311,7 @@ mimi: 0.2.0
 mimsy: 0.6.2
 minMSE: 0.5.1
 minPtest: '1.7'
-minSNPs: 0.0.1
+minSNPs: 0.0.2
 mind: 0.1.5
 mindicador: 0.1.5
 mindr: 1.3.2
@@ -16157,7 +16163,7 @@ newscatcheR: 0.1.0
 newsmap: 0.7.4
 newsmd: 0.4.0
 nfda: '0.2'
-nfer: 1.0.1
+nfer: 1.1.0
 nfl4th: 1.0.1
 nflfastR: 4.3.0
 nflplotR: 1.0.0
@@ -17266,7 +17272,7 @@ photobiologyWavebands: 0.4.5
 photosynthesis: 2.0.1
 phpSerialize: '0.8'
 phrasemachine: 1.1.2
-phreeqc: 3.6.3
+phreeqc: 3.7.4
 phtt: '3.1'
 phuassess: '1.1'
 phull: 0.2-1
@@ -17368,7 +17374,7 @@ pkggraph: 0.2.3
 pkglite: 0.2.0
 pkgload: 1.2.4
 pkgmaker: 0.32.2
-pkgndep: 1.1.2
+pkgndep: 1.1.3
 pkgnet: 0.4.2
 pkgnews: 0.0.2
 pkgsearch: 3.1.0
@@ -17717,6 +17723,7 @@ predictionInterval: 1.0.0
 predictmeans: 1.0.6
 predictoR: 2.0.5
 predictrace: 2.0.0
+predieval: 0.1.0
 predint: 1.0.0
 predkmeans: 0.1.1
 predmixcor: '1.1'
@@ -19899,7 +19906,7 @@ see: 0.6.9
 seeclickfixr: 1.1.0
 seecolor: 0.1.0
 seedCCA: '3.0'
-seededlda: 0.8.0
+seededlda: 0.8.1
 seedr: 0.3.0
 seedreg: 1.0.2
 seeds: 0.9.1
@@ -20626,7 +20633,7 @@ spacodiR: 0.13.0115
 spacom: 1.0-5
 spacyr: 1.2.1
 spaero: 0.6.0
-spagmix: 0.3-4
+spagmix: 0.3-5
 spam: 2.8-0
 spam64: 2.8-0
 spamtree: 0.2.2
@@ -21336,7 +21343,7 @@ svgPanZoom: 0.3.4
 svgViewR: 1.4.1
 svglite: 2.1.0
 svgtools: 1.1.0
-svines: 0.1.1
+svines: 0.1.3
 svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
@@ -22102,7 +22109,7 @@ tsdf: 1.1-8
 tsdisagg2: 0.1.0
 tsensembler: 0.1.0
 tsentiment: 1.0.4
-tseries: 0.10-49
+tseries: 0.10-50
 tseriesChaos: 0.1-13.1
 tseriesEntropy: 0.6-0
 tsfa: 2021.1-3
@@ -22119,7 +22126,7 @@ tsintermittent: '1.9'
 tslars: '1.0'
 tsmp: 0.4.14
 tsna: 0.3.5
-tsne: 0.1-3
+tsne: 0.1-3.1
 tsnetwork: '1.2'
 tsoutliers: 0.6-8
 tspmeta: '1.2'
@@ -22209,7 +22216,7 @@ txtq: 0.2.4
 typed: 0.0.1
 typehint: 0.1.2
 types: 1.0.0
-tzdb: 0.2.0
+tzdb: 0.3.0
 tzupdater: 0.1.2
 u5mr: 0.1.1
 uCAREChemSuiteCLI: 0.2.0
