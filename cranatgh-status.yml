@@ -194,7 +194,7 @@ AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
 AgroR: 1.2.8
-AgroReg: 1.2.1
+AgroReg: 1.2.2
 AgroTech: 1.0.1
 AhoCorasickTrie: 0.1.2
 AirSensor: 1.0.8
@@ -1398,6 +1398,7 @@ DNMF: '1.3'
 DNetFinder: '1.0'
 DOBAD: 1.0.6
 DODR: 0.99.2
+DOEM: 0.0.0.1
 DOPE: 2.1.0
 DOS: 1.0.0
 DOS2: 0.5.2
@@ -4341,7 +4342,7 @@ PCS: '1.2'
 PCSinR: 0.1.0
 PCovR: 2.7.1
 PDE: 1.4.0
-PDFEstimator: '3.2'
+PDFEstimator: 3.2.1
 PDM: '0.1'
 PDMIF: 0.1.0
 PDN: 0.1.0
@@ -4402,6 +4403,7 @@ PLSbiplot1: '0.1'
 PLSiMCpp: 1.0.1
 PLmixed: 0.1.5
 PLordprob: '1.1'
+PLreg: 0.2.0
 PMA: 1.2.1
 PMCMR: '4.4'
 PMCMRplus: 1.9.3
@@ -4865,9 +4867,9 @@ RAEN: '0.2'
 RAFM: '1.1'
 RAHRS: 1.0.2
 RAINBOWR: 0.1.29
-RALSA: 1.1.0
+RALSA: 1.1.5
 RAM: 1.2.1.7
-RAMClustR: 1.2.2
+RAMClustR: 1.2.3
 RAMP: 2.0.2
 RAMpath: '0.4'
 RANKS: '1.0'
@@ -5939,7 +5941,7 @@ SDisc: '1.24'
 SDraw: 2.1.8
 SE.EQ: '1.0'
 SE.IGE: '1.0'
-SEA: '2.0'
+SEA: 2.0.1
 SEAA: 0.9.6
 SEAGLE: 1.0.1
 SEAsic: '0.1'
@@ -6168,7 +6170,7 @@ SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.4.1
 SWMPrExtension: 2.2.0
-SWTools: 0.2.3.0
+SWTools: 0.2.3.1
 SWordInstaller: 1.0-2
 SYNCSA: 1.3.4
 Sabermetrics: '2.0'
@@ -7464,7 +7466,7 @@ altair: 4.2.1
 alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '4.0'
-amanida: 0.2.2
+amanida: 0.2.3
 amanpg: 0.3.3
 amap: 0.8-18
 amapGeocode: 0.6.0
@@ -8808,7 +8810,7 @@ cder: 0.2-2
 cdfquantreg: 1.3.0
 cdlTools: '0.15'
 cdlei: '1.0'
-cdmTools: 1.0.0
+cdmTools: 1.0.1
 cdom: 0.1.0
 cdparcoord: 1.0.1
 cdrcR: 0.0.1
@@ -8850,7 +8852,7 @@ cents: 0.1-41
 cepR: 0.1.2
 cepiigeodist: '0.1'
 cepp: '1.7'
-cepreader: 1.2-0
+cepreader: 1.2-1
 ceramic: 0.6.0
 cernn: '0.1'
 cesR: 0.1.0
@@ -9527,7 +9529,7 @@ covTest: '1.0'
 covTestR: 0.1.4
 covafillr: 0.4.4
 covatest: 1.2.0
-coveffectsplot: 1.0.0
+coveffectsplot: 1.0.1
 covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.3
@@ -9944,7 +9946,7 @@ datasus: 0.4.1
 datautils: 0.1.5
 dataverse: 0.3.10
 dataview: 2.1.1
-datawizard: 0.3.0
+datawizard: 0.4.0
 datazoom.amazonia: 0.2.0
 date: 1.2-39
 datefixR: 0.1.4
@@ -10435,7 +10437,7 @@ docstring: 1.0.0
 doctr: 0.2.0
 docuSignr: 0.0.3
 documair: 0.6-0
-document: 3.3.2
+document: 3.3.3
 documenter: 0.1.1
 docxtools: 0.2.2
 docxtractr: 0.6.5
@@ -12874,7 +12876,7 @@ gscounts: 0.1-4
 gset: 1.1.0
 gsg: '2.0'
 gsheet: 0.4.5
-gsignal: 0.3-2
+gsignal: 0.3-3
 gsisdecoder: 0.0.1
 gskat: '1.0'
 gsl: 2.1-7.1
@@ -13784,7 +13786,7 @@ irtDemo: 0.1.4
 irtGUI: '0.2'
 irtProb: '1.2'
 irtoys: 0.2.1
-irtplay: 1.6.3
+irtplay: 1.6.4
 irtrees: 1.0.0
 irtreliability: 0.1-1
 isa2: 0.3.5
@@ -14787,7 +14789,7 @@ magma: 1.3.0-2
 magmaR: 1.0.2
 magnets: '0.2'
 magree: '1.1'
-magrittr: 2.0.2
+magrittr: 2.0.3
 maic: 0.1.3
 maicChecks: 0.1.2
 mail: '1.0'
@@ -15321,7 +15323,7 @@ mimsy: 0.6.2
 minMSE: 0.5.1
 minPtest: '1.7'
 minSNPs: 0.0.2
-mind: 0.1.5
+mind: 0.1.6
 mindicador: 0.1.5
 mindr: 1.3.2
 mineCitrus: 1.0.0
@@ -15650,6 +15652,7 @@ moonsun: '0.1'
 mopa: 1.0.1
 mopac: 0.1.0
 mopsocd: 0.5.1
+moranajp: 0.9.3
 moreparty: 0.2.1
 morgenstemning: '1.0'
 morph: 1.0.0
@@ -15778,7 +15781,7 @@ msgr: 1.1.2
 msgtools: 0.2.7
 mshap: 0.1.0
 msig: '1.0'
-msigdbr: 7.4.1
+msigdbr: 7.5.1
 msir: 1.3.3
 msltrend: '1.0'
 msm: 1.6.9
@@ -16610,7 +16613,7 @@ openSTARS: 1.2.3
 openSkies: 1.1.6
 openVA: 1.0.14
 openadds: 0.2.0
-openair: 2.9-0
+openair: 2.9-1
 openbankeR: 0.1.1
 openblender: 0.5.81
 opencage: 0.2.2
@@ -17130,7 +17133,7 @@ pedometrics: 0.7.0
 pedprobr: 0.6.1
 pedquant: 0.1.8
 pedsuite: 1.1.0
-pedtools: 1.1.0
+pedtools: 1.2.0
 peermodels: 0.10.3
 pegas: '1.1'
 pema: 0.1.0
@@ -17165,7 +17168,7 @@ perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
 perfectphyloR: 0.2.1
-performance: 0.8.0
+performance: 0.9.0
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 1.0.1
@@ -17712,7 +17715,7 @@ prc: 2019.1-23
 prcbench: 1.0.2
 prclust: '1.3'
 prcr: 0.2.1
-pre: 1.0.3
+pre: 1.0.4
 preText: 0.6.2
 precautionary: 0.2.6
 precintcon: 2.3.0
@@ -19200,7 +19203,7 @@ robFitConGraph: 0.1.0
 robber: 0.2.2
 robcbi: 1.1-3
 robcor: 0.1-6
-robcp: 0.3.4
+robcp: 0.3.5
 roben: 0.1.0
 robeth: 2.7-6
 robets: '1.4'
@@ -19750,7 +19753,7 @@ sbrl: '1.2'
 sbtools: 1.1.17
 sbw: 1.1.5
 scBio: 0.1.6
-scCAN: 1.0.2
+scCAN: 1.0.3
 scCATCH: '3.0'
 scDHA: 1.1.2
 scDIFtest: 0.1.1
@@ -19972,6 +19975,7 @@ semdiag: 0.1.2
 semdrw: 0.1.0
 semds: 0.9-6
 semiArtificial: 2.4.1
+semicmprskcoxmsm: 0.1.0
 seminr: 2.3.0
 semisupKernelPCA: 0.1.5
 semmcmc: 0.0.6
@@ -20482,7 +20486,7 @@ smnet: 2.1.2
 smog: 2.1.0
 smoke: 2.0.0
 smoof: 1.6.0.2
-smooth: 3.1.5
+smooth: 3.1.6
 smoothAPC: '0.3'
 smoothHR: 1.0.3
 smoothROCtime: 0.1.0
@@ -20653,7 +20657,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 1.19.0
+spant: 1.20.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -20738,7 +20742,7 @@ spatstat.geom: 2.4-0
 spatstat.gui: 2.0-1
 spatstat.linnet: 2.3-2
 spatstat.local: 4.1-4
-spatstat.random: 2.1-0
+spatstat.random: 2.2-0
 spatstat.sparse: 2.1-0
 spatstat.utils: 2.3-0
 spatsurv: '1.7'
@@ -21683,7 +21687,7 @@ thectar: 1.0.0
 theiaR: 0.4.0
 thematic: 0.1.2.1
 themetagenomics: 1.0.2
-themis: 0.1.4
+themis: 0.2.0
 thermocouple: 1.0.2
 theseus: 0.1.0
 thestats: 0.1.0
@@ -22148,7 +22152,7 @@ tsqn: 1.0.0
 tsriadditive: 1.0.0
 tsrobprep: 0.3.2
 tssim: 0.1.7
-tstools: 0.3.8
+tstools: 0.4.1
 tsutils: 0.9.2
 tsviz: 0.1.0
 tsvr: 1.0.2
@@ -22462,7 +22466,7 @@ vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.0.2
 vcrpart: 1.0-4
-vctrs: 0.3.8
+vctrs: 0.4.0
 vcvComp: 1.0.2
 vdar: 0.1.3-2
 vdg: 1.2.1
