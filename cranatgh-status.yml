@@ -605,7 +605,7 @@ Bessel: 0.6-0
 Bestie: 0.1.4
 BetaBit: '1.4'
 BetaPASS: 1.1-1
-BetterReg: 0.1.0
+BetterReg: 0.2.0
 BeviMed: '5.8'
 BeyondBenford: '1.4'
 Bhat: 0.9-10
@@ -871,7 +871,7 @@ CNLTtsa: 0.1-2
 CNOGpro: '1.1'
 CNPS: 1.0.0
 CNVRG: 1.0.0
-CNVScope: 3.6.0
+CNVScope: 3.7.2
 CNVassoc: '2.2'
 CNVassocData: '1.0'
 CNprep: '2.0'
@@ -1161,6 +1161,7 @@ ConR: 1.3.0
 ConSpline: '1.2'
 Conake: '1.0'
 ConcordanceTest: 1.0.0
+CondCopulas: 0.1.1
 CondIndTests: 0.1.5
 CondReg: '0.20'
 CondiS: 0.1.1
@@ -1200,6 +1201,7 @@ CopyDetect: '1.3'
 CopyNumber450kCancer: 1.0.4
 CorBin: 1.0.0
 CorDiff: '1.0'
+CorMID: 0.1.4
 CorReg: 1.2.8
 CorShrink: 0.1-6
 Corbi: 0.6-1
@@ -1777,6 +1779,7 @@ ETAS: 0.4.9
 ETC: '1.5'
 ETLUtils: '1.5'
 EVER: '1.2'
+EVI: 0.1.1-4
 EValue: 4.1.3
 EW: '1.1'
 EWGoF: 2.2.2
@@ -3403,7 +3406,7 @@ MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
 MCMCglmm: '2.33'
 MCMChybridGP: '5.4'
-MCMCpack: 1.6-1
+MCMCpack: 1.6-2
 MCMCprecision: 0.4.0
 MCMCtGARCH: '1.0'
 MCMCtGARCHM: '1.0'
@@ -4173,6 +4176,7 @@ OOI: 0.1.0
 OOR: 0.1.3
 OOS: 1.0.0
 OOmisc: '1.2'
+OPC: 0.0.1
 OPDOE: 1.0-10
 OPE: '0.7'
 OPI: 2.10.1
@@ -5853,7 +5857,7 @@ SACOBRA: '1.2'
 SADEG: 1.0.0
 SADISA: '1.2'
 SAENET: '1.1'
-SAEval: 0.1.2
+SAEval: 0.1.3
 SAFARI: 0.1.0
 SAFD: '2.1'
 SAGA: 2.0.0
@@ -6312,7 +6316,7 @@ SimReg: '3.3'
 SimRepeat: 0.1.0
 SimSCRPiecewise: 0.1.1
 SimSeq: 1.4.0
-SimSurvNMarker: 0.1.1
+SimSurvNMarker: 0.1.2
 SimSurvey: 0.1.4
 SimTimeVar: 1.0.0
 SimVitD: 1.0.1
@@ -7560,7 +7564,7 @@ apaTables: 2.0.8
 apaText: 0.1.1
 apache.sedona: 1.1.1
 apc: 2.0.0
-apcf: 0.1.7
+apcf: 0.2.0
 apcluster: 1.4.9
 apdesign: 1.0.0
 ape: 5.6-2
@@ -7846,7 +7850,7 @@ baRcodeR: 0.1.5
 baRulho: 1.0.6
 babar: '1.0'
 babel: 0.3-0
-babelgene: '21.4'
+babelgene: '22.3'
 babelwhale: 1.0.3
 babette: '2.3'
 babsim.hospital: 11.8.4
@@ -8515,7 +8519,7 @@ brm: 1.1.1
 brms: 2.16.3
 brmsmargins: 0.1.1
 brnn: '0.9'
-brokenstick: 2.0.0
+brokenstick: 2.1.0
 brolgar: 0.1.2
 broman: '0.76'
 broom: 0.7.12
@@ -9400,7 +9404,7 @@ conover.test: 1.1.5
 conquer: 1.3.0
 conquestr: 0.8.5
 conserveR: 1.0.4
-consolechoice: 1.0.0
+consolechoice: 1.1.1
 consort: 1.0.1
 consortr: 0.9.1
 constants: 1.0.1
@@ -9534,7 +9538,7 @@ covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.3
 covid19.analytics: 2.1.1
-covid19br: 0.1.3
+covid19br: 0.1.4
 covid19dbcand: 0.1.1
 covid19france: 0.1.0
 covid19india: 0.1.4
@@ -10026,7 +10030,7 @@ ddst: '1.4'
 deBInfer: 0.4.2
 deBif: 0.1.0
 deGradInfer: 1.0.1
-deSolve: '1.30'
+deSolve: '1.31'
 deTS: '1.0'
 deTestSet: 1.1.7.3
 deaR: 1.2.5
@@ -11655,6 +11659,7 @@ flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
 flightsbr: 0.1.2
+flimo: 0.1.0
 flintyR: 0.0.2
 flip: 2.5.0
 flipbookr: 0.1.0
@@ -13628,7 +13633,7 @@ infutil: '1.0'
 ingredients: 2.2.0
 ini: 0.3.1
 injectoR: 0.2.4
-inlabru: 2.5.0
+inlabru: 2.5.2
 inldata: 1.0.3
 inline: 0.3.19
 inlinedocs: 2019.12.5
@@ -14369,7 +14374,7 @@ leontief: '0.2'
 leprechaun: 1.0.0
 leri: 0.0.1
 lero.lero: '0.2'
-lessR: 4.1.6
+lessR: 4.1.7
 lest: 1.1.0
 lestat: '1.9'
 letsR: '4.0'
@@ -15641,7 +15646,7 @@ monobinShiny: 0.1.0
 monochromeR: 0.1.0
 monogeneaGM: '1.1'
 monographaR: 1.2.1
-monomvn: 1.9-13
+monomvn: 1.9-14
 monoreg: '2.0'
 monotone: 0.1.0
 monotonicity: 1.3.1
@@ -15950,7 +15955,7 @@ mvcluster: '1.0'
 mvctm: '1.2'
 mvcwt: '1.3'
 mvdalab: '1.6'
-mvgb: 0.0.1
+mvgb: 0.0.2
 mvglmmRank: 1.2-2
 mvgraph: '1.2'
 mvgraphnorm: '1.81'
@@ -15969,7 +15974,7 @@ mvord: 1.1.1
 mvoutlier: 2.1.1
 mvp: 1.0-12
 mvpart: 1.6-2
-mvpd: 0.0.1
+mvpd: 0.0.2
 mvprpb: 1.0.4
 mvrsquared: 0.1.2
 mvrtn: '1.0'
@@ -16328,7 +16333,7 @@ noncompliance: 0.2.2
 noncomplyR: '1.0'
 nonet: 0.4.0
 nonlinearICP: 0.1.2.1
-nonlinearTseries: 0.2.11
+nonlinearTseries: 0.2.12
 nonmem2R: 0.2.3
 nonmemica: 0.9.7
 nonneg.cg: 0.1.6-1
@@ -17422,8 +17427,8 @@ pleio: '1.6'
 pleiotest: 1.0.0
 plethem: 1.1.0
 plfMA: '2.0'
-plfm: 2.2.3
-plgp: 1.1-7
+plfm: 2.2.5
+plgp: 1.1-8
 pliable: '1.1'
 pliman: 1.1.0
 plink: 1.5-1
@@ -18178,7 +18183,7 @@ quantregForest: 1.3-7
 quantregGrowth: 1.4-0
 quantregRanger: '1.0'
 quantspec: 1.2-3
-quarks: 1.0.11
+quarks: 1.1.0
 quarrint: 1.0.0
 quarto: '1.1'
 quaternions: '0.2'
@@ -18525,7 +18530,7 @@ rbace: 0.2.2
 rbacon: 2.5.8
 rbamtools: 2.9.2
 rbart: '1.0'
-rbcb: 0.1.9
+rbcb: 0.1.10
 rbch: 0.1-1
 rbedrock: 0.2.0
 rbefdata: 0.3.5
@@ -18795,7 +18800,7 @@ regspec: '2.4'
 regsubseq: '0.12'
 regtest: '0.05'
 regtomean: '1.0'
-regtools: 1.1.0
+regtools: 1.7.0
 regweight: 1.0.2
 rehh: 3.2.2
 rehh.data: 1.0.0
@@ -19940,7 +19945,7 @@ segmag: 1.2.4
 segmenTier: 0.1.2
 segmented: 1.4-1
 segmentr: 0.2.0
-segmetric: 0.1.0
+segmetric: 0.2.0
 segregation: 0.6.0
 segregatr: 0.2.0
 sehrnett: 0.0.3
@@ -20543,6 +20548,7 @@ socceR: 0.1.1
 social: '1.0'
 socialh: 0.1.0
 socialmixr: 0.1.8
+socialranking: 0.1.0
 socialrisk: 0.5.0
 sociome: 2.1.0
 socviz: '1.2'
@@ -21365,6 +21371,7 @@ svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
 svplots: 0.1.0
+svrep: 0.1.0
 svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: '0.1'
@@ -22165,7 +22172,7 @@ ttbbeer: 1.1.0
 ttcg: 1.0.1
 ttdo: 0.0.8
 ttestshiny: 0.1.0
-tth: 4.12-0
+tth: 4.12-0-1
 ttime: '1.2'
 ttrTests: '1.7'
 ttservice: 0.1.2
@@ -22543,7 +22550,7 @@ visR: 0.2.0
 visStatistics: 0.1.1
 visTree: 0.8.1
 visa: 0.1.0
-visachartR: 2.0.1
+visachartR: 2.1.0
 visae: 0.2.0
 viscomplexr: 1.1.1
 visdat: 0.5.3
