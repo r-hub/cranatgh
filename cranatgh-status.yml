@@ -361,7 +361,7 @@ BDEsize: '1.6'
 BDP2: 0.1.3
 BDWreg: 1.2.0
 BDgraph: '2.65'
-BE: 0.1.5
+BE: 0.2.0
 BEACH: 1.3.1
 BEANSP: '1.0'
 BED: 1.4.4
@@ -540,7 +540,7 @@ BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
 BayesMRA: 1.0.0
-BayesMallows: 1.1.0
+BayesMallows: 1.1.1
 BayesMassBal: 1.0.0
 BayesMed: '1.0'
 BayesMixSurv: 0.9.1
@@ -1968,7 +1968,7 @@ FCVAR: 0.1.2
 FD: 1.0-12
 FDGcopulas: '1.0'
 FDRSeg: 1.0-3
-FDRestimation: 1.0.0
+FDRestimation: 1.0.1
 FDRreg: '0.1'
 FDRsampsize: '1.0'
 FDX: 1.0.4
@@ -3538,7 +3538,7 @@ MLPUGS: 0.2.0
 MLRMPA: '1.0'
 MLRShiny: 0.1.0
 MLRShiny2: 0.1.0
-MLVSBM: 0.2.2
+MLVSBM: 0.2.3
 MLZ: 0.1.4
 MLeval: '0.3'
 MLmetrics: 1.1.1
@@ -4009,7 +4009,7 @@ NHPoisson: '3.3'
 NHSDataDictionaRy: 1.2.5
 NHSRdatasets: 0.3.0
 NHSRplotthedots: 0.1.0
-NIMAA: 0.1.0
+NIMAA: 0.2.0
 NIPTeR: 1.0.2
 NIRStat: '1.1'
 NISTnls: 0.9-13
@@ -6125,7 +6125,7 @@ SRPM: '0.1'
 SRRS: '0.1'
 SRS: 0.2.3
 SRTtools: 1.2.0
-SSBtools: 1.2.2
+SSBtools: 1.3.0
 SSDL: '1.1'
 SSDM: 0.2.8
 SSDforR: 1.5.23
@@ -8568,7 +8568,7 @@ bstats: 1.1-11-5
 bsts: 0.9.7
 bsub: 1.1.0
 btb: 0.1.30.3
-btergm: 1.10.3
+btergm: 1.10.6
 btf: '1.2'
 bubblyr: 0.1.2
 bucky: 1.0.7
@@ -9877,7 +9877,7 @@ dagirlite: 0.1.0
 dagitty: 0.3-1
 dagwood: 0.1.4
 daiR: 0.9.0
-dail: '1.1'
+dail: '1.3'
 dalmatian: 1.0.0
 dam: 0.0.1
 dampack: 1.0.1
@@ -10452,7 +10452,7 @@ document: 3.3.3
 documenter: 0.1.1
 docxtools: 0.2.2
 docxtractr: 0.6.5
-dodgr: 0.2.12
+dodgr: 0.2.13
 doebioresearch: 0.1.0
 doex: '1.2'
 dominanceanalysis: 2.0.0
@@ -10618,7 +10618,7 @@ dynGraph: '0.99100403'
 dynOmics: '1.2'
 dynRB: '0.16'
 dynaSpec: 1.0.1
-dynaTree: 1.2-11
+dynaTree: 1.2-12
 dynamAedes: 2.0.2
 dynamac: 0.1.11
 dynamic: 1.1.0
@@ -11507,7 +11507,7 @@ fedregs: 1.0.0
 fedreporter: 0.2.1
 fedstatAPIr: 0.2.0
 feedeR: 0.0.8
-feisr: 1.2.0
+feisr: 1.3.0
 fellov: '0.1'
 felp: 0.2.3
 femmeR: 0.5.1
@@ -11668,7 +11668,7 @@ flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
 flightsbr: 0.1.2
-flimo: 0.1.0
+flimo: 0.1.1
 flintyR: 0.0.2
 flip: 2.5.0
 flipbookr: 0.1.0
@@ -11945,7 +11945,7 @@ future: 1.24.0
 future.BatchJobs: 0.17.0
 future.apply: 1.8.1
 future.batchtools: 0.10.0
-future.callr: 0.7.0
+future.callr: 0.8.0
 future.tests: 0.3.0
 futureheatwaves: 1.0.3
 fuzzr: 0.2.2
@@ -13782,7 +13782,7 @@ ipumsr: 0.4.5
 ipw: 1.0-11
 ipwCoxCSV: '1.0'
 ipwErrorY: '2.1'
-iq: '1.9'
+iq: 1.9.3
 iqLearn: '1.5'
 iqspr: '2.3'
 irace: 3.4.1
@@ -14955,7 +14955,7 @@ matrixdist: 1.1.3
 matrixpls: 1.0.13
 matrixprofiler: 0.1.7
 matrixsampling: 2.0.0
-matsbyname: 0.4.25
+matsbyname: 0.5.0
 matsindf: 0.3.10
 matuR: 0.0.1.0
 mau: 0.1.2
@@ -17979,7 +17979,7 @@ ptest: 1.0-8
 ptf: 0.0.1
 ptinpoly: '2.8'
 ptm: 0.2.5
-ptmixed: 1.1.1
+ptmixed: 1.1.2
 ptproc: '1.0'
 pts2polys: 0.1.3
 ptspotter: 1.0.1
@@ -20661,7 +20661,7 @@ spaceExt: '1.0'
 spaceNet: '1.2'
 spacefillr: 0.3.0
 spacejam: '1.1'
-spacejamr: '0.2'
+spacejamr: 0.2.1
 spacesRGB: 1.4-0
 spacesXYZ: 1.2-1
 spacetime: 1.2-6
