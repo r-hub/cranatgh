@@ -159,7 +159,7 @@ AZIAD: 0.0.1
 AbSim: 0.2.6
 AbsFilterGSEA: '1.5'
 Ac3net: 1.2.2
-AcceptanceSampling: 1.0-7
+AcceptanceSampling: 1.0-8
 Ace: 0.0.8
 AcousticNDLCodeR: 1.0.2
 AcrossTic: 1.0-3
@@ -262,6 +262,7 @@ Arothron: 2.0.3
 ArrayBin: '0.2'
 AsioHeaders: 1.16.1-1
 AssayCorrector: 2.0.0
+AssetAllocation: 0.1.0
 AssetCorr: 1.0.4
 AssetPricing: 1.0-3
 AssocAFC: 1.0.2
@@ -1440,7 +1441,7 @@ DRviaSPCN: 0.1.2
 DSAIDE: 0.9.3
 DSAIRM: 0.9.3
 DSBayes: '1.1'
-DSI: 1.3.0
+DSI: 1.4.0
 DSL: 0.1-7
 DSLite: 1.3.0
 DSMolgenisArmadillo: 1.4.1
@@ -1660,7 +1661,7 @@ DynTxRegime: '4.9'
 DynaRankR: 1.1.0
 DynamicDistribution: '1.1'
 DynamicGP: 1.1-7
-DynareR: 0.1.1
+DynareR: 0.1.2
 DysPIA: '1.3'
 DysPIAData: 0.1.2
 E4tools: 0.1.1
@@ -1707,7 +1708,7 @@ EFS: 1.0.3
 EGAnet: 1.0.0
 EGRET: 3.0.7
 EGRETci: 2.0.4
-EHR: 0.4-4
+EHR: 0.4-5
 EHRtemporalVariability: 1.1.4
 EIAdata: 0.1.3
 EILA: 0.1-2
@@ -2495,7 +2496,7 @@ GetLattesData: '1.4'
 GetNenshuJP: '0.1'
 GetQuandlData: 0.1.0
 GetR: '0.1'
-GetTDData: 1.4.4
+GetTDData: 1.4.5
 GetoptLong: 1.0.5
 Ghat: 0.1.0
 GhcnDaily: '1.5'
@@ -3227,7 +3228,7 @@ LTPDvar: '1.2'
 LTR: 1.0.0
 LTRCforests: 0.5.5
 LTRCtrees: 1.1.1
-LUCIDus: 2.1.5
+LUCIDus: 2.1.5-1
 LVGP: 2.1.5
 LVMMCOR: 0.01.1
 LVQTools: '1.2'
@@ -5743,7 +5744,7 @@ Rnmr1D: 1.3.0
 Rnotes: 1.1-1
 Rnumerai: 2.1.4
 Rnvd3: 1.0.0
-RoBMA: 2.1.2
+RoBMA: 2.2.1
 RobAStBase: 1.2.1
 RobAStRDA: 1.2.0
 RobExtremes: 1.2.0
@@ -6328,7 +6329,7 @@ SimRepeat: 0.1.0
 SimSCRPiecewise: 0.1.1
 SimSeq: 1.4.0
 SimSurvNMarker: 0.1.2
-SimSurvey: 0.1.4
+SimSurvey: 0.1.5
 SimTimeVar: 1.0.0
 SimVitD: 1.0.2
 SimilaR: 1.0.8
@@ -7503,6 +7504,7 @@ amerika: 0.1.0
 aml: 0.1-1
 ammiBayes: 1.0-1
 ammistability: 0.1.2
+amp: 1.0.0
 ampd: '0.2'
 ampir: 1.1.0
 amt: 0.1.7
@@ -8094,7 +8096,7 @@ beeswarm: 0.4.0
 beezdemand: 0.1.0
 befproj: 0.1.1
 beginr: 0.1.7
-behaviorchange: 0.4.3
+behaviorchange: 0.5.1
 behavr: 0.3.2
 belex: 0.1.0
 belg: 1.5.0
@@ -8124,7 +8126,7 @@ betadiv: 1.0.1
 betafam: '1.0'
 betafunctions: 1.6.1
 betalink: 2.2.1
-betapart: 1.5.5
+betapart: 1.5.6
 betaper: 1.1-2
 betareg: 3.1-4
 betas: 0.1.1
@@ -8820,7 +8822,7 @@ cd: 0.1.0
 cda: 2.0.0
 cdata: 1.2.0
 cdb: 0.0.1
-cdcatR: 1.0.4
+cdcatR: 1.0.5
 cdcfluview: 0.9.4
 cdcsis: 2.0.3
 cde: 0.4.1
@@ -9584,7 +9586,7 @@ coxphMIC: 0.1.0
 coxphSGD: 0.2.1
 coxphf: 1.13.1
 coxphw: 4.0.2
-coxrobust: '1.0'
+coxrobust: 1.0.1
 coxrt: 1.0.3
 coxsei: '0.3'
 cp4p: 0.3.6
@@ -10911,7 +10913,7 @@ eltr: 0.1.0
 em2: '0.9'
 emIRT: 0.0.13
 emax.glm: 0.1.2
-emayili: 0.7.5
+emayili: 0.7.9
 emba: 0.1.8
 embed: 0.1.5
 embryogrowth: '8.4'
@@ -11184,7 +11186,7 @@ exactDistr: 0.2-5
 exactLoglinTest: 1.4.2
 exactRankTests: 0.8-34
 exactci: 1.4-2
-exactextractr: 0.8.0
+exactextractr: 0.8.1
 exactmaxsel: '1.0'
 exactmeta: 1.0-2
 exampletestr: 1.6.5
@@ -11739,7 +11741,7 @@ foolbox: 0.1.1
 footBayes: 0.1.0
 footballpenaltiesBL: 1.0.0
 footprint: '0.1'
-foqat: 2.0.6
+foqat: 2.0.7
 forImage: 0.1.0
 forams: 2.0-5
 forcats: 0.5.1
@@ -12073,7 +12075,7 @@ gargle: 1.2.0
 gargoyle: 0.0.1
 garma: 0.9.11
 garray: 1.1.2
-gaselect: 1.0.10
+gaselect: 1.0.11
 gasfluxes: 0.4-4
 gasper: 1.1.1
 gastempt: 0.5.4
@@ -13234,6 +13236,7 @@ hotspot: '1.0'
 hotspots: 1.0.3
 housingData: 0.3.0
 hover: 0.1.1
+howManyImputations: 0.2.2
 howmany: 0.3-1
 hpa: 1.2.1
 hpackedbubble: 0.1.0
@@ -14110,7 +14113,7 @@ klic: 1.0.4
 klin: '2007-02-05'
 klsh: 0.1.0
 klustR: 0.1.0
-km.ci: 0.5-2
+km.ci: 0.5-6
 kmc: 0.2-4
 kmconfband: '0.1'
 kmcudaR: 1.1.0
@@ -14284,7 +14287,7 @@ lawn: 0.6.0
 lawstat: '3.4'
 lax: 1.2.0
 layer: 0.0.1
-lazy: 1.2-16
+lazy: 1.2-17
 lazyData: 1.1.0
 lazyWeave: 3.0.2
 lazyarray: 1.1.0
@@ -14691,7 +14694,7 @@ lpme: 1.1.2
 lpmodeler: 0.2-1
 lpridge: 1.0-8
 lqa: 1.0-3
-lqmm: 1.5.6
+lqmm: 1.5.8
 lqr: '4.1'
 lrd: 0.1.0
 lrequire: 0.1.3
@@ -14728,7 +14731,7 @@ ltsa: 1.4.6
 ltsbase: 1.0.1
 ltsk: 1.0.8
 ltsspca: 0.1.0
-ltxsparklines: 1.1.2
+ltxsparklines: 1.1.3
 lubridate: 1.8.0
 luca: 1.0-6
 lucas: '1.0'
@@ -14886,7 +14889,7 @@ mapsf: 0.4.0
 maptiles: 0.3.0
 maptools: 1.1-3
 maptpx: 1.9-7
-maptree: 1.4-7
+maptree: 1.4-8
 mapview: 2.10.0
 mar1s: 2.1.1
 march: 3.3.2
@@ -15185,7 +15188,7 @@ metacom: 1.5.3
 metaconfoundr: 0.1.0
 metacor: 1.0-2.1
 metacore: 0.0.4
-metadat: 1.0-0
+metadat: 1.2-0
 metadynminer: 0.1.6
 metadynminer3d: 0.0.1
 metafolio: 0.1.0
@@ -15517,7 +15520,7 @@ mlr3proba: 0.4.4
 mlr3shiny: 0.2.0
 mlr3spatial: 0.1.2
 mlr3spatiotempcv: 1.0.1
-mlr3tuning: 0.12.1
+mlr3tuning: 0.13.0
 mlr3tuningspaces: 0.1.1
 mlr3verse: 0.2.4
 mlr3viz: 0.5.8
@@ -16059,7 +16062,7 @@ nasadata: 0.9.0
 nasapower: 4.0.6
 nasaweather: '0.1'
 naspaclust: 0.2.1
-nat: 1.8.18
+nat: 1.8.19
 nat.nblast: 1.6.5
 nat.templatebrains: '1.0'
 nat.utils: 0.5.1
@@ -16174,6 +16177,7 @@ networkGen: 0.1.1
 networkR: 0.1.2
 networkTomography: '0.3'
 networkreporting: 0.1.1
+networkscaleup: 0.1-1
 networksis: 2.1-3
 networktools: 1.4.0
 networktree: 1.0.1
@@ -17429,7 +17433,7 @@ placement: 0.1.1
 placer: 0.1.3
 places: 0.1.1
 plainview: 0.1.1
-plan: 0.4-3
+plan: 0.4-4
 planar: '1.6'
 planets: 0.1.0
 planor: 1.5-3
@@ -18072,7 +18076,7 @@ qcc: '2.7'
 qccrs: 0.1.0
 qch: 1.0.0
 qclust: '1.0'
-qcpm: '0.1'
+qcpm: '0.2'
 qcr: '1.4'
 qcv: '1.0'
 qdap: 2.4.3
@@ -18288,6 +18292,7 @@ rBiasCorrection: 0.3.3
 rCAT: 0.1.6
 rCBA: 0.4.3
 rCMA: '1.1'
+rCNV: 1.0.0
 rCRM: 0.1.1
 rCUR: '1.3'
 rCarto: '0.8'
@@ -18620,7 +18625,7 @@ rco: 1.0.2
 rcol: 0.2.0
 rcolors: 0.1.0
 rcompanion: 2.4.15
-rcompendium: 0.5.1
+rcompendium: '1.0'
 rcompgen: 0.1-8
 rcompletion: 0.1-2
 rconfig: 0.1.1
@@ -18812,6 +18817,7 @@ regmedint: 0.2.1
 regnet: 0.4.0
 rego: 1.3.5
 regplot: '1.1'
+regport: 0.2.0
 regpro: 0.1.1
 regrap: 1.0.1
 regress: 1.3-21
@@ -19434,7 +19440,7 @@ rrlda: '1.1'
 rroad: 0.0.5
 rromeo: 0.1.1
 rrp: '2.9'
-rrpack: 0.1-11
+rrpack: 0.1-12
 rrr: 1.0.0
 rrscale: '1.0'
 rrtable: 0.3.0
@@ -20370,7 +20376,7 @@ simr: 1.0.6
 simrec: 1.0.0
 simrel: 2.1.0
 sims: 0.0.3
-simsalapar: 1.0-10
+simsalapar: 1.0-11
 simsem: 0.5-16
 simsl: 0.2.1
 simstandard: 0.6.3
@@ -21007,7 +21013,7 @@ staRdom: 1.1.25
 staRt: 1.1.12
 staTools: 0.1.0
 stab: 0.1.9
-stabiliser: 0.1.2
+stabiliser: 1.0.1
 stability: 0.5.0
 stable: 1.1.6
 stableGR: '1.1'
