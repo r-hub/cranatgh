@@ -194,7 +194,7 @@ AeroSampleR: 0.1.12
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
-AgroR: 1.2.8
+AgroR: 1.2.9
 AgroReg: 1.2.2
 AgroTech: 1.0.1
 AhoCorasickTrie: 0.1.2
@@ -591,7 +591,7 @@ BayesianTools: 0.1.7
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
 Bayesiantreg: '1.0'
-Bayesrel: 0.7.4
+Bayesrel: 0.7.4.1
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
 BcDiag: 1.0.10
@@ -1433,7 +1433,7 @@ DRDRtest: '0.1'
 DREGAR: 0.1.3.0
 DRHotNet: '2.0'
 DRI: '1.1'
-DRIP: '1.6'
+DRIP: '1.7'
 DRR: 0.0.4
 DRaWR: 1.0.3
 DRomics: 2.4-0
@@ -3577,7 +3577,7 @@ MOCCA: '1.4'
 MODIS: 1.2.3
 MODISSnow: 0.1.0.0
 MODISTools: 1.1.2
-MODIStsp: 2.0.6
+MODIStsp: 2.0.7
 MOEADr: 1.1.1
 MOJOV: 1.0.1
 MOLHD: '0.2'
@@ -3903,7 +3903,7 @@ MortalitySmooth: '2.3'
 MortalityTables: 2.0.3
 MotilityLab: 0.2-5
 MovieSpider: '1.0'
-MplusAutomation: 1.0.0
+MplusAutomation: 1.1.0
 MplusTrees: 0.2.1
 Mposterior: 0.1.2
 Mqrcm: '1.2'
@@ -4132,7 +4132,7 @@ NlcOptim: '0.6'
 NlinTS: 1.4.5
 NlsyLinks: 2.0.6
 Nmisc: 0.3.7
-Nmix: 2.0.2
+Nmix: 2.0.3
 NobBS: 0.1.0
 NoiseFiltersR: 0.1.0
 NominalLogisticBiplot: '0.2'
@@ -4923,7 +4923,7 @@ RCAL: '2.0'
 RCALI: 0.3.1
 RCBR: 0.5.9
 RCCPCA: 0.1.0
-RCDT: 1.0.0
+RCDT: 1.1.0
 RCEIM: '0.3'
 RCGLS: 1.0.3
 RCLabels: 0.1.1
@@ -5353,7 +5353,7 @@ RWmisc: 0.1.2
 RWsearch: 5.0.5
 RXKCD: 1.9.2
 RXMCDA: 1.5.5
-RXshrink: '2.0'
+RXshrink: '2.1'
 RYandexTranslate: '1.0'
 RYoudaoTranslate: '1.0'
 RZabbix: 0.1.0
@@ -6690,7 +6690,7 @@ TSANN: 0.1.0
 TSAgg: 1.0.1
 TSCS: 0.1.1
 TSDFGS: '1.0'
-TSDT: 1.0.0
+TSDT: 1.0.7
 TSE: 0.1.0
 TSEN: '1.0'
 TSEind: 0.1.0
@@ -7356,7 +7356,7 @@ adjclust: 0.6.4
 adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
-adlift: 1.4-2
+adlift: 1.4-3
 admiral: 0.6.3
 admiral.test: 0.1.2
 admisc: '0.26'
@@ -7493,7 +7493,7 @@ amba: 0.3.1
 amber: 1.0.3
 ambhasGW: 0.0.2
 ambient: 1.0.0
-ambiorix: 2.0.0
+ambiorix: 2.1.0
 ameco: '0.2'
 amei: '1.0'
 amelie: 0.2.1
@@ -8582,7 +8582,7 @@ btf: '1.2'
 bubblyr: 0.1.2
 bucky: 1.0.7
 buffeRs: '0.31'
-buildmer: '2.3'
+buildmer: '2.4'
 buildr: 0.1.0
 bujar: 0.2-9
 bulkAnalyseR: 0.1.1
@@ -9319,7 +9319,7 @@ commonmark: 1.8.0
 commonsMath: 1.2.5
 communication: '0.1'
 comorbidities: '1.0'
-comorbidity: 1.0.0
+comorbidity: 1.0.2
 compHclust: 1.0-3
 compLasso: 0.0-1
 compOverlapCorr: '1.0'
@@ -9553,7 +9553,7 @@ coveffectsplot: 1.0.1
 covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.3
-covid19.analytics: 2.1.1
+covid19.analytics: 2.1.2
 covid19br: 0.1.4
 covid19dbcand: 0.1.1
 covid19france: 0.1.0
@@ -10223,7 +10223,7 @@ diagram: 1.6.5
 dialectR: '1.0'
 dialr: 0.4.0
 dialrjars: 8.12.42
-dials: 0.1.0
+dials: 0.1.1
 diamonds: 1.0-5
 diaplt: 1.3.0
 diathor: 0.1.0
@@ -10736,7 +10736,7 @@ ecce: 1.0.9
 ecd: 0.9.1
 ecdfHT: 0.1.1
 ecespa: 1.1-14
-ech: 0.1.1
+ech: 0.1.2.0
 echarts4r: 0.4.3
 echarty: 1.4.5
 echelon: 0.1.0
@@ -11527,7 +11527,7 @@ ferrn: 0.0.1
 fetchR: 2.1-1
 ff: 4.0.5
 ffbase: '0.9'
-fflr: 2.0.2
+fflr: 2.0.3
 ffmanova: 1.1.1
 ffmetadata: 1.0.0
 ffp: 0.2.1
@@ -12231,7 +12231,7 @@ genstab: 1.0.0
 gensvm: 0.1.5
 genvar: 0.0.2.0
 geo: 1.4-3
-geoBayes: 0.7.0
+geoBayes: 0.7.1
 geoChina: 1.1.1
 geoCount: '1.150120'
 geoFKF: 0.1.0
@@ -12723,7 +12723,7 @@ googlePrintr: 0.0.1
 googlePublicData: 0.16.1
 googlePubsubR: 0.0.3
 googleTagManageR: 0.1.6
-googleVis: 0.6.11
+googleVis: 0.6.12
 googlebigquery: '0.1'
 googledrive: 2.0.0
 googleformr: 0.0.3
@@ -14188,7 +14188,7 @@ kuniezu: 0.1.3
 kutils: '1.70'
 kvh: 1.4.2
 kwb.hantush: 0.3.0
-kyotil: 2021.5-14
+kyotil: 2022.4-5
 kza: 4.1.0.1
 kzfs: 1.5.0.2
 kzft: '0.1'
@@ -15505,7 +15505,7 @@ mlquantify: 0.2.0
 mlr: 2.19.0
 mlr3: 0.13.3
 mlr3benchmark: 0.1.3
-mlr3cluster: 0.1.2
+mlr3cluster: 0.1.3
 mlr3data: 0.6.0
 mlr3db: 0.4.2
 mlr3filters: 0.5.0
@@ -15669,7 +15669,7 @@ monobinShiny: 0.1.0
 monochromeR: 0.1.0
 monogeneaGM: '1.1'
 monographaR: 1.2.1
-monomvn: 1.9-14
+monomvn: 1.9-15
 monoreg: '2.0'
 monotone: 0.1.0
 monotonicity: 1.3.1
@@ -16129,7 +16129,7 @@ neonUtilities: 2.1.3
 neonstore: 0.4.4
 neotoma: 1.7.4
 nephro: '1.2'
-neptune: 0.2.1
+neptune: 0.2.2
 nesRdata: 0.3.1
 nestedRanksTest: '0.2'
 nestfs: 1.0.1
@@ -16207,7 +16207,7 @@ nfda: '0.2'
 nfer: 1.1.0
 nfl4th: 1.0.1
 nflfastR: 4.3.0
-nflplotR: 1.0.0
+nflplotR: 1.0.1
 nflreadr: 1.2.0
 nflseedR: 1.0.2
 nflverse: 1.0.1
@@ -16294,7 +16294,7 @@ nlstac: 0.1.0
 nlstimedist: 2.0.0
 nlstools: 2.0-0
 nlt: 2.2-1
-nltm: 1.4.2
+nltm: 1.4.3
 nlts: 1.0-2
 nmaINLA: 1.1.0
 nmadb: 1.2.0
@@ -16745,8 +16745,8 @@ ordinalForest: 2.4-2
 ordinalLBM: '1.0'
 ordinalNet: '2.12'
 ordinalRR: '1.1'
-ordinalbayes: 0.1.0
-ordinalgmifs: 1.0.6
+ordinalbayes: 0.1.1
+ordinalgmifs: 1.0.7
 ordinalpattern: 0.2.0
 ore: 1.7.1.1
 oreo: '1.0'
@@ -17453,7 +17453,7 @@ pleiotest: 1.0.0
 plethem: 1.1.0
 plfMA: '2.0'
 plfm: 2.2.5
-plgp: 1.1-8
+plgp: 1.1-9
 pliable: '1.1'
 pliman: 1.1.0
 plink: 1.5-1
@@ -17545,7 +17545,7 @@ pmr: 1.2.5
 pmsampsize: 1.1.2
 pmultinom: 1.0.0
 pmwg: 0.2.0
-pmxTools: 1.2.1
+pmxTools: 1.2.3
 pmxpartab: 0.5.0
 pnea: 1.2.4
 pnf: 0.1.1
@@ -17636,7 +17636,7 @@ poolr: 1.1-1
 poorman: 0.2.5
 pop: '0.1'
 pop.lion: '1.0'
-pop.wolf: '0.2'
+pop.wolf: '1.0'
 popEpi: 0.4.9
 popKorn: 0.3-0
 popPCR: 0.1.1.1
@@ -18813,7 +18813,7 @@ registr: 1.0.0
 registry: 0.5-1
 reglogit: 1.2-6
 regmed: 2.0.4
-regmedint: 0.2.1
+regmedint: 1.0.0
 regnet: 0.4.0
 rego: 1.3.5
 regplot: '1.1'
@@ -19224,7 +19224,7 @@ rngSetSeed: 0.3-2
 rngWELL: 0.10-7
 rngtools: 1.5.2
 rngwell19937: 0.6-0
-rnmamod: 0.1.0
+rnmamod: 0.2.0
 rnn: 1.5.0
 rnoaa: 1.3.8
 rnpn: 1.2.4
@@ -19379,7 +19379,7 @@ rpinterest: 0.3.1
 rpivotTable: 0.3.0
 rplexos: 1.1.8
 rplos: 1.0.0
-rplotengine: 1.0-7
+rplotengine: 1.0-8
 rpls: 0.6.0
 rplum: 0.2.2
 rpmodel: 1.2.0
@@ -21185,7 +21185,7 @@ stratamatch: 0.1.9
 stratasphere: '1.0'
 stratbr: '1.2'
 strategicplayers: '1.0'
-stratification: 2.2-6
+stratification: 2.2-7
 stratifyR: 1.0-3
 stratigraph: '0.6'
 stratvns: '1.1'
@@ -21663,7 +21663,7 @@ tetragon: 1.0.0
 texPreview: 2.0.0
 texmex: 2.4.8
 texmexseq: '0.3'
-texreg: 1.38.5
+texreg: 1.38.6
 text: 0.9.50
 text.alignment: 0.1.2
 text2map: 0.1.3
@@ -21765,7 +21765,7 @@ tidyLPA: 1.1.0
 tidyMicro: '1.47'
 tidyREDCap: 0.2.2
 tidyRSS: 2.0.4
-tidySEM: 0.2.1
+tidySEM: 0.2.2
 tidyUSDA: 0.3.3
 tidybayes: 3.0.2
 tidybins: 0.1.0
