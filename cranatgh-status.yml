@@ -94,7 +94,7 @@ ANOVAIREVA: 0.1.0
 ANOVAShiny: 0.1.0
 ANOVAShiny2: 0.1.0
 ANOVAreplication: 1.1.5
-ANTs: 0.0.15
+ANTs: 0.0.1
 AOV1R: 0.1.0
 AOfamilies: '1.0'
 APAtree: 1.0.1
@@ -130,7 +130,7 @@ ARTP: 2.0.5
 ARTP2: 0.9.45
 ARTofR: 0.4.1
 ARTool: 0.11.1
-ARpLMEC: '2.1'
+ARpLMEC: '2.2'
 ASGS.foyer: 0.3.1
 ASICS: 1.0.1
 ASIP: 0.4.9
@@ -281,7 +281,7 @@ AutoDeskR: 0.1.3
 AutoModel: 0.4.9
 AutoPipe: 0.1.6
 AutoSEARCH: '1.5'
-AutoScore: 0.2.0
+AutoScore: 0.3.0
 AutoStepwiseGLM: 0.2.0
 Autoplotprotein: '1.1'
 AutoregressionMDE: '1.0'
@@ -853,7 +853,7 @@ CKLRT: 0.2.3
 CKMRpop: 0.1.3
 CLA: 0.96-2
 CLAG: '2.7'
-CLAST: 1.0.0
+CLAST: 1.0.1
 CLME: 2.0-12
 CLONETv2: 2.2.1
 CLSOCP: '1.0'
@@ -2908,6 +2908,7 @@ Immigrate: 0.2.1
 ImpactEffectsize: 0.6.2
 ImpactIV: '1.0'
 ImportExport: '1.3'
+ImportanceIndice: 0.0.1
 ImputeRobust: 1.3-1
 InDisc: 1.1.0
 InPosition: 0.12.7.1
@@ -3642,6 +3643,7 @@ MSToolkit: 3.2.0
 MSVAR: '0.0'
 MSbox: 1.4.6
 MSclassifR: 0.2.0
+MSclust: '1.0'
 MScombine: '1.4'
 MSeasy: '5.3'
 MSeasyTkGUI: '5.3'
@@ -4094,6 +4096,7 @@ NestedCategBayesImpute: 1.2.1
 NestedCohort: 1.1-3
 NetCluster: '0.2'
 NetComp: '1.6'
+NetCoupler: 0.1.0
 NetDA: 0.1.0
 NetData: '0.3'
 NetExplorer: 0.0.2
@@ -4489,7 +4492,7 @@ PSIMEX: '1.1'
 PSLM2015: 0.2.0
 PSM: '0.8'
 PSMix: 1.1.1
-PSPManalysis: 0.3.7
+PSPManalysis: 0.3.8
 PSS.Health: 0.4.0
 PSSIM: 0.1.0
 PSSMCOOL: 0.2.4
@@ -5522,7 +5525,7 @@ RcppDL: 0.0.5
 RcppDate: 0.0.3
 RcppDist: 0.1.1
 RcppDynProg: 0.2.0
-RcppEigen: 0.3.3.9.1
+RcppEigen: 0.3.3.9.2
 RcppEigenAD: 1.0.0
 RcppEnsmallen: 0.2.18.2.1
 RcppExamples: 0.1.9
@@ -5884,7 +5887,7 @@ SAMM: 1.1.1
 SAMTx: 0.3.0
 SAMUR: '0.6'
 SAMURAI: 1.2.1
-SAMtool: 1.2.6
+SAMtool: 1.3.0
 SAPP: 1.0.8
 SAR: 1.0.3
 SARP.compo: 0.1.5
@@ -7408,7 +7411,7 @@ agridat: '1.20'
 agrifeature: 1.0.3
 agriwater: 1.0.1
 agrmt: 1.42.8
-agroclim: 0.1.0
+agroclim: 0.2.0
 agrostab: 0.1.0
 agsemisc: 1.3-1
 agtboost: 0.9.3
@@ -7829,6 +7832,7 @@ available: 1.0.5
 avar: 0.1.1
 averisk: 1.0.3
 avgrankoverlap: '1.0'
+avidaR: 1.0.1
 avocado: 0.1.0
 aweSOM: '1.2'
 aweek: 1.0.2
@@ -7901,7 +7905,7 @@ bama: '1.2'
 bamboo: 0.9.25
 bambooHR: 0.1.0
 bamdit: 3.4.0
-bamlss: 1.1-6
+bamlss: 1.1-7
 bamp: 2.1.0
 bams: '1.6'
 banR: 0.2.2
@@ -8188,7 +8192,7 @@ bigQueryR: 0.5.0
 bigRR: 1.3-8
 bigReg: 0.1.2
 bigSurvSGD: 0.0.1
-bigalgebra: 1.0.1
+bigalgebra: 1.1.0
 biganalytics: 1.1.21
 bigassertr: 0.1.5
 bigchess: 1.9.1
@@ -8405,6 +8409,7 @@ bmotif: 2.0.2
 bmp: '0.3'
 bmrm: '4.1'
 bmscstan: 1.1.0
+bmstdr: 0.1.4
 bnclassify: 0.4.6
 bndovb: '1.1'
 bnlearn: 4.7.1
@@ -8691,7 +8696,7 @@ cap: '1.0'
 cape: 3.1.0
 caper: 1.0.1
 capitalR: 1.3.0
-capl: '1.39'
+capl: '1.42'
 capm: 0.14.0
 capme: '1.3'
 capn: 1.0.0
@@ -8796,7 +8801,7 @@ ccTensor: 1.0.2
 ccaPP: 0.3.3
 ccafs: 0.3.0
 ccboost: 0.1-1.3
-cccd: '1.5'
+cccd: '1.6'
 cccp: 0.2-7
 cccrm: 2.0.3
 ccda: 1.1.1
@@ -9496,7 +9501,7 @@ corona: 0.3.0
 coronavirus: 0.3.31
 corpcor: 1.6.10
 corpora: 0.5-1
-corporaexplorer: 0.8.4
+corporaexplorer: 0.8.5
 corpus: 0.10.2
 corpustools: 0.4.9
 corr2D: 1.0.2
@@ -9967,7 +9972,7 @@ datautils: 0.1.5
 dataverse: 0.3.10
 dataview: 2.1.1
 datawizard: 0.4.0
-datazoom.amazonia: 0.2.0
+datazoom.amazonia: 0.3.0
 date: 1.2-39
 datefixR: 0.1.4
 datelife: 0.6.1
@@ -10044,7 +10049,7 @@ ddpcr: '1.15'
 ddsPLS: 1.1.4
 ddst: '1.4'
 deBInfer: 0.4.2
-deBif: 0.1.0
+deBif: 0.1.5
 deGradInfer: 1.0.1
 deSolve: '1.31'
 deTS: '1.0'
@@ -10407,7 +10412,7 @@ dlookr: 0.5.5
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.4
-dm: 0.2.7
+dm: 0.2.8
 dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
@@ -10515,7 +10520,7 @@ dr: 3.0.10
 dr4pl: 2.0.0
 drLumi: 0.1.2
 dracor: 0.2.4
-dragon: 1.2.0
+dragon: 1.2.1
 dragonking: 0.1.0
 dragracer: 0.1.6
 dragulaR: 0.3.1
@@ -10575,6 +10580,7 @@ dssd: 0.3.1
 dst: 1.5.1
 dstack: 0.2.1
 dstat: 1.0.4
+dstat2x2xk: 0.2.0
 dtables: 0.2.0
 dtangle: 2.0.9
 dtgiw: 1.0.0
@@ -10876,7 +10882,7 @@ eixport: 0.5.0
 eks: 1.0.1
 el.convex: '1.0'
 elaborator: '1.1'
-elasdics: 0.1.5
+elasdics: 0.2.0
 elasso: '1.1'
 elastic: 1.2.0
 elasticIsing: '0.2'
@@ -11662,7 +11668,7 @@ fledge: 0.1.0
 flexCWM: '1.92'
 flexCrossHaz: '0.2'
 flexPM: '2.0'
-flexclust: 1.4-0
+flexclust: 1.4-1
 flexdashboard: 0.5.2
 flexiblas: 3.1.0
 flexmet: '1.1'
@@ -11706,6 +11712,7 @@ flux: 0.3-0
 fluxweb: 0.2.0
 flying: 0.1.3
 flyio: 0.1.4
+fm.index: 0.1.1
 fma: '2.4'
 fmbasics: 0.3.0
 fmcmc: 0.5-1
@@ -12253,7 +12260,7 @@ geodata: 0.3-5
 geodetector: 1.0-4
 geodimension: 1.0.0
 geodist: 0.0.7
-geodiv: 1.0.4
+geodiv: 1.0.5
 geodrawr: 2.0.0
 geoelectrics: 0.2.0
 geofabrik: 0.1.0
@@ -13161,6 +13168,7 @@ highr: '0.9'
 highriskzone: 1.4.7
 higlasso: 0.9.0
 higrad: 0.1.0
+hilbert: 0.2.1
 hilbertSimilarity: 0.4.3
 hildareadR: 0.2.0
 hillR: 0.5.1
@@ -13308,7 +13316,7 @@ hwde: '0.67'
 hwep: 0.0.1
 hwig: 0.0.2
 hwordcloud: 0.1.0
-hwriter: 1.3.2
+hwriter: 1.3.2.1
 hwriterPlus: 1.0-3
 hwsdr: '1.0'
 hwwntest: 1.3.1
@@ -13613,6 +13621,7 @@ incgraph: 1.0.1
 incidence: 1.7.3
 incidence2: 1.2.3
 incidental: '0.1'
+incidentally: 0.9.0
 inctools: 1.0.15
 indelmiss: 1.0.9
 independence: 1.0.1
@@ -13646,7 +13655,7 @@ infoDecompuTE: 0.6.2
 infochimps: '0.3'
 informR: 1.0-5
 informedSen: 1.0.7
-infotheo: 1.2.0
+infotheo: 1.2.0.1
 infra: 0.1.2
 infraFDTD.assist: '0.6'
 infuser: '0.2'
@@ -13827,7 +13836,7 @@ ismev: '1.42'
 isni: '1.3'
 isnullptr: 1.0.1
 isoSurv: 0.2.0
-isoWater: 1.0.1
+isoWater: 1.1.0
 isoband: 0.2.5
 isoboost: 1.0.1
 isobxr: 1.0.1
@@ -14517,6 +14526,7 @@ listenv: 0.8.0
 listless: 0.0-2
 listviewer: 3.0.0
 litRiddle: 0.4.1
+lite: 1.0.0
 liteq: 1.1.0
 litteR: 0.9.1
 littler: 0.3.15
@@ -15509,7 +15519,7 @@ mlr3cluster: 0.1.3
 mlr3data: 0.6.0
 mlr3db: 0.4.2
 mlr3filters: 0.5.0
-mlr3fselect: 0.6.1
+mlr3fselect: 0.7.0
 mlr3hyperband: 0.4.0
 mlr3learners: 0.5.2
 mlr3measures: 0.4.1
@@ -15946,7 +15956,7 @@ muma: '1.4'
 mumm: 0.2.1
 munfold: 0.3.5
 munsell: 0.5.0
-munsellinterpol: 2.8-2
+munsellinterpol: 3.0-0
 murphydiagram: 0.12.2
 muscle: 3.8.31-4
 musclesyneRgies: 1.1.3
@@ -17409,7 +17419,7 @@ pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
-pkgdepends: 0.3.0
+pkgdepends: 0.3.1
 pkgdown: 2.0.2
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
@@ -18261,7 +18271,7 @@ r2mlm: 0.3.1
 r2pmml: 0.26.0
 r2pptx: 0.1.0
 r2r: 0.1.1
-r2rtf: 0.3.3
+r2rtf: 0.3.4
 r2shortcode: '0.1'
 r2spss: 0.3.1
 r2stl: 1.0.0
@@ -19040,7 +19050,7 @@ rgplates: 0.1.0
 rgpui: 0.1-2
 rgr: 1.1.15
 rgraph6: 2.0-1
-rgrass7: 0.2-8
+rgrass7: 0.2-9
 rgrassdoc: 1.0.0
 rgrs: '0.3'
 rgsp: 0.2.0
@@ -19415,7 +19425,7 @@ rr: '1.4'
 rr2: 1.0.2
 rrBLUP: 4.6.1
 rrBlupMethod6: '1.3'
-rrMixture: 0.1-1
+rrMixture: 0.1-2
 rrapply: 1.2.4
 rrat: 1.0.0
 rray: 0.1.0
@@ -19506,7 +19516,7 @@ rstan: 2.21.3
 rstanarm: 2.21.1
 rstanemax: 0.1.3
 rstansim: 0.1.1
-rstantools: 2.1.1
+rstantools: 2.2.0
 rstap: 1.0.3
 rstatix: 0.7.0
 rstatscn: 1.1.3
@@ -19701,7 +19711,7 @@ safer: 0.2.1
 safestats: 0.8.6
 safetyCharts: 0.3.0
 safetyData: 1.0.0
-safetyGraphics: 2.0.0
+safetyGraphics: 2.1.0
 safi: '1.0'
 sageR: 0.3.0
 sahpm: 1.0.1
@@ -20902,7 +20912,7 @@ spoiler: 1.0.0
 spongebob: 0.4.0
 spongecake: 0.1.2
 spork: 0.2.2
-sporm: 1.1.1
+sporm: '1.1'
 sport: 0.2.0
 sportyR: 1.0.1
 spotGUI: 0.2.3
@@ -21503,7 +21513,7 @@ table1xls: 0.4.0
 tableExtra: 1.0.1
 tableHTML: 2.1.0
 tableMatrix: 0.82.0
-tableeasy: 1.1.1
+tableeasy: 1.1.2
 tableone: 0.13.0
 tableplot: 0.3-5
 tablerDash: 0.1.0
@@ -21564,7 +21574,7 @@ taxalight: 0.1.5
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.2
-taxonbridge: 1.0.5
+taxonbridge: 1.1.0
 taxonomizr: 0.8.0
 taxotools: 0.0.79
 tayloRswift: 0.1.0
@@ -21803,7 +21813,7 @@ tidymargins: 0.1.0
 tidymodels: 0.2.0
 tidymv: 3.3.0
 tidync: 0.2.4
-tidyndr: 0.2.0
+tidyndr: 0.2.1
 tidypaleo: 0.1.2
 tidypmc: '1.7'
 tidyposterior: 0.1.0
