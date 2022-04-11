@@ -367,7 +367,7 @@ BE: 0.2.0
 BEACH: 1.3.1
 BEANSP: '1.0'
 BED: 1.4.4
-BEDASSLE: '1.5'
+BEDASSLE: '1.6'
 BEDMatrix: 2.0.3
 BEKKs: 1.1.0
 BENMMI: 4.3-7
@@ -1463,7 +1463,7 @@ DTDA: 3.0.1
 DTDA.cif: 1.0.2
 DTDA.ni: '1.0'
 DTK: '3.5'
-DTMCPack: 0.1-2
+DTMCPack: 0.1-3
 DTR: '1.7'
 DTRlearn: '1.3'
 DTRlearn2: '1.1'
@@ -2747,7 +2747,7 @@ IBDhaploRtools: '1.8'
 IBDsim: 0.9-8
 IBHM: 1.1-11
 IBMPopSim: 0.3.1
-IBrokers: 0.9-12
+IBrokers: 0.10-1
 IC2: 1.0-1
 ICAFF: 1.0.1
 ICAMS: 2.3.10
@@ -2860,7 +2860,7 @@ IQMNMR: '1.0'
 IRATER: 0.0.1
 IRCcheck: 1.0.0
 IRISMustangMetrics: 2.4.4
-IRISSeismic: 1.6.4
+IRISSeismic: 1.6.5
 IROmiss: 1.0.2
 IRSF: 1.0.3
 IRTBEMM: 1.0.7
@@ -2871,7 +2871,7 @@ IRexamples: 0.0.1
 IRkernel: '1.3'
 ISA: 1.0-32
 ISAT: 1.0.5
-ISBF: 0.2.1
+ISBF: '0.2'
 ISCO08ConveRsions: 0.1.1
 ISDA.R: '1.0'
 ISEtools: 3.1.1
@@ -7222,7 +7222,7 @@ aPCoA: '1.3'
 aRbs: 0.1.3
 aRchi: 1.0.5
 aRpsDCA: 1.1.1
-aRtsy: 0.1.6
+aRtsy: 0.1.7
 aRxiv: '0.6'
 aSPC: 0.1.2
 aSPU: '1.50'
@@ -11843,7 +11843,7 @@ frbs: 3.2-0
 frechet: 0.2.0
 fredr: 2.1.0
 free: 1.0.1
-freealg: 1.0-4
+freealg: 1.0-6
 freedom: 1.0.1
 freegroup: 1.1-3
 freeknotsplines: '1.0'
@@ -12414,7 +12414,7 @@ ggdmc: 0.2.6.0
 gge: '1.7'
 ggeasy: 0.1.3
 ggedit: 0.3.1
-ggeffects: 1.1.1
+ggeffects: 1.1.2
 ggenealogy: 1.0.1
 ggetho: 0.3.6
 ggfacto: 0.2.2
@@ -12484,13 +12484,13 @@ ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
 ggplotify: 0.1.0
 ggplotlyExtra: 0.0.1
-ggpmisc: 0.4.5
+ggpmisc: 0.4.6
 ggpointdensity: 0.1.0
 ggpointless: 0.0.1
 ggpol: 0.0.7
 ggpolar: 0.2.0
 ggpolypath: 0.1.0
-ggpp: 0.4.3
+ggpp: 0.4.4
 ggprism: 1.0.3
 ggpubr: 0.4.0
 ggpval: 0.2.4
@@ -12847,7 +12847,7 @@ gridDebug: 0.5-1
 gridExtra: '2.3'
 gridGeometry: 0.3-0
 gridGraphics: 0.5-1
-gridGraphviz: '0.3'
+gridGraphviz: 0.3-1
 gridSVG: 1.7-4
 gridpattern: 0.5.3
 gridsample: 0.2.1
@@ -16061,7 +16061,7 @@ nametagger: 0.1.1
 nandb: 2.1.0
 naniar: 0.6.1
 nanny: 0.1.8
-nanonext: 0.3.0
+nanonext: 0.4.0
 nanop: 2.0-6
 nanostringr: 0.2.0
 nanotime: 0.3.6
@@ -16211,7 +16211,7 @@ newTestSurvRec: 1.0.2
 newallelic: '0.1'
 newsanchor: 0.1.1
 newscatcheR: 0.1.0
-newsmap: 0.7.4
+newsmap: 0.8.0
 newsmd: 0.4.0
 nfda: '0.2'
 nfer: 1.1.0
@@ -17620,7 +17620,7 @@ polyglot: 0.3.0
 polylabelr: 0.2.0
 polymapR: 1.1.2
 polymars: 1.0-5
-polynom: 1.4-0
+polynom: 1.4-1
 polynomial: 0.1.0
 polypharmacy: 1.0.0
 polyphemus: 0.3.4
@@ -17968,7 +17968,7 @@ pspline: 1.0-19
 pspline.inference: 1.0.4
 psqn: 0.3.1
 psr: 0.1.0
-psre: 0.1.0
+psre: 0.1.1
 psrwe: '3.1'
 pssm: '1.1'
 pssmooth: 1.0.3
@@ -18474,7 +18474,7 @@ randomForest: 4.7-1
 randomForest.ddR: 0.1.2
 randomForestExplainer: 0.10.1
 randomForestSRC: 3.0.2
-randomGLM: 1.02-1
+randomGLM: 1.10-1
 randomLCA: 1.1-1
 randomNames: 1.5-0.0
 randomSurvivalForest: 3.6.4
@@ -19074,7 +19074,7 @@ rhymer: 1.1.0
 rhype: 0.2.0
 ri: '0.9'
 ri2: 0.2.0
-riAFTBART: 0.2.0
+riAFTBART: 0.3.0
 ribd: 1.3.1
 ribiosUtils: 1.5-6
 ricegeneann: 1.0.2
@@ -19680,7 +19680,7 @@ sabarsi: 0.1.0
 sabre: 0.4.0
 sabreR: '2.0'
 sac: 1.0.2
-saccades: 0.1-1
+saccades: '0.1'
 sad: 0.1.3
 sadists: 0.2.4
 sads: 0.4.2
@@ -20007,7 +20007,7 @@ seleniumPipes: 0.3.7
 selfea: 1.0.1
 selfingTree: '0.2'
 selfmade: '0.1'
-sem: 3.1-14
+sem: 3.1-15
 semEff: 0.6.0
 semGOF: 0.2-0
 semPLS: 1.0-9
@@ -20988,7 +20988,7 @@ ssc: 2.1-0
 sscor: '0.2'
 ssd: '0.3'
 ssddata: 1.0.0
-ssdtools: 1.0.0
+ssdtools: 1.0.1
 sse: 0.7-17
 ssev: 0.1.0
 ssfa: '1.2'
@@ -21006,7 +21006,7 @@ ssmrob: '1.0'
 ssmsn: 0.2.0
 sspir: 0.2.9
 sspline: 0.1-6
-sspse: '0.6'
+sspse: 1.0.0
 ssr: 0.1.1
 ssrm.logmer: '0.1'
 ssrn: 0.1.0
