@@ -384,7 +384,7 @@ BGGM: 2.0.4
 BGLR: 1.0.9
 BGPhazard: 2.1.0
 BGSIMD: '1.0'
-BGVAR: 2.4.5
+BGVAR: 2.4.6
 BGmisc: '0.1'
 BH: 1.78.0-0
 BHAI: 0.99.2
@@ -668,6 +668,7 @@ Biopeak: '1.0'
 Bios2cor: '2.2'
 Biostatistics: 1.0.4
 Biotech: 1.0.0
+BipartiteModularityMaximization: 1.22.407.2
 BiplotGUI: 0.0-7
 BiplotML: 1.0.1
 BisRNA: 0.2.2
@@ -1461,7 +1462,7 @@ DTAplots: 1.0.2.5
 DTComPair: 1.0.3
 DTDA: 3.0.1
 DTDA.cif: 1.0.2
-DTDA.ni: '1.0'
+DTDA.ni: 1.0.1
 DTK: '3.5'
 DTMCPack: 0.1-3
 DTR: '1.7'
@@ -1660,7 +1661,7 @@ DynNom: 5.0.1
 DynTxRegime: '4.9'
 DynaRankR: 1.1.0
 DynamicDistribution: '1.1'
-DynamicGP: 1.1-7
+DynamicGP: 1.1-8
 DynareR: 0.1.2
 DysPIA: '1.3'
 DysPIAData: 0.1.2
@@ -3295,6 +3296,7 @@ LindleyR: 1.1.0
 LinearDetect: 0.1.5
 LinearRegressionMDE: '1.0'
 LinearizedSVR: '1.3'
+Linkage: '0.9'
 LinkageMapView: 2.1.2
 LinkedGASP: '1.0'
 LinkedMatrix: 1.4.0
@@ -4421,7 +4423,7 @@ PLmixed: 0.1.5
 PLordprob: '1.1'
 PLreg: 0.2.0
 PMA: 1.2.1
-PMAPscore: 0.1.0
+PMAPscore: 0.1.1
 PMCMR: '4.4'
 PMCMRplus: 1.9.4
 PML: '1.2'
@@ -7237,7 +7239,7 @@ abc: '2.1'
 abc.data: '1.0'
 abcADM: '1.0'
 abcdeFBA: '0.4'
-abclass: 0.1.0
+abclass: 0.2.0
 abcrf: 1.8.1
 abcrlda: 1.0.3
 abctools: 1.1.3
@@ -8806,7 +8808,7 @@ cccp: 0.2-7
 cccrm: 2.0.3
 ccda: 1.1.1
 ccdf: 1.1.4
-ccdrAlgorithm: 0.0.5
+ccdrAlgorithm: 0.0.6
 ccems: '1.0'
 ccfa: 1.1.0
 ccgarch: 0.2.3
@@ -9407,7 +9409,7 @@ conformalInference.fd: 1.1.1
 conformalInference.multi: 1.1.1
 conformalbayes: 0.1.0
 confoundr: '1.2'
-confreq: 1.5.6-4
+confreq: 1.5.6-7
 congressbr: 0.2.2
 conicfit: 1.0.4
 conics: '0.3'
@@ -10418,7 +10420,7 @@ dma: 1.4-0
 dmacs: 0.1.0
 dmai: 0.4.0
 dmbc: 1.0.0
-dmdScheme: 1.3.1
+dmdScheme: 1.3.2
 dml: 1.1.0
 dmlalg: 1.0.2
 dmm: 2.1-7
@@ -12650,7 +12652,7 @@ globalboosttest: 1.1-0
 globals: 0.14.0
 globe: 1.2-0
 glogis: 1.0-1
-glottospace: 0.0.111
+glottospace: 0.0.112
 glow: 0.10.1
 glpk: 4.8-0.5
 glpkAPI: 1.3.3
@@ -13310,7 +13312,7 @@ hunspell: 3.0.1
 hurdlr: '0.1'
 hurricaneexposure: 0.1.1
 hutils: 1.7.1
-hutilscpp: 0.8.1
+hutilscpp: 0.9.0
 huxtable: 5.4.0
 hwde: '0.67'
 hwep: 0.0.1
@@ -13862,7 +13864,7 @@ isva: '1.9'
 italy: 0.1.0
 itan: 3.1.1
 itcSegment: '0.8'
-itdr: '1.0'
+itdr: 1.2.0
 iteRates: '3.1'
 itemanalysis: '1.0'
 iterLap: 1.1-3
@@ -14002,7 +14004,7 @@ jsr223: 0.3.4
 jstable: 1.0.7
 jstor: 0.3.10
 jtGWAS: '1.5'
-jti: 0.8.3
+jti: 0.8.4
 jtools: 2.1.4
 jtrans: 0.2.1
 jubilee: 0.3.3
@@ -14696,7 +14698,7 @@ lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpdensity: '2.3'
 lphom: 0.3.1-1
-lpint: '2.0'
+lpint: '2.1'
 lpirfs: 0.2.0
 lpl: '0.11'
 lplyr: 0.1.6
@@ -15362,7 +15364,7 @@ mimsy: 0.6.2
 minMSE: 0.5.1
 minPtest: '1.7'
 minSNPs: 0.0.2
-mind: 0.1.6
+mind: 0.1.6-1
 mindicador: 0.1.5
 mindr: 1.3.2
 mineCitrus: 1.0.0
@@ -15532,7 +15534,7 @@ mlr3shiny: 0.2.0
 mlr3spatial: 0.1.2
 mlr3spatiotempcv: 1.0.1
 mlr3tuning: 0.13.0
-mlr3tuningspaces: 0.1.1
+mlr3tuningspaces: 0.2.0
 mlr3verse: 0.2.4
 mlr3viz: 0.5.8
 mlrCPO: 0.3.7-3
@@ -15921,7 +15923,7 @@ multinbmod: '1.0'
 multinet: 4.0.1
 multinets: 0.2.2
 multinma: 0.4.2
-multinomRob: 1.8-6.1
+multinomRob: 1.8-6
 multinomineq: 0.2.3
 multipanelfigure: 2.1.2
 multipleNCC: 1.2-2
@@ -16962,7 +16964,7 @@ parallelDist: 0.2.6
 parallelMCMCcombine: '2.0'
 parallelML: '1.2'
 parallelMap: 1.5.1
-parallelPlot: 0.1.0
+parallelPlot: 0.2.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
 parallelly: 1.31.0
@@ -17925,7 +17927,7 @@ protolite: 2.1.1
 proton: '1.0'
 prototest: '1.2'
 protr: 1.6-2
-protti: 0.2.2
+protti: 0.3.0
 proustr: 0.4.0
 provDebugR: 1.0.1
 provExplainR: '1.1'
@@ -18940,7 +18942,7 @@ rescue: 1.0.3
 resemble: 2.1.2
 reservoir: 1.1.5
 resevol: 0.2.0.9
-reshape: 0.8.8
+reshape: 0.8.9
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
 resourcer: 1.2.0
@@ -20751,7 +20753,7 @@ sparsesvd: '0.2'
 sparsevar: 0.1.0
 sparsevb: 0.1.0
 sparsio: 1.0.1
-sparta: 0.8.3.1
+sparta: 0.8.4
 spartan: 3.0.2
 spass: '1.3'
 spatPomp: 0.29.0.0
@@ -20912,6 +20914,7 @@ spoccutils: 0.1.0
 spoiler: 1.0.0
 spongebob: 0.4.0
 spongecake: 0.1.2
+spooky: 1.0.0
 spork: 0.2.2
 sporm: '1.1'
 sport: 0.2.0
@@ -21137,7 +21140,7 @@ steps: 1.2.1
 stepwise: '0.3'
 stevedata: 0.7.0
 stevedore: 0.9.4
-stevemisc: 1.4.0
+stevemisc: 1.4.1
 stevetemplates: 0.7.0
 stfit: 0.99.8
 stheoreme: '1.2'
@@ -21191,7 +21194,7 @@ strapgod: 0.0.4
 strat: '0.1'
 stratEst: 1.1.4
 strataG: 2.4.905
-stratallo: 0.1.0
+stratallo: 2.0.0
 stratamatch: 0.1.9
 stratasphere: '1.0'
 stratbr: '1.2'
@@ -21256,7 +21259,7 @@ sublime: '1.3'
 sublogo: '1.1'
 submax: 1.1.1
 subniche: '1.4'
-subplex: '1.7'
+subplex: '1.8'
 subprocess: 0.8.3
 subrank: 0.9.9.1
 subsamp: 0.1.0
@@ -21569,7 +21572,7 @@ tau: 0.0-24
 tauturri: 0.3.0
 tawny: 2.1.7
 tawny.types: 1.1.5
-taxa: 0.4.1
+taxa: 0.4.2
 taxadb: 0.1.4
 taxalight: 0.1.5
 taxize: 0.9.99
@@ -21677,7 +21680,7 @@ texmexseq: '0.3'
 texreg: 1.38.6
 text: 0.9.50
 text.alignment: 0.1.2
-text2map: 0.1.3
+text2map: 0.1.4
 text2sdg: 0.1.2
 text2speech: 0.2.13
 text2vec: '0.6'
