@@ -207,7 +207,7 @@ AlignStat: 1.3.1
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: 1.0-2
-Allspice: 1.0.3
+Allspice: 1.0.4
 AlphaPart: 0.9.3
 AlphaSimR: 1.1.2
 AlphaVantageClient: 0.0.1
@@ -613,7 +613,7 @@ BeviMed: '5.8'
 BeyondBenford: '1.4'
 Bhat: 0.9-10
 BiBitR: 0.3.1
-BiDAG: 2.0.4
+BiDAG: 2.0.5
 BiDimRegression: 2.0.1
 BiG: 0.1.0
 BiGGR: '1.8'
@@ -1296,6 +1296,7 @@ DAMisc: 1.7.2
 DAP: '1.0'
 DART: '1.1'
 DARTData: '1.0'
+DATAstudio: '1.0'
 DATforDCEMRI: '0.5'
 DArand: 0.0.1.2
 DBEST: '1.8'
@@ -1861,7 +1862,7 @@ EnvNicheR: '1.4'
 EnvStats: 2.7.0
 EnviroPRA: '1.0'
 EnviroStat: 0.4-2
-Epi: '2.44'
+Epi: '2.46'
 EpiBayes: 0.1.2
 EpiContactTrace: 0.16.0
 EpiCurve: 2.4-2
@@ -2800,7 +2801,7 @@ IDetect: 0.1.0
 IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
-IFAA: 1.0.5
+IFAA: 1.0.6
 IFC: 0.1.2
 IFP: 0.2.4
 IFSPlot: '1.0'
@@ -3226,6 +3227,7 @@ LSTS: '2.1'
 LSVAR: '1.2'
 LSWPlib: 0.1.0
 LSX: 1.1.1
+LTASR: 0.0.1
 LTPDvar: '1.2'
 LTR: 1.0.0
 LTRCforests: 0.5.5
@@ -3348,7 +3350,7 @@ MACER: 0.1.1
 MADAM: '1.2'
 MADPop: 1.1.2
 MAFDash: 0.2.1
-MAGEE: 1.1.0
+MAGEE: 1.1.1
 MAGNAMWAR: 2.0.4
 MAINT.Data: 2.6.2
 MAKL: 1.0.0
@@ -3416,7 +3418,7 @@ MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
 MCMCglmm: '2.33'
 MCMChybridGP: '5.4'
-MCMCpack: 1.6-2
+MCMCpack: 1.6-3
 MCMCprecision: 0.4.0
 MCMCtGARCH: '1.0'
 MCMCtGARCHM: '1.0'
@@ -4823,7 +4825,7 @@ QualInt: 1.0.0
 Quandl: 2.11.0
 QuantNorm: 1.0.5
 QuantPsyc: '1.5'
-QuantTools: 0.5.7.1
+QuantTools: 0.5.7
 QuantifQuantile: '2.2'
 QuantileGH: 0.1.1
 QuantileGradeR: 0.1.1
@@ -4889,7 +4891,7 @@ RAHRS: 1.0.2
 RAINBOWR: 0.1.29
 RALSA: 1.1.5
 RAM: 1.2.1.7
-RAMClustR: 1.2.3
+RAMClustR: 1.2.4
 RAMP: 2.0.2
 RAMpath: '0.4'
 RANKS: '1.0'
@@ -4995,7 +4997,7 @@ REddyProc: 1.3.2
 REddyProcNCDF: 1.1.4
 REndo: 2.4.3
 RFA: 0.0-9
-RFCCA: 1.0.7
+RFCCA: 1.0.9
 RFGLS: '1.1'
 RFLPtools: '2.0'
 RFOC: 3.4-6
@@ -5146,7 +5148,7 @@ RNOmni: 1.0.0
 RNRCS: 0.2.5
 RNaviCell: '0.2'
 RNeXML: 2.4.6
-RNentropy: 1.2.2
+RNentropy: 1.2.3
 RNeo4j: 1.6.4
 RNetCDF: 2.5-2
 RNetLogo: 1.0-4
@@ -5197,7 +5199,7 @@ ROP: '1.0'
 ROSE: 0.0-4
 RObsDat: '16.03'
 ROlogit: 0.1.2
-ROpenCVLite: 4.52.1
+ROpenCVLite: 4.55.0
 ROpenDota: 0.1.2
 ROpenFIGI: 0.2.8
 ROpenWeatherMap: '1.1'
@@ -5592,7 +5594,7 @@ Rdta: 1.0.0
 Rdtq: '0.1'
 Rduino: '0.1'
 ReCiPa: '3.0'
-ReDaMoR: 0.5.2
+ReDaMoR: 0.6.3
 ReDirection: 1.0.1
 ReIns: 1.0.10
 ReacTran: 1.4.3.1
@@ -6918,7 +6920,7 @@ TwslmSpikeWeight: 1.0.1
 UBCRM: 1.0.1
 UBL: 0.0.7
 UCR.ColumnNames: 0.1.0
-UCSCXenaShiny: 1.1.5
+UCSCXenaShiny: 1.1.7
 UCSCXenaTools: 1.4.7
 UComp: 2.2.2
 UKB.COVID19: 0.1.3
@@ -6926,7 +6928,7 @@ UKFE: 0.2.2
 UKgrid: 0.1.3
 UMR: 1.1.0
 UNCLES: '2.0'
-UNF: '2.0'
+UNF: 2.0.8
 UNPaC: 1.1.0
 UPCM: 0.0-3
 UPG: 0.2.2
@@ -8731,7 +8733,7 @@ carpenter: 0.2.2
 carrier: 0.1.0
 cartograflow: 1.0.3
 cartogram: 0.2.2
-cartogramR: 1.0-6
+cartogramR: 1.0-7
 cartography: 3.0.1
 cartools: 0.1.0
 carx: 0.7.1
@@ -8932,7 +8934,7 @@ chantrics: 1.0.0
 charlatan: 0.4.0
 charlson: '1.0'
 chartql: 0.1.0
-cheatR: 1.2.1
+cheatR: 1.2.1-1
 cheatmap: 1.0.0
 cheatsheet: 0.1.0
 cheb: '0.3'
@@ -9685,7 +9687,7 @@ crossdes: 1.1-2
 crosshybDetector: '1.0'
 crossmap: 0.3.0
 crossmatch: 1.3-1
-crossrun: 0.1.0
+crossrun: 0.1.1
 crosstable: 0.4.1
 crosstalk: 1.2.0
 crosstalkr: 0.7.0
@@ -10069,7 +10071,7 @@ decido: 0.3.0
 decision: 0.1.0
 decisionSupport: '1.110'
 deckgl: 0.2.7
-declared: '0.13'
+declared: '0.15'
 decode: '1.2'
 decoder: 1.2.2
 decomposedPSF: 0.1.3
@@ -10099,6 +10101,7 @@ deeptime: 0.2.1
 default: 1.0.0
 define: 0.2.9
 deflateBR: 1.1.2
+deforestable: 3.0.0
 deformula: 0.1.1
 defrostR: 1.1.0
 degenes: '1.1'
@@ -10413,7 +10416,7 @@ dlnm: 2.4.7
 dlookr: 0.5.6
 dlr: 1.0.1
 dlsem: 2.4.6
-dlstats: 0.1.4
+dlstats: 0.1.5
 dm: 0.2.8
 dmRTools: 1.1.1
 dma: 1.4-0
@@ -10527,7 +10530,7 @@ dragonking: 0.1.0
 dragracer: 0.1.6
 dragulaR: 0.3.1
 drake: 7.13.3
-drat: 0.2.2
+drat: 0.2.3
 draw: 1.0.0
 drawExpression: '1.0'
 drawer: 0.2.0.0
@@ -10923,7 +10926,7 @@ emIRT: 0.0.13
 emax.glm: 0.1.2
 emayili: 0.7.9
 emba: 0.1.8
-embed: 0.1.5
+embed: 0.2.0
 embryogrowth: '8.4'
 emdatr: '0.3'
 emdbook: 1.3.12
@@ -10993,7 +10996,7 @@ entrymodels: 0.2.1
 envDocument: 2.4.1
 envalysis: 0.5.1
 envelope: '1.0'
-enveomics.R: 1.8.0
+enveomics.R: 1.9.0
 envi: 0.1.13
 enviGCMS: 0.6.6
 enviPat: '2.4'
@@ -13577,7 +13580,7 @@ imguR: 1.0.3
 imgw: 0.3.0
 iml: 0.10.1
 immcp: 0.9.2
-immer: 1.1-35
+immer: 1.2-19
 immunarch: 0.6.7
 immuneSIM: 0.8.7
 imola: 0.3.2
@@ -14054,7 +14057,7 @@ keep: '1.0'
 kehra: '0.1'
 kelvin: 2.0-2
 kendallRandomWalks: 0.9.4
-kequate: 1.6.3
+kequate: 1.6.4
 kerTests: 0.1.3
 keras: 2.8.0
 kerasR: 0.6.1
@@ -14963,7 +14966,7 @@ mathpix: 0.5.0
 maticce: 1.0-3
 matie: '1.2'
 matlab: 1.0.2
-matlab2r: 1.0.0
+matlab2r: 1.1.0
 matlabr: 1.5.2
 matlib: 0.9.5
 matman: 1.1.3
@@ -15382,7 +15385,7 @@ minimax: '1.1'
 minimaxdesign: 0.1.5
 minimist: '0.1'
 miniparquet: 0.1.2
-minpack.lm: 1.2-1
+minpack.lm: 1.2-2
 minqa: 1.2.4
 minval: 0.8-1
 minxent: '0.01'
@@ -16142,7 +16145,7 @@ neonUtilities: 2.1.3
 neonstore: 0.4.4
 neotoma: 1.7.4
 nephro: '1.2'
-neptune: 0.2.2
+neptune: 0.2.3
 nesRdata: 0.3.1
 nestedRanksTest: '0.2'
 nestfs: 1.0.1
@@ -16664,7 +16667,7 @@ opencpu: 2.2.7
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
 opencv: 0.2.1
-opendatatoronto: 0.1.4
+opendatatoronto: 0.1.5
 opendotaR: 0.1.4
 openeo: 1.1.0
 openintro: 2.3.0
@@ -17966,6 +17969,7 @@ psidR: '2.1'
 pso: 1.0.4
 psoptim: '1.0'
 psp: '0.1'
+pspatreg: 1.0.0
 pspearman: 0.3-0
 pspline: 1.0-19
 pspline.inference: 1.0.4
@@ -20676,7 +20680,7 @@ spMC: 0.3.11
 spMaps: 0.4.0
 spNNGP: 0.1.7
 spNetwork: 0.2.1
-spOccupancy: 0.3.0
+spOccupancy: 0.3.1
 spRingsteen: 0.0.1
 spTDyn: 2.0.1
 spTest: 0.2.5
@@ -20914,7 +20918,7 @@ spoccutils: 0.1.0
 spoiler: 1.0.0
 spongebob: 0.4.0
 spongecake: 0.1.2
-spooky: 1.0.0
+spooky: 1.1.0
 spork: 0.2.2
 sporm: '1.1'
 sport: 0.2.0
@@ -21221,7 +21225,7 @@ strider: '1.3'
 string2path: 0.0.4
 stringb: 0.1.17
 stringdist: 0.9.8
-stringfish: 0.15.5
+stringfish: 0.15.7
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
 stringi: 1.7.6
@@ -21410,7 +21414,7 @@ svgPanZoom: 0.3.4
 svgViewR: 1.4.1
 svglite: 2.1.0
 svgtools: 1.1.0
-svines: 0.1.3
+svines: 0.1.4
 svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
@@ -21578,7 +21582,7 @@ taxalight: 0.1.5
 taxize: 0.9.99
 taxizedb: 0.3.0
 taxlist: 0.2.2
-taxonbridge: 1.1.0
+taxonbridge: 1.2.0
 taxonomizr: 0.8.0
 taxotools: 0.0.79
 tayloRswift: 0.1.0
@@ -22519,7 +22523,7 @@ vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.0.2
 vcrpart: 1.0-4
-vctrs: 0.4.0
+vctrs: 0.4.1
 vcvComp: 1.0.2
 vdar: 0.1.3-2
 vdg: 1.2.1
@@ -22909,7 +22913,7 @@ wq: 0.4.8
 wql: 0.4.9
 wqs: 0.0.1
 wrGraph: 1.3.1
-wrMisc: 1.9.0
+wrMisc: 1.9.1
 wrProteo: 1.6.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.7
@@ -23047,7 +23051,7 @@ yll: 1.0.0
 ymd: 0.0.1
 ymlthis: 0.1.5
 yonder: 0.2.0
-yorkr: 0.0.32
+yorkr: 0.0.33
 yotover: 0.3.5
 youngSwimmers: 0.0.1
 youtubecaption: 1.0.0
