@@ -1488,7 +1488,7 @@ DamiaNN: 1.0.0
 DandEFA: '1.6'
 Dark: 0.9.8
 DarkDiv: 0.3.0
-Dasst: 0.3.3
+Dasst: 0.3.4
 DatABEL: 0.9-6
 DatAssim: '1.0'
 Data2LD: 3.2.1
@@ -1811,7 +1811,7 @@ EcoHydRology: 0.4.12.1
 EcoIndR: '1.8'
 EcoNetGen: 0.2.3
 EcoSimR: 0.1.0
-EcoTroph: '1.6'
+EcoTroph: 1.6.1
 EcoVirtual: '1.1'
 Ecohydmod: 1.0.0
 EconDemand: '1.0'
@@ -3482,7 +3482,7 @@ MGDrivE: 1.6.0
 MGDrivE2: 1.1.0
 MGGM: '1.0'
 MGL: '1.1'
-MGLM: 0.2.0
+MGLM: 0.2.1
 MGMM: 1.0.0
 MGMS2: 1.0.2
 MGRASTer: '0.9'
@@ -8541,13 +8541,13 @@ briskaR: 1.0.4
 brlr: 0.9-1
 brlrmr: 0.1.7
 brm: 1.1.1
-brms: 2.16.3
+brms: 2.17.0
 brmsmargins: 0.1.1
 brnn: '0.9'
 brokenstick: 2.1.0
 brolgar: 0.1.2
 broman: '0.76'
-broom: 0.7.12
+broom: 0.8.0
 broom.helpers: 1.6.0
 broom.mixed: 0.2.9.3
 broomExtra: 4.3.2
@@ -8555,7 +8555,7 @@ brotli: '1.2'
 brr: 1.0.0
 brranching: 0.7.0
 brt: 1.3.0
-bruceR: 0.8.5
+bruceR: 0.8.6
 brulee: 0.1.0
 brunnermunzel: 1.4.1
 brxx: 0.1.2
@@ -8727,7 +8727,7 @@ caretLSF: '1.9'
 caretNWS: '0.25'
 carfima: 2.0.2
 cargo: 0.1.38
-caribou: '1.1'
+caribou: 1.1-1
 caroline: 0.7.6
 carpenter: 0.2.2
 carrier: 0.1.0
@@ -9812,7 +9812,7 @@ cusum: 0.4.1
 cusumcharter: 0.1.0
 cutoff: '1.3'
 cutoffR: '1.0'
-cutpointr: 1.1.1
+cutpointr: 1.1.2
 cuttlefish.model: '1.0'
 cvAUC: 1.1.4
 cvCovEst: 1.0.2
@@ -10500,7 +10500,7 @@ downloadthis: 0.3.1
 downscale: 4.2-0
 downscaledl: '1.0'
 downsize: 0.2.2
-dowser: 0.1.0
+dowser: 1.0.0
 dpa: 1.0-3
 dparser: 1.3.1-5
 dpcR: '0.5'
@@ -10646,8 +10646,8 @@ dynamicGraph: 0.2.2
 dynamicTreeCut: 1.63-1
 dynamichazard: 1.0.1
 dynamo: '1.0'
-dynatop: 0.2.1
-dynatopGIS: 0.2.1
+dynatop: 0.2.2
+dynatopGIS: 0.2.2
 dynatopmodel: 1.2.1
 dyncomp: 0.0.2-1
 dyndimred: 1.0.4
@@ -12625,7 +12625,7 @@ glmmBUGS: 2.4.2
 glmmEP: 1.0-3.1
 glmmGS: '0.5'
 glmmLasso: 1.5.1
-glmmML: 1.1.1
+glmmML: 1.1.2
 glmmPen: 1.5.1.8
 glmmSeq: 0.1.0
 glmmTMB: 1.1.3
@@ -13314,7 +13314,7 @@ humidity: 0.1.5
 hunspell: 3.0.1
 hurdlr: '0.1'
 hurricaneexposure: 0.1.1
-hutils: 1.7.1
+hutils: 1.8.1
 hutilscpp: 0.9.0
 huxtable: 5.4.0
 hwde: '0.67'
@@ -14264,7 +14264,7 @@ lar: 0.1-2
 lares: 5.1.2
 largeList: 0.3.1
 largeVis: '0.2'
-lars: '1.2'
+lars: '1.3'
 laser: 2.4-1
 lass0: 1.1.0
 lasso2: 1.2-22
@@ -15146,7 +15146,7 @@ melt: 1.4.0
 meltr: 1.0.0
 meltt: 0.4.2
 melviewr: 0.0.1
-mem: '2.16'
+mem: '2.17'
 memapp: '2.14'
 meme: 0.2.3
 memery: 0.5.6
@@ -15515,7 +15515,7 @@ mlmm.gwas: 1.0.6
 mlmmm: 0.3-1.2
 mlmts: 1.0.0
 mlogit: 1.1-1
-mlogitBMA: 0.1-6
+mlogitBMA: 0.1-7
 mlpack: 3.4.2.1
 mlquantify: 0.2.0
 mlr: 2.19.0
@@ -15843,7 +15843,7 @@ mstate: 0.3.2
 mstclustering: 1.0.0.0
 mstherm: 0.4.7
 mstknnclust: 0.3.1
-mstrio: 11.3.0.1
+mstrio: 11.3.5.101
 msu: 0.0.1
 mt: 2.0-1.19
 mtb: 0.1.6
@@ -19830,7 +19830,7 @@ scagnostics: 0.2-6
 scaleAlign: 1.0.0.0
 scaleCoef: 1.0-0
 scaleboot: 1.0-1
-scales: 1.1.1
+scales: 1.2.0
 scalpel: 1.0.3
 scalreg: 1.0.1
 scam: 1.2-12
@@ -21198,7 +21198,7 @@ strapgod: 0.0.4
 strat: '0.1'
 stratEst: 1.1.4
 strataG: 2.4.905
-stratallo: 2.0.0
+stratallo: 2.0.1
 stratamatch: 0.1.9
 stratasphere: '1.0'
 stratbr: '1.2'
@@ -21742,7 +21742,7 @@ thectar: 1.0.0
 theiaR: 0.4.0
 thematic: 0.1.2.1
 themetagenomics: 1.0.2
-themis: 0.2.0
+themis: 0.2.1
 thermocouple: 1.0.2
 theseus: 0.1.0
 thestats: 0.1.0
@@ -21860,7 +21860,7 @@ tigreBrowserWriter: 0.1.5
 tigris: '1.6'
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
-tiledb: 0.11.1
+tiledb: 0.12.0
 tilegramsR: 0.2.0
 tilemaps: 0.2.0
 tiler: 0.2.5
