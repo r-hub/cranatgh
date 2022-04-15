@@ -1333,6 +1333,7 @@ DClusterm: 1.0-1
 DDD: '5.0'
 DDHFm: 1.1.2
 DDIwR: '0.9'
+DDL: 1.0.0
 DDM: 1.0-0
 DDPGPSurv: '1.0'
 DDPNA: 0.3.0
@@ -3709,7 +3710,7 @@ MapeBay: 0.1.0
 Mapinguari: 1.0.0
 MareyMap: 1.3.6
 MargCond: 1.0.0
-MarginalMediation: 0.7.0
+MarginalMediation: 0.7.2
 MarkedPointProcess: '0.2'
 MarketMatching: 1.2.0
 Markovchart: 2.1.5
@@ -3819,6 +3820,7 @@ MetricsWeighted: 0.5.4
 MfUSampler: 1.0.6
 MiClip: '1.3'
 MiDA: 0.1.2
+MiMIR: '1.2'
 MiRAnorm: 1.0.0
 MiRKAT: 1.2.1
 MiRNAQCD: 1.1.2
@@ -7106,6 +7108,7 @@ WVPlots: 1.3.2
 WWGbook: 1.0.2
 WWR: 1.2.2
 WaMaSim: 1.0.0
+WallomicsData: '1.0'
 WaterML: 1.9.8
 Watersheds: '1.1'
 Wats: 0.2-9
@@ -8439,7 +8442,7 @@ bolasso: 0.1.0
 bold: 1.2.0
 bomWater: 0.4.1
 bomrang: 0.7.4
-bookdown: '0.25'
+bookdown: '0.26'
 bookdownplus: 1.5.8
 boolean: 2.0-2
 boolean3: 3.1.6
@@ -9691,6 +9694,7 @@ crossdes: 1.1-2
 crosshybDetector: '1.0'
 crossmap: 0.3.0
 crossmatch: 1.3-1
+crossnma: 1.0.1
 crossrun: 0.1.1
 crosstable: 0.4.1
 crosstalk: 1.2.0
@@ -11952,7 +11956,7 @@ funr: 0.3.2
 funrar: 1.4.1
 funreg: 1.2.2
 funtimes: '8.2'
-furniture: 1.9.10
+furniture: 1.9.12
 furrr: 0.2.3
 fusedest: '1.3'
 fusen: 0.3.0
@@ -12636,7 +12640,7 @@ glmmTMB: 1.1.3
 glmmboot: 0.6.0
 glmmfields: 0.1.4
 glmmsr: 0.2.3
-glmnet: 4.1-3
+glmnet: 4.1-4
 glmnetSE: 0.0.1
 glmnetUtils: 1.1.8
 glmnetcr: 1.0.6
@@ -16143,7 +16147,7 @@ negenes: 1.0-12
 negligible: 0.1.0
 neighbr: 1.0.3
 neldermead: 1.0-12
-neo2R: 2.1.0
+neo2R: 2.1.1
 neo4jshell: 0.1.2
 neo4r: 0.1.1
 neonUtilities: 2.1.4
@@ -16981,7 +16985,7 @@ param6: 0.2.4
 paramGUI: 2.1.4
 parameters: 0.17.0
 paramhetero: 0.2.0
-paramlink: 1.1-4
+paramlink: 1.1-5
 paramlink2: 1.0.3
 params: 0.7.3
 paramtest: 0.1.0
@@ -17490,7 +17494,7 @@ plot.matrix: 1.6.2
 plot2groups: '0.10'
 plot3D: '1.4'
 plot3Drgl: 1.0.2
-plot3logit: 3.1.0
+plot3logit: 3.1.2
 plotAndPlayGTK: 0.8.78
 plotDK: 0.1.0
 plotGMM: 0.2.2
@@ -18330,7 +18334,7 @@ rDataPipeline: 0.54.1
 rDecode: 0.1.0
 rDotNet: 0.9.1
 rDppDiversity: 0.0.2
-rEDM: 1.10.3
+rEDM: 1.11.0
 rEHR: '1.0'
 rEMM: 1.1.0
 rENA: 0.2.4
@@ -18651,7 +18655,7 @@ rcompanion: 2.4.15
 rcompendium: '1.0'
 rcompgen: 0.1-8
 rcompletion: 0.1-2
-rconfig: 0.1.1
+rconfig: 0.1.2
 rcongresso: 0.4.6
 rconifers: 1.0.7
 rcoreoa: 0.4.0
@@ -18729,7 +18733,7 @@ readMzXmlData: 2.8.1
 readODS: 1.7.0
 readOffice: 0.2.2
 readability: 0.1.1
-readabs: 0.4.11
+readabs: 0.4.12
 readbitmap: 0.1.5
 readbulk: 1.1.3
 reader: 1.0.6
@@ -19610,7 +19614,7 @@ runcharter: 0.2.0
 runes: 0.1.0
 runexp: 0.2.1
 runittotestthat: 0.0-2
-runjags: 2.2.1-5
+runjags: 2.2.1-7
 runner: 0.4.1
 runonce: 0.2.3
 runstats: 1.1.0
@@ -21282,6 +21286,7 @@ subspace: 1.0.4
 subspaceMOA: 0.6.0
 subtee: 1.0.1
 subtype: '1.0'
+success: 0.1.0
 sudachir: 0.1.0
 suddengains: 0.4.4
 sudoku: '2.6'
@@ -22582,6 +22587,7 @@ vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
 viewpoly: 0.1.1
 viewshed3d: 4.0.0
+villager: 1.1.1
 vimcom: 0.9-9
 vimp: 2.2.5
 vimpclust: 0.1.0
@@ -22874,6 +22880,7 @@ wmtsa: 2.0-3
 wmwpow: 0.1.3
 wnl: 0.6.4
 wnominate: '1.3'
+wodds: 0.1.0
 woe: '0.2'
 woeBinning: 0.1.6
 woeR: 0.2.1
@@ -23109,7 +23116,7 @@ zoid: 1.1.0
 zoltr: 0.5.1
 zonator: 0.6.0
 zonebuilder: 0.0.2
-zoo: 1.8-9
+zoo: 1.8-10
 zooaRch: '1.2'
 zooaRchGUI: 1.0.2
 zoocat: 0.2.0
