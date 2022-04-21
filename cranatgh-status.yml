@@ -1843,7 +1843,7 @@ EloRating: 0.46.11
 ElstonStewart: '1.1'
 EmbedSOM: 2.1.1
 Emcdf: 0.1.2
-EmiR: 1.0.1
+EmiR: 1.0.3
 EmiStatR: 1.2.3.0
 EmissV: 0.665.6.0
 EmpiricalCalibration: 3.0.0
@@ -3177,7 +3177,7 @@ LLdecomp: '1.0'
 LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.1.0
-LMMsolver: 1.0.1
+LMMsolver: 1.0.2
 LMMstar: 0.5.4
 LMN: 1.1.2
 LMest: 3.0.3
@@ -4082,7 +4082,7 @@ NPsimex: 0.2-1
 NRAIA: 0.9-8
 NRejections: 1.2.0
 NSA: 0.0.3
-NSAE: 0.2.1
+NSAE: 0.3.0
 NSM3: '1.16'
 NSO1212: 1.4.0
 NST: 3.1.9
@@ -7738,7 +7738,7 @@ assertive.files: 0.0-2
 assertive.matrices: 0.0-2
 assertive.models: 0.0-2
 assertive.numbers: 0.0-2
-assertive.properties: 0.0-4
+assertive.properties: 0.0-5
 assertive.reflection: 0.0-5
 assertive.sets: 0.0-3
 assertive.strings: 0.0-3
@@ -8018,7 +8018,7 @@ bayesmeta: '3.0'
 bayesmix: 0.7-5
 bayesmodels: 0.1.1
 bayesmove: 0.2.1
-bayesnec: 2.0.2.3
+bayesnec: 2.0.2.4
 bayespack: 1.0-2
 bayesplay: 0.9.2
 bayesplot: 1.9.0
@@ -8951,7 +8951,7 @@ chebpol: 2.1-2
 checkLuhn: 1.1.0
 checkarg: 0.1.0
 checkdown: 0.0.7
-checkmate: 2.0.0
+checkmate: 2.1.0
 checkpoint: 1.0.2
 checkr: 0.5.0
 cheddar: 0.1-636
@@ -9214,7 +9214,7 @@ cmstatr: 0.9.1
 cmtest: 0.1-2
 cmvnorm: 1.0-7
 cna: 3.3.0
-cnaOpt: 0.5.0
+cnaOpt: 0.5.1
 cnbdistr: 1.0.1
 cncaGUI: '1.0'
 cnmlcd: 1.2-0
@@ -9457,7 +9457,7 @@ contextual: 0.9.8
 contfrac: 1.1-12
 conting: '1.7'
 contingency: 0.0.6
-contingencytables: 1.0.0
+contingencytables: 1.0.1
 contourPlot: 0.2.0
 contoureR: 1.0.5
 contrast: 0.24.1
@@ -10066,7 +10066,7 @@ ddpca: '1.1'
 ddpcr: '1.15'
 ddsPLS: 1.1.4
 ddst: '1.4'
-deBInfer: 0.4.2
+deBInfer: 0.4.3
 deBif: 0.1.5
 deGradInfer: 1.0.1
 deSolve: '1.32'
@@ -11455,7 +11455,7 @@ fastlogranktest: 0.2.1
 fastmaRching: 1.1.0
 fastmap: 1.1.0
 fastmatch: 1.1-3
-fastmatrix: '0.4'
+fastmatrix: 0.4-1
 fastmit: 0.1.1
 fastnet: 1.0.0
 fastpos: 0.4.1
@@ -13179,7 +13179,7 @@ highMLR: 0.1.0
 highSCREEN: '0.4'
 highTtest: '1.2'
 highcharter: 0.9.4
-highfrequency: 0.9.2
+highfrequency: 0.9.3
 highlight: 0.5.0
 highlightHTML: 0.2.5
 highmean: '3.0'
@@ -14707,7 +14707,7 @@ lorentz: 1.0-5
 lorenz: 0.1.0
 lori: 2.2.2
 lossDev: 3.0.0-4
-lotri: 0.4.0
+lotri: 0.4.1
 lowmemtkmeans: 0.1.2
 lowpassFilter: 1.0-1
 lpSolve: 5.6.15
@@ -15844,6 +15844,7 @@ mshap: 0.1.0
 msig: '1.0'
 msigdbr: 7.5.1
 msir: 1.3.3
+mskcc.oncotree: 0.1.0
 msltrend: '1.0'
 msm: 1.6.9
 msma: '2.2'
@@ -17634,7 +17635,7 @@ polyPK: 3.1.0
 polyRAD: '1.6'
 polySegratio: 0.2-5
 polySegratioMM: 0.6-4
-polyaAeppli: '2.0'
+polyaAeppli: 2.0.2
 polyapost: '1.7'
 polychaosbasics: 1.1-1
 polyclip: 1.10-0
@@ -19722,7 +19723,7 @@ saeHB.panel: 0.1.0
 saeHB.spatial: 0.1.0
 saeHB.twofold: 0.1.0
 saeHB.zinb: 0.1.0
-saeME: 1.2.4
+saeME: '1.3'
 saeMSPE: '1.0'
 saeRobust: 0.2.0
 saeSim: 0.11.0
@@ -20317,7 +20318,7 @@ sievePH: 1.0.1
 sievetest: 1.2.3
 sifds: '0.9'
 sift: 0.1.0
-sig: 0.0-5
+sig: 0.0-6
 sigInt: 0.2.0
 sigQC: 0.1.22
 sigclust: 1.1.0
@@ -20700,7 +20701,7 @@ spGoogle: 0.1-2
 spMC: 0.3.11
 spMaps: 0.4.0
 spNNGP: 0.1.7
-spNetwork: 0.4.2
+spNetwork: 0.4.3
 spOccupancy: 0.3.1
 spRingsteen: 0.0.1
 spTDyn: 2.0.1
@@ -21464,7 +21465,7 @@ sweidnumbr: 1.4.2
 swephR: 0.3.0
 swfscAirDAS: 0.2.2
 swfscDAS: 0.6.1
-swfscMisc: '1.5'
+swfscMisc: '1.6'
 swgee: '1.4'
 swimplot: 1.2.0
 swirl: 2.4.5
@@ -21814,7 +21815,7 @@ tidybins: 0.1.0
 tidyboot: 0.1.1
 tidycat: 0.1.2
 tidycells: 0.2.2
-tidycensus: '1.2'
+tidycensus: 1.2.1
 tidycharts: 0.1.3
 tidycmprsk: 0.1.2
 tidycode: 0.1.1
@@ -22540,7 +22541,7 @@ vbmp: 1.3.0
 vbsr: 0.0.5
 vccp: 0.1.1
 vcd: 1.4-9
-vcdExtra: 0.7-6
+vcdExtra: 0.8-0
 vcf2geno: '2.3'
 vcfR: 1.12.0
 vcmeta: 1.0.0
