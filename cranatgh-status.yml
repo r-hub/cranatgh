@@ -1256,7 +1256,7 @@ CrossVA: 1.0.0
 CrossValidate: 2.3.4
 Crossover: 0.1-20
 CruzPlot: 1.4.7
-CryptRndTest: 1.2.2
+CryptRndTest: 1.2.7
 CrypticIBDcheck: 0.3-3
 CsChange: 0.1.6
 CuCubes: 0.1.0
@@ -2857,7 +2857,7 @@ IPMpack: '2.1'
 IPPP: '1.1'
 IPSUR: '3.0'
 IPV: 0.2.0
-IPWboxplot: 0.1.0
+IPWboxplot: 0.1.1
 IPWpn: 0.1.0
 IPWsurvival: '0.5'
 IPtoCountry: 0.0.1
@@ -2888,7 +2888,7 @@ ISM: 0.1.0
 ISOcodes: 2022.01.10
 ISOpureR: 1.1.3
 ISOweek: 0.6-2
-ISR: 2022.3.28
+ISR: 2022.4.22
 ISR3: '0.98'
 ISRaD: 1.7.8
 ISwR: 2.0-8
@@ -3376,7 +3376,7 @@ MARSS: 3.11.4
 MARSSVRhybrid: 0.1.0
 MARVEL: 1.2.1
 MARX: '0.2'
-MASS: 7.3-56
+MASS: 7.3-57
 MASSExtra: 1.1.2
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
@@ -3577,7 +3577,7 @@ MMVBVS: 0.8.0
 MMWRweek: 0.1.3
 MMeM: 0.1.1
 MNARclust: 1.1.0
-MNB: 1.0.0
+MNB: 1.1.0
 MNLR: 0.1.0
 MNLpred: 0.0.8
 MNM: 1.0-3
@@ -3722,7 +3722,7 @@ Massign: 1.1.0
 MasterBayes: '2.57'
 MatManlyMix: 1.1.1
 MatSkew: 0.1.5
-MatTransMix: 0.1.15
+MatTransMix: 0.1.9
 MatchIt: 4.3.4
 MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
@@ -4698,7 +4698,7 @@ PreKnitPostHTMLRender: 0.1.0
 PreProcess: 3.1.7
 PreProcessing: 0.1.0
 PrecipStat: '1.03'
-PreciseSums: '0.4'
+PreciseSums: '0.5'
 PredCRG: 1.0.2
 PredPsych: '0.4'
 PredictABEL: 1.2-4
@@ -5770,7 +5770,7 @@ RobPer: 1.2.2
 RobRSVD: '1.0'
 RobRex: 1.2.0
 RobStatTM: 1.0.5
-RobinHood: 1.6.2
+RobinHood: 1.6.5
 Robocoap: 0.1-1
 RobustAFT: 1.4-5
 RobustBF: 0.2.0
@@ -8074,7 +8074,7 @@ bcs: 1.0.0
 bcv: 1.0.1.4
 bdDwC: 0.1.15
 bda: 15.2.5
-bdc: 1.0.0
+bdc: 1.1.0
 bdchecks: 0.1.7
 bdclean: 0.1.15
 bde: 1.0.1
@@ -8557,7 +8557,7 @@ brokenstick: 2.1.0
 brolgar: 0.1.2
 broman: '0.76'
 broom: 0.8.0
-broom.helpers: 1.6.0
+broom.helpers: 1.7.0
 broom.mixed: 0.2.9.4
 broomExtra: 4.3.2
 brotli: '1.2'
@@ -8982,6 +8982,7 @@ chirps: 0.1.4
 chisq.posthoc.test: 0.1.2
 chisquare: '0.3'
 chk: 0.8.0
+chkptstanr: 0.1.0
 chlorpromazineR: 0.2.0
 chngpt: 2022.4-6
 choiceDes: 0.9-3
@@ -9222,7 +9223,7 @@ cns: 0.1.0
 cnum: 0.1.3
 coRanking: 0.2.3
 coala: 0.6.1
-coalescentMCMC: 0.4-1
+coalescentMCMC: 0.4-4
 coalitions: 0.6.20
 coarseDataTools: 0.6-6
 cobalt: 4.3.2
@@ -9787,6 +9788,7 @@ ctsemOMX: 1.0.4
 ctv: 0.9-3
 cuRe: 1.0.1
 cubature: 2.0.4.4
+cubble: 0.1.0
 cubelyr: 1.0.1
 cubeview: 0.2.0
 cubfits: 0.1-4
@@ -10390,7 +10392,7 @@ distrMod: 2.8.4
 distrRmetrics: 2.8.0
 distrSim: 2.8.0
 distrTEst: 2.8.0
-distrTeach: 2.8.0
+distrTeach: 2.8.1
 distreg.vis: 1.7.3
 distribglm: 0.4.1
 distributional: 0.3.0
@@ -12180,6 +12182,7 @@ geesmv: '1.3'
 geex: 1.0.12
 geigen: '2.3'
 geiger: 2.0.7
+gellipsoid: 0.7.2
 gelnet: 1.2.1
 gem: '0.19'
 gemlog: '0.41'
@@ -12217,7 +12220,7 @@ geneNetBP: 2.0.1
 geneSLOPE: 0.37.0
 geneSignatureFinder: 2014.02.17
 genefu: 1.0.9
-genekitr: 0.5.3
+genekitr: 0.6.1
 genemodel: 1.1.0
 genepi: 1.0.1
 genepop: 1.1.7
@@ -12854,7 +12857,7 @@ gren: 0.0.1
 greport: 0.7-2
 greta: 0.4.2
 gretel: 0.0.1
-gretlR: 0.1.1
+gretlR: 0.1.2
 grex: '1.9'
 greybox: 1.0.5
 greyzoneSurv: '1.0'
@@ -13754,6 +13757,7 @@ interplot: 0.2.3
 interpret: 0.1.26
 interpretCI: 0.1.1
 interpretR: 0.2.4
+inters: '0.1'
 interval: 1.1-0.8
 intervalaverage: 0.8.0
 intervals: 0.15.2
@@ -13847,7 +13851,7 @@ irtreliability: 0.1-1
 isa2: 0.3.5
 isaeditor: 0.1.1
 isatabr: 1.0.0
-isdals: 2.0-4
+isdals: 3.0.0
 isdparser: 0.4.0
 isingLenzMC: 0.2.5
 island: 0.2.7
@@ -15746,7 +15750,7 @@ moult: 2.2.1
 mountainplot: '1.3'
 mousetrack: 1.0.0
 mousetrap: 3.2.1
-movMF: 0.2-6
+movMF: 0.2-7
 move: 4.1.6
 moveHMM: '1.7'
 moveVis: 0.10.5
@@ -16301,6 +16305,7 @@ nlmeODE: '1.1'
 nlmeU: 0.70-3
 nlmeVPC: '2.2'
 nlmixr: 2.0.7
+nlmixr2data: 2.0.7
 nlmm: 1.0.1
 nlmrt: 2016.3.2
 nlnet: '1.4'
@@ -16678,6 +16683,7 @@ openSkies: 1.1.6
 openVA: 1.0.14
 openadds: 0.2.0
 openair: 2.9-1
+openalexR: 0.0.1
 openbankeR: 0.1.1
 openblender: 0.5.81
 opencage: 0.2.2
@@ -16884,7 +16890,7 @@ pMineR: '0.31'
 pRF: '1.2'
 pROC: 1.18.0
 pRSR: 3.1.1
-pRecipe: 0.1.1
+pRecipe: 0.2.0
 pSI: '1.1'
 pTITAN2: 1.0.2
 pa: 1.2-1
@@ -17702,7 +17708,7 @@ portalr: 0.3.9
 portes: '5.0'
 portfolio: 0.5-2
 portfolio.optimization: 1.0-0
-portfolioBacktest: 0.3.1
+portfolioBacktest: 0.4.1
 portfolioSim: 0.2-7
 portsort: 0.1.0
 postCP: 1.7.2
@@ -19238,7 +19244,7 @@ rmongodb: 1.8.0
 rmoo: 0.1.7
 rmp: '2.0'
 rmpw: 0.0.4
-rms: 6.2-0
+rms: 6.3-0
 rms.gof: '1.0'
 rmsb: 0.1.0
 rmsfact: 0.0.3
@@ -19937,7 +19943,7 @@ sda: 1.3.8
 sdafilter: 1.0.0
 sdamr: 0.1.0
 sdat: '1.1'
-sdcHierarchies: 0.19.2
+sdcHierarchies: 0.19.3
 sdcLog: 0.5.0
 sdcMicro: 5.6.1
 sdcMicroGUI: 1.4.0
@@ -20173,7 +20179,8 @@ sgstar: 0.1.2
 sgt: '2.0'
 shades: 1.4.0
 shadow: 0.7.1
-shadowtext: 0.1.1
+shadowr: 0.0.1
+shadowtext: 0.1.2
 shallot: 0.4.10
 shape: 1.4.6
 shapeNA: 0.0.2
@@ -21603,7 +21610,7 @@ tawny.types: 1.1.5
 taxa: 0.4.2
 taxadb: 0.1.4
 taxalight: 0.1.5
-taxize: 0.9.99
+taxize: 0.9.100
 taxizedb: 0.3.0
 taxlist: 0.2.2
 taxonbridge: 1.2.0
@@ -21762,6 +21769,7 @@ tgp: 2.4-18
 tgram: 0.2-3
 tgstat: 2.3.17
 tgver: 0.2.0
+thaipdf: 0.1.2
 thankr: 1.0.0
 thectar: 1.0.0
 theiaR: 0.4.0
@@ -21893,6 +21901,7 @@ tilting: 1.1.1
 timbeR: 2.0.1
 timbr: 0.1.0
 time: '1.1'
+time.slots: 0.2.0
 time2event: 0.1.0
 timeDate: '3043.102'
 timeR: 1.2.0
@@ -21987,6 +21996,7 @@ tmvtnsim: 0.1.1
 tnam: '1.6'
 tnet: 3.0.16
 toOrdinal: 1.3-0.0
+toRvik: 1.0.2
 toaster: 0.5.5
 toastui: 0.2.1
 tobit1: 0.1-3
@@ -22981,7 +22991,7 @@ x13binary: 1.1.57-3
 x3ptools: 0.0.3
 xLLiM: '2.2'
 xROI: 0.9.20
-xRing: 0.1.0
+xRing: 0.1.1
 xSub: 3.0.1
 xVA: '1.0'
 xaringan: '0.23'
