@@ -325,7 +325,7 @@ BARD: '1.24'
 BAREB: 0.1.0
 BARIS: 1.1.3
 BART: '2.9'
-BAS: 1.6.0
+BAS: 1.6.2
 BASIX: '1.1'
 BASS: 1.2.2
 BASiNET: 0.0.4
@@ -367,7 +367,7 @@ BDgraph: '2.66'
 BE: 0.2.0
 BEACH: 1.3.1
 BEANSP: '1.0'
-BED: 1.4.4
+BED: 1.4.8
 BEDASSLE: '1.6'
 BEDMatrix: 2.0.3
 BEKKs: 1.1.0
@@ -756,7 +756,7 @@ CAMAN: '0.75'
 CAMML: 0.1.1
 CANSIM2R: 1.14.1
 CARBayes: 5.2.5
-CARBayesST: 3.2.2
+CARBayesST: 3.2.3
 CARBayesdata: '2.2'
 CARE1: 1.1.0
 CARLIT: '1.0'
@@ -2298,7 +2298,7 @@ GHS: '0.1'
 GHap: 2.0.0
 GIC: 1.0.0
 GIFTr: 0.1.0
-GIGrvg: '0.5'
+GIGrvg: '0.6'
 GISTools: 0.7-4
 GInSARCorW: 1.15.6
 GIplot: 0.1.0
@@ -2653,9 +2653,9 @@ HRQoL: '1.0'
 HRW: 1.0-5
 HS: '1.1'
 HSAR: '0.5'
-HSAUR: 1.3-9
-HSAUR2: 1.1-18
-HSAUR3: 1.0-12
+HSAUR: 1.3-10
+HSAUR2: 1.1-19
+HSAUR3: 1.0-13
 HSDiC: '0.1'
 HSEtest: 0.1.0
 HSPOR: 1.1.9
@@ -3250,7 +3250,7 @@ LabRS: 0.1.0
 LabourMarketAreas: '3.3'
 LadR: 1.0.6
 LagSequential: 0.1.1
-Lahman: 9.0-0
+Lahman: 10.0-1
 LakeMetabolizer: 1.5.0
 Lambda4: '3.0'
 LambertW: 0.6.7
@@ -6664,7 +6664,7 @@ TGS: 1.0.1
 TGST: '1.0'
 TGUICore: 0.9.9
 TGUITeaching: 0.9.9
-TH.data: 1.1-0
+TH.data: 1.1-1
 TIGERr: 1.0.0
 TIMP: 1.13.2
 TITAN2: 2.4.1
@@ -6902,7 +6902,7 @@ TriMatch: 0.9.9
 TriadSim: 0.3.0
 TrialSize: '1.4'
 TrioSGL: 1.1.0
-TripleR: 1.5.3
+TripleR: 1.5.4
 TropFishR: 1.6.3
 TrtCombo.FactorialExp.SR: 4.0.4
 TrueSkillThroughTime: 0.1.0
@@ -7780,7 +7780,7 @@ atm: 0.1.0
 atmcmc: '1.0'
 atmi: '1.0'
 atmopt: 0.1.0
-atom4R: 0.1-2
+atom4R: '0.2'
 atsd: 1.2.0
 attachment: 0.2.4
 attempt: 0.3.1
@@ -9073,7 +9073,7 @@ cld2: 1.2.1
 cld3: 1.4.2
 clda: '0.1'
 cldr: 1.1.0
-cleaR: 0.0.1
+cleaR: 0.0.2
 clean: 2.0.0
 cleanEHR: '1.0'
 cleanNLP: 3.0.3
@@ -9351,7 +9351,7 @@ compOverlapCorr: '1.0'
 compactr: '0.1'
 comparator: 0.1.2
 compare: 0.2-6
-compareC: 1.3.1
+compareC: 1.3.2
 compareDF: 2.3.3
 compareGroups: 4.5.1
 compareODM: '1.2'
@@ -10441,7 +10441,7 @@ dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
 dmai: 0.4.0
-dmbc: 1.0.0
+dmbc: 1.0.1
 dmdScheme: 1.3.3
 dml: 1.1.0
 dmlalg: 1.0.2
@@ -10458,7 +10458,7 @@ dng: 0.2.1
 dnr: 0.3.5
 do: 2.0.0.0
 doBy: 4.6.12
-doFuture: 0.12.1
+doFuture: 0.12.2
 doMC: 1.3.8
 doMIsaul: 1.0.1
 doMPI: 0.2.2
@@ -11188,7 +11188,7 @@ event.chart: '2.0'
 eventInterval: '1.3'
 eventTrack: 1.0.1
 eventdataR: 0.2.0
-eventglm: 1.2.1
+eventglm: 1.2.2
 eventr: 1.0.0
 events: '0.5'
 eventstream: 0.1.0
@@ -11214,7 +11214,7 @@ exPrior: 1.0.1
 exact2x2: 1.6.6
 exactDistr: 0.2-5
 exactLoglinTest: 1.4.2
-exactRankTests: 0.8-34
+exactRankTests: 0.8-35
 exactci: 1.4-2
 exactextractr: 0.8.2
 exactmaxsel: '1.0'
@@ -11909,7 +11909,7 @@ frscore: 0.1.1
 frt: '0.1'
 fruclimadapt: 0.4.4
 fs: 1.5.2
-fsMTS: 0.1.5
+fsMTS: 0.1.7
 fsbrain: 0.5.3
 fscaret: 0.9.4.4
 fsdaR: 0.6-5
@@ -12403,7 +12403,7 @@ ggPMX: 1.2.6
 ggQC: 0.0.31
 ggQQunif: 0.1.5
 ggROC: '1.0'
-ggRandomForests: 2.0.1
+ggRandomForests: 2.1.0
 ggResidpanel: 0.3.0
 ggThemeAssist: 0.1.5
 ggTimeSeries: 1.0.2
@@ -13102,7 +13102,7 @@ healthforum: 0.1.0
 healthyR: 0.1.9
 healthyR.ai: 0.0.6
 healthyR.data: 1.0.1
-healthyR.ts: 0.1.8
+healthyR.ts: 0.1.9
 healthyverse: 1.0.2
 heapsofpapers: 0.1.0
 heatex: '1.0'
@@ -13148,7 +13148,7 @@ heuristicsmineR: 0.2.5
 hexSticker: 0.4.9
 hexView: 0.3-4
 hexbin: 1.28.2
-hextri: '0.6'
+hextri: 0.9.17
 hflights: '0.1'
 hfr: 0.5.0
 hgam: 0.1-2
@@ -13417,7 +13417,7 @@ iDynoR: '1.0'
 iECAT: '0.8'
 iFad: '3.0'
 iFes: '1.0'
-iForecast: 1.0.4
+iForecast: 1.0.5
 iGSEA: '1.2'
 iGasso: '1.4'
 iGenomicViewer: 2.4.8
@@ -14663,7 +14663,7 @@ loggit: 2.1.1
 loggle: '1.0'
 logiBin: '0.3'
 logib: 0.1.2
-logicDT: 1.0.1
+logicDT: 1.0.2
 logihist: '1.0'
 logilasso: 0.1.0
 logistf: 1.24.1
@@ -15040,7 +15040,7 @@ mbir: 1.3.5
 mblm: 0.12.1
 mbmdr: '2.6'
 mbmixture: 0.2-5
-mboost: 2.9-6
+mboost: 2.9-7
 mboxr: 0.2.0
 mbr: 0.0.1
 mbrdr: 1.1.1
@@ -15522,7 +15522,7 @@ mldr: 0.4.3
 mldr.datasets: 0.4.2
 mle.tools: 1.0.0
 mleap: 1.1.0
-mlearning: 1.0-0
+mlearning: 1.1.1
 mlegp: 3.1.9
 mlergm: '0.8'
 mleur: 1.0-6
@@ -15901,7 +15901,7 @@ mulset: 1.0.0
 multDM: '1.1'
 multIntTestFunc: 0.1.1
 multbxxc: 1.0.1
-multcomp: 1.4-18
+multcomp: 1.4-19
 multcompView: 0.1-8
 multdyn: '1.6'
 multfisher: '1.1'
@@ -17050,7 +17050,7 @@ partitionMetric: '1.1'
 partitions: 1.10-4
 partools: 1.1.6
 partsm: 1.1-3
-party: 1.3-9
+party: 1.3-10
 partykit: 1.2-15
 parviol: '1.1'
 parzer: 0.4.1
@@ -17136,7 +17136,7 @@ pca3d: 0.10.2
 pcaBootPlot: 0.2.0
 pcaL1: 1.5.6
 pcaPA: '2.0'
-pcaPP: 1.9-74
+pcaPP: 2.0-1
 pcadapt: 4.3.3
 pcal: 1.0.0
 pcalg: 2.7-6
@@ -19031,7 +19031,7 @@ rexpokit: 0.26.6.7
 rextendr: 0.2.0
 rfPermute: 2.5.1
 rfUtilities: 2.1-5
-rfVarImpOOB: 1.0.1
+rfVarImpOOB: '1.0'
 rfacebookstat: 2.5.0
 rfacts: 0.2.0
 rfbCNPJ: 0.1.1
@@ -20090,7 +20090,7 @@ sensitivitymult: 1.0.2
 sensitivitymv: 1.4.3
 sensitivitymw: '2.1'
 sensmediation: 0.3.0
-sensobol: 1.1.0
+sensobol: 1.1.1
 sensors4plumes: '0.9'
 sensory: '1.1'
 senstrat: 1.0.3
@@ -20341,7 +20341,7 @@ sigloc: 0.0.4
 sigma2tools: '1.2'
 sigmaNet: 1.1.0
 sigmajs: 0.1.5
-sigminer: 2.1.3
+sigminer: 2.1.4
 sigmoid: 0.3.0
 signal: 0.7-7
 signal.hsmm: '1.2'
@@ -21711,7 +21711,7 @@ tester: 0.1.7
 testextra: 0.1.0
 testforDEP: 0.2.0
 testit: '0.13'
-testthat: 3.1.3
+testthat: 3.1.4
 testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
@@ -22415,7 +22415,7 @@ universals: 0.0.4
 unix: 1.5.4
 unjoin: 0.1.0
 unknownR: '0.4'
-unmarked: 1.1.1
+unmarked: 1.2.3
 unnest: 0.0.3
 unpivotr: 0.6.2
 unrepx: '1.0'
@@ -23003,7 +23003,7 @@ xROI: 0.9.20
 xRing: 0.1.1
 xSub: 3.0.1
 xVA: '1.0'
-xaringan: '0.23'
+xaringan: '0.24'
 xaringanthemer: 0.4.1
 xbreed: 1.0.1.1
 xdcclarge: 0.1.0
