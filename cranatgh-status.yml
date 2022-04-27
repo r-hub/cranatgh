@@ -131,7 +131,7 @@ ARTP: 2.0.5
 ARTP2: 0.9.45
 ARTofR: 0.4.1
 ARTool: 0.11.1
-ARpLMEC: '2.2'
+ARpLMEC: '2.3'
 ASGS.foyer: 0.3.1
 ASICS: 1.0.1
 ASIP: 0.4.9
@@ -1053,6 +1053,7 @@ CircSpaceTime: 0.9.0
 CircSpatial: '1.0'
 CircStats: 0.2-6
 CircularDDM: 0.1.0
+CircularSilhouette: 0.0.1
 Cite: 0.1.0
 CityPlot: '2.0'
 CityWaterBalance: 0.1.0
@@ -1540,7 +1541,7 @@ Demerelate: 0.9-3
 DemoDecomp: 1.0.1
 DemografixeR: 0.1.1
 DemographicTable: 0.1.1
-DendSer: 1.0.1
+DendSer: 1.0.2
 DendroSync: 0.1.3
 DengueRT: 1.0.1
 DensParcorr: '1.1'
@@ -3928,7 +3929,7 @@ MuChPoint: 0.6.3
 MuFiCokriging: '1.2'
 MuMIn: 1.46.0
 MuViCP: 1.3.2
-MullerPlot: 0.1.2
+MullerPlot: 0.1.3
 MultAlloc: '1.2'
 MultBiplotR: 1.3.30
 MultEq: '2.4'
@@ -4683,7 +4684,7 @@ PortfolioAnalytics: 1.1.0
 PortfolioEffectEstim: '1.4'
 PortfolioEffectHFT: '1.8'
 PortfolioOptim: 1.1.1
-PosRatioDist: 1.0.1
+PosRatioDist: 1.1.1
 PostcodesioR: 0.3.1
 PosteriorBootstrap: 0.1.1
 PottsUtils: 0.3-3
@@ -4898,7 +4899,7 @@ RAFM: '1.1'
 RAHRS: 1.0.2
 RAINBOWR: 0.1.29
 RALSA: 1.1.5
-RAM: 1.2.1.7
+RAM: 1.2.1
 RAMClustR: 1.2.4
 RAMP: 2.0.2
 RAMpath: '0.4'
@@ -5393,7 +5394,7 @@ Rage: 1.2.0
 RainfallErosivityFactor: 0.1.0
 RamanMP: '1.0'
 Ramble: 0.1.1
-Rambo: 1.1.1
+Rambo: '1.1'
 Ramd: '0.2'
 RandForestGUI: '1.0'
 RandMeta: 0.1.0
@@ -6032,7 +6033,7 @@ SIfEK: 0.1.0
 SK: '1.1'
 SKAT: 2.2.4
 SKNN: '3.0'
-SLBDD: 0.0.3
+SLBDD: 0.0.4
 SLC: '0.3'
 SLDAssay: '1.8'
 SLEMI: 1.0.1
@@ -6328,7 +6329,7 @@ SimCorrMix: 0.1.1
 SimDesign: '2.8'
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.2
-SimEngine: 1.0.0
+SimEngine: 1.1.0
 SimEvolEnzCons: 2.0.0
 SimHap: 1.2.0
 SimHaz: '0.1'
@@ -7456,7 +7457,7 @@ airt: 0.2.1
 ajv: 1.0.0
 akc: 0.9.7
 akiFlagger: 0.3.0
-akima: 0.6-3.3
+akima: 0.6-3.4
 akmbiclust: 0.1.0
 akmeans: '1.1'
 akmedoids: 1.3.0
@@ -7706,6 +7707,7 @@ as.color: '0.1'
 asVPC: 1.0.2
 asaur: '0.50'
 asbio: '1.7'
+ascentTraining: 1.0.0
 ascii: '2.4'
 asciiSetupReader: 2.4.0
 asciicast: 1.0.0
@@ -10451,7 +10453,7 @@ dmt: 0.8.20
 dmtools: 0.2.6
 dmutate: 0.1.3
 dna: 2.1-2
-dnapath: 0.6.11
+dnapath: 0.6.9
 dnc: '1.2'
 dnet: 1.1.7
 dng: 0.2.1
@@ -10802,7 +10804,7 @@ ecostats: 0.1.4
 ecostatscale: '1.0'
 ecotox: 1.4.4
 ecotoxicology: 1.0.1
-ecotraj: 0.0.1
+ecotraj: 0.0.3
 ecoval: 1.2.9
 ecp: 3.1.3
 ecpc: '3.0'
@@ -10883,7 +10885,7 @@ eha: 2.10.0
 ehaGoF: 0.1.1
 ehelp: '1.2'
 ei: 1.3-3
-ei.Datasets: 0.0.1-1
+ei.Datasets: 0.0.1-3
 eiCompare: 3.0.0
 eiPack: 0.2-1
 eiPartialID: 0.1.2
@@ -11648,7 +11650,7 @@ fishualize: 0.2.3
 fit.models: '0.64'
 fit4NM: 3.3.3
 fitConic: '1.2'
-fitDRC: 1.1.1
+fitDRC: '1.1'
 fitHeavyTail: 0.1.3
 fitODBOD: 1.4.1-1
 fitPoly: 3.0.0
@@ -12555,6 +12557,7 @@ ggtern: 3.3.5
 ggtext: 0.1.1
 ggthemes: 4.2.4
 ggtikz: 0.1.0
+ggtrendline: 1.0.3
 ggupset: 0.3.0
 ggvenn: 0.1.9
 ggversa: 0.0.1
@@ -13252,7 +13255,7 @@ homeR: 0.3.0
 hommel: '1.6'
 homologene: 1.4.68.19.3.27
 homomorpheR: 0.2-2
-homtest: 1.0-5
+homtest: '1.0'
 hoopR: 1.5.0
 hopach: 2.9.1
 hopbyhop: '3.41'
@@ -13559,6 +13562,7 @@ igraphdata: 1.0.1
 igraphinshiny: '0.1'
 igraphtosonia: '1.0'
 igrf: '1.0'
+ihclust: 0.1.0
 iheatmapr: 0.5.1
 iheiddown: 0.8.6
 ihpdr: 1.2.1
@@ -13815,7 +13819,7 @@ ipfr: 1.0.2
 ipft: 0.7.2
 ipify: 0.2.0
 ipkg: 1.0.4
-iplots: 1.1-7.1
+iplots: 1.1-7
 ipmisc: 6.0.2
 ipmr: 0.0.4
 ipptoolbox: '1.2'
@@ -14443,6 +14447,7 @@ lexRankr: 0.5.2
 lexicon: 1.2.1
 lexiconPT: 0.1.0
 lfactors: 1.0.4
+lfc: 0.2.2
 lfda: 1.1.3
 lfe: 2.8-7.1
 lfl: 2.1.2
@@ -14856,7 +14861,7 @@ magmaR: 1.0.2
 magnets: '0.2'
 magree: '1.1'
 magrittr: 2.0.3
-maic: 0.1.3
+maic: 0.1.4
 maicChecks: 0.1.2
 mail: '1.0'
 mailR: '0.8'
@@ -14911,7 +14916,7 @@ mapfit: 0.9.7
 mapfuser: 0.1.2
 mapi: 1.0.5
 maple: 0.99.5
-mapme.biodiversity: 0.0.1
+mapme.biodiversity: 0.1.0
 mapmisc: 1.8.0
 mapping: '1.3'
 mappings: '0.1'
@@ -15683,7 +15688,7 @@ moduleColor: 1.8-4
 modules: 0.10.0
 modygliani: '1.0'
 moexer: 0.1.0
-moezipfR: 1.0.2
+moezipfR: '1.0'
 mogavs: 1.1.0
 mojson: '0.1'
 mokken: 3.0.6
@@ -15793,7 +15798,7 @@ mrMLM.GUI: 4.0.2
 mra: 2.16.11
 mratios: 1.4.2
 mrbayes: 0.5.1
-mrbin: 1.6.3
+mrbin: 1.6.4
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
 mrds: 2.2.6
@@ -15881,7 +15886,7 @@ mthapower: 0.1.1
 mtk: '1.0'
 mtsc: 0.1.2
 mtsdi: 0.3.5
-muHVT: 1.0.2
+muHVT: 2.0.0
 muRL: 0.1-12
 muRty: 0.3.1
 muS2RC: 1.6.0
@@ -16670,6 +16675,7 @@ oompaData: 3.1.1
 ooplah: 0.2.0
 oops: 0.2.0
 oosp: 0.3.3
+oottest: 0.9.1
 opGMMassessment: '0.3'
 opa: 0.3.6
 opalr: 3.0.2
@@ -17204,7 +17210,7 @@ pedgene: '3.3'
 pedigree: '1.4'
 pedigreeTools: '0.1'
 pedigreemm: 0.3-3
-pedmod: 0.1.0
+pedmod: 0.2.0
 pedmut: 0.3.0
 pedometrics: 0.7.0
 pedprobr: 0.6.1
@@ -17740,7 +17746,7 @@ powdR: 1.3.0
 powdist: 0.1.4
 poweRlaw: 0.70.6
 powell: 1.0-0
-powerAnalysis: 0.2.1
+powerAnalysis: '0.2'
 powerCRT: 0.1.0
 powerCompRisk: 1.0.1
 powerEQTL: 0.3.4
@@ -18001,7 +18007,7 @@ psidR: '2.1'
 pso: 1.0.4
 psoptim: '1.0'
 psp: '0.1'
-pspatreg: 1.0.1
+pspatreg: 1.0.2
 pspearman: 0.3-0
 pspline: 1.0-19
 pspline.inference: 1.0.4
@@ -19899,6 +19905,7 @@ schumaker: 1.2.1
 schwartz97: 0.0.6
 scico: 1.3.0
 scidb: 3.0.0
+scidesignR: 1.0.0
 scientoText: '0.1'
 scifigure: '0.2'
 scio: 0.9.0
@@ -20231,6 +20238,7 @@ shinyEffects: 0.2.0
 shinyEventLogger: 0.1.1
 shinyFeedback: 0.4.0
 shinyFiles: 0.9.1
+shinyGizmo: '0.1'
 shinyGovstyle: 0.0.8
 shinyHeatmaply: 0.2.0
 shinyIRT: '0.1'
@@ -20261,7 +20269,7 @@ shinyalert: 3.0.0
 shinyanimate: 0.3.0
 shinyauthr: 1.0.0
 shinybatch: '0.3'
-shinybootstrap2: 0.2.1
+shinybootstrap2: '0.2'
 shinybrms: 1.7.0
 shinybusy: 0.3.0
 shinycssloaders: 1.0.0
@@ -20297,6 +20305,7 @@ shinyservicebot: 0.1.0
 shinystan: 2.6.0
 shinysurveys: 0.2.0
 shinytest: 1.5.1
+shinytest2: 0.1.0
 shinythemes: 1.2.0
 shinytitle: 0.1.0
 shinytoastr: 2.1.1
@@ -21842,7 +21851,7 @@ tidydice: 0.1.1
 tidydr: 0.0.4
 tidyestimate: 1.1.0
 tidyfast: 0.2.1
-tidyfst: 1.6.0
+tidyfst: 1.6.5
 tidyft: 0.4.5
 tidygapminder: 0.1.1
 tidygate: 0.4.9
@@ -22082,7 +22091,7 @@ tradepolicy: 0.6.0
 tradestatistics: 3.0.2
 trafo: 1.0.1
 trainR: 0.0.1
-traineR: 1.6.3
+traineR: 1.7.3
 traipse: 0.2.5
 traitdataform: 0.6.7
 traitr: '0.9'
@@ -22316,7 +22325,7 @@ twinning: '1.0'
 twitteR: 1.1.9
 twitterwidget: 0.1.1
 twl: '1.0'
-twn: 0.2.1
+twn: 0.2.2
 two.stage.boot: '1.0'
 twoStageGwasPower: 0.99.0
 twopartqtl: '1.0'
@@ -22551,7 +22560,7 @@ varrank: '0.4'
 vars: 1.5-6
 varsExplore: 0.3.0
 vartors: 0.2.6
-varycoef: 0.3.1
+varycoef: 0.3.2
 vasicek: 0.0.3
 vasicekreg: 1.0.1
 vaultr: 1.1.0
