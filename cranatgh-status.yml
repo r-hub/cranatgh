@@ -1063,7 +1063,7 @@ ClaimsProblems: 0.1.0
 ClamR: 2.1-1
 ClassComparison: 3.1.8
 ClassDiscovery: 3.4.0
-CleanBSequences: 0.4.0
+CleanBSequences: 1.4.0
 ClickClust: 1.1.5
 ClickClustCont: 0.1.7
 ClickHouseHTTP: 0.1.1
@@ -1391,7 +1391,7 @@ DIscBIO: 1.2.0
 DJL: '3.8'
 DLASSO: 2.0.2
 DLL: 1.0.0
-DLMtool: 6.0.3
+DLMtool: 6.0.4
 DMCfun: 2.0.2
 DMLLZU: 0.1.1
 DMMF: 0.5.1.2
@@ -2413,7 +2413,7 @@ GWAF: '2.2'
 GWASExactHW: '1.01'
 GWASbyCluster: 0.1.7
 GWASinlps: '1.2'
-GWASinspector: 1.5.7.1
+GWASinspector: 1.5.7.2
 GWAtoolbox: 2.2.4
 GWEX: 1.0.2
 GWG: '1.0'
@@ -2867,7 +2867,7 @@ IQCC: '0.7'
 IQMNMR: '1.0'
 IRATER: 0.0.1
 IRCcheck: 1.0.0
-IRISMustangMetrics: 2.4.4
+IRISMustangMetrics: 2.4.5
 IRISSeismic: 1.6.5
 IROmiss: 1.0.2
 IRSF: 1.0.3
@@ -3294,7 +3294,7 @@ LifeHist: 1.0-1
 LifeInsuranceContracts: 0.0.3
 LifeTables: '1.0'
 LightningR: 1.0.2
-LilRhino: 1.2.1
+LilRhino: 1.2.2
 LimnoPalettes: 0.1.0
 LinCal: '1.0'
 LinRegInteractive: 0.3-3
@@ -3343,6 +3343,7 @@ LotkasLaw: 0.0.1.0
 LowRankQP: 1.0.4
 LowWAFOMNX: 1.1.1
 LowWAFOMSobol: 1.1.1
+LqG: 0.1.0
 LumReader: 0.1.0
 LumiWCluster: 1.0.2
 Luminescence: 0.9.19
@@ -4377,7 +4378,7 @@ PDN: 0.1.0
 PDQutils: 0.1.6
 PDSCE: '1.2'
 PDShiny: 0.1.0
-PDtoolkit: 0.2.0
+PDtoolkit: 0.3.0
 PEACH: 0.1.1
 PEGroupTesting: '1.0'
 PEIP: 2.2-3
@@ -5143,7 +5144,7 @@ RMixtCompUtilities: 4.1.4
 RMongo: 0.0.25
 RMySQL: 0.10.23
 RNAseqNet: 0.1.4
-RNAseqQC: 0.1.1
+RNAseqQC: 0.1.2
 RNAsmc: 0.7.0
 RNAstructureModuleMiner: 0.1.0
 RNCBI: '0.9'
@@ -5906,7 +5907,7 @@ SAR: 1.0.3
 SARP.compo: 0.1.5
 SARP.moodle: 0.8.7
 SASPECT: 0.1-1
-SAScii: '1.0'
+SAScii: 1.0.1
 SASmarkdown: 0.4.3
 SASmixed: 1.0-4
 SASxport: 1.7.0
@@ -6074,7 +6075,7 @@ SNPMClust: '1.3'
 SNPMaP: 1.1.1
 SNPMaP.cdm: 1.1.1
 SNPRelate: 0.9.9
-SNPannotator: 0.2.0.0
+SNPannotator: 0.2.2.0
 SNPassoc: 2.0-11
 SNPfiltR: 1.0.0
 SNPknock: 0.8.2
@@ -7307,7 +7308,7 @@ actel: 1.2.1
 activPAL: 0.1.3
 activatr: 0.1.0
 activegp: 1.0.6
-activity: 1.3.1
+activity: 1.3.2
 activityCounts: 0.1.2
 activityGCMM: 1.1.1
 activpalProcessing: '1.0'
@@ -9478,7 +9479,7 @@ convertr: '0.1'
 convevol: '1.3'
 convexHaz: '0.2'
 convexjlr: 0.8.1
-convey: 0.2.4
+convey: 0.2.5
 convoSPAT: 1.2.7
 cooccur: '1.3'
 cooccurNet: 0.1.6
@@ -10788,7 +10789,7 @@ ecoengine: '1.9'
 ecolMod: 1.2.6
 ecolTest: 0.0.1
 ecolottery: 1.0.0
-econet: 0.1.94
+econet: 1.0.0
 econetwork: 0.6.0
 economiccomplexity: '1.1'
 econullnetr: 0.2.1
@@ -11477,7 +11478,7 @@ fasttime: 1.1-0
 fastverse: 0.2.3
 fat2Lpoly: 1.2.5
 faux: 1.1.0
-fauxnaif: 0.6.1
+fauxnaif: 0.7.0
 fauxpas: 0.5.0
 faviconPlease: 0.1.1
 favir: 0.5-1
@@ -11816,7 +11817,7 @@ formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
 formulops: 0.5.0
-forplo: 0.1.0
+forplo: 0.2.0
 forrel: 1.4.1
 forsearch: 2.3.0
 fortunes: 1.5-4
@@ -12240,7 +12241,7 @@ geneticae: 0.3.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
 genieclust: 1.0.0
-genio: 1.0.25
+genio: 1.1.1
 genius: 2.2.3
 geniusr: 1.2.0
 genlasso: '1.5'
@@ -14425,7 +14426,7 @@ legion: 0.1.1
 legislatoR: '1.0'
 legocolors: 0.3.1
 lehdr: 1.0.1
-leiden: 0.3.9
+leiden: 0.3.10
 leidenAlg: 1.0.3
 leidenbase: 0.1.11
 leiv: 2.0-7
@@ -14944,7 +14945,7 @@ marelac: 2.1.10
 marelacTeaching: '1.1'
 marg: 1.2-2.1
 margLikArrogance: '0.2'
-margaret: 0.1.2
+margaret: 0.1.3
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
@@ -14977,7 +14978,7 @@ mason: 0.3.0
 masscor: 0.0.7.1
 massiveGST: '1.0'
 mastif: 1.0.1
-matR: 0.9.1
+matR: '0.9'
 matahari: 0.1.3
 match2C: 1.2.3
 matchMulti: 1.1.10
@@ -16760,7 +16761,7 @@ optimsimplex: 1.0-8
 optimus: 0.2.0
 optimx: 2021-10.12
 optinterv: 0.1.0
-optional: '2.0'
+optional: 2.0.1
 optionstrat: 1.4.1
 optiscale: 1.2.2
 optismixture: '0.1'
@@ -17593,7 +17594,7 @@ pmledecon: 0.1.0
 pmlr: '1.0'
 pmml: 2.5.2
 pmmlTransformations: 1.3.3
-pmparser: 1.0.4
+pmparser: 1.0.10
 pmpp: 0.1.1
 pmr: 1.2.5
 pmsampsize: 1.1.2
@@ -19366,7 +19367,7 @@ rollmatch: 2.0.2
 rollply: 0.5.0
 roloc: 0.1-1
 rolocISCCNBS: '0.1'
-rolog: '0.9'
+rolog: 0.9.1
 rolr: 1.0.0
 rolypoly: 0.1.0
 romero.gateway: 0.4.4
@@ -20593,7 +20594,7 @@ smoothedLasso: '1.6'
 smoother: '1.1'
 smoothic: 0.1.0
 smoothie: 1.0-3
-smoothmest: 0.1-2
+smoothmest: 0.1-3
 smoothr: 0.2.2
 smoothtail: 2.0.5
 smoots: 1.1.3
@@ -20955,7 +20956,7 @@ splusTimeSeries: 1.5.2
 spm: 1.2.1
 spm12r: 2.8.3
 spm2: 1.1.2
-spmoran: 0.2.2.2
+spmoran: 0.2.2.3
 spnaf: 0.1.0
 spnet: 0.9.1-0
 spnn: 1.2.1
@@ -21472,7 +21473,7 @@ svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: '0.1'
 svyVGAM: '1.0'
-svydiags: '0.3'
+svydiags: '0.4'
 swCRTdesign: '3.1'
 swa: 0.8.1
 swag: 0.1.0
@@ -21789,6 +21790,7 @@ tgver: 0.2.0
 thaipdf: 0.1.2
 thankr: 1.0.0
 thectar: 1.0.0
+theft: 0.3.9.5
 theiaR: 0.4.0
 thematic: 0.1.2.1
 themetagenomics: 1.0.2
