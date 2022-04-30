@@ -459,7 +459,7 @@ BRACoD.R: 0.0.2.0
 BRDT: 0.1.0
 BRETIGEA: 1.0.3
 BRINDA: 0.1.4
-BRISC: 1.0.4
+BRISC: 1.0.5
 BRL: 0.1.0
 BRugs: 0.9-1
 BSBT: 1.2.0
@@ -2337,7 +2337,7 @@ GNAR: 1.1.1
 GNE: 0.99-3
 GNRS: 0.3.4
 GNSSseg: '6.0'
-GOCompare: 1.0.0
+GOCompare: 1.0.1
 GOFSN: '1.0'
 GOFShiny: 0.1.0
 GOGANPA: '1.0'
@@ -2621,7 +2621,7 @@ HGNChelper: 0.8.1
 HGSL: 1.0.0
 HH: 3.1-47
 HHG: 2.3.4
-HI: '0.4'
+HI: '0.5'
 HIBAG: 1.2.4
 HIBPwned: 0.1.7
 HIMA: 2.0.0
@@ -3298,7 +3298,7 @@ LifeTables: '1.0'
 LightningR: 1.0.2
 LilRhino: 1.2.2
 LimnoPalettes: 0.1.0
-LinCal: '1.0'
+LinCal: 1.0.1
 LinRegInteractive: 0.3-3
 LindenmayeR: 0.1.13
 LindleyPowerSeries: 1.0.1
@@ -4323,7 +4323,7 @@ PAGI: '1.0'
 PAGWAS: '2.0'
 PAMA: 1.2.0
 PAMhm: 0.1.2
-PAMmisc: 1.8.3
+PAMmisc: 1.9.2
 PAMpal: 0.16.0
 PANDA: 0.9.9
 PANICr: 1.0.0
@@ -4547,7 +4547,7 @@ PakPMICS2018fs: 0.1.0
 PakPMICS2018hh: 0.1.0
 PakPMICS2018mm: 0.1.0
 PakPMICS2018mn: 0.1.0
-PamBinaries: 1.6.0
+PamBinaries: 1.7.0
 PamGeneMixed: '1.03'
 PanCanVarSel: 0.0.3
 PanJen: '1.6'
@@ -4819,7 +4819,7 @@ QTLEMM: 1.1.0
 QTLNetworkR: 0.1-7
 QTLRel: '1.9'
 QTOCen: 0.1.1
-QUALYPSO: '1.2'
+QUALYPSO: '2.0'
 QUIC: '2012.02'
 QVM: 0.1.1
 QWDAP: 1.1.17
@@ -5801,7 +5801,7 @@ RoughSets: 1.3-7
 RoundAndRound: 0.0.1
 Routliers: 0.0.0.3
 Rpad: 1.3.0
-Rpadrino: 0.0.3
+Rpadrino: 0.0.4
 Rpdb: '2.3'
 RpeakChrom: 1.1.0
 RpgSQL: 0.1-6
@@ -5992,7 +5992,7 @@ SEMID: 0.4.0
 SEMModComp: '1.0'
 SEMgraph: 1.1.1
 SEMrushR: 0.1.0
-SEMsens: 1.0.2
+SEMsens: 1.0.3
 SETPath: '1.0'
 SEchart: '0.1'
 SEofM: 0.1.0
@@ -7403,7 +7403,7 @@ aemo: 0.3.0
 afCEC: 1.0.2
 afc: 1.4.0
 afdx: 1.1.1
-afex: 1.1-0
+afex: 1.1-1
 affinity: 0.2.5
 affinitymatrix: 0.1.0
 affluenceIndex: '2.1'
@@ -8992,7 +8992,7 @@ chirps: 0.1.4
 chisq.posthoc.test: 0.1.2
 chisquare: '0.3'
 chk: 0.8.0
-chkptstanr: 0.1.0
+chkptstanr: 0.1.1
 chlorpromazineR: 0.2.0
 chngpt: 2022.4-6
 choiceDes: 0.9-3
@@ -9609,7 +9609,7 @@ covmat: '1.0'
 covr: 3.5.1
 covreg: '1.0'
 covsep: 1.1.0
-covsim: 0.2.1
+covsim: 1.0.0
 cowbell: 0.1.0
 cowplot: 1.1.1
 cowsay: 0.8.0
@@ -12746,7 +12746,7 @@ goft: 1.3.6
 goftest: 1.2-3
 goftte: '1.0'
 gogamer: 0.4.3
-gogarch: 0.7-2
+gogarch: 0.7-5
 goldi: 1.0.1
 goldilocks: 0.3.0
 golem: 0.3.2
@@ -13026,7 +13026,7 @@ hJAM: 1.0.0
 hNMF: '1.0'
 hR: 0.2.50
 hSDM: 1.4.1
-haarfisz: '4.5'
+haarfisz: 4.5.3
 hablar: 0.3.0
 hackeRnews: 0.1.0
 hacks: 0.1-9
@@ -13114,7 +13114,7 @@ healthcareai: 2.5.0
 healthfinance: 0.1.0
 healthforum: 0.1.0
 healthyR: 0.1.9
-healthyR.ai: 0.0.6
+healthyR.ai: 0.0.7
 healthyR.data: 1.0.1
 healthyR.ts: 0.1.9
 healthyverse: 1.0.2
@@ -14609,9 +14609,9 @@ lmem.gwaser: 0.1.0
 lmem.qtler: 0.1.1
 lmenssp: '1.2'
 lmerTest: 3.1-3
-lmeresampler: 0.2.1
+lmeresampler: 0.2.2
 lmf: '1.2'
-lmfor: '1.5'
+lmfor: '1.6'
 lmkCHK: 1.0.0
 lmls: 0.1.0
 lmm: '1.3'
@@ -14735,7 +14735,7 @@ lori: 2.2.2
 lossDev: 3.0.0-4
 lotri: 0.4.1
 lowmemtkmeans: 0.1.2
-lowpassFilter: 1.0-1
+lowpassFilter: 1.0-2
 lpSolve: 5.6.15
 lpSolveAPI: 5.5.2.0-17.7
 lpbrim: 1.0.0
@@ -15378,7 +15378,7 @@ microdemic: 0.6.0
 microeco: 0.7.5
 microhaplot: 1.0.1
 micromap: 1.9.5
-micromapST: 1.1.1
+micromapST: 1.1.3
 micropan: '2.1'
 microplot: 1.0-45
 microsamplingDesign: 1.0.8
@@ -15471,7 +15471,7 @@ missingHE: 1.4.1
 mistat: 2.0.3
 mistr: 0.0.5
 mistral: 2.2.1
-misty: 0.4.4
+misty: 0.4.5
 mitml: 0.4-3
 mitools: '2.4'
 mitre: 1.0.0
@@ -15765,7 +15765,7 @@ mosqcontrol: 0.1.0
 mosum: 1.2.6
 mota: '1.2'
 motif: 0.5.0
-motifcluster: 0.1.2
+motifcluster: 0.2.0
 motifr: 1.0.0
 motmot: 2.1.3
 motmot.2.0: 1.1.2
@@ -16263,7 +16263,7 @@ newFocus: '1.1'
 newTestSurvRec: 1.0.2
 newallelic: '0.1'
 newsanchor: 0.1.1
-newscatcheR: 0.1.0
+newscatcheR: 0.1.1
 newsmap: 0.8.0
 newsmd: 0.4.0
 nfda: '0.2'
@@ -16618,7 +16618,7 @@ odk: '1.5'
 odkr: 0.2.0
 odpc: 2.0.5
 odprism: '1.1'
-odr: 1.2.1
+odr: 1.3.1
 oec: 2.7.8
 oem: 2.0.10
 oenb: 0.0.2
@@ -17833,10 +17833,10 @@ predict3d: 0.1.3.3
 prediction: 0.3.14
 predictionInterval: 1.0.0
 predictmeans: 1.0.6
-predictoR: 2.0.5
+predictoR: 2.0.7
 predictrace: 2.0.0
 predieval: 0.1.1
-predint: 1.0.0
+predint: 1.1.0
 predkmeans: 0.1.1
 predmixcor: '1.1'
 predtools: 0.0.2
@@ -18045,7 +18045,7 @@ psycho: 0.6.1
 psychometric: '2.2'
 psychomix: 1.1-8
 psychonetrics: '0.10'
-psychotools: 0.7-0
+psychotools: 0.7-1
 psychotree: 0.15-4
 psychrolib: 2.5.2
 psychtm: 2021.1.0
@@ -18272,7 +18272,7 @@ quantileDA: '1.1'
 quantilogram: 2.2.1
 quantities: 0.1.6
 quantkriging: 0.1.0
-quantmod: 0.4.18
+quantmod: 0.4.20
 quantoptr: 0.1.3
 quantreg: '5.88'
 quantreg.nonpar: '1.0'
@@ -18654,7 +18654,7 @@ rbmi: 1.1.3
 rbmn: 0.9-5
 rbokeh: 0.5.2
 rbooster: 1.1.0
-rbounds: '2.1'
+rbounds: '2.2'
 rbraries: 0.2.0
 rbridge: 1.0.2
 rbscCI: 0.1.0
@@ -19357,7 +19357,7 @@ rocNIT: '1.0'
 rocTree: 1.1.1
 rocc: '1.3'
 roccv: '1.2'
-rock: 0.5.1
+rock: 0.5.4
 rockchalk: 1.8.151
 rocker: 0.3.0
 rockr: 1.0.0
@@ -20084,7 +20084,7 @@ semdiag: 0.1.2
 semdrw: 0.1.0
 semds: 0.9-6
 semiArtificial: 2.4.1
-semicmprskcoxmsm: 0.1.0
+semicmprskcoxmsm: 0.2.0
 seminr: 2.3.0
 semisupKernelPCA: 0.1.5
 semmcmc: 0.0.6
@@ -21593,7 +21593,7 @@ tablerDash: 0.1.0
 tables: 0.9.6
 tableschema.r: 1.1.1
 tablesgg: 0.8-1
-tablet: 0.5.7
+tablet: 0.5.8
 tabnet: 0.3.0
 tabplot: '1.3'
 tabplotGTK: '0.6'
@@ -22110,7 +22110,7 @@ tradepolicy: 0.6.0
 tradestatistics: 3.0.2
 trafo: 1.0.1
 trainR: 0.0.1
-traineR: 1.7.3
+traineR: 1.7.4
 traipse: 0.2.5
 traitdataform: 0.6.7
 traitr: '0.9'
@@ -22549,7 +22549,7 @@ vamc: 0.2.1
 vampyr: 1.1.1
 vandalico: 0.0.1
 vanddraabe: 1.1.1
-vannstats: 1.2.2.27
+vannstats: 1.2.4.29
 vanquish: 1.0.0
 vapour: 0.8.5
 varComp: 0.2-0
@@ -23170,7 +23170,7 @@ ziphsmm: 2.0.6
 zipsae: 1.0.2
 zlog: 1.0.0
 zmatrix: '1.1'
-zmisc: 0.2.1
+zmisc: 0.2.2
 zoeppritz: 1.0-8
 zoib: 1.5.5
 zoid: 1.1.0
