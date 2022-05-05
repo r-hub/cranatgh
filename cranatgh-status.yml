@@ -400,7 +400,7 @@ BICORN: 0.1.0
 BIEN: 1.2.5
 BIFIEsurvey: 3.4-15
 BIGDAWG: 3.0.3
-BIGL: 1.6.5
+BIGL: 1.6.6
 BINCO: 0.1-1
 BINCOR: 0.2.0
 BINtools: 0.2.0
@@ -505,6 +505,7 @@ BallMapper: 0.2.0
 BarBorGradient: 1.0.5
 BarcodingR: 1.0-3
 Barnard: '1.8'
+BartMixVs: 1.0.0
 Barycenter: 1.3.1
 BaseSet: 0.0.17
 BasketballAnalyzeR: 0.5.0
@@ -1978,7 +1979,7 @@ FCNN4R: 0.6.2
 FCO: 0.7.2
 FCPS: 1.3.0
 FCSlib: 1.3.0
-FCVAR: 0.1.2
+FCVAR: 0.1.4
 FD: 1.0-12.1
 FDGcopulas: '1.0'
 FDRSeg: 1.0-3
@@ -2302,7 +2303,7 @@ GHS: '0.1'
 GHap: 2.0.0
 GIC: 1.0.0
 GIFTr: 0.1.0
-GIGrvg: '0.6'
+GIGrvg: '0.7'
 GISTools: 0.7-4
 GInSARCorW: 1.15.6
 GIplot: 0.1.0
@@ -3870,7 +3871,7 @@ MixSIAR: 3.1.12
 MixSim: 1.1-5
 MixTwice: '2.0'
 MixedDataImpute: '0.1'
-MixedIndTests: 0.8.0
+MixedIndTests: 0.9.1
 MixedPoisson: '2.0'
 MixedPsy: 1.1.0
 MixedTS: 1.0.4
@@ -5253,7 +5254,7 @@ RPyGeo: 1.0.0
 RQDA: 0.3-1
 RQEntangle: 0.1.3
 RQGIS: 1.0.4
-RQuantLib: 0.4.15
+RQuantLib: 0.4.16
 RRBoost: '0.1'
 RRF: 1.9.3
 RRI: '1.1'
@@ -5890,7 +5891,7 @@ SACOBRA: '1.2'
 SADEG: 1.0.0
 SADISA: '1.2'
 SAENET: '1.1'
-SAEval: 0.1.3
+SAEval: 0.1.4
 SAFARI: 0.1.0
 SAFD: '2.1'
 SAGA: 2.0.0
@@ -7622,7 +7623,7 @@ aphid: 1.3.3
 aphylo: 0.2-1
 apisensr: 0.3.0
 aplore3: '0.9'
-aplot: 0.1.3
+aplot: 0.1.4
 aplpack: 1.3.5
 apmsWAPP: '1.0'
 apng: '1.1'
@@ -7936,7 +7937,7 @@ bamboo: 0.9.25
 bambooHR: 0.1.0
 bamdit: 3.4.0
 bamlss: 1.1-7
-bamp: 2.1.0
+bamp: 2.1.1
 bams: '1.6'
 banR: 0.2.2
 bandit: 0.5.0
@@ -8334,6 +8335,7 @@ biopara: '1.5'
 bioplots: 0.0.1
 biorxivr: 1.0.2
 bios2mds: 1.2.3
+biosensors.usc: '1.0'
 bioseq: 0.1.3
 bioset: 0.2.3
 biosignalEMG: 2.1.0
@@ -8371,6 +8373,7 @@ bittermelon: 0.2.1
 biva: 0.1.0
 bivarRIpower: '1.2'
 bivariate: 0.7.0
+bivariatemaps: '1.0'
 bivgeom: '1.0'
 bivpois: 0.50-3
 bivquant: '0.1'
@@ -8425,6 +8428,7 @@ blsAPI: 0.2.1
 blsR: 0.3.0
 blscrapeR: 3.2.0
 bltm: 0.1.0
+bluebike: 0.0.3
 bmabasket: 0.1.2
 bmass: 1.0.3
 bmd: '0.5'
@@ -8588,7 +8592,7 @@ brulee: 0.1.0
 brunnermunzel: 1.4.1
 brxx: 0.1.2
 bs: '1.0'
-bs4Dash: 2.0.3
+bs4Dash: 2.1.0
 bs4cards: 0.1.1
 bsTools: 0.1.0
 bsam: 1.1.3
@@ -9214,7 +9218,7 @@ cmdfun: 1.0.2
 cmenet: 0.1.1
 cmfilter: 0.9.1
 cmfrec: 3.4.2
-cml: 0.0.3
+cml: 0.0.5
 cmm: '0.12'
 cmmr: 0.1.2
 cmna: 1.0.5
@@ -9411,6 +9415,7 @@ concorR: 0.2.1
 concord: '1.4'
 concordance: 2.0.0
 concreg: '0.7'
+concstats: 0.1.0
 concurve: 2.7.7
 cond: 1.2-3.1
 condGEE: 0.1-4
@@ -10301,7 +10306,7 @@ diffEq: '1.0'
 diffIRT: '1.5'
 diffMeanVar: 0.0.6
 diffMeshGP: 0.1.0
-diffcor: 0.7.0
+diffcor: 0.7.1
 diffdepprop: 0.1-9
 diffdf: 1.0.4
 diffeR: 0.0-6
@@ -10668,7 +10673,7 @@ dyads: 1.1.4
 dycdtools: 0.3.1
 dydea: 0.1.0
 dygraphs: 1.1.1.6
-dymo: 1.0.0
+dymo: 1.1.0
 dyn: 0.2-9.6
 dyn.log: 0.4.0
 dynBiplotGUI: 1.1.6
@@ -10766,7 +10771,7 @@ eatATA: 1.0.0
 eatDB: 0.5.0
 eatGADS: 0.19.1
 eatRep: 0.14.0
-eatTools: 0.7.1
+eatTools: 0.7.2
 ebGenotyping: 2.0.1
 ebSNP: '1.0'
 eba: 1.10-0
@@ -10801,7 +10806,7 @@ eco: 4.0-1
 ecoCopula: 1.0.2
 ecochange: '2.8'
 ecocomDP: 1.2.1
-ecodist: 2.0.7
+ecodist: 2.0.9
 ecoengine: '1.9'
 ecolMod: 1.2.6
 ecolTest: 0.0.1
@@ -11727,7 +11732,7 @@ flextable: 0.7.0
 flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
-flightsbr: 0.1.2
+flightsbr: 0.2.0
 flimo: 0.1.1
 flintyR: 0.0.2
 flip: 2.5.0
@@ -12801,7 +12806,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.3.5
-gpboost: 0.7.3.1
+gpboost: 0.7.5
 gpclib: 1.5-6
 gpg: 1.2.6
 gphmm: 0.99.0
@@ -13838,7 +13843,7 @@ ipdw: 0.2-9
 ipeaData: 0.0.2
 ipeadatar: 0.1.6
 ipflasso: '1.1'
-ipfp: 1.0.1
+ipfp: 1.0.2
 ipfr: 1.0.2
 ipft: 0.7.2
 ipify: 0.2.0
@@ -14485,7 +14490,7 @@ lgcp: '1.7'
 lglasso: 0.1.0
 lgpr: 1.1.5
 lgr: 0.4.3
-lgrExtra: 0.0.5
+lgrExtra: 0.0.6
 lgrdata: 0.1.1
 lgtdl: 1.1.5
 lhmixr: 0.1.0
@@ -14753,6 +14758,7 @@ lpSolve: 5.6.15
 lpSolveAPI: 5.5.2.0-17.7
 lpbrim: 1.0.0
 lpc: 1.0.2.1
+lpcde: 0.0.1
 lpdensity: 2.3.1
 lphom: 0.3.1-1
 lpint: '2.1'
@@ -15137,7 +15143,7 @@ mcvis: 1.0.8
 mcwr: 1.0.0
 md: 1.0.4
 md.log: 0.1.1
-mda: 0.5-2
+mda: 0.5-3
 mdapack: 0.0.2
 mdatools: 0.12.0
 mdbr: 0.1.2
@@ -15209,7 +15215,7 @@ memgene: 1.0.2
 memify: 0.1.1
 memisc: 0.99.30.7
 memnet: 0.1.0
-memo: 1.0.1
+memo: 1.0.2
 memochange: 1.1.1
 memofunc: 1.0.2
 memoiR: 1.1-4
@@ -15479,7 +15485,7 @@ missMDA: '1.18'
 missMethods: 0.3.0
 missRanger: 2.1.3
 missSBM: 1.0.2
-missSOM: 1.0.0
+missSOM: 1.0.1
 missingHE: 1.4.1
 mistat: 2.0.3
 mistr: 0.0.5
@@ -15999,7 +16005,7 @@ multirich: 2.1.3
 multiridge: '1.9'
 multiselect: 0.1.0
 multisensi: 2.1-1
-multisite.accuracy: '1.0'
+multisite.accuracy: '1.1'
 multisom: '1.3'
 multispatialCCM: '1.0'
 multistate: '0.2'
@@ -16248,7 +16254,7 @@ netweavers: '1.1'
 network: 1.17.1
 networkABC: 0.8-0
 networkD3: '0.4'
-networkDynamic: 0.11.1
+networkDynamic: 0.11.2
 networkDynamicData: 0.2.1
 networkGen: 0.1.1
 networkR: 0.1.2
@@ -17675,7 +17681,7 @@ pollen: 0.82.0
 pollimetry: 1.0.1
 pollstR: 2.0.1
 pollster: 0.1.3
-polmineR: 0.8.5
+polmineR: 0.8.6
 polspline: 1.1.20
 polyCub: 0.8.0
 polyMatrix: 0.9.16
@@ -18336,8 +18342,8 @@ r2d2: 1.0-0
 r2d3: 0.2.6
 r2dRue: 1.0.4
 r2dictionary: '0.1'
-r2dii.analysis: 0.1.12
-r2dii.data: 0.2.2
+r2dii.analysis: 0.2.0
+r2dii.data: 0.3.0
 r2dii.match: 0.0.11
 r2dii.plot: 0.2.0
 r2glmm: 0.1.2
@@ -18640,6 +18646,7 @@ rayrender: 0.23.6
 rayshader: 0.24.10
 raytracing: 0.1.0
 rayvertex: 0.3.3
+rb3: 0.0.1
 rbace: 0.2.2
 rbacon: 2.5.8
 rbamtools: 2.9.2
