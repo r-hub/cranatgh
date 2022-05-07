@@ -411,7 +411,7 @@ BIPOD: 0.2.1
 BIRDS: 0.2.0
 BIS: 0.2.1
 BISdata: 0.1-1
-BKPC: 1.0.1
+BKPC: '1.0'
 BLCOP: 0.3.3
 BLModel: 1.0.2
 BLOQ: 0.1-1
@@ -806,7 +806,7 @@ CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
 CDatanet: 1.0.1
 CEAmarkov: 0.1.0
-CEC: 0.10.3
+CEC: 0.9.4
 CEDA: 1.0.2
 CEDARS: '1.90'
 CEGO: 2.4.2
@@ -2354,7 +2354,7 @@ GPBayes: 0.1.0-3
 GPC: '0.1'
 GPCMlasso: 0.1-6
 GPCSIV: 0.1.0
-GPFDA: 3.1.1
+GPFDA: 3.1.2
 GPGame: 1.2.0
 GPIC: 0.1.0
 GPL2025: 1.0.1
@@ -2401,7 +2401,7 @@ GSED: '2.5'
 GSIF: 0.5-5
 GSM: 1.3.2
 GSMX: '1.3'
-GSODR: 3.1.4
+GSODR: 3.1.5
 GSSE: '0.1'
 GSelection: 0.1.0
 GSparO: '1.0'
@@ -2689,7 +2689,7 @@ HapEstXXR: 0.1-8
 Hapi: 0.0.3
 Haplin: 7.2.3
 HaploSim: 1.8.4
-HardyWeinberg: 1.7.4
+HardyWeinberg: 1.7.5
 HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
 HazardDiff: 0.1.0
@@ -3121,7 +3121,7 @@ L1mstate: 1.0.1
 L1pack: '0.40'
 L2DensityGoFtest: 0.4.0
 L2E: '1.0'
-LA: 0.1.3
+LA: '2.0'
 LAGOSNE: 2.0.2
 LAM: 0.5-15
 LANDD: 1.1.0
@@ -3861,7 +3861,7 @@ MitISEM: '1.2'
 MitoHEAR: 0.1.0
 MittagLeffleR: 0.4.1
 MixAll: 1.5.1
-MixGHD: 2.3.6
+MixGHD: '2.3'
 MixMAP: 1.3.4
 MixMatrix: 0.2.6
 MixMod: '1.0'
@@ -4637,7 +4637,7 @@ PhysActBedRest: '1.1'
 PhysicalActivity: 0.2-4
 PieceExpIntensity: 1.0.4
 Pijavski: 1.0.3
-PivotalR: 0.1.18.5
+PivotalR: 0.1.9
 PkgsFromFiles: '0.5'
 PlackettLuce: 0.4.1
 PlaneGeometry: 1.3.1
@@ -4851,7 +4851,7 @@ QuantileNPCI: 0.9.0
 QuantumClone: 1.0.0.6
 QuantumOps: 3.0.1
 Quartet: 1.2.4
-QuasiSeq: 1.0-10-2
+QuasiSeq: 1.0-8
 Quor: '0.1'
 R.SamBada: 0.1.3
 R.cache: 0.15.0
@@ -5292,7 +5292,7 @@ RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.2.0
 RSQLServer: 0.3.0
-RSQLite: 2.2.13
+RSQLite: 2.2.14
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.5
 RSSOP: '1.1'
@@ -6623,7 +6623,7 @@ SymbolicDeterminants: 2.0.0
 SympluR: 0.3.0
 SyncMove: 0.1-0
 SyncRNG: 1.3.0
-SynchWave: 1.1.1
+SynchWave: 1.1.2
 SynergizeR: '0.2'
 Synth: 1.1-5
 SynthCast: 0.2.1
@@ -8973,7 +8973,7 @@ cheatR: 1.2.1
 cheatmap: 1.0.0
 cheatsheet: 0.1.0
 cheb: '0.3'
-chebpol: 2.1-2
+chebpol: '2.1'
 checkLuhn: 1.1.0
 checkarg: 0.1.0
 checkdown: 0.0.7
@@ -10661,7 +10661,7 @@ dundermifflin: 0.1.1
 dunn.test: 1.3.5
 dupiR: '1.2'
 dupree: 0.3.0
-durmod: 1.1-4
+durmod: '1.1'
 dvfBm: '1.0'
 dvir: 2.1.0
 dvmisc: 1.1.4
@@ -11506,7 +11506,7 @@ fat2Lpoly: 1.2.5
 faux: 1.1.0
 fauxnaif: 0.7.0
 fauxpas: 0.5.0
-faviconPlease: 0.1.1
+faviconPlease: 0.1.2
 favir: 0.5-1
 favnums: 1.0.0
 fbRads: '0.2'
@@ -11831,7 +11831,7 @@ forestinventory: 1.0.0
 forestmangr: 0.9.4
 forestmodel: 0.6.2
 forestplot: 2.0.1
-forestploter: 0.1.4
+forestploter: 0.1.5
 forestr: 2.0.2
 forestry: 0.1.0
 foretell: 0.2.0
@@ -14727,7 +14727,7 @@ longCatEDA: '0.31'
 longROC: '1.0'
 longRPart: '1.0'
 longRPart2: 0.2.3
-longclust: 1.2.3
+longclust: '1.2'
 longit: 0.1.0
 longitudinal: 1.1.13
 longitudinalData: 2.4.1
@@ -17665,7 +17665,7 @@ poisFErobust: 2.0.0
 poisbinom: 1.0.1
 poismf: 0.4.0
 poisson: '1.0'
-poisson.glm.mix: '1.2'
+poisson.glm.mix: '1.3'
 poissonMT: 0.3-5
 poissonreg: 0.2.0
 poistweedie: 1.0.1
@@ -20249,7 +20249,7 @@ shapr: 0.2.0
 shar: 1.3.2
 sharpData: '1.4'
 sharpPen: '1.7'
-sharpeRratio: 1.4.2
+sharpeRratio: '1.4'
 sharpr2: 1.1.1.0
 sharpshootR: '1.9'
 sharx: 1.0-5
@@ -20964,7 +20964,7 @@ spidR: 1.0.2
 spider: 1.5.0
 spiderbar: 0.2.4
 spiders: '1.2'
-spikeSlabGAM: 1.1-15
+spikeSlabGAM: 1.1-9
 spikes: '1.1'
 spikeslab: 1.1.6
 spinBayes: 0.1.0
@@ -21678,7 +21678,7 @@ taxizedb: 0.3.0
 taxlist: 0.2.2
 taxonbridge: 1.2.1
 taxonomizr: 0.8.0
-taxotools: 0.0.79
+taxotools: 0.0.9
 tayloRswift: 0.1.0
 taylor: 1.0.0
 tbart: '1.0'
@@ -22277,7 +22277,7 @@ tsbox: 0.3.1
 tsbridge: '1.1'
 tsbugs: '1.2'
 tsc: 1.0-3
-tscopula: 0.2.1
+tscopula: 0.3.1
 tscount: 1.4.3
 tsdb: 1.0-0
 tsdecomp: '0.2'
