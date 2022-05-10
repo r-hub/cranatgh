@@ -562,7 +562,7 @@ BayesPiecewiseICAR: 0.2.1
 BayesPostEst: 0.3.2
 BayesProject: '1.0'
 BayesQTLBIC: 1.0-2
-BayesRGMM: '2.1'
+BayesRGMM: '2.2'
 BayesRS: 0.1.3
 BayesReversePLLH: '1.4'
 BayesS5: '1.41'
@@ -614,7 +614,7 @@ BetaPASS: 1.1-1
 BetterReg: 0.2.0
 BeviMed: '5.8'
 BeyondBenford: '1.4'
-Bhat: 0.9-10
+Bhat: 0.9-12
 BiBitR: 0.3.1
 BiDAG: 2.0.6
 BiDimRegression: 2.0.1
@@ -786,7 +786,7 @@ CBT: '1.0'
 CC: '1.0'
 CCA: 1.2.1
 CCAGFA: 1.0.8
-CCAMLRGIS: 3.2.0
+CCAMLRGIS: 4.0.0
 CCM: '1.2'
 CCMnet: 0.0-3
 CCMtools: '1.0'
@@ -986,7 +986,7 @@ CallEshotgun: 0.2.0
 CamelUp: 2.0.3
 CampaR1: .na.character
 CancerGram: 1.0.0
-Canek: 0.2.0
+Canek: 0.2.1
 Canopy: 1.3.0
 CarbonEL: 0.1-4
 CarletonStats: '2.0'
@@ -1364,7 +1364,7 @@ DFA: 0.9.0
 DFA.CANCOR: 0.2.3
 DFIT: '1.1'
 DGCA: 1.0.2
-DGEobj: 1.1.0
+DGEobj: 1.1.1
 DGEobj.utils: 1.0.5
 DGLMExtPois: 0.2.0
 DGM: 1.7.4
@@ -1409,7 +1409,7 @@ DNAseqtest: '1.0'
 DNAtools: 0.2-4
 DNH4: 0.1.12
 DNLC: 1.0.0
-DNMF: '1.3'
+DNMF: 1.4.2
 DNetFinder: '1.0'
 DOBAD: 1.0.6
 DODR: 0.99.2
@@ -1716,7 +1716,7 @@ EFAtools: 0.4.1
 EFAutilities: 2.1.1
 EFDR: '1.2'
 EFS: 1.0.3
-EGAnet: 1.0.0
+EGAnet: 1.1.0
 EGRET: 3.0.7
 EGRETci: 2.0.4
 EHR: 0.4-5
@@ -3027,7 +3027,7 @@ JSM: 1.0.1
 JSUparameters: 1.0.0
 JSconsole: 0.1.0
 JSmediation: 0.2.0
-JWileymisc: 1.2.0
+JWileymisc: 1.3.0
 JacobiEigen: 0.3-4
 JamendoR: 0.1.1
 Java: '0.5'
@@ -3478,7 +3478,7 @@ MEWMA: '1.0'
 MEclustnet: 1.2.2
 MEtest: '1.1'
 MExPosition: 2.0.3
-MF: 4.3.2
+MF: '4.3'
 MFAg: '1.8'
 MFDA: 1.1-4
 MFDF: 0.0-2
@@ -3553,7 +3553,7 @@ MLID: 1.0.1
 MLML2R: 0.3.3
 MLMOI: 0.1.1
 MLModelSelection: '1.0'
-MLMusingR: 0.1.0
+MLMusingR: 0.2.0
 MLPA: 1.10.0
 MLPAstats: 0.5-9
 MLPUGS: 0.2.0
@@ -3983,7 +3983,7 @@ My.stepwise: 0.1.0
 Mychisq: 0.1.3
 Myrrix: '1.2'
 Myrrixjars: 1.0-2
-N2H4: 0.6.1
+N2H4: 0.6.3
 N2R: 1.0.1
 NACHO: 1.1.0
 NADA: 1.6-1.1
@@ -4612,7 +4612,7 @@ PersomicsArray: '1.0'
 PesticideLoadIndicator: 1.2.0
 PetfindeR: 2.1.0
 PhViD: 1.0.8
-PhageCocktail: 1.0.1
+PhageCocktail: 1.0.2
 PharmPow: '1.0'
 PharmacoGx: 1.1.6
 Phase123: '2.1'
@@ -4687,6 +4687,7 @@ PopGenKit: '1.0'
 PopGenReport: 3.0.4
 PopGenome: 2.7.5
 PopVar: 1.3.0
+PopulationGrowthR: 0.1.1
 PortRisk: 1.1.0
 PortalHacienda: 0.1.6
 PortfolioAnalysis: '1.1'
@@ -6898,7 +6899,7 @@ TransModel: '2.3'
 TransP: '0.1'
 TransPhylo: 1.4.5
 TransferEntropy: '1.4'
-Tratamentos.ad: 0.2.2
+Tratamentos.ad: 0.2.3
 TreatmentSelection: 2.1.1
 TreeBUGS: 1.4.7
 TreeDep: 0.1.3
@@ -7005,7 +7006,7 @@ VA: '1.0'
 VALERIE: 1.1.0
 VAM: 1.0.0
 VAR.etp: '0.7'
-VARDetect: 0.1.5
+VARDetect: 0.1.6
 VARMER: 1.0.0
 VARSEDIG: '2.1'
 VARshrink: 0.3.1
@@ -8517,7 +8518,7 @@ boss: '2.1'
 bossMaps: 0.1.0
 botor: 0.3.0
 boundingbox: 1.0.1
-boussinesq: 1.0.3
+boussinesq: '1.0'
 boutliers: 1.1-1
 box: 1.1.1
 boxcoxmix: '0.28'
@@ -8731,7 +8732,7 @@ cancerGI: 1.0.0
 cancerTiming: 3.1.8
 candisc: 0.8-6
 canprot: 1.1.2
-cansim: 0.3.10
+cansim: 0.3.11
 canvas: 0.2-0
 canvasXpress: 1.37.4
 canvasXpress.data: 1.34.2
@@ -11133,7 +11134,7 @@ erboost: '1.3'
 ercv: 1.0.1
 erer: '3.1'
 ergMargins: 0.1.3
-ergm: 4.1.2
+ergm: 4.2.1
 ergm.count: 4.0.2
 ergm.ego: 1.0.0
 ergm.graphlets: 1.0.3
@@ -12792,7 +12793,7 @@ googlePrintr: 0.0.1
 googlePublicData: 0.16.1
 googlePubsubR: 0.0.3
 googleTagManageR: 0.2.0
-googleVis: 0.6.12
+googleVis: 0.7.0
 googlebigquery: '0.1'
 googledrive: 2.0.0
 googleformr: 0.0.3
@@ -13036,7 +13037,7 @@ gwerAM: '1.0'
 gwfa: 0.0.4
 gwpcormapper: 0.1.3
 gwrpvr: '1.0'
-gwrr: 0.2-1
+gwrr: 0.2-2
 gwsem: 2.1.4
 gym: 0.1.0
 gyriq: 1.0.2
@@ -13764,7 +13765,7 @@ intRinsic: 0.2.0
 intRvals: 1.0.1
 intamap: 1.4-16
 intamapInteractive: 1.1-7
-intccr: 3.0.3
+intccr: 3.0.4
 intcensROC: 0.1.3
 intcox: '0.9'
 intcure: '2.1'
@@ -13797,7 +13798,7 @@ interimApp: 0.0.1
 interleave: 0.1.1
 interlineaR: '1.0'
 internetarchive: 0.1.6
-interp: 1.1-1
+interp: 1.1-2
 interplot: 0.2.3
 interpret: 0.1.26
 interpretCI: 0.1.1
@@ -13973,7 +13974,7 @@ ivx: 1.1.0
 iwtp: 1.0.0
 jSDM: 0.2.1
 jScore: 0.1.0
-jSonarR: 1.1.1
+jSonarR: '1.1'
 jaatha: 3.2.2
 jab.adverse.reactions: 1.0.1
 jabr: 0.1.2
@@ -14049,7 +14050,7 @@ jpeg: 0.1-9
 jpgrid: 0.2.0
 jpmesh: 2.1.0
 jpndistrict: 0.3.9
-jpstat: 0.2.0
+jpstat: 0.2.1
 jqr: 1.2.3
 jquerylib: 0.1.4
 jrc: 0.5.1
@@ -14469,7 +14470,7 @@ leidenAlg: 1.0.3
 leidenbase: 0.1.11
 leiv: 2.0-7
 lemma: 1.3-4
-lemna: 0.9.2
+lemna: 1.0.0
 lemon: 0.4.5
 lenses: 0.0.3
 leontief: '0.2'
@@ -15894,7 +15895,7 @@ msgcop: '0.9'
 msgl: 2.3.9
 msgpack: '1.0'
 msgpackR: '1.1'
-msgps: 1.3.1
+msgps: 1.3.4
 msgr: 1.1.2
 msgtools: 0.2.7
 mshap: 0.1.0
@@ -16143,7 +16144,7 @@ nametagger: 0.1.1
 nandb: 2.1.0
 naniar: 0.6.1
 nanny: 0.1.8
-nanonext: 0.4.0
+nanonext: 0.5.0
 nanop: 2.0-6
 nanostringr: 0.2.0
 nanotime: 0.3.6
@@ -16171,7 +16172,7 @@ navigatr: 0.1.1
 nawtilus: 0.1.4
 nbTransmission: 1.1.2
 nbapalettes: 0.1.0
-nbc4va: '1.1'
+nbc4va: '1.2'
 nbconvertR: 1.3.2
 nberwp: 1.2.0
 nbfar: '0.1'
@@ -16702,7 +16703,7 @@ onlineCOV: '1.3'
 onlineCPD: '1.0'
 onlinePCA: 1.3.1
 onlineVAR: 0.1-1
-onlineforecast: 1.0.0
+onlineforecast: 1.0.1
 onlineretail: 0.1.2
 onls: 0.1-1
 onnx: 0.0.3
@@ -17385,6 +17386,7 @@ phenofit: 0.3.2
 phenology: '7.6'
 phenomap: 1.2.1
 phenopix: 2.4.2
+phers: 0.0.2
 phiDelta: 1.0.1
 phia: 0.2-1
 philentropy: 0.6.0
@@ -17592,7 +17594,7 @@ plotprotein: '1.0'
 plotrix: 3.8-2
 plotrr: 1.0.0
 plotscale: 0.1.6
-plotwidgets: '0.4'
+plotwidgets: 0.5.1
 plpoisson: 0.3.0
 pls: 2.8-0
 pls.pcr: 0.2.7
@@ -17666,7 +17668,7 @@ pointdensityP: 0.3.5
 pointdexter: 0.1.1
 pointr: 0.2.0
 poio: 0.0-4
-poisDoubleSamp: '1.1'
+poisDoubleSamp: 1.1.1
 poisFErobust: 2.0.0
 poisbinom: 1.0.1
 poismf: 0.4.0
@@ -18656,7 +18658,7 @@ rayrender: 0.23.6
 rayshader: 0.24.10
 raytracing: 0.1.0
 rayvertex: 0.3.3
-rb3: 0.0.1
+rb3: 0.0.2
 rbace: 0.2.2
 rbacon: 2.5.8
 rbamtools: 2.9.2
@@ -18918,9 +18920,9 @@ reglogit: 1.2-6
 regmed: 2.0.4
 regmedint: 1.0.0
 regnet: 0.4.0
-rego: 1.3.5
+rego: 1.4.1
 regplot: '1.1'
-regport: 0.2.0
+regport: 0.3.0
 regpro: 0.1.1
 regrap: 1.0.1
 regress: 1.3-21
@@ -19198,7 +19200,7 @@ rintimg: 0.1.0
 rintrojs: 0.3.0
 rio: 0.5.29
 rioja: 0.9-26
-riot: 0.0.1
+riot: 1.0.0
 ripa: 2.0-2
 ripe: 0.1.0
 ripserr: 0.1.1
@@ -19269,7 +19271,7 @@ rmBayes: 0.1.13
 rmRNAseq: 0.1.0
 rma.exact: 0.1.0
 rmac: '0.9'
-rmaf: 3.0.1
+rmaf: '3.0'
 rmake: 1.1.0
 rmangal: 2.1.0
 rmapshaper: 0.4.5
@@ -19618,7 +19620,7 @@ rstatix: 0.7.0
 rstatscn: 1.1.3
 rstiefel: 1.0.1
 rstoat: 1.0.2
-rstpm2: 1.5.5
+rstpm2: 1.5.6
 rstream: 1.3.6
 rstudio.prefs: 0.1.8
 rstudioapi: '0.13'
@@ -19789,7 +19791,7 @@ saeHB.ME: '1.0'
 saeHB.ZIB: 0.1.0
 saeHB.gpois: 0.1.0
 saeHB.hnb: 0.1.0
-saeHB.panel: 0.1.0
+saeHB.panel: 0.1.1
 saeHB.spatial: 0.1.0
 saeHB.twofold: 0.1.1
 saeHB.zinb: 0.1.0
@@ -19865,7 +19867,7 @@ sarp.snowprofile.alignment: 1.1.4
 sars: 1.3.5
 sarsop: 0.6.9
 sas7bdat: '0.5'
-sasLM: 0.8.0
+sasLM: 0.8.1
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.1
@@ -19948,7 +19950,7 @@ schemr: 0.1.0
 schoRsch: 1.9.1
 schoenberg: 2.0.2
 scholar: 0.2.2
-schoolmath: '0.4'
+schoolmath: 0.4.1
 schrute: 0.2.2
 schtools: 0.1.1
 schumaker: 1.2.1
@@ -20112,7 +20114,7 @@ semPLS: 1.0-9
 semPlot: 1.1.5
 semPower: 1.2.0
 semTable: '1.8'
-semTools: 0.5-5
+semTools: 0.5-6
 semantic.dashboard: 0.2.1
 semdiag: '0.1'
 semdrw: 0.1.0
@@ -21144,7 +21146,7 @@ stackoverflow: 0.7.0
 stacks: 0.2.2
 stacomiR: 0.6.0
 stacomirtools: 0.6.0.1
-stagePop: 1.1-1
+stagePop: 1.1-2
 stagedtrees: 2.2.1
 staggered: '1.1'
 stam: 0.0-1
@@ -21491,15 +21493,15 @@ survutils: 1.0.2
 survxai: 0.2.2
 susieR: 0.11.92
 sutteForecastR: '0.1'
-svDialogs: 1.0.3
+svDialogs: 1.1.0
 svDialogstcltk: 0.9-4
 svGUI: 1.0.1
-svHttp: 0.9-55
+svHttp: 1.0.4
 svIDE: 0.9-54
 svKomodo: 0.9-63
 svMisc: 1.2.3
 svSocket: 1.1.0
-svSweave: 0.9-8
+svSweave: 1.0.0
 svTools: 0.9-5
 svUnit: 1.0.6
 svWidgets: 0.9-45
@@ -21870,7 +21872,7 @@ threewords: 0.1.0
 threg: 1.0.3
 thregI: 1.0.4
 threshr: 1.0.3
-thriftr: 1.1.5
+thriftr: 1.1.7
 thsls: '0.1'
 thunder: 0.3.0
 thurstonianIRT: 0.12.1
@@ -22530,6 +22532,7 @@ usethis: 2.1.5
 usethis2: 0.2.0
 usfertilizer: 0.1.5
 ushr: 0.2.3
+usincometaxes: 0.2.0
 uskew: 0.11-3
 uskewFactors: '2.0'
 usl: 3.0.0
@@ -22942,7 +22945,7 @@ widyr: 0.1.4
 wiesbaden: 1.2.5
 wig: 0.1.0
 wikiTools: 0.0.6
-wikibooks: '0.2'
+wikibooks: 0.2.1
 wikifacts: 0.4.2
 wikilake: 0.6.0
 wikipediatrend: 2.1.6
