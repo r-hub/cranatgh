@@ -371,7 +371,7 @@ BEANSP: '1.0'
 BED: 1.4.8
 BEDASSLE: '1.6'
 BEDMatrix: 2.0.3
-BEKKs: 1.2.0
+BEKKs: 1.2.1
 BENMMI: 4.3-7
 BEQI2: 2.0-0
 BEST: 0.5.4
@@ -890,6 +890,7 @@ COCONUT: 1.0.2
 COINr: 0.6.1
 COMBAT: 0.0.4
 COMBIA: 1.0.6
+COMIX: 0.1.4
 COMMUNAL: 1.1.0
 COMPoissonReg: 0.7.0
 CONCUR: '1.3'
@@ -1463,7 +1464,7 @@ DSpoty: 0.1.0
 DSsim: 1.1.5
 DStree: '1.0'
 DSviaDRM: '1.0'
-DT: '0.22'
+DT: '0.23'
 DTAT: 0.3-4
 DTAXG: 0.1.0
 DTAplots: 1.0.2.5
@@ -4403,7 +4404,7 @@ PGRdup: 0.2.3.7
 PH1XBAR: 0.10.1
 PHENIX: 1.3.1
 PHEindicatormethods: 1.3.2
-PHInfiniteEstimates: '2.1'
+PHInfiniteEstimates: '2.2'
 PHSMM: '1.0'
 PHYLOGR: 1.0.11
 PHclust: 0.1.0
@@ -4428,7 +4429,7 @@ PKmodelFinder: '1.1'
 PKreport: '1.5'
 PKtools: 1.5-0
 PL.popN: '1.2'
-PL94171: 1.0.1
+PL94171: 1.0.2
 PLFD: 0.1.1
 PLIS: '1.1'
 PLMIX: 2.1.1
@@ -8217,7 +8218,7 @@ biclique: 1.0.5
 biclust: 2.0.3
 biclustermd: 0.2.3
 bicreduc: 0.4-7
-bidask: 0.1.1
+bidask: 1.0.0
 bifactorial: '1.4'
 bife: 0.7.1
 bifurcatingr: 1.0.0
@@ -8388,7 +8389,7 @@ bivquant: '0.1'
 bivrp: 1.2-2
 biwavelet: 0.20.21
 biwt: '1.0'
-bizdays: 1.0.9
+bizdays: 1.0.10
 bizicount: 1.0.0
 bjscrapeR: 0.1.0
 bkmr: 0.2.2
@@ -8428,7 +8429,7 @@ blockmodels: 1.1.5
 blockrand: '1.5'
 blocksdesign: '4.9'
 blockseg: 0.5.2
-blogdown: '1.9'
+blogdown: '1.10'
 blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-1
@@ -8525,7 +8526,7 @@ boxcoxmix: '0.28'
 boxoffice: 1.3.0
 boxplotdbl: 1.4.0
 boxr: 0.3.6
-bp: 2.0.1
+bp: 2.1.0
 bpAcc: 0.0-1
 bpDir: 0.1.2
 bpa: 0.1.1
@@ -9058,7 +9059,7 @@ circacompare: 0.1.1
 circglmbayes: 1.3.0
 circle: 0.7.1
 circletyper: 1.0.1
-circlize: 0.4.14
+circlize: 0.4.15
 circular: 0.4-95
 circularEV: 0.1.0
 circumplex: 0.3.8
@@ -10535,7 +10536,7 @@ dosearch: 1.0.8
 dosedesignR: 0.2.4
 doseminer: 0.1.2
 dosresmeta: 2.0.1
-dostats: 1.3.2
+dostats: 1.3.3
 dotCall64: 1.0-1
 dotdot: 0.1.0
 dotenv: 1.0.3
@@ -11810,7 +11811,7 @@ foqat: 2.0.7.1
 forImage: 0.1.0
 forams: 2.0-5
 forcats: 0.5.1
-forceR: 1.0.13
+forceR: 1.0.14
 foreSIGHT: 1.0.0
 foreach: 1.5.2
 forecTheta: '2.2'
@@ -12453,6 +12454,7 @@ gganimate: 1.0.7
 ggarchery: 0.2.0
 ggasym: 0.1.6
 ggbeeswarm: 0.6.0
+ggblanket: 1.0.0
 ggborderline: 0.1.0
 ggbreak: 0.0.9
 ggbuildr: 0.1.0
@@ -12841,6 +12843,7 @@ gqlr: 0.0.2
 gquad: 2.1-1
 grImport: 0.9-5
 grImport2: 0.2-0
+graDiEnt: 1.0.1
 grabsampling: 1.0.0
 gradDescent: '3.0'
 gradDescentR: .na.character
@@ -13362,7 +13365,7 @@ httptest: 4.1.0
 httptest2: 0.1.0
 httpuv: 1.6.5
 httr: 1.4.3
-httr2: 0.2.0
+httr2: 0.2.1
 hudr: 1.0.0
 hues: 0.2.0
 huge: 1.3.5
@@ -13388,7 +13391,7 @@ hwriterPlus: 1.0-3
 hwsdr: '1.0'
 hwwntest: 1.3.1
 hySpc.testthat: 0.2.1
-hybridEnsemble: 1.0.0
+hybridEnsemble: 1.7.8
 hybridHclust: 1.0-5
 hybridModels: 0.3.7
 hybridogram: 0.3.2
@@ -13694,6 +13697,7 @@ inctools: 1.0.15
 incubate: 1.1.8
 indelmiss: 1.0.9
 independence: 1.0.1
+independenceWeights: 0.0.1
 index0: 0.0.1
 indicoio: '0.3'
 indicspecies: 1.7.12
@@ -14431,7 +14435,7 @@ leaflegend: 0.6.1
 leaflet: 2.1.1
 leaflet.esri: 1.0.0
 leaflet.extras: 1.0.0
-leaflet.extras2: 1.1.0
+leaflet.extras2: 1.2.0
 leaflet.minicharts: 0.6.2
 leaflet.multiopacity: 0.1.1
 leaflet.opacity: 0.1.0
@@ -16101,7 +16105,7 @@ mvtboost: 0.5.0
 mvtmeta: '1.1'
 mvtnorm: 1.1-3
 mvtnormpcs: '0.1'
-mvtsplot: 1.0-1
+mvtsplot: 1.0-4
 mwTensor: 0.99.5
 mwa: 0.4.4
 mwaved: 1.1.8
@@ -16802,7 +16806,7 @@ optimos.prime: 0.1.2
 optimr: 2019-12.16
 optimsimplex: 1.0-8
 optimus: 0.2.0
-optimx: 2021-10.12
+optimx: 2022-4.30
 optinterv: 0.1.0
 optional: 2.0.1
 optionstrat: 1.4.1
@@ -16971,7 +16975,7 @@ pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
 pacotest: 0.4.1
-pacs: 0.4.4
+pacs: 0.4.5
 pact: 0.5.0
 pacviz: 1.0.1
 padr: 0.6.0
@@ -18068,10 +18072,10 @@ pssmooth: 1.0.3
 pstest: 0.1.3.900
 psy: '1.2'
 psycModel: 0.3.2
-psych: 2.2.3
+psych: 2.2.5
 psychNET: 0.0.4
 psychReport: 3.0.1
-psychTools: 2.2.3
+psychTools: 2.2.5
 psychmeta: 2.6.3
 psychmetadata: 1.0.0
 psycho: 0.6.1
@@ -18139,6 +18143,7 @@ pvldcurve: 1.2.6
 pvrank: '1.1'
 pvsR: '0.3'
 pweight: 0.0.1
+pwlmm: 1.1.0
 pwr: 1.3-0
 pwr2: '1.0'
 pwr2ppl: 0.4.0
@@ -18763,7 +18768,7 @@ rddapp: 1.3.0
 rddensity: '2.2'
 rddtools: 1.6.0
 rde: 0.1.0
-rdecision: 1.1.0
+rdecision: 1.1.1
 rdefra: 0.3.8
 rdetools: '1.0'
 rdflib: 0.2.5
@@ -19274,7 +19279,7 @@ rmac: '0.9'
 rmaf: '3.0'
 rmake: 1.1.0
 rmangal: 2.1.0
-rmapshaper: 0.4.5
+rmapshaper: 0.4.6
 rmapzen: 0.4.3
 rmarchingcubes: 0.1.3
 rmargint: 2.0.2
@@ -20323,7 +20328,7 @@ shinyauthr: 1.0.0
 shinybatch: '0.3'
 shinybootstrap2: '0.2'
 shinybrms: 1.7.0
-shinybusy: 0.3.0
+shinybusy: 0.3.1
 shinycssloaders: 1.0.0
 shinycustomloader: 0.9.0
 shinydashboard: 0.7.2
@@ -21077,7 +21082,7 @@ sqlutils: '1.2'
 sqp: '0.5'
 squant: 1.1.4
 squash: 1.0.9
-squashinformr: 0.2.5
+squashinformr: 0.2.6
 squeezy: '1.1'
 squid: 0.2.1
 sra: 0.1.3
@@ -21189,7 +21194,7 @@ statcomp: 0.1.0
 statebins: 1.4.0
 states: 0.3.1
 statesRcontiguous: 0.1.0
-statespacer: 0.4.0
+statespacer: 0.4.1
 statfi: 0.9.8
 statgenGWAS: 1.0.8
 statgenGxE: 1.0.4
@@ -21315,7 +21320,7 @@ stray: 0.1.1
 stream: 1.5-1
 stream.net: 1.0.6
 streamDepletr: 0.1.1
-streamMOA: 1.2-3
+streamMOA: 1.2-4
 streamR: 0.4.5
 streambugs: '1.2'
 stremo: '0.2'
@@ -21494,11 +21499,11 @@ survxai: 0.2.2
 susieR: 0.11.92
 sutteForecastR: '0.1'
 svDialogs: 1.1.0
-svDialogstcltk: 0.9-4
+svDialogstcltk: 1.0.0
 svGUI: 1.0.1
 svHttp: 1.0.4
 svIDE: 0.9-54
-svKomodo: 0.9-63
+svKomodo: 1.0.0
 svMisc: 1.2.3
 svSocket: 1.1.0
 svSweave: 1.0.0
@@ -22279,7 +22284,7 @@ tryCatchLog: 1.3.1
 ts.extend: 0.1.1
 tsBSS: 1.0.0
 tsDyn: 11.0.2
-tsModel: '0.6'
+tsModel: 0.6-1
 tsPI: 1.0.3
 tsSelect: 0.1.8
 tsallisqexp: 0.9-4
@@ -22799,7 +22804,7 @@ wISAM: 0.2.8
 wNNSel: '0.1'
 wPerm: 1.0.1
 wSVM: 0.1-7
-wTO: 1.6.3
+wTO: '2.0'
 waccR: 0.1.0
 wacolors: 0.3.1
 wactor: 0.0.1
@@ -23082,7 +23087,7 @@ xdcclarge: 0.1.0
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.30'
+xfun: '0.31'
 xgb2sql: 0.1.2
 xgboost: 1.6.0.1
 xgobi: 1.2-9
