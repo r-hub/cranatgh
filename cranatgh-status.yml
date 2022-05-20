@@ -131,7 +131,7 @@ ARTP: 2.0.5
 ARTP2: 0.9.45
 ARTofR: 0.4.1
 ARTool: 0.11.1
-ARpLMEC: '2.3'
+ARpLMEC: '2.4'
 ASGS.foyer: 0.3.1
 ASICS: 1.0.1
 ASIP: 0.4.9
@@ -713,7 +713,7 @@ BootCL: '1.7'
 BootMRMR: '0.1'
 BootPR: '0.60'
 BootValidation: 0.1.65
-BootWPTOS: '1.2'
+BootWPTOS: 1.2.1
 BootstrapQTL: 1.0.5
 Boptbd: 1.0.5
 Boruta: 7.0.0
@@ -1441,7 +1441,7 @@ DPpack: 0.0.1
 DPpackage: 1.1-7
 DPtree: 1.0.1
 DPw: '1.1'
-DQAgui: 0.1.9
+DQAgui: 0.2.0
 DQAstats: 0.3.0
 DR.SC: '2.8'
 DRAFT: 0.3.0
@@ -1894,7 +1894,7 @@ EpiDynamics: 0.3.1
 EpiEstim: 2.2-4
 EpiILM: 1.5.2
 EpiILMCT: 1.1.7
-EpiInvert: 0.1.0
+EpiInvert: 0.1.1
 EpiLPS: 1.0.5
 EpiModel: 2.2.1
 EpiNow2: 1.3.2
@@ -2666,7 +2666,7 @@ HMMoce: 1.0.0
 HMMpa: 1.0.1
 HMP: 2.0.1
 HMPTrees: '1.4'
-HMR: 1.0.1
+HMR: 1.0.2
 HMVD: '1.0'
 HPLB: 1.0.0
 HPO.db: '1.2'
@@ -2707,7 +2707,7 @@ HandTill2001: 1.0.1
 Hankel: 0.0-1
 HapEstXXR: 0.1-8
 Hapi: 0.0.3
-Haplin: 7.2.3
+Haplin: 7.3.0
 HaploSim: 1.8.4
 HardyWeinberg: 1.7.5
 HarmonicRegression: '1.0'
@@ -2786,7 +2786,7 @@ ICAMS: 2.3.10
 ICAOD: 1.0.1
 ICBayes: '1.2'
 ICBioMark: 0.1.4
-ICC: 2.3.0
+ICC: 2.4.0
 ICC.Sample.Size: '1.0'
 ICCbin: 1.1.1
 ICD10gm: 1.2.4
@@ -4954,7 +4954,7 @@ RApiDatetime: 0.0.6
 RApiSerialize: 0.1.0
 RAppArmor: 3.2.2
 RArcInfo: '0.4'
-RAthena: 2.5.1
+RAthena: 2.6.0
 RAtmosphere: '1.1'
 RBF: 2.1.0
 RBGL: 1.28.0
@@ -5110,7 +5110,7 @@ RImageJROI: 0.1.2
 RImagePalette: 0.1.1
 RImpact: '1.0'
 RImpala: 0.1.6
-RInSp: 1.2.4
+RInSp: 1.2.5
 RInno: 1.0.1
 RInside: 0.2.17
 RItools: 0.1-18
@@ -6358,7 +6358,7 @@ SiZer: 0.1-7
 SigOptR: 0.0.1
 SigTree: 1.10.6
 SigWinR: '1.0'
-SightabilityModel: 1.4.2
+SightabilityModel: '1.5'
 Signac: 1.6.0
 SignacX: 2.2.5
 SignifReg: '4.3'
@@ -7009,7 +7009,7 @@ USgas: 0.1.1
 USgrid: 0.1.2
 USpopcenters: 0.1.1
 UStatBookABSC: 1.0.0
-UWHAM: '1.0'
+UWHAM: '1.1'
 UdderQuarterInfectionData: 1.0.0
 Ultimixt: '2.1'
 Umacs: '0.924'
@@ -7419,7 +7419,7 @@ adfExplorer: 0.1.6
 adheRenceRX: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.3
-adiv: 2.1.1
+adiv: 2.1.2
 adjROC: 0.2.0
 adjSURVCI: '1.0'
 adjclust: 0.6.4
@@ -9128,7 +9128,7 @@ classInt: 0.4-3
 classPP: '1.0'
 classiFunc: 0.1.1
 classifierplots: 1.4.0
-classifly: '0.4'
+classifly: 0.4.1
 classify: '1.3'
 classmap: 1.2.0
 classyfire: 0.1-2
@@ -11685,7 +11685,7 @@ filterNHP: 0.1.2
 filterviewR: '0.11'
 finalfit: 1.0.4
 financial: '0.2'
-finbif: 0.6.4
+finbif: 0.6.5
 finch: 0.4.0
 findInFiles: 0.4.0
 findInGit: 0.1.1
@@ -11943,7 +11943,7 @@ frbs: 3.2-0
 frechet: 0.2.0
 fredr: 2.1.0
 free: 1.0.1
-freealg: 1.0-6
+freealg: 1.0-7
 freedom: 1.0.1
 freegroup: 1.1-3
 freeknotsplines: '1.0'
@@ -11981,7 +11981,7 @@ frontier: 1.1-8
 frontiles: '1.2'
 frost: 0.0.4
 frostr: 0.2.0
-frscore: 0.1.1
+frscore: 0.2.0
 frt: '0.1'
 fruclimadapt: 0.4.4
 fs: 1.5.2
@@ -13247,7 +13247,7 @@ hglm.data: 1.0-1
 hgm: '1.20'
 hgnc: 0.1.0
 hgutils: 0.2.11
-hgwrr: 0.2-1
+hgwrr: 0.2-2
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
@@ -13541,7 +13541,7 @@ iSubpathwayMiner: '3.0'
 iTOP: 1.0.2
 iWISA: 1.0-2
 iWebPlots: 1.0-1
-iWeigReg: '1.0'
+iWeigReg: '1.1'
 iZID: 0.0.1
 iaQCA: 0.8.7.0
 iadf: 0.1.2
@@ -14003,6 +14003,7 @@ itsmr: '1.9'
 itunesr: '0.1'
 iv: 0.1.2
 iva: 0.1.0
+ivaBSS: 1.0.0
 ivbma: '1.05'
 ivdesc: 1.1.0
 ivdesign: 0.1.0
@@ -15000,7 +15001,7 @@ mapReduce: 1.2.6
 mapSpain: 0.6.1
 mapStats: '2.4'
 mapaccuracy: 0.1.0
-mapbayr: 0.6.0
+mapbayr: 0.7.0
 mapboxapi: 0.3.3
 mapboxer: 0.4.0
 mapcan: 0.0.1
@@ -15178,7 +15179,7 @@ mchof: '0.3'
 mclcar: 0.2-0
 mcll: '1.2'
 mclogit: 0.9.4.2
-mclust: 5.4.9
+mclust: 5.4.10
 mclust02: 2.1-18
 mclust1998: 1.1-9
 mclustAddons: '0.6'
@@ -15436,7 +15437,7 @@ miRtest: '1.8'
 miWQS: 0.4.4
 micEcdat: 0.1-1
 micEcon: 0.6-16
-micEconAids: 0.6-18
+micEconAids: 0.6-20
 micEconCES: 1.0-0
 micEconIndex: 0.1-6
 micEconSNQP: 0.6-8
@@ -16486,7 +16487,7 @@ nntrf: 0.1.4
 noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
-noctua: 2.5.1
+noctua: 2.6.0
 nodbi: 0.7.1
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
@@ -17377,7 +17378,7 @@ permubiome: 1.3.1
 permuco: 1.1.1
 permutations: 1.0-9
 permute: 0.9-7
-permutes: 2.3.2
+permutes: '2.4'
 perry: 0.3.1
 perryExamples: 0.1.1
 persiandictionary: '1.0'
@@ -17827,7 +17828,7 @@ poptrend: 0.1.0
 populR: 0.1.4
 population: '0.3'
 populationPDXdesign: 1.0.3
-porridge: 0.3.0
+porridge: 0.3.1
 portalr: 0.3.9
 portes: '5.0'
 portfolio: 0.5-2
@@ -17918,7 +17919,7 @@ precautionary: 0.2.6
 precintcon: 2.3.0
 precisePlacement: 0.1.0
 precisely: 0.1.2
-precommit: 0.2.2
+precommit: 0.3.0
 precrec: 0.12.9
 predReliability: 0.1.0
 predatory: '1.2'
@@ -19462,7 +19463,7 @@ rocTree: 1.1.1
 rocc: '1.3'
 roccv: '1.2'
 rock: 0.5.4
-rockchalk: 1.8.151
+rockchalk: 1.8.152
 rocker: 0.3.0
 rockr: 1.0.0
 roclang: 0.2.0
@@ -21467,7 +21468,7 @@ sumFREGAT: 1.2.4
 sumR: 0.4.6
 sumSome: 1.1.0
 summariser: 2.3.0
-summarytools: 1.0.0
+summarytools: 1.0.1
 sunburstR: 2.1.6
 suncalc: 0.5.0
 sundialr: 0.1.4.1
@@ -21505,7 +21506,7 @@ surrosurv: 1.1.25
 surrosurvROC: 0.1.0
 surv2sample: 0.1-2
 surv2sampleComp: 1.0-5
-survAUC: 1.1-0
+survAUC: 1.1-1
 survAWKMT2: 1.0.0
 survAccuracyMeasures: '1.2'
 survBayes: 0.2.2
@@ -21899,7 +21900,7 @@ textstem: 0.1.4
 textutils: 0.2-1
 tfCox: 0.1.0
 tfaddons: 0.10.0
-tfarima: 0.3.1
+tfarima: 0.3.2
 tfautograph: 0.3.2
 tfdatasets: 2.7.0
 tfdeploy: 0.6.1
@@ -21965,7 +21966,7 @@ tidyBF: 0.5.1
 tidyBdE: 0.2.4
 tidyCpp: 0.0.6
 tidyEmoji: 0.1.0
-tidyHeatmap: 1.6.0
+tidyHeatmap: 1.8.1
 tidyLPA: 1.1.0
 tidyMicro: '1.47'
 tidyREDCap: 0.2.2
@@ -22013,13 +22014,13 @@ tidypaleo: 0.1.2
 tidypmc: '1.7'
 tidyposterior: 0.1.0
 tidypredict: 0.4.8
-tidyquant: 1.0.3
+tidyquant: 1.0.4
 tidyquery: 0.2.3
 tidyqwi: 0.1.2
 tidyr: 1.2.0
 tidyrules: 0.1.5
 tidyselect: 1.1.2
-tidyseurat: 0.5.1
+tidyseurat: 0.5.3
 tidysmd: 0.1.0
 tidysq: 1.1.3
 tidystats: 0.5.1
@@ -22029,7 +22030,7 @@ tidysynth: 0.1.0
 tidytable: 0.7.2
 tidytext: 0.3.3
 tidytidbits: 0.3.2
-tidytransit: 1.3.0
+tidytransit: 1.3.1
 tidytreatment: 0.2.2
 tidytree: 0.3.9
 tidytuesdayR: 1.0.2
