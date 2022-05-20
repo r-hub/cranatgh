@@ -1373,7 +1373,7 @@ DFA.CANCOR: 0.2.3
 DFIT: '1.1'
 DGCA: 1.0.2
 DGEobj: 1.1.2
-DGEobj.utils: 1.0.5
+DGEobj.utils: 1.0.6
 DGLMExtPois: 0.2.0
 DGM: 1.7.4
 DGVM3D: 1.0.0
@@ -1748,6 +1748,7 @@ ELT: '1.6'
 ELYP: 0.7-5
 EM.Fuzzy: '1.0'
 EMA: 1.4.7
+EMAS: 0.1.0
 EMAtools: 0.1.4
 EMC: '1.3'
 EMCC: '1.3'
@@ -2065,7 +2066,7 @@ FREEtree: 0.1.0
 FREG: '1.1'
 FREGAT: 1.1.0
 FREQ: '1.0'
-FRESA.CAD: 3.3.1
+FRESA.CAD: 3.4.2
 FRESHD: '1.0'
 FREddyPro: '1.0'
 FRK: 2.0.5
@@ -3546,7 +3547,7 @@ MIXFIM: '1.1'
 MIfuns: '5.1'
 MImix: '1.0'
 MInt: 1.0.1
-MKLE: '0.05'
+MKLE: 1.0.0
 MKMeans: '2.0'
 MKclass: '0.3'
 MKdescr: '0.7'
@@ -5564,7 +5565,7 @@ RcppBlaze: 0.2.2
 RcppCCTZ: 0.2.10
 RcppCGAL: 5.4.1
 RcppCNPy: 0.2.11
-RcppCWB: 0.5.2
+RcppCWB: 0.5.3
 RcppCensSpatial: 0.1.0
 RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
@@ -7751,7 +7752,7 @@ artemis: 1.1.1
 artfima: '1.5'
 arthistory: 0.1.0
 arules: 1.7-3
-arulesCBA: 1.2.1
+arulesCBA: 1.2.2
 arulesNBMiner: 0.1-8
 arulesSequences: 0.2-25
 arulesViz: 1.5-1
@@ -11895,7 +11896,7 @@ fortunes: 1.5-4
 forward: 1.0.6
 forwards: 0.1.3
 fossil: 0.4.0
-fossilbrush: '1.0'
+fossilbrush: 1.0.1
 foster: 0.1.1
 foto: 1.0.0
 fourPNO: 1.1.0
@@ -15735,7 +15736,7 @@ mockr: 0.2.0
 mockthat: 0.2.6
 mod: 0.1.3
 mod09nrt: '0.14'
-mod2rm: 0.0.2
+mod2rm: 0.1.0
 modEvA: '3.0'
 modMax: '1.1'
 modQR: 0.1.3
@@ -16651,7 +16652,7 @@ nyctaxi: 0.0.1
 nytR: '0.1'
 nzelect: 0.4.0
 nzffdr: 2.0.0
-nzilbb.labbcat: 1.1-0
+nzilbb.labbcat: 1.1-1
 nzpullover: 0.3.0
 o2geosocial: 1.1.0
 o2plsda: 0.0.15
@@ -17527,7 +17528,7 @@ piecemaker: 1.0.1
 piecepackr: 1.10.3
 piecewiseSEM: 2.1.2
 pifpaf: 1.0.1
-piggyback: 0.1.2
+piggyback: 0.1.3
 pillar: 1.7.0
 pim: 2.0.2
 pimeta: 1.1.3
@@ -20244,7 +20245,7 @@ seqRFLP: 1.0.1
 seqest: 1.0.1
 seqgendiff: 1.2.3
 seqhandbook: 0.1.0
-seqinr: 4.2-8
+seqinr: 4.2-16
 seqmagick: 0.1.5
 seqminer: '8.4'
 seqmon: '2.4'
@@ -21472,7 +21473,7 @@ suncalc: 0.5.0
 sundialr: 0.1.4.1
 supc: 0.2.6.2
 supclust: 1.1-1
-supcluster: '1.0'
+supcluster: 1.0.1
 superMDS: '1.0'
 superMICE: 1.1.1
 superb: 0.95.0
