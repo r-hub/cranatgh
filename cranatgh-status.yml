@@ -243,7 +243,7 @@ AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 3.1.0
 Anthropometry: '1.17'
-AntibodyTiters: 0.1.18
+AntibodyTiters: 0.1.24
 Aoptbdtvc: 0.0.2
 AovBay: 0.1.0
 ApacheLogProcessor: 0.2.3
@@ -886,7 +886,7 @@ CNVRG: 1.0.0
 CNVScope: 3.7.2
 CNVassoc: '2.2'
 CNVassocData: '1.0'
-CNprep: '2.0'
+CNprep: '2.2'
 CNull: '1.0'
 COBRA: '0.99'
 COCONUT: 1.0.2
@@ -904,7 +904,7 @@ CONS: 0.1.1
 COP: '1.0'
 COPASutils: '0.1'
 COR: 0.0.1
-CORE: '3.0'
+CORE: '3.2'
 CORElearn: 1.56.0
 CORM: 1.0.2
 CORREP: 1.18.0
@@ -1008,7 +1008,7 @@ CatReg: 2.0.3
 CatastRo: 0.2.1
 CateSelection: '1.0'
 CauchyCP: 0.1.0
-CausCor: 0.1.1
+CausCor: 0.1.2
 CausalFX: 1.0.1
 CausalGAM: 0.1-4
 CausalGPS: 0.2.7
@@ -1121,7 +1121,7 @@ CoFRA: '0.1002'
 CoImp: '1.0'
 CoMiRe: '0.7'
 CoNI: 0.1.0
-CoOL: 1.0.3
+CoOL: 1.1.2
 CoRpower: 1.0.4
 CoSMoS: 2.1.0
 CoSeg: '0.38'
@@ -1496,6 +1496,7 @@ DVHmetrics: 0.4.2
 DWBmodelUN: 1.0.0
 DWD: '0.11'
 DWDLargeR: 0.1-0
+DWLS: 0.1.0
 DWLasso: '1.1'
 DWreg: '2.0'
 DYM: '0.2'
@@ -1616,7 +1617,7 @@ Dire: 2.0.1
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
-Directional: '5.4'
+Directional: '5.5'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.17
@@ -2878,7 +2879,7 @@ IPCAPS: 1.1.8
 IPCWK: '1.0'
 IPDFileCheck: 0.7.5
 IPDfromKM: 0.1.10
-IPEC: 1.0.1
+IPEC: 1.0.3
 IPEDSuploadables: 2.4.5
 IPLGP: 2.0.0
 IPMRF: '1.2'
@@ -3432,7 +3433,7 @@ MBI: '1.0'
 MBNMAdose: 0.4.1
 MBNMAtime: 0.2.1
 MBSGS: 1.1.0
-MBSP: '1.0'
+MBSP: '2.0'
 MBTAr: 2.0.0
 MBmca: 1.0.1-3
 MC2toPath: 0.0.16
@@ -6004,7 +6005,7 @@ SDD: '1.2'
 SDDA: 1.0-5
 SDDE: 1.0.1
 SDEFSR: 0.7.22
-SDLfilter: 2.2.0
+SDLfilter: 2.2.1
 SDMPlay: '2.0'
 SDMTools: '1.1'
 SDMtune: 1.1.5
@@ -8755,7 +8756,7 @@ camel: 0.2.0
 camerondata: 1.0.0
 campfin: 1.0.8
 campsis: 1.2.1
-campsismod: 0.8.0
+campsismod: 0.8.1
 camsRad: 0.3.0
 camtrapR: 2.2.0
 canadacovid: 0.3.3
@@ -8915,7 +8916,7 @@ cder: 0.2-2
 cdfquantreg: 1.3.1
 cdlTools: '0.15'
 cdlei: '1.0'
-cdmTools: 1.0.1
+cdmTools: 1.0.2
 cdom: 0.1.0
 cdparcoord: 1.0.1
 cdrcR: 0.0.1
@@ -9566,6 +9567,7 @@ copula: 1.0-1
 copulaData: 0.0-1
 copulaedas: 1.4.3
 copulareg: 0.1.0
+copyseparator: 1.0.0
 corHMM: '2.7'
 corTest: 1.0.7
 corTools: '1.0'
@@ -9616,7 +9618,7 @@ cort: 0.3.2
 corto: 1.1.11
 corx: 1.0.6.1
 cosa: 2.1.0
-cosinor: '1.1'
+cosinor: 1.2.2
 cosinor2: 0.2.1
 cosmicsig: 1.0.7
 cosmoFns: 1.1-1
@@ -10377,7 +10379,7 @@ diffviewer: 0.1.1
 digeR: '1.3'
 digest: 0.6.29
 digitTests: 0.1.1
-digitalDLSorteR: 0.2.0
+digitalDLSorteR: 0.3.0
 digitalPCR: 1.1.0
 digitize: 0.0.4
 dils: 0.8.1
@@ -11245,6 +11247,7 @@ eulerr: 6.1.1
 eurlex: 0.4.1
 euroMix: '1.1'
 eurocordexr: 0.2.2
+eurodata: 1.4.2
 europeanaR: 0.1.0
 europepmc: 0.4.1
 europop: 0.3.1
@@ -11474,7 +11477,7 @@ famSKATRC: 1.1.0
 fame: 2.21.1
 familial: 1.0.3
 familiar: 1.1.0
-fanc: '2.2'
+fanc: 2.3.5
 fancycut: 0.1.2
 fanovaGraph: '1.5'
 fanplot: 4.0.0
@@ -11671,7 +11674,7 @@ fifer: '1.1'
 fiftystater: 1.0.1
 fig: 1.0.0
 figpatch: '0.2'
-file2meco: 0.2.3
+file2meco: 0.2.4
 filearray: 0.1.3
 filebin: 0.0.5
 filehash: 2.4-3
@@ -13043,7 +13046,7 @@ gstudio: '1.3'
 gsubfn: '0.7'
 gsw: 1.0-6
 gsynth: 1.2.1
-gt: 0.5.0
+gt: 0.6.0
 gt4ireval: '2.0'
 gtWAS: 1.1.0
 gtable: 0.3.0
@@ -14381,7 +14384,7 @@ landsepi: 1.1.2
 langevitour: '0.4'
 languageR: 1.5.0
 languagelayeR: 1.2.4
-languageserver: 0.3.12
+languageserver: 0.3.13
 languageserversetup: 0.1.2
 lans2r: 1.1.0
 lar: 0.1-2
@@ -14986,7 +14989,7 @@ malaytextr: 0.1.2
 mallet: '1.0'
 malvinas: 0.1.0
 managelocalrepo: 0.1.5
-mand: '1.0'
+mand: '1.1'
 mandelbrot: 0.2.0
 manet: '2.0'
 mangoTraining: 1.1.1
@@ -15456,7 +15459,7 @@ miceafter: 0.1.0
 micemd: 1.8.0
 michelRodange: 1.0.0
 miclust: 1.2.8
-micompr: 1.1.1
+micompr: 1.1.2
 microPop: '1.6'
 microSTASIS: 0.1.0
 microbats: 0.1-1
@@ -15880,7 +15883,7 @@ mpMap: '1.14'
 mpMap2: 1.0.4
 mpa: 0.7.3
 mpath: 0.4-2.22
-mpathsenser: 1.0.1
+mpathsenser: 1.0.2
 mpbart: '0.2'
 mpc: '0.1'
 mpcmp: 0.3.6
@@ -16190,7 +16193,7 @@ nFCA: '0.3'
 nFDR: '0.0'
 nFactors: 2.4.1
 nJira: 0.1.1
-nLTT: '1.4'
+nLTT: 1.4.8
 nVennR: 0.2.3
 na.tools: 0.3.1
 naaccr: 1.0.0
@@ -16497,7 +16500,7 @@ noctua: 2.6.0
 nodbi: 0.7.1
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
-nodeSub: '1.2'
+nodeSub: 1.2.4
 nodiv: 1.4.0
 nofrills: 0.3.2
 noia: 0.97.1
@@ -16593,7 +16596,7 @@ npmr: '1.2'
 npmv: 2.4.0
 npordtests: '1.2'
 nppbib: 1.2-0
-npphen: 1.1.1
+npphen: 1.5.0
 nprcgenekeepr: 1.0.5
 npreg: 1.0-8
 npregderiv: '1.0'
@@ -16622,7 +16625,7 @@ nsdr: 0.1.1
 nse: '1.20'
 nse2r: 0.1.5
 nser: 1.4.1
-nseval: '0.4'
+nseval: 0.4.2
 nsga2R: '1.1'
 nsga3: 0.0.3
 nsgp: 1.0.5
@@ -16794,7 +16797,7 @@ opGMMassessment: '0.3'
 opa: 0.3.6
 opalr: 3.1.0
 opart: 2019.1.0
-opdisDownsampling: 0.8.1
+opdisDownsampling: 0.8.2
 opefimor: '1.2'
 openCR: 2.2.2
 openEBGM: 0.8.3
@@ -17183,6 +17186,7 @@ passport: 0.3.0
 passt: 0.1.3
 password: 1.0-0
 pasta: 0.1.0
+pasteAsComment: 0.2.0
 pastecs: 1.3.21
 pastis: 0.1-2
 patPRO: 1.1.0
@@ -17935,6 +17939,7 @@ predfairness: 0.1.0
 predfinitepop: '1.0'
 predhy: 1.2.0
 predict3d: 0.1.3.3
+predictMe: '0.1'
 prediction: 0.3.14
 predictionInterval: 1.0.0
 predictmeans: 1.0.6
@@ -19596,7 +19601,7 @@ rqPen: '2.3'
 rqdatatable: 1.3.1
 rqmcmb2: 1.0.2
 rquery: 1.4.9
-rr: '1.4'
+rr: 1.4.1
 rr2: 1.0.2
 rrBLUP: 4.6.1
 rrBlupMethod6: '1.3'
@@ -19634,7 +19639,7 @@ rrum: 0.2.0
 rrv: 0.4.1
 rsBayes: 0.1.0
 rsMove: 0.2.8
-rsae: 0.1-5
+rsae: '0.2'
 rsam: 0.1.0
 rsample: 0.1.1
 rsat: 0.1.18
@@ -19674,7 +19679,7 @@ rsml: '1.3'
 rsnps: 0.5.0.0
 rsoi: 0.5.5
 rsolr: 0.0.13
-rspa: 0.2.5
+rspa: 0.2.6
 rsparkling: 0.2.19
 rsparse: 0.5.0
 rspear: 0.1-2
@@ -20861,7 +20866,7 @@ spGARCH: 0.2.2
 spGoogle: 0.1-2
 spMC: 0.3.11
 spMaps: 0.4.0
-spNNGP: 0.1.7
+spNNGP: 0.1.8
 spNetwork: 0.4.3.2
 spOccupancy: 0.3.2
 spRingsteen: 0.0.1
@@ -20984,12 +20989,12 @@ spatstat.utils: 2.3-1
 spatsurv: '1.8'
 spbabel: 0.5.5
 spc: 0.6.6
-spc4sts: 0.5.5
+spc4sts: 0.6.3
 spca: 0.6.0
 spcadjust: '1.1'
 spclust: '1.2'
 spcosa: 0.4-0
-spcov: '1.01'
+spcov: '1.0'
 spcr: '2.1'
 spd: 2.0-1
 spdep: 1.2-4
@@ -21454,7 +21459,7 @@ subplex: '1.8'
 subprocess: 0.8.3
 subrank: 0.9.9.1
 subsamp: 0.1.0
-subscore: '3.1'
+subscore: '3.3'
 subscreen: 3.0.7
 subselect: 0.15.2
 subsemble: 0.1.0
@@ -21497,7 +21502,7 @@ supervisedPRIM: 2.0.0
 suppdata: 1.1-8
 support: 0.1.5
 support.BWS: 0.4-4
-support.BWS2: 0.3-1
+support.BWS2: 0.4-0
 support.BWS3: 0.2-0
 support.CEs: 0.5-0
 supportInt: '1.1'
@@ -22035,6 +22040,7 @@ tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
 tidytable: 0.7.2
+tidyterra: 0.1.0
 tidytext: 0.3.3
 tidytidbits: 0.3.2
 tidytransit: 1.3.1
@@ -23106,7 +23112,7 @@ worldmet: 0.9.5
 worms: 0.2.2
 worrms: 0.4.2
 wosr: 0.3.0
-wowa: 1.0.1
+wowa: 1.0.2
 wpa: 1.6.4
 wpp2008: 1.0-1
 wpp2010: 1.2-0
