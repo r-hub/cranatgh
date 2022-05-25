@@ -202,7 +202,7 @@ AhoCorasickTrie: 0.1.2
 AirMonitor: 0.2.2
 AirSensor: 1.0.8
 Ake: '1.0'
-AlgDesign: 1.2.0
+AlgDesign: 1.2.1
 AlgebraicHaploPackage: '1.2'
 AlignStat: 1.3.1
 AllPossibleSpellings: '1.1'
@@ -300,7 +300,7 @@ AzureKusto: 1.0.6
 AzureML: 0.2.15
 AzureQstor: 1.0.1
 AzureRMR: 2.4.3
-AzureStor: 3.6.1
+AzureStor: 3.7.0
 AzureTableStor: 1.0.0
 AzureVM: 2.2.2
 AzureVMmetadata: 1.0.1
@@ -1094,6 +1094,7 @@ CluMix: 2.3.1
 ClueR: '1.4'
 ClusBoot: '1.0'
 ClusPred: 1.1.0
+ClusROC: 1.0.1
 ClusTorus: 0.2.2
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
@@ -1110,7 +1111,7 @@ ClusterR: 1.2.6
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.3
 ClusteredMutations: 1.0.1
-Clustering: 1.7.6
+Clustering: '1.7'
 CoClust: 0.3-2
 CoCo: 0.1.7.6
 CoCoAn: 1.0-2
@@ -1833,7 +1834,7 @@ Ecdat: 0.3-9
 Ecfun: 0.2-5
 EcoDiet: 1.0.0
 EcoGenetics: 1.2.1
-EcoHydRology: 0.4.12.1
+EcoHydRology: 0.4.9
 EcoIndR: '1.8'
 EcoNetGen: 0.2.3
 EcoSimR: 0.1.0
@@ -2356,7 +2357,7 @@ GMKMcharlie: 1.1.5
 GMMAT: 1.3.2
 GMMBoost: 1.1.3
 GMPro: 0.1.0
-GMSE: 0.7.0.0
+GMSE: 1.0.0.1
 GMSimpute: 0.0.1.0
 GMZTests: 0.1.4
 GNAR: 1.1.1
@@ -2512,6 +2513,7 @@ GeoDE: '1.0'
 GeoFIS: 1.0.3
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
+GeoModels: 1.0.0
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.0.2
@@ -3540,7 +3542,7 @@ MIICD: '2.4'
 MIIPW: 0.1.0
 MIIVsem: 0.5.8
 MILC: '1.0'
-MIMSunit: 0.11.1
+MIMSunit: 0.9.2
 MINTplates: 1.0.1
 MIPHENO: '1.2'
 MIRES: 0.1.0
@@ -3571,7 +3573,7 @@ MLDataR: 0.1.3
 MLEP: 0.0-3
 MLEcens: 0.1-5
 MLFS: 0.4.2
-MLGL: 0.6.5
+MLGL: 0.6.7
 MLGdata: 0.1.0
 MLID: 1.0.1
 MLML2R: 0.3.3
@@ -3789,7 +3791,7 @@ McSpatial: '2.0'
 Mcomp: '2.8'
 MeDiChI: 0.4.0
 MeDiChISeq: 1.0.7
-MeTo: 0.1.0
+MeTo: 0.1.1
 MeanShift: 1.1-1
 MedDietCalc: 0.1.1
 MedDietScore: 0.1.0
@@ -4239,12 +4241,13 @@ OPC: 0.0.1
 OPDOE: 1.0-10
 OPE: '0.7'
 OPI: 2.10.1
+OPTS: '0.1'
 ORCI: '1.1'
 ORCME: 2.0.2
 ORDER2PARENT: '1.0'
 ORIClust: 1.0-1
 ORION: 1.0.3
-ORKM: 0.0.2.1
+ORKM: 0.1.1.1
 ORMDR: 1.3-2
 ORTSC: 1.0.0
 ORdensity: '1.0'
@@ -5560,7 +5563,7 @@ Rcompadre: 1.1.0
 Rcplex: 0.3-5
 Rcpp: 1.0.8.3
 Rcpp11: 3.1.2.0.1
-RcppAPT: 0.0.8
+RcppAPT: 0.0.9
 RcppAlgos: 2.5.3
 RcppAnnoy: 0.0.19
 RcppArmadillo: 0.11.1.1.0
@@ -6282,7 +6285,7 @@ ScrabbleScore: '1.0'
 ScreenClean: 1.0.1
 ScriptMapR: 0.0.3
 SearchTrees: 0.5.3
-SecDim: '1.3'
+SecDim: '2.2'
 SecKW: '0.2'
 SeedCalc: 1.0.0
 SeerMapper: 1.2.5
@@ -6453,7 +6456,7 @@ SocrataR: '0.5'
 Sofi: 0.16.4.8
 SoftClustering: 1.1902.2
 SoftRandomForest: 0.1.0
-SoilHyP: 0.1.5
+SoilHyP: 0.1.6
 SoilR: 1.2.105
 SoilTaxonomy: 0.1.4
 SoilTesting: 0.1.0
@@ -6479,7 +6482,7 @@ SpaDES: 2.0.8
 SpaDES.addins: 0.1.3
 SpaDES.core: 1.0.10
 SpaDES.tools: 0.3.10
-SpaTimeClus: 1.0.1
+SpaTimeClus: '1.0'
 SpadeR: 0.1.1
 SparkR: 3.1.2
 SparseBiplots: 4.0.1
@@ -6656,6 +6659,7 @@ SyScSelection: 1.0.2
 SymTS: 1.0-1
 SymbolicDeterminants: 2.0.0
 SympluR: 0.3.0
+SynDI: 0.1.0
 SyncMove: 0.1-0
 SyncRNG: 1.3.0
 SynchWave: 1.1.2
@@ -7462,6 +7466,7 @@ affluenceIndex: '2.1'
 afmToolkit: 0.0.1
 afmtools: 0.1.8
 afpt: 1.1.0.1
+africamonitor: 0.1.2
 after: 1.0.0
 aftgee: 1.1.6
 afthd: 1.1.0
@@ -8009,7 +8014,7 @@ baseballr: 1.2.0
 basecamb: 1.1.0
 basedosdados: 0.2.1
 baseflow: 0.13.2
-basefun: 1.1-2
+basefun: 1.1-3
 baseline: 1.3-1
 basemaps: 0.0.1
 basetheme: 0.1.2
@@ -8313,7 +8318,7 @@ bimetallic: '1.0'
 bimets: 2.1.0
 bimixt: '1.0'
 binGroup: 2.2-1
-binGroup2: 1.2.3
+binGroup2: 1.2.4
 binMto: 0.0-7
 binancer: 1.2.0
 binaryGP: '0.2'
@@ -10722,7 +10727,7 @@ dwlm: 0.1.0
 dwp: '1.0'
 dyad: '1.0'
 dyads: 1.1.4
-dycdtools: 0.4.1
+dycdtools: 0.4.2
 dydea: 0.1.0
 dygraphs: 1.1.1.6
 dymo: 1.1.0
@@ -10939,7 +10944,7 @@ eesim: 0.1.0
 ef: 1.2.0
 efdm: 0.2.0
 eff2: 1.0.1
-effectFusion: 1.1.3
+effectFusion: '1.1'
 effectR: 1.0.2
 effects: 4.2-1
 effectsize: 0.6.0.1
@@ -11115,7 +11120,7 @@ eph: 0.4.0
 epi2loc: 1.0-1
 epiDisplay: 3.5.0.2
 epiGWAS: 1.0.2
-epiR: 2.0.46
+epiR: 2.0.48
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.9.2.8
@@ -11180,7 +11185,7 @@ ercv: 1.0.1
 erer: '3.1'
 ergMargins: 0.1.3
 ergm: 4.2.1
-ergm.count: 4.0.2
+ergm.count: 4.1.1
 ergm.ego: 1.0.0
 ergm.graphlets: 1.0.3
 ergm.rank: 4.0.0
@@ -11245,7 +11250,7 @@ etseed: 0.1.0
 eudract: 0.10.1
 eulerian: '1.0'
 eulerr: 6.1.1
-eurlex: 0.4.1
+eurlex: 0.4.2
 euroMix: '1.1'
 eurocordexr: 0.2.2
 eurodata: 1.4.2
@@ -13263,7 +13268,7 @@ hhi: 1.2.0
 hhsmm: 0.3.1
 hht: 2.1.4
 hiPOD: '1.0'
-hibayes: 1.0.1
+hibayes: 1.1.0
 hiddenf: '2.0'
 hidetify: 0.0.1
 hier.part: 1.0-6
@@ -14356,7 +14361,7 @@ labsimplex: 0.1.2
 labstatR: 1.0.11
 labstats: 1.0.1
 lacm: 0.1.1
-lacrmr: 1.0.3
+lacrmr: 1.0.5
 lactater: 0.1.0
 lactcurves: 1.1.0
 lacunaritycovariance: 1.1-3
@@ -14581,7 +14586,7 @@ libsoc: 0.7.3
 libstableR: 1.0.2
 lidR: 4.0.1
 lidaRtRee: 4.0.1
-lifecontingencies: 1.3.8
+lifecontingencies: '1.3'
 lifecourse: '2.0'
 lifecycle: 1.0.1
 lifelogr: 0.1.0
@@ -14651,7 +14656,7 @@ lisa: 0.1.2
 liso: '0.2'
 lisp: '0.1'
 lisrelToR: 0.1.5
-list: 9.2.1
+list: 9.2.2
 listArray: 0.1.1
 listWithDefaults: 1.2.0
 listarrays: 0.3.1
@@ -15387,7 +15392,7 @@ meteogRam: '1.0'
 meteoland: 1.0.2
 meteor: 0.3-4
 meteorits: 0.1.1
-meteospain: 0.0.3
+meteospain: 0.0.4
 methcon5: 0.1.0
 metools: 1.0.0
 metricTester: 1.3.6
@@ -15669,7 +15674,7 @@ mlr3fairness: 0.3.0
 mlr3filters: 0.5.0
 mlr3fselect: 0.7.1
 mlr3hyperband: 0.4.1
-mlr3learners: 0.5.2
+mlr3learners: 0.5.3
 mlr3measures: 0.4.1
 mlr3misc: 0.10.0
 mlr3oml: 0.5.0
@@ -15681,7 +15686,7 @@ mlr3spatiotempcv: 1.0.1
 mlr3tuning: 0.13.1
 mlr3tuningspaces: 0.2.0
 mlr3verse: 0.2.5
-mlr3viz: 0.5.8
+mlr3viz: 0.5.9
 mlrCPO: 0.3.7-3
 mlrMBO: 1.1.5
 mlrintermbo: 0.5.0
@@ -15831,7 +15836,7 @@ monogeneaGM: '1.1'
 monographaR: 1.2.1
 monomvn: 1.9-15
 monoreg: '2.0'
-monotone: 0.1.0
+monotone: 0.1.2
 monotonicity: 1.3.1
 monreg: 0.1.4
 moodleR: 1.0.0
@@ -16053,6 +16058,7 @@ multidplyr: 0.1.1
 multifamm: 0.1.1
 multifear: 0.1.2
 multifluo: '1.1'
+multifunc: 0.9.4
 multifwf: 0.2.2
 multigraph: '0.96'
 multigraphr: 0.1.0
@@ -16408,6 +16414,7 @@ nimble: 0.12.2
 nimbleAPT: 1.0.4
 nimbleCarbon: 0.2.1
 nimbleEcology: 0.4.1
+nimbleNoBounds: 1.0.1
 nimbleSCR: 0.1.3
 nimbleSMC: 0.10.1
 nipals: '0.8'
@@ -18451,7 +18458,7 @@ r2pptx: 0.1.0
 r2r: 0.1.1
 r2rtf: 0.3.5
 r2shortcode: '0.1'
-r2spss: 0.3.1
+r2spss: 0.3.2
 r2stl: 1.0.0
 r2sundials: 5.0.0-10
 r2symbols: '0.1'
@@ -18600,11 +18607,11 @@ ractivecampaign: 0.2.0
 radar: 1.0.0
 radarBoxplot: 1.0.5
 radarchart: 0.3.1
-radiant: 1.4.1
+radiant: 1.4.2
 radiant.basics: 1.4.1
-radiant.data: 1.4.1
+radiant.data: 1.4.2
 radiant.design: 1.4.1
-radiant.model: 1.4.3
+radiant.model: 1.4.4
 radiant.multivariate: 1.4.1
 radiomics: 0.1.3
 radir: 1.0.4
@@ -19046,7 +19053,7 @@ relgam: '1.0'
 reliaR: '0.01'
 reliabilitydiag: 0.2.0
 relimp: 1.0-5
-relliptical: 1.1.0
+relliptical: 1.2.0
 relsurv: 2.2-7
 rem: 1.3.1
 remMap: 0.2-0
@@ -20252,7 +20259,7 @@ seplyr: 1.0.4
 seq2R: '1.0'
 seqCBS: 1.2.1
 seqDesign: '1.2'
-seqHMM: 1.2.0
+seqHMM: 1.2.1-1
 seqICP: '1.1'
 seqMeta: 1.6.7
 seqPERM: '1.0'
@@ -20332,7 +20339,7 @@ sgstar: 0.1.2
 sgt: '2.0'
 shades: 1.4.0
 shadow: 0.7.1
-shadowr: 0.0.1
+shadowr: 0.0.2
 shadowtext: 0.1.2
 shallot: 0.4.10
 shape: 1.4.6
@@ -22464,7 +22471,7 @@ tvgarch: '2.2'
 tvgeom: 1.0.1
 tvm: 0.5.0
 tvmComp: 1.0.2
-tvmediation: 1.0.0
+tvmediation: 1.1.0
 tvthemes: 1.3.0
 twang: '2.5'
 twangContinuous: 1.0.0
