@@ -708,7 +708,7 @@ BondValuation: 0.1.0
 BoneProfileR: '2.2'
 BoolFilter: 1.0.0
 BoolNet: 2.1.5
-Boom: 0.9.8
+Boom: 0.9.9
 BoomSpikeSlab: 1.2.5
 BoostMLR: 1.0.3
 BootCL: '1.7'
@@ -1007,7 +1007,7 @@ CatDyn: 1.1-1
 CatEncoders: 0.1.1
 CatPredi: '1.3'
 CatReg: 2.0.3
-CatastRo: 0.2.1
+CatastRo: 0.2.2
 CateSelection: '1.0'
 CauchyCP: 0.1.0
 CausCor: 0.1.2
@@ -1447,7 +1447,7 @@ DPtree: 1.0.1
 DPw: '1.1'
 DQAgui: 0.2.0
 DQAstats: 0.3.0
-DR.SC: '2.8'
+DR.SC: '2.9'
 DRAFT: 0.3.0
 DRAYL: '1.0'
 DRDID: 1.0.3
@@ -2231,7 +2231,7 @@ FusedPCA: '0.2'
 FusionLearn: 0.2.1
 Fuzzy.p.value: '1.1'
 FuzzyAHP: 0.9.5
-FuzzyClass: 0.1.0
+FuzzyClass: 0.1.1
 FuzzyLP: 0.1-6
 FuzzyM: 0.1.0
 FuzzyMCDM: '1.1'
@@ -2912,6 +2912,7 @@ IRTpp: 0.2.6
 IRdisplay: '1.1'
 IRexamples: 0.0.1
 IRkernel: '1.3'
+IRon: 0.1.0
 ISA: 1.0-32
 ISAT: 1.0.5
 ISBF: '0.2'
@@ -4122,7 +4123,7 @@ NPsimex: 0.2-1
 NRAIA: 0.9-8
 NRejections: 1.2.0
 NSA: 0.0.3
-NSAE: 0.3.0
+NSAE: 0.4.0
 NSM3: '1.16'
 NSO1212: 1.4.0
 NST: 3.1.9
@@ -4147,7 +4148,7 @@ NestedCohort: 1.1-3
 NetCluster: '0.2'
 NetComp: '1.6'
 NetCoupler: 0.1.0
-NetDA: 0.1.0
+NetDA: 0.2.0
 NetData: '0.3'
 NetExplorer: 0.0.2
 NetFACS: 0.3.1
@@ -4448,6 +4449,7 @@ PIGE: '1.1'
 PIGShift: 1.0.1
 PIN: '0.8'
 PINSPlus: 2.0.6
+PINstimation: 0.1.0
 PIPS: 1.0.1
 PK: 1.3-5
 PKI: 0.1-11
@@ -4720,7 +4722,7 @@ PooledCohort: 0.0.1
 PooledMeanGroup: '1.0'
 PopED: 0.6.0
 PopGenKit: '1.0'
-PopGenReport: 3.0.4
+PopGenReport: 3.0.7
 PopGenome: 2.7.5
 PopVar: 1.3.0
 PopulationGrowthR: 0.1.1
@@ -4957,7 +4959,7 @@ RAP: '1.1'
 RAPIDR: 0.1.1
 RAPTOR: 1.0.1
 RAQSAPI: 2.0.3
-RAT: 0.2.0
+RAT: 0.3.0
 RATest: 0.1.9
 RAdwords: 0.1.18
 RAhrefs: 0.1.4
@@ -5810,6 +5812,7 @@ Rnotes: 1.1-1
 Rnumerai: 2.1.4
 Rnvd3: 1.0.0
 RoBMA: 2.2.2
+RoBSA: 1.0.0
 RobAStBase: 1.2.1
 RobAStRDA: 1.2.0
 RobExtremes: 1.2.0
@@ -6052,7 +6055,7 @@ SGB: 1.0.1
 SGCS: '2.7'
 SGL: '1.3'
 SGP: 1.9-5.0
-SGPdata: 25.0-0.0
+SGPdata: 26.0-0.0
 SHAPforxgboost: 0.1.1
 SHARE: 1.1.0
 SHELF: 1.8.0
@@ -6238,7 +6241,7 @@ STI: '0.1'
 STMedianPolish: '0.2'
 STMotif: 2.0.1
 STMr: 0.1.3
-STOPES: '0.1'
+STOPES: '0.2'
 STPGA: 5.2.1
 STRAH: '1.0'
 STRMPS: 0.5.8
@@ -6500,6 +6503,7 @@ SparseM: '1.81'
 SparseMDC: 0.99.5
 SparseMSE: 2.0.1
 SparseTSCGM: '4.0'
+SparseVFC: 0.1.0
 SpatEntropy: 2.1-1
 SpatMCA: 1.0.2.0
 SpatPCA: 1.3.3.0
@@ -6733,7 +6737,7 @@ TKF: 0.0.8
 TLBC: '1.0'
 TLMoments: 0.7.5.3
 TLdating: 0.1.3
-TMB: 1.8.1
+TMB: 1.9.0
 TMDb: '1.1'
 TMTI: 0.1.0
 TNC: 0.1.0
@@ -6926,6 +6930,7 @@ TotalCopheneticIndex: 2.0.1
 TouRnament: 0.2.5
 ToxCrit: '1.0'
 ToxLim: '1.0'
+ToxicR: '22.5'
 ToxicoGx: 0.1.1
 Tplyr: 0.4.4
 TraMineR: 2.2-3
@@ -8112,6 +8117,7 @@ bazar: 1.0.11
 bbdetection: '1.0'
 bbefkr: '4.2'
 bbemkr: '2.0'
+bbknnR: 1.0.0
 bbl: 1.0.0
 bbmle: 1.0.25
 bbo: '0.2'
@@ -8147,7 +8153,7 @@ bcs: 1.0.0
 bcv: '1.0'
 bdDwC: 0.1.15
 bda: 15.2.5
-bdc: 1.1.0
+bdc: 1.1.1
 bdchecks: 0.1.7
 bdclean: 0.1.15
 bde: 1.0.1
@@ -8356,6 +8362,7 @@ binr: '1.1'
 binsegRcpp: 2022.1.24
 binseqtest: 1.0.3
 binsmooth: 0.2.2
+binspp: 0.1.18
 binsreg: '0.7'
 binst: 0.2.1
 bio.infer: 1.3-6
@@ -8408,7 +8415,7 @@ birdnik: 0.1.1
 birdring: '1.4'
 birk: 2.1.2
 birtr: 1.0.0
-biscale: 0.2.0
+biscale: 1.0.0
 bise: '1.0'
 biseVec: 1.3-25
 bisect: 0.9.0
@@ -8924,7 +8931,7 @@ cdcfluview: 0.9.4
 cdcsis: 2.0.3
 cde: 0.4.1
 cder: 0.2-2
-cdfquantreg: 1.3.1
+cdfquantreg: 1.3.1-1
 cdlTools: '0.15'
 cdlei: '1.0'
 cdmTools: 1.0.2
@@ -8997,7 +9004,7 @@ cgh: 1.0-7
 cghFLasso: 0.2-1
 cghRA: 1.6.0
 cghseg: 1.0.5
-cglasso: 2.0.4
+cglasso: 2.0.5
 cglm: '1.1'
 cgmanalysis: 2.7.2
 cgmquantify: 0.1.0
@@ -9274,7 +9281,7 @@ cmaesr: 1.0.3
 cmcR: 0.1.9
 cmce: 0.1.0
 cmdfun: 1.0.2
-cmenet: 0.1.1
+cmenet: 0.1.2
 cmfilter: 0.9.1
 cmfrec: 3.4.2
 cml: 0.0.5
@@ -10671,7 +10678,7 @@ ds: '4.0'
 ds4psy: 0.8.0
 dsa: 1.0.12
 dsample: 0.91.2.2
-dsb: 1.0.1
+dsb: 1.0.2
 dscore: 1.4.0
 dse: 2020.2-1
 dse1: 2011.11-2
@@ -10739,6 +10746,7 @@ dymo: 1.1.0
 dyn: 0.2-9.6
 dyn.log: 0.4.0
 dynBiplotGUI: 1.1.6
+dynConfiR: 0.0.1
 dynCorr: 1.1.0
 dynGraph: '0.99100403'
 dynOmics: '1.2'
@@ -10870,7 +10878,7 @@ ecochange: '2.9'
 ecocomDP: 1.2.1
 ecodist: 2.0.9
 ecoengine: '1.9'
-ecolMod: 1.2.6.2
+ecolMod: '1.2'
 ecolTest: 0.0.1
 ecolottery: 1.0.0
 econet: 1.0.0
@@ -10908,7 +10916,7 @@ eddi: 0.0.1
 eddington: 2.1.1
 edeR: 1.0.0
 edeaR: 0.8.6
-edecob: 1.0.0
+edecob: 1.1.0
 edesign: 1.0-9
 edf: 1.0.0
 edfReader: 1.2.1
@@ -11530,6 +11538,7 @@ fastSOM: 1.0.1
 fastStat: '1.4'
 fastText: 1.0.2
 fastTextR: 2.0.0
+fastTopics: 0.6-135
 fastVAR: '1.2'
 fasta: 0.1.0
 fastadi: 0.1.0
@@ -12230,7 +12239,7 @@ gbp: 0.1.0.4
 gbs: '1.0'
 gbs2ploidy: '1.0'
 gbts: 1.2.0
-gbutils: 0.4-0
+gbutils: '0.5'
 gcExplorer: 0.9-4
 gcForest: 0.2.7
 gcKrig: 1.1.7
@@ -12253,7 +12262,7 @@ gdalUtils: 2.0.3
 gdalcubes: 0.6.1
 gdata: 2.18.0.1
 gde: 0.2.0
-gdiff: 0.2-2
+gdiff: 0.2-3
 gdimap: 0.1-9
 gdistance: 1.3-6
 gdm: 1.5.0-3
@@ -12291,7 +12300,7 @@ gemtc.jar: 0.14.3
 gen2stage: '1.0'
 gen3sis: '1.4'
 gen5helper: 1.0.1
-genBaRcode: 1.2.4
+genBaRcode: 1.2.5
 genBart: 1.0.1
 genMOSS: '1.2'
 genMOSSplus: '1.0'
@@ -12317,7 +12326,7 @@ geneNetBP: 2.0.1
 geneSLOPE: 0.37.0
 geneSignatureFinder: 2014.02.17
 genefu: 1.0.9
-genekitr: 0.6.1
+genekitr: 0.8.5
 genemodel: 1.1.0
 genepi: 1.0.1
 genepop: 1.1.7
@@ -12514,7 +12523,7 @@ gganimate: 1.0.7
 ggarchery: 0.2.0
 ggasym: 0.1.6
 ggbeeswarm: 0.6.0
-ggblanket: 1.0.0
+ggblanket: 1.1.0
 ggborderline: 0.1.0
 ggbraid: 0.2.2
 ggbreak: 0.0.9
@@ -12558,7 +12567,7 @@ gggrid: 0.2-0
 ggguitar: 0.1.1
 ggh4x: 0.2.1
 gghalfnorm: 1.1.2
-gghalves: 0.1.1
+gghalves: 0.1.2
 gghdr: 0.1.0
 ggheatmap: '2.1'
 gghighlight: 0.3.2
@@ -12645,7 +12654,7 @@ ggspatial: 1.1.5
 ggspectra: 0.3.8
 ggstance: 0.3.5
 ggstar: 1.0.3
-ggstatsplot: 0.9.2
+ggstatsplot: 0.9.3
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
@@ -13323,7 +13332,7 @@ histogram: 0.0-25
 historydata: '0.1'
 histry: 0.2.4
 hit: 0.4.0
-hitandrun: '0.5'
+hitandrun: 0.5-6
 hive: 0.2-2
 hkclustering: 1.0.1
 hkdatasets: 1.0.0
@@ -14636,7 +14645,7 @@ linemap: 0.2.0
 lineqGPR: 0.1.1
 lineup: '0.40'
 lineup2: '0.6'
-lingglosses: 0.0.3
+lingglosses: 0.0.4
 lingmatch: 1.0.3
 lingtypology: 1.1.8
 linguisticsdown: 1.2.0
@@ -15605,7 +15614,7 @@ mixedMem: 1.1.2
 mixedQF: '0.3'
 mixedsde: '5.0'
 mixer: '1.9'
-mixexp: 1.2.5
+mixexp: 1.2.7
 mixfdr: '1.0'
 mixggm: '1.0'
 mixl: 1.3.3
@@ -16397,7 +16406,7 @@ ngspatial: 1.2-2
 ngstk: 0.2.3
 nhanesA: 0.6.7
 nhdR: 0.5.7
-nhdplusTools: 0.5.2
+nhdplusTools: 0.5.3
 nhds: 1.0.3
 nhlapi: 0.1.4
 nhlscrape: 0.1.3
@@ -16808,7 +16817,7 @@ ooplah: 0.2.0
 oops: 0.2.0
 oosp: 0.3.3
 oottest: 0.9.1
-opGMMassessment: '0.3'
+opGMMassessment: 0.3.2
 opa: 0.3.6
 opalr: 3.1.0
 opart: 2019.1.0
@@ -17317,7 +17326,7 @@ pdfetch: 0.2.7
 pdfminer: '1.0'
 pdfsearch: 0.3.0
 pdftables: '0.1'
-pdftools: 3.2.0
+pdftools: 3.2.1
 pdi: 0.4.2
 pdist: 1.2.1
 pdmod: 1.0.1
@@ -17346,7 +17355,7 @@ pedgene: '3.3'
 pedigree: '1.4'
 pedigreeTools: '0.1'
 pedigreemm: 0.3-3
-pedmod: 0.2.1
+pedmod: 0.2.2
 pedmut: 0.3.0
 pedometrics: 0.7.0
 pedprobr: 0.6.1
@@ -17663,6 +17672,7 @@ plot3D: '1.4'
 plot3Drgl: 1.0.2
 plot3logit: 3.1.2
 plotAndPlayGTK: 0.8.78
+plotBart: 0.1.7
 plotDK: 0.1.0
 plotGMM: 0.2.2
 plotGoogleMaps: '2.2'
@@ -20913,7 +20923,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 1.21.0
+spant: 1.22.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -21679,7 +21689,7 @@ sylly.en: 0.1-3
 sym.arma: '1.0'
 symDMatrix: 2.1.1
 symSEM: '0.1'
-symbolicDA: 0.6-2
+symbolicDA: 0.6-3
 symbols: '1.1'
 symengine: 0.2.1
 symmetry: 0.2.1
@@ -22582,6 +22592,7 @@ uniqtag: '1.0'
 uniqueAtomMat: 0.1-3-2
 unisensR: 0.3.3
 uniset: 0.3.1
+uniswappeR: 0.6.0
 unitedR: '0.4'
 unitizer: 1.4.18
 units: 0.8-0
@@ -22700,6 +22711,7 @@ vamc: 0.2.1
 vampyr: 1.1.1
 vandalico: 0.0.1
 vanddraabe: 1.1.1
+vangogh: 0.1.1
 vannstats: 1.2.4.29
 vanquish: 1.0.0
 vapour: 0.8.5
@@ -23043,7 +23055,7 @@ whitestrap: 0.0.1
 whoa: 0.0.2
 whoami: 1.3.0
 whoapi: 0.1.2
-whomds: 1.0.1
+whomds: 1.1.0
 wiad: 0.0.1.0
 wicket: 0.4.0
 widals: 0.6.1
