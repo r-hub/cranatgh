@@ -708,8 +708,8 @@ BondValuation: 0.1.0
 BoneProfileR: '2.2'
 BoolFilter: 1.0.0
 BoolNet: 2.1.5
-Boom: 0.9.7
-BoomSpikeSlab: 1.2.4
+Boom: 0.9.8
+BoomSpikeSlab: 1.2.5
 BoostMLR: 1.0.3
 BootCL: '1.7'
 BootMRMR: '0.1'
@@ -2605,7 +2605,7 @@ GxEScanR: 2.0.2
 GxM: '1.1'
 H2x2Factorial: 2.0.0
 HAC: 1.1-0
-HACSim: 1.0.5
+HACSim: 1.0.6
 HAP.ROR: '1.0'
 HAPim: '1.3'
 HARModel: '1.0'
@@ -3257,7 +3257,7 @@ LSAmitR: 1.0-2
 LSC: '0.1'
 LSD: 4.1-0
 LSDinterface: 1.2.1
-LSDsensitivity: 1.2.1
+LSDsensitivity: 1.2.2
 LSE: 1.0.0
 LSMRealOptions: 0.2.1
 LSMonteCarlo: '1.0'
@@ -3942,7 +3942,7 @@ MonoPhy: '1.3'
 MonoPoly: 0.3-10
 Monte.Carlo.se: 0.1.0
 MonteCarlo: 1.0.6
-MonteCarloSEM: 0.0.3
+MonteCarloSEM: 0.0.4
 MoonFinder: 1.0.3
 Morpho: '2.9'
 MorphoTools2: 1.0.0.0
@@ -4285,7 +4285,7 @@ OlinkAnalyze: 3.0.0
 OmegaG: 1.0.1
 OmicInt: 1.1.7
 OmicKriging: 1.4.0
-OmicNavigator: 1.8.0
+OmicNavigator: 1.11.5
 OmicsPLS: 2.0.2
 Omisc: 0.1.4
 OmnibusFisher: '1.0'
@@ -4874,7 +4874,7 @@ QoLMiss: 0.1.0
 QoLR: '1.0'
 Qtools: 1.5.5
 QuACN: 1.8.0
-QuClu: 0.1.0
+QuClu: 1.0.1
 QuESTr: 0.1.1
 QuadRoot: 0.2.0
 QualInt: 1.0.0
@@ -8902,7 +8902,7 @@ ccems: '1.0'
 ccfa: 1.1.0
 ccgarch: 0.2.3
 cchs: 0.4.2
-cchsflow: 2.0.0
+cchsflow: 2.1.0
 ccid: 1.2.0
 cclust: 0.6-23
 ccmEstimator: 1.0.0
@@ -9859,7 +9859,7 @@ cthist: 1.0.0
 cthresh: '4.5'
 cthreshER: 1.1.0
 ctl: 1.0.0-7
-ctmcd: 1.4.1
+ctmcd: 1.4.2
 ctmcmove: 1.2.9
 ctmle: 0.1.2
 ctmm: 0.6.1
@@ -11191,7 +11191,7 @@ erer: '3.1'
 ergMargins: 0.1.3
 ergm: 4.2.1
 ergm.count: 4.1.1
-ergm.ego: 1.0.0
+ergm.ego: 1.0.1
 ergm.graphlets: 1.0.3
 ergm.rank: 4.0.0
 ergm.userterms: 3.9.0
@@ -13434,7 +13434,7 @@ httr2: 0.2.1
 hudr: 1.1.0
 hues: 0.2.0
 huge: 1.3.5
-huito: 0.1.3
+huito: 0.1.4
 humanFormat: '1.0'
 humaniformat: 0.6.0
 humanize: 0.2.0
@@ -14421,7 +14421,7 @@ later: 1.3.0
 latex2exp: 0.9.4
 latexdiffr: 0.1.0
 latexpdf: 0.1.7
-latrend: 1.2.1
+latrend: 1.3.0
 latte: 0.2.1
 lattice: 0.20-45
 latticeDensity: 1.2.6
@@ -16451,7 +16451,7 @@ nlmixr2plot: 2.0.6
 nlmm: 1.0.1
 nlmrt: 2016.3.2
 nlnet: '1.4'
-nloptr: 2.0.2
+nloptr: 2.0.3
 nloptwrap: 0.5-7
 nlpred: 1.0.1
 nlr: 0.1-3
@@ -16503,7 +16503,7 @@ nnetpredint: '1.2'
 nnfor: 0.9.6
 nngeo: 0.4.5
 nnlasso: '0.3'
-nnlib2Rcpp: 0.1.8
+nnlib2Rcpp: 0.1.9
 nnls: '1.4'
 nnspat: 0.1.0
 nnt: 0.1.4
@@ -17055,7 +17055,7 @@ packagetrackr: 0.1.1
 packcircles: 0.3.4
 packdep: 0.3.1
 packer: 0.1.2
-packrat: 0.7.0
+packrat: 0.8.0
 pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
@@ -17267,7 +17267,7 @@ pbixr: 0.1.4
 pbkrtest: 0.5.1
 pbm: 1.2.1
 pbmcapply: 1.5.1
-pbo: 1.3.4
+pbo: 1.3.5
 pbs: '1.1'
 pbv: 0.4-22
 pcFactorStan: 1.5.3
@@ -18471,7 +18471,7 @@ r3PG: 0.1.4
 r3dmol: 0.1.2
 r4googleads: 0.1.1
 r4lineups: 0.1.1
-r4ss: 1.36.1
+r4ss: 1.44.0
 r511: 0.1.1
 r5r: 0.7.0
 r6extended: 0.1.2
@@ -18889,7 +18889,7 @@ re2r: 0.2.0
 reGenotyper: 1.2.0
 reReg: 1.4.3
 reactR: 0.4.4
-reactable: 0.2.3
+reactable: 0.3.0
 reactablefmtr: 2.0.0
 reactlog: 1.1.0
 read.cwa: 0.2.1
@@ -19016,7 +19016,7 @@ reglogit: 1.2-6
 regmed: 2.0.4
 regmedint: 1.0.0
 regnet: 0.4.0
-rego: 1.5.1
+rego: 1.5.2
 regplot: '1.1'
 regport: 0.3.0
 regpro: 0.1.1
@@ -19076,7 +19076,7 @@ remotes: 2.4.2
 remss: 1.0.1
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 0.15.4
+renv: 0.15.5
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
@@ -19264,7 +19264,7 @@ rhub: 1.1.1
 rhymer: 1.1.0
 rhype: 0.2.0
 ri: '0.9'
-ri2: 0.2.0
+ri2: 0.4.0
 riAFTBART: 0.3.2
 ribd: 1.4.0
 ribiosUtils: 1.5-6
@@ -19345,7 +19345,7 @@ rkt: '1.6'
 rkvo: '0.1'
 rlandscape: '1.0'
 rlang: 1.0.2
-rlas: 1.5.3
+rlas: 1.6.0
 rlc: 0.4.1
 rlcv: 1.0.0
 rld: '1.0'
@@ -19991,7 +19991,7 @@ sbo: 0.5.0
 sboost: 0.1.2
 sbpiper: 1.9.0
 sbrl: '1.2'
-sbtools: 1.1.17
+sbtools: 1.1.18
 sbw: 1.1.5
 scBio: 0.1.6
 scCAN: 1.0.4
@@ -20924,7 +20924,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.7.5
+sparklyr: 1.7.6
 sparklyr.flint: 0.2.2
 sparklyr.nested: 0.0.3
 sparktex: '0.1'
