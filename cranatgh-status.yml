@@ -694,6 +694,7 @@ Blendstat: 1.0.3
 BlockCov: 0.1.1
 BlockFeST: '2.0'
 BlockMessage: '1.0'
+BlockmodelingGUI: 1.8.3
 Blossom: '1.4'
 BlythStillCasellaCI: 1.0.0
 Bmix: '0.6'
@@ -1969,6 +1970,7 @@ ExpImage: 0.4.0
 ExpRep: '1.0'
 ExpertChoice: 0.2.0
 ExplainPrediction: 1.3.0
+ExplodeLayout: 0.1.1
 ExtDist: 0.6-4
 ExtMallows: 0.1.0
 ExtractTrainData: 9.1.5
@@ -2201,6 +2203,7 @@ Formula: 1.2-4
 FortranCallsR: '0.1'
 ForwardSearch: '1.0'
 FossilSim: 2.3.0
+FossilSimShiny: 1.0.0
 FourScores: 1.5.1
 FourWayHMM: 1.0.0
 FourgameteP: 0.1.0
@@ -3446,6 +3449,7 @@ MBTAr: 2.0.0
 MBmca: 1.0.1-3
 MC2toPath: 0.0.16
 MCAPS: '0.3'
+MCARtest: '1.0'
 MCAvariants: '2.6'
 MCBackscattering: 0.1.1
 MCDA: 0.0.21
@@ -4017,7 +4021,7 @@ Myrrix: '1.2'
 Myrrixjars: 1.0-2
 N2H4: 0.6.3
 N2R: 1.0.1
-NACHO: 1.1.0
+NACHO: 2.0.0
 NADA: 1.6-1.1
 NADA2: 1.0.2
 NADIA: 0.4.1
@@ -4567,6 +4571,7 @@ PTwins: 0.1.1
 PUMP: 1.0.0
 PUPAIM: 0.3.1
 PUPMCR: 0.1.0
+PUPMSI: 0.1.0
 PUlasso: 3.2.4
 PVAClone: 0.1-6
 PVR: '0.3'
@@ -4706,7 +4711,7 @@ PoisBinOrdNonNor: 1.5.3
 PoisBinOrdNor: 1.6.3
 PoisNonNor: 1.6.3
 PoisNor: 1.3.3
-PoissonBinomial: 1.2.4
+PoissonBinomial: 1.2.5
 PoissonMultinomial: '1.0'
 PoissonPCA: 1.0.3
 PoissonSeq: '1.1'
@@ -6745,6 +6750,7 @@ TNC: 0.1.0
 TNRS: 0.3.0
 TOC: 0.0-5
 TOHM: '1.4'
+TORDs: 1.0.0
 TOSTER: 0.4.1
 TP.idm: '1.5'
 TPAM: '1.0'
@@ -7729,7 +7735,7 @@ arcos: '1.27'
 arcpullr: 0.2.5
 arctools: 1.1.4
 areabiplot: 1.0.0
-areal: 0.1.7
+areal: 0.1.8
 arealDB: 0.3.9
 areaplot: 1.2.2
 arena2r: 1.0.0
@@ -8383,7 +8389,7 @@ biogas: 1.23.2
 biogeo: '1.0'
 biogeom: 1.0.5
 biogram: 1.6.3
-biogrowth: 0.2.3
+biogrowth: 1.0.0
 bioimagetools: 1.1.8
 bioinactivation: 1.2.3
 biokNN: 0.1.0
@@ -10345,7 +10351,7 @@ diagonals: 6.0.0
 diagram: 1.6.5
 dialectR: '1.0'
 dialr: 0.4.0
-dialrjars: 8.12.42
+dialrjars: 8.12.49
 dials: 0.1.1
 diamonds: 1.0-5
 diaplt: 1.4.0
@@ -12166,7 +12172,7 @@ gamblers.ruin.gameplay: 4.0.5
 gamboostLSS: 2.0-6
 gamboostMSM: 1.1.88
 gamclass: 0.62.3
-gameR: 0.0.2
+gameR: 0.0.3
 gameofthrones: 1.0.2
 games: 1.1.2
 gamesGA: 1.1.3.7
@@ -12286,7 +12292,7 @@ geeCRT: 0.1.1
 geeM: 0.10.1
 geeasy: 0.1.1
 geecure: 1.0-6
-geepack: 1.3.3
+geepack: 1.3.4
 geesmv: '1.3'
 geex: 1.0.12
 geigen: '2.3'
@@ -13842,7 +13848,7 @@ insurancerating: 0.6.9
 int64: 1.1.2
 intReg: 0.2-8
 intRegGOF: 0.85-5
-intRinsic: 0.2.0
+intRinsic: 0.2.1
 intRvals: 1.0.1
 intamap: 1.4-16
 intamapInteractive: 1.1-7
@@ -14110,7 +14116,7 @@ jmuOutlier: '2.2'
 jmv: 2.3.4
 jmvReadWrite: 0.3.2
 jmvconnect: 2.0.0
-jmvcore: 2.3.4
+jmvcore: 2.3.12
 job: 0.3.0
 jocre: 0.3.3
 joinXL: 1.0.1
@@ -15593,7 +15599,7 @@ misty: 0.4.5
 mitml: 0.4-3
 mitools: '2.4'
 mitre: 1.0.0
-mix: 1.0-10
+mix: 1.0-11
 mixAK: '5.4'
 mixAR: 0.22.7
 mixComp: 0.1-2
@@ -16798,7 +16804,7 @@ onemapsgapi: 1.0.0
 onepass: 0.1.2
 onewaytests: '2.6'
 onion: 1.5-0
-onlineBcp: 0.1.7
+onlineBcp: 0.1.8
 onlineCOV: '1.3'
 onlineCPD: '1.0'
 onlinePCA: 1.3.1
@@ -17876,6 +17882,7 @@ portfolio.optimization: 1.0-0
 portfolioBacktest: 0.4.1
 portfolioSim: 0.2-7
 portsort: 0.1.0
+portvine: 1.0.1
 postCP: 1.7.2
 postDoubleR: 1.4.12
 postGGIR: 2.4.0.2
@@ -18356,7 +18363,7 @@ qrfactor: '1.4'
 qrjoint: 2.0-6
 qrmdata: 2019-12-03-1
 qrmix: 0.9.0
-qrmtools: 0.0-14
+qrmtools: 0.0-15
 qrng: 0.0-8
 qrnn: 2.0.5
 qrsvm: 0.2.1
@@ -18396,7 +18403,7 @@ quadtree: 0.1.9
 qualCI: '0.1'
 qualV: 0.3-4
 qualityTools: '1.55'
-qualmap: 0.2.0
+qualmap: 0.2.1
 qualpalr: 0.4.3
 qualtRics: 3.1.5
 qualvar: 0.2.0
@@ -20164,7 +20171,7 @@ seasonalityPlot: 0.99.3
 seasonalview: '0.3'
 seastests: 0.15.4
 seawaveQ: 2.0.2
-secr: 4.5.4
+secr: 4.5.5
 secrdesign: 2.6.0
 secret: 1.1.0
 secrettext: 0.1.0
@@ -20231,6 +20238,7 @@ semantic.dashboard: 0.2.1
 semdiag: '0.1'
 semdrw: 0.1.0
 semds: 0.9-6
+semgram: 0.1.0
 semiArtificial: 2.4.1
 semicmprskcoxmsm: 0.2.0
 seminr: 2.3.0
@@ -21135,7 +21143,7 @@ spoccutils: 0.1.0
 spoiler: 1.0.0
 spongebob: 0.4.0
 spongecake: 0.1.2
-spooky: 1.1.0
+spooky: 1.2.0
 spork: 0.2.2
 sporm: '1.1'
 sport: 0.2.0
@@ -21601,7 +21609,7 @@ survivalREC: '1.0'
 survivalROC: 1.0.3
 survivalmodels: 0.1.13
 survivalsvm: 0.0.5
-survivoR: '1.0'
+survivoR: 1.0.1
 survminer: 0.4.9
 survmixer: '1.3'
 survrec: 1.2-2
@@ -21911,7 +21919,7 @@ texreg: 1.38.6
 text: 0.9.90
 text.alignment: 0.1.2
 text2map: 0.1.5
-text2sdg: 0.1.2
+text2sdg: 0.1.3
 text2speech: 0.2.13
 text2vec: 0.6.1
 textTinyR: 1.1.7
@@ -21967,7 +21975,7 @@ tgver: 0.2.0
 thaipdf: 0.1.2
 thankr: 1.0.0
 thectar: 1.0.0
-theft: 0.3.9.5
+theft: 0.3.9.6
 theiaR: 0.4.0
 thematic: 0.1.2.1
 themetagenomics: 1.0.2
@@ -22534,7 +22542,7 @@ uFTIR: 0.1.4
 uGMAR: 3.4.2
 uHMM: '1.0'
 uaparserjs: 0.3.5
-uavRmp: 0.5.7
+uavRmp: 0.6.0
 uavRst: 0.5-4
 ubci: 0.0.5
 ubeR: 0.1.4
@@ -22602,7 +22610,7 @@ unitedR: '0.4'
 unitizer: 1.4.18
 units: 0.8-0
 unittest: 1.4-0
-univOutl: '0.3'
+univOutl: '0.4'
 unival: 1.1.0
 univariateML: 1.1.1
 universals: 0.0.4
@@ -23354,7 +23362,7 @@ zooaRchGUI: 1.0.2
 zoocat: 0.2.0
 zooimage: 5.5.2
 zoolog: 1.0.1
-zoom: 2.0.4
+zoom: 2.0.6
 zoomGroupStats: 0.1.0
 zoomgrid: 1.0.0
 zoon: 0.6.5
