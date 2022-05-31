@@ -1017,6 +1017,7 @@ CausalGPS: 0.2.7
 CausalImpact: 1.2.7
 CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.1
+CausalModels: 0.1.0
 CausalQueries: 0.0.3
 Causata: 4.2-0
 CautiousLearning: 1.0.1
@@ -1225,7 +1226,7 @@ CorDiff: '1.0'
 CorMID: 0.1.6
 CorReg: 1.2.8
 CorShrink: 0.1-6
-Corbi: 0.6-1
+Corbi: 0.6-2
 CoreGx: 0.1.1
 CornerstoneR: 2.0.2
 CorporaCoCo: 1.1-0
@@ -1293,7 +1294,7 @@ D3M: '0.41'
 D3partitionR: 0.5.0
 DA: 1.2.0
 DA.MRFA: '1.1'
-DAAG: '1.24'
+DAAG: 1.25.3
 DAAGbio: 0.63-3
 DAAGxtras: 0.8-4
 DAC: 0.1.1
@@ -1624,7 +1625,7 @@ Directional: '5.5'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.17
-DisaggregateTS: '1.0'
+DisaggregateTS: 2.0.0
 Disake: '1.5'
 DiscML: '1.0'
 DiscreteFDR: 1.3.6
@@ -4827,7 +4828,7 @@ QCAfalsePositive: 1.1.1
 QCApro: 1.1-2
 QCAtools: 0.2.3
 QCEWAS: 1.2-2
-QCGWAS: 1.0-8
+QCGWAS: 1.0-9
 QCSIS: '0.1'
 QCSimulator: 0.0.1
 QDComparison: '3.0'
@@ -5299,7 +5300,7 @@ RQEntangle: 0.1.3
 RQGIS: 1.0.4
 RQuantLib: 0.4.16
 RRBoost: '0.1'
-RRF: 1.9.3
+RRF: 1.9.4
 RRI: '1.1'
 RRMLRfMC: 0.4.0
 RRNA: '1.0'
@@ -7395,7 +7396,7 @@ adamethods: 1.2.1
 adana: 1.1.0
 adapr: 2.0.0
 adapt: '1.0'
-adapt4pv: 0.2-1
+adapt4pv: 0.2-2
 adaptDA: '1.0'
 adaptDiag: 0.1.0
 adaptMCMC: '1.4'
@@ -7475,7 +7476,7 @@ affinitymatrix: 0.1.0
 affluenceIndex: '2.1'
 afmToolkit: 0.0.1
 afmtools: 0.1.8
-afpt: 1.1.0.1
+afpt: 1.1.0.2
 africamonitor: 0.1.2
 after: 1.0.0
 aftgee: 1.1.6
@@ -7772,7 +7773,7 @@ artemis: 1.1.1
 artfima: '1.5'
 arthistory: 0.1.0
 arules: 1.7-3
-arulesCBA: 1.2.3
+arulesCBA: 1.2.4
 arulesNBMiner: 0.1-8
 arulesSequences: 0.2-25
 arulesViz: 1.5-1
@@ -12405,7 +12406,7 @@ geojson: 0.3.4
 geojsonR: 1.1.0
 geojsonio: 0.9.4
 geojsonlint: 0.4.0
-geojsonsf: 2.0.2
+geojsonsf: 2.0.3
 geoknife: 1.6.6
 geomander: 2.0.3
 geomapdata: 2.0-0
@@ -13723,7 +13724,7 @@ imgw: 0.3.0
 iml: 0.11.0
 immcp: 1.0.3
 immer: 1.3-3
-immunarch: 0.6.8
+immunarch: 0.6.9
 immuneSIM: 0.8.7
 imola: 0.5.0
 imp4p: '1.2'
@@ -15058,7 +15059,7 @@ mapsPERU: 1.0.2
 mapsRinteractive: 1.0.1
 mapsapi: 0.5.3
 mapscanner: 0.0.6
-mapsf: 0.4.0
+mapsf: 0.5.0
 maptiles: 0.3.0
 maptools: 1.1-4
 maptpx: 1.9-7
@@ -15384,7 +15385,7 @@ metamisc: 0.2.5
 metan: 1.16.0
 metansue: '2.4'
 metap: '1.8'
-metapack: 0.1.5
+metapack: 0.2.0
 metaplot: 0.8.3
 metaplotr: 0.0.3
 metaplus: 1.0-4
@@ -18752,7 +18753,7 @@ ratios: 1.2.0
 rattle: 5.5.1
 rattle.data: 1.0.2
 raustats: 0.15.0
-raveio: 0.0.5
+raveio: 0.0.6
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
 ravetools: 0.0.4
