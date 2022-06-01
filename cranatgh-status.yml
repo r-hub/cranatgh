@@ -252,7 +252,7 @@ AquaBPsim: 0.0.1
 AquaEnv: 1.0-4
 ArArRedux: '1.0'
 ArCo: 0.3-1
-ArDec: '2.0'
+ArDec: 2.1-1
 ArchaeoChron: '0.1'
 ArchaeoPhases: '1.6'
 ArchaeoPhases.dataset: 0.2.0
@@ -1593,7 +1593,7 @@ Dforest: 0.4.2
 DiNAMIC.Duo: 1.0.1
 DiPALM: '1.1'
 DiPhiSeq: 0.2.0
-DiPs: 0.6.2
+DiPs: 0.6.3
 DiSSMod: 1.0.0
 DiagTest3Grp: '1.6'
 DiagnosisMed: '0.2'
@@ -3180,7 +3180,7 @@ LDAShiny: 0.9.3
 LDATS: 0.2.7
 LDAvis: 0.3.2
 LDExplorer: 1.0.3
-LDLcalc: '1.1'
+LDLcalc: '2.0'
 LDNN: '1.10'
 LDOD: '1.0'
 LDPD: 1.1.2
@@ -4146,7 +4146,7 @@ NeMo: '1.0'
 NeatMap: 0.3.6
 NegBinBetaBinreg: '1.0'
 NegativeControlOutcomeAdjustment: 0.0.4
-Neighboot: 1.0.0
+Neighboot: 1.0.1
 Nemenyi: '1.2'
 NestedCategBayesImpute: 1.2.1
 NestedCohort: 1.1-3
@@ -4366,7 +4366,7 @@ PAFit: 1.2.5
 PAFway: 0.1.3
 PAGI: '1.0'
 PAGWAS: '2.0'
-PALMO: 0.1.0
+PALMO: 0.1.1
 PAMA: 1.2.0
 PAMhm: 0.1.2
 PAMmisc: 1.9.2
@@ -4770,7 +4770,7 @@ PriceIndices: 0.0.7
 PriorCD: 0.1.0
 PriorGen: 1.1.2
 PrivateLR: 1.2-22
-ProAE: 0.2.8
+ProAE: 0.2.9
 ProDenICA: '1.1'
 ProFit: 1.3.3
 ProFound: 1.14.1
@@ -6264,7 +6264,7 @@ SVN: 1.0.1
 SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.4.1
-SWMPrExtension: 2.2.2.0
+SWMPrExtension: 2.2.3
 SWTools: 0.2.3.1
 SWordInstaller: 1.0-2
 SYNCSA: 1.3.4
@@ -7453,7 +7453,7 @@ adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
 adlift: 1.4-3
-admiral: 0.6.3
+admiral: 0.7.0
 admiral.test: 0.2.0
 admisc: '0.27'
 admix: 0.4.0
@@ -7678,7 +7678,7 @@ apaText: 0.1.1
 apache.sedona: 1.1.1
 apc: 2.0.0
 apcf: 0.2.0
-apcluster: 1.4.9
+apcluster: 1.4.10
 apdesign: 1.0.0
 ape: 5.6-2
 apercu: 0.2.4
@@ -7984,7 +7984,7 @@ backtestGraphics: 0.1.6
 bacondecomp: 0.1.1
 bacr: 1.0.1
 badgecreatr: 0.2.0
-badger: 0.2.0
+badger: 0.2.1
 bagRboostR: 0.0.2
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
@@ -8168,7 +8168,7 @@ bde: 1.0.1
 bdl: 1.0.4
 bdlp: 0.9-2
 bdoc: '1.2'
-bdots: 1.0.1
+bdots: 1.1.0
 bdpar: 3.0.2
 bdpopt: 1.0-1
 bdpv: '1.3'
@@ -8389,7 +8389,7 @@ biogas: 1.23.2
 biogeo: '1.0'
 biogeom: 1.0.5
 biogram: 1.6.3
-biogrowth: 1.0.0
+biogrowth: 1.0.0-1
 bioimagetools: 1.1.8
 bioinactivation: 1.2.3
 biokNN: 0.1.0
@@ -9908,7 +9908,7 @@ cumplyr: 0.1-1
 cumstats: '1.0'
 cumulocityr: 0.1.0
 cuperdec: 1.1.0
-curephEM: 0.2.3
+curephEM: 0.2.5
 curl: 4.3.2
 curlconverter: 0.7.0
 currentSurvival: '1.1'
@@ -10702,7 +10702,7 @@ dsmodels: 1.1.0
 dsos: 0.1.0
 dsr: 0.2.2
 dsrTest: 0.2.1
-dssd: 0.3.1
+dssd: 0.3.2
 dst: 1.5.1
 dstack: 0.2.1
 dstat: 1.0.4
@@ -11033,7 +11033,7 @@ elhmc: 1.1.0
 elisr: 0.1.1
 elitism: 1.0.4
 elliplot: 1.3.0
-ellipse: 0.4.2
+ellipse: 0.4.3
 ellipsis: 0.3.2
 elliptic: 1.4-0
 ellipticalsymmetry: 0.1.2
@@ -11581,7 +11581,7 @@ fastrmodels: 1.0.2
 fastrtext: 0.3.4
 fastshap: 0.0.7
 fasttime: 1.1-0
-fastverse: 0.2.3
+fastverse: 0.2.4
 fat2Lpoly: 1.2.5
 faux: 1.1.0
 fauxnaif: 0.7.0
@@ -13397,7 +13397,7 @@ hotspot: '1.0'
 hotspots: 1.0.3
 housingData: 0.3.0
 hover: 0.1.1
-howManyImputations: 0.2.2
+howManyImputations: 0.2.3
 howmany: 0.3-1
 hpa: 1.2.1
 hpackedbubble: 0.1.0
@@ -13492,7 +13492,7 @@ hydropeak: 0.1.1
 hydroroute: 0.1.1
 hydrosanity: 0.8.76
 hydroscoper: 1.4.1
-hydrostats: 0.2.8
+hydrostats: 0.2.9
 hydrotoolbox: 1.0.1
 hyfo: 1.4.3
 hyper.fit: 1.1.1
@@ -13762,7 +13762,7 @@ imputeYn: '1.3'
 imsig: 1.1.3
 in2extRemes: 1.0-3
 inTextSummaryTable: 3.1.1
-inTrees: '1.2'
+inTrees: '1.3'
 inaparc: 1.1.0
 inarmix: '0.4'
 inbreedR: 0.3.3
@@ -13775,7 +13775,7 @@ incgraph: 1.0.1
 incidence: 1.7.3
 incidence2: 1.2.3
 incidental: '0.1'
-incidentally: 0.9.0
+incidentally: 1.0.0
 inctools: 1.0.15
 incubate: 1.1.8
 indelmiss: 1.0.9
@@ -13913,7 +13913,7 @@ invGauss: '1.2'
 invLT: 0.2.1
 invacost: 1.1-4
 invctr: 0.1.0
-inventorize: 1.1.0
+inventorize: 1.1.1
 inverseRegex: 0.1.0
 invertiforms: 0.1.0
 investr: 1.4.2
@@ -14115,7 +14115,7 @@ jmotif: 1.1.1
 jmuOutlier: '2.2'
 jmv: 2.3.4
 jmvReadWrite: 0.3.2
-jmvconnect: 2.0.0
+jmvconnect: 2.3.12
 jmvcore: 2.3.12
 job: 0.3.0
 jocre: 0.3.3
@@ -14938,7 +14938,7 @@ m2b: '1.0'
 m2r: 1.0.2
 m4fe: '0.1'
 m61r: 0.0.3
-mAr: 1.1-2
+mAr: 1.2-0
 mBvs: '1.5'
 mDAG: 1.2.2
 mExplorer: 1.0.0
@@ -15815,7 +15815,7 @@ modernVA: 0.1.1
 moderndive: 0.5.4
 modes: 0.7.0
 modest: 0.3-1
-modesto: 0.1.3
+modesto: 0.1.4
 modeval: 0.1.3
 modgetxl: '0.4'
 modi: 0.1.0
@@ -17497,7 +17497,7 @@ phenofit: 0.3.2
 phenology: '7.6'
 phenomap: 1.2.1
 phenopix: 2.4.2
-phers: 0.0.2
+phers: 0.0.3
 phiDelta: 1.0.1
 phia: 0.2-1
 philentropy: 0.6.0
@@ -17937,7 +17937,7 @@ ppiPre: '1.9'
 ppitables: 0.5.4
 ppls: 1.6-1
 ppmHR: '1.0'
-ppmSuite: 0.2.1
+ppmSuite: 0.2.2
 ppmf: 0.1.3
 ppmlasso: '1.2'
 ppr: 1.1-2
@@ -18530,7 +18530,7 @@ rDotNet: 0.9.1
 rDppDiversity: 0.0.2
 rEDM: 1.12.0
 rEHR: '1.0'
-rEMM: 1.1.0
+rEMM: 1.1.1
 rENA: 0.2.4
 rERR: '0.1'
 rFDSN: 0.0.0
@@ -18981,8 +18981,8 @@ recom: '1.0'
 recombinator: 1.0.1
 recometrics: 0.1.6
 recommenderlab: 1.0.0
-recommenderlabBX: 0.1-1
-recommenderlabJester: 0.1-2
+recommenderlabBX: 0.2-0
+recommenderlabJester: 0.2-0
 reconstructKM: 0.3.0
 reconstructr: 2.0.4
 recorder: 0.8.2
@@ -19159,7 +19159,7 @@ respR: 2.0.2
 resper: '0.3'
 respirometry: 1.3.0
 responsePatterns: 0.1.0
-restatapi: 0.13.1
+restatapi: 0.13.3
 restaurant: 0.1.0
 restez: 1.0.0
 restfulr: 0.0.13
@@ -19170,7 +19170,7 @@ restrictedMVN: '1.0'
 restriktor: 0.3-400
 resumer: 0.0.5
 rethinker: 1.1.0
-rethnicity: 0.2.2
+rethnicity: 0.2.3
 reticulate: '1.25'
 retimes: 0.1-2
 retistruct: 0.6.3
@@ -19254,7 +19254,7 @@ rglobi: 0.2.27
 rglplus: '1.0'
 rglwidget: 0.2.1
 rgnparser: 0.2.0
-rgoogleads: 0.6.0
+rgoogleads: 0.7.1
 rgoogleslides: 0.3.2
 rgovcan: 1.0.3
 rgp: 0.4-1
@@ -19325,7 +19325,7 @@ ripums: 0.1.0
 ris: '1.2'
 risaac: '0.1'
 rise: 1.0.4
-riskCommunicator: 1.0.0
+riskCommunicator: 1.0.1
 riskParityPortfolio: 0.2.2
 riskPredictClustData: 0.2.6
 riskR: '1.1'
@@ -19686,7 +19686,7 @@ rscala: 3.2.19
 rscc: 0.2.1
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 0.8.25
+rsconnect: 0.8.26
 rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.22.0
@@ -20202,7 +20202,7 @@ segclust: '0.76'
 segclust2d: 0.3.0
 segmag: 1.2.4
 segmenTier: 0.1.2
-segmented: 1.5-0
+segmented: 1.6-0
 segmentr: 0.2.0
 segmetric: 0.2.0
 segregation: 0.6.0
@@ -21073,7 +21073,7 @@ speedRlibs: 1.1-36
 speedglm: 0.3-4
 speedycode: 0.3.0
 spef: 1.0.9
-speff2trial: 1.0.4
+speff2trial: 1.0.5
 spellcheckr: 0.1.2
 spelling: '2.2'
 spemd: 0.1-1
@@ -21414,7 +21414,7 @@ storr: 1.2.5
 storywranglr: 0.2.0
 stosim: 0.0.14
 stplanr: 0.9.0
-stpm: 1.7.9
+stpm: 1.7.11
 stpp: 2.0-6
 stppResid: '1.1'
 stppSim: 1.2.3
@@ -21537,7 +21537,7 @@ supernova: 2.5.1
 superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-8
-support: 0.1.5
+support: 0.1.6
 support.BWS: 0.4-4
 support.BWS2: 0.4-0
 support.BWS3: 0.2-0
@@ -22127,7 +22127,7 @@ timereg: 2.0.2
 timesboot: '1.0'
 timeseriesdb: 1.0.0-1.1.2
 timeslab: 1.0-1
-timetk: 2.8.0
+timetk: 2.8.1
 timetools: '1.14'
 timetree: '1.0'
 timevis: 2.0.0
@@ -22755,7 +22755,7 @@ varrank: '0.4'
 vars: 1.5-6
 varsExplore: 0.3.0
 vartors: 0.2.6
-varycoef: 0.3.2
+varycoef: 0.3.3
 vasicek: 0.0.3
 vasicekreg: 1.0.1
 vaultr: 1.1.0
@@ -23250,7 +23250,7 @@ xplain: 0.2.2
 xplorerr: 0.1.2
 xpose: 0.4.13
 xpose.nlmixr: 0.2.0
-xpose4: 4.7.1
+xpose4: 4.7.2
 xpose4classic: 4.4.1
 xpose4data: 4.4.1
 xpose4generic: 4.4.1
