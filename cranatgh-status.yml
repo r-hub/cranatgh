@@ -56,6 +56,7 @@ AHM: 1.0.1
 AHMbook: 0.2.5
 AHPhybrid: 0.1.0
 AHR: 1.5.0
+AHSurv: 0.1.0
 AICcmodavg: 2.3-1
 AID: '2.6'
 AIG: 0.1.9
@@ -141,6 +142,7 @@ ASSA: '2.0'
 ASSISTant: 1.4.2
 ASSOCShiny: 0.1.0
 AST: 0.1.0
+ASV: 1.0.0
 ATAforecasting: 0.0.57
 ATE: 0.2.0
 ATNr: 1.0.1
@@ -1274,7 +1276,7 @@ CrossScreening: 0.1.1
 CrossVA: 1.0.0
 CrossValidate: 2.3.4
 Crossover: 0.1-20
-CruzPlot: 1.4.7
+CruzPlot: 1.4.8
 CryptRndTest: 1.2.7
 CrypticIBDcheck: 0.3-3
 CsChange: 0.1.6
@@ -1305,7 +1307,7 @@ DACF: 1.0.0
 DAFOT: 0.0.1
 DAGGER: '1.4'
 DAIME: 2.1.3
-DAISIE: 3.0.1
+DAISIE: 4.2.0
 DAKS: 2.1-3
 DALEX: 2.4.1
 DALEX2: '0.9'
@@ -1473,6 +1475,7 @@ DSLite: 1.3.0
 DSMolgenisArmadillo: 1.4.1
 DSOpal: 1.3.1
 DSSAT: 0.0.6
+DSSP: 0.1.0
 DSWE: 1.5.1
 DSjobtracker: 0.1.1
 DSpat: 0.1.6
@@ -3257,6 +3260,7 @@ LREP: 0.1.1
 LRMF3: 0.1.0
 LRQMM: 1.2.3
 LRTH: '1.3'
+LRTesteR: '0.1'
 LRcontrast: '1.0'
 LS2W: 1.3.4
 LS2Wstat: 2.1-4
@@ -3985,7 +3989,7 @@ MultNonParam: 1.3.6
 MultOrdRS: 0.1-2
 MultSurvTests: '0.2'
 MultiABEL: 1.1-6
-MultiATSM: 0.2.1
+MultiATSM: 0.2.2
 MultiBD: 0.2.0
 MultiCNVDetect: 0.1-1
 MultiChIPmixHMM: '5.0'
@@ -5808,7 +5812,7 @@ Rmixmod: 2.1.6
 RmixmodCombi: '1.0'
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
-Rmpfr: 0.8-7
+Rmpfr: 0.8-8
 Rmpi: 0.6-9.2
 Rmst: 0.0.3
 RnavGraph: 0.1.8
@@ -6555,7 +6559,7 @@ SphericalK: '1.2'
 SpiceFP: 0.1.1
 Spillover: 0.1.0.1
 Splinets: 1.0.0
-SplitGLM: 1.0.3
+SplitGLM: 1.0.4
 SplitKnockoff: '1.2'
 SplitReg: 1.0.2
 SplitSoftening: 2.1-0
@@ -7515,6 +7519,7 @@ agroclim: 0.2.0
 agrostab: 0.1.0
 agsemisc: 1.3-1
 agtboost: 0.9.3
+agua: 0.0.1
 agvgd: 0.1.1
 ahMLE: 1.20.1
 ahaz: '1.15'
@@ -9061,6 +9066,7 @@ cheem: 0.2.0
 cheese: 0.1.1
 chemCal: 0.2.3
 chemmodlab: 2.0.0
+chemodiv: 0.1.2
 chemometrics: 1.4.2
 chemosensors: 0.7.8
 cherry: 0.6-14
@@ -9897,7 +9903,7 @@ ctsemOMX: 1.0.4
 ctv: 0.9-3
 cuRe: 1.1.0
 cubature: 2.0.4.4
-cubble: 0.1.0
+cubble: 0.1.1
 cubelyr: 1.0.1
 cubeview: 0.2.0
 cubfits: 0.1-4
@@ -9957,7 +9963,7 @@ cvq2: 1.2.0
 cvwrapr: '1.0'
 cvxbiclustr: 0.0.1
 cvxclustr: 1.1.1
-cwbtools: 0.3.5
+cwbtools: 0.3.6
 cwhmisc: '6.6'
 cwm: 0.0.3
 cxhull: 0.5.0
@@ -13230,6 +13236,7 @@ hdpca: 1.1.5
 hdr: '0.1'
 hdrcde: '3.4'
 hds: 0.8.1
+headliner: 0.0.1
 healthcareai: 2.5.0
 healthfinance: 0.1.0
 healthforum: 0.1.0
@@ -13958,7 +13965,7 @@ ipmisc: 6.0.2
 ipmr: 0.0.5
 ipptoolbox: '1.2'
 ipr: 0.1.0
-ipred: 0.9-12
+ipred: 0.9-13
 iprior: 0.7.3
 ips: 0.0.11
 iptmnetr: 0.1.8
@@ -15346,7 +15353,7 @@ merror: 2.0.2
 meshed: 0.2.1
 meshsimp: '0.1'
 messaging: 0.1.0
-messydates: 0.2.1
+messydates: 0.3.0
 met: 0.1.0
 metR: 0.12.0
 metRology: 0.9-28-1
@@ -16639,7 +16646,7 @@ npmr: '1.2'
 npmv: 2.4.0
 npordtests: '1.2'
 nppbib: 1.2-0
-npphen: 1.5.0
+npphen: 1.5.1
 nprcgenekeepr: 1.0.5
 npreg: 1.0-8
 npregderiv: '1.0'
@@ -20702,7 +20709,7 @@ skm: 0.1.5.4
 skmeans: 0.2-14
 sknifedatar: 0.1.2
 skpr: 1.1.4
-skynet: 1.4.0
+skynet: 1.4.2
 skyscapeR: 1.0.0
 sla: '0.1'
 slackr: 3.2.0
@@ -20738,6 +20745,7 @@ smac: '1.0'
 smacof: 2.1-5
 smacpod: 2.4.1
 smallarea: '0.1'
+smallstuff: 1.0.1
 smam: 0.6.0
 smapr: 0.2.1
 smart: 1.0.1
@@ -21680,7 +21688,7 @@ sweater: 0.1.6
 sweep: 0.2.3
 sweidnumbr: 1.4.2
 swephR: 0.3.0
-swfscAirDAS: 0.2.2
+swfscAirDAS: 0.2.3
 swfscDAS: 0.6.1
 swfscMisc: '1.6'
 swgee: '1.4'
@@ -23020,6 +23028,7 @@ webexercises: 1.0.0
 webfakes: 1.1.3
 webglobe: 1.0.3
 webmockr: 0.8.0
+webmorphR: 0.1.1
 webp: 1.1.0
 webr: 0.1.5
 webreadr: 0.4.0
