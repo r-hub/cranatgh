@@ -763,7 +763,7 @@ CALIBERrfimpute: 1.0-6
 CALINE3: '1.0'
 CAM: '1.0'
 CAMAN: '0.75'
-CAMML: 0.2.1
+CAMML: 0.2.2
 CANSIM2R: 1.14.1
 CARBayes: '5.3'
 CARBayesST: '3.3'
@@ -927,7 +927,7 @@ CPAT: 0.1.0
 CPBayes: 1.1.0
 CPC: 2.2.1
 CPE: 1.5.2
-CPGLIB: 1.0.1
+CPGLIB: 1.1.0
 CPGchron: '1.1'
 CPHshape: '1.0'
 CPMCGLM: '1.2'
@@ -1076,7 +1076,7 @@ CityPlot: '2.0'
 CityWaterBalance: 0.1.0
 Ckmeans.1d.dp: 4.3.4
 Claddis: 0.6.3
-ClaimsProblems: 0.1.0
+ClaimsProblems: 0.2.0
 ClamR: 2.1-1
 ClassComparison: 3.1.8
 ClassDiscovery: 3.4.0
@@ -1330,6 +1330,7 @@ DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
 DBItest: 1.7.2
 DBKGrad: '1.7'
+DBNMFrank: 0.1.0
 DBR: 1.2.3
 DBfit: '2.0'
 DBpower: 0.1.0
@@ -2833,7 +2834,7 @@ ICsurv: '1.0'
 ICtest: 0.3-5
 ICvectorfields: 0.1.2
 IDCard: 0.3.0
-IDConverter: 0.3.0
+IDConverter: 0.3.2
 IDE: 0.3.1
 IDF: 2.1.1
 IDPSurvival: '1.2'
@@ -3026,6 +3027,7 @@ IsoCI: '1.1'
 IsoCheck: 0.1.0
 IsoCorr: '1.0'
 IsoGene: 1.0-24
+IsoMemo: 1.0.5
 IsoSpecR: 2.1.3
 IsoplotR: '4.4'
 IsoplotRgui: '4.4'
@@ -3226,7 +3228,7 @@ LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.1.0
 LMMsolver: 1.0.2
-LMMstar: 0.5.4
+LMMstar: 0.7.2
 LMN: 1.1.2
 LMest: 3.0.4
 LMfilteR: 0.1.3
@@ -3404,7 +3406,7 @@ MACER: 0.1.1
 MADAM: '1.2'
 MADPop: 1.1.2
 MAFDash: 0.2.1
-MAGEE: 1.1.1
+MAGEE: 1.2.0
 MAGNAMWAR: 2.0.4
 MAINT.Data: 2.6.2
 MAKL: 1.0.0
@@ -3746,7 +3748,7 @@ MXM: 1.5.2
 MaOEA: 0.6.2
 MaXact: 0.2.1
 MachineLearning: 0.1.4
-MachineShop: 3.4.0
+MachineShop: 3.5.0
 Maeswrap: '1.7'
 MagneticMap: '1.0'
 MajKMeans: 0.1.0
@@ -4864,6 +4866,7 @@ QPBoot: '0.2'
 QPmin: 0.5-1
 QPot: '1.5'
 QQperm: 1.0.1
+QR: 0.1.2
 QRAGadget: 0.1.0
 QRFCCA: '1.0'
 QRISK3: 0.3.0
@@ -4889,6 +4892,7 @@ Qapprox: 0.2.0
 Qest: 1.0.0
 QoLMiss: 0.1.0
 QoLR: '1.0'
+QregBB: 1.0.0
 Qtools: 1.5.6
 QuACN: 1.8.0
 QuClu: 1.0.1
@@ -5503,7 +5507,7 @@ Rblpapi: 0.3.13
 Rborist: 0.2-3
 Rcan: 1.3.82
 Rcapture: 1.4-4
-Rcatch22: 0.1.13
+Rcatch22: 0.2.1
 Rcell: 1.3-2
 RcellData: 1.3-2
 Rcereal: 1.2.1.1
@@ -6134,7 +6138,7 @@ SMM: 1.0.2
 SMMA: 1.0.3
 SMME: '1.1'
 SMMT: 1.1.0
-SMNCensReg: '3.0'
+SMNCensReg: '3.1'
 SMPracticals: 1.4-3
 SMR: 2.0.2
 SMUT: '1.1'
@@ -6433,7 +6437,7 @@ Simpsons: 0.1.0
 SimuChemPC: '1.3'
 SimultAnR: '1.1'
 SinIW: '0.2'
-SingleCaseES: 0.5.0
+SingleCaseES: 0.6.0
 SiteAdapt: 1.1.0
 SitesInterest: '1.0'
 SixSigma: 0.10.3
@@ -8201,7 +8205,7 @@ beans: 0.1.0
 beanz: '2.4'
 bear: 2.6.4
 beast: '1.1'
-beastier: 2.4.8
+beastier: 2.4.9
 beats: 0.1.1
 beautier: 2.6.2
 bedr: 1.0.7
@@ -8860,7 +8864,7 @@ casino: 0.1.0
 caspar: '1.0'
 cassandRa: 0.1.0
 castor: 1.7.2
-cat: 0.0-6.5
+cat: 0.0-7
 cat.dt: 0.3.1
 cat2cat: 0.3.3
 catIrt: 0.5.1
@@ -9223,6 +9227,7 @@ clinUtiDNA: '1.0'
 clinUtils: 0.1.1
 clines: 2.0-3
 clinfun: 1.1.0
+clinicalsignificance: 1.0.0
 clinmon: 0.6.0
 clinsig: '1.2'
 clinspacy: 1.0.2
@@ -9255,7 +9260,7 @@ clusTransition: '1.0'
 cluscov: 1.1.0
 clusrank: 1.0-2
 clust.bin.pair: 0.1.2
-clustAnalytics: 0.3.1
+clustAnalytics: 0.4.1
 clustDRM: 0.1-0
 clustEff: 0.2.0
 clustMD: 1.2.1
@@ -9763,7 +9768,7 @@ cragg: 0.0.1
 cramer: 0.9-3
 cran.github.io: .na.character
 crandatapkgs: 0.1.8
-crandep: 0.3.0
+crandep: 0.3.1
 crank: 1.1-2
 cranlike: 1.0.2
 cranlogs: 2.1.1
@@ -11153,6 +11158,7 @@ epca: 1.0.0
 epcc: 1.4.7
 eph: 0.4.0
 epi2loc: 1.0-1
+epi2me2r: 0.1.0
 epiDisplay: 3.5.0.2
 epiGWAS: 1.0.2
 epiR: 2.0.48
@@ -11846,6 +11852,7 @@ flora: 0.3.4
 florestal: 0.1.3
 flow: 0.1.0
 flowDiv: '2.0'
+flowTraceR: 0.1.0
 flower: '1.0'
 flowfield: '1.0'
 flowr: 0.9.11
@@ -12310,7 +12317,7 @@ geepack: 1.3.4
 geesmv: '1.3'
 geex: 1.0.12
 geigen: '2.3'
-geiger: 2.0.9
+geiger: 2.0.10
 gellipsoid: 0.7.2
 gelnet: 1.2.1
 gem: '0.19'
@@ -13175,7 +13182,7 @@ hansard: 0.8.0
 hapassoc: 1.2-9
 haplo.ccs: 1.3.2
 haplo.score: 1.0.2
-haplo.stats: 1.8.7
+haplo.stats: 1.8.9
 haploR: 4.0.6
 haploReconstruct: 0.1.2
 haplotyper: '0.1'
@@ -13625,7 +13632,7 @@ icamix: '1.0'
 icapca: '1.1'
 icardaFIGSr: 1.0.2
 icarus: 0.3.1
-iccCounts: 1.0.3
+iccCounts: 1.1.0
 iccbeta: 1.2.0
 iccde: 0.3.3
 icd: 4.0.9
@@ -14560,7 +14567,7 @@ learningtower: 1.0.0
 learnr: 0.10.1
 learnrbook: 1.0.2
 learnstats: 0.1.1
-leastcostpath: 1.8.0
+leastcostpath: 1.8.7
 ledger: 2.0.9
 leem: 0.1.0
 leerSIECyL: 1.0.2
@@ -15113,7 +15120,7 @@ markerSearchPower: '1.0'
 markerpen: 0.1.1
 marketeR: 0.1.1
 marketr: 0.0.2
-markets: 1.0.2
+markets: 1.0.3
 markmyassignment: 0.8.6
 markophylo: 1.0.8
 markovMSM: 0.1.0
@@ -15730,6 +15737,7 @@ mlr3viz: 0.5.9
 mlrCPO: 0.3.7-3
 mlrMBO: 1.1.5
 mlrintermbo: 0.5.0
+mlrpro: 0.1.0
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlt: 1.4-1
@@ -17120,7 +17128,7 @@ pairwiseComparisons: 3.2.0
 pak: 0.3.0
 palaeoSig: 2.0-3
 palasso: 0.0.8
-pald: 0.0.1
+pald: 0.0.2
 paleoMAS: '2.0'
 paleoTS: 0.5.2
 paleoTSalt: 0.1-1
@@ -18109,7 +18117,7 @@ profvis: 0.3.7
 progenyClust: '1.2'
 prognosticROC: '0.7'
 progress: 1.2.2
-progressr: 0.10.0
+progressr: 0.10.1
 proj4: 1.0-11
 projections: 0.5.4
 projector: 0.0.2
@@ -18207,7 +18215,7 @@ psychTools: 2.2.5
 psychmeta: 2.6.3
 psychmetadata: 1.0.0
 psycho: 0.6.1
-psychometric: '2.2'
+psychometric: '2.3'
 psychomix: 1.1-8
 psychonetrics: '0.10'
 psychotools: 0.7-1
@@ -18766,7 +18774,7 @@ rasterpic: 0.2.0
 ratPASTA: 0.2.1
 ratdat: 1.0.0
 ratelimitr: 0.4.1
-ratematrix: 1.2.3
+ratematrix: 1.2.4
 rater: 1.2.0
 rateratio.test: '1.1'
 raters: 2.0.2
@@ -21161,7 +21169,7 @@ spoccutils: 0.1.0
 spoiler: 1.0.0
 spongebob: 0.4.0
 spongecake: 0.1.2
-spooky: 1.2.0
+spooky: 1.3.0
 spork: 0.2.2
 sporm: '1.1'
 sport: 0.2.0
@@ -21588,7 +21596,7 @@ survJamda: 1.1.4
 survJamda.data: 1.0.2
 survMS: 0.0.1
 survMisc: 0.5.6
-survParamSim: 0.1.5
+survParamSim: 0.1.6
 survPen: 1.5.2
 survPresmooth: 1.1-11
 survRM2: 1.0-3
