@@ -198,7 +198,7 @@ AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
 AgroR: 1.2.9
-AgroReg: 1.2.4
+AgroReg: 1.2.5
 AgroTech: 1.0.1
 AhoCorasickTrie: 0.1.2
 AirMonitor: 0.2.2
@@ -274,7 +274,7 @@ AssotesteR: 0.1-10
 AsthmaNHANES: 1.1.0
 AsyK: 1.5.5
 AsymmetricSORDs: 1.0.0
-AsynchLong: '2.1'
+AsynchLong: '2.2'
 AtelieR: '0.24'
 AtmChile: 1.0.0
 AtmRay: '1.31'
@@ -1043,7 +1043,7 @@ ChIPtest: '1.0'
 ChainLadder: 0.2.15
 ChangeAnomalyDetection: 0.1.0
 ChangePointTaylor: '0.2'
-ChangepointTesting: '1.0'
+ChangepointTesting: '1.1'
 ChannelAttribution: 2.0.5
 ChannelAttributionApp: '1.3'
 Chaos01: 1.2.1
@@ -1350,7 +1350,7 @@ DCPO: 0.5.3
 DCSmooth: 1.1.2
 DCchoice: 0.1.0
 DChaos: 0.1-6
-DCluster: 0.2-7
+DCluster: 0.2-8
 DClusterm: 1.0-1
 DDD: '5.0'
 DDHFm: 1.1.2
@@ -1363,7 +1363,7 @@ DDRTree: 0.1.5
 DDoutlier: 0.1.0
 DEA: 0.1-2
 DEBBI: 0.1.0
-DECIDE: '1.2'
+DECIDE: '1.3'
 DEEPR: '0.1'
 DEEVD: 1.2.3
 DELTD: 2.6.7
@@ -1762,7 +1762,7 @@ ELT: '1.6'
 ELYP: 0.7-5
 EM.Fuzzy: '1.0'
 EMA: 1.4.7
-EMAS: 0.1.0
+EMAS: 0.2.0
 EMAtools: 0.1.4
 EMC: '1.3'
 EMCC: '1.3'
@@ -2062,7 +2062,7 @@ FMCCSD: '1.0'
 FME: 1.3.6.2
 FMM: 0.3.1
 FMP: '1.4'
-FMStable: 0.1-3
+FMStable: 0.1-4
 FMradio: 1.1.1
 FMsmsnReg: '1.0'
 FNN: 1.1.3.1
@@ -2816,7 +2816,7 @@ ICEbox: 1.1.2
 ICEinfer: '1.3'
 ICGE: 0.4.1
 ICGOR: '2.0'
-ICODS: '1.0'
+ICODS: '1.1'
 ICON: 0.4.0
 ICRanks: '3.1'
 ICS: 1.3-1
@@ -2841,7 +2841,7 @@ IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
 IDSL.IPA: '1.5'
-IDSL.MXP: '1.2'
+IDSL.MXP: '1.3'
 IDSL.SUFA: '1.0'
 IDSL.UFA: '1.2'
 IDSL.UFAx: '1.2'
@@ -3056,7 +3056,7 @@ JMLSD: '1.0'
 JMbayes: 0.8-85
 JMbayes2: 0.2-0
 JMcmprsk: '0.9'
-JMdesign: '1.2'
+JMdesign: '1.3'
 JOP: '3.6'
 JOPS: 0.1.15
 JOUSBoost: 2.1.0
@@ -3744,7 +3744,7 @@ MVpower: '2.0'
 MWLasso: 1.3.1
 MWRidge: 1.0.0
 MWright: 0.3.2
-MXM: 1.5.2
+MXM: 1.5.4
 MaOEA: 0.6.2
 MaXact: 0.2.1
 MachineLearning: 0.1.4
@@ -4104,7 +4104,7 @@ NMMIPW: 0.1.0
 NMOF: 2.5-1
 NMRS: '1.0'
 NMVANOVA: 1.1.0
-NMdata: 0.0.11
+NMdata: 0.0.12
 NMproject: 0.6.7
 NNLM: 0.4.3
 NNMIS: 1.0.1
@@ -4280,7 +4280,7 @@ OSNMTF: 0.1.0
 OSTE: '1.0'
 OSTSC: 0.0.1
 OTE: 1.0.1
-OTRselect: '1.0'
+OTRselect: '1.1'
 OTUtable: 1.1.2
 OTclust: 1.0.4
 OTrecod: 0.1.1
@@ -4437,7 +4437,7 @@ PDN: 0.1.0
 PDQutils: 0.1.6
 PDSCE: '1.2'
 PDShiny: 0.1.0
-PDtoolkit: 0.3.0
+PDtoolkit: 0.4.0
 PEACH: 0.1.1
 PEGroupTesting: '1.0'
 PEIP: 2.2-3
@@ -4509,10 +4509,10 @@ POCRE: 0.6.0
 POD: 1.2.0
 POET: '2.0'
 POFIBGE: 0.1.6
-POINT: '1.1'
+POINT: '1.2'
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
-POSTm: '1.1'
+POSTm: '1.2'
 POSetR: 1.1.0
 POT: 1.1-10
 POUMM: 2.1.7
@@ -6081,7 +6081,7 @@ SHARE: 1.1.0
 SHELF: 1.8.0
 SHIP: 1.0.2
 SHLR: '1.0'
-SHT: 0.1.6
+SHT: 0.1.7
 SI: 0.2.0
 SIBER: 2.1.6
 SIBERG: 2.0.3
@@ -6159,7 +6159,7 @@ SNSchart: 1.4.0
 SNSequate: 1.3.3
 SNscan: '1.0'
 SOAR: 0.99-11
-SOAs: 1.0-1
+SOAs: '1.1'
 SOD: '1.0'
 SODC: '1.0'
 SOFIA: '1.0'
@@ -6670,7 +6670,7 @@ SurvCorr: '1.0'
 SurvDisc: 0.1.1
 SurvGSD: 1.0.0
 SurvHiDim: 0.1.1
-SurvLong: '1.1'
+SurvLong: '1.2'
 SurvMI: 0.1.0
 SurvMetrics: 0.4.5
 SurvRank: '0.1'
@@ -7445,7 +7445,7 @@ ade4: 1.7-19
 ade4TkGUI: 0.3-1
 adea: 1.3.1
 adeba: 1.1.2
-adegenet: 2.1.6
+adegenet: 2.1.7
 adegraphics: 1.0-16
 adehabitat: 1.8.9
 adehabitatHR: 0.4.19
@@ -7471,7 +7471,7 @@ adklakedata: 0.6.1
 adlift: 1.4-3
 admiral: 0.7.0
 admiral.test: 0.2.0
-admisc: '0.27'
+admisc: '0.28'
 admix: 0.4.0
 admixr: 0.9.1
 admixturegraph: 1.0.2
@@ -9571,7 +9571,7 @@ constants: 1.0.1
 constellation: 0.2.0
 constrainedKriging: 0.2.4
 contFracR: '1.0'
-contTimeCausal: '1.0'
+contTimeCausal: '1.1'
 contact: 1.2.8
 contactdata: 0.2.0
 container: 1.0.1
@@ -12137,14 +12137,14 @@ fwdmsa: '0.2'
 fwi.fbp: '1.7'
 fwildclusterboot: '0.8'
 fwsim: 0.3.4
-fxTWAPLS: 0.1.0
+fxTWAPLS: 0.1.1
 fxregime: 1.0-4
 fxtract: 0.9.4
 fy: 0.3.0
 g.data: '2.4'
 g2f: '0.2'
 g3viz: 1.1.4
-gCat: '0.1'
+gCat: '0.2'
 gDefrag: '0.3'
 gIPFrm: '3.1'
 gJLS2: 0.2.0
@@ -12603,7 +12603,7 @@ gghalfnorm: 1.1.2
 gghalves: 0.1.3
 gghdr: 0.1.0
 ggheatmap: '2.1'
-gghighlight: 0.3.2
+gghighlight: 0.3.3
 gghilbertstrings: 0.3.3
 ggimage: 0.3.1
 ggimg: 0.1.1
@@ -12848,7 +12848,7 @@ gmodels: 2.18.1.1
 gmp: 0.6-5
 gmpoly: 1.1.0
 gms: 0.4.0
-gmt: 2.0.2
+gmt: 2.0.3
 gmum.r: 0.2.1
 gmvalid: '1.2'
 gmvarkit: 2.0.4
@@ -13087,7 +13087,7 @@ gslnls: 1.1.1
 gsloid: 0.2.0
 gsmaRt: '1.0'
 gsmoothr: 0.1.7
-gson: 0.0.4
+gson: 0.0.6
 gsrc: '1.1'
 gsrs: 0.1.1
 gsrsb: 1.1.1
@@ -13335,7 +13335,7 @@ highD2pop: '1.0'
 highDmean: 0.1.0
 highMLR: 0.1.0
 highSCREEN: '0.4'
-highTtest: '1.2'
+highTtest: '1.3'
 highcharter: 0.9.4
 highfrequency: 0.9.4
 highlight: 0.5.0
@@ -15308,7 +15308,7 @@ mecdf: 0.6.1
 mechkar: 1.14.6
 mecor: 1.0.0
 medAdherence: '1.03'
-medExtractR: '0.4'
+medExtractR: 0.4.1
 medSTC: 1.0.0
 mederrRank: 0.0.8
 medfate: 2.7.3
@@ -15487,7 +15487,7 @@ mhsmm: 0.4.16
 mht: 3.1.2
 mhtboot: 1.3.3
 mhurdle: 1.3-0
-mi: '1.0'
+mi: '1.1'
 mi4p: '0.9'
 miCoPTCM: '1.1'
 miLineage: '2.1'
@@ -15830,7 +15830,7 @@ modellingTools: 0.1.0
 modello: '0.1'
 modelplotr: 1.1.0
 modelr: 0.1.8
-modelsummary: 0.10.0
+modelsummary: 0.11.0
 modeltests: 0.1.4
 modeltime: 1.2.1
 modeltime.ensemble: 1.0.0
@@ -17124,7 +17124,7 @@ painter: 0.1.0
 paintmap: '1.0'
 pairedCI: 0.5-4
 pairheatmap: 1.0.1
-pairsD3: 0.1.0
+pairsD3: 0.1.3
 pairwise: 0.5.0-2
 pairwiseCI: 0.1-27
 pairwiseComparisons: 3.2.0
@@ -17352,7 +17352,7 @@ pcsstools: 0.1.1
 pct: 0.9.3
 pcts: 0.15.2
 pcurve: 0.6-4
-pdR: '1.7'
+pdR: '1.8'
 pdSpecEst: 1.2.4
 pda: 1.0-2
 pdc: 1.0.3
@@ -18434,7 +18434,7 @@ qualV: 0.3-4
 qualityTools: '1.55'
 qualmap: 0.2.1
 qualpalr: 0.4.3
-qualtRics: 3.1.5
+qualtRics: 3.1.6
 qualvar: 0.2.0
 qualypsoss: 1.0.0
 quantCurves: 1.0.0
@@ -18700,7 +18700,7 @@ ramidst: 0.1.0
 ramify: 0.3.3
 ramlegacy: 0.2.0
 ramps: 0.6.16
-ramsvm: '2.2'
+ramsvm: '2.3'
 randChecks: 0.2.1
 randNames: 0.2.3
 randaes: '0.3'
@@ -18802,7 +18802,7 @@ rayimage: 0.6.2
 raymolecule: 0.5.0
 rayrender: 0.23.6
 rayshader: 0.24.10
-raytracing: 0.1.0
+raytracing: 0.6.0
 rayvertex: 0.3.3
 rb3: 0.0.3
 rbace: 0.2.2
@@ -18845,7 +18845,7 @@ rbundler: 0.3.7
 rbvs: '1.0'
 rbw: 0.3.2
 rcDEA: '1.0'
-rcage: '1.1'
+rcage: '1.2'
 rcaiman: 0.1.1
 rcane: '1.0'
 rcanvec: 0.2.1
@@ -18927,7 +18927,7 @@ rdomains: 0.2.1
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '2.1'
-rdrobust: 1.0.8
+rdrobust: 2.0.0
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
 rdtLite: '1.3'
@@ -19196,7 +19196,7 @@ restimizeapi: 1.0.0
 restlos: 0.2-2
 restorepoint: '0.2'
 restrictedMVN: '1.0'
-restriktor: 0.3-400
+restriktor: 0.3-500
 resumer: 0.0.5
 rethinker: 1.1.0
 rethnicity: 0.2.3
@@ -21256,7 +21256,7 @@ ssdtools: 1.0.2
 sse: 0.7-17
 ssev: 0.1.0
 ssfa: '1.2'
-ssfit: '1.1'
+ssfit: '1.2'
 ssgraph: '1.13'
 ssh: 0.8.0
 ssh.utils: '1.0'
@@ -21513,7 +21513,7 @@ stylest: 0.2.0
 stylo: 0.7.4
 suRtex: '0.9'
 subcopem2D: '1.3'
-subdetect: '1.1'
+subdetect: '1.2'
 subformula: 0.1.0
 subgroup: '1.1'
 subgroup.discovery: 0.3.1
@@ -22366,7 +22366,7 @@ treelet: '1.1'
 treeman: 1.1.4
 treemap: 2.4-3
 treemapify: 2.5.5
-treenomial: 1.1.3
+treenomial: 1.1.4
 treeperm: '1.6'
 treeplyr: 0.1.10
 treescape: 1.9.17
@@ -22550,7 +22550,7 @@ twn: 0.2.2
 two.stage.boot: '1.0'
 twoStageGwasPower: 0.99.0
 twopartqtl: '1.0'
-twosamples: 1.1.1
+twosamples: 1.2.0
 twosigma: 1.0.2
 twostage: 1.0-6
 twostageTE: '1.3'
@@ -23017,7 +23017,7 @@ wbsd: 1.0.0
 wbstats: 1.0.4
 wbsts: '2.1'
 wccsom: 1.2.8
-wcde: 0.0.4
+wcde: 0.0.5
 wcep: 1.0.0
 wdm: 0.2.3
 wdman: 0.2.5
@@ -23280,7 +23280,7 @@ xpectr: 0.4.2
 xplain: 0.2.2
 xplorerr: 0.1.2
 xpose: 0.4.13
-xpose.nlmixr: 0.2.0
+xpose.nlmixr: 0.3.0
 xpose4: 4.7.2
 xpose4classic: 4.4.1
 xpose4data: 4.4.1
@@ -23319,7 +23319,7 @@ yamlet: 0.8.7
 yamlme: 0.1.1
 yap: 0.1.1
 yaps: 1.2.5
-yardstick: 0.0.9
+yardstick: 1.0.0
 yarr: 0.1.2
 yarrr: 0.1.5
 yasp: 0.2.0
