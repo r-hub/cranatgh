@@ -1515,7 +1515,7 @@ DZEXPM: '2.0'
 Daim: 1.1.0
 DamiaNN: 1.0.0
 DandEFA: '1.6'
-DanielBiostatistics10th: 0.1.4
+DanielBiostatistics10th: 0.1.5
 Dark: 0.9.8
 DarkDiv: 0.3.0
 Dasst: 0.3.4
@@ -1631,7 +1631,7 @@ DirectedClustering: 0.1.1
 Directional: '5.5'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
-DisImpact: 0.0.17
+DisImpact: 0.0.18
 DisaggregateTS: 2.0.0
 Disake: '1.5'
 DiscML: '1.0'
@@ -2538,7 +2538,7 @@ GeodesiCL: 1.0.0
 GeomComb: '1.0'
 GermaParl: 1.5.2
 GerminaR: 2.1.4
-GetBCBData: '0.6'
+GetBCBData: 0.7.0
 GetDFPData: '1.6'
 GetDFPData2: 0.6.1
 GetFREData: '0.7'
@@ -2843,7 +2843,7 @@ IDSA: '2.1'
 IDSL.IPA: '1.6'
 IDSL.MXP: '1.3'
 IDSL.SUFA: '1.0'
-IDSL.UFA: '1.2'
+IDSL.UFA: '1.3'
 IDSL.UFAx: '1.2'
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
@@ -3689,7 +3689,7 @@ MSBVAR: 0.9-3
 MSCMT: 1.3.4
 MSCquartets: 1.1.1
 MSCsimtester: 1.0.0
-MSEtool: 3.4.0
+MSEtool: 3.5.0
 MSG: '0.8'
 MSGARCH: '2.50'
 MSGARCHelm: 0.1.0
@@ -4319,7 +4319,7 @@ OpVaR: '1.2'
 OpasnetUtils: '1.3'
 OpenABMCovid19: '1.0'
 OpenCL: 0.2-2
-OpenImageR: 1.2.1
+OpenImageR: 1.2.2
 OpenLand: 1.0.2
 OpenML: '1.10'
 OpenMPController: 0.2-5
@@ -5975,7 +5975,7 @@ SAMM: 1.1.1
 SAMTx: 0.3.0
 SAMUR: '0.6'
 SAMURAI: 1.2.1
-SAMtool: 1.3.1
+SAMtool: 1.4.0
 SAPP: 1.0.8
 SAR: 1.0.3
 SARP.compo: 0.1.5
@@ -7746,7 +7746,7 @@ archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
 archive: 1.1.5
-archiveRetriever: 0.1.1
+archiveRetriever: 0.1.2
 archivist: 2.3.6
 archivist.github: 0.2.6
 arcos: '1.27'
@@ -8388,7 +8388,7 @@ binr: '1.1'
 binsegRcpp: 2022.1.24
 binseqtest: 1.0.3
 binsmooth: 0.2.2
-binspp: 0.1.18
+binspp: 0.1.20
 binsreg: '0.7'
 binst: 0.2.1
 bio.infer: 1.3-6
@@ -9121,7 +9121,7 @@ chromseq: 0.1.3
 chron: 2.3-57
 chronicle: '0.3'
 chronicler: 0.2.0
-chronochrt: 0.1.0
+chronochrt: 0.1.1
 chronosphere: 0.4.1
 chunkR: 1.1.1
 chunked: 0.6.0
@@ -9762,7 +9762,7 @@ cpsurvsim: 1.2.1
 cpsvote: 0.1.0
 cpt: 1.0.2
 cptcity: 1.0.6
-cptec: 0.1.0
+cptec: 0.1.1
 cqcr: 0.1.2
 cqrReg: 1.2.1
 cquad: '2.2'
@@ -11216,7 +11216,7 @@ equSA: 1.2.1
 equalCovs: '1.0'
 equaltestMI: 0.6.1
 equatags: 0.1.1
-equate: 2.0.7
+equate: 2.0.8
 equateIRT: 2.2.1
 equateMultiple: 0.1.0
 equatiomatic: 0.3.1
@@ -11645,7 +11645,7 @@ fdakma: 1.2.1
 fdaoutlier: 0.2.0
 fdapace: 0.5.8
 fdapaceShiny: 1.0.5
-fdasrvf: 1.9.7
+fdasrvf: 1.9.8
 fdatest: 2.1.1
 fdcov: 1.1.0
 fddm: 0.5-1
@@ -11654,7 +11654,7 @@ fdistr: 0.1.0
 fdm2id: 0.9.6
 fdq: '0.12'
 fdrDiscreteNull: '1.4'
-fdrci: '2.2'
+fdrci: '2.3'
 fdrtool: 1.2.17
 fds: '1.8'
 fdth: 1.2-6
@@ -11828,7 +11828,7 @@ flexclust: 1.4-1
 flexdashboard: 0.5.2
 flexiblas: 3.1.0
 flexmet: '1.1'
-flexmix: 2.3-17
+flexmix: 2.3-18
 flexmixNL: 0.0.1
 flexpolyline: 0.2.5
 flexrsurv: 1.4.5
@@ -11909,7 +11909,7 @@ foqat: 2.0.7.1
 forImage: 0.1.0
 forams: 2.0-5
 forcats: 0.5.1
-forceR: 1.0.14
+forceR: 1.0.15
 foreSIGHT: 1.0.0
 foreach: 1.5.2
 forecTheta: '2.2'
@@ -13451,7 +13451,7 @@ hsrecombi: 0.4.2
 hsstan: 0.8.1
 htdp: 0.1.4
 htestClust: 0.2.2
-htm2txt: 2.1.1
+htm2txt: 2.2.1
 html2R: 0.1.0
 html5: 0.1.0
 htmlTable: 2.4.0
@@ -13616,7 +13616,7 @@ ibawds: 0.4.0
 ibb: 0.0.2
 ibd: '1.5'
 ibdreg: 0.3.6
-ibdsim2: 1.4.0
+ibdsim2: 1.5.0
 ibeemd: 1.0.1
 ibelief: 1.3.1
 ibm: 0.1.0
@@ -14906,7 +14906,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.1.3
+lrstat: 0.1.4
 lsa: 0.73.3
 lsasim: 2.1.2
 lsbclust: '1.1'
@@ -14990,7 +14990,7 @@ maRketSim: '0.9'
 maSAE: 2.0.3
 maanova: 1.4.1
 maat: 1.1.0
-mable: 3.0.1
+mable: 3.1.0
 maboost: 1.0-0
 macc: 1.0.1
 machQA: 0.1.4
@@ -15835,11 +15835,11 @@ modelplotr: 1.1.0
 modelr: 0.1.8
 modelsummary: 0.11.0
 modeltests: 0.1.4
-modeltime: 1.2.1
+modeltime: 1.2.2
 modeltime.ensemble: 1.0.0
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.1
-modeltime.resample: 0.2.0
+modeltime.resample: 0.2.1
 modeltools: 0.2-23
 modelwordcloud: '0.1'
 modernVA: 0.1.1
@@ -16095,7 +16095,7 @@ multiROC: 1.1.1
 multiUS: 1.1.0
 multiband: 0.1.0
 multibiplotGUI: '1.1'
-multiblock: 0.8.1
+multiblock: 0.8.2
 multibridge: 1.1.0
 multic: 0.4.3
 multicastR: 2.0.0
@@ -17191,7 +17191,7 @@ parallelMap: 1.5.1
 parallelPlot: 0.2.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
-parallelly: 1.31.1
+parallelly: 1.32.0
 param6: 0.2.4
 paramGUI: 2.1.4
 parameters: 0.18.1
@@ -17372,7 +17372,7 @@ pdi: 0.4.2
 pdist: 1.2.1
 pdmod: 1.0.1
 pdolsms: '0.2'
-pdp: 0.8.0
+pdp: 0.8.1
 pdqr: 0.3.0
 pds3: 0.5.0
 pdxTrees: 0.4.0
@@ -17535,7 +17535,7 @@ phia: 0.2-1
 philentropy: 0.6.0
 phillydaodata: 1.0.1
 phitest: 1.0-0
-phm: 0.1.2
+phm: 1.1.0
 phmm: 0.7-5
 phom: '1.0'
 phonR: 1.0-7
@@ -18203,7 +18203,7 @@ psidR: '2.1'
 pso: 1.0.4
 psoptim: '1.0'
 psp: '0.1'
-pspatreg: 1.0.2
+pspatreg: 1.0.3
 pspearman: 0.3-1
 pspline: 1.0-19
 pspline.inference: 1.0.4
@@ -18932,7 +18932,7 @@ rdomains: 0.2.1
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '2.1'
-rdrobust: 2.0.0
+rdrobust: 2.0.1
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
 rdtLite: '1.3'
@@ -20460,7 +20460,7 @@ shinyMonacoEditor: 1.1.0
 shinyNotes: 0.0.1
 shinyPredict: 0.1.1
 shinyRGL: 0.1.0
-shinyRadioMatrix: 0.2.0
+shinyRadioMatrix: 0.2.1
 shinySIR: 0.1.2
 shinySearchbar: 1.0.0
 shinySelect: 1.0.0
@@ -20870,7 +20870,7 @@ soilDB: 2.7.0
 soilassessment: 0.2.3
 soilcarbon: 1.2.0
 soilhypfit: 0.1-5
-soilphysics: '4.1'
+soilphysics: '5.0'
 soilprofile: '1.0'
 soiltestcorr: 2.1.1
 soiltexture: 1.5.1
@@ -20981,7 +20981,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.7.6
+sparklyr: 1.7.7
 sparklyr.flint: 0.2.2
 sparklyr.nested: 0.0.3
 sparktex: '0.1'
@@ -22858,7 +22858,7 @@ viafr: 0.2.0
 vici: 0.5.2
 vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
-viewpoly: 0.1.1
+viewpoly: 0.2.0
 viewshed3d: 4.0.0
 villager: 1.1.1
 vimcom: 0.9-9
