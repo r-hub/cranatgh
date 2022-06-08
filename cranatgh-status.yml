@@ -729,7 +729,7 @@ BradleyTerry2: 1.1-2
 BradleyTerryScalable: 0.1.0
 BrailleR: 0.32.1
 BrainCon: 0.2.0
-BranchGLM: 1.0.0
+BranchGLM: 1.1.0
 Branching: 0.9.4
 BrasilMF: 1.0.0
 BrazilMet: 0.1.0
@@ -1412,7 +1412,7 @@ DIscBIO: 1.2.0
 DJL: '3.8'
 DLASSO: 2.0.2
 DLL: 1.0.0
-DLMtool: 6.0.4
+DLMtool: 6.0.5
 DLPCA: 0.0.2
 DMCfun: 2.0.2
 DMLLZU: 0.1.1
@@ -1535,7 +1535,7 @@ DataPackageR: 0.15.8
 DataSpaceR: 0.7.5
 DataVisualizations: 1.2.3
 DataViz: 0.2.8
-DatabaseConnector: 5.0.2
+DatabaseConnector: 5.0.3
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.1.5
 Datasmith: 1.0-1
@@ -2544,7 +2544,7 @@ GetDFPData2: 0.6.1
 GetFREData: '0.7'
 GetHFData: '1.7'
 GetITRData: '0.7'
-GetLattesData: '1.4'
+GetLattesData: 1.4.1
 GetNenshuJP: '0.1'
 GetQuandlData: 0.1.0
 GetR: '0.1'
@@ -2571,7 +2571,7 @@ GlobalDeviance: '0.4'
 GlobalFit: '1.2'
 GlobalOptions: 0.1.2
 GmAMisc: 1.2.1
-Gmedian: 1.2.6
+Gmedian: 1.2.7
 Gmisc: 3.0.0
 GoFKernel: 2.1-1
 GofCens: '0.92'
@@ -4167,7 +4167,7 @@ NetCoupler: 0.1.0
 NetDA: 0.2.0
 NetData: '0.3'
 NetExplorer: 0.0.2
-NetFACS: 0.3.1
+NetFACS: 0.4.0
 NetIndices: 1.4.4.1
 NetLogoR: 0.3.10
 NetMix: 0.2.0
@@ -4502,6 +4502,7 @@ PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.17-0
 PNADcIBGE: 0.7.0
+PNAR: '1.0'
 PNSIBGE: 0.1.7
 PNWColors: 0.1.0
 PO.EN: '1.0'
@@ -6413,7 +6414,7 @@ SimEngine: 1.1.0
 SimEvolEnzCons: 2.0.0
 SimHap: 1.2.0
 SimHaz: '0.1'
-SimInf: 9.0.0
+SimInf: 9.1.0
 SimJoint: 0.3.9
 SimMultiCorrData: 0.2.2
 SimPhe: 0.2.0
@@ -6662,7 +6663,7 @@ SuperpixelImageSegmentation: 1.0.5
 Superpower: 0.2.0
 SuppDists: 1.1-9.7
 SurfaceTortoise: 1.0.2
-Surrogate: '2.0'
+Surrogate: '2.1'
 SurrogateOutcome: '1.1'
 SurrogateRegression: 0.5.0
 SurrogateTest: '1.3'
@@ -6927,7 +6928,7 @@ TideHarmonics: 0.1-1
 TideTables: 0.0.3
 Tides: '2.1'
 TidyConsultant: 0.1.0
-TidyDensity: 1.1.0
+TidyDensity: 1.2.0
 TidyMultiqc: 1.0.2
 TileManager: 0.4.1
 TilePlot: '1.3'
@@ -7002,7 +7003,7 @@ TruncatedNormal: 2.2.2
 TrustVDJ: 0.1.0
 Tsphere: '1.0'
 TukeyC: 1.3-4
-TukeyRegion: 0.1.4
+TukeyRegion: 0.1.5.5
 TunePareto: 2.5.1
 TurtleGraphics: 1.0-8
 Tushare: 0.1.4
@@ -7938,7 +7939,7 @@ autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
 autostats: 0.3.0
-autostsm: 3.0.0
+autostsm: 3.0.1
 autota: 0.1.3
 autothresholdr: 1.4.0
 autovarCore: 1.0-4
@@ -10614,7 +10615,7 @@ document: 3.3.3
 documenter: 0.1.2
 docxtools: 0.2.2
 docxtractr: 0.6.5
-dodgr: 0.2.13
+dodgr: 0.2.14
 doebioresearch: 0.1.0
 doex: '1.2'
 dominanceanalysis: 2.0.0
@@ -12654,7 +12655,7 @@ ggplotify: 0.1.0
 ggplotlyExtra: 0.0.1
 ggpmisc: 0.4.6
 ggpointdensity: 0.1.0
-ggpointless: 0.0.1
+ggpointless: 0.0.2
 ggpol: 0.0.7
 ggpolar: 0.2.0
 ggpolypath: 0.1.0
@@ -12820,6 +12821,7 @@ globalboosttest: 1.1-0
 globals: 0.15.0
 globe: 1.2-0
 glogis: 1.0-2
+glossr: 0.5.1
 glottospace: 0.0.112
 glow: 0.10.1
 glpk: 4.8-0.5
@@ -13398,6 +13400,7 @@ hockeystick: 0.6.1
 hof: '0.1'
 hogsvdR: '0.1'
 holdem: '1.2'
+holiglm: '0.2'
 holland: 0.1.2-1
 holodeck: 0.2.1
 homals: 1.0-9
@@ -14176,7 +14179,7 @@ jrt: 1.1.0
 jrvFinance: 1.4.3
 js: '1.2'
 jsTree: '1.2'
-jsTreeR: 1.6.0
+jsTreeR: 2.0.0
 jskm: 0.4.3
 jsmodule: 1.3.0
 json64: 0.1.3
@@ -14208,7 +14211,7 @@ jwutil: 1.2.3
 kBestShortestPaths: '0.1'
 kNNvs: 0.1.0
 kSamples: 1.2-9
-kStatistics: '2.1'
+kStatistics: 2.1.1
 kableExtra: 1.3.4
 kader: 0.0.8
 kaigiroku: '0.5'
@@ -14304,7 +14307,7 @@ kiwisR: 0.2.0
 kknn: 1.3.1
 kko: 1.0.1
 klaR: 1.7-0
-klassR: 0.1.9
+klassR: 0.1.11
 klausuR: 0.12-14
 kldtools: '1.2'
 klexdatr: 0.1.2
@@ -15624,7 +15627,7 @@ missingHE: 1.4.1
 mistat: 2.0.3
 mistr: 0.0.5
 mistral: 2.2.1
-misty: 0.4.5
+misty: 0.4.6
 mitml: 0.4-3
 mitools: '2.4'
 mitre: 1.0.0
@@ -16107,7 +16110,7 @@ multicon: '1.6'
 multicool: 0.1-12
 multicore: '0.2'
 multicross: 2.1.0
-multid: 0.5.0
+multid: 0.6.0
 multidplyr: 0.1.1
 multifamm: 0.1.1
 multifear: 0.1.2
@@ -19942,7 +19945,7 @@ saeBest: 0.1.0
 saeHB: 0.2.1
 saeHB.ME: '1.0'
 saeHB.ZIB: 0.1.0
-saeHB.gpois: 0.1.0
+saeHB.gpois: 0.1.1
 saeHB.hnb: 0.1.0
 saeHB.panel: 0.1.1
 saeHB.spatial: 0.1.0
@@ -20711,6 +20714,7 @@ skeletor: 1.0.4
 skellam: 0.2.0
 sketch: 1.1.17
 sketcher: 0.1.3
+sketching: 0.1.0
 sketchy: 1.0.2
 skewMLRM: '1.6'
 skewlmm: 1.0.0
@@ -23288,6 +23292,7 @@ xplain: 0.2.2
 xplorerr: 0.1.2
 xpose: 0.4.13
 xpose.nlmixr: 0.3.0
+xpose.nlmixr2: 0.4.0
 xpose4: 4.7.2
 xpose4classic: 4.4.1
 xpose4data: 4.4.1
