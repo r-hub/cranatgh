@@ -10,7 +10,7 @@ ABHgenotypeR: 1.0.1
 ABPS: '0.3'
 ACA: '1.1'
 ACCLMA: '1.0'
-ACD: 1.5.3
+ACD: '1.5'
 ACDC: 1.0.0
 ACDm: 1.0.4
 ACEsearch: 1.0.0
@@ -270,7 +270,7 @@ AssetCorr: 1.0.4
 AssetPricing: 1.0-3
 AssocAFC: 1.0.2
 AssocTests: 1.0-1
-AssotesteR: 0.1-10
+AssotesteR: 0.1-7
 AsthmaNHANES: 1.1.0
 AsyK: 1.5.5
 AsymmetricSORDs: 1.0.0
@@ -1498,7 +1498,7 @@ DTR: '1.7'
 DTRlearn: '1.3'
 DTRlearn2: '1.1'
 DTRreg: '1.7'
-DTSg: 1.0.0
+DTSg: 1.1.1
 DTWBI: '1.1'
 DTWUMI: '1.0'
 DTwrappers: 0.0.2
@@ -5150,7 +5150,7 @@ RInside: 0.2.17
 RItools: 0.1-18
 RJDBC: 0.2-10
 RJDemetra: 0.2.0
-RJSDMX: 2.3-3
+RJSDMX: 2.3-3.1
 RJSONIO: 1.3-1.6
 RJSONLD: '1.0'
 RJSplot: '2.7'
@@ -6695,7 +6695,7 @@ SyncMove: 0.1-0
 SyncRNG: 1.3.0
 SynchWave: 1.1.2
 SynergizeR: '0.2'
-Synth: 1.1-5
+Synth: 1.1-6
 SynthCast: 0.2.1
 SynthETIC: 1.0.2
 SynthTools: 1.0.1
@@ -6876,7 +6876,7 @@ TcGSA: 0.12.10
 Tcomp: 1.0.1
 TeXCheckR: 0.7.0
 TeachBayes: '1.0'
-TeachHist: 0.1.2
+TeachHist: 0.2.0
 TeachNet: 0.7.1
 TeachingDemos: '2.12'
 TeachingSampling: 4.1.1
@@ -8870,7 +8870,7 @@ cassandRa: 0.1.0
 castor: 1.7.2
 cat: 0.0-7
 cat.dt: 0.3.1
-cat2cat: 0.3.3
+cat2cat: 0.4.1
 catIrt: 0.5.1
 catR: '3.16'
 catSplit: 0.1.0
@@ -9400,7 +9400,7 @@ colcor: '1.0'
 cold: 2.0-3
 colf: 0.1.3
 collUtils: 1.0.5
-collapse: 1.7.6
+collapse: 1.8.4
 collapsibleTree: 0.1.7
 collateral: 0.5.2
 collectArgs: 0.4.0
@@ -11417,7 +11417,7 @@ extracat: 1.7-6
 extrafont: '0.18'
 extrafontdb: '1.0'
 extraoperators: 0.1.1
-extras: 0.2.0
+extras: 0.3.0
 extraterrestrial: 0.1.0
 extremeIndex: 0.0.3
 extremeStat: 1.4.0
@@ -11944,7 +11944,7 @@ forge: 0.2.0
 fork: 1.2.4
 formatR: '1.12'
 formattable: 0.2.1
-formatters: 0.3.1
+formatters: 0.3.2
 formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
@@ -12995,7 +12995,7 @@ gratis: 1.0.0
 grattan: 1.9.0.10
 gravitas: 0.1.3
 gravity: '1.0'
-greatR: 0.1.0
+greatR: 0.2.0
 grec: 1.4.1
 greed: 0.6.0
 greekLetters: 0.0.7
@@ -13310,7 +13310,7 @@ hglasso: '1.3'
 hglm: 2.2-1
 hglm.data: 1.0-1
 hgm: '1.20'
-hgnc: 0.1.0
+hgnc: 0.1.2
 hgutils: 0.2.11
 hgwrr: 0.2-2
 hhcartr: 1.0.0
@@ -13767,7 +13767,7 @@ impactflu: 0.1.0
 impactr: 0.4.0
 impimp: 0.3.1
 implicitMeasures: 0.2.1
-implied: 0.4.0
+implied: 0.4.1
 implyr: 0.4.0
 import: 1.3.0
 importar: 0.1.1
@@ -14665,7 +14665,7 @@ lime: 0.5.2
 liminal: 0.1.2
 limitplot: '1.2'
 limma: 2.9.9
-limonaid: 0.1.3
+limonaid: 0.1.4
 limorhyde: 1.0.1
 limorhyde2: 0.0.7
 lin.eval: 0.1.2
@@ -15553,7 +15553,7 @@ migraph: 0.9.3
 migrate: 0.4.0
 migration.indices: 0.3.0
 migrbc: 2.0.9
-migui: '1.1'
+migui: '1.3'
 miic: 1.5.3
 mikropml: 1.3.0
 milonga: '1.0'
@@ -17220,7 +17220,7 @@ parqr: 0.1.0
 parseRPDR: 0.2.3
 parsec: 1.2.6
 parsedate: 1.3.0
-parsel: 0.1.1
+parsel: 0.2.0
 parsemsf: 0.1.1
 parser: '0.1'
 parsermd: 0.1.2
@@ -19338,7 +19338,7 @@ ridittools: '0.1'
 riem: 0.3.0
 rif: 0.2.0
 rifle: '1.0'
-rigr: 1.0.1
+rigr: 1.0.3
 riingo: 0.3.1
 rijkspalette: 1.0.2
 rim: 0.5.1
@@ -19386,7 +19386,7 @@ rjags: 4-13
 rjazz: 0.1.7
 rjdmarkdown: 0.2.0
 rjdqa: 0.1.1
-rje: 1.10.16
+rje: 1.11.0
 rjmcmc: 0.4.5
 rjpdmp: 2.0.0
 rjqpd: 0.2.3
@@ -20008,7 +20008,7 @@ sankey: 1.0.2
 sankeywheel: 0.1.0
 sanon: '1.6'
 santaR: 1.2.3
-santoku: 0.7.0
+santoku: 0.8.0
 sanzo: 0.1.0
 saotd: 0.3.0
 sapa: 2.0-3
@@ -22838,7 +22838,7 @@ vein: 0.9.6
 velociraptr: 1.1.0
 velox: 0.2.0
 vembedr: 0.1.5
-venn: '1.10'
+venn: '1.11'
 vennLasso: 0.1.6
 venneuler: 1.1-3
 vennplot: '1.0'
