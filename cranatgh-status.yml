@@ -2068,7 +2068,7 @@ FMradio: 1.1.1
 FMsmsnReg: '1.0'
 FNN: 1.1.3.1
 FOCI: 0.1.3
-FORTLS: 1.0.6
+FORTLS: 1.1.0
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
@@ -2899,7 +2899,7 @@ IPDFileCheck: 0.7.5
 IPDfromKM: 0.1.10
 IPEC: 1.0.3
 IPEDSuploadables: 2.4.5
-IPLGP: 2.0.0
+IPLGP: 2.0.1
 IPMRF: '1.2'
 IPMbook: 0.1.3
 IPMpack: '2.1'
@@ -4269,7 +4269,7 @@ ORCME: 2.0.2
 ORDER2PARENT: '1.0'
 ORIClust: 1.0-1
 ORION: 1.0.3
-ORKM: 0.1.1.1
+ORKM: 0.3.0.0
 ORMDR: 1.3-2
 ORTSC: 1.0.0
 ORdensity: '1.0'
@@ -4299,7 +4299,7 @@ Ohmage: '2.9'
 OjaNP: 1.0-0
 OkNNE: 1.0.0
 OligoSpecificitySystem: '1.3'
-OlinkAnalyze: 3.0.0
+OlinkAnalyze: 3.1.0
 OmegaG: 1.0.1
 OmicInt: 1.1.7
 OmicKriging: 1.4.0
@@ -7156,7 +7156,7 @@ VeryLargeIntegers: 0.1.8
 VetResearchLMM: 1.0.0
 VhayuR: 1.1.2
 ViSiElse: 1.2.2
-VicmapR: 0.1.8
+VicmapR: 0.1.9
 VideoComparison: 0.9-4
 ViewPipeSteps: 0.1.0
 VineCopula: 2.4.4
@@ -8023,7 +8023,7 @@ bama: '1.2'
 bamboo: 0.9.25
 bambooHR: 0.1.0
 bamdit: 3.4.0
-bamlss: 1.1-7
+bamlss: 1.1-8
 bamp: 2.1.1
 bams: '1.6'
 banR: 0.2.2
@@ -8185,7 +8185,7 @@ bda: 15.2.5
 bdc: 1.1.1
 bdchecks: 0.1.7
 bdclean: 0.1.15
-bde: 1.0.1
+bde: 1.0.1.1
 bdl: 1.0.4
 bdlp: 0.9-2
 bdoc: '1.2'
@@ -8536,6 +8536,7 @@ bmp: '0.3'
 bmrm: '4.1'
 bmscstan: 1.1.0
 bmstdr: 0.1.4
+bnClustOmics: 1.0.9
 bnclassify: 0.4.6
 bndovb: '1.1'
 bnlearn: 4.7.1
@@ -8918,6 +8919,7 @@ cbanalysis: 0.2.0
 cbar: 0.1.3
 cbinom: '1.6'
 cbird: '1.0'
+cbl: '0.1'
 cblasr: 1.0.0
 cbq: 0.2.0.2
 cbsem: 1.0.0
@@ -9755,6 +9757,7 @@ cpm: '2.3'
 cpop: 1.0.0
 cpp11: 0.4.2
 cppRouting: '2.0'
+cppcheckR: 1.0.0
 cppcor: '1.2'
 cpr: 0.2.3
 cprobit: 1.0.2
@@ -10066,7 +10069,7 @@ data.table: 1.14.2
 data.tree: 1.0.0
 data.validator: 0.1.6
 data.world: 1.2.2
-data360r: 1.0.8
+data360r: 1.0.9
 dataCompareR: 0.1.4
 dataMaid: 1.4.1
 dataMeta: 0.1.1
@@ -11644,7 +11647,7 @@ fdaPDE: 1.1-7
 fdaPOIFD: 1.0.3
 fdacluster: 0.1.1
 fdadensity: 0.1.2
-fdakma: 1.2.1
+fdakma: '1.2'
 fdaoutlier: 0.2.0
 fdapace: 0.5.8
 fdapaceShiny: 1.0.5
@@ -12929,7 +12932,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.3.5
-gpboost: 0.7.6.2
+gpboost: 0.7.7
 gpclib: 1.5-6
 gpg: 1.2.7
 gphmm: 0.99.0
@@ -12946,7 +12949,7 @@ gppois: 0.2-1
 gpr: '1.1'
 gprofiler2: 0.2.1
 gps: '1.0'
-gptk: '1.08'
+gptk: '1.0'
 gpuR: 2.0.3
 gputools: '1.1'
 gpx: 1.1.0
@@ -13786,7 +13789,7 @@ imputation: 2.0.1
 impute: 1.26.0
 imputeFin: 0.1.2
 imputeGeneric: 0.1.0
-imputeLCMD: '2.0'
+imputeLCMD: '2.1'
 imputeMDR: '1.1'
 imputeMissings: 0.0.3
 imputeMulti: 0.8.3
@@ -14187,6 +14190,7 @@ jrvFinance: 1.4.3
 js: '1.2'
 jsTree: '1.2'
 jsTreeR: 2.0.0
+jshintr: 0.1.0
 jskm: 0.4.3
 jsmodule: 1.3.0
 json64: 0.1.3
@@ -14759,7 +14763,7 @@ lme: 3.1-0
 lme4: 1.1-29
 lmeInfo: 0.1.3
 lmeNB: '1.3'
-lmeNBBayes: 1.3.1
+lmeNBBayes: '1.3'
 lmeSplines: 1.1-12
 lmeVarComp: '1.1'
 lmec: '1.0'
@@ -15148,7 +15152,7 @@ mashr: 0.2.57
 maskRangeR: '1.1'
 mason: 0.3.0
 masscor: 0.0.7.1
-massiveGST: '1.0'
+massiveGST: 1.0.1
 mastif: 1.0.1
 matR: '0.9'
 matahari: 0.1.3
@@ -15426,7 +15430,7 @@ metamedian: 0.1.5
 metamer: 0.2.0
 metamicrobiomeR: '1.2'
 metamisc: 0.2.5
-metan: 1.16.0
+metan: 1.17.0
 metansue: '2.4'
 metap: '1.8'
 metapack: 0.2.0
@@ -15938,7 +15942,7 @@ motifr: 1.0.0
 motmot: 2.1.3
 motmot.2.0: 1.1.2
 motoRneuron: 1.0.0
-moult: 2.2.1
+moult: 2.3.0
 mountainplot: '1.4'
 mousetrack: 1.0.0
 mousetrap: 3.2.1
@@ -16023,7 +16027,7 @@ msce: 1.0.1
 mschart: 0.3.1
 mscp: '1.0'
 mscstexta4r: 0.1.2
-mscstts: 0.6.2
+mscstts: 0.6.3
 mscsweblm4r: 0.1.2
 msd: 0.3.1
 msda: 1.0.2
@@ -16286,7 +16290,7 @@ nametagger: 0.1.1
 nandb: 2.1.0
 naniar: 0.6.1
 nanny: 0.1.8
-nanonext: 0.5.0
+nanonext: 0.5.1
 nanop: 2.0-6
 nanostringr: 0.3.0
 nanotime: 0.3.6
@@ -16585,7 +16589,7 @@ noisyr: 1.0.0
 nomadlist: 0.1.0
 nombre: 0.4.1
 nomclust: 2.5.0
-nominatimlite: 0.1.5
+nominatimlite: 0.1.6
 nomine: 1.0.0
 nomisr: 0.4.6
 nomnoml: 0.2.5
@@ -17009,7 +17013,7 @@ orloca.es: '4.9'
 ormBigData: 0.0.1
 ormPlot: 0.3.4
 oro.dicom: 0.5.3
-oro.nifti: 0.11.1
+oro.nifti: 0.11.2
 oro.pet: 0.2.6
 orsifronts: 0.2.0
 orsk: 1.0-6
@@ -17665,7 +17669,7 @@ pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
 pkgdepends: 0.3.1
-pkgdown: 2.0.3
+pkgdown: 2.0.4
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
 pkglite: 0.2.0
@@ -17708,7 +17712,7 @@ pleiotest: 1.0.0
 plethem: 1.1.0
 plfMA: '2.0'
 plfm: 2.2.5
-plgp: 1.1-10
+plgp: 1.1-11
 pliable: '1.1'
 pliman: 1.1.0
 plink: 1.5-1
@@ -18113,7 +18117,7 @@ processcontrol: 0.1.0
 processdata: '0.8'
 processmapR: 0.3.4
 processmonitR: 0.1.0
-processx: 3.5.3
+processx: 3.6.0
 procmaps: 0.0.4
 prodest: 1.0.1
 prodigenr: 0.6.1
@@ -18706,6 +18710,7 @@ raincpc: 1.1.0
 rainette: 0.3.0
 rainfarmr: '0.1'
 rainfreq: '0.3'
+rairtable: 0.1.1
 rake: '1.2'
 rakeR: 0.2.1
 ralger: 2.2.4
@@ -18791,7 +18796,7 @@ rasterdiv: 0.2-5.2
 rasterize: '0.1'
 rasterly: 0.2.0
 rasterpdf: 0.1.1
-rasterpic: 0.2.0
+rasterpic: 0.2.1
 ratPASTA: 0.2.1
 ratdat: 1.0.0
 ratelimitr: 0.4.1
@@ -19298,7 +19303,7 @@ rgexf: 0.16.2
 rggm: 1.0.1
 rggobi: 2.1.9
 rgho: 2.0.2
-rgl: 0.108.3.2
+rgl: 0.109.2
 rglobi: 0.2.27
 rglplus: '1.0'
 rglwidget: 0.2.1
@@ -19529,7 +19534,7 @@ robregcc: '1.1'
 robsel: 0.1.0
 robservable: 0.2.1
 robslopes: 1.1.1
-robsurvey: '0.2'
+robsurvey: '0.3'
 robumeta: '2.0'
 robust: 0.7-0
 robust2sls: 0.2.0
@@ -20096,6 +20101,7 @@ scalreg: 1.0.1
 scam: 1.2-12
 scan: 0.54.1
 scanstatistics: 1.0.1
+scapGNN: 0.1.0
 scape: 2.3.3
 scapeMCMC: 1.1-3
 scapesClassification: 1.0.0
@@ -20425,6 +20431,7 @@ shapefiles: '0.7'
 shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
+shapviz: 0.1.0
 shar: 1.3.2
 sharpData: '1.4'
 sharpPen: '1.7'
@@ -21401,7 +21408,7 @@ stcm: 0.1.1
 stcos: 0.3.0
 stcov: 0.1.0
 stdReg: 3.4.1
-stddiff: '3.0'
+stddiff: '3.1'
 stdmod: 0.1.7.1
 stdvectors: 0.0.5
 steadyICA: '1.0'
@@ -21783,7 +21790,7 @@ syskern: R2000.6-1
 syslognet: 0.1.2.1
 systemfit: 1.1-24
 systemfonts: 1.0.4
-systemicrisk: 0.4.2
+systemicrisk: '0.4'
 syt: 0.2.0
 syuzhet: 1.0.6
 tLagPropOdds: '1.8'
@@ -21868,7 +21875,7 @@ taxizedb: 0.3.0
 taxlist: 0.2.2
 taxonbridge: 1.2.1
 taxonomizr: 0.8.0
-taxotools: 0.0.9
+taxotools: 0.0.129
 tayloRswift: 0.1.0
 taylor: 1.0.0
 tbart: '1.0'
@@ -22655,7 +22662,7 @@ uniformly: 0.2.0
 uniftest: '1.1'
 unikn: 0.4.0
 unine: 0.2.0
-uniqtag: '1.0'
+uniqtag: 1.0.1
 uniqueAtomMat: 0.1-3-2
 unisensR: 0.3.3
 uniset: 0.3.1
