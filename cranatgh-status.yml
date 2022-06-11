@@ -1446,7 +1446,7 @@ DOvalidation: 1.1.0
 DPBBM: 0.2.5
 DPM.GGM: '0.14'
 DPP: 0.1.2
-DPQ: 0.5-1
+DPQ: 0.5-2
 DPQmpfr: 0.3-1
 DPWeibull: '1.8'
 DPpack: 0.0.1
@@ -2559,7 +2559,7 @@ GiANT: '1.3'
 GiNA: 1.0.1
 GiRaF: 1.0.1
 GibbsACOV: '1.1'
-Gifi: 0.3-9
+Gifi: 0.3-10
 GillespieSSA: 0.6.2
 GillespieSSA2: 0.2.8
 Gini: 0.1.0
@@ -6219,7 +6219,7 @@ SQB: '0.4'
 SQDA: '1.0'
 SQLiteDF: 0.1.34
 SQLiteMap: 0.6.2
-SQN: 1.0.5
+SQN: 1.0.6
 SQRL: 1.0.0
 SQUAREM: '2021.1'
 SRCS: '1.1'
@@ -6775,7 +6775,7 @@ TPAM: '1.0'
 TPD: 1.1.0
 TPEA: 3.1.0
 TPES: 1.0.0
-TPLSr: 1.0.3
+TPLSr: 1.0.4
 TPMplt: 0.1.3
 TPmsm: 1.2.5
 TR8: 0.9.22
@@ -7199,7 +7199,7 @@ WPC: '1.0'
 WPKDE: '0.1'
 WR: '1.0'
 WRI: 0.1.0
-WRS2: 1.1-3
+WRS2: 1.1-4
 WRSS: '3.1'
 WRTDStidal: 1.1.2
 WSGeometry: 1.2.1
@@ -7627,7 +7627,7 @@ ampd: '0.2'
 ampir: 1.1.0
 amt: 0.1.7
 anMC: 0.2.2
-anacor: 1.1-3
+anacor: 1.1-4
 anaglyph: 0.1-1
 analogsea: 1.0.6
 analogue: 0.17-6
@@ -9179,7 +9179,7 @@ clarifai: 0.4.2
 clarkeTest: 0.1.0
 class: 7.3-20
 classGraph: 0.7-5
-classInt: 0.4-3
+classInt: 0.4-7
 classPP: '1.0'
 classiFunc: 0.1.1
 classifierplots: 1.4.0
@@ -9846,7 +9846,7 @@ crplyr: 0.3.9
 crq: '0.3'
 crqa: 2.0.3
 crqanlp: '0.3'
-crrSC: '1.1'
+crrSC: 1.1.2
 crrcbcv: '1.0'
 crrp: '1.0'
 crrstep: 2015-2.1
@@ -9877,7 +9877,7 @@ csci: 0.9.3
 cshapes: '2.0'
 cslogistic: 0.1-3
 csn: 1.1.3
-csodata: 1.2.2
+csodata: 1.2.3
 csound: 0.1-1
 csp: 0.1.0
 cspec: 0.1.2
@@ -10098,9 +10098,9 @@ datamerge: 1.0.3
 datamods: 1.3.2
 datanugget: 1.0.0
 dataonderivatives: 0.4.0
-dataone: 2.2.1
+dataone: 2.2.2
 dataonelibs: 1.0.0
-datapack: 1.4.0
+datapack: 1.4.1
 datapackage.r: 1.3.5
 datapasta: 3.1.0
 dataprep: 0.1.5
@@ -10656,7 +10656,7 @@ dpcR: '0.5'
 dpcc: 1.0.0
 dpcid: '1.0'
 dpglasso: '1.0'
-dplR: 1.7.2
+dplR: 1.7.3
 dplRCon: '1.0'
 dplbnDE: 0.1.1
 dplyr: 1.0.9
@@ -12099,7 +12099,7 @@ funcy: 1.0.1
 fundiversity: 0.2.1
 funest: 0.0.1.3
 funfits: 2.0-3
-fungible: '2.2'
+fungible: 2.2.2
 funique: 0.0.1
 funmediation: 1.0.1
 funnelR: 0.1.0
@@ -12142,7 +12142,7 @@ fuzzyreg: '0.6'
 fuzzywuzzyR: 1.0.5
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
-fwildclusterboot: '0.8'
+fwildclusterboot: '0.9'
 fwsim: 0.3.4
 fxTWAPLS: 0.1.1
 fxregime: 1.0-4
@@ -13206,7 +13206,7 @@ happign: 0.1.4
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
-hardhat: 1.0.0
+hardhat: 1.1.0
 harmonicmeanp: '3.0'
 harmonizer: 0.3.0
 harmony: 0.1.0
@@ -13291,7 +13291,7 @@ helsinki: 1.0.5
 heplots: 1.3-9
 here: 1.0.1
 hereR: 0.8.2
-hergm: 4.1-8
+hergm: 4.1-9
 heritEWAS: 0.2.0
 heritability: '1.3'
 hermite: 1.1.2
@@ -13412,7 +13412,7 @@ holdem: '1.2'
 holiglm: '0.2'
 holland: 0.1.2-1
 holodeck: 0.2.1
-homals: 1.0-9
+homals: 1.0-10
 homeR: 0.3.0
 hommel: '1.6'
 homologene: 1.4.68.19.3.27
@@ -13832,7 +13832,7 @@ ineq: 0.2-13
 ineqJD: '1.0'
 inet: 0.1.0
 inetwork: '1.2'
-infer: 1.0.0
+infer: 1.0.2
 inference: 0.1.0
 inferference: 1.0.2
 inferr: 0.3.1
@@ -14651,7 +14651,7 @@ libsoc: 0.7.3
 libstableR: 1.0.2
 lidR: 4.0.1
 lidaRtRee: 4.0.1
-lifecontingencies: '1.3'
+lifecontingencies: 1.3.9
 lifecourse: '2.0'
 lifecycle: 1.0.1
 lifelogr: 0.1.0
@@ -16010,7 +16010,7 @@ msBreast: 1.0.3
 msDilution: 1.0.2
 msProcess: 1.0.7
 msProstate: 1.0.3
-msSPChelpR: 0.8.7
+msSPChelpR: 0.9.0
 msSurv: 1.2-2
 msaFACE: 0.1.0
 msaR: 0.6.0
@@ -18009,7 +18009,7 @@ prc: 2019.1-23
 prcbench: 1.0.2
 prclust: '1.3'
 prcr: 0.2.1
-pre: 1.0.4
+pre: 1.0.5
 preText: 0.6.2
 precautionary: 0.2.6
 precintcon: 2.3.0
@@ -20889,7 +20889,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
-soilDB: 2.7.0
+soilDB: 2.7.1
 soilassessment: 0.2.3
 soilcarbon: 1.2.0
 soilhypfit: 0.1-5
@@ -21157,7 +21157,7 @@ spidR: 1.0.2
 spider: 1.5.0
 spiderbar: 0.2.4
 spiders: '1.2'
-spikeSlabGAM: 1.1-18
+spikeSlabGAM: 1.1-19
 spikes: '1.1'
 spikeslab: 1.1.6
 spinBayes: 0.1.0
@@ -21473,7 +21473,7 @@ storr: 1.2.5
 stortingscrape: 0.1.1
 storywranglr: 0.2.0
 stosim: 0.0.14
-stplanr: 0.9.0
+stplanr: 1.0.0
 stpm: 1.7.11
 stpp: 2.0-6
 stppResid: '1.1'
@@ -23398,7 +23398,7 @@ zen4R: '0.6'
 zendeskR: '0.4'
 zenplots: 1.0.4
 zeroEQpart: 0.1.0
-zetadiv: 1.2.0
+zetadiv: 1.2.1
 zfa: '1.0'
 zfit: 0.3.0
 zic: 0.9.1
