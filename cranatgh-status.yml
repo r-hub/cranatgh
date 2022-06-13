@@ -373,7 +373,7 @@ BEANSP: '1.0'
 BED: 1.4.8
 BEDASSLE: '1.6'
 BEDMatrix: 2.0.3
-BEKKs: 1.2.1
+BEKKs: 1.3.0
 BENMMI: 4.3-7
 BEQI2: 2.0-0
 BEST: 0.5.4
@@ -3573,7 +3573,7 @@ MIfuns: '5.1'
 MImix: '1.0'
 MInt: 1.0.1
 MKLE: 1.0.0
-MKMeans: '2.0'
+MKMeans: '2.1'
 MKclass: '0.3'
 MKdescr: '0.7'
 MKinfer: '0.6'
@@ -5027,7 +5027,7 @@ RCassandra: 0.1-3
 RChest: 1.0.3
 RChronoModel: '0.4'
 RCircos: 1.2.2
-RClickhouse: 0.6.3
+RClickhouse: 0.6.4
 RClimMAWGEN: '1.1'
 RClimacell: 0.1.4
 RClone: '1.0'
@@ -5844,7 +5844,7 @@ RobKF: 1.0.2
 RobLox: 1.2.0
 RobLoxBioC: 1.2.0
 RobMixReg: 1.1.0
-RobPer: 1.2.2
+RobPer: 1.2.3
 RobRSVD: '1.0'
 RobRex: 1.2.0
 RobStatTM: 1.0.5
@@ -7587,7 +7587,7 @@ allestimates: 0.2.2
 alluvial: 0.1-2
 alm: 0.4.0
 almanac: 0.1.1
-alookr: 0.3.6
+alookr: 0.3.7
 alpaca: 0.3.3
 alphaOutlier: 1.2.0
 alphabetr: 0.2.2
@@ -8229,7 +8229,7 @@ bellreg: 0.0.1
 bench: 1.1.2
 benchden: 1.0.5
 benchmark: '0.3'
-benchmarkme: 1.0.7
+benchmarkme: 1.0.8
 benchmarkmeData: 1.0.4
 benchr: 0.2.5
 bender: 0.1.1
@@ -8757,7 +8757,7 @@ c3net: 1.1.1
 cAIC4: '1.0'
 cIRT: 1.3.2
 cMonkey: 4.9.2
-cNORM: 3.0.1
+cNORM: 3.0.2
 cOde: 1.1.1
 cPCG: '1.0'
 cPseudoMaRg: 1.0.1
@@ -11840,7 +11840,7 @@ flexpolyline: 0.2.5
 flexrsurv: 1.4.5
 flexsurv: '2.1'
 flexsurvcure: 1.2.0
-flextable: 0.7.1
+flextable: 0.7.2
 flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
@@ -13464,7 +13464,7 @@ hsrecombi: 0.4.2
 hsstan: 0.8.1
 htdp: 0.1.4
 htestClust: 0.2.2
-htm2txt: 2.2.1
+htm2txt: 2.2.2
 html2R: 0.1.0
 html5: 0.1.0
 htmlTable: 2.4.0
@@ -14854,8 +14854,8 @@ logisticRR: 0.3.0
 logitFD: '1.0'
 logitchoice: 0.9.4
 logitnorm: 0.8.38
-logitr: 0.6.0
-loglognorm: 1.0.1
+logitr: 0.6.1
+loglognorm: 1.0.2
 logmult: 0.7.4
 lognorm: 0.1.10
 logr: 1.3.0
@@ -16575,7 +16575,7 @@ noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
 noctua: 2.6.0
-nodbi: 0.7.1
+nodbi: 0.8.0
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodeSub: 1.2.4
@@ -16805,7 +16805,7 @@ oem: 2.0.10
 oenb: 0.0.2
 ofGEM: '1.0'
 officedown: 0.2.4
-officer: 0.4.2
+officer: 0.4.3
 offlineChange: 0.0.4
 ofp: 1.0.0
 ofw: 1.0-0
@@ -20895,7 +20895,7 @@ soilcarbon: 1.2.0
 soilhypfit: 0.1-5
 soilphysics: '5.0'
 soilprofile: '1.0'
-soiltestcorr: 2.1.1
+soiltestcorr: 2.1.2
 soiltexture: 1.5.1
 soilwater: 1.0.5
 sokoban: 0.1.0
@@ -22618,7 +22618,7 @@ udapi: 0.1.3
 udpipe: 0.8.9
 udunits: '1.3'
 udunits2: 0.13.2.1
-ufRisk: 1.0.4
+ufRisk: 1.0.5
 ufs: 0.5.2
 ugatsdb: 0.2.2
 ugomquantreg: 1.0.0
