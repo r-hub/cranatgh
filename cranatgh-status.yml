@@ -197,7 +197,7 @@ AeroSampleR: 0.1.12
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
-AgroR: 1.2.9
+AgroR: 1.3.0
 AgroReg: 1.2.5
 AgroTech: 1.0.1
 AhoCorasickTrie: 0.1.2
@@ -1516,7 +1516,7 @@ DZEXPM: '2.0'
 Daim: 1.1.0
 DamiaNN: 1.0.0
 DandEFA: '1.6'
-DanielBiostatistics10th: 0.1.5
+DanielBiostatistics10th: 0.1.6
 Dark: 0.9.8
 DarkDiv: 0.3.0
 Dasst: 0.3.4
@@ -1843,7 +1843,7 @@ EasyStrata: '8.6'
 EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
 Ecdat: 0.3-9
-Ecfun: 0.2-5
+Ecfun: 0.2-6
 EcoDiet: 1.0.0
 EcoGenetics: 1.2.1
 EcoHydRology: 0.4.9
@@ -2863,6 +2863,7 @@ IGP: 0.2.0
 IGST: 0.1.0
 IGoRRR: 0.3.2
 IHSEP: '0.3'
+IIProductionUnknown: 0.0.1
 IIS: '1.0'
 IIVpredictor: 0.1.0
 ILS: '0.2'
@@ -3378,6 +3379,7 @@ LogRegEquiv: 0.1.5
 LogicForest: 2.1.0
 LogicOpt: 1.0.0
 LogicReg: 1.6.4
+LogisticCurveFitting: 0.1.0
 LogisticDx: '0.3'
 LogisticRCI: '1.1'
 LogitNet: 0.1-1
@@ -3905,6 +3907,7 @@ MiscPsycho: '1.6'
 Miso: 0.2.1
 MissMech: '1.0'
 MissingDataGUI: 0.2-5
+MissingPlotRBD: 0.1.0
 MitISEM: '1.2'
 MitoHEAR: 0.1.0
 MittagLeffleR: 0.4.1
@@ -4209,7 +4212,7 @@ Nmix: 2.0.3
 NobBS: 0.1.0
 NoiseFiltersR: 0.1.0
 NominalLogisticBiplot: '0.2'
-NonCompart: 0.5.0
+NonCompart: 0.5.1
 NonNorMvtDist: 1.0.2
 NonParRolCor: 0.6.0
 NonProbEst: 0.2.4
@@ -4286,7 +4289,7 @@ OTRselect: '1.1'
 OTUtable: 1.1.2
 OTclust: 1.0.4
 OTrecod: 0.1.1
-OUwie: '2.6'
+OUwie: '2.10'
 OVtool: 1.0.3
 OWEA: 0.1.1
 Oarray: 1.4-9
@@ -4721,7 +4724,7 @@ PoSI: '1.1'
 PogromcyDanych: '1.7'
 PoiClaClu: 1.0.2.1
 PointFore: 0.2.0
-PointedSDMs: 1.0.5
+PointedSDMs: 1.0.6
 PoisBinNonNor: 1.3.3
 PoisBinOrd: 1.4.3
 PoisBinOrdNonNor: 1.5.3
@@ -5218,7 +5221,7 @@ RMixtCompUtilities: 4.1.4
 RMongo: 0.0.25
 RMySQL: 0.10.23
 RNAseqNet: 0.1.4
-RNAseqQC: 0.1.3
+RNAseqQC: 0.1.4
 RNAsmc: 0.7.0
 RNAstructureModuleMiner: 0.1.0
 RNCBI: '0.9'
@@ -5488,7 +5491,7 @@ RankResponse: 4.0.0
 Rankcluster: 0.94.5
 RankingProject: 0.4.0
 RapidPolygonLookup: 0.1.1
-RapidoPGS: 2.1.0
+RapidoPGS: 2.2.0
 Raquifer: 0.1.0
 RareComb: '1.1'
 Rarefy: '1.1'
@@ -5535,7 +5538,7 @@ RcmdrPlugin.BiclustGUI: 1.1.3.1
 RcmdrPlugin.DCCV: 0.1-1
 RcmdrPlugin.DCE: 0.1-2
 RcmdrPlugin.DoE: 0.12-4
-RcmdrPlugin.EACSPIR: 0.2-2
+RcmdrPlugin.EACSPIR: '0.2'
 RcmdrPlugin.EBM: 1.0-10
 RcmdrPlugin.EHESsampling: '2.0'
 RcmdrPlugin.EZR: '1.55'
@@ -5598,7 +5601,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.5.3
 RcppAnnoy: 0.0.19
-RcppArmadillo: 0.11.1.1.0
+RcppArmadillo: 0.11.2.0.0
 RcppBDT: 0.2.5
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
@@ -7364,6 +7367,7 @@ abess: 0.4.5
 abf2: 0.7-1
 abglasso: 0.1.1
 abind: 1.4-5
+abjData: 1.1.2
 abjutils: 0.3.2
 abmR: 1.0.4
 abn: 2.7-1
@@ -7526,7 +7530,7 @@ agreement: 1.0-1
 agriTutorial: 0.1.5
 agricolae: 1.3-5
 agricolaeplotr: 0.2.2
-agridat: '1.20'
+agridat: '1.21'
 agrifeature: 1.0.3
 agriwater: 1.0.1
 agrmt: 1.42.8
@@ -7663,6 +7667,7 @@ anipaths: 0.10.1
 aniview: 0.1.0
 anm: 1.1-1
 anndata: 0.7.5.3
+annotater: 0.2.1
 annovarR: 1.0.0
 anocva: 0.1.1
 anoint: '1.4'
@@ -7781,7 +7786,7 @@ ari: 0.3.5
 ariExtra: 0.3.1
 aricode: 1.0.0
 arkdb: 0.0.15
-arkhe: 0.4.0
+arkhe: 0.5.0
 arm: 1.12-2
 armada: 0.1.0
 armspp: 0.0.2
@@ -8216,7 +8221,7 @@ beans: 0.1.0
 beanz: '2.4'
 bear: 2.6.4
 beast: '1.1'
-beastier: 2.4.9
+beastier: 2.4.10
 beats: 0.1.1
 beautier: 2.6.4
 bedr: 1.0.7
@@ -8836,7 +8841,7 @@ captioner: 2.2.3
 captr: 0.3.0
 capushe: 1.1.1
 capwire: 1.1.4
-car: 3.0-13
+car: 3.1-0
 carData: 3.0-5
 carSurv: 1.0.0
 caracas: 1.1.2
@@ -9201,7 +9206,7 @@ cleaR: 0.0.2
 clean: 2.0.0
 cleanEHR: '1.0'
 cleanNLP: 3.0.3
-cleanTS: 0.1.0
+cleanTS: 0.1.1
 cleancall: 0.1.2
 cleandata: 0.3.0
 cleaner: 1.5.3
@@ -9267,7 +9272,7 @@ clpAPI: 1.3.1
 clr: 0.1.2
 clrdag: 0.6.0
 clttools: '1.3'
-clubSandwich: 0.5.6
+clubSandwich: 0.5.7
 clue: 0.3-61
 clues: 0.6.2.2
 clusTransition: '1.0'
@@ -9324,6 +9329,7 @@ cmdfun: 1.0.2
 cmenet: 0.1.2
 cmfilter: 0.9.1
 cmfrec: 3.4.2
+cmhc: 0.2.0
 cml: 0.0.5
 cmm: '0.12'
 cmmr: 0.1.2
@@ -9518,6 +9524,7 @@ concatenate: 1.0.0
 concatipede: 1.0.1
 concaveman: 1.1.0
 conclust: '1.1'
+concom: 1.0.0
 concor: 1.0-0
 concorR: 0.2.1
 concord: '1.4'
@@ -9623,7 +9630,7 @@ copent: '0.2'
 coppeCosenzaR: 0.1.3
 coprimary: '1.0'
 cops: 1.2-0
-copula: 1.0-1
+copula: 1.1-0
 copulaData: 0.0-1
 copulaedas: 1.4.3
 copulareg: 0.1.0
@@ -10727,7 +10734,7 @@ dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
 dseplus: 2006.4-1
-dsims: 0.2.2
+dsims: 0.2.3
 dslabs: 0.7.4
 dslice: 1.2.0
 dsm: 2.3.2
@@ -12065,7 +12072,7 @@ fsia: 1.1.1
 fslr: 2.24.1
 fsn: '0.2'
 fso: 2.1-1
-fspe: 0.1.0
+fspe: 0.1.1
 fsr: 1.0.1
 fssemR: 0.1.8
 fst: 0.9.8
@@ -12095,7 +12102,7 @@ funLBM: '2.3'
 funModeling: 1.9.4
 funbarRF: 1.0.2
 func2vis: 1.0-1
-funcharts: 1.1.0
+funcharts: 1.2.0
 funchir: 0.2.2
 functClust: 0.1.6
 functional: '0.6'
@@ -12666,11 +12673,11 @@ ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
 ggplotify: 0.1.0
 ggplotlyExtra: 0.0.1
-ggpmisc: 0.4.6
+ggpmisc: 0.4.7
 ggpointdensity: 0.1.0
 ggpointless: 0.0.2
 ggpol: 0.0.7
-ggpolar: 0.2.0
+ggpolar: 0.2.1
 ggpolypath: 0.1.0
 ggpp: 0.4.4
 ggprism: 1.0.3
@@ -13327,7 +13334,7 @@ hglm.data: 1.0-1
 hgm: '1.20'
 hgnc: 0.1.2
 hgutils: 0.2.11
-hgwrr: 0.2-2
+hgwrr: 0.2-3
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
@@ -13509,7 +13516,7 @@ hurdlr: '0.1'
 hurricaneexposure: 0.1.1
 hutils: 1.8.1
 hutilscpp: 0.9.1
-huxtable: 5.4.0
+huxtable: 5.5.0
 hwde: '0.67'
 hwep: 0.0.2
 hwig: 0.0.2
@@ -13845,7 +13852,7 @@ inferference: 1.0.2
 inferr: 0.3.1
 infinitefactor: '1.0'
 infix: 0.1.0
-inflection: 1.3.5
+inflection: 1.3.6
 influence.ME: 0.9-9
 influence.SEM: '2.3'
 influenceAUC: 0.1.2
@@ -13948,7 +13955,7 @@ intmed: 0.1.2
 intoo: 0.4.0
 intpoint: '1.0'
 intrinsicDimension: 1.2.0
-introgress: 1.2.3
+introgress: '1.2'
 intrval: 0.1-2
 intsurv: 0.2.2
 intsurvbin: 0.0.4
@@ -15311,7 +15318,7 @@ mdir.logrank: 0.0.4
 mdmb: 1.6-5
 mdpeer: 1.0.1
 mds: 0.3.2
-mdsOpt: 0.5-1
+mdsOpt: 0.6-3
 mdscore: 0.1-3
 mdsdt: '1.2'
 mdsr: 0.2.5
@@ -15357,7 +15364,7 @@ megaptera: 1.0-0
 meifly: 0.3.1
 mekko: 0.1.0
 melody: 0.4.7
-melt: 1.5.1
+melt: 1.5.2
 meltr: 1.0.0
 meltt: 0.4.2
 melviewr: 0.0.1
@@ -16256,7 +16263,7 @@ mvtmeta: '1.1'
 mvtnorm: 1.1-3
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-4
-mwTensor: 0.99.5
+mwTensor: 0.99.6
 mwa: 0.4.4
 mwaved: 1.1.8
 mwcsr: 0.1.2
@@ -16429,7 +16436,7 @@ networkscaleup: 0.1-1
 networksis: '2.1'
 networktools: 1.5.0
 networktree: 1.0.1
-neuRosim: 0.2-12
+neuRosim: 0.2-8
 neural: '1.4'
 neuralnet: 1.44.2
 neurobase: 1.9.2
@@ -16510,7 +16517,7 @@ nleqslv: 3.3.2
 nlgeocoder: 0.1.3
 nlirms: 3.4.4
 nlist: 0.3.3
-nlme: 3.1-157
+nlme: 3.1-158
 nlmeODE: '1.1'
 nlmeU: 0.70-9
 nlmeVPC: '2.2'
@@ -17478,7 +17485,7 @@ permubiome: 1.3.1
 permuco: 1.1.1
 permutations: 1.0-9
 permute: 0.9-7
-permutes: '2.4'
+permutes: '2.5'
 perry: 0.3.1
 perryExamples: 0.1.1
 persDx: 0.1.0
@@ -17844,7 +17851,7 @@ poismf: 0.4.0
 poisson: '1.0'
 poisson.glm.mix: '1.3'
 poissonMT: 0.3-5
-poissonreg: 0.2.0
+poissonreg: 1.0.0
 poistweedie: 1.0.1
 poker: 0.8.8
 polAr: 0.2.0
@@ -17995,7 +18002,7 @@ ppiPre: '1.9'
 ppitables: 0.5.4
 ppls: 1.6-1
 ppmHR: '1.0'
-ppmSuite: 0.2.3
+ppmSuite: 0.2.4
 ppmf: 0.1.3
 ppmlasso: '1.2'
 ppr: 1.1-2
@@ -18024,7 +18031,7 @@ precautionary: 0.2.6
 precintcon: 2.3.0
 precisePlacement: 0.1.0
 precisely: 0.1.2
-precommit: 0.3.0
+precommit: 0.3.1
 precrec: 0.12.9
 predReliability: 0.1.0
 predatory: '1.2'
@@ -18971,7 +18978,7 @@ rdyncall: 0.7.5
 re2: 0.1.2
 re2r: 0.2.0
 reGenotyper: 1.2.0
-reReg: 1.4.3
+reReg: 1.4.4
 reactR: 0.4.4
 reactable: 0.3.0
 reactablefmtr: 2.0.0
@@ -19645,7 +19652,7 @@ roxygen2: 7.2.0
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
-rpact: 3.2.3
+rpact: 3.3.0
 rpanel: 1.1-5
 rpart: 4.1.16
 rpart.LAD: 0.1.2
@@ -20026,7 +20033,7 @@ sams: 0.4.3
 samurais: 0.1.0
 sand: 2.0.0
 sandbox: 0.2.1
-sandwich: 3.0-1
+sandwich: 3.0-2
 sandwichr: 1.0.1
 sanic: 0.0.1
 sanitizers: 0.1.0
@@ -20288,7 +20295,7 @@ selectiveInference: 1.2.5
 selectr: 0.4-2
 selectspm: '0.4'
 seleniumPipes: 0.3.7
-selfea: 1.0.1
+selfea: '1.0'
 selfingTree: '0.2'
 selfmade: '0.1'
 sem: 3.1-15
@@ -20653,6 +20660,7 @@ simmer.plot: 0.1.17
 simml: 0.3.0
 simmr: 0.4.5
 simode: 1.2.0
+simodels: 0.0.4
 simone: 1.0-4
 simphony: 1.0.0
 simpleCache: 0.4.2
@@ -21536,7 +21544,7 @@ stripless: 1.0-3
 striprtf: 0.5.3
 strm: 0.1.3
 strptimer: 0.1.0
-strucchange: 1.5-2
+strucchange: 1.5-3
 strucchangeRcpp: 1.5-3-1.0.4
 structSSI: '1.1'
 structree: 1.1.7
@@ -22233,7 +22241,7 @@ tkrgl: '0.9'
 tkrplot: 0.0-26
 tktdjl2r: 0.2.0
 tldr: 0.2.3
-tlemix: 0.1.3
+tlemix: '0.1'
 tlm: 0.1.5
 tlmec: 0.0-2
 tlnise: '2.0'
@@ -23073,7 +23081,7 @@ weathercan: 0.6.2
 weathermetrics: 1.2.2
 weatherr: 0.1.3
 webTRISr: 0.2.0
-webchem: 1.1.2
+webchem: 1.1.3
 webddx: 0.1.0
 webdeveloper: 0.1.0
 webdriver: 1.0.6
@@ -23220,7 +23228,7 @@ workflowr: 1.7.0
 workflows: 0.2.6
 workflowsets: 0.2.1
 workloopR: 1.1.4
-worldfootballR: 0.5.1
+worldfootballR: 0.5.6
 worldmet: 0.9.5
 worms: 0.2.2
 worrms: 0.4.2
