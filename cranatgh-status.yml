@@ -212,7 +212,7 @@ AlleleRetain: 2.0.2
 AlleleShift: 1.0-2
 Allspice: 1.0.5
 AlphaPart: 0.9.3
-AlphaSimR: 1.1.2
+AlphaSimR: '1.2'
 AlphaVantageClient: 0.0.1
 Amelia: 1.8.0
 AmericanCallOpt: '0.95'
@@ -578,7 +578,7 @@ BayesSingleSub: '0.6'
 BayesSpec: 0.5.3
 BayesSummaryStatLM: '2.0'
 BayesSurvival: 0.2.0
-BayesTools: 0.2.10
+BayesTools: 0.2.11
 BayesTree: 0.3-1.4
 BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
@@ -1310,7 +1310,7 @@ DAGGER: '1.4'
 DAIME: 2.1.3
 DAISIE: 4.2.0
 DAKS: 2.1-3
-DALEX: 2.4.1
+DALEX: 2.4.2
 DALEX2: '0.9'
 DALEXtra: 2.2.1
 DALY: 1.5.0
@@ -1736,7 +1736,7 @@ EDanalysis: '1.0'
 EEM: 1.1.1
 EEMDSVR: 0.1.0
 EEMDelm: 0.1.0
-EESPCA: 0.6.0
+EESPCA: 0.7.0
 EFA.MRFA: 1.1.2
 EFA.dimensions: 0.1.7.4
 EFAtools: 0.4.1
@@ -1842,7 +1842,7 @@ EasyMx: 0.2-12
 EasyStrata: '8.6'
 EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
-Ecdat: 0.3-9
+Ecdat: 0.4-0
 Ecfun: 0.2-6
 EcoDiet: 1.0.0
 EcoGenetics: 1.2.1
@@ -3709,7 +3709,7 @@ MSToolkit: 3.2.0
 MSVAR: '0.0'
 MSbox: 1.4.6
 MSclassifR: 0.2.0
-MSclust: '1.0'
+MSclust: 1.0.1
 MScombine: '1.4'
 MSeasy: '5.3'
 MSeasyTkGUI: '5.3'
@@ -3953,7 +3953,7 @@ Modelcharts: 0.1.0
 Modeler: 3.4.5
 MolgenisArmadillo: 1.1.3
 MolgenisAuth: 0.0.21
-MomTrunc: '5.97'
+MomTrunc: '6.0'
 Momocs: 1.4.0
 Mondrian: 1.1.0
 MonetDB.R: 2.0.0
@@ -5911,7 +5911,7 @@ Rsfar: 0.0.1
 Rsge: 0.6.3
 Rsgf: 1.0.0
 RsimMosaic: 1.0.3
-Rsmlx: 4.0.2
+Rsmlx: 5.0.1
 Rsolnp: '1.16'
 Rsomoclu: 1.7.5
 Rspc: 1.2.2
@@ -8297,7 +8297,7 @@ biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.1
 biblio: 0.0.6
-bibliometrix: 3.2.1
+bibliometrix: 4.0.0
 bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
 bibliospec: 0.0.4
@@ -8365,7 +8365,7 @@ billboard: 0.1.0
 billboarder: 0.3.1
 bim: 1.01-5
 bimetallic: '1.0'
-bimets: 2.1.0
+bimets: 2.1.1
 bimixt: '1.0'
 binGroup: 2.2-1
 binGroup2: 1.2.4
@@ -9759,7 +9759,7 @@ cpa: 1.0.1
 cpca: 0.1.2
 cpcens: 0.1.0
 cpd: 0.1.0
-cpfa: 1.0-2
+cpfa: 1.0-3
 cpgen: '0.1'
 cpi: 0.1.4
 cpk: 1.3-1
@@ -10054,7 +10054,7 @@ dagirlite: 0.1.0
 dagitty: 0.3-1
 dagwood: 0.1.4
 daiR: 0.9.0
-dail: '1.3'
+dail: 1.3.1
 dalmatian: 1.0.0
 dam: 0.0.1
 dampack: 1.0.1
@@ -12506,7 +12506,7 @@ geozoo: 0.5.1
 gepaf: 0.1.1
 gerbil: 0.1.5
 germanpolls: '0.3'
-germinationmetrics: 0.1.5
+germinationmetrics: 0.1.6
 gert: 1.6.0
 gesca: 1.0.4
 gesis: '0.2'
@@ -13385,7 +13385,7 @@ hints: '1.0'
 hiphop: 0.0.1
 hipread: 0.2.2
 hisemi: 1.1-0
-hisse: 2.1.8
+hisse: 2.1.9
 histmdl: 0.7-1
 histogram: 0.0-25
 historydata: '0.1'
@@ -14776,7 +14776,7 @@ lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
 lme4: 1.1-29
-lmeInfo: 0.1.3
+lmeInfo: 0.2.0
 lmeNB: '1.3'
 lmeNBBayes: '1.3'
 lmeSplines: 1.1-12
@@ -15930,7 +15930,7 @@ mopa: 1.0.1
 mopac: 0.1.0
 mopsocd: 0.5.1
 moranajp: 0.9.4
-moreparty: 0.2.1
+moreparty: '0.3'
 morgenstemning: '1.0'
 morph: 1.0.0
 morphemepiece: 1.2.3
@@ -21854,7 +21854,7 @@ tabulator: 1.0.0
 tabulizer: 0.2.2
 tabulizerjars: 1.0.1
 tabulog: 0.1.1
-tabxplor: 1.0.3
+tabxplor: 1.1.0
 tacmagic: 0.3.1
 tactile: 0.2.0
 tadaatoolbox: 0.9.0
@@ -22221,7 +22221,7 @@ tinylabels: 0.2.3
 tinyscholar: 0.1.5
 tinyspotifyr: 0.2.2
 tinytest: 1.3.1
-tinytex: '0.39'
+tinytex: '0.40'
 tiobeindexr: 0.1.1
 tipa: 1.0.5
 tipitaka: 0.1.2
