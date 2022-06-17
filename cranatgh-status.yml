@@ -935,7 +935,7 @@ CPNCoverageAnalysis: 1.1.0
 CPP: 0.1.0
 CPsurv: 1.0.0
 CR: '1.0'
-CR2: 0.1.0
+CR2: 0.1.1
 CRAC: '1.0'
 CRANsearcher: 1.0.0
 CREAM: 1.1.1
@@ -2040,7 +2040,7 @@ FHtest: '1.5'
 FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
-FIESTA: 3.4.0
+FIESTA: 3.4.1
 FIESTAutils: 1.1.2
 FILEST: 1.1.2
 FIT: 0.0.6
@@ -3030,7 +3030,7 @@ IsoCI: '1.1'
 IsoCheck: 0.1.0
 IsoCorr: '1.0'
 IsoGene: 1.0-24
-IsoMemo: 1.0.5
+IsoMemo: 1.0.6
 IsoSpecR: 2.1.3
 IsoplotR: '4.4'
 IsoplotRgui: '4.4'
@@ -4557,7 +4557,7 @@ PROscorerTools: 0.0.2
 PROsetta: 0.3.5
 PRP: 0.1.1
 PRROC: 1.3.1
-PRSPGx: 0.1.0
+PRSPGx: 0.2.0
 PRSim: 1.4-1
 PReMiuM: 3.2.7
 PResiduals: 1.0-1
@@ -5134,7 +5134,7 @@ RHRV: 4.2.6
 RHSDB: 0.1.0
 RHT: '1.0'
 RHawkes: '1.0'
-RHclust: 1.0.0
+RHclust: 1.1.0
 RHive: 2.0-0.2
 RHmm: 2.0.3
 RHybridFinder: 0.2.0
@@ -7450,7 +7450,7 @@ addhazard: 1.1.0
 addinsJoaoMelo: 0.1.0
 addinsOutline: 0.1.6
 addinslist: 0.4.0
-additive: 0.0.4
+additive: 0.0.5
 additiveDEA: '1.1'
 additivityTests: 1.1-4
 addreg: '3.0'
@@ -7600,7 +7600,7 @@ alookr: 0.3.7
 alpaca: 0.3.3
 alphaOutlier: 1.2.0
 alphabetr: 0.2.2
-alphahull: '2.4'
+alphahull: '2.5'
 alphashape3d: 1.3.1
 alphastable: 0.2.1
 alphavantager: 0.1.2
@@ -8124,7 +8124,7 @@ bayesdfa: 1.2.0
 bayesdistreg: 0.1.0
 bayesefa: 0.0.0.4
 bayesforecast: 1.0.1
-bayesian: 0.0.8
+bayesian: 0.0.9
 bayesianETAS: 1.0.3
 bayeslincom: 1.3.0
 bayeslm: 0.8.0
@@ -10379,7 +10379,7 @@ dglm: 1.8.4
 dgmb: '1.2'
 dgo: 0.2.9
 dgodata: 0.0.2
-dgof: '1.2'
+dgof: '1.4'
 dgumbel: 1.0.1
 dhReg: 0.1.1
 dhga: '0.1'
@@ -10446,7 +10446,7 @@ diffusr: 0.1.4
 diffviewer: 0.1.1
 digeR: '1.3'
 digest: 0.6.29
-digitTests: 0.1.1
+digitTests: 0.1.2
 digitalDLSorteR: 0.3.0
 digitalPCR: 1.1.0
 digitize: 0.0.4
@@ -12435,7 +12435,7 @@ geoTS: 0.1.3
 geoaxe: 0.1.0
 geobr: '1.6'
 geocacheR: 0.1.0
-geocmeans: 0.2.0
+geocmeans: 0.2.2
 geocodeHERE: '0.1'
 geodaData: 0.1.0
 geodata: 0.4-6
@@ -14149,7 +14149,7 @@ jenga: 1.2.0
 jenkins: '1.0'
 jetpack: 0.5.2
 jetset: 3.4.0
-jfa: 0.6.3
+jfa: 0.6.4
 jgcricolors: 1.0.0
 jgsbook: '1.0'
 jiebaR: '0.11'
@@ -14869,7 +14869,7 @@ logisticRR: 0.3.0
 logitFD: '1.0'
 logitchoice: 0.9.4
 logitnorm: 0.8.38
-logitr: 0.6.1
+logitr: 0.7.0
 loglognorm: 1.0.2
 logmult: 0.7.4
 lognorm: 0.1.10
@@ -16877,6 +16877,7 @@ onnx: 0.0.3
 onpoint: 1.0.2
 onsr: 1.0.1
 ontoFAST: 1.0.0
+ontologics: 0.1.0
 ontologyIndex: '2.7'
 ontologyPlot: '1.6'
 ontologySimilarity: '2.5'
@@ -17533,7 +17534,7 @@ ph2hetero: 1.0.2
 ph2mult: 0.1.1
 ph2rand: 0.1.0
 phalen: '1.0'
-phangorn: 2.8.1
+phangorn: 2.9.0
 phantom: 0.1.3
 pharmaRTF: 0.1.4
 pharmr: 0.33.1
@@ -17634,7 +17635,7 @@ picasso: 1.3.1
 picker: 0.2.6
 pid: '0.50'
 piecemaker: 1.0.1
-piecepackr: 1.10.3
+piecepackr: 1.11.1
 piecewiseSEM: 2.1.2
 pifpaf: 1.0.1
 piggyback: 0.1.3
@@ -19974,6 +19975,7 @@ sad: 0.1.3
 sadists: 0.2.4
 sads: 0.4.2
 sae: '1.3'
+sae.prop: 0.1.0
 sae2: 1.0-1
 saeBest: 0.1.0
 saeHB: 0.2.1
@@ -20933,7 +20935,7 @@ soma: 1.2.0
 someKfwer: '1.2'
 someMTP: 1.4.1.1
 somebm: '0.1'
-sommer: 4.1.6
+sommer: 4.1.7
 somplot: 1.6.4
 somspace: 1.0.0
 sonar: 1.0.2
