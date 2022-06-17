@@ -1173,7 +1173,7 @@ Compack: 0.1.0
 CompareCausalNetworks: 0.2.6.2
 CompareTests: '1.2'
 ComparisonCR: 1.0.4
-ComparisonSurv: 1.0.9
+ComparisonSurv: 1.1.0
 CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
 Compind: '2.4'
@@ -2466,7 +2466,7 @@ GWLelast: 1.2.2
 GWPR.light: 0.2.0
 GWRM: 2.1.0.4
 GWSDAT: 3.1.1
-GWmodel: 2.2-8
+GWmodel: 2.2-9
 GWnnegPCA: 0.0.4
 GWpcor: 0.1.7
 GWsignif: '1.2'
@@ -3757,6 +3757,7 @@ Maeswrap: '1.7'
 MagmaClustR: 1.0.0
 MagneticMap: '1.0'
 MajKMeans: 0.1.0
+MakeYourPalette: 0.1.3
 MakefileR: '1.0'
 Malmig: '0.3'
 ManagedCloudProvider: 1.0.0
@@ -3907,7 +3908,7 @@ MiscPsycho: '1.6'
 Miso: 0.2.1
 MissMech: '1.0'
 MissingDataGUI: 0.2-5
-MissingPlotRBD: 0.1.0
+MissingPlotRBD: 1.1.0
 MitISEM: '1.2'
 MitoHEAR: 0.1.0
 MittagLeffleR: 0.4.1
@@ -3967,6 +3968,7 @@ MonteCarloSEM: 0.0.4
 MoonFinder: 1.0.3
 Morpho: '2.9'
 MorphoTools2: 1.0.0.0
+Morphoscape: 1.0.0
 MorseGen: '1.2'
 MortCast: 2.7-0
 MortHump: '0.2'
@@ -6584,6 +6586,7 @@ SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
 SqlRender: 1.9.0
+SqueakR: 1.0.0
 Sshaped: '1.0'
 Sstack: 1.0.1
 StAMPP: 1.6.3
@@ -7440,7 +7443,7 @@ adaptTest: '1.1'
 adaptalint: 0.2.4
 adaptiveGPCA: 0.1.2
 adaptivetau: 2.2-3
-adaptr: 1.0.0
+adaptr: 1.1.0
 adaptsmoFMRI: '1.1'
 adass: 1.0.0
 add2ggplot: 0.3.0
@@ -8114,6 +8117,7 @@ bayesTFR: 7.1-1
 bayesZIB: 0.0.4
 bayesammi: 0.1.0
 bayesanova: '1.5'
+bayesassurance: 0.1.0
 bayesbio: 1.0.0
 bayesboot: 0.2.2
 bayesbr: 0.0.1.0
@@ -8814,7 +8818,7 @@ camel: 0.2.0
 camerondata: 1.0.0
 campfin: 1.0.9
 campsis: 1.3.0
-campsismod: 0.8.1
+campsismod: 0.9.0
 camsRad: 0.3.0
 camtrapR: 2.2.0
 canadacovid: 0.3.3
@@ -8929,7 +8933,7 @@ cbanalysis: 0.2.0
 cbar: 0.1.3
 cbinom: '1.6'
 cbird: '1.0'
-cbl: '0.1'
+cbl: 0.1.1
 cblasr: 1.0.0
 cbq: 0.2.0.2
 cbsem: 1.0.0
@@ -9461,7 +9465,7 @@ colt: 0.1.1
 comFuncs: 0.0.5
 comat: 0.9.3
 comato: '1.1'
-combinIT: 1.0.0
+combinIT: 1.5.0
 combinat: 0.0-8
 combinationpvalues: 0.1.4
 combinedevents: 0.1.1
@@ -10549,7 +10553,7 @@ distro: 0.1.0
 distrom: 1.0.1
 distrr: 0.0.6
 disttools: 0.1.8
-dittodb: 0.1.3
+dittodb: 0.1.4
 div: 0.3.1
 divDyn: 0.8.1
 divagis: 1.0.0
@@ -10698,7 +10702,7 @@ drawExpression: '1.0'
 drawer: 0.2.0.0
 drawsample: 1.0.0
 drc: 3.0-1
-drda: 1.0.0
+drda: 2.0.0
 dreamer: 3.0.0
 dreamerr: 1.2.3
 drf: 1.1.0
@@ -11469,7 +11473,7 @@ fANCOVA: 0.6-1
 fArma: '3042.81'
 fAsianOptions: '3042.82'
 fAssets: '3042.84'
-fBasics: 3042.89.1
+fBasics: 3042.89.2
 fBonds: '3042.78'
 fCalendar: '270.78'
 fCertificates: 0.5-4
@@ -11484,7 +11488,7 @@ fHMM: 1.0.2
 fICA: 1.1-2
 fImport: '3042.85'
 fMRIscrub: 0.8.6
-fMultivar: 3042.80.1
+fMultivar: 3042.80.2
 fNonlinear: '3042.79'
 fOptions: '3042.86'
 fPortfolio: 3042.83.1
@@ -11656,7 +11660,7 @@ fda.usc: 2.0.2
 fdaACF: 1.0.0
 fdaMixed: '0.6'
 fdaMocca: 0.1-0
-fdaPDE: 1.1-7
+fdaPDE: 1.1-8
 fdaPOIFD: 1.0.3
 fdacluster: 0.1.1
 fdadensity: 0.1.2
@@ -11852,7 +11856,7 @@ flexmixNL: 0.0.1
 flexpolyline: 0.2.5
 flexrsurv: 2.0.8
 flexsurv: '2.1'
-flexsurvcure: 1.2.0
+flexsurvcure: 1.3.0
 flextable: 0.7.2
 flifo: 0.1.5
 flightplanning: 0.8.4
@@ -12482,7 +12486,7 @@ geophys: 1.4-1
 georob: 0.3-9
 geos: 0.1.3
 geosample: 0.2.1
-geosapi: 0.6-2
+geosapi: 0.6-3
 geoscale: '2.0'
 geosed: 0.1.1
 geosimilarity: '1.1'
@@ -13639,7 +13643,7 @@ iai: 1.7.0
 ialiquor: 0.1.0
 iarm: 0.4.2
 ib: 0.2.0
-ibawds: 0.4.0
+ibawds: 0.5.0
 ibb: 0.0.2
 ibd: '1.5'
 ibdreg: 0.3.6
@@ -14875,6 +14879,7 @@ logmult: 0.7.4
 lognorm: 0.1.10
 logr: 1.3.0
 logregperm: '1.0'
+logrx: 0.1.0
 logspline: 2.1.17
 lokern: 1.1-9
 lolR: '2.1'
@@ -15773,7 +15778,7 @@ mlr3viz: 0.5.9
 mlrCPO: 0.3.7-3
 mlrMBO: 1.1.5
 mlrintermbo: 0.5.0
-mlrpro: 0.1.0
+mlrpro: 0.1.1
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlt: 1.4-1
@@ -16153,7 +16158,7 @@ multilevel: '2.7'
 multilevelMatching: 1.0.0
 multilevelPSA: 1.2.5
 multilevelTools: 0.1.1
-multilevelmod: 0.2.0
+multilevelmod: 1.0.0
 multilinguer: 0.2.2
 multilm: '0.1'
 multimark: 2.1.4
@@ -16571,7 +16576,7 @@ nmslibR: 1.0.6
 nmw: 0.1.4
 nnDiag: 0.0-5
 nnGarrote: 1.0.4
-nnTensor: 1.1.6
+nnTensor: 1.1.7
 nna: 0.0.2.1
 nnc: '1.14'
 nncRda: '1.87'
@@ -17513,6 +17518,7 @@ pfa: '1.1'
 pfda: 1.0.0
 pfica: 0.1.2
 pflamelet: 0.1.1
+pfocal: 1.0.0
 pgTools: 0.1.0
 pga: 0.1-1
 pgam: 0.4.15
@@ -17696,6 +17702,7 @@ pkgndep: 1.1.4
 pkgnet: 0.4.2
 pkgnews: 0.0.2
 pkgsearch: 3.1.0
+pkgstats: 0.0.5
 pkgutils: 0.6.0
 pkgverse: 0.0.1
 pkmon: '1.0'
@@ -18134,7 +18141,7 @@ processcontrol: 0.1.0
 processdata: '0.8'
 processmapR: 0.3.4
 processmonitR: 0.1.0
-processx: 3.6.0
+processx: 3.6.1
 procmaps: 0.0.4
 prodest: 1.0.1
 prodigenr: 0.6.1
@@ -18460,6 +18467,7 @@ qtpaint: 0.9.1
 qtutils: 0.1-3
 quRan: 0.1.0
 quad: '1.0'
+quadcleanR: 1.0.0
 quadmatrix: 0.1.0
 quadmesh: 0.5.0
 quadprog: 1.5-8
@@ -19008,7 +19016,7 @@ readmnist: 1.0.6
 readmoRe: 0.2-12
 readobj: 0.4.1
 readr: 2.1.2
-readrba: 0.1.2
+readrba: 0.1.3
 readroper: 0.9.3
 readsdmx: 0.3.0
 readsdr: 0.2.0
@@ -19112,6 +19120,7 @@ rego: 1.5.2
 regplot: '1.1'
 regport: 0.3.0
 regpro: 0.1.1
+regr.easy: 1.0.0
 regrap: 1.0.1
 regress: 1.3-21
 regressoR: 2.0.1
@@ -19189,7 +19198,7 @@ repo: 2.1.5
 repoRter.nih: 0.1.3
 repolr: '3.4'
 report: 0.5.1
-reportROC: '3.5'
+reportROC: '3.6'
 reportReg: 0.3.0
 reportRx: '1.0'
 reporter: 1.3.1
@@ -19236,7 +19245,7 @@ restez: 1.0.0
 restfulr: 0.0.15
 restimizeapi: 1.0.0
 restlos: 0.2-2
-restoptr: 1.0.0
+restoptr: 1.0.1
 restorepoint: '0.2'
 restrictedMVN: '1.0'
 restriktor: 0.3-500
@@ -20452,6 +20461,7 @@ shapper: 0.1.3
 shapr: 0.2.0
 shapviz: 0.1.0
 shar: 1.3.2
+sharp: 1.1.0
 sharpData: '1.4'
 sharpPen: '1.7'
 sharpeRratio: '1.4'
@@ -20769,7 +20779,7 @@ skm: 0.1.5.4
 skmeans: 0.2-14
 sknifedatar: 0.1.2
 skpr: 1.1.4
-skynet: 1.4.2
+skynet: 1.4.3
 skyscapeR: 1.0.0
 sla: '0.1'
 slackr: 3.2.0
@@ -21085,7 +21095,7 @@ spatialnbda: '1.0'
 spatialprobit: '1.0'
 spatialreg: 1.2-3
 spatialrisk: 0.7.0
-spatialsample: 0.1.0
+spatialsample: 0.2.0
 spatialsegregation: '2.45'
 spatialwarnings: 3.0.3
 spatialwidget: 0.2.3
@@ -22709,6 +22719,7 @@ untb: 1.7-4
 unusualprofile: 0.1.0
 unvotes: 0.3.0
 upclass: '2.0'
+updater: 0.1.0
 updog: 2.1.2
 uplift: 0.3.5
 uplifteval: 0.1.0
@@ -22849,7 +22860,7 @@ vcd: 1.4-10
 vcdExtra: 0.8-0
 vcf2geno: '2.3'
 vcfR: 1.12.0
-vcmeta: 1.0.0
+vcmeta: 1.1.0
 vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.0.2
@@ -23109,7 +23120,7 @@ wec: 0.4-1
 weco: '1.2'
 wedge: 1.0-3
 weed: 1.1.1
-wehoop: 1.2.1
+wehoop: 1.5.0
 weibull4: 1.0.0
 weibullness: 1.19.8
 weibulltools: 2.0.0
@@ -23414,7 +23425,7 @@ zeallot: 0.1.0
 zebu: 0.2.0.0
 zeitgebr: 0.3.5
 zeligverse: 0.1.1
-zen4R: '0.6'
+zen4R: 0.6-1
 zendeskR: '0.4'
 zenplots: 1.0.4
 zeroEQpart: 0.1.0
