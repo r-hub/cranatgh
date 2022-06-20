@@ -620,7 +620,7 @@ BeyondBenford: '1.4'
 Bhat: 0.9-12
 BiBitR: 0.3.1
 BiCausality: 0.1.1
-BiDAG: 2.0.7
+BiDAG: 2.0.9
 BiDimRegression: 2.0.1
 BiG: 0.1.0
 BiGGR: '1.8'
@@ -1176,7 +1176,7 @@ ComparisonCR: 1.0.4
 ComparisonSurv: 1.1.0
 CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
-Compind: '2.4'
+Compind: '2.5'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 Compositional: '5.6'
@@ -1876,7 +1876,7 @@ ElliptCopulas: 0.1.3
 EloChoice: 0.29.4
 EloOptimized: 0.3.1
 EloRating: 0.46.11
-ElstonStewart: '1.1'
+ElstonStewart: '1.2'
 EmbedSOM: 2.1.1
 Emcdf: 0.1.2
 EmiR: 1.0.3
@@ -2196,7 +2196,7 @@ FlyingR: 0.2.0
 FlywayNet: 0.1.0
 FoReco: 0.2.4
 ForIT: 2.0.1
-ForImp: 1.0.3
+ForImp: '1.0'
 ForeCA: 0.2.7
 ForecastComb: 1.3.1
 ForecastCombinations: '1.1'
@@ -2803,7 +2803,7 @@ IBHM: 1.1-11
 IBMPopSim: 0.3.1
 IBrokers: 0.10-1
 IC2: '1.0'
-ICAFF: 1.0.1
+ICAFF: '1.0'
 ICAMS: 2.3.10
 ICAOD: 1.0.1
 ICBayes: '1.2'
@@ -3750,7 +3750,7 @@ MWRidge: 1.0.0
 MWright: 0.3.2
 MXM: 1.5.4
 MaOEA: 0.6.2
-MaXact: 0.2.1
+MaXact: '0.2'
 MachineLearning: 0.1.4
 MachineShop: 3.5.0
 Maeswrap: '1.7'
@@ -4473,7 +4473,7 @@ PIGShift: 1.0.1
 PIN: '0.8'
 PINSPlus: 2.0.6
 PINstimation: 0.1.0
-PIPS: 1.0.1
+PIPS: '1.0'
 PK: 1.3-5
 PKI: 0.1-11
 PKLMtest: 1.0.1
@@ -4986,7 +4986,7 @@ RANKS: '1.0'
 RANN: 2.6.1
 RANN.L1: '2.5'
 RAP: '1.1'
-RAPIDR: 0.1.1
+RAPIDR: '0.1'
 RAPTOR: 1.0.1
 RAQSAPI: 2.0.3
 RAT: 0.3.0
@@ -5590,7 +5590,7 @@ RcmdrPlugin.qual: 2.2.6
 RcmdrPlugin.sampling: '1.1'
 RcmdrPlugin.seeg: '1.0'
 RcmdrPlugin.sos: 0.3-0
-RcmdrPlugin.steepness: 0.3-2
+RcmdrPlugin.steepness: '0.3'
 RcmdrPlugin.survival: 1.2-2
 RcmdrPlugin.sutteForecastR: 1.0.0
 RcmdrPlugin.temis: 0.7.10
@@ -6619,7 +6619,7 @@ SteinIV: 0.1-1
 SteinerNet: 3.1.0
 Stem: '1.0'
 StempCens: 1.1.0
-StepBeta: 1.0.0
+StepBeta: 1.0.1
 StepReg: 1.4.3
 StepSignalMargiLike: 2.6.0
 SteppedPower: 0.3.1
@@ -7034,7 +7034,7 @@ UBCRM: 1.0.2
 UBL: 0.0.7
 UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.1.8
-UCSCXenaTools: 1.4.7
+UCSCXenaTools: 1.4.8
 UComp: 2.2.2
 UKB.COVID19: 0.1.3
 UKFE: 0.2.2
@@ -7265,7 +7265,7 @@ WilcoxCV: 1.0-2
 WinRatio: '1.0'
 WindCurves: '0.2'
 Wmisc: 0.3.4
-WoodSimulatR: 0.5.0
+WoodSimulatR: 0.6.0
 WoodburyMatrix: 0.0.1
 WordOfMouth: 1.1.0
 WordPools: 1.1-1
@@ -7487,7 +7487,7 @@ adklakedata: 0.6.1
 adlift: 1.4-3
 admiral: 0.7.0
 admiral.test: 0.2.0
-admisc: '0.28'
+admisc: '0.29'
 admix: 0.4.0
 admixr: 0.9.1
 admixturegraph: 1.0.2
@@ -8743,7 +8743,7 @@ bundesbank: 0.1-9
 bundesligR: 0.1.0
 bupaR: 0.4.4
 burnr: 0.6.1
-bursts: 1.0-1
+bursts: '1.0'
 busdater: 0.2.0
 bustt: 0.1.0
 butcher: 0.2.0
@@ -9665,7 +9665,7 @@ corona: 0.3.0
 coronavirus: 0.3.31
 corpcor: 1.6.10
 corpora: 0.5-1
-corporaexplorer: 0.8.5
+corporaexplorer: 0.8.6
 corpus: 0.10.2
 corpustools: 0.4.10
 corr2D: 1.0.2
@@ -10014,7 +10014,7 @@ cyjShiny: 1.0.34
 cylcop: 0.1.0
 cymruservices: 0.5.0
 cyphid: '1.1'
-cyphr: 1.1.2
+cyphr: 1.1.4
 cystiSim: 0.1.0
 cytoDiv: 0.5-3
 cytofan: 0.1.0
@@ -10345,6 +10345,7 @@ detectR: 0.1.0
 detectRUNS: 0.9.6
 detector: 0.1.0
 detectseparation: '0.2'
+detourr: 0.1.0
 detpack: 1.1.3
 detrendeR: 1.0.5
 detrendr: 0.6.14
@@ -10454,7 +10455,7 @@ digitTests: 0.1.2
 digitalDLSorteR: 0.3.0
 digitalPCR: 1.1.0
 digitize: 0.0.4
-dils: 0.8.1
+dils: '0.8'
 dimRed: 0.2.5
 dimensio: 0.2.2
 dimensionalAnalysis: 0.1.0
@@ -10746,7 +10747,7 @@ dsmisc: 0.3.3
 dsmodels: 1.1.0
 dsos: 0.1.0
 dsr: 0.2.2
-dsrTest: 0.2.1
+dsrTest: 1.0.0
 dssd: 0.3.3
 dst: 1.5.1
 dstack: 0.2.1
@@ -11063,7 +11064,7 @@ elasticnet: '1.3'
 elasticsearchr: 0.3.1
 elbird: 0.2.3
 elec: 0.1.2.2
-elec.strat: 0.1.1
+elec.strat: '0.1'
 elect: '1.2'
 elections: '1.0'
 electionsBR: 0.3.2
@@ -11575,7 +11576,7 @@ fastCorrDiff: '0.5'
 fastDummies: 1.6.3
 fastGHQuad: 1.0.1
 fastGraph: '2.1'
-fastHICA: 1.0.2
+fastHICA: '1.0'
 fastHorseshoe: 0.1.0
 fastICA: 1.2-3
 fastJT: 1.0.6
@@ -13648,7 +13649,7 @@ ibb: 0.0.2
 ibd: '1.5'
 ibdreg: 0.3.6
 ibdsim2: 1.5.0
-ibeemd: 1.0.1
+ibeemd: '1.0'
 ibelief: 1.3.1
 ibm: 0.1.0
 ibmAcousticR: 0.2.1
@@ -14010,6 +14011,7 @@ ipr: 0.1.0
 ipred: 0.9-13
 iprior: 0.7.3
 ips: 0.0.11
+ipsecr: 1.1.1
 iptmnetr: 0.1.8
 iptools: 0.7.2
 ipumsr: 0.5.0
@@ -14062,7 +14064,7 @@ isocir: 2.0-7
 isodistrreg: 0.1.0
 isogeochem: 1.0.9
 isokernel: 0.1.0
-isopam: 0.9-13
+isopam: 0.9-9
 isopat: '1.0'
 isoph: '1.1'
 isoreader: 1.3.2
@@ -14854,7 +14856,7 @@ logbin: 2.0.5
 logconPH: '1.5'
 logconcens: 0.17-0
 logcondens: 2.1.6
-logcondens.mode: 1.0.1
+logcondens.mode: '1.0'
 logcondiscr: 1.0.6
 logger: 0.2.2
 logging: 0.10-108
@@ -15144,7 +15146,7 @@ margaret: 0.1.3
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
-marginaleffects: 0.5.0
+marginaleffects: 0.6.0
 marginalizedRisk: 2021.2-4
 marginalmodelplots: 0.4.2
 margins: 0.3.26
@@ -15701,7 +15703,7 @@ mixor: 1.0.4
 mixpack: 0.3.6
 mixpoissonreg: 1.0.0
 mixreg: 2.0-10
-mixsep: 0.2.1-2
+mixsep: '0.2'
 mixsmsn: 1.1-10
 mixsqp: 0.3-43
 mixstock: '0.9'
@@ -17278,7 +17280,7 @@ partitions: 1.10-4
 partools: 1.1.6
 partsm: 1.1-3
 party: 1.3-10
-partykit: 1.2-15
+partykit: 1.2-16
 parviol: '1.1'
 parzer: 0.4.1
 pasadr: '1.0'
@@ -17290,7 +17292,7 @@ password: 1.0-0
 pasta: 0.1.0
 pasteAsComment: 0.2.0
 pastecs: 1.3.21
-pastis: 0.1-2
+pastis: '0.1'
 patPRO: 1.1.0
 patchDVI: 1.10.1
 patchPlot: 0.1.5
@@ -17475,7 +17477,7 @@ perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
 perfectphyloR: 0.2.1
-performance: 0.9.0
+performance: 0.9.1
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 1.0.1
@@ -18402,7 +18404,7 @@ qlcal: 0.0.2
 qle: '0.18'
 qlspack: '2.2'
 qmap: 1.0-4
-qmd: 1.0.0
+qmd: 1.1.0
 qmethod: '1.8'
 qmix: 0.1.2.0
 qmrparser: 0.1.6
@@ -18504,7 +18506,7 @@ quantregForest: 1.3-7
 quantregGrowth: 1.4-0
 quantregRanger: '1.0'
 quantspec: 1.2-3
-quarks: 1.1.1
+quarks: 1.1.2
 quarrint: 1.0.0
 quarto: '1.1'
 quaternions: '0.2'
@@ -18543,7 +18545,7 @@ r.proxy: 0.1.0
 r02pro: '0.1'
 r2d2: 1.0.1
 r2d3: 0.2.6
-r2dRue: 1.0.4
+r2dRue: '1.0'
 r2dictionary: '0.1'
 r2dii.analysis: 0.2.0
 r2dii.data: 0.3.0
@@ -18774,7 +18776,7 @@ randomizr: 0.22.0
 randomsearch: 0.2.0
 randquotes: 0.1.1
 randstr: 0.2.0
-randtests: '1.0'
+randtests: 1.0.1
 randtoolbox: 2.0.1
 rangeBuilder: '1.5'
 rangeMapper: 2.0.2
@@ -18860,7 +18862,7 @@ rbart: '1.0'
 rbcb: 0.1.10
 rbch: 0.1-1
 rbedrock: 0.2.0
-rbefdata: 0.3.5
+rbefdata: '0.3'
 rbenchmark: 1.0.0
 rbenvo: 1.0.5
 rbgm: 0.1.0
@@ -19201,7 +19203,7 @@ report: 0.5.1
 reportROC: '3.6'
 reportReg: 0.3.0
 reportRx: '1.0'
-reporter: 1.3.1
+reporter: 1.3.3
 reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
@@ -19331,6 +19333,7 @@ rggm: 1.0.1
 rggobi: 2.1.9
 rgho: 2.0.2
 rgl: 0.109.2
+rgl2gltf: 1.0.0
 rglobi: 0.2.27
 rglplus: '1.0'
 rglwidget: 0.2.1
@@ -19575,7 +19578,7 @@ robustX: 1.2-5
 robustarima: 0.2.6
 robustbase: 0.95-0
 robustcov: '0.1'
-robustfa: 1.0-5
+robustfa: '1.0'
 robustgam: 0.1.7
 robustlm: 0.1.0
 robustlmm: 2.5-1
@@ -22508,7 +22511,7 @@ tsapp: 1.0.4
 tsbox: 0.3.1
 tsbridge: '1.1'
 tsbugs: '1.2'
-tsc: 1.0-3
+tsc: '1.0'
 tscopula: 0.3.1
 tscount: 1.4.3
 tsdb: 1.0-0
@@ -22562,7 +22565,7 @@ ttservice: 0.1.2
 ttt: '1.0'
 tttplot: 1.1.1
 ttutils: 1.0-1.1
-ttwa: 0.8.5.1
+ttwa: 0.8.5
 tuber: 0.9.9
 tubern: 0.1.0
 tuckerR.mmgg: 1.5.1
@@ -23195,7 +23198,7 @@ windsoraiR: 0.1.2
 winfapReader: 0.1-3
 wingui: '0.2'
 wiod: 0.3.0
-wiqid: 0.3.0
+wiqid: 0.3.1
 wiseR: 1.0.1
 wiserow: 0.1.0
 withr: 2.5.0
