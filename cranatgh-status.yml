@@ -627,7 +627,7 @@ BiGGR: '1.8'
 BiProbitPartial: 1.0.3
 BiSEp: '2.2'
 BiTrinA: '1.3'
-BiasCorrector: 0.2.1
+BiasCorrector: 0.2.2
 BiasedUrn: '1.07'
 BibPlots: 0.0.8
 BifactorIndicesCalculator: 0.2.2
@@ -936,6 +936,7 @@ CPP: 0.1.0
 CPsurv: 1.0.0
 CR: '1.0'
 CR2: 0.1.1
+CRABS: 1.1.0
 CRAC: '1.0'
 CRANsearcher: 1.0.0
 CREAM: 1.1.1
@@ -1413,7 +1414,7 @@ DIscBIO: 1.2.0
 DJL: '3.8'
 DLASSO: 2.0.2
 DLL: 1.0.0
-DLMtool: 6.0.5
+DLMtool: 6.0.6
 DLPCA: 0.0.2
 DMCfun: 2.0.2
 DMLLZU: 0.1.1
@@ -1548,7 +1549,7 @@ DeRezende.Ferreira: 0.1.0
 DealGPL570: 0.2.0
 DecisionAnalysis: 1.1.0
 DecisionCurve: '1.4'
-DeclareDesign: 0.30.0
+DeclareDesign: 1.0.0
 DecomposeR: 1.0.4
 DecorateR: 0.1.2
 Deducer: 0.7-9
@@ -3521,7 +3522,7 @@ MEGENA: 1.3.7
 MEMSS: 0.9-3
 MEPDF: '3.0'
 MERO: 0.1.1
-MESS: 0.5.7
+MESS: 0.5.9
 MEWMA: '1.0'
 MEclustnet: 1.2.2
 MEtest: '1.1'
@@ -3756,6 +3757,7 @@ MachineShop: 3.5.0
 Maeswrap: '1.7'
 MagmaClustR: 1.0.0
 MagneticMap: '1.0'
+MainExistingDatasets: 1.0.0
 MajKMeans: 0.1.0
 MakeYourPalette: 0.1.3
 MakefileR: '1.0'
@@ -4433,7 +4435,7 @@ PCMRS: 0.1-4
 PCObw: 0.0.0
 PCPS: 1.0.7
 PCRedux: 1.1-2
-PCS: '1.2'
+PCS: '1.3'
 PCSinR: 0.1.0
 PCovR: 2.7.1
 PDE: 1.4.0
@@ -5030,6 +5032,7 @@ RCRnorm: 0.0.2
 RCSF: 1.0.2
 RCSL: 0.99.95
 RCT: 1.1.2
+RCTS: 0.2.2
 RCarb: 0.1.5
 RCassandra: 0.1-3
 RChest: 1.0.3
@@ -5090,7 +5093,7 @@ RFGLS: '1.1'
 RFLPtools: '2.0'
 RFOC: 3.4-6
 RFc: 0.1-2
-RFclust: 0.1.1
+RFclust: 0.1.2
 RFgroove: '1.1'
 RFinanceYJ: 0.3.1
 RFinfer: 0.2.0
@@ -5347,7 +5350,7 @@ RSAP: '0.9'
 RSAgeo: '1.2'
 RSAlgaeR: 1.0.0
 RSBJson: 1.1.2
-RSC: 2.0.1
+RSC: 2.0.2
 RSCABS: 0.9.5
 RSCAT: 1.1.3
 RSDA: 3.0.9
@@ -6552,7 +6555,7 @@ SpatialGEV: 1.0.0
 SpatialGraph: 1.0-2
 SpatialKDE: 0.7.0
 SpatialKWD: 0.4.0
-SpatialML: 0.1.3
+SpatialML: 0.1.4
 SpatialNP: 1.1-5
 SpatialPOP: 0.1.0
 SpatialPack: 0.3-8196
@@ -9763,7 +9766,7 @@ cpa: 1.0.1
 cpca: 0.1.2
 cpcens: 0.1.0
 cpd: 0.1.0
-cpfa: 1.0-3
+cpfa: 1.0-4
 cpgen: '0.1'
 cpi: 0.1.4
 cpk: 1.3-1
@@ -10234,7 +10237,7 @@ decido: 0.3.0
 decision: 0.1.0
 decisionSupport: '1.111'
 deckgl: 0.2.7
-declared: '0.16'
+declared: '0.17'
 decode: '1.2'
 decoder: 1.2.2
 decomposedPSF: '0.2'
@@ -10254,7 +10257,7 @@ deepboost: 0.1.6
 deepdep: 0.4.1
 deepdive: 1.0.4
 deepgmm: 0.1.62
-deepgp: 1.0.0
+deepgp: 1.0.1
 deeplearning: 0.1.0
 deeplr: 2.0.0
 deepnet: '0.2'
@@ -14095,7 +14098,7 @@ its: 1.1.8
 its.analysis: 1.6.0
 itsadug: 2.4.1
 itscalledsoccer: 0.2.0
-itsdm: 0.1.1
+itsdm: 0.1.2
 itsmr: '1.9'
 itunesr: '0.1'
 iv: 0.1.2
@@ -15709,7 +15712,7 @@ mixsqp: 0.3-43
 mixstock: '0.9'
 mixtNB: '1.0'
 mixtools: 1.2.0
-mixtox: 1.3.2
+mixtox: 1.4.0
 mixtur: 1.2.0
 mixture: 2.0.4
 mize: 0.2.4
@@ -16258,7 +16261,7 @@ mvord: 1.1.1
 mvoutlier: 2.1.1
 mvp: 1.0-12
 mvpart: 1.6-2
-mvpd: 0.0.2
+mvpd: 0.0.3
 mvprpb: 1.0.4
 mvrsquared: 0.1.4
 mvrtn: '1.0'
@@ -16631,7 +16634,7 @@ nonmemica: 0.9.7
 nonneg.cg: 0.1.6-1
 nonnest2: 0.5-5
 nonpar: 1.0.2
-nonparaeff: 0.5-8
+nonparaeff: 0.5-13
 nonparametric.bayes: 0.0.1
 nonrandom: '1.4'
 nontarget: '1.9'
@@ -17133,7 +17136,7 @@ pack: 0.1-1
 packClassic: '0.5'
 packDAMipd: 0.2.2
 packHV: '2.2'
-packMBPLSDA: 0.8.0
+packMBPLSDA: 0.9.0
 packS4: '0.9'
 packageDiff: '0.1'
 packageRank: 0.6.0
@@ -18586,7 +18589,7 @@ rBDAT: 0.9.8
 rBMF: '1.1'
 rBayesianOptimization: 1.2.0
 rBeta2009: '1.0'
-rBiasCorrection: 0.3.3
+rBiasCorrection: 0.3.4
 rCAT: 0.1.6
 rCBA: 0.4.3
 rCMA: '1.1'
@@ -18646,7 +18649,7 @@ rLandsat: 0.1.1
 rLiDAR: 0.1.5
 rLindo: 8.0.1
 rMEA: 1.2.2
-rMIDAS: 0.4.0
+rMIDAS: 0.4.1
 rMR: 1.1.0
 rMVP: 1.0.6
 rMisbeta: '1.0'
@@ -18839,7 +18842,7 @@ ratios: 1.2.0
 rattle: 5.5.1
 rattle.data: 1.0.2
 raustats: 0.15.0
-raveio: 0.0.6
+raveio: 0.0.7
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
 ravetools: 0.0.4
@@ -20267,7 +20270,7 @@ secuTrialR: 1.0.9
 secure: '0.6'
 securitytxt: 0.1.1
 sedproxy: 0.7.3
-see: 0.7.0
+see: 0.7.1
 seeclickfixr: 1.1.0
 seecolor: 0.1.0
 seedCCA: '3.1'
@@ -22644,7 +22647,7 @@ ubiquity: 2.0.0
 ubms: 1.1.0
 ucbthesis: '1.0'
 uchardet: 1.1.0
-ucie: 1.0.1
+ucie: 1.0.2
 uclust: 1.0.0
 ucminf: 1.1-4
 udapi: 0.1.3
@@ -23073,7 +23076,7 @@ wavelets: 0.3-0.2
 wavemulcor: 3.1.2
 waver: 0.2.1
 waves: 0.2.4
-waveslim: 1.8.2
+waveslim: 1.8.3
 wavethresh: 4.6.9
 wayback: 0.2.4
 waydown: 1.1.0
