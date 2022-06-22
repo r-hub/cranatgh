@@ -1121,7 +1121,7 @@ ClusterR: 1.2.6
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.3
 ClusteredMutations: 1.0.1
-Clustering: '1.7'
+Clustering: 1.7.7
 CoClust: 0.3-2
 CoCo: 0.1.7.6
 CoCoAn: 1.0-2
@@ -1180,7 +1180,7 @@ CompetingRiskFrailty: '2.0'
 Compind: '2.5'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
-Compositional: '5.6'
+Compositional: '5.7'
 CompoundEvents: 0.1.0
 Compounding: '1.0'
 ConConPiWiFun: 0.4.6.1
@@ -2280,7 +2280,7 @@ GARCOM: 1.2.0
 GAS: 0.3.4
 GAabbreviate: '1.3'
 GAparsimony: 0.9.4
-GB2: '2.1'
+GB2: 2.1.1
 GB2group: 0.3.0
 GBJ: 0.5.3
 GBcurves: 0.1.6
@@ -2515,6 +2515,7 @@ GeneralTree: 0.0.1
 GeneralisedCovarianceMeasure: 0.2.0
 GeneralizedHyperbolic: 0.8-4
 GeneralizedUmatrix: 1.2.4
+GeneralizedWendland: 0.5-2
 GenericML: 0.2.2
 GeneticSubsetter: '0.8'
 GeneticTools: '0.3'
@@ -2593,7 +2594,7 @@ GraphFactor: '1.1'
 GraphKit: '0.5'
 GraphPCA: '1.1'
 GrapheR: 1.9-86-3
-GrassmannOptim: '2.0'
+GrassmannOptim: 2.0.1
 GreedyEPL: '1.2'
 GreedyExperimentalDesign: '1.4'
 GreedyExperimentalDesignJARs: '1.0'
@@ -2732,7 +2733,7 @@ Hankel: 0.0-1
 HapEstXXR: 0.1-8
 Hapi: 0.0.3
 Haplin: 7.3.0
-HaploSim: 1.8.4
+HaploSim: 1.8.4.1
 HardyWeinberg: 1.7.5
 HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
@@ -2834,7 +2835,7 @@ ICV: '1.0'
 ICcalib: 1.0.8
 ICcforest: 0.5.1
 ICglm: 0.1.0
-ICsurv: '1.0'
+ICsurv: 1.0.1
 ICtest: 0.3-5
 ICvectorfields: 0.1.2
 IDCard: 0.3.0
@@ -3082,7 +3083,7 @@ JavaGD: 0.6-4
 Jaya: 0.1.9
 Jdmbs: '1.4'
 JirAgileR: 0.0.2.1
-Jmisc: 0.3.1
+Jmisc: 0.3.1.1
 JoF: 0.1.0
 JoSAE: 0.3.0
 Johnson: '1.4'
@@ -3781,7 +3782,7 @@ Markovchart: 2.1.5
 MarkowitzR: 1.0.2
 MaskJointDensity: '1.0'
 Massign: 1.1.0
-MasterBayes: '2.57'
+MasterBayes: '2.58'
 MatManlyMix: 1.1.1
 MatSkew: 0.1.5
 MatTransMix: 0.1.9
@@ -3968,7 +3969,7 @@ MonoPhy: '1.3'
 MonoPoly: 0.3-10
 Monte.Carlo.se: 0.1.0
 MonteCarlo: 1.0.6
-MonteCarloSEM: 0.0.4
+MonteCarloSEM: 0.0.5
 MoonFinder: 1.0.3
 Morpho: '2.9'
 MorphoTools2: 1.0.0.0
@@ -4162,6 +4163,7 @@ NUCOMBog: 1.0.4.2
 NVCSSL: '1.0'
 NameNeedle: 1.2.6
 NanoStringNorm: 1.2.1
+NasdaqDataLink: 1.0.0
 NatureSounds: 1.0.4
 NbClust: 3.0.1
 NeMo: '1.0'
@@ -4339,6 +4341,7 @@ OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.1
 OpenSpecy: 0.9.3
 OpenStreetMap: 0.3.4
+OpenTreeChronograms: 2022.1.28
 Opportunistic: '1.2'
 Opt5PL: 0.1.1
 OptCirClust: 0.0.4
@@ -4501,7 +4504,7 @@ PLORN: 0.1.1
 PLRModels: '1.1'
 PLSbiplot1: '0.1'
 PLSiMCpp: 1.0.2
-PLmixed: 0.1.5
+PLmixed: 0.1.6
 PLordprob: '1.1'
 PLreg: 0.2.0
 PMA: 1.2.1
@@ -4568,7 +4571,7 @@ PRSim: 1.4-1
 PReMiuM: 3.2.7
 PResiduals: 1.0-1
 PSAboot: '1.1'
-PSAgraphics: 2.1.1
+PSAgraphics: 2.1.1.1
 PSCBS: 0.66.0
 PSCN: '1.0'
 PSF: '0.5'
@@ -5177,7 +5180,7 @@ RKEEL: 1.3.3
 RKEELdata: 1.0.5
 RKEELjars: 1.0.20
 RKHSMetaMod: '1.1'
-RKUM: 0.1.1
+RKUM: 0.1.1.1
 RKelly: '1.0'
 RKlout: '1.0'
 RKorAPClient: 0.7.2
@@ -5574,7 +5577,7 @@ RcmdrPlugin.SM: 0.3.1
 RcmdrPlugin.SensoMineR: '1.11'
 RcmdrPlugin.StatisticalURV: 1.0-1
 RcmdrPlugin.SurvivalT: 1.0-7
-RcmdrPlugin.TeachStat: 1.1.0
+RcmdrPlugin.TeachStat: 1.1.1
 RcmdrPlugin.TeachingDemos: 1.2-0
 RcmdrPlugin.TextMining: 0.1-0
 RcmdrPlugin.UCA: 5.1-1
@@ -6591,7 +6594,7 @@ SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
 SqlRender: 1.9.0
-SqueakR: 1.0.0
+SqueakR: 1.2.5
 Sshaped: '1.0'
 Sstack: 1.0.1
 StAMPP: 1.6.3
@@ -6781,7 +6784,7 @@ TMB: 1.9.0
 TMDb: '1.1'
 TMTI: 0.1.0
 TNC: 0.1.0
-TNRS: 0.3.0
+TNRS: 0.3.1
 TOC: 0.0-5
 TOHM: '1.4'
 TORDs: 1.0.0
@@ -7887,7 +7890,7 @@ asuR: 0.08-24
 asus: 1.0.0
 asylum: 1.0.1
 asymLD: '0.1'
-asymmetry: 2.0.3
+asymmetry: 2.0.4
 asymmetry.measures: '0.2'
 asympTest: 0.1.4
 asymptor: '1.0'
@@ -8050,7 +8053,7 @@ bang: 1.0.1
 bannerCommenter: 1.0.0
 banter: 0.9.5
 banxicoR: 0.9.0
-bapred: '1.0'
+bapred: '1.1'
 barcode: 1.3.0
 bardr: 0.0.9
 bark: 0.1-0
@@ -8490,7 +8493,7 @@ bivquant: '0.1'
 bivrp: 1.2-2
 biwavelet: 0.20.21
 biwt: 1.0.1
-bizdays: 1.0.10
+bizdays: 1.0.11
 bizicount: 1.0.0
 bjscrapeR: 0.1.0
 bkmr: 0.2.2
@@ -9245,7 +9248,7 @@ climatol: 3.1.2
 climatrends: '0.2'
 climbeR: 0.0.1
 climdex.pcic: 1.1-11
-clime: 0.4.1
+clime: 0.5.0
 climextRemes: 0.2.2
 climtrends: 1.0.6
 climwin: 1.2.3
@@ -9260,7 +9263,7 @@ clinicalsignificance: 1.0.0
 clinmon: 0.6.0
 clinsig: '1.2'
 clinspacy: 1.0.2
-clintools: 0.9.3
+clintools: 0.9.4
 clipp: 1.1.0
 clipr: 0.8.0
 cliqueMS: 0.3.1
@@ -10990,6 +10993,7 @@ edgeRun: 1.0.9
 edgebundle: 0.3.1
 edgebundleR: 0.1.4
 edgedata: 0.2.0
+edibble: 0.1.0
 edina: 0.1.1
 editData: 0.1.8
 editrules: 2.9.3
@@ -11114,7 +11118,7 @@ emil: 2.2.8
 emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 1.7.4-1
+emmeans: 1.7.5
 emoa: 0.5-0.1
 emoji: 0.2.0
 emojifont: 0.5.5
@@ -11296,6 +11300,7 @@ eshrink: 0.1.2
 esmisc: 0.0.3
 esmprep: 0.2.0
 esotericR: '1.0'
+espadon: 1.0.4
 esquisse: 1.1.1
 esreg: 0.6.0
 ess: 1.1.2
@@ -11541,7 +11546,7 @@ factset.protobuf.stachextensions: 1.0.1
 factualR: '0.5'
 fad: 0.9-1
 fail: '1.3'
-fairadapt: 0.2.2
+fairadapt: 0.2.3
 fairml: 0.6.3
 fairmodels: 1.2.0
 fairness: 1.2.2
@@ -13154,7 +13159,7 @@ gtools: 3.9.2.2
 gtop: 0.2.0
 gtrendsR: 1.5.1
 gtsf: 0.1.0
-gtsummary: 1.6.0
+gtsummary: 1.6.1
 gtx: 0.0.8
 guaguas: 0.3.0
 guardianapi: 0.1.1
@@ -13491,7 +13496,7 @@ htdp: 0.1.4
 htestClust: 0.2.2
 htm2txt: 2.2.2
 html2R: 0.1.0
-html5: 0.1.0
+html5: 1.0.0
 htmlTable: 2.4.0
 htmldf: 0.5.0
 htmltab: 0.8.2
@@ -14142,6 +14147,7 @@ jackalope: 1.1.3
 jackknifeKME: '1.2'
 jackstrap: 0.1.0
 jackstraw: '1.3'
+jacobi: 1.0.0
 jacpop: '0.6'
 jaggR: 0.1.1
 jagsUI: 1.5.2
@@ -15574,7 +15580,7 @@ microclass: '1.2'
 microclustr: 0.1.0
 microcontax: '1.2'
 microdemic: 0.6.0
-microeco: 0.10.1
+microeco: 0.11.0
 microhaplot: 1.0.1
 micromap: 1.9.5
 micromapST: 1.1.3
@@ -16010,6 +16016,7 @@ mprobit: '0.9'
 mpspline2: 0.1.6
 mpt: 0.8-0
 mptools: 1.0.1
+mpwR: 0.1.0
 mr: '0.1'
 mr.raps: '0.2'
 mrMLM: 5.0.1
@@ -16130,6 +16137,7 @@ multcompView: 0.1-8
 multdyn: '1.6'
 multfisher: '1.1'
 multgee: 1.8.0
+multiActionButton: 1.0.0
 multiApply: 2.1.3
 multiAssetOptions: 0.1-2
 multiCA: '1.1'
@@ -16249,7 +16257,7 @@ mvctm: '1.2'
 mvcwt: '1.3'
 mvdalab: '1.6'
 mverse: 0.1.0
-mvgb: 0.0.2
+mvgb: 0.0.3
 mvglmmRank: 1.2-2
 mvgraph: '1.2'
 mvgraphnorm: '1.81'
@@ -16541,7 +16549,7 @@ nlmeVPC: '2.2'
 nlmixr: 2.0.7
 nlmixr2: 2.0.6
 nlmixr2data: 2.0.7
-nlmixr2est: 2.0.7
+nlmixr2est: 2.0.8
 nlmixr2extra: 2.0.6
 nlmixr2plot: 2.0.6
 nlmm: 1.0.1
@@ -17445,7 +17453,7 @@ pedgene: '3.3'
 pedigree: '1.4'
 pedigreeTools: '0.1'
 pedigreemm: 0.3-3
-pedmod: 0.2.2
+pedmod: 0.2.3
 pedmut: 0.3.0
 pedometrics: 0.12.1
 pedprobr: 0.7.0
@@ -17466,7 +17474,7 @@ penalizedLDA: '1.1'
 penalizedSVM: 1.1.3
 penalizedclr: 0.1.0
 penaltyLearning: 2020.5.13
-pencal: 1.2.0
+pencal: 1.2.1
 pencopula: '0.3'
 pencopulaCond: '0.2'
 pendensity: 0.2.13
@@ -18419,6 +18427,7 @@ qmd: 1.1.0
 qmethod: '1.8'
 qmix: 0.1.2.0
 qmrparser: 0.1.6
+qmvs: 0.1.1
 qoi: 0.0.3
 qoma.smuggler: 0.0.1
 qp: 0.3-2
@@ -18617,7 +18626,7 @@ rDataPipeline: 0.54.1
 rDecode: 0.1.0
 rDotNet: 0.9.1
 rDppDiversity: 0.0.2
-rEDM: 1.12.2
+rEDM: 1.13.0
 rEHR: '1.0'
 rEMM: 1.1.1
 rENA: 0.2.4
@@ -18866,7 +18875,7 @@ rayrender: 0.23.6
 rayshader: 0.24.10
 raytracing: 0.6.0
 rayvertex: 0.3.3
-rb3: 0.0.3
+rb3: 0.0.4
 rbace: 0.2.2
 rbacon: 2.5.8
 rbamtools: 2.9.2
@@ -18984,7 +18993,7 @@ rdian: 0.1.1
 rdist: 0.0.5
 rdiversity: 2.2.0
 rdlocrand: '1.0'
-rdmulti: '0.8'
+rdmulti: '0.9'
 rdnb: 0.1-5
 rdoc: 0.1.0
 rdomains: 0.2.1
@@ -19551,6 +19560,7 @@ rnpn: 1.2.5
 rnr: 0.2.1
 rnrfa: 2.0.4
 roadoi: 0.7.2
+roads: 1.0.0
 roahd: 1.4.3
 robCompositions: 2.3.1
 robFitConGraph: 0.1.0
@@ -20004,7 +20014,7 @@ sae2: 1.0-1
 saeBest: 0.1.0
 saeHB: 0.2.1
 saeHB.ME: '1.0'
-saeHB.ZIB: 0.1.0
+saeHB.ZIB: 0.1.1
 saeHB.gpois: 0.1.1
 saeHB.hnb: 0.1.1
 saeHB.panel: 0.1.1
@@ -20769,6 +20779,7 @@ sjdbc: 1.6.1
 sjlabelled: 1.2.0
 sjmisc: 2.8.9
 sjstats: 0.18.1
+sjtable2df: 0.0.2
 skatMeta: 1.4.3
 skater: 0.1.1
 skda: '0.1'
@@ -20843,7 +20854,7 @@ smartsnp: 1.1.0
 smatr: 3.4-8
 smbinning: '0.9'
 smcUtils: '0.2'
-smcfcs: 1.6.2
+smcfcs: 1.7.0
 smco: '0.1'
 smcure: '2.1'
 smd: 0.6.6
@@ -21038,7 +21049,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 1.22.0
+spant: 2.0.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -21234,6 +21245,7 @@ spls: 2.2-3
 splus2R: 1.3-3
 splusTimeDate: 2.5.3
 splusTimeSeries: 1.5.4
+splutil: 2022.6.20
 spm: 1.2.2
 spm12r: 2.8.3
 spm2: 1.1.2
@@ -21439,7 +21451,7 @@ statnetWeb: 0.5.6
 statnipokladna: 0.7.0
 statoo: 0.1.3
 statprograms: 0.2.0
-statpsych: 1.0.0
+statpsych: 1.1.0
 statquotes: 0.2.6
 stats19: 2.0.0
 statsDK: 0.1.1
