@@ -186,7 +186,7 @@ AdaptGauss: 1.5.6
 AdaptiveSparsity: '1.6'
 AdequacyModel: 2.0.0
 AdhereR: 0.8.0
-AdhereRViz: 0.2.0
+AdhereRViz: 0.2.1
 AdjBQR: '1.0'
 AdvBinomApps: '1.0'
 AdvDif4: 0.7.18
@@ -851,7 +851,7 @@ CIDnetworks: 0.8.1
 CIEE: 0.1.1
 CIFsmry: 1.0.1.1
 CIM: 1.0.0
-CIMTx: 1.1.0
+CIMTx: 1.2.0
 CINID: 1.3-0
 CINNA: 1.2.0
 CINOEDV: '2.0'
@@ -1534,7 +1534,7 @@ DataFrameConstr: 1.1-2
 DataGraph: 1.2.5
 DataLoader: '1.3'
 DataPackageR: 0.15.8
-DataSpaceR: 0.7.5
+DataSpaceR: 0.7.6
 DataVisualizations: 1.2.3
 DataViz: 0.2.8
 DatabaseConnector: 5.0.3
@@ -2408,7 +2408,7 @@ GPPFourier: '2.1'
 GPRMortality: 0.1.0
 GPSCDF: 0.1.1
 GPSeqClus: 1.2.0
-GPareto: 1.1.6
+GPareto: 1.1.7
 GPfit: 1.0-8
 GPlab: 0.1.0
 GPoM: '1.3'
@@ -2651,6 +2651,7 @@ HDOMDesign: 1.0-1
 HDPenReg: 0.94.8
 HDShOP: 0.1.2
 HDSpatialScan: 1.0.2
+HDStIM: 0.1.0
 HDTSA: 1.0.1
 HDclassif: 2.2.0
 HDclust: 1.0.3
@@ -2792,7 +2793,7 @@ HydroMe: 2.0-1
 HyperG: 1.0.0
 HyperbolicDist: 0.6-4
 HypergeoMat: 4.0.1
-IAPWS95: 1.1.0
+IAPWS95: 1.2.0
 IASD: '1.1'
 IAT: '0.3'
 IATScore: 0.1.1
@@ -4464,6 +4465,7 @@ PERregress: 1.0-8
 PET: 0.5.1
 PEkit: 1.0.0.1000
 PF: '9.5'
+PFIM: '5.0'
 PGEE: '1.5'
 PGICA: '1.0'
 PGM2: 1.0-1
@@ -6248,6 +6250,7 @@ SRMA: 1.0.0-2
 SRPM: '0.1'
 SRRS: '0.1'
 SRS: 0.2.3
+SRTsim: 0.99.2
 SRTtools: 1.2.0
 SSBtools: 1.3.3
 SSDL: '1.1'
@@ -7469,7 +7472,7 @@ addinsOutline: 0.1.6
 addinslist: 0.4.0
 additive: 0.0.5
 additiveDEA: '1.1'
-additivityTests: 1.1-4
+additivityTests: 1.1-4.1
 addreg: '3.0'
 ade4: 1.7-19
 ade4TkGUI: 0.3-1
@@ -8783,7 +8786,7 @@ c212: '0.98'
 c2c: 0.1.0
 c2d4u.tools: '1.2'
 c3: 0.3.0
-c3net: 1.1.1
+c3net: 1.1.1.1
 cAIC4: '1.0'
 cIRT: 1.3.2
 cMonkey: 4.9.2
@@ -8905,7 +8908,7 @@ cat: 0.0-7
 cat.dt: 0.3.1
 cat2cat: 0.4.1
 catIrt: 0.5.1
-catR: '3.16'
+catR: '3.17'
 catSplit: 0.1.0
 catSurv: 1.4.0
 cata: 0.0.10.9
@@ -10020,7 +10023,7 @@ cxhull: 0.6.0
 cxr: 1.0.0
 cxx: 0.0-3
 cxxPack: '7.0'
-cxxfunplus: '1.0'
+cxxfunplus: 1.0.1
 cyanoFilter: 0.1.3
 cycleRtools: 1.1.1
 cyclestreets: 0.5.3
@@ -10275,7 +10278,7 @@ deepgmm: 0.1.62
 deepgp: 1.0.1
 deeplearning: 0.1.0
 deeplr: 2.0.0
-deepnet: '0.2'
+deepnet: 0.2.1
 deepredeff: 0.1.1
 deepregression: '0.1'
 deeptime: 0.2.2
@@ -10370,7 +10373,7 @@ detpack: 1.1.3
 detrendeR: 1.0.5
 detrendr: 0.6.14
 detzrcr: 0.3.1
-devEMF: 4.0-2
+devEMF: '4.1'
 devFunc: '0.1'
 devRate: 0.2.1
 devoid: 0.1.1
@@ -10681,7 +10684,7 @@ dotwhisker: 0.7.4
 doubcens: '1.1'
 double.truncation: '1.7'
 doubt: 0.1.0
-downlit: 0.4.0
+downlit: 0.4.1
 downloader: '0.4'
 downloadthis: 0.3.1
 downscale: 4.2-0
@@ -12511,7 +12514,7 @@ georob: 0.3-9
 geos: 0.1.3
 geosample: 0.2.1
 geosapi: 0.6-3
-geoscale: '2.0'
+geoscale: 2.0.1
 geosed: 0.1.1
 geosimilarity: '1.1'
 geospacom: 0.5-8
@@ -12748,6 +12751,7 @@ ggtern: 3.3.5
 ggtext: 0.1.1
 ggthemes: 4.2.4
 ggtikz: 0.1.0
+ggtrace: 0.2.0
 ggtrendline: 1.0.3
 ggupset: 0.3.0
 ggvenn: 0.1.9
@@ -13533,7 +13537,7 @@ httr2: 0.2.1
 hudr: 1.1.0
 hues: 0.2.0
 huge: 1.3.5
-huito: 0.1.4
+huito: 0.2.0
 humanFormat: '1.0'
 humaniformat: 0.6.0
 humanize: 0.2.0
@@ -14748,7 +14752,7 @@ lineup: '0.40'
 lineup2: '0.6'
 lingglosses: 0.0.4
 lingmatch: 1.0.3
-lingtypology: 1.1.8
+lingtypology: 1.1.9
 linguisticsdown: 1.2.0
 link2GI: 0.4-7
 linkR: 1.1.1
@@ -14822,7 +14826,7 @@ lmem.qtler: 0.1.1
 lmenssp: '1.2'
 lmerTest: 3.1-3
 lmeresampler: 0.2.2
-lmf: '1.2'
+lmf: 1.2.1
 lmfor: '1.6'
 lmkCHK: 1.0.0
 lmls: 0.1.0
@@ -15144,7 +15148,7 @@ mapfit: 0.9.9
 mapfuser: 0.1.2
 mapi: 1.0.5
 maple: 0.99.5
-mapme.biodiversity: 0.1.1
+mapme.biodiversity: 0.1.2
 mapmisc: 1.8.0
 mapping: '1.3'
 mappings: '0.1'
@@ -16383,7 +16387,7 @@ nbpMatching: 1.5.1
 nc: 2020.8.6
 ncappc: 0.3.0
 ncar: 0.4.5
-ncbit: 2013.03.29
+ncbit: 2013.03.29.1
 ncdf: '1.6'
 ncdf.tools: 0.7.1.295
 ncdf4: '1.19'
@@ -16960,7 +16964,7 @@ opencpu.encode: '0.22'
 opencv: 0.2.2
 opendatatoronto: 0.1.5
 opendotaR: 0.1.4
-openeo: 1.2.0
+openeo: 1.2.1
 openintro: 2.3.0
 openmetrics: 0.3.0
 opensensmapr: 0.5.1
@@ -17467,7 +17471,7 @@ pedalfast.data: 1.0.0
 pedantics: '1.7'
 pedbuildr: 0.2.1
 pedgene: '3.3'
-pedigree: '1.4'
+pedigree: 1.4.1
 pedigreeTools: '0.1'
 pedigreemm: 0.3-3
 pedmod: 0.2.3
@@ -17864,7 +17868,7 @@ pmml: 2.5.2
 pmmlTransformations: 1.3.3
 pmparser: 1.0.10
 pmpp: 0.1.1
-pmr: 1.2.5
+pmr: 1.2.5.1
 pmsampsize: 1.1.2
 pmultinom: 1.0.0
 pmwg: 0.2.0
@@ -18093,7 +18097,7 @@ predictmeans: 1.0.6
 predictoR: 2.0.7
 predictrace: 2.0.0
 predieval: 0.1.1
-predint: 1.1.0
+predint: 1.1.1
 predkmeans: 0.1.1
 predmixcor: '1.1'
 predtools: 0.0.2
@@ -18248,7 +18252,7 @@ provDebugR: 1.0.1
 provExplainR: '1.1'
 provGraphR: '1.0'
 provParseR: '0.3'
-provSummarizeR: '1.4'
+provSummarizeR: '1.5'
 provTraceR: '1.0'
 provViz: 1.0.8
 provenance: '4.0'
@@ -18627,12 +18631,12 @@ rBeta2009: '1.0'
 rBiasCorrection: 0.3.4
 rCAT: 0.1.6
 rCBA: 0.4.3
-rCMA: '1.1'
+rCMA: 1.1.1
 rCNV: 1.0.0
 rCRM: 0.1.1
 rCUR: '1.3'
 rCarto: '0.8'
-rChoiceDialogs: 1.0.6
+rChoiceDialogs: 1.0.6.1
 rClinicalCodes: 1.0.1
 rD3plot: 1.0.25
 rDEA: 1.2-6
@@ -20489,6 +20493,7 @@ sgo: 0.9.1
 sgof: 2.3.2
 sgpv: 1.1.0
 sgr: 1.3.1
+sgsR: 1.0.0
 sgstar: 0.1.2
 sgt: '2.0'
 shades: 1.4.0
@@ -22608,7 +22613,7 @@ ttestshiny: 0.1.0
 tth: 4.12-0-1
 ttime: '1.2'
 ttrTests: '1.7'
-ttservice: 0.1.2
+ttservice: 0.2.2
 ttt: '1.0'
 tttplot: 1.1.1
 ttutils: 1.0-1.1
