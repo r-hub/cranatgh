@@ -949,7 +949,7 @@ CRTSize: '1.0'
 CRTgeeDR: '2.0'
 CRUF: 0.5.1
 CRWRM: 0.0.1
-CSCDRNA: 1.0.2
+CSCDRNA: 1.0.3
 CSESA: 1.2.0
 CSFA: 1.2.0
 CSGo: 0.6.7
@@ -1569,7 +1569,7 @@ DeltaMAN: 0.5.0
 Demerelate: '0.9'
 DemoDecomp: 1.0.1
 DemografixeR: 0.1.1
-DemographicTable: 0.1.4
+DemographicTable: 0.1.5
 DendSer: 1.0.2
 DendroSync: 0.1.4
 DengueRT: 1.0.1
@@ -2780,7 +2780,7 @@ HomoPolymer: '1.0'
 HostSwitch: 0.1.1
 HotDeckImputation: 1.1.0
 Hotelling: 1.0-8
-HotellingEllipse: 0.1.1
+HotellingEllipse: 1.1.0
 HumMeth27QCReport: 1.2.9
 HuraultMisc: 1.1.1
 HyPhy: '1.0'
@@ -3832,7 +3832,7 @@ MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
 MediaNews: 0.2.1
 Mediana: 1.0.8
-MedianaDesigner: '0.7'
+MedianaDesigner: '0.8'
 Mega2R: 1.0.9
 Meiosis: 1.0.2
 MendelianRandomization: 0.6.0
@@ -5125,6 +5125,7 @@ RGENERATEPREC: 1.2.9
 RGF: 1.0.8
 RGIFT: 0.1-5
 RGISTools: 1.0.2
+RGMM: 0.1.0
 RGeckoboard: 0.1-5
 RGenData: '1.0'
 RGenetics: '0.1'
@@ -5781,7 +5782,7 @@ Rfwdmv: '0.7'
 Rga4gh: 0.1.1
 Rgb: 1.6.1
 Rgbp: 1.1.4
-Rgff: 0.1.0
+Rgff: 0.1.1
 RghcnV3: '2.9'
 Rglpk: 0.6-4
 Rgnuplot: 1.0.3
@@ -7918,6 +7919,7 @@ atom4R: '0.2'
 atsd: 1.2.0
 attachment: 0.2.5
 attempt: 0.3.1
+attention: 0.1.0
 attenuation: 1.0.0
 attfad: '1.1'
 attrCUSUM: 0.1.0
@@ -8799,7 +8801,7 @@ cSEM: 0.4.0
 cSFM: '1.1'
 ca: 0.71.1
 caGUI: 0.1-4
-caMST: 0.1.4
+caMST: 0.1.6
 caMassClass: '1.9'
 caROC: 0.1.5
 caRamel: '1.3'
@@ -9682,7 +9684,7 @@ cornet: 0.0.5
 coro: 1.0.2
 coroICA: 1.0.2
 corona: 0.3.0
-coronavirus: 0.3.31
+coronavirus: 0.3.32
 corpcor: 1.6.10
 corpora: 0.5-1
 corporaexplorer: 0.8.6
@@ -10917,7 +10919,7 @@ easystab: '1.0'
 eat: 0.1.2
 eatATA: 1.0.0
 eatDB: 0.5.0
-eatGADS: 0.19.1
+eatGADS: 0.20.0
 eatRep: 0.14.3
 eatTools: 0.7.2
 ebGenotyping: 2.0.1
@@ -12870,7 +12872,7 @@ globalGSA: '1.0'
 globalKinhom: 0.1.4
 globalOptTests: '1.1'
 globalboosttest: 1.1-0
-globals: 0.15.0
+globals: 0.15.1
 globaltrends: 0.0.12
 globe: 1.2-0
 glogis: 1.0-2
@@ -13208,6 +13210,7 @@ gwsem: 2.1.4
 gym: 0.1.0
 gyriq: 1.0.2
 gyro: 1.0.1
+h0: 1.0.0
 h2o: 3.36.1.2
 h2o4gpu: 0.3.3
 h3jsr: 1.2.3
@@ -14167,7 +14170,7 @@ jacobi: 1.0.0
 jacpop: '0.6'
 jaggR: 0.1.1
 jagsUI: 1.5.2
-jagstargets: 1.0.2
+jagstargets: 1.0.3
 jalcal: 0.1.0
 james.analysis: 1.0.1
 janeaustenr: 0.1.5
@@ -14191,7 +14194,7 @@ jgcricolors: 1.0.0
 jgsbook: '1.0'
 jiebaR: '0.11'
 jiebaRD: '0.1'
-jinjar: 0.1.1
+jinjar: 0.2.0
 jipApprox: 0.1.4
 jit: 1.3-1
 jjb: 0.1.1
@@ -14431,7 +14434,7 @@ kpmt: 0.1.0
 kpodclustr: '1.1'
 kriens: '0.1'
 krige: 0.6.2
-kriging: '1.1'
+kriging: '1.2'
 krippendorffsalpha: 1.1-2
 krm: 2020.5-20
 ks: 1.13.5
@@ -14580,7 +14583,7 @@ lcd: 0.7-3
 lcda: 0.3.1
 lchemix: 0.1.0
 lclGWAS: 1.0.3
-lcmm: 1.9.5
+lcmm: 2.0.0
 lcmr: 1.6.26
 lconnect: 0.1.1
 lcopula: 1.0.5
@@ -14644,7 +14647,7 @@ leastcostpath: 1.8.7
 ledger: 2.0.9
 leem: 0.1.0
 leerSIECyL: 1.0.2
-lefko3: 5.2.0
+lefko3: 5.3.0
 lefse: '0.1'
 legco: 0.1.4
 legion: 0.1.1
@@ -17560,7 +17563,7 @@ pfda: 1.0.0
 pfica: 0.1.2
 pflamelet: 0.1.1
 pfocal: 1.0.0
-pgTools: 0.1.0
+pgTools: 1.0.0
 pga: 0.1-1
 pgam: 0.4.15
 pgbart: 0.6.16
@@ -19694,7 +19697,7 @@ rosqp: 0.1.0
 rosr: 0.0.8
 rotasym: 1.1.3
 rotationForest: 0.1.3
-rotations: 1.6.3
+rotations: 1.6.4
 rotl: 3.0.12
 rotor: 0.3.5
 roughrf: '1.0'
@@ -19805,7 +19808,7 @@ rsBayes: 0.1.0
 rsMove: 0.2.8
 rsae: '0.2'
 rsam: 0.1.0
-rsample: 0.1.1
+rsample: 1.0.0
 rsat: 0.1.18
 rsatscan: 0.3.9200
 rsbml: '1.2'
@@ -21464,7 +21467,7 @@ statgenGxE: 1.0.4
 statgenHTP: 1.0.5
 statgenIBD: 1.0.4
 statgenMPP: 1.0.0
-statgenSTA: 1.0.8
+statgenSTA: 1.0.9
 stationaRy: 0.5.1
 stationery: '1.0'
 statip: 0.2.3
@@ -22994,7 +22997,7 @@ virtualspecies: 1.5.1
 virtuoso: 0.1.8
 virustotal: 0.2.2
 visNetwork: 2.1.0
-visR: 0.2.0
+visR: 0.3.0
 visStatistics: 0.1.1
 visTree: 0.8.1
 visa: 0.1.0
@@ -23456,7 +23459,7 @@ yhatr: 0.15.1
 ykmeans: '1.0'
 yll: 1.0.0
 ymd: 0.0.1
-ymlthis: 0.1.5
+ymlthis: 0.1.6
 yonder: 0.2.0
 yorkr: 0.0.34
 yotover: 0.3.5
@@ -23495,7 +23498,7 @@ zip: 2.2.0
 zipR: 0.1.1
 zipangu: 0.3.0
 zipcode: '1.0'
-zipcodeR: 0.3.3
+zipcodeR: 0.3.4
 zipfR: 0.6-70
 zipfextR: 1.0.2
 ziphsmm: 2.0.6
