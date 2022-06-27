@@ -597,7 +597,7 @@ BayesianTools: 0.1.7
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
 Bayesiantreg: '1.0'
-Bayesrel: 0.7.4.1
+Bayesrel: 0.7.4.2
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
 BcDiag: 1.0.10
@@ -620,7 +620,7 @@ BeyondBenford: '1.4'
 Bhat: 0.9-12
 BiBitR: 0.3.1
 BiCausality: 0.1.1
-BiDAG: 2.0.9
+BiDAG: 2.1.0
 BiDimRegression: 2.0.1
 BiG: 0.1.0
 BiGGR: '1.8'
@@ -1367,6 +1367,7 @@ DEA: 0.1-2
 DEBBI: 0.1.0
 DECIDE: '1.3'
 DEEPR: '0.1'
+DEET: 1.0.2
 DEEVD: 1.2.3
 DELTD: 2.6.7
 DEM: 0.0.0.2
@@ -1407,7 +1408,7 @@ DIMORA: 0.2.0
 DIRECT: 1.0.1
 DISTRIB: '1.0'
 DIZtools: 0.0.5
-DIZutils: 0.1.0
+DIZutils: 0.1.1
 DIconvex: 1.0.0
 DImodels: '1.1'
 DIscBIO: 1.2.0
@@ -1455,7 +1456,7 @@ DPpackage: 1.1-7
 DPtree: 1.0.1
 DPw: '1.1'
 DQAgui: 0.2.0
-DQAstats: 0.3.0
+DQAstats: 0.3.1
 DR.SC: '2.9'
 DRAFT: 0.3.0
 DRAYL: '1.0'
@@ -3762,7 +3763,7 @@ MachineShop: 3.5.0
 Maeswrap: '1.7'
 MagmaClustR: 1.0.0
 MagneticMap: '1.0'
-MainExistingDatasets: 1.0.0
+MainExistingDatasets: 1.0.1
 MajKMeans: 0.1.0
 MakeYourPalette: 0.1.3
 MakefileR: '1.0'
@@ -5253,7 +5254,7 @@ RNaviCell: '0.2'
 RNeXML: 2.4.7
 RNentropy: 1.2.3
 RNeo4j: 1.6.4
-RNetCDF: 2.5-2
+RNetCDF: 2.6-1
 RNetLogo: 1.0-4
 RNewsflow: 1.2.6
 RNifti: 1.4.0
@@ -5782,7 +5783,7 @@ Rfwdmv: '0.7'
 Rga4gh: 0.1.1
 Rgb: 1.6.1
 Rgbp: 1.1.4
-Rgff: 0.1.1
+Rgff: 0.1.2
 RghcnV3: '2.9'
 Rglpk: 0.6-4
 Rgnuplot: 1.0.3
@@ -7411,6 +7412,7 @@ accrualPlot: 1.0.1
 accrued: '1.4'
 accucor: 0.3.0
 accuracy: '1.35'
+acdcR: 1.0.0
 ace2fastq: 0.6.0
 aceEditor: 1.0.1
 acebayes: '1.10'
@@ -8335,7 +8337,7 @@ bidask: 1.0.0
 bifactorial: '1.4'
 bife: 0.7.1
 bifurcatingr: 1.0.0
-bigDM: 0.4.1
+bigDM: 0.4.2
 bigFastlm: 0.0.2
 bigGP: 0.1-7
 bigIntegerAlgos: 0.1.2
@@ -8436,7 +8438,7 @@ bioPN: 1.2.0
 bioRad: 0.6.0
 bioacoustics: 0.2.8
 bioassays: 1.0.1
-bioclim: 0.2.0
+bioclim: 0.3.0
 biocompute: 1.1.1
 biodosetools: 3.6.0
 biofiles: 1.0.0
@@ -8713,7 +8715,7 @@ brotli: '1.2'
 brr: 1.0.0
 brranching: 0.7.0
 brt: 1.3.0
-bruceR: 0.8.7
+bruceR: 0.8.8
 brulee: 0.1.0
 brunnermunzel: 1.4.1
 brxx: 0.1.2
@@ -9228,7 +9230,7 @@ cld2: 1.2.1
 cld3: 1.4.2
 clda: '0.1'
 cldr: 1.1.0
-cleaR: 0.0.2
+cleaR: 0.0.3
 clean: 2.0.0
 cleanEHR: '1.0'
 cleanNLP: 3.0.3
@@ -12697,7 +12699,7 @@ ggparliament: 2.0.0
 ggparty: 1.0.0
 ggpattern: 0.4.2
 ggperiodic: 1.0.1
-ggpie: 0.2.1
+ggpie: 0.2.2
 ggplot: 0.4.2
 ggplot.multistats: 1.0.0
 ggplot2: 3.3.6
@@ -13048,7 +13050,7 @@ grates: 0.3.0
 gratia: 0.7.3
 graticule: 0.1.6
 gratis: 1.0.0
-grattan: 1.9.0.10
+grattan: 2.0.0.0
 gravitas: 0.1.3
 gravity: '1.0'
 greatR: 0.2.0
@@ -13577,6 +13579,7 @@ hydroToolkit: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.9.3
 hydropeak: 0.1.1
+hydrorecipes: 0.0.3
 hydroroute: 0.1.1
 hydrosanity: 0.8.76
 hydroscoper: 1.4.1
@@ -14467,7 +14470,7 @@ l1ball: 0.1.0
 l1kdeconv: 1.2.0
 l1spectral: 0.99.6
 l2boost: 1.0.3
-laGP: 1.5-6
+laGP: 1.5-7
 labdsv: 2.0-1
 label.switching: '1.8'
 labelVector: 0.1.2
@@ -14770,6 +14773,7 @@ linprog: 0.9-4
 lint: '0.3'
 lintools: 0.1.6
 lintr: 3.0.0
+lipidmapsR: 1.0.4
 lipidomeR: 0.1.2
 liqueueR: 0.0.1
 liquidSVM: 1.2.4
@@ -15834,6 +15838,7 @@ mmapcharr: 0.3.0
 mmaqshiny: 1.0.0
 mmb: 0.13.3
 mmc: 0.0.3
+mmcif: 0.1.0
 mmcm: 1.2-8
 mmds: '1.1'
 mme: 0.1-6
@@ -16715,7 +16720,7 @@ npIntFactRep: '1.5'
 npROCRegression: 1.0-6
 npRmpi: 0.60-2
 nparACT: '0.8'
-nparLD: '2.1'
+nparLD: 2.1-1
 nparMD: 0.2.1
 nparcomp: '3.0'
 nparsurv: 0.1.0
@@ -18729,6 +18734,7 @@ rSQM: 1.3.14
 rStrava: 1.1.4
 rSymPy: 0.2-1.2
 rSymbiota: 1.0.0
+rTCRBCRr: 0.1.0
 rTG: 1.0.1
 rTLS: 0.2.5.2
 rTOFsPRO: '1.4'
@@ -19591,7 +19597,7 @@ robCompositions: 2.3.1
 robFitConGraph: 0.1.0
 robber: 0.2.2
 robcbi: 1.1-3
-robcor: 0.1-6
+robcor: 0.1-6.1
 robcp: 0.3.6
 roben: 0.1.0
 robeth: 2.7-6
@@ -20159,6 +20165,7 @@ scImmuneGraph: 1.1.3
 scLink: 1.0.1
 scMappR: 1.0.9
 scModels: 1.0.3
+scOntoMatch: 0.1.0
 scPDSI: 0.1.3
 scPOP: 0.1.0
 scRNAstat: 0.1.1
@@ -20657,7 +20664,7 @@ sift: 0.1.0
 sig: 0.0-6
 sigInt: 0.2.0
 sigQC: 0.1.22
-sigclust: 1.1.0
+sigclust: 1.1.0.1
 sigloc: 0.0.4
 sigma2tools: '1.2'
 sigmaNet: 1.1.0
@@ -21046,7 +21053,7 @@ spGARCH: 0.2.2
 spGoogle: 0.1-2
 spMC: 0.3.12
 spMaps: 0.4.0
-spNNGP: 0.1.8
+spNNGP: 1.0.0
 spNetwork: 0.4.3.2
 spOccupancy: 0.3.2
 spRingsteen: 0.0.1
@@ -21233,7 +21240,7 @@ spgrass6: 0.8-9
 spgs: 1.0-3
 spgwr: 0.6-35
 spherepc: 0.1.7
-sphereplot: '1.5'
+sphereplot: 1.5.1
 sphet: '2.0'
 sphunif: 1.0.1
 spi: '1.1'
@@ -21507,7 +21514,7 @@ stencilaschema: 1.0.0
 stepPenal: '0.2'
 stepPlr: '0.93'
 stepR: 2.1-3
-stepSplitReg: 1.0.1
+stepSplitReg: 1.0.2
 stepdownfdp: 1.0.0
 stepgbm: 1.0.0
 stepjglm: 0.0.1
@@ -22970,7 +22977,7 @@ vfprogression: 0.7.1
 vhcub: 1.0.0
 vhica: 0.2.7
 viafr: 0.2.0
-vici: 0.5.2
+vici: 0.6.0
 vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
 viewpoly: 0.2.0
@@ -23037,7 +23044,7 @@ vocaldia: 0.8.3
 volcano3D: 1.2.0
 volesti: 1.1.2-2
 volleystat: 0.2.0
-voluModel: 0.1.5
+voluModel: 0.1.6
 voronoi: '1.1'
 voronoiTreemap: 0.2.0
 vortexR: 1.1.7
