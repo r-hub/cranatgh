@@ -1005,7 +1005,7 @@ Canek: 0.2.1
 Canopy: 1.3.0
 CarbonEL: 0.1-4
 CarletonStats: '2.0'
-Carlson: 1.0.1
+Carlson: 1.1.0
 Cascade: '2.0'
 CascadeData: '1.3'
 CaseBasedReasoning: '0.1'
@@ -1191,6 +1191,7 @@ Conake: 1.0.1
 ConcordanceTest: 1.0.2
 CondCopulas: 0.1.2
 CondIndTests: 0.1.5
+CondMVT: 0.1.0
 CondReg: '0.20'
 CondiS: 0.1.2
 ConfIntVariance: 1.0.2
@@ -1538,7 +1539,7 @@ DataPackageR: 0.15.8
 DataSpaceR: 0.7.6
 DataVisualizations: 1.2.3
 DataViz: 0.2.8
-DatabaseConnector: 5.0.3
+DatabaseConnector: 5.0.4
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.1.5
 Datasmith: 1.0-1
@@ -6226,7 +6227,7 @@ SPMS: '2.0'
 SPODT: '0.9'
 SPORTSCausal: '1.0'
 SPOT: 2.11.14
-SPOTMisc: 1.19.26
+SPOTMisc: 1.19.40
 SPOUSE: 0.1.0
 SPPcomb: '0.1'
 SPQR: 0.1.0
@@ -6604,7 +6605,7 @@ SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
 SqlRender: 1.9.0
-SqueakR: 1.2.5
+SqueakR: 1.3.0
 Sshaped: '1.0'
 Sstack: 1.0.1
 StAMPP: 1.6.3
@@ -7096,7 +7097,7 @@ UniDOE: '1.0'
 UniIsoRegression: 0.0-0
 Unicode: 14.0.0-1
 UnifiedDoseFinding: 0.1.9
-UniprotR: 2.1.0
+UniprotR: 2.1.1
 UnitCircle: 0.1.3
 UnitStat: 1.1.0
 UnivRNG: 1.2.3
@@ -7194,6 +7195,7 @@ VisCov: '1.3'
 VisitorCounts: 1.0.1
 VisuClust: '1.2'
 Visualize.CRAN.Downloads: 1.0.1
+VisualizeSimon2Stage: 0.1.0
 VizCompX: '0.1'
 VizOR: 0.8-5
 VorteksExport: 0.1.8
@@ -7262,7 +7264,7 @@ WebPower: '0.7'
 WeedMap: '0.1'
 WeibullFit: 0.1.0
 WeibullR: 1.2.1
-WeightIt: 0.12.0
+WeightIt: 0.13.1
 WeightSVM: 1.7-9
 Weighted.Desc.Stat: '1.0'
 WeightedCluster: 1.6-0
@@ -8271,7 +8273,7 @@ benchr: 0.2.5
 bender: 0.1.1
 benford: 1.0.1
 benford.analysis: 0.1.5
-bentcableAR: 0.3.0
+bentcableAR: 0.3.1
 benthos: 1.3-6
 ber: '4.0'
 berryFunctions: 1.21.14
@@ -9309,7 +9311,7 @@ clusrank: 1.0-2
 clust.bin.pair: 0.1.2
 clustAnalytics: 0.4.1
 clustDRM: 0.1-0
-clustEff: 0.2.0
+clustEff: 0.3.0
 clustMD: 1.2.1
 clustMixType: 0.2-15
 clustRcompaR: 0.2.0
@@ -9371,8 +9373,8 @@ cmprskcoxmsm: 0.2.1
 cmpsR: 0.1.0
 cmrutils: 1.3.1
 cms: 0.1.0
-cmsaf: 3.4.2
-cmsafops: 1.2.4
+cmsaf: 3.4.3
+cmsafops: 1.2.5
 cmsafvis: 1.1.11
 cmstatr: 0.9.1
 cmtest: 0.1-2
@@ -9395,7 +9397,7 @@ cobs: 1.3-5
 cobs99: 0.9-9
 coca: 1.1.0
 cocktailApp: 0.2.2
-cocor: 1.1-3
+cocor: 1.1-4
 cocoreg: 0.1.1
 cocorresp: 0.4-3
 cocron: 1.0-1
@@ -10393,7 +10395,7 @@ dfadjust: 1.0.4
 dfcomb: 3.0-0
 dfcrm: 0.2-2.1
 dfexplore: '0.2'
-dfidx: 0.0-4
+dfidx: 0.0-5
 dfmeta: 1.0.0
 dfmta: 1.7-3
 dfoliatR: 0.2.0
@@ -10923,7 +10925,7 @@ eatATA: 1.0.0
 eatDB: 0.5.0
 eatGADS: 0.20.0
 eatRep: 0.14.3
-eatTools: 0.7.2
+eatTools: 0.7.3
 ebGenotyping: 2.0.1
 ebSNP: '1.0'
 eba: 1.10-0
@@ -10975,7 +10977,7 @@ ecoseries: 0.1.5
 ecosim: 1.3-3
 ecospace: 1.4.2
 ecospat: '3.3'
-ecostats: 1.1.8
+ecostats: 1.1.10
 ecostatscale: '1.0'
 ecotox: 1.4.4
 ecotoxicology: 1.0.1
@@ -11370,13 +11372,13 @@ event: 1.1.1
 event.chart: '2.0'
 eventInterval: '1.3'
 eventTrack: 1.0.1
-eventdataR: 0.3.0
+eventdataR: 0.3.1
 eventglm: 1.2.2
 eventr: 1.0.0
 events: '0.5'
 eventstream: 0.1.1
 eventstudies: '1.2'
-evgam: 0.1.4
+evgam: 1.0.0
 evian: 2.1.0
 evidence: 0.8.10
 evidenceFactors: '1.8'
@@ -12972,7 +12974,7 @@ googleway: 2.7.6
 goric: 1.1-2
 gorica: 0.1.2
 gorpiper: 1.0.1
-gosset: '0.3'
+gosset: '0.4'
 gotop: 0.1.2
 govStatJPN: '0.1'
 govdat: '0.1'
@@ -13310,6 +13312,7 @@ hdpca: 1.1.5
 hdr: '0.1'
 hdrcde: '3.4'
 hds: 0.8.1
+hdtg: 0.1.0
 headliner: 0.0.2
 healthcareai: 2.5.0
 healthfinance: 0.1.0
@@ -15816,7 +15819,7 @@ mlr3shiny: 0.2.0
 mlr3spatial: 0.1.2
 mlr3spatiotempcv: 2.0.1
 mlr3tuning: 0.13.1
-mlr3tuningspaces: 0.2.0
+mlr3tuningspaces: 0.3.0
 mlr3verse: 0.2.5
 mlr3viz: 0.5.9
 mlrCPO: 0.3.7-3
@@ -16867,6 +16870,7 @@ odfWeave.survey: '1.0'
 odin: 1.2.4
 odk: '1.5'
 odkr: 0.2.0
+odns: 1.0.0
 odpc: 2.0.5
 odprism: '1.1'
 odr: 1.3.1
@@ -20849,7 +20853,7 @@ slackr: 3.2.0
 slam: 0.1-50
 slanter: 0.2-0
 slasso: 1.0.0
-sld: 1.0.0
+sld: 1.0.1
 sleekts: 1.0.2
 sleepr: 0.3.0
 sleepwalk: 0.3.2
@@ -23457,7 +23461,7 @@ yarr: 0.1.2
 yarrr: 0.1.5
 yasp: 0.2.0
 yatah: 0.1.0
-ycevo: 0.1.1
+ycevo: 0.1.2
 ycinterextra: '0.1'
 yearn: 0.1.3
 yesno: 0.1.2
