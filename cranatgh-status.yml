@@ -1009,7 +1009,7 @@ Carlson: 1.0.1
 Cascade: '2.0'
 CascadeData: '1.3'
 CaseBasedReasoning: '0.1'
-CatDataAnalysis: 0.1-3
+CatDataAnalysis: 0.1-5
 CatDyn: 1.1-1
 CatEncoders: 0.1.1
 CatPredi: '1.3'
@@ -1025,7 +1025,7 @@ CausalImpact: 1.2.7
 CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.1
 CausalModels: 0.1.0
-CausalQueries: 0.0.3
+CausalQueries: 0.1.0
 Causata: 4.2-0
 CautiousLearning: 1.0.1
 CePa: 0.8.0
@@ -1601,7 +1601,7 @@ Devore6: 0.6-0
 Devore7: 0.7.6
 Dforest: 0.4.2
 DiNAMIC.Duo: 1.0.1
-DiPALM: '1.1'
+DiPALM: '1.2'
 DiPhiSeq: 0.2.0
 DiPs: 0.6.3
 DiSSMod: 1.0.0
@@ -1627,7 +1627,7 @@ DiffusionRgqd: 0.1.3
 DiffusionRimp: 0.1.2
 DiffusionRjgqd: 0.1.1
 Digiroo2: '0.6'
-DirStats: 0.1.7
+DirStats: 0.1.8
 Dire: 2.0.1
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
@@ -2195,7 +2195,7 @@ FlowScreen: 1.2.6
 FluMoDL: 0.0.3
 FluOMatic: '1.0'
 Flury: '0.1'
-FlyingR: 0.2.0
+FlyingR: 0.2.2
 FlywayNet: 0.1.0
 FoReco: 0.2.4
 ForIT: 2.0.1
@@ -4554,7 +4554,7 @@ PRDA: 1.0.0
 PRECAST: '1.0'
 PREPShiny: 0.1.0
 PRIMAL: 1.0.2
-PRIMME: 3.2-2
+PRIMME: 3.2-3
 PRIMsrc: 0.8.2
 PRISM.forecast: 0.2.1
 PRISMA: 0.2-7
@@ -4944,9 +4944,9 @@ R.huge: 0.9.0
 R.matlab: 3.6.2
 R.methodsS3: 1.8.2
 R.oo: 1.25.0
-R.rsp: 0.44.0
+R.rsp: 0.45.0
 R.temis: 0.1.3
-R.utils: 2.11.0
+R.utils: 2.12.0
 R0: 1.2-6
 R1magic: 0.3.3
 R2019nCoV: 0.1.0
@@ -5626,7 +5626,7 @@ RcppCCTZ: 0.2.10
 RcppCGAL: 5.4.1
 RcppCNPy: 0.2.11
 RcppCWB: 0.5.3
-RcppCensSpatial: 0.1.0
+RcppCensSpatial: 0.3.0
 RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
 RcppClock: '1.1'
@@ -7436,7 +7436,7 @@ actel: 1.2.1
 actilifecounts: 1.0.0
 activPAL: 0.1.3
 activatr: 0.1.0
-activegp: 1.0.6
+activegp: 1.1.0
 activity: 1.3.2
 activityCounts: 0.1.2
 activityGCMM: 1.1.1
@@ -8153,7 +8153,7 @@ bayesforecast: 1.0.1
 bayesian: 0.0.9
 bayesianETAS: 1.0.3
 bayeslincom: 1.3.0
-bayeslm: 0.8.0
+bayeslm: 1.0.1
 bayesloglin: 1.0.1
 bayeslongitudinal: 0.1.0
 bayesm: 3.1-4
@@ -10057,7 +10057,7 @@ d4storagehub4R: '0.3'
 dBlockmodeling: 0.2.0
 dCUR: 1.0.0
 dChipIO: 0.1.5
-dCovTS: '1.2'
+dCovTS: '1.3'
 dGAselID: '1.2'
 dHSIC: '2.1'
 dLagM: 1.1.8
@@ -10202,7 +10202,7 @@ dbnR: 0.7.5
 dbnlearn: 0.1.0
 dbparser: 1.2.0
 dbplot: 0.3.3
-dbplyr: 2.2.0
+dbplyr: 2.2.1
 dbscan: 1.1-10
 dbstats: 1.0.5
 dbx: 0.2.8
@@ -10451,7 +10451,7 @@ difNLR: 1.4.1
 difR: '5.1'
 difconet: 1.0-4
 diff: '1.0'
-diffEnrich: 0.1.1
+diffEnrich: 0.1.2
 diffEq: '1.0'
 diffIRT: '1.5'
 diffMeanVar: 0.0.6
@@ -11584,6 +11584,7 @@ familial: 1.0.3
 familiar: 1.1.0
 fanc: 2.3.5
 fancycut: 0.1.2
+fangs: 0.1.6
 fanovaGraph: '1.5'
 fanplot: 4.0.0
 fansi: 1.0.3
@@ -12624,7 +12625,7 @@ ggcleveland: 0.1.0
 ggcolpairs: 0.2.4
 ggconf: 0.1.3
 ggcorrplot: 0.1.3
-ggcorset: 0.2.0
+ggcorset: 0.3.0
 ggdag: 0.2.4
 ggdark: 0.2.1
 ggdemetra: 0.2.2
@@ -14375,7 +14376,7 @@ kittyR: 1.1.0
 kiwisR: 0.2.0
 kknn: 1.3.1
 kko: 1.0.1
-klaR: 1.7-0
+klaR: 1.7-1
 klassR: 0.1.11
 klausuR: 0.12-14
 kldtools: '1.2'
@@ -15144,7 +15145,7 @@ mapSpain: 0.6.1
 mapStats: '2.4'
 mapaccuracy: 0.1.0
 mapbayr: 0.7.3
-mapboxapi: 0.3.3
+mapboxapi: '0.4'
 mapboxer: 0.4.0
 mapcan: 0.0.1
 mapchina: 0.1.0
@@ -16574,7 +16575,7 @@ nlmeODE: '1.1'
 nlmeU: 0.70-9
 nlmeVPC: '2.2'
 nlmixr: 2.0.7
-nlmixr2: 2.0.6
+nlmixr2: 2.0.7
 nlmixr2data: 2.0.7
 nlmixr2est: 2.0.8
 nlmixr2extra: 2.0.6
@@ -17545,7 +17546,7 @@ perry: 0.3.1
 perryExamples: 0.1.1
 persDx: 0.1.0
 persiandictionary: '1.0'
-personalized: 0.2.6
+personalized: 0.2.7
 personalized2part: 0.0.1
 personalr: 1.0.1
 personograph: 0.1.3
@@ -17746,7 +17747,7 @@ pkgdown: 2.0.5
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
 pkglite: 0.2.0
-pkgload: 1.2.4
+pkgload: 1.3.0
 pkgmaker: 0.32.2
 pkgndep: 1.1.4
 pkgnet: 0.4.2
@@ -18407,7 +18408,7 @@ qPCR.CT: '1.1'
 qVarSel: '1.0'
 qacBase: 1.0.3
 qad: 1.0.2
-qap: 0.1-1
+qap: 0.1-2
 qape: '1.1'
 qat: '0.74'
 qbld: 1.0.3
@@ -18434,7 +18435,7 @@ qgam: 1.3.4
 qgcomp: 2.8.6
 qgcompint: 0.7.0
 qgen: 0.03-02
-qgg: 1.0.4
+qgg: 1.1.0
 qgraph: 1.9.2
 qgshiny: 0.1.0
 qgtools: '2.0'
@@ -18864,7 +18865,7 @@ rasciidoc: 4.0.2
 rasclass: 0.2.2
 rase: 0.3-3
 rassta: 1.0.3
-raster: 3.5-15
+raster: 3.5-21
 rasterDT: 0.3.1
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.2
@@ -18964,7 +18965,7 @@ rcdd: '1.5'
 rcdk: 3.6.0
 rcdklibs: '2.3'
 rchallenge: 1.3.4
-rcheology: 4.2.0.0
+rcheology: 4.2.1.0
 rchess: '0.1'
 rchie: 1.0.2
 rcicr: 0.3.4.1
@@ -19501,7 +19502,7 @@ rknn: '1.2'
 rkt: '1.6'
 rkvo: '0.1'
 rlandscape: '1.0'
-rlang: 1.0.2
+rlang: 1.0.3
 rlas: 1.6.0
 rlc: 0.4.1
 rlcv: 1.0.0
@@ -20522,7 +20523,7 @@ shapviz: 0.1.0
 shar: 1.3.2
 sharp: 1.1.0
 sharpData: '1.4'
-sharpPen: '1.7'
+sharpPen: '1.8'
 sharpeRratio: '1.4'
 sharpr2: 1.1.1.0
 sharpshootR: '1.9'
@@ -20981,7 +20982,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
-soilDB: 2.7.1
+soilDB: 2.7.2
 soilassessment: 0.2.3
 soilcarbon: 1.2.0
 soilhypfit: 0.1-5
@@ -21285,7 +21286,7 @@ splutil: 2022.6.20
 spm: 1.2.2
 spm12r: 2.8.3
 spm2: 1.1.2
-spmoran: 0.2.2.3
+spmoran: 0.2.2.4
 spnaf: 0.1.0
 spnet: 0.9.1-0
 spnn: 1.2.1
@@ -21771,7 +21772,7 @@ survsup: 0.0.2
 survtmle: 1.1.1
 survutils: 1.0.2
 survxai: 0.2.2
-susieR: 0.12.12
+susieR: 0.12.16
 sutteForecastR: '0.1'
 svDialogs: 1.1.0
 svDialogstcltk: 1.0.0
@@ -23149,7 +23150,7 @@ wcde: 0.0.5
 wcep: 1.0.0
 wdm: 0.2.3
 wdman: 0.2.5
-wdnet: 0.0.3
+wdnet: 0.0.4
 wdnr.gis: 0.1.3
 wdpar: 1.3.2
 weaana: 0.1.1
