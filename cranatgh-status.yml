@@ -571,7 +571,7 @@ BayesReversePLLH: '1.4'
 BayesS5: '1.41'
 BayesSAE: 1.0-2
 BayesSPsurv: 0.1.4
-BayesSUR: 2.0-1
+BayesSUR: 2.1-0
 BayesSampling: 1.1.0
 BayesSenMC: 0.1.4
 BayesSingleSub: '0.6'
@@ -3859,7 +3859,7 @@ MetaDBparse: 2.0.0
 MetaDE: '1.0'
 MetaIntegration: 0.1.2
 MetaIntegrator: 2.1.3
-MetaLandSim: 1.0.9
+MetaLandSim: 1.0.10
 MetaLonDA: 1.1.8
 MetaPCA: 0.1.4
 MetaPath: '1.0'
@@ -6614,7 +6614,7 @@ StAMPP: 1.6.3
 StMoMo: 0.4.1
 StMoSim: 3.1.1
 StVAR: '1.1'
-StabilizedRegression: '1.0'
+StabilizedRegression: '1.1'
 StableEstim: '2.1'
 Stack: 2.0-1
 StackImpute: 0.1.0
@@ -6969,6 +6969,7 @@ TimeMachine: '1.2'
 TimeProjection: 0.2.0
 TimeSeries.OBeu: 1.2.4
 TimeVTree: 0.3.1
+TimeVarConcurrentModel: '1.0'
 TimeWarp: 1.0-7
 Tinflex: '2.2'
 TinnR: 1.0-5
@@ -7021,6 +7022,7 @@ TreeSimGM: '2.5'
 TreeTools: 1.7.2
 TrendInTrend: 1.1.3
 TrendSLR: '1.0'
+TrendTM: 2.0.14
 Trendtwosub: 0.0.2
 TriDimRegression: 1.0.1
 TriMatch: 0.9.9
@@ -7177,6 +7179,7 @@ VarfromPDB: 2.2.10
 VariABEL: 0.9-2
 VariableScreening: 0.2.1
 VarianceGamma: 0.4-0
+VariantScan: 1.1.9
 VdgRsm: '1.5'
 Vdgraph: 2.2-2
 VecStatGraphs2D: '1.8'
@@ -7411,6 +7414,7 @@ acca: '0.2'
 accelerometry: 3.1.2
 accelmissing: '1.4'
 accept: 0.9.0
+accessibility: 0.1.0
 accessrmd: 1.0.0
 accrual: '1.3'
 accrualPlot: 1.0.1
@@ -7894,7 +7898,7 @@ assist: '3.1'
 assocInd: 1.0.1
 assortnet: '0.12'
 ast2ast: '0.1'
-asteRisk: 1.4.0
+asteRisk: 1.4.1
 aster: 1.1-2
 aster2: '0.3'
 astro: '1.2'
@@ -10194,7 +10198,7 @@ dbEmpLikeNorm: 1.0.0
 dbMC: 1.0.0
 dbWebForms: 0.1.0
 dbarts: 0.9-22
-dbcsp: 0.0.2.0
+dbcsp: 0.0.2.1
 dbd: 0.0-22
 dbfaker: 0.1.0
 dbflobr: 0.2.1
@@ -10896,7 +10900,7 @@ earlyR: 0.0.5
 earlygating: '1.1'
 earlywarnings: 1.0.59
 earth: 5.3.1
-earthtide: 0.0.12
+earthtide: 0.0.14
 earthtones: 0.1.1
 easi: '0.2'
 easingr: 1.0.1
@@ -11309,7 +11313,7 @@ errors: 0.3.6
 errum: 0.0.3
 es.dif: 1.0.2
 esDesign: 1.0.3
-esaBcv: 1.2.1
+esaBcv: 1.2.1.1
 esaddle: 0.0.7
 esaps: 0.2.2
 esback: 0.3.0
@@ -11473,6 +11477,7 @@ extraTrees: 1.0.5
 extracat: 1.7-6
 extrafont: '0.18'
 extrafontdb: '1.0'
+extrafrail: '1.0'
 extraoperators: 0.1.1
 extras: 0.3.0
 extraterrestrial: 0.1.0
@@ -11599,6 +11604,7 @@ far: 0.6-5
 faraway: 1.0.7
 farff: 1.1.1
 farmR: '1.1'
+farr: 0.2.27
 farrell: 0.2.1
 farsi: '1.0'
 farver: 2.1.0
@@ -11624,7 +11630,7 @@ fastNaiveBayes: 2.2.1
 fastOnlineCpt: '1.0'
 fastR: 0.8-1
 fastR2: 1.2.2
-fastRG: 0.3.0
+fastRG: 0.3.1
 fastRhockey: 0.3.0
 fastSOM: 1.0.1
 fastStat: '1.4'
@@ -13263,7 +13269,7 @@ happign: 0.1.4
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
-hardhat: 1.1.0
+hardhat: 1.2.0
 harmonicmeanp: '3.0'
 harmonizer: 0.3.0
 harmony: 0.1.0
@@ -15832,7 +15838,7 @@ mlrintermbo: 0.5.0
 mlrpro: 0.1.1
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
-mlt: 1.4-1
+mlt: 1.4-2
 mlt.docreg: 1.1-5
 mltest: 1.0.1
 mltools: 0.3.5
@@ -15892,7 +15898,7 @@ mockr: 0.2.0
 mockthat: 0.2.6
 mod: 0.1.3
 mod09nrt: '0.14'
-mod2rm: 0.1.0
+mod2rm: 0.2.1
 modEvA: '3.5'
 modMax: '1.1'
 modQR: 0.1.3
@@ -17546,7 +17552,7 @@ permax: '1.2'
 permimp: 1.0-2
 permtest: '1.2'
 permubiome: 1.3.1
-permuco: 1.1.1
+permuco: 1.1.2
 permutations: 1.0-9
 permute: 0.9-7
 permutes: '2.5'
@@ -18156,7 +18162,7 @@ prevederer: 0.0.1
 previsionio: 11.7.0
 prevtoinc: 0.12.0
 prewas: 1.1.1
-priceR: 0.1.6
+priceR: 0.1.62
 pricesensitivitymeter: 1.2.2
 prider: 1.0.4
 prim: 1.0.20
@@ -19059,7 +19065,7 @@ reactlog: 1.1.0
 read.cwa: 0.2.1
 read.dbc: 1.0.5
 read.gb: '2.2'
-read.gt3x: 1.0.2
+read.gt3x: 1.2.0
 readABF: 1.0.2
 readBrukerFlexData: 1.9.0
 readGenalex: '1.0'
@@ -19361,6 +19367,7 @@ rfishdraw: 0.1.0
 rfisheries: '0.2'
 rfishnet2: 0.2.0
 rflann: '1.3'
+rflashtext: 0.1.0
 rflexscan: 1.0.0
 rflights: 0.1.103
 rflsgen: 1.0.0
@@ -20170,6 +20177,7 @@ scDHA: 1.1.2
 scDIFtest: 0.1.1
 scDiffCom: 0.1.0
 scINSIGHT: 0.1.4
+scISR: 0.1.1
 scITD: 1.0.2
 scImmuneGraph: 1.1.3
 scLink: 1.0.1
@@ -20225,6 +20233,7 @@ schrute: 0.2.2
 schtools: 0.2.1
 schumaker: 1.2.1
 schwartz97: 0.0.6
+sciRmdTheme: '0.1'
 scico: 1.3.0
 scidb: 3.0.0
 scidesignR: 1.0.0
@@ -20680,7 +20689,7 @@ sigloc: 0.0.4
 sigma2tools: '1.2'
 sigmaNet: 1.1.0
 sigmajs: 0.1.5
-sigminer: 2.1.4
+sigminer: 2.1.5
 sigmoid: 1.4.0
 signal: 0.7-7
 signal.hsmm: '1.2'
@@ -22402,14 +22411,14 @@ tor: 1.1.2
 torch: 0.8.0
 torchaudio: 0.2.0
 torchdatasets: 0.1.0
-torchopt: 0.1.1
+torchopt: 0.1.2
 torchvision: 0.4.1
 torchvisionlib: 0.2.0
 tornado: 0.1.1
 torus: '1.0'
 tosca: 0.3-2
 toscmask: 1.2.3
-toscutil: 2.1.0
+toscutil: 2.5.0
 tosls: '1.0'
 tosr: 0.1.1
 tossm: '1.3'
@@ -23476,6 +23485,7 @@ ycinterextra: '0.1'
 yearn: 0.1.3
 yesno: 0.1.2
 yest: '0.4'
+yfR: 1.0.0
 yhat: 2.0-3
 yhatr: 0.15.1
 ykmeans: '1.0'
@@ -23492,7 +23502,7 @@ ypr: 0.5.2
 ypssc: 1.1.0
 yuima: 1.15.3
 yuimaGUI: 1.3.0
-yulab.utils: 0.0.4
+yulab.utils: 0.0.5
 yum: 0.1.0
 yummlyr: 0.1.1
 zCompositions: 1.4.0-1
