@@ -584,7 +584,7 @@ BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
 BayesValidate: '0.0'
 BayesVarSel: 2.0.1
-BayesX: 0.3-1
+BayesX: 0.3-1.1
 BayesXsrc: 3.0-2
 BayesianAnimalTracker: '1.2'
 BayesianFROC: 1.0.0
@@ -667,7 +667,7 @@ BioVenn: 1.1.3
 BiocManager: 1.30.18
 Biocomb: '0.4'
 Biodem: '0.5'
-BiodiversityR: 2.14-2
+BiodiversityR: 2.14-2.1
 Biograph: '2.0'
 Bioi: 0.2.10
 Biolinv: 0.1-3
@@ -1457,7 +1457,7 @@ DPpack: 0.0.1
 DPpackage: 1.1-7
 DPtree: 1.0.1
 DPw: '1.1'
-DQAgui: 0.2.0
+DQAgui: 0.2.1
 DQAstats: 0.3.1
 DR.SC: '2.9'
 DRAFT: 0.3.0
@@ -1613,7 +1613,7 @@ DiagrammeR: 1.0.9
 DiagrammeRsvg: '0.1'
 DiallelAnalysisR: 0.4.0
 DiceDesign: '1.9'
-DiceEval: '1.5'
+DiceEval: 1.5.1
 DiceKriging: 1.6.0
 DiceOptim: 2.1.1
 DiceView: 2.0-1
@@ -2199,7 +2199,7 @@ FluOMatic: '1.0'
 Flury: '0.1'
 FlyingR: 0.2.2
 FlywayNet: 0.1.0
-FoReco: 0.2.4
+FoReco: 0.2.5
 ForIT: 2.0.1
 ForImp: '1.0'
 ForeCA: 0.2.7
@@ -2965,7 +2965,7 @@ IVYplot: 0.1.0
 IalsaSynthesis: 0.1.6
 Iboot: 0.1-1
 IceCast: 2.1.0
-IceSat2R: 1.0.1
+IceSat2R: 1.0.2
 Icens: 1.24.0
 IgAScores: 0.1.2
 IgorR: '0.8'
@@ -3129,7 +3129,7 @@ KMsurv: 0.1-5
 KMunicate: 0.2.1
 KNNShiny: 0.1.0
 KOBT: 0.1.0
-KODAMA: '1.9'
+KODAMA: '2.0'
 KOGMWU: '1.2'
 KONPsurv: 1.0.4
 KPC: 0.1.1
@@ -4651,7 +4651,7 @@ ParallelForest: 1.1.0
 ParallelLogger: 3.0.1
 ParallelPC: '1.2'
 ParallelTree: 0.1.3
-ParamHelpers: '1.14'
+ParamHelpers: 1.14.1
 ParentOffspring: '1.0'
 Pareto: 2.4.2
 ParetoPosStable: '1.1'
@@ -6315,7 +6315,7 @@ SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.4.1
 SWMPrExtension: 2.2.3
-SWTools: 0.2.3.1
+SWTools: 0.2.4
 SWordInstaller: 1.0-2
 SYNCSA: 1.3.4
 Sabermetrics: '2.0'
@@ -7550,7 +7550,7 @@ affluenceIndex: '2.1'
 afmToolkit: 0.0.1
 afmtools: 0.1.8
 afpt: 1.1.0.2
-africamonitor: 0.1.2
+africamonitor: 0.2.0
 after: 1.0.0
 aftgee: 1.1.6
 afthd: 1.1.0
@@ -7792,7 +7792,7 @@ aratio: '1.2'
 arc: '1.3'
 archdata: 1.2-1
 archeofrag: '0.8'
-archetypal: 1.1.1
+archetypal: 1.3.0
 archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
@@ -11345,7 +11345,7 @@ essurvey: 1.0.8
 estadistica: 0.2.1
 estatapi: 0.4.0
 estimability: '1.4'
-estimatr: 0.30.6
+estimatr: 1.0.0
 estimraw: 1.0.0
 estmeansd: 1.0.0
 estout: '1.2'
@@ -11382,7 +11382,7 @@ evaluate: '0.15'
 evaluator: 0.4.3
 evclass: 1.1.1
 evclust: 2.0.2
-evd: 2.3-6
+evd: 2.3-6.1
 evdbayes: 1.1-1
 event: 1.1.1
 event.chart: '2.0'
@@ -11707,7 +11707,7 @@ fcros: 1.6.1
 fctbases: 1.1.1
 fcuk: 0.1.21
 fdANOVA: 0.1.2
-fda: 6.0.4
+fda: 6.0.5
 fda.usc: 2.0.2
 fdaACF: 1.0.0
 fdaMixed: '0.6'
@@ -12265,7 +12265,7 @@ galgo: '1.4'
 galigor: 0.2.5
 galts: 1.3.1
 galvanizer: 0.5.3
-gam: 1.20.1
+gam: 1.20.2
 gamCopula: 0.0-7
 gamRR: 0.7.0
 gama: 1.0.3
@@ -12525,7 +12525,7 @@ geomerge: 0.3.2
 geometa: 0.6-6
 geometr: 0.2.10
 geometries: 0.2.0
-geometry: 0.4.6
+geometry: 0.4.6.1
 geomnet: 0.3.1
 geomorph: 4.0.4
 geomtextpath: 0.1.0
@@ -13338,7 +13338,7 @@ healthcareai: 2.5.0
 healthfinance: 0.1.0
 healthforum: 0.1.0
 healthyR: 0.1.9
-healthyR.ai: 0.0.7
+healthyR.ai: 0.0.8
 healthyR.data: 1.0.1
 healthyR.ts: 0.2.0
 healthyverse: 1.0.2
@@ -13749,7 +13749,7 @@ icesSAG: 1.4.0
 icesSD: 2.0.0
 icesTAF: 3.6.0
 icesVocab: 1.2.0
-ichimoku: 1.3.2
+ichimoku: 1.3.3
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -14567,7 +14567,7 @@ later: 1.3.0
 latex2exp: 0.9.4
 latexdiffr: 0.1.0
 latexpdf: 0.1.7
-latrend: 1.3.0
+latrend: 1.4.1
 latte: 0.2.1
 lattice: 0.20-45
 latticeDensity: 1.2.6
@@ -15846,7 +15846,7 @@ mlr3tuningspaces: 0.3.0
 mlr3verse: 0.2.5
 mlr3viz: 0.5.9
 mlrCPO: 0.3.7-3
-mlrMBO: 1.1.5
+mlrMBO: 1.1.5.1
 mlrintermbo: 0.5.0
 mlrpro: 0.1.1
 mlsbm: 0.99.2
@@ -16264,7 +16264,7 @@ multiv: 1.1-6
 multivar: 1.1.0
 multivariance: 2.4.1
 multivator: 1.1-10
-multiverse: 0.5.0
+multiverse: 0.6.1
 multiversion: 0.3.6
 multiviewtest: 2.0.1
 multiwave: '1.4'
@@ -19008,7 +19008,7 @@ rcmdcheck: 1.4.0
 rco: 1.0.2
 rcol: 0.2.0
 rcolors: 0.1.0
-rcompanion: 2.4.15
+rcompanion: 2.4.16
 rcompendium: '1.0'
 rcompgen: 0.1-8
 rcompletion: 0.1-2
@@ -19752,7 +19752,7 @@ roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
 rpact: 3.3.0
-rpanel: 1.1-5
+rpanel: 1.1-5.1
 rpart: 4.1.16
 rpart.LAD: 0.1.2
 rpart.permutation: '1.01'
@@ -20331,7 +20331,7 @@ sdtalt: '1.03'
 sdtoolkit: '2.3'
 sdwd: 1.0.5
 seaaroundus: 1.2.0
-seacarb: 3.3.0
+seacarb: 3.3.1
 seagull: 1.1.0
 sealasso: 0.1-3
 sealr: 0.1.1
@@ -20907,7 +20907,7 @@ slowraker: 0.1.1
 slp: 1.0-5
 sltl: '1.0'
 slurmR: 0.5-2
-sm: 2.2-5.7
+sm: 2.2-5.7.1
 sma: 0.5.9
 smaa: 0.3-1
 smac: '1.0'
@@ -21981,7 +21981,7 @@ tailloss: '1.0'
 tailr: 0.1.3
 taipan: 0.1.2
 takos: 0.2.0
-tanaka: 0.2.0
+tanaka: 0.3.0
 tangles: 0.8.1
 tangram: 0.7.1
 tangram.pipe: 1.1.1
@@ -22007,7 +22007,7 @@ taxalight: 0.1.5
 taxize: 0.9.100
 taxizedb: 0.3.0
 taxlist: 0.2.2
-taxonbridge: 1.2.1
+taxonbridge: 1.2.2
 taxonomizr: 0.9.3
 taxotools: 0.0.129
 tayloRswift: 0.1.0
@@ -22335,7 +22335,7 @@ tinter: 0.1.0
 tinyProject: 0.6.1
 tinyarray: 2.2.7
 tinylabels: 0.2.3
-tinyscholar: 0.1.5
+tinyscholar: 0.1.6
 tinyspotifyr: 0.2.2
 tinytest: 1.3.1
 tinytex: '0.40'
