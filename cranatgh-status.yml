@@ -3285,7 +3285,7 @@ LSAmitR: 1.0-3
 LSC: '0.1'
 LSD: 4.1-0
 LSDinterface: 1.2.1
-LSDsensitivity: 1.2.2
+LSDsensitivity: 1.2.3
 LSE: 1.0.0
 LSMRealOptions: 0.2.1
 LSMonteCarlo: '1.0'
@@ -4196,7 +4196,7 @@ NetMix: 0.2.0
 NetOrigin: 1.1-4
 NetPreProc: '1.1'
 NetRep: 1.2.4
-NetSci: 0.1.2
+NetSci: 1.0.0
 NetSim: '0.9'
 NetSimR: 0.1.1
 NetSwan: '0.1'
@@ -6717,6 +6717,7 @@ SurvRegCensCov: '1.5'
 SurvTrunc: 0.1.0
 Survgini: '1.0'
 SurviMChd: 0.1.1
+SurvivalPath: 1.3.2
 SvyNom: '1.2'
 SwarmSVM: 0.1-6
 SweaveListingUtils: 0.7.7
@@ -8521,7 +8522,7 @@ bivrp: 1.2-2
 biwavelet: 0.20.21
 biwt: 1.0.1
 bizdays: 1.0.11
-bizicount: 1.0.0
+bizicount: 1.1.0
 bjscrapeR: 0.1.0
 bkmr: 0.2.2
 bkmrhat: 1.1.3
@@ -8746,6 +8747,7 @@ bsem: 1.0.0
 bshazard: '1.1'
 bslib: 0.3.1
 bsml: 1.5-1
+bsnsing: 1.0.1
 bspec: '1.6'
 bspline: 2.0.1
 bsplinePsd: 0.6.0
@@ -11100,6 +11102,7 @@ el.convex: '1.0'
 elaborator: '1.1'
 elasdics: 0.2.0
 elasso: '1.1'
+elastes: 0.1.6
 elastic: 1.2.0
 elasticIsing: '0.2'
 elasticnet: '1.3'
@@ -11341,7 +11344,7 @@ essentials: 0.1.0
 essurvey: 1.0.8
 estadistica: 0.2.1
 estatapi: 0.4.0
-estimability: '1.3'
+estimability: '1.4'
 estimatr: 0.30.6
 estimraw: 1.0.0
 estmeansd: 1.0.0
@@ -12129,6 +12132,7 @@ fspe: 0.1.1
 fsr: 1.0.1
 fssemR: 0.1.8
 fst: 0.9.8
+fst4pg: 1.0.0
 fstcore: 0.9.12
 fsthet: 1.0.1
 ftDK: '1.0'
@@ -12582,7 +12586,7 @@ getip: 0.1-0
 getlandsat: 0.2.0
 getmstatistic: 0.2.2
 getopt: 1.20.3
-gets: '0.35'
+gets: '0.36'
 getspres: 0.2.0
 gettingtothebottom: '3.2'
 gettz: 0.0.4
@@ -13321,7 +13325,7 @@ hdi: 0.1-9
 hdiVAR: 1.0.1
 hdlm: 1.3.1
 hdm: 0.3.1
-hdme: 0.3.4
+hdme: 0.4.0
 hdnom: 6.0.1
 hdpGLM: 1.0.2
 hdpca: 1.1.5
@@ -15647,7 +15651,7 @@ midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
 migest: 2.0.2
-migraph: 0.9.3
+migraph: 0.10.6
 migrate: 0.4.0
 migration.indices: 0.3.1
 migrbc: 2.0.9
