@@ -3024,6 +3024,7 @@ InterfaceqPCR: '1.0'
 Interpol: 1.3.1
 Interpol.T: '2.1'
 InterpretMSSpectrum: '1.2'
+IntervalQuestionStat: 0.1.0
 IntervalSurgeon: '1.1'
 IntrinioStockAPI: 0.0.1
 InvariantCausalPrediction: '0.8'
@@ -3634,6 +3635,7 @@ MMDCopula: 0.2.1
 MMDai: 2.0.0
 MMDvariance: 0.0.9
 MMG: 1.4.0
+MMINP: 0.1.0
 MMIX: '1.2'
 MMLR: 0.2.0
 MMMS: '0.1'
@@ -5076,6 +5078,7 @@ RDML: '1.0'
 RDP: 0.2.3
 RDS: 0.9-3
 RDSTK: '1.1'
+RDSsamplesize: 0.1.0
 RDStreeboot: '1.0'
 RDataCanvas: '0.1'
 RDieHarder: 0.2.3
@@ -5371,7 +5374,7 @@ RSBJson: 1.1.2
 RSC: 2.0.2
 RSCABS: 0.9.5
 RSCAT: 1.1.3
-RSDA: 3.0.9
+RSDA: 3.0.12
 RSDK: 1.0.1
 RSE: '1.3'
 RSEIS: 4.1-1
@@ -6379,7 +6382,7 @@ SemiParSampleSel: '1.5'
 SemiSupervised: '1.0'
 SenSrivastava: 2015.6.25
 SenTinMixt: 1.0.0
-SensMap: '0.6'
+SensMap: '0.7'
 SensMixed: 2.1-0
 SensitivityCaseControl: '2.2'
 SensoMineR: '1.26'
@@ -6647,7 +6650,7 @@ StempCens: 1.1.0
 StepBeta: 1.0.1
 StepReg: 1.4.3
 StepSignalMargiLike: 2.6.0
-SteppedPower: 0.3.1
+SteppedPower: 0.3.2
 StepwiseTest: '1.0'
 StereoMorph: 1.6.7
 Stickbreaker: 1.0.0
@@ -7157,7 +7160,7 @@ VIRF: 0.1.0
 VLF: '1.0'
 VLMC: 1.4-3-1
 VLTimeCausality: 0.1.4
-VMDecomp: 1.0.0
+VMDecomp: 1.0.1
 VNM: '7.1'
 VOSONDash: 0.5.7
 VPdtw: 2.1-9
@@ -9946,7 +9949,7 @@ cssTools: '1.0'
 cstab: 0.2-2
 cstar: '1.0'
 csurvey: '1.3'
-csv: 0.6.1
+csv: 0.6.2
 csvread: 1.2.1
 csvwr: 0.1.6
 csvy: 0.3.0
@@ -10331,7 +10334,7 @@ demogR: 0.6.0
 demography: '1.22'
 demu: 0.3.0
 dendRoAnalyst: 0.1.3
-dendextend: 1.15.2
+dendextend: 1.16.0
 dendextendRcpp: 0.6.1
 dendroExtra: 0.0.2
 dendroTools: 1.2.8
@@ -10704,7 +10707,7 @@ dotwhisker: 0.7.4
 doubcens: '1.1'
 double.truncation: '1.7'
 doubt: 0.1.0
-downlit: 0.4.1
+downlit: 0.4.2
 downloader: '0.4'
 downloadthis: 0.3.1
 downscale: 4.2-0
@@ -11023,7 +11026,7 @@ edgar: 2.0.5
 edgarWebR: 1.1.0
 edgeCorr: '1.0'
 edgeRun: 1.0.9
-edgebundle: 0.3.1
+edgebundle: 0.4.0
 edgebundleR: 0.1.4
 edgedata: 0.2.0
 edibble: 0.1.0
@@ -12129,7 +12132,7 @@ fslr: 2.24.1
 fsn: '0.2'
 fso: 2.1-1
 fspe: 0.1.1
-fsr: 1.0.1
+fsr: 1.0.2
 fssemR: 0.1.8
 fst: 0.9.8
 fst4pg: 1.0.0
@@ -12705,7 +12708,7 @@ ggmcmc: 1.5.1.1
 ggmice: 0.0.1
 ggmix: 0.0.2
 ggmosaic: 0.3.3
-ggmotif: 0.1.3
+ggmotif: 0.1.4
 ggmr: 0.1.1
 ggmsa: 1.0.2
 ggmuller: 0.5.4
@@ -12756,6 +12759,7 @@ ggseas: 0.5.4
 ggseg: 1.6.5
 ggseg3d: 1.6.3
 ggseqlogo: '0.1'
+ggseqplot: 0.6.2
 ggshadow: 0.0.2
 ggside: 0.2.0
 ggsignif: 0.6.3
@@ -14571,13 +14575,13 @@ latrend: 1.4.1
 latte: 0.2.1
 lattice: 0.20-45
 latticeDensity: 1.2.6
-latticeExtra: 0.6-29
+latticeExtra: 0.6-30
 latticedl: '1.2'
 latticist: 0.9-44
 lava: 1.6.10
 lava.tobit: '0.5'
 lavaSearch2: 1.5.6
-lavaan: 0.6-11
+lavaan: 0.6-12
 lavaan.shiny: '1.2'
 lavaan.survey: 1.1.3.1
 lavaanPlot: 0.6.2
@@ -17289,7 +17293,7 @@ panelr: 0.7.6
 panelvar: 0.5.3
 pangaear: 1.1.0
 panstarrs: 0.1.0
-papaja: 0.1.0
+papaja: 0.1.1
 papayar: '1.0'
 papci: 0.1.0
 papeR: 1.0-5
@@ -18049,7 +18053,7 @@ postinfectious: 0.1.0
 postlightmercury: '1.2'
 postlogic: 0.1.0.1
 postpack: 0.5.3
-potential: 0.1.0
+potential: 0.2.0
 potools: 0.2.2
 potts: 0.5-9
 pould: 1.0.1
@@ -18322,7 +18326,7 @@ psidR: '2.1'
 pso: 1.0.4
 psoptim: '1.0'
 psp: '0.1'
-pspatreg: 1.0.3
+pspatreg: 1.0.4
 pspearman: 0.3-1
 pspline: 1.0-19
 pspline.inference: 1.0.4
@@ -22488,7 +22492,7 @@ trajeR: 0.9.0.5
 trajectories: 0.2-3
 trajr: 1.4.0
 tram: 0.7-1
-tramME: 1.0.1
+tramME: 1.0.2
 tramnet: 0.0-6
 trampoline: 0.1.1
 tranSurv: 1.2.2
