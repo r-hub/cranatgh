@@ -3425,7 +3425,7 @@ MAFDash: 0.2.1
 MAGEE: 1.2.0
 MAGNAMWAR: 2.0.4
 MAINT.Data: 2.6.2
-MAKL: 1.0.0
+MAKL: 1.0.1
 MALDIquant: '1.21'
 MALDIquantForeign: '0.13'
 MALDIrppa: 1.1.0-1
@@ -4351,7 +4351,7 @@ OpenMPController: 0.2-5
 OpenMx: 2.20.6
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.1
-OpenSpecy: 0.9.3
+OpenSpecy: 0.9.5
 OpenStreetMap: 0.3.4
 OpenTreeChronograms: 2022.1.28
 Opportunistic: '1.2'
@@ -7145,7 +7145,7 @@ VEwaning: '1.2'
 VEwaningVariant: '1.3'
 VFP: '1.4'
 VFS: 1.0.2
-VGAM: 1.1-6
+VGAM: 1.1-7
 VGAMdata: 1.1-6
 VGAMextra: 0.0-5
 VHDClassification: '0.3'
@@ -8216,7 +8216,7 @@ bcTSNE: 0.11.1
 bcaboot: 0.2-3
 bcc: 1.3.1
 bccp: 0.5.0
-bcdata: 0.3.1
+bcdata: 0.3.2
 bcf: 1.3.1
 bcfrailph: 0.1.0
 bcfrailphdv: 0.1.0
@@ -8676,7 +8676,7 @@ bpkde: '1.0'
 bpnreg: 2.0.2
 bpp: 1.0.4
 bpr: 1.0.5
-bqror: 1.3.0
+bqror: 1.4.0
 bqtl: 1.0-33
 braQCA: 1.2.1.29
 bracer: 1.2.1
@@ -8730,6 +8730,7 @@ broom.helpers: 1.8.0
 broom.mixed: 0.2.9.4
 broomExtra: 4.3.2
 brotli: '1.2'
+brpop: 0.1.0
 brr: 1.0.0
 brranching: 0.7.0
 brt: 1.3.0
@@ -9681,7 +9682,7 @@ copula: 1.1-0
 copulaData: 0.0-1
 copulaedas: 1.4.3
 copulareg: 0.1.0
-copyseparator: 1.0.0
+copyseparator: 1.1.0
 corHMM: '2.8'
 corTest: 1.0.7
 corTools: '1.0'
@@ -9970,7 +9971,7 @@ ctmle: 0.1.2
 ctmm: 0.6.1
 ctpm: 1.0.1
 ctqr: '2.0'
-ctrdata: 1.9.1
+ctrdata: 1.10.0
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
 cts: '1.0'
@@ -10316,6 +10317,7 @@ degreenet: 1.3-3
 degross: 0.9.0
 deisotoper: 0.0.7
 dejaVu: 0.3.0
+delaunay: 1.0.0
 delayed: 0.3.0
 deldir: 1.0-6
 delftfews: 0.3-67
@@ -10852,7 +10854,7 @@ dynConfiR: 0.0.1
 dynCorr: 1.1.0
 dynGraph: '0.99100403'
 dynOmics: '1.2'
-dynRB: '0.16'
+dynRB: '0.17'
 dynaSpec: 1.0.1
 dynaTree: 1.2-13
 dynamAedes: 2.0.2
@@ -11245,7 +11247,7 @@ epicalc: 2.9.2.8
 epicontacts: 1.1.2
 epidata: 0.4.0
 epidemia: 1.0.0
-epidm: 1.0.2
+epidm: 1.0.3
 epifit: 0.1.2
 epifitter: 0.3.0
 epiflows: 0.2.0
@@ -11620,7 +11622,7 @@ farmR: '1.1'
 farr: 0.2.27
 farrell: 0.2.1
 farsi: '1.0'
-farver: 2.1.0
+farver: 2.1.1
 fasano.franceschini.test: 2.0.0
 fasi: 1.0.0
 fasjem: 1.1.2
@@ -11797,7 +11799,7 @@ fiberLD: 0.1-6
 fic: 1.0.0
 fidap: 0.0.3
 fidelius: 0.0.2
-fido: 1.0.1
+fido: 1.0.2
 fieldRS: 0.2.3
 fields: '14.0'
 fiery: 1.1.3
@@ -15192,7 +15194,7 @@ mapmisc: 1.8.0
 mapping: '1.3'
 mappings: '0.1'
 mapplots: 1.5.1
-mappoly: 0.3.0
+mappoly: 0.3.1
 mappp: 1.0.0
 mapproj: 1.2.8
 mapr: 0.5.2
@@ -15786,7 +15788,7 @@ mixtox: 1.4.0
 mixtur: 1.2.0
 mixture: 2.0.4
 mize: 0.2.4
-mizer: 2.3.0.1
+mizer: 2.3.1
 mkde: '0.1'
 mkin: 1.1.0
 mknapsack: 0.1.0
@@ -16326,7 +16328,7 @@ mvnTest: 1.1-0
 mvna: 2.0.1
 mvnfast: 0.2.7
 mvngGrAd: 0.1.5
-mvnimpute: 1.0.0
+mvnimpute: 1.0.1
 mvnmle: 0.1-8
 mvnormalTest: 1.0.0
 mvnormtest: 0.1-9
@@ -20621,7 +20623,7 @@ shinySIR: 0.1.2
 shinySearchbar: 1.0.0
 shinySelect: 1.0.0
 shinyShortcut: 0.1.0
-shinyTempSignal: 0.0.2
+shinyTempSignal: 0.0.3
 shinyTime: 1.0.1
 shinyToastify: 2.0.0
 shinyTree: 0.2.7
@@ -23017,7 +23019,7 @@ versions: '0.3'
 versionsort: 1.1.0
 vertexenum: 1.0.2
 vesselr: 0.2.1
-vetiver: 0.1.5
+vetiver: 0.1.6
 vetools: 1.3-28
 vetr: 0.2.13
 vfcp: 1.4.0
