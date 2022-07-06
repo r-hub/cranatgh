@@ -185,7 +185,7 @@ AdaptFitOS: '0.68'
 AdaptGauss: 1.5.6
 AdaptiveSparsity: '1.6'
 AdequacyModel: 2.0.0
-AdhereR: 0.8.0
+AdhereR: 0.8.1
 AdhereRViz: 0.2.1
 AdjBQR: '1.0'
 AdvBinomApps: '1.0'
@@ -212,7 +212,7 @@ AlleleRetain: 2.0.2
 AlleleShift: 1.0-2
 Allspice: 1.0.5
 AlphaPart: 0.9.3
-AlphaSimR: '1.2'
+AlphaSimR: 1.2.1
 AlphaVantageClient: 0.0.1
 Amelia: 1.8.0
 AmericanCallOpt: '0.95'
@@ -332,7 +332,7 @@ BAS: 1.6.2
 BASIX: '1.2'
 BASS: 1.2.2
 BASiNET: 0.0.4
-BASiNETEntropy: 0.99.2
+BASiNETEntropy: 0.99.3
 BAT: 2.8.1
 BAYESDEF: 0.1.0
 BAYSTAR: 0.2-10
@@ -535,7 +535,7 @@ BayesDA: 2012.04-1
 BayesDesign: 0.1.1
 BayesESS: 0.1.19
 BayesFM: 0.1.5
-BayesFactor: 0.9.12-4.3
+BayesFactor: 0.9.12-4.4
 BayesGESM: '1.4'
 BayesGOF: '5.2'
 BayesGPfit: 0.1.0
@@ -896,7 +896,7 @@ CNprep: '2.2'
 CNull: '1.0'
 COBRA: '0.99'
 COCONUT: 1.0.2
-COINr: 0.6.1
+COINr: 1.0.0
 COMBAT: 0.0.4
 COMBIA: 1.0.6
 COMIX: 0.1.6
@@ -1050,7 +1050,7 @@ ChangepointTesting: '1.1'
 ChannelAttribution: 2.0.5
 ChannelAttributionApp: '1.3'
 Chaos01: 1.2.1
-ChaosGame: '1.2'
+ChaosGame: '1.3'
 CharFun: 0.1.0
 ChargeTransport: '1.0'
 CheckDigit: 1.0.0
@@ -1178,7 +1178,7 @@ ComparisonCR: 1.0.4
 ComparisonSurv: 1.1.0
 CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
-Compind: '2.5'
+Compind: '2.6'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 Compositional: '5.7'
@@ -1847,7 +1847,7 @@ EasyMx: 0.2-12
 EasyStrata: '8.6'
 EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
-Ecdat: 0.4-0
+Ecdat: 0.4-1
 Ecfun: 0.2-6
 EcoDiet: 1.0.0
 EcoGenetics: 1.2.1
@@ -1979,7 +1979,7 @@ ExpAnalysis3d: 0.1.1
 ExpDE: 0.1.4
 ExpDes: 1.2.2
 ExpDes.pt: 1.2.2
-ExpImage: 0.4.0
+ExpImage: 0.5.0
 ExpRep: '1.0'
 ExpertChoice: 0.2.0
 ExplainPrediction: 1.3.0
@@ -4648,7 +4648,7 @@ Paneldata: '1.0'
 PantaRhei: 0.1.2
 ParBayesianOptimization: 1.2.4
 ParDNAcopy: '2.0'
-ParallelDSM: 0.3.3
+ParallelDSM: 0.3.4
 ParallelForest: 1.1.0
 ParallelLogger: 3.0.1
 ParallelPC: '1.2'
@@ -6041,7 +6041,7 @@ SCAT: 0.5.0
 SCBiclust: 1.0.1
 SCBmeanfd: 1.2.2
 SCCI: '1.2'
-SCCS: '1.5'
+SCCS: '1.6'
 SCEM: 1.1.0
 SCEPtER: 0.2-4
 SCEPtERbinary: 0.1-1
@@ -6099,7 +6099,7 @@ SEL: 1.0-3
 SELF: 0.1.1
 SEMID: 0.4.0
 SEMModComp: '1.0'
-SEMgraph: 1.1.1
+SEMgraph: 1.1.2
 SEMrushR: 0.1.0
 SEMsens: 1.0.5
 SETPath: '1.0'
@@ -8726,7 +8726,7 @@ brokenstick: 2.1.0
 brolgar: 0.1.2
 broman: '0.76'
 broom: 1.0.0
-broom.helpers: 1.7.0
+broom.helpers: 1.8.0
 broom.mixed: 0.2.9.4
 broomExtra: 4.3.2
 brotli: '1.2'
@@ -8783,7 +8783,7 @@ bunching: 0.8.4
 bunchr: 1.2.0
 bundesbank: 0.1-9
 bundesligR: 0.1.0
-bupaR: 0.4.4
+bupaR: 0.5.0
 burnr: 0.6.1
 bursts: '1.0'
 busdater: 0.2.0
@@ -10807,6 +10807,7 @@ dtp: 0.1.0
 dtpcrm: 0.1.1
 dtplyr: 1.2.1
 dtrSurv: '1.4'
+dtrackr: 0.2.4
 dtree: 0.4.2
 dtt: 0.1-2
 dttr2: 0.4.0
@@ -11670,7 +11671,7 @@ fastlogranktest: 0.2.1
 fastmaRching: 1.1.0
 fastmap: 1.1.0
 fastmatch: 1.1-3
-fastmatrix: 0.4-1
+fastmatrix: 0.4-12
 fastmit: 0.1.1
 fastnet: 1.0.0
 fastpos: 0.4.1
@@ -11798,7 +11799,7 @@ fidap: 0.0.3
 fidelius: 0.0.2
 fido: 1.0.1
 fieldRS: 0.2.3
-fields: '13.3'
+fields: '14.0'
 fiery: 1.1.3
 fifer: '1.1'
 fiftystater: 1.0.1
@@ -12449,7 +12450,7 @@ generalCorr: 1.2.2
 generalKSStat: 1.0.3
 generalhoslem: 1.3.4
 generator: 0.1.0
-generics: 0.1.2
+generics: 0.1.3
 genero: 0.1.0
 genesysr: 1.0.0
 geneticae: 0.3.0
@@ -14214,7 +14215,7 @@ jarbes: 2.0.0
 jcext: 0.1.1
 jcolors: 0.0.4
 jcp: '1.2'
-jds.rmd: 0.3.0
+jds.rmd: 0.3.1
 jdx: 0.1.4
 jeek: 1.1.1
 jenga: 1.2.0
@@ -15233,7 +15234,7 @@ markerSearchPower: '1.0'
 markerpen: 0.1.1
 marketeR: 0.1.1
 marketr: 0.0.2
-markets: 1.0.3
+markets: 1.0.6
 markmyassignment: 0.8.6
 markophylo: 1.0.8
 markovMSM: 0.1.0
@@ -16870,7 +16871,7 @@ occ: '1.1'
 occCite: 0.5.4
 occupancy: '1.2'
 ocd: '1.1'
-oce: 1.7-6
+oce: 1.7-8
 ocean: 0.2-4
 oceanic: 0.1.3
 oceanis: 1.8.4
@@ -17147,7 +17148,7 @@ otp: 0.1.0
 otpr: 0.5.1
 otrimle: '2.0'
 otsad: 0.2.0
-ottr: 1.1.5
+ottr: 1.2.0
 ottrpal: 1.0.1
 otuSummary: 0.1.1
 otvPlots: 0.2.1
@@ -18440,7 +18441,7 @@ qPCR.CT: '1.1'
 qPCRtools: 0.1.1
 qVarSel: '1.0'
 qacBase: 1.0.3
-qad: 1.0.2
+qad: 1.0.3
 qap: 0.1-2
 qape: '1.1'
 qat: '0.74'
@@ -18656,7 +18657,7 @@ r4googleads: 0.1.1
 r4lineups: 0.1.1
 r4ss: 1.44.0
 r511: 0.1.1
-r5r: 0.7.0
+r5r: 0.7.1
 r6extended: 0.1.2
 r6methods: 0.1.0
 rADA: 1.1.9
@@ -19037,7 +19038,7 @@ rcv: 0.2.1
 rda: '1.0'
 rdacca.hp: 1.0-8
 rdaemon: 1.0.6
-rdaisi: 0.1.1
+rdaisi: 0.1.2
 rdatacite: 0.5.2
 rdatamarket: '0.6'
 rdataretriever: 3.1.0
@@ -19511,6 +19512,7 @@ riskyr: 0.3.0
 rite: '0.3'
 ritis: 1.0.0
 riv: 2.0-5
+riverconn: 0.3.18
 riverdist: 0.15.5
 rivernet: 1.2.1
 riverplot: '0.10'
@@ -19863,7 +19865,7 @@ rscimark: '1.0'
 rsconnect: 0.8.26
 rscontract: 0.1.2
 rscopus: 0.6.6
-rscorecard: 0.22.0
+rscorecard: 0.23.0
 rscproxy: 2.0-5
 rsdNE: 1.0.0
 rsdepth: 0.1-22
@@ -19943,6 +19945,7 @@ rtfbs: '0.3'
 rtgstat: 0.3.1
 rticles: '0.23'
 rticulate: 1.7.2
+rtiddlywiki: 0.1.0
 rtide: 0.0.9
 rties: 5.0.0
 rtiff: '1.4'
@@ -20564,7 +20567,7 @@ shar: 1.3.2
 sharp: 1.1.0
 sharpData: '1.4'
 sharpPen: '1.8'
-sharpeRratio: '1.4'
+sharpeRratio: 1.4.3
 sharpr2: 1.1.1.0
 sharpshootR: '1.9'
 sharx: 1.0-5
@@ -21350,7 +21353,7 @@ spots: 0.1.0
 spp: 1.16.0
 sppmix: 1.0.2
 spqdep: 0.1.2
-spray: 1.0-19
+spray: 1.0-20
 spread: 2019.8.5
 spreadr: 0.2.0
 spreval: 1.1.0
@@ -21846,7 +21849,7 @@ svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
 svplots: 0.1.0
-svrep: 0.2.0
+svrep: 0.3.0
 svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: '0.1'
@@ -22029,7 +22032,7 @@ tcR: 2.3.2
 tccox: 0.1.0
 tcensReg: 0.1.7
 tcftt: 0.1.0
-tcgaViz: 1.0.0
+tcgaViz: 1.0.1
 tcgsaseq: 2.0.5
 tci: 0.1.2
 tcie: '0.3'
@@ -23087,7 +23090,7 @@ vmsbase: 2.2.1
 vmv: '1.0'
 vntrs: 0.1.0
 vocaldia: 0.8.3
-volcano3D: 1.2.0
+volcano3D: 2.0.0
 volesti: 1.1.2-2
 volleystat: 0.2.0
 voluModel: 0.1.6
@@ -23351,7 +23354,7 @@ wordsalad: 0.2.0
 wordspace: 0.2-7
 workboots: 0.2.0
 workflowr: 1.7.0
-workflows: 0.2.6
+workflows: 1.0.0
 workflowsets: 0.2.1
 workloopR: 1.1.4
 worldfootballR: 0.5.6
@@ -23360,7 +23363,7 @@ worms: 0.2.2
 worrms: 0.4.2
 wosr: 0.3.0
 wowa: 1.0.2
-wpa: 1.7.0
+wpa: 1.8.0
 wpp2008: 1.0-1
 wpp2010: 1.2-0
 wpp2012: 2.2-1
