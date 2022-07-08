@@ -1181,7 +1181,7 @@ CompetingRiskFrailty: '2.0'
 Compind: '2.6'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
-Compositional: '5.7'
+Compositional: '5.8'
 CompoundEvents: 0.1.0
 Compounding: '1.0'
 ConConPiWiFun: 0.4.6.1
@@ -1482,7 +1482,7 @@ DSMolgenisArmadillo: 1.4.1
 DSOpal: 1.3.1
 DSSAT: 0.0.6
 DSSP: 0.1.0
-DSWE: 1.5.1
+DSWE: 1.6.0
 DSjobtracker: 0.1.1
 DSpat: 0.1.6
 DSpoty: 0.1.0
@@ -2853,8 +2853,8 @@ IDF: 2.1.1
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
-IDSL.IPA: '1.8'
-IDSL.MXP: '1.4'
+IDSL.IPA: '1.9'
+IDSL.MXP: '1.5'
 IDSL.SUFA: '1.0'
 IDSL.UFA: '1.4'
 IDSL.UFAx: '1.4'
@@ -2864,7 +2864,7 @@ IDetect: 0.1.0
 IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
-IFAA: 1.0.6
+IFAA: 1.0.7
 IFC: 0.1.5
 IFP: 0.2.4
 IFSPlot: '1.0'
@@ -4809,7 +4809,7 @@ PredictiveRegression: 0.1-4
 PresenceAbsence: 1.1.10
 PressPurt: 1.0.2
 PrevMap: 1.5.4
-PriceIndices: 0.0.7
+PriceIndices: 0.0.8
 PriorCD: 0.1.0
 PriorGen: 1.1.2
 PrivateLR: 1.2-22
@@ -10954,7 +10954,7 @@ ebal: 0.1-8
 ebci: 1.0.0
 ebdbNet: 1.2.6
 ebimetagenomics: '0.6'
-ebirdst: 0.3.5
+ebirdst: 1.2020.0
 ebmc: 1.0.1
 ebmstate: 0.1.3
 ebnm: 1.0-9
@@ -13550,7 +13550,7 @@ htestClust: 0.2.2
 htm2txt: 2.2.2
 html2R: 0.1.0
 html5: 1.0.0
-htmlTable: 2.4.0
+htmlTable: 2.4.1
 htmldf: 0.5.0
 htmltab: 0.8.2
 htmltidy: 0.5.0
@@ -17490,7 +17490,7 @@ pdfetch: 0.2.7
 pdfminer: '1.0'
 pdfsearch: 0.3.0
 pdftables: '0.1'
-pdftools: 3.2.1
+pdftools: 3.3.0
 pdi: 0.4.2
 pdist: 1.2.1
 pdmod: 1.0.1
@@ -19142,7 +19142,7 @@ recapr: 0.4.4
 reccsim: 0.9-1
 recexcavAAR: 0.3.0
 rechonest: '1.2'
-recipes: 1.0.0
+recipes: 1.0.1
 reclin: 0.1.2
 reclin2: 0.1.1
 recluster: '2.9'
@@ -20249,7 +20249,7 @@ scclust: 0.2.2
 sccore: 1.0.1
 sccr: '2.1'
 scdensity: 1.0.2
-scdhlm: 0.5.2
+scdhlm: 0.6.0
 scenario: '1.0'
 scgwr: 0.1.2-21
 schemr: 0.1.0
@@ -20375,7 +20375,7 @@ seecolor: 0.1.0
 seedCCA: '3.1'
 seededlda: 0.8.1
 seedr: 0.3.0
-seedreg: 1.0.2
+seedreg: 1.0.3
 seeds: 0.9.1
 seedwater: '2.0'
 seedy: '1.3'
@@ -20566,7 +20566,7 @@ shapefiles: '0.7'
 shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
-shapviz: 0.1.0
+shapviz: 0.2.0
 shar: 1.3.2
 sharp: 1.1.0
 sharpData: '1.4'
@@ -20852,7 +20852,7 @@ sitmo: 2.0.2
 sitools: '1.4'
 sitree: 0.1-13
 sitreeE: 0.0-8
-sits: 1.0.0
+sits: 1.1.0
 sitsfeats: 0.0.1
 sivipm: 1.1-4
 sivs: 0.2.5
@@ -21329,8 +21329,8 @@ splmm: 1.1.3
 splot: 0.5.2
 spls: 2.2-3
 splus2R: 1.3-3
-splusTimeDate: 2.5.3
-splusTimeSeries: 1.5.4
+splusTimeDate: 2.5.4
+splusTimeSeries: 1.5.5
 splutil: 2022.6.20
 spm: 1.2.2
 spm12r: 2.8.3
@@ -21923,7 +21923,7 @@ synlik: 0.1.5
 synoptReg: 1.2.1
 synr: 0.5.1
 syntaxr: 0.8.0
-synthACS: 1.6.0
+synthACS: 1.6.2
 synthesis: 1.2.3
 synthesisr: 0.3.0
 synthpop: 1.7-0
@@ -22690,7 +22690,7 @@ tukeyGH: 1.0.0
 tukeytrend: '0.7'
 tumblR: '1.2'
 tumgr: 0.0.4
-tune: 0.2.0
+tune: 1.0.0
 tuneR: 1.4.0
 tuneRanger: '0.5'
 tuple: 0.4-02
@@ -22986,7 +22986,7 @@ vcrpart: 1.0-4
 vctrs: 0.4.1
 vcvComp: 1.0.2
 vdar: 0.1.3-2
-vdg: 1.2.1
+vdg: 1.2.2
 vdiffr: 1.0.4
 vdmR: 0.2.6
 vdra: 1.0.0
