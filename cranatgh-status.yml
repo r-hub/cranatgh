@@ -578,7 +578,7 @@ BayesSingleSub: '0.6'
 BayesSpec: 0.5.3
 BayesSummaryStatLM: '2.0'
 BayesSurvival: 0.2.0
-BayesTools: 0.2.11
+BayesTools: 0.2.12
 BayesTree: 0.3-1.4
 BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
@@ -2189,7 +2189,7 @@ FlexGAM: 0.7.2
 FlexParamCurve: 1.5-5
 FlexReg: '1.1'
 FlexScan: 0.2.2
-FlickrAPI: 0.1.0.0
+FlickrAPI: 0.1.0.1
 FloodFreqPlot: 0.1.0
 FloodMapper: '1.0'
 FlowCAr: 1.1.1
@@ -3465,7 +3465,7 @@ MBAnalysis: 0.1.0
 MBC: 0.10-5
 MBCbook: 0.1.1
 MBCluster.Seq: '1.0'
-MBESS: 4.9.0
+MBESS: 4.9.1
 MBHdesign: 2.2.2
 MBI: '1.0'
 MBNMAdose: 0.4.1
@@ -4977,7 +4977,7 @@ R2SWF: 0.9-7
 R2WinBUGS: 2.1-21
 R2admb: 0.7.16.2
 R2jags: 0.7-1
-R2ucare: 1.0.0
+R2ucare: 1.0.2
 R2wd: '1.5'
 R330: '1.0'
 R3port: 0.2.4
@@ -9177,7 +9177,7 @@ choroplethrMaps: 1.0.1
 chorrrds: 0.1.9
 chplot: '1.3'
 christmas: 1.1.1
-chromConverter: 0.1.0
+chromConverter: 0.2.1
 chromatographR: 0.4.1
 chromer: '0.1'
 chromoMap: 4.1.1
@@ -10507,7 +10507,7 @@ digitalDLSorteR: 0.3.0
 digitalPCR: 1.1.0
 digitize: 0.0.4
 dils: '0.8'
-dimRed: 0.2.5
+dimRed: 0.2.6
 dimensio: 0.2.2
 dimensionalAnalysis: 0.1.0
 dimensionsR: 0.0.3
@@ -10576,7 +10576,7 @@ distance.sample.size: '0.0'
 distances: 0.1.8
 distanceto: 0.0.2
 distantia: 1.0.2
-distcomp: 1.3-1
+distcomp: 1.3-2
 distcrete: 1.0.3
 distdichoR: 0.1-1
 distdrawr: 0.1.3
@@ -10695,7 +10695,7 @@ doebioresearch: 0.1.0
 doex: '1.2'
 dominanceanalysis: 2.0.0
 domino: 0.3.1
-domir: 0.3.2
+domir: 1.0.0
 donut: 1.0.2
 doolkit: 1.42.1
 doremi: 1.0.0
@@ -11214,7 +11214,7 @@ ensemblepp: 1.0-0
 ensr: 0.1.0
 ensurer: '1.1'
 entcn: 1.0.0
-entropart: 1.6-10
+entropart: 1.6-11
 entropy: 1.3.1
 entrymodels: 0.2.1
 envDocument: 2.4.1
@@ -12542,7 +12542,7 @@ geomtextpath: 0.1.0
 geomultistar: 1.1.0
 geonames: '0.999'
 geonapi: '0.6'
-geonet: 0.6.0
+geonet: 0.7.3
 geonetwork: 0.4.1
 geoops: 0.3.0
 geoparser: 0.1.2
@@ -12883,7 +12883,7 @@ glmmGS: '0.5'
 glmmLasso: 1.6.1
 glmmML: 1.1.3
 glmmPen: 1.5.1.10
-glmmSeq: 0.1.0
+glmmSeq: 0.2.0
 glmmTMB: 1.1.3
 glmmboot: 0.6.0
 glmmfields: 0.1.4
@@ -14913,7 +14913,7 @@ localsolver: '2.3'
 locatexec: 0.1.1
 locationgamer: 0.1.0
 locfdr: 1.1-8
-locfit: 1.5-9.5
+locfit: 1.5-9.6
 locits: 1.7.5
 locpol: 0.7-0
 locpolExpectile: 0.1.1
@@ -15241,7 +15241,7 @@ markerSearchPower: '1.0'
 markerpen: 0.1.1
 marketeR: 0.1.1
 marketr: 0.0.2
-markets: 1.0.6
+markets: 1.1.0
 markmyassignment: 0.8.6
 markophylo: 1.0.8
 markovMSM: 0.1.0
@@ -15486,7 +15486,7 @@ met: 0.1.0
 metR: 0.12.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
-meta: 5.2-0
+meta: 5.5-0
 meta.shrinkage: 0.1.2
 meta4diag: 2.1.1
 metaBLUE: 1.0.0
@@ -16851,7 +16851,7 @@ nzffdr: 2.0.0
 nzilbb.labbcat: 1.1-1
 nzpullover: 0.3.0
 o2geosocial: 1.1.0
-o2plsda: 0.0.16
+o2plsda: 0.0.17
 oRus: 1.0.0
 oXim: 1.2.2
 oaColors: 0.0.4
@@ -17674,7 +17674,7 @@ phonenumber: 0.2.3
 phonfieldwork: 0.0.11
 phonics: 1.3.10
 phosphoricons: 0.1.2
-photobiology: 0.10.10
+photobiology: 0.10.11
 photobiologyFilters: 0.5.2
 photobiologyInOut: 0.4.24
 photobiologyLEDs: 0.5.0
@@ -18352,7 +18352,7 @@ psych: 2.2.5
 psychNET: 0.0.4
 psychReport: 3.0.1
 psychTools: 2.2.5
-psychmeta: 2.6.3
+psychmeta: 2.6.4
 psychmetadata: 1.0.0
 psycho: 0.6.1
 psychometric: '2.3'
@@ -18544,7 +18544,7 @@ qtbase: 1.0.9
 qte: 1.3.0
 qtl: '1.52'
 qtl2: '0.28'
-qtl2convert: '0.26'
+qtl2convert: '0.28'
 qtl2fst: '0.26'
 qtl2ggplot: 1.2.1
 qtl2pattern: 1.2.0
@@ -21132,8 +21132,8 @@ spacom: 1.0-5
 spacyr: 1.2.1
 spaero: 0.6.0
 spagmix: 0.3-5
-spam: 2.8-0
-spam64: 2.8-0
+spam: 2.9-0
+spam64: 2.9-0
 spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
@@ -21666,7 +21666,7 @@ stringdist: 0.9.8
 stringfish: 0.15.7
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
-stringi: 1.7.6
+stringi: 1.7.8
 stringkernels: 0.8.9
 stringr: 1.4.0
 stringx: 0.2.2
@@ -21742,7 +21742,7 @@ supercompress: '1.1'
 superdiag: '2.0'
 superheat: 0.1.0
 superml: 0.5.5
-supernova: 2.5.1
+supernova: 2.5.3
 superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-8
@@ -22199,7 +22199,7 @@ thgenetics: 0.4-2
 thickmatch: 0.3.1
 thief: '0.3'
 thinkr: '0.15'
-this.path: 0.7.0
+this.path: 0.8.0
 thor: 1.1.2
 thorn: 0.2.0
 thredds: 0.1-1
@@ -22419,7 +22419,7 @@ toaster: 0.5.5
 toastui: 0.2.1
 tobit1: 0.1-3
 todor: 0.1.2
-togglr: 0.1.33
+togglr: 0.1.99
 tokenbrowser: 0.1.5
 tokenizers: 0.2.1
 tokenizers.bpe: 0.1.0
@@ -23367,7 +23367,7 @@ workflowr: 1.7.0
 workflows: 1.0.0
 workflowsets: 0.2.1
 workloopR: 1.1.4
-worldfootballR: 0.5.6
+worldfootballR: 0.5.7
 worldmet: 0.9.5
 worms: 0.2.2
 worrms: 0.4.2
