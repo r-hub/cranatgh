@@ -2025,7 +2025,7 @@ FDRestimation: 1.0.1
 FDRreg: '0.1'
 FDRsampsize: '1.0'
 FDX: 1.0.4
-FDboost: 1.0-0
+FDboost: 1.1-0
 FEA: 0.0.1
 FENmlm: 2.4.3
 FER: '0.94'
@@ -2203,6 +2203,7 @@ FlywayNet: 0.1.0
 FoReco: 0.2.5
 ForIT: 2.0.1
 ForImp: '1.0'
+ForagingOrg: 0.1.0
 ForeCA: 0.2.7
 ForecastComb: 1.3.1
 ForecastCombinations: '1.1'
@@ -5137,7 +5138,7 @@ RGENERATEPREC: 1.2.9
 RGF: 1.0.8
 RGIFT: 0.1-5
 RGISTools: 1.0.2
-RGMM: 0.1.0
+RGMM: 1.1.0
 RGeckoboard: 0.1-5
 RGenData: '1.0'
 RGenetics: '0.1'
@@ -5980,7 +5981,7 @@ Rvoterdistance: '1.1'
 Rwave: 2.6-0
 Rwclust: 0.0.1
 RweaveExtra: 1.0-0
-Rwhois: 1.0.11
+Rwhois: 1.0.12
 Rwinsteps: 1.0-1
 Rwofost: 0.8-3
 Rwordseg: 0.3-2
@@ -7031,6 +7032,7 @@ TreeSearch: 1.1.2
 TreeSim: '2.4'
 TreeSimGM: '2.5'
 TreeTools: 1.7.2
+TrenchR: 0.1.0
 TrendInTrend: 1.1.3
 TrendSLR: '1.0'
 TrendTM: 2.0.14
@@ -8774,7 +8776,7 @@ btf: '1.2'
 bubblyr: 0.1.2
 bucky: 1.0.7
 buffeRs: '0.31'
-buildmer: '2.5'
+buildmer: '2.6'
 buildr: 0.1.0
 bujar: 0.2-9
 bulkAnalyseR: 1.0.0
@@ -8857,7 +8859,7 @@ calibrate: 1.7.7
 calibrateBinary: '0.1'
 calibrator: 1.2-8
 caliver: 2.0.0
-callr: 3.7.0
+callr: 3.7.1
 calmate: 0.13.0
 calpassapi: 0.0.3
 camel: 0.2.0
@@ -9105,7 +9107,7 @@ cgraph: 6.0.1
 cgrcusum: 0.1.0
 cgwtools: '3.3'
 ch: 0.1.0.2
-chameleon: 0.2-0
+chameleon: 0.2-2
 chandwich: 1.1.5
 changeLOS: '2.1'
 changedetection: 0.2.0
@@ -10160,7 +10162,7 @@ datamap: 0.1-1
 datamaps: 0.0.3
 datamart: 0.5.2
 datamerge: 1.0.3
-datamods: 1.3.2
+datamods: 1.3.3
 datanugget: 1.0.0
 dataonderivatives: 0.4.0
 dataone: 2.2.2
@@ -12975,12 +12977,12 @@ gogamer: 0.4.3
 gogarch: 0.7-5
 goldi: 1.0.1
 goldilocks: 0.3.0
-golem: 0.3.2
+golem: 0.3.3
 gomms: '1.0'
 gontr: 1.1.0
 gooJSON: '1.0'
 good: 1.0.1
-goodpractice: 1.0.2
+goodpractice: 1.0.3
 googleAnalyticsR: 1.0.1
 googleAuthR: 2.0.0
 googleCloudRunner: 0.5.0
@@ -13197,7 +13199,7 @@ gsw: 1.0-6
 gsynth: 1.2.1
 gt: 0.6.0
 gt4ireval: '2.0'
-gtExtras: 0.4.0
+gtExtras: 0.4.1
 gtWAS: 1.1.0
 gtable: 0.3.0
 gtcorr: 0.2-1
@@ -14485,7 +14487,7 @@ kselection: 0.2.1
 ksharp: 0.1.0.1
 ksrlive: '1.0'
 kssa: 0.0.1
-kst: 0.5-2
+kst: 0.5-3
 kstIO: 0.3-0
 kstMatrix: 0.1-3
 ktaucenters: 0.1.0
@@ -14707,7 +14709,7 @@ leontief: '0.2'
 leprechaun: 1.0.0
 leri: 0.0.1
 lero.lero: '0.2'
-lessR: 4.2.0
+lessR: 4.2.2
 lest: 1.1.0
 lestat: '1.9'
 letsR: '4.0'
@@ -16882,7 +16884,7 @@ ocd: '1.1'
 oce: 1.7-8
 ocean: 0.2-4
 oceanic: 0.1.3
-oceanis: 1.8.4
+oceanis: 1.8.5
 oceanmap: 0.1.1
 oceanwaves: 0.2.0
 ocedata: 0.2.0
@@ -17582,7 +17584,7 @@ permubiome: 1.3.1
 permuco: 1.1.2
 permutations: 1.0-9
 permute: 0.9-7
-permutes: '2.5'
+permutes: '2.6'
 perry: 0.3.1
 perryExamples: 0.1.1
 persDx: 0.1.0
@@ -19275,6 +19277,7 @@ remote: 1.2.1
 remoter: 0.4-0
 remotes: 2.4.2
 remss: 1.0.1
+renderthis: 0.1.0
 renpow: 0.1-1
 rentrez: 1.2.3
 renv: 0.15.5
@@ -20634,7 +20637,7 @@ shinyTempSignal: 0.0.3
 shinyTime: 1.0.1
 shinyToastify: 2.0.0
 shinyTree: 0.2.7
-shinyWidgets: 0.7.0
+shinyWidgets: 0.7.1
 shinyaframe: 1.0.1
 shinyalert: 3.0.0
 shinyanimate: 0.3.0
@@ -21108,7 +21111,7 @@ spMC: 0.3.12
 spMaps: 0.4.0
 spNNGP: 1.0.0
 spNetwork: 0.4.3.2
-spOccupancy: 0.3.2
+spOccupancy: 0.4.0
 spRingsteen: 0.0.1
 spTDyn: 2.0.1
 spTest: 0.2.5
@@ -22266,7 +22269,7 @@ tidylda: 0.0.2
 tidylo: 0.2.0
 tidylog: 1.0.2
 tidymargins: 0.1.0
-tidymodels: 0.2.0
+tidymodels: 1.0.0
 tidymv: 3.3.1
 tidync: 0.2.4
 tidyndr: 0.2.1
@@ -22847,7 +22850,7 @@ updog: 2.1.2
 uplift: 0.3.5
 uplifteval: 0.1.0
 upmfit: 0.1.0
-upsetjs: 1.11.0
+upsetjs: 1.11.1
 upstartr: 0.1.1
 uptasticsearch: 0.4.0
 uptimeRobot: 1.0.0
@@ -23509,7 +23512,7 @@ yacca: 1.4-2
 yager: 0.1.1
 yakmoR: 0.1.1
 yaml: 2.3.5
-yamlet: 0.8.7
+yamlet: 0.9.2
 yamlme: 0.1.1
 yap: 0.1.1
 yaps: 1.2.5
