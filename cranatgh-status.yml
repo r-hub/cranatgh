@@ -883,7 +883,7 @@ CMShiny: 0.1.0
 CMapViz: 0.1.0
 CMatching: 2.3.0
 CMplot: 4.1.0
-CNAIM: 2.1.0
+CNAIM: 2.1.1
 CNLTreg: 0.1-2
 CNLTtsa: 0.1-2
 CNOGpro: '1.1'
@@ -2119,7 +2119,7 @@ FactoInvestigate: '1.8'
 FactoMineR: '2.4'
 FactoRizationMachines: '0.35'
 FactorAssumptions: 2.0.1
-FactorCopula: '0.8'
+FactorCopula: 0.8.1
 FactorsR: '1.5'
 Factoshiny: '2.4'
 Fahrmeir: 2016.5.31
@@ -2749,7 +2749,7 @@ Harvest.Tree: '1.1'
 HazardDiff: 0.1.0
 HeckmanEM: 0.1.2
 HellCor: '1.3'
-HelpersMG: '5.4'
+HelpersMG: '5.5'
 HeritSeq: 1.0.2
 HeterFunctionalData: 0.1.0
 HeteroGGM: 0.1.0
@@ -3401,7 +3401,7 @@ LogitNet: 0.1-1
 LogrankA: '1.0'
 LogrankPower: 1.0.0
 LongCART: '3.2'
-LongDat: 1.0.5
+LongDat: 1.1.0
 LongMemoryTS: 0.1.0
 LongituRF: '0.9'
 LoopAnalyst: 1.2-6
@@ -3447,7 +3447,7 @@ MARSS: 3.11.4
 MARSSVRhybrid: 0.1.0
 MARVEL: 1.2.1
 MARX: '0.2'
-MASS: 7.3-57
+MASS: 7.3-58
 MASSExtra: 1.1.2
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
@@ -4517,7 +4517,7 @@ PLIS: '1.1'
 PLMIX: 2.1.1
 PLNmodels: 0.11.6
 PLORN: 0.1.1
-PLRModels: '1.1'
+PLRModels: '1.2'
 PLSbiplot1: '0.1'
 PLSiMCpp: 1.0.2
 PLmixed: 0.1.6
@@ -4706,7 +4706,7 @@ PharmacoGx: 1.1.6
 Phase123: '2.1'
 Phase12Compare: '1.5'
 PhaseType: 0.1.3
-PhaseTypeR: 1.0.2
+PhaseTypeR: 1.0.3
 PheCAP: 1.2.1
 PheNorm: 0.1.0
 PheVis: 1.0.2
@@ -5928,7 +5928,7 @@ Rquake: 2.4-4
 Rquefts: 1.2-1
 Rramas: 0.1-6
 Rraven: 1.0.13
-Rrdap: 1.0.5
+Rrdap: 1.0.6
 Rrdrand: 0.1-16
 Rrelperm: 0.1.0
 RsSimulx: 2.0.0
@@ -6650,7 +6650,7 @@ SteinIV: 0.1-1
 SteinerNet: 3.1.0
 Stem: '1.0'
 StempCens: 1.1.0
-StepBeta: 2.0.0
+StepBeta: 2.0.1
 StepReg: 1.4.3
 StepSignalMargiLike: 2.6.0
 SteppedPower: 0.3.2
@@ -6675,6 +6675,7 @@ StreamingLm: '0.1'
 StressStrength: 1.0.2
 String2AdjMatrix: 0.1.0
 StroupGLMM: 0.1.0
+StrucDiv: 0.1.0
 StructFDR: '1.3'
 StructR: '1.1'
 StructureMC: '1.0'
@@ -7010,7 +7011,7 @@ TraceAssist: 0.1.0
 TrackReconstruction: '1.3'
 TradeStrategyAnalyzer: '1.0'
 Trading: '2.2'
-TrafficBDE: 0.1.0
+TrafficBDE: 0.1.1
 TraitStats: 1.0.2
 Traitspace: '1.1'
 TrajDataMining: 0.1.6
@@ -7052,7 +7053,7 @@ TrustVDJ: 0.1.0
 Tsphere: '1.0'
 TukeyC: 1.3-4
 TukeyRegion: 0.1.5.5
-TunePareto: 2.5.1
+TunePareto: 2.5.2
 TurtleGraphics: 1.0-8
 Tushare: 0.1.4
 Twitmo: 0.1.2
@@ -7168,7 +7169,7 @@ VLTimeCausality: 0.1.4
 VMDecomp: 1.0.1
 VNM: '7.1'
 VOSONDash: 0.5.7
-VPdtw: 2.1-9
+VPdtw: 2.1-14
 VR: 7.2-9
 VRPM: '1.2'
 VSE: '0.99'
@@ -7285,7 +7286,7 @@ WeibullFit: 0.1.0
 WeibullR: 1.2.1
 WeibullR.ALT: 0.7.2
 WeightIt: 0.13.1
-WeightSVM: 1.7-9
+WeightSVM: 1.7-11
 Weighted.Desc.Stat: '1.0'
 WeightedCluster: 1.6-0
 WeightedPortTest: '1.0'
@@ -7867,7 +7868,7 @@ asbio: 1.8-1
 ascentTraining: 1.0.0
 ascii: '2.4'
 asciiSetupReader: 2.4.0
-asciicast: 1.0.0
+asciicast: 2.0.0
 asciichartr: 0.1.0
 asciiruler: '0.2'
 ascotraceR: 0.0.1
@@ -8594,7 +8595,7 @@ bmotif: 2.0.2
 bmp: '0.3'
 bmrm: '4.1'
 bmscstan: 1.1.0
-bmstdr: 0.2.2
+bmstdr: 0.3.0
 bnClustOmics: 1.0.9
 bnclassify: 0.4.6
 bndovb: '1.1'
@@ -8970,7 +8971,7 @@ causalOT: '0.1'
 causalPAF: 1.2.4
 causaldata: 0.1.3
 causaldrf: '0.3'
-causaleffect: 1.3.13
+causaleffect: 1.3.15
 causaloptim: 0.9.2
 causalsens: 0.1.2
 causalweight: 1.0.2
@@ -9157,7 +9158,7 @@ childdevdata: 1.1.0
 childesr: 0.2.3
 childhoodmortality: 0.3.0
 childsds: 0.8.0
-chilemapas: '0.2'
+chilemapas: 0.3.0
 chillR: 0.72.7
 chinese.misc: 0.2.3
 chipPCR: 1.0-2
@@ -9717,7 +9718,7 @@ corpora: 0.5-1
 corporaexplorer: 0.8.6
 corpus: 0.10.2
 corpustools: 0.4.10
-corr2D: 1.0.2
+corr2D: 1.0.3
 corrDNA: 1.0.1
 corrarray: 1.2.0
 corrcoverage: 1.2.1
@@ -9746,7 +9747,7 @@ cosmosR: '1.0'
 cosso: 2.1-1
 costat: '2.4'
 costsensitive: 0.1.2.10
-cotram: 0.4-0
+cotram: 0.4-1
 cotrend: 1.0.2
 couchDB: 1.4.1
 countHMM: 0.1.0
@@ -10119,7 +10120,7 @@ dani: 0.1-1
 dann: 0.2.6
 danstat: 0.2.0
 dapr: 0.0.3
-daqapo: 0.3.1
+daqapo: 0.3.2
 darch: '0.9'
 darksky: 1.3.0
 dartR: 2.0.4
@@ -10518,7 +10519,7 @@ dinamic: '1.0'
 dineR: 1.0.1
 dineq: 0.1.0
 dint: 2.1.3
-dipm: '1.7'
+dipm: '1.8'
 diproperm: 0.2.0
 dipsaus: 0.2.2
 diptest: 0.76-0
@@ -11153,7 +11154,7 @@ emax.glm: 0.1.2
 emayili: 0.7.10
 emba: 0.1.8
 embed: 1.0.0
-embryogrowth: '8.5'
+embryogrowth: '8.6'
 emdatr: '0.3'
 emdbook: 1.3.12
 emdi: 2.1.1
@@ -11800,7 +11801,7 @@ fgpt: '2.3'
 fgui: 1.0-8
 fheatmap: 1.0.1
 fhidata: 2019.8.27
-fhircrackr: 1.0.1
+fhircrackr: 2.0.0
 fiberLD: 0.1-6
 fic: 1.0.0
 fidap: 0.0.3
@@ -12386,7 +12387,7 @@ gdalUtils: 2.0.3
 gdalcubes: 0.6.1
 gdata: 2.18.0.1
 gde: 0.2.0
-gdiff: 0.2-3
+gdiff: 0.2-4
 gdimap: 0.1-9
 gdistance: 1.3-6
 gdm: 1.5.0-3
@@ -12727,6 +12728,7 @@ ggnewscale: 0.4.7
 ggnormalviolin: 0.1.2
 ggnuplot: 0.1.0
 ggokabeito: 0.1.0
+ggpackets: 0.2.0
 ggpacman: 0.1.0
 ggpage: 0.2.3
 ggparallel: 0.2.0
@@ -13802,7 +13804,7 @@ ifa: '7.0'
 ifaTools: '0.23'
 ifctools: 0.3.4
 ifs: 0.1.5
-ifultools: 2.0-5
+ifultools: 2.0-26
 ig: '1.2'
 ig.vancouver.2014.topcolour: 0.1.2.0
 igate: 0.3.3
@@ -15395,7 +15397,7 @@ md: 1.0.4
 md.log: 0.1.1
 mda: 0.5-3
 mdapack: 0.0.2
-mdatools: 0.12.0
+mdatools: 0.13.0
 mdbr: 0.1.2
 mde: 0.3.2
 mded: 0.1-2
@@ -15672,6 +15674,7 @@ migrbc: 2.0.9
 migui: '1.3'
 miic: 1.5.3
 mikropml: 1.3.0
+mildsvm: 0.4.0
 milonga: '1.0'
 milorGWAS: '0.3'
 milr: 0.3.1
@@ -16441,7 +16444,7 @@ ncdf: '1.6'
 ncdf.tools: 0.7.1.295
 ncdf4: '1.19'
 ncdf4.helpers: 0.3-6
-ncdfgeom: 1.1.1
+ncdfgeom: 1.1.3
 ncdump: 0.0.3
 ncf: 1.3-2
 ncg: 0.1.1
@@ -16665,7 +16668,7 @@ nmslibR: 1.0.6
 nmw: 0.1.4
 nnDiag: 0.0-5
 nnGarrote: 1.0.4
-nnTensor: 1.1.7
+nnTensor: 1.1.8
 nna: 0.0.2.1
 nnc: '1.14'
 nncRda: '1.87'
@@ -18042,7 +18045,7 @@ populR: 0.1.5
 population: '0.3'
 populationPDXdesign: 1.0.3
 porridge: 0.3.1
-portalr: 0.3.9
+portalr: 0.3.10
 portes: '5.0'
 portfolio: 0.5-2
 portfolio.optimization: 1.0-0
@@ -20203,7 +20206,7 @@ sbo: 0.5.0
 sboost: 0.1.2
 sbpiper: 1.9.0
 sbrl: '1.2'
-sbtools: 1.1.18
+sbtools: 1.1.19
 sbw: 1.1.5
 scAnnotate: 0.0.1
 scBio: 0.1.6
@@ -20525,7 +20528,7 @@ settings: 0.2.7
 setwidth: 1.0-4
 sever: 0.0.7
 severity: '2.0'
-sf: 1.0-7
+sf: 1.0-8
 sfa: 1.0-1
 sfaR: 0.1.1
 sfadv: 1.0.1
@@ -20896,7 +20899,7 @@ sklarsomega: 3.0-1
 skm: 0.1.5.4
 skmeans: 0.2-14
 sknifedatar: 0.1.2
-skpr: 1.1.4
+skpr: 1.1.6
 skynet: 1.4.3
 skyscapeR: 1.0.0
 sla: '0.1'
@@ -22221,7 +22224,7 @@ thurstonianIRT: 0.12.1
 tibble: 3.1.7
 tibbleOne: 0.1.1
 tibbletime: 0.1.6
-tibblify: 0.1.0
+tibblify: 0.2.0
 tibbrConnector: 1.5.1
 tictactoe: 0.2.2
 tictoc: 1.0.1
@@ -22538,6 +22541,7 @@ treeClust: 1.1-7
 treeDA: 0.0.5
 treeHFM: 1.0.3
 treeHMM: 0.1.1
+treePlotArea: 1.0.0
 treebalance: 1.1.0
 treebase: 0.1.4
 treeclim: 2.0.6.0
@@ -22606,6 +22610,7 @@ tropAlgebra: 0.1.1
 tropicalSparse: 0.1.0
 tropr: 0.1.2
 trotter: '0.6'
+trouBBlme4SolveR: '0.1'
 trread: 0.2.7
 trtf: 0.4-0
 truelies: 0.2.0
@@ -23256,6 +23261,7 @@ weightQuant: 1.0.1
 weightTAPSPACK: '0.1'
 weightedGCM: 0.1.0
 weightedKmeans: 1.2.0
+weightedRank: 0.1.6
 weightedScores: 0.9.5.3
 weightedZdiff: 0.1.0
 weightr: 2.0.2
@@ -23427,7 +23433,7 @@ x12GUI: 0.9-3
 x13binary: 1.1.57-3
 x3ptools: 0.0.3
 xLLiM: '2.2'
-xQTLbiolinks: 1.0.0
+xQTLbiolinks: 1.1.1
 xROI: 0.9.20
 xRing: 0.1.1
 xSub: 3.0.2
