@@ -1693,6 +1693,7 @@ DrugClust: '0.2'
 DstarM: 0.4.0
 DtD: 0.2.2
 DunnettTests: '2.0'
+DySS: '1.0'
 DySeq: '0.22'
 Dykstra: 1.0-0
 DynClust: '3.24'
@@ -4236,7 +4237,7 @@ Nmix: 2.0.3
 NobBS: 0.1.0
 NoiseFiltersR: 0.1.0
 NominalLogisticBiplot: '0.2'
-NonCompart: 0.5.1
+NonCompart: 0.6.0
 NonNorMvtDist: 1.0.2
 NonParRolCor: 0.6.0
 NonProbEst: 0.2.4
@@ -5379,7 +5380,7 @@ RSBJson: 1.1.2
 RSC: 2.0.2
 RSCABS: 0.9.5
 RSCAT: 1.1.3
-RSDA: 3.0.12
+RSDA: 3.0.13
 RSDK: 1.0.1
 RSE: '1.3'
 RSEIS: 4.1-1
@@ -6140,7 +6141,7 @@ SIMMS: 1.3.2
 SIMPLE.REGRESSION: 0.1.4
 SIN: '0.6'
 SINGLE: '1.3'
-SIPDIBGE: 0.1.6
+SIPDIBGE: 0.1.7
 SIRE: 1.1.0
 SIRItoGTFS: 0.2.4
 SIRmcmc: '1.1'
@@ -7232,7 +7233,7 @@ WASP: 1.4.2
 WCE: 1.0.2
 WCM: 0.2.2
 WCQ: '0.2'
-WDI: 2.7.6
+WDI: 2.7.7
 WEE: '1.0'
 WEGE: 0.1.0
 WGCNA: '1.71'
@@ -7468,7 +7469,7 @@ activityCounts: 0.1.2
 activityGCMM: 1.1.1
 activpalProcessing: '1.0'
 actogrammr: 0.2.3
-actuar: 3.2-2
+actuar: 3.3-0
 actuaryr: 1.1.1
 acumos: 0.4-4
 ada: 2.0-5
@@ -8043,7 +8044,7 @@ bPeaks: '1.2'
 bRacatus: 1.0.7
 bReeze: 0.4-3
 bSims: 0.3-0
-bWGR: '2.0'
+bWGR: '2.1'
 baRcodeR: 0.1.7
 baRulho: 1.0.6
 babar: '1.0'
@@ -10273,7 +10274,7 @@ ddst: '1.4'
 deBInfer: 0.4.3
 deBif: 0.1.5
 deGradInfer: 1.0.1
-deSolve: '1.32'
+deSolve: '1.33'
 deTS: '1.0'
 deTestSet: 1.1.7.3
 deaR: 1.2.5
@@ -10401,6 +10402,7 @@ details: 0.3.0
 detect: 0.4-4
 detectR: 0.1.0
 detectRUNS: 0.9.6
+detectnorm: 1.0.0
 detector: 0.1.0
 detectseparation: '0.2'
 detourr: 0.1.0
@@ -11353,7 +11355,7 @@ eshrink: 0.1.2
 esmisc: 0.0.3
 esmprep: 0.2.0
 esotericR: '1.0'
-espadon: 1.0.4
+espadon: 1.0.5
 esquisse: 1.1.1
 esreg: 0.6.0
 ess: 1.1.2
@@ -11378,6 +11380,7 @@ etl: 0.4.0
 etm: 1.1.1
 etma: 1.1-1
 etrader: 0.1.3
+etree: 0.1.0
 etrm: 1.0.1
 etrunct: '0.1'
 etseed: 0.1.0
@@ -11892,7 +11895,7 @@ fitur: 0.6.2
 fitzRoy: 1.1.0
 fivethirtyeight: 0.6.2
 fixedTimeEvents: 1.0.1
-fixedincome: 0.0.1
+fixedincome: 0.0.2
 fixerapi: 0.1.6
 fixest: 0.10.4
 fixtuRes: 0.1.3
@@ -12323,6 +12326,7 @@ gamma: 1.0.1
 gamreg: '0.3'
 gamsel: 1.8-2
 gamselBayes: 1.0-2
+ganDataModel: 1.0.2
 ganGenerativeData: 1.3.3
 ganalytics: 0.10.7
 gaoptim: '1.1'
@@ -13962,6 +13966,7 @@ inlinedocs: 2019.12.5
 inlmisc: 0.5.5
 inlpubs: 1.0.2
 innsight: 0.1.0
+ino: 0.1.0
 inops: 0.0.1
 inpdfr: 0.1.11
 inplace: 0.1.2
@@ -14168,7 +14173,7 @@ iterators: 1.0.14
 iterpc: 0.4.2
 itertools: 0.1-3
 itertools2: 0.1.1
-itp: 1.1.0
+itp: 1.2.0
 itraxR: '1.4'
 itree: '0.1'
 its: 1.1.8
@@ -17795,7 +17800,7 @@ pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
 pkgdepends: 0.3.1
-pkgdown: 2.0.5
+pkgdown: 2.0.6
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
 pkglite: 0.2.0
@@ -17804,7 +17809,7 @@ pkgmaker: 0.32.2
 pkgndep: 1.1.4
 pkgnet: 0.4.2
 pkgnews: 0.0.2
-pkgsearch: 3.1.0
+pkgsearch: 3.1.1
 pkgstats: 0.1.1
 pkgutils: 0.6.0
 pkgverse: 0.0.1
@@ -17883,12 +17888,12 @@ plotrr: 1.0.0
 plotscale: 0.1.6
 plotwidgets: 0.5.1
 plpoisson: 0.3.0
-pls: 2.8-0
+pls: 2.8-1
 pls.pcr: 0.2.7
 plsRbeta: 0.2.9
 plsRcox: 1.7.6
 plsRglm: 1.5.0
-plsVarSel: 0.9.7
+plsVarSel: 0.9.8
 plsdepot: 0.1.17
 plsdof: 0.3-0
 plsgenomics: 1.5-2
@@ -18387,6 +18392,7 @@ ptf: 0.0.1
 ptinpoly: '2.8'
 ptm: 0.2.5
 ptmixed: 1.1.2
+ptools: 1.0.0
 ptproc: '1.0'
 pts2polys: 0.1.3
 ptspotter: 1.0.1
@@ -19427,7 +19433,7 @@ rgbif: 3.7.2
 rgcvpack: 0.1-4
 rgdal: 1.5-32
 rgdax: 1.2.1
-rgee: 1.1.3
+rgee: 1.1.4
 rgen: 0.0.1
 rgenie: 1.0.0
 rgenius: 0.1.0
@@ -19937,7 +19943,7 @@ rstiefel: 1.0.1
 rstoat: 1.0.2
 rstpm2: 1.5.7
 rstream: 1.3.6
-rstudio.prefs: 0.1.8
+rstudio.prefs: 0.1.9
 rstudioapi: '0.13'
 rstyles: 0.4.0
 rsubgroup: '1.1'
@@ -20189,7 +20195,7 @@ sas7bdat: '0.6'
 sasLM: 0.8.1
 sasMap: 1.0.0
 sasfunclust: 1.0.0
-sass: 0.4.1
+sass: 0.4.2
 sassy: 1.0.7
 sate: 1.1.0
 satellite: 1.0.4
@@ -20339,7 +20345,7 @@ sdcLog: 0.5.0
 sdcMicro: 5.6.1
 sdcMicroGUI: 1.4.0
 sdcSpatial: 0.5.2
-sdcTable: 0.32.2
+sdcTable: 0.32.3
 sdcTarget: 0.9-11
 sddpack: '0.9'
 sde: 2.0.15
@@ -20513,7 +20519,7 @@ sequoia: 2.3.5
 sergeant: 0.9.1
 serial: '3.0'
 serialize: 0.2-1
-seriation: 1.3.5
+seriation: 1.3.6
 serieslcb: 0.4.0
 seroincidence: 2.0.0
 serp: 0.2.4
@@ -21512,7 +21518,7 @@ starsExtra: 0.2.7
 starsTileServer: '0.1'
 starschemar: 1.2.0
 startR: 2.2.0
-starter: 0.1.9
+starter: 0.1.10
 starticles: 0.1.0
 startup: 0.18.0
 startupmsg: 0.9.6
@@ -22520,6 +22526,7 @@ tram: 0.7-1
 tramME: 1.0.2
 tramnet: 0.0-6
 trampoline: 0.1.1
+tramvs: 0.0-1
 tranSurv: 1.2.2
 transcribeR: 0.0.0
 transfR: 0.1.2
@@ -22997,7 +23004,7 @@ vccp: 0.1.1
 vcd: 1.4-10
 vcdExtra: 0.8-0
 vcf2geno: '2.3'
-vcfR: 1.12.0
+vcfR: 1.13.0
 vcmeta: 1.1.0
 vcov: 0.0.1
 vcpen: '1.9'
@@ -23447,7 +23454,7 @@ xSub: 3.0.2
 xVA: '1.0'
 xadmix: 1.0.0
 xaringan: '0.25'
-xaringanExtra: 0.6.0
+xaringanExtra: 0.7.0
 xaringanthemer: 0.4.1
 xbreed: 1.0.1.1
 xdcclarge: 0.1.0
