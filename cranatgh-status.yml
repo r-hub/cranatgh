@@ -13,6 +13,7 @@ ACCLMA: '1.0'
 ACD: '1.5'
 ACDC: 1.0.0
 ACDm: 1.0.4.1
+ACEP: 0.0.1
 ACEsearch: 1.0.0
 ACEt: 1.8.1
 ACMEeqtl: '1.6'
@@ -1335,7 +1336,7 @@ DBI.RPgSQL: 0.1-2
 DBItest: 1.7.2
 DBKGrad: '1.7'
 DBNMFrank: 0.1.0
-DBR: 1.2.3
+DBR: 1.3.0
 DBfit: '2.0'
 DBpower: 0.1.0
 DCA: '2.0'
@@ -1482,7 +1483,7 @@ DSMolgenisArmadillo: 1.4.1
 DSOpal: 1.3.1
 DSSAT: 0.0.6
 DSSP: 0.1.1
-DSWE: 1.6.0
+DSWE: 1.6.1
 DSjobtracker: 0.1.1
 DSpat: 0.1.6
 DSpoty: 0.1.0
@@ -2035,7 +2036,7 @@ FEST: '0.08'
 FESta: 1.0.0
 FEprovideR: '1.1'
 FFD: 1.0-8
-FFTrees: 1.5.5
+FFTrees: 1.6.6
 FFdownload: 1.0.6
 FField: 0.1.0
 FGLMtrunc: 0.1.0
@@ -2682,7 +2683,7 @@ HHG: 2.3.4
 HI: '0.5'
 HIBAG: 1.2.4
 HIBPwned: 0.1.7
-HIMA: 2.0.0
+HIMA: 2.0.1
 HIV.LifeTables: '0.1'
 HIest: '2.0'
 HK80: 0.0.2
@@ -3205,6 +3206,7 @@ LCF: 1.7.0
 LCFdata: '2.0'
 LCMCR: 0.4.11
 LCox: 0.1.0
+LDABiplots: 0.1.2
 LDAShiny: 0.9.3
 LDATS: 0.2.7
 LDAvis: 0.3.2
@@ -4546,6 +4548,7 @@ POFIBGE: 0.1.6
 POINT: '1.2'
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
+POSSA: 0.5.5
 POSTm: '1.2'
 POSetR: 1.1.0
 POT: 1.1-10
@@ -5329,7 +5332,7 @@ ROptSpace: 0.2.3
 ROptimizely: 0.2.0
 ROracle: 1.3-1.1
 ROracleUI: 1.3-2
-RPANDA: '2.0'
+RPANDA: '2.1'
 RPCLR: '1.0'
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.1
@@ -5662,7 +5665,7 @@ RcppGSL: 0.3.11
 RcppGetconf: 0.0.3
 RcppGreedySetCover: 0.1.0
 RcppHMM: 1.2.2
-RcppHNSW: 0.4.0
+RcppHNSW: 0.4.1
 RcppHoney: 0.1.7
 RcppHungarian: '0.2'
 RcppML: 0.3.7
@@ -7240,7 +7243,7 @@ WGCNA: '1.71'
 WGScan: '0.1'
 WHO: '0.2'
 WINRPACK: 1.1-0
-WINS: '1.1'
+WINS: '1.2'
 WLasso: '1.0'
 WLinfer: 1.1.0
 WLogit: '1.0'
@@ -7532,7 +7535,7 @@ adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
 adlift: 1.4-3
-admiral: 0.7.0
+admiral: 0.7.1
 admiral.test: 0.2.0
 admisc: '0.29'
 admix: 0.4.0
@@ -7680,7 +7683,7 @@ amerifluxr: 1.0.0
 amerika: 0.1.0
 aml: 0.1-1
 ammiBayes: 1.0-1
-ammistability: 0.1.2
+ammistability: 0.1.3
 amp: 1.0.0
 ampd: '0.2'
 ampir: 1.1.0
@@ -7699,6 +7702,7 @@ anametrix: 2.0.0
 anapuce: '2.3'
 anchoredDistr: 1.0.3
 anchors: 3.0-8
+and: 0.1.1
 andrews: '1.0'
 andurinha: 0.0.2
 anesrake: '0.80'
@@ -7798,7 +7802,7 @@ aqr: '0.4'
 aquodom: 0.1.1
 ar.matrix: 0.1.0
 arabic2kansuji: 0.1.2
-arabicStemR: '1.2'
+arabicStemR: '1.3'
 arakno: 1.2.0
 aratio: '1.2'
 arc: '1.3'
@@ -7841,7 +7845,7 @@ arm: 1.12-2
 armada: 0.1.0
 armspp: 0.0.2
 arnie: 0.1.2
-aroma.affymetrix: 3.2.0
+aroma.affymetrix: 3.2.1
 aroma.apd: 0.6.1
 aroma.cn: 1.6.1
 aroma.core: 3.2.2
@@ -8427,6 +8431,7 @@ binancer: 1.2.0
 binaryGP: '0.2'
 binaryLogic: 0.3.9
 binarySimCLF: '1.0'
+binaryTimeSeries: 1.0.2
 binb: 0.0.6
 binda: 1.0.4
 bindata: 0.9-20
@@ -8636,7 +8641,7 @@ boostr: 1.0.0
 boot: 1.3-28
 boot.heterogeneity: 1.1.5
 boot.pval: '0.4'
-bootCT: '1.0'
+bootCT: '1.1'
 bootComb: 1.1.2
 bootES: 1.2.1
 bootGOF: 0.1.0
@@ -8922,7 +8927,7 @@ carpenter: 0.2.2
 carrier: 0.1.0
 cartograflow: 1.0.3
 cartogram: 0.2.2
-cartogramR: 1.0-7
+cartogramR: 1.0-8
 cartography: 3.0.1
 cartools: 0.1.0
 carx: 0.7.1
@@ -9398,7 +9403,7 @@ cmprsk: 2.2-11
 cmprskContin: '1.7'
 cmprskQR: 0.9.2
 cmprskcoxmsm: 0.2.1
-cmpsR: 0.1.0
+cmpsR: 0.1.2
 cmrutils: 1.3.1
 cms: 0.1.0
 cmsaf: 3.4.3
@@ -9430,13 +9435,14 @@ cocoreg: 0.1.1
 cocorresp: 0.4-3
 cocron: 1.0-1
 coda: 0.19-4
-coda.base: 0.4.1
+coda.base: 0.5.2
 coda4microbiome: 0.1.1
 codacore: 0.0.3
 codadiags: '1.0'
 codalm: 0.1.2
 codeCollection: 0.1.2
 codebook: 0.9.2
+codebookr: 0.1.4
 codebreaker: 0.0.2
 codemeta: 0.1.1
 codemetar: 0.3.4
@@ -9531,6 +9537,7 @@ cometr: 0.2.0
 comf: 0.1.11
 commandr: 1.0.1
 commentr: 1.0.4
+common: 1.0.1
 commonmark: 1.8.0
 commonsMath: 1.2.5
 communication: '0.1'
@@ -9937,7 +9944,7 @@ crunchy: 0.3.3
 cruts: '1.1'
 cry: 0.4.1
 crypto: 1.1.3
-crypto2: 1.4.3
+crypto2: 1.4.4
 cryptoverse: 0.1.0
 cryptowatchR: 0.2.0
 cryst: 0.1.0
@@ -10152,6 +10159,7 @@ dataRetrieval: 2.7.11
 datacheck: 1.2.2
 datacheckr: 0.2.0
 datacleanr: 1.0.3
+datadictionary: 0.1.0
 datadigest: 1.0.2
 datadogr: 0.1.2
 datadr: 0.8.6
@@ -10196,7 +10204,7 @@ dataview: 2.1.1
 datawizard: 0.4.1
 datazoom.amazonia: 0.3.0
 date: 1.2-39
-datefixR: 0.1.6
+datefixR: 1.0.0
 datelife: 0.6.5
 daterangepicker: 0.1.0
 datetime: 0.1.4
@@ -10566,7 +10574,7 @@ diseq: 0.4.6
 disk.frame: 0.7.2
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
-dismo: 1.3-5
+dismo: 1.3-8
 disordR: 0.0-9-1
 disp2D: '1.0'
 dispRity: 1.6.9
@@ -11558,7 +11566,7 @@ fHMM: 1.0.3
 fICA: 1.1-2
 fImport: '3042.85'
 fMRIscrub: 0.11.2
-fMultivar: 3042.80.2
+fMultivar: '4021.83'
 fNonlinear: '3042.79'
 fOptions: '3042.86'
 fPortfolio: 3042.83.1
@@ -11578,7 +11586,7 @@ fable.prophet: 0.1.0
 fabletools: 0.3.2
 fabricatr: 1.0.0
 fabricerin: 0.1.2
-face: 0.1-6
+face: 0.1-7
 facebook.S4: 1.1.0
 facerec: 0.1.0
 facilitation: 0.5.2
@@ -11942,7 +11950,7 @@ flipbookr: 0.1.0
 flipdownWidgets: 0.1.0
 flipdownr: 0.1.1
 flippant: 1.5.3
-flipr: 0.3.1
+flipr: 0.3.2
 flipscores: 1.1.0
 float: 0.3-0
 flobr: 0.2.2
@@ -12385,7 +12393,7 @@ gcite: 0.10.1
 gcl: 1.06.5
 gclm: 0.0.1
 gclus: 1.3.2
-gcmr: 1.0.2
+gcmr: 1.0.3
 gcmrec: 1.0-3
 gcolor: '1.0'
 gconcord: '0.4'
@@ -12470,6 +12478,7 @@ generalhoslem: 1.3.4
 generator: 0.1.0
 generics: 0.1.3
 genero: 0.1.0
+geneset: 0.2.6
 genesysr: 1.0.0
 geneticae: 0.3.0
 genetics: 1.3.8.1.3
@@ -12888,7 +12897,7 @@ glmglrt: 0.2.2
 glmgraph: 1.0.3
 glmlep: '0.2'
 glmm: 1.4.3
-glmm.hp: 0.0-4
+glmm.hp: 0.0-5
 glmmAK: '1.7'
 glmmBUGS: 2.4.2
 glmmEP: 1.0-3.1
@@ -13300,7 +13309,7 @@ haploR: 4.0.6
 haploReconstruct: 0.1.2
 haplotyper: '0.1'
 haplotypes: 1.1.2
-happign: 0.1.4
+happign: 0.1.5
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
@@ -13444,7 +13453,7 @@ hierfstat: 0.5-11
 hiertest: '1.1'
 highD2pop: '1.0'
 highDmean: 0.1.0
-highMLR: 0.1.0
+highMLR: 0.1.1
 highSCREEN: '0.4'
 highTtest: '1.3'
 highcharter: 0.9.4
@@ -13570,7 +13579,7 @@ htmlTable: 2.4.1
 htmldf: 0.6.0
 htmltab: 0.8.2
 htmltidy: 0.5.0
-htmltools: 0.5.2
+htmltools: 0.5.3
 htmlwidgets: 1.5.4
 htree: 2.0.0
 hts: 6.0.2
@@ -14762,7 +14771,7 @@ librarysnapshot: 0.1.2
 libsoc: 0.7.3
 libstableR: 1.0.2
 lidR: 4.0.1
-lidaRtRee: 4.0.1
+lidaRtRee: 4.0.2
 lifecontingencies: 1.3.9
 lifecourse: '2.0'
 lifecycle: 1.0.1
@@ -14979,6 +14988,7 @@ lokern: 1.1-9
 lolR: '2.1'
 lolog: '1.3'
 lomb: 2.1.0
+long2lstmarray: 0.0.1
 longCatEDA: '0.31'
 longROC: '1.0'
 longRPart: '1.0'
@@ -16582,7 +16592,7 @@ ngramr: 1.7.5
 ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
-nhanesA: 0.6.7.1
+nhanesA: 0.6.7
 nhdR: 0.5.7
 nhdplusTools: 0.5.3
 nhds: 1.0.3
@@ -16790,6 +16800,7 @@ nph: '2.1'
 nphPower: 1.0.0
 nplplot: '4.6'
 nplr: 0.1-7
+nplyr: 0.1.0
 npm: 1.0.0
 npmc: '1.0'
 npmlda: 1.0.0
@@ -17753,7 +17764,7 @@ piecepackr: 1.11.1
 piecewiseSEM: 2.1.2
 pifpaf: 1.0.1
 piggyback: 0.1.3
-pillar: 1.7.0
+pillar: 1.8.0
 pim: 2.0.2
 pimeta: 1.1.3
 pinbasic: 1.2.2
@@ -18328,7 +18339,7 @@ proxy: 0.4-27
 proxyC: 0.2.4
 prozor: 0.3.1
 prrd: 0.0.5
-prt: 0.1.4
+prt: 0.1.5
 pryr: 0.1.5
 ps: 1.7.1
 psData: 0.2.2
@@ -18554,7 +18565,7 @@ qrsvm: 0.2.1
 qs: 0.25.3
 qsimulatR: '1.0'
 qsort: 0.2.3
-qsplines: 0.1.0
+qsplines: 1.0.0
 qst: 0.1.2
 qsub: 1.1.3
 qtbase: 1.0.9
@@ -18825,7 +18836,7 @@ radarBoxplot: 1.0.5
 radarchart: 0.3.1
 radiant: 1.4.2
 radiant.basics: 1.4.1
-radiant.data: 1.4.2
+radiant.data: 1.4.3
 radiant.design: 1.4.1
 radiant.model: 1.4.4
 radiant.multivariate: 1.4.1
@@ -20072,7 +20083,7 @@ rytstat: 0.3.0
 rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.8
-s2: 1.0.7
+s2: 1.1.0
 s20x: 3.1-31
 s2dv: 1.2.0
 s2dverification: 2.10.3
@@ -21494,7 +21505,7 @@ stabreg: 0.1.2
 stabs: 0.6-4
 stackoverflow: 0.7.0
 stacks: 1.0.0
-stacomiR: 0.6.0
+stacomiR: 0.6.0.7
 stacomirtools: 0.6.0.1
 stagePop: 1.1-2
 stagedtrees: 2.2.1
@@ -22313,7 +22324,7 @@ tidytransit: 1.3.1
 tidytreatment: 0.2.2
 tidytree: 0.3.9
 tidytuesdayR: 1.0.2
-tidyverse: 1.3.1
+tidyverse: 1.3.2
 tidyvpc: 1.3.0
 tidywikidatar: 0.5.3
 tidyxl: 1.0.7
@@ -22675,7 +22686,7 @@ tsiR: 0.4.3
 tsibble: 1.1.1
 tsibbledata: 0.4.0
 tsibbletalk: 0.1.0
-tsintermittent: '1.9'
+tsintermittent: '1.10'
 tslars: '1.0'
 tsmp: 0.4.14
 tsna: 0.3.5
@@ -22907,7 +22918,7 @@ uskewFactors: '2.0'
 usl: 3.0.0
 usmap: 0.6.0
 usmapdata: 0.1.0
-ustfd: 0.1.0
+ustfd: 0.1.1
 ustyc: 1.0.0
 utc: 0.1.5
 utf8: 1.2.2
@@ -23582,6 +23593,7 @@ zen4R: 0.6-1
 zendeskR: '0.4'
 zenplots: 1.0.4
 zeroEQpart: 0.1.0
+zerotradeflow: 0.1.0
 zetadiv: 1.2.1
 zfa: '1.0'
 zfit: 0.3.0
