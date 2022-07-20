@@ -1425,7 +1425,7 @@ DMLLZU: 0.1.1
 DMMF: 0.5.1.2
 DMR: '2.0'
 DMRMark: 1.1.1
-DMRnet: 0.2.0
+DMRnet: 0.3.1
 DMTL: 0.1.2
 DMtest: 1.0.0
 DMwR: 0.4.1
@@ -1463,7 +1463,7 @@ DQAstats: 0.3.1
 DR.SC: '2.9'
 DRAFT: 0.3.0
 DRAYL: '1.0'
-DRDID: 1.0.3
+DRDID: 1.0.4
 DRDRtest: '0.1'
 DREGAR: 0.1.3.0
 DRHotNet: '2.0'
@@ -3062,7 +3062,7 @@ JADE: 2.0-3
 JAGUAR: 3.0.1
 JASPAR: 0.0.1
 JBTools: 0.7.2.9
-JBrowseR: 0.9.0
+JBrowseR: 0.9.1
 JCRImpactFactor: 1.0.0
 JFE: 2.5.3
 JFM: '1.0'
@@ -5493,7 +5493,7 @@ RaMS: 1.0.0
 RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 3.0.0
-RaceID: 0.2.3
+RaceID: 0.2.4
 RadData: 1.0.1
 RadOnc: 1.1.6
 RadTran: '1.0'
@@ -6224,7 +6224,7 @@ SPA3G: '1.0'
 SPACECAP: 1.1.0
 SPADAR: '1.0'
 SPARQL: '1.9'
-SPARSEMODr: 1.1.0
+SPARSEMODr: 1.2.0
 SPARTAAS: 1.1.0
 SPAS: 2020.1.1
 SPAr: '0.1'
@@ -6598,7 +6598,7 @@ SpatialRegimes: '1.0'
 SpatialRoMLE: 0.1.0
 SpatialTools: 1.0.4
 SpatialVS: '1.1'
-SpatialVx: '0.9'
+SpatialVx: '1.0'
 SpatioTemporal: 1.1.9
 Spbsampling: 1.3.4
 SpecDetec: 1.0.0
@@ -6980,7 +6980,7 @@ TideHarmonics: 0.1-1
 TideTables: 0.0.3
 Tides: '2.1'
 TidyConsultant: 0.1.0
-TidyDensity: 1.2.0
+TidyDensity: 1.2.1
 TidyMultiqc: 1.0.2
 TileManager: 0.4.1
 TilePlot: '1.3'
@@ -8107,6 +8107,7 @@ bartBMA: '1.0'
 bartCause: 1.0-4
 bartMachine: 1.2.6
 bartMachineJARs: '1.1'
+bartcs: 0.1.1
 basad: 0.3.0
 base.rms: '1.0'
 base2grob: 0.0.3
@@ -8478,7 +8479,7 @@ biogas: 1.23.2
 biogeo: '1.0'
 biogeom: 1.0.7
 biogram: 1.6.3
-biogrowth: 1.0.0-1
+biogrowth: 1.0.0-2
 bioimagetools: 1.1.8
 bioinactivation: 1.2.3
 biokNN: 0.1.0
@@ -8755,7 +8756,7 @@ brxx: 0.1.2
 bs: '1.0'
 bs4Dash: 2.1.0
 bs4cards: 0.1.1
-bsTools: 1.0.0
+bsTools: 1.0.2
 bsam: 1.1.3
 bsamGP: 1.2.4
 bscaling: '1.0'
@@ -9299,6 +9300,7 @@ climatrends: '0.2'
 climbeR: 0.0.1
 climdex.pcic: 1.1-11
 clime: 0.5.0
+climetrics: 1.0-5
 climextRemes: 0.2.2
 climtrends: 1.0.6
 climwin: 1.2.3
@@ -9720,7 +9722,7 @@ corkscrew: '1.1'
 corlink: 1.0.0
 corncob: 0.2.0
 cornet: 0.0.5
-coro: 1.0.2
+coro: 1.0.3
 coroICA: 1.0.2
 corona: 0.3.0
 coronavirus: 0.3.32
@@ -10336,7 +10338,7 @@ degreenet: 1.3-3
 degross: 0.9.0
 deisotoper: 0.0.7
 dejaVu: 0.3.0
-delaunay: 1.0.0
+delaunay: 1.1.0
 delayed: 0.3.0
 deldir: 1.0-6
 delftfews: 0.3-67
@@ -12684,7 +12686,7 @@ ggdark: 0.2.1
 ggdemetra: 0.2.2
 ggdendro: 0.1.23
 ggdensity: 0.0.1
-ggdist: 3.1.1
+ggdist: 3.2.0
 ggdistribute: 1.0.3
 ggdmc: 0.2.6.0
 gge: '1.7'
@@ -13373,7 +13375,7 @@ healthforum: 0.1.0
 healthyR: 0.2.0
 healthyR.ai: 0.0.8
 healthyR.data: 1.0.1
-healthyR.ts: 0.2.0
+healthyR.ts: 0.2.1
 healthyverse: 1.0.2
 heapsofpapers: 0.1.0
 heatex: '1.0'
@@ -13829,7 +13831,7 @@ igate: 0.3.3
 igcop: 1.0.1
 iglu: 3.3.0
 igoR: 0.1.3
-igraph: 1.3.3
+igraph: 1.3.4
 igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
@@ -13905,6 +13907,7 @@ imputeMissings: 0.0.3
 imputeMulti: 0.8.3
 imputePSF: 0.1.0
 imputeR: '2.2'
+imputeREE: 0.0.1
 imputeTS: '3.2'
 imputeTestbench: 3.0.3
 imputeYn: '1.3'
@@ -14849,7 +14852,7 @@ listWithDefaults: 1.2.0
 listarrays: 0.3.1
 listcomp: 0.4.1
 listcompr: 0.4.0
-listdown: 0.4.1
+listdown: 0.5.2
 listdtr: '1.1'
 listenv: 0.8.0
 listless: 0.0-2
@@ -16318,7 +16321,7 @@ munsell: 0.5.0
 munsellinterpol: 3.0-0
 murphydiagram: 0.12.2
 muscle: 3.8.31-4
-musclesyneRgies: 1.1.3
+musclesyneRgies: 1.2.5
 muscor: '0.2'
 music: 0.1.2
 musicNMR: 0.0.2
@@ -17156,7 +17159,7 @@ oro.pet: 0.2.6
 orsifronts: 0.2.0
 orsk: 1.0-6
 orth: '1.5'
-orthoDr: 0.6.4
+orthoDr: 0.6.5
 orthogonalsplinebasis: 0.1.7
 orthopolynom: 1.0-6
 osDesign: '1.8'
@@ -17763,7 +17766,7 @@ piecemaker: 1.0.1
 piecepackr: 1.11.1
 piecewiseSEM: 2.1.2
 pifpaf: 1.0.1
-piggyback: 0.1.3
+piggyback: 0.1.4
 pillar: 1.8.0
 pim: 2.0.2
 pimeta: 1.1.3
@@ -19214,7 +19217,7 @@ refGenome: 1.7.7
 refer: 0.1.0
 referenceIntervals: 1.3.0
 refimpact: 1.0.0
-refineR: 1.5.0
+refineR: 1.5.1
 refinr: 0.3.2
 refitME: 1.2.2
 refnr: 0.1.0
@@ -23254,7 +23257,7 @@ weatherr: '0.1'
 webTRISr: 0.2.0
 webchem: 1.1.3
 webddx: 0.1.0
-webdeveloper: 1.0.1
+webdeveloper: 1.0.2
 webdriver: 1.0.6
 webex: 0.9.2
 webexercises: 1.0.0
