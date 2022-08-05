@@ -621,7 +621,7 @@ BeyondBenford: '1.4'
 Bhat: 0.9-12
 BiBitR: 0.3.1
 BiCausality: 0.1.1
-BiDAG: 2.1.0
+BiDAG: 2.1.1
 BiDimRegression: 2.0.1
 BiG: 0.1.0
 BiGGR: '1.8'
@@ -2660,7 +2660,7 @@ HDMT: 1.0.5
 HDOMDesign: 1.0-1
 HDPenReg: 0.94.8
 HDShOP: 0.1.2
-HDSpatialScan: 1.0.2
+HDSpatialScan: 1.0.3
 HDStIM: 0.1.0
 HDTSA: 1.0.1
 HDclassif: 2.2.0
@@ -3629,7 +3629,7 @@ MLPUGS: 0.2.0
 MLRMPA: '1.0'
 MLRShiny: 0.1.0
 MLRShiny2: 0.1.0
-MLVSBM: 0.2.3
+MLVSBM: 0.2.4
 MLZ: 0.1.4
 MLeval: '0.3'
 MLmetrics: 1.1.1
@@ -5693,7 +5693,7 @@ RcppThread: 2.1.3
 RcppUUID: 1.1.1
 RcppXPtrUtils: 0.1.2
 RcppXsimd: 7.1.6
-RcppXts: 0.0.4
+RcppXts: 0.0.5
 RcppZiggurat: 0.1.6
 Rcrawler: 0.1.9-1
 Rcriticor: '2.0'
@@ -7088,7 +7088,7 @@ UNCLES: '2.0'
 UNF: 2.0.8
 UNPaC: 1.1.1
 UPCM: 0.0-3
-UPG: 0.3.0
+UPG: 0.3.1
 UPMASK: '1.2'
 UPSvarApprox: 0.1.3
 USA.state.boundaries: 1.0.0
@@ -8775,7 +8775,7 @@ bspec: '1.6'
 bspline: 2.0.1
 bsplinePsd: 0.6.0
 bsplus: 0.1.3
-bspm: 0.3.9
+bspm: 0.3.10
 bspmma: 0.1-2
 bsreg: 0.0.2
 bssm: 2.0.1
@@ -9886,7 +9886,7 @@ cregg: 0.4.0
 crestr: 1.1.0
 crevents: 0.1.0
 crfsuite: '0.4'
-cricketdata: 0.1.1
+cricketdata: 0.2.0
 cricketr: 0.0.26
 crimCV: 0.9.6
 crimedata: 0.3.1
@@ -10031,7 +10031,7 @@ curry: 0.1.1
 cursory: 1.0.0
 cursr: 0.1.0
 curstatCI: 0.1.1
-curtailment: 0.1.1
+curtailment: 0.2.0
 curvHDR: 1.2-1
 curvclust: 0.0.1
 curveDepth: 0.1.0.9
@@ -12672,10 +12672,10 @@ ggalluvial: 0.12.3
 ggalt: 0.4.0
 ggamma: 1.0.1
 gganimate: 1.0.7
-ggarchery: 0.3.0
+ggarchery: 0.4.1
 ggasym: 0.1.6
 ggbeeswarm: 0.6.0
-ggblanket: 1.2.0
+ggblanket: 1.3.0
 ggborderline: 0.1.0
 ggbraid: 0.2.2
 ggbreak: 0.1.0
@@ -12866,7 +12866,7 @@ githubinstall: 0.2.2
 gitignore: 0.1.5
 gitlabr: 2.0.0
 gitlink: 0.1.3
-gittargets: 0.0.3
+gittargets: 0.0.4
 gitter: '1.1'
 givitiR: '1.3'
 gjam: 2.6.2
@@ -14586,7 +14586,7 @@ landscapeR: '1.2'
 landscapemetrics: 1.5.4
 landscapetools: 0.5.0
 landsepi: 1.1.2
-langevitour: '0.4'
+langevitour: '0.5'
 languageR: 1.5.0
 languagelayeR: 1.2.4
 languageserver: 0.3.13
@@ -15427,7 +15427,7 @@ mcunit: 0.3.2
 mcvis: 1.0.8
 mcwr: 1.0.0
 md: 1.0.4
-md.log: 0.1.1
+md.log: 0.2.0
 mda: 0.5-3
 mdapack: 0.0.2
 mdatools: 0.13.0
@@ -15883,7 +15883,7 @@ mlr3filters: 0.5.0
 mlr3fselect: 0.7.1
 mlr3hyperband: 0.4.1
 mlr3learners: 0.5.3
-mlr3measures: 0.4.1
+mlr3measures: 0.5.0
 mlr3misc: 0.10.0
 mlr3oml: 0.5.0
 mlr3pipelines: 0.4.1
@@ -16918,7 +16918,7 @@ obsSens: '1.4'
 observer: 0.1.2
 oc: '1.2'
 occ: '1.1'
-occCite: 0.5.4
+occCite: 0.5.6
 occupancy: '1.2'
 ocd: '1.1'
 oce: 1.7-8
@@ -17352,7 +17352,7 @@ paperplanes: 0.0.1.9
 papply: '0.1'
 parSim: 0.1.4
 parade: '0.1'
-paradox: 0.9.0
+paradox: 0.10.0
 parallelDist: 0.2.6
 parallelMCMCcombine: '2.0'
 parallelML: '1.2'
@@ -17716,7 +17716,7 @@ phonenumber: 0.2.3
 phonfieldwork: 0.0.11
 phonics: 1.3.10
 phosphoricons: 0.1.2
-photobiology: 0.10.11
+photobiology: 0.10.12
 photobiologyFilters: 0.5.2
 photobiologyInOut: 0.4.24
 photobiologyLEDs: 0.5.0
@@ -20851,7 +20851,7 @@ simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simplermarkdown: 0.0.4
 simpleroptions: 0.2.0
-simplevis: 6.3.0
+simplevis: 6.4.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -21484,7 +21484,7 @@ ssfit: '1.2'
 ssgraph: '1.13'
 ssh: 0.8.0
 ssh.utils: '1.0'
-sship: 0.7.4
+sship: 0.8.0
 ssimparser: 0.1.1
 ssize.fdr: '1.3'
 ssizeRNA: 1.3.2
@@ -22052,9 +22052,9 @@ tangram.pipe: 1.1.1
 tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
-tarchetypes: 0.6.0
+tarchetypes: 0.7.0
 targeted: 0.2.0
-targets: 0.12.1
+targets: 0.13.1
 tashu: 0.1.1
 taskPR: '0.34'
 taskscheduleR: '1.6'
