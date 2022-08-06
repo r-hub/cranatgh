@@ -368,7 +368,7 @@ BDEsize: '1.6'
 BDP2: 0.1.3
 BDWreg: 1.2.0
 BDgraph: '2.67'
-BE: 0.2.1
+BE: 0.2.2
 BEACH: 1.3.1
 BEANSP: '1.0'
 BED: 1.4.8
@@ -539,7 +539,7 @@ BayesFM: 0.1.5
 BayesFactor: 0.9.12-4.4
 BayesGESM: '1.4'
 BayesGOF: '5.2'
-BayesGPfit: 0.1.0
+BayesGPfit: 1.1.0
 BayesGWQS: 0.1.1
 BayesH: '1.0'
 BayesLCA: '1.9'
@@ -572,9 +572,9 @@ BayesReversePLLH: '1.4'
 BayesS5: '1.41'
 BayesSAE: 1.0-2
 BayesSPsurv: 0.1.4
-BayesSUR: 2.1-0
+BayesSUR: 2.1-1
 BayesSampling: 1.1.0
-BayesSenMC: 0.1.4
+BayesSenMC: 0.1.5
 BayesSingleSub: '0.6'
 BayesSpec: 0.5.3
 BayesSummaryStatLM: '2.0'
@@ -668,7 +668,7 @@ BioVenn: 1.1.3
 BiocManager: 1.30.18
 Biocomb: '0.4'
 Biodem: '0.5'
-BiodiversityR: 2.14-2.1
+BiodiversityR: 2.14-3
 Biograph: '2.0'
 Bioi: 0.2.10
 Biolinv: 0.1-3
@@ -884,7 +884,7 @@ CMShiny: 0.1.0
 CMapViz: 0.1.0
 CMatching: 2.3.0
 CMplot: 4.1.0
-CNAIM: 2.1.1
+CNAIM: 2.1.2
 CNLTreg: 0.1-2
 CNLTtsa: 0.1-2
 CNOGpro: '1.1'
@@ -2140,7 +2140,7 @@ FastGP: '1.2'
 FastGaSP: 0.5.2
 FastHCS: 0.0.7
 FastImputation: '2.1'
-FastJM: 1.1.3
+FastJM: 1.2.0
 FastKM: '1.1'
 FastKNN: 0.0.1
 FastLZeroSpikeInference: 2018.12.10
@@ -2402,7 +2402,7 @@ GOsummaries: '1.1'
 GOxploreR: 1.2.6
 GPArotation: 2022.4-1
 GPB: '1.2'
-GPBayes: 0.1.0-3
+GPBayes: 0.1.0-4
 GPC: '0.1'
 GPCERF: 0.1.0
 GPCMlasso: 0.1-6
@@ -2545,7 +2545,7 @@ GeoLight: 2.0.0
 GeoModels: 1.0.1
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
-GeoTcgaData: 1.0.2
+GeoTcgaData: 1.1.0
 GeoWeightedModel: 1.0.2
 GeoXp: 1.6.2
 GeodRegr: 0.2.0
@@ -2666,7 +2666,7 @@ HDTSA: 1.0.1
 HDclassif: 2.2.0
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
-HDiR: 1.1.1
+HDiR: 1.1.2
 HDoutliers: 1.0.4
 HDtest: '2.1'
 HDtweedie: '1.2'
@@ -2860,7 +2860,7 @@ IDF: 2.1.2
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
-IDSL.IPA: '1.9'
+IDSL.IPA: '2.0'
 IDSL.MXP: '1.5'
 IDSL.SUFA: '1.0'
 IDSL.UFA: '1.4'
@@ -4140,7 +4140,7 @@ NMdata: 0.0.12
 NMproject: 0.6.7
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.8.70
+NNS: 0.9.0
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.4
@@ -4997,7 +4997,7 @@ R62S3: 1.4.1
 R6DS: 1.2.0
 R6Frame: 0.1.0
 R6P: 0.2.2
-R6causal: 0.6.0
+R6causal: 0.6.1
 RABR: 0.1.0
 RAC: '1.5'
 RAD: '0.3'
@@ -6277,7 +6277,7 @@ SRTtools: 1.2.0
 SSBtools: 1.3.3
 SSDL: '1.1'
 SSDM: 0.2.8
-SSDforR: 1.5.24
+SSDforR: 1.5.25
 SSHAARP: 1.1.0
 SSL: '0.1'
 SSLASSO: 1.2-2
@@ -8111,7 +8111,7 @@ bartBMA: '1.0'
 bartCause: 1.0-4
 bartMachine: 1.2.6
 bartMachineJARs: '1.1'
-bartcs: 0.1.1
+bartcs: 0.1.2
 basad: 0.3.0
 base.rms: '1.0'
 base2grob: 0.0.3
@@ -10260,7 +10260,7 @@ dccvalidator: 0.3.0
 dcemri: 0.1.4
 dcemriS4: '0.55'
 dcens: '1.0'
-dcifer: 1.0.1
+dcifer: 1.1.0
 dclone: 2.3-0
 dclong.spt: 0.1.1
 dclust: 0.1.0
@@ -10661,7 +10661,7 @@ dlookr: 0.6.0
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.5
-dm: 1.0.0
+dm: 1.0.1
 dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
@@ -11524,7 +11524,7 @@ extraTrees: 1.0.5
 extracat: 1.7-6
 extrafont: '0.18'
 extrafontdb: '1.0'
-extrafrail: '1.0'
+extrafrail: '1.1'
 extraoperators: 0.1.1
 extras: 0.3.0
 extraterrestrial: 0.1.0
@@ -11569,7 +11569,7 @@ fCopulae: '4021.84'
 fDMA: 2.2.6
 fExoticOptions: '3042.80'
 fExpressCertificates: '1.3'
-fExtremes: '3042.82'
+fExtremes: '4021.83'
 fGarch: '4021.86'
 fHMM: 1.0.3
 fICA: 1.1-2
@@ -11584,7 +11584,7 @@ fRegression: '3042.82'
 fSRM: 0.6.5
 fSeries: '270.76'
 fTrading: '3042.79'
-fUnitRoots: '3042.79'
+fUnitRoots: '4021.80'
 fUtilities: '290.76'
 fabCI: '0.2'
 fabMix: '5.0'
@@ -11798,7 +11798,7 @@ femmeR: 0.5.1
 fence: '1.0'
 fergm: 1.1.4
 fermicatsR: '1.4'
-ferrn: 0.0.1
+ferrn: 0.0.2
 fetchR: 2.1-1
 ff: 4.0.7
 ffbase: '0.9'
@@ -13136,7 +13136,7 @@ gretlR: 0.1.4
 grex: '1.9'
 greybox: 1.0.5
 greyzoneSurv: '1.0'
-grf: 2.1.0
+grf: 2.2.0
 grid: 0.7-4
 gridBase: 0.4-7
 gridBezier: 1.1-1
@@ -13159,7 +13159,7 @@ grobblR: 0.2.1
 groc: 1.0.8
 grofit: '1.1'
 gromovlab: 0.8-3
-groundhog: 2.0.0
+groundhog: 2.0.1
 groupICA: 0.1.1
 groupRemMap: 0.1-0
 groupTesting: 1.0.0
@@ -13965,7 +13965,7 @@ influence.ME: 0.9-9
 influence.SEM: '2.3'
 influenceAUC: 0.1.2
 influenceR: 0.1.0.1
-influential: 2.2.5
+influential: 2.2.6
 influxdbclient: 0.1.0
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
@@ -14069,7 +14069,7 @@ introgress: '1.2'
 intrval: 0.1-2
 intsurv: 0.2.2
 intsurvbin: 0.0.4
-intsvy: '2.5'
+intsvy: '2.6'
 intubate: 1.0.0
 inum: 1.0-4
 invGauss: '1.2'
@@ -14202,7 +14202,7 @@ its.analysis: 1.6.0
 itsadug: 2.4.1
 itscalledsoccer: 0.2.0
 itsdm: 0.1.2
-itsmr: '1.9'
+itsmr: '1.10'
 itunesr: '0.1'
 iv: 0.1.2
 iva: 0.1.0
@@ -15548,7 +15548,7 @@ metabolomicsR: 1.0.0
 metacart: 2.0-3
 metacoder: 0.3.5
 metacom: 1.5.3
-metaconfoundr: 0.1.0
+metaconfoundr: 0.1.1
 metacor: 1.0-2.1
 metacore: 0.0.4
 metadat: 1.2-0
@@ -16600,7 +16600,7 @@ nflseedR: 1.1.0
 nflverse: 1.0.2
 nftbart: '1.3'
 nga: '1.4'
-ngboostForecast: 0.1.0
+ngboostForecast: 0.1.1
 ngram: 3.2.1
 ngramr: 1.7.5
 ngramrr: 0.2.0
@@ -17221,7 +17221,7 @@ overlap: 0.3.4
 overlapping: '1.8'
 overlapptest: 1.2-4
 overture: 0.4-0
-overviewR: 0.0.10
+overviewR: 0.0.11
 owd: 1.0.6
 owdbr: 1.0.1.1
 owidR: 1.3.0
@@ -18743,7 +18743,7 @@ rDataPipeline: 0.54.1
 rDecode: 0.1.0
 rDotNet: 0.9.1
 rDppDiversity: 0.0.2
-rEDM: 1.13.0
+rEDM: 1.13.1
 rEHR: '1.0'
 rEMM: 1.2.0
 rENA: 0.2.4
@@ -19413,7 +19413,7 @@ reval: 3.1-0
 revdbayes: 1.4.9
 revealedPrefs: 0.4.1
 revealjs: '0.9'
-reveneraR: 0.1.1
+reveneraR: 0.1.2
 revengc: 1.0.4
 reverseR: '0.1'
 revgeo: '0.15'
@@ -19513,7 +19513,7 @@ rhosa: 0.2.0
 rhosp: '1.10'
 rhub: 1.1.1
 rhymer: 1.1.0
-rhype: 0.2.0
+rhype: 0.3.0
 ri: '0.9'
 ri2: 0.4.0
 riAFTBART: 0.3.2
@@ -19568,7 +19568,7 @@ riskyr: 0.3.0
 rite: '0.3'
 ritis: 1.0.0
 riv: 2.0-5
-riverconn: 0.3.18
+riverconn: 0.3.22
 riverdist: 0.15.5
 rivernet: 1.2.1
 riverplot: '0.10'
@@ -19785,7 +19785,7 @@ ropensnp: 0.0.3
 roperators: 1.2.0
 ropercenter: 0.3.1
 roprov: 0.1.2
-roptim: 0.1.5
+roptim: 0.1.6
 roptions: 1.0.3
 ror: '1.2'
 rorcid: 0.7.0
@@ -20222,7 +20222,7 @@ sarp.snowprofile.alignment: 1.1.4
 sars: 1.3.5
 sarsop: 0.6.9
 sas7bdat: '0.6'
-sasLM: 0.8.1
+sasLM: 0.9.0
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.2
@@ -21377,7 +21377,7 @@ splitfngr: 0.1.2
 splithalf: 0.7.2
 splithalfr: 2.2.0
 splitstackshape: 1.4.8
-splm: 1.5-3
+splm: 1.6-2
 splmm: 1.1.3
 splot: 0.5.2
 spls: 2.2-3
@@ -21708,7 +21708,7 @@ stressaddition: 3.1.0
 stressr: 1.0.0
 strex: 1.4.3
 strider: '1.3'
-string2path: 0.1.0
+string2path: 0.1.1
 stringb: 0.1.17
 stringdist: 0.9.8
 stringfish: 0.15.7
@@ -22297,7 +22297,7 @@ tidydice: 0.1.1
 tidydr: 0.0.4
 tidyestimate: 1.1.0
 tidyfast: 0.2.1
-tidyfst: 1.6.5
+tidyfst: 1.7.0
 tidyft: 0.4.5
 tidygapminder: 0.1.1
 tidygate: 0.4.9
@@ -22345,7 +22345,7 @@ tidytree: 0.3.9
 tidytuesdayR: 1.0.2
 tidyverse: 1.3.2
 tidyvpc: 1.3.0
-tidywikidatar: 0.5.3
+tidywikidatar: 0.5.4
 tidyxl: 1.0.7
 tiff: 0.1-11
 tiger: '0.2'
