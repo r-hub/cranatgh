@@ -1336,7 +1336,7 @@ DBI.RPgSQL: 0.1-2
 DBItest: 1.7.2
 DBKGrad: '1.7'
 DBNMFrank: 0.1.0
-DBR: 1.3.0
+DBR: 1.4.0
 DBfit: '2.0'
 DBpower: 0.1.0
 DCA: '2.0'
@@ -1419,7 +1419,7 @@ DJL: '3.8'
 DLASSO: 2.0.2
 DLL: 1.0.0
 DLMtool: 6.0.6
-DLPCA: 0.0.2
+DLPCA: 0.0.5
 DMCfun: 2.0.2
 DMLLZU: 0.1.1
 DMMF: 0.5.1.2
@@ -3465,7 +3465,7 @@ MAVIS: '1.1'
 MAVTgsa: '1.3'
 MAc: '1.1'
 MAclinical: 1.0-5
-MAd: 0.8-2.1
+MAd: 0.8-3
 MAnorm2: 1.2.0
 MBA: 0.0-9
 MBAnalysis: 0.1.0
@@ -3817,7 +3817,7 @@ Matrix: 1.4-1
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.10.0
 MatrixEQTL: '2.3'
-MatrixExtra: 0.1.10
+MatrixExtra: 0.1.11
 MatrixLDA: '0.2'
 MatrixMixtures: 1.0.0
 MatrixModels: 0.5-0
@@ -5641,7 +5641,7 @@ RcppArmadillo: 0.11.2.0.0
 RcppBDT: 0.2.5
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
-RcppCCTZ: 0.2.10
+RcppCCTZ: 0.2.11
 RcppCGAL: 5.4.1
 RcppCNPy: 0.2.11
 RcppCWB: 0.5.3
@@ -9306,7 +9306,7 @@ climbeR: 0.0.1
 climdex.pcic: 1.1-11
 clime: 0.5.0
 climetrics: 1.0-5
-climextRemes: 0.2.2
+climextRemes: 0.3.0
 climtrends: 1.0.6
 climwin: 1.2.3
 clinDR: 2.3.5
@@ -10543,7 +10543,7 @@ dineq: 0.1.0
 dint: 2.1.3
 dipm: '1.8'
 diproperm: 0.2.0
-dipsaus: 0.2.2
+dipsaus: 0.2.3
 diptest: 0.76-0
 dipw: 0.1.0
 directPA: '1.5'
@@ -11570,7 +11570,7 @@ fDMA: 2.2.6
 fExoticOptions: '3042.80'
 fExpressCertificates: '1.3'
 fExtremes: '4021.83'
-fGarch: '4021.86'
+fGarch: '4021.87'
 fHMM: 1.0.3
 fICA: 1.1-2
 fImport: '4021.86'
@@ -11840,7 +11840,7 @@ fiftystater: 1.0.1
 fig: 1.0.0
 figpatch: '0.2'
 file2meco: 0.3.0
-filearray: 0.1.3
+filearray: 0.1.4
 filebin: 0.0.5
 filehash: 2.4-3
 filehashSQLite: 0.2-6
@@ -13374,7 +13374,7 @@ hdpca: 1.1.5
 hdr: '0.1'
 hdrcde: '3.4'
 hds: 0.8.1
-hdtg: 0.1.0
+hdtg: 0.2.0
 headliner: 0.0.2
 healthcareai: 2.5.0
 healthfinance: 0.1.0
@@ -14177,7 +14177,7 @@ isoreader: 1.3.2
 isotone: 1.1-0
 isotonic.pen: '1.0'
 isotracer: 1.1.3
-isotree: 0.5.15
+isotree: 0.5.16
 ispd: '0.2'
 isqg: '1.3'
 issueReporter: 0.1.0
@@ -15263,14 +15263,14 @@ margaret: 0.1.3
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
-marginaleffects: 0.6.0
+marginaleffects: 0.7.0
 marginalizedRisk: 2021.2-4
 marginalmodelplots: 0.4.2
 margins: 0.3.26
 marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
-mark: 0.5.0
+mark: 0.5.1
 markdown: '1.1'
 markdownInput: 0.1.2
 marked: 1.2.6
@@ -16593,9 +16593,9 @@ nextGenShinyApps: '1.5'
 nfda: '0.2'
 nfer: 1.1.0
 nfl4th: 1.0.1
-nflfastR: 4.3.0
+nflfastR: 4.4.0
 nflplotR: 1.0.1
-nflreadr: 1.2.0
+nflreadr: 1.3.0
 nflseedR: 1.1.0
 nflverse: 1.0.2
 nftbart: '1.3'
@@ -16801,7 +16801,7 @@ npIntFactRep: '1.5'
 npROCRegression: 1.0-6
 npRmpi: 0.60-2
 nparACT: '0.8'
-nparLD: 2.1-1
+nparLD: '2.2'
 nparMD: 0.2.1
 nparcomp: '3.0'
 nparsurv: 0.1.0
@@ -17211,7 +17211,7 @@ outcomerate: 1.0.1
 outerbase: 0.1.0
 outlierensembles: 0.1.0
 outliers: '0.15'
-outliertree: 1.8.1
+outliertree: 1.8.1-1
 outreg: 0.2.2
 outsider: 0.1.1
 outsider.base: 0.1.4
@@ -18984,7 +18984,7 @@ ravedash: 0.1.1
 raveio: 0.0.7
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravetools: 0.0.4
+ravetools: 0.0.5
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -19067,7 +19067,7 @@ rcmdcheck: 1.4.0
 rco: 1.0.2
 rcol: 0.2.0
 rcolors: 0.1.0
-rcompanion: 2.4.16
+rcompanion: 2.4.18
 rcompendium: '1.0'
 rcompgen: 0.1-8
 rcompletion: 0.1-2
@@ -19165,7 +19165,7 @@ readrba: 0.1.3
 readroper: 0.9.3
 readsdmx: 0.3.0
 readsdr: 0.2.0
-readsparse: 0.1.5-1
+readsparse: 0.1.5-2
 readstata13: 0.10.0
 readtext: '0.81'
 readtextgrid: 0.1.1
@@ -19203,7 +19203,7 @@ recogito: 0.1.1
 recolorize: 0.1.0
 recom: '1.0'
 recombinator: 1.0.1
-recometrics: 0.1.6
+recometrics: 0.1.6-1
 recommenderlab: 1.0.1
 recommenderlabBX: 0.2-0
 recommenderlabJester: 0.2-0
@@ -19744,7 +19744,7 @@ rocTree: 1.1.1
 rocc: '1.3'
 roccv: '1.2'
 rock: 0.5.5
-rockchalk: 1.8.152
+rockchalk: 1.8.157
 rocker: 0.3.0
 rockr: 1.0.0
 roclang: 0.2.0
@@ -19865,7 +19865,7 @@ rpubchem: 1.5.10
 rpubs: 0.2.2
 rpud: 0.0.2
 rpvm: 1.0-4
-rpymat: 0.1.2
+rpymat: 0.1.3
 rqPen: '2.3'
 rqdatatable: 1.3.1
 rqmcmb2: 1.0.2
@@ -20633,7 +20633,7 @@ shatteringdt: 0.1.0
 shazam: 1.1.1
 sheldusr: '0.1'
 shelltrace: 3.5.1
-shidashi: 0.1.2
+shidashi: 0.1.3
 shiftR: '1.5'
 shinipsum: 0.1.0
 shiny: 1.7.2
@@ -22409,7 +22409,7 @@ tipitaka: 0.1.2
 tipmap: 0.1.7
 tipom: '1.0'
 tippy: 0.1.0
-tipr: 0.4.1
+tipr: 1.0.0
 tipsae: 0.0.6
 tis: '1.39'
 titan: 1.0-9
