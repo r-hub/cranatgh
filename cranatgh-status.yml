@@ -572,7 +572,7 @@ BayesReversePLLH: '1.4'
 BayesS5: '1.41'
 BayesSAE: 1.0-2
 BayesSPsurv: 0.1.4
-BayesSUR: 2.1-1
+BayesSUR: 2.1-2
 BayesSampling: 1.1.0
 BayesSenMC: 0.1.5
 BayesSingleSub: '0.6'
@@ -1239,7 +1239,7 @@ CorShrink: 0.1-6
 Corbi: 0.6-2
 CoreGx: 0.1.1
 CornerstoneR: 2.0.2
-CorporaCoCo: 1.1-0
+CorporaCoCo: '2.0'
 CorrBin: '1.6'
 CorrMixed: '1.1'
 CorrToolBox: 1.6.4
@@ -1919,7 +1919,7 @@ EpiEstim: 2.2-4
 EpiILM: 1.5.2
 EpiILMCT: 1.1.7
 EpiInvert: 0.1.1
-EpiLPS: 1.0.5
+EpiLPS: 1.0.6
 EpiModel: 2.3.0
 EpiNow2: 1.3.2
 EpiReport: 1.0.2
@@ -2013,7 +2013,7 @@ FAdist: '2.4'
 FAiR: 0.4-8
 FAmle: 1.3.7
 FAwR: 1.1.2
-FBFsearch: '1.1'
+FBFsearch: '1.2'
 FBN: '1.5'
 FCGR: 1.0-0
 FCMapper: '1.1'
@@ -2860,7 +2860,7 @@ IDF: 2.1.2
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
-IDSL.IPA: '2.0'
+IDSL.IPA: '2.1'
 IDSL.MXP: '1.5'
 IDSL.SUFA: '1.0'
 IDSL.UFA: '1.4'
@@ -2972,7 +2972,7 @@ IVYplot: 0.1.0
 IalsaSynthesis: 0.1.6
 Iboot: 0.1-1
 IceCast: 2.1.0
-IceSat2R: 1.0.2
+IceSat2R: 1.0.3
 Icens: 1.24.0
 IgAScores: 0.1.2
 IgorR: '0.8'
@@ -3073,7 +3073,7 @@ JGR: 1.9-1
 JJcorr: '0.01'
 JLLprod: 1.0.1
 JLPM: 1.0.1
-JM: 1.5-1
+JM: 1.5-2
 JMI: 0.1.0
 JMLSD: '1.0'
 JMbayes: 0.8-85
@@ -4257,7 +4257,7 @@ NormalizeMets: '0.25'
 NostalgiR: 1.0.2
 NovelDistns: 0.1.0
 Nozzle.R1: 1.1-1.1
-Numero: 1.9.0
+Numero: 1.9.3
 NutrienTrackeR: 1.2.0
 OAIHarvester: 0.3-3
 OBASpatial: '1.8'
@@ -4490,7 +4490,7 @@ PGM2: 1.0-1
 PGRdup: 0.2.3.7
 PH1XBAR: 0.10.1
 PHENIX: 1.3.1
-PHEindicatormethods: 1.3.2
+PHEindicatormethods: 1.4.1
 PHInfiniteEstimates: '2.5'
 PHSMM: '1.0'
 PHYLOGR: 1.0.11
@@ -5037,7 +5037,7 @@ RBNZ: 1.1.0
 RBPcurve: '1.2'
 RBaseX: 1.1.1
 RBerkeley: 0.7-5
-RBesT: 1.6-3
+RBesT: 1.6-4
 RBestMatch: 0.1.1
 RBitly: 0.7.3
 RBitmoji: 0.0.2
@@ -6593,7 +6593,7 @@ SpatialKWD: 0.4.0
 SpatialML: 0.1.4
 SpatialNP: 1.1-5
 SpatialPOP: 0.1.0
-SpatialPack: 0.3-8196
+SpatialPack: '0.3'
 SpatialPosition: 2.1.1
 SpatialRegimes: '1.0'
 SpatialRoMLE: 0.1.0
@@ -8059,7 +8059,7 @@ babar: '1.0'
 babel: 0.3-0
 babelgene: '22.3'
 babelwhale: 1.0.3
-babette: 2.3.1
+babette: '2.3'
 babsim.hospital: 11.8.8
 babynames: 1.0.1
 bacistool: 1.0.0
@@ -8283,9 +8283,9 @@ beans: 0.1.0
 beanz: '2.4'
 bear: 2.6.4
 beast: '1.1'
-beastier: 2.4.10
+beastier: '2.4'
 beats: 0.1.1
-beautier: 2.6.4
+beautier: '2.6'
 bedr: 1.0.7
 beepr: '1.3'
 beeswarm: 0.4.0
@@ -9582,7 +9582,7 @@ compoisson: '0.3'
 compositions: 2.0-4
 compositionsGUI: '1.0'
 composits: 0.1.1
-compound.Cox: '3.20'
+compound.Cox: '3.21'
 comprehenr: 0.6.10
 compstatr: 0.2.1
 compute.es: 0.2-5
@@ -11323,7 +11323,7 @@ equalCovs: '1.0'
 equaltestMI: 0.6.1
 equatags: 0.2.0
 equate: 2.0.8
-equateIRT: 2.2.1
+equateIRT: 2.3.0
 equateMultiple: 0.1.0
 equatiomatic: 0.3.1
 equivUMP: 0.1.1
@@ -11560,7 +11560,7 @@ fANCOVA: 0.6-1
 fArma: '3042.81'
 fAsianOptions: '3042.82'
 fAssets: '3042.84'
-fBasics: 3042.89.2
+fBasics: '4021.92'
 fBonds: '3042.78'
 fCalendar: '270.78'
 fCertificates: 0.5-4
@@ -11705,7 +11705,7 @@ fastlogranktest: 0.2.1
 fastmaRching: 1.1.0
 fastmap: 1.1.0
 fastmatch: 1.1-3
-fastmatrix: 0.4-12
+fastmatrix: '0.4'
 fastmit: 0.1.1
 fastnet: 1.0.0
 fastpos: 0.4.1
@@ -11856,7 +11856,7 @@ filterNHP: 0.1.2
 filterviewR: '0.11'
 finalfit: 1.0.4
 financial: '0.2'
-finbif: 0.6.5
+finbif: 0.6.6
 finch: 0.4.0
 findInFiles: 0.4.0
 findInGit: 0.1.1
@@ -11996,7 +11996,7 @@ fmriqa: 0.3.0
 fmrs: 1.0-9
 fmsb: 0.7.3
 fmt: '1.0'
-fmtr: 1.5.7
+fmtr: 1.5.8
 foba: '0.1'
 focusedMDS: 1.3.3
 foghorn: 1.4.2
@@ -12364,7 +12364,7 @@ gasfluxes: 0.4-4
 gasper: 1.1.1
 gastempt: 0.5.5
 gaston: 1.5.7
-gateR: 0.1.10
+gateR: 0.1.9
 gatepoints: 0.1.4
 gauseR: '1.1'
 gaussDiff: '1.1'
@@ -12436,7 +12436,7 @@ geeasy: 0.1.1
 geecure: 1.0-6
 geepack: 1.3.4
 geesmv: '1.3'
-geex: 1.0.3
+geex: 1.1.1
 geigen: '2.3'
 geiger: 2.0.10
 gellipsoid: 0.7.2
@@ -12492,7 +12492,7 @@ genesysr: 1.0.0
 geneticae: 0.4.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
-genieclust: 1.0.0
+genieclust: 1.0.1
 genio: 1.1.1
 genius: 2.2.3
 geniusr: 1.2.0
@@ -12784,7 +12784,7 @@ ggpubr: 0.4.0
 ggpval: 0.2.5
 ggquickeda: 0.2.2
 ggquiver: 0.3.2
-ggraph: 2.0.5
+ggraph: 2.0.6
 ggraptR: '1.3'
 ggrasp: '1.2'
 ggrastr: 1.0.1
@@ -13672,7 +13672,7 @@ hypoRF: 1.0.0
 hypoparsr: 0.1.0
 hypothesestest: '1.0'
 hypothesisr: 0.1.1
-hypr: 0.2.2
+hypr: 0.2.3
 hypred: '0.5'
 hypsoLoop: 0.2.0
 hystReet: 0.0.2
@@ -13895,7 +13895,7 @@ immuneSIM: 0.8.7
 imola: 0.5.0
 imp4p: '1.2'
 impactflu: 0.1.0
-impactr: 0.4.0
+impactr: 0.4.1
 impimp: 0.3.1
 implicitMeasures: 0.2.1
 implied: 0.4.1
@@ -14777,7 +14777,7 @@ libbib: 1.6.2
 libcoin: 1.0-9
 libgeos: 3.11.0-1
 libproj: 8.1.0-1
-libr: 1.2.3
+libr: 1.2.5
 librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: 0.7.3
@@ -15524,7 +15524,7 @@ metR: 0.12.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
 meta: 5.5-0
-meta.shrinkage: 0.1.2
+meta.shrinkage: 0.1.3
 meta4diag: 2.1.1
 metaBLUE: 1.0.0
 metaBMA: 0.6.7
@@ -15877,7 +15877,7 @@ mlr3: 0.13.4
 mlr3benchmark: 0.1.3
 mlr3cluster: 0.1.3
 mlr3data: 0.6.0
-mlr3db: 0.4.2
+mlr3db: 0.5.0
 mlr3fairness: 0.3.0
 mlr3filters: 0.5.0
 mlr3fselect: 0.7.1
@@ -16423,7 +16423,7 @@ nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.17.1
 naflex: 0.1.0
-naijR: 0.4.0
+naijR: 0.4.3
 naive: 1.0.0
 naivebayes: 0.9.7
 naivereg: 1.0.5
@@ -16436,7 +16436,7 @@ nametagger: 0.1.1
 nandb: 2.1.0
 naniar: 0.6.1
 nanny: 0.1.8
-nanonext: 0.5.2
+nanonext: 0.5.3
 nanop: 2.0-6
 nanostringr: 0.3.0
 nanotime: 0.3.6
@@ -16453,7 +16453,7 @@ nat.templatebrains: '1.0'
 nat.utils: 0.5.1
 natcpp: 0.1.0
 nationwider: 1.1.1
-natmanager: 0.4.8
+natmanager: 0.4.9
 natserv: 1.0.0
 natstrat: 2.0.0
 naturaList: 0.5.0
@@ -16606,9 +16606,9 @@ ngramr: 1.7.5
 ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
-nhanesA: 0.6.7
+nhanesA: 0.7.0
 nhdR: 0.5.7
-nhdplusTools: 0.5.5
+nhdplusTools: 0.5.6
 nhds: 1.0.3
 nhlapi: 0.1.4
 nhlscrape: 0.1.3
@@ -16726,7 +16726,7 @@ noctua: 2.6.0
 nodbi: 0.8.1
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
-nodeSub: 1.2.4
+nodeSub: '1.2'
 nodiv: 1.4.0
 nofrills: 0.3.2
 noia: 0.97.1
@@ -18521,7 +18521,7 @@ qgam: 1.3.4
 qgcomp: 2.8.6
 qgcompint: 0.7.0
 qgen: 0.03-02
-qgg: 1.1.0
+qgg: 1.1.1
 qgraph: 1.9.2
 qgshiny: 0.1.0
 qgtools: '2.0'
@@ -18695,7 +18695,7 @@ r2mlm: 0.3.2
 r2pmml: 0.26.0
 r2pptx: 0.1.0
 r2r: 0.1.1
-r2redux: 1.0.9
+r2redux: 1.0.10
 r2rtf: 0.3.5
 r2shortcode: '0.1'
 r2spss: 0.3.2
@@ -19014,7 +19014,7 @@ rbi.helpers: 0.3.2
 rbibutils: 2.2.8
 rbin: 0.2.0
 rbioacc: 1.1-0
-rbioapi: 0.7.6
+rbioapi: 0.7.7
 rbiom: 1.0.3
 rbiorxiv: 0.2.1
 rbiouml: '1.11'
@@ -19125,7 +19125,7 @@ rdpower: '2.2'
 rdrobust: 2.0.2
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
-rdtLite: '1.3'
+rdtLite: '1.4'
 rdwd: 1.6.0
 rdwplus: 0.1.0
 rdyncall: 0.7.5
@@ -19181,7 +19181,7 @@ reams: '0.1'
 rearrr: 0.3.0
 reasonabletools: '0.1'
 rebird: 1.3.0
-rebmix: 2.14.1
+rebmix: 2.9.3
 rebus: 0.1-3
 rebus.base: 0.0-3
 rebus.datetimes: 0.0-1
@@ -19199,7 +19199,7 @@ recluster: '2.9'
 recmap: 1.0.11
 recodeflow: 0.1.0
 recoder: '0.1'
-recogito: 0.1.1
+recogito: 0.1.2
 recolorize: 0.1.0
 recom: '1.0'
 recombinator: 1.0.1
@@ -19347,7 +19347,7 @@ report: 0.5.1
 reportROC: '3.6'
 reportReg: 0.3.0
 reportRx: '1.0'
-reporter: 1.3.3
+reporter: 1.3.5
 reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
@@ -19491,7 +19491,7 @@ rgplates: 0.1.0
 rgpui: 0.1-2
 rgr: 1.1.9
 rgraph6: 2.0-1
-rgrass: 0.3-2
+rgrass: 0.3-3
 rgrass7: 0.2-10
 rgrassdoc: 1.0.0
 rgrs: '0.3'
@@ -19910,7 +19910,7 @@ rsBayes: 0.1.0
 rsMove: 0.2.8
 rsae: '0.2'
 rsam: 0.1.0
-rsample: 1.0.0
+rsample: 1.1.0
 rsat: 0.1.18
 rsatscan: 0.3.9200
 rsbml: '1.2'
@@ -20250,7 +20250,7 @@ sbpiper: 1.9.0
 sbrl: '1.2'
 sbtools: 1.1.19
 sbw: 1.1.5
-scAnnotate: 0.0.1
+scAnnotate: 0.0.2
 scBio: 0.1.6
 scCAN: 1.0.4
 scCATCH: '3.1'
@@ -20814,7 +20814,7 @@ simcross: 0.3-6
 simctest: '2.6'
 simdistr: 1.0.1
 simecol: 0.8-14
-simer: 0.9.0.0
+simer: 0.9.0.2
 simest: '0.4'
 simex: '1.8'
 simexaft: 1.0.7.1
@@ -21388,8 +21388,8 @@ splutil: 2022.6.20
 spm: 1.2.2
 spm12r: 2.8.3
 spm2: 1.1.2
-spmoran: 0.2.2.4
-spnaf: 0.1.0
+spmoran: 0.2.2.5
+spnaf: 0.2.0
 spnet: 0.9.1-0
 spnn: 1.2.1
 spocc: 1.2.0
@@ -21534,7 +21534,7 @@ stampr: '0.2'
 stan4bart: 0.0-3
 standGL: '1.1'
 standardize: 0.2.2
-standartox: 0.0.1
+standartox: 0.0.2
 stanette: 2.21.4
 stapler: 0.7.1
 staplr: 3.1.1
@@ -21961,7 +21961,7 @@ symSEM: '0.1'
 symbolicDA: 0.6-3
 symbols: '1.1'
 symengine: 0.2.1
-symmetry: 0.2.1
+symmetry: 0.2.2
 symmoments: 1.2.1
 symphony: 0.1.0
 syn: 0.1.0
@@ -22073,7 +22073,7 @@ taxizedb: 0.3.0
 taxlist: 0.2.2
 taxonbridge: 1.2.2
 taxonomizr: 0.9.3
-taxotools: 0.0.129
+taxotools: 0.0.9
 tayloRswift: 0.1.0
 taylor: 1.0.0
 tbart: '1.0'
@@ -22597,7 +22597,7 @@ treefit: 1.0.2
 treeglia: 1.0.1
 treeheatr: 0.2.1
 treelet: '1.1'
-treeman: 1.1.4
+treeman: '1.1'
 treemap: 2.4-3
 treemapify: 2.5.5
 treenomial: 1.1.4
@@ -23146,7 +23146,7 @@ vkR: '0.2'
 vlad: 0.2.2
 vlda: 1.1.5
 vmd: 0.1.0
-vmdTDNN: 0.1.0
+vmdTDNN: 0.1.1
 vmeasur: 0.1.4
 vmr: 0.0.4
 vmsbase: 2.2.1
