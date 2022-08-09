@@ -431,7 +431,7 @@ BMRBr: 0.2.0
 BMRMM: 0.0.1
 BMRSr: 1.0.3
 BMRV: '1.32'
-BMS: 0.3.4
+BMS: 0.3.5
 BMSC: 0.2.1
 BMT: 0.1.0.3
 BMTAR: 0.1.1
@@ -465,7 +465,7 @@ BRINDA: 0.1.4
 BRISC: 1.0.5
 BRL: 0.1.0
 BRugs: 0.9-1
-BSBT: 1.2.0
+BSBT: 1.2.1
 BSDA: 1.2.1
 BSGS: '2.0'
 BSGW: 0.9.2
@@ -606,6 +606,7 @@ Bchron: 4.7.6
 Bclim: 3.1.2
 BeSS: 2.0.3
 BeastJar: 1.10.6
+BeeGUTS: 1.0.0
 Benchmarking: '0.30'
 BenfordTests: 1.2.0
 Bergm: 5.0.3
@@ -878,6 +879,7 @@ CMAPSS: 0.1.1
 CMC: '1.0'
 CME.assistant: 1.1.4
 CMF: 1.0.2
+CMHNPA: 0.1.0
 CMLS: 1.0-0
 CMPControl: '1.0'
 CMShiny: 0.1.0
@@ -1742,7 +1744,7 @@ EDR: 0.6-7
 EDanalysis: '1.0'
 EEM: 1.1.1
 EEMDSVR: 0.1.0
-EEMDelm: 0.1.0
+EEMDelm: 0.1.1
 EESPCA: 0.7.0
 EFA.MRFA: 1.1.2
 EFA.dimensions: 0.1.7.4
@@ -4262,7 +4264,7 @@ NutrienTrackeR: 1.2.0
 OAIHarvester: 0.3-3
 OBASpatial: '1.8'
 OBIC: 2.0.1
-OBL: 0.1.0
+OBL: 0.2.0
 OBMbpkg: 1.0.0
 OBRE: 0.1-0
 OBsMD: '6.1'
@@ -5348,7 +5350,7 @@ RPPairwiseDesign: '1.0'
 RPPanalyzer: 1.4.7
 RPS: 1.0.1
 RPgSQL: 1.0-0
-RPostgreSQL: 0.7-3
+RPostgreSQL: 0.7-4
 RPostgres: 1.4.4
 RPresto: 1.3.7
 RProbSup: '3.0'
@@ -6713,6 +6715,7 @@ SuperRanker: 1.2.0
 SuperpixelImageSegmentation: 1.0.5
 Superpower: 0.2.0
 SuppDists: 1.1-9.7
+SurfaceReconstruction: 0.1.0
 SurfaceTortoise: 1.0.2
 Surrogate: '2.3'
 SurrogateOutcome: '1.1'
@@ -7173,6 +7176,7 @@ VIRF: 0.1.0
 VLF: '1.0'
 VLMC: 1.4-3-1
 VLTimeCausality: 0.1.4
+VMDML: 0.1.0
 VMDecomp: 1.0.1
 VNM: '7.1'
 VOSONDash: 0.5.7
@@ -7780,7 +7784,7 @@ aplot: 0.1.6
 aplpack: 1.3.5
 apmsWAPP: '1.0'
 apng: '1.1'
-apollo: 0.2.7
+apollo: 0.2.8
 apparent: '1.1'
 appell: 0.0-4
 apple: '0.3'
@@ -8871,6 +8875,7 @@ calibFit: 2.1.0
 calibrar: 0.2.0
 calibrate: 1.7.7
 calibrateBinary: '0.1'
+calibrationband: 0.1.0
 calibrator: 1.2-8
 caliver: 2.0.0
 callr: 3.7.1
@@ -8919,7 +8924,7 @@ cardidates: 0.4.8
 cardioModel: '1.4'
 care: 1.1.11
 careless: 1.2.1
-caret: 6.0-92
+caret: 6.0-93
 caretEnsemble: 2.0.1
 caretForecast: 0.0.3
 caretLSF: '1.9'
@@ -8946,6 +8951,7 @@ casen: 0.2.0
 casino: 0.1.0
 caspar: '1.0'
 cassandRa: 0.1.0
+cassowaryr: 2.0.0
 castor: 1.7.2
 cat: 0.0-7
 cat.dt: 0.3.1
@@ -10508,6 +10514,7 @@ diffMeshGP: 0.1.0
 diffcor: 0.7.1
 diffdepprop: 0.1-9
 diffdf: 1.0.4
+diffdfs: 0.9.0
 diffeR: 0.0-6
 diffeRenTES: 0.3.2
 diffee: 1.1.0
@@ -10585,7 +10592,7 @@ diskmemoiser: 1.0-1
 dismo: 1.3-8
 disordR: 0.0-9-1
 disp2D: '1.0'
-dispRity: 1.6.9
+dispRity: 1.7.0
 disparityfilter: 2.2.3
 displayHTS: '1.0'
 dispmod: '1.2'
@@ -10817,7 +10824,7 @@ dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
 dseplus: 2006.4-1
-dsims: 0.2.3
+dsims: 1.0.0
 dslabs: 0.7.4
 dslice: 1.2.0
 dsm: 2.3.2
@@ -11627,6 +11634,7 @@ fairness: 1.2.2
 fairselect: 0.1-1
 fairsubset: '1.0'
 faisalconjoint: '1.15'
+fake: 1.0.0
 fakeR: '1.0'
 fakemake: 1.10.4
 fakmct: 0.1.0
@@ -13213,7 +13221,7 @@ gslnls: 1.1.1
 gsloid: 0.2.0
 gsmaRt: '1.0'
 gsmoothr: 0.1.7
-gson: 0.0.6
+gson: 0.0.7
 gsrc: '1.1'
 gsrs: 0.1.1
 gsrsb: 1.1.1
@@ -13998,7 +14006,7 @@ insideRODE: '2.0'
 insiderTrades: 0.0.1
 insight: 0.18.0
 insol: 1.2.2
-inspectdf: 0.0.11
+inspectdf: 0.0.12
 inspector: 1.0.3
 inspectr: 1.0.0
 instaR: 0.2.4
@@ -14059,7 +14067,7 @@ intervalaverage: 0.8.0
 intervals: 0.15.2
 intervcomp: 0.1.2
 interventionalDBN: '1.2'
-inti: 0.5.6
+inti: 0.5.7
 intkrige: 1.0.1
 intmed: 0.1.2
 intoo: 0.4.0
@@ -14606,7 +14614,7 @@ lassoshooting: 0.1.5-1.1
 last.call: 0.1.3
 lasvmR: '0.1'
 latdiag: '0.3'
-latentcor: 1.2.1
+latentcor: 2.0.0
 latentgraph: '1.1'
 latentnet: 2.10.6
 latentnetHRT: 0.7-18
@@ -14723,7 +14731,7 @@ leastcostpath: 1.8.7
 ledger: 2.0.9
 leem: 0.1.0
 leerSIECyL: 1.0.2
-lefko3: 5.3.0
+lefko3: 5.4.2
 lefse: '0.1'
 legco: 0.1.4
 legion: 0.1.1
@@ -16093,7 +16101,7 @@ move: 4.1.8
 moveHMM: '1.8'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.3
-movecost: '1.6'
+movecost: '1.7'
 mozzie: 0.1.0
 mp: 0.4.1
 mpMap: '1.14'
@@ -16649,7 +16657,7 @@ nleqslv: 3.3.3
 nlgeocoder: 0.1.3
 nlirms: 3.4.4
 nlist: 0.3.3
-nlme: 3.1-158
+nlme: 3.1-159
 nlmeODE: '1.1'
 nlmeU: 0.70-9
 nlmeVPC: '2.2'
@@ -17166,7 +17174,7 @@ orloca.es: '4.9'
 ormBigData: 0.0.1
 ormPlot: 0.3.4
 oro.dicom: 0.5.3
-oro.nifti: 0.11.2
+oro.nifti: 0.11.3
 oro.pet: 0.2.6
 orsifronts: 0.2.0
 orsk: 1.0-6
@@ -17443,7 +17451,7 @@ pathmox: 0.2.0
 pathological: 0.1-2
 paths: 0.1.1
 pathviewr: 1.0.1
-pathwayTMB: 0.1.2
+pathwayTMB: 0.1.3
 patientProfilesVis: 2.0.2
 patrick: 0.1.0
 patternator: 0.1.0
@@ -17832,7 +17840,7 @@ pkggraph: 0.2.3
 pkglite: 0.2.0
 pkgload: 1.3.0
 pkgmaker: 0.32.2
-pkgndep: 1.1.4
+pkgndep: 1.1.5
 pkgnet: 0.4.2
 pkgnews: 0.0.2
 pkgsearch: 3.1.1
@@ -18003,7 +18011,7 @@ polidata: 0.1.0
 polimetrics: 1.2.1.14
 poliscidata: 2.3.0
 polished: 0.6.1
-polite: 0.1.1
+polite: 0.1.2
 politeness: 0.8.7
 politicaldata: 0.1.3
 pollen: 0.82.0
@@ -18626,7 +18634,7 @@ quantable: 0.3.6
 quantchem: '0.13'
 quantdates: '1.0'
 quantdr: 1.2.2
-quanteda: 3.2.1
+quanteda: 3.2.2
 quanteda.textmodels: 0.9.4
 quanteda.textplots: 0.94.1
 quanteda.textstats: '0.95'
@@ -18930,6 +18938,7 @@ rankUncertainty: 1.0.2.0
 rankdifferencetest: '2021-11-25'
 rankdist: 1.1.4
 rankhazard: 1.1.0
+rankinPlot: 1.0.1
 rankrate: 1.0.0
 rankreg: 0.2-2
 ranlip: 1.0.1
@@ -20093,7 +20102,7 @@ rwunderground: 0.1.8
 rxSeq: 0.99.3
 rxivistr: 0.1.1
 rxode2: 2.0.7
-rxylib: 0.2.7
+rxylib: 0.2.8
 ryandexdirect: 3.6.0
 rym: 1.0.5
 ryouready: '0.4'
@@ -20308,7 +20317,7 @@ scgwr: 0.1.2-21
 schemr: 0.1.0
 schoRsch: 1.9.1
 schoenberg: 2.0.2
-scholar: 0.2.3
+scholar: 0.2.4
 schoolmath: 0.4.1
 schrute: 0.2.2
 schtools: 0.2.1
@@ -20378,7 +20387,7 @@ sdcSpatial: 0.5.2
 sdcTable: 0.32.3
 sdcTarget: 0.9-11
 sddpack: '0.9'
-sde: 2.0.15
+sde: 2.0.18
 sdef: '1.7'
 sdetorus: 0.1.8
 sdglinkage: 0.1.0
@@ -20433,6 +20442,7 @@ seeds: 0.9.1
 seedwater: '2.0'
 seedy: '1.3'
 seeg: '1.0'
+seeker: 1.0.9
 seem: '1.0'
 seer: 1.1.7
 seewave: 2.2.0
@@ -20502,7 +20512,7 @@ sense: 1.0.0
 sensemakr: 0.1.4
 sensiPhy: 0.8.5
 sensibo.sky: 1.0.0
-sensitivity: 1.27.0
+sensitivity: 1.27.1
 sensitivity2x2xk: '1.01'
 sensitivityCalibration: 0.0.1
 sensitivityPStrat: '1.0'
@@ -20954,6 +20964,7 @@ sleekts: 1.0.2
 sleepr: 0.3.0
 sleepwalk: 0.3.2
 sleev: 1.0.2
+slendr: 0.2.0
 slfm: 1.0.1
 slga: 1.2.0
 slgf: 0.1.0
@@ -21360,7 +21371,7 @@ spind: 2.2.1
 spinebil: 0.1.0
 spinifex: 0.3.6
 spinyReg: 0.1-0
-spiralize: 1.0.5
+spiralize: 1.0.6
 spiritR: 0.1.1
 splancs: 2.01-43
 splash: 1.0.1
@@ -21638,7 +21649,7 @@ stilt: 1.3.0
 stima: 1.2.1
 stinepack: '1.4'
 stlARIMA: 0.1.0
-stlELM: 0.1.0
+stlELM: 0.1.1
 stlTDNN: 0.1.0
 stlcsb: 0.1.2
 stlnpp: 0.3.8
@@ -21853,7 +21864,7 @@ surveysd: 1.3.0
 surveyvoi: 1.0.3
 survidm: 1.3.2
 survivALL: 0.9.3
-survival: 3.3-1
+survival: 3.4-0
 survival.svb: 0.0-2
 survival4: 1.4-0
 survival5: '2.4'
@@ -22721,7 +22732,7 @@ tstools: 0.4.1
 tsutils: 0.9.3
 tsviz: 0.1.0
 tsvr: 1.0.2
-tswge: 1.0.0
+tswge: 2.0.0
 tsxtreme: 0.3.3
 ttScreening: '1.6'
 ttTensor: 1.0.1
@@ -23584,6 +23595,7 @@ ykmeans: '1.0'
 yll: 1.0.0
 ymd: 0.0.1
 ymlthis: 0.1.7
+ympes: 0.1.1
 yonder: 0.2.0
 yorkr: 0.0.34
 yotover: 0.3.5
