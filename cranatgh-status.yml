@@ -598,7 +598,7 @@ BayesianTools: 0.1.7
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
 Bayesiantreg: '1.0'
-Bayesrel: 0.7.4.2
+Bayesrel: 0.7.4.3
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
 BcDiag: 1.0.10
@@ -1094,7 +1094,7 @@ CliftLRD: 0.1-1
 ClimClass: 2.1.0
 ClimDown: 1.0.8
 ClimInd: 0.1-3
-ClimMobTools: 0.4.5
+ClimMobTools: 0.4.6
 ClimProjDiags: 0.1.3
 ClinReport: 0.9.1.8
 ClinSigMeasures: '1.0'
@@ -1294,7 +1294,7 @@ CustosAscensor: 0.1.0
 CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
-Cyclops: 3.2.0
+Cyclops: 3.2.1
 CytOpT: 0.9.4
 CytobankAPI: 2.0.0
 CytobankAPIstats: '2.0'
@@ -2051,7 +2051,7 @@ FHtest: '1.5'
 FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
-FIESTA: 3.4.1
+FIESTA: 3.4.2
 FIESTAutils: 1.1.3
 FILEST: 1.1.2
 FIT: 0.0.6
@@ -5103,7 +5103,7 @@ REBayes: '2.51'
 RECA: '1.7'
 RECSO: '1.0'
 REDCapExporter: 0.2.2
-REDCapR: 1.0.0
+REDCapR: 1.1.0
 REEMtree: 0.90.4
 REGENT: 1.0.6
 REIDS: 0.1.0
@@ -5586,7 +5586,7 @@ RcmdrPlugin.FactoMineR: '1.7'
 RcmdrPlugin.FuzzyClust: '1.1'
 RcmdrPlugin.GWRM: 1.0.2
 RcmdrPlugin.HH: 1.1-47
-RcmdrPlugin.IPSUR: 0.2-1.1
+RcmdrPlugin.IPSUR: 0.2-1
 RcmdrPlugin.KMggplot2: 0.2-6
 RcmdrPlugin.MA: 0.0-2
 RcmdrPlugin.MAc: '1.0'
@@ -6320,7 +6320,7 @@ STV: 1.0.2
 STraTUS: 1.1.2
 SUE: '1.0'
 SUMMER: 1.3.0
-SUNGEO: 0.2.288
+SUNGEO: 0.2.291
 SV: 1.3.5
 SVGMapping: '1.4'
 SVMMaj: 0.2.9.1
@@ -6659,7 +6659,7 @@ SteinIV: 0.1-1
 SteinerNet: 3.1.0
 Stem: '1.0'
 StempCens: 1.1.0
-StepBeta: 2.0.1
+StepBeta: 2.1.0
 StepReg: 1.4.3
 StepSignalMargiLike: 2.6.0
 SteppedPower: 0.3.2
@@ -6817,7 +6817,7 @@ TLMoments: 0.7.5.3
 TLdating: 0.1.3
 TMB: 1.9.0
 TMDb: '1.1'
-TMTI: 1.0.0
+TMTI: 1.0.1
 TNC: 0.1.0
 TNRS: 0.3.1
 TOC: 0.0-5
@@ -7039,7 +7039,7 @@ TreeDist: 2.4.1
 TreeLS: 2.0.2
 TreePar: '3.3'
 TreeRank: 1.1-0
-TreeSearch: 1.1.2
+TreeSearch: 1.2.0
 TreeSim: '2.4'
 TreeSimGM: '2.5'
 TreeTools: 1.7.3
@@ -7656,7 +7656,7 @@ alluvial: 0.1-2
 alm: 0.4.0
 almanac: 0.1.1
 alookr: 0.3.7
-alpaca: 0.3.3
+alpaca: 0.3.4
 alphaOutlier: 1.2.0
 alphabetr: 0.2.2
 alphahull: '2.5'
@@ -7863,7 +7863,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
-arrow: 8.0.0
+arrow: 9.0.0
 ars: '0.6'
 arse: 1.0.0
 arsenal: 3.6.3
@@ -9063,7 +9063,7 @@ ceg: 0.1.0
 celestial: 1.4.6
 cellOrigins: 0.1.3
 cellVolumeDist: '1.4'
-cellWise: 2.2.6
+cellWise: 2.4.0
 cellpypes: 0.1.3
 cellranger: 1.1.0
 celltrackR: 1.1.0
@@ -10267,7 +10267,7 @@ dccvalidator: 0.3.0
 dcemri: 0.1.4
 dcemriS4: '0.55'
 dcens: '1.0'
-dcifer: 1.1.0
+dcifer: 1.1.1
 dclone: 2.3-0
 dclong.spt: 0.1.1
 dclust: 0.1.0
@@ -11235,7 +11235,7 @@ engsoccerdata: 0.1.5
 enigma: 0.3.0
 ennet: 0.2.2
 enpls: '6.1'
-enrichR: '3.0'
+enrichR: '3.1'
 enrichvs: 0.0.5
 enrichwith: 0.3.1
 ensModelVis: 0.1.0
@@ -11714,10 +11714,10 @@ fastlogranktest: 0.2.1
 fastmaRching: 1.1.0
 fastmap: 1.1.0
 fastmatch: 1.1-3
-fastmatrix: '0.4'
+fastmatrix: 0.4-124
 fastmit: 0.1.1
 fastnet: 1.0.0
-fastpos: 0.4.1
+fastpos: 0.5.0
 fastpseudo: '0.1'
 fastqcr: 0.1.2
 fastqq: 0.1.2
@@ -13843,7 +13843,7 @@ ifCNVR: 0.1.0
 ifa: '7.0'
 ifaTools: '0.23'
 ifctools: 0.3.4
-ifs: 0.1.5
+ifs: 0.1.9
 ifultools: 2.0-26
 ig: '1.2'
 ig.vancouver.2014.topcolour: 0.1.2.0
@@ -15758,7 +15758,7 @@ mipred: 0.0.1
 miraculix: 0.9.4
 mirai: 0.5.2
 mirf: '1.0'
-mirt: 1.36.1
+mirt: 1.37.1
 mirtCAT: '1.12'
 mirtjml: 1.4.0
 mirtsvd: '1.0'
@@ -15909,7 +15909,7 @@ mlr3viz: 0.5.9
 mlrCPO: 0.3.7-4
 mlrMBO: 1.1.5.1
 mlrintermbo: 0.5.0
-mlrpro: 0.1.1
+mlrpro: 0.1.2
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlt: 1.4-2
@@ -15920,7 +15920,7 @@ mlvocab: '0.1'
 mlxR: 4.2.0
 mma: 10.6-1
 mmabig: 3.1-0
-mmand: 1.6.1
+mmand: 1.6.2
 mmap: 0.6-19
 mmapcharr: 0.3.0
 mmaqshiny: 1.0.0
@@ -16031,7 +16031,7 @@ mogavs: 1.1.0
 mojson: '0.1'
 mokken: 3.0.6
 moko: 1.0.3
-molaR: '5.0'
+molaR: '5.1'
 molic: 2.0.3
 molnet: 0.1.0
 mombf: 3.1.3
@@ -16453,7 +16453,7 @@ nanostringr: 0.3.0
 nanotime: 0.3.6
 naptime: 1.3.0
 nardl: 0.1.6
-narray: 0.4.1.1
+narray: 0.5.0
 nasadata: 0.9.0
 nasapower: 4.0.7
 nasaweather: '0.1'
@@ -16618,7 +16618,7 @@ ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
 nhanesA: 0.7.0
-nhdR: 0.5.7
+nhdR: 0.5.8
 nhdplusTools: 0.5.6
 nhds: 1.0.3
 nhlapi: 0.1.4
@@ -17177,7 +17177,7 @@ orloca.es: '4.9'
 ormBigData: 0.0.1
 ormPlot: 0.3.4
 oro.dicom: 0.5.3
-oro.nifti: 0.11.3
+oro.nifti: 0.11.4
 oro.pet: 0.2.6
 orsifronts: 0.2.0
 orsk: 1.0-6
@@ -17374,7 +17374,7 @@ parallelize.dynamic: '0.9'
 parallelly: 1.32.1
 param6: 0.2.4
 paramGUI: 2.1.4
-parameters: 0.18.1
+parameters: 0.18.2
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.3
@@ -17808,7 +17808,7 @@ pinyin: 1.1.6
 pipe.design: 0.5.1
 pipeGS: '0.4'
 pipeR: 0.6.1.3
-pipebind: 0.1.0
+pipebind: 0.1.1
 pipefittr: 0.1.2
 pipeliner: 0.1.1
 pipenostics: 0.1.7
@@ -18564,7 +18564,7 @@ qpcR: 1.4-1
 qpdf: 1.2.0
 qpmadr: 1.1.0-0
 qqboxplot: 0.2.0
-qqconf: 1.2.3
+qqconf: 1.3.0
 qqid: 1.0.3
 qqman: 0.1.8
 qqplotr: 0.0.5
@@ -19601,7 +19601,7 @@ rjson: 0.2.21
 rjsonapi: 0.1.0
 rjstat: 0.4.2
 rjwsacruncher: 0.1.2
-rkafka: '1.3'
+rkafka: '1.4'
 rkafkajars: '1.2'
 rkdb: 0.9.0
 rkeops: 1.4.2.2
@@ -20239,7 +20239,7 @@ sasLM: 0.9.0
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.2
-sassy: 1.0.7
+sassy: 1.0.8
 sate: 1.1.0
 satellite: 1.0.4
 satin: '1.0'
@@ -23452,7 +23452,7 @@ wpp2017: 1.2-3
 wpp2019: 1.1-1
 wppExplorer: 2.3-4
 wq: 0.4.8
-wql: 0.4.9
+wql: 1.0.0
 wqs: 0.0.1
 wrGraph: 1.3.1
 wrMisc: 1.9.2
