@@ -817,7 +817,7 @@ CDVineCopulaConditional: 0.1.1
 CDatanet: 1.0.1
 CEAmarkov: 0.1.0
 CEC: 0.9.4
-CEDA: 1.0.2
+CEDA: 1.1.0
 CEDARS: '1.90'
 CEGO: 2.4.2
 CENFA: 1.1.1
@@ -879,7 +879,7 @@ CMAPSS: 0.1.1
 CMC: '1.0'
 CME.assistant: 1.1.4
 CMF: 1.0.3
-CMHNPA: 0.1.0
+CMHNPA: 0.1.1
 CMLS: 1.0-0
 CMPControl: '1.0'
 CMShiny: 0.1.0
@@ -1772,7 +1772,7 @@ ELT: '1.6'
 ELYP: 0.7-5
 EM.Fuzzy: '1.0'
 EMA: 1.4.7
-EMAS: 0.2.1
+EMAS: 0.2.2
 EMAtools: 0.1.4
 EMC: '1.3'
 EMCC: '1.3'
@@ -1874,7 +1874,7 @@ EffectTreat: '1.1'
 EffectiveDose: 1.0-7
 EffectsRelBaseline: '0.5'
 EfficientMaxEigenpair: 0.1.4
-EgoCor: 0.1.0
+EgoCor: 1.0.0
 EigenR: 1.2.3
 ElastH: '0.3'
 EleChemr: 1.2.0
@@ -2319,7 +2319,7 @@ GEInter: 0.3.2
 GENEAclassify: 1.5.2
 GENEAread: 2.0.9
 GENEAsphere: 1.5.1
-GENLIB: 1.1.5
+GENLIB: 1.1.6
 GENMETA: '0.1'
 GEOmap: 2.5-0
 GERGM: 0.7.4
@@ -3165,7 +3165,7 @@ KernSmoothIRT: '6.4'
 KernelICA: 0.1.0
 KernelKnn: 1.1.4
 Kernelheaping: 2.3.0
-Keyboard: 0.1.0
+Keyboard: 0.1.3
 KeyboardSimulator: 2.6.0
 KingCountyHouses: 0.1.0
 Kmisc: 0.5.0
@@ -3480,7 +3480,7 @@ MBI: '1.0'
 MBNMAdose: 0.4.1
 MBNMAtime: 0.2.1
 MBSGS: 1.1.0
-MBSP: '2.0'
+MBSP: '3.0'
 MBTAr: 2.0.0
 MBmca: 1.0.1-3
 MC2toPath: 0.0.16
@@ -4467,7 +4467,7 @@ PCS: '1.3'
 PCSinR: 0.1.0
 PCovR: 2.7.1
 PDE: 1.4.0
-PDFEstimator: '4.0'
+PDFEstimator: '4.1'
 PDM: '0.1'
 PDMIF: 0.1.0
 PDN: 0.1.0
@@ -5138,7 +5138,7 @@ RFpredInterval: 1.0.6
 RFreak: 0.3-0
 RGA: 0.4.2
 RGAN: 0.1.1
-RGBM: 1.0-8
+RGBM: 1.0-9
 RGCCA: 2.1.2
 RGCxGC: 1.1-2
 RGE: '1.0'
@@ -6684,7 +6684,7 @@ StreamingLm: '0.1'
 StressStrength: 1.0.2
 String2AdjMatrix: 0.1.0
 StroupGLMM: 0.1.0
-StrucDiv: 0.1.0
+StrucDiv: 0.1.1
 StructFDR: '1.3'
 StructR: '1.1'
 StructureMC: '1.0'
@@ -6747,7 +6747,7 @@ SymbolicDeterminants: 2.0.0
 SympluR: 0.3.0
 SynDI: 0.1.0
 SyncMove: 0.1-0
-SyncRNG: 1.3.0
+SyncRNG: 1.3.1
 SynchWave: 1.1.2
 SynergizeR: '0.2'
 Synth: 1.1-6
@@ -7647,7 +7647,7 @@ alignfigR: 0.1.1
 alineR: '1.1'
 allan: '1.0'
 allanvar: '1.1'
-allcontributors: 0.0.2
+allcontributors: 0.1.0
 alleHap: 0.9.9
 allelematch: 2.5.1
 allelic: '0.1'
@@ -8208,7 +8208,7 @@ bayesplot: 1.9.0
 bayespref: '1.0'
 bayesreg: '1.2'
 bayesrules: 0.0.2
-bayess: '1.4'
+bayess: '1.5'
 bayest: '1.4'
 bayestestR: 0.12.1
 bayesvl: 0.8.5
@@ -8289,7 +8289,7 @@ bear: 2.6.4
 beast: '1.1'
 beastier: '2.4'
 beats: 0.1.1
-beautier: '2.6'
+beautier: 2.6.5
 bedr: 1.0.7
 beepr: '1.3'
 beeswarm: 0.4.0
@@ -8375,7 +8375,7 @@ biclustermd: 0.2.3
 bicreduc: 0.4-7
 bidask: 1.0.0
 bifactorial: '1.4'
-bife: 0.7.1
+bife: 0.7.2
 bifurcatingr: 1.0.0
 bigDM: 0.4.2
 bigFastlm: 0.0.2
@@ -8400,7 +8400,7 @@ biglasso: 1.5.1
 bigleaf: 0.8.1
 biglm: 0.9-2.1
 biglmm: 0.9-2
-bigmatch: 0.6.2
+bigmatch: 0.6.4
 bigmatrix: 0.9.6
 bigmds: 2.0.1
 bigmemory: 4.6.1
@@ -9104,7 +9104,7 @@ cfa: 0.10-0
 cfbfastR: 1.9.0
 cfda: 0.10.0
 cfdecomp: 0.4.0
-cffdrs: 1.8.6
+cffdrs: 1.8.20
 cffr: 0.2.2
 cfid: 0.1.2
 cfma: '1.0'
@@ -11347,7 +11347,7 @@ ergm: 4.2.2
 ergm.count: 4.1.1
 ergm.ego: 1.0.1
 ergm.graphlets: 1.0.3
-ergm.multi: 0.1.0
+ergm.multi: 0.1.1
 ergm.rank: 4.1.0
 ergm.userterms: 3.9.0
 ergmclust: 1.0.0
@@ -11588,7 +11588,7 @@ fNonlinear: '4021.80'
 fOptions: '3042.86'
 fPortfolio: 3042.83.1
 fRLR: 1.2.1
-fRegression: '3042.82'
+fRegression: '4021.83'
 fSRM: 0.6.5
 fSeries: '270.76'
 fTrading: '3042.79'
@@ -12754,7 +12754,7 @@ ggmcmc: 1.5.1.1
 ggmice: 0.0.1
 ggmix: 0.0.2
 ggmosaic: 0.3.3
-ggmotif: 0.2.0
+ggmotif: 0.2.1
 ggmr: 0.1.1
 ggmsa: 1.0.2
 ggmuller: 0.5.4
@@ -12818,7 +12818,7 @@ ggspatial: 1.1.6
 ggspectra: 0.3.8
 ggstance: 0.3.5
 ggstar: 1.0.3
-ggstatsplot: 0.9.3
+ggstatsplot: 0.9.4
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
@@ -13112,7 +13112,7 @@ graphicalVAR: '0.3'
 graphicsQC: '1.0'
 graphite: '1.1'
 graphkernels: 1.6.1
-graphlayouts: 0.8.0
+graphlayouts: 0.8.1
 graphon: 0.3.5
 graphql: '1.5'
 graphscan: '1.1'
@@ -13620,7 +13620,7 @@ httr2: 0.2.1
 hudr: 1.1.0
 hues: 0.2.0
 huge: 1.3.5
-huito: 0.2.0
+huito: 0.2.1
 humanFormat: '1.2'
 humaniformat: 0.6.0
 humanize: 0.2.0
@@ -15759,7 +15759,7 @@ miraculix: 0.9.4
 mirai: 0.5.2
 mirf: '1.0'
 mirt: 1.37.1
-mirtCAT: '1.12'
+mirtCAT: 1.12.2
 mirtjml: 1.4.0
 mirtsvd: '1.0'
 misPRIME: 0.1.0
@@ -15884,7 +15884,7 @@ mlogitBMA: 0.1-7
 mlpack: 3.4.2.1
 mlquantify: 0.2.0
 mlr: 2.19.0
-mlr3: 0.13.4
+mlr3: 0.14.0
 mlr3benchmark: 0.1.3
 mlr3cluster: 0.1.3
 mlr3data: 0.6.0
@@ -20229,7 +20229,7 @@ sapfluxnetr: 0.1.3
 saps: 1.0.0
 saqgetr: 0.2.21
 sara4r: 0.0.9
-sarima: '0.9'
+sarima: 0.9.1
 sarp.snowprofile: 1.3.1
 sarp.snowprofile.alignment: 1.2.1
 sars: 1.3.5
@@ -20693,7 +20693,7 @@ shinySearchbar: 1.0.0
 shinySelect: 1.0.0
 shinyShortcut: 0.1.0
 shinyTempSignal: 0.0.3
-shinyTime: 1.0.1
+shinyTime: 1.0.2
 shinyToastify: 2.0.0
 shinyTree: 0.2.7
 shinyWidgets: 0.7.2
@@ -21048,7 +21048,7 @@ sms: 2.3.1
 smss: 1.0-2
 smurf: 1.1.3
 smvgraph: 0.1.2
-sn: 2.0.2
+sn: 2.1.0
 sna: '2.7'
 snahelper: 1.4.0
 snakecase: 0.11.0
@@ -21610,7 +21610,7 @@ statpsych: 1.1.0
 statquotes: 0.2.6
 stats19: 2.0.0
 statsDK: 0.1.1
-statsExpressions: 1.3.2
+statsExpressions: 1.3.3
 statsearchanalyticsr: 0.1.4
 statsgrokse: 0.1.4
 statsguRu: 0.1.1
@@ -21689,7 +21689,7 @@ stplanr: 1.0.0
 stpm: 1.7.11
 stpp: 2.0-6
 stppResid: '1.1'
-stppSim: 1.2.3
+stppSim: 1.2.7
 str2str: 0.2.1
 strand: 0.2.0
 strandCet: '1.0'
@@ -22164,7 +22164,7 @@ termstrc: '1.3'
 ternvis: '1.2'
 terra: 1.6-7
 terrainmeshr: 0.1.0
-terrainr: 0.7.0
+terrainr: 0.7.1
 tessellation: 2.1.0
 tesselle: 1.0.0
 tesseract: 5.1.0
@@ -23610,7 +23610,7 @@ yowie: 0.1.0
 ypr: 0.5.2
 ypssc: 1.1.0
 yuima: 1.15.3
-yuimaGUI: 1.3.0
+yuimaGUI: 1.3.1
 yulab.utils: 0.0.5
 yum: 0.1.0
 yummlyr: 0.1.1
