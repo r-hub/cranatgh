@@ -558,7 +558,7 @@ BayesNSGP: 0.1.2
 BayesNetBP: 1.6.1
 BayesNetDiscovery: '0.1'
 BayesOrdDesign: 0.1.1
-BayesPPD: 1.0.6
+BayesPPD: 1.0.7
 BayesPanel: 0.1-2
 BayesPen: '1.0'
 BayesPieceHazSelect: 1.1.0
@@ -1753,7 +1753,7 @@ EFAtools: 0.4.1
 EFAutilities: 2.1.1
 EFDR: '1.2'
 EFS: 1.0.3
-EGAnet: 1.1.0
+EGAnet: 1.2.0
 EGRET: 3.0.7
 EGRETci: 2.0.4
 EHR: 0.4-8
@@ -5203,7 +5203,7 @@ RJSONIO: 1.3-1.6
 RJSONLD: '1.0'
 RJSplot: '2.7'
 RJaCGH: 2.0.4
-RJafroc: 2.1.0
+RJafroc: 2.1.1
 RJcluster: 3.2.4
 RKEA: 0.0-6
 RKEAjars: 5.0-4
@@ -6979,7 +6979,7 @@ ThreeWiseMonkeys: 0.1.0
 Thresher: 1.1.3
 ThresholdROC: 2.9.0
 ThresholdROCsurvival: 1.0.2
-TiPS: 1.1.1
+TiPS: 1.2.0
 TickExec: '1.1'
 TiddlyWikiR: 1.0.1
 TideCurves: 0.0.5
@@ -7754,7 +7754,7 @@ antitrust: 0.99.25
 antiword: 1.3.1
 anyLib: 1.0.5
 anybadger: 0.1.0
-anyflights: 0.3.2
+anyflights: 0.3.3
 anytime: 0.3.9
 ao: 0.2.1
 aod: 1.3.2
@@ -9928,7 +9928,7 @@ crops: 1.0.3
 crossReg: '1.0'
 crossdes: 1.1-2
 crosshybDetector: '1.0'
-crossmap: 0.3.0
+crossmap: 0.3.3
 crossmatch: 1.3-1
 crossnma: 1.0.1
 crossrun: 0.1.1
@@ -11157,7 +11157,7 @@ elastic: 1.2.0
 elasticIsing: '0.2'
 elasticnet: '1.3'
 elasticsearchr: 0.3.1
-elbird: 0.2.3
+elbird: 0.2.5
 elec: 0.1.2.2
 elec.strat: '0.1'
 elect: '1.2'
@@ -11735,7 +11735,7 @@ fasttime: 1.1-0
 fastverse: 0.2.4
 fat2Lpoly: 1.2.5
 faux: 1.1.0
-fauxnaif: 0.7.0
+fauxnaif: 0.7.1
 fauxpas: 0.5.0
 faviconPlease: 0.1.2
 favir: 0.5-1
@@ -12536,7 +12536,7 @@ geo: 1.4-3
 geoBayes: 0.7.1
 geoChina: 1.1.1
 geoCount: '1.150120'
-geoFKF: 0.1.0
+geoFKF: 0.1.1
 geoFourierFDA: 0.1.0
 geoGAM: 0.1-2
 geoPlot: '2.3'
@@ -12777,7 +12777,7 @@ ggparallel: 0.2.0
 ggparliament: 2.0.0
 ggparty: 1.0.0
 ggpattern: 0.4.2
-ggperiodic: 1.0.1
+ggperiodic: 1.0.2
 ggpie: 0.2.2
 ggplot: 0.4.2
 ggplot.multistats: 1.0.0
@@ -16301,7 +16301,7 @@ multilevelMatching: 1.0.0
 multilevelPSA: 1.2.5
 multilevelTools: 0.1.1
 multilevelmod: 1.0.0
-multilinguer: 0.2.2
+multilinguer: 0.2.4
 multilm: '0.1'
 multimark: 2.1.4
 multimode: '1.5'
@@ -17951,7 +17951,7 @@ plspm.formula: '1.0'
 plspolychaos: 1.1-1
 plsr: 0.0.1
 pltesim: '1.0'
-plu: 0.2.2
+plu: 0.2.3
 plugdensity: 0.8-4
 plumber: 1.2.0
 plumberDeploy: 0.2.1
@@ -18127,7 +18127,7 @@ postlogic: 0.1.0.1
 postpack: 0.5.3
 potential: 0.2.0
 potools: 0.2.2
-potts: 0.5-9
+potts: 0.5-11
 pould: 1.0.1
 povcalnetR: 0.1.1
 pow.int: '1.0'
@@ -19901,7 +19901,7 @@ rrMixture: 0.1-2
 rrapply: 1.2.5
 rrat: 1.0.0
 rray: 0.1.0
-rrcov: 1.7-0
+rrcov: 1.7-1
 rrcov3way: 0.2-3
 rrcovHD: 0.2-7
 rrcovNA: 0.4-15
@@ -20518,7 +20518,7 @@ semtree: 0.9.18
 semver: 0.2.0
 semverutils: 0.1.0
 sen2r: 1.5.1
-sendgridr: 0.4.3
+sendgridr: 0.5.1
 sendmailR: 1.2-1.1
 sendplot: 4.0.0
 sensR: 1.5-2
@@ -22485,7 +22485,7 @@ tmuxr: 0.2.4
 tmvmixnorm: 1.1.1
 tmvnsim: 1.0-2
 tmvtnorm: '1.5'
-tmvtnsim: 0.1.1
+tmvtnsim: 0.1.2
 tnam: '1.6'
 tnet: 3.0.16
 toOrdinal: 1.3-0.0
@@ -22598,7 +22598,7 @@ transmem: 0.1.1
 transmission: 0.2.0
 transnet: '0.1'
 transplantr: 0.2.0
-transport: 0.12-2
+transport: 0.12-4
 transx: 0.0.1
 trapezoid: 2.0-2
 trawl: 0.2.2
@@ -23146,7 +23146,7 @@ visStatistics: 0.1.1
 visTree: 0.8.1
 visa: 0.1.0
 visaOTR: 0.1.0
-visachartR: 2.1.1
+visachartR: 2.1.2
 visae: 0.2.0
 viscomplexr: 1.1.1
 visdat: 0.5.3
