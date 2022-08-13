@@ -1002,6 +1002,7 @@ Calculator.LR.FNs: '1.3'
 CaliCo: 0.1.1
 CalibratR: 0.1.2
 CalibrateSSB: 1.3.0
+CalibrationCurves: 0.1.5
 CallEshotgun: 0.2.0
 CamelUp: 2.0.3
 CampaR1: 0.8.4
@@ -2457,7 +2458,7 @@ GSED: '2.5'
 GSIF: 0.5-5
 GSM: 1.3.2
 GSMX: '1.3'
-GSODR: 3.1.5
+GSODR: 3.1.6
 GSSE: '0.1'
 GSelection: 0.1.0
 GSparO: '1.0'
@@ -3733,7 +3734,7 @@ MST: '2.2'
 MSToolkit: 3.2.0
 MSVAR: '0.0'
 MSbox: 1.4.6
-MSclassifR: 0.2.0
+MSclassifR: 0.3.0
 MSclust: 1.0.1
 MScombine: '1.4'
 MSeasy: '5.3'
@@ -6567,6 +6568,7 @@ SpaDES.addins: 0.1.3
 SpaDES.core: 1.0.10
 SpaDES.tools: 0.3.10
 SpaTimeClus: '1.0'
+SpaceTimeBSS: 0.1-0
 SpadeR: 0.1.1
 SparkR: 3.1.2
 SparseBiplots: 4.0.1
@@ -6789,7 +6791,7 @@ TDCor: 0.1-2
 TDD: '0.4'
 TDMR: '2.2'
 TDPanalysis: '1.0'
-TDbook: 0.0.5
+TDbook: 0.0.6
 TDboost: '1.2'
 TE: 0.3-0
 TEAM: 0.1.0
@@ -8640,6 +8642,7 @@ bolasso: 0.2.0
 bold: 1.2.0
 bomWater: 0.4.1
 bomrang: 0.7.4
+bondAnalyst: 1.0.1
 bonsai: 0.1.0
 bookdown: '0.28'
 bookdownplus: 1.5.8
@@ -8717,6 +8720,7 @@ brainwaver: '1.6'
 branchLars: '1.0'
 brandwatchR: 0.3.0
 brant: 0.3-0
+brassica: 1.0.0
 bravo: 2.1.2
 brazilmaps: 0.1.0
 brea: 0.2.0
@@ -8799,7 +8803,7 @@ bubblyr: 0.1.2
 bucky: 1.0.7
 buffeRs: '0.31'
 buildmer: '2.6'
-buildr: 0.1.0
+buildr: 0.1.1
 bujar: 0.2-9
 bulkAnalyseR: 1.0.0
 bulletcp: 1.0.0
@@ -9793,6 +9797,7 @@ countyfloods: 0.1.0
 countytimezones: 1.0.0
 countyweather: 0.1.0
 covBM: 0.1.0
+covKCD: '0.1'
 covLCA: '1.0'
 covRobust: 1.1-3
 covTest: '1.0'
@@ -10074,6 +10079,7 @@ cvmgof: 1.0.3
 cvms: 1.3.4
 cvplogistic: 3.1-0
 cvq2: 1.2.0
+cvsem: 1.0.0
 cvwrapr: '1.0'
 cvxbiclustr: 0.0.1
 cvxclustr: 1.1.1
@@ -12605,7 +12611,7 @@ geosphere: 1.5-14
 geospt: 1.0-2
 geosptdb: 1.0-1
 geostan: 0.3.0
-geostats: '1.4'
+geostats: '1.5'
 geostatsp: 1.8.6
 geotech: '1.0'
 geotools: '0.1'
@@ -12868,7 +12874,7 @@ gimme: 0.7-8
 gimmeTools: '0.1'
 gimms: 1.2.1
 giphyr: 0.2.0
-giscoR: 0.3.1
+giscoR: 0.3.2
 gistr: 0.9.0
 git2r: 0.30.1
 git2rdata: 0.4.0
@@ -13446,7 +13452,7 @@ hexView: 0.3-4
 hexbin: 1.28.2
 hextri: 0.9.17
 hflights: '0.1'
-hfr: 0.5.0
+hfr: 0.6.0
 hgam: 0.1-2
 hglasso: '1.3'
 hglm: 2.2-1
@@ -13856,7 +13862,7 @@ ig.vancouver.2014.topcolour: 0.1.2.0
 igate: 0.3.3
 igcop: 1.0.1
 iglu: 3.3.0
-igoR: 0.1.3
+igoR: 0.1.4
 igraph: 1.3.4
 igraph0: 0.5.7
 igraphdata: 1.0.1
@@ -15233,7 +15239,7 @@ mapDK: 0.3.0
 mapLD: 1.0-1
 mapReasy: '1.0'
 mapReduce: 1.2.6
-mapSpain: 0.6.1
+mapSpain: 0.6.2
 mapStats: '2.4'
 mapaccuracy: 0.1.0
 mapbayr: 0.7.3
@@ -15878,6 +15884,7 @@ mlflow: 1.27.0
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
+mlim: 0.0.1
 mljar: 0.1.1
 mlmRev: 1.0-8
 mlma: 6.2-1
@@ -16460,11 +16467,12 @@ nanonext: 0.5.3
 nanop: 2.0-6
 nanostringr: 0.3.0
 nanotime: 0.3.6
+naptanr: 1.0.0
 naptime: 1.3.0
 nardl: 0.1.6
 narray: 0.5.0
 nasadata: 0.9.0
-nasapower: 4.0.7
+nasapower: 4.0.8
 nasaweather: '0.1'
 naspaclust: 0.2.1
 nat: 1.8.19
@@ -16508,6 +16516,7 @@ ncomplete: 1.0-1
 ncpen: 1.0.0
 ncvar: 1.0-4
 ncvreg: 3.13.0
+ndi: 0.1.0
 ndjson: 0.8.0
 ndl: 0.2.18
 ndtv: 0.13.2
@@ -17741,7 +17750,7 @@ photobiology: 0.10.12
 photobiologyFilters: 0.5.2
 photobiologyInOut: 0.4.24
 photobiologyLEDs: 0.5.0
-photobiologyLamps: 0.5.0
+photobiologyLamps: 0.5.1
 photobiologyPlants: 0.4.2
 photobiologySensors: 0.5.0
 photobiologySun: 0.4.1
@@ -18833,7 +18842,7 @@ rPython: 0.0-6
 rQCC: 2.22.5
 rRAP: '1.1'
 rRofex: 2.0.6
-rSAFE: 0.1.3
+rSAFE: 0.1.4
 rSARP: 1.0.0
 rSCA: '3.1'
 rSEA: 2.1.1
@@ -19332,7 +19341,7 @@ relsurv: 2.2-8
 rem: 1.3.1
 remMap: 0.2-0
 rema: 0.0.1
-remap: 0.2.1
+remap: 0.3.0
 rematch: 1.0.1
 rematch2: 2.1.2
 remedy: 0.1.0
@@ -22367,7 +22376,7 @@ tidytext: 0.3.3
 tidytidbits: 0.3.2
 tidytransit: 1.3.1
 tidytreatment: 0.2.2
-tidytree: 0.3.9
+tidytree: 0.4.0
 tidytuesdayR: 1.0.2
 tidyverse: 1.3.2
 tidyvpc: 1.3.0
