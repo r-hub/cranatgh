@@ -4199,6 +4199,7 @@ Neighboot: 1.0.1
 Nemenyi: '1.2'
 NestedCategBayesImpute: 1.2.1
 NestedCohort: 1.1-3
+NestedMenu: 0.1.0
 NetCluster: '0.2'
 NetComp: '1.6'
 NetCoupler: 0.1.0
@@ -5910,7 +5911,7 @@ RobustLinearReg: 1.2.0
 RobustRankAggreg: '1.2'
 Robyn: 3.6.3
 RockFab: 1.2.1
-Rodam: 0.1.14
+Rodam: 0.1.8
 Rogue: 2.1.1
 RolWinMulCor: 1.2.0
 RonFHIR: 0.4.0
@@ -6236,6 +6237,7 @@ SPARTAAS: 1.1.0
 SPAS: 2020.1.1
 SPAr: '0.1'
 SPAtest: 3.1.2
+SPB: '1.0'
 SPCALDA: '1.0'
 SPCAvRP: '0.4'
 SPCDAnalyze: 0.1.0
@@ -7140,6 +7142,7 @@ UsingR: 2.0-7
 UtilityFrailtyPH12: '1.0'
 V8: 4.2.1
 VA: '1.0'
+VAJointSurv: 0.1.0
 VALERIE: 1.1.0
 VAM: 1.0.0
 VAR.etp: '1.0'
@@ -9312,7 +9315,7 @@ clifford: 1.0-8
 clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-7
-climaemet: 1.0.1
+climaemet: 1.0.2
 climate: 1.0.5
 climate.plot: 0.1-2
 climateStability: 0.1.3
@@ -9725,6 +9728,7 @@ copulaedas: 1.4.3
 copulareg: 0.1.0
 copyseparator: 1.1.0
 corHMM: '2.8'
+corTESTsrd: 0.9-2
 corTest: 1.0.7
 corTools: '1.0'
 cora: 0.1.0
@@ -10607,6 +10611,7 @@ disordR: 0.0-9-1
 disp2D: '1.0'
 dispRity: 1.7.0
 disparityfilter: 2.2.3
+dispeRse: '1.0'
 displayHTS: '1.0'
 dispmod: '1.2'
 disposables: 1.0.3
@@ -10935,6 +10940,7 @@ dynr: 0.1.16-27
 dynsbm: '0.7'
 dynsim: 1.2.3
 dynsurv: 0.4-3
+dyntaper: '1.1'
 dynutils: 1.0.9
 dynwrap: 1.2.2
 e1071: 1.7-11
@@ -12513,6 +12519,7 @@ genesysr: 1.0.0
 geneticae: 0.4.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
+genieBPC: 1.0.0
 genieclust: 1.0.1
 genio: 1.1.1
 genius: 2.2.3
@@ -12954,7 +12961,7 @@ glmtoolbox: 0.1.3
 glmtrans: 2.0.0
 glmtree: '0.2'
 glmulti: 1.0.8
-glmvsd: '1.4'
+glmvsd: '1.5'
 glmx: 0.1-3
 glmxdiag: 1.0.0
 globalGSA: '1.0'
@@ -13000,6 +13007,7 @@ gmum.r: 0.2.1
 gmvalid: '1.2'
 gmvarkit: 2.0.4
 gmwm: 2.0.0
+gmwmx: 1.0.0
 gnFit: 0.2.0
 gnlm: 1.1.1
 gnm: 1.1-2
@@ -15528,7 +15536,7 @@ memnet: 0.1.0
 memo: 1.0.2
 memochange: 1.1.1
 memofunc: 1.0.2
-memoiR: 1.2-0
+memoiR: 1.2-1
 memoise: 2.0.1
 memor: 0.2.3
 memoria: 1.0.0
@@ -18862,6 +18870,7 @@ rTOFsPRO: '1.4'
 rTRNG: 4.23.1-2
 rTableICC: 1.0.7
 rTensor: 1.4.8
+rTensor2: 0.1.0
 rTephra: '0.1'
 rTorch: 0.4.2
 rUM: 0.3.1
@@ -18986,7 +18995,7 @@ rasciidoc: 4.0.2
 rasclass: 0.2.2
 rase: 0.3-3
 rassta: 1.0.4
-raster: 3.5-21
+raster: 3.5-29
 rasterDT: 0.3.1
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.2
@@ -20711,6 +20720,7 @@ shinySIR: 0.1.2
 shinySearchbar: 1.0.0
 shinySelect: 1.0.0
 shinyShortcut: 0.1.0
+shinyStorePlus: '0.6'
 shinyTempSignal: 0.0.3
 shinyTime: 1.0.2
 shinyToastify: 2.0.0
@@ -23282,7 +23292,7 @@ wavelets: 0.3-0.2
 wavemulcor: 3.1.2
 waver: 0.2.1
 waves: 0.2.4
-waveslim: 1.8.3
+waveslim: 1.8.4
 wavethresh: 4.7.0
 wayback: 0.2.4
 waydown: 1.1.0
