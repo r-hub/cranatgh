@@ -3823,7 +3823,7 @@ Matrix: 1.4-1
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.10.0
 MatrixEQTL: '2.3'
-MatrixExtra: 0.1.11
+MatrixExtra: 0.1.12
 MatrixLDA: '0.2'
 MatrixMixtures: 1.0.0
 MatrixModels: 0.5-0
@@ -4179,7 +4179,7 @@ NRAIA: 0.9-8
 NRejections: 1.2.0
 NSA: 0.0.3
 NSAE: 0.4.0
-NSM3: '1.16'
+NSM3: '1.17'
 NSO1212: 1.4.0
 NST: 3.1.10
 NSUM: '1.0'
@@ -6126,7 +6126,7 @@ SEchart: '0.1'
 SEofM: 0.1.0
 SEset: 1.0.1
 SFS: 0.1.4
-SFSI: 1.1.0
+SFSI: 1.2.0
 SFtools: 0.1.0
 SGB: 1.0.1
 SGCS: '2.7'
@@ -6284,7 +6284,7 @@ SRRS: '0.1'
 SRS: 0.2.3
 SRTsim: 0.99.2
 SRTtools: 1.2.0
-SSBtools: 1.3.3
+SSBtools: 1.3.4
 SSDL: '1.1'
 SSDM: 0.2.8
 SSDforR: 1.5.25
@@ -6825,7 +6825,7 @@ TKF: 0.0.8
 TLBC: '1.0'
 TLMoments: 0.7.5.3
 TLdating: 0.1.3
-TMB: 1.9.0
+TMB: 1.9.1
 TMDb: '1.1'
 TMTI: 1.0.1
 TNC: 0.1.0
@@ -7883,7 +7883,7 @@ arsenal: 3.6.3
 artemis: 1.1.1
 artfima: '1.5'
 arthistory: 0.1.0
-arules: 1.7-3
+arules: 1.7-4
 arulesCBA: 1.2.4
 arulesNBMiner: 0.1-8
 arulesSequences: 0.2-25
@@ -9778,7 +9778,7 @@ corrgram: '1.14'
 corrgrapher: 1.0.4
 corrperm: '2.0'
 corrplot: '0.92'
-corrr: 0.4.3
+corrr: 0.4.4
 corrsieve: 1.6-9
 corset: 0.1-4
 cort: 0.3.2
@@ -10033,7 +10033,7 @@ ctsem: 3.7.1
 ctsemOMX: 1.0.4
 ctv: 0.9-3
 cuRe: 1.1.0
-cubature: 2.0.4.4
+cubature: 2.0.4.5
 cubble: 0.1.1
 cubelyr: 1.0.1
 cubeview: 0.2.0
@@ -10510,7 +10510,7 @@ diaplt: 1.4.0
 diathor: 0.1.0
 dibble: 0.2.1
 dice: '1.2'
-diceR: 1.2.0
+diceR: 1.2.1
 dicecrawler: 0.1.0
 dichromat: 2.0-0.1
 dicionariosIBGE: '1.6'
@@ -10856,7 +10856,7 @@ dslice: 1.2.0
 dsm: 2.3.2
 dsmisc: 0.3.3
 dsmodels: 1.1.0
-dsos: 0.1.0
+dsos: 0.1.1
 dsr: 0.2.2
 dsrTest: 1.0.0
 dssd: 0.3.3
@@ -13186,7 +13186,7 @@ gridGeometry: 0.3-0
 gridGraphics: 0.5-1
 gridGraphviz: 0.3-1
 gridSVG: 1.7-4
-gridpattern: 0.5.3
+gridpattern: 1.0.1
 gridsample: 0.2.1
 gridsampler: '0.6'
 gridtext: 0.1.4
@@ -13273,7 +13273,7 @@ gtWAS: 1.1.0
 gtable: 0.3.0
 gtcorr: 0.2-1
 gte: 1.2-3
-gtfs2gps: 2.0-2
+gtfs2gps: 2.1-0
 gtfsio: 1.0.0
 gtfsrouter: 0.0.5
 gtfstools: 1.1.0
@@ -14284,7 +14284,7 @@ jackalope: 1.1.3
 jackknifeKME: '1.2'
 jackstrap: 0.1.0
 jackstraw: '1.3'
-jacobi: 2.0.0
+jacobi: 2.0.1
 jacpop: '0.6'
 jaggR: 0.1.1
 jagsUI: 1.5.2
@@ -15790,7 +15790,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.4
-mirai: 0.5.2
+mirai: 0.5.3
 mirf: '1.0'
 mirt: 1.37.1
 mirtCAT: 1.12.2
@@ -16027,7 +16027,7 @@ modelbased: 0.8.1
 modelc: 1.0.0.0
 modelcf: '2.1'
 modeldata: 1.0.0
-modeldb: 0.2.2
+modeldb: 0.2.3
 modelfree: 1.1-1
 modelgrid: 1.1.1.0
 modelimpact: 1.0.0
@@ -16732,7 +16732,7 @@ nlshelper: '0.2'
 nlshrink: 1.0.1
 nlsic: 1.0.2
 nlsmsn: 0.0-6
-nlsr: 2021.8.19
+nlsr: 2022.8.16
 nlsrk: '1.1'
 nlstac: 0.1.0
 nlstimedist: 2.0.0
@@ -16845,7 +16845,7 @@ noverlap: 1.0-1
 nowcastDFM: 1.0.0
 nowcasting: 1.1.4
 noweb: 1.1-2
-np: 0.60-11
+np: 0.60-13
 npConfRatio: '1.0'
 npExact: '0.2'
 npIntFactRep: '1.5'
@@ -18878,7 +18878,7 @@ rSQM: 1.3.14
 rStrava: 1.1.4
 rSymPy: 0.2-1.2
 rSymbiota: 1.0.0
-rTCRBCRr: 0.1.0
+rTCRBCRr: 0.1.1
 rTG: 1.0.1
 rTLS: 0.2.5.2
 rTOFsPRO: '1.4'
@@ -18888,7 +18888,7 @@ rTensor: 1.4.8
 rTensor2: 0.1.0
 rTephra: '0.1'
 rTorch: 0.4.2
-rUM: 0.3.1
+rUM: 1.0.1
 rUnemploymentData: 1.1.0
 rWBclimate: 0.1.3
 rWMBAT: '2.0'
@@ -19684,7 +19684,7 @@ rmapshaper: 0.4.6
 rmapzen: 0.4.3
 rmarchingcubes: 0.1.3
 rmargint: 2.0.2
-rmarkdown: '2.14'
+rmarkdown: '2.15'
 rmatio: 0.16.0
 rmcfs: 1.3.5
 rmcorr: 0.5.0
@@ -20398,7 +20398,7 @@ scorer: 0.2.0
 scoring: '0.6'
 scoringRules: 1.0.1
 scoringTools: 0.1.2
-scoringutils: 1.0.0
+scoringutils: 1.0.1
 scout: 1.0.4
 scphaser: 1.0.0
 scpi: 0.2.1
@@ -20821,7 +20821,7 @@ sideChannelAttack: '1.0'
 sidier: 4.1.0
 sidrar: 0.2.9
 siebanxicor: 1.0.0
-sievePH: 1.0.1
+sievePH: 1.0.3
 sievetest: 1.2.3
 sifds: '0.9'
 sift: 0.1.0
@@ -21261,7 +21261,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.7.7
+sparklyr: 1.7.8
 sparklyr.flint: 0.2.2
 sparklyr.nested: 0.0.3
 sparktex: '0.1'
@@ -21274,7 +21274,7 @@ sparseBC: '1.2'
 sparseEigen: 0.1.0
 sparseFLMM: 0.4.1
 sparseGAM: '1.0'
-sparseHessianFD: 0.3.3.5
+sparseHessianFD: 0.3.3.6
 sparseIndexTracking: 0.1.1
 sparseLDA: 0.1-9
 sparseLRMatrix: 0.1.0
@@ -21321,7 +21321,7 @@ spatialfusion: 0.6-5
 spatialkernel: 0.4-8
 spatialnbda: '1.0'
 spatialprobit: '1.0'
-spatialreg: 1.2-3
+spatialreg: 1.2-5
 spatialrisk: 0.7.0
 spatialsample: 0.2.1
 spatialsegregation: '2.45'
