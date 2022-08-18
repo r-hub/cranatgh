@@ -194,7 +194,7 @@ AdvDif4: 0.7.18
 AdvancedBasketballStats: 1.0.1
 AeRobiology: 2.0.1
 Aelasticnet: 2.13.1
-AeroSampleR: 0.1.12
+AeroSampleR: 0.1.14
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
@@ -591,6 +591,7 @@ BayesianAnimalTracker: '1.2'
 BayesianFROC: 1.0.0
 BayesianGLasso: 0.2.0
 BayesianLaterality: 0.1.1
+BayesianMediationA: '1.0'
 BayesianNetwork: 0.1.5
 BayesianPower: 0.2.3
 BayesianReasoning: 0.4.1
@@ -1079,6 +1080,7 @@ CircOutlier: 3.2.3
 CircSpaceTime: 0.9.0
 CircSpatial: '1.0'
 CircStats: 0.2-6
+CirclesIntersections: '1.0'
 CircularDDM: 0.1.0
 CircularSilhouette: 0.0.1
 Cite: 0.1.0
@@ -1147,6 +1149,7 @@ CoSeg: '0.38'
 CoTiMA: 0.5.4
 CodataGS: '1.43'
 CodeDepends: 0.6.5
+CohensdpLibrary: 0.5.5
 CohortPlat: 1.0.5
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
@@ -1220,7 +1223,7 @@ ContaminatedMixt: 1.3.7
 ContourFunctions: 0.1.1
 ConvCalendar: '1.2'
 ConvergenceClubs: 2.2.4
-ConvergenceConcepts: 1.2.2
+ConvergenceConcepts: 1.2.3
 ConvertPar: '0.1'
 Convolutioner: 0.1.0
 CoopGame: 0.2.2
@@ -1889,6 +1892,7 @@ ElliptCopulas: 0.1.3
 EloChoice: 0.29.4
 EloOptimized: 0.3.1
 EloRating: 0.46.11
+EloSteepness: 0.4.5
 ElstonStewart: '1.2'
 EmbedSOM: 2.1.2
 Emcdf: 0.1.2
@@ -2839,6 +2843,7 @@ ICCbin: 1.1.1
 ICD10gm: 1.2.4
 ICDS: 0.1.2
 ICE: '0.69'
+ICED: 0.0.1
 ICEbox: 1.1.2
 ICEinfer: '1.3'
 ICGE: 0.4.1
@@ -3100,6 +3105,7 @@ JSM: 1.0.1
 JSUparameters: 1.0.0
 JSconsole: 0.1.0
 JSmediation: 0.2.0
+JSparO: 1.5.0
 JWileymisc: 1.3.0
 JacobiEigen: 0.3-4
 JamendoR: 0.1.1
@@ -4641,6 +4647,7 @@ PVplr: 0.1.1
 PWD: '1.0'
 PWEALL: 1.3.0
 PWFSLSmoke: 1.2.117
+PWIR: 0.0.1
 PabonLasso: '1.0'
 Pade: 1.0.4
 PairTrading: '1.1'
@@ -5573,7 +5580,7 @@ Rchemcpp: 1.2.1
 RchivalTag: 0.1.2
 Rchoice: 0.3-5
 Rclean: 1.0.0
-RclusTool: '0.91'
+RclusTool: 0.91.4
 Rclusterpp: 0.2.3
 Rcmdr: 2.8-0
 Rcmdr.HH: 1.8-0
@@ -7188,7 +7195,7 @@ VIGoR: 1.1.0
 VIM: 6.1.1
 VIMGUI: 0.9.0
 VIRF: 0.1.0
-VLF: '1.0'
+VLF: '1.1'
 VLMC: 1.4-3-1
 VLTimeCausality: 0.1.4
 VMDML: 0.1.0
@@ -8276,7 +8283,7 @@ bcs: 1.0.0
 bcv: '1.0'
 bdDwC: 0.1.15
 bda: 15.2.5
-bdc: 1.1.1
+bdc: 1.1.2
 bdchecks: 0.1.7
 bdclean: 0.1.15
 bde: 1.0.1.1
@@ -8503,7 +8510,7 @@ biodosetools: 3.6.0
 biofiles: 1.0.0
 biogas: 1.23.2
 biogeo: '1.0'
-biogeom: 1.0.9
+biogeom: 1.1.1
 biogram: 1.6.3
 biogrowth: 1.0.0-2
 bioimagetools: 1.1.8
@@ -9051,6 +9058,7 @@ ccid: 1.2.0
 cclust: 0.6-24
 ccmEstimator: 1.0.0
 ccmReportR: 0.1.0
+ccml: 1.0.0
 ccmm: '1.0'
 ccoptimalmatch: 0.1.0
 ccostr: 0.1.0
@@ -9166,7 +9174,7 @@ changepointsHD: 0.3.3
 changepointsVar: 0.1.0
 changer: 0.0.5
 chantrics: 1.0.0
-charlatan: 0.4.0
+charlatan: 0.5.0
 charlson: '1.0'
 chartql: 0.1.0
 cheatR: 1.2.1
@@ -9261,7 +9269,7 @@ circular: 0.4-95
 circularEV: 0.1.1
 circumplex: 0.3.8
 cit: 2.3.1
-citation: 0.6.2
+citation: 0.6.3
 citationchaser: 0.0.4
 citbcmst: '1.0'
 citccmst: 1.0.2
@@ -9573,7 +9581,7 @@ cometr: 0.2.0
 comf: 0.1.11
 commandr: 1.0.1
 commentr: 1.0.4
-common: 1.0.1
+common: 1.0.3
 commonmark: 1.8.0
 commonsMath: 1.2.5
 communication: '0.1'
@@ -9826,7 +9834,7 @@ coveffectsplot: 1.0.2
 covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.3
-covid19.analytics: 2.1.2
+covid19.analytics: 2.1.3
 covid19br: 0.1.4
 covid19brazil: 0.1.0
 covid19dbcand: 0.1.1
@@ -10029,6 +10037,7 @@ ctmcd: 1.4.2
 ctmcmove: 1.2.9
 ctmle: 0.1.2
 ctmm: 1.0.0
+ctmva: '1.0'
 ctpm: 1.0.1
 ctqr: '2.0'
 ctrdata: 1.10.1
@@ -10244,6 +10253,7 @@ datastructures: 0.2.9
 datasus: 0.4.1
 datautils: 0.1.5
 dataverse: 0.3.11
+dataversionr: 0.9.0
 dataview: 2.1.1
 datawizard: 0.5.1
 datazoom.amazonia: 0.3.0
@@ -10591,6 +10601,7 @@ dirichlet: '1.0'
 dirichletprocess: 0.4.0
 dirmcmc: 1.3.3
 dirmult: 0.1.3-5
+dirttee: '1.0'
 disaggR: 1.0.3.1
 disaggregation: 0.1.3
 disastr.api: 1.0.5
@@ -10754,7 +10765,7 @@ document: 3.3.3
 documenter: 0.1.2
 docxtools: 0.2.2
 docxtractr: 0.6.5
-dodgr: 0.2.14
+dodgr: 0.2.15
 doebioresearch: 0.1.0
 doex: '1.2'
 dominanceanalysis: 2.0.0
@@ -12649,7 +12660,7 @@ gepaf: 0.1.1
 gerbil: 0.1.5
 germanpolls: '0.3'
 germinationmetrics: 0.1.6
-gert: 1.7.0
+gert: 1.7.1
 gesca: '1.0'
 gesis: '0.2'
 gesisdata: 0.1.0
@@ -12732,6 +12743,7 @@ ggcolpairs: 0.2.4
 ggconf: 0.1.3
 ggcorrplot: 0.1.3
 ggcorset: 0.3.0
+ggcoverage: 0.7.0
 ggdag: 0.2.5
 ggdark: 0.2.1
 ggdemetra: 0.2.2
@@ -12750,7 +12762,7 @@ ggfacto: 0.2.2
 ggfan: 0.1.3
 ggfittext: 0.9.1
 ggfocus: 1.0.0
-ggforce: 0.3.3
+ggforce: 0.3.4
 ggformula: 0.10.1
 ggfortify: 0.4.14
 ggfun: 0.0.6
@@ -14310,7 +14322,7 @@ jcp: '1.2'
 jds.rmd: 0.3.1
 jdx: 0.1.4
 jeek: 1.1.1
-jenga: 1.2.0
+jenga: 1.3.0
 jenkins: '1.0'
 jetpack: 0.5.2
 jetset: 3.4.0
@@ -15430,7 +15442,7 @@ mcStats: 0.1.2
 mcb: 0.1.15
 mcbette: '1.13'
 mcbiopi: 1.1.6
-mcboost: 0.4.1
+mcboost: 0.4.2
 mcc: '1.0'
 mcca: 0.7.0
 mccca: 0.1.0
@@ -15942,7 +15954,7 @@ mlr3oml: 0.5.0
 mlr3pipelines: 0.4.1
 mlr3proba: 0.4.9
 mlr3shiny: 0.2.0
-mlr3spatial: 0.1.2
+mlr3spatial: 0.2.0
 mlr3spatiotempcv: 2.0.2
 mlr3tuning: 0.13.1
 mlr3tuningspaces: 0.3.0
@@ -16319,7 +16331,7 @@ multicon: '1.6'
 multicool: 0.1-12
 multicore: '0.2'
 multicross: 2.1.0
-multid: 0.6.0
+multid: 0.7.0
 multidplyr: 0.1.1
 multifamm: 0.1.1
 multifear: 0.1.2
@@ -16563,6 +16575,7 @@ needs: 0.0.3
 needy: '0.2'
 negenes: 1.0-12
 negligible: 0.1.2
+neighbours: 0.1-1
 neighbr: 1.0.3
 neldermead: 1.0-12
 neo2R: 2.1.1
@@ -17208,6 +17221,7 @@ ordinalRR: '1.1'
 ordinalbayes: 0.1.1
 ordinalgmifs: 1.0.7
 ordinalpattern: 0.2.0
+ordr: 0.1.0
 ore: 1.7.1.1
 oreo: '1.0'
 ores: 0.3.2
@@ -17449,7 +17463,7 @@ parsemsf: 0.1.1
 parser: '0.1'
 parsermd: 0.1.2
 parsetools: 0.1.3
-parsnip: 1.0.0
+parsnip: 1.0.1
 parspatstat: 0.1-4
 partDSA: 0.9.14
 partR2: 0.9.1
@@ -18479,7 +18493,7 @@ ptest: 1.0-8
 ptf: 0.0.1
 ptinpoly: '2.8'
 ptm: 0.2.6
-ptmixed: 1.1.2
+ptmixed: 1.1.3
 ptools: 1.0.1
 ptproc: '1.0'
 pts2polys: 0.1.3
@@ -18600,7 +18614,7 @@ qlcal: 0.0.2
 qle: '0.18'
 qlspack: '2.2'
 qmap: 1.0-4
-qmd: 1.1.0
+qmd: 1.1.1
 qmethod: '1.8'
 qmix: 0.1.2.0
 qmrparser: 0.1.6
@@ -18622,7 +18636,7 @@ qqr: 0.0.1
 qqtest: 1.2.0
 qqvases: 1.0.0
 qrLMM: '2.1'
-qrNLMM: '3.2'
+qrNLMM: '3.3'
 qra: 0.2.7
 qrage: '1.0'
 qrandom: 1.2.4
@@ -19323,7 +19337,7 @@ registry: 0.5-1
 reglogit: 1.2-6
 regmed: 2.0.4
 regmedint: 1.0.0
-regnet: 0.4.0
+regnet: 1.0.0
 rego: 1.5.2
 regplot: '1.1'
 regport: 0.3.0
@@ -19731,6 +19745,7 @@ rmumps: 5.2.1-15
 rmutil: 1.1.9
 rmweather: 0.1.51
 rmytarget: 2.4.0
+rmzqc: 0.1.0
 rnaseqWrapper: '1.0'
 rnassqs: 0.6.1
 rnaturalearth: 0.1.0
@@ -20566,6 +20581,7 @@ semver: 0.2.0
 semverutils: 0.1.0
 sen2r: 1.5.1
 sendgridr: 0.5.1
+sendigR: 1.0.0
 sendmailR: 1.2-1.1
 sendplot: 4.0.0
 sensR: 1.5-2
@@ -22195,7 +22211,7 @@ teda: 0.1.1
 teigen: 2.2.2
 telefit: 1.0.3
 telegram: 0.6.0
-telegram.bot: 2.4.0
+telegram.bot: 2.4.1
 telemac: 0.1.1
 tempR: 0.9.9.20
 tempcyclesdata: 1.0.1
@@ -22638,7 +22654,7 @@ transcribeR: 0.0.0
 transfR: 0.1.2
 transforEmotion: 0.1.1
 transformmos: 0.1.0
-transformr: 0.1.3
+transformr: 0.1.4
 translate: '0.1'
 translateR: '1.0'
 translateSPSS2R: 1.0.0
@@ -23204,6 +23220,7 @@ visit: '2.1'
 visova: '1.1'
 visreg: 2.7.0
 vistime: 1.2.1
+vistla: 1.0.0
 vistributions: 0.1.2
 visualFields: 1.0.1
 visualR: 2.0.2
