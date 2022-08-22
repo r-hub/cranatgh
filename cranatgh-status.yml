@@ -798,7 +798,7 @@ CBT: '1.0'
 CC: '1.0'
 CCA: 1.2.1
 CCAGFA: 1.0.8
-CCAMLRGIS: 4.0.0
+CCAMLRGIS: 4.0.1
 CCM: '1.2'
 CCMnet: 0.0-3
 CCMtools: '1.0'
@@ -2383,7 +2383,7 @@ GLMMarp: 0.1-1
 GLMaSPU: '1.0'
 GLMcat: 0.2.5
 GLMpack: 0.1.0
-GLMsData: 1.0.0
+GLMsData: '1.4'
 GLSE: 0.1.0
 GLSME: 1.0.5
 GMAC: '3.1'
@@ -2844,7 +2844,7 @@ ICD10gm: 1.2.4
 ICDS: 0.1.2
 ICE: '0.69'
 ICED: 0.0.1
-ICEbox: 1.1.2
+ICEbox: 1.1.5
 ICEinfer: '1.3'
 ICGE: 0.4.1
 ICGOR: '2.0'
@@ -2885,7 +2885,7 @@ IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
 IFAA: 1.0.7
-IFC: 0.1.5
+IFC: 0.1.6
 IFP: 0.2.4
 IFSPlot: '1.0'
 IGG: '1.0'
@@ -3443,7 +3443,7 @@ MAAPER: 1.1.1
 MABOUST: 1.0.1
 MACER: 0.1.1
 MADAM: '1.2'
-MADPop: '1.1'
+MADPop: 1.1.4
 MAFDash: 0.2.1
 MAGEE: 1.2.0
 MAGNAMWAR: 2.0.4
@@ -4155,7 +4155,7 @@ NMdata: 0.0.12
 NMproject: 0.6.7
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.9.0
+NNS: 0.9.1
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.4
@@ -5254,7 +5254,7 @@ RMLPCA: 0.0.1
 RMM: 0.1.0
 RMOA: 1.1.0
 RMOAjars: 1.2.0
-RMOPI: '1.0'
+RMOPI: '1.1'
 RMPSH: 1.1.1
 RMPSS: 1.1.1
 RMRAINGEN: '1.0'
@@ -5900,7 +5900,7 @@ Rnumerai: 2.1.4
 Rnvd3: 1.0.0
 RoBMA: 2.3.1
 RoBSA: 1.0.0
-RobAStBase: 1.2.1
+RobAStBase: 1.2.2
 RobAStRDA: 1.2.0
 RobExtremes: 1.2.0
 RobGARCHBoot: 1.2.0
@@ -6805,6 +6805,7 @@ TDAkit: 0.1.2
 TDAmapper: '1.0'
 TDApplied: 0.1.0
 TDAstats: 0.4.1
+TDAvec: 0.1.0
 TDCor: 0.1-2
 TDD: '0.4'
 TDMR: '2.2'
@@ -7262,7 +7263,7 @@ W3CMarkupValidator: 0.1-6
 WA: '1.0'
 WACS: 1.1.0
 WARN: 1.2-4
-WASP: 1.4.2
+WASP: 1.4.3
 WCE: 1.0.2
 WCM: 0.2.2
 WCQ: '0.2'
@@ -7481,7 +7482,7 @@ acepack: 1.4.1
 acer: '0.1'
 acfMPeriod: 1.0.0
 acid: '1.1'
-acled.api: 1.1.5
+acled.api: 1.1.6
 acm4r: '1.0'
 acmeR: 1.1.0
 acnr: 1.0.0
@@ -8051,7 +8052,7 @@ available: 1.1.0
 avar: 0.1.2
 averisk: 1.0.3
 avgrankoverlap: '1.0'
-avidaR: 1.1.2
+avidaR: 1.1.3
 avocado: 0.1.0
 aweSOM: '1.2'
 aweek: 1.0.2
@@ -8295,7 +8296,7 @@ bdl: 1.0.4
 bdlp: 0.9-2
 bdoc: '1.2'
 bdots: 1.1.0
-bdpar: 3.0.2
+bdpar: 3.0.3
 bdpopt: 1.0-1
 bdpv: '1.3'
 bdrc: 1.0.0
@@ -8341,7 +8342,7 @@ bender: 0.1.1
 benford: 1.0.1
 benford.analysis: 0.1.5
 bentcableAR: 0.3.1
-benthos: 1.3-6
+benthos: 1.3-8
 ber: '4.0'
 berryFunctions: 1.21.14
 bestNormalize: 1.8.3
@@ -8426,7 +8427,7 @@ bigdatadist: '1.1'
 bigdist: 0.1.4
 biglars: '1.0'
 biglasso: 1.5.1
-bigleaf: 0.8.1
+bigleaf: 0.8.2
 biglm: 0.9-2.1
 biglmm: 0.9-2
 bigmatch: 0.6.4
@@ -9398,7 +9399,7 @@ clustMixType: 0.2-15
 clustRcompaR: 0.2.0
 clustTool: '1.6'
 clustcurv: 2.0.1
-cluster: 2.1.3
+cluster: 2.1.4
 cluster.datasets: 1.0-1
 clusterCons: '1.2'
 clusterCrit: 1.2.8
@@ -9898,7 +9899,7 @@ cpr: 0.2.3
 cprobit: 1.0.2
 cprr: 0.2.0
 cpsR: 0.5.0
-cpss: 0.0.2
+cpss: 0.0.3
 cpsurvsim: 1.2.1
 cpsvote: 0.1.0
 cpt: 1.0.2
@@ -10420,6 +10421,7 @@ dendroExtra: 0.0.2
 dendroTools: 1.2.8
 dendroextras: 0.2.3
 dendrometeR: 1.0.0
+dendrometry: 0.0.1
 dendsort: 0.3.4
 denoiSeq: 0.1.1
 denoiseR: 1.0.2
@@ -10610,6 +10612,7 @@ dirttee: '1.0'
 disaggR: 1.0.3.1
 disaggregation: 0.1.3
 disastr.api: 1.0.5
+disbayes: 1.0.0
 discAUC: 0.4.0
 discSurv: 2.0.0
 discfrail: '0.1'
@@ -10722,7 +10725,7 @@ dma: 1.4-0
 dmacs: 0.1.0
 dmai: 0.4.0
 dmbc: 1.0.1
-dmdScheme: 1.3.3
+dmdScheme: 1.3.5
 dml: 1.1.0
 dmlalg: 1.0.2
 dmm: 2.1-7
@@ -12532,6 +12535,7 @@ gendist: '2.0'
 gene2pathway: 1.8.1
 geneARMA: '1.0'
 geneExpressionFromGEO: '0.9'
+geneHapR: 1.0.8
 geneHummus: 1.0.11
 geneListPie: '1.0'
 geneNetBP: 2.0.1
@@ -12558,7 +12562,7 @@ genieclust: 1.0.1
 genio: 1.1.1
 genius: 2.2.3
 geniusr: 1.2.0
-genlasso: '1.5'
+genlasso: 1.6.1
 genlogis: 1.0.0
 geno2proteo: 0.0.6
 genoPlotR: 0.8.11
@@ -12773,7 +12777,7 @@ ggforce: 0.3.4
 ggformula: 0.10.1
 ggfortify: 0.4.14
 ggfun: 0.0.6
-ggfx: 1.0.0
+ggfx: 1.0.1
 gggap: 1.0.1
 gggenes: 0.4.1
 ggghost: 0.2.1
@@ -13043,7 +13047,7 @@ gmum.r: 0.2.1
 gmvalid: '1.2'
 gmvarkit: 2.0.5
 gmwm: 2.0.0
-gmwmx: 1.0.0
+gmwmx: 1.0.1
 gnFit: 0.2.0
 gnlm: 1.1.1
 gnm: 1.1-2
@@ -13374,6 +13378,7 @@ halp: 0.1.3
 hamlet: 0.9.6
 handlr: 0.3.0
 handwriter: 1.0.1
+handyFunctions: 0.1.0
 handyplots: 1.1.3
 hans: '0.1'
 hansard: 0.8.0
@@ -13571,6 +13576,7 @@ hkex.api: '0.1'
 hlaR: 0.1.3
 hlidacr: 0.2.0
 hlr: 0.0-4
+hlt: 1.3.1
 hmclearn: 0.0.5
 hmeasure: 1.0-2
 hmer: 1.0.1
@@ -13588,7 +13594,7 @@ hnp: 1.2-6
 hoa: 2.1.4.1
 hoardeR: 0.9.4-2
 hoardr: 0.5.2
-hockeyR: 0.1.1
+hockeyR: 1.0.0
 hockeystick: 0.6.2
 hof: '0.1'
 hogsvdR: '0.1'
@@ -13958,7 +13964,7 @@ imguR: 1.0.3
 imgw: 0.3.0
 iml: 0.11.0
 immcp: 1.0.3
-immer: 1.3-3
+immer: 1.4-15
 immunarch: 0.7.0
 immuneSIM: 0.8.7
 imola: 0.5.0
@@ -14250,7 +14256,7 @@ isotree: 0.5.16
 ispd: '0.2'
 isqg: '1.3'
 issueReporter: 0.1.0
-istacr: 0.1.3
+istacr: 0.2.0
 isva: '1.9'
 italy: 0.1.0
 itan: 3.1.1
@@ -15193,6 +15199,7 @@ mBvs: '1.5'
 mDAG: 1.2.2
 mExplorer: 1.0.0
 mFD: 1.0.1
+mFDP: 0.1.0
 mFLICA: 0.1.5
 mFilter: 0.1-5
 mGSZ: '1.0'
@@ -15494,7 +15501,7 @@ mcr: 1.2.2
 mcreplicate: 0.1.2
 mcsm: '1.0'
 mctest: 1.3.1
-mctq: 0.2.0
+mctq: 0.3.0
 mcunit: 0.3.2
 mcvis: 1.0.8
 mcwr: 1.0.0
@@ -15868,6 +15875,7 @@ mixR: 0.2.0
 mixRasch: '1.1'
 mixRaschTools: 1.1.1
 mixSPE: 0.9.1
+mixSSG: 1.1.1
 mixcat: 1.0-4
 mixchar: 0.1.0
 mixcure: '2.0'
@@ -15927,7 +15935,7 @@ mlergm: '0.8'
 mleur: 1.0-6
 mlf: 1.2.1
 mlfit: 0.5.3
-mlflow: 1.27.0
+mlflow: 1.28.0
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
@@ -16606,6 +16614,7 @@ netClass: '1.2'
 netClust: 1.0.1
 netCoin: 2.0.20
 netSEM: 0.5.1
+netShiny: '1.0'
 netassoc: 0.7.0
 netchain: 0.2.0
 netcmc: 1.0.1
@@ -17392,7 +17401,7 @@ paleobuddy: 1.0.0
 paleofire: 1.2.4
 paleomorph: 0.1.4
 paleopop: 2.1.2
-paleotree: 3.4.4
+paleotree: 3.4.5
 paletteer: 1.4.1
 paletteknife: 0.4.2
 palettesForR: 0.1.2
@@ -17522,7 +17531,7 @@ pathmodelfit: 1.0.5
 pathmox: 0.2.0
 pathological: 0.1-2
 paths: 0.1.1
-pathviewr: 1.0.1
+pathviewr: 1.1.3
 pathwayTMB: 0.1.3
 patientProfilesVis: 2.0.2
 patrick: 0.1.0
@@ -18289,7 +18298,7 @@ preprosim: 0.2.0
 preproviz: 0.2.0
 preputils: 1.0.3
 prereg: 0.6.0
-preregr: 0.2.1
+preregr: 0.2.5
 presens: 2.1.0
 presenter: 0.1.1
 presentes: 0.1.0
@@ -18370,7 +18379,7 @@ profExtrema: 0.2.1
 profanal: '1.0'
 profdpm: '3.3'
 proffer: 0.1.5
-profile: 1.0.2
+profile: 1.0.3
 profileModel: 0.6.1
 profileR: 0.3-5
 profilr: 0.1.0
@@ -18622,7 +18631,7 @@ qlcal: 0.0.2
 qle: '0.18'
 qlspack: '2.2'
 qmap: 1.0-4
-qmd: 1.1.1
+qmd: 1.1.2
 qmethod: '1.8'
 qmix: 0.1.2.0
 qmrparser: 0.1.6
@@ -19429,7 +19438,7 @@ repmod: 0.1.7
 repo: 2.1.5
 repoRter.nih: 0.1.3
 repolr: '3.4'
-report: 0.5.1
+report: 0.5.5
 reportROC: '3.6'
 reportReg: 0.3.0
 reportRx: '1.0'
@@ -19612,7 +19621,7 @@ rich: 1.0.1
 richards: 0.5.0
 ricu: 0.5.3
 ridge: '3.3'
-ridigbio: 0.3.5
+ridigbio: 0.3.6
 ridittools: '0.1'
 riem: 0.3.0
 rif: 0.2.0
@@ -20564,7 +20573,7 @@ selfea: '1.0'
 selfingTree: '0.2'
 selfmade: '0.1'
 sem: 3.1-15
-semEff: 0.6.0
+semEff: 0.6.1
 semGOF: 0.2-0
 semPLS: 1.0-9
 semPlot: 1.1.6
@@ -20978,6 +20987,7 @@ sinar: 0.1.0
 sinartra: '0.1'
 sindyr: 0.2.3
 sinew: 0.4.0
+singR: 0.1.0
 singcar: 0.1.3
 singleCellHaystack: 0.3.4
 singlecase: '0.1'
@@ -21677,7 +21687,7 @@ statgenGWAS: 1.0.8
 statgenGxE: 1.0.5
 statgenHTP: 1.0.5
 statgenIBD: 1.0.4
-statgenMPP: 1.0.0
+statgenMPP: 1.0.1
 statgenSTA: 1.0.9
 stationaRy: 0.5.1
 stationery: '1.0'
@@ -21939,7 +21949,7 @@ survSNP: '0.25'
 survSens: 0.1.0
 survSpearman: 1.0.0
 survcomp: 1.1.6
-surveil: 0.2.0
+surveil: 0.2.1
 surveillance: 1.20.1
 survexp.fr: '1.1'
 survey: 4.1-1
@@ -22348,7 +22358,7 @@ thewitcher: 1.0.1
 thgenetics: 0.4-2
 thickmatch: 0.3.1
 thief: '0.3'
-thinkr: '0.15'
+thinkr: '0.16'
 this.path: 0.8.0
 thor: 1.1.2
 thorn: 0.2.0
@@ -22406,7 +22416,7 @@ tidygate: 0.4.9
 tidygenomics: 0.1.2
 tidygeoRSS: 0.0.1
 tidygeocoder: 1.0.5
-tidygraph: 1.2.1
+tidygraph: 1.2.2
 tidyhydat: 0.5.6
 tidyimpute: 0.1.0
 tidyinftheo: 0.2.1
@@ -22657,9 +22667,9 @@ trajectories: 0.2-3
 trajr: 1.4.0
 tram: 0.7-2
 tramME: 1.0.2
-tramnet: 0.0-6
+tramnet: 0.0-7
 trampoline: 0.1.1
-tramvs: 0.0-1
+tramvs: 0.0-2
 tranSurv: 1.2.2
 transcribeR: 0.0.0
 transfR: 0.1.2
@@ -22767,6 +22777,7 @@ truncSP: 1.2.2
 truncdist: 1.0-2
 truncgof: 0.6-0
 truncnorm: 1.0-8
+truncnormbayes: 0.0.1
 truncreg: 0.2-5
 trundler: 0.1.19
 trust: 0.1-8
@@ -22875,7 +22886,7 @@ twangContinuous: 1.0.0
 twangMediation: '1.2'
 twangRDC: '1.0'
 tweedie: 2.3.5
-tweenr: 2.0.0
+tweenr: 2.0.1
 tweet2r: '1.1'
 twenty48: 0.2.0
 twfy: 0.1.0
@@ -23011,7 +23022,7 @@ uqr: 1.0.0
 urbin: 0.1-12
 urca: 1.3-0
 urlchecker: 1.0.1
-urlshorteneR: 1.5.4
+urlshorteneR: 1.5.7
 urltools: 1.7.3
 urn: 2.2.1
 uroot: 2.1-2
@@ -23058,7 +23069,7 @@ uuid: 1.1-0
 uwIntroStats: 0.0.7
 uwedragon: 0.1.0
 uwo4419: 0.3.0
-uwot: 0.1.13
+uwot: 0.1.14
 vICC: 1.0.0
 vMask: '1.0'
 vabayelMix: '0.3'
@@ -23129,7 +23140,7 @@ vartors: 0.2.6
 varycoef: 0.3.3
 vasicek: 0.0.3
 vasicekreg: 1.0.1
-vaultr: 1.1.0
+vaultr: 1.1.1
 vbdm: 0.0.4
 vbmp: 1.3.0
 vbsr: 0.0.5
@@ -23210,7 +23221,7 @@ viopoints: 0.2-1
 vip: 0.3.2
 vipor: 0.4.5
 viridis: 0.6.2
-viridisLite: 0.4.0
+viridisLite: 0.4.1
 viromeBrowser: 1.1.0
 virtualNicheR: '1.0'
 virtualPollen: 1.0.1
