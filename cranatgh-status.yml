@@ -1647,7 +1647,7 @@ DirectedClustering: 0.1.1
 Directional: '5.5'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
-DisImpact: 0.0.18
+DisImpact: 0.0.19
 DisaggregateTS: 2.0.0
 Disake: '1.5'
 DiscML: '1.0'
@@ -1934,6 +1934,7 @@ EpiModel: 2.3.0
 EpiNow2: 1.3.2
 EpiReport: 1.0.2
 EpiResTest: '1.0'
+EpiSemble: 0.1.0
 EpiSignalDetection: 0.1.2
 EpiStats: 1.5-1
 EpiWeek: '1.1'
@@ -3029,6 +3030,7 @@ InjurySeverityScore: 0.0.0.2
 InspectChangepoint: '1.2'
 IntCal: 0.3.1
 IntClust: 0.1.0
+IntLIM: 2.0.2
 IntLik: '1.0'
 IntNMF: 1.2.0
 InteRD: 0.1.1
@@ -3267,7 +3269,7 @@ LMGene: 2.8.0
 LMMELSM: 0.1.0
 LMMsolver: 1.0.3
 LMMstar: 0.7.2
-LMN: 1.1.2
+LMN: 1.1.3
 LMest: 3.0.4
 LMfilteR: 0.1.3
 LMoFit: 0.1.6
@@ -4556,7 +4558,7 @@ PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.17-0
 PNADcIBGE: 0.7.0
-PNAR: '1.0'
+PNAR: '1.1'
 PNSIBGE: 0.1.7
 PNWColors: 0.1.0
 PO.EN: '1.0'
@@ -4879,6 +4881,7 @@ PsiHat: '1.0'
 Pstat: '1.2'
 PsumtSim: '0.4'
 PsyControl: 1.0.0.0
+PsychWordVec: 0.1.0
 PtProcess: 3.3-16
 PubBias: '1.0'
 PubMedMining: 1.0.0
@@ -5976,7 +5979,7 @@ Rsomoclu: 1.7.5
 Rspc: 1.2.2
 Rspotify: 0.1.2
 RsqMed: 0.1.7.1
-Rssa: 1.0.4
+Rssa: 1.0.5
 Rstem: 0.4-1
 Rstg: 0.0.1
 RstoxData: 1.2.1
@@ -7167,6 +7170,7 @@ VAR.etp: '1.0'
 VARDetect: 0.1.6
 VARMER: 1.0.0
 VARSEDIG: '2.1'
+VARSELECTEXPOSURE: 1.0.1
 VARshrink: 0.3.1
 VARsignR: 0.1.3
 VARtests: 2.0.5
@@ -8797,7 +8801,7 @@ brxx: 0.1.2
 bs: '1.0'
 bs4Dash: 2.1.0
 bs4cards: 0.1.1
-bsTools: 1.0.3
+bsTools: 1.0.4
 bsam: 1.1.3
 bsamGP: 1.2.4
 bscaling: '1.0'
@@ -8912,7 +8916,7 @@ calibrateBinary: '0.1'
 calibrationband: 0.2.1
 calibrator: 1.2-8
 caliver: 2.0.0
-callr: 3.7.1
+callr: 3.7.2
 calmate: 0.13.0
 calpassapi: 0.0.3
 camel: 0.2.0
@@ -8922,7 +8926,7 @@ campsis: 1.3.0
 campsismod: 0.9.0
 camsRad: 0.3.0
 camtrapR: 2.2.0
-canadacovid: 0.3.3
+canadacovid: 0.3.4
 canadamaps: '0.1'
 canadianmaps: 1.0.0
 cancensus: 0.5.2
@@ -8995,7 +8999,7 @@ catR: '3.17'
 catSplit: 0.1.0
 catSurv: 1.4.0
 cata: 0.0.10.9
-catalog: 0.1.0
+catalog: 0.1.1
 catch: 1.0.1
 catchr: 0.2.3
 catcont: 0.5.0
@@ -9237,7 +9241,7 @@ chorrrds: 0.1.9
 chplot: '1.3'
 christmas: 1.1.1
 chromConverter: 0.2.1
-chromatographR: 0.4.1
+chromatographR: 0.4.3
 chromer: '0.1'
 chromoMap: 4.1.1
 chromoR: '1.0'
@@ -10705,7 +10709,7 @@ divisors: 0.1-4
 divo: 1.0.1
 divseg: 0.0.4
 dixon: 0.0-8
-dixonTest: 1.0.3
+dixonTest: 1.0.4
 diyar: 0.4.1
 dkDNA: 0.1.1
 dkanr: 0.1.3
@@ -12676,7 +12680,7 @@ gesca: '1.0'
 gesis: '0.2'
 gesisdata: 0.1.0
 gesso: 1.0.2
-gestalt: 0.1.9
+gestalt: 0.2.0
 gestate: 1.5.0
 gesttools: 1.3.0
 getCRUCLdata: 0.3.2
@@ -13407,7 +13411,7 @@ hashids: 0.9.0
 hashmap: 0.2.2
 hashr: 0.1.4
 hasseDiagram: 0.2.0
-haven: 2.5.0
+haven: 2.5.1
 hawkes: 0.0-4
 hawkesbow: 1.0.2
 hazer: 1.1.1
@@ -13794,7 +13798,7 @@ iNZightMR: 2.2.6
 iNZightPlots: 2.14.0
 iNZightRegression: 1.3.2
 iNZightTS: 1.5.9
-iNZightTools: 1.12.2
+iNZightTools: 1.12.3
 iNextPD: 0.3.2
 iRF: 2.0.0
 iRafNet: 1.1-1
@@ -13943,7 +13947,7 @@ image.binarization: 0.1.3
 image.dlib: 0.1.0
 image.libfacedetection: '0.1'
 image.textlinedetector: 0.2.1
-image2data: 1.0.0
+image2data: 1.0.1
 imageData: 0.1-61
 imagefluency: 0.2.3
 imagefx: 0.4.1
@@ -14029,7 +14033,7 @@ ineq: 0.2-13
 ineqJD: '1.0'
 inet: 0.1.0
 inetwork: '1.2'
-infer: 1.0.2
+infer: 1.0.3
 inference: 0.1.0
 inferference: 1.0.2
 inferr: 0.3.1
@@ -15205,6 +15209,7 @@ mFilter: 0.1-5
 mGSZ: '1.0'
 mHG: '1.1'
 mHMMbayes: 0.2.0
+mMARCH.AC: 2.4.0.0
 mMPA: 1.2.0
 mQTL: '1.0'
 mRMRe: 2.1.2
@@ -15698,6 +15703,7 @@ mfbvar: 0.5.6
 mfdb: 7.3-1
 mfe: 0.1.5
 mfp: 1.5.2.2
+mfpp: 0.0.4
 mfr: '1.04'
 mfx: 1.2-2
 mgarchBEKK: 0.0.2
@@ -16017,7 +16023,7 @@ mmsample: '0.1'
 mmtfa: '0.3'
 mmtsne: 0.1.0
 mnis: 0.3.1
-mniw: '1.0'
+mniw: 1.0.1
 mnj: '1.0'
 mnlfa: 0.2-4
 mnlogit: 1.2.6
@@ -18084,7 +18090,7 @@ poismf: 0.4.0-1
 poisson: '1.0'
 poisson.glm.mix: '1.3'
 poissonMT: 0.3-5
-poissonreg: 1.0.0
+poissonreg: 1.0.1
 poistweedie: 1.0.1
 poker: 0.8.8
 polAr: 0.2.0
@@ -18444,7 +18450,7 @@ provenance: '4.0'
 proverbs: 0.1.0
 proxirr: '0.2'
 proxy: 0.4-27
-proxyC: 0.3.0
+proxyC: 0.3.1
 prozor: 0.3.1
 prrd: 0.0.5
 prt: 0.1.5
@@ -18986,7 +18992,7 @@ ramlegacy: 0.2.0
 ramps: 0.6.16
 ramsvm: '2.3'
 randChecks: 0.2.1
-randNames: 0.2.3
+randNames: '0.2'
 randaes: '0.3'
 randcorr: '1.0'
 randgeo: 0.3.0
@@ -20075,7 +20081,7 @@ rstoat: 1.0.2
 rstpm2: 1.5.7
 rstream: 1.3.6
 rstudio.prefs: 0.1.9
-rstudioapi: '0.13'
+rstudioapi: '0.14'
 rstyles: 0.4.0
 rsubgroup: '1.1'
 rsunlight: 0.7.0
@@ -20459,6 +20465,7 @@ scrm: 1.7.4-0
 scrobbler: 1.0.2
 scrollrevealR: 0.2.0
 scrubr: 0.4.0
+scrutiny: 0.2.2
 scrypt: 0.1.4
 scryr: 1.0.0
 scs: 3.0-0
@@ -20764,6 +20771,7 @@ shinyFiles: 0.9.3
 shinyGizmo: '0.2'
 shinyGovstyle: 0.0.8
 shinyHeatmaply: 0.2.0
+shinyHugePlot: 0.0.1
 shinyIRT: '0.1'
 shinyKGode: 1.0.5
 shinyKnobs: 0.1.3
@@ -20975,7 +20983,7 @@ simstandard: 0.6.3
 simstudy: 0.5.0
 simsurv: 1.0.0
 simtimer: 4.0.0
-simtrait: 1.0.21
+simtrait: 1.1.0
 simts: 0.2.0
 simukde: 1.3.0
 simul: 0.1.1
@@ -21362,7 +21370,7 @@ spatialRF: 1.1.4
 spatialTIME: 1.2.1
 spatialTailDep: '1.0'
 spatialfil: '0.15'
-spatialfusion: 0.6-5
+spatialfusion: 0.6-6
 spatialkernel: 0.4-8
 spatialnbda: '1.0'
 spatialprobit: '1.0'
@@ -21444,7 +21452,7 @@ sperrorest: 3.0.4
 spew: 1.3.0
 spex: 0.7.1
 spfda: 0.9.1
-spfilteR: 1.1.4
+spfilteR: 1.1.5
 spflow: 0.1.0
 spfrontier: 0.2.5
 spftir: 0.1.0
@@ -21655,7 +21663,7 @@ starmie: 0.1.2
 starnet: 0.0.6
 stars: 0.5-6
 starsExtra: 0.2.7
-starsTileServer: '0.1'
+starsTileServer: 0.1.1
 starschemar: 1.2.0
 startR: 2.2.0
 starter: 0.1.10
@@ -21842,7 +21850,7 @@ strum: '0.6'
 strvalidator: 2.3.0
 stsm: '1.9'
 stsm.class: '1.3'
-stuart: 0.10.0
+stuart: 0.10.1
 stubthat: 1.2.1
 studentlife: 1.1.0
 studyStrap: 1.0.0
@@ -22656,7 +22664,7 @@ tradepolicy: 0.6.0
 tradestatistics: 3.0.2
 trafo: 1.0.1
 trainR: 0.0.1
-traineR: 1.7.4
+traineR: 2.0.4
 traipse: 0.2.5
 traitdataform: 0.6.8
 traitr: '0.9'
@@ -23531,7 +23539,7 @@ wordpredictor: 0.0.3
 wordpressr: 0.2.3
 words: 1.0.1
 wordsalad: 0.2.0
-wordspace: 0.2-7
+wordspace: 0.2-8
 workboots: 0.2.0
 workflowr: 1.7.0
 workflows: 1.0.0
