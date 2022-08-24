@@ -77,7 +77,7 @@ ALUES: 0.2.1
 ALassoSurvIC: 0.1.0
 AMA: 1.0.8
 AMAP.Seq: '1.0'
-AMAPVox: 0.10.0
+AMAPVox: 0.12.0
 AMCP: 1.0.1
 AMCTestmakeR: 1.0.0
 AMGET: '1.0'
@@ -780,7 +780,7 @@ CARramps: 0.1.2
 CARrampsOcl: 0.1.4
 CASCORE: 0.1.0
 CASMAP: 0.6.1
-CAST: 0.6.0
+CAST: 0.7.0
 CATT: '2.0'
 CATTexact: 0.1.1
 CATkit: 3.3.3
@@ -1149,7 +1149,7 @@ CoSeg: '0.38'
 CoTiMA: 0.5.4
 CodataGS: '1.43'
 CodeDepends: 0.6.5
-CohensdpLibrary: 0.5.5
+CohensdpLibrary: 0.5.8
 CohortPlat: 1.0.5
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
@@ -1994,7 +1994,7 @@ ExpAnalysis3d: 0.1.1
 ExpDE: 0.1.4
 ExpDes: 1.2.2
 ExpDes.pt: 1.2.2
-ExpImage: 0.5.0
+ExpImage: 0.6.0
 ExpRep: '1.0'
 ExpertChoice: 0.2.0
 ExplainPrediction: 1.3.0
@@ -2742,7 +2742,7 @@ HTLR: 0.4-3
 HTML: 0.4-1
 HTMLUtils: 0.1.8
 HTMLapplets: 0.1-2
-HTSCluster: 2.0.8
+HTSCluster: 2.0.10
 HTSDiff: 1.0.5
 HTSSIP: 1.4.1
 HUM: '2.0'
@@ -4376,7 +4376,7 @@ OpVaR: '1.2'
 OpasnetUtils: '1.3'
 OpenABMCovid19: '1.0'
 OpenCL: 0.2-2
-OpenImageR: 1.2.4
+OpenImageR: 1.2.5
 OpenLand: 1.0.2
 OpenML: '1.10'
 OpenMPController: 0.2-5
@@ -4618,7 +4618,7 @@ PRSim: 1.4-1
 PReMiuM: 3.2.7
 PResiduals: 1.0-1
 PSAboot: '1.1'
-PSAgraphics: 2.1.1.1
+PSAgraphics: 2.1.1.2
 PSCBS: 0.66.0
 PSCN: '1.0'
 PSF: '0.5'
@@ -5045,7 +5045,7 @@ RAP: '1.1'
 RAPIDR: '0.1'
 RAPTOR: 1.0.1
 RAQSAPI: 2.0.3
-RAT: 0.3.0
+RAT: 0.3.1
 RATest: 0.1.9
 RAdwords: 0.1.18
 RAhrefs: 0.1.4
@@ -5309,6 +5309,7 @@ ROC632: '0.6'
 ROCFTP.MMS: 1.0.0
 ROCR: 1.0-11
 ROCS: '1.3'
+ROCSI: 0.1.0
 ROCaggregator: 1.0.1
 ROCit: 2.1.1
 ROCket: 1.0.1
@@ -6513,7 +6514,7 @@ Simile: 1.3.3
 SimpleTable: 0.1-2
 SimplicialCubature: '1.3'
 SimplifyStats: 2.0.4
-SimplyAgree: 0.0.3
+SimplyAgree: 0.1.0
 Simpsons: 0.1.0
 SimuChemPC: '1.3'
 SimultAnR: '1.1'
@@ -6543,7 +6544,7 @@ SmartSifter: 0.1.0
 SmarterPoland: '1.8'
 Smisc: 0.3.9
 SmithWilsonYieldCurve: 1.0.1
-SmoothHazard: 1.4.1
+SmoothHazard: 2022.08.23
 SmoothTensor: 0.1.1
 SmoothWin: 3.0.0
 Snake: '1.0'
@@ -6632,7 +6633,7 @@ SpatialTools: 1.0.4
 SpatialVS: '1.1'
 SpatialVx: '1.0'
 SpatioTemporal: 1.1.9
-Spbsampling: 1.3.4
+Spbsampling: 1.3.5
 SpecDetec: 1.0.0
 SpecHelpers: 0.2.7
 SpeciesMix: '0.3'
@@ -7783,13 +7784,13 @@ antaresViz: '0.17'
 anthro: 1.0.0
 anthroplus: 0.9.0
 anticlust: 0.6.1
-antitrust: 0.99.25
+antitrust: 0.99.26
 antiword: 1.3.1
 anyLib: 1.0.5
 anybadger: 0.1.0
 anyflights: 0.3.3
 anytime: 0.3.9
-ao: 0.2.1
+ao: 0.2.2
 aod: 1.3.2
 aods3: 0.4-1.2
 aof: 0.1.2
@@ -9248,7 +9249,7 @@ chorrrds: 0.1.9
 chplot: '1.3'
 christmas: 1.1.1
 chromConverter: 0.2.1
-chromatographR: 0.4.3
+chromatographR: 0.4.4
 chromer: '0.1'
 chromoMap: 4.1.1
 chromoR: '1.0'
@@ -9278,7 +9279,7 @@ cinterpolate: 1.0.0
 cir: 2.2.1
 circacompare: 0.1.1
 circglmbayes: 1.3.0
-circle: 0.7.1
+circle: 0.7.2
 circletyper: 1.0.1
 circlize: 0.4.15
 circular: 0.4-95
@@ -9848,7 +9849,8 @@ covRobust: 1.1-3
 covTest: '1.0'
 covTestR: 0.1.4
 covafillr: 0.4.4
-covatest: 1.2.0
+covatest: 1.2.1
+covdepGE: 1.0.0
 coveffectsplot: 1.0.2
 covequal: 0.1.0
 covfefe: 0.1.0
@@ -10611,7 +10613,7 @@ dineq: 0.1.0
 dint: 2.1.3
 dipm: '1.8'
 diproperm: 0.2.0
-dipsaus: 0.2.3
+dipsaus: 0.2.4
 diptest: 0.76-0
 dipw: 0.1.0
 directPA: '1.5'
@@ -11099,7 +11101,7 @@ ecoseries: 0.1.5
 ecosim: 1.3-3
 ecospace: 1.4.2
 ecospat: '3.3'
-ecostats: 1.1.10
+ecostats: 1.1.11
 ecostatscale: '1.0'
 ecotox: 1.4.4
 ecotoxicology: 1.0.1
@@ -12020,7 +12022,7 @@ flexmet: '1.1'
 flexmix: 2.3-18
 flexmixNL: 0.0.1
 flexpolyline: 0.2.6
-flexrsurv: 2.0.8
+flexrsurv: 2.0.11
 flexsurv: '2.2'
 flexsurvcure: 1.3.0
 flextable: 0.7.3
@@ -13091,6 +13093,7 @@ goftest: 1.2-3
 goftte: '1.0'
 gogamer: 0.4.3
 gogarch: 0.7-5
+goldfish: 1.6.4
 goldi: 1.0.1
 goldilocks: 0.3.0
 golem: 0.3.3
@@ -13141,7 +13144,7 @@ gpg: 1.2.7
 gphmm: 0.99.0
 gpindex: 0.4.3
 gpk: '1.0'
-gplite: 0.12.0
+gplite: 0.13.0
 gplm: 0.7-4
 gplots: 3.1.3
 gpls: 1.3.1
@@ -13835,7 +13838,7 @@ iaQCA: 0.8.7.0
 iadf: 0.1.2
 iai: 1.7.0
 ialiquor: 0.1.0
-iapws: '0.8'
+iapws: '0.9'
 iarm: 0.4.2
 ib: 0.2.0
 ibawds: 0.5.0
@@ -14058,7 +14061,7 @@ influence.SEM: '2.3'
 influenceAUC: 0.1.2
 influenceR: 0.1.0.1
 influential: 2.2.6
-influxdbclient: 0.1.0
+influxdbclient: 0.1.1
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
 infochimps: '0.3'
@@ -14085,6 +14088,7 @@ inpdfr: 0.1.11
 inplace: 0.1.2
 insane: 0.1.0
 insect: 1.4.2
+insectDisease: 1.2.1
 insee: 1.1.4
 insideRODE: '2.0'
 insiderTrades: 0.0.1
@@ -15449,7 +15453,7 @@ mazeGen: 0.1.3
 mazealls: 0.2.0
 mazeinda: 0.0.2
 mazing: 1.0.5
-mbRes: 0.1.3
+mbRes: 0.1.4
 mbbefd: 0.8.10
 mbclusterwise: '1.0'
 mbend: 1.3.1
@@ -16679,7 +16683,7 @@ networktree: 1.0.1
 neuRosim: 0.2-8
 neural: '1.4'
 neuralnet: 1.44.2
-neurobase: 1.9.2
+neurobase: 1.32.2
 neuroblastoma: '1.0'
 neurocInstall: 0.12.0
 neurohcp: 0.9.0
@@ -18431,6 +18435,7 @@ promote: 1.1.1
 promotionImpact: 0.1.5
 prompt: 1.0.1
 prompter: 1.1.0
+promr: 0.1.3
 prop.comb.RR: '1.2'
 propOverlap: '1.0'
 propagate: 1.0-6
@@ -18591,7 +18596,7 @@ pwt10: 10.0-0
 pwt8: 8.1-1
 pwt9: 9.1-0
 pxR: 0.42.4
-pxweb: 0.15.1
+pxweb: 0.16.1
 pyMTurkR: 1.1.5
 pycno: '1.2'
 pyinit: 1.1.3
@@ -19939,7 +19944,7 @@ roxygen2: 7.2.1
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
-rpact: 3.3.0
+rpact: 3.3.1
 rpanel: 1.1-5.1
 rpart: 4.1.16
 rpart.LAD: 0.1.2
@@ -20747,7 +20752,7 @@ shallot: 0.4.10
 shape: 1.4.6
 shapeNA: 0.0.2
 shapeR: 0.1-5
-shapefiles: '0.7'
+shapefiles: 0.7.1
 shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
@@ -20961,7 +20966,7 @@ simgof: 1.0.2
 simhelpers: 0.1.2
 similarityRichards: 0.5.0
 similr: 1.0.0
-simlandr: 0.2.0
+simlandr: 0.2.1
 simmer: 4.4.5
 simmer.bricks: 0.2.1
 simmer.plot: 0.1.17
@@ -21715,7 +21720,7 @@ statgenGWAS: 1.0.8
 statgenGxE: 1.0.5
 statgenHTP: 1.0.5
 statgenIBD: 1.0.4
-statgenMPP: 1.0.1
+statgenMPP: 1.0.1.1
 statgenSTA: 1.0.9
 stationaRy: 0.5.1
 stationery: '1.0'
@@ -22679,8 +22684,8 @@ trackeR: 1.5.2
 trackeRapp: '1.2'
 trackr: 0.9.6
 trackter: 0.1.1
-tractor.base: 3.3.3.1
-trade: 0.8.0
+tractor.base: 3.3.5.1
+trade: 0.8.1
 tradeCosts: 0.3-1
 tradepolicy: 0.6.0
 tradestatistics: 3.0.2
@@ -23567,7 +23572,7 @@ workflowr: 1.7.0
 workflows: 1.0.0
 workflowsets: 1.0.0
 workloopR: 1.1.4
-worldfootballR: 0.5.7
+worldfootballR: 0.6.0
 worldmet: 0.9.5
 worms: 0.2.2
 worrms: 0.4.2
