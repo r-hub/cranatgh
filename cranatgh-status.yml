@@ -300,7 +300,7 @@ AzureContainers: 1.3.2
 AzureCosmosR: 1.0.0
 AzureGraph: 1.3.2
 AzureKeyVault: 1.0.5
-AzureKusto: 1.0.6
+AzureKusto: 1.0.7
 AzureML: 0.2.15
 AzureQstor: 1.0.1
 AzureRMR: 2.4.3
@@ -334,7 +334,7 @@ BAS: 1.6.2
 BASIX: '1.2'
 BASS: 1.2.2
 BASiNET: 0.0.5
-BASiNETEntropy: 0.99.4
+BASiNETEntropy: 0.99.5
 BAT: 2.9.0
 BAYESDEF: 0.1.0
 BAYSTAR: 0.2-10
@@ -2888,7 +2888,7 @@ IDetect: 0.1.0
 IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
-IFAA: 1.0.7
+IFAA: 1.0.8
 IFC: 0.1.6
 IFP: 0.2.4
 IFSPlot: '1.0'
@@ -3687,7 +3687,7 @@ MOCCA: '1.4'
 MODIS: 1.2.3
 MODISSnow: 0.1.0.0
 MODISTools: 1.1.2
-MODIStsp: 2.0.8
+MODIStsp: 2.0.9
 MOEADr: 1.1.1
 MOJOV: 1.0.1
 MOLHD: '0.2'
@@ -6539,7 +6539,7 @@ Sleuth3: 1.0-3
 SlidingWindows: 0.2.0
 SlimPLS: '0.3'
 SmCCNet: 0.99.0
-SmallCountRounding: 0.9.0
+SmallCountRounding: 1.0.0
 SmartEDA: 0.3.8
 SmartMeterAnalytics: 1.0.3
 SmartSVA: 0.1.3
@@ -7012,7 +7012,7 @@ ThreeWiseMonkeys: 0.1.0
 Thresher: 1.1.3
 ThresholdROC: 2.9.0
 ThresholdROCsurvival: 1.0.2
-TiPS: 1.2.0
+TiPS: 1.2.1
 TickExec: '1.1'
 TiddlyWikiR: 1.0.1
 TideCurves: 0.0.5
@@ -7056,7 +7056,7 @@ TraMineRextras: 0.6.4
 TraceAssist: 0.1.0
 TrackReconstruction: '1.3'
 TradeStrategyAnalyzer: '1.0'
-Trading: '2.2'
+Trading: '2.5'
 TrafficBDE: 0.1.1
 TraitStats: 1.0.2
 Traitspace: '1.1'
@@ -9214,7 +9214,7 @@ cheem: 0.2.0
 cheese: 0.1.1
 chemCal: 0.2.3
 chemmodlab: 2.0.0
-chemodiv: 0.1.2
+chemodiv: 0.1.3
 chemometrics: 1.4.2
 chemosensors: 0.7.8
 cherry: 0.6-14
@@ -9237,7 +9237,7 @@ chipPCR: 1.0-2
 chirps: 0.1.4
 chisq.posthoc.test: 0.1.2
 chisquare: '0.3'
-chk: 0.8.0
+chk: 0.8.1
 chkptstanr: 0.1.1
 chlorpromazineR: 0.2.0
 chngpt: 2022.4-6
@@ -9878,7 +9878,7 @@ covidprobability: 0.1.0
 covidregionaldata: 0.9.3
 covidsymptom: 0.9.3
 covmat: '1.0'
-covr: 3.6.0
+covr: 3.6.1
 covreg: '1.0'
 covsep: 1.1.0
 covsim: 1.0.0
@@ -9937,7 +9937,7 @@ crandep: 0.3.1
 crank: 1.1-2
 cranlike: 1.0.2
 cranlogs: 2.1.1
-cranly: 0.5.4
+cranly: 0.6.0
 crantastic: '0.1'
 crassmat: 0.0.6
 crawl: 2.2.1
@@ -10492,7 +10492,7 @@ detectR: 0.1.0
 detectRUNS: 0.9.6
 detectnorm: 1.0.0
 detector: 0.1.0
-detectseparation: '0.2'
+detectseparation: '0.3'
 detourr: 0.1.0
 detpack: 1.1.3
 detrendeR: 1.0.5
@@ -10919,7 +10919,7 @@ dtrSurv: '1.4'
 dtrackr: 0.2.4
 dtree: 0.4.2
 dtt: 0.1-2
-dttr2: 0.4.0
+dttr2: 0.4.1
 dtts: 0.1.0
 dtw: 1.22-3
 dtwSat: 0.2.7
@@ -12448,7 +12448,7 @@ gasfluxes: 0.4-4
 gasper: 1.1.1
 gastempt: 0.5.5
 gaston: 1.5.7
-gateR: 0.1.9
+gateR: 0.1.11
 gatepoints: 0.1.4
 gauseR: '1.1'
 gaussDiff: '1.1'
@@ -12778,7 +12778,7 @@ ggconf: 0.1.3
 ggcorrplot: 0.1.3
 ggcorset: 0.3.0
 ggcoverage: 0.7.0
-ggdag: 0.2.5
+ggdag: 0.2.6
 ggdark: 0.2.1
 ggdemetra: 0.2.2
 ggdendro: 0.1.23
@@ -12918,7 +12918,7 @@ ggupset: 0.3.0
 ggvenn: 0.1.9
 ggversa: 0.0.1
 ggvis: 0.4.7
-ggvoronoi: 0.8.4
+ggvoronoi: 0.8.5
 ggwordcloud: 0.5.0
 ggx: 0.1.1
 gh: 1.3.0
@@ -13091,7 +13091,7 @@ gofMC: 1.1.2
 gofar: '0.1'
 gofastr: 0.3.0
 gofcat: 0.1.2
-goffda: 0.1.0
+goffda: 0.1.1
 gofgamma: '1.0'
 goft: 1.3.6
 goftest: 1.2-3
@@ -13217,7 +13217,7 @@ greatR: 0.2.0
 grec: 1.4.1
 greed: 0.6.0
 greekLetters: 0.0.7
-greeks: 0.6.0
+greeks: 0.7.0
 greenclust: 1.1.0
 gregRy: 0.1.0
 gregmisc: 2.1.5
@@ -13615,7 +13615,7 @@ hmmhdd: '1.0'
 hmmm: 1.0-4
 hmmr: 1.0-0
 hms: 1.1.2
-hmstimer: 0.1.1
+hmstimer: 0.2.0
 hnp: 1.2-6
 hoa: 2.1.4.1
 hoardeR: 0.9.4-2
@@ -14350,7 +14350,7 @@ jagsUI: 1.5.2
 jagstargets: 1.0.3
 jalcal: 0.1.0
 james.analysis: 1.0.1
-janeaustenr: 0.1.5
+janeaustenr: 1.0.0
 janitor: 2.1.0
 jaod: 0.3.0
 japanmesh: 0.1.1
@@ -14697,7 +14697,7 @@ languageserver: 0.3.13
 languageserversetup: 0.1.2
 lans2r: 1.1.0
 lar: 0.1-2
-lares: 5.1.2
+lares: 5.1.3
 largeList: 0.3.1
 largeVis: '0.2'
 lars: '1.3'
@@ -14975,7 +14975,7 @@ listviewer: 3.0.0
 litRiddle: 0.4.1
 lite: 1.0.0
 liteq: 1.1.0
-litteR: 0.9.1
+litteR: 1.0.0
 littler: 0.3.15
 liureg: 1.1.2
 live: 1.5.13
@@ -15026,7 +15026,7 @@ lmodel2: 1.7-3
 lmom: '2.9'
 lmomPi: 0.5.0
 lmomRFA: '3.4'
-lmomco: 2.3.7
+lmomco: 2.4.7
 lmreg: '1.2'
 lmridge: 1.2.1
 lmtest: 0.9-40
@@ -15663,7 +15663,7 @@ metadat: 1.2-0
 metadynminer: 0.1.7
 metadynminer3d: 0.0.2
 metafolio: 0.1.1
-metafor: 3.4-0
+metafor: 3.8-1
 metaforest: 0.1.3
 metafuse: 2.0-1
 metagam: 0.3.1
@@ -16177,10 +16177,10 @@ morphomap: '1.3'
 morse: 3.3.1
 mortAAR: 1.1.2
 mortyr: 0.0.2
-mosaic: 1.8.3
+mosaic: 1.8.4
 mosaic.find: 0.1.2
 mosaicCalc: 0.5.1
-mosaicCore: 0.9.0
+mosaicCore: 0.9.2
 mosaicData: 0.20.2
 mosaicManip: 0.2-6
 mosaicModel: 0.3.0
@@ -18134,7 +18134,7 @@ pollen: 0.82.0
 pollimetry: 1.0.1
 pollstR: 2.0.1
 pollster: 0.1.3
-polmineR: 0.8.6
+polmineR: 0.8.7
 polspline: 1.1.20
 polyCub: 0.8.0
 polyMatrix: 0.9.16
@@ -20205,7 +20205,7 @@ rvest: 1.0.3
 rvg: 0.2.5
 rvgtest: 0.7.4
 rviewgraph: 1.4.1
-rvinecopulib: 0.6.1.1.3
+rvinecopulib: 0.6.2.1.0
 rvkstat: 3.2.0
 rvmbinary: '1.0'
 rvmethod: 0.1.2
@@ -21819,7 +21819,7 @@ stoppingrule: 0.1.0
 stopwords: '2.3'
 stormwindmodel: 0.1.4
 storr: 1.2.5
-stortingscrape: 0.1.1
+stortingscrape: 0.1.2
 storywranglr: 0.2.0
 stosim: 0.0.14
 stplanr: 1.0.1
@@ -22002,7 +22002,7 @@ surveyeditor: '1.0'
 surveyoutliers: '0.1'
 surveyplanning: '4.0'
 surveysd: 1.3.0
-surveyvoi: 1.0.3
+surveyvoi: 1.0.4
 survidm: 1.3.2
 survivALL: 0.9.3
 survival: 3.4-0
@@ -23091,7 +23091,7 @@ ushr: 0.2.3
 usincometaxes: 0.5.0
 uskew: 0.11-3
 uskewFactors: '2.0'
-usl: 3.0.0
+usl: 3.0.2
 usmap: 0.6.0
 usmapdata: 0.1.0
 ustfd: 0.1.1
