@@ -2507,7 +2507,7 @@ GammaTest: '2.1'
 Gammareg: '3.0'
 GapAnalysis: 1.0.2
 GauPro: 0.2.4
-GaussSuppression: 0.4.0
+GaussSuppression: 0.5.0
 GaussianHMM1d: 1.0.1
 GeDS: 0.1.3
 GeNetIt: 0.1-4
@@ -3488,7 +3488,7 @@ MAVTgsa: '1.3'
 MAc: '1.1'
 MAclinical: 1.0-5
 MAd: 0.8-3
-MAnorm2: 1.2.0
+MAnorm2: 1.2.1
 MBA: 0.0-9
 MBAnalysis: 0.1.0
 MBC: 0.10-5
@@ -3831,7 +3831,7 @@ MatchIt: 4.4.0
 MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
 MatchItSE: '1.0'
-MatchLinReg: 0.7.3
+MatchLinReg: 0.8.1
 MatchThem: 1.0.1
 Matching: 4.10-2
 MatchingFrontier: 1.0.0
@@ -4590,7 +4590,7 @@ PPMR: '1.0'
 PPQplan: 1.1.0
 PPRL: 0.3.6
 PPSFS: 0.1.0
-PPTcirc: 0.2.1
+PPTcirc: 0.2.3
 PPforest: 0.1.2
 PPtree: 2.3.0
 PPtreeViz: 2.0.4
@@ -6988,7 +6988,7 @@ TesiproV: 0.9.2
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
 TestDesign: 1.3.4
-TestDimorph: 0.4.1
+TestDimorph: 0.5.5
 TestFunctions: 0.2.0
 TestGardener: 3.0.0
 TestScorer: 1.7.2
@@ -7053,7 +7053,7 @@ ToxLim: '1.0'
 ToxicR: 22.8.1.0.2
 ToxicoGx: 0.1.1
 Tplyr: 0.4.4
-TraMineR: 2.2-4
+TraMineR: 2.2-5
 TraMineRextras: 0.6.4
 TraceAssist: 0.1.0
 TrackReconstruction: '1.3'
@@ -7344,7 +7344,7 @@ WeightedPortTest: '1.0'
 WeightedROC: 2020.1.31
 WgtEff: 0.1.2
 WhatIf: 1.5-10
-WhiteStripe: 2.4.0
+WhiteStripe: 2.4.2
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
@@ -7711,6 +7711,7 @@ alr4: 1.0.6
 altR2: 1.0.0
 altadata: 0.1.1
 altair: 4.2.1
+altdoc: 0.1.0
 alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '4.1'
@@ -9956,7 +9957,7 @@ creditr: 0.6.1
 credsubs: 1.1.1
 credule: 0.1.4
 cregg: 0.4.0
-crestr: 1.1.0
+crestr: 1.2.0
 crevents: 0.1.0
 crfsuite: '0.4'
 cricketdata: 0.2.0
@@ -10140,7 +10141,7 @@ cvsem: 1.0.0
 cvwrapr: '1.0'
 cvxbiclustr: 0.0.1
 cvxclustr: 1.1.1
-cwbtools: 0.3.6
+cwbtools: 0.3.8
 cwhmisc: '6.6'
 cwm: 0.0.3
 cxhull: 0.6.0
@@ -11053,6 +11054,7 @@ easypower: 1.0.1
 easyr: 0.5-9
 easyreg: '4.0'
 easystab: '1.0'
+easystats: 0.5.2
 eat: 0.1.3
 eatATA: 1.0.0
 eatDB: 0.5.0
@@ -11331,7 +11333,7 @@ envDocument: 2.4.1
 envalysis: 0.5.1
 envelope: '1.0'
 enveomics.R: 1.9.0
-envi: 0.1.13
+envi: 0.1.15
 enviGCMS: 0.6.6
 enviPat: '2.4'
 enviPick: '1.5'
@@ -14122,6 +14124,7 @@ intReg: 0.2-8
 intRegGOF: 0.85-5
 intRinsic: 0.2.1
 intRvals: 1.0.1
+intSDM: 1.0.0
 intamap: 1.4-16
 intamapInteractive: 1.1-7
 intccr: 3.0.4
@@ -15250,6 +15253,7 @@ mRchmadness: 1.0.0
 mRm: 1.1.6
 mRpostman: 1.0.0
 mSTEM: 1.0-1
+mSigTools: 1.0.5
 mSimCC: 0.0.1
 mStats: 3.4.0
 maGUI: '4.0'
@@ -16204,7 +16208,7 @@ motifr: 1.0.0
 motmot: 2.1.3
 motmot.2.0: 1.1.2
 motoRneuron: 1.0.0
-moult: 2.3.0
+moult: 2.3.1
 mountainplot: '1.4'
 mousetrack: 1.0.0
 mousetrap: 3.2.1
@@ -16546,7 +16550,7 @@ nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.17.1
 naflex: 0.1.0
-naijR: 0.4.3
+naijR: 0.4.4
 naive: 1.2.0
 naivebayes: 0.9.7
 naivereg: 1.0.5
@@ -16836,6 +16840,7 @@ nnTensor: 1.1.8
 nna: 0.0.2.1
 nnc: '1.14'
 nncRda: '1.87'
+nncc: 1.0.0
 nnclust: '2.2'
 nneo: 0.1.0
 nnet: 7.3-17
@@ -16845,7 +16850,7 @@ nngeo: 0.4.6
 nnlasso: '0.3'
 nnlib2Rcpp: 0.1.9
 nnls: '1.4'
-nnspat: 0.1.0
+nnspat: 0.1.1
 nnt: 0.1.4
 nntrf: 0.1.4
 noaaoceans: 0.3.0
@@ -18702,7 +18707,7 @@ qrLMM: '2.1'
 qrNLMM: '3.3'
 qra: 0.2.7
 qrage: '1.0'
-qrandom: 1.2.5
+qrandom: 1.2.6
 qrcm: '3.0'
 qrcmNL: 0.1.0
 qrcmNP: 0.2.0
@@ -19619,7 +19624,7 @@ rgeospatialquality: 0.3.2
 rgexf: 0.16.2
 rggm: 1.0.1
 rggobi: 2.1.9
-rgho: 2.0.2
+rgho: 3.0.0
 rgl: 0.109.6
 rgl2gltf: 1.0.3
 rglobi: 0.2.28
@@ -22345,7 +22350,7 @@ texreg: 1.38.6
 text: 0.9.90
 text.alignment: 0.1.3
 text2map: 0.1.6
-text2sdg: 0.1.4
+text2sdg: 0.1.5
 text2speech: 0.2.13
 text2vec: 0.6.1
 textTinyR: 1.1.7
@@ -22439,6 +22444,7 @@ tictactoe: 0.2.2
 tictoc: 1.0.1
 tidyBF: 0.5.1
 tidyBdE: 0.2.5
+tidyCDISC: 0.1.0
 tidyCpp: 0.0.6
 tidyEmoji: 0.1.0
 tidyHeatmap: 1.8.1
@@ -22729,6 +22735,7 @@ tramnet: 0.0-7
 trampoline: 0.1.1
 tramvs: 0.0-2
 tranSurv: 1.2.2
+transPlotR: 0.0.2
 transcribeR: 0.0.0
 transfR: 0.1.2
 transforEmotion: 0.1.1
@@ -23168,7 +23175,7 @@ vanddraabe: 1.1.1
 vangogh: 0.1.1
 vannstats: 1.2.7.14
 vanquish: 1.0.0
-vapour: 0.8.5
+vapour: 0.8.81
 varComp: 0.2-0
 varEst: 0.1.0
 varImp: '0.4'
@@ -23335,7 +23342,7 @@ voronoi: '1.1'
 voronoiTreemap: 0.2.0
 vortexR: 1.1.7
 vortexRdata: 1.0.5
-voson.tcn: 0.4.1
+voson.tcn: 0.5.0
 vosonSML: 0.32.7
 vote: 2.3-2
 voteogram: 0.3.1
