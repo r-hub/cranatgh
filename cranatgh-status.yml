@@ -5676,7 +5676,7 @@ RcppBlaze: 0.2.2
 RcppCCTZ: 0.2.11
 RcppCGAL: 5.4.1
 RcppCNPy: 0.2.11
-RcppCWB: 0.5.3
+RcppCWB: 0.5.4
 RcppCensSpatial: 0.3.0
 RcppClassic: 0.9.12
 RcppClassicExamples: 0.1.2
@@ -6145,7 +6145,7 @@ SEMID: 0.4.0
 SEMModComp: '1.0'
 SEMgraph: 1.1.2
 SEMrushR: 0.1.0
-SEMsens: 1.2.5
+SEMsens: 1.5.5
 SETPath: '1.0'
 SEchart: '0.1'
 SEofM: 0.1.0
@@ -6491,7 +6491,7 @@ SimComp: '3.3'
 SimCop: 0.7.0
 SimCorMultRes: 1.8.0
 SimCorrMix: 0.1.1
-SimDesign: '2.9'
+SimDesign: 2.9.1
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.3
 SimEngine: 1.1.0
@@ -7870,7 +7870,7 @@ archiveRetriever: 0.2.0
 archivist: 2.3.6
 archivist.github: 0.2.6
 arcos: '1.27'
-arcpullr: 0.2.5
+arcpullr: 0.2.7
 arctools: 1.1.4
 areabiplot: 1.0.0
 areal: 0.1.8
@@ -8074,7 +8074,7 @@ averisk: 1.0.3
 avgrankoverlap: '1.0'
 avidaR: 1.1.3
 avocado: 0.1.0
-aweSOM: '1.2'
+aweSOM: '1.3'
 aweek: 1.0.2
 aws: 2.5-1
 aws.alexa: 0.1.8
@@ -8527,7 +8527,7 @@ bio3d: 2.4-3
 bioC.logs: '1.2'
 bioOED: 0.2.1
 bioPN: 1.2.0
-bioRad: 0.6.0
+bioRad: 0.6.1
 bioacoustics: 0.2.8
 bioassays: 1.0.1
 bioclim: 0.3.0
@@ -9761,7 +9761,7 @@ cooltools: '1.8'
 coop: 0.6-3
 coopProductGame: '2.0'
 cooptrees: '1.0'
-copBasic: 2.1.7
+copBasic: 2.1.9
 copCAR: 2.0-4
 copas: 0.8-0
 cope: 0.2.3
@@ -10900,7 +10900,7 @@ dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
 dseplus: 2006.4-1
-dsims: 1.0.0
+dsims: 1.0.1
 dslabs: 0.7.4
 dslice: 1.2.0
 dsm: 2.3.3
@@ -10909,7 +10909,7 @@ dsmodels: 1.1.0
 dsos: 0.1.1
 dsr: 0.2.2
 dsrTest: 1.0.0
-dssd: 0.3.3
+dssd: 0.3.4
 dst: 1.5.1
 dstack: 0.2.1
 dstat: 1.0.4
@@ -12358,6 +12358,7 @@ gIPFrm: '3.1'
 gJLS2: 0.2.0
 gLRTH: 0.2.0
 gMCP: 0.8-15
+gMCPLite: 0.1.2
 gMOIP: 1.4.7
 gMWT: 1.1.1
 gPCA: '1.0'
@@ -12664,7 +12665,7 @@ geometries: 0.2.0
 geometry: 0.4.6.1
 geomnet: 0.3.1
 geomorph: 4.0.4
-geomtextpath: 0.1.0
+geomtextpath: 0.1.1
 geomultistar: 1.1.0
 geonames: '0.999'
 geonapi: 0.6-1
@@ -12860,7 +12861,7 @@ ggpage: 0.2.3
 ggparallel: 0.2.0
 ggparliament: 2.0.0
 ggparty: 1.0.0
-ggpattern: 0.4.2
+ggpattern: 1.0.0
 ggperiodic: 1.0.2
 ggpie: 0.2.2
 ggplot: 0.4.2
@@ -13116,7 +13117,7 @@ gompertztrunc: 0.1.0
 gontr: 1.1.0
 gooJSON: '1.0'
 good: 1.0.1
-goodpractice: 1.0.3
+goodpractice: 1.0.4
 googleAnalyticsR: 1.0.1
 googleAuthR: 2.0.0
 googleCloudRunner: 0.5.0
@@ -13579,6 +13580,7 @@ highlightHTML: 0.2.5
 highmean: '3.0'
 highr: '0.9'
 highriskzone: 1.4.7
+highs: 0.1-2
 higlasso: 0.9.0
 higrad: 0.1.0
 hilbert: 0.2.1
@@ -13854,7 +13856,7 @@ iaQCA: 0.8.7.0
 iadf: 0.1.2
 iai: 1.8.0
 ialiquor: 0.1.0
-iapws: '0.9'
+iapws: '0.10'
 iarm: 0.4.3
 ib: 0.2.0
 ibawds: 0.5.0
@@ -14303,6 +14305,7 @@ itdr: 1.2.0
 iteRates: '3.1'
 itemanalysis: '1.1'
 iterLap: 1.1-3
+iteratoR: 0.1.1
 iterators: 1.0.14
 iterpc: 0.4.2
 itertools: 0.1-3
@@ -14767,7 +14770,7 @@ lbfgsb3: 2015-2.13
 lbfgsb3c: 2020-3.2
 lbiassurv: '1.1'
 lbm: 0.9.0.2
-lboxcox: '1.0'
+lboxcox: '1.1'
 lbreg: '1.3'
 lcars: 0.3.7
 lcc: 1.1.4
@@ -17683,7 +17686,7 @@ pdp: 0.8.1
 pdqr: 0.3.0
 pds3: 0.5.0
 pdxTrees: 0.4.0
-pdynmc: 0.9.7
+pdynmc: 0.9.8
 peRiodiCS: 0.5.0
 peRspective: 0.1.1
 peacesciencer: 1.0.0
@@ -17972,7 +17975,7 @@ pkggraph: 0.2.3
 pkglite: 0.2.1
 pkgload: 1.3.0
 pkgmaker: 0.32.2
-pkgndep: 1.1.5
+pkgndep: 1.2.0
 pkgnet: 0.4.2
 pkgnews: 0.0.2
 pkgsearch: 3.1.1
@@ -19100,7 +19103,7 @@ rarms: 1.0.0
 rasciidoc: 4.0.2
 rasclass: 0.2.2
 rase: 0.3-3
-rassta: 1.0.4
+rassta: 1.0.5
 raster: 3.5-29
 rasterDT: 0.3.1
 rasterImage: 0.4.0
@@ -20802,7 +20805,7 @@ shiny.i18n: 0.2.0
 shiny.info: 0.2.0
 shiny.pwa: 0.2.1
 shiny.react: 0.2.3
-shiny.reglog: 0.5.0
+shiny.reglog: 0.5.2
 shiny.router: 0.2.3
 shiny.semantic: 0.4.3
 shiny.worker: 0.0.1
@@ -21926,7 +21929,7 @@ subrank: 0.9.9.1
 subsamp: 0.1.0
 subscore: '3.3'
 subscreen: 3.0.7
-subselect: 0.15.2
+subselect: 0.15.3
 subsemble: 0.1.0
 subspace: 1.0.4
 subspaceMOA: 0.6.0
