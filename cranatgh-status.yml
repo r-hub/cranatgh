@@ -2095,7 +2095,7 @@ FORTLS: 1.1.0
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
-FPDclustering: '2.1'
+FPDclustering: '2.2'
 FPLdata: 0.1.0
 FPV: '0.5'
 FRACTION: '1.0'
@@ -2357,7 +2357,7 @@ GGClassification: '0.1'
 GGEBiplotGUI: '1.0'
 GGEBiplots: 0.1.3
 GGIR: 2.7-1
-GGIRread: 0.2.1
+GGIRread: 0.2.2
 GGMM: 1.0.1
 GGMncv: 2.1.1
 GGMnonreg: 1.0.0
@@ -4036,7 +4036,7 @@ MsdeParEst: '1.7'
 MtreeRing: 1.4.5
 MuChPoint: 0.6.3
 MuFiCokriging: '1.2'
-MuMIn: 1.46.0
+MuMIn: 1.47.1
 MuViCP: 1.3.2
 MullerPlot: 0.1.3
 MultAlloc: '1.2'
@@ -6346,7 +6346,7 @@ STGS: 0.1.0
 STI: '0.1'
 STMedianPolish: '0.2'
 STMotif: 2.0.1
-STMr: 0.1.3
+STMr: 0.1.4
 STOPES: '0.2'
 STPGA: 5.2.1
 STRAH: '1.0'
@@ -8006,6 +8006,7 @@ atmcmc: '1.0'
 atmi: '1.0'
 atmopt: 0.1.0
 atom4R: 0.3-1
+atpolR: 0.1.0
 atsd: 1.2.0
 attachment: 0.2.5
 attempt: 0.3.1
@@ -8405,7 +8406,7 @@ bgmfiles: 0.0.6
 bgmm: 1.8.5
 bgsmtr: '0.7'
 bgumbel: 0.0.3
-bhm: '1.17'
+bhm: '1.18'
 bhmbasket: 0.9.5
 bhpm: '1.7'
 bhrcr: 1.0.3
@@ -8691,7 +8692,7 @@ bold: 1.2.0
 bomWater: 0.4.1
 bomrang: 0.7.4
 bondAnalyst: 1.0.1
-bonsai: 0.1.0
+bonsai: 0.2.0
 bookdown: '0.28'
 bookdownplus: 1.5.8
 boolean: 2.0-2
@@ -9075,7 +9076,7 @@ ccboost: 0.1-1.3
 cccd: '1.6'
 cccm: 0.1.0
 cccp: 0.2-7
-cccrm: 2.0.3
+cccrm: 2.1.0
 ccda: 1.1.1
 ccdf: 1.1.4
 ccdrAlgorithm: 0.0.6
@@ -10933,7 +10934,7 @@ dtts: 0.1.0
 dtw: 1.22-3
 dtwSat: 0.2.7
 dtwclust: 5.5.10
-dual: 0.0.3
+dual: 0.0.4
 dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
@@ -11165,7 +11166,7 @@ edstan: 1.0.6
 edtdbg: 1.0.0
 educationdata: 0.1.2
 educineq: 0.1.0
-edwards97: 0.1.0
+edwards97: 0.1.1
 eechidna: 1.4.1
 eefAnalytics: 1.1.0
 eegAnalysis: '0.0'
@@ -12809,7 +12810,7 @@ ggfan: 0.1.3
 ggfittext: 0.9.1
 ggfocus: 1.0.0
 ggforce: 0.3.4
-ggformula: 0.10.1
+ggformula: 0.10.2
 ggfortify: 0.4.14
 ggfun: 0.0.7
 ggfx: 1.0.1
@@ -13339,7 +13340,7 @@ gt: 0.7.0
 gt4ireval: '2.0'
 gtExtras: 0.4.1
 gtWAS: 1.1.0
-gtable: 0.3.0
+gtable: 0.3.1
 gtcorr: 0.2-1
 gte: 1.2-3
 gtfs2gps: 2.1-0
@@ -13969,7 +13970,7 @@ ihpdr: 1.2.1
 ihs: '1.0'
 iid.test: '1.6'
 iilasso: 0.0.2
-ijtiff: 2.2.7
+ijtiff: 2.2.8
 iki.dataclim: '1.0'
 ilc: '1.0'
 imPois: 0.1.4
@@ -13986,7 +13987,7 @@ image.libfacedetection: '0.1'
 image.textlinedetector: 0.2.1
 image2data: 1.0.1
 imageData: 0.1-61
-imagefluency: 0.2.3
+imagefluency: 0.2.4
 imagefx: 0.4.1
 imager: 0.42.13
 imagerExtra: 1.3.2
@@ -17131,6 +17132,7 @@ onadata: '0.1'
 onbabynames: 0.0.1
 onbrand: 1.0.2
 onc.api: 2.0.1.0
+once: 0.4.1
 oncoPredict: '0.2'
 oncomodel: '1.0'
 oncrawlR: 0.2.0
@@ -17198,7 +17200,7 @@ opencv: 0.2.2
 opendatatoronto: 0.1.5
 opendotaR: 0.1.4
 openeo: 1.2.1
-openintro: 2.3.0
+openintro: 2.4.0
 openmetrics: 0.3.0
 opensensmapr: 0.5.1
 openssl: 2.0.2
@@ -17434,7 +17436,7 @@ pagemap: 0.1.3
 pagenum: '1.2'
 pageviews: 0.5.0
 pagoda2: 1.0.10
-pagoo: 0.3.12
+pagoo: 0.3.13
 painbow: 1.0.1
 painter: 0.1.0
 paintingr: 0.1.0
@@ -17793,7 +17795,7 @@ petrinetR: 0.2.1
 petro.One: 0.2.3
 pewdata: 0.3.2
 pexm: 1.1.2
-pez: 1.2-3
+pez: 1.2-4
 pfa: '1.1'
 pfda: 1.0.0
 pfica: 0.1.2
@@ -17922,7 +17924,7 @@ picasso: 1.3.1
 picker: 0.2.6
 pid: '0.50'
 piecemaker: 1.0.1
-piecepackr: 1.11.1
+piecepackr: 1.12.0
 piecewiseSEM: 2.1.2
 pifpaf: 1.0.1
 piggyback: 0.1.4
@@ -18256,7 +18258,7 @@ potools: 0.2.2
 potts: 0.5-11
 pould: 1.0.1
 povcalnetR: 0.1.1
-pow.int: '1.2'
+pow.int: '1.3'
 powdR: 1.3.0
 powdist: 0.1.4
 poweRlaw: 0.70.6
@@ -18794,7 +18796,7 @@ quantregForest: 1.3-7
 quantregGrowth: 1.4-0
 quantregRanger: '1.0'
 quantspec: 1.2-3
-quarks: 1.1.2
+quarks: 1.1.3
 quarrint: 1.0.0
 quarto: '1.2'
 quaternions: '0.2'
@@ -19553,7 +19555,7 @@ restriktor: 0.3-500
 resumer: 0.0.5
 rethinker: 1.1.0
 rethnicity: 0.2.3
-reticulate: '1.25'
+reticulate: '1.26'
 retimes: 0.1-2
 retistruct: 0.6.3
 retractcheck: 1.0.0
@@ -20852,7 +20854,7 @@ shinyTempSignal: 0.0.3
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
 shinyTree: 0.2.7
-shinyWidgets: 0.7.2
+shinyWidgets: 0.7.3
 shinyaframe: 1.0.1
 shinyalert: 3.0.0
 shinyanimate: 0.3.0
@@ -21004,7 +21006,7 @@ simmer.plot: 0.1.17
 simml: 0.3.0
 simmr: 0.4.5
 simode: 1.2.0
-simodels: 0.0.4
+simodels: 0.0.5
 simone: 1.0-4
 simphony: 1.0.3
 simpleCache: 0.4.2
@@ -21612,7 +21614,7 @@ spsh: 1.1.0
 spsi: '0.1'
 spsmooth: 1.1-3
 spssDDI: '0.1'
-spsur: 1.0.2.2
+spsur: 1.0.2.4
 spsurv: 1.0.0
 spsurvey: 5.3.0
 spt: 2.5.1
@@ -22306,6 +22308,7 @@ tempdisagg: '1.0'
 temperatureresponse: '0.2'
 templateICAr: 0.3.1
 templates: 0.3.0
+templr: 0.1-0
 tempoR: 1.0.4.4
 tenispolaR: 0.1.4
 tensor: '1.5'
@@ -23752,7 +23755,7 @@ yacca: 1.4-2
 yager: 0.1.1
 yakmoR: 0.1.1
 yaml: 2.3.5
-yamlet: 0.9.3
+yamlet: 0.9.5
 yamlme: 0.1.1
 yap: 0.1.1
 yaps: 1.2.5
