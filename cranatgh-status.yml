@@ -172,7 +172,7 @@ ActFrag: 0.1.1
 Actigraphy: 1.4.0
 ActisoftR: 0.0.2
 ActiveDriver: 1.0.0
-ActiveDriverWGS: 1.1.2
+ActiveDriverWGS: 1.2.0
 ActivePathways: 1.1.1
 ActivityIndex: 0.3.7
 ActuDistns: '3.0'
@@ -2442,7 +2442,7 @@ GPoM: '1.3'
 GPoM.FDLyapu: '1.0'
 GPrank: 0.1.4
 GPseq: '0.5'
-GPvam: 3.0-7
+GPvam: 3.0-8
 GPvecchia: 0.1.3
 GRANBase: 2.6.20
 GRANCore: 0.2.7
@@ -4088,7 +4088,7 @@ My.stepwise: 0.1.0
 Mychisq: 0.1.3
 Myrrix: '1.2'
 Myrrixjars: 1.0-2
-N2H4: 0.6.5
+N2H4: 0.8.0
 N2R: 1.0.1
 NACHO: 2.0.0
 NADA: 1.6-1.1
@@ -5764,7 +5764,7 @@ ReacTran: 1.4.3.1
 Read.isi: '0.5'
 ReadDIM: 0.2.10
 ReadImages: 0.1.3.3
-RealVAMS: 0.4-3
+RealVAMS: 0.4-4
 Rearrangement: '2.1'
 RecAssoRules: '1.0'
 Recocrop: 0.3-2
@@ -6504,7 +6504,7 @@ SimEngine: 1.1.0
 SimEvolEnzCons: 2.0.0
 SimHap: 1.2.0
 SimHaz: '0.1'
-SimInf: 9.1.0
+SimInf: 9.2.0
 SimJoint: 0.3.9
 SimMultiCorrData: 0.2.2
 SimPhe: 0.2.0
@@ -6769,7 +6769,7 @@ SurvGSD: 1.0.0
 SurvHiDim: 0.1.1
 SurvLong: '1.2'
 SurvMI: 0.1.0
-SurvMetrics: 0.4.5
+SurvMetrics: 0.5.0
 SurvRank: '0.1'
 SurvRegCensCov: '1.5'
 SurvTrunc: 0.1.0
@@ -6799,7 +6799,7 @@ SystemicR: 0.1.0
 T2EQ: '1.1'
 T2Qv: 0.1.0
 T4cluster: 0.1.2
-T4transport: 0.1.0
+T4transport: 0.1.1
 TAF: 4.0.0
 TAG: 0.5.1
 TAHMMAnnot: '2.0'
@@ -8066,7 +8066,7 @@ automagic: 0.5.1
 automap: 1.0-16
 automl: 1.3.2
 automultinomial: 2.0.0
-autonewsmd: 0.0.2
+autonewsmd: 0.0.3
 autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
@@ -11917,7 +11917,7 @@ fgac: 0.6-1
 fgdr: 1.1.1
 fgeo: 1.1.4
 fgeo.analyze: 1.1.14
-fgeo.plot: 1.1.10
+fgeo.plot: 1.1.11
 fgeo.tool: 1.2.8
 fgeo.x: 1.1.4
 fgitR: 0.2.0
@@ -12604,7 +12604,7 @@ genieBPC: 1.0.0
 genieclust: 1.0.1
 genio: 1.1.1
 genius: 2.2.3
-geniusr: 1.2.0
+geniusr: 1.2.1
 genlasso: 1.6.1
 genlogis: 1.0.0
 geno2proteo: 0.0.6
@@ -13347,7 +13347,7 @@ gsw: 1.0-6
 gsynth: 1.2.1
 gt: 0.7.0
 gt4ireval: '2.0'
-gtExtras: 0.4.1
+gtExtras: 0.4.2
 gtWAS: 1.1.0
 gtable: 0.3.1
 gtcorr: 0.2-1
@@ -13535,7 +13535,7 @@ heritability: '1.3'
 hermite: 1.1.2
 hermiter: 2.1.0
 hero: 0.4.7
-hesim: 0.5.2
+hesim: 0.5.3
 het.test: '0.1'
 hetGP: 1.1.4
 hetmeta: 0.1.0
@@ -15794,7 +15794,7 @@ miRetrieve: 1.3.4
 miRtest: '2.0'
 miWQS: 0.4.4
 micEcdat: 0.1-1
-micEcon: 0.6-16
+micEcon: 0.6-18
 micEconAids: 0.6-20
 micEconCES: 1.0-0
 micEconIndex: 0.1-8
@@ -19629,7 +19629,7 @@ rfviz: 1.0.1
 rgabriel: '0.9'
 rgam: 0.6.6
 rgauges: 0.2.0
-rgbif: 3.7.2
+rgbif: 3.7.3
 rgcvpack: 0.1-4
 rgdal: 1.5-32
 rgdax: 1.2.1
@@ -19977,7 +19977,7 @@ rotasym: 1.1.3
 rotationForest: 0.1.3
 rotations: 1.6.4
 rotl: 3.0.12
-rotor: 0.3.5
+rotor: 0.3.6
 roughnet: 1.0.0
 roughrf: '1.0'
 round: 0.20-0
@@ -21058,7 +21058,7 @@ simstudy: 0.5.0
 simsurv: 1.0.0
 simtimer: 4.0.0
 simtrait: 1.1.0
-simts: 0.2.0
+simts: 0.2.1
 simukde: 1.3.0
 simul: 0.1.1
 simulariatools: 2.4.0
@@ -21275,7 +21275,7 @@ softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
 soilDB: 2.7.3
-soilassessment: 0.2.3
+soilassessment: 0.2.4
 soilcarbon: 1.2.0
 soilhypfit: 0.1-7
 soilphysics: '5.0'
@@ -21895,7 +21895,7 @@ stray: 0.1.1
 stream: 2.0-0
 stream.net: 1.0.6
 streamDepletr: 0.1.1
-streamMOA: 1.2-4
+streamMOA: 1.3-0
 streamR: 0.4.5
 streambugs: '1.2'
 stremo: '0.2'
@@ -22445,7 +22445,7 @@ thgenetics: 0.4-2
 thickmatch: 0.3.1
 thief: '0.3'
 thinkr: '0.16'
-this.path: 0.8.0
+this.path: 0.11.0
 thor: 1.1.2
 thorn: 0.2.0
 thredds: 0.1-2
