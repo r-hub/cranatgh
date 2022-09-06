@@ -955,7 +955,7 @@ CRM: 1.2.4
 CRPClustering: '1.2'
 CRTConjoint: 0.1.0
 CRTSize: '1.0'
-CRTgeeDR: '2.0'
+CRTgeeDR: 2.0.1
 CRUF: 0.5.1
 CRWRM: 0.0.1
 CSCDRNA: 1.0.3
@@ -1578,7 +1578,7 @@ DeducerSurvival: 0.1-0
 DeducerText: 0.1-2
 DeductiveR: 1.0.0
 Defaults: 1.1-1
-Delaporte: 8.0.2
+Delaporte: 8.0.3
 DelayedEffect.Design: 0.0.4
 Delta: 0.2.0.3
 DeltaMAN: 0.5.0
@@ -1598,7 +1598,7 @@ DepthProc: 2.1.5
 Deriv: 4.1.3
 DescTools: 0.99.46
 DescToolsAddIns: '1.10'
-DescrTab2: 2.1.9
+DescrTab2: 2.1.16
 DescribeDisplay: 0.2.7
 DescriptiveStats.OBeu: 1.3.2
 DescriptiveWH: 1.0.3
@@ -2395,7 +2395,7 @@ GMAC: '3.1'
 GMCM: '1.4'
 GMD: '0.3'
 GMDH: '1.6'
-GMDH2: '1.6'
+GMDH2: '1.7'
 GMDHreg: 0.2.2
 GMKMcharlie: 1.1.5
 GMMAT: 1.3.2
@@ -2960,6 +2960,7 @@ IROmiss: 1.0.2
 IRSF: 1.0.3
 IRTBEMM: 1.0.7
 IRTShiny: '1.2'
+IRTest: 0.0.2
 IRTpp: 0.2.6
 IRdisplay: '1.1'
 IRexamples: 0.0.2
@@ -3190,6 +3191,7 @@ Kernelheaping: 2.3.0
 Keyboard: 0.1.3
 KeyboardSimulator: 2.6.0
 KingCountyHouses: 0.1.0
+Kmedians: 0.1.0
 Kmisc: 0.5.0
 KnapsackSampling: 0.1.0
 KneeArrower: 1.0.0
@@ -3624,7 +3626,7 @@ MKLE: 1.0.0
 MKMeans: '2.1'
 MKclass: '0.3'
 MKdescr: '0.7'
-MKinfer: '0.6'
+MKinfer: '0.7'
 MKmisc: '1.8'
 MKomics: '0.7'
 MKpower: '0.5'
@@ -5146,6 +5148,7 @@ REPPlabShiny: 0.4.1
 REPTILE: '1.0'
 REQS: 0.8-9
 REREFACT: '1.0'
+RESI: 1.0.5
 RESS: '1.3'
 REST: 1.0.1
 REdaS: 0.9.4
@@ -7834,7 +7837,7 @@ aphid: 1.3.3
 aphylo: 0.2-1
 apisensr: 0.3.0
 aplore3: '0.9'
-aplot: 0.1.6
+aplot: 0.1.7
 aplpack: 1.3.5
 apmsWAPP: '1.0'
 apng: '1.1'
@@ -8564,7 +8567,7 @@ bioplots: 0.0.1
 biorxivr: 1.0.2
 bios2mds: 1.2.3
 biosensors.usc: '1.0'
-bioseq: 0.1.3
+bioseq: 0.1.4
 bioset: 0.2.3
 biosignalEMG: 2.1.0
 biospear: 1.0.2
@@ -10650,7 +10653,7 @@ dirmcmc: 1.3.3
 dirmult: 0.1.3-5
 dirttee: '1.0'
 disaggR: 1.0.3.1
-disaggregation: 0.1.3
+disaggregation: 0.1.4
 disastr.api: 1.0.5
 disbayes: 1.0.0
 discAUC: 0.4.0
@@ -11741,7 +11744,7 @@ fam.recrisk: '0.1'
 fam2r: '1.2'
 famSKATRC: 1.1.0
 fame: 2.21.1
-familial: 1.0.3
+familial: 1.0.4
 familiar: 1.2.0
 fanc: 2.3.5
 fancycut: 0.1.2
@@ -12877,6 +12880,7 @@ ggpage: 0.2.3
 ggparallel: 0.2.0
 ggparliament: 2.0.0
 ggparty: 1.0.0
+ggpath: 1.0.0
 ggpattern: 1.0.0
 ggperiodic: 1.0.2
 ggpie: 0.2.2
@@ -13253,6 +13257,7 @@ gren: 0.0.1
 greport: 0.7-2
 greta: 0.4.2
 greta.dynamics: 0.2.0
+greta.gp: 0.2.0
 gretel: 0.0.1
 gretlR: 0.1.4
 grex: '1.9'
@@ -13337,7 +13342,7 @@ gslnls: 1.1.1
 gsloid: 0.2.0
 gsmaRt: '1.0'
 gsmoothr: 0.1.7
-gson: 0.0.8
+gson: 0.0.9
 gsrc: '1.1'
 gsrs: 0.1.1
 gsrsb: 1.1.1
@@ -13875,7 +13880,7 @@ iaQCA: 0.8.7.0
 iadf: 0.1.2
 iai: 1.8.0
 ialiquor: 0.1.0
-iapws: '0.10'
+iapws: '0.11'
 iarm: 0.4.3
 ib: 0.2.0
 ibawds: 0.5.0
@@ -14139,7 +14144,7 @@ install.load: 1.2.3
 installr: 0.23.2
 instruments: 0.1.0
 insuranceData: '1.0'
-insurancerating: 0.7.0
+insurancerating: 0.7.1
 int64: 1.1.2
 intReg: 0.2-8
 intRegGOF: 0.85-5
@@ -15133,7 +15138,7 @@ logitr: 0.7.0
 loglognorm: 1.0.2
 logmult: 0.7.4
 lognorm: 0.1.10
-logr: 1.3.2
+logr: 1.3.3
 logregperm: '1.0'
 logrx: 0.1.0
 logspline: 2.1.17
@@ -15241,7 +15246,7 @@ lumberjack: 1.2.1
 lumendb: 0.2.2
 lunar: 0.2-1
 lutz: 0.3.1
-luz: 0.3.0
+luz: 0.3.1
 luzlogr: 0.2.0
 lvec: 0.2.2
 lvm4net: '0.3'
@@ -15353,6 +15358,7 @@ manipulate: 1.0.1
 manipulateWidget: 0.11.1
 manydata: 0.7.5
 manymodelr: 0.3.7
+manymome: 0.1.4.0
 maotai: 0.2.4
 mapDK: 0.3.0
 mapLD: 1.0-1
@@ -15605,6 +15611,7 @@ measures: '0.3'
 meboot: 1.4-9.2
 mecdf: 0.6.1
 mechkar: 1.14.6
+meconetcomp: 0.1.0
 mecor: 1.0.0
 medAdherence: '1.03'
 medExtractR: 0.4.1
@@ -16129,7 +16136,7 @@ modelStudio: 3.1.0
 modelbased: 0.8.5
 modelc: 1.0.0.0
 modelcf: '2.1'
-modeldata: 1.0.0
+modeldata: 1.0.1
 modeldb: 0.2.3
 modelfree: 1.1-1
 modelgrid: 1.1.1.0
@@ -18151,7 +18158,7 @@ pogit: 1.3.0
 poibin: '1.5'
 poilog: 0.4.1
 pointRes: 2.0.1
-pointblank: 0.11.0
+pointblank: 0.11.1
 pointdensityP: 0.3.5
 pointdexter: 0.1.1
 pointr: 0.2.0
@@ -18639,7 +18646,7 @@ pweight: 0.0.1
 pwlmm: 1.1.1
 pwr: 1.3-0
 pwr2: '1.0'
-pwr2ppl: 0.4.0
+pwr2ppl: 0.5.0
 pwrAB: 0.1.0
 pwrFDR: 2.8.9
 pwrRasch: 0.1-2
@@ -18968,7 +18975,7 @@ rModeling: 0.0.3
 rMorningStar: 1.0.7
 rMouse: '0.1'
 rNMF: 0.5.0
-rNOMADS: 2.5.0
+rNOMADS: 2.5.1
 rNeighborGWAS: 1.2.4
 rNeighborQTL: 1.1.2
 rODE: 0.99.6
@@ -21311,7 +21318,7 @@ soma: 1.2.0
 someKfwer: '1.2'
 someMTP: 1.4.1.1
 somebm: '0.1'
-sommer: 4.1.7
+sommer: 4.1.8
 somplot: 1.6.4
 somspace: 1.0.0
 sonar: 1.0.2
@@ -22083,7 +22090,7 @@ survsup: 0.0.2
 survtmle: 1.1.1
 survutils: 1.0.2
 survxai: 0.2.2
-susieR: 0.12.19
+susieR: 0.12.27
 sutteForecastR: '0.1'
 svDialogs: 1.1.0
 svDialogstcltk: 1.0.0
@@ -22989,7 +22996,7 @@ twangContinuous: 1.0.0
 twangMediation: '1.2'
 twangRDC: '1.0'
 tweedie: 2.3.5
-tweenr: 2.0.1
+tweenr: 2.0.2
 tweet2r: '1.1'
 twenty48: 0.2.0
 twfy: 0.1.0
