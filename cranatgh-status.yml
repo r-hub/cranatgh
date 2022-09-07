@@ -40,7 +40,7 @@ ADVICE: '1.0'
 ADaCGH: 1.5-3
 ADtools: 0.5.4
 AEDForecasting: 0.20.0
-AEP: 0.1.2
+AEP: 0.1.4
 AER: 1.2-10
 AEenrich: 1.1.0
 AF: 0.1.5
@@ -210,7 +210,7 @@ AlgebraicHaploPackage: '1.2'
 AlignStat: 1.3.1
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
-AlleleShift: 1.0-2
+AlleleShift: '1.1'
 Allspice: 1.0.5
 AlphaPart: 0.9.5
 AlphaSimR: 1.3.1
@@ -382,7 +382,7 @@ BEST: 0.5.4
 BESTree: 0.5.2
 BET: 0.5.0
 BETS: 0.4.9
-BFS: 0.4.1
+BFS: 0.4.3
 BFpack: 1.0.0
 BGData: 2.4.0
 BGGE: 0.6.5
@@ -2449,7 +2449,7 @@ GRANCore: 0.2.7
 GRAPE: 0.1.1
 GRASS: 0.3-9
 GRCdata: '1.0'
-GREENeR: 0.1.0
+GREENeR: 0.1.1
 GREMLINS: 0.2.0
 GREP2: 1.0.2
 GRNNs: 0.1.0
@@ -4377,6 +4377,7 @@ OmnibusFisher: '1.0'
 OnAge: 1.0.1
 OncoBayes2: 0.8-7
 Oncotree: 0.3.4
+OneArm2stage: 1.1.4
 OneArmPhaseTwoStudy: 1.0.3
 OneHandClapping: '1.5'
 OneR: '2.2'
@@ -5648,7 +5649,7 @@ RcmdrPlugin.TeachStat: 1.1.1
 RcmdrPlugin.TeachingDemos: 1.2-0
 RcmdrPlugin.TextMining: 0.1-0
 RcmdrPlugin.UCA: 5.1-1
-RcmdrPlugin.WorldFlora: '1.1'
+RcmdrPlugin.WorldFlora: '1.2'
 RcmdrPlugin.aRnova: 0.0.5
 RcmdrPlugin.coin: 1.0-23
 RcmdrPlugin.depthTools: '1.4'
@@ -7200,7 +7201,7 @@ VBTree: 0.1.0
 VBmix: 0.3.2
 VBsparsePCA: 0.1.0
 VC2copula: 0.1.2
-VCA: 1.4.4
+VCA: 1.4.5
 VDA: '1.3'
 VDAP: 2.0.0
 VDCutil: '1.15'
@@ -7373,7 +7374,7 @@ WoodburyMatrix: 0.0.1
 WordOfMouth: 1.1.0
 WordPools: 1.1-1
 WordR: 0.3.5
-WorldFlora: '1.10'
+WorldFlora: '1.11'
 Wrapped: '2.0'
 WrensBookshelf: 0.1.0
 WrightMap: '1.3'
@@ -7436,7 +7437,7 @@ ZeligMultilevel: 0.7-1
 ZetaSuite: 1.0.1
 ZillowR: 1.0.0
 ZipRadius: 1.0.1
-Zseq: 0.2.0
+Zseq: 0.2.1
 aBioMarVsuit: '1.0'
 aCGH.Spline: '2.2'
 aCRM: 0.1.1
@@ -9278,7 +9279,7 @@ chromatographR: 0.4.4
 chromer: '0.1'
 chromoMap: 4.1.1
 chromoR: '1.0'
-chromote: 0.1.0
+chromote: 0.1.1
 chromseq: 0.1.3
 chron: 2.3-57
 chronicle: '0.3'
@@ -10707,7 +10708,7 @@ distcrete: 1.0.3
 distdichoR: 0.1-1
 distdrawr: 0.1.3
 distfree.cr: 1.5.1
-distill: '1.4'
+distill: '1.5'
 distillML: 0.1.0.9
 distillery: 1.2-1
 disto: 0.2.0
@@ -10726,7 +10727,7 @@ distreg.vis: 1.7.3
 distribglm: 0.4.1
 distributional: 0.3.1
 distributions: '1.3'
-distributions3: 0.2.0
+distributions3: 0.2.1
 distributionsrd: 0.0.6
 distro: 0.1.0
 distrom: 1.0.1
@@ -10918,6 +10919,7 @@ dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
 dseplus: 2006.4-1
+dsfa: 0.0.3
 dsims: 1.0.1
 dslabs: 0.7.4
 dslice: 1.2.0
@@ -11027,6 +11029,7 @@ eChem: 1.0.0
 eDMA: 1.5-3
 eFRED: 0.1.0
 eGST: 1.0.0
+eHDPrep: 1.2.1
 eHOF: '1.12'
 eLNNpaired: 0.2.3
 eList: 0.2.0
@@ -11794,7 +11797,7 @@ fastTextR: 2.0.0
 fastTopics: 0.6-142
 fastVAR: '1.2'
 fasta: 0.1.0
-fastadi: 0.1.0
+fastadi: 0.1.1
 fastai: 2.2.0
 fastclime: 1.4.1
 fastcluster: 1.2.3
@@ -12345,7 +12348,7 @@ futile.paradigm: 2.0.4
 futility: '0.4'
 future: 1.28.0
 future.BatchJobs: 0.17.0
-future.apply: 1.9.0
+future.apply: 1.9.1
 future.batchtools: 0.10.0
 future.callr: 0.8.0
 future.tests: 0.3.0
@@ -13316,7 +13319,7 @@ grplassocat: '1.0'
 grppenalty: 2.1-0
 grpreg: 3.4.0
 grpregOverlap: 2.2-0
-grpsel: 1.3.0
+grpsel: 1.3.1
 grpseq: '1.0'
 grpss: 3.0.1
 grr: 0.9.5
@@ -13814,7 +13817,7 @@ hypsoLoop: 0.2.0
 hystReet: 0.0.2
 hysteresis: '2.7'
 hzar: 0.2-5
-i18n: 0.1.0
+i18n: 0.2.0
 i2dash: 0.2.3
 i2extras: 0.1.2
 iAR: 1.1.0
@@ -15531,7 +15534,7 @@ mcbiopi: 1.1.6
 mcboost: 0.4.2
 mcc: '1.0'
 mcca: 0.7.0
-mccca: 0.1.0
+mccca: 0.1.1
 mccf1: '1.1'
 mcclust: 1.0.1
 mccmeiv: '2.1'
@@ -16014,7 +16017,7 @@ mlflow: 1.28.0
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
-mlim: 0.0.2
+mlim: 0.0.9
 mljar: 0.1.1
 mlmRev: 1.0-8
 mlma: 6.2-1
@@ -16601,7 +16604,7 @@ nanonext: 0.5.5
 nanop: 2.0-6
 nanostringr: 0.4.0
 nanotime: 0.3.6
-naptanr: 1.0.0
+naptanr: 1.0.1
 naptime: 1.3.0
 nardl: 0.1.6
 narray: 0.5.0
@@ -16685,7 +16688,7 @@ nestedcv: 0.2.3
 nestfs: 1.0.2
 nestr: 0.1.2
 net.security: 0.3.0
-net4pg: 0.1.0
+net4pg: 0.1.1
 netCDF: '1.5'
 netClass: '1.2'
 netClust: 1.0.1
@@ -16819,7 +16822,7 @@ nlist: 0.3.3
 nlme: 3.1-159
 nlmeODE: '1.1'
 nlmeU: 0.70-9
-nlmeVPC: '2.2'
+nlmeVPC: '2.3'
 nlmixr: 2.0.7
 nlmixr2: 2.0.7
 nlmixr2data: 2.0.7
@@ -17093,6 +17096,7 @@ occupancy: '1.2'
 ocd: '1.1'
 oce: 1.7-10
 ocean: 0.2-4
+oceanexplorer: 0.0.1
 oceanic: 0.1.4
 oceanis: 1.8.5
 oceanmap: 0.1.1
@@ -19495,6 +19499,7 @@ relsurv: 2.2-8
 rem: 1.3.1
 remMap: 0.2-0
 rema: 0.0.1
+remaCor: 0.0.9
 remap: 0.3.0
 rematch: 1.0.1
 rematch2: 2.1.2
@@ -19690,7 +19695,7 @@ rhandsontable: 0.3.8
 rhcoclust: 1.1.0
 rheroicons: 0.4.0
 rhierbaps: 1.1.3
-rhino: 1.1.0
+rhino: 1.1.1
 rhli: 0.0.2
 rhmc: 1.0.0
 rhmmer: 0.1.0
@@ -20268,6 +20273,7 @@ rvmethod: 0.1.2
 rvsel: 0.2.1
 rwa: 0.0.3
 rwalkr: 0.5.6
+rwarrior: 0.4.1
 rwars: 1.0.0
 rwavelet: 0.4.1
 rwc: '1.11'
@@ -21133,7 +21139,7 @@ skeletor: 1.0.4
 skellam: 0.2.0
 sketch: 1.1.17
 sketcher: 0.1.3
-sketching: 0.1.1
+sketching: 0.1.2
 sketchy: 1.0.2
 skewMLRM: '1.6'
 skewlmm: 1.0.0
@@ -23374,7 +23380,7 @@ vlda: 1.1.5
 vmd: 0.1.0
 vmdTDNN: 0.1.1
 vmeasur: 0.1.4
-vmr: 0.0.4
+vmr: 0.0.5
 vmsbase: 2.2.1
 vmv: '1.0'
 vntrs: 0.1.0
