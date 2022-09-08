@@ -221,6 +221,7 @@ AmesHousing: 0.0.4
 AmigaFFH: 0.4.1
 AmmoniaConcentration: '0.1'
 AmostraBrasil: '1.2'
+AmoudSurv: 0.1.0
 AmpGram: '1.0'
 AmpliconDuo: 1.1.1
 AmyloGram: '1.1'
@@ -395,7 +396,7 @@ BGmisc: '0.1'
 BH: 1.78.0-0
 BHAI: 0.99.2
 BHH2: 2016.05.31
-BHMSMAfMRI: '1.3'
+BHMSMAfMRI: '2.0'
 BHPMF: '1.0'
 BHSBVAR: 3.0.1
 BHTSpack: '0.6'
@@ -672,7 +673,7 @@ BioVenn: 1.1.3
 BiocManager: 1.30.18
 Biocomb: '0.4'
 Biodem: '0.5'
-BiodiversityR: 2.14-3
+BiodiversityR: 2.14-4
 Biograph: '2.0'
 Bioi: 0.2.10
 Biolinv: 0.1-3
@@ -3139,7 +3140,7 @@ JointNets: 2.0.1
 JointRegBC: 0.1.1
 JudgeIt: 1.5.1
 Julia: 1.3.4
-JuliaCall: 0.17.4
+JuliaCall: 0.17.5
 JuliaConnectoR: 1.1.1
 JumpTest: '1.1'
 JumpeR: 0.3.0
@@ -4167,7 +4168,7 @@ NMOF: 2.7-0
 NMRS: '1.0'
 NMTox: 0.1.0
 NMVANOVA: 1.1.0
-NMdata: 0.0.12
+NMdata: 0.0.13
 NMproject: 0.6.8
 NNLM: 0.4.3
 NNMIS: 1.0.1
@@ -4380,6 +4381,7 @@ OncoBayes2: 0.8-7
 Oncotree: 0.3.4
 OneArm2stage: 1.1.4
 OneArmPhaseTwoStudy: 1.0.3
+OneArmTTE: '1.0'
 OneHandClapping: '1.5'
 OneR: '2.2'
 OneSampleMR: 0.1.2
@@ -4391,7 +4393,7 @@ OpenABMCovid19: '1.0'
 OpenCL: 0.2-2
 OpenImageR: 1.2.5
 OpenLand: 1.0.2
-OpenML: '1.10'
+OpenML: '1.9'
 OpenMPController: 0.2-5
 OpenMx: 2.20.6
 OpenRepGrid: 0.1.12
@@ -4960,7 +4962,7 @@ QSARdata: '1.3'
 QT: '1.3'
 QTL.gCIMapping: '3.4'
 QTL.gCIMapping.GUI: 2.1.1
-QTLEMM: 1.1.0
+QTLEMM: 1.1.2
 QTLNetworkR: 0.1-7
 QTLRel: '1.11'
 QTOCen: 0.1.1
@@ -5381,7 +5383,7 @@ RPCLR: '1.0'
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.1
 RPEIF: 1.2.4
-RPESE: 1.2.4
+RPESE: 1.2.5
 RPEXE.RPEXT: 0.0.2
 RPEnsemble: '0.5'
 RPMG: 2.2-3
@@ -7331,7 +7333,7 @@ WaveCD: '1.0'
 WaveCGH: '2.01'
 WaveLetLongMemory: 0.1.2
 WaveSampling: 0.1.3
-WaveletANN: 0.1.0
+WaveletANN: 0.1.2
 WaveletArima: 0.1.2
 WaveletCo: '1.0'
 WaveletComp: '1.1'
@@ -7737,7 +7739,7 @@ amapro: 0.1.1
 amba: 0.3.1
 amber: 1.0.3
 ambhasGW: 0.0.2
-ambient: 1.0.1
+ambient: 1.0.2
 ambiorix: 2.1.0
 ambit: 0.1.2
 ameco: '0.2'
@@ -7754,7 +7756,7 @@ amp: 1.0.0
 ampd: '0.2'
 ampir: 1.1.0
 amt: 0.1.7
-anMC: 0.2.2
+anMC: 0.2.3
 anacor: 1.1-4
 anaglyph: 0.1-1
 analogsea: 1.0.6
@@ -8005,7 +8007,7 @@ asymmetry: 2.0.4
 asymmetry.measures: '0.2'
 asympTest: 0.1.4
 asymptor: '1.0'
-async: 0.2.1
+async: 0.2.2
 asypow: 2015.6.25
 ata: 1.1.1
 atable: 0.1.11
@@ -9369,7 +9371,7 @@ clere: 1.2.0
 clespr: 1.1.2
 clevr: 0.1.1
 clhs: 0.9.0
-cli: 3.3.0
+cli: 3.4.0
 cliapp: 0.1.1
 clickR: 0.8.0
 clickstream: 1.3.1
@@ -10491,7 +10493,7 @@ depth.plot: '0.1'
 depthTools: '0.7'
 dequer: 2.0-2
 derivmkts: 0.2.5
-desc: 1.4.1
+desc: 1.4.2
 descomponer: '1.6'
 descr: 1.1.5
 describedata: 0.1.0
@@ -10527,7 +10529,7 @@ detrendr: 0.6.14
 detzrcr: 0.3.1
 devEMF: '4.1'
 devFunc: '0.1'
-devRate: 0.2.2
+devRate: 0.2.3
 devoid: 0.1.1
 devtoolbox: 0.2.0
 devtools: 2.4.4
@@ -12111,7 +12113,7 @@ fmriqa: 0.3.0
 fmrs: 1.0-9
 fmsb: 0.7.3
 fmt: '2.0'
-fmtr: 1.5.8
+fmtr: 1.5.9
 foba: '0.1'
 focusedMDS: 1.3.3
 foghorn: 1.4.2
@@ -12258,7 +12260,7 @@ frequentistSSD: 0.1.1
 freqweights: 1.0.4
 fresh: 0.2.0
 freshr: 1.0.1
-frictionless: 1.0.0
+frictionless: 1.0.1
 friends: 0.1.0
 frite: 0.1.0
 fritools: 3.7.0
@@ -12788,13 +12790,13 @@ ggRandomForests: 2.2.1
 ggResidpanel: 0.3.0
 ggThemeAssist: 0.1.5
 ggTimeSeries: 1.0.2
-ggVennDiagram: 1.2.0
+ggVennDiagram: 1.2.2
 ggalignment: 1.0.0
 ggallin: 0.1.1
 ggalluvial: 0.12.3
 ggalt: 0.4.0
 ggamma: 1.0.1
-gganimate: 1.0.7
+gganimate: 1.0.8
 ggarchery: 0.4.1
 ggasym: 0.1.6
 ggbeeswarm: 0.6.0
@@ -12957,7 +12959,7 @@ ggvis: 0.4.7
 ggvoronoi: 0.8.5
 ggwordcloud: 0.5.0
 ggx: 0.1.1
-gh: 1.3.0
+gh: 1.3.1
 ghclass: 0.2.1
 ghcm: 3.0.0
 ghee: 0.1.0
@@ -12986,7 +12988,7 @@ gistr: 0.9.0
 git2r: 0.30.1
 git2rdata: 0.4.0
 git4r: 0.1.2
-gitcreds: 0.1.1
+gitcreds: 0.1.2
 gitdown: 0.1.6
 gitear: 1.0.0
 gitgadget: 0.7.5
@@ -13261,7 +13263,7 @@ gremes: 0.1.0
 gremlin: 1.0.1
 gren: 0.0.1
 greport: 0.7-2
-greta: 0.4.2
+greta: 0.4.3
 greta.dynamics: 0.2.0
 greta.gp: 0.2.0
 gretel: 0.0.1
@@ -14031,7 +14033,7 @@ imgpalr: 0.3.1
 imgrec: 0.1.3
 imguR: 1.0.3
 imgw: 0.3.0
-iml: 0.11.0
+iml: 0.11.1
 immcp: 1.0.3
 immer: 1.4-15
 immunarch: 0.7.0
@@ -14906,7 +14908,7 @@ lfactors: 1.0.4
 lfc: 0.2.2
 lfda: 1.1.3
 lfe: 2.8-8
-lfl: 2.1.2
+lfl: 2.2.0
 lfmm: '1.1'
 lfstat: 0.9.4
 lg: 0.4.1
@@ -14928,7 +14930,7 @@ libbib: 1.6.3
 libcoin: 1.0-9
 libgeos: 3.11.0-1
 libproj: 8.1.0-1
-libr: 1.2.5
+libr: 1.2.8
 librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: 0.7.3
@@ -15385,7 +15387,7 @@ mapedit: 0.6.0
 mapfit: 0.9.9
 mapfuser: 0.1.2
 mapi: 1.0.5
-mapiso: 0.1.2
+mapiso: 0.2.0
 maple: 0.99.5
 mapme.biodiversity: 0.2.0
 mapmisc: 1.8.0
@@ -15752,7 +15754,7 @@ meteo: 0.1-5
 meteoEVT: 0.1.0
 meteoForecast: '0.54'
 meteogRam: '1.0'
-meteoland: 1.0.2
+meteoland: 1.0.3
 meteor: 0.3-4
 meteorits: 0.1.1
 meteospain: 0.0.4
@@ -15788,7 +15790,7 @@ mgcv: 1.8-40
 mgee2: '0.2'
 mggd: 1.0.2
 mglR: 0.1.0
-mglasso: 0.1.1
+mglasso: 0.1.2
 mglmn: 0.1.0
 mgm: 1.2-13
 mgpd: '1.99'
@@ -16090,7 +16092,7 @@ mmm: '1.4'
 mmm2: '1.2'
 mmmgee: '1.20'
 mmod: 1.3.3
-mmpca: 2.0.1
+mmpca: 2.0.2
 mmpf: 0.0.5
 mmpp: '0.6'
 mmppr: '0.1'
@@ -17253,7 +17255,7 @@ opitools: 1.8.0
 opm: 1.1.0
 opmdata: 0.7.0
 oposSOM: 0.2-3
-oppr: 1.0.3
+oppr: 1.0.4
 ops: '1.0'
 optAUC: '1.0'
 optBiomarker: 1.0-28
@@ -17362,7 +17364,7 @@ osd: '0.1'
 osfr: 0.2.8
 oshka: 0.1.2
 osi: 0.1.0
-oskeyring: 0.1.3
+oskeyring: 0.1.4
 osmar: 1.1-7
 osmdata: 0.1.10
 osmextract: 0.4.1
@@ -17428,7 +17430,7 @@ pCalibrate: 0.2-1
 pETM: 0.1.5
 pGLS: 0.0-1
 pGMGM: '1.0'
-pGPx: 0.1.1
+pGPx: 0.1.2
 pKSEA: 0.0.1
 pMineR: '0.31'
 pRF: '1.2'
@@ -18005,12 +18007,12 @@ pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.2
 pkgbuild: 1.3.1
-pkgcache: 2.0.1
+pkgcache: 2.0.2
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
-pkgdepends: 0.3.1
+pkgdepends: 0.3.2
 pkgdown: 2.0.6
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
@@ -18527,7 +18529,7 @@ proton: '1.0'
 protoshiny: 0.1.0
 prototest: '1.2'
 protr: 1.6-2
-protti: 0.3.1
+protti: 0.4.0
 proustr: 0.4.0
 provDebugR: 1.0.1
 provExplainR: 1.1.1
@@ -19883,7 +19885,7 @@ rnn: 1.8.0
 rnoaa: 1.3.8
 rnpn: 1.2.5
 rnr: 0.2.1
-rnrfa: 2.0.6
+rnrfa: 2.1.0
 roadoi: 0.7.2
 roads: 1.0.0
 roahd: 1.4.3
@@ -19912,7 +19914,7 @@ robregcc: '1.1'
 robsel: 0.1.0
 robservable: 0.2.2
 robslopes: 1.1.1
-robsurvey: '0.3'
+robsurvey: '0.4'
 robumeta: '2.0'
 robust: 0.7-1
 robust2sls: 0.2.1
@@ -20163,7 +20165,7 @@ rsqliteadmin: 1.0.1
 rstac: 0.9.1-5
 rstack: 1.0.0
 rstackdeque: 1.1.1
-rstan: 2.21.5
+rstan: 2.21.7
 rstanarm: 2.21.3
 rstanemax: 0.1.3
 rstansim: 0.1.1
@@ -20425,7 +20427,7 @@ sarima: 0.9.1
 sarp.snowprofile: 1.3.1
 sarp.snowprofile.alignment: 1.2.1
 sars: 1.3.5
-sarsop: 0.6.9
+sarsop: 0.6.10
 sas7bdat: '0.6'
 sasLM: 0.9.1
 sasMap: 1.0.0
@@ -20546,7 +20548,7 @@ scoringTools: 0.1.2
 scoringutils: 1.0.1
 scout: 1.0.4
 scphaser: 1.0.0
-scpi: 0.2.1
+scpi: 1.0.0
 scpm: 2.0.0
 scpoisson: 0.0.1
 scqe: 1.0.0
@@ -20750,6 +20752,7 @@ seqRFLP: 1.0.1
 seqest: 1.0.1
 seqgendiff: 1.2.3
 seqhandbook: 0.1.0
+seqimpute: '1.7'
 seqinr: 4.2-16
 seqmagick: 0.1.5
 seqminer: '8.4'
@@ -21406,7 +21409,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 2.1.0
+spant: 2.2.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -21809,7 +21812,7 @@ statisfactory: 1.0.1
 statisticalModeling: 0.3.0
 statmod: 1.4.37
 statnet: '2019.6'
-statnet.common: 4.6.0
+statnet.common: 4.7.0
 statnetWeb: 0.5.6
 statnipokladna: 0.7.0
 statoo: 0.1.3
@@ -22251,7 +22254,7 @@ tabplotd3: 0.3.3
 tabr: 0.4.5
 tabshiftr: 0.3.2
 tabuSearch: 1.1.1
-tabula: 1.7.0
+tabula: 1.8.0
 tabularMLC: 0.0.3
 tabularaster: 0.7.0
 tabularmaps: 0.1.0
@@ -22405,7 +22408,7 @@ texreg: 1.38.6
 text: 0.9.90
 text.alignment: 0.1.3
 text2map: 0.1.6
-text2sdg: 0.1.5
+text2sdg: 0.1.6
 text2speech: 0.2.13
 text2vec: 0.6.1
 textTinyR: 1.1.7
@@ -22554,7 +22557,7 @@ tidypredict: 0.4.9
 tidyquant: 1.0.4
 tidyquery: 0.2.3
 tidyqwi: 0.1.2
-tidyr: 1.2.0
+tidyr: 1.2.1
 tidyrules: 0.1.5
 tidyselect: 1.1.2
 tidyseurat: 0.5.3
@@ -23457,7 +23460,7 @@ walkscoreAPI: '1.2'
 wallace: 1.1.3
 wally: 1.0.10
 walmartAPI: 0.1.5
-walrus: 1.0.4
+walrus: 1.0.5
 wand: 0.5.0
 warabandi: 0.1.0
 warbleR: 1.1.27
@@ -23516,7 +23519,7 @@ webdeveloper: 1.0.3
 webdriver: 1.0.6
 webex: 0.9.2
 webexercises: 1.0.0
-webfakes: 1.1.3
+webfakes: 1.1.4
 webglobe: 1.0.3
 webmockr: 0.8.2
 webmorphR: 0.1.1
@@ -23609,7 +23612,7 @@ windAC: 1.2.8
 windex: 2.0.3
 windfarmGA: 3.0.0
 windsoraiR: 0.1.2
-winfapReader: 0.1-3
+winfapReader: 0.1-5
 wingui: '0.2'
 wiod: 0.3.0
 wiqid: 0.3.1
@@ -23859,7 +23862,7 @@ zfa: '1.0'
 zfit: 0.3.0
 zic: 0.9.1
 zicounts: 1.1.5
-zip: 2.2.0
+zip: 2.2.1
 zipR: 0.1.1
 zipangu: 0.3.1
 zipcode: '1.0'
