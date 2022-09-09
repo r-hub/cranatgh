@@ -1407,7 +1407,7 @@ DGEobj.utils: 1.0.6
 DGLMExtPois: 0.2.0
 DGM: 1.7.4
 DGVM3D: 1.0.0
-DHARMa: 0.4.5
+DHARMa: 0.4.6
 DHBins: '1.1'
 DHS.rates: 0.9.1
 DICOM: '0.1'
@@ -1746,7 +1746,7 @@ EDA: '1.3'
 EDFIR: '1.0'
 EDFtest: 0.1.0
 EDISON: 1.1.1
-EDIutils: 1.0.1
+EDIutils: 1.0.2
 EDMeasure: 1.2.0
 EDNE.EQ: '1.0'
 EDOIF: 0.1.3
@@ -3083,6 +3083,7 @@ IsoplotRgui: '4.4'
 IsoriX: 0.8.2
 IsotopeR: 0.5.4
 ItemResponseTrees: 0.2.5
+IterativeHardThresholding: 1.0.2
 IxPopDyMod: 0.2.0
 J4R: 1.0.8
 JADE: 2.0-3
@@ -3214,7 +3215,7 @@ L0Learn: 2.0.3
 L1mstate: 1.0.1
 L1pack: '0.41'
 L2DensityGoFtest: 0.5.0
-L2E: '1.0'
+L2E: '2.0'
 LA: '2.1'
 LAGOSNE: 2.0.2
 LAM: 0.6-19
@@ -5842,7 +5843,7 @@ Rfmtool: 4.1.8
 Rfolding: '1.0'
 Rforestry: 0.9.0.116
 Rfractran: '1.0'
-Rfssa: 2.0.1
+Rfssa: 2.1.0
 Rfun: '1.0'
 Rfwdmv: '0.7'
 Rga4gh: 0.1.1
@@ -7379,6 +7380,7 @@ WordOfMouth: 1.1.0
 WordPools: 1.1-1
 WordR: 0.3.5
 WorldFlora: '1.11'
+WormTensor: 0.1.0
 Wrapped: '2.0'
 WrensBookshelf: 0.1.0
 WrightMap: '1.3'
@@ -8197,7 +8199,7 @@ basedosdados: 0.2.1
 baseflow: 0.13.2
 basefun: 1.1-3
 baseline: 1.3-4
-basemaps: 0.0.1
+basemaps: 0.0.4
 basetheme: 0.1.2
 basf: 0.2.0
 basicMCMCplots: 0.2.7
@@ -9145,7 +9147,7 @@ cellpypes: 0.1.3
 cellranger: 1.1.0
 celltrackR: 1.1.0
 celsius: 1.0.7
-cem: 1.1.30
+cem: 1.1.31
 cemco: '0.1'
 cems: '0.4'
 cenGAM: 0.5.3
@@ -11298,7 +11300,7 @@ emil: 2.2.8
 emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 1.8.0
+emmeans: 1.8.1-1
 emoa: 0.5-0.1
 emoji: 0.2.0
 emojifont: 0.5.5
@@ -12336,7 +12338,7 @@ funprog: 0.3.0
 funr: 0.3.2
 funrar: 1.4.1
 funreg: 1.2.2
-funtimes: '8.2'
+funtimes: '9.0'
 furniture: 1.9.12
 furrr: 0.3.1
 fusedest: '1.3'
@@ -13097,7 +13099,7 @@ gmatrix: '0.3'
 gmediation: 0.1.1
 gmeta: 2.3-1
 gmfd: 1.0.1
-gmgm: 1.1.1
+gmgm: 1.1.2
 gmm: '1.7'
 gmnl: 1.1-3.2
 gmodels: 2.18.1.1
@@ -13739,7 +13741,7 @@ htmlwidgets: 1.5.4
 htree: 2.0.0
 hts: 6.0.2
 htsr: 1.1.4
-httk: 2.1.0
+httk: 2.2.0
 httpRequest: 0.0.11
 httpcache: 1.2.0
 httpcode: 0.3.0
@@ -13748,7 +13750,7 @@ httping: 0.2.0
 httpproblems: 1.0.1
 httptest: 4.1.0
 httptest2: 0.1.0
-httpuv: 1.6.5
+httpuv: 1.6.6
 httr: 1.4.4
 httr2: 0.2.1
 hubeau: 0.3.1
@@ -13939,7 +13941,7 @@ icesSAG: 1.4.0
 icesSD: 2.0.0
 icesTAF: 4.0.0
 icesVocab: 1.2.0
-ichimoku: 1.3.4
+ichimoku: 1.4.0
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -14713,7 +14715,7 @@ labstatR: 1.0.13
 labstats: 1.0.1
 lacm: 0.1.1
 lacrmr: 1.0.5
-lactater: 0.1.0
+lactater: 0.1.1
 lactcurves: 1.1.0
 lacunaritycovariance: 1.1-3
 laeken: 0.5.2
@@ -14746,7 +14748,7 @@ languageserver: 0.3.13
 languageserversetup: 0.1.2
 lans2r: 1.1.0
 lar: 0.1-2
-lares: 5.1.3
+lares: 5.1.4
 largeList: 0.3.1
 largeVis: '0.2'
 lars: '1.3'
@@ -15436,7 +15438,7 @@ markerSearchPower: '1.0'
 markerpen: 0.1.1
 marketeR: 0.1.1
 marketr: 0.0.2
-markets: 1.1.0
+markets: 1.1.2
 markmyassignment: 0.8.6
 markophylo: 1.0.8
 markovMSM: 0.1.0
@@ -17190,6 +17192,7 @@ onlineVAR: 0.1-1
 onlineforecast: 1.0.1
 onlineretail: 0.1.2
 onls: 0.1-1
+onmaRg: 0.1.0
 onnx: 0.0.3
 onpoint: 1.0.2
 onsr: 1.0.1
@@ -17485,7 +17488,7 @@ pairsD3: 0.1.3
 pairwise: 0.6.0-0
 pairwiseCI: 0.1-27
 pairwiseComparisons: 3.2.0
-pak: 0.3.0
+pak: 0.3.1
 palaeoSig: 2.0-3
 palasso: 0.0.8
 pald: 0.0.2
@@ -19047,7 +19050,7 @@ radarBoxplot: 1.0.5
 radarchart: 0.3.1
 radiant: 1.4.4
 radiant.basics: 1.4.4
-radiant.data: 1.4.4
+radiant.data: 1.4.5
 radiant.design: 1.4.4
 radiant.model: 1.4.7
 radiant.multivariate: 1.4.4
@@ -20184,6 +20187,7 @@ rsubgroup: '1.1'
 rsunlight: 0.7.0
 rsurface: 1.1.0
 rsurfer: '0.2'
+rsurveycto: 0.0.5
 rsvd: 1.0.5
 rsvddpd: 1.0.0
 rsvg: 2.3.1
@@ -20504,7 +20508,7 @@ scatterD3: 1.0.1
 scatterPlotMatrix: 0.2.0
 scattermore: '0.8'
 scatterpie: 0.1.8
-scatterplot3d: 0.3-41
+scatterplot3d: 0.3-42
 scbursts: '1.6'
 scclust: 0.2.2
 sccore: 1.0.2
@@ -22554,7 +22558,7 @@ tidyplus: 0.0.1
 tidypmc: '1.7'
 tidyposterior: 1.0.0
 tidypredict: 0.4.9
-tidyquant: 1.0.4
+tidyquant: 1.0.5
 tidyquery: 0.2.3
 tidyqwi: 0.1.2
 tidyr: 1.2.1
