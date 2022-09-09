@@ -1346,6 +1346,7 @@ DBHC: 0.0.2
 DBI: 1.1.3
 DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
+DBIsqldf: 0.9.9-2
 DBItest: 1.7.2
 DBKGrad: '1.7'
 DBNMFrank: 0.1.0
@@ -1712,7 +1713,7 @@ DySeq: '0.22'
 Dykstra: 1.0-0
 DynClust: '3.24'
 DynComm: 2020.1.6
-DynNom: 5.0.1
+DynNom: 5.0.2
 DynTxRegime: '4.10'
 DynaRankR: 1.1.0
 DynamicDistribution: '1.1'
@@ -1969,7 +1970,7 @@ EventDetectGUI: 0.3.0
 EventDetectR: 0.3.5
 EventStudy: '0.37'
 EventWinRatios: 1.0.0
-EvidenceSynthesis: 0.2.3
+EvidenceSynthesis: 0.3.0
 EviewsR: 0.1.5
 EvoPhylo: '0.3'
 EvoRAG: '2.0'
@@ -1998,6 +1999,7 @@ ExpAnalysis3d: 0.1.1
 ExpDE: 0.1.4
 ExpDes: 1.2.2
 ExpDes.pt: 1.2.2
+ExpGenetic: 0.1.0
 ExpImage: 0.6.0
 ExpRep: '1.0'
 ExpertChoice: 0.2.0
@@ -2137,7 +2139,7 @@ FacPad: '3.0'
 FactMixtAnalysis: '1.0'
 FactoClass: 1.2.7
 FactoInvestigate: '1.8'
-FactoMineR: '2.5'
+FactoMineR: '2.6'
 FactoRizationMachines: '0.35'
 FactorAssumptions: 2.0.1
 FactorCopula: 0.8.1
@@ -3104,7 +3106,7 @@ JM: 1.5-2
 JMI: 0.1.0
 JMLSD: '1.0'
 JMbayes: 0.8-85
-JMbayes2: 0.2-8
+JMbayes2: 0.3-0
 JMcmprsk: '0.9'
 JMdesign: '1.3'
 JOP: '3.6'
@@ -6933,6 +6935,7 @@ TSclust: 1.3.1
 TScompare: 2015.4-1
 TSdata: 2016.8-1
 TSdbi: 2017.4-1
+TSdeeplearning: 0.1.0
 TSdisaggregation: 2.0.0
 TSdist: 3.7.1
 TSeriesMMA: 0.1.1
@@ -7304,7 +7307,7 @@ WGCNA: '1.71'
 WGScan: '0.1'
 WHO: '0.2'
 WINRPACK: 1.1-0
-WINS: '1.2'
+WINS: '1.3'
 WLasso: '1.0'
 WLinfer: 1.2.0
 WLogit: '1.0'
@@ -7713,6 +7716,7 @@ alleHap: 0.9.9
 allelematch: 2.5.1
 allelic: '0.1'
 allestimates: 0.2.2
+allhomes: 0.3.0
 alluvial: 0.1-2
 alm: 0.4.0
 almanac: 0.1.1
@@ -8193,7 +8197,7 @@ base64: 2.0.1
 base64enc: 0.1-3
 base64url: '1.4'
 baseballDBR: 0.1.2
-baseballr: 1.2.0
+baseballr: 1.3.0
 basecamb: 1.1.0
 basedosdados: 0.2.1
 baseflow: 0.13.2
@@ -8519,6 +8523,7 @@ bindr: 0.1.1
 bindrcpp: 0.2.2
 binequality: 1.0.4
 binford: 0.1.0
+binfunest: 0.1.0
 bingat: '1.3'
 binhf: 1.0-3
 binman: 0.1.3
@@ -11957,6 +11962,7 @@ fifer: '1.1'
 fiftystater: 1.0.1
 fig: 1.0.0
 figpatch: '0.2'
+figuRes2: 1.0.0
 file2meco: 0.4.0
 filearray: 0.1.4
 filebin: 0.0.5
@@ -14065,7 +14071,7 @@ imputeMulti: 0.8.3
 imputePSF: 0.1.0
 imputeR: '2.2'
 imputeREE: 0.0.1
-imputeTS: '3.2'
+imputeTS: '3.3'
 imputeTestbench: 3.0.3
 imputeYn: '1.3'
 imsig: 1.1.3
@@ -14266,7 +14272,7 @@ ipr: 0.1.0
 ipred: 0.9-13
 iprior: 0.7.3
 ips: 0.0.11
-ipsecr: 1.2.0
+ipsecr: 1.3.0
 ipsfs: 1.0.0
 iptmnetr: 0.1.8
 iptools: 0.7.2
@@ -14761,6 +14767,7 @@ lassoshooting: 0.1.5-1.1
 last.call: 0.1.3
 lasvmR: '0.1'
 latdiag: '0.3'
+latentFactoR: 0.0.2
 latentcor: 2.0.1
 latentgraph: '1.1'
 latentnet: 2.10.6
@@ -14941,7 +14948,7 @@ lidR: 4.0.1
 lidaRtRee: 4.0.3
 lifecontingencies: 1.3.9
 lifecourse: '2.0'
-lifecycle: 1.0.1
+lifecycle: 1.0.2
 lifelogr: 0.1.0
 lift: 0.0.2
 liftLRD: 1.0-8
@@ -15307,6 +15314,7 @@ machQA: 0.1.4
 machina: 0.1.6
 macleish: 0.3.9
 maclogp: 0.1.1
+macrocol: 0.1.0
 macs: '1.0'
 mactivate: 0.6.6
 maczic: 0.2.0
@@ -15369,7 +15377,7 @@ manipulate: 1.0.1
 manipulateWidget: 0.11.1
 manydata: 0.7.5
 manymodelr: 0.3.7
-manymome: 0.1.4.0
+manymome: 0.1.4.3
 maotai: 0.2.4
 mapDK: 0.3.0
 mapLD: 1.0-1
@@ -15391,7 +15399,7 @@ mapfuser: 0.1.2
 mapi: 1.0.5
 mapiso: 0.2.0
 maple: 0.99.5
-mapme.biodiversity: 0.2.0
+mapme.biodiversity: 0.2.1
 mapmisc: 1.8.0
 mapping: '1.3'
 mappings: '0.1'
@@ -15703,7 +15711,7 @@ metaSEM: 1.2.5.1
 metaSurvival: 0.1.0
 metaboData: 0.6.3
 metaboGSE: 1.2.5
-metabolic: 0.1.0
+metabolic: 0.1.1
 metabolighteR: 0.1.3
 metabolomics: 0.1.4
 metabolomicsR: 1.0.0
@@ -16219,6 +16227,7 @@ monreg: 0.1.4
 moodleR: 1.0.1
 moonBook: 0.3.1
 moonsun: '0.1'
+moose: 0.0.1
 mopa: 1.0.1
 mopac: 0.1.0
 mopsocd: 0.5.1
@@ -16288,7 +16297,7 @@ mpt: 0.8-0
 mptools: 1.0.1
 mpwR: 0.1.0
 mr: '0.1'
-mr.pivw: 0.1.0
+mr.pivw: 0.1.1
 mr.raps: '0.2'
 mrMLM: 5.0.1
 mrMLM.GUI: 4.0.2
@@ -18586,7 +18595,7 @@ psy: '1.2'
 psycModel: 0.4.0
 psych: 2.2.5
 psychNET: 0.0.4
-psychReport: 3.0.1
+psychReport: 3.0.2
 psychTools: 2.2.5
 psychmeta: 2.6.5
 psychmetadata: 1.0.0
@@ -19052,7 +19061,7 @@ radiant: 1.4.4
 radiant.basics: 1.4.4
 radiant.data: 1.4.5
 radiant.design: 1.4.4
-radiant.model: 1.4.7
+radiant.model: 1.4.8
 radiant.multivariate: 1.4.4
 radiomics: 0.1.3
 radir: 1.0.4
@@ -21335,7 +21344,7 @@ soma: 1.2.0
 someKfwer: '1.2'
 someMTP: 1.4.1.1
 somebm: '0.1'
-sommer: 4.1.8
+sommer: 4.1.9
 somplot: 1.6.4
 somspace: 1.0.0
 sonar: 1.0.2
@@ -21682,6 +21691,7 @@ sqliteutils: 0.1.0
 sqlparseR: 0.1.0
 sqlscore: 0.1.4
 sqlshare: 1.0.3
+sqlstrings: 1.0.0
 sqlutils: '1.2'
 sqp: '0.5'
 squant: 1.1.4
@@ -22904,7 +22914,7 @@ truncSP: 1.2.2
 truncdist: 1.0-2
 truncgof: 0.6-0
 truncnorm: 1.0-8
-truncnormbayes: 0.0.1
+truncnormbayes: 0.0.2
 truncreg: 0.2-5
 trundler: 0.1.19
 trust: 0.1-8
@@ -23136,7 +23146,7 @@ untb: 1.7-4
 unusualprofile: 0.1.0
 unvotes: 0.3.0
 upclass: '2.0'
-updater: 0.1.0
+updater: 0.1.1
 updog: 2.1.2
 uplift: 0.3.5
 uplifteval: 0.1.0
@@ -23577,7 +23587,7 @@ wheatmap: 0.2.0
 whereami: 0.1.9
 whereport: '0.1'
 whiboclustering: 0.1.2
-whippr: 0.1.0
+whippr: 0.1.2
 whisker: '0.4'
 whitebox: 2.1.5
 whitechapelR: 0.3.0
@@ -23612,7 +23622,7 @@ wildviz: 0.1.2
 wilson: 2.4.2
 winRatioAnalysis: 0.1.1
 winch: 0.0.9
-windAC: 1.2.8
+windAC: 1.2.9
 windex: 2.0.3
 windfarmGA: 3.0.0
 windsoraiR: 0.1.2
@@ -23647,7 +23657,7 @@ wooldridge: 1.4-2
 worcs: 0.1.10
 word.alignment: '1.1'
 word2vec: 0.3.4
-wordbankr: 0.3.1
+wordbankr: 1.0.0
 wordcloud: '2.6'
 wordcloud2: 0.2.1
 wordgraph: 0.1.0
@@ -23839,7 +23849,7 @@ youtubecaption: 1.0.0
 yowie: 0.1.0
 ypr: 0.6.0
 ypssc: 1.1.0
-yuima: 1.15.3
+yuima: 1.15.15
 yuimaGUI: 1.3.1
 yulab.utils: 0.0.5
 yum: 0.1.0
