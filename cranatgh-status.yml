@@ -2883,11 +2883,11 @@ IDF: 2.1.2
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
-IDSL.IPA: '2.1'
+IDSL.IPA: '2.2'
 IDSL.MXP: '1.5'
 IDSL.SUFA: '1.0'
-IDSL.UFA: '1.4'
-IDSL.UFAx: '1.4'
+IDSL.UFA: '1.5'
+IDSL.UFAx: '1.5'
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -3210,7 +3210,7 @@ KoboconnectR: 1.1.1
 KoulMde: 3.2.1
 Kpart: 1.2.2
 KraljicMatrix: 0.2.1
-KrigInv: 1.4.1
+KrigInv: 1.4.2
 KsPlot: '1.3'
 Kurt: '1.1'
 L0Learn: 2.0.3
@@ -4023,7 +4023,7 @@ Monte.Carlo.se: 0.1.0
 MonteCarlo: 1.0.6
 MonteCarloSEM: 0.0.5
 MoonFinder: 1.0.3
-Morpho: '2.9'
+Morpho: '2.10'
 MorphoTools2: 1.0.0.0
 Morphoscape: 1.0.0
 MorseGen: '1.2'
@@ -4605,7 +4605,7 @@ PPQplan: 1.1.0
 PPRL: 0.3.7
 PPSFS: 0.1.0
 PPTcirc: 0.2.3
-PPforest: 0.1.2
+PPforest: 0.1.3
 PPtree: 2.3.0
 PPtreeViz: 2.0.4
 PQLseq: 1.2.1
@@ -7915,7 +7915,7 @@ argus: '0.1'
 ari: 0.3.5
 ariExtra: 0.3.1
 aricode: 1.0.1
-arkdb: 0.0.15
+arkdb: 0.0.16
 arkhe: 0.5.0
 arm: 1.13-1
 armada: 0.1.0
@@ -9098,7 +9098,7 @@ ccafs: 0.3.0
 ccboost: 0.1-1.3
 cccd: '1.6'
 cccm: 0.1.0
-cccp: 0.2-7
+cccp: 0.2-9
 cccrm: 2.1.0
 ccda: 1.1.1
 ccdf: 1.1.4
@@ -9491,7 +9491,7 @@ cmdfun: 1.0.2
 cmenet: 0.1.2
 cmfilter: 0.9.1
 cmfrec: 3.4.3
-cmhc: 0.2.0
+cmhc: 0.2.1
 cml: 0.0.5
 cmm: '0.12'
 cmmr: 0.1.2
@@ -9978,7 +9978,7 @@ crassmat: 0.0.6
 crawl: 2.2.1
 crayon: 1.5.1
 crblocks: 1.0-0
-crch: 1.1-0
+crch: 1.1-1
 crctStepdown: 0.2.1
 credentials: 1.3.2
 creditmodel: 1.3.1
@@ -11884,7 +11884,7 @@ fdapaceShiny: 1.0.5
 fdasrvf: 1.9.8
 fdatest: 2.1.1
 fdcov: 1.1.0
-fddm: 0.5-1
+fddm: 0.5-2
 fdim: 1.0-7
 fdistr: 0.1.0
 fdm2id: 0.9.6
@@ -13443,7 +13443,7 @@ hackeRnews: 0.1.0
 hacks: 0.1-9
 hacksaw: 0.0.2
 hacksig: 0.1.2
-hadron: 3.1.2
+hadron: 3.2.0
 hagis: 3.1.4
 hail: 0.1.1
 hakaiApi: 1.0.2
@@ -13707,7 +13707,7 @@ hover: 0.1.1
 howManyImputations: 0.2.3
 howler: 0.2.0
 howmany: 0.3-1
-howzatR: 1.0.0
+howzatR: 1.0.1
 hpa: 1.2.1
 hpackedbubble: 0.1.0
 hpcwld: 0.6-5
@@ -15975,7 +15975,7 @@ mixchar: 0.1.0
 mixcure: '2.0'
 mixdir: 0.3.0
 mixdist: 0.5-5
-mixedCCA: 1.5.2
+mixedCCA: 1.6.2
 mixedClust: 1.0.2
 mixedMem: 1.1.2
 mixedQF: '0.3'
@@ -17148,7 +17148,7 @@ oem: 2.0.10
 oenb: 0.0.2
 ofGEM: '1.0'
 officedown: 0.2.4
-officer: 0.4.3
+officer: 0.4.4
 offlineChange: 0.0.4
 ofp: 1.0.0
 ofw: 1.0-0
@@ -18326,7 +18326,7 @@ powerbiR: 0.1.0
 powerbydesign: 1.0.5
 powerjoin: 0.0.1
 powerlmm: 0.4.0
-powerly: 1.7.4
+powerly: 1.8.6
 powerpkg: '1.6'
 powerplus: '3.1'
 powerr: 0.1-3
@@ -18782,7 +18782,7 @@ qrng: 0.0-8
 qrnn: 2.0.5
 qrsvm: 0.2.1
 qs: 0.25.4
-qsimulatR: '1.0'
+qsimulatR: '1.1'
 qsort: 0.2.3
 qsplines: 1.0.0
 qst: 0.1.2
@@ -20503,7 +20503,7 @@ scaleboot: 1.0-1
 scales: 1.2.1
 scalpel: 1.0.3
 scalreg: 1.0.1
-scam: 1.2-12
+scam: 1.2-13
 scan: '0.55'
 scanstatistics: 1.0.1
 scapGNN: 0.1.1
@@ -22712,7 +22712,7 @@ tmvtnsim: 0.1.2
 tnam: '1.6'
 tnet: 3.0.16
 toOrdinal: 1.3-0.0
-toRvik: 1.0.2
+toRvik: 1.1.0
 toaster: 0.5.5
 toastui: 0.2.1
 tobit1: 0.1-3
