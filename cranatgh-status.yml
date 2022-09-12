@@ -729,6 +729,7 @@ BootstrapQTL: 1.0.5
 Boptbd: 1.0.5
 Boruta: 7.0.0
 BosonSampling: 0.1.3
+BoundEdgeworth: 0.1.1
 BoutrosLab.plotting.general: 7.0.3
 BradleyTerry: 0.8-8
 BradleyTerry2: 1.1-2
@@ -2773,7 +2774,7 @@ HardyWeinberg: 1.7.5
 HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
 HazardDiff: 0.1.0
-HeckmanEM: 0.1.2
+HeckmanEM: 0.1.3
 HellCor: '1.3'
 HelpersMG: '5.6'
 HeritSeq: 1.0.2
@@ -3082,7 +3083,7 @@ IsoMemo: 1.0.6
 IsoSpecR: 2.1.3
 IsoplotR: '4.4'
 IsoplotRgui: '4.4'
-IsoriX: 0.8.2
+IsoriX: 0.8.3
 IsotopeR: 0.5.4
 ItemResponseTrees: 0.2.5
 IterativeHardThresholding: 1.0.2
@@ -5187,7 +5188,7 @@ RGCxGC: 1.1-2
 RGE: '1.0'
 RGENERATE: 1.3.7
 RGENERATEPREC: 1.2.9
-RGF: 1.1.0
+RGF: 1.1.1
 RGIFT: 0.1-5
 RGISTools: 1.0.2
 RGMM: 1.1.0
@@ -5829,7 +5830,7 @@ ResidentialEnergyConsumption: 1.1.0
 ResistorArray: 1.0-32
 ResourceSelection: 0.3-5
 RespirAnalyzer: 1.0.1
-RestRserve: 1.2.0
+RestRserve: 1.2.1
 RevEcoR: 0.99.3
 RevGadgets: 1.0.0
 ReviewR: 2.3.8
@@ -8573,7 +8574,7 @@ biomartr: 1.0.2
 biometryassist: 1.1.0
 biomod2: 3.5.1
 biomonCore: 1.3.50
-bionetdata: '1.0'
+bionetdata: '1.1'
 biopara: '1.5'
 bioplots: 0.0.1
 biorxivr: 1.0.2
@@ -8646,7 +8647,7 @@ blink: 1.1.0
 bliss: 1.0.4
 blkbox: '1.0'
 blkergm: '1.1'
-blm: 2013.2.4.4
+blm: 2022.0.0.1
 blme: 1.0-5
 blmeco: '1.4'
 blob: 1.2.3
@@ -8757,7 +8758,7 @@ boss: '2.1'
 bossMaps: 0.1.0
 botor: 0.3.0
 boundingbox: 1.0.1
-boussinesq: '1.0'
+boussinesq: 1.0.4
 boutliers: 1.1-1
 box: 1.1.2
 boxcoxmix: '0.28'
@@ -11835,6 +11836,7 @@ fastpseudo: '0.1'
 fastqcr: 0.1.2
 fastqq: 0.1.2
 fastquant: 0.1.2
+fastrep: '0.7'
 fastrmodels: 1.0.2
 fastrtext: 0.3.4
 fastshap: 0.0.7
@@ -13053,7 +13055,7 @@ glmmGS: '0.5'
 glmmLasso: 1.6.2
 glmmML: 1.1.3
 glmmPen: 1.5.1.10
-glmmSeq: 0.4.0
+glmmSeq: 0.5.1
 glmmTMB: 1.1.4
 glmmboot: 0.6.0
 glmmfields: 0.1.4
@@ -13248,7 +13250,7 @@ graphlayouts: 0.8.1
 graphon: 0.3.5
 graphql: '1.5'
 graphscan: '1.1'
-graphsim: 1.0.2
+graphsim: 1.0.3
 graphx: '1.0'
 grasp: 2.5-7
 grasper: 0.4-4
@@ -14480,7 +14482,7 @@ jsTree: '1.2'
 jsTreeR: 2.1.0
 jshintr: 0.1.0
 jskm: 0.4.3
-jsmodule: 1.3.1
+jsmodule: 1.3.2
 json64: 0.1.3
 jsonStrings: 2.0.0
 jsonify: 1.2.1
@@ -15158,7 +15160,7 @@ logmult: 0.7.4
 lognorm: 0.1.10
 logr: 1.3.3
 logregperm: '1.0'
-logrx: 0.1.0
+logrx: 0.1.1
 logspline: 2.1.17
 lokern: 1.1-9
 lolR: '2.1'
@@ -15279,6 +15281,7 @@ lymphclon: 1.3.0
 m2b: '1.0'
 m2r: 1.0.2
 m4fe: '0.1'
+m5: 0.1.1
 m61r: 0.0.3
 mAr: 1.2-0
 mBvs: '1.5'
@@ -15653,7 +15656,7 @@ meedr: 0.0.2
 meerva: 0.2-2
 meetupapi: 0.1.0
 mefa: 3.2-8
-mefa4: 0.3-8
+mefa4: 0.3-9
 megaptera: 1.0-0
 meifly: 0.3.1
 mekko: 0.1.0
@@ -16350,7 +16353,7 @@ mscstexta4r: 0.1.2
 mscstts: 0.6.3
 mscsweblm4r: 0.1.2
 msd: 0.3.1
-msda: 1.0.2
+msda: 1.0.3
 msde: 1.0.5
 mseapca: '1.0'
 mseq: '1.2'
@@ -18441,7 +18444,7 @@ primePCA: '1.2'
 primefactr: 0.1.1
 primer: 1.2.0
 primerTree: 1.0.6
-primes: 1.1.0
+primes: 1.4.0
 princurve: 2.1.6
 prinsimp: 0.8-8
 printr: '0.2'
@@ -18851,6 +18854,7 @@ quarrint: 1.0.0
 quarto: '1.2'
 quaternions: '0.2'
 queryparser: 0.3.1
+queryup: 1.0.0
 quest: 0.1.0
 questionr: 0.7.7
 queuecomputer: 1.1.0
@@ -19827,7 +19831,7 @@ rlme: '0.5'
 rlo: 0.3.2
 rlog: 0.1.0
 rly: 1.7.4
-rmBayes: 0.1.13
+rmBayes: 0.1.14
 rmRNAseq: 0.1.0
 rma.exact: 0.1.0
 rmac: '0.9'
@@ -21113,7 +21117,7 @@ sinar: 0.1.0
 sinartra: '0.1'
 sindyr: 0.2.3
 sinew: 0.4.0
-singR: 0.1.0
+singR: 0.1.1
 singcar: 0.1.3
 singleCellHaystack: 0.3.4
 singlecase: '0.1'
@@ -22313,7 +22317,7 @@ taxadb: 0.1.5
 taxalight: 0.1.5
 taxize: 0.9.100
 taxizedb: 0.3.0
-taxlist: 0.2.2
+taxlist: 0.2.3
 taxonbridge: 1.2.2
 taxonomizr: 0.9.3
 taxotools: 0.0.9
@@ -23545,7 +23549,7 @@ webshot: 0.5.3
 webshot2: 0.1.0
 websocket: 1.4.1
 websockets: 1.1.7
-webtools: 0.7.12
+webtools: 0.7.9
 webuse: 0.1.3
 webutils: '1.1'
 webvis: 0.0.2
