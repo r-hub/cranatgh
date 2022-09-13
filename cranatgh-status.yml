@@ -52,7 +52,7 @@ AGD: '0.39'
 AGHmatrix: 2.0.4
 AGPRIS: '1.0'
 AGSDest: 2.3.4
-AGread: 1.1.1
+AGread: 1.3.2
 AHM: 1.0.1
 AHMbook: 0.2.6
 AHPhybrid: 0.1.0
@@ -383,6 +383,7 @@ BEST: 0.5.4
 BESTree: 0.5.2
 BET: 0.5.0
 BETS: 0.4.9
+BFF: 1.0.0
 BFS: 0.4.3
 BFpack: 1.0.0
 BGData: 2.4.0
@@ -1282,6 +1283,7 @@ Coxnet: '0.2'
 CpDyna: '1.0'
 CpGFilter: '1.1'
 CpGassoc: '2.60'
+CpmERCCutoff: 1.0.0
 Cprob: 1.4.1
 CramTest: '1.5'
 CreditMetrics: 0.0-2
@@ -2456,6 +2458,7 @@ GRCdata: '1.0'
 GREENeR: 0.1.1
 GREMLINS: 0.2.0
 GREP2: 1.0.2
+GRIDCOPULA: 1.0.0
 GRNNs: 0.1.0
 GROAN: 1.3.0
 GRPtests: 0.1.2
@@ -3846,7 +3849,7 @@ MatchLinReg: 0.8.1
 MatchThem: 1.0.1
 Matching: 4.10-2
 MatchingFrontier: 1.0.0
-Matrix: 1.5-0
+Matrix: 1.5-1
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.10.0
 MatrixEQTL: '2.3'
@@ -5820,7 +5823,7 @@ RepertoiR: 0.0.1
 Replicate: 1.2.0
 Replication: 0.1.2
 ReplicationSuccess: '1.2'
-Repliscope: 1.1.0
+Repliscope: 1.1.1
 RepoGenerator: 0.0.1
 ReporteRs: 0.8.9
 ReporteRsjars: 0.0.4
@@ -6844,7 +6847,7 @@ TDD: '0.4'
 TDMR: '2.2'
 TDPanalysis: '1.0'
 TDbook: 0.0.6
-TDboost: '1.2'
+TDboost: '1.4'
 TE: 0.3-0
 TEAM: 0.1.0
 TED: '1.1'
@@ -7911,7 +7914,7 @@ argoFloats: 1.0.6
 argon2: 0.4-0
 argonDash: 0.2.0
 argonR: 0.2.0
-argosfilter: '0.6'
+argosfilter: '0.70'
 argparse: 2.1.6
 argparser: 0.7.1
 argus: '0.1'
@@ -9749,7 +9752,7 @@ connectwidgets: 0.1.1
 conogive: 1.0.0
 conos: 1.4.7
 conover.test: 1.1.5
-conquer: 1.3.0
+conquer: 1.3.1
 conquestr: 0.9.96
 conserveR: 1.0.4
 consolechoice: 1.1.1
@@ -11985,7 +11988,7 @@ filterNHP: 0.1.2
 filterviewR: '0.11'
 finalfit: 1.0.5
 financial: '0.2'
-finbif: 0.6.6
+finbif: 0.7.0
 finch: 0.4.0
 findInFiles: 0.4.0
 findInGit: 0.1.1
@@ -12595,7 +12598,7 @@ genTS: 0.1.4
 gena: 1.0.0
 genalg: 0.2.1
 genasis: '1.0'
-gencor: 1.0.1
+gencor: 1.0.2
 gencve: '0.3'
 gendata: 1.2.0
 gender: 0.6.0
@@ -12690,7 +12693,7 @@ geohash: 0.3.0
 geohashTools: 0.3.1
 geojson: 0.3.4
 geojsonR: 1.1.0
-geojsonio: 0.9.4
+geojsonio: 0.9.5
 geojsonlint: 0.4.0
 geojsonsf: 2.0.3
 geoknife: 1.6.7
@@ -13007,7 +13010,7 @@ gitear: 1.0.0
 gitgadget: 0.7.5
 githubinstall: 0.2.2
 gitignore: 0.1.5
-gitlabr: 2.0.0
+gitlabr: 2.0.1
 gitlink: 0.1.3
 gittargets: 0.0.5
 gitter: '1.1'
@@ -13647,6 +13650,8 @@ hisemi: 1.1-0
 hisse: 2.1.9
 histmdl: 0.7-1
 histogram: 0.0-25
+historicalborrow: 1.0.4
+historicalborrowlong: 0.0.5
 historydata: '0.1'
 histry: 0.2.4
 hit: 0.4.0
@@ -13902,7 +13907,7 @@ iaQCA: 0.8.7.0
 iadf: 0.1.2
 iai: 1.8.0
 ialiquor: 0.1.0
-iapws: '0.11'
+iapws: '0.12'
 iarm: 0.4.3
 ib: 0.2.0
 ibawds: 0.5.0
@@ -14056,6 +14061,7 @@ imp4p: '1.2'
 impactflu: 0.1.0
 impactr: 0.4.1
 impimp: 0.3.1
+implicitExpansion: 0.0.1
 implicitMeasures: 0.2.1
 implied: 0.4.1
 implyr: 0.4.0
@@ -14587,6 +14593,7 @@ kfa: 0.2.1
 kfda: 1.0.0
 kfigr: 1.2.1
 kgc: 1.0.0.2
+kgp: 1.0.0
 kgrams: 0.1.2
 kgschart: 1.3.5
 khroma: 1.9.0
@@ -15013,7 +15020,7 @@ linpk: 1.1.1
 linprog: 0.9-4
 lint: '0.3'
 lintools: 0.1.6
-lintr: 3.0.0
+lintr: 3.0.1
 lipidmapsR: 1.0.4
 lipidomeR: 0.1.2
 liqueueR: 0.0.1
@@ -15746,7 +15753,7 @@ metamer: 0.3.0
 metamicrobiomeR: '1.2'
 metamisc: 0.2.5
 metan: 1.17.0
-metansue: '2.4'
+metansue: '2.5'
 metap: '1.8'
 metapack: 0.2.0
 metaplot: 0.8.3
@@ -16842,6 +16849,7 @@ nleqslv: 3.3.3
 nlgeocoder: 0.1.3
 nlirms: 3.4.4
 nlist: 0.3.3
+nlive: 0.1.0
 nlme: 3.1-159
 nlmeODE: '1.1'
 nlmeU: 0.70-9
@@ -17243,6 +17251,7 @@ openVA: 1.0.15
 openadds: 0.2.0
 openai: 0.1.0
 openair: 2.10-0
+openairmaps: 0.4.3
 openalexR: 0.0.1
 openbankeR: 0.1.1
 openblender: 0.5.81
@@ -19481,7 +19490,7 @@ rego: 1.5.2
 regplot: '1.1'
 regport: 0.3.0
 regpro: 0.1.1
-regr.easy: 1.0.0
+regr.easy: 1.0.1
 regrap: 1.0.1
 regress: 1.3-21
 regressoR: 2.0.1
@@ -19564,7 +19573,7 @@ report: 0.5.5
 reportROC: '3.6'
 reportReg: 0.3.0
 reportRx: '1.0'
-reporter: 1.3.5
+reporter: 1.3.6
 reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
@@ -19679,7 +19688,7 @@ rgbif: 3.7.3
 rgcvpack: 0.1-4
 rgdal: 1.5-32
 rgdax: 1.2.1
-rgee: 1.1.4
+rgee: 1.1.5
 rgen: 0.0.1
 rgenie: 1.0.0
 rgenius: 0.1.0
@@ -20721,6 +20730,7 @@ semiArtificial: 2.4.1
 semicmprskcoxmsm: 0.2.0
 seminr: 2.3.1
 semisupKernelPCA: 0.1.5
+semmcci: 1.0.1
 semmcmc: 0.0.6
 semnar: 0.7.1
 semnova: 0.1-6
@@ -21907,6 +21917,7 @@ stochmod: '1.2'
 stochprofML: 2.0.3
 stochvol: 3.2.0
 stochvolTMB: 0.2.0
+stockAnalyst: 1.0.1
 stockPortfolio: '1.2'
 stockR: 1.0.74
 stockfish: 1.0.0
@@ -23612,7 +23623,7 @@ wicket: 0.4.0
 widals: 0.6.1
 widenet: 0.1-2
 widgetframe: 0.3.1
-widyr: 0.1.4
+widyr: 0.1.5
 wiesbaden: 1.2.5
 wig: 0.1.0
 wikiTools: 0.0.6
@@ -23827,6 +23838,7 @@ yaConsensus: '1.0'
 yaImpute: 1.0-32
 yacca: 1.4-2
 yager: 0.1.1
+yahoofinancer: 0.1.0
 yakmoR: 0.1.1
 yaml: 2.3.5
 yamlet: 0.9.5
