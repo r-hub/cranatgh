@@ -3013,7 +3013,7 @@ Immigrate: 0.2.1
 ImpactEffectsize: 0.6.2
 ImpactIV: '1.0'
 ImportExport: '1.3'
-ImportanceIndice: 0.0.1
+ImportanceIndice: 0.0.2
 ImputeRobust: 1.3-1
 InDisc: 1.1.0
 InPosition: 0.12.7.1
@@ -6666,6 +6666,7 @@ SpecDetec: 1.0.0
 SpecHelpers: 0.2.7
 SpeciesMix: '0.3'
 SpecsVerification: 0.5-3
+SpectralClMixed: '1.0'
 SpectralGEM: '1.0'
 SpectralMap: '1.0'
 Spectrum: '1.1'
@@ -7091,7 +7092,7 @@ TransModel: '2.3'
 TransP: '0.1'
 TransPhylo: 1.4.5
 TransferEntropy: '1.4'
-Tratamentos.ad: 0.2.3
+Tratamentos.ad: 0.2.4
 TreatmentSelection: 2.1.1
 TreeBUGS: 1.4.9
 TreeDep: 0.1.3
@@ -7612,6 +7613,7 @@ adlift: 1.4-3
 admiral: 0.8.0
 admiral.test: 0.3.0
 admiraldev: 0.1.0
+admiralonco: 0.1.0
 admisc: '0.29'
 admix: 0.4.0
 admixr: 0.9.1
@@ -8398,6 +8400,7 @@ berryFunctions: 1.21.14
 bestNormalize: 1.8.3
 bestSDP: 0.1.2
 bestglm: 0.37.3
+besthr: 0.3.0
 bestridge: 1.0.7
 betaBayes: 1.0.1
 betaboost: 1.0.1
@@ -9862,7 +9865,7 @@ corrtable: 0.1.0
 corset: 0.1-4
 cort: 0.3.2
 corto: 1.1.11
-corx: 1.0.7.0
+corx: 1.0.7.1
 cosa: 2.1.0
 cosinor: 1.2.2
 cosinor2: 0.2.1
@@ -10452,6 +10455,7 @@ deflateBR: 1.1.2
 deforestable: 3.0.0
 deformula: 0.1.2
 defrostR: 1.1.0
+degday: 0.4.0
 degenes: '1.1'
 degreenet: 1.3-3
 degross: 0.9.0
@@ -12490,7 +12494,7 @@ gapfill: 0.9.6-1
 gapmap: 0.1.0
 gapminder: 0.3.0
 garchmodels: 0.1.1
-garchx: '1.3'
+garchx: '1.5'
 gargle: 1.2.1
 gargoyle: 0.0.1
 garma: 0.9.11
@@ -13328,7 +13332,7 @@ growcurves: '0.2'
 growfunctions: '0.15'
 growth: 1.1.1
 growthPheno: 1.0-34
-growthcleanr: 2.0.1
+growthcleanr: 2.0.2
 growthcurver: 0.3.1
 growthmodels: 1.2.0
 growthrate: '1.3'
@@ -13870,7 +13874,7 @@ iForecast: 1.0.6
 iGSEA: '1.2'
 iGasso: '1.4'
 iGenomicViewer: 2.4.8
-iGraphMatch: 2.0.0
+iGraphMatch: 2.0.1
 iIneq: 1.0.2
 iJRF: 1.1-4
 iLaplace: 1.1.0
@@ -14897,7 +14901,7 @@ leastcostpath: 1.8.7
 ledger: 2.0.9
 leem: 0.1.0
 leerSIECyL: 1.0.2
-lefko3: 5.4.2
+lefko3: 5.5.0
 lefse: '0.1'
 legco: 0.1.4
 legion: 0.1.1
@@ -15886,7 +15890,7 @@ midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
 migest: 2.0.2
-migraph: 0.10.6
+migraph: 0.11.3
 migrate: 0.4.0
 migration.indices: 0.3.1
 migrbc: 2.0.9
@@ -17476,7 +17480,7 @@ packHV: '2.2'
 packMBPLSDA: 0.9.0
 packS4: '0.9'
 packageDiff: '0.1'
-packageRank: 0.7.0
+packageRank: 0.7.1
 packagedocs: 0.4.0
 packagefinder: 0.3.3
 packager: 1.9.0
@@ -20626,7 +20630,7 @@ sdetorus: 0.1.8
 sdglinkage: 0.1.0
 sdm: 1.1-8
 sdmApp: 0.0.2
-sdmpredictors: 0.2.12
+sdmpredictors: 0.2.13
 sdmvspecies: 0.3.2
 sdnet: 2.4.1
 sdols: 3.0.0
@@ -21945,7 +21949,7 @@ strapgod: 0.0.4
 strat: '0.1'
 stratEst: 1.1.4
 strataG: 2.4.905
-stratallo: 2.0.1
+stratallo: 2.1.0
 stratamatch: 0.1.9
 stratasphere: '1.0'
 stratbr: '1.2'
