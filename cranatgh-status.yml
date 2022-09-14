@@ -23,7 +23,7 @@ ACSWR: '1.0'
 ACTCD: 1.2-0
 ACV: 1.0.2
 ACWR: 0.1.0
-ADAPTS: 1.0.21
+ADAPTS: 1.0.22
 ADCT: 0.1.0
 ADDT: '2.0'
 ADER: '1.4'
@@ -1912,7 +1912,7 @@ EnQuireR: '0.10'
 EncDNA: 1.0.2
 EnergyOnlineCPM: '1.0'
 EngrExpt: 0.1-8
-EnrichIntersect: '0.2'
+EnrichIntersect: '0.3'
 EnsCat: '1.1'
 EnsembleBase: 1.0.2
 EnsembleCV: '0.8'
@@ -1958,7 +1958,7 @@ EstSimPDMP: '1.2'
 EstimDiagnostics: 0.0.3
 EstimateGroupNetwork: 0.3.1
 EstimationTools: 2.1.0
-EthSEQ: 2.1.4
+EthSEQ: 3.0.0
 EuclideanMaps: '1.0'
 EuclideanSD: 0.1.0
 Eunomia: 1.0.1
@@ -2493,7 +2493,7 @@ GVARX: '1.3'
 GWAF: '2.2'
 GWASExactHW: '1.01'
 GWASbyCluster: 0.1.7
-GWASinlps: '1.2'
+GWASinlps: '2.0'
 GWASinspector: 1.5.7.2
 GWAtoolbox: 2.2.4
 GWEX: 1.0.2
@@ -4742,7 +4742,7 @@ Peptides: 2.4.4
 PerFit: 1.4.6
 PerMallows: '1.13'
 Perc: 0.1.6
-PerfMeas: 1.2.1
+PerfMeas: 1.2.5
 PerformanceAnalytics: 2.0.4
 PeriodicTable: 0.1.2
 PermAlgo: '1.2'
@@ -5110,7 +5110,7 @@ RCRnorm: 0.0.2
 RCSF: 1.0.2
 RCSL: 0.99.95
 RCT: 1.1.2
-RCTS: 0.2.2
+RCTS: 0.2.3
 RCarb: 0.1.6
 RCassandra: 0.1-3
 RChest: 1.0.3
@@ -5772,6 +5772,7 @@ Rdsm: 2.1.1
 Rdta: 1.0.0
 Rdtq: '0.1'
 Rduino: '0.1'
+Rduinoiot: 0.1.0
 ReCiPa: '3.0'
 ReDaMoR: 0.6.5
 ReDirection: 1.0.1
@@ -7940,7 +7941,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
-arrow: 9.0.0
+arrow: 9.0.0.1
 ars: '0.6'
 arse: 1.0.0
 arsenal: 3.6.3
@@ -8279,7 +8280,7 @@ bayeslm: 1.0.1
 bayesloglin: 1.0.1
 bayeslongitudinal: 0.1.0
 bayesm: 3.1-4
-bayesmeta: '3.0'
+bayesmeta: '3.1'
 bayesmix: 0.7-5
 bayesmodels: 0.1.1
 bayesmove: 0.2.1
@@ -9719,7 +9720,7 @@ condmixt: '1.1'
 conductor: 0.1.1
 condusco: 0.1.0
 condvis: 0.5-1
-condvis2: 0.1.1
+condvis2: 0.1.2
 coneproj: '1.16'
 conf: 1.7.1
 conf.design: 2.0.0
@@ -10023,6 +10024,7 @@ cronologia: 0.2.0
 crop: 0.0-2
 cropDemand: 1.0.1
 cropZoning: 1.0.1
+cropcircles: 0.1.0
 cropdatape: 1.0.0
 cropgrowdays: 0.1.1
 crops: 1.0.3
@@ -11276,6 +11278,7 @@ elec: 0.1.2.2
 elec.strat: '0.1'
 elect: '1.2'
 elections: '1.0'
+elections.dtree: 1.0.0
 electionsBR: 0.3.2
 electivity: 1.0.2
 electoral: 0.1.3
@@ -11413,6 +11416,7 @@ epiflows: 0.2.0
 epigraphdb: 0.2.3
 epikit: 0.1.2
 epimdr: 0.6-5
+epimdr2: 1.0-7
 epinet: 2.1.8
 epinetr: '0.96'
 epipen: 1.0-0
@@ -14147,6 +14151,7 @@ infraFDTD.assist: '0.6'
 infuser: '0.2'
 infutil: '1.0'
 ingredients: 2.2.0
+ingres: 1.0.0
 ini: 0.3.1
 injectoR: 0.2.4
 inlabru: 2.5.3
@@ -14604,6 +14609,7 @@ khroma: 1.9.0
 kibior: 0.1.1
 kidney.epi: 1.2.0
 kim: 0.5.55
+kimfilter: 1.0.0
 kimisc: '0.4'
 kin.cohort: '0.7'
 kindisperse: 0.10.2
@@ -14726,7 +14732,7 @@ label.switching: '1.8'
 labelVector: 0.1.2
 labeledLoop: '0.1'
 labeling: 0.4.2
-labelled: 2.9.1
+labelled: 2.10.0
 labelmachine: 1.0.0
 labelrank: '0.1'
 labeltodendro: '1.3'
@@ -15069,6 +15075,7 @@ lmPerm: 2.1.0
 lmQCM: 0.2.3
 lmSubsets: 0.5-2
 lmSupport: 2.9.8
+lmap: 0.1.1
 lmbc: '0.9'
 lmboot: 0.0.1
 lmds: 0.1.0
@@ -15653,7 +15660,7 @@ medAdherence: '1.03'
 medExtractR: 0.4.1
 medSTC: 1.0.0
 mederrRank: 0.0.8
-medfate: 2.7.3
+medfate: 2.8.0
 medflex: 0.6-7
 mediacloudr: 0.1.0
 mediateP: 0.2.0
@@ -17271,7 +17278,7 @@ openeo: 1.2.1
 openintro: 2.4.0
 openmetrics: 0.3.0
 opensensmapr: 0.5.1
-openssl: 2.0.2
+openssl: 2.0.3
 opentick: 0.1-1
 opentimsr: 1.0.13
 opentraj: '1.0'
@@ -18451,7 +18458,7 @@ prevederer: 0.0.1
 previsionio: 11.7.0
 prevtoinc: 0.12.0
 prewas: 1.1.1
-priceR: 0.1.64
+priceR: 0.1.66
 pricesensitivitymeter: 1.2.2
 prider: 1.0.4
 prim: 1.0.20
@@ -19419,6 +19426,7 @@ rebus.unicode: 0.0-2
 recalls: 0.1.0
 recapr: 0.4.4
 reccsim: 0.9-1
+receptiviti: 0.1.0
 recexcavAAR: 0.3.0
 rechonest: '1.2'
 recipes: 1.0.1
@@ -19748,7 +19756,7 @@ rhype: 0.3.0
 ri: '0.9'
 ri2: 0.4.0
 riAFTBART: 0.3.2
-ribd: 1.4.0
+ribd: 1.5.0
 ribiosUtils: 1.5-6
 ricegeneann: 1.0.2
 riceidconverter: 1.1.1
@@ -19848,7 +19856,7 @@ rlme: '0.5'
 rlo: 0.3.2
 rlog: 0.1.0
 rly: 1.7.4
-rmBayes: 0.1.14
+rmBayes: 0.1.15
 rmRNAseq: 0.1.0
 rma.exact: 0.1.0
 rmac: '0.9'
@@ -20132,6 +20140,7 @@ rreval: '1.1'
 rriskBayes: '2.3'
 rriskDistributions: 2.1.2
 rrlda: '1.1'
+rrnni: 0.1.0
 rroad: 0.0.5
 rromeo: 0.1.1
 rrp: '2.9'
@@ -20494,7 +20503,7 @@ sbw: 1.1.5
 scAnnotate: 0.0.4
 scBio: 0.1.6
 scCAN: 1.0.4
-scCATCH: '3.1'
+scCATCH: '3.2'
 scDHA: 1.2.0
 scDIFtest: 0.1.1
 scDiffCom: 0.1.0
@@ -21167,7 +21176,7 @@ sivipm: 1.1-4
 sivs: 0.2.5
 sizeMat: 1.1.2
 sjPlot: 2.8.11
-sjSDM: 1.0.2
+sjSDM: 1.0.3
 sjdbc: 1.6.1
 sjlabelled: 1.2.0
 sjmisc: 2.8.9
@@ -21207,6 +21216,7 @@ slanter: 0.2-0
 slasso: 1.0.0
 sld: 1.0.1
 sleekts: 1.0.2
+sleeperapi: 1.0.4
 sleepr: 0.3.0
 sleepwalk: 0.3.2
 sleev: 1.0.2
@@ -22333,7 +22343,7 @@ tauturri: 0.3.0
 tawny: 2.1.7
 tawny.types: 1.1.5
 taxa: 0.4.2
-taxadb: 0.1.5
+taxadb: 0.1.6
 taxalight: 0.1.5
 taxize: 0.9.100
 taxizedb: 0.3.0
@@ -23361,6 +23371,7 @@ vetr: 0.2.14
 vfcp: 1.4.0
 vfinputs: 0.1.0
 vfprogression: 0.7.1
+vglmer: 1.0.0
 vhcub: 1.0.0
 vhica: 0.2.7
 viafr: 0.3.0
