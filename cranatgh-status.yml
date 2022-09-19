@@ -1409,7 +1409,7 @@ DFIT: '1.1'
 DGCA: 1.0.2
 DGEobj: 1.1.2
 DGEobj.utils: 1.0.6
-DGLMExtPois: 0.2.0
+DGLMExtPois: 0.2.1
 DGM: 1.7.4
 DGVM3D: 1.0.0
 DHARMa: 0.4.6
@@ -1859,6 +1859,7 @@ EWS: 0.2.0
 EXRQ: '1.0'
 EZtune: 3.1.1
 Eagle: '2.5'
+Ease: 0.1.0
 EasyABC: '1.5'
 EasyDescribe: 0.1.1
 EasyHTMLReport: 0.1.1
@@ -2364,7 +2365,7 @@ GFisher: 0.2.0
 GGClassification: '0.1'
 GGEBiplotGUI: '1.0'
 GGEBiplots: 0.1.3
-GGIR: 2.7-1
+GGIR: 2.8-0
 GGIRread: 0.2.2
 GGMM: 1.0.1
 GGMncv: 2.1.1
@@ -4250,7 +4251,7 @@ NetIndices: 1.4.4.1
 NetLogoR: 0.3.11
 NetMix: 0.2.0
 NetOrigin: 1.1-4
-NetPreProc: '1.1'
+NetPreProc: '1.2'
 NetRep: 1.2.4
 NetSci: 1.0.0
 NetSim: '0.9'
@@ -4896,7 +4897,7 @@ ProfessR: 2.4-1
 ProfileLikelihood: '1.2'
 ProfoundData: 0.2.1
 ProgGUIinR: 0.0-4
-ProjectManagement: 1.4.6
+ProjectManagement: 1.4.7
 ProjectTemplate: 0.10.2
 ProjectionBasedClustering: 1.1.8
 ProliferativeIndex: 1.0.1
@@ -4983,6 +4984,7 @@ QWDAP: 1.1.17
 QZ: 0.2-2
 Qapprox: 0.2.0
 Qest: 1.0.0
+Qindex: 0.1.0
 QoLMiss: 0.1.0
 QoLR: '1.0'
 QregBB: 1.0.0
@@ -5665,6 +5667,7 @@ RcmdrPlugin.UCA: 5.1-1
 RcmdrPlugin.WorldFlora: '1.2'
 RcmdrPlugin.aRnova: 0.0.5
 RcmdrPlugin.coin: 1.0-23
+RcmdrPlugin.cpd: 0.2.0
 RcmdrPlugin.depthTools: '1.4'
 RcmdrPlugin.doBy: 0.1-3
 RcmdrPlugin.doex: 0.2.0
@@ -6022,7 +6025,7 @@ Rsundials: '1.6'
 Rsurrogate: '3.1'
 Rsymphony: 0.1-33
 RtD3: 0.0.1
-Rtapas: '0.9'
+Rtapas: '1.0'
 Rtauchen: '1.0'
 RtextSummary: 0.1.0
 Rtextrankr: 1.0.0
@@ -6628,6 +6631,7 @@ SpaceTimeBSS: 0.1-0
 SpadeR: 0.1.1
 SparkR: 3.1.2
 SparseBiplots: 4.0.1
+SparseChol: 0.1.1
 SparseDC: 0.1.17
 SparseFactorAnalysis: '1.0'
 SparseGrid: 0.8.2
@@ -6912,6 +6916,7 @@ TRexSelector: 0.0.1
 TSA: 1.3.1
 TSANN: 0.1.0
 TSAgg: 1.0.1
+TSCI: 1.0.0
 TSCS: 0.1.1
 TSDFGS: '2.0'
 TSDT: 1.0.7
@@ -7155,7 +7160,7 @@ UKFE: 0.2.2
 UKgrid: 0.1.3
 UMR: 1.1.0
 UNCLES: '2.0'
-UNF: 2.0.8
+UNF: '2.0'
 UNPaC: 1.1.1
 UPCM: 0.0-3
 UPG: 0.3.1
@@ -8042,7 +8047,7 @@ atmopt: 0.1.0
 atom4R: 0.3-1
 atpolR: 0.1.1
 atsd: 1.2.0
-attachment: 0.2.5
+attachment: 0.3.0
 attempt: 0.3.1
 attention: 0.2.0
 attenuation: 1.0.0
@@ -8708,7 +8713,7 @@ bmstdr: 0.3.0
 bnClustOmics: 1.1.1
 bnclassify: 0.4.6
 bndovb: '1.1'
-bnlearn: 4.7.1
+bnlearn: '4.8'
 bnma: 1.5.0
 bnmonitor: 0.1.3
 bnnSurvival: 0.1.5
@@ -12094,7 +12099,7 @@ flexrsurv: 2.0.11
 flexsiteboard: 0.0.6
 flexsurv: '2.2'
 flexsurvcure: 1.3.0
-flextable: 0.8.0
+flextable: 0.8.1
 flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
@@ -12398,6 +12403,7 @@ fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.6
 fuzzyreg: '0.6'
 fuzzywuzzyR: 1.0.5
+fwb: 0.1.0
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
 fwildclusterboot: '0.9'
@@ -13424,7 +13430,7 @@ gumbel: 1.10-2
 gumboot: 1.0.0
 gunit: 1.0.0
 gunsales: 0.1.2
-gustave: 0.4.3
+gustave: 0.4.4
 gutenbergr: 0.2.1
 gvc: 6.4.0
 gvcR: 0.1.0
@@ -14879,7 +14885,7 @@ leabRa: 0.1.0
 leaderCluster: '1.3'
 leafR: 0.3.5
 leafSTAR: '1.0'
-leafdown: 1.1.1
+leafdown: 1.2.0
 leafem: 0.2.0
 leafgl: 0.1.1
 leaflegend: 1.0.0
@@ -18866,7 +18872,7 @@ quantdr: 1.2.2
 quanteda: 3.2.3
 quanteda.textmodels: 0.9.5
 quanteda.textplots: 0.94.2
-quanteda.textstats: '0.95'
+quanteda.textstats: '0.96'
 quantification: 0.2.0
 quantileDA: '1.1'
 quantilogram: 2.2.1
@@ -19227,7 +19233,7 @@ ravedash: 0.1.1
 raveio: 0.0.8
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravetools: 0.0.6
+ravetools: 0.0.7
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -19473,6 +19479,7 @@ redux: 1.1.3
 ref: '0.9'
 ref.ICAR: '1.0'
 refGenome: 1.7.7
+refdb: 0.1.0
 refer: 0.1.0
 referenceIntervals: 1.3.0
 refimpact: 1.0.0
@@ -20595,7 +20602,7 @@ scorecardModelUtils: 0.0.1.0
 scorepeak: 0.1.2
 scorer: 0.2.0
 scoring: '0.6'
-scoringRules: 1.0.1
+scoringRules: 1.0.2
 scoringTools: 0.1.2
 scoringutils: 1.0.1
 scout: 1.0.4
@@ -23170,6 +23177,7 @@ uniset: 0.3.1
 uniswappeR: 0.6.0
 unitedR: '0.4'
 unitizer: 1.4.18
+unitquantreg: 0.0.3
 units: 0.8-0
 unittest: 1.5-1
 univOutl: '0.4'
@@ -23799,7 +23807,7 @@ xgboost: 1.6.0.1
 xgobi: 1.2-9
 xgrid: 1.0-1
 xgxr: 1.1.1
-xhaz: 2.0.0
+xhaz: 2.0.1
 xhmmScripts: '1.1'
 xkcd: 0.0.6
 xkcdcolors: '1.0'
