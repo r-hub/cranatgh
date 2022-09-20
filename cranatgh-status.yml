@@ -2331,7 +2331,7 @@ GDAtools: 1.7.2
 GDD: 0.1-8
 GDELTtools: '1.5'
 GDINA: 2.9.3
-GDPuc: 0.9.0
+GDPuc: 0.9.2
 GDSARM: 0.1.1
 GE: 0.3.1
 GEEaSPU: 1.0.2
@@ -3511,7 +3511,7 @@ MBAnalysis: 0.1.0
 MBC: 0.10-5
 MBCbook: 0.1.1
 MBCluster.Seq: '1.0'
-MBESS: 4.9.1
+MBESS: 4.9.2
 MBHdesign: 2.2.2
 MBI: '1.0'
 MBNMAdose: 0.4.1
@@ -5862,7 +5862,7 @@ Rfwdmv: '0.7'
 Rga4gh: 0.1.1
 Rgb: 1.6.1
 Rgbp: 1.1.4
-Rgff: 0.1.3
+Rgff: 0.1.4
 RghcnV3: '2.9'
 Rglpk: 0.6-4
 Rgnuplot: 1.0.3
@@ -7747,6 +7747,7 @@ alphahull: '2.5'
 alphashape3d: 1.3.1
 alphastable: 0.2.1
 alphavantager: 0.1.2
+alqrfe: '1.0'
 alr3: 2.0.8
 alr4: 1.0.6
 altR2: 1.0.0
@@ -8037,7 +8038,7 @@ asypow: 2015.6.25
 ata: 1.1.1
 atable: 0.1.11
 atakrig: 0.9.8
-atime: 2022.8.25
+atime: 2022.9.16
 atlantistools: 0.4.3
 atlas: 1.0.0
 atm: 0.1.0
@@ -8207,7 +8208,7 @@ barsurf: 0.7.0
 bartBMA: '1.0'
 bartCause: 1.0-4
 bartMachine: '1.3'
-bartMachineJARs: '1.2'
+bartMachineJARs: 1.2.1
 bartcs: 0.1.2
 basad: 0.3.0
 base.rms: '1.0'
@@ -8842,7 +8843,7 @@ briskaR: 1.0.4
 brlr: 0.9-1
 brlrmr: 0.1.7
 brm: 1.1.1
-brms: 2.17.0
+brms: 2.18.0
 brmsmargins: 0.2.0
 brnn: 0.9.2
 brokenstick: 2.3.0
@@ -8858,7 +8859,7 @@ brr: 1.0.0
 brranching: 0.7.0
 brt: 1.3.0
 bruceR: 0.8.9
-brulee: 0.1.0
+brulee: 0.2.0
 brunnermunzel: '2.0'
 brxx: 0.1.2
 bs: '1.0'
@@ -9462,7 +9463,7 @@ clusTransition: '1.0'
 cluscov: 1.1.0
 clusrank: 1.0-3
 clust.bin.pair: 0.1.2
-clustAnalytics: 0.4.1
+clustAnalytics: 0.5.0
 clustDRM: 0.1-0
 clustEff: 0.3.0
 clustMD: 1.2.1
@@ -10180,7 +10181,7 @@ cvGEE: 0.3-0
 cvTools: 0.3.2
 cvam: 0.9.2
 cvap: 0.1.1
-cvar: 0.4-0
+cvar: 0.4.1
 cvcqv: 1.0.0
 cvcrand: 0.1.0
 cvequality: 0.2.0
@@ -10718,7 +10719,7 @@ diseq: 0.4.6
 disk.frame: 0.7.2
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
-dismo: 1.3-8
+dismo: 1.3-9
 disordR: 0.0-9-1
 disp2D: '1.0'
 dispRity: 1.7.0
@@ -10852,7 +10853,7 @@ document: 3.3.4
 documenter: 0.1.2
 docxtools: 0.2.2
 docxtractr: 0.6.5
-dodgr: 0.2.15
+dodgr: 0.2.16
 doebioresearch: 0.1.0
 doex: '1.2'
 dominanceanalysis: 2.0.0
@@ -10982,7 +10983,7 @@ dtree: 0.4.2
 dtt: 0.1-2
 dttr2: 0.4.1
 dtts: 0.1.0
-dtw: 1.22-3
+dtw: 1.23-1
 dtwSat: 0.2.7
 dtwclust: 5.5.10
 dual: 0.0.4
@@ -11025,7 +11026,7 @@ dynOmics: '1.2'
 dynRB: '0.17'
 dynaSpec: 1.0.1
 dynaTree: 1.2-13
-dynamAedes: 2.0.2
+dynamAedes: 2.1.0
 dynamac: 0.1.11
 dynamic: 1.1.0
 dynamicGraph: 0.2.2
@@ -12629,7 +12630,7 @@ gendist: '2.0'
 gene2pathway: 1.8.1
 geneARMA: '1.0'
 geneExpressionFromGEO: '0.9'
-geneHapR: 1.0.8
+geneHapR: 1.1.1
 geneHummus: 1.0.11
 geneListPie: '1.0'
 geneNetBP: 2.0.1
@@ -12749,7 +12750,7 @@ geospark: 0.3.1
 geosphere: 1.5-14
 geospt: 1.0-2
 geosptdb: 1.0-1
-geostan: 0.3.0
+geostan: 0.4.0
 geostats: '1.5'
 geostatsp: 1.8.6
 geotech: '1.0'
@@ -13110,7 +13111,7 @@ globals: 0.16.1
 globaltrends: 0.0.12
 globe: 1.2-0
 glogis: 1.0-2
-glossr: 0.6.0
+glossr: 0.6.1
 glottospace: 0.0.112
 glow: 0.10.1
 glpk: 4.8-0.5
@@ -13965,7 +13966,7 @@ icdpicr: 1.0.1
 icecream: 0.2.0
 icemelt: '1.0'
 icenReg: 2.0.15
-icensBKL: '1.3'
+icensBKL: '1.4'
 icensmis: 1.5.0
 icertool: 0.0.3
 icesAdvice: 2.1.1
@@ -15722,7 +15723,7 @@ mergeTrees: 0.1.3
 mergedblocks: 1.1.0
 merlin: 0.1.0
 merror: 2.0.2
-meshed: 0.2.1
+meshed: 0.2.3
 meshsimp: '0.1'
 messaging: 0.1.0
 messydates: 0.3.1
@@ -15994,7 +15995,7 @@ mitml: 0.4-3
 mitools: '2.4'
 mitre: 1.0.0
 mix: 1.0-11
-mixAK: '5.4'
+mixAK: '5.5'
 mixAR: 0.22.7
 mixComp: 0.1-2
 mixEMM: '1.0'
@@ -17316,7 +17317,7 @@ optDesignSlopeInt: '1.1'
 optR: 1.2.5
 optband: '0.2'
 optbdmaeAT: 1.0.1
-optbin: '1.1'
+optbin: '1.2'
 optedr: 1.0.1
 optextras: 2019-12.4
 optiRum: 0.41.1
@@ -19001,7 +19002,7 @@ rFUSION: '0.1'
 rFerns: 5.0.0
 rForest: 0.1.4
 rGEDI: 0.1.9
-rGV: 0.0.1
+rGV: 0.0.2
 rGammaGamma: 1.0.12
 rGhanaCensus: 0.1.0
 rGoodData: 0.1.1
@@ -19287,7 +19288,7 @@ rbvs: '1.0'
 rbw: 0.3.2
 rcDEA: '1.0'
 rcage: '1.2'
-rcaiman: 0.1.1
+rcaiman: 1.0.8
 rcane: '1.0'
 rcanvec: 0.2.1
 rcarbon: 1.4.4
@@ -19463,6 +19464,7 @@ reconstructr: 2.0.4
 recorder: 0.8.2
 recordr: 1.0.3
 recosystem: '0.5'
+recurrentpseudo: 1.0.0
 recurse: 1.1.2
 red: 1.5.0
 redR: 1.0.1
@@ -19741,7 +19743,7 @@ rgoogleads: 0.8.0
 rgoogleslides: 0.3.2
 rgovcan: 1.0.3
 rgp: 0.4-1
-rgplates: 0.1.0
+rgplates: 0.2.0
 rgpui: 0.1-2
 rgr: 1.1.9
 rgraph6: 2.0-2
@@ -20704,7 +20706,7 @@ seeds: 0.9.1
 seedwater: '2.0'
 seedy: '1.3'
 seeg: '1.0'
-seeker: 1.0.9
+seeker: 1.0.10
 seem: '1.0'
 seer: 1.1.7
 seewave: 2.2.0
@@ -21322,7 +21324,7 @@ sna: '2.7'
 snahelper: 1.4.0
 snakecase: 0.11.0
 snap: 1.1.0
-snappier: 0.1.0
+snappier: 0.2.0
 snapshot: 0.1.2
 snem: 0.1.1
 snfa: 0.0.1
@@ -22660,7 +22662,7 @@ tilemaps: 0.2.0
 tiler: 0.2.5
 tilting: 1.1.1
 timbeR: 2.0.1
-timbr: 0.1.0
+timbr: 0.1.1
 time: '1.1'
 time.slots: 0.2.0
 time2event: 0.1.0
