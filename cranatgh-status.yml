@@ -538,6 +538,7 @@ BayesCombo: '1.0'
 BayesComm: 0.1-2
 BayesDA: 2012.04-1
 BayesDesign: 0.1.1
+BayesDissolution: 0.1.0
 BayesESS: 0.1.19
 BayesFM: 0.1.5
 BayesFactor: 0.9.12-4.4
@@ -1133,7 +1134,7 @@ ClustOfVar: '1.1'
 ClustVarLV: 2.1.1
 Cluster.OBeu: 1.2.3
 ClusterBootstrap: 1.1.2
-ClusterR: 1.2.6
+ClusterR: 1.2.7
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.3
 ClusteredMutations: 1.0.1
@@ -5160,6 +5161,7 @@ RECA: '1.7'
 RECSO: '1.0'
 REDCapExporter: 0.2.2
 REDCapR: 1.1.0
+REDCapTidieR: 0.1.2
 REEMtree: 0.90.4
 REGENT: 1.0.6
 REIDS: 0.1.0
@@ -5410,6 +5412,7 @@ RPPairwiseDesign: '1.0'
 RPPanalyzer: 1.4.7
 RPS: 1.0.1
 RPgSQL: 1.0-0
+RPhosFate: 1.0.2
 RPostgreSQL: 0.7-4
 RPostgres: 1.4.4
 RPresto: 1.3.7
@@ -6158,6 +6161,7 @@ SDLfilter: 2.2.1
 SDMPlay: '2.0'
 SDMTools: '1.1'
 SDMtune: 1.1.6
+SDPrism2D: 0.1.1
 SDR: 0.7.0.0
 SDT: 1.0.0
 SDaA: 0.1-5
@@ -9348,7 +9352,7 @@ cir: 2.2.1
 circacompare: 0.1.1
 circglmbayes: 1.3.0
 circle: 0.7.2
-circletyper: 1.0.1
+circletyper: 1.0.2
 circlize: 0.4.15
 circular: 0.4-95
 circularEV: 0.1.1
@@ -10471,7 +10475,7 @@ deeplearning: 0.1.0
 deeplr: 2.0.0
 deepnet: 0.2.1
 deepredeff: 0.1.1
-deepregression: '0.1'
+deepregression: '0.2'
 deeptime: 0.2.3
 default: 1.0.0
 define: 0.2.9
@@ -11399,7 +11403,7 @@ entropart: 1.6-11
 entropy: 1.3.1
 entrymodels: 0.2.1
 envDocument: 2.4.1
-envalysis: 0.5.1
+envalysis: 0.5.3
 envelope: '1.0'
 enveomics.R: 1.9.0
 envi: 0.1.15
@@ -16341,6 +16345,7 @@ mpm: 1.0-23
 mpmcorrelogram: 0.1-4
 mpmi: 0.43.2
 mpoly: 1.1.1
+mpower: 0.1.0
 mppR: 1.3.0
 mppa: '1.0'
 mpr: 1.0.6
@@ -17504,7 +17509,7 @@ pMineR: '0.31'
 pRF: '1.2'
 pROC: 1.18.0
 pRSR: 3.1.1
-pRecipe: 0.2.0
+pRecipe: 0.3.0
 pRepDesigns: 1.0.0
 pSI: '1.1'
 pTITAN2: 1.0.2
@@ -18955,7 +18960,7 @@ r2mlm: 0.3.2
 r2pmml: 0.26.0
 r2pptx: 0.1.0
 r2r: 0.1.1
-r2redux: 1.0.10
+r2redux: 1.0.11
 r2resize: '1.2'
 r2rtf: 0.3.5
 r2shortcode: '0.1'
@@ -19190,6 +19195,7 @@ rangemap: 0.1.18
 rangemodelR: '1.0'
 ranger: 0.14.1
 rankFD: 0.1.1
+rankICC: 0.1.0
 rankUncertainty: 1.0.2.0
 rankdifferencetest: '2021-11-25'
 rankdist: 1.1.4
@@ -20432,7 +20438,7 @@ saeHB.spatial: 0.1.0
 saeHB.twofold: 0.1.1
 saeHB.zinb: 0.1.1
 saeME: '1.3'
-saeMSPE: '1.0'
+saeMSPE: '1.1'
 saeRobust: 0.3.0
 saeSim: 0.11.0
 saeTrafo: 1.0.0
@@ -23393,6 +23399,7 @@ venn: '1.11'
 vennLasso: 0.1.6
 venneuler: 1.1-3
 vennplot: '1.0'
+verbaliseR: '0.1'
 verbalisr: 0.4.0
 verhoeff: 0.4.0
 verification: '1.42'
