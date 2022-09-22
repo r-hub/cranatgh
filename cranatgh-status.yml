@@ -632,6 +632,7 @@ BiDAG: 2.1.1
 BiDimRegression: 2.0.1
 BiG: 0.1.0
 BiGGR: '1.8'
+BiOFI: 0.1.0
 BiProbitPartial: 1.0.3
 BiSEp: '2.2'
 BiTrinA: '1.3'
@@ -1270,6 +1271,7 @@ Counternull: 0.1.0
 Countr: 3.5.5
 CountsEPPM: '3.0'
 CovCombR: '1.0'
+CovRegRF: 1.0.1
 CovSel: 1.2.1
 CovSelHigh: 1.1.1
 CovTools: 0.5.4
@@ -1637,7 +1639,7 @@ DiceDesign: '1.9'
 DiceEval: 1.5.1
 DiceKriging: 1.6.0
 DiceOptim: 2.1.1
-DiceView: 2.0-1
+DiceView: 2.0-2
 Dict: 0.1.0
 DidacticBoost: 0.1.1
 Diderot: '0.13'
@@ -1655,7 +1657,7 @@ Dire: 2.1.0
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
-Directional: '5.5'
+Directional: '5.6'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.19
@@ -3372,7 +3374,7 @@ LagSequential: 0.1.1
 Lahman: 10.0-1
 LakeMetabolizer: 1.5.0
 Lambda4: '3.0'
-LambertW: 0.6.7
+LambertW: 0.6.7-1
 Landmarking: 1.0.0
 Langevin: 1.3.1
 LaplaceDeconv: 1.0.4
@@ -5931,6 +5933,7 @@ Rmetrics: '260.72'
 Rmisc: 1.5.1
 Rmixmod: 2.1.6
 RmixmodCombi: '1.0'
+Rmolt: 1.0.0
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
 Rmpfr: 0.8-9
@@ -6139,7 +6142,7 @@ SCOPRO: 0.1.0
 SCOR: 1.1.1
 SCORER2: 0.99.0
 SCORNET: 0.1.1
-SCORPION: 1.0.0
+SCORPION: 1.0.1
 SCORPIUS: 1.0.8
 SCOUTer: 1.0.0
 SCPME: '1.0'
@@ -7630,6 +7633,7 @@ adiv: 2.1.2
 adjROC: 0.2.0
 adjSURVCI: '1.0'
 adjclust: 0.6.6
+adjustedCurves: 0.9.0
 adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
@@ -10359,7 +10363,7 @@ dataview: 2.1.1
 datawizard: 0.6.0
 datazoom.amazonia: 0.3.0
 date: 1.2-39
-datefixR: 1.1.0
+datefixR: 1.2.0
 datelife: 0.6.5
 daterangepicker: 0.1.0
 datetime: 0.1.4
@@ -11413,7 +11417,7 @@ envi: 0.1.15
 enviGCMS: 0.6.6
 enviPat: '2.4'
 enviPick: '1.5'
-envir: 0.2.1
+envir: 0.2.2
 envirem: '2.3'
 envlpaster: 0.1-2
 envnames: 0.4.1
@@ -14046,7 +14050,7 @@ igate: 0.3.3
 igcop: 1.0.1
 iglu: 3.3.0
 igoR: 0.1.4
-igraph: 1.3.4
+igraph: 1.3.5
 igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
@@ -15899,7 +15903,7 @@ miceExt: 1.1.0
 miceFast: 0.8.1
 miceMNAR: '1.0'
 miceRanger: 1.5.0
-miceadds: 3.14-3
+miceadds: 3.15-21
 miceafter: 0.1.0
 micemd: 1.8.0
 michelRodange: 1.0.0
@@ -16119,7 +16123,7 @@ mlr3fselect: 0.7.2
 mlr3hyperband: 0.4.2
 mlr3learners: 0.5.4
 mlr3measures: 0.5.0
-mlr3misc: 0.10.0
+mlr3misc: 0.11.0
 mlr3oml: 0.5.0
 mlr3pipelines: 0.4.2
 mlr3proba: 0.4.9
@@ -16305,7 +16309,7 @@ mortyr: 0.0.2
 mosaic: 1.8.4.2
 mosaic.find: 0.1.2
 mosaicCalc: 0.6.0
-mosaicCore: 0.9.2
+mosaicCore: 0.9.2.1
 mosaicData: 0.20.3
 mosaicManip: 0.2-6
 mosaicModel: 0.3.0
@@ -18987,7 +18991,7 @@ rARPACK: 0.11-0
 rATTAINS: 0.1.3
 rAltmetric: 0.7.0
 rAmCharts: 2.1.13
-rAmCharts4: 1.5.0
+rAmCharts4: 1.6.0
 rAverage: 0.5-8
 rAvis: '0.1'
 rBDAT: 0.9.8
@@ -19890,6 +19894,7 @@ rlecuyer: 0.3-5
 rlemon: 0.2.0
 rless: 0.1.1
 rlfsm: 1.1.2
+rlibkriging: 0.7-0
 rliger: 1.0.0
 rlist: 0.4.6.2
 rlm: '1.2'
@@ -20674,7 +20679,7 @@ sdcLog: 0.5.0
 sdcMicro: 5.7.2
 sdcMicroGUI: 1.4.0
 sdcSpatial: 0.5.2
-sdcTable: 0.32.3
+sdcTable: 0.32.4
 sdcTarget: 0.9-11
 sddpack: '0.9'
 sde: 2.0.18
@@ -20964,7 +20969,7 @@ shinyFiles: 0.9.3
 shinyGizmo: '0.2'
 shinyGovstyle: 0.0.8
 shinyHeatmaply: 0.2.0
-shinyHugePlot: 0.0.1
+shinyHugePlot: 0.1.0
 shinyIRT: '0.1'
 shinyKGode: 1.0.5
 shinyKnobs: 0.1.3
@@ -21536,7 +21541,7 @@ sparseSVM: 1.1-6
 sparsebn: 0.1.2
 sparsebnUtils: 0.0.8
 sparsediscrim: 0.3.0
-sparsegl: 0.4.0
+sparsegl: 0.5.0
 sparseinv: 0.1.3
 sparsenet: '1.4'
 sparsepca: 0.1.2
@@ -22809,6 +22814,7 @@ toolStability: 0.1.1
 toolbox: 0.1.1
 toolmaRk: 0.0.1
 tools4uplift: 1.0.0
+topdowntimeratio: 0.1.0
 topicdoc: 0.1.1
 topicmodels: 0.2-12
 topicmodels.etm: 0.1.0
@@ -23212,7 +23218,7 @@ unittest: 1.5-1
 univOutl: '0.4'
 unival: 1.1.0
 univariateML: 1.1.1
-universals: 0.0.4
+universals: 0.0.5
 unix: 1.5.4
 unjoin: 0.1.0
 unknownR: '0.4'
