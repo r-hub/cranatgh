@@ -1992,7 +1992,7 @@ ExGaussEstim: '0.1'
 ExPD2D: 1.0.1
 ExPanDaR: 0.5.3
 ExPosition: 2.8.23
-Exact: '3.1'
+Exact: '3.2'
 ExactCIdiff: '2.1'
 ExactMed: 0.1.0
 ExactMultinom: 0.1.2
@@ -2345,7 +2345,7 @@ GEEaSPU: 1.0.2
 GEEmediate: 1.1.3
 GEInfo: '1.0'
 GEInter: 0.3.2
-GENEAclassify: 1.5.2
+GENEAclassify: 1.5.3
 GENEAread: 2.0.9
 GENEAsphere: 1.5.1
 GENLIB: 1.1.6
@@ -3542,7 +3542,7 @@ MCI2: 1.1.2
 MCID: 0.1.0
 MCL: '1.0'
 MCLIME: '1.1'
-MCM: 0.1.5
+MCM: 0.1.6
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
@@ -8456,7 +8456,7 @@ bfa: '0.4'
 bfast: 1.6.1
 bfork: 0.1.2
 bfp: 0.0-45
-bfsMaps: 0.9.6
+bfsMaps: 0.9.7
 bfsl: 0.2.0
 bfw: 0.4.2
 bgeva: 0.3-1
@@ -8483,7 +8483,7 @@ bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
 bibliospec: 0.0.4
 bibs: 1.1.1
-bibtex: 0.4.2.3
+bibtex: 0.5.0
 biclique: 1.0.5
 biclust: 2.0.3
 biclustermd: 0.2.3
@@ -9401,7 +9401,7 @@ classify: '1.3'
 classmap: 1.2.0
 classyfire: 0.1-2
 classyfireR: 0.3.8
-cld2: 1.2.1
+cld2: 1.2.2
 cld3: 1.4.2
 clda: '0.1'
 cldr: 1.1.0
@@ -11217,7 +11217,7 @@ eddi: 0.0.1
 eddington: 2.1.1
 edeR: 1.0.0
 edeaR: 0.9.0
-edecob: 1.1.0
+edecob: 1.2.0
 edesign: 1.0-9
 edf: 1.0.0
 edfReader: 1.2.1
@@ -11439,7 +11439,7 @@ epi2loc: 1.0-1
 epi2me2r: 0.1.0
 epiDisplay: 3.5.0.2
 epiGWAS: 1.0.2
-epiR: 2.0.50
+epiR: 2.0.52
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.9.2.8
@@ -11837,7 +11837,7 @@ fastAdaboost: 1.0.0
 fastCorrDiff: '0.5'
 fastDummies: 1.6.3
 fastGHQuad: 1.0.1
-fastGLCM: 1.0.1
+fastGLCM: 1.0.2
 fastGraph: '2.1'
 fastHICA: '1.0'
 fastHorseshoe: 0.1.0
@@ -13305,7 +13305,7 @@ graphite: '1.1'
 graphkernels: 1.6.1
 graphlayouts: 0.8.1
 graphon: 0.3.5
-graphql: '1.5'
+graphql: 1.5.1
 graphscan: '1.1'
 graphsim: 1.0.3
 graphx: '1.0'
@@ -13819,7 +13819,7 @@ httptest: 4.1.0
 httptest2: 0.1.0
 httpuv: 1.6.6
 httr: 1.4.4
-httr2: 0.2.1
+httr2: 0.2.2
 hubeau: 0.3.1
 hudr: 1.2.0
 hues: 0.2.0
@@ -14008,7 +14008,7 @@ icesSAG: 1.4.0
 icesSD: 2.0.0
 icesTAF: 4.0.0
 icesVocab: 1.2.0
-ichimoku: 1.4.0
+ichimoku: 1.4.1
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -14959,7 +14959,7 @@ legislatoR: '1.0'
 legocolors: 0.3.1
 lehdr: 1.0.1
 leiden: 0.4.3
-leidenAlg: 1.0.3
+leidenAlg: 1.0.4
 leidenbase: 0.1.11
 leiv: 2.0-7
 lemma: 1.3-4
@@ -15339,7 +15339,7 @@ lvm4net: '0.3'
 lvmcomp: '1.2'
 lvmisc: 0.1.1
 lvnet: 0.3.5
-lvplot: 0.2.0
+lvplot: 0.2.1
 lwgeom: 0.2-8
 lwqs: 0.5.0
 lxb: '1.5'
@@ -16852,14 +16852,14 @@ nfer: 1.1.0
 nfl4th: 1.0.2
 nflfastR: 4.4.0
 nflplotR: 1.1.0
-nflreadr: 1.3.0
+nflreadr: 1.3.1
 nflseedR: 1.1.0
 nflverse: 1.0.2
 nftbart: '1.4'
 nga: '1.4'
 ngboostForecast: 0.1.1
 ngram: 3.2.1
-ngramr: 1.8.2
+ngramr: 1.8.3
 ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
@@ -17275,7 +17275,7 @@ onlineVAR: 0.1-1
 onlineforecast: 1.0.1
 onlineretail: 0.1.2
 onls: 0.1-1
-onmaRg: 0.1.1
+onmaRg: 0.1.2
 onnx: 0.0.3
 onpoint: 1.0.2
 onsr: 1.0.1
@@ -17448,7 +17448,7 @@ osDesign: '1.8'
 osc: 1.0.5
 oscar: 1.0.4
 osd: '0.1'
-osfr: 0.2.8
+osfr: 0.2.9
 oshka: 0.1.2
 osi: 0.1.0
 oskeyring: 0.1.4
@@ -18330,7 +18330,7 @@ poorman: 0.2.6
 pop: '0.1'
 pop.lion: 1.0.1
 pop.wolf: '1.0'
-popEpi: 0.4.9
+popEpi: 0.4.10
 popKorn: 0.3-0
 popPCR: 0.1.1.1
 popPK: '1.03'
@@ -18671,7 +18671,7 @@ psycModel: 0.4.0
 psych: 2.2.5
 psychNET: 0.0.4
 psychReport: 3.0.2
-psychTools: 2.2.5
+psychTools: 2.2.9
 psychmeta: 2.6.5
 psychmetadata: 1.0.0
 psycho: 0.6.1
@@ -19338,7 +19338,7 @@ rccmisc: 0.3.7
 rccola: 1.0.2
 rcdd: '1.5'
 rcdk: 3.6.0
-rcdklibs: '2.3'
+rcdklibs: '2.8'
 rchallenge: 1.3.4
 rcheology: 4.2.1.0
 rchess: '0.1'
@@ -23221,7 +23221,7 @@ unitedR: '0.4'
 unitizer: 1.4.18
 unitquantreg: 0.0.3
 units: 0.8-0
-unittest: 1.5-1
+unittest: 1.5-3
 univOutl: '0.4'
 unival: 1.1.0
 univariateML: 1.1.1
@@ -23673,7 +23673,7 @@ weyl: 0.0-1
 wfe: 1.9.1
 wfg: '0.1'
 wfindr: 0.1.0
-wflo: '1.6'
+wflo: '1.7'
 wgaim: 2.0-1
 wgeesel: '1.5'
 wgsea: '1.8'
