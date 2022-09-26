@@ -15,7 +15,7 @@ ACDC: 1.0.0
 ACDm: 1.0.4.1
 ACEP: 0.0.1
 ACEsearch: 1.0.0
-ACEt: 1.8.1
+ACEt: 1.8.2
 ACMEeqtl: '1.6'
 ACNE: 0.8.1
 ACSNMineR: 0.16.8.25
@@ -615,7 +615,7 @@ BeastJar: 1.10.6
 BeeGUTS: 1.0.0
 Benchmarking: '0.30'
 BenfordTests: 1.2.0
-Bergm: 5.0.4
+Bergm: 5.0.5
 BerkeleyEarth: '1.8'
 BerlinData: 1.0.1
 Bessel: 0.6-0
@@ -1767,6 +1767,7 @@ EDanalysis: '1.0'
 EEM: 1.1.1
 EEMDSVR: 0.1.0
 EEMDelm: 0.1.1
+EEMDlstm: 0.1.0
 EESPCA: 0.7.0
 EFA.MRFA: 1.1.2
 EFA.dimensions: 0.1.7.4
@@ -2812,7 +2813,7 @@ HierPortfolios: 0.1.0
 HighDimOut: 1.0.0
 HighProbability: '1.0'
 HighestMedianRules: '1.0'
-HistDAWass: 1.0.6
+HistDAWass: 1.0.7
 HistDat: 0.2.0
 HistData: 0.8-7
 HistogramTools: 0.3.2
@@ -2901,7 +2902,7 @@ IDSL.IPA: '2.2'
 IDSL.MXP: '1.5'
 IDSL.SUFA: '1.0'
 IDSL.UFA: '1.5'
-IDSL.UFAx: '1.5'
+IDSL.UFAx: '1.6'
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -3542,7 +3543,7 @@ MCI2: 1.1.2
 MCID: 0.1.0
 MCL: '1.0'
 MCLIME: '1.1'
-MCM: 0.1.6
+MCM: 0.1.7
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
@@ -4188,6 +4189,7 @@ NMOF: 2.7-0
 NMRS: '1.0'
 NMTox: 0.1.0
 NMVANOVA: 1.1.0
+NMcalc: 0.0.1
 NMdata: 0.0.13
 NMproject: 0.6.8
 NNLM: 0.4.3
@@ -5201,7 +5203,7 @@ RFpredInterval: 1.0.6
 RFreak: 0.3-0
 RGA: 0.4.2
 RGAN: 0.1.1
-RGBM: 1.0-9
+RGBM: 1.0-10
 RGCCA: 2.1.2
 RGCxGC: 1.1-2
 RGE: '1.0'
@@ -5980,7 +5982,7 @@ RobustRankAggreg: '1.2'
 Robyn: 3.7.2
 RockFab: 1.2.1
 Rodam: 0.1.8
-Rogue: 2.1.2
+Rogue: 2.1.3
 RolWinMulCor: 1.2.0
 RonFHIR: 0.4.0
 Rook: 1.1-1
@@ -6027,7 +6029,7 @@ Rsgf: 1.0.0
 RsimMosaic: 1.0.3
 Rsmlx: 5.0.1
 Rsolnp: '1.16'
-Rsomoclu: 1.7.5
+Rsomoclu: 1.7.6
 Rspc: 1.2.2
 Rspotify: 0.1.2
 RsqMed: 0.1.7.1
@@ -6865,7 +6867,7 @@ TCIU: 1.2.0
 TDA: 1.8.7
 TDAkit: 0.1.2
 TDAmapper: '1.0'
-TDApplied: 0.1.1
+TDApplied: 0.1.2
 TDAstats: 0.4.1
 TDAvec: 0.1.1
 TDCor: 0.1-2
@@ -7564,7 +7566,7 @@ acss: 0.2-5
 acss.data: '1.0'
 act: 1.1.9
 actel: 1.2.1
-actilifecounts: 1.0.0
+actilifecounts: 1.1.0
 activAnalyzer: 1.0.4
 activPAL: 0.1.3
 activatr: 0.1.0
@@ -8992,7 +8994,7 @@ cairoDevice: 2.9-2
 calACS: 2.2.2
 calcUnique: 0.1.2
 calcWOI: 1.0.3
-calculus: 0.3.4
+calculus: 1.0.0
 calendR: '1.1'
 calendRio: 0.2.0
 calendar: 0.0.1
@@ -9597,6 +9599,7 @@ codez: 1.0.0
 codified: 0.3.0
 codingMatrices: 0.3.4
 codyn: 2.0.5
+coefa: 1.0.1
 coefficientalpha: '0.7'
 coefplot: 1.2.8
 coenocliner: 0.2-3
@@ -9639,7 +9642,7 @@ colocalization: 1.0.2
 colocalized: 0.2.0
 colocr: 0.1.1
 colorBlindness: 0.1.9
-colorDF: 0.1.5
+colorDF: 0.1.7
 colorRamps: 2.3.1
 colorSpec: 1.4-0
 colorblindcheck: 1.0.0
@@ -9789,7 +9792,7 @@ connectedness: '0.2'
 connections: 0.1.1
 connectwidgets: 0.1.1
 conogive: 1.0.0
-conos: 1.4.7
+conos: 1.4.8
 conover.test: 1.1.5
 conquer: 1.3.1
 conquestr: 0.9.96
@@ -10980,7 +10983,7 @@ dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
 dseplus: 2006.4-1
-dsfa: 0.0.3
+dsfa: 1.0.0
 dsims: 1.0.1
 dslabs: 0.7.4
 dslice: 1.2.0
@@ -12845,7 +12848,7 @@ ggExtra: 0.10.0
 ggFacetSample: 1.0.0
 ggHoriPlot: 1.0.0
 ggHorizon: '0.1'
-ggOceanMaps: 1.3.0
+ggOceanMaps: 1.3.4
 ggPMX: 1.2.8
 ggQC: 0.0.31
 ggQQunif: 0.1.5
@@ -12982,7 +12985,7 @@ ggrasp: '1.2'
 ggrastr: 1.0.1
 ggrcs: 0.2.4
 ggrepel: 0.9.1
-ggridges: 0.5.3
+ggridges: 0.5.4
 ggrisk: '1.3'
 ggroups: 2.1.2
 ggsci: '2.9'
@@ -13204,7 +13207,7 @@ gogarch: 0.7-5
 goldfish: 1.6.4
 goldi: 1.0.1
 goldilocks: 0.3.0
-golem: 0.3.3
+golem: 0.3.4
 gomms: '1.0'
 gompertztrunc: 0.1.0
 gontr: 1.1.0
@@ -13556,6 +13559,7 @@ hbsae: '1.2'
 hcandersenr: 0.2.0
 hcc: '0.54'
 hcci: 1.0.0
+hce: 0.0.2
 hchinamap: 0.1.0
 hcp: '0.1'
 hctrial: 0.1.0
@@ -13723,7 +13727,7 @@ hmer: 1.0.1
 hmgm: 1.0.3
 hmi: 1.0.0
 hmlasso: 0.0.1
-hmm.discnp: 3.0-7
+hmm.discnp: 3.0-9
 hmma: 1.1.0
 hmmhdd: '1.0'
 hmmm: 1.0-4
@@ -14247,7 +14251,7 @@ integrativeME: '1.2'
 integrativeMEdata: '1.0'
 intensegRid: 0.1.1
 intensity.analysis: 0.1.6
-intensitynet: 1.3.0
+intensitynet: 1.3.1
 interAdapt: '0.1'
 interacCircos: 1.0.0
 interactionR: 0.1.6
@@ -16102,7 +16106,7 @@ mlflow: 1.28.0
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
-mlim: 0.0.9
+mlim: 0.2.0
 mljar: 0.1.1
 mlmRev: 1.0-8
 mlma: 6.2-1
@@ -16187,7 +16191,7 @@ mnlogit: 1.2.6
 mnonr: 1.0.0
 mnorm: 1.0.1
 mnormpow: '0.1'
-mnormt: 2.1.0
+mnormt: 2.1.1
 mnreadR: 2.1.6
 mnspc: '1.01'
 mnt: '1.3'
@@ -19337,7 +19341,7 @@ rccdates: 1.0.0
 rccmisc: 0.3.7
 rccola: 1.0.2
 rcdd: '1.5'
-rcdk: 3.6.0
+rcdk: 3.7.0
 rcdklibs: '2.8'
 rchallenge: 1.3.4
 rcheology: 4.2.1.0
@@ -19390,7 +19394,7 @@ rddensity: '2.2'
 rddi: 0.1.0
 rddtools: 1.6.0
 rde: 0.1.0
-rdecision: 1.1.2
+rdecision: 1.1.3
 rdefra: 0.3.8
 rdetools: '1.0'
 rdflib: 0.2.5
@@ -19610,6 +19614,7 @@ remix: '2.1'
 remote: 1.2.1
 remoter: 0.4-0
 remotes: 2.4.2
+rempsyc: 0.0.9
 remss: 1.0.1
 renderthis: 0.2.0
 renpow: 0.1-1
@@ -19769,7 +19774,7 @@ rgexf: 0.16.2
 rggm: 1.0.1
 rggobi: 2.1.9
 rgho: 3.0.0
-rgl: 0.109.6
+rgl: 0.110.2
 rgl2gltf: 1.0.3
 rglobi: 0.2.28
 rglplus: '1.0'
@@ -19853,7 +19858,7 @@ riskCommunicator: 1.0.1
 riskParityPortfolio: 0.2.2
 riskPredictClustData: 0.2.6
 riskR: '1.1'
-riskRegression: 2022.09.13
+riskRegression: 2022.09.23
 riskSimul: 0.1.1
 riskclustr: 0.4.0
 riskmetric: 0.1.2
@@ -20308,7 +20313,7 @@ rtiddlywiki: 0.1.0
 rtide: 0.0.9
 rties: 5.0.0
 rtiff: '1.4'
-rtika: 2.0.0
+rtika: 2.4.1
 rtimes: 0.5.0
 rtimicropem: 1.4.0
 rtip: 1.1.1
@@ -20577,6 +20582,7 @@ scPloidy: 0.3.0
 scRNAstat: 0.1.1
 scRNAtools: '1.0'
 scSorter: 0.0.2
+scTEP: 0.1.0
 scTenifoldKnk: 1.0.1
 scTenifoldNet: '1.3'
 scUtils: 0.1.0
@@ -21055,7 +21061,7 @@ shipunov: '1.17'
 shock: '1.0'
 shopifyr: 1.0.0
 shortcuts: 1.4.0
-shorts: 2.0.0
+shorts: 2.1.0
 shotGroups: 0.8.2
 showimage: 1.0.0
 showtext: 0.9-5
@@ -22201,6 +22207,7 @@ survivalsvm: 0.0.5
 survivoR: 2.0.1
 survminer: 0.4.9
 survmixer: '1.3'
+survout: 0.1.0
 survrec: 1.2-2
 survsim: 1.1.8
 survsup: 0.0.2
@@ -22679,7 +22686,7 @@ tidytext: 0.3.4
 tidytidbits: 0.3.2
 tidytransit: '1.4'
 tidytreatment: 0.2.2
-tidytree: 0.4.0
+tidytree: 0.4.1
 tidytuesdayR: 1.0.2
 tidyverse: 1.3.2
 tidyvpc: 1.3.0
@@ -22790,7 +22797,7 @@ tmhmm: '1.3'
 tmle: 1.5.0.2
 tmle.npvi: 0.9.3
 tmlenet: 0.1.0
-tmod: 0.46.2
+tmod: 0.50.11
 tmplate: 0.0.3
 tmpm: 1.0.3
 tmsens: 0.1.0
@@ -23587,6 +23594,7 @@ waterYearType: 1.0.1
 waterfall: 1.0.2
 waterfalls: 0.1.2
 waterquality: 0.3.0
+watson: 0.0.1
 wavScalogram: 1.1.1
 waveband: 4.7.1
 waveclock: 1.0-4
@@ -23769,7 +23777,7 @@ wordsalad: 0.2.0
 wordspace: 0.2-8
 workboots: 0.2.0
 workflowr: 1.7.0
-workflows: 1.0.0
+workflows: 1.1.0
 workflowsets: 1.0.0
 workloopR: 1.1.4
 worldfootballR: 0.6.0
