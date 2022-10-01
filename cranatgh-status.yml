@@ -401,7 +401,7 @@ BHMSMAfMRI: '2.0'
 BHPMF: '1.0'
 BHSBVAR: 3.0.1
 BHTSpack: '0.6'
-BI: 1.0.0
+BI: 1.1.0
 BICORN: 0.1.0
 BIEN: 1.2.5
 BIFIEsurvey: 3.4-15
@@ -2929,7 +2929,7 @@ ILS: '0.2'
 ILSE: 1.1.7
 IM: '1.0'
 IMAGE: '1.0'
-IMD: 1.2.1
+IMD: 1.2.2
 IMEC: 0.2.0
 IMFData: 0.2.0
 IMIFA: 2.1.9
@@ -2966,7 +2966,7 @@ IPMbook: 0.1.3
 IPMpack: '2.1'
 IPPP: '1.1'
 IPSUR: '3.0'
-IPV: 0.2.0
+IPV: 1.0.0
 IPWboxplot: 0.1.1
 IPWpn: 0.1.0
 IPWsurvival: '0.5'
@@ -3109,6 +3109,7 @@ J4R: 1.0.8
 JADE: 2.0-3
 JAGUAR: 3.0.1
 JASPAR: 0.0.1
+JATSdecoder: '1.1'
 JBTools: 0.7.2.9
 JBrowseR: 0.9.1
 JCRImpactFactor: 1.0.0
@@ -5320,7 +5321,7 @@ RMTL: 0.9.9
 RMThreshold: '1.1'
 RMTstat: 0.3.1
 RMVL: 0.0.4.4
-RMaCzek: '1.4'
+RMaCzek: 1.5.0
 RMallow: '1.1'
 RMariaDB: 1.2.2
 RMark: 3.0.0
@@ -5822,7 +5823,7 @@ RedisBaseContainer: 1.0.1
 Rediscover: 0.3.0
 Redmonder: 0.2.0
 RefFreeEWAS: '2.2'
-RefManageR: 1.3.0
+RefManageR: 1.4.0
 RegClust: '1.0'
 RegKink: 0.1.0
 RegSDC: 0.7.0
@@ -8661,7 +8662,7 @@ bistablehistory: 1.1.1
 bit: 4.0.4
 bit64: 4.0.5
 bite: '0.3'
-bitmexr: 0.3.1
+bitmexr: 0.3.2
 bitops: 1.0-7
 bitrugs: '0.1'
 bitsqueezr: 0.1.1
@@ -9217,7 +9218,7 @@ censReg: 0.5-36
 censable: 0.0.3
 censo2017: 0.6.1
 censorcopula: '2.0'
-censored: 0.1.0
+censored: 0.1.1
 census: 0.2.0
 censusGeography: 0.1.0
 censusapi: 0.8.0
@@ -9261,7 +9262,7 @@ cghRA: 1.6.0
 cghseg: 1.0.5
 cglasso: 2.0.5
 cglm: '1.1'
-cgmanalysis: 2.7.4
+cgmanalysis: 2.7.5
 cgmquantify: 0.1.0
 cgraph: 6.0.1
 cgrcusum: 0.1.0
@@ -9536,7 +9537,7 @@ clustsig: '1.1'
 clustvarsel: 2.3.4
 clv: 0.3-2.2
 cmR: 1.0.3
-cmaRs: 0.1.1
+cmaRs: 0.1.2
 cmaes: 1.0-12
 cmaesr: 1.0.3
 cmcR: 0.1.9
@@ -9796,7 +9797,7 @@ conjurer: 1.5.0
 conleyreg: 0.1.7
 conmet: 0.1.0
 connect3: 0.1.0
-connectapi: 0.1.1.1
+connectapi: 0.1.2
 connectedness: '0.2'
 connections: 0.1.1
 connectwidgets: 0.1.1
@@ -10482,7 +10483,7 @@ decon: 1.3-4
 deconstructSigs: 1.8.0
 deconvolveR: 1.2-1
 decor: 1.0.1
-decorators: 0.1.0
+decorators: 0.3.0
 deducorrect: 1.3.7
 deductive: 1.0.0
 dedupewider: 0.1.0
@@ -10555,7 +10556,7 @@ denvax: 0.1.2
 depcache: 0.1-2
 depcoeff: 0.0.1
 depend.truncation: '3.0'
-depigner: 0.8.4
+depigner: 0.9.0
 depmix: 0.9.16
 depmixS4: 1.5-0
 depth: 2.1-1.1
@@ -12988,7 +12989,7 @@ ggpointless: 0.0.3
 ggpol: 0.0.7
 ggpolar: 0.2.1
 ggpolypath: 0.1.0
-ggpp: 0.4.4
+ggpp: 0.4.5
 ggprism: 1.0.3
 ggpubr: 0.4.0
 ggpval: 0.2.5
@@ -16695,7 +16696,7 @@ nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.17.1
 naflex: 0.1.0
-naijR: 0.4.4
+naijR: 0.5.0
 naive: 1.2.0
 naivebayes: 0.9.7
 naivereg: 1.0.5
@@ -19436,7 +19437,7 @@ rdomains: 0.2.1
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '2.2'
-rdrobust: 2.0.2
+rdrobust: 2.0.3
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
 rdtLite: '1.4'
@@ -19701,7 +19702,7 @@ resevol: 0.3.0.1
 reshape: 0.8.9
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
-resourcer: 1.2.1
+resourcer: 1.3.0
 respR: 2.0.2
 resper: '0.3'
 respirometry: 1.3.0
@@ -21142,6 +21143,7 @@ silicate: 0.7.0
 sim1000G: '1.40'
 sim2Dpredictr: 0.1.0
 simDNAmixtures: 1.0.1
+simET: 1.0.0
 simEd: 2.0.0
 simExam: 1.0.0
 simFrame: 0.5.4
@@ -21310,7 +21312,7 @@ sleeperapi: 1.0.4
 sleepr: 0.3.0
 sleepwalk: 0.3.2
 sleev: 1.0.2
-slendr: 0.3.0
+slendr: 0.4.0
 slfm: 1.0.1
 slga: 1.2.0
 slgf: 0.1.0
@@ -21441,7 +21443,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
-soilDB: 2.7.3
+soilDB: 2.7.4
 soilassessment: 0.2.4
 soilcarbon: 1.2.0
 soilhypfit: 0.1-7
@@ -22379,6 +22381,7 @@ tableExtra: 1.0.1
 tableHTML: 2.1.0
 tableMatrix: 0.82.0
 tablecompare: 0.1.0
+tabledown: 0.0.3
 tableeasy: 1.1.2
 tableone: 0.13.2
 tableplot: 0.3-5
@@ -22601,7 +22604,7 @@ tglm: '1.0'
 tgp: 2.4-19
 tgram: 0.2-3
 tgstat: 2.3.18
-tgver: 0.2.0
+tgver: 0.3.0
 thaipdf: 0.1.2
 thankr: 1.0.0
 thectar: 1.0.0
@@ -23565,7 +23568,7 @@ vqtl: 2.0.5
 vrcp: 0.1.1
 vrmlgen: '1.4'
 vrnmf: 1.0.2
-vroom: 1.5.7
+vroom: 1.6.0
 vrtest: '1.1'
 vscc: '0.2'
 vsd: 0.1.0
@@ -23749,7 +23752,7 @@ wikitaxa: 0.4.0
 wilcoxmed: 0.0.1
 wild1: '1.09'
 wildcard: 1.1.0
-wildlifeDI: 0.4.1
+wildlifeDI: 0.5.0
 wildmeta: 0.2.0
 wildpoker: '1.1'
 wildviz: 0.1.2
