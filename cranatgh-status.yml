@@ -1435,7 +1435,7 @@ DIFshiny: 0.1.0
 DIFtree: 3.1.6
 DIGSS: 1.0.2
 DIME: 1.3.0
-DIMORA: 0.3.0
+DIMORA: 0.3.1
 DIRECT: 1.0.1
 DISTRIB: '1.0'
 DIZtools: 0.0.5
@@ -1882,7 +1882,7 @@ EasyStrata: '8.6'
 EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
 Ecdat: 0.4-1
-Ecfun: 0.3-0
+Ecfun: 0.3-1
 EcoDiet: 1.0.0
 EcoGenetics: 1.2.1
 EcoHydRology: 0.4.9
@@ -2906,8 +2906,8 @@ IDPmisc: 1.1.20
 IDSA: '2.1'
 IDSL.IPA: '2.4'
 IDSL.MXP: '1.6'
-IDSL.SUFA: '1.0'
-IDSL.UFA: '1.5'
+IDSL.SUFA: '1.1'
+IDSL.UFA: '1.6'
 IDSL.UFAx: '1.6'
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
@@ -3484,7 +3484,7 @@ M3: '0.3'
 M4comp: 0.0.1
 MAAPER: 1.1.1
 MABOUST: 1.0.1
-MACER: 0.1.1
+MACER: 0.2.0
 MADAM: '1.2'
 MADPop: 1.1.4
 MAFDash: 0.2.1
@@ -5581,7 +5581,7 @@ RaProR: 1.1-5
 RaSEn: 3.0.0
 RaceID: 0.2.6
 RadData: 1.0.1
-RadOnc: 1.1.7
+RadOnc: 1.1.8
 RadTran: '1.0'
 RadialPlotter: '2.2'
 RadialVisGadgets: 0.2.0
@@ -7502,6 +7502,7 @@ aBioMarVsuit: '1.0'
 aCGH.Spline: '2.2'
 aCRM: 0.1.1
 aGE: 0.0.9
+aIc: '1.0'
 aLFQ: 1.3.6
 aMNLFA: 1.1.2
 aPCoA: '1.3'
@@ -9261,7 +9262,7 @@ cg: 1.0-3
 cgAUC: 1.2.1
 cgaim: 1.0.0
 cgal4h: 0.1.0
-cgam: '1.18'
+cgam: '1.19'
 cgdsr: 1.3.0
 cggd: '0.8'
 cgh: 1.0-7
@@ -9316,7 +9317,7 @@ chemosensors: 0.7.8
 cherry: 0.6-14
 cherryblossom: 0.1.0
 chess: 1.0.1
-chessR: 1.5.0
+chessR: 1.5.2
 chest: 0.3.6
 chi: '0.1'
 chi2x3way: '1.1'
@@ -9355,7 +9356,7 @@ chromoMap: 4.1.1
 chromoR: '1.0'
 chromote: 0.1.1
 chromseq: 0.1.3
-chron: 2.3-57
+chron: 2.3-58
 chronicle: '0.3'
 chronicler: 0.2.0
 chronochrt: 0.1.1
@@ -10385,7 +10386,7 @@ datautils: 0.1.5
 dataverse: 0.3.11
 dataversionr: 0.9.0
 dataview: 2.1.1
-datawizard: 0.6.1
+datawizard: 0.6.2
 datazoom.amazonia: 0.3.0
 date: 1.2-39
 datefixR: 1.2.0
@@ -10420,7 +10421,7 @@ dbhydroR: 0.2-8
 dblcens: 1.1.7
 dblr: 0.1.0
 dbmss: 2.7-10
-dbnR: 0.7.5
+dbnR: 0.7.8
 dbnlearn: 0.1.0
 dbparser: 1.2.0
 dbplot: 0.3.3
@@ -10932,7 +10933,7 @@ downloadthis: 0.3.2
 downscale: 4.2-0
 downscaledl: '1.0'
 downsize: 0.2.2
-dowser: 1.0.0
+dowser: 1.1.0
 dpa: 1.0-3
 dparser: 1.3.1-5
 dpcR: '0.5'
@@ -11014,7 +11015,7 @@ dsmodels: 1.1.0
 dsos: 0.1.1
 dsr: 0.2.2
 dsrTest: 1.0.0
-dssd: 0.3.4
+dssd: 1.0.0
 dst: 1.5.1
 dstack: 0.2.1
 dstat: 1.0.4
@@ -17849,7 +17850,7 @@ pdfetch: 0.2.7
 pdfminer: '1.0'
 pdfsearch: 0.3.0
 pdftables: '0.1'
-pdftools: 3.3.0
+pdftools: 3.3.1
 pdi: 0.4.2
 pdist: 1.2.1
 pdmod: 1.0.1
@@ -18123,7 +18124,7 @@ piton: 1.0.0
 pivmet: 0.4.0
 pivot: 18.4.17
 pivotaltrackR: 0.2.0
-pivottabler: 1.5.3
+pivottabler: 1.5.4
 piwikproR: 0.4.0
 pixarfilms: 0.2.1
 pixelclasser: 1.1.0
@@ -18949,7 +18950,7 @@ quantchem: '0.13'
 quantdates: '1.0'
 quantdr: 1.2.2
 quanteda: 3.2.3
-quanteda.textmodels: 0.9.5
+quanteda.textmodels: 0.9.5-1
 quanteda.textplots: 0.94.2
 quanteda.textstats: '0.96'
 quantification: 0.2.0
@@ -19880,7 +19881,7 @@ ring: 1.0.3
 ringbuffer: '1.1'
 ringostat: 0.1.5
 ringscale: 0.1.2
-rintcal: 0.4.1
+rintcal: 0.5.0
 rintimg: 0.1.0
 rintrojs: 0.3.2
 rio: 0.5.29
@@ -20993,7 +20994,7 @@ sharpData: '1.4'
 sharpPen: '1.8'
 sharpeRratio: 1.4.3
 sharpr2: 1.1.1.0
-sharpshootR: '1.9'
+sharpshootR: '1.11'
 sharx: 1.0-5
 shattering: 1.0.7
 shatteringdt: 0.1.0
@@ -22009,7 +22010,7 @@ stepgbm: 1.0.0
 stepjglm: 0.0.1
 stepp: 3.2.5
 steprf: 1.0.2
-steps: 1.2.1
+steps: 1.3.0
 stepwise: '0.3'
 stevedata: 0.7.0
 stevedore: 0.9.4
@@ -22496,7 +22497,7 @@ td: 0.0.6
 tdROC: '1.0'
 tdaunif: 0.1.0
 tdcmStan: 1.0.0
-tdigest: 0.3.0
+tdigest: 0.4.1
 tdist: 0.1-1
 tdm: 3.0.3
 tdr: '0.13'
@@ -22940,7 +22941,7 @@ tractor.base: 3.3.5.1
 trade: 0.8.1
 tradeCosts: 0.3-1
 tradepolicy: 0.6.0
-tradestatistics: 3.0.2
+tradestatistics: 4.4.0
 trafo: 1.0.1
 trainR: 0.0.1
 traineR: 2.0.4
