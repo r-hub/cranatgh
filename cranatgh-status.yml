@@ -416,7 +416,7 @@ BIOdry: '0.9'
 BIPOD: 0.2.1
 BIRDS: 0.2.0
 BIS: 0.2.1
-BISdata: 0.1-1
+BISdata: 0.2-0
 BKPC: '1.0'
 BLCOP: 0.3.3
 BLModel: 1.0.2
@@ -968,7 +968,7 @@ CRTgeeDR: 2.0.1
 CRUF: 0.5.1
 CRWRM: 0.0.1
 CSCDRNA: 1.0.3
-CSCNet: 0.1.0
+CSCNet: 0.1.1
 CSESA: 1.2.0
 CSFA: 1.2.0
 CSGo: 0.6.7
@@ -1504,11 +1504,11 @@ DRviaSPCN: 0.1.2
 DSAIDE: 0.9.3
 DSAIRM: 0.9.5
 DSBayes: '1.1'
-DSI: 1.4.0
+DSI: 1.5.0
 DSL: 0.1-7
 DSLite: 1.3.0
 DSMolgenisArmadillo: 1.4.1
-DSOpal: 1.3.1
+DSOpal: 1.4.0
 DSSAT: 0.0.6
 DSSP: 0.1.1
 DSWE: 1.6.2
@@ -1883,7 +1883,7 @@ EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
 Ecdat: 0.4-1
 Ecfun: 0.3-1
-EcoDiet: 1.0.0
+EcoDiet: 1.0.1
 EcoGenetics: 1.2.1
 EcoHydRology: 0.4.9
 EcoIndR: '1.8'
@@ -1895,7 +1895,7 @@ Ecohydmod: 1.0.0
 EconDemand: '1.0'
 EcotoneFinder: 0.2.3
 Ecume: 0.9.1
-EdSurvey: 3.0.0
+EdSurvey: 3.0.1
 EditImputeCont: 1.1.6
 EffectLiteR: 0.4-5
 EffectStars: 1.9-1
@@ -2380,7 +2380,7 @@ GFisher: 0.2.0
 GGClassification: '0.1'
 GGEBiplotGUI: '1.0'
 GGEBiplots: 0.1.3
-GGIR: 2.8-1
+GGIR: 2.8-2
 GGIRread: 0.2.3
 GGMM: 1.0.1
 GGMncv: 2.1.1
@@ -2730,7 +2730,7 @@ HIMA: 2.0.1
 HIV.LifeTables: '0.1'
 HIest: '2.0'
 HK80: 0.0.2
-HKRbook: 0.1.2
+HKRbook: 0.1.3
 HKprocess: 0.0-2
 HLMdiag: 0.5.0
 HLSM: 0.9.0
@@ -5635,7 +5635,7 @@ Rbgs: '0.2'
 RbioRXN: '1.5'
 Rbitcoin: '0.9'
 RblDataLicense: 0.2.4
-Rblpapi: 0.3.13
+Rblpapi: 0.3.14
 Rborist: 0.2-3
 Rcan: 1.3.82
 Rcapture: 1.4-4
@@ -5664,7 +5664,7 @@ RcmdrPlugin.DoE: 0.12-4
 RcmdrPlugin.EACSPIR: '0.2'
 RcmdrPlugin.EBM: 1.0-10
 RcmdrPlugin.EHESsampling: '2.0'
-RcmdrPlugin.EZR: '1.56'
+RcmdrPlugin.EZR: '1.60'
 RcmdrPlugin.EcoVirtual: '1.0'
 RcmdrPlugin.Export: 0.3-1
 RcmdrPlugin.FactoMineR: '1.7'
@@ -6064,7 +6064,7 @@ RtextSummary: 0.1.0
 Rtextrankr: 1.0.0
 Rthingsboard: 0.2.7
 Rtnmin: 2016-7.7
-Rtrack: 1.0.0
+Rtrack: 1.0.7
 Rtropical: 1.2.1
 Rtsne: '0.16'
 Rttf2pt1: 1.3.10
@@ -7649,7 +7649,7 @@ adfExplorer: 0.1.6
 adheRenceRX: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.3
-adiv: 2.1.2
+adiv: '2.2'
 adjROC: 0.2.0
 adjSURVCI: '1.0'
 adjclust: 0.6.6
@@ -7752,7 +7752,7 @@ akmedoids: 1.3.0
 alR: 2.2.2
 alabama: 2022.4-1
 alakazam: 1.2.1
-albatross: 0.3-4
+albatross: 0.3-5
 albopictus: '0.5'
 ald: 1.3.1
 aldvmm: 0.8.4
@@ -8149,7 +8149,7 @@ autostsm: 3.0.3
 autota: 0.1.3
 autothresholdr: 1.4.0
 autovarCore: 1.0-4
-av: 0.8.1
+av: 0.8.2
 available: 1.1.0
 avar: 0.1.2
 averisk: 1.0.3
@@ -8157,7 +8157,7 @@ avgrankoverlap: '1.0'
 avidaR: 1.1.3
 avocado: 0.1.0
 aweSOM: '1.3'
-aweek: 1.0.2
+aweek: 1.0.3
 aws: 2.5-1
 aws.alexa: 0.1.8
 aws.cloudtrail: 0.1.5
@@ -8451,7 +8451,7 @@ berryFunctions: 1.21.14
 bestNormalize: 1.8.3
 bestSDP: 0.1.2
 bestglm: 0.37.3
-besthr: 0.3.0
+besthr: 0.3.1
 bestridge: 1.0.7
 betaBayes: 1.0.1
 betaSandwich: 1.0.1
@@ -12973,7 +12973,7 @@ ggmsa: 1.0.2
 ggmuller: 0.5.4
 ggmulti: 1.0.4
 ggnetwork: 0.5.10
-ggnewscale: 0.4.7
+ggnewscale: 0.4.8
 ggnormalviolin: 0.1.2
 ggnuplot: 0.1.0
 ggokabeito: 0.1.0
@@ -14844,7 +14844,7 @@ landsat8: 0.1-10
 landscapeR: '1.2'
 landscapemetrics: 1.5.4
 landscapetools: 0.5.0
-landsepi: 1.2.1
+landsepi: 1.2.2
 langevitour: '0.5'
 languageR: 1.5.0
 languagelayeR: 1.2.4
@@ -15129,7 +15129,7 @@ listdown: 0.5.2
 listdtr: '1.1'
 listenv: 0.8.0
 listless: 0.0-2
-listr: 0.0.2
+listr: 0.1.0
 listviewer: 3.0.0
 litRiddle: 0.4.1
 lite: 1.0.0
@@ -15863,7 +15863,7 @@ metarep: '1.1'
 metasens: 1.5-0
 metatest: 1.0-5
 metathis: 1.1.2
-metatools: 0.1.1
+metatools: 0.1.3
 metaumbrella: 1.0.5
 metavcov: 2.1.2
 metaviz: 0.3.1
@@ -16386,7 +16386,7 @@ mpMap: '1.14'
 mpMap2: 1.0.4
 mpa: 0.7.3
 mpath: 0.4-2.22
-mpathsenser: 1.0.3
+mpathsenser: 1.1.0
 mpbart: '0.2'
 mpc: '0.1'
 mpcmp: 0.3.6
@@ -16853,7 +16853,7 @@ netstat: 0.1.2
 nettools: 1.0.1
 nettskjemar: 0.1.4
 netweavers: '1.1'
-network: 1.17.2
+network: 1.18.0
 networkABC: 0.8-0
 networkD3: '0.4'
 networkDynamic: 0.11.2
@@ -17084,7 +17084,7 @@ nortsTest: 1.0.3
 nos: 1.1.0
 nose: '1.0'
 nosoi: 1.1.0
-not: '1.3'
+not: '1.4'
 noteMD: 0.1.0
 notifier: 1.0.0
 notifyR: '1.02'
@@ -17356,7 +17356,7 @@ openadds: 0.2.0
 openai: 0.1.0
 openair: '2.11'
 openairmaps: 0.4.3
-openalexR: 0.0.1
+openalexR: 1.0.0
 openbankeR: 0.1.1
 openblender: 0.5.81
 opencage: 0.2.2
@@ -17629,7 +17629,7 @@ paleobioDB: 0.7.0
 paleobuddy: 1.0.0
 paleofire: 1.2.4
 paleomorph: 0.1.4
-paleopop: 2.1.2
+paleopop: 2.1.3
 paleotree: 3.4.5
 paletteer: 1.4.1
 paletteknife: 0.4.2
@@ -18679,7 +18679,7 @@ provenance: '4.0'
 proverbs: 0.1.0
 proxirr: '0.2'
 proxy: 0.4-27
-proxyC: 0.3.2
+proxyC: 0.3.3
 prozor: 0.3.1
 prrd: 0.0.5
 prt: 0.1.5
@@ -18774,7 +18774,7 @@ pureseqtmr: '1.2'
 purge: 0.2.1
 purgeR: '1.5'
 purging: 1.0.0
-purrr: 0.3.4
+purrr: 0.3.5
 purrrlyr: 0.0.8
 purrrogress: 0.1.1
 pushbar: 0.1.0
@@ -19879,7 +19879,7 @@ riingo: 0.3.1
 rijkspalette: 1.0.2
 rim: 0.5.1
 rimage: '0.5'
-rimu: '0.5'
+rimu: '0.6'
 rinat: 0.1.9
 rindex: '0.12'
 rinform: 1.0.2
@@ -22600,7 +22600,7 @@ textometry: 0.1.6
 textplot: 0.2.2
 textrank: 0.3.1
 textreadr: 1.2.0
-textrecipes: 1.0.0
+textrecipes: 1.0.1
 textreg: 0.1.5
 textreuse: 0.1.5
 textshape: 1.7.3
