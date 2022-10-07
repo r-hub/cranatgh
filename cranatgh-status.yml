@@ -3186,6 +3186,7 @@ KFPCA: '2.0'
 KGode: 1.0.4
 KHQ: 0.2.0
 KLexp: 1.0.0
+KMD: 0.1.0
 KMDA: '1.0'
 KMgene: '1.3'
 KMsurv: 0.1-5
@@ -5161,7 +5162,7 @@ RCrypto: 0.1.0
 RCryptsy: '0.4'
 RCurl: 1.98-1.9
 RCytoGPS: 1.2.1
-RCzechia: 1.9.2
+RCzechia: 1.9.4
 RDF: '1.1'
 RDFTensor: '1.3'
 RDIDQ: '1.0'
@@ -6377,7 +6378,7 @@ SRTtools: 1.2.0
 SSBtools: 1.3.4
 SSDL: '1.1'
 SSDM: 0.2.8
-SSDforR: 1.5.26
+SSDforR: 1.5.28
 SSHAARP: 1.1.0
 SSL: '0.1'
 SSLASSO: 1.2-2
@@ -7555,7 +7556,7 @@ acca: '0.2'
 accelerometry: 3.1.2
 accelmissing: '1.4'
 accept: 0.9.1
-accessibility: 1.0.0
+accessibility: 1.0.1
 accessrmd: 1.0.0
 accrual: '1.3'
 accrualPlot: 1.0.7
@@ -7915,7 +7916,7 @@ apollo: 0.2.8
 apparent: '1.1'
 appell: 0.0-4
 apple: '0.3'
-appler: 0.1.3
+appler: 0.1.4
 applicable: 0.1.0
 appnn: 1.0-0
 approxOT: 1.0.2
@@ -8153,6 +8154,7 @@ av: 0.8.2
 available: 1.1.0
 avar: 0.1.2
 averisk: 1.0.3
+avfintools: 0.1.0
 avgrankoverlap: '1.0'
 avidaR: 1.1.3
 avocado: 0.1.0
@@ -8419,6 +8421,7 @@ beanplot: 1.3.1
 beans: 0.1.0
 beanz: '2.4'
 bear: 2.6.4
+bearishTrader: 1.0.2
 beast: '1.1'
 beastier: 2.4.11
 beats: 0.1.1
@@ -8952,6 +8955,7 @@ bundesbank: 0.1-9
 bundesligR: 0.1.0
 bundle: 0.1.0
 bupaR: 0.5.2
+bupaverse: 0.1.0
 burnr: 0.6.1
 bursts: 1.0-2
 busdater: 0.2.0
@@ -9980,7 +9984,7 @@ covid19sf: 0.1.2
 covid19srilanka: 1.0.0
 covid19swiss: 0.1.0
 covid19us: 0.1.9
-covidcast: 0.4.2
+covidcast: 0.4.3
 covidprobability: 0.1.0
 covidregionaldata: 0.9.3
 covidsymptom: 0.9.3
@@ -10201,7 +10205,7 @@ cumstats: '1.0'
 cumulocityr: 0.1.0
 cuperdec: 1.1.0
 curephEM: 0.2.5
-curl: 4.3.2
+curl: 4.3.3
 curlconverter: 0.7.0
 currentSurvival: '1.1'
 curry: 0.1.1
@@ -13798,7 +13802,7 @@ hotspots: 1.0.3
 housingData: 0.3.0
 hover: 0.1.1
 howManyImputations: 0.2.3
-howler: 0.2.0
+howler: 0.2.1
 howmany: 0.3-1
 howzatR: 1.0.1
 hpa: 1.2.1
@@ -14412,7 +14416,7 @@ isni: '1.3'
 isnullptr: 1.0.1
 isoSurv: 0.2.0
 isoWater: 1.1.1
-isoband: 0.2.5
+isoband: 0.2.6
 isoboost: 1.0.1
 isobxr: 1.0.1
 isocalcR: 0.1.0
@@ -15799,7 +15803,7 @@ meshsimp: '0.1'
 messaging: 0.1.0
 messydates: 0.3.1
 met: 0.1.0
-metR: 0.12.0
+metR: 0.13.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
 meta: 6.0-0
@@ -16722,7 +16726,7 @@ nakagami: 1.1.0
 name: 0.0.1
 namedCapture: 2020.4.1
 namedropR: 2.4.1
-namer: 0.1.5
+namer: 0.1.6
 namespace: 0.9.1
 nametagger: 0.1.1
 nandb: 2.1.0
@@ -18124,6 +18128,7 @@ pipeliner: 0.1.1
 pipenostics: 0.1.7
 pirate: 1.0.0
 piratings: 0.1.9
+pirouette: 1.6.4
 pisaRT: 2.0.1
 pitchRx: 1.8.2
 piton: 1.0.0
@@ -19527,7 +19532,7 @@ rebus.unicode: 0.0-2
 recalls: 0.1.0
 recapr: 0.4.4
 reccsim: 0.9-1
-receptiviti: 0.1.0
+receptiviti: 0.1.2
 recexcavAAR: 0.3.0
 rechonest: '1.2'
 recipes: 1.0.1
@@ -19579,7 +19584,7 @@ refreg: 0.1.1
 refreshr: 0.1.0
 refset: 0.1.1
 refuge: 0.3.3
-refund: 0.1-26
+refund: 0.1-28
 refund.shiny: 0.4.1
 refund.wave: '0.1'
 regDIF: 1.0.0
@@ -20150,7 +20155,7 @@ rosr: 0.0.8
 rotasym: 1.1.3
 rotationForest: 0.1.3
 rotations: 1.6.4
-rotl: 3.0.12
+rotl: 3.0.14
 rotor: 0.3.6
 roughnet: 1.0.0
 roughrf: '1.0'
@@ -21418,7 +21423,7 @@ smss: 1.0-2
 smurf: 1.1.3
 smvgraph: 0.1.2
 sn: 2.1.0
-snSMART: 0.1.0
+snSMART: 0.2.1
 sna: '2.7'
 snahelper: 1.4.1
 snakecase: 0.11.0
@@ -23184,6 +23189,7 @@ twangRDC: '1.0'
 tweedie: 2.3.5
 tweenr: 2.0.2
 tweet2r: '1.1'
+tweetcheck: 0.1.0
 twenty48: 0.2.1
 twfy: 0.1.0
 twiddler: 0.5-0
@@ -23400,7 +23406,7 @@ valottery: 0.0.1
 valr: 0.6.5
 valse: 0.1-0
 valueEQ5D: 0.7.2
-valuemap: 2.0.0
+valuemap: 2.0.4
 valuer: 1.1.2
 vamc: 0.2.1
 vampyr: 1.1.1
