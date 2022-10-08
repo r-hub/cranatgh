@@ -149,7 +149,7 @@ ATE: 0.2.0
 ATNr: 1.0.1
 ATR: 0.1-1
 ATbounds: 0.1.0
-ATmet: 1.2.1
+ATmet: '1.2'
 AUC: 0.3.2
 AUCRF: '1.1'
 AUtests: '0.99'
@@ -2689,7 +2689,7 @@ HCT: 0.1.3
 HCTDesign: 0.7.1
 HCTR: 0.1.1
 HCV: 1.2.0
-HCmodelSets: 1.1.2
+HCmodelSets: '1.1'
 HDBRR: 1.1.4
 HDCI: 1.0-2
 HDCurves: 0.1.1
@@ -5404,7 +5404,7 @@ ROI.plugin.scs: 1.1-1
 ROI.plugin.symphony: 1.0-0
 ROMDB: 0.1.0
 ROMIplot: '1.0'
-ROOPSD: 0.2.5
+ROOPSD: 0.3.8
 ROP: '1.0'
 ROSE: 0.0-4
 RObsDat: '16.03'
@@ -6068,7 +6068,7 @@ Rtnmin: 2016-7.7
 Rtrack: 1.0.7
 Rtropical: 1.2.1
 Rtsne: '0.16'
-Rttf2pt1: 1.3.10
+Rttf2pt1: 1.3.11
 Rtts: 0.3.3
 RtutoR: '1.2'
 Rtwalk: 1.8.0
@@ -8609,7 +8609,7 @@ binr: 1.1.1
 binsegRcpp: 2022.7.21
 binseqtest: 1.0.3
 binsmooth: 0.2.2
-binspp: 0.1.20
+binspp: 0.1.24
 binsreg: '0.7'
 binst: 0.2.1
 bio.infer: 1.3-6
@@ -11888,7 +11888,7 @@ fastRG: 0.3.1
 fastRhockey: 0.3.1
 fastSOM: 1.0.1
 fastStat: '1.4'
-fastText: 1.0.2
+fastText: 1.0.3
 fastTextR: 2.0.0
 fastTopics: 0.6-142
 fastVAR: '1.2'
@@ -11974,7 +11974,7 @@ fdcov: 1.1.0
 fddm: 0.5-2
 fdim: 1.0-7
 fdistr: 0.1.0
-fdm2id: 0.9.6
+fdm2id: 0.9.7
 fdq: '0.12'
 fdrDiscreteNull: '1.4'
 fdrci: '2.3'
@@ -13144,7 +13144,7 @@ glmmGS: '0.5'
 glmmLasso: 1.6.2
 glmmML: 1.1.3
 glmmPen: 1.5.1.10
-glmmSeq: 0.5.1
+glmmSeq: 0.5.5
 glmmTMB: 1.1.4
 glmmboot: 0.6.0
 glmmfields: 0.1.4
@@ -14377,7 +14377,7 @@ ipsfs: 1.0.0
 iptmnetr: 0.1.8
 iptools: 0.7.2
 ipumsr: 0.5.1
-ipw: 1.0-11
+ipw: '1.0'
 ipwCoxCSV: '1.0'
 ipwErrorY: '2.1'
 iq: 1.9.6
@@ -20346,7 +20346,7 @@ rsurveycto: 0.1.0
 rsvd: 1.0.5
 rsvddpd: 1.0.0
 rsvg: 2.3.1
-rsyncrosim: 1.3.2
+rsyncrosim: 1.4.2
 rsyntax: 0.1.4
 rsyslog: 1.0.2
 rt: 1.1.0
@@ -22574,7 +22574,7 @@ tester: 0.1.7
 testextra: 0.1.0
 testforDEP: 0.2.0
 testit: '0.13'
-testthat: 3.1.4
+testthat: 3.1.5
 testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
