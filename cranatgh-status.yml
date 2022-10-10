@@ -1884,6 +1884,7 @@ EbayesThresh: 1.4-12
 Ecdat: 0.4-1
 Ecfun: 0.3-2
 EcoDiet: 1.0.1
+EcoEnsemble: 1.0.0
 EcoGenetics: 1.2.1
 EcoHydRology: 0.4.9
 EcoIndR: '1.8'
@@ -2093,7 +2094,7 @@ FIT: 0.0.6
 FITSio: 2.1-6
 FKBL: 0.50-4
 FKF: 0.2.3
-FKF.SP: 0.3.0
+FKF.SP: 0.3.1
 FKSUM: 1.0.0
 FLAME: 2.1.1
 FLCore: 1.4-4
@@ -3379,7 +3380,7 @@ LW1949: 1.1.0
 LWFBrook90R: 0.5.0
 LZeroSpikeInference: 1.0.3
 LaF: 0.8.4
-LabApplStat: 1.4.3
+LabApplStat: 1.4.4
 LabRS: 0.1.0
 LabourMarketAreas: 3.3.1
 LadR: 1.0.6
@@ -6022,7 +6023,7 @@ Rphylopars: 0.3.9
 Rpipedrive: 0.1.1
 Rpoet: 1.1.0
 Rpolyhedra: 0.5.4
-Rpoppler: 0.1-0
+Rpoppler: 0.1-1
 RprobitB: 1.1.1
 Rprofet: 2.2.1
 Rpvt: 0.1.1
@@ -7868,7 +7869,7 @@ anscombiser: 1.1.0
 ant: 0.0-8
 antaresEditObject: 0.3.0
 antaresProcessing: 0.18.1
-antaresRead: 2.2.95
+antaresRead: 2.3.0
 antaresViz: '0.17'
 anthro: 1.0.0
 anthroplus: 0.9.0
@@ -8697,7 +8698,7 @@ blackbox: 1.1.32
 blaise: 1.3.9
 blandr: 0.5.1
 blapsr: 0.6.1
-blaster: 1.0.4
+blaster: '1.0'
 blastula: 0.3.2
 blatent: 0.1.1
 blatr: 1.0.1
@@ -9178,7 +9179,7 @@ ccgarch: 0.2.3
 cchs: 0.4.2
 cchsflow: 2.1.0
 ccid: 1.2.0
-cclust: 0.6-24
+cclust: 0.6-25
 ccmEstimator: 1.0.0
 ccmReportR: 0.1.0
 ccml: 1.1.0
@@ -9562,7 +9563,7 @@ cmdfun: 1.0.2
 cmenet: 0.1.2
 cmfilter: 0.9.1
 cmfrec: 3.4.3
-cmhc: 0.2.1
+cmhc: 0.2.3
 cml: 0.0.5
 cmm: '0.12'
 cmmr: 0.1.2
@@ -10130,7 +10131,7 @@ crul: '1.3'
 crunch: 1.30.0
 crunchy: 0.3.3
 cruts: '1.1'
-cry: 0.4.1
+cry: 0.5.1
 crypto: 1.1.3
 crypto2: 1.4.4
 cryptoverse: 0.1.0
@@ -10521,7 +10522,7 @@ default: 1.0.0
 define: 0.2.9
 defineR: 0.0.4
 deflateBR: 1.1.2
-deforestable: 3.0.0
+deforestable: 3.1.0
 deformula: 0.1.2
 defrostR: 1.1.0
 degday: 0.4.0
@@ -12645,7 +12646,7 @@ gdtools: 0.2.4
 gdxdt: 0.1.0
 gear: 0.3.4
 gearman: 0.1-5
-gecko: 0.1.0
+gecko: 0.1.1
 geckor: 0.2.0
 gee: 4.13-24
 gee4: 0.1.0.0
@@ -13003,7 +13004,7 @@ ggpmisc: 0.5.0
 ggpointdensity: 0.1.0
 ggpointless: 0.0.3
 ggpol: 0.0.7
-ggpolar: 0.2.1
+ggpolar: 0.2.2
 ggpolypath: 0.1.0
 ggpp: 0.4.5
 ggprism: 1.0.3
@@ -14843,6 +14844,7 @@ lamme: 0.0.1
 lancet.iraqmortality: 0.2-0
 landest: '1.1'
 landmap: 0.0.9
+landmix: '1.0'
 landpred: '1.1'
 landsat: 1.1.0
 landsat8: 0.1-10
@@ -15157,7 +15159,7 @@ lm.br: 2.9.5
 lmDiallel: 0.9.5
 lmForc: 0.1.0
 lmPerm: 2.1.0
-lmQCM: 0.2.3
+lmQCM: 0.2.4
 lmSubsets: 0.5-2
 lmSupport: 2.9.8
 lmap: 0.1.1
@@ -16063,6 +16065,7 @@ missRanger: 2.1.3
 missSBM: 1.0.3
 missSOM: 1.0.1
 missingHE: 1.4.1
+missoNet: 1.0.0
 mistat: 2.0.3
 mistr: 0.0.5
 mistral: 2.2.1
@@ -16710,7 +16713,7 @@ nCopula: 0.1.1
 nCov2019: 0.4.5
 nFCA: '0.3'
 nFDR: '0.0'
-nFactors: 2.4.1
+nFactors: 2.4.1.1
 nJira: 0.1.1
 nLTT: 1.4.8
 nVennR: 0.2.3
@@ -16820,6 +16823,7 @@ neptune: 0.2.3
 nesRdata: 0.3.1
 nestedRanksTest: '0.2'
 nestedcv: 0.3.0
+nestedmodels: 1.0.1
 nestfs: 1.0.2
 nestr: 0.1.2
 net.security: 0.3.0
@@ -16955,7 +16959,7 @@ nlgeocoder: 0.1.3
 nlirms: 3.4.4
 nlist: 0.3.3
 nlive: 0.1.0
-nlme: 3.1-159
+nlme: 3.1-160
 nlmeODE: '1.1'
 nlmeU: 0.70-9
 nlmeVPC: '2.5'
@@ -19033,7 +19037,7 @@ r2mlm: 0.3.2
 r2pmml: 0.26.0
 r2pptx: 0.1.0
 r2r: 0.1.1
-r2redux: 1.0.11
+r2redux: 1.0.12
 r2resize: '1.2'
 r2rtf: 0.3.5
 r2shortcode: '0.1'
@@ -19429,6 +19433,7 @@ rcrossref: 1.1.0
 rcrtan: 0.1.1
 rcrypt: 0.1.1
 rcss: '1.8'
+rcssci: 0.1.0
 rct3: 1.0.4
 rcube: '0.5'
 rcure: 0.1.0
@@ -20589,7 +20594,7 @@ sarima: 0.9.1
 sarp.snowprofile: 1.3.1
 sarp.snowprofile.alignment: 1.2.1
 sars: 1.3.5
-sarsop: 0.6.10
+sarsop: 0.6.11
 sas7bdat: '0.6'
 sasLM: 0.9.2
 sasMap: 1.0.0
@@ -20713,7 +20718,7 @@ scoringTools: 0.1.2
 scoringutils: 1.0.1
 scout: 1.0.4
 scphaser: 1.0.0
-scpi: 1.0.0
+scpi: 2.0.0
 scpm: 2.0.0
 scpoisson: 0.0.1
 scqe: 1.0.0
@@ -22960,7 +22965,7 @@ tradestatistics: 4.4.0
 trafo: 1.0.1
 trainR: 0.0.1
 traineR: 2.0.4
-traipse: 0.2.5
+traipse: 0.3.0
 traitdataform: 0.6.8
 traitr: '0.9'
 traits: 0.5.0
@@ -23110,7 +23115,7 @@ tsdf: 1.1-8
 tsdisagg2: 0.1.0
 tsensembler: 0.1.0
 tsentiment: 1.0.4
-tseries: 0.10-51
+tseries: 0.10-52
 tseriesChaos: 0.1-13.1
 tseriesEntropy: 0.6-0
 tsfa: 2021.1-3
@@ -23735,6 +23740,7 @@ weibullness: 1.19.8
 weibulltools: 2.0.0
 weightQuant: 1.0.1
 weightTAPSPACK: '0.1'
+weightedCL: '0.5'
 weightedGCM: 0.1.0
 weightedKmeans: 1.2.0
 weightedRank: 0.1.6
