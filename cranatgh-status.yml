@@ -46,7 +46,7 @@ AEenrich: 1.1.0
 AF: 0.1.5
 AFLPsim: 0.4-2
 AFM: '2.0'
-AFR: 0.1.0
+AFR: 0.2.0
 AFheritability: 0.1.0
 AGD: '0.39'
 AGHmatrix: 2.0.4
@@ -2773,6 +2773,7 @@ HTLR: 0.4-3
 HTML: 0.4-1
 HTMLUtils: 0.1.8
 HTMLapplets: 0.1-2
+HTRX: 1.0.7
 HTSCluster: 2.0.10
 HTSDiff: 1.0.5
 HTSSIP: 1.4.1
@@ -4066,7 +4067,7 @@ MortalityTables: 2.0.3
 MotilityLab: 0.2-5
 MovieSpider: '1.0'
 MplusAutomation: 1.1.0
-MplusTrees: 0.2.1
+MplusTrees: 0.2.2
 Mposterior: 0.1.2
 Mqrcm: '1.2'
 MrSGUIDE: 0.1.2
@@ -6423,6 +6424,7 @@ SUE: '1.0'
 SUMMER: 1.3.0
 SUNGEO: 0.2.292
 SV: 1.3.5
+SVDNF: 0.1.0
 SVGMapping: '1.4'
 SVMMaj: 0.2.9.1
 SVMMatch: '1.1'
@@ -6706,6 +6708,7 @@ SpatialRoMLE: 0.1.0
 SpatialTools: 1.0.4
 SpatialVS: '1.1'
 SpatialVx: '1.0'
+SpatialfdaR: 1.0.0
 SpatioTemporal: 1.1.9
 Spbsampling: 1.3.5
 SpecDetec: 1.0.0
@@ -6931,6 +6934,7 @@ TOC: 0.0-5
 TOHM: '1.4'
 TORDs: 1.0.0
 TOSTER: 0.4.2
+TOU: 0.1.0
 TP.idm: '1.5'
 TPAM: '1.0'
 TPCselect: 0.8.1
@@ -7784,6 +7788,7 @@ alookr: 0.3.7
 alpaca: 0.3.4
 alphaOutlier: 1.2.0
 alphabetr: 0.2.2
+alphaci: 1.0.0
 alphahull: '2.5'
 alphashape3d: 1.3.1
 alphastable: 0.2.1
@@ -10378,7 +10383,7 @@ datapack: 1.4.1
 datapackage.r: 1.3.5
 datapasta: 3.1.0
 dataprep: 0.1.5
-dataquieR: 1.0.10
+dataquieR: 1.0.11
 datardis: 0.0.3
 dataresqc: 1.1.0
 datarium: 0.1.0
@@ -11115,7 +11120,7 @@ dynsbm: '0.7'
 dynsim: 1.2.3
 dynsurv: 0.4-3
 dyntaper: '1.1'
-dynutils: 1.0.10
+dynutils: 1.0.11
 dynwrap: 1.2.2
 e1071: 1.7-11
 eAnalytics: 0.1.4
@@ -13007,7 +13012,7 @@ ggpointdensity: 0.1.0
 ggpointless: 0.0.3
 ggpol: 0.0.7
 ggpolar: 0.2.2
-ggpolypath: 0.1.0
+ggpolypath: 0.2.0
 ggpp: 0.4.5
 ggprism: 1.0.3
 ggpubr: 0.4.0
@@ -13028,7 +13033,7 @@ ggseas: 0.5.4
 ggseg: 1.6.5
 ggseg3d: 1.6.3
 ggseqlogo: '0.1'
-ggseqplot: 0.8.0
+ggseqplot: 0.8.1
 ggshadow: 0.0.2
 ggside: 0.2.1
 ggsignif: 0.6.3
@@ -13710,6 +13715,7 @@ hiertest: '1.1'
 highD2pop: '1.0'
 highDmean: 0.1.0
 highMLR: 0.1.1
+highOrderPortfolios: 0.0.2
 highSCREEN: '0.4'
 highTtest: '1.3'
 highcharter: 0.9.4
@@ -15343,7 +15349,7 @@ lsdv: '1.1'
 lsei: 1.3-0
 lsgl: 1.3.6
 lshorth: 0.1-6
-lsirm12pl: 1.0.1
+lsirm12pl: 1.0.2
 lsl: 0.5.6
 lslx: 0.6.10
 lsm: 0.2.1.2
@@ -17890,7 +17896,7 @@ pear: '1.2'
 pearson7: 1.0-3
 pec: 2022.05.04
 pecora: 0.1.1
-pedSimulate: 1.3.2
+pedSimulate: 1.4.0
 pedalfast.data: 1.0.0
 pedantics: '1.7'
 pedbp: 1.0.0
@@ -19806,7 +19812,7 @@ rflann: '1.3'
 rflashtext: 0.1.0
 rflexscan: 1.0.0
 rflights: 0.1.103
-rflsgen: 1.0.0
+rflsgen: 1.2.0
 rfm: 0.2.2
 rfml: 0.1.0
 rfoaas: 2.3.2
@@ -20168,7 +20174,7 @@ rotasym: 1.1.3
 rotationForest: 0.1.3
 rotations: 1.6.4
 rotl: 3.0.14
-rotor: 0.3.6
+rotor: 0.3.7
 roughnet: 1.0.0
 roughrf: '1.0'
 roughsf: 1.0.0
@@ -20468,6 +20474,7 @@ rxivistr: 0.1.1
 rxode2: 2.0.7
 rxode2ll: 2.0.9
 rxode2parse: 2.0.11
+rxode2random: 2.0.9
 rxylib: 0.2.8
 ryandexdirect: 3.6.0
 rym: 1.0.5
@@ -23487,7 +23494,7 @@ vectools: 0.3.0
 vectoptim: '0.2'
 vectorwavelet: 0.1.0
 vegalite: 0.6.1
-vegan: 2.6-2
+vegan: 2.6-4
 vegan3d: 1.1-2
 vegawidget: 0.4.1
 vegclust: 2.0.2
@@ -23593,7 +23600,7 @@ vntrs: 0.1.0
 vocaldia: 0.8.4
 voice: 0.4.14
 volcano3D: 2.0.8
-volesti: 1.1.2-2
+volesti: 1.1.2
 volleystat: 0.2.0
 voluModel: 0.1.6
 voronoi: '1.1'
