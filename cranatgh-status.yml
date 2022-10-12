@@ -15,6 +15,7 @@ ACDC: 1.0.0
 ACDm: 1.0.4.1
 ACEP: 0.0.1
 ACEsearch: 1.0.0
+ACEsimFit: 0.0.0.9
 ACEt: 1.8.2
 ACMEeqtl: '1.6'
 ACNE: 0.8.1
@@ -558,6 +559,7 @@ BayesMassBal: 1.1.0
 BayesMed: '1.0'
 BayesMixSurv: 0.9.1
 BayesMultMeta: 0.1.1
+BayesMultiMode: 0.1.1
 BayesNI: '0.1'
 BayesNSGP: 0.1.2
 BayesNetBP: 1.6.1
@@ -898,7 +900,7 @@ CMPControl: '1.0'
 CMShiny: 0.1.0
 CMapViz: 0.1.0
 CMatching: 2.3.0
-CMplot: 4.1.0
+CMplot: 4.2.0
 CNAIM: 2.1.4
 CNLTreg: 0.1-2
 CNLTtsa: 0.1-2
@@ -963,7 +965,7 @@ CRFCSD: '3.1'
 CRM: 1.2.4
 CRPClustering: '1.2'
 CRTConjoint: 0.1.0
-CRTSize: '1.0'
+CRTSize: '1.1'
 CRTgeeDR: 2.0.1
 CRUF: 0.5.1
 CRWRM: 0.0.1
@@ -1532,6 +1534,7 @@ DTR: '1.7'
 DTRlearn: '1.3'
 DTRlearn2: '1.1'
 DTRreg: '1.7'
+DTSEA: 0.0.1
 DTSg: 1.1.1
 DTWBI: '1.1'
 DTWUMI: '1.0'
@@ -6211,7 +6214,7 @@ SEL: 1.0-3
 SELF: 0.1.1
 SEMID: 0.4.0
 SEMModComp: '1.0'
-SEMgraph: 1.1.2
+SEMgraph: 1.1.3
 SEMrushR: 0.1.0
 SEMsens: 1.5.5
 SETPath: '1.0'
@@ -6611,7 +6614,7 @@ Sleuth3: 1.0-3
 SlidingWindows: 0.2.0
 SlimPLS: '0.3'
 SmCCNet: 0.99.0
-SmallCountRounding: 1.0.0
+SmallCountRounding: 1.0.2
 SmartEDA: 0.3.8
 SmartMeterAnalytics: 1.0.3
 SmartSVA: 0.1.3
@@ -6637,6 +6640,7 @@ SocialNetworks: '1.1'
 SocialPosition: 1.0.1
 SocrataR: '0.5'
 Sofi: 0.16.4.8
+SoftBart: 1.0.0
 SoftClustering: 1.1902.2
 SoftRandomForest: 0.1.0
 SoilHyP: 0.1.6
@@ -10029,7 +10033,7 @@ cplm: 0.7-10
 cplots: 0.5-0
 cpm: '2.3'
 cpop: 1.0.3
-cpp11: 0.4.2
+cpp11: 0.4.3
 cppRouting: '2.0'
 cppcheckR: 1.0.0
 cppcor: '1.2'
@@ -10248,7 +10252,7 @@ cvcrand: 0.1.0
 cvequality: 0.2.0
 cvmdisc: 0.1.0
 cvmgof: 1.0.3
-cvms: 1.3.5
+cvms: 1.3.6
 cvplogistic: 3.1-0
 cvq2: 1.2.0
 cvsem: 1.0.0
@@ -10640,6 +10644,7 @@ dfcrm: 0.2-2.1
 dfexplore: '0.2'
 dfidx: 0.0-5
 dfmeta: 1.0.0
+dfms: 0.1.3
 dfmta: 1.7-3
 dfoliatR: 0.2.0
 dfoptim: 2020.10-1
@@ -12083,7 +12088,7 @@ findR: 0.2.1
 findpython: 1.0.7
 findviews: 0.1.3
 finebalance: '1.0'
-finetune: 1.0.0
+finetune: 1.0.1
 fingerPro: '1.1'
 fingerprint: 3.5.7
 fingertipsR: 1.0.5
@@ -13440,7 +13445,7 @@ grpss: 3.0.1
 grr: 0.9.5
 grt: 0.2.1
 grwat: 0.0.2
-gsDesign: 3.3.0
+gsDesign: 3.4.0
 gsEasy: '1.4'
 gsalib: 2.2.1
 gsarima: 0.1-5
@@ -13780,7 +13785,7 @@ hnp: 1.2-6
 hoa: 2.1.4.1
 hoardeR: 0.9.4-2
 hoardr: 0.5.2
-hockeyR: 1.2.0
+hockeyR: 1.3.0
 hockeystick: 0.6.3
 hof: '0.1'
 hogsvdR: '0.1'
@@ -14260,7 +14265,7 @@ insectDisease: 1.2.1
 insee: 1.1.5
 insideRODE: '2.0'
 insiderTrades: 0.0.1
-insight: 0.18.4
+insight: 0.18.5
 insol: 1.2.2
 inspectdf: 0.0.12
 inspector: 1.0.3
@@ -16187,7 +16192,7 @@ mlr3hyperband: 0.4.2
 mlr3learners: 0.5.4
 mlr3measures: 0.5.0
 mlr3misc: 0.11.0
-mlr3oml: 0.5.0
+mlr3oml: 0.6.0
 mlr3pipelines: 0.4.2
 mlr3proba: 0.4.9
 mlr3shiny: 0.2.0
@@ -16513,7 +16518,7 @@ mstknnclust: 0.3.1
 mstrio: 11.3.5.101
 msu: 0.0.1
 mt: 2.0-1.19
-mtb: 0.1.6
+mtb: 0.1.7
 mtconnectR: 1.2.1
 mtcreator: '0.1'
 mthapower: 0.1.1
@@ -19857,7 +19862,7 @@ rgplates: 0.2.0
 rgpui: 0.1-2
 rgr: 1.1.9
 rgraph6: 2.0-2
-rgrass: 0.3-5
+rgrass: 0.3-6
 rgrass7: 0.2-11
 rgrassdoc: 1.0.0
 rgrs: '0.3'
@@ -20605,7 +20610,7 @@ sarima: 0.9.1
 sarp.snowprofile: 1.3.1
 sarp.snowprofile.alignment: 1.2.1
 sars: 1.3.5
-sarsop: 0.6.11
+sarsop: 0.6.12
 sas7bdat: '0.6'
 sasLM: 0.9.2
 sasMap: 1.0.0
@@ -21595,7 +21600,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 2.2.0
+spant: 2.3.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -22082,6 +22087,7 @@ stockfish: 1.0.0
 stocks: 1.1.4
 stoichcalc: 1.1-4
 stokes: 1.1-3
+stopdetection: 0.1.0
 stoppingrule: 0.1.0
 stopwords: '2.3'
 stormwindmodel: 0.1.4
@@ -22766,7 +22772,7 @@ tidystringdist: 0.1.4
 tidysynth: 0.1.0
 tidytable: 0.9.0
 tidytags: 1.0.2
-tidyterra: 0.2.2
+tidyterra: 0.3.0
 tidytext: 0.3.4
 tidytidbits: 0.3.2
 tidytransit: '1.4'
@@ -23683,7 +23689,7 @@ waterYearType: 1.0.1
 waterfall: 1.0.2
 waterfalls: 0.1.2
 waterquality: 0.3.0
-watson: 0.0.1
+watson: '0.1'
 wavScalogram: 1.1.1
 waveband: 4.7.1
 waveclock: 1.0-4
