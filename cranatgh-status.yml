@@ -229,6 +229,7 @@ AmpliconDuo: 1.1.1
 AmyloGram: '1.1'
 AnDE: '1.0'
 AnaCoDa: 0.1.4.4
+Anaconda: 0.1.5
 AnalyzeFMRI: 1.1-9
 AnalyzeIO: 0.1.1
 AnalyzeTS: '2.3'
@@ -498,7 +499,7 @@ BVSNLP: 1.1.9
 BWGS: 0.2.1
 BWStest: 0.2.2
 BaBooN: 0.2-0
-BaM: 1.0.2
+BaM: 1.0.3
 BaMORC: '1.0'
 BaPreStoPro: '0.1'
 BaSAR: '1.3'
@@ -1549,6 +1550,7 @@ DWLS: 0.1.0
 DWLasso: '1.1'
 DWreg: '2.0'
 DYM: '0.2'
+DYNATE: '0.1'
 DZEXPM: '2.0'
 Daim: 1.1.0
 DamiaNN: 1.0.0
@@ -2310,6 +2312,7 @@ FuzzyResampling: 0.4.2
 FuzzySTs: '0.2'
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
+FuzzyStatTraEOO: 0.1.0
 FuzzyToolkitUoN: '1.0'
 G1DBN: '3.1'
 G2Sd: 2.1.5
@@ -3274,6 +3277,7 @@ LCox: 0.1.0
 LDABiplots: 0.1.2
 LDAShiny: 0.9.3
 LDATS: 0.2.7
+LDAandLDAS: 1.0.2
 LDAvis: 0.3.2
 LDExplorer: 1.0.3
 LDLcalc: '2.0'
@@ -6181,6 +6185,7 @@ SCRSELECT: 1.3-3
 SCRT: 1.3.1
 SCVA: 1.3.1
 SCperf: 1.1.1
+SCpubr: 1.0.0
 SCtools: 0.3.2.1
 SDALGCP: 0.4.0
 SDAR: 0.9-55
@@ -6191,7 +6196,7 @@ SDD: '1.2'
 SDDA: 1.0-5
 SDDE: 1.0.1
 SDEFSR: 0.7.22
-SDLfilter: 2.2.1
+SDLfilter: 2.3.0
 SDMPlay: '2.0'
 SDMTools: '1.1'
 SDMtune: 1.1.6
@@ -6774,6 +6779,7 @@ Statsomat: 1.1.0
 SteinIV: 0.1-1
 SteinerNet: 3.1.0
 Stem: '1.0'
+StemAnalysis: 0.1.0
 StempCens: 1.1.0
 StepBeta: 2.1.0
 StepReg: 1.4.3
@@ -7673,7 +7679,7 @@ adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
 adlift: 1.4-3
-admiral: 0.8.3
+admiral: 0.8.4
 admiral.test: 0.3.0
 admiraldev: 0.1.0
 admiralonco: 0.1.0
@@ -7728,7 +7734,7 @@ agridat: '1.21'
 agrifeature: 1.0.3
 agriwater: 1.0.1
 agrmt: 1.42.8
-agroclim: 0.2.0
+agroclim: 0.3.0
 agrostab: 0.1.0
 agsemisc: 1.3-1
 agtboost: 0.9.3
@@ -8571,7 +8577,7 @@ bigsimr: 0.11.2
 bigsnpr: 1.10.8
 bigsparser: 0.6.1
 bigsplines: 1.1-1
-bigstatsr: 1.5.6
+bigstatsr: 1.5.12
 bigstep: 1.0.3
 bigtabulate: 1.1.9
 bigtcr: '1.1'
@@ -8962,6 +8968,7 @@ bujar: 0.2-9
 bulkAnalyseR: 1.0.0
 bulletcp: 1.0.0
 bulletr: '0.1'
+bullishTrader: 1.0.1
 bullwhipgame: 0.1.0
 bumbl: 1.0.2
 bumblebee: 0.1.0
@@ -11062,6 +11069,7 @@ dtw: 1.23-1
 dtwSat: 0.2.8
 dtwclust: 5.5.11
 dual: 0.0.4
+dual.spls: 0.1.2
 dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
@@ -11693,7 +11701,7 @@ excelstrippr: 0.1.2
 excerptr: 2.0.1
 excessmort: 0.6.1
 excluder: 0.4.0
-excursions: 2.5.3
+excursions: 2.5.4
 exdex: 1.2.1
 exdqlm: 0.1.2
 exif: 0.1.0
@@ -12013,6 +12021,7 @@ febr: 1.9.9
 fec16: 0.1.3
 fecR: 0.0.2
 fechner: 1.0-3
+fect: 1.0.0
 federalregister: 0.2.0
 fedmatch: 2.0.5
 fedregs: 1.0.0
@@ -12917,7 +12926,7 @@ gganimate: 1.0.8
 ggarchery: 0.4.1
 ggasym: 0.1.6
 ggbeeswarm: 0.6.0
-ggblanket: 1.4.0
+ggblanket: 1.5.0
 ggborderline: 0.1.0
 ggbraid: 0.2.2
 ggbreak: 0.1.0
@@ -14522,6 +14531,7 @@ jacobi: 2.0.1
 jacpop: '0.6'
 jaggR: 0.1.1
 jagsUI: 1.5.2
+jagshelper: 0.1.6
 jagstargets: 1.0.3
 jalcal: 0.1.0
 james.analysis: 1.0.1
@@ -16185,6 +16195,7 @@ mlmts: 1.0.1
 mlogit: 1.1-1
 mlogitBMA: 0.1-7
 mlpack: 3.4.2.1
+mlpwr: 1.0.0
 mlquantify: 0.2.0
 mlr: 2.19.1
 mlr3: 0.14.0
@@ -16811,6 +16822,7 @@ ncomplete: 1.0-1
 ncpen: 1.0.0
 ncvar: 1.0-4
 ncvreg: 3.13.0
+nda: 0.1.6
 ndi: 0.1.2
 ndjson: 0.8.0
 ndl: 0.2.18
@@ -19087,7 +19099,7 @@ rAmCharts: 2.1.15
 rAmCharts4: 1.6.0
 rAverage: 0.5-8
 rAvis: '0.1'
-rBDAT: 0.9.8
+rBDAT: 0.10.0
 rBMF: '1.1'
 rBayesianOptimization: 1.2.0
 rBeta2009: '1.0'
@@ -19353,10 +19365,10 @@ rattle: 5.5.1
 rattle.data: 1.0.2
 raustats: 0.15.0
 ravedash: 0.1.1
-raveio: 0.0.8
+raveio: 0.0.9
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravetools: 0.0.7
+ravetools: 0.0.8
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -21018,7 +21030,7 @@ sgof: 2.3.3
 sgolay: 1.0.2
 sgpv: 1.1.0
 sgr: 1.3.1
-sgsR: 1.2.0
+sgsR: 1.3.1
 sgstar: 0.1.2
 sgt: '2.0'
 shades: 1.4.0
@@ -22099,7 +22111,7 @@ stockfish: 1.0.0
 stocks: 1.1.4
 stoichcalc: 1.1-4
 stokes: 1.1-3
-stopdetection: 0.1.0
+stopdetection: 0.1.1
 stoppingrule: 0.1.0
 stopwords: '2.3'
 stormwindmodel: 0.1.4
@@ -22208,7 +22220,7 @@ sugaR: 0.0-5
 sugarbag: 0.1.3
 sugrrants: 0.2.8
 sumFREGAT: 1.2.5
-sumR: 0.4.8
+sumR: 0.4.10
 sumSome: 1.1.0
 summariser: 2.3.0
 summarytools: 1.0.1
@@ -23239,6 +23251,7 @@ twl: '1.0'
 twn: 0.2.2
 two.stage.boot: '1.0'
 twoStageGwasPower: 0.99.0
+twopartm: 0.1.0
 twopartqtl: '1.0'
 twosamples: 2.0.0
 twosigma: 1.0.2
@@ -23888,7 +23901,7 @@ workflowr: 1.7.0
 workflows: 1.1.0
 workflowsets: 1.0.0
 workloopR: 1.1.4
-worldfootballR: 0.6.0
+worldfootballR: 0.6.1
 worldmet: 0.9.6
 worms: 0.2.2
 worrms: 0.4.2
