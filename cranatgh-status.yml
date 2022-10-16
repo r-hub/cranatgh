@@ -290,7 +290,7 @@ AutoDeskR: 0.1.3
 AutoModel: 0.4.9
 AutoPipe: 0.1.6
 AutoSEARCH: '1.5'
-AutoScore: 0.3.0
+AutoScore: 1.0.0
 AutoStepwiseGLM: 0.2.0
 AutoWeatherIndices: 0.1.0
 Autoplotprotein: '1.1'
@@ -1236,7 +1236,7 @@ ConnectednessApproach: 1.0.1
 ConsRank: 2.1.2
 ConsRankClass: 1.0.1
 ConsReg: 0.1.0
-ContRespPP: 0.4.1
+ContRespPP: 0.4.2
 Containers: '1.2'
 ContaminatedMixt: 1.3.7
 ContourFunctions: 0.1.1
@@ -1887,7 +1887,7 @@ EasyMx: 0.2-12
 EasyStrata: '8.6'
 EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
-Ecdat: 0.4-1
+Ecdat: 0.4-2
 Ecfun: 0.3-2
 EcoDiet: 1.0.1
 EcoEnsemble: 1.0.0
@@ -2990,7 +2990,7 @@ IQMNMR: '1.0'
 IRATER: 0.0.1
 IRCcheck: 1.0.0
 IRISMustangMetrics: 2.4.5
-IRISSeismic: 1.6.5
+IRISSeismic: 1.6.6
 IROmiss: 1.0.2
 IRSF: 1.0.3
 IRTBEMM: 1.0.7
@@ -5649,7 +5649,7 @@ RbioRXN: '1.5'
 Rbitcoin: '0.9'
 RblDataLicense: 0.2.4
 Rblpapi: 0.3.14
-Rborist: 0.3-1
+Rborist: 0.3-2
 Rcan: 1.3.82
 Rcapture: 1.4-4
 Rcatch22: 0.2.1
@@ -7253,7 +7253,7 @@ UncertainInterval: 0.7.0
 UniDOE: '1.0'
 UniIsoRegression: 0.0-0
 Unicode: 15.0.0-1
-UnifiedDoseFinding: 0.1.9
+UnifiedDoseFinding: 0.1.10
 UniprotR: 2.2.2
 UnitCircle: 0.1.3
 UnitStat: 1.1.0
@@ -10545,7 +10545,7 @@ default: 1.0.0
 define: 0.2.9
 defineR: 0.0.4
 deflateBR: 1.1.2
-deforestable: 3.1.0
+deforestable: 3.1.1
 deformula: 0.1.2
 defrostR: 1.1.0
 degday: 0.4.0
@@ -11733,7 +11733,7 @@ expp: 1.2.5
 expperm: '1.6'
 exprso: 0.5.1
 expsmooth: '2.3'
-expss: 0.11.1
+expss: 0.11.2
 expstudies: 0.0.5
 expstudy: 1.0.2
 exptest: '1.2'
@@ -11870,7 +11870,7 @@ fam2r: '1.2'
 famSKATRC: 1.1.0
 fame: 2.21.1
 familial: 1.0.4
-familiar: 1.2.0
+familiar: 1.3.0
 fanc: 2.3.5
 fancycut: 0.1.2
 fangs: 0.1.6
@@ -12494,7 +12494,7 @@ fuzzywuzzyR: 1.0.5
 fwb: 0.1.0
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
-fwildclusterboot: '0.9'
+fwildclusterboot: '0.12'
 fwsim: 0.3.4
 fxTWAPLS: 0.1.1
 fxregime: 1.0-4
@@ -12521,7 +12521,7 @@ gRapfa: '1.0'
 gRbase: 1.8.7
 gRc: 0.4.4
 gRcox: '0.1'
-gRim: 0.2.9
+gRim: 0.2.10
 gSEM: 0.4.3.4
 gSeg: '1.0'
 gStream: 0.2.0
@@ -12782,7 +12782,7 @@ geoTS: 0.1.3
 geoaxe: 0.1.0
 geobr: 1.7.0
 geocacheR: 0.1.0
-geocmeans: 0.2.2
+geocmeans: 0.3.1
 geocodeHERE: '0.1'
 geodaData: 0.1.0
 geodata: 0.4-11
@@ -12929,7 +12929,7 @@ ggbeeswarm: 0.6.0
 ggblanket: 1.5.0
 ggborderline: 0.1.0
 ggbraid: 0.2.2
-ggbreak: 0.1.0
+ggbreak: 0.1.1
 ggbuildr: 0.1.0
 ggbump: 0.1.0
 ggchangepoint: 0.1.0
@@ -12974,12 +12974,12 @@ gghalfnorm: 1.1.2
 gghalves: 0.1.3
 gghdr: 0.1.0
 ggheatmap: '2.2'
-gghighlight: 0.3.3
+gghighlight: 0.4.0
 gghilbertstrings: 0.3.3
 ggimage: 0.3.1
 ggimg: 0.1.2
 gginference: 0.1.3
-gginnards: 0.1.0-1
+gginnards: 0.1.1
 ggip: 0.2.2
 ggiraph: 0.8.3
 ggiraphExtra: 0.3.0
@@ -13026,7 +13026,7 @@ ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
 ggplotify: 0.1.0
 ggplotlyExtra: 0.0.1
-ggpmisc: 0.5.0
+ggpmisc: 0.5.1
 ggpointdensity: 0.1.0
 ggpointless: 0.0.3
 ggpol: 0.0.7
@@ -13069,7 +13069,7 @@ ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
 ggsurvey: 1.0.0
-ggsurvfit: 0.1.0
+ggsurvfit: 0.2.0
 ggswissmaps: 0.1.1
 ggtea: 0.1.1
 ggtern: 3.3.5
@@ -13274,7 +13274,7 @@ gontr: 1.1.0
 gooJSON: '1.0'
 good: 1.0.1
 goodpractice: 1.0.4
-googleAnalyticsR: 1.0.1
+googleAnalyticsR: 1.1.0
 googleAuthR: 2.0.0
 googleCloudRunner: 0.5.0
 googleCloudStorageR: 0.7.0
@@ -17408,7 +17408,7 @@ opencastR: 0.1.3
 opencpu: 2.2.8
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
-opencv: 0.2.2
+opencv: 0.2.3
 opendatatoronto: 0.1.5
 opendotaR: 0.1.4
 openeo: 1.2.1
@@ -18082,9 +18082,9 @@ phonenumber: 0.2.3
 phonfieldwork: 0.0.11
 phonics: 1.3.10
 phosphoricons: 0.1.2
-photobiology: 0.10.13
+photobiology: 0.10.14
 photobiologyFilters: 0.5.2
-photobiologyInOut: 0.4.25
+photobiologyInOut: 0.4.26
 photobiologyLEDs: 0.5.1
 photobiologyLamps: 0.5.1
 photobiologyPlants: 0.4.2
@@ -19364,7 +19364,7 @@ ratios: 1.2.0
 rattle: 5.5.1
 rattle.data: 1.0.2
 raustats: 0.15.0
-ravedash: 0.1.1
+ravedash: 0.1.2
 raveio: 0.0.9
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
@@ -19579,7 +19579,7 @@ reccsim: 0.9-1
 receptiviti: 0.1.2
 recexcavAAR: 0.3.0
 rechonest: '1.2'
-recipes: 1.0.1
+recipes: 1.0.2
 reclin: 0.1.2
 reclin2: 0.2.0
 recluster: '2.9'
@@ -20155,7 +20155,7 @@ rodd: 0.2-1
 rodeo: 0.7.7
 rodham: 0.1.1
 rofanova: 1.0.0
-roger: 1.1-0
+roger: 1.2-0
 roistats: 0.1.1
 rolasized: '1.0'
 roll: 1.1.6
@@ -21059,7 +21059,7 @@ shatteringdt: 0.1.0
 shazam: 1.1.2
 sheldusr: '0.1'
 shelltrace: 3.5.1
-shidashi: 0.1.3
+shidashi: 0.1.4
 shiftR: '1.5'
 shinipsum: 0.1.0
 shiny: 1.7.2
@@ -21220,7 +21220,7 @@ silicate: 0.7.0
 sim1000G: '1.40'
 sim2Dpredictr: 0.1.0
 simDNAmixtures: 1.0.1
-simET: 1.0.0
+simET: 1.0.1
 simEd: 2.0.0
 simExam: 1.0.0
 simFrame: 0.5.4
@@ -21994,7 +21994,7 @@ starschemar: 1.2.0
 startR: 2.2.0
 starter: 0.1.10
 starticles: 0.1.0
-startup: 0.18.0
+startup: 0.19.0
 startupmsg: 0.9.6
 starvars: 1.1.10
 starvz: 0.7.1
@@ -22707,7 +22707,7 @@ this.path: 1.0.1
 thor: 1.1.2
 thorn: 0.2.0
 thredds: 0.1-2
-threeBrain: 0.2.6
+threeBrain: 0.2.7
 threeboost: '1.1'
 threejs: 0.3.3
 threesixtygiving: 0.2.2
@@ -22762,7 +22762,7 @@ tidygenomics: 0.1.2
 tidygeoRSS: 0.0.1
 tidygeocoder: 1.0.5
 tidygraph: 1.2.2
-tidyhydat: 0.5.6
+tidyhydat: 0.5.7
 tidyimpute: 0.1.0
 tidyinftheo: 0.2.1
 tidyjson: 0.3.1
@@ -22985,7 +22985,7 @@ tpfp: 0.0.1
 tpn: '1.3'
 tpr: 0.3-2
 tpsDesign: '1.3'
-tracee: 0.0.1
+tracee: 0.0.2
 tracer: 1.0.0
 tracerer: 2.2.2
 tracheideR: 0.1.1
@@ -24030,7 +24030,7 @@ xterm256: 0.1-2
 xtermStyle: 3.0.5
 xtractomatic: 3.4.2
 xtreg2way: 1.0.0
-xts: 0.12.1
+xts: 0.12.2
 xtune: 0.1.0
 xutils: 0.0.2
 xwf: 0.2-3
