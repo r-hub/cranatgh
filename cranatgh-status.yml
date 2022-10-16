@@ -1958,7 +1958,7 @@ EpiDynamics: 0.3.1
 EpiEstim: 2.2-4
 EpiILM: 1.5.2
 EpiILMCT: 1.1.7
-EpiInvert: 0.2.0
+EpiInvert: 0.2.1
 EpiLPS: 1.0.6
 EpiModel: 2.3.1
 EpiNow2: 1.3.2
@@ -2072,7 +2072,7 @@ FDRSeg: 1.0-3
 FDRestimation: 1.0.1
 FDRreg: '0.1'
 FDRsampsize: '1.0'
-FDX: 1.0.4
+FDX: 1.0.5
 FDboost: 1.1-1
 FEA: 0.0.1
 FENmlm: 2.4.3
@@ -4539,7 +4539,7 @@ PCDSpline: '1.0'
 PCDimension: 1.1.13
 PCFAM: '1.0'
 PCGSE: '0.4'
-PCICt: 0.5-4.1
+PCICt: 0.5-4.2
 PCIT: 1.5-3
 PCL: '1.0'
 PCLassoReg: 1.0.0
@@ -4594,7 +4594,7 @@ PIPS: '1.0'
 PK: 1.3-5
 PKI: 0.1-11
 PKLMtest: 1.0.1
-PKNCA: 0.9.5
+PKNCA: 0.10.0
 PKPDmisc: 2.1.2
 PKPDmodels: 0.3.2
 PKPDsim: 1.1.1
@@ -5410,7 +5410,7 @@ ROI.plugin.neos: 1.0-0
 ROI.plugin.nloptr: 1.0-0
 ROI.plugin.optimx: 1.0-0
 ROI.plugin.osqp: 1.0-0
-ROI.plugin.qpoases: 1.0-1
+ROI.plugin.qpoases: 1.0-2
 ROI.plugin.quadprog: 1.0-0
 ROI.plugin.scs: 1.1-1
 ROI.plugin.symphony: 1.0-0
@@ -5952,7 +5952,7 @@ Rlgt: 0.1-4
 Rlibeemd: 1.4.2
 Rlinkedin: '0.2'
 Rlinsolve: 0.3.2
-Rlof: 1.1.2
+Rlof: 1.1.3
 Rlsf: 1.1.1
 RmSQL: 0.3-9
 Rmagic: 2.0.3
@@ -6350,7 +6350,7 @@ SPCAvRP: '0.4'
 SPCDAnalyze: 0.1.0
 SPCompute: 1.0.2
 SPECIES: 1.1.3
-SPECK: 0.1.0
+SPECK: 0.1.1
 SPEDInstabR: '1.9'
 SPEI: '1.7'
 SPIAssay: 1.1.0
@@ -7711,7 +7711,7 @@ affluenceIndex: '2.1'
 afmToolkit: 0.0.1
 afmtools: 0.1.8
 afpt: 1.1.0.2
-africamonitor: 0.2.0
+africamonitor: 0.2.1
 after: 1.0.0
 aftgee: 1.1.6
 afthd: 1.1.0
@@ -12078,7 +12078,7 @@ fig: 1.0.0
 figpatch: '0.2'
 figuRes2: 1.0.0
 file2meco: 0.4.0
-filearray: 0.1.4
+filearray: 0.1.5
 filebin: 0.0.5
 filehash: 2.4-3
 filehashSQLite: 0.2-6
@@ -13064,7 +13064,7 @@ ggspatial: 1.1.6
 ggspectra: 0.3.8-1
 ggstance: 0.3.5
 ggstar: 1.0.3
-ggstatsplot: 0.9.4
+ggstatsplot: 0.9.5
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
@@ -13491,7 +13491,7 @@ gstat: 2.0-9
 gstsm: 0.0.1
 gstudio: '1.3'
 gsubfn: '0.7'
-gsw: 1.0-6
+gsw: 1.1-1
 gsynth: 1.2.1
 gt: 0.7.0
 gt4ireval: '2.0'
@@ -14074,7 +14074,7 @@ icesSAG: 1.4.0
 icesSD: 2.0.0
 icesTAF: 4.0.0
 icesVocab: 1.2.0
-ichimoku: 1.4.1
+ichimoku: 1.4.2
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -14884,7 +14884,7 @@ landsepi: 1.2.2
 langevitour: '0.5'
 languageR: 1.5.0
 languagelayeR: 1.2.4
-languageserver: 0.3.13
+languageserver: 0.3.14
 languageserversetup: 0.1.2
 lans2r: 1.1.0
 lar: 0.1-2
@@ -15582,7 +15582,7 @@ margins: 0.3.26
 marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
-mark: 0.5.2
+mark: 0.5.3
 markdown: '1.1'
 markdownInput: 0.1.2
 marked: 1.2.6
@@ -15638,7 +15638,7 @@ matrixStats: 0.62.0
 matrixStrucTest: 1.0.0
 matrixTests: 0.1.9.1
 matrixcalc: 1.0-6
-matrixdist: 1.1.5
+matrixdist: 1.1.6
 matrixpls: 1.0.9
 matrixprofiler: 0.1.7
 matrixsampling: 2.0.0
@@ -16025,7 +16025,7 @@ migration.indices: 0.3.1
 migrbc: 2.0.9
 migui: '1.3'
 miic: 1.5.3
-mikropml: 1.3.0
+mikropml: 1.4.0
 mildsvm: 0.4.0
 milonga: '1.0'
 milorGWAS: '0.3'
@@ -20907,7 +20907,7 @@ semiArtificial: 2.4.1
 semicmprskcoxmsm: 0.2.0
 seminr: 2.3.2
 semisupKernelPCA: 0.1.5
-semmcci: 1.0.2
+semmcci: 1.0.3
 semmcmc: 0.0.6
 semnar: 0.7.1
 semnova: 0.1-6
@@ -21723,7 +21723,7 @@ spcadjust: '1.1'
 spclust: '1.2'
 spcosa: 0.4-1
 spcov: '1.3'
-spcr: '2.1'
+spcr: 2.1.1
 spd: 2.0-1
 spdep: 1.2-7
 spdownscale: 0.1.0
@@ -21770,7 +21770,7 @@ spellcheckr: 0.1.2
 spelling: '2.2'
 spemd: 0.1-1
 sperich: 1.5-8
-sperrorest: 3.0.4
+sperrorest: 3.0.5
 spew: 1.3.0
 spex: 0.7.1
 spfda: 0.9.1
@@ -22831,7 +22831,7 @@ timeDate: '4021.106'
 timeR: 1.2.0
 timeROC: '0.4'
 timeSeq: 1.0.4
-timeSeries: '4021.104'
+timeSeries: '4021.105'
 timechange: 0.0.2
 timedelay: 1.0.11
 timedeppar: 1.0.2
@@ -23343,7 +23343,7 @@ uniset: 0.3.1
 uniswappeR: 0.6.0
 unitedR: '0.4'
 unitizer: 1.4.18
-unitquantreg: 0.0.3
+unitquantreg: 0.0.5
 units: 0.8-0
 unittest: 1.5-3
 univOutl: '0.4'
@@ -23601,7 +23601,7 @@ visdat: 0.5.3
 visit: '2.1'
 visova: '1.1'
 visreg: 2.7.0
-vistime: 1.2.1
+vistime: 1.2.3
 vistla: 1.0.0
 vistributions: 0.1.2
 visualFields: 1.0.1
@@ -23657,7 +23657,7 @@ vrmlgen: '1.4'
 vrnmf: 1.0.2
 vroom: 1.6.0
 vrtest: '1.1'
-vscc: '0.2'
+vscc: '0.4'
 vsd: 0.1.0
 vsgoftest: 1.0-1
 vsp: 0.1.0
