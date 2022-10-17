@@ -898,6 +898,7 @@ CMF: 1.0.3
 CMFsurrogate: '1.0'
 CMHNPA: 0.1.1
 CMLS: 1.0-0
+CMMs: 1.0.0
 CMPControl: '1.0'
 CMShiny: 0.1.0
 CMapViz: 0.1.0
@@ -2888,7 +2889,7 @@ ICE: '0.69'
 ICED: 0.0.1
 ICEbox: 1.1.5
 ICEinfer: '1.3'
-ICGE: 0.4.1
+ICGE: 0.4.2
 ICGOR: '2.0'
 ICODS: '1.1'
 ICON: 0.4.0
@@ -3237,7 +3238,7 @@ Kmisc: 0.5.0
 KnapsackSampling: 0.1.0
 KneeArrower: 1.0.0
 KnockoffScreen: 0.3.0
-KnockoffTrio: 1.0.0
+KnockoffTrio: 1.0.1
 Knoema: 0.1.9
 KnowBR: '2.1'
 KnowGRRF: '1.0'
@@ -3857,6 +3858,7 @@ ManagedCloudProvider: 1.0.0
 Mangrove: '1.21'
 ManifoldOptim: 1.0.1
 ManlyMix: 0.1.14
+MantaID: 1.0.1
 ManyTests: '1.2'
 Map2NCBI: '1.4'
 MapGAM: 1.2-6
@@ -4164,7 +4166,7 @@ NCA: 3.2.1
 NCBI2R: 1.4.7
 NCSCopula: 1.0.1
 NCSampling: '1.0'
-NCmisc: 1.1.6
+NCmisc: 1.2.0
 NCutYX: 0.1.0
 NDP: 0.1.0
 NEArender: '1.5'
@@ -4478,6 +4480,7 @@ OrdinalLogisticBiplot: '0.4'
 OrgMassSpecR: 0.5-3
 OriGen: 1.4.3
 OrthoPanels: 1.2-4
+OryzaProbe: 0.1.0
 OscillatorGenerator: 0.1.0
 Ostats: 0.2.0
 OsteoBioR: 0.1.1
@@ -6185,7 +6188,7 @@ SCRSELECT: 1.3-3
 SCRT: 1.3.1
 SCVA: 1.3.1
 SCperf: 1.1.1
-SCpubr: 1.0.0
+SCpubr: 1.0.1
 SCtools: 0.3.2.1
 SDALGCP: 0.4.0
 SDAR: 0.9-55
@@ -6905,7 +6908,7 @@ TDAkit: 0.1.2
 TDAmapper: '1.0'
 TDApplied: 0.1.3
 TDAstats: 0.4.1
-TDAvec: 0.1.1
+TDAvec: 0.1.2
 TDCor: 0.1-2
 TDD: '0.4'
 TDMR: '2.2'
@@ -7322,7 +7325,7 @@ VTrack: '1.21'
 VUROCS: '1.0'
 VWPre: 1.2.4
 VaR: '0.2'
-VaRES: 1.0.1
+VaRES: '1.0'
 VancouvR: 0.1.7
 VarBundle: 0.3.0
 VarED: 1.0.0
@@ -9421,6 +9424,7 @@ citationchaser: 0.0.4
 citbcmst: '1.0'
 citccmst: 1.0.2
 citecorp: 0.3.0
+cities: 0.1.0
 cito: 1.0.0
 citr: 0.3.2
 citrus: 1.0.2
@@ -9842,7 +9846,7 @@ connectedness: '0.2'
 connections: 0.1.1
 connectwidgets: 0.1.1
 conogive: 1.0.0
-conos: 1.4.9
+conos: 1.5.0
 conover.test: 1.1.5
 conquer: 1.3.1
 conquestr: 0.9.96
@@ -10320,7 +10324,7 @@ dSVA: '1.0'
 dTBM: '2.0'
 daarem: '0.7'
 dabestr: 0.3.0
-dabr: 0.0.3
+dabr: 0.0.4
 dad: 4.0.0
 dadjoke: '1.0'
 dadjokeapi: 1.0.2
@@ -10359,7 +10363,7 @@ dashTable: 4.7.0
 dashboard: 0.1.0
 dashboardthemes: 1.1.6
 dat: 0.5.0
-data.table: 1.14.2
+data.table: 1.14.4
 data.tree: 1.0.0
 data.validator: 0.1.6
 data.world: 1.2.2
@@ -10756,7 +10760,7 @@ dina: 2.0.0
 dinamic: '1.0'
 dineR: 1.0.1
 dineq: 0.1.0
-dint: 2.1.3
+dint: 2.1.4
 dipm: '1.8'
 diproperm: 0.2.0
 dipsaus: 0.2.4
@@ -10901,7 +10905,7 @@ dnet: 1.1.7
 dng: 0.2.1
 dnr: 0.3.5
 do: 2.0.0.0
-doBy: 4.6.13
+doBy: 4.6.14
 doFuture: 0.12.2
 doMC: 1.3.8
 doMIsaul: 1.0.1
@@ -11007,7 +11011,7 @@ dreamerr: 1.2.3
 drf: 1.1.0
 drfit: 0.7.2
 drgee: 1.1.10
-drhur: 0.1.0
+drhur: 1.0.0
 driftR: 1.1.0
 drifter: 0.2.1
 driftsel: 2.1.1
@@ -11133,7 +11137,7 @@ dynparam: 1.0.2
 dynplot: 1.1.2
 dynpred: 0.1.2
 dynprog: 0.1.1
-dynr: 0.1.16-27
+dynr: 0.1.16-91
 dynsbm: '0.7'
 dynsim: 1.2.3
 dynsurv: 0.4-3
@@ -11553,7 +11557,7 @@ equaltestMI: 0.6.1
 equatags: 0.2.0
 equate: 2.0.8
 equateIRT: 2.3.0
-equateMultiple: 0.1.0
+equateMultiple: 0.1.1
 equatiomatic: 0.3.1
 equivUMP: 0.1.1
 equivalence: 0.7.2
@@ -11690,7 +11694,7 @@ exactextractr: 0.9.0
 exactmaxsel: '1.0'
 exactmeta: 1.0-2
 exampletestr: 1.6.5
-exams: 2.3-6
+exams: 2.4-0
 exams.mylearn: '1.4'
 exams2sakai: '0.3'
 exceedProb: 0.0.1
@@ -11828,6 +11832,7 @@ fabricatr: 1.0.0
 fabricerin: 0.1.2
 face: 0.1-7
 facebook.S4: 1.1.0
+facebookadsR: 0.1.0
 facerec: 0.1.0
 facilitation: 0.5.2
 factas: '2.3'
@@ -11981,7 +11986,7 @@ fctbases: 1.1.1
 fcuk: 0.1.21
 fdANOVA: 0.1.2
 fda: 6.0.5
-fda.usc: 2.0.2
+fda.usc: 2.1.0
 fdaACF: 1.0.0
 fdaMixed: '0.6'
 fdaMocca: 0.1-1
@@ -12674,7 +12679,7 @@ gear: 0.3.4
 gearman: 0.1-5
 gecko: 0.1.1
 geckor: 0.2.0
-gee: 4.13-24
+gee: 4.13-25
 gee4: 0.1.0.0
 geeCRT: 0.1.1
 geeM: 0.10.1
@@ -12756,7 +12761,7 @@ genomeplot: '1.0'
 genomic.autocorr: 1.0-1
 genomicper: '1.7'
 genotypeR: 0.0.1.8
-genpathmox: '0.8'
+genpathmox: '0.9'
 genpwr: 1.0.4
 genridge: 0.6.7
 genscore: 1.0.2
@@ -13064,6 +13069,7 @@ ggspatial: 1.1.6
 ggspectra: 0.3.9
 ggstance: 0.3.5
 ggstar: 1.0.3
+ggstats: 0.1.0
 ggstatsplot: 0.9.5
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
@@ -13287,6 +13293,7 @@ googlePublicData: 0.16.1
 googlePubsubR: 0.0.3
 googleTagManageR: 0.2.0
 googleVis: 0.7.0
+googleadsR: 0.1.2
 googlebigquery: '0.1'
 googledrive: 2.0.0
 googleformr: 0.0.3
@@ -13410,6 +13417,7 @@ gridExtra: '2.3'
 gridGeometry: 0.3-0
 gridGraphics: 0.5-1
 gridGraphviz: 0.3-1
+gridOT: '1.0'
 gridSVG: 1.7-4
 gridpattern: 1.0.1
 gridsample: 0.2.1
@@ -14455,6 +14463,7 @@ isocir: 2.0-7
 isodistrreg: 0.1.0
 isogeochem: 1.1.0
 isokernel: 0.1.0
+isoorbi: 1.0.0
 isopam: 0.9-9
 isopat: '1.0'
 isoph: '1.1'
@@ -14612,7 +14621,7 @@ jshintr: 0.1.0
 jskm: 0.4.3
 jsmodule: 1.3.2
 json64: 0.1.3
-jsonStrings: 2.0.0
+jsonStrings: 2.1.0
 jsonify: 1.2.1
 jsonld: '2.2'
 jsonlite: 1.8.2
@@ -15861,6 +15870,7 @@ metabolic: 0.1.1
 metabolighteR: 0.1.3
 metabolomics: 0.1.4
 metabolomicsR: 1.0.0
+metabup: 0.1.3
 metacart: 2.0-3
 metacoder: 0.3.5
 metacom: 1.5.3
@@ -16307,6 +16317,7 @@ modelc: 1.0.0.0
 modelcf: '2.1'
 modeldata: 1.0.1
 modeldb: 0.2.3
+modelenv: 0.1.0
 modelfree: 1.1-1
 modelgrid: 1.1.1.0
 modelimpact: 1.0.0
@@ -16491,6 +16502,7 @@ msaeHB: 0.1.0
 msaeOB: 0.1.0
 msaeRB: 0.2.1
 msaenet: '3.1'
+msamp: 1.0.0
 msap: 1.1.8
 msarc: 1.4.5
 mscalib: 0.5.9
@@ -16824,7 +16836,7 @@ ncvar: 1.0-4
 ncvreg: 3.13.0
 nda: 0.1.6
 ndi: 0.1.2
-ndjson: 0.8.0
+ndjson: 0.9.0
 ndl: 0.2.18
 ndtv: 0.13.2
 ndvits: '1.0'
@@ -17075,6 +17087,7 @@ nodiv: 1.4.0
 nofrills: 0.3.2
 noia: 0.97.1
 noise: 1.0.1
+noisemodel: 1.0.2
 noisyCE2: 1.1.0
 noisySBM: 0.1.4
 noisyr: 1.0.0
@@ -17415,7 +17428,7 @@ openeo: 1.2.1
 openintro: 2.4.0
 openmetrics: 0.3.0
 opensensmapr: 0.5.1
-openssl: 2.0.3
+openssl: 2.0.4
 opentick: 0.1-1
 opentimsr: 1.0.13
 opentraj: '1.0'
@@ -18158,6 +18171,7 @@ pinnacle.data: 0.1.4
 pinochet: 0.1.0
 pinp: 0.0.10
 pins: 1.0.3
+pinterestadsR: 0.1.0
 pinyin: 1.1.6
 pipe.design: 0.5.1
 pipeGS: '0.4'
@@ -18708,7 +18722,7 @@ protiq: '1.2'
 proto: 1.0.0
 protoclass: '1.0'
 protoclust: 1.6.4
-protolite: 2.1.1
+protolite: 2.1.2
 proton: '1.0'
 protoshiny: 0.1.0
 prototest: '1.2'
@@ -19209,6 +19223,7 @@ rTCRBCRr: 0.1.1
 rTG: 1.0.1
 rTLS: 0.2.5.2
 rTOFsPRO: '1.4'
+rTRIPLEXCWFlux: 0.1.0
 rTRNG: 4.23.1-2
 rTableICC: 1.0.7
 rTensor: 1.4.8
@@ -19486,7 +19501,7 @@ rdd: '0.57'
 rddapp: 1.3.0
 rdddr: 1.0.0
 rddensity: '2.2'
-rddi: 0.1.0
+rddi: 0.1.1
 rddtools: 1.6.0
 rde: 0.1.0
 rdecision: 1.1.3
@@ -19737,6 +19752,7 @@ repolr: '3.4'
 report: 0.5.5
 reportROC: '3.6'
 reportReg: 0.3.0
+reportRmd: 0.0.1
 reportRx: '1.0'
 reporter: 1.3.7
 reportfactory: 0.4.0
@@ -20374,7 +20390,7 @@ rstatix: 0.7.0
 rstatscn: 1.1.3
 rstiefel: 1.0.1
 rstoat: 1.0.2
-rstpm2: 1.5.7
+rstpm2: 1.5.8
 rstream: 1.3.6
 rstudio.prefs: 0.1.9
 rstudioapi: '0.14'
@@ -20472,7 +20488,7 @@ rvest: 1.0.3
 rvg: 0.2.5
 rvgtest: 0.7.4
 rviewgraph: 1.4.1
-rvinecopulib: 0.6.2.1.1
+rvinecopulib: 0.6.2.1.2
 rvkstat: 3.2.0
 rvmbinary: '1.0'
 rvmethod: 0.1.2
@@ -21737,6 +21753,7 @@ speaq2: 0.1.0
 spearmanCI: '1.0'
 spec: 0.1.7
 speccalt: 0.1.1
+specieschrom: 1.0.0
 speciesgeocodeR: 1.0-4
 specificity: '0.1'
 specklestar: 0.0.1.7
@@ -21987,6 +22004,7 @@ starm: 0.1.0
 starma: '1.3'
 starmie: 0.1.2
 starnet: 0.0.6
+starry: 0.1.1
 stars: 0.5-6
 starsExtra: 0.2.7
 starsTileServer: 0.1.1
@@ -22983,7 +23001,7 @@ tpAUC: 2.1.1
 tpe: '1.0'
 tpfp: 0.0.1
 tpn: '1.3'
-tpr: 0.3-2
+tpr: 0.3-3
 tpsDesign: '1.3'
 tracee: 0.0.2
 tracer: 1.0.0
