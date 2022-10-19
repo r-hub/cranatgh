@@ -145,7 +145,7 @@ ASSA: '2.0'
 ASSISTant: 1.4.2
 ASSOCShiny: 0.1.0
 AST: 0.1.0
-ASV: 1.1.0
+ASV: 1.1.1
 ATAforecasting: 0.0.57
 ATE: 0.2.0
 ATNr: 1.0.1
@@ -214,6 +214,7 @@ AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: '1.1'
 Allspice: 1.0.5
+AlphaHull3D: 1.0.0
 AlphaPart: 0.9.7
 AlphaSimR: 1.3.1
 AlphaVantageClient: 0.0.1
@@ -334,7 +335,7 @@ BARD: '1.24'
 BAREB: 0.1.0
 BARIS: 1.1.3
 BART: '2.9'
-BAS: 1.6.2
+BAS: 1.6.3
 BASIX: '1.2'
 BASS: 1.2.2
 BASiNET: 0.0.5
@@ -749,7 +750,7 @@ BrasilMF: 1.0.0
 BrazilMet: 0.1.0
 BreakPoints: '1.2'
 BreedingSchemeLanguage: 0.9.6
-Brobdingnag: 1.2-7
+Brobdingnag: 1.2-9
 BrownDog: 0.2.1
 Brq: '3.0'
 Brundle: 1.0.9
@@ -3009,7 +3010,7 @@ ISAT: 1.0.5
 ISBF: '0.2'
 ISCO08ConveRsions: 0.1.1
 ISDA.R: '1.0'
-ISEtools: 3.1.1
+ISEtools: 3.2.0
 ISIPTA: 0.1-8
 ISLR: '1.4'
 ISLR2: 1.3-1
@@ -3254,7 +3255,7 @@ KsPlot: '1.3'
 Kurt: '1.1'
 L0Learn: 2.0.3
 L1mstate: 1.0.1
-L1pack: '0.41'
+L1pack: 0.41-2
 L2DensityGoFtest: 0.5.0
 L2E: '2.0'
 LA: '2.1'
@@ -3378,7 +3379,7 @@ LST: 1.1.0
 LSTS: '2.1'
 LSVAR: '1.2'
 LSWPlib: 0.1.0
-LSX: 1.1.2
+LSX: 1.1.3
 LTASR: 0.0.1
 LTPDvar: 1.2.1
 LTR: 1.0.0
@@ -3800,6 +3801,7 @@ MSQC: 1.1.0
 MSRDT: 0.1.0
 MSSQL: 1.0.0
 MST: '2.2'
+MSTest: 0.1.0
 MSToolkit: 3.2.0
 MSVAR: '0.0'
 MSbox: 1.4.6
@@ -4446,7 +4448,7 @@ OpenImageR: 1.2.6
 OpenLand: 1.0.2
 OpenML: '1.9'
 OpenMPController: 0.2-5
-OpenMx: 2.20.6
+OpenMx: 2.20.7
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.5.1
 OpenSpecy: 0.9.5
@@ -4629,7 +4631,7 @@ PMCMR: '4.4'
 PMCMRplus: 1.9.6
 PML: '1.2'
 PMmisc: 0.1.2
-PMwR: 0.17-0
+PMwR: 0.18-0
 PNADcIBGE: 0.7.0
 PNAR: '1.2'
 PNSIBGE: 0.1.7
@@ -4869,7 +4871,7 @@ PolyHaplotyper: 1.0.1
 PolyPatEx: 0.9.2
 PolyTrend: '1.2'
 Polychrome: 1.5.1
-PolygonSoup: 1.0.0
+PolygonSoup: 1.0.1
 PolynomF: 2.0-5
 Pomic: 1.0.4
 PoolTestR: 0.1.3
@@ -5358,7 +5360,7 @@ RMendeley: 0.1-2
 RMessenger: '0.1'
 RMixpanel: 0.7-1
 RMixtComp: 4.1.3
-RMixtCompIO: 4.0.7
+RMixtCompIO: 4.0.8
 RMixtCompUtilities: 4.1.4
 RMongo: 0.0.25
 RMySQL: 0.10.24
@@ -5830,7 +5832,7 @@ Rdtq: '0.1'
 Rduino: '0.1'
 Rduinoiot: 0.1.0
 ReCiPa: '3.0'
-ReDaMoR: 0.6.5
+ReDaMoR: 0.7.1
 ReDirection: 1.0.1
 ReIns: 1.0.10
 ReacTran: 1.4.3.1
@@ -7670,11 +7672,11 @@ adehabitatHR: 0.4.19
 adehabitatHS: 0.3.15
 adehabitatLT: 0.3.25
 adehabitatMA: 0.3.14
-adephylo: 1.1-11
+adephylo: 1.1-13
 adepro: 3.2.0
 adept: '1.2'
 adeptdata: '1.1'
-adespatial: 0.3-19
+adespatial: 0.3-20
 adfExplorer: 0.1.6
 adheRenceRX: 1.0.0
 adhoc: '1.1'
@@ -7702,7 +7704,7 @@ adobeanalyticsr: 0.3.3
 adoption: 0.6.4
 adoptr: 1.0.0
 adpss: 0.1.1
-ads: 1.5-6
+ads: 1.5-7
 adsDataHubR: 0.1.1
 advclust: '0.4'
 adventr: 0.1.8
@@ -8085,8 +8087,8 @@ assignR: 2.2.1
 assist: 3.1.8
 assocInd: 1.0.1
 assortnet: '0.12'
-ast2ast: '0.2'
-asteRisk: 1.4.1
+ast2ast: 0.2.1
+asteRisk: 1.4.2
 aster: 1.1-2
 aster2: '0.3'
 astro: '1.2'
@@ -9066,6 +9068,7 @@ calpassapi: 0.0.3
 camcorder: 0.1.0
 camel: 0.2.0
 camerondata: 1.0.0
+campaignmanageR: 0.1.0
 campfin: 1.0.9
 campsis: 1.3.0
 campsismod: 0.9.0
@@ -10019,6 +10022,7 @@ covid19srilanka: 1.0.0
 covid19swiss: 0.1.0
 covid19us: 0.1.9
 covidcast: 0.4.3
+covidmx: 0.7.2
 covidprobability: 0.1.0
 covidregionaldata: 0.9.3
 covidsymptom: 0.9.3
@@ -10564,7 +10568,7 @@ degreenet: 1.3-3
 degross: 0.9.0
 deisotoper: 0.0.7
 dejaVu: 0.3.0
-delaunay: 1.1.0
+delaunay: 1.1.1
 delayed: 0.3.0
 deldir: 1.0-6
 delftfews: 0.3-67
@@ -10717,7 +10721,7 @@ didrooRFM: 1.0.0
 dief: '1.2'
 dielectric: '0.2'
 diem: '1.0'
-diemr: '1.0'
+diemr: '1.1'
 dietr: 1.1.3
 diezeit: 0.1-0
 difNLR: 1.4.1
@@ -12799,7 +12803,7 @@ geodaData: 0.1.0
 geodata: 0.4-11
 geodetector: 1.0-4
 geodimension: 1.0.0
-geodist: 0.0.7
+geodist: 0.0.8
 geodiv: 1.0.5
 geodrawr: 2.0.0
 geoelectrics: 0.2.0
@@ -13501,7 +13505,7 @@ gsrsb: 1.1.1
 gss: 2.2-3
 gsscopu: 0.9-3
 gstar: 0.1.0
-gstat: 2.0-9
+gstat: 2.1-0
 gstsm: 0.0.1
 gstudio: '1.3'
 gsubfn: '0.7'
@@ -13749,7 +13753,7 @@ hiertest: '1.1'
 highD2pop: '1.0'
 highDmean: 0.1.0
 highMLR: 0.1.1
-highOrderPortfolios: 0.0.2
+highOrderPortfolios: 0.1.0
 highSCREEN: '0.4'
 highTtest: '1.3'
 highcharter: 0.9.4
@@ -15162,7 +15166,7 @@ linpk: 1.1.1
 linprog: 0.9-4
 lint: '0.3'
 lintools: 0.1.6
-lintr: 3.0.1
+lintr: 3.0.2
 lipidmapsR: 1.0.4
 lipidomeR: 0.1.2
 liqueueR: 0.0.1
@@ -15600,7 +15604,7 @@ marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
 mark: 0.5.3
-markdown: '1.1'
+markdown: '1.2'
 markdownInput: 0.1.2
 marked: 1.2.6
 markerSearchPower: '1.0'
@@ -16074,7 +16078,7 @@ minimaxdesign: 0.1.5
 minimist: '0.1'
 miniparquet: 0.1.2
 minpack.lm: 1.2-2
-minqa: 1.2.4
+minqa: 1.2.5
 minque: 2.0.0
 minval: 0.8-2
 minxent: '0.01'
@@ -16372,7 +16376,7 @@ mombf: 3.1.4
 momentchi2: 0.1.5
 momentfit: '0.3'
 moments: 0.14.1
-momentuHMM: 1.5.4
+momentuHMM: 1.5.5
 momr: '1.1'
 monaco: 0.2.2
 monashtipr: 0.1.0
@@ -17697,7 +17701,7 @@ paleofire: 1.2.4
 paleomorph: 0.1.4
 paleopop: 2.1.4
 paleotree: 3.4.5
-paletteer: 1.4.1
+paletteer: 1.5.0
 paletteknife: 0.4.2
 palettesForR: 0.1.2
 palettetown: 0.1.1
@@ -17726,7 +17730,7 @@ panelView: 1.1.11
 panelWranglR: 1.2.13
 panelaggregation: 0.1.1
 panelr: 0.7.6
-panelvar: 0.5.3
+panelvar: 0.5.4
 pangaear: 1.1.0
 panstarrs: 0.1.0
 papaja: 0.1.1
@@ -18703,6 +18707,7 @@ projects: 2.1.3
 projmanr: 0.2.1
 projmgr: 0.1.0
 projpred: 2.2.1
+prolific.api: '0.5'
 prome: 1.5.6.70
 promethee123: 0.1.0
 promises: 1.2.0.1
@@ -20400,7 +20405,7 @@ rstatscn: 1.1.3
 rstiefel: 1.0.1
 rstoat: 1.0.2
 rstpm2: 1.5.8
-rstream: 1.3.6
+rstream: 1.3.7
 rstudio.prefs: 0.1.9
 rstudioapi: '0.14'
 rstyles: 0.4.0
@@ -20522,7 +20527,7 @@ rwty: 1.0.2
 rwunderground: 0.1.8
 rxSeq: 0.99.3
 rxivistr: 0.1.1
-rxode2: 2.0.7
+rxode2: 2.0.9
 rxode2et: 2.0.9
 rxode2ll: 2.0.9
 rxode2parse: 2.0.11
@@ -21739,7 +21744,7 @@ spatstat.linnet: 2.3-2
 spatstat.local: 4.1-5
 spatstat.random: 2.2-0
 spatstat.sparse: 2.1-1
-spatstat.utils: 2.3-1
+spatstat.utils: 3.0-1
 spatsurv: '1.8'
 spbabel: 0.5.5
 spc: 0.6.6
@@ -22922,7 +22927,7 @@ tlnise: '2.0'
 tlrmvnmvt: 1.1.2
 tls: 0.1.0
 tlsh: 0.1.0
-tm: 0.7-8
+tm: 0.7-9
 tm.plugin.alceste: '1.1'
 tm.plugin.dc: 0.2-10
 tm.plugin.europresse: '1.4'
@@ -23068,6 +23073,7 @@ transplantr: 0.2.0
 transport: 0.12-4
 transx: 0.0.1
 trapezoid: 2.0-2
+traudem: 1.0.1
 trawl: 0.2.2
 treasuryTR: 0.1.5
 treatSens: '2.1'
@@ -23093,6 +23099,7 @@ treelet: '1.1'
 treeman: '1.1'
 treemap: 2.4-3
 treemapify: 2.5.5
+treemisc: 0.0.1
 treenomial: 1.1.4
 treeperm: '1.6'
 treeplyr: 0.1.10
