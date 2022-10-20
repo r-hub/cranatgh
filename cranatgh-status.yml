@@ -578,7 +578,7 @@ BayesProject: '1.0'
 BayesQTLBIC: 1.0-2
 BayesRGMM: '2.2'
 BayesRS: 0.1.3
-BayesReversePLLH: '1.4'
+BayesReversePLLH: '1.5'
 BayesS5: '1.41'
 BayesSAE: 1.0-2
 BayesSPsurv: 0.1.4
@@ -1198,7 +1198,7 @@ CompAREdesign: '2.2'
 CompDist: '1.0'
 CompGLM: '2.0'
 CompLognormal: '3.0'
-CompModels: 0.2.0
+CompModels: 0.3.0
 CompQuadForm: 1.4.3
 CompR: '1.0'
 CompRandFld: 1.0.3
@@ -3407,7 +3407,7 @@ Langevin: 1.3.1
 LaplaceDeconv: 1.0.4
 LaplacesDemon: 16.1.6
 LargeRegression: '1.0'
-LassoBacktracking: 0.1.2
+LassoBacktracking: '1.0'
 LassoGEE: '1.0'
 LassoNet: 0.8.3
 LassoSIR: 0.1.1
@@ -4213,7 +4213,7 @@ NMFN: 2.0.1
 NMI: '2.0'
 NMMAPSlite: '0.3'
 NMMIPW: 0.1.0
-NMOF: 2.7-0
+NMOF: 2.7-1
 NMRS: '1.0'
 NMTox: 0.1.0
 NMVANOVA: 1.1.0
@@ -5901,7 +5901,7 @@ RevGadgets: 1.0.0
 ReviewR: 2.3.8
 Revticulate: 1.0.0
 Rexperigen: 0.2.1
-RfEmpImp: 2.1.5
+RfEmpImp: 2.1.8
 Rfacebook: 0.6.15
 Rfast: 2.0.6
 Rfast2: 0.1.3
@@ -8660,7 +8660,7 @@ biodosetools: 3.6.0
 biofiles: 1.0.0
 biogas: 1.23.2
 biogeo: '1.0'
-biogeom: 1.1.4
+biogeom: 1.2.0
 biogram: 1.6.3
 biogrowth: 1.0.0-3
 bioimagetools: 1.1.8
@@ -8750,7 +8750,7 @@ blme: 1.0-5
 blmeco: '1.4'
 blob: 1.2.3
 blockCV: 2.1.4
-blockForest: 0.2.4
+blockForest: 0.2.5
 blockRAR: 1.0.2
 blockTools: 0.6-3
 blockcluster: 4.5.1
@@ -9526,7 +9526,7 @@ cliqueMS: 0.3.1
 clisymbols: 1.2.0
 clmplus: 0.0.1
 clock: 0.6.1
-clockify: 0.0.10
+clockify: 0.1.2
 clogitL1: '1.5'
 clogitLasso: '1.1'
 clogitboost: '1.1'
@@ -13374,7 +13374,7 @@ graph: 1.30.0
 graph3d: 0.2.0
 graph4lg: 1.6.0
 graphComp: '1.0'
-graphPAF: 1.0.0
+graphPAF: 1.0.1
 graphTweets: 0.5.3
 grapherator: 1.0.0
 graphframes: 0.1.2
@@ -13384,7 +13384,7 @@ graphicalVAR: '0.3'
 graphicsQC: '1.0'
 graphite: '1.1'
 graphkernels: 1.6.1
-graphlayouts: 0.8.2
+graphlayouts: 0.8.3
 graphon: 0.3.5
 graphql: 1.5.1
 graphscan: '1.1'
@@ -13754,7 +13754,7 @@ hiertest: '1.1'
 highD2pop: '1.0'
 highDmean: 0.1.0
 highMLR: 0.1.1
-highOrderPortfolios: 0.1.0
+highOrderPortfolios: 0.1.1
 highSCREEN: '0.4'
 highTtest: '1.3'
 highcharter: 0.9.4
@@ -14841,6 +14841,7 @@ kstMatrix: 0.1-3
 ktaucenters: 0.1.0
 ktsolve: '1.3'
 ktspair: '1.0'
+ktweedie: 1.0.0
 kubik: 0.3.0
 kuiper.2samp: '1.0'
 kulife: 0.1-9
@@ -15748,7 +15749,7 @@ mcmcr: 0.6.1
 mcmcsae: 0.7.1
 mcmcse: 1.5-0
 mco: 1.15.6
-mcompanion: 0.5-3
+mcompanion: 0.5.5
 mcount: 1.0.0
 mcp: 0.3.2
 mcparallelDo: 1.1.0
@@ -17577,7 +17578,7 @@ osmose: 3.3.4
 osmplotr: 0.3.3
 ospsuite.utils: 1.2.0
 osqp: 0.6.0.6
-osrm: 3.5.1
+osrm: 4.0.0
 osrmr: 0.1.36
 ot: 0.2.0
 otinference: 0.1.0
@@ -17605,7 +17606,7 @@ outsider.base: 0.1.4
 ouxy: '2.1'
 overdisp: 0.1.1
 overlap: 0.3.4
-overlapping: '1.8'
+overlapping: '2.0'
 overlapptest: 1.2-4
 overture: 0.4-0
 overviewR: 0.0.11
@@ -18429,7 +18430,7 @@ polynom: 1.4-1
 polynomial: 0.1.0
 polypharmacy: 1.0.0
 polyphemus: 0.3.4
-polypoly: 0.0.2
+polypoly: 0.0.3
 polyqtlR: 0.0.9
 polyreg: 0.8.0
 polysat: 1.7-7
@@ -18554,6 +18555,7 @@ ppseq: 0.2.0
 ppsr: 0.0.2
 ppstat: '0.9'
 pqantimalarials: '0.2'
+pqrfe: '1.0'
 prLogistic: '1.2'
 prWarp: 1.0.0
 prabclus: 2.3-2
@@ -19524,7 +19526,7 @@ rdefra: 0.3.8
 rdetools: '1.0'
 rdflib: 0.2.5
 rdfp: 0.1.4
-rdhs: 0.7.5
+rdhs: 0.7.6
 rdi: 1.0.0
 rdian: 0.1.1
 rdist: 0.0.5
@@ -20089,7 +20091,7 @@ rmsb: 0.1.0
 rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
 rmt: '1.0'
-rmumps: 5.2.1-18
+rmumps: 5.2.1-20
 rmutil: 1.1.9
 rmweather: 0.1.51
 rmytarget: 2.4.0
@@ -20355,7 +20357,7 @@ rscimark: '1.0'
 rsconnect: 0.8.27
 rscontract: 0.1.2
 rscopus: 0.6.6
-rscorecard: 0.23.0
+rscorecard: 0.24.0
 rscproxy: 2.0-5
 rsdNE: 1.0.0
 rsdepth: 0.1-22
@@ -20884,7 +20886,7 @@ seeds: 0.9.1
 seedwater: '2.0'
 seedy: '1.3'
 seeg: '1.0'
-seeker: 1.0.10
+seeker: 1.0.13
 seem: '1.0'
 seer: 1.1.8
 seewave: 2.2.0
@@ -21233,7 +21235,7 @@ sigloc: 0.0.4
 sigma2tools: '1.2'
 sigmaNet: 1.1.0
 sigmajs: 0.1.5
-sigminer: 2.1.7
+sigminer: 2.1.8
 sigmoid: 1.4.0
 signal: 0.7-7
 signal.hsmm: '1.2'
@@ -22193,7 +22195,7 @@ strex: 1.4.3
 strider: '1.3'
 string2path: 0.1.1
 stringb: 0.1.17
-stringdist: 0.9.8
+stringdist: 0.9.9
 stringfish: 0.15.7
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
@@ -22788,7 +22790,7 @@ tidydice: 0.1.1
 tidydr: 0.0.4
 tidyestimate: 1.1.0
 tidyfast: 0.2.1
-tidyfst: 1.7.3
+tidyfst: 1.7.4
 tidyft: 0.4.5
 tidygapminder: 0.1.1
 tidygate: 0.4.9
@@ -23564,7 +23566,7 @@ vectorwavelet: 0.1.0
 vegalite: 0.6.1
 vegan: 2.6-4
 vegan3d: 1.1-2
-vegawidget: 0.4.1
+vegawidget: 0.4.2
 vegclust: 2.0.2
 vegdata: 0.9.11.3
 vegetarian: '1.2'
