@@ -1082,7 +1082,7 @@ ChaosGame: '1.3'
 CharFun: 0.1.0
 ChargeTransport: '1.0'
 CheckDigit: 1.0.0
-ChemoSpec: 6.1.3
+ChemoSpec: 6.1.4
 ChemoSpec2D: 0.5.0
 ChemoSpecUtils: 1.0.0
 ChemometricsWithR: 0.1.9
@@ -2845,6 +2845,7 @@ HoRM: 0.1.3
 Holidays: 1.0-7
 Homeric: 0.1-3
 HomoPolymer: '1.0'
+HomomorphicEncryption: 0.1.0
 HostSwitch: 0.1.2
 HotDeckImputation: 1.1.0
 Hotelling: 1.0-8
@@ -3380,7 +3381,7 @@ LSTS: '2.1'
 LSVAR: '1.2'
 LSWPlib: 0.1.0
 LSX: 1.1.3
-LTASR: 0.0.1
+LTASR: 0.1.0
 LTPDvar: 1.2.1
 LTR: 1.0.0
 LTRCforests: 0.5.5
@@ -4276,6 +4277,7 @@ NegBinBetaBinreg: '1.0'
 NegativeControlOutcomeAdjustment: 0.0.4
 Neighboot: 1.0.1
 Nemenyi: '1.2'
+NestMRMC: '1.0'
 NestedCategBayesImpute: 1.2.1
 NestedCohort: 1.1-3
 NestedMenu: 0.2.0
@@ -4871,7 +4873,7 @@ PolyHaplotyper: 1.0.1
 PolyPatEx: 0.9.2
 PolyTrend: '1.2'
 Polychrome: 1.5.1
-PolycrossDesigns: 1.0.0
+PolycrossDesigns: 1.1.0
 PolygonSoup: 1.0.1
 PolynomF: 2.0-5
 Pomic: 1.0.4
@@ -6104,7 +6106,7 @@ Rvcg: '0.21'
 Rvelslant: 0.2-3
 Rvmmin: 2018-4.17.1
 Rvoterdistance: '1.1'
-Rwave: 2.6-4
+Rwave: 2.6-5
 Rwclust: 0.1.0
 RweaveExtra: 1.0-0
 Rwhois: 1.0.12
@@ -6550,6 +6552,7 @@ ShapeChange: '1.4'
 ShapePattern: 2.2.0
 ShapeRotator: 0.1.0
 ShapeSelectForest: '1.5'
+ShapleyOutlier: 0.1.0
 ShapleyValue: 0.2.0
 SharedHT2: '2.0'
 SharpeR: 1.3.0
@@ -8032,7 +8035,7 @@ arsenal: 3.6.3
 artemis: 1.1.1
 artfima: '1.5'
 arthistory: 0.1.0
-arules: 1.7-4
+arules: 1.7-5
 arulesCBA: 1.2.5
 arulesNBMiner: 0.1-8
 arulesSequences: 0.2-26
@@ -8258,6 +8261,7 @@ bain: 0.2.8
 bairt: 0.1.2
 baitmet: 1.0.1
 bakR: 0.2.4
+bakeoff: 0.2.0
 baker: 1.0.0
 balance: 0.2.4
 ballr: 0.2.6
@@ -8586,7 +8590,7 @@ bigreadr: 0.2.4
 bigrf: 0.1-6
 bigrquery: 1.4.0
 bigsimr: 0.11.2
-bigsnpr: 1.10.8
+bigsnpr: 1.11.4
 bigsparser: 0.6.1
 bigsplines: 1.1-1
 bigstatsr: 1.5.12
@@ -10142,6 +10146,7 @@ crossrun: 0.1.1
 crosstable: 0.5.0
 crosstalk: 1.2.0
 crosstalkr: 0.8.0
+crossurr: 1.0.6
 crossval: 1.0.4
 crossvalidationCP: 1.0-2
 crosswalkr: 0.2.6
@@ -11257,7 +11262,7 @@ ecolMod: 1.2.6.3
 ecolTest: 0.0.1
 ecolottery: 1.0.0
 econet: 1.0.0
-econetwork: 0.6.0
+econetwork: 0.7.0
 economiccomplexity: 1.4.0
 econullnetr: 0.2.1
 ecopower: 0.1.0
@@ -20251,7 +20256,7 @@ roxytest: 0.0.1
 royston: '1.2'
 rpact: 3.3.1
 rpanel: 1.1-5.1
-rpart: 4.1.16
+rpart: 4.1.19
 rpart.LAD: 0.1.2
 rpart.permutation: '1.01'
 rpart.plot: 3.1.1
@@ -21008,7 +21013,7 @@ sequoia: 2.3.5
 sergeant: 0.9.1
 serial: '3.0'
 serialize: 0.2-1
-seriation: 1.3.6
+seriation: 1.4.0
 serieslcb: 0.4.0
 seroincidence: 2.0.0
 serp: 0.2.4
@@ -21713,7 +21718,7 @@ spass: '1.3'
 spatPomp: 0.30.0.1
 spatclus: 1.0-3
 spatcounts: '1.1'
-spate: '1.7'
+spate: 1.7.3
 spatgeom: 0.1.0
 spatgraphs: 3.2-2
 spathial: 0.1.2
@@ -22855,7 +22860,7 @@ tigris: 1.6.1
 tiktokadsR: 0.1.0
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
-tiledb: 0.15.0
+tiledb: 0.16.0
 tilegramsR: 0.2.0
 tilemaps: 0.2.0
 tiler: 0.2.5
@@ -23551,7 +23556,7 @@ vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.0.2
 vcrpart: 1.0-4
-vctrs: 0.4.2
+vctrs: 0.5.0
 vcvComp: 1.0.2
 vdar: 0.1.3-2
 vdg: 1.2.2
@@ -23972,7 +23977,7 @@ wrspathrow: '0.1'
 wrspathrowData: '1.0'
 wrswoR: 1.1.1
 wrswoR.benchmark: '0.2'
-wru: 1.0.0
+wru: 1.0.1
 wsbackfit: 1.0-5
 wsjplot: 0.1.0
 wskm: 1.4.40
