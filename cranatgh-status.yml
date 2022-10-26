@@ -552,7 +552,7 @@ BayesGPfit: 1.1.0
 BayesGWQS: 0.1.1
 BayesH: '1.0'
 BayesLCA: '1.9'
-BayesLN: 0.2.6
+BayesLN: 0.2.8
 BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
@@ -609,7 +609,7 @@ BayesianTools: 0.1.7
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
 Bayesiantreg: '1.0'
-Bayesrel: 0.7.4.3
+Bayesrel: 0.7.4.4
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
 BcDiag: 1.0.10
@@ -984,7 +984,7 @@ CSIndicators: 0.0.2
 CSMES: 1.0.0
 CSS: '1.0'
 CSTE: 2.0.0
-CSTools: 4.0.1
+CSTools: 4.1.0
 CSUV: 0.1.1
 CSclone: '1.0'
 CSeqpat: 0.1.2
@@ -2794,7 +2794,7 @@ HW.pval: '1.0'
 HWEBayes: '1.4'
 HWEintrinsic: 1.2.2
 HWxtest: 1.1.9
-HYPEtools: 1.0.0
+HYPEtools: 1.1.0
 HYRISK: '1.2'
 HaDeX: 1.2.2
 HadamardR: 1.0.0
@@ -5091,7 +5091,7 @@ R2SWF: 0.9-7
 R2WinBUGS: 2.1-21
 R2admb: 0.7.16.2
 R2jags: 0.7-1
-R2sample: 0.0.1
+R2sample: 1.0.0
 R2ucare: 1.0.2
 R2wd: '1.5'
 R330: '1.0'
@@ -6814,7 +6814,7 @@ StrathE2E2: 3.3.0
 StratifiedBalancing: 0.3.0
 StratifiedMedicine: 1.0.5
 StratifiedRF: 0.2.2
-StratifiedSampling: 0.4.0
+StratifiedSampling: 0.4.1
 StratigrapheR: 1.2.5
 StreamMetabolism: 1.1.2
 StreamingLm: '0.1'
@@ -8029,7 +8029,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
-arrow: 9.0.0.2
+arrow: 10.0.0
 ars: '0.6'
 arse: 1.0.0
 arsenal: 3.6.3
@@ -8048,7 +8048,7 @@ asbio: 1.8-2
 ascentTraining: 1.0.0
 ascii: '2.4'
 asciiSetupReader: 2.4.0
-asciicast: 2.1.0
+asciicast: 2.2.0
 asciichartr: 0.1.0
 asciiruler: '0.2'
 ascotraceR: 0.0.1
@@ -8665,7 +8665,7 @@ biodosetools: 3.6.0
 biofiles: 1.0.0
 biogas: 1.23.2
 biogeo: '1.0'
-biogeom: 1.2.0
+biogeom: 1.2.1
 biogram: 1.6.3
 biogrowth: 1.0.0-3
 bioimagetools: 1.1.8
@@ -9479,7 +9479,7 @@ clean: 2.0.0
 cleanEHR: '1.0'
 cleanNLP: 3.0.4
 cleanTS: 0.1.1
-cleancall: 0.1.2
+cleancall: 0.1.3
 cleandata: 0.3.0
 cleaner: 1.5.3
 cleanerR: 0.1.1
@@ -10522,7 +10522,7 @@ deGradInfer: 1.0.1
 deSolve: '1.34'
 deTS: '1.0'
 deTestSet: 1.1.7.3
-deaR: '1.3'
+deaR: 1.3.1
 deadband: 0.1.0
 deal: 1.2-39
 deamer: '1.0'
@@ -11934,7 +11934,7 @@ fastOnlineCpt: '1.0'
 fastR: 0.8-1
 fastR2: 1.2.2
 fastRG: 0.3.1
-fastRhockey: 0.3.1
+fastRhockey: 0.4.0
 fastSOM: 1.0.1
 fastStat: '1.4'
 fastText: 1.0.3
@@ -13733,7 +13733,7 @@ hgam: 0.1-2
 hglasso: '1.3'
 hglm: 2.2-1
 hglm.data: 1.0-1
-hgm: '1.20'
+hgm: '1.22'
 hgnc: 0.1.2
 hgutils: 0.2.11
 hgwrr: 0.2-3
@@ -13765,7 +13765,7 @@ highOrderPortfolios: 0.1.1
 highSCREEN: '0.4'
 highTtest: '1.3'
 highcharter: 0.9.4
-highfrequency: 0.9.5
+highfrequency: 1.0.0
 highlight: 0.5.0
 highlightHTML: 0.2.5
 highmean: '3.0'
@@ -16221,7 +16221,7 @@ mlmi: 1.1.1
 mlmm: 1.5.0
 mlmm.gwas: 1.0.6
 mlmmm: 0.3-1.2
-mlmtools: 1.0.1
+mlmtools: 1.0.2
 mlmts: 1.0.1
 mlogit: 1.1-1
 mlogitBMA: 0.1-7
@@ -17878,7 +17878,7 @@ pbdMPI: 0.4-6
 pbdNCDF4: 0.1-4
 pbdPROF: 0.4-0
 pbdRPC: 0.2-1
-pbdSLAP: 0.3-2
+pbdSLAP: 0.3-3
 pbdZMQ: 0.3-8
 pbivnorm: 0.6.0
 pbixr: 0.1.4
@@ -18225,7 +18225,7 @@ pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.2
 pkgbuild: 1.3.1
-pkgcache: 2.0.2
+pkgcache: 2.0.3
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
@@ -18240,7 +18240,7 @@ pkgmaker: 0.32.2
 pkgndep: 1.2.0
 pkgnet: 0.4.2
 pkgnews: 0.0.2
-pkgsearch: 3.1.1
+pkgsearch: 3.1.2
 pkgstats: 0.1.1
 pkgutils: 0.6.0
 pkgverse: 0.0.1
@@ -18687,7 +18687,7 @@ processcontrol: 0.1.0
 processdata: '0.8'
 processmapR: 0.5.2
 processmonitR: 0.1.0
-processx: 3.7.0
+processx: 3.8.0
 procmaps: 0.0.4
 prodest: 1.0.1
 prodigenr: 0.6.2
@@ -19705,7 +19705,7 @@ regsem: 1.9.3
 regspec: '2.6'
 regsubseq: '0.12'
 regtest: '0.05'
-regtomean: '1.0'
+regtomean: '1.1'
 regtools: 1.7.0
 regweight: 1.0.2
 rehh: 3.2.2
@@ -20833,7 +20833,7 @@ sdamr: 0.1.0
 sdat: '1.1'
 sdcHierarchies: 0.19.3
 sdcLog: 0.5.0
-sdcMicro: 5.7.3
+sdcMicro: 5.7.4
 sdcMicroGUI: 1.4.0
 sdcSpatial: 0.5.2
 sdcTable: 0.32.4
@@ -21128,7 +21128,7 @@ shinyFiles: 0.9.3
 shinyGizmo: '0.2'
 shinyGovstyle: 0.0.8
 shinyHeatmaply: 0.2.0
-shinyHugePlot: 0.1.0
+shinyHugePlot: 0.2.0
 shinyIRT: '0.1'
 shinyKGode: 1.0.5
 shinyKnobs: 0.1.3
@@ -21275,7 +21275,7 @@ simMSM: 1.1.42
 simMetric: 0.1.0
 simPATHy: '0.6'
 simPH: 1.3.13
-simPop: 2.1.0
+simPop: 2.1.1
 simPopulation: 0.4.1
 simSummary: 0.1.0
 simTargetCov: 1.0.1
@@ -21642,7 +21642,7 @@ spRingsteen: 0.1.0
 spTDyn: 2.0.1
 spTest: 0.2.5
 spThin: 0.2.0
-spTimer: 3.3.1
+spTimer: 3.3.2
 spa: '2.0'
 spaMM: 4.0.0
 spaa: 0.2.2
@@ -22473,7 +22473,7 @@ synlik: 0.1.5
 synoptReg: 1.2.1
 synr: 0.6.0
 syntaxr: 0.8.0
-synthACS: 1.7.0
+synthACS: 1.7.1
 synthesis: 1.2.3
 synthesisr: 0.3.0
 synthpop: 1.8-0
@@ -24152,7 +24152,7 @@ zfa: '1.0'
 zfit: 0.3.0
 zic: 0.9.1
 zicounts: 1.1.5
-zip: 2.2.1
+zip: 2.2.2
 zipR: 0.1.1
 zipangu: 0.3.1
 zipcode: '1.0'
