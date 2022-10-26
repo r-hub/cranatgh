@@ -678,7 +678,7 @@ BioProbability: '1.0'
 BioRssay: 1.1.0
 BioStatR: 3.1.2
 BioVenn: 1.1.3
-BiocManager: 1.30.18
+BiocManager: 1.30.19
 Biocomb: '0.4'
 Biodem: '0.5'
 BiodiversityR: 2.14-4
@@ -2935,6 +2935,7 @@ IFAA: 1.0.9
 IFC: 0.1.7
 IFP: 0.2.4
 IFSPlot: '1.0'
+IGCities: 0.2.0
 IGG: '1.0'
 IGM.MEA: 0.3.5
 IGP: 0.2.0
@@ -4452,7 +4453,7 @@ OpenML: '1.12'
 OpenMPController: 0.2-5
 OpenMx: 2.20.7
 OpenRepGrid: 0.1.12
-OpenRepGrid.ic: 0.5.1
+OpenRepGrid.ic: 0.6.1
 OpenSpecy: 0.9.5
 OpenStreetMap: 0.3.4
 OpenTreeChronograms: 2022.1.28
@@ -5162,7 +5163,7 @@ RCLabels: 0.1.1
 RCMIP5: 1.2.0
 RCMinification: '1.1'
 RCPA3: 1.1.1
-RCPmod: '2.190'
+RCPmod: '2.192'
 RCRnorm: 0.0.2
 RCSF: 1.0.2
 RCSL: 0.99.95
@@ -5474,7 +5475,7 @@ RPyGeo: 1.0.0
 RQDA: 0.3-1
 RQEntangle: 0.1.3
 RQGIS: 1.0.4
-RQuantLib: 0.4.16
+RQuantLib: 0.4.17
 RRBoost: '0.1'
 RRF: 1.9.4
 RRI: '1.1'
@@ -6198,7 +6199,7 @@ SCRSELECT: 1.3-3
 SCRT: 1.3.1
 SCVA: 1.3.1
 SCperf: 1.1.1
-SCpubr: 1.0.1
+SCpubr: 1.0.2
 SCtools: 0.3.2.1
 SDALGCP: 0.4.0
 SDAR: 0.9-55
@@ -8286,7 +8287,7 @@ barplot3d: 1.0.1
 barsurf: 0.7.0
 bartBMA: '1.0'
 bartCause: 1.0-4
-bartMachine: '1.3'
+bartMachine: 1.3.2
 bartMachineJARs: 1.2.1
 bartcs: 0.1.2
 basad: 0.3.0
@@ -9602,7 +9603,7 @@ cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.2
 cmfilter: 0.9.1
-cmfrec: 3.4.3
+cmfrec: 3.4.3-2
 cmhc: 0.2.3
 cml: 0.0.5
 cmm: '0.12'
@@ -14832,7 +14833,7 @@ kpodclustr: '1.1'
 kriens: '0.1'
 krige: 0.6.2
 kriging: '1.2'
-krippendorffsalpha: 1.1-2
+krippendorffsalpha: '2.0'
 krm: 2022.10-17
 ks: 1.13.5
 ksNN: 0.1.2
@@ -15389,7 +15390,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.1.9
+lrstat: 0.1.10
 lsa: 0.73.3
 lsasim: 2.1.2
 lsbclust: '1.1'
@@ -15794,7 +15795,7 @@ mdthemes: 0.1.0
 mdw: 2020.6-17
 meaRtools: 1.0.4
 meanShiftR: '0.56'
-meanr: 0.1-4
+meanr: 0.1-5
 meanscore: 1.0-6
 meantables: 0.1.2
 measuRing: '0.5'
@@ -17994,6 +17995,7 @@ penfa: 0.1.1
 penppml: 0.2.0
 pense: 2.1.0
 pensim: 1.3.3
+peopleanalytics: 0.1.0
 peopleanalyticsdata: 0.2.1
 pepe: 1.2.0
 peperr: '1.4'
@@ -18393,7 +18395,7 @@ poio: 0.0-4
 poisDoubleSamp: 1.1.1
 poisFErobust: 2.0.0
 poisbinom: 1.0.1
-poismf: 0.4.0-1
+poismf: 0.4.0-2
 poisson: '1.0'
 poisson.glm.mix: '1.3'
 poissonMT: 0.3-5
@@ -19445,7 +19447,7 @@ rbison: 1.0.0
 rbit: 1.0.0
 rbitcoinchartsapi: 1.0.4
 rblt: 0.2.4.5
-rbmi: 1.1.4
+rbmi: 1.2.1
 rbmn: 0.9-5
 rbokeh: 0.5.2
 rbooster: 1.1.0
@@ -19966,7 +19968,7 @@ rifle: '1.0'
 rigr: 1.0.4
 riingo: 0.3.1
 rijkspalette: 1.0.2
-rim: 0.5.1
+rim: 0.5.2
 rimage: '0.5'
 rimu: '0.6'
 rinat: 0.1.9
@@ -21102,7 +21104,7 @@ shelltrace: 3.5.1
 shidashi: 0.1.4
 shiftR: '1.5'
 shinipsum: 0.1.0
-shiny: 1.7.2
+shiny: 1.7.3
 shiny.i18n: 0.2.0
 shiny.info: 0.2.0
 shiny.pwa: 0.2.1
@@ -22551,7 +22553,7 @@ tapkee: '1.2'
 tapnet: '0.3'
 tarchetypes: 0.7.1
 tardis: 0.1.3
-targeted: 0.2.0
+targeted: '0.3'
 targets: 0.13.5
 tashu: 0.1.1
 taskPR: '0.34'
@@ -22625,7 +22627,7 @@ tempdisagg: '1.0'
 temperatureresponse: '0.2'
 templateICAr: 0.3.1
 templates: 0.3.0
-templr: 0.1-0
+templr: 0.2-0
 tempoR: 1.0.4.4
 tenispolaR: 0.1.4
 tensor: '1.5'
@@ -22837,7 +22839,7 @@ tidystats: 0.5.1
 tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
-tidytable: 0.9.0
+tidytable: 0.9.1
 tidytags: 1.0.3
 tidyterra: 0.3.0
 tidytext: 0.3.4
@@ -23676,6 +23678,7 @@ vmv: '1.0'
 vntrs: 0.1.0
 vocaldia: 0.8.4
 voice: 0.4.14
+volatilityTrader: 1.0.1
 volcano3D: 2.0.8
 volesti: 1.1.2-3
 volleystat: 0.2.0
@@ -23951,6 +23954,7 @@ worldfootballR: 0.6.1
 worldmet: 0.9.6
 worms: 0.2.2
 worrms: 0.4.2
+worrrd: 0.1.0
 wosr: 0.3.0
 wowa: 1.0.2
 wpa: 1.8.0
