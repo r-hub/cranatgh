@@ -396,7 +396,7 @@ BGGM: 2.0.4
 BGLR: 1.1.0
 BGPhazard: 2.1.0
 BGSIMD: '1.0'
-BGVAR: 2.5.1
+BGVAR: 2.5.2
 BGmisc: '0.1'
 BH: 1.78.0-0
 BHAI: 0.99.2
@@ -1308,7 +1308,7 @@ CreditMetrics: 0.0-2
 CreditRisk: 0.1.3
 Cronbach: '0.1'
 CropDetectR: 0.0.1
-CropScapeR: 1.1.3
+CropScapeR: 1.1.4
 CrossClustering: 4.0.3
 CrossScreening: 0.1.1
 CrossVA: 1.0.0
@@ -2431,7 +2431,7 @@ GMAC: '3.1'
 GMCM: '1.4'
 GMD: '0.3'
 GMDH: '1.6'
-GMDH2: '1.7'
+GMDH2: '1.8'
 GMDHreg: 0.2.2
 GMKMcharlie: 1.1.5
 GMMAT: 1.3.2
@@ -2743,7 +2743,7 @@ HIV.LifeTables: '0.1'
 HIest: '2.0'
 HK80: 0.0.2
 HKRbook: 0.1.3
-HKprocess: 0.0-2
+HKprocess: 0.1-1
 HLMdiag: 0.5.0
 HLSM: 0.9.0
 HMB: '1.1'
@@ -3260,7 +3260,7 @@ L1mstate: 1.0.1
 L1pack: 0.41-2
 L2DensityGoFtest: 0.5.0
 L2E: '2.0'
-LA: '2.1'
+LA: '2.2'
 LAGOSNE: 2.0.2
 LAM: 0.6-19
 LANDD: 1.1.0
@@ -6724,7 +6724,7 @@ SpatialExtremes: 2.1-0
 SpatialFloor: 1.1.0
 SpatialGEV: 1.0.0
 SpatialGraph: 1.0-2
-SpatialKDE: 0.7.0
+SpatialKDE: 0.8.0
 SpatialKWD: 0.4.0
 SpatialML: 0.1.5
 SpatialNP: 1.1-5
@@ -8329,7 +8329,7 @@ bats: 0.1-3
 batteryreduction: 0.1.1
 bayMDS: '1.6'
 baycn: 1.2.0
-bayefdr: 0.2.0
+bayefdr: 0.2.1
 bayes4psy: 1.2.8
 bayesAB: 1.1.3
 bayesCGH: '0.6'
@@ -8652,7 +8652,7 @@ binspp: 0.1.24
 binsreg: '0.7'
 binst: 0.2.1
 bio.infer: 1.3-6
-bio3d: 2.4-3
+bio3d: 2.4-4
 bioC.logs: '1.2'
 bioOED: 0.2.1
 bioPN: 1.2.0
@@ -9300,7 +9300,7 @@ cfda: 0.10.1
 cfdecomp: 0.4.0
 cffdrs: 1.8.20
 cffr: 0.3.0
-cfid: 0.1.2
+cfid: 0.1.4
 cfma: '1.0'
 cfmortality: 0.3.0
 cforward: 0.1.0
@@ -9470,7 +9470,7 @@ classify: '1.3'
 classmap: 1.2.0
 classyfire: 0.1-2
 classyfireR: 0.3.8
-cld2: 1.2.3
+cld2: 1.2.4
 cld3: 1.4.4
 clda: '0.1'
 cldr: 1.1.0
@@ -11622,7 +11622,7 @@ eshrink: 0.1.2
 esmisc: 0.0.3
 esmprep: 0.2.0
 esotericR: '1.0'
-espadon: 1.0.5
+espadon: 1.1.1
 esquisse: 1.1.2
 esreg: 0.6.0
 ess: 1.1.2
@@ -11829,7 +11829,7 @@ fICA: 1.1-2
 fImport: '4021.86'
 fMRIscrub: 0.11.2
 fMultivar: '4021.83'
-fNonlinear: '4021.80'
+fNonlinear: '4021.81'
 fOptions: '3042.86'
 fPortfolio: 3042.83.1
 fRLR: 1.2.1
@@ -11986,7 +11986,7 @@ fbRads: '0.2'
 fbRanks: '2.0'
 fbar: 0.6.0
 fbati: 1.0-5
-fbnet: 1.0.0
+fbnet: 1.0.1
 fbroc: 0.4.1
 fbst: '1.9'
 fc: 0.1.0
@@ -12514,7 +12514,7 @@ fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.6
 fuzzyreg: '0.6'
 fuzzywuzzyR: 1.0.5
-fwb: 0.1.0
+fwb: 0.1.1
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
 fwildclusterboot: '0.12'
@@ -13194,7 +13194,7 @@ glmmBUGS: 2.4.2
 glmmEP: 1.0-3.1
 glmmGS: '0.5'
 glmmLasso: 1.6.2
-glmmML: 1.1.3
+glmmML: 1.1.4
 glmmPen: 1.5.1.10
 glmmSeq: 0.5.5
 glmmTMB: 1.1.4
@@ -14733,7 +14733,7 @@ keyATM: 0.4.1
 keyToEnglish: 0.2.1
 keyholder: 0.1.6
 keyplayer: 1.0.3
-keypress: 1.2.0
+keypress: 1.3.0
 keyring: 1.3.0
 keyringr: 0.4.0
 keys: 0.1.1
@@ -14763,7 +14763,7 @@ kirby21.base: 1.7.3
 kirby21.fmri: 1.7.0
 kirby21.t1: 1.7.0
 kissmig: 1.0-4
-kit: 0.0.11
+kit: 0.0.12
 kitagawa: 3.1.0
 kittyR: 1.1.0
 kiwisR: 0.2.0
@@ -14939,7 +14939,7 @@ later: 1.3.0
 latex2exp: 0.9.5
 latexdiffr: 0.1.0
 latexpdf: 0.1.7
-latrend: 1.4.2
+latrend: 1.4.3
 latte: 0.2.1
 lattice: 0.20-45
 latticeDensity: 1.2.6
@@ -15836,7 +15836,7 @@ mekko: 0.1.0
 melody: 0.4.7
 melt: 1.8.0
 meltr: 1.0.1
-meltt: 0.4.2
+meltt: 0.4.3
 melviewr: 0.0.1
 mem: '2.17'
 memapp: '2.15'
@@ -16850,7 +16850,7 @@ ncdfgeom: 1.1.3
 ncdump: 0.0.3
 ncf: 1.3-2
 ncg: 0.1.1
-ncmeta: 0.3.0
+ncmeta: 0.3.5
 ncodeR: 0.2.0.1
 ncomplete: 1.0-1
 ncpen: 1.0.0
@@ -17959,7 +17959,7 @@ pecora: 0.1.1
 pedSimulate: 1.4.0
 pedalfast.data: 1.0.0
 pedantics: '1.7'
-pedbp: 1.0.0
+pedbp: 1.0.1
 pedbuildr: 0.2.1
 pedgene: '3.6'
 pedigree: 1.4.2
@@ -18080,7 +18080,7 @@ phangorn: 2.10.0
 phantom: 0.1.3
 pharmaRTF: 0.1.4
 pharmr: 0.73.1
-phase: 1.2.3
+phase: 1.2.5
 phase1PRMD: 1.0.2
 phase1RMD: 1.0.9
 phaseR: 2.2.1
@@ -18188,7 +18188,7 @@ pimeta: 1.1.3
 pinbasic: 1.2.2
 pinfsc50: 1.2.0
 pingers: 0.1.1
-pingr: 2.0.1
+pingr: 2.0.2
 pinktoe: '2.0'
 pinnacle.API: 2.3.3
 pinnacle.data: 0.1.4
@@ -18415,7 +18415,7 @@ politicaldata: 0.1.3
 pollen: 0.82.0
 pollimetry: 1.0.1
 pollstR: 2.0.1
-pollster: 0.1.3
+pollster: 0.1.4
 polmineR: 0.8.7
 polspline: 1.1.20
 polyCub: 0.8.0
@@ -18771,7 +18771,7 @@ prozor: 0.3.1
 prrd: 0.0.5
 prt: 0.1.5
 pryr: 0.1.5
-ps: 1.7.1
+ps: 1.7.2
 psData: 0.2.2
 psSubpathway: 0.1.1
 psbcGroup: '1.5'
@@ -19147,7 +19147,7 @@ rBiasCorrection: 0.3.4
 rCAT: 0.1.6
 rCBA: 0.4.3
 rCMA: 1.1.1
-rCNV: 1.0.0
+rCNV: 1.1.0
 rCRM: 0.1.1
 rCUR: '1.3'
 rCarto: '0.8'
@@ -20482,7 +20482,7 @@ rtypeform: 2.1.0
 rubias: 0.3.3
 rucm: '0.6'
 rucrdtw: 0.1.4
-rugarch: 1.4-8
+rugarch: 1.4-9
 ruimtehol: '0.3'
 ruin: 0.1.1
 ruler: 0.2.4
@@ -24095,7 +24095,7 @@ yager: 0.1.1
 yahoofinancer: 0.1.0
 yakmoR: 0.1.1
 yaml: 2.3.6
-yamlet: 0.9.6
+yamlet: 0.9.8
 yamlme: 0.1.1
 yap: 0.1.1
 yaps: 1.2.5
@@ -24116,7 +24116,7 @@ ykmeans: '1.0'
 yll: 1.0.0
 ymd: 0.0.1
 ymlthis: 0.1.7
-ympes: 0.1.1
+ympes: 0.2.0
 yonder: 0.2.0
 yorkr: 0.0.34
 yotover: 0.3.5
