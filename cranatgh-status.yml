@@ -747,7 +747,7 @@ BrainCon: 0.2.0
 BranchGLM: 1.3.2
 Branching: 0.9.4
 BrasilMF: 1.0.0
-BrazilMet: 0.1.0
+BrazilMet: 0.2.0
 BreakPoints: '1.2'
 BreedingSchemeLanguage: 0.9.6
 Brobdingnag: 1.2-9
@@ -5751,7 +5751,7 @@ Rcpp: 1.0.9
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.6.0
-RcppAnnoy: 0.0.19
+RcppAnnoy: 0.0.20
 RcppArmadillo: 0.11.4.0.1
 RcppBDT: 0.2.5
 RcppBigIntAlgos: 1.0.1
@@ -7630,7 +7630,7 @@ activityCounts: 0.1.2
 activityGCMM: 1.1.1
 activpalProcessing: '1.0'
 actogrammr: 0.2.3
-actuar: 3.3-0
+actuar: 3.3-1
 actuaryr: 1.1.1
 actxps: 0.2.0
 acumos: 0.4-4
@@ -7838,6 +7838,7 @@ amanpg: 0.3.4
 amap: 0.8-18
 amapGeocode: 0.6.0
 amapro: 0.1.1
+amazonadsR: 0.1.0
 amba: 0.3.1
 amber: 1.0.3
 ambhasGW: 0.0.2
@@ -8589,7 +8590,7 @@ bigparallelr: 0.3.2
 bigpca: '1.1'
 bigreadr: 0.2.4
 bigrf: 0.1-6
-bigrquery: 1.4.0
+bigrquery: 1.4.1
 bigsimr: 0.11.2
 bigsnpr: 1.11.4
 bigsparser: 0.6.1
@@ -8674,7 +8675,7 @@ biokNN: 0.1.0
 biolink: 0.1.7
 biom: 0.3.9
 biomartr: 1.0.2
-biometryassist: 1.1.0
+biometryassist: 1.1.1
 biomod2: 4.1-2
 biomonCore: 1.3.50
 bionetdata: '1.1'
@@ -9398,7 +9399,7 @@ chplot: '1.3'
 christmas: 1.1.1
 chromConverter: 0.2.1
 chromatographR: 0.4.4
-chromer: '0.1'
+chromer: '0.3'
 chromoMap: 4.1.1
 chromoR: '1.0'
 chromote: 0.1.1
@@ -10478,7 +10479,7 @@ dbnlearn: 0.1.0
 dbparser: 1.2.0
 dbplot: 0.3.3
 dbplyr: 2.2.1
-dbscan: 1.1-10
+dbscan: 1.1-11
 dbstats: 2.0.0
 dbx: 0.2.8
 dc3net: 1.2.0
@@ -10778,7 +10779,7 @@ dinamic: '1.0'
 dineR: 1.0.1
 dineq: 0.1.0
 dint: 2.1.4
-dipm: '1.8'
+dipm: '1.9'
 diproperm: 0.2.0
 dipsaus: 0.2.5
 diptest: 0.76-0
@@ -10805,7 +10806,7 @@ disclapmix: 1.7.4
 discnorm: 0.2.1
 disco: '0.6'
 discord: 1.1.0
-discourseGT: 1.1.7
+discourseGT: 1.1.8
 discoveR: 2.2.6
 discoverableresearch: 0.0.1
 discreteMTP: 0.1-2
@@ -11213,7 +11214,7 @@ easyml: 0.1.0
 easynls: '5.0'
 easypackages: 0.1.0
 easypower: 1.0.1
-easyr: 0.5-9
+easyr: 0.5-10
 easyreg: '4.0'
 easystab: '1.0'
 easystats: 0.5.2
@@ -11436,7 +11437,7 @@ emil: 2.2.8
 emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 1.8.1-1
+emmeans: 1.8.2
 emoa: 0.5-0.1
 emoji: 0.2.0
 emojifont: 0.5.5
@@ -11508,7 +11509,7 @@ envoutliers: 1.1.0
 envstat: 0.0.3
 eoR: 0.4.0
 eoffice: 0.2.2
-epade: 0.3.8
+epade: 0.5.1
 epandist: 1.1.1
 epanet2toolkit: 0.5.1
 epanetReader: 0.7.3
@@ -11941,6 +11942,7 @@ fastText: 1.0.3
 fastTextR: 2.0.0
 fastTopics: 0.6-142
 fastVAR: '1.2'
+fastWavelets: 1.0.0
 fasta: 0.1.0
 fastadi: 0.1.1
 fastai: 2.2.0
@@ -12534,7 +12536,7 @@ gLRTH: 0.2.0
 gMCP: 0.8-15
 gMCPLite: 0.1.2
 gMOIP: 1.4.7
-gMWT: '1.1'
+gMWT: '1.2'
 gPCA: '1.0'
 gPdtest: '0.4'
 gProfileR: 0.7.0
@@ -12565,7 +12567,7 @@ gafit: 0.5.1
 gaiah: 0.0.4
 gainML: 0.1.0
 gains: '1.2'
-galah: 1.4.0
+galah: 1.5.0
 galgo: '1.4'
 galigor: 0.2.5
 galts: 1.3.1
@@ -12763,7 +12765,7 @@ genesysr: 1.0.0
 geneticae: 0.4.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
-genieBPC: 1.0.0
+genieBPC: 1.0.1
 genieclust: 1.1.0
 genio: 1.1.1
 genius: 2.2.3
@@ -12834,7 +12836,7 @@ geomapdata: 2.0-0
 geomaroc: 0.1.1
 geomedb: 2.0.1
 geomerge: 0.3.2
-geometa: '0.7'
+geometa: 0.7-1
 geometr: 0.2.10
 geometries: 0.2.0
 geometry: 0.4.6.1
@@ -12995,7 +12997,7 @@ ggguitar: 0.1.1
 ggh4x: 0.2.2
 gghalfnorm: 1.1.2
 gghalves: 0.1.3
-gghdr: 0.1.0
+gghdr: 0.2.0
 ggheatmap: '2.2'
 gghighlight: 0.4.0
 gghilbertstrings: 0.3.3
@@ -13304,6 +13306,7 @@ googleCloudRunner: 0.5.0
 googleCloudStorageR: 0.7.0
 googleCloudVisionR: 0.2.0
 googleComputeEngineR: 0.3.0
+googleErrorReportingR: 0.0.4
 googleLanguageR: 0.3.0
 googlePolylines: 0.8.2
 googlePrintr: 0.0.1
@@ -14294,7 +14297,7 @@ inldata: 1.0.3
 inline: 0.3.19
 inlinedocs: 2019.12.5
 inlmisc: 0.5.5
-inlpubs: 1.0.2
+inlpubs: 1.0.4
 innsight: 0.1.1
 ino: 0.2.0
 inops: 0.0.1
@@ -14734,7 +14737,7 @@ keyToEnglish: 0.2.1
 keyholder: 0.1.6
 keyplayer: 1.0.3
 keypress: 1.3.0
-keyring: 1.3.0
+keyring: 1.3.1
 keyringr: 0.4.0
 keys: 0.1.1
 kfa: 0.2.1
@@ -15468,7 +15471,7 @@ mQTL: '1.0'
 mRMRe: 2.1.2
 mRchmadness: 1.0.0
 mRm: 1.1.6
-mRpostman: 1.0.0
+mRpostman: 1.1.0
 mSTEM: 1.0-1
 mSigTools: 1.0.5
 mSimCC: 0.0.2
@@ -16208,7 +16211,7 @@ mlergm: '0.8'
 mleur: 1.0-6
 mlf: 1.2.1
 mlfit: 0.5.3
-mlflow: 1.29.0
+mlflow: 1.30.0
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
@@ -16573,6 +16576,7 @@ mt: 2.0-1.19
 mtb: 0.1.8
 mtconnectR: 1.2.1
 mtcreator: '0.1'
+mtdesign: 0.1.0
 mthapower: 0.1.1
 mtk: '1.0'
 mtsc: 0.1.2
@@ -17576,7 +17580,7 @@ osd: '0.1'
 osfr: 0.2.9
 oshka: 0.1.2
 osi: 0.1.0
-oskeyring: 0.1.4
+oskeyring: 0.1.5
 osmar: 1.1-7
 osmdata: 0.1.10
 osmextract: 0.4.1
@@ -17776,7 +17780,7 @@ parfm: 2.7.6
 parfossil: 0.2.0
 parglm: 0.1.7
 parlitools: 0.4.1
-parma: '1.6'
+parma: '1.7'
 parmigene: 1.1.0
 parmsurvfit: 0.1.0
 paropt: 0.2.1
@@ -18452,7 +18456,7 @@ pomdpSolve: 1.0.1
 pomodoro: 3.8.0
 pomp: '4.3'
 pompom: 0.2.1
-pompp: 0.1.0
+pompp: 0.1.2
 pooh: 0.3-2
 pool: 0.1.6
 poolVIM: 1.0.0
@@ -19759,7 +19763,7 @@ renv: 0.16.0
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
-repeated: 1.1.5
+repeated: 1.1.6
 repec: 0.1.0
 repello: 1.0.1
 repfdr: 1.2.3
@@ -20470,7 +20474,7 @@ rtrie: 0.1.1
 rtrim: 2.1.1
 rtry: 1.0.0
 rts: 1.1-8
-rts2: '0.3'
+rts2: '0.4'
 rtsVis: 0.0.3
 rtsdata: 0.1.3
 rtson: '1.3'
@@ -20951,7 +20955,7 @@ seminr: 2.3.2
 semisupKernelPCA: 0.1.5
 semmcci: 1.0.3
 semmcmc: 0.0.6
-semnar: 0.7.1
+semnar: 0.8.0
 semnova: 0.1-6
 semptools: 0.2.9.6
 semsfa: '1.1'
@@ -21049,7 +21053,7 @@ sfdep: 0.2.0
 sfheaders: 0.4.0
 sfhotspot: 0.7.0
 sfinx: 1.7.99
-sfnetworks: 0.6.0
+sfnetworks: 0.6.1
 sfo: 0.1.1
 sfsmisc: 1.1-13
 sft: 2.2-1
@@ -21550,8 +21554,8 @@ soc.ca: 0.8.0
 socceR: 0.1.1
 social: '1.0'
 socialh: 0.1.1
-socialmixr: 0.1.8
-socialranking: 0.1.1
+socialmixr: 0.2.0
+socialranking: 0.1.2
 socialrisk: 0.5.0
 sociome: 2.1.0
 socviz: '1.2'
@@ -22037,7 +22041,7 @@ starsExtra: 0.2.7
 starsTileServer: 0.1.1
 starschemar: 1.2.0
 startR: 2.2.0
-starter: 0.1.10
+starter: 0.1.11
 starticles: 0.1.0
 startup: 0.19.0
 startupmsg: 0.9.6
@@ -22849,7 +22853,7 @@ tidytreatment: 0.2.2
 tidytree: 0.4.1
 tidytuesdayR: 1.0.2
 tidyverse: 1.3.2
-tidyvpc: 1.3.0
+tidyvpc: 1.4.0
 tidywikidatar: 0.5.4
 tidyxl: 1.0.8
 tiff: 0.1-11
@@ -23152,7 +23156,7 @@ trimcluster: 0.1-5
 trimetStops: 0.1.0
 trimmer: 0.8.1
 trimr: 1.1.1
-trinROC: 0.5.1
+trinROC: '0.6'
 trio: 2.1.1
 trioGxE: 0.1-1
 trip: 1.8.5
@@ -23294,6 +23298,7 @@ twiddler: 0.5-0
 twilio: 0.1.0
 twinning: '1.0'
 twitteR: 1.1.9
+twitteradsR: 0.1.0
 twitterwidget: 0.1.1
 twl: '1.0'
 twn: 0.2.2
@@ -23604,7 +23609,7 @@ vetr: 0.2.14
 vfcp: 1.4.0
 vfinputs: 0.1.0
 vfprogression: 0.7.1
-vglmer: 1.0.2
+vglmer: 1.0.3
 vhcub: 1.0.0
 vhica: 0.2.7
 viafr: 0.3.0
