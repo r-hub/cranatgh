@@ -918,7 +918,7 @@ CNprep: '2.2'
 CNull: '1.0'
 COBRA: '0.99'
 COCONUT: 1.0.2
-COINr: 1.0.0
+COINr: 1.1.0
 COLP: 1.0.0
 COMBAT: 0.0.4
 COMBIA: 1.0.6
@@ -3542,7 +3542,7 @@ MAVTgsa: '1.3'
 MAc: '1.1'
 MAclinical: 1.0-5
 MAd: 0.8-3
-MAnorm2: 1.2.1
+MAnorm2: 1.2.2
 MBA: 0.0-9
 MBAnalysis: 0.1.0
 MBC: 0.10-5
@@ -5159,7 +5159,7 @@ RCCPCA: 0.1.0
 RCDT: 1.2.1
 RCEIM: '0.3'
 RCGLS: 1.0.3
-RCLabels: 0.1.1
+RCLabels: 0.1.2
 RCMIP5: 1.2.0
 RCMinification: '1.1'
 RCPA3: 1.1.1
@@ -6278,7 +6278,7 @@ SIRItoGTFS: 0.2.4
 SIRmcmc: '1.1'
 SIRthresholded: 1.0.0
 SIS: 0.8-8
-SISIR: 0.1-3
+SISIR: 0.2.0
 SITH: 1.1.0
 SIfEK: 0.1.0
 SK: '1.1'
@@ -7312,7 +7312,7 @@ VGAM: 1.1-7
 VGAMdata: 1.1-6
 VGAMextra: 0.0-5
 VHDClassification: '0.3'
-VIC5: 0.2.4
+VIC5: 0.2.5
 VICmodel: 0.1.2
 VIF: '1.0'
 VIFCP: '1.2'
@@ -7488,7 +7488,7 @@ XKCDdata: 0.1.0
 XLConnect: 1.0.6
 XLConnectJars: 0.2-9
 XLS: 0.1.0
-XML: 3.99-0.11
+XML: 3.99-0.12
 XML2R: 0.0.6
 XMLSchema: 0.7-0
 XMRF: '1.0'
@@ -7835,7 +7835,7 @@ altfuelr: 0.1.0
 altmeta: '4.1'
 amanida: 0.2.3
 amanpg: 0.3.4
-amap: 0.8-18
+amap: 0.8-19
 amapGeocode: 0.6.0
 amapro: 0.1.1
 amazonadsR: 0.1.0
@@ -8014,7 +8014,7 @@ ari: 0.3.5
 ariExtra: 0.3.1
 aricode: 1.0.1
 arkdb: 0.0.16
-arkhe: 0.5.0
+arkhe: 1.0.0
 arm: 1.13-1
 armada: 0.1.0
 armspp: 0.0.2
@@ -8556,7 +8556,7 @@ bifactorial: '1.4'
 bife: 0.7.2
 bifurcatingr: 1.0.0
 bigD: 0.2.0
-bigDM: 0.4.2
+bigDM: 0.5.0
 bigFastlm: 0.0.2
 bigGP: 0.1-7
 bigIntegerAlgos: 0.1.2
@@ -9620,7 +9620,7 @@ cmpsR: 0.1.2
 cmrutils: 1.3.1
 cms: 0.1.0
 cmsaf: 3.4.4
-cmsafops: 1.2.5
+cmsafops: 1.2.6
 cmsafvis: 1.1.12
 cmstatr: 0.9.1
 cmtest: 0.1-2
@@ -9733,7 +9733,7 @@ colorscience: 1.0.8
 colorspace: 2.0-3
 colortools: 0.1.5
 colourlovers: 0.3.6
-colourpicker: 1.1.1
+colourpicker: 1.2.0
 colourvalues: 0.3.7
 colourvision: 2.0.4
 colr: 0.1.900
@@ -10008,7 +10008,7 @@ covRobust: 1.1-3
 covTest: '1.0'
 covTestR: 0.1.4
 covafillr: 0.4.4
-covatest: 1.2.1
+covatest: 1.2.2
 covdepGE: 1.0.1
 coveffectsplot: 1.0.2
 covequal: 0.1.0
@@ -11741,7 +11741,7 @@ experDesign: 0.1.0
 experiment: 1.2.1
 experimentr: 0.1.0
 expert: 1.0-0
-expint: 0.1-7
+expint: 0.1-8
 expirest: 0.1.3
 explor: 0.3.9
 exploratory: 0.3.13
@@ -13255,7 +13255,7 @@ gmgm: 1.1.2
 gmm: '1.7'
 gmnl: 1.1-3.2
 gmodels: 2.18.1.1
-gmp: 0.6-6
+gmp: 0.6-7
 gmpoly: 1.1.0
 gms: 0.4.0
 gmt: 2.0.3
@@ -16052,7 +16052,7 @@ midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
 mifa: 0.2.0
-migest: 2.0.2
+migest: 2.0.3
 migraph: 0.12.1
 migrate: 0.4.0
 migration.indices: 0.3.1
@@ -16425,7 +16425,7 @@ morphemepiece: 1.2.3
 morphemepiece.data: 1.2.0
 morpheus: 1.0-1
 morphomap: '1.3'
-morse: 3.3.1
+morse: 3.3.2
 mortAAR: 1.1.2
 mortyr: 0.0.2
 mosaic: 1.8.4.2
@@ -18239,7 +18239,7 @@ pkgdown: 2.0.6
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
 pkglite: 0.2.1
-pkgload: 1.3.0
+pkgload: 1.3.1
 pkgmaker: 0.32.2
 pkgndep: 1.2.0
 pkgnet: 0.4.2
@@ -19797,7 +19797,7 @@ represtools: 0.1.3
 reprex: 2.0.2
 reproducer: 0.4.2
 reproducible: 1.2.10
-reproj: 0.4.2
+reproj: 0.4.3
 repurrrsive: 1.0.0
 reqres: 0.2.5
 request: 0.1.0
@@ -20707,7 +20707,7 @@ sbo: 0.5.0
 sboost: 0.1.2
 sbpiper: 1.9.0
 sbrl: '1.2'
-sbtools: 1.1.19
+sbtools: 1.1.20
 sbw: 1.1.5
 scAnnotate: 0.0.4
 scBio: 0.1.6
@@ -20746,7 +20746,7 @@ scalpel: 1.0.3
 scalreg: 1.0.1
 scam: 1.2-13
 scan: '0.55'
-scanstatistics: 1.0.1
+scanstatistics: 1.1.0
 scapGNN: 0.1.1
 scape: 2.3.3
 scapeMCMC: 1.1-3
@@ -21286,7 +21286,7 @@ simTargetCov: 1.0.1
 simTool: 1.1.7
 simba: 0.3-5
 simboot: 0.2-6
-simcausal: 0.5.5
+simcausal: 0.5.6
 simcdm: 0.1.1
 simco: '1.0'
 simcross: 0.3-6
@@ -21914,7 +21914,7 @@ sprm: '1.2'
 sprsmdl: 0.1-0
 sprtt: 0.1.0
 spruce: 0.99.1
-sps: 0.1.3
+sps: 0.2.0
 spsComps: 0.3.2.1
 spsUtil: 0.2.2
 spsann: 2.2.0
@@ -23923,7 +23923,7 @@ wmlf: 0.1.2
 wmm: 1.1.1
 wmtsa: 2.0-3
 wmwpow: 0.1.3
-wnl: 0.6.4
+wnl: 0.7.0
 wnominate: '1.3'
 wodds: 0.1.0
 woe: '0.2'
