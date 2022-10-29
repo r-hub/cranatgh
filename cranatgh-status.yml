@@ -2667,6 +2667,7 @@ GreedyExperimentalDesignJARs: '1.0'
 GreedySBTM: '1.0'
 Greg: 2.0.0
 GreyModel: 0.1.0
+Greymodels: '1.0'
 Grid2Polygons: 0.2.1
 GridOnClusters: 0.1.0
 GridR: 0.9.1
@@ -3006,7 +3007,7 @@ IRTpp: 0.2.6
 IRdisplay: '1.1'
 IRexamples: 0.0.2
 IRkernel: '1.3'
-IRon: 0.1.2
+IRon: 0.1.3
 ISA: 1.0-32
 ISAT: 1.0.5
 ISBF: '0.2'
@@ -3926,7 +3927,7 @@ MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
 MediaNews: 0.2.1
 Mediana: 1.0.8
-MedianaDesigner: '0.8'
+MedianaDesigner: '0.9'
 Mega2R: 1.0.9
 Meiosis: 1.0.2
 MendelianRandomization: 0.6.0
@@ -4005,6 +4006,7 @@ MinEDfind: 0.1.3
 MindOnStats: '0.11'
 Miney: '0.1'
 Minirand: 0.1.3
+MinkowskiSum: 1.0.0
 MisRepARMA: 0.0.2
 MiscPsycho: '1.6'
 Miso: 0.2.1
@@ -4447,7 +4449,7 @@ OpVaR: '1.2'
 OpasnetUtils: '1.3'
 OpenABMCovid19: '1.0'
 OpenCL: 0.2-2
-OpenImageR: 1.2.6
+OpenImageR: 1.2.7
 OpenLand: 1.0.2
 OpenML: '1.12'
 OpenMPController: 0.2-5
@@ -5654,7 +5656,7 @@ RatingScaleReduction: '1.4'
 Ratings: 0.1-2
 RationalExp: 0.2.2
 Ravages: 1.1.0
-RavenR: 2.1.9
+RavenR: 2.2.0
 RawHummus: 0.2.2
 Rbeast: 0.9.5
 Rbent: 0.1.0
@@ -6739,6 +6741,7 @@ SpatialVx: '1.0'
 SpatialfdaR: 1.0.0
 SpatioTemporal: 1.1.9
 Spbsampling: 1.3.5
+SpeTestNP: 1.1.0
 SpecDetec: 1.0.0
 SpecHelpers: 0.2.7
 SpeciesMix: '0.3'
@@ -7457,7 +7460,7 @@ WhiteStripe: 2.4.2
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
-WienR: 0.3-6
+WienR: 0.3-7
 WikiSocio: 0.7.0
 WikidataQueryServiceR: 1.0.0
 WikidataR: 2.3.3
@@ -8233,6 +8236,7 @@ baRulho: 1.0.6
 babar: '1.0'
 babel: 0.3-0
 babelgene: '22.9'
+babelmixr2: 0.1.0
 babelwhale: 1.1.0
 babette: 2.3.2
 babsim.hospital: 11.8.8
@@ -8277,6 +8281,7 @@ bams: '1.6'
 banR: 0.2.2
 bandit: 0.5.1
 bang: 1.0.1
+bangladesh: 1.0.0
 bannerCommenter: 1.0.0
 banter: 0.9.5
 banxicoR: 0.9.0
@@ -8350,7 +8355,7 @@ bayesPO: 0.3.1
 bayesPop: 9.0-1
 bayesQR: '2.3'
 bayesSurv: '3.5'
-bayesTFR: 7.1-1
+bayesTFR: 7.2-0
 bayesZIB: 0.0.4
 bayesammi: 0.1.0
 bayesanova: '1.5'
@@ -9047,6 +9052,7 @@ cabinets: 0.6.0
 cablecuttr: 0.1.1
 cabootcrs: 2.1.0
 cacIRT: '1.4'
+cacc: 0.1.0
 cache: 0.0.3
 cacheSweave: '0.6'
 cachem: 1.0.6
@@ -15948,6 +15954,7 @@ meteoland: 1.0.3
 meteor: 0.3-4
 meteorits: 0.1.1
 meteospain: 0.0.4
+metevalue: 0.1.10
 methcon5: 0.1.0
 metools: 1.0.0
 metricTester: 1.3.6
@@ -16228,7 +16235,7 @@ mlmtools: 1.0.2
 mlmts: 1.0.1
 mlogit: 1.1-1
 mlogitBMA: 0.1-7
-mlpack: 3.4.2.1
+mlpack: 4.0.0
 mlpwr: 1.0.0
 mlquantify: 0.2.0
 mlr: 2.19.1
@@ -16500,7 +16507,7 @@ mregions: 0.1.8
 mrf: 0.1.6
 mrf2d: '1.0'
 mrfDepth: 1.0.13
-mrfse: '0.2'
+mrfse: '0.4'
 mrgsim.parallel: 0.2.1
 mrgsim.sa: 0.1.0
 mrgsolve: 1.0.6
@@ -19552,7 +19559,7 @@ rdomains: 0.2.1
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '2.2'
-rdrobust: 2.0.3
+rdrobust: 2.1.0
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
 rdtLite: '1.4'
@@ -20169,6 +20176,7 @@ robustSingleCell: 0.1.1
 robustX: 1.2-5
 robustarima: 0.2.6
 robustbase: 0.95-0
+robustbetareg: 0.3.0
 robustcov: '0.1'
 robustfa: '1.0'
 robustgam: 0.1.7
@@ -21221,7 +21229,7 @@ shp2graph: 0-5
 shrink: 1.2.2
 shrinkDSM: 0.1.0
 shrinkTVP: 2.0.6
-shroomDK: 0.1.0
+shroomDK: 0.1.1
 shuffle: 1.0.1
 shuffleCI: 0.1.0
 shutterplot: 0.1.0
@@ -21523,6 +21531,7 @@ sna: '2.7'
 snahelper: 1.4.1
 snakecase: 0.11.0
 snap: 1.1.0
+snapchatadsR: 0.1.0
 snappier: 0.2.0
 snapshot: 0.1.2
 snem: 0.1.1
@@ -22613,7 +22622,7 @@ tdist: 0.1-1
 tdm: 3.0.3
 tdr: '0.13'
 tdsc: 1.0.3
-tdthap: 1.1-11
+tdthap: '1.2'
 tea: '1.1'
 teachingApps: 1.0.8
 tealeaves: 1.0.6
