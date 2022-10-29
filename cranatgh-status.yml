@@ -2060,6 +2060,7 @@ FAdist: '2.4'
 FAiR: 0.4-8
 FAmle: 1.3.7
 FAwR: 1.1.2
+FBCRM: '1.1'
 FBFsearch: '1.2'
 FBN: '1.5'
 FCGR: 1.0-0
@@ -2135,7 +2136,7 @@ FRACTION: '1.0'
 FRAPO: 0.4-1
 FRB: '1.8'
 FRBData: '0.3'
-FRCC: '1.0'
+FRCC: 1.1.0
 FREEtree: 0.1.0
 FREG: '1.1'
 FREGAT: 1.1.0
@@ -3528,7 +3529,7 @@ MAR1: '1.0'
 MARSANNhybrid: 0.1.0
 MARSS: 3.11.4
 MARSSVRhybrid: 0.1.0
-MARVEL: 1.2.1
+MARVEL: 1.3.0
 MARX: '0.2'
 MASS: 7.3-58.1
 MASSExtra: 1.1.2
@@ -3745,6 +3746,7 @@ MODISSnow: 0.1.0.0
 MODISTools: 1.1.2
 MODIStsp: 2.0.9
 MOEADr: 1.1.1
+MOFAT: '1.0'
 MOJOV: 1.0.1
 MOLHD: '0.2'
 MOQA: 2.0.0
@@ -3935,6 +3937,7 @@ MenuCollection: '1.2'
 Mercator: 1.1.2
 MergeGUI: 0.2-1
 MeshesOperations: 0.1.0
+MeshesTools: 1.0.0
 MetABEL: 0.2-0
 MetAlyzer: 0.1.0
 MetBrewer: 0.2.0
@@ -4435,6 +4438,7 @@ OmicsPLS: 2.0.2
 Omisc: 0.1.5
 OmnibusFisher: '1.0'
 OnAge: 1.0.1
+OnboardClient: 1.0.0
 OncoBayes2: 0.8-7
 Oncotree: 0.3.4
 OneArm2stage: 1.1.4
@@ -5419,6 +5423,7 @@ ROI.plugin.cplex: 0.3-0
 ROI.plugin.deoptim: 1.0-0
 ROI.plugin.ecos: 1.0-0
 ROI.plugin.glpk: 1.0-0
+ROI.plugin.highs: 1.0-2
 ROI.plugin.ipop: 1.0-0
 ROI.plugin.lpsolve: 1.0-1
 ROI.plugin.msbinlp: 1.0-0
@@ -6666,7 +6671,7 @@ SocialNetworks: '1.1'
 SocialPosition: 1.0.1
 SocrataR: '0.5'
 Sofi: 0.16.4.8
-SoftBart: 1.0.0
+SoftBart: 1.0.1
 SoftClustering: 1.1902.2
 SoftRandomForest: 0.1.0
 SoilHyP: 0.1.6
@@ -8634,6 +8639,7 @@ bindrcpp: 0.2.2
 binequality: 1.0.4
 binford: 0.1.0
 binfunest: 0.1.0
+bingadsR: 0.1.0
 bingat: '1.3'
 binhf: 1.0-3
 binman: 0.1.3
@@ -8908,7 +8914,7 @@ brea: 0.2.0
 bread: 0.2.3
 breakDown: 0.2.1
 breakage: 1.1-1
-breakaway: 4.7.9
+breakaway: 4.8.2
 breakfast: '2.3'
 breakpoint: '1.2'
 breathtestcore: 0.8.4
@@ -9488,7 +9494,7 @@ cleanNLP: 3.0.4
 cleanTS: 0.1.1
 cleancall: 0.1.3
 cleandata: 0.3.0
-cleaner: 1.5.3
+cleaner: 1.5.4
 cleanerR: 0.1.1
 cleangeo: 0.2-4
 cleanr: 1.3.5
@@ -10995,7 +11001,7 @@ downscaledl: '1.0'
 downsize: 0.2.2
 dowser: 1.1.0
 dpa: 1.0-3
-dparser: 1.3.1-7
+dparser: 1.3.1-8
 dpcR: '0.5'
 dpcc: 1.0.0
 dpcid: '1.0'
@@ -12174,6 +12180,7 @@ fitcoach: '1.0'
 fitdc: 0.0.1
 fitdistrplus: 1.1-8
 fitmix: 0.1.0
+fitode: 0.1.1
 fitplc: 1.2-3
 fitscape: 0.1.0
 fitteR: 0.2.0
@@ -12910,7 +12917,7 @@ getpublist: 0.1.0
 gets: '0.37'
 getspres: 0.2.0
 gettingtothebottom: '3.2'
-gettz: 0.0.4
+gettz: 0.0.5
 getwiki: 0.9.0
 gexp: 1.0-1
 geysertimes: 0.1.9
@@ -17912,6 +17919,7 @@ pcadapt: 4.3.3
 pcal: 1.0.0
 pcalg: 2.7-7
 pcalls: '1.0'
+pcaone: 1.0.0
 pcatsAPIclientR: 1.0.0
 pccc: 1.0.5
 pcdpca: '0.4'
@@ -18500,6 +18508,7 @@ populR: 0.1.6
 population: '0.3'
 populationPDXdesign: 1.0.3
 porridge: 0.3.1
+port4me: 0.5.0
 portalr: 0.3.10
 portes: '5.0'
 portfolio: 0.5-2
@@ -21642,7 +21651,7 @@ spBayesSurv: 1.1.6
 spCP: '1.3'
 spData: 2.2.0
 spDates: '1.1'
-spFSR: 1.0.0
+spFSR: 2.0.1
 spFW: 0.1.0
 spGARCH: 0.2.2
 spGoogle: 0.1-2
@@ -22779,7 +22788,7 @@ thunder: 0.3.0
 thurstonianIRT: 0.12.1
 tibble: 3.1.8
 tibbleOne: 0.1.1
-tibbletime: 0.1.6
+tibbletime: 0.1.7
 tibblify: 0.2.0
 tibbrConnector: 1.5.1
 tictactoe: 0.2.2
