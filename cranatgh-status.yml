@@ -2983,6 +2983,7 @@ IPCWK: '1.0'
 IPDFileCheck: 0.7.5
 IPDfromKM: 0.1.10
 IPEC: 1.0.3
+IPEDS: 0.1.0
 IPEDSuploadables: 2.5.5
 IPLGP: 2.0.3
 IPMRF: '1.2'
@@ -3100,7 +3101,7 @@ InterfaceqPCR: '1.0'
 Interpol: 1.3.1
 Interpol.T: '2.1'
 InterpretMSSpectrum: '1.2'
-IntervalQuestionStat: 0.1.0
+IntervalQuestionStat: 0.2.0
 IntervalSurgeon: '1.1'
 IntrinioStockAPI: 0.0.1
 InvStablePrior: 0.1.0
@@ -5617,7 +5618,7 @@ RaMS: 1.0.0
 RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 3.0.0
-RaceID: 0.2.6
+RaceID: 0.2.7
 RadData: 1.0.1
 RadOnc: 1.1.8
 RadTran: '1.0'
@@ -5817,7 +5818,7 @@ RcppThread: 2.1.3
 RcppUUID: 1.1.1
 RcppXPtrUtils: 0.1.2
 RcppXsimd: 7.1.6
-RcppXts: 0.0.5
+RcppXts: 0.0.6
 RcppZiggurat: 0.1.6
 Rcrawler: 0.1.9-1
 Rcriticor: '2.0'
@@ -6692,7 +6693,7 @@ SortableHTMLTables: 0.1-3
 SortedEffects: 1.7.0
 SoundShape: 1.2.1
 SoundexBR: '1.2'
-SoupX: 1.6.1
+SoupX: 1.6.2
 SourceSet: 0.1.3
 SoyNAM: 1.6.2
 SoyURT: 1.0.0
@@ -9921,6 +9922,7 @@ convey: 0.2.5
 convoSPAT: 1.2.7
 cooccur: '1.3'
 cooccurNet: 0.1.6
+cookies: 0.1.1
 cooltools: '2.0'
 coop: 0.6-3
 coopProductGame: '2.0'
@@ -10126,7 +10128,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.0
 crevents: 0.1.0
-crfsuite: '0.4'
+crfsuite: 0.4.1
 cricketdata: 0.2.1
 cricketr: 0.0.26
 crimCV: 0.9.6
@@ -13030,7 +13032,7 @@ ggiraphExtra: 0.3.0
 ggisotonic: 0.1.2
 ggjoy: 0.4.1
 gglasso: '1.5'
-gglgbtq: 0.1.0
+gglgbtq: 0.1.1
 gglm: 0.1.0
 gglogo: 0.1.5
 ggloop: 0.1.0
@@ -14581,7 +14583,7 @@ jacobi: 2.0.1
 jacpop: '0.6'
 jaggR: 0.1.1
 jagsUI: 1.5.2
-jagshelper: 0.1.8
+jagshelper: 0.1.9
 jagstargets: 1.0.4
 jalcal: 0.1.0
 james.analysis: 1.0.1
@@ -14613,6 +14615,7 @@ jjAnno: 0.0.3
 jjb: 0.1.1
 jlctree: 0.0.2
 jlsm: 0.1.0
+jmatrix: '1.0'
 jmcm: 0.2.4
 jmdem: 1.0.1
 jmdl: 0.3.0
@@ -16339,7 +16342,7 @@ moc.gapbk: 0.1.0
 mockcpp: 0.0.1
 mockery: 0.4.3
 mockr: 0.2.0
-mockthat: 0.2.6
+mockthat: 0.2.8
 mod: 0.1.3
 mod09nrt: '0.14'
 mod2rm: 0.2.1
@@ -16642,7 +16645,7 @@ multiUS: 1.1.0
 multiband: 0.1.0
 multibiplotGUI: '1.1'
 multiblock: 0.8.3
-multibridge: 1.1.0
+multibridge: 1.2.0
 multic: 0.4.3
 multicastR: 2.0.0
 multichull: 1.0.0
@@ -19899,6 +19902,7 @@ rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.3
 rfacebookstat: 2.8.0
 rfacts: 0.2.1
+rfars: 0.2.0
 rfbCNPJ: 0.1.1
 rfieldclimate: 0.1.0
 rfigshare: 0.3.8
@@ -20150,7 +20154,7 @@ rngSetSeed: 0.3-2
 rngWELL: 0.10-7
 rngtools: 1.5.2
 rngwell19937: 0.6-0
-rnmamod: 0.2.0
+rnmamod: 0.3.0
 rnn: 1.8.0
 rnoaa: 1.3.8
 rnpn: 1.2.5
@@ -20230,7 +20234,7 @@ rodd: 0.2-1
 rodeo: 0.7.7
 rodham: 0.1.1
 rofanova: 1.0.0
-roger: 1.2-0
+roger: 1.3-0
 roistats: 0.1.1
 rolasized: '1.0'
 roll: 1.1.6
@@ -22669,6 +22673,7 @@ tensor: '1.5'
 tensorA: 0.36.2
 tensorBF: 1.0.2
 tensorBSS: 0.3.8
+tensorFun: 0.1.1
 tensorTS: 1.0.0
 tensorflow: 2.9.0
 tensorordinal: 0.2.0
@@ -24153,7 +24158,7 @@ ykmeans: '1.0'
 yll: 1.0.0
 ymd: 0.0.1
 ymlthis: 0.1.7
-ympes: 0.2.0
+ympes: 0.2.1
 yonder: 0.2.0
 yorkr: 0.0.34
 yotover: 0.3.5
