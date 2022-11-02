@@ -851,7 +851,7 @@ CGE: 0.3.3
 CGGP: 1.0.3
 CGIwithR: 0.73-0
 CGManalyzer: '1.3'
-CGNM: 0.4.0
+CGNM: 0.5.1
 CGP: 2.1-1
 CGPfunctions: 0.6.3
 CGene: '1.2'
@@ -950,7 +950,7 @@ COveR: 1.0.3
 CP: '1.6'
 CPAT: 0.1.0
 CPBayes: 1.1.0
-CPC: 2.2.1
+CPC: 2.3.0
 CPE: 1.5.2
 CPGLIB: 1.1.0
 CPGchron: '1.1'
@@ -1409,6 +1409,7 @@ DECIDE: '1.3'
 DEEPR: '0.1'
 DEET: 1.0.6
 DEEVD: 1.2.3
+DEGRE: 0.1.0
 DELTD: 2.6.8
 DEM: 0.0.0.2
 DEMEtics: 0.8-7
@@ -2924,10 +2925,10 @@ IDF: 2.1.2
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
-IDSL.IPA: '2.4'
+IDSL.IPA: '2.5'
 IDSL.MXP: '1.6'
 IDSL.SUFA: '1.1'
-IDSL.UFA: '1.6'
+IDSL.UFA: '1.7'
 IDSL.UFAx: '1.6'
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
@@ -3369,7 +3370,7 @@ LRQMM: 1.2.3
 LRTH: '1.3'
 LRTesteR: 1.0.1
 LRcontrast: '1.0'
-LS2W: 1.3.5
+LS2W: 1.3.6
 LS2Wstat: 2.1-4
 LSAfun: 0.6.3
 LSAmitR: 1.0-3
@@ -3859,7 +3860,7 @@ MaXact: '0.2'
 MachineLearning: 0.1.4
 MachineShop: 3.6.0
 Maeswrap: '1.7'
-MagmaClustR: 1.0.1
+MagmaClustR: 1.1.0
 MagneticMap: '1.0'
 MainExistingDatasets: 1.0.1
 MajKMeans: 0.1.0
@@ -3932,7 +3933,7 @@ MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
 MediaNews: 0.2.1
 Mediana: 1.0.8
-MedianaDesigner: '0.9'
+MedianaDesigner: '0.10'
 Mega2R: 1.0.9
 Meiosis: 1.0.2
 MendelianRandomization: 0.6.0
@@ -4719,6 +4720,7 @@ PSSMCOOL: 0.2.4
 PST: '0.94'
 PSTR: 1.2.4
 PSW: 1.1-3
+PScr: '1.0'
 PSweight: 1.1.8
 PTAk: 1.4-0
 PTE: '1.7'
@@ -5901,6 +5903,7 @@ RepoGenerator: 0.0.1
 ReporteRs: 0.8.9
 ReporteRsjars: 0.0.4
 Require: 0.1.4
+ResPBIBD: 0.1.0
 ResearchAssociate: 1.0.1
 ResearchMethods: '1.4'
 ResidentialEnergyConsumption: 1.1.0
@@ -7331,6 +7334,7 @@ VIFCP: '1.2'
 VIGoR: 1.1.1
 VIM: 6.2.2
 VIMGUI: 0.9.0
+VIMean: 0.1.0
 VIRF: 0.1.0
 VLF: '1.1'
 VLMC: 1.4-3-1
@@ -7678,7 +7682,7 @@ additive: 0.0.5
 additiveDEA: '1.1'
 additivityTests: 1.1-4.1
 addreg: '3.0'
-ade4: 1.7-19
+ade4: 1.7-20
 ade4TkGUI: 0.3-1
 adea: 1.3.1
 adeba: 1.1.2
@@ -9762,6 +9766,7 @@ comato: '1.1'
 combinIT: 2.0.0
 combinat: 0.0-8
 combinationpvalues: 0.1.4
+combinatorics: 0.1.0
 combinedevents: 0.1.1
 combiroc: 0.2.3
 combiter: 1.0.3
@@ -10004,7 +10009,7 @@ cosmosR: '1.0'
 cosso: 2.1-1
 costat: '2.4'
 costsensitive: 0.1.2.10
-cotram: 0.4-1
+cotram: 0.4-2
 cotrend: 1.0.2
 couchDB: 1.4.1
 countHMM: 0.1.0
@@ -11275,7 +11280,7 @@ ecm: 6.3.0
 ecmwfr: 1.4.0
 eco: 4.0-1
 ecoCopula: 1.0.2
-ecochange: '2.9'
+ecochange: 2.9.1
 ecocomDP: 1.2.1
 ecodist: 2.0.9
 ecoengine: '1.9'
@@ -12231,7 +12236,7 @@ flexpolyline: 0.2.6
 flexrsurv: 2.0.11
 flexsiteboard: 0.0.6
 flexsurv: '2.2'
-flexsurvcure: 1.3.0
+flexsurvcure: 1.3.1
 flextable: 0.8.2
 flifo: 0.1.5
 flightplanning: 0.8.4
@@ -12473,6 +12478,7 @@ fuel: 1.2.0
 fueleconomy: 1.0.0
 fugeR: 0.1.2
 fugue: 0.1.7
+fuj: 0.1.0
 fullROC: 0.1.0
 fullfact: '1.5'
 fulltext: '2.0'
@@ -15878,7 +15884,7 @@ memoiR: 1.2-2
 memoise: 2.0.1
 memor: 0.2.3
 memoria: 1.0.0
-memuse: 4.2-1
+memuse: 4.2-2
 mephas: 1.0.0
 merDeriv: 0.2-4
 merTools: 0.5.2
@@ -16115,6 +16121,7 @@ miniparquet: 0.1.2
 minpack.lm: 1.2-2
 minqa: 1.2.5
 minque: 2.0.0
+minsample1: 0.1.0
 minsample2: 0.1.0
 minval: 0.8-2
 minxent: '0.01'
@@ -16258,7 +16265,7 @@ mlquantify: 0.2.0
 mlr: 2.19.1
 mlr3: 0.14.0
 mlr3benchmark: 0.1.4
-mlr3cluster: 0.1.4
+mlr3cluster: 0.1.5
 mlr3data: 0.6.1
 mlr3db: 0.5.0
 mlr3fairness: 0.3.1
@@ -17261,7 +17268,7 @@ nscancor: 0.6.1-25
 nscprepr: 0.1.1
 nsdr: 0.1.1
 nse: '1.20'
-nse2r: 0.1.5
+nse2r: 0.1.6
 nser: 1.4.3
 nseval: 0.4.2
 nsga2R: '1.1'
@@ -17444,7 +17451,7 @@ ooplah: 0.2.0
 oops: 0.2.0
 oosp: 0.3.3
 oottest: 0.9.1
-opGMMassessment: 0.3.2
+opGMMassessment: 0.3.3
 opa: 0.5.3
 opalr: 3.2.0
 opart: 2019.1.0
@@ -18757,7 +18764,7 @@ prolific.api: '0.5'
 prome: 1.5.6.70
 promethee123: 0.1.0
 promises: 1.2.0.1
-promor: 0.1.0
+promor: 0.1.1
 promote: 1.1.1
 promotionImpact: 0.1.5
 prompt: 1.0.1
@@ -19785,7 +19792,7 @@ remix: '2.1'
 remote: 1.2.1
 remoter: 0.4-0
 remotes: 2.4.2
-rempsyc: 0.0.9
+rempsyc: 0.1.0
 remss: 1.0.1
 renderthis: 0.2.0
 renpow: 0.1-1
@@ -20576,7 +20583,7 @@ rwty: 1.0.2
 rwunderground: 0.1.8
 rxSeq: 0.99.3
 rxivistr: 0.1.1
-rxode2: 2.0.10
+rxode2: 2.0.11
 rxode2et: 2.0.9
 rxode2ll: 2.0.9
 rxode2parse: 2.0.12
@@ -20608,6 +20615,7 @@ sFFLHD: 0.1.2
 sGBJ: 0.1.0
 sGMRFmix: 0.3.0
 sGPCA: '1.0'
+sMSROC: 0.1.0
 sNPLS: 1.0.27
 sRDA: 1.0.0
 sRNAGenetic: 0.1.0
@@ -20698,7 +20706,7 @@ sankeywheel: 0.1.0
 sanon: '1.6'
 sansa: 0.0.1
 santaR: 1.2.3
-santoku: 0.8.0
+santoku: 0.9.0
 sanzo: 0.1.0
 saotd: 0.3.0
 sapa: 2.0-3
@@ -20710,6 +20718,7 @@ sara4r: 0.0.9
 sarima: 0.9.1
 sarp.snowprofile: 1.3.1
 sarp.snowprofile.alignment: 1.2.1
+sarp.snowprofile.pyface: 0.1.3
 sars: 1.3.5
 sarsop: 0.6.13
 sas7bdat: '0.6'
@@ -20801,7 +20810,7 @@ scdhlm: 0.6.0
 scenario: '1.0'
 scgwr: 0.1.2-21
 schemr: 0.1.0
-schoRsch: 1.9.1
+schoRsch: '1.10'
 schoenberg: 2.0.2
 scholar: 0.2.4
 schoolmath: 0.4.1
@@ -21125,7 +21134,7 @@ shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
 shapviz: 0.2.2
-shar: 2.0.0
+shar: 2.0.1
 sharp: 1.2.0
 sharpData: '1.4'
 sharpPen: '1.8'
@@ -21793,7 +21802,7 @@ spatstat.geom: 3.0-3
 spatstat.gui: 2.0-1
 spatstat.linnet: 2.3-2
 spatstat.local: 4.1-5
-spatstat.random: 2.2-0
+spatstat.random: 3.0-0
 spatstat.sparse: 3.0-0
 spatstat.utils: 3.0-1
 spatsurv: '1.8'
@@ -22593,7 +22602,7 @@ tapnet: '0.3'
 tarchetypes: 0.7.2
 tardis: 0.1.3
 targeted: '0.3'
-targets: 0.13.5
+targets: 0.14.0
 tashu: 0.1.1
 taskPR: '0.34'
 taskscheduleR: '1.6'
@@ -22942,7 +22951,7 @@ timsac: 1.3.6
 timsr: 0.0.3
 tinkr: 0.1.0
 tinsel: 0.0.1
-tint: 0.1.3
+tint: 0.1.4
 tinter: 0.1.0
 tinyProject: 0.6.1
 tinyarray: 2.2.7
@@ -23621,7 +23630,7 @@ vegawidget: 0.4.2
 vegclust: 2.0.2
 vegdata: 0.9.11.3
 vegetarian: '1.2'
-vegperiod: 0.3.1
+vegperiod: 0.4.0
 vegtable: 0.1.7
 vein: 0.9.9
 velociraptr: 1.1.0
@@ -23654,7 +23663,7 @@ vici: 0.6.0
 video: 0.1.0
 vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
-viewpoly: 0.3.1
+viewpoly: 0.3.2
 viewshed3d: 4.0.0
 viking: 1.0.0
 villager: 1.1.1
@@ -24039,7 +24048,7 @@ wux: 2.2-1
 wv: 0.1.1
 wvioplot: '0.1'
 wvtool: '1.0'
-wwntests: 1.0.1
+wwntests: 1.0.2
 wyz.code.metaTesting: 1.1.21
 wyz.code.offensiveProgramming: 1.1.23
 wyz.code.rdoc: 1.1.19
