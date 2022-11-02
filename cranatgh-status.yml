@@ -335,7 +335,7 @@ BARD: '1.24'
 BAREB: 0.1.0
 BARIS: 1.1.3
 BART: '2.9'
-BAS: 1.6.3
+BAS: 1.6.4
 BASIX: '1.2'
 BASS: 1.2.2
 BASiNET: 0.0.5
@@ -1409,7 +1409,7 @@ DECIDE: '1.3'
 DEEPR: '0.1'
 DEET: 1.0.6
 DEEVD: 1.2.3
-DEGRE: 0.1.0
+DEGRE: 0.2.0
 DELTD: 2.6.8
 DEM: 0.0.0.2
 DEMEtics: 0.8-7
@@ -1870,6 +1870,7 @@ ESGtoolkit: 0.2.0
 ESKNN: '1.0'
 ESPRESSO: '2.0'
 ESTER: 0.2.0
+EScvtmle: 0.0.1
 ETAS: 0.4.9
 ETC: '1.5'
 ETLUtils: '1.5'
@@ -2351,7 +2352,7 @@ GBJ: 0.5.3
 GBcurves: 0.1.6
 GCAI.bias: '1.0'
 GCD: 4.0.7
-GCPBayes: 3.1.0
+GCPBayes: 4.0.0
 GCPM: 1.2.2
 GCSM: 0.1.1
 GCalcium: 1.0.0
@@ -4646,7 +4647,7 @@ PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.18-0
 PNADcIBGE: 0.7.0
-PNAR: '1.2'
+PNAR: '1.3'
 PNSIBGE: 0.1.7
 PNWColors: 0.1.0
 PO.EN: '1.0'
@@ -5700,7 +5701,7 @@ RcmdrPlugin.BiclustGUI: 1.1.3.1
 RcmdrPlugin.DCCV: 0.1-1
 RcmdrPlugin.DCE: 0.1-2
 RcmdrPlugin.DoE: 0.12-4
-RcmdrPlugin.EACSPIR: '0.2'
+RcmdrPlugin.EACSPIR: 0.2-3
 RcmdrPlugin.EBM: 1.0-10
 RcmdrPlugin.EHESsampling: '2.0'
 RcmdrPlugin.EZR: '1.60'
@@ -7536,13 +7537,14 @@ ZIBBSeqDiscovery: '1.0'
 ZIBseq: '1.2'
 ZIGP: '3.8'
 ZIM: 1.1.0
+ZINAR1: 0.1.0
 ZINARp: 0.1.0
 ZIPBayes: 1.0.2
 ZIPFA: 0.8.1
 ZIprop: 0.1.1
 ZOIP: '0.1'
 ZRA: '0.2'
-ZVCV: 2.1.1
+ZVCV: 2.1.2
 ZeBook: '1.1'
 Zelig: 5.1.7
 ZeligChoice: 0.9-6
@@ -7582,7 +7584,7 @@ abcdeFBA: '0.4'
 abclass: 0.4.0
 abcrf: '1.9'
 abcrlda: 1.0.3
-abctools: 1.1.3
+abctools: 1.1.4
 abd: 0.2-8
 abdiv: 0.2.0
 abe: 3.0.1
@@ -7662,6 +7664,7 @@ adapt: '1.0'
 adapt4pv: 0.2-2
 adaptDA: '1.0'
 adaptDiag: 0.1.0
+adaptIVPT: 1.0.0
 adaptMCMC: '1.4'
 adaptMT: 1.0.0
 adaptTest: '1.1'
@@ -12546,7 +12549,7 @@ fuzzywuzzyR: 1.0.5
 fwb: 0.1.1
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
-fwildclusterboot: '0.12'
+fwildclusterboot: '0.9'
 fwsim: 0.3.4
 fxTWAPLS: 0.1.1
 fxregime: 1.0-4
@@ -12589,7 +12592,7 @@ gWidgetsRGtk2: 0.0-9
 gWidgetsWWW: 0.0-9
 gWidgetsrJava: 0.0-9
 gWidgetstcltk: 0.0-9
-gadget2: 2.3.7
+gadget2: 2.3.9
 gafit: 0.5.1
 gaiah: 0.0.4
 gainML: 0.1.0
@@ -12923,7 +12926,7 @@ getProxy: '1.13'
 getTBinR: 0.7.1
 getable: 1.0.3
 gethr: 0.1.0
-getip: 0.1-0
+getip: 0.1-2
 getlandsat: 0.2.0
 getmstatistic: 0.2.2
 getopt: 1.20.3
@@ -13146,7 +13149,7 @@ ghibli: 0.3.3
 ghit: 0.2.5
 ghostr: 1.0.0
 ghql: 0.1.0
-ghyp: 1.6.2
+ghyp: 1.6.3
 ghypernet: 1.1.0
 giRaph: 0.1.2
 gibble: 0.4.0
@@ -14879,7 +14882,7 @@ kstMatrix: 0.1-4
 ktaucenters: 0.1.0
 ktsolve: '1.3'
 ktspair: '1.0'
-ktweedie: 1.0.0
+ktweedie: 1.0.1
 kubik: 0.3.0
 kuiper.2samp: '1.0'
 kulife: 0.1-9
@@ -16263,7 +16266,7 @@ mlpack: 4.0.0
 mlpwr: 1.0.0
 mlquantify: 0.2.0
 mlr: 2.19.1
-mlr3: 0.14.0
+mlr3: 0.14.1
 mlr3benchmark: 0.1.4
 mlr3cluster: 0.1.5
 mlr3data: 0.6.1
@@ -17069,7 +17072,7 @@ nlmeVPC: '2.5'
 nlmixr: 2.0.7
 nlmixr2: 2.0.8
 nlmixr2data: 2.0.7
-nlmixr2est: 2.1.1
+nlmixr2est: 2.1.2
 nlmixr2extra: 2.0.8
 nlmixr2lib: 0.1.0
 nlmixr2plot: 2.0.7
@@ -19130,6 +19133,7 @@ quincunx: 0.1.5
 quint: 2.2.2
 quipu: 1.9.0
 quokar: 0.1.0
+quoradsR: 0.1.0
 quotedargs: 0.1.3
 qut: '2.2'
 qvalue: 1.26.0
@@ -19537,7 +19541,7 @@ rcompanion: 2.4.18
 rcompendium: '1.0'
 rcompgen: 0.1-8
 rcompletion: 0.1-2
-rconfig: 0.1.3
+rconfig: 0.1.5
 rcongresso: 0.4.6
 rconifers: 1.0.7
 rcoreoa: 0.4.0
@@ -21252,6 +21256,7 @@ shinyvalidate: 0.1.2
 shinyypr: 0.0.2
 shipunov: '1.17'
 shock: '1.0'
+shopifyadsR: 0.1.0
 shopifyr: 1.0.0
 shortcuts: 1.4.0
 shorts: 2.3.0
@@ -21591,7 +21596,7 @@ snpXpert: '1.0'
 snpar: '1.0'
 snplist: 0.18.2
 snpsettest: 0.1.1
-sns: 1.1.2
+sns: 1.2.2
 sobir: 0.1.2
 sobolnp: 0.1.0
 soc.ca: 0.8.0
@@ -21769,7 +21774,7 @@ spass: '1.3'
 spatPomp: 0.30.0.1
 spatclus: 1.0-3
 spatcounts: '1.1'
-spate: 1.7.3
+spate: 1.7.4
 spatgeom: 0.1.0
 spatgraphs: 3.2-2
 spathial: 0.1.2
@@ -23111,7 +23116,7 @@ traj: '1.2'
 trajeR: 0.9.0.5
 trajectories: 0.2-4
 trajr: 1.4.0
-tram: 0.7-2
+tram: 0.8-0
 tramME: 1.0.3
 tramnet: 0.0-7
 trampoline: 0.1.1
@@ -23762,7 +23767,7 @@ vsd: 0.1.0
 vsgoftest: 1.0-1
 vsp: 0.1.0
 vstsr: 1.1.0
-vtable: 1.3.4
+vtable: 1.4.1
 vtcl: 1.0-1
 vtreat: 1.6.3
 vtree: 5.4.6
@@ -24020,7 +24025,7 @@ wq: 0.4.8
 wql: 1.0.0
 wqs: 0.0.1
 wrGraph: 1.3.1
-wrMisc: 1.10.1
+wrMisc: 1.10.2
 wrProteo: 1.6.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.7
