@@ -1897,7 +1897,7 @@ EbayesThresh: 1.4-12
 Ecdat: 0.4-2
 Ecfun: 0.3-2
 EcoDiet: 1.0.1
-EcoEnsemble: 1.0.0
+EcoEnsemble: 1.0.1
 EcoGenetics: 1.2.1
 EcoHydRology: 0.4.9
 EcoIndR: '1.8'
@@ -2049,7 +2049,7 @@ FABInference: '0.1'
 FACTMLE: '1.1'
 FACTscorer: 0.1.0
 FADA: 1.3.5
-FADPclust: 0.1.0
+FADPclust: 1.1.0
 FAIRmaterials: 0.0.2
 FAMILY: 0.1.19
 FAMT: '2.6'
@@ -5117,7 +5117,7 @@ R62S3: 1.4.1
 R6DS: 1.2.0
 R6Frame: 0.1.0
 R6P: 0.3.0
-R6causal: 0.6.1
+R6causal: 0.7.0
 RABR: 0.1.1
 RAC: '1.5'
 RAD: '0.3'
@@ -5541,7 +5541,7 @@ RSeed: 0.1.60
 RSelenium: 1.7.9
 RSentiment: 2.2.2
 RSeqMeth: 1.0.2
-RSiena: 1.3.13
+RSiena: 1.3.14
 RSiteCatalyst: 1.4.16
 RSiteSearch: 1.0-7
 RSizeBiased: 0.1.0
@@ -5814,7 +5814,7 @@ RcppRoll: 0.3.0
 RcppSMC: 0.2.6
 RcppShark: 3.1.1
 RcppSimdJson: 0.1.8
-RcppSpdlog: 0.0.8
+RcppSpdlog: 0.0.9
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.1.7
@@ -7801,6 +7801,7 @@ airports: 0.1.0
 airqualityES: 1.0.0
 airr: 1.4.1
 airt: 0.2.1
+aisoph: '0.1'
 ajv: 1.0.0
 akc: 0.9.8.1
 akiFlagger: 0.3.0
@@ -11328,7 +11329,7 @@ eddi: 0.0.1
 eddington: 2.1.1
 edeR: 1.0.0
 edeaR: 0.9.1
-edecob: 1.2.1
+edecob: 1.2.2
 edesign: 1.0-9
 edf: 1.0.0
 edfReader: 1.2.1
@@ -12976,7 +12977,7 @@ ggResidpanel: 0.3.0
 ggThemeAssist: 0.1.5
 ggTimeSeries: 1.0.2
 ggVennDiagram: 1.2.2
-ggalignment: 1.0.0
+ggalignment: 1.0.1
 ggallin: 0.1.1
 ggalluvial: 0.12.3
 ggalt: 0.4.0
@@ -12988,6 +12989,7 @@ ggbeeswarm: 0.6.0
 ggblanket: 1.5.0
 ggborderline: 0.2.0
 ggbraid: 0.2.2
+ggbrain: 0.8.0
 ggbreak: 0.1.1
 ggbuildr: 0.1.0
 ggbump: 0.1.0
@@ -16259,6 +16261,7 @@ mljar: 0.1.1
 mlmRev: 1.0-8
 mlma: 6.2-1
 mlmc: 1.0.0
+mlmhelpr: 0.1.0
 mlmi: 1.1.1
 mlmm: 1.5.0
 mlmm.gwas: 1.0.6
@@ -16325,6 +16328,7 @@ mmm: '1.4'
 mmm2: '1.2'
 mmmgee: '1.20'
 mmod: 1.3.3
+mmodely: 0.2.0
 mmpca: 2.0.2
 mmpf: 0.0.5
 mmpp: '0.6'
@@ -16961,7 +16965,7 @@ netie: '1.0'
 netjack: 1.2.0
 netmap: 0.1.1
 netmediate: 0.1.0
-netmeta: 2.5-0
+netmeta: 2.6-0
 netmhc2pan: 1.3.1
 netmodels: '0.2'
 netplot: 0.1-1
@@ -17842,7 +17846,7 @@ partR2: 0.9.1
 partialAR: 1.0.5
 partialCI: 1.2.0
 partialOR: '0.9'
-partialised: 0.1.0
+partialised: 0.1.1
 particle.swarm.optimisation: '1.0'
 particles: 0.2.3
 partition: 0.1.4
@@ -17853,6 +17857,7 @@ partitionMetric: '1.1'
 partitions: 1.10-7
 partools: 1.1.6
 partsm: 1.1-3
+parttime: 0.1.0
 party: 1.3-11
 partykit: 1.2-16
 parviol: '1.1'
@@ -19956,6 +19961,7 @@ rgenoud: 5.9-0.3
 rgeoapi: 1.1.0
 rgeoda: 0.0.9
 rgeolocate: 1.4.2
+rgeomstats: 0.0.1
 rgeopat2: 0.3.9
 rgeoprofile: 0.2.2
 rgeos: 0.5-9
@@ -23059,7 +23065,7 @@ topicmodels.etm: 0.1.0
 topmodel: 0.7.4
 topoDistance: 1.0.2
 topologyGSA: 1.4.7
-topr: 1.1.0
+topr: 1.1.1
 toprdata: 1.0.1
 topsa: 0.1.0
 topsis: '1.0'
@@ -23621,7 +23627,7 @@ vcfR: 1.13.0
 vcmeta: 1.1.0
 vcov: 0.0.1
 vcpen: '1.9'
-vcr: 1.0.2
+vcr: 1.1.0
 vcrpart: 1.0-4
 vctrs: 0.5.0
 vcvComp: 1.0.2
