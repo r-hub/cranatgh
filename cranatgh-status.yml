@@ -148,7 +148,7 @@ AST: 0.1.0
 ASV: 1.1.1
 ATAforecasting: 0.0.57
 ATE: 0.2.0
-ATNr: 1.0.1
+ATNr: 1.0.2
 ATR: 0.1-1
 ATbounds: 0.1.0
 ATmet: '1.2'
@@ -557,7 +557,7 @@ BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
 BayesMRA: 1.0.0
-BayesMallows: 1.2.0
+BayesMallows: 1.2.1
 BayesMassBal: 1.1.0
 BayesMed: '1.0'
 BayesMixSurv: 0.9.1
@@ -618,7 +618,7 @@ Bclim: 3.1.2
 BeSS: 2.0.3
 BeastJar: 1.10.6
 BeeGUTS: 1.0.0
-Benchmarking: '0.30'
+Benchmarking: '0.31'
 BenfordTests: 1.2.0
 Bergm: 5.0.5
 BerkeleyEarth: '1.8'
@@ -2667,7 +2667,7 @@ GraphPCA: '1.1'
 GrapheR: 1.9-86-3
 GrassmannOptim: 2.0.1
 GreedyEPL: '1.2'
-GreedyExperimentalDesign: '1.4'
+GreedyExperimentalDesign: '1.5'
 GreedyExperimentalDesignJARs: '1.0'
 GreedySBTM: '1.0'
 Greg: 2.0.0
@@ -5040,7 +5040,7 @@ QTL.gCIMapping: '3.4'
 QTL.gCIMapping.GUI: 2.1.1
 QTLEMM: 1.1.3
 QTLNetworkR: 0.1-7
-QTLRel: '1.11'
+QTLRel: '1.12'
 QTOCen: 0.1.1
 QUALYPSO: '2.0'
 QUIC: '2012.02'
@@ -8015,6 +8015,7 @@ archivist.github: 0.2.6
 arcos: '1.27'
 arcpullr: 0.2.7
 arctools: 1.1.4
+ardl.nardl: 1.0.1
 areabiplot: 1.0.0
 areal: 0.1.8
 arealDB: 0.3.9
@@ -8426,7 +8427,7 @@ bbknnR: 1.0.2
 bbl: 1.0.0
 bbmle: 1.0.25
 bbo: '0.2'
-bbotk: 0.6.0
+bbotk: 0.7.0
 bbreg: 2.0.2
 bbricks: 0.1.4
 bbsBayes: 2.5.2
@@ -8795,7 +8796,7 @@ blockmodels: 1.1.5
 blockrand: '1.5'
 blocksdesign: '4.9'
 blockseg: 0.5.2
-blogdown: '1.13'
+blogdown: '1.14'
 blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-2
@@ -10249,7 +10250,7 @@ ctl: 1.0.0-7
 ctmcd: 1.4.2
 ctmcmove: 1.2.9
 ctmle: 0.1.2
-ctmm: 1.0.0
+ctmm: 1.1.0
 ctmva: '1.0'
 ctpm: 1.0.1
 ctqr: '2.0'
@@ -10691,7 +10692,7 @@ detpack: 1.1.3
 detrendeR: 1.0.5
 detrendr: 0.6.14
 detzrcr: 0.3.1
-devEMF: '4.1'
+devEMF: 4.1-1
 devFunc: '0.1'
 devRate: 0.2.3
 devoid: 0.1.1
@@ -10741,7 +10742,7 @@ diagram: 1.6.5
 dialectR: '1.0'
 dialr: 0.4.1
 dialrjars: 8.12.54
-dials: 1.0.0
+dials: 1.1.0
 diamonds: 1.0-5
 diaplt: 1.4.0
 diathor: 0.1.0
@@ -10987,7 +10988,7 @@ document: 3.3.4
 documenter: 0.1.2
 docxtools: 0.2.2
 docxtractr: 0.6.5
-dodgr: 0.2.16
+dodgr: 0.2.17
 doebioresearch: 0.1.0
 doex: '1.2'
 dogesr: 0.1.0
@@ -11090,7 +11091,7 @@ dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
 dseplus: 2006.4-1
-dsfa: 1.0.0
+dsfa: 1.0.1
 dsims: 1.0.1
 dslabs: 0.7.4
 dslice: 1.2.0
@@ -12042,7 +12043,7 @@ fda.usc: 2.1.0
 fdaACF: 1.0.0
 fdaMixed: '0.6'
 fdaMocca: 0.1-1
-fdaPDE: 1.1-10
+fdaPDE: 1.1-11
 fdaPOIFD: 1.0.3
 fdacluster: 0.1.1
 fdaconcur: 0.1.0
@@ -12711,7 +12712,7 @@ gcmr: 1.0.3
 gcmrec: 1.0-3
 gcolor: '1.0'
 gconcord: '0.4'
-gconsensus: 0.3.1
+gconsensus: 0.3.2
 gcookbook: '2.0'
 gdalUtilities: 1.2.1
 gdalUtils: 2.0.3
@@ -13081,7 +13082,7 @@ ggperiodic: 1.0.2
 ggpie: 0.2.4
 ggplot: 0.4.2
 ggplot.multistats: 1.0.0
-ggplot2: 3.3.6
+ggplot2: 3.4.0
 ggplot2movies: 0.0.1
 ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
@@ -13094,7 +13095,7 @@ ggpol: 0.0.7
 ggpolar: 0.2.2
 ggpolypath: 0.2.0
 ggpp: 0.4.5
-ggprism: 1.0.3
+ggprism: 1.0.4
 ggpubr: 0.4.0
 ggpval: 0.2.5
 ggquickeda: 0.2.2
@@ -13271,7 +13272,7 @@ glpk: 4.8-0.5
 glpkAPI: 1.3.3
 glrt: '2.0'
 glue: 1.6.2
-gluedown: 1.0.4
+gluedown: 1.0.5
 gluvarpro: '7.0'
 glvmfit: 0.1.0
 glycanr: 0.4.0
@@ -13560,7 +13561,7 @@ gsw: 1.1-1
 gsynth: 1.2.1
 gt: 0.7.0
 gt4ireval: '2.0'
-gtExtras: 0.4.2
+gtExtras: 0.4.3
 gtWAS: 1.1.0
 gtable: 0.3.1
 gtcorr: 0.2-1
@@ -15807,7 +15808,7 @@ mcr: 1.3.0
 mcreplicate: 0.1.2
 mcsm: '1.0'
 mctest: 1.3.1
-mctq: 0.3.0
+mctq: 0.3.1
 mcunit: 0.3.2
 mcvis: 1.0.8
 mcwr: 1.0.0
@@ -15875,7 +15876,7 @@ megaptera: 1.0-0
 meifly: 0.3.1
 mekko: 0.1.0
 melody: 0.4.7
-melt: 1.8.0
+melt: 1.9.0
 meltr: 1.0.1
 meltt: 0.4.3
 melviewr: 0.0.1
@@ -16199,6 +16200,7 @@ mixdir: 0.3.0
 mixdist: 0.5-5
 mixedCCA: 1.6.2
 mixedClust: 1.0.2
+mixedLSR: 0.1.0
 mixedMem: 1.1.2
 mixedQF: '0.3'
 mixedsde: '5.0'
@@ -16728,7 +16730,7 @@ multivariance: 2.4.1
 multivator: 1.1-10
 multiverse: 0.6.1
 multiversion: 0.3.6
-multiview: '0.4'
+multiview: '0.7'
 multiviewtest: 2.0.1
 multiwave: '1.4'
 multiway: 1.0-6
@@ -16846,7 +16848,7 @@ namedCapture: 2020.4.1
 namedropR: 2.4.1
 namer: 0.1.6
 namespace: 0.9.1
-nametagger: 0.1.1
+nametagger: 0.1.2
 nandb: 2.1.0
 naniar: 0.6.1
 nanny: 0.1.8
@@ -17722,7 +17724,7 @@ packrat: 0.8.1
 pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
-pacotest: 0.4.1
+pacotest: 0.4.2
 pacs: 0.4.8
 pact: 0.5.0
 pacviz: 1.0.2
@@ -20317,7 +20319,7 @@ roxygen2: 7.2.1
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
-rpact: 3.3.1
+rpact: 3.3.2
 rpanel: 1.1-5.1
 rpart: 4.1.19
 rpart.LAD: 0.1.2
@@ -21086,7 +21088,7 @@ serp: 0.2.4
 serpstatr: 0.2.0
 serrsBayes: 0.5-0
 servosphereR: 0.1.1
-servr: '0.24'
+servr: '0.25'
 sesem: 1.0.2
 session: '1.0'
 sessionTools: 0.9-2
@@ -21816,6 +21818,7 @@ spatstat: 2.3-4
 spatstat.Knet: 2.0-1
 spatstat.core: 2.4-4
 spatstat.data: 3.0-0
+spatstat.explore: 3.0-3
 spatstat.geom: 3.0-3
 spatstat.gui: 2.0-1
 spatstat.linnet: 2.3-2
@@ -22514,7 +22517,7 @@ sybilEFBA: 1.0.2
 sybilSBML: 3.1.2
 sybilccFBA: 3.0.1
 sybilcycleFreeFlux: 2.0.2
-sylcount: 0.2-4
+sylcount: 0.2-5
 syllabifyr: 0.1.1
 syllable: 0.1.3
 sylly: 0.1-6
@@ -22947,7 +22950,7 @@ timeR: 1.2.0
 timeROC: '0.4'
 timeSeq: 1.0.4
 timeSeries: '4021.105'
-timechange: 0.1.0
+timechange: 0.1.1
 timedelay: 1.0.11
 timedeppar: 1.0.2
 timeit: 0.2.1
