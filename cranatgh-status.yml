@@ -377,7 +377,7 @@ BDgraph: '2.70'
 BE: 0.2.3
 BEACH: 1.3.1
 BEANSP: '1.0'
-BED: 1.4.8
+BED: 1.4.11
 BEDASSLE: '1.6'
 BEDMatrix: 2.0.3
 BEKKs: 1.3.1
@@ -2049,7 +2049,7 @@ FABInference: '0.1'
 FACTMLE: '1.1'
 FACTscorer: 0.1.0
 FADA: 1.3.5
-FADPclust: 1.1.0
+FADPclust: 1.1.1
 FAIRmaterials: 0.0.2
 FAMILY: 0.1.19
 FAMT: '2.6'
@@ -6044,7 +6044,7 @@ Rodam: 0.1.8
 Rogue: 2.1.3
 RolWinMulCor: 1.2.0
 RonFHIR: 0.4.0
-Rook: 1.1-1
+Rook: '1.2'
 RootsExtremaInflections: 1.2.1
 Ropj: 0.3-2
 Rosenbrock: 0.1.0
@@ -6215,7 +6215,7 @@ SCRSELECT: 1.3-3
 SCRT: 1.3.1
 SCVA: 1.3.1
 SCperf: 1.1.1
-SCpubr: 1.0.3
+SCpubr: 1.0.4
 SCtools: 0.3.2.1
 SDALGCP: 0.4.0
 SDAR: 0.9-55
@@ -6622,7 +6622,7 @@ SimReg: '3.3'
 SimRepeat: 0.1.0
 SimSCRPiecewise: 0.1.1
 SimSeq: 1.4.0
-SimSurvNMarker: 0.1.2
+SimSurvNMarker: 0.1.3
 SimSurvey: 0.1.5
 SimTimeVar: 1.0.0
 SimVitD: 1.0.2
@@ -6702,7 +6702,7 @@ SoupX: 1.6.2
 SourceSet: 0.1.3
 SoyNAM: 1.6.2
 SoyURT: 1.0.0
-SpATS: 1.0-17
+SpATS: 1.0-18
 SpNMF: 0.1.1
 SpNetPrep: '1.2'
 SpTe2M: 1.0.1
@@ -7107,7 +7107,7 @@ Tendril: 2.0.4
 TensorClustering: 1.0.2
 TensorComplete: 0.1.0
 TensorTest2D: 1.1.1
-Ternary: 2.1.1
+Ternary: 2.1.2
 TesiproV: 0.9.2
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
@@ -7729,7 +7729,7 @@ adobeanalyticsr: 0.3.3
 adoption: 0.6.4
 adoptr: 1.0.0
 adpss: 0.1.1
-ads: 1.5-7
+ads: 1.5-8
 adsDataHubR: 0.1.1
 advclust: '0.4'
 adventr: 0.1.8
@@ -7948,7 +7948,7 @@ aoos: 0.5.0
 aop: 1.0.0
 aopdata: 1.0.1
 aoristic: 1.1.1
-aorsf: 0.0.3
+aorsf: 0.0.4
 aos: 0.1.0
 apTreeshape: 1.5-0.1
 apa: 0.3.3
@@ -8147,7 +8147,7 @@ atm: 0.1.0
 atmcmc: '1.0'
 atmi: '1.0'
 atmopt: 0.1.0
-atom4R: 0.3-1
+atom4R: 0.3-2
 atpolR: 0.1.1
 atsd: 1.2.0
 attachment: 0.3.0
@@ -8207,7 +8207,7 @@ autonewsmd: 0.0.4
 autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.2
-autostats: 0.3.1
+autostats: 0.4.0
 autostsm: 3.0.3
 autota: 0.1.3
 autothresholdr: 1.4.0
@@ -8618,7 +8618,7 @@ bigreadr: 0.2.4
 bigrf: 0.1-6
 bigrquery: 1.4.1
 bigsimr: 0.11.2
-bigsnpr: 1.11.4
+bigsnpr: 1.11.6
 bigsparser: 0.6.1
 bigsplines: 1.1-1
 bigstatsr: 1.5.12
@@ -8796,7 +8796,7 @@ blockmodels: 1.1.5
 blockrand: '1.5'
 blocksdesign: '4.9'
 blockseg: 0.5.2
-blogdown: '1.14'
+blogdown: '1.15'
 blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-2
@@ -8998,7 +8998,7 @@ bssm: 2.0.1
 bssn: '1.0'
 bst: 0.3-23
 bstats: 1.1-11-5
-bsts: 0.9.8
+bsts: 0.9.9
 bsub: 1.1.0
 bsvars: 1.0.0
 btb: 0.2.0
@@ -9197,7 +9197,7 @@ cati: 0.99.4
 catlearn: 0.9.1
 catmap: 1.6.4
 catmaply: 0.9.2
-catnet: 1.15.7
+catnet: 1.16.1
 cats: 1.0.2
 catseyes: 0.2.5
 catsim: 0.2.3
@@ -9217,7 +9217,7 @@ causaloptim: 0.9.2
 causalsens: 0.1.2
 causalweight: 1.0.3
 caviarpd: 0.2.32
-cba: 0.2-21
+cba: 0.2-22
 cban: '1.0'
 cbanalysis: 0.2.0
 cbar: 0.1.3
@@ -9678,7 +9678,7 @@ cocorresp: 0.4-3
 cocron: 1.0-1
 coda: 0.19-4
 coda.base: 0.5.2
-coda4microbiome: 0.1.1
+coda4microbiome: 0.1.2
 codacore: 0.0.4
 codadiags: '1.0'
 codalm: 0.1.2
@@ -10444,7 +10444,7 @@ datamaps: 0.0.3
 datamart: 0.5.2
 datamerge: 1.0.3
 datamods: 1.3.4
-datana: 1.0.1
+datana: 1.0.2
 datanugget: 1.0.0
 dataonderivatives: 0.4.0
 dataone: 2.2.2
@@ -11618,7 +11618,7 @@ erboost: '1.3'
 ercv: 1.0.1
 erer: '3.1'
 ergMargins: 0.1.3
-ergm: 4.2.3
+ergm: 4.3.1
 ergm.count: 4.1.1
 ergm.ego: 1.0.1
 ergm.graphlets: 1.0.3
@@ -11687,7 +11687,7 @@ etseed: 0.1.0
 eudract: 0.10.1
 eulerian: '1.0'
 eulerr: 6.1.1
-eurlex: 0.4.2
+eurlex: 0.4.3
 euroMix: '1.1'
 eurocordexr: 0.2.2
 eurodata: 1.5.0
@@ -11700,7 +11700,7 @@ eva: 0.2.6
 evabic: 0.1.1
 evalITR: 0.3.0
 evalR: 0.0.1
-evaluate: '0.17'
+evaluate: '0.18'
 evaluator: 0.4.3
 evclass: 1.1.1
 evclust: 2.0.2
@@ -13023,7 +13023,7 @@ ggfocus: 1.0.0
 ggforce: 0.4.1
 ggformula: 0.10.2
 ggfortify: 0.4.14
-ggfun: 0.0.7
+ggfun: 0.0.8
 ggfx: 1.0.1
 gggap: 1.0.1
 gggenes: 0.4.1
@@ -16284,8 +16284,8 @@ mlr3db: 0.5.0
 mlr3fairness: 0.3.1
 mlr3filters: 0.6.0
 mlr3fselect: 0.7.2
-mlr3hyperband: 0.4.2
-mlr3learners: 0.5.4
+mlr3hyperband: 0.4.3
+mlr3learners: 0.5.5
 mlr3measures: 0.5.0
 mlr3misc: 0.11.0
 mlr3oml: 0.6.0
@@ -16852,7 +16852,7 @@ nametagger: 0.1.2
 nandb: 2.1.0
 naniar: 0.6.1
 nanny: 0.1.8
-nanonext: 0.6.0
+nanonext: 0.7.0
 nanop: 2.0-6
 nanostringr: 0.4.0
 nanotime: 0.3.7
@@ -17196,7 +17196,7 @@ nopp: 1.1.2
 nor1mix: 1.3-0
 nord: 1.0.0
 nordklimdata1: '1.2'
-norgeo: 2.1.1
+norgeo: 2.1.2
 norm: 1.0-10.0
 norm2: 2.0.4
 normalizeH: 1.0.0
@@ -18153,7 +18153,7 @@ pheno2geno: 1.4.0
 phenoCDM: 0.1.3
 phenocamapi: 0.1.5
 phenocamr: 1.1.5
-phenofit: 0.3.6
+phenofit: 0.3.7
 phenology: '7.9'
 phenomap: 1.2.1
 phenopix: 2.4.2
@@ -18363,7 +18363,7 @@ plotdap: 1.0.0
 plotfunctions: '1.4'
 plothelper: 0.1.9
 plotluck: 1.1.1
-plotly: 4.10.0
+plotly: 4.10.1
 plotlyGeoAssets: 0.0.2
 plotmm: 0.1.0
 plotmo: 3.6.2
@@ -20526,7 +20526,7 @@ rtmpt: 1.0-0
 rtodoist: 0.1.0
 rtop: 0.5-14
 rtrek: 0.3.3
-rtrend: 0.1.3
+rtrend: 0.1.4
 rtrends: 0.1.0
 rtrie: 0.1.1
 rtrim: 2.1.1
@@ -20772,7 +20772,7 @@ sbw: 1.1.5
 scAnnotate: 0.0.4
 scBio: 0.1.6
 scCAN: 1.0.4
-scCATCH: '3.2'
+scCATCH: 3.2.1
 scDHA: 1.2.0
 scDIFtest: 0.1.1
 scDiffCom: 0.1.0
@@ -20852,7 +20852,7 @@ scope: '2.2'
 scoper: 1.2.1
 scopr: 0.3.4
 score: 1.0.2
-scorecard: 0.3.9
+scorecard: 0.4.0
 scorecardModelUtils: 0.0.1.0
 scorepeak: 0.1.2
 scorer: 0.2.0
@@ -21068,7 +21068,7 @@ seqRFLP: 1.0.1
 seqest: 1.0.1
 seqgendiff: 1.2.3
 seqhandbook: 0.1.0
-seqimpute: '1.7'
+seqimpute: '1.8'
 seqinr: 4.2-16
 seqmagick: 0.1.5
 seqminer: '8.4'
@@ -21686,7 +21686,7 @@ source.gist: 1.0.0
 sourceR: 1.1.0
 sourcetools: 0.1.7
 sovereign: 1.2.1
-sp: 1.5-0
+sp: 1.5-1
 sp23design: 0.9-1
 sp500SlidingWindow: 0.1.0
 spANOVA: 0.99.3
@@ -21823,6 +21823,7 @@ spatstat.geom: 3.0-3
 spatstat.gui: 2.0-1
 spatstat.linnet: 2.3-2
 spatstat.local: 4.1-5
+spatstat.model: 3.0-2
 spatstat.random: 3.0-1
 spatstat.sparse: 3.0-0
 spatstat.utils: 3.0-1
@@ -22274,7 +22275,7 @@ strex: 1.4.4
 strider: '1.3'
 string2path: 0.1.1
 stringb: 0.1.17
-stringdist: 0.9.9
+stringdist: 0.9.10
 stringfish: 0.15.7
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
@@ -23404,7 +23405,7 @@ ubeR: 0.1.4
 ubiquity: 2.0.0
 ubms: 1.1.0
 ucbthesis: '1.0'
-uchardet: 1.1.0
+uchardet: 1.1.1
 ucie: 1.0.2
 uclust: 1.0.0
 ucminf: 1.1-4.1
@@ -23587,7 +23588,7 @@ vanddraabe: 1.1.1
 vangogh: 0.1.1
 vannstats: 1.2.7.14
 vanquish: 1.0.0
-vapour: 0.8.82
+vapour: 0.9.0
 varComp: 0.2-0
 varEst: 0.1.0
 varImp: '0.4'
