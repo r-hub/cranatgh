@@ -331,6 +331,7 @@ BAMMtools: 2.1.10
 BANEScarparkinglite: 0.1.3
 BANFF: '2.0'
 BANOVA: 1.2.1
+BAR: 0.1.0
 BARD: '1.24'
 BAREB: 0.1.0
 BARIS: 1.1.3
@@ -1885,7 +1886,7 @@ EWS: 0.2.0
 EXRQ: '1.0'
 EZtune: 3.1.1
 Eagle: '2.5'
-Ease: 0.1.1
+Ease: 0.1.2
 EasyABC: '1.5'
 EasyDescribe: 0.1.1
 EasyHTMLReport: 0.1.1
@@ -5102,7 +5103,7 @@ R2PPT: 2.2.0
 R2STATS: 0.68-39
 R2SWF: 0.9-7
 R2WinBUGS: 2.1-21
-R2admb: 0.7.16.2
+R2admb: 0.7.16.3
 R2jags: 0.7-1
 R2sample: 1.0.0
 R2ucare: 1.0.2
@@ -5401,7 +5402,7 @@ RNeo4j: 1.6.4
 RNetCDF: 2.6-1
 RNetLogo: 1.0-4
 RNewsflow: 1.2.6
-RNifti: 1.4.2
+RNifti: 1.4.3
 RNiftyReg: 2.7.0
 ROAuth: 0.9.6
 ROC632: '0.6'
@@ -5570,7 +5571,7 @@ RTD: 0.4.1
 RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
 RTIGER: 1.99.0
-RTL: 1.2.0
+RTL: 1.3.0
 RTOMO: 1.1-6
 RTTWebClient: 0.1.3
 RTaxometrics: '3.2'
@@ -6091,7 +6092,7 @@ Rsolnp: '1.16'
 Rsomoclu: 1.7.6
 Rspc: 1.2.2
 Rspotify: 0.1.2
-RsqMed: 0.1.7.1
+RsqMed: 0.2.1.0
 Rssa: 1.0.5
 Rstem: 0.4-1
 Rstg: 0.0.1
@@ -6284,6 +6285,7 @@ SII: 1.0.3
 SILGGM: 1.0.0
 SILM: 1.0.0
 SIMEXBoost: 0.1.0
+SIMICO: 0.1.0
 SIMMS: 1.3.2
 SIMPLE.REGRESSION: 0.1.5
 SIN: '0.6'
@@ -6466,7 +6468,7 @@ SUE: '1.0'
 SUMMER: 1.3.0
 SUNGEO: 0.2.292
 SV: 1.3.5
-SVDNF: 0.1.0
+SVDNF: 0.1.1
 SVGMapping: '1.4'
 SVMMaj: 0.2.9.1
 SVMMatch: '1.1'
@@ -6563,8 +6565,8 @@ SesIndexCreatoR: 1.0-2
 SetMethods: '3.0'
 SetRank: 1.1.0
 SetTest: 0.2.0
-Seurat: 4.2.0
-SeuratObject: 4.1.2
+Seurat: 4.2.1
+SeuratObject: 4.1.3
 ShapeChange: '1.4'
 ShapePattern: 2.2.0
 ShapeRotator: 0.1.0
@@ -7176,7 +7178,7 @@ ToxCrit: '1.0'
 ToxLim: '1.0'
 ToxicR: 22.8.1.0.3
 ToxicoGx: 0.1.1
-Tplyr: 1.0.1
+Tplyr: 1.0.2
 TraMineR: 2.2-5
 TraMineRextras: 0.6.5
 TraceAssist: 0.1.0
@@ -9113,12 +9115,12 @@ canadacovid: 0.3.4
 canadamaps: '0.1'
 canadianmaps: 1.0.0
 canaper: 1.0.0
-cancensus: 0.5.3
+cancensus: 0.5.4
 cancerGI: 1.0.0
 cancerTiming: 3.1.8
 candisc: 0.8-6
 canprot: 1.1.2
-cansim: 0.3.12
+cansim: 0.3.13
 canvas: 0.2-0
 canvasXpress: 1.40.6
 canvasXpress.data: 1.34.2
@@ -10264,7 +10266,7 @@ ctv: 0.9-4
 cuRe: 1.1.0
 cubature: 2.0.4.5
 cubble: 0.1.1
-cubelyr: 1.0.1
+cubelyr: 1.0.2
 cubeview: 0.2.0
 cubfits: 0.1-4
 cubicBsplines: 1.0.0
@@ -10681,7 +10683,7 @@ desire: 1.0.7
 desla: 0.2.0
 desplot: '1.9'
 details: 0.3.0
-detect: 0.4-4
+detect: 0.4-5
 detectR: 0.1.0
 detectRUNS: 0.9.6
 detectnorm: 1.0.0
@@ -11306,7 +11308,7 @@ ecoretriever: '0.2'
 ecoseries: 0.1.5
 ecosim: 1.3-3
 ecospace: 1.4.2
-ecospat: '3.3'
+ecospat: '3.4'
 ecostats: 1.1.11
 ecostatscale: '1.0'
 ecotox: 1.4.4
@@ -13149,6 +13151,7 @@ ggvoronoi: 0.8.5
 ggwordcloud: 0.5.0
 ggx: 0.1.1
 gh: 1.3.1
+ghapps: 1.0.0
 ghclass: 0.2.1
 ghcm: 3.0.0
 ghee: 0.1.0
@@ -13477,7 +13480,7 @@ gridGraphics: 0.5-1
 gridGraphviz: 0.3-1
 gridOT: 1.0.1
 gridSVG: 1.7-4
-gridpattern: 1.0.1
+gridpattern: 1.0.2
 gridsample: 0.2.1
 gridsampler: '0.6'
 gridstackeR: 0.1.0
@@ -14549,7 +14552,7 @@ iterpc: 0.4.2
 itertools: 0.1-3
 itertools2: 0.1.1
 itp: 1.2.0
-itraxR: '1.4'
+itraxR: '1.8'
 itree: '0.1'
 its: 1.1.8
 its.analysis: 1.6.0
@@ -15324,7 +15327,7 @@ locatexec: 0.1.1
 locationgamer: 0.1.0
 locfdr: 1.1-8
 locfit: 1.5-9.6
-locits: 1.7.5
+locits: 1.7.6
 locpol: 0.7-0
 locpolExpectile: 0.1.1
 lodGWAS: 1.0-7
@@ -15478,7 +15481,7 @@ lunar: 0.2-1
 lutz: 0.3.1
 luz: 0.3.1
 luzlogr: 0.2.0
-lvec: 0.2.4
+lvec: 0.2.5
 lvm4net: '0.3'
 lvmcomp: '1.2'
 lvmisc: 0.1.1
@@ -16507,7 +16510,7 @@ mpMap: '1.14'
 mpMap2: 1.0.4
 mpa: 0.7.3
 mpath: 0.4-2.22
-mpathsenser: 1.1.0
+mpathsenser: 1.1.1
 mpbart: '0.2'
 mpc: '0.1'
 mpcmp: 0.3.6
@@ -16536,7 +16539,7 @@ mrMLM.GUI: 4.0.2
 mra: 2.16.11
 mratios: 1.4.2
 mrbayes: 0.5.1
-mrbin: 1.7.0
+mrbin: 1.7.1
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
 mrds: 2.2.7
@@ -17166,7 +17169,7 @@ noisySBM: 0.1.4
 noisyr: 1.0.0
 nomadlist: 0.1.0
 nombre: 0.4.1
-nomclust: 2.5.0
+nomclust: 2.6.2
 nominatimlite: 0.1.6
 nomine: 1.0.0
 nomisr: 0.4.7
@@ -17699,7 +17702,7 @@ pMineR: '0.31'
 pRF: '1.2'
 pROC: 1.18.0
 pRSR: 3.1.1
-pRecipe: 0.4.0
+pRecipe: 0.4.2
 pRepDesigns: 1.0.0
 pSI: '1.1'
 pTITAN2: 1.0.2
@@ -18232,7 +18235,7 @@ picasso: 1.3.1
 picker: 0.2.6
 pid: '0.50'
 piecemaker: 1.0.1
-piecepackr: 1.12.0
+piecepackr: 1.12.2
 piecewiseSEM: 2.1.2
 pifpaf: 1.0.1
 piggyback: 0.1.4
@@ -19307,7 +19310,7 @@ rTCRBCRr: 0.1.1
 rTG: 1.0.1
 rTLS: 0.2.5.2
 rTOFsPRO: '1.4'
-rTRIPLEXCWFlux: 0.1.0
+rTRIPLEXCWFlux: 0.2.0
 rTRNG: 4.23.1-2
 rTableICC: 1.0.7
 rTensor: 1.4.8
@@ -19568,7 +19571,7 @@ rcrossref: 1.1.0
 rcrtan: 0.1.1
 rcrypt: 0.1.1
 rcss: '1.8'
-rcssci: 0.1.0
+rcssci: 0.2.0
 rct3: 1.0.4
 rcube: '0.5'
 rcure: 0.1.0
@@ -20300,7 +20303,7 @@ rosm: 0.2.6
 rospca: 1.0.4
 rosqp: 0.1.0
 rosr: 0.0.8
-rotasym: 1.1.3
+rotasym: 1.1.4
 rotationForest: 0.1.3
 rotations: 1.6.4
 rotl: 3.0.14
@@ -20824,7 +20827,7 @@ scclust: 0.2.2
 sccore: 1.0.2
 sccr: '2.1'
 scdensity: 1.0.2
-scdhlm: 0.6.0
+scdhlm: 0.7.0
 scenario: '1.0'
 scgwr: 0.1.2-21
 schemr: 0.1.0
@@ -21341,7 +21344,7 @@ simMSM: 1.1.42
 simMetric: 0.1.1
 simPATHy: '0.6'
 simPH: 1.3.13
-simPop: 2.1.1
+simPop: 2.1.2
 simPopulation: 0.4.1
 simSummary: 0.1.0
 simTargetCov: 1.0.1
@@ -21537,7 +21540,7 @@ smartsnp: 1.1.0
 smatr: 3.4-8
 smbinning: '0.9'
 smcUtils: '0.2'
-smcfcs: 1.7.0
+smcfcs: 1.7.1
 smco: '0.1'
 smcure: '2.1'
 smd: 0.6.6
@@ -21735,7 +21738,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 2.3.0
+spant: 2.4.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -22156,7 +22159,7 @@ statquotes: 0.3.1
 stats19: 2.0.0
 stats4teaching: 0.1.0
 statsDK: 0.1.1
-statsExpressions: 1.3.4
+statsExpressions: 1.3.5
 statsearchanalyticsr: 0.1.4
 statsgrokse: 0.1.4
 statsguRu: 0.1.1
@@ -22197,6 +22200,7 @@ stfit: 0.99.9
 stheoreme: '1.2'
 stickr: 0.3.1
 sticky: 0.5.6.1
+stickyr: 0.1.0
 stilt: 1.3.0
 stima: 1.2.1
 stinepack: '1.4'
@@ -22300,7 +22304,7 @@ stuart: 0.10.1
 stubthat: 1.2.1
 studentlife: 1.1.0
 studyStrap: 1.0.0
-styler: 1.8.0
+styler: 1.8.1
 stylest: 0.2.0
 stylo: 0.7.4
 suRtex: '0.9'
@@ -22687,6 +22691,7 @@ tealeaves: 1.0.6
 teamcolors: 0.0.4
 teamr: 0.0.1
 teda: 0.1.1
+tehtuner: 0.1.1
 teigen: 2.2.2
 telefit: 1.0.3
 telegram: 0.6.0
@@ -24088,7 +24093,7 @@ xRing: 0.1.1
 xSub: 3.0.2
 xVA: '1.1'
 xadmix: 1.0.0
-xaringan: '0.26'
+xaringan: '0.27'
 xaringanExtra: 0.7.0
 xaringanthemer: 0.4.2
 xbreed: 1.0.1.1
@@ -24131,7 +24136,7 @@ xpectr: 0.4.2
 xplain: 0.2.2
 xplorerr: 0.1.2
 xportr: 0.1.0
-xpose: 0.4.13
+xpose: 0.4.14
 xpose.nlmixr: 0.3.0
 xpose.nlmixr2: 0.4.0
 xpose4: 4.7.2
