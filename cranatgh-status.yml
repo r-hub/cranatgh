@@ -490,6 +490,7 @@ BTLLasso: 0.1-11
 BTM: 0.3.6
 BTR: 1.2.4
 BTSPAS: 2021.11.2
+BTSR: 0.1.0
 BTYD: 2.4.3
 BTYDplus: 1.2.0
 BTdecayLasso: 0.1.0
@@ -1169,7 +1170,7 @@ CoOL: 1.1.2
 CoRpower: 1.0.4
 CoSMoS: 2.1.0
 CoSeg: '0.38'
-CoTiMA: 0.5.4
+CoTiMA: 0.6.2
 CodataGS: '1.43'
 CodeDepends: 0.6.5
 CohensdpLibrary: 0.5.8
@@ -1746,7 +1747,7 @@ DynNom: 5.0.2
 DynTxRegime: '4.11'
 DynaRankR: 1.1.0
 DynamicDistribution: '1.1'
-DynamicGP: 1.1-8
+DynamicGP: 1.1-9
 DynareR: 0.1.3
 DysPIA: '1.3'
 DysPIAData: 0.1.2
@@ -2089,7 +2090,7 @@ FER: '0.94'
 FEST: '0.08'
 FESta: 1.0.0
 FEprovideR: '1.1'
-FFD: 1.0-8
+FFD: 1.0-9
 FFTrees: 1.7.5
 FFdownload: 1.1.0
 FField: 0.1.0
@@ -2720,7 +2721,7 @@ HDMD: '1.2'
 HDMT: 1.0.5
 HDOMDesign: 1.0-1
 HDPenReg: 0.94.8
-HDShOP: 0.1.2
+HDShOP: 0.1.3
 HDSpatialScan: 1.0.3
 HDStIM: 0.1.0
 HDTSA: 1.0.1
@@ -2980,6 +2981,7 @@ INSPIRE: '1.5'
 INTRIGUE: 0.1.0
 IOHanalyzer: 0.1.6.3
 IOHexperimenter: 0.1.4
+IOLS: 0.1.0
 IP: '0.1'
 IPCAPS: 1.1.8
 IPCWK: '1.0'
@@ -3395,7 +3397,7 @@ LTPDvar: 1.2.1
 LTR: 1.0.0
 LTRCforests: 0.5.5
 LTRCtrees: 1.1.1
-LUCIDus: '2.2'
+LUCIDus: 2.2.1
 LVGP: 2.1.5
 LVMMCOR: 0.01.1
 LVQTools: '1.2'
@@ -3476,7 +3478,7 @@ LoBrA: '1.0'
 LocFDRPois: 1.0.0
 LocKer: '1.1'
 LocalControl: 1.1.3
-LocalControlStrategy: 1.3.3
+LocalControlStrategy: '1.4'
 Lock5Data: 3.0.0
 Lock5withR: 1.2.2
 LogConcDEAD: 1.6-6
@@ -5863,7 +5865,7 @@ Rearrangement: '2.1'
 RecAssoRules: '1.0'
 Recocrop: 0.4-1
 Recon: 0.3.0.0
-RecordLinkage: 0.4-12.3
+RecordLinkage: 0.4-12.4
 RecordTest: 2.1.1
 Records: '1.0'
 RecurRisk: '1.0'
@@ -6878,7 +6880,7 @@ SurrogateOutcome: '1.1'
 SurrogateRegression: 0.6.0
 SurrogateTest: '1.3'
 SurvBoost: 0.1.2
-SurvCorr: '1.0'
+SurvCorr: '1.1'
 SurvDisc: 0.1.1
 SurvGSD: 1.0.0
 SurvHiDim: 0.1.1
@@ -7108,6 +7110,7 @@ TemporalGSSA: 1.0.1
 Tendril: 2.0.4
 TensorClustering: 1.0.2
 TensorComplete: 0.1.0
+TensorPreAve: 0.1.1
 TensorTest2D: 1.1.1
 Ternary: 2.1.2
 TesiproV: 0.9.2
@@ -8356,7 +8359,7 @@ bate: 0.1.0
 batman: 0.1.0
 bats: 0.1-3
 batteryreduction: 0.1.1
-bayMDS: '1.6'
+bayMDS: '2.0'
 baycn: 1.2.0
 bayefdr: 0.2.1
 bayes4psy: 1.2.8
@@ -10507,7 +10510,7 @@ dbglm: 1.0.0
 dbhydroR: 0.2-8
 dblcens: 1.1.7
 dblr: 0.1.0
-dbmss: 2.7-10
+dbmss: 2.7-11
 dbnR: 0.7.8
 dbnlearn: 0.1.0
 dbparser: 1.2.0
@@ -10700,7 +10703,7 @@ devRate: 0.2.3
 devoid: 0.1.1
 devtoolbox: 0.2.0
 devtools: 2.4.5
-dexter: 1.2.1
+dexter: 1.2.2
 dexterMST: 0.9.3
 dextergui: 0.2.6
 df2json: 0.0.2
@@ -10932,7 +10935,7 @@ dlm: 1.1-5
 dlmap: '1.13'
 dlmodeler: 1.4-2
 dlnm: 2.4.7
-dlookr: 0.6.0
+dlookr: 0.6.1
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.5
@@ -12610,7 +12613,7 @@ galgo: '1.4'
 galigor: 0.2.5
 galts: 1.3.1
 galvanizer: 0.5.3
-gam: 1.20.2
+gam: '1.22'
 gamCopula: 0.0-7
 gamRR: 0.7.0
 gama: 1.0.3
@@ -13127,7 +13130,7 @@ ggsom: 0.4.0
 ggspatial: 1.1.6
 ggspectra: 0.3.9
 ggstance: 0.3.5
-ggstar: 1.0.3
+ggstar: 1.0.4
 ggstats: 0.1.0
 ggstatsplot: 0.9.5
 ggstream: 0.1.0
@@ -13854,7 +13857,7 @@ hlt: 1.3.1
 hmcdm: 2.0.0
 hmclearn: 0.0.5
 hmeasure: 1.0-2
-hmer: 1.0.1
+hmer: 1.2.0
 hmgm: 1.0.3
 hmi: 1.0.0
 hmlasso: 0.0.1
@@ -13942,7 +13945,7 @@ htmltools: 0.5.3
 htmlwidgets: 1.5.4
 htree: 2.0.0
 hts: 6.0.2
-htsr: 1.1.4
+htsr: 1.1.5
 httk: 2.2.1
 httpRequest: 0.0.11
 httpcache: 1.2.0
@@ -14381,7 +14384,7 @@ integrOmics: '2.5'
 integrate: 2.2-3
 integrativeME: '1.2'
 integrativeMEdata: '1.0'
-intensegRid: 0.1.1
+intensegRid: 0.1.2
 intensity.analysis: 0.1.6
 intensitynet: 1.3.1
 interAdapt: '0.1'
@@ -14557,7 +14560,7 @@ itree: '0.1'
 its: 1.1.8
 its.analysis: 1.6.0
 itsadug: 2.4.1
-itscalledsoccer: 0.2.0
+itscalledsoccer: 0.2.1
 itsdm: 0.1.3
 itsmr: '1.10'
 itunesr: '0.1'
@@ -15087,7 +15090,7 @@ learnPopGen: 1.0.4
 learningCurve: 1.1.2
 learningr: 0.29.1
 learningtower: 1.0.0
-learnr: 0.11.1
+learnr: 0.11.2
 learnrbook: 1.0.2
 learnstats: 0.1.1
 leastcostpath: 1.8.7
@@ -15129,7 +15132,7 @@ lfda: 1.1.3
 lfe: 2.8-8
 lfl: 2.2.0
 lfmm: '1.1'
-lfstat: 0.9.4
+lfstat: 0.9.12
 lg: 0.4.1
 lga: 1.1-1
 lgarch: 0.6-2
@@ -15152,7 +15155,7 @@ libproj: 8.1.0-1
 libr: 1.2.8
 librarian: 1.8.1
 librarysnapshot: 0.1.2
-libsoc: 0.7.3
+libsoc: '0.7'
 libstableR: 1.0.2
 lidR: 4.0.1
 lidaRtRee: 4.0.3
@@ -15500,7 +15503,7 @@ mAr: 1.2-0
 mBvs: '1.5'
 mDAG: 1.2.2
 mExplorer: 1.0.0
-mFD: 1.0.1
+mFD: 1.0.2
 mFDP: 0.1.0
 mFLICA: 0.1.5
 mFilter: 0.1-5
@@ -16297,7 +16300,7 @@ mlr3proba: 0.4.9
 mlr3shiny: 0.2.0
 mlr3spatial: 0.3.0
 mlr3spatiotempcv: 2.0.2
-mlr3tuning: 0.15.0
+mlr3tuning: 0.16.0
 mlr3tuningspaces: 0.3.1
 mlr3verse: 0.2.6
 mlr3viz: 0.5.10
@@ -17324,7 +17327,7 @@ nycflights13: 1.0.2
 nyctaxi: 0.0.1
 nytR: '0.1'
 nzelect: 0.4.0
-nzffdr: 2.0.0
+nzffdr: 2.1.0
 nzilbb.labbcat: 1.1-1
 nzpullover: 0.3.0
 o2geosocial: 1.1.0
@@ -17382,7 +17385,7 @@ oddstream: 0.5.0
 odeGUTS: 1.0.1
 odeintr: 1.7.1
 odesolve: 0.9-9
-odetector: 1.0.0
+odetector: 1.0.1
 odfWeave: 0.8.4
 odfWeave.survey: '1.0'
 odin: 1.2.4
@@ -17487,7 +17490,7 @@ openSkies: 1.1.6
 openVA: 1.1.0
 openadds: 0.2.0
 openai: 0.1.0
-openair: '2.11'
+openair: '2.12'
 openairmaps: 0.5.1
 openalexR: 1.0.0
 openbankeR: 0.1.1
@@ -17567,6 +17570,7 @@ optpart: 3.0-3
 optrcdmaeAT: 1.0.0
 optrdd: '1.0'
 optrees: '1.0'
+optrefine: 1.0.0
 optweight: 0.2.5
 opusminer: 0.1-1
 orQA: 0.2.1
@@ -18315,6 +18319,7 @@ plainview: 0.2.0
 plan: 0.4-4
 planar: '1.6'
 planets: 0.1.0
+planningML: 1.0.0
 planor: 1.5-3
 plantecophys: 1.4-6
 plantecowrap: 1.0.4
@@ -18651,7 +18656,7 @@ predatory: '1.2'
 predbayescor: '1.1'
 predfairness: 0.1.0
 predfinitepop: '1.0'
-predhy: 1.2.0
+predhy: 1.2.1
 predict3d: 0.1.3.3
 predictMe: '0.1'
 prediction: 0.3.14
@@ -19635,7 +19640,7 @@ readHAC: '1.0'
 readJDX: 0.6.1
 readMETEO: '1.2'
 readMLData: 0.9-7
-readMzXmlData: 2.8.1
+readMzXmlData: 2.8.2
 readODS: 1.7.0
 readOffice: 0.2.2
 readSX: 0.8.3
@@ -20166,7 +20171,7 @@ rmsfuns: 1.0.0.1
 rmt: '1.0'
 rmumps: 5.2.1-20
 rmutil: 1.1.10
-rmweather: 0.1.51
+rmweather: 0.2.4
 rmytarget: 2.4.0
 rmzqc: 0.1.0
 rnaseqWrapper: '1.0'
@@ -21105,7 +21110,7 @@ settings: 0.2.7
 setwidth: 1.0-4
 sever: 0.0.7
 severity: '2.0'
-sf: 1.0-8
+sf: 1.0-9
 sfa: 1.0-1
 sfaR: 0.1.1
 sfadv: 1.0.1
@@ -21700,7 +21705,7 @@ spBayesSurv: 1.1.6
 spCP: '1.3'
 spData: 2.2.0
 spDates: '1.1'
-spFSR: 2.0.1
+spFSR: 2.0.2
 spFW: 0.1.0
 spGARCH: 0.2.2
 spGoogle: 0.1-2
@@ -22239,7 +22244,7 @@ storr: 1.2.5
 stortingscrape: 0.1.2
 storywranglr: 0.2.0
 stosim: 0.0.14
-stplanr: 1.0.1
+stplanr: 1.0.2
 stpm: 1.7.12
 stpp: 2.0-6
 stppResid: '1.1'
@@ -22650,7 +22655,7 @@ taxonbridge: 1.2.2
 taxonomizr: 0.9.3
 taxotools: 0.0.9
 tayloRswift: 0.1.0
-taylor: 1.0.0
+taylor: 2.0.0
 tbart: '1.0'
 tbd: 0.1.0
 tbdiag: '0.1'
@@ -22672,7 +22677,7 @@ tcl: 0.1.1
 tcltk: 0.1-1
 tcltk2: 1.2-11
 tclust: 1.5-2
-tcpl: 3.0.0
+tcpl: 3.0.1
 tcplfit2: 0.1.3
 tcsinvest: 0.1.1
 td: 0.0.6
@@ -22719,7 +22724,7 @@ tensorregress: '4.0'
 tensorsign: 0.1.0
 tensorsparse: '3.0'
 tensr: 1.0.1
-tergm: 4.1.0
+tergm: 4.1.1
 tergmLite: 2.6.1
 term: 0.3.5
 terminaldigits: 0.1.0
@@ -23049,7 +23054,7 @@ tmvtnsim: 0.1.3
 tnam: '1.6'
 tnet: 3.0.16
 toOrdinal: 1.3-0.0
-toRvik: 1.1.0
+toRvik: 1.1.1
 toaster: 0.5.5
 toastui: 0.2.1
 tobit1: 0.1-3
@@ -23885,7 +23890,7 @@ webdeveloper: 1.0.5
 webdriver: 1.0.6
 webex: 0.9.2
 webexercises: 1.0.0
-webfakes: 1.1.5
+webfakes: 1.1.6
 webglobe: 1.0.3
 webmockr: 0.8.2
 webmorphR: 0.1.1
