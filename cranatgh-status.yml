@@ -331,7 +331,7 @@ BAMMtools: 2.1.10
 BANEScarparkinglite: 0.1.3
 BANFF: '2.0'
 BANOVA: 1.2.1
-BAR: 0.1.0
+BAR: 0.1.1
 BARD: '1.24'
 BAREB: 0.1.0
 BARIS: 1.1.3
@@ -341,7 +341,7 @@ BASIX: '1.2'
 BASS: 1.2.2
 BASiNET: 0.0.5
 BASiNETEntropy: 0.99.5
-BAT: 2.9.0
+BAT: 2.9.2
 BAYESDEF: 0.1.0
 BAYSTAR: 0.2-10
 BAwiR: 1.2.7
@@ -381,7 +381,7 @@ BEANSP: '1.0'
 BED: 1.4.11
 BEDASSLE: '1.6'
 BEDMatrix: 2.0.3
-BEKKs: 1.3.1
+BEKKs: 1.4.0
 BENMMI: 4.3-7
 BEQI2: 2.0-0
 BEST: 0.5.4
@@ -979,7 +979,7 @@ CRTgeeDR: 2.0.1
 CRUF: 0.5.1
 CRWRM: 0.0.1
 CSCDRNA: 1.0.3
-CSCNet: 0.1.1
+CSCNet: 0.1.2
 CSESA: 1.2.0
 CSFA: 1.2.0
 CSGo: 0.6.7
@@ -2451,7 +2451,7 @@ GNAR: 1.1.1
 GNE: 0.99-4
 GNRS: 0.3.4
 GNSSseg: '6.0'
-GOCompare: 1.0.1
+GOCompare: 1.0.2
 GOFSN: '1.0'
 GOFShiny: 0.1.0
 GOGANPA: '1.0'
@@ -4529,7 +4529,7 @@ PALMO: 0.1.2
 PAMA: 1.2.0
 PAMhm: 0.1.2
 PAMmisc: 1.9.5
-PAMpal: 0.16.0
+PAMpal: 0.17.0
 PANDA: 0.9.9
 PANICr: 1.0.0
 PARSE: 0.1.0
@@ -5325,7 +5325,7 @@ RJSONIO: 1.3-1.6
 RJSONLD: '1.0'
 RJSplot: '2.7'
 RJaCGH: 2.0.4
-RJafroc: 2.1.1
+RJafroc: 2.1.2
 RJcluster: 3.2.4
 RKEA: 0.0-6
 RKEAjars: 5.0-4
@@ -6755,7 +6755,7 @@ SpatialRegimes: '1.1'
 SpatialRoMLE: 0.1.0
 SpatialTools: 1.0.4
 SpatialVS: '1.1'
-SpatialVx: '1.0'
+SpatialVx: 1.0-1
 SpatialfdaR: 1.0.0
 SpatioTemporal: 1.1.9
 Spbsampling: 1.3.5
@@ -6940,7 +6940,7 @@ TCIU: 1.2.1
 TDA: 1.8.8
 TDAkit: 0.1.2
 TDAmapper: '1.0'
-TDApplied: 0.1.3
+TDApplied: 2.0.0
 TDAstats: 0.4.1
 TDAvec: 0.1.3
 TDCor: 0.1-2
@@ -7328,7 +7328,7 @@ VDSM: 0.1.1
 VDSPCalibration: '1.0'
 VEwaning: '1.2'
 VEwaningVariant: '1.3'
-VFP: '1.4'
+VFP: 1.4.1
 VFS: 1.0.2
 VGAM: 1.1-7
 VGAMdata: 1.1-6
@@ -12871,7 +12871,7 @@ geojsonR: 1.1.0
 geojsonio: 0.10.0
 geojsonlint: 0.4.0
 geojsonsf: 2.0.3
-geoknife: 1.6.8
+geoknife: 1.6.9
 geomander: 2.1.0
 geomapdata: 2.0-0
 geomaroc: 0.1.1
@@ -12898,7 +12898,7 @@ geosample: 0.2.1
 geosapi: 0.6-4
 geoscale: 2.0.1
 geosed: 0.1.1
-geosimilarity: '1.1'
+geosimilarity: '2.2'
 geospacom: 0.5-8
 geospark: 0.3.1
 geosphere: 1.5-14
@@ -13751,7 +13751,7 @@ helsinki: 1.0.5
 heplots: 1.4-2
 here: 1.0.1
 hereR: 0.9.0
-hergm: 4.1-9
+hergm: 4.1-10
 heritEWAS: 0.2.0
 heritability: '1.3'
 hermite: 1.1.2
@@ -14605,7 +14605,7 @@ jacobi: 2.0.1
 jacpop: '0.6'
 jaggR: 0.1.1
 jagsUI: 1.5.2
-jagshelper: 0.1.9
+jagshelper: 0.1.11
 jagstargets: 1.0.4
 jalcal: 0.1.0
 james.analysis: 1.0.1
@@ -16902,7 +16902,7 @@ ncdf: '1.6'
 ncdf.tools: 0.7.1.295
 ncdf4: '1.19'
 ncdf4.helpers: 0.3-6
-ncdfgeom: 1.1.3
+ncdfgeom: 1.1.4
 ncdump: 0.0.3
 ncf: 1.3-2
 ncg: 0.1.1
@@ -16960,7 +16960,7 @@ netShiny: '1.0'
 netUtils: 0.8.0
 netassoc: 0.7.0
 netchain: 0.2.0
-netcmc: 1.0.1
+netcmc: 1.0.2
 netcoh: '0.2'
 netcom: 2.1.6
 netcontrol: '0.1'
@@ -17391,7 +17391,7 @@ odfWeave.survey: '1.0'
 odin: 1.2.4
 odk: '1.5'
 odkr: 0.2.0
-odns: 1.0.1
+odns: 1.0.2
 odpc: 2.0.5
 odprism: '1.1'
 odr: 1.3.1
@@ -17680,7 +17680,7 @@ owdbr: 1.0.1.1
 owidR: 1.4.0
 owl: 0.1.1
 owmr: 0.8.2
-ows4R: 0.3-1
+ows4R: 0.3-2
 ox: 0.1.0
 oxcAAR: 1.1.1
 oxcgrt: 0.1.0
@@ -17900,7 +17900,7 @@ pathmodelfit: 1.0.5
 pathmox: 0.2.0
 pathological: 0.1-2
 paths: 0.1.1
-pathviewr: 1.1.3
+pathviewr: 1.1.5
 pathwayTMB: 0.1.3
 patientProfilesVis: 2.0.2
 patrick: 0.2.0
@@ -18188,7 +18188,7 @@ photobiologyPlants: 0.4.2
 photobiologySensors: 0.5.0
 photobiologySun: 0.4.1
 photobiologyWavebands: 0.5.0
-photosynthesis: 2.0.3
+photosynthesis: 2.1.0
 phpSerialize: '0.8'
 phrasemachine: 1.1.2
 phreeqc: 3.7.4
@@ -18426,7 +18426,7 @@ pmledecon: 0.2.1
 pmlr: '1.0'
 pmml: 2.5.2
 pmmlTransformations: 1.3.3
-pmparser: 1.0.10
+pmparser: 1.0.11
 pmpp: 0.1.1
 pmr: 1.2.5.1
 pmsampsize: 1.1.2
@@ -19407,7 +19407,7 @@ randomsearch: 0.2.0
 randquotes: 0.1.1
 randstr: 0.2.0
 randtests: 1.0.1
-randtoolbox: 2.0.2
+randtoolbox: 2.0.3
 rangeBuilder: '1.6'
 rangeMapper: 2.0.3
 rangeModelMetadata: 0.1.4
@@ -20980,7 +20980,7 @@ segclust2d: 0.3.0
 segen: 1.1.0
 segmag: 1.2.4
 segmenTier: 0.1.2
-segmented: 1.6-0
+segmented: 1.6-1
 segmentr: 0.2.0
 segmetric: 0.2.0
 segregation: 0.6.0
@@ -23152,7 +23152,7 @@ tramvs: 0.0-2
 tranSurv: 1.2.2
 transPlotR: 0.0.2
 transcribeR: 0.0.0
-transfR: 1.0.0
+transfR: 1.0.1
 transforEmotion: 0.1.1
 transformmos: 0.1.0
 transformr: 0.1.4
