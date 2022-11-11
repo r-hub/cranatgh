@@ -101,7 +101,7 @@ ANTs: 0.0.16
 AOV1R: 0.1.0
 AOfamilies: '1.0'
 APAtree: 1.0.1
-APCI: 1.0.5
+APCI: 1.0.6
 APCanalysis: '1.0'
 APCtools: 1.0.1
 APFr: 1.0.2
@@ -612,7 +612,7 @@ BayesianTools: 0.1.7
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
 Bayesiantreg: '1.0'
-Bayesrel: 0.7.4.4
+Bayesrel: 0.7.4
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
 BcDiag: 1.0.10
@@ -3905,7 +3905,7 @@ MatchLinReg: 0.8.1
 MatchThem: 1.0.1
 Matching: 4.10-8
 MatchingFrontier: 1.0.0
-Matrix: 1.5-1
+Matrix: 1.5-3
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.10.0
 MatrixEQTL: '2.3'
@@ -4434,7 +4434,7 @@ OasisR: 3.0.2
 Observation: 0.3.0
 OceanView: 1.0.6
 OddsPlotty: 1.0.2
-OenoKPM: 0.1.2
+OenoKPM: 2.1.1
 Ohit: 1.0.0
 Ohmage: '2.9'
 OjaNP: 1.0-0
@@ -5672,7 +5672,7 @@ RateDistortion: '1.01'
 RatingScaleReduction: '1.4'
 Ratings: 0.1-2
 RationalExp: 0.2.2
-Ravages: 1.1.0
+Ravages: 1.1.1
 RavenR: 2.2.0
 RawHummus: 0.2.2
 Rbeast: 0.9.5
@@ -8029,7 +8029,7 @@ ardl.nardl: 1.0.1
 areabiplot: 1.0.0
 areal: 0.1.8
 arealDB: 0.3.9
-areaplot: 1.2.2
+areaplot: 1.2.3
 arena2r: 1.0.0
 arenar: 0.2.0
 ares: 0.7.2
@@ -9179,7 +9179,7 @@ cascadess: 0.1.0
 caschrono: '2.2'
 cascsim: '0.4'
 caseMatch: 1.0.8
-casebase: 0.10.1
+casebase: 0.9.1
 casen: 0.2.1
 casino: 0.1.0
 caspar: '1.0'
@@ -9794,6 +9794,7 @@ comclim: 0.9.5
 cometExactTest: 0.1.5
 cometr: 0.2.0
 comf: 0.1.11
+commafree: 0.1.0
 commandr: 1.0.1
 commentr: 1.0.4
 common: 1.0.5
@@ -10466,7 +10467,7 @@ datapack: 1.4.1
 datapackage.r: 1.3.5
 datapasta: 3.1.0
 dataprep: 0.1.5
-dataquieR: 1.0.11
+dataquieR: 1.0.12
 datardis: 0.0.3
 dataresqc: 1.1.0
 datarium: 0.1.0
@@ -11611,7 +11612,7 @@ epuR: '0.1'
 epubr: 0.6.3
 epwshiftr: 0.1.3
 epxToR: 0.4-1
-eq5d: 0.12.0
+eq5d: 0.13.0
 eqn2svg: 0.1.0
 eqs2lavaan: '3.0'
 eqtl: '1.1'
@@ -15579,6 +15580,7 @@ maic: 0.1.4
 maicChecks: 0.1.2
 mail: '1.0'
 mailR: '0.8'
+mailchimpR: 0.1.0
 mailmerge: 0.2.5
 mailtoR: 0.1.0
 majesticR: 0.1.1
@@ -15611,7 +15613,7 @@ manifestoR: 1.5.0
 manifold: 0.1.1
 manipulate: 1.0.1
 manipulateWidget: 0.11.1
-manydata: 0.7.5
+manydata: 0.8.1
 manymodelr: 0.3.7
 manymome: 0.1.6
 maotai: 0.2.4
@@ -17261,7 +17263,7 @@ nparcomp: '3.0'
 nparsurv: 0.1.0
 npbr: '1.7'
 npcopTest: '1.03'
-npcp: 0.2-2
+npcp: 0.2-4
 npcs: 0.1.0
 npcure: 0.1-5
 npde: '3.2'
@@ -17866,7 +17868,7 @@ parsemsf: 0.1.1
 parser: '0.1'
 parsermd: 0.1.2
 parsetools: 0.1.3
-parsnip: 1.0.2
+parsnip: 1.0.3
 parspatstat: 0.1-4
 partDSA: 0.9.14
 partR2: 0.9.1
@@ -19907,7 +19909,7 @@ respirometry: 1.3.0
 responsePatterns: 0.1.0
 restatapi: 0.13.3
 restaurant: 0.1.0
-restez: 2.1.2
+restez: 2.1.3
 restfulr: 0.0.15
 restimizeapi: 1.0.0
 restlos: 0.2-2
@@ -21732,7 +21734,7 @@ spGoogle: 0.1-2
 spMC: 0.3.12
 spMaps: 0.4.0
 spNNGP: 1.0.0
-spNetwork: 0.4.3.2
+spNetwork: 0.4.3.6
 spOccupancy: 0.4.0
 spRingsteen: 0.1.0
 spTDyn: 2.0.1
@@ -21970,7 +21972,7 @@ splutil: 2022.6.20
 spm: 1.2.2
 spm12r: 2.8.3
 spm2: 1.1.2
-spmodel: 0.1.1
+spmodel: 0.2.0
 spmoran: 0.2.2.6
 spnaf: 0.2.1
 spnet: 0.9.1-0
@@ -22218,7 +22220,7 @@ steprf: 1.0.2
 steps: 1.3.0
 stepwise: '0.3'
 stevedata: 0.7.0
-stevedore: 0.9.4
+stevedore: 0.9.5
 stevemisc: 1.4.1
 stevetemplates: 0.8.0
 stfit: 0.99.9
@@ -22233,7 +22235,7 @@ stlARIMA: 0.1.0
 stlELM: 0.1.1
 stlTDNN: 0.1.0
 stlcsb: 0.1.2
-stlnpp: 0.3.8
+stlnpp: 0.3.9
 stlplus: 0.5.1
 stm: 1.3.6
 stmBrowser: '1.0'
