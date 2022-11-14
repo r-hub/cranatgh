@@ -241,7 +241,7 @@ AnglerCreelSurveySimulation: 1.0.2
 Animal: '1.0'
 AnimalAPD: 1.0.0
 AnimalHabitatNetwork: 0.1.0
-AnnoProbe: 0.1.6
+AnnoProbe: 0.1.7
 AnnotLists: '1.2'
 AnnotationBustR: 1.3.0
 AnnuityRIR: 1.0-0
@@ -570,7 +570,7 @@ BayesNI: '0.1'
 BayesNSGP: 0.1.2
 BayesNetBP: 1.6.1
 BayesNetDiscovery: '0.1'
-BayesOrdDesign: 0.1.1
+BayesOrdDesign: 0.1.2
 BayesPPD: 1.1.0
 BayesPanel: 0.1-2
 BayesPen: '1.0'
@@ -835,7 +835,7 @@ CDROM: '1.1'
 CDSeq: 1.0.8
 CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
-CDatanet: 2.0.1
+CDatanet: 2.0.2
 CEAmarkov: 0.1.0
 CEC: 0.9.4
 CEDA: 1.1.0
@@ -10511,6 +10511,7 @@ db.r: 0.1.3
 dbConnect: '1.0'
 dbEmpLikeGOF: 1.2.4
 dbEmpLikeNorm: 1.0.0
+dbGaPCheckup: 1.0.0
 dbMC: 1.0.0
 dbWebForms: 0.1.0
 dbarts: 0.9-22
@@ -13395,7 +13396,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.3.5
-gpboost: 0.7.9
+gpboost: 0.7.10
 gpclib: 1.5-6
 gpg: 1.2.8
 gphmm: 0.99.0
@@ -13587,6 +13588,7 @@ gtWAS: 1.1.0
 gtable: 0.3.1
 gtcorr: 0.2-1
 gte: 1.2-3
+gtfs2emis: 0.1.0
 gtfs2gps: 2.1-0
 gtfsio: 1.0.0
 gtfsrouter: 0.0.5
@@ -13682,7 +13684,7 @@ hapsim: '0.31'
 hardhat: 1.2.0
 harmonicmeanp: '3.0'
 harmonizer: 0.3.0
-harmony: 0.1.0
+harmony: 0.1.1
 harrietr: 0.2.3
 harrypotter: 2.1.1
 harvestr: 0.7.1
@@ -17274,6 +17276,7 @@ npde: '3.2'
 nph: '2.1'
 nphPower: 1.0.0
 nphRCT: 0.1.0
+npi: 0.2.0
 nplplot: '4.6'
 nplr: 0.1-7
 nplyr: 0.1.0
@@ -19297,6 +19300,7 @@ rLiDAR: 0.1.5
 rLindo: 8.0.1
 rMEA: 1.2.2
 rMIDAS: 0.4.1
+rMOST: 0.0.1
 rMR: 1.1.0
 rMVP: 1.0.6
 rMisbeta: '1.0'
@@ -19538,7 +19542,7 @@ rbison: 1.0.0
 rbit: 1.0.0
 rbitcoinchartsapi: 1.0.4
 rblt: 0.2.4.5
-rbmi: 1.2.1
+rbmi: 1.2.3
 rbmn: 0.9-5
 rbokeh: 0.5.2
 rbooster: 1.1.0
@@ -20118,6 +20122,7 @@ rjson: 0.2.21
 rjsonapi: 0.1.0
 rjsoncons: 1.0.0
 rjstat: 0.4.2
+rjtools: 1.0.9
 rjwsacruncher: 0.1.3
 rkafka: '1.4'
 rkafkajars: '1.2'
@@ -22391,7 +22396,7 @@ supercells: 0.9.1
 supercompress: '1.1'
 superdiag: '2.0'
 superheat: 0.1.0
-superml: 0.5.5
+superml: 0.5.6
 supernova: 2.5.3
 superpc: '1.12'
 supervisedPRIM: 2.0.0
@@ -23730,7 +23735,7 @@ viewshed3d: 4.0.0
 viking: 1.0.0
 villager: 1.1.1
 vimcom: 0.9-9
-vimp: 2.2.5
+vimp: 2.3.0
 vimpclust: 0.1.0
 vindecodr: 0.1.1
 vinereg: 0.8.3
