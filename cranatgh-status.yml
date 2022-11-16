@@ -12,7 +12,7 @@ ACA: '1.1'
 ACCLMA: '1.0'
 ACD: '1.5'
 ACDC: 1.0.0
-ACDm: 1.0.4.1
+ACDm: 1.0.4.2
 ACEP: 0.0.21
 ACEsearch: 1.0.0
 ACEsimFit: 0.0.0.9
@@ -835,7 +835,7 @@ CDROM: '1.1'
 CDSeq: 1.0.8
 CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
-CDatanet: 2.0.2
+CDatanet: 2.0.3
 CEAmarkov: 0.1.0
 CEC: 0.9.4
 CEDA: 1.1.0
@@ -939,7 +939,7 @@ COP: '1.0'
 COPASutils: '0.1'
 COR: 0.0.1
 CORE: '3.2'
-CORElearn: 1.57.1
+CORElearn: 1.57.2
 CORM: 1.0.2
 CORREP: 1.18.0
 COSINE: '2.1'
@@ -984,7 +984,7 @@ CSCNet: 0.1.2
 CSESA: 1.2.0
 CSFA: 1.2.0
 CSGo: 0.6.7
-CSHShydRology: 1.2.10
+CSHShydRology: 1.3.0
 CSIndicators: 0.0.2
 CSMES: 1.0.0
 CSS: '1.0'
@@ -2564,7 +2564,7 @@ GenABEL.data: 1.0.0
 GenAlgo: 2.2.0
 GenBinomApps: '1.2'
 GenCAT: 1.0.3
-GenEst: 1.4.6
+GenEst: 1.4.7
 GenForImp: '1.0'
 GenHMM1d: 0.1.0
 GenKern: 1.2-60
@@ -2675,7 +2675,7 @@ GreedyEPL: '1.2'
 GreedyExperimentalDesign: '1.5'
 GreedyExperimentalDesignJARs: '1.0'
 GreedySBTM: '1.0'
-Greg: 2.0.0
+Greg: 2.0.1
 GreyModel: 0.1.0
 Greymodels: '1.0'
 Grid2Polygons: 0.2.1
@@ -2731,7 +2731,7 @@ HDTSA: 1.0.1
 HDclassif: 2.2.0
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
-HDiR: 1.1.2
+HDiR: 1.1.3
 HDoutliers: 1.0.4
 HDtest: '2.1'
 HDtweedie: '1.2'
@@ -2888,7 +2888,7 @@ IBDhaploRtools: '1.8'
 IBDsim: 0.9-8
 IBHM: 1.1-11
 IBMPopSim: 0.3.1
-IBrokers: 0.10-1
+IBrokers: 0.10-2
 IC2: '1.0'
 ICAFF: '1.0'
 ICAMS: 2.3.10
@@ -3899,7 +3899,7 @@ MasterBayes: '2.58'
 MatManlyMix: 1.1.1
 MatSkew: 0.1.5
 MatTransMix: 0.1.9
-MatchIt: 4.4.0
+MatchIt: 4.5.0
 MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
 MatchItSE: '1.0'
@@ -4238,7 +4238,7 @@ NMRS: '1.0'
 NMTox: 0.1.0
 NMVANOVA: 1.1.0
 NMcalc: 0.0.1
-NMdata: 0.0.13
+NMdata: 0.0.14
 NMproject: 0.6.9
 NNLM: 0.4.3
 NNMIS: 1.0.1
@@ -4589,7 +4589,7 @@ PDN: 0.1.0
 PDQutils: 0.1.6
 PDSCE: 1.2.1
 PDShiny: 0.1.0
-PDtoolkit: 0.4.0
+PDtoolkit: 1.0.0
 PEACH: 0.1.1
 PEGroupTesting: '1.0'
 PEIP: 2.2-3
@@ -4778,7 +4778,7 @@ Paneldata: '1.0'
 PantaRhei: 0.1.2
 ParBayesianOptimization: 1.2.6
 ParDNAcopy: '2.0'
-ParallelDSM: 0.3.6
+ParallelDSM: 0.3.7
 ParallelForest: 1.1.0
 ParallelLogger: 3.0.1
 ParallelPC: '1.2'
@@ -5631,7 +5631,7 @@ RaMS: 1.0.0
 RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 3.0.0
-RaceID: 0.2.7
+RaceID: 0.2.8
 RadData: 1.0.1
 RadOnc: 1.1.8
 RadTran: '1.0'
@@ -6024,7 +6024,7 @@ Rnvd3: 1.0.0
 RoBMA: 2.3.1
 RoBSA: 1.0.0
 RoBTT: 1.0.0
-RobAStBase: 1.2.2
+RobAStBase: 1.2.3
 RobAStRDA: 1.2.0
 RobExtremes: 1.2.0
 RobGARCHBoot: 1.2.0
@@ -6170,7 +6170,7 @@ SAMM: 1.1.1
 SAMTx: 0.3.0
 SAMUR: '1.1'
 SAMURAI: 1.2.1
-SAMtool: 1.4.0
+SAMtool: 1.4.1
 SAP: '1.0'
 SAPP: 1.0.8
 SAR: 1.0.3
@@ -6500,7 +6500,7 @@ SampleSizeMeans: '1.1'
 SampleSizeProportions: '1.0'
 SamplerCompare: 1.3.2
 SamplingBigData: 1.0.0
-SamplingStrata: 1.5-3
+SamplingStrata: 1.5-4
 SanFranBeachWater: 0.1.0
 SangerTools: 1.0.2
 SanzCircos: 0.1.0
@@ -6744,7 +6744,7 @@ SpatEntropy: 2.1-1
 SpatMCA: 1.0.2.0
 SpatPCA: 1.3.3.0
 SpatialAcc: 0.1-4
-SpatialBSS: 0.12-0
+SpatialBSS: 0.13-0
 SpatialBall: 0.1.0
 SpatialEpi: 1.2.7
 SpatialEpiApp: '0.3'
@@ -8029,7 +8029,7 @@ archivist.github: 0.2.6
 arcos: '1.27'
 arcpullr: 0.2.7
 arctools: 1.1.6
-ardl.nardl: 1.0.1
+ardl.nardl: 1.0.2
 areabiplot: 1.0.0
 areal: 0.1.8
 arealDB: 0.3.9
@@ -8104,7 +8104,7 @@ aspace: '3.2'
 aspect: 1.0-6
 aspi: 0.2.0
 aspline: 0.2.0
-asremlPlus: 4.3.36
+asremlPlus: 4.3.40
 assemblerr: 0.1.1
 assert: 1.0.1
 assertable: 0.2.8
@@ -8837,7 +8837,7 @@ bmrm: '4.1'
 bmscstan: 1.2.1.0
 bmstdr: 0.3.0
 bnClustOmics: 1.1.1
-bnclassify: 0.4.6
+bnclassify: 0.4.7
 bndovb: '1.1'
 bnlearn: 4.8.1
 bnma: 1.5.0
@@ -9355,7 +9355,7 @@ cgAUC: 1.2.1
 cgaim: 1.0.0
 cgal4h: 0.1.0
 cgalMeshes: 1.0.0
-cgam: '1.19'
+cgam: '1.20'
 cgdsr: 1.3.0
 cggd: '0.8'
 cgh: 1.0-7
@@ -10196,7 +10196,7 @@ crossnma: 1.0.1
 crossrun: 0.1.1
 crosstable: 0.5.0
 crosstalk: 1.2.0
-crosstalkr: 0.8.0
+crosstalkr: 0.9.0
 crossurr: 1.0.6
 crossval: 1.0.4
 crossvalidationCP: 1.0-2
@@ -10222,7 +10222,7 @@ crsra: 0.2.3
 crsuggest: '0.4'
 crtests: 0.2.1
 crul: '1.3'
-crunch: 1.30.0
+crunch: 1.30.1
 crunchy: 0.3.3
 cruts: '1.1'
 cry: 0.5.1
@@ -10613,7 +10613,7 @@ deeplearning: 0.1.0
 deeplr: 2.0.0
 deepnet: 0.2.1
 deepredeff: 0.1.1
-deepregression: '0.2'
+deepregression: '0.3'
 deeptime: 0.3.0
 default: 1.0.0
 define: 0.2.9
@@ -10905,12 +10905,12 @@ distillML: 0.1.0.9
 distillery: 1.2-1
 disto: 0.2.0
 distory: 1.4.4
-distr: 2.9.0
+distr: 2.9.1
 distr6: 1.6.9
 distrDoc: 2.8.1
 distrEllipse: 2.8.1
 distrEx: 2.9.0
-distrMod: 2.8.5
+distrMod: 2.9.0
 distrRmetrics: 2.8.1
 distrSim: 2.8.1
 distrTEst: 2.8.1
@@ -11118,6 +11118,7 @@ dslabs: 0.7.4
 dslice: 1.2.0
 dsm: 2.3.3
 dsmisc: 0.3.3
+dsmmR: 0.0.96
 dsmodels: 1.1.0
 dsos: 0.1.1
 dsr: 0.2.2
@@ -12032,7 +12033,7 @@ fastrmodels: 1.0.2
 fastrtext: 0.3.4
 fastshap: 0.0.7
 fasttime: 1.1-0
-fastverse: 0.2.4
+fastverse: 0.3.0
 fat2Lpoly: 1.2.5
 faux: 1.1.0
 fauxnaif: 0.7.1
@@ -13103,7 +13104,7 @@ ggparty: 1.0.0
 ggpath: 1.0.0
 ggpattern: 1.0.1
 ggperiodic: 1.0.2
-ggpie: 0.2.4
+ggpie: 0.2.5
 ggplot: 0.4.2
 ggplot.multistats: 1.0.0
 ggplot2: 3.4.0
@@ -13120,7 +13121,7 @@ ggpolar: 0.2.2
 ggpolypath: 0.2.0
 ggpp: 0.4.5
 ggprism: 1.0.4
-ggpubr: 0.4.0
+ggpubr: 0.5.0
 ggpval: 0.2.5
 ggquickeda: 0.2.2
 ggquiver: 0.3.2
@@ -13233,7 +13234,7 @@ gld: 2.6.6
 gldist: '2160.2'
 gldrm: '1.5'
 glinternet: 1.0.12
-glinvci: 1.1.18
+glinvci: 1.1.20
 gllm: '0.38'
 gllvm: 1.3.1
 glm.ddR: 0.1.1
@@ -13744,7 +13745,7 @@ healthcareai: 2.5.1
 healthfinance: 0.1.0
 healthforum: 0.1.0
 healthyR: 0.2.0
-healthyR.ai: 0.0.9
+healthyR.ai: 0.0.10
 healthyR.data: 1.0.1
 healthyR.ts: 0.2.4
 healthyverse: 1.0.2
@@ -13776,7 +13777,7 @@ hergm: 4.1-10
 heritEWAS: 0.2.0
 heritability: '1.3'
 hermite: 1.1.2
-hermiter: 2.1.0
+hermiter: 2.2.0
 hero: 0.4.7
 hesim: 0.5.3
 het.test: '0.1'
@@ -14019,7 +14020,7 @@ hydroTSM: 0.6-0
 hydroToolkit: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.9.3
-hydropeak: 0.1.1
+hydropeak: 0.1.2
 hydrorecipes: 0.0.3
 hydroroute: 0.1.1
 hydrosanity: 0.8.76
@@ -14039,7 +14040,7 @@ hypergea: 1.3.6
 hypergeo: 1.2-13
 hyperoverlap: 1.1.1
 hypersampleplan: 0.1.1
-hypervolume: 3.0.4
+hypervolume: 3.1.0
 hyphenatr: 0.3.0
 hypoRF: 1.0.0
 hypoparsr: 0.1.0
@@ -14123,7 +14124,7 @@ ib: 0.2.0
 ibawds: 0.5.0
 ibb: 0.0.2
 ibd: '1.5'
-ibdreg: 0.3.6
+ibdreg: 0.3.8
 ibdsim2: 1.5.0
 ibeemd: '1.0'
 ibelief: 1.3.1
@@ -14439,7 +14440,7 @@ intervalaverage: 0.8.0
 intervals: 0.15.2
 intervcomp: 0.1.2
 interventionalDBN: '1.2'
-inti: 0.5.7
+inti: 0.5.8
 intkrige: 1.0.1
 intmed: 0.1.2
 intoo: 0.4.0
@@ -15364,6 +15365,7 @@ lodi: 0.9.2
 lodplot: '1.1'
 lodr: '1.0'
 loe: '1.1'
+loedata: 1.0.1
 loewesadditivity: 0.1.0
 log: 1.1.1
 log10: 0.1.0-03
@@ -15574,7 +15576,7 @@ madsim: 1.2.1
 mafs: 0.0.3
 magclass: 6.0.9
 magi: 1.2.0
-magic: 1.6-0
+magic: 1.6-1
 magicLamp: 0.1.0
 magicaxis: 2.2.14
 magicfor: 0.1.0
@@ -15687,7 +15689,7 @@ marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
 mark: 0.5.3
-markdown: '1.3'
+markdown: '1.4'
 markdownInput: 0.1.2
 marked: 1.2.6
 markerSearchPower: '1.0'
@@ -15700,7 +15702,7 @@ markophylo: 1.0.8
 markovMSM: 0.1.1
 markovchain: 0.9.0
 marl: '1.0'
-marmap: 1.0.7
+marmap: 1.0.8
 marp: 0.1.0
 marqLevAlg: 2.0.7
 mas: '0.1'
@@ -15730,7 +15732,7 @@ mathpix: 0.5.0
 maticce: 1.0-3
 matie: '1.2'
 matlab: 1.0.4
-matlab2r: 1.2.0
+matlab2r: 1.3.0
 matlabr: 1.5.2
 matlib: 0.9.5
 matman: 1.1.3
@@ -16318,7 +16320,7 @@ mlr3data: 0.6.1
 mlr3db: 0.5.0
 mlr3fairness: 0.3.1
 mlr3filters: 0.6.0
-mlr3fselect: 0.7.2
+mlr3fselect: 0.8.0
 mlr3hyperband: 0.4.3
 mlr3learners: 0.5.5
 mlr3measures: 0.5.0
@@ -16432,7 +16434,7 @@ modelplotr: 1.1.0
 modelr: 0.1.10
 modelsummary: 1.1.0
 modeltests: 0.1.4
-modeltime: 1.2.3
+modeltime: 1.2.4
 modeltime.ensemble: 1.0.2
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.1
@@ -17958,7 +17960,7 @@ paws.networking: 0.1.12
 paws.security.identity: 0.1.12
 paws.storage: 0.1.12
 pbANOVA: 0.1.0
-pbapply: 1.5-0
+pbapply: 1.6-0
 pbatR: 2.2-13
 pbbd: 1.0.0
 pbcc: 0.0.3
@@ -18013,7 +18015,7 @@ pcrcoal: 1.2.0
 pcrsim: 1.0.2
 pcse: 1.9.1.1
 pcsstools: 0.1.1
-pct: 0.9.3
+pct: 0.9.5
 pcts: 0.15.5
 pcurve: 0.6-4
 pdR: '1.8'
@@ -18858,7 +18860,7 @@ provSummarizeR: 1.5.1
 provTraceR: '1.0'
 provViz: 1.0.9
 provenance: '4.0'
-proverbs: 0.1.0
+proverbs: 0.2.0
 proxirr: '0.2'
 proxy: 0.4-27
 proxyC: 0.3.3
@@ -20257,6 +20259,7 @@ robservable: 0.2.2
 robslopes: 1.1.2
 robsurvey: '0.5'
 robumeta: '2.0'
+robusTest: 1.0.0
 robust: 0.7-1
 robust2sls: 0.2.1
 robustBLME: 0.1.3
@@ -20605,7 +20608,7 @@ runonce: 0.2.3
 runstats: 1.1.0
 rusda: 1.0.8
 rusk: 0.1.1
-rust: 1.3.13
+rust: 1.4.0
 ruta: 1.1.0
 rutifier: 1.0.4
 ruv: 0.9.7.1
@@ -20877,7 +20880,7 @@ schoenberg: 2.0.2
 scholar: 0.2.4
 schoolmath: 0.4.1
 schrute: 1.0.1
-schtools: 0.3.0
+schtools: 0.3.1
 schumaker: 1.2.1
 schwartz97: 0.0.6
 sciRmdTheme: '0.1'
@@ -21086,7 +21089,7 @@ sensitivitymult: 1.0.2
 sensitivitymv: 1.4.3
 sensitivitymw: '2.1'
 sensmediation: 0.3.0
-sensobol: 1.1.1
+sensobol: 1.1.2
 sensors4plumes: '0.9'
 sensory: '1.1'
 senstrat: 1.0.3
@@ -22451,7 +22454,7 @@ survSens: 0.1.0
 survSpearman: 1.0.1
 survcomp: 1.1.6
 surveil: 0.2.1
-surveillance: 1.20.1
+surveillance: 1.20.3
 survex: 0.1.1
 survexp.fr: '1.1'
 survey: 4.1-1
@@ -22635,6 +22638,7 @@ tableschema.r: 1.1.2
 tablesgg: 0.8-1
 tablet: 0.5.8
 tabnet: 0.3.0
+taboolaR: 0.1.0
 tabplot: '1.3'
 tabplotGTK: '0.6'
 tabplotd3: 0.3.3
@@ -22891,7 +22895,7 @@ tibbrConnector: 1.5.1
 tictactoe: 0.2.2
 tictoc: '1.1'
 tidyBF: 0.5.1
-tidyBdE: 0.3.0
+tidyBdE: 0.3.1
 tidyCDISC: 0.1.0
 tidyCpp: 0.0.6
 tidyEmoji: 0.1.0
@@ -22945,7 +22949,7 @@ tidyplus: 0.0.1
 tidypmc: '1.7'
 tidyposterior: 1.0.0
 tidypredict: 0.4.9
-tidyquant: 1.0.5
+tidyquant: 1.0.6
 tidyquery: 0.2.3
 tidyqwi: 0.1.2
 tidyr: 1.2.1
@@ -23114,7 +23118,7 @@ topdowntimeratio: 0.1.0
 topicdoc: 0.1.1
 topicmodels: 0.2-12
 topicmodels.etm: 0.1.0
-topmodel: 0.7.4
+topmodel: 0.7.5
 topoDistance: 1.0.2
 topologyGSA: 1.4.7
 topr: 1.1.1
@@ -23359,7 +23363,7 @@ tswge: 2.0.0
 tsxtreme: 0.3.3
 ttScreening: '1.6'
 ttTensor: 1.0.1
-ttbary: 0.3-0
+ttbary: 0.3-1
 ttbbeer: 1.1.0
 ttcg: 1.0.1
 ttdo: 0.0.8
@@ -23418,7 +23422,7 @@ twitteR: 1.1.9
 twitteradsR: 0.1.0
 twitterwidget: 0.1.1
 twl: '1.0'
-twn: 0.2.2
+twn: 0.2.3
 two.stage.boot: '1.0'
 twoStageGwasPower: 0.99.0
 twopartm: 0.1.0
@@ -23682,7 +23686,7 @@ vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.1.0
 vcrpart: 1.0-4
-vctrs: 0.5.0
+vctrs: 0.5.1
 vcvComp: 1.0.2
 vdar: 0.1.3-2
 vdg: 1.2.2
@@ -24071,7 +24075,7 @@ wordsalad: 0.2.0
 wordspace: 0.2-8
 workboots: 0.2.0
 workflowr: 1.7.0
-workflows: 1.1.0
+workflows: 1.1.2
 workflowsets: 1.0.0
 workloopR: 1.1.4
 worldfootballR: 0.6.1
