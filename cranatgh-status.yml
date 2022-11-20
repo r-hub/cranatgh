@@ -218,7 +218,7 @@ AlphaHull3D: 1.1.0
 AlphaPart: 0.9.8
 AlphaSimR: 1.3.2
 AlphaVantageClient: 0.0.1
-Amelia: 1.8.0
+Amelia: 1.8.1
 AmericanCallOpt: '0.95'
 AmesHousing: 0.0.4
 AmigaFFH: 0.4.1
@@ -649,7 +649,7 @@ BiasedUrn: 2.0.8
 BibPlots: 0.0.8
 BifactorIndicesCalculator: 0.2.2
 BigDataStatMeth: 0.99.32
-BigQuic: 1.1-11
+BigQuic: 1.1-13
 BigSEM: '0.2'
 BigTSP: '1.0'
 BigVAR: 1.1.1
@@ -2652,7 +2652,7 @@ GlobalFit: '1.2'
 GlobalOptions: 0.1.2
 GmAMisc: 1.2.1
 Gmedian: 1.2.7
-Gmisc: 3.0.0
+Gmisc: 3.0.1
 GmptzCurve: 0.1.0
 GoFKernel: 2.1-1
 GofCens: '0.92'
@@ -3029,7 +3029,7 @@ ISDA.R: '1.0'
 ISEtools: 3.2.0
 ISIPTA: 0.1-8
 ISLR: '1.4'
-ISLR2: 1.3-1
+ISLR2: 1.3-2
 ISM: 0.1.0
 ISOcodes: 2022.09.29
 ISOpureR: 1.1.3
@@ -3692,7 +3692,7 @@ MKMeans: '2.1'
 MKclass: '0.3'
 MKdescr: '0.8'
 MKinfer: '0.9'
-MKmisc: '1.8'
+MKmisc: '1.9'
 MKomics: '0.7'
 MKpower: '0.5'
 ML.MSBD: 1.2.1
@@ -7817,7 +7817,7 @@ airports: 0.1.0
 airqualityES: 1.0.0
 airr: 1.4.1
 airt: 0.2.1
-aisoph: '0.1'
+aisoph: '0.2'
 ajv: 1.0.0
 akc: 0.9.8.1
 akiFlagger: 0.3.0
@@ -8213,7 +8213,7 @@ autocogs: 0.1.4
 autoencoder: '1.1'
 autoharp: 0.0.10
 autohd: 0.1.0
-autohrf: 1.0.4
+autohrf: 1.1.0
 autoimage: 2.2.3
 autokeras: 1.0.12
 automagic: 0.5.1
@@ -9318,7 +9318,7 @@ cenROC: 1.2.0
 censCov: 1.0-0
 censNID: 0-0-1
 censReg: 0.5-36
-censable: 0.0.3
+censable: 0.0.5
 censo2017: 0.6.1
 censorcopula: '2.0'
 censored: 0.1.1
@@ -10496,7 +10496,7 @@ datautils: 0.1.5
 dataverse: 0.3.11
 dataversionr: 0.9.0
 dataview: 2.1.1
-datawizard: 0.6.3
+datawizard: 0.6.4
 datazoom.amazonia: 0.3.0
 date: 1.2-40
 datefixR: 1.3.1
@@ -13169,7 +13169,7 @@ ggsurvey: 1.0.0
 ggsurvfit: 0.2.0
 ggswissmaps: 0.1.1
 ggtea: 0.1.1
-ggtern: 3.3.5
+ggtern: 3.4.0
 ggtext: 0.1.2
 ggthemes: 4.2.4
 ggtikz: 0.1.1
@@ -14565,7 +14565,7 @@ isodistrreg: 0.1.0
 isogeochem: 1.1.0
 isokernel: 0.1.0
 isoorbi: 1.0.0
-isopam: 0.9-9
+isopam: 1.0.0
 isopat: '1.0'
 isoph: '1.1'
 isoreader: 1.3.2
@@ -15529,7 +15529,7 @@ lvmcomp: '1.2'
 lvmisc: 0.1.1
 lvnet: 0.3.5
 lvplot: 0.2.1
-lwgeom: 0.2-9
+lwgeom: 0.2-10
 lwqs: 0.5.0
 lxb: '1.5'
 lymphclon: 1.3.0
@@ -16264,7 +16264,7 @@ mixlm: 1.2.6
 mixlow: 1.0.1
 mixmeta: 1.2.0
 mixnet: '0.1'
-mixopt: 0.1.0
+mixopt: 0.1.1
 mixor: 1.0.4
 mixpack: 0.3.6
 mixpoissonreg: 1.0.0
@@ -16281,7 +16281,7 @@ mixture: 2.0.5
 mize: 0.2.4
 mizer: 2.3.1
 mkde: '0.1'
-mkin: 1.2.0
+mkin: 1.2.1
 mknapsack: 0.1.0
 mkssd: '1.2'
 mlCopulaSelection: '1.3'
@@ -16346,7 +16346,7 @@ mlr3spatial: 0.3.0
 mlr3spatiotempcv: 2.0.3
 mlr3tuning: 0.17.0
 mlr3tuningspaces: 0.3.1
-mlr3verse: 0.2.6
+mlr3verse: 0.2.7
 mlr3viz: 0.5.10
 mlrCPO: 0.3.7-6
 mlrMBO: 1.1.5.1
@@ -18234,7 +18234,7 @@ photobiologyPlants: 0.4.2
 photobiologySensors: 0.5.0
 photobiologySun: 0.4.1
 photobiologyWavebands: 0.5.0
-photosynthesis: 2.1.0
+photosynthesis: 2.1.1
 phpSerialize: '0.8'
 phrasemachine: 1.1.2
 phreeqc: 3.7.4
@@ -19095,7 +19095,7 @@ qrandom: 1.2.6
 qrcm: '3.0'
 qrcmNL: 0.1.0
 qrcmNP: 0.2.0
-qrcode: 0.1.4
+qrcode: 0.2.0
 qrencoder: 0.1.0
 qrfactor: '1.4'
 qris: 1.0.0
@@ -19457,7 +19457,7 @@ randquotes: 0.1.1
 randstr: 0.2.0
 randtests: 1.0.1
 randtoolbox: 2.0.3
-rangeBuilder: '1.6'
+rangeBuilder: '2.0'
 rangeMapper: 2.0.3
 rangeModelMetadata: 0.1.4
 rangemap: 0.1.18
@@ -20319,7 +20319,7 @@ rodd: 0.2-1
 rodeo: 0.7.7
 rodham: 0.1.1
 rofanova: 1.0.0
-roger: 1.3-0
+roger: 1.3-1
 roistats: 0.1.1
 rolasized: '1.0'
 roll: 1.1.6
@@ -20805,7 +20805,7 @@ sas7bdat: '0.6'
 sasLM: 0.9.3
 sasMap: 1.0.0
 sasfunclust: 1.0.0
-sass: 0.4.2
+sass: 0.4.3
 sassy: 1.0.8
 sate: 1.1.0
 satellite: 1.0.4
@@ -21517,12 +21517,12 @@ sitsfeats: 0.0.1
 sivipm: 1.1-4
 sivs: 0.2.5
 sizeMat: 1.1.2
-sjPlot: 2.8.11
+sjPlot: 2.8.12
 sjSDM: 1.0.3
 sjdbc: 1.6.1
 sjlabelled: 1.2.0
 sjmisc: 2.8.9
-sjstats: 0.18.1
+sjstats: 0.18.2
 sjtable2df: 0.0.2
 skatMeta: 1.4.3
 skater: 0.1.1
@@ -23238,7 +23238,7 @@ treeClust: 1.1-7
 treeDA: 0.0.5
 treeHFM: 1.0.3
 treeHMM: 0.1.1
-treePlotArea: 1.3.0
+treePlotArea: 1.3.1
 treebalance: 1.1.0
 treebase: 0.1.4
 treeclim: 2.0.6.0
