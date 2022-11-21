@@ -171,6 +171,7 @@ AcousticNDLCodeR: 1.0.2
 AcrossTic: 1.0-3
 ActCR: 0.3.0
 ActFrag: 0.1.1
+ActiSleep: 0.2.1
 Actigraphy: 1.4.0
 ActisoftR: 0.0.2
 ActiveDriver: 1.0.0
@@ -420,7 +421,7 @@ BIOMASS: 2.1.8
 BIOdry: '0.9'
 BIPOD: 0.2.1
 BIRDS: 0.2.0
-BIS: 0.2.1
+BIS: 0.3.1
 BISdata: 0.2-1
 BKPC: '1.0'
 BLCOP: 0.3.3
@@ -1451,7 +1452,7 @@ DIME: 1.3.0
 DIMORA: 0.3.1
 DIRECT: 1.0.1
 DISTRIB: '1.0'
-DIZtools: 0.0.5
+DIZtools: 0.0.6
 DIZutils: 0.1.1
 DIconvex: 1.0.0
 DImodels: '1.1'
@@ -4595,6 +4596,7 @@ PDShiny: 0.1.0
 PDtoolkit: 1.0.0
 PEACH: 0.1.1
 PEGroupTesting: '1.0'
+PEIMAN2: 0.1.0
 PEIP: 2.2-3
 PELVIS: 2.0.3
 PEMM: '1.0'
@@ -5038,7 +5040,7 @@ QQperm: 1.0.1
 QR: 0.1.3
 QRAGadget: 0.1.0
 QRFCCA: '1.0'
-QRISK3: 0.3.0
+QRISK3: 0.4.0
 QRIpkg: 0.2.2
 QRM: 0.4-31
 QRMlib: '1.4'
@@ -5787,7 +5789,7 @@ RcppCGAL: 5.4.1
 RcppCNPy: 0.2.11
 RcppCWB: 0.5.4
 RcppCensSpatial: 0.3.0
-RcppClassic: 0.9.12
+RcppClassic: 0.9.13
 RcppClassicExamples: 0.1.2
 RcppClock: '1.1'
 RcppColors: 0.1.1
@@ -6685,7 +6687,7 @@ SnakeCharmR: 1.0.7
 SnakesAndLaddersAnalysis: 2.1.0
 Snowball: 0.0-9
 SnowballC: 0.7.0
-SoDA: 1.0-6.1
+SoDA: 1.0-6
 SoPhy: 1.0.40
 SobolSequence: '1.0'
 SocEpi: 1.0.0
@@ -6714,7 +6716,7 @@ SortedEffects: 1.7.0
 SoundShape: 1.2.1
 SoundexBR: '1.2'
 SoupX: 1.6.2
-SourceSet: 0.1.3
+SourceSet: 0.1.5
 SoyNAM: 1.6.2
 SoyURT: 1.0.0
 SpATS: 1.0-18
@@ -6979,7 +6981,7 @@ TGUICore: 0.9.9
 TGUITeaching: 0.9.9
 TH.data: 1.1-1
 TIGERr: 1.0.0
-TIMP: 1.13.2
+TIMP: '1.9'
 TITAN2: 2.4.1
 TInPosition: 0.13.6
 TKCat: 1.0.6
@@ -8090,7 +8092,7 @@ asbio: 1.8-3
 ascentTraining: 1.0.0
 ascii: '2.4'
 asciiSetupReader: 2.4.0
-asciicast: 2.2.0
+asciicast: 2.2.1
 asciichartr: 0.1.0
 asciiruler: '0.2'
 ascotraceR: 0.0.1
@@ -9376,6 +9378,7 @@ ch: 0.1.0.2
 chameleon: 0.2-3
 chandwich: 1.1.5
 changeLOS: '2.1'
+changeRangeR: 1.0.0
 changedetection: 0.2.0
 changepoint: 2.2.4
 changepoint.geo: 1.0.1
@@ -10256,7 +10259,7 @@ cstar: '1.0'
 csurvey: '1.4'
 csv: 0.6.2
 csvread: 1.2.1
-csvwr: 0.1.6
+csvwr: 0.1.7
 csvy: 0.3.0
 ctDNAtools: 0.4.0
 cta: 1.3.0
@@ -10312,7 +10315,7 @@ cursory: 1.0.0
 cursr: 0.1.0
 curstatCI: 0.1.1
 curtailment: 0.2.0
-curvHDR: 1.2-1
+curvHDR: 1.2-1.1
 curvclust: 0.0.1
 curveDepth: 0.1.0.9
 curvecomp: 0.1.0
@@ -10529,7 +10532,7 @@ dbfaker: 0.1.0
 dbflobr: 0.2.2
 dbglm: 1.0.0
 dbhydroR: 0.2-8
-dblcens: 1.1.7
+dblcens: '1.1'
 dblr: 0.1.0
 dbmss: 2.7-11
 dbnR: 0.7.8
@@ -11377,7 +11380,7 @@ edina: 0.1.1
 editData: 0.1.8
 editrules: 2.9.3
 edl: '1.1'
-edlibR: 1.0.0
+edlibR: 1.0.1
 edmcr: 0.2.0
 edmdata: 1.2.0
 edmr: 0.6.3
@@ -12388,6 +12391,7 @@ foretell: 0.2.0
 forge: 0.2.0
 fork: 1.2.4
 formatR: '1.12'
+formatdown: 0.1.1
 formattable: 0.2.1
 formatters: 0.3.2
 formula.tools: 1.7.1
@@ -12542,7 +12546,7 @@ functional: '0.6'
 functiondepends: 0.2.3
 functools: 0.2.0
 funcy: 1.0.1
-fundiversity: 1.0.0
+fundiversity: 1.1.1
 funest: 0.0.1.3
 funfits: 2.0-3
 fungible: 2.2.2
@@ -12894,7 +12898,7 @@ geofi: 1.0.7
 geogenr: 1.0.0
 geogrid: 0.1.1
 geohash: 0.3.0
-geohashTools: 0.3.1
+geohashTools: 0.3.2
 geojson: 0.3.4
 geojsonR: 1.1.0
 geojsonio: 0.10.0
@@ -13057,7 +13061,7 @@ ggfocus: 1.0.0
 ggforce: 0.4.1
 ggformula: 0.10.2
 ggfortify: 0.4.15
-ggfun: 0.0.8
+ggfun: 0.0.9
 ggfx: 1.0.1
 gggap: 1.0.1
 gggenes: 0.4.1
@@ -13776,6 +13780,7 @@ helda: 1.1.5
 helixvis: 1.0.1
 hellno: 0.0.1
 helloJavaWorld: 0.0-9
+hellorust: 1.0.0
 helminthR: 1.0.9
 helpr: '0.1'
 helsinki: 1.0.5
@@ -13873,6 +13878,7 @@ histogram: 0.0-25
 historicalborrow: 1.0.4
 historicalborrowlong: 0.0.5
 historydata: '0.1'
+histoslider: '0.1'
 histry: 0.2.4
 hit: 0.4.0
 hitandrun: 0.5-6
@@ -14204,7 +14210,7 @@ idiogramFISH: 2.0.9
 idm: 1.8.3
 idmTPreg: '1.1'
 idmodelr: 0.4.0
-idopNetwork: 0.1.0
+idopNetwork: 0.1.1
 idr: '1.3'
 ids: 1.0.1
 idx2r: 1.0.0
@@ -15047,6 +15053,7 @@ lax: 1.2.0
 layer: 0.0.1
 lazy: 1.2-18
 lazyData: 1.1.0
+lazyNumbers: 1.2.0
 lazyWeave: 3.0.2
 lazyarray: 1.1.0
 lazybar: 0.1.0
@@ -16034,7 +16041,7 @@ meteoland: 1.0.3
 meteor: 0.3-4
 meteorits: 0.1.1
 meteospain: 0.0.4
-metevalue: 0.1.10
+metevalue: 0.1.13
 methcon5: 0.1.0
 metools: 1.0.0
 metricTester: 1.3.6
@@ -16318,7 +16325,7 @@ mlmm: 1.5.0
 mlmm.gwas: 1.0.6
 mlmmm: 0.3-1.2
 mlmtools: 1.0.2
-mlmts: 1.0.1
+mlmts: 1.1.0
 mlogit: 1.1-1
 mlogitBMA: 0.1-7
 mlpack: 4.0.0
@@ -17855,7 +17862,7 @@ paperplanes: 0.0.1.9
 papply: '0.1'
 parSim: 0.1.4
 parade: '0.1'
-paradox: 0.10.0
+paradox: 0.11.0
 parallelDist: 0.2.6
 parallelMCMCcombine: '2.0'
 parallelML: '1.2'
@@ -17865,7 +17872,7 @@ parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
 parallelly: 1.32.1
 param6: 0.2.4
-paramGUI: 2.1.4
+paramGUI: '2.1'
 parameters: 0.19.0
 paramhetero: 1.0.0
 paramlink: 1.1-5
@@ -18775,6 +18782,7 @@ prioritylasso: 0.2.5
 prism: 0.2.0
 prismadiagramR: 1.0.0
 prismatic: 1.1.1
+prismjs: 1.0.0
 prisonbrief: 0.1.2
 prithulib: 1.0.2
 prnsamplr: 0.2.1
@@ -18970,7 +18978,7 @@ pumilioR: 1.3.1
 puniform: 0.2.5
 pureseqtmr: '1.2'
 purge: 0.2.1
-purgeR: '1.5'
+purgeR: '1.6'
 purging: 1.0.0
 purrr: 0.3.5
 purrrlyr: 0.0.8
@@ -19581,7 +19589,7 @@ rcage: '1.2'
 rcaiman: 1.0.8
 rcane: '1.0'
 rcanvec: 0.2.1
-rcarbon: 1.4.4
+rcarbon: 1.5.0
 rcartocolor: 2.0.0
 rcbalance: 1.8.8
 rcbayes: 0.2.0
@@ -20550,7 +20558,7 @@ rsurfer: '0.2'
 rsurveycto: 0.1.2
 rsvd: 1.0.5
 rsvddpd: 1.0.0
-rsvg: 2.3.2
+rsvg: 2.4.0
 rswipl: 8.5.20
 rsyncrosim: 1.4.2
 rsyntax: 0.1.4
@@ -20907,6 +20915,7 @@ scifigure: '0.2'
 scio: 0.9.0
 sciplot: 1.2-0
 scipub: 1.2.2
+scistreer: 1.0.0
 sclero: '0.2'
 sclr: 0.3.1
 scmamp: '0.2'
@@ -21276,7 +21285,7 @@ shinySIR: 0.1.2
 shinySearchbar: 1.0.0
 shinySelect: 1.3.0
 shinyShortcut: 0.1.0
-shinyStorePlus: '0.7'
+shinyStorePlus: '0.8'
 shinyTempSignal: 0.0.3
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
@@ -22166,7 +22175,7 @@ starma: '1.3'
 starmie: 0.1.2
 starnet: 0.0.6
 starry: 0.1.1
-stars: 0.5-6
+stars: 0.6-0
 starsExtra: 0.2.7
 starsTileServer: 0.1.1
 starschemar: 1.2.0
@@ -22493,7 +22502,7 @@ survival5: '2.4'
 survival666: '0.5'
 survivalAnalysis: 0.3.0
 survivalBIV: '1.3'
-survivalMPL: 0.2-2
+survivalMPL: 0.2-3
 survivalMPLdc: 0.1.1
 survivalREC: '1.0'
 survivalROC: 1.0.3
@@ -23620,6 +23629,7 @@ uwo4419: 0.3.0
 uwot: 0.1.14
 uxr: 0.1.2
 vICC: 1.0.0
+vMF: 0.0.1
 vMask: '1.0'
 vabayelMix: '0.3'
 vacem: 0.1-1
