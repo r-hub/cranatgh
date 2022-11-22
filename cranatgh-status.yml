@@ -956,7 +956,7 @@ CPAT: 0.1.0
 CPBayes: 1.1.0
 CPC: 2.3.0
 CPE: 1.5.2
-CPGLIB: 1.1.0
+CPGLIB: 1.1.1
 CPGchron: '1.1'
 CPHshape: '1.0'
 CPMCGLM: '1.2'
@@ -2536,7 +2536,7 @@ GWAF: '2.2'
 GWASExactHW: '1.01'
 GWASbyCluster: 0.1.7
 GWASinlps: '2.1'
-GWASinspector: 1.5.7.2
+GWASinspector: 1.6.0
 GWAtoolbox: 2.2.4
 GWEX: 1.0.2
 GWG: '1.0'
@@ -4721,7 +4721,7 @@ PSAgraphics: 2.1.1.2
 PSCBS: 0.66.0
 PSCN: '1.0'
 PSF: '0.5'
-PSGD: 1.0.1
+PSGD: 1.0.2
 PSGExpress: '3.1'
 PSIMEX: '1.1'
 PSLM2015: 0.2.0
@@ -6788,7 +6788,7 @@ SphericalK: '1.2'
 SpiceFP: 0.1.1
 Spillover: '0.1'
 Splinets: 1.0.0
-SplitGLM: 1.0.4
+SplitGLM: 1.0.5
 SplitKnockoff: '1.2'
 SplitReg: 1.0.2
 SplitSoftening: 2.1-0
@@ -8810,7 +8810,7 @@ blockcpd: 1.0.0
 blockingChallenge: '1.0'
 blocklength: 0.1.5
 blockmatrix: '1.0'
-blockmodeling: 1.1.3
+blockmodeling: 1.1.4
 blockmodels: 1.1.5
 blockrand: '1.5'
 blocksdesign: '4.9'
@@ -8876,7 +8876,7 @@ boost: 1.0-0
 boostSeq: '1.0'
 boostmtree: 1.5.1
 boostr: 1.0.0
-boot: 1.3-28
+boot: 1.3-28.1
 boot.heterogeneity: 1.1.5
 boot.pval: '0.4'
 bootCT: 1.1.1
@@ -8949,7 +8949,7 @@ brea: 0.2.0
 bread: 0.3.1
 breakDown: 0.2.1
 breakage: 1.1-1
-breakaway: 4.8.2
+breakaway: 4.8.4
 breakfast: '2.3'
 breakpoint: '1.2'
 breathtestcore: 0.8.4
@@ -10624,7 +10624,7 @@ deepnet: 0.2.1
 deepredeff: 0.1.1
 deepregression: '0.3'
 deeptime: 0.3.0
-deeptrafo: '0.1'
+deeptrafo: 0.1-1
 default: 1.0.0
 define: 0.2.9
 defineR: 0.0.4
@@ -11372,7 +11372,7 @@ edgar: 2.0.5
 edgarWebR: 1.1.0
 edgeCorr: '1.0'
 edgeRun: 1.0.9
-edgebundle: 0.4.0
+edgebundle: 0.4.1
 edgebundleR: 0.1.4
 edgedata: 0.2.0
 edibble: 0.1.2
@@ -11705,6 +11705,7 @@ estout: '1.2'
 estprod: '1.2'
 estudy2: 0.9.3
 esvis: 0.3.1
+et.nwfva: 0.1.1
 etable: 1.3.1
 etasFLP: 2.2.0
 ether: 0.1.6
@@ -12130,6 +12131,7 @@ fence: '1.0'
 fergm: 1.1.4
 fermicatsR: '1.4'
 ferrn: 0.0.2
+fetchGoogleAnalyticsR: 0.1.0
 fetchR: 2.1-1
 fetchSalesforceR: 0.1.0
 ff: 4.0.7
@@ -12264,6 +12266,7 @@ flars: '1.0'
 flashCard: 0.1.0
 flashClust: 1.01-2
 flashlight: 0.8.0
+flashr: 0.1.0
 flatness: 0.1.4
 flatr: 0.1.1
 flattabler: 1.2.0
@@ -12578,7 +12581,7 @@ future.BatchJobs: 0.17.0
 future.apply: 1.10.0
 future.batchtools: 0.10.0
 future.callr: 0.8.0
-future.tests: 0.3.0
+future.tests: 0.4.0
 futureheatwaves: 1.0.3
 fuzzr: 0.2.2
 fuzzyFDR: '1.0'
@@ -13852,7 +13855,7 @@ highlight: 0.5.0
 highlightHTML: 0.2.5
 highmean: '3.0'
 highr: '0.9'
-highriskzone: 1.4.7
+highriskzone: 1.4.8
 highs: 0.1-4
 higlasso: 0.9.0
 higrad: 0.1.0
@@ -14871,7 +14874,7 @@ klin: '2007-02-05'
 klsh: 0.1.0
 klustR: 0.1.0
 km.ci: 0.5-6
-kmc: 0.2-4
+kmc: 0.4-2
 kmconfband: '0.1'
 kmcudaR: 1.1.0
 kmeRs: 1.1.0
@@ -14977,7 +14980,7 @@ lacm: 0.1.1
 lacrmr: 1.0.5
 lactater: 0.1.1
 lactcurves: 1.1.0
-lacunaritycovariance: 1.1-3
+lacunaritycovariance: 1.1-4
 laeken: 0.5.2
 laercio: 1.0-1
 lagged: 0.3.2
@@ -16763,7 +16766,7 @@ multinets: 0.2.2
 multinma: 0.5.0
 multinomRob: 1.8-6
 multinomialLogitMix: '1.0'
-multinomineq: 0.2.4
+multinomineq: 0.2.5
 multiocc: 0.1.0
 multipanelfigure: 2.1.2
 multipleNCC: 1.2-2
@@ -16918,7 +16921,7 @@ naptanr: 1.0.1
 naptime: 1.3.0
 nardl: 0.1.6
 narray: 0.5.1
-naryn: 2.6.9
+naryn: 2.6.12
 nasadata: 0.9.0
 nasapower: 4.0.8
 nasaweather: '0.1'
@@ -17499,6 +17502,7 @@ onelogin: 0.2.0
 onemap: 2.8.2
 onemapsgapi: 1.0.0
 onepass: 0.1.2
+onetime: 0.1.0
 onewaytests: '2.6'
 onion: 1.5-0
 onlineBcp: 0.1.8
@@ -17660,7 +17664,7 @@ ore: 1.7.2.1
 oreo: '1.0'
 ores: 0.3.2
 orf: 0.1.4
-org: 2022.7.21
+org: 2022.11.23
 orgR: 0.9.0
 organizr: 0.1.0
 orgutils: 0.4-1
@@ -17778,7 +17782,7 @@ packagedocs: 0.4.0
 packagefinder: 0.3.3
 packager: 1.9.0
 packagetrackr: 0.1.1
-packcircles: 0.3.4
+packcircles: 0.3.5
 packdep: 0.3.1
 packer: 0.1.3
 packrat: 0.8.1
@@ -18945,7 +18949,7 @@ psyntur: 0.1.0
 psyosphere: 0.1.6
 psyphy: 0.2-3
 psytabs: '1.0'
-psyverse: 0.1.0
+psyverse: 0.2.4
 pt: '1.0'
 pterrace: '1.0'
 ptest: 1.0-8
@@ -21781,7 +21785,7 @@ spNNGP: 1.0.0
 spNetwork: 0.4.3.6
 spOccupancy: 0.5.0
 spRingsteen: 0.1.0
-spTDyn: 2.0.1
+spTDyn: 2.0.2
 spTest: 0.2.5
 spThin: 0.2.0
 spTimer: 3.3.2
@@ -21913,6 +21917,7 @@ spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
 spdep: 1.2-7
+spdl: 0.0.1
 spdownscale: 0.1.0
 spdplyr: 0.4.0
 spduration: 0.17.1
@@ -22066,7 +22071,7 @@ spsmooth: 1.1-3
 spssDDI: '0.1'
 spsur: 1.0.2.5
 spsurv: 1.0.0
-spsurvey: 5.3.0
+spsurvey: 5.4.0
 spt: 2.5.1
 sptemExp: 0.1.4
 sptests: 0.1-4
@@ -22255,7 +22260,7 @@ stencilaschema: 1.0.0
 stepPenal: '0.2'
 stepPlr: '0.93'
 stepR: 2.1-3
-stepSplitReg: 1.0.2
+stepSplitReg: 1.0.3
 stepdownfdp: 1.0.0
 stepgbm: 1.0.0
 stepjglm: 0.0.1
@@ -22925,6 +22930,7 @@ tidyBF: 0.5.1
 tidyBdE: 0.3.1
 tidyCDISC: 0.1.0
 tidyCpp: 0.0.6
+tidyDisasters: 0.1.1
 tidyEmoji: 0.1.0
 tidyHeatmap: 1.8.1
 tidyLPA: 1.1.0
@@ -23221,7 +23227,7 @@ tramvs: 0.0-3
 tranSurv: 1.2.2
 transPlotR: 0.0.2
 transcribeR: 0.0.0
-transfR: 1.0.1
+transfR: 1.0.2
 transforEmotion: 0.1.1
 transformmos: 0.1.0
 transformr: 0.1.4
