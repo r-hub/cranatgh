@@ -86,7 +86,7 @@ AMIAS: 1.1.0
 AMModels: 0.1.4
 AMOEBA: '1.1'
 AMORE: 0.2-9
-AMPLE: 1.0.0
+AMPLE: 1.0.1
 AMR: 1.8.2
 ANLP: '1.3'
 ANN: '0.1'
@@ -599,7 +599,7 @@ BayesTree: 0.3-1.4
 BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
 BayesValidate: '0.0'
-BayesVarSel: 2.0.1
+BayesVarSel: 2.2.3
 BayesX: 0.3-1.1
 BayesXsrc: 3.0-3
 BayesianAnimalTracker: '1.2'
@@ -2387,7 +2387,7 @@ GERGM: 0.7.4
 GESE: 2.0.1
 GESTr: '0.1'
 GET: 0.3-2
-GETdesigns: 1.0.0
+GETdesigns: 1.1.0
 GEVACO: 1.0.1
 GEVStableGarch: '1.1'
 GEVcdn: 1.1.6-2
@@ -2558,7 +2558,7 @@ GameTheoryAllocation: '1.0'
 GammaTest: '2.1'
 Gammareg: '3.0'
 GapAnalysis: 1.0.2
-GauPro: 0.2.5
+GauPro: 0.2.6
 GaussSuppression: 0.5.0
 GaussianHMM1d: 1.0.1
 GeDS: 0.1.3
@@ -2989,7 +2989,7 @@ INSPIRE: '1.5'
 INTRIGUE: 0.1.0
 IOHanalyzer: 0.1.6.3
 IOHexperimenter: 0.1.4
-IOLS: 0.1.0
+IOLS: 0.1.1
 IP: '0.1'
 IPCAPS: 1.1.8
 IPCWK: '1.0'
@@ -5216,7 +5216,7 @@ RCrypto: 0.1.0
 RCryptsy: '0.4'
 RCurl: 1.98-1.9
 RCytoGPS: 1.2.1
-RCzechia: 1.9.4
+RCzechia: 1.10.0
 RDF: '1.1'
 RDFTensor: '1.3'
 RDIDQ: '1.0'
@@ -5542,7 +5542,7 @@ RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.2.1
 RSQLServer: 0.3.0
-RSQLite: 2.2.18
+RSQLite: 2.2.19
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.5
 RSSOP: '1.1'
@@ -5854,7 +5854,7 @@ Rdbi.PgSQL: 0.1-2
 Rdca: 0.1.0
 Rdiagnosislist: '1.0'
 Rdice: 1.0.0
-Rdimtools: 1.1.0
+Rdimtools: 1.1.1
 Rdistance: 2.1.3
 Rdpack: '2.4'
 Rdrools: 1.1.1
@@ -6420,7 +6420,7 @@ SPREDA: '1.1'
 SPRT: '1.0'
 SPSL: 0.1-9
 SPSP: 0.1.1
-SPUTNIK: '1.4'
+SPUTNIK: 1.4.1
 SPYvsSPY: 0.1.1
 SPlit: '1.2'
 SPmlficmcm: '1.4'
@@ -6485,6 +6485,7 @@ STraTUS: 1.1.2
 SUE: '1.0'
 SUMMER: 1.3.0
 SUNGEO: 0.2.292
+SUSY: 0.1.0
 SV: 1.3.5
 SVDNF: 0.1.1
 SVGMapping: '1.4'
@@ -9058,6 +9059,7 @@ busdater: 0.2.0
 bustt: 0.1.0
 butcher: 0.3.0
 butler: '0.3'
+butterflyOptions: 1.0.1
 bvarsv: '1.1'
 bvartools: 0.2.1
 bvenn: '0.1'
@@ -9855,7 +9857,7 @@ compoisson: '0.3'
 compositions: 2.0-4
 compositionsGUI: '1.0'
 composits: 0.1.1
-compound.Cox: '3.21'
+compound.Cox: '3.22'
 comprehenr: 0.6.10
 compstatr: 0.2.1
 compute.es: 0.2-5
@@ -10632,7 +10634,7 @@ deeplearning: 0.1.0
 deeplr: 2.0.0
 deepnet: 0.2.1
 deepredeff: 0.1.1
-deepregression: '0.3'
+deepregression: 0.3.1
 deeptime: 0.3.0
 deeptrafo: 0.1-1
 default: 1.0.0
@@ -11310,7 +11312,7 @@ ebmc: 1.0.1
 ebmstate: 0.1.3
 ebnm: 1.0-9
 ebreg: 0.1.3
-ebvcube: 0.1.1
+ebvcube: 0.1.2
 ec50estimator: 0.1.0
 ecap: 0.1.2
 ecb: 0.4.0
@@ -11320,7 +11322,7 @@ ecdfHT: 0.1.1
 ecespa: 1.1-16
 ech: 0.1.2.0
 echarts4r: 0.4.4
-echarty: 1.4.7
+echarty: 1.5.0
 echelon: 0.1.0
 echo.find: 4.0.1
 echogram: 0.1.2
@@ -12203,7 +12205,7 @@ filterNHP: 0.1.2
 filterviewR: '0.11'
 finalfit: 1.0.5
 financial: '0.2'
-finbif: 0.7.0
+finbif: 0.7.1
 finch: 0.4.0
 findInFiles: 0.4.0
 findInGit: 0.1.1
@@ -12923,7 +12925,7 @@ geomander: 2.1.0
 geomapdata: 2.0-0
 geomaroc: 0.1.1
 geomedb: 2.0.1
-geomerge: 0.3.2
+geomerge: 0.3.3
 geometa: 0.7-1
 geometr: 0.2.10
 geometries: 0.2.0
@@ -13067,7 +13069,7 @@ ggeasy: 0.1.3
 ggedit: 0.3.1
 ggeffects: 1.1.4
 ggenealogy: 1.0.1
-ggetho: 0.3.6
+ggetho: 0.3.7
 ggfacto: 0.2.2
 ggfan: 0.1.3
 ggfittext: 0.9.1
@@ -13175,7 +13177,7 @@ ggsn: 0.5.0
 ggsoccer: 0.1.6
 ggsolvencyii: 0.1.2
 ggsom: 0.4.0
-ggspatial: 1.1.6
+ggspatial: 1.1.7
 ggspectra: 0.3.9
 ggstance: 0.3.6
 ggstar: 1.0.4
@@ -13486,7 +13488,7 @@ graphicalVAR: '0.3'
 graphicsQC: '1.0'
 graphite: '1.1'
 graphkernels: 1.6.1
-graphlayouts: 0.8.3
+graphlayouts: 0.8.4
 graphon: 0.3.5
 graphql: 1.5.1
 graphscan: '1.1'
@@ -13551,7 +13553,7 @@ groupICA: 0.1.1
 groupRemMap: 0.1-0
 groupTesting: 1.0.0
 groupWQS: 0.0.3
-groupdata2: 2.0.1
+groupdata2: 2.0.2
 grouped: 0.6-0
 groupedSurv: 1.0.4.3
 groupedstats: 2.1.0
@@ -13625,7 +13627,7 @@ gtfs2emis: 0.1.0
 gtfs2gps: 2.1-0
 gtfsio: 1.0.0
 gtfsrouter: 0.0.5
-gtfstools: 1.1.0
+gtfstools: 1.2.0
 gtheory: 0.1.2
 gtkDevice: 1.9-4
 gtm: '1.0'
@@ -14407,7 +14409,7 @@ insectDisease: 1.2.1
 insee: 1.1.5
 insideRODE: '2.0'
 insiderTrades: 0.0.1
-insight: 0.18.7
+insight: 0.18.8
 insol: 1.2.2
 inspectdf: 0.0.12
 inspector: 1.0.3
@@ -14942,7 +14944,7 @@ krige: 0.6.2
 kriging: '1.2'
 krippendorffsalpha: '2.0'
 krm: 2022.10-17
-ks: 1.13.5
+ks: 1.14.0
 ksNN: 0.1.2
 kscons: 0.7.0
 kselection: 0.2.1
@@ -16709,7 +16711,7 @@ muckrock: 0.1.0
 mudata: '0.1'
 mudata2: 1.1.2
 mudens: 1.3.2
-mudfold: 1.1.2
+mudfold: 1.1.21
 mueRelativeRisk: 0.1.1
 mugnet: 1.02.0
 muhaz: 1.2.6.4
@@ -17888,6 +17890,7 @@ parallelPlot: 0.2.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
 parallelly: 1.32.1
+parallelpam: '1.0'
 param6: 0.2.4
 paramGUI: '2.1'
 parameters: 0.20.0
@@ -18496,7 +18499,7 @@ pmledecon: 0.2.1
 pmlr: '1.0'
 pmml: 2.5.2
 pmmlTransformations: 1.3.3
-pmparser: 1.0.4
+pmparser: 1.0.13
 pmpp: 0.1.1
 pmr: 1.2.5.1
 pmsampsize: 1.1.2
@@ -19526,7 +19529,7 @@ rasterKernelEstimates: 1.0.2
 rasterList: 0.5.8
 rasterVis: 0.51.2
 rasterbc: 1.0.1
-rasterdiv: 0.2-5.2
+rasterdiv: 0.3.1
 rasterize: '0.1'
 rasterly: 0.2.0
 rasterpdf: 0.1.1
@@ -19746,7 +19749,7 @@ realestateDK: 0.1.0
 realized: '1.0'
 realtest: 0.2.1
 reams: '0.1'
-rearrr: 0.3.1
+rearrr: 0.3.2
 reasonabletools: '0.1'
 rebird: 1.3.0
 rebmix: 2.14.2
@@ -19871,7 +19874,7 @@ relaxo: 0.1-2
 reldist: 1.7-1
 relen: 1.0.1
 relevance: '1.3'
-relevent: '1.1'
+relevent: '1.2'
 relgam: '1.0'
 reliaR: '0.01'
 reliabilitydiag: 0.2.1
@@ -20095,6 +20098,7 @@ rhype: 0.3.0
 ri: '0.9'
 ri2: 0.4.0
 riAFTBART: 0.3.2
+rib: 0.18.2
 ribd: 1.5.0
 ribiosUtils: 1.5-6
 ricegeneann: 1.0.2
@@ -20572,7 +20576,7 @@ rsubgroup: '1.1'
 rsunlight: 0.7.0
 rsurface: 1.1.0
 rsurfer: '0.2'
-rsurveycto: 0.1.2
+rsurveycto: 0.1.4
 rsvd: 1.0.5
 rsvddpd: 1.0.0
 rsvg: 2.4.0
@@ -20830,7 +20834,7 @@ sas7bdat: '0.6'
 sasLM: 0.9.3
 sasMap: 1.0.0
 sasfunclust: 1.0.0
-sass: 0.4.3
+sass: 0.4.4
 sassy: 1.0.8
 sate: 1.1.0
 satellite: 1.0.4
@@ -21413,6 +21417,7 @@ signnet: 0.8.1
 signs: 0.1.2
 sigora: 3.1.1
 sigr: 1.1.4
+siie: 0.2.0
 siland: 2.0.5
 silicate: 0.7.0
 sim1000G: '1.40'
@@ -22898,7 +22903,7 @@ tglkmeans: 0.3.5
 tglm: '1.0'
 tgp: 2.4-20
 tgram: 0.2-3
-tgstat: 2.3.18
+tgstat: 2.3.19
 tgver: 0.3.0
 thaipdf: 0.1.2
 thankr: 1.0.0
@@ -22959,6 +22964,7 @@ tidycat: 0.1.2
 tidycells: 0.2.2
 tidycensus: 1.2.3
 tidycharts: 0.1.3
+tidyclust: 0.1.0
 tidycmprsk: 0.2.0
 tidycode: 0.1.1
 tidycomm: 0.2.1
@@ -23890,7 +23896,7 @@ vstsr: 1.1.0
 vtable: 1.4.1
 vtcl: 1.0-1
 vtreat: 1.6.3
-vtree: 5.4.6
+vtree: 5.6.4
 vtype: '0.8'
 vudc: '1.1'
 vueR: 0.5.3
@@ -24271,7 +24277,7 @@ yager: 0.1.1
 yahoofinancer: 0.1.0
 yakmoR: 0.1.1
 yaml: 2.3.6
-yamlet: 0.9.8
+yamlet: 0.10.0
 yamlme: 0.1.2
 yap: 0.1.1
 yaps: 1.2.5
