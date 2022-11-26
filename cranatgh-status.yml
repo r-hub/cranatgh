@@ -216,7 +216,7 @@ AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: '1.1'
 Allspice: 1.0.5
-AlphaHull3D: 1.1.0
+AlphaHull3D: 2.0.0
 AlphaPart: 0.9.8
 AlphaSimR: 1.3.2
 AlphaVantageClient: 0.0.1
@@ -481,7 +481,7 @@ BSGS: '2.0'
 BSGW: '0.9'
 BSL: 3.2.5
 BSPADATA: 1.1.0
-BSPBSS: 1.0.4
+BSPBSS: 1.0.5
 BSS: 0.1.0
 BSSasymp: 1.2-3
 BSSoverSpace: 0.1.0
@@ -1400,7 +1400,7 @@ DChaos: 0.1-6
 DCluster: 0.2-8
 DClusterm: 1.0-1
 DDD: '5.0'
-DDHFm: 1.1.2
+DDHFm: 1.1.3
 DDIwR: '0.13'
 DDL: 1.0.1
 DDM: 1.0-0
@@ -1456,7 +1456,7 @@ DISTRIB: '1.0'
 DIZtools: 0.0.6
 DIZutils: 0.1.1
 DIconvex: 1.0.0
-DImodels: '1.1'
+DImodels: '1.2'
 DIscBIO: 1.2.0
 DJL: '3.8'
 DLASSO: 2.0.2
@@ -2340,6 +2340,7 @@ GAD: 1.1.1
 GADAG: 0.99.0
 GADGET: 0.2.0
 GADMTools: 3.9-1
+GAGAs: 0.4.1
 GAIPE: '1.1'
 GALLO: '1.3'
 GAMBoost: '1.2'
@@ -2576,7 +2577,7 @@ GenMarkov: 0.1.0
 GenOrd: 1.4.0
 GenSA: 1.1.7
 GenTag: '1.0'
-GenWin: '0.1'
+GenWin: '1.0'
 GenderInfer: 0.1.0
 GeneBook: '1.0'
 GeneClusterNet: 1.0.1
@@ -3955,7 +3956,7 @@ MendelianRandomization: 0.6.0
 MenuCollection: '1.2'
 Mercator: 1.1.2
 MergeGUI: 0.2-1
-MeshAgreement: 0.1.2
+MeshAgreement: 0.1.4
 MeshesOperations: 0.1.0
 MeshesTools: 1.0.0
 MetABEL: 0.2-0
@@ -5518,7 +5519,7 @@ RRTCS: 0.0.4
 RRate: '1.0'
 RRedshiftSQL: 0.1.2
 RRphylo: 2.7.0
-RRreg: 0.7.4
+RRreg: 0.7.5
 RSA: 0.10.4
 RSADBE: '1.0'
 RSAGA: 1.3.0
@@ -6303,7 +6304,7 @@ SII: 1.0.3
 SILGGM: 1.0.0
 SILM: 1.0.0
 SIMEXBoost: 0.1.0
-SIMICO: 0.1.0
+SIMICO: 0.2.0
 SIMMS: 1.3.2
 SIMPLE.REGRESSION: 0.1.5
 SIN: '0.6'
@@ -7372,6 +7373,7 @@ VPdtw: 2.1-14
 VR: 7.2-9
 VRPM: '1.2'
 VSE: '0.99'
+VSOLassoBag: 0.99.0
 VSURF: 1.1.0
 VSdecomp: 0.1.1
 VTShiny: 0.1.0
@@ -7414,7 +7416,7 @@ VisCov: '1.3'
 VisitorCounts: 1.0.1
 VisuClust: '1.2'
 Visualize.CRAN.Downloads: 1.0.1
-VisualizeSimon2Stage: 0.1.0
+VisualizeSimon2Stage: 0.1.1
 VizCompX: '0.1'
 VizOR: 0.8-5
 VorteksExport: 0.1.8
@@ -8728,7 +8730,7 @@ biokNN: 0.1.0
 biolink: 0.1.7
 biom: 0.3.9
 biomartr: 1.0.2
-biometryassist: 1.1.1
+biometryassist: 1.1.2
 biomod2: 4.1-2
 biomonCore: 1.3.50
 bionetdata: '1.1'
@@ -11098,7 +11100,7 @@ drawExpression: '1.0'
 drawer: 0.2.0.1
 drawsample: 1.0.1
 drc: 3.0-1
-drda: 2.0.1
+drda: 2.0.2
 dreamer: 3.1.0
 dreamerr: 1.2.3
 drf: 1.1.0
@@ -11172,7 +11174,7 @@ dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.5.1
+duckdb: 0.6.0
 duckduckr: 1.0.0
 dumbbell: '0.1'
 dummies: 1.5.6
@@ -12295,7 +12297,7 @@ flexmet: '1.1'
 flexmix: 2.3-18
 flexmixNL: 0.0.1
 flexpolyline: 0.2.6
-flexrsurv: 2.0.11
+flexrsurv: 2.0.13
 flexsiteboard: 0.0.7
 flexsurv: '2.2'
 flexsurvcure: 1.3.1
@@ -12611,7 +12613,7 @@ fwdmsa: '0.2'
 fwi.fbp: '1.7'
 fwildclusterboot: '0.9'
 fwsim: 0.3.4
-fxTWAPLS: 0.1.1
+fxTWAPLS: 0.1.2
 fxregime: 1.0-4
 fxtract: 0.9.4
 fy: 0.3.0
@@ -14416,7 +14418,7 @@ inspector: 1.0.3
 inspectr: 1.0.0
 instaR: 0.2.4
 instagramadsR: 0.1.0
-install.load: 1.2.3
+install.load: 1.2.4
 installr: 0.23.4
 instruments: 0.1.0
 insuranceData: '1.0'
@@ -14493,7 +14495,7 @@ invacost: 1.1-4
 invctr: 0.2.0
 inventorize: 1.1.1
 inverseRegex: 0.1.1
-invertiforms: 0.1.0
+invertiforms: 0.1.1
 investr: 1.4.2
 invgamma: '1.1'
 io: 0.3.2
@@ -14659,7 +14661,7 @@ jack: 3.0.0
 jackalope: 1.1.3
 jackknifeKME: '1.2'
 jackstrap: 0.1.0
-jackstraw: '1.3'
+jackstraw: 1.3.8
 jacobi: 2.0.1
 jacpop: '0.6'
 jadeLizardOptions: 1.0.1
@@ -14746,6 +14748,7 @@ jsTreeR: 2.2.0
 jshintr: 0.1.0
 jskm: 0.4.3
 jsmodule: 1.3.3
+json2aRgs: 0.3.0
 json64: 0.1.3
 jsonStrings: 2.1.1
 jsonify: 1.2.2
@@ -17093,7 +17096,7 @@ newsmap: 0.8.1
 newsmd: 0.4.0
 nextGenShinyApps: '1.5'
 nfda: '0.2'
-nfer: 1.1.0
+nfer: 1.1.1
 nfl4th: 1.0.2
 nflfastR: 4.5.0
 nflplotR: 1.1.0
@@ -18144,7 +18147,7 @@ perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
 perfectphyloR: 0.2.1
-performance: 0.10.0
+performance: 0.10.1
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 1.0.1
@@ -21041,7 +21044,7 @@ secuTrialR: 1.0.9
 secure: '0.6'
 securitytxt: 0.1.1
 sedproxy: 0.7.3
-see: 0.7.3
+see: 0.7.4
 seeclickfixr: 1.1.0
 seecolor: 0.1.0
 seedCCA: '3.1'
@@ -21134,7 +21137,7 @@ sensitivitymult: 1.0.2
 sensitivitymv: 1.4.3
 sensitivitymw: '2.1'
 sensmediation: 0.3.0
-sensobol: 1.1.2
+sensobol: 1.1.3
 sensors4plumes: '0.9'
 sensory: '1.1'
 senstrat: 1.0.3
@@ -21295,7 +21298,7 @@ shinyLP: 1.1.2
 shinyML: 1.0.1
 shinyMatrix: 0.6.0
 shinyMergely: 0.2.0
-shinyMobile: 0.9.1
+shinyMobile: 1.0.0
 shinyMolBio: '0.2'
 shinyMonacoEditor: 1.1.0
 shinyNORRRM: 0.8.6
@@ -22974,7 +22977,7 @@ tidydice: 0.1.1
 tidydr: 0.0.4
 tidyestimate: 1.1.0
 tidyfast: 0.2.1
-tidyfit: 0.5.1
+tidyfit: 0.6.0
 tidyfst: 1.7.5
 tidyft: 0.4.5
 tidygapminder: 0.1.1
@@ -23981,6 +23984,7 @@ weatherData: 0.5.0
 weathercan: 0.6.2
 weathermetrics: 1.2.2
 weatherr: '0.1'
+webSDM: 1.1-1
 webTRISr: 0.2.0
 webchem: 1.2.0
 webddx: 0.1.0
