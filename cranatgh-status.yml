@@ -141,7 +141,7 @@ ASICS: 1.0.1
 ASIP: 0.4.9
 ASMap: 1.0-4
 ASPBay: '1.2'
-ASRgenomics: 1.1.2
+ASRgenomics: 1.1.3
 ASSA: '2.0'
 ASSISTant: 1.4.2
 ASSOCShiny: 0.1.0
@@ -681,7 +681,7 @@ BioPETsurv: 0.1.0
 BioPhysConnectoR: '1.6'
 BioProbability: '1.0'
 BioRssay: 1.1.0
-BioStatR: 3.1.2
+BioStatR: 4.0.0
 BioVenn: 1.1.3
 BiocManager: 1.30.19
 Biocomb: '0.4'
@@ -1042,8 +1042,8 @@ Canopy: 1.3.0
 CarbonEL: 0.1-4
 CarletonStats: '2.0'
 Carlson: 1.1.0
-Cascade: '2.0'
-CascadeData: '1.3'
+Cascade: '2.1'
+CascadeData: '1.4'
 CaseBasedReasoning: '0.1'
 CatDataAnalysis: 0.1-5
 CatDyn: 1.1-1
@@ -1878,7 +1878,7 @@ ESKNN: '1.0'
 ESPRESSO: '2.0'
 ESTER: 0.2.0
 EScvtmle: 0.0.1
-ETAS: '0.4'
+ETAS: 0.5.1
 ETC: '1.5'
 ETLUtils: '1.5'
 EUfootball: 0.0.1
@@ -2216,7 +2216,7 @@ FeaLect: '1.20'
 FeatureHashing: 0.9.1.5
 FeatureImpCluster: 0.1.5
 FeatureTerminatoR: 1.0.0
-FedData: 3.0.0
+FedData: 3.0.1
 FeedbackTS: '1.5'
 FertBoot: 0.5.0
 Fgmutils: 0.9.5
@@ -2504,7 +2504,7 @@ GREMLINS: 0.2.0
 GREP2: 1.0.2
 GRIDCOPULA: 1.0.0
 GRNNs: 0.1.0
-GROAN: 1.3.0
+GROAN: 1.3.1
 GRPtests: 0.1.2
 GRRGI: '1.1'
 GRS.test: '1.2'
@@ -2595,7 +2595,7 @@ GeneralOaxaca: '1.0'
 GeneralTree: 0.0.1
 GeneralisedCovarianceMeasure: 0.2.0
 GeneralizedHyperbolic: 0.8-4
-GeneralizedUmatrix: 1.2.4
+GeneralizedUmatrix: 1.2.5
 GeneralizedWendland: 0.5-2
 GenericML: 0.2.2
 GeneticSubsetter: '0.8'
@@ -4073,7 +4073,7 @@ MoTBFs: 1.4.1
 MobileTrigger: 0.0.31
 Mobilize: '2.9'
 ModEstM: 0.0.1
-ModStatR: 1.3.1
+ModStatR: 1.3.2
 ModTools: 0.9.4
 Modalclust: '0.7'
 ModelGood: 1.0.9
@@ -4630,7 +4630,7 @@ PINSPlus: 2.0.6
 PINstimation: 0.1.1
 PIPS: '1.0'
 PK: 1.3-5
-PKI: 0.1-11
+PKI: 0.1-12
 PKLMtest: 1.0.1
 PKNCA: 0.10.0
 PKPDmisc: 2.1.2
@@ -5636,7 +5636,7 @@ RZabbix: 0.1.0
 RZigZag: 0.2.1
 RZooRoH: 0.3.1
 RaJIVE: '1.0'
-RaMS: 1.0.0
+RaMS: 1.3.0
 RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 3.0.0
@@ -6100,7 +6100,7 @@ Rsagacmd: 0.2.0
 Rsampletrees: '1.0'
 Rsampling: 0.1.1
 Rsconctdply: 0.1.3
-Rserve: 1.8-10
+Rserve: 1.8-11
 Rsfar: 0.0.1
 Rsge: 0.6.3
 Rsgf: 1.0.0
@@ -7728,6 +7728,7 @@ adept: '1.2'
 adeptdata: '1.1'
 adespatial: 0.3-20
 adfExplorer: 0.1.6
+adformR: 0.1.0
 adheRenceRX: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.3
@@ -8922,6 +8923,7 @@ boussinesq: 1.0.4
 boutliers: 1.1-1
 box: 1.1.2
 boxcoxmix: '0.28'
+boxfilter: '0.1'
 boxoffice: 1.3.0
 boxplotdbl: 1.4.0
 boxr: 0.3.6
@@ -10135,7 +10137,7 @@ cplots: 0.5-0
 cpm: '2.3'
 cpop: 1.0.6
 cpp11: 0.4.3
-cppRouting: '2.0'
+cppRouting: '3.0'
 cppcheckR: 1.0.0
 cppcor: '1.2'
 cpr: 0.2.3
@@ -10971,7 +10973,7 @@ dkDNA: 0.1.1
 dkanr: 0.1.3
 dlbayes: 0.1.0
 dlib: 1.0.3.1
-dlm: 1.1-5
+dlm: 1.1-6
 dlmap: '1.13'
 dlmodeler: 1.4-2
 dlnm: 2.4.7
@@ -11020,7 +11022,7 @@ docker: 0.0.2
 dockerfiler: 0.2.0
 docknitr: 1.0.1
 dockr: 0.8.6
-doconv: 0.1.4
+doconv: 0.2.0
 docopt: 0.7.1
 docopulae: 0.4.0
 docore: '1.0'
@@ -11297,7 +11299,7 @@ easyreg: '4.0'
 easystab: '1.0'
 easystats: 0.5.2
 eat: 0.1.3
-eatATA: 1.1.0
+eatATA: 1.1.1
 eatDB: 0.5.0
 eatGADS: 0.20.0
 eatRep: 0.14.6
@@ -11475,7 +11477,7 @@ elec: 0.1.2.2
 elec.strat: '0.1'
 elect: '1.2'
 elections: '1.0'
-elections.dtree: 1.0.3
+elections.dtree: 1.1.0
 electionsBR: 0.3.2
 electivity: 1.0.2
 electoral: 0.1.3
@@ -12187,6 +12189,7 @@ fiery: 1.1.4
 fifer: '1.1'
 fiftystater: 1.0.1
 fig: 1.0.0
+figir: 0.1.6.8
 figma: 0.1.0
 figpatch: '0.2'
 figuRes2: 1.0.0
@@ -13134,6 +13137,7 @@ ggparliament: 2.0.0
 ggparty: 1.0.0
 ggpath: 1.0.0
 ggpattern: 1.0.1
+ggpcp: 0.2.0
 ggperiodic: 1.0.2
 ggpie: 0.2.5
 ggplot: 0.4.2
@@ -13160,7 +13164,7 @@ ggraph: 2.1.0
 ggraptR: '1.3'
 ggrasp: '1.2'
 ggrastr: 1.0.1
-ggrcs: 0.2.4
+ggrcs: 0.2.6
 ggredist: 0.0.2
 ggrepel: 0.9.2
 ggridges: 0.5.4
@@ -13620,7 +13624,7 @@ gsw: 1.1-1
 gsynth: 1.2.1
 gt: 0.8.0
 gt4ireval: '2.0'
-gtExtras: 0.4.3
+gtExtras: 0.4.5
 gtWAS: 1.1.0
 gtable: 0.3.1
 gtcorr: 0.2-1
@@ -14689,7 +14693,7 @@ jetpack: 0.5.5
 jetset: 3.4.0
 jfa: 0.6.4
 jgcricolors: 1.0.0
-jgsbook: '1.0'
+jgsbook: 1.0.1
 jiebaR: '0.11'
 jiebaRD: '0.1'
 jinjar: 0.3.0
@@ -14795,7 +14799,7 @@ kappalab: 0.4-8
 kaps: 1.0.2
 karaoke: '1.0'
 karel: 0.1.1
-katex: 1.4.0
+katex: 1.4.1
 kayadata: 1.2.0
 kazaam: 0.1-0
 kcirt: 0.6.0
@@ -15048,7 +15052,7 @@ latentgraph: '1.1'
 latentnet: 2.10.6
 latentnetHRT: 0.7-18
 later: 1.3.0
-latex2exp: 0.9.5
+latex2exp: 0.9.6
 latexdiffr: 0.1.0
 latexpdf: 0.1.7
 latrend: 1.5.0
@@ -15408,7 +15412,7 @@ loedata: 1.0.1
 loewesadditivity: 0.1.0
 log: 1.1.1
 log10: 0.1.0-03
-log4r: 0.4.2
+log4r: 0.4.3
 logKDE: 0.3.2
 logNormReg: 0.5-0
 logOfGamma: 0.0.1
@@ -15569,7 +15573,7 @@ mAr: 1.2-0
 mBvs: '1.5'
 mDAG: 1.2.2
 mExplorer: 1.0.0
-mFD: 1.0.2
+mFD: 1.0.3
 mFDP: 0.1.0
 mFLICA: 0.1.5
 mFilter: 0.1-5
@@ -15840,7 +15844,7 @@ mcbiopi: 1.1.6
 mcboost: 0.4.2
 mcc: '1.0'
 mcca: 0.7.0
-mccca: 0.1.1
+mccca: 1.1.0
 mccf1: '1.1'
 mcclust: 1.0.1
 mccmeiv: '2.1'
@@ -23867,7 +23871,7 @@ volatilityTrader: 1.0.1
 volcano3D: 2.0.8
 volesti: 1.1.2-3
 volleystat: 0.2.0
-voluModel: 0.1.7
+voluModel: 0.1.8
 voronoi: '1.1'
 voronoiTreemap: 0.2.0
 vortexR: 1.1.7
