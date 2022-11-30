@@ -975,6 +975,7 @@ CREDS: 0.1.0
 CRF: 0.4-3
 CRFCSD: '3.1'
 CRM: 1.2.4
+CRMetrics: 0.2.2
 CRPClustering: '1.2'
 CRTConjoint: 0.1.0
 CRTSize: '1.1'
@@ -1390,7 +1391,7 @@ DCEtool: 1.0.0
 DCG: 0.9.3
 DCGL: 2.1.2
 DCL: 0.1.2
-DCLEAR: 1.0.8
+DCLEAR: 1.0.11
 DCM: 0.1.1
 DCODE: '1.0'
 DCPO: 0.5.3
@@ -2611,7 +2612,7 @@ GeoDE: '1.0'
 GeoFIS: 1.0.4
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 1.0.3
+GeoModels: 1.0.4
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1
@@ -3184,7 +3185,7 @@ JWileymisc: 1.3.0
 JacobiEigen: 0.3-4
 JamendoR: 0.1.1
 Java: '0.5'
-JavaGD: 0.6-4
+JavaGD: 0.6-5
 Jaya: 0.1.9
 Jdmbs: '1.4'
 JirAgileR: 0.0.2.1
@@ -5943,7 +5944,7 @@ Rfast: 2.0.6
 Rfast2: 0.1.3
 Rfit: 0.24.2
 RfmriVC: '1.0'
-Rfmtool: 4.1.8
+Rfmtool: 4.1.9
 Rfolding: '1.0'
 Rforestry: 0.9.0.116
 Rfractran: '1.0'
@@ -6894,7 +6895,7 @@ Superpower: 0.2.0
 SuppDists: 1.1-9.7
 SurfaceReconstruction: 0.1.0
 SurfaceTortoise: 1.0.2
-Surrogate: '2.4'
+Surrogate: '2.5'
 SurrogateOutcome: '1.1'
 SurrogateRegression: 0.6.0
 SurrogateTest: '1.3'
@@ -7774,7 +7775,7 @@ affluenceIndex: '2.1'
 afmToolkit: 0.0.1
 afmtools: 0.1.8
 afpt: 1.1.0.2
-africamonitor: 0.2.1
+africamonitor: 0.2.2
 after: 1.0.0
 aftgee: 1.1.6
 afthd: 1.1.0
@@ -7958,7 +7959,7 @@ anscombiser: 1.1.0
 ant: 0.0-8
 antaresEditObject: 0.3.0
 antaresProcessing: 0.18.1
-antaresRead: 2.3.0
+antaresRead: 2.3.1
 antaresViz: 0.17.1
 anthro: 1.0.0
 anthroplus: 0.9.0
@@ -8252,6 +8253,7 @@ avidaR: 1.1.3
 avocado: 0.1.0
 aweSOM: '1.3'
 aweek: 1.0.3
+awinR: 0.1.0
 aws: 2.5-1
 aws.alexa: 0.1.8
 aws.cloudtrail: 0.1.5
@@ -8458,7 +8460,7 @@ bbknnR: 1.0.2
 bbl: 1.0.0
 bbmle: 1.0.25
 bbo: '0.2'
-bbotk: 0.7.0
+bbotk: 0.7.1
 bbreg: 2.0.2
 bbricks: 0.1.4
 bbsBayes: 2.5.2
@@ -8866,7 +8868,7 @@ bnpa: 0.3.0
 bnpmr: '1.2'
 bnpsd: 1.3.13
 bnspatial: 1.1.1
-bnstruct: 1.0.13
+bnstruct: 1.0.14
 bnviewer: 0.1.6
 boa: 1.1.8-2
 boclust: 0.1.2
@@ -9175,7 +9177,7 @@ car: 3.1-1
 carData: 3.0-5
 carSurv: 1.0.0
 caracas: 1.1.2
-carat: 2.0.2
+carat: 2.1.0
 carbonate: 0.1.4
 carcass: '1.6'
 card: 0.1.0
@@ -10322,6 +10324,7 @@ cumSeg: '1.3'
 cuml: 0.2.1
 cuml4r: 0.1.0
 cumplyr: 0.1-1
+cumprinc: '0.1'
 cumstats: '1.0'
 cumulocityr: 0.1.0
 cuperdec: 1.1.0
@@ -11707,7 +11710,7 @@ eshrink: 0.1.2
 esmisc: 0.0.3
 esmprep: 0.2.0
 esotericR: '1.0'
-espadon: 1.1.1
+espadon: 1.2.0
 esquisse: 1.1.2
 esreg: 0.6.0
 ess: 1.1.2
@@ -13275,7 +13278,7 @@ gld: 2.6.6
 gldist: '2160.2'
 gldrm: '1.5'
 glinternet: 1.0.12
-glinvci: 1.1.20
+glinvci: 1.1.21
 gllm: '0.38'
 gllvm: 1.3.1
 glm.ddR: 0.1.1
@@ -13306,7 +13309,7 @@ glmmSeq: 0.5.5
 glmmTMB: 1.1.5
 glmmboot: 0.6.0
 glmmfields: 0.1.4
-glmmrBase: 0.1.3
+glmmrBase: 0.2.1
 glmmsr: 0.2.3
 glmnet: 4.1-6
 glmnetSE: 0.0.1
@@ -13852,7 +13855,7 @@ hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
 hhsmm: 0.3.3
-hht: 2.1.4
+hht: 2.1.5
 hiPOD: '1.0'
 hibayes: 2.0.0
 hiddenf: '2.0'
@@ -15498,7 +15501,7 @@ lpSolveAPI: 5.5.2.0-17.9
 lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpcde: 0.1.0
-lpdensity: 2.3.1
+lpdensity: 2.3.2
 lphom: 0.3.1-1
 lpint: '2.1'
 lpirfs: 0.2.2
@@ -15990,6 +15993,7 @@ merror: 2.0.2
 meshed: 0.2.3
 meshsimp: '0.1'
 messaging: 0.1.0
+messy.cats: '1.0'
 messydates: 0.3.1
 met: 0.1.0
 metR: 0.13.0
@@ -16178,7 +16182,7 @@ midrangeMCP: 3.1.1
 miesmuschel: 0.0.2
 mifa: 0.2.0
 migest: 2.0.3
-migraph: 0.12.1
+migraph: 0.13.0
 migrate: 0.4.0
 migration.indices: 0.3.1
 migrbc: 2.0.9
@@ -17680,7 +17684,7 @@ ordiBreadth: '1.0'
 ordinal: 2022.11-16
 ordinalClust: 1.3.5
 ordinalCont: 2.0.2
-ordinalForest: 2.4-2
+ordinalForest: 2.4-3
 ordinalLBM: '1.0'
 ordinalNet: '2.12'
 ordinalRR: '1.1'
@@ -18476,7 +18480,7 @@ plsRcox: 1.7.7
 plsRglm: 1.5.0
 plsVarSel: 0.9.9
 plsdepot: 0.1.17
-plsdof: 0.3-0
+plsdof: 0.3-2
 plsgenomics: 1.5-2
 plsmod: 1.0.0
 plsmselect: 0.2.0
@@ -18865,7 +18869,7 @@ progenyClust: '1.2'
 prognosticROC: '0.7'
 progress: 1.2.2
 progressr: 0.11.0
-proj4: 1.0-11
+proj4: 1.0-12
 projections: 0.5.4
 projector: 0.0.2
 projects: 2.1.3
@@ -19542,7 +19546,7 @@ raster: 3.6-11
 rasterDT: 0.3.1
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.2
-rasterList: 0.5.8
+rasterList: 0.5.14
 rasterVis: 0.51.4
 rasterbc: 1.0.1
 rasterdiv: 0.3.1
@@ -19686,7 +19690,7 @@ rdbnomics: 0.6.4
 rdd: '0.57'
 rddapp: 1.3.0
 rdddr: 1.0.0
-rddensity: '2.2'
+rddensity: '2.3'
 rddi: 0.1.1
 rddtools: 1.6.0
 rde: 0.1.0
@@ -20100,7 +20104,7 @@ rhandsontable: 0.3.8
 rhcoclust: 1.1.0
 rheroicons: 1.0.0
 rhierbaps: 1.1.4
-rhino: 1.2.0
+rhino: 1.2.1
 rhli: 0.0.2
 rhmc: 1.0.0
 rhmmer: 0.1.0
@@ -20159,7 +20163,7 @@ riskCommunicator: 1.0.1
 riskParityPortfolio: 0.2.2
 riskPredictClustData: 0.2.6
 riskR: '1.1'
-riskRegression: 2022.11.21
+riskRegression: 2022.11.28
 riskSimul: 0.1.1
 riskclustr: 0.4.0
 riskmetric: 0.1.2
@@ -21354,7 +21358,7 @@ shinyhelper: 0.3.2
 shinyhttr: 1.1.0
 shinyjqui: 0.4.1
 shinyjs: 2.1.0
-shinylight: 1.1.1
+shinylight: 1.1.2
 shinyloadtest: 1.1.0
 shinylogs: 0.2.1
 shinymanager: 1.0.410
@@ -22353,7 +22357,7 @@ storywranglr: 0.2.0
 stosim: 0.0.14
 stplanr: 1.0.2
 stpm: 1.7.12
-stpp: 2.0-6
+stpp: 2.0-7
 stppResid: '1.1'
 stppSim: 1.2.7
 str2str: 0.2.1
@@ -22871,7 +22875,7 @@ text.alignment: 0.1.3
 text2map: 0.1.6
 text2sdg: 0.1.6
 text2speech: 0.2.13
-text2vec: 0.6.2
+text2vec: 0.6.3
 textTinyR: 1.1.7
 textTools: 0.1.0
 textcat: 1.0-7
