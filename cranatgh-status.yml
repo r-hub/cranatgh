@@ -1272,7 +1272,7 @@ CopyDetect: '1.3'
 CopyNumber450kCancer: 1.0.4
 CorBin: 1.0.0
 CorDiff: '1.0'
-CorMID: 0.1.6
+CorMID: 0.1.7
 CorReg: 1.2.8
 CorShrink: 0.1-6
 Corbi: 0.6-2
@@ -2805,6 +2805,7 @@ HTRX: 1.1.0
 HTSCluster: 2.0.10
 HTSDiff: 1.0.5
 HTSSIP: 1.4.1
+HTT: 0.1.0
 HUM: '2.0'
 HURDAT: 0.2.3
 HW.pval: '1.0'
@@ -4247,7 +4248,7 @@ NMRS: '1.0'
 NMTox: 0.1.0
 NMVANOVA: 1.1.0
 NMcalc: 0.0.1
-NMdata: 0.0.14
+NMdata: 0.0.15
 NMproject: 0.6.9
 NNLM: 0.4.3
 NNMIS: 1.0.1
@@ -4802,7 +4803,7 @@ Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 PathSelectMP: '1.1'
 PatternClass: 2.0.1
-Patterns: '1.3'
+Patterns: '1.4'
 PdPDB: 2.0.1
 Peacock.test: '1.0'
 Peak2Trough: '1.3'
@@ -4993,7 +4994,7 @@ PsiHat: '1.0'
 Pstat: '1.2'
 PsumtSim: '0.4'
 PsyControl: 1.0.0.0
-PsychWordVec: 0.1.2
+PsychWordVec: 0.2.0
 PtProcess: 3.3-16
 PubBias: '1.0'
 PubMedMining: 1.0.0
@@ -5468,7 +5469,7 @@ ROP: '1.0'
 ROSE: 0.0-4
 RObsDat: '16.03'
 ROlogit: 0.1.2
-ROpenCVLite: 4.60.2
+ROpenCVLite: 4.60.3
 ROpenDota: 0.1.2
 ROpenFIGI: 0.2.8
 ROpenWeatherMap: '1.1'
@@ -5946,7 +5947,7 @@ Rfit: 0.24.2
 RfmriVC: '1.0'
 Rfmtool: 4.1.9
 Rfolding: '1.0'
-Rforestry: 0.9.0.116
+Rforestry: 0.9.0.144
 Rfractran: '1.0'
 Rfssa: 2.1.0
 Rfun: '1.0'
@@ -7202,7 +7203,7 @@ ToxLim: '1.0'
 ToxicR: 22.8.1.0.3
 ToxicoGx: 0.1.1
 Tplyr: 1.0.2
-TraMineR: 2.2-5
+TraMineR: 2.2-6
 TraMineRextras: 0.6.5
 TraceAssist: 0.1.0
 TrackReconstruction: '1.3'
@@ -7325,6 +7326,7 @@ V8: 4.2.2
 VA: '1.0'
 VAJointSurv: 0.1.0
 VALERIE: 1.1.0
+VALIDICLUST: 0.1.0
 VAM: 1.0.0
 VAR.etp: '1.0'
 VARDetect: 0.1.6
@@ -8981,7 +8983,7 @@ bridgedist: 0.1.1
 bridger: 0.1.0
 bridger2: 0.1.0
 bridgesampling: 1.1-2
-brif: '1.1'
+brif: 1.2.0
 brinton: 0.2.6
 brio: 1.1.3
 briqr: 0.1.0
@@ -10142,7 +10144,7 @@ cplots: 0.5-0
 cpm: '2.3'
 cpop: 1.0.6
 cpp11: 0.4.3
-cppRouting: '3.0'
+cppRouting: '3.1'
 cppcheckR: 1.0.0
 cppcor: '1.2'
 cpr: 0.2.3
@@ -10606,7 +10608,7 @@ deGradInfer: 1.0.1
 deSolve: '1.34'
 deTS: '1.0'
 deTestSet: 1.1.7.3
-deaR: 1.3.1
+deaR: 1.3.2
 deadband: 0.1.0
 deal: 1.2-42
 deamer: '1.0'
@@ -12256,6 +12258,7 @@ fitConic: '1.2'
 fitDRC: '1.1'
 fitHeavyTail: 0.1.4
 fitODBOD: 1.4.1-1
+fitPS: '0.2'
 fitPoly: 3.0.0
 fitTetra: '1.0'
 fitbitScraper: 0.1.8
@@ -13999,7 +14002,7 @@ hsm: 0.2.0
 hsmm: '0.4'
 hsphase: 2.0.2
 hspm: 1.0-0
-hsrecombi: 0.5.0
+hsrecombi: 0.5.1
 hsstan: 0.8.1
 htdp: 0.1.4
 htestClust: 0.2.2
@@ -18005,7 +18008,7 @@ pawls: 1.0.0
 paws: 0.1.12
 paws.analytics: 0.1.12
 paws.application.integration: 0.1.13
-paws.common: 0.5.1
+paws.common: 0.5.2
 paws.compute: 0.1.13
 paws.cost.management: 0.1.12
 paws.customer.engagement: 0.1.12
@@ -18712,7 +18715,7 @@ ppls: 1.6-1
 ppmHR: '1.0'
 ppmSuite: 0.2.4
 ppmf: 0.1.3
-ppmlasso: '1.2'
+ppmlasso: '1.3'
 ppr: 1.1-2
 pps: '1.0'
 ppsbm: 0.2.2
@@ -18720,7 +18723,7 @@ ppseq: 0.2.0
 ppsr: 0.0.2
 ppstat: '0.9'
 pqantimalarials: '0.2'
-pqrfe: '1.0'
+pqrfe: '1.1'
 prLogistic: '1.2'
 prWarp: 1.0.0
 prabclus: 2.3-2
@@ -19525,6 +19528,7 @@ rapbase: 1.23.0
 rapiclient: 0.1.3
 rapidjsonr: 1.2.0
 rapidoc: 8.4.3
+rapidphylo: 0.1.0
 rapidraker: 0.1.3
 rapidxmlr: 0.1.0
 rappdirs: 0.3.3
@@ -21308,7 +21312,7 @@ shinyFiles: 0.9.3
 shinyGizmo: '0.2'
 shinyGovstyle: 0.0.8
 shinyHeatmaply: 0.2.0
-shinyHugePlot: 0.2.1
+shinyHugePlot: 0.2.2
 shinyIRT: '0.1'
 shinyKGode: 1.0.5
 shinyKnobs: 0.1.3
@@ -21438,7 +21442,7 @@ signnet: 0.8.1
 signs: 0.1.2
 sigora: 3.1.1
 sigr: 1.1.4
-siie: 0.2.0
+siie: 0.3.0
 siland: 2.0.5
 silicate: 0.7.0
 sim1000G: '1.40'
@@ -21956,7 +21960,7 @@ spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
 spdep: 1.2-7
-spdl: 0.0.1
+spdl: 0.0.2
 spdownscale: 0.1.0
 spdplyr: 0.4.0
 spduration: 0.17.1
