@@ -143,7 +143,7 @@ ASMap: 1.0-4
 ASPBay: '1.2'
 ASRgenomics: 1.1.3
 ASSA: '2.0'
-ASSISTant: 1.4.2
+ASSISTant: 1.4.3
 ASSOCShiny: 0.1.0
 AST: 0.1.0
 ASV: 1.1.1
@@ -931,7 +931,7 @@ COMBAT: 0.0.4
 COMBIA: 1.0.6
 COMIX: 1.0.0
 COMMUNAL: 1.1.0
-COMPoissonReg: 0.7.0
+COMPoissonReg: 0.8.0
 CONCUR: '1.4'
 CONDOP: '1.0'
 CONOR: '1.0'
@@ -1129,7 +1129,7 @@ ClimClass: 2.1.0
 ClimDown: 1.0.8
 ClimInd: 0.1-3
 ClimMobTools: '0.5'
-ClimProjDiags: 0.2.0
+ClimProjDiags: 0.2.1
 ClinReport: 0.9.1.8
 ClinSigMeasures: '1.0'
 ClinicalRobustPriors: 2.1-2
@@ -1736,7 +1736,7 @@ DrInsight: 0.1.2
 DramaAnalysis: 3.0.2
 DriftBurstHypothesis: 0.4.0.1
 DrillR: '0.1'
-DriveML: 0.1.4
+DriveML: 0.1.5
 DrugClust: '0.2'
 DrugSim2DR: 0.1.0
 DstarM: 0.4.0
@@ -2325,7 +2325,7 @@ FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
-FuzzyResampling: 0.4.2
+FuzzyResampling: 0.5.0
 FuzzySTs: '0.2'
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
@@ -5173,7 +5173,7 @@ RBGL: 1.28.0
 RBMRB: 2.1.7
 RBNZ: 1.1.0
 RBPcurve: '1.2'
-RBaseX: 1.1.1
+RBaseX: 1.1.2
 RBerkeley: 0.7-5
 RBesT: 1.6-4
 RBestMatch: 0.1.1
@@ -6803,7 +6803,7 @@ SplitSoftening: 2.1-0
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.10.0
+SqlRender: 1.11.0
 SqueakR: 1.3.0
 Sshaped: '1.1'
 Sstack: 1.0.1
@@ -7058,6 +7058,7 @@ TSPred: '5.1'
 TSS.RESTREND: 0.3.1
 TSSQLite: 2015.4-1
 TSSS: 1.3.1
+TSSVM: 0.1.0
 TSTr: '1.2'
 TSTutorial: 1.2.4
 TSVC: 1.2.2
@@ -7669,7 +7670,7 @@ acss.data: '1.0'
 act: 1.1.9
 actel: 1.2.1
 actilifecounts: 1.1.0
-activAnalyzer: 1.0.5
+activAnalyzer: 1.1.0
 activPAL: 0.1.3
 activatr: 0.1.0
 activegp: 1.1.0
@@ -7987,7 +7988,7 @@ apa: 0.3.3
 apaStyle: '0.5'
 apaTables: 2.0.8
 apaText: 0.1.1
-apache.sedona: 1.2.1
+apache.sedona: 1.3.0
 apc: 2.0.0
 apcf: 0.3.0
 apcluster: 1.4.10
@@ -8432,7 +8433,7 @@ bayeslincom: 1.3.0
 bayeslm: 1.0.1
 bayesloglin: 1.0.1
 bayeslongitudinal: 0.1.0
-bayesm: 3.1-4
+bayesm: 3.1-5
 bayesmeta: '3.2'
 bayesmix: 0.7-5
 bayesmodels: 0.1.1
@@ -13501,7 +13502,7 @@ graphTweets: 0.5.3
 grapherator: 1.0.0
 graphframes: 0.1.2
 graphhopper: 0.1.2
-graphicalExtremes: 0.1.0
+graphicalExtremes: 0.2.0
 graphicalVAR: '0.3'
 graphicsQC: '1.0'
 graphite: '1.1'
@@ -13818,7 +13819,7 @@ helloJavaWorld: 0.0-9
 hellorust: 1.0.1
 helminthR: 1.0.9
 helpr: '0.1'
-helsinki: 1.0.5
+helsinki: 1.0.6
 heplots: 1.4-2
 here: 1.0.1
 hereR: 0.9.0
@@ -14410,7 +14411,7 @@ ingredients: 2.2.0
 ingres: 1.0.0
 ini: 0.3.1
 injectoR: 0.2.4
-inlabru: 2.6.0
+inlabru: 2.7.0
 inldata: 1.0.3
 inline: 0.3.19
 inlinedocs: 2019.12.5
@@ -14676,6 +14677,7 @@ jaccard: 0.1.0
 jack: 3.0.0
 jackalope: 1.1.3
 jackknifeKME: '1.2'
+jackknifeR: 0.1.1
 jackstrap: 0.1.0
 jackstraw: 1.3.8
 jacobi: 2.0.1
@@ -15191,7 +15193,7 @@ leidenbase: 0.1.12
 leiv: 2.0-7
 lemma: 1.3-4
 lemna: 1.0.0
-lemon: 0.4.5
+lemon: 0.4.6
 lenses: 0.0.3
 leontief: '0.2'
 leprechaun: 1.0.0
@@ -15532,7 +15534,7 @@ lsgl: 1.3.6
 lshorth: 0.1-6
 lsirm12pl: 1.1.0
 lsl: 0.5.6
-lslx: 0.6.10
+lslx: 0.6.11
 lsm: 0.2.1.2
 lsmeans: 2.30-0
 lspartition: '0.4'
@@ -15708,7 +15710,7 @@ mapmisc: 1.8.0
 mapping: '1.3'
 mappings: '0.1'
 mapplots: 1.5.1
-mappoly: 0.3.1
+mappoly: 0.3.2
 mappp: 1.0.0
 mapproj: 1.2.9
 mapr: 0.5.2
@@ -17144,6 +17146,7 @@ nic: 0.0.1
 nice: 0.4-1
 nicheROVER: 1.1.0
 nichevol: 0.1.19
+nieve: 0.1.0
 nifti.io: 1.0.0
 nightmares: 0.0.2
 nilde: 1.1-7
@@ -18084,7 +18087,7 @@ pdSpecEst: 1.2.4
 pda: 1.0-2
 pdc: 1.0.3
 pder: 1.0-2
-pdfCluster: 1.0-3
+pdfCluster: 1.0-4
 pdfboxr: 2.0.19
 pdfetch: 0.2.7
 pdfminer: '1.0'
@@ -18824,7 +18827,7 @@ prioritylasso: 0.2.5
 prism: 0.2.0
 prismadiagramR: 1.0.0
 prismatic: 1.1.1
-prismjs: 1.0.0
+prismjs: 1.1.0
 prisonbrief: 0.1.2
 prithulib: 1.0.2
 prnsamplr: 0.2.1
@@ -21875,7 +21878,7 @@ sparktf: 0.1.0
 sparkwarc: 0.1.6
 sparkxgb: 0.1.1
 sparr: 2.2-17
-sparrpowR: 0.2.5
+sparrpowR: 0.2.6
 sparseBC: '1.2'
 sparseEigen: 0.1.0
 sparseFLMM: 0.4.1
@@ -22405,7 +22408,7 @@ stringformattr: 0.1.2
 stringgaussnet: '1.1'
 stringi: 1.7.8
 stringkernels: 0.8.9
-stringr: 1.4.1
+stringr: 1.5.0
 stringx: 0.2.4
 strip: 1.0.0
 stripless: 1.0-3
@@ -22846,7 +22849,7 @@ term: 0.3.5
 terminaldigits: 0.1.0
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.6-41
+terra: 1.6-47
 terrainmeshr: 0.1.0
 terrainr: 0.7.1
 tessellation: 2.1.0
@@ -23064,7 +23067,7 @@ tigris: 1.6.1
 tiktokadsR: 0.1.0
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
-tiledb: 0.16.0
+tiledb: 0.17.0
 tilegramsR: 0.2.0
 tilemaps: 0.2.0
 tiler: 0.2.5
@@ -24037,7 +24040,7 @@ wedge: 1.0-3
 weed: 1.1.1
 wehoop: 1.5.0
 weibull4: 1.0.0
-weibullness: 1.19.8
+weibullness: 1.22.12
 weibulltools: 2.0.0
 weightQuant: 1.0.1
 weightTAPSPACK: '0.1'
