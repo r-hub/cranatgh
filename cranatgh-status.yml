@@ -1600,7 +1600,7 @@ DealGPL570: 0.2.0
 DecisionAnalysis: 1.1.0
 DecisionCurve: '1.4'
 DeclareDesign: 1.0.0
-DecomposeR: 1.0.4
+DecomposeR: 1.0.5
 DecorateR: 0.1.2
 Deducer: 0.7-9
 DeducerExtras: '1.7'
@@ -1779,6 +1779,7 @@ ECctmc: 0.2.5
 ECharts2Shiny: 0.2.13
 ECoL: 0.3.0
 EDA: '1.3'
+EDCimport: 0.2.1
 EDFIR: '1.0'
 EDFtest: 0.1.0
 EDISON: 1.1.1
@@ -3525,7 +3526,7 @@ M3: '0.3'
 M4comp: 0.0.1
 MAAPER: 1.1.1
 MABOUST: 1.0.1
-MACER: 0.2.0
+MACER: 0.2.1
 MADAM: '1.2'
 MADPop: 1.1.4
 MAFDash: 0.2.1
@@ -4675,6 +4676,7 @@ POD: 1.2.0
 POET: '2.0'
 POFIBGE: 0.1.6
 POINT: '1.2'
+POMADE: 0.1.0
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
 POSSA: 0.6.1
@@ -4843,7 +4845,7 @@ PharmPow: '1.0'
 PharmacoGx: 1.1.6
 Phase123: '2.1'
 Phase12Compare: '1.5'
-PhaseType: 0.1.3
+PhaseType: 0.2.0
 PhaseTypeR: 1.0.4
 PheCAP: 1.2.1
 PheNorm: 0.1.0
@@ -8017,6 +8019,7 @@ appnn: 1.0-0
 approxOT: 1.0.2
 approximator: 1.2-7
 approxmatch: '2.0'
+appsflyeR: 0.1.0
 aprean3: 1.0.1
 apricom: 1.0.0
 aprof: 0.4.1
@@ -8731,7 +8734,7 @@ biogas: 1.23.2
 biogeo: '1.0'
 biogeom: 1.2.1
 biogram: 1.6.3
-biogrowth: 1.0.0-3
+biogrowth: 1.0.1
 bioimagetools: 1.1.8
 bioinactivation: 1.2.3
 biokNN: 0.1.0
@@ -8792,7 +8795,7 @@ bivrp: 1.2-2
 biwavelet: 0.20.21
 biwt: 1.0.1
 bizdays: 1.0.12
-bizicount: 1.2.0
+bizicount: 1.3.0
 bjscrapeR: 0.1.0
 bkmr: 0.2.2
 bkmrhat: 1.1.3
@@ -10514,6 +10517,7 @@ datarobot: 2.18.2
 datasailr: 0.8.11
 datasauRus: 0.1.6
 dataseries: 0.2.0
+dataset: 0.1.9
 datasets.load: 2.1.0
 datasetsICR: '1.0'
 dataspice: 1.1.0
@@ -10601,6 +10605,7 @@ ddiv: 0.1.1
 ddp: 0.0.3
 ddpca: '1.1'
 ddpcr: '1.15'
+ddplot: 0.0.1
 ddsPLS: 1.1.4
 ddst: '1.4'
 deBInfer: 0.4.4
@@ -13242,7 +13247,7 @@ gifti: 0.8.0
 giftwrap: 0.0.4
 gigg: 0.2.1
 gim: 0.33.1
-gimme: 0.7-8
+gimme: 0.7-9
 gimmeTools: '0.1'
 gimms: 1.2.1
 giphyr: 0.2.0
@@ -13287,7 +13292,7 @@ gllm: '0.38'
 gllvm: 1.3.1
 glm.ddR: 0.1.1
 glm.deploy: 1.0.4
-glm.predict: 4.1-0
+glm.predict: 4.2-0
 glm2: 1.2.1
 glmBfp: 0.0-60
 glmaag: 0.0.6
@@ -16705,7 +16710,7 @@ mspath: 0.9-9
 msr: '0.4'
 mssm: 0.1.6
 mssqlR: 1.0.0
-mstDIF: 0.1.6
+mstDIF: 0.1.7
 mstR: '1.2'
 mstate: 0.3.2
 mstclustering: 1.0.0.0
@@ -16935,7 +16940,7 @@ nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.17.1
 naflex: 0.1.0
-naijR: 0.5.0
+naijR: 0.5.1
 naive: 1.2.1
 naivebayes: 0.9.7
 naivereg: 1.0.5
@@ -17056,7 +17061,7 @@ netcoh: '0.2'
 netcom: 2.1.6
 netcontrol: '0.1'
 netdep: 0.1.0
-netdiffuseR: 1.22.4
+netdiffuseR: 1.22.5
 netgen: 1.3.2
 netgsa: 4.0.4
 netgwas: 1.14.1
@@ -17562,7 +17567,7 @@ ontologyPlot: '1.6'
 ontologySimilarity: '2.5'
 oolong: 0.4.1
 oompaBase: 3.2.9
-oompaData: 3.1.2
+oompaData: 3.1.3
 ooplah: 0.2.0
 oops: 0.2.0
 oosp: 0.3.3
@@ -17648,7 +17653,7 @@ optimall: 0.1.2
 optimbase: 1.0-10
 optimg: 0.1.2
 optimization: 1.0-9
-optimizeR: 0.1.1
+optimizeR: 0.2.0
 optimos.prime: 0.1.2
 optimr: 2019-12.16
 optimsimplex: 1.0-8
@@ -19168,7 +19173,7 @@ qsub: 1.1.3
 qtbase: 1.0.9
 qte: 1.3.1
 qtl: '1.54'
-qtl2: '0.28'
+qtl2: '0.30'
 qtl2convert: '0.28'
 qtl2fst: '0.26'
 qtl2ggplot: 1.2.1
@@ -20347,7 +20352,7 @@ robustcov: '0.1'
 robustfa: '1.0'
 robustgam: 0.1.7
 robustlm: 0.1.0
-robustlmm: 3.0-4
+robustlmm: 3.1-1
 robustloggamma: 1.0-2
 robustmeta: 1.1-1
 robustrank: 2019.9-10
@@ -20807,7 +20812,7 @@ sail: 0.1.0
 salbm: '1.0'
 salem: 0.2.0
 salesforcer: 1.0.1
-salso: 0.3.0
+salso: 0.3.27
 salty: 0.1.0
 sambia: 0.1.0
 samc: 2.0.1
@@ -20925,7 +20930,7 @@ scalreg: 1.0.1
 scam: 1.2-13
 scan: '0.55'
 scanstatistics: 1.1.0
-scapGNN: 0.1.2
+scapGNN: 0.1.3
 scape: 2.3.3
 scapeMCMC: 1.1-3
 scapesClassification: 1.0.0
@@ -21755,7 +21760,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: '2.1'
-soilDB: 2.7.5
+soilDB: 2.7.6
 soilassessment: 0.2.5
 soilcarbon: 1.2.0
 soilhypfit: 0.1-7
@@ -22261,7 +22266,7 @@ statgenGWAS: 1.0.9
 statgenGxE: 1.0.5
 statgenHTP: 1.0.5
 statgenIBD: 1.0.5
-statgenMPP: 1.0.1.1
+statgenMPP: 1.0.2
 statgenSTA: 1.0.10
 static: 0.1.0
 stationaRy: 0.5.1
@@ -23585,7 +23590,7 @@ uniReg: '1.1'
 uniah: '1.1'
 unifDAG: 1.0.3
 unifed: 1.1.6
-unifir: 0.2.2
+unifir: 0.2.3
 uniformly: 0.2.0
 uniftest: '1.1'
 unikn: 0.7.0
