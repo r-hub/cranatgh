@@ -78,7 +78,7 @@ ALUES: 0.2.1
 ALassoSurvIC: 0.1.1
 AMA: 1.0.8
 AMAP.Seq: '1.0'
-AMAPVox: 0.12.0
+AMAPVox: 0.12.1
 AMCP: 1.0.1
 AMCTestmakeR: 1.0.0
 AMGET: '1.0'
@@ -536,7 +536,7 @@ BayLum: 0.2.1
 BaySIC: '1.0'
 BayesARIMAX: 0.1.1
 BayesBD: '1.2'
-BayesBEKK: 0.1.0
+BayesBEKK: 0.1.1
 BayesBP: '1.1'
 BayesBinMix: 1.4.1
 BayesBridge: '0.6'
@@ -874,7 +874,7 @@ CICA: 0.1.0
 CIDER: 0.99.1
 CIDnetworks: 0.8.1
 CIEE: 0.1.1
-CIFsmry: 1.0.1.1
+CIFsmry: '1.0'
 CIM: 1.0.0
 CIMTx: 1.2.0
 CINE: 0.1.3
@@ -1092,7 +1092,7 @@ ChargeTransport: '1.0'
 CheckDigit: 1.0.0
 ChemoSpec: 6.1.4
 ChemoSpec2D: 0.5.0
-ChemoSpecUtils: 1.0.0
+ChemoSpecUtils: 1.0.2
 ChemometricsWithR: 0.1.9
 ChemometricsWithRData: 0.1.3
 ChillModels: 1.0.2
@@ -1644,7 +1644,7 @@ DesignPatterns: 0.1.2
 DetLifeInsurance: 0.1.3
 DetMCD: 0.0.5
 DetR: 0.0.5
-DetSel: 1.0.4
+DetSel: '1.0'
 DevTreatRules: 1.1.0
 Devore5: 0.4-5
 Devore6: 0.6-0
@@ -1699,7 +1699,7 @@ Disequilibrium: '1.1'
 DisimForMixed: '0.2'
 DistPlotter: 0.0.2
 Distance: 1.0.7
-DistatisR: '1.0'
+DistatisR: 1.1.1
 Distributacalcul: 0.3.0
 DistributionFitR: '0.1'
 DistributionOptimization: 1.2.6
@@ -2613,7 +2613,7 @@ GeoDE: '1.0'
 GeoFIS: 1.0.4
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 1.0.4
+GeoModels: 1.0.5
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1
@@ -2684,7 +2684,7 @@ GreedyExperimentalDesignJARs: '1.0'
 GreedySBTM: '1.0'
 Greg: 2.0.1
 GreyModel: 0.1.0
-Greymodels: '2.0'
+Greymodels: 2.0.1
 Grid2Polygons: 0.2.1
 GridOnClusters: 0.1.0
 GridR: 0.9.1
@@ -6552,7 +6552,7 @@ Sejong: '0.01'
 SeleMix: 1.0.2
 Select: '1.4'
 SelectBoost: 2.2.2
-SelvarMix: 1.2.1
+SelvarMix: '1.2'
 SemNeT: 1.4.3
 SemNetCleaner: 1.3.4
 SemNetDictionaries: 0.2.0
@@ -6859,7 +6859,7 @@ StratifiedBalancing: 0.3.0
 StratifiedMedicine: 1.0.5
 StratifiedRF: 0.2.2
 StratifiedSampling: 0.4.1
-StratigrapheR: 1.2.5
+StratigrapheR: 1.3.0
 StreamMetabolism: 1.1.2
 StreamingLm: '0.1'
 StressStrength: 1.0.2
@@ -7999,7 +7999,7 @@ ape: 5.6-2
 apercu: 0.2.4
 apex: 1.0.4
 apexcharter: 0.3.1
-aphid: 1.3.3
+aphid: 1.3.5
 aphylo: 0.2-1
 api2lm: 0.1.4
 apisensr: 0.3.0
@@ -8110,7 +8110,7 @@ asbio: 1.8-3
 ascentTraining: 1.0.0
 ascii: '2.4'
 asciiSetupReader: 2.4.0
-asciicast: 2.2.1
+asciicast: 2.3.0
 asciichartr: 0.1.0
 asciiruler: '0.2'
 ascotraceR: 0.0.1
@@ -8565,6 +8565,7 @@ betaBayes: 1.0.1
 betaSandwich: 1.0.2
 betaboost: 1.0.1
 betacal: 0.1.0
+betaclust: 1.0.0
 betadiv: 1.0.1
 betafam: '1.0'
 betafunctions: 1.8.1
@@ -9236,7 +9237,7 @@ catdap: 1.3.5
 catdata: 1.2.2
 cate: 1.1.1
 categoryEncodings: 1.4.3
-catenary: 1.1.2
+catenary: '1.1'
 catfun: 0.1.4
 cati: 0.99.4
 catlearn: 0.9.1
@@ -10282,6 +10283,7 @@ csrplus: 1.03-0
 cssTools: '1.0'
 cstab: 0.2-2
 cstar: '1.0'
+cstime: 2022.11.22
 csurvey: '1.4'
 csutil: 2022.11.24
 csv: 0.6.2
@@ -11148,6 +11150,7 @@ dsa: 1.0.12
 dsample: 0.91.2.2
 dsb: 1.0.2
 dscore: 1.4.0
+dsdp: 0.1.0
 dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
@@ -11998,7 +12001,7 @@ familial: 1.0.4
 familiar: 1.4.0
 fanc: 2.3.9
 fancycut: 0.1.2
-fangs: 0.1.6
+fangs: 0.2.2
 fanovaGraph: '1.5'
 fanplot: 4.0.0
 fansi: 1.0.3
@@ -12223,6 +12226,7 @@ fillr: 1.0.0
 filterNHP: 0.1.2
 filterviewR: '0.11'
 finalfit: 1.0.5
+finalsize: '0.1'
 financial: '0.2'
 finbif: 0.7.1
 finch: 0.4.0
@@ -13073,7 +13077,7 @@ ggchangepoint: 0.1.0
 ggcharts: 0.2.1
 ggcleveland: 0.1.0
 ggcolpairs: 0.2.4
-ggconf: 0.1.3
+ggconf: '0.1'
 ggcorrplot: 0.1.4
 ggcorset: 0.3.0
 ggcoverage: 0.7.1
@@ -13188,7 +13192,7 @@ ggrisk: '1.3'
 ggroups: 2.1.2
 ggsci: '2.9'
 ggseas: 0.5.4
-ggsector: 1.6.1
+ggsector: 1.6.5
 ggseg: 1.6.5
 ggseg3d: 1.6.3
 ggseqlogo: '0.1'
@@ -13769,6 +13773,7 @@ hcc: '0.54'
 hcci: 1.0.0
 hce: 0.0.8
 hchinamap: 0.1.0
+hcidata: 0.1.0
 hcp: '0.1'
 hctrial: 0.1.0
 hdImpute: 0.1.1
@@ -13904,7 +13909,7 @@ hillR: 0.5.1
 hilldiv: 1.5.1
 hillmakeR: '0.2'
 hillshader: 0.1.0
-himach: 0.3.0
+himach: 0.3.1
 hindex: 0.2.0
 hindexcalculator: 1.0.0
 hint: 0.1-3
@@ -13926,7 +13931,7 @@ hitandrun: 0.5-6
 hive: 0.2-2
 hkclustering: 1.0.1
 hkdatasets: 1.0.0
-hkevp: 1.1.4
+hkevp: '1.1'
 hkex.api: '0.1'
 hlaR: 0.1.5
 hlidacr: 0.2.0
@@ -14265,7 +14270,7 @@ ifCNVR: 0.1.0
 ifa: '7.0'
 ifaTools: '0.23'
 ifctools: 0.3.4
-ifs: 0.1.9
+ifs: 0.1.10
 ifultools: 2.0-26
 ig: '1.2'
 ig.vancouver.2014.topcolour: 0.1.2.0
@@ -15387,7 +15392,7 @@ lmmpar: 0.1.0
 lmms: '1.3'
 lmodel2: 1.7-3
 lmom: '2.9'
-lmomPi: 0.5.0
+lmomPi: 0.6.2
 lmomRFA: '3.4'
 lmomco: 2.4.7
 lmreg: '1.2'
@@ -16057,6 +16062,7 @@ metamer: 0.3.0
 metamicrobiomeR: '1.2'
 metamisc: 0.4.0
 metan: 1.17.0
+metanetwork: 0.7.0
 metansue: '2.5'
 metap: '1.8'
 metapack: 0.2.0
@@ -16233,7 +16239,7 @@ minqa: 1.2.5
 minque: 2.0.0
 minsample1: 0.1.0
 minsample2: 0.1.0
-minval: 0.8-2
+minval: '0.8'
 minxent: '0.01'
 mipfp: 3.2.1
 mipplot: 0.3.1
@@ -16325,7 +16331,7 @@ mixsmsn: 1.1-10
 mixsqp: 0.3-48
 mixstock: '0.9'
 mixtNB: '1.0'
-mixtools: 1.2.0
+mixtools: 2.0.0
 mixtox: 1.4.0
 mixtur: 1.2.0
 mixture: 2.0.5
@@ -16862,6 +16868,7 @@ mutualinf: 1.1.2
 mvGPS: 1.2.2
 mvLSW: 1.2.5
 mvLSWimpute: 0.1.1
+mvMAPIT: 2.0.0
 mvMISE: '1.0'
 mvMORPH: 1.1.6
 mvMonitoring: 0.2.0
@@ -17041,7 +17048,7 @@ nephro: '1.3'
 neptune: 0.2.3
 nesRdata: 0.3.1
 nestedRanksTest: '0.2'
-nestedcv: 0.4.0
+nestedcv: 0.4.4
 nestedmodels: 1.0.2
 nestfs: 1.0.2
 nestr: 0.1.2
@@ -17192,6 +17199,7 @@ nlmixr2est: 2.1.3
 nlmixr2extra: 2.0.8
 nlmixr2lib: 0.1.0
 nlmixr2plot: 2.0.7
+nlmixr2rpt: 0.1.0
 nlmm: 1.0.1
 nlmrt: 2016.3.2
 nlnet: '1.4'
@@ -17616,7 +17624,7 @@ opentripplanner: 0.4.0
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
 openxlsx: 4.2.5.1
-openxlsx2: 0.3.1
+openxlsx2: '0.4'
 opera: 1.2.0
 operator.tools: 1.6.3
 operators: 0.1-8
@@ -18087,6 +18095,7 @@ pcsstools: 0.1.1
 pct: 0.9.5
 pcts: 0.15.5
 pcurve: 0.6-4
+pcv: 1.0.0
 pdR: '1.8'
 pdSpecEst: 1.2.4
 pda: 1.0-2
@@ -18309,7 +18318,7 @@ phyloarray: '0.1'
 phylobase: 0.8.10
 phylocanvas: 0.1.3
 phyloclim: 0.9.5
-phylocomr: 0.3.2
+phylocomr: 0.3.3
 phylocurve: 2.1.1
 phylodyn: 0.9.0
 phylogram: 2.1.0
@@ -19221,7 +19230,7 @@ quanteda.textstats: '0.96'
 quantification: 0.2.0
 quantileDA: '1.1'
 quantilogram: 2.2.1
-quantities: 0.1.6
+quantities: 0.2.0
 quantkriging: 0.1.0
 quantmod: 0.4.20
 quantoptr: 0.1.3
@@ -19724,7 +19733,7 @@ rdomains: 0.2.1
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '2.2'
-rdrobust: 2.1.0
+rdrobust: 2.1.1
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
 rdtLite: '1.4'
@@ -21572,6 +21581,7 @@ sistec: 0.2.0
 sistmr: 0.1.1
 sisus: 3.9-13
 sitar: 1.3.0
+sitepickR: 0.0.1
 siteymlgen: 1.0.0
 sitmo: 2.0.2
 sitools: '1.4'
@@ -24342,7 +24352,7 @@ youtubecaption: 1.0.0
 yowie: 0.1.0
 ypr: 0.6.0
 ypssc: 1.1.0
-yuima: 1.15.15
+yuima: 1.15.18
 yuimaGUI: 1.3.1
 yulab.utils: 0.0.5
 yum: 0.1.0
