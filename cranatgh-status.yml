@@ -56,6 +56,7 @@ AGSDest: 2.3.4
 AGread: 1.3.2
 AHM: 1.0.1
 AHMbook: 0.2.6
+AHPWR: 0.1.0
 AHPhybrid: 0.1.0
 AHR: 1.5.0
 AHSurv: 0.1.0
@@ -1368,6 +1369,7 @@ DARTData: '1.0'
 DATAstudio: '1.1'
 DATforDCEMRI: '0.5'
 DArand: 0.0.1.2
+DBERlibR: 0.1.3
 DBEST: '1.8'
 DBFTest: '1.0'
 DBGSA: '1.2'
@@ -2630,7 +2632,7 @@ GetDFPData2: 0.6.2
 GetFREData: 0.8.1
 GetHFData: '1.7'
 GetITRData: '0.7'
-GetLattesData: 1.4.1
+GetLattesData: 1.4.2
 GetNenshuJP: '0.1'
 GetQuandlData: 0.1.0
 GetR: '0.1'
@@ -3763,6 +3765,7 @@ MNM: 1.0-3
 MNP: 3.1-3
 MNS: '1.0'
 MOCCA: '1.4'
+MOCHA: 0.1.0
 MODIS: 1.2.9
 MODISSnow: 0.1.0.0
 MODISTools: 1.1.2
@@ -3962,6 +3965,7 @@ MergeGUI: 0.2-1
 MeshAgreement: 0.1.4
 MeshesOperations: 0.1.0
 MeshesTools: 1.0.0
+Mestim: 0.1.0
 MetABEL: 0.2-0
 MetAlyzer: 0.1.0
 MetBrewer: 0.2.0
@@ -4317,7 +4321,7 @@ NetCoupler: 0.1.0
 NetDA: 0.2.0
 NetData: '0.3'
 NetExplorer: 0.0.2
-NetFACS: 0.4.0
+NetFACS: 0.5.0
 NetIndices: 1.4.4.1
 NetInt: 1.0.0
 NetLogoR: 0.3.9
@@ -7962,7 +7966,7 @@ anonymizer: 0.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
 ant: 0.0-8
-antaresEditObject: 0.3.0
+antaresEditObject: 0.4.0
 antaresProcessing: 0.18.1
 antaresRead: 2.3.1
 antaresViz: 0.17.1
@@ -8091,7 +8095,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
-arrow: 10.0.0
+arrow: 10.0.1
 ars: '0.6'
 arse: 1.0.0
 arsenal: 3.6.3
@@ -8654,7 +8658,7 @@ bigml: 0.1.2
 bignum: 0.3.0
 bigparallelr: 0.3.2
 bigpca: '1.1'
-bigreadr: 0.2.4
+bigreadr: 0.2.5
 bigrf: 0.1-6
 bigrquery: 1.4.1
 bigsimr: 0.11.2
@@ -8900,7 +8904,7 @@ boostmtree: 1.5.1
 boostr: 1.0.0
 boot: 1.3-28.1
 boot.heterogeneity: 1.1.5
-boot.pval: '0.4'
+boot.pval: 0.4.1
 bootCT: 1.1.1
 bootComb: 1.1.2
 bootES: 1.2.1
@@ -9959,7 +9963,7 @@ contTimeCausal: '1.1'
 contact: 1.2.8
 contactdata: 0.2.0
 container: 1.0.3
-contentid: 0.0.15
+contentid: 0.0.16
 contextual: 0.9.8
 contfrac: 1.1-12
 conting: '1.7'
@@ -11536,7 +11540,7 @@ emil: 2.2.8
 emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 1.8.2
+emmeans: 1.8.3
 emoa: 0.5-0.1
 emoji: '15.0'
 emojifont: 0.5.5
@@ -11732,6 +11736,7 @@ essurvey: 1.0.8
 estadistica: 0.2.2
 estatapi: 0.4.0
 estimability: 1.4.1
+estimateW: 0.0.1
 estimatr: 1.0.0
 estimraw: 1.0.0
 estmeansd: 1.0.0
@@ -11813,7 +11818,7 @@ exactci: 1.4-2
 exactextractr: 0.9.1
 exactmaxsel: '1.0'
 exactmeta: 1.0-2
-exampletestr: 1.6.5
+exampletestr: 1.7.0
 exams: 2.4-0
 exams.mylearn: '1.4'
 exams2learnr: 0.1-0
@@ -12059,7 +12064,7 @@ fastcox: 1.1.3
 fastdigest: 0.6-3
 fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
-fasterize: 1.0.3
+fasterize: 1.0.4
 fastglm: 0.0.3
 fasthplus: '1.0'
 fastkmedoids: '1.2'
@@ -12425,7 +12430,7 @@ forestecology: 0.2.0
 forestinventory: 1.0.0
 forestmangr: 0.9.4
 forestmodel: 0.6.2
-forestplot: 3.1.0
+forestplot: 3.1.1
 forestploter: 0.2.3
 forestr: 2.0.2
 forestry: 0.1.0
@@ -12860,7 +12865,7 @@ gendist: '2.0'
 gene2pathway: 1.8.1
 geneARMA: '1.0'
 geneExpressionFromGEO: '0.9'
-geneHapR: 1.1.1
+geneHapR: 1.1.5
 geneHummus: 1.0.11
 geneListPie: '1.0'
 geneNetBP: 2.0.1
@@ -13216,7 +13221,7 @@ ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
 ggsurvey: 1.0.0
-ggsurvfit: 0.2.0
+ggsurvfit: 0.2.1
 ggswissmaps: 0.1.1
 ggtea: 0.1.1
 ggtern: 3.4.1
@@ -13666,7 +13671,7 @@ gtop: 0.2.0
 gtreg: 0.2.0
 gtrendsR: 1.5.1
 gtsf: 0.1.0
-gtsummary: 1.6.2
+gtsummary: 1.6.3
 gtx: 0.0.8
 guaguas: 0.3.0
 guardianapi: 0.1.1
@@ -14075,7 +14080,7 @@ hybridHclust: 1.0-5
 hybridModels: 0.3.7
 hybridogram: 0.3.2
 hydra: 0.1.0
-hydraulics: 0.6.0
+hydraulics: 0.6.1
 hydroApps: 0.1-1
 hydroEvents: '0.10'
 hydroGOF: 0.4-0
@@ -18027,7 +18032,7 @@ pawls: 1.0.0
 paws: 0.1.12
 paws.analytics: 0.1.12
 paws.application.integration: 0.1.13
-paws.common: 0.5.2
+paws.common: 0.5.3
 paws.compute: 0.1.13
 paws.cost.management: 0.1.12
 paws.customer.engagement: 0.1.12
@@ -18589,7 +18594,7 @@ polished: 0.7.0
 polite: 0.1.2
 politeness: 0.8.7
 politicaldata: 0.1.3
-polle: '0.1'
+polle: '1.0'
 pollen: 0.82.0
 pollimetry: 1.0.1
 pollstR: 2.0.1
@@ -19361,7 +19366,7 @@ rFUSION: '0.1'
 rFerns: 5.0.0
 rForest: 0.1.4
 rGEDI: 0.1.9
-rGV: 0.0.2
+rGV: 0.0.3
 rGammaGamma: 1.0.12
 rGhanaCensus: 0.1.0
 rGoodData: 0.1.1
@@ -20082,7 +20087,7 @@ rfviz: 1.0.1
 rgabriel: '0.9'
 rgam: 0.6.6
 rgauges: 0.2.0
-rgbif: 3.7.3
+rgbif: 3.7.4
 rgcvpack: 0.1-4
 rgdal: 1.6-2
 rgdax: 1.2.1
@@ -20439,7 +20444,7 @@ rotationForest: 0.1.3
 rotations: 1.6.4
 rotl: 3.0.14
 rotor: 0.3.7
-roughnet: 1.0.0
+roughnet: 1.0.1
 roughrf: '1.0'
 roughsf: 1.0.0
 round: 0.20-0
@@ -21878,7 +21883,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 2.4.0
+spant: 2.5.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -22942,6 +22947,7 @@ tfplot: 2021.6-1
 tfprobability: 0.15.1
 tframe: 2015.12-1.1
 tframePlus: 2022.3-1
+tfrmt: 0.0.1
 tfruns: 1.5.1
 tfse: 0.5.0
 tgamtheme: 0.1.0
@@ -23216,7 +23222,7 @@ toolmaRk: 0.0.1
 tools4uplift: 1.0.0
 topdowntimeratio: 0.1.0
 topicdoc: 0.1.1
-topicmodels: 0.2-12
+topicmodels: 0.2-13
 topicmodels.etm: 0.1.0
 topmodel: 0.7.5
 topoDistance: 1.0.2
