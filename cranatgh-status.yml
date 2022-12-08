@@ -272,7 +272,7 @@ ArfimaMLM: '1.3'
 ArgumentCheck: 0.9.0
 Arothron: 2.0.3
 ArrayBin: '0.2'
-AsioHeaders: 1.22.1-1
+AsioHeaders: 1.22.1-2
 AssayCorrector: 2.0.0
 AssetAllocation: 1.0.0
 AssetCorr: 1.0.4
@@ -2113,7 +2113,7 @@ FHtest: '1.5'
 FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
-FIESTA: 3.4.2
+FIESTA: 3.5.0
 FIESTAutils: 1.1.4
 FILEST: 1.1.2
 FIT: 0.0.6
@@ -2865,6 +2865,7 @@ HiveR: 0.3.63
 Hmisc: 4.7-2
 Hmsc: 3.0-13
 HoRM: 0.1.3
+HodgesTools: 1.0.0
 Holidays: 1.0-7
 Homeric: 0.1-3
 HomoPolymer: '1.0'
@@ -3004,7 +3005,7 @@ IPDFileCheck: 0.7.5
 IPDfromKM: 0.1.10
 IPEC: 1.0.3
 IPEDS: 0.1.0
-IPEDSuploadables: 2.5.5
+IPEDSuploadables: 2.6.5
 IPLGP: 2.0.3
 IPMRF: '1.2'
 IPMbook: 0.1.4
@@ -4013,7 +4014,7 @@ MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
 Metrics: 0.1.4
 MetricsWeighted: 0.5.4
-MfUSampler: 1.0.6
+MfUSampler: 1.1.0
 MiClip: '1.3'
 MiDA: 0.1.2
 MiMIR: '1.4'
@@ -4261,7 +4262,7 @@ NNMIS: 1.0.1
 NNS: 0.9.4
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
-NO.PING.PONG: 0.1.4
+NO.PING.PONG: 0.1.6
 NOAAWeather: 0.1.0
 NORMA: '0.1'
 NORMT3: '1.0'
@@ -4272,6 +4273,7 @@ NPBayesImputeCat: '0.5'
 NPC: 1.1.0
 NPCD: 1.0-11
 NPCirc: 3.1.1
+NPCox: '1.1'
 NPHMC: '2.3'
 NPHazardRate: '0.1'
 NPIstats: 0.1.0
@@ -4798,7 +4800,7 @@ ParBayesianOptimization: 1.2.6
 ParDNAcopy: '2.0'
 ParallelDSM: 0.3.7
 ParallelForest: 1.1.0
-ParallelLogger: 3.0.1
+ParallelLogger: 3.1.0
 ParallelPC: '1.2'
 ParallelTree: 0.1.3
 ParamHelpers: 1.14.1
@@ -6450,7 +6452,7 @@ SRRS: '0.1'
 SRS: 0.2.3
 SRTsim: 0.99.3
 SRTtools: 1.2.0
-SSBtools: 1.3.4
+SSBtools: 1.3.8
 SSDL: '1.1'
 SSDM: 0.2.8
 SSDforR: 1.5.28
@@ -7707,7 +7709,7 @@ adaptMCMC: '1.4'
 adaptMT: 1.0.0
 adaptTest: '1.1'
 adaptalint: 0.2.4
-adaptiveGPCA: 0.1.2
+adaptiveGPCA: 0.1.3
 adaptivetau: 2.2-3
 adaptr: 1.1.1
 adaptsmoFMRI: '1.2'
@@ -8471,7 +8473,7 @@ bbknnR: 1.0.2
 bbl: 1.0.0
 bbmle: 1.0.25
 bbo: '0.2'
-bbotk: 0.7.1
+bbotk: 0.7.2
 bbreg: 2.0.2
 bbricks: 0.1.4
 bbsBayes: 2.5.2
@@ -11199,7 +11201,7 @@ dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.6.0
+duckdb: 0.6.1
 duckduckr: 1.0.0
 dumbbell: '0.1'
 dummies: 1.5.6
@@ -11963,6 +11965,7 @@ face: 0.1-7
 facebook.S4: 1.1.0
 facebookadsR: 0.1.0
 facebookleadsR: 0.1.0
+facebookorganicR: 0.1.0
 facerec: 0.1.0
 facilitation: 0.5.2
 factas: '2.3'
@@ -12761,7 +12764,7 @@ gateR: 0.1.12
 gatepoints: 0.1.4
 gauseR: '1.1'
 gaussDiff: '1.1'
-gausscov: 0.1.9
+gausscov: 1.0.0
 gaussfacts: 0.0.2
 gaussplotR: 0.2.5
 gausspred: 1.0-0
@@ -17408,7 +17411,7 @@ nsdr: 0.1.1
 nse: '1.21'
 nse2r: 0.1.6
 nser: 1.4.3
-nseval: 0.4.2
+nseval: 0.4.3
 nsga2R: '1.1'
 nsga3: 0.0.3
 nsgp: 1.0.5
@@ -19234,7 +19237,7 @@ quantable: 0.3.6
 quantchem: '0.13'
 quantdates: '1.0'
 quantdr: 1.2.2
-quanteda: 3.2.3
+quanteda: 3.2.4
 quanteda.textmodels: 0.9.5-1
 quanteda.textplots: 0.94.2
 quanteda.textstats: '0.96'
@@ -19757,7 +19760,7 @@ re2r: 0.2.0
 reGenotyper: 1.2.0
 reReg: 1.4.4
 reactR: 0.4.4
-reactable: 0.4.0
+reactable: 0.4.1
 reactablefmtr: 2.0.0
 reactlog: 1.1.1
 read.cwa: 0.2.1
@@ -20013,7 +20016,7 @@ reshape: 0.8.9
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
 resourcer: 1.3.0
-respR: 2.0.2
+respR: 2.1.0
 resper: '0.3'
 respirometry: 1.3.0
 responsePatterns: 0.1.0
@@ -20373,7 +20376,7 @@ robustcov: '0.1'
 robustfa: '1.0'
 robustgam: 0.1.7
 robustlm: 0.1.0
-robustlmm: 3.1-1
+robustlmm: 3.1-2
 robustloggamma: 1.0-2
 robustmeta: 1.1-1
 robustrank: 2019.9-10
@@ -20717,7 +20720,7 @@ rvcheck: 0.2.1
 rversions: 2.1.2
 rvertnet: 0.8.2
 rvest: 1.0.3
-rvg: 0.2.5
+rvg: 0.3.0
 rvgtest: 0.7.4
 rviewgraph: 1.4.1
 rvinecopulib: 0.6.2.1.3
@@ -21334,6 +21337,7 @@ shinyChakraUI: 1.1.1
 shinyCohortBuilder: '0.1'
 shinyCyJS: 0.0.11
 shinyDND: 0.1.0
+shinyDatetimePickers: 1.0.0
 shinyEffects: 0.2.0
 shinyEventLogger: 0.1.1
 shinyFeedback: 0.4.0
@@ -23305,6 +23309,7 @@ transPlotR: 0.0.2
 transcribeR: 0.0.0
 transfR: 1.0.2
 transforEmotion: 0.1.1
+transform.hazards: 0.1.0
 transformmos: 0.1.0
 transformr: 0.1.4
 translate: '0.1'
