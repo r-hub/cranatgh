@@ -1977,7 +1977,7 @@ EpiDynamics: 0.3.1
 EpiEstim: 2.2-4
 EpiILM: 1.5.2
 EpiILMCT: 1.1.7
-EpiInvert: 0.2.1
+EpiInvert: 0.3.0
 EpiLPS: 1.0.6
 EpiModel: 2.3.1
 EpiNow2: 1.3.2
@@ -2345,7 +2345,7 @@ GAD: 1.1.1
 GADAG: 0.99.0
 GADGET: 0.2.0
 GADMTools: 3.9-1
-GAGAs: 0.5.0
+GAGAs: 0.5.1
 GAIPE: '1.1'
 GALLO: '1.3'
 GAMBoost: '1.2'
@@ -2472,6 +2472,7 @@ GOSim: '1.2'
 GOplot: 1.0.2
 GOsummaries: '1.1'
 GOxploreR: 1.2.6
+GPArotateDF: 2022.12-1
 GPArotation: 2022.10-2
 GPB: '1.2'
 GPBayes: 0.1.0-4
@@ -2878,7 +2879,7 @@ HumMeth27QCReport: 1.2.9
 HuraultMisc: 1.1.1
 HurreconR: '1.0'
 HyPhy: '1.0'
-HyRiM: 2.0.1
+HyRiM: 2.0.2
 HybridFS: 0.1.3
 HybridMC: '0.2'
 HydeNet: 0.10.11
@@ -3436,7 +3437,7 @@ Langevin: 1.3.1
 LaplaceDeconv: 1.0.4
 LaplacesDemon: 16.1.6
 LargeRegression: '1.0'
-LassoBacktracking: '1.0'
+LassoBacktracking: '1.1'
 LassoGEE: '1.0'
 LassoNet: 0.8.3
 LassoSIR: 0.1.1
@@ -3836,7 +3837,7 @@ MST: '2.2'
 MSTest: 0.1.0
 MSToolkit: 3.2.0
 MSVAR: '0.0'
-MSbox: 1.4.6
+MSbox: 1.4.8
 MSclassifR: 0.3.1
 MSclust: 1.0.2
 MScombine: '1.4'
@@ -6627,7 +6628,7 @@ SigOptR: 0.0.1
 SigTree: 1.10.6
 SigWinR: '1.0'
 SightabilityModel: 1.5.1
-Signac: 1.8.0
+Signac: 1.9.0
 SignacX: 2.2.5
 SignifReg: '4.3'
 Sim.DiffProc: '4.8'
@@ -8059,7 +8060,7 @@ archivist.github: 0.2.6
 arcos: '1.27'
 arcpullr: 0.2.7
 arctools: 1.1.6
-ardl.nardl: 1.2.0
+ardl.nardl: 1.2.1
 areabiplot: 1.0.0
 areal: 0.1.8
 arealDB: 0.3.9
@@ -8075,7 +8076,7 @@ argon2: 0.4-0
 argonDash: 0.2.0
 argonR: 0.2.0
 argosfilter: '0.70'
-argparse: 2.1.6
+argparse: 2.2.1
 argparser: 0.7.1
 argus: '0.1'
 ari: 0.3.5
@@ -8723,7 +8724,7 @@ binr: 1.1.1
 binsegRcpp: 2022.7.21
 binseqtest: 1.0.3
 binsmooth: 0.2.2
-binspp: 0.1.24
+binspp: 0.1.26
 binsreg: '0.7'
 binst: 0.2.1
 bio.infer: 1.3-6
@@ -9606,7 +9607,7 @@ clinUtiDNA: '1.0'
 clinUtils: 0.1.3
 clines: 2.0-3
 clinfun: 1.1.0
-clinicalsignificance: 1.0.0
+clinicalsignificance: 1.2.0
 clinmon: 0.6.0
 clinsig: '1.2'
 clinspacy: 1.0.2
@@ -11026,7 +11027,7 @@ dnet: 1.1.7
 dng: 0.2.1
 dnr: 0.3.5
 do: 2.0.0.0
-doBy: 4.6.14
+doBy: 4.6.15
 doFuture: 0.12.2
 doMC: 1.3.8
 doMIsaul: 1.0.1
@@ -11869,7 +11870,7 @@ exprso: 0.5.1
 expsmooth: '2.3'
 expss: 0.11.4
 expstudies: 0.0.5
-expstudy: 1.0.2
+expstudy: 1.0.3
 exptest: '1.2'
 exreport: 0.4.1
 exsic: 1.1.1
@@ -12869,7 +12870,7 @@ gendist: '2.0'
 gene2pathway: 1.8.1
 geneARMA: '1.0'
 geneExpressionFromGEO: '0.9'
-geneHapR: 1.1.5
+geneHapR: 1.1.6
 geneHummus: 1.0.11
 geneListPie: '1.0'
 geneNetBP: 2.0.1
@@ -13333,7 +13334,7 @@ glmmSeq: 0.5.5
 glmmTMB: 1.1.5
 glmmboot: 0.6.0
 glmmfields: 0.1.4
-glmmrBase: 0.2.2
+glmmrBase: 0.2.3
 glmmsr: 0.2.3
 glmnet: 4.1-6
 glmnetSE: 0.0.1
@@ -13839,7 +13840,7 @@ helixvis: 1.0.1
 hellno: 0.0.1
 helloJavaWorld: 0.0-9
 hellorust: 1.0.1
-helminthR: 1.0.9
+helminthR: 1.0.10
 helpr: '0.1'
 helsinki: 1.0.6
 heplots: 1.4-2
@@ -14242,7 +14243,7 @@ icesSAG: 1.4.0
 icesSD: 2.0.0
 icesTAF: 4.0.0
 icesVocab: 1.2.0
-ichimoku: 1.4.2
+ichimoku: 1.4.3
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -15814,7 +15815,7 @@ matie: '1.2'
 matlab: 1.0.4
 matlab2r: 1.3.0
 matlabr: 1.5.2
-matlib: 0.9.5
+matlib: 0.9.6
 matman: 1.1.3
 matpow: 0.1.2
 matricks: 0.8.2
@@ -18179,7 +18180,7 @@ pendensity: 0.2.13
 penfa: 0.1.1
 penppml: 0.2.0
 pense: 2.1.0
-pensim: 1.3.3
+pensim: 1.3.6
 peopleanalytics: 0.1.0
 peopleanalyticsdata: 0.2.1
 pepe: 1.2.0
@@ -19635,7 +19636,7 @@ rbgm: 0.1.0
 rbhl: 0.9.2
 rbi: 0.10.4
 rbi.helpers: 0.3.3
-rbibutils: 2.2.10
+rbibutils: 2.2.11
 rbin: 0.2.0
 rbioacc: 1.1-0
 rbioapi: 0.7.7
@@ -20460,7 +20461,7 @@ rowr: 1.1.3
 roxut: 0.4.0
 roxyPackage: 0.03-6
 roxygen: '0.1'
-roxygen2: 7.2.2
+roxygen2: 7.2.3
 roxygen2md: 1.0.0
 roxytest: 0.0.1
 royston: '1.2'
@@ -20590,7 +20591,7 @@ rsig: '1.0'
 rsimsum: 0.11.3
 rsinaica: 0.6.1
 rskey: 0.4.4
-rsleep: 1.0.4
+rsleep: 1.0.5
 rslp: 0.2.0
 rslurm: 0.6.1
 rsm: 2.10.3
@@ -21860,7 +21861,7 @@ spMC: 0.3.12
 spMaps: 0.4.0
 spNNGP: 1.0.0
 spNetwork: 0.4.3.6
-spOccupancy: 0.5.0
+spOccupancy: 0.5.1
 spRingsteen: 0.1.0
 spTDyn: 2.0.2
 spTest: 0.2.5
@@ -21901,7 +21902,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.7.8
+sparklyr: 1.7.9
 sparklyr.flint: 0.2.2
 sparklyr.nested: 0.0.3
 sparktex: '0.1'
@@ -23110,7 +23111,7 @@ timbr: 0.1.1
 time: '1.1'
 time.slots: 0.2.0
 time2event: 0.1.0
-timeDate: '4021.106'
+timeDate: '4021.107'
 timeR: 1.2.0
 timeROC: '0.4'
 timeSeq: 1.0.4
@@ -23987,7 +23988,7 @@ walkalytics: 0.1.0
 walker: 1.0.6-1
 walkr: 0.4.0
 walkscoreAPI: '1.2'
-wallace: 1.1.3
+wallace: 2.0.0
 wally: 1.0.10
 walmartAPI: 0.1.5
 walrus: 1.0.5
