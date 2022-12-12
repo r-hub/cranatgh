@@ -255,6 +255,7 @@ AntWeb: '0.7'
 AnthropMMD: 3.1.0
 Anthropometry: '1.17'
 AntibodyTiters: 0.1.24
+AnxietySleep: 0.0.1
 Aoptbdtvc: 0.0.2
 AovBay: 0.1.0
 ApacheLogProcessor: 0.2.3
@@ -479,7 +480,7 @@ BRugs: 0.9-1
 BSBT: 1.2.1
 BSDA: 1.2.1
 BSGS: '2.0'
-BSGW: '0.9'
+BSGW: 0.9.4
 BSL: 3.2.5
 BSPADATA: 1.1.0
 BSPBSS: 1.0.5
@@ -1323,6 +1324,7 @@ CrossScreening: 0.1.1
 CrossVA: 1.0.0
 CrossValidate: 2.3.4
 Crossover: 0.1-20
+Crosstabs.Loglinear: 0.1.1
 CruzPlot: 1.4.8
 CryptRndTest: 1.2.7
 CrypticIBDcheck: 0.3-3
@@ -2696,7 +2698,7 @@ GriegSmith: '1.0'
 GrimR: '0.5'
 GroupBN: 1.2.0
 GroupComparisons: 0.1.0
-GroupSeq: 1.4.0
+GroupSeq: 1.4.2
 GroupTest: 1.0.1
 GrowingSOM: '0.1'
 GrpString: 0.3.2
@@ -6262,6 +6264,7 @@ SDLfilter: 2.3.0
 SDMPlay: '2.0'
 SDMTools: '1.1'
 SDMtune: 1.1.6
+SDPDmod: 0.0.1
 SDPrism2D: 0.1.1
 SDR: 0.7.0.0
 SDT: 1.0.0
@@ -7000,7 +7003,7 @@ TGUICore: 0.9.9
 TGUITeaching: 0.9.9
 TH.data: 1.1-1
 TIGERr: 1.0.0
-TIMP: '1.9'
+TIMP: 1.13.6
 TITAN2: 2.4.1
 TInPosition: 0.13.6
 TKCat: 1.0.6
@@ -7281,7 +7284,7 @@ TwslmSpikeWeight: 1.0.1
 UBCRM: 1.0.2
 UBL: 0.0.7
 UCR.ColumnNames: 0.1.0
-UCSCXenaShiny: 1.1.8
+UCSCXenaShiny: 1.1.9
 UCSCXenaTools: 1.4.8
 UComp: 2.2.3
 UKB.COVID19: 0.1.3
@@ -7833,6 +7836,7 @@ aif360: 0.1.0
 aimPlot: 1.0.0
 aimsir17: 0.0.2
 airGR: 1.7.0
+airGRdatasets: 0.1.4
 airGRdatassim: 0.1.3
 airGRiwrm: 0.6.1
 airGRteaching: 0.2.13
@@ -8424,7 +8428,7 @@ bayesPO: 0.3.1
 bayesPop: 9.0-1
 bayesQR: '2.3'
 bayesSurv: '3.6'
-bayesTFR: 7.2-0
+bayesTFR: 7.2-2
 bayesZIB: 0.0.4
 bayesammi: 0.1.0
 bayesanova: '1.5'
@@ -9973,7 +9977,7 @@ contextual: 0.9.8
 contfrac: 1.1-12
 conting: '1.7'
 contingency: 0.0.10
-contingencytables: 1.0.3
+contingencytables: 1.0.4
 contourPlot: 0.2.0
 contoureR: 1.0.5
 contrast: 0.24.2
@@ -11582,6 +11586,7 @@ enetLTS: 1.1.0
 english: 1.2-6
 engsoccerdata: 0.1.5
 enigma: 0.3.0
+enmSdmX: 1.0.0
 ennet: 0.2.2
 enpls: '6.1'
 enrichR: '3.1'
@@ -14570,7 +14575,7 @@ ipify: 0.2.0
 ipkg: 1.0.5
 iplots: 1.1-8
 ipmisc: 6.0.2
-ipmr: 0.0.5
+ipmr: 0.0.6
 ipptoolbox: '1.2'
 ipr: 0.1.0
 ipred: 0.9-13
@@ -14732,7 +14737,7 @@ jetpack: 0.5.5
 jetset: 3.4.0
 jfa: 0.6.4
 jgcricolors: 1.0.0
-jgsbook: 1.0.1
+jgsbook: '1.0'
 jiebaR: '0.11'
 jiebaRD: '0.1'
 jinjar: 0.3.0
@@ -16412,7 +16417,7 @@ mlr3learners: 0.5.5
 mlr3mbo: 0.1.1
 mlr3measures: 0.5.0
 mlr3misc: 0.11.0
-mlr3oml: 0.6.0
+mlr3oml: 0.7.0
 mlr3pipelines: 0.4.2
 mlr3proba: 0.4.9
 mlr3shiny: 0.2.0
@@ -16978,7 +16983,7 @@ nametagger: 0.1.2
 nandb: 2.1.0
 naniar: 0.6.1
 nanny: 0.1.8
-nanonext: 0.7.1
+nanonext: 0.7.2
 nanop: 2.0-6
 nanostringr: 0.4.0
 nanotime: 0.3.7
@@ -21216,7 +21221,7 @@ seplyr: 1.0.4
 seq2R: '1.0'
 seqCBS: 1.2.1
 seqDesign: '1.2'
-seqHMM: 1.2.2
+seqHMM: 1.2.3
 seqICP: '1.1'
 seqMeta: 1.6.7
 seqPERM: '1.0'
@@ -21874,7 +21879,7 @@ spTest: 0.2.5
 spThin: 0.2.0
 spTimer: 3.3.2
 spa: '2.0'
-spaMM: 4.1.0
+spaMM: 4.1.20
 spaa: 0.2.2
 space: 0.1-1
 spaceExt: '1.0'
@@ -22204,7 +22209,7 @@ ssfit: '1.2'
 ssgraph: '1.14'
 ssh: 0.8.2
 ssh.utils: '1.0'
-sship: 0.8.0
+sship: 0.9.0
 ssimparser: 0.1.1
 ssize.fdr: '1.3'
 ssizeRNA: 1.3.2
@@ -22666,6 +22671,7 @@ swfscDAS: 0.6.1
 swfscMisc: '1.6'
 swgee: '1.4'
 swimplot: 1.2.0
+swipeR: 0.1.0
 swirl: 2.4.5
 swirlify: 0.5.3
 swissMrP: '0.62'
@@ -24016,7 +24022,7 @@ waterfalls: 1.0.0
 waterquality: 0.3.0
 watson: '0.1'
 wav: 0.1.0
-wavScalogram: 1.1.1
+wavScalogram: 1.1.2
 waveband: 4.7.2
 waveclock: 1.0-4
 waved: '1.2'
