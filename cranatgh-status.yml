@@ -3328,7 +3328,7 @@ LDRTools: 0.2-1
 LDcorSV: 1.3.3
 LDdiag: '0.1'
 LDheatmap: 1.0-6
-LDlinkR: 1.2.2
+LDlinkR: 1.2.3
 LDtests: '1.0'
 LEANR: 1.4.9
 LEAP: '0.2'
@@ -3360,7 +3360,7 @@ LMD: 1.0.0
 LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.2.0
-LMMsolver: 1.0.3
+LMMsolver: 1.0.4
 LMMstar: 0.7.6
 LMN: 1.1.3
 LMest: 3.0.4
@@ -3965,7 +3965,7 @@ MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
 MediaNews: 0.2.1
 Mediana: 1.0.8
-MedianaDesigner: '0.10'
+MedianaDesigner: '0.11'
 Mega2R: 1.0.9
 Meiosis: 1.0.2
 MendelianRandomization: 0.6.0
@@ -4401,7 +4401,7 @@ OBMbpkg: 1.0.0
 OBRE: 0.1-0
 OBsMD: '6.1'
 OCA: '0.4'
-OCNet: 0.5.0
+OCNet: 0.5.1
 OCSdata: 1.0.2
 ODB: 1.2.1
 ODEnetwork: 1.3.2
@@ -4893,7 +4893,7 @@ PlasmaMutationDetector: 1.7.2
 PlasmaMutationDetector2: 1.1.11
 Plasmidprofiler: 0.1.6
 Plasmode: 0.1.0
-PlatformDesign: 2.1.3
+PlatformDesign: 2.1.4
 Platypus: 3.4.1
 PlayerRatings: 1.1-0
 PlotContour: 0.1.0
@@ -5013,7 +5013,7 @@ PsiHat: '1.0'
 Pstat: '1.2'
 PsumtSim: '0.4'
 PsyControl: 1.0.0.0
-PsychWordVec: 0.2.0
+PsychWordVec: 0.3.0
 PtProcess: 3.3-16
 PubBias: '1.0'
 PubMedMining: 1.0.0
@@ -5876,7 +5876,7 @@ Rdbi.PgSQL: 0.1-2
 Rdca: 0.1.0
 Rdiagnosislist: '1.0'
 Rdice: 1.0.0
-Rdimtools: 1.1.1
+Rdimtools: 1.1.2
 Rdistance: 2.1.3
 Rdpack: '2.4'
 Rdrools: 1.1.1
@@ -7452,6 +7452,7 @@ VoxR: 1.0.0
 VulnToolkit: 1.1.4
 W2CWM2C: '2.2'
 W3CMarkupValidator: 0.1-6
+W4MRUtils: 0.0.1
 WA: '1.0'
 WACS: 1.1.0
 WARN: 1.2-4
@@ -7847,7 +7848,7 @@ airGR: 1.7.0
 airGRdatasets: 0.1.4
 airGRdatassim: 0.1.3
 airGRiwrm: 0.6.1
-airGRteaching: 0.2.13
+airGRteaching: 0.3.1
 aire.zmvm: 0.8.2
 airnow: 0.1.0
 airportr: 0.1.3
@@ -8562,7 +8563,7 @@ beginr: 0.1.7
 behaviorchange: 0.5.1
 behavr: 0.3.2
 belex: 0.1.0
-belg: 1.5.2
+belg: 1.5.3
 belief: '1.0'
 bellreg: 0.0.1
 bench: 1.1.2
@@ -9380,7 +9381,7 @@ censusxy: 1.1.1
 censys: 0.1.0
 centiserve: 1.0.0
 centralplot: 0.1.0
-centrifugeR: 0.1.6
+centrifugeR: 0.1.7
 cents: 0.1-41
 cepR: 0.1.2
 cepiigeodist: '0.1'
@@ -10447,7 +10448,7 @@ dGAselID: '1.2'
 dHSIC: '2.1'
 dLagM: 1.1.8
 dMod: 1.0.2
-dPCP: 1.0.4
+dPCP: 2.0.0
 dQTG.seq: 1.0.1
 dSVA: '1.0'
 dTBM: '2.0'
@@ -10559,7 +10560,7 @@ datawizard: 0.6.5
 datazoom.amazonia: 0.3.0
 date: 1.2-40
 datefixR: 1.3.1
-datelife: 0.6.5
+datelife: 0.6.6
 daterangepicker: 0.1.0
 datetime: 0.1.4
 datetimeutils: 0.5-0
@@ -11659,7 +11660,7 @@ epiflows: 0.2.0
 epigraphdb: 0.2.3
 epikit: 0.1.2
 epimdr: 0.6-5
-epimdr2: 1.0-8
+epimdr2: 1.0-9
 epinet: 2.1.8
 epinetr: '0.96'
 epipen: 1.0-0
@@ -12645,7 +12646,7 @@ futile.matrix: 1.2.7
 futile.options: 1.0.1
 futile.paradigm: 2.0.4
 futility: '0.4'
-future: 1.29.0
+future: 1.30.0
 future.BatchJobs: 0.17.0
 future.apply: 1.10.0
 future.batchtools: 0.11.0
@@ -12825,7 +12826,7 @@ gcolor: '1.0'
 gconcord: '0.4'
 gconsensus: 0.3.2
 gcookbook: '2.0'
-gdalUtilities: 1.2.2
+gdalUtilities: 1.2.3
 gdalUtils: 2.0.3
 gdalcubes: 0.6.2
 gdata: 2.18.0.1
@@ -13283,7 +13284,7 @@ gifti: 0.8.0
 giftwrap: 0.0.4
 gigg: 0.2.1
 gim: 0.33.1
-gimme: 0.7-9
+gimme: 0.7-10
 gimmeTools: '0.1'
 gimms: 1.2.1
 giphyr: 0.2.0
@@ -14363,7 +14364,7 @@ imgw: 0.3.0
 iml: 0.11.1
 immcp: 1.0.3
 immer: 1.4-15
-immunarch: 0.8.0
+immunarch: 0.9.0
 immuneSIM: 0.8.7
 imola: 0.5.0
 imp4p: '1.2'
@@ -15285,7 +15286,7 @@ librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: '0.7'
 libstableR: 1.0.2
-lidR: 4.0.1
+lidR: 4.0.2
 lidaRtRee: 4.0.3
 lifeR: 0.9.6
 lifecontingencies: 1.3.9
@@ -15901,7 +15902,7 @@ mcMST: 1.0.1
 mcPAFit: 0.1.4
 mcStats: 0.1.2
 mcb: 0.1.15
-mcbette: '1.15'
+mcbette: 1.15.1
 mcbiopi: 1.1.6
 mcboost: 0.4.2
 mcc: '1.0'
@@ -18200,7 +18201,7 @@ penalizedLDA: '1.1'
 penalizedSVM: 1.1.3
 penalizedclr: 0.1.0
 penaltyLearning: 2020.5.13
-pencal: 1.3.1
+pencal: 1.3.2
 pencopula: '0.3'
 pencopulaCond: '0.2'
 pendensity: 0.2.13
@@ -19609,7 +19610,7 @@ rasclass: 0.2.2
 rase: 0.3-3
 rassta: 1.0.5
 raster: 3.6-11
-rasterDT: 0.3.1
+rasterDT: 0.3.2
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.2
 rasterList: 0.5.14
@@ -21753,7 +21754,7 @@ smoothROCtime: 0.1.0
 smoothSurv: '2.5'
 smoothedLasso: '1.6'
 smoother: '1.1'
-smoothic: 0.1.0
+smoothic: 1.0.0
 smoothie: 1.0-3
 smoothmest: 0.1-3
 smoothr: 0.2.2
@@ -24020,7 +24021,7 @@ walkalytics: 0.1.0
 walker: 1.0.6-1
 walkr: 0.4.0
 walkscoreAPI: '1.2'
-wallace: 2.0.0
+wallace: 2.0.1
 wally: 1.0.10
 walmartAPI: 0.1.5
 walrus: 1.0.5
