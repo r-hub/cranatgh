@@ -1989,6 +1989,7 @@ EpiResTest: '1.0'
 EpiSemble: 0.1.0
 EpiSignalDetection: 0.1.2
 EpiStats: 1.5-1
+EpiTest: 1.0.0
 EpiWeek: '1.1'
 EpistemicGameTheory: 0.1.2
 Eplot: '1.0'
@@ -2165,7 +2166,7 @@ FRESA.CAD: 3.4.3
 FRESHD: '1.0'
 FREddyPro: '1.0'
 FRI: '1.0'
-FRK: 2.1.2
+FRK: 2.1.3
 FRegSigCom: 0.3.0
 FSA: 0.9.3
 FSAdata: 0.4.0
@@ -3982,6 +3983,7 @@ Mestim: 0.2.0
 MetABEL: 0.2-0
 MetAlyzer: 0.1.0
 MetBrewer: 0.2.0
+MetChem: '0.1'
 MetFns: 3.2.2
 MetGen: '0.5'
 MetNorm: '0.1'
@@ -4086,7 +4088,7 @@ MixviR: 3.5.0
 MlBayesOpt: 0.3.4
 MmgraphR: '0.3'
 MoBPS: 1.6.64
-MoEClust: 1.5.0
+MoEClust: 1.5.1
 MoLE: 1.0.1
 MoMPCA: 1.0.1
 MoTBFs: 1.4.1
@@ -5188,7 +5190,7 @@ RApiDatetime: 0.0.7
 RApiSerialize: 0.1.2
 RAppArmor: 3.2.3
 RArcInfo: '0.4'
-RAthena: 2.6.0
+RAthena: 2.6.1
 RAtmosphere: '1.1'
 RBF: 2.1.0
 RBGL: 1.28.0
@@ -5821,7 +5823,7 @@ RcppClassic: 0.9.13
 RcppClassicExamples: 0.1.2
 RcppClock: '1.1'
 RcppColors: 0.1.1
-RcppDE: 0.1.6
+RcppDE: 0.1.7
 RcppDL: 0.0.5
 RcppDate: 0.0.3
 RcppDist: 0.1.1
@@ -6010,7 +6012,7 @@ RiskPortfolios: 2.1.7
 Rita: 1.2.0
 Ritc: 1.0.2
 RiverBuilder: 0.1.1
-RiverLoad: 1.0.3
+RiverLoad: '1.0'
 Rivivc: 0.9.1
 Rjms: 0.0.5
 Rjmsjars: 0.0.1
@@ -6342,6 +6344,7 @@ SIRmcmc: '1.1'
 SIRthresholded: 1.0.0
 SIS: 0.8-8
 SISIR: 0.2.0
+SIT: 0.1.0
 SITH: 1.1.0
 SIfEK: 0.1.0
 SK: '1.1'
@@ -8362,6 +8365,7 @@ bamboo: 0.9.25
 bambooHR: 0.1.0
 bamdit: 3.4.0
 bamlss: 1.1-9
+bamm: 0.4.3
 bamp: 2.1.3
 bams: '1.6'
 banR: 0.2.2
@@ -9046,7 +9050,7 @@ brulee: 0.2.0
 brunnermunzel: '2.0'
 brxx: 0.1.2
 bs: '1.0'
-bs4Dash: 2.2.0
+bs4Dash: 2.2.1
 bs4cards: 0.1.1
 bsTools: 1.0.5
 bsam: 1.1.3
@@ -9292,7 +9296,7 @@ causaleffect: 1.3.15
 causaloptim: 0.9.2
 causalsens: 0.1.2
 causalweight: 1.0.3
-caviarpd: 0.3.4
+caviarpd: 0.3.6
 cba: 0.2-23
 cban: '1.0'
 cbanalysis: 0.2.0
@@ -9598,7 +9602,7 @@ clere: 1.2.0
 clespr: 1.1.2
 clevr: 0.1.1
 clhs: 0.9.0
-cli: 3.4.1
+cli: 3.5.0
 cliapp: 0.1.1
 clickR: 0.8.3
 clickstream: 1.3.1
@@ -10001,7 +10005,7 @@ contrast: 0.24.2
 contribution: 0.2.2
 control: 0.2.5
 controlTest: 1.1.0
-controlfunctionIV: 0.1.0
+controlfunctionIV: 0.1.1
 contsurvplot: 0.1.0
 convdistr: 1.5.3
 convergEU: 0.5.1
@@ -10047,6 +10051,7 @@ corcounts: '1.4'
 cord: 0.1.1
 cordillera: 0.8-0
 coreCT: 1.3.3
+coreCollection: 0.9.5
 coreNLP: 0.4-3
 coreSim: 0.2.4
 coreTDT: '1.0'
@@ -10337,7 +10342,7 @@ ctmcd: 1.4.2
 ctmcmove: 1.2.9
 ctmle: 0.1.2
 ctmm: 1.1.0
-ctmva: '1.0'
+ctmva: 1.1.0
 ctpm: 1.0.1
 ctqr: '2.0'
 ctrdata: 1.11.1
@@ -10565,7 +10570,7 @@ dataversionr: 0.9.0
 dataview: 2.1.1
 datawizard: 0.6.5
 datazoom.amazonia: 0.3.0
-date: 1.2-40
+date: 1.2-41
 datefixR: 1.3.1
 datelife: 0.6.6
 daterangepicker: 0.1.0
@@ -11488,7 +11493,7 @@ egg: 0.4.5
 eggCounts: 2.3-2
 egoTERGM: 2.1.1
 egonet: '1.2'
-egor: 1.22.5
+egor: 1.22.12
 eha: 2.10.1
 ehaGoF: 0.1.1
 ehelp: '1.2'
@@ -11885,7 +11890,7 @@ expint: 0.1-8
 expirest: 0.1.5
 explor: 0.3.9
 exploratory: 0.3.13
-explore: 1.0.0
+explore: 1.0.1
 exploreR: '0.1'
 expm: 0.999-6
 expoRkit: '0.9'
@@ -13843,7 +13848,7 @@ hdr: '0.1'
 hdrcde: '3.4'
 hds: 0.8.1
 hdtg: 0.2.0
-headliner: 0.0.2
+headliner: 0.0.3
 healthcareai: 2.5.1
 healthfinance: 0.1.0
 healthforum: 0.1.0
@@ -14652,7 +14657,7 @@ isni: '1.3'
 isnullptr: 1.0.1
 isoSurv: 0.2.0
 isoWater: 1.1.1
-isoband: 0.2.6
+isoband: 0.2.7
 isoboost: 1.0.1
 isobxr: 1.0.1
 isocalcR: 0.1.0
@@ -15347,7 +15352,7 @@ lineup2: '0.6'
 lineupjs: 4.6.0
 lingglosses: 0.0.6
 lingmatch: 1.0.4
-lingtypology: 1.1.10
+lingtypology: 1.1.11
 linguisticsdown: 1.2.0
 link2GI: 0.5-0
 linkR: 1.1.1
@@ -16492,7 +16497,7 @@ mmpf: 0.0.5
 mmpp: '0.6'
 mmppr: '0.1'
 mmr: 0.1.0
-mmrm: 0.1.5
+mmrm: 0.2.2
 mmsample: '0.1'
 mmtfa: '0.3'
 mmtsne: 0.1.0
@@ -17315,7 +17320,7 @@ nntrf: 0.1.4
 noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
-noctua: 2.6.0
+noctua: 2.6.1
 nodbi: 0.9.1
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
@@ -17961,6 +17966,7 @@ panelView: 1.1.11
 panelWranglR: 1.2.13
 panelaggregation: 0.1.1
 panelr: 0.7.6
+panelsummary: 0.1.0
 panelvar: 0.5.4
 pangaear: 1.1.0
 panstarrs: 0.1.0
@@ -20680,7 +20686,7 @@ rsurveycto: 0.1.4
 rsvd: 1.0.5
 rsvddpd: 1.0.0
 rsvg: 2.4.0
-rswipl: 8.5.20
+rswipl: 9.1.2
 rsyncrosim: 1.4.2
 rsyntax: 0.1.4
 rsyslog: 1.0.2
@@ -20880,7 +20886,7 @@ sail: 0.1.0
 salbm: '1.0'
 salem: 0.2.0
 salesforcer: 1.0.1
-salso: 0.3.27
+salso: 0.3.29
 salty: 0.1.0
 sambia: 0.1.0
 samc: 2.0.1
@@ -20967,6 +20973,7 @@ scCATCH: 3.2.1
 scDHA: 1.2.0
 scDIFtest: 0.1.1
 scDiffCom: 0.1.0
+scGate: 1.4.1
 scINSIGHT: 0.1.4
 scISR: 0.1.1
 scITD: 1.0.2
@@ -21623,7 +21630,7 @@ sindyr: 0.2.3
 sinew: 0.4.0
 singR: 0.1.1
 singcar: 0.1.3
-singleCellHaystack: 0.3.4
+singleCellHaystack: 1.0.0
 singlecase: '0.1'
 sinib: 1.0.0
 sinx: 0.0.5
@@ -23070,7 +23077,7 @@ tidycat: 0.1.2
 tidycells: 0.2.2
 tidycensus: '1.3'
 tidycharts: 0.1.3
-tidyclust: 0.1.0
+tidyclust: 0.1.1
 tidycmprsk: 0.2.0
 tidycode: 0.1.1
 tidycomm: 0.2.1
