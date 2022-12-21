@@ -1944,7 +1944,7 @@ ElliptCopulas: 0.1.3
 EloChoice: 0.29.4
 EloOptimized: 0.3.1
 EloRating: 0.46.11
-EloSteepness: 0.4.6
+EloSteepness: 0.4.7
 ElstonStewart: '1.2'
 EmbedSOM: 2.1.2
 Emcdf: 0.1.2
@@ -2707,6 +2707,7 @@ GroupSeq: 1.4.2
 GroupTest: 1.0.1
 GrowingSOM: '0.1'
 GrpString: 0.3.2
+GseaVis: 0.0.5
 GsymPoint: 1.1.1
 GuardianR: '0.9'
 Guerry: 1.8.0
@@ -6382,6 +6383,7 @@ SMMA: 1.0.3
 SMME: '1.1'
 SMMT: 1.1.0
 SMNCensReg: '3.1'
+SMOTEWB: 0.1.0
 SMPracticals: 1.4-3
 SMR: 2.0.2
 SMUT: '1.1'
@@ -6398,7 +6400,7 @@ SNPknock: 0.8.2
 SNPmaxsel: 1.0-3
 SNPtools: '1.1'
 SNSchart: 1.4.0
-SNSequate: 1.3.3
+SNSequate: 1.3-4
 SNscan: '1.0'
 SOAR: 0.99-11
 SOAs: '1.3'
@@ -8029,7 +8031,7 @@ apercu: 0.2.4
 apex: 1.0.4
 apexcharter: 0.3.1
 aphid: 1.3.5
-aphylo: 0.2-1
+aphylo: 0.3-2
 api2lm: 0.1.4
 apisensr: 0.3.0
 aplore3: '0.9'
@@ -8075,7 +8077,7 @@ archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
 archive: 1.1.5
-archiveRetriever: 0.2.0
+archiveRetriever: 0.3.0
 archivist: 2.3.6
 archivist.github: 0.2.6
 arcos: '1.27'
@@ -9231,7 +9233,7 @@ caretForecast: 0.1.1
 caretLSF: '1.9'
 caretNWS: '0.25'
 carfima: 2.0.2
-cargo: 0.2.6
+cargo: 0.4.2
 caribou: 1.1-1
 caroline: 0.9.0
 carpenter: 0.2.2
@@ -9304,7 +9306,7 @@ cbar: 0.1.3
 cbinom: '1.6'
 cbioportalR: 1.0.1
 cbird: '1.0'
-cbl: 0.1.2
+cbl: 0.1.3
 cblasr: 1.0.0
 cbq: 0.2.0.2
 cbsem: 1.0.0
@@ -10793,7 +10795,7 @@ detpack: 1.1.3
 detrendeR: 1.0.5
 detrendr: 0.6.14
 detzrcr: 0.3.1
-devEMF: 4.1-1
+devEMF: 4.1-2
 devFunc: '0.1'
 devRate: 0.2.3
 devoid: 0.1.1
@@ -11023,7 +11025,7 @@ divo: 1.0.1
 divseg: 0.0.5
 dixon: 0.0-8
 dixonTest: 1.0.4
-diyar: 0.4.1
+diyar: 0.4.2
 dkDNA: 0.1.1
 dkanr: 0.1.3
 dlbayes: 0.1.0
@@ -11715,6 +11717,7 @@ equate: 2.0.8
 equateIRT: 2.3.0
 equateMultiple: 0.1.1
 equatiomatic: 0.3.1
+equil2: 1.0.0
 equivUMP: 0.1.1
 equivalence: 0.7.2
 equivalenceTest: 0.0.1.1
@@ -13982,7 +13985,7 @@ hkclustering: 1.0.1
 hkdatasets: 1.0.0
 hkevp: '1.1'
 hkex.api: '0.1'
-hlaR: 0.1.5
+hlaR: 0.1.6
 hlidacr: 0.2.0
 hlr: 0.0-4
 hlt: 1.3.1
@@ -14124,7 +14127,7 @@ hybridogram: 0.3.2
 hydra: 0.1.0
 hydraulics: 0.6.1
 hydroApps: 0.1-1
-hydroEvents: '0.10'
+hydroEvents: '0.11'
 hydroGOF: 0.4-0
 hydroPSO: 0.5-1
 hydroTSM: 0.6-0
@@ -14896,7 +14899,7 @@ kendallRandomWalks: 0.9.4
 kequate: 1.6.4
 kerSeg: '1.0'
 kerTests: 0.1.3
-keras: 2.9.0
+keras: 2.11.0
 kerasR: 0.8.1
 kerasformula: 1.5.1
 kerastuneR: 0.1.0.5
@@ -15047,7 +15050,7 @@ kuniezu: 0.1.3
 kutils: '1.70'
 kvh: 1.4.2
 kwb.hantush: 0.3.0
-kyotil: 2022.9-17
+kyotil: 2022.12-20
 kza: 4.1.0.1
 kzfs: 1.5.0.2
 kzft: '0.1'
@@ -16063,7 +16066,7 @@ meshed: 0.2.3
 meshsimp: '0.1'
 messaging: 0.1.0
 messy.cats: '1.0'
-messydates: 0.3.1
+messydates: 0.3.3
 met: 0.1.0
 metR: 0.13.0
 metRology: 0.9-28-1
@@ -16252,7 +16255,7 @@ midrangeMCP: 3.1.1
 miesmuschel: 0.0.2
 mifa: 0.2.0
 migest: 2.0.3
-migraph: 0.13.0
+migraph: 0.13.2
 migrate: 0.4.0
 migration.indices: 0.3.1
 migrbc: 2.0.9
@@ -17566,7 +17569,7 @@ oews2020: 1.0.0
 oews2021: 1.0.0
 ofGEM: '1.0'
 officedown: 0.2.4
-officer: 0.4.4
+officer: 0.5.0
 offlineChange: 0.0.4
 ofp: 1.0.0
 ofw: 1.0-0
@@ -18129,7 +18132,7 @@ pcaPA: '2.0'
 pcaPP: 2.0-3
 pcadapt: 4.3.3
 pcal: 1.0.0
-pcalg: 2.7-7
+pcalg: 2.7-8
 pcalls: '1.0'
 pcaone: 1.0.0
 pcatsAPIclientR: 1.0.0
@@ -18685,7 +18688,7 @@ pomcheckr: 0.1.1
 pomdp: 1.0.3
 pomdpSolve: 1.0.1
 pomodoro: 3.8.0
-pomp: '4.4'
+pomp: '4.5'
 pompom: 0.2.1
 pompp: 0.1.3
 pooh: 0.3-2
@@ -18747,7 +18750,7 @@ postgwas: '1.11'
 postinfectious: 0.1.0
 postlightmercury: '1.2'
 postlogic: 0.1.0.1
-postpack: 0.5.3
+postpack: 0.5.4
 potential: 0.2.0
 potools: 0.2.2
 potts: 0.5-11
@@ -19238,7 +19241,7 @@ qs: 0.25.4
 qsimulatR: '1.1'
 qsort: 0.2.3
 qsplines: 1.0.0
-qspray: 0.1.0
+qspray: 0.1.1
 qst: 0.1.2
 qsub: 1.1.3
 qtbase: 1.0.9
@@ -19494,7 +19497,7 @@ rSymPy: 0.2-1.2
 rSymbiota: 1.0.0
 rTCRBCRr: 0.1.1
 rTG: 1.0.1
-rTLS: 0.2.5.2
+rTLS: 0.2.5.6
 rTOFsPRO: '1.4'
 rTRIPLEXCWFlux: 0.2.0
 rTRNG: 4.23.1-2
@@ -23131,7 +23134,7 @@ tidysynth: 0.1.0
 tidytable: 0.9.1
 tidytags: 1.1.0
 tidyterra: 0.3.1
-tidytext: 0.3.4
+tidytext: 0.4.0
 tidytidbits: 0.3.2
 tidytransit: '1.4'
 tidytreatment: 0.2.2
@@ -24146,7 +24149,7 @@ welo: 0.1.2
 wesanderson: 0.3.6
 wethepeople: 0.6.1
 wevid: 0.6.2
-weyl: 0.0-1
+weyl: 0.0-3
 wfe: 1.9.1
 wfg: '0.1'
 wfindr: 0.1.0
@@ -24424,9 +24427,9 @@ youtubecaption: 1.0.0
 yowie: 0.1.0
 ypr: 0.6.0
 ypssc: 1.1.0
-yuima: 1.15.18
+yuima: 1.15.22
 yuimaGUI: 1.3.1
-yulab.utils: 0.0.5
+yulab.utils: 0.0.6
 yum: 0.1.0
 yummlyr: 0.1.1
 zCompositions: 1.4.0-1
