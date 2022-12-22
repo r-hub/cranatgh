@@ -1375,7 +1375,7 @@ DBERlibR: 0.1.3
 DBEST: '1.8'
 DBFTest: '1.0'
 DBGSA: '1.2'
-DBHC: 0.0.2
+DBHC: 0.0.3
 DBI: 1.1.3
 DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
@@ -1772,7 +1772,7 @@ EBEN: '4.6'
 EBMAforecast: 1.0.3
 EBPRS: 2.1.0
 EBS: '3.1'
-EBglmnet: '4.1'
+EBglmnet: '5.2'
 EBrank: 1.0.0
 ECFsup: 0.1-2
 ECGofTestDx: '0.4'
@@ -5570,7 +5570,7 @@ RSNPset: '0.5'
 RSPS: '1.0'
 RSQL: 0.2.1
 RSQLServer: 0.3.0
-RSQLite: 2.2.19
+RSQLite: 2.2.20
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.5
 RSSOP: '1.1'
@@ -8768,7 +8768,7 @@ biodosetools: 3.6.1
 biofiles: 1.0.0
 biogas: 1.23.2
 biogeo: '1.0'
-biogeom: 1.2.1
+biogeom: 1.3.5
 biogram: 1.6.3
 biogrowth: 1.0.2
 bioimagetools: 1.1.8
@@ -9439,7 +9439,7 @@ ch: 0.1.0.2
 chameleon: 0.2-3
 chandwich: 1.1.5
 changeLOS: '2.1'
-changeRangeR: 1.0.1
+changeRangeR: 1.0.2
 changedetection: 0.2.0
 changepoint: 2.2.4
 changepoint.geo: 1.0.1
@@ -11608,7 +11608,7 @@ endogeneity: 2.1.2
 endogenous: '1.0'
 endorse: 1.6.2
 endtoend: '2.29'
-energy: 1.7-10
+energy: 1.7-11
 energyr: 0.1.2
 enerscape: 0.1.3
 enetLTS: 1.1.0
@@ -12372,7 +12372,7 @@ flexmixNL: 0.0.1
 flexpolyline: 0.2.6
 flexrsurv: 2.0.13
 flexsiteboard: 0.0.7
-flexsurv: '2.2'
+flexsurv: 2.2.1
 flexsurvcure: 1.3.1
 flextable: 0.8.3
 flifo: 0.1.5
@@ -12481,7 +12481,7 @@ forestry: 0.1.0
 foretell: 0.2.0
 forge: 0.2.0
 fork: 1.2.4
-formatR: '1.12'
+formatR: '1.13'
 formatdown: 0.1.1
 formattable: 0.2.1
 formatters: 0.3.2
@@ -12800,7 +12800,7 @@ gasfluxes: 0.4-4
 gasmodel: 0.1.0
 gasper: 1.1.1
 gastempt: 0.5.5
-gaston: 1.5.8
+gaston: 1.5.9
 gateR: 0.1.12
 gatepoints: 0.1.4
 gauseR: '1.1'
@@ -12948,7 +12948,7 @@ genomeplot: '1.0'
 genomic.autocorr: 1.0-1
 genomicper: '1.7'
 genotypeR: 0.0.1.8
-genpathmox: '0.9'
+genpathmox: '1.0'
 genpwr: 1.0.4
 genridge: 0.6.7
 genscore: 1.0.2
@@ -13507,7 +13507,7 @@ gotop: 0.1.2
 govStatJPN: '0.1'
 govdat: '0.1'
 govdown: 0.10.1
-gower: 1.0.0
+gower: 1.0.1
 goxygen: 1.0.3
 gpDDE: 0.8.2
 gpHist: '0.1'
@@ -13952,7 +13952,7 @@ highfrequency: 1.0.0
 highlight: 0.5.0
 highlightHTML: 0.2.5
 highmean: '3.0'
-highr: '0.9'
+highr: '0.10'
 highriskzone: 1.4.8
 highs: 0.1-6
 higlasso: 0.9.0
@@ -15823,7 +15823,7 @@ markerSearchPower: '1.0'
 markerpen: 0.1.1
 marketeR: 0.1.1
 marketr: 0.0.2
-markets: 1.1.2
+markets: 1.1.3
 markmyassignment: 0.8.6
 markophylo: 1.0.8
 markovMSM: 0.1.1
@@ -16462,7 +16462,7 @@ mlr3proba: 0.4.9
 mlr3shiny: 0.2.0
 mlr3spatial: 0.3.1
 mlr3spatiotempcv: 2.0.3
-mlr3tuning: 0.17.1
+mlr3tuning: 0.17.2
 mlr3tuningspaces: 0.3.3
 mlr3verse: 0.2.7
 mlr3viz: 0.5.10
@@ -17139,7 +17139,7 @@ netie: '1.0'
 netjack: 1.2.0
 netmap: 0.1.1
 netmediate: 0.1.0
-netmeta: 2.6-0
+netmeta: 2.7-0
 netmhc2pan: 1.3.1
 netmodels: '0.2'
 netplot: 0.1-1
@@ -17254,7 +17254,7 @@ nlive: 0.1.0
 nlme: 3.1-161
 nlmeODE: '1.1'
 nlmeU: 0.70-9
-nlmeVPC: '2.5'
+nlmeVPC: '2.6'
 nlmixr: 2.0.7
 nlmixr2: 2.0.8
 nlmixr2data: 2.0.7
@@ -19481,7 +19481,7 @@ rPowerSampleSize: 1.0.2
 rPraat: 1.3.2-1
 rPref: '1.3'
 rPython: 0.0-6
-rQCC: 2.22.5
+rQCC: 2.22.12
 rRAP: '1.1'
 rRofex: 2.0.6
 rSAFE: 0.1.4
@@ -19678,7 +19678,7 @@ raytracing: 0.6.0
 rayvertex: 0.4.11
 rb3: 0.0.7
 rbace: 0.2.2
-rbacon: 2.5.8
+rbacon: 3.0.0
 rbamtools: 2.9.2
 rbart: '1.0'
 rbcb: 0.1.10
@@ -19992,7 +19992,7 @@ reliaR: '0.01'
 reliabilitydiag: 0.2.1
 relimp: 1.0-5
 relliptical: 1.2.0
-relsurv: 2.2-8
+relsurv: 2.2-9
 rem: 1.3.1
 remMap: 0.2-0
 rema: 0.0.1
@@ -20049,7 +20049,7 @@ representr: 0.1.4
 represtools: 0.1.3
 reprex: 2.0.2
 reproducer: 0.4.2
-reproducible: 1.2.8
+reproducible: 1.2.16
 reproj: 0.4.3
 repurrrsive: 1.1.0
 reqres: 0.2.5
@@ -20197,7 +20197,7 @@ rhandsontable: 0.3.8
 rhcoclust: 1.1.0
 rheroicons: 1.0.0
 rhierbaps: 1.1.4
-rhino: 1.2.1
+rhino: 1.3.0
 rhli: 0.0.2
 rhmc: 1.0.0
 rhmmer: 0.1.0
@@ -20656,12 +20656,12 @@ rsml: '1.3'
 rsnps: 0.5.0.0
 rsoi: 0.5.5
 rsolr: 0.0.13
-rspa: 0.2.7
+rspa: 0.2.8
 rsparkling: 0.2.19
 rsparse: 0.5.1
 rspear: 0.1-2
 rspiro: '0.2'
-rspm: 0.2.3
+rspm: 0.3.0
 rsppfp: 1.0.4
 rsprite2: 0.2.0
 rsprng: '1.0'
@@ -21319,7 +21319,7 @@ sfarrow: 0.4.1
 sfc: 0.1.0
 sfcr: 0.2.1
 sfdct: 0.1.0
-sfdep: 0.2.1
+sfdep: 0.2.2
 sfheaders: 0.4.0
 sfhotspot: 0.7.0
 sfinx: 1.7.99
@@ -22228,7 +22228,7 @@ sqp: '0.5'
 squant: 1.1.4
 squash: 1.0.9
 squashinformr: 0.2.6
-squat: 0.0.1
+squat: 0.1.0
 squeezy: 1.1-1
 squid: 0.2.1
 sra: 0.1.3
@@ -22431,7 +22431,7 @@ stmgui: 0.1.6
 stminsights: 0.4.1
 stoRy: 0.2.0
 stocc: '1.31'
-stochLAB: 1.1.1
+stochLAB: 1.1.2
 stochQN: 0.1.2-1
 stochasticGEM: '0.0'
 stochmod: '1.2'
@@ -23276,7 +23276,7 @@ tobit1: 0.1-3
 todor: 0.1.2
 togglr: 0.1.99
 tokenbrowser: 0.1.5
-tokenizers: 0.2.3
+tokenizers: 0.3.0
 tokenizers.bpe: 0.1.0
 tolBasis: '1.0'
 tolerance: 2.0.0
@@ -23357,7 +23357,7 @@ traitr: '0.9'
 traits: 0.5.0
 traj: '1.2'
 trajeR: 0.9.0.5
-trajectories: 0.2-5
+trajectories: 0.2-6
 trajr: 1.4.0
 tram: 0.8-0
 tramME: 1.0.3
