@@ -2624,7 +2624,7 @@ GeoDE: '1.0'
 GeoFIS: '1.0'
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 1.0.5
+GeoModels: 1.0.6
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1
@@ -2746,7 +2746,7 @@ HDPenReg: 0.94.8
 HDShOP: 0.1.3
 HDSpatialScan: 1.0.3
 HDStIM: 0.1.0
-HDTSA: 1.0.1
+HDTSA: 1.0.2
 HDclassif: 2.2.0
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
@@ -2912,7 +2912,7 @@ IBDLabels: '1.1'
 IBDhaploRtools: '1.8'
 IBDsim: 0.9-8
 IBHM: 1.1-11
-IBMPopSim: 0.3.1
+IBMPopSim: 0.4.3
 IBRtools: 0.1.2
 IBrokers: 0.10-2
 IC2: '1.0'
@@ -2957,8 +2957,8 @@ IDF: 2.1.2
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
-IDSL.IPA: '2.5'
-IDSL.MXP: '1.7'
+IDSL.IPA: '2.6'
+IDSL.MXP: '1.8'
 IDSL.SUFA: '1.2'
 IDSL.UFA: '1.7'
 IDSL.UFAx: '1.7'
@@ -4978,7 +4978,7 @@ PredictABEL: 1.2-4
 PredictTestbench: 1.1.3
 PredictionR: 1.0-12
 PredictiveRegression: 0.1-4
-PresenceAbsence: 1.1.10
+PresenceAbsence: 1.1.11
 PressPurt: 1.0.2
 PrettyCols: 1.0.0
 PrevMap: 1.5.4
@@ -5907,7 +5907,7 @@ ReacTran: 1.4.3.1
 Read.isi: '0.5'
 ReadDIM: 0.2.10
 ReadImages: 0.1.3.3
-RealVAMS: 0.4-4
+RealVAMS: 0.4-5
 Rearrangement: '2.1'
 RecAssoRules: '1.0'
 Recocrop: 0.4-1
@@ -6027,7 +6027,7 @@ Rjpstatdb: '0.1'
 RkMetrics: '1.3'
 Rknots: 1.3.2
 Rlab: '4.0'
-Rlabkey: 2.9.0
+Rlabkey: 2.9.1
 Rlda: 0.2.6
 Rlgt: 0.1-4
 Rlibeemd: 1.4.2
@@ -7458,7 +7458,7 @@ VisCov: '1.3'
 VisitorCounts: 1.0.1
 VisuClust: '1.2'
 VisualDom: 0.8.0
-Visualize.CRAN.Downloads: 1.0.1
+Visualize.CRAN.Downloads: 1.0.2
 VisualizeSimon2Stage: 0.1.1
 VizCompX: '0.1'
 VizOR: 0.8-5
@@ -8850,7 +8850,7 @@ blaise: 1.3.9
 blandr: 0.5.1
 blapsr: 0.6.1
 blaster: '1.0'
-blastula: 0.3.2
+blastula: 0.3.3
 blatent: 0.1.1
 blatr: 1.0.1
 blavaan: 0.4-3
@@ -9034,7 +9034,7 @@ bridger: 0.1.0
 bridger2: 0.1.0
 bridgesampling: 1.1-2
 brif: 1.2.0
-brinton: 0.2.6
+brinton: 0.2.7
 brio: 1.1.3
 briqr: 0.1.0
 brisk: 0.1.0
@@ -10160,7 +10160,7 @@ covid19sf: 0.1.2
 covid19srilanka: 1.0.0
 covid19swiss: 0.1.0
 covid19us: 0.1.9
-covidcast: 0.4.3
+covidcast: 0.4.5
 covidmx: 0.7.2
 covidprobability: 0.1.0
 covidregionaldata: 0.9.3
@@ -10821,7 +10821,7 @@ df2json: 0.0.2
 dfCompare: 1.0.0
 dfConn: 0.2.1
 dfadjust: 1.0.4
-dfcomb: 3.0-0
+dfcomb: 3.1-1
 dfcrm: 0.2-2.1
 dfdr: 0.1.0
 dfexplore: '0.2'
@@ -11033,7 +11033,7 @@ diverge: 2.0.6
 diverse: 0.1.5
 diversitree: 0.9-16
 diversityForest: 0.3.4
-divest: 0.10.2
+divest: 0.10.3
 divisors: 0.1-4
 divo: 1.0.1
 divseg: 0.0.5
@@ -11831,7 +11831,7 @@ evalITR: 0.3.0
 evalR: 0.0.1
 evaluate: '0.19'
 evaluator: 0.4.3
-evclass: 1.1.1
+evclass: 2.0.0
 evclust: 2.0.2
 evd: 2.3-6.1
 evdbayes: 1.1-1
@@ -13046,7 +13046,7 @@ geosphere: 1.5-18
 geospt: 1.0-2
 geosptdb: 1.0-1
 geostan: 0.4.1
-geostats: '1.5'
+geostats: '1.6'
 geostatsp: 1.8.6
 geotech: '1.0'
 geotools: '0.1'
@@ -13360,7 +13360,7 @@ gldrm: '1.5'
 glinternet: 1.0.12
 glinvci: 1.1.21
 gllm: '0.38'
-gllvm: 1.4.0
+gllvm: 1.4.1
 glm.ddR: 0.1.1
 glm.deploy: 1.0.4
 glm.predict: 4.2-0
@@ -13938,7 +13938,7 @@ hgwrr: 0.2-3
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
-hhsmm: 0.3.3
+hhsmm: 0.3.4
 hht: 2.1.5
 hiPOD: '1.0'
 hibayes: 2.0.0
@@ -14096,7 +14096,7 @@ htmldf: 0.6.0
 htmltab: 0.8.2
 htmltidy: 0.5.0
 htmltools: 0.5.4
-htmlwidgets: 1.6.0
+htmlwidgets: 1.6.1
 htree: 2.0.0
 hts: 6.0.2
 htsr: 1.2.0
@@ -16104,7 +16104,7 @@ metaMix: '0.3'
 metaRMST: 1.0.0
 metaRNASeq: 1.0.7
 metaSDTreg: 0.2.1
-metaSEM: 1.2.5.1
+metaSEM: 1.3.0
 metaSurvival: 0.1.0
 metaboData: 0.6.3
 metaboGSE: 1.2.5
@@ -16239,7 +16239,7 @@ miceExt: 1.1.0
 miceFast: 0.8.2
 miceMNAR: '1.0'
 miceRanger: 1.5.0
-miceadds: 3.15-21
+miceadds: 3.16-18
 miceafter: 0.5.0
 micemd: 1.8.0
 michelRodange: 1.0.0
@@ -17912,7 +17912,7 @@ packS4: '0.9'
 packageDiff: '0.1'
 packageRank: 0.7.2
 packagedocs: 0.4.0
-packagefinder: 0.3.3
+packagefinder: 0.3.4
 packager: 1.9.0
 packagetrackr: 0.1.1
 packcircles: 0.3.5
@@ -19653,7 +19653,7 @@ rasciidoc: 4.0.2
 rasclass: 0.2.2
 rase: 0.3-3
 rassta: 1.0.5
-raster: 3.6-11
+raster: 3.6-13
 rasterDT: 0.3.2
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.2
@@ -20191,7 +20191,7 @@ rgexf: 0.16.2
 rggm: 1.0.1
 rggobi: 2.1.9
 rgho: 3.0.0
-rgl: 0.110.2
+rgl: 0.111.6
 rgl2gltf: 1.0.3
 rglobi: 0.2.28
 rglplus: '1.0'
@@ -20701,7 +20701,7 @@ rstatix: 0.7.1
 rstatscn: 1.1.3
 rstiefel: 1.0.1
 rstoat: 1.0.2
-rstpm2: 1.5.8
+rstpm2: 1.5.9
 rstream: 1.3.7
 rstudio.prefs: 0.1.9
 rstudioapi: '0.14'
@@ -20967,7 +20967,7 @@ sarp.snowprofile.pyface: 0.1.3
 sars: 1.3.6
 sarsop: 0.6.13
 sas7bdat: '0.6'
-sasLM: 0.9.3
+sasLM: 0.9.4
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.4
@@ -21257,7 +21257,7 @@ semverutils: 0.1.0
 sen2r: 1.5.4
 sendgridr: 0.6.1
 sendigR: 1.0.0
-sendmailR: 1.3-1
+sendmailR: 1.3-2
 sendplot: 4.0.0
 sensR: 1.5-2
 sense: 1.0.0
@@ -22562,7 +22562,7 @@ subrank: 0.9.9.2
 subsamp: 0.1.0
 subscore: '3.3'
 subscreen: 3.0.7
-subselect: 0.15.3
+subselect: 0.15.4
 subsemble: 0.1.0
 subspace: 1.0.4
 subspaceMOA: 0.6.0
@@ -23194,7 +23194,7 @@ timbr: 0.1.1
 time: '1.1'
 time.slots: 0.2.0
 time2event: 0.1.0
-timeDate: '4021.107'
+timeDate: '4022.108'
 timeR: 1.2.0
 timeROC: '0.4'
 timeSeq: 1.0.4
