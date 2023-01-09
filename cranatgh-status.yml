@@ -1222,7 +1222,7 @@ CompetingRiskFrailty: '2.0'
 Compind: '2.6'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
-Compositional: '6.0'
+Compositional: '6.1'
 CompoundEvents: 0.2.0
 Compounding: '1.0'
 ConConPiWiFun: 0.4.6.1
@@ -1778,7 +1778,7 @@ ECFsup: 0.1-2
 ECGofTestDx: '0.4'
 ECLRMC: '1.0'
 ECOSolveR: 0.5.4
-ECOTOXr: 0.2.0
+ECOTOXr: 1.0.1
 ECSFargateProvider: 1.0.0
 ECTTDNN: 0.1.0
 ECctmc: 0.2.5
@@ -2146,7 +2146,7 @@ FMradio: 1.1.1
 FMsmsnReg: '1.0'
 FNN: 1.1.3.1
 FOCI: 0.1.3
-FORTLS: 1.1.0
+FORTLS: 1.2.0
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
@@ -2961,7 +2961,7 @@ IDSL.IPA: '2.6'
 IDSL.MXP: '1.8'
 IDSL.SUFA: '1.2'
 IDSL.UFA: '1.8'
-IDSL.UFAx: '1.7'
+IDSL.UFAx: '1.8'
 IDSpatialStats: 0.3.5
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -3786,9 +3786,9 @@ MOCCA: '1.4'
 MOCHA: 0.1.0
 MODIS: 1.2.11
 MODISSnow: 0.1.0.0
-MODISTools: 1.1.2
+MODISTools: 1.1.3
 MODIStsp: 2.0.9
-MOEADr: 1.1.1
+MOEADr: 1.1.3
 MOFAT: '1.0'
 MOJOV: 1.0.1
 MOLHD: '0.2'
@@ -5620,7 +5620,7 @@ RTD: 0.4.1
 RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
 RTIGER: 1.99.0
-RTL: 1.3.1
+RTL: 1.3.2
 RTOMO: 1.1-6
 RTTWebClient: 0.1.3
 RTaxometrics: '3.2'
@@ -8038,7 +8038,7 @@ apdesign: 1.0.0
 ape: 5.6-2
 apercu: 0.2.4
 apex: 1.0.4
-apexcharter: 0.3.1
+apexcharter: 0.4.0
 aphid: 1.3.5
 aphylo: 0.3-2
 api2lm: 0.1.4
@@ -8717,7 +8717,7 @@ bikm1: 1.1.0
 bilan: '2013.12'
 bild: 1.2-0
 billboard: 0.1.0
-billboarder: 0.3.1
+billboarder: 0.4.0
 bim: 1.01-5
 bimetallic: '1.0'
 bimets: 2.2.0
@@ -9906,7 +9906,7 @@ compboost: 0.1.0
 compeir: '1.0'
 compendiumdb: 1.0.3
 comperank: 0.1.1
-comperes: 0.2.5
+comperes: 0.2.6
 compete: '0.1'
 competitiontoolbox: 0.7.1
 compicc: 0.1.0
@@ -12383,7 +12383,7 @@ flexiblas: 3.1.0
 flexmet: '1.1'
 flexmix: 2.3-18
 flexmixNL: 0.0.1
-flexpolyline: 0.2.6
+flexpolyline: 0.2.7
 flexrsurv: 2.0.13
 flexsiteboard: 0.0.7
 flexsurv: 2.2.1
@@ -12989,7 +12989,7 @@ geoTS: 0.1.8
 geoaxe: 0.1.0
 geobr: 1.7.0
 geocacheR: 0.1.0
-geocmeans: 0.3.1
+geocmeans: 0.3.2
 geocodeHERE: '0.1'
 geodaData: 0.1.0
 geodata: 0.5-3
@@ -13100,7 +13100,7 @@ gfilmm: 2.0.5
 gfilogisreg: 1.0.2
 gfmR: 1.1-0
 gfoRmula: 1.0.0
-gfonts: 0.1.3
+gfonts: 0.2.0
 gfpop: 1.1.0
 gg.gap: '1.3'
 ggBubbles: 0.1.4
@@ -14751,7 +14751,7 @@ ixplorer: 0.2.2
 jSDM: 0.2.1
 jScore: 0.1.0
 jSonarR: '1.1'
-jaatha: 3.2.2
+jaatha: 3.2.3
 jab.adverse.reactions: 1.0.1
 jabr: 0.1.2
 jaccard: 0.1.0
@@ -18011,9 +18011,9 @@ parallelPlot: 0.2.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
 parallelly: 1.33.0
-parallelpam: '1.0'
+parallelpam: 1.0.1
 param6: 0.2.4
-paramGUI: '2.1'
+paramGUI: 2.2.0
 parameters: 0.20.0
 paramhetero: 1.0.0
 paramlink: 1.1-5
@@ -18848,7 +18848,7 @@ precisePlacement: 0.1.0
 precisely: 0.1.2
 precmed: 1.0.0
 precommit: 0.3.2
-precrec: 0.12.9
+precrec: 0.14.1
 predReliability: 0.1.0
 predatory: '1.2'
 predbayescor: '1.1'
@@ -20787,7 +20787,7 @@ runstats: 1.1.0
 rusda: 1.0.8
 rusk: 0.1.1
 rust: 1.4.0
-ruta: 1.1.0
+ruta: 1.2.0
 rutifier: 1.0.4
 ruv: 0.9.7.1
 rv: 2.3.5
@@ -21309,7 +21309,7 @@ seqtest: 0.1-0
 sequence: '2.0'
 sequences: 0.5.9
 sequenza: 3.0.0
-sequoia: 2.3.5
+sequoia: 2.4.1
 sergeant: 0.9.1
 serial: '3.0'
 serialize: 0.2-1
@@ -21452,7 +21452,7 @@ shinyTempSignal: 0.0.3
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
 shinyTree: 0.2.7
-shinyWidgets: 0.7.5
+shinyWidgets: 0.7.6
 shinyXYpad: 0.2.0
 shinyaframe: 1.0.1
 shinyalert: 3.0.0
@@ -21633,7 +21633,7 @@ simplexreg: '1.3'
 simplextree: 1.0.1
 simplifyNet: 0.0.1
 simplr: 0.1-1
-simpr: 0.2.2
+simpr: 0.2.3
 simputation: 0.2.8
 simr: 1.0.6
 simrec: 1.0.0
@@ -22076,7 +22076,7 @@ spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
 spdep: 1.2-7
-spdl: 0.0.3
+spdl: 0.0.4
 spdownscale: 0.1.0
 spdplyr: 0.4.0
 spduration: 0.17.1
@@ -23121,7 +23121,7 @@ tidyestimate: 1.1.0
 tidyfast: 0.2.1
 tidyfit: 0.6.0
 tidyfst: 1.7.6
-tidyft: 0.4.5
+tidyft: 0.5.7
 tidygapminder: 0.1.1
 tidygate: 0.4.9
 tidygenomics: 0.1.2
@@ -23599,7 +23599,7 @@ tvd: 0.1.0
 tvem: 1.3.1
 tvgarch: '2.2'
 tvgeom: 1.0.1
-tvm: 0.5.0
+tvm: 0.5.1
 tvmComp: 1.0.2
 tvmediation: 1.1.0
 tvthemes: 1.3.2
@@ -23726,7 +23726,7 @@ unix: 1.5.5
 unjoin: 0.1.0
 unknownR: '0.4'
 unmarked: 1.2.5
-unnest: 0.0.3
+unnest: 0.0.4
 unpivotr: 0.6.2
 unrepx: 1.0-2
 unrtf: 1.4.2
