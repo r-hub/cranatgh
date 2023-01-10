@@ -656,7 +656,7 @@ BigDataStatMeth: 0.99.32
 BigQuic: 1.1-13
 BigSEM: '0.2'
 BigTSP: '1.0'
-BigVAR: 1.1.1
+BigVAR: 1.1.2
 BimodalIndex: 1.1.9
 BinGSD: 0.0.1
 BinMat: 0.1.5
@@ -811,7 +811,7 @@ CAVIAR: 1.4-1
 CAWaR: 0.0.2
 CAinterprTools: 1.1.0
 CAscaling: '1.0'
-CAvariants: '5.7'
+CAvariants: '5.8'
 CB2: 1.3.4
 CBCgrps: 2.8.2
 CBDA: 1.0.0
@@ -968,7 +968,7 @@ CPNCoverageAnalysis: 1.1.0
 CPP: 0.1.0
 CPsurv: 1.0.0
 CR: '1.0'
-CR2: 0.1.1
+CR2: 0.2.1
 CRABS: 1.1.0
 CRAC: '1.0'
 CRANsearcher: 1.0.0
@@ -1685,7 +1685,7 @@ DiffusionRimp: 0.1.2
 DiffusionRjgqd: 0.1.1
 Digiroo2: '0.6'
 DirStats: 0.1.8
-Dire: 2.1.0
+Dire: 2.1.1
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
@@ -2553,7 +2553,7 @@ GWAF: '2.2'
 GWASExactHW: '1.01'
 GWASbyCluster: 0.1.7
 GWASinlps: '2.2'
-GWASinspector: 1.6.0
+GWASinspector: 1.6.1
 GWAtoolbox: 2.2.4
 GWEX: 1.0.2
 GWG: '1.0'
@@ -3978,7 +3978,7 @@ Mediana: 1.0.8
 MedianaDesigner: '0.11'
 Mega2R: 1.0.9
 Meiosis: 1.0.2
-MendelianRandomization: 0.6.0
+MendelianRandomization: 0.7.0
 MenuCollection: '1.2'
 Mercator: 1.1.2
 MergeGUI: 0.2-1
@@ -5447,7 +5447,7 @@ RNHANES: 1.1.0
 RNOmni: 1.0.1
 RNRCS: 0.2.5
 RNaviCell: '0.2'
-RNeXML: 2.4.9
+RNeXML: 2.4.10
 RNentropy: 1.2.3
 RNeo4j: 1.6.4
 RNetCDF: 2.6-1
@@ -5858,7 +5858,7 @@ RcppMsgPack: 0.2.3
 RcppNLoptExample: 0.0.1
 RcppNumerical: 0.4-0
 RcppOctave: '0.9'
-RcppParallel: 5.1.5
+RcppParallel: 5.1.6
 RcppProgress: 0.4.2
 RcppQuantuccia: 0.1.1
 RcppRedis: 0.2.2
@@ -6683,7 +6683,7 @@ SimRVSequences: 0.2.7
 SimReg: '3.3'
 SimRepeat: 0.1.0
 SimSCRPiecewise: 0.1.1
-SimSST: 0.0.4.7
+SimSST: 0.0.5.2
 SimSeq: 1.4.0
 SimSurvNMarker: 0.1.3
 SimSurvey: 0.1.5
@@ -8208,7 +8208,7 @@ astroFns: 4.2-1
 astrochron: '1.1'
 astrodatR: '0.1'
 astrolibR: '0.1'
-astsa: '1.16'
+astsa: '2.0'
 asuR: 0.08-24
 asus: 1.0.0
 asylum: 1.0.2
@@ -9085,7 +9085,7 @@ bspec: '1.6'
 bspline: '2.1'
 bsplinePsd: 0.6.0
 bsplus: 0.1.4
-bspm: 0.4.0
+bspm: 0.4.1
 bspmma: 0.1-2
 bsreg: 0.0.2
 bssm: 2.0.1
@@ -9620,7 +9620,7 @@ clere: 1.2.0
 clespr: 1.1.2
 clevr: 0.1.1
 clhs: 0.9.0
-cli: 3.5.0
+cli: 3.6.0
 cliapp: 0.1.1
 clickR: 0.8.3
 clickstream: 1.3.1
@@ -11918,7 +11918,7 @@ explor: 0.3.9
 exploratory: 0.3.13
 explore: 1.0.1
 exploreR: '0.1'
-expm: 0.999-6
+expm: 0.999-7
 expoRkit: '0.9'
 expoTree: 1.0.1
 export: 0.3.0
@@ -12386,7 +12386,7 @@ flexCrossHaz: '0.2'
 flexPM: '2.0'
 flexclust: 1.4-1
 flexdashboard: 0.6.0
-flexiblas: 3.1.0
+flexiblas: 3.3.0
 flexmet: '1.1'
 flexmix: 2.3-18
 flexmixNL: 0.0.1
@@ -12805,7 +12805,7 @@ ganDataModel: 1.1.1
 ganGenerativeData: 1.3.3
 ganalytics: 0.10.7
 gaoptim: '1.1'
-gap: 1.3-1
+gap: 1.4-2
 gap.datasets: 0.0.5
 gapclosing: 1.0.2
 gapfill: 0.9.6-1
@@ -17053,7 +17053,7 @@ naptanr: 1.0.1
 naptime: 1.3.0
 nardl: 0.1.6
 narray: 0.5.1
-naryn: 2.6.13
+naryn: 2.6.14
 nasadata: 0.9.0
 nasapower: 4.0.9
 nasaweather: '0.1'
@@ -17927,7 +17927,7 @@ packagetrackr: 0.1.1
 packcircles: 0.3.5
 packdep: 0.3.1
 packer: 0.1.3
-packrat: 0.8.1
+packrat: 0.9.0
 pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
@@ -18678,7 +18678,7 @@ polimetrics: 1.2.1.14
 poliscidata: 2.3.0
 polished: 0.7.0
 polite: 0.1.2
-politeness: 0.8.7
+politeness: 0.8.8
 politicaldata: 0.1.3
 polle: '1.0'
 pollen: 0.82.0
@@ -19342,7 +19342,7 @@ quarks: 1.1.3
 quarrint: 1.0.0
 quarto: '1.2'
 quaternions: '0.2'
-queryparser: 0.3.1
+queryparser: 0.3.2
 queryup: 1.0.1
 quest: 0.1.0
 questionr: 0.7.7
@@ -19559,7 +19559,7 @@ radarBoxplot: 1.0.5
 radarchart: 0.3.1
 radiant: 1.4.4
 radiant.basics: 1.4.4
-radiant.data: 1.4.5
+radiant.data: 1.5.1
 radiant.design: 1.4.4
 radiant.model: 1.4.8
 radiant.multivariate: 1.4.4
@@ -20337,7 +20337,7 @@ rlecuyer: 0.3-5
 rlemon: 0.2.0
 rless: 0.1.1
 rlfsm: 1.1.2
-rlibkriging: 0.7-2
+rlibkriging: 0.7-3
 rliger: 1.0.0
 rlist: 0.4.6.2
 rlm: '1.2'
@@ -20658,7 +20658,7 @@ rscala: 3.2.19
 rscc: 0.2.1
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 0.8.28
+rsconnect: 0.8.29
 rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.24.0
@@ -21604,7 +21604,7 @@ simer: 0.9.0.2
 simest: '0.4'
 simex: '1.8'
 simexaft: 1.0.7.1
-simfam: 1.0.3
+simfam: 1.1.6
 simfinR: 0.2.3
 simfinapi: 0.2.0
 simfit: 0.1.0
@@ -22673,7 +22673,7 @@ surveysd: 1.3.1
 surveyvoi: 1.0.5
 survidm: 1.3.2
 survivALL: 0.9.3
-survival: 3.4-0
+survival: 3.5-0
 survival.svb: 0.0-2
 survival4: 1.4-0
 survival5: '2.4'
@@ -23118,7 +23118,7 @@ tidybins: 0.1.0
 tidyboot: 0.1.1
 tidycat: 0.1.2
 tidycells: 0.2.2
-tidycensus: '1.3'
+tidycensus: 1.3.1
 tidycharts: 0.1.3
 tidyclust: 0.1.1
 tidycmprsk: 0.2.0
@@ -24486,7 +24486,7 @@ zeallot: 0.1.0
 zebu: 0.2.0.0
 zeitgebr: 0.3.5
 zeligverse: 0.1.1
-zen4R: '0.7'
+zen4R: 0.7-1
 zendeskR: '0.4'
 zenplots: 1.0.4
 zeroEQpart: 0.1.0
