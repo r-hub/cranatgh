@@ -859,7 +859,7 @@ CGE: 0.3.3
 CGGP: 1.0.3
 CGIwithR: 0.73-0
 CGManalyzer: '1.3'
-CGNM: 0.5.1
+CGNM: 0.6.2
 CGP: 2.1-1
 CGPfunctions: 0.6.3
 CGene: '1.2'
@@ -1313,7 +1313,7 @@ CpDyna: '1.0'
 CpGFilter: '1.1'
 CpGassoc: '2.60'
 CpmERCCutoff: 1.0.0
-Cprob: 1.4.1
+Cprob: '1.4'
 CramTest: '1.5'
 CreditMetrics: 0.0-2
 CreditRisk: 0.1.3
@@ -1605,7 +1605,7 @@ DeRezende.Ferreira: 0.1.0
 DealGPL570: 0.2.0
 DecisionAnalysis: 1.1.0
 DecisionCurve: '1.4'
-DeclareDesign: 1.0.0
+DeclareDesign: 1.0.2
 DecomposeR: 1.0.5
 DecorateR: 0.1.2
 Deducer: 0.7-9
@@ -1865,7 +1865,7 @@ EMVS: 1.2.1
 EMbC: 2.0.3
 EMpeaksR: 0.2.0
 ENA: 1.3-0
-ENMTools: 1.0.7
+ENMTools: '1.0'
 ENMeval: 2.0.4
 ENiRG: '1.0'
 ENmisc: 1.2-7
@@ -2329,6 +2329,7 @@ FusionLearn: 0.2.1
 Fuzzy.p.value: '1.1'
 FuzzyAHP: 0.9.5
 FuzzyClass: 0.1.3
+FuzzyDBScan: 0.0.3
 FuzzyLP: 0.1-6
 FuzzyM: 0.1.0
 FuzzyMCDM: '1.1'
@@ -3239,6 +3240,7 @@ KERE: 1.0.0
 KFAS: 1.4.6
 KFKSDS: '1.6'
 KFPCA: '2.0'
+KFPLS: '1.0'
 KGode: 1.0.4
 KHQ: 0.2.0
 KLexp: 1.0.0
@@ -4674,7 +4676,7 @@ PKreport: '1.5'
 PKtools: 1.5-0
 PL.popN: '1.2'
 PL94171: 1.1.2
-PLFD: 0.1.1
+PLFD: 0.2.0
 PLIS: '1.2'
 PLMIX: 2.1.1
 PLNmodels: 1.0.0
@@ -5510,6 +5512,7 @@ ROptEstOld: 1.2.0
 ROptRegTS: 1.2.0
 ROptSpace: 0.2.3
 ROptimizely: 0.2.0
+ROptimus: 3.0.0
 ROracle: 1.3-1.1
 ROracleUI: 1.3-2
 RPANDA: '2.2'
@@ -5869,7 +5872,7 @@ RcppSimdJson: 0.1.8
 RcppSpdlog: 0.0.12
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
-RcppTOML: 0.1.7
+RcppTOML: 0.2.0
 RcppThread: 2.1.3
 RcppUUID: 1.1.1
 RcppXPtrUtils: 0.1.2
@@ -6281,6 +6284,7 @@ SDD: '1.2'
 SDDA: 1.0-5
 SDDE: 1.0.1
 SDEFSR: 0.7.22
+SDGdetector: '2.7'
 SDLfilter: 2.3.0
 SDMPlay: '2.0'
 SDMTools: '1.1'
@@ -10182,7 +10186,7 @@ cowsay: 0.8.0
 coxed: 0.3.3
 coxinterval: '1.2'
 coxme: 2.2-18.1
-coxmeg: 1.1.1
+coxmeg: 1.1.2
 coxphMIC: 0.1.0
 coxphSGD: 0.2.1
 coxphf: 1.13.1
@@ -11377,7 +11381,7 @@ easyr: 0.5-10
 easyreg: '4.0'
 easystab: '1.0'
 easystats: 0.6.0
-eat: 0.1.3
+eat: 0.1.4
 eatATA: 1.1.1
 eatDB: 0.5.0
 eatGADS: 0.20.0
@@ -12360,7 +12364,7 @@ fivethirtyeight: 0.6.2
 fixedTimeEvents: 1.0.1
 fixedincome: 0.0.4
 fixerapi: 0.1.6
-fixest: 0.11.0
+fixest: 0.11.1
 fixtuRes: 0.1.3
 fizzbuzzR: 0.1.1
 flacco: '1.8'
@@ -17509,6 +17513,7 @@ numbersBR: 0.0.2
 numform: 0.7.0
 nutriNetwork: 0.1.1
 nutrientr: '0.1'
+nutrition: 1.0.0
 nutshell: '2.0'
 nutshell.audioscrobbler: '1.0'
 nutshell.bbdb: '1.0'
@@ -18983,7 +18988,7 @@ profvis: 0.3.7
 progenyClust: '1.2'
 prognosticROC: '0.7'
 progress: 1.2.2
-progressr: 0.12.0
+progressr: 0.13.0
 proj4: 1.0-12
 projections: 0.5.4
 projector: 0.0.2
@@ -19558,9 +19563,9 @@ radar: 1.0.0
 radarBoxplot: 1.0.5
 radarchart: 0.3.1
 radiant: 1.4.4
-radiant.basics: 1.4.4
+radiant.basics: 1.5.0
 radiant.data: 1.5.1
-radiant.design: 1.4.4
+radiant.design: 1.5.0
 radiant.model: 1.4.8
 radiant.multivariate: 1.4.4
 radiomics: 0.1.3
@@ -20251,7 +20256,7 @@ rich: 1.0.1
 richards: 0.5.0
 ricu: 0.5.4
 ridge: '3.3'
-ridgetorus: 1.0.0
+ridgetorus: 1.0.1
 ridigbio: 0.3.6
 ridittools: '0.1'
 riem: 0.3.0
@@ -20430,7 +20435,7 @@ roben: 0.1.0
 robeth: 2.7-6
 robets: '1.4'
 robfilter: 4.1.3
-robflreg: '1.0'
+robflreg: '1.1'
 robin: 1.1.1
 robis: 2.11.3
 roblm: '0.6'
@@ -20853,7 +20858,7 @@ rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.8
 s2: 1.1.1
-s20x: 3.1-33
+s20x: 3.1-34
 s2dv: 1.3.0
 s2dverification: 2.10.3
 s2net: 1.0.4
@@ -20975,7 +20980,7 @@ sarp.snowprofile: 1.3.1
 sarp.snowprofile.alignment: 1.2.1
 sarp.snowprofile.pyface: 0.1.3
 sars: 1.3.6
-sarsop: 0.6.13
+sarsop: 0.6.14
 sas7bdat: '0.6'
 sasLM: 0.9.4
 sasMap: 1.0.0
@@ -21028,6 +21033,7 @@ scPOP: 0.1.0
 scPloidy: 0.3.0
 scRNAstat: 0.1.1
 scRNAtools: '1.0'
+scROSHI: 1.0.0.0
 scSorter: 0.0.2
 scTEP: 0.1.0
 scTenifoldKnk: 1.0.1
@@ -21063,7 +21069,7 @@ scclust: 0.2.2
 sccore: 1.0.2
 sccr: '2.1'
 scdensity: 1.0.2
-scdhlm: 0.7.0
+scdhlm: 0.7.1
 scellpam: 1.4.1
 scenario: '1.0'
 scgwr: 0.1.2-21
@@ -21215,7 +21221,7 @@ segmag: 1.2.4
 segmenTier: 0.1.2
 segmented: 1.6-2
 segmentr: 0.2.0
-segmetric: 0.2.0
+segmetric: 0.3.0
 segregation: 0.6.0
 segregatr: 0.2.0
 sehrnett: 0.0.3
@@ -22720,7 +22726,7 @@ svdvisual: '1.1'
 svenssonm: 0.1.0
 svgPanZoom: 0.3.4
 svgViewR: 1.4.2
-svglite: 2.1.0
+svglite: 2.1.1
 svgtools: 1.1.0
 svines: 0.1.4
 svmadmm: '0.3'
@@ -23172,7 +23178,7 @@ tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
 tidytable: 0.9.1
-tidytags: 1.1.0
+tidytags: 1.1.1
 tidyterra: 0.3.1
 tidytext: 0.4.1
 tidytidbits: 0.3.2
@@ -24316,7 +24322,7 @@ wrGraph: 1.3.1
 wrMisc: 1.11.0
 wrProteo: 1.7.0.1
 wrTopDownFrag: 1.0.2
-wrangle: 0.5.8
+wrangle: 0.5.10
 wrappedtools: 0.8.1
 wrapr: 2.0.9
 wrassp: 1.0.2
@@ -24523,6 +24529,7 @@ zoolog: 1.1.0
 zoom: 2.0.6
 zoomGroupStats: 0.1.0
 zoomgrid: 1.0.0
+zoomr: 0.1.1
 zoon: 0.6.5
 zscorer: 0.3.1
 zstdr: 0.1.1
