@@ -495,7 +495,7 @@ BTLLasso: 0.1-11
 BTM: 0.3.6
 BTR: 1.2.4
 BTSPAS: 2021.11.2
-BTSR: 0.1.2
+BTSR: 0.1.3
 BTYD: 2.4.3
 BTYDplus: 1.2.0
 BTdecayLasso: 0.1.0
@@ -1803,7 +1803,7 @@ EEMDelm: 0.1.1
 EEMDlstm: 0.1.0
 EESPCA: 0.7.0
 EFA.MRFA: 1.1.2
-EFA.dimensions: 0.1.7.4
+EFA.dimensions: 0.1.7.6
 EFAtools: 0.4.4
 EFAutilities: 2.1.2
 EFDR: '1.2'
@@ -1925,7 +1925,7 @@ Ecohydmod: 1.0.0
 EconDemand: '1.0'
 EcotoneFinder: 0.2.3
 Ecume: 0.9.1
-EdSurvey: 3.0.1
+EdSurvey: 3.0.2
 EditImputeCont: 1.1.6
 EffectLiteR: 0.4-5
 EffectStars: 1.9-1
@@ -2071,7 +2071,7 @@ FADPclust: 1.1.1
 FAIRmaterials: 0.1.0
 FAMILY: 0.1.19
 FAMT: '2.6'
-FAMetA: 0.1.4
+FAMetA: 0.1.5
 FAMoS: 0.3.0
 FAO56: 0.1.0
 FAOSTAT: 2.2.3
@@ -3747,7 +3747,7 @@ MLID: 1.0.1
 MLML2R: 0.3.3
 MLMOI: 0.1.1
 MLModelSelection: '1.0'
-MLMusingR: 0.2.0
+MLMusingR: 0.3.0
 MLPA: 1.10.0
 MLPAstats: 0.5-9
 MLPUGS: 0.2.0
@@ -4666,7 +4666,7 @@ PIPS: '1.0'
 PK: 1.3-5
 PKI: 0.1-12
 PKLMtest: 1.0.1
-PKNCA: 0.10.0
+PKNCA: 0.10.1
 PKPDmisc: 2.1.2
 PKPDmodels: 0.3.2
 PKPDsim: 1.1.1
@@ -7046,7 +7046,7 @@ TMB: 1.9.1
 TMDb: '1.1'
 TMTI: 1.0.1
 TNC: 0.1.0
-TNRS: 0.3.2
+TNRS: 0.3.3
 TOC: 0.0-5
 TOHM: '1.4'
 TORDs: 1.0.0
@@ -7246,7 +7246,7 @@ TotalCopheneticIndex: 2.0.1
 TouRnament: 0.2.5
 ToxCrit: '1.0'
 ToxLim: '1.0'
-ToxicR: 22.12.1.0.7
+ToxicR: 22.8.1.0.3
 ToxicoGx: 0.1.1
 Tplyr: 1.1.0
 TraMineR: 2.2-6
@@ -8334,6 +8334,7 @@ awsjavasdk: 0.2.2
 awspack: 0.1.6
 aylmer: 1.0-9
 aziztest: 0.2.1
+azlogr: 0.0.3
 azuremlsdk: 1.10.0
 b3archives: 1.0.0
 b6e6rl: '1.1'
@@ -8406,7 +8407,7 @@ barplot3d: 1.0.1
 barsurf: 0.7.0
 bartBMA: '1.0'
 bartCause: 1.0-4
-bartMachine: 1.3.2
+bartMachine: 1.3.3
 bartMachineJARs: 1.2.1
 bartcs: 0.1.2
 basad: 0.3.0
@@ -9792,7 +9793,7 @@ codacore: 0.0.4
 codadiags: '1.0'
 codalm: 0.1.2
 codaredistlm: 0.1.0
-codeCollection: 0.1.2
+codeCollection: 0.1.3
 codebook: 0.9.2
 codebookr: 0.1.5
 codebreaker: 0.0.2
@@ -9996,14 +9997,14 @@ congressbr: 0.2.2
 conicfit: 1.0.4
 conics: '0.3'
 conjoint: '1.41'
-conjurer: 1.5.0
+conjurer: 1.6.0
 conleyreg: 0.1.7
 conmet: 0.1.0
 connect3: 0.1.0
 connectapi: 0.1.2
 connectedness: '0.2'
 connections: 0.1.1
-connectwidgets: 0.1.1
+connectwidgets: 0.2.0
 conogive: 1.0.0
 conos: 1.5.0
 conover.test: 1.1.5
@@ -10605,6 +10606,7 @@ datefixR: 1.3.1
 datelife: 0.6.6
 daterangepicker: 0.1.0
 datetime: 0.1.4
+datetimeoffset: 0.1.2
 datetimeutils: 0.5-0
 dateutils: 0.1.5
 datoramar: 0.1.0
@@ -11399,7 +11401,7 @@ ebal: 0.1-8
 ebci: 1.0.0
 ebdbNet: 1.2.6
 ebimetagenomics: '0.6'
-ebirdst: 1.2021.2
+ebirdst: 1.2021.3
 ebmc: 1.0.1
 ebmstate: 0.1.3
 ebnm: 1.0-9
@@ -11589,6 +11591,7 @@ elpatron: 0.0.4
 elrm: 1.2.5
 elsa: 1.1-28
 eltr: 0.1.0
+em: 1.0.0
 em2: '0.9'
 emIRT: 0.0.13
 emailjsr: 0.0.2
@@ -14315,7 +14318,7 @@ icesDatsu: 1.1.0
 icesDatsuQC: 1.0.0
 icesSAG: 1.4.0
 icesSD: 2.0.0
-icesTAF: 4.0.0
+icesTAF: 4.0.2
 icesVocab: 1.2.0
 ichimoku: 1.4.4
 icmm: '1.2'
@@ -15578,7 +15581,7 @@ longitudinalData: 2.4.1
 longitudinalcascade: 0.3.2.1
 longmemo: 1.1-2
 longmixr: 1.0.0
-longpower: 1.0.23
+longpower: 1.0.24
 longsurr: '1.0'
 longurl: 0.3.3
 loo: 2.5.1
@@ -18034,7 +18037,7 @@ parallelly: 1.33.0
 parallelpam: 1.0.1
 param6: 0.2.4
 paramGUI: 2.2.0
-parameters: 0.20.0
+parameters: 0.20.1
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.3
@@ -18537,6 +18540,7 @@ planar: '1.6'
 planets: 0.1.0
 planningML: 1.0.0
 planor: 1.5-3
+plantTracker: 1.0.1
 plantecophys: 1.4-6
 plantecowrap: 1.0.4
 plaqr: '2.0'
@@ -18581,6 +18585,7 @@ plotHMM: 2022.1.25
 plotKML: 0.8-3
 plotMCMC: 2.0.1
 plotMElm: 0.1.5
+plotRCS: 0.1.3
 plotROC: 2.3.0
 plotSEMM: '2.4'
 plotbb: 0.0.6
@@ -18882,6 +18887,7 @@ predictionInterval: 1.0.0
 predictmeans: 1.0.8
 predictoR: 2.0.7
 predictrace: 2.0.0
+predicts: 0.1-6
 predieval: 0.1.1
 predint: 1.1.1
 predkmeans: 0.1.1
@@ -19916,7 +19922,7 @@ reccsim: 0.9-1
 receptiviti: 0.1.3
 recexcavAAR: 0.3.0
 rechonest: '1.2'
-recipes: 1.0.3
+recipes: 1.0.4
 reclin: 0.1.2
 reclin2: 0.2.0
 recluster: '2.9'
@@ -20403,6 +20409,7 @@ rms.gof: '1.0'
 rmsb: 0.1.0
 rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
+rmstcompsens: 0.1.5
 rmt: '1.0'
 rmumps: 5.2.1-20
 rmutil: 1.1.10
@@ -20676,7 +20683,7 @@ rscorecard: 0.24.0
 rscproxy: 2.0-5
 rsdNE: 1.0.0
 rsdepth: 0.1-22
-rsdmx: '0.6'
+rsdmx: 0.6-1
 rsed: 0.1.2
 rseedcalc: '1.3'
 rsem: 0.5.0
@@ -21365,7 +21372,7 @@ sfarrow: 0.4.1
 sfc: 0.1.0
 sfcr: 0.2.1
 sfdct: 0.1.0
-sfdep: 0.2.2
+sfdep: 0.2.3
 sfheaders: 0.4.0
 sfhotspot: 0.7.0
 sfinx: 1.7.99
@@ -22125,7 +22132,7 @@ spectator: 0.1.1
 spectr: 1.0.1
 spectral: '2.0'
 spectral.methods: 0.7.2.133
-spectralAnalysis: 3.12.0
+spectralAnalysis: 4.3.1
 spectralGP: 1.3.3
 spectralGraphTopology: 0.2.3
 spectralR: 0.1.2
@@ -22400,7 +22407,7 @@ statgenGxE: 1.0.5
 statgenHTP: 1.0.6
 statgenIBD: 1.0.5
 statgenMPP: 1.0.2
-statgenSTA: 1.0.10
+statgenSTA: 1.0.11
 static: 0.1.0
 stationaRy: 0.5.1
 stationery: '1.0'
@@ -22414,7 +22421,7 @@ statnetWeb: 0.5.6
 statnipokladna: 0.7.2
 statoo: 0.1.3
 statprograms: 0.2.0
-statpsych: 1.2.0
+statpsych: 1.3.0
 statquotes: 0.3.1
 stats19: 2.0.1
 stats4teaching: 0.1.0
@@ -22545,7 +22552,7 @@ stringdist: 0.9.10
 stringfish: 0.15.7
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
-stringi: 1.7.8
+stringi: 1.7.12
 stringkernels: 0.8.9
 stringr: 1.5.0
 stringx: 0.2.4
@@ -22749,6 +22756,7 @@ svydiags: '0.4'
 svyweight: 0.1.0
 swCRTdesign: '3.3'
 swa: 0.8.1
+swaRm: 0.6.0
 swag: 0.1.0
 swagger: 3.33.1
 swamp: 1.5.1
@@ -23219,6 +23227,7 @@ time: '1.1'
 time.slots: 0.2.0
 time2event: 0.1.0
 timeDate: '4022.108'
+timeLineGraphics: '1.0'
 timeR: 1.2.0
 timeROC: '0.4'
 timeSeq: 1.0.4
@@ -23481,6 +23490,7 @@ trending: 0.0.3
 trendsegmentR: 1.1.0
 trendyy: 0.1.1
 trex: '0.5'
+triact: 0.2.0
 triads: '0.2'
 trialr: 0.1.5
 triangle: '1.0'
