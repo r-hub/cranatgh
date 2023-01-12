@@ -1082,7 +1082,7 @@ CerioliOutlierDetection: 1.1.9
 Certara.R: 1.0.0
 CfEstimateQuantiles: '1.0'
 ChIPtest: '1.0'
-ChainLadder: 0.2.16
+ChainLadder: 0.2.17
 ChangeAnomalyDetection: 0.1.0
 ChangePointTaylor: '0.2'
 ChangepointTesting: '1.1'
@@ -1119,7 +1119,7 @@ CityPlot: '2.0'
 CityWaterBalance: 0.1.0
 Ckmeans.1d.dp: 4.3.4
 Claddis: 0.6.3
-ClaimsProblems: 0.2.0
+ClaimsProblems: 0.2.1
 ClamR: 2.1-1
 ClassComparison: 3.1.8
 ClassDiscovery: 3.4.0
@@ -3252,7 +3252,7 @@ KMsurv: 0.1-5
 KMunicate: 0.2.3
 KNNShiny: 0.1.0
 KOBT: 0.1.0
-KODAMA: '2.3'
+KODAMA: '2.4'
 KOGMWU: '1.2'
 KONPsurv: 1.0.4
 KPC: 0.1.2
@@ -3979,7 +3979,7 @@ MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
 MediaNews: 0.2.1
 Mediana: 1.0.8
-MedianaDesigner: '0.11'
+MedianaDesigner: '0.12'
 Mega2R: 1.0.9
 Meiosis: 1.0.2
 MendelianRandomization: 0.7.0
@@ -5126,6 +5126,7 @@ QuantumOps: 3.0.1
 Quartet: 1.2.5
 QuasiSeq: 1.0-11-0
 Quor: '0.1'
+QurvE: '1.0'
 R.SamBada: 0.1.3
 R.cache: 0.16.0
 R.devices: 2.17.1
@@ -5439,7 +5440,7 @@ RMongo: 0.0.25
 RMySQL: 0.10.25
 RNAseqNet: 0.1.4
 RNAseqQC: 0.1.4
-RNAsmc: 0.7.0
+RNAsmc: 0.8.0
 RNAstructureModuleMiner: 0.1.0
 RNCBI: '0.9'
 RNCBIAxis2Libs: '0.9'
@@ -5559,7 +5560,7 @@ RRate: '1.0'
 RRedshiftSQL: 0.1.2
 RRphylo: 2.7.0
 RRreg: 0.7.5
-RSA: 0.10.4
+RSA: 0.10.6
 RSADBE: '1.0'
 RSAGA: 1.4.0
 RSAP: '0.9'
@@ -6193,8 +6194,8 @@ RxCEcolInf: 0.1-5
 RxODE: 1.1.5
 RxnSim: 1.0.3
 Rxnat: 1.0.8
-Ryacas: 1.1.3.1
-Ryacas0: 0.4.3
+Ryacas: 1.1.4
+Ryacas0: 0.4.4
 Rz: 0.9-1
 S2sls: '0.1'
 SACCR: '3.2'
@@ -6275,7 +6276,7 @@ SCRSELECT: 1.3-3
 SCRT: 1.3.1
 SCVA: 1.3.1
 SCperf: 1.1.1
-SCpubr: 1.1.0
+SCpubr: 1.1.1
 SCtools: 0.3.2.1
 SDALGCP: 0.4.0
 SDAR: 0.9-55
@@ -7536,7 +7537,7 @@ WeMix: 3.3.0
 WebAnalytics: 0.9.5
 WebDevelopR: '1.0'
 WebGestaltR: 0.4.4
-WebPower: 0.8.6
+WebPower: 0.8.7
 WeedMap: '0.1'
 WeibullFit: 0.1.0
 WeibullR: 1.2.1
@@ -7768,7 +7769,7 @@ ade4: 1.7-20
 ade4TkGUI: 0.3-1
 adea: 1.3.1
 adeba: 1.1.2
-adegenet: 2.1.8
+adegenet: 2.1.9
 adegraphics: 1.0-16
 adehabitat: 1.8.9
 adehabitatHR: 0.4.20
@@ -8033,7 +8034,7 @@ aoos: 0.5.0
 aop: 1.0.0
 aopdata: 1.0.1
 aoristic: 1.1.1
-aorsf: 0.0.6
+aorsf: 0.0.7
 aos: 0.1.0
 apTreeshape: 1.5-0.1
 apa: 0.3.3
@@ -9496,7 +9497,7 @@ cheem: 0.2.0
 cheese: 0.1.2
 chemCal: 0.2.3
 chemmodlab: 2.0.0
-chemodiv: 0.1.3
+chemodiv: 0.2.0
 chemometrics: 1.4.2
 chemosensors: 0.7.8
 cherry: 0.6-14
@@ -9720,7 +9721,7 @@ clusterhap: '0.1'
 clustering.sc.dp: '1.0'
 clusterlab: 0.0.2.8
 clustermole: 1.1.0
-clustermq: 0.8.95.3
+clustermq: 0.8.95.4
 clusternomics: 0.1.1
 clusternor: 0.0-4
 clustertend: '1.6'
@@ -12027,7 +12028,7 @@ fUnitRoots: '4021.80'
 fUtilities: '290.76'
 fabCI: '0.2'
 fabMix: '5.0'
-fabisearch: 0.0.4.4
+fabisearch: 0.0.4.5
 fable: 0.3.2
 fable.ata: 0.0.3
 fable.prophet: 0.1.0
@@ -12058,7 +12059,7 @@ factory: 0.1.0
 factset.analyticsapi.engines: 3.0.1
 factset.protobuf.stach: 1.0.2
 factset.protobuf.stach.v2: 1.0.6
-factset.protobuf.stachextensions: 1.0.1
+factset.protobuf.stachextensions: 1.0.3
 factualR: '0.5'
 fad: 0.9-1
 fail: '1.3'
@@ -12635,7 +12636,7 @@ fsr: 1.0.2
 fssemR: 0.1.8
 fst: 0.9.8
 fst4pg: 1.0.0
-fstcore: 0.9.12
+fstcore: 0.9.14
 fsthet: 1.0.1
 ftDK: '1.0'
 ftExtra: 0.4.0
@@ -13027,7 +13028,7 @@ geogrid: 0.1.1
 geohash: 0.3.0
 geohashTools: 0.3.2
 geojson: 0.3.4
-geojsonR: 1.1.0
+geojsonR: 1.1.1
 geojsonio: 0.10.0
 geojsonlint: 0.4.0
 geojsonsf: 2.0.3
@@ -13077,7 +13078,7 @@ geovol: '1.0'
 geozoning: 1.0.0
 geozoo: 0.5.1
 gepaf: 0.1.1
-gerbil: 0.1.5
+gerbil: 0.1.9
 germanpolls: '0.3'
 germinationmetrics: 0.1.7
 gert: 1.9.2
@@ -13294,7 +13295,7 @@ ggspatial: 1.1.7
 ggspectra: 0.3.9
 ggstance: 0.3.6
 ggstar: 1.0.4
-ggstats: 0.2.0
+ggstats: 0.2.1
 ggstatsplot: 0.10.0
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
@@ -14631,7 +14632,7 @@ ip2location: 8.0.1
 ip2proxy: 1.1.0
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
-ipaddress: 0.5.6
+ipaddress: 1.0.0
 ipc: 0.1.3
 ipcwswitch: 1.0.4
 ipdmeta: '2.4'
@@ -15405,7 +15406,7 @@ linkedInadsR: 0.1.0
 linkim: '0.1'
 linkprediction: 1.0-0
 linkspotter: 1.3.0
-linl: 0.0.4
+linl: 0.0.5
 linne: 0.0.2
 linpk: 1.1.2
 linprog: 0.9-4
@@ -15822,7 +15823,7 @@ mappp: 1.0.0
 mapproj: 1.2.9
 mapr: 0.5.2
 maps: 3.4.1
-mapsFinland: 0.1.1
+mapsFinland: 0.2.0
 mapsPERU: 1.0.2
 mapsRinteractive: 1.0.1
 mapsapi: 0.5.3
@@ -16502,7 +16503,7 @@ mlr3spatiotempcv: 2.0.3
 mlr3tuning: 0.17.2
 mlr3tuningspaces: 0.3.3
 mlr3verse: 0.2.7
-mlr3viz: 0.5.10
+mlr3viz: 0.6.0
 mlrCPO: 0.3.7-6
 mlrMBO: 1.1.5.1
 mlrintermbo: 0.5.0
@@ -17015,7 +17016,7 @@ mvtmeta: '1.1'
 mvtnorm: 1.1-3
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-4
-mwTensor: 0.99.6
+mwTensor: 1.0.0
 mwa: 0.4.4
 mwaved: 1.1.8
 mwcsr: 0.1.6
@@ -17895,7 +17896,7 @@ owdbr: 1.0.1.1
 owidR: 1.4.0
 owl: 0.1.1
 owmr: 0.8.2
-ows4R: 0.3-2
+ows4R: 0.3-3
 ox: 0.1.0
 oxcAAR: 1.1.1
 oxcgrt: 0.1.0
@@ -18291,7 +18292,7 @@ perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
 perfectphyloR: 0.2.1
-performance: 0.10.1
+performance: 0.10.2
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 1.0.1
@@ -18610,7 +18611,7 @@ pls.pcr: 0.2.7
 plsRbeta: 0.2.9
 plsRcox: 1.7.7
 plsRglm: 1.5.0
-plsVarSel: 0.9.9
+plsVarSel: 0.9.10
 plsdepot: 0.1.17
 plsdof: 0.3-2
 plsgenomics: 1.5-2
@@ -18771,7 +18772,7 @@ popprxl: '0.1'
 popsom: '6.0'
 popstudy: 1.0.0
 poptrend: 0.1.0
-populR: 0.1.6
+populR: 0.2.0
 population: '0.3'
 populationPDXdesign: 1.0.3
 porridge: 0.3.1
@@ -19412,7 +19413,7 @@ r2pptx: 0.1.0
 r2r: 0.1.1
 r2redux: 1.0.12
 r2resize: '1.3'
-r2rtf: 0.3.5
+r2rtf: 1.0.0
 r2shortcode: '0.1'
 r2social: '1.0'
 r2spss: 0.3.2
@@ -19580,7 +19581,7 @@ radiant.basics: 1.5.0
 radiant.data: 1.5.1
 radiant.design: 1.5.0
 radiant.model: 1.5.0
-radiant.multivariate: 1.4.4
+radiant.multivariate: 1.5.0
 radiomics: 0.1.3
 radir: 1.0.4
 radix: '0.6'
@@ -19591,7 +19592,7 @@ radous: 0.1.3
 radsafer: 2.2.6
 radtools: 1.0.6
 rafalib: 1.0.0
-ragg: 1.2.4
+ragg: 1.2.5
 rags2ridges: 2.2.6
 ragt2ridges: 0.3.4
 ragtop: 1.1.1
@@ -19627,7 +19628,7 @@ random.polychor.pa: 1.1.4-4
 randomForest: 4.7-1.1
 randomForest.ddR: 0.1.2
 randomForestExplainer: 0.10.1
-randomForestSRC: 3.1.1
+randomForestSRC: 3.2.0
 randomGLM: 1.10-1
 randomLCA: 1.1-2
 randomNames: 1.5-0.0
@@ -20355,7 +20356,7 @@ rlecuyer: 0.3-5
 rlemon: 0.2.0
 rless: 0.1.1
 rlfsm: 1.1.2
-rlibkriging: 0.7-3
+rlibkriging: 0.7-3.1
 rliger: 1.0.0
 rlist: 0.4.6.2
 rlm: '1.2'
@@ -20412,7 +20413,7 @@ rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
 rmstcompsens: 0.1.5
 rmt: '1.0'
-rmumps: 5.2.1-20
+rmumps: 5.2.1-22
 rmutil: 1.1.10
 rmweather: 0.2.4
 rmytarget: 2.4.0
@@ -20523,7 +20524,7 @@ rollmatch: 2.0.2
 rollply: 0.5.0
 roloc: 0.1-1
 rolocISCCNBS: '0.1'
-rolog: 0.9.9
+rolog: 0.9.10
 rolr: 1.0.0
 rolypoly: 0.1.0
 romero.gateway: 0.4.4
@@ -20848,7 +20849,7 @@ rwhatsapp: 0.2.4
 rwicc: 0.1.3
 rwirelesscom: 1.4.3
 rwm: '1.53'
-rworkflows: 0.99.3
+rworkflows: 0.99.5
 rworldmap: 1.3-6
 rworldxtra: '1.01'
 rwstats: '0.1'
@@ -20871,7 +20872,7 @@ rytstat: 0.3.0
 rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.8
-s2: 1.1.1
+s2: 1.1.2
 s20x: 3.1-34
 s2dv: 1.3.0
 s2dverification: 2.10.3
@@ -21288,7 +21289,7 @@ semverutils: 0.1.0
 sen2r: 1.5.4
 sendgridr: 0.6.1
 sendigR: 1.0.0
-sendmailR: 1.3-2
+sendmailR: 1.4-0
 sendplot: 4.0.0
 sensR: 1.5-2
 sense: 1.0.0
