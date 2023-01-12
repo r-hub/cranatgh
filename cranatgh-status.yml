@@ -1689,7 +1689,7 @@ Dire: 2.1.1
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
-Directional: '5.6'
+Directional: '5.7'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.21
@@ -2019,7 +2019,7 @@ EventDetectGUI: 0.3.0
 EventDetectR: 0.3.5
 EventStudy: '0.39'
 EventWinRatios: 1.0.0
-EvidenceSynthesis: 0.3.0
+EvidenceSynthesis: 0.4.0
 EviewsR: 0.1.5
 EvoPhylo: 0.3.2
 EvoRAG: '2.0'
@@ -3249,7 +3249,7 @@ KMD: 0.1.0
 KMDA: '1.0'
 KMgene: '1.3'
 KMsurv: 0.1-5
-KMunicate: 0.2.2
+KMunicate: 0.2.3
 KNNShiny: 0.1.0
 KOBT: 0.1.0
 KODAMA: '2.3'
@@ -6275,7 +6275,7 @@ SCRSELECT: 1.3-3
 SCRT: 1.3.1
 SCVA: 1.3.1
 SCperf: 1.1.1
-SCpubr: 1.0.4
+SCpubr: 1.1.0
 SCtools: 0.3.2.1
 SDALGCP: 0.4.0
 SDAR: 0.9-55
@@ -6847,7 +6847,7 @@ SplitSoftening: 2.1-0
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.11.0
+SqlRender: 1.11.1
 SqueakR: 1.3.0
 Sshaped: '1.1'
 Sstack: 1.0.1
@@ -7401,7 +7401,7 @@ VEwaningVariant: '1.3'
 VFP: 1.4.1
 VFS: 1.0.2
 VGAM: 1.1-7
-VGAMdata: 1.1-6
+VGAMdata: 1.1-8
 VGAMextra: 0.0-5
 VHDClassification: '0.3'
 VIC5: 0.2.5
@@ -11831,7 +11831,7 @@ etree: 0.1.0
 etrm: 1.0.1
 etrunct: '0.1'
 etseed: 0.1.0
-etwfe: 0.1.0
+etwfe: 0.2.0
 eudract: 0.10.1
 eulerian: '1.0'
 eulerr: 7.0.0
@@ -13118,7 +13118,7 @@ gfilinreg: 2.0.1
 gfilmm: 2.0.5
 gfilogisreg: 1.0.2
 gfmR: 1.1-0
-gfoRmula: 1.0.0
+gfoRmula: 1.0.1
 gfonts: 0.2.0
 gfpop: 1.1.0
 gg.gap: '1.3'
@@ -14034,6 +14034,7 @@ hmgm: 1.0.3
 hmi: 1.0.0
 hmlasso: 0.0.1
 hmm.discnp: 3.0-9
+hmmTMB: 1.0.0
 hmma: 1.1.0
 hmmhdd: '1.0'
 hmmm: 1.0-4
@@ -14954,7 +14955,7 @@ kernelPhil: '0.1'
 kernelPop: 1.0.2
 kernelTDA: 1.0.0
 kernelboot: 0.1.9
-kernelshap: 0.3.2
+kernelshap: 0.3.3
 kernhaz: 0.1.0
 kernlab: 0.9-31
 kernplus: 0.1.2
@@ -18132,7 +18133,7 @@ pawls: 1.0.0
 paws: 0.1.12
 paws.analytics: 0.1.12
 paws.application.integration: 0.1.13
-paws.common: 0.5.3
+paws.common: 0.5.4
 paws.compute: 0.1.13
 paws.cost.management: 0.1.12
 paws.customer.engagement: 0.1.12
@@ -18516,7 +18517,7 @@ pkgfilecache: 0.1.4
 pkggraph: 0.2.3
 pkglite: 0.2.1
 pkgload: 1.3.2
-pkgmaker: '0.9'
+pkgmaker: 0.32.7
 pkgndep: 1.2.1
 pkgnet: 0.4.2
 pkgnews: 0.0.2
@@ -18735,7 +18736,7 @@ pomcheckr: 0.1.1
 pomdp: 1.0.3
 pomdpSolve: 1.0.2
 pomodoro: 3.8.0
-pomp: '4.5'
+pomp: '4.6'
 pompom: 0.2.1
 pompp: 0.1.3
 pooh: 0.3-2
@@ -19241,7 +19242,7 @@ qkerntool: '1.19'
 qlcData: 0.2.1
 qlcMatrix: 0.9.7
 qlcVisualize: 0.1.0
-qlcal: 0.0.3
+qlcal: 0.0.4
 qle: '0.18'
 qlifetable: 0.0.1-13
 qlspack: '2.2'
@@ -19491,7 +19492,7 @@ rJST: '1.3'
 rJava: 1.0-6
 rJavax: '0.3'
 rJython: 0.0-4
-rKIN: '0.1'
+rKIN: 0.3.0
 rKOMICS: '1.1'
 rKenyaForex: 0.1.0
 rKolada: 0.2.1
@@ -19578,7 +19579,7 @@ radiant: 1.4.4
 radiant.basics: 1.5.0
 radiant.data: 1.5.1
 radiant.design: 1.5.0
-radiant.model: 1.4.8
+radiant.model: 1.5.0
 radiant.multivariate: 1.4.4
 radiomics: 0.1.3
 radir: 1.0.4
@@ -20467,7 +20468,7 @@ robsurvey: 0.5-2
 robumeta: '2.0'
 robusTest: 1.0.1
 robust: 0.7-1
-robust2sls: 0.2.1
+robust2sls: 0.2.2
 robustBLME: 0.1.3
 robustDA: '1.2'
 robustETM: '1.0'
@@ -20568,7 +20569,7 @@ roxyPackage: 0.03-6
 roxygen: '0.1'
 roxygen2: 7.2.3
 roxygen2md: 1.0.0
-roxytest: 0.0.1
+roxytest: 0.0.2
 royston: '1.2'
 rpact: 3.3.2
 rpanel: 1.1-5.1
@@ -21414,7 +21415,7 @@ shapefiles: 0.7.2
 shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
-shapviz: 0.4.0
+shapviz: 0.4.1
 shar: 2.0.2
 sharp: 1.2.1
 sharpData: '1.4'
@@ -23232,7 +23233,7 @@ timeR: 1.2.0
 timeROC: '0.4'
 timeSeq: 1.0.4
 timeSeries: '4021.105'
-timechange: 0.1.1
+timechange: 0.2.0
 timedelay: 1.0.11
 timedeppar: 1.0.2
 timeit: 0.2.1
