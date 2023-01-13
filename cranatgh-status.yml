@@ -363,6 +363,7 @@ BCA: 0.9-3
 BCA1SG: 0.1.0
 BCBCSF: 1.0-1
 BCC1997: 0.1.1
+BCClong: 1.0.0
 BCDAG: 1.0.0
 BCDating: 0.9.8
 BCE: 2.2.0
@@ -2845,6 +2846,7 @@ HardyWeinberg: 1.7.5
 HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
 Hassani.SACF: '1.0'
+Hassani.Silva: '1.0'
 HazardDiff: 0.1.0
 HeckmanEM: 0.1.3
 HellCor: '1.3'
@@ -5537,7 +5539,7 @@ RPgSQL: 1.0-0
 RPhosFate: 1.0.2
 RPostgreSQL: 0.7-4
 RPostgres: 1.4.4
-RPresto: 1.4.1
+RPresto: 1.4.2
 RProbSup: '3.0'
 RProtoBuf: 0.4.20
 RPscoring: 0.1.0
@@ -8668,7 +8670,7 @@ biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.1
 biblio: 0.0.7
-bibliometrix: 4.0.1
+bibliometrix: 4.1.0
 bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
 bibliospec: 0.0.4
@@ -9050,7 +9052,7 @@ bridgedist: 0.1.2
 bridger: 0.1.0
 bridger2: 0.1.0
 bridgesampling: 1.1-2
-brif: 1.2.0
+brif: 1.4.0
 brinton: 0.2.7
 brio: 1.1.3
 briqr: 0.1.0
@@ -10194,7 +10196,7 @@ cowsay: 0.8.0
 coxed: 0.3.3
 coxinterval: '1.2'
 coxme: 2.2-18.1
-coxmeg: 1.1.2
+coxmeg: 1.1.4
 coxphMIC: 0.1.0
 coxphSGD: 0.2.1
 coxphf: 1.13.1
@@ -10504,7 +10506,7 @@ dad: 4.0.0
 dadjoke: '1.0'
 dadjokeapi: 1.0.2
 dados: 0.1.0
-dae: 3.2-13
+dae: 3.2-14
 daewr: 1.2-7
 daff: 0.3.5
 dafishr: 1.0.0
@@ -10636,7 +10638,7 @@ dbfaker: 0.1.0
 dbflobr: 0.2.2
 dbglm: 1.0.0
 dbhydroR: 0.2-8
-dblcens: '1.1'
+dblcens: 1.1.9
 dblr: 0.1.0
 dbmss: 2.8-0
 dbnR: 0.7.8
@@ -11126,7 +11128,7 @@ document: 3.3.4
 documenter: 0.1.3
 docxtools: 0.3.0
 docxtractr: 0.6.5
-dodgr: 0.2.18
+dodgr: 0.2.19
 doebioresearch: 0.1.0
 doex: '1.2'
 dogesr: 0.1.5
@@ -12678,7 +12680,7 @@ funest: 0.0.1.3
 funfits: 2.0-3
 fungible: 2.2.2
 funique: 0.0.1
-funkyheatmap: 0.1.0
+funkyheatmap: 0.2.0
 funmediation: 1.0.1
 funnelR: 0.1.0
 funneljoin: 0.1.0
@@ -12771,7 +12773,7 @@ gafit: 0.5.1
 gaiah: 0.0.4
 gainML: 0.1.0
 gains: '1.2'
-galah: 1.5.0
+galah: 1.5.1
 galgo: '1.4'
 galigor: 0.2.5
 galts: 1.3.1
@@ -12820,7 +12822,7 @@ ganDataModel: 1.1.1
 ganGenerativeData: 1.3.3
 ganalytics: 0.10.7
 gaoptim: '1.1'
-gap: 1.4-2
+gap: '1.5'
 gap.datasets: 0.0.5
 gapclosing: 1.0.2
 gapfill: 0.9.6-1
@@ -13757,7 +13759,7 @@ gtop: 0.2.0
 gtreg: 0.2.0
 gtrendsR: 1.5.1
 gtsf: 0.1.0
-gtsummary: 1.6.3
+gtsummary: 1.7.0
 gtx: 0.0.8
 guaguas: 0.3.0
 guardianapi: 0.1.1
@@ -14040,7 +14042,7 @@ hmgm: 1.0.3
 hmi: 1.0.0
 hmlasso: 0.0.1
 hmm.discnp: 3.0-9
-hmmTMB: 1.0.0
+hmmTMB: 1.0.1
 hmma: 1.1.0
 hmmhdd: '1.0'
 hmmm: 1.0-4
@@ -14786,7 +14788,7 @@ jaccard: 0.1.0
 jack: 4.0.0
 jackalope: 1.1.3
 jackknifeKME: '1.2'
-jackknifeR: 0.1.1
+jackknifeR: 1.0.0
 jackstrap: 0.1.0
 jackstraw: 1.3.8
 jacobi: 2.0.1
@@ -14988,6 +14990,7 @@ kgschart: 1.3.5
 khroma: 1.9.0
 kibior: 0.1.1
 kidney.epi: 1.2.0
+kidsides: 0.4.0
 kim: 0.5.55
 kimfilter: 1.0.0
 kimisc: '0.4'
@@ -15716,7 +15719,7 @@ mRchmadness: 1.0.0
 mRm: 1.1.6
 mRpostman: 1.1.0
 mSTEM: 1.0-1
-mSigTools: 1.0.5
+mSigTools: 1.0.7
 mSimCC: 0.0.2
 mStats: 3.4.0
 maGUI: '4.0'
@@ -15830,7 +15833,7 @@ mappp: 1.0.0
 mapproj: 1.2.11
 mapr: 0.5.2
 maps: 3.4.1
-mapsFinland: 0.2.0
+mapsFinland: 0.2.1
 mapsPERU: 1.0.2
 mapsRinteractive: 1.0.1
 mapsapi: 0.5.3
@@ -16484,7 +16487,7 @@ mlmtools: 1.0.2
 mlmts: 1.1.0
 mlogit: 1.1-1
 mlogitBMA: 0.1-7
-mlpack: 4.0.0
+mlpack: 4.0.1
 mlpwr: 1.0.0
 mlquantify: 0.2.0
 mlr: 2.19.1
@@ -16595,7 +16598,7 @@ modelDown: '1.1'
 modelObj: '4.2'
 modelROC: '1.0'
 modelStudio: 3.1.0
-modelbased: 0.8.5
+modelbased: 0.8.6
 modelc: 1.0.0.0
 modelcf: '2.1'
 modeldata: 1.0.1
@@ -17023,7 +17026,7 @@ mvtmeta: '1.1'
 mvtnorm: 1.1-3
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-4
-mwTensor: 1.0.0
+mwTensor: 1.0.1
 mwa: 0.4.4
 mwaved: 1.1.8
 mwcsr: 0.1.6
@@ -18066,6 +18069,7 @@ parmigene: 1.1.0
 parmsurvfit: 0.1.0
 paropt: 0.2.1
 parqr: 0.1.0
+parquetize: 0.5.0
 parseRPDR: 0.2.3
 parsec: 1.2.6
 parsedate: 1.3.1
@@ -19747,7 +19751,7 @@ rbgm: 0.1.0
 rbhl: 0.9.2
 rbi: 0.10.4
 rbi.helpers: 0.3.3
-rbibutils: 2.2.12
+rbibutils: 2.2.13
 rbin: 0.2.0
 rbioacc: 1.1-0
 rbioapi: 0.7.7
@@ -21095,6 +21099,7 @@ scdensity: 1.0.2
 scdhlm: 0.7.1
 scellpam: 1.4.1
 scenario: '1.0'
+scenes: 0.1.0
 scgwr: 0.1.2-21
 schemr: 0.1.0
 schoRsch: '1.10'
@@ -24097,7 +24102,7 @@ vwline: 0.2-2
 vwr: 0.3.0
 wBoot: 1.0.3
 wCorr: 1.9.5
-wINEQ: 1.0.1
+wINEQ: 1.1.1
 wISAM: 0.2.8
 wNNSel: '0.1'
 wPerm: 1.0.1
