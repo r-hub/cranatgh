@@ -105,7 +105,7 @@ AOfamilies: '1.0'
 APAtree: 1.0.1
 APCI: 1.0.6
 APCanalysis: '1.0'
-APCtools: 1.0.1
+APCtools: 1.0.4
 APFr: 1.0.2
 APIS: 1.0.1
 APML: 0.0.5
@@ -217,6 +217,7 @@ AlignStat: 1.3.1
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: '1.1'
+AllelicSeries: 0.0.2.2
 Allspice: 1.0.6
 AlphaHull3D: 2.0.0
 AlphaPart: 0.9.8
@@ -254,7 +255,7 @@ AntAngioCOOL: '1.2'
 AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 3.1.0
-Anthropometry: '1.17'
+Anthropometry: '1.18'
 AntibodyTiters: 0.1.24
 AnxietySleep: 0.0.1
 Aoptbdtvc: 0.0.2
@@ -5223,7 +5224,7 @@ RBtest: '1.1'
 RC: 1.0.2.13
 RCA: '2.0'
 RCAL: '2.0'
-RCALI: 0.3.4
+RCALI: 0.3.5
 RCBR: 0.5.9
 RCCPCA: 0.1.0
 RCDT: 1.2.1
@@ -6488,7 +6489,7 @@ SRMA: 1.0.0-2
 SRPM: '0.1'
 SRRS: '0.1'
 SRS: 0.2.3
-SRTsim: 0.99.3
+SRTsim: 0.99.6
 SRTtools: 1.2.0
 SSBtools: 1.3.8
 SSDL: '1.1'
@@ -7064,7 +7065,7 @@ TPEA: 3.1.0
 TPES: 1.0.0
 TPLSr: 1.0.4
 TPMplt: 0.1.3
-TPmsm: 1.2.5
+TPmsm: 1.2.7
 TR8: 0.9.22
 TRADER: 1.2-3
 TRAMPR: 1.0-10
@@ -9949,7 +9950,7 @@ comtradr: 0.3.0
 con2aqi: 0.1.0
 con2lki: 0.1.0
 conStruct: 1.0.4
-conText: 1.1.0
+conText: 1.4.2
 concatenate: 1.0.0
 concatipede: 1.0.1
 concaveman: 1.1.0
@@ -11627,6 +11628,7 @@ empiricalBayes: '2.1'
 empiricalFDR.DESeq2: '1.0'
 emplik: '1.2'
 emplik2: '1.32'
+emplikAUC: '0.3'
 ems: 1.3.11
 emstreeR: 3.0.0
 emu: '4.3'
@@ -11729,7 +11731,7 @@ epitab: 0.2.2
 epitable: 0.1.2
 epitools: 0.5-10.1
 epitopR: 0.1.2
-epitrix: 0.2.2
+epitrix: 0.4.0
 epitweetr: 2.2.13
 eplusr: 0.15.3
 eply: 0.1.2
@@ -13626,11 +13628,12 @@ gratis: 1.0.0
 grattan: 2.0.0.0
 gravitas: 0.1.3
 gravity: '1.0'
+gravmagsubs: 1.0.0
 greatR: 0.2.0
 grec: 1.4.1
 greed: 0.6.1
 greekLetters: 0.0.7
-greeks: 0.7.0
+greeks: 0.8.0
 greenclust: 1.1.0
 gregRy: 0.1.0
 gregmisc: 2.1.5
@@ -13687,7 +13690,7 @@ grove: '1.1'
 growcurves: '0.2'
 growfunctions: '0.15'
 growth: 1.1.1
-growthPheno: 2.1.16
+growthPheno: 2.1.17
 growthcleanr: 2.0.3
 growthcurver: 0.3.1
 growthmodels: 1.2.0
@@ -14660,7 +14663,7 @@ ipr: 0.1.0
 ipred: 0.9-13
 iprior: 0.7.3
 ips: 0.0.11
-ipsecr: 1.3.0
+ipsecr: 1.4.0
 ipsfs: 1.0.0
 iptmnetr: 0.1.8
 iptools: 0.7.2
@@ -16583,7 +16586,7 @@ mockthat: 0.2.8
 mod: 0.1.3
 mod09nrt: '0.14'
 mod2rm: 0.2.1
-modEvA: 3.8.4
+modEvA: '3.9'
 modMax: '1.1'
 modQR: 0.1.3
 modTempEff: '1.5'
@@ -16909,6 +16912,7 @@ multilevel: '2.7'
 multilevelMatching: 1.0.0
 multilevelPSA: 1.2.5
 multilevelTools: 0.1.1
+multilevelcoda: 1.0.0
 multilevelmod: 1.0.0
 multilinguer: 0.2.4
 multilm: '0.1'
@@ -18045,7 +18049,7 @@ parallelMap: 1.5.1
 parallelPlot: 0.2.0
 parallelSVM: 0.1-9
 parallelize.dynamic: '0.9'
-parallelly: 1.33.0
+parallelly: 1.34.0
 parallelpam: 1.0.1
 param6: 0.2.4
 paramGUI: 2.2.0
@@ -18158,7 +18162,7 @@ paws.networking: 0.1.12
 paws.security.identity: 0.1.12
 paws.storage: 0.1.12
 pbANOVA: 0.1.0
-pbapply: 1.6-0
+pbapply: 1.7-0
 pbatR: 2.2-13
 pbbd: 1.0.0
 pbcc: 0.0.3
@@ -18693,7 +18697,7 @@ poio: 0.0-4
 poisDoubleSamp: 1.1.1
 poisFErobust: 2.0.0
 poisbinom: 1.0.1
-poismf: 0.4.0-2
+poismf: 0.4.0-3
 poisson: '1.0'
 poisson.glm.mix: '1.3'
 poissonMT: 0.3-5
@@ -19007,7 +19011,7 @@ profileModel: 0.6.1
 profileR: 0.3-5
 profilr: 0.1.0
 profmem: 0.6.0
-profoc: 1.0.0
+profoc: 1.1.0
 profr: 0.3.3
 proftools: 0.99-3
 profvis: 0.3.7
@@ -19235,7 +19239,7 @@ qdapRegex: 0.7.5
 qdapTools: 1.3.5
 qdg: 1.0.0
 qdm: 0.1-0
-qfa: 0.0-10
+qfa: '1.2'
 qfasar: 1.2.1
 qgam: 1.3.4
 qgcomp: 2.10.1
@@ -19588,7 +19592,7 @@ ractivecampaign: 0.2.0
 radar: 1.0.0
 radarBoxplot: 1.0.5
 radarchart: 0.3.1
-radiant: 1.4.4
+radiant: 1.5.0
 radiant.basics: 1.5.0
 radiant.data: 1.5.1
 radiant.design: 1.5.0
@@ -19857,7 +19861,7 @@ rdian: 0.1.1
 rdist: 0.0.5
 rdiversity: 2.2.0
 rdlocrand: '1.0'
-rdmulti: '0.9'
+rdmulti: '1.0'
 rdnb: 0.1-5
 rdoc: 0.1.0
 rdomains: 0.2.1
@@ -20095,7 +20099,7 @@ repolr: '3.4'
 report: 0.5.5
 reportROC: '3.6'
 reportReg: 0.3.0
-reportRmd: 0.0.1
+reportRmd: 0.0.2
 reportRx: '1.0'
 reporter: 1.3.8
 reportfactory: 0.4.0
@@ -21042,7 +21046,7 @@ scAnnotate: 0.1.1
 scBio: 0.1.6
 scCAN: 1.0.4
 scCATCH: 3.2.1
-scCustomize: 1.1.0
+scCustomize: 1.1.1
 scDHA: 1.2.0
 scDIFtest: 0.1.1
 scDiffCom: 0.1.0
@@ -22483,7 +22487,7 @@ stfit: 0.99.9
 stheoreme: '1.2'
 stickr: 0.3.1
 sticky: 0.5.6.1
-stickyr: 0.1.0
+stickyr: 0.1.1
 stilt: 1.3.0
 stima: 1.2.1
 stinepack: '1.4'
@@ -23207,7 +23211,7 @@ tidystats: 0.5.1
 tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
-tidytable: 0.9.1
+tidytable: 0.9.2
 tidytags: 1.1.1
 tidyterra: 0.3.1
 tidytext: 0.4.1
@@ -23366,7 +23370,7 @@ topicmodels.etm: 0.1.0
 topmodel: 0.7.5
 topoDistance: 1.0.2
 topologyGSA: 1.4.7
-topr: 1.1.1
+topr: 1.1.2
 toprdata: 1.0.1
 topsa: 0.1.0
 topsis: '1.0'
@@ -23383,7 +23387,7 @@ tosca: 0.3-2
 toscmask: 1.2.3
 toscutil: 2.5.0
 tosls: '1.0'
-tosr: 0.1.1
+tosr: 0.1.2
 tossm: '1.3'
 totalcensus: 0.6.6
 touch: 0.1-6
