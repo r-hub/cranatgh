@@ -4927,7 +4927,7 @@ PoSI: '1.1'
 PogromcyDanych: '1.7'
 PoiClaClu: 1.0.2.1
 PointFore: 0.2.0
-PointedSDMs: 1.1.1
+PointedSDMs: 1.2.0
 PoisBinNonNor: 1.3.3
 PoisBinOrd: 1.4.3
 PoisBinOrdNonNor: 1.5.3
@@ -5828,7 +5828,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.6.0
 RcppAnnoy: 0.0.20
-RcppArmadillo: 0.11.4.2.1
+RcppArmadillo: 0.11.4.3.1
 RcppBDT: 0.2.6
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
@@ -6105,7 +6105,7 @@ RobustRankAggreg: 1.2.1
 Robyn: 3.7.2
 RockFab: 1.2.1
 Rodam: 0.1.8
-Rogue: 2.1.3
+Rogue: 2.1.4
 RolWinMulCor: 1.2.0
 RonFHIR: 0.4.0
 Rook: '1.2'
@@ -6219,6 +6219,7 @@ SALTSampler: 1.1.0
 SAM: 1.1.3
 SAMBA: 0.9.0
 SAMCpack: 0.1.1
+SAME: 0.1.0
 SAMGEP: 0.1.0-1
 SAMM: 1.1.1
 SAMTx: 0.3.0
@@ -6292,7 +6293,7 @@ SDDA: 1.0-5
 SDDE: 1.0.1
 SDEFSR: 0.7.22
 SDGdetector: '2.7'
-SDLfilter: 2.3.0
+SDLfilter: 2.3.1
 SDMPlay: '2.0'
 SDMTools: '1.1'
 SDMtune: 1.2.0
@@ -6358,6 +6359,7 @@ SIMplyBee: 0.3.0
 SIN: '0.6'
 SINGLE: '1.3'
 SIPDIBGE: 0.1.7
+SIPmg: '1.4'
 SIRE: 1.1.0
 SIRItoGTFS: 0.2.4
 SIRmcmc: '1.1'
@@ -6491,7 +6493,7 @@ SRRS: '0.1'
 SRS: 0.2.3
 SRTsim: 0.99.6
 SRTtools: 1.2.0
-SSBtools: 1.3.8
+SSBtools: 1.4.0
 SSDL: '1.1'
 SSDM: 0.2.8
 SSDforR: 1.5.28
@@ -8159,7 +8161,7 @@ arthistory: 0.1.0
 arules: 1.7-5
 arulesCBA: 1.2.5
 arulesNBMiner: 0.1-8
-arulesSequences: 0.2-27
+arulesSequences: 0.2-28
 arulesViz: 1.5-1
 as.color: '0.1'
 asVPC: 1.0.2
@@ -10373,7 +10375,7 @@ ctgt: '2.0'
 cthist: 1.4.0
 cthresh: '4.5'
 cthreshER: 1.1.0
-ctl: 1.0.0-7
+ctl: 1.0.0-8
 ctmcd: 1.4.2
 ctmcmove: 1.2.9
 ctmle: 0.1.2
@@ -11102,7 +11104,7 @@ doMC: 1.3.8
 doMIsaul: 1.0.1
 doMPI: 0.2.2
 doParallel: 1.0.17
-doRNG: 1.8.3
+doRNG: 1.8.6
 doRedis: 3.0.1
 doSMP: 1.0-1
 doSNOW: 1.0.20
@@ -11271,7 +11273,7 @@ dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.6.1
+duckdb: 0.6.2
 duckduckr: 1.0.0
 dumbbell: '0.1'
 dummies: 1.5.6
@@ -13049,7 +13051,7 @@ geometr: 0.2.9
 geometries: 0.2.0
 geometry: 0.4.6.1
 geomnet: 0.3.1
-geomorph: 4.0.4
+geomorph: 4.0.5
 geomtextpath: 0.1.1
 geomultistar: 1.1.0
 geonames: '0.999'
@@ -13869,7 +13871,7 @@ hbsae: '1.2'
 hcandersenr: 0.2.0
 hcc: '0.54'
 hcci: 1.0.0
-hce: 0.4.0
+hce: 0.5.0
 hchinamap: 0.1.0
 hcidata: 0.1.0
 hcp: '0.1'
@@ -15157,7 +15159,7 @@ landsat8: 0.1-10
 landscapeR: '1.2'
 landscapemetrics: 1.5.5
 landscapetools: 0.5.0
-landsepi: 1.2.2
+landsepi: 1.2.3
 langevitour: '0.5'
 languageR: 1.5.0
 languagelayeR: 1.2.4
@@ -16472,7 +16474,7 @@ mlergm: '0.8'
 mleur: 1.0-6
 mlf: 1.2.1
 mlfit: 0.5.3
-mlflow: 2.0.1
+mlflow: 2.1.1
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
@@ -17253,7 +17255,7 @@ nftbart: '1.5'
 nga: '1.4'
 ngboostForecast: 0.1.1
 ngram: 3.2.2
-ngramr: 1.9.1
+ngramr: 1.9.3
 ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
@@ -19698,7 +19700,7 @@ rasciidoc: 4.0.2
 rasclass: 0.2.2
 rase: 0.3-3
 rassta: 1.0.5
-raster: 3.6-13
+raster: 3.6-14
 rasterDT: 0.3.2
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.2
@@ -21111,7 +21113,7 @@ schoenberg: 2.0.2
 scholar: 0.2.4
 schoolmath: 0.4.1
 schrute: 1.0.1
-schtools: 0.3.1
+schtools: 0.4.0
 schumaker: 1.2.1
 schwartz97: 0.0.6
 sciRmdTheme: '0.1'
@@ -21452,7 +21454,7 @@ shidashi: 0.1.4
 shiftR: '1.5'
 shinipsum: 0.1.0
 shiny: 1.7.4
-shiny.i18n: 0.2.0
+shiny.i18n: 0.3.0
 shiny.info: 0.2.0
 shiny.pwa: 0.2.1
 shiny.react: 0.3.0
@@ -23819,6 +23821,7 @@ usdata: 0.2.0
 usdc: 0.1.0
 usdm: 1.1-18
 usedist: 0.4.0
+usedthese: 0.1.0
 useful: 1.2.6
 usefun: 0.4.8
 usemodels: 0.2.0
