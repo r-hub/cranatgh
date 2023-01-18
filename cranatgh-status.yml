@@ -205,7 +205,7 @@ AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
 AgroR: 1.3.2
-AgroReg: 1.2.8
+AgroReg: 1.2.9
 AgroTech: 1.0.2
 AhoCorasickTrie: 0.1.2
 AirMonitor: 0.2.2
@@ -1267,6 +1267,7 @@ CoordinateCleaner: 2.0-20
 CopCTS: 1.0.0
 CopSens: 0.1.0
 CopernicusDEM: 1.0.2
+CopernicusMarine: 0.0.3
 Copula.Markov: '2.9'
 Copula.Markov.survival: 1.0.0
 Copula.surv: '1.2'
@@ -1985,7 +1986,7 @@ EpiEstim: 2.2-4
 EpiILM: 1.5.2
 EpiILMCT: 1.1.7
 EpiInvert: 0.3.1
-EpiLPS: 1.0.6
+EpiLPS: 1.0.7
 EpiModel: 2.3.1
 EpiNow2: 1.3.2
 EpiReport: 1.0.2
@@ -2965,6 +2966,7 @@ IDF: 2.1.2
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
+IDSL.FSA: '1.0'
 IDSL.IPA: '2.6'
 IDSL.MXP: '1.8'
 IDSL.SUFA: '1.2'
@@ -3795,7 +3797,7 @@ MOCCA: '1.4'
 MOCHA: 0.1.0
 MODIS: 1.2.9
 MODISSnow: 0.1.0.0
-MODISTools: 1.1.3
+MODISTools: 1.1.4
 MODIStsp: 2.0.9
 MOEADr: 1.1.3
 MOFAT: '1.0'
@@ -4041,6 +4043,7 @@ MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
 Metrics: 0.1.4
 MetricsWeighted: 0.5.4
+MexBrewer: 0.0.2
 MfUSampler: 1.1.0
 MiClip: '1.3'
 MiDA: 0.1.2
@@ -4606,6 +4609,7 @@ PBSadmb: 1.1.4
 PBSddesolve: 1.13.1
 PBSmapping: 2.73.2
 PBSmodelling: 2.68.8
+PBtDesigns: 1.0.0
 PCA4TS: '0.1'
 PCA4you: 1.2.4
 PCADSC: 0.8.0
@@ -5823,7 +5827,7 @@ RcmdrPlugin.sutteForecastR: 1.0.0
 RcmdrPlugin.temis: 0.7.10
 Rcoclust: '0.1'
 Rcolombos: 2.0.2
-Rcompadre: 1.1.0
+Rcompadre: 1.2.0
 Rcplex: 0.3-5
 Rcpp: 1.0.9
 Rcpp11: 3.1.2.0.1
@@ -6283,7 +6287,7 @@ SCRSELECT: 1.3-3
 SCRT: 1.3.1
 SCVA: 1.3.1
 SCperf: 1.1.1
-SCpubr: 1.1.1
+SCpubr: 1.1.2
 SCtools: 0.3.2.1
 SDALGCP: 0.4.0
 SDAR: 0.9-55
@@ -6558,6 +6562,7 @@ SYNCSA: 1.3.4
 Sabermetrics: '2.0'
 SafeBayes: '1.1'
 SafeQuant: '2.3'
+SafeVote: 1.0.0
 SailoR: '1.2'
 Sample.Size: '1.0'
 SampleSize4ClinicalTrials: 0.2.3
@@ -6656,6 +6661,7 @@ ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.1.0
 ShinyImage: 0.1.0
 ShinyItemAnalysis: 1.4.2
+ShinyLink: 0.2.2
 ShinyQuickStarter: 2.0.1
 ShinyTester: 0.1.0
 ShortForm: 0.4.6
@@ -6665,6 +6671,7 @@ SiER: 0.1.0
 SiMRiv: 1.0.4
 SiPhyNetwork: 1.0.1
 SiZer: 0.1-8
+Sie2nts: 0.1.0
 Sieve: '1.0'
 SigOptR: 0.0.1
 SigTree: 1.10.6
@@ -7497,7 +7504,7 @@ WCQ: '0.2'
 WDI: 2.7.8
 WEE: '1.0'
 WEGE: 0.1.0
-WGCNA: '1.71'
+WGCNA: 1.72-1
 WGScan: '0.1'
 WHO: '0.2'
 WINRPACK: 1.1-0
@@ -8137,7 +8144,7 @@ ari: 0.3.5
 ariExtra: 0.3.1
 aricode: 1.0.2
 arkdb: 0.0.16
-arkhe: 1.0.0
+arkhe: 1.1.0
 arm: 1.13-1
 armada: 0.1.0
 armspp: 0.0.2
@@ -8884,6 +8891,7 @@ blender: 0.1.2
 blighty: 3.1-4
 blin: 0.0.1
 blindrecalc: 1.0.0
+blindreview: 1.0.1
 blink: 1.1.0
 bliss: 1.0.4
 blkbox: '1.0'
@@ -9276,7 +9284,7 @@ carrier: 0.1.0
 cartograflow: 1.0.3
 cartogram: 0.2.2
 cartogramR: 1.0-9
-cartography: 3.0.1
+cartography: 3.1.3
 cartools: 0.1.0
 carx: 0.7.1
 casabourse: 2.0.0
@@ -10009,7 +10017,7 @@ congressbr: 0.2.2
 conicfit: 1.0.4
 conics: '0.3'
 conjoint: '1.41'
-conjurer: 1.7.0
+conjurer: 1.7.1
 conleyreg: 0.1.7
 conmet: 0.1.0
 connect3: 0.1.0
@@ -10868,7 +10876,7 @@ dfpk: 3.5.1
 dfrr: 0.1.4
 dfvad: 0.3.6
 dga: 2.0.1
-dggridR: 2.0.4
+dggridR: 3.0.0
 dglars: 2.1.6
 dglm: 1.8.5
 dgmb: '1.2'
@@ -11120,7 +11128,7 @@ doc2vec: 0.2.0
 docdescriptR: 2020.1.0
 docinfeR: 2020.1.0
 docker: 0.0.2
-dockerfiler: 0.2.0
+dockerfiler: 0.2.1
 docknitr: 1.0.1
 dockr: 0.8.6
 doconv: 0.3.1
@@ -11580,7 +11588,7 @@ elec: 0.1.2.2
 elec.strat: '0.1'
 elect: '1.2'
 elections: '1.0'
-elections.dtree: 1.1.0
+elections.dtree: 1.1.1
 electionsBR: 0.3.2
 electivity: 1.0.2
 electoral: 0.1.3
@@ -11975,7 +11983,7 @@ extraBinomial: '2.1'
 extraDistr: 1.9.1
 extraTrees: 1.0.5
 extracat: 1.7-6
-extrafont: '0.18'
+extrafont: '0.19'
 extrafontdb: '1.0'
 extrafrail: '1.2'
 extraoperators: 0.1.1
@@ -13190,7 +13198,7 @@ ggdark: 0.2.1
 ggdemetra: 0.2.3
 ggdendro: 0.1.23
 ggdensity: 0.1.1
-ggdist: 3.2.0
+ggdist: 3.2.1
 ggdistribute: 1.0.3
 ggdmc: 0.2.6.0
 gge: '1.7'
@@ -14005,7 +14013,7 @@ highSCREEN: '0.4'
 highTtest: '1.3'
 highcharter: 0.9.4
 highfrequency: 1.0.0
-highlight: 0.5.0
+highlight: 0.5.1
 highlightHTML: 0.2.5
 highmean: '3.0'
 highr: '0.10'
@@ -14859,7 +14867,7 @@ jmvcore: 2.3.19
 job: 0.3.0
 jocre: 0.3.3
 joinXL: 1.0.1
-joineR: 1.2.6
+joineR: 1.2.7
 joineRML: 0.4.5
 joineRmeta: 0.1.2
 joinet: 0.0.10
@@ -15752,6 +15760,7 @@ macleish: 0.3.9
 maclogp: 0.1.1
 macroBiome: 0.1.0
 macrocol: 0.1.0
+macrosyntR: 0.2.14
 macs: '1.0'
 mactivate: 0.6.6
 maczic: 0.2.0
@@ -16156,6 +16165,7 @@ metaRNASeq: 1.0.7
 metaSDTreg: 0.2.1
 metaSEM: 1.3.0
 metaSurvival: 0.1.0
+metabias: 0.1.0
 metaboData: 0.6.3
 metaboGSE: 1.2.5
 metabolic: 0.1.1
@@ -16932,6 +16942,7 @@ multilevelmod: 1.0.0
 multilinguer: 0.2.4
 multilm: '0.1'
 multimark: 2.1.5
+multimix: 1.0-10
 multimode: '1.5'
 multimorbidity: 0.5.0
 multinbmod: '1.0'
@@ -17166,6 +17177,7 @@ neighbours: 0.1-2
 neighbr: 1.0.3
 neldermead: 1.0-12
 nemBM: 1.00.01
+nemtr: 0.0.1.0
 neo2R: 2.1.1
 neo4jshell: 0.1.2
 neo4r: 0.1.1
@@ -19576,7 +19588,7 @@ rSPARCS: 0.1.0
 rSPDE: 1.2.0
 rSQM: 1.3.14
 rSRD: 0.1.5
-rSpectral: 1.0.0.9
+rSpectral: 1.0.0.10
 rStrava: 1.1.4
 rSymPy: 0.2-1.2
 rSymbiota: 1.0.0
@@ -20261,7 +20273,7 @@ rglobi: 0.2.28
 rglplus: '1.0'
 rglwidget: 0.2.1
 rgnparser: 0.2.0
-rgoogleads: 0.8.0
+rgoogleads: 0.8.1
 rgoogleslides: 0.3.2
 rgovcan: 1.0.3
 rgp: 0.4-1
@@ -20958,7 +20970,7 @@ saeHB.twofold: 0.1.1
 saeHB.zinb: 0.1.1
 saeME: '1.3'
 saeMSPE: '1.2'
-saeRobust: 0.3.0
+saeRobust: 0.4.0
 saeSim: 0.11.0
 saeTrafo: 1.0.0
 saebnocov: 0.1.0
@@ -23212,11 +23224,11 @@ tidymodels: 1.0.0
 tidymv: 3.3.2
 tidync: 0.3.0
 tidyndr: 0.2.1
-tidypaleo: 0.1.2
+tidypaleo: 0.1.3
 tidyplus: 0.0.2
 tidypmc: '1.7'
 tidyposterior: 1.0.0
-tidypredict: 0.4.9
+tidypredict: '0.5'
 tidyquant: 1.0.6
 tidyquery: 0.2.4
 tidyqwi: 0.1.2
@@ -24320,7 +24332,7 @@ wk: 0.7.1
 wkNNMI: 1.0.0
 wkb: 0.4-0
 wktmo: 1.0.5
-wkutils: 0.1.2
+wkutils: 0.1.3
 wle: '0.9'
 wmlf: 0.1.2
 wmm: 1.1.1
