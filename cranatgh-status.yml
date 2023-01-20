@@ -955,7 +955,7 @@ COST: 0.1.0
 COUNT: 1.3.4
 COUSCOus: 1.0.0
 COVID19: 3.0.2
-COVIDIBGE: 0.1.8
+COVIDIBGE: 0.1.9
 COZIGAM: 2.0-3
 COveR: 1.0.3
 CP: '1.6'
@@ -975,7 +975,7 @@ CR2: 0.2.1
 CRABS: 1.1.0
 CRAC: '1.0'
 CRANsearcher: 1.0.0
-CRE: 0.1.1
+CRE: 0.2.0
 CREAM: 1.1.1
 CREDS: 0.1.0
 CRF: 0.4-3
@@ -3443,7 +3443,7 @@ LVGP: 2.1.5
 LVMMCOR: 0.01.1
 LVQTools: '1.2'
 LW1949: 1.1.0
-LWFBrook90R: 0.5.0
+LWFBrook90R: 0.5.2
 LZeroSpikeInference: 1.0.3
 LaF: 0.8.4
 LabApplStat: 1.4.4
@@ -4213,7 +4213,7 @@ N2H4: 0.8.2
 N2R: 1.0.1
 NACHO: 2.0.2
 NADA: 1.6-1.1
-NADA2: 1.1.0
+NADA2: 1.1.1
 NADIA: 0.4.2
 NAEPirtparams: 1.0.0
 NAEPprimer: 1.0.1
@@ -4519,7 +4519,7 @@ OpenImageR: 1.2.8
 OpenLand: 1.0.2
 OpenML: '1.12'
 OpenMPController: 0.2-5
-OpenMx: 2.20.7
+OpenMx: 2.21.1
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.6.1
 OpenSpecy: 0.9.5
@@ -4706,9 +4706,9 @@ PMCMRplus: 1.9.6
 PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.18-0
-PNADcIBGE: 0.7.1
+PNADcIBGE: 0.7.2
 PNAR: '1.3'
-PNSIBGE: 0.1.7
+PNSIBGE: 0.1.8
 PNWColors: 0.1.0
 PO.EN: '1.0'
 POCRE: 0.6.0
@@ -4777,7 +4777,7 @@ PSIMEX: '1.1'
 PSLM2015: 0.2.0
 PSM: '0.8'
 PSMix: 1.1.1
-PSPManalysis: 0.3.8
+PSPManalysis: 0.3.9
 PSS.Health: 0.5.1
 PSSIM: 0.1.0
 PSSMCOOL: 0.2.4
@@ -5043,7 +5043,7 @@ PtProcess: 3.3-16
 PubBias: '1.0'
 PubMedMining: 1.0.0
 PubMedWordcloud: 0.3.6
-PublicationBias: 2.2.0
+PublicationBias: 2.3.0
 Publish: 2023.01.17
 PupilPre: 0.6.2
 PupillometryR: 0.0.4
@@ -7477,7 +7477,7 @@ ViSiElse: 1.2.2
 VicmapR: 0.1.9
 VideoComparison: 0.9-4
 ViewPipeSteps: 0.1.0
-VineCopula: 2.4.4
+VineCopula: 2.4.5
 VirtualPop: 1.0.2
 VisCov: '1.3'
 VisitorCounts: 1.0.1
@@ -8175,7 +8175,7 @@ arulesViz: 1.5-1
 as.color: '0.1'
 asVPC: 1.0.2
 asaur: '0.50'
-asbio: 1.8-3
+asbio: 1.8-4
 ascentTraining: 1.0.0
 ascii: '2.4'
 asciiSetupReader: 2.4.0
@@ -10081,7 +10081,7 @@ copent: '0.3'
 coppeCosenzaR: 0.1.3
 copre: 0.1.0
 coprimary: '1.0'
-cops: 1.2-0
+cops: 1.3-1
 copula: 1.1-1
 copulaData: 0.0-1
 copulaSim: 0.0.1
@@ -12979,7 +12979,7 @@ genefu: 1.0.9
 genekitr: 1.0.8
 genemodel: 1.1.0
 genepi: 1.0.1
-genepop: 1.1.7
+genepop: 1.2.2
 generalCorr: 1.2.2
 generalKSStat: 1.0.3
 generalhoslem: 1.3.4
@@ -14037,7 +14037,7 @@ hiphop: 0.0.1
 hippie: 0.1.0
 hipread: 0.2.3
 hisemi: 1.1-0
-hisse: 2.1.9
+hisse: 2.1.10
 histmdl: 0.7-1
 histogram: 0.0-25
 historicalborrow: 1.0.4
@@ -14954,7 +14954,7 @@ kayadata: 1.2.0
 kazaam: 0.1-0
 kcirt: 0.6.0
 kcopula: 0.1.0
-kcpRS: 1.0.0
+kcpRS: 1.1.0
 kde1d: 1.0.5
 kdecopula: 0.9.2
 kdensity: 1.1.0
@@ -15372,7 +15372,7 @@ liayson: 1.0.5
 libamtrack: 0.6.3
 libbib: 1.6.4
 libcoin: 1.0-9
-libgeos: 3.11.0-2
+libgeos: 3.11.1-1
 libproj: 8.1.0-1
 libr: 1.2.8
 librarian: 1.8.1
@@ -15900,7 +15900,7 @@ markets: 1.1.4
 markmyassignment: 0.8.6
 markophylo: 1.0.8
 markovMSM: 0.1.2
-markovchain: 0.9.0
+markovchain: 0.9.1
 marl: '1.0'
 marmap: 1.0.9
 marp: 0.1.0
@@ -18205,7 +18205,7 @@ pbdSLAP: 0.3-3
 pbdZMQ: 0.3-8
 pbivnorm: 0.6.0
 pbixr: 0.1.4
-pbkrtest: 0.5.1
+pbkrtest: 0.5.2
 pbm: 1.2.1
 pbmcapply: 1.5.1
 pbo: 1.3.5
@@ -18620,7 +18620,7 @@ plogr: 0.2.0
 plot.matrix: 1.6.2
 plot2groups: '0.10'
 plot3D: '1.4'
-plot3Drgl: 1.0.3
+plot3Drgl: 1.0.4
 plot3logit: 3.1.3
 plotAndPlayGTK: 0.8.78
 plotBart: 0.1.7
@@ -18836,7 +18836,7 @@ postGIStools: 0.2.4
 postHoc: 0.1.3
 postal: 0.1.1
 postcards: 0.2.3
-postdoc: 1.1.0
+postdoc: 1.2.0
 posterdown: '1.0'
 posterior: 1.3.1
 postgwas: '1.11'
@@ -19585,7 +19585,7 @@ rSFA: '1.5'
 rSHAPE: 0.3.2
 rSPACE: 1.2.0
 rSPARCS: 0.1.0
-rSPDE: 1.2.0
+rSPDE: 2.1.0
 rSQM: 1.3.14
 rSRD: 0.1.5
 rSpectral: 1.0.0.10
@@ -20287,6 +20287,7 @@ rgrassdoc: 1.0.0
 rgrs: '0.3'
 rgsp: 0.2.0
 rgtmx: 0.1.4
+rgudhi: 0.1.0
 rgugik: 0.3.3
 rgw: 0.3.0
 rhandsontable: 0.3.8
@@ -20423,7 +20424,7 @@ rmapshaper: 0.4.6
 rmapzen: 0.4.3
 rmarchingcubes: 0.1.3
 rmargint: 2.0.2
-rmarkdown: '2.19'
+rmarkdown: '2.20'
 rmatio: 0.16.0
 rmcfs: 1.3.5
 rmcorr: 0.5.4
@@ -20765,7 +20766,7 @@ rsprite2: 0.2.0
 rsprng: '1.0'
 rsq: '2.5'
 rsqliteadmin: 1.0.1
-rstac: 0.9.1-5
+rstac: 0.9.2
 rstack: 1.0.0
 rstackdeque: 1.1.1
 rstan: 2.21.8
@@ -22004,7 +22005,7 @@ source.gist: 1.0.0
 sourceR: 1.1.0
 sourcetools: 0.1.7
 sovereign: 1.2.1
-sp: 1.5-1
+sp: 1.6-0
 sp23design: 0.9-1
 sp500SlidingWindow: 0.1.0
 spANOVA: 0.99.3
@@ -23267,7 +23268,7 @@ tigris: '2.0'
 tiktokadsR: 0.1.0
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
-tiledb: 0.17.1
+tiledb: 0.18.0
 tilegramsR: 0.2.0
 tilemaps: 0.2.0
 tiler: 0.2.5
@@ -24208,7 +24209,7 @@ wcde: 0.0.5
 wcep: 1.0.0
 wdm: 0.2.3
 wdman: 0.2.6
-wdnet: 0.0.5
+wdnet: 1.0.0
 wdnr.gis: 0.1.4
 wdpar: 1.3.3
 weaana: 0.1.1
@@ -24562,7 +24563,7 @@ zeallot: 0.1.0
 zebu: 0.2.0.0
 zeitgebr: 0.3.5
 zeligverse: 0.1.1
-zen4R: 0.7-1
+zen4R: '0.8'
 zendeskR: '0.4'
 zenplots: 1.0.4
 zeroEQpart: 0.1.0
