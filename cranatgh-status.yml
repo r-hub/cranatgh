@@ -3055,7 +3055,7 @@ IRTest: 0.0.2
 IRTpp: 0.2.6
 IRdisplay: '1.1'
 IRexamples: 0.0.2
-IRkernel: 1.3.1
+IRkernel: 1.3.2
 IRon: 0.1.4
 ISA: 1.0-32
 ISAT: 1.0.5
@@ -5003,7 +5003,7 @@ PriceIndices: 0.1.3
 PriorCD: 0.1.0
 PriorGen: 1.1.2
 PrivateLR: 1.2-22
-ProAE: 0.2.10
+ProAE: 0.2.12
 ProDenICA: '1.1'
 ProFit: 1.3.3
 ProFound: 1.14.1
@@ -5546,7 +5546,7 @@ RPS: 1.0.1
 RPgSQL: 1.0-0
 RPhosFate: 1.0.2
 RPostgreSQL: 0.7-4
-RPostgres: 1.4.4
+RPostgres: 1.4.5
 RPresto: 1.4.2
 RProbSup: '3.0'
 RProtoBuf: 0.4.20
@@ -6463,7 +6463,7 @@ SPCompute: 1.0.2
 SPECIES: 1.1.3
 SPECK: 0.1.1
 SPEDInstabR: '1.9'
-SPEI: '1.7'
+SPEI: 1.8.0
 SPIAssay: 1.1.0
 SPIGA: 1.0.0
 SPINA: 4.1.0
@@ -6670,7 +6670,7 @@ ShortForm: 0.4.6
 ShrinkCovMat: 1.4.0
 Shrinkage: '1.0'
 SiER: 0.1.0
-SiMRiv: 1.0.4
+SiMRiv: 1.0.5
 SiPhyNetwork: 1.0.1
 SiZer: 0.1-8
 Sie2nts: 0.1.0
@@ -8875,7 +8875,7 @@ bivquant: '0.1'
 bivrp: 1.2-2
 biwavelet: 0.20.21
 biwt: 1.0.1
-bizdays: 1.0.12
+bizdays: 1.0.13
 bizicount: 1.3.0
 bjscrapeR: 0.1.0
 bkmr: 0.2.2
@@ -10061,7 +10061,7 @@ controlTest: 1.1.0
 controlfunctionIV: 0.1.1
 contsurvplot: 0.2.0
 convdistr: 1.5.3
-convergEU: 0.5.1
+convergEU: 0.5.3
 convertGraph: '0.1'
 convertid: 0.1.3
 convertr: '0.1'
@@ -10750,7 +10750,7 @@ deeplr: 2.0.0
 deepnet: 0.2.1
 deepredeff: 0.1.1
 deepregression: 1.0.0
-deeptime: 0.3.0
+deeptime: 1.0.0
 deeptrafo: 0.1-1
 default: 1.0.0
 define: 0.2.9
@@ -12000,7 +12000,7 @@ extremevalues: 2.3.3
 extremis: 1.2.1
 extremogram: 1.0.2
 exuber: 1.0.0
-exvatools: 0.1.0
+exvatools: 0.2.0
 eye: 1.2.1
 eyeRead: 0.0.4
 eyeTrackR: 1.0.1
@@ -12381,7 +12381,7 @@ fitConic: '1.2'
 fitDRC: '1.1'
 fitHeavyTail: 0.1.4
 fitODBOD: 1.5.0
-fitPS: '0.2'
+fitPS: 0.2-2
 fitPoly: 3.0.0
 fitTetra: '1.0'
 fitbitScraper: 0.1.8
@@ -12436,7 +12436,7 @@ flexrsurv: 2.0.13
 flexsiteboard: 0.0.7
 flexsurv: 2.2.1
 flexsurvcure: 1.3.1
-flextable: 0.8.3
+flextable: 0.8.4
 flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
@@ -12771,7 +12771,7 @@ gProfileR: 0.7.0
 gRain: 1.3.12
 gRapHD: 0.2.6
 gRapfa: '1.0'
-gRaven: 1.1.4
+gRaven: 1.1.7
 gRbase: 1.8.9
 gRc: 0.4.4
 gRcox: '0.1'
@@ -13859,7 +13859,7 @@ hansard: 0.8.0
 hapassoc: 1.2-9
 haplo.ccs: 1.3.2
 haplo.score: 1.0.2
-haplo.stats: 1.9.2
+haplo.stats: 1.9.3
 haploR: 4.0.6
 haploReconstruct: 0.1.2
 haplotyper: '0.1'
@@ -15693,7 +15693,7 @@ lss: '0.52'
 lss2: '1.1'
 ltable: 2.0.2
 ltbayes: '0.4'
-lterpalettefinder: 1.0.0
+lterpalettefinder: 1.1.0
 ltm: 1.2-0
 ltmix: 0.2.1
 ltmle: 1.2-0
@@ -16151,7 +16151,7 @@ meshed: 0.2.3
 meshsimp: '0.1'
 messaging: 0.1.0
 messy.cats: '1.0'
-messydates: 0.3.3
+messydates: 0.3.5
 met: 0.1.0
 metR: 0.13.0
 metRology: 0.9-28-1
@@ -16747,7 +16747,7 @@ mountainplot: '1.4'
 mousetrack: 1.0.0
 mousetrap: 3.2.1
 movMF: 0.2-7
-move: 4.1.10
+move: 4.1.12
 moveHMM: '1.8'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.3
@@ -17954,7 +17954,7 @@ oysteR: 0.1.1
 oz: 1.0-21
 ozmaps: 0.4.5
 p2distance: 1.0.1
-p3state.msm: '1.3'
+p3state.msm: 1.3.2
 pARI: 1.1.1
 pARccs: 0.2-2
 pARtial: '0.1'
@@ -18408,7 +18408,7 @@ ph2bye: 0.1.4
 ph2hetero: 1.0.2
 ph2mult: 0.1.1
 ph2rand: 0.1.0
-phacking: 0.0.1
+phacking: 0.1.0
 phalen: '1.0'
 phangorn: 2.10.0
 phantom: 0.1.3
@@ -18541,7 +18541,7 @@ pipeliner: 0.1.1
 pipenostics: 0.1.7
 pirate: 1.0.0
 piratings: 0.1.9
-pirouette: 1.6.5
+pirouette: 1.6.6
 pisaRT: 2.0.1
 pitchRx: 1.8.2
 piton: 1.0.0
@@ -19033,7 +19033,7 @@ processmapR: 0.5.2
 processmonitR: 0.1.0
 processpredictR: 0.1.0
 processx: 3.8.0
-procmaps: 0.0.4
+procmaps: 0.0.5
 prodest: 1.0.1
 prodigenr: 0.6.2
 prodlim: 2019.11.13
@@ -19767,7 +19767,7 @@ ravedash: 0.1.2
 raveio: 0.0.9
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravetools: 0.0.8
+ravetools: 0.0.9
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -20050,7 +20050,7 @@ regions: 0.1.8
 registr: 2.1.0
 registry: 0.5-1
 reglogit: 1.2-6
-regmed: 2.0.4
+regmed: 2.1.0
 regmedint: 1.0.0
 regnet: 1.0.0
 rego: 1.5.2
@@ -21201,7 +21201,7 @@ scrm: 1.7.4-0
 scrobbler: 1.0.2
 scrollrevealR: 0.2.0
 scrubr: 0.4.0
-scrutiny: 0.2.3
+scrutiny: 0.2.4
 scrypt: 0.1.5
 scryr: 1.0.0
 scs: 3.0-1
@@ -24070,7 +24070,7 @@ visStatistics: 0.1.1
 visTree: 0.8.1
 visa: 0.1.0
 visaOTR: 0.1.0
-visachartR: 2.1.2
+visachartR: 2.2.0
 visae: 0.2.0
 viscomp: 1.0.0
 viscomplexr: 1.1.1
