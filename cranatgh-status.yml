@@ -443,7 +443,7 @@ BMA: 3.18.17
 BMAmevt: 1.0.4
 BMN: '1.0'
 BMRBr: 0.2.0
-BMRMM: 0.0.2
+BMRMM: 0.0.3
 BMRSr: 1.0.3
 BMRV: '1.32'
 BMS: 0.3.5
@@ -700,7 +700,7 @@ Biopeak: '1.0'
 Bios2cor: 2.2.1
 Biostatistics: 1.0.4
 Biotech: 1.0.0
-BipartiteModularityMaximization: 1.22.415.2
+BipartiteModularityMaximization: 1.23.120.1
 BiplotGUI: 0.0-7
 BiplotML: 1.1.0
 BisRNA: 0.2.2
@@ -837,7 +837,7 @@ CDF.PSIdekick: '1.2'
 CDFt: '1.2'
 CDLasso: '1.1'
 CDM: 8.2-6
-CDMConnector: 0.3.1
+CDMConnector: 0.4.0
 CDNmoney: 2012.4-2
 CDROM: '1.1'
 CDSeq: 1.0.8
@@ -3433,7 +3433,7 @@ LST: 1.1.0
 LSTS: '2.1'
 LSVAR: '1.2'
 LSWPlib: 0.1.0
-LSX: 1.2.0
+LSX: 1.3.0
 LTASR: 0.1.0
 LTPDvar: 1.2.1
 LTR: 1.0.0
@@ -5883,7 +5883,7 @@ RcppRedis: 0.2.2
 RcppRoll: 0.3.0
 RcppSMC: 0.2.6
 RcppShark: 3.1.1
-RcppSimdJson: 0.1.8
+RcppSimdJson: 0.1.9
 RcppSpdlog: 0.0.12
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
@@ -6412,7 +6412,7 @@ SMMA: 1.0.3
 SMME: 1.1.1
 SMMT: 1.1.0
 SMNCensReg: '3.1'
-SMOTEWB: 0.1.0
+SMOTEWB: 0.1.3
 SMPracticals: 1.4-3
 SMR: 2.0.2
 SMUT: '1.1'
@@ -12580,7 +12580,7 @@ fpp: '0.5'
 fpp2: '2.4'
 fpp3: 0.4.0
 fptdApprox: '2.4'
-fqar: 0.2.1
+fqar: 0.3.0
 fracdiff: 1.5-2
 fracdist: 0.1.1
 fracprolif: 1.0.7
@@ -12686,7 +12686,7 @@ fume: '1.0'
 fun: '0.3'
 funData: 1.3-8
 funFEM: '1.2'
-funGp: 0.3.0
+funGp: 0.3.1
 funHDDC: 2.3.1
 funLBM: '2.3'
 funModeling: 1.9.4
@@ -12771,7 +12771,7 @@ gProfileR: 0.7.0
 gRain: 1.3.12
 gRapHD: 0.2.6
 gRapfa: '1.0'
-gRaven: 1.1.7
+gRaven: 1.1.8
 gRbase: 1.8.9
 gRc: 0.4.4
 gRcox: '0.1'
@@ -13910,7 +13910,7 @@ hddplot: '0.59'
 hddtools: 0.9.4
 hdeco: '0.4'
 hdf5: 1.6.9
-hdf5r: 1.3.7
+hdf5r: 1.3.8
 hdfqlr: 0.6-2
 hdi: 0.1-9
 hdiVAR: 1.0.1
@@ -13931,7 +13931,7 @@ healthfinance: 0.1.0
 healthforum: 0.1.0
 healthyR: 0.2.0
 healthyR.ai: 0.0.11
-healthyR.data: 1.0.1
+healthyR.data: 1.0.2
 healthyR.ts: 0.2.6
 healthyverse: 1.0.2
 heapsofpapers: 0.1.0
@@ -15405,7 +15405,7 @@ likeLTD: 6.3.0
 likelihood: '1.8'
 likelihoodAsy: '0.51'
 likelihoodExplore: 0.1.0
-likelihoodR: 1.0.8
+likelihoodR: 1.0.9
 likert: 1.3.5
 lilikoi: 2.1.1
 lillies: 0.2.9
@@ -15653,7 +15653,7 @@ lpSolveAPI: 5.5.2.0-17.9
 lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpcde: 0.1.0
-lpdensity: 2.3.2
+lpdensity: '2.4'
 lphom: 0.3.1-1
 lpint: '2.1'
 lpirfs: 0.2.2
@@ -18210,7 +18210,7 @@ pbdNCDF4: 0.1-4
 pbdPROF: 0.4-0
 pbdRPC: 0.2-1
 pbdSLAP: 0.3-3
-pbdZMQ: 0.3-8
+pbdZMQ: 0.3-9
 pbivnorm: 0.6.0
 pbixr: 0.1.4
 pbkrtest: 0.5.2
@@ -19215,7 +19215,7 @@ purrrogress: 0.1.1
 pushbar: 0.1.0
 pushoverr: 1.1.0
 puzzle: 0.0.1
-pvLRT: '0.4'
+pvLRT: '0.5'
 pvaluefunctions: 1.6.2
 pvar: 2.2.7
 pvclass: '1.4'
@@ -19885,7 +19885,7 @@ rdbnomics: 0.6.4
 rdd: '0.57'
 rddapp: 1.3.0
 rdddr: 1.0.0
-rddensity: '2.3'
+rddensity: '2.4'
 rddi: 0.1.1
 rddtools: 1.6.0
 rde: 0.1.0
@@ -20182,7 +20182,7 @@ respR: 2.2.0
 resper: '0.3'
 respirometry: 1.3.0
 responsePatterns: 0.1.0
-restatapi: 0.13.3
+restatapi: 0.14.1
 restaurant: 0.1.0
 restez: 2.1.3
 restfulr: 0.0.15
@@ -20280,7 +20280,7 @@ rgho: 3.0.0
 rgl: 1.0.1
 rgl2gltf: 1.0.3
 rglobi: 0.2.28
-rglplus: '1.0'
+rglplus: '1.1'
 rglwidget: 0.2.1
 rgnparser: 0.2.0
 rgoogleads: 0.8.1
@@ -20776,7 +20776,7 @@ rsprite2: 0.2.0
 rsprng: '1.0'
 rsq: '2.5'
 rsqliteadmin: 1.0.1
-rstac: 0.9.2
+rstac: 0.9.2-1
 rstack: 1.0.0
 rstackdeque: 1.1.1
 rstan: 2.21.8
@@ -22607,7 +22607,7 @@ stremo: '0.2'
 stremr: '0.4'
 stressaddition: 3.1.0
 stressr: 1.0.0
-strex: 1.5.1
+strex: 1.6.0
 strider: '1.3'
 string2path: 0.1.2
 stringb: 0.1.17
@@ -23215,7 +23215,7 @@ tidydice: 0.1.1
 tidydr: 0.0.4
 tidyestimate: 1.1.0
 tidyfast: 0.2.1
-tidyfit: 0.6.0
+tidyfit: 0.6.1
 tidyfst: 1.7.6
 tidyft: 0.5.7
 tidygapminder: 0.1.1
@@ -23476,7 +23476,7 @@ traipse: 0.3.0
 traitdataform: 0.6.8
 traitr: '0.9'
 traits: 0.5.0
-traj: '1.2'
+traj: '1.3'
 trajeR: 0.9.0.5
 trajectories: 0.2-6
 trajr: 1.4.0
@@ -23864,7 +23864,7 @@ usdata: 0.2.0
 usdc: 0.1.0
 usdm: 1.1-18
 usedist: 0.4.0
-usedthese: 0.1.0
+usedthese: 0.2.0
 useful: 1.2.6
 usefun: 0.4.8
 usemodels: 0.2.0
