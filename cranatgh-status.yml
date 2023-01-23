@@ -1465,7 +1465,7 @@ DIMORA: 0.3.3
 DIRECT: 1.0.1
 DISTRIB: '1.0'
 DIZtools: 0.0.6
-DIZutils: 0.1.1
+DIZutils: 0.1.2
 DIconvex: 1.0.0
 DImodels: '1.2'
 DIscBIO: 1.2.0
@@ -1513,8 +1513,8 @@ DPpack: 0.0.11
 DPpackage: 1.1-7
 DPtree: 1.0.1
 DPw: '1.1'
-DQAgui: 0.2.1
-DQAstats: 0.3.1
+DQAgui: 0.2.2
+DQAstats: 0.3.2
 DR.SC: '3.0'
 DRAFT: 0.3.0
 DRAYL: '1.0'
@@ -2967,9 +2967,11 @@ IDF: 2.1.2
 IDPSurvival: '1.2'
 IDPmisc: 1.1.20
 IDSA: '2.1'
+IDSL.CSA: '1.0'
 IDSL.FSA: '1.0'
 IDSL.IPA: '2.6'
 IDSL.MXP: '1.8'
+IDSL.NPA: '1.0'
 IDSL.SUFA: '1.2'
 IDSL.UFA: '1.8'
 IDSL.UFAx: '1.8'
@@ -3582,7 +3584,7 @@ MARSS: 3.11.4
 MARSSVRhybrid: 0.1.0
 MARVEL: 1.4.0
 MARX: '0.2'
-MASS: 7.3-58.1
+MASS: 7.3-58.2
 MASSExtra: 1.2.1
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
@@ -3640,6 +3642,7 @@ MCMCtreeR: '1.1'
 MCMCvis: 0.15.5
 MCPAN: 1.1-21
 MCPMod: 1.0-10.1
+MCPModBC: '1.0'
 MCPModGeneral: 0.1-1
 MCPModPack: '0.4'
 MCPerm: 1.1.4
@@ -3872,6 +3875,7 @@ MScombine: '1.4'
 MSeasy: '5.3'
 MSeasyTkGUI: '5.3'
 MSiP: 1.3.7
+MSinference: 0.0.9
 MSwM: '1.5'
 MTA: 0.4.1
 MTAR: 0.1.1
@@ -6697,7 +6701,7 @@ SimEngine: 1.1.0
 SimEvolEnzCons: 2.0.0
 SimHap: 1.2.0
 SimHaz: '0.1'
-SimInf: 9.4.0
+SimInf: 9.5.0
 SimJoint: 0.3.9
 SimMultiCorrData: 0.2.2
 SimPhe: 0.2.0
@@ -7002,7 +7006,7 @@ T2EQ: '1.1'
 T2Qv: 0.1.0
 T4cluster: 0.1.2
 T4transport: 0.1.1
-TAF: 4.0.0
+TAF: 4.1.0
 TAG: 0.5.1
 TAHMMAnnot: '2.0'
 TAM: 4.1-4
@@ -7337,7 +7341,7 @@ UCSCXenaShiny: 1.1.9
 UCSCXenaTools: 1.4.8
 UComp: 2.2.3
 UKB.COVID19: 0.1.3
-UKFE: 0.2.5
+UKFE: 0.2.6
 UKgrid: 0.1.3
 UMR: 1.1.0
 UNCLES: '2.0'
@@ -8045,7 +8049,7 @@ anyLib: 1.0.5
 anybadger: 0.1.0
 anyflights: 0.3.3
 anytime: 0.3.9
-ao: 0.2.4
+ao: 0.2.5
 aod: 1.3.2
 aods3: 0.4-1.2
 aof: 0.1.2
@@ -9579,7 +9583,7 @@ ciccr: 0.2.0
 cicerone: 1.0.4
 cif: 0.1.1
 cifti: 0.4.5
-ciftiTools: 0.10.2
+ciftiTools: 0.11.0
 cimir: 0.4-1
 cimis: 0.1-7
 cin: '0.1'
@@ -9622,7 +9626,7 @@ clam: 2.5.0
 clampSeg: 1.1-1
 clarifai: 0.4.2
 clarkeTest: 0.1.0
-class: 7.3-20
+class: 7.3-21
 classGraph: 0.7-5
 classInt: 0.4-8
 classPP: '1.0'
@@ -9895,7 +9899,7 @@ colorpatch: 0.1.2
 colorplaner: 0.1.3
 colorr: 1.0.0
 colorscience: 1.0.8
-colorspace: 2.0-3
+colorspace: 2.1-0
 colortools: 0.1.5
 colourlovers: 0.3.6
 colourpicker: 1.2.0
@@ -10407,7 +10411,7 @@ ctsem: 3.7.2
 ctsemOMX: 1.0.4
 ctv: 0.9-4
 cuRe: 1.1.0
-cubature: 2.0.4.5
+cubature: 2.0.4.6
 cubble: 0.2.0
 cubelyr: 1.0.2
 cubeview: 0.2.0
@@ -10650,7 +10654,7 @@ dbEmpLikeNorm: 1.0.0
 dbGaPCheckup: 1.0.1
 dbMC: 1.0.0
 dbWebForms: 0.1.0
-dbarts: 0.9-22
+dbarts: 0.9-23
 dbcsp: 0.0.2.1
 dbd: 0.0-22
 dbfaker: 0.1.0
@@ -12650,11 +12654,12 @@ frostr: 0.2.0
 frscore: 0.2.0
 frt: '0.1'
 fruclimadapt: 0.4.4
-fs: 1.5.2
+fs: 1.6.0
 fsMTS: 0.1.7
 fsbrain: 0.5.3
 fscaret: 0.9.4.4
 fsdaR: 0.8-0
+fsemipar: '1.0'
 fsia: 1.1.1
 fslr: 2.25.2
 fsn: '0.2'
@@ -12747,7 +12752,7 @@ fuzzywuzzyR: 1.0.5
 fwb: 0.1.1
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
-fwildclusterboot: '0.9'
+fwildclusterboot: 0.12.1
 fwsim: 0.3.4
 fxTWAPLS: 0.1.2
 fxregime: 1.0-4
@@ -14609,6 +14614,7 @@ interactionRCS: 0.1.0
 interactionTest: '1.2'
 interactions: 1.1.5
 interactivity: '0.2'
+interca: 0.1.2
 intercure: 0.1.0
 interep: 0.3.2
 interferenceCI: '1.1'
@@ -14665,7 +14671,7 @@ iosmooth: '0.94'
 iotables: 0.9.1
 iotarelr: 0.1.3
 iotools: 0.3-2
-ip2location: 8.0.1
+ip2location: 8.1.1
 ip2proxy: 1.1.0
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
@@ -14731,7 +14737,7 @@ iscoCrosswalks: 1.0.0
 isdals: 3.0.0
 isdparser: 0.4.0
 isingLenzMC: 0.2.5
-island: 0.2.8
+island: 0.2.9
 islasso: 1.4.3
 ismev: '1.42'
 isni: '1.3'
@@ -15994,6 +16000,7 @@ mboost: 2.9-7
 mboxr: 0.2.0
 mbr: 0.0.1
 mbrdr: 1.1.1
+mbreaks: 1.0.0
 mbrglm: 0.0.1
 mbsts: '3.0'
 mc.heterogeneity: 0.1.2
@@ -16442,6 +16449,7 @@ mixRasch: '1.1'
 mixRaschTools: 1.1.1
 mixSPE: 0.9.1
 mixSSG: 2.1.1
+mixbox: 1.1.1
 mixcat: 1.0-4
 mixchar: 0.1.0
 mixcure: '2.0'
@@ -16787,7 +16795,7 @@ mrMLM.GUI: 4.0.2
 mra: 2.16.11
 mratios: 1.4.2
 mrbayes: 0.5.1
-mrbin: 1.7.1
+mrbin: 1.7.2
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
 mrds: 2.2.8
@@ -16913,7 +16921,7 @@ multiMarker: 1.0.1
 multiPIM: 1.4-3
 multiRDPG: 1.0.1
 multiROC: 1.1.1
-multiUS: 1.1.0
+multiUS: 1.2.3
 multiband: 0.1.0
 multibiplotGUI: '1.1'
 multiblock: 0.8.3
@@ -16947,6 +16955,7 @@ multilevelTools: 0.1.1
 multilevelcoda: 1.0.0
 multilevelmod: 1.0.0
 multilinguer: 0.2.4
+multilink: 0.1.0
 multilm: '0.1'
 multimark: 2.1.5
 multimix: 1.0-10
@@ -18094,6 +18103,7 @@ paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.3
 params: 0.7.3
+paramsim: 0.1.0
 paramtest: 0.1.0
 paran: 1.5.2
 parboost: 0.1.4
@@ -18410,7 +18420,7 @@ ph2mult: 0.1.1
 ph2rand: 0.1.0
 phacking: 0.1.0
 phalen: '1.0'
-phangorn: 2.10.0
+phangorn: 2.11.1
 phantom: 0.1.3
 pharmaRTF: 0.1.4
 pharmr: 0.73.1
@@ -19024,7 +19034,7 @@ probout: 1.1.2
 probsvm: '1.00'
 proccalibrad: '0.14'
 proceduralnames: 0.2.2
-processR: 0.2.6
+processR: 0.2.7
 processanimateR: 1.0.5
 processcheckR: 0.1.4
 processcontrol: 0.1.0
@@ -19907,6 +19917,7 @@ rdomains: 0.2.1
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '2.2'
+rdracor: 0.7.2
 rdrobust: 2.1.1
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
@@ -20478,7 +20489,7 @@ rmytarget: 2.4.0
 rmzqc: 0.1.0
 rnaseqWrapper: '1.0'
 rnassqs: 0.6.1
-rnaturalearth: 0.1.0
+rnaturalearth: 0.3.2
 rnaturalearthdata: 0.1.0
 rnbn: 1.1.2
 rnbp: 0.2.1
@@ -21599,6 +21610,7 @@ shipunov: '1.17'
 shock: '1.0'
 shopifyadsR: 0.1.0
 shopifyr: 1.0.0
+shoredate: 1.0.0
 shortcuts: 1.4.0
 shorts: 2.3.0
 shotGroups: 0.8.2
@@ -22123,7 +22135,7 @@ spate: 1.7.4
 spatgeom: 0.1.0
 spatgraphs: 3.2-2
 spathial: 0.1.2
-spatial: 7.3-15
+spatial: 7.3-16
 spatial.gev.bma: '1.0'
 spatial.tools: 1.6.2
 spatialClust: 1.1.1
@@ -22456,7 +22468,7 @@ statar: 0.7.4
 stataread: '2.6'
 statarepl: 0.1.0
 statcanR: 0.2.3
-statcheck: 1.3.0
+statcheck: 1.4.0
 statcodelists: 0.9.2
 statcomp: 0.1.0
 statebins: 1.4.0
@@ -22532,6 +22544,7 @@ stickr: 0.3.1
 sticky: 0.5.6.1
 stickyr: 0.1.1
 stilt: 1.3.0
+stim: 1.0.0
 stima: 1.2.1
 stinepack: '1.4'
 stlARIMA: 0.1.0
@@ -22609,7 +22622,7 @@ stressaddition: 3.1.0
 stressr: 1.0.0
 strex: 1.6.0
 strider: '1.3'
-string2path: 0.1.2
+string2path: 0.1.3
 stringb: 0.1.17
 stringdist: 0.9.10
 stringfish: 0.15.7
@@ -22984,7 +22997,7 @@ taxizedb: 0.3.0
 taxlist: 0.2.3
 taxonbridge: 1.2.2
 taxonomizr: 0.9.3
-taxotools: 0.0.9
+taxotools: 0.0.132
 tayloRswift: 0.1.0
 taylor: 2.0.0
 tbart: '1.0'
@@ -23901,6 +23914,7 @@ uwedragon: 0.1.0
 uwo4419: 0.3.0
 uwot: 0.1.14
 uxr: 0.2.0
+vDiveR: 1.0.0
 vICC: 1.0.0
 vMF: 0.0.1
 vMask: '1.0'
@@ -23986,7 +24000,7 @@ vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.2.0
 vcrpart: 1.0-4
-vctrs: 0.5.1
+vctrs: 0.5.2
 vcvComp: 1.0.2
 vdar: 0.1.3-2
 vdg: 1.2.2
