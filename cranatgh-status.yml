@@ -837,9 +837,10 @@ CDF.PSIdekick: '1.2'
 CDFt: '1.2'
 CDLasso: '1.1'
 CDM: 8.2-6
-CDMConnector: 0.4.0
+CDMConnector: 0.4.1
 CDNmoney: 2012.4-2
 CDROM: '1.1'
+CDSS: 0.1-0
 CDSeq: 1.0.8
 CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
@@ -1079,7 +1080,7 @@ CenBAR: 0.1.1
 CensMFM: '2.11'
 CensMixReg: '3.1'
 CensRegMod: '1.0'
-CensSpatial: '3.5'
+CensSpatial: '3.6'
 Census2016: 0.2.0
 CepLDA: 1.0.0
 CerioliOutlierDetection: 1.1.9
@@ -6912,6 +6913,7 @@ SteppedPower: 0.3.2
 StepwiseTest: '1.0'
 StereoMorph: 1.6.7
 Stickbreaker: 1.0.0
+StochBlock: 0.1.2
 StochKit2R: '0.3'
 StochaTR: 1.0.4
 StockChina: '0.3'
@@ -7072,6 +7074,7 @@ TNRS: 0.3.3
 TOC: 0.0-5
 TOHM: '1.4'
 TORDs: 1.0.0
+TOSI: 0.2.0
 TOSTER: 0.6.0
 TOU: 0.1.0
 TP.idm: '1.5'
@@ -7339,7 +7342,7 @@ UBL: 0.0.7
 UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.1.9
 UCSCXenaTools: 1.4.8
-UComp: 2.2.3
+UComp: '2.2'
 UKB.COVID19: 0.1.3
 UKFE: 0.2.6
 UKgrid: 0.1.3
@@ -7603,7 +7606,7 @@ XGR: 1.1.7
 XHWE: '1.0'
 XICOR: 0.3.3
 XKCDdata: 0.1.0
-XLConnect: 1.0.6
+XLConnect: 1.0.7
 XLConnectJars: 0.2-9
 XLS: 0.1.0
 XML: 3.99-0.13
@@ -7717,6 +7720,7 @@ accrual: '1.3'
 accrualPlot: 1.0.7
 accrued: '1.4'
 accucor: 0.3.0
+accumulate: 0.8.1
 accuracy: '1.35'
 acdcR: 1.0.0
 ace2fastq: 0.6.0
@@ -9040,6 +9044,7 @@ bqror: 1.4.0
 bqtl: 1.0-34
 braQCA: 1.2.1.29
 bracer: 1.2.1
+brada: '1.0'
 braggR: 0.1.1
 braidReports: 0.5.4
 braidrm: '0.71'
@@ -12117,7 +12122,7 @@ familial: 1.0.4
 familiar: 1.4.1
 fanc: 2.3.9
 fancycut: 0.1.2
-fangs: 0.2.8
+fangs: 0.2.11
 fanovaGraph: '1.5'
 fanplot: 4.0.0
 fansi: 1.0.4
@@ -13184,7 +13189,7 @@ ggalluvial: 0.12.3
 ggalt: 0.4.0
 ggamma: 1.0.1
 gganimate: 1.0.8
-ggarchery: 0.4.1
+ggarchery: 0.4.2
 ggasym: 0.1.6
 ggbeeswarm: 0.7.1
 ggblanket: 1.6.2
@@ -13712,7 +13717,7 @@ groupTesting: 1.0.0
 groupWQS: 0.0.3
 groupdata2: 2.0.2
 grouped: 0.6-0
-groupedSurv: 1.0.4.3
+groupedSurv: 1.0.4
 groupedstats: 2.1.0
 groupr: 0.1.0
 groupsubsetselection: 1.0.3
@@ -14638,7 +14643,7 @@ intervalaverage: 0.8.0
 intervals: 0.15.2
 intervcomp: 0.1.2
 interventionalDBN: '1.2'
-inti: 0.5.8
+inti: 0.6.0
 intkrige: 1.0.1
 intmed: 0.1.2
 intoo: 0.4.0
@@ -14928,6 +14933,7 @@ jsr223: 0.3.4
 jstable: 1.0.7
 jstor: 0.3.10
 jtGWAS: '1.5'
+jtdm: 0.1-0
 jti: 0.8.4
 jtools: 2.2.1
 jtrans: 0.2.1
@@ -14943,6 +14949,7 @@ jvcoords: 1.0.3
 jvmr: 2.11.2.1
 jvnVaR: '1.0'
 jwutil: 1.2.3
+k5: 0.0.5
 kBestShortestPaths: '0.1'
 kNNvs: 0.1.0
 kSamples: 1.2-9
@@ -15266,7 +15273,7 @@ lcc: 1.1.4
 lcd: 0.7-3
 lcda: 0.3.1
 lchemix: 0.1.0
-lclGWAS: 1.0.3
+lclGWAS: '1.0'
 lcmm: 2.0.0
 lcmr: 1.6.26
 lconnect: 0.1.1
@@ -15708,7 +15715,7 @@ ltsbase: 1.0.1
 ltsk: 1.0.9
 ltsspca: 0.1.0
 ltxsparklines: 1.1.3
-lubridate: 1.9.0
+lubridate: 1.9.1
 luca: 1.0-6
 lucas: '1.0'
 lucid: '1.8'
@@ -16022,7 +16029,7 @@ mccf1: '1.1'
 mcclust: 1.0.1
 mccmeiv: '2.1'
 mccr: 0.4.4
-mcemGLM: 1.1.1
+mcemGLM: 1.1.2
 mcen: '1.2'
 mcga: 3.0.3
 mcgfa: 2.2.1
@@ -17248,7 +17255,7 @@ nett: 1.0.0
 nettools: 1.0.1
 nettskjemar: 0.1.4
 netweavers: '1.1'
-network: 1.18.0
+network: 1.18.1
 networkABC: 0.8-1
 networkD3: '0.4'
 networkDynamic: 0.11.2
@@ -17809,7 +17816,7 @@ optbin: '1.2'
 optedr: 2.0.0
 optextras: 2019-12.4
 optiRum: 0.41.1
-optiSel: 2.0.5
+optiSel: '2.0'
 optiSolve: '1.0'
 opticskxi: '0.1'
 opticut: 0.1-2
@@ -20102,7 +20109,7 @@ relaxo: 0.1-2
 reldist: 1.7-1
 relen: 1.0.1
 relevance: '1.3'
-relevent: '1.2'
+relevent: 1.2-1
 relgam: '1.0'
 reliaR: '0.01'
 reliabilitydiag: 0.2.1
@@ -21110,7 +21117,7 @@ scITD: 1.0.2
 scImmuneGraph: 1.1.3
 scLink: 1.0.1
 scMappR: 1.0.9
-scModels: 1.0.3
+scModels: 1.0.4
 scOntoMatch: 0.1.0
 scPDSI: 0.1.3
 scPOP: 0.1.0
@@ -21506,6 +21513,7 @@ shiftR: '1.5'
 shinipsum: 0.1.0
 shiny: 1.7.4
 shiny.benchmark: 0.1.1
+shiny.fluent: 0.3.0
 shiny.i18n: 0.3.0
 shiny.info: 0.2.0
 shiny.pwa: 0.2.1
@@ -21923,7 +21931,7 @@ smurf: 1.1.3
 smvgraph: 0.1.2
 sn: 2.1.0
 snSMART: 0.2.2
-sna: '2.7'
+sna: 2.7-1
 snahelper: 1.4.1
 snakecase: 0.11.0
 snap: 1.1.0
@@ -22166,7 +22174,7 @@ spatstat.gui: 3.0-1
 spatstat.linnet: 3.0-3
 spatstat.local: 5.0-1
 spatstat.model: 3.0-2
-spatstat.random: 3.0-1
+spatstat.random: 3.1-2
 spatstat.sparse: 3.0-0
 spatstat.utils: 3.0-1
 spatsurv: 1.8-2
@@ -22407,6 +22415,7 @@ ssvd: '1.0'
 ssym: 1.5.7
 st: 1.2.7
 stR: '0.5'
+stRoke: 23.1.7
 stUPscales: 1.0.3.4
 sta: 0.1.7
 staRdom: 1.1.25
@@ -23074,7 +23083,7 @@ term: 0.3.5
 terminaldigits: 0.1.0
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.6-53
+terra: 1.7-3
 terrainmeshr: 0.1.0
 terrainr: 0.7.2
 tessellation: 2.1.0
@@ -23887,7 +23896,7 @@ usethis: 2.1.6
 usethis2: 0.2.0
 usfertilizer: 0.1.5
 ushr: 0.2.3
-usincometaxes: 0.5.4
+usincometaxes: 0.6.0
 uskew: 0.11-3
 uskewFactors: '2.0'
 usl: 3.0.3
@@ -23899,8 +23908,8 @@ ustyc: 1.0.0
 utc: 0.1.5
 utf8: 1.2.2
 utf8latex: 1.0.4
-utile.tables: 0.2.2
-utile.tools: 0.2.8
+utile.tables: 0.3.0
+utile.tools: 0.3.0
 utile.visuals: 0.3.3
 utilities: 0.6.1
 utility: 1.4.5
@@ -24565,7 +24574,7 @@ ymd: 0.0.1
 ymlthis: 0.1.7
 ympes: 0.3.0
 yonder: 0.2.0
-yorkr: 0.0.36
+yorkr: 0.0.37
 yotover: 0.3.5
 youngSwimmers: 0.0.1
 youtubecaption: 1.0.0
