@@ -1527,7 +1527,7 @@ DRI: '1.1'
 DRIP: '1.7'
 DRR: 0.0.4
 DRaWR: 1.0.3
-DRomics: 2.4-0
+DRomics: 2.5-0
 DRviaSPCN: 0.1.2
 DSAIDE: 0.9.3
 DSAIRM: 0.9.5
@@ -4498,7 +4498,7 @@ Ohmage: '2.9'
 OjaNP: 1.0-0
 OkNNE: 1.0.1
 OligoSpecificitySystem: '1.3'
-OlinkAnalyze: 3.2.2
+OlinkAnalyze: 3.3.0
 OmegaG: 1.0.1
 OmicInt: 1.1.7
 OmicKriging: 1.4.0
@@ -4654,6 +4654,7 @@ PEIMAN2: 0.1.0
 PEIP: 2.2-3
 PELVIS: 2.0.3
 PEMM: '1.0'
+PERK: 0.0.9.1
 PERMANOVA: 0.2.0
 PERregress: 1.0-8
 PET: 0.5.1
@@ -6464,7 +6465,7 @@ SPB: '1.0'
 SPCALDA: '1.0'
 SPCAvRP: '0.4'
 SPCDAnalyze: 0.1.0
-SPCompute: 1.0.2
+SPCompute: 1.0.3
 SPECIES: 1.1.3
 SPECK: 0.1.1
 SPEDInstabR: '1.9'
@@ -6695,7 +6696,7 @@ SimComp: '3.3'
 SimCop: 0.7.0
 SimCorMultRes: 1.8.0
 SimCorrMix: 0.1.1
-SimDesign: 2.9.1
+SimDesign: '2.10'
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.3
 SimEngine: 1.1.0
@@ -7954,7 +7955,7 @@ alphaOutlier: 1.2.0
 alphabetr: 0.2.2
 alphaci: 1.0.0
 alphahull: '2.5'
-alphashape3d: 1.3.1
+alphashape3d: 1.3.2
 alphastable: 0.2.1
 alphavantager: 0.1.2
 alqrfe: '1.1'
@@ -8207,7 +8208,7 @@ aspace: '3.2'
 aspect: 1.0-6
 aspi: 0.2.0
 aspline: 0.2.0
-asremlPlus: 4.3.40
+asremlPlus: 4.3.45
 assemblerr: 0.1.1
 assert: 1.0.1
 assertable: 0.2.8
@@ -8413,7 +8414,7 @@ bakeoff: 0.2.0
 baker: 1.0.0
 balance: 0.2.4
 ballr: 0.2.6
-bama: 1.2.5
+bama: 1.3.0
 bamboo: 0.9.25
 bambooHR: 0.1.0
 bamdit: 3.4.0
@@ -12051,7 +12052,7 @@ fHMM: 1.0.3
 fICA: 1.1-2
 fImport: '4021.86'
 fMRIscrub: 0.11.2
-fMRItools: 0.1.3
+fMRItools: 0.2.2
 fMultivar: '4021.83'
 fNonlinear: '4021.81'
 fOptions: '3042.86'
@@ -13760,7 +13761,7 @@ gsheet: 0.4.5
 gsignal: 0.3-5
 gsisdecoder: 0.0.1
 gskat: '1.0'
-gsl: 2.1-7.1
+gsl: 2.1-8
 gslnls: 1.1.2
 gsloid: 0.2.0
 gsmaRt: '1.0'
@@ -13896,6 +13897,7 @@ hawkes: 0.0-4
 hawkesbow: 1.0.2
 hazer: 1.1.1
 hazus: '0.1'
+hbal: 1.2.8
 hbbr: 1.1.2
 hbdct: 1.0.1
 hbim: '1.1'
@@ -14183,7 +14185,7 @@ hubeau: 0.3.1
 hudr: 1.2.0
 hues: 0.2.0
 huge: 1.3.5
-huito: 0.2.1
+huito: 0.2.2
 humanFormat: '1.2'
 humaniformat: 0.6.0
 humanize: 0.2.0
@@ -15554,7 +15556,7 @@ lnMLE: '1.0'
 lncDIFF: 1.0.0
 lnmCluster: 0.3.1
 loa: 0.2.47.1
-loadeR: 1.1.1
+loadeR: 1.1.3
 loadflux: 0.0.2
 loadings: 0.2.1
 loadr: 0.1.3
@@ -15972,7 +15974,7 @@ matrixpls: 1.0.9
 matrixprofiler: 0.1.7
 matrixsampling: 2.0.0
 matsbyname: 0.5.1
-matsindf: 0.3.11
+matsindf: 0.3.12
 matuR: 0.0.1.0
 mau: 0.1.2
 mauricer: 2.5.2
@@ -16153,7 +16155,7 @@ memoiR: 1.2-2
 memoise: 2.0.1
 memor: 0.2.3
 memoria: 1.0.0
-memuse: 4.2-2
+memuse: 4.2-3
 mephas: 1.0.0
 merDeriv: 0.2-4
 merTools: 0.5.2
@@ -16589,7 +16591,7 @@ mmcm: 1.2-8
 mmds: '1.1'
 mme: 0.1-6
 mmeln: '1.4'
-mmeta: '2.4'
+mmeta: 3.0.0
 mmetrics: 0.3.0
 mmlcr: 1.3.5
 mmm: '1.4'
@@ -17261,6 +17263,7 @@ networkD3: '0.4'
 networkDynamic: 0.11.2
 networkDynamicData: 0.2.1
 networkGen: 0.1.1
+networkLite: 1.0.0
 networkR: 0.1.2
 networkTomography: '0.3'
 networkreporting: 0.1.1
@@ -17740,7 +17743,7 @@ onnx: 0.0.3
 onpoint: 1.0.3
 onsr: 1.0.1
 ontoFAST: 1.0.0
-ontologics: 0.5.2
+ontologics: 0.6.4
 ontologyIndex: '2.10'
 ontologyPlot: '1.6'
 ontologySimilarity: '2.5'
@@ -18492,7 +18495,7 @@ phyclust: 0.1-33
 phyext: 0.0.1
 phyext2: 0.0.4
 phylin: 2.0.2
-phyloTop: 2.1.1
+phyloTop: 2.1.2
 phyloarray: '0.1'
 phylobase: 0.8.10
 phylocanvas: 0.1.3
@@ -18804,7 +18807,7 @@ polytomous: 0.1.6
 polywog: 0.4-1
 pom: '1.1'
 pomcheckr: 0.1.1
-pomdp: 1.0.3
+pomdp: 1.1.0
 pomdpSolve: 1.0.2
 pomodoro: 3.8.0
 pomp: '4.6'
@@ -19723,7 +19726,7 @@ rangemap: 0.1.18
 rangemodelR: '1.0'
 ranger: 0.14.1
 rankFD: 0.1.1
-rankICC: 0.1.0
+rankICC: 1.0.1
 rankUncertainty: 1.0.2.0
 rankdifferencetest: '2021-11-25'
 rankdist: 1.1.4
@@ -22499,7 +22502,7 @@ statisfactory: 1.0.1
 statisticalModeling: 0.3.0
 statmod: 1.5.0
 statnet: '2019.6'
-statnet.common: 4.7.0
+statnet.common: 4.8.0
 statnetWeb: 0.5.6
 statnipokladna: 0.7.2
 statoo: 0.1.3
@@ -23114,7 +23117,7 @@ texreg: 1.38.6
 text: 0.9.99.2
 text.alignment: 0.1.3
 text2map: 0.1.6
-text2sdg: 0.1.6
+text2sdg: 1.0.0
 text2speech: 0.2.13
 text2vec: 0.6.3
 textTinyR: 1.1.7
@@ -23166,7 +23169,7 @@ tglkmeans: 0.3.5
 tglm: '1.0'
 tgp: 2.4-21
 tgram: 0.2-3
-tgstat: 2.3.21
+tgstat: 2.3.22
 tgver: 0.3.0
 thaipdf: 0.1.2
 thankr: 1.0.0
@@ -23202,7 +23205,7 @@ thunder: 0.3.0
 thurstonianIRT: 0.12.1
 tibble: 3.1.8
 tibbleOne: 0.1.1
-tibbletime: 0.1.7
+tibbletime: 0.1.8
 tibblify: 0.3.0
 tibbrConnector: 1.5.1
 tictactoe: 0.2.2
@@ -23267,7 +23270,7 @@ tidypredict: '0.5'
 tidyquant: 1.0.6
 tidyquery: 0.2.4
 tidyqwi: 0.1.2
-tidyr: 1.2.1
+tidyr: 1.3.0
 tidyrgee: 0.1.0
 tidyrules: 0.1.5
 tidyselect: 1.2.0
