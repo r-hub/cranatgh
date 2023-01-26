@@ -419,7 +419,7 @@ BICORN: 0.1.0
 BIEN: 1.2.6
 BIFIEsurvey: 3.4-15
 BIGDAWG: 3.0.3
-BIGL: 1.6.6
+BIGL: 1.6.7
 BINCO: 0.1-1
 BINCOR: 0.2.0
 BINtools: 0.2.0
@@ -6153,7 +6153,7 @@ Rquefts: 1.2-1
 Rramas: 0.1-6
 Rraven: 1.0.13
 Rrdap: 1.0.6
-Rrdrand: 0.1-16
+Rrdrand: 0.1-9
 Rrelperm: 0.1.0
 RsSimulx: 2.0.2
 Rsac: 0.1-8
@@ -6874,7 +6874,7 @@ SplitSoftening: 2.1-0
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.11.1
+SqlRender: 1.12.0
 SqueakR: 1.3.0
 Sshaped: '1.1'
 Sstack: 1.0.1
@@ -7817,7 +7817,7 @@ adheRenceRX: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.3
 adiv: '2.2'
-adjROC: 0.2.0
+adjROC: '0.3'
 adjSURVCI: '1.0'
 adjclust: 0.6.6
 adjustedCurves: 0.9.1
@@ -8705,7 +8705,7 @@ bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
 bibliospec: 0.0.4
 bibs: 1.1.1
-bibtex: 0.5.0
+bibtex: 0.5.1
 biclique: 1.0.5
 biclust: 2.0.3
 biclustermd: 0.2.3
@@ -10875,7 +10875,7 @@ dexter: 1.2.2
 dexterMST: 0.9.3
 dextergui: 0.2.6
 df2json: 0.0.2
-df2yaml: 0.3.0
+df2yaml: 0.3.1
 dfCompare: 1.0.0
 dfConn: 0.2.1
 dfadjust: 1.0.4
@@ -12063,7 +12063,7 @@ fMultivar: '4021.83'
 fNonlinear: '4021.81'
 fOptions: '3042.86'
 fPortfolio: 3042.83.1
-fRLR: 1.2.2
+fRLR: '1.2'
 fRegression: '4021.83'
 fSRM: 0.6.5
 fSeries: '270.76'
@@ -13392,7 +13392,7 @@ giphyr: 0.2.0
 gips: 1.0.0
 giscoR: 0.3.2
 gistr: 0.9.0
-git2r: 0.30.1
+git2r: 0.31.0
 git2rdata: 0.4.0
 git4r: 0.1.2
 gitcreds: 0.1.2
@@ -14568,6 +14568,7 @@ ingredients: 2.3.0
 ingres: 1.0.0
 ini: 0.3.1
 injectoR: 0.2.4
+injurytools: 1.0.0
 inlabru: 2.7.0
 inldata: 1.0.3
 inline: 0.3.19
@@ -14642,7 +14643,7 @@ internetarchive: 0.1.6
 interp: 1.1-3
 interplex: 0.1.0
 interplot: 0.2.3
-interpret: 0.1.26
+interpret: 0.1.28
 interpretCI: 0.1.1
 interpretR: 0.2.4
 inters: 0.2.0
@@ -14689,7 +14690,7 @@ ip2proxy: 1.1.0
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
 ipaddress: 1.0.0
-ipc: 0.1.3
+ipc: 0.1.4
 ipcwswitch: 1.0.4
 ipdmeta: '2.4'
 ipdw: 2.0-0
@@ -14902,7 +14903,7 @@ jointDiag: '0.4'
 jointMeanCov: 0.1.0
 jointNmix: '1.0'
 jointPm: 2.3.1
-jointVIP: 0.1.0
+jointVIP: 0.1.1
 jointseg: 1.0.2
 jomo: 2.7-4
 jordan: 1.0-1
@@ -15308,7 +15309,7 @@ ldr: '1.3'
 ldsep: 2.1.5
 ldsr: 0.0.2
 ldstatsHD: 1.0.1
-ldt: 0.1.1.0
+ldt: 0.1.4.0
 leabRa: 0.1.0
 leaderCluster: '1.3'
 leafR: 0.3.5
@@ -15977,7 +15978,7 @@ matrixTests: 0.1.9.1
 matrixcalc: 1.0-6
 matrixdist: 1.1.6
 matrixpls: 1.0.9
-matrixprofiler: 0.1.7
+matrixprofiler: 0.1.9
 matrixsampling: 2.0.0
 matsbyname: 0.5.1
 matsindf: 0.3.12
@@ -16399,7 +16400,7 @@ minimax: '1.1'
 minimaxdesign: 0.1.5
 minimist: '0.1'
 miniparquet: 0.1.2
-minpack.lm: 1.2-2
+minpack.lm: 1.2-3
 minqa: 1.2.5
 minque: 2.0.0
 minsample1: 0.1.0
@@ -17196,6 +17197,7 @@ ndvtest: 1.0-0
 nearfar: '1.2'
 neariso: 1.0.1
 neat: 1.2.3
+neatR: 0.1.0
 neatRanges: 0.1.4
 neatStats: 1.13.3
 neatmaps: 2.1.0
@@ -17942,7 +17944,7 @@ otp: 0.1.0
 otpr: 0.5.1
 otrimle: '2.0'
 otsad: 0.2.0
-ottr: 1.3.0
+ottr: 1.3.1
 ottrpal: 1.0.1
 otuSummary: 0.1.1
 otvPlots: 0.2.1
@@ -18048,7 +18050,7 @@ pairwise: 0.6.0-0
 pairwiseCI: 0.1-27
 pairwiseComparisons: 3.2.0
 pak: 0.4.0
-palaeoSig: 2.0-3
+palaeoSig: 2.0-7
 palaeoverse: 1.1.0
 palasso: 0.0.8
 pald: 0.0.2
@@ -18762,7 +18764,7 @@ poio: 0.0-4
 poisDoubleSamp: 1.1.1
 poisFErobust: 2.0.0
 poisbinom: 1.0.1
-poismf: 0.4.0-3
+poismf: 0.4.0
 poisson: '1.0'
 poisson.glm.mix: '1.3'
 poissonMT: 0.3-5
@@ -18800,6 +18802,7 @@ polycor: 0.8-1
 polydect: 0.1-2
 polyfreqs: 1.0.2
 polyglot: 0.3.0
+polyglotr: 1.0.2
 polylabelr: 0.2.0
 polymapR: 1.1.2
 polymars: 1.0-5
@@ -19229,7 +19232,7 @@ pubprint: '0.2'
 pubtatordb: 0.1.4
 pullword: '0.3'
 puls: 0.1.2
-pulsar: 0.3.9
+pulsar: 0.3.10
 pulseTD: 0.1.0
 pulver: 0.1.1
 pumilioR: 1.3.1
@@ -20036,7 +20039,7 @@ recurse: 1.1.2
 red: 1.5.0
 redR: 1.0.1
 reda: 0.5.4
-redcapAPI: '2.3'
+redcapAPI: 2.3.3
 reddPrec: 0.4.0
 redditadsR: 0.1.0
 redist: 4.0.1
@@ -21154,7 +21157,7 @@ scalpel: 1.0.3
 scalreg: 1.0.1
 scam: 1.2-13
 scan: '0.55'
-scanstatistics: 1.1.0
+scanstatistics: 1.1.1
 scapGNN: 0.1.3
 scape: 2.3.3
 scapeMCMC: 1.1-3
@@ -22185,7 +22188,7 @@ spatstat.geom: 3.0-5
 spatstat.gui: 3.0-1
 spatstat.linnet: 3.0-3
 spatstat.local: 5.0-1
-spatstat.model: 3.0-2
+spatstat.model: 3.1-2
 spatstat.random: 3.1-3
 spatstat.sparse: 3.0-0
 spatstat.utils: 3.0-1
@@ -22991,7 +22994,7 @@ taipan: 0.1.2
 takos: 0.2.0
 tanaka: 0.3.0
 tangles: 0.8.1
-tangram: 0.8.1
+tangram: 0.8.2
 tangram.pipe: 1.1.2
 tapiR: 0.7-5
 tapkee: '1.2'
