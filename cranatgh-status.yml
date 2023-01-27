@@ -2385,7 +2385,7 @@ GCPBayes: 4.0.0
 GCPM: 1.2.2
 GCSM: 0.1.1
 GCalcium: 1.0.0
-GCalignR: 1.0.3
+GCalignR: 1.0.5
 GD: '1.10'
 GDAdata: '0.93'
 GDAtools: 1.7.2
@@ -6198,7 +6198,7 @@ Ruchardet: 0.0-3
 Runiversal: '1.0'
 Runuran: '0.38'
 RunuranGUI: '0.3'
-Rvcg: '0.22'
+Rvcg: 0.22.1
 Rvelslant: 0.2-3
 Rvmmin: 2018-4.17.1
 Rvoterdistance: '1.1'
@@ -7078,7 +7078,7 @@ TNRS: 0.3.3
 TOC: 0.0-5
 TOHM: '1.4'
 TORDs: 1.0.0
-TOSI: 0.2.0
+TOSI: 0.3.0
 TOSTER: 0.6.0
 TOU: 0.1.0
 TP.idm: '1.5'
@@ -7582,7 +7582,7 @@ WhiteStripe: 2.4.2
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
-WienR: 0.3-7
+WienR: 0.3-8
 WikiSocio: 0.7.0
 WikidataQueryServiceR: 1.0.0
 WikidataR: 2.3.3
@@ -7799,7 +7799,7 @@ ade4: 1.7-20
 ade4TkGUI: 0.3-1
 adea: 1.3.1
 adeba: 1.1.2
-adegenet: 2.1.9
+adegenet: 2.1.10
 adegraphics: 1.0-16
 adehabitat: 1.8.9
 adehabitatHR: 0.4.20
@@ -9612,7 +9612,7 @@ circular: 0.4-95
 circularEV: 0.1.1
 circumplex: 0.3.8
 cit: 2.3.1
-citation: 0.6.3
+citation: 0.6.4
 citationchaser: 0.0.4
 citbcmst: '1.0'
 citccmst: 1.0.2
@@ -10480,7 +10480,7 @@ cvcrand: 0.1.0
 cvequality: 0.2.0
 cvmdisc: 0.1.0
 cvmgof: 1.0.3
-cvms: 1.3.8
+cvms: 1.3.9
 cvplogistic: 3.1-0
 cvq2: 1.2.0
 cvsem: 1.0.0
@@ -11399,7 +11399,7 @@ eaf: '2.4'
 earlyR: 0.0.5
 earlygating: '1.1'
 earlywarnings: 1.1.29
-earth: 5.3.1
+earth: 5.3.2
 earthtide: 0.0.14
 earthtones: 0.1.1
 easi: '0.2'
@@ -12361,6 +12361,7 @@ finbif: 0.7.1
 finch: 0.4.0
 findInFiles: 0.4.0
 findInGit: 0.1.1
+findPackage: 0.2.0
 findR: 0.2.1
 findpython: 1.0.7
 findviews: 0.1.3
@@ -12502,6 +12503,7 @@ fmrs: 1.0-9
 fmsb: 0.7.5
 fmt: '2.0'
 fmtr: 1.5.9
+fnets: 0.1.1
 foba: '0.1'
 focusedMDS: 1.3.3
 foghorn: 1.5.1
@@ -12780,7 +12782,7 @@ gJLS2: 0.2.0
 gLRTH: 0.2.0
 gMCP: 0.8-15
 gMCPLite: 0.1.2
-gMOIP: 1.4.7
+gMOIP: 1.4.8
 gMWT: '1.2'
 gPCA: '1.0'
 gPdtest: '0.4'
@@ -14099,7 +14101,7 @@ hmstimer: 0.2.1
 hnp: 1.2-6
 hoa: 2.1.4.1
 hoardeR: 0.9.4-2
-hoardr: 0.5.2
+hoardr: 0.5.3
 hockeyR: 1.3.0
 hockeystick: 0.7.0
 hof: '0.1'
@@ -14301,9 +14303,9 @@ iNEXT: 3.0.0
 iNOTE: '1.0'
 iNZightMR: 2.2.6
 iNZightPlots: 2.14.0
-iNZightRegression: 1.3.2
+iNZightRegression: 1.3.3
 iNZightTS: 1.5.9
-iNZightTools: 1.12.3
+iNZightTools: 1.13.0
 iNextPD: 0.3.2
 iRF: 2.0.0
 iRafNet: 1.1-1
@@ -14416,7 +14418,7 @@ iemisctext: 0.9.99
 ifCNVR: 0.1.0
 ifa: '7.0'
 ifaTools: '0.23'
-ifctools: 0.3.4
+ifctools: 0.3.5
 ifs: 0.1.10
 ifultools: 2.0-26
 ig: '1.2'
@@ -14793,6 +14795,7 @@ iterators: 1.0.14
 iterpc: 0.4.2
 itertools: 0.1-3
 itertools2: 0.1.1
+itol.toolkit: 1.0.0
 itp: 1.2.0
 itraxR: '1.8'
 itree: '0.1'
@@ -15139,7 +15142,7 @@ ksharp: 0.1.0.1
 ksrlive: '1.0'
 kssa: 0.0.1
 kst: 0.5-4
-kstIO: 0.3-0
+kstIO: 0.4-0
 kstMatrix: 0.1-5
 ktaucenters: 0.1.0
 ktsolve: '1.3'
@@ -15438,7 +15441,7 @@ limitplot: '1.2'
 limma: 2.9.9
 limonaid: 0.1.5
 limorhyde: 1.0.1
-limorhyde2: 0.0.7
+limorhyde2: 0.1.0
 lin.eval: 0.1.2
 linERR: '1.0'
 linLIR: '1.1'
@@ -15497,7 +15500,7 @@ listless: 0.0-2
 listr: 0.1.0
 listviewer: 3.0.0
 litRiddle: 0.4.1
-lite: 1.0.0
+lite: 1.1.0
 liteq: 1.1.0
 litteR: 1.0.0
 litterfitter: 0.1.2
@@ -15632,6 +15635,7 @@ logrx: 0.2.0
 logspline: 2.1.19
 lokern: 1.1-9
 lolR: '2.1'
+lolliplot: 0.2.2
 lolog: '1.3'
 lomb: 2.1.0
 long2lstmarray: 0.2.0
@@ -16071,7 +16075,7 @@ mcp: 0.3.2
 mcparallelDo: 1.1.0
 mcpd: '1.0'
 mcprofile: 1.0-1
-mcr: 1.3.1
+mcr: 1.3.2
 mcreplicate: 0.1.2
 mcsm: '1.0'
 mctest: 1.3.1
@@ -16557,7 +16561,7 @@ mlr3data: 0.6.1
 mlr3db: 0.5.0
 mlr3fairness: 0.3.1
 mlr3filters: 0.7.0
-mlr3fselect: 0.9.0
+mlr3fselect: 0.9.1
 mlr3hyperband: 0.4.4
 mlr3learners: 0.5.6
 mlr3mbo: 0.1.1
@@ -16702,7 +16706,7 @@ mogavs: 1.1.0
 mojson: '0.1'
 mokken: 3.0.6
 moko: 1.0.3
-molaR: '5.2'
+molaR: '5.3'
 molic: 2.0.3
 molnet: 0.1.0
 mombf: 3.3.0
@@ -17302,7 +17306,7 @@ newsanchor: 0.1.1
 newscatcheR: 0.1.1
 newsmap: 0.8.1
 newsmd: 0.4.0
-nextGenShinyApps: '1.5'
+nextGenShinyApps: '1.6'
 nfda: '0.2'
 nfer: 1.1.1
 nfl4th: 1.0.2
@@ -17713,7 +17717,7 @@ olsrr: 0.5.3
 omd: '1.0'
 omics: 0.1-5
 omicwas: 0.8.0
-omnibus: 1.1.2
+omnibus: 1.1.3
 omopr: '0.2'
 ompr: 1.0.3
 ompr.roi: 1.0.1
@@ -18777,7 +18781,7 @@ policytree: 1.2.1
 polidata: 0.1.0
 polimetrics: 1.2.1.14
 poliscidata: 2.3.0
-polished: 0.7.0
+polished: 0.8.0
 polite: 0.1.2
 politeness: 0.8.8
 politicaldata: 0.1.3
@@ -20180,7 +20184,7 @@ reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
 reporttools: 1.1.3
-repr: 1.1.5
+repr: 1.1.6
 repra: '0.4'
 represent: '1.0'
 representr: 0.1.4
@@ -20343,6 +20347,7 @@ rhmc: 1.0.0
 rhmmer: 0.1.0
 rhnerm: '1.1'
 rhoR: 1.3.0.3
+rhoneycomb: 1.0.0
 rhosa: 0.2.0
 rhosp: '1.10'
 rhub: 1.1.2
@@ -21427,7 +21432,7 @@ seqhandbook: 0.1.0
 seqimpute: '1.8'
 seqinr: 4.2-23
 seqmagick: 0.1.5
-seqminer: '8.5'
+seqminer: '8.6'
 seqmon: '2.4'
 seqtest: 0.1-0
 sequence: '2.0'
@@ -22183,7 +22188,7 @@ spatstat: 3.0-2
 spatstat.Knet: 3.0-2
 spatstat.core: 2.4-4
 spatstat.data: 3.0-0
-spatstat.explore: 3.0-5
+spatstat.explore: 3.0-6
 spatstat.geom: 3.0-5
 spatstat.gui: 3.0-1
 spatstat.linnet: 3.0-3
@@ -23645,7 +23650,7 @@ tryCatchLog: 1.3.1
 ts.extend: 0.1.1
 ts2net: 0.1.0
 tsBSS: 1.0.0
-tsDyn: 11.0.2
+tsDyn: 11.0.4
 tsModel: 0.6-1
 tsPI: 1.0.3
 tsSelect: 0.1.8
@@ -24064,7 +24069,7 @@ versions: '0.3'
 versionsort: 1.1.0
 vertexenum: '1.0'
 vesselr: 0.2.1
-vetiver: 0.1.8
+vetiver: 0.2.0
 vetools: 1.3-28
 vetr: 0.2.15
 vfcp: 1.4.0
@@ -24187,6 +24192,7 @@ vtree: 5.6.5
 vtype: '0.8'
 vudc: '1.1'
 vueR: 0.5.3
+vvfiller: 0.6.7
 vwline: 0.2-2
 vwr: 0.3.0
 wBoot: 1.0.3
@@ -24657,5 +24663,5 @@ zstdr: 0.1.1
 ztable: 0.2.3
 ztpln: 0.1.2
 ztype: 0.1.0
-zyp: 0.10-1.1
+zyp: '0.11'
 zzlite: 0.1.2
