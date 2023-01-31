@@ -495,6 +495,7 @@ BSSprep: '0.1'
 BSW: 0.1.1
 BSagri: 0.1-10
 BSquare: '1.1'
+BT: '0.3'
 BTLLasso: 0.1-11
 BTM: 0.3.6
 BTR: 1.2.4
@@ -617,7 +618,7 @@ BayesianMediationA: 1.0.1
 BayesianNetwork: 0.1.5
 BayesianPower: 0.2.3
 BayesianReasoning: 0.4.1
-BayesianTools: 0.1.7
+BayesianTools: 0.1.8
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
 Bayesiantreg: '1.0'
@@ -791,7 +792,7 @@ CALF: 1.0.17
 CALIBERrfimpute: 1.0-7
 CALINE3: '1.0'
 CAM: '1.0'
-CAMAN: '0.75'
+CAMAN: '0.76'
 CAMML: 0.2.3
 CANSIM2R: 1.14.1
 CARBayes: '5.3'
@@ -1327,7 +1328,7 @@ CreditMetrics: 0.0-2
 CreditRisk: 0.1.3
 Cronbach: '0.1'
 CropDetectR: 0.0.1
-CropScapeR: 1.1.4
+CropScapeR: 1.1.5
 CrossClustering: 4.0.3
 CrossScreening: 0.1.1
 CrossVA: 1.0.0
@@ -1914,7 +1915,7 @@ EasyABC: 1.5.2
 EasyDescribe: 0.1.1
 EasyHTMLReport: 0.1.1
 EasyMARK: '1.0'
-EasyMx: 0.2-12
+EasyMx: 0.3-2
 EasyStrata: '8.6'
 EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
@@ -2449,7 +2450,7 @@ GInSARCorW: 1.15.6
 GIplot: 0.1.0
 GJRM: 0.2-6.1
 GK2011: 0.1.3
-GLCMTextures: 0.3.6
+GLCMTextures: 0.3.7
 GLDEX: 2.0.0.9.2
 GLDreg: 1.1.0
 GLIDE: 1.0.5
@@ -3361,6 +3362,7 @@ LFApp: 1.3.1
 LFDR.MLE: 1.0.1
 LFDR.MME: '1.0'
 LFDREmpiricalBayes: '1.0'
+LGDtoolkit: 0.0.9
 LGEWIS: '1.1'
 LGRF: '1.0'
 LGS: '0.91'
@@ -3977,7 +3979,7 @@ MazamaLocationUtils: 0.3.8
 MazamaRollUtils: 0.1.3
 MazamaSpatialPlots: 0.2.0
 MazamaSpatialUtils: 0.8.1
-MazamaTimeSeries: 0.2.8
+MazamaTimeSeries: 0.2.10
 MazamaWebUtils: 0.1.7
 McParre: 1.0.1
 McSpatial: '2.0'
@@ -4207,7 +4209,7 @@ MultipleBreakpoints: 0.1.0
 MultipleBubbles: 0.2.0
 MultipleRegression: 0.1.0
 MultiplierDEA: 0.1.19
-MultiscaleDTM: 0.5.3
+MultiscaleDTM: 0.5.5
 MultisiteMediation: 0.0.4
 MultivariateAnalysis: 0.4.4
 MultivariateRandomForest: 1.1.5
@@ -5294,7 +5296,7 @@ REAT: 3.0.3
 REBayes: '2.51'
 RECA: '1.7'
 RECSO: '1.0'
-REDCapDM: 0.1.0
+REDCapDM: 0.1.1
 REDCapExporter: 0.2.2
 REDCapR: 1.1.0
 REDCapTidieR: 0.2.0
@@ -5477,7 +5479,7 @@ RNeo4j: 1.6.4
 RNetCDF: 2.6-2
 RNetLogo: 1.0-4
 RNewsflow: 1.2.6
-RNifti: 1.4.4
+RNifti: 1.4.5
 RNiftyReg: 2.7.1
 ROAuth: 0.9.6
 ROC632: '0.6'
@@ -7213,7 +7215,7 @@ Ternary: 2.1.2
 TesiproV: 0.9.2
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
-TestDesign: 1.4.0
+TestDesign: 1.5.1
 TestDimorph: 0.5.5
 TestFunctions: 0.2.0
 TestGardener: 3.1.4
@@ -8053,7 +8055,7 @@ antaresRead: 2.3.1
 antaresViz: 0.17.1
 anthro: 1.0.0
 anthroplus: 0.9.0
-anticlust: 0.6.1
+anticlust: 0.6.3
 antitrust: 0.99.26
 antiword: 1.3.1
 anyLib: 1.0.5
@@ -8544,6 +8546,7 @@ bayest: '1.4'
 bayestestR: 0.13.0
 bayesvl: 0.8.5
 bayfoxr: 0.0.1
+baygel: 0.1.0
 baymedr: 0.1.1
 baymvb: 1.0.4
 bayou: '2.1'
@@ -9474,7 +9477,7 @@ cfbfastR: 1.9.0
 cfda: 0.10.1
 cfdecomp: 0.4.0
 cffdrs: 1.8.20
-cffr: 0.4.0
+cffr: 0.4.1
 cfid: 0.1.4
 cfma: '1.0'
 cfmortality: 0.3.0
@@ -12286,6 +12289,7 @@ fedmatch: 2.0.5
 fedregs: 1.0.0
 fedreporter: 0.2.1
 fedstatAPIr: 0.2.0
+fedz1: 0.1.0
 feedeR: 0.0.8
 feisr: 1.3.0
 fellov: '0.1'
@@ -12875,7 +12879,7 @@ gapmap: 0.1.0
 gapminder: 0.3.0
 garchmodels: 0.1.1
 garchx: '1.5'
-gargle: 1.2.1
+gargle: 1.3.0
 gargoyle: 0.0.1
 garma: 0.9.11
 garray: 1.1.2
@@ -13886,7 +13890,7 @@ haploR: 4.0.6
 haploReconstruct: 0.1.2
 haplotyper: '0.1'
 haplotypes: 1.1.2
-happign: 0.1.7
+happign: 0.1.8
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
@@ -15543,7 +15547,7 @@ lmem.gwaser: 0.1.0
 lmem.qtler: 0.1.1
 lmenssp: '1.2'
 lmerTest: 3.1-3
-lmeresampler: 0.2.2
+lmeresampler: 0.2.3
 lmf: 1.2.1
 lmfor: '1.6'
 lmkCHK: 1.0.0
@@ -18146,7 +18150,7 @@ parmigene: 1.1.0
 parmsurvfit: 0.1.0
 paropt: 0.2.1
 parqr: 0.1.0
-parquetize: 0.5.0
+parquetize: 0.5.1
 parseRPDR: 0.2.4
 parsec: 1.2.6
 parsedate: 1.3.1
@@ -18356,6 +18360,7 @@ penRvine: '0.2'
 penalized: 0.9-52
 penalizedLDA: '1.1'
 penalizedSVM: 1.1.3
+penalizedcdf: 0.1.0
 penalizedclr: 0.1.0
 penaltyLearning: 2020.5.13
 pencal: 1.3.2
@@ -19622,7 +19627,7 @@ rPlant: '2.7'
 rPorta: 0.1-9
 rPowerSampleSize: 1.0.2
 rPraat: 1.3.2-1
-rPref: '1.3'
+rPref: 1.4.0
 rPython: 0.0-6
 rQCC: 2.22.12
 rRAP: '1.1'
@@ -21223,7 +21228,7 @@ scoring: '0.6'
 scoringRules: 1.0.2
 scoringTools: 0.1.2
 scoringfunctions: 0.0.5
-scoringutils: 1.0.1
+scoringutils: 1.1.0
 scout: 1.0.4
 scphaser: 1.0.0
 scpi: 2.1.0
@@ -21750,6 +21755,7 @@ simode: 1.2.0
 simodels: 0.0.5
 simone: 1.0-4
 simphony: 1.0.3
+simplanonym: 0.1.0
 simpleCache: 0.4.2
 simpleFDR: '1.1'
 simpleMH: 0.1.0
@@ -22558,7 +22564,7 @@ stenR: 0.6.9
 stencilaschema: 1.0.0
 stepPenal: '0.2'
 stepPlr: '0.93'
-stepR: 2.1-3
+stepR: 2.1-4
 stepSplitReg: 1.0.3
 stepdownfdp: 1.0.0
 stepgbm: 1.0.0
@@ -23250,7 +23256,7 @@ tidybins: 0.1.0
 tidyboot: 0.1.1
 tidycat: 0.1.2
 tidycells: 0.2.2
-tidycensus: 1.3.1
+tidycensus: 1.3.2
 tidycharts: 0.1.3
 tidyclust: 0.1.1
 tidycmprsk: 0.2.0
@@ -23271,7 +23277,7 @@ tidygenomics: 0.1.2
 tidygeoRSS: 0.0.1
 tidygeocoder: 1.0.5
 tidygraph: 1.2.2
-tidyhydat: 0.5.8
+tidyhydat: 0.5.9
 tidyimpute: 0.1.0
 tidyinftheo: 0.2.1
 tidyjson: 0.3.2
@@ -23323,7 +23329,7 @@ tigerstats: 0.3.2
 tigger: 1.0.1
 tightClust: '1.1'
 tigreBrowserWriter: 0.1.5
-tigris: '2.0'
+tigris: 2.0.1
 tiktokadsR: 0.1.0
 tikzDevice: 0.12.3.1
 tileHMM: 1.0-7
@@ -23910,6 +23916,7 @@ usdarnass: 0.1.0
 usdata: 0.2.0
 usdc: 0.1.0
 usdm: 1.1-18
+usdoj: 1.0.0
 usedist: 0.4.0
 usedthese: 0.2.0
 useful: 1.2.6
@@ -24198,6 +24205,7 @@ vtype: '0.8'
 vudc: '1.1'
 vueR: 0.5.3
 vvfiller: 0.6.7
+vvsculptor: 0.4.10
 vwline: 0.2-2
 vwr: 0.3.0
 wBoot: 1.0.3
@@ -24439,7 +24447,7 @@ worrms: 0.4.2
 worrrd: 0.1.0
 wosr: 0.3.0
 wowa: 1.0.2
-wpa: 1.8.0
+wpa: 1.8.1
 wpp2008: 1.0-1
 wpp2010: 1.2-0
 wpp2012: 2.2-1
