@@ -1484,7 +1484,7 @@ DMLLZU: 0.1.1
 DMMF: 0.5.1.2
 DMR: '2.0'
 DMRMark: 1.1.1
-DMRnet: 0.3.3
+DMRnet: 0.3.4
 DMTL: 0.1.2
 DMtest: 1.0.0
 DMwR: 0.4.1
@@ -3660,11 +3660,12 @@ MChtest: 1.0-3
 MConjoint: '0.1'
 MDBED: 1.0.0
 MDD: '0.5'
-MDFS: 1.3.0
+MDFS: 1.4.0
 MDM: '1.3'
 MDMAPR: 0.2.3
 MDMR: 0.5.1
 MDOLS: '1.0'
+MDP2: 2.1.2
 MDPtoolbox: 4.0.3
 MDR: '1.2'
 MDSGUI: 0.1.6
@@ -3870,7 +3871,7 @@ MSQC: 1.1.0
 MSRDT: 0.1.0
 MSSQL: 1.0.0
 MST: '2.2'
-MSTest: 0.1.0
+MSTest: 0.1.1
 MSToolkit: 3.2.0
 MSVAR: '0.0'
 MSbox: 1.4.8
@@ -4426,7 +4427,7 @@ NovelDistns: 0.1.0
 Nozzle.R1: 1.1-1.1
 Numero: 1.9.5
 NutrienTrackeR: 1.2.0
-OAIHarvester: 0.3-3
+OAIHarvester: 0.3-4
 OBASpatial: '1.9'
 OBIC: 2.0.1
 OBL: 0.2.1
@@ -4834,7 +4835,7 @@ PakPMICS2018fs: 0.1.0
 PakPMICS2018hh: 0.1.0
 PakPMICS2018mm: 0.1.0
 PakPMICS2018mn: 0.1.0
-PamBinaries: 1.7.0
+PamBinaries: 1.8.0
 PamGeneMixed: '1.03'
 PanCanVarSel: 0.0.3
 PanJen: '1.6'
@@ -5682,7 +5683,7 @@ RWeather: '0.4'
 RWebLogo: 1.0.3
 RWebMA: 0.0.2
 RWeightedKmeans: 1.1.0
-RWeka: 0.4-44
+RWeka: 0.4-45
 RWekajars: 3.9.3-2
 RWiener: 1.3-3
 RWildbook: 0.9.3
@@ -6080,7 +6081,7 @@ RmixmodCombi: '1.0'
 Rmolt: 1.0.0
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
-Rmpfr: 0.9-0
+Rmpfr: 0.9-1
 Rmpi: 0.6-9.2
 Rmst: 0.0.3
 RnavGraph: 0.1.8
@@ -7751,7 +7752,7 @@ acss.data: '1.0'
 act: 1.1.9
 actel: 1.2.1
 actilifecounts: 1.1.0
-activAnalyzer: 1.1.0
+activAnalyzer: 2.0.0
 activPAL: 0.1.3
 activatr: 0.1.0
 activegp: 1.1.0
@@ -9284,7 +9285,7 @@ capwire: 1.1.4
 car: 3.1-1
 carData: 3.0-5
 carSurv: 1.0.0
-caracas: 1.1.2
+caracas: 2.0.0
 carat: 2.1.0
 carbonate: 0.1.4
 carcass: '1.6'
@@ -9565,7 +9566,7 @@ chisquare: '0.3'
 chk: 0.8.1
 chkptstanr: 0.1.1
 chlorpromazineR: 0.2.0
-chngpt: 2022.4-6
+chngpt: 2023.1-30
 choiceDes: 0.9-3
 cholera: 0.7.9
 choplump: 1.1.1
@@ -9731,7 +9732,7 @@ clr: 0.1.2
 clrdag: 0.6.0
 clttools: '1.3'
 clubSandwich: 0.5.8
-clue: 0.3-63
+clue: 0.3-64
 clues: 0.6.2.2
 clugenr: 0.1.0
 clusTransition: '1.0'
@@ -10104,7 +10105,7 @@ copas: 0.8-0
 cope: 0.2.3
 copent: '0.3'
 coppeCosenzaR: 0.1.3
-copre: 0.1.0
+copre: 0.2.0
 coprimary: '1.0'
 cops: 1.3-1
 copula: 1.1-2
@@ -11491,7 +11492,7 @@ ecoretriever: '0.2'
 ecoseries: 0.1.5
 ecosim: 1.3-3
 ecospace: 1.4.2
-ecospat: '3.4'
+ecospat: '3.5'
 ecostats: 1.1.11
 ecostatscale: '1.0'
 ecotox: 1.4.4
@@ -12509,7 +12510,7 @@ fmrs: 1.0-9
 fmsb: 0.7.5
 fmt: '2.0'
 fmtr: 1.5.9
-fnets: 0.1.1
+fnets: 0.1.2
 foba: '0.1'
 focusedMDS: 1.3.3
 foghorn: 1.5.1
@@ -12602,7 +12603,7 @@ fpopw: '1.1'
 fpow: 0.0-2
 fpp: '0.5'
 fpp2: '2.4'
-fpp3: 0.4.0
+fpp3: '0.5'
 fptdApprox: '2.4'
 fqar: 0.3.0
 fracdiff: 1.5-2
@@ -14014,7 +14015,7 @@ hgam: 0.1-2
 hglasso: '1.3'
 hglm: 2.2-1
 hglm.data: 1.0-1
-hgm: '1.22'
+hgm: '1.23'
 hgnc: 0.1.2
 hgutils: 0.2.11
 hgwrr: 0.2-3
@@ -14086,7 +14087,7 @@ hkclustering: 1.0.1
 hkdatasets: 1.0.0
 hkevp: '1.1'
 hkex.api: '0.1'
-hlaR: 0.1.6
+hlaR: 1.0.0
 hlidacr: 0.2.0
 hlr: 0.0-4
 hlt: 1.3.1
@@ -14309,7 +14310,7 @@ iMessager: '1.0'
 iNEXT: 3.0.0
 iNOTE: '1.0'
 iNZightMR: 2.2.7
-iNZightPlots: 2.14.0
+iNZightPlots: 2.15.1
 iNZightRegression: 1.3.3
 iNZightTS: 1.5.9
 iNZightTools: 1.13.0
@@ -15028,7 +15029,7 @@ kernelTDA: 1.0.0
 kernelboot: 0.1.9
 kernelshap: 0.3.3
 kernhaz: 0.1.0
-kernlab: 0.9-31
+kernlab: 0.9-32
 kernplus: 0.1.2
 kernscr: 1.0.5
 kernstadapt: 0.0.2
@@ -15313,7 +15314,7 @@ ldat: 0.3.3
 ldatuning: 1.0.2
 ldbod: 0.1.2
 ldbounds: 2.0.0
-lddmm: 0.2.0
+lddmm: 0.2.1
 ldhmm: 0.5.1
 ldlasso: '3.2'
 ldr: '1.3'
@@ -15930,7 +15931,7 @@ marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
 mark: 0.5.3
-markdown: '1.4'
+markdown: '1.5'
 markdownInput: 0.1.2
 marked: 1.2.6
 markerSearchPower: '1.0'
@@ -17377,7 +17378,7 @@ nlgm: '1.0'
 nlirms: 3.4.4
 nlist: 0.3.3
 nlive: 0.1.0
-nlme: 3.1-161
+nlme: 3.1-162
 nlmeODE: '1.1'
 nlmeU: 0.70-9
 nlmeVPC: '2.6'
@@ -17947,7 +17948,7 @@ osmgeosample: '0.1'
 osmose: 3.3.4
 osmplotr: 0.3.3
 ospsuite.utils: 1.2.0
-osqp: 0.6.0.7
+osqp: 0.6.0.8
 osrm: 4.0.0
 osrmr: 0.1.36
 ot: 0.2.0
@@ -18989,7 +18990,7 @@ predictoR: 2.0.7
 predictrace: 2.0.0
 predicts: 0.1-6
 predieval: 0.1.1
-predint: 1.1.1
+predint: 2.0.0
 predkmeans: 0.1.1
 predmixcor: '1.1'
 predtools: 0.0.2
@@ -19464,7 +19465,7 @@ quaternions: '0.2'
 queryparser: 0.3.2
 queryup: 1.0.1
 quest: 0.1.0
-questionr: 0.7.7
+questionr: 0.7.8
 queuecomputer: 1.2.0
 queueing: 0.2.12
 quhomology: 1.1.1
@@ -20394,7 +20395,7 @@ ring: 1.0.3
 ringbuffer: '1.1'
 ringostat: 0.1.5
 ringscale: 0.1.2
-rintcal: 0.5.2
+rintcal: 0.5.3
 rintimg: 0.1.0
 rintrojs: 0.3.2
 rio: 0.5.29
@@ -20729,7 +20730,7 @@ rpubs: 0.2.2
 rpud: 0.0.2
 rpvm: 1.0-4
 rpymat: 0.1.4
-rqPen: '3.0'
+rqPen: 3.0.1
 rqdatatable: 1.3.1
 rqmcmb2: 1.0.2
 rquery: 1.4.9
@@ -21862,7 +21863,7 @@ skillsengineeR: 0.2.0
 skimr: 2.1.5
 sklarsomega: 3.0-1
 skm: 0.1.5.4
-skmeans: 0.2-14
+skmeans: 0.2-15
 sknifedatar: 0.1.2
 skpr: 1.1.6
 skylight: '1.1'
@@ -22578,6 +22579,7 @@ stevedata: 0.9.0
 stevedore: 0.9.5
 stevemisc: 1.4.1
 stevetemplates: 0.8.0
+stevethemes: 0.1.0
 stfit: 0.99.9
 stheoreme: '1.2'
 stickr: 0.3.1
@@ -22717,7 +22719,7 @@ subtee: 1.0.1
 subtype: '1.0'
 success: 0.1.1
 sudachir: 0.1.0
-suddengains: 0.4.4
+suddengains: 0.6.0
 sudoku: '2.8'
 sudokuAlt: 0.2-1
 sudokuplus: '1.0'
@@ -23036,7 +23038,7 @@ taxize: 0.9.100
 taxizedb: 0.3.0
 taxlist: 0.2.3
 taxonbridge: 1.2.2
-taxonomizr: 0.9.3
+taxonomizr: 0.10.2
 taxotools: 0.0.132
 tayloRswift: 0.1.0
 taylor: 2.0.0
@@ -23150,7 +23152,7 @@ text2speech: 0.2.13
 text2vec: 0.6.3
 textTinyR: 1.1.7
 textTools: 0.1.0
-textcat: 1.0-7
+textcat: 1.0-8
 textclean: 0.9.3
 textdata: 0.4.4
 texteffect: '0.3'
@@ -23320,7 +23322,7 @@ tidytree: 0.4.2
 tidytuesdayR: 1.0.2
 tidyverse: 1.3.2
 tidyvpc: 1.4.0
-tidywikidatar: 0.5.5
+tidywikidatar: 0.5.6
 tidyxl: 1.0.8
 tiff: 0.1-11
 tiger: '0.2'
@@ -23549,6 +23551,7 @@ transformr: 0.1.4
 translate: '0.1'
 translateR: '1.0'
 translateSPSS2R: 1.0.0
+translated: 0.1.0
 translation.ko: 0.0.1.5.2
 transmdl: 0.1.0
 transmem: 0.1.1
@@ -23822,7 +23825,7 @@ ui: 0.1.1
 uiucthemes: 0.3.1
 uk2us: 0.1.0
 ukbabynames: 0.3.0
-ukbnmr: '1.4'
+ukbnmr: '1.5'
 ukbtools: 0.11.3
 ukds: 0.1.0
 ukgasapi: '0.21'
@@ -23938,7 +23941,7 @@ ussherR: '1.10'
 ustfd: 0.2.0
 ustyc: 1.0.0
 utc: 0.1.5
-utf8: 1.2.2
+utf8: 1.2.3
 utf8latex: 1.0.4
 utile.tables: 0.3.0
 utile.tools: 0.3.0
@@ -23994,7 +23997,7 @@ vampyr: 1.1.1
 vandalico: 0.0.1
 vanddraabe: 1.1.1
 vangogh: 0.1.1
-vannstats: 1.2.7.14
+vannstats: 1.3.1.30
 vanquish: 1.0.0
 vapour: 0.9.3
 varComp: 0.2-0
@@ -24427,7 +24430,7 @@ wordcloud2: 0.2.1
 wordgraph: 0.1.0
 wordler: 0.3.1
 wordmatch: '1.0'
-wordnet: 0.1-15
+wordnet: 0.1-16
 wordpiece: 2.1.3
 wordpiece.data: 2.0.0
 wordpredictor: 0.0.3
@@ -24513,7 +24516,7 @@ xefun: 0.1.3
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.36'
+xfun: '0.37'
 xgb2sql: 0.1.2
 xgboost: 1.7.3.1
 xgobi: 1.2-9
