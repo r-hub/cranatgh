@@ -571,7 +571,7 @@ BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
 BayesMRA: 1.0.0
-BayesMallows: 1.2.1
+BayesMallows: 1.2.2
 BayesMassBal: 1.1.0
 BayesMed: '1.0'
 BayesMixSurv: 0.9.1
@@ -610,7 +610,7 @@ BayesTwin: '1.0'
 BayesValidate: '0.0'
 BayesVarSel: 2.2.3
 BayesX: 0.3-1.1
-BayesXsrc: 3.0-3
+BayesXsrc: 3.0-4
 BayesianAnimalTracker: '1.2'
 BayesianFROC: 1.0.0
 BayesianGLasso: 0.2.0
@@ -801,6 +801,7 @@ CARBayesST: 3.3.1
 CARBayesdata: '3.0'
 CARE1: 1.1.0
 CARLIT: '1.0'
+CARM: 1.0.0
 CARME: '0.1'
 CARRoT: 2.5.2
 CARS: '0.2'
@@ -1001,7 +1002,7 @@ CSFA: 1.2.0
 CSGo: 0.6.7
 CSHShydRology: 1.3.0
 CSIndicators: 0.0.2
-CSMES: 1.0.0
+CSMES: 1.0.1
 CSS: '1.0'
 CSTE: 2.0.0
 CSTools: 4.1.1
@@ -2396,7 +2397,7 @@ GDELTtools: '1.5'
 GDINA: 2.9.3
 GDPuc: 0.10.0
 GDSARM: 0.1.1
-GE: 0.3.4
+GE: 0.3.5
 GEEaSPU: 1.0.2
 GEEmediate: 1.1.4
 GEInfo: '1.0'
@@ -2792,7 +2793,7 @@ HKprocess: 0.1-1
 HLMdiag: 0.5.0
 HLSM: 0.9.0
 HMB: '1.1'
-HMDHFDplus: 1.9.19
+HMDHFDplus: 2.0.1
 HMM: 1.0.1
 HMMCont: '1.0'
 HMMEsolver: 0.1.2
@@ -3125,7 +3126,7 @@ InferenceSMR: 1.0.1
 InfiniumPurify: 1.3.1
 Inflation: 0.1.0
 Inflect: 1.1.0
-InflectSSP: 1.4.5
+InflectSSP: '1.5'
 InfoTrad: '1.2'
 Information: 0.0.9
 InformationValue: 1.2.3
@@ -3558,7 +3559,7 @@ LowWAFOMSobol: 1.1.1
 LqG: 0.1.0
 LumReader: 0.1.0
 LumiWCluster: 1.0.2
-Luminescence: 0.9.20
+Luminescence: 0.9.21
 M2SMF: '2.0'
 M2SMJF: '1.0'
 M3: '0.3'
@@ -8033,6 +8034,7 @@ anim.plots: 0.2.2
 animalEKF: '1.1'
 animalTrack: 1.0.0
 animaltracker: 0.2.0
+animate: 0.3.9.4
 animation: '2.7'
 animint2: 2022.9.14
 animl: 1.0.0
@@ -8484,7 +8486,7 @@ batchmix: 1.0.1
 batchr: 0.0.2
 batchscr: 0.1.0
 batchtma: 0.1.6
-batchtools: 0.9.15
+batchtools: 0.9.16
 bate: 0.1.0
 batman: 0.1.0
 bats: 0.1-3
@@ -9590,7 +9592,7 @@ chromote: 0.1.1
 chromseq: 0.1.3
 chron: 2.3-59
 chronicle: '0.3'
-chronicler: 0.2.0
+chronicler: 0.2.1
 chronochrt: 0.1.2
 chronosphere: 0.4.1
 chunkR: 1.1.1
@@ -9644,7 +9646,7 @@ cladoRcpp: 0.15.1
 clam: 2.5.0
 clampSeg: 1.1-1
 clarifai: 0.4.2
-clarify: 0.1.0
+clarify: 0.1.1
 clarkeTest: 0.1.0
 class: 7.3-21
 classGraph: 0.7-5
@@ -11278,7 +11280,7 @@ dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
 dseplus: 2006.4-1
-dsfa: 1.0.1
+dsfa: 2.0.0
 dsims: 1.0.1
 dslabs: 0.7.4
 dslice: 1.2.0
@@ -11357,7 +11359,7 @@ dynamic: 1.1.0
 dynamicGraph: 0.2.2
 dynamicTreeCut: 1.63-1
 dynamichazard: 1.0.2
-dynamite: 1.0.1
+dynamite: 1.1.1
 dynamo: '1.0'
 dynatop: 0.2.3
 dynatopGIS: 0.2.4
@@ -11794,7 +11796,7 @@ epuR: '0.1'
 epubr: 0.6.3
 epwshiftr: 0.1.3
 epxToR: 0.4-1
-eq5d: 0.13.0
+eq5d: 0.14.0
 eqn2svg: 0.1.0
 eqs2lavaan: '3.0'
 eqtl: '1.1'
@@ -11849,6 +11851,7 @@ esc: 0.5.1
 escalation: 0.1.4
 esd4all: 1.0-9
 eseis: 0.6.0
+eselect: '1.1'
 esemifar: 1.0.1
 eshrink: 0.1.2
 esmisc: 0.0.3
@@ -12939,6 +12942,7 @@ gcolor: '1.0'
 gconcord: '0.4'
 gconsensus: 0.3.2
 gcookbook: '2.0'
+gcplyr: 1.1.0
 gdalUtilities: 1.2.3
 gdalUtils: 2.0.3
 gdalcubes: 0.6.3
@@ -13334,7 +13338,7 @@ ggrasp: '1.2'
 ggrastr: 1.0.1
 ggrcs: 0.2.7
 ggredist: 0.0.2
-ggrepel: 0.9.2
+ggrepel: 0.9.3
 ggridges: 0.5.4
 ggrisk: '1.3'
 ggroups: 2.1.2
@@ -16381,7 +16385,7 @@ midasml: 0.1.10
 midasr: '0.8'
 midastouch: '1.3'
 midrangeMCP: 3.1.1
-miesmuschel: 0.0.2
+miesmuschel: 0.0.3
 mifa: 0.2.0
 migest: 2.0.3
 migraph: 0.13.2
@@ -20016,7 +20020,7 @@ readtextgrid: 0.1.1
 readthat: 0.0.1
 readwritesqlite: 0.2.0
 readxl: 1.4.1
-readxlsb: 0.1.4
+readxlsb: 0.1.5
 realTimeSurv: '1.0'
 realestateDK: 0.1.0
 realized: '1.0'
@@ -20627,7 +20631,7 @@ rodd: 0.2-1
 rodeo: 0.7.7
 rodham: 0.1.1
 rofanova: 1.0.0
-roger: 1.3-1
+roger: 1.4-0
 roistats: 0.1.1
 rolasized: '1.0'
 roll: 1.1.6
@@ -21532,7 +21536,7 @@ shapefiles: 0.7.2
 shapes: 1.2.6
 shapper: 0.1.3
 shapr: 0.2.0
-shapviz: 0.4.1
+shapviz: 0.5.0
 shar: 2.0.2
 sharp: 1.3.0
 sharpData: '1.4'
@@ -21914,6 +21918,7 @@ smac: '1.0'
 smacof: 2.1-5
 smacpod: '2.5'
 smallarea: '0.1'
+smallsets: 1.0.0
 smallstuff: 1.0.1
 smam: 0.6.0
 smapr: 0.2.1
@@ -22483,7 +22488,7 @@ stagedtrees: 2.2.1
 staggered: '1.1'
 stam: 0.0-1
 stampr: '0.2'
-stan4bart: 0.0-5
+stan4bart: 0.0-6
 standGL: '1.1'
 standardize: 0.2.2
 standartox: 0.0.2
@@ -22700,6 +22705,7 @@ stuart: 0.10.1
 stubthat: 1.2.1
 studentlife: 1.1.0
 studyStrap: 1.0.0
+stxplore: 0.1.0
 styler: 1.9.0
 stylest: 0.2.0
 stylo: 0.7.4
@@ -23275,7 +23281,7 @@ tidycode: 0.1.1
 tidycomm: 0.2.1
 tidycwl: 1.0.7
 tidydatatutor: 0.1.0
-tidydice: 0.1.1
+tidydice: 1.0.0
 tidydr: 0.0.4
 tidyestimate: 1.1.0
 tidyfast: 0.2.1
@@ -24068,7 +24074,7 @@ vectoptim: '0.2'
 vectorwavelet: 0.1.0
 vegalite: 0.6.1
 vegan: 2.6-4
-vegan3d: 1.1-2
+vegan3d: 1.2-0
 vegawidget: 0.4.2
 vegclust: 2.0.2
 vegdata: 0.9.11.4
