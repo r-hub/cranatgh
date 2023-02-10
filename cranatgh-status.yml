@@ -1353,7 +1353,7 @@ CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
 Cyclops: 3.2.1
 CytOpT: 0.9.4
-CytobankAPI: 2.1.1
+CytobankAPI: 2.2.0
 CytobankAPIstats: '2.0'
 CytobankBridgeR: 1.0.0
 D2C: 1.2.1
@@ -1993,6 +1993,7 @@ EpiContactTrace: 0.16.0
 EpiCurve: 2.4-2
 EpiDynamics: 0.3.1
 EpiEstim: 2.2-4
+EpiForsk: 0.0.1
 EpiILM: 1.5.2
 EpiILMCT: 1.1.7
 EpiInvert: 0.3.1
@@ -2844,7 +2845,7 @@ HW.pval: '1.0'
 HWEBayes: '1.4'
 HWEintrinsic: 1.2.2
 HWxtest: 1.1.9
-HYPEtools: 1.1.0
+HYPEtools: 1.2.0
 HYRISK: '1.2'
 HaDeX: 1.2.2
 HadamardR: 1.0.0
@@ -3173,6 +3174,7 @@ IrregLong: 0.3.4
 Iscores: 1.1.0
 IsingFit: 0.3.1
 IsingSampler: 0.2.1
+Isinglandr: 0.1.0
 Iso: 0.0-18.1
 IsoCI: '1.1'
 IsoCheck: 0.1.0
@@ -3224,7 +3226,7 @@ JSUparameters: 1.0.0
 JSconsole: 0.1.0
 JSmediation: 0.2.1
 JSparO: 1.5.0
-JWileymisc: 1.3.0
+JWileymisc: 1.4.0
 JacobiEigen: 0.3-4
 JamendoR: 0.1.1
 Java: '0.5'
@@ -4252,7 +4254,7 @@ NBR: 0.1.5
 NBShiny: 0.1.0
 NBShiny2: 0.1.0
 NBShiny3: 0.1.0
-NCA: 3.3.0
+NCA: 3.3.1
 NCBI2R: 1.4.7
 NCSCopula: 1.0.1
 NCSampling: '1.0'
@@ -5318,7 +5320,7 @@ REPPlabShiny: 0.4.1
 REPTILE: '1.0'
 REQS: 0.8-13
 REREFACT: '1.0'
-RESI: 1.0.5
+RESI: 1.1.0
 RESS: '1.3'
 REST: 1.0.1
 REdaS: 0.9.4
@@ -5564,7 +5566,7 @@ RPPanalyzer: 1.4.7
 RPS: 1.0.1
 RPgSQL: 1.0-0
 RPhosFate: 1.0.2
-RPostgreSQL: 0.7-4
+RPostgreSQL: 0.7-5
 RPostgres: 1.4.5
 RPresto: 1.4.2
 RProbSup: '3.0'
@@ -7371,7 +7373,7 @@ UPCM: 0.0-3
 UPG: 0.3.1
 UPMASK: '1.2'
 UPSvarApprox: 0.1.3
-USA.state.boundaries: 1.0.0
+USA.state.boundaries: 1.0.1
 USAboundaries: 0.4.0
 USCF: 0.1.3
 USGSstates2k: 1.0.1
@@ -8512,7 +8514,7 @@ bayesGAM: 0.0.2
 bayesGARCH: 2.1.10
 bayesGDS: 0.6.2
 bayesImageS: 0.6-1
-bayesLife: 5.0-3
+bayesLife: 5.1-1
 bayesLopod: 1.0.1
 bayesMCClust: '1.0'
 bayesMRM: 2.4.0
@@ -9747,7 +9749,7 @@ clttools: '1.3'
 clubSandwich: 0.5.8
 clue: 0.3-64
 clues: 0.6.2.2
-clugenr: 0.1.0
+clugenr: 0.2.0
 clusTransition: '1.0'
 cluscov: 1.1.0
 clusrank: 1.0-3
@@ -9776,7 +9778,7 @@ clusteredinterference: 1.0.1
 clusterfly: '0.4'
 clustergas: '1.0'
 clusterhap: '0.1'
-clustering.sc.dp: '1.0'
+clustering.sc.dp: '1.1'
 clusterlab: 0.0.2.8
 clustermole: 1.1.0
 clustermq: 0.8.95.4
@@ -10660,13 +10662,13 @@ dataverse: 0.3.12
 dataversionr: 0.9.0
 dataview: 2.1.1
 datawizard: 0.6.5
-datazoom.amazonia: 0.3.0
+datazoom.amazonia: 1.0.0
 date: 1.2-42
 datefixR: 1.4.0
 datelife: 0.6.6
 daterangepicker: 0.1.0
 datetime: 0.1.4
-datetimeoffset: 0.1.2
+datetimeoffset: 0.2.1
 datetimeutils: 0.5-0
 dateutils: 0.1.5
 datoramar: 0.1.0
@@ -10748,7 +10750,7 @@ deGradInfer: 1.0.1
 deSolve: '1.34'
 deTS: '1.0'
 deTestSet: 1.1.7.3
-deaR: 1.3.3
+deaR: '1.4'
 deadband: 0.1.0
 deal: 1.2-42
 deamer: '1.0'
@@ -11592,7 +11594,7 @@ eggCounts: 2.3-2
 egoTERGM: 2.1.1
 egonet: '1.2'
 egor: 1.22.12
-eha: 2.10.1
+eha: 2.10.3
 ehaGoF: 0.1.1
 ehelp: 1.2.1
 ei: 1.3-3
@@ -12348,7 +12350,7 @@ fgpt: '2.3'
 fgui: 1.0-8
 fheatmap: 1.0.1
 fhidata: 2019.8.27
-fhircrackr: 2.1.0
+fhircrackr: 2.1.1
 fiberLD: 0.1-7
 fic: 1.0.0
 fidap: 0.0.3
@@ -12432,6 +12434,7 @@ fitbitr: 0.2.0
 fitcoach: '1.0'
 fitdc: 0.0.1
 fitdistrplus: 1.1-8
+fitlandr: 0.1.0
 fitmix: 0.1.0
 fitode: 0.1.1
 fitplc: 1.2-3
@@ -13325,7 +13328,7 @@ ggpie: 0.2.5
 ggplate: 0.0.1
 ggplot: 0.4.2
 ggplot.multistats: 1.0.0
-ggplot2: 3.4.0
+ggplot2: 3.4.1
 ggplot2movies: 0.0.1
 ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
@@ -13664,6 +13667,7 @@ grafzahl: 0.0.5
 grainchanger: 0.3.2
 grainscape: 0.4.3
 gramEvol: 2.1-4
+grand: 0.9.0
 grandR: 0.2.0
 grangers: 0.1.0
 granova: '2.1'
@@ -14132,7 +14136,7 @@ hoa: 2.1.4.1
 hoardeR: 0.9.4-2
 hoardr: 0.5.3
 hockeyR: 1.3.0
-hockeystick: 0.7.0
+hockeystick: 0.7.1
 hof: '0.1'
 hogsvdR: '0.1'
 holdem: '1.2'
@@ -14430,7 +14434,7 @@ idendr0: 1.5.3
 identifyr: '0.1'
 identity: '0.2'
 ideq: 0.1.4
-ider: 0.1.0
+ider: 0.1.1
 idiogramFISH: 2.0.9
 idm: 1.8.3
 idmTPreg: '1.1'
@@ -14457,7 +14461,7 @@ igate: 0.3.3
 igcop: 1.0.1
 iglu: 3.4.2
 igoR: 0.1.4
-igraph: 1.3.5
+igraph: 1.4.0
 igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
@@ -14719,7 +14723,7 @@ iotables: 0.9.1
 iotarelr: 0.1.3
 iotools: 0.3-2
 ip2location: 8.1.2
-ip2proxy: 1.1.0
+ip2proxy: 1.2.0
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
 ipaddress: 1.0.0
@@ -14810,7 +14814,7 @@ isotonic.pen: '1.0'
 isotracer: 1.1.3
 isotree: 0.5.17
 ispd: '0.2'
-ispdata: '1.0'
+ispdata: '1.1'
 isqg: '1.4'
 issueReporter: 0.1.0
 istacr: 0.2.2
@@ -14960,7 +14964,7 @@ jrt: 1.1.1
 jrvFinance: 1.4.3
 js: '1.2'
 jsTree: '1.2'
-jsTreeR: 2.2.0
+jsTreeR: 2.3.0
 jshintr: 0.1.0
 jskm: 0.4.4
 jsmodule: 1.3.6
@@ -16381,7 +16385,7 @@ microclass: '1.2'
 microclustr: 0.1.0
 microcontax: '1.2'
 microdemic: 0.6.0
-microeco: 0.13.0
+microeco: 0.14.0
 microhaplot: 1.0.1
 micromap: 1.9.5
 micromapST: 2.0.1
@@ -16961,7 +16965,7 @@ mulset: 1.0.0
 multDM: 1.1.4
 multIntTestFunc: 0.1.1
 multbxxc: 1.0.1
-multcomp: 1.4-20
+multcomp: 1.4-22
 multcompView: 0.1-8
 multdyn: '1.6'
 multfisher: '1.1'
@@ -19490,7 +19494,7 @@ quarrint: 1.0.0
 quarto: '1.2'
 quaternions: '0.2'
 queryparser: 0.3.2
-queryup: 1.0.1
+queryup: 1.0.2
 quest: 0.1.0
 questionr: 0.7.8
 queuecomputer: 1.2.0
@@ -19766,7 +19770,7 @@ randomcoloR: 1.1.0.1
 randomizationInference: 1.0.4
 randomizeBE: 0.3-5
 randomizeR: 2.0.0
-randomizr: 0.22.0
+randomizr: 0.24.0
 randomsearch: 0.2.0
 randquotes: 0.1.1
 randstr: 0.2.0
@@ -20023,7 +20027,7 @@ readmet: 1.6.6
 readmnist: 1.0.6
 readmoRe: 0.2-12
 readobj: 0.4.1
-readr: 2.1.3
+readr: 2.1.4
 readrba: 0.1.4
 readroper: 0.9.3
 readsdmx: 0.3.0
@@ -20819,7 +20823,7 @@ rscorecard: 0.24.0
 rscproxy: 2.0-5
 rsdNE: 1.0.0
 rsdepth: 0.1-22
-rsdmx: 0.6-1
+rsdmx: 0.6-2
 rsed: 0.1.2
 rseedcalc: '1.3'
 rsem: 0.5.0
@@ -21567,7 +21571,7 @@ shatteringdt: 0.1.0
 shazam: 1.1.2
 sheldusr: '0.1'
 shelltrace: 3.5.1
-sherlock: 0.5.1
+sherlock: 0.6.0
 shidashi: 0.1.4
 shiftR: '1.5'
 shinipsum: 0.1.0
@@ -22204,7 +22208,7 @@ spatclus: 1.0-3
 spatcounts: '1.1'
 spate: 1.7.4
 spatgeom: 0.1.0
-spatgraphs: 3.2-2
+spatgraphs: '3.4'
 spathial: 0.1.2
 spatial: 7.3-16
 spatial.gev.bma: '1.0'
@@ -23505,7 +23509,7 @@ topmodel: 0.7.5
 topoDistance: 1.0.2
 topologyGSA: 1.4.7
 topr: 1.1.2
-toprdata: 1.0.1
+toprdata: 1.0.2
 topsa: 0.1.0
 topsis: '1.0'
 tor: 1.1.2
@@ -23679,7 +23683,7 @@ tropr: 0.1.2
 trotter: '0.6'
 trouBBlme4SolveR: 0.1.1
 trread: 0.2.7
-trtf: 0.4-0
+trtf: 0.4-2
 truelies: 0.2.0
 trueskill: '0.1'
 truh: 1.0.0
@@ -24203,6 +24207,7 @@ voice: 0.4.14
 vol2birdR: 0.2.0
 volatilityTrader: 1.0.1
 volcano3D: 2.0.8
+volcanoPlot: 1.0.0
 volesti: 1.1.2-3
 volleystat: 0.2.0
 voluModel: 0.1.9
