@@ -2591,7 +2591,7 @@ GameTheoryAllocation: '1.0'
 GammaTest: '2.1'
 Gammareg: '3.0'
 GapAnalysis: 1.0.2
-GauPro: 0.2.6
+GauPro: 0.2.7
 GaussSuppression: 0.5.0
 GaussianHMM1d: 1.0.1
 GeDS: 0.1.3
@@ -5020,7 +5020,7 @@ PresenceAbsence: 1.1.11
 PressPurt: 1.0.2
 PrettyCols: 1.0.1
 PrevMap: 1.5.4
-PriceIndices: 0.1.3
+PriceIndices: 0.1.4
 PriorCD: 0.1.0
 PriorGen: 1.1.2
 PrivateLR: 1.2-22
@@ -5961,7 +5961,7 @@ Records: '1.0'
 RecurRisk: '1.0'
 RedditExtractoR: 3.0.7
 RedisBaseContainer: 1.0.1
-Rediscover: 0.3.0
+Rediscover: 0.3.1
 Redmonder: 0.2.0
 RefFreeEWAS: '2.2'
 RefManageR: 1.4.0
@@ -6880,7 +6880,7 @@ SphereOptimize: 0.1.1
 SphericalCubature: '1.5'
 SphericalK: '1.2'
 SpiceFP: 0.1.1
-Spillover: '0.1'
+Spillover: 0.1.0.3
 Splinets: 1.0.0
 SplitGLM: 1.0.5
 SplitKnockoff: '1.2'
@@ -8449,7 +8449,7 @@ bandit: 0.5.1
 bang: 1.0.1
 bangladesh: 1.0.0
 bannerCommenter: 1.0.0
-banter: 0.9.5
+banter: 0.9.6
 banxicoR: 0.9.0
 bapred: '1.1'
 barcode: 1.3.0
@@ -8896,7 +8896,7 @@ bitmexr: 0.3.2
 bitops: 1.0-7
 bitrugs: '0.1'
 bitsqueezr: 0.1.1
-bittermelon: 1.0.0
+bittermelon: 1.1.1
 biva: 0.1.0
 bivarRIpower: '1.2'
 bivariate: 0.7.0
@@ -9432,7 +9432,7 @@ cdcatR: 1.0.6
 cdcfluview: 0.9.4
 cdcsis: 2.0.3
 cde: 0.4.1
-cder: 0.2-2
+cder: 0.3-0
 cdfquantreg: 1.3.1-1
 cdlTools: '0.15'
 cdlei: '1.0'
@@ -12044,7 +12044,7 @@ extremefit: 1.0.2
 extremevalues: 2.3.3
 extremis: 1.2.1
 extremogram: 1.0.2
-exuber: 1.0.0
+exuber: 1.0.1
 exvatools: 0.2.0
 eye: 1.2.1
 eyeRead: 0.0.4
@@ -12333,8 +12333,8 @@ fflr: 2.1.0
 ffmanova: 1.1.1
 ffmetadata: 1.0.0
 ffp: 0.2.2
-ffscrapr: 1.4.7
-ffsimulator: 1.2.2
+ffscrapr: 1.4.8
+ffsimulator: 1.2.3
 ffstream: 0.1.6
 fftw: 1.0-7
 fftwtools: 0.9-11
@@ -12428,7 +12428,7 @@ fitConic: '1.2'
 fitDRC: '1.1'
 fitHeavyTail: 0.1.4
 fitODBOD: 1.5.0
-fitPS: 0.2-3
+fitPS: 0.2-4
 fitPoly: 3.0.0
 fitTetra: '1.0'
 fitbitScraper: 0.1.8
@@ -12479,7 +12479,7 @@ flexiblas: 3.3.0
 flexmet: '1.1'
 flexmix: 2.3-18
 flexmixNL: 0.0.1
-flexpolyline: 0.2.7
+flexpolyline: 0.3.0
 flexrsurv: 2.0.13
 flexsiteboard: 0.0.7
 flexsurv: 2.2.2
@@ -15410,7 +15410,7 @@ leprechaun: 1.0.0
 leri: 0.0.1
 lero.lero: '0.2'
 less: 0.1.0
-lessR: 4.2.5
+lessR: 4.2.6
 lest: 1.1.0
 lestat: '1.9'
 letsR: '4.0'
@@ -15830,7 +15830,7 @@ machQA: 0.1.4
 machina: 0.1.6
 macleish: 0.3.9
 maclogp: 0.1.1
-macroBiome: 0.1.0
+macroBiome: 0.2.0
 macrocol: 0.1.0
 macrosyntR: 0.2.14
 macs: '1.0'
@@ -16378,7 +16378,7 @@ miceafter: 0.5.0
 micemd: 1.8.0
 michelRodange: 1.0.0
 miclust: 1.2.8
-micompr: 1.1.2
+micompr: 1.1.3
 microPop: '1.6'
 microSTASIS: 0.1.0
 microbats: 0.1-1
@@ -17810,7 +17810,7 @@ ooplah: 0.2.0
 oops: 0.2.0
 oosp: 0.3.3
 oottest: 0.9.1
-opGMMassessment: 0.3.3
+opGMMassessment: 0.3.5
 opa: 0.7.3
 opalr: 3.3.0
 opart: 2019.1.0
@@ -18782,7 +18782,7 @@ pmledecon: 0.2.1
 pmlr: '1.0'
 pmml: 2.5.2
 pmmlTransformations: 1.3.3
-pmparser: 1.0.15
+pmparser: 1.0.16
 pmpp: 0.1.1
 pmr: 1.2.5.1
 pmsampsize: 1.1.2
@@ -19001,7 +19001,7 @@ prc: 2019.1-23
 prcbench: 1.1.1
 prclust: '1.3'
 prcr: 0.2.1
-pre: 1.0.5
+pre: 1.0.6
 preText: 0.6.2
 precautionary: 0.2.6
 precintcon: 2.3.0
@@ -19923,7 +19923,7 @@ rchess: '0.1'
 rchie: 1.0.2
 rcicr: 0.3.4.1
 rciplot: 0.1.0
-rcites: 1.2.0
+rcites: 1.3.0
 rcitoid: 0.1.0
 rclimateca: 1.0.3
 rclinicaltrials: '1.4'
@@ -22292,7 +22292,7 @@ spectralGraphTopology: 0.2.3
 spectralR: 0.1.2
 spectre: 1.0.2
 spectrino: 2.0.0
-spectrolab: 0.0.17
+spectrolab: 0.0.18
 sped: 0.2-1
 speech: 0.1.5
 speechbr: 2.0.0
@@ -22403,7 +22403,7 @@ sprm: '1.2'
 sprsmdl: 0.1-0
 sprtt: 0.1.0
 spruce: 0.99.1
-sps: 0.4.0
+sps: 0.4.1
 spsComps: 0.3.2.1
 spsUtil: 0.2.2
 spsann: 2.2.0
@@ -22854,7 +22854,7 @@ surveysd: 1.3.1
 surveyvoi: 1.0.5
 survidm: 1.3.2
 survivALL: 0.9.3
-survival: 3.5-0
+survival: 3.5-3
 survival.svb: 0.0-2
 survival4: 1.4-0
 survival5: '2.4'
@@ -23513,7 +23513,7 @@ topicmodels.etm: 0.1.0
 topmodel: 0.7.5
 topoDistance: 1.0.2
 topologyGSA: 1.4.7
-topr: 1.1.2
+topr: 1.1.3
 toprdata: 1.0.2
 topsa: 0.1.0
 topsis: '1.0'
@@ -23524,7 +23524,7 @@ torchdatasets: 0.2.0
 torchopt: 0.1.2
 torchvision: 0.4.1
 torchvisionlib: 0.3.0
-tornado: 0.1.1
+tornado: 0.1.2
 torus: '1.0'
 tosca: 0.3-2
 toscmask: 1.2.3
