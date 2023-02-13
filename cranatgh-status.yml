@@ -1372,7 +1372,7 @@ DACF: 1.0.0
 DAFOT: 0.0.1
 DAGGER: '1.4'
 DAIME: 2.1.3
-DAISIE: 4.2.0
+DAISIE: 4.3.1
 DAKS: 2.1-3
 DALEX: 2.4.3
 DALEX2: '0.9'
@@ -1999,7 +1999,7 @@ EpiILMCT: 1.1.7
 EpiInvert: 0.3.1
 EpiLPS: 1.0.7
 EpiModel: 2.3.1
-EpiNow2: 1.3.2
+EpiNow2: 1.3.4
 EpiReport: 1.0.2
 EpiResTest: '1.0'
 EpiSemble: 0.1.0
@@ -2428,7 +2428,7 @@ GFDmcv: 0.1.0
 GFDsurv: 0.1.1
 GFE: 0.1.0
 GFGM.copula: 1.0.4
-GFM: 1.1.0
+GFM: 1.2.0
 GFMaps: '1.1'
 GFORCE: 0.1.4
 GFisher: 0.2.0
@@ -2850,6 +2850,7 @@ HYRISK: '1.2'
 HaDeX: 1.2.2
 HadamardR: 1.0.0
 HadoopStreaming: '0.2'
+HanStat: 0.90.0
 HandTill2001: 1.0.1
 Hankel: 0.0-1
 HapEstXXR: 0.1-8
@@ -2993,7 +2994,7 @@ IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
 IFAA: 1.1.2
-IFC: 0.1.8
+IFC: 0.2.0
 IFMCDM: 0.1.15
 IFP: 0.2.4
 IFSPlot: '1.0'
@@ -3608,6 +3609,7 @@ MATTOOLS: '1.1'
 MAVE: 1.3.11
 MAVIS: '1.1'
 MAVTgsa: '1.3'
+MAZE: 0.0.1
 MAc: '1.1'
 MAclinical: 1.0-5
 MAd: 0.8-3
@@ -4980,6 +4982,7 @@ PoolTestR: 0.1.3
 PooledCohort: 0.0.1
 PooledMeanGroup: '1.0'
 PopED: 0.6.0
+PopGenHelpR: 1.0.0
 PopGenKit: '1.0'
 PopGenReport: 3.0.7
 PopGenome: 2.7.5
@@ -5466,7 +5469,7 @@ RMendeley: 0.1-2
 RMessenger: '0.1'
 RMixpanel: 0.7-1
 RMixtComp: 4.1.3
-RMixtCompIO: 4.0.8
+RMixtCompIO: 4.0.9
 RMixtCompUtilities: 4.1.4
 RMongo: 0.0.25
 RMySQL: 0.10.25
@@ -6954,6 +6957,7 @@ StroupGLMM: 0.1.0
 StrucDiv: 0.2.1
 StructFDR: '1.3'
 StructR: '1.1'
+StructuralDecompose: 0.1.1
 StructureMC: '1.0'
 SuRF.vs: 1.1.0.1
 SubCultCon: '1.0'
@@ -6984,7 +6988,7 @@ Superpower: 0.2.0
 SuppDists: 1.1-9.7
 SurfaceReconstruction: 0.1.0
 SurfaceTortoise: 1.0.2
-Surrogate: '2.6'
+Surrogate: '2.7'
 SurrogateOutcome: '1.1'
 SurrogateRegression: 0.6.0
 SurrogateTest: '1.3'
@@ -7763,7 +7767,7 @@ acss.data: '1.0'
 act: 1.2.4
 actel: 1.2.1
 actilifecounts: 1.1.0
-activAnalyzer: 2.0.0
+activAnalyzer: 2.0.1
 activPAL: 0.1.3
 activatr: 0.1.0
 activegp: 1.1.0
@@ -9091,7 +9095,7 @@ breakage: 1.1-1
 breakaway: 4.8.4
 breakfast: '2.3'
 breakpoint: '1.2'
-breathtestcore: 0.8.4
+breathtestcore: 0.8.6
 breathteststan: 0.8.4
 brew: 1.0-8
 brewdata: '0.4'
@@ -9692,6 +9696,7 @@ clhs: 0.9.0
 cli: 3.6.0
 cliapp: 0.1.1
 clickR: 0.8.3
+clickb: '0.1'
 clickstream: 1.3.1
 clidamonger: 1.0.0
 clidatajp: 0.5.1
@@ -9998,7 +10003,7 @@ compoisson: '0.3'
 compositions: 2.0-5
 compositionsGUI: '1.0'
 composits: 0.1.1
-compound.Cox: '3.26'
+compound.Cox: '3.27'
 comprehenr: 0.6.10
 compstatr: 0.2.1
 compute.es: 0.2-5
@@ -10157,7 +10162,7 @@ cornet: 0.0.6
 coro: 1.0.3
 coroICA: 1.0.2
 corona: 0.3.0
-coronavirus: 0.3.32
+coronavirus: 0.4.0
 corpcor: 1.6.10
 corpora: 0.5-1
 corporaexplorer: 0.8.6
@@ -10204,6 +10209,7 @@ countTransformers: 0.0.6
 countcolors: 0.9.1
 countdata: '1.2'
 countdown: 0.4.0
+counterfactuals: 0.1.1
 countfitteR: '1.4'
 countgmifs: 0.0.2
 countland: 0.1.1
@@ -10275,6 +10281,7 @@ cplexAPI: 1.4.0
 cplm: 0.7-10
 cplots: 0.5-0
 cpm: '2.3'
+cpmBigData: 0.0.1
 cpop: 1.0.6
 cpp11: 0.4.3
 cppRouting: '3.1'
@@ -13025,7 +13032,7 @@ gendist: '2.0'
 gene2pathway: 1.8.1
 geneARMA: '1.0'
 geneExpressionFromGEO: '0.9'
-geneHapR: 1.1.6
+geneHapR: 1.1.7
 geneHummus: 1.0.11
 geneListPie: '1.0'
 geneNetBP: 2.0.1
@@ -13902,6 +13909,7 @@ hakaiApi: 1.0.2
 hal9001: 0.4.3
 haldensify: 0.2.3
 halfcircle: 0.1.0
+halk: 0.0.1
 halp: 0.1.3
 hamlet: 0.9.6
 handlr: 0.3.0
@@ -14149,6 +14157,7 @@ holodeck: 0.2.1
 homals: 1.0-10
 homeR: 0.3.0
 hommel: '1.6'
+homnormal: '0.1'
 homologene: 1.4.68.19.3.27
 homomorpheR: 0.2-2
 homtest: '1.0'
@@ -14449,7 +14458,7 @@ idx2r: 1.0.0
 ie2misc: 0.9.0
 ie2miscdata: 1.0.2
 ieeeround: 0.2-0
-iemisc: 0.9.9
+iemisc: 1.0.0
 iemiscdata: 0.6.1
 iemisctext: 0.9.99
 ifCNVR: 0.1.0
@@ -20499,7 +20508,7 @@ rlecuyer: 0.3-5
 rlemon: 0.2.1
 rless: 0.1.1
 rlfsm: 1.1.2
-rlibkriging: 0.7-4.2
+rlibkriging: 0.7-4.3
 rliger: 1.0.0
 rlist: 0.4.6.2
 rlm: '1.2'
@@ -20715,7 +20724,7 @@ roxygen2: 7.2.3
 roxygen2md: 1.0.0
 roxytest: 0.0.2
 royston: '1.2'
-rpact: 3.3.2
+rpact: 3.3.3
 rpanel: 1.1-5.2
 rpart: 4.1.19
 rpart.LAD: 0.1.2
@@ -22962,7 +22971,7 @@ sylly.en: 0.1-3
 sym.arma: '1.0'
 symDMatrix: 2.1.1
 symSEM: '0.1'
-symbolicDA: 0.6-3
+symbolicDA: 0.7-1
 symbols: '1.1'
 symengine: 0.2.2
 symmetry: 0.2.2
