@@ -2608,7 +2608,7 @@ GenHMM1d: 0.1.0
 GenKern: 1.2-60
 GenMarkov: 0.1.0
 GenOrd: 1.4.0
-GenSA: 1.1.7
+GenSA: 1.1.8
 GenTag: '1.0'
 GenWin: '1.0'
 GenderInfer: 0.1.0
@@ -2663,7 +2663,7 @@ GetHFData: '1.7'
 GetITRData: '0.7'
 GetLattesData: 1.4.2
 GetNenshuJP: '0.1'
-GetQuandlData: 0.1.0
+GetQuandlData: 1.0.0
 GetR: '0.1'
 GetTDData: 1.5.2
 GetoptLong: 1.0.5
@@ -4982,6 +4982,7 @@ PolycrossDesigns: 1.1.0
 PolygonSoup: 1.0.1
 PolynomF: 2.0-5
 Pomic: 1.0.4
+PoolDilutionR: 1.0.0
 PoolTestR: 0.1.3
 PooledCohort: 0.0.1
 PooledMeanGroup: '1.0'
@@ -6845,7 +6846,7 @@ SparseM: '1.81'
 SparseMDC: 0.99.5
 SparseMSE: 2.0.1
 SparseTSCGM: '4.0'
-SparseVFC: 0.1.0
+SparseVFC: 0.1.1
 SpatEntropy: 2.2-0
 SpatMCA: 1.0.2.0
 SpatPCA: 1.3.3.0
@@ -6924,6 +6925,7 @@ StatMethRank: '1.3'
 StatPerMeCo: 0.1.0
 StatRank: 0.0.6
 StatTeacherAssistant: 0.0.1
+Statamarkdown: 0.7.2
 StateTrace: '1.0'
 Statomica: '1.0'
 Statsomat: 1.1.0
@@ -6995,6 +6997,7 @@ SurfaceTortoise: 1.0.2
 Surrogate: '2.7'
 SurrogateOutcome: '1.1'
 SurrogateRegression: 0.6.0
+SurrogateRsq: 0.2.0
 SurrogateTest: '1.3'
 SurvBoost: 0.1.2
 SurvCorr: '1.1'
@@ -8346,7 +8349,7 @@ autocogs: 0.1.4
 autoencoder: '1.1'
 autoharp: 0.0.10
 autohd: 0.1.0
-autohrf: 1.1.0
+autohrf: 1.1.2
 autoimage: 2.2.3
 autokeras: 1.0.12
 automagic: 0.5.1
@@ -10947,7 +10950,7 @@ dhReg: 0.1.1
 dhga: '0.1'
 dhglm: '2.0'
 dhh: 0.0.1
-dhis2r: 0.1.0
+dhis2r: 0.1.1
 di: 1.1.4
 diagis: 0.2.2
 diagmeta: 0.5-1
@@ -11808,6 +11811,7 @@ epitab: 0.2.2
 epitable: 0.1.2
 epitools: 0.5-10.1
 epitopR: 0.1.2
+epitopeR: 1.0.0
 epitrix: 0.4.0
 epitweetr: 2.2.13
 eplusr: 0.15.3
@@ -13058,7 +13062,7 @@ generator: 0.1.0
 generics: 0.1.3
 genero: 0.1.0
 geneset: 0.2.7
-genesysr: 1.0.1
+genesysr: 1.1.0
 geneticae: 0.4.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
@@ -13454,6 +13458,7 @@ githubinstall: 0.2.2
 gitignore: 0.1.5
 gitlabr: 2.0.1
 gitlink: 0.1.3
+gitr: 0.0.1
 gittargets: 0.0.6
 gitter: '1.1'
 givitiR: '1.3'
@@ -13569,7 +13574,7 @@ gms: 0.4.0
 gmt: 2.0.3
 gmum.r: 0.2.1
 gmvalid: '1.2'
-gmvarkit: 2.0.5
+gmvarkit: 2.0.6
 gmvjoint: 0.1.0
 gmwm: 2.0.0
 gmwmx: 1.0.2
@@ -14434,7 +14439,7 @@ icesSAG: 1.4.0
 icesSD: 2.0.0
 icesTAF: 4.1.0
 icesVocab: 1.2.0
-ichimoku: 1.4.4
+ichimoku: 1.4.5
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -15990,7 +15995,7 @@ marketr: 0.0.2
 markets: 1.1.4
 markmyassignment: 0.8.6
 markophylo: 1.0.8
-markovMSM: 0.1.2
+markovMSM: 0.1.3
 markovchain: 0.9.1
 marl: '1.0'
 marmap: 1.0.9
@@ -16744,6 +16749,7 @@ modeltime.h2o: 0.1.1
 modeltime.resample: 0.2.2
 modeltools: 0.2-23
 modelwordcloud: '0.1'
+moderate.mediation: 0.0.1
 modernVA: 0.1.1
 moderndive: 0.5.5
 modes: 0.7.0
@@ -17041,7 +17047,7 @@ multilm: '0.1'
 multimark: 2.1.5
 multimix: 1.0-10
 multimode: '1.5'
-multimorbidity: 0.5.0
+multimorbidity: 0.5.1
 multinbmod: '1.0'
 multiness: 1.0.2
 multinet: 4.1.2
@@ -17486,7 +17492,7 @@ nmslibR: 1.0.7
 nmw: 0.1.4
 nnDiag: 0.0-5
 nnGarrote: 1.0.4
-nnTensor: 1.1.10
+nnTensor: 1.1.12
 nna: 0.0.2.1
 nnc: '1.14'
 nncRda: '1.87'
@@ -18034,7 +18040,7 @@ overlap: 0.3.4
 overlapping: '2.1'
 overlapptest: 1.2-4
 overture: 0.4-0
-overviewR: 0.0.11
+overviewR: 0.0.13
 owd: 1.0.6
 owdbr: 1.0.1.1
 owidR: 1.4.0
@@ -18530,7 +18536,7 @@ pheno2geno: 1.4.0
 phenoCDM: 0.1.3
 phenocamapi: 0.1.5
 phenocamr: 1.1.5
-phenofit: 0.3.7
+phenofit: 0.3.8
 phenology: '7.9'
 phenomap: 1.2.1
 phenopix: 2.4.2
@@ -19566,7 +19572,7 @@ r2mlm: 0.3.2
 r2pmml: 0.26.0
 r2pptx: 0.1.0
 r2r: 0.1.1
-r2redux: 1.0.12
+r2redux: 1.0.13
 r2resize: '1.5'
 r2rtf: 1.0.1
 r2shortcode: '0.1'
@@ -21647,7 +21653,7 @@ shinySIR: 0.1.2
 shinySearchbar: 1.0.0
 shinySelect: 1.3.0
 shinyShortcut: 0.1.0
-shinyStorePlus: '0.8'
+shinyStorePlus: '0.9'
 shinyTempSignal: 0.0.3
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
@@ -21672,7 +21678,7 @@ shinydlplot: 0.1.4
 shinydrive: 0.1.3
 shinyfilter: 0.1.1
 shinyfullscreen: 1.1.0
-shinyglide: 0.1.3
+shinyglide: 0.1.4
 shinyhelper: 0.3.2
 shinyhttr: 1.1.0
 shinyjqui: 0.4.1
@@ -22403,7 +22409,7 @@ sportyR: 2.1.0
 spotGUI: 0.2.3
 spotidy: 0.1.0
 spotifyr: 2.2.4
-spotoroo: 0.1.2
+spotoroo: 0.1.3
 spots: 0.1.0
 spp: 1.16.0
 sppmix: 1.0.2
@@ -23864,7 +23870,7 @@ tzupdater: 0.1.2
 u5mr: 0.1.1
 uCAREChemSuiteCLI: 0.2.0
 uFTIR: 0.1.4
-uGMAR: 3.4.3
+uGMAR: 3.4.4
 uHMM: '1.0'
 uaparserjs: 0.3.5
 uavRmp: 0.6.2
@@ -24638,7 +24644,7 @@ xsp: 0.1.2
 xspliner: 0.0.4
 xtable: 1.8-4
 xtal: '1.15'
-xtensor: 0.13.2-0
+xtensor: 0.14.1-0
 xterm256: 0.1-2
 xtermStyle: 3.0.5
 xtractomatic: 3.4.2
