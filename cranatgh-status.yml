@@ -1070,7 +1070,7 @@ CauchyCP: 0.1.1
 CausCor: 0.1.2
 CausalFX: 1.0.1
 CausalGAM: 0.1-4
-CausalGPS: 0.2.9
+CausalGPS: 0.3.0
 CausalImpact: 1.3.0
 CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.1
@@ -6381,7 +6381,7 @@ SHIP: 1.0.2
 SHLR: '1.0'
 SHT: 0.1.8
 SI: 0.2.0
-SIBER: 2.1.6
+SIBER: 2.1.7
 SIBERG: 2.0.3
 SID: '1.0'
 SIDES: '1.16'
@@ -8183,7 +8183,7 @@ argon2: 0.4-0
 argonDash: 0.2.0
 argonR: 0.2.0
 argosfilter: '0.70'
-argparse: 2.2.1
+argparse: 2.2.2
 argparser: 0.7.1
 argus: '0.1'
 ari: 0.3.5
@@ -9273,7 +9273,7 @@ calibrator: 1.2-8
 calidad: 0.4.0
 caliver: 2.0.0
 callr: 3.7.3
-callsync: 0.0.3
+callsync: 0.0.6
 calmate: 0.13.0
 calpassapi: 0.0.3
 camcorder: 0.1.0
@@ -10763,7 +10763,7 @@ ddsPLS: 1.1.4
 ddst: '1.4'
 deBInfer: 0.4.4
 deBif: 0.1.7
-deFit: 0.1.0
+deFit: 0.1.2
 deGradInfer: 1.0.1
 deSolve: '1.34'
 deTS: '1.0'
@@ -11793,7 +11793,7 @@ epifit: 0.1.2
 epifitter: 0.3.0
 epiflows: 0.2.0
 epigraphdb: 0.2.3
-epikit: 0.1.2
+epikit: 0.1.5
 epimdr: 0.6-5
 epimdr2: 1.0-9
 epinet: 2.1.8
@@ -12539,7 +12539,7 @@ fluxweb: 0.2.0
 flying: 0.1.3
 flyio: 0.1.4
 fm.index: 0.1.1
-fma: '2.4'
+fma: '2.5'
 fmbasics: 0.3.0
 fmcmc: 0.5-1
 fmdates: 0.1.4
@@ -12602,7 +12602,7 @@ forestRK: 0.0-5
 forestSAS: 1.0.1
 forestecology: 0.2.0
 forestinventory: 1.0.0
-forestmangr: 0.9.4
+forestmangr: 0.9.5
 forestmodel: 0.6.2
 forestplot: 3.1.1
 forestploter: 1.0.0
@@ -12620,7 +12620,7 @@ formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
 formulops: 0.5.0
-forplo: 0.2.0
+forplo: 0.2.5
 forrel: 1.4.1
 forsearch: 3.0.1
 fortunes: 1.5-4
@@ -12833,7 +12833,7 @@ gJLS2: 0.2.0
 gLRTH: 0.2.0
 gMCP: 0.8-15
 gMCPLite: 0.1.2
-gMOIP: 1.4.8
+gMOIP: 1.4.9
 gMWT: '1.2'
 gPCA: '1.0'
 gPdtest: '0.4'
@@ -13315,7 +13315,7 @@ ggisotonic: 0.1.2
 ggjoy: 0.4.1
 gglasso: '1.5'
 gglgbtq: 0.1.1
-gglm: 1.0.0
+gglm: 1.0.1
 gglogo: 0.1.5
 ggloop: 0.1.0
 gglorenz: 0.0.2
@@ -13368,7 +13368,7 @@ ggpubr: 0.6.0
 ggpval: 0.2.5
 ggquickeda: 0.2.2
 ggquiver: 0.3.2
-ggrain: 0.0.1
+ggrain: 0.0.2
 ggraph: 2.1.0
 ggraptR: '1.3'
 ggrasp: '1.2'
@@ -13398,7 +13398,7 @@ ggspectra: 0.3.10
 ggstance: 0.3.6
 ggstar: 1.0.4
 ggstats: 0.2.1
-ggstatsplot: 0.10.0
+ggstatsplot: 0.11.0
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
@@ -14587,7 +14587,7 @@ incgraph: 1.0.1
 incidence: 1.7.3
 incidence2: 1.2.3
 incidental: '0.1'
-incidentally: 1.0.1
+incidentally: 1.0.2
 inctools: 1.0.15
 incubate: 1.2.0
 indelmiss: 1.0.9
@@ -15408,7 +15408,7 @@ learningCurve: 1.1.2
 learningr: 0.29.1
 learningtower: 1.0.0
 learnr: 0.11.2
-learnrbook: 1.0.2
+learnrbook: 1.0.2-1
 learnstats: 0.1.1
 leastcostpath: 1.8.7
 ledger: 2.0.9
@@ -15592,7 +15592,7 @@ lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
 lme4: 1.1-31
-lmeInfo: 0.3.0
+lmeInfo: 0.3.1
 lmeNB: '1.3'
 lmeNBBayes: '1.3'
 lmeSplines: 1.1-12
@@ -16624,7 +16624,7 @@ mlr3cluster: 0.1.6
 mlr3data: 0.6.1
 mlr3db: 0.5.0
 mlr3fairness: 0.3.1
-mlr3filters: 0.7.0
+mlr3filters: 0.7.1
 mlr3fselect: 0.9.1
 mlr3hyperband: 0.4.4
 mlr3learners: 0.5.6
@@ -18355,7 +18355,7 @@ pcrcoal: 1.2.0
 pcrsim: 1.0.2
 pcse: 1.9.1.1
 pcsstools: 0.1.1
-pct: 0.9.7
+pct: 0.9.8
 pcts: 0.15.5
 pcurve: 0.6-4
 pcv: 1.0.1
@@ -19976,7 +19976,7 @@ rcrossref: 1.2.0
 rcrtan: 0.1.1
 rcrypt: 0.1.1
 rcss: '1.8'
-rcssci: 0.2.0
+rcssci: 0.4.0
 rct3: 1.0.4
 rcube: '0.5'
 rcure: 0.1.0
@@ -22068,7 +22068,7 @@ social: '1.0'
 socialh: 0.1.1
 socialmixr: 0.2.0
 socialranking: 0.1.2
-socialrisk: 0.5.0
+socialrisk: 0.5.1
 sociome: 2.1.0
 socviz: '1.2'
 sodavis: '1.2'
@@ -22271,7 +22271,7 @@ spatstat.geom: 3.0-6
 spatstat.gui: 3.0-1
 spatstat.linnet: 3.0-4
 spatstat.local: 5.0-1
-spatstat.model: 3.1-2
+spatstat.model: 3.2-1
 spatstat.random: 3.1-3
 spatstat.sparse: 3.0-0
 spatstat.utils: 3.0-1
@@ -23992,7 +23992,7 @@ usdc: 0.1.0
 usdm: 1.1-18
 usdoj: 1.0.0
 usedist: 0.4.0
-usedthese: 0.2.0
+usedthese: 0.3.0
 useful: 1.2.6
 usefun: 0.4.8
 usemodels: 0.2.0
@@ -24459,7 +24459,7 @@ wilcoxmed: 0.0.1
 wild1: '1.09'
 wildcard: 1.1.0
 wildlifeDI: 0.5.0
-wildmeta: 0.3.0
+wildmeta: 0.3.1
 wildpoker: '1.1'
 wildviz: 0.1.2
 wilson: 2.4.2
