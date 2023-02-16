@@ -386,7 +386,7 @@ BDgraph: '2.72'
 BE: 0.2.4
 BEACH: 1.3.1
 BEANSP: '1.0'
-BED: 1.4.11
+BED: 1.4.12
 BEDASSLE: '1.6'
 BEDMatrix: 2.0.3
 BEKKs: 1.4.1
@@ -1136,7 +1136,7 @@ ClassDiscovery: 3.4.0
 CleanBSequences: 1.4.0
 ClickClust: 1.1.5
 ClickClustCont: 0.1.7
-ClickHouseHTTP: 0.1.3
+ClickHouseHTTP: 0.3.0
 CliftLRD: 0.1-1
 ClimClass: 2.1.0
 ClimDown: 1.0.8
@@ -1449,7 +1449,7 @@ DEoptim: 2.2-8
 DEoptimR: 1.0-11
 DEploid: 0.5.3
 DFA: 0.9.0
-DFA.CANCOR: 0.2.5
+DFA.CANCOR: 0.2.7
 DFIT: '1.1'
 DGCA: 1.0.2
 DGEobj: 1.1.2
@@ -3327,7 +3327,7 @@ KrigInv: 1.4.2
 KsPlot: '1.3'
 Kurt: '1.1'
 L0Learn: 2.0.3
-L1mstate: 1.0.1
+L1mstate: '1.0'
 L1pack: 0.41-2
 L2DensityGoFtest: 0.6.0
 L2E: '2.0'
@@ -3603,7 +3603,7 @@ MARSSVRhybrid: 0.1.0
 MARVEL: 1.4.0
 MARX: '0.2'
 MASS: 7.3-58.2
-MASSExtra: 1.2.1
+MASSExtra: 1.2.2
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
 MAT: 2.3.1
@@ -3612,7 +3612,7 @@ MATTOOLS: '1.1'
 MAVE: 1.3.11
 MAVIS: '1.1'
 MAVTgsa: '1.3'
-MAZE: 0.0.1
+MAZE: 0.0.2
 MAc: '1.1'
 MAclinical: 1.0-5
 MAd: 0.8-3
@@ -4725,7 +4725,7 @@ PLSbiplot1: '0.1'
 PLSiMCpp: 1.0.4
 PLmixed: 0.1.6
 PLordprob: '1.1'
-PLreg: 0.4.0
+PLreg: 0.4.1
 PMA: 1.2.1
 PMA2: '2.1'
 PMAPscore: 0.1.1
@@ -6023,7 +6023,7 @@ Revticulate: 1.0.0
 Rexperigen: 0.2.1
 RfEmpImp: 2.1.8
 Rfacebook: 0.6.15
-Rfast: 2.0.6
+Rfast: 2.0.7
 Rfast2: 0.1.4
 Rfit: 0.24.2
 RfmriVC: '1.0'
@@ -6533,7 +6533,7 @@ SRRS: '0.1'
 SRS: 0.2.3
 SRTsim: 0.99.6
 SRTtools: 1.2.0
-SSBtools: 1.4.0
+SSBtools: 1.4.2
 SSDL: '1.1'
 SSDM: 0.2.8
 SSDforR: 1.5.28
@@ -7091,7 +7091,7 @@ TIGERr: 1.0.0
 TIMP: 1.13.6
 TITAN2: 2.4.1
 TInPosition: 0.13.6
-TKCat: 1.0.6
+TKCat: 1.0.7
 TKF: 0.0.8
 TLBC: '1.0'
 TLMoments: 0.7.5.3
@@ -7847,7 +7847,7 @@ adiv: '2.2'
 adjROC: '0.3'
 adjSURVCI: '1.0'
 adjclust: 0.6.6
-adjustedCurves: 0.9.1
+adjustedCurves: 0.10.0
 adjustedcranlogs: 0.1.0
 adk: '1.0'
 adklakedata: 0.6.1
@@ -7908,6 +7908,7 @@ agricolae: 1.3-5
 agricolaeplotr: 0.2.2
 agridat: '1.21'
 agrifeature: 1.0.3
+agriutilities: 1.0.0
 agriwater: 1.0.1
 agrmt: 1.42.8
 agroclim: 0.3.0
@@ -8108,7 +8109,7 @@ apc: 2.0.0
 apcf: 0.3.0
 apcluster: 1.4.10
 apdesign: 1.0.0
-ape: 5.6-2
+ape: '5.7'
 apercu: 0.2.4
 apex: 1.0.4
 apexcharter: 0.4.0
@@ -10167,7 +10168,7 @@ corels: 0.0.4
 corkscrew: '1.1'
 corlink: 1.0.0
 corncob: 0.3.1
-cornet: 0.0.6
+cornet: 0.0.7
 coro: 1.0.3
 coroICA: 1.0.2
 corona: 0.3.0
@@ -11999,7 +12000,7 @@ excessmort: 0.6.1
 excluder: 0.5.0
 excursions: 2.5.5
 exdex: 1.2.1
-exdqlm: 0.1.2
+exdqlm: 0.1.3
 exif: 0.1.0
 exifr: 0.3.2
 exiftoolr: 0.2.0
@@ -12517,7 +12518,7 @@ flipdownr: 0.1.1
 flippant: 1.5.3
 flipr: 0.3.2
 flipscores: 1.2.0
-float: 0.3-0
+float: 0.3-1
 flobr: 0.2.3
 flock: '0.7'
 flood: 0.1.1
@@ -12882,7 +12883,7 @@ gamblers.ruin.gameplay: 4.0.5
 gamboostLSS: 2.0-6
 gamboostMSM: 1.1.88
 gamclass: 0.62.3
-gameR: 0.0.3
+gameR: 0.0.4
 gameofthrones: 1.0.2
 games: 1.1.2
 gamesGA: 1.1.3.7
@@ -13121,7 +13122,7 @@ geoelectrics: 0.2.2
 geofabrik: 0.1.0
 geofacet: 0.2.0
 geofd: '2.0'
-geofi: 1.0.7
+geofi: 1.0.8
 geogenr: 1.0.0
 geogrid: 0.1.1
 geohash: 0.3.0
@@ -13445,7 +13446,7 @@ gimmeTools: '0.1'
 gimms: 1.2.1
 giphyr: 0.2.0
 gips: 1.0.0
-giscoR: 0.3.2
+giscoR: 0.3.3
 gistr: 0.9.0
 git2r: 0.31.0
 git2rdata: 0.4.0
@@ -14050,7 +14051,7 @@ hetsurr: '1.0'
 hett: 0.3-3
 hettest: '1.0'
 hettreatreg: 0.1.0
-hettx: 0.1.1
+hettx: 0.1.2
 hetu: 1.0.7
 heuristica: 1.0.3
 heuristicsmineR: 0.2.7
@@ -16548,7 +16549,7 @@ mixedsde: '5.0'
 mixer: '1.9'
 mixexp: 1.2.7
 mixfdr: '1.0'
-mixgb: 0.1.0
+mixgb: 1.0.2
 mixggm: '1.0'
 mixhvg: 0.1.0
 mixl: 1.3.3
@@ -17283,7 +17284,7 @@ neighbr: 1.0.3
 neldermead: 1.0-12
 nemBM: 1.00.01
 nemtr: 0.0.1.0
-neo2R: 2.1.1
+neo2R: 2.4.1
 neo4jshell: 0.1.2
 neo4r: 0.1.1
 neonOS: 1.0.0
@@ -17340,7 +17341,7 @@ netweavers: '1.1'
 network: 1.18.1
 networkABC: 0.8-1
 networkD3: '0.4'
-networkDynamic: 0.11.2
+networkDynamic: 0.11.3
 networkDynamicData: 0.2.1
 networkGen: 0.1.1
 networkLite: 1.0.1
@@ -20069,7 +20070,7 @@ readtextgrid: 0.1.1
 readthat: 0.0.1
 readwritesqlite: 0.2.0
 readxl: 1.4.2
-readxlsb: 0.1.5
+readxlsb: 0.1.6
 realTimeSurv: '1.0'
 realestateDK: 0.1.0
 realized: '1.0'
@@ -23311,6 +23312,7 @@ tibblify: 0.3.0
 tibbrConnector: 1.5.1
 tictactoe: 0.2.2
 tictoc: '1.1'
+tidyAML: 0.0.1
 tidyBF: 0.5.1
 tidyBdE: 0.3.1
 tidyCDISC: 0.2.0
@@ -24033,6 +24035,7 @@ vDiveR: 1.0.0
 vICC: 1.0.0
 vMF: 0.0.1
 vMask: '1.0'
+vaRiskScore: 1.0.0
 vabayelMix: '0.3'
 vacem: 0.1-1
 vacuum: 0.1.0
@@ -24678,7 +24681,7 @@ ycinterextra: '0.1'
 yearn: 0.1.3
 yesno: 0.1.2
 yest: '0.4'
-yfR: 1.0.6
+yfR: 1.1.0
 yhat: 2.0-3
 yhatr: 0.15.1
 ykmeans: '1.0'
