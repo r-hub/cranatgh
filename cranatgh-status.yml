@@ -256,7 +256,7 @@ AntAngioCOOL: '1.2'
 AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 3.1.0
-Anthropometry: '1.18'
+Anthropometry: '1.19'
 AntibodyTiters: 0.1.24
 AnxietySleep: 0.0.1
 Aoptbdtvc: 0.0.2
@@ -1419,7 +1419,7 @@ DCchoice: 0.1.1
 DChaos: 0.1-6
 DCluster: 0.2-8
 DClusterm: 1.0-1
-DDD: '5.0'
+DDD: 5.2.1
 DDHFm: 1.1.3
 DDIwR: '0.13'
 DDL: 1.0.1
@@ -3454,7 +3454,7 @@ LSTS: '2.1'
 LSVAR: '1.2'
 LSWPlib: 0.1.0
 LSX: 1.3.0
-LTASR: 0.1.0
+LTASR: 0.1.1
 LTPDvar: 1.2.1
 LTR: 1.0.0
 LTRCforests: 0.5.5
@@ -4168,7 +4168,7 @@ MorseGen: '1.2'
 MortCast: 2.7-0
 MortHump: '0.2'
 MortalityGaps: 1.0.0
-MortalityLaws: 1.9.4
+MortalityLaws: 1.9.9
 MortalitySmooth: '2.3'
 MortalityTables: 2.0.3
 MotilityLab: 0.2-5
@@ -6414,6 +6414,7 @@ SKAT: 2.2.5
 SKNN: '3.1'
 SLBDD: 0.0.4
 SLC: '0.3'
+SLCARE: 1.0.0
 SLDAssay: '1.8'
 SLEMI: 1.0.1
 SLFPCA: '3.0'
@@ -8755,7 +8756,7 @@ bifactorial: '1.4'
 bife: 0.7.2
 bifurcatingr: 1.0.0
 bigD: 0.2.0
-bigDM: 0.5.0
+bigDM: 0.5.1
 bigFastlm: 0.0.2
 bigGP: 0.1-7
 bigIntegerAlgos: 0.1.2
@@ -9456,7 +9457,7 @@ cdcatR: 1.0.6
 cdcfluview: 0.9.4
 cdcsis: 2.0.3
 cde: 0.4.1
-cder: 0.3-0
+cder: 0.3-1
 cdfquantreg: 1.3.1-1
 cdlTools: '0.15'
 cdlei: '1.0'
@@ -13262,7 +13263,7 @@ ggTimeSeries: 1.0.2
 ggVennDiagram: 1.2.2
 ggalignment: 1.0.1
 ggallin: 0.1.1
-ggalluvial: 0.12.4
+ggalluvial: 0.12.5
 ggalt: 0.4.0
 ggamma: 1.0.1
 gganimate: 1.0.8
@@ -13876,6 +13877,7 @@ gtfstools: 1.2.0
 gtheory: 0.1.2
 gtkDevice: 1.9-4
 gtm: '1.0'
+gto: 0.1.0
 gtools: 3.9.4
 gtop: 0.2.0
 gtreg: 0.2.0
@@ -14700,6 +14702,7 @@ integrOmics: '2.5'
 integrate: 2.2-3
 integrativeME: '1.2'
 integrativeMEdata: '1.0'
+intendo: '0.1'
 intensegRid: 0.1.2
 intensity.analysis: 0.1.6
 intensitynet: 1.3.1
@@ -14854,7 +14857,7 @@ isopam: 1.1.0
 isopat: '1.0'
 isoph: '1.1'
 isoreader: 1.3.2
-isotone: 1.1-0
+isotone: 1.1-1
 isotonic.pen: '1.0'
 isotracer: 1.1.3
 isotree: 0.5.17
@@ -15264,7 +15267,7 @@ labstatR: 1.0.13
 labstats: 1.0.1
 lacm: 0.1.1
 lacrmr: 1.0.5
-lactater: 0.1.1
+lactater: 0.1.2
 lactcurves: 1.1.0
 lacunaritycovariance: 1.1-5
 laeken: 0.5.2
@@ -15997,7 +16000,7 @@ margaret: 0.1.4
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
-marginaleffects: 0.9.0
+marginaleffects: 0.10.0
 marginalizedRisk: 2021.2-4
 marginalmodelplots: 0.4.2
 margins: 0.3.26
@@ -16553,7 +16556,7 @@ mixRasch: '1.1'
 mixRaschTools: 1.1.1
 mixSPE: 0.9.1
 mixSSG: 2.1.1
-mixbox: 1.1.1
+mixbox: 1.2.2
 mixcat: 1.0-4
 mixchar: 0.1.0
 mixcure: '2.0'
@@ -18671,7 +18674,7 @@ pirouette: 1.6.6
 pisaRT: 2.0.1
 pitchRx: 1.8.2
 piton: 1.0.0
-pivmet: 0.4.0
+pivmet: 0.5.0
 pivot: 18.4.17
 pivotaltrackR: 0.2.0
 pivottabler: 1.5.4
@@ -19474,7 +19477,7 @@ qrmtools: 0.0-16
 qrng: 0.0-8
 qrnn: 2.0.5
 qrsvm: 0.2.1
-qs: 0.25.4
+qs: 0.25.5
 qsimulatR: '1.1'
 qsort: 0.2.3
 qsplines: 1.0.0
@@ -23424,7 +23427,7 @@ tidytransit: 1.4.1
 tidytreatment: 0.2.2
 tidytree: 0.4.2
 tidytuesdayR: 1.0.2
-tidyverse: 1.3.2
+tidyverse: 2.0.0
 tidyvpc: 1.4.0
 tidywikidatar: 0.5.6
 tidyxl: 1.0.8
@@ -23790,6 +23793,7 @@ tsentiment: 1.0.5
 tseries: 0.10-53
 tseriesChaos: 0.1-13.1
 tseriesEntropy: 0.6-0
+tseriesTARMA: 0.3-1
 tsfa: 2021.1-3
 tsfeatures: '1.1'
 tsfgrnn: 1.0.2
@@ -23823,7 +23827,7 @@ ttTensor: 1.0.1
 ttbary: 0.3-1
 ttbbeer: 1.1.0
 ttcg: 1.0.1
-ttdo: 0.0.8
+ttdo: 0.0.9
 ttestshiny: 0.1.0
 tth: 4.12-0-1
 ttime: '1.2'
@@ -24551,7 +24555,7 @@ wordsalad: 0.2.0
 wordspace: 0.2-8
 workboots: 0.2.0
 workflowr: 1.7.0
-workflows: 1.1.2
+workflows: 1.1.3
 workflowsets: 1.0.0
 workloopR: 1.1.4
 worldfootballR: 0.6.2
