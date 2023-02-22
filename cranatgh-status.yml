@@ -991,7 +991,7 @@ CRM: 1.2.4
 CRMetrics: 0.2.3
 CRPClustering: '1.2'
 CRTConjoint: 0.1.0
-CRTSize: '1.1'
+CRTSize: '1.2'
 CRTgeeDR: 2.0.1
 CRUF: 0.5.1
 CRWRM: 0.0.1
@@ -1565,6 +1565,7 @@ DTDA.ni: 1.0.1
 DTK: '3.5'
 DTMCPack: 0.1-3
 DTR: '1.7'
+DTRKernSmooth: 0.1.0
 DTRlearn: '1.3'
 DTRlearn2: '1.1'
 DTRreg: '1.7'
@@ -2544,6 +2545,7 @@ GRS.test: '1.2'
 GRSxE: 1.0.0
 GRTo: '1.3'
 GRaF: 0.1-1
+GRelevance: '1.0'
 GSA: 1.03.2
 GSA.UN: 1.0.0
 GSAQ: '1.0'
@@ -2883,7 +2885,7 @@ HiDimDA: 0.2-4
 HiDimMaxStable: '0.1'
 HiLMM: '1.1'
 HiPLARM: '0.1'
-HiResTEC: '0.59'
+HiResTEC: '0.62'
 HiddenMarkov: 1.8-13
 HierDpart: 1.5.0
 HierO: '0.2'
@@ -4224,7 +4226,7 @@ MultipleBreakpoints: 0.1.0
 MultipleBubbles: 0.2.0
 MultipleRegression: 0.1.0
 MultiplierDEA: 0.1.19
-MultiscaleDTM: 0.5.5
+MultiscaleDTM: 0.6.0
 MultisiteMediation: 0.0.4
 MultivariateAnalysis: 0.4.4
 MultivariateRandomForest: 1.1.5
@@ -5866,7 +5868,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.7.2
 RcppAnnoy: 0.0.20
-RcppArmadillo: 0.11.4.4.0
+RcppArmadillo: 0.12.0.1.0
 RcppArray: 0.2.0
 RcppBDT: 0.2.6
 RcppBigIntAlgos: 1.0.1
@@ -6051,6 +6053,7 @@ RiDMC: 0.10-15
 RiboSort: '1.1'
 Ricetl: 0.2.5
 RichR: 1.0.0
+Ricrt: 0.1.0
 RidgeFusion: 1.0-3
 Ridit: '1.1'
 RiemBase: 0.2.5
@@ -6398,6 +6401,7 @@ SIMplyBee: 0.3.0
 SIN: '0.6'
 SINGLE: '1.3'
 SIPDIBGE: 0.1.8
+SIPETool: 0.1.0
 SIPmg: 1.4.1
 SIRE: 1.1.0
 SIRItoGTFS: 0.2.4
@@ -9681,7 +9685,7 @@ cladoRcpp: 0.15.1
 clam: 2.5.0
 clampSeg: 1.1-1
 clarifai: 0.4.2
-clarify: 0.1.1
+clarify: 0.1.2
 clarkeTest: 0.1.0
 class: 7.3-21
 classGraph: 0.7-5
@@ -10137,7 +10141,7 @@ convey: 0.2.5
 convoSPAT: 1.2.7
 cooccur: '1.3'
 cooccurNet: 0.1.6
-cookies: 0.2.0
+cookies: 0.2.1
 cooltools: '2.0'
 coop: 0.6-3
 coopProductGame: '2.0'
@@ -10641,6 +10645,7 @@ data360r: 1.0.9
 dataCompareR: 0.1.4
 dataMaid: 1.4.1
 dataMeta: 0.1.1
+dataMojo: 1.0.0
 dataPreparation: 1.0.5
 dataQualityR: '1.0'
 dataReporter: 1.0.2
@@ -10717,7 +10722,7 @@ db.r: 0.1.3
 dbConnect: '1.0'
 dbEmpLikeGOF: 1.2.4
 dbEmpLikeNorm: 1.0.0
-dbGaPCheckup: 1.0.1
+dbGaPCheckup: 1.0.2
 dbMC: 1.0.0
 dbWebForms: 0.1.0
 dbarts: 0.9-23
@@ -12019,7 +12024,7 @@ exdex: 1.2.1
 exdqlm: 0.1.3
 exif: 0.1.0
 exifr: 0.3.2
-exiftoolr: 0.2.0
+exiftoolr: 0.2.2
 exoplanets: 0.2.2
 exp2flux: '0.1'
 expDB: 0.1.0
@@ -12044,6 +12049,7 @@ expoRkit: '0.9'
 expoTree: 1.0.1
 export: 0.3.0
 expose: 0.0.3
+expowo: '1.0'
 expp: 1.2.5
 expperm: '1.6'
 exprso: 0.5.1
@@ -12423,6 +12429,7 @@ finalfit: 1.0.6
 finalsize: '0.1'
 financial: '0.2'
 finbif: 0.7.2
+finbipartite: 0.1.0
 finch: 0.4.0
 findInFiles: 0.4.0
 findInGit: 0.1.1
@@ -14299,7 +14306,7 @@ hybridEnsemble: 1.7.8
 hybridHclust: 1.0-5
 hybridModels: 0.3.7
 hybridogram: 0.3.2
-hyd1d: 0.4.1
+hyd1d: 0.4.2
 hydflood: 0.5.2
 hydra: 0.1.0
 hydraulics: 0.6.1
@@ -15054,7 +15061,7 @@ kableExtra: 1.3.4
 kader: 0.0.8
 kaigiroku: '0.5'
 kairos: 1.2.0
-kalmanfilter: 2.0.0
+kalmanfilter: 2.0.1
 kamila: 0.1.2
 kangar00: 1.4.1
 kantorovich: 3.0.1
@@ -15131,7 +15138,7 @@ kibior: 0.1.1
 kidney.epi: 1.2.0
 kidsides: 0.4.1
 kim: 0.5.55
-kimfilter: 1.0.0
+kimfilter: 1.0.1
 kimisc: '0.4'
 kin.cohort: '0.7'
 kindisperse: 0.10.2
@@ -16536,7 +16543,7 @@ missSOM: 1.0.1
 missingHE: 1.4.1
 missoNet: 1.0.0
 mistat: 2.0.4
-mistr: 0.0.5
+mistr: 0.0.6
 mistral: 2.2.1
 misty: 0.4.7
 mitml: 0.4-4
@@ -17011,7 +17018,7 @@ mueRelativeRisk: 0.1.1
 mugnet: 1.02.0
 muhaz: 1.2.6.4
 muir: 0.1.0
-mully: 2.1.34
+mully: 2.1.38
 mulset: 1.0.0
 multDM: 1.1.4
 multIntTestFunc: 0.1.1
@@ -17795,6 +17802,7 @@ ofw: 1.0-0
 oglmx: 3.0.0.0
 ohenery: 0.1.1
 ohoegdm: 0.1.0
+ohsome: 0.2.1
 ohtadstats: 2.1.1
 ohun: 0.1.0
 oii: 1.0.2.1
@@ -18386,7 +18394,7 @@ pcurve: 0.6-4
 pcv: 1.0.1
 pdR: '1.8'
 pdSpecEst: 1.2.4
-pda: 1.0-2
+pda: 1.2.5
 pdc: 1.0.3
 pder: 1.0-2
 pdfCluster: 1.0-4
@@ -20881,7 +20889,7 @@ rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.24.0
 rscproxy: 2.0-5
-rsdNE: 1.0.0
+rsdNE: 1.1.0
 rsdepth: 0.1-22
 rsdmx: 0.6-2
 rsed: 0.1.2
@@ -21563,6 +21571,7 @@ sessioninfo: 1.2.2
 set: '1.2'
 set6: 0.2.4
 setRNG: 2022.4-1
+setartree: 0.1.0
 sets: 1.0-22
 setter: 0.0-1
 settings: 0.2.7
@@ -21827,6 +21836,7 @@ simcdm: 0.1.1
 simco: '1.0'
 simcross: 0.3-6
 simctest: '2.6'
+simdd: 1.1-1
 simdistr: 1.0.1
 simecol: 0.8-14
 simer: 0.9.0.2
@@ -24657,6 +24667,7 @@ xmlconvert: 0.1.2
 xmlparsedata: 1.0.5
 xmlr: 0.1.2
 xmlrpc2: '1.1'
+xmpdf: 0.1.1
 xmrr: 1.1.1
 xnet: 0.1.11
 xoi: '0.70'
