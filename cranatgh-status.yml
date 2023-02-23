@@ -1121,7 +1121,7 @@ CircOutlier: 3.2.3
 CircSpaceTime: 0.9.0
 CircSpatial: '1.0'
 CircStats: 0.2-6
-CirclesIntersections: '1.0'
+CirclesIntersections: '1.1'
 CircularDDM: 0.1.0
 CircularSilhouette: 0.0.1
 Cite: 0.1.0
@@ -1558,7 +1558,7 @@ DT: '0.27'
 DTAT: 0.3-4
 DTAXG: 0.1.0
 DTAplots: 1.0.2.5
-DTComPair: 1.0.3
+DTComPair: 1.1.0
 DTDA: 3.0.1
 DTDA.cif: 1.0.2
 DTDA.ni: 1.0.1
@@ -3000,7 +3000,7 @@ IDmining: 1.0.7
 IETD: 1.0.0
 IFAA: 1.1.2
 IFC: 0.2.0
-IFMCDM: 0.1.15
+IFMCDM: 0.1.17
 IFP: 0.2.4
 IFSPlot: '1.0'
 IGCities: 0.2.0
@@ -3970,7 +3970,7 @@ MasterBayes: '2.58'
 MatManlyMix: 1.1.1
 MatSkew: 0.1.5
 MatTransMix: 0.1.9
-MatchIt: 4.5.0
+MatchIt: 4.5.1
 MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
 MatchItSE: '1.0'
@@ -4451,7 +4451,7 @@ OBMbpkg: 1.0.0
 OBRE: 0.1-0
 OBsMD: '6.1'
 OCA: '0.5'
-OCNet: 0.6.0
+OCNet: 0.7.0
 OCSdata: 1.0.2
 ODB: 1.2.1
 ODEnetwork: 1.3.2
@@ -7926,7 +7926,7 @@ agrostab: 0.1.0
 ags: 1.0.1
 agsemisc: 1.3-1
 agtboost: 0.9.3
-agua: 0.1.1
+agua: 0.1.2
 agvgd: 0.1.2
 ahMLE: 1.20.1
 ahaz: '1.15'
@@ -10897,6 +10897,7 @@ descomponer: '1.6'
 descr: 1.1.5
 describedata: 0.1.0
 describer: 0.2.0
+descriptio: '1.0'
 description: 1.0.0
 descriptr: 0.5.2
 descstat: 0.1-2
@@ -10942,7 +10943,7 @@ dfConn: 0.2.1
 dfadjust: 1.0.4
 dfcomb: 3.1-1
 dfcrm: 0.2-2.1
-dfdr: 0.1.0
+dfdr: 0.2.0
 dfexplore: '0.2'
 dfidx: 0.0-5
 dfmeta: 1.0.0
@@ -13163,7 +13164,7 @@ geomedb: 2.0.1
 geomerge: 0.3.3
 geometa: 0.7-1
 geometr: 0.2.9
-geometries: 0.2.0
+geometries: 0.2.1
 geometry: 0.4.7
 geomnet: 0.3.1
 geomorph: 4.0.5
@@ -15337,7 +15338,7 @@ latticeDensity: 1.2.6
 latticeExtra: 0.6-30
 latticedl: '1.2'
 latticist: 0.9-44
-lava: 1.7.1
+lava: 1.7.2
 lava.tobit: '0.5'
 lavaSearch2: 1.5.6
 lavaan: 0.6-14
@@ -16213,6 +16214,7 @@ mecdf: 0.6.1
 mechkar: 1.14.6
 meconetcomp: 0.2.0
 mecor: 1.0.0
+mecoturn: 0.1.0
 medAdherence: '1.03'
 medExtractR: 0.4.1
 medSTC: 1.0.0
@@ -17166,7 +17168,7 @@ mvmesh: '1.6'
 mvmeta: 1.0.3
 mvnTest: 1.1-0
 mvna: 2.0.1
-mvnfast: 0.2.7
+mvnfast: 0.2.8
 mvngGrAd: 0.1.5
 mvnimpute: 1.0.1
 mvnmle: 0.1-8
@@ -18442,7 +18444,7 @@ pedquant: 0.2.1
 pedsuite: 1.1.0
 pedtools: 2.1.1
 peermodels: 0.10.3
-pegas: '1.1'
+pegas: '1.2'
 pell: 0.1.0
 pema: 0.1.2
 pems.utils: 0.2.29.1
@@ -19395,6 +19397,7 @@ qGaussian: 0.1.8
 qLearn: '1.0'
 qMRI: '1.2'
 qPCR.CT: '1.1'
+qPCRhelper: 0.1.0
 qPCRtools: 0.2.1
 qVarSel: '1.0'
 qacBase: 1.0.3
@@ -21039,7 +21042,7 @@ rvg: 0.3.2
 rvgtest: 0.7.4
 rviewgraph: 1.4.1
 rvif: '1.0'
-rvinecopulib: 0.6.3.1.0
+rvinecopulib: 0.6.3.1.1
 rvkstat: 3.2.0
 rvmbinary: '1.0'
 rvmethod: 0.1.2
@@ -22631,6 +22634,7 @@ statgenGxE: 1.0.5
 statgenHTP: 1.0.6
 statgenIBD: 1.0.5
 statgenMPP: 1.0.2
+statgenQTLxT: 1.0.0
 statgenSTA: 1.0.11
 static: 0.1.0
 stationaRy: 0.5.1
@@ -23124,6 +23128,7 @@ tailloss: '1.0'
 tailr: 0.1.3
 taipan: 0.1.2
 takos: 0.2.0
+tame: 0.0.1
 tanaka: 0.3.0
 tangles: 0.8.1
 tangram: 0.8.2
@@ -23376,7 +23381,7 @@ tidycat: 0.1.2
 tidycells: 0.2.2
 tidycensus: 1.3.2
 tidycharts: 0.1.3
-tidyclust: 0.1.1
+tidyclust: 0.1.2
 tidycmprsk: 0.2.0
 tidycode: 0.1.1
 tidycomm: 0.2.1
@@ -23667,6 +23672,7 @@ transform.hazards: 0.1.0
 transformmos: 0.1.0
 transformr: 0.1.4
 translate: '0.1'
+translate.logit: '1.0'
 translateR: '1.0'
 translateSPSS2R: 1.0.0
 translated: 0.1.0
@@ -24570,6 +24576,7 @@ workflowsets: 1.0.0
 workloopR: 1.1.4
 worldfootballR: 0.6.2
 worldmet: 0.9.7
+worldriskpollr: 0.7.0
 worms: 0.2.2
 worrms: 0.4.2
 worrrd: 0.1.0
