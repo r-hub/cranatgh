@@ -3698,7 +3698,7 @@ MEET: '5.1'
 MEGENA: 1.3.7
 MEMSS: 0.9-3
 MEPDF: '3.0'
-MERO: 0.1.1
+MERO: 0.1.2
 MESS: 0.5.9
 MEWMA: '1.0'
 MEclustnet: 1.2.2
@@ -5302,6 +5302,7 @@ RCzechia: 1.10.1
 RDF: '1.1'
 RDFTensor: '1.3'
 RDIDQ: '1.0'
+RDM: 0.1.1
 RDML: '1.0'
 RDP: 0.2.3
 RDS: 0.9-6
@@ -7199,7 +7200,7 @@ TT: '0.98'
 TTAinterfaceTrendAnalysis: 1.5.8
 TTCA: 0.1.1
 TTR: 0.24.3
-TTS: '1.0'
+TTS: '1.1'
 TTmoment: '1.0'
 TUFLOWR: 0.1.0
 TULIP: 1.0.2
@@ -8640,7 +8641,7 @@ bdc: 1.1.2
 bdchecks: 0.1.7
 bdclean: 0.1.15
 bde: 1.0.1.1
-bdl: 1.0.4
+bdl: 1.0.5
 bdlp: 0.9-2
 bdoc: '1.2'
 bdots: 1.2.5
@@ -10742,7 +10743,7 @@ dbnR: 0.7.8
 dbnlearn: 0.1.0
 dbparser: 1.2.0
 dbplot: 0.3.3
-dbplyr: 2.3.0
+dbplyr: 2.3.1
 dbscan: 1.1-11
 dbstats: 2.0.1
 dbx: 0.2.8
@@ -12268,7 +12269,7 @@ fastkmedoids: '1.2'
 fastlogitME: 0.1.0
 fastlogranktest: 0.2.1
 fastmaRching: 1.1.0
-fastmap: 1.1.0
+fastmap: 1.1.1
 fastmatch: 1.1-3
 fastmatrix: 0.4-1245
 fastmit: 0.1.1
@@ -12726,7 +12727,7 @@ freqpcr: 0.4.0
 freqtables: 0.1.1
 frequencies: 0.1.1
 frequency: 0.4.1
-frequencyConnectedness: 0.2.3
+frequencyConnectedness: 0.2.4
 frequentdirections: 0.1.0
 frequentistSSD: 0.1.1
 freqweights: 1.0.4
@@ -12829,7 +12830,7 @@ futility: '0.4'
 future: 1.31.0
 future.BatchJobs: 0.17.0
 future.apply: 1.10.0
-future.batchtools: 0.11.0
+future.batchtools: 0.12.0
 future.callr: 0.8.1
 future.tests: 0.5.0
 futureheatwaves: 1.0.3
@@ -13542,9 +13543,9 @@ glmmSeq: 0.5.5
 glmmTMB: 1.1.5
 glmmboot: 0.6.0
 glmmfields: 0.1.4
-glmmrBase: 0.2.4
+glmmrBase: 0.2.5
 glmmrMCML: 0.2.2
-glmmrOptim: 0.2.2
+glmmrOptim: 0.2.3
 glmmsr: 0.2.3
 glmnet: 4.1-6
 glmnetSE: 0.0.1
@@ -15159,7 +15160,7 @@ kirby21.base: 1.7.3
 kirby21.fmri: 1.7.0
 kirby21.t1: 1.7.0
 kissmig: 1.0-4
-kit: 0.0.12
+kit: 0.0.13
 kitagawa: 3.1.0
 kittyR: 1.1.0
 kiwisR: 0.2.0
@@ -16328,6 +16329,7 @@ metaheur: 0.2.0
 metaheuristicOpt: 2.0.0
 metajam: 0.2.3
 metalite: 0.1.1
+metalite.ae: 0.1.1
 metamedian: 0.1.6
 metamer: 0.3.0
 metamicrobiomeR: '1.2'
@@ -17519,7 +17521,7 @@ nlts: 1.0-2
 nmaINLA: 1.1.0
 nmadb: 1.2.0
 nmaplateplot: 1.0.1
-nmarank: 0.2-3
+nmarank: 0.3-0
 nmathresh: 0.1.6
 nmcdr: 0.3.0
 nmfem: 1.0.5
@@ -19497,7 +19499,7 @@ qs: 0.25.5
 qsimulatR: '1.1'
 qsort: 0.2.3
 qsplines: 1.0.0
-qspray: 1.0.0
+qspray: 1.1.0
 qst: 0.1.2
 qsub: 1.1.3
 qtbase: 1.0.9
@@ -21434,7 +21436,7 @@ securitytxt: 0.1.1
 sedproxy: 0.7.3
 see: 0.7.4
 seeclickfixr: 1.1.0
-seecolor: 0.1.0
+seecolor: 0.2.0
 seedCCA: '3.1'
 seededlda: 0.8.2
 seedr: 0.3.0
@@ -21680,7 +21682,7 @@ shinyEffects: 0.2.0
 shinyEventLogger: 0.1.1
 shinyFeedback: 0.4.0
 shinyFiles: 0.9.3
-shinyGizmo: '0.4'
+shinyGizmo: 0.4.1
 shinyGovstyle: 0.0.8
 shinyHeatmaply: 0.2.0
 shinyHugePlot: 0.2.2
@@ -22738,6 +22740,7 @@ stocks: 1.1.4
 stoichcalc: 1.1-4
 stokes: 1.1-6
 stopdetection: 0.1.1
+stopp: 0.1.0
 stoppingrule: 0.1.0
 stops: 1.0-1
 stopwords: '2.3'
@@ -24053,7 +24056,7 @@ usdc: 0.1.0
 usdm: 1.1-18
 usdoj: 1.0.0
 usedist: 0.4.0
-usedthese: 0.3.0
+usedthese: 0.3.1
 useful: 1.2.6
 usefun: 0.4.8
 usemodels: 0.2.0
