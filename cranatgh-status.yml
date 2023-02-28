@@ -129,7 +129,7 @@ ARHT: 0.1.0
 ARIMAANN: 0.1.0
 ARIbrain: '0.2'
 AROC: 1.0-4
-ARPALData: 1.2.3
+ARPALData: 1.3.0
 ARPobservation: 1.2.1
 ART: '1.0'
 ARTIVA: '1.2'
@@ -3202,7 +3202,7 @@ J4R: 1.0.8
 JADE: 2.0-3
 JAGUAR: 3.0.1
 JASPAR: 0.0.1
-JATSdecoder: 1.1.1
+JATSdecoder: 1.1.2
 JBTools: 0.7.2.9
 JBrowseR: 0.9.1
 JCRImpactFactor: 1.0.0
@@ -4522,7 +4522,7 @@ Ohmage: '2.9'
 OjaNP: 1.0-0
 OkNNE: 1.0.1
 OligoSpecificitySystem: '1.3'
-OlinkAnalyze: 3.3.0
+OlinkAnalyze: 3.3.1
 OmegaG: 1.0.1
 OmicInt: 1.1.7
 OmicKriging: 1.4.0
@@ -5061,7 +5061,7 @@ ProfileLikelihood: '1.2'
 ProfoundData: 0.2.1
 ProgGUIinR: 0.0-4
 ProjectManagement: 1.4.7
-ProjectTemplate: 0.10.2
+ProjectTemplate: 0.10.3
 ProjectionBasedClustering: 1.1.8
 ProliferativeIndex: 1.0.1
 PropCIs: 0.3-0
@@ -5915,7 +5915,7 @@ RcppMsgPack: 0.2.3
 RcppNLoptExample: 0.0.1
 RcppNumerical: 0.5-0
 RcppOctave: '0.9'
-RcppParallel: 5.1.6
+RcppParallel: 5.1.7
 RcppProgress: 0.4.2
 RcppQuantuccia: 0.1.1
 RcppRedis: 0.2.2
@@ -7071,7 +7071,7 @@ TCC: 1.1.3
 TCGA2STAT: '1.2'
 TCGAretriever: '1.5'
 TCIApathfinder: 1.0.6
-TCIU: 1.2.1
+TCIU: 1.2.2
 TDA: '1.9'
 TDAkit: 0.1.2
 TDAmapper: '1.0'
@@ -7281,7 +7281,7 @@ ThreeWiseMonkeys: 0.1.0
 Thresher: 1.1.3
 ThresholdROC: 2.9.0
 ThresholdROCsurvival: 1.0.3
-TiPS: 1.2.1
+TiPS: 1.2.2
 TickExec: '1.1'
 TiddlyWikiR: 1.0.1
 TideCurves: 0.0.5
@@ -8175,7 +8175,7 @@ arakno: 1.3.0
 aratio: '1.2'
 arc: '1.3'
 archdata: 1.2-1
-archeoViz: 0.2.2
+archeoViz: 1.0.0
 archeofrag: 0.8.2
 archetypal: 1.3.0
 archetyper: 0.1.0
@@ -8493,7 +8493,7 @@ barplot3d: 1.0.1
 barsurf: 0.7.0
 bartBMA: '1.0'
 bartCause: 1.0-6
-bartMachine: 1.3.3
+bartMachine: 1.3.3.1
 bartMachineJARs: 1.2.1
 bartcs: 0.1.2
 basad: 0.3.0
@@ -8612,7 +8612,7 @@ bbo: '0.2'
 bbotk: 0.7.2
 bbreg: 2.0.2
 bbricks: 0.1.4
-bbsBayes: 2.5.2
+bbsBayes: 2.5.3
 bbw: 0.2.0
 bc3net: 1.0.4
 bcROCsurface: 1.0-5
@@ -11035,7 +11035,7 @@ diffr: '0.1'
 diffractometry: 0.1-8
 diffrprojects: 0.1.14
 diffrprojectswidget: 0.1.5
-diffudist: 1.0.0
+diffudist: 1.0.1
 diffusion: 0.2.7
 diffusionMap: 1.2.0
 diffusr: 0.1.4
@@ -11103,7 +11103,7 @@ disk.frame: 0.8.0
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
 dismo: 1.3-9
-disordR: 0.0-9-4
+disordR: '0.9'
 disp2D: '1.0'
 dispRity: 1.7.0
 disparityfilter: 2.2.3
@@ -11570,7 +11570,7 @@ ecotoxicology: 1.0.1
 ecotraj: 0.0.3
 ecoval: 1.2.9
 ecp: 3.1.3
-ecpc: '3.1'
+ecpc: 3.1.1
 ecr: 2.1.0
 ectotemp: 0.2.0
 ed50: 0.1.1
@@ -12300,7 +12300,7 @@ fbRads: '0.2'
 fbRanks: '2.0'
 fbar: 0.6.0
 fbati: 1.0-7
-fbnet: 1.0.1
+fbnet: 1.0.2
 fbroc: 0.4.1
 fbst: '2.1'
 fc: 0.1.0
@@ -12613,11 +12613,11 @@ foqat: 2.0.7.1
 forImage: 0.1.0
 forams: 2.0-5
 forcats: 1.0.0
-forceR: 1.0.15
+forceR: 1.0.18
 foreSIGHT: 1.1.0
 foreach: 1.5.2
 forecTheta: 2.6.2
-forecast: '8.20'
+forecast: '8.21'
 forecastHybrid: 5.0.19
 forecastML: 0.9.0
 forecastSNSTS: 1.3-0
@@ -12657,6 +12657,7 @@ formulops: 0.5.0
 forplo: 0.2.5
 forrel: 1.4.1
 forsearch: 3.2.0
+forstringr: 0.0.1
 fortunes: 1.5-4
 forward: 1.0.6
 forwards: 0.1.3
@@ -12664,6 +12665,7 @@ fossil: 0.4.0
 fossilbrush: 1.0.3
 foster: 0.1.1
 foto: 1.0.0
+foundry: 0.12.0
 fourPNO: 1.1.0
 fourierin: 0.2.4
 fpCompare: 0.2.4
@@ -13254,7 +13256,7 @@ gfilinreg: 2.0.1
 gfilmm: 2.0.5
 gfilogisreg: 1.0.2
 gfmR: 1.1-0
-gfoRmula: 1.0.1
+gfoRmula: 1.0.2
 gfonts: 0.2.0
 gfpop: 1.1.0
 gg.gap: '1.3'
@@ -14320,7 +14322,7 @@ hybridEnsemble: 1.7.8
 hybridHclust: 1.0-5
 hybridModels: 0.3.7
 hybridogram: 0.3.2
-hyd1d: 0.4.2
+hyd1d: 0.4.3
 hydflood: 0.5.2
 hydra: 0.1.0
 hydraulics: 0.6.1
@@ -14789,7 +14791,7 @@ ionr: 0.3.0
 iopsych: 0.90.1
 iosmooth: '0.94'
 iotables: 0.9.1
-iotarelr: 0.1.3
+iotarelr: 0.1.4
 iotools: 0.3-2
 ip2location: 8.1.2
 ip2proxy: 1.2.0
@@ -16337,7 +16339,7 @@ metaheuristicOpt: 2.0.0
 metajam: 0.2.3
 metalite: 0.1.1
 metalite.ae: 0.1.1
-metamedian: 0.1.6
+metamedian: 1.0.0
 metamer: 0.3.0
 metamicrobiomeR: '1.2'
 metamisc: 0.4.0
@@ -16681,7 +16683,7 @@ mlr3oml: 0.7.0
 mlr3pipelines: 0.4.2
 mlr3proba: 0.4.9
 mlr3shiny: 0.2.0
-mlr3spatial: 0.3.1
+mlr3spatial: 0.4.0
 mlr3spatiotempcv: 2.0.3
 mlr3tuning: 0.17.2
 mlr3tuningspaces: 0.3.3
@@ -18143,12 +18145,12 @@ packagetrackr: 0.1.1
 packcircles: 0.3.5
 packdep: 0.3.1
 packer: 0.1.3
-packrat: 0.9.0
+packrat: 0.9.1
 pacman: 0.5.1
 paco: 0.4.2
 pacose: '1.4'
 pacotest: 0.4.2
-pacs: 0.4.8
+pacs: 0.4.10
 pact: 0.5.0
 pacviz: 1.0.2
 padr: 0.6.2
@@ -19124,7 +19126,7 @@ presens: 2.1.0
 presenter: 0.1.2
 presentes: 0.1.0
 preseqR: 4.0.0
-presize: 0.3.3
+presize: 0.3.7
 presmTP: 1.1.0
 press: '2.0'
 pressData: '2.0'
@@ -19392,7 +19394,7 @@ pwrFDR: 2.8.9
 pwrRasch: 0.1-2
 pwrss: 0.2.0
 pwt: 7.1-1
-pwt10: 10.0-0
+pwt10: 10.01-0
 pwt8: 8.1-1
 pwt9: 9.1-0
 pxR: 0.42.7
@@ -19505,7 +19507,7 @@ qrsvm: 0.2.1
 qs: 0.25.5
 qsimulatR: '1.1'
 qsort: 0.2.3
-qsplines: 1.0.0
+qsplines: 1.0.1
 qspray: 1.1.1
 qst: 0.1.2
 qsub: 1.1.3
@@ -20928,6 +20930,7 @@ rslurm: 0.6.2
 rsm: 2.10.3
 rsmatrix: 0.2.4
 rsml: '1.3'
+rsnell: '0.1'
 rsnps: 0.5.0.0
 rsoi: 0.5.5
 rsolr: 0.0.13
@@ -21146,6 +21149,7 @@ saeHB.ZIB: 0.1.1
 saeHB.gpois: 0.1.1
 saeHB.hnb: 0.1.2
 saeHB.panel: 0.1.1
+saeHB.panel.beta: 0.1.0
 saeHB.spatial: 0.1.0
 saeHB.twofold: 0.1.1
 saeHB.zinb: 0.1.1
@@ -21647,7 +21651,7 @@ shapeR: 1.0-1
 shapefiles: 0.7.2
 shapes: 1.2.7
 shapper: 0.1.3
-shapr: 0.2.0
+shapr: 0.2.1
 shapviz: 0.5.0
 shar: 2.0.2
 sharp: 1.3.0
@@ -23278,6 +23282,7 @@ testthis: 1.1.1
 testtwice: 1.0.3
 tetraclasse: 0.1.21
 tetragon: 1.3.0
+tetrascatt: 0.1.0
 texPreview: 2.0.0
 texmex: 2.4.8
 texmexseq: '0.3'
