@@ -463,7 +463,7 @@ BNPTSclust: '2.0'
 BNPdensity: 2021.5.4
 BNPmix: 1.0.2
 BNSL: 0.1.4
-BNSP: 2.2.0
+BNSP: 2.2.1
 BNrich: 0.1.1
 BOG: '2.0'
 BOIN: 2.7.2
@@ -1142,7 +1142,7 @@ ClimClass: 2.1.0
 ClimDown: 1.0.8
 ClimInd: 0.1-3
 ClimMobTools: '0.6'
-ClimProjDiags: 0.2.1
+ClimProjDiags: 0.3.0
 ClinReport: 0.9.1.8
 ClinSigMeasures: '1.0'
 ClinicalRobustPriors: 2.1-2
@@ -2303,7 +2303,7 @@ ForecastCombinations: '1.1'
 ForecastFramework: 0.9.0
 ForecastTB: 1.0.1
 ForestDisc: 0.1.0
-ForestFit: 1.2.3
+ForestFit: 2.2.3
 ForestGapR: 0.1.6
 ForestTools: 0.2.5
 FormShare: 1.0.1
@@ -4029,7 +4029,7 @@ Mestim: 0.2.1
 MetABEL: 0.2-0
 MetAlyzer: 0.1.0
 MetBrewer: 0.2.0
-MetChem: '0.2'
+MetChem: '0.3'
 MetFns: 3.2.2
 MetGen: '0.5'
 MetNorm: '0.1'
@@ -8291,7 +8291,7 @@ assignR: 2.2.1
 assist: 3.1.8
 assocInd: 1.0.1
 assortnet: '0.20'
-ast2ast: 0.2.1
+ast2ast: 0.3.0
 asteRisk: 1.4.3
 aster: 1.1-2
 aster2: '0.3'
@@ -9681,7 +9681,7 @@ citrus: 1.0.2
 ciu: 0.6.0
 ciuupi: 1.1.0
 ciuupi2: 1.0.1
-civis: 3.1.0
+civis: 3.1.1
 cjar: 0.1.2
 cjbart: 0.2.2
 cjoint: 2.1.0
@@ -9697,7 +9697,7 @@ clarify: 0.1.2
 clarkeTest: 0.1.0
 class: 7.3-21
 classGraph: 0.7-5
-classInt: 0.4-8
+classInt: 0.4-9
 classPP: '1.0'
 classiFunc: 0.1.1
 classifierplots: 1.4.0
@@ -11952,7 +11952,7 @@ etree: 0.1.0
 etrm: 1.0.1
 etrunct: '0.1'
 etseed: 0.1.0
-etwfe: 0.3.0
+etwfe: 0.3.1
 eudract: 0.10.1
 eulerian: '1.0'
 eulerr: 7.0.0
@@ -12655,7 +12655,7 @@ formulaic: 0.0.8
 formulize: 0.1.0
 formulops: 0.5.0
 forplo: 0.2.5
-forrel: 1.4.1
+forrel: 1.5.0
 forsearch: 3.2.0
 forstringr: 0.0.1
 fortunes: 1.5-4
@@ -13176,7 +13176,7 @@ geomedb: 2.0.1
 geomerge: 0.3.3
 geometa: 0.7-1
 geometr: 0.2.9
-geometries: 0.2.1
+geometries: 0.2.2
 geometry: 0.4.7
 geomnet: 0.3.1
 geomorph: 4.0.5
@@ -14033,7 +14033,7 @@ hdi: 0.1-9
 hdiVAR: 1.0.1
 hdlm: 1.3.1
 hdm: 0.3.1
-hdme: 0.5.0
+hdme: 0.5.1
 hdmed: 1.0.0
 hdnom: 6.0.1
 hdpGLM: 1.0.2
@@ -16293,7 +16293,7 @@ met: 0.1.0
 metR: 0.13.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
-meta: 6.2-0
+meta: 6.2-1
 meta.shrinkage: 0.1.3
 meta4diag: 2.1.1
 metaBLUE: 1.0.0
@@ -16356,7 +16356,7 @@ metapower: 0.2.2
 metapro: 1.5.8
 metaprotr: 1.2.2
 metarep: '1.1'
-metasens: 1.5-1
+metasens: 1.5-2
 metatest: 1.0-5
 metathis: 1.1.2
 metatools: 0.1.4
@@ -16856,7 +16856,7 @@ moose: 0.0.1
 mopa: 1.0.1
 mopac: 0.1.0
 mopsocd: 0.5.1
-moranajp: 0.9.5
+moranajp: 0.9.6
 moreparty: '0.3'
 morgenstemning: '1.0'
 morph: 1.1.0
@@ -18905,7 +18905,7 @@ polimetrics: 1.2.1.14
 poliscidata: 2.3.0
 polished: 0.8.1
 polite: 0.1.2
-politeness: 0.8.8
+politeness: 0.8.9
 politicaldata: 0.1.3
 polle: '1.2'
 pollen: 0.82.0
@@ -19273,7 +19273,7 @@ proxirr: '0.2'
 proxy: 0.4-27
 proxyC: 0.3.3
 prozor: 0.3.1
-prqlr: 0.2.0
+prqlr: 0.2.1
 prrd: 0.0.5
 prt: 0.1.5
 pryr: 0.1.6
@@ -20668,7 +20668,7 @@ roads: 1.1.0
 roahd: 1.4.3
 robCompositions: 2.3.1
 robFitConGraph: 0.4.1
-robber: 0.2.2
+robber: 0.2.3
 robcbi: 1.1-3
 robcor: 0.1-6.1
 robcp: 0.3.7
@@ -22353,7 +22353,7 @@ spcosa: 0.4-1
 spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
-spdep: 1.2-7
+spdep: 1.2-8
 spdl: 0.0.4
 spdownscale: 0.1.0
 spdplyr: 0.4.0
@@ -22856,7 +22856,7 @@ subtee: 1.0.1
 subtype: '1.0'
 success: 1.0.0
 sudachir: 0.1.0
-suddengains: 0.6.1
+suddengains: 0.7.2
 sudoku: '2.8'
 sudokuAlt: 0.2-1
 sudokuplus: '1.0'
@@ -24294,7 +24294,7 @@ visualR: 2.0.2
 visualizationTools: '0.2'
 visualize: 4.4.0
 visualpred: 0.1.0
-visvow: 1.3.5
+visvow: 1.3.6
 visxhclust: 1.0.0
 vita: 1.0.0
 vitae: 0.5.2
