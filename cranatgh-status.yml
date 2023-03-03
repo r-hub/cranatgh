@@ -4269,6 +4269,7 @@ NBShiny2: 0.1.0
 NBShiny3: 0.1.0
 NCA: 3.3.1
 NCBI2R: 1.4.7
+NCC: '1.0'
 NCSCopula: 1.0.1
 NCSampling: '1.0'
 NCmisc: 1.2.0
@@ -5040,7 +5041,7 @@ PresenceAbsence: 1.1.11
 PressPurt: 1.0.2
 PrettyCols: 1.0.1
 PrevMap: 1.5.4
-PriceIndices: 0.1.4
+PriceIndices: 0.1.5
 PriorCD: 0.1.0
 PriorGen: 1.1.2
 PrivateLR: 1.2-22
@@ -5329,7 +5330,7 @@ REAT: 3.0.3
 REBayes: '2.51'
 RECA: '1.7'
 RECSO: '1.0'
-REDCapDM: 0.3.0
+REDCapDM: 0.4.0
 REDCapExporter: 0.2.2
 REDCapR: 1.1.0
 REDCapTidieR: 0.2.0
@@ -9586,7 +9587,7 @@ chantrics: 1.0.0
 charlatan: 0.5.0
 charlson: '1.0'
 chartql: 0.1.0
-chatgpt: 0.1.5
+chatgpt: 0.2.0
 cheatR: 1.2.1
 cheatmap: 1.0.0
 cheatsheet: 0.1.1
@@ -11933,7 +11934,7 @@ eshrink: 0.1.2
 esmisc: 0.0.3
 esmprep: 0.2.0
 esotericR: '1.0'
-espadon: 1.2.0
+espadon: 1.3.1
 esquisse: 1.1.2
 esreg: 0.6.0
 ess: 1.1.2
@@ -13114,7 +13115,7 @@ genesysr: 1.1.0
 geneticae: 0.4.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
-genieBPC: 1.0.1
+genieBPC: 1.1.0
 genieclust: 1.1.3
 genio: 1.1.2
 genius: 2.2.3
@@ -13418,7 +13419,7 @@ ggpubr: 0.6.0
 ggpval: 0.2.5
 ggquickeda: 0.2.2
 ggquiver: 0.3.2
-ggrain: 0.0.2
+ggrain: 0.0.3
 ggraph: 2.1.0
 ggraptR: '1.3'
 ggrasp: '1.2'
@@ -13843,7 +13844,7 @@ growcurves: '0.2'
 growfunctions: '0.15'
 growth: 1.1.1
 growthPheno: 2.1.17
-growthcleanr: 2.1.0
+growthcleanr: 2.1.1
 growthcurver: 0.3.1
 growthmodels: 1.2.0
 growthrate: '1.3'
@@ -16153,6 +16154,7 @@ mcIRT: '0.41'
 mcMST: 1.0.1
 mcPAFit: 0.1.4
 mcStats: 0.1.2
+mcauchyd: 1.0.2
 mcb: 0.1.15
 mcbette: 1.15.1
 mcbiopi: 1.1.6
@@ -16818,7 +16820,7 @@ modest: 0.3-1
 modesto: 0.1.4
 modeval: 0.1.3
 modgetxl: '0.4'
-modi: 0.1.0
+modi: 0.1.1
 modifiedmk: '1.6'
 modiscloud: '0.14'
 modmarg: 0.9.6
@@ -17034,7 +17036,7 @@ mtk: '1.0'
 mtlgmm: 0.1.0
 mtsc: 0.1.2
 mtsdi: 0.3.5
-muHVT: 2.0.0
+muHVT: 3.0.0
 muRL: 0.1-12
 muRty: 0.3.1
 muS2RC: 1.6.0
@@ -17797,6 +17799,7 @@ oclust: 0.2.0
 ocomposition: '1.1'
 ocp: 0.1.1
 ocs4R: 0.2-3
+octopusR: 1.0.0
 od: 0.4.0
 odbc: 1.3.4
 oddnet: 0.1.0
@@ -19282,7 +19285,7 @@ provParseR: '1.0'
 provSummarizeR: 1.5.1
 provTraceR: '1.0'
 provViz: 1.0.9
-provenance: '4.0'
+provenance: '4.1'
 proverbs: 0.3.0
 proxirr: '0.2'
 proxy: 0.4-27
@@ -19296,7 +19299,7 @@ ps: 1.7.2
 psData: 0.2.2
 psSubpathway: 0.1.1
 psbcGroup: '1.5'
-psborrow: 0.2.0
+psborrow: 0.2.1
 pscl: 1.5.5
 pscore: 0.4.0
 psd: 2.1.1
@@ -21632,7 +21635,7 @@ sfc: 0.1.0
 sfcr: 0.2.1
 sfdct: 0.1.0
 sfdep: 0.2.3
-sfheaders: 0.4.0
+sfheaders: 0.4.2
 sfhotspot: 0.7.1
 sfinx: 1.7.99
 sfnetworks: 0.6.2
@@ -21875,7 +21878,7 @@ simPopulation: 0.4.1
 simSummary: 0.1.0
 simTargetCov: 1.0.1
 simTool: 1.1.7
-simaerep: 0.4.2
+simaerep: 0.4.3
 simba: 0.3-5
 simboot: 0.2-6
 simcausal: 0.5.6
@@ -22273,7 +22276,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 2.7.0
+spant: 2.9.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
