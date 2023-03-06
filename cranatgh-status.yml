@@ -475,6 +475,7 @@ BPEC: 1.3.1
 BPHO: 1.3-0
 BPM: 1.0.0
 BPmodel: 1.1.2
+BRACE: 0.1.0
 BRACoD.R: 0.0.2.0
 BRDT: 0.1.0
 BRETIGEA: 1.0.3
@@ -3872,6 +3873,7 @@ MRQoL: '1.0'
 MRReg: 0.1.5
 MRS: 1.2.4
 MRSP: 0.4.3
+MRTAnalysis: 0.1.0
 MRTSampleSize: 0.3.0
 MRTSampleSizeBinary: 0.1.1
 MRmediation: 1.0.1
@@ -4699,7 +4701,7 @@ PGM2: 1.0-1
 PGRdup: 0.2.3.7
 PH1XBAR: 0.10.1
 PHENIX: 1.3.1
-PHEindicatormethods: 1.4.2
+PHEindicatormethods: 2.0.0
 PHInfiniteEstimates: '2.7'
 PHSMM: '1.0'
 PHYLOGR: 1.0.11
@@ -5366,7 +5368,7 @@ RFmarkerDetector: '1.0'
 RFmerge: 0.1-6
 RForcecom: '1.1'
 RFormatter: 0.1.1
-RFpredInterval: 1.0.6
+RFpredInterval: 1.0.7
 RFreak: 0.3-0
 RGA: 0.4.2
 RGAN: 0.1.1
@@ -5907,7 +5909,7 @@ RcppEnsmallen: 0.2.19.0.1
 RcppExamples: 0.1.9
 RcppFaddeeva: 0.2.2
 RcppFarmHash: 0.0.2
-RcppFastAD: 0.0.1
+RcppFastAD: 0.0.2
 RcppFastFloat: 0.0.4
 RcppGSL: 0.3.13
 RcppGetconf: 0.0.3
@@ -7911,7 +7913,7 @@ affluenceIndex: '2.1'
 afmToolkit: 0.0.1
 afmtools: 0.1.8
 afpt: 1.1.0.2
-africamonitor: 0.2.2
+africamonitor: 0.2.3
 after: 1.0.0
 aftgee: 1.1.6
 afthd: 1.1.0
@@ -10122,7 +10124,7 @@ connectwidgets: 0.2.0
 conogive: 1.0.0
 conos: 1.5.0
 conover.test: 1.1.5
-conquer: 1.3.2
+conquer: 1.3.3
 conquestr: 0.9.96
 conserveR: 1.0.4
 consolechoice: 1.1.1
@@ -11506,7 +11508,7 @@ easyalluvial: 0.3.1
 easyanova: '8.0'
 easycensus: 1.0.0
 easycsv: 1.0.8
-easydb: 1.0.0
+easydb: 1.1.0
 easyformatr: 0.1.2
 easylabel: 0.2.4
 easyml: 0.1.0
@@ -12006,7 +12008,7 @@ evidenceFactors: '1.8'
 evident: 1.0.4
 evir: 1.7-4
 evmix: '2.12'
-evoTS: 1.0.1
+evoTS: 1.0.2
 evobiR: '1.1'
 evolqg: 0.2-9
 evolvability: 2.0.0
@@ -13094,7 +13096,7 @@ gendist: '2.0'
 gene2pathway: 1.8.1
 geneARMA: '1.0'
 geneExpressionFromGEO: '0.9'
-geneHapR: 1.1.7
+geneHapR: 1.1.8
 geneHummus: 1.0.11
 geneListPie: '1.0'
 geneNetBP: 2.0.1
@@ -13304,7 +13306,7 @@ gganimate: 1.0.8
 ggarchery: 0.4.2
 ggasym: 0.1.6
 ggbeeswarm: 0.7.1
-ggblanket: 1.6.3
+ggblanket: 1.7.0
 ggborderline: 0.2.0
 ggbraid: 0.2.2
 ggbrain: 0.8.0
@@ -13923,6 +13925,7 @@ guaguas: 0.3.0
 guardianapi: 0.1.1
 guess: '0.1'
 guf: 1.0.2
+guildai: 0.0.1
 guiplot: 0.3.1
 guix.install: 1.0.0
 gumbel: 1.10-2
@@ -14129,7 +14132,7 @@ hgwrr: 0.2-3
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
-hhsmm: 0.3.4
+hhsmm: 0.3.5
 hht: 2.1.5
 hiPOD: '1.0'
 hibayes: 2.0.0
@@ -17075,7 +17078,7 @@ multiROC: 1.1.1
 multiUS: 1.2.3
 multiband: 0.1.0
 multibiplotGUI: '1.1'
-multiblock: 0.8.4
+multiblock: 0.8.5
 multibridge: 1.2.0
 multic: 0.4.3
 multicastR: 2.0.0
@@ -18357,7 +18360,7 @@ pawls: 1.0.0
 paws: 0.2.0
 paws.analytics: 0.2.0
 paws.application.integration: 0.2.0
-paws.common: 0.5.5
+paws.common: 0.5.6
 paws.compute: 0.2.0
 paws.cost.management: 0.2.0
 paws.customer.engagement: 0.2.0
@@ -18861,7 +18864,7 @@ plus: '1.0'
 pluscode: 0.1.0
 plusser: 0.4-0
 plyr: 1.8.8
-pm3: 0.1.0
+pm3: 0.1.2
 pm4py: 1.2.7
 pmap: 0.6.0
 pmatch: 0.1.4
@@ -19921,7 +19924,7 @@ rasciidoc: 4.0.2
 rasclass: 0.2.2
 rase: 0.3-3
 rassta: 1.0.5
-raster: 3.6-14
+raster: 3.6-20
 rasterDT: 0.3.2
 rasterImage: 0.4.0
 rasterKernelEstimates: 1.0.2
@@ -20584,7 +20587,7 @@ rjson: 0.2.21
 rjsonapi: 0.1.0
 rjsoncons: 1.0.0
 rjstat: 0.4.2
-rjtools: 1.0.9
+rjtools: 1.0.10
 rjwsacruncher: 0.1.3
 rkafka: '1.4'
 rkafkajars: '1.2'
@@ -21117,7 +21120,7 @@ rxode2et: 2.0.9
 rxode2ll: 2.0.9
 rxode2parse: 2.0.13
 rxode2random: 2.0.9
-rxylib: 0.2.9
+rxylib: 0.2.11
 ryandexdirect: 3.6.0
 rym: 1.0.5
 ryouready: '0.4'
@@ -21255,7 +21258,7 @@ sarp.snowprofile.pyface: 0.1.3
 sars: 1.3.6
 sarsop: 0.6.14
 sas7bdat: '0.6'
-sasLM: 0.9.5
+sasLM: 0.9.6
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.5
@@ -21469,7 +21472,7 @@ secret: 1.1.0
 secrettext: 0.1.0
 secrlinear: 1.1.4
 secsse: 2.1.7
-secuTrialR: 1.0.9
+secuTrialR: 1.1.1
 secure: '0.6'
 securitytxt: 0.1.1
 sedproxy: 0.7.5
@@ -23287,7 +23290,7 @@ term: 0.3.5
 terminaldigits: 0.1.0
 termstrc: '1.3'
 ternvis: '1.2'
-terra: 1.7-3
+terra: 1.7-18
 terrainmeshr: 0.1.0
 terrainr: 0.7.4
 tessellation: 2.1.1
@@ -24648,6 +24651,7 @@ wppExplorer: 2.3-4
 wq: 0.4.8
 wql: 1.0.0
 wqs: 0.0.1
+wqspt: 1.0.1
 wrGraph: 1.3.2
 wrMisc: 1.11.1
 wrProteo: 1.7.1
