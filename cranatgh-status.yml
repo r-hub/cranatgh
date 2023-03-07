@@ -1310,7 +1310,7 @@ Counternull: 0.1.0
 Countr: 3.5.6
 CountsEPPM: '3.0'
 CovCombR: '1.0'
-CovRegRF: 1.0.1
+CovRegRF: 1.0.3
 CovSel: 1.2.1
 CovSelHigh: 1.1.1
 CovTools: 0.5.4
@@ -1881,7 +1881,7 @@ EMV: '1.3'
 EMVC: '0.3'
 EMVS: 1.2.1
 EMbC: 2.0.3
-EMpeaksR: 0.2.0
+EMpeaksR: 0.3.0
 ENA: 1.3-0
 ENMTools: '1.0'
 ENMeval: 2.0.4
@@ -2769,6 +2769,7 @@ HDMD: '1.2'
 HDMT: 1.0.5
 HDOMDesign: 1.0-1
 HDPenReg: 0.94.8
+HDRFA: 0.1.0
 HDShOP: 0.1.3
 HDSpatialScan: 1.0.3
 HDStIM: 0.1.0
@@ -3333,7 +3334,7 @@ KraljicMatrix: 0.2.1
 KrigInv: 1.4.2
 KsPlot: '1.3'
 Kurt: '1.1'
-L0Learn: 2.0.3
+L0Learn: 2.1.0
 L1mstate: '1.0'
 L1pack: 0.41-2
 L2DensityGoFtest: 0.6.0
@@ -3611,7 +3612,7 @@ MARSS: 3.11.4
 MARSSVRhybrid: 0.1.0
 MARVEL: 1.4.0
 MARX: '0.2'
-MASS: 7.3-58.2
+MASS: 7.3-58.3
 MASSExtra: 1.2.2
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
@@ -4416,7 +4417,7 @@ NetworkRiskMeasures: 0.1.4
 NetworkSim: 0.1.0
 NetworkToolbox: 1.4.2
 NeuralNetTools: 1.5.3
-NeuralSens: 1.0.1
+NeuralSens: 1.0.2
 NeuroDecodeR: 0.1.0
 Newdistns: '2.1'
 NewmanOmics: 1.0.10
@@ -7021,7 +7022,7 @@ Superpower: 0.2.0
 SuppDists: 1.1-9.7
 SurfaceReconstruction: 0.1.0
 SurfaceTortoise: 1.0.2
-Surrogate: '2.7'
+Surrogate: '2.8'
 SurrogateOutcome: '1.1'
 SurrogateRegression: 0.6.0
 SurrogateRsq: 0.2.0
@@ -7333,7 +7334,7 @@ ToxicR: 22.8.1.0.3
 ToxicoGx: 0.1.1
 Tplyr: 1.1.0
 TraMineR: 2.2-6
-TraMineRextras: 0.6.5
+TraMineRextras: 0.6.6
 TraceAssist: 0.1.0
 TrackReconstruction: '1.3'
 TradeStrategyAnalyzer: '1.0'
@@ -7397,6 +7398,7 @@ TwoWaySurvival: '2.2'
 TwslmSpikeWeight: 1.0.1
 UBCRM: 1.0.2
 UBL: 0.0.7
+UBayFS: '1.0'
 UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.1.10
 UCSCXenaTools: 1.4.8
@@ -9133,6 +9135,7 @@ brant: 0.3-0
 brassica: 1.0.2
 bravo: 2.1.2
 brazilmaps: 0.1.0
+brclimr: 0.1.0
 brea: 0.2.0
 bread: 0.3.1
 breakDown: 0.2.1
@@ -10445,7 +10448,7 @@ cruts: '1.1'
 cry: 0.5.1
 crypto: 1.1.3
 crypto2: 1.4.5
-cryptoTax: 0.0.2
+cryptoTax: 0.0.3
 cryptoverse: 0.1.0
 cryptowatchR: 0.2.0
 cryst: 0.1.0
@@ -10769,7 +10772,7 @@ dbstats: 2.0.1
 dbx: 0.2.8
 dc3net: 1.2.0
 dcGOR: 1.0.6
-dcTensor: 0.99.1
+dcTensor: 1.0.0
 dccmidas: 0.1.0
 dccpp: 0.0.2
 dccvalidator: 0.3.0
@@ -12849,7 +12852,7 @@ futile.matrix: 1.2.7
 futile.options: 1.0.1
 futile.paradigm: 2.0.4
 futility: '0.4'
-future: 1.31.0
+future: 1.32.0
 future.BatchJobs: 0.17.0
 future.apply: 1.10.0
 future.batchtools: 0.12.0
@@ -13885,7 +13888,7 @@ gslnls: 1.1.2
 gsloid: 0.2.0
 gsmaRt: '1.0'
 gsmoothr: 0.1.7
-gson: 0.0.9
+gson: 0.1.0
 gsrc: '1.1'
 gsrs: 0.1.1
 gsrsb: 1.1.1
@@ -14533,7 +14536,7 @@ idx2r: 1.0.0
 ie2misc: 0.9.0
 ie2miscdata: 1.0.3
 ieeeround: 0.2-0
-iemisc: 1.0.1
+iemisc: 1.0.2
 iemiscdata: 0.6.1
 iemisctext: 0.9.99
 ifCNVR: 0.1.0
@@ -15805,6 +15808,7 @@ lpSolveAPI: 5.5.2.0-17.9
 lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpcde: 0.1.0
+lpda: 1.0.1
 lpdensity: '2.4'
 lphom: 0.3.1-1
 lpint: '2.1'
@@ -17925,7 +17929,7 @@ openSkies: 1.1.6
 openVA: 1.1.0
 openadds: 0.2.0
 openai: 0.3.0
-openair: '2.15'
+openair: 2.16-0
 openairmaps: 0.7.0
 openalexR: 1.0.0
 openbankeR: 0.1.1
@@ -21627,7 +21631,7 @@ set: '1.2'
 set6: 0.2.4
 setRNG: 2022.4-1
 setartree: 0.1.0
-sets: 1.0-23
+sets: 1.0-24
 setter: 0.0-1
 settings: 0.2.7
 setwidth: 1.0-4
@@ -23359,7 +23363,7 @@ tfdatasets: 2.9.0
 tfdeploy: 0.6.1
 tfer: '1.3'
 tfestimators: 1.9.2
-tfevents: 0.0.1
+tfevents: 0.0.2
 tfhub: 0.8.1
 tfio: 0.4.1
 tfplot: 2021.6-1
@@ -24580,7 +24584,7 @@ wilson: 2.4.2
 winRatioAnalysis: 0.1.1
 winch: 0.0.12
 windAC: 1.2.9
-windex: 2.0.4
+windex: 2.0.4.1
 windfarmGA: 3.0.0
 windsoraiR: 0.1.2
 winfapReader: 0.1-5
