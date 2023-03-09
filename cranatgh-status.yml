@@ -562,6 +562,7 @@ BayesDissolution: 0.1.0
 BayesESS: 0.1.19
 BayesFM: 0.1.5
 BayesFactor: 0.9.12-4.4
+BayesFluxR: 0.1.1
 BayesGESM: '1.4'
 BayesGOF: '5.2'
 BayesGPfit: 1.1.0
@@ -844,7 +845,7 @@ CDF.PSIdekick: '1.2'
 CDFt: '1.2'
 CDLasso: '1.1'
 CDM: 8.2-6
-CDMConnector: 0.4.1
+CDMConnector: 0.5.0
 CDNmoney: 2012.4-2
 CDROM: '1.1'
 CDSS: 0.1-0
@@ -1347,7 +1348,7 @@ CryptRndTest: 1.2.7
 CrypticIBDcheck: 0.3-3
 CsChange: 0.1.6
 CuCubes: 0.1.0
-Cubist: 0.4.2
+Cubist: 0.4.2.1
 CustomerScoringMetrics: 1.0.0
 CustosAscensor: 0.1.0
 CutpointsOEHR: 0.1.2
@@ -5599,7 +5600,7 @@ RPgSQL: 1.0-0
 RPhosFate: 1.0.3
 RPostgreSQL: 0.7-5
 RPostgres: 1.4.5
-RPresto: 1.4.3
+RPresto: 1.4.4
 RProbSup: '3.0'
 RProtoBuf: 0.4.20
 RPscoring: 0.1.0
@@ -6362,7 +6363,7 @@ SDGdetector: 2.7.1
 SDLfilter: 2.3.1
 SDMPlay: '2.0'
 SDMTools: '1.1'
-SDMtune: 1.2.0
+SDMtune: 1.2.1
 SDPDmod: 0.0.1
 SDPrism2D: 0.1.1
 SDR: 0.7.0.0
@@ -7243,6 +7244,7 @@ TangPoemR: 0.1.0
 TangledFeatures: 0.1.1
 TaoTeProgramming: '1.0'
 TapeR: 0.5.2
+TapeS: 0.12.0
 TargomoR: 0.2.0
 Tariff: 1.0.5
 TauP.R: '1.5'
@@ -8284,7 +8286,7 @@ aspace: '3.2'
 aspect: 1.0-6
 aspi: 0.2.0
 aspline: 0.2.0
-asremlPlus: 4.3.49
+asremlPlus: 4.3.50
 assemblerr: 0.1.1
 assert: 1.0.1
 assertable: 0.2.8
@@ -8401,7 +8403,7 @@ automultinomial: 2.0.0
 autonewsmd: 0.0.5
 autoplotly: 0.1.4
 autopls: '1.3'
-autoshiny: 0.0.2
+autoshiny: 0.0.3
 autostats: 0.4.0
 autostsm: 3.1.0
 autota: 0.1.3
@@ -8508,14 +8510,14 @@ banxicoR: 0.9.0
 bapred: '1.1'
 barcode: 1.3.0
 bardr: 0.0.9
-bark: 0.1-0
+bark: 1.0.1
 barplot3d: 1.0.1
 barsurf: 0.7.0
 bartBMA: '1.0'
 bartCause: 1.0-6
 bartMachine: 1.3.3.1
 bartMachineJARs: 1.2.1
-bartcs: 0.1.2
+bartcs: 1.0.0
 basad: 0.3.0
 base.rms: '1.0'
 base2grob: 0.0.3
@@ -8576,6 +8578,7 @@ bayesMRM: 2.4.0
 bayesPO: 0.3.1
 bayesPop: 9.0-1
 bayesQR: '2.3'
+bayesROE: '0.1'
 bayesSurv: '3.6'
 bayesTFR: 7.3-0
 bayesZIB: 0.0.4
@@ -10263,7 +10266,7 @@ countHMM: 0.1.0
 countToFPKM: '1.0'
 countTransformers: 0.0.6
 countcolors: 0.9.1
-countdata: '1.2'
+countdata: '1.3'
 countdown: 0.4.0
 counterfactuals: 0.1.1
 countfitteR: '1.4'
@@ -11286,6 +11289,7 @@ dotwhisker: 0.7.4
 doubcens: '1.1'
 double.truncation: '1.7'
 doubt: 0.1.0
+doudpackage: 2.0.1
 downlit: 0.4.2
 downloader: '0.4'
 downloadthis: 0.3.2
@@ -12120,7 +12124,7 @@ extremevalues: 2.3.3
 extremis: 1.2.1
 extremogram: 1.0.2
 exuber: 1.0.1
-exvatools: 0.2.0
+exvatools: 0.3.0
 eye: 1.2.1
 eyeRead: 0.0.4
 eyeTrackR: 1.0.1
@@ -12176,6 +12180,7 @@ fUnitRoots: '4021.80'
 fUtilities: '290.76'
 fabCI: '0.2'
 fabMix: '5.0'
+fabR: 1.1.0.1003
 fabisearch: 0.0.4.5
 fable: 0.3.2
 fable.ata: 0.0.3
@@ -13718,7 +13723,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.4.0
-gpboost: 0.8.2
+gpboost: 1.0.0
 gpclib: 1.5-6
 gpg: 1.2.8
 gphmm: 0.99.0
@@ -14798,7 +14803,7 @@ intsurv: 0.2.2
 intsurvbin: 0.0.4
 intsvy: '2.6'
 intubate: 1.0.0
-inum: 1.0-4
+inum: 1.0-5
 invGauss: '1.2'
 invLT: 0.2.1
 invacost: 1.1-4
@@ -15802,6 +15807,7 @@ loopr: 1.0.1
 loose.rock: 1.2.0
 lordif: 0.3-3
 lorec: 0.6.1
+lorem: 1.0.0
 lorentz: 1.0-5
 lorenz: 0.1.0
 lori: 2.2.2
@@ -16725,7 +16731,7 @@ mlrintermbo: 0.5.0
 mlrpro: 0.1.2
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
-mlt: 1.4-3
+mlt: 1.4-5
 mlt.docreg: 1.1-6
 mltest: 1.0.1
 mltools: 0.3.5
@@ -17071,7 +17077,7 @@ mulset: 1.0.0
 multDM: 1.1.4
 multIntTestFunc: 0.1.1
 multbxxc: 1.0.1
-multcomp: 1.4-22
+multcomp: 1.4-23
 multcompView: 0.1-8
 multdyn: '1.6'
 multfisher: '1.1'
@@ -17849,6 +17855,7 @@ offlineChange: 0.0.4
 ofp: 1.0.0
 ofw: 1.0-0
 oglmx: 3.0.0.0
+ogrdbstats: 0.5.0
 ohenery: 0.1.1
 ohoegdm: 0.1.0
 ohsome: 0.2.1
@@ -17952,7 +17959,7 @@ opendotaR: 0.1.4
 openeo: 1.3.0
 openintro: 2.4.0
 openmetrics: 0.3.0
-opensensmapr: 0.5.1
+opensensmapr: 0.6.0
 openssl: 2.0.5
 opentick: 0.1-1
 opentimsr: 1.0.13
@@ -18324,7 +18331,7 @@ partools: 1.1.6
 partsm: 1.1-3
 parttime: 0.1.1
 party: 1.3-12
-partykit: 1.2-17
+partykit: 1.2-18
 parviol: '1.1'
 parzer: 0.4.1
 pasadr: '1.0'
@@ -22128,7 +22135,7 @@ smoother: '1.1'
 smoothic: 1.0.0
 smoothie: 1.0-3
 smoothmest: 0.1-3
-smoothr: 1.0.0
+smoothr: 1.0.1
 smoothtail: 2.0.5
 smoots: 1.1.3
 smotefamily: 1.3.1
@@ -22854,6 +22861,7 @@ stringgaussnet: '1.1'
 stringi: 1.7.12
 stringkernels: 0.8.9
 stringr: 1.5.0
+stringstatic: 0.1.0
 stringx: 0.2.4
 strip: 1.0.0
 stripless: 1.0-3
@@ -23277,7 +23285,7 @@ telegram.bot: 3.0.0
 telemac: 0.1.1
 tempR: 0.9.9.20
 tempcyclesdata: 1.0.1
-tempdisagg: '1.0'
+tempdisagg: '1.1'
 temperatureresponse: '0.2'
 templateICAr: 0.6.2
 templates: 0.3.0
@@ -23662,7 +23670,7 @@ topmodel: 0.7.5
 topoDistance: 1.0.2
 topologyGSA: 1.4.7
 toposort: 1.0.0
-topr: 1.1.3
+topr: 1.1.4
 toprdata: 1.0.2
 topsa: 0.1.0
 topsis: '1.0'
@@ -23728,7 +23736,7 @@ traj: '1.3'
 trajeR: 0.9.0.5
 trajectories: 0.2-6
 trajr: 1.4.0
-tram: 0.8-0
+tram: 0.8-1
 tramME: 1.0.3
 tramnet: 0.0-7
 trampoline: 0.1.1
@@ -23884,7 +23892,7 @@ tseriesTARMA: 0.3-2
 tsfa: 2021.1-3
 tsfeatures: '1.1'
 tsfgrnn: 1.0.2
-tsfknn: 0.5.0
+tsfknn: 0.5.1
 tsfngm: 0.1.0
 tsgui: 0.2.1
 tsiR: 0.4.3
@@ -24448,6 +24456,7 @@ washdata: 0.1.3
 washeR: 0.1.3
 washex: 1.2.0
 wasim: '1.1'
+waspasR: 0.1.0
 waspr: 1.0.0
 water: '0.8'
 waterData: 1.0.8
