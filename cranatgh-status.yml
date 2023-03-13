@@ -1764,7 +1764,7 @@ DriftBurstHypothesis: 0.4.0.1
 DrillR: '0.1'
 DriveML: 0.1.5
 DrugClust: '0.2'
-DrugExposureDiagnostics: 0.4.0
+DrugExposureDiagnostics: 0.4.1
 DrugSim2DR: 0.1.0
 DstarM: 0.4.0
 DtD: 0.2.2
@@ -2473,7 +2473,7 @@ GLDreg: 1.1.0
 GLIDE: 1.0.5
 GLMMGibbs: '0.5'
 GLMMRR: 0.5.0
-GLMMadaptive: 0.8-5
+GLMMadaptive: 0.8-8
 GLMMarp: 0.1-1
 GLMaSPU: '1.0'
 GLMcat: 0.2.5
@@ -2649,6 +2649,7 @@ GenomeAdmixR: 2.1.7
 GenomicMating: '2.0'
 GenomicTools: '0.2'
 GenomicTools.fileHandler: 0.1.5.9
+GeoAdjust: 1.0.0
 GeoBoxplot: '1.0'
 GeoDE: '1.0'
 GeoFIS: '1.0'
@@ -3227,7 +3228,7 @@ JM: 1.5-2
 JMI: 0.1.0
 JMLSD: '1.0'
 JMbayes: 0.8-85
-JMbayes2: 0.3-0
+JMbayes2: 0.4-0
 JMcmprsk: '0.9'
 JMdesign: '1.3'
 JOP: '3.6'
@@ -4022,7 +4023,7 @@ MeTo: 0.1.1
 MeanShift: 1.1-1
 MedDietCalc: 0.1.1
 MedDietScore: 0.1.0
-MedLEA: 1.0.1
+MedLEA: 1.0.2
 MedOr: '0.1'
 MedSurvey: 1.1.1.3.0
 MediaK: '1.0'
@@ -5747,7 +5748,7 @@ RaMS: 1.3.1
 RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 3.0.0
-RaceID: 0.2.9
+RaceID: 0.3.0
 RadData: 1.0.1
 RadOnc: 1.1.8
 RadTran: '1.0'
@@ -6120,6 +6121,7 @@ Rmagic: 2.0.3
 Rmalschains: 0.2-9
 RmarineHeatWaves: 0.17.0
 Rmbal: 0.1.0
+RmdConcord: 0.1.4
 Rmdr: 0.1-1
 RmecabKo: 0.1.6.2
 Rmetrics: '260.72'
@@ -6175,6 +6177,7 @@ RockFab: 1.2.1
 Rodam: 0.1.8
 Rogue: 2.1.4
 RolWinMulCor: 1.2.0
+RolWinWavCor: 0.4.0
 RonFHIR: 0.4.0
 Rook: '1.2'
 RootsExtremaInflections: 1.2.1
@@ -8151,7 +8154,7 @@ apc: 2.0.0
 apcf: 0.3.0
 apcluster: 1.4.10
 apdesign: 1.0.0
-ape: '5.7'
+ape: 5.7-1
 apercu: 0.2.4
 apex: 1.0.4
 apexcharter: 0.4.0
@@ -8665,7 +8668,7 @@ bcs: 1.0.0
 bcv: '1.0'
 bdDwC: 0.1.15
 bda: 15.2.5
-bdc: 1.1.2
+bdc: 1.1.4
 bdchecks: 0.1.7
 bdclean: 0.1.15
 bde: 1.0.1.1
@@ -9702,7 +9705,7 @@ citbcmst: '1.0'
 citccmst: 1.0.2
 citecorp: 0.3.0
 cities: 0.1.1
-cito: 1.0.0
+cito: 1.0.1
 citr: 0.3.2
 citrus: 1.0.2
 ciu: 0.6.0
@@ -9909,6 +9912,7 @@ cobs: 1.3-5
 cobs99: 0.9-9
 coca: 1.1.0
 cocktailApp: 0.2.2
+coconots: '1.1'
 cocor: 1.1-4
 cocoreg: 0.1.1
 cocorresp: 0.4-3
@@ -10302,7 +10306,7 @@ covid19jp: 0.1.0
 covid19mobility: 0.1.1
 covid19nytimes: 0.1.3
 covid19sf: 0.1.2
-covid19srilanka: 1.0.0
+covid19srilanka: 1.1.0
 covid19swiss: 0.1.0
 covid19us: 0.1.9
 covidcast: 0.4.5
@@ -13064,7 +13068,7 @@ gdor: 0.1-1
 gdpc: 1.1.3
 gds: 0.1.1
 gdsfmt: 1.1.0
-gdtools: 0.3.1
+gdtools: 0.3.2
 gdxdt: 0.1.0
 gear: 0.3.4
 gearman: 0.1-5
@@ -13809,6 +13813,7 @@ greed: 0.6.1
 greekLetters: 0.0.7
 greeks: 1.0.0
 greenclust: 1.1.0
+greencrab.toolkit: '0.1'
 gregRy: 0.1.0
 gregmisc: 2.1.5
 gremes: 0.1.1
@@ -14151,7 +14156,7 @@ hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
 hhsmm: 0.3.5
-hht: 2.1.5
+hht: 2.1.6
 hiPOD: '1.0'
 hibayes: 2.0.0
 hiddenf: '2.0'
@@ -16346,7 +16351,7 @@ metaMA: 3.1.3
 metaMix: '0.3'
 metaRMST: 1.0.0
 metaRNASeq: 1.0.7
-metaSDTreg: 0.2.1
+metaSDTreg: 0.2.2
 metaSEM: 1.3.0
 metaSurvival: 0.1.0
 metabias: 0.1.0
@@ -16399,7 +16404,7 @@ metarep: '1.1'
 metasens: 1.5-2
 metatest: 1.0-5
 metathis: 1.1.3
-metatools: 0.1.4
+metatools: 0.1.5
 metaumbrella: 1.0.5
 metavcov: 2.1.4
 metaviz: 0.3.1
@@ -16672,6 +16677,7 @@ mlVAR: '0.5'
 mlapi: 0.1.1
 mlbench: 2.1-3
 mlbgameday: 0.2.0
+mlbplotR: 1.0.1
 mlbstats: 0.1.0
 mlbstatsR: 0.1.0
 mldr: 0.4.3
@@ -17492,7 +17498,7 @@ nhs.predict: 1.4.0
 nhsnumber: 0.1.2
 nhstplot: 1.1.0
 niaidMI: 1.1.0
-nic: 0.0.1
+nic: 0.0.2
 nice: 0.4-1
 nicheROVER: 1.1.0
 nichevol: 0.1.20
@@ -17676,7 +17682,7 @@ noverlap: 1.0-1
 nowcastDFM: 1.0.0
 nowcasting: 1.1.4
 noweb: 1.1-2
-np: 0.60-16
+np: 0.60-17
 npConfRatio: '1.0'
 npExact: '0.2'
 npIntFactRep: '1.5'
@@ -18308,7 +18314,7 @@ parmigene: 1.1.0
 parmsurvfit: 0.1.0
 paropt: 0.2.1
 parqr: 0.1.0
-parquetize: 0.5.3
+parquetize: 0.5.4
 parseRPDR: 0.2.4
 parsec: 1.2.6
 parsedate: 1.3.1
@@ -18867,12 +18873,12 @@ plsRbeta: 0.2.9
 plsRcox: 1.7.7
 plsRglm: 1.5.0
 plsVarSel: 0.9.10
-plsdepot: 0.1.17
+plsdepot: 0.2.0
 plsdof: 0.3-2
 plsgenomics: 1.5-2
 plsmod: 1.0.0
 plsmselect: 0.2.0
-plspm: 0.4.9
+plspm: 0.5.0
 plspm.formula: '1.0'
 plspolychaos: 1.1-1
 plsr: 0.0.1
@@ -19030,7 +19036,7 @@ popprxl: '0.1'
 popsom: '6.0'
 popstudy: 1.0.0
 poptrend: 0.1.0
-populR: 0.2.0
+populR: 0.2.1
 population: '0.3'
 populationPDXdesign: 1.0.3
 porridge: 0.3.1
@@ -19881,7 +19887,7 @@ rameritrade: 0.1.5
 ramidst: 0.1.0
 ramify: 0.3.3
 ramlegacy: 0.2.0
-ramps: 0.6.17
+ramps: 0.6.18
 ramsvm: '2.3'
 randChecks: 0.2.1
 randNames: '0.2'
@@ -20874,7 +20880,7 @@ rpinterest: 0.3.1
 rpivotTable: 0.3.0
 rplexos: 1.1.8
 rplos: 1.0.0
-rplotengine: 1.0-8
+rplotengine: 1.0-9
 rpls: 0.6.0
 rplum: 0.3.0
 rpmodel: 1.2.0
@@ -21424,6 +21430,7 @@ scquantum: 1.0.0
 scraEP: '1.2'
 scrapeR: '0.1'
 scrappy: 0.0.1
+scribe: 0.1.0
 scrime: 1.3.5
 scriptName: 1.0.1
 scriptests: 1.0-9
@@ -21710,7 +21717,7 @@ shapes: 1.2.7
 shapper: 0.1.3
 shapr: 0.2.1
 shapviz: 0.6.0
-shar: 2.0.2
+shar: 2.0.3
 sharp: 1.3.0
 sharpData: '1.4'
 sharpPen: '1.8'
@@ -21744,7 +21751,7 @@ shinyBS: 0.61.1
 shinyChakraSlider: 0.1.0
 shinyChakraUI: 1.1.1
 shinyChatR: 1.0.0
-shinyCohortBuilder: '0.1'
+shinyCohortBuilder: 0.2.0
 shinyCyJS: 0.0.11
 shinyDND: 0.1.0
 shinyDatetimePickers: 1.0.0
@@ -21837,7 +21844,7 @@ shopifyadsR: 0.1.0
 shopifyr: 1.0.0
 shoredate: 1.0.1
 shortcuts: 1.4.0
-shorts: 2.3.0
+shorts: 2.4.0
 shotGroups: 0.8.2
 showimage: 1.0.0
 showtext: 0.9-5
@@ -22359,6 +22366,7 @@ sparsevb: 0.1.0
 sparsio: 1.0.1
 sparta: 0.8.4
 spartan: 3.0.2
+sparvaride: 0.1.0
 spass: '1.3'
 spatPomp: 0.31.0.0
 spatclus: 1.0-3
@@ -22398,7 +22406,7 @@ spatstat.gui: 3.0-1
 spatstat.linnet: 3.0-6
 spatstat.local: 5.0-1
 spatstat.model: 3.2-1
-spatstat.random: 3.1-3
+spatstat.random: 3.1-4
 spatstat.sparse: 3.0-1
 spatstat.utils: 3.0-2
 spatsurv: 1.8-2
@@ -24450,6 +24458,7 @@ waldwolf: '0.1'
 walkalytics: 0.1.0
 walker: 1.0.6-1
 walkr: 0.4.0
+walkscore: 0.1.2
 walkscoreAPI: '1.2'
 wallace: 2.0.3
 wally: 1.0.10
@@ -24530,6 +24539,7 @@ webshot2: 0.1.0
 websocket: 1.4.1
 websockets: 1.1.7
 webtools: 0.7.9
+webtrackR: 0.0.1
 webuse: 0.1.3
 webutils: '1.1'
 webvis: 0.0.2
