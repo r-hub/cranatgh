@@ -1886,7 +1886,7 @@ EMVS: 1.2.1
 EMbC: 2.0.3
 EMpeaksR: 0.3.0
 ENA: 1.3-0
-ENMTools: '1.0'
+ENMTools: 1.1.0
 ENMeval: 2.0.4
 ENiRG: '1.0'
 ENmisc: 1.2-7
@@ -2459,6 +2459,7 @@ GHQp: '1.0'
 GHS: '0.1'
 GHap: 3.0.0
 GIC: 1.0.0
+GIFT: 1.0.0
 GIFTr: 0.1.0
 GIGrvg: '0.7'
 GISSB: '1.1'
@@ -2513,7 +2514,7 @@ GPArotation: 2022.10-2
 GPB: '1.2'
 GPBayes: 0.1.0-5.1
 GPC: '0.1'
-GPCERF: 0.2.0
+GPCERF: 0.2.1
 GPCMlasso: 0.1-6
 GPCSIV: 0.1.0
 GPFDA: 3.1.2
@@ -3788,7 +3789,7 @@ MLEP: 0.0-3
 MLEce: 1.0.1
 MLEcens: 0.1-7
 MLFS: 0.4.2
-MLGL: 0.6.7
+MLGL: 1.0.0
 MLGdata: 0.1.0
 MLID: 1.0.1
 MLML2R: 0.3.3
@@ -6849,6 +6850,7 @@ Sojourn.Data: 0.3.0
 SolveLS: '1.0'
 SolveRationalMatrixEquation: 0.1.0
 SolveSAPHE: 2.1.0
+SomaDataIO: 6.0.0
 SongEvo: 1.0.0
 SorptionAnalysis: 0.1.0
 SortableHTMLTables: 0.1-3
@@ -10177,7 +10179,7 @@ convergEU: 0.5.4
 convertGraph: '0.1'
 convertid: 0.1.3
 convertr: '0.1'
-convevol: '1.3'
+convevol: 2.0.0
 convexHaz: '0.2'
 convexjlr: 0.8.1
 convey: 0.2.5
@@ -10694,6 +10696,7 @@ dataReporter: 1.0.2
 dataRetrieval: 2.7.12
 datacheck: 1.2.2
 datacheckr: 0.2.0
+dataclass: 0.1.8
 datacleanr: 1.0.3
 datadictionary: 1.0.0
 datadigest: 1.0.2
@@ -13465,7 +13468,7 @@ ggsector: 1.6.6
 ggseg: 1.6.5
 ggseg3d: 1.6.3
 ggseqlogo: '0.1'
-ggseqplot: 0.8.1
+ggseqplot: 0.8.2
 ggshadow: 0.0.5
 ggside: 0.2.2
 ggsignif: 0.6.4
@@ -13873,7 +13876,7 @@ grove: '1.1'
 growcurves: '0.2'
 growfunctions: '0.15'
 growth: 1.1.1
-growthPheno: 2.1.17
+growthPheno: 2.1.19
 growthcleanr: 2.1.1
 growthcurver: 0.3.1
 growthmodels: 1.2.0
@@ -15582,7 +15585,7 @@ likeLTD: 6.3.0
 likelihood: '1.8'
 likelihoodAsy: '0.51'
 likelihoodExplore: 0.1.0
-likelihoodR: 1.0.9
+likelihoodR: 1.1.0
 likert: 1.3.5
 lilikoi: 2.1.1
 lillies: 0.2.10
@@ -16577,7 +16580,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.4
-mirai: 0.7.2
+mirai: 0.8.0
 mirf: '1.0'
 mirt: 1.38.1
 mirtCAT: 1.12.2
@@ -18273,7 +18276,7 @@ panelView: 1.1.16
 panelWranglR: 1.2.13
 panelaggregation: 0.1.1
 panelr: 0.7.7
-panelsummary: 0.1.0
+panelsummary: 0.1.1
 panelvar: 0.5.5
 pangaear: 1.1.0
 panstarrs: 0.1.0
@@ -18625,6 +18628,7 @@ phalen: '1.0'
 phangorn: 2.11.1
 phantom: 0.1.3
 pharmaRTF: 0.1.4
+pharmaverse: 0.0.2
 pharmr: 0.73.1
 phase: 1.2.9
 phase1PRMD: 1.0.2
@@ -18874,7 +18878,7 @@ plotwidgets: 0.5.1
 plpoisson: 0.3.0
 pls: 2.8-1
 pls.pcr: 0.2.7
-plsRbeta: 0.2.9
+plsRbeta: 0.3.0
 plsRcox: 1.7.7
 plsRglm: 1.5.1
 plsVarSel: 0.9.10
@@ -19618,7 +19622,7 @@ quantchem: '0.13'
 quantdates: '1.0'
 quantdr: 1.2.2
 quanteda: 3.2.4
-quanteda.textmodels: 0.9.5-1
+quanteda.textmodels: 0.9.5
 quanteda.textplots: 0.94.2
 quanteda.textstats: 0.96.1
 quantification: 0.2.0
@@ -20065,7 +20069,7 @@ rcheology: 4.2.2.0
 rchess: '0.1'
 rchie: 1.0.2
 rcicr: 0.3.4.1
-rciplot: 0.1.0
+rciplot: 0.1.1
 rcites: 1.3.0
 rcitoid: 0.1.0
 rclimateca: 1.0.3
@@ -21427,7 +21431,7 @@ scoringutils: 1.1.0
 scout: 1.0.4
 scperturbR: 0.1.0
 scphaser: 1.0.0
-scpi: 2.1.0
+scpi: 2.2.1
 scpm: 2.0.0
 scpoisson: 0.0.1
 scqe: 1.0.0
@@ -21671,7 +21675,7 @@ settings: 0.2.7
 setwidth: 1.0-4
 sever: 0.0.7
 severity: '2.0'
-sf: 1.0-10
+sf: 1.0-11
 sfa: 1.0-1
 sfaR: 0.1.1
 sfadv: 1.0.1
@@ -21741,6 +21745,7 @@ shiftR: '1.5'
 shinipsum: 0.1.0
 shiny: 1.7.4
 shiny.benchmark: 0.1.1
+shiny.blueprint: 0.2.0
 shiny.fluent: 0.3.0
 shiny.i18n: 0.3.0
 shiny.info: 0.2.0
@@ -23011,7 +23016,7 @@ survSens: 0.1.0
 survSpearman: 1.0.1
 survcomp: 1.1.6
 surveil: 0.2.1
-surveillance: 1.20.3
+surveillance: 1.21.0
 survex: 0.2.2
 survexp.fr: '1.1'
 survey: 4.1-1
@@ -23701,7 +23706,7 @@ torch: 0.9.1
 torchaudio: 0.3.1
 torchdatasets: 0.3.0
 torchopt: 0.1.3
-torchvision: 0.4.1
+torchvision: 0.5.0
 torchvisionlib: 0.3.0
 tornado: 0.1.2
 torus: '1.0'
@@ -23716,6 +23721,7 @@ touch: 0.1-6
 touchard: 2.0.1
 tourr: 0.6.2
 tourrGui: '0.4'
+toweranNA: 0.1.0
 toxEval: 1.2.0
 toxboot: 0.2.0
 toxpiR: 1.2.1
@@ -23786,6 +23792,7 @@ transport: 0.13-0
 transx: 0.0.1
 trapezoid: 2.0-2
 traudem: 1.0.1
+traveltimeR: 1.1.4
 trawl: 0.2.2
 treasuryTR: 0.1.5
 treatSens: '2.1'
