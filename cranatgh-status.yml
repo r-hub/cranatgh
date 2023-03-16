@@ -81,7 +81,7 @@ ALUES: 0.2.1
 ALassoSurvIC: 0.1.1
 AMA: 1.0.8
 AMAP.Seq: '1.0'
-AMAPVox: 0.12.1
+AMAPVox: 1.0.0
 AMCP: 1.0.1
 AMCTestmakeR: 1.0.0
 AMGET: '1.0'
@@ -621,6 +621,7 @@ BayesianGLasso: 0.2.0
 BayesianLaterality: 0.1.1
 BayesianMediationA: 1.0.1
 BayesianNetwork: 0.1.5
+BayesianPlatformDesignTimeTrend: 1.0.0
 BayesianPower: 0.2.3
 BayesianReasoning: 0.4.1
 BayesianTools: 0.1.8
@@ -1059,7 +1060,7 @@ Canek: 0.2.1
 Canopy: 1.3.0
 CarbonEL: 0.1-4
 CarletonStats: '2.0'
-Carlson: 1.1.0
+Carlson: 2.0.0
 Cascade: '2.1'
 CascadeData: '1.4'
 CaseBasedReasoning: '0.1'
@@ -1455,7 +1456,7 @@ DEploid: 0.5.3
 DFA: 0.9.0
 DFA.CANCOR: 0.2.7
 DFIT: '1.1'
-DGCA: 1.0.2
+DGCA: 1.0.3
 DGEobj: 1.1.2
 DGEobj.utils: 1.0.6
 DGLMExtPois: 0.2.1
@@ -1612,7 +1613,7 @@ DataPackageR: 0.15.8
 DataSpaceR: 0.7.6
 DataVisualizations: 1.2.3
 DataViz: 0.2.8
-DatabaseConnector: 6.0.0
+DatabaseConnector: 6.1.0
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.1.6
 Datasmith: 1.0-1
@@ -2765,7 +2766,7 @@ HCT: 0.1.3
 HCTDesign: 0.7.2
 HCTR: 0.1.1
 HCV: 1.2.0
-HCmodelSets: '1.1'
+HCmodelSets: 1.1.3
 HDBRR: 1.1.4
 HDCI: 1.0-2
 HDCurves: 0.1.1
@@ -5994,7 +5995,7 @@ RecAssoRules: '1.0'
 Recocrop: 0.4-1
 Recon: 0.3.0.0
 RecordLinkage: 0.4-12.4
-RecordTest: 2.1.1
+RecordTest: 2.1.2
 Records: '1.0'
 RecurRisk: '1.0'
 RedditExtractoR: 3.0.7
@@ -8510,7 +8511,8 @@ bamp: 2.1.3
 bams: '1.6'
 banR: 0.2.2
 bandit: 0.5.1
-banditpam: '1.0'
+banditpam: 1.0-1
+bandsfdp: 1.0.0
 bang: 1.0.1
 bangladesh: 1.0.0
 bannerCommenter: 1.0.0
@@ -8731,7 +8733,7 @@ bentcableAR: 0.3.1
 benthos: 1.3-8
 ber: '4.0'
 berryFunctions: 1.21.14
-bestNormalize: 1.8.3
+bestNormalize: 1.9.0
 bestSDP: 0.1.2
 bestglm: 0.37.3
 besthr: 0.3.1
@@ -9137,7 +9139,7 @@ bpr: 1.0.6
 bqror: 1.5.0
 bqtl: 1.0-34
 braQCA: 1.2.1.29
-bracer: 1.2.1
+bracer: 1.2.2
 brada: '1.0'
 braggR: 0.1.1
 braidReports: 0.5.4
@@ -10186,7 +10188,7 @@ convey: 0.2.5
 convoSPAT: 1.2.7
 cooccur: '1.3'
 cooccurNet: 0.1.6
-cookies: 0.2.1
+cookies: 0.2.2
 cooltools: '2.0'
 coop: 0.6-3
 coopProductGame: '2.0'
@@ -10897,7 +10899,7 @@ deltaPlotR: '1.6'
 deltaccd: 1.0.2
 deltar: 1.0.0
 dematel: 0.1.0
-demcon: 0.3.0
+demcon: 0.4.0
 demi: '1.1'
 deming: '1.4'
 demoGraphic: 0.1.0
@@ -11870,7 +11872,7 @@ epimdr: 0.6-5
 epimdr2: 1.0-9
 epinet: 2.1.8
 epinetr: '0.96'
-epiomics: 0.0.1
+epiomics: 1.0.0
 epipen: 1.0-0
 epiphy: 0.3.4
 episcan: 0.0.1
@@ -13104,7 +13106,7 @@ gemtc.jar: 0.14.3
 gen2stage: '1.0'
 gen3sis: '1.4'
 gen5helper: 1.0.1
-genBaRcode: 1.2.5
+genBaRcode: 1.2.6
 genBart: 1.0.1
 genMOSS: '1.2'
 genMOSSplus: '1.0'
@@ -13590,7 +13592,7 @@ glmmEP: 1.0-3.1
 glmmGS: '0.5'
 glmmLasso: 1.6.2
 glmmML: 1.1.4
-glmmPen: 1.5.2.11
+glmmPen: 1.5.3.0
 glmmSeq: 0.5.5
 glmmTMB: 1.1.5
 glmmboot: 0.6.0
@@ -14340,7 +14342,7 @@ httptest2: 0.1.0
 httpuv: 1.6.9
 httr: 1.4.5
 httr2: 0.2.2
-hubeau: 0.3.1
+hubeau: 0.4.0
 hudr: 1.2.0
 hues: 0.2.0
 huge: 1.3.5
@@ -14358,7 +14360,7 @@ hutils: 1.8.1
 hutilscpp: 0.9.3
 huxtable: 5.5.2
 hwde: '0.67'
-hwep: 2.0.0
+hwep: 2.0.1
 hwig: 0.0.2
 hwordcloud: 0.1.0
 hwriter: 1.3.2.1
@@ -14920,7 +14922,7 @@ isocalcR: 0.1.0
 isocat: 0.2.6
 isocir: 2.0-7
 isodistrreg: 0.1.0
-isogeochem: 1.1.0
+isogeochem: 1.1.1
 isokernel: 0.1.0
 isoorbi: 1.0.0
 isopam: 1.1.0
@@ -15499,7 +15501,7 @@ learnPopGen: 1.0.4
 learningCurve: 1.1.2
 learningr: 0.29.1
 learningtower: 1.0.1
-learnr: 0.11.2
+learnr: 0.11.3
 learnrbook: 1.0.2-1
 learnstats: 0.1.1
 leastcostpath: 1.8.7
@@ -15721,7 +15723,7 @@ lmw: 0.0.1
 lnMLE: '1.0'
 lncDIFF: 1.0.0
 lnmCluster: 0.3.1
-loa: 0.2.47.1
+loa: 0.2.48.1
 loadeR: 1.1.3
 loadflux: 0.0.2
 loadings: 0.3.1
@@ -16698,7 +16700,7 @@ mlergm: '0.8'
 mleur: 1.0-6
 mlf: 1.2.1
 mlfit: 0.5.3
-mlflow: 2.1.2
+mlflow: 2.2.2
 mlgt: '0.16'
 mlica: '0.6'
 mlica2: '2.1'
@@ -18055,7 +18057,7 @@ orcutt: '2.3'
 ordBTL: '0.8'
 ordDisp: 2.1.1
 ordPens: 1.0.0
-ordbetareg: 0.7.0
+ordbetareg: 0.7.1
 ordcrm: 1.0.0
 orddom: '3.1'
 orderbook: '1.0'
@@ -19538,7 +19540,7 @@ qoma.smuggler: 0.0.1
 qp: 0.3-2
 qpNCA: 1.1.6
 qpcR: 1.4-1
-qpdf: 1.3.0
+qpdf: 1.3.1
 qpmadr: 1.1.0-0
 qqboxplot: 0.3.0
 qqconf: 1.3.1
@@ -19801,7 +19803,7 @@ rNeighborQTL: 1.1.2
 rODE: 0.99.6
 rPACI: 0.2.2
 rPAex: 1.0.2
-rPBK: 0.2.0
+rPBK: 0.2.1
 rPackedBar: 0.2.2
 rPanglaoDB: 0.2.1
 rPlant: '2.7'
@@ -19992,7 +19994,7 @@ rattle: 5.5.1
 rattle.data: 1.0.2
 raustats: 0.15.0
 ravedash: 0.1.2
-raveio: 0.0.9
+raveio: 0.1.0
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
 ravetools: 0.1.0
@@ -20607,7 +20609,7 @@ riskyr: 0.4.0
 rite: '0.3'
 ritis: 1.0.0
 riv: 2.0-5
-riverconn: 0.3.25
+riverconn: 0.3.26
 riverdist: 0.15.5
 rivernet: 1.2.1
 riverplot: '0.10'
@@ -23495,7 +23497,7 @@ tidydice: 1.0.0
 tidydr: 0.0.5
 tidyestimate: 1.1.0
 tidyfast: 0.2.1
-tidyfit: 0.6.2
+tidyfit: 0.6.3
 tidyformula: 0.1.0
 tidyfst: 1.7.6
 tidyft: 0.5.7
@@ -24278,7 +24280,7 @@ vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.2.0
 vcrpart: 1.0-4
-vctrs: 0.5.2
+vctrs: 0.6.0
 vcvComp: 1.0.2
 vdar: 0.1.3-2
 vdg: 1.2.2
@@ -24327,6 +24329,7 @@ vfprogression: 0.7.1
 vglmer: 1.0.3
 vhcub: 1.0.0
 vhica: 0.2.8
+via: 0.1.0
 viafr: 0.3.0
 vici: 0.6.0
 video: 0.1.1
