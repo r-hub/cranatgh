@@ -1483,7 +1483,7 @@ DIZutils: 0.1.2
 DIconvex: 1.0.0
 DImodels: '1.2'
 DIscBIO: 1.2.0
-DJL: '3.8'
+DJL: '3.9'
 DLASSO: 2.0.2
 DLL: 1.0.0
 DLMtool: 6.0.6
@@ -2256,6 +2256,7 @@ FeatureTerminatoR: 1.0.0
 FedData: 3.0.3
 FeedbackTS: '1.5'
 FertBoot: 0.5.0
+FertNet: 0.1.1
 Fgmutils: 0.9.5
 FiRE: 1.0.1
 FiSh: '1.1'
@@ -3369,6 +3370,7 @@ LCCR: '1.3'
 LCF: 1.7.0
 LCFdata: '2.0'
 LCMCR: 0.4.11
+LCMSQA: 1.0.0
 LCox: 0.1.0
 LDABiplots: 0.1.2
 LDAShiny: 0.9.3
@@ -4481,7 +4483,7 @@ ODEnetwork: 1.3.2
 ODEsensitivity: 1.1.2
 ODMconverter: '2.3'
 ODMeans: 0.1.0
-ODRF: 0.0.2
+ODRF: 0.0.3
 ODS: 0.2.0
 OData: '0.6'
 ODataQuery: 0.5.3
@@ -5173,7 +5175,7 @@ QZ: 0.2-2
 Qapprox: 0.2.0
 Qardl: 0.1.1
 Qest: 1.0.0
-Qindex: 0.1.1
+Qindex: 0.1.2
 QoLMiss: 0.1.0
 QoLR: '1.0'
 QregBB: 1.0.0
@@ -8981,7 +8983,7 @@ bivrp: 1.2-2
 biwavelet: 0.20.21
 biwt: 1.0.1
 bizdays: 1.0.13
-bizicount: 1.3.0
+bizicount: 1.3.1
 bjscrapeR: 0.1.0
 bkmr: 0.2.2
 bkmrhat: 1.1.3
@@ -9225,7 +9227,7 @@ bspec: '1.6'
 bspline: '2.1'
 bsplinePsd: 0.6.0
 bsplus: 0.1.4
-bspm: 0.5.0
+bspm: 0.5.1
 bspmma: 0.1-2
 bsreg: 0.0.2
 bssm: 2.0.1
@@ -9937,7 +9939,7 @@ codalm: 0.1.2
 codaredistlm: 0.1.0
 codeCollection: 0.1.3
 codebook: 0.9.2
-codebookr: 0.1.5
+codebookr: 0.1.6
 codebreaker: 1.0.1
 codemeta: 0.1.1
 codemetar: 0.3.5
@@ -10069,6 +10071,7 @@ comperes: 0.2.7
 compete: '0.1'
 competitiontoolbox: 0.7.1
 compicc: 0.1.0
+compindexR: 0.1.0
 completejourney: 1.1.0
 complex.surv.dat.sim: 2.0.0
 complexNet: 0.2.0
@@ -11226,7 +11229,7 @@ dlookr: 0.6.1
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.6
-dm: 1.0.4
+dm: 1.0.5
 dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
@@ -11312,7 +11315,7 @@ downloader: '0.4'
 downloadthis: 0.3.2
 downscale: 4.2-0
 downscaledl: '1.0'
-downsize: 0.2.2
+downsize: 0.2.3
 dowser: 1.1.0
 dpa: 1.0-3
 dparser: 1.3.1-10
@@ -12579,7 +12582,7 @@ flexclust: 1.4-1
 flexdashboard: 0.6.1
 flexiblas: 3.3.0
 flexmet: '1.1'
-flexmix: 2.3-18
+flexmix: 2.3-19
 flexmixNL: 0.0.1
 flexpolyline: 0.3.0
 flexrsurv: 2.0.13
@@ -12847,7 +12850,7 @@ funHDDC: 2.3.1
 funLBM: '2.3'
 funModeling: 1.9.4
 funbarRF: 1.0.2
-func2vis: 1.0-2
+func2vis: 1.0-3
 funcharts: 1.3.1
 funchir: 0.2.2
 functClust: 0.1.6
@@ -13492,7 +13495,7 @@ ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
 ggsurvey: 1.0.0
-ggsurvfit: 0.2.1
+ggsurvfit: 0.3.0
 ggswissmaps: 0.1.1
 ggtea: 0.1.1
 ggtern: 3.4.1
@@ -13529,7 +13532,7 @@ gifti: 0.8.0
 giftwrap: 0.0.4
 gigg: 0.2.1
 gim: 0.33.1
-gimme: 0.7-11
+gimme: 0.7-12
 gimmeTools: '0.1'
 gimms: 1.2.1
 giphyr: 0.2.0
@@ -14937,7 +14940,7 @@ isoreader: 1.3.2
 isotone: 1.1-1
 isotonic.pen: '1.0'
 isotracer: 1.1.3
-isotree: 0.5.17
+isotree: 0.5.19-1
 ispd: '0.2'
 ispdata: '1.1'
 isqg: '1.4'
@@ -16982,7 +16985,7 @@ mprobit: '0.9'
 mpspline2: 0.1.6
 mpt: 0.8-0
 mptools: 1.0.1
-mpwR: 0.1.2
+mpwR: 0.1.3
 mr: '0.1'
 mr.pivw: 0.1.1
 mr.raps: '0.2'
@@ -17434,7 +17437,7 @@ netie: '1.0'
 netjack: 1.2.0
 netmap: 0.1.2
 netmediate: 0.1.1
-netmeta: 2.8-0
+netmeta: 2.8-1
 netmhc2pan: 1.3.1
 netmodels: '0.2'
 netplot: 0.1-1
@@ -17517,7 +17520,7 @@ nic: 0.0.2
 nice: 0.4-1
 nicheROVER: 1.1.0
 nichevol: 0.1.20
-nieve: 0.1.1
+nieve: 0.1.2
 nifti.io: 1.0.0
 nightmares: 0.0.2
 nilde: 1.1-7
@@ -19513,6 +19516,7 @@ qdg: 1.0.0
 qdm: 0.1-0
 qfa: '1.2'
 qfasar: 1.2.1
+qfratio: 1.0.0
 qgam: 1.3.4
 qgcomp: 2.10.1
 qgcompint: 0.7.0
@@ -20358,7 +20362,7 @@ remss: 1.0.1
 renderthis: 0.2.0
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 0.17.0
+renv: 0.17.1
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
@@ -20429,7 +20433,7 @@ restez: 2.1.3
 restfulr: 0.0.15
 restimizeapi: 1.0.0
 restlos: 0.2-2
-restoptr: 1.0.4
+restoptr: 1.0.5
 restorepoint: '0.2'
 restrictedMVN: '1.0'
 restriktor: 0.3-500
@@ -20571,6 +20575,7 @@ richards: 0.5.0
 ricu: 0.5.4
 ridge: '3.3'
 ridgetorus: 1.0.1
+ridgregextra: 0.1.0
 ridigbio: 0.3.6
 ridittools: '0.1'
 riem: 0.3.0
@@ -21166,7 +21171,7 @@ rxSeq: 0.99.3
 rxivistr: 0.1.1
 rxode2: 2.0.11
 rxode2et: 2.0.9
-rxode2ll: 2.0.9
+rxode2ll: 2.0.10
 rxode2parse: 2.0.13
 rxode2random: 2.0.9
 rxylib: 0.2.11
@@ -21696,7 +21701,7 @@ sfheaders: 0.4.2
 sfhotspot: 0.7.1
 sfinx: 1.7.99
 sfnetworks: 0.6.2
-sfo: 0.1.1
+sfo: 0.1.2
 sfsmisc: 1.1-14
 sft: 2.2-1
 sftime: 0.2-0
@@ -23382,6 +23387,7 @@ text2sdg: 1.0.0
 text2sdgData: 0.1.0
 text2speech: 0.2.13
 text2vec: 0.6.3
+textBoxPlacement: '1.0'
 textTinyR: 1.1.7
 textTools: 0.1.0
 textcat: 1.0-8
@@ -23476,7 +23482,7 @@ tictoc: '1.1'
 tidyAML: 0.0.1
 tidyBF: 0.5.1
 tidyBdE: 0.3.1
-tidyCDISC: 0.2.0
+tidyCDISC: 0.2.1
 tidyCpp: 0.0.6
 tidyDisasters: 0.1.1
 tidyEmoji: 0.1.0
@@ -23812,7 +23818,7 @@ treeClust: 1.1-7
 treeDA: 0.0.5
 treeHFM: 1.0.3
 treeHMM: 0.1.1
-treePlotArea: 1.3.1
+treePlotArea: 1.4.0
 treebalance: 1.1.0
 treebase: 0.1.4
 treeclim: 2.0.6.0
