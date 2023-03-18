@@ -314,7 +314,7 @@ AzureContainers: 1.3.2
 AzureCosmosR: 1.0.0
 AzureGraph: 1.3.2
 AzureKeyVault: 1.0.5
-AzureKusto: 1.1.1
+AzureKusto: 1.1.2
 AzureML: 0.2.15
 AzureQstor: 1.0.1
 AzureRMR: 2.4.3
@@ -987,7 +987,7 @@ CR2: 0.2.1
 CRABS: 1.1.0
 CRAC: '1.0'
 CRANsearcher: 1.0.0
-CRE: 0.2.0
+CRE: 0.2.1
 CREAM: 1.1.1
 CREDS: 0.1.0
 CRF: 0.4-3
@@ -1937,7 +1937,7 @@ EbayesThresh: 1.4-12
 Ecdat: 0.4-2
 Ecfun: 0.3-2
 EcoDiet: 2.0.0
-EcoEnsemble: 1.0.1
+EcoEnsemble: 1.0.2
 EcoGenetics: 1.2.1
 EcoHydRology: 0.4.9
 EcoIndR: '1.8'
@@ -4243,6 +4243,7 @@ MultiSkew: 1.1.1
 MultiStatM: 1.1.0
 MultiVarMI: '1.0'
 MultiVarSel: 1.1.3
+Multiaovbay: 0.1.0
 Multiclasstesting: 1.3.9
 MultinomialCI: '1.2'
 MultipleBreakpoints: 0.1.0
@@ -5060,7 +5061,7 @@ PresenceAbsence: 1.1.11
 PressPurt: 1.0.2
 PrettyCols: 1.0.1
 PrevMap: 1.5.4
-PriceIndices: 0.1.5
+PriceIndices: 0.1.6
 PriorCD: 0.1.0
 PriorGen: 1.1.2
 PrivateLR: 1.2-22
@@ -5352,7 +5353,7 @@ RECSO: '1.0'
 REDCapDM: 0.4.0
 REDCapExporter: 0.2.2
 REDCapR: 1.1.0
-REDCapTidieR: 0.2.0
+REDCapTidieR: 0.3.0
 REEMtree: 0.90.4
 REGENT: 1.0.6
 REIDS: 0.1.0
@@ -6498,7 +6499,7 @@ SNPMaP.cdm: 1.1.1
 SNPRelate: 0.9.9
 SNPannotator: 0.2.6.0
 SNPassoc: 2.1-0
-SNPfiltR: 1.0.0
+SNPfiltR: 1.0.1
 SNPknock: 0.8.2
 SNPmaxsel: 1.0-3
 SNPtools: '1.1'
@@ -7112,6 +7113,7 @@ TDAstats: 0.4.1
 TDAvec: 0.1.3
 TDCor: 0.1-2
 TDD: '0.4'
+TDLM: 0.1.0
 TDMR: '2.2'
 TDPanalysis: '1.0'
 TDbook: 0.0.6
@@ -7275,6 +7277,7 @@ TeachingSampling: 4.1.1
 TechPhD: 1.0.0
 Tejapi: 1.0.1
 TempCont: 0.1.0
+TempStable: 0.1.0
 TempleMetrics: 1.2.0
 Temporal: 0.3.0
 TemporalGSSA: 1.0.1
@@ -8117,7 +8120,7 @@ animl: 1.0.0
 anipaths: 0.10.2
 aniview: 0.1.0
 anm: 1.1-1
-anndata: 0.7.5.5
+anndata: 0.7.5.6
 annotater: 0.2.2
 annotator: 0.0.3
 annovarR: 1.0.0
@@ -9822,7 +9825,7 @@ cloudRmpiJars: '1.1'
 cloudSimplifieR: 0.1.9
 cloudUtil: 0.1.12
 cloudml: 0.6.1
-cloudos: 0.3.0
+cloudos: 0.4.0
 cloudstoR: 0.2.0
 clpAPI: 1.3.1
 clr: 0.1.2
@@ -10584,7 +10587,7 @@ cvCovEst: 1.2.0
 cvGEE: 0.3-0
 cvTools: 0.3.2
 cvam: 0.9.3
-cvap: 0.1.1
+cvap: 0.1.3
 cvar: '0.5'
 cvcqv: 1.0.0
 cvcrand: 0.1.0
@@ -11122,7 +11125,7 @@ disaggR: 1.0.5
 disaggregation: 0.1.4
 disastr.api: 1.0.5
 disbayes: 1.0.0
-discAUC: 0.4.0
+discAUC: 1.0.0
 discSurv: 2.0.0
 discfrail: '0.1'
 discgolf: 0.2.0
@@ -11382,7 +11385,7 @@ ds: '4.0'
 ds4psy: 0.9.0
 dsa: 1.0.12
 dsample: 0.91.3.4
-dsb: 1.0.2
+dsb: 1.0.3
 dscore: 1.8.0
 dsdp: 0.1.1
 dse: 2020.2-1
@@ -12045,6 +12048,7 @@ evir: 1.7-4
 evmix: '2.12'
 evoTS: 1.0.2
 evobiR: '1.1'
+evolMap: 1.2.33
 evolqg: 0.2-9
 evolvability: 2.0.0
 evoper: 0.5.0
@@ -13359,7 +13363,7 @@ ggconf: '0.1'
 ggcorrplot: 0.1.4
 ggcorset: 0.4.5
 ggcoverage: 0.7.1
-ggdag: 0.2.7
+ggdag: 0.2.8
 ggdark: 0.2.1
 ggdemetra: 0.2.3
 ggdendro: 0.1.23
@@ -13400,7 +13404,7 @@ ggimg: 0.1.2
 gginference: 0.1.3
 gginnards: 0.1.1
 ggip: 0.3.1
-ggiraph: 0.8.6
+ggiraph: 0.8.7
 ggiraphExtra: 0.3.0
 ggisotonic: 0.1.2
 ggjoy: 0.4.1
@@ -13815,7 +13819,7 @@ graphsim: 1.0.3
 graphx: '1.0'
 grasp: 2.5-7
 grasper: 0.4-4
-grates: 0.3.1
+grates: 1.0.0
 gratia: 0.8.1
 graticule: 0.2.0
 gratis: 1.0.0
@@ -13827,7 +13831,7 @@ greatR: 0.2.0
 grec: 1.4.1
 greed: 0.6.1
 greekLetters: 0.0.7
-greeks: 1.0.0
+greeks: 1.1.0
 greenclust: 1.1.0
 greencrab.toolkit: '0.1'
 gregRy: 0.1.0
@@ -13942,7 +13946,7 @@ gt: 0.8.0
 gt4ireval: '2.0'
 gtExtras: 0.4.5
 gtWAS: 1.1.0
-gtable: 0.3.1
+gtable: 0.3.2
 gtcorr: 0.2-1
 gte: 1.2-3
 gtfs2emis: 0.1.0
@@ -14334,7 +14338,7 @@ htmldf: 0.6.0
 htmltab: 0.8.2
 htmltidy: 0.5.0
 htmltools: 0.5.4
-htmlwidgets: 1.6.1
+htmlwidgets: 1.6.2
 htree: 2.0.0
 hts: 6.0.2
 htsr: 1.2.0
@@ -14426,7 +14430,7 @@ hysteresis: '2.7'
 hzar: 0.2-5
 i18n: 0.2.0
 i2dash: 0.2.3
-i2extras: 0.1.2
+i2extras: 0.2.1
 iAR: 1.2.0
 iAdapt: 2.0.1
 iBATCGH: 1.3.1
@@ -14686,7 +14690,7 @@ incadata: 0.9.1
 incase: 0.3.1
 incgraph: 1.0.1
 incidence: 1.7.3
-incidence2: 1.2.3
+incidence2: 2.0.0
 incidental: '0.1'
 incidentally: 1.0.2
 inctools: 1.0.15
@@ -14769,7 +14773,7 @@ intRegGOF: 0.85-5
 intRinsic: 0.2.2
 intRvals: 1.0.1
 intSDM: 1.0.5
-intamap: 1.4-16
+intamap: 1.5-6
 intamapInteractive: 1.1-7
 intccr: 3.0.4
 intcensROC: 0.1.3
@@ -15204,6 +15208,7 @@ kfda: 1.0.0
 kfigr: 1.2.1
 kfino: 1.0.0
 kgc: 1.0.0.2
+kgen: 0.2.1
 kgp: 1.1.1
 kgrams: 0.1.2
 kgschart: 1.3.5
@@ -15233,7 +15238,7 @@ kittyR: 1.1.0
 kiwisR: 0.2.0
 kknn: 1.3.1
 kko: 1.0.1
-klaR: 1.7-1
+klaR: 1.7-2
 klassR: 0.2.0
 klausuR: 0.12-14
 kldtools: '1.2'
@@ -15404,7 +15409,7 @@ later: 1.3.0
 latex2exp: 0.9.6
 latexdiffr: 0.1.0
 latexpdf: 0.1.7
-latrend: 1.5.0
+latrend: 1.5.1
 latte: 0.2.1
 lattice: 0.20-45
 latticeDensity: 1.2.6
@@ -16730,7 +16735,7 @@ mlpack: 4.0.1
 mlpwr: 1.0.0
 mlquantify: 0.2.0
 mlr: 2.19.1
-mlr3: 0.14.1
+mlr3: 0.15.0
 mlr3benchmark: 0.1.5
 mlr3cluster: 0.1.8
 mlr3data: 0.6.1
@@ -17147,7 +17152,7 @@ multigraphr: 0.1.0
 multigroup: 0.4.5
 multilateral: 1.0.0
 multilaterals: '1.0'
-multilevLCA: '1.0'
+multilevLCA: '1.1'
 multilevel: '2.7'
 multilevelMatching: 1.0.0
 multilevelPSA: 1.2.5
@@ -17969,7 +17974,7 @@ openNLPmodels.en: 0.0-4
 openNLPmodels.es: 0.0-4
 openSTARS: 1.2.3
 openSkies: 1.1.6
-openVA: 1.1.0
+openVA: 1.1.1
 openadds: 0.2.0
 openai: 0.4.1
 openair: 2.16-0
@@ -18299,7 +18304,7 @@ papply: '0.1'
 parSim: 0.1.4
 parabar: 0.10.1
 parade: '0.1'
-paradox: 0.11.0
+paradox: 0.11.1
 parallelDist: 0.2.6
 parallelMCMCcombine: '2.0'
 parallelML: '1.2'
@@ -18333,7 +18338,7 @@ parmsurvfit: 0.1.0
 paropt: 0.2.1
 parqr: 0.1.0
 parquetize: 0.5.4
-parseRPDR: 0.2.4
+parseRPDR: 1.0.0
 parsec: 1.2.6
 parsedate: 1.3.1
 parsel: 0.3.0
@@ -19386,10 +19391,10 @@ pssmooth: 1.0.3
 pstest: 0.1.3.900
 psy: '1.2'
 psycModel: 0.4.1
-psych: 2.2.9
+psych: 2.3.3
 psychNET: 0.0.4
 psychReport: 3.0.2
-psychTools: 2.2.9
+psychTools: 2.3.3
 psychmeta: 2.6.5
 psychmetadata: 1.0.0
 psycho: 0.6.1
@@ -19550,7 +19555,7 @@ qoma.smuggler: 0.0.1
 qp: 0.3-2
 qpNCA: 1.1.6
 qpcR: 1.4-1
-qpdf: 1.3.1
+qpdf: 1.3.2
 qpmadr: 1.1.0-0
 qqboxplot: 0.3.0
 qqconf: 1.3.1
@@ -19895,7 +19900,7 @@ railtrails: 0.1.1
 rainbow: '3.7'
 raincin: 1.0.3
 raincpc: 1.1.0
-rainette: 0.3.0
+rainette: 0.3.1
 rainfarmr: '0.1'
 rainfreq: '0.3'
 rairtable: 0.1.1
@@ -20362,7 +20367,7 @@ remss: 1.0.1
 renderthis: 0.2.0
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 0.17.1
+renv: 0.17.2
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
@@ -20387,7 +20392,7 @@ reportROC: '3.6'
 reportReg: 0.3.0
 reportRmd: 0.0.2
 reportRx: '1.0'
-reporter: 1.3.8
+reporter: 1.3.9
 reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
@@ -20652,7 +20657,7 @@ rkt: '1.6'
 rkvo: '0.1'
 rlandscape: '1.0'
 rlang: 1.1.0
-rlas: 1.6.2
+rlas: 1.6.3
 rlc: 0.4.1
 rlcv: 1.0.0
 rld: '1.0'
@@ -20665,6 +20670,7 @@ rlfsm: 1.1.2
 rlibkriging: 0.7-4.3
 rliger: 1.0.0
 rlist: 0.4.6.2
+rlistings: 0.2.1
 rlm: '1.2'
 rlmDataDriven: 0.4.0
 rlme: '0.5'
@@ -21170,12 +21176,12 @@ rwunderground: 0.1.8
 rxSeq: 0.99.3
 rxivistr: 0.1.1
 rxode2: 2.0.11
-rxode2et: 2.0.9
-rxode2ll: 2.0.10
+rxode2et: 2.0.10
+rxode2ll: 2.0.11
 rxode2parse: 2.0.14
-rxode2random: 2.0.9
+rxode2random: 2.0.10
 rxylib: 0.2.11
-ryandexdirect: 3.6.0
+ryandexdirect: 3.6.2
 rym: 1.0.6
 ryouready: '0.4'
 rysgran: 2.1.0
@@ -22048,7 +22054,7 @@ sitmo: 2.0.2
 sitools: '1.4'
 sitree: 0.1-13
 sitreeE: 0.0-8
-sits: 1.2.0
+sits: 1.3.0
 sitsfeats: 0.0.1
 sivipm: 1.1-4
 sivs: 0.2.7
@@ -23383,7 +23389,7 @@ texreg: 1.38.6
 text: 0.9.99.2
 text.alignment: 0.1.3
 text2map: 0.1.6
-text2sdg: 1.0.0
+text2sdg: 1.1.1
 text2sdgData: 0.1.1
 text2speech: 0.2.13
 text2vec: 0.6.3
@@ -23554,7 +23560,7 @@ tidystringdist: 0.1.4
 tidysynth: 0.1.0
 tidytable: 0.10.0
 tidytags: 1.1.1
-tidyterra: 0.3.2
+tidyterra: 0.4.0
 tidytext: 0.4.1
 tidytidbits: 0.3.2
 tidytransit: 1.5.0
@@ -24510,7 +24516,7 @@ waterYearType: 1.0.1
 waterfall: 1.0.2
 waterfalls: 1.0.0
 waterquality: 0.3.0
-watson: '0.2'
+watson: '0.3'
 wav: 0.1.0
 wavScalogram: 1.1.2
 waveband: 4.7.2
