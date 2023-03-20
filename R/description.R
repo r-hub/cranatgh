@@ -31,7 +31,7 @@ make_description <- function(pkg) {
     stop("'pkg' must be a character scalar or a 'description' object")
   }
 
-  paste(
+  dsc <- paste(
     sep = "  ",
     dont_break(":exclamation: This is a read-only mirror of the CRAN R package repository."),
     dont_break(
@@ -40,4 +40,9 @@ make_description <- function(pkg) {
     ),
     nullna_or(pkg$BugReports, dont_break("Report bugs for this package: ", pkg$BugReports))
   )
+
+  # Limit is 350 characters, but be conservative
+  if (nchar(dsc) > 320) dsc <- paste0(substr(dsc, 1, 320), " ...")
+
+  dsc
 }
