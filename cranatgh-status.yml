@@ -2058,7 +2058,7 @@ ExPanDaR: 0.5.3
 ExPosition: 2.8.23
 Exact: '3.2'
 ExactCIdiff: '2.1'
-ExactMed: 0.1.0
+ExactMed: 0.2.0
 ExactMultinom: 0.1.2
 ExactNumCI: 1.0.0
 ExactPath: '1.0'
@@ -4790,6 +4790,7 @@ PP3: '1.2'
 PPCI: 0.1.5
 PPLasso: '2.0'
 PPMR: '1.0'
+PPMiss: 0.1.0
 PPQplan: 1.1.0
 PPRL: 0.3.8
 PPSFS: 0.1.0
@@ -5044,7 +5045,7 @@ PowerTOST: 1.5-4
 PowerUpR: 1.1.0
 PowerVenn: 0.0.1
 PowerfulMaxEigenpair: 0.1.1
-PracTools: 1.2.8
+PracTools: '1.3'
 PracticalEquiDesign: 0.0.3
 PreKnitPostHTMLRender: 0.1.0
 PreProcess: 3.1.7
@@ -8694,7 +8695,7 @@ bdots: 1.2.5
 bdpar: 3.0.3
 bdpopt: 1.0-1
 bdpv: '1.3'
-bdrc: 1.0.0
+bdrc: 1.1.0
 bdribs: 1.0.4
 bdrift: 1.2.2
 bdscale: 2.0.0
@@ -12865,7 +12866,7 @@ funcy: 1.0.1
 fundiversity: 1.1.1
 funest: 0.0.1.3
 funfits: 2.0-3
-fungible: 2.2.2
+fungible: '2.3'
 funique: 0.0.1
 funkyheatmap: 0.3.0
 funmediation: 1.0.1
@@ -13383,7 +13384,7 @@ ggfittext: 0.9.1
 ggfocus: 1.0.0
 ggforce: 0.4.1
 ggformula: 0.10.2
-ggfortify: 0.4.15
+ggfortify: 0.4.16
 ggfun: 0.0.9
 ggfx: 1.0.1
 gggap: 1.0.1
@@ -13605,7 +13606,7 @@ glmmLasso: 1.6.2
 glmmML: 1.1.4
 glmmPen: 1.5.3.0
 glmmSeq: 0.5.5
-glmmTMB: 1.1.5
+glmmTMB: 1.1.6
 glmmboot: 0.6.0
 glmmfields: 0.1.7
 glmmrBase: 0.2.5
@@ -14246,7 +14247,7 @@ hlaR: 1.0.0
 hlidacr: 0.2.0
 hlr: 0.0-4
 hlt: 1.3.1
-hmcdm: 2.1.0
+hmcdm: 2.1.1
 hmclearn: 0.0.5
 hmeasure: 1.0-2
 hmer: 1.2.0
@@ -15099,7 +15100,7 @@ js: '1.2'
 jsTree: '1.2'
 jsTreeR: 2.3.1
 jshintr: 0.1.0
-jskm: 0.4.4
+jskm: '0.5'
 jsmodule: 1.4.0
 json2aRgs: 0.3.0
 json64: 0.1.3
@@ -15776,7 +15777,7 @@ logNormReg: 0.5-0
 logOfGamma: 0.0.1
 logbin: 2.0.5
 logconPH: '1.5'
-logconcens: 0.17-1
+logconcens: 0.17-2
 logcondens: 2.1.7
 logcondens.mode: '1.0'
 logcondiscr: 1.0.6
@@ -16395,7 +16396,7 @@ metadat: 1.2-0
 metadynminer: 0.1.7
 metadynminer3d: 0.0.2
 metafolio: 0.1.1
-metafor: 3.8-1
+metafor: 4.0-0
 metaforest: 0.1.3
 metafuse: 2.0-1
 metagam: 0.3.1
@@ -17262,7 +17263,7 @@ mvnormtest: 0.1-9
 mvnpermute: 1.0.1
 mvord: 1.1.1
 mvoutlier: 2.1.1
-mvp: 1.0-12
+mvp: 1.0-14
 mvpart: 1.6-2
 mvpd: 0.0.3
 mvprpb: 1.0.4
@@ -17860,7 +17861,7 @@ odbc: 1.3.4
 oddnet: 0.1.0
 odds.converter: 1.4.8
 odds.n.ends: 0.1.4
-oddsapiR: 0.0.2
+oddsapiR: 0.0.3
 oddsratio: 2.0.1
 oddstream: 0.5.0
 odeGUTS: 1.0.1
@@ -18366,7 +18367,7 @@ partools: 1.1.6
 partsm: 1.1-3
 parttime: 0.1.1
 party: 1.3-13
-partykit: 1.2-18
+partykit: 1.2-19
 parviol: '1.1'
 parzer: 0.4.1
 pasadr: '1.0'
@@ -19936,7 +19937,7 @@ randomUniformForest: 1.1.6
 randomcoloR: 1.1.0.1
 randomizationInference: 1.0.4
 randomizeBE: 0.3-5
-randomizeR: 3.0.0
+randomizeR: 3.0.1
 randomizr: 0.24.0
 randomsearch: 0.2.0
 randquotes: 0.1.1
@@ -21058,7 +21059,7 @@ rsurveycto: 0.1.4
 rsvd: 1.0.5
 rsvddpd: 1.0.0
 rsvg: 2.4.0
-rswipl: 9.1.6
+rswipl: 9.1.7
 rsyncrosim: 1.4.2
 rsyntax: 0.1.4
 rsyslog: 1.0.2
@@ -21284,7 +21285,7 @@ samplesizelogisticcasecontrol: 2.0.0
 sampling: '2.9'
 samplingDataCRT: '1.0'
 samplingEstimates: 0.1-3
-samplingR: 0.1.1
+samplingR: 0.1.2
 samplingVarEst: '1.5'
 samplingbook: 1.2.4
 sampsizeval: 1.0.0.0
@@ -21623,7 +21624,7 @@ sense: 1.0.0
 sensemakr: 0.1.4
 sensiPhy: 0.8.5
 sensibo.sky: 1.0.0
-sensitivity: 1.28.0
+sensitivity: 1.28.1
 sensitivity2x2xk: '1.01'
 sensitivityCalibration: 0.0.1
 sensitivityPStrat: '1.0'
@@ -21694,7 +21695,7 @@ settings: 0.2.7
 setwidth: 1.0-4
 sever: 0.0.7
 severity: '2.0'
-sf: 1.0-11
+sf: 1.0-12
 sfa: 1.0-1
 sfaR: 0.1.1
 sfadv: 1.0.1
@@ -22724,7 +22725,7 @@ starsExtra: 0.2.7
 starsTileServer: 0.1.1
 starschemar: 1.2.0
 startR: 2.2.1
-starter: 0.1.12
+starter: 0.1.13
 starticles: 0.1.0
 startup: 0.19.0
 startupmsg: 0.9.6
@@ -23017,7 +23018,7 @@ survC1: 1.0-3
 survClip: 0.2.3
 survCurve: '1.0'
 survELtest: 2.0.1
-survHE: 1.1.2
+survHE: 2.0.1
 survIDINRI: 1.1-2
 survJamda: 1.1.4
 survJamda.data: 1.0.2
@@ -24532,7 +24533,7 @@ waveslim: 1.8.4
 wavethresh: 4.7.2
 wayback: 0.2.4
 waydown: 1.1.0
-waywiser: 0.2.0
+waywiser: 0.3.0
 wbacon: '0.6'
 wbs: '1.4'
 wbsd: 1.0.0
