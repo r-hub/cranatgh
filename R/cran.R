@@ -32,9 +32,11 @@ get_all_cran_packages <- function() {
   old_ver <- na.omit(vapply(
     archive,
     function(x) {
-      n <- basename(tail(rownames(x), 1))
-      n2 <- sub("\\.tar\\.gz$", "", sub("^.*_", "", n))
-      c(n2, NA_character_)[1]
+      n <- basename(rownames(x))
+      v <- sub("\\.tar\\.gz$", "", sub("^.*_", "", n))
+      pv <- package_version(v, strict=FALSE)
+      latest <- as.character(max(pv, na.rm = TRUE))
+      c(latest, NA_character_)[1]
     },
     character(1)
   ))
