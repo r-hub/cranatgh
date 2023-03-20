@@ -3,6 +3,7 @@
 export(add_package)
 export(check_package)
 export(get_mirror_status)
+export(refresh_status_yml)
 export(setup_repo_features)
 export(update_all_packages)
 export(update_description)
