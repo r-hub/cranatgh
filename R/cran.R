@@ -41,7 +41,7 @@ get_all_cran_packages <- function() {
       n <- basename(rownames(x))
       v <- sub("\\.tar\\.gz$", "", sub("^.*_", "", n))
       pv <- package_version(v, strict=FALSE)
-      latest <- as.character(max(pv, na.rm = TRUE))
+      latest <- stats::na.omit(v[which(pv == max(pv))])
       c(latest, NA_character_)[1]
     },
     character(1)
