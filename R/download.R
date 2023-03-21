@@ -8,9 +8,18 @@
 #' @keywords internal
 
 package_urls <- function(package, version) {
-  c(sprintf("%s/src/contrib/%s_%s.tar.gz", cran_mirror, package, version),
-    sprintf("%s/src/contrib/Archive/%s/%s_%s.tar.gz", cran_mirror,
-            package, package, version))
+  # work around some mistakes, file names do not match the version number
+  if (package == "HTML" && version == "0.4") {
+    "https://cran.rstudio.com/src/contrib/Archive/HTML/HTML_0.4-1.tar.gz"
+
+  } else if (package == "timeslab" && version == "1.0") {
+    "https://cran.r-project.org/src/contrib/Archive/timeslab/timeslab_1.0-1.tar.gz"
+
+  } else {
+    c(sprintf("%s/src/contrib/%s_%s.tar.gz", cran_mirror, package, version),
+      sprintf("%s/src/contrib/Archive/%s/%s_%s.tar.gz", cran_mirror,
+              package, package, version))
+  }
 }
 
 #' Download CRAN source package into the current directory
