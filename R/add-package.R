@@ -148,6 +148,11 @@ add_missing_version <- function(package, version, date) {
   setwd(package)
   on.exit(setwd(".."), add = TRUE)
 
+  ## To prevent an error like "detected dubious ownership in repository"
+  if (.Platform$OS.type == "unix") {
+    system("chown -R `id -un`:`id -gn` .")
+  }
+
   ## Add all the new files
   git("status")
   git("add", "-A", ".")
