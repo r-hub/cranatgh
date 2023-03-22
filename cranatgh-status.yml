@@ -695,7 +695,7 @@ BioPETsurv: 0.1.0
 BioPhysConnectoR: 1.6-10
 BioProbability: '1.0'
 BioRssay: 1.1.0
-BioStatR: 4.0.0
+BioStatR: 4.0.1
 BioVenn: 1.1.3
 BiocManager: 1.30.20
 Biocomb: '0.4'
@@ -1571,7 +1571,7 @@ DTDA.ni: 1.0.1
 DTK: '3.5'
 DTMCPack: 0.1-3
 DTR: '1.7'
-DTRKernSmooth: 0.1.0
+DTRKernSmooth: 1.0.0
 DTRlearn: '1.3'
 DTRlearn2: '1.1'
 DTRreg: '1.7'
@@ -2146,7 +2146,7 @@ FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
 FIESTA: 3.5.1
-FIESTAutils: 1.1.4
+FIESTAutils: 1.1.5
 FILEST: 1.1.2
 FIT: 0.0.6
 FITSio: 2.1-6
@@ -6949,7 +6949,7 @@ SplitSoftening: 2.1-0
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.13.0
+SqlRender: 1.13.1
 SqueakR: 1.3.0
 Sshaped: '1.1'
 Sstack: 1.0.1
@@ -7340,7 +7340,7 @@ TimeSeries.OBeu: 1.2.4
 TimeVTree: 0.3.1
 TimeVarConcurrentModel: '1.0'
 TimeWarp: 1.0.15
-Tinflex: '2.3'
+Tinflex: '2.4'
 TinnR: 1.0-5
 TipDatingBeast: 1.1-0
 TippingPoint: 1.2.0
@@ -8233,6 +8233,7 @@ arcos: '1.27'
 arcpullr: 0.2.7
 arctools: 1.1.6
 ardl.nardl: 1.2.3
+ards: 0.1.1
 areabiplot: 1.0.0
 areal: 0.1.8
 arealDB: 0.3.9
@@ -8549,7 +8550,7 @@ base64: 2.0.1
 base64enc: 0.1-3
 base64url: '1.4'
 baseballDBR: 0.1.2
-baseballr: 1.3.0
+baseballr: 1.5.0
 basecamb: 1.1.2
 basedosdados: 0.2.2
 baseflow: 0.13.2
@@ -9396,7 +9397,7 @@ cardidates: 0.4.8
 cardioModel: '1.4'
 care: 1.1.11
 careless: 1.2.1
-caret: 6.0-93
+caret: 6.0-94
 caretEnsemble: 2.0.2
 caretForecast: 0.1.1
 caretLSF: '1.25'
@@ -9527,7 +9528,7 @@ cdlei: '1.0'
 cdmTools: 1.0.2
 cdom: 0.1.0
 cdparcoord: 1.0.1
-cdrcR: 0.1.0
+cdrcR: 0.1.1
 cds: 1.0.3
 ceRtainty: 1.0.0
 cec2005benchmark: 1.0.4
@@ -10415,6 +10416,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
+crew: 0.0.4
 crfsuite: 0.4.1
 cricketdata: 0.2.2
 cricketr: 0.0.26
@@ -10461,7 +10463,7 @@ crosswalkr: 0.2.6
 crossword.r: 0.3.6
 crov: 0.2.0
 crp.CSFP: 2.0.2
-crplyr: 0.3.9
+crplyr: 0.4.0
 crq: '0.3'
 crqa: 2.0.3
 crqanlp: '0.3'
@@ -10544,7 +10546,7 @@ ctsfeatures: 1.0.0
 ctv: 0.9-4
 cuRe: 1.1.0
 cubature: 2.0.4.6
-cubble: 0.2.0
+cubble: 0.2.1
 cubelyr: 1.0.2
 cubeview: 0.2.0
 cubfits: 0.1-4
@@ -10804,7 +10806,7 @@ dbnR: 0.7.8
 dbnlearn: 0.1.0
 dbparser: 2.0.0
 dbplot: 0.3.3
-dbplyr: 2.3.1
+dbplyr: 2.3.2
 dbscan: 1.1-11
 dbstats: 2.0.1
 dbx: 0.2.8
@@ -10821,6 +10823,7 @@ dcifer: 1.2.0
 dclone: 2.3-0
 dclong.spt: 0.1.1
 dclust: 0.1.0
+dcm2: 1.0.2
 dcminfo: 0.1.7
 dcmle: 0.3-1
 dcmodify: 0.1.9
@@ -11064,7 +11067,7 @@ didrooRFM: 1.0.0
 dief: '1.2'
 dielectric: 0.2.3
 diem: '1.0'
-diemr: 1.1.1
+diemr: '1.2'
 dietr: 1.1.4
 diezeit: 0.1-0
 difNLR: 1.4.1
@@ -12877,13 +12880,13 @@ funique: 0.0.1
 funkyheatmap: 0.3.0
 funmediation: 1.0.1
 funnelR: 0.1.0
-funneljoin: 0.1.0
+funneljoin: 0.2.0
 funprog: 0.3.0
 funr: 0.3.2
 funrar: 1.5.0
 funreg: 1.2.2
 funspace: 0.1.1
-funtimes: '9.0'
+funtimes: '9.1'
 furniture: 1.9.12
 furrr: 0.3.1
 fusedest: 1.3.1
@@ -13358,7 +13361,7 @@ ggbeeswarm: 0.7.1
 ggblanket: 1.7.0
 ggborderline: 0.2.0
 ggbraid: 0.2.2
-ggbrain: 0.8.0
+ggbrain: 0.8.1
 ggbreak: 0.1.1
 ggbuildr: 0.1.0
 ggbump: 0.1.0
@@ -13417,7 +13420,7 @@ ggisotonic: 0.1.2
 ggjoy: 0.4.1
 gglasso: '1.5'
 gglgbtq: 0.1.1
-gglm: 1.0.1
+gglm: 1.0.2
 gglogo: 0.1.5
 ggloop: 0.1.0
 gglorenz: 0.0.2
@@ -14170,7 +14173,7 @@ heuristicsmineR: 0.2.7
 hexFinder: 0.8.0
 hexSticker: 0.4.9
 hexView: 0.3-4
-hexbin: 1.28.2
+hexbin: 1.28.3
 hexfont: 0.3.1
 hextri: 0.9.17
 hflights: '0.1'
@@ -14269,7 +14272,7 @@ hmma: 1.1.0
 hmmhdd: '1.0'
 hmmm: 1.0-4
 hmmr: 1.0-0
-hms: 1.1.2
+hms: 1.1.3
 hmstimer: 0.2.1
 hnp: 1.2-6
 hoa: 2.1.4.1
@@ -14339,6 +14342,7 @@ hsrecombi: 0.5.1
 hsstan: 0.8.1
 htdp: 0.1.4
 htestClust: 0.2.2
+htetree: 0.1.13
 htm2txt: 2.2.2
 htmcglm: 0.0.1
 html2R: 0.1.0
@@ -14553,6 +14557,7 @@ icesDatsuQC: 1.0.1
 icesSAG: 1.4.0
 icesSD: 2.0.0
 icesTAF: 4.2.0
+icesVMS: 1.1.4
 icesVocab: 1.2.0
 ichimoku: 1.4.5
 icmm: '1.2'
@@ -17301,6 +17306,7 @@ myTAI: 0.9.3
 mycobacrvR: '1.1'
 mycor: 0.1.1
 myepisodes: 1.1.1
+mzipmed: 1.2.5
 mztwinreg: 1.0-1
 n1qn1: 6.0.1-11
 nCDunnett: 1.1.0
@@ -17852,6 +17858,7 @@ occCite: 0.5.6
 occTest: 0.1.1
 occUncertain: 0.1.0
 occupancy: '1.2'
+occupationMeasurement: 0.2.0
 ocd: '1.1'
 oce: 1.7-10
 oceCens: 0.1.1
@@ -19160,6 +19167,7 @@ prLogistic: '1.2'
 prWarp: 1.0.0
 prabclus: 2.3-2
 pracma: 2.4.2
+pracpac: 0.1.0
 practicalSigni: 0.1.0
 pragma: 0.1.3
 prais: 1.1.2
@@ -21363,6 +21371,7 @@ sbpiper: 1.9.0
 sbrl: '1.2'
 sbtools: 1.1.21
 sbw: 1.1.5
+sc2sc: 0.0.1-7
 scAnnotate: 0.1.1
 scBio: 0.1.6
 scCAN: 1.0.4
@@ -21465,6 +21474,7 @@ scout: 1.0.4
 scperturbR: 0.1.0
 scphaser: 1.0.0
 scpi: 2.2.1
+scplot: 0.3.0
 scpm: 2.0.0
 scpoisson: 0.0.1
 scqe: 1.0.0
@@ -22316,7 +22326,7 @@ sp23design: 0.9-1
 sp500SlidingWindow: 0.1.0
 spANOVA: 0.99.3
 spAddins: 0.2.0
-spBFA: '1.2'
+spBFA: '1.3'
 spBayes: 0.4-6
 spBayesSurv: 1.1.6
 spCP: '1.3'
@@ -22863,7 +22873,7 @@ stockR: 1.0.74
 stockfish: 1.0.0
 stocks: 1.1.4
 stoichcalc: 1.1-4
-stokes: 1.1-6
+stokes: 1.1-8
 stopdetection: 0.1.1
 stopp: 0.1.0
 stoppingrule: 0.1.0
@@ -23022,7 +23032,7 @@ surrosurvROC: 0.1.0
 surv2sample: 0.1-2
 surv2sampleComp: 1.0-5
 survAH: 1.0.0
-survAUC: 1.1-1
+survAUC: 1.2-0
 survAWKMT2: 1.0.1
 survAccuracyMeasures: '1.2'
 survBayes: 0.2.2
@@ -23154,7 +23164,7 @@ swissparl: 0.2.2
 switchboard: '0.1'
 switchcase: 0.1.1
 switchnpreg: 0.8-0
-switchr: 0.14.5
+switchr: 0.14.8
 switchrGist: 0.2.5
 swmmr: 0.9.1
 swst: 0.0.2
@@ -23172,6 +23182,7 @@ sylly.en: 0.1-3
 sym.arma: '1.0'
 symDMatrix: 2.1.1
 symSEM: '0.1'
+symbol.equation.gpt: 1.1.1
 symbolicDA: 0.7-1
 symbols: '1.1'
 symengine: 0.2.2
@@ -24420,7 +24431,7 @@ vita: 1.0.0
 vitae: 0.5.3
 vitality: '1.3'
 vivainsights: 0.2.0
-vivaldi: 1.0.0
+vivaldi: 1.0.1
 vivid: 0.2.5
 vivo: 0.2.1
 vizdraws: '1.2'
@@ -24870,7 +24881,7 @@ yager: 0.1.1
 yahoofinancer: 0.1.0
 yakmoR: 0.1.1
 yaml: 2.3.7
-yamlet: 0.10.18
+yamlet: 0.10.20
 yamlme: 0.1.2
 yap: 0.1.1
 yaps: 1.2.5
