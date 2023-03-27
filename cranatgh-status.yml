@@ -244,7 +244,7 @@ AnalyzeTS: '2.3'
 AnanseSeurat: 1.1.0
 AncestryMapper: '2.0'
 AnchorRegression: 0.1.3
-Andromeda: 0.6.1
+Andromeda: 0.6.3
 AnglerCreelSurveySimulation: 1.0.2
 Animal: '1.04'
 AnimalAPD: 1.0.0
@@ -1652,7 +1652,7 @@ DendroSync: 0.1.4
 DengueRT: 1.0.1
 DensParcorr: '1.1'
 Density.T.HoldOut: '2.00'
-DepCens: 0.2.1
+DepCens: 0.2.3
 DepLogo: '1.2'
 Depela: '0.0'
 DependencyReviewer: 1.2.3
@@ -1710,7 +1710,7 @@ Dire: 2.1.1
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
-Directional: '5.8'
+Directional: '5.9'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.21
@@ -2237,7 +2237,7 @@ FastGP: '1.2'
 FastGaSP: 0.5.2
 FastHCS: 0.0.7
 FastImputation: '2.1'
-FastJM: 1.2.0
+FastJM: 1.3.1
 FastKM: '1.1'
 FastKNN: 0.0.1
 FastLZeroSpikeInference: 2018.12.10
@@ -2855,7 +2855,7 @@ HTLR: 0.4-4
 HTML: 0.4-1
 HTMLUtils: 0.1.8
 HTMLapplets: 0.1-2.1
-HTRX: 1.2.1
+HTRX: 1.2.2
 HTSCluster: 2.0.10
 HTSDiff: 1.0.5
 HTSSIP: 1.4.1
@@ -2938,7 +2938,7 @@ HybridDesign: '1.0'
 HybridFS: 0.1.3
 HybridMC: '0.2'
 HydeNet: 0.10.11
-HydroCode: 1.0.2
+HydroCode: 1.0.3
 HydroMe: 2.0-1
 HyperG: 1.0.0
 HyperbolicDist: 0.6-4
@@ -4340,7 +4340,7 @@ NMRS: '1.0'
 NMTox: 0.1.0
 NMVANOVA: 1.1.0
 NMcalc: 0.0.1
-NMdata: 0.0.15
+NMdata: 0.0.16
 NMproject: 0.6.9
 NNLM: 0.4.3
 NNMIS: 1.0.1
@@ -4731,6 +4731,7 @@ PICBayes: '1.0'
 PIGE: '1.1'
 PIGShift: 1.0.1
 PIN: '0.8'
+PINMA: 1.1-1
 PINSPlus: 2.0.6
 PINstimation: 0.1.2
 PIPS: 1.0.1
@@ -5118,7 +5119,7 @@ PupillometryR: 0.0.4
 PurBayes: '1.3'
 Pursuit: 1.0.3
 PwrGSD: 2.3.6
-PxWebApiData: 0.7.0
+PxWebApiData: 0.8.0
 PythonInR: 0.1-12
 Q2q: 0.1.0
 Q7: 0.1.0
@@ -6452,7 +6453,7 @@ SIRItoGTFS: 0.2.4
 SIRmcmc: '1.1'
 SIRthresholded: 1.0.0
 SIS: 0.8-8
-SISIR: 0.2.1
+SISIR: 0.2.2
 SIT: 0.1.0
 SITH: 1.1.0
 SIfEK: 0.1.0
@@ -8402,7 +8403,7 @@ aurelius: 0.8.4
 aurin: 0.6.0
 ausplotsR: 1.2.8
 auteur: 0.12.1010
-auth0: 0.2.1
+auth0: 0.2.3
 auto.pca: '0.3'
 autoBagging: 0.1.0
 autoCovariateSelection: 1.0.0
@@ -10461,7 +10462,7 @@ crossmap: 0.4.0
 crossmatch: 1.3-1
 crossnma: 1.0.1
 crossrun: 0.1.1
-crosstable: 0.5.0
+crosstable: 0.6.0
 crosstalk: 1.2.0
 crosstalkr: 1.0.1
 crossurr: 1.0.6
@@ -10549,7 +10550,7 @@ ctrdata: 1.12.0
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
 cts: 1.0-22
-ctsem: 3.7.2
+ctsem: 3.7.6
 ctsemOMX: 1.0.4
 ctsfeatures: 1.0.0
 ctv: 0.9-4
@@ -11579,7 +11580,7 @@ eat: 0.1.4
 eatATA: 1.1.1
 eatDB: 0.5.0
 eatGADS: 0.20.0
-eatRep: 0.14.6
+eatRep: 0.14.7
 eatTools: 0.7.4
 ebGenotyping: 2.0.1
 ebSNP: '1.0'
@@ -13656,7 +13657,7 @@ glmvsd: '1.5'
 glmx: 0.1-3
 glmxdiag: 1.0.0
 globalGSA: '1.0'
-globalKinhom: 0.1.5
+globalKinhom: 0.1.6
 globalOptTests: '1.1'
 globalboosttest: 1.1-0
 globals: 0.16.2
@@ -14943,6 +14944,7 @@ irtDemo: 0.1.4
 irtGUI: '0.2'
 irtProb: '1.2'
 irtQ: 0.1.0
+irtawsi: 0.3.4
 irtoys: 0.2.2
 irtpwr: 1.0.0
 irtrees: 1.0.0
@@ -17388,7 +17390,7 @@ naturaList: 0.5.0
 natural: 0.9.0
 naturalsort: 0.1.3
 nauf: 1.1.0
-navigatr: 0.2.0
+navigatr: 0.2.1
 nawtilus: 0.1.4
 nbTransmission: 1.1.2
 nbapalettes: 0.1.0
@@ -17673,7 +17675,7 @@ noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
 noctua: 2.6.1
-nodbi: 0.9.1
+nodbi: 0.9.2
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodeSub: 1.2.5
@@ -17945,6 +17947,7 @@ ojsr: 0.1.2
 okcupiddata: 0.1.0
 okmesonet: 0.1.5
 olctools: 0.3.0
+oldbailey: 1.0.0
 ollg: 1.0.0
 ollggamma: 1.0.2
 olr: '1.1'
@@ -18515,7 +18518,7 @@ pcev: 2.2.2
 pcg: '1.1'
 pcgen: 0.2.0
 pch: '2.0'
-pchc: '0.9'
+pchc: '1.0'
 pcmabc: 1.1.3
 pcnetmeta: '2.8'
 pco: 1.0.1
@@ -19011,7 +19014,7 @@ poio: 0.0-4
 poisDoubleSamp: 1.1.1
 poisFErobust: 2.0.0
 poisbinom: 1.0.1
-poismf: 0.4.0-3
+poismf: 0.4.0-4
 poisson: '1.0'
 poisson.glm.mix: '1.3'
 poissonMT: 0.3-5
@@ -20328,7 +20331,7 @@ refreg: 0.1.1
 refreshr: 0.1.0
 refset: 0.1.1
 refuge: 0.3.3
-refund: 0.1-29
+refund: 0.1-30
 refund.shiny: '1.0'
 refund.wave: '0.1'
 regDIF: 1.1.0
@@ -20575,7 +20578,7 @@ rgexf: 0.16.2
 rggm: 1.0.1.1
 rggobi: 2.1.22
 rgho: 3.0.0
-rgl: 1.0.1
+rgl: 1.1.3
 rgl2gltf: 1.0.3
 rglobi: 0.2.28
 rglplus: '1.1'
@@ -20736,7 +20739,7 @@ rmapshaper: 0.4.6
 rmapzen: 0.4.4
 rmarchingcubes: 0.1.3
 rmargint: 2.0.2
-rmarkdown: '2.20'
+rmarkdown: '2.21'
 rmatio: 0.18.0
 rmcfs: 1.3.5
 rmcorr: 0.5.4
@@ -21611,7 +21614,7 @@ segclust2d: 0.3.0
 segen: 1.1.0
 segmag: 1.2.4
 segmenTier: 0.1.2
-segmented: 1.6-2
+segmented: 1.6-3
 segmentr: 0.2.0
 segmetric: 0.3.0
 segregation: 0.6.0
@@ -22070,6 +22073,7 @@ simts: 0.2.1
 simuclustfactor: 0.0.3
 simukde: 1.3.0
 simul: 0.1.1
+simulMGF: 0.1.0
 simulariatools: 2.4.0
 simulator: 0.2.5
 simule: 1.3.0
@@ -22331,7 +22335,7 @@ soptdmaeA: 1.0.0
 soql: 0.1.1
 sorcering: 0.9.2.3
 sorocs: 0.1.0
-sortable: 0.4.6
+sortable: 0.5.0
 sortinghat: '0.1'
 sorvi: 0.8.20
 sos: 2.1-4
@@ -22363,6 +22367,7 @@ spFSR: 2.0.4
 spFW: 0.1.0
 spGARCH: 0.2.2
 spGoogle: 0.1-2
+spINAR: 0.1.0
 spMC: 0.3.12
 spMaps: 0.4.0
 spNNGP: 1.0.0
@@ -22587,7 +22592,7 @@ splash: 1.0.2
 splashr: 0.6.0
 spldv: 0.1.1
 splines: 2.0-7
-splines2: 0.4.7
+splines2: 0.4.8
 splinesurv: 0.6-14
 splinetree: 0.2.0
 splitFeas: 0.1.0
@@ -22775,7 +22780,7 @@ stars: 0.6-0
 starsExtra: 0.2.7
 starsTileServer: 0.1.1
 starschemar: 1.2.0
-startR: 2.2.1
+startR: 2.2.2
 starter: 0.1.13
 starticles: 0.1.0
 startup: 0.19.0
@@ -22837,7 +22842,7 @@ stcos: 0.3.0
 stcov: 0.1.0
 stdReg: 3.4.1
 stddiff: '3.1'
-stdmod: 0.2.6
+stdmod: 0.2.7
 stdvectors: 0.0.5
 steadyICA: '1.0'
 steemr: 0.1.3
@@ -22869,7 +22874,7 @@ stfit: 0.99.9
 stheoreme: '1.2'
 stickr: 0.3.1
 sticky: 0.5.6.1
-stickyr: 0.1.1
+stickyr: 0.1.2
 stilt: 1.3.0
 stim: 1.0.0
 stima: 1.2.1
@@ -23909,7 +23914,7 @@ trelliscope: 0.9.8
 trelliscopejs: 0.2.6
 trelloR: 0.7.1
 tremendousr: 1.0.0
-trend: 1.1.4
+trend: 1.1.5
 trendchange: '1.2'
 trendeval: 0.0.1
 trending: 0.0.3
