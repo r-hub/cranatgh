@@ -170,6 +170,7 @@ AalenJohansen: '1.0'
 AbSim: 0.2.6
 AbsFilterGSEA: 1.5.1
 Ac3net: 1.2.2
+AcademicThemes: 0.0.1
 AcceptanceSampling: 1.0-8
 Ace: 0.0.8
 AcousticNDLCodeR: 1.0.2
@@ -2217,7 +2218,7 @@ FacPad: '3.0'
 FactMixtAnalysis: '1.0'
 FactoClass: 1.2.7
 FactoInvestigate: '1.8'
-FactoMineR: '2.7'
+FactoMineR: '2.8'
 FactoRizationMachines: '0.35'
 FactorAssumptions: 2.0.1
 FactorCopula: 0.9.3
@@ -3141,6 +3142,7 @@ InDisc: 1.1.0
 InPosition: 0.12.7.1
 InSilicoVA: 1.4.0
 IncDTW: 1.1.4.4
+IncidencePrevalence: 0.2.0
 IncomPair: 0.1.0
 IncucyteDRC: 0.5.4
 IndTestPP: '3.0'
@@ -3663,7 +3665,7 @@ MCAPS: 0.3-2
 MCARtest: '1.0'
 MCAvariants: '2.6'
 MCBackscattering: 0.1.1
-MCDA: 0.0.22
+MCDA: 0.0.24
 MCDM: '1.2'
 MCE: '1.1'
 MCI: 1.3.3
@@ -3965,7 +3967,7 @@ MacroZooBenthosWaterA: 0.1.0
 Maeswrap: '1.7'
 MagmaClustR: 1.1.1
 MagneticMap: '1.0'
-MainExistingDatasets: 1.0.1
+MainExistingDatasets: 1.0.2
 MajKMeans: 0.1.0
 MakeYourPalette: 0.1.3
 MakefileR: '1.0'
@@ -4479,7 +4481,7 @@ OBMbpkg: 1.0.0
 OBRE: 0.1-0
 OBsMD: '6.1'
 OCA: '0.5'
-OCNet: 0.7.1
+OCNet: 1.0.0
 OCSdata: 1.0.2
 ODB: 1.2.1
 ODEnetwork: 1.3.2
@@ -5332,7 +5334,7 @@ RCreliability: 0.1.0
 RCriteo: 1.0.2
 RCrypto: 0.1.0
 RCryptsy: '0.4'
-RCurl: 1.98-1.10
+RCurl: 1.98-1.12
 RCytoGPS: 1.2.1
 RCzechia: 1.11.1
 RDF: '1.1'
@@ -6746,6 +6748,7 @@ SharedHT2: '2.0'
 SharpeR: 1.3.0
 SheetReader: 1.0.2
 ShellChron: 0.4.0
+SherlockHolmes: '1.0'
 ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.1.0
 ShinyImage: 0.1.0
@@ -7286,7 +7289,7 @@ TeachingSampling: 4.1.1
 TechPhD: 1.0.0
 Tejapi: 1.0.1
 TempCont: 0.1.0
-TempStable: 0.1.0
+TempStable: 0.1.1
 TempleMetrics: 1.2.0
 Temporal: 0.3.0
 TemporalGSSA: 1.0.1
@@ -7687,7 +7690,7 @@ WoodburyMatrix: 0.0.2
 WordOfMouth: 1.1.0
 WordPools: 1.1-1
 WordR: 0.3.6
-WorldFlora: '1.12'
+WorldFlora: '1.13'
 WormTensor: 0.1.0
 Wrapped: '2.0'
 WrensBookshelf: 0.1.0
@@ -9557,7 +9560,7 @@ cem: 1.1.31
 cemco: '0.1'
 cems: '0.4'
 cenGAM: 0.5.3
-cenROC: 1.2.0
+cenROC: 2.0.0
 cencrne: 1.0.0
 censCov: 1.0-0
 censNID: 0-0-1
@@ -9580,6 +9583,7 @@ cepR: 0.1.2
 cepiigeodist: '0.1'
 cepp: '1.7'
 cepreader: 1.2-1
+cequre: '1.3'
 ceramic: 0.6.0
 cernn: '0.1'
 cesR: 0.1.0
@@ -10414,7 +10418,7 @@ crawl: 2.3.0
 crayon: 1.5.2
 crayons: 0.0.2
 crblocks: 1.0-0
-crch: 1.1-1
+crch: 1.1-2
 crctStepdown: 0.2.1
 createLogicalPCM: 0.1.0
 credentials: 1.3.2
@@ -10814,7 +10818,7 @@ dblr: 0.1.0
 dbmss: 2.8-0
 dbnR: 0.7.8
 dbnlearn: 0.1.0
-dbparser: 2.0.0
+dbparser: 2.0.1
 dbplot: 0.3.3
 dbplyr: 2.3.2
 dbscan: 1.1-11
@@ -13113,7 +13117,7 @@ gdor: 0.1-1
 gdpc: 1.1.3
 gds: 0.1.1
 gdsfmt: 1.1.0.1
-gdtools: 0.3.2
+gdtools: 0.3.3
 gdxdt: 0.1.0
 gear: 0.3.4
 gearman: 0.1-5
@@ -13341,7 +13345,7 @@ gfilogisreg: 1.0.2
 gfmR: 1.1-0
 gfoRmula: 1.0.2
 gfonts: 0.2.0
-gfpop: 1.1.0
+gfpop: 1.1.1
 gg.gap: '1.3'
 ggBubbles: 0.1.4
 ggChernoff: 0.3.0
@@ -13654,7 +13658,7 @@ glmtrans: 2.0.0
 glmtree: '0.2'
 glmulti: 1.0.8
 glmvsd: '1.5'
-glmx: 0.1-3
+glmx: 0.2-0
 glmxdiag: 1.0.0
 globalGSA: '1.0'
 globalKinhom: 0.1.6
@@ -13850,7 +13854,7 @@ grasper: 0.4-4
 grates: 1.0.0
 gratia: 0.8.1
 graticule: 0.2.0
-gratis: 1.0.0
+gratis: 1.0.3
 grattan: 2.0.0.0
 gravitas: 0.1.3
 gravity: '1.0'
@@ -16567,7 +16571,7 @@ microclass: '1.2'
 microclustr: 0.1.0
 microcontax: '1.2'
 microdemic: 0.6.0
-microeco: 0.14.1
+microeco: 0.15.0
 microhaplot: 1.0.1
 micromap: 1.9.5
 micromapST: 2.0.1
@@ -17265,7 +17269,7 @@ mutSignatures: 2.1.1
 mutatr: 0.1.2
 mutoss: 0.1-13
 mutossGUI: 0.1-11
-mutualinf: 1.1.2
+mutualinf: 1.1.3
 mvGPS: 1.2.2
 mvLSW: 1.2.5
 mvLSWimpute: 0.1.1
@@ -17363,8 +17367,8 @@ nametagger: 0.1.2
 nandb: 2.1.0
 naniar: 1.0.0
 nanny: 0.1.8
-nanoarrow: 0.1.0.1
-nanonext: 0.8.0
+nanoarrow: 0.1.0.2
+nanonext: 0.8.1
 nanop: 2.0-6
 nanostringr: 0.4.0
 nanotime: 0.3.7
@@ -20206,7 +20210,7 @@ rdracor: 0.7.2
 rdrobust: 2.1.1
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
-rdss: 1.0.0
+rdss: 1.0.2
 rdtLite: '1.4'
 rdwd: 1.6.0
 rdwplus: 0.1.0
@@ -23454,6 +23458,7 @@ text2vec: 0.6.3
 textBoxPlacement: '1.0'
 textTinyR: 1.1.7
 textTools: 0.1.0
+textab: '1.0'
 textcat: 1.0-8
 textclean: 0.9.3
 textdata: 0.4.4
@@ -23507,7 +23512,7 @@ tgver: 0.3.0
 thaipdf: 0.1.2
 thankr: 1.0.0
 thectar: 1.0.0
-theft: 0.4.2.3
+theft: 0.4.2.4
 theiaR: 0.4.0
 thematic: 0.1.2.1
 themetagenomics: 1.0.2
@@ -24515,7 +24520,7 @@ vsd: 0.1.0
 vsgoftest: 1.0-1
 vsp: 0.1.1
 vstsr: 1.1.0
-vtable: 1.4.2
+vtable: 1.4.3
 vtcl: 1.0-1
 vtreat: 1.6.3
 vtree: 5.6.5
@@ -24898,6 +24903,7 @@ xtensor: 0.14.1-0
 xterm256: 0.1-2
 xtermStyle: 3.0.5
 xtractomatic: 3.4.2
+xtranat: 0.1.0
 xtreg2way: 1.0.0
 xts: 0.13.0
 xtune: 0.1.0
