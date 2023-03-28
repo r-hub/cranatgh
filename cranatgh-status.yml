@@ -2043,7 +2043,7 @@ EvaluationMeasures: 1.1.0
 Evapotranspiration: '1.16'
 EventDetectGUI: 0.3.0
 EventDetectR: 0.3.5
-EventStudy: 0.39.1
+EventStudy: 0.39.2
 EventWinRatios: 1.0.0
 EvidenceSynthesis: 0.4.0
 EviewsR: 0.1.5
@@ -2944,7 +2944,7 @@ HydroMe: 2.0-1
 HyperG: 1.0.0
 HyperbolicDist: 0.6-4
 HypergeoMat: 4.0.2
-IAPWS95: 1.2.0
+IAPWS95: 1.2.1
 IASD: '1.1'
 IAT: '0.3'
 IATScore: 0.1.1
@@ -5128,7 +5128,7 @@ Q2q: 0.1.0
 Q7: 0.1.0
 QAIG: 0.1.7
 QBAsyDist: 0.1.2
-QBMS: 0.9.0
+QBMS: 0.9.1
 QCA: '3.18'
 QCA3: 0.0-8
 QCAGUI: '2.5'
@@ -5812,7 +5812,7 @@ RatingScaleReduction: '1.4'
 Ratings: 0.1-2
 RationalExp: 0.2.2
 RationalMatrix: 1.0.0
-Ravages: 1.1.2
+Ravages: 1.1.3
 RavenR: 2.2.0
 RawHummus: 0.3.0
 Rbeast: 0.9.7
@@ -5826,6 +5826,7 @@ Rborist: 0.3-2
 Rcan: 1.3.82
 Rcapture: 1.4-4
 Rcatch22: 0.2.1
+RcausalEGM: 0.3.3
 Rcell: 1.3-2
 RcellData: 1.3-2
 Rcereal: 1.2.1.1
@@ -6749,7 +6750,7 @@ SharedHT2: '2.0'
 SharpeR: 1.3.0
 SheetReader: 1.0.2
 ShellChron: 0.4.0
-SherlockHolmes: '1.0'
+SherlockHolmes: 1.0.1
 ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.1.0
 ShinyImage: 0.1.0
@@ -7329,7 +7330,7 @@ ThreeWay: 1.1.3
 ThreeWiseMonkeys: 0.1.0
 Thresher: 1.1.3
 ThresholdROC: 2.9.0
-ThresholdROCsurvival: 1.1.0
+ThresholdROCsurvival: 1.1.1
 TiPS: 1.2.2
 TickExec: '1.1'
 TiddlyWikiR: 1.0.1
@@ -8099,7 +8100,7 @@ ammistability: 0.1.3
 amp: 1.0.0
 ampd: '0.2'
 ampir: 1.1.0
-amt: '0.2'
+amt: 0.2.1.0
 anMC: 0.2.3
 anacor: 1.1-4
 anaglyph: 0.1-1
@@ -8297,7 +8298,7 @@ arulesViz: 1.5-2
 as.color: '0.1'
 asVPC: 1.0.2
 asaur: '0.50'
-asbio: 1.8-4
+asbio: 1.9-2
 ascentTraining: 1.0.0
 ascii: '2.4'
 asciiSetupReader: 2.4.0
@@ -8862,11 +8863,11 @@ bigreadr: 0.2.5
 bigrf: 0.1-11
 bigrquery: 1.4.1
 bigsimr: 0.11.2
-bigsnpr: 1.11.6
+bigsnpr: 1.12.2
 bigsparser: 0.6.1
 bigsplines: 1.1-1
 bigstatsr: 1.5.12
-bigstep: 1.0.3
+bigstep: 1.1.0
 bigtabulate: 1.1.9
 bigtcr: '1.1'
 bigtime: 0.2.1
@@ -9218,7 +9219,7 @@ brokenstick: 2.5.0
 brolgar: 1.0.0
 broman: '0.80'
 broom: 1.0.4
-broom.helpers: 1.12.0
+broom.helpers: 1.13.0
 broom.mixed: 0.2.9.4
 broomExtra: 4.3.2
 brotli: 1.3.0
@@ -11592,7 +11593,7 @@ ebSNP: '1.0'
 eba: 1.10-0
 ebal: 0.1-8
 ebci: 1.0.0
-ebdbNet: 1.2.6
+ebdbNet: 1.2.7
 ebimetagenomics: '0.6'
 ebirdst: 2.2021.0
 ebmc: 1.0.1
@@ -11729,7 +11730,7 @@ ehaGoF: 0.1.1
 ehelp: 1.2.1
 ei: 1.3-3
 ei.Datasets: 0.0.1-3
-eiCompare: 3.0.0
+eiCompare: 3.0.1
 eiExpand: 1.0.5
 eiPack: 0.2-2
 eiPartialID: 0.1.2
@@ -11893,12 +11894,12 @@ epi2loc: 1.0-1
 epi2me2r: 0.1.0
 epiDisplay: 3.5.0.2
 epiGWAS: 1.0.2
-epiR: 2.0.58
+epiR: 2.0.59
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.15.1.0
 epicasting: 0.1.0
-epicontacts: 1.1.2
+epicontacts: 1.1.3
 epidata: 0.4.0
 epidemia: 1.0.0
 epidm: 1.0.4
@@ -12602,7 +12603,7 @@ flars: '1.0'
 flashCard: 0.1.0
 flashClust: 1.01-2
 flashlight: 0.8.0
-flashr: 0.1.0
+flashr: 0.1.1
 flatness: 0.1.4
 flatr: 0.1.1
 flattabler: 1.2.0
@@ -12852,7 +12853,7 @@ fsia: 1.1.1
 fslr: 2.25.2
 fsn: '0.2'
 fso: 2.1-2
-fspe: 0.1.1
+fspe: 0.1.2
 fsr: 1.0.2
 fssemR: 0.1.8
 fst: 0.9.8
@@ -13418,7 +13419,7 @@ ggfortify: 0.4.16
 ggfun: 0.0.9
 ggfx: 1.0.1
 gggap: 1.0.1
-gggenes: 0.4.1
+gggenes: 0.5.0
 ggghost: 0.2.1
 gggibbous: 0.1.1
 gggrid: 0.2-0
@@ -13473,7 +13474,7 @@ ggpath: 1.0.1
 ggpattern: 1.0.1
 ggpcp: 0.2.0
 ggperiodic: 1.0.3
-ggpicrust2: 1.4.8
+ggpicrust2: 1.4.9
 ggpie: 0.2.5
 ggplate: 0.0.1
 ggplot: 0.4.2
@@ -13581,7 +13582,7 @@ git4r: 0.1.2
 gitcreds: 0.1.2
 gitdown: 0.1.6
 gitear: 1.0.0
-gitgadget: 0.7.5
+gitgadget: 0.7.6
 githubinstall: 0.2.2
 gitignore: 0.1.5
 gitlabr: 2.0.1
@@ -15914,7 +15915,7 @@ lrgs: 0.5.4
 lrmest: '3.0'
 lrstat: 0.1.11
 lsa: 0.73.3
-lsasim: 2.1.2
+lsasim: 2.1.3
 lsbclust: '1.1'
 lsbs: '0.1'
 lsdbc: 0.1.0
@@ -16051,6 +16052,7 @@ makeParallel: 0.1.1
 makeProject: '1.0'
 makeR: 1.0.2
 makedummies: 1.2.1
+makeit: 1.0.0
 makemyprior: 1.1.0
 makepipe: 0.2.1
 makesweave: 0.3.0
@@ -17161,7 +17163,7 @@ multdyn: '1.6'
 multfisher: '1.1'
 multgee: 1.8.0
 multiActionButton: 1.0.0
-multiApply: 2.1.3
+multiApply: 2.1.4
 multiAssetOptions: 0.1-2
 multiCA: '1.1'
 multiColl: '2.0'
@@ -18389,7 +18391,7 @@ parmigene: 1.1.0
 parmsurvfit: 0.1.0
 paropt: 0.2.1
 parqr: 0.1.0
-parquetize: 0.5.4
+parquetize: 0.5.5
 parseRPDR: 1.0.0
 parsec: 1.2.6
 parsedate: 1.3.1
@@ -19219,6 +19221,7 @@ precisePlacement: 0.1.0
 precisely: 0.1.2
 precmed: 1.0.0
 precommit: 0.3.2
+precondition: 0.1.0
 precrec: 0.14.2
 predReliability: 0.1.0
 predatory: '1.2'
@@ -19297,7 +19300,7 @@ prioGene: 1.0.1
 prioriactions: 0.4.2
 prioritizr: 7.2.2
 prioritizrdata: 0.2.4
-prioritylasso: 0.2.5
+prioritylasso: 0.3.0
 prism: 0.2.0
 prismadiagramR: 1.0.0
 prismatic: 1.1.1
@@ -19600,7 +19603,7 @@ qlifetable: 0.0.1-13
 qlspack: '2.2'
 qmap: 1.0-4
 qmd: 1.1.2
-qmethod: '1.8'
+qmethod: 1.8.4
 qmix: 0.1.2.0
 qmrparser: 0.1.6
 qmvs: 0.1.1
@@ -20538,7 +20541,7 @@ rfacebookstat: 2.8.1
 rfacts: 0.2.1
 rfars: 0.2.0
 rfbCNPJ: 0.1.1
-rfieldclimate: 0.1.0
+rfieldclimate: 0.1.1
 rfigshare: 0.3.8
 rfinance: 0.1.0
 rfinterval: 1.0.0
@@ -20834,7 +20837,7 @@ robsel: 0.1.0
 robservable: 0.2.2
 robslopes: 1.1.2
 robsurvey: 0.5-2
-robumeta: '2.0'
+robumeta: '2.1'
 robusTest: 1.0.1
 robust: 0.7-1
 robust2sls: 0.2.2
@@ -21173,7 +21176,7 @@ rugarch: 1.4-9
 ruijter: 0.1.2
 ruimtehol: 0.3.1
 ruin: 0.1.1
-ruler: 0.2.4
+ruler: 0.3.0
 rules: 1.0.2
 rumidas: 0.1.1
 runStat: '1.1'
@@ -21231,11 +21234,11 @@ rwty: 1.0.2
 rwunderground: 0.1.8
 rxSeq: 0.99.3
 rxivistr: 0.1.1
-rxode2: 2.0.11
+rxode2: 2.0.12
 rxode2et: 2.0.10
 rxode2ll: 2.0.11
 rxode2parse: 2.0.15
-rxode2random: 2.0.10
+rxode2random: 2.0.11
 rxylib: 0.2.11
 ryandexdirect: 3.6.2
 rym: 1.0.6
@@ -23089,7 +23092,7 @@ survParamSim: 0.1.6
 survPen: 1.5.2
 survPresmooth: 1.1-11
 survRM2: 1.0-4
-survRM2adapt: 1.0-1
+survRM2adapt: 1.1.0
 survRM2perm: 0.1.0
 survRatio: '0.1'
 survSNP: '0.26'
@@ -23691,6 +23694,7 @@ tinyProject: 0.6.1
 tinyarray: 2.2.9
 tinylabels: 0.2.3
 tinyscholar: 0.1.7
+tinysnapshot: 0.0.1
 tinyspotifyr: 0.2.2
 tinytest: 1.4.1
 tinytex: '0.44'
@@ -24297,7 +24301,7 @@ valhallr: 0.1.0
 validaRA: 0.1.1
 validann: 1.2.1
 validata: 0.1.0
-validate: 1.1.1
+validate: 1.1.3
 validateRS: 1.0.0
 validatedb: 0.1.4
 validatejsonr: 1.0.4
