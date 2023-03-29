@@ -1422,7 +1422,7 @@ DCODE: '1.0'
 DCPO: 0.5.3
 DCSmooth: 1.1.2
 DCchoice: 0.1.1
-DChaos: 0.1-6
+DChaos: 0.1-7
 DCluster: 0.2-8
 DClusterm: 1.0-1
 DDD: 5.2.1
@@ -1887,7 +1887,7 @@ EMV: 1.3.1.1
 EMVC: '0.3'
 EMVS: 1.2.1
 EMbC: 2.0.3
-EMpeaksR: 0.3.0
+EMpeaksR: 0.3.1
 ENA: 1.3-0
 ENMTools: 1.1.0
 ENMeval: 2.0.4
@@ -1938,7 +1938,7 @@ EbayesThresh: 1.4-12
 Ecdat: 0.4-2
 Ecfun: 0.3-2
 EcoDiet: 2.0.0
-EcoEnsemble: 1.0.2
+EcoEnsemble: 1.0.3
 EcoGenetics: 1.2.1-6
 EcoHydRology: 0.4.12.1
 EcoIndR: '1.8'
@@ -4807,6 +4807,7 @@ PPtree: 2.3.0
 PPtreeViz: 2.0.4
 PPtreeregViz: 2.0.5
 PQLseq: 1.2.1
+PRANA: 1.0.3
 PRDA: 1.0.0
 PRECAST: '1.5'
 PREPShiny: 0.1.0
@@ -5319,6 +5320,7 @@ RCSL: 0.99.95
 RCT: 1.1.2
 RCT2: 0.0.1
 RCTS: 0.2.3
+RCTrep: 1.0.0
 RCarb: 0.1.6
 RCassandra: 0.1-3
 RChest: 1.0.3
@@ -5712,7 +5714,7 @@ RTConnect: 0.1.4
 RTD: 0.4.1
 RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
-RTIGER: 1.99.0
+RTIGER: 2.1.0
 RTL: 1.3.2
 RTOMO: 1.1-6
 RTTWebClient: 0.1.3
@@ -6433,6 +6435,7 @@ SHIP: 1.0.2
 SHLR: '1.0'
 SHT: 0.1.8
 SI: 0.2.0
+SIAmodules: 0.1.0
 SIBER: 2.1.7
 SIBERG: 2.0.3
 SID: '1.0'
@@ -7396,7 +7399,7 @@ TreeDist: 2.6.0
 TreeLS: 2.0.2
 TreePar: '3.3'
 TreeRank: 1.1-0
-TreeSearch: 1.3.0
+TreeSearch: 1.3.1
 TreeSim: '2.4'
 TreeSimGM: '2.5'
 TreeTools: 1.9.1
@@ -8594,6 +8597,7 @@ bats: 0.1-3
 batsch: 0.1.0
 batteryreduction: 0.1.1
 bayMDS: '2.0'
+bayclumpr: 0.1.0
 baycn: 1.2.0
 bayefdr: 0.2.1
 bayes4psy: 1.2.11
@@ -8643,7 +8647,7 @@ bayesmeta: '3.2'
 bayesmix: 0.7-5
 bayesmodels: 0.1.1
 bayesmove: 0.2.1
-bayesnec: 2.1.0.2
+bayesnec: 2.1.0.3
 bayespack: 1.0-2
 bayesplay: 0.9.2
 bayesplot: 1.10.0
@@ -9951,7 +9955,7 @@ cobs: 1.3-5
 cobs99: 0.9-12
 coca: 1.1.0
 cocktailApp: 0.2.2
-coconots: '1.1'
+coconots: 1.1.1
 cocor: 1.1-4
 cocoreg: 0.1.1
 cocorresp: 0.4-3
@@ -10553,7 +10557,7 @@ ctmm: 1.1.0
 ctmva: 1.1.0
 ctpm: 1.0.1
 ctqr: '2.0'
-ctrdata: 1.12.0
+ctrdata: 1.12.1
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
 cts: 1.0-22
@@ -11779,7 +11783,7 @@ elhmc: 1.1.0
 elisr: 0.1.1
 elitism: 1.0.4
 elliplot: 1.3.0
-ellipse: 0.4.3
+ellipse: 0.4.4
 ellipsis: 0.3.2
 elliptic: 1.4-0
 ellipticalsymmetry: 0.1.2
@@ -12171,7 +12175,7 @@ extraTrees: 1.0.5
 extracat: 1.7-6
 extrafont: '0.19'
 extrafontdb: '1.0'
-extrafrail: '1.3'
+extrafrail: '1.4'
 extraoperators: 0.1.1
 extras: 0.5.0
 extraterrestrial: 0.1.0
@@ -12526,7 +12530,7 @@ filterviewR: '0.11'
 finalfit: 1.0.6
 finalsize: '0.1'
 financial: '0.2'
-finbif: 0.7.2
+finbif: 0.8.0
 finbipartite: 0.1.0
 finch: 0.4.0
 findInFiles: 0.4.0
@@ -14931,7 +14935,7 @@ ipumsr: 0.5.2
 ipw: '1.2'
 ipwCoxCSV: '1.0'
 ipwErrorY: '2.1'
-iq: 1.9.9
+iq: 1.9.10
 iqLearn: '1.5'
 iqspr: '2.3'
 ir: 0.2.1
@@ -15956,7 +15960,7 @@ lucr: 0.2.0
 ludic: 0.2.0
 lue: 0.2.1
 lulcc: 1.0.4
-lumberjack: 1.2.1
+lumberjack: 1.3.1
 lumendb: 0.2.2
 lunar: 0.2-1
 lutz: 0.3.1
@@ -16013,7 +16017,7 @@ macleish: 0.3.9
 maclogp: 0.1.1
 macroBiome: 0.2.0
 macrocol: 0.1.0
-macrosyntR: 0.2.14
+macrosyntR: 0.2.19
 macs: '1.0'
 mactivate: 0.6.6
 maczic: 0.2.0
@@ -16165,7 +16169,7 @@ mashr: 0.2.69
 maskRangeR: '1.1'
 mason: 0.3.0
 masscor: 0.0.7.1
-massiveGST: 1.0.1
+massiveGST: 1.2.3
 mastif: '2.0'
 matR: 0.9.1
 matahari: 0.1.3
@@ -16229,7 +16233,7 @@ mazeGen: 0.1.3
 mazealls: 0.2.0
 mazeinda: 0.0.2
 mazing: 1.0.5
-mbRes: 0.1.6
+mbRes: 0.1.7
 mbbefd: 0.8.10
 mbclusterwise: '1.0'
 mbend: 1.3.1
@@ -16828,6 +16832,7 @@ mmb: 0.13.3
 mmc: 0.0.3
 mmcif: 0.1.1
 mmcm: 1.2-8
+mmconvert: '0.8'
 mmds: '1.1'
 mme: 0.1-6
 mmeln: '1.4'
@@ -17616,7 +17621,7 @@ nlmixr2: 2.0.9
 nlmixr2data: 2.0.7
 nlmixr2est: 2.1.3
 nlmixr2extra: 2.0.8
-nlmixr2lib: 0.1.0
+nlmixr2lib: 0.2.0
 nlmixr2plot: 2.0.7
 nlmixr2rpt: 0.1.0
 nlmm: 1.0.2
@@ -18267,7 +18272,7 @@ packHV: '2.2'
 packMBPLSDA: 0.9.0
 packS4: 0.9.3
 packageDiff: '0.1'
-packageRank: 0.8.0
+packageRank: 0.8.1
 packagedocs: 0.4.0
 packagefinder: 0.3.4
 packager: 1.14.0
@@ -18343,6 +18348,7 @@ pandoc: 0.1.0
 pandocfilters: 0.1-6
 panel: 1.0.7
 panelAR: '0.1'
+panelPomp: '1.1'
 panelView: 1.1.16
 panelWranglR: 1.2.13
 panelaggregation: 0.1.1
@@ -18625,7 +18631,7 @@ pepr: 0.4.0
 peptider: 0.2.2
 pequod: 0.0-5
 perARMA: '1.6'
-peramo: 0.1.1
+peramo: 0.1.2
 perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
@@ -19047,7 +19053,7 @@ pollen: 0.82.0
 pollimetry: 1.0.1
 pollstR: 2.0.1
 pollster: 0.1.4
-polmineR: 0.8.7
+polmineR: 0.8.8
 polspline: 1.1.22
 polyCub: 0.8.1
 polyMatrix: 0.9.16
@@ -19300,7 +19306,7 @@ printr: '0.3'
 prinvars: 1.0.0
 prioGene: 1.0.1
 prioriactions: 0.4.2
-prioritizr: 7.2.2
+prioritizr: 8.0.0
 prioritizrdata: 0.2.4
 prioritylasso: 0.3.0
 prism: 0.2.0
@@ -21385,7 +21391,7 @@ sasMap: 1.0.0
 sasfunclust: 1.0.0
 sass: 0.4.5
 sassy: 1.1.0
-satdad: '1.0'
+satdad: '1.1'
 sate: 1.1.0
 satellite: 1.0.4
 satin: 1.1.0
@@ -23056,7 +23062,7 @@ superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-8
 support: 0.1.6
-support.BWS: 0.4-5
+support.BWS: 0.4-6
 support.BWS2: 0.4-0
 support.BWS3: 0.2-0
 support.CEs: 0.5-0
@@ -24689,7 +24695,7 @@ whereport: '0.1'
 whiboclustering: 0.1.2
 whippr: 0.1.2
 whisker: 0.4.1
-whitebox: 2.2.0
+whitebox: 2.3.0
 whitechapelR: 0.3.0
 whitening: 1.4.0
 whitestrap: 0.0.1
