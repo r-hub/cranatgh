@@ -1712,7 +1712,7 @@ Dire: 2.1.1
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
-Directional: '5.9'
+Directional: '6.0'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.21
@@ -5074,7 +5074,7 @@ PrettyCols: 1.0.1
 PrevMap: 1.5.4
 PriceIndices: 0.1.6
 PriorCD: 0.1.0
-PriorGen: 1.1.2
+PriorGen: '2.0'
 PrivateLR: 1.2-22
 ProAE: 0.2.12
 ProDenICA: '1.1'
@@ -5671,7 +5671,7 @@ RSP: '0.1'
 RSPS: '1.0'
 RSQL: 0.2.1
 RSQLServer: 0.3.0
-RSQLite: 2.3.0
+RSQLite: 2.3.1
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.6
 RSSOP: '1.1'
@@ -6053,7 +6053,7 @@ RepeatedHighDim: 2.0.0
 RepertoiR: 0.0.1
 Replicate: 1.2.0
 Replication: 0.1.2
-ReplicationSuccess: '1.2'
+ReplicationSuccess: 1.3.1
 Repliscope: 1.1.1
 RepoGenerator: 0.0.1
 ReporteRs: 0.8.10
@@ -8377,7 +8377,7 @@ asypow: 2015.6.25
 ata: 1.1.1
 atable: 0.1.12
 atakrig: 0.9.8
-atime: 2023.3.30
+atime: 2023.3.31
 atlantistools: 0.4.3
 atlas: 1.0.0
 atm: 0.1.0
@@ -10790,7 +10790,7 @@ datautils: 0.1.5
 dataverse: 0.3.13
 dataversionr: 0.9.0
 dataview: 2.1.1
-datawizard: 0.7.0
+datawizard: 0.7.1
 datazoom.amazonia: 1.0.0
 date: 1.2-42
 datefixR: 1.4.1
@@ -11043,7 +11043,7 @@ dfdr: 0.2.0
 dfexplore: 0.2.1
 dfidx: 0.0-5
 dfmeta: 1.0.0
-dfms: 0.2.0
+dfms: 0.2.1
 dfmta: 1.7-3
 dfoliatR: 0.2.0
 dfoptim: 2020.10-1
@@ -11829,7 +11829,7 @@ empichar: 1.0.0
 empirical: 0.2.0
 empiricalBayes: '2.1'
 empiricalFDR.DESeq2: 1.0.3
-emplik: '1.2'
+emplik: '1.3'
 emplik2: '1.32'
 emplikAUC: '0.3'
 ems: 1.3.11
@@ -13491,7 +13491,7 @@ ggpie: 0.2.5
 ggplate: 0.0.1
 ggplot: 0.4.2
 ggplot.multistats: 1.0.0
-ggplot2: 3.4.1
+ggplot2: 3.4.2
 ggplot2movies: 0.0.1
 ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
@@ -13535,7 +13535,7 @@ ggsoccer: 0.1.7
 ggsolvencyii: 0.1.2
 ggsom: 0.4.0
 ggspatial: 1.1.7
-ggspectra: 0.3.10
+ggspectra: 0.3.11
 ggstance: 0.3.6
 ggstar: 1.0.4
 ggstats: 0.2.1
@@ -16346,6 +16346,7 @@ meanShiftR: '0.56'
 meanr: 0.1-5
 meanscore: 1.0-6
 meantables: 0.1.2
+measr: 0.2.1
 measuRing: '0.5'
 measurementProtocol: 0.1.1
 measurements: 1.5.0
@@ -16654,7 +16655,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 0.8.1
+mirai: 0.8.2
 mirf: '1.0'
 mirt: 1.38.1
 mirtCAT: 1.12.2
@@ -18677,7 +18678,7 @@ pesel: 0.7.3
 pesticides: '0.1'
 pestr: 0.8.2
 petitr: '1.0'
-petrinetR: 0.2.1
+petrinetR: 0.3.0
 petro.One: 0.2.3
 pewdata: 0.3.2
 pexm: 1.1.2
@@ -19181,6 +19182,7 @@ powerMediation: 0.3.4
 powerSurvEpi: 0.1.3
 powerbiR: 0.1.0
 powerbydesign: 1.0.5
+powerindexR: '1.0'
 powerjoin: 0.1.0
 powerlmm: 0.4.0
 powerly: 1.8.6
@@ -20022,7 +20024,7 @@ rangeMapper: 2.0.3
 rangeModelMetadata: 0.1.4
 rangemap: 0.1.18
 rangemodelR: 1.0.4
-ranger: 0.14.1
+ranger: 0.15.1
 rankFD: 0.1.1
 rankICC: 1.0.1
 rankUncertainty: 1.0.2.0
@@ -20333,7 +20335,7 @@ reda: 0.5.4
 redcapAPI: 2.5.0
 reddPrec: 0.4.0
 redditadsR: 0.1.0
-redist: 4.1.0
+redist: 4.1.1
 redistmetrics: 1.0.2
 redland: 1.0.17-16
 redlistr: 1.0.3
@@ -20580,7 +20582,7 @@ rfviz: 1.0.1
 rgabriel: '0.9'
 rgam: 0.6.6
 rgauges: 0.2.0
-rgbif: 3.7.6
+rgbif: 3.7.7
 rgcvpack: 0.1-4
 rgdal: 1.6-5
 rgdax: 1.2.1
@@ -22004,7 +22006,7 @@ siie: 0.4.0
 siland: 3.0.2
 silicate: 0.7.1
 sim1000G: '1.40'
-sim2Dpredictr: 0.1.0
+sim2Dpredictr: 0.1.1
 simDNAmixtures: 1.0.1
 simET: 1.0.1
 simEd: 2.0.0
@@ -22316,6 +22318,7 @@ sodavis: '1.2'
 sodium: 1.2.1
 sofa: 0.4.0
 softImpute: 1.4-1
+softbib: 0.0.1
 softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
@@ -22808,7 +22811,7 @@ starschemar: 1.2.0
 startR: 2.2.2
 starter: 0.1.13
 starticles: 0.1.0
-startup: 0.19.0
+startup: 0.20.0
 startupmsg: 0.9.6
 starvars: 1.1.10
 starvz: 0.7.1
@@ -24512,7 +24515,7 @@ vol2birdR: 0.2.0
 volatilityTrader: 1.0.1
 volcano3D: 2.0.8
 volcanoPlot: 1.0.0
-volesti: 1.1.2-3
+volesti: 1.1.2-4
 volleystat: 0.2.0
 voluModel: 0.1.9
 voronoi: '1.1'
