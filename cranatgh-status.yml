@@ -62,6 +62,7 @@ AHPWR: 0.1.0
 AHPhybrid: 0.1.0
 AHR: 1.5.0
 AHSurv: 0.1.0
+AICcPermanova: 0.0.1
 AICcmodavg: 2.3-2
 AID: '2.8'
 AIG: 0.1.9
@@ -217,6 +218,7 @@ Ake: 1.0.1
 AlgDesign: 1.2.1
 AlgebraicHaploPackage: '1.2'
 AlignStat: 1.3.1
+AllMetrics: 0.1.0
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: '1.1'
@@ -1008,7 +1010,7 @@ CSESA: 1.2.0
 CSFA: 1.2.0
 CSGo: 0.6.7
 CSHShydRology: 1.4.0
-CSIndicators: 0.0.2
+CSIndicators: 1.0.0
 CSMES: 1.0.1
 CSS: 1.0.2
 CSTE: 2.0.0
@@ -1358,7 +1360,7 @@ CustosAscensor: 0.1.0
 CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
-Cyclops: 3.2.1
+Cyclops: 3.3.0
 CytOpT: 0.9.4
 CytobankAPI: 2.2.0
 CytobankAPIstats: '2.0'
@@ -1663,6 +1665,7 @@ Deriv: 4.1.3
 DescTools: 0.99.48
 DescToolsAddIns: '1.10'
 DescrTab2: 2.1.16
+DescribeDF: 0.1.0
 DescribeDisplay: 0.2.9
 DescriptiveStats.OBeu: 1.3.2
 DescriptiveWH: 1.0.3
@@ -2047,7 +2050,7 @@ EventDetectGUI: 0.3.0
 EventDetectR: 0.3.5
 EventStudy: 0.39.2
 EventWinRatios: 1.0.0
-EvidenceSynthesis: 0.4.0
+EvidenceSynthesis: 0.4.1
 EviewsR: 0.1.5
 EvoPhylo: 0.3.2
 EvoRAG: '2.0'
@@ -2870,7 +2873,7 @@ HWEBayes: '1.4'
 HWEintrinsic: 1.2.2
 HWxtest: 1.1.9
 HYDROCAL: 1.0.0
-HYPEtools: 1.2.0
+HYPEtools: 1.3.0
 HYRISK: '1.2'
 HaDeX: 1.2.2
 HadamardR: 1.0.0
@@ -3014,7 +3017,7 @@ IDSL.MXP: '2.0'
 IDSL.NPA: '1.0'
 IDSL.SUFA: '1.3'
 IDSL.UFA: '1.9'
-IDSL.UFAx: '1.9'
+IDSL.UFAx: 1.9.1
 IDSpatialStats: 0.3.12
 IDTurtle: '1.2'
 IDetect: 0.1.0
@@ -3574,7 +3577,7 @@ LocalControl: 1.1.3
 LocalControlStrategy: '1.4'
 Lock5Data: 3.0.0
 Lock5withR: 1.2.2
-LogConcDEAD: 1.6-7
+LogConcDEAD: 1.6-8
 LogRegEquiv: 0.1.5
 LogicForest: 2.1.0
 LogicOpt: 1.0.0
@@ -4586,7 +4589,7 @@ OpenImageR: 1.2.8
 OpenLand: 1.0.2
 OpenML: '1.12'
 OpenMPController: 0.2-5
-OpenMx: 2.21.1
+OpenMx: 2.21.8
 OpenRepGrid: 0.1.12
 OpenRepGrid.ic: 0.6.1
 OpenSpecy: 0.9.5
@@ -5919,7 +5922,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.7.2
 RcppAnnoy: 0.0.20
-RcppArmadillo: 0.12.0.1.0
+RcppArmadillo: 0.12.2.0.0
 RcppArray: 0.2.0
 RcppBDT: 0.2.6
 RcppBigIntAlgos: 1.0.1
@@ -6656,7 +6659,7 @@ SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.4.3
 SWMPrExtension: 2.2.3
-SWTools: 0.2.4
+SWTools: 0.2.5
 SWordInstaller: 1.0-2
 SYNCSA: 1.3.4
 Sabermetrics: '2.0'
@@ -7179,7 +7182,7 @@ TOC: 0.0-6
 TOHM: '1.4'
 TORDs: 1.0.0
 TOSI: 0.3.0
-TOSTER: 0.6.0
+TOSTER: 0.7.1
 TOU: 0.1.0
 TP.idm: '1.5'
 TPAM: '1.0'
@@ -7663,7 +7666,10 @@ WaveletANN: 0.1.2
 WaveletArima: 0.1.2
 WaveletCo: '1.0'
 WaveletComp: '1.1'
+WaveletETS: 0.1.0
 WaveletGARCH: 0.1.1
+WaveletKNN: 0.1.0
+WaveletML: 0.1.0
 WaveletRF: 0.1.0
 WaveletSVR: 0.1.0
 WaverR: '1.0'
@@ -7852,7 +7858,7 @@ acrt: 1.0.1
 acs: 2.1.4
 acss: 0.2-5
 acss.data: '1.0'
-act: 1.2.7
+act: 1.3.0
 actel: 1.2.1
 actilifecounts: 1.1.1
 activAnalyzer: 2.0.1
@@ -11033,7 +11039,7 @@ detpack: 1.1.3
 detrendeR: 1.0.5
 detrendr: 0.6.15
 detzrcr: 0.3.1
-devEMF: '4.2'
+devEMF: '4.3'
 devFunc: '0.1'
 devRate: 0.2.3
 devoid: 0.1.1
@@ -11549,7 +11555,7 @@ dynwrap: 1.2.3
 e1071: 1.7-13
 eAnalytics: 0.1.4
 eBsc: '4.15'
-eCAR: 0.1.1
+eCAR: 0.1.2
 eChem: 1.0.0
 eDMA: 1.5-3
 eFRED: 0.1.0
@@ -12148,7 +12154,7 @@ expSBM: 1.3.5
 expandFunctions: 0.1.0
 expands: 2.1.3
 expectreg: '0.52'
-experDesign: 0.1.0
+experDesign: 0.2.0
 experiences: 0.1.1
 experiment: 1.2.1
 experimentr: 0.1.0
@@ -13661,7 +13667,7 @@ glmmLasso: 1.6.2
 glmmML: 1.1.4
 glmmPen: 1.5.3.4
 glmmSeq: 0.5.5
-glmmTMB: 1.1.6
+glmmTMB: 1.1.7
 glmmboot: 0.6.0
 glmmfields: 0.1.7
 glmmrBase: 0.2.5
@@ -13695,7 +13701,7 @@ globe: 1.2-0
 glogis: 1.0-2
 glossr: 0.7.0
 glottospace: 0.0.112
-glow: 0.10.1
+glow: 0.11.0
 glpk: 4.8-0.5
 glpkAPI: 1.3.4
 glrt: '2.0'
@@ -14630,7 +14636,7 @@ identifyr: 0.1.3
 identity: 0.2-1
 ideq: 0.1.4
 ider: 0.1.1
-idiogramFISH: 2.0.9
+idiogramFISH: 2.0.10
 idm: 1.8.3
 idmTPreg: '1.1'
 idmodelr: 0.4.0
@@ -15476,7 +15482,7 @@ latexdiffr: 0.1.0
 latexpdf: 0.1.7
 latrend: 1.5.1
 latte: 0.2.1
-lattice: 0.20-45
+lattice: 0.21-8
 latticeDensity: 1.2.6
 latticeExtra: 0.6-30
 latticedl: '1.2'
@@ -15491,7 +15497,7 @@ lavaanExtra: 0.1.4
 lavaanPlot: 0.6.2
 lavacreg: 0.1-2
 lawn: 0.6.0
-lawstat: '3.5'
+lawstat: '3.6'
 lax: 1.2.0
 layer: 0.0.1
 lazy: 1.2-18
@@ -16049,7 +16055,7 @@ madrat: 2.3.2
 mads: 0.1.6
 madsim: 1.2.1
 mafs: 0.0.3
-magclass: 6.8.2
+magclass: 6.8.3
 magi: 1.2.1
 magic: 1.6-1
 magicLamp: 0.1.0
@@ -18397,7 +18403,7 @@ parallelly: 1.35.0
 parallelpam: 1.0.1
 param6: 0.2.4
 paramGUI: 2.2.0
-parameters: 0.20.2
+parameters: 0.20.3
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.4
@@ -19387,7 +19393,7 @@ projector: 0.0.2
 projects: 2.1.3
 projmanr: 0.2.1
 projmgr: 0.1.0
-projpred: 2.4.0
+projpred: 2.5.0
 prolific.api: '0.5'
 prome: 1.5.6.70
 promethee123: 0.1.0
@@ -19664,7 +19670,7 @@ qrencoder: 0.1.0
 qreport: 0.1.0
 qrfactor: '1.4'
 qris: 1.0.0
-qrjoint: 2.0-6
+qrjoint: 2.0-9
 qrmdata: 2022-05-31-1
 qrmix: 0.9.0
 qrmtools: 0.0-16
@@ -19725,7 +19731,7 @@ quantdates: '1.0'
 quantdr: 1.2.2
 quanteda: 3.2.4
 quanteda.textmodels: 0.9.6
-quanteda.textplots: 0.94.2
+quanteda.textplots: 0.94.3
 quanteda.textstats: 0.96.1
 quantification: 0.2.0
 quantileDA: '1.1'
@@ -19791,7 +19797,7 @@ r2glmm: 0.1.2
 r2lUniv: 0.9.4
 r2lh: '0.7'
 r2mlm: 0.3.3
-r2pmml: 0.26.0
+r2pmml: 0.27.1
 r2pptx: 0.1.0
 r2r: 0.1.1
 r2redux: 1.0.13
@@ -20216,7 +20222,7 @@ rdatamarket: 0.6.5
 rdataretriever: 3.1.0
 rdbnomics: 0.6.4
 rdd: '0.57'
-rddapp: 1.3.0
+rddapp: 1.3.2
 rdddr: 1.0.0
 rddensity: '2.4'
 rddi: 0.1.1
@@ -21754,7 +21760,7 @@ seqest: 1.0.1
 seqgendiff: 1.2.3
 seqhandbook: 0.1.1
 seqimpute: '1.8'
-seqinr: 4.2-23
+seqinr: 4.2-30
 seqmagick: 0.1.5
 seqminer: '8.6'
 seqmon: '2.4'
@@ -21820,7 +21826,7 @@ sgmcmc: 0.2.5
 sgmodel: 0.1.1
 sgo: 0.9.2
 sgof: 2.3.3
-sgolay: 1.0.2
+sgolay: 1.0.3
 sgpv: 1.1.0
 sgr: 1.3.1
 sgsR: 1.4.2
@@ -21905,7 +21911,7 @@ shinySIR: 0.1.2
 shinySearchbar: 1.0.0
 shinySelect: 1.3.0
 shinyShortcut: 0.1.0
-shinyStorePlus: '0.9'
+shinyStorePlus: '1.1'
 shinyTempSignal: 0.0.3
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
@@ -22431,7 +22437,7 @@ spacejam: '1.1'
 spacejamr: 0.2.1
 spacesRGB: 1.4-0
 spacesXYZ: 1.2-1
-spacetime: 1.2-8
+spacetime: 1.3-0
 spacey: 0.1.1
 spacodiR: 0.13.0115
 spacom: 1.0-5
@@ -22739,7 +22745,7 @@ srp: 1.2.0
 srt: 1.0.3
 srvyr: 1.2.0
 ss3sim: 1.0.3
-ssMousetrack: 1.1.5
+ssMousetrack: 1.1.6
 ssa: 1.3.0
 ssaBSS: 0.1.1
 ssanv: '1.1'
@@ -23042,7 +23048,7 @@ submax: 1.1.1
 subniche: '1.5'
 subplex: '1.8'
 subprocess: 0.8.3
-subrank: 0.9.9.2
+subrank: 0.9.9.3
 subsamp: 0.1.0
 subscore: '3.3'
 subscreen: 3.0.7
@@ -23577,7 +23583,7 @@ thregI: 1.0.4
 threshr: 1.0.3
 thriftr: 1.1.7
 thsls: '0.1'
-thunder: 0.3.0
+thunder: 1.1.1
 thurstonianIRT: 0.12.1
 tibble: 3.2.1
 tibbleOne: 0.1.1
@@ -23885,7 +23891,7 @@ traitr: '0.14'
 traits: 0.5.0
 traj: '1.3'
 trajeR: 0.9.0.5
-trajectories: 0.2-6
+trajectories: 0.2-7
 trajr: 1.4.0
 tram: 0.8-2
 tramME: 1.0.4
@@ -24510,7 +24516,7 @@ vitae: 0.5.3
 vitality: '1.3'
 vivainsights: 0.3.0
 vivaldi: 1.0.1
-vivid: 0.2.5
+vivid: 0.2.6
 vivo: 0.2.1
 vizdraws: '1.2'
 vkR: '0.2'
