@@ -62,7 +62,7 @@ AHPWR: 0.1.0
 AHPhybrid: 0.1.0
 AHR: 1.5.0
 AHSurv: 0.1.0
-AICcPermanova: 0.0.1
+AICcPermanova: 0.0.2
 AICcmodavg: 2.3-2
 AID: '2.8'
 AIG: 0.1.9
@@ -1347,6 +1347,7 @@ CreditRisk: 0.1.3
 Cronbach: '0.1'
 CropDetectR: 0.0.1
 CropScapeR: 1.1.5
+CrossCarry: 0.1.0
 CrossClustering: 4.0.3
 CrossScreening: 0.1.1
 CrossVA: 1.0.0
@@ -1356,7 +1357,7 @@ Crosstabs.Loglinear: 0.1.1
 CruzPlot: 1.4.8
 CryptRndTest: 1.2.7
 CrypticIBDcheck: 0.3-3
-CsChange: 0.1.6
+CsChange: 0.1.7
 CuCubes: 0.1.0
 Cubist: 0.4.2.1
 CustomerScoringMetrics: 1.0.0
@@ -1364,7 +1365,7 @@ CustosAscensor: 0.1.0
 CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
-Cyclops: 3.3.0
+Cyclops: 3.3.1
 CytOpT: 0.9.4
 CytobankAPI: 2.2.0
 CytobankAPIstats: '2.0'
@@ -1898,7 +1899,7 @@ EMVS: 1.2.1
 EMbC: 2.0.3
 EMpeaksR: 0.3.1
 ENA: 1.3-0
-ENMTools: 1.1.0
+ENMTools: 1.1.1
 ENMeval: 2.0.4
 ENiRG: 1.0.1
 ENmisc: 1.2-7
@@ -2617,7 +2618,7 @@ GameTheoryAllocation: '1.0'
 GammaTest: '2.1'
 Gammareg: '3.0'
 GapAnalysis: 1.0.2
-GauPro: 0.2.8
+GauPro: 0.2.11
 GaussSuppression: 0.6.0
 GaussianHMM1d: 1.0.1
 GeDS: 0.1.3
@@ -3713,7 +3714,7 @@ MChtest: 1.0-3
 MConjoint: '0.1'
 MDBED: 1.0.0
 MDD: '0.5'
-MDFS: 1.5.0
+MDFS: 1.5.1
 MDM: '1.3'
 MDMAPR: 0.2.3
 MDMR: 0.5.1
@@ -3940,7 +3941,7 @@ MSwM: '1.5'
 MTA: 0.4.1
 MTAR: 0.1.1
 MTDrh: 0.1.0
-MTE: 1.0.2
+MTE: '1.2'
 MTGS: 0.1.0
 MTLR: 0.2.1
 MTPS: 1.0.1
@@ -4642,7 +4643,7 @@ OutlierDM: 1.1.1
 OutlierDetection: 0.1.1
 OutliersO3: 0.6.3
 OutrankingTools: '1.0'
-OwenQ: 1.0.6
+OwenQ: 1.0.7
 OxyBS: '1.5'
 P2C2M: 0.7.6
 PAC: 1.1.4
@@ -7351,7 +7352,7 @@ ThreeGroups: '0.21'
 ThreeWay: 1.1.3
 ThreeWiseMonkeys: 0.1.0
 Thresher: 1.1.3
-ThresholdROC: 2.9.0
+ThresholdROC: 2.9.1
 ThresholdROCsurvival: 1.1.1
 TiPS: 1.2.2
 TickExec: '1.1'
@@ -7604,7 +7605,7 @@ VeryLargeIntegers: 0.1.9
 VetResearchLMM: 1.0.0
 VhayuR: 1.1.2
 ViSiElse: 1.2.2
-VicmapR: 0.1.10
+VicmapR: 0.2.0
 Vicus: 0.99.0
 VideoComparison: '0.15'
 ViewPipeSteps: 0.1.0
@@ -7884,7 +7885,7 @@ actogrammr: 0.2.3
 actuaRE: 0.1.5
 actuar: 3.3-2
 actuaryr: 1.1.1
-actxps: 1.0.0
+actxps: 1.0.1
 acumos: 0.4-4
 ada: 2.0-5
 adaHuber: '1.1'
@@ -8032,7 +8033,7 @@ aif360: 0.1.0
 aihuman: 0.1.0
 aimPlot: 1.0.0
 aimsir17: 0.0.2
-airGR: 1.7.0
+airGR: 1.7.4
 airGRdatasets: 0.1.4
 airGRdatassim: 0.1.3
 airGRiwrm: 0.6.1
@@ -8378,7 +8379,7 @@ assignR: 2.2.2
 assist: 3.1.8
 assocInd: 1.0.1
 assortnet: '0.20'
-ast2ast: 0.3.0
+ast2ast: 0.3.1
 asteRisk: 1.4.3
 aster: 1.1-2
 aster2: '0.3'
@@ -8450,7 +8451,7 @@ autoGO: 0.9.1
 autoMFA: 1.0.0
 autoMrP: 1.0.2
 autoRasch: 0.2.2
-autoReg: 0.2.6
+autoReg: 0.3.2
 autoSEM: 0.1.0
 autoTS: 0.9.11
 autocart: 1.4.5
@@ -8551,7 +8552,7 @@ bahc: 0.3.0
 bain: 0.2.8
 bairt: 0.1.2
 baitmet: 1.0.1
-baizer: 0.3.0
+baizer: 0.4.0
 bakR: 0.4.0
 bakeoff: 0.2.0
 baker: 1.0.0
@@ -9404,7 +9405,7 @@ camerondata: 1.0.0
 campaignmanageR: 0.1.0
 campfin: 1.0.10
 campsis: 1.3.0
-campsismod: 0.9.0
+campsismod: 1.0.0
 camsRad: 0.3.0
 camtrapR: 2.2.0
 canadacovid: 0.3.4
@@ -13028,7 +13029,7 @@ gWidgetsRGtk2: 0.0-86.1
 gWidgetsWWW: 0.0-23
 gWidgetsrJava: 0.0-19
 gWidgetstcltk: 0.0-55.1
-gadget2: 2.3.9
+gadget2: 2.3.10
 gadget3: 0.8-4
 gafit: 0.5.1
 gaiah: 0.0.4
@@ -13672,7 +13673,7 @@ glmglrt: 0.2.2
 glmgraph: 1.0.3
 glmlep: '0.2'
 glmm: 1.4.4
-glmm.hp: 0.0-7
+glmm.hp: 0.0-8
 glmmAK: '1.7'
 glmmBUGS: 2.4.2
 glmmEP: 1.0-3.1
@@ -13789,7 +13790,7 @@ gooJSON: 1.0.01
 good: 1.0.1
 goodpractice: 1.0.4
 googleAnalyticsR: 1.1.0
-googleAuthR: 2.0.0
+googleAuthR: 2.0.1
 googleCloudRunner: 0.5.0
 googleCloudStorageR: 0.7.0
 googleCloudVisionR: 0.2.0
@@ -14466,6 +14467,7 @@ hybridEnsemble: 1.7.9
 hybridHclust: 1.0-5
 hybridModels: 0.3.7
 hybridogram: 0.3.2
+hybridts: 0.1.0
 hyd1d: 0.4.4
 hydflood: 0.5.3
 hydra: 0.1.0
@@ -14651,7 +14653,7 @@ identifyr: 0.1.3
 identity: 0.2-1
 ideq: 0.1.4
 ider: 0.1.1
-idiogramFISH: 2.0.10
+idiogramFISH: 2.0.11
 idm: 1.8.3
 idmTPreg: '1.1'
 idmodelr: 0.4.0
@@ -14875,7 +14877,7 @@ integrativeMEdata: '1.0'
 intendo: '0.1'
 intensegRid: 0.1.2
 intensity.analysis: 0.1.6
-intensitynet: 1.3.1
+intensitynet: 1.4.0
 interAdapt: '0.1'
 interacCircos: 1.0.0
 interactionR: 0.1.6
@@ -15171,6 +15173,7 @@ jose: 1.2.0
 jot: 0.0.4
 journalabbr: 0.4.0
 joyn: 0.1.4
+jpcity: 0.1.0
 jpeg: 0.1-10
 jpgrid: 0.3.1
 jpmesh: 2.1.0
@@ -16158,7 +16161,7 @@ mappp: 1.0.0
 mapproj: 1.2.11
 mapr: 0.5.2
 maps: 3.4.1
-mapsFinland: 0.2.1
+mapsFinland: 0.2.2
 mapsPERU: 1.0.2
 mapsRinteractive: 1.0.1
 mapsapi: 0.5.3
@@ -17096,7 +17099,7 @@ mrMLM.GUI: 4.0.2
 mra: 2.16.11
 mratios: 1.4.2
 mrbayes: 0.5.1
-mrbin: 1.7.3
+mrbin: 1.7.4
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
 mrds: 2.2.8
@@ -17619,7 +17622,7 @@ nhlscrapr: 1.8.1
 nhm: 0.1.0
 nhs.predict: 1.4.0
 nhsnumber: 0.1.2
-nhstplot: 1.1.0
+nhstplot: 1.2.0
 niaidMI: 1.1.0
 nic: 0.0.2
 nice: 0.4-1
@@ -17776,7 +17779,7 @@ nopp: 1.1.2
 nor1mix: 1.3-0
 nord: 1.0.0
 nordklimdata1: '1.2'
-norgeo: 2.1.4
+norgeo: 2.1.5
 norm: 1.0-10.0
 norm2: 2.0.4
 normalizeH: 1.0.0
@@ -18228,7 +18231,7 @@ osd: '0.1'
 osfr: 0.2.9
 oshka: 0.1.2
 osi: 0.1.0
-oskeyring: 0.1.5
+oskeyring: 0.1.6
 osmar: 1.1-7
 osmdata: 0.2.1
 osmextract: 0.4.1
@@ -18622,7 +18625,7 @@ peakPick: '0.11'
 peakRAM: 1.0.2
 pear: '1.2'
 pearson7: 1.0-3
-pec: 2022.05.04
+pec: 2023.04.12
 pecora: 0.1.1
 pedSimulate: 1.4.0
 pedalfast.data: 1.0.0
@@ -20844,7 +20847,7 @@ rmumps: 5.2.1-23
 rmutil: 1.1.10
 rmweather: 0.2.4
 rmytarget: 2.4.0
-rmzqc: 0.1.0
+rmzqc: 0.4.1
 rnaseqWrapper: 1.0-1
 rnassqs: 0.6.1
 rnaturalearth: 0.3.2
@@ -21591,7 +21594,7 @@ scrubr: 0.4.0
 scrutiny: 0.2.4
 scrypt: 0.1.6
 scryr: 1.0.0
-scs: 3.0-1
+scs: 3.2.4
 sctransform: 0.3.5
 scuba: 1.11-1
 sculpt3d: 0.3-1
@@ -22571,7 +22574,7 @@ spc4sts: 0.6.3
 spca: 0.6.0
 spcadjust: '1.1'
 spclust: '1.2'
-spcosa: 0.4-1
+spcosa: 0.4-2
 spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
@@ -22759,7 +22762,7 @@ sr: 0.1.0
 sra: 0.1.4
 srcr: 1.1.0
 srd: '1.0'
-sregsurvey: 0.1.2
+sregsurvey: 0.1.3
 srm: 0.4-26
 srp: 1.2.0
 srt: 1.0.3
@@ -24382,7 +24385,7 @@ vanddraabe: 1.1.1
 vangogh: 0.1.1
 vannstats: 1.3.1.30
 vanquish: 1.0.0
-vapour: 0.9.3
+vapour: 0.9.5
 varComp: 0.2-0
 varEst: 0.1.0
 varImp: '0.4'
@@ -24536,7 +24539,7 @@ vitae: 0.5.3
 vitality: '1.3'
 vivainsights: 0.3.0
 vivaldi: 1.0.1
-vivid: 0.2.6
+vivid: 0.2.7
 vivo: 0.2.1
 vizdraws: '1.2'
 vkR: '0.2'
@@ -24557,7 +24560,7 @@ volcano3D: 2.0.8
 volcanoPlot: 1.0.0
 volesti: 1.1.2-4
 volleystat: 0.2.0
-voluModel: 0.1.9
+voluModel: 0.2.0
 voronoi: '1.1'
 voronoiTreemap: 0.2.0
 vortexR: 1.1.7
@@ -24908,7 +24911,7 @@ xaringanExtra: 0.7.0
 xaringanthemer: 0.4.2
 xbreed: 1.0.1.1
 xdcclarge: 0.1.0
-xefun: 0.1.3
+xefun: 0.1.4
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
