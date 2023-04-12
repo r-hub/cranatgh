@@ -4360,7 +4360,7 @@ NMdata: 0.0.16
 NMproject: 0.6.9
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.9.6.1
+NNS: 0.9.7
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.6
@@ -5084,7 +5084,7 @@ PresenceAbsence: 1.1.11
 PressPurt: 1.0.2
 PrettyCols: 1.0.1
 PrevMap: 1.5.4
-PriceIndices: 0.1.6
+PriceIndices: 0.1.7
 PriorCD: 0.1.0
 PriorGen: '2.0'
 PrivateLR: 1.2-22
@@ -7122,7 +7122,7 @@ SystemicR: 0.1.0
 T2EQ: '1.1'
 T2Qv: 0.1.0
 T4cluster: 0.1.2
-T4transport: 0.1.1
+T4transport: 0.1.2
 TAF: 4.2.0
 TAG: 0.5.1
 TAHMMAnnot: '2.0'
@@ -8720,7 +8720,7 @@ bcfrailph: 0.1.1
 bcfrailphdv: 0.1.1
 bcgam: '1.0'
 bclust: '1.5'
-bcmaps: 1.1.0
+bcmaps: 1.2.0
 bcmixed: 0.1.4
 bcool: '1.2'
 bcp: 4.0.3
@@ -9642,7 +9642,7 @@ cg: 1.0-3
 cgAUC: 1.2.1
 cgaim: 1.0.0
 cgal4h: 0.1.0
-cgalMeshes: 1.0.0
+cgalMeshes: 2.0.0
 cgalPolygons: 0.1.0
 cgam: '1.20'
 cgdsr: 1.3.0
@@ -9787,7 +9787,7 @@ ciuupi: 1.1.0
 ciuupi2: 1.0.1
 civis: 3.1.2
 cjar: 0.1.2
-cjbart: 0.2.2
+cjbart: 0.3.0
 cjoint: 2.1.0
 ck37r: 1.0.3
 ckanr: 0.7.0
@@ -9948,7 +9948,7 @@ cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.2
 cmfilter: 0.9.1
-cmfrec: 3.5.1
+cmfrec: 3.5.1-1
 cmhc: 0.2.5
 cml: 0.1.0
 cmm: '0.12'
@@ -10222,7 +10222,7 @@ conquer: 1.3.3
 conquestr: 1.0.7
 conserveR: 1.0.4
 consolechoice: 1.1.1
-consort: 1.1.0
+consort: 1.2.0
 consortr: 0.9.1
 constants: 1.0.1
 constellation: 0.2.0
@@ -11082,6 +11082,7 @@ dfped: '1.1'
 dfphase1: 1.1.4
 dfpk: 3.5.1
 dfrr: 0.1.4
+dfsaneacc: 1.0.0
 dfvad: 0.3.6
 dga: 2.0.1
 dggridR: 3.0.0
@@ -12787,7 +12788,7 @@ formulops: 0.5.0
 forplo: 0.2.5
 forrel: 1.5.0
 forsearch: 3.3.0
-forstringr: 0.0.1
+forstringr: 0.1.1
 fortunes: 1.5-4
 forward: 1.0.6
 forwards: 0.1.3
@@ -13457,7 +13458,7 @@ ggfan: 0.1.3
 ggfittext: 0.10.0
 ggfocus: 1.0.0
 ggforce: 0.4.1
-ggformula: 0.10.2
+ggformula: 0.10.4
 ggfortify: 0.4.16
 ggfun: 0.0.9
 ggfx: 1.0.1
@@ -14157,6 +14158,7 @@ hcci: 1.0.0
 hce: 0.5.0
 hchinamap: 0.1.0
 hcidata: 0.1.0
+hclust1d: 0.0.1
 hcp: '0.1'
 hctrial: 0.1.0
 hdImpute: 0.1.1
@@ -14643,7 +14645,7 @@ idar: '1.5'
 idarps: 0.0.2
 idbg: '1.0'
 idbr: '1.0'
-idcnrba: 0.1.0
+idcnrba: 0.2.0
 idealstan: 0.7.2
 ideamdb: 0.0.9
 idefix: 1.0.3
@@ -15432,7 +15434,7 @@ label.switching: '1.8'
 labelVector: 0.1.2
 labeledLoop: '0.1'
 labeling: 0.4.2
-labelled: 2.10.0
+labelled: 2.11.0
 labelmachine: 1.0.0
 labelrank: '0.1'
 labeltodendro: '1.3'
@@ -15508,7 +15510,7 @@ latticedl: '1.2'
 latticist: 0.9-44
 lava: 1.7.2.1
 lava.tobit: '0.5'
-lavaSearch2: 1.5.6
+lavaSearch2: 2.0.1
 lavaan: 0.6-15
 lavaan.shiny: '1.2'
 lavaan.survey: 1.1.3.1
@@ -15771,7 +15773,7 @@ littler: 0.3.18
 liureg: 1.1.2
 live: 1.5.13
 livechatR: 0.1.0
-liver: '1.13'
+liver: '1.14'
 ljr: 1.4-0
 llama: 0.10.1
 llbayesireg: 1.0.0
@@ -17694,7 +17696,7 @@ nlsic: 1.0.2
 nlsmsn: 0.0-6
 nlsr: 2023.2.12
 nlsrk: '1.1'
-nlstac: 0.1.0
+nlstac: 0.2.0
 nlstimedist: 2.0.0
 nlstools: 2.0-0
 nlt: 2.2-1
@@ -18403,7 +18405,7 @@ panelr: 0.7.7
 panelsummary: 0.1.1
 panelvar: 0.5.5
 pangaear: 1.1.0
-panstarrs: 0.1.0
+panstarrs: 0.2.0
 papaja: 0.1.1
 papayar: '1.0'
 papci: 0.1.0
@@ -19585,7 +19587,7 @@ pwr2ppl: 0.5.0
 pwrAB: 0.1.0
 pwrFDR: 2.8.9
 pwrRasch: 0.1-2
-pwrss: 0.3.0
+pwrss: 0.3.1
 pwt: 7.1-1
 pwt10: 10.01-0
 pwt8: 8.1-1
@@ -21056,7 +21058,7 @@ rpud: 0.0.2
 rpvm: 1.0-4
 rpyANTs: 0.0.1
 rpymat: 0.1.5
-rqPen: 3.1.2
+rqPen: 3.1.3
 rqdatatable: 1.3.1
 rqmcmb2: 1.0.2-1
 rquery: 1.4.9
@@ -22442,7 +22444,7 @@ spINAR: 0.1.0
 spMC: 0.3.12
 spMaps: 0.4.0
 spNNGP: 1.0.0
-spNetwork: 0.4.3.6
+spNetwork: 0.4.3.7
 spOccupancy: 0.6.1
 spRingsteen: 0.1.0
 spTDyn: 2.0.2
@@ -23989,7 +23991,7 @@ trelloR: 0.7.1
 tremendousr: 1.0.0
 trend: 1.1.5
 trendchange: '1.2'
-trendeval: 0.0.1
+trendeval: 0.1.0
 trending: 0.1.0
 trendsegmentR: 1.1.0
 trendyy: 0.1.1
@@ -24122,7 +24124,7 @@ tukeyGH: 1.0.0
 tukeytrend: '0.7'
 tumblR: '1.2'
 tumgr: 0.0.4
-tune: 1.1.0
+tune: 1.1.1
 tuneR: 1.4.3
 tuneRanger: '0.5'
 tuple: 0.4-02
@@ -24558,7 +24560,7 @@ vol2birdR: 0.2.0
 volatilityTrader: 1.0.1
 volcano3D: 2.0.8
 volcanoPlot: 1.0.0
-volesti: 1.1.2-4
+volesti: 1.1.2-6
 volleystat: 0.2.0
 voluModel: 0.2.0
 voronoi: '1.1'
