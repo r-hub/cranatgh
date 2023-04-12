@@ -484,7 +484,7 @@ BPmodel: 1.1.2
 BRACE: 0.1.0
 BRACoD.R: 0.0.2.0
 BRDT: 0.1.0
-BREADR: 1.0.0
+BREADR: 1.0.1
 BRETIGEA: 1.0.3
 BRINDA: 0.1.5
 BRISC: 1.0.5
@@ -1239,6 +1239,7 @@ CompR: '1.0'
 CompRandFld: 1.0.3-6
 Compack: 0.1.0
 CompareCausalNetworks: 0.2.6.2
+CompareMultipleModels: 0.1.0
 CompareTests: '1.2'
 ComparisonCR: 1.0.4
 ComparisonSurv: 1.1.1
@@ -4030,7 +4031,7 @@ MaxMC: 0.1.1
 MaxPro: 4.1-2
 MaxSkew: '1.1'
 MaxentVariableSelection: 1.0-3
-MaximinInfer: 1.0.0
+MaximinInfer: 2.0.0
 MazamaCoreUtils: 0.4.13
 MazamaLocationUtils: 0.3.8
 MazamaRollUtils: 0.1.3
@@ -5067,6 +5068,7 @@ PowerTOST: 1.5-4
 PowerUpR: 1.1.0
 PowerVenn: 0.0.1
 PowerfulMaxEigenpair: 0.1.1
+PrInDT: '1.0'
 PracTools: '1.3'
 PracticalEquiDesign: 0.0.3
 PreKnitPostHTMLRender: 0.1.0
@@ -5731,7 +5733,7 @@ RTDAmeritrade: 0.0.1
 RTDE: 0.2-1
 RTFA: 0.1.0
 RTIGER: 2.1.0
-RTL: 1.3.2
+RTL: 1.3.3
 RTOMO: 1.1-6
 RTTWebClient: 0.1.3
 RTaxometrics: '3.2'
@@ -7694,7 +7696,7 @@ WeedMap: '0.1'
 WeibullFit: 0.1.0
 WeibullR: 1.2.1
 WeibullR.ALT: 0.7.2
-WeightIt: 0.13.1
+WeightIt: 0.14.0
 WeightSVM: 1.7-11
 Weighted.Desc.Stat: '1.0'
 WeightedCluster: 1.6-0
@@ -8375,7 +8377,7 @@ assertive.types: 0.0-3
 assertr: 3.0.0
 assertthat: 0.2.1
 assignPOP: 1.2.4
-assignR: 2.2.2
+assignR: 2.2.3
 assist: 3.1.8
 assocInd: 1.0.1
 assortnet: '0.20'
@@ -8673,7 +8675,7 @@ bayesloglin: 1.0.1
 bayeslongitudinal: 0.1.0
 bayesm: 3.1-5
 bayesmeta: '3.2'
-bayesmix: 0.7-5
+bayesmix: 0.7-6
 bayesmodels: 0.1.1
 bayesmove: 0.2.1
 bayesnec: 2.1.0.3
@@ -8791,7 +8793,7 @@ benford.analysis: 0.1.5
 bentcableAR: 0.3.1
 benthos: 1.3-8
 ber: '4.0'
-berryFunctions: 1.21.14
+berryFunctions: 1.22.0
 bestNormalize: 1.9.0
 bestSDP: 0.1.2
 bestglm: 0.37.3
@@ -8800,6 +8802,7 @@ bestridge: 1.0.7
 betaBayes: 1.0.1
 betaDelta: 1.0.0
 betaMC: 1.0.0
+betaNB: 1.0.1
 betaSandwich: 1.0.3
 betaboost: 1.0.1
 betacal: 0.1.0
@@ -10479,7 +10482,7 @@ crimedata: 0.3.1
 crimelinkage: 0.0.4
 crimeutils: 0.5.1
 crisp: 1.0.0
-crispRdesignR: 1.1.6
+crispRdesignR: 1.1.7
 criticality: 0.9.2
 criticalpath: 0.2.1
 critpath: 0.1.5
@@ -11201,6 +11204,7 @@ discgolf: 0.2.0
 discharge: 1.0.0
 disclap: 1.5.1
 disclapmix: 1.7.4
+disclapmix2: 0.6.1
 discnorm: 0.2.1
 disco: '0.6'
 discord: 1.1.0
@@ -11501,6 +11505,7 @@ duawranglr: 0.6.7
 dub: 0.2.0
 duckdb: 0.7.1-1
 duckduckr: 1.0.0
+duke: 0.0.1
 dumbbell: '0.1'
 dummies: 1.5.6
 dummy: 0.1.3
@@ -11641,7 +11646,7 @@ ebmc: 1.0.1
 ebmstate: 0.1.3
 ebnm: 1.0-9
 ebreg: 0.1.3
-ebvcube: 0.1.2
+ebvcube: 0.1.3
 ec50estimator: 0.1.0
 ecan: 0.2.0
 ecap: 0.1.2
@@ -12464,6 +12469,7 @@ fdasrvf: 2.0.1
 fdatest: 2.1.1
 fdcov: 1.1.0
 fddm: 0.5-2
+fdicdata: 0.1.0
 fdim: 1.0-7
 fdistr: 0.1.0
 fdm2id: 0.9.8
@@ -13080,7 +13086,7 @@ gammSlice: 2.0-2
 gamma: 1.0.3
 gamreg: '0.3'
 gamsel: 1.8-2
-gamselBayes: 1.0-2
+gamselBayes: 1.0-3
 ganDataModel: 1.1.3
 ganGenerativeData: 1.4.3
 ganalytics: 0.10.7
@@ -13604,6 +13610,7 @@ ghql: 0.1.0
 ghyp: 1.6.3
 ghypernet: 1.1.0
 giRaph: 0.1.2
+gibasa: 0.9.2
 gibble: 0.4.0
 gibbs.met: 1.1-3
 giedata: 0.1.1
@@ -13863,7 +13870,7 @@ grade: 0.2-1
 gradeR: 1.0.10
 gradientPickerD3: 0.1.0.0
 grafify: 3.0.1
-grafzahl: 0.0.5
+grafzahl: 0.0.8
 grainchanger: 0.3.2
 grainscape: 0.4.3
 gramEvol: 2.1-4
@@ -14122,7 +14129,7 @@ haploR: 4.0.6
 haploReconstruct: 0.1.2
 haplotyper: '0.1'
 haplotypes: 1.1.2
-happign: 0.1.8
+happign: 0.1.9
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
@@ -17065,7 +17072,7 @@ move: 4.1.12
 moveHMM: '1.8'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.3
-movecost: '1.9'
+movecost: '2.0'
 mozzie: 0.1.0
 mp: 0.4.1
 mpMap: '1.14'
@@ -17599,7 +17606,7 @@ newsmap: 0.8.2
 newsmd: 0.4.0
 nextGenShinyApps: '1.6'
 nfda: 0.2-2
-nfer: 1.1.2
+nfer: 1.1.3
 nfl4th: 1.0.2
 nflfastR: 4.5.1
 nflplotR: 1.1.0
@@ -18216,7 +18223,7 @@ originr: 0.4.0
 orloca: '4.10'
 orloca.es: '4.9'
 ormBigData: 0.0.1
-ormPlot: 0.3.4
+ormPlot: 0.3.5
 oro.dicom: 0.5.3
 oro.nifti: 0.11.4
 oro.pet: 0.2.7
@@ -18639,7 +18646,7 @@ pedigree: 1.4.2
 pedigreeTools: '0.1'
 pedigreemm: 0.3-3
 pedmod: 0.2.4
-pedmut: 0.5.0
+pedmut: 0.6.0
 pedometrics: 0.12.1
 pedprobr: 0.7.1
 pedquant: 0.2.1
@@ -19772,6 +19779,7 @@ quantregRanger: '1.0'
 quantspec: 1.2-3
 quarks: 1.1.3
 quarrint: 1.0.0
+quartets: 0.1.0
 quarto: '1.2'
 quaternions: '0.2'
 queryparser: 0.3.2
@@ -19953,7 +19961,7 @@ rSFA: '1.5'
 rSHAPE: 0.3.2
 rSPACE: 1.2.0
 rSPARCS: 0.1.0
-rSPDE: 2.1.0
+rSPDE: 2.2.0
 rSQM: 1.3.14
 rSRD: 0.1.7
 rSpectral: 1.0.0.10
@@ -22089,7 +22097,7 @@ simex: '1.8'
 simexaft: 1.0.7.1
 simfam: 1.1.6
 simfinR: 0.2.3
-simfinapi: 0.2.3
+simfinapi: 0.2.4
 simfit: 0.1.0
 simglm: 0.8.9
 simgof: 1.0.2
@@ -22687,7 +22695,7 @@ spm: 1.2.2
 spm12r: 2.8.3
 spm2: 1.1.3
 spmodel: 0.3.0
-spmoran: 0.2.2.6
+spmoran: 0.2.2.7
 spnaf: 0.2.1
 spnet: 0.9.1-0
 spnn: 1.2.1
@@ -22778,7 +22786,7 @@ ssc: 2.1-0
 sscor: '0.2'
 ssd: '0.3'
 ssddata: 1.0.0
-ssdtools: 1.0.2
+ssdtools: 1.0.3
 sse: 0.7-17
 ssev: 0.1.0
 ssfa: '1.2'
@@ -23478,7 +23486,7 @@ tensorTS: 1.0.0
 tensorflow: 2.11.0
 tensorordinal: 0.2.0
 tensorr: 0.1.1
-tensorregress: '4.0'
+tensorregress: '5.0'
 tensorsign: 0.1.0
 tensorsparse: '3.0'
 tensr: 1.0.1
