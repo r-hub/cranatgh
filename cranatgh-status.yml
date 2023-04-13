@@ -131,7 +131,7 @@ ARHT: 0.1.0
 ARIMAANN: 0.1.0
 ARIbrain: '0.2'
 AROC: 1.0-4
-ARPALData: 1.3.0
+ARPALData: 1.3.1
 ARPobservation: 1.2.1
 ART: '1.0'
 ARTIVA: 1.2.3
@@ -1671,7 +1671,7 @@ Deriv: 4.1.3
 DescTools: 0.99.48
 DescToolsAddIns: '1.10'
 DescrTab2: 2.1.16
-DescribeDF: 0.1.0
+DescribeDF: 0.1.1
 DescribeDisplay: 0.2.9
 DescriptiveStats.OBeu: 1.3.2
 DescriptiveWH: 1.0.3
@@ -1849,6 +1849,7 @@ EGRETci: 2.0.4
 EGRNi: 0.1.6
 EHR: 0.4-11
 EHRtemporalVariability: 1.1.4
+EIAapi: 0.1.0
 EIAdata: 0.1.3
 EILA: 0.1-2
 EIX: 1.2.0
@@ -2274,7 +2275,7 @@ FiRE: 1.0.1
 FiSh: '1.1'
 FielDHub: 1.2.1
 FieldSim: 3.2.1
-FieldSimR: 1.0.0
+FieldSimR: 1.1.0
 FinAna: 0.1.2
 FinAsym: '1.0'
 FinCal: 0.6.3
@@ -3156,7 +3157,7 @@ InDisc: 1.1.0
 InPosition: 0.12.7.1
 InSilicoVA: 1.4.0
 IncDTW: 1.1.4.4
-IncidencePrevalence: 0.2.0
+IncidencePrevalence: 0.2.1
 IncomPair: 0.1.0
 IncucyteDRC: 0.5.4
 IndTestPP: '3.0'
@@ -7248,7 +7249,7 @@ TSSQLite: 2015.4-1
 TSSS: 1.3.4
 TSSVM: 0.1.0
 TSTr: '1.2'
-TSTutorial: 1.2.5
+TSTutorial: 1.2.6
 TSVC: 1.2.2
 TSclust: 1.3.1
 TScompare: 2015.4-1
@@ -8819,7 +8820,7 @@ betategarch: '3.3'
 betfairly: '1.2'
 bethel: '0.2'
 bets.covid19: 1.0.0
-bettermc: 1.1.2
+bettermc: 1.2.1
 beyondWhittle: 1.1.3
 bezier: 1.1.2
 bfa: '0.4'
@@ -10505,6 +10506,7 @@ cropgrowdays: 0.1.1
 crops: 1.0.3
 crossReg: '1.0'
 crossdes: 1.1-2
+crosshap: 1.1.0
 crosshybDetector: 1.0.5
 crossmap: 0.4.0
 crossmatch: 1.3-1
@@ -11275,7 +11277,7 @@ distro: 0.1.0
 distrom: 1.0.1
 distrr: 0.0.6
 disttools: 0.1.8
-dittodb: 0.1.4
+dittodb: 0.1.5
 div: 0.3.1
 divDyn: 0.8.2
 divagis: 1.0.0
@@ -13552,7 +13554,7 @@ ggraph: 2.1.0
 ggraptR: '1.3'
 ggrasp: '1.2'
 ggrastr: 1.0.1
-ggrcs: 0.2.8
+ggrcs: 0.2.9
 ggredist: 0.0.2
 ggrepel: 0.9.3
 ggridges: 0.5.4
@@ -13576,7 +13578,7 @@ ggspatial: 1.1.7
 ggspectra: 0.3.11
 ggstance: 0.3.6
 ggstar: 1.0.4
-ggstats: 0.2.1
+ggstats: 0.3.0
 ggstatsplot: 0.11.0
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
@@ -13627,7 +13629,7 @@ giphyr: 0.2.0
 gips: 1.0.0
 giscoR: 0.3.3
 gistr: 0.9.0
-git2r: 0.31.0
+git2r: 0.32.0
 git2rdata: 0.4.0
 git4r: 0.1.2
 gitGPT: 0.1.3
@@ -13681,7 +13683,7 @@ glmglrt: 0.2.2
 glmgraph: 1.0.3
 glmlep: '0.2'
 glmm: 1.4.4
-glmm.hp: 0.0-8
+glmm.hp: 0.0-9
 glmmAK: '1.7'
 glmmBUGS: 2.4.2
 glmmEP: 1.0-3.1
@@ -14495,7 +14497,7 @@ hydroroute: 0.1.2
 hydrosanity: 0.8.76
 hydroscoper: 1.4.1
 hydrostats: 0.2.9
-hydrotoolbox: 1.1.0
+hydrotoolbox: 1.1.2
 hyfo: 1.4.3
 hyper.fit: 1.1.1
 hyper2: 3.0-0
@@ -15629,7 +15631,7 @@ legocolors: 0.3.1
 lehdr: 1.0.1
 leiden: 0.4.3
 leidenAlg: 1.0.5
-leidenbase: 0.1.14
+leidenbase: 0.1.17
 leiv: 2.0-7
 lemma: 1.3-4
 lemna: 1.0.0
@@ -16971,7 +16973,7 @@ modeltime: 1.2.6
 modeltime.ensemble: 1.0.2
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.1
-modeltime.resample: 0.2.2
+modeltime.resample: 0.2.3
 modeltools: 0.2-23
 modelwordcloud: '0.1'
 moderate.mediation: 0.0.2
@@ -17829,6 +17831,7 @@ nparMD: 0.2.1
 nparcomp: '3.0'
 nparsurv: 0.1.0
 npbr: '1.8'
+npclust: 0.1.0
 npcopTest: '1.03'
 npcp: 0.2-5
 npcs: 0.1.0
@@ -17968,7 +17971,7 @@ oclust: 0.2.0
 ocomposition: '1.1'
 ocp: 0.1.1
 ocs4R: 0.2-3
-octopus: 0.1.2
+octopus: 0.2.0
 octopusR: 1.0.0
 od: 0.4.0
 odbc: 1.3.4
@@ -18464,7 +18467,7 @@ parsemsf: 0.1.1
 parser: '0.1'
 parsermd: 0.1.2
 parsetools: 0.1.3
-parsnip: 1.0.4
+parsnip: 1.1.0
 parspatstat: 0.1-4
 partDSA: 0.9.14
 partR2: 0.9.1
@@ -19295,7 +19298,7 @@ predfairness: 0.1.0
 predfinitepop: '1.0'
 predhy: 1.2.1
 predhy.GUI: '1.0'
-predict3d: 0.1.3.3
+predict3d: 0.1.4
 predictMe: '0.1'
 prediction: 0.3.14
 predictionInterval: 1.0.0
@@ -21321,7 +21324,7 @@ rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.8
 s2: 1.1.2
-s20x: 3.1-37
+s20x: 3.1-38
 s2dv: 1.4.0
 s2dverification: 2.10.3
 s2net: 1.0.4
@@ -23922,7 +23925,7 @@ traipse: 0.3.0
 traitdataform: 0.6.8
 traitr: '0.14'
 traits: 0.5.0
-traj: '1.3'
+traj: 1.3.1
 trajeR: 0.9.0.5
 trajectories: 0.2-7
 trajr: 1.4.0
