@@ -280,6 +280,7 @@ ArchaeoPhases.dataset: 0.2.0
 ArduinoControl: '1.0'
 ArfimaMLM: '1.3'
 ArgumentCheck: 0.10.2
+AriGaMyANNSVR: 0.1.0
 Arothron: 2.0.5
 ArrayBin: '0.2'
 AsioHeaders: 1.22.1-2
@@ -1008,6 +1009,7 @@ CRTSize: '1.2'
 CRTgeeDR: 2.0.1
 CRUF: 0.5.1
 CRWRM: 0.0.1
+CRediTas: 0.2.0
 CSCDRNA: 1.0.3
 CSCNet: 0.1.2
 CSESA: 1.2.0
@@ -1624,7 +1626,7 @@ DataPackageR: 0.15.8
 DataSpaceR: 0.7.6
 DataVisualizations: 1.2.3
 DataViz: 0.2.8
-DatabaseConnector: 6.1.0
+DatabaseConnector: 6.2.0
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.1.6
 Datasmith: 1.0-1
@@ -4012,7 +4014,7 @@ MasterBayes: '2.58'
 MatManlyMix: 1.1.1
 MatSkew: 0.1.5
 MatTransMix: 0.1.15
-MatchIt: 4.5.2
+MatchIt: 4.5.3
 MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
 MatchItSE: '1.0'
@@ -5224,6 +5226,7 @@ QuantumClone: 1.0.0.6
 QuantumOps: 3.0.1
 Quartet: 1.2.5
 QuasiSeq: 1.0-11-0
+QuickJSR: 1.0.2
 Quor: '0.1'
 QurvE: '1.0'
 R.SamBada: 0.1.3
@@ -6182,7 +6185,7 @@ Rnets: 1.2.1
 Rniftilib: 0.0-32
 Rnightlights: 0.2.4
 Rnightly: 0.1.0
-Rnmr1D: 1.3.0
+Rnmr1D: 1.3.2
 Rnotes: 1.1-1
 Rnumerai: 3.0.1
 Rnvd3: 1.0.0
@@ -6984,7 +6987,7 @@ SplitSoftening: 2.1-0
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.13.1
+SqlRender: 1.14.0
 SqueakR: 1.3.0
 Sshaped: '1.1'
 Sstack: 1.0.1
@@ -7684,6 +7687,7 @@ WaveletGBM: 0.1.0
 WaveletKNN: 0.1.0
 WaveletLSTM: 0.1.0
 WaveletML: 0.1.0
+WaveletMLbestFL: 0.1.0
 WaveletRF: 0.1.0
 WaveletSVR: 0.1.0
 WaverR: '1.0'
@@ -8681,7 +8685,7 @@ bayesmodels: 0.1.1
 bayesmove: 0.2.1
 bayesnec: 2.1.0.3
 bayespack: 1.0-2
-bayesplay: 0.9.2
+bayesplay: 0.9.3
 bayesplot: 1.10.0
 bayespref: '1.0'
 bayesreg: '1.2'
@@ -8802,7 +8806,7 @@ besthr: 0.3.1
 bestridge: 1.0.7
 betaBayes: 1.0.1
 betaDelta: 1.0.0
-betaMC: 1.0.0
+betaMC: 1.2.0
 betaNB: 1.0.1
 betaSandwich: 1.0.3
 betaboost: 1.0.1
@@ -9408,7 +9412,7 @@ camel: 0.2.0
 camerondata: 1.0.0
 campaignmanageR: 0.1.0
 campfin: 1.0.10
-campsis: 1.3.0
+campsis: 1.4.0
 campsismod: 1.0.0
 camsRad: 0.3.0
 camtrapR: 2.2.0
@@ -10145,7 +10149,7 @@ complexity: 1.1.2
 complexplus: '2.1'
 complmrob: 0.7.0
 compoisson: '0.3'
-compositions: 2.0-5
+compositions: 2.0-6
 compositionsGUI: '1.0'
 composits: 0.1.1
 compound.Cox: '3.28'
@@ -10912,7 +10916,7 @@ ddsPLS: 1.1.4
 ddst: '1.4'
 deBInfer: 0.4.4
 deBif: 0.1.7
-deFit: 0.1.2
+deFit: 0.2.0
 deGradInfer: 1.0.1
 deSolve: '1.35'
 deTS: '1.0'
@@ -12332,6 +12336,7 @@ faisalconjoint: '1.15'
 fake: 1.3.0
 fakeR: '1.0'
 fakemake: 1.10.4
+fakir: 1.0.0
 fakmct: 0.1.0
 falcon: '0.2'
 falconx: '0.2'
@@ -12680,7 +12685,7 @@ flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
 flightsbr: 0.2.1
-flimo: 0.1.3
+flimo: 0.1.4
 flintyR: 0.1.0
 flip: 2.5.0
 flipbookr: 0.1.0
@@ -13120,7 +13125,7 @@ gaussfacts: 0.0.2
 gaussplotR: 0.2.5
 gausspred: 1.0-0
 gaussquad: 1.0-3
-gawdis: 0.1.3
+gawdis: 0.1.4
 gazepath: '1.3'
 gazetools: '3.0'
 gb: 2.3.3
@@ -19064,6 +19069,7 @@ pmsampsize: 1.1.2
 pmultinom: 1.0.0
 pmwg: 0.2.0
 pmxTools: '1.3'
+pmxcode: '0.1'
 pmxpartab: 0.5.0
 pnea: 1.2.4
 pnf: 0.1.1
@@ -19300,6 +19306,7 @@ predhy: 1.2.1
 predhy.GUI: '1.0'
 predict3d: 0.1.4
 predictMe: '0.1'
+predictNMB: 0.1.0
 prediction: 0.3.14
 predictionInterval: 1.0.0
 predictmeans: 1.0.8
@@ -22820,7 +22827,7 @@ ssvd: '1.0'
 ssym: 1.5.7
 st: 1.2.7
 stR: '0.5'
-stRoke: 23.1.7
+stRoke: 23.4.1
 stUPscales: 1.0.3.4
 sta: 0.1.7
 staRdom: 1.1.25
@@ -22833,7 +22840,7 @@ stabilo: 0.1.1
 stable: 1.1.6
 stableGR: '1.2'
 stabledist: 0.7-1
-stablelearner: 0.1-4
+stablelearner: 0.1-5
 stablespec: 0.3.0
 stabm: 1.2.2
 stabreg: 0.1.2
@@ -23471,6 +23478,7 @@ telefit: 1.0.3
 telegram: 0.6.0
 telegram.bot: 3.0.0
 telemac: 0.1.1
+telemetR: '1.0'
 tempR: 0.9.9.20
 tempcyclesdata: 1.0.1
 tempdisagg: '1.1'
@@ -25077,7 +25085,7 @@ zoid: 1.1.0
 zoltr: 0.5.1
 zonator: 0.6.0
 zonebuilder: 0.0.2
-zoo: 1.8-11
+zoo: 1.8-12
 zooaRch: '1.2'
 zooaRchGUI: 1.0.2
 zoocat: 0.2.0.1
