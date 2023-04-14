@@ -549,7 +549,7 @@ BatchMap: 1.0.2.0
 BayClone2: '1.1'
 BayHap: 1.0.1
 BayHaz: 0.1-3
-BayLum: 0.2.1
+BayLum: 0.3.1
 BaySIC: '1.0'
 BayesARIMAX: 0.1.1
 BayesBD: '1.2'
@@ -2160,7 +2160,7 @@ FHtest: '1.5'
 FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
-FIESTA: 3.5.1
+FIESTA: 3.5.2
 FIESTAutils: 1.1.5
 FILEST: 1.1.2
 FIT: 0.0.6
@@ -4171,7 +4171,7 @@ MixedPsy: 1.1.0
 MixedTS: 1.0.4
 MixfMRI: 0.1-2
 MixtureInf: '1.1'
-MixtureMissing: 1.0.2
+MixtureMissing: 2.0.0
 MixtureRegLTIC: 1.0.0
 MixviR: 3.5.0
 MlBayesOpt: 0.3.4
@@ -4638,7 +4638,7 @@ OriGen: 1.4.3
 OrthoPanels: 1.2-4
 OryzaProbe: 0.1.0
 OscillatorGenerator: 0.1.0
-OssaNMA: 0.1.0
+OssaNMA: 0.1.1
 Ostats: 0.2.0
 OsteoBioR: 0.1.1
 OutbreakTools: 0.1-16
@@ -6413,7 +6413,7 @@ SDLfilter: 2.3.1
 SDMPlay: '2.0'
 SDMTools: 1.1-221.2
 SDMtune: 1.2.1
-SDPDmod: 0.0.1
+SDPDmod: 0.0.2
 SDPrism2D: 0.1.1
 SDR: 0.7.0.0
 SDT: 1.0.0
@@ -8089,7 +8089,7 @@ allhomes: 0.3.0
 allomr: 0.2.0
 alluvial: 0.1-2
 alm: 0.4.0
-almanac: 0.1.1
+almanac: 1.0.0
 alone: 0.1.1
 alookr: 0.3.7
 alpaca: 0.3.4
@@ -8473,7 +8473,7 @@ automagic: 0.5.1
 automap: 1.1-9
 automl: 1.3.2
 automultinomial: 2.0.0
-autonewsmd: 0.0.5
+autonewsmd: 0.0.6
 autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.3
@@ -9613,7 +9613,7 @@ censReg: 0.5-36
 censable: 0.0.5
 censo2017: 0.6.1
 censorcopula: '2.0'
-censored: 0.1.1
+censored: 0.2.0
 census: 0.2.0
 censusGeography: 0.1.0
 censusapi: 0.8.0
@@ -12333,7 +12333,7 @@ fairness: 1.2.2
 fairselect: 0.1-1
 fairsubset: '1.0'
 faisalconjoint: '1.15'
-fake: 1.3.0
+fake: 1.4.0
 fakeR: '1.0'
 fakemake: 1.10.4
 fakir: 1.0.0
@@ -13579,7 +13579,7 @@ ggsn: 0.5.0
 ggsoccer: 0.1.7
 ggsolvencyii: 0.1.2
 ggsom: 0.4.0
-ggspatial: 1.1.7
+ggspatial: 1.1.8
 ggspectra: 0.3.11
 ggstance: 0.3.6
 ggstar: 1.0.4
@@ -15199,7 +15199,7 @@ jqr: 1.2.3
 jquerylib: 0.1.4
 jrc: 0.5.1
 jrich: 0.60-35
-jrt: 1.1.1
+jrt: 1.1.2
 jrvFinance: 1.4.3
 js: '1.2'
 jsTree: '1.2'
@@ -18296,7 +18296,7 @@ owdbr: 1.0.1.1
 owidR: 1.4.1
 owl: 0.1.1
 owmr: 0.8.2
-ows4R: 0.3-4
+ows4R: 0.3-5
 ox: 0.1.0
 oxcAAR: 1.1.1
 oxcgrt: 0.1.0
@@ -18656,7 +18656,7 @@ pedigreemm: 0.3-3
 pedmod: 0.2.4
 pedmut: 0.6.0
 pedometrics: 0.12.1
-pedprobr: 0.7.1
+pedprobr: 0.8.0
 pedquant: 0.2.1
 pedsuite: 1.1.0
 pedtools: 2.1.1
@@ -19239,7 +19239,7 @@ powerMediation: 0.3.4
 powerSurvEpi: 0.1.3
 powerbiR: 0.1.0
 powerbydesign: 1.0.5
-powerindexR: '1.0'
+powerindexR: 1.0.1
 powerjoin: 0.1.0
 powerlmm: 0.4.0
 powerly: 1.8.6
@@ -19789,7 +19789,7 @@ quantregRanger: '1.0'
 quantspec: 1.2-3
 quarks: 1.1.3
 quarrint: 1.0.0
-quartets: 0.1.0
+quartets: 0.1.1
 quarto: '1.2'
 quaternions: '0.2'
 queryparser: 0.3.2
@@ -21704,7 +21704,7 @@ segclust2d: 0.3.0
 segen: 1.1.0
 segmag: 1.2.4
 segmenTier: 0.1.2
-segmented: 1.6-3
+segmented: 1.6-4
 segmentr: 0.2.0
 segmetric: 0.3.0
 segregation: 0.6.0
@@ -22147,7 +22147,7 @@ simplifyNet: 0.0.1
 simplr: 0.1-1
 simpr: 0.2.4
 simputation: 0.2.8
-simr: 1.0.6
+simr: 1.0.7
 simrec: 1.0.0
 simrel: 2.1.0
 sims: 0.0.3
@@ -22209,7 +22209,7 @@ sjdbc: 1.6.1
 sjlabelled: 1.2.0
 sjmisc: 2.8.9
 sjstats: 0.18.2
-sjtable2df: 0.0.2
+sjtable2df: 0.0.3
 skatMeta: 1.4.3
 skater: 0.1.2
 skda: '0.1'
@@ -23875,7 +23875,7 @@ toprdata: 1.0.2
 topsa: 0.1.0
 topsis: '1.0'
 tor: 1.1.2
-torch: 0.9.1
+torch: 0.10.0
 torchaudio: 0.3.1
 torchdatasets: 0.3.0
 torchopt: 0.1.3
