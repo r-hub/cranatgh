@@ -1533,7 +1533,7 @@ DOvalidation: 1.1.0
 DPBBM: 0.2.5
 DPM.GGM: '0.14'
 DPP: 0.1.2
-DPQ: 0.5-3
+DPQ: 0.5-4
 DPQmpfr: 0.3-1
 DPWeibull: '1.8'
 DPpack: 0.1.0
@@ -2508,7 +2508,7 @@ GMDH: '1.6'
 GMDH2: '1.8'
 GMDHreg: 0.2.2
 GMKMcharlie: 1.1.5
-GMMAT: 1.3.2
+GMMAT: 1.4.0
 GMMBoost: 1.1.3
 GMPro: 0.1.0
 GMSE: 1.0.0.2
@@ -3440,7 +3440,7 @@ LMD: 1.0.0
 LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.2.0
-LMMsolver: 1.0.4
+LMMsolver: 1.0.5
 LMMstar: 0.9.0
 LMN: 1.1.3
 LMest: 3.1.1
@@ -5226,7 +5226,7 @@ QuantumClone: 1.0.0.6
 QuantumOps: 3.0.1
 Quartet: 1.2.5
 QuasiSeq: 1.0-11-0
-QuickJSR: 1.0.2
+QuickJSR: 1.0.3
 Quor: '0.1'
 QurvE: '1.0'
 R.SamBada: 0.1.3
@@ -5421,7 +5421,7 @@ RFpredInterval: 1.0.7
 RFreak: 0.3-0
 RGA: 0.4.2
 RGAN: 0.1.1
-RGBM: 1.0-10
+RGBM: 1.0-11
 RGCCA: 2.1.2
 RGCxGC: 1.2.0
 RGE: '1.0'
@@ -6040,7 +6040,7 @@ Records: '1.0'
 RecurRisk: 1.0.2
 RedditExtractoR: 3.0.9
 RedisBaseContainer: 1.0.1
-Rediscover: 0.3.1
+Rediscover: 0.3.2
 Redmonder: 0.2.0
 RefFreeEWAS: '2.2'
 RefManageR: 1.4.0
@@ -7326,8 +7326,8 @@ Temporal: 0.3.0
 TemporalGSSA: 1.0.1
 Tendril: 2.0.4
 TensorClustering: 1.0.2
-TensorComplete: 0.1.0
-TensorPreAve: 0.1.1
+TensorComplete: 0.2.0
+TensorPreAve: 1.1.0
 TensorTest2D: 1.1.1
 Ternary: 2.1.3
 TesiproV: 0.9.2
@@ -8802,7 +8802,7 @@ berryFunctions: 1.22.0
 bestNormalize: 1.9.0
 bestSDP: 0.1.2
 bestglm: 0.37.3
-besthr: 0.3.1
+besthr: 0.3.2
 bestridge: 1.0.7
 betaBayes: 1.0.1
 betaDelta: 1.0.0
@@ -9924,7 +9924,7 @@ clusterHD: 1.0.2
 clusterPower: 0.7.0
 clusterRepro: '0.9'
 clusterSEs: 2.6.5
-clusterSim: 0.51-1
+clusterSim: 0.51-2
 clusterability: 0.1.1.0
 clusteredinterference: 1.0.1
 clusterfly: '0.4'
@@ -11902,7 +11902,7 @@ enigma: 0.3.0
 enmSdmX: 1.0.3
 ennet: 0.2.2
 enpls: '6.1'
-enrichR: '3.1'
+enrichR: '3.2'
 enrichvs: 0.0.5
 enrichwith: 0.3.1
 ensModelVis: 0.1.0
@@ -12113,7 +12113,7 @@ evdbayes: 1.1-3
 event: 1.1.1
 event.chart: '2.0'
 eventInterval: '1.3'
-eventPred: 0.0.1
+eventPred: 0.1.0
 eventTrack: 1.0.2
 eventdataR: 0.3.1
 eventglm: 1.2.2
@@ -13160,10 +13160,10 @@ gcolor: '1.0'
 gconcord: '0.41'
 gconsensus: 0.3.2
 gcookbook: '2.0'
-gcplyr: 1.1.0
+gcplyr: 1.5.1
 gdalUtilities: 1.2.4
 gdalUtils: 2.0.3.2
-gdalcubes: 0.6.3
+gdalcubes: 0.6.4
 gdata: 2.18.0.1
 gde: 0.2.1
 gdiff: 0.2-5
@@ -13331,7 +13331,7 @@ geomultistar: 1.1.0
 geonames: '0.999'
 geonapi: 0.6-1
 geonet: 0.7.3
-geonetwork: 0.4.1
+geonetwork: 0.5.0
 geoops: 0.3.0
 geoparser: 0.1.2
 geophys: 1.4-1
@@ -13584,7 +13584,7 @@ ggspectra: 0.3.11
 ggstance: 0.3.6
 ggstar: 1.0.4
 ggstats: 0.3.0
-ggstatsplot: 0.11.0
+ggstatsplot: 0.11.1
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
@@ -14694,7 +14694,7 @@ ig.vancouver.2014.topcolour: 0.1.2.0
 igate: 0.3.3
 igcop: 1.0.1
 iglu: 3.4.2
-igoR: 0.1.4
+igoR: 0.1.5
 igraph: 1.4.2
 igraph0: 0.5.7
 igraphdata: 1.0.1
@@ -14941,7 +14941,7 @@ intubate: 1.0.0
 inum: 1.0-5
 invGauss: '1.2'
 invLT: 0.2.1
-invacost: 1.1-4
+invacost: 1.1-5
 invctr: 0.2.0
 inventorize: 1.1.1
 inverseRegex: 0.1.1
@@ -15206,7 +15206,7 @@ jsTree: '1.2'
 jsTreeR: 2.3.1
 jshintr: 0.1.0
 jskm: '0.5'
-jsmodule: 1.4.0
+jsmodule: 1.4.1
 json2aRgs: 0.3.0
 json64: 0.1.3
 jsonStrings: 2.1.1
@@ -15292,7 +15292,7 @@ kernelPSI: 1.1.1
 kernelPhil: '0.1'
 kernelPop: 1.0.2
 kernelTDA: 1.0.0
-kernelboot: 0.1.9
+kernelboot: 0.1.10
 kernelshap: 0.3.5
 kernhaz: 0.1.0
 kernlab: 0.9-32
@@ -15958,6 +15958,7 @@ lowmemtkmeans: 0.1.2
 lowpassFilter: 1.0-2
 lpSolve: 5.6.18
 lpSolveAPI: 5.5.2.0-17.9
+lpacf: '1.0'
 lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpcde: 0.1.0
@@ -16559,7 +16560,7 @@ metevalue: 0.1.14
 methcon5: 0.1.0
 metools: 1.0.0
 metricTester: 1.3.6
-metrica: 2.0.2
+metrica: 2.0.3
 metricsgraphics: 0.9.0
 metrix: 1.1.0
 metro: 0.9.1
@@ -16642,7 +16643,7 @@ microclass: '1.2'
 microclustr: 0.1.0
 microcontax: '1.2'
 microdemic: 0.6.0
-microeco: 0.15.0
+microeco: 0.16.0
 microhaplot: 1.0.1
 micromap: 1.9.5
 micromapST: 2.0.1
@@ -16878,7 +16879,7 @@ mlrintermbo: 0.5.0
 mlrpro: 0.1.2
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
-mlt: 1.4-5
+mlt: 1.4-6
 mlt.docreg: 1.1-6
 mltest: 1.0.1
 mltools: 0.3.5
@@ -18492,7 +18493,7 @@ partools: 1.1.6
 partsm: 1.1-3
 parttime: 0.1.1
 party: 1.3-13
-partykit: 1.2-19
+partykit: 1.2-20
 parviol: '1.1'
 parzer: 0.4.1
 pasadr: '1.0'
@@ -19784,7 +19785,7 @@ quantoptr: 0.1.3
 quantreg: '5.95'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
-quantregGrowth: 1.6-0
+quantregGrowth: 1.6-1
 quantregRanger: '1.0'
 quantspec: 1.2-3
 quarks: 1.1.3
@@ -20003,7 +20004,7 @@ rabhit: 0.2.5
 rabi: 1.0.2
 racademyocean: 0.3.2
 race: 0.1.59
-raceland: 1.1.2
+raceland: 1.2.1
 racir: 2.0.0
 ractivecampaign: 0.2.0
 radar: 1.0.0
@@ -20159,7 +20160,7 @@ rayrender: 0.29.4
 rayshader: 0.24.10
 raytracing: 0.6.0
 rayvertex: 0.4.11
-rb3: 0.0.9
+rb3: 0.0.10
 rbace: 0.2.2
 rbacon: 3.0.0
 rbamtools: 2.16.17
@@ -21166,7 +21167,7 @@ rsparkling: 0.2.19
 rsparse: 0.5.1
 rspear: 0.1-2
 rspiro: '0.2'
-rspm: 0.3.1
+rspm: 0.4.0
 rsppfp: 1.0.4
 rsprite2: 0.2.0
 rsprng: '1.0'
@@ -21529,7 +21530,7 @@ scaleboot: 1.0-1
 scales: 1.2.1
 scalpel: 1.0.3
 scalreg: 1.0.1
-scam: 1.2-13
+scam: 1.2-14
 scan: '0.57'
 scanstatistics: 1.1.1
 scapGNN: 0.1.3
@@ -22581,7 +22582,7 @@ spatstat.data: 3.0-1
 spatstat.explore: 3.1-0
 spatstat.geom: 3.1-0
 spatstat.gui: 3.0-1
-spatstat.linnet: 3.0-6
+spatstat.linnet: 3.1-0
 spatstat.local: 5.0-1
 spatstat.model: 3.2-1
 spatstat.random: 3.1-4
@@ -22899,7 +22900,7 @@ statespacer: 0.5.0
 statfi: 0.9.8
 statgenGWAS: 1.0.9
 statgenGxE: 1.0.5
-statgenHTP: 1.0.6
+statgenHTP: 1.0.6.1
 statgenIBD: 1.0.5
 statgenMPP: 1.0.2
 statgenQTLxT: 1.0.1
@@ -23151,7 +23152,7 @@ sureLDA: 0.1.0-1
 surf: 1.0.0
 surface: '0.5'
 suropt: 0.1.1
-surrosurv: 1.1.25
+surrosurv: 1.1.26
 surrosurvROC: 0.1.0
 surv2sample: 0.1-2
 surv2sampleComp: 1.0-5
@@ -23705,7 +23706,7 @@ tidyselect: 1.2.0
 tidyseurat: 0.5.9
 tidysmd: 0.1.1
 tidysq: 1.1.3
-tidystats: 0.5.1
+tidystats: 0.5.2
 tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
@@ -23879,7 +23880,7 @@ torch: 0.10.0
 torchaudio: 0.3.1
 torchdatasets: 0.3.0
 torchopt: 0.1.3
-torchvision: 0.5.0
+torchvision: 0.5.1
 torchvisionlib: 0.3.0
 tornado: 0.1.2
 torus: '1.01'
@@ -24881,7 +24882,7 @@ wq: 0.4.8
 wql: 1.0.0
 wqs: 0.0.1
 wqspt: 1.0.1
-wrGraph: 1.3.2
+wrGraph: 1.3.3
 wrMisc: 1.12.0
 wrProteo: 1.8.0
 wrTopDownFrag: 1.0.2
