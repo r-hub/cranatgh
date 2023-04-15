@@ -844,6 +844,7 @@ CCA: 1.2.1
 CCAGFA: 1.0.8
 CCAMLRGIS: 4.0.4
 CCM: '1.2'
+CCMMR: '0.1'
 CCMnet: 0.0-3
 CCMtools: '1.0'
 CCP: '1.2'
@@ -6791,7 +6792,7 @@ ShrinkCovMat: 1.4.0
 Shrinkage: '1.0'
 SiER: 0.1.0
 SiMRiv: 1.0.5
-SiPhyNetwork: 1.0.1
+SiPhyNetwork: 1.1.0
 SiZer: 0.1-8
 Sie2nts: 0.1.0
 Sieve: '1.0'
@@ -7665,7 +7666,7 @@ WRS2: 1.1-4
 WRSS: '3.1'
 WRTDStidal: 1.1.2
 WSGeometry: 1.2.1
-WVPlots: 1.3.2
+WVPlots: 1.3.3
 WWGbook: 1.0.2
 WWR: 1.2.2
 WaMaSim: 1.0.0
@@ -8996,6 +8997,7 @@ biomonCore: 1.3.50
 bionetdata: '1.1'
 biopara: '1.5'
 bioplots: 0.0.1
+bioregion: 1.0.0
 biorxivr: 1.0.2
 bios2mds: 1.2.3
 biosensors.usc: '1.0'
@@ -11062,7 +11064,7 @@ detpack: 1.1.3
 detrendeR: 1.0.5
 detrendr: 0.6.15
 detzrcr: 0.3.1
-devEMF: '4.3'
+devEMF: 4.3-1
 devFunc: '0.1'
 devRate: 0.2.3
 devoid: 0.1.1
@@ -11849,7 +11851,7 @@ emailjsr: 0.0.2
 emax.glm: 0.1.2
 emayili: 0.7.15
 emba: 0.1.8
-embed: 1.0.0
+embed: 1.1.0
 embryogrowth: '8.7'
 emdatr: '0.3'
 emdbook: 1.3.12
@@ -11942,7 +11944,7 @@ epanet2toolkit: 0.7.0
 epanetReader: 0.7.3
 epca: 1.0.1
 epcc: 1.4.7
-eph: 0.5.1
+eph: 0.6.0
 epi2loc: 1.0-1
 epi2me2r: 0.1.0
 epiDisplay: 3.5.0.2
@@ -12600,7 +12602,7 @@ fingraph: 0.1.0
 finiteruinprob: '0.6'
 finity: 0.1.4.1
 finnishgrid: 0.1.0
-finnts: 0.2.3
+finnts: 0.2.4
 finreportr: 1.0.4
 fipe: 0.0.1
 fipio: 1.1.1
@@ -12793,13 +12795,13 @@ formatBibtex: 0.1.0
 formatR: '1.14'
 formatdown: 0.1.1
 formattable: 0.2.1
-formatters: 0.4.0
+formatters: 0.4.1
 formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
 formulops: 0.5.0
 forplo: 0.2.5
-forrel: 1.5.0
+forrel: 1.5.1
 forsearch: 3.3.0
 forstringr: 0.1.1
 fortunes: 1.5-4
@@ -12967,6 +12969,7 @@ funspace: 0.1.1
 funtimes: '9.1'
 furniture: 1.9.12
 furrr: 0.3.1
+fusedMGM: 0.1.0.0
 fusedest: 1.3.1
 fusen: 0.4.1
 fuser: 1.0.1
@@ -12991,7 +12994,7 @@ fuzzyFDR: '1.0'
 fuzzyMM: 1.0.1
 fuzzyOP: '1.1'
 fuzzyRankTests: '0.4'
-fuzzySim: 4.9.8
+fuzzySim: 4.9.9
 fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.6
 fuzzyreg: 0.6.2
@@ -13294,7 +13297,7 @@ geocacheR: 0.1.0
 geocmeans: 0.3.3
 geocodeHERE: 0.1.3
 geodaData: 0.1.0
-geodata: 0.5-3
+geodata: 0.5-8
 geodetector: 1.0-4
 geodimension: 1.0.0
 geodist: 0.0.8
@@ -13827,7 +13830,7 @@ googler: 0.0.1
 googlesheets: 0.3.0
 googlesheets4: 1.1.0
 googletraffic: 0.1.3
-googleway: 2.7.6
+googleway: 2.7.7
 goric: 1.1-2
 gorica: 0.1.2
 gorpiper: 1.0.1
@@ -14208,7 +14211,7 @@ healthforum: 0.1.0
 healthyR: 0.2.1
 healthyR.ai: 0.0.13
 healthyR.data: 1.0.2
-healthyR.ts: 0.2.7
+healthyR.ts: 0.2.8
 healthyverse: 1.0.3
 heapsofpapers: 0.1.0
 heatex: '1.0'
@@ -16669,7 +16672,7 @@ migration.indices: 0.3.1
 migrbc: 2.0.9
 migui: '1.3'
 miic: 1.5.3
-mikropml: 1.5.0
+mikropml: 1.6.0
 mildsvm: 0.4.0
 milonga: '1.0'
 milorGWAS: '0.3'
@@ -16945,7 +16948,7 @@ mockthat: 0.2.8
 mod: 0.1.3
 mod09nrt: '0.14'
 mod2rm: 0.2.1
-modEvA: '3.9'
+modEvA: 3.9.3
 modMax: '1.1'
 modQR: 0.1.3
 modTempEff: 1.5.2
@@ -17441,7 +17444,7 @@ nandb: 2.1.0
 naniar: 1.0.0
 nanny: 0.1.8
 nanoarrow: 0.1.0.2
-nanonext: 0.8.1
+nanonext: 0.8.2
 nanop: 2.0-6
 nanostringr: 0.4.0
 nanotime: 0.3.7
@@ -17874,7 +17877,7 @@ npsr: 0.1.1
 npst: '2.0'
 npsurv: 0.5-0
 npsurvSS: 1.0.1
-nptest: 1.0-3
+nptest: '1.1'
 npwbs: 0.2.0
 nrba: 0.1.0
 nricens: '1.6'
@@ -19049,7 +19052,7 @@ pm3: 0.1.5
 pm4py: 1.2.7
 pmap: 0.6.0
 pmatch: 0.1.4
-pmc: 1.0.4
+pmc: 1.0.5
 pmcgd: '1.1'
 pmclust: 0.2-1
 pmd: 0.2.1
@@ -19511,7 +19514,7 @@ psmineR: 0.1.0
 pso: 1.0.4
 psoptim: '1.0'
 psp: '0.1'
-pspatreg: 1.0.7
+pspatreg: 1.0.9
 pspearman: 0.3-1
 pspline: 1.0-19
 pspline.inference: 1.0.4
@@ -19691,7 +19694,7 @@ qpcR: 1.4-1
 qpdf: 1.3.2
 qpmadr: 1.1.0-0
 qqboxplot: 0.3.0
-qqconf: 1.3.1
+qqconf: 1.3.2
 qqid: 1.0.3
 qqman: 0.1.8
 qqplotr: 0.0.6
@@ -22267,7 +22270,7 @@ slouch: 2.1.4
 slowraker: 0.1.1
 slp: 1.0-5
 sltl: '1.0'
-slurmR: 0.5-2
+slurmR: 0.5-3
 sm: 2.2-5.7.1
 sma: 0.5.15
 smaa: 0.3-1
@@ -23564,7 +23567,7 @@ textometry: 0.1.6
 textplot: 0.2.2
 textrank: 0.3.1
 textreadr: 1.2.0
-textrecipes: 1.0.2
+textrecipes: 1.0.3
 textreg: 0.1.5
 textreuse: 0.1.5
 textshape: 1.7.3
@@ -23605,7 +23608,7 @@ theft: 0.4.2.4
 theiaR: 0.4.0
 thematic: 0.1.2.1
 themetagenomics: 1.0.2
-themis: 1.0.0
+themis: 1.0.1
 thermocouple: 1.0.2
 theseus: 0.1.0
 thestats: 0.1.0
@@ -23896,7 +23899,7 @@ touchard: 2.0.1
 tourr: 0.6.2
 tourrGui: '0.4'
 toweranNA: 0.1.0
-toxEval: 1.2.0
+toxEval: 1.3.0
 toxboot: 0.2.0
 toxpiR: 1.2.1
 toxplot: 0.1.1
