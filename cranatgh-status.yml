@@ -602,7 +602,7 @@ BayesPiecewiseICAR: 0.2.1
 BayesPostEst: 0.3.2
 BayesProject: '1.0'
 BayesQTLBIC: 1.0-2
-BayesQVGEL: 0.1.0
+BayesQVGEL: 0.1.1
 BayesRGMM: '2.2'
 BayesRS: 0.1.3
 BayesReversePLLH: '1.5'
@@ -3627,7 +3627,7 @@ MACP: 0.1.0
 MADAM: 1.2.2
 MADPop: 1.1.5
 MAFDash: 0.2.1
-MAGEE: 1.2.0
+MAGEE: 1.3.0
 MAGNAMWAR: 2.0.4
 MAINT.Data: 2.7.1
 MAKL: 1.0.1
@@ -3635,7 +3635,7 @@ MALDIquant: 1.22.1
 MALDIquantForeign: '0.13'
 MALDIrppa: 1.1.0-1
 MAMA: 2.2.1
-MAMS: 2.0.0
+MAMS: 2.0.1
 MAMSE: 0.2-1
 MANCIE: '1.4'
 MANOVA.RM: 0.5.3
@@ -4275,7 +4275,7 @@ MultipleBreakpoints: 0.1.0
 MultipleBubbles: 0.2.0
 MultipleRegression: 0.1.0
 MultiplierDEA: 0.1.19
-MultiscaleDTM: '0.7'
+MultiscaleDTM: 0.7.1
 MultisiteMediation: 0.0.4
 MultivariateAnalysis: 0.4.4
 MultivariateRandomForest: 1.1.5
@@ -4930,7 +4930,7 @@ ParallelPC: '1.2'
 ParallelTree: 0.1.3
 ParamHelpers: 1.14.1
 ParentOffspring: '1.0'
-Pareto: 2.4.4
+Pareto: 2.4.5
 ParetoPosStable: '1.1'
 PartCensReg: '1.39'
 Partiallyoverlapping: '2.0'
@@ -6010,7 +6010,7 @@ Rd2roxygen: '1.14'
 Rdbi: 0.1-2
 Rdbi.PgSQL: 0.1-2
 Rdca: 0.1.0
-Rdiagnosislist: '1.0'
+Rdiagnosislist: '1.2'
 Rdice: 1.0.0
 Rdimtools: 1.1.2
 Rdistance: 2.1.3
@@ -9486,7 +9486,7 @@ casino: 0.1.0
 caspar: '1.0'
 cassandRa: 0.1.0
 cassowaryr: 2.0.0
-castor: 1.7.8
+castor: 1.7.9
 cat: 0.0-7
 cat.dt: 0.3.1
 cat2cat: 0.4.6
@@ -12421,7 +12421,7 @@ fastlogranktest: 0.2.1
 fastmaRching: 1.1.0
 fastmap: 1.1.1
 fastmatch: 1.1-3
-fastmatrix: 0.4-1245
+fastmatrix: '0.5'
 fastmit: 0.1.1
 fastnet: 1.0.0
 fastpos: 0.5.1
@@ -13496,6 +13496,7 @@ gghdr: 0.2.0
 ggheatmap: '2.2'
 gghighlight: 0.4.0
 gghilbertstrings: 0.3.3
+gghist: 0.1.0
 ggimage: 0.3.2
 ggimg: 0.1.2
 gginference: 0.1.3
@@ -13750,7 +13751,7 @@ glvmfit: 0.1.0
 glycanr: 0.4.0
 gm: 1.0.2
 gmDatabase: 0.5.0
-gmGeostats: 0.11.2
+gmGeostats: 0.11.3
 gma: '1.0'
 gmailr: 1.0.1
 gmaps: '0.2'
@@ -14217,7 +14218,7 @@ healthyR: 0.2.1
 healthyR.ai: 0.0.13
 healthyR.data: 1.0.2
 healthyR.ts: 0.2.8
-healthyverse: 1.0.3
+healthyverse: 1.0.4
 heapsofpapers: 0.1.0
 heatex: '1.0'
 heatmap.plus: '1.3'
@@ -14346,7 +14347,7 @@ hitandrun: 0.5-6
 hive: 0.2-2
 hkclustering: 1.0.1
 hkdatasets: 1.0.0
-hkevp: 1.1.4
+hkevp: 1.1.5
 hkex.api: '0.1'
 hlaR: 1.0.0
 hlidacr: 0.2.0
@@ -14682,7 +14683,7 @@ idiogramFISH: 2.0.11
 idm: 1.8.3
 idmTPreg: '1.1'
 idmodelr: 0.4.0
-idopNetwork: 0.1.1
+idopNetwork: 0.1.2
 idr: '1.3'
 ids: 1.0.1
 idx2r: 1.0.0
@@ -15384,6 +15385,7 @@ knitr: '1.42'
 knitrBootstrap: 1.0.2
 knitrProgressBar: 1.1.0
 knitrdata: 0.6.1
+knitxl: 0.1.0
 knn: '1.1'
 knn.covertree: '1.0'
 knnFinder: 1.0.1
@@ -16986,7 +16988,7 @@ modelr: 0.1.11
 modelsummary: 1.3.0
 modeltests: 0.1.4
 modeltime: 1.2.6
-modeltime.ensemble: 1.0.2
+modeltime.ensemble: 1.0.3
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.1
 modeltime.resample: 0.2.3
@@ -18677,7 +18679,7 @@ pell: 0.1.0
 pema: 0.1.3
 pems.utils: 0.2.29.1
 pemultinom: 0.1.0
-penAFT: 0.2.0
+penAFT: 0.3.0
 penDvine: 0.2.4
 penMSM: '0.99'
 penPHcure: 1.0.2
@@ -18928,7 +18930,7 @@ pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.3
 pkgbuild: 1.4.0
-pkgcache: 2.0.4
+pkgcache: 2.1.0
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
@@ -19414,7 +19416,7 @@ processdata: 0.8.2
 processmapR: 0.5.3
 processmonitR: 0.1.0
 processpredictR: 0.1.0
-processx: 3.8.0
+processx: 3.8.1
 procmaps: 0.0.5
 prodest: 1.0.1
 prodigenr: 0.6.2
@@ -20553,7 +20555,7 @@ reprex: 2.0.2
 reproducer: 0.5.1
 reproducible: 1.2.16
 reproj: 0.4.3
-repsd: 1.0.0
+repsd: 1.0.1
 repurrrsive: 1.1.0
 reqres: 0.2.5
 request: 0.1.0
@@ -20682,7 +20684,7 @@ rglobi: 0.2.28
 rglplus: '1.1'
 rglwidget: 0.2.1
 rgnparser: 0.2.6
-rgoogleads: 0.9.1
+rgoogleads: 0.9.2
 rgoogleslides: 0.3.2
 rgovcan: 1.0.3
 rgp: 0.4-1
@@ -21253,7 +21255,7 @@ rtrie: 0.1.1
 rtrim: 2.1.1
 rtry: 1.0.0
 rts: 1.1-8
-rts2: '0.4'
+rts2: '0.5'
 rtsVis: 0.0.3
 rtsdata: 0.1.3
 rtson: '1.3'
@@ -21900,7 +21902,7 @@ shapper: 0.1.3
 shapr: 0.2.1
 shapviz: 0.7.0
 shar: 2.0.3
-sharp: 1.3.0
+sharp: 1.4.0
 sharpData: '1.4'
 sharpPen: '1.8'
 sharpeRratio: 1.4.3
@@ -21925,7 +21927,7 @@ shiny.info: 0.2.0
 shiny.pwa: 0.2.1
 shiny.react: 0.3.0
 shiny.reglog: 0.5.2
-shiny.router: 0.3.0
+shiny.router: 0.3.1
 shiny.semantic: 0.4.3
 shiny.tailwind: 0.2.2
 shiny.worker: 0.0.1
@@ -23009,7 +23011,7 @@ stockfish: 1.0.0
 stocks: 1.1.4
 stoichcalc: 1.1-4
 stokes: 1.1-8
-stopdetection: 0.1.1
+stopdetection: 0.1.2
 stopp: 0.1.0
 stoppingrule: 0.1.0
 stops: 1.0-1
@@ -23625,7 +23627,7 @@ thgenetics: 0.4-2
 thickmatch: 0.3.1
 thief: '0.3'
 thinkr: '0.16'
-this.path: 1.3.0
+this.path: 1.4.0
 thor: 1.1.4
 thorn: 0.2.0
 thredds: 0.1-3
