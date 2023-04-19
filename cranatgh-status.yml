@@ -959,6 +959,7 @@ COINr: 1.1.2
 COLP: 1.0.0
 COMBAT: 0.0.4
 COMBIA: 1.0.6
+COMBO: 1.0.0
 COMIX: 1.0.0
 COMMUNAL: 1.1.0
 COMPoissonReg: 0.8.0
@@ -1545,7 +1546,7 @@ DPtree: 1.0.1
 DPw: 1.1.3
 DQAgui: 0.2.2
 DQAstats: 0.3.2
-DR.SC: '3.1'
+DR.SC: '3.2'
 DRAFT: 0.3.0
 DRAYL: '1.0'
 DRDID: 1.0.4
@@ -3073,7 +3074,7 @@ INCATome: '1.0'
 INDperform: 0.2.2
 INLABMA: 0.1-11
 INLAMSM: 0.2-3
-INLAspacetime: 0.1.5
+INLAspacetime: 0.1.6
 INLAutils: 0.0.5
 INQC: 2.0.5
 INSPECTumours: 0.1.0
@@ -3179,7 +3180,7 @@ InferenceSMR: 1.0.1
 InfiniumPurify: 1.3.1
 Inflation: 0.1.0
 Inflect: 1.1.0
-InflectSSP: '1.5'
+InflectSSP: '1.6'
 InfoTrad: '1.2'
 Information: 0.0.9
 InformationValue: 1.2.3
@@ -5500,7 +5501,7 @@ RKHSMetaMod: '1.1'
 RKUM: 0.1.1.1
 RKelly: '1.0'
 RKlout: '1.0'
-RKorAPClient: 0.7.5
+RKorAPClient: 0.7.6
 RLMM: 1.14.0
 RLRsim: 3.1-8
 RLT: 3.2.5
@@ -6530,7 +6531,7 @@ SMMA: 1.0.3
 SMME: 1.1.1
 SMMT: 1.1.0
 SMNCensReg: '3.1'
-SMOTEWB: 0.1.5
+SMOTEWB: 1.0.1
 SMPracticals: 1.4-3
 SMR: 2.0.2
 SMUT: '1.1'
@@ -9586,6 +9587,7 @@ cdcsis: 2.0.3
 cde: 0.4.1
 cder: 0.3-1
 cdfquantreg: 1.3.1-1
+cdgd: 0.3.0
 cdlTools: '0.15'
 cdlei: '1.0'
 cdmTools: 1.0.3
@@ -10485,7 +10487,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.0.5
+crew: 0.1.0
 crfsuite: 0.4.1
 cricketdata: 0.2.2
 cricketr: 0.0.26
@@ -11143,7 +11145,7 @@ didrooRFM: 1.0.0
 dief: '1.2'
 dielectric: 0.2.3
 diem: '1.0'
-diemr: '1.2'
+diemr: 1.2.1
 dietr: 1.1.4
 diezeit: 0.1-0
 difNLR: 1.4.1
@@ -11660,7 +11662,7 @@ ebmc: 1.0.1
 ebmstate: 0.1.3
 ebnm: 1.0-9
 ebreg: 0.1.3
-ebvcube: 0.1.3
+ebvcube: 0.1.4
 ec50estimator: 0.1.0
 ecan: 0.2.0
 ecap: 0.1.2
@@ -12121,7 +12123,7 @@ evdbayes: 1.1-3
 event: 1.1.1
 event.chart: '2.0'
 eventInterval: '1.3'
-eventPred: 0.1.0
+eventPred: 0.1.1
 eventTrack: 1.0.2
 eventdataR: 0.3.1
 eventglm: 1.2.2
@@ -12599,7 +12601,7 @@ findR: 0.2.1
 findpython: 1.0.8
 findviews: 0.1.3
 finebalance: '1.0'
-finetune: 1.0.1
+finetune: 1.1.0
 fingerPro: '1.1'
 fingerprint: 3.5.7
 fingertipsR: 1.0.5
@@ -13027,7 +13029,7 @@ gLRTH: 0.2.0
 gMCP: 0.8-15
 gMCPLite: 0.1.2
 gMOIP: 1.4.9
-gMWT: '1.2'
+gMWT: '1.4'
 gPCA: '1.0'
 gPdtest: '0.4'
 gProfileR: 0.7.0
@@ -13792,7 +13794,7 @@ gnumeric: 0.7-8
 go2bigq: '1.0'
 goalp: 0.3.1
 goalprog: 1.0-2
-goeveg: 0.5.1
+goeveg: 0.6.0
 gof: 1.0.1
 gofCopula: 0.4-1
 gofMC: 1.1.2
@@ -16266,7 +16268,7 @@ mateable: 0.3.2
 materialmodifier: 1.1.0
 mathgraph: 0.9-14
 mathjaxr: 1.6-0
-mathml: '0.5'
+mathml: '0.6'
 mathpix: 0.5.0
 maticce: 1.0-3
 matie: '1.2'
@@ -16697,7 +16699,7 @@ mimi: 0.2.0
 mimsy: 0.6.2
 minMSE: 0.5.1
 minPtest: '1.7'
-minSNPs: 0.0.3
+minSNPs: 0.0.4
 mind: 1.1.0
 mindicador: 0.1.5
 mindr: 1.3.2
@@ -17243,7 +17245,7 @@ muir: 0.1.0
 mully: 2.1.38
 mulset: 1.0.0
 multDM: 1.1.4
-multIntTestFunc: 0.1.1
+multIntTestFunc: 0.2.0
 multbxxc: 1.0.1
 multcomp: 1.4-23
 multcompView: 0.1-9
@@ -18462,7 +18464,7 @@ parallelly: 1.35.0
 parallelpam: 1.0.1
 param6: 0.2.4
 paramGUI: 2.2.0
-parameters: 0.20.3
+parameters: 0.21.0
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.4
@@ -18942,7 +18944,7 @@ pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
-pkgdepends: 0.4.0
+pkgdepends: 0.5.0
 pkgdown: 2.0.7
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
@@ -19694,7 +19696,7 @@ qlcMatrix: 0.9.7
 qlcVisualize: 0.1.0
 qlcal: 0.0.4
 qle: '0.18'
-qlifetable: 0.0.1-14
+qlifetable: 0.0.1-15
 qlspack: '2.2'
 qmap: 1.0-4
 qmd: 1.1.2
@@ -20167,7 +20169,7 @@ ravedash: 0.1.2
 raveio: 0.1.0
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravetools: 0.1.0
+ravetools: 0.1.1
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -24575,7 +24577,7 @@ visualR: 2.0.2
 visualizationTools: 0.2.05
 visualize: 4.4.0
 visualpred: 0.1.0
-visvow: 1.3.7
+visvow: 1.3.8
 visxhclust: 1.1.0
 vita: 1.0.0
 vitae: 0.5.3
@@ -24596,7 +24598,7 @@ vmsbase: 2.2.1
 vmv: '1.0'
 vntrs: 0.1.0
 vocaldia: 0.8.4
-voice: 0.4.20
+voice: 0.4.21
 vol2birdR: 0.2.0
 volatilityTrader: 1.0.1
 volcano3D: 2.0.8
