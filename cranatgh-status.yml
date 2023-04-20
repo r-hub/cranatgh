@@ -120,7 +120,7 @@ APfun: 0.1.6
 APtools: 6.8.8
 AQEval: 0.5.2
 AQLSchemes: 1.7-1
-AQuadtree: 1.0.2
+AQuadtree: 1.0.3
 AR: '1.1'
 AR1seg: '1.0'
 ARAMIS: 1.0.1
@@ -2500,6 +2500,7 @@ GLMMGibbs: 0.5-1
 GLMMRR: 0.5.0
 GLMMadaptive: 0.8-8
 GLMMarp: 0.1-1
+GLMMselect: 1.0.0
 GLMaSPU: '1.0'
 GLMcat: 0.2.5
 GLMpack: 0.1.0
@@ -5232,7 +5233,7 @@ QuantumClone: 1.0.0.6
 QuantumOps: 3.0.1
 Quartet: 1.2.5
 QuasiSeq: 1.0-11-0
-QuickJSR: 1.0.3
+QuickJSR: 1.0.4
 Quor: '0.1'
 QurvE: '1.0'
 R.SamBada: 0.1.3
@@ -5844,7 +5845,7 @@ RationalExp: 0.2.2
 RationalMatrix: 1.0.0
 Ravages: 1.1.3
 RavenR: 2.2.0
-RawHummus: 0.3.0
+RawHummus: 0.3.3
 Rbeast: 0.9.7
 Rbent: 0.1.0
 Rbgs: '0.2'
@@ -6260,7 +6261,7 @@ Rraven: 1.0.13
 Rrdap: 1.0.6
 Rrdrand: 0.1-16
 Rrelperm: 0.1.0
-RsSimulx: 2.0.2
+RsSimulx: '2023.1'
 Rsac: 0.1-8
 Rsagacmd: 0.2.0
 Rsampletrees: 1.0.3
@@ -7959,7 +7960,7 @@ adiv: '2.2'
 adjROC: '0.3'
 adjSURVCI: '1.0'
 adjclust: 0.6.6
-adjustedCurves: 0.10.0
+adjustedCurves: 0.10.1
 adjustedcranlogs: 0.1.0
 adk: 1.0-2
 adklakedata: 0.6.1
@@ -8633,7 +8634,7 @@ batchmix: 1.0.1
 batchr: 0.0.2
 batchscr: 0.1.0
 batchtma: 0.1.6
-batchtools: 0.9.16
+batchtools: 0.9.17
 bate: 0.1.0
 batman: 0.1.0
 bats: 0.1-3
@@ -10513,7 +10514,7 @@ cronologia: 0.2.0
 crop: 0.0-2
 cropDemand: 1.0.2
 cropZoning: 1.0.2
-cropcircles: 0.2.1
+cropcircles: 0.2.2
 cropdatape: 1.0.0
 cropgrowdays: 0.1.1
 crops: 1.0.3
@@ -11418,7 +11419,7 @@ dpglasso: '1.0'
 dplR: 1.7.4
 dplRCon: '1.0'
 dplbnDE: 0.1.2
-dplyr: 1.1.1
+dplyr: 1.1.2
 dplyr.teradata: 0.4.1
 dplyrAssist: 0.1.0
 dpmixsim: 0.0-9
@@ -12131,6 +12132,7 @@ eventr: 1.0.0
 events: '0.5'
 eventstream: 0.1.1
 eventstudies: 1.2.2
+eventstudyr: 1.0.2
 evgam: 1.0.0
 evian: 2.1.0
 evidence: 0.8.10
@@ -12441,7 +12443,7 @@ fastshap: 0.0.7
 fasttime: 1.1-0
 fastverse: 0.3.1
 fat2Lpoly: 1.2.5
-faux: 1.2.0
+faux: 1.2.1
 fauxnaif: 0.7.1
 fauxpas: 0.5.0
 faviconPlease: 0.1.2
@@ -12953,6 +12955,7 @@ funGp: 0.3.1
 funHDDC: 2.3.1
 funLBM: '2.3'
 funModeling: 1.9.4
+funStatTest: 1.0.2
 funbarRF: 1.0.2
 func2vis: 1.0-3
 funcharts: 1.3.1
@@ -13025,7 +13028,7 @@ gCat: '0.2'
 gDefrag: '0.3'
 gIPFrm: '3.1'
 gJLS2: 0.2.0
-gKRLS: 1.0.1
+gKRLS: 1.0.2
 gLRTH: 0.2.0
 gMCP: 0.8-15
 gMCPLite: 0.1.2
@@ -13182,7 +13185,7 @@ gdata: 2.18.0.1
 gde: 0.2.1
 gdiff: 0.2-5
 gdimap: 0.1-9
-gdistance: '1.6'
+gdistance: 1.6.2
 gdm: 1.5.0-9.1
 gdmp: 0.2.0
 gdns: 0.5.0
@@ -13632,7 +13635,7 @@ ghql: 0.1.0
 ghyp: 1.6.3
 ghypernet: 1.1.0
 giRaph: 0.1.2
-gibasa: 0.9.2
+gibasa: 0.9.3
 gibble: 0.4.0
 gibbs.met: 1.1-3
 giedata: 0.1.1
@@ -13717,7 +13720,7 @@ glmmboot: 0.6.0
 glmmfields: 0.1.7
 glmmrBase: 0.2.5
 glmmrMCML: 0.2.2
-glmmrOptim: 0.2.3
+glmmrOptim: 0.2.4
 glmmsr: 0.2.3
 glmnet: 4.1-7
 glmnetSE: 0.0.1
@@ -13894,7 +13897,7 @@ gradientPickerD3: 0.1.0.0
 grafify: 3.0.1
 grafzahl: 0.0.8
 grainchanger: 0.3.2
-grainscape: 0.4.3
+grainscape: 0.4.4
 gramEvol: 2.1-4
 grand: 0.9.0
 grandR: 0.2.1
@@ -13981,7 +13984,7 @@ grobblR: 0.2.1
 groc: 1.0.8
 grofit: 1.1.1-1
 gromovlab: 0.8-3
-groundhog: 2.2.1
+groundhog: 3.0.0
 groupICA: 0.1.1
 groupRemMap: 0.1-0
 groupTesting: 1.0.0
@@ -15619,7 +15622,7 @@ leaflegend: 1.0.0
 leaflet: 2.1.2
 leaflet.esri: 1.0.0
 leaflet.extras: 1.0.0
-leaflet.extras2: 1.2.0
+leaflet.extras2: 1.2.1
 leaflet.minicharts: 0.6.2
 leaflet.multiopacity: 0.1.1
 leaflet.opacity: 0.1.0
@@ -16588,7 +16591,7 @@ metropolis: 0.1.8
 metrumrg: '5.55'
 mets: 1.3.2
 metsyn: 0.1.2
-mev: '1.14'
+mev: '1.15'
 mewAvg: 0.3.1
 mexhaz: '2.4'
 mexicolors: 0.2.0
@@ -16890,7 +16893,7 @@ mlr3shiny: 0.2.0
 mlr3spatial: 0.4.0
 mlr3spatiotempcv: 2.0.3
 mlr3tuning: 0.18.0
-mlr3tuningspaces: 0.3.5
+mlr3tuningspaces: 0.4.0
 mlr3verse: 0.2.7
 mlr3viz: 0.6.1
 mlrCPO: 0.3.7-6
@@ -17549,6 +17552,7 @@ neonOS: 1.0.0
 neonUtilities: 2.2.1
 neonstore: 0.4.4
 neotoma: 1.7.4
+neotoma2: 1.0.0
 nephro: '1.3'
 neptune: 0.2.3
 nesRdata: 0.3.1
@@ -17651,7 +17655,7 @@ ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
 nhanesA: 0.7.2
-nhdR: 0.5.9
+nhdR: 0.6.0
 nhdplusTools: 0.6.2
 nhds: 1.0.3
 nhlapi: 0.1.4
@@ -18395,7 +18399,7 @@ pairsD3: 0.1.3
 pairwise: 0.6.1-0
 pairwiseCI: 0.1-27
 pairwiseComparisons: 3.2.0
-pak: 0.4.0
+pak: 0.5.0
 palaeoSig: 2.1-3
 palaeoverse: 1.2.0
 palasso: 0.0.8
@@ -18439,6 +18443,7 @@ panelPomp: '1.1'
 panelView: 1.1.16
 panelWranglR: 1.2.13
 panelaggregation: 0.1.1
+panelhetero: 1.0.0
 panelr: 0.7.7
 panelsummary: 0.1.1
 panelvar: 0.5.5
@@ -19738,7 +19743,7 @@ qrjoint: 2.0-9
 qrmdata: 2022-05-31-1
 qrmix: 0.9.0
 qrmtools: 0.0-16
-qrng: 0.0-8
+qrng: 0.0-9
 qrnn: 2.0.5
 qrsvm: 0.2.1
 qs: 0.25.5
@@ -20639,7 +20644,7 @@ rextendr: 0.2.0
 rfPermute: 2.5.1
 rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.3
-rfacebookstat: 2.8.1
+rfacebookstat: 2.9.2
 rfacts: 0.2.1
 rfars: 0.2.0
 rfbCNPJ: 0.1.1
@@ -20998,7 +21003,7 @@ rollmatch: 2.0.2
 rollply: 0.5.0
 roloc: 0.1-1
 rolocISCCNBS: '0.1'
-rolog: 0.9.11
+rolog: 0.9.12
 rolr: 1.0.0
 rolypoly: 0.1.0
 romero.gateway: 0.4.4
@@ -23661,7 +23666,7 @@ tibblify: 0.3.0
 tibbrConnector: 1.5.1
 tictactoe: 0.2.2
 tictoc: '1.1'
-tidyAML: 0.0.1
+tidyAML: 0.0.2
 tidyBF: 0.5.1
 tidyBdE: 0.3.2
 tidyCDISC: 0.2.1
@@ -23734,7 +23739,7 @@ tidystats: 0.5.2
 tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.1.0
-tidytable: 0.10.0
+tidytable: 0.10.1
 tidytags: 1.1.1
 tidyterra: 0.4.0
 tidytext: 0.4.1
@@ -23783,7 +23788,7 @@ timeline: '0.9'
 timelineR: 1.0.0
 timelineS: 0.1.1
 timeordered: 0.9.9
-timeperiodsR: 0.6.2
+timeperiodsR: 0.7.1
 timereg: 2.0.5
 timesboot: '1.0'
 timeseriesdb: 1.0.0-1.1.2
@@ -24831,7 +24836,7 @@ wildrwolf: 0.6.1
 wildviz: 0.1.2
 wilson: 2.4.2
 winRatioAnalysis: 0.1.1
-winch: 0.0.12
+winch: 0.1.0
 windAC: 1.2.10
 windex: 2.0.4.1
 windfarmGA: 3.0.0
@@ -24962,7 +24967,7 @@ xefun: 0.1.4
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.38'
+xfun: '0.39'
 xgb2sql: 0.1.2
 xgboost: 1.7.5.1
 xgobi: 1.2-15
