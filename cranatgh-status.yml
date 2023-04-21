@@ -450,7 +450,7 @@ BLRShiny: 0.1.0
 BLRShiny2: 0.1.0
 BLSM: 0.1.0
 BMA: 3.18.17
-BMAmevt: 1.0.4
+BMAmevt: 1.0.5
 BMN: '1.02'
 BMRBr: 0.2.0
 BMRMM: 0.0.3
@@ -1580,7 +1580,7 @@ DT: '0.27'
 DTAT: 0.3-6
 DTAXG: 0.1.0
 DTAplots: 1.0.2.5
-DTComPair: 1.1.0
+DTComPair: 1.2.0
 DTDA: 3.0.1
 DTDA.cif: 1.0.2
 DTDA.ni: 1.0.1
@@ -2280,7 +2280,7 @@ FertNet: 0.1.1
 Fgmutils: 0.9.5
 FiRE: 1.0.1
 FiSh: '1.1'
-FielDHub: 1.2.1
+FielDHub: 1.3.1
 FieldSim: 3.2.1
 FieldSimR: 1.1.0
 FinAna: 0.1.2
@@ -2449,7 +2449,7 @@ GEOmap: 2.5-0
 GERGM: 0.13.0
 GESE: 2.0.1
 GESTr: '0.1'
-GET: 0.3-2
+GET: '0.4'
 GETdesigns: 1.1.0
 GEVACO: 1.0.1
 GEVStableGarch: '1.1'
@@ -2553,6 +2553,7 @@ GPPFourier: '2.1'
 GPRMortality: 0.1.0
 GPSCDF: 0.1.1
 GPSeqClus: 1.3.0
+GPUmatrix: 0.1.0
 GPareto: 1.1.7
 GPfit: 1.0-8
 GPlab: 0.1.0
@@ -5590,7 +5591,7 @@ RODBC: 1.3-20
 RODBCDBI: 0.1.1
 RODBCext: 0.3.2
 RODM: '1.1'
-ROI: 1.0-0
+ROI: 1.0-1
 ROI.models.globalOptTests: 1.1-1
 ROI.models.miplib: 1.0-0
 ROI.models.netlib: 1.1-2
@@ -6570,9 +6571,10 @@ SPA3G: '1.0'
 SPACECAP: 1.1.0
 SPADAR: '1.0'
 SPARQL: '1.16'
+SPARRAfairness: 0.0.0.1
 SPARSEMODr: 1.2.0
 SPARTAAS: 1.1.0
-SPAS: 2020.1.1
+SPAS: 2023.3.31
 SPAr: '0.1'
 SPAtest: 3.1.2
 SPB: '1.0'
@@ -6680,7 +6682,7 @@ SVN: 1.0.1
 SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.4.3
-SWMPrExtension: 2.2.3
+SWMPrExtension: 2.2.4.2
 SWTools: 0.2.5
 SWordInstaller: 1.0-2
 SYNCSA: 1.3.4
@@ -7538,7 +7540,7 @@ VAR.etp: '1.0'
 VARDetect: 0.1.6
 VARMER: 1.0.0
 VARSEDIG: '2.1'
-VARSELECTEXPOSURE: 1.0.1
+VARSELECTEXPOSURE: 1.0.2
 VARshrink: 0.3.1
 VARsignR: 0.1.3
 VARtests: 2.0.5
@@ -7703,7 +7705,7 @@ WeMix: 4.0.0
 WebAnalytics: 0.9.5
 WebDevelopR: '1.0'
 WebGestaltR: 0.4.5
-WebPower: 0.8.7
+WebPower: 0.9.0
 WeedMap: '0.1'
 WeibullFit: 0.1.0
 WeibullR: 1.2.1
@@ -8085,6 +8087,7 @@ align: 0.1.0
 alignfigR: 0.1.1
 alineR: 1.1.4
 alkahest: 1.0.0
+allMT: 0.1.0
 allan: '1.01'
 allanvar: '1.1'
 allcontributors: 0.1.0
@@ -8911,7 +8914,7 @@ bigparallelr: 0.3.2
 bigpca: '1.1'
 bigreadr: 0.2.5
 bigrf: 0.1-11
-bigrquery: 1.4.1
+bigrquery: 1.4.2
 bigsimr: 0.11.2
 bigsnpr: 1.12.2
 bigsparser: 0.6.1
@@ -9606,7 +9609,7 @@ celestial: 1.4.6
 cellKey: 1.0.1
 cellOrigins: 0.1.3
 cellVolumeDist: '1.4'
-cellWise: 2.5.0
+cellWise: 2.5.2
 cellpypes: 0.1.3
 cellranger: 1.1.0
 celltrackR: 1.1.0
@@ -9864,7 +9867,7 @@ climaemet: 1.1.0
 climate: 1.0.5
 climate.plot: 0.1-2
 climateStability: 0.1.4
-climatol: 3.1.2
+climatol: 4.0.0
 climatrends: '0.5'
 climbeR: 0.0.1
 climdex.pcic: 1.1-11
@@ -11667,7 +11670,7 @@ ebvcube: 0.1.4
 ec50estimator: 0.1.0
 ecan: 0.2.0
 ecap: 0.1.2
-ecb: 0.4.1
+ecb: 0.4.2
 ecce: 1.0.9
 ecd: 0.9.2.4
 ecdfHT: 0.1.1
@@ -12658,6 +12661,7 @@ fixedTimeEvents: 1.0.1
 fixedincome: 0.0.4
 fixerapi: 0.1.6
 fixest: 0.11.1
+fixr: 0.1.0
 fixtuRes: 0.1.3
 fizzbuzzR: 0.1.1
 flacco: '1.8'
@@ -13207,6 +13211,7 @@ geeasy: 0.1.1
 geecure: 1.0-6
 geepack: 1.3.9
 geesmv: '1.3'
+geessbin: 0.1.1
 geex: 1.1.1
 geigen: '2.3'
 geiger: 2.0.11
@@ -13572,6 +13577,7 @@ ggpubr: 0.6.0
 ggpval: 0.2.5
 ggquickeda: 0.3.0
 ggquiver: 0.3.2
+ggragged: 0.1.0
 ggrain: 0.0.3
 ggraph: 2.1.0
 ggraptR: '1.3'
@@ -13718,7 +13724,7 @@ glmmSeq: 0.5.5
 glmmTMB: 1.1.7
 glmmboot: 0.6.0
 glmmfields: 0.1.7
-glmmrBase: 0.2.5
+glmmrBase: 0.3.1
 glmmrMCML: 0.2.2
 glmmrOptim: 0.2.4
 glmmsr: 0.2.3
@@ -13732,7 +13738,7 @@ glmpathcr: 1.0.8
 glmpca: 0.2.0
 glmperm: 1.0-5
 glmtlp: 2.0.1
-glmtoolbox: 0.1.6
+glmtoolbox: 0.1.7
 glmtrans: 2.0.0
 glmtree: '0.2'
 glmulti: 1.0.8
@@ -13900,7 +13906,7 @@ grainchanger: 0.3.2
 grainscape: 0.4.4
 gramEvol: 2.1-4
 grand: 0.9.0
-grandR: 0.2.1
+grandR: 0.2.2
 grangers: 0.1.0
 granova: '2.2'
 granovaGG: 1.4.0
@@ -15088,7 +15094,7 @@ iterators: 1.0.14
 iterpc: 0.4.2
 itertools: 0.1-3
 itertools2: 0.1.1
-itol.toolkit: 1.1.0
+itol.toolkit: 1.1.5
 itp: 1.2.0
 itraxR: '1.8'
 itree: '0.1'
@@ -15587,7 +15593,7 @@ lclGWAS: 1.0.3
 lcmm: 2.0.2
 lcmr: 1.6.26
 lconnect: 0.1.1
-lcopula: 1.0.5
+lcopula: 1.0.6
 lcpm: 0.1.1
 lcra: 1.1.2
 lcsm: 0.3.2
@@ -16289,7 +16295,7 @@ matrixNormal: 0.1.1
 matrixProfile: 0.5.0
 matrixStats: 0.63.0
 matrixStrucTest: 1.0.0
-matrixTests: '0.2'
+matrixTests: 0.2.1
 matrixcalc: 1.0-6
 matrixcut: 0.0.1
 matrixdist: 1.1.8
@@ -17427,6 +17433,7 @@ mwshiny: 2.1.0
 mxkssd: '1.2'
 mxmmod: 1.1.0
 mxnorm: 1.0.2
+myCRAN: '1.0'
 myTAI: 0.9.3
 mycobacrvR: '1.1'
 mycor: 0.1.1
@@ -19700,7 +19707,7 @@ qkerntool: '1.19'
 qlcData: 0.2.1
 qlcMatrix: 0.9.7
 qlcVisualize: 0.1.0
-qlcal: 0.0.4
+qlcal: 0.0.5
 qle: '0.18'
 qlifetable: 0.0.1-15
 qlspack: '2.2'
@@ -20119,7 +20126,7 @@ rankdifferencetest: '2021-11-25'
 rankdist: 1.1.4
 rankhazard: 1.1.0
 rankinPlot: 1.1.0
-rankinma: 0.1.5
+rankinma: 0.1.6
 rankrate: 1.0.0
 rankreg: 0.2-2
 ranlip: 1.0.1
@@ -20585,7 +20592,7 @@ resampledata: 0.3.1
 resampledata3: '1.0'
 resautonet: '1.0'
 rescue: 1.0.3
-resemble: 2.2.1
+resemble: 2.2.2
 reservoir: 1.1.5
 reservoirnet: 0.2.0
 reservr: 0.0.1
@@ -21621,7 +21628,7 @@ scoringutils: 1.1.0
 scout: 1.0.4
 scperturbR: 0.1.0
 scphaser: 1.0.0
-scpi: 2.2.1
+scpi: 2.2.2
 scplot: 0.3.0
 scpm: 2.0.0
 scpoisson: 0.0.1
@@ -21819,7 +21826,7 @@ seoR: 0.1.0
 separationplot: '1.4'
 sepkoski: 0.0.1
 seplyr: 1.0.4
-seq2R: 1.1.0
+seq2R: 2.0.0
 seqCBS: 1.2.1
 seqDesign: '1.2'
 seqHMM: 1.2.4
@@ -21880,7 +21887,7 @@ sfhotspot: 0.7.1
 sfinx: 1.7.99
 sfnetworks: 0.6.3
 sfo: 0.1.2
-sfsmisc: 1.1-14
+sfsmisc: 1.1-15
 sft: 2.2-1
 sftime: 0.2-0
 sftrack: 0.5.4
@@ -22875,7 +22882,7 @@ stabm: 1.2.2
 stabreg: 0.1.2
 stabs: 0.6-4
 stackoverflow: 0.7.0
-stacks: 1.0.1
+stacks: 1.0.2
 stacomiR: 0.6.0.7
 stacomirtools: 0.6.0.1
 stagePop: 1.1-2
@@ -23238,6 +23245,7 @@ survivalMPL: 0.2-3
 survivalMPLdc: 0.1.1
 survivalREC: '1.0'
 survivalROC: 1.0.3.1
+survivalSL: '0.9'
 survivalmodels: 0.1.13
 survivalsvm: 0.0.5
 survivoR: 2.0.8
@@ -23494,6 +23502,7 @@ tdigest: 0.4.1
 tdist: 0.1-1.1
 tdm: 3.0.3
 tdr: '0.13'
+tdsa: 1.0-0
 tdsc: 1.0.3
 tdthap: '1.2'
 tea: '1.1'
@@ -23537,7 +23546,7 @@ term: 0.3.5
 terminaldigits: 0.1.0
 termstrc: 1.3.7
 ternvis: '1.2'
-terra: 1.7-23
+terra: 1.7-28
 terrainmeshr: 0.1.0
 terrainr: 0.7.4
 tessellation: 2.1.2
@@ -24914,7 +24923,7 @@ wqs: 0.0.1
 wqspt: 1.0.1
 wrGraph: 1.3.3
 wrMisc: 1.12.0
-wrProteo: 1.8.0
+wrProteo: 1.9.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.10
 wrappedtools: 0.9.1
