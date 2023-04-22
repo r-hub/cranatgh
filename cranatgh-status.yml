@@ -219,7 +219,7 @@ Ake: 1.0.1
 AlgDesign: 1.2.1
 AlgebraicHaploPackage: '1.2'
 AlignStat: 1.3.1
-AllMetrics: 0.1.0
+AllMetrics: 0.1.1
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: '1.1'
@@ -1462,7 +1462,7 @@ DELTD: 2.6.8
 DEM: 0.0.0.2
 DEMEtics: 0.8-7
 DEMOVA: '1.0'
-DEPONS2R: 1.1.9
+DEPONS2R: 1.2.0
 DES: 1.0.0
 DESP: 0.2-2
 DESnowball: '1.0'
@@ -2902,7 +2902,7 @@ Hankel: 0.0-1
 HapEstXXR: 0.1-8
 Hapi: 0.0.3
 Haplin: 7.3.0
-HaploCatcher: 1.0.3
+HaploCatcher: 1.0.4
 HaploSim: 1.8.4.2
 HardyWeinberg: 1.7.5
 HarmonicRegression: '1.0'
@@ -5090,7 +5090,7 @@ PreKnitPostHTMLRender: 0.1.0
 PreProcess: 3.1.7
 PreProcessing: 0.1.0
 PrecipStat: '1.03'
-PreciseSums: '0.5'
+PreciseSums: '0.6'
 PredCRG: 1.0.2
 PredPsych: '0.4'
 PredictABEL: 1.2-4
@@ -6187,7 +6187,7 @@ RmixmodCombi: '1.0'
 Rmolt: 1.0.0
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
-Rmpfr: 0.9-1
+Rmpfr: 0.9-2
 Rmpi: 0.7-1
 Rmst: 0.0.3
 RnavGraph: 0.1.8
@@ -7598,7 +7598,7 @@ VTrack: '1.21'
 VUROCS: '1.0'
 VWPre: 1.2.4
 VaR: '0.2'
-VaRES: 1.0.1
+VaRES: 1.0.2
 VancouvR: 0.1.7
 VarBundle: 0.3.0
 VarED: 1.0.0
@@ -7753,7 +7753,7 @@ WufooR: 1.0.1
 XBRL: 0.99.19.1
 XGR: 1.1.7
 XHWE: '1.0'
-XICOR: 0.3.3
+XICOR: 0.4.1
 XKCDdata: 0.1.0
 XLConnect: 1.0.7
 XLConnectJars: 0.2-15
@@ -9647,7 +9647,7 @@ cepiigeodist: '0.1'
 cepp: '1.7'
 cepreader: 1.2-1
 cequre: '1.3'
-ceramic: 0.6.0
+ceramic: 0.8.0
 cernn: '0.1'
 cesR: 0.1.0
 ceser: 1.0.0
@@ -9744,7 +9744,7 @@ chinese.misc: 0.2.3
 chipPCR: 1.0-2
 chirps: 0.1.4
 chisq.posthoc.test: 0.1.2
-chisquare: '0.3'
+chisquare: '0.4'
 chk: 0.8.1
 chkptstanr: 0.1.1
 chlorpromazineR: 0.2.0
@@ -10838,7 +10838,7 @@ datasailr: 0.8.11
 datasauRus: 0.1.6
 dataseries: 0.2.0
 dataset: 0.2.1
-datasets.load: 2.1.0
+datasets.load: 2.2.0
 datasetsICR: '1.0'
 dataspice: 1.1.0
 datastepr: 0.0.2
@@ -12157,7 +12157,7 @@ evolvability: 2.0.0
 evoper: 0.5.0
 evora: '1.0'
 evreg: 1.0.2
-evt0: 1.1-3
+evt0: 1.1-4
 evtclass: '1.0'
 evtree: 1.0-8
 ewoc: 0.3.0
@@ -13860,7 +13860,7 @@ googleway: 2.7.7
 goric: 1.1-2
 gorica: 0.1.2
 gorpiper: 1.0.1
-gosset: '0.7'
+gosset: '1.0'
 gotop: 0.1.2
 govStatJPN: '0.1'
 govdat: '0.1'
@@ -14686,7 +14686,7 @@ icrf: 2.0.2
 icsurvROC: 0.1.0
 icsw: 1.0.0
 idar: '1.5'
-idarps: 0.0.2
+idarps: 0.0.3
 idbg: '1.0'
 idbr: '1.0'
 idcnrba: 0.2.0
@@ -15774,7 +15774,7 @@ lineup2: '0.6'
 lineupjs: 4.6.0
 lingglosses: 0.0.6
 lingmatch: 1.0.5
-lingtypology: 1.1.12
+lingtypology: 1.1.13
 linguisticsdown: 1.2.0
 link2GI: 0.5-2
 linkR: 1.1.1
@@ -18168,7 +18168,7 @@ opentripplanner: 0.5.1
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
 openxlsx: 4.2.5.2
-openxlsx2: '0.6'
+openxlsx2: 0.6.1
 opera: 1.2.0
 operator.tools: 1.6.3
 operators: 0.1-8
@@ -18878,7 +18878,7 @@ phyloarray: 0.1-1
 phylobase: 0.8.10
 phylocanvas: 0.1.3
 phyloclim: 0.9.5
-phylocomr: 0.3.3
+phylocomr: 0.3.4
 phylocurve: 2.1.1
 phylodyn: 0.9.0
 phylogram: 2.1.0
@@ -19235,7 +19235,7 @@ population: '0.3'
 populationPDXdesign: 1.0.3
 porridge: 0.3.1
 port4me: 0.5.1
-portalr: 0.3.11
+portalr: 0.4.0
 portes: '5.0'
 portfolio: 0.5-2
 portfolio.optimization: 1.0-0
@@ -19769,7 +19769,7 @@ qsub: 1.1.3
 qtbase: 1.0.14
 qte: 1.3.1
 qtl: '1.60'
-qtl2: '0.30'
+qtl2: '0.32'
 qtl2convert: '0.28'
 qtl2fst: '0.26'
 qtl2ggplot: 1.2.2
@@ -20924,7 +20924,7 @@ rngWELL: 0.10-9
 rngtools: 1.5.2
 rngwell19937: 0.6-0
 rnmamod: 0.3.0
-rnn: 1.8.0
+rnn: 1.9.0
 rnoaa: 1.3.8
 rnpn: 1.2.5
 rnr: 0.2.1
@@ -21092,7 +21092,7 @@ rplos: 1.0.0
 rplotengine: 1.0-9
 rpls: 0.6.0
 rplum: 0.3.0
-rpm: '0.7'
+rpm: 0.7-1
 rpmodel: 1.2.0
 rpms: 0.5.1
 rpn: '1.0'
@@ -21167,7 +21167,7 @@ rsae: '0.2'
 rsam: 0.1.0
 rsample: 1.1.1
 rsat: 0.1.18
-rsatscan: 0.3.9200
+rsatscan: 1.0.3
 rsbml: 1.2-1
 rsbp: 0.1.0
 rscala: 3.2.21
@@ -21585,7 +21585,7 @@ scatteR: 0.0.1
 scatterD3: 1.0.1
 scatterPlotMatrix: 0.2.0
 scattermore: '0.8'
-scatterpie: 0.1.8
+scatterpie: 0.1.9
 scatterplot3d: 0.3-43
 scbursts: '1.6'
 scclust: 0.2.2
@@ -22867,7 +22867,7 @@ sss: 0.2.1
 sssc: 1.0.0
 sstModel: 1.0.0
 ssvd: '1.0'
-ssym: 1.5.7
+ssym: 1.5.8
 st: 1.2.7
 stR: '0.5'
 stRoke: 23.4.1
@@ -23553,7 +23553,7 @@ term: 0.3.5
 terminaldigits: 0.1.0
 termstrc: 1.3.7
 ternvis: '1.2'
-terra: 1.7-28
+terra: 1.7-29
 terrainmeshr: 0.1.0
 terrainr: 0.7.4
 tessellation: 2.1.2
@@ -23837,7 +23837,7 @@ tipmap: 0.3.9
 tipom: 1.0.2-1
 tippy: 0.1.0
 tipr: 1.0.1
-tipsae: 0.0.12
+tipsae: 0.0.13
 tis: '1.39'
 titan: 1.0-16
 titanic: 0.1.0
@@ -24084,7 +24084,7 @@ trinROC: '0.6'
 trio: 2.1.1
 trioGxE: 0.1-1
 trip: 1.8.7
-tripEstimation: 0.0-45
+tripEstimation: 0.0-46
 tripack: 1.3-9.1
 triplot: 1.3.0
 tripsAndDipR: 0.1.0
@@ -24672,7 +24672,7 @@ vwline: 0.2-2
 vwr: 0.3.0
 wBoot: 1.0.3
 wCorr: 1.9.6
-wINEQ: 1.1.2
+wINEQ: 1.2.0
 wISAM: 0.2.8
 wNNSel: '0.1'
 wPerm: 1.0.1
