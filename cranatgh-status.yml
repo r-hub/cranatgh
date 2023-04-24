@@ -3779,6 +3779,7 @@ MGMS2: 1.0.2
 MGRASTer: '0.9'
 MGSDA: '1.6'
 MHCtools: 1.5.1
+MHD: 0.1.1
 MHDA: '1.2'
 MHMM: 1.0.0
 MHTcop: 0.1.1
@@ -4010,7 +4011,7 @@ ManyTests: '1.2'
 Map2NCBI: '1.4'
 MapGAM: 1.2-6
 MapeBay: 0.1.0
-Mapinguari: 1.0.0
+Mapinguari: 2.0.0
 MareyMap: 1.3.6
 MargCond: 1.0.0
 MarginalMediation: 0.7.2
@@ -6700,7 +6701,7 @@ Sample.Size: '1.0'
 SampleSize4ClinicalTrials: 0.2.3
 SampleSizeMeans: '1.2'
 SampleSizeProportions: '1.1'
-SamplerCompare: 1.3.2
+SamplerCompare: 1.3.4
 SamplingBigData: 1.0.0
 SamplingStrata: 1.5-4
 SanFranBeachWater: 0.1.0
@@ -6927,6 +6928,7 @@ SoyURT: 1.0.0
 SpATS: 1.0-18
 SpNMF: 0.1.1
 SpNetPrep: '1.2'
+SpPOP: 0.1.0
 SpTe2M: 1.0.1
 SpaCCr: 0.1.0
 SpaDES: 2.0.9
@@ -7102,7 +7104,7 @@ SurfaceTortoise: 1.0.2
 Surrogate: '2.8'
 SurrogateOutcome: '1.1'
 SurrogateRegression: 0.6.0
-SurrogateRsq: 0.2.0
+SurrogateRsq: 0.2.1
 SurrogateTest: '1.3'
 SurvBoost: 0.1.2
 SurvCorr: '1.1'
@@ -7772,7 +7774,7 @@ XRSCC: '0.1'
 XReg: '1.0'
 XiMpLe: 0.11-1
 Xmisc: 0.2.1
-Xplortext: 1.5.1
+Xplortext: 1.5.2
 YPBP: 0.0.1
 YPInterimTesting: 1.0.3
 YPPE: 1.0.1
@@ -9323,7 +9325,7 @@ bsts: 0.9.9
 bsub: 1.1.0
 bsvars: 1.0.0
 btb: 0.2.0
-btergm: 1.10.6
+btergm: 1.10.10
 btf: '1.2'
 bubbleHeatmap: 0.1.0
 bubblyr: 0.1.2
@@ -9430,7 +9432,7 @@ camel: 0.2.0
 camerondata: 1.0.0
 campaignmanageR: 0.1.0
 campfin: 1.0.10
-campsis: 1.4.0
+campsis: 1.4.1
 campsismod: 1.0.0
 camsRad: 0.3.0
 camtrapR: 2.2.0
@@ -9977,7 +9979,7 @@ cmenet: 0.1.2
 cmfilter: 0.9.1
 cmfrec: 3.5.1-1
 cmhc: 0.2.5
-cml: 0.1.0
+cml: 0.2.2
 cmm: '0.12'
 cmmr: 0.1.2
 cmna: 1.0.5
@@ -10619,7 +10621,7 @@ ctmm: 1.1.0
 ctmva: 1.1.0
 ctpm: 1.0.1
 ctqr: '2.0'
-ctrdata: 1.12.1
+ctrdata: 1.13.0
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
 cts: 1.0-22
@@ -11038,7 +11040,7 @@ denvax: 0.1.2
 depcache: 0.1-2
 depcoeff: 0.0.1
 depend.truncation: '3.0'
-depigner: 0.9.0
+depigner: 0.9.1
 depmix: 0.9.16
 depmixS4: 1.5-0
 deps: 0.1.2
@@ -13028,6 +13030,7 @@ fwi.fbp: '1.7'
 fwildclusterboot: 0.13.0
 fwsim: 0.3.4
 fxTWAPLS: 0.1.2
+fxl: 1.6.3
 fxregime: 1.0-4
 fxtract: 0.9.4
 fy: 0.3.0
@@ -13465,7 +13468,7 @@ gganimate: 1.0.8
 ggarchery: 0.4.2
 ggasym: 0.1.6
 ggbeeswarm: 0.7.1
-ggblanket: 1.7.0
+ggblanket: 1.8.0
 ggborderline: 0.2.0
 ggbraid: 0.2.2
 ggbrain: 0.8.1
@@ -13942,6 +13945,7 @@ graphsim: 1.0.3
 graphx: '1.0'
 grasp: 2.5-7
 grasper: 0.4-4
+grateful: 0.2.0
 grates: 1.0.1
 gratia: 0.8.1
 graticule: 0.2.0
@@ -14223,7 +14227,7 @@ hdlm: 1.3.1
 hdm: 0.3.1
 hdme: 0.5.1
 hdmed: 1.0.0
-hdnom: 6.0.1
+hdnom: 6.0.2
 hdpGLM: 1.0.2
 hdpca: 1.1.5
 hdr: '0.1'
@@ -14316,7 +14320,7 @@ hierDiversity: '0.1'
 hierNet: '1.9'
 hierSDR: '0.1'
 hierarchicalDS: '3.0'
-hierarchicalSets: 1.0.2
+hierarchicalSets: 1.0.4
 hierband: '1.0'
 hierbase: 0.1.2
 hierformR: 0.1.0
@@ -15151,7 +15155,7 @@ jackknifeKME: '1.2'
 jackknifeR: 1.0.0
 jackstrap: 0.1.0
 jackstraw: 1.3.8
-jacobi: 2.2.0
+jacobi: 2.3.0
 jacpop: '0.6'
 jadeLizardOptions: 1.0.1
 jaggR: 0.1.1
@@ -16217,7 +16221,7 @@ mapr: 0.5.2
 maps: 3.4.1
 mapsFinland: 0.2.2
 mapsPERU: 1.0.2
-mapsRinteractive: 1.0.1
+mapsRinteractive: 2.0.1
 mapsapi: 0.5.3
 mapscanner: 0.0.6
 mapsf: 0.6.1
@@ -16258,6 +16262,7 @@ markmyassignment: 0.8.6
 markophylo: 1.0.8
 markovMSM: 0.1.3
 markovchain: 0.9.1
+markovmix: 0.1.0
 marl: '1.0'
 marmap: 1.0.10
 marp: 0.1.0
@@ -16286,7 +16291,7 @@ mateable: 0.3.2
 materialmodifier: 1.1.0
 mathgraph: 0.9-14
 mathjaxr: 1.6-0
-mathml: '0.7'
+mathml: '0.8'
 mathpix: 0.5.0
 maticce: 1.0-3
 matie: '1.2'
@@ -18295,7 +18300,7 @@ oshka: 0.1.2
 osi: 0.1.0
 oskeyring: 0.1.6
 osmar: 1.1-7
-osmdata: 0.2.1
+osmdata: 0.2.2
 osmextract: 0.4.1
 osmgeosample: '0.1'
 osmose: 3.3.4
@@ -18474,7 +18479,7 @@ papeR: 1.0-5
 paperplanes: 0.0.1.9
 papply: '0.1'
 parSim: 0.1.4
-parabar: 0.10.1
+parabar: 1.0.3
 parade: '0.1'
 paradox: 0.11.1
 parallelDist: 0.2.6
@@ -20256,6 +20261,7 @@ rcbalance: 1.8.8
 rcbayes: 0.2.0
 rcbsubset: 1.1.7
 rcc: 1.0.0
+rcccd: 0.3.2
 rccdates: 1.0.0
 rccmisc: 0.3.7
 rccola: 1.0.2
@@ -23826,7 +23832,7 @@ tinsel: 0.0.1
 tint: 0.1.4
 tinter: 0.1.0
 tinyProject: 0.6.1
-tinyarray: 2.2.9
+tinyarray: 2.3.0
 tinylabels: 0.2.3
 tinyscholar: 0.1.7
 tinysnapshot: 0.0.3
