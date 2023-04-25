@@ -1801,7 +1801,7 @@ DynClust: '3.24'
 DynComm: 2020.1.6
 DynForest: 1.1.1
 DynNom: 5.0.2
-DynTxRegime: '4.11'
+DynTxRegime: '4.12'
 DynaRankR: 1.1.0
 DynamicDistribution: '1.1'
 DynamicGP: 1.1-9
@@ -2020,7 +2020,7 @@ EnvNicheR: '1.4'
 EnvStats: 2.7.0
 EnviroPRA: '1.0'
 EnviroStat: 0.4-2
-Epi: '2.47'
+Epi: 2.47.1
 EpiBayes: 0.1.2
 EpiContactTrace: 0.17.0
 EpiCurve: 2.4-2
@@ -2699,7 +2699,7 @@ GermaParl: 1.5.2
 GerminaR: 2.1.4
 GetBCBData: 0.7.0
 GetDFPData: '1.6'
-GetDFPData2: 0.6.2
+GetDFPData2: 0.6.3
 GetFREData: 0.8.1
 GetHFData: '1.7'
 GetITRData: '0.7'
@@ -4416,7 +4416,7 @@ NST: 3.1.10
 NSUM: '1.0'
 NScluster: 1.3.6-1
 NTS: 1.1.2
-NTSS: 0.1.0
+NTSS: 0.1.1
 NTsets: '1.0'
 NUCOMBog: 1.0.4.2
 NVCSSL: '1.0'
@@ -4512,7 +4512,7 @@ OBMbpkg: 1.0.0
 OBRE: 0.1-0
 OBsMD: '6.1'
 OCA: '0.5'
-OCNet: 1.0.0
+OCNet: 1.0.1
 OCSdata: 1.0.2
 ODB: 1.2.1
 ODEnetwork: 1.3.2
@@ -4954,7 +4954,7 @@ Peak2Trough: '1.3'
 PeakError: 2021.7.1
 PeakSegDP: 2017.08.15
 PeakSegDisk: 2022.2.1
-PeakSegJoint: 2022.4.6
+PeakSegJoint: 2023.4.24
 PeakSegOptimal: 2018.05.25
 Peaks: '0.2'
 PearsonDS: 1.2.3
@@ -5343,7 +5343,7 @@ RCCPCA: 0.1.0
 RCDT: 1.2.1
 RCEIM: '0.3'
 RCGLS: 1.0.3
-RCLabels: 0.1.2
+RCLabels: 0.1.4
 RCMIP5: 1.2.0
 RCMinification: '1.2'
 RCPA3: 1.1.1
@@ -6422,7 +6422,7 @@ SDD: '1.2'
 SDDA: 1.0-5
 SDDE: 1.0.1
 SDEFSR: 0.7.22
-SDGdetector: 2.7.1
+SDGdetector: 2.7.2
 SDLfilter: 2.3.2
 SDMPlay: '2.0'
 SDMTools: 1.1-221.2
@@ -7513,7 +7513,7 @@ UScensus2000tract: '0.03'
 UScensus2010: 0.20.0
 USgas: 0.1.2
 USgrid: 0.1.2
-USpopcenters: 0.1.1
+USpopcenters: 0.2.0
 UStatBookABSC: 1.0.0
 UWHAM: '1.1'
 UdderQuarterInfectionData: 1.0.0
@@ -9242,7 +9242,7 @@ branchLars: '1.0'
 brandwatchR: 0.3.0
 brant: 0.3-0
 brassica: 1.0.2
-bravo: 2.1.2
+bravo: 2.2.1
 brazilmaps: 0.1.0
 brclimr: 0.1.2
 brea: 0.2.0
@@ -9623,7 +9623,7 @@ cellranger: 1.1.0
 celltrackR: 1.1.0
 celsius: 1.0.7
 cem: 1.1.31
-cemco: '0.1'
+cemco: '0.2'
 cems: '0.4'
 cenGAM: 0.5.3
 cenROC: 2.0.0
@@ -9632,7 +9632,7 @@ censCov: 1.0-0
 censNID: 0-0-1
 censReg: 0.5-36
 censable: 0.0.5
-censo2017: 0.6.1
+censo2017: 0.6.2
 censorcopula: '2.0'
 censored: 0.2.0
 census: 0.2.0
@@ -10599,7 +10599,7 @@ cstab: 0.2-2
 cstar: '1.0'
 cstime: 2022.11.22
 csurvey: '1.4'
-csutil: 2022.11.24
+csutil: 2023.4.25
 csv: 0.6.2
 csvread: 1.2.1
 csvwr: 0.1.7
@@ -11088,7 +11088,7 @@ detzrcr: 0.3.1
 devEMF: 4.3-1
 devFunc: '0.1'
 devRate: 0.2.3
-devoid: 0.1.1
+devoid: 0.1.2
 devtoolbox: 0.2.0
 devtools: 2.4.5
 dexter: 1.2.2
@@ -12304,7 +12304,7 @@ fMRItools: 0.2.2
 fMultivar: '4021.83'
 fNonlinear: '4021.81'
 fOptions: '3042.86'
-fPortfolio: 3042.83.1
+fPortfolio: '4023.84'
 fRLR: 1.2.2
 fRegression: '4021.83'
 fSRM: 0.6.5
@@ -12656,7 +12656,7 @@ fitbitViz: 1.0.5
 fitbitr: 0.3.0
 fitcoach: '1.0'
 fitdc: 0.0.1
-fitdistrplus: 1.1-8
+fitdistrplus: 1.1-11
 fitlandr: 0.1.0
 fitmix: 0.1.0
 fitode: 0.1.1
@@ -12927,7 +12927,7 @@ frostr: 0.2.0
 frscore: 0.2.0
 frt: '0.1'
 fruclimadapt: 0.4.5
-fs: 1.6.1
+fs: 1.6.2
 fsMTS: 0.1.7
 fsbrain: 0.5.3
 fscaret: 0.9.4.4
@@ -12964,7 +12964,7 @@ fume: '1.0'
 fun: '0.3'
 funData: 1.3-8
 funFEM: '1.2'
-funGp: 0.3.1
+funGp: 0.3.2
 funHDDC: 2.3.1
 funLBM: '2.3'
 funModeling: 1.9.4
@@ -12995,7 +12995,7 @@ funspace: 0.1.1
 funtimes: '9.1'
 furniture: 1.9.12
 furrr: 0.3.1
-fusedMGM: 0.1.0.0
+fusedMGM: 0.1.0.1
 fusedest: 1.3.1
 fusen: 0.4.1
 fuser: 1.0.1
@@ -13593,7 +13593,7 @@ ggraph: 2.1.0
 ggraptR: '1.3'
 ggrasp: '1.2'
 ggrastr: 1.0.1
-ggrcs: 0.2.9
+ggrcs: 0.3.0
 ggredist: 0.0.2
 ggrepel: 0.9.3
 ggridges: 0.5.4
@@ -14148,7 +14148,7 @@ hacks: 0.1-9
 hacksaw: 0.0.2
 hacksig: 0.1.2
 hadron: 3.2.0
-hagis: 3.1.4
+hagis: 3.1.6
 hail: 0.1.1
 hakaiApi: 1.0.2
 hal9001: 0.4.3
@@ -14403,7 +14403,7 @@ hockeystick: 0.7.2
 hof: '0.1'
 hogsvdR: '0.1'
 holdem: '1.2'
-holiglm: 0.2.1
+holiglm: 0.2.5
 holland: 0.1.2-1
 holodeck: 0.2.1
 homals: 1.0-10
@@ -15848,7 +15848,7 @@ lmbc: 0.9.1
 lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
-lme4: 1.1-32
+lme4: 1.1-33
 lmeInfo: 0.3.2
 lmeNB: '1.3'
 lmeNBBayes: 1.3.1
@@ -16100,7 +16100,7 @@ mHMMbayes: 0.2.0
 mMARCH.AC: 2.4.0.1
 mMPA: 1.2.0
 mQTL: '1.0'
-mRMRe: 2.1.2
+mRMRe: 2.1.2.1
 mRchmadness: 1.0.0
 mRm: 1.1.6
 mRpostman: 1.1.0
@@ -16940,7 +16940,7 @@ mmb: 0.13.3
 mmc: 0.0.3
 mmcif: 0.1.1
 mmcm: 1.2-8
-mmconvert: '0.8'
+mmconvert: '0.10'
 mmds: '1.1'
 mme: 0.1-6
 mmeln: '1.4'
@@ -17543,7 +17543,7 @@ ncodeR: 0.2.0.1
 ncomplete: 1.0-1
 ncpen: 1.0.0
 ncvar: 1.0-4
-ncvreg: 3.13.0
+ncvreg: 3.14.1
 nda: 0.1.6
 ndi: 0.1.4
 ndjson: 0.9.0
@@ -18013,7 +18013,7 @@ occUncertain: 0.1.0
 occupancy: '1.2'
 occupationMeasurement: 0.2.0
 ocd: '1.1'
-oce: 1.7-10
+oce: 1.8-0
 oceCens: 0.1.1
 ocean: 0.2-4
 oceanexplorer: 0.0.2
@@ -18323,7 +18323,7 @@ ottr: 1.3.1
 ottrpal: 1.0.1
 otuSummary: 0.1.1
 otvPlots: 0.2.1
-ouch: '2.18'
+ouch: '2.19'
 outForest: 0.1.3
 outbreaker: 1.1-8
 outbreaker2: 1.1.3
@@ -18514,7 +18514,7 @@ parlitools: 0.4.1
 parma: '1.7'
 parmigene: 1.1.0
 parmsurvfit: 0.1.0
-paropt: 0.2.1
+paropt: '0.3'
 parqr: 0.1.0
 parquetize: 0.5.5
 parseRPDR: 1.0.1
@@ -19139,7 +19139,7 @@ pogit: 1.3.0
 poibin: '1.5'
 poilog: 0.4.2
 pointRes: 2.0.1
-pointblank: 0.11.3
+pointblank: 0.11.4
 pointdensityP: 0.3.5
 pointdexter: 0.1.1
 pointr: 0.2.0
@@ -19916,7 +19916,7 @@ r6extended: 0.1.2
 r6methods: 0.1.0
 rADA: 1.1.9
 rARPACK: 0.11-0
-rATTAINS: 0.1.4
+rATTAINS: 1.0.0
 rAltmetric: 0.7.0
 rAmCharts: 2.1.15
 rAmCharts4: 1.6.0
@@ -20421,7 +20421,7 @@ reccsim: 0.9-1
 receptiviti: 0.1.3
 recexcavAAR: 0.3.0
 rechonest: '1.2'
-recipes: 1.0.5
+recipes: 1.0.6
 reclin: 0.1.2
 reclin2: 0.2.0
 recluster: '2.9'
@@ -20489,7 +20489,7 @@ regioncode: 0.1.1
 regions: 0.1.8
 registr: 2.1.0
 registry: 0.5-1
-reglogit: 1.2-6
+reglogit: 1.2-7
 regmed: 2.1.0
 regmedint: 1.0.0
 regnet: 1.0.0
@@ -20619,7 +20619,7 @@ resevol: 0.3.0.1
 reshape: 0.8.9
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
-resourcer: 1.3.0
+resourcer: 1.4.0
 respR: 2.2.0
 resper: 0.3.2
 respirometry: 1.3.0
@@ -23522,7 +23522,7 @@ tdigest: 0.4.1
 tdist: 0.1-1.1
 tdm: 3.0.3
 tdr: '0.13'
-tdsa: 1.0-0
+tdsa: 1.0-1
 tdsc: 1.0.3
 tdthap: '1.2'
 tea: '1.1'
@@ -23605,7 +23605,7 @@ text2vec: 0.6.3
 textBoxPlacement: '1.0'
 textTinyR: 1.1.7
 textTools: 0.1.0
-textab: '1.0'
+textab: 1.0.1
 textcat: 1.0-8
 textclean: 0.9.3
 textdata: 0.4.4
@@ -24013,7 +24013,7 @@ translate: 0.1.2
 translate.logit: '1.0'
 translateR: '1.0'
 translateSPSS2R: 1.0.0
-translated: 0.1.0
+translated: 0.1.1
 translation.ko: 0.0.1.5.2
 transmdl: 0.1.0
 transmem: 0.1.1
@@ -24888,7 +24888,7 @@ wmlf: 0.1.2
 wmm: 1.1.1
 wmtsa: 2.0-3
 wmwpow: 0.1.3
-wnl: 0.7.2
+wnl: 0.7.3
 wnominate: '1.3'
 wodds: 0.1.0
 woe: '0.2'
