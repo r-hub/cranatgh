@@ -1397,6 +1397,7 @@ DAFOT: 0.0.1
 DAGGER: '1.4'
 DAIME: 2.1.3
 DAISIE: 4.4.0
+DAISIEprep: 0.3.2
 DAKS: 2.1-3
 DALEX: 2.4.3
 DALEX2: '0.9'
@@ -1681,7 +1682,7 @@ Deriv: 4.1.3
 DescTools: 0.99.48
 DescToolsAddIns: '1.10'
 DescrTab2: 2.1.16
-DescribeDF: 0.1.1
+DescribeDF: 0.2.0
 DescribeDisplay: 0.2.9
 DescriptiveStats.OBeu: 1.3.2
 DescriptiveWH: 1.0.3
@@ -1945,6 +1946,7 @@ EW: '1.1'
 EWGoF: 2.2.2
 EWOC2: '1.0'
 EWS: 0.2.0
+EWSmethods: 1.1.2
 EXRQ: '1.0'
 EZtune: 3.1.1
 Eagle: '2.5'
@@ -2495,7 +2497,7 @@ GInSARCorW: 1.15.6
 GIplot: 0.1.0
 GJRM: 0.2-6.1
 GK2011: 0.1.3
-GLCMTextures: 0.3.7
+GLCMTextures: 0.3.8
 GLDEX: 2.0.0.9.2
 GLDreg: 1.1.0
 GLIDE: 1.0.5
@@ -4285,7 +4287,7 @@ MultipleBreakpoints: 0.1.0
 MultipleBubbles: 0.2.0
 MultipleRegression: 0.1.0
 MultiplierDEA: 0.1.19
-MultiscaleDTM: 0.7.1
+MultiscaleDTM: '0.8'
 MultisiteMediation: 0.0.4
 MultivariateAnalysis: 0.4.4
 MultivariateRandomForest: 1.1.5
@@ -4890,7 +4892,7 @@ PTAk: 2.0.0
 PTE: '1.7'
 PTERP: '1.0'
 PTSR: 0.1.2
-PTXQC: 1.0.14
+PTXQC: 1.0.15
 PTwins: 0.1.1
 PUMP: 1.0.1
 PUPAIM: 0.3.1
@@ -6891,7 +6893,7 @@ Snake: '1.0'
 SnakeCharmR: 1.0.7.1
 SnakesAndLaddersAnalysis: 2.1.0
 Snowball: 0.0-11
-SnowballC: 0.7.0
+SnowballC: 0.7.1
 SoDA: 1.0-6.1
 SoPhy: 1.0.40
 SobolSequence: '1.0'
@@ -7974,7 +7976,7 @@ adjustedcranlogs: 0.1.0
 adk: 1.0-2
 adklakedata: 0.6.1
 adlift: 1.4-5
-admiral: 0.10.1
+admiral: 0.10.2
 admiral.test: 0.5.0
 admiraldev: 0.3.0
 admiralonco: 0.3.0
@@ -8625,7 +8627,7 @@ baseflow: 0.13.2
 basefun: 1.1-3
 baseline: 1.3-4
 basemaps: 0.0.5
-baseq: 0.1.0
+baseq: 0.1.1
 basetheme: 0.1.3
 basf: 0.2.0
 basicMCMCplots: 0.2.7
@@ -8823,10 +8825,10 @@ bestglm: 0.37.3
 besthr: 0.3.2
 bestridge: 1.0.7
 betaBayes: 1.0.1
-betaDelta: 1.0.0
+betaDelta: 1.0.1
 betaMC: 1.2.0
 betaNB: 1.0.1
-betaSandwich: 1.0.3
+betaSandwich: 1.0.4
 betaboost: 1.0.1
 betacal: 0.1.0
 betaclust: 1.0.0
@@ -8890,7 +8892,7 @@ bifurcatingr: 1.0.0
 bigD: 0.2.0
 bigDM: 0.5.1
 bigFastlm: 0.0.2
-bigGP: 0.1-7
+bigGP: 0.1.8
 bigIntegerAlgos: 0.1.2
 bigKRLS: 3.0.5.1
 bigMap: 2.3.1
@@ -9825,6 +9827,7 @@ clac: 0.1-2.1
 cladoRcpp: 0.15.1
 clam: 2.5.0
 clampSeg: 1.1-1
+clarabel: 0.4.1
 clarifai: 0.4.2
 clarify: 0.1.2
 clarkeTest: 0.1.0
@@ -10501,6 +10504,7 @@ cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
 crew: 0.1.1
+crew.cluster: 0.0.2
 crfsuite: 0.4.1
 cricketdata: 0.2.2
 cricketr: 0.0.26
@@ -10849,6 +10853,7 @@ datastepr: 0.0.2
 datastructures: 0.2.9
 datasus: 0.4.1.1
 datautils: 0.1.5
+dataverifyr: 0.1.4
 dataverse: 0.3.13
 dataversionr: 0.9.0
 dataview: 2.1.1
@@ -12788,6 +12793,7 @@ foreach: 1.5.2
 forecTheta: 2.6.2
 forecast: '8.21'
 forecastHybrid: 5.0.19
+forecastLSW: '1.0'
 forecastML: 0.9.0
 forecastSNSTS: 1.3-0
 forecasteR: 1.1.6
@@ -13486,7 +13492,7 @@ ggcorset: 0.4.5
 ggcoverage: 0.7.1
 ggdag: 0.2.8
 ggdark: 0.2.1
-ggdemetra: 0.2.3
+ggdemetra: 0.2.5
 ggdendro: 0.1.23
 ggdensity: 1.0.0
 ggdist: 3.2.1
@@ -14089,6 +14095,7 @@ gtm: '1.0'
 gto: 0.1.1
 gtools: 3.9.4
 gtop: 0.2.0
+gtranslate: 0.0.1
 gtreg: 0.2.0
 gtrendsR: 1.5.1
 gtsf: 0.1.0
@@ -14463,7 +14470,7 @@ hsrecombi: 0.5.1
 hsstan: 0.8.1
 htdp: 0.1.4
 htestClust: 0.2.2
-htetree: 0.1.14
+htetree: 0.1.16
 htm2txt: 2.2.2
 htmcglm: 0.0.1
 html2R: 0.1.0
@@ -14527,6 +14534,7 @@ hydraulics: 0.6.1
 hydroApps: 0.1-1
 hydroEvents: '0.11'
 hydroGOF: 0.4-0
+hydroMOPSO: 0.1-3
 hydroPSO: 0.5-1
 hydroTSM: 0.6-0
 hydroToolkit: 0.1.0
@@ -16137,7 +16145,7 @@ mads: 0.1.6
 madsim: 1.2.1
 mafs: 0.0.3
 magclass: 6.8.3
-magi: 1.2.1
+magi: 1.2.2
 magic: 1.6-1
 magicLamp: 0.1.0
 magicaxis: 2.2.14
@@ -16264,7 +16272,7 @@ markmyassignment: 0.8.6
 markophylo: 1.0.8
 markovMSM: 0.1.3
 markovchain: 0.9.1
-markovmix: 0.1.0
+markovmix: 0.1.1
 marl: '1.0'
 marmap: 1.0.10
 marp: 0.1.0
@@ -16317,7 +16325,7 @@ matrixdist: 1.1.8
 matrixpls: 1.0.13
 matrixprofiler: 0.1.9
 matrixsampling: 2.0.0
-matsbyname: 0.6.0
+matsbyname: 0.6.1
 matsindf: 0.4.0
 matuR: 0.0.1.0
 mau: 0.1.2
@@ -16896,6 +16904,7 @@ mlpwr: 1.0.0
 mlquantify: 0.2.0
 mlr: 2.19.1
 mlr3: 0.15.0
+mlr3batchmark: 0.1.0
 mlr3benchmark: 0.1.5
 mlr3cluster: 0.1.8
 mlr3data: 0.6.1
@@ -18324,7 +18333,7 @@ ottrpal: 1.0.1
 otuSummary: 0.1.1
 otvPlots: 0.2.1
 ouch: '2.19'
-outForest: 0.1.3
+outForest: 1.0.0
 outbreaker: 1.1-8
 outbreaker2: 1.1.3
 outbreaks: 1.9.0
@@ -18555,7 +18564,7 @@ passport: 0.3.0
 passt: 0.1.3
 password: 1.0-0
 pasta: 0.1.0
-pastclim: 1.2.3
+pastclim: 1.2.4
 pasteAsComment: 0.2.0
 pastecs: 1.3.21
 pastis: 0.1-2
@@ -19170,7 +19179,7 @@ polle: '1.2'
 pollen: 0.82.0
 pollimetry: 1.0.1
 pollstR: 2.0.1
-pollster: 0.1.4
+pollster: 0.1.5
 polmineR: 0.8.8
 polspline: 1.1.22
 polyCub: 0.8.1
@@ -20829,7 +20838,7 @@ rjacobi: 0.9.2
 rjade: 0.1.1
 rjags: 4-14
 rjazz: 0.1.7
-rjdmarkdown: 0.2.0
+rjdmarkdown: 0.2.1
 rjdqa: 0.1.1
 rje: 1.12.1
 rjmcmc: 0.4.5
@@ -22431,7 +22440,7 @@ socialh: 0.1.1
 socialmixr: 0.2.0
 socialranking: 1.0.0
 socialrisk: 0.5.1
-sociome: 2.1.0
+sociome: 2.2.1
 socviz: '1.2'
 sodavis: '1.2'
 sodium: 1.2.1
@@ -23929,7 +23938,7 @@ topmodel: 0.7.5
 topoDistance: 1.0.2
 topologyGSA: 1.4.7
 toposort: 1.0.0
-topr: 1.1.4
+topr: 1.1.5
 toprdata: 1.0.2
 topsa: 0.1.0
 topsis: '1.0'
@@ -25155,7 +25164,7 @@ zoolog: 1.1.0
 zoom: 2.0.6
 zoomGroupStats: 0.1.0
 zoomgrid: 1.0.0
-zoomr: 0.1.1
+zoomr: 0.2.0
 zoon: 0.6.5
 zscorer: 0.3.1
 zstdr: 0.1.1
