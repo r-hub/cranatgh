@@ -2230,7 +2230,7 @@ FSMUMI: '1.0'
 FSSF: 0.1.1
 FSTpackage: '0.1'
 FSelector: '0.33'
-FSelectorRcpp: 0.3.10
+FSelectorRcpp: 0.3.11
 FSinR: 2.0.5
 FTICRMS: '0.8'
 FTRLProximal: 0.3.0
@@ -9490,7 +9490,7 @@ cargo: 0.4.2
 caribou: 1.1-1
 caroline: 0.9.0
 carpenter: 0.2.2
-carrier: 0.1.0
+carrier: 0.1.1
 cartograflow: 1.0.3
 cartogram: 0.2.2
 cartogramR: 1.0-9
@@ -10019,7 +10019,7 @@ coala: 0.7.1
 coalescentMCMC: 0.4-4
 coalitions: 0.6.24
 coarseDataTools: 0.6-6
-cobalt: 4.5.0
+cobalt: 4.5.1
 cobiclust: 0.1.0
 cobs: 1.3-5
 cobs99: 0.9-12
@@ -10762,7 +10762,7 @@ dadjoke: '1.0'
 dadjokeapi: 1.0.2
 dados: 0.1.0
 dae: 3.2.15
-daewr: 1.2-9
+daewr: 1.2-10
 daff: 0.3.5
 dafishr: 1.0.0
 dafs: 1.0-38
@@ -11235,7 +11235,7 @@ dirmcmc: 1.3.3
 dirmult: 0.1.3-5
 dirttee: 1.0.1
 disaggR: 1.0.5
-disaggregation: 0.1.4
+disaggregation: 0.2.0
 disastr.api: 1.0.5
 disbayes: 1.0.0
 discAUC: 1.0.0
@@ -11394,6 +11394,7 @@ docopulae: 0.4.0
 docore: '1.0'
 docreview: 0.0.1
 docstring: 1.0.0
+doctest: 0.2.0
 doctr: 0.2.0
 docuSignr: 0.0.3
 documair: 0.6-0
@@ -14092,7 +14093,7 @@ gtable: 0.3.3
 gtcorr: 0.2-1
 gte: 1.2-3
 gtfs2emis: 0.1.0
-gtfs2gps: 2.1-0
+gtfs2gps: 2.1-1
 gtfsio: 1.1.0
 gtfsrouter: 0.0.5
 gtfstools: 1.2.0
@@ -14467,7 +14468,7 @@ hscovar: 0.4.2
 hsdar: 1.0.4
 hse: 0.0-28
 hsem: '1.0'
-hset: 0.1.0
+hset: 0.1.1
 hsicCCA: '1.0'
 hsm: 0.2.0
 hsmm: '0.4'
@@ -14786,6 +14787,7 @@ imageviewer: 0.1.0
 imaginator: 1.0.0
 imagine: 2.0.0
 imbalance: 1.0.2.1
+imbalanceDatRel: 0.1.5
 imbibe: 0.1.1
 imcExperiment: 0.99.0
 imdbapi: 0.1.0
@@ -16465,7 +16467,7 @@ meantables: 0.1.2
 measr: 0.2.1
 measuRing: '0.5'
 measurementProtocol: 0.1.1
-measurements: 1.5.0
+measurements: 1.5.1
 measures: '0.3'
 meboot: 1.4-9.3
 mecdf: 0.6.1
@@ -16698,7 +16700,7 @@ micompr: 1.1.3
 microPop: '1.6'
 microSTASIS: 0.1.0
 microbats: 0.1-1
-microbenchmark: 1.4.9
+microbenchmark: 1.4.10
 microbial: 0.0.20
 microclass: '1.2'
 microclustr: 0.1.0
@@ -16799,7 +16801,7 @@ missDiag: 1.0.1
 missForest: '1.5'
 missMDA: '1.18'
 missMethods: 0.4.0
-missRanger: 2.2.0
+missRanger: 2.2.1
 missSBM: 1.0.3
 missSOM: 1.0.1
 missingHE: 1.5.0
@@ -17868,7 +17870,7 @@ nor1mix: 1.3-0
 nord: 1.0.0
 nordklimdata1: '1.2'
 norgeo: 2.1.6
-norm: 1.0-10.0
+norm: 1.0-11.0
 norm2: 2.0.4
 normalizeH: 1.0.0
 normalp: 0.7.2
@@ -20871,7 +20873,7 @@ rknn: 1.2-1
 rkt: '1.6'
 rkvo: '0.1'
 rlandscape: '1.0'
-rlang: 1.1.0
+rlang: 1.1.1
 rlas: 1.6.3
 rlc: 0.4.1
 rlcv: 1.0.0
@@ -21101,6 +21103,7 @@ roxygen2md: 1.0.0
 roxytest: 0.0.2
 royston: '1.2'
 rpact: 3.3.4
+rpaleoclim: 1.0.0
 rpanel: 1.1-5.2
 rpart: 4.1.19
 rpart.LAD: 0.1.2
@@ -21212,7 +21215,7 @@ rscimark: '1.0'
 rsconnect: 0.8.29
 rscontract: 0.1.2
 rscopus: 0.6.6
-rscorecard: 0.24.0
+rscorecard: 0.26.0
 rscproxy: 2.0-5
 rsdNE: 1.1.0
 rsdepth: 0.1-22
@@ -22347,7 +22350,7 @@ sltl: '1.0'
 slurmR: 0.5-3
 sm: 2.2-5.7.1
 sma: 0.5.15
-smaa: 0.3-1
+smaa: 0.3-2
 smac: '1.0'
 smacof: 2.1-5
 smacpod: '2.5'
@@ -22493,7 +22496,7 @@ someMTP: 1.4.1.1
 somebm: '0.1'
 sommer: 4.2.1.2
 somplot: 1.6.4
-somspace: 1.0.0
+somspace: 1.2.4
 sonar: 1.0.2
 sonicLength: 1.4.7
 sonicscrewdriver: 0.0.4
@@ -22783,7 +22786,7 @@ spm: 1.2.2
 spm12r: 2.8.3
 spm2: 1.1.3
 spmodel: 0.3.0
-spmoran: 0.2.2.8
+spmoran: 0.2.2.9
 spnaf: 0.2.1
 spnet: 0.9.1-0
 spnn: 1.2.1
@@ -24030,6 +24033,7 @@ transcribeR: 0.0.0
 transfR: 1.0.7
 transforEmotion: 0.1.1
 transform.hazards: 0.1.0
+transformer: 0.1.0
 transformmos: 0.1.0
 transformr: 0.1.4
 translate: 0.1.2
@@ -24685,14 +24689,14 @@ vqtl: 2.0.5
 vrcp: 0.1.1
 vrmlgen: 1.4.9
 vrnmf: 1.0.2
-vroom: 1.6.1
+vroom: 1.6.3
 vrtest: '1.1'
 vscc: '0.4'
 vsd: 0.1.0
 vsgoftest: 1.0-1
 vsp: 0.1.1
 vstsr: 1.1.0
-vtable: 1.4.3
+vtable: 1.4.4
 vtcl: 1.0-1
 vtreat: 1.6.3
 vtree: 5.6.5
@@ -24899,6 +24903,7 @@ wiod: 0.3.0
 wiqid: 0.3.3
 wiseR: 1.0.1
 wiserow: 0.1.0
+withdots: 0.1.1
 withr: 2.5.0
 witness: '1.2'
 wk: 0.7.2
@@ -25093,7 +25098,7 @@ yager: 0.1.1
 yahoofinancer: 0.1.0
 yakmoR: 0.1.1
 yaml: 2.3.7
-yamlet: 0.10.20
+yamlet: 0.10.21
 yamlme: 0.1.2
 yap: 0.1.1
 yaps: 1.2.5
