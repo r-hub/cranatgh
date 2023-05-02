@@ -631,7 +631,7 @@ BayesianGLasso: 0.2.0
 BayesianLaterality: 0.1.1
 BayesianMediationA: 1.0.1
 BayesianNetwork: 0.1.5
-BayesianPlatformDesignTimeTrend: 1.0.0
+BayesianPlatformDesignTimeTrend: 1.0.1
 BayesianPower: 0.2.3
 BayesianReasoning: 0.4.1
 BayesianTools: 0.1.8
@@ -1079,7 +1079,8 @@ CarletonStats: '2.1'
 Carlson: 2.0.0
 Cascade: '2.1'
 CascadeData: '1.4'
-CaseBasedReasoning: '0.1'
+CaseBasedReasoning: '0.3'
+CaseCohortCoxSurvival: 0.0.31
 CatDataAnalysis: 0.1-5
 CatDyn: 1.1-1
 CatEncoders: 0.1.1
@@ -1963,7 +1964,7 @@ EbayesThresh: 1.4-12
 Ecdat: 0.4-2
 Ecfun: 0.3-2
 EcoDiet: 2.0.0
-EcoEnsemble: 1.0.3
+EcoEnsemble: 1.0.4
 EcoGenetics: 1.2.1-6
 EcoHydRology: 0.4.12.1
 EcoIndR: '1.8'
@@ -4137,7 +4138,7 @@ MiDA: 0.1.2
 MiMIR: '1.4'
 MiRAnorm: 1.0.0
 MiRKAT: 1.2.3
-MiRNAQCD: 1.1.2
+MiRNAQCD: 1.1.3
 MiRSEA: '1.1'
 MiSPU: '1.0'
 MiST: '1.0'
@@ -4223,7 +4224,7 @@ MonoPhy: '1.3'
 MonoPoly: 0.3-10
 Monte.Carlo.se: 0.1.1
 MonteCarlo: 1.0.6
-MonteCarloSEM: 0.0.5
+MonteCarloSEM: 0.0.6
 MoonFinder: 1.0.3
 Morpho: '2.11'
 MorphoTools2: 1.0.1.1
@@ -4727,7 +4728,7 @@ PCMBaseCpp: 0.1.9
 PCMRS: 0.1-4
 PCObw: 0.0.1
 PCPS: 1.0.7
-PCRA: '1.0'
+PCRA: '1.1'
 PCRedux: 1.1-2
 PCS: '1.3'
 PCSinR: 0.1.0
@@ -4951,6 +4952,7 @@ PartCensReg: '1.39'
 Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 PathSelectMP: '1.1'
+PatientProfiles: 0.1.0
 PatternClass: 2.0.1
 Patterns: '1.4'
 PdPDB: 2.0.1
@@ -5294,7 +5296,7 @@ R6Frame: 0.1.0
 R6P: 0.3.0
 R6causal: 0.7.0
 RABR: 0.1.1
-RAC: '1.5'
+RAC: 1.5.5
 RAD: '0.3'
 RADami: 1.1-2
 RADanalysis: 0.5.5
@@ -6263,7 +6265,7 @@ Rphylopars: 0.3.9
 Rpipedrive: 0.1.1
 Rpoet: 1.1.0
 Rpolyhedra: 0.5.4
-Rpoppler: 0.1-1
+Rpoppler: 0.1-2
 RprobitB: 1.1.2
 Rprofet: 2.2.1
 Rpvt: 0.1.1
@@ -6400,7 +6402,7 @@ SCEPtERextras: 0.1-0
 SCEnt: 0.0.1
 SCGLR: '3.0'
 SCI: 1.0-2
-SCIBER: 0.1.6
+SCIBER: 0.2.2
 SCINA: 1.2.0
 SCMA: 1.3.1
 SCOPRO: 0.1.0
@@ -6432,7 +6434,7 @@ SDGdetector: 2.7.2
 SDLfilter: 2.3.2
 SDMPlay: '2.0'
 SDMTools: 1.1-221.2
-SDMtune: 1.2.1
+SDMtune: 1.3.0
 SDPDmod: 0.0.2
 SDPrism2D: 0.1.1
 SDR: 0.7.0.0
@@ -6445,6 +6447,7 @@ SE.IGE: '1.0'
 SEA: 2.0.1
 SEAA: 0.9.6
 SEAGLE: 1.0.1
+SEAHORS: 1.6.1
 SEAsic: '0.1'
 SECFISH: 0.1.7
 SECP: 0.1.5
@@ -7937,7 +7940,7 @@ adaptTest: '1.1'
 adaptalint: 0.2.4
 adaptiveGPCA: 0.1.3
 adaptivetau: 2.2-3
-adaptr: 1.3.0
+adaptr: 1.3.1
 adaptsmoFMRI: '1.2'
 adass: 1.0.0
 adc: 1.0.0
@@ -9214,7 +9217,7 @@ botor: 0.4.0
 boundingbox: 1.0.1
 boussinesq: 1.0.4
 boutliers: 1.1-1
-box: 1.1.2
+box: 1.1.3
 boxcoxmix: '0.28'
 boxfilter: '0.1'
 boxoffice: 1.3.0
@@ -9496,6 +9499,7 @@ carrier: 0.1.1
 cartograflow: 1.0.3
 cartogram: 0.2.2
 cartogramR: 1.0-9
+cartographer: 0.2.0
 cartography: 3.1.3
 cartools: 0.1.0
 carx: 0.7.1
@@ -9586,7 +9590,7 @@ ccgarch: 0.2.3
 cchs: 0.4.2
 cchsflow: 2.1.0
 ccid: 1.2.0
-cclust: 0.6-25
+cclust: 0.6-26
 ccmEstimator: 1.0.0
 ccmReportR: 0.1.0
 ccml: 1.2.0
@@ -9779,7 +9783,7 @@ chromoMap: 4.1.1
 chromoR: '1.0'
 chromote: 0.1.1
 chromseq: 0.1.3
-chron: 2.3-60
+chron: 2.3-61
 chronicle: '0.3'
 chronicler: 0.2.1
 chronochrt: 0.1.2
@@ -10544,7 +10548,7 @@ cropgrowdays: 0.1.1
 crops: 1.0.3
 crossReg: '1.0'
 crossdes: 1.1-2
-crosshap: 1.1.0
+crosshap: 1.2.2
 crosshybDetector: 1.0.5
 crossmap: 0.4.0
 crossmatch: 1.3-1
@@ -10837,7 +10841,7 @@ datamart: 0.5.2
 datamerge: 1.0.3
 datamods: 1.4.0
 datana: 1.0.2
-datanugget: 1.0.0
+datanugget: 1.2.1
 dataonderivatives: 0.4.0
 dataone: 2.2.2
 dataonelibs: 1.0.0
@@ -10957,7 +10961,7 @@ deGradInfer: 1.0.1
 deSolve: '1.35'
 deTS: '1.0'
 deTestSet: 1.1.7.3
-deaR: '1.4'
+deaR: 1.4.1
 deadband: 0.1.0
 deal: 1.2-42
 deamer: '1.0'
@@ -11377,7 +11381,7 @@ doMIsaul: 1.0.1
 doMPI: 0.2.2
 doParallel: 1.0.17
 doRNG: 1.8.6
-doRedis: 3.0.1
+doRedis: 3.0.2
 doSMP: 1.0-1
 doSNOW: 1.0.20
 dobin: 1.0.4
@@ -12125,7 +12129,7 @@ etree: 0.1.0
 etrm: 1.0.1
 etrunct: '0.1'
 etseed: 0.1.0
-etwfe: 0.3.1
+etwfe: 0.3.2
 eudract: 0.10.1
 eulerian: '1.0'
 eulerr: 7.0.0
@@ -13958,6 +13962,7 @@ graphlayouts: 1.0.0
 graphon: 0.3.5
 graphql: 1.5.1
 graphscan: 1.1.1
+graphseg: 0.1.0
 graphsim: 1.0.3
 graphx: '1.0'
 grasp: 2.5-7
@@ -13969,10 +13974,10 @@ graticule: 0.2.0
 gratis: 1.0.3
 grattan: 2.0.0.0
 gravitas: 0.1.3
-gravity: '1.0'
+gravity: '1.1'
 gravmagsubs: 1.0.1
 greatR: 0.2.0
-grec: 1.4.1
+grec: 1.5.0
 greed: 0.6.1
 greekLetters: 0.0.7
 greeks: 1.1.0
@@ -15016,7 +15021,7 @@ iosmooth: '0.94'
 iotables: 0.9.1
 iotarelr: 0.1.4
 iotools: 0.3-2
-ip2location: 8.1.2
+ip2location: 8.1.3
 ip2proxy: 1.2.0
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
@@ -16153,7 +16158,7 @@ madgrad: 0.1.0
 maditr: 0.8.3
 madness: 0.2.7
 madr: 1.0.0
-madrat: 2.3.2
+madrat: 3.3.0
 mads: 0.1.6
 madsim: 1.2.1
 mafs: 0.0.3
@@ -16255,6 +16260,7 @@ maptree: 1.4-8
 mapview: 2.11.0
 mar1s: 2.1.1
 maraca: 0.4.0
+marble: 0.0.1
 march: 3.3.2
 marcher: 0.0-2
 marelac: 2.1.10
@@ -16326,6 +16332,7 @@ matman: 1.1.3
 matpow: 0.1.2
 matric: 0.2.0
 matricks: 0.8.2
+matrisk: 0.1.0
 matrixLaplacian: '1.0'
 matrixNormal: 0.1.1
 matrixProfile: 0.5.0
@@ -16983,7 +16990,7 @@ mmppr: '0.1'
 mmr: 0.1.0
 mmrm: 0.2.2
 mmsample: '0.1'
-mmstat4: 0.1.3
+mmstat4: 0.1.4
 mmtfa: '0.3'
 mmtsne: 0.1.0
 mnda: 1.0.9
@@ -20016,7 +20023,7 @@ rLiDAR: 0.1.5
 rLindo: 8.0.1
 rMEA: 1.2.2
 rMIDAS: 0.4.1
-rMOST: 0.0.2
+rMOST: 1.0.0
 rMR: 1.1.0
 rMVP: 1.0.6
 rMisbeta: '1.0'
@@ -20256,7 +20263,7 @@ rbi.helpers: 0.3.3
 rbibutils: 2.2.13
 rbin: 0.2.0
 rbioacc: 1.1-0
-rbioapi: 0.7.7
+rbioapi: 0.7.8
 rbiom: 1.0.3
 rbiorxiv: 0.2.1
 rbiouml: '1.11'
@@ -20372,7 +20379,7 @@ rdracor: 0.7.2
 rdrobust: 2.1.1
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
-rdss: 1.0.2
+rdss: 1.0.4
 rdtLite: '1.4'
 rdwd: 1.7.1
 rdwplus: 0.1.0
@@ -23083,7 +23090,7 @@ stoichcalc: 1.1-4
 stokes: 1.1-8
 stopdetection: 0.1.2
 stopp: 0.1.0
-stoppingrule: 0.1.0
+stoppingrule: 0.2.0
 stops: 1.0-1
 stopwords: '2.3'
 stormwindmodel: 0.1.4
@@ -23454,7 +23461,7 @@ tablerDash: 0.1.0
 tables: 0.9.10
 tableschema.r: 1.1.2
 tablesgg: 0.8-1
-tablet: 0.5.8
+tablet: 0.6.1
 tablexlsx: 0.1.0
 tabnet: 0.3.0
 taboolaR: 0.1.0
@@ -24175,7 +24182,7 @@ tsdf: 1.1-8
 tsdisagg2: 0.1.0
 tsensembler: 0.1.0
 tsentiment: 1.0.5
-tseries: 0.10-53
+tseries: 0.10-54
 tseriesChaos: 0.1-13.1
 tseriesEntropy: 0.6-0
 tseriesTARMA: 0.3-2
@@ -25143,7 +25150,7 @@ zalpha: 0.3.0
 zbank: 0.1.0
 zctaCrosswalk: 2.0.0
 zcurve: 2.3.0
-zdeskR: 0.2.0
+zdeskR: 0.3.0
 zeallot: 0.1.0
 zebu: 0.2.0.0
 zeitgebr: 0.3.5
