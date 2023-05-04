@@ -175,6 +175,7 @@ Ac3net: 1.2.2
 AcademicThemes: 0.0.1
 AcceptanceSampling: 1.0-8
 Ace: 0.0.8
+Achilles: 1.7.1
 AcousticNDLCodeR: 1.0.2
 AcrossTic: 1.0-3
 ActCR: 0.3.0
@@ -606,6 +607,7 @@ BayesQTLBIC: 1.0-2
 BayesQVGEL: 0.1.2
 BayesRGMM: '2.2'
 BayesRS: 0.1.3
+BayesRepDesign: '0.42'
 BayesReversePLLH: '1.5'
 BayesS5: '1.41'
 BayesSAE: 1.0-2
@@ -1293,6 +1295,7 @@ ConvergenceClubs: 2.2.4
 ConvergenceConcepts: 1.2.3
 ConvertPar: '0.1'
 Convolutioner: 0.1.0
+CooccurrenceAffinity: '1.0'
 CoopGame: 0.2.2
 CoordinateCleaner: 2.0-20
 CopCTS: 1.0.0
@@ -2584,6 +2587,7 @@ GROAN: 1.3.1
 GRPtests: 0.1.2
 GRRGI: '1.1'
 GRS.test: '1.2'
+GRShiny: 1.0.0
 GRSxE: 1.0.0
 GRTo: '1.3'
 GRaF: 0.1-12
@@ -3356,7 +3360,7 @@ KbMvtSkew: 1.0.2
 Kcop: 1.0.0
 KenSyn: '0.3'
 Kendall: 2.2.1
-KernSmooth: 2.23-20
+KernSmooth: 2.23-21
 KernSmoothIRT: '6.4'
 KernelICA: 0.1.0
 KernelKnn: 1.1.5
@@ -5610,6 +5614,7 @@ ROI.models.globalOptTests: 1.1-1
 ROI.models.miplib: 1.0-0
 ROI.models.netlib: 1.1-2
 ROI.plugin.alabama: 1.0-0
+ROI.plugin.clarabel: '0.1'
 ROI.plugin.clp: '0.4'
 ROI.plugin.cplex: 0.3-0
 ROI.plugin.deoptim: 1.0-0
@@ -9230,7 +9235,7 @@ bp: 2.1.0
 bpAcc: 0.0-1
 bpDir: 0.1.2
 bpa: 0.1.1
-bpbounds: 0.1.4
+bpbounds: 0.1.5
 bpca: 1.3-4
 bpcp: 1.4.2
 bpcs: 1.0.0
@@ -11529,6 +11534,7 @@ dsr: 0.2.2
 dsrTest: 1.0.0
 dssd: 1.0.0
 dst: 1.5.1
+dstabledist: 0.1.0
 dstack: 0.2.1
 dstat: 1.0.4
 dstat2x2xk: 0.2.0
@@ -13885,6 +13891,7 @@ googlesheets: 0.3.0
 googlesheets4: 1.1.0
 googletraffic: 0.1.3
 googleway: 2.7.7
+gor: '1.0'
 goric: 1.1-2
 gorica: 0.1.2
 gorpiper: 1.0.1
@@ -15145,6 +15152,7 @@ itsdm: 0.2.0
 itsmr: '1.10'
 itunesr: 0.1.3
 iv: 0.1.2
+ivDiag: 1.0.4
 iva: 0.1.0
 ivaBSS: 1.0.0
 ivbma: '1.05'
@@ -15361,7 +15369,7 @@ kernelPhil: '0.1'
 kernelPop: 1.0.2
 kernelTDA: 1.0.0
 kernelboot: 0.1.10
-kernelshap: 0.3.5
+kernelshap: 0.3.6
 kernhaz: 0.1.0
 kernlab: 0.9-32
 kernplus: 0.1.2
@@ -17954,7 +17962,7 @@ nprotreg: 1.1.0
 nprq: '0.63'
 npsf: 0.8.0
 npsm: 0.5.1
-npsp: 0.7-5
+npsp: 0.7-11
 npsr: 0.1.1
 npst: '2.0'
 npsurv: 0.5-0
@@ -18171,7 +18179,7 @@ oosp: 0.3.3
 oosse: 1.0.2
 oottest: 0.9.1
 opGMMassessment: 0.3.5
-opa: 0.7.4
+opa: 0.8.1
 opalr: 3.3.1
 opart: 2019.1.0
 opdisDownsampling: 0.8.2
@@ -21558,7 +21566,7 @@ sas7bdat: '0.7'
 sasLM: 0.9.7
 sasMap: 1.0.0
 sasfunclust: 1.0.0
-sass: 0.4.5
+sass: 0.4.6
 sassy: 1.1.0
 satdad: '1.1'
 sate: 1.1.0
@@ -21636,7 +21644,7 @@ scatr: 1.0.1
 scatteR: 0.0.1
 scatterD3: 1.0.1
 scatterPlotMatrix: 0.2.0
-scattermore: '0.8'
+scattermore: '1.0'
 scatterpie: 0.1.9
 scatterplot3d: 0.3-43
 scbursts: '1.6'
@@ -22114,7 +22122,7 @@ shortcuts: 1.4.0
 shorts: 2.4.0
 shotGroups: 0.8.2
 showimage: 1.0.0
-showtext: 0.9-5
+showtext: 0.9-6
 showtextdb: '3.0'
 shp2graph: 0-5
 shrink: 1.2.2
@@ -23382,6 +23390,7 @@ swirlify: 0.5.3
 swissMrP: '0.62'
 swissdd: 1.1.4
 swissparl: 0.2.2
+switchSelection: 1.0.0
 switchboard: '0.1'
 switchcase: 0.1.1
 switchnpreg: 0.8-0
