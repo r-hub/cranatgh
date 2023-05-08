@@ -2075,7 +2075,7 @@ EventDetectGUI: 0.3.0
 EventDetectR: 0.3.5
 EventStudy: 0.39.2
 EventWinRatios: 1.0.0
-EvidenceSynthesis: 0.4.1
+EvidenceSynthesis: 0.5.0
 EviewsR: 0.1.5
 EvoPhylo: 0.3.2
 EvoRAG: '2.0'
@@ -2952,7 +2952,7 @@ HistDat: 0.2.0
 HistData: 0.8-7
 HistogramTools: 0.3.2
 HiveR: 0.3.63
-Hmisc: 5.0-1
+Hmisc: 5.1-0
 Hmsc: 3.0-13
 HoRM: 0.1.3
 HodgesTools: 1.0.0
@@ -4901,6 +4901,7 @@ PST: '0.94'
 PSTR: 1.2.4
 PSW: 1.1-3
 PScr: '1.1'
+PStrata: 0.0.1
 PSweight: 1.1.8
 PTAk: 2.0.0
 PTE: '1.7'
@@ -5453,7 +5454,7 @@ RFreak: 0.3-0
 RGA: 0.4.2
 RGAN: 0.1.1
 RGBM: 1.0-11
-RGCCA: 3.0.0
+RGCCA: 3.0.1
 RGCxGC: 1.2.0
 RGE: '1.0'
 RGENERATE: 1.3.7
@@ -6673,7 +6674,7 @@ SSRMST: 0.1.1
 SSRTcalc: 0.3.3
 SSSR: 1.0.5
 SSVS: 2.0.0
-SSplots: 0.1.0
+SSplots: 0.1.1
 SSrat: '1.1'
 SSsimple: 0.6.6
 STAND: '2.0'
@@ -6820,7 +6821,7 @@ SherlockHolmes: 1.0.1
 ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.1.0
 ShinyImage: 0.1.0
-ShinyItemAnalysis: 1.4.2
+ShinyItemAnalysis: 1.5.0
 ShinyLink: 0.2.2
 ShinyQuickStarter: 2.0.1
 ShinyTester: 0.1.0
@@ -7644,7 +7645,7 @@ VdgRsm: '1.5'
 Vdgraph: 2.2-2
 VecStatGraphs2D: '1.8'
 VecStatGraphs3D: '1.6'
-VedicDateTime: 0.1.2
+VedicDateTime: 0.1.4
 VennDiagram: 1.7.3
 VertexSimilarity: '0.1'
 VertexSort: 0.1-1
@@ -8183,6 +8184,7 @@ ampd: '0.2'
 ampir: 1.1.0
 amt: 0.2.1.0
 anMC: 0.2.4
+anabel: 3.0.0
 anacor: 1.1-4
 anaglyph: 0.1-1
 analogsea: 1.0.7.2
@@ -8604,7 +8606,7 @@ bahc: 0.3.0
 bain: 0.2.8
 bairt: 0.1.2
 baitmet: 1.0.1
-baizer: 0.4.5
+baizer: 0.5.0
 bakR: 0.4.0
 bakeoff: 0.2.0
 baker: 1.0.0
@@ -9212,7 +9214,7 @@ bootRes: 1.2.4
 bootSVD: '1.1'
 bootStepAIC: 1.3-0
 bootTimeInference: 0.1.0
-bootUR: 0.5.0
+bootUR: 1.0.0
 bootcluster: 0.3.2
 bootf2: 0.4.1
 bootfs: 1.4.2
@@ -9749,7 +9751,7 @@ checkmate: 2.2.0
 checkpoint: 1.0.2
 checkr: 0.5.0
 cheddar: 0.1-638
-cheem: 0.2.0
+cheem: 0.3.0
 cheese: 0.1.2
 chemCal: 0.2.3
 chemmodlab: 2.0.0
@@ -10370,7 +10372,7 @@ corpcor: 1.6.10
 corpora: 0.5-1
 corporaexplorer: 0.8.6
 corpus: 0.10.2
-corpustools: 0.4.10
+corpustools: 0.5.1
 corr2D: 1.0.3
 corrDNA: 1.0.1
 corrarray: 1.2.0
@@ -10435,7 +10437,7 @@ covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.3
 covid19.analytics: 2.1.3
-covid19br: 0.1.4
+covid19br: 0.1.5
 covid19brazil: 0.1.0
 covid19dbcand: 0.1.1
 covid19france: 0.1.0
@@ -10520,6 +10522,7 @@ crawl: 2.3.0
 crayon: 1.5.2
 crayons: 0.0.2
 crblocks: 1.0-0
+crc32c: 0.0.1
 crch: 1.1-2
 crctStepdown: 0.2.1
 createLogicalPCM: 0.1.0
@@ -10568,7 +10571,7 @@ crosshap: 1.2.2
 crosshybDetector: 1.0.5
 crossmap: 0.4.0
 crossmatch: 1.3-1
-crossnma: 1.0.1
+crossnma: 1.1.0
 crossrun: 0.1.1
 crosstable: 0.6.1
 crosstalk: 1.2.0
@@ -11318,7 +11321,7 @@ distillML: 0.1.0.13
 distillery: 1.2-1
 disto: 0.2.0
 distory: 1.4.4
-distr: 2.9.1
+distr: 2.9.2
 distr6: 1.6.9
 distrDoc: 2.8.1
 distrEllipse: 2.8.1
@@ -12076,7 +12079,7 @@ erboost: '1.3'
 ercv: 1.0.1
 erer: '3.1'
 erfe: 0.0.1
-ergMargins: 0.1.3
+ergMargins: 0.1.3.1
 ergm: 4.4.0
 ergm.count: 4.1.1
 ergm.ego: 1.0.1
@@ -12220,7 +12223,7 @@ exams.mylearn: '1.4'
 exams2learnr: 0.1-0
 exams2sakai: '0.3'
 exceedProb: 0.0.1
-excel.link: 0.9.10
+excel.link: 0.9.11
 excelR: 0.4.0
 exceldata: 0.1.1.2
 excelstrippr: 0.1.2
@@ -12307,7 +12310,7 @@ ez: 4.4-0
 ez.combat: 1.0.0
 ezCutoffs: 1.0.1
 ezEDA: 0.1.1
-ezcox: 1.0.2
+ezcox: 1.0.4
 ezec: 1.0.1
 ezglm: '1.0'
 ezknitr: 0.6.2
@@ -12423,7 +12426,7 @@ farr: 0.2.30
 farrell: 0.2.1
 farsi: '1.0'
 farver: 2.1.1
-fasano.franceschini.test: 2.1.1
+fasano.franceschini.test: 2.2.0
 fasi: 1.0.0
 fasjem: 1.1.2
 fasstr: 0.5.1
@@ -13605,7 +13608,7 @@ ggpath: 1.0.1
 ggpattern: 1.0.1
 ggpcp: 0.2.0
 ggperiodic: 1.0.3
-ggpicrust2: 1.6.0
+ggpicrust2: 1.6.3
 ggpie: 0.2.5
 ggplate: 0.0.1
 ggplot: 0.4.2
@@ -13639,6 +13642,7 @@ ggredist: 0.0.2
 ggrepel: 0.9.3
 ggridges: 0.5.4
 ggrisk: '1.3'
+ggrounded: 0.0.2
 ggroups: 2.1.2
 ggsci: 3.0.0
 ggseas: 0.5.4
@@ -14532,7 +14536,7 @@ httping: 0.2.0
 httpproblems: 1.0.1
 httptest: 4.1.0
 httptest2: 0.1.0
-httpuv: 1.6.9
+httpuv: 1.6.10
 httr: 1.4.5
 httr2: 0.2.2
 hubeau: 0.4.0
@@ -14722,7 +14726,7 @@ icensmis: 1.5.0
 icertool: 0.0.3
 icesAdvice: 2.1.1
 icesConnect: 1.0.0
-icesDatras: 1.4.0
+icesDatras: 1.4.1
 icesDatsu: 1.1.0
 icesDatsuQC: 1.0.1
 icesSAG: 1.4.0
@@ -15113,7 +15117,7 @@ isdals: 3.0.0
 isdparser: 0.4.0
 isingLenzMC: 0.2.5
 island: 0.2.9
-islasso: 1.4.3
+islasso: 1.5.0
 ismev: '1.42'
 isni: '1.3'
 isnullptr: 1.0.1
@@ -15436,7 +15440,7 @@ kiwisR: 0.2.0
 kknn: 1.3.1
 kko: 1.0.1
 klaR: 1.7-2
-klassR: 0.2.0
+klassR: 0.2.1
 klausuR: 0.12-14
 kldtools: '1.2'
 klexdatr: 0.1.2
@@ -16608,7 +16612,7 @@ metadat: 1.2-0
 metadynminer: 0.1.7
 metadynminer3d: 0.0.2
 metafolio: 0.1.1
-metafor: 4.0-0
+metafor: 4.2-0
 metaforest: 0.1.3
 metafuse: 2.0-1
 metagam: 0.4.0
@@ -16717,6 +16721,7 @@ micEcdat: 0.1-1
 micEcon: 0.6-18
 micEconAids: 0.6-20
 micEconCES: 1.0-2
+micEconDistRay: 0.1-0
 micEconIndex: 0.1-8
 micEconSNQP: 0.6-10
 micar: 1.1.2
@@ -18262,7 +18267,7 @@ optbin: '1.2'
 optedr: 2.0.0
 optextras: 2019-12.4
 optiRum: 0.41.1
-optiSel: 2.0.6
+optiSel: 2.0.7
 optiSolve: '1.0'
 opticskxi: '0.1'
 opticut: 0.1-2
@@ -21012,6 +21017,7 @@ roads: 1.1.0
 roahd: 1.4.3
 robCompositions: 2.3.1
 robFitConGraph: 0.4.1
+robStepSplitReg: 1.0.0
 robber: 0.2.3
 robcbi: 1.1-3
 robcor: 0.1-6.1
@@ -21323,7 +21329,7 @@ rsvg: 2.4.0
 rswipl: 9.1.9
 rsyncrosim: 1.4.2
 rsyntax: 0.1.4
-rsyslog: 1.0.2
+rsyslog: 1.0.3
 rt: 1.1.0
 rt.test: 1.18.7.9
 rt3: 0.1.2
@@ -21715,7 +21721,7 @@ scout: 1.0.4
 scperturbR: 0.1.0
 scphaser: 1.0.0
 scpi: 2.2.2
-scplot: 0.3.0
+scplot: 0.3.1
 scpm: 2.0.0
 scpoisson: 0.0.1
 scqe: 1.0.0
@@ -23402,7 +23408,7 @@ sweSCB: 0.3.6
 sweater: 0.1.7
 sweep: 0.2.3
 sweidnumbr: 1.4.2
-swephR: 0.3.0
+swephR: 0.3.1
 swfscAirDAS: 0.2.3
 swfscDAS: 0.6.1
 swfscMisc: '1.6'
@@ -23414,7 +23420,7 @@ swirlify: 0.5.3
 swissMrP: '0.62'
 swissdd: 1.1.4
 swissparl: 0.2.2
-switchSelection: 1.0.0
+switchSelection: 1.0.1
 switchboard: '0.1'
 switchcase: 0.1.1
 switchnpreg: 0.8-0
@@ -24209,7 +24215,7 @@ tsPI: 1.0.3
 tsSelect: 0.1.8
 tsallisqexp: 0.9-4
 tsapp: 1.0.4
-tsbox: '0.4'
+tsbox: 0.4.1
 tsbridge: '1.1'
 tsbugs: 1.2.1
 tsc: 1.0-3
@@ -24286,6 +24292,7 @@ turfR: 0.8-7
 turner: 0.1.7
 tutoR: 0.3.2
 tutorial: 0.4.3
+tutorial.helpers: 0.2.2
 tuts: 0.1.1
 tvR: 0.3.2
 tvReg: 0.5.8
@@ -25169,7 +25176,7 @@ ymd: 0.0.1
 ymlthis: 0.1.7
 ympes: 0.4.0
 yonder: 0.2.0
-yorkr: 0.0.40
+yorkr: 0.0.41
 yotover: 0.3.5
 youngSwimmers: 0.0.1
 youtubecaption: 1.0.0
