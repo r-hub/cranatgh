@@ -116,6 +116,7 @@ APML0: '0.10'
 APPEstimation: 0.1.1
 APSIM: 0.9.3
 APSIMBatch: 0.1.0.2374
+APackOfTheClones: 0.1.2
 APfun: 0.1.6
 APtools: 6.8.8
 AQEval: 0.5.2
@@ -590,6 +591,7 @@ BayesMallows: 1.3.0
 BayesMassBal: 1.1.0
 BayesMed: 1.0.1
 BayesMixSurv: 0.9.1
+BayesMortalityPlus: 0.1.0
 BayesMultMeta: 0.1.1
 BayesMultiMode: 0.5.1
 BayesNI: '0.1'
@@ -1690,7 +1692,7 @@ Deriv: 4.1.3
 DescTools: 0.99.48
 DescToolsAddIns: '1.10'
 DescrTab2: 2.1.16
-DescribeDF: 0.2.0
+DescribeDF: 0.2.1
 DescribeDisplay: 0.2.9
 DescriptiveStats.OBeu: 1.3.2
 DescriptiveWH: 1.0.3
@@ -3667,6 +3669,7 @@ MAPITR: 1.1.2
 MAPLES: '1.0'
 MAR1: '1.0'
 MARSANNhybrid: 0.1.0
+MARSGWR: 0.1.0
 MARSS: 3.11.4
 MARSSVRhybrid: 0.1.0
 MARVEL: 1.4.0
@@ -5720,7 +5723,7 @@ RSGHB: 1.2.2
 RSIP: 1.0.0
 RSKC: 2.4.2
 RSMET: 1.3.8
-RSNNS: 0.4-15
+RSNNS: 0.4-16
 RSNPset: 0.5.3
 RSP: '0.1'
 RSPS: '1.0'
@@ -7079,6 +7082,7 @@ StochBlock: 0.1.2
 StochKit2R: '0.3'
 StochaTR: 1.0.4
 StockChina: 0.3.1
+StockDistFit: 1.0.0
 Storm: '1.2'
 StrainRanking: '1.2'
 StratSel: '1.3'
@@ -7128,7 +7132,7 @@ SuperpixelImageSegmentation: 1.0.5
 Superpower: 0.2.0
 SuppDists: 1.1-9.7
 SurfaceReconstruction: 0.1.0
-SurfaceTortoise: 1.0.2
+SurfaceTortoise: 2.0.1
 Surrogate: '2.8'
 SurrogateOutcome: '1.1'
 SurrogateRegression: 0.6.0
@@ -7684,6 +7688,7 @@ WASP: 1.4.3
 WCE: 1.0.2
 WCM: 0.2.2
 WCQ: '0.2'
+WCluster: 1.1.0
 WDI: 2.7.8
 WEE: '1.0'
 WEGE: 0.1.0
@@ -7826,6 +7831,7 @@ ZINAR1: 0.1.0
 ZINARp: 0.1.0
 ZIPBayes: 1.0.2
 ZIPFA: 0.8.1
+ZIPG: '1.0'
 ZIprop: 0.1.1
 ZOIP: '0.1'
 ZRA: '0.2'
@@ -8502,6 +8508,7 @@ auth0: 0.2.3
 auto.pca: '0.3'
 autoBagging: 0.1.0
 autoCovariateSelection: 1.0.0
+autoEnsemble: '0.2'
 autoFC: 0.1.2
 autoFRK: 1.4.3
 autoGO: 0.9.1
@@ -9193,7 +9200,7 @@ bomrang: 0.7.4
 bondAnalyst: 1.0.1
 bonn: 1.0.2
 bonsai: 0.2.1
-bookdown: '0.33'
+bookdown: '0.34'
 bookdownplus: 1.5.8
 boolean: 2.0-2
 boolean3: 3.1.6
@@ -10896,7 +10903,7 @@ datawizard: 0.7.1
 datazoom.amazonia: 1.0.0
 date: 1.2-42
 datefixR: 1.4.1
-datelife: 0.6.6
+datelife: 0.6.7
 daterangepicker: 0.1.0
 datetime: 0.1.4
 datetimeoffset: 0.2.1
@@ -11714,7 +11721,7 @@ ebal: 0.1-8
 ebci: 1.0.0
 ebdbNet: 1.2.7
 ebimetagenomics: '0.6'
-ebirdst: 2.2021.2
+ebirdst: 2.2021.3
 ebmc: 1.0.1
 ebmstate: 0.1.3
 ebnm: 1.0-9
@@ -12585,6 +12592,7 @@ fergm: 1.1.4
 fermicatsR: '1.4'
 ferrn: 0.0.2
 fertilmodel: '1.1'
+fetch: 0.1.2
 fetchGoogleAnalyticsR: 0.1.0
 fetchR: 2.1-1
 fetchSalesforceR: 0.1.0
@@ -13619,6 +13627,7 @@ ggplate: 0.0.1
 ggplot: 0.4.2
 ggplot.multistats: 1.0.0
 ggplot2: 3.4.2
+ggplot2.utils: 0.2.1
 ggplot2movies: 0.0.1
 ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
@@ -16818,7 +16827,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 0.8.3
+mirai: 0.8.4
 mirf: '1.0'
 mirt: 1.38.1
 mirtCAT: 1.12.2
@@ -17519,6 +17528,7 @@ mxkssd: '1.2'
 mxmmod: 1.1.0
 mxnorm: 1.0.3
 myCRAN: '1.0'
+myClim: 1.0.1
 myTAI: 0.9.3
 mycobacrvR: '1.1'
 mycor: 0.1.1
@@ -18088,7 +18098,7 @@ oce: 1.8-0
 oceCens: 0.1.1
 ocean: 0.2-4
 oceanexplorer: 0.0.2
-oceanic: 0.1.5
+oceanic: 0.1.6
 oceanis: 1.8.5
 oceanmap: 0.1.1
 oceanwaves: 0.2.0
@@ -21544,7 +21554,7 @@ salesforcer: 1.0.1
 salso: 0.3.29
 salty: 0.1.0
 sambia: 0.1.0
-samc: 3.2.0
+samc: 3.2.1
 samon: 4.0.1
 sampSurf: 0.7-6
 sampfling: 0.6-3.1
@@ -22042,6 +22052,7 @@ shinipsum: 0.1.0
 shiny: 1.7.4
 shiny.benchmark: 0.1.1
 shiny.blueprint: 0.2.0
+shiny.exe: 0.1.0
 shiny.fluent: 0.3.0
 shiny.i18n: 0.3.0
 shiny.info: 0.2.0
@@ -22259,6 +22270,7 @@ simode: 1.2.0
 simodels: 0.0.5
 simone: 1.0-4
 simphony: 1.0.3
+simplace: 5.0.11
 simplanonym: 0.1.0
 simpleCache: 0.4.2
 simpleFDR: '1.1'
@@ -22274,7 +22286,7 @@ simplegraph: 1.0.0
 simplegraphdb: 2021.03.10
 simplermarkdown: 0.0.6
 simpleroptions: 0.2.0
-simplevis: 7.0.0
+simplevis: 7.1.0
 simplexdesign: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
@@ -22715,14 +22727,14 @@ spatstat.Knet: 3.0-2
 spatstat.core: 2.4-4
 spatstat.data: 3.0-1
 spatstat.explore: 3.1-0
-spatstat.geom: 3.1-0
+spatstat.geom: 3.2-1
 spatstat.gui: 3.0-1
 spatstat.linnet: 3.1-0
 spatstat.local: 5.0-1
 spatstat.model: 3.2-3
 spatstat.random: 3.1-4
 spatstat.sparse: 3.0-1
-spatstat.utils: 3.0-2
+spatstat.utils: 3.0-3
 spatsurv: 1.8-2
 spbabel: 0.6.0
 spc: 0.6.7
@@ -23814,6 +23826,7 @@ tidyfit: 0.6.3
 tidyformula: 0.1.0
 tidyfst: 1.7.6
 tidyft: 0.5.7
+tidygam: 0.2.0
 tidygapminder: 0.1.1
 tidygate: 0.4.9
 tidygenomics: 0.1.2
