@@ -492,6 +492,7 @@ BRETIGEA: 1.0.3
 BRINDA: 0.1.5
 BRISC: 1.0.5
 BRL: 0.1.0
+BRVM: 5.0.0
 BRugs: 0.9-1
 BSBT: 1.2.1
 BSDA: 1.2.1
@@ -596,7 +597,7 @@ BayesNSGP: 0.1.2
 BayesNetBP: 1.6.1
 BayesNetDiscovery: '0.1'
 BayesOrdDesign: 0.1.2
-BayesPPD: 1.1.0
+BayesPPD: 1.1.1
 BayesPanel: 0.1-2
 BayesPen: '1.0'
 BayesPieceHazSelect: 1.1.0
@@ -1227,6 +1228,7 @@ ColorNameR: 0.1.0
 ColorPalette: 1.0-1
 ComICS: 1.0.4
 ComPairWise: '1.01'
+ComRiskModel: 0.1.0
 CombMSC: 1.4.2.1
 CombinS: 1.1-1
 Combine: '1.0'
@@ -1769,7 +1771,7 @@ DiversityOccupancy: 1.0.6
 DiversitySampler: '2.1'
 DnE: 2.1.0
 DoE.MIParray: '1.0'
-DoE.base: 1.2-1
+DoE.base: 1.2-2
 DoE.multi.response: 0.1.0
 DoE.wrapper: '0.11'
 DoEstRare: '0.2'
@@ -3268,6 +3270,7 @@ JFM: '1.0'
 JGEE: '1.1'
 JGL: 2.3.1
 JGR: 1.9-1
+JICO: '0.0'
 JJcorr: '0.01'
 JLLprod: 1.0.1
 JLPM: 1.0.1
@@ -4064,7 +4067,7 @@ MazamaLocationUtils: 0.3.8
 MazamaRollUtils: 0.1.3
 MazamaSpatialPlots: 0.2.0
 MazamaSpatialUtils: 0.8.5
-MazamaTimeSeries: 0.2.10
+MazamaTimeSeries: 0.2.12
 MazamaWebUtils: 0.1.7
 McParre: 1.0.1
 McSpatial: '2.0'
@@ -4596,7 +4599,7 @@ Ohmage: 2.11-4.1
 OjaNP: 1.0-0
 OkNNE: 1.0.1
 OligoSpecificitySystem: '1.3'
-OlinkAnalyze: 3.4.0
+OlinkAnalyze: 3.4.1
 OlympicRshiny: 1.0.0
 OmegaG: 1.0.1
 OmicInt: 1.1.7
@@ -7028,7 +7031,7 @@ SplitSoftening: 2.1-0
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.14.0
+SqlRender: 1.15.0
 SqueakR: 1.3.0
 Sshaped: '1.1'
 Sstack: 1.0.1
@@ -10689,6 +10692,7 @@ cuperdec: 1.1.0
 curephEM: 0.2.5
 curl: 5.0.0
 curlconverter: 0.7.0
+currencyapi: 0.1.0
 currentSurvival: '1.1'
 currr: 0.1.2
 curry: 0.1.1
@@ -10826,7 +10830,7 @@ dashboardthemes: 1.1.6
 dat: 0.5.0
 data.table: 1.14.8
 data.tree: 1.0.0
-data.validator: 0.1.6
+data.validator: 0.2.0
 data.world: 1.2.2
 data360r: 1.0.9
 dataCompareR: 0.1.4
@@ -11495,6 +11499,7 @@ drawExpression: '1.0'
 drawer: 0.2.0.1
 drawsample: 1.0.1
 drc: 3.0-1
+drcte: 1.0.30
 drda: 2.0.3
 dreamer: 3.1.0
 dreamerr: 1.2.3
@@ -14324,7 +14329,7 @@ hergm: 4.1-10
 heritEWAS: 0.2.0
 heritability: '1.3'
 hermite: 1.1.2
-hermiter: 2.2.0
+hermiter: 2.3.0
 hero: 0.4.7
 hesim: 0.5.3
 het.test: '0.1'
@@ -14537,8 +14542,8 @@ httpproblems: 1.0.1
 httptest: 4.1.0
 httptest2: 0.1.0
 httpuv: 1.6.10
-httr: 1.4.5
-httr2: 0.2.2
+httr: 1.4.6
+httr2: 0.2.3
 hubeau: 0.4.0
 hudr: 1.2.0
 hues: 0.2.0
@@ -15103,7 +15108,7 @@ irt: 0.2.7
 irtDemo: 0.1.4
 irtGUI: '0.2'
 irtProb: '1.2'
-irtQ: 0.1.0
+irtQ: 0.1.1
 irtawsi: 0.3.4
 irtoys: 0.2.2
 irtpwr: 1.0.0
@@ -15207,7 +15212,7 @@ jaccard: 0.1.0
 jack: 5.0.1
 jackalope: 1.1.3
 jackknifeKME: '1.2'
-jackknifeR: 1.0.0
+jackknifeR: 1.2.0
 jackstrap: 0.1.0
 jackstraw: 1.3.8
 jacobi: 2.3.0
@@ -16289,7 +16294,7 @@ maptpx: 1.9-7
 maptree: 1.4-8
 mapview: 2.11.0
 mar1s: 2.1.1
-maraca: 0.4.0
+maraca: 0.5.0
 marble: 0.0.1
 march: 3.3.2
 marcher: 0.0-2
@@ -17186,7 +17191,7 @@ mousetrack: 1.0.0
 mousetrap: 3.2.1
 movMF: 0.2-7
 move: 4.1.12
-moveHMM: '1.8'
+moveHMM: '1.9'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.3
 movecost: '2.0'
@@ -20981,7 +20986,7 @@ rmongodb: 1.8.0
 rmoo: 0.2.0
 rmp: '2.0'
 rmpw: 0.0.4
-rms: 6.6-0
+rms: 6.7-0
 rms.gof: '1.0'
 rmsb: 0.1.0
 rmsfact: 0.0.3
@@ -21100,7 +21105,7 @@ rollmatch: 2.0.2
 rollply: 0.5.0
 roloc: 0.1-1
 rolocISCCNBS: '0.1'
-rolog: 0.9.12
+rolog: 0.9.13
 rolr: 1.0.0
 rolypoly: 0.1.0
 romero.gateway: 0.4.4
@@ -22936,7 +22941,7 @@ ssgraph: '1.15'
 ssh: 0.8.2
 ssh.utils: '1.0'
 sship: 0.9.0
-ssifs: 1.0.0
+ssifs: 1.0.1
 ssimparser: 0.1.1
 ssize.fdr: '1.3'
 ssizeRNA: 1.3.2
@@ -23505,7 +23510,7 @@ tablerDash: 0.1.0
 tables: 0.9.17
 tableschema.r: 1.1.2
 tablesgg: 0.8-1
-tablet: 0.6.1
+tablet: 0.6.2
 tablexlsx: 0.1.0
 tabnet: 0.3.0
 taboolaR: 0.1.0
@@ -24746,7 +24751,7 @@ vrmlgen: 1.4.9
 vrnmf: 1.0.2
 vroom: 1.6.3
 vrtest: '1.1'
-vscc: '0.4'
+vscc: '0.5'
 vsd: 0.1.0
 vsgoftest: 1.0-1
 vsp: 0.1.1
@@ -24782,7 +24787,7 @@ wahc: '1.0'
 waiter: 0.2.5
 wakefield: 0.3.6
 wal: 0.1.0
-waldo: 0.5.0
+waldo: 0.5.1
 waldwolf: '0.1'
 walkalytics: 0.1.0
 walker: 1.0.6-1
@@ -24885,7 +24890,7 @@ weightTAPSPACK: '0.1'
 weightedCL: '0.5'
 weightedGCM: 0.1.0
 weightedKmeans: 1.2.0
-weightedRank: 0.1.6
+weightedRank: 0.2.5
 weightedScores: 0.9.5.3
 weightedZdiff: 0.1.0
 weightr: 2.0.2
