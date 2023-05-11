@@ -651,7 +651,7 @@ Bchron: 4.7.6
 Bclim: 3.1.2
 BeSS: 2.0.3
 BeastJar: 1.10.6
-BeeGUTS: 1.0.0
+BeeGUTS: 1.1.2
 Benchmarking: '0.31'
 BenfordTests: 1.2.0
 Bergm: 5.0.5
@@ -1393,7 +1393,7 @@ D2C: 1.2.1
 D2MCS: 1.0.1
 D3GB: '1.1'
 D3M: 0.41.1
-D3mirt: 1.0.2
+D3mirt: 1.0.3
 D3partitionR: 0.5.0
 D4TAlink.light: 2.1.11
 DA: 1.2.0
@@ -2195,6 +2195,7 @@ FLCore: 1.4-4
 FLEDA: 1.4-3
 FLIM: '1.2'
 FLLat: 1.2-1
+FLORAL: 0.1.0
 FLR: '1.0'
 FLSSS: 9.1.1
 FLightR: 0.5.2
@@ -4380,7 +4381,7 @@ NITPicker: 1.0.1
 NLMR: '1.1'
 NLP: 0.2-1
 NLPclient: '1.0'
-NLPutils: 0.0-5
+NLPutils: 0.0-5.1
 NLRoot: '1.0'
 NLSdata: '0.9'
 NMADiagT: 0.1.2
@@ -4548,6 +4549,7 @@ ODataQuery: 0.5.3
 OECD: 0.2.5
 OEFPIL: 0.1.1
 OGI: 1.0.0
+OHCSpackage: 0.1.5
 OHPL: '1.4'
 OIdata: '1.0'
 OIsurv: '0.2'
@@ -5244,7 +5246,7 @@ QZ: 0.2-2
 Qapprox: 0.2.0
 Qardl: 0.1.1
 Qest: 1.0.0
-Qindex: 0.1.2
+Qindex: 0.1.3
 QoLMiss: 0.1.0
 QoLR: 1.0.3
 QregBB: 1.0.0
@@ -5372,6 +5374,7 @@ RCGLS: 1.0.3
 RCLabels: 0.1.4
 RCMIP5: 1.2.0
 RCMinification: '1.2'
+RCPA: 0.1.0
 RCPA3: 1.1.1
 RCPmod: '2.192'
 RCRnorm: 0.0.2
@@ -5792,7 +5795,7 @@ RTriangle: 1.6-0.12
 RUVIIIC: 1.0.19
 RUnit: 0.4.32
 RVA: 0.0.5
-RVAideMemoire: 0.9-81-2
+RVAideMemoire: 0.9-82-2
 RVCompare: 0.1.6
 RVFam: '1.1'
 RVIpkg: 0.3.1
@@ -5880,7 +5883,7 @@ RationalMatrix: 1.0.0
 Ravages: 1.1.3
 RavenR: 2.2.0
 RawHummus: 0.3.3
-Rbeast: 0.9.7
+Rbeast: 0.9.8
 Rbent: 0.1.0
 Rbgs: '0.2'
 RbioRXN: 1.5.1
@@ -6469,7 +6472,7 @@ SE.IGE: '1.0'
 SEA: 2.0.1
 SEAA: 0.9.6
 SEAGLE: 1.0.1
-SEAHORS: 1.6.1
+SEAHORS: 1.7.0
 SEAsic: '0.1'
 SECFISH: 0.1.7
 SECP: 0.1.5
@@ -7380,7 +7383,7 @@ TensorClustering: 1.0.2
 TensorComplete: 0.2.0
 TensorPreAve: 1.1.0
 TensorTest2D: 1.1.1
-Ternary: 2.1.3
+Ternary: 2.2.0
 TesiproV: 0.9.2
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
@@ -8196,7 +8199,7 @@ ampd: '0.2'
 ampir: 1.1.0
 amt: 0.2.1.0
 anMC: 0.2.4
-anabel: 3.0.0
+anabel: 3.0.1
 anacor: 1.1-4
 anaglyph: 0.1-1
 analogsea: 1.0.7.2
@@ -8364,7 +8367,7 @@ ari: 0.3.5
 ariExtra: 0.3.1
 aricode: 1.0.2
 arkdb: 0.0.16
-arkhe: 1.1.0
+arkhe: 1.2.0
 arm: 1.13-1
 armada: 0.1.0
 armspp: 0.0.2
@@ -9052,7 +9055,7 @@ biolink: 0.1.7
 biom: 0.3.12
 biomartr: 1.0.3
 biometryassist: 1.1.2
-biomod2: 4.2-2
+biomod2: 4.2-3
 biomonCore: 1.3.50
 bionetdata: '1.1'
 biopara: '1.5'
@@ -9115,7 +9118,7 @@ blackbox: 1.1.43
 blaise: 1.3.9
 blandr: 0.5.1
 blapsr: 0.6.1
-blaster: 1.0.4
+blaster: 1.0.6
 blastula: 0.3.3
 blatent: 0.1.1
 blatr: 1.0.1
@@ -10535,7 +10538,7 @@ crawl: 2.3.0
 crayon: 1.5.2
 crayons: 0.0.2
 crblocks: 1.0-0
-crc32c: 0.0.1
+crc32c: 0.0.2
 crch: 1.1-2
 crctStepdown: 0.2.1
 createLogicalPCM: 0.1.0
@@ -10909,7 +10912,7 @@ datefixR: 1.4.1
 datelife: 0.6.7
 daterangepicker: 0.2.0
 datetime: 0.1.4
-datetimeoffset: 0.2.1
+datetimeoffset: 0.3.1
 datetimeutils: 0.6-1
 datetoiso: 0.1.0
 dateutils: 0.1.5
@@ -11121,6 +11124,7 @@ designmatch: 0.4.1
 designr: 0.1.13
 designsize: 0.1.0
 desirability: '2.1'
+desirability2: 0.0.1
 desire: 1.0.7
 desla: 0.2.0
 desplot: '1.10'
@@ -11632,7 +11636,7 @@ dynamichazard: 1.0.2
 dynamite: 1.4.1
 dynamo: '1.0'
 dynatop: 0.2.3
-dynatopGIS: 0.2.4
+dynatopGIS: 0.2.5
 dynatopmodel: 1.2.1
 dyncomp: 0.0.2-1
 dyndimred: 1.0.4
@@ -11738,7 +11742,7 @@ ecce: 1.0.9
 ecd: 0.9.2.4
 ecdfHT: 0.1.1
 ecespa: 1.1-17
-ech: 0.1.2.0
+ech: 0.1.3
 echarts4r: 0.4.4
 echarty: 1.5.0
 echelon: 0.1.0
@@ -11923,6 +11927,7 @@ em: 1.0.0
 em2: '0.9'
 emIRT: 0.0.13
 emailjsr: 0.0.2
+emailvalidation: 0.1.0
 emax.glm: 0.1.2
 emayili: 0.7.15
 emba: 0.1.8
@@ -12441,7 +12446,7 @@ farr: 0.2.30
 farrell: 0.2.1
 farsi: '1.0'
 farver: 2.1.1
-fasano.franceschini.test: 2.2.0
+fasano.franceschini.test: 2.2.1
 fasi: 1.0.0
 fasjem: 1.1.2
 fasstr: 0.5.1
@@ -13660,7 +13665,7 @@ ggredist: 0.0.2
 ggrepel: 0.9.3
 ggridges: 0.5.4
 ggrisk: '1.3'
-ggrounded: 0.0.2
+ggrounded: 0.0.3
 ggroups: 2.1.2
 ggsci: 3.0.0
 ggseas: 0.5.4
@@ -14555,7 +14560,7 @@ httping: 0.2.0
 httpproblems: 1.0.1
 httptest: 4.1.0
 httptest2: 0.1.0
-httpuv: 1.6.10
+httpuv: 1.6.11
 httr: 1.4.6
 httr2: 0.2.3
 hubeau: 0.4.0
@@ -15074,6 +15079,7 @@ ip2proxy: 1.2.0
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
 ipaddress: 1.0.1
+ipbase: 0.1.1
 ipc: 0.1.4
 ipcwswitch: 1.0.4
 ipdmeta: '2.4'
@@ -15086,6 +15092,7 @@ ipfr: 1.0.2
 ipft: 0.7.2
 ipify: 0.2.0
 ipkg: 1.0.5
+iplookupapi: 0.1.0
 iplots: 1.1-8
 ipmisc: 6.0.2
 ipmr: 0.0.7
@@ -15415,7 +15422,7 @@ kernscr: 1.0.6
 kernstadapt: 0.0.2
 kesernetwork: 0.1.0
 kexpmv: 0.0.3
-keyATM: 0.4.2
+keyATM: 0.5.0
 keyToEnglish: 0.2.1
 keyholder: 0.1.7
 keyplayer: 1.0.3
@@ -16357,7 +16364,7 @@ matR: 0.9.1
 matahari: 0.1.3
 match2C: 1.2.4
 matchFeat: '1.0'
-matchMulti: 1.1.11
+matchMulti: 1.1.12
 matchbook: 1.0.7
 matchingMarkets: 1.0-2
 matchingR: 1.3.3
@@ -16832,7 +16839,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 0.8.4
+mirai: 0.8.7
 mirf: '1.0'
 mirt: 1.38.1
 mirtCAT: 1.12.2
@@ -16864,7 +16871,7 @@ missRanger: 2.2.1
 missSBM: 1.0.3
 missSOM: 1.0.1
 missingHE: 1.5.0
-missoNet: 1.0.0
+missoNet: 1.1.0
 mistat: 2.0.4
 mistr: 0.0.6
 mistral: 2.2.1
@@ -16943,7 +16950,7 @@ mlbstats: 0.1.0
 mlbstatsR: 0.1.0.3
 mldr: 0.4.3
 mldr.datasets: 0.4.2
-mldr.resampling: '0.2'
+mldr.resampling: 0.2.1
 mle.tools: 1.0.0
 mleap: 1.1.0
 mlearning: 1.1.1
@@ -17040,7 +17047,7 @@ mmppr: '0.1'
 mmr: 0.1.0
 mmrm: 0.2.2
 mmsample: '0.1'
-mmstat4: 0.1.4
+mmstat4: 0.1.5
 mmtfa: '0.3'
 mmtsne: 0.1.0
 mnda: 1.0.9
@@ -17903,7 +17910,7 @@ noisyr: 1.0.0
 nomadlist: 0.1.0
 nombre: 0.4.1
 nomclust: 2.6.2
-nominatimlite: 0.1.6
+nominatimlite: 0.2.0
 nomine: 1.0.0
 nomisr: 0.4.7
 nomnoml: 0.2.6
@@ -19486,6 +19493,7 @@ presmTP: 1.1.0
 press: '2.0'
 pressData: '2.0'
 presser: 1.1.0
+pressuRe: 0.1.0
 prettifyAddins: 2.5.0
 prettyB: 0.2.2
 prettyGraphs: 2.1.6
@@ -19790,7 +19798,7 @@ qclust: '1.0'
 qcpm: '0.2'
 qcr: '1.4'
 qcv: '1.0'
-qdap: 2.4.3
+qdap: 2.4.6
 qdapDictionaries: 1.0.7
 qdapRegex: 0.7.5
 qdapTools: 1.3.7
@@ -21743,7 +21751,7 @@ scoringutils: 1.1.0
 scout: 1.0.4
 scperturbR: 0.1.0
 scphaser: 1.0.0
-scpi: 2.2.2
+scpi: 2.2.3
 scplot: 0.3.1
 scpm: 2.0.0
 scpoisson: 0.0.1
@@ -22179,7 +22187,7 @@ shp2graph: 0-5
 shrink: 1.2.2
 shrinkDSM: 0.2.0
 shrinkTVP: 2.0.6
-shroomDK: 0.1.1
+shroomDK: 0.2.0
 shuffle: 1.0.1
 shuffleCI: 0.1.0
 shutterplot: 0.1.0
@@ -22200,7 +22208,7 @@ sifds: 0.9-1
 sift: 0.1.0
 sig: 0.0-6
 sigInt: 0.2.0
-sigQC: 0.1.22
+sigQC: 0.1.23
 sigclust: 1.1.0.1
 sigloc: 0.0.4
 sigma2tools: 1.2.5
@@ -22570,7 +22578,7 @@ soma: 1.2.0
 someKfwer: '1.2'
 someMTP: 1.4.1.1
 somebm: '0.1'
-sommer: 4.2.1.2
+sommer: 4.3.0
 somplot: 1.6.4
 somspace: 1.2.4
 sonar: 1.0.2
@@ -22741,7 +22749,7 @@ spatstat.gui: 3.0-1
 spatstat.linnet: 3.1-0
 spatstat.local: 5.0-1
 spatstat.model: 3.2-3
-spatstat.random: 3.1-4
+spatstat.random: 3.1-5
 spatstat.sparse: 3.0-1
 spatstat.utils: 3.0-3
 spatsurv: 1.8-2
@@ -23533,7 +23541,7 @@ tableschema.r: 1.1.2
 tablesgg: 0.8-1
 tablet: 0.6.2
 tablexlsx: 0.1.0
-tabnet: 0.3.0
+tabnet: 0.4.0
 taboolaR: 0.1.0
 tabplot: 1.3-3
 tabplotGTK: '0.6'
@@ -23580,6 +23588,7 @@ tastypie: 0.1.0
 tatest: '1.0'
 tatoo: 1.1.2
 tau: 0.0-24
+tauProcess: 1.1.1
 tauturri: 0.3.0
 tawny: 2.1.7
 tawny.types: 1.1.5
@@ -24311,7 +24320,7 @@ tukeytrend: '0.7'
 tumblR: '1.2'
 tumgr: 0.0.4
 tune: 1.1.1
-tuneR: 1.4.3
+tuneR: 1.4.4
 tuneRanger: '0.5'
 tuple: 0.4-02
 turboEM: '2021.1'
