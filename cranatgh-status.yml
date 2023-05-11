@@ -215,7 +215,7 @@ AgroR: 1.3.3
 AgroReg: 1.2.9
 AgroTech: 1.0.2
 AhoCorasickTrie: 0.1.2
-AirMonitor: 0.3.9
+AirMonitor: 0.3.11
 AirSensor: 1.0.8
 Ake: 1.0.1
 AlgDesign: 1.2.1
@@ -1393,7 +1393,7 @@ D2C: 1.2.1
 D2MCS: 1.0.1
 D3GB: '1.1'
 D3M: 0.41.1
-D3mirt: 1.0.1
+D3mirt: 1.0.2
 D3partitionR: 0.5.0
 D4TAlink.light: 2.1.11
 DA: 1.2.0
@@ -1641,10 +1641,11 @@ DataFrameConstr: 1.1-2
 DataGraph: 1.2.14
 DataLoader: '1.3'
 DataPackageR: 0.15.8
+DataSetsUni: '0.1'
 DataSpaceR: 0.7.6
 DataVisualizations: 1.2.3
 DataViz: 0.2.8
-DatabaseConnector: 6.2.0
+DatabaseConnector: 6.2.1
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.1.6
 Datasmith: 1.0-1
@@ -4866,7 +4867,7 @@ PRDA: 1.0.0
 PRECAST: '1.6'
 PREPShiny: 0.1.0
 PRIMAL: 1.0.2
-PRIMME: 3.2-3
+PRIMME: 3.2-4
 PRIMsrc: 0.8.2
 PRISM.forecast: 0.2.1
 PRISMA: 0.2-7
@@ -4991,7 +4992,7 @@ PenIC: 1.0.0
 PenLNM: '1.0'
 PepPrep: 1.1.0
 PepSAVIms: 0.9.1
-Peptides: 2.4.4
+Peptides: 2.4.5
 PerFit: 1.4.6
 PerMallows: '1.13'
 Perc: 0.1.6
@@ -6120,6 +6121,7 @@ RepoGenerator: 0.0.1
 ReporteRs: 0.8.10
 ReporteRsjars: 0.0.4
 Require: 0.3.0
+ResIN: 0.1.0
 ResPBIBD: 0.1.0
 ResearchAssociate: 1.0.1
 ResearchMethods: '1.4'
@@ -10310,7 +10312,7 @@ contextual: 0.9.8.4
 contfrac: 1.1-12
 conting: '1.7'
 contingency: 0.0.10
-contingencytables: 1.0.4
+contingencytables: 2.0.0
 contourPlot: 0.2.0
 contoureR: 1.0.5
 contrast: 0.24.2
@@ -10759,7 +10761,7 @@ cyclocomp: 1.1.0
 cycloids: 1.0.1
 cyclomort: 1.0.2
 cyclones: 1.2-13
-cyclotomic: 1.0.0
+cyclotomic: 1.1.0
 cyjShiny: 1.0.42
 cylcop: 0.2.0
 cymruservices: 0.5.0
@@ -10905,7 +10907,7 @@ datazoom.amazonia: 1.0.0
 date: 1.2-42
 datefixR: 1.4.1
 datelife: 0.6.7
-daterangepicker: 0.1.0
+daterangepicker: 0.2.0
 datetime: 0.1.4
 datetimeoffset: 0.2.1
 datetimeutils: 0.6-1
@@ -11627,7 +11629,7 @@ dynamicGraph: 0.2.2.6
 dynamicSDM: '1.2'
 dynamicTreeCut: 1.63-1
 dynamichazard: 1.0.2
-dynamite: 1.3.3
+dynamite: 1.4.1
 dynamo: '1.0'
 dynatop: 0.2.3
 dynatopGIS: 0.2.4
@@ -12301,7 +12303,7 @@ extrafont: '0.19'
 extrafontdb: '1.0'
 extrafrail: '1.5'
 extraoperators: 0.1.1
-extras: 0.6.0
+extras: 0.6.1
 extraterrestrial: 0.1.0
 extremeIndex: 0.0.3
 extremeStat: 1.5.5
@@ -12737,7 +12739,7 @@ flare: 1.7.0.1
 flars: '1.0'
 flashCard: 0.1.0
 flashClust: 1.01-2
-flashlight: 0.8.0
+flashlight: 0.9.0
 flashr: 0.1.1
 flatness: 0.1.4
 flatr: 0.1.1
@@ -12941,6 +12943,7 @@ fredr: 2.1.0
 free: 1.0.1
 freealg: 1.1-1
 freebird: '1.0'
+freecurrencyapi: 0.1.0
 freedom: 1.0.1
 freegroup: 1.1-6
 freeknotsplines: 1.0.1
@@ -13692,6 +13695,7 @@ ggthemes: 4.2.4
 ggtikz: 0.1.2
 ggtrace: 0.2.0
 ggtrendline: 1.0.3
+ggtricks: 0.1.0
 ggupset: 0.3.0
 ggvenn: 0.1.10
 ggversa: 0.0.1
@@ -13802,7 +13806,7 @@ glmnet: 4.1-7
 glmnetSE: 0.0.1
 glmnetUtils: 1.1.8
 glmnetcr: 1.0.6
-glmnetr: 0.1-2
+glmnetr: 0.2-0
 glmpath: '0.98'
 glmpathcr: 1.0.8
 glmpca: 0.2.0
@@ -14038,7 +14042,7 @@ gretlR: 0.1.4
 grex: '1.9'
 greybox: 1.0.8
 greyzoneSurv: '1.0'
-grf: 2.2.1
+grf: 2.3.0
 grid: 0.7-4
 gridBase: 0.4-7
 gridBezier: 1.1-1
@@ -14831,7 +14835,7 @@ image2data: 1.0.1
 imageData: 0.1-61
 imagefluency: 0.2.4
 imagefx: 0.4.1
-imager: 0.42.19
+imager: 0.45.2
 imagerExtra: 1.3.2
 imageseg: 0.5.0
 imageviewer: 0.1.0
@@ -15219,7 +15223,7 @@ jaatha: 3.2.4
 jab.adverse.reactions: 1.0.1
 jabr: 0.1.2
 jaccard: 0.1.0
-jack: 5.0.1
+jack: 5.1.0
 jackalope: 1.1.3
 jackknifeKME: '1.2'
 jackknifeR: 1.2.0
@@ -16305,7 +16309,7 @@ maptree: 1.4-8
 mapview: 2.11.0
 mar1s: 2.1.1
 maraca: 0.5.0
-marble: 0.0.1
+marble: 0.0.2
 march: 3.3.2
 marcher: 0.0-2
 marelac: 2.1.10
@@ -17068,6 +17072,7 @@ mockthat: 0.2.8
 mod: 0.1.3
 mod09nrt: '0.14'
 mod2rm: 0.2.1
+modACDC: 1.0.0
 modEvA: 3.9.3
 modMax: '1.1'
 modQR: 0.1.3
@@ -17838,7 +17843,7 @@ nlshelper: '0.2'
 nlshrink: 1.0.1
 nlsic: 1.0.2
 nlsmsn: 0.0-6
-nlsr: 2023.2.12
+nlsr: 2023.5.8
 nlsrk: '1.1'
 nlstac: 0.2.0
 nlstimedist: 2.0.0
@@ -17856,8 +17861,9 @@ nmfem: 1.0.5
 nmfgpu4R: 0.2.5.2
 nmixgof: 0.1.0
 nmm: '0.9'
+nmrrr: 1.0.0
 nmslibR: 1.0.7
-nmw: 0.1.4
+nmw: 0.1.5
 nnDiag: 0.0-5
 nnGarrote: 1.0.4
 nnTensor: 1.1.13
@@ -17912,7 +17918,7 @@ nonet: 0.4.0
 nonlinearICP: 0.1.2.1
 nonlinearTseries: 0.2.12
 nonmem2R: 0.2.4
-nonmemica: 1.0.0
+nonmemica: 1.0.1
 nonneg.cg: 0.1.6-1
 nonnest2: 0.5-5
 nonpar: 1.0.2
@@ -18205,7 +18211,7 @@ onnx: 0.0.3
 onpoint: 1.0.4
 onsr: 1.0.1
 ontoFAST: 1.0.0
-ontologics: 0.6.5
+ontologics: 0.7.0
 ontologyIndex: '2.10'
 ontologyPlot: '1.6'
 ontologySimilarity: '2.5'
@@ -18598,7 +18604,7 @@ parmigene: 1.1.0
 parmsurvfit: 0.1.0
 paropt: '0.3'
 parqr: 0.1.0
-parquetize: 0.5.5
+parquetize: 0.5.6.1
 parseRPDR: 1.0.1
 parsec: 1.2.6
 parsedate: 1.3.1
@@ -18651,7 +18657,7 @@ patentsview: 0.3.0
 path.chain: 0.2.0
 pathClass: 0.9.4
 pathdiagram: 0.1.9.1
-pathfindR: 2.0.0
+pathfindR: 2.0.1
 pathfindR.data: 2.0.0
 pathlibr: 0.1.0
 pathlit: 0.1.0
@@ -19631,7 +19637,7 @@ psData: 0.2.2
 psSubpathway: 0.1.1
 psbcGroup: '1.5'
 psborrow: 0.2.1
-pscl: 1.5.5
+pscl: 1.5.5.1
 pscore: 0.4.0
 psd: 2.1.1
 psda: 1.4.0
@@ -19787,7 +19793,7 @@ qcv: '1.0'
 qdap: 2.4.3
 qdapDictionaries: 1.0.7
 qdapRegex: 0.7.5
-qdapTools: 1.3.5
+qdapTools: 1.3.7
 qdg: 1.0.0
 qdm: 0.1-0
 qfa: '1.2'
@@ -21416,6 +21422,7 @@ runonce: 0.2.3
 runstats: 1.1.0
 rusda: 1.0.8
 rusk: 0.1.1
+rusquant: 1.0.1
 rust: 1.4.0
 ruta: 1.2.0
 rutifier: 1.0.4
@@ -21430,9 +21437,9 @@ rvcheck: 0.2.1
 rversions: 2.1.2
 rvertnet: 0.8.2
 rvest: 1.0.3
-rvg: 0.3.2
+rvg: 0.3.3
 rvgtest: 0.7.4
-rviewgraph: 1.4.1
+rviewgraph: 1.4.2
 rvif: '1.0'
 rvinecopulib: 0.6.3.1.1
 rvkstat: 3.2.0
@@ -21729,7 +21736,7 @@ scorecardModelUtils: 0.0.1.0
 scorepeak: 0.1.2
 scorer: 0.2.0
 scoring: '0.6'
-scoringRules: 1.0.2
+scoringRules: 1.1.1
 scoringTools: 0.1.2
 scoringfunctions: 0.0.5
 scoringutils: 1.1.0
@@ -23845,7 +23852,7 @@ tidylo: 0.2.0
 tidylog: 1.0.2
 tidymargins: 0.1.0
 tidymodels: 1.1.0
-tidymv: 3.3.2
+tidymv: 3.4.2
 tidync: 0.3.0
 tidyndr: 0.2.1
 tidypaleo: 0.1.3
@@ -23993,7 +24000,7 @@ tmlenet: 0.1.0
 tmod: 0.50.13
 tmplate: 0.0.3
 tmpm: 1.0.3
-tmsens: 0.2.0
+tmsens: 0.3.0
 tmt: 0.3.1-2
 tmuxr: 0.2.4
 tmvmixnorm: 1.1.1
@@ -24379,7 +24386,7 @@ ucbthesis: '1.0'
 uchardet: 1.1.1
 ucie: 1.0.2
 uclust: 1.0.0
-ucminf: 1.1-4.1
+ucminf: 1.1-4.2
 udapi: 0.1.3
 udpipe: 0.8.11
 udunits: 1.3.1
@@ -24598,6 +24605,7 @@ vartors: 0.2.6
 varycoef: 0.3.4
 vasicek: 0.0.3
 vasicekreg: 1.0.1
+vatcheckapi: 0.1.0
 vaultr: 1.1.1
 vbdm: 0.0.4
 vbmp: 1.20.0
