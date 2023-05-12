@@ -4830,7 +4830,7 @@ PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.18-0
 PNADcIBGE: 0.7.2
-PNAR: '1.3'
+PNAR: '1.4'
 PNSIBGE: 0.1.8
 PNWColors: 0.1.0
 PO.EN: '1.0'
@@ -5578,7 +5578,7 @@ RMaCzek: 1.5.0
 RMallow: '1.1'
 RMariaDB: 1.2.2
 RMark: 3.0.0
-RMediation: 1.2.1
+RMediation: 1.2.2
 RMendeley: 0.1-2
 RMessenger: 0.1.5
 RMixpanel: 0.7-1
@@ -5783,6 +5783,7 @@ RTFA: 0.1.0
 RTIGER: 2.1.0
 RTL: 1.3.3
 RTOMO: 1.1-6
+RTSA: 0.1.0
 RTTWebClient: 0.1.3
 RTaxometrics: '3.2'
 RTest: 1.2.6
@@ -7394,6 +7395,7 @@ TestGardener: 3.1.4
 TestScorer: 1.7.2
 TestSurvRec: 1.2.1
 TestingSimilarity: '1.1'
+Tex4exams: 0.1.2
 TexExamRandomizer: 1.2.3
 TexMix: 0.5.3
 TextForecast: 0.1.3
@@ -8174,7 +8176,7 @@ amanida: 0.2.3
 amanpg: 0.3.4
 amap: 0.8-19
 amapGeocode: 0.6.0
-amapro: 0.1.1
+amapro: 0.1.3
 amazonadsR: 0.1.0
 amazons3R: 0.1.0
 amazonspR: 0.1.0
@@ -8639,7 +8641,7 @@ bams: '1.6'
 banR: 0.2.2
 bandit: 0.5.1
 banditpam: 1.0-1
-bandsfdp: 1.0.0
+bandsfdp: 1.1.0
 bang: 1.0.1
 bangladesh: 1.0.0
 bannerCommenter: 1.0.0
@@ -10270,7 +10272,7 @@ config: 0.3.1
 configr: 0.3.5
 configural: 0.1.4
 confinterpret: 1.0.0
-confintr: 1.0.0
+confintr: 1.0.1
 conflicted: 1.2.0
 conflr: 0.1.1
 conformal: '0.2'
@@ -13364,7 +13366,7 @@ genotypeR: 0.0.1.8
 genpathmox: '1.0'
 genpwr: 1.0.4
 genridge: 0.6.7
-genscore: 1.0.2
+genscore: 1.0.2.1
 gensemble: 1.0.1
 genset: 0.1.0
 gensphere: '1.3'
@@ -14172,7 +14174,7 @@ guaguas: 0.3.0
 guardianapi: 0.1.1
 guess: '0.1'
 guf: 1.0.2
-guidedPLS: 0.99.0
+guidedPLS: 1.0.0
 guildai: 0.0.1
 guiplot: 0.4.0
 guix.install: 1.0.0
@@ -15264,6 +15266,7 @@ jenga: 1.3.0
 jenkins: '1.0'
 jetpack: 0.5.5
 jetset: 3.4.0
+jewel: 2.0.0
 jfa: 0.6.6
 jgcricolors: 1.0.0
 jgsbook: 1.0.2
@@ -16083,7 +16086,7 @@ lowmemtkmeans: 0.1.2
 lowpassFilter: 1.0-2
 lpSolve: 5.6.18
 lpSolveAPI: 5.5.2.0-17.9
-lpacf: '1.0'
+lpacf: 1.0.1
 lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpcde: 0.1.0
@@ -16292,7 +16295,7 @@ mapedit: 0.6.0
 mapfit: 1.0.0
 mapfuser: 0.1.2
 mapi: 1.0.5
-mapiso: 0.2.0
+mapiso: 0.3.0
 maple: 0.99.5
 mapme.biodiversity: 0.3.0
 mapmisc: 1.8.0
@@ -16748,7 +16751,7 @@ micEcdat: 0.1-1
 micEcon: 0.6-18
 micEconAids: 0.6-20
 micEconCES: 1.0-2
-micEconDistRay: 0.1-0
+micEconDistRay: 0.1-2
 micEconIndex: 0.1-8
 micEconSNQP: 0.6-10
 micar: 1.1.2
@@ -16996,7 +16999,7 @@ mlr3hyperband: 0.4.5
 mlr3learners: 0.5.6
 mlr3mbo: 0.1.2
 mlr3measures: 0.5.0
-mlr3misc: 0.11.0
+mlr3misc: 0.12.0
 mlr3oml: 0.7.1
 mlr3pipelines: 0.4.3
 mlr3proba: 0.4.9
@@ -17058,6 +17061,7 @@ mniw: 1.0.1
 mnj: '1.0'
 mnlfa: 0.2-4
 mnlogit: 1.2.6
+mnmer: 0.99.1
 mnonr: 1.0.0
 mnorm: 1.1.1
 mnormpow: 0.1.1
@@ -18665,7 +18669,7 @@ patentsview: 0.3.0
 path.chain: 0.2.0
 pathClass: 0.9.4
 pathdiagram: 0.1.9.1
-pathfindR: 2.0.1
+pathfindR: 2.1.0
 pathfindR.data: 2.0.0
 pathlibr: 0.1.0
 pathlit: 0.1.0
@@ -18778,7 +18782,7 @@ pdist: 1.2.1
 pdmod: 1.0.1
 pdolsms: '0.2'
 pdp: 0.8.1
-pdqr: 0.3.0
+pdqr: 0.3.1
 pds3: 0.5.0
 pdt: 0.0.2
 pdxTrees: 0.4.0
@@ -20372,6 +20376,7 @@ rcdd: 1.5-2
 rcdk: 3.7.0
 rcdklibs: '2.8'
 rchallenge: 1.3.4
+rchemo: 0.1-1
 rcheology: 4.3.0.0
 rchess: '0.1'
 rchie: 1.0.2
@@ -20847,7 +20852,7 @@ rhandsontable: 0.3.8
 rhcoclust: 2.0.0
 rheroicons: 1.0.0
 rhierbaps: 1.1.4
-rhino: 1.3.0
+rhino: 1.3.1
 rhli: 0.0.2
 rhmc: 1.0.0
 rhmmer: 0.1.0
@@ -22971,7 +22976,7 @@ ssgraph: '1.15'
 ssh: 0.8.2
 ssh.utils: '1.0'
 sship: 0.9.0
-ssifs: 1.0.1
+ssifs: 1.0.2
 ssimparser: 0.1.1
 ssize.fdr: '1.3'
 ssizeRNA: 1.3.2
@@ -24109,6 +24114,7 @@ traipse: 0.3.0
 traitdataform: 0.6.8
 traitr: '0.14'
 traits: 0.5.0
+traitstrap: 0.1.0
 traj: 1.3.1
 trajeR: 0.9.0.5
 trajectories: 0.2-7
@@ -24688,7 +24694,7 @@ vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
 viewpoly: 0.3.2
 viewshed3d: 4.0.0
-viking: 1.0.0
+viking: 1.0.1
 villager: 1.1.1
 vimcom: 0.9-93
 vimp: 2.3.1
