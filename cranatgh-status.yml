@@ -127,7 +127,7 @@ AR1seg: '1.0'
 ARAMIS: 1.0.1
 ARCensReg: '2.1'
 ARCokrig: 0.1.2
-ARDL: 0.2.2
+ARDL: 0.2.3
 ARES: 1.2-3
 ARHT: 0.1.0
 ARIMAANN: 0.1.0
@@ -668,7 +668,7 @@ BeyondBenford: '1.4'
 Bhat: 0.9-12
 BiBitR: 0.3.1
 BiCausality: 0.1.2
-BiDAG: 2.1.3
+BiDAG: 2.1.4
 BiDimRegression: 2.0.1
 BiG: 0.1.0
 BiGGR: '1.8'
@@ -1098,7 +1098,7 @@ CauchyCP: 0.1.1
 CausCor: 0.1.2
 CausalFX: 1.0.1
 CausalGAM: 0.1-4
-CausalGPS: 0.3.0
+CausalGPS: 0.3.1
 CausalImpact: 1.3.0
 CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.1
@@ -2341,7 +2341,7 @@ FluOMatic: '1.0'
 Flury: 0.1-3
 FlyingR: 0.2.2
 FlywayNet: 0.1.0
-FoReco: 0.2.5
+FoReco: 0.2.6
 ForIT: 2.0.1
 ForImp: 1.0.3
 ForagingOrg: 0.1.0
@@ -5192,7 +5192,7 @@ Q7: 0.1.0
 QAIG: 0.1.7
 QBAsyDist: 0.1.2
 QBMS: 0.9.1
-QCA: '3.18'
+QCA: '3.19'
 QCA3: 0.0-8
 QCAGUI: '2.5'
 QCAcluster: 0.1.0
@@ -8631,6 +8631,7 @@ bakR: 0.4.0
 bakeoff: 0.2.0
 baker: 1.0.0
 balance: 0.2.4
+baldur: 0.0.1
 ballr: 0.2.6
 bama: 1.3.0
 bamboo: 0.9.25
@@ -9156,7 +9157,7 @@ blockrand: '1.5'
 blocksdesign: '4.9'
 blockseg: 0.5.2
 blocs: 0.1.1
-blogdown: '1.16'
+blogdown: '1.17'
 blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-2
@@ -9239,7 +9240,7 @@ bootUR: 1.0.0
 bootcluster: 0.3.2
 bootf2: 0.4.1
 bootfs: 1.4.2
-bootnet: '1.5'
+bootnet: 1.5.1
 bootruin: 1.2-4
 bootsPLS: 1.1.2
 bootspecdens: '3.0'
@@ -11017,7 +11018,7 @@ decido: 0.3.0
 decision: 0.1.0
 decisionSupport: '1.111'
 deckgl: 0.3.0
-declared: '0.20'
+declared: '0.21'
 decode: '1.2'
 decoder: 1.2.2
 decomposedPSF: '0.2'
@@ -11520,6 +11521,7 @@ drawExpression: '1.0'
 drawer: 0.2.0.1
 drawsample: 1.0.1
 drc: 3.0-1
+drcSeedGerm: 1.0.1
 drcte: 1.0.30
 drda: 2.0.3
 dreamer: 3.1.0
@@ -13865,7 +13867,7 @@ gmeta: 2.3-1
 gmfd: 1.0.1
 gmgm: 1.1.2
 gmm: '1.7'
-gmmsslm: 1.1.2
+gmmsslm: 1.1.4
 gmnl: 1.1-3.2
 gmodels: 2.18.1.1
 gmp: 0.7-1
@@ -14012,7 +14014,7 @@ grapherator: 1.0.0
 graphframes: 0.1.2
 graphhopper: 0.1.2
 graphicalExtremes: 0.2.0
-graphicalVAR: '0.3'
+graphicalVAR: 0.3.1
 graphicsQC: 1.0-8
 graphite: '1.1'
 graphkernels: 1.6.1
@@ -14423,7 +14425,7 @@ highmean: '3.0'
 highr: '0.10'
 highriskzone: 1.4.8
 highs: 0.1-6
-hightR: 0.2.0
+hightR: 0.3.0
 higlasso: 0.9.0
 higrad: 0.1.0
 hilbert: 0.2.1
@@ -14945,7 +14947,7 @@ influence.ME: 0.9-9
 influence.SEM: '2.3'
 influenceAUC: 0.1.2
 influenceR: 0.1.0.2
-influential: 2.2.6
+influential: 2.2.7
 influxdbclient: 0.1.2
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
@@ -15171,6 +15173,7 @@ isoorbi: 1.0.0
 isopam: 1.1.0
 isopat: '1.0'
 isoph: 1.1.3
+isopleuros: 1.0.0
 isoreader: 1.3.2
 isotone: 1.1-1
 isotonic.pen: '1.0'
@@ -15841,7 +15844,7 @@ likeLTD: 6.3.0
 likelihood: '1.9'
 likelihoodAsy: '0.51'
 likelihoodExplore: 0.1.0
-likelihoodR: 1.1.0
+likelihoodR: 1.1.1
 likert: 1.3.5
 lilikoi: 2.1.1
 lillies: 0.2.10
@@ -16345,7 +16348,7 @@ marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
 mark: 0.6.0
-markdown: '1.6'
+markdown: '1.7'
 markdownInput: 0.1.2
 marked: 1.2.6
 markerSearchPower: '1.0'
@@ -16951,7 +16954,7 @@ mkssd: '1.2'
 mlCopulaSelection: '1.3'
 mlDNA: '1.1'
 mlPhaser: '0.01'
-mlVAR: '0.5'
+mlVAR: 0.5.1
 mlapi: 0.1.1
 mlbench: 2.1-3.1
 mlbgameday: 0.2.0
@@ -17418,7 +17421,7 @@ multigraphr: 0.1.0
 multigroup: 0.4.5
 multilateral: 1.0.0
 multilaterals: '1.0'
-multilevLCA: '1.1'
+multilevLCA: '1.2'
 multilevel: '2.7'
 multilevelMatching: 1.0.0
 multilevelPSA: 1.2.5
@@ -17546,7 +17549,7 @@ mvtsplot: 1.0-4
 mwTensor: 1.0.1
 mwa: 0.4.4
 mwaved: 1.1.8
-mwcsr: 0.1.6
+mwcsr: 0.1.7
 mwshiny: 2.1.0
 mxkssd: '1.2'
 mxmmod: 1.1.0
@@ -18387,7 +18390,7 @@ orientlib: 0.10.5
 origami: 1.0.7
 origin: 1.1.0
 originr: 0.4.0
-orloca: '4.10'
+orloca: '5.3'
 orloca.es: '4.9'
 ormBigData: 0.0.1
 ormPlot: 0.3.5
@@ -18587,7 +18590,7 @@ papci: 0.1.0
 papeR: 1.0-5
 paperplanes: 0.0.1.9
 papply: '0.1'
-parSim: 0.1.4
+parSim: 0.1.5
 parabar: 1.1.0
 parade: '0.1'
 paradox: 0.11.1
@@ -19824,7 +19827,7 @@ qgcomp: 2.10.1
 qgcompint: 0.7.0
 qgen: 0.03-02
 qgg: 1.1.1
-qgraph: 1.9.4
+qgraph: 1.9.5
 qgshiny: 0.1.0
 qgtools: '2.0'
 qha: 0.0.8
@@ -20516,7 +20519,7 @@ readysignal: 0.0.8
 realTimeSurv: '1.0'
 realestateDK: 0.1.0
 realized: 1.0.1
-realtest: 0.2.1
+realtest: 0.2.3
 reams: '0.1'
 reappraised: 0.1.0
 rearrr: 0.3.3
@@ -20783,7 +20786,7 @@ rextendr: 0.2.0
 rfPermute: 2.5.1
 rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.3
-rfacebookstat: 2.9.2
+rfacebookstat: 2.9.3
 rfacts: 0.2.1
 rfars: 0.3.0
 rfbCNPJ: 0.1.1
@@ -21906,7 +21909,7 @@ semEff: 0.6.1
 semGOF: 0.2-0
 semPLS: 1.0-10
 semPlot: 1.1.6
-semPower: 2.0.0
+semPower: 2.0.1
 semTable: '1.8'
 semTools: 0.5-6
 semantic.dashboard: 0.2.1
@@ -24537,7 +24540,7 @@ usl: 3.0.3
 usmap: 0.6.1
 usmapdata: 0.1.0
 ussherR: '1.10'
-ustfd: 0.2.0
+ustfd: 0.4.0
 ustyc: 1.0.0
 utc: 0.1.5
 utf8: 1.2.3
@@ -24579,6 +24582,7 @@ validaRA: 0.1.1
 validann: 1.2.1
 validata: 0.1.0
 validate: 1.1.3
+validateIt: 1.2.1
 validateRS: 1.0.0
 validatedb: 0.1.4
 validatejsonr: 1.0.4
@@ -24695,7 +24699,7 @@ vfprogression: 0.7.1
 vglmer: 1.0.3
 vhcub: 1.0.0
 vhica: 0.2.8
-via: 0.1.0
+via: 0.2.0
 viafr: 0.3.0
 vici: 0.7.0
 video: 0.1.1
@@ -24888,6 +24892,7 @@ wbsts: '2.1'
 wccsom: 1.2.11
 wcde: 0.0.5
 wcep: 1.0.0
+wcox: '1.0'
 wdm: 0.2.3
 wdman: 0.2.6
 wdnet: 1.0.0
