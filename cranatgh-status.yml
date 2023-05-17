@@ -880,7 +880,7 @@ CEDARS: '1.90'
 CEEMDANML: 0.1.0
 CEGO: 2.4.2
 CENFA: 1.1.1
-CEOdata: 1.3.0.1
+CEOdata: 1.3.1
 CERFIT: 0.1.0
 CEoptim: '1.2'
 CFAcoop: 1.0.0
@@ -1691,7 +1691,7 @@ Depela: '0.0'
 DependencyReviewer: 1.2.3
 DepthProc: 2.1.5
 Deriv: 4.1.3
-DescTools: 0.99.48
+DescTools: 0.99.49
 DescToolsAddIns: '1.10'
 DescrTab2: 2.1.16
 DescribeDF: 0.2.1
@@ -1948,6 +1948,7 @@ ESPRESSO: '2.0'
 ESTER: 0.2.0
 EScvtmle: 0.0.2
 ETAS: 0.5.1
+ETASbootstrap: 0.1.0
 ETC: '1.5'
 ETLUtils: '1.5'
 EUfootball: 0.0.1
@@ -2488,7 +2489,7 @@ GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
 GGIR: 2.9-0
-GGIRread: 0.2.6
+GGIRread: 0.2.7
 GGMM: 1.0.1
 GGMncv: 2.1.1
 GGMnonreg: 1.0.0
@@ -4401,7 +4402,7 @@ NMdata: 0.0.17
 NMproject: 0.6.9
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 0.9.7
+NNS: 0.9.8
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.6
@@ -5329,7 +5330,7 @@ RAHRS: 1.0.2
 RAINBOWR: 0.1.29
 RALSA: 1.3.0
 RAM: 1.2.1.7
-RAMClustR: 1.2.4
+RAMClustR: 1.3.0
 RAMP: 2.0.2
 RAMpath: '0.4'
 RANKS: '1.1'
@@ -7056,7 +7057,7 @@ Stack: 2.0-1
 StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
 StakeholderAnalysis: '1.2'
-StanHeaders: 2.21.0-7
+StanHeaders: 2.26.25
 StanMoMo: 1.1.0
 StandardizeText: '1.0'
 Stat2Data: 2.0.0
@@ -7764,7 +7765,7 @@ WeibullR.ALT: 0.7.2
 WeightIt: 0.14.1
 WeightSVM: 1.7-11
 Weighted.Desc.Stat: '1.0'
-WeightedCluster: 1.6-0
+WeightedCluster: 1.6-2
 WeightedEnsemble: 0.1.0
 WeightedPortTest: '1.0'
 WeightedROC: 2020.1.31
@@ -8061,6 +8062,7 @@ ag5Tools: 0.0.1
 agRee: 0.5-3
 agce: '1.2'
 ageg: 1.0.0
+agena.ai: 1.0.0
 ageprior: 0.9.2
 ageutils: 0.0.1
 aggTrees: 2.0.0
@@ -8512,7 +8514,7 @@ auk: 0.6.0
 aum: 2023.4.4
 aurelius: 0.8.4
 aurin: 0.6.0
-ausplotsR: 1.2.8
+ausplotsR: 1.2.9
 auteur: 0.12.1010
 auth0: 0.2.3
 auto.pca: '0.3'
@@ -9544,6 +9546,7 @@ cartography: 3.1.3
 cartools: 0.1.0
 carx: 0.7.1
 casabourse: 2.0.0
+cascadeSelect: 1.0.0
 cascadess: 0.1.0
 caschrono: '2.3'
 cascsim: '0.4'
@@ -9777,6 +9780,7 @@ cheddar: 0.1-638
 cheem: 0.3.0
 cheese: 0.1.2
 chemCal: 0.2.3
+chemdeg: 0.1.2
 chemmodlab: 2.0.0
 chemodiv: 0.2.0
 chemometrics: 1.4.2
@@ -10269,7 +10273,7 @@ condusco: 0.1.0
 condvis: 0.5-1
 condvis2: 0.1.2
 coneproj: '1.16'
-conf: 1.7.1
+conf: 1.8.0
 conf.design: 2.0.0
 confReg: 0.1.3
 confSAM: '0.2'
@@ -10624,7 +10628,7 @@ crso: 0.1.1
 crsra: 0.2.3
 crsuggest: '0.4'
 crtests: 0.2.1
-crul: '1.3'
+crul: 1.4.0
 crunch: 1.30.2
 crunchy: 0.3.3
 cruts: '1.1'
@@ -11063,7 +11067,7 @@ deisotoper: 0.0.7
 dejaVu: 0.3.0
 delaunay: 1.1.1
 delayed: 0.4.0
-deldir: 1.0-6
+deldir: 1.0-9
 delftfews: 0.3-136
 delt: 0.8.2
 deltaPlotR: '1.6'
@@ -11530,7 +11534,7 @@ dreamerr: 1.2.3
 drf: 1.1.0
 drfit: 0.7.2
 drgee: 1.1.10
-drhur: 1.0.0
+drhur: 1.1.0
 driftR: 1.1.0
 drifter: 0.2.1
 driftsel: 2.1.1
@@ -12073,7 +12077,7 @@ epitopR: 0.1.2
 epitopeR: 1.0.0
 epitrix: 0.4.0
 epitweetr: 2.2.13
-eplusr: 0.15.3
+eplusr: 0.16.0
 eply: 0.1.2
 epm: 1.1.1
 epoc: 0.2.6-1.1
@@ -15428,7 +15432,7 @@ kernelPhil: '0.1'
 kernelPop: 1.0.2
 kernelTDA: 1.0.0
 kernelboot: 0.1.10
-kernelshap: 0.3.6
+kernelshap: 0.3.7
 kernhaz: 0.1.0
 kernlab: 0.9-32
 kernplus: 0.1.2
@@ -16527,6 +16531,7 @@ mdendro: 2.1.0
 mdftracks: 0.2.1
 mdgc: 0.1.7
 mdhglm: '1.8'
+mdir: 0.9.0
 mdir.logrank: 0.0.4
 mdmb: 1.8-7
 mdpeer: 1.0.1
@@ -17053,7 +17058,7 @@ mmm: '1.4'
 mmm2: '1.2'
 mmmgee: '1.20'
 mmod: 1.3.3
-mmodely: 0.2.2
+mmodely: 0.2.5
 mmpca: 2.0.3
 mmpf: 0.0.5
 mmpp: '0.6'
@@ -18945,6 +18950,7 @@ phateR: 1.0.7
 phcfM: '1.2'
 phd: '0.2'
 pheatmap: 1.0.12
+pheble: 0.1.0
 phecodemap: 0.1.0
 phenModel: '1.0'
 phenability: '2.0'
@@ -18974,7 +18980,7 @@ phonTools: 0.2-2.1
 phonenumber: 0.2.3
 phonfieldwork: 0.0.11
 phonics: 1.3.10
-phosphoricons: 0.1.2
+phosphoricons: 0.2.0
 photobiology: 0.10.16
 photobiologyFilters: 0.5.2
 photobiologyInOut: 0.4.26
@@ -19604,7 +19610,7 @@ projects: 2.1.3
 projmanr: 0.2.1
 projmgr: 0.1.0
 projpred: 2.5.0
-prolific.api: '0.5'
+prolific.api: 0.5.1
 prome: 1.5.6.70
 promethee123: 0.1.0
 promises: 1.2.0.1
@@ -20331,7 +20337,7 @@ raytracing: 0.6.0
 rayvertex: 0.4.11
 rb3: 0.0.10
 rbace: 0.2.2
-rbacon: 3.0.0
+rbacon: 3.1.0
 rbamtools: 2.16.17
 rbart: '1.0'
 rbcb: 0.1.10
@@ -21180,6 +21186,7 @@ rosr: 0.0.10
 rotasym: 1.1.4
 rotationForest: 0.1.3
 rotations: 1.6.4
+rotatogram: 0.1.3
 rotl: 3.0.14
 rotor: 0.3.7
 roughnet: 1.0.1
@@ -21265,7 +21272,7 @@ rrandvec: 1.0.0
 rrapply: 1.2.6
 rrat: 1.0.0
 rray: 0.1.0
-rrcov: 1.7-2
+rrcov: 1.7-3
 rrcov3way: 0.2-5
 rrcovHD: 0.2-7
 rrcovNA: 0.4-15
@@ -21507,7 +21514,7 @@ rytstat: 0.3.0
 rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.9
-s2: 1.1.3
+s2: 1.1.4
 s20x: 3.1-38
 s2dv: 1.4.0
 s2dverification: 2.10.3
@@ -21719,7 +21726,7 @@ scatr: 1.0.1
 scatteR: 0.0.1
 scatterD3: 1.0.1
 scatterPlotMatrix: 0.2.0
-scattermore: '1.0'
+scattermore: '1.1'
 scatterpie: 0.1.9
 scatterplot3d: 0.3-44
 scbursts: '1.6'
@@ -21854,7 +21861,7 @@ secrdesign: 2.8.2
 secret: 1.1.0
 secrettext: 0.1.0
 secrlinear: 1.1.4
-secsse: 2.5.0
+secsse: 2.1.7
 secuTrialR: 1.1.1
 secure: '0.6'
 securitytxt: 0.1.1
@@ -22758,7 +22765,7 @@ spatialsegregation: '2.45'
 spatialwarnings: 3.0.3
 spatialwidget: 0.2.3
 spatsoc: 0.1.16
-spatstat: 3.0-5
+spatstat: 3.0-6
 spatstat.Knet: 3.0-2
 spatstat.core: 2.4-4
 spatstat.data: 3.0-1
@@ -22981,7 +22988,7 @@ ssc: 2.1-0
 sscor: '0.2'
 ssd: '0.3'
 ssddata: 1.0.0
-ssdtools: 1.0.3
+ssdtools: 1.0.4
 sse: 0.7-17
 ssev: 0.1.0
 ssfa: '1.2'
@@ -23020,7 +23027,7 @@ staRdom: 1.1.25
 staRt: 1.1.12
 staTools: 0.1.0
 stab: 0.1.9
-stabiliser: 1.0.2
+stabiliser: 1.0.6
 stability: 0.5.0
 stabilo: 0.1.1
 stable: 1.1.6
@@ -23440,7 +23447,7 @@ svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
 svplots: 0.1.0
-svrep: 0.5.0
+svrep: 0.5.1
 svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: 0.1-1
@@ -24777,7 +24784,7 @@ vocaldia: 0.8.4
 voice: 0.4.21
 vol2birdR: 0.2.0
 volatilityTrader: 1.0.1
-volcano3D: 2.0.8
+volcano3D: 2.0.9
 volcanoPlot: 1.0.0
 volesti: 1.1.2-6
 volleystat: 0.2.0
@@ -24897,7 +24904,7 @@ wcep: 1.0.0
 wcox: '1.0'
 wdm: 0.2.3
 wdman: 0.2.6
-wdnet: 1.0.0
+wdnet: 1.1.0
 wdnr.gis: 0.1.4
 wdpar: 1.3.4
 weaana: 0.1.1
