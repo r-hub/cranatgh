@@ -1282,6 +1282,7 @@ CondMVT: 0.1.0
 CondReg: '0.20'
 CondiS: 0.1.2
 ConfIntVariance: 1.0.2
+ConfZIC: 1.0.0
 ConfigParser: 1.0.0
 ConformalSmallest: '1.0'
 ConfoundedMeta: 1.3.0
@@ -3163,6 +3164,7 @@ ISOweek: 0.6-2
 ISR: 2022.4.22
 ISR3: '0.98'
 ISRaD: 2.4.7
+ISS: 0.1.3
 ISwR: 2.0-8
 ITEMAN: '1.0'
 ITGM: '0.42'
@@ -3260,7 +3262,7 @@ IsoCorr: '1.0'
 IsoGene: 1.0-24
 IsoMemo: 1.0.6
 IsoSpecR: 2.1.3
-IsoplotR: '5.2'
+IsoplotR: '5.3'
 IsoplotRgui: '5.2'
 IsoriX: 0.9.0
 IsotopeR: 0.5.4
@@ -3279,7 +3281,7 @@ JFE: 2.5.4
 JFM: '1.0'
 JGEE: '1.1'
 JGL: 2.3.1
-JGR: 1.9-1
+JGR: 1.9-2
 JICO: '0.0'
 JJcorr: '0.01'
 JLLprod: 1.0.1
@@ -3678,7 +3680,7 @@ MAPLES: '1.0'
 MAR1: '1.0'
 MARSANNhybrid: 0.1.0
 MARSGWR: 0.1.0
-MARSS: 3.11.4
+MARSS: 3.11.8
 MARSSVRhybrid: 0.1.0
 MARVEL: 1.4.0
 MARX: '0.2'
@@ -4444,7 +4446,7 @@ NST: 3.1.10
 NSUM: '1.0'
 NScluster: 1.3.6-1
 NTS: 1.1.2
-NTSS: 0.1.1
+NTSS: 0.1.2
 NTsets: '1.0'
 NUCOMBog: 1.0.4.2
 NVCSSL: '1.0'
@@ -4637,7 +4639,7 @@ OpVaR: '1.2'
 OpasnetUtils: '1.3'
 OpenABMCovid19: 1.0.1
 OpenCL: 0.2-2
-OpenImageR: 1.2.8
+OpenImageR: 1.2.9
 OpenLand: 1.0.2
 OpenML: '1.12'
 OpenMPController: 0.2-5
@@ -6766,7 +6768,7 @@ ScreeNOT: 0.1.0
 ScreenClean: 1.0.1
 ScriptMapR: 0.0.3
 SearchTrees: 0.5.5
-SecDim: '2.2'
+SecDim: '3.2'
 SecKW: '0.2'
 SeedCalc: 1.0.0
 SeerMapper: 1.2.5
@@ -7532,7 +7534,7 @@ UBayFS: '1.0'
 UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.1.10
 UCSCXenaTools: 1.4.8
-UComp: 4.0.1
+UComp: 4.0.2
 UKB.COVID19: 0.1.3
 UKFE: 0.2.8
 UKgrid: 0.1.3
@@ -9147,7 +9149,7 @@ blm: 2022.0.0.1
 blme: 1.0-5
 blmeco: '1.4'
 blob: 1.2.4
-blockCV: 3.1-1
+blockCV: 3.1-2
 blockForest: 0.2.6
 blockRAR: 1.0.2
 blockTools: 0.6.4
@@ -11943,6 +11945,7 @@ elsa: 1.1-28
 eltr: 0.1.0
 em: 1.0.0
 em2: '0.9'
+emBayes: 0.1.0
 emIRT: 0.0.13
 emailjsr: 0.0.2
 emailvalidation: 0.1.0
@@ -16351,7 +16354,7 @@ margaret: 0.1.4
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
-marginaleffects: 0.11.2
+marginaleffects: 0.12.0
 marginalizedRisk: 2021.2-4
 marginalmodelplots: 0.4.2
 margins: 0.3.26
@@ -17127,7 +17130,7 @@ modelcf: 2.1.1
 modeldata: 1.1.0
 modeldb: 0.2.3
 modelenv: 0.1.1
-modelfree: 1.1-1
+modelfree: '1.2'
 modelgrid: 1.1.1.0
 modelimpact: 1.0.0
 modellingTools: 0.1.0
@@ -20068,7 +20071,7 @@ rCarto: '0.8'
 rChoiceDialogs: 1.0.6.1
 rClinicalCodes: 1.0.1
 rD3plot: 1.0.68
-rDEA: 1.2-6
+rDEA: 1.2-7
 rDNA: '1.31'
 rDNAse: 1.1-1
 rDVR: 0.1.1
@@ -20237,7 +20240,7 @@ randNames: 0.2.3
 randaes: '0.3'
 randcorr: '1.0'
 randgeo: 0.3.0
-randnet: '0.5'
+randnet: '0.7'
 rando: 0.2.0
 random: 0.2.6
 random.polychor.pa: 1.1.4-4
@@ -21618,7 +21621,7 @@ samplesizelogisticcasecontrol: 2.0.0
 sampling: '2.9'
 samplingDataCRT: '1.0'
 samplingEstimates: 0.1-3
-samplingR: 0.1.3
+samplingR: 0.1.4
 samplingVarEst: '1.5'
 samplingbook: 1.2.4
 sampsizeval: 1.0.0.0
@@ -21785,7 +21788,7 @@ scoringutils: 1.1.0
 scout: 1.0.4
 scperturbR: 0.1.0
 scphaser: 1.0.0
-scpi: 2.2.3
+scpi: 2.2.4
 scplot: 0.3.1
 scpm: 2.0.0
 scpoisson: 0.0.1
