@@ -669,7 +669,7 @@ BeviMed: '5.8'
 BeyondBenford: '1.4'
 Bhat: 0.9-12
 BiBitR: 0.3.1
-BiCausality: 0.1.2
+BiCausality: 0.1.3
 BiDAG: 2.1.4
 BiDimRegression: 2.0.1
 BiG: 0.1.0
@@ -781,7 +781,7 @@ BradleyTerry: 0.8-8
 BradleyTerry2: 1.1-2
 BradleyTerryScalable: 0.1.0
 BrailleR: 0.32.1
-BrainCon: 0.2.0
+BrainCon: 0.3.0
 BranchGLM: 2.1.1
 Branching: 0.9.4
 BrasilMF: 1.0.0
@@ -1516,7 +1516,7 @@ DISTRIB: '1.0'
 DIZtools: 0.0.8
 DIZutils: 0.1.2
 DIconvex: 1.0.0
-DImodels: '1.2'
+DImodels: 1.2.1
 DIscBIO: 1.2.0
 DJL: '3.9'
 DLASSO: 2.0.2
@@ -4780,6 +4780,7 @@ PERMANOVA: 0.2.0
 PERregress: 1.0-8
 PET: 0.5.1
 PEkit: 1.0.0.1000
+PEtests: 0.1.0
 PF: '9.5'
 PFIM: '5.0'
 PGEE: '1.5'
@@ -4798,7 +4799,7 @@ PICBayes: '1.0'
 PIGE: '1.1'
 PIGShift: 1.0.1
 PIN: '0.8'
-PINMA: 1.1-1
+PINMA: 1.1-2
 PINSPlus: 2.0.6
 PINstimation: 0.1.2
 PIPS: 1.0.1
@@ -4926,7 +4927,7 @@ PTERP: '1.0'
 PTSR: 0.1.2
 PTXQC: 1.0.16
 PTwins: 0.1.1
-PUMP: 1.0.1
+PUMP: 1.0.2
 PUPAIM: 0.3.1
 PUPAK: 0.1.1
 PUPMCR: 0.1.0
@@ -7903,7 +7904,7 @@ abind: 1.4-5
 abjData: 1.1.2
 abjutils: 0.3.2
 abmR: 1.0.8
-abn: 2.7-3
+abn: 2.7-5
 abnormality: 0.1.0
 abodOutlier: '0.1'
 abstr: 0.4.1
@@ -9262,7 +9263,7 @@ bossMaps: 0.1.0
 botor: 0.4.0
 boundingbox: 1.0.1
 boussinesq: 1.0.4
-boutliers: 1.1-1
+boutliers: 1.1-2
 box: 1.1.3
 boxcoxmix: '0.28'
 boxfilter: '0.1'
@@ -10650,7 +10651,7 @@ csa: 0.7.0
 csabounds: 1.0.0
 csampling: 1.2-2.1
 csci: 0.9.3
-csdata: 2023.4.21
+csdata: 2023.5.22
 cshapes: '2.0'
 cslogistic: 0.1-3
 csmaps: 2022.12.15
@@ -13098,7 +13099,7 @@ future.BatchJobs: 0.17.0
 future.apply: 1.11.0
 future.batchtools: 0.12.0
 future.callr: 0.8.1
-future.tests: 0.6.0
+future.tests: 0.7.0
 futureheatwaves: 1.0.3
 fuzzr: 0.2.2
 fuzzyFDR: '1.0'
@@ -14831,7 +14832,7 @@ igate: 0.3.3
 igcop: 1.0.1
 iglu: 3.4.2
 igoR: 0.1.5
-igraph: 1.4.2
+igraph: 1.4.3
 igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
@@ -15069,6 +15070,7 @@ intmap: 1.0.0
 intmed: 0.1.2
 intoo: 0.4.0
 intpoint: '1.0'
+intradayModel: 0.0.1
 intrinsicDimension: 1.2.0
 intrinsicFRP: 0.1.0
 introgress: 1.2.3
@@ -16186,7 +16188,7 @@ lvmcomp: '1.2'
 lvmisc: 0.1.1
 lvnet: 0.3.5
 lvplot: 0.2.1
-lwgeom: 0.2-11
+lwgeom: 0.2-13
 lwqs: 0.5.0
 lxb: '1.5'
 lymphclon: 1.3.0
@@ -17025,7 +17027,7 @@ mlr3mbo: 0.1.2
 mlr3measures: 0.5.0
 mlr3misc: 0.12.0
 mlr3oml: 0.7.1
-mlr3pipelines: 0.4.3
+mlr3pipelines: 0.5.0-1
 mlr3proba: 0.4.9
 mlr3shiny: 0.2.0
 mlr3spatial: 0.4.1
@@ -22674,7 +22676,7 @@ spTest: 0.2.5
 spThin: 0.2.0
 spTimer: 3.3.2
 spa: '2.0'
-spaMM: 4.2.1
+spaMM: 4.3.0
 spaa: 0.2.2
 space: 0.1-1.1
 spaceExt: '1.0'
@@ -22697,7 +22699,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 2.11.0
+spant: 2.12.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -24778,7 +24780,7 @@ visxhclust: 1.1.0
 vita: 1.0.0
 vitae: 0.5.3
 vitality: '1.3'
-vivainsights: 0.3.0
+vivainsights: 0.3.1
 vivaldi: 1.0.1
 vivid: 0.2.7
 vivo: 0.2.1
