@@ -18,7 +18,7 @@ ACDm: 1.0.4.2
 ACEP: 0.0.21
 ACEsearch: 1.0.0
 ACEsimFit: 0.0.0.9
-ACEt: 1.8.2
+ACEt: 1.9.0
 ACMEeqtl: '1.6'
 ACNE: 0.8.1
 ACSNMineR: 0.16.8.25
@@ -4787,7 +4787,7 @@ PFIM: '5.0'
 PGEE: '1.5'
 PGICA: '1.0'
 PGM2: 1.0-1
-PGRdup: 0.2.3.7
+PGRdup: 0.2.3.8
 PH1XBAR: 0.10.1
 PHENIX: 1.3.1
 PHEindicatormethods: 2.0.1
@@ -5123,7 +5123,7 @@ PowerUpR: 1.1.0
 PowerVenn: 0.0.1
 PowerfulMaxEigenpair: 0.1.1
 PrInDT: 1.0.1
-PracTools: '1.3'
+PracTools: '1.4'
 PracticalEquiDesign: 0.0.3
 PreKnitPostHTMLRender: 0.1.0
 PreProcess: 3.1.7
@@ -6980,7 +6980,7 @@ SpaCCr: 0.1.0
 SpaDES: 2.0.9
 SpaDES.addins: 0.1.4
 SpaDES.core: 1.1.0
-SpaDES.tools: 1.0.1
+SpaDES.tools: 2.0.0
 SpaTimeClus: 1.0.1
 SpaceTimeBSS: 0.2-0
 SpadeR: 0.1.1
@@ -7427,7 +7427,7 @@ ThreeWiseMonkeys: 0.1.0
 Thresher: 1.1.3
 ThresholdROC: 2.9.1
 ThresholdROCsurvival: 1.1.1
-TiPS: 1.2.2
+TiPS: 1.2.3
 TickExec: '1.1'
 TiddlyWikiR: 1.0.1
 TideCurves: 0.0.5
@@ -7769,7 +7769,7 @@ WeedMap: '0.1'
 WeibullFit: 0.1.0
 WeibullR: 1.2.1
 WeibullR.ALT: 0.7.2
-WeightIt: 0.14.1
+WeightIt: 0.14.2
 WeightSVM: 1.7-11
 Weighted.Desc.Stat: '1.0'
 WeightedCluster: 1.6-2
@@ -8288,7 +8288,7 @@ apTreeshape: 1.5-0.1
 apa: 0.3.3
 apaStyle: '0.5'
 apaTables: 2.0.8
-apaText: 0.1.1
+apaText: 0.1.7
 apache.sedona: 1.4.0
 apc: 2.0.0
 apcf: 0.3.0
@@ -9581,7 +9581,7 @@ catch: 1.0.1
 catchr: 0.2.31
 catcont: 0.5.0
 catdap: 1.3.5
-catdata: 1.2.2
+catdata: 1.2.3
 cate: 1.1.1
 categoryEncodings: 1.4.3
 catenary: 1.1.2
@@ -9615,7 +9615,7 @@ cba: 0.2-23
 cban: '1.0'
 cbanalysis: 0.2.0
 cbar: 0.1.3
-cbcTools: 0.3.0
+cbcTools: 0.3.2
 cbinom: '1.6'
 cbioportalR: 1.0.1
 cbird: '1.0'
@@ -10657,7 +10657,7 @@ csci: 0.9.3
 csdata: 2023.5.22
 cshapes: '2.0'
 cslogistic: 0.1-3
-csmaps: 2022.12.15
+csmaps: 2023.5.22
 csn: 1.1.3
 csodata: 1.4.1
 csound: 0.1-1
@@ -11614,7 +11614,7 @@ dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.7.1-1
+duckdb: 0.8.0
 duckduckr: 1.0.0
 duke: 0.0.1
 dumbbell: '0.1'
@@ -12013,6 +12013,7 @@ enrichR: '3.2'
 enrichvs: 0.0.5
 enrichwith: 0.3.1
 ensModelVis: 0.1.0
+ensemblQueryR: 0.1.0
 ensemble: 0.2-1
 ensembleBMA: 5.1.8
 ensembleEN: 1.1.2
@@ -12690,7 +12691,7 @@ filterviewR: '0.11'
 finalfit: 1.0.6
 finalsize: 0.2.0
 financial: '0.2'
-finbif: 0.8.0
+finbif: 0.9.0
 finbipartite: 0.1.0
 finch: 0.4.0
 findInFiles: 0.4.0
@@ -12912,7 +12913,7 @@ formulaic: 0.0.8
 formulize: 0.1.0
 formulops: 0.5.0
 forplo: 0.2.5
-forrel: 1.5.1
+forrel: 1.5.2
 forsearch: 3.3.0
 forstringr: 0.1.1
 fortunes: 1.5-4
@@ -13819,7 +13820,7 @@ glmglrt: 0.2.2
 glmgraph: 1.0.3
 glmlep: '0.2'
 glmm: 1.4.4
-glmm.hp: 0.0-9
+glmm.hp: 0.1-0
 glmmAK: '1.7'
 glmmBUGS: 2.4.2
 glmmEP: 1.0-3.1
@@ -15198,7 +15199,7 @@ isoreader: 1.3.2
 isotone: 1.1-1
 isotonic.pen: '1.0'
 isotracer: 1.1.4
-isotree: 0.5.19-1
+isotree: 0.5.20
 ispd: '0.2'
 ispdata: '1.1'
 isqg: '1.4'
@@ -15402,6 +15403,7 @@ kairos: 1.2.0
 kalmanfilter: 2.0.1
 kamila: 0.1.2
 kangar00: 1.4.1
+kanjistat: 0.9.1
 kantorovich: 3.0.1
 kaos: 0.1.2
 kaphom: '0.3'
@@ -15996,6 +15998,7 @@ lmomco: 2.4.7
 lmreg: '1.2'
 lmridge: 1.2.2
 lmtest: 0.9-40
+lmtestrob: '0.1'
 lmtp: 1.3.1
 lmvar: 1.5.2
 lmviz: 0.2.0
@@ -16602,7 +16605,7 @@ megaptera: 1.0-0
 meifly: 0.3.1
 mekko: 0.1.0
 melody: 0.4.7
-melt: 1.9.0
+melt: 1.10.0
 meltr: 1.0.1
 meltt: 0.4.3
 melviewr: 0.0.1
@@ -17438,7 +17441,7 @@ multifear: 0.1.2
 multifluo: '1.1'
 multifunc: 0.9.4
 multifwf: 0.2.2
-multigraph: 0.97-2
+multigraph: '0.98'
 multigraphr: 0.1.0
 multigroup: 0.4.5
 multilateral: 1.0.0
@@ -17705,7 +17708,7 @@ neonOS: 1.0.0
 neonUtilities: 2.2.1
 neonstore: 0.4.4
 neotoma: 1.7.4
-neotoma2: 1.0.0
+neotoma2: 1.0.1
 nephro: '1.3'
 neptune: 0.2.3
 nesRdata: 0.3.1
@@ -18893,6 +18896,7 @@ performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 1.0.1
 perm: 1.0-0.2
+permChacko: 0.1.0
 permDep: 1.0.2
 permGPU: '0.15'
 permGS: 0.2.5
@@ -19703,7 +19707,7 @@ psmineR: 0.1.0
 pso: 1.0.4
 psoptim: '1.0'
 psp: '0.1'
-pspatreg: 1.0.9
+pspatreg: 1.1.0
 pspearman: 0.3-1
 pspline: 1.0-19
 pspline.inference: 1.0.4
@@ -20451,7 +20455,7 @@ rcube: '0.5'
 rcure: 0.1.0
 rcv: 0.2.1
 rda: 1.2-1
-rdacca.hp: 1.0-9
+rdacca.hp: 1.1-0
 rdaemon: 1.0.6
 rdaisi: 0.1.3
 rdatacite: 0.5.4
@@ -20592,7 +20596,7 @@ reddPrec: 0.4.0
 redditadsR: 0.1.0
 redist: 4.1.1
 redistmetrics: 1.0.2
-redland: 1.0.17-16.1
+redland: 1.0.17-17
 redlistr: 1.0.3
 redoc: 2.0.0.49
 redshiftTools: 1.0.1
@@ -21874,7 +21878,7 @@ seasonalityPlot: 0.99.3
 seasonalview: '0.3'
 seastests: 0.15.4
 seawaveQ: 2.0.2
-secr: 4.5.10
+secr: 4.6.0
 secrdesign: 2.8.2
 secret: 1.1.0
 secrettext: 0.1.0
@@ -23548,7 +23552,7 @@ synthACS: 1.7.1
 synthesis: 1.2.3
 synthesisr: 0.3.0
 synthpop: 1.8-0
-sys: 3.4.1
+sys: 3.4.2
 sysfonts: 0.8.8
 sysid: 1.0.4
 syskern: 2000.4.1
@@ -23628,7 +23632,7 @@ tapnet: '0.3'
 tarchetypes: 0.7.6
 tardis: 0.1.4
 targeted: '0.3'
-targets: 1.0.0
+targets: 1.1.3
 tashu: 0.1.1
 taskPR: '0.34'
 taskscheduleR: '1.7'
@@ -24093,7 +24097,7 @@ topmodel: 0.7.5
 topoDistance: 1.0.2
 topologyGSA: 1.4.7
 toposort: 1.0.0
-topr: 1.1.6
+topr: 1.1.7
 toprdata: 1.0.2
 topsa: 0.1.0
 topsis: '1.0'
@@ -25121,6 +25125,7 @@ wrProteo: 1.9.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.10
 wrappedtools: 0.9.1
+wrappr: 0.1.0
 wrapr: 2.0.9
 wrassp: 1.0.4
 write.snns: 0.0-4.2
