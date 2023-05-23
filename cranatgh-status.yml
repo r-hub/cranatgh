@@ -4292,6 +4292,7 @@ MultiFit: 1.1.1
 MultiGHQuad: 1.2.0
 MultiGlarmaVarSel: '1.0'
 MultiGroupO: 0.1.0
+MultiGroupSequential: 1.0.0
 MultiHorizonSPA: 1.0.0
 MultiJoin: 0.1.1
 MultiKink: 0.1.0
@@ -6132,7 +6133,7 @@ Repliscope: 1.1.1
 RepoGenerator: 0.0.1
 ReporteRs: 0.8.10
 ReporteRsjars: 0.0.4
-Require: 0.3.0
+Require: 0.3.1
 ResIN: 0.1.0
 ResPBIBD: 0.1.0
 ResearchAssociate: 1.0.1
@@ -7781,7 +7782,7 @@ WhiteStripe: 2.4.2
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
-WienR: 0.3-9
+WienR: 0.3-10
 WikiSocio: 0.7.0
 WikidataQueryServiceR: 1.0.0
 WikidataR: 2.3.3
@@ -8045,7 +8046,7 @@ ads: 1.5-9
 adsDataHubR: 0.1.1
 advclust: '0.4'
 adventr: 0.1.8
-adw: 0.3.0
+adw: 0.3.1
 adwave: '1.3'
 adwordsR: 0.3.1
 aemo: 0.3.0
@@ -8309,6 +8310,7 @@ apng: '1.1'
 apollo: 0.2.9
 appRiori: 0.0.2
 apparent: '1.1'
+appeears: '1.0'
 appell: 0.0-4
 apple: '0.3'
 appleadsR: 0.1.0
@@ -8535,6 +8537,7 @@ autoMrP: 1.0.2
 autoRasch: 0.2.2
 autoReg: 0.3.2
 autoSEM: 0.1.0
+autoScorecard: 0.1.0
 autoTS: 0.9.11
 autocart: 1.4.5
 autocogs: 0.1.4
@@ -9440,7 +9443,7 @@ c3net: 1.1.1.1
 cAIC4: '1.0'
 cIRT: 1.3.2
 cMonkey: 4.9.2
-cNORM: 3.0.2
+cNORM: 3.0.3
 cOde: 1.1.1
 cPCG: '1.0'
 cPseudoMaRg: 1.0.1
@@ -10569,7 +10572,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.1.1
+crew: 0.2.1
 crew.cluster: 0.1.0
 crfsuite: 0.4.1
 cricketdata: 0.2.2
@@ -10613,7 +10616,7 @@ crosstalk: 1.2.0
 crosstalkr: 1.0.2
 crossurr: 1.0.6
 crossval: 1.0.4
-crossvalidationCP: 1.0-2
+crossvalidationCP: '1.1'
 crosswalkr: 0.2.6
 crossword.r: 0.3.6
 crov: 0.2.0
@@ -11682,7 +11685,7 @@ dynutils: 1.0.11
 dynwrap: 1.2.3
 e1071: 1.7-13
 eAnalytics: 0.1.4
-eBsc: '4.16'
+eBsc: '4.17'
 eCAR: 0.1.2
 eChem: 1.0.0
 eDMA: 1.5-3
@@ -12003,7 +12006,7 @@ enetLTS: 1.1.0
 english: 1.2-6
 engsoccerdata: 0.1.5
 enigma: 0.3.0
-enmSdmX: 1.0.4
+enmSdmX: 1.0.6
 ennet: 0.2.2
 enpls: '6.1'
 enrichR: '3.2'
@@ -12887,6 +12890,7 @@ forestFloor: 1.11.1
 forestHES: 1.0-1
 forestRK: 0.0-5
 forestSAS: 1.0.1
+forestat: 1.0.0
 forestecology: 0.2.0
 forestinventory: 1.0.0
 forestmangr: 0.9.5
@@ -13042,7 +13046,7 @@ fuel: 1.2.0
 fueleconomy: 1.0.0
 fugeR: 0.1.2
 fugue: 0.1.7
-fuj: 0.1.2
+fuj: 0.1.3
 fullROC: 0.1.0
 fullfact: '1.5'
 fulltext: '2.0'
@@ -13558,6 +13562,7 @@ ggarchery: 0.4.2
 ggasym: 0.1.6
 ggbeeswarm: 0.7.2
 ggblanket: 1.8.0
+ggblend: 0.1.0
 ggborderline: 0.2.0
 ggbraid: 0.2.2
 ggbrain: 0.8.1
@@ -13572,7 +13577,7 @@ ggconf: 0.1.3
 ggcorrplot: 0.1.4
 ggcorset: 0.4.5
 ggcoverage: 0.7.1
-ggdag: 0.2.8
+ggdag: 0.2.9
 ggdark: 0.2.1
 ggdemetra: 0.2.5
 ggdendro: 0.1.23
@@ -14114,7 +14119,7 @@ growth: 1.1.1
 growthPheno: 2.1.19
 growthcleanr: 2.1.1
 growthcurver: 0.3.1
-growthmodels: 1.2.0
+growthmodels: 1.3.1
 growthrate: '1.3'
 growthrates: 0.8.4
 grpCox: 1.0.1
@@ -16430,7 +16435,7 @@ matrixdist: 1.1.8
 matrixpls: 1.0.13
 matrixprofiler: 0.1.9
 matrixsampling: 2.0.0
-matsbyname: 0.6.1
+matsbyname: 0.6.3
 matsindf: 0.4.1
 matuR: 0.0.1.0
 mau: 0.1.2
@@ -17042,7 +17047,7 @@ mlrintermbo: 0.5.0
 mlrpro: 0.1.2
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
-mlt: 1.4-6
+mlt: 1.4-7
 mlt.docreg: 1.1-6
 mltest: 1.0.1
 mltools: 0.3.5
@@ -18247,7 +18252,7 @@ onlineVAR: 0.1-1
 onlineforecast: 1.0.1
 onlineretail: 0.1.2
 onls: 0.1-2
-onmaRg: 0.2.0
+onmaRg: 0.2.1
 onnx: 0.0.3
 onpoint: 1.0.4
 onsr: 1.0.1
@@ -18262,7 +18267,7 @@ oompaData: 3.1.3
 ooplah: 0.2.0
 oops: 0.2.0
 oosp: 0.3.3
-oosse: 1.0.2
+oosse: 1.0.5
 oottest: 0.9.1
 opGMMassessment: 0.3.5
 opa: 0.8.1
@@ -21320,7 +21325,7 @@ rsae: '0.2'
 rsam: 0.1.0
 rsample: 1.1.1
 rsat: 0.1.18
-rsatscan: 1.0.3
+rsatscan: 1.0.4
 rsbml: 1.2-1
 rsbp: 0.1.0
 rscala: 3.2.21
@@ -21799,7 +21804,7 @@ scquantum: 1.0.0
 scraEP: '1.2'
 scrapeR: 0.1.6
 scrappy: 0.0.1
-scribe: 0.1.0
+scribe: 0.2.0
 scrime: 1.3.5
 scriptName: 1.0.1
 scriptests: 1.0-16
@@ -22036,6 +22041,7 @@ settings: 0.2.7
 setwidth: 1.0-4
 sever: 0.0.7
 severity: '2.0'
+sewage: 0.2.5
 sf: 1.0-12
 sfa: 1.0-1
 sfaR: 0.1.1
@@ -22643,7 +22649,7 @@ sound: 1.4.5
 soundClass: 0.0.9.2
 soundcorrs: 0.4.0
 soundecology: 1.3.3
-soundgen: 2.5.3
+soundgen: 2.6.0
 source.gist: 1.0.0
 sourceR: 1.1.0
 sourcetools: 0.1.7-1
@@ -24155,7 +24161,7 @@ traj: 1.3.1
 trajeR: 0.9.0.5
 trajectories: 0.2-7
 trajr: 1.4.0
-tram: 0.8-2
+tram: 0.8-3
 tramME: 1.0.4
 tramnet: 0.0-8
 trampoline: 0.1.1
