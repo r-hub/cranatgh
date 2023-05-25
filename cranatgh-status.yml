@@ -476,7 +476,7 @@ BNPTSclust: '2.0'
 BNPdensity: 2023.3.8
 BNPmix: 1.0.2
 BNSL: 0.1.4
-BNSP: 2.2.2
+BNSP: 2.2.3
 BNrich: 0.1.1
 BOG: '2.0'
 BOIN: 2.7.2
@@ -660,7 +660,7 @@ BenfordTests: 1.2.0
 Bergm: 5.0.5
 BerkeleyEarth: '1.8'
 BerlinData: 1.0.1
-Bernadette: 1.1.1
+Bernadette: 1.1.2
 Bessel: 0.6-0
 Bestie: 0.1.5
 BetaBit: '2.1'
@@ -1836,7 +1836,7 @@ EBEN: '4.6'
 EBMAforecast: 1.0.3
 EBPRS: 2.1.0
 EBS: '3.1'
-EBglmnet: '5.3'
+EBglmnet: '6.0'
 EBrank: 1.0.0
 ECFsup: 0.1-2
 ECGofTestDx: '0.4'
@@ -2383,7 +2383,7 @@ FreeSortR: '1.3'
 FreqProf: 0.0.1
 Fstability: 0.1.2
 FunCC: '1.0'
-FunChisq: 2.5.2
+FunChisq: 2.5.3
 FunCluster: '1.09'
 FunNet: 1.00-12
 FunWithNumbers: '1.1'
@@ -2830,7 +2830,7 @@ HDOMDesign: 1.0-1
 HDPenReg: 0.94.9
 HDRFA: 0.1.1
 HDShOP: 0.1.3
-HDSpatialScan: 1.0.3
+HDSpatialScan: 1.0.4
 HDStIM: 0.1.0
 HDTSA: 1.0.2
 HDclassif: 2.2.0
@@ -3469,7 +3469,7 @@ LIHNPSD: 0.2.1
 LIM: 1.4.7
 LINselect: 1.1.3
 LIStest: '2.1'
-LKT: 1.3.0
+LKT: 1.5.0
 LLAhclust: 0.2-2
 LLM: 1.1.0
 LLN: 1.1.1
@@ -4584,7 +4584,7 @@ ORDER2PARENT: '1.0'
 ORFID: 1.0.2
 ORIClust: 1.0-2
 ORION: 1.0.3
-ORKM: 0.6.0.0
+ORKM: 0.7.0.0
 ORMDR: 1.3-2
 ORTSC: 1.0.0
 ORdensity: '1.0'
@@ -5297,7 +5297,7 @@ R0: 1.2-10
 R1magic: 0.3.3
 R2019nCoV: 0.1.0
 R2Addhaz: 0.1.0
-R2BEAT: 1.0.4
+R2BEAT: 1.0.5
 R2BayesX: 1.1-3
 R2Cuba: 1.1-0
 R2DGC: 1.0.3
@@ -6148,7 +6148,7 @@ RespirAnalyzer: 1.0.1
 RestRserve: 1.2.1
 RestoreNet: '1.0'
 RevEcoR: 0.99.3
-RevGadgets: 1.1.0
+RevGadgets: 1.1.1
 ReviewR: 2.3.8
 Revticulate: 1.0.0
 Rexperigen: 0.2.1
@@ -6365,7 +6365,7 @@ Rvoterdistance: '1.1'
 Rwave: 2.6-5
 Rwclust: 0.1.0
 RweaveExtra: 1.0-0
-Rwhois: 1.0.12
+Rwhois: 1.0.14
 Rwinsteps: 1.0-1.1
 Rwofost: 0.8-3
 Rwordseg: 0.3-2
@@ -6665,7 +6665,7 @@ SPreg: '1.0'
 SQB: '0.4'
 SQDA: '1.0'
 SQI: 0.1.0
-SQL: 0.1.0
+SQL: 0.1.1
 SQLiteDF: 0.1.34
 SQLiteMap: 0.6.2
 SQLove: 0.0.2
@@ -8411,7 +8411,7 @@ arthistory: 0.1.0
 arules: 1.7-6
 arulesCBA: 1.2.5
 arulesNBMiner: 0.1-8
-arulesSequences: 0.2-29
+arulesSequences: 0.2-30
 arulesViz: 1.5-2
 as.color: '0.1'
 asVPC: 1.0.2
@@ -10479,7 +10479,7 @@ coveffectsplot: 1.0.2
 covequal: 0.1.0
 covfefe: 0.1.0
 covglasso: 1.0.3
-covid19.analytics: 2.1.3
+covid19.analytics: 2.1.3.1
 covid19br: 0.1.5
 covid19brazil: 0.1.0
 covid19dbcand: 0.1.1
@@ -11914,7 +11914,7 @@ eive: 3.1.1
 eivtools: 0.1-8
 eiwild: 0.6.7
 eixport: 0.5.4
-eks: 1.0.3
+eks: 1.0.4
 el.convex: '1.0'
 elaborator: '1.1'
 elasdics: 1.1.1
@@ -11990,7 +11990,7 @@ emplikAUC: '0.3'
 ems: 1.3.11
 emstreeR: 3.0.0
 emu: '4.3'
-emuR: 2.3.0
+emuR: 2.4.0
 emudata: '1.0'
 emulator: 1.2-21
 enRich: '3.1'
@@ -12581,7 +12581,7 @@ fdaMixed: '0.6'
 fdaMocca: 0.1-1
 fdaPDE: 1.1-16
 fdaPOIFD: 1.0.3
-fdacluster: 0.2.1
+fdacluster: 0.2.2
 fdaconcur: 0.1.0
 fdadensity: 0.1.2
 fdakma: 1.3.0
@@ -12898,7 +12898,7 @@ forestFloor: 1.11.1
 forestHES: 1.0-1
 forestRK: 0.0-5
 forestSAS: 1.0.1
-forestat: 1.0.0
+forestat: 1.0.1
 forestecology: 0.2.0
 forestinventory: 1.0.0
 forestmangr: 0.9.5
@@ -12914,7 +12914,7 @@ formatBibtex: 0.1.0
 formatR: '1.14'
 formatdown: 0.1.1
 formattable: 0.2.1
-formatters: 0.4.1
+formatters: 0.5.0
 formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
@@ -13241,7 +13241,7 @@ garma: 0.9.11
 garray: 1.1.2
 gaselect: 1.0.21
 gasfluxes: '0.5'
-gasmodel: 0.2.0
+gasmodel: 0.3.0
 gasper: 1.1.3
 gastempt: 0.5.5
 gaston: 1.5.9
@@ -13654,7 +13654,7 @@ ggmsa: 1.0.2
 ggmuller: 0.5.6
 ggmulti: 1.0.6
 ggnetwork: 0.5.12
-ggnewscale: 0.4.8
+ggnewscale: 0.4.9
 ggnormalviolin: 0.1.2
 ggnuplot: 0.1.0
 ggokabeito: 0.1.0
@@ -14250,7 +14250,7 @@ hIRT: 0.3.0
 hJAM: 1.0.0
 hNMF: '1.0'
 hR: 0.2.50
-hSDM: 1.4.1
+hSDM: 1.4.2
 haarfisz: 4.5.3
 habCluster: 1.0.5
 hablar: 0.3.2
@@ -15536,7 +15536,7 @@ kmodR: 0.2.0
 kmscv: 0.1.0
 knitLatex: 0.9.0
 knitcitations: 1.0.12
-knitr: '1.42'
+knitr: '1.43'
 knitrBootstrap: 1.0.2
 knitrProgressBar: 1.1.0
 knitrdata: 0.6.1
@@ -16819,7 +16819,7 @@ microclass: '1.2'
 microclustr: 0.1.0
 microcontax: '1.2'
 microdemic: 0.6.0
-microeco: 0.17.0
+microeco: 0.19.0
 microhaplot: 1.0.1
 micromap: 1.9.7
 micromapST: 2.0.1
@@ -17478,7 +17478,7 @@ multinma: 0.5.1
 multinomRob: 1.8-6.1
 multinomialLogitMix: '1.0'
 multinomineq: 0.2.5
-multiocc: 0.1.0
+multiocc: 0.2.0
 multipanelfigure: 2.1.2
 multipleNCC: 1.2-2
 multiplestressR: 0.1.1
@@ -18860,7 +18860,7 @@ pedometrics: 0.12.1
 pedprobr: 0.8.0
 pedquant: 0.2.2.1
 pedsuite: 1.1.0
-pedtools: 2.1.1
+pedtools: 2.2.0
 peermodels: 0.10.3
 pegas: '1.2'
 pell: 0.1.0
@@ -19880,7 +19880,7 @@ qkerntool: '1.19'
 qlcData: 0.2.1
 qlcMatrix: 0.9.7
 qlcVisualize: 0.1.0
-qlcal: 0.0.5
+qlcal: 0.0.6
 qle: '0.18'
 qlifetable: 0.0.1-15
 qlspack: '2.2'
@@ -20179,7 +20179,7 @@ rSFA: '1.5'
 rSHAPE: 0.3.2
 rSPACE: 1.2.0
 rSPARCS: 0.1.0
-rSPDE: 2.2.0
+rSPDE: 2.3.1
 rSQM: 1.3.14
 rSRD: 0.1.7
 rSpectral: 1.0.0.10
@@ -23988,7 +23988,7 @@ timeLineGraphics: '1.0'
 timeR: 1.2.0
 timeROC: '0.4'
 timeSeq: 1.0.4
-timeSeries: '4021.105'
+timeSeries: '4030.106'
 timechange: 0.2.0
 timedelay: 1.0.11
 timedeppar: 1.0.2
@@ -24468,7 +24468,7 @@ udpipe: 0.8.11
 udunits: 1.3.1
 udunits2: 0.13.2.1
 ufRisk: 1.0.6
-ufs: 0.5.2
+ufs: 0.5.6
 ugatsdb: 0.2.3
 ugomquantreg: 1.0.0
 ui: 0.1.1
