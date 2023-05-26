@@ -2495,7 +2495,7 @@ GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
 GGIR: 2.9-0
-GGIRread: 0.2.7
+GGIRread: 0.2.8
 GGMM: 1.0.1
 GGMncv: 2.1.1
 GGMnonreg: 1.0.0
@@ -6317,7 +6317,7 @@ Rrdrand: 0.1-16
 Rrelperm: 0.1.0
 RsSimulx: '2023.1'
 Rsac: 0.1-8
-Rsagacmd: 0.2.0
+Rsagacmd: 0.4.0
 Rsampletrees: 1.0.3
 Rsampling: 0.1.1
 Rsconctdply: 0.1.3
@@ -7803,7 +7803,7 @@ WoodburyMatrix: 0.0.2
 WordOfMouth: 1.1.0
 WordPools: 1.1-1
 WordR: 0.3.6
-WorldFlora: '1.13'
+WorldFlora: 1.13-2
 WormTensor: 0.1.0
 Wrapped: '2.0'
 WrensBookshelf: 0.1.0
@@ -9060,6 +9060,7 @@ bioC.logs: 1.2.1
 bioOED: 0.2.1
 bioPN: 1.2.0
 bioRad: 0.6.2
+bioSNR: '1.0'
 bioacoustics: 0.2.8
 bioassays: 1.0.1
 bioclim: 0.3.0
@@ -9525,6 +9526,7 @@ cape: 3.1.1
 caper: 1.0.1
 capitalR: 1.3.0
 capl: '1.42'
+caplot: '0.1'
 capm: 0.14.0
 capme: '1.3'
 capn: 1.0.0
@@ -9556,7 +9558,7 @@ caroline: 0.9.0
 carpenter: 0.2.2
 carrier: 0.1.1
 cartograflow: 1.0.3
-cartogram: 0.2.2
+cartogram: 0.3.0
 cartogramR: 1.0-9
 cartographer: 0.2.0
 cartography: 3.1.3
@@ -10499,6 +10501,7 @@ covid19swiss: 0.1.0
 covid19us: 0.1.9
 covidcast: 0.4.5
 covidmx: 0.7.7
+covidnor: 2023.05.18
 covidprobability: 0.1.0
 covidregionaldata: 0.9.3
 covidsymptom: 0.9.3
@@ -10705,7 +10708,7 @@ ctmm: 1.1.0
 ctmva: 1.1.0
 ctpm: 1.0.1
 ctqr: '2.0'
-ctrdata: 1.13.1
+ctrdata: 1.13.2
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
 cts: 1.0-22
@@ -13150,7 +13153,7 @@ gKRLS: 1.0.2
 gLRTH: 0.2.0
 gMCP: 0.8-15
 gMCPLite: 0.1.2
-gMOIP: 1.4.9
+gMOIP: 1.5.0
 gMWT: '1.4'
 gPCA: '1.0'
 gPdtest: '0.4'
@@ -13577,7 +13580,7 @@ ggarchery: 0.4.2
 ggasym: 0.1.6
 ggautomap: 0.3.2
 ggbeeswarm: 0.7.2
-ggblanket: 1.8.0
+ggblanket: 2.0.0
 ggblend: 0.1.0
 ggborderline: 0.2.0
 ggbraid: 0.2.2
@@ -13779,7 +13782,7 @@ gimmeTools: '0.1'
 gimms: 1.2.1
 giphyr: 0.2.0
 gips: 1.0.0
-giscoR: 0.3.3
+giscoR: 0.3.4
 gistr: 0.9.0
 git2r: 0.32.0
 git2rdata: 0.4.0
@@ -14422,7 +14425,7 @@ hglm.data: 1.0-1
 hgm: '1.23'
 hgnc: 0.1.2
 hgutils: 0.2.11
-hgwrr: 0.2-3
+hgwrr: 0.3-0
 hhcartr: 1.0.0
 hhh4contacts: 0.13.1
 hhi: 1.2.0
@@ -18334,7 +18337,7 @@ opentripplanner: 0.5.1
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
 openxlsx: 4.2.5.2
-openxlsx2: 0.6.1
+openxlsx2: '0.7'
 opera: 1.2.0
 operator.tools: 1.6.3
 operators: 0.1-8
@@ -18357,6 +18360,7 @@ optextras: 2019-12.4
 optiRum: 0.41.1
 optiSel: 2.0.7
 optiSolve: '1.0'
+optic: 1.0.0
 optical: 1.7.1
 opticskxi: '0.1'
 opticut: 0.1-2
@@ -18650,7 +18654,7 @@ parallelly: 1.35.0
 parallelpam: 1.0.1
 param6: 0.2.4
 paramGUI: 2.2.0
-parameters: 0.21.0
+parameters: 0.21.1
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.4
@@ -21174,7 +21178,7 @@ rock: 0.6.7
 rockchalk: 1.8.157
 rocker: 0.3.1
 rockr: 1.0.0
-roclang: 0.2.1
+roclang: 0.2.2
 rocnp: 0.1.0
 rococo: 1.1.7
 rocplus: 1.0-0
@@ -22884,6 +22888,7 @@ sperich: 1.5-8
 sperrorest: 3.0.5
 spew: 1.3.0
 spex: 0.7.1
+spfa: '1.0'
 spfda: 0.9.1
 spfilteR: 1.1.5
 spflow: 0.1.0
