@@ -1869,7 +1869,7 @@ EESPCA: 0.7.0
 EFA.MRFA: 1.1.2
 EFA.dimensions: 0.1.7.7
 EFAtools: 0.4.4
-EFAutilities: 2.1.2
+EFAutilities: 2.1.3
 EFDR: '1.2'
 EFS: 1.0.3
 EGAnet: 1.2.3
@@ -7784,6 +7784,7 @@ WeightedPortTest: '1.1'
 WeightedROC: 2020.1.31
 WgtEff: 0.1.2
 WhatIf: 1.5-10
+WhatsR: '1.0'
 WhiteStripe: 2.4.2
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
@@ -8186,7 +8187,7 @@ alr4: 1.0.6
 altR2: 1.0.0
 altadata: 0.1.1
 altair: 4.2.2
-altdoc: 0.1.0
+altdoc: 0.2.0
 alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '4.1'
@@ -8742,6 +8743,7 @@ bayesPO: 0.3.1
 bayesPop: 9.0-1
 bayesQR: '2.3'
 bayesROE: '0.1'
+bayesRecon: 0.1.0
 bayesSurv: '3.6'
 bayesTFR: 7.3-2
 bayesZIB: 0.0.4
@@ -9382,7 +9384,7 @@ bslib: 0.4.2
 bsml: 1.5-1
 bsnsing: 1.0.1
 bspec: '1.6'
-bspline: '2.1'
+bspline: '2.2'
 bsplinePsd: 0.6.0
 bsplus: 0.1.4
 bspm: 0.5.2
@@ -11302,7 +11304,7 @@ dineq: 0.1.0
 dint: 2.1.4
 dipm: '1.9'
 diproperm: 0.2.0
-dipsaus: 0.2.6
+dipsaus: 0.2.7
 diptest: 0.76-0
 dipw: 0.1.0
 directPA: '1.5'
@@ -11385,7 +11387,7 @@ distrRmetrics: 2.8.1
 distrSim: 2.8.1
 distrTEst: 2.8.1
 distrTeach: 2.9.0
-distreg.vis: 1.7.3
+distreg.vis: 1.7.4
 distribglm: 0.4.1
 distributional: 0.3.2
 distributions: '1.3'
@@ -16741,7 +16743,7 @@ meteoland: 2.0.0
 meteor: 0.3-4
 meteorits: 0.1.1
 meteospain: 0.1.2
-metevalue: 0.2.2
+metevalue: 0.2.4
 methcon5: 0.1.0
 metools: 1.0.0
 metricTester: 1.3.6
@@ -17956,7 +17958,7 @@ noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
 noctua: 2.6.1
-nodbi: 0.9.4
+nodbi: 0.9.5
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodeSub: 1.2.5
@@ -17987,6 +17989,7 @@ nonet: 0.4.0
 nonlinearICP: 0.1.2.1
 nonlinearTseries: 0.2.12
 nonmem2R: 0.2.4
+nonmem2rx: 0.1.0
 nonmemica: 1.0.1
 nonneg.cg: 0.1.6-1
 nonnest2: 0.5-5
@@ -18534,7 +18537,7 @@ pMineR: '0.31'
 pRF: '1.2'
 pROC: 1.18.2
 pRSR: 3.1.1
-pRecipe: 2.3.0
+pRecipe: 2.4.0
 pRepDesigns: 1.1.0
 pSI: '1.1'
 pTITAN2: 1.0.2
@@ -18650,7 +18653,7 @@ parallelMap: 1.5.1
 parallelPlot: 0.3.1
 parallelSVM: 0.1-9
 parallelize.dynamic: 0.9-1
-parallelly: 1.35.0
+parallelly: 1.36.0
 parallelpam: 1.0.1
 param6: 0.2.4
 paramGUI: 2.2.0
@@ -20041,7 +20044,7 @@ quoradsR: 0.1.0
 quotedargs: 0.1.3
 qut: '2.2'
 qvalue: 1.26.0
-qvcalc: 1.0.2
+qvcalc: 1.0.3
 qwraps2: 0.5.2
 r.blip: '1.1'
 r.jive: '2.4'
@@ -20064,7 +20067,7 @@ r2pptx: 0.1.0
 r2r: 0.1.1
 r2redux: 1.0.13
 r2resize: '1.6'
-r2rtf: 1.0.2
+r2rtf: 1.0.3
 r2shortcode: '0.1'
 r2social: '1.0'
 r2spss: 0.3.2
@@ -20576,6 +20579,7 @@ reams: '0.1'
 reappraised: 0.1.0
 rearrr: 0.3.3
 reasonabletools: '0.1'
+rebib: 0.2.2
 rebird: 1.3.0
 rebmix: 2.14.2
 rebus: 0.1-3
@@ -22669,7 +22673,7 @@ sorocs: 0.1.0
 sortable: 0.5.0
 sortinghat: '0.1'
 sorvi: 0.8.20
-sos: 2.1-4
+sos: 2.1-7
 sos4R: 0.4.2
 sotkanet: 0.9.79
 sotu: 1.0.4
@@ -22945,7 +22949,7 @@ splutil: 2022.6.20
 spm: 1.2.2
 spm12r: 2.8.3
 spm2: 1.1.3
-spmodel: 0.3.0
+spmodel: 0.4.0
 spmoran: 0.2.2.9
 spnaf: 0.2.1
 spnet: 0.9.1-0
@@ -23956,7 +23960,7 @@ tidyrgee: 0.1.0
 tidyrules: 0.1.5
 tidyselect: 1.2.0
 tidyseurat: 0.5.9
-tidysmd: 0.1.1
+tidysmd: 0.2.0
 tidysq: 1.1.3
 tidystats: 0.5.2
 tidystopwords: 0.9.1
@@ -24834,6 +24838,7 @@ vmsbase: 2.2.1
 vmv: '1.0'
 vntrs: 0.1.0
 vocaldia: 0.8.4
+voi: '1.0'
 voice: 0.4.21
 vol2birdR: 1.0.1
 volatilityTrader: 1.0.1
