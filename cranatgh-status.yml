@@ -1833,7 +1833,7 @@ EAinference: 0.2.3
 EAlasso: 0.1.0
 EBASS: '0.1'
 EBCHS: 0.1.0
-EBEN: '4.6'
+EBEN: '5.1'
 EBMAforecast: 1.0.3
 EBPRS: 2.1.0
 EBS: '3.1'
@@ -1861,6 +1861,7 @@ EDOIF: 0.1.3
 EDOtrans: 0.2.2
 EDR: 0.6-7
 EDanalysis: 1.0.1
+EEAaq: 0.0.1
 EEM: 1.1.1
 EEMDSVR: 0.1.0
 EEMDelm: 0.1.1
@@ -2031,6 +2032,7 @@ EnsembleBase: 1.0.2
 EnsembleCV: '0.8'
 EnsemblePCReg: 1.1.4
 EnsemblePenReg: '0.7'
+EntropicStatistics: 0.1.0
 EntropyEstimation: '1.2'
 EntropyExplorer: '1.1'
 EntropyMCMC: 1.0.4
@@ -3517,7 +3519,7 @@ LREP: 0.1.1
 LRMF3: 0.1.0
 LRQMM: 1.2.3
 LRTH: '1.3'
-LRTesteR: 1.0.2
+LRTesteR: 1.1.0
 LRcontrast: '1.0'
 LS2W: 1.3.6
 LS2Wstat: 2.1-4
@@ -4008,6 +4010,7 @@ MVN: '5.9'
 MVNBayesian: 0.0.8-11
 MVNtestchar: 1.1.3
 MVPARTwrap: 0.1-9.2
+MVPBT: 1.1-1
 MVQuickGraphs: 0.1.2
 MVR: 1.33.0
 MVT: 0.3-8
@@ -6001,7 +6004,7 @@ RcppBDT: 0.2.6
 RcppBigIntAlgos: 1.0.1
 RcppBlaze: 0.2.2
 RcppCCTZ: 0.2.12
-RcppCGAL: 5.4.1
+RcppCGAL: 5.5.2
 RcppCNPy: 0.2.11
 RcppCWB: 0.6.0
 RcppCensSpatial: 0.3.0
@@ -6514,7 +6517,7 @@ SGCS: '2.7'
 SGL: '1.3'
 SGP: 2.0-0.0
 SGPdata: 26.0-0.0
-SHAPforxgboost: 0.1.1
+SHAPforxgboost: 0.1.3
 SHARE: 1.1.0
 SHELF: 1.8.0
 SHIP: 1.0.2
@@ -6761,6 +6764,7 @@ SanzCircos: 0.1.0
 Scale: 1.0.4
 ScaleSpikeSlab: '1.0'
 Scalelink: '1.0'
+ScatterDensity: 0.0.1
 SchemaOnRead: 1.0.2
 SciViews: 0.9-13.1
 SciencePo: 0.3.6.12
@@ -8169,7 +8173,7 @@ allomr: 0.2.0
 alluvial: 0.1-2
 alm: 0.4.0
 almanac: 1.0.0
-alone: 0.1.1
+alone: '0.2'
 alookr: 0.3.7
 alpaca: 0.3.4
 alpha.correction.bh: 0.0.1
@@ -10597,7 +10601,7 @@ crimelinkage: 0.0.4
 crimeutils: 0.5.1
 crisp: 1.0.0
 crispRdesignR: 1.1.7
-criticality: 0.9.2
+criticality: 0.9.3
 criticalpath: 0.2.1
 critpath: 0.2.0
 crmPack: 1.0.3
@@ -10750,7 +10754,7 @@ cursory: 1.0.0
 cursr: 0.1.0
 curstatCI: 0.1.1
 curtailment: 0.2.0
-curvHDR: 1.2-1.1
+curvHDR: 1.2-2
 curvclust: 0.0.1
 curveDepth: 0.1.0.9
 curvecomp: 0.1.0
@@ -11090,7 +11094,7 @@ degreenet: 1.3-3
 degross: 0.9.0
 deisotoper: 0.0.7
 dejaVu: 0.3.0
-delaunay: 1.1.1
+delaunay: 2.0.0
 delayed: 0.4.0
 deldir: 1.0-9
 delftfews: 0.3-136
@@ -12171,7 +12175,7 @@ esaddle: 0.0.7
 esaps: 0.2.2
 esback: 0.3.0
 esc: 0.5.1
-escalation: 0.1.4
+escalation: 0.1.5
 esd4all: 1.0-9
 eseis: 0.7.2
 eselect: '1.1'
@@ -13052,7 +13056,7 @@ fst4pg: 1.0.0
 fstcore: 0.9.14
 fsthet: 1.0.1
 ftDK: '1.0'
-ftExtra: 0.5.0
+ftExtra: 0.6.0
 ftaproxim: 0.0.1
 ftnonpar: 0.1-88
 ftrCOOL: 2.0.0
@@ -13491,7 +13495,7 @@ geospark: 0.3.1
 geosphere: 1.5-18
 geospt: 1.0-2
 geosptdb: 1.0-1
-geostan: 0.4.1
+geostan: 0.5.0
 geostats: '1.6'
 geostatsp: 1.8.6
 geotech: '1.0'
@@ -15393,7 +15397,7 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.3.2
 jsr223: 0.3.4
-jstable: 1.1.0
+jstable: 1.1.1
 jstor: 0.3.10
 jtGWAS: 1.5.1
 jtdm: 0.1-0
@@ -15500,7 +15504,7 @@ khroma: 1.10.0
 kibior: 0.1.1
 kidney.epi: 1.2.0
 kidsides: 0.5.0
-kim: 0.5.212
+kim: 0.5.260
 kimfilter: 1.0.1
 kimisc: '0.4'
 kin.cohort: '0.7'
@@ -16260,7 +16264,7 @@ machQA: 0.1.4
 machina: 0.1.6
 macleish: 0.3.9
 maclogp: 0.1.1
-macroBiome: 0.2.0
+macroBiome: 0.3.0
 macrocol: 0.1.0
 macrosyntR: 0.2.19
 macs: '1.0'
@@ -16459,6 +16463,7 @@ matrixdist: 1.1.8
 matrixpls: 1.0.13
 matrixprofiler: 0.1.9
 matrixsampling: 2.0.0
+matrixset: 0.1.1
 matsbyname: 0.6.3
 matsindf: 0.4.3
 matuR: 0.0.1.0
@@ -16739,7 +16744,7 @@ meteo: 0.1-5
 meteoEVT: 0.1.0
 meteoForecast: '0.56'
 meteogRam: '1.0'
-meteoland: 2.0.0
+meteoland: 2.0.1
 meteor: 0.3-4
 meteorits: 0.1.1
 meteospain: 0.1.2
@@ -17897,6 +17902,7 @@ nlnet: '1.4'
 nloptr: 2.0.3
 nloptwrap: 0.5-7
 nlpred: 1.0.1
+nlpsem: 0.1.0
 nlr: 0.1-3
 nlraa: '1.5'
 nlreg: 1.2-2.2
@@ -23902,7 +23908,7 @@ tidyEmoji: 0.1.0
 tidyHeatmap: 1.8.1
 tidyLPA: 1.1.0
 tidyMicro: '1.47'
-tidyREDCap: 1.1.0
+tidyREDCap: 1.1.1
 tidyRSS: 2.0.7
 tidySEM: 0.2.4
 tidyUSDA: 0.4.0
@@ -25358,6 +25364,7 @@ zoid: 1.1.0
 zoltr: 0.5.1
 zonator: 0.6.0
 zonebuilder: 0.0.2
+zonohedra: 0.2-1
 zoo: 1.8-12
 zooaRch: '1.2'
 zooaRchGUI: 1.0.2
