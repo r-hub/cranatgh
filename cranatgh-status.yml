@@ -47,6 +47,7 @@ AEP: 0.1.4
 AER: 1.2-10
 AEenrich: 1.1.0
 AF: 0.1.5
+AFFECT: 0.1.0
 AFLPsim: 0.4-2
 AFM: '2.0'
 AFR: 0.3.4
@@ -631,7 +632,7 @@ BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
 BayesValidate: '0.0'
 BayesVarSel: 2.2.5
-BayesX: 0.3-1.1
+BayesX: 0.3-2
 BayesXsrc: 3.0-4
 BayesianAnimalTracker: '1.2'
 BayesianFROC: 1.0.0
@@ -680,7 +681,7 @@ BiProbitPartial: 1.0.3
 BiSEp: '2.2'
 BiTrinA: '1.3'
 BiasCorrector: 0.2.2
-BiasedUrn: 2.0.9
+BiasedUrn: 2.0.10
 BibPlots: 0.0.8
 BifactorIndicesCalculator: 0.2.2
 BigDataStatMeth: 0.99.32
@@ -2315,7 +2316,7 @@ FinAna: 0.1.2
 FinAsym: '1.0'
 FinCal: 0.6.3
 FinCovRegularization: 1.1.0
-FinNet: 0.1.0
+FinNet: 0.1.1
 FinTS: 0.4-6
 FinancialInstrument: 1.3.1
 FinancialMath: 0.1.1
@@ -4163,6 +4164,7 @@ MethodCompare: 0.1.2
 Methplot: '1.0'
 MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
+MetricGraph: 1.1.1
 Metrics: 0.1.4
 MetricsWeighted: 1.0.1
 MexBrewer: 0.0.2
@@ -5485,6 +5487,7 @@ RFpredInterval: 1.0.7
 RFreak: 0.3-0
 RGA: 0.4.2
 RGAN: 0.1.1
+RGAP: 0.1.0
 RGBM: 1.0-11
 RGCCA: 3.0.1
 RGCxGC: 1.2.0
@@ -6258,7 +6261,7 @@ Rnmr1D: 1.3.2
 Rnotes: 1.1-1
 Rnumerai: 3.0.1
 Rnvd3: 1.0.0
-RoBMA: 2.3.2
+RoBMA: 3.0.0
 RoBSA: 1.0.2
 RoBTT: 1.1.0
 RobAStBase: 1.2.3
@@ -7054,7 +7057,7 @@ SpherWave: 1.2.2
 SphereOptimize: 0.1.1
 SphericalCubature: '1.5'
 SphericalK: '1.2'
-SpiceFP: 0.1.1
+SpiceFP: 0.1.2
 Spillover: 0.1.0.3
 Splinets: 1.5.0
 SplitGLM: 1.0.5
@@ -7092,7 +7095,7 @@ StatMethRank: '1.3'
 StatPerMeCo: 0.1.0
 StatRank: 0.0.6
 StatTeacherAssistant: 0.0.1
-Statamarkdown: 0.7.4
+Statamarkdown: 0.8.0
 StateTrace: 1.0-4
 Statomica: '1.0'
 Statsomat: 1.1.0
@@ -9261,7 +9264,7 @@ bootCT: 1.1.1
 bootComb: 1.1.2
 bootES: 1.3.0
 bootGOF: 0.1.0
-bootImpute: 1.2.0
+bootImpute: 1.2.1
 bootLR: 1.0.2
 bootPLS: 0.9.9
 bootRes: 1.2.4
@@ -11376,7 +11379,7 @@ dissever: 0.2-3
 distTails: 0.1.2
 distance.sample.size: '0.0'
 distances: 0.1.9
-distanceto: 0.0.2
+distanceto: 0.0.3
 distantia: 1.0.2
 distcomp: 1.3-3
 distcrete: 1.0.3
@@ -11890,7 +11893,7 @@ eel: '1.1'
 eemR: 1.0.1
 eemdARIMA: 0.1.0
 eemdTDNN: 0.1.0
-eeptools: 1.2.4
+eeptools: 1.2.5
 eesim: 0.1.0
 ef: 1.2.0
 efdm: 0.2.0
@@ -13577,7 +13580,7 @@ ggFishPlots: 0.2.2
 ggHoriPlot: 1.0.1
 ggHorizon: '0.1'
 ggOceanMaps: 1.3.4
-ggPMX: 1.2.8
+ggPMX: 1.2.9
 ggQC: 0.0.31
 ggQQunif: 0.1.5
 ggROC: '1.0'
@@ -13722,7 +13725,7 @@ ggrain: 0.0.3
 ggraph: 2.1.0
 ggraptR: '1.3'
 ggrasp: '1.2'
-ggrastr: 1.0.1
+ggrastr: 1.0.2
 ggrcs: 0.3.0
 ggredist: 0.0.2
 ggrepel: 0.9.3
@@ -15115,6 +15118,7 @@ intpoint: '1.0'
 intradayModel: 0.0.1
 intrinsicDimension: 1.2.0
 intrinsicFRP: 0.1.0
+intrinsicKappa: '0.1'
 introgress: 1.2.3
 intrval: 0.1-2
 intsurv: 0.2.2
@@ -16615,7 +16619,7 @@ mecdf: 0.6.1
 mechkar: 1.14.6
 meconetcomp: 0.2.0
 mecor: 1.0.0
-mecoturn: 0.1.0
+mecoturn: 0.2.0
 medAdherence: '1.03'
 medExtractR: 0.4.1
 medSTC: 1.0.0
@@ -16835,7 +16839,7 @@ miceMNAR: 1.0.2
 miceRanger: 1.5.0
 miceadds: 3.16-18
 miceafter: 0.5.0
-micemd: 1.8.0
+micemd: 1.9.0
 michelRodange: 1.0.0
 miclust: 1.2.8
 micompr: 1.1.3
@@ -18009,7 +18013,7 @@ nonet: 0.4.0
 nonlinearICP: 0.1.2.1
 nonlinearTseries: 0.2.12
 nonmem2R: 0.2.4
-nonmem2rx: 0.1.0
+nonmem2rx: 0.1.1
 nonmemica: 1.0.1
 nonneg.cg: 0.1.6-1
 nonnest2: 0.5-5
@@ -18485,7 +18489,7 @@ oshka: 0.1.2
 osi: 0.1.0
 oskeyring: 0.1.6
 osmar: 1.1-7
-osmdata: 0.2.2
+osmdata: 0.2.3
 osmextract: 0.4.1
 osmgeosample: '0.1'
 osmose: 3.3.4
@@ -19677,7 +19681,7 @@ projector: 0.0.2
 projects: 2.1.3
 projmanr: 0.2.1
 projmgr: 0.1.0
-projpred: 2.5.0
+projpred: 2.6.0
 prolific.api: 0.5.1
 prome: 1.5.6.70
 promethee123: 0.1.0
@@ -21076,7 +21080,7 @@ rmapshaper: 0.5.0
 rmapzen: 0.4.4
 rmarchingcubes: 0.1.3
 rmargint: 2.0.2
-rmarkdown: '2.21'
+rmarkdown: '2.22'
 rmatio: 0.18.0
 rmcfs: 1.3.5
 rmcorr: 0.5.4
@@ -21409,7 +21413,7 @@ rsleep: 1.0.6
 rslp: 0.2.0
 rslurm: 0.6.2
 rsm: 2.10.3
-rsmatrix: 0.2.4
+rsmatrix: 0.2.6
 rsml: '1.3'
 rsnell: '0.1'
 rsnps: 0.5.0.0
@@ -21561,6 +21565,7 @@ rwfec: '0.2'
 rwhatsapp: 0.2.4
 rwicc: 0.1.3
 rwirelesscom: 1.4.3
+rwisp: 1.0.1
 rwm: '1.53'
 rworkflows: 0.99.5
 rworldmap: 1.3-6
@@ -21756,6 +21761,7 @@ scCustomize: 1.1.1
 scDHA: 1.2.1
 scDIFtest: 0.1.1
 scDiffCom: 0.1.0
+scGOclust: 0.1.0
 scGate: 1.4.1
 scINSIGHT: 0.1.4
 scISR: 0.1.1
@@ -22387,7 +22393,7 @@ simode: 1.2.0
 simodels: 0.0.5
 simone: 1.0-4
 simphony: 1.0.3
-simplace: 5.0.11
+simplace: 5.0.12
 simplanonym: 0.1.0
 simpleCache: 0.4.2
 simpleFDR: '1.1'
@@ -22419,7 +22425,7 @@ simsalapar: 1.0-12
 simsem: 0.5-16
 simsl: 0.2.1
 simstandard: 0.6.3
-simstudy: 0.6.0
+simstudy: 0.7.0
 simsurv: 1.0.0
 simtimer: 4.0.0
 simtrait: 1.1.3
@@ -22924,6 +22930,7 @@ spftir: 0.1.0
 spgrass6: 0.8-9
 spgs: 1.0-3
 spgwr: 0.6-35
+sphereTessellation: 1.0.0
 spherepc: 0.1.7
 sphereplot: 1.5.1
 sphet: '2.0'
@@ -24958,7 +24965,7 @@ waterYearType: 1.0.1
 waterfall: 1.0.2
 waterfalls: 1.0.0
 waterquality: 0.3.0
-watson: '0.3'
+watson: '0.4'
 wav: 0.1.0
 wavScalogram: 1.1.2
 waveband: 4.7.2
