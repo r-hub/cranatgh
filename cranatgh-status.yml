@@ -3062,7 +3062,7 @@ IDPmisc: 1.1.20
 IDSA: '2.1'
 IDSL.CSA: '1.1'
 IDSL.FSA: '1.1'
-IDSL.IPA: '2.8'
+IDSL.IPA: '2.9'
 IDSL.MXP: '2.0'
 IDSL.NPA: '1.1'
 IDSL.SUFA: '1.3'
@@ -3453,7 +3453,7 @@ LDRTools: 0.2-1
 LDcorSV: 1.3.3
 LDdiag: '0.1'
 LDheatmap: 1.0-6
-LDlinkR: 1.2.3
+LDlinkR: 1.3.0
 LDtests: '1.0'
 LEANR: 1.4.9
 LEAP: '0.2'
@@ -6636,7 +6636,7 @@ SPADAR: '1.0'
 SPARQL: '1.16'
 SPARRAfairness: 0.0.0.1
 SPARSEMODr: 1.2.0
-SPARTAAS: 1.1.0
+SPARTAAS: 1.2.0
 SPAS: 2023.3.31
 SPAr: '0.1'
 SPAtest: 3.1.2
@@ -7303,7 +7303,7 @@ TRexSelector: 0.0.1
 TSA: 1.3.1
 TSANN: 0.1.0
 TSAgg: 1.0.1
-TSCI: 2.0.0
+TSCI: 3.0.0
 TSCS: 0.1.1
 TSDFGS: '2.0'
 TSDT: 1.0.7
@@ -7982,7 +7982,7 @@ actxps: 1.1.0
 acumos: 0.4-4
 ada: 2.0-5
 adaHuber: '1.1'
-adabag: '4.3'
+adabag: '5.0'
 adace: 1.0.1
 adagio: 0.8.5
 adamethods: 1.2.1
@@ -8492,7 +8492,7 @@ astrolibR: '0.1'
 astsa: '2.0'
 asuR: 0.08-24
 asus: 1.0.0
-asylum: 1.0.3
+asylum: 1.1.0
 asymLD: '0.1'
 asymmetry: 2.0.4
 asymmetry.measures: '0.2'
@@ -8513,7 +8513,7 @@ atmopt: 0.1.0
 atom4R: 0.3-3
 atpolR: 0.1.1
 atsd: 1.2.0
-attachment: 0.3.1
+attachment: 0.4.0
 attempt: 0.3.1
 attention: 0.3.0
 attenuation: 1.0.0
@@ -11524,7 +11524,7 @@ doudpackage: 2.0.1
 downlit: 0.4.2
 downloader: '0.4'
 downloadthis: 0.3.2
-downscale: 4.2-0
+downscale: 5.0.0
 downscaledl: '1.0'
 downsize: 0.2.3
 dowser: 1.2.0
@@ -12053,7 +12053,7 @@ ensemblepp: 1.0-0
 ensr: 0.1.0
 ensurer: '1.1'
 entcn: 1.0.0
-entropart: 1.6-11
+entropart: 1.6-12
 entropy: 1.3.1
 entrymodels: 0.2.1
 envDocument: 2.4.1
@@ -13494,7 +13494,7 @@ geoops: 0.3.0
 geoparser: 0.1.2
 geophys: 1.4-1
 georob: 0.3-14
-geos: 0.2.2
+geos: 0.2.3
 geosample: 0.2.1
 geosapi: 0.6-5
 geoscale: 2.0.1
@@ -18932,7 +18932,7 @@ pepr: 0.4.0
 peptider: 0.2.2
 pequod: 0.0-5
 perARMA: '1.6'
-peramo: 0.1.2
+peramo: 0.1.3
 perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
@@ -20787,7 +20787,7 @@ representr: 0.1.4
 represtools: 0.1.3
 reprex: 2.0.2
 reproducer: 0.5.1
-reproducible: 2.0.2
+reproducible: 2.0.4
 reproj: 0.4.3
 repsd: 1.0.1
 repurrrsive: 1.1.0
@@ -20893,7 +20893,7 @@ rgam: 0.6.6
 rgauges: 0.2.0
 rgbif: 3.7.7
 rgcvpack: 0.1-4
-rgdal: 1.6-6
+rgdal: 1.6-7
 rgdax: 1.2.1
 rgee: 1.1.5
 rgeedim: 0.2.2
@@ -20920,6 +20920,7 @@ rglplus: '1.1'
 rglwidget: 0.2.1
 rgnparser: 0.2.6
 rgoogleads: 0.9.2
+rgoogleclassroom: '0.9'
 rgoogleslides: 0.3.2
 rgovcan: 1.0.3
 rgp: 0.4-1
@@ -24652,7 +24653,7 @@ vDiveR: 1.1.0
 vICC: 1.0.0
 vMF: 0.0.1
 vMask: '1.0'
-vaRiskScore: 1.0.0
+vaRiskScore: 1.1.0
 vabayelMix: '0.3'
 vacem: 0.1-1
 vacuum: 0.1.0
@@ -24701,7 +24702,7 @@ varSelectIP: 0.2-1
 varTestnlme: 1.3.4
 varband: 0.9.0
 varbin: 0.2.1
-varbvs: 2.6-8
+varbvs: 2.6-10
 varclust: 0.9.4
 varcompci: 1.0.1
 vardiag: 0.2-1
@@ -25381,7 +25382,7 @@ zoid: 1.1.0
 zoltr: 0.5.1
 zonator: 0.6.0
 zonebuilder: 0.0.2
-zonohedra: 0.2-1
+zonohedra: 0.2-2
 zoo: 1.8-12
 zooaRch: '1.2'
 zooaRchGUI: 1.0.2
