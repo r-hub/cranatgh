@@ -381,7 +381,7 @@ BCClong: 1.0.0
 BCDAG: 1.0.0
 BCDating: 0.9.8
 BCE: 2.2.0
-BCEA: 2.4.3
+BCEA: 2.4.4
 BCEE: 1.3.1
 BCEs0: 1.1-1
 BCHM: '1.00'
@@ -1686,6 +1686,7 @@ Delta: 0.2.0.3
 DeltaMAN: 0.5.0
 Demerelate: 0.9-3
 DemoDecomp: 1.0.1
+DemoKin: 1.0.3
 DemografixeR: 0.1.1
 DemographicTable: 0.1.6
 DendSer: 1.0.2
@@ -4849,7 +4850,7 @@ PMCMR: '4.4'
 PMCMRplus: 1.9.6
 PML: '1.2'
 PMmisc: 0.1.2
-PMwR: 0.18-0
+PMwR: 0.19-1
 PNADcIBGE: 0.7.2
 PNAR: '1.4'
 PNSIBGE: 0.1.8
@@ -4953,7 +4954,7 @@ PWD: '1.0'
 PWEALL: 1.3.0
 PWFSLSmoke: 1.2.117
 PWIR: 0.0.1
-PaRe: 0.1.6
+PaRe: 0.1.7
 PabonLasso: '1.0'
 Pade: 1.0.5
 PairTrading: '1.1'
@@ -5256,7 +5257,7 @@ QSARdata: '1.3'
 QT: '1.3'
 QTL.gCIMapping: '3.4'
 QTL.gCIMapping.GUI: 2.1.1
-QTLEMM: 1.1.3
+QTLEMM: 1.2.0
 QTLNetworkR: 0.1-7
 QTLRel: '1.12'
 QTOCen: 0.1.1
@@ -7647,7 +7648,7 @@ VIC5: 0.2.6
 VICmodel: 0.1.2
 VIF: '1.0'
 VIFCP: '1.2'
-VIGoR: 1.1.1
+VIGoR: 1.1.2
 VIM: 6.2.2
 VIMGUI: 0.10.0
 VIMean: 0.1.0
@@ -9277,7 +9278,7 @@ bootUR: 1.0.2
 bootcluster: 0.3.2
 bootf2: 0.4.1
 bootfs: 1.4.2
-bootnet: 1.5.1
+bootnet: 1.5.3
 bootruin: 1.2-4
 bootsPLS: 1.1.2
 bootspecdens: '3.0'
@@ -11234,7 +11235,7 @@ dgmb: '1.2'
 dgo: 0.2.15
 dgodata: 0.0.2
 dgof: '1.4'
-dgpsi: 2.1.6
+dgpsi: 2.2.0
 dgumbel: 1.0.1
 dhReg: 0.1.1
 dhga: '0.1'
@@ -12257,7 +12258,7 @@ evdbayes: 1.1-3
 event: 1.1.1
 event.chart: '2.0'
 eventInterval: '1.3'
-eventPred: 0.1.4
+eventPred: 0.1.5
 eventTrack: 1.0.2
 eventdataR: 0.3.1
 eventglm: 1.2.2
@@ -14036,6 +14037,7 @@ gprofiler2: 0.2.1
 gps: '1.1'
 gptk: '1.08'
 gptstudio: 0.2.0
+gptzeror: 0.0.1
 gpuR: 2.0.3
 gputools: '1.1'
 gpx: 1.1.0
@@ -15412,7 +15414,7 @@ jsonNormalize: 1.0.0
 jsonStrings: 2.1.1
 jsonify: 1.2.2
 jsonld: '2.2'
-jsonlite: 1.8.4
+jsonlite: 1.8.5
 jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.3.2
@@ -16836,7 +16838,7 @@ micEconIndex: 0.1-8
 micEconSNQP: 0.6-10
 micar: 1.1.2
 micd: 1.1.1
-mice: 3.15.0
+mice: 3.16.0
 miceExt: 1.1.0
 miceFast: 0.8.2
 miceMNAR: 1.0.2
@@ -17078,7 +17080,7 @@ mlr3filters: 0.7.1
 mlr3fselect: 0.11.0
 mlr3hyperband: 0.4.5
 mlr3learners: 0.5.6
-mlr3mbo: 0.1.2
+mlr3mbo: 0.2.1
 mlr3measures: 0.5.0
 mlr3misc: 0.12.0
 mlr3oml: 0.7.1
@@ -19450,6 +19452,7 @@ portfolioBacktest: 0.4.1
 portfolioSim: 0.2-7
 portsort: 0.1.0
 portvine: 1.0.2
+posologyr: 1.2.1
 postCP: 1.7.2
 postDoubleR: 1.4.12
 postGGIR: 2.4.0.2
@@ -19784,7 +19787,7 @@ psychmetadata: 1.0.0
 psycho: 0.6.1
 psychometric: '2.3'
 psychomix: 1.1-8
-psychonetrics: '0.10'
+psychonetrics: '0.11'
 psychotools: 0.7-2
 psychotree: 0.16-0
 psychrolib: 2.5.2
@@ -20822,7 +20825,7 @@ reshape: 0.8.9
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
 resourcer: 1.4.0
-respR: 2.2.0
+respR: 2.3.0
 resper: 0.3.2
 respirometry: 1.3.0
 responsePatterns: 0.1.0
@@ -21726,7 +21729,7 @@ sarp.snowprofile.pyface: 0.1.3
 sars: 1.3.6
 sarsop: 0.6.14
 sas7bdat: '0.7'
-sasLM: 0.9.8
+sasLM: 0.9.9
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sasr: 0.1.2
