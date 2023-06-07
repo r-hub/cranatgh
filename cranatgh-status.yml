@@ -1136,7 +1136,7 @@ ChaosGame: '1.4'
 CharFun: 0.1.0
 ChargeTransport: 1.0.2
 CheckDigit: 1.0.0
-ChemoSpec: 6.1.8
+ChemoSpec: 6.1.9
 ChemoSpec2D: 0.5.0
 ChemoSpecUtils: 1.0.3
 ChemometricsWithR: 0.1.13
@@ -3807,6 +3807,7 @@ MFPCA: 1.3-10
 MFSAS: 1.0-0
 MFSIS: 0.2.0
 MFT: '2.0'
+MG1StationaryProbability: 0.1.1
 MGBT: 1.0.7
 MGDrivE: 1.6.0
 MGDrivE2: 2.1.0
@@ -3991,6 +3992,7 @@ MScombine: '1.4'
 MSeasy: 5.3.3
 MSeasyTkGUI: 5.3.3
 MSiP: 1.3.7
+MSigSeg: 0.1.3
 MSinference: 0.0.9
 MSwM: '1.5'
 MTA: 0.4.1
@@ -5453,6 +5455,7 @@ REDCapDM: 0.7.0
 REDCapExporter: 0.2.2
 REDCapR: 1.1.0
 REDCapTidieR: 0.4.0
+REDI: 1.0.0
 REEMtree: 0.90.4
 REGENT: 1.0.6
 REIDS: 0.1.0
@@ -7971,7 +7974,7 @@ acrt: 1.0.1
 acs: 2.1.4
 acss: 0.2-5
 acss.data: '1.0'
-act: 1.3.0
+act: 1.3.1
 actel: 1.2.1
 actilifecounts: 1.1.1
 activAnalyzer: 2.0.1
@@ -8053,7 +8056,7 @@ adk: 1.0-2
 adklakedata: 0.6.1
 adlift: 1.4-5
 admiral: 0.10.2
-admiral.test: 0.5.0
+admiral.test: 0.6.0
 admiraldev: 0.4.0
 admiralonco: 0.3.0
 admiralophtha: 0.1.0
@@ -9592,7 +9595,7 @@ cascadeSelect: 1.0.0
 cascadess: 0.1.0
 caschrono: '2.3'
 cascsim: '0.4'
-caseMatch: 1.0.8
+caseMatch: 1.1.0
 casebase: 0.10.3
 casen: 0.2.1
 cases: 0.1.1
@@ -9918,7 +9921,7 @@ ciuupi: 1.1.0
 ciuupi2: 1.0.1
 civis: 3.1.2
 cjar: 0.1.2
-cjbart: 0.3.0
+cjbart: 0.3.1
 cjoint: 2.1.0
 ck37r: 1.0.3
 ckanr: 0.7.0
@@ -10288,6 +10291,7 @@ con2aqi: 0.1.0
 con2lki: 0.1.0
 conStruct: 1.0.5
 conText: 1.4.3
+conTree: '0.3'
 concatenate: 1.0.0
 concatipede: 1.0.1
 concaveman: 1.1.0
@@ -10890,7 +10894,7 @@ dapr: 0.0.3
 daqapo: 0.3.2
 darch: 0.12.0
 darksky: 1.3.0
-dartR: 2.7.2
+dartR: 2.9.7
 dartR.data: 1.0.2
 darts: '1.0'
 dash: 0.5.0
@@ -12426,7 +12430,7 @@ fGarch: '4022.89'
 fHMM: 1.1.0
 fICA: 1.1-2
 fImport: '4021.86'
-fMRIscrub: 0.12.1
+fMRIscrub: 0.13.0
 fMRItools: 0.2.2
 fMultivar: '4021.83'
 fNonlinear: '4021.81'
@@ -13012,6 +13016,7 @@ framecleaner: 0.2.0
 franc: 1.1.4
 frapplot: 0.1.3
 frbf: 1.0.1
+frbinom: 1.0.0
 frbs: 3.2-0
 frechet: 0.2.0
 fredr: 2.1.0
@@ -13131,7 +13136,7 @@ furniture: 1.9.12
 furrr: 0.3.1
 fusedMGM: 0.1.0.1
 fusedest: 1.3.1
-fusen: 0.4.1
+fusen: 0.4.2
 fuser: 1.0.1
 fusionchartsR: 0.0.3
 fusionclust: 1.0.0
@@ -13886,7 +13891,7 @@ glmnet: 4.1-7
 glmnetSE: 0.0.1
 glmnetUtils: 1.1.8
 glmnetcr: 1.0.6
-glmnetr: 0.2-0
+glmnetr: 0.2-1
 glmpath: '0.98'
 glmpathcr: 1.0.8
 glmpca: 0.2.0
@@ -13906,6 +13911,7 @@ globalboosttest: 1.1-0
 globals: 0.16.2
 globaltrends: 0.0.14
 globe: 1.2-0
+glober: '1.0'
 glogis: 1.0-2
 glossary: 1.0.0
 glossr: 0.7.0
@@ -14345,7 +14351,7 @@ hawkesbow: 1.0.2
 hazer: 1.1.1
 hazus: '0.1'
 hbal: 1.2.8
-hbamr: 1.1.1
+hbamr: 1.1.3
 hbbr: 1.1.2
 hbdct: 1.0.1
 hbim: '1.1'
@@ -14611,7 +14617,7 @@ hsm: 0.2.0
 hsmm: '0.4'
 hsphase: 2.0.2
 hspm: '1.1'
-hsrecombi: 0.5.1
+hsrecombi: 1.0.1
 hsstan: 0.8.1
 htdp: 0.1.4
 htestClust: 0.2.2
@@ -16695,7 +16701,7 @@ met: 0.1.0
 metR: 0.14.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
-meta: 6.2-1
+meta: 6.5-0
 meta.shrinkage: 0.1.3
 meta4diag: 2.1.1
 metaBLUE: 1.0.0
@@ -16942,7 +16948,7 @@ misPRIME: 0.1.0
 misaem: 1.0.1
 misc3d: 0.9-1
 miscF: 0.1-5
-miscFuncs: 1.5-3
+miscFuncs: 1.5-4
 miscIC: 0.1.0
 miscTools: 0.6-28
 misclassGLM: 0.3.2
@@ -17306,10 +17312,10 @@ mountainplot: '1.4'
 mousetrack: 1.0.0
 mousetrap: 3.2.1
 movMF: 0.2-7
-move: 4.2.0
+move: 4.2.2
 moveHMM: '1.9'
 moveVis: 0.10.5
-moveWindSpeed: 0.2.3
+moveWindSpeed: 0.2.4
 movecost: '2.0'
 mozzie: 0.1.0
 mp: 0.4.1
@@ -17688,10 +17694,10 @@ nasadata: 0.9.0
 nasapower: 4.0.10
 nasaweather: '0.1'
 naspaclust: 0.2.1
-nat: 1.8.21
+nat: 1.8.22
 nat.nblast: 1.6.5
 nat.templatebrains: '1.0'
-nat.utils: 0.5.1
+nat.utils: 0.6.1
 natcpp: 0.1.0
 nationwider: 1.1.1
 natmanager: 0.4.9
@@ -20946,7 +20952,7 @@ rgpui: 0.1-2
 rgr: 1.1.15
 rgraph6: 2.0-2
 rgrass: 0.3-8
-rgrass7: 0.2-11
+rgrass7: 0.2-12
 rgrassdoc: 1.0.0
 rgrs: '0.3'
 rgsp: 0.2.0
@@ -21575,7 +21581,7 @@ rwarrior: 0.4.1
 rwars: 1.0.0
 rwavelet: 0.4.1
 rwc: '1.11'
-rwebstat: 1.1.0
+rwebstat: 1.1.1
 rwfec: '0.2'
 rwhatsapp: 0.2.4
 rwicc: 0.1.3
@@ -21820,7 +21826,7 @@ scatteR: 0.0.1
 scatterD3: 1.0.1
 scatterPlotMatrix: 0.2.0
 scattermore: '1.1'
-scatterpie: 0.2.0
+scatterpie: 0.2.1
 scatterplot3d: 0.3-44
 scbursts: '1.6'
 scclust: 0.2.3
@@ -22535,7 +22541,7 @@ sleeperapi: 1.0.4
 sleepr: 0.3.0
 sleepwalk: 0.3.2
 sleev: 1.0.2
-slendr: 0.5.1
+slendr: 0.6.0
 slfm: 1.0.1
 slga: 1.2.0
 slgf: 2.0.0
@@ -22581,7 +22587,7 @@ smd: 0.6.6
 smd.and.more: 1.3-0
 smdata: '1.2'
 smdc: 0.0.2
-smdocker: 0.1.3
+smdocker: 0.1.4
 smds: '1.0'
 sme: 1.0.2
 smerc: 1.7.2
