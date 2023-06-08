@@ -827,7 +827,7 @@ CARBayesST: 3.3.1
 CARBayesdata: '3.0'
 CARE1: 1.1.0
 CARLIT: '1.0'
-CARM: 1.0.0
+CARM: 1.1.0
 CARME: 0.1.1
 CARRoT: 3.0.0
 CARS: 0.2.2
@@ -1320,7 +1320,7 @@ Copula.Markov.survival: 1.0.0
 Copula.surv: '1.2'
 CopulaCenR: 1.2.2
 CopulaDTA: 1.0.1
-CopulaGAMM: 0.2.0
+CopulaGAMM: 0.3.0
 CopulaInference: 0.5.0
 CopulaREMADA: 1.5.1
 CopulaRegression: 0.1-5
@@ -2627,6 +2627,7 @@ GSM: 1.3.2
 GSMX: '1.3'
 GSODR: 3.1.8
 GSSE: '0.1'
+GSSTDA: 0.1.3
 GSelection: 0.1.0
 GSparO: '1.0'
 GTDL: 1.0.0
@@ -2662,7 +2663,7 @@ GammaTest: '2.1'
 Gammareg: '3.0'
 GapAnalysis: 1.0.2
 GauPro: 0.2.11
-GaussSuppression: 0.6.0
+GaussSuppression: 0.7.0
 GaussianHMM1d: 1.0.1
 GeDS: 0.1.3
 GeNetIt: 0.1-4
@@ -3153,7 +3154,7 @@ IRTShiny: '1.2'
 IRTest: 0.1.0
 IRTpp: 0.2.6.1
 IRdisplay: '1.1'
-IRexamples: 0.0.2
+IRexamples: 0.0.3
 IRkernel: 1.3.2
 IRon: 0.1.4
 ISA: 1.0-32
@@ -6426,7 +6427,7 @@ SAP: '1.0'
 SAPP: 1.0.9-1
 SAR: 1.0.3
 SARP.compo: 0.1.5
-SARP.moodle: 0.9.1
+SARP.moodle: 1.0.4
 SASPECT: 0.1-1
 SAScii: 1.0.1
 SASdates: 0.1.0
@@ -6534,7 +6535,7 @@ SGP: 2.0-0.0
 SGPdata: 26.0-0.0
 SHAPforxgboost: 0.1.3
 SHARE: 1.1.0
-SHELF: 1.8.0
+SHELF: 1.9.0
 SHIP: 1.0.2
 SHLR: '1.0'
 SHT: 0.1.8
@@ -7742,7 +7743,7 @@ WINRPACK: 1.1-0
 WINS: 1.3.2
 WLasso: '1.0'
 WLinfer: 1.2.0
-WLogit: '1.0'
+WLogit: '2.0'
 WLreg: 1.0.0
 WMBrukerParser: '1.2'
 WMCapacity: 0.9.6.7
@@ -8372,7 +8373,7 @@ arakno: 1.3.0
 aratio: '1.2'
 arc: '1.3'
 archdata: 1.2-1
-archeoViz: 1.1.1
+archeoViz: 1.2.0
 archeofrag: 0.8.2
 archetypal: 1.3.0
 archetyper: 0.1.0
@@ -10767,7 +10768,7 @@ cumstats: '1.0'
 cumulocityr: 0.1.0
 cuperdec: 1.1.0
 curephEM: 0.2.5
-curl: 5.0.0
+curl: 5.0.1
 curlconverter: 0.7.0
 currencyapi: 0.1.0
 currentSurvival: '1.1'
@@ -13338,7 +13339,7 @@ gdalcubes: 0.6.4
 gdalraster: 1.2.0
 gdata: 2.19.0
 gde: 0.2.1
-gdi: 1.1.1
+gdi: 1.2.2
 gdiff: 0.2-5
 gdimap: 0.1-9
 gdistance: 1.6.2
@@ -14082,7 +14083,7 @@ graph4lg: 1.8.0
 graphComp: '1.0'
 graphPAF: 1.0.2
 graphTweets: 0.5.3
-graphclust: 1.0.2
+graphclust: '1.3'
 grapherator: 1.0.0
 graphframes: 0.1.2
 graphhopper: 0.1.2
@@ -14866,7 +14867,7 @@ identifyr: 0.1.3
 identity: 0.2-1
 ideq: 0.1.4
 ider: 0.1.1
-idiogramFISH: 2.0.11
+idiogramFISH: 2.0.12
 idm: 1.8.3
 idmTPreg: '1.1'
 idmact: 1.0.1
@@ -17150,7 +17151,7 @@ mmstat4: 0.1.5
 mmtfa: '0.3'
 mmtsne: 0.1.0
 mnda: 1.0.9
-mnet: 0.1.1
+mnet: 0.1.2
 mnis: 0.3.1
 mniw: 1.0.1
 mnj: '1.0'
@@ -17776,7 +17777,7 @@ neptune: 0.2.3
 nesRdata: 0.3.1
 nestedLogit: 0.3.0
 nestedRanksTest: '0.2'
-nestedcv: 0.6.4
+nestedcv: 0.6.6
 nestedmodels: 1.0.4
 nestedpp: 0.2.0
 nestfs: 1.0.3
@@ -20919,7 +20920,7 @@ rgcvpack: 0.1-4
 rgdal: 1.6-7
 rgdax: 1.2.1
 rgee: 1.1.5
-rgeedim: 0.2.2
+rgeedim: 0.2.4
 rgen: 0.0.1
 rgenie: 1.0.0
 rgenius: 0.1.0
@@ -23173,7 +23174,7 @@ starsExtra: 0.2.7
 starsTileServer: 0.1.1
 starschemar: 1.2.0
 startR: 2.2.3
-starter: 0.1.13
+starter: 0.1.14
 starticles: 0.1.0
 startup: 0.20.0
 startupmsg: 0.9.6
@@ -24349,7 +24350,7 @@ trimr: 1.1.1
 trinROC: '0.6'
 trio: 2.1.1
 trioGxE: 0.1-1
-trip: 1.8.7
+trip: 1.9.0
 tripEstimation: 0.0-46
 tripack: 1.3-9.1
 triplot: 1.3.0
@@ -24425,7 +24426,7 @@ tsqn: 1.0.0
 tsriadditive: 1.0.0
 tsrobprep: 0.3.2
 tssim: 0.1.7
-tstools: 0.4.1
+tstools: 0.4.2
 tsutils: 0.9.3
 tsviz: 0.1.0
 tsvr: 1.0.2
@@ -24617,6 +24618,7 @@ updog: 2.1.3
 uplift: 0.3.5
 uplifteval: 0.1.0
 upmfit: 0.1.0
+upndown: 0.1.0
 upsetjs: 1.11.1
 upstartr: 0.1.1
 uptasticsearch: 0.4.0
@@ -25092,7 +25094,7 @@ whereport: '0.1'
 whiboclustering: 0.1.2
 whippr: 0.1.2
 whisker: 0.4.1
-whitebox: 2.3.0
+whitebox: 2.3.1
 whitechapelR: 0.3.0
 whitening: 1.4.0
 whitestrap: 0.0.1
