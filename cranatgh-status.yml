@@ -409,7 +409,7 @@ BESTree: 0.5.2
 BET: 0.5.1
 BETS: 0.4.9
 BFF: 1.0.0
-BFS: '0.5'
+BFS: 0.5.1
 BFpack: 1.0.0
 BGData: 2.4.1
 BGFD: '0.1'
@@ -634,6 +634,7 @@ BayesValidate: '0.0'
 BayesVarSel: 2.2.5
 BayesX: 0.3-2
 BayesXsrc: 3.0-4
+BayesfMRI: 0.3.5
 BayesianAnimalTracker: '1.2'
 BayesianFROC: 1.0.0
 BayesianGLasso: 0.2.0
@@ -4957,7 +4958,7 @@ PWD: '1.0'
 PWEALL: 1.3.0
 PWFSLSmoke: 1.2.117
 PWIR: 0.0.1
-PaRe: 0.1.7
+PaRe: 0.1.8
 PabonLasso: '1.0'
 Pade: 1.0.5
 PairTrading: '1.1'
@@ -5163,6 +5164,7 @@ PriorGen: '2.0'
 PrivateLR: 1.2-22
 ProAE: 0.2.12
 ProDenICA: '1.1'
+ProFAST: '1.2'
 ProFit: 1.3.3
 ProFound: 1.14.1
 ProNet: 1.0.0
@@ -6047,7 +6049,7 @@ RcppHMM: 1.2.2
 RcppHNSW: 0.4.1
 RcppHoney: 0.1.7
 RcppHungarian: '0.2'
-RcppJagger: 0.0.1
+RcppJagger: 0.0.2
 RcppML: 0.3.7
 RcppMLPACK: 1.0.10-7
 RcppMeCab: 0.0.1.2
@@ -7507,6 +7509,7 @@ TransP: '0.1'
 TransPhylo: 1.4.5
 TransTGGM: 1.0.0
 TransferEntropy: '1.4'
+Transform: '1.0'
 Tratamentos.ad: 0.2.4
 TreatmentSelection: 2.1.1
 TreeBUGS: 1.5.0
@@ -8056,7 +8059,7 @@ adjustedcranlogs: 0.1.0
 adk: 1.0-2
 adklakedata: 0.6.1
 adlift: 1.4-5
-admiral: 0.10.2
+admiral: 0.11.0
 admiral.test: 0.6.0
 admiraldev: 0.4.0
 admiralonco: 0.3.0
@@ -8209,7 +8212,7 @@ alr4: 1.0.6
 altR2: 1.0.0
 altadata: 0.1.1
 altair: 4.2.2
-altdoc: 0.2.0
+altdoc: 0.2.1
 alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '4.1'
@@ -8331,7 +8334,7 @@ apex: 1.0.4
 apexcharter: 0.4.0
 aphid: 1.3.5
 aphylo: 0.3-2
-api2lm: 0.1.4
+api2lm: '0.2'
 apisensr: 0.3.0
 aplore3: '0.9'
 aplot: 0.1.10
@@ -9249,7 +9252,7 @@ bodenmiller: 0.1.1
 bodsr: 0.1.0
 bodycomp: 1.0.0
 boilerpipeR: 1.3.2
-boinet: 0.0.3
+boinet: 1.0.0
 bolasso: 0.2.0
 bold: 1.3.0
 bomWater: 0.4.1
@@ -10657,7 +10660,7 @@ crosstable: 0.6.2
 crosstalk: 1.2.0
 crosstalkr: 1.0.2
 crossurr: 1.0.6
-crossval: 1.0.4
+crossval: 1.0.5
 crossvalidationCP: '1.1'
 crosswalkr: 0.2.6
 crossword.r: 0.3.6
@@ -12890,7 +12893,7 @@ fmrs: 1.0-9
 fmsb: 0.7.5
 fmt: '2.0'
 fmtr: 1.5.9
-fnets: 0.1.2
+fnets: 0.1.3
 foba: '0.1'
 focusedMDS: 1.3.3
 foghorn: 1.5.1
@@ -13806,7 +13809,7 @@ gibble: 0.4.0
 gibbs.met: 1.1-3
 giedata: 0.1.1
 gif: 0.1.0
-gifski: 1.12.0
+gifski: 1.12.0-1
 gifti: 0.8.0
 giftwrap: 0.0.4
 gigg: 0.2.1
@@ -14102,7 +14105,7 @@ graphx: '1.0'
 grasp: 2.5-7
 grasper: 0.4-4
 grateful: 0.2.0
-grates: 1.0.1
+grates: 1.1.0
 gratia: 0.8.1
 graticule: 0.3.0
 gratis: 1.0.3
@@ -14421,7 +14424,7 @@ helda: 1.1.5
 helixvis: 1.0.1
 hellno: 0.0.1
 helloJavaWorld: 0.0-9
-hellorust: 1.0.1
+hellorust: 1.0.2
 helminthR: 1.0.10
 helpr: 0.1.2.2
 helsinki: 1.0.6
@@ -14523,7 +14526,7 @@ hisse: 2.1.11
 histmdl: 0.7-1
 histogram: 0.0-25
 historicalborrow: 1.0.4
-historicalborrowlong: 0.0.5
+historicalborrowlong: 0.0.6
 historydata: '0.1'
 histoslider: '0.1'
 histry: 0.2.4
@@ -16368,7 +16371,7 @@ manipulate: 1.0.1
 manipulateWidget: 0.11.1
 manydata: 0.8.2
 manymodelr: 0.3.7
-manymome: 0.1.9
+manymome: 0.1.10
 maotai: 0.2.5
 mapDK: 0.3.0
 mapLD: 1.0-1
@@ -17631,7 +17634,7 @@ mvst: 1.1.0
 mvtBinaryEP: 1.0.1
 mvtboost: 0.5.0
 mvtmeta: '1.1'
-mvtnorm: 1.2-1
+mvtnorm: 1.2-2
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-4
 mwTensor: 1.0.1
@@ -23843,6 +23846,7 @@ tetrascatt: 0.1.0
 texPreview: 2.0.0
 texmex: 2.4.8
 texmexseq: '0.3'
+texor: 1.0.1
 texreg: 1.38.6
 text: 0.9.99.2
 text.alignment: 0.1.3
@@ -24092,6 +24096,7 @@ tinyscholar: 0.1.7
 tinysnapshot: 0.0.3
 tinyspotifyr: 0.2.2
 tinytest: 1.4.1
+tinytest2JUnit: 1.0.0
 tinytex: '0.45'
 tinytiger: 0.0.4
 tiobeindexr: 0.1.1
@@ -24963,6 +24968,7 @@ wal: 0.1.0
 waldo: 0.5.1
 waldwolf: '0.1'
 walkalytics: 0.1.0
+walkboutr: 0.1.0
 walker: 1.0.6-1
 walkr: 0.4.0
 walkscore: 0.1.2
