@@ -154,7 +154,7 @@ ASSISTant: 1.4.3
 ASSOCShiny: 0.1.0
 AST: 0.1.0
 ASV: 1.1.1
-ATAforecasting: 0.0.57
+ATAforecasting: 0.0.60
 ATE: 0.2.0
 ATNr: 1.0.2
 ATR: 0.1-1
@@ -642,7 +642,7 @@ BayesianGLasso: 0.2.0
 BayesianLaterality: 0.1.1
 BayesianMediationA: 1.0.1
 BayesianNetwork: 0.1.5
-BayesianPlatformDesignTimeTrend: 1.1.0
+BayesianPlatformDesignTimeTrend: 1.1.1
 BayesianPower: 0.2.3
 BayesianReasoning: 0.4.1
 BayesianTools: 0.1.8
@@ -871,7 +871,7 @@ CDF.PSIdekick: '1.2'
 CDFt: '1.2'
 CDLasso: '1.1'
 CDM: 8.2-6
-CDMConnector: 0.6.0
+CDMConnector: 1.0.0
 CDNmoney: 2012.4-2
 CDROM: '1.1'
 CDSS: 0.1-0
@@ -2429,7 +2429,7 @@ G1DBN: 3.1.1
 G2Sd: 2.1.5
 GA: 3.2.3
 GA4Stratification: '1.0'
-GABB: 0.3.1
+GABB: 0.3.2
 GABi: '0.1'
 GACFF: '1.0'
 GAD: 1.1.1
@@ -2525,7 +2525,7 @@ GISSB: '1.1'
 GISTools: 0.7-4
 GInSARCorW: 1.15.8
 GIplot: 0.1.0
-GJRM: 0.2-6.2
+GJRM: 0.2-6.3
 GK2011: 0.1.3
 GLCMTextures: 0.3.8
 GLDEX: 2.0.0.9.2
@@ -2944,7 +2944,7 @@ HaploSim: 1.8.4.2
 HardyWeinberg: 1.7.5
 HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
-Hassani.SACF: '1.0'
+Hassani.SACF: '2.0'
 Hassani.Silva: '1.0'
 HazardDiff: 0.1.0
 HeckmanEM: 0.2-0
@@ -3920,11 +3920,11 @@ MNM: 1.0-3
 MNP: 3.1-4
 MNS: '1.0'
 MOCCA: '1.4'
-MOCHA: 0.1.0
+MOCHA: 1.0.0
 MODIS: 1.2.11
 MODISSnow: 0.1.0.0
 MODISTools: 1.1.4
-MODIStsp: 2.0.9
+MODIStsp: 2.0.10
 MOEADr: 1.1.3
 MOFAT: '1.0'
 MOJOV: 1.0.1
@@ -4962,7 +4962,7 @@ PWD: '1.0'
 PWEALL: 1.3.0
 PWFSLSmoke: 1.2.117
 PWIR: 0.0.1
-PaRe: 0.1.8
+PaRe: 0.1.9
 PabonLasso: '1.0'
 Pade: 1.0.5
 PairTrading: '1.1'
@@ -8067,8 +8067,8 @@ adlift: 1.4-5
 admiral: 0.11.0
 admiral.test: 0.6.0
 admiraldev: 0.4.0
-admiralonco: 0.3.0
-admiralophtha: 0.1.0
+admiralonco: 0.4.0
+admiralophtha: 0.2.0
 admisc: '0.32'
 admix: 2.1-0
 admixr: 0.9.1
@@ -9180,7 +9180,7 @@ blaster: 1.0.6
 blastula: 0.3.3
 blatent: 0.1.1
 blatr: 1.0.1
-blavaan: 0.4-7
+blavaan: 0.4-8
 blendedLink: '1.0'
 blender: 0.1.2
 blighty: 3.1-4
@@ -10285,6 +10285,7 @@ completejourney: 1.1.0
 complex.surv.dat.sim: 2.0.0
 complexNet: 0.2.0
 complexity: 1.1.2
+complexlm: '1.0'
 complexplus: '2.1'
 complmrob: 0.7.0
 compoisson: '0.3'
@@ -11593,6 +11594,7 @@ drawer: 0.2.0.1
 drawsample: 1.0.1
 drc: 3.0-1
 drcSeedGerm: 1.0.1
+drcarlate: 1.2.0
 drcte: 1.0.30
 drda: 2.0.3
 dreamer: 3.1.0
@@ -12194,6 +12196,7 @@ ergm.multi: 0.2.0
 ergm.rank: 4.1.0
 ergm.userterms: 3.10.0
 ergmclust: 1.0.0
+ergmgp: '0.1'
 ergmharris: '1.0'
 ergmito: 0.3-0
 erhcv: 0.1.4
@@ -12649,7 +12652,7 @@ fddm: 0.5-2
 fdicdata: 0.1.0
 fdim: 1.0-7
 fdistr: 0.1.0
-fdm2id: 0.9.8
+fdm2id: 0.9.9
 fdq: '0.12'
 fdrDiscreteNull: '1.4'
 fdrci: '2.4'
@@ -13963,7 +13966,7 @@ gms: 0.4.0
 gmt: 2.0.3
 gmum.r: 0.2.1
 gmvalid: '1.23'
-gmvarkit: 2.0.7
+gmvarkit: 2.0.8
 gmvjoint: 0.2.1
 gmwm: 2.0.0
 gmwmx: 1.0.3
@@ -14658,7 +14661,7 @@ httpcode: 0.3.0
 httpgd: 1.3.1
 httping: 0.2.0
 httpproblems: 1.0.1
-httptest: 4.2.0
+httptest: 4.2.1
 httptest2: 0.1.0
 httpuv: 1.6.11
 httr: 1.4.6
@@ -17292,11 +17295,13 @@ moodleR: 1.0.1
 moonBook: 0.3.1
 moonsun: 0.1.3
 moose: 0.0.1
+mop: 0.1.1
 mopa: 1.0.1
 mopac: 0.1.0
 mopsocd: 0.5.1
 moranajp: 0.9.6
 moreparty: 0.3.1
+morestopwords: 0.2.0
 morf: 1.0.0
 morgenstemning: '1.0'
 morph: 1.1.0
@@ -19392,7 +19397,7 @@ polimetrics: 1.2.1.14
 poliscidata: 2.3.0
 polished: 0.8.1
 polite: 0.1.2
-politeness: 0.8.9
+politeness: 0.9.0
 politicaldata: 0.1.3
 politicsR: 0.1.0
 polle: '1.2'
@@ -19523,7 +19528,7 @@ powerMediation: 0.3.4
 powerSurvEpi: 0.1.3
 powerbiR: 0.1.0
 powerbydesign: 1.0.5
-powerindexR: 1.0.1
+powerindexR: 1.0.2
 powerjoin: 0.1.0
 powerlmm: 0.4.0
 powerly: 1.8.6
@@ -20087,7 +20092,7 @@ queuecomputer: 1.2.0
 queueing: 0.2.12
 quhomology: 1.1.1
 quickNmix: 1.1.1
-quickPlot: 0.1.8
+quickPlot: 1.0.1
 quickReg: 1.5.0
 quickblock: 0.2.0
 quickcheck: 0.1.2
@@ -20502,7 +20507,7 @@ rccdates: 1.0.0
 rccmisc: 0.3.7
 rccola: 1.0.2
 rcdd: 1.5-2
-rcdk: 3.7.0
+rcdk: 3.8.0
 rcdklibs: '2.8'
 rchallenge: 1.3.4
 rchemo: 0.1-1
@@ -21847,7 +21852,7 @@ scatr: 1.0.1
 scatteR: 0.0.1
 scatterD3: 1.0.1
 scatterPlotMatrix: 0.2.0
-scattermore: '1.1'
+scattermore: '1.2'
 scatterpie: 0.2.1
 scatterplot3d: 0.3-44
 scbursts: '1.6'
@@ -21894,7 +21899,7 @@ scorer: 0.2.0
 scoring: '0.6'
 scoringRules: 1.1.1
 scoringTools: 0.1.2
-scoringfunctions: 0.0.5
+scoringfunctions: 0.0.6
 scoringutils: 1.1.0
 scout: 1.0.4
 scperturbR: 0.1.0
@@ -21992,7 +21997,7 @@ see: 0.8.0
 seeclickfixr: 1.1.0
 seecolor: 0.2.0
 seedCCA: '3.1'
-seededlda: 1.0.0
+seededlda: 1.0.1
 seedr: 0.3.0
 seedreg: 1.0.3
 seeds: 0.9.1
@@ -22101,7 +22106,7 @@ seplyr: 1.0.4
 seq2R: 2.0.0
 seqCBS: 1.2.1
 seqDesign: '1.2'
-seqHMM: 1.2.4
+seqHMM: 1.2.5
 seqICP: '1.1'
 seqMeta: 1.6.7
 seqPERM: '1.0'
@@ -24116,7 +24121,7 @@ tinyscholar: 0.1.7
 tinysnapshot: 0.0.3
 tinyspotifyr: 0.2.2
 tinytest: 1.4.1
-tinytest2JUnit: 1.0.0
+tinytest2JUnit: 1.0.1
 tinytex: '0.45'
 tinytiger: 0.0.4
 tiobeindexr: 0.1.1
