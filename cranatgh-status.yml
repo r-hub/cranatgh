@@ -291,7 +291,7 @@ Arothron: 2.0.5
 ArrayBin: '0.2'
 AsioHeaders: 1.22.1-2
 AssayCorrector: 2.0.0
-AssetAllocation: 1.0.0
+AssetAllocation: 1.1.0
 AssetCorr: 1.0.4
 AssetPricing: 1.0-3
 AssocAFC: 1.0.2
@@ -1404,7 +1404,7 @@ D2C: 1.2.1
 D2MCS: 1.0.1
 D3GB: '1.1'
 D3M: 0.41.1
-D3mirt: 1.0.3
+D3mirt: 1.0.4
 D3partitionR: 0.5.0
 D4TAlink.light: 2.1.11
 DA: 1.2.0
@@ -3209,7 +3209,7 @@ InDisc: 1.1.0
 InPosition: 0.12.7.1
 InSilicoVA: 1.4.0
 IncDTW: 1.1.4.4
-IncidencePrevalence: 0.3.0
+IncidencePrevalence: 0.3.1
 IncomPair: 0.1.0
 IncucyteDRC: 0.5.4
 IndTestPP: '3.0'
@@ -3974,7 +3974,7 @@ MRsurv: '0.2'
 MRwarping: '1.0'
 MSBVAR: 0.9-3
 MSCMT: 1.3.7
-MSCquartets: 1.1.2
+MSCquartets: 1.3.1
 MSCsimtester: 1.0.0
 MSEtool: 3.6.2
 MSG: '0.8'
@@ -4327,7 +4327,7 @@ MultiRR: '1.1'
 MultiRobust: 1.0.5
 MultiSV: 0.0-67
 MultiSkew: 1.1.1
-MultiStatM: 1.1.0
+MultiStatM: 1.2.0
 MultiVarMI: '1.0'
 MultiVarSel: 1.1.3
 Multiaovbay: 0.1.0
@@ -5347,7 +5347,7 @@ R62S3: 1.4.1
 R6DS: 1.2.0
 R6Frame: 0.1.0
 R6P: 0.3.0
-R6causal: 0.7.0
+R6causal: 0.8.0
 RABR: 0.1.1
 RAC: 1.5.5
 RAD: '0.3'
@@ -7805,6 +7805,7 @@ WeibullR: 1.2.1
 WeibullR.ALT: 0.7.2
 WeibullR.learnr: 0.1.1
 WeibullR.plotly: 0.1.5
+WeibullR.shiny: 0.1.2
 WeightIt: 0.14.2
 WeightSVM: 1.7-11
 Weighted.Desc.Stat: '1.0'
@@ -7909,6 +7910,7 @@ aIc: '1.0'
 aLFQ: 1.3.6
 aMNLFA: 1.1.2
 aPCoA: '1.3'
+aPEAR: 1.0.0
 aRbs: 0.1.3
 aRchi: 2.1.3
 aRpsDCA: 1.1.1
@@ -9463,7 +9465,7 @@ butcher: 0.3.2
 butler: '0.3'
 butterflyOptions: 1.0.1
 bvarsv: '1.1'
-bvartools: 0.2.1
+bvartools: 0.2.2
 bvenn: '0.1'
 bvls: '1.4'
 bvpSolve: 1.4.3
@@ -10039,7 +10041,7 @@ clttools: '1.3'
 clubSandwich: 0.5.8
 clue: 0.3-64
 clues: 0.6.2.2
-clugenr: 0.2.0
+clugenr: 0.3.0
 clusTransition: '1.0'
 cluscov: 1.1.0
 clusrank: 1.0-3
@@ -11988,7 +11990,7 @@ electionsBR: 0.3.2
 electivity: 1.0.2
 electoral: 0.1.3
 elementR: 1.3.7
-elevatr: 0.4.4
+elevatr: 0.4.5
 elexr: '1.0'
 elfDistr: 1.0.0
 elfgen: 2.3.3
@@ -13069,7 +13071,7 @@ freshr: 1.0.2
 frictionless: 1.0.2
 friends: 0.1.0
 frite: 0.1.0
-fritools: 3.7.0
+fritools: 4.1.0
 fritools2: 4.1.0
 frm: 1.2.2
 frmhet: 1.1.3
@@ -13978,7 +13980,7 @@ gnn: 0.0-3
 gnomeGUI: 2.7.0-2
 gnomonicM: 1.0.1
 gnorm: 1.0.0
-gnrprod: 1.1.0
+gnrprod: 1.1.2
 gnumeric: 0.7-8
 go2bigq: '1.0'
 goalp: 0.3.1
@@ -14124,6 +14126,7 @@ gratia: 0.8.1
 graticule: 0.3.0
 gratis: 1.0.3
 grattan: 2.0.0.0
+grattanInflators: 0.3.1
 gravitas: 0.1.3
 gravity: '1.1'
 gravmagsubs: 1.0.1
@@ -14443,7 +14446,7 @@ hellorust: 1.0.2
 helminthR: 1.0.10
 helpr: 0.1.2.2
 helsinki: 1.0.6
-hemispheR: 0.1.0
+hemispheR: 0.2.0
 heplots: 1.4-2
 here: 1.0.1
 hereR: 0.9.1
@@ -17116,7 +17119,7 @@ mlr3learners: 0.5.6
 mlr3mbo: 0.2.1
 mlr3measures: 0.5.0
 mlr3misc: 0.12.0
-mlr3oml: 0.7.1
+mlr3oml: 0.7.2
 mlr3pipelines: 0.5.0-1
 mlr3proba: 0.4.9
 mlr3shiny: 0.2.0
@@ -19035,7 +19038,7 @@ pgam: 0.4.17
 pgbart: 0.6.16
 pgdraw: '1.1'
 pgee.mixed: 0.1.0
-pgenlibr: 0.3.3
+pgenlibr: 0.3.5
 pgfSweave: 1.3.0
 pgirmess: 2.0.2
 pglm: 0.2-3
@@ -19489,7 +19492,7 @@ portfolioBacktest: 0.4.1
 portfolioSim: 0.2-7
 portsort: 0.1.0
 portvine: 1.0.2
-posologyr: 1.2.1
+posologyr: 1.2.2
 postCP: 1.7.2
 postDoubleR: 1.4.12
 postGGIR: 2.4.0.2
@@ -20216,7 +20219,7 @@ rJST: '1.3'
 rJava: 1.0-6
 rJavax: '0.3'
 rJython: 0.0-4
-rKIN: 0.3.0
+rKIN: 1.0.0
 rKOMICS: '1.1'
 rKenyaForex: 0.1.0
 rKolada: 0.2.1
@@ -20687,7 +20690,7 @@ recurse: 1.1.2
 red: 1.5.0
 redR: 1.0.1
 reda: 0.5.4
-redcapAPI: 2.5.0
+redcapAPI: 2.7.1
 reddPrec: 0.4.0
 redditadsR: 0.1.0
 redist: 4.1.1
@@ -22518,7 +22521,7 @@ sitmo: 2.0.2
 sitools: '1.4'
 sitree: 0.1-13
 sitreeE: 0.0-8
-sits: 1.4.0
+sits: 1.4.1
 sitsfeats: 0.0.1
 sivipm: 1.1-4.2
 sivs: 0.2.9
@@ -23793,6 +23796,7 @@ tcplfit2: 0.1.5
 tcsinvest: 0.1.1
 td: 0.0.6
 tdROC: '1.0'
+tdata: 0.2.0.0
 tdaunif: 0.1.0
 tdcmStan: 2.0.0
 tdigest: 0.4.1
