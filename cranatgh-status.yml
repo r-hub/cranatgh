@@ -59,6 +59,7 @@ AGSDest: 2.3.4
 AGread: 1.3.2
 AHM: 1.0.1
 AHMbook: 0.2.6
+AHPGaussian: 0.1.1
 AHPWR: 0.1.0
 AHPhybrid: 0.1.0
 AHPtools: 0.1.0
@@ -1014,7 +1015,7 @@ CR2: 0.2.1
 CRABS: 1.1.0
 CRAC: '1.0'
 CRANsearcher: 1.0.0
-CRE: 0.2.3
+CRE: 0.2.4
 CREAM: 1.1.1
 CREDS: 0.1.0
 CRF: 0.4-3
@@ -2133,7 +2134,7 @@ ExpRep: '1.0'
 ExpertChoice: 0.2.0
 ExplainPrediction: 1.3.0
 ExplodeLayout: 0.1.2
-ExposR: '1.0'
+ExposR: '1.1'
 ExtDist: 0.7-1
 ExtMallows: 0.1.0
 ExtractTrainData: 9.1.6
@@ -2381,7 +2382,7 @@ FourScores: 1.5.1
 FourWayHMM: 1.0.0
 FourgameteP: 0.1.0
 FourierDescriptors: 0.1-4
-FrF2: '2.3'
+FrF2: 2.3-1
 FrF2.catlg128: 1.2-2
 FracKrigingR: 1.0.0
 FracSim: '0.3'
@@ -2671,7 +2672,7 @@ GauPro: 0.2.11
 GaussSuppression: 0.7.0
 GaussianHMM1d: 1.0.1
 GeDS: 0.1.3
-GeNetIt: 0.1-4
+GeNetIt: 0.1-6
 GeSciLiVis: 1.1.0
 GenABEL: 1.8-0
 GenABEL.data: 1.0.0
@@ -2951,7 +2952,7 @@ Hassani.Silva: '1.0'
 HazardDiff: 0.1.0
 HeckmanEM: 0.2-0
 HellCor: '1.3'
-HelpersMG: '5.9'
+HelpersMG: '6.0'
 HeritSeq: 1.0.2
 HeterFunctionalData: 0.1.0
 HeteroGGM: 0.1.0
@@ -4081,7 +4082,7 @@ MatchIt.mice: 3.0.1
 MatchItEXT: 0.0.1
 MatchItSE: '1.0'
 MatchLinReg: 0.8.1
-MatchThem: 1.0.1
+MatchThem: 1.1.0
 Matching: 4.10-8
 MatchingFrontier: 1.0.0
 Matrix: 1.5-4.1
@@ -5625,7 +5626,7 @@ RMessenger: 0.1.5
 RMixpanel: 0.7-1
 RMixtComp: 4.1.3
 RMixtCompIO: 4.0.10
-RMixtCompUtilities: 4.1.4
+RMixtCompUtilities: 4.1.5
 RMongo: 0.0.25
 RMySQL: 0.10.25
 RNAseqNet: 0.1.4
@@ -6354,7 +6355,7 @@ Rsfar: 0.0.1
 Rsge: 0.6.3
 Rsgf: 1.0.0
 RsimMosaic: 1.0.3
-Rsmlx: 5.0.1
+Rsmlx: 2023.1.1
 Rsolnp: '1.16'
 Rsomoclu: 1.7.6
 Rspc: 1.2.2
@@ -7099,7 +7100,7 @@ Stack: 2.0-1
 StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
 StakeholderAnalysis: '1.2'
-StanHeaders: 2.26.26
+StanHeaders: 2.26.27
 StanMoMo: 1.1.0
 StandardizeText: '1.0'
 Stat2Data: 2.0.0
@@ -8288,7 +8289,7 @@ animalTrack: 1.0.0
 animaltracker: 0.2.0
 animate: 0.3.9.4
 animation: '2.7'
-animint2: 2023.3.14
+animint2: 2023.6.11
 animl: 1.1.0
 anipaths: 0.10.2
 aniview: 0.1.0
@@ -8567,7 +8568,7 @@ audubon: 0.5.1
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.6
 auk: 0.6.0
-aum: 2023.4.4
+aum: 2023.6.14
 aurelius: 0.8.4
 aurin: 0.6.0
 ausplotsR: 1.2.9
@@ -9321,6 +9322,7 @@ boutliers: 1.1-2
 box: 1.1.3
 boxcoxmix: '0.28'
 boxfilter: '0.2'
+boxly: 0.1.0
 boxoffice: 1.3.0
 boxplotcluster: '0.2'
 boxplotdbl: 1.4.0
@@ -11225,7 +11227,7 @@ detpack: 1.1.3
 detrendeR: 1.0.5
 detrendr: 0.6.15
 detzrcr: 0.3.1
-devEMF: 4.3-1
+devEMF: '4.4'
 devFunc: '0.1'
 devRate: 0.2.3
 devoid: 0.1.2
@@ -13631,6 +13633,7 @@ ggResidpanel: 0.3.0
 ggThemeAssist: 0.1.5
 ggTimeSeries: 1.0.2
 ggVennDiagram: 1.2.2
+ggaligner: '0.1'
 ggalignment: 1.0.1
 ggallin: 0.1.1
 ggalluvial: 0.12.5
@@ -14057,7 +14060,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.4.0
-gpboost: 1.2.0
+gpboost: 1.2.1
 gpclib: 1.5-6
 gpg: 1.2.9
 gphmm: 0.99.0
@@ -17233,6 +17236,7 @@ modelbased: 0.8.6
 modelc: 1.0.0.0
 modelcf: 2.1.1
 modeldata: 1.1.0
+modeldatatoo: 0.1.0
 modeldb: 0.2.3
 modelenv: 0.1.1
 modelfree: '1.2'
@@ -17979,7 +17983,7 @@ nloptwrap: 0.5-7
 nlpred: 1.0.1
 nlpsem: 0.1.1
 nlr: 0.1-3
-nlraa: '1.5'
+nlraa: 1.9.3
 nlreg: 1.2-2.2
 nlrq: 0.1-6
 nlrr: '0.1'
@@ -19220,7 +19224,7 @@ pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.3
 pkgbuild: 1.4.1
-pkgcache: 2.1.0
+pkgcache: 2.1.1
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
@@ -20087,7 +20091,7 @@ quantileDA: '1.1'
 quantilogram: 2.2.1
 quantities: 0.2.1
 quantkriging: 0.1.0
-quantmod: 0.4.22
+quantmod: 0.4.23
 quantoptr: 0.1.3
 quantreg: '5.95'
 quantreg.nonpar: '1.0'
@@ -20617,7 +20621,7 @@ reactable: 0.4.4
 reactablefmtr: 2.0.0
 reactlog: 1.1.1
 read.cwa: 0.2.1
-read.dbc: 1.0.5
+read.dbc: 1.0.6
 read.gb: '2.2'
 read.gt3x: 1.2.0
 readABF: 1.0.2
@@ -20799,7 +20803,7 @@ rem: 1.3.1
 remMap: 0.2-0
 rema: 0.0.1
 remaCor: 0.0.11
-remap: 0.3.0
+remap: 0.3.1
 rematch: 1.0.1
 rematch2: 2.1.2
 remedy: 0.1.0
@@ -23265,7 +23269,7 @@ statnetWeb: 0.5.6
 statnipokladna: 0.7.2
 statoo: 0.1.3
 statprograms: 0.2.0
-statpsych: 1.3.0
+statpsych: 1.4.0
 statquotes: 0.3.1
 stats19: 2.0.1
 stats4teaching: 0.1.0
@@ -24581,7 +24585,7 @@ ubiquity: 2.0.0
 ubms: 1.2.4
 ucbthesis: '1.0'
 uchardet: 1.1.1
-uci: 0.1.0
+uci: 0.2.0
 ucie: 1.0.2
 uclust: 1.0.0
 ucminf: 1.2.0
@@ -24820,7 +24824,7 @@ vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.2.0
 vcrpart: 1.0-4
-vctrs: 0.6.2
+vctrs: 0.6.3
 vctsfr: 0.1.0
 vcvComp: 1.0.2
 vdar: 0.1.3-2
