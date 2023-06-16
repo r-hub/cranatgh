@@ -930,6 +930,7 @@ CIPerm: 0.2.3
 CIS.DGLM: 0.1.0
 CISE: 0.1.0
 CITAN: 2022.1.1
+CIfinder: 1.0.0
 CIplot: '1.0'
 CJAMP: 0.1.1
 CJIVE: 0.1.0
@@ -1124,7 +1125,7 @@ CensSpatial: '3.6'
 Census2016: 0.2.0
 CepLDA: 1.0.0
 CerioliOutlierDetection: 1.1.9
-Certara.NLME8: 1.2.3
+Certara.NLME8: 1.2.4
 Certara.R: 1.0.0
 CfEstimateQuantiles: '1.0'
 ChIPtest: '1.0'
@@ -6737,7 +6738,7 @@ SSrat: '1.1'
 SSsimple: 0.6.6
 STAND: '2.0'
 STAR: 0.3-7
-STAREG: 1.0.0
+STAREG: 1.0.1
 STARSEQ: 1.2.1
 STARTS: 1.3-8
 STARTdesign: '1.0'
@@ -7438,7 +7439,7 @@ TesiproV: 0.9.2
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
 TestDesign: 1.5.1
-TestDimorph: 0.5.5
+TestDimorph: 0.5.7
 TestFunctions: 0.2.0
 TestGardener: 3.2.3
 TestScorer: 1.7.2
@@ -8410,7 +8411,7 @@ ards: 0.1.1
 area: 0.1.0
 areabiplot: 1.0.0
 areal: 0.1.8
-arealDB: 0.3.9
+arealDB: 0.6.2
 areaplot: 2.0.0
 arena2r: 1.0.0
 arenar: 0.2.0
@@ -8986,7 +8987,7 @@ biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.1
 biblio: 0.0.8
-bibliometrix: 4.1.2
+bibliometrix: 4.1.3
 bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
 bibliospec: 0.0.4
@@ -9414,7 +9415,7 @@ brulee: 0.2.0
 brunnermunzel: '2.0'
 brxx: 0.1.2
 bs: '1.0'
-bs4Dash: 2.2.1
+bs4Dash: 2.3.0
 bs4cards: 0.1.1
 bsTools: 1.0.5
 bsam: 1.1.3
@@ -9593,6 +9594,7 @@ cardidates: 0.4.8
 cardioModel: '1.4'
 care: 1.1.11
 careless: 1.2.1
+caresid: '0.1'
 caret: 6.0-94
 caretEnsemble: 2.0.2
 caretForecast: 0.1.1
@@ -10637,7 +10639,7 @@ cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
 crew: 0.2.1
-crew.cluster: 0.1.0
+crew.cluster: 0.1.1
 crfsuite: 0.4.1
 cricketdata: 0.2.2
 cricketr: 0.0.26
@@ -10716,6 +10718,7 @@ cryst: 0.1.0
 csSAM: 1.2.4
 csa: 0.7.0
 csabounds: 1.0.0
+csalert: 2023.6.17
 csampling: 1.2-2.1
 csci: 0.9.3
 csdata: 2023.5.22
@@ -12420,7 +12423,7 @@ extremevalues: 2.3.3
 extremis: 1.2.1
 extremogram: 1.0.2
 exuber: 1.0.2
-exvatools: 0.3.0
+exvatools: 0.4.0
 eye: 1.2.1
 eyeRead: 0.0.4
 eyeTrackR: 1.0.1
@@ -12491,6 +12494,7 @@ facebookleadsR: 0.1.0
 facebookorganicR: 0.1.0
 facerec: 0.1.0
 facilitation: 0.5.2
+facmodCS: '1.0'
 factas: '2.3'
 factiv: 0.1.0
 factoextra: 1.0.7
@@ -13159,6 +13163,7 @@ funkyheatmap: 0.3.0
 funmediation: 1.0.1
 funnelR: 0.1.0
 funneljoin: 0.2.0
+funpca: '9.0'
 funprog: 0.3.0
 funr: 0.3.2
 funrar: 1.5.0
@@ -16196,7 +16201,7 @@ loo: 2.6.0
 lookout: 0.1.4
 lookup: '1.0'
 lookupTable: '0.1'
-loon: 1.4.0
+loon: 1.4.1
 loon.data: 0.1.3
 loon.ggplot: 1.3.3
 loon.shiny: 1.0.3
@@ -17626,6 +17631,7 @@ mutatr: 0.1.2
 mutoss: 0.1-13
 mutossGUI: 0.1-11
 mutualinf: 1.1.3
+mvDFA: 0.0.4
 mvGPS: 1.2.2
 mvLSW: 1.2.5
 mvLSWimpute: 0.1.1
@@ -17940,7 +17946,7 @@ nifti.io: 1.0.0
 nightmares: 0.0.2
 nilde: 1.1-7
 nima: 0.6.2
-nimble: 1.0.0
+nimble: 1.0.1
 nimbleAPT: 1.0.4
 nimbleCarbon: 0.2.1
 nimbleEcology: 0.4.1
@@ -19215,6 +19221,7 @@ piton: 1.0.0
 pivmet: 0.5.0
 pivot: 18.4.17
 pivotaltrackR: 0.2.0
+pivotea: 1.0.0
 pivottabler: 1.5.4
 piwikproR: 0.4.0
 pixarfilms: 0.2.1
@@ -20884,6 +20891,7 @@ resevol: 0.3.0.1
 reshape: 0.8.9
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
+reslr: 0.1.1
 resourcer: 1.4.0
 respR: 2.3.0
 resper: 0.3.2
@@ -21909,7 +21917,7 @@ scifigure: '0.2'
 scio: 0.9.0
 sciplot: 1.2-0
 scipub: 1.2.2
-scistreer: 1.1.0
+scistreer: 1.2.0
 sclero: '0.2'
 sclr: 0.3.1
 scmamp: 0.2.55
@@ -23766,7 +23774,7 @@ tangram.pipe: 1.1.2
 tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
-tarchetypes: 0.7.6
+tarchetypes: 0.7.7
 tardis: 0.1.4
 targeted: '0.3'
 targets: 1.1.3
@@ -23887,7 +23895,7 @@ tester: 0.1.7
 testextra: 0.1.0.1
 testforDEP: 0.2.0
 testit: '0.13'
-testthat: 3.1.8
+testthat: 3.1.9
 testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
