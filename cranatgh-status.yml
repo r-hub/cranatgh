@@ -780,7 +780,7 @@ Boov: 1.0.0
 Boptbd: 1.0.5
 Boruta: 8.0.0
 BosonSampling: 0.1.3
-BoundEdgeworth: 0.1.1
+BoundEdgeworth: 0.1.2.1
 BoutrosLab.plotting.general: 7.0.8
 BradleyTerry: 0.8-8
 BradleyTerry2: 1.1-2
@@ -2596,7 +2596,7 @@ GPUmatrix: 0.1.0
 GPareto: 1.1.7
 GPfit: 1.0-8
 GPlab: 0.1.0
-GPoM: '1.3'
+GPoM: '1.4'
 GPoM.FDLyapu: '1.0'
 GPrank: 0.1.4
 GPseq: '0.5'
@@ -4968,7 +4968,7 @@ PWD: '1.0'
 PWEALL: 1.3.0
 PWFSLSmoke: 1.2.117
 PWIR: 0.0.1
-PaRe: 0.1.9
+PaRe: 0.1.10
 PabonLasso: '1.0'
 Pade: 1.0.5
 PairTrading: '1.1'
@@ -5076,7 +5076,7 @@ PieceExpIntensity: 1.0.4
 Pijavski: 1.0.3
 PivotalR: 0.1.18.5
 PkgsFromFiles: '0.5'
-PlackettLuce: 0.4.2
+PlackettLuce: 0.4.3
 PlaneGeometry: 1.4.0
 Planesmuestra: '0.1'
 PlanetNICFI: 1.0.4
@@ -5276,7 +5276,7 @@ QTLEMM: 1.2.0
 QTLNetworkR: 0.1-7
 QTLRel: '1.12'
 QTOCen: 0.1.1
-QUALYPSO: '2.0'
+QUALYPSO: '2.1'
 QUIC: '2012.02'
 QVM: 0.1.1
 QWDAP: 1.1.17
@@ -8738,6 +8738,7 @@ baseflow: 0.13.2
 basefun: 1.1-4
 baseline: 1.3-4
 basemaps: 0.0.5
+basemodels: 1.0.0
 baseq: 0.1.4
 basetheme: 0.1.3
 basf: 0.2.0
@@ -8894,7 +8895,7 @@ bdynsys: '1.3'
 bea.R: 1.0.6
 beadarrayFilter: 1.1.0
 beadarrayMSV: 1.1.0
-beadplexr: 0.4.1
+beadplexr: 0.5.0
 beakr: 0.4.3
 beam: 2.0.2
 beanplot: 1.3.1
@@ -9125,7 +9126,7 @@ biolink: 0.1.7
 biom: 0.3.12
 biomartr: 1.0.3
 biometryassist: 1.1.2
-biomod2: 4.2-3
+biomod2: 4.2-4
 biomonCore: 1.3.50
 bionetdata: '1.1'
 biopara: '1.5'
@@ -9875,7 +9876,7 @@ chinese.misc: 0.2.3
 chipPCR: 1.0-2
 chirps: 0.1.4
 chisq.posthoc.test: 0.1.2
-chisquare: '0.4'
+chisquare: '0.5'
 chk: 0.9.0
 chkptstanr: 0.1.1
 chlorpromazineR: 0.2.0
@@ -9983,7 +9984,7 @@ cleandata: 0.3.0
 cleaner: 1.5.4
 cleanerR: 0.1.1
 cleangeo: 0.2-4
-cleanr: 1.3.5
+cleanr: 1.4.0
 cleanrmd: 0.1.1
 clere: 1.2.0
 clespr: 1.1.2
@@ -10497,7 +10498,7 @@ corrtable: 0.1.0
 corset: 0.1-5
 cort: 0.3.2
 corto: 1.2.2
-corx: 1.0.7.1
+corx: 1.0.7.2
 cosa: 2.1.0
 cosinor: 1.2.3
 cosinor2: 0.2.1
@@ -11688,7 +11689,7 @@ dualScale: 0.9.1
 dualtrees: 0.1.4
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.8.0
+duckdb: 0.8.1
 duckduckr: 1.0.0
 duke: 0.0.1
 dumbbell: '0.1'
@@ -12170,6 +12171,7 @@ epiworldR: 0.0-1
 eplusr: 0.16.0
 eply: 0.1.2
 epm: 1.1.1
+epmrob: '0.1'
 epoc: 0.2.6-1.1
 epocakir: 0.9.9
 eponge: 0.1.0
@@ -12526,7 +12528,7 @@ fairsubset: '1.0'
 faisalconjoint: '1.15'
 fake: 1.4.0
 fakeR: '1.0'
-fakemake: 1.10.4
+fakemake: 1.11.0
 fakir: 1.0.0
 fakmct: 0.1.0
 falcon: '0.2'
@@ -14936,7 +14938,7 @@ igate: 0.3.3
 igcop: 1.0.1
 iglu: 3.4.2
 igoR: 0.1.5
-igraph: 1.4.3
+igraph: 1.5.0
 igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
@@ -17563,7 +17565,7 @@ multilevel: '2.7'
 multilevelMatching: 1.0.0
 multilevelPSA: 1.2.5
 multilevelTools: 0.1.1
-multilevelcoda: 1.0.0
+multilevelcoda: 1.1.0
 multilevelmod: 1.0.0
 multilinguer: 0.2.4
 multilink: 0.1.1
@@ -19824,7 +19826,7 @@ pseudo: 1.4.3
 pseudohouseholds: 0.1.0
 pseudorank: 1.0.1
 pseval: 1.3.1
-psfmi: 1.1.0
+psfmi: 1.3.0
 psgp: 0.3-19
 psica: 1.0.2
 psidR: '2.1'
@@ -21260,9 +21262,9 @@ robustETM: '1.0'
 robustHD: 0.7.4
 robustMVMR: 0.3.1
 robustSingleCell: 0.1.1
-robustX: 1.2-6
+robustX: 1.2-7
 robustarima: 0.2.6
-robustbase: 0.95-1
+robustbase: 0.99-0
 robustbetareg: 0.3.0
 robustcov: '0.1'
 robustfa: 1.1-0
@@ -22102,7 +22104,7 @@ semsfa: '1.1'
 semtree: 0.9.18
 semver: 0.2.0
 semverutils: 0.1.0
-sen2r: 1.5.4
+sen2r: 1.5.5
 sendgridr: 0.6.1
 sendigR: 1.0.0
 sendmailR: 1.4-0
@@ -22470,7 +22472,7 @@ simmer: 4.4.5
 simmer.bricks: 0.2.1
 simmer.plot: 0.1.17
 simml: 0.3.0
-simmr: 0.5.1.100
+simmr: 0.5.1.212
 simode: 1.2.0
 simodels: 0.0.5
 simone: 1.0-4
@@ -23191,7 +23193,7 @@ stR: '0.5'
 stRoke: 23.4.1
 stUPscales: 1.0.3.4
 sta: 0.1.7
-staRdom: 1.1.25
+staRdom: 1.1.28
 staRt: 1.1.12
 staTools: 0.1.0
 stab: 0.1.9
@@ -25082,7 +25084,7 @@ wbstats: 1.0.4
 wbsts: '2.1'
 wccsom: 1.2.11
 wcde: 0.0.5
-wcep: 1.0.0
+wcep: 1.0.1
 wcox: '1.0'
 wdm: 0.2.3
 wdman: 0.2.6
@@ -25277,7 +25279,7 @@ wqs: 0.0.1
 wqspt: 1.0.1
 wrGraph: 1.3.3
 wrMisc: 1.12.0
-wrProteo: 1.9.0
+wrProteo: 1.10.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.5.10
 wrappedtools: 0.9.1
