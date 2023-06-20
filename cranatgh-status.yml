@@ -460,7 +460,7 @@ BMA: 3.18.17
 BMAmevt: 1.0.5
 BMN: '1.02'
 BMRBr: 0.2.0
-BMRMM: 0.0.3
+BMRMM: 1.0.0
 BMRSr: 1.0.3
 BMRV: '1.32'
 BMS: 0.3.5
@@ -1818,6 +1818,7 @@ DriveML: 0.1.5
 DrugClust: '0.2'
 DrugExposureDiagnostics: 0.4.3
 DrugSim2DR: 0.1.0
+DrugUtilisation: 0.2.0
 DstarM: 0.4.0
 DtD: 0.2.2
 DunnettTests: '2.0'
@@ -2471,7 +2472,7 @@ GDAtools: '2.0'
 GDD: 0.1-13.1
 GDELTtools: '1.5'
 GDINA: 2.9.3
-GDPuc: 0.10.0
+GDPuc: 0.11.0
 GDSARM: 0.1.1
 GE: 0.3.8
 GEEaSPU: 1.0.2
@@ -3641,6 +3642,7 @@ LncMod: '1.1'
 LncPath: '1.1'
 LncPriCNet: '1.0'
 LoBrA: '1.0'
+LobsterCatch: 0.1.0
 LocFDRPois: 1.0.0
 LocKer: '1.1'
 LocalControl: 1.1.3
@@ -4591,6 +4593,7 @@ OIdata: '1.0'
 OIsurv: '0.2'
 OLCPM: 0.1.0
 OLScurve: 0.2.0
+OLStrajr: 0.1.0
 ONEST: 0.1.0
 ONETr: 1.0.3
 OOBCurve: '0.3'
@@ -4617,6 +4620,7 @@ ORdensity: '1.0'
 OSACC: '1.0'
 OSCV: '1.0'
 OSDR: 1.1.4
+OSFD: '1.0'
 OSLdecomposition: 1.0.0
 OSMscale: 0.5.1
 OSNMTF: 0.1.0
@@ -6300,7 +6304,7 @@ RobRex: 1.2.0
 RobStatTM: 1.0.7
 RobinHood: 1.7.0
 Robocoap: 0.1-1
-RobustAFT: 1.4-5
+RobustAFT: 1.4-6
 RobustANOVA: 0.3.0
 RobustBF: 0.2.0
 RobustBayesianCopas: '2.0'
@@ -9003,6 +9007,7 @@ bidask: 1.0.0
 bifactorial: 1.4.7
 bife: 0.7.2
 bifurcatingr: 1.0.0
+bigBits: '1.0'
 bigD: 0.2.0
 bigDM: 0.5.1
 bigFastlm: 0.0.2
@@ -10022,7 +10027,7 @@ clinPK: 0.11.1
 clinUtiDNA: '1.0'
 clinUtils: 0.1.4
 clines: 2.0-3
-clinfun: 1.1.1
+clinfun: 1.1.2
 clinicalsignificance: 1.2.0
 clinmon: 0.6.0
 clinsig: '1.2'
@@ -10430,7 +10435,7 @@ cooltools: '2.0'
 coop: 0.6-3
 coopProductGame: '2.0'
 cooptrees: '1.0'
-copBasic: 2.1.9
+copBasic: 2.2.0
 copCAR: 2.0-4
 copas: 0.8-0
 cope: 0.2.3
@@ -10947,6 +10952,7 @@ dataPreparation: 1.0.5
 dataQualityR: '1.0'
 dataReporter: 1.0.2
 dataRetrieval: 2.7.12
+dataSDA: 0.1.0
 datacheck: 1.2.2
 datacheckr: 0.2.0
 dataclass: 0.2.1
@@ -11002,7 +11008,7 @@ datawizard: 0.8.0
 datazoom.amazonia: 1.0.0
 date: 1.2-42
 datefixR: 1.4.1
-datelife: 0.6.7
+datelife: 0.6.8
 daterangepicker: 0.2.0
 datetime: 0.1.4
 datetimeoffset: 0.3.1
@@ -11861,7 +11867,7 @@ ecmwfr: 1.5.0
 eco: 4.0-3
 ecoCopula: 1.0.2
 ecochange: 2.9.3.1
-ecocomDP: 1.2.1
+ecocomDP: 1.2.2
 ecodist: 2.0.9
 ecoengine: 1.12.0
 ecolMod: 1.2.6.4
@@ -12169,7 +12175,7 @@ epitopeR: 1.0.0
 epitrix: 0.4.0
 epitweetr: 2.2.13
 epiworldR: 0.0-1
-eplusr: 0.16.0
+eplusr: 0.16.1
 eply: 0.1.2
 epm: 1.1.1
 epmrob: '0.1'
@@ -12278,7 +12284,7 @@ etree: 0.1.0
 etrm: 1.0.1
 etrunct: '0.1'
 etseed: 0.1.0
-etwfe: 0.3.3
+etwfe: 0.3.4
 eudract: 0.10.1
 eulerian: '1.0'
 eulerr: 7.0.0
@@ -12485,7 +12491,7 @@ fabMix: '5.0'
 fabR: 1.1.1
 fabisearch: 0.0.4.5
 fable: 0.3.3
-fable.ata: 0.0.3
+fable.ata: 0.0.6
 fable.prophet: 0.1.0
 fabletools: 0.3.3
 fabricatr: 1.0.0
@@ -12964,7 +12970,7 @@ forecastHybrid: 5.0.19
 forecastLSW: '1.0'
 forecastML: 0.9.0
 forecastSNSTS: 1.3-0
-forecasteR: 1.1.6
+forecasteR: 2.0.2
 forecasting: '1.26'
 forega: 1.0.3
 foreign: 0.8-84
@@ -13318,7 +13324,7 @@ gapmap: 0.1.0
 gapminder: 1.0.0
 garchmodels: 0.1.1
 garchx: '1.5'
-gargle: 1.5.0
+gargle: 1.5.1
 gargoyle: 0.0.1
 garma: 0.9.11
 garray: 1.1.2
@@ -13382,7 +13388,7 @@ gde: 0.2.1
 gdi: 1.2.2
 gdiff: 0.2-5
 gdimap: 0.1-9
-gdistance: 1.6.2
+gdistance: 1.6.4
 gdm: 1.5.0-9.1
 gdmp: 0.2.0
 gdns: 0.5.0
@@ -19188,7 +19194,7 @@ picasso: 1.3.1
 picker: 0.2.6
 pid: '0.50'
 piecemaker: 1.0.2
-piecepackr: 1.13.1
+piecepackr: 1.13.3
 piecewiseSEM: 2.3.0
 pifpaf: 1.0.1
 piggyback: 0.1.4
@@ -20827,7 +20833,7 @@ remix: '2.1'
 remote: 1.2.1
 remoter: 0.4-0
 remotes: 2.4.2
-rempsyc: 0.1.2
+rempsyc: 0.1.3
 remss: 1.0.1
 renderthis: 0.2.0
 renpow: 0.1-1
@@ -21233,7 +21239,7 @@ robcbi: 1.1-3
 robcor: 0.1-6.1
 robcp: 0.3.7
 roben: 0.1.0
-robeth: 2.7-6
+robeth: 2.7-7
 robets: '1.4'
 robfilter: 4.1.3
 robflreg: '1.1'
@@ -21603,6 +21609,7 @@ ruin: 0.1.1
 ruler: 0.3.0
 rules: 1.0.2
 rumidas: 0.1.1
+runMCMCbtadjust: 1.0.0
 runStat: '1.1'
 runcharter: 0.2.0
 runes: 0.1.0
@@ -22089,7 +22096,7 @@ semantic.dashboard: 0.2.1
 semdiag: 0.1.2
 semdrw: 0.1.0
 semds: 0.9-6
-semfindr: 0.1.4
+semfindr: 0.1.5
 semgram: 0.1.0
 semhelpinghands: 0.1.6
 semiArtificial: 2.4.1
@@ -23880,6 +23887,7 @@ tergmLite: 2.6.1
 term: 0.3.5
 terminaldigits: 0.1.0
 termstrc: 1.3.7
+tern: 0.8.3
 ternvis: '1.2'
 terra: 1.7-37
 terrainmeshr: 0.1.0
@@ -24018,6 +24026,7 @@ tidyBdE: 0.3.4
 tidyCDISC: 0.2.1
 tidyCpp: 0.0.6
 tidyDisasters: 0.1.1
+tidyEdSurvey: 0.1.2
 tidyEmoji: 0.1.0
 tidyHeatmap: 1.8.1
 tidyLPA: 1.1.0
