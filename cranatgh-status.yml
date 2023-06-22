@@ -2425,7 +2425,7 @@ FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
 FuzzyResampling: 0.6.0
 FuzzySTs: '0.2'
-FuzzySimRes: 0.1.2
+FuzzySimRes: 0.2.0
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
 FuzzyStatTraEOO: '1.0'
@@ -2538,7 +2538,7 @@ GLDreg: 1.1.0
 GLIDE: 1.0.5
 GLMMGibbs: 0.5-1
 GLMMRR: 0.5.0
-GLMMadaptive: 0.8-8
+GLMMadaptive: 0.9-0
 GLMMarp: 0.1-1
 GLMMselect: 1.0.0
 GLMaSPU: '1.0'
@@ -6810,7 +6810,7 @@ SciencesPo: 1.4.1
 ScoreEB: 0.1.1
 ScoreGGUM: '1.0'
 ScorePlus: '0.1'
-ScottKnott: 1.3-0
+ScottKnott: 1.3-1
 ScottKnottESD: 2.0.3
 ScrabbleScore: '1.0'
 ScreeNOT: 0.1.0
@@ -6875,7 +6875,7 @@ SesIndexCreatoR: 1.0-2
 SetMethods: '4.0'
 SetRank: 1.1.0
 SetTest: 0.2.0
-Seurat: 4.3.0
+Seurat: 4.3.0.1
 SeuratObject: 4.1.3
 ShapeChange: '1.4'
 ShapePattern: 2.2.0
@@ -7198,7 +7198,7 @@ Superpower: 0.2.0
 SuppDists: 1.1-9.7
 SurfaceReconstruction: 0.1.0
 SurfaceTortoise: 2.0.1
-Surrogate: '2.8'
+Surrogate: '3.0'
 SurrogateOutcome: '1.1'
 SurrogateRegression: 0.6.0
 SurrogateRsq: 0.2.1
@@ -7811,6 +7811,7 @@ WaveletMLbestFL: 0.1.0
 WaveletRF: 0.1.0
 WaveletSVR: 0.1.0
 WaverR: '1.0'
+WaverideR: 0.3.1
 Wcompo: '1.0'
 WeMix: 4.0.0
 WebAnalytics: 0.9.5
@@ -13552,7 +13553,7 @@ geomedb: 2.0.1
 geomerge: 0.3.3
 geometa: 0.7-1
 geometr: 0.2.10
-geometries: 0.2.2
+geometries: 0.2.3
 geometry: 0.4.7
 geomnet: 0.3.1
 geomod: 0.1.0
@@ -15034,7 +15035,7 @@ imputeMissings: 0.0.3
 imputeMulti: 0.8.4
 imputePSF: 0.1.0
 imputeR: '2.2'
-imputeREE: 0.0.1
+imputeREE: 0.0.5
 imputeTS: '3.3'
 imputeTestbench: 3.0.3
 imputeYn: '1.3'
@@ -15761,7 +15762,7 @@ landpred: '1.1'
 landsat: 1.1.0
 landsat8: 0.1-10
 landscapeR: '1.2'
-landscapemetrics: 1.5.6
+landscapemetrics: 1.5.7
 landscapetools: 0.5.0
 landsepi: 1.2.5
 langevitour: '0.5'
@@ -16273,7 +16274,7 @@ lsdv: '1.1'
 lsei: 1.3-0
 lsgl: 1.3.6
 lshorth: 0.1-6
-lsirm12pl: 1.3.0
+lsirm12pl: 1.3.1
 lsl: 0.5.6
 lslx: 0.6.11
 lsm: 0.2.1.2
@@ -18050,7 +18051,7 @@ nmslibR: 1.0.7
 nmw: 0.1.5
 nnDiag: 0.0-5
 nnGarrote: 1.0.4
-nnTensor: 1.1.13
+nnTensor: 1.2.0
 nna: 0.0.2.1
 nnc: '1.14'
 nncRda: '1.87'
@@ -18867,20 +18868,20 @@ pavo: 2.8.0
 pawacc: 1.2.2
 pawls: 1.0.0
 paws: 0.2.0
-paws.analytics: 0.2.0
+paws.analytics: 0.3.0
 paws.application.integration: 0.2.0
 paws.common: 0.5.6
 paws.compute: 0.2.0
 paws.cost.management: 0.2.0
-paws.customer.engagement: 0.2.0
-paws.database: 0.2.0
+paws.customer.engagement: 0.3.0
+paws.database: 0.3.0
 paws.developer.tools: 0.2.0
-paws.end.user.computing: 0.2.0
-paws.machine.learning: 0.2.0
+paws.end.user.computing: 0.3.0
+paws.machine.learning: 0.3.0
 paws.management: 0.2.0
-paws.networking: 0.2.0
+paws.networking: 0.3.0
 paws.security.identity: 0.2.0
-paws.storage: 0.2.0
+paws.storage: 0.3.0
 pbANOVA: 0.1.0
 pbapply: 1.7-0
 pbatR: 2.2-16
@@ -20406,7 +20407,7 @@ randomForest.ddR: 0.1.2
 randomForestExplainer: 0.10.1
 randomForestSRC: 3.2.2
 randomGLM: 1.10-1
-randomLCA: 1.1-2
+randomLCA: 1.1-3
 randomNames: 1.5-0.0
 randomSurvivalForest: 3.6.4
 randomUniformForest: 1.1.6
@@ -22215,7 +22216,7 @@ sfc: 0.1.0
 sfcr: 0.2.1
 sfdct: 0.1.0
 sfdep: 0.2.3
-sfheaders: 0.4.2
+sfheaders: 0.4.3
 sfhotspot: 0.7.1
 sfinx: 1.7.99
 sfnetworks: 0.6.3
@@ -22821,7 +22822,7 @@ sourceR: 1.1.0
 sourcetools: 0.1.7-1
 sovereign: 1.2.1
 sox: '1.0'
-sp: 1.6-1
+sp: 2.0-0
 sp23design: 0.9-1
 sp500SlidingWindow: 0.1.0
 spANOVA: 0.99.3
@@ -25019,6 +25020,7 @@ vscc: '0.6'
 vsd: 0.1.0
 vsgoftest: 1.0-1
 vsp: 0.1.1
+vstdct: '0.1'
 vstsr: 1.1.0
 vtable: 1.4.4
 vtcl: 1.0-1
