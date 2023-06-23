@@ -628,7 +628,7 @@ BayesSingleSub: 0.6.2
 BayesSpec: 0.5.3
 BayesSummaryStatLM: '2.0'
 BayesSurvival: 0.2.0
-BayesTools: 0.2.14
+BayesTools: 0.2.15
 BayesTree: 0.3-1.4
 BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
@@ -1660,7 +1660,7 @@ DataSetsUni: '0.1'
 DataSpaceR: 0.7.6
 DataVisualizations: 1.3.0
 DataViz: 0.2.8
-DatabaseConnector: 6.2.1
+DatabaseConnector: 6.2.2
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.2.0
 Datasmith: 1.0-1
@@ -6527,7 +6527,7 @@ SE.IGE: '1.0'
 SEA: 2.0.1
 SEAA: 0.9.6
 SEAGLE: 1.0.1
-SEAHORS: 1.7.0
+SEAHORS: 1.8.0
 SEAsic: '0.1'
 SECFISH: 0.1.7
 SECP: 0.1.5
@@ -6724,7 +6724,7 @@ SRRS: 0.1.1
 SRS: 0.2.3
 SRTsim: 0.99.6
 SRTtools: 1.2.0
-SSBtools: 1.4.6
+SSBtools: 1.4.8
 SSDL: '1.1'
 SSDM: 0.2.8
 SSDforR: 1.5.29
@@ -8453,7 +8453,7 @@ armada: 0.1.0
 armspp: 0.0.2
 arnie: 0.1.2
 aroma.affymetrix: 3.2.1
-aroma.apd: 0.6.1
+aroma.apd: 0.7.0
 aroma.cn: 1.7.0
 aroma.core: 3.3.0
 arpr: 0.1.2
@@ -8943,6 +8943,7 @@ benchr: 0.2.5
 bender: 0.1.1
 benford: 1.0.1
 benford.analysis: 0.1.5
+bennu: 0.2.1
 bentcableAR: 0.3.1
 benthos: 1.3-8
 ber: '4.0'
@@ -10838,7 +10839,7 @@ cutoffR: '1.0'
 cutpointr: 1.1.2
 cuttlefish.model: '1.0'
 cvAUC: 1.1.4
-cvCovEst: 1.2.0
+cvCovEst: 1.2.1
 cvGEE: 0.3-0
 cvTools: 0.3.2
 cvam: 0.9.3
@@ -12776,7 +12777,7 @@ figma: 0.2.0
 figpatch: '0.2'
 figuRes2: 1.0.0
 file2meco: 0.6.0
-filearray: 0.1.5
+filearray: 0.1.6
 filebin: 0.0.5
 filehash: 2.4-5
 filehashSQLite: 0.2-6
@@ -12891,7 +12892,7 @@ flexiblas: 3.3.0
 flexmet: '1.1'
 flexmix: 2.3-19
 flexmixNL: 0.0.1
-flexmsm: 0.1.0
+flexmsm: 0.1.1
 flexpolyline: 0.3.0
 flexrsurv: 2.0.17
 flexsiteboard: 0.0.7
@@ -13323,7 +13324,7 @@ gamlssbssn: 0.1.0
 gamm4: 0.2-6
 gamm4.test: 0.1.0
 gammSlice: 2.0-2
-gamma: 1.0.3
+gamma: 1.0.4
 gamreg: '0.3'
 gamsel: 1.8-2
 gamselBayes: 1.0-3
@@ -15207,7 +15208,7 @@ introgress: 1.2.3
 intrval: 0.1-2
 intsurv: 0.2.2
 intsurvbin: 0.0.4
-intsvy: '2.6'
+intsvy: '2.7'
 intubate: 1.0.0
 inum: 1.0-5
 invGauss: '1.2'
@@ -15333,7 +15334,7 @@ isva: '1.9'
 italy: 0.1.0
 itan: 3.1.1
 itcSegment: '0.8'
-itdr: 1.2.0
+itdr: 2.0.0
 iteRates: '3.1'
 itemanalysis: '1.1'
 iterLap: 1.1-3
@@ -16670,7 +16671,7 @@ mcvis: 1.0.8
 mcwr: 1.0.0
 md: 1.0.4
 md.log: 0.2.0
-mda: 0.5-3
+mda: 0.5-4
 mdapack: 0.0.2
 mdatools: 0.14.0
 mdbr: 0.1.2
@@ -16888,6 +16889,7 @@ mglR: 0.1.0
 mglasso: 0.1.2
 mglmn: 0.1.0
 mgm: 1.2-13
+mgpStreamingSDK: 0.1.0
 mgpd: '1.99'
 mgraph: '1.03'
 mgss: '1.2'
@@ -17478,7 +17480,7 @@ msd: 0.3.1
 msda: 1.0.3
 msde: 1.0.5
 mseapca: '1.0'
-msentropy: 0.1.2
+msentropy: 0.1.3
 mseq: '1.2'
 msgcop: '0.9'
 msgl: 2.3.9
@@ -17580,7 +17582,7 @@ multifear: 0.1.2
 multifluo: '1.1'
 multifunc: 0.9.4
 multifwf: 0.2.2
-multigraph: '0.98'
+multigraph: '0.99'
 multigraphr: 0.1.0
 multigroup: 0.4.5
 multilateral: 1.0.0
@@ -18596,10 +18598,11 @@ osqp: 0.6.0.8
 osrm: 4.1.1
 osrmr: 0.1.36
 ot: 0.2.0
+otargen: 1.0.0
 otinference: 0.1.0
 otp: 0.1.0
 otpr: 0.5.1
-otrKM: 0.1.0
+otrKM: 0.2.0
 otrimle: '2.0'
 otsad: 0.2.0
 otsfeatures: 1.0.0
@@ -18798,7 +18801,7 @@ parlitools: 0.4.1
 parma: '1.7'
 parmigene: 1.1.0
 parmsurvfit: 0.1.0
-paropt: '0.3'
+paropt: 0.3.2
 parqr: 0.1.0
 parquetize: 0.5.6.1
 parseRPDR: 1.0.1
@@ -18875,18 +18878,18 @@ pawacc: 1.2.2
 pawls: 1.0.0
 paws: 0.2.0
 paws.analytics: 0.3.0
-paws.application.integration: 0.2.0
+paws.application.integration: 0.3.1
 paws.common: 0.5.6
-paws.compute: 0.2.0
-paws.cost.management: 0.2.0
+paws.compute: 0.3.1
+paws.cost.management: 0.3.1
 paws.customer.engagement: 0.3.0
 paws.database: 0.3.0
-paws.developer.tools: 0.2.0
+paws.developer.tools: 0.3.1
 paws.end.user.computing: 0.3.0
 paws.machine.learning: 0.3.0
-paws.management: 0.2.0
+paws.management: 0.3.1
 paws.networking: 0.3.0
-paws.security.identity: 0.2.0
+paws.security.identity: 0.3.1
 paws.storage: 0.3.0
 pbANOVA: 0.1.0
 pbapply: 1.7-0
@@ -19294,7 +19297,7 @@ plainview: 0.2.0
 plan: 0.4-4
 planar: '1.6'
 planets: 0.1.0
-planningML: 1.0.0
+planningML: 1.0.1
 planor: 1.5-3
 plantTracker: 1.1.0
 plantecophys: 1.4-6
@@ -19448,7 +19451,7 @@ pokemon: 0.1.3
 poker: 0.8.8
 polAr: 0.2.0.1
 polaroid: 0.0.1
-policytree: 1.2.1
+policytree: 1.2.2
 polidata: 0.1.0.1
 polimetrics: 1.2.1.14
 poliscidata: 2.3.0
@@ -21163,7 +21166,7 @@ rlecuyer: 0.3-7
 rlemon: 0.2.1
 rless: 0.1.1
 rlfsm: 1.1.2
-rlibkriging: 0.7-4.3
+rlibkriging: 0.8-0
 rliger: 1.0.0
 rlist: 0.4.6.2
 rlistings: 0.2.2
@@ -23907,7 +23910,7 @@ terminaldigits: 0.1.0
 termstrc: 1.3.7
 tern: 0.8.3
 ternvis: '1.2'
-terra: 1.7-37
+terra: 1.7-39
 terrainmeshr: 0.1.0
 terrainr: 0.7.4
 tessellation: 2.1.3
@@ -24119,7 +24122,7 @@ tidyterra: 0.4.0
 tidytext: 0.4.1
 tidytidbits: 0.3.2
 tidytlg: 0.1.1
-tidytransit: 1.5.1
+tidytransit: 1.6.0
 tidytreatment: 0.2.2
 tidytree: 0.4.2
 tidytuesdayR: 1.0.2
@@ -24381,6 +24384,7 @@ treatSens: 2.1.3
 tree: 1.0-43
 tree.bins: 0.1.1
 tree.interpreter: 0.1.1
+tree3d: 0.1.2
 treeClust: 1.1-7
 treeDA: 0.0.5
 treeHFM: 1.0.3
@@ -25006,6 +25010,7 @@ vortexRdata: 1.0.5
 voson.tcn: 0.5.0
 vosonSML: 0.32.7
 vote: 2.3-2
+voteSim: 0.1.0
 voteogram: 0.3.2
 votesmart: 0.1.2
 votesys: 0.1.1
