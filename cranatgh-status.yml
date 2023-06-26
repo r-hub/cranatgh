@@ -2003,6 +2003,7 @@ EcoTroph: 1.6.1
 EcoVirtual: '1.1'
 Ecohydmod: 1.0.0
 EconDemand: '1.0'
+EconGeo: '2.0'
 EcotoneFinder: 0.2.3
 Ecume: 0.9.1
 EdSurvey: 4.0.1
@@ -2609,6 +2610,7 @@ GRANBase: 2.6.20
 GRANCore: 0.2.7
 GRAPE: 0.1.1
 GRASS: 0.3-9
+GRCRegression: '1.0'
 GRCdata: '1.0'
 GREENeR: 0.1.2
 GREMLINS: 0.2.1
@@ -3316,7 +3318,7 @@ JMH: 1.0.2
 JMI: 0.1.0
 JMLSD: '1.0'
 JMbayes: 0.8-85
-JMbayes2: 0.4-0
+JMbayes2: 0.4-5
 JMcmprsk: 0.9.10
 JMdesign: '1.3'
 JOP: '3.6'
@@ -4071,7 +4073,7 @@ ManyTests: '1.2'
 Map2NCBI: '1.4'
 MapGAM: 1.2-6
 MapeBay: 0.1.0
-Mapinguari: 2.0.0
+Mapinguari: 2.0.1
 MareyMap: 1.3.6
 MargCond: 1.0.0
 MarginalMediation: 0.7.2
@@ -5190,7 +5192,7 @@ ProPublicaR: 1.1.2
 ProSGPV: 1.0.0
 ProTrackR: 0.3.7
 ProbBayes: '1.1'
-ProbBreed: 1.0.0
+ProbBreed: 1.0.1
 ProbForecastGOP: 1.3.2
 ProbMarg: 1.0.1
 ProbReco: 0.1.2
@@ -6293,7 +6295,7 @@ Rnumerai: 3.0.1
 Rnvd3: 1.0.0
 RoBMA: 3.0.1
 RoBSA: 1.0.2
-RoBTT: 1.1.0
+RoBTT: 1.2.0
 RobAStBase: 1.2.3
 RobAStRDA: 1.2.0
 RobExtremes: 1.2.0
@@ -8493,7 +8495,7 @@ asdreader: 0.1-3
 ash: 1.0-15
 ashr: 2.2-54
 asht: 1.0.0
-askgpt: 0.1.1
+askgpt: 0.1.2
 askpass: '1.1'
 aslib: 0.1.2
 asmbPLS: 1.0.0
@@ -8737,7 +8739,7 @@ barplot3d: 1.0.1
 barsurf: 0.7.0
 bartBMA: '1.0'
 bartCause: 1.0-6
-bartMachine: 1.3.3.1
+bartMachine: 1.3.4
 bartMachineJARs: 1.2.1
 bartcs: 1.2.0
 basad: 0.3.0
@@ -10588,6 +10590,7 @@ cowbell: 0.1.0
 cowplot: 1.1.1
 cowsay: 0.8.2
 coxed: 0.3.3
+coxerr: '1.1'
 coxinterval: '1.2'
 coxme: 2.2-18.1
 coxmeg: 1.1.4
@@ -10658,7 +10661,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.2.1
+crew: 0.3.0
 crew.cluster: 0.1.1
 crfsuite: 0.4.1
 cricketdata: 0.2.2
@@ -11363,7 +11366,7 @@ diffusr: 0.1.4
 diffval: 1.1.0
 diffviewer: 0.1.1
 digeR: '1.3'
-digest: 0.6.31
+digest: 0.6.32
 digiRhythm: '1.1'
 digitTests: 0.1.2
 digitalDLSorteR: 0.3.1
@@ -11404,7 +11407,7 @@ discharge: 1.0.0
 disclap: 1.5.1
 disclapmix: 1.7.4
 disclapmix2: 0.6.1
-disclosuR: 0.4.0
+disclosuR: 0.5.0
 discnorm: 0.2.1
 disco: '0.6'
 discord: 1.1.0
@@ -12559,7 +12562,7 @@ fam.recrisk: '0.1'
 fam2r: '1.2'
 famSKATRC: 1.1.0
 fame: 2.21.1
-familial: 1.0.4
+familial: 1.0.5
 familiar: 1.4.1
 fanc: 2.3.9
 fancycut: 0.1.2
@@ -13683,7 +13686,7 @@ ggblend: 0.1.0
 ggborderline: 0.2.0
 ggbraid: 0.2.2
 ggbrain: 0.8.1
-ggbreak: 0.1.1
+ggbreak: 0.1.2
 ggbuildr: 0.1.0
 ggbump: 0.1.0
 ggchangepoint: 0.1.0
@@ -15115,7 +15118,7 @@ inldata: 1.0.3
 inline: 0.3.19
 inlinedocs: 2019.12.5
 inlmisc: 0.5.5
-inlpubs: 1.0.4
+inlpubs: 1.0.6
 innsight: 0.2.0
 ino: 1.0.1
 inops: 0.0.1
@@ -15446,7 +15449,7 @@ jmetrik: '1.1'
 jmotif: 1.1.1
 jmuOutlier: '2.2'
 jmv: 2.3.4
-jmvReadWrite: 0.3.5
+jmvReadWrite: 0.3.6
 jmvconnect: 2.3.13
 jmvcore: 2.3.19
 job: 0.3.0
@@ -16068,6 +16071,7 @@ listviewer: 3.0.0
 litRiddle: 0.4.1
 lite: 1.1.0
 liteq: 1.1.0
+literanger: 0.0.1
 litteR: 1.0.0
 litterfitter: 0.1.2
 littler: 0.3.18
@@ -18036,7 +18040,7 @@ nlsMicrobio: 0.0-3
 nlsem: '0.8'
 nlshelper: '0.2'
 nlshrink: 1.0.1
-nlsic: 1.0.2
+nlsic: 1.0.4
 nlsmsn: 0.0-6
 nlsr: 2023.5.8
 nlsrk: '1.1'
@@ -18542,7 +18546,7 @@ orderbook: '1.03'
 orderedLasso: 1.7.1
 ordering: 0.7.0
 orderly: 1.4.3
-orders: 0.1.6
+orders: 0.1.7
 orderstats: 0.1.0
 ordiBreadth: '1.0'
 ordinal: 2022.11-16
@@ -19265,7 +19269,7 @@ pixmap: 0.4-12
 pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.3
-pkgbuild: 1.4.1
+pkgbuild: 1.4.2
 pkgcache: 2.1.1
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
@@ -21256,7 +21260,7 @@ roads: 1.1.1
 roahd: 1.4.3
 robCompositions: 2.3.1
 robFitConGraph: 0.4.1
-robStepSplitReg: 1.0.1
+robStepSplitReg: 1.0.2
 robber: 0.2.3
 robcbi: 1.1-3
 robcor: 0.1-6.1
@@ -21528,7 +21532,7 @@ rsm: 2.10.3
 rsmatrix: 0.2.6
 rsml: '1.3'
 rsnell: '0.1'
-rsnps: 0.6.0
+rsnps: 0.5.0.0
 rsoi: 0.5.5
 rsolr: 0.0.13
 rspa: 0.2.8
@@ -21801,7 +21805,7 @@ samplesizelogisticcasecontrol: 2.0.0
 sampling: '2.9'
 samplingDataCRT: '1.0'
 samplingEstimates: 0.1-3
-samplingR: 1.0.0
+samplingR: 1.0.1
 samplingVarEst: '1.5'
 samplingbook: 1.2.4
 sampsizeval: 1.0.0.0
@@ -23997,7 +24001,7 @@ tfse: 0.5.0
 tgamtheme: 0.1.0
 tgcd: '2.5'
 tggd: 0.1.1
-tglkmeans: 0.3.8
+tglkmeans: 0.3.10
 tglm: '1.0'
 tgp: 2.4-21
 tgram: 0.2-3
@@ -24617,7 +24621,7 @@ txtq: 0.2.4
 typed: 0.0.1
 typehint: 0.1.2
 types: 1.0.0
-typetracer: 0.1.1
+typetracer: 0.2.2
 tzdb: 0.4.0
 tzupdater: 0.1.2
 u5mr: 0.1.1
@@ -24782,7 +24786,7 @@ uuid: 1.1-0
 uwIntroStats: 0.0.7
 uwedragon: 0.1.0
 uwo4419: 0.3.0
-uwot: 0.1.14
+uwot: 0.1.15
 uxr: 0.2.0
 vDiveR: 1.1.0
 vICC: 1.0.0
