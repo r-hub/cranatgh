@@ -112,7 +112,7 @@ APCI: 1.0.6
 APCanalysis: '1.0'
 APCtools: 1.0.4
 APFr: 1.0.2
-APIS: 1.0.1
+APIS: 2.0.1
 APML: 0.0.5
 APML0: '0.10'
 APPEstimation: 0.1.1
@@ -2722,6 +2722,7 @@ GenericML: 0.2.2
 GeneticSubsetter: '0.8'
 GeneticTools: 0.3.1
 GenoScan: '0.1'
+GenoTriplo: 1.0.1
 GenomeAdapt: 1.0.0
 GenomeAdmixR: 2.1.7
 GenomicMating: '2.0'
@@ -3226,6 +3227,7 @@ IncDTW: 1.1.4.4
 IncidencePrevalence: 0.4.0
 IncomPair: 0.1.0
 IncucyteDRC: 0.5.4
+IndGenErrors: 0.1.4
 IndTestPP: '3.0'
 IndepTest: 0.2.0
 IndependenceTests: '0.5'
@@ -3519,6 +3521,7 @@ LMoFit: 0.1.6
 LN0SCIs: 0.1.5
 LN3GV: 2.12-1
 LNIRT: 0.5.1
+LNPar: 0.1.0
 LOCUS: '1.0'
 LOGAN: 1.0.1
 LOGANTree: 0.1.1
@@ -3742,7 +3745,7 @@ MBCluster.Seq: '1.0'
 MBESS: 4.9.2
 MBHdesign: 2.2.2
 MBI: '1.0'
-MBMethPred: 0.1.0
+MBMethPred: 0.1.1
 MBNMAdose: 0.4.1
 MBNMAtime: 0.2.3
 MBSGS: 1.1.0
@@ -3766,7 +3769,7 @@ MCM: 0.1.7
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
-MCMCglmm: '2.34'
+MCMCglmm: '2.35'
 MCMChybridGP: '5.4'
 MCMCpack: 1.6-3
 MCMCprecision: 0.4.0
@@ -4878,7 +4881,7 @@ PMCMRplus: 1.9.6
 PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.19-1
-PNADcIBGE: 0.7.2
+PNADcIBGE: 0.7.3
 PNAR: '1.4'
 PNSIBGE: 0.1.9
 PNWColors: 0.1.0
@@ -7651,7 +7654,7 @@ UpSetR: 1.4.0
 UpSetVP: 1.0.0
 UsingR: 2.0-7
 UtilityFrailtyPH12: '1.0'
-V8: 4.3.1
+V8: 4.3.2
 VA: '1.0'
 VAJointSurv: 0.1.0
 VALERIE: 1.1.0
@@ -8104,7 +8107,7 @@ admiraldev: 0.4.0
 admiralonco: 0.4.0
 admiralophtha: 0.2.0
 admiralvaccine: 0.1.0
-admisc: '0.32'
+admisc: '0.33'
 admix: 2.1-0
 admixr: 0.9.1
 admixturegraph: 1.0.2
@@ -8155,7 +8158,7 @@ aglm: 0.4.0
 agop: 0.2-3
 agreement: 1.0-1
 agriTutorial: 0.1.5
-agricolae: 1.3-5
+agricolae: 1.3-6
 agricolaeplotr: 0.2.2
 agridat: '1.21'
 agrifeature: 1.0.3
@@ -8991,7 +8994,7 @@ bfa: '0.4'
 bfast: 1.6.1
 bfork: 0.1.2
 bfp: 0.0-46
-bfsMaps: 0.9.8
+bfsMaps: 1.99.3
 bfsl: 0.2.0
 bfw: 0.4.2
 bgeva: 0.3-1
@@ -9703,7 +9706,7 @@ cba: 0.2-23
 cban: '1.0'
 cbanalysis: 0.2.0
 cbar: 0.1.3
-cbcTools: 0.3.4
+cbcTools: 0.4.0
 cbinom: '1.6'
 cbioportalR: 1.0.1
 cbird: '1.0'
@@ -9753,7 +9756,7 @@ cdcsis: 2.0.3
 cde: 0.4.1
 cder: 0.3-1
 cdfquantreg: 1.3.1-1
-cdgd: 0.3.1
+cdgd: 0.3.2
 cdlTools: '0.15'
 cdlei: '1.0'
 cdmTools: 1.0.3
@@ -10446,7 +10449,7 @@ convertGraph: '0.1'
 convertbonds: 0.1.0
 convertid: 0.1.3
 convertr: '0.1'
-convevol: 2.0.0
+convevol: 2.0.1
 convexHaz: '0.2'
 convexjlr: 0.8.1
 convey: 0.2.5
@@ -10543,7 +10546,7 @@ cotrend: 1.0.2
 couchDB: 1.4.1
 countDM: 0.1.0
 countHMM: 0.1.0
-countSTAR: 1.0.1
+countSTAR: 1.0.2
 countToFPKM: '1.0'
 countTransformers: 0.0.6
 countcolors: 0.9.1
@@ -10625,7 +10628,7 @@ cplots: 0.5-0
 cpm: '2.3'
 cpmBigData: 0.0.1
 cpop: 1.0.6
-cpp11: 0.4.3
+cpp11: 0.4.4
 cppRouting: '3.1'
 cppcheckR: 1.0.0
 cppcor: '1.2'
@@ -11628,6 +11631,7 @@ dpmr: 0.1.9
 dppmix: 0.1.1
 dprep: 3.0.2
 dprint: 0.0.4
+dprop: 0.1.0
 dpseg: 0.1.1
 dqrng: 0.3.0
 dqshiny: 0.0.4
@@ -13895,7 +13899,7 @@ gimmeTools: '0.1'
 gimms: 1.2.1
 giphyr: 0.2.0
 gips: 1.0.0
-giscoR: 0.3.4
+giscoR: 0.3.5
 gistr: 0.9.0
 git2r: 0.32.0
 git2rdata: 0.4.0
@@ -14428,7 +14432,7 @@ hashids: 0.9.0
 hashmap: 0.2.2
 hashr: 0.1.4
 hasseDiagram: 0.2.0
-haven: 2.5.2
+haven: 2.5.3
 hawkes: 0.0-4
 hawkesbow: 1.0.2
 hazer: 1.1.1
@@ -17206,7 +17210,7 @@ mlrpro: 0.1.2
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlstrOpalr: 1.0.0
-mlt: 1.4-7
+mlt: 1.4-8
 mlt.docreg: 1.1-6
 mltest: 1.0.1
 mltools: 0.3.5
@@ -17691,7 +17695,7 @@ mvLSWimpute: 0.1.1
 mvMAPIT: 2.0.1
 mvMISE: '1.0'
 mvMORPH: 1.1.7
-mvMonitoring: 0.2.0
+mvMonitoring: 0.2.2
 mvPot: 0.1.5
 mvProbit: 0.1-10
 mvQuad: 1.0-6
@@ -19780,7 +19784,7 @@ processdata: 0.8.2
 processmapR: 0.5.3
 processmonitR: 0.1.0
 processpredictR: 0.1.0
-processx: 3.8.1
+processx: 3.8.2
 procmaps: 0.0.5
 prodest: 1.0.1
 prodigenr: 0.6.2
@@ -20931,7 +20935,7 @@ request: 0.1.0
 requiRements: 0.0.3
 requireR: 1.0.0.1
 rerandPower: 0.0.1
-rerddap: 1.0.2
+rerddap: 1.0.3
 rerddapXtracto: 1.1.4
 rerf: 2.0.4
 resample: '0.6'
@@ -20955,6 +20959,7 @@ resper: 0.3.2
 respirometry: 1.3.0
 responsePatterns: 0.1.0
 restatapi: 0.20.6
+restatis: 0.1.0
 restaurant: 0.1.0
 restez: 2.1.3
 restfulr: 0.0.15
@@ -21123,7 +21128,7 @@ ring: 1.0.4
 ringbuffer: '1.1'
 ringostat: 0.1.5
 ringscale: 0.1.2
-rintcal: 0.6.0
+rintcal: 0.6.1
 rintimg: 0.1.0
 rintrojs: 0.3.2
 rio: 0.5.29
@@ -21434,7 +21439,7 @@ rpf: 1.0.11
 rpg: '1.6'
 rpgm: 1.1.2
 rphast: 1.6.9
-rphylopic: 1.0.0
+rphylopic: 1.1.0
 rphylotastic: 0.0.4
 rpicosat: 1.0.1
 rpinterest: 0.3.1
@@ -21554,7 +21559,7 @@ rsmatch: 0.2.0
 rsmatrix: 0.2.6
 rsml: '1.3'
 rsnell: '0.1'
-rsnps: 0.5.0.0
+rsnps: 0.6.0
 rsoi: 0.5.5
 rsolr: 0.0.13
 rspa: 0.2.8
@@ -21705,7 +21710,7 @@ rwfec: '0.2'
 rwhatsapp: 0.2.4
 rwicc: 0.1.3
 rwirelesscom: 1.4.3
-rwisp: 1.0.4
+rwisp: 1.0.5
 rwm: '1.53'
 rworkflows: 0.99.5
 rworldmap: 1.3-6
