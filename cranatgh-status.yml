@@ -2668,7 +2668,7 @@ GWLelast: 1.2.2
 GWPR.light: 0.2.1
 GWRM: 2.1.0.4
 GWSDAT: 3.1.1
-GWmodel: 2.2-9
+GWmodel: 2.3-1
 GWnnegPCA: 0.0.4
 GWpcor: 0.1.7
 GWsignif: '1.2'
@@ -3621,7 +3621,7 @@ LearningRlab: '2.3'
 LearningStats: 0.1.0
 LendingClub: 2.0.0
 LexFindR: 1.0.2
-LexisNexisTools: 0.3.6
+LexisNexisTools: 0.3.7
 LexisPlotR: 0.4.0
 LibOPF: 2.6.2
 LiblineaR: 2.10-22
@@ -4983,6 +4983,7 @@ PVR: '0.3'
 PVplr: 0.1.2
 PWD: '1.0'
 PWEALL: 1.3.0
+PWEXP: 0.3.0
 PWFSLSmoke: 1.2.117
 PWIR: 0.0.1
 PaRe: 0.1.10
@@ -5697,7 +5698,7 @@ ROI.plugin.alabama: 1.0-0
 ROI.plugin.clarabel: '0.2'
 ROI.plugin.clp: '0.4'
 ROI.plugin.cplex: 0.3-0
-ROI.plugin.deoptim: 1.0-0
+ROI.plugin.deoptim: 1.0-1
 ROI.plugin.ecos: 1.0-0
 ROI.plugin.glpk: 1.0-0
 ROI.plugin.highs: 1.0-2
@@ -7381,7 +7382,7 @@ TSPostgreSQL: 2015.4-1
 TSPred: '5.1'
 TSS.RESTREND: 0.3.1
 TSSQLite: 2015.4-1
-TSSS: 1.3.4-2
+TSSS: 1.3.4-4
 TSSVM: 0.1.0
 TSTr: '1.2'
 TSTutorial: 1.2.6
@@ -7739,6 +7740,7 @@ VdgRsm: '1.5'
 Vdgraph: 2.2-6
 VecStatGraphs2D: '1.8'
 VecStatGraphs3D: '1.6'
+VectorCodeR: 0.1.0
 VedicDateTime: 0.1.4
 VennDiagram: 1.7.3
 VertexSimilarity: '0.1'
@@ -8852,6 +8854,7 @@ bayesnec: 2.1.0.3
 bayespack: 1.0-2
 bayesplay: 0.9.3
 bayesplot: 1.10.0
+bayespm: 0.1.0
 bayespref: '1.0'
 bayesreg: '1.2'
 bayesrules: 0.0.2
@@ -9262,7 +9265,7 @@ blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-2
 blsAPI: 0.2.1
-blsR: 0.4.0
+blsR: 0.5.0
 blscrapeR: 3.2.2
 bltm: 0.1.0
 bluebike: 0.0.3
@@ -12172,6 +12175,7 @@ epanet2toolkit: 0.7.0
 epanetReader: 0.7.3
 epca: 1.0.1
 epcc: 1.4.7
+epe4md: 0.1.4
 eph: 0.6.0
 epi2loc: 1.0-1
 epi2me2r: 0.1.0
@@ -12285,6 +12289,7 @@ escalation: 0.1.5
 esd4all: 1.0-9
 eseis: 0.7.2
 eselect: '1.1'
+esem: 2.0.0
 esemifar: 1.0.1
 eshrink: 0.1.2
 esmisc: 0.0.3
@@ -12608,7 +12613,7 @@ fast: '0.64'
 fastAFT: '1.4'
 fastAdaboost: 1.0.0
 fastCorrDiff: '0.5'
-fastDummies: 1.6.3
+fastDummies: 1.7.1
 fastGHQuad: 1.0.1
 fastGLCM: 1.0.2
 fastGraph: '2.1'
@@ -13376,6 +13381,7 @@ gastempt: 0.5.5
 gaston: 1.5.9
 gateR: 0.1.13
 gatepoints: 0.1.4
+gatoRs: 1.0.0
 gauseR: '1.1'
 gaussDiff: '1.1'
 gausscov: 1.0.2
@@ -14099,7 +14105,7 @@ googlenlp: 0.2.0
 googler: 0.0.1
 googlesheets: 0.3.0
 googlesheets4: 1.1.1
-googletraffic: 0.1.3
+googletraffic: 0.1.4
 googleway: 2.7.7
 gor: '1.0'
 goric: 1.1-2
@@ -14815,6 +14821,7 @@ hypr: 0.2.3
 hypred: '0.5'
 hypsoLoop: 0.2.0
 hystReet: 0.0.3
+hystar: 1.0.0
 hysteresis: '2.7'
 hzar: 0.2-5
 i18n: 0.2.0
@@ -15283,6 +15290,7 @@ ipr: 0.1.0
 ipred: 0.9-14
 iprior: 0.7.3
 ips: 0.0.11
+ipsRdbs: 0.2.6
 ipsecr: 1.4.0
 ipsfs: 1.0.0
 iptmnetr: 0.1.8
@@ -15327,6 +15335,7 @@ isingLenzMC: 0.2.5
 island: 0.2.9
 islasso: 1.5.1
 ismev: '1.42'
+ismtchile: 2.1.5
 isni: '1.3'
 isnullptr: 1.0.1
 isoSurv: 0.2.0
@@ -17442,7 +17451,7 @@ mph: '0.9'
 mplot: 1.0.6
 mpm: 1.0-23
 mpmcorrelogram: 0.1-4
-mpmi: 0.43.2
+mpmi: 0.43.2.1
 mpmsim: 1.0.0
 mpoly: 1.1.1
 mpower: 0.1.0
@@ -18298,6 +18307,7 @@ nzilbb.labbcat: 1.2-0
 nzpullover: 0.3.0
 o2geosocial: 1.1.0
 o2plsda: 0.0.18
+oHMMed: 1.0.0
 oRus: 1.0.0
 oXim: 1.2.2
 oaColors: 0.0.4
@@ -18700,7 +18710,7 @@ pRecipe: 2.5.0
 pRepDesigns: 1.1.0
 pSI: '1.1'
 pTITAN2: 1.0.2
-pa: 1.2-2
+pa: 1.2-3
 pacbpred: 0.92.2
 pack: 0.1-1
 packClassic: 0.5.2
@@ -18966,6 +18976,7 @@ pcatsAPIclientR: 1.1.0
 pccc: 1.0.5
 pcdpca: '0.4'
 pcds: 0.1.7
+pcds.ugraph: 0.1.0
 pcensmix: 1.2-1
 pcenum: 1.0.1
 pcev: 2.2.2
@@ -20973,7 +20984,7 @@ restlos: 0.2-2
 restoptr: 1.0.5
 restorepoint: '0.2'
 restrictedMVN: '1.0'
-restriktor: 0.4-501
+restriktor: 0.5-10
 resumer: 0.0.5
 rethinker: 1.1.0
 rethnicity: 0.2.4
@@ -23048,7 +23059,7 @@ specmine.datasets: 0.0.2
 specr: 1.0.0
 specs: 0.1.1
 spectacles: 0.5-3
-spectator: 0.1.1
+spectator: 0.2.0
 spectr: 1.0.1
 spectral: '2.0'
 spectral.methods: 0.7.2.133
@@ -25396,7 +25407,7 @@ x12GUI: 0.13.0
 x13binary: 1.1.57-3
 x3ptools: 0.0.3
 xLLiM: '2.2'
-xQTLbiolinks: 1.4.2
+xQTLbiolinks: 1.5.2
 xROI: 0.9.20
 xRing: 0.1.1
 xSub: 3.0.2
