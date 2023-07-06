@@ -47,7 +47,7 @@ AEP: 0.1.4
 AER: 1.2-10
 AEenrich: 1.1.0
 AF: 0.1.5
-AFFECT: 0.1.1
+AFFECT: 0.1.2
 AFLPsim: 0.4-2
 AFM: '2.0'
 AFR: 0.3.4
@@ -889,7 +889,7 @@ CEDARS: '1.90'
 CEEMDANML: 0.1.0
 CEGO: 2.4.2
 CENFA: 1.1.1
-CEOdata: 1.3.1
+CEOdata: 1.3.1.1
 CERFIT: 0.1.0
 CEoptim: '1.2'
 CFAcoop: 1.0.0
@@ -4152,7 +4152,7 @@ Mestim: 0.2.1
 MetABEL: 0.2-0
 MetAlyzer: 0.1.0
 MetBrewer: 0.2.0
-MetChem: '0.3'
+MetChem: '0.4'
 MetFns: 3.2.2
 MetGen: '0.5'
 MetNorm: '0.1'
@@ -4986,7 +4986,7 @@ PWEALL: 1.3.0
 PWEXP: 0.3.0
 PWFSLSmoke: 1.2.117
 PWIR: 0.0.1
-PaRe: 0.1.10
+PaRe: 0.1.11
 PabonLasso: '1.0'
 Pade: 1.0.5
 PairTrading: '1.1'
@@ -5701,11 +5701,11 @@ ROI.plugin.cplex: 0.3-0
 ROI.plugin.deoptim: 1.0-1
 ROI.plugin.ecos: 1.0-0
 ROI.plugin.glpk: 1.0-0
-ROI.plugin.highs: 1.0-2
+ROI.plugin.highs: 1.0-3
 ROI.plugin.ipop: 1.0-0
 ROI.plugin.lpsolve: 1.0-1
 ROI.plugin.msbinlp: 1.0-0
-ROI.plugin.neos: 1.0-0
+ROI.plugin.neos: 1.0-1
 ROI.plugin.nloptr: 1.0-0
 ROI.plugin.optimx: 1.0-0
 ROI.plugin.osqp: 1.0-0
@@ -5935,7 +5935,7 @@ RapidoPGS: 2.2.0
 Rapp: 0.1.0
 Raquifer: 0.1.0
 RareComb: '1.1'
-Rarefy: '1.1'
+Rarefy: 1.1.1
 Rarity: 1.3-6
 RaschSampler: 0.8-8
 Rassoc: '1.03'
@@ -6040,7 +6040,7 @@ Rcoclust: 0.1.1
 Rcolombos: 2.0.2
 Rcompadre: 1.2.1
 Rcplex: 0.3-6
-Rcpp: 1.0.10
+Rcpp: 1.0.11
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.7.2
@@ -6661,6 +6661,7 @@ SNPknock: 0.8.2
 SNPmaxsel: 1.0-3
 SNPtools: '1.1'
 SNSchart: 1.4.0
+SNSeg: 1.0.0
 SNSequate: 1.3-4
 SNscan: '1.0'
 SOAR: 0.99-11
@@ -7046,7 +7047,7 @@ SpTe2M: 1.0.1
 SpaCCr: 0.1.0
 SpaDES: 2.0.9
 SpaDES.addins: 0.1.4
-SpaDES.core: 1.1.0
+SpaDES.core: 2.0.2
 SpaDES.tools: 2.0.0
 SpaTimeClus: 1.0.1
 SpaceTimeBSS: 0.2-0
@@ -8115,7 +8116,7 @@ admiralonco: 0.4.0
 admiralophtha: 0.2.0
 admiralvaccine: 0.1.0
 admisc: '0.33'
-admix: 2.1-0
+admix: 2.1-1
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
@@ -8877,6 +8878,7 @@ bbefkr: '4.2'
 bbemkr: '2.0'
 bbknnR: 1.0.2
 bbl: 1.0.0
+bbmix: 1.0.0
 bbmle: 1.0.25
 bbo: '0.2'
 bbotk: 0.7.2
@@ -10019,7 +10021,7 @@ cleaR: 0.0.4
 clean: 2.0.0
 cleanEHR: '1.0'
 cleanNLP: 3.0.4
-cleanTS: 0.1.1
+cleanTS: 0.1.2
 cleancall: 0.1.3
 cleandata: 0.3.0
 cleaner: 1.5.4
@@ -10297,7 +10299,7 @@ combinat: 0.0-8
 combinationpvalues: 0.1.4
 combinatorics: 0.1.0
 combinedevents: 0.1.1
-combiroc: 0.2.3
+combiroc: 0.3.4
 combiter: 1.0.3
 comclim: 0.9.5
 cometExactTest: 0.1.5
@@ -12616,7 +12618,7 @@ fast: '0.64'
 fastAFT: '1.4'
 fastAdaboost: 1.0.0
 fastCorrDiff: '0.5'
-fastDummies: 1.7.1
+fastDummies: 1.7.3
 fastGHQuad: 1.0.1
 fastGLCM: 1.0.2
 fastGraph: '2.1'
@@ -12756,6 +12758,7 @@ feedeR: 0.0.10
 feisr: 1.3.0
 fellov: '0.1'
 felp: 0.3.0
+feltr: 0.0.2
 femmeR: 0.5.1.1
 fence: '1.0'
 fergm: 1.1.4
@@ -13100,7 +13103,7 @@ fragility: '1.4'
 fragilityindex: 0.1.0
 frailtyEM: 1.0.1
 frailtyHL: '2.3'
-frailtyMMpen: 1.0.0
+frailtyMMpen: 1.1.1
 frailtySurv: 1.3.7
 frailtypack: 3.5.0
 frair: 0.5.100
@@ -13413,7 +13416,7 @@ gbutils: '0.5'
 gcExplorer: 0.9-4
 gcForest: 0.2.7
 gcKrig: 1.1.8
-gcTensor: 0.99.0
+gcTensor: 1.0.0
 gcbd: 0.2.6
 gcdnet: 1.0.6
 gcerisk: 19.05.24
@@ -13584,7 +13587,7 @@ geojsonR: 1.1.1
 geojsonio: 0.11.1
 geojsonlint: 0.4.0
 geojsonsf: 2.0.3
-geoknife: 1.6.10
+geoknife: 1.6.11
 geomander: 2.2.1
 geomapdata: 2.0-0
 geomaroc: 0.1.1
@@ -14046,7 +14049,7 @@ gmt: 2.0.3
 gmum.r: 0.2.1
 gmvalid: '1.23'
 gmvarkit: 2.0.8
-gmvjoint: 0.2.1
+gmvjoint: 0.3.0
 gmwm: 2.0.0
 gmwmx: 1.0.3
 gnFit: 0.2.0
@@ -15322,7 +15325,7 @@ irt: 0.2.7
 irtDemo: 0.1.4
 irtGUI: '0.2'
 irtProb: '1.2'
-irtQ: 0.1.1
+irtQ: 0.2.0
 irtawsi: 0.3.4
 irtoys: 0.2.2
 irtpwr: 1.0.0
@@ -16294,7 +16297,7 @@ lpda: 1.0.1
 lpdensity: '2.4'
 lphom: 0.3.1-1
 lpint: '2.1'
-lpirfs: 0.2.2
+lpirfs: 0.2.3
 lpjmlkit: 1.0.11
 lpl: '0.11'
 lplyr: 0.1.12
@@ -16418,7 +16421,7 @@ madgrad: 0.1.0
 maditr: 0.8.3
 madness: 0.2.7
 madr: 1.0.0
-madrat: 3.3.0
+madrat: 3.3.4
 mads: 0.1.6
 madshapR: 1.0.0
 madsim: 1.2.1
@@ -17209,7 +17212,7 @@ mlr3learners: 0.5.6
 mlr3mbo: 0.2.1
 mlr3measures: 0.5.0
 mlr3misc: 0.12.0
-mlr3oml: 0.7.2
+mlr3oml: 0.8.0
 mlr3pipelines: 0.5.0-1
 mlr3proba: 0.4.9
 mlr3shiny: 0.2.0
@@ -17477,7 +17480,7 @@ mrbayes: 0.5.1
 mrbin: 1.7.4
 mrbsizeR: 1.2.1.1
 mrdrc: 1.0-6
-mrds: 2.2.8
+mrds: 2.2.9
 mreg: 1.2.0
 mregions: 0.1.8
 mrf: 0.1.6
@@ -17598,6 +17601,7 @@ multiAssetOptions: 0.1-2
 multiCA: '1.1'
 multiColl: '2.0'
 multiDimBio: 1.2.2
+multiFANOVA: 0.1.0
 multiMarker: 1.0.1
 multiPIM: 1.4-3
 multiRDPG: 1.0.1
@@ -17757,7 +17761,7 @@ mvtmeta: '1.1'
 mvtnorm: 1.2-2
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-4
-mwTensor: 1.0.1
+mwTensor: 1.1.0
 mwa: 0.4.4
 mwaved: 1.1.8
 mwcsr: 0.1.7
@@ -18649,7 +18653,7 @@ otargen: 1.0.0
 otinference: 0.1.0
 otp: 0.1.0
 otpr: 0.5.1
-otrKM: 0.2.0
+otrKM: 0.2.1
 otrimle: '2.0'
 otsad: 0.2.0
 otsfeatures: 1.0.0
@@ -20186,7 +20190,7 @@ quantoptr: 0.1.3
 quantreg: '5.95'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
-quantregGrowth: 1.6-2
+quantregGrowth: 1.7-0
 quantregRanger: '1.0'
 quantspec: 1.2-3
 quarks: 1.1.3
@@ -21102,7 +21106,7 @@ rhandsontable: 0.3.8
 rhcoclust: 2.0.0
 rheroicons: 1.0.0
 rhierbaps: 1.1.4
-rhino: 1.3.1
+rhino: 1.4.0
 rhli: 0.0.2
 rhmc: 1.0.0
 rhmmer: 0.1.0
@@ -21137,7 +21141,7 @@ rifle: '1.0'
 rigr: 1.0.4
 riingo: 0.3.1
 rijkspalette: 1.0.2
-rim: 0.6.0
+rim: 0.6.2
 rimage: 0.5-8.2
 rimu: '0.6'
 rinat: 0.1.9
@@ -21281,7 +21285,7 @@ rmumps: 5.2.1-23
 rmutil: 1.1.10
 rmweather: 0.2.4
 rmytarget: 2.4.0
-rmzqc: 0.4.2
+rmzqc: 0.5.0
 rnaseqWrapper: 1.0-1
 rnassqs: 0.6.1
 rnaturalearth: 0.3.3
@@ -22107,7 +22111,7 @@ secrdesign: 2.8.2
 secret: 1.1.0
 secrettext: 0.1.0
 secrlinear: 1.2.1
-secsse: 2.5.0
+secsse: 2.6.0
 secuTrialR: 1.1.1
 secure: '0.6'
 securitytxt: 0.1.1
@@ -22173,7 +22177,7 @@ semdrw: 0.1.0
 semds: 0.9-6
 semfindr: 0.1.5
 semgram: 0.1.0
-semhelpinghands: 0.1.6
+semhelpinghands: 0.1.8
 semiArtificial: 2.4.1
 semicmprskcoxmsm: 0.2.0
 seminr: 2.3.2
@@ -22339,7 +22343,7 @@ sherlock: 0.7.0
 shidashi: 0.1.5
 shiftR: '1.5'
 shinipsum: 0.1.0
-shiny: 1.7.4
+shiny: 1.7.4.1
 shiny.benchmark: 0.1.1
 shiny.blueprint: 0.2.0
 shiny.exe: 0.2.0
@@ -22913,7 +22917,7 @@ spTest: 0.2.5
 spThin: 0.2.0
 spTimer: 3.3.2
 spa: '2.0'
-spaMM: 4.3.0
+spaMM: 4.3.20
 spaa: 0.2.2
 space: 0.1-1.1
 spaceExt: '1.0'
@@ -23185,7 +23189,7 @@ sprintfr: 0.1.0
 sprintr: 0.9.0
 sprm: 1.2.2
 sprsmdl: 0.1-0
-sprtt: 0.1.0
+sprtt: 0.2.0
 spruce: 0.99.1
 sps: 0.5.0
 spsComps: 0.3.2.1
@@ -23571,6 +23575,7 @@ summclust: 0.7.0
 sunburstR: 2.1.8
 suncalc: 0.5.1
 sundialr: 0.1.4.1
+suntools: 1.0.0
 supc: 0.2.6.2
 supclust: 1.1-1
 supcluster: 1.0.1
@@ -23725,7 +23730,7 @@ swdft: 1.0.0
 swdpwr: '1.7'
 sweSCB: 0.3.6
 sweater: 0.1.7
-sweep: 0.2.3
+sweep: 0.2.5
 sweidnumbr: 1.4.2
 swephR: 0.3.1
 swfscAirDAS: 0.2.3
@@ -24316,6 +24321,7 @@ toastui: 0.3.0
 tobit1: 0.1-3
 todor: 0.1.2
 togglr: 0.1.99
+tok: 0.1.0
 tokenbrowser: 0.1.5
 tokenizers: 0.3.0
 tokenizers.bpe: 0.1.1
@@ -25088,7 +25094,7 @@ vscc: '0.6'
 vsd: 0.1.0
 vsgoftest: 1.0-1
 vsp: 0.1.1
-vstdct: '0.1'
+vstdct: '0.2'
 vstsr: 1.1.0
 vtable: 1.4.4
 vtcl: 1.0-1
@@ -25447,7 +25453,7 @@ xlsxjars: 0.6.1
 xltabr: 0.1.2
 xlutils3: 0.1.0
 xmeta: 1.3.1
-xml2: 1.3.4
+xml2: 1.3.5
 xml2relational: 0.1.1
 xmlconvert: 0.1.2
 xmlparsedata: 1.0.5
