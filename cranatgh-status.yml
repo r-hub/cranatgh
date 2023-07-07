@@ -15,6 +15,7 @@ ACCLMA: '1.0'
 ACD: 1.5.3
 ACDC: 1.0.0
 ACDm: 1.0.4.2
+ACE.CoCo: '0.1'
 ACEP: 0.0.21
 ACEsearch: 1.0.0
 ACEsimFit: 0.0.0.9
@@ -2150,6 +2151,7 @@ ExtractTrainData: 9.1.6
 ExtremalDep: 0.0.4-0
 ExtremeBounds: 0.1.7
 ExtremeRisks: 0.0.4
+EzGP: 0.1.0
 FABInference: '0.1'
 FACT: 0.1.0
 FACTMLE: '1.1'
@@ -3194,7 +3196,7 @@ ISOweek: 0.6-2
 ISR: 2022.4.22
 ISR3: '0.98'
 ISRaD: 2.4.7
-ISS: 0.1.3
+ISS: 1.0.0
 ISwR: 2.0-8
 ITEMAN: '1.0'
 ITGM: '0.42'
@@ -4227,6 +4229,7 @@ MinkowskiSum: 1.0.0
 MisRepARMA: 0.0.2
 MiscPsycho: '1.6'
 Miso: 0.2.1
+MissCP: 0.1.0
 MissMech: 1.0.2
 MissingDataGUI: 0.2-5
 MissingHandle: 0.1.1
@@ -5200,7 +5203,7 @@ ProPublicaR: 1.1.2
 ProSGPV: 1.0.0
 ProTrackR: 0.3.7
 ProbBayes: '1.1'
-ProbBreed: 1.0.1
+ProbBreed: 1.0.2
 ProbForecastGOP: 1.3.2
 ProbMarg: 1.0.1
 ProbReco: 0.1.2
@@ -5699,16 +5702,16 @@ ROI.plugin.clarabel: '0.2'
 ROI.plugin.clp: '0.4'
 ROI.plugin.cplex: 0.3-0
 ROI.plugin.deoptim: 1.0-1
-ROI.plugin.ecos: 1.0-0
+ROI.plugin.ecos: 1.0-2
 ROI.plugin.glpk: 1.0-0
 ROI.plugin.highs: 1.0-3
 ROI.plugin.ipop: 1.0-0
 ROI.plugin.lpsolve: 1.0-1
 ROI.plugin.msbinlp: 1.0-0
 ROI.plugin.neos: 1.0-1
-ROI.plugin.nloptr: 1.0-0
-ROI.plugin.optimx: 1.0-0
-ROI.plugin.osqp: 1.0-0
+ROI.plugin.nloptr: 1.0-1
+ROI.plugin.optimx: 1.0-1
+ROI.plugin.osqp: 1.0-1
 ROI.plugin.qpoases: 1.0-2
 ROI.plugin.quadprog: 1.0-0
 ROI.plugin.scs: 1.1-1
@@ -6100,7 +6103,7 @@ RcppSpdlog: 0.0.13
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.2.2
-RcppThread: 2.1.3
+RcppThread: 2.1.4
 RcppUUID: 1.1.1
 RcppXPtrUtils: 0.1.2
 RcppXsimd: 7.1.6
@@ -7333,6 +7336,7 @@ TORDs: 1.0.0
 TOSI: 0.3.0
 TOSTER: 0.7.1
 TOU: 0.1.0
+TOmicsVis: 1.1.8
 TP.idm: '1.5'
 TPAM: '1.0'
 TPCselect: 0.8.3
@@ -8109,7 +8113,7 @@ adjustedcranlogs: 0.1.0
 adk: 1.0-2
 adklakedata: 0.6.1
 adlift: 1.4-5
-admiral: 0.11.0
+admiral: 0.11.1
 admiral.test: 0.6.0
 admiraldev: 0.4.0
 admiralonco: 0.4.0
@@ -8758,7 +8762,7 @@ barplot3d: 1.0.1
 barsurf: 0.7.0
 bartBMA: '1.0'
 bartCause: 1.0-6
-bartMachine: 1.3.4
+bartMachine: 1.3.4.1
 bartMachineJARs: 1.2.1
 bartcs: 1.2.0
 basad: 0.3.0
@@ -9717,6 +9721,7 @@ cba: 0.2-23
 cban: '1.0'
 cbanalysis: 0.2.0
 cbar: 0.1.3
+cbass: '0.1'
 cbcTools: 0.4.0
 cbinom: '1.6'
 cbioportalR: 1.0.1
@@ -9929,7 +9934,7 @@ cholera: 0.8.0
 choplump: 1.1.1
 chopthin: 0.2.2
 chords: 0.95.4
-choroplethr: 3.7.1
+choroplethr: 3.7.2
 choroplethrAdmin1: 1.1.1
 choroplethrMaps: 1.0.1
 chorrrds: 0.1.9.5
@@ -10026,7 +10031,7 @@ cleancall: 0.1.3
 cleandata: 0.3.0
 cleaner: 1.5.4
 cleanerR: 0.1.1
-cleangeo: 0.2-4
+cleangeo: '0.3'
 cleanr: 1.4.0
 cleanrmd: 0.1.1
 clere: 1.2.0
@@ -10195,6 +10200,7 @@ coconots: 1.1.1
 cocor: 1.1-4
 cocoreg: 0.1.1
 cocorresp: 0.4-3
+cocosoR: 0.1.0
 cocron: 1.0-1
 coda: 0.19-4
 coda.base: 0.5.4.3
@@ -12134,6 +12140,7 @@ energyr: 0.1.2
 enerscape: 1.0.0
 enetLTS: 1.1.0
 english: 1.2-6
+engression: 0.1.1
 engsoccerdata: 0.1.5
 enigma: 0.3.0
 enmSdmX: 1.0.6
@@ -13549,7 +13556,7 @@ gensvm: 0.1.7
 genvar: 0.0.2.0
 geo: 1.4-3
 geoAr: 0.0.1.4.2
-geoBayes: 0.7.1
+geoBayes: 0.7.2
 geoChina: 1.1.1
 geoCount: '1.150120'
 geoFKF: 0.1.1
@@ -13684,7 +13691,7 @@ ggBubbles: 0.1.4
 ggChernoff: 0.3.0
 ggCompNet: 0.1.0
 ggDCA: '1.1'
-ggDoE: 0.7.8
+ggDoE: 0.7.9
 ggDoubleHeat: 0.1.1
 ggESDA: 0.2.0
 ggExtra: 0.10.0
@@ -15518,6 +15525,7 @@ jpndistrict: 0.3.9
 jpstat: 0.3.3
 jqr: 1.2.3
 jquerylib: 0.1.4
+jrSiCKLSNMF: 1.2.1
 jrc: 0.5.1
 jrich: 0.60-35
 jrt: 1.1.2
@@ -15820,6 +15828,7 @@ languageserversetup: 0.1.2
 lans2r: 1.2.0
 lar: 0.1-2
 lares: 5.2.2
+lareshiny: 0.0.3
 largeList: 0.3.1
 largeVis: 0.2.1.1
 lars: '1.3'
@@ -16421,7 +16430,7 @@ madgrad: 0.1.0
 maditr: 0.8.3
 madness: 0.2.7
 madr: 1.0.0
-madrat: 3.3.4
+madrat: 3.3.5
 mads: 0.1.6
 madshapR: 1.0.0
 madsim: 1.2.1
@@ -16517,7 +16526,7 @@ mapsPERU: 1.0.2
 mapsRinteractive: 2.0.1
 mapsapi: 0.5.3
 mapscanner: 0.0.6
-mapsf: 0.6.1
+mapsf: 0.7.0
 maptiles: 0.5.0
 maptools: 1.1-7
 maptpx: 1.9-7
@@ -17434,7 +17443,7 @@ mountainplot: '1.4'
 mousetrack: 1.0.0
 mousetrap: 3.2.1
 movMF: 0.2-7
-move: 4.2.2
+move: 4.2.4
 move2: 0.2.0
 moveHMM: '1.9'
 moveVis: 0.10.5
@@ -17485,7 +17494,7 @@ mreg: 1.2.0
 mregions: 0.1.8
 mrf: 0.1.6
 mrf2d: '1.0'
-mrfDepth: 1.0.13
+mrfDepth: 1.0.14
 mrfse: 0.4.1
 mrgsim.parallel: 0.2.1
 mrgsim.sa: 0.1.0
@@ -17841,7 +17850,7 @@ nawtilus: 0.1.4
 nbTransmission: 1.1.2
 nbapalettes: 0.1.0
 nbc4va: '1.2'
-nbconv: 1.0.0
+nbconv: 1.0.1
 nbconvertR: 1.3.2
 nberwp: 1.2.0
 nbfar: '0.1'
@@ -19512,7 +19521,7 @@ polite: 0.1.3
 politeness: 0.9.0
 politicaldata: 0.1.3
 politicsR: 0.1.0
-polle: '1.2'
+polle: '1.3'
 pollen: 0.82.0
 pollimetry: 1.0.1
 pollstR: 2.0.1
@@ -20299,7 +20308,7 @@ rDataPipeline: 0.54.1
 rDecode: 0.1.0
 rDotNet: 0.9.1
 rDppDiversity: 0.0.2
-rEDM: 1.14.0
+rEDM: 1.14.3
 rEHR: '1.0'
 rEMM: 1.2.0
 rENA: 0.2.4
@@ -20752,7 +20761,7 @@ readtext: '0.90'
 readtextgrid: 0.1.1
 readthat: 0.0.1
 readwritesqlite: 0.2.0
-readxl: 1.4.2
+readxl: 1.4.3
 readxlsb: 0.1.61
 readysignal: 0.0.9
 realTimeSurv: '1.0'
@@ -20976,11 +20985,12 @@ resevol: 0.3.0.1
 reshape: 0.8.9
 reshape2: 1.4.4
 reshapeGUI: 0.1.0
+resilience: 2023.1.0
 reslr: 0.1.1
 resourcer: 1.4.0
 respR: 2.3.1
 resper: 0.3.2
-respirometry: 1.3.0
+respirometry: 1.4.0
 responsePatterns: 0.1.0
 restatapi: 0.20.6
 restatis: 0.1.0
@@ -21593,7 +21603,7 @@ rspear: 0.1-2
 rspiro: '0.2'
 rspm: 0.4.0
 rsppfp: 1.0.4
-rsprite2: 0.2.0
+rsprite2: 0.2.1
 rsprng: '1.0'
 rsq: '2.5'
 rsqliteadmin: 1.0.1
@@ -23710,7 +23720,7 @@ svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
 svplots: 0.1.0
-svrep: 0.5.1
+svrep: 0.6.0
 svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: 0.1-1
@@ -23990,7 +24000,7 @@ tester: 0.1.7
 testextra: 0.1.0.1
 testforDEP: 0.2.0
 testit: '0.13'
-testthat: 3.1.9
+testthat: 3.1.10
 testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
