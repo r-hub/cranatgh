@@ -91,6 +91,7 @@ AMCP: 1.0.1
 AMCTestmakeR: 1.0.0
 AMGET: '1.0'
 AMIAS: 1.1.0
+AMIM: 1.0.0
 AMModels: 0.1.4
 AMOEBA: '1.1'
 AMORE: 0.2-16
@@ -801,7 +802,7 @@ BrokenAdaptiveRidge: 1.0.0
 BrownDog: 0.2.1
 Brq: '3.0'
 Brundle: 1.0.9
-BsMD: 2020.4.30
+BsMD: '2023.707'
 Buddle: 2.0.1
 BuildSys: 1.1.2
 BullsEyeR: 0.2.0
@@ -1231,7 +1232,7 @@ CoSeg: '0.38'
 CoTiMA: 0.6.2
 CodataGS: '1.43'
 CodeDepends: 0.6.5
-CodelistGenerator: 1.5.0
+CodelistGenerator: 1.6.0
 CohensdpLibrary: 0.5.9
 CohortPlat: 1.0.5
 CoinMinD: '1.1'
@@ -3273,7 +3274,7 @@ Interatrix: 1.1.3
 InterfaceqPCR: '1.0'
 Interpol: 1.3.1
 Interpol.T: 2.1.1
-InterpretMSSpectrum: 1.3.3
+InterpretMSSpectrum: 1.3.8
 IntervalQuestionStat: 0.2.0
 IntervalSurgeon: '1.2'
 IntrinioStockAPI: 0.0.1
@@ -4437,6 +4438,7 @@ NLPclient: '1.0'
 NLPutils: 0.0-5.1
 NLRoot: '1.0'
 NLSdata: '0.9'
+NMA: 1.1-1
 NMADiagT: 0.1.2
 NMAoutlier: 0.1.18
 NMF: '0.26'
@@ -5675,7 +5677,7 @@ RNetCDF: 2.6-2
 RNetLogo: 1.0-4
 RNewsflow: 1.2.7
 RNifti: 1.5.0
-RNiftyReg: 2.7.1
+RNiftyReg: 2.8.0
 ROAuth: 0.9.6
 ROC632: '0.6'
 ROCFTP.MMS: 1.0.0
@@ -6103,7 +6105,7 @@ RcppSpdlog: 0.0.13
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.2.2
-RcppThread: 2.1.4
+RcppThread: 2.1.5
 RcppUUID: 1.1.1
 RcppXPtrUtils: 0.1.2
 RcppXsimd: 7.1.6
@@ -6942,7 +6944,7 @@ SimComp: '3.3'
 SimCop: 0.7.0
 SimCorMultRes: 1.8.0
 SimCorrMix: 0.1.1
-SimDesign: '2.11'
+SimDesign: '2.12'
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.3
 SimEngine: 1.2.0
@@ -11095,7 +11097,7 @@ dbnR: 0.7.8
 dbnlearn: 0.1.0
 dbparser: 2.0.1
 dbplot: 0.3.3
-dbplyr: 2.3.2
+dbplyr: 2.3.3
 dbscan: 1.1-11
 dbstats: 2.0.1
 dbx: 0.2.8
@@ -11749,6 +11751,7 @@ duawranglr: 0.6.7
 dub: 0.2.0
 duckdb: 0.8.1
 duckduckr: 1.0.0
+duckplyr: 0.1.0
 duke: 0.0.1
 dumbbell: '0.1'
 dummies: 1.5.6
@@ -14423,7 +14426,7 @@ hal9001: 0.4.3
 haldensify: 0.2.3
 halfcircle: 0.1.0
 halfmoon: 0.1.0
-halk: 0.0.1
+halk: 0.0.3
 halp: 0.1.3
 hamlet: 0.9.6
 handlr: 0.3.0
@@ -16271,6 +16274,7 @@ longit: 0.1.0
 longitudinal: 1.1.13
 longitudinalData: 2.4.5
 longitudinalcascade: 0.3.2.6
+longke: 0.1.0
 longmemo: 1.1-2
 longmixr: 1.0.0
 longpower: 1.0.24
@@ -17206,7 +17210,7 @@ mlmts: 1.1.1
 mlogit: 1.1-1
 mlogitBMA: 0.1-7
 mlpack: 4.2.0
-mlpwr: 1.0.0
+mlpwr: 1.0.1
 mlquantify: 0.2.0
 mlr: 2.19.1
 mlr3: 0.16.1
@@ -17239,7 +17243,7 @@ mlrintermbo: 0.5.0
 mlrpro: 0.1.2
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
-mlstrOpalr: 1.0.0
+mlstrOpalr: 1.0.1
 mlt: 1.4-8
 mlt.docreg: 1.1-6
 mltest: 1.0.1
@@ -17786,7 +17790,7 @@ myTAI: 0.9.3
 mycobacrvR: '1.1'
 mycor: 0.1.1
 myepisodes: 1.1.1
-mzipmed: 1.3.5
+mzipmed: 1.4.0
 mztwinreg: 1.0-1
 n1qn1: 6.0.1-11
 nCDunnett: 1.1.0
@@ -18740,7 +18744,7 @@ packageDiff: '0.1'
 packageRank: 0.8.1
 packagedocs: 0.4.0
 packagefinder: 0.3.4
-packager: 1.15.0
+packager: 1.15.1
 packagetrackr: 0.1.1
 packcircles: 0.3.5
 packdep: 0.3.1
@@ -20924,7 +20928,7 @@ remss: 1.0.1
 renderthis: 0.2.0
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 0.17.3
+renv: 1.0.0
 renz: 0.1.1
 repairData: 0.1.0
 repana: 1.23.2
@@ -21004,7 +21008,7 @@ restlos: 0.2-2
 restoptr: 1.0.5
 restorepoint: '0.2'
 restrictedMVN: '1.0'
-restriktor: 0.5-10
+restriktor: 0.5-20
 resumer: 0.0.5
 rethinker: 1.1.0
 rethnicity: 0.2.4
@@ -21625,7 +21629,7 @@ rstoat: 1.0.2
 rstpm2: 1.6.2
 rstream: 1.3.7
 rstudio.prefs: 0.1.9
-rstudioapi: '0.14'
+rstudioapi: 0.15.0
 rstyles: 0.4.0
 rsubgroup: '1.1'
 rsunlight: 0.7.0
@@ -25041,7 +25045,7 @@ visit: '2.1'
 visova: '1.1'
 visreg: 2.7.0
 vistime: 1.2.3
-vistla: 1.0.1
+vistla: 1.1.0
 vistributions: 0.1.2
 visualFields: 1.0.1
 visualR: 2.0.2
