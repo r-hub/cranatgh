@@ -100,6 +100,7 @@ update_all_packages <- function(max_failures = 10, update_cache_after = 100) {
     }, error = function(e) {
       failures <<- failures + 1L
       cli_alert_danger("Failed to update {.pkg {pkg}}")
+      cli_verbatim(conditionMessage(e))
       status$result[match(pkg, status$package)] <- "failure"
     })
   }
