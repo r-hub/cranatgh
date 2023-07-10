@@ -129,24 +129,6 @@ setup_repo_features <- function(pkgs = NULL) {
   stop("Not implemented yet")
 }
 
-crawl_status_data <- function() {
-
-  data <- list()
-  handler <- function(pkg_data) {
-    data <<- c(data, list(pkg_data))
-  }
-
-  walk_gh_versions(handler)
-
-  status <- structure(
-    lapply(status, function(x) tail(c(NA_character_, x$versions), 1)),
-    names = vapply(status, "[[", character(1), "name")
-  )
-
-  class(status) <- "cranatgh_status"
-  status
-}
-
 #' @importFrom yaml write_yaml
 
 write_status_data <- function(status, path) {
