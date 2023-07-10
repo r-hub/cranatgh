@@ -26,7 +26,7 @@ default_cranatgh_repo <- function() {
 default_status_url <- function() {
   Sys.getenv(
     "CRANATGH_STATUS_URL",
-    "https://r-hub.github.io/cranatgh/cranatgh-status.yml"
+    "https://raw.githubusercontent.com/r-hub/cranatgh/gh-pages/cranatgh-status.yml"
   )
 }
 
