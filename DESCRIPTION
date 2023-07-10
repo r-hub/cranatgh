@@ -14,6 +14,7 @@ Imports:
     gh,
     httr,
     jsonlite,
+    pkgcache,
     pkgsearch (>= 3.0.2),
     processx,
     stats,
