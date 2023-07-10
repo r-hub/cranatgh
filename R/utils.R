@@ -51,7 +51,10 @@ fix_maintainer <- function(maint, auth) {
   maint <- gsub("'", paste0("'", '"', "'", '"', "'"), maint)
 
   if (is.na(maint)) maint <- "??? <???@???>"
-  if (!grepl("<.*>", maint)) maint <- paste0(maint, " <???@???>")
-  if (toupper(maint) == "ORPHANED") maint <- "ORPHANED <cran@R-project.org>"
+  if (toupper(maint) == "ORPHANED") {
+    maint <- "ORPHANED <cran@R-project.org>"
+  } else if (!grepl("<.*>", maint)) {
+    maint <- paste0(maint, " <???@???>")
+  }
   maint
 }
