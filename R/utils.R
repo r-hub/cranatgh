@@ -1,7 +1,7 @@
 
 `%||%` <- function(l, r) if (is.null(l)) r else l
 
-cran_mirror <- "https://cloud.r-project.org"
+cran_mirror <- "https://cran.r-project.org"
 
 set_names <- function(x, nms) {
   stopifnot(
