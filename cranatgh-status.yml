@@ -631,7 +631,7 @@ BayesSingleSub: 0.6.2
 BayesSpec: 0.5.3
 BayesSummaryStatLM: '2.0'
 BayesSurvival: 0.2.0
-BayesTools: 0.2.15
+BayesTools: 0.2.16
 BayesTree: 0.3-1.4
 BayesTreePrior: 1.0.1
 BayesTwin: '1.0'
@@ -789,7 +789,7 @@ BoutrosLab.plotting.general: 7.0.8
 BradleyTerry: 0.8-8
 BradleyTerry2: 1.1-2
 BradleyTerryScalable: 0.1.0
-BrailleR: 0.32.1
+BrailleR: 1.0.2
 BrainCon: 0.3.0
 BranchGLM: 2.1.1
 Branching: 0.9.4
@@ -1467,11 +1467,11 @@ DCM: 0.1.1
 DCODE: '1.0'
 DCPO: 0.5.3
 DCSmooth: 1.1.2
-DCchoice: 0.1.1
+DCchoice: 0.2.0
 DChaos: 0.1-7
 DCluster: 0.2-8
 DClusterm: 1.0-1
-DDD: 5.2.1
+DDD: 5.2.2
 DDHFm: 1.1.3
 DDIwR: '0.14'
 DDL: 1.0.2
@@ -2208,7 +2208,7 @@ FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
 FIESTA: 3.5.4
-FIESTAutils: 1.1.7
+FIESTAutils: 1.1.8
 FILEST: 1.1.2
 FIT: 0.0.6
 FITSio: 2.1-6
@@ -3398,7 +3398,7 @@ KSD: 1.0.1
 KSEAapp: 0.99.0
 KSPM: 0.2.1
 KScorrect: 1.4.0
-KSgeneral: 1.1.1
+KSgeneral: 1.1.2
 KTensorGraphs: '1.1'
 KappaGUI: 2.0.2
 KappaV: '0.3'
@@ -4106,7 +4106,7 @@ MatrixEQTL: '2.3'
 MatrixExtra: 0.1.13
 MatrixLDA: '0.2'
 MatrixMixtures: 1.0.0
-MatrixModels: 0.5-1
+MatrixModels: 0.5-2
 MaxMC: 0.1.1
 MaxPro: 4.1-2
 MaxSkew: '1.1'
@@ -4572,7 +4572,7 @@ NostalgiR: 1.0.2
 NovelDistns: 0.1.0
 Nozzle.R1: 1.1-1.1
 Numero: 1.9.5
-NutrienTrackeR: 1.2.0
+NutrienTrackeR: 1.3.0
 OAIHarvester: 0.3-4
 OBASpatial: '1.9'
 OBIC: 2.0.1
@@ -4966,7 +4966,7 @@ PTAk: 2.0.0
 PTE: '1.7'
 PTERP: '1.0'
 PTSR: 0.1.2
-PTXQC: 1.0.16
+PTXQC: 1.0.17
 PTwins: 0.1.1
 PUMP: 1.0.2
 PUPAIM: 0.3.1
@@ -5125,6 +5125,7 @@ PoissonBinomial: 1.2.5
 PoissonMultinomial: '1.0'
 PoissonPCA: 1.0.3
 PoissonSeq: 1.1.2
+PolarCAP: 1.0.1
 PolicyPortfolios: '0.3'
 PoloniexR: 0.0.1
 PolyHaplotyper: 1.0.1
@@ -5376,7 +5377,7 @@ RADanalysis: 0.5.5
 RADstackshelpR: 0.1.0
 RAEN: '0.2'
 RAFM: '1.1'
-RAFS: 0.2.2
+RAFS: 0.2.3
 RAHRS: 1.0.2
 RAINBOWR: 0.1.29
 RALSA: 1.3.5
@@ -6037,7 +6038,7 @@ Rcplex: 0.3-6
 Rcpp: 1.0.11
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
-RcppAlgos: 2.7.2
+RcppAlgos: 2.8.0
 RcppAnnoy: 0.0.21
 RcppArmadillo: 0.12.4.1.0
 RcppArray: 0.2.0
@@ -6090,7 +6091,7 @@ RcppRoll: 0.3.0
 RcppSMC: 0.2.7
 RcppShark: 3.1.1
 RcppSimdJson: 0.1.10
-RcppSpdlog: 0.0.13
+RcppSpdlog: 0.0.14
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.2.2
@@ -7270,7 +7271,7 @@ TBSSurvival: '1.3'
 TCA: 1.2.1
 TCC: 1.1.3
 TCGA2STAT: '1.2'
-TCGAretriever: '1.5'
+TCGAretriever: '1.7'
 TCIApathfinder: 1.0.6
 TCIU: 1.2.2
 TDA: '1.9'
@@ -7316,6 +7317,7 @@ TLMoments: 0.7.5.3
 TLdating: 0.1.3
 TMB: 1.9.4
 TMDb: '1.1'
+TML: 0.1.0
 TMTI: 1.0.1
 TNC: 0.1.0
 TNRS: 0.3.4
@@ -7747,7 +7749,7 @@ VicmapR: 0.2.3
 Vicus: 0.99.0
 VideoComparison: '0.15'
 ViewPipeSteps: 0.1.0
-VineCopula: 2.4.5
+VineCopula: 2.5.0
 VirtualPop: 1.0.2
 VisCov: '1.3'
 VisitorCounts: 1.0.2
@@ -9591,7 +9593,7 @@ camsRad: 0.3.0
 camtrapR: 2.2.0
 canadacovid: 0.3.4
 canadamaps: '0.1'
-canadianmaps: 1.0.0
+canadianmaps: 1.3.0
 canaper: 1.0.1
 cancensus: 0.5.5
 cancerGI: 1.0.0
@@ -10342,7 +10344,7 @@ compoisson: '0.3'
 compositions: 2.0-6
 compositionsGUI: '1.0'
 composits: 0.1.1
-compound.Cox: '3.29'
+compound.Cox: '3.30'
 comprehenr: 0.6.10
 compstatr: 0.2.1
 compute.es: 0.2-5
@@ -10677,7 +10679,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.3.0
+crew: 0.4.0
 crew.cluster: 0.1.1
 crfsuite: 0.4.1
 cricketdata: 0.2.2
@@ -10792,7 +10794,7 @@ ctest: 0.9-21
 ctf: 0.1.0
 ctgdist: 0.1.0
 ctgt: '2.0'
-cthist: 2.0.0
+cthist: 2.1.0
 cthresh: '4.5'
 cthreshER: 1.1.0
 ctl: 1.0.0-8
@@ -11146,7 +11148,7 @@ decido: 0.3.0
 decision: 0.1.0
 decisionSupport: '1.111'
 deckgl: 0.3.0
-declared: '0.21'
+declared: '0.22'
 decode: '1.2'
 decoder: 1.2.2
 decomposedPSF: '0.2'
@@ -11255,7 +11257,7 @@ desiR: 1.2.2
 designGG: '1.1'
 designGLMM: 0.1.0
 designer: 0.2.0
-designmatch: 0.5.1
+designmatch: 0.5.3
 designr: 0.1.13
 designsize: 0.1.0
 desirability: '2.1'
@@ -12170,7 +12172,7 @@ epade: 0.5.1
 epandist: 1.1.1
 epanet2toolkit: 0.7.0
 epanetReader: 0.7.3
-epca: 1.0.1
+epca: 1.1.0
 epcc: 1.4.7
 epe4md: 0.1.4
 eph: 0.6.0
@@ -13593,7 +13595,7 @@ geomorph: 4.0.5
 geomtextpath: 0.1.1
 geomultistar: 1.1.0
 geonames: '0.999'
-geonapi: 0.6-1
+geonapi: '0.7'
 geonet: 0.7.3
 geonetwork: 0.5.0
 geoops: 0.3.0
@@ -14457,7 +14459,7 @@ hcci: 1.0.0
 hce: 0.5.0
 hchinamap: 0.1.0
 hcidata: 0.1.0
-hclust1d: 0.0.1
+hclust1d: 0.1.0
 hcp: '0.1'
 hctrial: 0.1.0
 hdImpute: 0.1.1
@@ -16885,7 +16887,7 @@ meteoEVT: 0.1.0
 meteoForecast: '0.56'
 meteogRam: '1.0'
 meteoland: 2.0.1
-meteor: 0.3-4
+meteor: 0.4-4
 meteorits: 0.1.1
 meteospain: 0.1.2
 metevalue: 0.2.4
@@ -17140,6 +17142,7 @@ mixtools: 2.0.0
 mixtox: 1.4.0
 mixtur: 1.2.1
 mixture: 2.0.5
+mixvlmc: 0.1.1
 mize: 0.2.4
 mizer: 2.4.1
 mkde: '0.2'
@@ -18703,7 +18706,7 @@ pMineR: '0.31'
 pRF: '1.2'
 pROC: 1.18.4
 pRSR: 3.1.1
-pRecipe: 2.5.0
+pRecipe: 3.0.0
 pRepDesigns: 1.1.0
 pSI: '1.1'
 pTITAN2: 1.0.2
@@ -19260,7 +19263,7 @@ piecemaker: 1.0.2
 piecepackr: 1.13.3
 piecewiseSEM: 2.3.0
 pifpaf: 1.0.1
-piggyback: 0.1.4
+piggyback: 0.1.5
 piglet: 1.0.0
 pillar: 1.9.0
 pim: 2.0.2
@@ -19653,7 +19656,7 @@ ppiPre: '1.9'
 ppitables: 0.5.4
 ppls: 1.6-1.1
 ppmHR: '1.0'
-ppmSuite: 0.3.2
+ppmSuite: 0.3.3
 ppmf: 0.1.3
 ppmlasso: '1.3'
 ppr: 1.1-2
@@ -19854,7 +19857,7 @@ protag: 1.0.0
 protein8k: 0.0.1
 proteomicdesign: '2.0'
 proteomics: '0.2'
-proteus: 1.1.0
+proteus: 1.1.1
 protiq: '1.2'
 proto: 1.0.0
 protoclass: '1.0'
@@ -20239,7 +20242,7 @@ r2pptx: 0.1.0
 r2r: 0.1.1
 r2redux: 1.0.13
 r2resize: '1.7'
-r2rtf: 1.0.4
+r2rtf: 1.1.0
 r2shortcode: '0.1'
 r2social: '1.0'
 r2spss: 0.3.2
@@ -21819,7 +21822,7 @@ safedata: 1.1.3
 safejoin: 0.1.0
 safer: 0.2.1
 safestats: 0.8.7
-safetensors: 0.1.0
+safetensors: 0.1.1
 safetyCharts: 0.3.0
 safetyData: 1.0.0
 safetyGraphics: 2.1.1
@@ -21883,7 +21886,7 @@ sarp.snowprofile.pyface: 0.1.3
 sars: 1.3.6
 sarsop: 0.6.14
 sas7bdat: '0.7'
-sasLM: 0.9.9
+sasLM: 0.9.10
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sasr: 0.1.2
@@ -22098,7 +22101,7 @@ seasonalityPlot: 0.99.3
 seasonalview: '0.3'
 seastests: 0.15.4
 seawaveQ: 2.0.2
-secr: 4.6.0
+secr: 4.6.1
 secrdesign: 2.8.2
 secret: 1.1.0
 secrettext: 0.1.0
@@ -22682,7 +22685,7 @@ sleekts: 1.0.2
 sleeperapi: 1.0.4
 sleepr: 0.3.0
 sleepwalk: 0.3.2
-sleev: 1.0.2
+sleev: 1.0.3
 slendr: 0.7.0
 slfm: 1.0.1
 slga: 1.2.0
@@ -23401,7 +23404,7 @@ steprf: 1.0.2
 steps: 1.3.0
 stepwise: '0.3'
 stevedata: 1.0.0
-stevedore: 0.9.5
+stevedore: 0.9.6
 stevemisc: 1.6.0
 stevetemplates: 0.9.0
 stevethemes: 0.1.0
@@ -23539,7 +23542,7 @@ subrank: 0.9.9.3
 subsamp: 0.1.0
 subscore: '3.3'
 subscreen: 3.0.7
-subselect: 0.15.4
+subselect: 0.15.5
 subsemble: 0.1.0
 subspace: 1.0.4
 subspaceMOA: 0.6.0
@@ -23728,7 +23731,7 @@ swfscDAS: 0.6.1
 swfscMisc: '1.6'
 swgee: '1.4'
 swimplot: 1.2.0
-swipeR: 0.1.0
+swipeR: 1.0.0
 swirl: 2.4.5
 swirlify: 0.5.3
 swissMrP: '0.62'
@@ -25033,7 +25036,7 @@ vitae: 0.5.3
 vitality: '1.3'
 vivainsights: 0.3.1
 vivaldi: 1.0.1
-vivid: 0.2.7
+vivid: 0.2.8
 vivo: 0.2.1
 vizdraws: '1.2'
 vkR: '0.2'
