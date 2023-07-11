@@ -89,7 +89,6 @@ update_all_packages <- function(max_failures = 10, update_cache_after = 100) {
     }
     if (batch == update_cache_after) {
       update_status_cache(status)
-      status$result[status$result == "success"] <- NA_character_
       batch <- 0L
     }
     tryCatch({
@@ -109,6 +108,8 @@ update_all_packages <- function(max_failures = 10, update_cache_after = 100) {
     update_status_cache(status)
     cli_alert_info("Done with {length(upd)} update{?s}")
   }
+
+  status <- status[!is.na(status$result), ]
   status
 }
 
