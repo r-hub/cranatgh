@@ -71,7 +71,7 @@ get_mirror_status <- function() {
 #' `"failure"` for unsuccessful updated, and `NA` otherwise.
 #'
 #' @export
-#' @importFrom cli cli_alert_success no
+#' @importFrom cli cli_alert_success no cli_verbatim cli_alert_danger
 
 update_all_packages <- function(max_failures = 10, update_cache_after = 100) {
   status <- get_mirror_status()
