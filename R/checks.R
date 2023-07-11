@@ -66,6 +66,7 @@ get_mirror_status <- function() {
 #' @param max_failures Maximum number of failures. Many failures will
 #' cause the updates to stop.
 #' @param update_cache_after Update cache after this many iterations.
+#' @param error_on_failure Whether to error if an update fails.
 #' @return Data frame, similar to the return value of [get_mirror_status()],
 #' with the extra `result` column, which is `"success"` for successful,
 #' `"failure"` for unsuccessful updated, and `NA` otherwise.
@@ -73,7 +74,8 @@ get_mirror_status <- function() {
 #' @export
 #' @importFrom cli cli_alert_success no cli_verbatim cli_alert_danger
 
-update_all_packages <- function(max_failures = 10, update_cache_after = 100) {
+update_all_packages <- function(max_failures = 10, update_cache_after = 100,
+                                error_on_failure = TRUE) {
   status <- get_mirror_status()
 
   upd <- status$package[status$status %in% c("missing", "outdated")]
@@ -110,6 +112,9 @@ update_all_packages <- function(max_failures = 10, update_cache_after = 100) {
   }
 
   status <- status[!is.na(status$result), ]
+  if (error_on_failure && any(status$result == "failure")) {
+    stop("Failed to update ", sum(status$result == "failue"), " packages")
+  }
   status
 }
 

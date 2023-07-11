@@ -4,13 +4,19 @@
 \alias{update_all_packages}
 \title{Update all missing and outdated packages}
 \usage{
-update_all_packages(max_failures = 10, update_cache_after = 100)
+update_all_packages(
+  max_failures = 10,
+  update_cache_after = 100,
+  error_on_failure = TRUE
+)
 }
 \arguments{
 \item{max_failures}{Maximum number of failures. Many failures will
 cause the updates to stop.}
 
 \item{update_cache_after}{Update cache after this many iterations.}
+
+\item{error_on_failure}{Whether to error if an update fails.}
 }
 \value{
 Data frame, similar to the return value of \code{\link[=get_mirror_status]{get_mirror_status()}},
