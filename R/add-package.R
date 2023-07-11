@@ -163,6 +163,10 @@ add_missing_version <- function(package, version, date) {
   maint <- metadata$get_maintainer()
   auth <- metadata$get("Author")
 
+  if (is.na(date)) {
+    date <- desc::desc_get("Date/Publication")
+  }
+
   ## Commit the new version
   git(
     env = c("GIT_COMMITTER_DATE" = date),
