@@ -1473,7 +1473,7 @@ DCluster: 0.2-8
 DClusterm: 1.0-1
 DDD: 5.2.2
 DDHFm: 1.1.3
-DDIwR: '0.14'
+DDIwR: '0.15'
 DDL: 1.0.2
 DDM: 1.0-0
 DDPGPSurv: '1.0'
@@ -1499,7 +1499,7 @@ DESnowball: '1.0'
 DET: 3.0.1
 DEVis: 1.0.1
 DEoptim: 2.2-8
-DEoptimR: 1.0-14
+DEoptimR: 1.1-0
 DEploid: 0.5.3
 DFA: 0.9.0
 DFA.CANCOR: 0.2.8
@@ -2432,7 +2432,7 @@ FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
 FuzzyResampling: 0.6.0
 FuzzySTs: '0.2'
-FuzzySimRes: 0.2.0
+FuzzySimRes: 0.2.1
 FuzzyStatProb: 2.0.4
 FuzzyStatTra: '1.0'
 FuzzyStatTraEOO: '1.0'
@@ -2802,7 +2802,7 @@ GraphPCA: '1.1'
 GrapheR: 1.9-86-3
 GrassmannOptim: 2.0.1
 GreedyEPL: '1.2'
-GreedyExperimentalDesign: 1.5.5
+GreedyExperimentalDesign: 1.5.6.1
 GreedyExperimentalDesignJARs: '1.0'
 GreedySBTM: '1.0'
 Greg: 2.0.1
@@ -3284,7 +3284,7 @@ IrregLong: 0.3.4
 Iscores: 1.1.0
 IsingFit: 0.3.1
 IsingSampler: 0.2.1
-Isinglandr: 0.1.0
+Isinglandr: 0.1.1
 Iso: 0.0-18.1
 IsoCI: '1.1'
 IsoCheck: 0.1.0
@@ -4118,7 +4118,7 @@ MazamaLocationUtils: 0.3.8
 MazamaRollUtils: 0.1.3
 MazamaSpatialPlots: 0.2.0
 MazamaSpatialUtils: 0.8.5
-MazamaTimeSeries: 0.2.12
+MazamaTimeSeries: 0.2.13
 MazamaWebUtils: 0.1.7
 McParre: 1.0.1
 McSpatial: '2.0'
@@ -5246,7 +5246,7 @@ Q7: 0.1.0
 QAIG: 0.1.7
 QBAsyDist: 0.1.2
 QBMS: 0.9.1
-QCA: '3.19'
+QCA: '3.20'
 QCA3: 0.0-8
 QCAGUI: '2.5'
 QCAcluster: 0.1.0
@@ -5707,7 +5707,7 @@ ROI.plugin.nloptr: 1.0-1
 ROI.plugin.optimx: 1.0-1
 ROI.plugin.osqp: 1.0-1
 ROI.plugin.qpoases: 1.0-3
-ROI.plugin.quadprog: 1.0-0
+ROI.plugin.quadprog: 1.0-1
 ROI.plugin.scs: 1.1-2
 ROI.plugin.symphony: 1.0-0
 ROMDB: 0.1.0
@@ -5951,7 +5951,7 @@ RbioRXN: 1.5.1
 Rbitcoin: 0.9.2
 RblDataLicense: 0.2.5
 Rblpapi: 0.3.14
-Rborist: 0.3-2
+Rborist: 0.3-5
 Rcan: 1.3.82
 Rcapture: 1.4-4
 Rcatch22: 0.2.1
@@ -8113,7 +8113,7 @@ admiralonco: 0.4.0
 admiralophtha: 0.2.0
 admiralvaccine: 0.1.0
 admisc: '0.33'
-admix: 2.1-1
+admix: 2.1-2
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
@@ -8194,10 +8194,10 @@ aimPlot: 1.0.0
 aimsir17: 0.0.2
 aion: 1.0.0
 airGR: 1.7.4
-airGRdatasets: 0.1.4
+airGRdatasets: 0.2.1
 airGRdatassim: 0.1.3
 airGRiwrm: 0.6.1
-airGRteaching: 0.3.1
+airGRteaching: 0.3.2
 aire.zmvm: 0.8.2
 airnow: 0.1.0
 airportr: 0.1.3
@@ -9712,7 +9712,7 @@ cban: '1.0'
 cbanalysis: 0.2.0
 cbar: 0.1.3
 cbass: '0.1'
-cbcTools: 0.4.0
+cbcTools: 0.5.0
 cbinom: '1.6'
 cbioportalR: 1.0.1
 cbird: '1.0'
@@ -10089,7 +10089,7 @@ clptheory: 0.1.0
 clr: 0.1.2
 clrdag: 0.6.0
 clttools: '1.3'
-clubSandwich: 0.5.8
+clubSandwich: 0.5.9
 clue: 0.3-64
 clues: 0.6.2.2
 clugenr: 0.4.0
@@ -10596,7 +10596,7 @@ covid19sf: 0.1.2
 covid19srilanka: 1.1.0
 covid19swiss: 0.1.0
 covid19us: 0.1.9
-covidcast: 0.5.1
+covidcast: 0.5.2
 covidmx: 0.7.7
 covidnor: 2023.05.18
 covidprobability: 0.1.0
@@ -11551,12 +11551,12 @@ dmutate: 0.1.3
 dna: 2.1-2
 dnapath: 0.7.4
 dnc: '1.2'
-dndR: 1.1.0
+dndR: 1.3.0
 dnet: 1.1.7
 dng: 0.2.1
 dnr: 0.3.5
 do: 2.0.0.0
-doBy: 4.6.16
+doBy: 4.6.17
 doFuture: 1.0.0
 doMC: 1.3.8
 doMIsaul: 1.0.1
@@ -16456,7 +16456,7 @@ makeit: 1.0.0
 makemyprior: 1.1.0
 makepipe: 0.2.1
 makesweave: 0.3.0
-maketools: 1.2.4
+maketools: 1.2.5
 makeunique: 1.0.0
 malan: 1.0.2
 malani: '1.0'
@@ -16485,7 +16485,7 @@ mapDK: 0.3.0
 mapLD: 1.0-1
 mapReasy: '1.0'
 mapReduce: 1.2.6
-mapSpain: 0.7.0
+mapSpain: 0.8.0
 mapStats: '2.4'
 mapaccuracy: 0.1.1
 mapbayr: 0.9.0
@@ -17810,7 +17810,7 @@ nandb: 2.1.0
 naniar: 1.0.0
 nanny: 0.1.8
 nanoarrow: 0.2.0.1
-nanonext: 0.9.0
+nanonext: 0.9.1
 nanop: 2.0-6
 nanostringr: 0.4.0
 nanotime: 0.3.7
@@ -18792,7 +18792,7 @@ pals: '1.7'
 paltran: 1.3-0
 pamctdp: 0.3.2
 pamm: '1.121'
-pammtools: 0.5.91
+pammtools: 0.5.92
 pampe: 1.1.2
 pamr: 1.56.1
 pan: '1.8'
@@ -20428,7 +20428,7 @@ radjust: 0.1.0
 radlibs: 0.2.0
 radmixture: 0.0.1
 radous: 0.1.3
-radsafer: 2.2.8
+radsafer: 2.3.0
 radtools: 1.0.6
 rafalib: 1.0.0
 ragg: 1.2.5
@@ -21981,7 +21981,7 @@ scatterpie: 0.2.1
 scatterplot3d: 0.3-44
 scbursts: '1.6'
 scclust: 0.2.3
-sccore: 1.0.3
+sccore: 1.0.4
 sccr: '2.1'
 scdensity: 1.0.2
 scdhlm: 0.7.2
@@ -23192,7 +23192,7 @@ sprsmdl: 0.1-0
 sprtt: 0.2.0
 spruce: 0.99.1
 sps: 0.5.0
-spsComps: 0.3.2.1
+spsComps: 0.3.3.0
 spsUtil: 0.2.2
 spsann: 2.2.0
 spsarlm: 0.1-3
@@ -23322,7 +23322,7 @@ starma: '1.3'
 starmie: 0.1.2
 starnet: 0.0.6
 starry: 0.1.2
-stars: 0.6-1
+stars: 0.6-2
 starsExtra: 0.2.7
 starsTileServer: 0.1.1
 starschemar: 1.2.0
@@ -23509,7 +23509,7 @@ stringgaussnet: '1.1'
 stringi: 1.7.12
 stringkernels: 0.8.9
 stringr: 1.5.0
-stringstatic: 0.1.1
+stringstatic: 0.1.2
 stringx: 0.2.5
 strip: 1.0.0
 stripless: 1.0-3
@@ -24238,7 +24238,7 @@ timetools: 1.15.2
 timetree: '1.0'
 timevis: 2.1.0
 timma: 1.2.1
-timsac: 1.3.8
+timsac: 1.3.8-2
 timsr: 0.0.3
 tinkr: 0.2.0
 tinsel: 0.0.1
