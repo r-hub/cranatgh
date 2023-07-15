@@ -1,4 +1,4 @@
-
+1
 archive_cache <- local({
   cac <- NULL
   function() {
@@ -56,7 +56,7 @@ get_all_cran_packages <- function() {
   current <- metadata_cache()$list()
 
   pkgs <- data.frame(
-    stringsAsFactore = FALSE,
+    stringsAsFactors = FALSE,
     package = c(archive$package, current$package),
     version = c(archive$version, current$version)
   )
