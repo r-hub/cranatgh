@@ -395,7 +395,7 @@ BCRA: 2.1.2
 BCSub: '0.5'
 BCT: '1.2'
 BCellMA: 0.3.4
-BCgee: '0.1'
+BCgee: 0.1.1
 BClustLonG: 0.1.3
 BDEsize: '1.6'
 BDP2: 0.1.3
@@ -3290,7 +3290,7 @@ IntrinioStockAPI: 0.0.1
 InvStablePrior: 0.1.0
 InvariantCausalPrediction: '0.8'
 InvasionCorrection: '0.1'
-Inventorymodel: 1.1.0
+Inventorymodel: 1.1.0.1
 InventorymodelPackage: 1.0.2
 Irescale: 2.3.0
 IrishDirectorates: '1.4'
@@ -7152,6 +7152,7 @@ Sstack: 1.0.1
 StAMPP: 1.6.3
 StMoMo: 0.4.1
 StMoSim: 3.1.1
+StReg: '1.1'
 StVAR: '1.1'
 StabilizedRegression: '1.1'
 StableEstim: '2.2'
@@ -7364,7 +7365,7 @@ TOSI: 0.3.0
 TOSTER: 0.7.1
 TOU: 0.1.0
 TOmicsVis: 1.2.3
-TP.idm: '1.5'
+TP.idm: 1.5.1
 TPAM: '1.0'
 TPCselect: 0.8.3
 TPD: 1.1.0
@@ -13116,6 +13117,7 @@ formatR: '1.14'
 formatdown: 0.1.2
 formattable: 0.2.1
 formatters: 0.5.0
+formods: 0.1.1
 formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
@@ -13967,6 +13969,7 @@ ghql: 0.1.0
 ghyp: 1.6.3
 ghypernet: 1.1.0
 giRaph: 0.1.2
+giacR: 1.0.0
 gibasa: 0.9.5
 gibble: 0.4.0
 gibbs.met: 1.1-3
@@ -14266,6 +14269,7 @@ graphscan: 1.1.1
 graphseg: 0.1.0
 graphsim: 1.0.3
 graphx: '1.0'
+graposas: 1.0.0
 grasp: 2.5-7
 grasper: 0.4-4
 grateful: 0.2.0
@@ -14611,6 +14615,7 @@ hero: '0.6'
 hesim: 0.5.3
 het.test: '0.1'
 hetGP: 1.1.5
+heterogen: 1.2.33
 heteromixgm: 1.0.0
 hetmeta: 0.1.0
 hetsurr: '1.0'
@@ -15426,7 +15431,7 @@ isoboost: 1.0.1
 isobxr: 1.0.1
 isocalcR: 0.1.1
 isocat: 0.2.6
-isocir: 2.0-7
+isocir: 2.0-7.1
 isodistrreg: 0.1.0
 isogeochem: 1.1.1
 isokernel: 0.1.0
@@ -18735,6 +18740,7 @@ oshka: 0.1.2
 osi: 0.1.0
 oskeyring: 0.1.6
 osmar: 1.1-7
+osmclass: 0.1.3
 osmdata: 0.2.5
 osmextract: 0.5.0
 osmgeosample: '0.1'
@@ -19939,7 +19945,7 @@ progenyClust: '1.2'
 prognosticROC: '0.7'
 progress: 1.2.2
 progressr: 0.14.0
-proj4: 1.0-12
+proj4: 1.0-13
 projections: 0.6.0
 projector: 0.0.2
 projects: 2.1.3
@@ -20497,6 +20503,7 @@ rTG: 1.0.1
 rTLS: 0.2.5.6
 rTLsDeep: 0.0.5
 rTOFsPRO: 1.4.1
+rTPC: 1.0.4
 rTRIPLEXCWFlux: 0.2.0
 rTRNG: 4.23.1-2
 rTableICC: 1.0.7
@@ -22466,6 +22473,7 @@ shinipsum: 0.1.0
 shiny: 1.7.5
 shiny.benchmark: 0.1.1
 shiny.blueprint: 0.2.0
+shiny.emptystate: 0.1.0
 shiny.exe: 0.2.0
 shiny.fluent: 0.3.0
 shiny.i18n: 0.3.0
@@ -22838,6 +22846,7 @@ sma: 0.5.15
 smaa: 0.3-2
 smac: '1.0'
 smacof: 2.1-5
+smacofx: 0.6-6
 smacpod: '2.5'
 smallarea: '0.1'
 smallsets: 1.0.0
@@ -23173,6 +23182,7 @@ spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
 spdep: 1.2-8
+spdesign: 0.0.1
 spdl: 0.0.5
 spdownscale: 0.1.0
 spdplyr: 0.4.0
@@ -24973,7 +24983,7 @@ utilityFunctionTools: 0.1.1
 utilsIPEA: 0.0.6
 utiml: 0.1.7
 utr.annotation: 1.0.4
-uuid: 1.1-0
+uuid: 1.1-1
 uwIntroStats: 0.0.7
 uwedragon: 0.1.0
 uwo4419: 0.3.0
