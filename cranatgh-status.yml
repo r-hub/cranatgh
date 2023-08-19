@@ -753,7 +753,7 @@ BlakerCI: 1.0-6
 BlandAltmanLeh: 0.3.1
 BlanketStatsments: 0.1.2
 Blaunet: 2.2.1
-Blendstat: 1.0.3
+Blendstat: 1.0.4
 BlockCov: 0.1.1
 BlockFeST: '2.0'
 BlockMessage: '1.0'
@@ -3839,7 +3839,7 @@ MEclustnet: 1.2.2
 MEtest: '1.1'
 MExPosition: 2.0.3
 MF: 4.3.2
-MFAg: '1.8'
+MFAg: '1.9'
 MFDA: 1.1-4
 MFDF: 0.0-2
 MFDFA: '1.1'
@@ -3976,7 +3976,7 @@ MOrder: '0.1'
 MPAgenomics: 1.2.3
 MPBoost: 0.1-5
 MPCI: 1.0.7
-MPDiR: 0.1-20
+MPDiR: '0.2'
 MPGE: 1.0.0
 MPI: 0.1.0
 MPINet: '1.0'
@@ -4070,8 +4070,8 @@ MVQuickGraphs: 0.1.2
 MVR: 1.33.0
 MVT: 0.3-8
 MVTests: 2.1.1
-MVar: 2.2.0
-MVar.pt: 2.2.0
+MVar: 2.2.1
+MVar.pt: 2.2.1
 MVisAGe: 0.2.1
 MVpower: '2.0'
 MWLasso: 1.3.1
@@ -4547,7 +4547,7 @@ NetLogoR: 0.3.11
 NetMix: 0.2.0.1
 NetOrigin: 1.1-5
 NetPreProc: '1.2'
-NetRep: 1.2.6
+NetRep: 1.2.7
 NetSci: 1.0.0
 NetSim: '0.9'
 NetSimR: 0.1.2
@@ -5827,7 +5827,7 @@ RSNNS: 0.4-16
 RSNPset: 0.5.3
 RSP: '0.1'
 RSPS: '1.0'
-RSQL: 0.2.1
+RSQL: 0.2.2
 RSQLServer: 0.3.0
 RSQLite: 2.3.1
 RSQLite.extfuns: 0.0.1
@@ -10188,7 +10188,7 @@ clustermole: 1.1.0
 clustermq: 0.8.95.5
 clusternomics: 0.1.1
 clusternor: 0.0-4
-clustertend: '1.6'
+clustertend: '1.7'
 clusteval: '0.1'
 clusthaplo: '1.2'
 clustra: 0.1.6
@@ -11744,7 +11744,7 @@ driftR: 1.1.0
 drifter: 0.2.1
 driftsel: 2.1.1
 drimmR: 1.0.1
-driveR: 0.4.0
+driveR: 0.4.1
 drm: 0.5-8
 drmdel: 1.3.2
 droll: 0.1.0
@@ -17988,7 +17988,7 @@ ncomplete: 1.0-1
 ncpen: 1.0.0
 ncvar: 1.0-4
 ncvreg: 3.14.1
-nda: 0.1.11
+nda: 0.1.12
 ndi: 0.1.4
 ndjson: 0.9.0
 ndl: 0.2.18
@@ -20081,7 +20081,7 @@ psymetadata: 1.0.1
 psymonitor: 0.0.2
 psyntur: 0.1.0
 psyosphere: 0.1.6
-psyphy: 0.2-3
+psyphy: '0.3'
 psytabs: '1.0'
 psyverse: 0.2.6
 pt: '1.0'
@@ -20321,7 +20321,7 @@ quantities: 0.2.1
 quantkriging: 0.1.0
 quantmod: 0.4.24
 quantoptr: 0.1.3
-quantreg: '5.96'
+quantreg: '5.97'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
 quantregGrowth: 1.7-0
@@ -20865,7 +20865,7 @@ readHAC: '1.0'
 readJDX: 0.6.1
 readMETEO: '1.2'
 readMLData: 0.9-7
-readMzXmlData: 2.8.2
+readMzXmlData: 2.8.3
 readNSx: 0.0.2
 readODS: 2.0.0
 readOffice: 0.2.2
@@ -22664,7 +22664,7 @@ silicate: 0.7.1
 sim1000G: '1.40'
 sim2Dpredictr: 0.1.1
 simDNAmixtures: 1.0.1
-simET: 1.0.2
+simET: 1.0.3
 simEd: 2.0.0
 simExam: 1.0.0
 simFrame: 0.5.4
@@ -23499,7 +23499,7 @@ statBasics: 0.2.0
 statGraph: 0.5.0
 statTarget: 1.2.2
 statVisual: 1.2.1
-statar: 0.7.5
+statar: 0.7.6
 stataread: '2.6'
 statarepl: 0.1.0
 statcanR: 0.2.6
@@ -25134,7 +25134,7 @@ vennLasso: 0.1.6
 venneuler: 1.1-3
 vennplot: '1.0'
 verbaliseR: '0.1'
-verbalisr: 0.5.0
+verbalisr: 0.5.1
 verhoeff: 0.4.0
 verification: '1.42'
 verify: 0.8-4.1
