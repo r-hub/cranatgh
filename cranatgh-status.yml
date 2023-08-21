@@ -444,7 +444,7 @@ BINCO: 0.1-1
 BINCOR: 0.2.0
 BINtools: 0.2.0
 BIOM.utils: '0.9'
-BIOMASS: 2.1.8
+BIOMASS: 2.1.9
 BIOdry: '0.9'
 BIPOD: 0.2.1
 BIRDS: 0.2.0
@@ -1802,7 +1802,7 @@ DnE: 2.1.0
 DoE.MIParray: 1.0-1
 DoE.base: 1.2-2
 DoE.multi.response: 0.1.0
-DoE.wrapper: '0.11'
+DoE.wrapper: '0.12'
 DoEstRare: '0.2'
 DoTC: '0.2'
 DockerParallel: 1.0.4
@@ -2596,7 +2596,7 @@ GOplot: 1.0.2
 GOsummaries: '1.1'
 GOxploreR: 1.2.6
 GPArotateDF: 2022.12-1
-GPArotation: 2023.3-1
+GPArotation: 2023.8-1
 GPB: '1.2'
 GPBayes: 0.1.0-5.1
 GPC: '0.1'
@@ -5481,7 +5481,7 @@ RCassandra: 0.1-3
 RChest: 1.0.3
 RChronoModel: '0.4'
 RCircos: 1.2.2
-RClickhouse: 0.6.7
+RClickhouse: 0.6.8
 RClimMAWGEN: '1.1'
 RClimacell: 0.1.4
 RClone: 1.0.3
@@ -12121,7 +12121,7 @@ el.convex: '1.0'
 elaborator: '1.1'
 elasdics: 1.1.1
 elasso: '1.1'
-elastes: 0.1.6
+elastes: 0.1.7
 elastic: 1.2.0
 elasticIsing: '0.2'
 elasticnet: '1.3'
@@ -12419,7 +12419,7 @@ euroMix: 1.1.1
 eurocordexr: 0.2.3
 eurodata: 1.7.0
 europeanaR: 0.1.0
-europepmc: 0.4.1
+europepmc: 0.4.2
 europop: 0.3.1
 eurostat: 3.8.2
 ev.trawl: 0.1.0
@@ -13673,7 +13673,7 @@ geohash: 0.3.0
 geohashTools: 0.3.2
 geojson: 0.3.5
 geojsonR: 1.1.1
-geojsonio: 0.11.1
+geojsonio: 0.11.2
 geojsonlint: 0.4.0
 geojsonsf: 2.0.3
 geoknife: 1.6.11
@@ -13776,7 +13776,7 @@ ggDCA: '1.1'
 ggDoE: 0.7.9
 ggDoubleHeat: 0.1.1
 ggESDA: 0.2.0
-ggExtra: 0.10.0
+ggExtra: 0.10.1
 ggFacetSample: 1.0.0
 ggFishPlots: 0.2.2
 ggHoriPlot: 1.0.1
@@ -15200,7 +15200,7 @@ incidence2: 2.2.1
 incidental: '0.1'
 incidentally: 1.0.2
 inctools: 1.0.15
-incubate: 1.2.0
+incubate: 1.2.1
 indelmiss: 1.0.9
 independence: 1.0.1
 independenceWeights: 0.0.1
@@ -16593,7 +16593,7 @@ manipulate: 1.0.1
 manipulateWidget: 0.11.1
 manydata: 0.8.3
 manymodelr: 0.3.7
-manymome: 0.1.10
+manymome: 0.1.12
 manynet: 0.2.1
 maotai: 0.2.5
 mapDK: 0.3.0
@@ -17130,7 +17130,7 @@ migration.indices: 0.3.1
 migrbc: 2.0.9
 migui: '1.3'
 miic: 1.5.3
-mikropml: 1.6.0
+mikropml: 1.6.1
 mildsvm: 0.4.0
 milonga: '1.0'
 milorGWAS: '0.3'
@@ -21597,6 +21597,7 @@ roxyPackage: 0.03-6
 roxygen: 0.1-3
 roxygen2: 7.2.3
 roxygen2md: 1.0.0
+roxyglobals: 1.0.0
 roxytest: 0.0.2
 royston: '1.2'
 rpact: 3.4.0
@@ -21660,7 +21661,7 @@ rqdatatable: 1.3.3
 rqmcmb2: 1.0.2-1
 rquery: 1.4.99
 rr: 1.4.1
-rr2: 1.1.0
+rr2: 1.1.1
 rrBLUP: 4.6.2
 rrBlupMethod6: '1.3'
 rrMixture: 0.1-2
@@ -22008,7 +22009,7 @@ sampler: 0.2.4
 samplesize: 0.2-4
 samplesize4surveys: 4.1.1
 samplesizeCMH: 0.0.0
-samplesizelogisticcasecontrol: 2.0.0
+samplesizelogisticcasecontrol: 2.0.2
 sampling: '2.9'
 samplingDataCRT: '1.0'
 samplingEstimates: 0.1-3
@@ -22147,9 +22148,9 @@ schemr: 0.2.0
 schoRsch: '1.10'
 schoenberg: 2.0.2
 scholar: 0.2.4
-schoolmath: 0.4.1
+schoolmath: 0.4.2
 schrute: 1.0.1
-schtools: 0.4.0
+schtools: 0.4.1
 schumaker: 1.2.1
 schwartz97: 0.0.6
 sciRmdTheme: '0.1'
@@ -23550,7 +23551,7 @@ statsguRu: 0.1.1
 statsr: 0.3.0
 statswalesr: 0.2.0
 stcm: 0.1.1
-stcos: 0.3.0
+stcos: 0.3.1
 stcov: 0.1.0
 stdReg: 3.4.1
 stddiff: '3.1'
@@ -24431,7 +24432,7 @@ tinytex: '0.46'
 tinytiger: 0.0.4
 tiobeindexr: 0.1.1
 tip: 0.1.0
-tipa: 1.0.5
+tipa: 1.0.8
 tipitaka: 0.1.2
 tipmap: 0.5.2
 tipom: 1.0.2-1
@@ -25546,7 +25547,7 @@ worrrd: 0.1.0
 wosr: 0.3.0
 wowa: 1.0.2
 woylier: 0.0.5
-wpa: 1.8.1
+wpa: 1.9.0
 wpp2008: 1.0-1
 wpp2010: 1.2-0
 wpp2012: 2.2-1
