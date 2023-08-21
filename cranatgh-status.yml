@@ -131,7 +131,7 @@ AR1seg: '1.0'
 ARAMIS: 1.0.1
 ARCensReg: '2.1'
 ARCokrig: 0.1.2
-ARDL: 0.2.3
+ARDL: 0.2.4
 ARHT: 0.1.0
 ARIMAANN: 0.1.0
 ARIbrain: '0.2'
@@ -1173,7 +1173,7 @@ CityWaterBalance: 0.1.0
 Ckmeans.1d.dp: 4.3.5
 Claddis: 0.6.3
 ClaimsProblems: 0.2.1
-ClamR: 2.1-1
+ClamR: 2.1-3
 ClassComparison: 3.1.8
 ClassDiscovery: 3.4.0
 CleanBSequences: 1.4.0
@@ -1324,7 +1324,7 @@ CoordinateCleaner: 2.0-20
 CopCTS: 1.0.0
 CopSens: 0.1.0
 CopernicusDEM: 1.0.2
-CopernicusMarine: 0.0.6
+CopernicusMarine: 0.0.9
 Copula.Markov: '2.9'
 Copula.Markov.survival: 1.0.0
 Copula.surv: '1.2'
@@ -2154,7 +2154,7 @@ ExplainPrediction: 1.3.0
 ExplodeLayout: 0.1.2
 ExposR: '1.1'
 ExprNet: 1.0.0
-ExtDist: 0.7-1
+ExtDist: 0.7-2
 ExtMallows: 0.1.0
 ExtractTrainData: 9.1.6
 ExtremalDep: 0.0.4-0
@@ -3889,7 +3889,7 @@ MIXFIM: '1.1'
 MIfuns: '5.1'
 MImix: '1.0'
 MInt: 1.0.1
-MKLE: 1.0.0
+MKLE: 1.0.1
 MKMeans: '2.1'
 MKclass: '0.3'
 MKdescr: '0.8'
@@ -4641,7 +4641,7 @@ OOmisc: '1.2'
 OPC: 0.0.2
 OPDOE: 1.0-10
 OPE: '0.7'
-OPI: 2.10.1
+OPI: 2.11.0
 OPTS: '0.1'
 OPTtesting: 1.0.0
 ORCI: '1.1'
@@ -4842,7 +4842,7 @@ PDtoolkit: 1.1.1
 PEACH: 0.1.1
 PEGroupTesting: '1.0'
 PEIMAN2: 0.1.0
-PEIP: 2.2-3
+PEIP: 2.2-5
 PELVIS: 2.0.4
 PEMM: '1.0'
 PERK: 0.0.9.2
@@ -5241,7 +5241,7 @@ ProbeR: 2.0.1
 ProbitSpatial: '1.1'
 ProcData: 0.3.2
 ProcMod: 1.0.8
-ProfessR: 2.4-1
+ProfessR: 2.4-3
 ProfileLikelihood: '1.2'
 ProfoundData: 0.2.1
 ProgGUIinR: 0.0-4
@@ -6065,7 +6065,7 @@ RcmdrPlugin.sampling: '1.1'
 RcmdrPlugin.seeg: '1.0'
 RcmdrPlugin.sos: 0.3-0
 RcmdrPlugin.steepness: 0.3-2
-RcmdrPlugin.survival: 1.3-0
+RcmdrPlugin.survival: 1.3-2
 RcmdrPlugin.sutteForecastR: 1.0.0
 RcmdrPlugin.temis: 0.7.10
 Rcoclust: 0.1.1
@@ -6153,7 +6153,7 @@ Rdiagnosislist: '1.2'
 Rdice: 1.0.0
 Rdimtools: 1.1.2
 Rdistance: 3.0.0
-Rdpack: '2.4'
+Rdpack: '2.5'
 Rdrools: 1.1.1
 Rdroolsjars: 1.0.1
 Rdrw: 1.0.2
@@ -10345,7 +10345,7 @@ colorspace: 2.1-0
 colortools: 0.1.5
 colouR: 0.1.0
 colourlovers: 0.3.6
-colourpicker: 1.2.0
+colourpicker: 1.3.0
 colourvalues: 0.3.9
 colourvision: 2.0.4
 colr: 0.1.900
@@ -12109,7 +12109,7 @@ einet: 0.1.0
 einsum: 0.1.0
 eiopaR: 0.1.1
 eirm: '0.5'
-eive: 3.1.1
+eive: 3.1.3
 eivtools: 0.1-8
 eiwild: 0.6.7
 eixport: 0.5.4
@@ -13418,7 +13418,7 @@ gambin: 2.5.0
 gamblers.ruin.gameplay: 4.0.5
 gamboostLSS: 2.0-7
 gamboostMSM: 1.1.88
-gamclass: 0.62.3
+gamclass: 0.62.5
 gameR: 0.0.5
 gameofthrones: 1.0.2
 games: 1.1.2
@@ -13635,7 +13635,7 @@ gensvm: 0.1.7
 genvar: 0.0.2.0
 geo: 1.4-3
 geoAr: 0.0.1.4.2
-geoBayes: 0.7.2
+geoBayes: 0.7.3
 geoCount: '1.150120'
 geoFKF: 0.1.1
 geoFourierFDA: 0.1.0
@@ -13822,7 +13822,7 @@ ggdensity: 1.0.0
 ggdist: 3.3.0
 ggdistribute: 1.0.3
 ggdmc: 0.2.6.0
-gge: '1.7'
+gge: '1.8'
 ggeasy: 0.1.4
 ggedit: 0.3.1
 ggeffects: 1.2.3
@@ -13984,7 +13984,7 @@ ghibli: 0.3.3
 ghit: 0.2.18
 ghostr: 1.0.0
 ghql: 0.1.0
-ghyp: 1.6.3
+ghyp: 1.6.4
 ghypernet: 1.1.0
 giRaph: 0.1.2
 giacR: 1.0.0
@@ -14864,7 +14864,7 @@ hurricaneexposure: 0.1.1
 hutils: 1.8.1
 hutilscpp: 0.9.3
 huxtable: 5.5.2
-hwde: '0.67'
+hwde: 0.67-3
 hwep: 2.0.2
 hwig: 0.0.2
 hwordcloud: 0.1.0
@@ -15266,7 +15266,7 @@ inspector: 1.0.3
 inspectr: 1.0.0
 instaR: 0.2.4
 instagramadsR: 0.1.0
-install.load: 1.2.4
+install.load: 1.2.5
 installr: 0.23.4
 instantiate: 0.0.2
 instruments: 0.1.0
@@ -16137,7 +16137,7 @@ lifx: 0.2.0
 liger: 2.0.1
 lightgbm: 3.3.5
 lightr: 1.7.0
-lightsout: 0.3.1
+lightsout: 0.3.2
 likeLTD: 6.3.0
 likelihood: '1.9'
 likelihoodAsy: '0.51'
@@ -16529,7 +16529,7 @@ mada: 0.5.11
 maddison: '0.2'
 madgrad: 0.1.0
 maditr: 0.8.3
-madness: 0.2.7
+madness: 0.2.8
 madr: 1.0.0
 madrat: 3.3.6
 mads: 0.1.6
@@ -17783,7 +17783,7 @@ multipleNCC: 1.2-3
 multiplestressR: 0.1.1
 multiplex: 3.1.0
 multiplyr: 0.1.1
-multipol: 1.0-7
+multipol: 1.0-9
 multirich: 2.1.3
 multiridge: '1.11'
 multiselect: 0.1.0
@@ -18256,7 +18256,7 @@ nodbi: 0.9.6
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodeSub: 1.2.5
-nodiv: 1.4.1
+nodiv: 1.4.2
 nofrills: 0.3.2
 noia: 0.97.3
 noise: 1.0.1
@@ -18919,7 +18919,7 @@ pamm: '1.121'
 pammtools: 0.5.92
 pampe: 1.1.2
 pamr: 1.56.1
-pan: '1.8'
+pan: '1.9'
 pancor: 0.1.0
 pander: 0.6.5
 pandoc: 0.1.0
@@ -20205,7 +20205,7 @@ qgshiny: 0.1.0
 qgtools: '2.0'
 qha: 0.0.8
 qicharts: 0.5.8
-qicharts2: 0.7.2
+qicharts2: 0.7.4
 qif: '1.5'
 qiimer: 0.9.4
 qiitr: 0.1.1
@@ -20720,7 +20720,7 @@ rbgm: 0.1.0
 rbhl: 0.9.2
 rbi: 1.0.0
 rbi.helpers: 0.3.3
-rbibutils: 2.2.14
+rbibutils: 2.2.15
 rbin: 0.2.0
 rbioacc: 1.1-0
 rbioapi: 0.7.9
@@ -21433,7 +21433,7 @@ rmytarget: 2.4.0
 rmzqc: 0.5.2
 rnaseqWrapper: 1.0-1
 rnassqs: 0.6.1
-rnaturalearth: 0.3.3
+rnaturalearth: 0.3.4
 rnaturalearthdata: 0.1.0
 rnbn: 1.1.2
 rnbp: 0.2.1
@@ -21648,7 +21648,7 @@ rpvm: 1.0-4
 rpyANTs: 0.0.2
 rpymat: 0.1.6
 rqPen: '3.2'
-rqdatatable: 1.3.2
+rqdatatable: 1.3.3
 rqmcmb2: 1.0.2-1
 rquery: 1.4.99
 rr: 1.4.1
@@ -22285,7 +22285,7 @@ seg: 0.5-7
 segMGarch: '1.2'
 segRDA: 1.0.2
 segclust: '0.76'
-segclust2d: 0.3.0
+segclust2d: 0.3.1
 segen: 1.1.0
 segmag: 1.2.4
 segmenTier: 0.1.2
@@ -22565,7 +22565,7 @@ shinycssloaders: 1.0.0
 shinycustomloader: 0.9.0
 shinydashboard: 0.7.2
 shinydashboardPlus: 2.0.3
-shinydisconnect: 0.1.0
+shinydisconnect: 0.1.1
 shinydlplot: 0.1.4
 shinydrive: 0.1.3
 shinyfilter: 0.1.1
@@ -22590,7 +22590,7 @@ shinyr: 0.3.0
 shinyrecap: 0.1.0
 shinyrecipes: 0.1.0
 shinyreforms: 0.0.1
-shinyscreenshot: 0.2.0
+shinyscreenshot: 0.2.1
 shinyservicebot: 0.1.0
 shinystan: 2.6.0
 shinysurveys: 0.2.0
@@ -22874,7 +22874,7 @@ smacpod: '2.5'
 smallarea: '0.1'
 smallsets: 1.0.0
 smallstuff: 1.0.1
-smam: 0.6.0
+smam: 0.7.0
 smapr: 0.2.1
 smart: 1.0.1
 smartDesign: '0.72'
@@ -23267,7 +23267,7 @@ sphereTessellation: 1.1.0
 spherepc: 0.1.7
 sphereplot: 1.5.1
 sphet: '2.0'
-sphunif: 1.0.1
+sphunif: 1.1.0
 spi: '1.1'
 spiR: 0.2.1
 spidR: 1.0.2
@@ -23286,7 +23286,7 @@ spinyReg: 0.1-0
 spiralize: 1.0.6
 spiritR: 0.1.1
 spiro: 0.2.1
-splancs: 2.01-43
+splancs: 2.01-44
 splash: 1.0.2
 splashr: 0.6.0
 spldv: 0.1.1
@@ -24221,7 +24221,7 @@ tfse: 0.5.0
 tgamtheme: 0.1.0
 tgcd: '2.5'
 tggd: 0.1.1
-tglkmeans: 0.3.10
+tglkmeans: 0.3.11
 tglm: '1.0'
 tgp: 2.4-21
 tgram: 0.2-3
@@ -24992,7 +24992,7 @@ usl: 3.0.3
 usmap: 0.6.2
 usmapdata: 0.1.0
 ussherR: '1.10'
-ustfd: 0.4.0
+ustfd: 0.4.1
 ustyc: 1.0.0
 utc: 0.1.5
 utf8: 1.2.3
