@@ -6917,7 +6917,7 @@ SensMixed: 2.1-0
 SensitivityCaseControl: '2.2'
 SensoMineR: '1.26'
 SensusR: 2.3.1
-SentimentAnalysis: 1.3-4
+SentimentAnalysis: 1.3-5
 SeqAlloc: '1.0'
 SeqBayesDesign: 0.1.0
 SeqDetect: 1.0.7
@@ -9327,6 +9327,7 @@ blorr: 0.3.0
 blowtorch: 1.0.2
 blrm: 1.0-2
 blsAPI: 0.2.1
+blsBandit: '0.1'
 blsR: 0.5.0
 blscrapeR: 3.2.2
 bltm: 0.1.0
@@ -19014,7 +19015,7 @@ particle.swarm.optimisation: '1.0'
 particles: 0.2.3
 partition: 0.1.4
 partitionBEFsp: '1.0'
-partitionComparison: 0.2.5
+partitionComparison: 0.2.6
 partitionMap: '0.5'
 partitionMetric: '1.1'
 partitions: 1.10-7
@@ -20494,7 +20495,7 @@ rLandsat: 0.1.1
 rLiDAR: 0.1.5
 rLindo: 8.0.1
 rMEA: 1.2.2
-rMIDAS: 0.4.2
+rMIDAS: 0.5.0
 rMOST: 1.0.0
 rMR: 1.1.0
 rMVP: 1.0.6
