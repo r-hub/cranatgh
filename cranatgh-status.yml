@@ -1577,7 +1577,7 @@ DOvalidation: 1.1.0
 DPBBM: 0.2.5
 DPM.GGM: '0.14'
 DPP: 0.1.2
-DPQ: 0.5-5
+DPQ: 0.5-6
 DPQmpfr: 0.3-1
 DPWeibull: '1.8'
 DPpack: 0.1.0
@@ -1673,7 +1673,7 @@ DataSetsUni: '0.1'
 DataSpaceR: 0.7.6
 DataVisualizations: 1.3.1
 DataViz: 0.2.8
-DatabaseConnector: 6.2.3
+DatabaseConnector: 6.2.4
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.2.0
 Datasmith: 1.0-1
@@ -1893,7 +1893,7 @@ EEMDelm: 0.1.1
 EEMDlstm: 0.1.0
 EESPCA: 0.7.0
 EFA.MRFA: 1.1.2
-EFA.dimensions: 0.1.7.7
+EFA.dimensions: 0.1.7.9
 EFAtools: 0.4.4
 EFAutilities: 2.1.3
 EFDR: '1.3'
@@ -2934,7 +2934,7 @@ HMPTrees: '1.4'
 HMR: 1.0.2
 HMTL: 0.1.0
 HMVD: '1.0'
-HOasso: 1.0.0
+HOasso: 1.0.1
 HPLB: 1.0.0
 HPO.db: '1.2'
 HPOSim: '1.2'
@@ -3505,7 +3505,7 @@ LDATree: 0.1.2
 LDAandLDAS: 1.1.1
 LDAvis: 0.3.2
 LDLcalc: '2.0'
-LDM: '6.0'
+LDM: 6.0.1
 LDNN: '1.10'
 LDOD: '1.0'
 LDPD: 1.1.2
@@ -7204,7 +7204,7 @@ Stack: 2.0-1
 StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
 StakeholderAnalysis: '1.2'
-StanHeaders: 2.26.27
+StanHeaders: 2.26.28
 StanMoMo: 1.1.0
 StandardizeText: '1.0'
 Stat2Data: 2.0.0
@@ -11315,7 +11315,7 @@ define: 0.2.9
 defineR: 0.0.4
 deflateBR: 1.1.2
 deflist: 0.2.0
-defm: 0.1-0
+defm: 0.1-1
 deforestable: 3.1.1
 deformula: 0.1.2
 defrostR: 1.1.0
@@ -13661,7 +13661,7 @@ geneNetBP: 2.0.1
 geneSLOPE: 0.38.2
 geneSignatureFinder: 2014.02.17
 genefu: 1.0.9
-genekitr: 1.2.2
+genekitr: 1.2.5
 genemodel: 1.1.0
 genepi: 1.0.3
 genepop: 1.2.2
@@ -15670,6 +15670,7 @@ joineRML: 0.4.6
 joineRmeta: 0.1.2
 joinet: 0.0.10
 joint.Cox: '3.16'
+jointCalib: 0.1.0
 jointDiag: '0.4'
 jointMeanCov: 0.1.0
 jointNmix: '1.0'
@@ -15755,6 +15756,7 @@ kappalab: 0.4-10
 kaps: 1.0.2
 karaoke: '1.0'
 karel: 0.1.1
+karyotapR: 1.0.1
 katex: 1.4.1
 kayadata: 1.3.0
 kazaam: 0.1-0
@@ -19382,6 +19384,7 @@ ph2rand: 0.1.0
 phacking: 0.2.1
 phalen: '1.0'
 phangorn: 2.11.1
+phantSEM: 1.0.0.0
 phantom: 0.1.3
 pharmaRTF: 0.1.4
 pharmaverse: 0.0.2
@@ -20887,7 +20890,7 @@ rcompletion: 0.1-2
 rconfig: 0.3.0
 rcongresso: 0.4.6
 rconifers: 1.0.7
-rcontroll: 0.1.0
+rcontroll: 0.1.1
 rcoreoa: 0.4.0
 rcorpora: 2.0.0
 rcosmo: 1.1.3
@@ -21418,7 +21421,7 @@ riskCommunicator: 1.0.1
 riskParityPortfolio: 0.2.2
 riskPredictClustData: 0.2.6
 riskR: '1.1'
-riskRegression: 2023.03.22
+riskRegression: 2023.09.08
 riskSimul: 0.1.1
 riskclustr: 0.4.0
 riskmetric: 0.2.3
@@ -22652,6 +22655,7 @@ shinyRGL: 0.1.0
 shinyRadioMatrix: 0.2.1
 shinyRatings: 0.1.0
 shinySIR: 0.1.2
+shinySbm: 0.1.4
 shinySearchbar: 1.0.0
 shinySelect: 1.3.0
 shinyShortcut: 0.1.0
@@ -25293,6 +25297,7 @@ viopoints: 0.2-1
 vip: 0.4.1
 vipor: 0.4.5
 viralmodels: 1.0.0
+viralx: 1.0.0
 viridis: 0.6.4
 viridisLite: 0.4.2
 viromeBrowser: 1.1.0
