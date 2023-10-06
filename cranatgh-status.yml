@@ -587,7 +587,7 @@ BayesDissolution: 0.1.0
 BayesESS: 0.1.19
 BayesFM: 0.1.5
 BayesFactor: 0.9.12-4.5
-BayesFluxR: 0.1.1
+BayesFluxR: 0.1.2
 BayesGESM: '1.4'
 BayesGOF: '5.2'
 BayesGPfit: 1.1.0
@@ -2898,7 +2898,7 @@ HDMFA: 0.1.0
 HDMT: 1.0.5
 HDOMDesign: 1.0-1
 HDPenReg: 0.94.9
-HDRFA: 0.1.2
+HDRFA: 0.1.3
 HDShOP: 0.1.3
 HDSinRdata: 0.1.0
 HDSpatialScan: 1.0.4
@@ -2986,7 +2986,7 @@ HWEBayes: '1.4'
 HWEintrinsic: 1.2.3
 HWxtest: 1.1.9
 HYDROCAL: 1.0.0
-HYPEtools: 1.5.1
+HYPEtools: 1.5.2
 HYRISK: '1.2'
 HaDeX: 1.2.2
 HadamardR: 1.0.0
@@ -4099,7 +4099,7 @@ MTPS: 1.0.2
 MTS: 1.2.1
 MTSKNN: 0.0-5
 MTSYS: 1.2.0
-MTest: 1.0.1
+MTest: 1.0.2
 MTurkR: 0.8.0
 MTurkRGUI: 0.1.5
 MUACz: 2.1.0
@@ -4157,7 +4157,7 @@ MarketMatching: 1.2.0
 Markovchart: 2.1.5
 MarkowitzR: 1.0.3
 MaskJointDensity: '1.0'
-MassWateR: 2.1.1
+MassWateR: 2.1.2
 Massign: 1.1.0
 MasterBayes: '2.58'
 MatManlyMix: 1.1.1
@@ -8194,7 +8194,7 @@ adaptDiag: 0.1.0
 adaptIVPT: 1.0.0
 adaptMCMC: '1.4'
 adaptMT: 1.0.0
-adaptTest: '1.1'
+adaptTest: '1.2'
 adaptalint: 0.2.4
 adaptiveGPCA: 0.1.3
 adaptivetau: 2.2-3
@@ -8379,7 +8379,7 @@ alkahest: 1.1.1
 allMT: 0.1.0
 allan: '1.01'
 allanvar: '1.1'
-allcontributors: 0.1.0
+allcontributors: 0.1.1
 alleHap: 0.9.9
 allelematch: 2.5.3
 allelic: '0.1'
@@ -10640,7 +10640,7 @@ convdistr: 1.5.3
 convergEU: 0.5.4
 convertGraph: '0.1'
 convertbonds: 0.1.0
-convertid: 0.1.5
+convertid: 0.1.6
 convertr: '0.1'
 convevol: 2.0.1
 convexHaz: '0.2'
@@ -11683,7 +11683,7 @@ distcrete: 1.0.3
 distdichoR: 0.1-1
 distdrawr: 0.1.3
 distfree.cr: 1.5.1
-distill: '1.5'
+distill: '1.6'
 distillML: 0.1.0.13
 distillery: 1.2-1
 disto: 0.2.0
@@ -15910,7 +15910,7 @@ kfino: 1.0.0
 kgc: 1.0.0.2
 kgen: 0.2.1
 kgp: 1.1.1
-kgrams: 0.1.5
+kgrams: 0.2.0
 kgschart: 1.3.5
 khroma: 1.11.0
 kibior: 0.1.1
@@ -17348,7 +17348,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 0.10.0
+mirai: 0.11.0
 mirai.promises: 0.3.1
 mirf: '1.0'
 mirt: '1.40'
@@ -17916,7 +17916,7 @@ multiRDPG: 1.0.1
 multiROC: 1.1.1
 multiUS: 1.2.3
 multiband: 0.1.0
-multibias: 1.0.0
+multibias: 1.1.0
 multibiasmeta: 0.2.2
 multibiplotGUI: '1.1'
 multiblock: 0.8.6
@@ -18794,7 +18794,7 @@ oosse: 1.0.10
 oottest: 0.9.1
 opGMMassessment: 0.3.5
 opa: 0.8.1
-opalr: 3.3.1
+opalr: 3.4.0
 opart: 2019.1.0
 opdisDownsampling: 0.8.2
 opefimor: '1.2'
