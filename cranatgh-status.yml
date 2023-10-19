@@ -16,7 +16,7 @@ ACD: 1.5.3
 ACDC: 1.0.0
 ACDm: 1.0.4.2
 ACE.CoCo: '0.1'
-ACEP: 0.0.21
+ACEP: 0.0.22
 ACEsearch: 1.0.0
 ACEsimFit: 0.0.0.9
 ACEt: 1.9.0
@@ -3639,7 +3639,7 @@ LTAR: 0.1.0
 LTASR: 0.1.2
 LTPDvar: 1.2.1
 LTR: 1.0.0
-LTRCforests: 0.5.5
+LTRCforests: 0.6.5
 LTRCtrees: 1.1.1
 LUCIDus: 2.2.1
 LVGP: 2.1.5
@@ -4529,7 +4529,7 @@ NMRS: '1.0'
 NMTox: 0.1.0
 NMVANOVA: 1.1.0
 NMcalc: 0.0.1
-NMdata: 0.1.1
+NMdata: 0.1.2
 NMproject: 0.6.9
 NMsim: 0.0.4
 NNLM: 0.4.3
@@ -4971,7 +4971,7 @@ PMCMR: '4.4'
 PMCMRplus: 1.9.8
 PML: '1.2'
 PMmisc: 0.1.2
-PMwR: 0.19-1
+PMwR: 0.19-3
 PNADcIBGE: 0.7.3
 PNAR: '1.6'
 PNSIBGE: 0.1.9
@@ -7680,6 +7680,7 @@ TrafficBDE: 0.1.2
 TraitStats: 1.0.2
 Traitspace: '1.1'
 TrajDataMining: 0.1.6
+TransGraph: 1.0.0
 TransModel: '2.3'
 TransP: '0.1'
 TransPhylo: 1.4.5
@@ -9385,7 +9386,7 @@ bivarRIpower: '1.2'
 bivariate: 0.7.0
 bivariatemaps: '1.0'
 bivgeom: '1.0'
-bivpois: 0.50-3.1
+bivpois: '1.0'
 bivquant: '0.1'
 bivrp: 1.2-2
 biwavelet: 0.20.21
@@ -10963,6 +10964,7 @@ crul: 1.4.0
 crunch: 1.30.3
 crunchy: 0.3.3
 cruts: '1.1'
+crwbmetareg: '1.0'
 cry: 0.5.1
 crypto: 1.1.3
 crypto2: 1.4.5
@@ -11409,6 +11411,7 @@ deflateBR: 1.1.2
 deflist: 0.2.0
 defm: 0.1-1
 deforestable: 3.1.1
+deform: 1.0.0
 deformula: 0.1.2
 defrostR: 1.1.0
 degday: 0.4.0
@@ -12249,6 +12252,7 @@ ega: 2.0.0
 egcm: 1.0.13
 egg: 0.4.5
 eggCounts: '2.4'
+eglhmm: 0.0-23
 egoTERGM: 2.1.1
 egonet: '1.2'
 egor: 1.23.3
@@ -12900,7 +12904,7 @@ fastcluster: 1.2.3
 fastcmh: 0.2.7
 fastcmprsk: 1.1.1
 fastcox: 1.1.3
-fastcpd: 0.7.2
+fastcpd: 0.9.0
 fastdigest: 0.6-3
 fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
@@ -13271,7 +13275,7 @@ forImage: 0.1.0
 forams: 2.0-6
 forcats: 1.0.0
 forceR: 1.0.20
-foreSIGHT: 1.1.0
+foreSIGHT: 1.2.0
 foreach: 1.5.2
 forecTheta: 2.6.2
 forecast: 8.21.1
@@ -16375,7 +16379,7 @@ linearModel: 1.0.2
 linearOrdering: 1.0.1
 linearQ: '2.0'
 lineartestr: 1.0.0
-linelist: 0.0.1
+linelist: 1.0.0
 linemap: 0.2.0
 lineqGPR: 0.1.1
 lineup: '0.42'
@@ -16869,7 +16873,7 @@ marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
 mark: 0.6.1
-markdown: '1.10'
+markdown: '1.11'
 markdownInput: 0.1.2
 marked: 1.2.6
 markerSearchPower: '1.0'
@@ -20141,6 +20145,7 @@ press: '2.0'
 pressData: '2.0'
 presser: 1.1.0
 pressuRe: 0.2.3
+pretest: '0.2'
 prettifyAddins: 2.6.1
 prettyB: 0.2.2
 prettyGraphs: 2.1.6
@@ -20444,6 +20449,7 @@ qboxplot: '0.2'
 qbr: 1.2.3
 qcQpcr: '1.5'
 qcapower: 0.1.0
+qcauchyreg: '1.0'
 qcc: '2.7'
 qccrs: 0.1.0
 qch: 1.0.0
@@ -22403,6 +22409,7 @@ scanstatistics: 1.1.1
 scapGNN: 0.1.4
 scape: 2.3.3
 scapeMCMC: 1.1-3
+scaper: 0.1.0
 scapesClassification: 1.0.0
 scar: 0.2-2
 scatr: 1.0.1
@@ -23488,7 +23495,7 @@ spatstat.model: 3.2-6
 spatstat.random: 3.1-6
 spatstat.sparse: 3.0-2
 spatstat.utils: 3.0-3
-spatsurv: '2.0'
+spatsurv: 2.0-1
 spbabel: 0.6.0
 spc: 0.6.7
 spc4sts: 0.6.3
