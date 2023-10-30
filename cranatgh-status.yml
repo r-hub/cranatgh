@@ -400,6 +400,7 @@ BCT: '1.2'
 BCellMA: 0.3.4
 BCgee: 0.1.1
 BClustLonG: 0.1.3
+BDAlgo: 0.1.0
 BDEsize: '1.6'
 BDP2: 0.1.3
 BDWreg: 1.2.0
@@ -3730,6 +3731,7 @@ LoBrA: '1.0'
 LobsterCatch: 0.1.0
 LocFDRPois: 1.0.0
 LocKer: '1.1'
+LocaTT: 1.1.1
 LocalControl: 1.1.3
 LocalControlStrategy: '1.4'
 Lock5Data: 3.0.0
@@ -10504,6 +10506,7 @@ colourpicker: 1.3.0
 colourvalues: 0.3.9
 colourvision: 2.0.4
 colr: 0.1.900
+cols: '1.0'
 cols4all: '0.6'
 colt: 0.1.1
 comFuncs: 0.0.6
@@ -11623,7 +11626,7 @@ diffEq: 1.0-1
 diffIRT: '1.5'
 diffMeanVar: 0.0.6
 diffMeshGP: 0.1.0
-diffcor: 0.8.0
+diffcor: 0.8.1
 diffdepprop: 0.1-9
 diffdf: 1.0.4
 diffdfs: 0.9.0
@@ -11833,6 +11836,7 @@ docdescriptR: 2020.1.0
 docinfeR: 2020.1.0
 docker: 0.0.2
 dockerfiler: 0.2.1
+docket: '1.11'
 docknitr: 1.0.1
 dockr: 0.8.6
 doconv: 0.3.2
@@ -11870,6 +11874,7 @@ dotenv: 1.0.3
 dotgen: 0.1.0
 dotprofile: 0.0.1
 dots: 0.0.2
+dotsViolin: 0.0.1
 dotwhisker: 0.7.4
 doubcens: '1.1'
 double.truncation: '1.7'
@@ -15239,7 +15244,7 @@ ibm: 0.1.0
 ibmAcousticR: 0.2.1
 ibmcraftr: 1.0.0
 ibmdbR: 1.50.0
-ibmsunburst: 0.1.2
+ibmsunburst: 0.1.3
 ibr: 2.0-4
 ibs: '1.4'
 ic.infer: 1.1-7
@@ -15514,8 +15519,8 @@ intRegGOF: 0.85-5
 intRinsic: 1.0.1
 intRvals: 1.0.1
 intSDM: 2.0.2
-intamap: 1.5-6
-intamapInteractive: 1.1-13
+intamap: 1.5-7
+intamapInteractive: 1.2-6
 intccr: 3.0.4
 intcensROC: 0.1.3
 intcox: 0.9.3
@@ -16210,6 +16215,7 @@ lavacreg: 0.2-1
 lawn: 0.6.0
 lawstat: '3.6'
 lax: 1.2.1
+lay: 0.1.3
 layer: 0.0.1
 lazy: 1.2-18
 lazyData: 1.1.0
@@ -16504,6 +16510,7 @@ lmerTest: 3.1-3
 lmeresampler: 0.2.4
 lmf: 1.2.1
 lmfor: '1.6'
+lmhelprs: 0.2.0
 lmkCHK: 1.0.0
 lmls: 0.1.0
 lmm: '1.4'
@@ -22060,6 +22067,7 @@ rsmatrix: 0.2.6
 rsml: '1.3'
 rsnell: '0.1'
 rsnps: 0.6.0
+rsofun: '4.4'
 rsoi: 0.5.5
 rsolr: 0.0.13
 rspa: 0.2.8
@@ -22381,7 +22389,7 @@ satdad: '1.1'
 sate: 1.1.0
 satellite: 1.0.4
 satin: 1.1.0
-satres: 1.0.0
+satres: 1.1.0
 satscanMapper: 1.0.2
 saturnin: 1.1.1
 saves: '0.5'
@@ -24321,6 +24329,7 @@ syuzhet: 1.0.7
 tLagInterim: '1.0'
 tLagPropOdds: '1.8'
 tRakt: 0.13.0
+tRigon: 0.3.2
 tRnslate: 0.0.3
 tRophicPosition: 0.8.0
 tTOlr: 0.2.3
@@ -24721,7 +24730,7 @@ tidytuesdayR: 1.0.2
 tidyverse: 2.0.0
 tidyvpc: 1.4.0
 tidywikidatar: 0.5.7
-tidyxl: 1.0.8
+tidyxl: 1.0.9
 tiff: 0.1-11
 tiger: 0.2.3.1
 tigerhitteR: 1.1.0
