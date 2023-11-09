@@ -667,6 +667,7 @@ BaylorEdPsych: '0.5'
 BcDiag: 1.0.10
 Bchron: 4.7.6
 Bclim: 3.1.2
+BeQut: 0.1.0
 BeSS: 2.0.3
 BeastJar: 1.10.6
 BeeBDC: 1.0.1
@@ -1342,7 +1343,7 @@ CoordinateCleaner: 3.0.1
 CopCTS: 1.0.0
 CopSens: 0.1.0
 CopernicusDEM: 1.0.2
-CopernicusMarine: 0.0.9
+CopernicusMarine: 0.1.1
 Copula.Markov: '2.9'
 Copula.Markov.survival: 1.0.0
 Copula.surv: '1.2'
@@ -13131,6 +13132,7 @@ figuRes2: 1.0.0
 file2meco: 0.6.0
 filearray: 0.1.6
 filebin: 0.0.6
+filecacher: 0.2.3
 filehash: 2.4-5
 filehashSQLite: 0.2-6
 filelock: 1.0.2
