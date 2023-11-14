@@ -3,7 +3,7 @@ name: Update CRAN@GH
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '23 * * * *'
+    - cron:  '23 2 * * *'
 
 jobs:
   gh-update:
