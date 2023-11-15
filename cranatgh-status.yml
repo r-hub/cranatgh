@@ -74,6 +74,7 @@ AIGIS: 1.0-1
 AIM: '1.01'
 AIPW: 0.6.3.2
 AIS: '1.0'
+AIUQ: 0.5.0
 ALA4R: 1.9.1
 ALDqr: '1.0'
 ALEPlot: '1.1'
@@ -372,7 +373,7 @@ BASiNETEntropy: 0.99.6
 BAT: 2.9.4
 BAYESDEF: 0.1.0
 BAYSTAR: 0.2-10
-BAwiR: '1.3'
+BAwiR: 1.3.1
 BB: 2019.10-1
 BBEST: 0.1-8
 BBI: 0.3.0
@@ -650,14 +651,14 @@ BayesXsrc: 3.0-4
 BayesfMRI: 0.3.5
 BayesianAnimalTracker: '1.2'
 BayesianFROC: 1.0.0
-BayesianFactorZoo: 0.0.0.1
+BayesianFactorZoo: 0.0.0.2
 BayesianGLasso: 0.2.0
 BayesianLaterality: 0.1.2
 BayesianMediationA: 1.0.1
 BayesianNetwork: '0.3'
 BayesianPlatformDesignTimeTrend: 1.2.1
 BayesianPower: 0.2.3
-BayesianReasoning: 0.4.1
+BayesianReasoning: 0.4.2
 BayesianTools: 0.1.8
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
@@ -1831,7 +1832,7 @@ DiversityOccupancy: 1.0.6
 DiversitySampler: '2.1'
 DnE: 2.1.0
 DoE.MIParray: 1.0-1
-DoE.base: 1.2-3
+DoE.base: 1.2-4
 DoE.multi.response: 0.1.0
 DoE.wrapper: '0.12'
 DoEstRare: '0.2'
@@ -2207,7 +2208,7 @@ FAMILY: 0.1.19
 FAMT: '2.6'
 FAMetA: 0.1.5
 FAMoS: 0.3.0
-FAO56: 0.1.0
+FAO56: '1.0'
 FAOSTAT: 2.3.0
 FARDEEP: 1.0.1
 FASeg: 0.1.9
@@ -2793,7 +2794,7 @@ GeoDE: '1.0'
 GeoFIS: 1.0.4
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 1.1.4
+GeoModels: 1.1.5
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1.992
@@ -3371,7 +3372,7 @@ IsoMemo: 23.10.1
 IsoSpecR: 2.1.3
 IsoplotR: '5.6'
 IsoplotRgui: '5.6'
-IsoriX: 0.9.1
+IsoriX: 0.9.2
 IsotopeR: 0.5.4
 ItemResponseTrees: 0.2.5
 IterativeHardThresholding: 1.0.2
@@ -4033,7 +4034,7 @@ MNM: 1.0-3
 MNP: 3.1-4
 MNS: '1.0'
 MOCCA: '1.4'
-MOCHA: 1.0.0
+MOCHA: 1.0.1
 MODIS: 1.2.11
 MODISSnow: 0.1.0.0
 MODISTools: 1.1.5
@@ -4695,7 +4696,7 @@ OBIC: 3.0.0
 OBL: 0.2.1
 OBMbpkg: 1.0.0
 OBRE: 0.2-0
-OBsMD: '6.1'
+OBsMD: '11.1'
 OCA: '0.5'
 OCNet: 1.2.0
 OCSdata: 1.0.2
@@ -4948,7 +4949,7 @@ PGEE: '1.5'
 PGICA: '1.0'
 PGM2: 1.0-1
 PGRdup: 0.2.3.9
-PH1XBAR: 0.10.1
+PH1XBAR: 0.11.1
 PHENIX: 1.3.1
 PHEindicatormethods: 2.0.1
 PHInfiniteEstimates: '2.9'
@@ -6154,7 +6155,7 @@ RcmdrPlugin.SM: 0.3.1
 RcmdrPlugin.SensoMineR: 1.11-01
 RcmdrPlugin.StatisticalURV: 1.0-1
 RcmdrPlugin.SurvivalT: 1.0-7
-RcmdrPlugin.TeachStat: 1.1.2
+RcmdrPlugin.TeachStat: 1.1.3
 RcmdrPlugin.TeachingDemos: 1.2-0
 RcmdrPlugin.TextMining: 0.1-0
 RcmdrPlugin.UCA: 5.1-1
@@ -6404,7 +6405,7 @@ RiskPortfolios: 2.1.7
 RiskScorescvd: 0.1.0
 Rita: 1.2.0
 Ritc: 1.0.2
-RivRetrieve: 0.1.2
+RivRetrieve: 0.1.3
 RiverBuilder: 0.1.1
 RiverLoad: 1.0.3
 Rivivc: 0.9.1
@@ -6535,7 +6536,7 @@ Rsolnp: '1.16'
 Rsomoclu: 1.7.6
 Rspc: 1.2.2
 Rspotify: 0.1.2
-RsqMed: 0.2.1.0
+RsqMed: '1.1'
 Rssa: 1.0.5
 Rstem: 0.4-1
 Rstg: 0.0.1
@@ -6705,6 +6706,7 @@ SECP: 0.1.5
 SEER2R: '1.0'
 SEERaBomb: '2019.2'
 SEHmodel: 0.0.11
+SEI: 0.1.0
 SEIRfansy: 1.1.1
 SEL: 1.0-3
 SELF: 0.1.1
@@ -7487,7 +7489,7 @@ TGUITeaching: 0.9.14
 TH.data: 1.1-2
 TIGERr: 1.0.0
 TIMP: 1.13.6
-TITAN2: 2.4.2
+TITAN2: 2.4.3
 TITEgBOIN: 0.2.1
 TInPosition: 0.13.6.1
 TKCat: 1.0.7
@@ -7764,7 +7766,7 @@ TroublemakeR: 0.0.1
 TrtCombo.FactorialExp.SR: 4.0.4
 TrueSkillThroughTime: 0.1.1
 TrumpetPlots: 0.0.1.1
-TruncExpFam: 1.0.1
+TruncExpFam: 1.1.0
 TruncatedNormal: 2.2.2
 TrustVDJ: 0.1.0
 Tsphere: '1.0'
@@ -8332,6 +8334,7 @@ adventr: 0.1.8
 adw: 0.3.1
 adwave: '1.3'
 adwordsR: 0.3.1
+aeddo: 0.1.0
 aedseo: 0.1.0
 aemo: 0.3.0
 afCEC: 1.0.2
@@ -8819,7 +8822,7 @@ audrex: 2.0.1
 audubon: 0.5.1
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.7
-auk: 0.6.0
+auk: 0.7.0
 aum: 2023.6.14
 aurelius: 0.8.4
 aurin: 0.6.0
@@ -10007,7 +10010,7 @@ cdfquantreg: 1.3.1-2
 cdgd: 0.3.2
 cdlTools: '0.15'
 cdlei: '1.0'
-cdmTools: 1.0.3
+cdmTools: 1.0.4
 cdom: 0.1.0
 cdparcoord: 1.0.1
 cdrcR: 0.1.1
@@ -12038,7 +12041,7 @@ dtrSurv: '1.4'
 dtrackr: 0.4.4
 dtree: 0.4.2
 dtt: 0.1-2
-dttr2: 0.4.2
+dttr2: 0.5.0
 dtts: 0.1.1
 dtw: 1.23-1
 dtwSat: 1.0.0
@@ -12430,7 +12433,7 @@ emplik: 1.3-1
 emplik2: '1.32'
 emplikAUC: '0.3'
 ems: 1.3.11
-emstreeR: 3.0.0
+emstreeR: 3.1.2
 emu: '4.3'
 emuR: 2.4.2
 emudata: '1.0'
@@ -12949,6 +12952,7 @@ fastAFT: '1.4'
 fastAdaboost: 1.0.0
 fastCorrDiff: '0.5'
 fastDummies: 1.7.3
+fastFMM: 0.1.0
 fastGHQuad: 1.0.1
 fastGLCM: 1.0.2
 fastGraph: '2.1'
@@ -13907,7 +13911,7 @@ geoBayes: 0.7.3
 geoCount: '1.150120'
 geoFKF: 0.1.1
 geoFourierFDA: 0.1.0
-geoGAM: 0.1-2
+geoGAM: 0.1-3
 geoPlot: '2.3'
 geoR: 1.9-2
 geoRglm: 0.9-16
@@ -14411,7 +14415,7 @@ gms: 0.4.0
 gmt: 2.0.3
 gmum.r: 0.2.1
 gmvalid: '1.23'
-gmvarkit: 2.0.10
+gmvarkit: 2.1.0
 gmvjoint: 0.3.0
 gmwm: 2.0.0
 gmwmx: 1.0.3
@@ -14781,7 +14785,7 @@ hagis: 3.1.11
 hahmmr: 1.0.0
 hail: 0.1.1
 hakaiApi: 1.0.2
-hal9001: 0.4.3
+hal9001: 0.4.6
 haldensify: 0.2.3
 halfcircle: 0.1.0
 halfmoon: 0.1.0
@@ -15132,7 +15136,7 @@ httptest: 4.2.1
 httptest2: 1.0.0
 httpuv: 1.6.12
 httr: 1.4.7
-httr2: 0.2.3
+httr2: 1.0.0
 hubeau: 0.4.1
 hudr: 1.2.0
 hues: 0.2.0
@@ -15217,6 +15221,7 @@ i2dash: 0.2.4
 i2extras: 0.2.1
 iAR: 1.2.0
 iAdapt: 2.0.1
+iBART: 1.0.0
 iBATCGH: 1.3.1
 iBST: '1.2'
 iBUGS: 0.1.4
@@ -15379,7 +15384,7 @@ ifultools: 2.0-26
 ig: '1.2'
 ig.vancouver.2014.topcolour: 0.1.2.0
 igate: 0.3.3
-igcop: 1.0.1
+igcop: 1.0.2
 iglu: 3.5.0
 igoR: 0.1.5
 igraph: 1.5.1
@@ -15425,7 +15430,7 @@ imbalanceDatRel: 0.1.5
 imbibe: 0.1.1
 imcExperiment: 0.99.0
 imdbapi: 0.1.0
-imf.data: 0.1.0
+imf.data: 0.1.1
 imfr: 0.1.9.1
 imgpalr: 0.3.2
 imgrec: 0.1.3
@@ -15531,7 +15536,7 @@ infutil: '1.0'
 ingredients: 2.3.0
 ini: 0.3.1
 injectoR: 0.2.4
-injurytools: 1.0.2
+injurytools: 1.0.3
 inlabru: 2.10.0
 inlcolor: 1.0.5
 inldata: 1.0.3
@@ -15544,7 +15549,7 @@ ino: 1.0.2
 inops: 0.0.1
 inpdfr: 0.1.12
 inplace: 0.1.2
-insane: 1.0.2
+insane: 1.0.3
 insect: 1.4.2
 insectDisease: 1.2.2
 insee: 1.1.5
@@ -16831,7 +16836,7 @@ macleish: 0.3.9
 maclogp: 0.1.1
 macroBiome: 0.3.0
 macrocol: 0.1.0
-macrosyntR: 0.2.19
+macrosyntR: 0.3.3
 macs: '1.0'
 mactivate: 0.6.6
 maczic: 1.0.0
@@ -17350,6 +17355,7 @@ mfbvar: 0.5.6
 mfdb: 7.3-1
 mfe: 0.1.5
 mfp: 1.5.4
+mfp2: 1.0.0
 mfpp: 0.0.5
 mfr: '1.04'
 mfx: 1.2-2
@@ -18395,7 +18401,7 @@ netcox: 1.0.1
 netdep: 0.1.0
 netdiffuseR: 1.22.6
 netgen: 1.3.2
-netgsa: 4.0.4
+netgsa: 4.0.5
 netgwas: 1.14.2
 netie: '1.0'
 netjack: 1.2.0
@@ -18601,7 +18607,7 @@ noctua: 2.6.2
 nodbi: 0.9.8
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
-nodeSub: 1.2.7
+nodeSub: 1.2.8
 nodiv: 1.4.2
 nofrills: 0.3.2
 noia: 0.97.3
@@ -18642,7 +18648,7 @@ nontarget: '1.9'
 nontargetData: '1.1'
 nopaco: 1.0.7
 nopp: 1.1.2
-nor1mix: 1.3-0
+nor1mix: 1.3-2
 nord: 1.0.0
 nordklimdata1: '1.2'
 norgeo: 2.3.1
@@ -18722,7 +18728,7 @@ nproc: 2.1.5
 nprotreg: 1.1.1
 nprq: '0.63'
 npsf: 0.8.0
-npsm: 0.5.1
+npsm: 1.1.1
 npsp: 0.7-11
 npsr: 0.1.1
 npst: '2.0'
@@ -19584,7 +19590,7 @@ performance: 0.10.8
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 1.0.4
-periscope2: 0.1.3
+periscope2: 0.1.4
 perm: 1.0-0.4
 permChacko: 0.2.0
 permDep: 1.0.2
@@ -20408,7 +20414,7 @@ proxirr: '0.2'
 proxy: 0.4-27
 proxyC: 0.3.4
 prozor: 0.3.1
-prqlr: 0.5.4
+prqlr: 0.6.0
 prrd: 0.0.5
 prt: 0.2.0
 pryr: 0.1.6
@@ -21024,7 +21030,7 @@ rangemap: 0.1.18
 rangemodelR: 1.0.4
 ranger: 0.16.0
 rankFD: 0.1.1
-rankICC: 1.0.1
+rankICC: 1.0.2
 rankUncertainty: 1.0.2.0
 rankdifferencetest: '2021-11-25'
 rankdist: 1.1.4
@@ -21144,7 +21150,7 @@ rbvs: 1.0.2
 rbw: 0.3.2
 rcDEA: '1.0'
 rcage: '1.2'
-rcaiman: 1.1.2
+rcaiman: 1.2.2
 rcane: '1.0'
 rcanvec: 0.2.1
 rcarbon: 1.5.1
@@ -21358,7 +21364,7 @@ refdb: 0.1.1
 refer: 0.1.0
 referenceIntervals: 1.3.0
 refimpact: 1.0.0
-refineR: 1.6.0
+refineR: 1.6.1
 refinr: 0.3.3
 refitME: 1.2.2
 refnr: 0.1.0
@@ -21367,7 +21373,7 @@ refreshr: 0.1.0
 refset: 0.1.1
 refuge: 0.3.3
 refugees: 2023.6.0
-refund: 0.1-32
+refund: 0.1-33
 refund.shiny: '1.0'
 refund.wave: '0.1'
 regDIF: 1.1.0
@@ -21909,7 +21915,7 @@ robustcov: '0.1'
 robustfa: 1.1-0
 robustgam: 0.1.7
 robustlm: 0.1.0
-robustlmm: 3.2-3
+robustlmm: 3.2-5
 robustloggamma: 1.0-2.1
 robustmeta: 1.2-1
 robustrank: 2019.9-10
@@ -21939,7 +21945,7 @@ rodham: 0.1.1
 rofanova: 1.0.0
 roger: 1.5-1
 roistats: 0.1.1
-rolap: 2.3.0
+rolap: 2.4.0
 rolasized: '1.0'
 roll: 1.1.6
 rollRegres: 0.1.4
@@ -22742,7 +22748,7 @@ semEff: 0.6.1
 semGOF: 0.2-0
 semPLS: 1.0-10
 semPlot: 1.1.6
-semPower: 2.0.1
+semPower: 2.1.0
 semTable: '1.8'
 semTools: 0.5-6
 semantic.dashboard: 0.2.1
@@ -24569,6 +24575,7 @@ tensor: '1.5'
 tensorA: 0.36.2
 tensorBF: 1.0.2
 tensorBSS: 0.3.8
+tensorEVD: 0.1.0
 tensorFun: 0.1.1
 tensorTS: 1.0.1
 tensorflow: 2.14.0
