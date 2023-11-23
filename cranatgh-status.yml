@@ -1565,7 +1565,7 @@ DISTRIB: '1.0'
 DIZtools: 1.0.1
 DIZutils: 0.1.2
 DIconvex: 1.0.0
-DImodels: 1.2.1
+DImodels: '1.3'
 DIscBIO: 1.2.2
 DJL: '3.9'
 DLASSO: 2.0.2
@@ -1793,7 +1793,7 @@ Diderot: '0.13'
 DierckxSpline: 1.1-9
 Difdtl: '2.0'
 DiffCorr: 0.4.3
-DiffNet: 1.0-0
+DiffNet: 1.0.2
 DiffXTables: 0.1.3
 DiffusionRgqd: 0.1.3
 DiffusionRimp: 0.1.2
@@ -2488,7 +2488,7 @@ FuzzyNumbers.Ext.2: '3.2'
 FuzzyPovertyR: 1.1.0
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
-FuzzyResampling: 0.6.2
+FuzzyResampling: 0.6.3
 FuzzySTs: '0.2'
 FuzzySimRes: 0.3.0
 FuzzyStatProb: 2.0.4
@@ -2586,7 +2586,7 @@ GGMridge: '1.3'
 GGMselect: 0.1-12.7
 GGRidge: 1.1.0
 GGUM: '0.5'
-GGally: 2.1.2
+GGally: 2.2.0
 GGoutlieR: 1.0.2
 GHQp: '1.0'
 GHS: '0.1'
@@ -2857,6 +2857,7 @@ GoogleKnowledgeGraphR: 0.1.0
 Goslate: '1.0'
 Gotoh: '0.9'
 GpGp: 0.4.0
+GrFA: 0.1.0
 Grace: 0.5.3
 GramQuad: 0.1.1
 GrammR: 1.1.0
@@ -3081,6 +3082,7 @@ HotellingEllipse: 1.1.0
 HumMeth27QCReport: 1.2.14
 HuraultMisc: 1.1.1
 HurreconR: '1.1'
+HyMETT: 1.1.2
 HyPhy: '1.0'
 HyRiM: 2.0.2
 HybridDesign: '1.0'
@@ -5278,6 +5280,7 @@ PolycrossDesigns: 1.1.0
 PolygonSoup: 1.0.1
 PolynomF: 2.0-5
 Pomic: 1.0.4
+PoolBal: 0.1-0
 PoolDilutionR: 1.0.0
 PoolTestR: 0.1.3
 PooledCohort: 0.0.1
@@ -5331,7 +5334,7 @@ PriceIndices: 0.1.8
 PriorCD: 0.1.0
 PriorGen: '2.0'
 PrivateLR: 1.2-22
-ProAE: 0.2.12
+ProAE: 0.2.15
 ProDenICA: '1.1'
 ProFAST: '1.2'
 ProFit: 1.3.3
@@ -7332,6 +7335,7 @@ StatPerMeCo: 0.1.0
 StatRank: 0.0.6
 StatTeacherAssistant: 0.0.1
 Statamarkdown: 0.8.0
+StateLevelForest: 0.1.0
 StateTrace: 1.0-4
 Statomica: '1.0'
 Statsomat: 1.1.0
@@ -8396,7 +8400,7 @@ agridat: '1.22'
 agrifeature: 1.0.3
 agriutilities: 1.1.0
 agriwater: 1.0.2
-agrmt: 1.42.8
+agrmt: 1.42.12
 agroclim: 0.3.0
 agrostab: 0.1.0
 ags: 1.0.1
@@ -8777,7 +8781,7 @@ assertive.reflection: 0.0-5
 assertive.sets: 0.0-3
 assertive.strings: 0.0-3
 assertive.types: 0.0-3
-assertr: 3.0.0
+assertr: 3.0.1
 assertthat: 0.2.1
 assignPOP: 1.2.4
 assignR: 2.4.0
@@ -10644,7 +10648,7 @@ con2aqi: 0.1.0
 con2lki: 0.1.0
 conStruct: 1.0.5
 conText: 1.4.3
-conTree: '0.3'
+conTree: 0.3-1
 concatenate: 1.0.0
 concatipede: 1.0.1
 concaveman: 1.1.0
@@ -11305,7 +11309,7 @@ dataQualityR: '1.0'
 dataReporter: 1.0.2
 dataRetrieval: 2.7.14
 dataSDA: 0.1.0
-databraryr: 0.5.0
+databraryr: 0.5.1
 datacheck: 1.2.2
 datacheckr: 0.2.0
 dataclass: 0.3.0
@@ -12479,7 +12483,7 @@ energyr: 0.1.2
 enerscape: 1.0.0
 enetLTS: 1.1.0
 english: 1.2-6
-engression: 0.1.3
+engression: 0.1.4
 engsoccerdata: 0.1.5
 enigma: 0.3.0
 enmSdmX: 1.1.2
@@ -13464,6 +13468,7 @@ fptdApprox: '2.5'
 fqacalc: 1.1.0
 fqadata: 1.1.0
 fqar: 0.4.3
+fr: 0.5.0
 frab: 0.0-3
 fracdiff: 1.5-2
 fracdist: 0.1.1
@@ -13858,7 +13863,7 @@ gems: 1.1.1
 gemtc: 1.0-2
 gemtc.jar: 0.14.3
 gen2stage: '1.0'
-gen3sis: '1.4'
+gen3sis: 1.5.11
 gen5helper: 1.0.1
 genBaRcode: 1.2.6
 genBart: 1.0.1
@@ -14375,9 +14380,9 @@ glmmSeq: 0.5.5
 glmmTMB: 1.1.8
 glmmboot: 0.6.0
 glmmfields: 0.1.8
-glmmrBase: 0.4.6
+glmmrBase: 0.5.2
 glmmrMCML: 0.2.2
-glmmrOptim: 0.3.2
+glmmrOptim: 0.3.3
 glmmsr: 0.2.3
 glmnet: 4.1-8
 glmnetSE: 0.0.1
@@ -14667,7 +14672,7 @@ groupr: 0.1.2
 groupsubsetselection: 1.0.3
 groupwalk: 0.1.2
 grove: '1.1'
-growR: 1.0.0
+growR: 1.1.0
 growcurves: 0.2.4.1
 growfunctions: '0.15'
 growth: 1.1.1
@@ -15149,7 +15154,7 @@ htmldf: 0.6.0
 htmltab: 0.8.2
 htmltidy: 0.5.0
 htmltools: 0.5.7
-htmlwidgets: 1.6.2
+htmlwidgets: 1.6.3
 htree: 2.0.0
 hts: 6.0.2
 htsr: 2.1.2
@@ -15864,7 +15869,7 @@ jacpop: '0.6'
 jadeLizardOptions: 1.0.1
 jaggR: 0.1.1
 jagsUI: 1.5.2
-jagshelper: 0.1.11
+jagshelper: 0.2.0
 jagstargets: 1.1.0
 jalcal: 0.1.0
 james.analysis: 1.0.1
@@ -15911,7 +15916,7 @@ jmetrik: '1.1'
 jmotif: 1.1.1
 jmuOutlier: '2.2'
 jmv: 2.4.11
-jmvReadWrite: 0.4.1
+jmvReadWrite: 0.4.2
 jmvconnect: 2.3.13
 jmvcore: 2.4.7
 job: 0.3.0
@@ -17886,7 +17891,7 @@ mopa: 1.0.1
 mopac: 0.1.0
 mopsocd: 0.5.1
 moranajp: 0.9.6
-moreparty: 0.3.3
+moreparty: '0.4'
 morestopwords: 0.2.0
 morf: 1.0.0
 morgenstemning: '1.0'
@@ -19232,7 +19237,7 @@ pMineR: '0.31'
 pRF: '1.2'
 pROC: 1.18.5
 pRSR: 3.1.1
-pRecipe: 3.0.1-1
+pRecipe: 3.0.1-2
 pRepDesigns: 1.1.0
 pSI: '1.1'
 pTITAN2: 1.0.2
@@ -20082,7 +20087,7 @@ polydect: 0.1-2
 polyfreqs: 1.0.2
 polyglot: 0.3.0
 polyglotr: 1.2.2
-polyhedralCubature: 1.0.0
+polyhedralCubature: 1.1.0
 polylabelr: 0.2.0
 polymapR: 1.1.4
 polymars: 1.0-5
@@ -20137,7 +20142,7 @@ poppr: 2.9.4
 popprxl: 0.1.4
 popsom: '6.0'
 popstudy: 1.0.1
-poptrend: 0.1.0
+poptrend: 0.2.0
 populR: 0.2.1
 population: '0.3'
 populationPDXdesign: 1.0.3
@@ -20533,6 +20538,7 @@ ptycho: 1.1-4
 pubchunks: 0.3.0
 pubh: 1.3.1
 public.ctn0094data: 1.0.6
+public.ctn0094extra: 1.0.4
 publipha: 0.1.2
 pubmed.mineR: 1.0.19
 pubmedR: 0.0.3
@@ -21486,7 +21492,7 @@ remap: 0.3.1
 rematch: 2.0.0
 rematch2: 2.1.2
 remedy: 0.1.0
-remify: 3.2.0
+remify: 3.2.2
 remindR: 0.0.1
 remiod: 1.0.2
 remix: '2.1'
@@ -21538,7 +21544,7 @@ representr: 0.1.5
 represtools: 0.1.3
 reprex: 2.0.2
 reproducer: 0.5.3
-reproducible: 2.0.9
+reproducible: 2.0.10
 reproj: 0.4.3
 repsd: 1.0.1
 repurrrsive: 1.1.0
@@ -21615,7 +21621,7 @@ revulyticsR: 0.0.3
 reweight: 1.2.1
 rewie: 0.1.0
 rex: 1.2.1
-rexpokit: 0.26.6.12
+rexpokit: 0.26.6.14
 rextendr: 0.3.1
 rfPermute: 2.5.2
 rfUtilities: 2.1-5
@@ -23093,7 +23099,7 @@ showtextdb: '3.0'
 shp2graph: 0-5
 shrink: 1.2.3
 shrinkDSM: 0.2.0
-shrinkTVP: 2.0.6
+shrinkTVP: 2.1.1
 shroomDK: 0.2.2
 shuffle: 1.0.1
 shuffleCI: 0.1.0
@@ -24359,7 +24365,7 @@ svgPanZoom: 0.3.4
 svgViewR: 1.4.3
 svglite: 2.1.2
 svgtools: 1.1.0
-svines: 0.2.0
+svines: 0.2.1
 svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
@@ -24928,7 +24934,7 @@ tinysnapshot: 0.0.3
 tinyspotifyr: 0.2.2
 tinytest: 1.4.1
 tinytest2JUnit: 1.0.1
-tinytex: '0.48'
+tinytex: '0.49'
 tinytiger: 0.0.8
 tiobeindexr: 0.1.1
 tip: 0.1.0
@@ -25757,7 +25763,7 @@ vmsbase: 2.2.1
 vmv: '1.0'
 vntrs: 0.1.0
 vocaldia: 0.8.4
-voi: '1.0'
+voi: 1.0.1
 voice: 0.4.21
 voiceR: 0.1.0
 vol2birdR: 1.0.1
