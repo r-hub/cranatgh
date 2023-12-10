@@ -431,7 +431,7 @@ BGData: 2.4.1
 BGFD: '0.1'
 BGGE: 0.6.5
 BGGM: 2.0.4
-BGLR: 1.1.0
+BGLR: 1.1.1
 BGPhazard: 2.1.1
 BGSIMD: '1.0'
 BGVAR: 2.5.3
@@ -1312,7 +1312,7 @@ Compind: 2.9.1
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
-Compositional: '6.5'
+Compositional: '6.6'
 CompoundEvents: 0.2.0
 Compounding: 1.0.2
 ConConPiWiFun: 0.4.6.1
@@ -1513,7 +1513,7 @@ DCluster: 0.2-9
 DClusterm: 1.0-1
 DDD: 5.2.2
 DDHFm: 1.1.3
-DDIwR: '0.16'
+DDIwR: '0.17'
 DDL: 1.0.2
 DDM: 1.0-0
 DDPGPSurv: '1.0'
@@ -1648,13 +1648,13 @@ DSOpal: 1.4.0
 DSSAT: 0.0.8
 DSSP: 0.1.1
 DSWE: 1.6.3
-DSjobtracker: 0.1.1
+DSjobtracker: 2.0.0
 DSpat: 0.1.6
 DSpoty: 0.1.0
 DSsim: 1.1.5
 DStree: '1.0'
 DSviaDRM: '1.0'
-DT: '0.30'
+DT: '0.31'
 DTAT: 0.3-6
 DTAXG: 0.1.0
 DTAplots: 1.0.2.5
@@ -1810,7 +1810,7 @@ Dire: 2.2.0
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
-Directional: '6.3'
+Directional: '6.4'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.21
@@ -3084,7 +3084,7 @@ Holidays: 1.0-7
 Holomics: 1.0.0
 Homeric: 0.1-3
 HomoPolymer: '1.0'
-HomomorphicEncryption: 0.2.0
+HomomorphicEncryption: 0.3.0
 HospitalNetwork: 0.9.3
 HostSwitch: 0.1.3
 HotDeckImputation: 1.1.0
@@ -4102,7 +4102,7 @@ MRMR: 0.1.4
 MRPC: 3.1.0
 MRQoL: '1.0'
 MRReg: 0.1.5
-MRS: 1.2.4
+MRS: 1.2.5
 MRSP: 0.4.3
 MRTAnalysis: 0.1.2
 MRTSampleSize: 0.3.0
@@ -6263,7 +6263,7 @@ RcppHMM: 1.2.2
 RcppHNSW: 0.5.0
 RcppHoney: 0.1.7
 RcppHungarian: '0.3'
-RcppInt64: 0.0.3
+RcppInt64: 0.0.4
 RcppJagger: 0.0.2
 RcppML: 0.3.7
 RcppMLPACK: 1.0.10-7
@@ -9332,7 +9332,7 @@ bigQueryR: 0.5.0
 bigRR: 1.3-10
 bigReg: 0.1.2
 bigSurvSGD: 0.0.1
-bigalgebra: 1.1.0
+bigalgebra: 1.1.1
 biganalytics: 1.1.21
 bigassertr: 0.1.6
 bigchess: 1.9.1
@@ -10033,7 +10033,7 @@ ccafs: 0.3.0
 ccboost: 0.1-1.3
 cccd: '1.6'
 cccm: 0.1.0
-cccp: 0.2-9
+cccp: 0.3-1
 cccrm: 2.2.0
 ccda: 1.1.1
 ccdf: 1.1.4
@@ -10066,7 +10066,7 @@ cdcsis: 2.0.3
 cde: 0.4.1
 cder: 0.3-1
 cdfquantreg: 1.3.1-2
-cdgd: 0.3.2
+cdgd: 0.3.3
 cdlTools: '0.15'
 cdlei: '1.0'
 cdmTools: 1.0.4
@@ -10466,7 +10466,7 @@ cmce: 0.1.0
 cmdfun: 1.0.2
 cmenet: 0.1.2
 cmfilter: 0.9.1
-cmfrec: 3.5.1-2
+cmfrec: 3.5.1-3
 cmhc: 0.2.6
 cml: 0.2.2
 cmm: '1.0'
@@ -13544,7 +13544,7 @@ frapplot: 0.1.3
 frbf: 1.0.1
 frbinom: 1.0.0
 frbs: 3.2-0
-frechet: 0.2.0
+frechet: 0.3.0
 fredr: 2.1.0
 free: 1.0.1
 freealg: 1.1-1
@@ -13886,7 +13886,7 @@ gdor: 0.1-1
 gdpc: 1.1.4
 gds: 0.1.1
 gdsfmt: 1.1.0.1
-gdtools: 0.3.4
+gdtools: 0.3.5
 gdxdt: 0.1.0
 gear: 0.3.4
 gearman: 0.1-5
@@ -14217,7 +14217,7 @@ ggimg: 0.1.2
 gginference: 0.1.3
 gginnards: 0.1.2
 ggip: 0.3.2
-ggiraph: 0.8.7
+ggiraph: 0.8.8
 ggiraphExtra: 0.3.0
 ggisotonic: 0.1.2
 ggjoy: 0.4.1
@@ -15239,7 +15239,7 @@ hurdlr: '0.1'
 hurricaneexposure: 0.1.1
 hutils: 1.8.1
 hutilscpp: 0.10.4
-huxtable: 5.5.2
+huxtable: 5.5.3
 hwde: 0.67-3
 hwep: 2.0.2
 hwig: 0.0.2
@@ -15607,7 +15607,7 @@ influence.ME: 0.9-9
 influence.SEM: '2.3'
 influenceAUC: 0.1.2
 influenceR: 0.1.5
-influential: 2.2.8
+influential: 2.2.9
 influxdbclient: 0.1.2
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
@@ -17055,7 +17055,7 @@ margaret: 0.1.4
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
-marginaleffects: 0.16.0
+marginaleffects: 0.17.0
 marginalizedRisk: 2021.2-4
 marginalmodelplots: 0.4.2
 margins: 0.3.26
@@ -18273,7 +18273,7 @@ mvLSW: 1.2.5
 mvLSWimpute: 0.1.1
 mvMAPIT: 2.0.3
 mvMISE: '1.0'
-mvMORPH: 1.1.8
+mvMORPH: 1.1.9
 mvMonitoring: 0.2.4
 mvPot: 0.1.6
 mvProbit: 0.1-10
@@ -18545,7 +18545,7 @@ neurovault: 0.5.5
 neutralitytestr: 0.0.3
 nevada: 0.2.0
 neverhpfilter: 0.4-0
-new.dist: 0.1.0
+new.dist: 0.1.1
 newFocus: '1.1'
 newTestSurvRec: 1.0.2
 newallelic: '0.1'
@@ -20051,7 +20051,7 @@ plumber: 1.2.1
 plumberDeploy: 0.2.1
 plumbertableau: 0.1.0
 plumbr: 0.6.10
-plume: 0.2.0
+plume: 0.2.1
 pluralize: 0.2.0
 plus: '1.0'
 pluscode: 0.1.0
@@ -21209,7 +21209,7 @@ rawFasta: 1.0.0
 rawKS: 0.1.0
 rawr: 0.1.3
 raws.profile: 0.1.0
-rayimage: 0.9.1
+rayimage: 0.10.0
 raymolecule: 0.5.0
 rayrender: 0.29.6
 rayshader: 0.35.7
