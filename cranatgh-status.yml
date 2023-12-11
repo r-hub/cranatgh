@@ -182,6 +182,7 @@ AbSim: 0.2.6
 AbsFilterGSEA: 1.5.1
 Ac3net: 1.2.2
 AcademicThemes: 0.0.1
+AccelStab: 1.0.0
 AcceptanceSampling: 1.0-10
 Ace: 0.0.8
 Achilles: 1.7.2
@@ -538,6 +539,7 @@ BTSR: 0.1.5
 BTYD: 2.4.3
 BTYDplus: 1.2.0
 BTdecayLasso: 0.1.1
+BTtest: '0.10'
 BUCSS: 1.2.1
 BVAR: 1.0.4
 BVARverse: 0.0.1
@@ -596,7 +598,7 @@ BayesDissolution: 0.1.0
 BayesESS: 0.1.19
 BayesFM: 0.1.5
 BayesFactor: 0.9.12-4.6
-BayesFluxR: 0.1.2
+BayesFluxR: 0.1.3
 BayesGESM: '1.4'
 BayesGOF: '5.2'
 BayesGPfit: 1.1.0
@@ -5029,7 +5031,7 @@ PMA: 1.2-2
 PMA2: '2.1'
 PMAPscore: 0.1.1
 PMCMR: '4.4'
-PMCMRplus: 1.9.9
+PMCMRplus: 1.9.10
 PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.19-3
@@ -5274,7 +5276,7 @@ PlotTools: 0.3.0
 PoA: 1.2.1
 PoDBAY: 1.4.3
 PoMoS: 1.1.1
-PoPdesign: 1.0.3
+PoPdesign: 1.0.4
 PoSI: '1.1'
 PogromcyDanych: 1.7.1
 PoiClaClu: 1.0.2.1
@@ -5599,7 +5601,7 @@ RCCPCA: 0.1.0
 RCDT: 1.3.0
 RCEIM: '0.3'
 RCGLS: 1.0.3
-RCLabels: 0.1.7
+RCLabels: 0.1.8
 RCMIP5: 1.2.0
 RCMinification: '1.2'
 RCPA: 0.2.1
@@ -6227,7 +6229,7 @@ Rcplex: 0.3-6
 Rcpp: 1.0.11
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
-RcppAlgos: 2.8.2
+RcppAlgos: 2.8.3
 RcppAnnoy: 0.0.21
 RcppArmadillo: 0.12.6.6.1
 RcppArray: 0.3.0
@@ -6468,7 +6470,7 @@ Rmagic: 2.0.3
 Rmalschains: 0.2-10
 RmarineHeatWaves: 0.17.0
 Rmbal: 0.1.0
-RmdConcord: 0.2.0
+RmdConcord: '0.3'
 Rmdr: 0.1-1.1
 RmecabKo: 0.1.6.2
 Rmetrics: '260.72'
@@ -8819,7 +8821,7 @@ assignR: 2.4.0
 assist: 3.1.9
 assocInd: 1.0.1
 assortnet: '0.20'
-ast2ast: 0.3.1
+ast2ast: 0.3.2
 asteRisk: 1.4.3
 aster: 1.1-2
 aster2: '0.3'
@@ -9718,7 +9720,7 @@ bridger2: 0.1.0
 bridgesampling: 1.1-2
 brif: 1.4.1
 brinton: 0.2.7
-brio: 1.1.3
+brio: 1.1.4
 briqr: 0.1.0
 brisk: 0.1.0
 briskaR: 1.0.4
@@ -10418,7 +10420,7 @@ clustAnalytics: 0.5.4
 clustDRM: 0.1-0
 clustEff: 0.3.0
 clustMD: 1.2.1
-clustMixType: 0.3-9
+clustMixType: 0.3-14
 clustNet: 1.1.0
 clustRcompaR: 0.2.0
 clustTool: 1.6.5
@@ -11027,7 +11029,7 @@ cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
 crew: 0.6.0
-crew.cluster: 0.1.3
+crew.cluster: 0.1.4
 crfsuite: 0.4.2
 cricketdata: 0.2.3
 cricketr: 0.0.26
@@ -11615,7 +11617,7 @@ depth.plot: '0.1'
 depthTools: '0.7'
 dequer: 2.0-2
 derivmkts: 0.2.5
-desc: 1.4.2
+desc: 1.4.3
 descomponer: '1.6'
 descr: 1.1.8
 describedata: 0.1.0
@@ -13368,11 +13370,12 @@ flipdownr: 0.1.1
 flippant: 1.5.4
 flipr: 0.3.3
 flipscores: 1.2.0
-float: 0.3-1
+float: 0.3-2
 flobr: 0.2.3
 flock: '0.7'
 flood: 0.1.1
 flora: 0.3.4
+florabr: 1.0.1
 florestal: 0.1.3
 flow: 0.2.0
 flowDiv: '2.0'
@@ -13478,7 +13481,7 @@ formatR: '1.14'
 formatdown: 0.1.2
 formattable: 0.2.1
 formatters: 0.5.5
-formods: 0.1.2
+formods: 0.1.3
 formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
@@ -14091,12 +14094,12 @@ getCRUCLdata: 0.3.2
 getDTeval: 0.0.2
 getLattes: 0.2.0
 getMet: 0.3.2
-getPass: 0.2-2
+getPass: 0.2-4
 getProxy: '1.13'
 getTBinR: 0.7.1
 getable: 1.0.3
 gethr: 0.1.0
-getip: 0.1-3
+getip: 0.1-4
 getlandsat: 0.2.0
 getmstatistic: 0.2.2
 getopt: 1.20.4
@@ -14301,7 +14304,7 @@ ggseg3d: 1.6.3
 ggseqlogo: '0.1'
 ggseqplot: 0.8.3
 ggshadow: 0.0.5
-ggside: 0.2.2
+ggside: 0.2.3
 ggsignif: 0.6.4
 ggsn: 0.5.0
 ggsoccer: 0.1.7
@@ -14402,7 +14405,7 @@ gld: 2.6.6
 gldist: '2160.2'
 gldrm: '1.5'
 glinternet: 1.0.12
-glinvci: 1.2.1
+glinvci: 1.2.2
 gllm: '0.38'
 gllvm: 1.4.3
 glm.ddR: 0.1.1
@@ -14724,7 +14727,7 @@ groupedstats: 2.1.0
 groupr: 0.1.2
 groupsubsetselection: 1.0.3
 groupwalk: 0.1.2
-grove: '1.1'
+grove: 1.1.1
 growR: 1.1.0
 growcurves: 0.2.4.1
 growfunctions: '0.15'
@@ -16123,7 +16126,7 @@ keyholder: 0.1.7
 keyperm: 0.1.1
 keyplayer: 1.0.4
 keypress: 1.3.0
-keyring: 1.3.1
+keyring: 1.3.2
 keyringr: 0.4.0
 keys: 0.1.1
 kfa: 0.2.2
@@ -16799,7 +16802,7 @@ lossDev: 3.0.0-4
 lotri: 0.4.3
 lowmemtkmeans: 0.1.2
 lowpassFilter: 1.0-2
-lpSolve: 5.6.19
+lpSolve: 5.6.20
 lpSolveAPI: 5.5.2.0-17.11
 lpacf: 1.0.1
 lpbrim: 1.0.0
@@ -17133,7 +17136,7 @@ matrixprofiler: 0.1.9
 matrixsampling: 2.0.0
 matrixset: 0.2.0
 matsbyname: 0.6.7
-matsindf: 0.4.5
+matsindf: 0.4.6
 matuR: 0.0.1.0
 mau: 0.1.2
 mauricer: 2.5.2
@@ -17261,7 +17264,7 @@ mdthemes: 0.1.0
 mdw: 2020.6-17
 meaRtools: 1.0.4
 meanShiftR: '0.56'
-meanr: 0.1-5
+meanr: 0.1-6
 meanscore: 1.0-6
 meantables: 0.1.2
 measr: 0.3.1
@@ -17312,7 +17315,7 @@ meme: 0.2.3
 memery: 0.5.7
 memgene: 1.0.2
 memify: 0.1.1
-memisc: 0.99.31.6
+memisc: 0.99.31.7
 memnet: 0.1.0
 memo: '1.1'
 memochange: 1.1.1
@@ -17548,7 +17551,7 @@ miic: 1.5.3
 mikropml: 1.6.1
 mildsvm: 0.4.0
 milonga: '1.0'
-milorGWAS: '0.3'
+milorGWAS: '0.6'
 milr: 0.3.1
 mimR: 2.6.2
 mime: '0.12'
@@ -18518,7 +18521,7 @@ netweavers: '1.1'
 network: 1.18.2
 networkABC: 0.8-1
 networkD3: '0.4'
-networkDynamic: 0.11.3
+networkDynamic: 0.11.4
 networkDynamicData: 0.2.1
 networkGen: 0.1.1
 networkLite: 1.0.5
@@ -18566,7 +18569,7 @@ nflverse: 1.0.3
 nftbart: '2.1'
 nga: 1.4-1
 ngboostForecast: 0.1.1
-ngram: 3.2.2
+ngram: 3.2.3
 ngramr: 1.9.3
 ngramrr: 0.2.0
 ngspatial: 1.2-2
@@ -19349,7 +19352,7 @@ pairsD3: 0.1.3
 pairwise: 0.6.1-0
 pairwiseCI: 0.1-27
 pairwiseComparisons: 3.2.0
-pak: 0.7.0
+pak: 0.7.1
 palaeoSig: 2.1-3
 palaeoverse: 1.2.1
 palasso: 0.0.8
@@ -19429,7 +19432,7 @@ paramsim: 0.1.0
 paramtest: 0.1.0
 paran: 1.5.2
 parboost: 0.1.4
-parcats: 0.0.4
+parcats: 0.0.5
 parcoords: 1.0.0
 parcor: 0.2-6
 parfm: 2.7.7
@@ -19538,7 +19541,7 @@ pbcc: 0.0.4
 pbdBASE: 0.5-3
 pbdDEMO: 0.3-1
 pbdDMAT: 0.5-1
-pbdMPI: 0.5-0
+pbdMPI: 0.5-1
 pbdNCDF4: 0.1-4
 pbdPROF: 0.4-0
 pbdRPC: 0.2-1
@@ -19886,7 +19889,7 @@ pimeta: 1.1.3
 pinbasic: 1.2.2
 pinfsc50: 1.3.0
 pingers: 0.1.1
-pingr: 2.0.2
+pingr: 2.0.3
 pinktoe: '2.0'
 pinnacle.API: 2.3.3
 pinnacle.data: 0.1.4
@@ -19925,13 +19928,13 @@ pk4adi: 0.1.3.2
 pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgKitten: 0.2.3
-pkgbuild: 1.4.2
-pkgcache: 2.2.0.1
+pkgbuild: 1.4.3
+pkgcache: 2.2.1
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
-pkgdepends: 0.7.0
+pkgdepends: 0.7.1
 pkgdown: 2.0.7
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
@@ -19941,7 +19944,7 @@ pkgmaker: 0.32.10
 pkgndep: 1.99.3
 pkgnet: 0.4.2
 pkgnews: 0.0.2
-pkgsearch: 3.1.2
+pkgsearch: 3.1.3
 pkgstats: 0.1.1
 pkgutils: 0.6.0
 pkgverse: 0.0.1
@@ -20000,7 +20003,7 @@ plot.matrix: 1.6.2
 plot2groups: '0.10'
 plot3D: '1.4'
 plot3Drgl: 1.0.4
-plot3logit: 3.1.3
+plot3logit: 3.1.4
 plotAndPlayGTK: 0.8.78
 plotBart: 0.1.7
 plotDK: 0.1.0
@@ -20434,7 +20437,7 @@ processdata: 0.8.2
 processmapR: 0.5.3
 processmonitR: 0.1.0
 processpredictR: 0.1.0
-processx: 3.8.2
+processx: 3.8.3
 procmaps: 0.0.5
 procs: 1.0.3
 prodest: 1.0.1
@@ -20609,6 +20612,7 @@ public.ctn0094extra: 1.0.4
 publipha: 0.1.2
 pubmed.mineR: 1.0.19
 pubmedR: 0.0.3
+pubmedtk: 1.0.1
 pubprint: 0.2.1
 pubtatordb: 0.1.4
 pullword: '0.3'
@@ -21211,10 +21215,10 @@ rawr: 0.1.3
 raws.profile: 0.1.0
 rayimage: 0.10.0
 raymolecule: 0.5.0
-rayrender: 0.29.6
+rayrender: 0.31.2
 rayshader: 0.35.7
 raytracing: 0.6.0
-rayvertex: 0.7.9
+rayvertex: 0.10.3
 rb3: 0.0.10
 rbace: 0.2.2
 rbacon: 3.2.0
@@ -22189,7 +22193,7 @@ rqmcmb2: 1.0.2-1
 rquery: 1.4.99
 rr: 1.4.1
 rr2: 1.1.1
-rrBLUP: 4.6.2
+rrBLUP: 4.6.3
 rrBlupMethod6: '1.3'
 rrMixture: 0.1-2
 rrandvec: 1.0.0
@@ -22435,7 +22439,7 @@ rxivistr: 0.1.1
 rxode2: 2.0.14
 rxode2et: 2.0.10
 rxode2ll: 2.0.11
-rxode2parse: 2.0.16
+rxode2parse: 2.0.17
 rxode2random: 2.0.11
 rxylib: 0.2.12
 ryandexdirect: 3.6.2
@@ -22446,7 +22450,7 @@ rytstat: 0.3.0
 rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.12
-s2: 1.1.4
+s2: 1.1.5
 s20x: 3.1-40
 s2dv: 2.0.0
 s2dverification: 2.10.3
@@ -23124,6 +23128,7 @@ shinycssloaders: 1.0.0
 shinycustomloader: 0.9.0
 shinydashboard: 0.7.2
 shinydashboardPlus: 2.0.3
+shinydbauth: 1.0.0.1
 shinydisconnect: 0.1.1
 shinydlplot: 0.1.4
 shinydrive: 0.1.3
@@ -24498,7 +24503,7 @@ sybilEFBA: 1.0.2
 sybilSBML: 3.1.2
 sybilccFBA: 3.0.1
 sybilcycleFreeFlux: 2.0.2
-sylcount: 0.2-5
+sylcount: 0.2-6
 syllabifyr: 0.1.1
 syllable: 0.1.3
 syllogi: 1.0.1
@@ -25756,7 +25761,7 @@ vermeulen: 0.1.1
 versioning: 0.1.0
 versions: '0.3'
 versionsort: 1.1.0
-versus: 0.1.0
+versus: 0.2.0
 vertexenum: 1.0.2
 vesselr: 0.2.1
 vetiver: 0.2.5
@@ -25860,7 +25865,7 @@ vortexR: 1.1.7
 vortexRdata: 1.0.5
 voson.tcn: 0.5.0
 vosonSML: 0.32.7
-vote: 2.3-2
+vote: 2.4-3
 voteSim: 0.1.0
 voteogram: 0.3.2
 votesmart: 0.1.2
