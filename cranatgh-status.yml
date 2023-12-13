@@ -2768,7 +2768,7 @@ GenHMM1d: 0.1.0
 GenKern: 1.2-60
 GenMarkov: 0.1.0
 GenOrd: 1.4.0
-GenSA: 1.1.10.1
+GenSA: 1.1.12
 GenTag: '1.0'
 GenTwoArmsTrialSize: 0.0.4.5
 GenWin: '1.0'
@@ -3208,7 +3208,7 @@ IMAGE: '1.0'
 IMD: 1.2.2
 IMEC: 0.2.0
 IMFData: 0.2.0
-IMIFA: 2.1.10
+IMIFA: 2.2.0
 IMIS: '0.1'
 IMIX: 1.1.5
 IMP: '1.1'
@@ -3558,6 +3558,7 @@ LARGB: 0.1.0
 LARisk: 1.0.0
 LAWBL: 1.5.0
 LBC: '1.0'
+LBI: 0.1.0
 LBLGXE: '1.4'
 LBPG: 0.1.2
 LBSPR: 0.1.6
@@ -3924,7 +3925,7 @@ MDimNormn: 0.8.0
 MDplot: 1.0.1
 MED: 0.1.0
 MEDITS: 0.1.7
-MEDseq: 1.4.0
+MEDseq: 1.4.1
 MEET: 5.1.1
 MEGENA: 1.3.7
 MEMSS: 0.9-3
@@ -3936,6 +3937,7 @@ MEclustnet: 1.2.2
 MEtest: '1.1'
 MExPosition: 2.0.3
 MF: 4.3.2
+MF.beta4: 1.0.0
 MFAg: '1.9'
 MFDA: 1.1-4
 MFDF: 0.0-2
@@ -4612,7 +4614,7 @@ NPMLEmix: '1.2'
 NPMOD: 0.1.0
 NPMPM: '1.0'
 NPMVCP: '1.1'
-NPP: 0.5.0
+NPP: 0.6.0
 NPRED: 1.0.7
 NPS: '1.1'
 NPflow: 0.13.3
@@ -4724,7 +4726,7 @@ Numero: 1.9.5
 NutrienTrackeR: 1.3.0
 OAIHarvester: 0.3-4
 OBASpatial: '1.9'
-OBIC: 3.0.0
+OBIC: 3.0.1
 OBL: 0.2.1
 OBMbpkg: 1.0.0
 OBRE: 0.2-0
@@ -5401,7 +5403,7 @@ PsyControl: 1.0.0.0
 PsychWordVec: '2023.9'
 PtProcess: 3.3-16
 PubBias: '1.0'
-PubChemR: 0.99-1
+PubChemR: 1.0.1
 PubMedMining: 1.0.0
 PubMedWordcloud: 0.3.6
 PublicationBias: 2.4.0
@@ -5665,7 +5667,7 @@ REFA: 0.1.0
 REGENT: 1.0.6
 REIDS: 0.1.0
 REPLesentR: 0.4.1
-REPPlab: 0.9.4
+REPPlab: 0.9.6
 REPPlabShiny: 0.4.2
 REPTILE: '1.0'
 REQS: 0.8-13
@@ -6851,6 +6853,7 @@ SMPracticals: 1.4-3
 SMR: 2.1.0
 SMUT: '1.1'
 SMVar: 1.3.4
+SNBdata: 0.2.1
 SNFtool: 2.3.1
 SNPMClust: '1.3'
 SNPMaP: 1.1.1
@@ -7543,7 +7546,7 @@ TKF: 0.0.8
 TLBC: '1.0'
 TLMoments: 0.7.5.3
 TLdating: 0.1.3
-TMB: 1.9.9
+TMB: 1.9.10
 TMDb: '1.1'
 TML: 1.1.0
 TMTI: 1.0.1
@@ -7667,6 +7670,7 @@ TargomoR: 0.2.0
 Tariff: 1.0.5
 TauP.R: '1.5'
 TauStar: 1.1.4
+TaxaNorm: '2.4'
 TaxicabCA: 0.1.1
 Taxonstand: '2.4'
 TaylorRussell: 1.2.1
@@ -8318,6 +8322,7 @@ adaptr: 1.3.2
 adaptsmoFMRI: '1.2'
 adass: 1.0.0
 adbcdrivermanager: 0.8.0
+adbcpostgresql: 0.8.0.1
 adbcsqlite: 0.8.0
 adbi: 0.0.2
 adc: 1.0.0
@@ -8615,7 +8620,7 @@ anonymizer: 0.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
 ant: 0.0-10
-antaresEditObject: 0.6.0
+antaresEditObject: 0.6.1
 antaresProcessing: 0.18.1
 antaresRead: 2.6.0
 antaresViz: 0.18.0
@@ -8969,7 +8974,7 @@ baRulho: 1.0.6
 babar: '1.0'
 babel: 0.3-0
 babelgene: '22.9'
-babelmixr2: 0.1.1
+babelmixr2: 0.1.2
 babelwhale: 1.2.0
 babette: 2.3.3
 babsim.hospital: 11.8.8
@@ -9198,7 +9203,7 @@ bdl: 1.0.5
 bdlp: 0.9-2
 bdoc: '1.2'
 bdots: 1.2.5
-bdpar: 3.0.3
+bdpar: 3.1.0
 bdpopt: 1.0-1
 bdpv: '1.3'
 bdrc: 1.1.0
@@ -9318,7 +9323,7 @@ biclique: 1.0.5
 biclust: 2.0.3.1
 biclustermd: 0.2.3
 bicreduc: 0.4-7
-bidask: 1.0.0
+bidask: 2.0.0
 bifactorial: 1.4.7
 bife: 0.7.2
 bifurcatingr: 2.0.0
@@ -9393,7 +9398,7 @@ binb: 0.0.6
 binda: 1.0.4
 bindata: 0.9-20
 bindr: 0.1.1
-bindrcpp: 0.2.2
+bindrcpp: 0.2.3
 binequality: 1.0.4
 binford: 0.1.0
 binfunest: 0.1.0
@@ -9674,7 +9679,7 @@ bpcp: 1.4.2
 bpcs: 1.0.0
 bpgmm: 1.0.9
 bpkde: 1.0-7
-bpmnR: 0.1.0
+bpmnR: 0.1.1
 bpmnVisualizationR: 0.5.0
 bpnreg: 2.0.2
 bpp: 1.0.4
@@ -9743,7 +9748,7 @@ brotli: 1.3.0
 brpop: 0.3.0
 brr: 1.0.0
 brranching: 0.7.0
-brsim: '0.2'
+brsim: '0.3'
 brt: 1.3.0
 bruceR: '2023.9'
 brulee: 0.2.0
@@ -11407,7 +11412,7 @@ dataverse: 0.3.13
 dataversionr: 0.9.0
 dataview: 2.1.1
 datawizard: 0.9.0
-datazoom.amazonia: 1.0.0
+datazoom.amazonia: 1.1.0
 date: 1.2-42
 dateback: 1.0.3
 datefixR: 1.6.1
@@ -11463,7 +11468,7 @@ dccvalidator: 0.3.0
 dcemri: 0.10.5
 dcemriS4: '0.55'
 dcens: '1.0'
-dcifer: 1.2.0
+dcifer: 1.2.1
 dclone: 2.3-2
 dclong.spt: 0.1.1
 dclust: 0.1.0
@@ -12104,6 +12109,7 @@ dstabledist: 0.1.0
 dstack: 0.2.1
 dstat: 1.0.4
 dstat2x2xk: 0.2.0
+dtComb: 1.0.0
 dtables: 0.2.0
 dtangle: 2.0.9
 dtgiw: 1.0.0
@@ -12260,7 +12266,7 @@ easyreg: '4.0'
 easystab: '1.0'
 easystats: 0.7.0
 eat: 0.1.4
-eatATA: 1.1.1
+eatATA: 1.1.2
 eatDB: 0.5.0
 eatGADS: 1.1.0
 eatRep: 0.14.7
@@ -13281,7 +13287,7 @@ fishMod: '0.29'
 fishRman: 1.2.2
 fishbc: 0.2.1
 fishdata: 1.0.1
-fisheye: 0.1.0
+fisheye: 0.2.0
 fisheyeR: '0.9'
 fishflux: 0.0.1.6
 fishkirkko2015: 1.0.0
@@ -14380,7 +14386,7 @@ gitear: 1.0.0
 gitgadget: 0.8.1
 githubinstall: 0.2.2
 githubr: 0.9.1
-gitignore: 0.1.5
+gitignore: 0.1.6
 gitlabr: 2.0.1
 gitlink: 0.1.3
 gitr: 0.0.1
@@ -14459,7 +14465,7 @@ glmvsd: '1.5'
 glmx: 0.2-0
 glmxdiag: 1.0.0
 globalGSA: '1.0'
-globalKinhom: 0.1.6
+globalKinhom: 0.1.7
 globalOptTests: '1.1'
 globalboosttest: 1.1-0
 globals: 0.16.2
@@ -14731,7 +14737,7 @@ groupwalk: 0.1.2
 grove: 1.1.1
 growR: 1.1.0
 growcurves: 0.2.4.1
-growfunctions: '0.15'
+growfunctions: '0.16'
 growth: 1.1.1
 growthPheno: 2.1.23
 growthcleanr: 2.1.1
@@ -17026,7 +17032,7 @@ maple: 0.99.5
 maplegend: 0.1.0
 mapme.biodiversity: 0.4.0
 mapmisc: 2.0.3
-mapping: '1.4'
+mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
 mappoly: 0.3.3
@@ -17623,6 +17629,7 @@ missCompare: 1.0.3
 missDeaths: '2.7'
 missDiag: 1.0.1
 missForest: '1.5'
+missForestPredict: '1.0'
 missMDA: '1.19'
 missMethods: 0.4.0
 missRanger: 2.4.0
@@ -18629,7 +18636,7 @@ nlmeVPC: '2.6'
 nlmixr: 2.0.7
 nlmixr2: 2.0.9
 nlmixr2data: 2.0.8
-nlmixr2est: 2.1.8
+nlmixr2est: 2.2.0
 nlmixr2extra: 2.0.8
 nlmixr2lib: 0.2.0
 nlmixr2plot: 2.0.7
@@ -18795,6 +18802,7 @@ nparMD: 0.2.1
 nparcomp: '3.0'
 nparsurv: 0.1.0
 npboottprm: 0.2.0
+npboottprmFBar: 0.1.0
 npbr: '1.8'
 npclust: 0.1.0
 npcopTest: '1.03'
@@ -18848,7 +18856,7 @@ nsdr: 0.1.1
 nse: '1.21'
 nse2r: 0.1.6
 nser: 1.5.0
-nseval: 0.4.3
+nseval: 0.5.1
 nsga2R: '1.1'
 nsga3: 0.0.3
 nsgp: 1.0.5
@@ -18893,7 +18901,7 @@ nzelect: 0.4.0
 nzffdr: 2.1.0
 nzilbb.labbcat: 1.3-0
 nzpullover: 0.3.0
-o2geosocial: 1.1.0
+o2geosocial: 1.1.1
 o2plsda: 0.0.18
 oHMMed: 1.0.1
 oRus: 1.0.0
@@ -19239,7 +19247,7 @@ osqp: 0.6.3.2
 osrm: 4.1.1
 osrmr: 0.1.36
 ot: 0.2.0
-otargen: 1.0.0
+otargen: 1.1.0
 otinference: 0.1.0
 otp: 0.1.0
 otpr: 0.5.1
@@ -19509,7 +19517,7 @@ pathological: 0.1-2
 paths: 0.1.1
 pathviewr: 1.1.7
 pathwayTMB: 0.1.3
-patientProfilesVis: 2.0.5
+patientProfilesVis: 2.0.6
 patrick: 0.2.0
 patternator: 0.1.0
 patternize: 0.0.5
@@ -20065,7 +20073,7 @@ plyr: 1.8.9
 pm3: 0.1.9
 pm4py: 1.2.7
 pmap: 0.6.0
-pmartR: 2.4.1
+pmartR: 2.4.2
 pmatch: 0.1.4
 pmc: 1.0.6
 pmcalibration: 0.1.0
@@ -20329,7 +20337,7 @@ precommit: 0.3.2
 precondition: 0.1.0
 precrec: 0.14.4
 predReliability: 0.1.0
-predRupdate: 0.1.0
+predRupdate: 0.1.1
 predatory: '1.2'
 predbayescor: 1.1-4
 predfairness: 0.1.0
@@ -20494,7 +20502,7 @@ propr: 4.2.6
 proptest: 0.1-5
 prospectr: 0.2.6
 protHMM: 0.1.1
-protViz: 0.7.7
+protViz: 0.7.9
 protag: 1.0.0
 protein8k: 0.0.1
 proteomicdesign: '2.0'
@@ -21466,7 +21474,7 @@ redcapAPI: 2.8.0
 reddPrec: 0.4.0
 redditadsR: 0.1.0
 redist: 4.1.1
-redistmetrics: 1.0.2
+redistmetrics: 1.0.7
 redland: 1.0.17-17
 redlistr: 1.0.4
 redoc: 2.0.0.75
@@ -21760,7 +21768,7 @@ rglobi: 0.3.4
 rglplus: '1.1'
 rglwidget: 0.2.1
 rgnoisefilt: 1.1.2
-rgnparser: 0.2.6
+rgnparser: 0.3.0
 rgoogleads: 0.10.0
 rgoogleclassroom: 0.9.1
 rgoogleslides: 0.3.2
@@ -21970,7 +21978,7 @@ rmytarget: 2.4.0
 rmzqc: 0.5.3
 rnaseqWrapper: 1.0-1
 rnassqs: 0.6.1
-rnaturalearth: 0.3.4
+rnaturalearth: 1.0.0
 rnaturalearthdata: 0.1.0
 rnbn: 1.1.2
 rnbp: 0.2.1
@@ -22545,7 +22553,7 @@ sampleVADIR: 1.0.0
 sampler: 0.2.4
 samplesize: 0.2-4
 samplesize4surveys: 4.1.1
-samplesizeCMH: 0.0.0
+samplesizeCMH: 0.0.3
 samplesizeestimator: 1.0.0
 samplesizelogisticcasecontrol: 2.0.2
 sampling: '2.10'
@@ -22960,7 +22968,7 @@ sequoia: 2.7.2
 sergeant: 0.9.1
 serial: '3.0'
 serialize: 0.2-1
-seriation: 1.5.3
+seriation: 1.5.4
 serieslcb: 0.4.0
 seroincidence: 2.0.0
 serp: 0.2.4
@@ -23111,7 +23119,7 @@ shinySearchbar: 1.0.0
 shinySelect: 1.3.0
 shinyShortcut: 0.1.0
 shinyStorePlus: '1.1'
-shinyTempSignal: 0.0.4
+shinyTempSignal: 0.0.5
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
 shinyTree: 0.3.1
@@ -23152,6 +23160,7 @@ shinyobjects: 0.2.0
 shinypanel: 0.1.5
 shinypanels: 0.5.0
 shinypivottabler: '1.2'
+shinyquiz: 0.0.1
 shinyr: 0.3.0
 shinyrecap: 0.1.0
 shinyrecipes: 0.1.0
@@ -23211,7 +23220,7 @@ sigloc: 0.0.4
 sigma2tools: 1.2.5
 sigmaNet: 1.1.0
 sigmajs: 0.1.5
-sigminer: 2.2.2
+sigminer: 2.3.0
 sigmoid: 1.4.0
 signal: 1.8-0
 signal.hsmm: 1.2.1
@@ -24092,7 +24101,7 @@ statesRcontiguous: 0.1.0
 statespacer: 0.5.0
 statfi: 0.9.8
 statgenGWAS: 1.0.9
-statgenGxE: 1.0.5
+statgenGxE: 1.0.6
 statgenHTP: 1.0.6.1
 statgenIBD: 1.0.6
 statgenMPP: 1.0.2
@@ -24729,6 +24738,7 @@ term: 0.3.5
 terminaldigits: 0.1.0
 termstrc: 1.3.7
 tern: 0.9.3
+tern.gee: 0.1.3
 ternvis: '1.2'
 terra: 1.7-55
 terrainmeshr: 0.1.0
@@ -24952,7 +24962,7 @@ tidytidbits: 0.3.2
 tidytlg: 0.1.4
 tidytransit: 1.6.1
 tidytreatment: 0.2.2
-tidytree: 0.4.5
+tidytree: 0.4.6
 tidytuesdayR: 1.0.2
 tidyverse: 2.0.0
 tidyvpc: 1.5.0
@@ -24996,7 +25006,7 @@ timelineR: 1.0.0
 timelineS: 0.1.1
 timeordered: 1.0.0
 timeperiodsR: 0.7.1
-timeplyr: 0.4.1
+timeplyr: 0.5.0
 timereg: 2.0.5
 timesboot: '1.0'
 timeseriesdb: 1.0.0-1.1.2
@@ -25084,6 +25094,7 @@ tmvtnorm: '1.6'
 tmvtnsim: 0.1.3
 tnam: 1.6.5
 tnet: 3.0.16
+tnl.Test: 0.1.0
 toOrdinal: 1.3-0.0
 toRvik: 1.1.1
 toaster: 0.5.5
@@ -25552,6 +25563,7 @@ unix: 1.5.6
 unjoin: 0.1.0
 unknownR: '0.4'
 unmarked: 1.3.2
+unmconf: 0.1.0
 unnest: 0.0.5
 unpivotr: 0.6.3
 unrepx: 1.0-2
@@ -25968,7 +25980,7 @@ wavefunction: 1.0.0
 wavelets: 0.3-0.2
 wavemulcor: 3.1.2
 waver: 0.3.0
-waves: 0.2.4
+waves: 0.2.5
 waveslim: 1.8.4
 wavethresh: 4.7.2
 wayback: 0.2.4
@@ -25982,6 +25994,7 @@ wbsts: '2.1'
 wccsom: 1.2.11
 wcde: 0.0.5
 wcep: 1.0.1
+wconf: 1.0.0
 wcox: '1.0'
 wdm: 0.2.4
 wdman: 0.2.6
@@ -26309,7 +26322,7 @@ xyloplot: '2.0'
 xyz: '0.2'
 yCrypticRNAs: 0.99.2
 yaConsensus: '1.0'
-yaImpute: 1.0-33
+yaImpute: 1.0-34
 yacca: 1.4-2
 yager: 0.1.1
 yahoofinancer: 0.2.0
