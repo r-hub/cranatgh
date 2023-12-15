@@ -670,7 +670,7 @@ BayesianReasoning: 0.4.2
 BayesianTools: 0.1.8
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.0
-Bayesiantreg: '1.0'
+Bayesiantreg: 1.0.1
 Bayesrel: 0.7.7
 Bayesthresh: 2.0.1
 BaylorEdPsych: '0.5'
@@ -1158,7 +1158,7 @@ Census2016: 0.2.0
 CepLDA: 1.0.0
 CerioliOutlierDetection: 1.1.13
 Certara.NLME8: 1.2.4
-Certara.R: 1.0.0
+Certara.R: 1.1.0
 CfEstimateQuantiles: '1.0'
 ChIPtest: '1.0'
 ChainLadder: 0.2.18
@@ -2751,7 +2751,7 @@ GaSP: 1.0.5
 GameTheory: 2.7.1
 GameTheoryAllocation: '1.0'
 GammaTest: '2.1'
-Gammareg: '3.0'
+Gammareg: 3.0.1
 GapAnalysis: 1.0.2
 GauPro: 0.2.11
 GaussSuppression: 0.7.0
@@ -3368,7 +3368,7 @@ Interact: '1.1'
 InteractionPoweR: 0.2.1
 InteractiveIGraph: 1.0.6.1
 Interatrix: 1.1.3
-InterfaceqPCR: '1.0'
+InterfaceqPCR: 1.0.1
 Interpol: 1.3.1
 Interpol.T: 2.1.1
 InterpretMSSpectrum: 1.3.8
@@ -5123,7 +5123,7 @@ PSPManalysis: 0.3.9
 PSS.Health: 1.0.2
 PSSIM: 0.1.0
 PSSMCOOL: 0.2.4
-PST: '0.94'
+PST: 0.94.1
 PSTR: 1.2.4
 PSW: 1.1-3
 PScr: '1.1'
@@ -5661,7 +5661,7 @@ REBayes: '2.54'
 RECA: '1.7'
 RECSO: '1.0'
 REDCapCAST: 23.6.2
-REDCapDM: 0.8.5
+REDCapDM: 0.9.0
 REDCapExporter: 0.2.2
 REDCapR: 1.1.0
 REDCapTidieR: 1.0.0
@@ -6955,6 +6955,7 @@ SSBtools: 1.4.8
 SSDL: '1.1'
 SSDM: 0.2.9
 SSDforR: 1.5.33
+SSEparser: 0.1.0
 SSGL: '1.0'
 SSHAARP: 1.1.0
 SSIMmap: 0.1.1
@@ -7467,6 +7468,7 @@ SurvivalPath: 1.3.2
 SvyNom: '1.2'
 SwarmSVM: 0.1-7
 SweaveListingUtils: 0.7.7
+SweepDiscovery: 0.1.1
 SwimmeR: 0.14.2
 SwissAir: 1.1.5
 SyNet: '2.0'
@@ -7553,7 +7555,7 @@ TLMoments: 0.7.5.3
 TLdating: 0.1.3
 TMB: 1.9.10
 TMDb: '1.1'
-TML: 1.1.0
+TML: 1.2.0
 TMTI: 1.0.1
 TNC: 0.1.0
 TNRS: 0.3.4
@@ -8836,7 +8838,7 @@ assocInd: 1.0.1
 assortnet: '0.20'
 ast2ast: 0.3.2
 asteRisk: 1.4.3
-aster: 1.1-2
+aster: 1.1-3
 aster2: '0.3'
 astro: '1.2'
 astroFns: 4.2-1
@@ -10924,7 +10926,7 @@ countts: 0.1.0
 countyfloods: 0.1.0
 countytimezones: 1.0.0
 countyweather: 0.1.0
-coursekata: 0.14.1
+coursekata: 0.15.0
 covBM: 0.1.0
 covKCD: '0.1'
 covLCA: '1.0'
@@ -12731,7 +12733,7 @@ estimability: 1.4.1
 estimateW: 0.0.1
 estimatr: 1.0.0
 estimraw: 1.0.0
-estmeansd: 1.0.0
+estmeansd: 1.0.1
 estout: '1.2'
 estprod: '1.2'
 estudy2: 0.10.0
@@ -13606,7 +13608,7 @@ frmpd: 1.1.0
 frmqa: 0.1-5
 fromo: 0.2.1
 frontier: 1.1-8
-frontiles: '1.3'
+frontiles: 1.3.1
 frost: 0.0.4
 frostr: 0.2.0
 froth: 1.0.0
@@ -14210,6 +14212,7 @@ ggetho: 0.3.7
 ggfacto: 0.2.2
 ggfan: 0.1.3
 ggfittext: 0.10.1
+ggfixest: 0.1.0
 ggflowchart: 1.0.0
 ggfocus: 1.0.0
 ggforce: 0.4.1
@@ -14745,7 +14748,7 @@ groupr: 0.1.2
 groupsubsetselection: 1.0.3
 groupwalk: 0.1.2
 grove: 1.1.1
-growR: 1.1.0
+growR: 1.2.0
 growcurves: 0.2.4.1
 growfunctions: '0.16'
 growth: 1.1.1
@@ -14857,6 +14860,7 @@ gwdegree: 0.1.1
 gwer: '3.0'
 gwerAM: '1.0'
 gwfa: 0.0.4
+gwid: 0.1.0
 gwpcormapper: 0.1.3
 gwrpvr: '1.0'
 gwrr: 0.2-2
@@ -16998,7 +17002,7 @@ malani: '1.0'
 malaria.em: '2.0'
 malariaAtlas: 1.5.1
 malaytextr: 0.1.3
-maldipickr: 1.2.0
+maldipickr: 1.3.0
 mallet: 1.3.0
 malvinas: 0.1.0
 managelocalrepo: 0.1.5
@@ -17410,7 +17414,7 @@ metajam: 0.2.3
 metalite: 0.1.3
 metalite.ae: 0.1.1
 metalite.table1: 0.3.0
-metamedian: 1.1.0
+metamedian: 1.1.1
 metamer: 0.3.0
 metamicrobiomeR: '1.2'
 metamisc: 0.4.0
@@ -17656,7 +17660,7 @@ mitml: 0.4-5
 mitools: '2.4'
 mitre: 1.0.0
 mix: 1.0-11
-mixAK: '5.6'
+mixAK: '5.7'
 mixAR: 0.22.7
 mixComp: 0.1-2
 mixEMM: '1.0'
@@ -17794,7 +17798,7 @@ mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlstrOpalr: 1.0.2
 mlsurvlrnrs: 0.0.2
-mlt: 1.4-9
+mlt: 1.5-0
 mlt.docreg: 1.1-7
 mltest: 1.0.1
 mltools: 0.3.5
@@ -17959,7 +17963,7 @@ monomvn: 1.9-19
 monoreg: '2.1'
 monotone: 0.1.2
 monotonicity: 1.3.1
-monreg: 0.1.4
+monreg: 0.1.4.1
 moodleR: 1.0.1
 moodlequizR: 1.0.3
 moonBook: 0.3.1
@@ -18284,6 +18288,7 @@ musica: 0.1.3
 mustashe: 0.1.4
 mut: '1.1'
 mutSignatures: 2.1.1
+mutationtypes: 0.0.1
 mutatr: 0.1.2
 mutoss: 0.1-13
 mutossGUI: 0.1-11
@@ -18605,7 +18610,7 @@ nhsnumber: 0.1.2
 nhstplot: 1.2.0
 niaidMI: 1.1.0
 nic: 0.0.2
-nice: 0.4-1
+nice: 0.4-2
 nicheROVER: 1.1.2
 nichevol: 0.1.20
 nieve: 0.1.3
@@ -20491,7 +20496,7 @@ projector: 0.0.2
 projects: 2.1.3
 projmanr: 0.2.1
 projmgr: 0.1.0
-projpred: 2.7.0
+projpred: 2.8.0
 prolific.api: 0.5.2
 prolsirm: 0.1.0
 prome: 1.9.1.0
@@ -21140,6 +21145,7 @@ randomForestSRC: 3.2.3
 randomForestVIP: 0.1.3
 randomGLM: 1.10-1
 randomLCA: 1.1-3
+randomMachines: 0.1.0
 randomNames: 1.5-0.0
 randomSurvivalForest: 3.6.4
 randomUniformForest: 1.1.6
@@ -21872,6 +21878,7 @@ riskSimul: 0.1.2
 riskclustr: 0.4.0
 riskmetric: 0.2.3
 risks: 0.4.2
+riskscores: 1.0.2
 risksetROC: 1.0.4.1
 riskyr: 0.4.0
 rite: 0.3.4
@@ -22057,7 +22064,7 @@ robustcov: '0.1'
 robustfa: 1.1-0
 robustgam: 0.1.7
 robustlm: 0.1.0
-robustlmm: 3.2-5
+robustlmm: 3.3-1
 robustloggamma: 1.0-2.1
 robustmeta: 1.2-1
 robustrank: 2019.9-10
@@ -22362,7 +22369,7 @@ rtimicropem: 1.4.0
 rtip: 1.1.1
 rtist: 1.0.0
 rtk: 0.2.6.1
-rtkore: 1.6.7
+rtkore: 1.6.10
 rtkpp: 0.9.2
 rtlr: 0.1.0
 rtmpt: 2.0-0
@@ -22573,7 +22580,7 @@ samplingEstimates: 0.1-3
 samplingR: 1.0.1
 samplingVarEst: '1.5'
 samplingbook: 1.2.4
-samplingin: 1.0.1
+samplingin: 1.0.3
 sampsizeval: 1.0.0.0
 samr: '3.0'
 sams: 0.4.3
@@ -23990,6 +23997,7 @@ sra: 0.1.4
 srcr: 1.1.0
 srd: '1.0'
 sregsurvey: 0.1.3
+srlTS: 0.1.1
 srlars: 1.0.1
 srm: 0.4-26
 srp: 1.2.0
@@ -24707,7 +24715,7 @@ teachingApps: 1.0.8
 teal.code: 0.4.1
 teal.logger: 0.1.3
 teal.reporter: 0.2.1
-teal.widgets: 0.4.1
+teal.widgets: 0.4.2
 tealeaves: 1.0.6
 teamcolors: 0.0.4
 teamr: 0.0.1
@@ -24750,6 +24758,7 @@ terminaldigits: 0.1.0
 termstrc: 1.3.7
 tern: 0.9.3
 tern.gee: 0.1.3
+tern.mmrm: 0.3.0
 ternvis: '1.2'
 terra: 1.7-55
 terrainmeshr: 0.1.0
@@ -25001,7 +25010,7 @@ timbr: 0.2.2
 time: '1.1'
 time.slots: 0.2.0
 time2event: 0.1.0
-timeDate: '4022.108'
+timeDate: '4032.109'
 timeLineGraphics: '1.0'
 timeR: 1.2.0
 timeROC: '0.4'
@@ -25250,7 +25259,7 @@ treeDbalance: 1.0.1
 treeHFM: 1.0.3
 treeHMM: 0.1.1
 treePlotArea: 1.4.1
-treebalance: 1.1.0
+treebalance: 1.2.0
 treebase: 0.1.4
 treeclim: 2.0.6.0
 treecm: 1.2.2
@@ -25742,6 +25751,7 @@ vcd: 1.4-11
 vcdExtra: 0.8-5
 vcf2geno: '2.3'
 vcfR: 1.15.0
+vcfppR: 0.3.5
 vcmeta: 1.2.0
 vcov: 0.0.1
 vcpen: '1.9'
@@ -25847,7 +25857,7 @@ visit: '2.2'
 visova: '1.1'
 visreg: 2.7.0
 vistime: 1.2.4
-vistla: 2.0.0
+vistla: 2.0.1
 vistributions: 0.1.2
 visualFields: 1.0.1
 visualR: 2.0.2
@@ -26126,7 +26136,7 @@ wilson: 2.4.2
 winRatioAnalysis: 0.1.1
 winch: 0.1.0
 windAC: 1.2.10
-windex: 2.0.6
+windex: 2.0.7
 windfarmGA: 3.0.0
 windows.pls: 0.1.0
 windsoraiR: 0.1.2
