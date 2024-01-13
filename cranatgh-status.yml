@@ -695,7 +695,7 @@ BenfordTests: 1.2.0
 Bergm: 5.0.7
 BerkeleyEarth: '1.8'
 BerlinData: 1.0.1
-Bernadette: 1.1.4
+Bernadette: 1.1.5
 Bessel: 0.6-0
 Bestie: 0.1.5
 BetaBit: '2.2'
@@ -1495,7 +1495,7 @@ DBEST: '1.8'
 DBFTest: '1.0'
 DBGSA: '1.2'
 DBHC: 0.0.3
-DBI: 1.2.0
+DBI: 1.2.1
 DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
 DBIsqldf: 0.9.9-2
@@ -2174,6 +2174,7 @@ EvaluationMeasures: 1.1.0
 Evapotranspiration: '1.16'
 EventDetectGUI: 0.3.0
 EventDetectR: 0.3.5
+EventPredInCure: '1.0'
 EventStudy: 0.39.2
 EventWinRatios: 1.0.0
 EvidenceSynthesis: 0.5.0
@@ -2313,7 +2314,7 @@ FMP: '1.4'
 FMStable: 0.1-4
 FMradio: 1.1.1
 FMsmsnReg: '1.0'
-FNN: 1.1.3.2
+FNN: 1.1.4
 FOCI: 0.1.3
 FORTLS: 1.3.0
 FPCA2D: '1.0'
@@ -2569,7 +2570,7 @@ GDELTtools: '1.7'
 GDINA: 2.9.4
 GDPuc: 0.11.1
 GDSARM: 0.1.1
-GE: 0.4.1
+GE: 0.4.2
 GEC: 0.1.0
 GEEaSPU: 1.0.2
 GEEmediate: 1.1.4
@@ -2707,6 +2708,7 @@ GRAPE: 0.1.1
 GRASS: 0.3-9
 GRCRegression: '1.0'
 GRCdata: '1.0'
+GRCdesigns: 1.0.0
 GREENeR: 0.1.3
 GREMLINS: 0.2.1
 GREP2: 1.0.2
@@ -2765,6 +2767,7 @@ GWnnegPCA: 0.0.4
 GWpcor: 0.1.7
 GWsignif: '1.2'
 GaDiFPT: '1.0'
+GaMaBioMD: 0.2.0
 GaSP: 1.0.5
 GameTheory: 2.7.1
 GameTheoryAllocation: '1.0'
@@ -3048,7 +3051,7 @@ HWEBayes: '1.4'
 HWEintrinsic: 1.2.3
 HWxtest: 1.1.9
 HYDROCAL: 1.0.0
-HYPEtools: 1.6.0
+HYPEtools: 1.6.1
 HYRISK: '1.2'
 HaDeX: 1.2.2
 HadIBDs: 1.0.0
@@ -3592,7 +3595,7 @@ LCCR: '1.3'
 LCF: 1.7.0
 LCFdata: '2.0'
 LCMCR: 0.4.14
-LCMSQA: 1.0.1
+LCMSQA: 1.0.2
 LCox: 0.1.0
 LDABiplots: 0.1.2
 LDAShiny: 0.9.3
@@ -4322,6 +4325,7 @@ MetaIntegration: 0.1.2
 MetaIntegrator: 2.1.3
 MetaLandSim: 2.0.0
 MetaLonDA: 1.1.8
+MetaNet: 0.1.0
 MetaPCA: 0.1.4
 MetaPath: '1.0'
 MetaQC: 0.1.13
@@ -4533,7 +4537,7 @@ Myrrixjars: 1.0-2
 N2H4: 0.8.2
 N2R: 1.0.1
 NAC: 0.1.0
-NACHO: 2.0.5
+NACHO: 2.0.6
 NADA: 1.6-1.1
 NADA2: 1.1.5
 NADIA: 0.4.2
@@ -4711,7 +4715,7 @@ NetworkRiskMeasures: 0.1.4
 NetworkSim: 0.1.0
 NetworkToolbox: 1.4.2
 NeuralNetTools: 1.5.3
-NeuralSens: 1.0.3
+NeuralSens: 1.1.1
 NeuroDecodeR: 0.1.0
 Newdistns: '2.1'
 NewmanOmics: 1.0.10
@@ -5677,7 +5681,7 @@ RDSTK: '1.1'
 RDSsamplesize: 0.5.0
 RDStreeboot: '1.0'
 RDataCanvas: '0.1'
-RDieHarder: 0.2.5
+RDieHarder: 0.2.6
 RDnp: '1.3'
 RDocumentation: 0.8.2
 RDota: '1.2'
@@ -6315,7 +6319,7 @@ RcppRoll: 0.3.0
 RcppSMC: 0.2.7
 RcppShark: 3.1.1
 RcppSimdJson: 0.1.11
-RcppSpdlog: 0.0.15
+RcppSpdlog: 0.0.16
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.2.2
@@ -6411,6 +6415,7 @@ Repliscope: 1.1.1
 RepoGenerator: 0.0.1
 ReporteRs: 0.8.10
 ReporteRsjars: 0.0.4
+ReporterScore: 0.1.1
 Require: 0.3.1
 ResIN: 1.1.0
 ResPBIBD: 0.1.0
@@ -6719,7 +6724,7 @@ SCBiclust: 1.0.1
 SCBmeanfd: 1.2.2
 SCCI: '1.2'
 SCCS: '1.6'
-SCDB: 0.2.1
+SCDB: '0.3'
 SCEM: 1.1.0
 SCEPtER: 0.2-4
 SCEPtERbinary: 0.1-1
@@ -6865,7 +6870,7 @@ SMARTp: 0.1.1
 SMC: '1.1'
 SMCP: 1.1.3
 SMCRM: 0.0-3
-SMDIC: 0.1.4
+SMDIC: 0.1.5
 SMFI5: '1.0'
 SMFilter: 1.0.3
 SMIR: '0.02'
@@ -7953,7 +7958,7 @@ VARtests: 2.0.5
 VBJM: 0.1.0
 VBLPCM: 2.4.9
 VBMA4hmm: '0.1'
-VBTree: 0.1.0
+VBTree: 0.1.1
 VBV: 0.6.2
 VBmix: 0.3.2
 VBsparsePCA: 0.1.0
@@ -9161,7 +9166,7 @@ bayesbr: 0.0.1.0
 bayesclust: '3.1'
 bayescopulareg: 0.1.3
 bayescount: 0.9.99-9
-bayesdfa: 1.3.1
+bayesdfa: 1.3.2
 bayesdistreg: 0.1.0
 bayesefa: 0.0.0.4
 bayesforecast: 1.0.1
@@ -10090,7 +10095,7 @@ ccboost: 0.1-1.3
 cccd: '1.6'
 cccm: 0.1.0
 cccp: 0.3-1
-cccrm: 2.2.0
+cccrm: 2.2.1
 ccda: 1.1.1
 ccdf: 1.1.4
 ccdrAlgorithm: 0.0.6
@@ -11538,7 +11543,7 @@ dcurver: 0.9.2
 dcurves: 0.4.0
 dcv: 0.1.1
 ddR: 0.1.2
-ddalpha: 1.3.13
+ddalpha: 1.3.15
 ddc: 1.0.1
 dde: 1.0.4
 ddeploy: 1.0.4
@@ -11565,7 +11570,7 @@ deaR: 1.4.1
 deadband: 0.1.0
 deal: 1.2-42
 deamer: '1.0'
-debar: 0.1.0
+debar: 0.1.1
 debest: 0.1.0
 debkeepr: 0.1.1
 debug: 1.3.1
@@ -12356,7 +12361,7 @@ ecdfHT: 0.1.1
 ecespa: 1.1-17
 ech: 0.1.3
 echarts4r: 0.4.5
-echarty: 1.6.2
+echarty: 1.6.3
 echelon: 0.1.0
 echo: 0.1.0
 echo.find: 4.0.1
@@ -13134,7 +13139,7 @@ fastadi: 0.1.1
 fastai: 2.2.1
 fastbeta: 0.2.0
 fastclime: 1.4.1.1
-fastcluster: 1.2.3
+fastcluster: 1.2.6
 fastcmh: 0.2.7
 fastcmprsk: 1.1.1
 fastcox: 1.1.3
@@ -13260,9 +13265,9 @@ fetch: 0.1.4
 fetchGoogleAnalyticsR: 0.1.0
 fetchR: 2.1-1
 fetchSalesforceR: 0.1.0
-ff: 4.0.9
+ff: 4.0.12
 ffbase: 0.13.3
-fflr: 2.2.0
+fflr: 2.2.1
 ffmanova: 1.1.2
 ffmetadata: 1.0.0
 ffp: 0.2.2
@@ -13322,7 +13327,7 @@ filterviewR: '0.11'
 finalfit: 1.0.7
 finalsize: 0.2.0
 financial: '0.2'
-finbif: 0.9.3
+finbif: 0.9.4
 finbipartite: 0.1.0
 finch: 0.4.0
 findInFiles: 0.4.0
@@ -14434,7 +14439,7 @@ gibasa: 1.0.1
 gibble: 0.4.0
 gibbs.met: 1.1-3
 giedata: 0.1.1
-gif: 0.1.0
+gif: 0.1.1
 gifski: 1.12.0-2
 gifti: 0.8.0
 giftwrap: 0.0.4
@@ -14999,7 +15004,7 @@ hashr: 0.1.4
 hasseDiagram: 0.2.0
 haven: 2.5.4
 hawkes: 0.0-4
-hawkesbow: 1.0.2
+hawkesbow: 1.0.3
 hazer: 1.1.1
 hazus: '0.1'
 hbal: 1.2.12
@@ -15981,7 +15986,7 @@ ivivc: 0.2.2
 ivlewbel: '1.1'
 ivmodel: 1.9.1
 ivmte: 1.4.0
-ivo.table: '0.2'
+ivo.table: '0.3'
 ivpack: '1.2'
 ivpanel: '1.0'
 ivprobit: '1.1'
@@ -17206,6 +17211,7 @@ matlabr: 1.5.2
 matlib: 0.9.6
 matman: 1.1.3
 matpow: 0.1.2
+matrans: 0.1.0
 matric: 0.2.0
 matricks: 0.8.2
 matrisk: 0.1.0
@@ -17431,7 +17437,7 @@ met: 0.1.0
 metR: 0.14.1
 metRology: 0.9-28-1
 metScanR: 1.2.3
-meta: 6.5-0
+meta: 7.0-0
 meta.shrinkage: 0.1.4
 meta4diag: 2.1.1
 metaBLUE: 1.0.0
@@ -17682,7 +17688,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 0.11.3
+mirai: 0.12.0
 mirai.promises: 0.4.1
 mirf: '1.0'
 mirt: '1.41'
@@ -17722,7 +17728,7 @@ misspi: 0.1.0
 mistat: 2.0.4
 mistr: 0.0.6
 mistral: 2.2.1
-misty: 0.5.4
+misty: 0.6.0
 mitml: 0.4-5
 mitools: '2.4'
 mitre: 1.0.0
@@ -19193,7 +19199,7 @@ opentripplanner: 0.5.1
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
 openxlsx: 4.2.5.2
-openxlsx2: '1.2'
+openxlsx2: '1.3'
 opera: 1.2.0
 operator.tools: 1.6.3
 operators: 0.1-8
@@ -19228,7 +19234,7 @@ optimLanduse: 1.2.0
 optimParallel: 1.0-2
 optimStrat: '2.4'
 optimalThreshold: '1.0'
-optimall: 0.1.3
+optimall: 0.1.4
 optimbase: 1.0-10
 optimg: 0.1.2
 optimization: 1.0-9
@@ -19616,7 +19622,7 @@ paws.analytics: 0.5.0
 paws.application.integration: 0.5.0
 paws.common: 0.7.0
 paws.compute: 0.5.0
-paws.cost.management: 0.4.0
+paws.cost.management: 0.5.0
 paws.customer.engagement: 0.5.0
 paws.database: 0.5.0
 paws.developer.tools: 0.5.0
@@ -20411,7 +20417,7 @@ prc: 2019.1-23
 prcbench: 1.1.8
 prclust: '1.3'
 prcr: 0.2.1
-pre: 1.0.6
+pre: 1.0.7
 preText: 0.6.2
 precautionary: 0.2.6
 precintcon: 2.3.0
@@ -20756,7 +20762,7 @@ pyinit: 1.1.3
 pylintR: 0.1.0
 pyramid: '1.5'
 pysd2r: 0.1.0
-pysparklyr: 0.1.2
+pysparklyr: 0.1.3
 pystr: 2.0.0
 pzfx: 0.3.0
 qAnalyst: 0.6.4
@@ -21605,7 +21611,7 @@ registr: 2.1.0
 registry: 0.5-1
 reglogit: 1.2-7
 regmed: 2.1.0
-regmedint: 1.0.0
+regmedint: 1.0.1
 regmhmm: 1.0.0
 regnet: 1.0.0
 rego: 1.6.1
@@ -21724,8 +21730,8 @@ request: 0.1.0
 requiRements: 0.0.3
 requireR: 1.0.0.1
 rerandPower: 0.0.1
-rerddap: 1.0.4
-rerddapXtracto: 1.1.7
+rerddap: 1.1.0
+rerddapXtracto: 1.2.0
 rerf: 2.0.4
 resample: '0.6'
 resampledata: 0.3.1
@@ -21855,6 +21861,7 @@ rgl2gltf: 1.0.3
 rglobi: 0.3.4
 rglplus: '1.1'
 rglwidget: 0.2.1
+rgm: 1.0.1
 rgnoisefilt: 1.1.2
 rgnparser: 0.3.0
 rgoogleads: 0.10.0
@@ -23136,7 +23143,7 @@ shapes: 1.2.7
 shapley: '0.1'
 shapper: 0.1.3
 shapr: 0.2.2
-shapviz: 0.9.2
+shapviz: 0.9.3
 shar: 2.2.1
 sharp: 1.4.4
 sharpData: '1.4'
@@ -23919,6 +23926,7 @@ spectre: 1.0.2
 spectrino: 2.0.0
 spectrolab: 0.0.18
 sped: '0.3'
+spedecon: '0.1'
 speech: 0.1.5
 speechbr: 2.0.0
 speedR: 1.1-38
@@ -24627,6 +24635,7 @@ symengine: 0.2.4
 symmetry: 0.2.3
 symmoments: 1.2.1
 symphony: 0.1.1
+symptomcheckR: 0.1.1
 syn: 0.1.0
 synMicrodata: 1.0.0
 synRNASeqNet: '1.0'
@@ -25366,6 +25375,7 @@ treeshap: 0.3.0
 treesliceR: 1.0.0
 treespace: 1.1.4.3
 treestartr: 0.1.0
+treestats: 1.0.3
 treestructure: 0.1.0
 treethresh: 0.1-11
 treetop: 0.0.5
@@ -25440,6 +25450,7 @@ ts.extend: 0.1.1
 ts2net: 0.1.0
 tsBSS: 1.0.0
 tsDyn: 11.0.4
+tsLSTMx: 0.1.0
 tsModel: 0.6-1
 tsPI: 1.0.4
 tsSelect: 0.1.8
@@ -25725,7 +25736,7 @@ uskew: 0.11-3
 uskewFactors: '2.0'
 usl: 3.0.3
 usmap: 0.6.4
-usmapdata: 0.1.2
+usmapdata: 0.2.0
 ussherR: '1.10'
 ustfd: 0.4.3
 ustyc: 1.0.0
@@ -26048,7 +26059,7 @@ wal: 0.1.0
 waldo: 0.5.2
 waldwolf: '0.1'
 walkalytics: 0.1.0
-walkboutr: 0.4.0
+walkboutr: 0.5.0
 walker: 1.0.8
 walkr: 0.4.0
 walkscore: 0.1.2
@@ -26159,6 +26170,7 @@ weightedScores: 0.9.5.3
 weightedZdiff: 0.1.0
 weightr: 2.0.2
 weights: 1.0.4
+weird: 1.0.0
 weirs: '0.25'
 welchADF: 0.3.2
 wellknown: 0.7.4
