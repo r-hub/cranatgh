@@ -421,7 +421,7 @@ BEANSP: '1.0'
 BED: 1.4.13
 BEDASSLE: 1.6.1
 BEDMatrix: 2.0.3
-BEKKs: 1.4.3
+BEKKs: 1.4.4
 BENMMI: 4.3-7
 BEQI2: 2.0-0
 BEST: 0.5.4
@@ -618,7 +618,7 @@ BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
 BayesMRA: 1.0.0
-BayesMallows: 1.5.0
+BayesMallows: 2.0.0
 BayesMassBal: 1.1.0
 BayesMed: 1.0.1
 BayesMixSurv: 0.9.1
@@ -1152,8 +1152,9 @@ CausalGPS: 0.4.1
 CausalImpact: 1.3.0
 CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.1
+CausalMetaR: 0.1.1
 CausalModels: 0.2.0
-CausalQueries: 1.0.1
+CausalQueries: 1.0.2
 Causata: 4.2-0
 CautiousLearning: 1.0.1
 CePa: 0.8.0
@@ -1332,7 +1333,7 @@ ConNEcT: 0.7.27
 ConR: 1.3.0
 ConSpline: '1.2'
 Conake: 1.0.1
-ConcordanceTest: 1.0.2
+ConcordanceTest: 1.0.3
 CondCopulas: 0.1.3
 CondIndTests: 0.1.5
 CondMVT: 0.1.0
@@ -1361,7 +1362,7 @@ ConvergenceClubs: 2.2.4
 ConvergenceConcepts: 1.2.3
 ConvertPar: '0.1'
 Convolutioner: 0.1.0
-CooRTweet: 1.5.0
+CooRTweet: 2.0.0
 CooccurrenceAffinity: '1.0'
 CoopGame: 0.2.2
 CoordinateCleaner: 3.0.1
@@ -1661,7 +1662,7 @@ DSMolgenisArmadillo: 2.0.5
 DSOpal: 1.4.0
 DSSAT: 0.0.8
 DSSP: 0.1.1
-DSWE: 1.6.3
+DSWE: 1.7.0
 DSjobtracker: 2.0.0
 DSpat: 0.1.6
 DSpoty: 0.1.0
@@ -1728,7 +1729,7 @@ DatabaseConnector: 6.3.2
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 1.2.1
 Datasmith: 1.0-1
-DatastreamDSWS2R: 1.8.2
+DatastreamDSWS2R: 1.9.7
 DateTimeRangePicker: 1.1.0
 Davies: 1.2-0
 DeBoinR: '1.0'
@@ -1808,7 +1809,7 @@ DiceDesign: '1.10'
 DiceEval: 1.6.1
 DiceKriging: 1.6.0
 DiceOptim: 2.1.1
-DiceView: 2.1-0
+DiceView: 2.2-0
 Dict: 0.1.0
 DidacticBoost: 0.1.1
 Diderot: '0.13'
@@ -3432,7 +3433,7 @@ JATSdecoder: 1.2.0
 JBTools: 0.7.2.9
 JBrowseR: 0.10.2
 JCRImpactFactor: 1.0.0
-JFE: 2.5.5
+JFE: 2.5.6
 JFM: '1.0'
 JGEE: '1.1'
 JGL: 2.3.2
@@ -4104,7 +4105,7 @@ MOST: 0.1.2
 MOTE: 1.0.2
 MOrder: '0.1'
 MPAgenomics: 1.2.3
-MPBoost: 0.1-5
+MPBoost: 0.1-6
 MPCI: 1.0.7
 MPCR: '1.0'
 MPDiR: '0.2'
@@ -4464,7 +4465,7 @@ MorseGen: '1.2'
 MortCast: 2.7-0
 MortHump: '0.2'
 MortalityGaps: 1.0.0
-MortalityLaws: 2.0.3
+MortalityLaws: 2.1.0
 MortalitySmooth: 2.3.4
 MortalityTables: 2.0.5
 MotilityLab: 0.2-5
@@ -5365,7 +5366,7 @@ PottsUtils: 0.3-3
 PoweR: 1.0.7
 Power2Stage: 0.5-4
 PowerNormal: 1.2.0
-PowerSDI: 0.1.3
+PowerSDI: 1.0.0
 PowerTOST: 1.5-4
 PowerUpR: 1.1.0
 PowerVenn: 0.0.1
@@ -5641,7 +5642,7 @@ RCLabels: 0.1.9
 RCMIP5: 1.2.0
 RCMinification: '1.2'
 RCPA: 0.2.1
-RCPA3: 1.1.1
+RCPA3: 1.2.1
 RCPmod: '2.192'
 RCRnorm: 0.0.2
 RCSF: 1.0.2
@@ -5784,7 +5785,7 @@ RIGHT: 0.2.0
 RII: 0.4-1
 RISCA: 1.0.4
 RISmed: 2.3.0
-RITCH: 0.1.25
+RITCH: 0.1.26
 RIbench: 1.0.2
 RIdeogram: 0.2.2
 RImageJ: 0.3-144
@@ -6176,7 +6177,7 @@ RbioRXN: 1.5.1
 Rbitcoin: 0.9.2
 RblDataLicense: 0.2.5
 Rblpapi: 0.3.14
-Rborist: 0.3-5
+Rborist: 0.3-7
 Rcan: 1.3.82
 Rcapture: 1.4-4
 Rcatch22: 0.2.1
@@ -6415,7 +6416,7 @@ Repliscope: 1.1.1
 RepoGenerator: 0.0.1
 ReporteRs: 0.8.10
 ReporteRsjars: 0.0.4
-ReporterScore: 0.1.1
+ReporterScore: 0.1.2
 Require: 0.3.1
 ResIN: 1.1.0
 ResPBIBD: 0.1.0
@@ -6996,7 +6997,7 @@ SSLASSO: 1.2-2
 SSLR: 0.9.3.3
 SSM: 1.0.1
 SSN: 1.1.17
-SSN2: 0.1.0
+SSN2: 0.1.1
 SSNbayes: 0.0.3
 SSOAP: 0.9-0
 SSOSVM: 0.2.1
@@ -8454,7 +8455,7 @@ aftR2: 0.1.0
 after: 1.0.0
 aftgee: 1.2.0
 afthd: 1.1.0
-afttest: 4.3.2.1
+afttest: 4.3.2.2
 ag5Tools: 0.0.2
 agRee: 0.5-3
 agce: '1.2'
@@ -8685,7 +8686,7 @@ aoos: 0.5.0
 aop: 1.0.0
 aopdata: 1.0.3
 aoristic: 1.1.1
-aorsf: 0.1.1
+aorsf: 0.1.2
 aos: 0.1.0
 apTreeshape: 1.5-0.1
 apa: 0.3.4
@@ -8747,6 +8748,7 @@ arabicStemR: '1.3'
 arakno: 1.3.0
 aratio: '1.2'
 arc: '1.4'
+arcgeocoder: 0.1.0
 arcgisutils: 0.1.0
 archdata: 1.2-1
 archeoViz: 1.3.2
@@ -8769,7 +8771,7 @@ area: 0.2.0
 areabiplot: 1.0.0
 areal: 0.1.8
 arealDB: 0.6.3
-areaplot: 2.1.1
+areaplot: 2.1.2
 arena2r: 1.0.0
 arenar: 0.2.0
 ares: 0.7.2
@@ -8789,7 +8791,7 @@ ari: 0.3.5
 ariExtra: 0.3.1
 aricode: 1.0.3
 arima2: 3.1.0
-arkdb: 0.0.17
+arkdb: 0.0.18
 arkhe: 1.4.0
 arm: 1.13-1
 armada: 0.1.0
@@ -9010,6 +9012,7 @@ aziztest: 0.2.1
 azlogr: 0.0.5
 azuremlsdk: 1.10.0
 b3archives: 1.0.0
+b64: 0.1.0
 b6e6rl: '1.1'
 bPeaks: '1.2'
 bRacatus: 1.0.11
@@ -9679,7 +9682,7 @@ boostr: 1.0.0
 boot: 1.3-28.1
 boot.heterogeneity: 1.1.5
 boot.pval: '0.5'
-bootCT: 2.0.0
+bootCT: 2.1.0
 bootComb: 1.1.2
 bootES: 1.3.0
 bootGOF: 0.1.0
@@ -9707,6 +9710,7 @@ boral: '2.0'
 borrowr: 0.2.0
 boss: '2.1'
 bossMaps: 0.1.0
+bossR: 1.0.4
 botor: 0.4.0
 boundingbox: 1.0.1
 boussinesq: 1.0.6
@@ -9731,7 +9735,7 @@ bpgmm: 1.0.9
 bpkde: 1.0-7
 bpmnR: 0.1.1
 bpmnVisualizationR: 0.5.0
-bpnreg: 2.0.2
+bpnreg: 2.0.3
 bpp: 1.0.4
 bpr: 1.0.6
 bqror: 1.6.1
@@ -11178,7 +11182,7 @@ csabounds: 1.0.0
 csalert: 2023.6.17
 csampling: 1.2-2.1
 csci: 0.9.3
-csdata: 2023.5.22
+csdata: 2023.12.22
 cshapes: '2.0'
 cslogistic: 0.1-3
 csmaps: 2023.5.22
@@ -12642,7 +12646,7 @@ envlpaster: 0.1-2
 envnames: 0.4.1
 envoutliers: 1.1.0
 envstat: 0.0.3
-envvar: 0.1.0
+envvar: 0.1.1
 eoR: 0.4.0
 eoa3: 1.0.0.1
 eodhd: 1.0.3
@@ -13002,7 +13006,7 @@ fExoticOptions: '3042.80'
 fExpressCertificates: '1.3'
 fExtremes: '4032.84'
 fGarch: '4031.90'
-fHMM: 1.2.0
+fHMM: 1.2.1
 fICA: 1.1-2
 fImport: '4032.87'
 fMRIscrub: 0.14.5
@@ -13132,7 +13136,7 @@ fastSOM: 1.0.1
 fastStat: '1.4'
 fastText: 1.0.3
 fastTextR: 2.1.0
-fastTopics: 0.6-142
+fastTopics: 0.6-163
 fastVAR: 1.2.1
 fastWavelets: 1.0.1
 fasta: 0.1.0
@@ -14122,7 +14126,7 @@ geomedb: 2.0.1
 geomerge: 0.3.4
 geometa: 0.7-1
 geometr: 0.2.10
-geometries: 0.2.3
+geometries: 0.2.4
 geometry: 0.4.7
 geomnet: 0.3.1
 geomod: 0.1.0
@@ -14136,6 +14140,7 @@ geonetwork: 0.5.0
 geoops: 0.3.0
 geoparser: 0.1.2
 geophys: 1.4-1
+georefdatar: 0.6.5
 georob: 0.3-14
 geos: 0.2.4
 geosample: 0.2.1
@@ -14220,7 +14225,7 @@ ggFacetSample: 1.0.0
 ggFishPlots: 0.2.2
 ggHoriPlot: 1.0.1
 ggHorizon: '0.1'
-ggOceanMaps: 2.1.1
+ggOceanMaps: 2.2.0
 ggPMX: 1.2.11
 ggQC: 0.0.31
 ggQQunif: 0.1.5
@@ -14366,7 +14371,7 @@ ggpp: 0.5.6
 ggprism: 1.0.4
 ggpubr: 0.6.0
 ggpval: 0.2.5
-ggquickeda: 0.3.0
+ggquickeda: 0.3.1
 ggquiver: 0.3.3
 ggragged: 0.1.0
 ggrain: 0.0.3
@@ -14496,7 +14501,7 @@ gllm: '0.38'
 gllvm: 1.4.3
 glm.ddR: 0.1.1
 glm.deploy: 1.0.4
-glm.predict: 4.2-0
+glm.predict: 4.3-0
 glm2: 1.2.1
 glmBfp: 0.0-60
 glmaag: 0.0.6
@@ -14582,7 +14587,7 @@ gmmsslm: 1.1.5
 gmnl: 1.1-3.2
 gmoTree: 1.0.1
 gmodels: 2.18.1.1
-gmp: 0.7-3
+gmp: 0.7-4
 gmpoly: 1.1.0
 gms: 0.4.0
 gmt: 2.0.3
@@ -15360,7 +15365,7 @@ hydroTSM: 0.6-0
 hydroToolkit: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.10.0
-hydroloom: 1.0.1
+hydroloom: 1.0.2
 hydropeak: 0.1.2
 hydrorecipes: 0.0.3
 hydroroute: 0.1.2
@@ -15514,7 +15519,7 @@ icesSD: 2.0.0
 icesTAF: 4.2.0
 icesVMS: 1.1.4
 icesVocab: 1.2.0
-ichimoku: 1.4.12
+ichimoku: 1.4.13
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -15750,7 +15755,7 @@ insurancerating: 0.7.2
 int64: 1.1.2
 intReg: 0.2-8
 intRegGOF: 0.85-5
-intRinsic: 1.0.1
+intRinsic: 1.0.2
 intRvals: 1.0.1
 intSDM: 2.0.2
 intamap: 1.5-7
@@ -15856,7 +15861,7 @@ ipdmeta: '2.4'
 ipdw: 2.0-0
 ipeaData: 0.0.2
 ipeadatar: 0.1.6
-iperform: 0.0.2
+iperform: 0.0.3
 ipflasso: '1.1'
 ipfp: 1.0.2
 ipfr: 1.0.2
@@ -15874,7 +15879,7 @@ ipred: 0.9-14
 iprior: 0.7.3
 ips: 0.0.11
 ipsRdbs: 0.2.6
-ipsecr: 1.4.0
+ipsecr: 1.4.1
 ipsfs: 1.0.0
 iptmnetr: 0.1.8
 iptools: 0.7.2
@@ -16256,7 +16261,7 @@ kiwisR: 0.2.0
 kknn: 1.3.1
 kko: 1.0.1
 klaR: 1.7-3
-klassR: 0.2.1
+klassR: 0.2.3
 klausuR: 0.12-14
 kldtools: '1.2'
 klexdatr: 0.1.2
@@ -16326,7 +16331,7 @@ kriging: '1.2'
 krippendorffsalpha: '2.0'
 krm: 2022.10-17
 kronos: 1.0.0
-ks: 1.14.1
+ks: 1.14.2
 ksNN: 0.1.2
 kscons: 0.7.0
 kselection: 0.2.1
@@ -17708,7 +17713,7 @@ miscor: 0.1-1
 miscset: 1.1.0
 mise: 0.1.0
 miselect: 0.9.0
-misha: 4.2.8
+misha: 4.2.9
 mispitools: 1.0.0
 mispr: 1.0.0
 misreport: 0.1.1
@@ -18111,7 +18116,7 @@ mplusParallel.automation: 0.0.1.1
 mpm: 1.0-23
 mpmcorrelogram: 0.1-4
 mpmi: 0.43.2.1
-mpmsim: 1.1.0
+mpmsim: 2.0.0
 mpoly: 1.1.1
 mpower: 0.1.0
 mppR: 1.4.0
@@ -18483,7 +18488,7 @@ naptanr: 1.0.1
 naptime: 1.3.0
 nardl: 0.1.6
 narray: 0.5.1
-naryn: 2.6.25
+naryn: 2.6.26
 nasadata: 0.9.0
 nasapower: 4.1.0
 nasaweather: '0.1'
@@ -18873,7 +18878,7 @@ notebookutils: 1.5.1
 notifier: 1.0.0
 notifyR: '1.02'
 notifyme: 0.3.0
-novelforestSG: 2.0.0
+novelforestSG: 2.1.0
 novelist: '1.0'
 novelqualcodes: 0.13.0
 noverlap: 1.0-1
@@ -19618,7 +19623,7 @@ pauwels2014: '1.0'
 pavo: 2.9.0
 pawacc: 1.2.2
 pawls: 1.0.0
-paws: 0.4.0
+paws: 0.5.0
 paws.analytics: 0.5.0
 paws.application.integration: 0.5.0
 paws.common: 0.7.0
@@ -19647,7 +19652,7 @@ pbdNCDF4: 0.1-4
 pbdPROF: 0.4-0
 pbdRPC: 0.2-1
 pbdSLAP: 0.3-5
-pbdZMQ: 0.3-10
+pbdZMQ: 0.3-11
 pbivnorm: 0.6.0
 pbixr: 0.1.4
 pbkrtest: 0.5.2
@@ -20308,7 +20313,7 @@ popgraph: '1.4'
 popkin: 1.3.23
 poplab: 1.0.2
 poplite: 0.99.23
-poppr: 2.9.4
+poppr: 2.9.5
 popprxl: 0.1.4
 popsom: '6.0'
 popstudy: 1.0.1
@@ -20317,7 +20322,7 @@ populR: 0.2.1
 population: '0.3'
 populationPDXdesign: 1.0.3
 porridge: 0.3.2
-port4me: 0.6.0
+port4me: 0.7.0
 portalr: 0.4.1
 portes: '6.0'
 portfolio: 0.5-2
@@ -20648,6 +20653,7 @@ psfmi: 1.4.0
 psgp: 0.3-21
 psica: 1.0.2
 psidR: '2.1'
+psidread: 1.0.0
 psmineR: 0.1.0
 pso: 1.0.4
 psoptim: '1.0'
@@ -20669,7 +20675,7 @@ psycModel: 0.5.0
 psych: 2.3.12
 psychNET: 0.0.4.1
 psychReport: 3.0.2
-psychTools: 2.3.12
+psychTools: 2.4.1
 psychmeta: 2.6.5
 psychmetadata: 1.0.0
 psycho: 0.6.1
@@ -21805,7 +21811,7 @@ rextendr: 0.3.1
 rfPermute: 2.5.2
 rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.3
-rfacebookstat: 2.9.3
+rfacebookstat: 2.9.9
 rfacts: 0.2.1
 rfars: 0.3.0
 rfbCNPJ: 0.1.1
@@ -23160,6 +23166,7 @@ sheldusr: '0.1'
 shelltrace: 3.5.1
 sherlock: 0.7.0
 shidashi: 0.1.5
+shide: 0.1.2
 shiftR: '1.5'
 shinipsum: 0.1.0
 shiny: 1.8.0
@@ -23359,7 +23366,7 @@ simPH: 1.3.13
 simPop: 2.1.3
 simPopulation: 0.4.1
 simRestore: 1.1.4
-simStateSpace: 1.0.1
+simStateSpace: 1.1.0
 simSummary: 0.1.0
 simTargetCov: 1.0.1
 simTool: 1.1.7
@@ -23527,7 +23534,7 @@ sleeperapi: 1.0.4
 sleepr: 0.3.0
 sleepwalk: 0.3.2
 sleev: 1.0.3
-slendr: 0.8.0
+slendr: 0.8.1
 slfm: 1.0.2
 slga: 1.2.0
 slgf: 2.0.0
@@ -23870,7 +23877,7 @@ spatsoc: 0.2.2
 spatstat: 3.0-7
 spatstat.Knet: 3.0-2
 spatstat.core: 2.4-4
-spatstat.data: 3.0-3
+spatstat.data: 3.0-4
 spatstat.explore: 3.2-5
 spatstat.geom: 3.2-7
 spatstat.gui: 3.0-1
@@ -24881,7 +24888,7 @@ texor: 1.3.0
 texreg: 1.39.3
 text: '1.0'
 text.alignment: 0.1.4
-text2map: 0.1.7
+text2map: 0.1.8
 text2sdg: 1.1.1
 text2sdgData: 0.1.1
 text2speech: 1.0.0
