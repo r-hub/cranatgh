@@ -224,7 +224,7 @@ AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
 AgroR: 1.3.5
-AgroReg: 1.2.9
+AgroReg: 1.2.10
 AgroTech: 1.0.2
 AhoCorasickTrie: 0.1.2
 AirMonitor: 0.3.12
@@ -1587,6 +1587,7 @@ DIZtools: 1.0.1
 DIZutils: 0.1.2
 DIconvex: 1.0.0
 DImodels: '1.3'
+DImodelsMulti: '1.0'
 DIscBIO: 1.2.2
 DJL: '3.9'
 DLASSO: 2.0.2
@@ -2012,7 +2013,7 @@ EMVS: 1.2.1
 EMbC: 2.0.4
 EMpeaksR: 0.3.1
 ENA: 1.3-0
-ENMTools: 1.1.1
+ENMTools: 1.1.2
 ENMeval: 2.0.4
 ENiRG: 1.0.1
 ENmisc: 1.2-7
@@ -2240,7 +2241,7 @@ FAO56: '1.0'
 FAOSTAT: 2.3.0
 FARDEEP: 1.0.1
 FAS: 1.0.0
-FAST.R: 0.1.2
+FAST.R: 0.1.3
 FASeg: 0.1.9
 FAVAR: 0.1.3
 FAdist: '2.4'
@@ -3338,7 +3339,7 @@ ImaginR: 0.1.7
 Imap: '1.32'
 Immigrate: 0.2.1
 ImpShrinkage: 1.0.0
-ImpactEffectsize: 0.6.2
+ImpactEffectsize: 0.6.3
 ImpactIV: '1.0'
 ImportExport: '1.3'
 ImportanceIndice: 0.0.2
@@ -4379,6 +4380,7 @@ MicrobiomeStat: '1.1'
 MicrobiomeSurv: 0.1.0
 Microsoft365R: 2.4.0
 MigClim: 1.6.2
+MigConnectivity: 0.4.5
 MigrationDetectR: 0.1.1
 MinBAR: 1.1.3
 MinEDfind: 0.1.3
@@ -4579,6 +4581,7 @@ NFLSimulatoR: 0.4.0
 NFP: 0.99.4
 NFWdist: 0.1.0
 NGBVS: 0.3.0
+NGCHM: 1.0.1
 NGLVieweR: 1.3.1
 NGSSEML: '2.2'
 NHANES: 2.1.0
@@ -5131,6 +5134,7 @@ PRP: 0.1.1
 PRROC: 1.3.1
 PRSPGx: 0.3.0
 PRSim: 1.4-4
+PRTree: 0.1.0
 PReMiuM: 3.2.13
 PResiduals: 1.0-1
 PSAWR: 0.1.0
@@ -5438,7 +5442,7 @@ PsyControl: 1.0.0.0
 PsychWordVec: '2023.9'
 PtProcess: 3.3-16
 PubBias: '1.0'
-PubChemR: '1.1'
+PubChemR: '1.2'
 PubMedMining: 1.0.0
 PubMedWordcloud: 0.3.6
 PublicationBias: 2.4.0
@@ -5524,6 +5528,7 @@ Quandl: 2.11.0
 QuantBondCurves: 0.1.0
 QuantNorm: 1.0.5
 QuantPsyc: '1.6'
+QuantRegGLasso: 1.0.0
 QuantTools: 0.5.7.1
 QuantifQuantile: '2.2'
 QuantileGH: 0.1.5
@@ -5708,7 +5713,7 @@ REPTILE: '1.0'
 REQS: 0.8-13
 REREFACT: '1.0'
 RESET: 0.2.1
-RESI: 1.2.0
+RESI: 1.2.4
 RESS: '1.3'
 REST: 1.0.1
 RESTK: 1.0.0
@@ -7498,6 +7503,7 @@ Survgini: '1.0'
 SurviMChd: 0.1.1
 SurvivalClusteringTree: '1.0'
 SurvivalPath: 1.3.2
+SurvivalTests: '1.0'
 SvyNom: '1.2'
 SwarmSVM: 0.1-7
 SweaveListingUtils: 0.7.7
@@ -7541,6 +7547,7 @@ TCA: 1.2.1
 TCC: 1.1.3
 TCGA2STAT: '1.2'
 TCGAretriever: '1.7'
+TCHazaRds: '1.0'
 TCIApathfinder: 1.0.6
 TCIU: 1.2.4
 TDA: '1.9'
@@ -7963,7 +7970,7 @@ VBTree: 0.1.1
 VBV: 0.6.2
 VBmix: 0.3.2
 VBsparsePCA: 0.1.0
-VC2copula: 0.1.2
+VC2copula: 0.1.3
 VCA: 1.4.5
 VDA: '1.3'
 VDAP: 2.0.0
@@ -8364,7 +8371,7 @@ adaptivetau: '2.3'
 adaptr: 1.3.2
 adaptsmoFMRI: '1.2'
 adass: 1.0.0
-adbcdrivermanager: 0.8.0
+adbcdrivermanager: 0.9.0.1
 adbcpostgresql: 0.9.0
 adbcsqlite: 0.9.0
 adbi: 0.1.0
@@ -8455,7 +8462,7 @@ aftR2: 0.1.0
 after: 1.0.0
 aftgee: 1.2.0
 afthd: 1.1.0
-afttest: 4.3.2.2
+afttest: 4.3.2.3
 ag5Tools: 0.0.2
 agRee: 0.5-3
 agce: '1.2'
@@ -8724,7 +8731,7 @@ appler: 0.2.1
 applicable: 0.1.0
 appnn: 1.0-0
 apportion: 0.0.1
-approxOT: 1.0.2
+approxOT: '1.1'
 approximator: 1.2-8
 approxmatch: '2.0'
 appsflyeR: 0.1.0
@@ -8959,7 +8966,7 @@ autocogs: 0.1.4
 autoencoder: '1.1'
 autoharp: 0.0.10
 autohd: 0.1.0
-autohrf: 1.1.2
+autohrf: 1.1.3
 autoimage: 2.2.3
 autokeras: 1.0.12
 automagic: 0.5.1
@@ -9097,7 +9104,7 @@ base64: 2.0.1
 base64enc: 0.1-3
 base64url: '1.4'
 baseballDBR: 0.1.2
-baseballr: 1.5.0
+baseballr: 1.6.0
 basecamb: 1.1.2
 basedosdados: 0.2.2
 baseflow: 0.13.2
@@ -9291,7 +9298,7 @@ behavr: 0.3.2
 belex: 0.1.0
 belg: 1.5.3
 belief: 1.0.1
-bellreg: 0.0.1
+bellreg: 0.0.2
 bench: 1.1.3
 benchden: 1.0.8
 benchmark: 0.3-6
@@ -9584,7 +9591,7 @@ blender: 0.1.2
 blighty: 3.1-4
 blin: 0.0.1
 blindrecalc: 1.0.1
-blindreview: 1.3.1
+blindreview: 2.0.0
 blink: 1.1.0
 bliss: 1.0.4
 blkbox: '1.0'
@@ -11213,11 +11220,11 @@ ctbi: 2.0.5
 ctest: 0.9-21
 ctf: 0.1.0
 ctgdist: 0.1.0
-ctgt: '2.0'
+ctgt: 2.0.1
 cthist: 2.1.6
 cthresh: '4.5'
 cthreshER: 1.1.0
-ctl: 1.0.0-9
+ctl: 1.0.0-10
 ctmcd: 1.4.3
 ctmcmove: 1.2.9
 ctmle: 0.1.2
@@ -11747,6 +11754,7 @@ dfexpand: 0.0.2
 dfexplore: 0.2.1
 dfidx: 0.0-5
 dfmeta: 1.0.0
+dfmirroR: 2.0.0
 dfms: 0.2.1
 dfmta: 1.7-3
 dfoliatR: 0.3.0
@@ -11992,7 +12000,7 @@ dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
 dmai: 0.4.0
-dmbc: 1.0.1
+dmbc: 1.0.2
 dmdScheme: 1.3.5
 dmetatools: 1.1.1
 dml: 1.1.0
@@ -12091,6 +12099,7 @@ dplbnDE: 0.1.3
 dplyr: 1.1.4
 dplyr.teradata: 0.4.1
 dplyrAssist: 0.1.0
+dpm: 1.2.0
 dpmixsim: 0.0-9
 dpmr: 0.1.9
 dppmix: 0.1.1
@@ -12279,7 +12288,7 @@ eBsc: '4.17'
 eCAR: 0.1.2
 eCV: 0.0.1
 eChem: 1.0.0
-eDITH: 0.1.2
+eDITH: 0.2.0
 eDMA: 1.5-3
 eFRED: 0.1.0
 eGST: 1.0.0
@@ -13030,7 +13039,7 @@ fable: 0.3.3
 fable.ata: 0.0.6
 fable.prophet: 0.1.0
 fabletools: 0.3.4
-fabricatr: 1.0.0
+fabricatr: 1.0.2
 fabricerin: 0.1.2
 face: 0.1-7
 facebook.S4: 1.1.0
@@ -14316,7 +14325,7 @@ ggisotonic: 0.1.2
 ggjoy: 0.4.1
 gglasso: '1.5'
 gglgbtq: 0.1.1
-gglm: 1.0.2
+gglm: 1.0.3
 gglogo: 0.1.5
 ggloop: 0.1.0
 gglorenz: 0.0.2
@@ -15308,7 +15317,7 @@ htmltools: 0.5.7
 htmlwidgets: 1.6.4
 htree: 2.0.0
 hts: 6.0.2
-htsr: 2.1.3
+htsr: 2.1.4
 httk: 2.3.0
 httpRequest: 0.0.11
 httpcache: 1.2.0
@@ -15381,7 +15390,7 @@ hyperSpec: 0.100.0
 hyperbrick: '1.0'
 hypercube: 0.2.1
 hyperdirichlet: 1.5-1
-hypergate: 0.8.4
+hypergate: 0.8.5
 hypergea: 1.3.6
 hypergeo: 1.2-13
 hyperoverlap: 1.1.1
@@ -15823,7 +15832,7 @@ introgress: 1.2.3
 intrval: 0.1-2
 intsurv: 0.2.2
 intsurvbin: 0.0.4
-intsvy: '2.8'
+intsvy: '2.9'
 intubate: 1.0.0
 inum: 1.0-5
 invGauss: '1.2'
@@ -16341,7 +16350,7 @@ kssa: 0.0.1
 kst: 0.5-4
 kstIO: 0.4-0
 kstMatrix: 0.2-0
-ktaucenters: 0.1.0
+ktaucenters: 1.0.0
 ktsolve: 1.3.1
 ktspair: '1.0'
 ktweedie: 1.0.3
@@ -17024,7 +17033,7 @@ machQA: 0.1.4
 machina: 0.1.6
 macleish: 0.3.9
 maclogp: 0.1.1
-macroBiome: 0.3.0
+macroBiome: 0.4.0
 macrocol: 0.1.0
 macrosyntR: 0.3.3
 macs: '1.0'
@@ -18285,7 +18294,7 @@ multicon: '1.6'
 multicool: 1.0.0
 multicore: '0.2'
 multicross: 2.1.0
-multid: 0.8.0
+multid: 0.9.0
 multidplyr: 0.1.3
 multifamm: 0.1.1
 multifear: 0.1.3
@@ -18567,6 +18576,7 @@ neo4jshell: 0.1.2
 neo4r: 0.1.1
 neojags: 0.1.4
 neonOS: 1.0.0
+neonPlantEcology: 1.3.5
 neonUtilities: 2.4.1
 neonstore: 0.5.0
 neotoma: 1.7.4
@@ -18868,7 +18878,7 @@ normwn.test: '1.2'
 norris: 0.1.1
 nortest: 1.0-4
 nortestARMA: 1.0.2
-nortsTest: 1.0.3
+nortsTest: 1.1.0
 nos: 1.1.0
 nose: '1.0'
 nosoi: 1.1.0
@@ -19258,7 +19268,7 @@ optiscale: 1.2.2
 optismixture: '0.1'
 optistock: 0.0.2
 optmatch: 0.10.7
-optparse: 1.7.3
+optparse: 1.7.4
 optpart: 3.0-3
 optrcdmaeAT: 1.0.0
 optrdd: 1.0.2
@@ -19540,6 +19550,7 @@ parboost: 0.1.4
 parcats: 0.0.5
 parcoords: 1.0.0
 parcor: 0.2-6
+parcr: 0.5.0
 parfm: 2.7.7
 parfossil: 0.2.0
 parglm: 0.1.7
@@ -19556,7 +19567,7 @@ parsedate: 1.3.1
 parsel: 0.3.0
 parsemsf: 0.1.1
 parser: '0.1'
-parsermd: 0.1.2
+parsermd: 0.1.3
 parsetools: 0.1.3
 parsnip: 1.1.1
 parspatstat: 0.1-4
@@ -20045,7 +20056,7 @@ pkgdown: 2.0.7
 pkgfilecache: 0.1.4
 pkggraph: 0.2.3
 pkglite: 0.2.1
-pkgload: 1.3.3
+pkgload: 1.3.4
 pkgmaker: 0.32.10
 pkgndep: 1.99.3
 pkgnet: 0.4.2
@@ -20994,6 +21005,7 @@ r2dii.analysis: 0.3.0
 r2dii.data: 0.4.1
 r2dii.match: 0.1.4
 r2dii.plot: 0.3.1
+r2fireworks: 0.1.0
 r2glmm: 0.1.2
 r2lUniv: 0.9.4
 r2lh: '0.7'
@@ -22151,6 +22163,7 @@ robustgam: 0.1.7
 robustlm: 0.1.0
 robustlmm: 3.3-1
 robustloggamma: 1.0-2.1
+robustmatrix: 0.1.0
 robustmeta: 1.2-1
 robustrank: 2019.9-10
 robustrao: 1.0-5
@@ -22304,7 +22317,7 @@ rqdatatable: 1.3.3
 rqlm: 1.1-1
 rqmcmb2: 1.0.2-1
 rquery: 1.4.99
-rr: 1.4.1
+rr: 1.4.2
 rr2: 1.1.1
 rrBLUP: 4.6.3
 rrBlupMethod6: '1.3'
@@ -22602,7 +22615,7 @@ saccades: 0.1-1
 saccadr: 0.1.3
 sad: 0.1.3
 sadists: 0.2.5
-sads: 0.4.2
+sads: 0.6.3
 sae: '1.3'
 sae.prop: 0.1.2
 sae2: 1.2-1
@@ -22814,6 +22827,7 @@ scico: 1.5.0
 scicomptools: 1.0.0
 scidb: 3.0.0
 scidesignR: 1.0.0
+scientific: '2024.0'
 scientoText: '0.1'
 scifigure: '0.2'
 scio: 0.9.0
@@ -23899,7 +23913,7 @@ spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
 spdep: 1.3-1
-spdesign: 0.0.2
+spdesign: 0.0.3
 spdl: 0.0.5
 spdownscale: 0.1.0
 spdplyr: 0.4.0
@@ -25543,7 +25557,7 @@ turfR: 0.8-7
 turner: 0.1.7
 tutoR: 0.3.2
 tutorial: 0.4.3
-tutorial.helpers: 0.2.5
+tutorial.helpers: 0.2.6
 tuts: 0.1.1
 tv: 2.0.0
 tvR: 0.3.2
@@ -25836,7 +25850,7 @@ variosig: 0.3-1
 varitas: 0.0.2
 varjmcm: 0.1.1
 varmixt: 0.2-4
-varoc: 0.1.0
+varoc: 0.2.0
 varrank: '0.5'
 vars: 1.6-0
 varsExplore: 0.3.0
@@ -25958,6 +25972,7 @@ viscomp: 1.0.0
 viscomplexr: 1.1.1
 visdat: 0.6.0
 visit: '2.2'
+vismeteor: 1.8.5
 visova: '1.1'
 visreg: 2.7.0
 vistime: 1.2.4
@@ -26253,7 +26268,7 @@ wiqid: 0.3.3
 wiseR: 1.0.1
 wiserow: 0.1.0
 withdots: 0.1.1
-withr: 2.5.2
+withr: 3.0.0
 witness: '1.2'
 wk: 0.9.1
 wkNNMI: 1.0.0
