@@ -161,7 +161,7 @@ ASSA: '2.0'
 ASSISTant: 1.4.3
 ASSOCShiny: 0.1.0
 AST: 0.1.0
-ASV: 1.1.1
+ASV: 1.1.2
 ATAforecasting: 0.0.60
 ATE: 0.2.0
 ATNr: 1.1.0
@@ -999,7 +999,7 @@ CMPControl: '1.0'
 CMShiny: 0.1.0
 CMapViz: 0.1.0
 CMatching: 2.3.0
-CMplot: 4.5.0
+CMplot: 4.5.1
 CNAIM: 2.1.4
 CNID: 1.3.1
 CNLTreg: 0.1-2
@@ -2288,7 +2288,7 @@ FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
 FIESTA: 3.6.0
-FIESTAutils: 1.2.0
+FIESTAutils: 1.2.1
 FILEST: 1.1.2
 FIT: 0.0.6
 FITSio: 2.1-6
@@ -2587,7 +2587,7 @@ GEOmap: 2.5-5
 GERGM: 0.13.0
 GESE: 2.0.1
 GESTr: '0.1'
-GET: '0.5'
+GET: '1.0'
 GETdesigns: 1.1.0
 GEVACO: 1.0.1
 GEVStableGarch: '1.1'
@@ -2871,6 +2871,7 @@ GillespieSSA: 0.6.2
 GillespieSSA2: 0.3.0
 GimmeMyPlot: 0.1.0
 Gini: 0.1.0
+GiniDecompLY: 1.0.0
 GiniDistance: 0.1.1
 GiniWegNeg: 1.0.1
 Giza: '1.0'
@@ -3392,7 +3393,7 @@ InterVA5: 1.1.3
 Interact: '1.1'
 InteractionPoweR: 0.2.1
 InteractiveIGraph: 1.0.6.1
-Interatrix: 1.1.3
+Interatrix: 1.1.4
 InterfaceqPCR: 1.0.1
 Interpol: 1.3.1
 Interpol.T: 2.1.1
@@ -3899,7 +3900,7 @@ MBTAr: 2.0.0
 MBmca: 1.0.1-3
 MC2toPath: 0.0.16
 MCAPS: 0.3-2
-MCARtest: '1.1'
+MCARtest: '1.2'
 MCAvariants: 2.6.1
 MCBackscattering: 0.1.1
 MCDA: 0.1.0
@@ -4450,7 +4451,7 @@ MolgenisArmadillo: 2.3.0
 MolgenisAuth: 0.0.25
 MomTrunc: '6.0'
 Momocs: 1.4.1
-Mondrian: 1.1.0
+Mondrian: 1.1-1
 MonetDB.R: 2.0.0
 MonetDBLite: 0.6.0
 MonoInc: '1.1'
@@ -4617,7 +4618,7 @@ NMMAPSlite: 0.3-4
 NMMIPW: 0.1.0
 NMOF: 2.8-0
 NMRS: '1.0'
-NMRphasing: 1.0.3
+NMRphasing: 1.0.4
 NMTox: 0.1.0
 NMVANOVA: 1.1.0
 NMcalc: 0.0.3
@@ -5527,7 +5528,7 @@ QuESTr: 0.1.1
 QuadRoot: 0.2.1
 QualInt: 1.0.0
 Quandl: 2.11.0
-QuantBondCurves: 0.1.0
+QuantBondCurves: 0.2.0
 QuantNorm: 1.0.5
 QuantPsyc: '1.6'
 QuantRegGLasso: 1.0.0
@@ -5663,7 +5664,7 @@ RCassandra: 0.1-3
 RChest: 1.0.3
 RChronoModel: '0.4'
 RCircos: 1.2.2
-RClickhouse: 0.6.8
+RClickhouse: 0.6.9
 RClimMAWGEN: '1.1'
 RClimacell: 0.1.4
 RClone: 1.0.3
@@ -7619,7 +7620,7 @@ TPD: 1.1.0
 TPEA: 3.1.0
 TPES: 1.0.0
 TPLSr: 1.0.4
-TPMplt: 0.1.3
+TPMplt: 0.1.4
 TPmsm: 1.2.12
 TR8: 0.9.22
 TRADER: 1.2-3
@@ -8802,7 +8803,7 @@ ariExtra: 0.3.1
 aricode: 1.0.3
 arima2: 3.1.0
 arkdb: 0.0.18
-arkhe: 1.4.0
+arkhe: 1.5.0
 arm: 1.13-1
 armada: 0.1.0
 armspp: 0.0.2
@@ -8834,7 +8835,7 @@ arulesViz: 1.5-2
 as.color: '0.1'
 asVPC: 1.0.2
 asaur: '0.50'
-asbio: 1.9-6
+asbio: 1.9-7
 ascentTraining: 1.0.0
 ascii: '2.4'
 asciiSetupReader: 2.5.1
@@ -9588,7 +9589,7 @@ blaster: 1.0.7
 blastula: 0.3.4
 blatent: 0.1.2
 blatr: 1.0.1
-blavaan: 0.5-2
+blavaan: 0.5-3
 blendedLink: '1.0'
 blender: 0.1.2
 blighty: 3.1-4
@@ -11082,7 +11083,7 @@ crackR: 0.3-9
 cragg: 0.0.1
 cramer: 0.9-3
 crandatapkgs: 0.1.8
-crandep: 0.3.4
+crandep: 0.3.5
 crank: 1.1-2
 cranlike: 1.0.2
 cranlogs: 2.1.1
@@ -11743,7 +11744,7 @@ devRate: 0.2.4
 devoid: 0.1.2
 devtoolbox: 0.2.0
 devtools: 2.4.5
-dexter: 1.3.3
+dexter: 1.4.0
 dexterMST: 0.9.6
 dextergui: 0.2.6
 df2json: 0.0.2
@@ -12291,7 +12292,7 @@ e1071: 1.7-14
 eAnalytics: '0.3'
 eBsc: '4.17'
 eCAR: 0.1.2
-eCV: 0.0.1
+eCV: 0.0.2
 eChem: 1.0.0
 eDITH: 0.2.0
 eDMA: 1.5-3
@@ -12749,6 +12750,7 @@ equivalence: 0.7.2
 equivalenceTest: 0.0.1.1
 era: 0.4.1
 erah: 2.0.1
+erboost: '1.4'
 ercv: 1.0.1
 erer: '3.1'
 erfe: 0.0.1
@@ -12881,6 +12883,7 @@ evolqg: 0.3-4
 evolvability: 2.0.0
 evoper: 0.5.0
 evora: '1.0'
+evprof: 1.0.0
 evreg: 1.0.3
 evt0: 1.1-4
 evtclass: '1.0'
@@ -13329,7 +13332,7 @@ figuRes2: 1.0.0
 file2meco: 0.7.0
 filearray: 0.1.6
 filebin: 0.0.6
-filecacher: 0.2.7
+filecacher: 0.2.9
 filehash: 2.4-5
 filehashSQLite: 0.2-6
 filelock: 1.0.3
@@ -13506,7 +13509,7 @@ fmpcloudr: 0.1.5
 fmri: 1.9.12
 fmriqa: 0.3.0
 fmrs: 1.0-9
-fmsb: 0.7.5
+fmsb: 0.7.6
 fmt: '2.0'
 fmtr: 1.6.3
 fnets: 0.1.5
@@ -14303,7 +14306,7 @@ ggfocus: 1.0.0
 ggforce: 0.4.1
 ggformula: 0.12.0
 ggfortify: 0.4.16
-ggfun: 0.1.3
+ggfun: 0.1.4
 ggfx: 1.0.1
 gggap: 1.0.1
 gggenes: 0.5.1
@@ -14542,7 +14545,7 @@ glmmSeq: 0.5.5
 glmmTMB: 1.1.8
 glmmboot: 0.6.0
 glmmfields: 0.1.8
-glmmrBase: 0.6.1
+glmmrBase: 0.6.2
 glmmrMCML: 0.2.2
 glmmrOptim: 0.3.3
 glmmsr: 0.2.3
@@ -14756,7 +14759,7 @@ graphicalVAR: 0.3.3
 graphicsQC: 1.0-8
 graphite: '1.1'
 graphkernels: 1.6.1
-graphlayouts: 1.0.2
+graphlayouts: 1.1.0
 graphon: 0.3.5
 graphql: 1.5.1
 graphscan: 1.1.1
@@ -15153,7 +15156,7 @@ hhi: 1.2.0
 hhsmm: 0.3.6
 hht: 2.1.6
 hiPOD: '1.0'
-hibayes: 3.0.1
+hibayes: 3.0.2
 hiddenf: '2.0'
 hidecan: 1.1.0
 hidetify: 0.0.1
@@ -16850,7 +16853,7 @@ loggit: 2.1.1
 loggle: '1.0'
 logiBin: '0.3'
 logib: 0.1.2
-logicDT: 1.0.3
+logicDT: 1.0.4
 logihist: '1.0'
 logilasso: 0.1.0
 logistf: 1.26.0
@@ -17749,7 +17752,7 @@ misspi: 0.1.0
 mistat: 2.0.4
 mistr: 0.0.6
 mistral: 2.2.2
-misty: 0.6.0
+misty: 0.6.1
 mitml: 0.4-5
 mitools: '2.4'
 mitre: 1.0.0
@@ -17965,7 +17968,7 @@ mod: 0.1.3
 mod09nrt: '0.14'
 mod2rm: 0.2.1
 modACDC: 1.0.0
-modEvA: '3.11'
+modEvA: 3.13.3
 modMax: '1.1'
 modQR: 0.1.3
 modTempEff: 1.5.2
@@ -18103,7 +18106,7 @@ moult: 2.3.1
 mountainplot: '1.4'
 mousetRajectory: 0.2.1
 mousetrack: 1.0.0
-mousetrap: 3.2.2
+mousetrap: 3.2.3
 movMF: 0.2-8
 move: 4.2.4
 move2: 0.2.7
@@ -18449,6 +18452,7 @@ mwTensor: 1.1.0
 mwa: 0.4.4
 mwaved: 1.1.8
 mwcsr: 0.1.7
+mwlaxeref: 0.0.1
 mwshiny: 2.1.0
 mxkssd: '1.2'
 mxmmod: 1.1.0
@@ -19214,6 +19218,7 @@ openeo: 1.3.0
 openintro: 2.4.0
 openmeteo: 0.2.4
 openmetrics: 0.3.0
+openscoring: 1.0.0
 opensensmapr: 0.6.0
 openssl: 2.1.1
 opentick: 0.1-1
@@ -19387,7 +19392,7 @@ outsider: 0.1.1
 outsider.base: 0.1.4
 ouxy: '2.1'
 overdisp: 0.1.2
-overlap: 0.3.4.1
+overlap: 0.3.9
 overlapping: '2.1'
 overlapptest: '1.3'
 overture: 0.4-0
@@ -19620,7 +19625,7 @@ patentsview: 0.3.0
 path.chain: 0.2.0
 pathClass: 0.9.4
 pathdiagram: 0.1.9.1
-pathfindR: 2.3.0
+pathfindR: 2.3.1
 pathfindR.data: 2.0.0
 pathlibr: 0.1.0
 pathling: 6.4.2
@@ -19919,7 +19924,7 @@ phenofit: 0.3.8
 phenolocrop: 0.0.2
 phenology: '9.1'
 phenomap: 2.0.1
-phenopix: 2.4.3
+phenopix: 2.4.4
 phers: 1.0.2
 phiDelta: 1.0.1
 phia: 0.3-1
@@ -21592,7 +21597,7 @@ redR: 1.0.1
 reda: 0.5.4
 redbookperu: 0.0.2
 redcapAPI: 2.8.0
-reddPrec: 2.0.0
+reddPrec: 2.0.1
 redditadsR: 0.1.0
 redist: 4.2.0
 redistmetrics: 1.0.7
@@ -21884,7 +21889,7 @@ rgeospatialquality: 0.3.2
 rgexf: 0.16.2
 rggm: 1.0.1.1
 rggobi: 2.1.22
-rgho: 3.0.1
+rgho: 3.0.2
 rgl: 1.2.8
 rgl2gltf: 1.0.3
 rglobi: 0.3.4
@@ -22324,7 +22329,7 @@ rpyANTs: 0.0.3
 rpymat: 0.1.7
 rqPen: 3.2.1
 rqdatatable: 1.3.3
-rqlm: 1.1-1
+rqlm: 1.2-1
 rqmcmb2: 1.0.2-1
 rquery: 1.4.99
 rr: 1.4.2
@@ -23166,7 +23171,7 @@ sgt: '2.0'
 shades: 1.4.0
 shadow: 0.7.1
 shadowr: 0.0.2
-shadowtext: 0.1.2
+shadowtext: 0.1.3
 shallot: 0.4.10
 shape: 1.4.6
 shapeNA: 0.0.2
@@ -25103,7 +25108,7 @@ tidystringdist: 0.1.4
 tidysynth: 0.2.0
 tidytable: 0.10.2
 tidytags: 1.1.1
-tidyterra: 0.5.1
+tidyterra: 0.5.2
 tidytext: 0.4.1
 tidytidbits: 0.3.2
 tidytlg: 0.1.4
@@ -26023,7 +26028,7 @@ vocaldia: 0.8.4
 voi: 1.0.2
 voice: 0.4.21
 voiceR: 0.1.0
-vol2birdR: 1.0.1
+vol2birdR: 1.0.2
 volatilityTrader: 1.0.1
 volcano3D: 2.0.9
 volcanoPlot: 1.0.0
@@ -26490,7 +26495,7 @@ yamlet: 0.10.33
 yamlme: 0.1.2
 yap: 0.1.1
 yaps: 1.2.5
-yardstick: 1.2.0
+yardstick: 1.3.0
 yarr: 0.1.2
 yarrr: 0.1.5
 yasp: 0.2.0
