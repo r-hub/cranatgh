@@ -1396,7 +1396,7 @@ CorrMixed: '1.1'
 CorrToolBox: 1.6.4
 CorrectOverloadedPeaks: 1.3.3
 CorrectedFDR: '1.1'
-Correlplot: 1.0.8
+Correlplot: 1.0.9
 CosW: '0.1'
 CosmoPhotoz: '0.1'
 Counterfactual: '1.2'
@@ -1994,7 +1994,7 @@ EMMIXSSL: 1.1.1
 EMMIXcontrasts: 1.0.0
 EMMIXcontrasts2: 0.1.2
 EMMIXcskew: 0.9-5
-EMMIXgene: 0.1.3
+EMMIXgene: 0.1.4
 EMMIXmfa: 2.0.11
 EMMIXskew: 1.0.3
 EMMIXuskew: 0.11-6
@@ -2318,7 +2318,7 @@ FMradio: 1.1.1
 FMsmsnReg: '1.0'
 FNN: 1.1.4
 FOCI: 0.1.3
-FORTLS: 1.3.0
+FORTLS: 1.4.0
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPDC: '1.0'
@@ -4403,7 +4403,7 @@ Missplot: 0.1.0
 MitISEM: '1.2'
 MitoHEAR: 0.1.0
 MittagLeffleR: 0.4.1
-MixAll: 1.5.1
+MixAll: 1.5.10
 MixGHD: 2.3.7
 MixMAP: 1.3.4
 MixMatrix: 0.2.6
@@ -5541,7 +5541,7 @@ QuantumClone: 1.0.0.6
 QuantumOps: 3.0.1
 Quartet: 1.2.5
 QuasiSeq: 1.0-11-0
-QuickJSR: 1.0.9
+QuickJSR: 1.1.0
 Quor: '0.1'
 QurvE: '1.1'
 R.SamBada: 0.1.3
@@ -5945,7 +5945,7 @@ ROP: '1.0'
 ROSE: 0.0-4
 RObsDat: '16.03'
 ROlogit: 0.1.2
-ROpenCVLite: 4.90.0
+ROpenCVLite: 4.90.1
 ROpenDota: 0.1.2
 ROpenFIGI: 0.2.8
 ROpenWeatherMap: '1.1'
@@ -5977,7 +5977,7 @@ RPostgreSQL: 0.7-6
 RPostgres: 1.4.6
 RPresto: 1.4.6
 RProbSup: '3.0'
-RProtoBuf: 0.4.21
+RProtoBuf: 0.4.22
 RPscoring: 0.1.0
 RPtests: 0.1.5
 RPublica: 0.1.3
@@ -6023,7 +6023,7 @@ RSP: '0.4'
 RSPS: '1.0'
 RSQL: 0.2.2
 RSQLServer: 0.3.0
-RSQLite: 2.3.4
+RSQLite: 2.3.5
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.7
 RSSOP: '1.1'
@@ -6528,7 +6528,7 @@ Rmolt: 1.0.0
 Rmonize: 1.0.1
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
-Rmpfr: 0.9-4
+Rmpfr: 0.9-5
 Rmpi: 0.7-2
 Rmst: 0.0.3
 Rnanoflann: 0.0.2
@@ -7466,7 +7466,7 @@ SubgrpID: '0.11'
 SubpathwayGMir: '1.0'
 SubpathwayLNCE: '1.0'
 SubpathwayMiner: '3.1'
-SubtypeDrug: 0.1.6
+SubtypeDrug: 0.1.7
 SuessR: 0.1.5
 SummaryLasso: 1.2.1
 Sunclarco: 1.0.0
@@ -7557,7 +7557,7 @@ TCIU: 1.2.4
 TDA: '1.9'
 TDAkit: 0.1.2
 TDAmapper: '1.0'
-TDApplied: 3.0.0
+TDApplied: 3.0.2
 TDAstats: 0.4.1
 TDAvec: 0.1.3
 TDCor: 0.1-2
@@ -7753,7 +7753,7 @@ TestCor: 0.0.2.2
 TestDataImputation: '2.3'
 TestDesign: 1.5.1
 TestDimorph: 0.5.8
-TestFunctions: 0.2.0
+TestFunctions: 0.2.1
 TestGardener: 3.3.2
 TestScorer: 1.7.2
 TestSurvRec: 1.2.1
@@ -7899,7 +7899,7 @@ UCSCXenaShiny: 1.1.10
 UCSCXenaTools: 1.4.8
 UComp: 4.0.2
 UKB.COVID19: 0.1.3
-UKFE: 0.3.2
+UKFE: 0.3.3
 UKgrid: 0.1.3
 UMR: 1.1.0
 UNCLES: '2.0'
@@ -8376,7 +8376,7 @@ adaptr: 1.3.2
 adaptsmoFMRI: '1.2'
 adass: 1.0.0
 adbcdrivermanager: 0.9.0.1
-adbcpostgresql: 0.9.0
+adbcpostgresql: 0.9.0.1
 adbcsqlite: 0.9.0
 adbi: 0.1.0
 adc: 1.0.0
@@ -10342,7 +10342,7 @@ ciccr: 0.3.0
 cicerone: 1.0.4
 cif: 0.1.1
 cifti: 0.4.5
-ciftiTools: 0.12.2
+ciftiTools: 0.13.4
 cimir: 0.4-1
 cimis: 0.1-7
 cin: '0.1'
@@ -10863,7 +10863,7 @@ controlTest: 1.1.0
 controlfunctionIV: 0.1.1
 contsurvplot: 0.2.1
 convdistr: 1.5.3
-convergEU: 0.5.5
+convergEU: 0.7.3.2
 convertGraph: '0.1'
 convertbonds: 0.1.0
 convertid: 0.1.8
@@ -10981,7 +10981,7 @@ countfitteR: '1.4'
 countgmifs: 0.0.2
 countland: 0.1.1
 countprop: 1.0.1
-countries: 1.1.2
+countries: 1.2.0
 countrycode: 1.5.0
 countsplit: 4.0.0
 countts: 0.1.0
@@ -11828,7 +11828,7 @@ diffEq: 1.0-1
 diffIRT: '1.5'
 diffMeanVar: 0.0.6
 diffMeshGP: 0.1.0
-diffcor: 0.8.1
+diffcor: 0.8.2
 diffdepprop: 0.1-9
 diffdf: 1.0.4
 diffdfs: 0.9.0
@@ -12000,7 +12000,7 @@ dlookr: 0.6.2
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.7
-dm: 1.0.9
+dm: 1.0.10
 dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
@@ -12858,7 +12858,7 @@ evdbayes: 1.1-3
 event: 1.1.1
 event.chart: '2.0'
 eventInterval: '1.3'
-eventPred: 0.2.3
+eventPred: 0.2.4
 eventTrack: 1.0.3
 eventdataR: 0.3.1
 eventglm: 1.2.2
@@ -13372,7 +13372,7 @@ finnishgrid: 0.1.0
 finnts: 0.4.0
 finreportr: 1.0.4
 fipe: 0.0.1
-fipio: 1.1.1
+fipio: 1.1.2
 fipp: 1.0.0
 firebase: 1.0.2
 firebehavioR: 0.1.2
@@ -15376,7 +15376,7 @@ hydra: 0.1.0
 hydraulics: 0.6.1
 hydroApps: 0.1-1
 hydroEvents: '0.11'
-hydroGOF: 0.4-0
+hydroGOF: 0.5-4
 hydroMOPSO: 0.1-3
 hydroPSO: 0.5-1
 hydroTSM: 0.7-0
@@ -15652,7 +15652,7 @@ implicitExpansion: 0.1.0
 implicitMeasures: 0.2.1
 implied: '0.5'
 implyr: 0.4.0
-import: 1.3.1
+import: 1.3.2
 importar: 0.1.1
 importinegi: 1.2.1
 imprProbEst: 1.0.1
@@ -17988,7 +17988,7 @@ modelbased: 0.8.6
 modelbpp: 0.1.2
 modelc: 1.0.0.0
 modelcf: 2.1.1
-modeldata: 1.2.0
+modeldata: 1.3.0
 modeldatatoo: 0.2.1
 modeldb: 0.3.0
 modelenv: 0.1.1
@@ -18024,7 +18024,7 @@ modmarg: 0.9.6
 modnets: 0.9.0
 modopt.matlab: 1.0-2
 moduleColor: 1.8-4
-modules: 0.12.0
+modules: 0.13.0
 modygliani: '1.0'
 moexer: 0.2.0
 moezipfR: 1.0.2
@@ -18826,7 +18826,7 @@ noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
 noctua: 2.6.2
-nodbi: 0.9.8
+nodbi: 0.10.0
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodeSub: 1.2.8
@@ -19024,7 +19024,7 @@ oXim: 1.2.2
 oaColors: 0.0.4
 oaPlots: 0.0.25
 oai: 0.4.0
-oaii: 0.1.9
+oaii: 0.3.0
 oak: 0.2.3
 oapackage: 2.0.23
 oaqc: '1.0'
@@ -19493,7 +19493,7 @@ paleofire: 1.2.4
 paleomorph: 0.1.4
 paleopop: 2.1.5
 paleotree: 3.4.5
-paletteer: 1.5.0
+paletteer: 1.6.0
 paletteknife: 0.4.2
 palettes: 0.1.1
 palettesForR: 0.1.2
@@ -20093,7 +20093,7 @@ planar: '1.6'
 planets: 0.1.0
 planningML: 1.0.1
 planor: 1.5-3
-planr: 0.1.1
+planr: 0.3.0
 plantTracker: 1.1.0
 plantecophys: 1.4-6
 plantecowrap: 1.0.4
@@ -20453,7 +20453,7 @@ precintcon: 2.3.0
 precisePlacement: 0.1.0
 precisely: 0.1.2
 precmed: 1.0.0
-precommit: 0.3.2
+precommit: 0.4.0
 precondition: 0.1.0
 precrec: 0.14.4
 predReliability: 0.1.0
@@ -20676,7 +20676,7 @@ psfmi: 1.4.0
 psgp: 0.3-21
 psica: 1.0.2
 psidR: '2.1'
-psidread: 1.0.0
+psidread: 1.0.1
 psmineR: 0.1.0
 pso: 1.0.4
 psoptim: '1.0'
@@ -22192,7 +22192,7 @@ rocTree: 1.1.1
 rocbc: 2.0.0
 rocc: '1.3'
 roccv: '1.2'
-rock: 0.6.7
+rock: 0.8.1
 rockchalk: 1.8.157
 rocker: 0.3.1
 rockr: 1.0.0
@@ -23054,7 +23054,7 @@ sense: 1.0.0
 sensemakr: 0.1.4
 sensiPhy: 0.8.5
 sensibo.sky: 1.0.0
-sensitivity: 1.29.0
+sensitivity: 1.30.0
 sensitivity2x2xk: '1.01'
 sensitivityCalibration: 0.0.1
 sensitivityPStrat: 1.0-6
@@ -23322,7 +23322,7 @@ shopifyr: 1.0.0
 shoredate: 1.1.1
 shortIRT: 0.1.2
 shortcuts: 1.4.0
-shorts: 3.0.0
+shorts: 3.1.0
 shotGroups: 0.8.2
 showimage: 1.0.0
 showtext: 0.9-6
@@ -24102,6 +24102,7 @@ spweights: 0.1-7
 sqlHelpers: 0.1.2
 sqlcaser: 0.2.0
 sqldf: 0.4-11
+sqlhelper: 0.2.1
 sqliter: 0.1.0
 sqliteutils: 0.1.0
 sqlparseR: 0.1.0
@@ -25290,7 +25291,7 @@ torchdatasets: 0.3.0
 torchopt: 0.1.4
 torchvision: 0.5.1
 torchvisionlib: 0.4.0
-tornado: 0.1.2
+tornado: 0.1.3
 torus: '1.01'
 tosca: 0.3-2
 toscmask: 1.2.3
@@ -25694,7 +25695,7 @@ uni.survival.tree: '1.5'
 uniCox: '1.0'
 uniPlot: 0.3-1
 uniReg: '1.1'
-uniah: '1.1'
+uniah: '1.2'
 unicol: 0.2.0
 unifDAG: 1.0.3
 unifed: 1.1.6
@@ -25970,9 +25971,9 @@ vioplot: 0.4.0
 viopoints: 0.2-1
 vip: 0.4.1
 vipor: 0.4.7
-viraldomain: 0.0.2
-viralmodels: 1.1.0
-viralx: 1.1.0
+viraldomain: 0.0.3
+viralmodels: 1.2.0
+viralx: 1.2.0
 viridis: 0.6.4
 viridisLite: 0.4.2
 viromeBrowser: 1.1.0
@@ -26475,7 +26476,7 @@ xtermStyle: 3.0.5
 xtractomatic: 3.4.2
 xtranat: 0.1.0
 xtreg2way: 1.0.0
-xts: 0.13.1
+xts: 0.13.2
 xtsum: 0.1.0
 xtune: 2.0.0
 xutils: 0.0.2
