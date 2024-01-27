@@ -619,7 +619,7 @@ BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
 BayesMRA: 1.0.0
-BayesMallows: 2.0.0
+BayesMallows: 2.0.1
 BayesMassBal: 1.1.0
 BayesMed: 1.0.1
 BayesMixSurv: 0.9.1
@@ -1225,7 +1225,7 @@ ClimClass: 2.1.0
 ClimDown: 1.0.8
 ClimInd: 0.1-3
 ClimMobTools: '1.2'
-ClimProjDiags: 0.3.2
+ClimProjDiags: 0.3.3
 ClinReport: 0.9.1.14
 ClinSigMeasures: '1.0'
 ClinicalRobustPriors: 2.1-2
@@ -1961,7 +1961,7 @@ EGRET: 3.0.9
 EGRETci: 2.0.4
 EGRNi: 0.1.6
 EHR: 0.4-11
-EHRtemporalVariability: 1.2.0
+EHRtemporalVariability: 1.2.1
 EIAapi: 0.1.2
 EIAdata: 0.1.3
 EILA: 0.1-2
@@ -2417,7 +2417,7 @@ FinAsym: '1.0'
 FinCal: 0.6.3
 FinCovRegularization: 1.1.0
 FinNet: 0.1.2
-FinTS: 0.4-8
+FinTS: 0.4-9
 FinancialInstrument: 1.3.1
 FinancialMath: 0.1.1
 FindAllRoots: '1.0'
@@ -2697,7 +2697,7 @@ GPRMortality: 0.1.0
 GPSCDF: 0.1.1
 GPSeqClus: 1.4.0
 GPUmatrix: 1.0.1
-GPareto: 1.1.7
+GPareto: 1.1.8
 GPfit: 1.0-8
 GPlab: 0.1.0
 GPoM: '1.4'
@@ -3728,7 +3728,7 @@ LabApplStat: 1.4.4
 LabRS: 0.1.0
 LabourMarketAreas: '3.4'
 LadR: 1.0.6
-LadderFuelsR: 0.0.2
+LadderFuelsR: 0.0.3
 LagSequential: 0.1.1
 Lahman: 11.0-0
 LakeMetabolizer: 1.5.5
@@ -5546,7 +5546,7 @@ Quartet: 1.2.5
 QuasiSeq: 1.0-11-0
 QuickJSR: 1.1.0
 Quor: '0.1'
-QurvE: '1.1'
+QurvE: 1.1.1
 R.SamBada: 0.1.3
 R.cache: 0.16.0
 R.devices: 2.17.1
@@ -6797,7 +6797,7 @@ SECP: 0.1.5
 SEER2R: '1.0'
 SEERaBomb: '2019.2'
 SEHmodel: 0.0.11
-SEI: 0.1.0
+SEI: 0.1.1
 SEIRfansy: 1.1.1
 SEL: 1.0-4
 SELF: 0.1.1
@@ -7249,7 +7249,7 @@ SkyWatchr: 0.8-2
 SlaPMEG: 1.0.1
 SleepCycles: 1.1.4
 Sleuth2: 2.0-7
-Sleuth3: 1.0-3
+Sleuth3: 1.0-6
 SlidingWindows: 0.2.0
 SlimPLS: '0.3'
 SmCCNet: 2.0.2
@@ -7843,7 +7843,7 @@ TransTGGM: 1.0.0
 TransferEntropy: '1.4'
 Transform: '1.0'
 Tratamentos.ad: 0.2.4
-TreatmentPatterns: 2.6.3
+TreatmentPatterns: 2.6.4
 TreatmentSelection: 2.1.1
 TreeBUGS: 1.5.0
 TreeDep: 0.1.3
@@ -8040,6 +8040,7 @@ VdgRsm: '1.5'
 Vdgraph: 2.2-7
 VecStatGraphs2D: '1.8'
 VecStatGraphs3D: '1.6'
+VeccTMVN: 1.0.0
 VectorCodeR: 0.2.0
 VedicDateTime: 0.1.9
 VennDiagram: 1.7.3
@@ -8370,7 +8371,7 @@ adapt: 1.0-4
 adapt4pv: 0.2-3
 adaptDA: '1.0'
 adaptDiag: 0.1.0
-adaptIVPT: 1.0.0
+adaptIVPT: 1.1.0
 adaptMCMC: '1.4'
 adaptMT: 1.0.0
 adaptTest: '1.2'
@@ -8600,7 +8601,7 @@ altdoc: 0.2.2
 alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '4.1'
-amanida: 0.2.3
+amanida: 0.3.0
 amanpg: 0.3.4
 amap: 0.8-19
 amapGeocode: 0.6.0
@@ -8668,7 +8669,7 @@ aniview: 0.1.0
 anm: 1.1-1
 anndata: 0.7.5.6
 annmatrix: 0.1.2
-annotater: 0.2.2
+annotater: 0.2.3
 annotator: 0.0.3.1
 annovarR: 1.0.0
 anocva: 0.1.1
@@ -9711,7 +9712,7 @@ bootRes: 1.2.4
 bootSVD: '1.1'
 bootStepAIC: 1.3-0
 bootTimeInference: 0.1.0
-bootUR: 1.0.2
+bootUR: 1.0.3
 bootcluster: 0.3.2
 bootf2: 0.4.1
 bootfs: 1.4.2
@@ -10570,7 +10571,7 @@ cmrutils: 1.3.1
 cms: 0.1.0
 cmsaf: 3.5.0
 cmsafops: 1.3.0
-cmsafvis: 1.2.2
+cmsafvis: 1.2.3
 cmstatr: 0.9.2
 cmtest: 0.1-2
 cmvnorm: 1.0-7
@@ -10602,7 +10603,7 @@ cocotest: 1.0.3
 cocron: 1.0-1
 coda: 0.19-4
 coda.base: 0.5.5
-coda4microbiome: 0.2.1
+coda4microbiome: 0.2.2
 codacore: 0.0.4
 codadiags: '1.0'
 codalm: 0.1.2
@@ -11541,7 +11542,7 @@ dbparser: 2.0.1
 dbplot: 0.3.3
 dbplyr: 2.4.0
 dbscan: 1.1-12
-dbstats: 2.0.1
+dbstats: 2.0.2
 dbx: 0.3.1
 dc3net: 1.2.0
 dcGOR: 1.0.6
@@ -11768,7 +11769,7 @@ dfexpand: 0.0.2
 dfexplore: 0.2.1
 dfidx: 0.0-5
 dfmeta: 1.0.0
-dfmirroR: 2.0.0
+dfmirroR: 2.1.0
 dfms: 0.2.1
 dfmta: 1.7-3
 dfoliatR: 0.3.0
@@ -12493,7 +12494,7 @@ eeptools: 1.2.5
 eesim: 0.1.0
 ef: 1.2.0
 efdm: 0.2.1
-eff2: 1.0.1
+eff2: 1.0.2
 effectFusion: 1.1.3
 effectR: 1.0.2
 effects: 4.2-2
@@ -12597,7 +12598,7 @@ emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
 emmeans: 1.10.0
-emoa: 0.5-0.2
+emoa: 0.5-2
 emoji: '15.0'
 emojifont: 0.5.5
 emon: 1.3.2
@@ -13694,7 +13695,7 @@ freshr: 1.0.2
 frictionless: 1.0.2
 friends: 0.1.0
 frite: 0.1.0
-fritools: 4.2.0
+fritools: 4.3.0
 fritools2: 4.1.0
 frm: 1.2.2
 frmhet: 1.1.3
@@ -15348,7 +15349,7 @@ httping: 0.2.0
 httpproblems: 1.0.1
 httptest: 4.2.2
 httptest2: 1.0.0
-httpuv: 1.6.13
+httpuv: 1.6.14
 httr: 1.4.7
 httr2: 1.0.0
 hubeau: 0.4.1
@@ -15710,6 +15711,7 @@ indelmiss: 1.0.10
 independence: 1.0.1
 independenceWeights: 0.0.1
 index0: 0.0.1
+indexthis: 1.0.0
 india: '0.1'
 indicoio: '0.3'
 indicspecies: 1.7.14
@@ -15826,7 +15828,7 @@ interimApp: 0.0.1
 interleave: 0.1.2
 interlineaR: '1.0'
 internetarchive: 0.1.6
-interp: 1.1-5
+interp: 1.1-6
 interplex: 0.1.0
 interplot: 0.2.3
 interpolation: 0.1.1
@@ -16145,7 +16147,7 @@ js: '1.2'
 jsTree: '1.2'
 jsTreeR: 2.5.0
 jshintr: 0.1.0
-jskm: 0.5.2
+jskm: 0.5.3
 jsmodule: 1.4.4
 json2aRgs: 0.3.0
 json64: 0.1.3
@@ -16158,7 +16160,7 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.3.2
 jsr223: 0.3.4
-jstable: 1.1.3
+jstable: 1.1.4
 jstor: 0.3.11
 jtGWAS: 1.5.1
 jtdm: 0.1-2
@@ -16207,7 +16209,7 @@ kcirt: 0.6.0
 kcmeans: 0.1.0
 kcopula: 0.1.0
 kcpRS: 1.1.1
-kde1d: 1.0.5
+kde1d: 1.0.7
 kdecopula: 0.9.2
 kdensity: 1.1.0
 kdetrees: 0.1.5
@@ -16894,7 +16896,7 @@ lokern: 1.1-10.1
 lolR: '2.1'
 lolliplot: 0.2.2
 lolog: 1.3.1
-lomb: 2.1.0
+lomb: 2.2.0
 long2lstmarray: 0.2.0
 longCatEDA: '0.31'
 longROC: '1.0'
@@ -17172,7 +17174,7 @@ mapsPERU: 2.0.0
 mapsRinteractive: 2.0.1
 mapsapi: 0.5.4
 mapscanner: 0.0.6
-mapsf: 0.8.0
+mapsf: 0.9.0
 maptiles: 0.7.0
 maptools: 1.1-8
 maptpx: 1.9-7
@@ -17516,7 +17518,7 @@ metadynminer: 0.1.7
 metadynminer3d: 0.0.2
 metafolio: 0.1.2
 metafor: 4.4-0
-metaforest: 0.1.3
+metaforest: 0.1.4
 metafuse: 2.0-1
 metagam: 0.4.0
 metagear: '0.7'
@@ -17950,7 +17952,7 @@ mmpf: 0.0.5
 mmpp: '0.6'
 mmppr: '0.1'
 mmr: 0.1.0
-mmrm: 0.3.9
+mmrm: 0.3.10
 mmsample: '0.1'
 mmstat4: 0.1.6
 mmtfa: '0.3'
@@ -18308,7 +18310,7 @@ multiband: 0.1.0
 multibias: 1.3.0
 multibiasmeta: 0.2.2
 multibiplotGUI: '1.1'
-multiblock: 0.8.7
+multiblock: 0.8.8
 multibreakeR: 0.1.0
 multibridge: 1.2.0
 multic: 0.4.3.1
@@ -19951,7 +19953,7 @@ phia: 0.3-1
 philentropy: 0.8.0
 phillydaodata: 1.0.1
 phitest: 1.0-0
-phm: 1.1.0
+phm: 1.1.2
 phmm: 0.7-14
 phom: 1.0.3
 phonR: 1.0-7
@@ -20668,7 +20670,7 @@ provTraceR: '1.0'
 provViz: 1.0.9
 provenance: '4.2'
 proverbs: 0.4.0
-proxirr: '0.2'
+proxirr: '0.4'
 proxy: 0.4-27
 proxyC: 0.3.4
 prozor: 0.3.1
@@ -21126,7 +21128,7 @@ rIntervalTree: 0.1.0
 rIsing: 0.1.0
 rJPSGCS: 0.2-10
 rJST: '1.3'
-rJava: 1.0-10
+rJava: 1.0-11
 rJavax: '0.3'
 rJython: 0.0-4
 rKIN: 1.0.2
@@ -22036,7 +22038,7 @@ rjpdmp: 2.0.0
 rjqpd: 0.2.3
 rjson: 0.2.21
 rjsonapi: 0.1.0
-rjsoncons: 1.1.0
+rjsoncons: 1.2.0
 rjstat: 0.4.3
 rjtools: 1.0.12
 rjwsacruncher: 0.2.0
@@ -22743,6 +22745,7 @@ saps: 1.0.0
 saqgetr: 0.2.21
 sara4r: 0.1.0
 sarima: 0.9.1
+saros: 1.0.1
 sarp.snowprofile: 1.3.2
 sarp.snowprofile.alignment: 1.2.1
 sarp.snowprofile.pyface: 0.1.3
@@ -23616,7 +23619,7 @@ smacofx: 0.6-6
 smacpod: '2.6'
 smallarea: '0.1'
 smallsets: 2.0.0
-smallstuff: 1.0.1
+smallstuff: 1.0.3
 smam: 0.7.2
 smapr: 0.2.1
 smart: 1.0.1
@@ -23716,7 +23719,7 @@ snplinkage: 1.0.0
 snplist: 0.18.2
 snpsettest: 0.1.2
 sns: 1.2.2
-snvecR: 3.7.7
+snvecR: 3.8.0
 sobir: 0.1.2
 sobolnp: 0.1.0
 soc.ca: 0.8.0
@@ -23933,7 +23936,7 @@ spatstat.Knet: 3.0-2
 spatstat.core: 2.4-4
 spatstat.data: 3.0-4
 spatstat.explore: 3.2-5
-spatstat.geom: 3.2-7
+spatstat.geom: 3.2-8
 spatstat.gui: 3.0-1
 spatstat.linnet: 3.1-3
 spatstat.local: 5.0-1
@@ -24186,7 +24189,7 @@ sspse: 1.1.0
 ssr: 0.1.1
 ssrm.logmer: '0.1'
 ssrn: 0.1.0
-sss: 0.2.1
+sss: 0.2.2
 sssc: 1.0.0
 sstModel: 1.0.0
 ssvd: '1.0'
@@ -24328,7 +24331,7 @@ stepwise: '0.3'
 stevedata: 1.1.0
 stevedore: 0.9.6
 stevemisc: 1.7.0
-stevetemplates: 0.9.0
+stevetemplates: 1.0.0
 stevethemes: 0.1.0
 stfit: 0.99.9
 stheoreme: '1.2'
@@ -24760,7 +24763,7 @@ tableplot: 0.3-5
 tablerDash: 0.1.0
 tables: 0.9.17
 tableschema.r: 1.1.2
-tablesgg: 0.8-1
+tablesgg: 0.9-1
 tablet: 0.6.3
 tablexlsx: 0.1.0
 tabnet: 0.5.0
@@ -24997,7 +25000,7 @@ tframe: 2015.12-1.1
 tframePlus: 2022.3-1
 tfrmt: 0.1.0
 tfrmtbuilder: 0.0.5
-tfruns: 1.5.1
+tfruns: 1.5.2
 tfse: 0.5.0
 tgamtheme: 0.1.0
 tgcd: '2.7'
@@ -25148,7 +25151,7 @@ tidyxl: 1.0.10
 tiff: 0.1-12
 tiger: 0.2.3.1
 tigerhitteR: 1.1.0
-tigers: 0.1-1
+tigers: 0.1-2
 tigerstats: 0.3.2
 tigger: 1.1.0
 tightClust: '1.1'
@@ -25209,7 +25212,7 @@ tinylabels: 0.2.4
 tinyscholar: 0.1.7
 tinysnapshot: 0.0.3
 tinyspotifyr: 0.2.2
-tinytable: 0.0.1
+tinytable: 0.0.2
 tinytest: 1.4.1
 tinytest2JUnit: 1.0.1
 tinytex: '0.49'
@@ -26383,7 +26386,7 @@ wq: 0.4.8
 wql: 1.0.0
 wqs: 0.0.1
 wqspt: 1.0.1
-wqtrends: 1.4.1
+wqtrends: 1.4.2
 wrGraph: 1.3.7
 wrMisc: 1.14.0
 wrProteo: 1.10.1
