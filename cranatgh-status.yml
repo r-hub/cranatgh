@@ -257,6 +257,7 @@ AmyloGram: '1.1'
 AnDE: '1.0'
 AnaCoDa: 0.1.4.4
 Anaconda: 0.1.5
+AnalysisLin: 0.1.0
 AnalyzeFMRI: 1.1-24
 AnalyzeIO: 0.1.1
 AnalyzeTS: '2.3'
@@ -924,7 +925,7 @@ CEC: 0.11.1
 CEDA: 1.1.0
 CEDARS: '1.90'
 CEEMDANML: 0.1.0
-CEGO: 2.4.2
+CEGO: 2.4.3
 CENFA: 1.1.1
 CEOdata: 1.3.1.1
 CERFIT: 0.1.0
@@ -1360,7 +1361,7 @@ Containers: '1.2'
 ContaminatedMixt: 1.3.8
 ContourFunctions: 0.1.1
 ConvCalendar: '1.2'
-ConvergenceClubs: 2.2.4
+ConvergenceClubs: 2.2.5
 ConvergenceConcepts: 1.2.3
 ConvertPar: '0.1'
 Convolutioner: 0.1.0
@@ -4053,7 +4054,7 @@ MLID: 1.0.1
 MLML2R: 0.3.3
 MLMOI: 0.1.2
 MLModelSelection: '1.0'
-MLMusingR: 0.3.0
+MLMusingR: 0.3.2
 MLPA: 1.10.0
 MLPAstats: 0.5-9
 MLPUGS: 0.2.0
@@ -5027,7 +5028,7 @@ PGM2: 1.0-1
 PGRdup: 0.2.3.9
 PH1XBAR: 0.11.1
 PHENIX: 1.3.1
-PHENTHAUproc: 0.9.9
+PHENTHAUproc: '1.0'
 PHEindicatormethods: 2.0.2
 PHInfiniteEstimates: 2.9.5
 PHSMM: '1.0'
@@ -6362,7 +6363,7 @@ Rdroolsjars: 1.0.1
 Rdrw: 1.0.2
 Rdsdp: 1.0.5.2.1
 Rdsm: 2.1.1
-Rdta: 1.0.0
+Rdta: 1.0.1
 Rdtq: '0.1'
 Rduino: '0.1'
 Rduinoiot: 0.1.0
@@ -7530,7 +7531,7 @@ SynchWave: 1.1.2
 SynergizeR: '0.2'
 Synth: 1.1-8
 SynthCast: 0.2.1
-SynthETIC: 1.0.5
+SynthETIC: 1.1.0
 SynthTools: 1.0.1
 Sysrecon: 0.1.3
 SystemicR: 0.1.0
@@ -8750,7 +8751,7 @@ aprean3: 1.0.1
 apricom: 1.0.0
 aprof: 0.4.1
 apsimr: '1.2'
-apsimx: 2.3.1
+apsimx: 2.6.1
 apsrtable: 0.8-8
 apt: '3.0'
 aptg: 0.1.1
@@ -9177,7 +9178,7 @@ bayesROE: '0.1'
 bayesRecon: 0.2.0
 bayesSurv: '3.7'
 bayesTFR: 7.4-2
-bayesWatch: 0.1.2
+bayesWatch: 0.1.3
 bayesZIB: 0.0.5
 bayesammi: 0.1.0
 bayesanova: '1.5'
@@ -9563,6 +9564,7 @@ bisect: 0.9.0
 bisectr: 0.1.0
 bisg: 0.1.0
 bisoreg: '1.5'
+bispdep: 1.0-0
 bisque: 1.0.2
 bistablehistory: 1.1.2
 bit: 4.0.5
@@ -10172,7 +10174,7 @@ cellKey: 1.0.2
 cellOrigins: 0.1.3
 cellVolumeDist: '1.4'
 cellWise: 2.5.3
-cellpypes: 0.1.3
+cellpypes: 0.3.0
 cellranger: 1.1.0
 celltrackR: 1.1.0
 celsius: 1.0.7
@@ -11306,7 +11308,7 @@ cutoff: '1.3'
 cutoffR: '1.0'
 cutpointr: 1.1.2
 cuttlefish.model: '1.0'
-cv: 1.0.1
+cv: 1.1.0
 cvAUC: 1.1.4
 cvCovEst: 1.2.1
 cvGEE: 0.3-0
@@ -11483,7 +11485,7 @@ datarobot: 2.18.5
 datasailr: 0.8.11
 datasauRus: 0.1.6
 dataseries: 0.2.0
-dataset: 0.3.0
+dataset: 0.3.1
 datasetjson: 0.2.0
 datasets.load: 2.3.0
 datasetsICR: '1.0'
@@ -13315,7 +13317,7 @@ fgdr: 1.1.1
 fgeo: 1.1.4
 fgeo.analyze: 1.1.14
 fgeo.plot: 1.1.11
-fgeo.tool: 1.2.8
+fgeo.tool: 1.2.9
 fgeo.x: 1.1.4
 fgitR: 0.2.0
 fglsnet: '1.0'
@@ -13893,7 +13895,7 @@ gamesGA: 1.1.3.7
 gamesNws: '0.5'
 gamlr: 1.13-8
 gamlss: 5.4-20
-gamlss.add: 5.1-6
+gamlss.add: 5.1-12
 gamlss.cens: 5.0-7
 gamlss.countKinf: 3.5.1
 gamlss.data: 6.0-2
@@ -13991,7 +13993,7 @@ gdalBindings: 0.1.17
 gdalUtilities: 1.2.5
 gdalUtils: 2.0.3.2
 gdalcubes: 0.6.4
-gdalraster: 1.7.0
+gdalraster: 1.8.0
 gdata: 3.0.0
 gde: 0.2.1
 gdi: 1.5.4
@@ -16592,7 +16594,7 @@ leastcostpath: 2.0.12
 ledger: 2.0.9
 leem: 0.1.0
 leerSIECyL: 1.0.2
-lefko3: 6.1.3
+lefko3: 6.2.0
 lefse: '0.1'
 legco: 0.1.4
 legion: 0.1.2
@@ -16998,6 +17000,7 @@ ltsbase: 1.0.1
 ltsk: 1.1.1
 ltsspca: 0.1.0
 ltxsparklines: 1.1.3
+luajr: 0.1.2
 lubridate: 1.9.3
 luca: 1.0-6
 lucas: '1.0'
@@ -17782,7 +17785,7 @@ mixAR: 0.22.8
 mixComp: 0.1-2
 mixEMM: '1.0'
 mixIndependR: 1.0.0
-mixKernel: '0.9'
+mixKernel: 0.9-1
 mixOmics: 6.3.2
 mixPHM: 0.7-2
 mixR: 0.2.0
@@ -18307,7 +18310,7 @@ multiRDPG: 1.0.1
 multiROC: 1.1.1
 multiUS: 1.2.3
 multiband: 0.1.0
-multibias: 1.3.0
+multibias: 1.4.0
 multibiasmeta: 0.2.2
 multibiplotGUI: '1.1'
 multiblock: 0.8.8
@@ -22193,7 +22196,7 @@ robustMVMR: 0.3.1
 robustSingleCell: 0.1.1
 robustX: 1.2-7
 robustarima: 0.2.6
-robustbase: 0.99-1
+robustbase: 0.99-2
 robustbetareg: 0.3.0
 robustcov: '0.1'
 robustfa: 1.1-0
@@ -23031,7 +23034,7 @@ selectiongain: 2.0.710
 selectiveInference: 1.2.5
 selectr: 0.4-2
 selectspm: '0.6'
-selenider: 0.2.0
+selenider: 0.3.0
 selenium: 0.1.3
 seleniumPipes: 0.3.7
 selfea: 1.0.1
@@ -23123,7 +23126,7 @@ seqmagick: 0.1.7
 seqminer: '9.3'
 seqmon: '2.4'
 seqtest: 0.1-0
-seqtrie: 0.2.5
+seqtrie: 0.2.6
 sequence: '2.0'
 sequences: 0.5.9
 sequenza: 3.0.0
@@ -26580,7 +26583,7 @@ zfa: '1.0'
 zfit: 0.4.0
 zic: 0.9.1
 zicounts: 1.1.5
-zip: 2.3.0
+zip: 2.3.1
 zipR: 0.1.1
 zipangu: 0.3.2
 zipcode: '1.0'
