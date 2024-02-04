@@ -46,7 +46,7 @@ ADaCGH: 1.5-3
 ADtools: 0.5.4
 AEDForecasting: 0.20.0
 AEP: 0.1.4
-AER: 1.2-10
+AER: 1.2-12
 AEenrich: 1.1.0
 AF: 0.1.5
 AFFECT: 0.1.2
@@ -803,7 +803,7 @@ BondValuation: 0.1.1
 BoneProfileR: '2.4'
 BoolFilter: 1.0.0
 BoolNet: 2.1.9
-Boom: 0.9.14
+Boom: 0.9.15
 BoomSpikeSlab: 1.2.6
 BoostMLR: 1.0.3
 BootCL: '1.7'
@@ -1185,7 +1185,7 @@ ChaosGame: '1.4'
 CharFun: 0.1.0
 ChargeTransport: 1.0.2
 CheckDigit: 1.0.0
-ChemoSpec: 6.1.9
+ChemoSpec: 6.1.10
 ChemoSpec2D: 0.5.0
 ChemoSpecUtils: 1.0.4
 ChemometricsWithR: 0.1.13
@@ -1328,7 +1328,7 @@ ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
 Compositional: '6.6'
-CompoundEvents: 0.2.0
+CompoundEvents: 0.3.0
 Compounding: 1.0.2
 ConConPiWiFun: 0.4.6.1
 ConNEcT: 0.7.27
@@ -1575,7 +1575,7 @@ DHBins: '1.1'
 DHS.rates: 0.9.2
 DICOM: '0.13'
 DICOMread: 0.0.0.3
-DIDmultiplegt: 0.1.0
+DIDmultiplegt: 0.1.2
 DIFboost: '0.3'
 DIFlasso: 1.0-4
 DIFplus: '1.1'
@@ -1776,7 +1776,7 @@ Depela: '0.0'
 DependencyReviewer: 1.2.3
 DepthProc: 2.1.5
 Deriv: 4.1.3
-DescTools: 0.99.53
+DescTools: 0.99.54
 DescToolsAddIns: '1.10'
 DescrTab2: 2.1.16
 DescribeDF: 0.2.1
@@ -2813,7 +2813,7 @@ GeneNet: 1.2.16
 GeneReg: 1.1.2
 GeneSOM: 0.2-5
 GeneScape: '1.0'
-GeneSelectR: 1.0.0
+GeneSelectR: 1.0.1
 GeneTS: 2.12.0
 Geneclust: 1.0.1
 Geneland: 4.0.6
@@ -2924,7 +2924,7 @@ GriegSmith: '1.0'
 GrimR: '0.5'
 GroupBN: 1.2.0
 GroupComparisons: 0.1.0
-GroupSeq: 1.4.2
+GroupSeq: 1.4.3
 GroupTest: 1.0.1
 Grouphmap: 1.0.0
 GrowingSOM: 0.1.1
@@ -4869,6 +4869,7 @@ OneArmPhaseTwoStudy: 1.0.3
 OneArmTTE: '1.0'
 OneHandClapping: '1.5'
 OneR: '2.2'
+OneSampleLogRankTest: 0.9.2
 OneSampleMR: 0.1.3
 OneStep: 0.9.2
 OneTwoSamples: 1.1-0
@@ -5775,6 +5776,7 @@ RGoogleAnalyticsPremium: 0.1.1
 RGoogleFit: 0.4.0
 RGrace: 0.6-6
 RGraphM: 0.1.11
+RGraphSpace: 1.0.3
 RGraphics: 3.0-2
 RGreenplum: 0.1.2
 RGremlinsConjoint: 0.9.1
@@ -5814,7 +5816,7 @@ RInno: 1.0.1
 RInside: 0.2.18
 RItools: 0.3-3
 RJDBC: 0.2-10
-RJDemetra: 0.2.4
+RJDemetra: 0.2.5
 RJSDMX: 3.0-6
 RJSONIO: 1.3-1.9
 RJSONLD: 1.0.3
@@ -6965,7 +6967,7 @@ SPIAssay: 1.1.0
 SPIGA: 1.0.0
 SPINA: 4.1.0
 SPIn: '1.1'
-SPLICE: 1.1.1
+SPLICE: 1.1.2
 SPMS: '2.0'
 SPODT: 0.9-1
 SPORTSCausal: '1.0'
@@ -7472,7 +7474,7 @@ SubTS: '1.0'
 SubTite: 4.0.5
 SubVis: 2.0.2
 SubgrPlots: 0.1.3
-SubgrpID: '0.11'
+SubgrpID: '0.12'
 SubpathwayGMir: '1.0'
 SubpathwayLNCE: '1.0'
 SubpathwayMiner: '3.1'
@@ -8525,7 +8527,7 @@ aiRly: 0.1.0
 aiRthermo: 1.2.1
 aibd: 0.1.9
 aidar: 1.0.5
-aides: 1.3.0
+aides: 1.3.1
 aif360: 0.1.0
 aifeducation: 0.3.0
 aihuman: 0.1.0
@@ -10605,7 +10607,7 @@ coarseDataTools: 0.6-6
 coat: 0.2.0
 cobalt: 4.5.3
 cobiclust: 0.1.0
-cobs: 1.3-5
+cobs: 1.3-7
 cobs99: 0.9-12
 coca: 1.1.0
 cocktailApp: 0.2.3
@@ -11075,7 +11077,7 @@ cpa: 1.0.1
 cpca: 0.1.2
 cpcens: 0.1.0
 cpd: 0.3.2
-cpfa: 1.1-0
+cpfa: 1.1-1
 cpgen: '0.1'
 cpi: 0.1.4
 cpk: 1.3-1
@@ -11541,7 +11543,7 @@ dbGaPCheckup: 1.1.0
 dbMC: 1.0.0
 dbWebForms: 0.1.0
 dbacf: 0.2.8
-dbarts: 0.9-25
+dbarts: 0.9-26
 dbcsp: 0.0.2.1
 dbd: 0.0-22
 dbfaker: 0.1.0
@@ -13320,7 +13322,7 @@ fetchR: 2.1-1
 fetchSalesforceR: 0.1.0
 ff: 4.0.12
 ffbase: 0.13.3
-fflr: 2.2.1
+fflr: 2.2.2
 ffmanova: 1.1.2
 ffmetadata: 1.0.0
 ffp: 0.2.2
@@ -13731,7 +13733,7 @@ frt: '0.1'
 fruclimadapt: 0.4.5
 fs: 1.6.3
 fsMTS: 0.1.7
-fsbrain: 0.5.4
+fsbrain: 0.5.5
 fscaret: 0.9.4.4
 fsdaR: 0.9-0
 fsemipar: '1.0'
@@ -14108,7 +14110,7 @@ genio: 1.1.2
 genius: 2.2.3
 geniusr: 1.2.1
 genlasso: 1.6.1
-genlogis: 1.0.0
+genlogis: 1.0.2
 geno2proteo: 0.0.6
 genoPlotR: 0.8.11
 genodds: 1.1.2
@@ -14192,7 +14194,7 @@ geoops: 0.3.0
 geoparser: 0.1.2
 geophys: 1.4-1
 georefdatar: 0.6.5
-georob: 0.3-14
+georob: 0.3-17
 geos: 0.2.4
 geosample: 0.2.1
 geosapi: 0.6-7
@@ -14860,7 +14862,7 @@ grobblR: 0.2.1
 groc: 1.0.8
 grofit: 1.1.1-1
 gromovlab: 0.8-3
-groundhog: 3.1.2
+groundhog: 3.2.0
 groupICA: 0.1.1
 groupRemMap: 0.1-0
 groupTesting: 1.1.0
@@ -15345,7 +15347,7 @@ hsphase: 2.0.2
 hspm: '1.1'
 hsrecombi: 1.0.1
 hsstan: 0.8.2
-hstats: 1.1.1
+hstats: 1.1.2
 htdp: 0.1.4
 htestClust: 0.2.2
 htetree: 0.1.18
@@ -16369,7 +16371,7 @@ kntnr: 0.4.4
 koRpus: 0.13-8
 koRpus.lang.en: 0.1-4
 kobe: 1.3.2
-kofdata: '0.2'
+kofdata: 0.2.1
 kofnGA: '1.3'
 kohonen: 3.0.12
 kokudosuuchi: 1.0.0
@@ -17320,6 +17322,7 @@ mazealls: 0.2.0
 mazeinda: 0.0.2
 mazing: 1.0.5
 mbRes: 0.1.7
+mbbe: 0.1.0
 mbbefd: 0.8.11
 mbclusterwise: '1.0'
 mbend: 1.3.1
@@ -18047,7 +18050,7 @@ modello: 0.1.1
 modelplotr: 1.1.0
 modelr: 0.1.11
 modelsummary: 1.4.3
-modeltests: 0.1.4
+modeltests: 0.1.5
 modeltime: 1.2.8
 modeltime.ensemble: 1.0.3
 modeltime.gluonts: 0.1.0
@@ -19600,7 +19603,7 @@ parallelly: 1.36.0
 parallelpam: '1.4'
 param6: 0.2.4
 paramGUI: 2.2.0
-parameters: 0.21.3
+parameters: 0.21.4
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.4
@@ -21218,7 +21221,7 @@ rStrava: 1.3.0
 rSymPy: 0.2-1.2
 rSymbiota: 1.0.0
 rTCRBCRr: 0.1.1
-rTG: 1.0.1
+rTG: 1.0.2
 rTLS: 0.2.5.6
 rTLsDeep: 0.0.5
 rTOFsPRO: 1.4.1
@@ -21960,7 +21963,7 @@ rgoogleclassroom: 0.9.1
 rgoogleslides: 0.3.2
 rgovcan: 1.0.3
 rgp: 0.4-1
-rgplates: 0.3.2
+rgplates: 0.4.0
 rgpui: 0.1-2
 rgr: 1.1.15
 rgraph6: 2.0-4
@@ -22433,7 +22436,7 @@ rsMove: 0.2.8
 rsae: '0.2'
 rsam: 0.1.0
 rsample: 1.2.0
-rsat: 0.1.18
+rsat: 0.1.21
 rsatscan: 1.0.7
 rsbml: 1.2-1
 rsbp: 0.1.0
@@ -23155,7 +23158,7 @@ seqhandbook: 0.1.1
 seqimpute: '1.8'
 seqinr: 4.2-36
 seqmagick: 0.1.7
-seqminer: '9.3'
+seqminer: '9.4'
 seqmon: '2.4'
 seqtest: 0.1-0
 seqtrie: 0.2.6
@@ -23186,6 +23189,7 @@ sets: 1.0-25
 setter: 0.0-1
 settings: 0.2.7
 setwidth: 1.0-4
+sevenbridges2: 0.1.0
 sever: 0.0.7
 severity: '2.0'
 sewage: 0.2.5
@@ -23244,7 +23248,7 @@ shapper: 0.1.3
 shapr: 0.2.2
 shapviz: 0.9.3
 shar: 2.2.1
-sharp: 1.4.5
+sharp: 1.4.6
 sharpData: '1.4'
 sharpPen: '1.9'
 sharpeRratio: 1.4.3
@@ -26559,7 +26563,7 @@ yaConsensus: '1.0'
 yaImpute: 1.0-34
 yacca: 1.4-2
 yager: 0.1.1
-yahoofinancer: 0.2.0
+yahoofinancer: 0.3.0
 yakmoR: 0.1.1
 yaml: 2.3.8
 yamlet: 0.10.33
