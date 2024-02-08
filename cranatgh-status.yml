@@ -1275,7 +1275,7 @@ CoTiMA: 0.7.0
 CoastlineFD: 1.1.2
 CodataGS: '1.43'
 CodeDepends: 0.6.5
-CodelistGenerator: 2.2.0
+CodelistGenerator: 2.2.1
 CohensdpLibrary: 0.5.10
 CohortAlgebra: 0.2.0
 CohortExplorer: 0.1.0
@@ -1301,6 +1301,7 @@ CombinePortfolio: '0.4'
 CommEcol: 1.7.1
 CommKern: 1.0.1
 CommT: 0.1.1
+CommonDataModel: 0.2.0
 CommonJavaJars: 1.0-6
 CommonMean.Copula: 1.0.4
 CommonTrend: 0.7-1
@@ -4633,7 +4634,7 @@ NMVANOVA: 1.1.0
 NMcalc: 0.0.3
 NMdata: 0.1.4
 NMproject: 0.6.9
-NMsim: 0.0.7
+NMsim: 0.0.9
 NNLM: 0.4.3
 NNMIS: 1.0.1
 NNS: '10.5'
@@ -5077,7 +5078,7 @@ PLORN: 0.1.1
 PLRModels: '1.4'
 PLSbiplot1: '0.1'
 PLSiMCpp: 1.0.4
-PLindleyROC: 0.1.0
+PLindleyROC: 0.1.1
 PLmixed: 0.1.7
 PLordprob: '1.1'
 PLreg: 0.4.1
@@ -5967,7 +5968,7 @@ ROpenCVLite: 4.90.1
 ROpenDota: 0.1.2
 ROpenFIGI: 0.2.8
 ROpenWeatherMap: '1.1'
-ROptEst: 1.3.1
+ROptEst: 1.3.3
 ROptEstOld: 1.2.0
 ROptRegTS: 1.2.0
 ROptSpace: 0.2.3
@@ -6383,7 +6384,7 @@ Rduino: '0.1'
 Rduinoiot: 0.1.0
 ReAD: 1.0.1
 ReCiPa: '3.0'
-ReDaMoR: 0.7.2
+ReDaMoR: 0.7.4
 ReDirection: 1.0.1
 ReIns: 1.0.14
 ReMFPCA: 1.0.0
@@ -6733,6 +6734,7 @@ SASmixed: 1.0-4
 SASxport: 1.7.0
 SAVE: '1.0'
 SAVER: 1.1.2
+SAiVE: 1.0.4
 SAutomata: 0.1.0
 SBAGM: 0.1.0
 SBCK: 1.0.0
@@ -7153,6 +7155,7 @@ SensitivityCaseControl: '2.2'
 SensoMineR: '1.27'
 SensusR: 2.3.1
 SentimentAnalysis: 1.3-5
+SeqAlignR: 0.1.1
 SeqAlloc: '1.0'
 SeqBayesDesign: 0.1.0
 SeqDetect: 1.0.7
@@ -9027,7 +9030,7 @@ avocado: 0.1.0
 aweSOM: '1.3'
 aweek: 1.0.3
 awinR: 0.1.0
-aws: 2.5-4
+aws: 2.5-5
 aws.alexa: 0.1.8
 aws.cloudtrail: 0.1.5
 aws.comprehend: 0.2.1
@@ -11428,6 +11431,7 @@ daiquiri: 1.1.1
 dalmatian: 1.0.0
 daltoolbox: 1.0.727
 dam: 0.0.1
+damAOI: '0.0'
 dampack: 1.0.1
 damr: 0.3.7
 dams: 0.3.0
@@ -11891,7 +11895,7 @@ digeR: '1.3'
 digest: 0.6.34
 digiRhythm: '1.1'
 digitTests: 0.1.2
-digitalDLSorteR: 0.3.1
+digitalDLSorteR: 1.0.1
 digitalPCR: 1.1.0
 digitize: 0.0.4
 dils: 0.8.1
@@ -11997,7 +12001,7 @@ distrTEst: 2.8.2
 distrTeach: 2.9.1
 distreg.vis: 1.7.5
 distribglm: 0.4.1
-distributional: 0.3.2
+distributional: 0.4.0
 distributions: '1.3'
 distributions3: 0.2.1
 distributionsrd: 0.0.6
@@ -12034,7 +12038,7 @@ dlm: 1.1-6
 dlmap: '1.13'
 dlmodeler: 1.4-2
 dlnm: 2.4.7
-dlookr: 0.6.2
+dlookr: 0.6.3
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.7
@@ -13164,7 +13168,7 @@ farr: 0.2.39
 farrell: 0.2.1
 farsi: '1.0'
 farver: 2.1.1
-fasano.franceschini.test: 2.2.1
+fasano.franceschini.test: 2.2.2
 fasi: 1.0.0
 fasjem: 1.1.2
 fasstr: 0.5.1
@@ -13195,6 +13199,7 @@ fastRG: 0.3.2
 fastRhockey: 0.4.0
 fastSOM: 1.0.1
 fastStat: '1.4'
+fastTS: 0.1.2
 fastText: 1.0.3
 fastTextR: 2.1.0
 fastTopics: 0.6-163
@@ -14487,6 +14492,7 @@ ggtern: 3.4.2
 ggtext: 0.1.2
 ggthemeUL: 0.1.3
 ggthemes: 5.0.0
+ggtibble: 1.0.0
 ggtikz: 0.1.2
 ggtrace: 0.2.0
 ggtrendline: 1.0.3
@@ -15085,7 +15091,7 @@ hawkesbow: 1.0.3
 hazer: 1.1.1
 hazus: '0.1'
 hbal: 1.2.12
-hbamr: 2.1.1
+hbamr: 2.1.2
 hbbr: 1.1.2
 hbdct: 1.0.1
 hbim: 1.1.2
@@ -15134,6 +15140,7 @@ healthcare.antitrust: 0.1.4
 healthcareai: 2.5.1
 healthfinance: 0.1.0
 healthforum: 0.1.0
+healthyAddress: 0.2.0
 healthyR: 0.2.1
 healthyR.ai: 0.0.13
 healthyR.data: 1.0.3
@@ -16093,7 +16100,7 @@ jackalope: 1.1.5
 jackknifeKME: '1.2'
 jackknifeR: 1.2.0
 jackstrap: 0.1.0
-jackstraw: 1.3.8
+jackstraw: 1.3.9
 jacobi: 3.1.1
 jacpop: '0.6'
 jadeLizardOptions: 1.0.1
@@ -16780,7 +16787,7 @@ lira: 2.0.1
 lisa: 0.1.2
 liso: '0.2'
 lisp: '0.1'
-lisrelToR: 0.1.5
+lisrelToR: '0.3'
 list: 9.2.6
 listArray: 0.1.1
 listWithDefaults: 1.2.0
@@ -17858,7 +17865,7 @@ mixfdr: '1.0'
 mixgb: 1.0.2
 mixggm: '1.0'
 mixhvg: 0.1.1
-mixl: 1.3.3
+mixl: 1.3.4
 mixlink: 0.1.5
 mixlm: 1.3.0
 mixlow: 1.0.1
@@ -18573,7 +18580,7 @@ nandb: 2.1.0
 naniar: 1.0.0
 nanny: 0.1.8
 nanoarrow: 0.4.0
-nanonext: 0.12.0
+nanonext: 0.13.0
 nanop: 2.0-6
 nanostringr: 0.4.1
 nanotime: 0.3.7
@@ -19001,7 +19008,7 @@ npcp: 0.2-5
 npcs: 0.1.1
 npcure: 0.1-5
 npcurePK: 1.0-2
-npde: '3.4'
+npde: '3.5'
 nph: '2.1'
 nphPower: 1.0.0
 nphRCT: 0.1.0
@@ -19256,7 +19263,7 @@ oompaData: 3.1.3
 ooplah: 0.2.0
 oops: 0.2.0
 oosp: 0.3.3
-oosse: 1.0.10
+oosse: 1.0.11
 oottest: 0.9.1
 opGMMassessment: 0.3.5
 opa: 0.8.1
@@ -19408,7 +19415,7 @@ orientlib: 0.10.5
 origami: 1.0.7
 origin: 1.1.1
 originr: 0.4.0
-orloca: '5.3'
+orloca: '5.6'
 orloca.es: '4.9'
 ormBigData: 0.0.1
 ormPlot: 0.3.6
@@ -19627,7 +19634,7 @@ parallelly: 1.36.0
 parallelpam: '1.4'
 param6: 0.2.4
 paramGUI: 2.2.0
-parameters: 0.21.4
+parameters: 0.21.5
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.4
@@ -19945,6 +19952,7 @@ pflamelet: 0.1.1
 pfocal: 1.0.0
 pfr: 1.0.1
 pg: 0.2.4
+pgKDEsphere: 1.0.1
 pgTools: 1.0.2
 pga: 0.1-1
 pgam: 0.4.17
@@ -21616,7 +21624,7 @@ readmnist: 1.0.6
 readmoRe: 0.2-12
 readobj: 0.4.1
 readr: 2.1.5
-readrba: 0.1.7
+readrba: 0.1.8
 readroper: 0.9.3
 readsdmx: 0.3.1
 readsdr: 0.2.0
@@ -21636,7 +21644,7 @@ realized: 1.0.1
 realtest: 0.2.3
 reams: '0.1'
 reappraised: 0.1.1
-rearrr: 0.3.3
+rearrr: 0.3.4
 reasonabletools: '0.1'
 rebib: 0.3.2
 rebird: 1.3.0
@@ -21774,7 +21782,7 @@ relgam: '1.0'
 reliaR: '0.01'
 reliabilitydiag: 0.2.1
 relimp: 1.0-5
-relliptical: 1.2.0
+relliptical: 1.3.0
 relsurv: 2.2-9
 rem: 1.3.1
 remMap: 0.2-0
@@ -22216,7 +22224,7 @@ roahd: 1.4.3
 robCompositions: 2.4.1
 robFitConGraph: 0.4.1
 robStepSplitReg: 1.1.0
-robber: 0.2.3
+robber: 0.2.4
 robcbi: 1.1-4
 robcor: 0.1-6.1
 robcp: 0.3.7
@@ -22820,7 +22828,7 @@ sasMap: 1.0.0
 sasfunclust: 1.0.0
 sasr: 0.1.2
 sass: 0.4.8
-sassy: 1.2.0
+sassy: 1.2.3
 satdad: '1.1'
 sate: 2.1.0
 satellite: 1.0.4
@@ -23601,7 +23609,7 @@ sitepickR: 0.0.1
 siteymlgen: 1.0.0
 sitmo: 2.0.2
 sitools: '1.4'
-sitree: 0.1-13
+sitree: 0.1-14
 sitreeE: 0.0-8
 sits: 1.4.2-1
 sitsfeats: 0.0.1
@@ -24019,7 +24027,7 @@ spcosa: 0.4-2
 spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
-spdep: 1.3-1
+spdep: 1.3-3
 spdesign: 0.0.3
 spdl: 0.0.5
 spdownscale: 0.1.0
@@ -24578,7 +24586,7 @@ supercompress: '1.1'
 superdiag: '2.0'
 superheat: 0.1.0
 superml: 0.5.6
-supernova: 2.5.8
+supernova: 3.0.0
 superpc: '1.12'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-9
@@ -25418,6 +25426,7 @@ tpn: '1.8'
 tpr: 0.3-3
 tpsDesign: '1.3'
 tqk: 0.1.8
+tr.iatgen: 1.0.0
 tracee: 0.0.4
 tracer: 1.0.0
 tracerer: 2.2.3
@@ -26521,7 +26530,7 @@ xdcclarge: 0.1.0
 xefun: 0.1.5
 xegaBNF: 1.0.0.0
 xegaDfGene: 1.0.0.0
-xegaGaGene: 1.0.0.0
+xegaGaGene: 1.0.0.1
 xegaPermGene: 1.0.0.0
 xegaSelectGene: 1.0.0.0
 xergm: 1.8.3
