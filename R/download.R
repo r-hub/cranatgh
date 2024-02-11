@@ -18,7 +18,9 @@ package_urls <- function(package, version) {
   } else {
     c(sprintf("%s/src/contrib/%s_%s.tar.gz", cran_mirror, package, version),
       sprintf("%s/src/contrib/Archive/%s/%s_%s.tar.gz", cran_mirror,
-              package, package, version))
+              package, package, version),
+      sprintf("%s/src/contrib/4.4.0/Recommended/%s_%s.tar.gz", cran_mirror, package, version)
+    )
   }
 }
 

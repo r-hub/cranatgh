@@ -164,7 +164,13 @@ add_missing_version <- function(package, version, date) {
   auth <- metadata$get("Author")
 
   if (is.na(date)) {
-    date <- desc::desc_get("Date/Publication")
+    date <- c(desc::desc_get("Date/Publication"))
+  }
+  if (is.na(date)) {
+    date <- strsplit(c(desc::desc_get("Packaged")), ";", fixed = TRUE)[[1]][[1]]
+  }
+  if (is.na(date)) {
+    date <- Sys.date()
   }
 
   ## Commit the new version
