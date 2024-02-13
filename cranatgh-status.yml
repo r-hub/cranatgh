@@ -75,7 +75,7 @@ AIGIS: 1.0-1
 AIM: '1.01'
 AIPW: 0.6.3.2
 AIS: '1.0'
-AIUQ: 0.5.0
+AIUQ: 0.5.1
 ALA4R: 1.9.1
 ALDqr: '1.0'
 ALEPlot: '1.1'
@@ -538,7 +538,7 @@ BSW: 0.1.1
 BSagri: 0.1-10
 BSquare: '1.1'
 BT: '0.4'
-BTLLasso: 0.1-12
+BTLLasso: 0.1-13
 BTM: 0.3.7
 BTR: 1.2.4
 BTSPAS: 2021.11.2
@@ -1072,7 +1072,7 @@ CRPClustering: '1.2'
 CRTConjoint: 0.1.0
 CRTSize: '1.2'
 CRTgeeDR: 2.0.1
-CRTspat: 1.1.0
+CRTspat: 1.2.0
 CRWRM: 0.0.1
 CRediTas: 0.2.0
 CSCDRNA: 1.0.3
@@ -2520,7 +2520,7 @@ FuzzyM: 0.1.0
 FuzzyMCDM: '1.1'
 FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
-FuzzyPovertyR: 1.1.0
+FuzzyPovertyR: 2.0.0
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
 FuzzyResampling: 0.6.3
@@ -3315,7 +3315,7 @@ ISLR: '1.4'
 ISLR2: 1.3-2
 ISM: 0.1.0
 ISO11784Tools: 1.1.4
-ISOcodes: 2023.12.07
+ISOcodes: 2024.02.12
 ISOpureR: 1.1.3
 ISOweek: 0.6-2
 ISR: 2022.4.22
@@ -3716,6 +3716,7 @@ LSWPlib: 0.1.0
 LSX: 1.3.2
 LTAR: 0.1.0
 LTASR: 0.1.2
+LTFHPlus: 2.1.1
 LTPDvar: 1.2.1
 LTR: 1.0.0
 LTRCforests: 0.7.0
@@ -4488,7 +4489,7 @@ MovieSpider: '1.0'
 MplusAutomation: 1.1.1
 MplusTrees: 0.2.2
 Mposterior: 0.1.2
-Mqrcm: '1.2'
+Mqrcm: '1.3'
 MrSGUIDE: 0.1.2
 MsatAllele: '1.05'
 MsdeParEst: '1.7'
@@ -6909,7 +6910,7 @@ SMIR: '0.02'
 SMITIDstruct: 0.0.5
 SMITIDvisu: 0.0.9
 SML: '0.1'
-SMLE: 2.1-0
+SMLE: 2.1-1
 SMLoutliers: '0.1'
 SMM: 1.0.2
 SMMA: 1.0.3
@@ -8003,7 +8004,7 @@ VBTree: 0.1.1
 VBV: 0.6.2
 VBmix: 0.3.2
 VBsparsePCA: 0.1.0
-VC2copula: 0.1.3
+VC2copula: 0.1.4
 VCA: 1.5.0
 VDA: '1.3'
 VDAP: 2.0.0
@@ -8555,7 +8556,7 @@ airGRdatasets: 0.2.1
 airGRdatassim: 0.1.3
 airGRiwrm: 0.6.2
 airGRteaching: 0.3.2
-aire.zmvm: 0.8.2
+aire.zmvm: 0.9.0
 airnow: 0.1.0
 airportr: 0.1.3
 airports: 0.1.0
@@ -9097,7 +9098,7 @@ bagRboostR: 0.0.2
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
 baggingbwsel: '1.0'
-baggr: 0.7.6
+baggr: 0.7.8
 baguette: 1.0.1
 bahc: 0.3.0
 bain: 0.2.10
@@ -9244,7 +9245,7 @@ bayesreg: '1.2'
 bayesrules: 0.0.2
 bayess: '1.5'
 bayest: '1.4'
-bayestestR: 0.13.1
+bayestestR: 0.13.2
 bayesvl: 0.8.5
 bayfoxr: 0.0.1
 baygel: 0.3.0
@@ -9613,7 +9614,7 @@ bivquant: '0.1'
 bivrp: 1.2-2
 biwavelet: 0.20.21
 biwt: 1.0.1
-bizdays: 1.0.15
+bizdays: 1.0.16
 bizicount: 1.3.2
 bjscrapeR: 0.1.0
 bkmr: 0.2.2
@@ -10117,7 +10118,7 @@ cauchypca: '1.3'
 cauphy: 1.0.2
 causact: 0.5.3
 causal.decomp: 0.1.0
-causalBatch: '1.0'
+causalBatch: '1.1'
 causalCmprsk: 2.0.0
 causalDisco: 0.9.1
 causalMGM: 0.1.1
@@ -10270,7 +10271,7 @@ cgh: 1.0-7.1
 cghFLasso: 0.2-1
 cghRA: 1.6.0
 cghseg: 1.0.5
-cglasso: 2.0.6
+cglasso: 2.0.7
 cglm: '1.1'
 cgmanalysis: 2.7.7
 cgmquantify: 0.1.0
@@ -10288,7 +10289,7 @@ changepoint.geo: 1.0.2
 changepoint.influence: 1.0.1
 changepoint.mv: 1.0.2
 changepoint.np: 1.0.5
-changepointTests: 0.1.1
+changepointTests: 0.1.5
 changepoints: 1.1.0
 changepointsHD: 0.3.3
 changepointsVar: 0.1.1
@@ -10368,7 +10369,7 @@ chromatographR: 0.4.4
 chromer: '0.6'
 chromoMap: 4.1.1
 chromoR: '1.0'
-chromote: 0.1.2
+chromote: 0.2.0
 chromseq: 0.1.3
 chron: 2.3-61
 chronicle: '0.3'
@@ -11280,7 +11281,7 @@ ctmle: 0.1.2
 ctmm: 1.2.0
 ctmva: 1.4.0
 ctpm: 1.0.1
-ctqr: '2.0'
+ctqr: '2.1'
 ctrdata: 1.17.1
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
@@ -11429,7 +11430,7 @@ dagbag: '1.1'
 dagirlite: 0.1.0
 dagitty: 0.3-4
 dagwood: 0.1.4
-daiR: 0.9.9
+daiR: 1.0.0
 dail: 1.5.2
 daiquiri: 1.1.1
 dalmatian: 1.0.0
@@ -12025,7 +12026,7 @@ diverge: 2.0.6
 diverse: 0.1.5
 diversitree: 0.10-0
 diversityForest: 0.4.0
-divest: 0.10.3
+divest: 1.0.0
 divisors: 0.1-4
 divo: 1.0.1
 divraster: 1.0.4
@@ -12546,7 +12547,7 @@ ega: 2.0.0
 egcm: 1.0.13
 egg: 0.4.5
 eggCounts: '2.4'
-eglhmm: 0.1-1
+eglhmm: 0.1-3
 egoTERGM: 2.1.1
 egonet: '1.2'
 egor: 1.24.2
@@ -13093,7 +13094,7 @@ fTrading: '3042.79'
 fUnitRoots: '4021.80'
 fUtilities: '2110.78'
 fabCI: '0.2'
-fabMix: '5.0'
+fabMix: '5.1'
 fabR: 2.0.1
 fabisearch: 0.0.4.5
 fable: 0.3.3
@@ -13116,7 +13117,7 @@ factas: '2.3'
 factiv: 0.1.0
 factoextra: 1.0.7
 factoptd: 1.0.3
-factor.switching: '1.3'
+factor.switching: '1.4'
 factor256: 0.1.0
 factorEx: 1.0.1
 factorMerger: 0.4.0
@@ -14221,7 +14222,7 @@ geoops: 0.3.0
 geoparser: 0.1.2
 geophys: 1.4-1
 georefdatar: 0.6.5
-georob: 0.3-17
+georob: 0.3-18
 geos: 0.2.4
 geosample: 0.2.1
 geosapi: 0.6-7
@@ -15523,6 +15524,7 @@ iMRMC: 1.2.5
 iMediate: 0.5.5
 iMessager: '1.0'
 iNEXT: 3.0.0
+iNEXT.3D: 1.0.0
 iNOTE: '1.0'
 iNZightMR: 2.3.0
 iNZightPlots: 2.15.3
@@ -17331,7 +17333,7 @@ matrixpls: 1.0.13
 matrixprofiler: 0.1.9
 matrixsampling: 2.0.0
 matrixset: 0.3.0
-matsbyname: 0.6.9
+matsbyname: 0.6.10
 matsindf: 0.4.8
 matuR: 0.0.1.0
 mau: 0.1.2
@@ -18145,6 +18147,7 @@ monoreg: '2.1'
 monotone: 0.1.2
 monotonicity: 1.3.1
 monreg: 0.1.4.1
+moodef: 1.0.0
 moodleR: 1.0.1
 moodlequizR: 1.0.3
 moonBook: 0.3.1
@@ -18196,7 +18199,7 @@ move2: 0.2.7
 moveHMM: '1.9'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.4
-movecost: '2.0'
+movecost: '2.1'
 movementsync: 0.1.4
 movieROC: 0.1.0
 mozzie: 0.1.0
@@ -18320,7 +18323,7 @@ mstherm: 0.4.7
 mstknnclust: 0.3.2
 mstrio: 11.3.5.101
 msu: 0.0.1
-mt: 2.0-1.19
+mt: 2.0-1.20
 mtb: 0.1.8
 mtconnectR: 1.2.1
 mtcreator: '0.1'
@@ -18426,7 +18429,7 @@ multinomineq: 0.2.5
 multiocc: 0.2.1
 multipanelfigure: 2.1.5
 multipleDL: 1.0.0
-multipleNCC: 1.2-3
+multipleNCC: 1.2-4
 multiplestressR: 0.1.1
 multiplex: 3.1.1
 multiplyr: 0.1.1
@@ -19212,7 +19215,7 @@ oldbailey: 1.1.0
 ollg: 1.0.0
 ollggamma: 1.0.2
 olr: '1.1'
-olsrr: 0.5.3
+olsrr: 0.6.0
 omd: '1.0'
 omics: 0.1-5
 omicsTools: 1.0.5
@@ -19734,7 +19737,7 @@ patternize: 0.0.5
 patternplot: 1.0.0
 pauwels2014: '1.0'
 pavo: 2.9.0
-pawacc: 1.2.2
+pawacc: 1.2.3
 pawls: 1.0.0
 paws: 0.5.0
 paws.analytics: 0.5.0
@@ -19786,7 +19789,7 @@ pcaPA: 2.0.2
 pcaPP: 2.0-4
 pcadapt: 4.3.5
 pcal: 1.0.0
-pcalg: 2.7-10
+pcalg: 2.7-11
 pcalls: '1.0'
 pcaone: 1.0.0
 pcatsAPIclientR: 1.1.0
@@ -20376,7 +20379,7 @@ polycor: 0.8-1
 polydect: 0.1-2
 polyfreqs: 1.0.2
 polyglot: 0.3.0
-polyglotr: 1.3.1
+polyglotr: 1.4.0
 polyhedralCubature: 1.1.0
 polylabelr: 0.2.0
 polymapR: 1.1.5
@@ -21958,7 +21961,7 @@ rflsgen: 1.2.1
 rfm: 0.2.2
 rfml: 0.1.0
 rfoaas: 2.3.2
-rfold: 0.1.0
+rfold: 0.2.0
 rfordummies: 0.1.6
 rforensicbatwing: 1.3.1
 rfvimptest: 0.1.3
@@ -22122,7 +22125,7 @@ rjwsacruncher: 0.2.0
 rkafka: '1.4'
 rkafkajars: '1.2'
 rkdb: 0.9.0
-rkeops: 1.4.2.2
+rkeops: 2.2.2
 rknn: 1.2-1
 rkt: '1.7'
 rkvo: '0.1'
@@ -22647,7 +22650,7 @@ rvcheck: 0.2.1
 rvec: 0.0.6
 rversions: 2.1.2
 rvertnet: 0.8.2
-rvest: 1.0.3
+rvest: 1.0.4
 rvg: 0.3.3
 rvgtest: 0.7.4
 rviewgraph: 1.4.2
@@ -24170,7 +24173,7 @@ spots: 0.1.0
 spp: 1.16.0
 sppmix: 1.0.2.1
 spqdep: 0.1.3.2
-spray: 1.0-24
+spray: 1.0-25
 spread: 2019.8.5
 spreadr: 0.2.0
 spreval: 1.1.0
@@ -24328,7 +24331,7 @@ startR: 2.3.1
 starter: 0.1.14
 starticles: 0.1.0
 startup: 0.21.0
-startupmsg: 0.9.6
+startupmsg: 0.9.6.1
 starvars: 1.1.10
 starvz: 0.7.1
 starwarsdb: 0.1.2
@@ -25302,7 +25305,7 @@ tinylabels: 0.2.4
 tinyscholar: 0.1.7
 tinysnapshot: 0.0.3
 tinyspotifyr: 0.2.2
-tinytable: 0.0.4
+tinytable: 0.0.5
 tinytest: 1.4.1
 tinytest2JUnit: 1.0.1
 tinytex: '0.49'
@@ -25652,7 +25655,7 @@ tsmp: 0.4.15
 tsna: 0.3.5
 tsne: 0.1-3.1
 tsnetwork: '1.2'
-tsoutliers: 0.6-8
+tsoutliers: 0.6-10
 tspmeta: '1.2'
 tspredit: 1.0.747
 tsqn: 1.0.0
