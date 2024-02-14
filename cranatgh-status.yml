@@ -184,7 +184,7 @@ AbSim: 0.2.6
 AbsFilterGSEA: 1.5.1
 Ac3net: 1.2.2
 AcademicThemes: 0.0.1
-AccelStab: 1.0.0
+AccelStab: 2.0.0
 AcceptanceSampling: 1.0-10
 Ace: 0.0.8
 Achilles: 1.7.2
@@ -877,7 +877,7 @@ CARramps: 0.1.2
 CARrampsOcl: 0.1.4
 CASCORE: 0.1.2
 CASMAP: 0.6.1
-CASMI: 1.2.0
+CASMI: 1.2.1
 CAST: 0.9.0
 CATT: '2.0'
 CATTexact: 0.1.1
@@ -1408,7 +1408,7 @@ Counternull: 0.2.0
 Countr: 3.5.8
 CountsEPPM: '3.1'
 CovCombR: '1.0'
-CovRegRF: 1.0.5
+CovRegRF: 2.0.0
 CovSel: 1.2.1
 CovSelHigh: 1.1.1
 CovTools: 0.5.4
@@ -2621,7 +2621,7 @@ GGMridge: '1.4'
 GGMselect: 0.1-12.7
 GGRidge: 1.1.0
 GGUM: '0.5'
-GGally: 2.2.0
+GGally: 2.2.1
 GGoutlieR: 1.0.2
 GHQp: '1.0'
 GHS: '0.1'
@@ -4428,7 +4428,7 @@ MixSemiRob: 1.1.0
 MixSim: 1.1-7
 MixTwice: '2.0'
 MixedDataImpute: '0.1'
-MixedIndTests: 1.1.0
+MixedIndTests: 1.2.0
 MixedLevelRSDs: 1.0.0
 MixedPoisson: '2.0'
 MixedPsy: 1.1.0
@@ -5104,7 +5104,7 @@ POD: 1.2.0
 POET: '2.0'
 POFIBGE: 0.1.6
 POINT: '1.3'
-POMADE: 0.1.0
+POMADE: 0.2.0
 POMS: 1.0.1
 POMaSPU: 1.0.0
 POPdemog: 1.0.3
@@ -8207,6 +8207,7 @@ WordOfMouth: 1.1.0
 WordPools: 1.2.0
 WordR: 0.3.6
 WorldFlora: 1.14-1
+WorldMapR: 0.1.0
 WormTensor: 0.1.0
 WpProj: 0.2.1
 Wrapped: '2.0'
@@ -8450,7 +8451,7 @@ adiv: '2.2'
 adjROC: '0.3'
 adjSURVCI: '1.0'
 adjclust: 0.6.9
-adjustedCurves: 0.10.1
+adjustedCurves: 0.11.0
 adjustedcranlogs: 0.1.0
 adk: 1.0-2
 adklakedata: 0.6.1
@@ -8578,7 +8579,7 @@ albatross: 0.3-7
 albopictus: '0.5'
 ald: 1.3.1
 aldvmm: 0.8.8
-ale: 0.2.0
+ale: 0.3.0
 alfr: 1.2.1
 alfred: 0.2.1
 algaeClassify: 2.0.2
@@ -8758,7 +8759,7 @@ apmsWAPP: '1.0'
 apmx: 1.1.1
 apng: '1.1'
 apollo: 0.3.1
-appRiori: 0.0.3
+appRiori: 0.0.5
 apparent: '1.1'
 appeears: '1.1'
 appell: 0.0-4
@@ -9099,7 +9100,7 @@ bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
 baggingbwsel: '1.0'
 baggr: 0.7.8
-baguette: 1.0.1
+baguette: 1.0.2
 bahc: 0.3.0
 bain: 0.2.10
 bairt: 0.1.2
@@ -9258,7 +9259,7 @@ bazar: 1.0.11
 bbdetection: '1.0'
 bbefkr: '4.2'
 bbemkr: '2.0'
-bbknnR: 1.1.0
+bbknnR: 1.1.1
 bbl: 1.0.0
 bbmix: 1.0.0
 bbmle: 1.0.25.1
@@ -12793,7 +12794,7 @@ equaltestMI: 0.6.1
 equatags: 0.2.0
 equate: 2.0.8
 equateIRT: 2.3.0
-equateMultiple: 0.1.1
+equateMultiple: 0.1.2
 equatiomatic: 0.3.1
 equil2: 1.0.0
 equivUMP: 0.1.1
@@ -13035,7 +13036,7 @@ extraterrestrial: 0.1.0
 extremeIndex: 0.0.3
 extremeStat: 1.5.9
 extremefit: 1.0.2
-extremevalues: 2.3.3
+extremevalues: 2.3.4
 extremis: 1.2.1
 extremogram: 1.0.2
 exuber: 1.0.2
@@ -13399,6 +13400,7 @@ filenamer: 0.2.3
 fileplyr: 0.2.0
 files: 0.0.1
 filesstrings: 3.4.0
+filibustr: 0.1.1
 filling: 0.2.3
 fillr: 1.0.0
 filteRjsats: '1.0'
@@ -13826,7 +13828,7 @@ funprog: 0.3.0
 funr: 0.3.2
 funrar: 1.5.0
 funreg: 1.2.2
-funspace: 0.1.1
+funspace: 0.2.1
 funspotr: 0.0.4
 funtimes: '9.1'
 furniture: 1.9.14
@@ -14928,7 +14930,7 @@ grpss: 3.0.1
 grr: 0.9.5
 grt: 0.2.1
 grwat: 0.0.4
-gsDesign: 3.6.0
+gsDesign: 3.6.1
 gsDesign2: 1.1.1
 gsEasy: '1.4'
 gsMAMS: 0.7.1
@@ -15516,7 +15518,7 @@ iForecast: 1.0.7
 iGSEA: '1.2'
 iGasso: '1.6'
 iGenomicViewer: 2.4.8
-iGraphMatch: 2.0.3
+iGraphMatch: 2.0.4
 iIneq: 1.0.2
 iJRF: 1.1-4
 iLaplace: 1.1.0
@@ -16230,7 +16232,7 @@ jug: 0.1.7
 juicedown: 0.1.1
 juicr: '0.1'
 juicyjuice: 0.1.0
-junctions: 2.0.3
+junctions: 2.1.0
 junr: 0.1.3
 just.install: 1.0.2
 justifier: 0.2.6
@@ -18241,7 +18243,7 @@ mra: 2.16.11
 mratios: 1.4.2
 mrbayes: 0.5.1
 mrbin: 1.7.4
-mrbsizeR: 1.2.1.1
+mrbsizeR: '1.3'
 mrct: 0.0.1.0
 mrdrc: 1.0-6
 mrds: 2.3.0
@@ -18253,7 +18255,7 @@ mrfDepth: 1.0.16
 mrfse: 0.4.1
 mrgsim.parallel: 0.2.1
 mrgsim.sa: 0.2.0
-mrgsolve: 1.4.0
+mrgsolve: 1.4.1
 mri: 1.0.1
 mritc: 0.5-3
 mro: 0.1.1
@@ -18715,7 +18717,7 @@ netgsa: 4.0.5
 netgwas: 1.14.2
 netie: '1.0'
 netjack: 1.2.0
-netmap: 0.1.2
+netmap: 0.1.3
 netmediate: 0.1.3
 netmeta: 2.9-0
 netmhc2pan: 1.3.2
@@ -18865,7 +18867,7 @@ nlrx: 0.4.5
 nls: 0.5-3
 nls.multstart: 1.3.0
 nls2: 0.3-3
-nlsMicrobio: 0.0-3
+nlsMicrobio: 1.0-0
 nlsem: 0.8-1
 nlshelper: '0.2'
 nlshrink: 1.0.1
@@ -18875,7 +18877,7 @@ nlsr: 2023.8.31
 nlsrk: '1.1'
 nlstac: 0.2.0
 nlstimedist: 2.0.0
-nlstools: 2.0-1
+nlstools: 2.1-0
 nlt: 2.2-1
 nltm: 1.4.5
 nlts: 1.0-2
@@ -20981,7 +20983,7 @@ qrNLMM: '3.3'
 qra: 0.2.7
 qrage: '1.0'
 qrandom: 1.2.6
-qrcm: '3.0'
+qrcm: '3.1'
 qrcmNP: 0.2.1
 qrcode: 0.2.2
 qrencoder: 0.1.0
@@ -22504,7 +22506,7 @@ rsgcc: 1.0.6
 rsgeo: 0.1.6
 rsggm: 0.3.1
 rshift: 3.0.0
-rsi: 0.1.1
+rsi: 0.1.2
 rsig: '1.0'
 rsimsum: 0.11.3
 rsinaica: 1.0.0
@@ -22649,7 +22651,7 @@ rvalues: 0.7.1
 rvcheck: 0.2.1
 rvec: 0.0.6
 rversions: 2.1.2
-rvertnet: 0.8.2
+rvertnet: 0.8.3
 rvest: 1.0.4
 rvg: 0.3.3
 rvgtest: 0.7.4
@@ -22757,6 +22759,7 @@ saeRobust: 0.4.0
 saeSim: 0.11.0
 saeTrafo: 1.0.2
 saebnocov: 0.1.0
+saeczi: 0.1.0
 saeeb: 0.1.0
 saekernel: 0.1.1
 saemix: '3.2'
@@ -24958,7 +24961,7 @@ tea: '1.1'
 teachingApps: 1.0.8
 teal: 0.15.0
 teal.code: 0.5.0
-teal.data: 0.4.0
+teal.data: 0.5.0
 teal.logger: 0.1.3
 teal.reporter: 0.2.1
 teal.slice: 0.5.0
@@ -25040,7 +25043,7 @@ texmex: 2.4.8
 texmexseq: '0.3'
 texor: 1.3.0
 texreg: 1.39.3
-text: '1.0'
+text: 1.2.0
 text.alignment: 0.1.4
 text2map: 0.1.8
 text2sdg: 1.1.1
@@ -25109,7 +25112,7 @@ thankr: 1.0.0
 thectar: 1.0.0
 theft: 0.5.4.1
 theiaR: 0.4.0
-thematic: 0.1.4
+thematic: 0.1.5
 themetagenomics: 1.0.2
 themis: 1.0.2
 thermocouple: 1.0.2
@@ -25943,6 +25946,7 @@ vagalumeR: 0.1.6
 vagam: '1.1'
 valaddin: 1.0.2
 valection: 1.0.0
+valentine: 2024.2.14
 valet: 0.9.0
 valetr: 0.1.0
 valhallr: 0.1.0
@@ -26203,7 +26207,7 @@ vudc: '1.1'
 vueR: 0.6.0
 vvauditor: 0.5.8
 vvcanvas: 0.0.3
-vvconverter: 0.5.8
+vvconverter: 0.5.9
 vvfiller: 0.6.7
 vvmover: 1.5.10
 vvsculptor: 0.4.10
@@ -26283,7 +26287,7 @@ wbsd: 1.0.0
 wbstats: 1.0.4
 wbsts: '2.1'
 wccsom: 1.2.11
-wcde: 0.0.6
+wcde: 0.0.7
 wcep: 1.0.2
 wconf: 1.0.0
 wcox: '1.0'
@@ -26488,7 +26492,7 @@ wqs: 0.0.1
 wqspt: 1.0.1
 wqtrends: 1.4.2
 wrGraph: 1.3.7
-wrMisc: 1.14.0
+wrMisc: 1.14.1
 wrProteo: 1.10.1
 wrTopDownFrag: 1.0.2
 wrangle: 0.6.3
@@ -26542,6 +26546,7 @@ xbreed: 1.0.1.1
 xdcclarge: 0.1.0
 xefun: 0.1.5
 xegaBNF: 1.0.0.0
+xegaDerivationTrees: 1.0.0.0
 xegaDfGene: 1.0.0.0
 xegaGaGene: 1.0.0.1
 xegaPermGene: 1.0.0.0
