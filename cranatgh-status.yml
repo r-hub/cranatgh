@@ -690,7 +690,7 @@ Bclim: 3.1.2
 BeQut: 0.1.0
 BeSS: 2.0.4
 BeastJar: 1.10.6
-BeeBDC: 1.0.3
+BeeBDC: 1.0.4
 BeeGUTS: 1.1.3
 Benchmarking: '0.31'
 BenfordTests: 1.2.0
@@ -1275,7 +1275,7 @@ CoTiMA: 0.7.0
 CoastlineFD: 1.1.2
 CodataGS: '1.43'
 CodeDepends: 0.6.5
-CodelistGenerator: 2.2.1
+CodelistGenerator: 2.2.2
 CohensdpLibrary: 0.5.10
 CohortAlgebra: 0.2.0
 CohortExplorer: 0.1.0
@@ -2513,14 +2513,14 @@ FusedPCA: '0.2'
 FusionLearn: 0.2.1
 Fuzzy.p.value: '1.1'
 FuzzyAHP: 0.9.5
-FuzzyClass: 0.1.5
+FuzzyClass: 0.1.6
 FuzzyDBScan: 0.0.3
 FuzzyLP: 0.1-7
 FuzzyM: 0.1.0
 FuzzyMCDM: '1.1'
 FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
-FuzzyPovertyR: 2.0.0
+FuzzyPovertyR: 2.0.1
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
 FuzzyResampling: 0.6.3
@@ -2743,6 +2743,7 @@ GSED: '2.6'
 GSIF: 0.5-5.1
 GSM: 1.3.2
 GSMX: '1.3'
+GSNA: 0.1.4.1
 GSODR: 3.1.10
 GSSE: '0.1'
 GSSTDA: 0.1.3
@@ -7850,13 +7851,13 @@ ToxCrit: '1.0'
 ToxLim: '1.0'
 ToxicR: 22.12.1.0.7
 ToxicoGx: 0.1.1
-Tplyr: 1.1.0
+Tplyr: 1.2.0
 TraMineR: 2.2-9
 TraMineRextras: 0.6.7
 TraceAssist: 0.1.0
 TrackReconstruction: '1.3'
 TradeStrategyAnalyzer: '1.0'
-Trading: '2.5'
+Trading: '3.0'
 TrafficBDE: 0.1.2
 TraitStats: 1.0.2
 Traitspace: '1.1'
@@ -9857,7 +9858,7 @@ brranching: 0.7.0
 brsim: '0.3'
 brt: 1.3.0
 bruceR: '2023.9'
-brulee: 0.2.0
+brulee: 0.3.0
 brunnermunzel: '2.0'
 brxx: 0.1.2
 bs: '1.0'
@@ -9931,7 +9932,7 @@ butterflyOptions: 1.0.1
 bvarsv: '1.1'
 bvartools: 0.2.4
 bvenn: '0.1'
-bvhar: 1.2.0
+bvhar: 2.0.0
 bvls: '1.4'
 bvpSolve: 1.4.4.1
 bvpa: 1.0.0
@@ -9993,7 +9994,7 @@ calendRio: 0.2.0
 calendar: 0.0.1
 calibFit: 2.1.0
 calibmsm: 1.0.0
-calibrar: 0.2.0
+calibrar: 0.9.0
 calibrate: 1.7.7
 calibrateBinary: '0.1'
 calibrationband: 0.2.1
@@ -10399,6 +10400,7 @@ cir: 2.3.1
 circacompare: 0.2.0
 circglmbayes: 1.3.0
 circle: 0.7.2
+circlesplot: 1.0.0
 circletyper: 1.0.2
 circlize: 0.4.15
 circular: 0.5-0
@@ -10469,7 +10471,7 @@ cliapp: 0.1.1
 clickR: 0.9.39
 clickb: '0.1'
 clickstream: 1.3.3
-clidamonger: 1.0.0
+clidamonger: 1.1.0
 clidatajp: 0.5.2
 cliff: 0.1.2
 clifford: 1.0-8
@@ -10543,7 +10545,7 @@ clustDRM: 0.1-0
 clustEff: 0.3.1
 clustMD: 1.2.1
 clustMixType: 0.3-14
-clustNet: 1.1.0
+clustNet: 1.2.0
 clustRcompaR: 0.2.0
 clustTool: 1.6.5
 clustcurv: 2.0.1
@@ -10646,7 +10648,7 @@ codalm: 0.1.2
 codaredistlm: 0.1.0
 codeCollection: 0.1.3
 codebook: 0.9.2
-codebookr: 0.1.6
+codebookr: 0.1.7
 codebreaker: 1.0.1
 codecountR: 0.0.4.0
 codemeta: 0.1.1
@@ -12359,7 +12361,7 @@ eNetXplorer: 1.1.2
 ePCR: 0.9.9-11
 eRTG3D: 0.7.0
 eRm: 1.0-4
-eSDM: 0.4.0
+eSDM: 0.4.1
 eSIR: 0.4.2
 eVenn: '2.4'
 eadrm: 0.1.4
@@ -13797,7 +13799,7 @@ fullfact: 1.5.2
 fulltext: '2.0'
 fume: '1.0'
 fun: '0.3'
-funData: 1.3-8
+funData: 1.3-9
 funFEM: '1.2'
 funGp: 0.3.2
 funHDDC: 2.3.1
@@ -14131,6 +14133,7 @@ generics: 0.1.3
 genero: 0.1.0
 geneset: 0.2.7
 genesysr: 2.1.0
+genetic.algo.optimizeR: 0.2.5
 geneticae: 0.4.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
@@ -14417,7 +14420,7 @@ ggmr: 0.1.1
 ggmsa: 1.0.2
 ggmuller: 0.5.6
 ggmulti: 1.0.6
-ggnetwork: 0.5.12
+ggnetwork: 0.5.13
 ggnewscale: 0.4.10
 ggnormalviolin: 0.1.2
 ggnuplot: 0.1.0
@@ -15100,7 +15103,7 @@ hawkesbow: 1.0.3
 hazer: 1.1.1
 hazus: '0.1'
 hbal: 1.2.12
-hbamr: 2.1.2
+hbamr: 2.2.0
 hbbr: 1.1.2
 hbdct: 1.0.1
 hbim: 1.1.2
@@ -15134,7 +15137,7 @@ hdfqlr: 0.6-2
 hdi: 0.1-9
 hdiVAR: 1.0.2
 hdlm: 1.3.1
-hdm: 0.3.1
+hdm: 0.3.2
 hdme: 0.6.0
 hdmed: 1.0.0
 hdnom: 6.0.2
@@ -15566,7 +15569,7 @@ ibdreg: 0.3.8
 ibdsim2: 2.0.0
 ibeemd: 1.0.1
 ibelief: 1.3.1
-ibm: 0.1.0
+ibm: 0.3.0
 ibmAcousticR: 0.2.1
 ibmcraftr: 1.0.0
 ibmdbR: 1.51.0
@@ -16208,7 +16211,7 @@ jsTree: '1.2'
 jsTreeR: 2.5.0
 jshintr: 0.1.0
 jskm: 0.5.3
-jsmodule: 1.4.4
+jsmodule: 1.5.0
 json2aRgs: 0.3.0
 json64: 0.1.3
 jsonNormalize: 1.0.0
@@ -16249,7 +16252,7 @@ kableExtra: 1.4.0
 kader: 0.0.8
 kaigiroku: '0.5'
 kairos: 2.0.2
-kalmanfilter: 2.0.2
+kalmanfilter: 2.1.0
 kamila: 0.1.2
 kangar00: 1.4.1
 kanjistat: 0.9.1
@@ -18309,7 +18312,7 @@ msir: 1.3.3
 mskcc.oncotree: 0.1.1
 msltrend: '1.0'
 msm: 1.7.1
-msma: '3.0'
+msma: '3.1'
 msme: 0.5.3
 msmtools: 2.0.1
 msos: 1.2.0
@@ -18363,6 +18366,7 @@ multbxxc: 1.0.1
 multcomp: 1.4-25
 multcompView: 0.1-9
 multdyn: '1.6'
+multe: 1.0.0
 multfisher: '1.1'
 multgee: 1.9.0
 multiActionButton: 1.0.0
@@ -18898,6 +18902,7 @@ nmw: 0.1.5
 nn2poly: 0.1.1
 nnDiag: 0.0-5
 nnGarrote: 1.0.4
+nnR: 0.1.0
 nnTensor: 1.2.0
 nna: 0.0.2.1
 nnc: '1.14'
@@ -19641,7 +19646,7 @@ parallelMap: 1.5.1
 parallelPlot: 0.3.1
 parallelSVM: 0.1-9
 parallelize.dynamic: 0.9-1
-parallelly: 1.36.0
+parallelly: 1.37.0
 parallelpam: '1.4'
 param6: 0.2.4
 paramGUI: 2.2.0
@@ -20210,7 +20215,7 @@ pleio: '1.9'
 pleiotest: 1.0.0
 plethem: 1.1.0
 plfMA: '2.0'
-plfm: 2.2.5
+plfm: 2.2.6
 plgp: 1.1-12
 plgraphics: '1.2'
 pliable: 1.1.1
@@ -20401,11 +20406,11 @@ pomcheckr: 0.1.1
 pomdp: 1.1.3
 pomdpSolve: 1.0.4
 pomodoro: 3.8.0
-pomp: '5.5'
+pomp: '5.6'
 pompom: 0.2.1
 pompp: 0.1.3
 pooh: 0.3-2
-pool: 1.0.2
+pool: 1.0.3
 poolABC: 1.0.0
 poolHelper: 1.1.0
 poolVIM: 1.0.0
@@ -20751,7 +20756,7 @@ proxirr: '0.4'
 proxy: 0.4-27
 proxyC: 0.3.4
 prozor: 0.3.1
-prqlr: 0.7.0
+prqlr: 0.8.0
 prrd: 0.0.5
 prt: 0.2.0
 pryr: 0.1.6
@@ -21059,7 +21064,7 @@ quantileDA: '1.1'
 quantilogram: 2.2.1
 quantities: 0.2.1
 quantkriging: 0.1.0
-quantmod: 0.4.25
+quantmod: 0.4.26
 quantoptr: 0.1.3
 quantreg: '5.97'
 quantreg.nonpar: '1.0'
@@ -21726,7 +21731,7 @@ refreshr: 0.1.0
 refset: 0.1.1
 refuge: 0.3.3
 refugees: 2023.6.0
-refund: 0.1-34
+refund: 0.1-35
 refund.shiny: '1.0'
 refund.wave: '0.1'
 regDIF: 1.1.0
@@ -22230,7 +22235,7 @@ rnndescent: 0.1.3
 rnoaa: 1.4.0
 rnpn: 1.2.8.0
 rnr: 0.2.1
-rnrfa: 2.1.0
+rnrfa: 2.1.0.5
 roadoi: 0.7.2
 roads: 1.1.1
 roahd: 1.4.3
@@ -22534,7 +22539,7 @@ rsprite2: 0.2.1
 rsprng: '1.0'
 rsq: '2.6'
 rsqliteadmin: 1.0.1
-rstac: 0.9.2-5
+rstac: 1.0.0
 rstack: 1.0.1
 rstackdeque: 1.1.1
 rstan: 2.32.5
@@ -23074,7 +23079,7 @@ secuTrialR: 1.1.1
 secure: '0.6'
 securitytxt: 0.1.1
 sedproxy: 0.7.5
-see: 0.8.1
+see: 0.8.2
 seeclickfixr: 1.1.0
 seecolor: 0.2.0
 seedCCA: '3.1'
@@ -23295,7 +23300,7 @@ shapley: '0.1'
 shapper: 0.1.3
 shapr: 0.2.2
 shapviz: 0.9.3
-shar: 2.2.1
+shar: '2.3'
 sharp: 1.4.6
 sharpData: '1.4'
 sharpPen: '1.9'
@@ -24231,7 +24236,7 @@ squat: 0.3.0
 squeezy: 1.1-1
 squid: 0.2.1
 sr: 0.1.0
-sra: 0.1.4
+sra: 0.1.4.1
 srcr: 1.1.0
 srd: '1.0'
 sregsurvey: 0.1.3
@@ -24307,7 +24312,7 @@ stacks: 1.0.3
 stacomiR: 0.6.0.7
 stacomirtools: 0.6.0.1
 stagePop: 1.1-2
-stagedtrees: 2.2.1
+stagedtrees: 2.3.0
 staggered: '1.1'
 stam: 0.0-1
 stampr: 0.3.1
@@ -25473,6 +25478,7 @@ traitstrap: 0.1.0
 traj: 2.0.1
 trajeR: 0.9.0.5
 trajectories: 0.2-8
+trajmsm: 0.1.0
 trajr: 1.5.1
 tram: 1.0-2
 tramME: 1.0.5
@@ -25936,7 +25942,7 @@ vMF: 0.0.2
 vMask: '1.0'
 vaRiskScore: 1.1.0
 vabayelMix: '0.3'
-vaccine: 1.1.0
+vaccine: 1.2.0
 vacem: 0.1-1
 vacuum: 0.1.0
 vader: 0.2.1
@@ -25953,7 +25959,7 @@ valhallr: 0.1.0
 validaRA: 0.1.1
 validann: 1.2.1
 validata: 0.1.0
-validate: 1.1.3
+validate: 1.1.5
 validateIt: 1.2.1
 validateRS: 1.0.0
 validatedb: 0.1.4
@@ -26269,7 +26275,7 @@ wav: 0.1.0
 wavScalogram: 1.1.2
 waveband: 4.7.2
 waveclock: 1.0-4
-waved: '1.2'
+waved: '1.3'
 waveformlidar: 1.2.0
 wavefunction: 1.0.0
 wavelets: 0.3-0.2
@@ -26493,7 +26499,7 @@ wqspt: 1.0.1
 wqtrends: 1.4.2
 wrGraph: 1.3.7
 wrMisc: 1.14.1
-wrProteo: 1.10.1
+wrProteo: 1.11.0.1
 wrTopDownFrag: 1.0.2
 wrangle: 0.6.3
 wrappedtools: 0.9.3
