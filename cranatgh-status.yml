@@ -521,7 +521,7 @@ BRETIGEA: 1.0.3
 BRINDA: 0.1.5
 BRISC: 1.0.5
 BRL: 0.1.0
-BRVM: 5.0.0
+BRVM: 5.3.0
 BRugs: 0.9-2
 BSBT: 1.2.1
 BSDA: 1.2.2
@@ -1404,7 +1404,7 @@ Correlplot: 1.1.0
 CosW: '0.1'
 CosmoPhotoz: '0.1'
 Counterfactual: '1.2'
-Counternull: 0.2.0
+Counternull: 0.2.1
 Countr: 3.5.8
 CountsEPPM: '3.1'
 CovCombR: '1.0'
@@ -4641,7 +4641,7 @@ NMRphasing: 1.0.4
 NMTox: 0.1.0
 NMVANOVA: 1.1.0
 NMcalc: 0.0.3
-NMdata: 0.1.4
+NMdata: 0.1.5
 NMproject: 0.6.9
 NMsim: 0.0.10
 NNLM: 0.4.3
@@ -5260,7 +5260,7 @@ PartialNetwork: 1.0.2
 Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 PathSelectMP: '1.1'
-PatientProfiles: 0.6.0
+PatientProfiles: 0.6.1
 PatternClass: 2.0.1
 Patterns: '1.4'
 PdPDB: 2.0.1
@@ -5338,7 +5338,7 @@ PlasmaMutationDetector2: 1.1.11
 Plasmidprofiler: 0.1.6
 Plasmode: 0.1.0
 PlatformDesign: 2.1.4
-Platypus: 3.4.1
+Platypus: 3.5.0
 PlayerRatings: 1.1-0
 PlotBivInvGaus: 0.1.0
 PlotContour: 0.1.0
@@ -5685,7 +5685,7 @@ RCPmod: '2.192'
 RCRnorm: 0.0.2
 RCSF: 1.0.2
 RCSL: 0.99.95
-RCT: 1.1.2
+RCT: '1.2'
 RCT2: 0.0.1
 RCTS: 0.2.4
 RCTrep: 1.2.0
@@ -5989,7 +5989,7 @@ ROptimizely: 0.2.0
 ROptimus: 3.0.0
 ROracle: 1.3-1.1
 ROracleUI: 1.3-2
-RPANDA: '2.2'
+RPANDA: '2.3'
 RPCLR: '1.0'
 RPDTest: 0.0.1
 RPEClust: 0.1.0
@@ -6073,7 +6073,7 @@ RSeed: 0.1.60
 RSelenium: 1.7.9
 RSentiment: 2.2.2
 RSeqMeth: 1.0.2
-RSiena: 1.4.1
+RSiena: 1.4.7
 RSiteCatalyst: 1.4.16
 RSiteSearch: 1.0-7
 RSizeBiased: 0.1.0
@@ -7248,7 +7248,7 @@ SimPhe: 0.2.0
 SimRAD: '0.96'
 SimRVPedigree: 0.4.4
 SimRVSequences: 0.2.7
-SimReg: '3.3'
+SimReg: '3.4'
 SimRepeat: 0.1.0
 SimSCRPiecewise: 0.1.1
 SimSST: 0.0.5.2
@@ -8038,6 +8038,7 @@ VIFCP: '1.2'
 VIGoR: 1.1.2
 VIM: 6.2.2
 VIMGUI: 0.10.0
+VIMPS: '1.0'
 VIMean: 0.1.0
 VIRF: 0.1.0
 VLF: '1.1'
@@ -8308,7 +8309,7 @@ aRtsy: 0.2.4
 aRxiv: '0.8'
 aSPC: 0.1.2
 aSPU: '1.50'
-aTSA: 3.1.2
+aTSA: 3.1.2.1
 aVirtualTwins: 1.0.1
 aaMI: 1.0-1
 aaSEA: 1.1.0
@@ -8637,7 +8638,7 @@ alr4: 1.0.6
 altR2: 1.0.0
 altadata: 0.1.1
 altair: 4.2.3
-altdoc: 0.2.2
+altdoc: 0.3.0
 alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '4.1'
@@ -9481,7 +9482,7 @@ bigreadr: 0.2.5
 bigrf: 0.1-11
 bigrquery: 1.5.0
 bigrquerystorage: 1.0.0
-bigsimr: 0.11.2
+bigsimr: 0.12.0
 bigsnpr: 1.12.2
 bigsparser: 0.6.1
 bigsplines: 1.1-1
@@ -9745,7 +9746,7 @@ boostSeq: '1.0'
 boostingDEA: 0.1.0
 boostmtree: 1.5.1
 boostr: 1.0.0
-boot: 1.3-28.1
+boot: 1.3-29
 boot.heterogeneity: 1.1.5
 boot.pval: '0.5'
 bootCT: 2.1.0
@@ -9763,7 +9764,7 @@ bootUR: 1.0.3
 bootcluster: 0.3.2
 bootf2: 0.4.1
 bootfs: 1.4.2
-bootnet: 1.5.6
+bootnet: '1.6'
 bootruin: 1.2-4
 bootsPLS: 1.1.2
 bootspecdens: '3.0'
@@ -10656,7 +10657,7 @@ cocotest: 1.0.3
 cocron: 1.0-1
 coda: 0.19-4.1
 coda.base: 0.5.5
-coda4microbiome: 0.2.2
+coda4microbiome: 0.2.3
 codacore: 0.0.4
 codadiags: '1.0'
 codalm: 0.1.2
@@ -11128,7 +11129,7 @@ cpp11: 0.4.7
 cppRouting: '3.1'
 cppcheckR: 1.0.0
 cppcor: '1.2'
-cppdoubles: 0.1.1
+cppdoubles: 0.2.0
 cpr: 0.4.0
 cprobit: 1.0.2
 cprr: 0.2.0
@@ -11496,7 +11497,7 @@ dataMojo: 1.0.0
 dataPreparation: 1.1.1
 dataQualityR: '1.0'
 dataReporter: 1.0.2
-dataRetrieval: 2.7.14
+dataRetrieval: 2.7.15
 dataSDA: 0.1.0
 databraryr: 0.6.0
 datacheck: 1.2.2
@@ -11602,7 +11603,7 @@ dbx: 0.3.1
 dc3net: 1.2.0
 dcGOR: 1.0.6
 dcTensor: 1.2.0
-dccmidas: 0.1.0
+dccmidas: 0.1.2
 dccpp: 0.1.0
 dccvalidator: 0.3.0
 dcemri: 0.10.5
@@ -12438,7 +12439,7 @@ ebmc: 1.0.1
 ebmstate: 0.1.4
 ebnm: 1.1-2
 ebreg: 0.1.3
-ebvcube: 0.1.6
+ebvcube: 0.1.7
 ec50estimator: 0.1.0
 ecan: 0.2.1
 ecap: 0.1.2
@@ -12465,7 +12466,7 @@ eco: 4.0-3
 ecoCopula: 1.0.2
 ecocbo: 0.10.2
 ecochange: 2.9.3.1
-ecocomDP: 1.2.2
+ecocomDP: 1.3.1
 ecodist: 2.1.3
 ecoengine: 1.12.0
 ecolMod: 1.2.6.4
@@ -13574,6 +13575,7 @@ flows: 1.1.1
 flps: 1.0.0
 flsa: 1.5.5
 flubase: '1.0'
+fluidsynth: 1.0.0
 fluoSurv: 1.0.0
 fluspect: 1.0.0
 flux: 0.3-0.1
@@ -13789,7 +13791,7 @@ fsMTS: 0.1.7
 fsbrain: 0.5.5
 fscaret: 0.9.4.4
 fsdaR: 0.9-0
-fsemipar: '1.0'
+fsemipar: 1.0.1
 fsia: 1.1.1
 fslr: 2.25.2
 fsn: '0.2'
@@ -13910,7 +13912,7 @@ gKRLS: 1.0.2
 gLRTH: 0.2.0
 gMCP: 0.8-16
 gMCPLite: 0.1.5
-gMOIP: 1.5.0
+gMOIP: 1.5.2
 gMWT: '1.4'
 gPCA: '1.0'
 gPdtest: '0.4'
@@ -14385,7 +14387,7 @@ gge: '1.8'
 ggeasy: 0.1.4
 ggedit: 0.3.1
 ggeffects: 1.4.0
-ggenealogy: 1.0.1
+ggenealogy: 1.0.3
 ggetho: 0.3.7
 ggfacto: 0.2.3
 ggfan: 0.1.3
@@ -14849,7 +14851,7 @@ grapherator: 1.0.0
 graphframes: 0.1.2
 graphhopper: 0.1.2
 graphicalExtremes: 0.3.0
-graphicalVAR: 0.3.3
+graphicalVAR: 0.3.4
 graphicsQC: 1.0-8
 graphite: '1.1'
 graphkernels: 1.6.1
@@ -16213,7 +16215,7 @@ jordan: 1.0-1
 josaplay: 0.1.3
 jose: 1.2.0
 jot: 0.0.4
-journalabbr: 0.4.0
+journalabbr: 0.4.3
 joyn: 0.1.4
 jpcity: 0.1.1
 jpeg: 0.1-10
@@ -16496,7 +16498,7 @@ labeledLoop: '0.1'
 labeling: 0.4.3
 labelled: 2.12.0
 labelmachine: 1.0.0
-labelr: 0.1.2
+labelr: 0.1.3
 labelrank: '0.1'
 labeltodendro: '1.3'
 lablaster: 1.0.1
@@ -17108,7 +17110,7 @@ lvmcomp: '1.2'
 lvmisc: 0.1.2
 lvnet: 0.3.5
 lvplot: 0.2.1
-lwgeom: 0.2-13
+lwgeom: 0.2-14
 lwqs: 0.5.0
 lxb: '1.5'
 lymphclon: 1.3.0
@@ -17618,6 +17620,7 @@ metagen: '1.0'
 metaggR: 0.3.0
 metaheur: 0.2.0
 metaheuristicOpt: 2.0.0
+metainc: 0.2-0
 metajam: 0.2.3
 metalite: 0.1.3
 metalite.ae: 0.1.1
@@ -18033,7 +18036,7 @@ mme: 0.1-6
 mmeln: '1.5'
 mmeta: 3.0.0
 mmetrics: 0.3.0
-mmiCATs: 0.1.0
+mmiCATs: 0.1.1
 mmibain: 0.1.1
 mmirestriktor: 0.2.1
 mmlcr: 1.3.5
@@ -18749,7 +18752,7 @@ netgwas: 1.14.2
 netie: '1.0'
 netjack: 1.2.0
 netmap: 0.1.3
-netmediate: 0.1.3
+netmediate: 0.1.4
 netmeta: 2.9-0
 netmhc2pan: 1.3.2
 netmodels: '0.2'
@@ -18758,6 +18761,7 @@ netrankr: 1.2.3
 netregR: 1.0.1
 netropy: 0.1.0
 nets: 0.9.1
+netseer: 0.1.0
 netseg: 1.0-2
 netstat: 0.1.2
 nett: 1.0.0
@@ -19385,7 +19389,7 @@ optifunset: '1.0'
 optigrab: 0.9.2.1
 optim.functions: '0.1'
 optimCheck: '1.0'
-optimLanduse: 1.2.0
+optimLanduse: 1.2.1
 optimParallel: 1.0-2
 optimStrat: '2.4'
 optimalThreshold: '1.0'
@@ -19492,7 +19496,7 @@ osqp: 0.6.3.2
 osrm: 4.1.1
 osrmr: 0.1.36
 ot: 0.2.0
-otargen: 1.1.0
+otargen: 1.1.1
 otinference: 0.1.0
 otp: 0.1.1
 otpr: 0.5.1
@@ -20195,7 +20199,7 @@ pkgdepends: 0.7.1
 pkgdown: 2.0.7
 pkgfilecache: 0.1.5
 pkggraph: 0.2.3
-pkglite: 0.2.1
+pkglite: 0.2.2
 pkgload: 1.3.4
 pkgmaker: 0.32.10
 pkgndep: 1.99.3
@@ -20473,7 +20477,7 @@ poptrend: 0.2.0
 populR: 0.2.1
 population: '0.3'
 populationPDXdesign: 1.0.3
-porridge: 0.3.2
+porridge: 0.3.3
 port4me: 0.7.0
 portalr: 0.4.1
 portes: '6.0'
@@ -21482,9 +21486,9 @@ rawKS: 0.1.0
 rawr: 0.1.3
 raws.profile: 0.1.0
 rayimage: 0.10.0
-raymolecule: 0.5.0
+raymolecule: 0.5.3
 rayrender: 0.32.2
-rayshader: 0.35.7
+rayshader: 0.37.3
 raytracing: 0.6.0
 rayvertex: 0.10.4
 rb3: 0.0.10
@@ -21854,7 +21858,7 @@ remstimate: 2.3.8
 renderthis: 0.2.0
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 1.0.3
+renv: 1.0.4
 renz: 0.2.1
 repairData: 0.1.0
 repana: 2.1.0
@@ -22797,6 +22801,7 @@ saeczi: 0.1.0
 saeeb: 0.1.0
 saekernel: 0.1.1
 saemix: '3.2'
+saens: 0.1.0
 saery: '1.0'
 safeBinaryRegression: 0.1-3
 safedata: 1.1.3
@@ -23021,7 +23026,7 @@ scpoisson: 0.0.1
 scqe: 1.0.0
 scquantum: 1.0.0
 scraEP: '1.2'
-scrapeR: 0.1.7
+scrapeR: 0.1.8
 scrappy: 0.0.1
 screenshot: 0.9.0
 scribe: 0.3.0
@@ -23100,7 +23105,7 @@ seawaveQ: 2.0.2
 secr: 4.6.5
 secrdesign: 2.8.2
 secret: 1.1.0
-secretbase: 0.2.0
+secretbase: 0.3.0
 secrettext: 0.1.0
 secrlinear: 1.2.2
 secsse: 3.0.2
@@ -23210,7 +23215,7 @@ sensitivitymult: 1.0.2
 sensitivitymv: 1.4.3
 sensitivitymw: '2.1'
 sensmediation: 0.3.0
-sensobol: 1.1.4
+sensobol: 1.1.5
 sensors4plumes: 0.9.3
 sensory: '1.1'
 senstrat: 1.0.3
@@ -23406,7 +23411,7 @@ shinySearchbar: 1.0.0
 shinySelect: 1.3.0
 shinyShortcut: 0.1.0
 shinyStorePlus: '1.1'
-shinyTempSignal: 0.0.6
+shinyTempSignal: 0.0.7
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
 shinyTree: 0.3.1
@@ -23713,7 +23718,7 @@ sleeperapi: 1.0.4
 sleepr: 0.3.0
 sleepwalk: 0.3.2
 sleev: 1.0.3
-slendr: 0.9.0
+slendr: 0.9.1
 slfm: 1.0.2
 slga: 1.2.0
 slgf: 2.0.0
@@ -24047,7 +24052,7 @@ spatialkernel: 0.4-23
 spatialnbda: '1.0'
 spatialprobit: 1.0.4
 spatialreg: 1.3-2
-spatialrisk: 0.7.0
+spatialrisk: 0.7.1
 spatialsample: 0.5.1
 spatialsegregation: '2.45'
 spatialwarnings: 3.0.3
@@ -24401,7 +24406,7 @@ statgenQTLxT: 1.0.2
 statgenSTA: 1.0.12
 static: 0.1.0
 stationaRy: 0.5.1
-stationery: '1.0'
+stationery: '1.1'
 statip: 0.2.3
 statisfactory: 1.0.4
 statisticalModeling: 0.3.0
@@ -25370,7 +25375,7 @@ tkRplotR: 0.1.7
 tkrgl: '0.9'
 tkrplot: 0.0-27
 tktdjl2r: 0.2.0
-tlars: 0.0.1
+tlars: 1.0.0
 tldr: 0.3.0
 tlemix: 0.1.3
 tlm: 0.1.5
