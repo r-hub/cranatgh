@@ -1559,7 +1559,7 @@ DEVis: 1.0.1
 DEoptim: 2.2-8
 DEoptimR: 1.1-3
 DEploid: 0.5.3
-DFA: 0.9.0
+DFA: 1.0.0
 DFA.CANCOR: 0.2.8
 DFBA: 0.1.0
 DFD: 0.1.0
@@ -1596,6 +1596,7 @@ DImodelsVis: 1.0.0
 DIscBIO: 1.2.2
 DJL: '3.9'
 DLASSO: 2.0.2
+DLEGFM: 0.4.0
 DLL: 1.0.0
 DLMtool: 6.0.6
 DLPCA: 0.0.5
@@ -2538,7 +2539,7 @@ G1DBN: 3.1.1
 G2Sd: 2.1.5
 GA: 3.2.4
 GA4Stratification: '1.0'
-GABB: 0.3.7
+GABB: 0.3.8
 GABi: '0.1'
 GACFF: '1.0'
 GAD: 1.1.1
@@ -2616,7 +2617,7 @@ GFisher: 0.2.0
 GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
-GGIR: 3.0-5
+GGIR: 3.0-6
 GGIRread: 0.3.3
 GGMM: 1.0.1
 GGMncv: 2.1.1
@@ -3363,7 +3364,7 @@ InDisc: 1.1.0
 InPosition: 0.12.7.1
 InSilicoVA: 1.4.0
 IncDTW: 1.1.4.4
-IncidencePrevalence: 0.7.0
+IncidencePrevalence: 0.7.1
 IncomPair: 0.1.0
 IncucyteDRC: 0.5.4
 IndGenErrors: 0.1.4
@@ -3592,7 +3593,7 @@ L2hdchange: '1.0'
 LA: '2.2'
 LAD: 0.1.0
 LAGOSNE: 2.0.3
-LAIr: 0.2.0
+LAIr: 0.3.0
 LAM: 0.6-19
 LANDD: 1.1.0
 LARF: '1.4'
@@ -4643,7 +4644,7 @@ NMVANOVA: 1.1.0
 NMcalc: 0.0.3
 NMdata: 0.1.5
 NMproject: 0.6.9
-NMsim: 0.0.10
+NMsim: 0.1.0
 NNLM: 0.4.3
 NNMIS: 1.0.1
 NNS: '10.6'
@@ -4865,7 +4866,7 @@ Ohmage: 2.11-4.1
 OjaNP: 1.0-0
 OkNNE: 1.0.1
 OligoSpecificitySystem: '1.3'
-OlinkAnalyze: 3.6.2
+OlinkAnalyze: 3.7.0
 OlympicRshiny: 1.0.1
 OmegaG: 1.0.1
 OmicInt: 1.1.7
@@ -6118,7 +6119,7 @@ RTransProb: 0.3.3
 RTransferEntropy: 0.2.21
 RTriangle: 1.6-0.13
 RUVIIIC: 1.0.19
-RUnit: 0.4.32
+RUnit: 0.4.33
 RVA: 0.0.5
 RVAideMemoire: 0.9-83-7
 RVCompare: 0.1.8
@@ -6451,7 +6452,7 @@ RepeatedHighDim: 2.2.0
 RepertoiR: 0.0.1
 Replicate: 1.2.0
 Replication: 0.1.2
-ReplicationSuccess: 1.3.1
+ReplicationSuccess: 1.3.2
 Repliscope: 1.1.1
 RepoGenerator: 0.0.1
 ReporteRs: 0.8.10
@@ -8015,7 +8016,7 @@ VBTree: 0.1.1
 VBV: 0.6.2
 VBmix: 0.3.2
 VBsparsePCA: 0.1.0
-VC2copula: 0.1.4
+VC2copula: 0.1.5
 VCA: 1.5.0
 VDA: '1.3'
 VDAP: 2.0.0
@@ -8807,7 +8808,7 @@ arakno: 1.3.0
 aratio: '1.2'
 arc: '1.4'
 arcgeocoder: 0.1.0
-arcgisutils: 0.1.1
+arcgisutils: 0.2.0
 archdata: 1.2-1
 archeoViz: 1.3.4
 archeofrag: 0.8.2
@@ -8851,7 +8852,7 @@ ariExtra: 0.3.1
 aricode: 1.0.3
 arima2: 3.1.0
 arkdb: 0.0.18
-arkhe: 1.5.0
+arkhe: 1.6.0
 arm: 1.13-1
 armada: 0.1.0
 armspp: 0.0.2
@@ -10267,7 +10268,7 @@ cfa: 0.10-0
 cfbfastR: 1.9.0
 cfda: 0.11.0
 cfdecomp: 0.4.0
-cffdrs: 1.8.20
+cffdrs: 1.9.0
 cffr: 0.5.0
 cfid: 0.1.7
 cfma: '1.0'
@@ -11499,7 +11500,7 @@ dataQualityR: '1.0'
 dataReporter: 1.0.2
 dataRetrieval: 2.7.15
 dataSDA: 0.1.0
-databraryr: 0.6.0
+databraryr: 0.6.1
 datacheck: 1.2.2
 datacheckr: 0.2.0
 dataclass: 0.3.0
@@ -11863,7 +11864,7 @@ diagram: 1.6.5
 dialectR: '1.0'
 dialr: 0.4.2
 dialrjars: 8.13.25
-dials: 1.2.0
+dials: 1.2.1
 diamonds: 1.0-5
 diaplt: 1.4.0
 diathor: 0.1.0
@@ -12529,7 +12530,7 @@ editData: 0.1.8
 editbl: 1.0.3
 editrules: 2.9.3
 edl: '1.1'
-edlibR: 1.0.1
+edlibR: 1.0.2
 edmcr: 0.2.0
 edmdata: 1.2.0
 edmr: 0.6.3.1
@@ -13269,7 +13270,7 @@ fastquant: 0.1.2
 fastrep: '0.7'
 fastrmodels: 1.0.2
 fastrtext: 0.3.4
-fastshap: 0.1.0
+fastshap: 0.1.1
 fasttime: 1.1-0
 fastverse: 0.3.2
 fat2Lpoly: 1.2.5
@@ -13831,7 +13832,7 @@ funModeling: 1.9.4
 funStatTest: 1.0.2
 funbarRF: 1.0.2
 func2vis: 1.0-3
-funcharts: 1.4.0
+funcharts: 1.4.1
 funchir: 0.2.2
 functClust: 0.1.6
 functional: '0.6'
@@ -14083,7 +14084,7 @@ gdor: 0.1-1
 gdpc: 1.1.4
 gds: 0.1.1
 gdsfmt: 1.1.0.1
-gdtools: 0.3.5
+gdtools: 0.3.6
 gdxdt: 0.1.0
 gear: 0.3.4
 gearman: 0.1-5
@@ -14850,7 +14851,7 @@ graphclust: '1.3'
 grapherator: 1.0.0
 graphframes: 0.1.2
 graphhopper: 0.1.2
-graphicalExtremes: 0.3.0
+graphicalExtremes: 0.3.1
 graphicalVAR: 0.3.4
 graphicsQC: 1.0-8
 graphite: '1.1'
@@ -15494,6 +15495,7 @@ hyper.fit: 1.1.1
 hyper2: 3.0-0
 hyperSMURF: '2.0'
 hyperSpec: 0.100.0
+hyperbolicDEA: 0.1.1
 hyperbrick: '1.0'
 hypercube: 0.2.1
 hyperdirichlet: 1.5-1
@@ -15719,7 +15721,7 @@ image.libfacedetection: '0.1'
 image.textlinedetector: 0.2.3
 image2data: 1.0.1
 imageData: 0.1-62
-imagefluency: 0.2.4
+imagefluency: 0.2.5
 imagefx: 0.4.1
 imager: 0.45.8
 imagerExtra: 1.3.2
@@ -17224,7 +17226,7 @@ manifold: 0.1.1
 manipulate: 1.0.1
 manipulateWidget: 0.11.1
 manta: 1.0.1
-manydata: 0.8.3
+manydata: 0.9.2
 manymodelr: 0.3.7
 manymome: 0.1.14
 manymome.table: 0.2.0
@@ -17791,7 +17793,7 @@ mimR: 2.6.2
 mime: '0.12'
 mimi: 0.2.0
 mimiSBM: 0.0.1.3
-mimsy: 0.6.2
+mimsy: 0.6.4
 minMSE: 0.5.1
 minPtest: '1.7'
 minSNPs: 0.1.0
@@ -18258,7 +18260,7 @@ mpmi: 0.43.2.1
 mpmsim: 2.0.0
 mpoly: 1.1.1
 mpower: 0.1.0
-mppR: 1.4.0
+mppR: 1.5.0
 mppa: '1.0'
 mpr: 1.0.6
 mprobit: 0.9-3
@@ -18664,7 +18666,7 @@ nbfar: '0.1'
 nblR: 0.0.4
 nbody: '1.33'
 nbpMatching: 1.5.4
-nc: 2024.1.31
+nc: 2024.2.21
 ncappc: 0.3.0
 ncar: 0.5.0
 ncbit: 2013.03.29.1
@@ -19047,7 +19049,7 @@ nparMD: 0.2.1
 nparcomp: '3.0'
 nparsurv: 0.1.0
 npboottprm: 0.2.0
-npboottprmFBar: 0.1.0
+npboottprmFBar: 0.1.1
 npbr: '1.8'
 npclust: 0.1.0
 npcopTest: '1.03'
@@ -19701,7 +19703,7 @@ parlitools: 0.4.1
 parma: '1.7'
 parmigene: 1.1.0
 parmsurvfit: 0.1.0
-paropt: 0.3.2
+paropt: 0.3.3
 parqr: 0.1.0
 parquetize: 0.5.6.1
 parseRPDR: 1.1.0
@@ -21175,7 +21177,7 @@ r2symbols: '1.4'
 r3PG: 0.1.6
 r3dmol: 0.1.2
 r3js: 0.0.2
-r4ds.tutorials: 0.1.4
+r4ds.tutorials: 0.2.0
 r4googleads: 0.1.1
 r4lineups: 0.1.1
 r4ss: 1.44.0
@@ -21312,7 +21314,7 @@ rTRIPLEXCWFlux: 0.2.0
 rTRNG: 4.23.1-2
 rTableICC: 1.0.9
 rTensor: 1.4.8
-rTensor2: 0.1.0
+rTensor2: 0.2.0
 rTephra: '0.1'
 rTorch: 0.4.2
 rUM: 1.0.2
@@ -21766,7 +21768,7 @@ refugees: 2023.6.0
 refund: 0.1-35
 refund.shiny: '1.0'
 refund.wave: '0.1'
-regDIF: 1.1.0
+regDIF: 1.1.1
 regRSM: '0.5'
 regcensus: 1.0.1
 regclass: '1.6'
@@ -21787,7 +21789,7 @@ reglogit: 1.2-7
 regmed: 2.1.0
 regmedint: 1.0.1
 regmhmm: 1.0.0
-regnet: 1.0.0
+regnet: 1.0.1
 rego: 1.6.1
 regplot: '1.1'
 regport: 0.3.0
@@ -22062,7 +22064,7 @@ rhandsontable: 0.3.8
 rhcoclust: 2.0.0
 rheroicons: 1.0.0
 rhierbaps: 1.1.4
-rhino: 1.6.0
+rhino: 1.7.0
 rhli: 0.0.2
 rhmc: 1.0.0
 rhmmer: 0.1.0
@@ -22657,7 +22659,7 @@ rucm: '0.6'
 rucrdtw: 0.1.6
 rugarch: 1.5-1
 ruijter: 0.1.2
-ruimtehol: 0.3.1
+ruimtehol: 0.3.2
 ruin: 0.1.1
 ruler: 0.3.0
 rules: 1.0.2
@@ -22842,7 +22844,7 @@ samplingEstimates: 0.1-3
 samplingR: 1.0.1
 samplingVarEst: '1.5'
 samplingbook: 1.2.4
-samplingin: 1.0.5
+samplingin: 1.0.6
 sampsizeval: 1.0.0.0
 samr: '3.0'
 sams: 0.4.3
@@ -22876,7 +22878,7 @@ sarp.snowprofile.pyface: 0.1.3
 sars: 1.3.6
 sarsop: 0.6.14
 sas7bdat: '0.7'
-sasLM: 0.10.1
+sasLM: 0.10.2
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sasr: 0.1.2
@@ -22969,7 +22971,7 @@ scatterpie: 0.2.1
 scatterplot3d: 0.3-44
 scbursts: '1.6'
 scclust: 0.2.4
-sccore: 1.0.4
+sccore: 1.0.5
 sccr: '2.1'
 scdensity: 1.0.2
 scdhlm: 0.7.2
@@ -22992,7 +22994,7 @@ scico: 1.5.0
 scicomptools: 1.0.0
 scidb: 3.0.0
 scidesignR: 1.0.0
-scientific: '2024.0'
+scientific: '2024.1'
 scientoText: '0.1'
 scifigure: '0.2'
 scio: 0.9.0
@@ -23900,7 +23902,7 @@ somplot: 1.6.4
 somspace: 1.2.4
 sonar: 1.0.2
 sonicLength: 1.4.7
-sonicscrewdriver: 0.0.4
+sonicscrewdriver: 0.0.5
 sonify: 0.0-1
 soobench: 1.9.18
 sophisthse: 0.7.0
@@ -24432,7 +24434,7 @@ stcos: 0.3.1
 stcov: 0.1.0
 stdReg: 3.4.1
 stddiff: '3.1'
-stdmod: 0.2.9
+stdmod: 0.2.10
 stdvectors: 0.0.5
 steadyICA: '1.0'
 steemr: 0.1.3
@@ -24937,7 +24939,7 @@ tapkee: '1.2'
 tapnet: '0.3'
 tarchetypes: 0.7.12
 tardis: 0.1.4
-targeted: '0.4'
+targeted: '0.5'
 targets: 1.5.1
 tashu: 0.1.1
 taskPR: '0.34'
@@ -24999,7 +25001,7 @@ tdsc: 1.0.4
 tdthap: '1.3'
 tea: '1.1'
 teachingApps: 1.0.8
-teal: 0.15.0
+teal: 0.15.1
 teal.code: 0.5.0
 teal.data: 0.5.0
 teal.logger: 0.1.3
@@ -25215,7 +25217,7 @@ tidycharts: 0.1.3
 tidyclust: 0.2.0
 tidycmprsk: 1.0.0
 tidycode: 0.1.1
-tidycomm: 0.2.1
+tidycomm: 0.4.1
 tidycwl: 1.0.7
 tidydann: 1.0.0
 tidydatatutor: 0.1.0
@@ -25298,7 +25300,7 @@ tigris: '2.1'
 tiktokadsR: 0.1.0
 tikzDevice: 0.12.6
 tileHMM: 1.0-7
-tiledb: 0.23.0
+tiledb: 0.24.0
 tilegramsR: 0.2.0
 tilemaps: 0.2.0
 tiler: 0.3.1
@@ -25888,7 +25890,7 @@ univOutl: '0.4'
 unival: 1.1.0
 univariateML: 1.1.1
 universals: 0.0.5
-unix: 1.5.6
+unix: 1.5.7
 unjoin: 0.1.0
 unknownR: '0.4'
 unmarked: 1.4.1
@@ -26208,6 +26210,7 @@ volatilityTrader: 1.0.1
 volcano3D: 2.0.9
 volcanoPlot: 1.0.0
 volesti: 1.1.2-7
+volker: 1.0.2
 volleystat: 0.2.0
 voluModel: 0.2.1
 voronoi: '1.1'
@@ -26477,7 +26480,7 @@ wmlf: 0.1.2
 wmm: 1.1.1
 wmtsa: 2.0-3
 wmwpow: 0.1.3
-wnl: 0.7.3
+wnl: 0.8.0
 wnominate: '1.4'
 wodds: 0.1.0
 woe: '0.2'
@@ -26638,7 +26641,7 @@ xportr: 0.3.2
 xpose: 0.4.18
 xpose.nlmixr: 0.3.0
 xpose.nlmixr2: 0.4.0
-xpose4: 4.7.2
+xpose4: 4.7.3
 xpose4classic: 4.4.1
 xpose4data: 4.4.1
 xpose4generic: 4.4.1
