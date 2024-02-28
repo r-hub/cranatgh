@@ -604,7 +604,7 @@ BayesDLMfMRI: 0.0.3
 BayesDesign: 0.1.1
 BayesDissolution: 0.2.0
 BayesESS: 0.1.19
-BayesFBHborrow: 0.0.2
+BayesFBHborrow: 1.0.1
 BayesFM: 0.1.5
 BayesFactor: 0.9.12-4.7
 BayesFluxR: 0.1.3
@@ -923,7 +923,7 @@ CDVineCopulaConditional: 0.1.1
 CDatanet: 2.1.2
 CEAmarkov: 0.1.0
 CEC: 0.11.1
-CEDA: 1.1.0
+CEDA: 1.1.1
 CEDARS: '1.90'
 CEEMDANML: 0.1.0
 CEGO: 2.4.3
@@ -2277,7 +2277,7 @@ FDGcopulas: '1.0'
 FDRSeg: 1.0-3
 FDRestimation: 1.0.1
 FDRreg: '0.1'
-FDRsamplesize2: 0.1.0
+FDRsamplesize2: 0.2.0
 FDRsampsize: '1.0'
 FDX: 1.0.6
 FDboost: 1.1-2
@@ -2372,6 +2372,7 @@ FUNLDA: '1.1'
 FUNTA: 0.1.0
 FWDselect: 2.1.0
 FWRGB: 0.1.0
+FaaSr: 1.1.2
 FacPad: '3.0'
 FactMixtAnalysis: '1.0'
 FactoClass: 1.2.9
@@ -2635,7 +2636,7 @@ GHQp: '1.0'
 GHS: '0.1'
 GHap: 3.0.0
 GIC: 1.0.0
-GIFT: 1.3.1
+GIFT: 1.3.2
 GIFTr: 0.1.0
 GIGrvg: '0.8'
 GISINTEGRATION: '1.0'
@@ -2980,6 +2981,7 @@ HDMAADMM: 0.0.1
 HDMD: '1.2'
 HDMFA: 0.1.1
 HDMT: 1.0.5
+HDNRA: 1.0.0
 HDOMDesign: 1.0-1
 HDPenReg: 0.94.9
 HDRFA: 0.1.4
@@ -4380,7 +4382,7 @@ MethodCompare: 0.1.2
 Methplot: '1.0'
 MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
-MetricGraph: 1.2.0
+MetricGraph: 1.3.0
 Metrics: 0.1.4
 MetricsWeighted: 1.0.3
 MexBrewer: 0.0.2
@@ -5846,7 +5848,7 @@ RInside: 0.2.18
 RItools: 0.3-3
 RJDBC: 0.2-10
 RJDemetra: 0.2.5
-RJSDMX: 3.0-6
+RJSDMX: 3.1-0
 RJSONIO: 1.3-1.9
 RJSONLD: 1.0.3
 RJSplot: '2.7'
@@ -6239,7 +6241,7 @@ Rchemcpp: 1.2.1
 RchivalTag: 0.1.9
 Rchoice: 0.3-6
 Rclean: 1.0.0
-RclusTool: 0.91.5
+RclusTool: 0.91.6
 Rclusterpp: 0.2.3
 Rcmdr: 2.9-2
 Rcmdr.HH: 1.8-0
@@ -6638,7 +6640,7 @@ Rpoet: 1.1.0
 Rpolyhedra: 0.5.4
 Rpoppler: 0.1-2
 RprobitB: 1.1.4
-Rprofet: 2.2.1
+Rprofet: 3.1.1
 Rpvt: 0.1.1
 Rquake: 2.4-4
 Rquefts: 1.2-3
@@ -8817,6 +8819,7 @@ arakno: 1.3.0
 aratio: '1.2'
 arc: '1.4'
 arcgeocoder: 0.1.0
+arcgislayers: 0.2.0
 arcgisutils: 0.2.0
 archdata: 1.2-1
 archeoViz: 1.3.4
@@ -9302,7 +9305,7 @@ bcaboot: 0.2-3
 bcc: 1.3.1
 bccp: 0.5.0
 bcdata: 0.4.1
-bcf: 1.3.1
+bcf: 2.0.2
 bcfrailph: 0.1.1
 bcfrailphdv: 0.1.1
 bcgam: '1.0'
@@ -9756,7 +9759,7 @@ boostSeq: '1.0'
 boostingDEA: 0.1.0
 boostmtree: 1.5.1
 boostr: 1.0.0
-boot: 1.3-29
+boot: 1.3-30
 boot.heterogeneity: 1.1.5
 boot.pval: '0.5'
 bootCT: 2.1.0
@@ -10267,7 +10270,7 @@ cepiigeodist: '0.1'
 cepp: '1.7'
 cepreader: 1.2-2
 cequre: '1.5'
-ceramic: 0.9.0
+ceramic: 0.9.5
 cereal: 0.1.0
 cernn: '0.1'
 cesR: 0.1.0
@@ -10654,7 +10657,7 @@ coalescentMCMC: 0.4-4
 coalitions: 0.6.24
 coarseDataTools: 0.6-6
 coat: 0.2.0
-cobalt: 4.5.3
+cobalt: 4.5.4
 cobiclust: 0.1.2
 cobs: 1.3-7
 cobs99: 0.9-12
@@ -11389,7 +11392,7 @@ cvequality: 0.2.0
 cvmaPLFAM: 0.1.0
 cvmdisc: 0.1.0
 cvmgof: 1.0.3
-cvms: 1.6.0
+cvms: 1.6.1
 cvplogistic: 3.1-0
 cvq2: 1.2.0
 cvsem: 1.0.0
@@ -12239,7 +12242,7 @@ drpop: 0.0.3
 drsmooth: 1.9.0
 drtmle: 1.1.2
 drugCombo: 1.2.1
-drugDemand: 0.1.2
+drugDemand: 0.1.3
 drugdevelopR: 1.0.1
 drughelper: 0.2.0
 drugprepr: 0.0.4
@@ -12916,14 +12919,14 @@ etree: 0.1.0
 etrm: 1.0.1
 etrunct: '0.1'
 etseed: 0.1.0
-etwfe: 0.3.5
+etwfe: 0.4.0
 eudract: 0.10.2
 eufmdis.adapt: 0.1.0
 eulerian: '1.0'
 eulerr: 7.0.1
 eummd: 0.1.4
 eunis.habitats: 0.1.0
-eurlex: 0.4.6
+eurlex: 0.4.7
 euroMix: 1.1.1
 eurocordexr: 0.2.4
 eurodata: 1.7.0
@@ -12947,7 +12950,7 @@ evdbayes: 1.1-3
 event: 1.1.1
 event.chart: '2.0'
 eventInterval: '1.3'
-eventPred: 0.2.4
+eventPred: 0.2.5
 eventTrack: 1.0.3
 eventdataR: 0.3.1
 eventglm: 1.2.2
@@ -13010,7 +13013,7 @@ excluder: 0.5.1
 excursions: 2.5.8
 exdex: 1.2.3
 exdqlm: 0.1.3
-executablePackeR: 0.0.1
+executablePackeR: 0.0.2
 exif: 0.1.0
 exifr: 0.3.2
 exiftoolr: 0.2.3
@@ -14235,7 +14238,7 @@ geofd: '2.0'
 geofi: 1.0.14
 geogenr: 2.0.1
 geogrid: 0.1.2
-geohabnet: 1.0.1
+geohabnet: 2.0.0
 geohash: 0.3.0
 geohashTools: 0.3.3
 geojson: 0.3.5
@@ -14269,7 +14272,7 @@ georefdatar: 0.6.5
 georob: 0.3-18
 geos: 0.2.4
 geosample: 0.2.1
-geosapi: 0.6-7
+geosapi: '0.7'
 geoscale: 2.0.1
 geosed: 0.1.1
 geosimilarity: '2.2'
@@ -14368,7 +14371,7 @@ ggallin: 0.1.1
 ggalluvial: 0.12.5
 ggalt: 0.4.0
 ggamma: 1.0.1
-gganimate: 1.0.8
+gganimate: 1.0.9
 ggarchery: 0.4.2
 ggasym: 0.1.6
 ggautomap: 0.3.2
@@ -14502,7 +14505,7 @@ ggquickeda: 0.3.1
 ggquiver: 0.3.3
 ggragged: 0.1.0
 ggrain: 0.0.4
-ggraph: 2.1.0
+ggraph: 2.2.0
 ggraptR: '1.3'
 ggrasp: '1.2'
 ggrastr: 1.0.2
@@ -15254,7 +15257,7 @@ hexfont: 0.4.0
 hextri: 0.9.17
 hfhub: 0.1.1
 hflights: '0.1'
-hfr: 0.7.0
+hfr: 0.7.1
 hgam: 0.1-2
 hglasso: '1.3'
 hglm: 2.2-1
@@ -15864,7 +15867,7 @@ inldata: 1.1.4
 inline: 0.3.19
 inlinedocs: 2023.9.4
 inlmisc: 0.5.5
-inlpubs: 1.0.6
+inlpubs: 1.1.1
 innsight: 0.3.0
 ino: 1.0.2
 inops: 0.0.1
@@ -16211,7 +16214,7 @@ jmetrik: '1.1'
 jmotif: 1.1.1
 jmuOutlier: '2.2'
 jmv: 2.4.11
-jmvReadWrite: 0.4.2
+jmvReadWrite: 0.4.4
 jmvconnect: 2.3.13
 jmvcore: 2.4.7
 job: 0.3.0
@@ -16710,7 +16713,7 @@ legislatoR: 1.1.0
 legocolors: 0.3.1
 lehdr: 1.1.3
 leiden: 0.4.3.1
-leidenAlg: 1.1.2
+leidenAlg: 1.1.3
 leidenbase: 0.1.27
 leiv: 2.0-7
 lemma: 1.3-4
@@ -17073,7 +17076,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.2.2
+lrstat: 0.2.3
 lsa: 0.73.3
 lsasim: 2.1.4
 lsbclust: '1.1'
@@ -17123,7 +17126,7 @@ lumendb: 0.2.2
 lunar: 0.2-1
 lutz: 0.3.2
 luz: 0.4.0
-luzlogr: 0.2.0
+luzlogr: 0.2.1
 lvec: 0.2.5
 lvm4net: '0.3'
 lvmcomp: '1.2'
@@ -17469,7 +17472,7 @@ mcmcderive: 0.1.2
 mcmcensemble: 3.0.0
 mcmcplots: 0.4.3
 mcmcr: 0.6.1
-mcmcsae: 0.7.6
+mcmcsae: 0.7.7
 mcmcse: 1.5-0
 mcmsupply: 0.2.2
 mco: '1.16'
@@ -18578,7 +18581,7 @@ mvnmle: 0.1-11.2
 mvnormalTest: 1.0.0
 mvnormtest: 0.1-9
 mvnpermute: 1.0.1
-mvord: 1.2.1
+mvord: 1.2.2
 mvoutlier: 2.1.1
 mvp: 1.0-14
 mvpart: 1.6-2
@@ -18733,7 +18736,7 @@ neo4jshell: 0.1.2
 neo4r: 0.1.1
 neojags: 0.1.4
 neonOS: 1.0.0
-neonPlantEcology: 1.4.0
+neonPlantEcology: 1.5.0
 neonUtilities: 2.4.1
 neonstore: 0.5.0
 neotoma: 1.7.4
@@ -19873,6 +19876,7 @@ pcrsim: 1.0.2
 pcse: 1.9.1.1
 pcsstools: 0.1.2
 pct: 0.9.9
+pctax: 0.1.0
 pcts: 0.15.7
 pcurve: 0.6-4
 pcutils: 0.2.3
@@ -20094,7 +20098,7 @@ phonfieldwork: 0.0.11
 phonics: 1.3.10
 phosphoricons: 0.2.0
 photobiology: 0.11.1
-photobiologyFilters: 0.5.2
+photobiologyFilters: 0.6.0
 photobiologyInOut: 0.4.27
 photobiologyLEDs: 0.5.2
 photobiologyLamps: 0.5.2
@@ -20348,7 +20352,7 @@ plyr: 1.8.9
 pm3: 0.1.9
 pm4py: 1.2.7
 pmap: 0.6.0
-pmartR: 2.4.3
+pmartR: 2.4.4
 pmatch: 0.1.4
 pmc: 1.0.6
 pmcalibration: 0.1.0
@@ -20902,7 +20906,7 @@ public.ctn0094extra: 1.0.4
 publipha: 0.1.2
 pubmed.mineR: 1.0.19
 pubmedR: 0.0.3
-pubmedtk: 1.0.2
+pubmedtk: 1.0.3
 pubprint: 0.2.1
 pubtatordb: 0.1.4
 pullword: '0.3'
@@ -21739,6 +21743,7 @@ reclin: 0.1.2
 reclin2: 0.5.0
 recluster: '2.9'
 recmap: 1.0.17
+recmetrics: 0.1.0
 recodeflow: 0.1.0
 recoder: '0.1'
 recogito: 0.2.1
@@ -22439,7 +22444,7 @@ roxyglobals: 1.0.0
 roxylint: 0.1.0
 roxytest: 0.0.2
 royston: '1.2'
-rpact: 3.5.0
+rpact: 3.5.1
 rpaleoclim: 1.0.1
 rpanel: 1.1-5.2
 rpart: 4.1.23
@@ -23597,7 +23602,7 @@ simex: '1.8'
 simexaft: 1.0.7.1
 simfam: 1.1.6
 simfinR: 0.2.3
-simfinapi: 0.2.4
+simfinapi: 1.0.0
 simfit: 0.1.0
 simglm: 0.8.9
 simgof: 1.0.2
@@ -25499,6 +25504,7 @@ tourr: 1.1.0
 tourrGui: '0.4'
 toweranNA: 0.1.0
 toxEval: 1.3.2
+toxSummary: 1.0.0
 toxboot: 0.2.0
 toxpiR: 1.2.1
 toxplot: 0.1.1
@@ -25526,7 +25532,7 @@ trackeR: 1.6.0
 trackeRapp: '1.2'
 trackr: 0.10.7
 trackter: 0.1.1
-tractor.base: 3.3.5.1
+tractor.base: 3.4.2
 trade: 0.8.1
 tradeCosts: 0.3-1
 tradepolicy: 0.6.0
@@ -25788,7 +25794,7 @@ tvgeom: 1.0.1
 tvm: 0.5.2
 tvmComp: 1.0.2
 tvmediation: 1.1.0
-tvthemes: 1.3.2
+tvthemes: 1.3.3
 twang: '2.6'
 twangContinuous: 1.0.0
 twangMediation: '1.2'
@@ -26488,6 +26494,7 @@ windfarmGA: 3.0.0
 windows.pls: 0.1.0
 windsoraiR: 0.1.2
 winfapReader: 0.1-5
+wingen: 2.1.1
 wingui: '0.2'
 wiod: 0.3.0
 wiqid: 0.3.3
