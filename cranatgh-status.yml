@@ -566,7 +566,7 @@ BaTFLED3D: 0.2.11
 BacArena: 1.8.2
 Bagidis: '1.0'
 BalanceCheck: '0.2'
-BalancedSampling: 2.0.5
+BalancedSampling: 2.0.6
 Ball: 1.3.13
 BallMapper: 0.2.0
 BarBorGradient: 1.0.5
@@ -1129,7 +1129,7 @@ Calculator.LR.FNs: '1.3'
 CaliCo: 0.1.1
 CalibratR: 0.1.2
 CalibrateSSB: 1.3.0
-CalibrationCurves: 2.0.0
+CalibrationCurves: 2.0.1
 CallEshotgun: 0.2.0
 CamelUp: 2.0.3
 CancerEvolutionVisualization: 2.0.1
@@ -1582,7 +1582,7 @@ DHS.rates: 0.9.2
 DICOM: '0.13'
 DICOMread: 0.0.0.3
 DIDmultiplegt: 0.1.3
-DIDmultiplegtDYN: 1.0.4
+DIDmultiplegtDYN: 1.0.5
 DIFboost: '0.3'
 DIFlasso: 1.0-4
 DIFplus: '1.1'
@@ -2693,7 +2693,7 @@ GOplot: 1.0.2
 GOsummaries: '1.1'
 GOxploreR: 1.2.7
 GPArotateDF: 2023.11-1
-GPArotation: 2024.2-1
+GPArotation: 2024.3-1
 GPB: '1.2'
 GPBayes: 0.1.0-5.1
 GPC: '0.1'
@@ -2711,7 +2711,7 @@ GPPFourier: '2.1'
 GPRMortality: 0.1.0
 GPSCDF: 0.1.1
 GPSeqClus: 1.4.0
-GPUmatrix: 1.0.1
+GPUmatrix: 1.0.2
 GPareto: 1.1.8
 GPfit: 1.0-8
 GPlab: 0.1.0
@@ -4888,6 +4888,7 @@ OmicKriging: 1.4.0
 OmicNavigator: 1.13.13
 OmicSense: 0.2.0
 OmicsPLS: 2.0.2
+OmicsQC: 1.1.0
 Omisc: 0.1.5
 OmnibusFisher: '1.0'
 OnAge: 1.0.1
@@ -7095,7 +7096,7 @@ STRMPS: 0.5.8
 STV: 1.0.2
 STraTUS: 1.1.2
 SUE: '1.0'
-SUMMER: 1.3.0
+SUMMER: 1.4.0
 SUNGEO: 1.2.1
 SUSY: 0.1.0
 SV: 1.3.5
@@ -7217,7 +7218,7 @@ ShapleyValue: 0.2.0
 SharedHT2: '2.0'
 SharkDemography: 1.1.0
 SharpeR: 1.3.0
-SheetReader: 1.1.0
+SheetReader: 1.2.0
 ShellChron: 0.4.0
 SherlockHolmes: 1.0.1
 ShiftConvolvePoibin: 1.0.0
@@ -7452,7 +7453,7 @@ Stack: 2.0-1
 StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
 StakeholderAnalysis: '1.2'
-StanHeaders: 2.32.5
+StanHeaders: 2.32.6
 StanMoMo: 1.2.0
 StandardizeText: '1.0'
 Stat2Data: 2.0.0
@@ -7819,6 +7820,7 @@ TestGenerator: 0.2.5
 TestScorer: 1.7.2
 TestSurvRec: 1.2.1
 TestingSimilarity: '1.1'
+TestsSymmetry: 1.0.0
 Tex4exams: 0.1.2
 TexExamRandomizer: 1.2.7
 TexMix: 0.5.3
@@ -7927,7 +7929,7 @@ TrialEmulation: 0.0.3.8
 TrialSize: '1.4'
 TrioSGL: 1.1.0
 TripleR: 1.5.4
-TropFishR: 1.6.3
+TropFishR: 1.6.4
 TroublemakeR: 0.0.1
 TrtCombo.FactorialExp.SR: 4.0.4
 TrueSkillThroughTime: 0.1.1
@@ -8502,7 +8504,7 @@ admix: 2.1-2
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
-admtools: 0.1.0
+admtools: 0.2.0
 adnuts: 1.1.2
 adobeanalyticsr: 0.4.0
 adoption: 0.6.4
@@ -9972,7 +9974,7 @@ butterflyOptions: 1.0.1
 bvarsv: '1.1'
 bvartools: 0.2.4
 bvenn: '0.1'
-bvhar: 2.0.0
+bvhar: 2.0.1
 bvls: '1.4'
 bvpSolve: 1.4.4.1
 bvpa: 1.0.0
@@ -10161,7 +10163,7 @@ cauchypca: '1.3'
 cauphy: 1.0.2
 causact: 0.5.4
 causal.decomp: 0.1.0
-causalBatch: '1.1'
+causalBatch: 1.2.0
 causalCmprsk: 2.0.0
 causalDisco: 0.9.1
 causalMGM: 0.1.1
@@ -10401,7 +10403,7 @@ choosepc: '1.0'
 choplump: 1.1.2
 chopthin: 0.2.2
 chords: 0.95.4
-choroplethr: 3.7.2
+choroplethr: 3.7.3
 choroplethrAdmin1: 1.1.1
 choroplethrMaps: 1.0.1
 chorrrds: 0.1.9.5
@@ -11293,7 +11295,7 @@ csdata: 2024.1.17
 cshapes: '2.0'
 cslogistic: 0.1-3
 csmaps: 2023.5.22
-csmpv: 1.0.2
+csmpv: 1.0.3
 csn: 1.1.3
 csodata: 1.4.2
 csound: 0.1-1
@@ -11364,7 +11366,7 @@ cumulocityr: 0.1.0
 cuperdec: 1.1.0
 curephEM: 0.3.0
 cureplots: 1.1.0
-curl: 5.2.0
+curl: 5.2.1
 curlconverter: 0.7.0
 currencyapi: 0.1.0
 currentSurvival: '1.1'
@@ -12275,7 +12277,7 @@ dsem: 1.1.0
 dseplus: 2006.10-1
 dsfa: 2.0.2
 dsims: 1.0.4
-dslabs: 0.7.6
+dslabs: 0.8.0
 dslice: 1.2.2
 dsm: 2.3.3
 dsmSearch: 1.0.0
@@ -12408,7 +12410,7 @@ eNchange: '1.0'
 eNetXplorer: 1.1.2
 ePCR: 0.11.0
 eRTG3D: 0.7.0
-eRm: 1.0-4
+eRm: 1.0-5
 eSDM: 0.4.1
 eSIR: 0.4.2
 eVenn: '2.4'
@@ -13056,7 +13058,7 @@ expoRkit: 0.9.4
 expoTree: 1.0.1
 export: 0.3.0
 expose: 0.0.3
-expowo: '1.0'
+expowo: '2.0'
 expp: 1.2.5
 expperm: '1.6'
 exprso: 0.5.1
@@ -13335,7 +13337,7 @@ fctbases: 1.1.1
 fcuk: 0.1.21
 fdANOVA: 0.1.2
 fdWasserstein: '1.0'
-fda: 6.1.4
+fda: 6.1.7
 fda.usc: 2.1.0
 fdaACF: 1.0.0
 fdaMixed: 0.6.1
@@ -13455,7 +13457,7 @@ filenamer: 0.2.3
 fileplyr: 0.2.0
 files: 0.0.1
 filesstrings: 3.4.0
-filibustr: 0.1.1
+filibustr: 0.2.0
 filling: 0.2.3
 fillr: 1.0.0
 filteRjsats: '1.0'
@@ -14172,7 +14174,7 @@ gendist: '2.0'
 gene2pathway: 1.8.1
 geneARMA: '1.0'
 geneExpressionFromGEO: '0.9'
-geneHapR: 1.1.9
+geneHapR: 1.2.4
 geneHummus: 1.0.11
 geneListPie: '1.0'
 geneNetBP: 2.0.1
@@ -14532,6 +14534,7 @@ ggridges: 0.5.6
 ggrisk: '1.3'
 ggrounded: 0.0.3
 ggroups: 2.1.2
+ggsankeyfier: 0.1.7
 ggsci: 3.0.0
 ggseas: 0.5.4
 ggsector: 1.6.6
@@ -14540,7 +14543,7 @@ ggseg3d: 1.6.3
 ggseqlogo: '0.2'
 ggseqplot: 0.8.3
 ggshadow: 0.0.5
-ggside: 0.3.0
+ggside: 0.3.1
 ggsignif: 0.6.4
 ggsn: 0.5.0
 ggsoccer: 0.1.7
@@ -15109,6 +15112,7 @@ hSDM: 1.4.4
 haarfisz: 4.5.4
 habCluster: 1.0.5
 hablar: 0.3.2
+habtools: 1.0.5
 hackeRnews: 0.1.0
 hacks: 0.1-9
 hacksaw: 0.0.2
@@ -16012,7 +16016,7 @@ ip2proxy: 1.2.0
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
 ipaddress: 1.0.2
-ipanema: 0.6.7
+ipanema: 1.1.0
 ipbase: 0.1.1
 ipc: 0.1.4
 ipcwswitch: 1.0.4
@@ -16973,7 +16977,7 @@ locateip: 0.1.2
 locatexec: 0.1.1
 locationgamer: 0.1.0
 locfdr: 1.1-8
-locfit: 1.5-9.8
+locfit: 1.5-9.9
 locits: 1.7.7
 locpol: 0.8.0
 locpolExpectile: 0.1.1
@@ -17481,7 +17485,7 @@ mclogit: 0.9.6
 mclust: '6.1'
 mclust02: 2.1-18
 mclust1998: 1.1-10
-mclustAddons: 0.7.2
+mclustAddons: '0.8'
 mclustcomp: 0.3.3
 mcmc: 0.9-8
 mcmcOutput: 0.1.3
@@ -17577,7 +17581,7 @@ megaptera: 1.0-0
 meifly: 0.3.1
 mekko: 0.1.0
 melody: 0.4.7
-melt: 1.11.0
+melt: 1.11.1
 meltr: 1.0.2
 meltt: 0.4.3
 melviewr: 0.0.1
@@ -18033,7 +18037,7 @@ mlr3filters: 0.7.1
 mlr3fselect: 0.11.0
 mlr3hyperband: 0.4.5
 mlr3learners: 0.5.8
-mlr3mbo: 0.2.1
+mlr3mbo: 0.2.2
 mlr3measures: 0.5.0
 mlr3misc: 0.14.0
 mlr3oml: 0.9.0
@@ -18669,7 +18673,7 @@ nandb: 2.1.0
 naniar: 1.0.0
 nanny: 0.1.8
 nanoarrow: 0.4.0.1
-nanonext: 0.13.0
+nanonext: 0.13.2
 nanop: 2.0-6
 nanostringr: 0.4.1
 nanotime: 0.3.7
@@ -18879,7 +18883,7 @@ nhm: 0.1.1
 nhppp: 0.1.3
 nhs.predict: 1.4.0
 nhsnumber: 0.1.2
-nhstplot: 1.2.0
+nhstplot: 1.3.0
 niaidMI: 1.1.0
 nic: 0.0.2
 nice: 0.4-2
@@ -19016,7 +19020,7 @@ nolock: 1.1.0
 nomadlist: 0.1.0
 nombre: 0.4.1
 nomclust: 2.8.0
-nominatimlite: 0.2.1
+nominatimlite: 0.3.0
 nomine: 1.0.0
 nomisr: 0.4.7
 nomnoml: 0.3.0
@@ -20415,7 +20419,7 @@ pogit: 1.3.0
 poibin: '1.5'
 poilog: 0.4.2
 pointRes: 2.0.2
-pointblank: 0.11.4
+pointblank: 0.12.0
 pointdensityP: 0.3.5
 pointdexter: 0.1.1
 pointr: 0.2.0
@@ -20953,7 +20957,7 @@ pvar: 2.2.7
 pvclass: '1.4'
 pvclust: 2.2-0
 pvcurveanalysis: 1.0.0
-pvda: 0.0.2
+pvda: 0.0.3
 pvldcurve: 1.2.6
 pvrank: 1.1.2
 pvsR: '0.3'
@@ -21717,7 +21721,7 @@ readbitmap: 0.1.5
 readbulk: 1.1.4
 reader: 1.0.6
 readit: 1.0.0
-readmet: 1.6.9
+readmet: 1.7.1
 readmission: 0.1.0
 readmnist: 1.0.6
 readmoRe: 0.2-12
@@ -22697,7 +22701,7 @@ rtrie: 0.1.1
 rtrim: 2.1.1
 rtry: 1.1.0
 rts: 1.1-14
-rts2: 0.6.1
+rts2: 0.7.1
 rtsVis: 0.0.3
 rtsdata: 0.1.4
 rtson: '1.3'
@@ -22923,7 +22927,7 @@ sapfluxnetr: 0.1.4
 saps: 1.0.0
 saqgetr: 0.2.21
 sara4r: 0.1.0
-sarima: 0.9.1
+sarima: 0.9.2
 saros: 1.0.4
 sarp.snowprofile: 1.3.2
 sarp.snowprofile.alignment: 1.2.2
@@ -23023,6 +23027,7 @@ scattermore: '1.2'
 scatterpie: 0.2.1
 scatterplot3d: 0.3-44
 scbursts: '1.6'
+sccca: 0.1.0
 scclust: 0.2.4
 sccore: 1.0.5
 sccr: '2.1'
@@ -23122,7 +23127,7 @@ sdcTarget: 0.9-11
 sddpack: '0.9'
 sde: 2.0.18
 sdef: '1.7'
-sdetorus: 0.1.9
+sdetorus: 0.1.10
 sdglinkage: 0.1.0
 sdm: 1.1-8
 sdmApp: 0.0.2
@@ -23160,7 +23165,7 @@ seawaveQ: 2.0.2
 secr: 4.6.6
 secrdesign: 2.8.2
 secret: 1.1.0
-secretbase: 0.3.0
+secretbase: 0.3.0.1
 secrettext: 0.1.0
 secrlinear: 1.2.2
 secsse: 3.0.2
@@ -23308,7 +23313,7 @@ seqtrie: 0.2.6
 sequence: '2.0'
 sequences: 0.5.9
 sequenza: 3.0.0
-sequoia: 2.8.3
+sequoia: 2.9.0
 sergeant: 0.9.1
 serial: '3.0'
 serialize: 0.2-1
@@ -23451,7 +23456,7 @@ shinyLP: 1.1.3
 shinyML: 1.0.1
 shinyMatrix: 0.6.0
 shinyMergely: 0.2.0
-shinyMobile: 1.0.0
+shinyMobile: 1.0.1
 shinyMolBio: '0.2'
 shinyMonacoEditor: 1.1.0
 shinyNORRRM: 0.8.6
@@ -23470,7 +23475,7 @@ shinyTempSignal: 0.0.7
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
 shinyTree: 0.3.1
-shinyWidgets: 0.8.1
+shinyWidgets: 0.8.2
 shinyXYpad: 0.2.0
 shinyaframe: 1.0.1
 shinyalert: 3.0.0
@@ -23796,7 +23801,7 @@ sm: 2.2-6.0
 sma: 0.5.15
 smaa: 0.3-2
 smac: '1.0'
-smacof: 2.1-5
+smacof: 2.1-6
 smacofx: 0.6-6
 smacpod: '2.6'
 smallarea: '0.1'
@@ -23902,7 +23907,7 @@ snplinkage: 1.0.0
 snplist: 0.18.2
 snpsettest: 0.1.2
 sns: 1.2.2
-snvecR: 3.8.0
+snvecR: 3.9.0
 sobir: 0.1.2
 sobolnp: 0.1.0
 soc.ca: 0.8.0
@@ -23956,7 +23961,7 @@ somplot: 1.6.4
 somspace: 1.2.4
 sonar: 1.0.2
 sonicLength: 1.4.7
-sonicscrewdriver: 0.0.5
+sonicscrewdriver: 0.0.6
 sonify: 0.0-1
 soobench: 1.9.18
 sophisthse: 0.7.0
@@ -26370,7 +26375,7 @@ waterfalls: 1.0.0
 waterquality: 1.0.0
 watson: '0.4'
 wav: 0.1.0
-wavScalogram: 1.1.2
+wavScalogram: 1.1.3
 waveband: 4.7.2
 waveclock: 1.0-4
 waved: '1.3'
@@ -26555,7 +26560,7 @@ worcs: 0.1.14
 word.alignment: '1.1'
 word2vec: 0.4.0
 wordPuzzleR: 0.1.1
-wordbankr: 1.0.2
+wordbankr: 1.0.3
 wordcloud: '2.6'
 wordcloud2: 0.2.1
 wordgraph: 0.1.0
