@@ -2261,7 +2261,7 @@ FAO56: '1.0'
 FAOSTAT: 2.3.0
 FARDEEP: 1.0.1
 FAS: 1.0.0
-FAST.R: 0.1.3
+FAST.R: 0.2.0
 FASeg: 0.1.9
 FAVAR: 0.1.3
 FAdist: '2.4'
@@ -2408,8 +2408,8 @@ FastJM: 1.4.2
 FastKM: '1.1'
 FastKNN: 0.0.1
 FastLZeroSpikeInference: 2018.12.10
-FastPCS: 0.1.3
-FastRCS: 0.0.8
+FastPCS: 0.1.4
+FastRCS: 0.0.9
 FastRWeb: 1.2-1
 FastSF: 0.1.1
 FastStepGraph: 0.1.1
@@ -2600,7 +2600,7 @@ GEEmediate: 1.1.4
 GEInfo: '1.0'
 GEInter: 0.3.2
 GENEAclassify: 1.5.5
-GENEAread: 2.0.9
+GENEAread: 2.0.10
 GENEAsphere: 1.5.1
 GENLIB: 1.1.10
 GENMETA: 0.2.0
@@ -2810,7 +2810,7 @@ GenABEL: 1.8-0
 GenABEL.data: 1.0.0
 GenAI: 0.2.0
 GenAlgo: 2.2.0
-GenBinomApps: '1.2'
+GenBinomApps: 1.2.1
 GenCAT: 1.0.3
 GenEst: 1.4.9
 GenForImp: '1.0'
@@ -3699,7 +3699,7 @@ LOMAR: 0.4.0
 LOPART: 2020.6.29
 LOST: 2.0.2
 LPBkg: '1.2'
-LPCM: 0.47-3
+LPCM: 0.47-4
 LPDynR: 1.0.4
 LPGraph: '2.1'
 LPKsample: '2.1'
@@ -4667,7 +4667,7 @@ NMproject: 0.6.9
 NMsim: 0.1.0
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: '10.6'
+NNS: '10.7'
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.6
@@ -5279,7 +5279,7 @@ ParentOffspring: '1.0'
 Pareto: 2.4.5
 ParetoPosStable: '1.1'
 PartCensReg: '1.39'
-PartialNetwork: 1.0.2
+PartialNetwork: 1.0.3
 Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 PathSelectMP: '1.1'
@@ -5769,7 +5769,7 @@ REPPlabShiny: 0.4.2
 REPTILE: '1.0'
 REQS: 0.8-13
 REREFACT: '1.0'
-RESET: 0.2.2
+RESET: 1.0.0
 RESI: 1.2.4
 RESS: '1.3'
 REST: 1.0.1
@@ -5952,7 +5952,7 @@ RNeo4j: 1.6.4
 RNetCDF: 2.9-1
 RNetLogo: 1.0-4
 RNewsflow: 1.2.7
-RNifti: 1.6.0
+RNifti: 1.6.1
 RNiftyReg: 2.8.1
 ROAuth: 0.9.6
 ROC632: '0.6'
@@ -6262,12 +6262,12 @@ Rcmdr: 2.9-2
 Rcmdr.HH: 1.8-0
 RcmdrMisc: 2.9-1
 RcmdrPlugin.BCA: 0.9-8
-RcmdrPlugin.BWS1: 0.2-0
-RcmdrPlugin.BWS2: 0.2-0
-RcmdrPlugin.BWS3: 0.2-1
+RcmdrPlugin.BWS1: 0.2-1
+RcmdrPlugin.BWS2: 0.2-1
+RcmdrPlugin.BWS3: 0.2-2
 RcmdrPlugin.BiclustGUI: 1.1.3.1
-RcmdrPlugin.DCCV: 0.1-3
-RcmdrPlugin.DCE: 0.2-1
+RcmdrPlugin.DCCV: 0.1-4
+RcmdrPlugin.DCE: 0.2-2
 RcmdrPlugin.DoE: 0.12-5
 RcmdrPlugin.EACSPIR: 0.2-3
 RcmdrPlugin.EBM: 1.0-10
@@ -6278,7 +6278,7 @@ RcmdrPlugin.Export: 0.3-1
 RcmdrPlugin.FactoMineR: '1.8'
 RcmdrPlugin.FuzzyClust: '1.1'
 RcmdrPlugin.GWRM: 1.0.2
-RcmdrPlugin.HH: 1.1-47
+RcmdrPlugin.HH: 1.1-51
 RcmdrPlugin.IPSUR: 0.2-1.1
 RcmdrPlugin.KMggplot2: 0.2-6
 RcmdrPlugin.MA: 0.0-2
@@ -8379,12 +8379,12 @@ abtest: 1.0.1
 abundant: '1.2'
 academictwitteR: 0.3.1
 acc: 1.3.3
-accSDA: 1.1.2
+accSDA: 1.1.3
 acca: '0.2'
 accelerometry: 3.1.2
 accelmissing: '1.4'
 accept: 1.0.0
-accessibility: 1.3.0
+accessibility: 1.4.0
 accessrmd: 1.0.0
 accrual: '1.4'
 accrualPlot: 1.0.7
@@ -8553,7 +8553,7 @@ agcounts: 0.6.6
 ageg: 1.0.0
 agena.ai: 1.1.1
 ageprior: 0.9.2
-ageutils: 0.0.1
+ageutils: 0.0.2
 agfh: 0.2.1
 aggTrees: 2.0.2
 agghoo: 0.1-0
@@ -9101,7 +9101,7 @@ aws.sns: 0.1.7
 aws.sqs: 0.1.10
 aws.transcribe: 0.1.3
 aws.translate: 0.1.4
-aws.wrfsmn: 0.0.1
+aws.wrfsmn: 0.0.2
 awsMethods: 1.1-1
 awsjavasdk: 0.2.2
 awspack: 0.1.6
@@ -9295,7 +9295,7 @@ bayespm: 0.2.0
 bayespref: '1.0'
 bayesreg: '1.2'
 bayesrules: 0.0.2
-bayess: '1.5'
+bayess: '1.6'
 bayest: '1.4'
 bayestestR: 0.13.2
 bayesvl: 0.8.5
@@ -9422,7 +9422,7 @@ betacal: 0.1.0
 betaclust: 1.0.3
 betadiv: 1.0.1
 betafam: '1.0'
-betafunctions: 1.8.1
+betafunctions: 1.9.0
 betalink: 2.2.1
 betapart: '1.6'
 betaper: 1.1-2
@@ -10355,7 +10355,7 @@ charlson: '1.0'
 chartql: 0.1.0
 chatAI4R: 0.2.10
 chatgpt: 0.2.3
-cheapr: 0.1.0
+cheapr: 0.2.0
 cheatR: 1.2.1-1
 cheatmap: 1.0.0
 cheatsheet: 0.1.2
@@ -10685,7 +10685,7 @@ coarseDataTools: 0.6-6
 coat: 0.2.0
 cobalt: 4.5.4
 cobiclust: 0.1.2
-cobs: 1.3-7
+cobs: 1.3-8
 cobs99: 0.9-12
 coca: 1.1.0
 cocktailApp: 0.2.3
@@ -10765,7 +10765,7 @@ colocr: 0.1.1
 colorBlindness: 0.1.9
 colorDF: 0.1.7
 colorRamp2: 0.1.0
-colorRamps: 2.3.2
+colorRamps: 2.3.4
 colorSpec: 1.5-0
 colorblindcheck: 1.0.2
 colordistance: 1.1.2
@@ -10795,7 +10795,7 @@ colourvalues: 0.3.9
 colourvision: 2.0.4
 colr: 0.1.900
 cols: '1.1'
-cols4all: '0.6'
+cols4all: '0.7'
 colt: 0.1.1
 comFuncs: 0.0.6
 comat: 0.9.5
@@ -12261,7 +12261,7 @@ drm: 0.5-8
 drmdel: 1.3.2
 droll: 0.1.0
 dropR: '0.1'
-dropout: 2.1.0
+dropout: 2.1.1
 droptest: 0.1.3
 drord: 1.0.1
 drought: '1.1'
@@ -12597,6 +12597,7 @@ eesim: 0.1.0
 ef: 1.2.0
 efdm: 0.2.1
 eff2: 1.0.2
+effClust: 0.8.0
 effectFusion: 1.1.3
 effectR: 1.0.2
 effects: 4.2-2
@@ -13588,7 +13589,7 @@ flexrsurv: 2.0.18
 flexsiteboard: 0.0.7
 flexsurv: 2.2.2
 flexsurvcure: 1.3.1
-flextable: 0.9.4
+flextable: 0.9.5
 flifo: 0.1.5
 flightplanning: 0.8.4
 flightplot: 0.1.0
@@ -14114,7 +14115,7 @@ gcxgclab: 1.0.1
 gdalBindings: 0.1.17
 gdalUtilities: 1.2.5
 gdalUtils: 2.0.3.2
-gdalcubes: 0.6.4
+gdalcubes: 0.7.0
 gdalraster: 1.9.0
 gdata: 3.0.0
 gde: 0.2.1
@@ -14706,7 +14707,7 @@ glmperm: 1.0-5
 glmtlp: 2.0.1
 glmtoolbox: 0.1.10
 glmtrans: 2.0.0
-glmtree: '0.2'
+glmtree: 0.3.1
 glmulti: 1.0.8
 glmvsd: '1.5'
 glmx: 0.2-0
@@ -14749,7 +14750,7 @@ gmm: '1.8'
 gmmsslm: 1.1.5
 gmnl: 1.1-3.2
 gmoTree: 1.0.1
-gmodels: 2.18.1.1
+gmodels: 2.19.1
 gmp: 0.7-4
 gmpoly: 1.1.0
 gms: 0.4.0
@@ -15267,7 +15268,7 @@ hergm: 4.1-10
 heritEWAS: 0.2.0
 heritability: '1.4'
 hermite: 1.1.2
-hermiter: 2.3.0
+hermiter: 2.3.1
 hero: '0.6'
 hesim: 0.5.4
 het.test: '0.1'
@@ -15526,7 +15527,7 @@ hybridts: 0.1.0
 hyd1d: 0.5.1
 hydflood: 0.5.7
 hydra: 0.1.0
-hydraulics: 0.6.1
+hydraulics: 0.7.0
 hydroApps: 0.1-1
 hydroEvents: '0.11'
 hydroGOF: 0.5-4
@@ -15789,7 +15790,7 @@ imbalanceDatRel: 0.1.5
 imbibe: 0.1.1
 imcExperiment: 0.99.0
 imdbapi: 0.1.0
-imf.data: 0.1.4
+imf.data: 0.1.5
 imfr: 0.1.9.1
 imgpalr: 0.3.2
 imgrec: 0.1.3
@@ -17258,7 +17259,7 @@ makeProject: '1.0'
 makeR: 1.0.2
 makedummies: 1.2.1
 makeit: 1.0.1
-makemyprior: 1.1.0
+makemyprior: 1.2.0
 makepipe: 0.2.1
 makesweave: 0.3.0
 maketools: 1.3.0
@@ -17315,7 +17316,7 @@ mapmisc: 2.0.6
 mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
-mappoly: 0.4.0
+mappoly: 0.4.1
 mappp: 1.0.0
 mapproj: 1.2.11
 mapr: 0.5.2
@@ -17578,7 +17579,7 @@ medflex: 0.6-10
 mediacloudr: 0.1.0
 mediateP: 0.2.0
 mediation: 4.5.0
-mediationsens: 0.0.2
+mediationsens: 0.0.3
 medicaldata: 0.2.0
 medicalrisk: '1.3'
 medicare: 0.2.1
@@ -17868,7 +17869,7 @@ minet: 3.6.0
 miniCRAN: 0.2.16
 miniGUI: 0.8-1
 miniMeta: 0.3.1
-miniPCH: 0.3.1
+miniPCH: 0.3.2
 miniUI: 0.1.1.1
 minidown: 0.4.0
 minimalRSD: 1.0.0
@@ -19327,7 +19328,7 @@ omopr: '0.2'
 ompr: 1.0.4
 ompr.roi: 1.0.2
 omsvg: 0.1.0
-omu: 1.1.1
+omu: 1.1.2
 omxr: 0.3.3
 onadata: '0.1'
 onbabynames: 0.0.1
@@ -20017,7 +20018,7 @@ performance: 0.10.9
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 1.0.4
-periscope2: 0.2.2
+periscope2: 0.2.3
 perm: 1.0-0.4
 permChacko: 0.2.0
 permDep: 1.0.2
@@ -20771,7 +20772,7 @@ processmonitR: 0.1.0
 processpredictR: 0.1.0
 processx: 3.8.3
 procmaps: 0.0.5
-procs: 1.0.5
+procs: 1.0.6
 prodest: 1.0.1
 prodigenr: 0.6.2
 prodlim: 2023.08.28
@@ -20858,7 +20859,7 @@ proxy: 0.4-27
 proxyC: 0.3.4
 prozor: 0.3.1
 prqlr: 0.8.0
-prrd: 0.0.5
+prrd: 0.0.6
 prt: 0.2.0
 pryr: 0.1.6
 ps: 1.7.6
@@ -21176,7 +21177,7 @@ quantspec: 1.2-3
 quarks: 1.1.3
 quarrint: 1.0.0
 quartets: 0.1.1
-quarto: '1.3'
+quarto: '1.4'
 quaternions: '0.2'
 queryparser: 0.3.2
 queryup: 1.0.5
@@ -22310,7 +22311,7 @@ rmonad: 0.7.0
 rmongodb: 1.8.0
 rmoo: 0.2.0
 rmp: '2.2'
-rmpw: 0.0.4
+rmpw: 0.0.5
 rms: 6.7-1
 rms.gof: '1.0'
 rmsb: 1.0-0
@@ -22937,7 +22938,7 @@ sankey: 1.0.2
 sankeywheel: 0.1.0
 sanon: '1.6'
 sansa: 0.0.1
-santaR: 1.2.3
+santaR: 1.2.4
 santoku: 0.10.0
 sanzo: 0.1.0
 saotd: 0.3.1
@@ -23093,7 +23094,7 @@ scorepeak: 0.1.2
 scorer: 0.2.0
 scoring: '0.6'
 scoringRules: 1.1.1
-scoringTools: 0.1.2
+scoringTools: 0.1.3
 scoringfunctions: 0.0.6
 scoringutils: 1.2.2
 scout: 1.0.4
@@ -23492,7 +23493,7 @@ shinySearchbar: 1.0.0
 shinySelect: 1.3.0
 shinyShortcut: 0.1.0
 shinyStorePlus: '1.1'
-shinyTempSignal: 0.0.7
+shinyTempSignal: 0.0.8
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
 shinyTree: 0.3.1
@@ -24280,7 +24281,7 @@ spmoran: 0.2.3
 spnaf: 0.3.1
 spnet: 0.9.1-0
 spnn: 1.2.1
-spocc: 1.2.2
+spocc: 1.2.3
 spoccutils: 0.1.0
 spoiler: 1.0.0
 spongebob: 0.4.0
@@ -24642,7 +24643,7 @@ stringformattr: 0.1.2
 stringgaussnet: '1.1'
 stringi: 1.8.3
 stringkernels: 0.8.9
-stringmagic: 1.0.0
+stringmagic: 1.1.0
 stringr: 1.5.1
 stringstatic: 0.1.2
 stringx: 0.2.6
@@ -25472,7 +25473,7 @@ tlrmvnmvt: 1.1.2
 tls: 0.1.0
 tlsh: 0.1.0
 tm: 0.7-11
-tm.plugin.alceste: '1.1'
+tm.plugin.alceste: 1.1.1
 tm.plugin.dc: 0.2-10
 tm.plugin.europresse: '1.4'
 tm.plugin.factiva: '1.8'
