@@ -896,6 +896,7 @@ CBDA: 1.0.0
 CBPS: '0.23'
 CBSr: 1.0.5
 CBT: '1.0'
+CBnetworkMA: 0.1.0
 CC: '1.0'
 CCA: 1.2.2
 CCAGFA: 1.0.8
@@ -1754,7 +1755,7 @@ DeRezende.Ferreira: 0.1.0
 DealGPL570: 0.2.0
 DebiasInfer: '0.2'
 DecisionAnalysis: 1.1.0
-DeclareDesign: 1.0.6
+DeclareDesign: 1.0.8
 DecomposeR: 1.0.6
 DecorateR: 0.1.2
 Deducer: 0.7-9
@@ -2261,7 +2262,7 @@ FAO56: '1.0'
 FAOSTAT: 2.3.0
 FARDEEP: 1.0.1
 FAS: 1.0.0
-FAST.R: 0.2.0
+FAST.R: 0.2.1
 FASeg: 0.1.9
 FAVAR: 0.1.3
 FAdist: '2.4'
@@ -2587,7 +2588,7 @@ GCalcium: 1.0.0
 GCalignR: 1.0.6
 GD: '10.3'
 GDAdata: '0.93'
-GDAtools: 2.0.1
+GDAtools: '2.1'
 GDD: 0.1-13.1
 GDELTtools: '1.7'
 GDINA: 2.9.4
@@ -3139,7 +3140,7 @@ Hmsc: 3.0-13
 HoRM: 0.1.3
 HodgesTools: 1.0.0
 Holidays: 1.0-7
-Holomics: 1.0.0
+Holomics: 1.1.0
 Homeric: 0.1-3
 HomoPolymer: '1.0'
 HomomorphicEncryption: 0.9.0
@@ -4538,6 +4539,7 @@ MultiABEL: 1.1-6
 MultiATSM: 0.3.5
 MultiBD: 0.2.0
 MultiCNVDetect: 0.1-1
+MultiCOAP: '1.1'
 MultiChIPmixHMM: '5.0'
 MultiClassROC: 0.1.0
 MultiFit: 1.1.1
@@ -5499,7 +5501,7 @@ PubBias: '1.0'
 PubChemR: '1.2'
 PubMedMining: 1.0.0
 PubMedWordcloud: 0.3.6
-PublicWorksFinanceIT: 0.1.0
+PublicWorksFinanceIT: 0.2.0
 PublicationBias: 2.4.0
 Publish: 2023.01.17
 PupilPre: 0.6.2
@@ -5513,7 +5515,7 @@ Q2q: 0.1.0
 Q7: 0.1.0
 QAIG: 0.1.7
 QBAsyDist: 0.1.2
-QBMS: 0.9.1
+QBMS: 1.0.0
 QCA: '3.21'
 QCA3: 0.0-8
 QCAGUI: '2.5'
@@ -8047,7 +8049,7 @@ VBV: 0.6.2
 VBmix: 0.3.2
 VBsparsePCA: 0.1.0
 VC2copula: 0.1.5
-VCA: 1.5.0
+VCA: 1.5.1
 VDA: '1.3'
 VDAP: 2.0.0
 VDCutil: '1.15'
@@ -8590,7 +8592,7 @@ aiRly: 0.1.0
 aiRthermo: 1.2.1
 aibd: 0.1.9
 aidar: 1.0.5
-aides: 1.3.1
+aides: 1.3.2
 aif360: 0.1.0
 aifeducation: 0.3.1
 aihuman: 0.1.0
@@ -10418,7 +10420,7 @@ choroplethr: 3.7.3
 choroplethrAdmin1: 1.1.1
 choroplethrMaps: 1.0.1
 chorrrds: 0.1.9.5
-chouca: 0.0.999
+chouca: 0.1.99
 chplot: 1.3.1
 christmas: 1.3.0
 chromConverter: 0.2.1
@@ -10990,7 +10992,7 @@ cooltools: 2.1.27
 coop: 0.6-3
 coopProductGame: '2.0'
 cooptrees: '1.0'
-copBasic: 2.2.3
+copBasic: 2.2.4
 copCAR: 2.0-4
 copas: 0.8-0
 copcor: 2023.8-27
@@ -11814,7 +11816,7 @@ descomponer: '1.6'
 descr: 1.1.8
 describedata: 0.1.0
 describer: 0.2.0
-descriptio: '1.2'
+descriptio: '1.3'
 descriptr: 0.5.2
 descstat: 0.1-2
 descstatsr: 0.1.0
@@ -12192,7 +12194,7 @@ dotgen: 0.1.0
 dotprofile: 0.0.1
 dots: 0.0.2
 dotsViolin: 0.0.1
-dotwhisker: 0.7.4
+dotwhisker: 0.8.1
 doubcens: '1.1'
 double.truncation: '1.7'
 doubt: 0.1.0
@@ -12915,7 +12917,7 @@ esmisc: 0.0.3
 esmprep: 0.2.0
 esmtools: 1.0.0
 esotericR: '1.0'
-espadon: 1.5.1
+espadon: 1.6.0
 esquisse: 1.2.0
 esreg: 0.6.2
 ess: 1.1.2
@@ -13274,7 +13276,7 @@ fastRG: 0.3.2
 fastRhockey: 0.4.0
 fastSOM: 1.0.1
 fastStat: '1.4'
-fastTS: 0.1.2
+fastTS: 1.0.0
 fastText: 1.0.4
 fastTextR: 2.1.0
 fastTopics: 0.6-163
@@ -13457,7 +13459,7 @@ figir: 0.1.7.0
 figma: 0.2.0
 figpatch: '0.2'
 figuRes2: 1.0.0
-file2meco: 0.7.0
+file2meco: 0.7.1
 filearray: 0.1.6
 filebin: 0.0.6
 filecacher: 0.2.9
@@ -13635,8 +13637,8 @@ fma: '2.5'
 fmbasics: 0.3.0
 fmcmc: 0.5-2
 fmdates: 0.1.4
-fmdu: 0.1.0
-fmeffects: 0.1.1
+fmdu: 0.1.1
+fmeffects: 0.1.2
 fmerPack: 0.0-1
 fmesher: 0.1.5
 fmf: 1.1.1
@@ -13816,7 +13818,7 @@ frequentistSSD: 0.1.1
 freqweights: 1.0.4
 fresh: 0.2.0
 freshr: 1.0.2
-frictionless: 1.0.2
+frictionless: 1.0.3
 friends: 0.1.0
 frite: 0.1.0
 fritools: 4.3.0
@@ -14535,7 +14537,7 @@ ggquickeda: 0.3.1
 ggquiver: 0.3.3
 ggragged: 0.1.0
 ggrain: 0.0.4
-ggraph: 2.2.0
+ggraph: 2.2.1
 ggraptR: '1.3'
 ggrasp: '1.2'
 ggrastr: 1.0.2
@@ -14716,7 +14718,7 @@ globalGSA: '1.0'
 globalKinhom: 0.1.7
 globalOptTests: '1.1'
 globalboosttest: 1.1-0
-globals: 0.16.2
+globals: 0.16.3
 globaltrends: 0.0.14
 globe: 1.2-0
 glober: '1.0'
@@ -15760,6 +15762,7 @@ ihpdr: 1.2.1
 ihs: '1.0'
 iid.test: '1.13'
 iilasso: 0.0.2
+iimi: 1.0.2
 ijtiff: 2.3.4
 iki.dataclim: '1.0'
 ilc: '1.0'
@@ -16227,7 +16230,7 @@ jenkins: '1.0'
 jetpack: 0.5.5
 jetset: 3.4.0
 jewel: 2.0.1
-jfa: 0.7.0
+jfa: 0.7.1
 jgcricolors: 1.0.0
 jgsbook: 1.0.4
 jiebaR: '0.11'
@@ -16295,7 +16298,7 @@ jsTree: '1.2'
 jsTreeR: 2.5.0
 jshintr: 0.1.0
 jskm: 0.5.3
-jsmodule: 1.5.0
+jsmodule: 1.5.1
 json2aRgs: 0.3.0
 json64: 0.1.3
 jsonNormalize: 1.0.0
@@ -16801,7 +16804,7 @@ libbib: 1.6.4
 libcoin: 1.0-10
 libgeos: 3.11.1-2
 libproj: 8.1.0-1
-libr: 1.3.0
+libr: 1.3.1
 librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: 0.7.3
@@ -17838,7 +17841,7 @@ midrangeMCP: 3.1.1
 miesmuschel: 0.0.3
 mifa: 0.2.0
 migest: 2.0.4
-migraph: 1.3.2
+migraph: 1.3.4
 migrate: 0.4.0
 migration.indices: 0.3.1
 migrbc: 2.0.9
@@ -18014,7 +18017,7 @@ mlearning: 1.2.1
 mlegp: 3.1.9
 mlergm: '0.8'
 mleur: 1.0-6
-mlexperiments: 0.0.2
+mlexperiments: 0.0.3
 mlf: 1.2.1
 mlfit: 0.5.3
 mlflow: 2.10.2
@@ -18023,7 +18026,7 @@ mlica: 0.6.1
 mlica2: '2.1'
 mlim: 0.3.0
 mljar: 0.1.1
-mllrnrs: 0.0.2
+mllrnrs: 0.0.3
 mlmRev: 1.0-8
 mlma: 6.3-1
 mlmc: 1.0.0
@@ -18296,6 +18299,7 @@ moveHMM: '1.9'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.4
 movecost: '2.1'
+movegroup: 2024.03.05
 movementsync: 0.1.4
 movieROC: 0.1.0
 mozzie: 0.1.0
@@ -19031,6 +19035,7 @@ noisemodel: 1.0.2
 noisyCE2: 1.1.0
 noisySBM: 0.1.4
 noisyr: 1.0.0
+noisysbmGGM: 0.1.2.3
 nolock: 1.1.0
 nomadlist: 0.1.0
 nombre: 0.4.1
@@ -19680,6 +19685,7 @@ palaeoSig: 2.1-3
 palaeoverse: 1.2.1
 palasso: 0.0.9
 pald: 0.0.3
+paleoDiv: 0.2.2
 paleoMAS: 2.0-1
 paleoTS: 0.5.3
 paleoTSalt: 0.1-1
@@ -20300,7 +20306,7 @@ plaqr: '2.0'
 plasma: 1.0.0
 plasso: 0.1.2
 plater: 1.0.4
-platetools: 0.1.5
+platetools: 0.1.7
 platowork: 0.0.1
 plattice: '1.0'
 play: 0.1.3
@@ -20634,6 +20640,7 @@ pqrBayes: 1.0.2
 pqrfe: '1.1'
 prLogistic: '1.2'
 prWarp: 1.0.0
+praatpicture: 1.0.0
 prabclus: 2.3-3
 pracma: 2.4.4
 pracpac: 0.2.0
@@ -21623,6 +21630,7 @@ rccola: 1.0.2
 rcdd: '1.6'
 rcdk: 3.8.1
 rcdklibs: '2.9'
+rcens: 0.1.0
 rchallenge: 1.3.4
 rchemo: 0.1-1
 rcheology: 4.3.3.0
@@ -21754,7 +21762,7 @@ readsdr: 0.2.0
 readsparse: 0.1.5-6
 readstata13: 0.10.1
 readtext: '0.91'
-readtextgrid: 0.1.1
+readtextgrid: 0.1.2
 readthat: 0.0.1
 readwritesqlite: 0.2.0
 readxl: 1.4.3
@@ -23613,7 +23621,7 @@ siland: 3.0.2
 silicate: 0.7.1
 sim1000G: '1.40'
 sim2Dpredictr: 0.1.1
-simDAG: 0.1.0
+simDAG: 0.1.1
 simDNAmixtures: 1.0.1
 simET: 1.0.3
 simEd: 2.0.1
@@ -24551,7 +24559,7 @@ stickyr: 0.1.2
 stilt: 1.3.0
 stim: 1.0.0
 stima: 1.2.4
-stinepack: '1.4'
+stinepack: '1.5'
 stlARIMA: 0.1.0
 stlELM: 0.1.1
 stlTDNN: 0.1.0
@@ -24943,7 +24951,7 @@ sysid: 1.0.4
 syskern: R2000.6-1
 syslognet: 0.1.2.1
 systemfit: 1.1-30
-systemfonts: 1.0.5
+systemfonts: 1.0.6
 systemicrisk: 0.4.2
 syt: 0.3.0
 syuzhet: 1.0.7
@@ -25082,7 +25090,7 @@ tdsc: 1.0.4
 tdthap: '1.3'
 tea: '1.1'
 teachingApps: 1.0.8
-teal: 0.15.1
+teal: 0.15.2
 teal.code: 0.5.0
 teal.data: 0.5.0
 teal.logger: 0.1.3
