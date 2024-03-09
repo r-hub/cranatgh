@@ -866,7 +866,7 @@ CAM: '1.0'
 CAMAN: '0.78'
 CAMML: 1.0.0
 CANSIM2R: 1.14.1
-CARBayes: '6.1'
+CARBayes: 6.1.1
 CARBayesST: '4.0'
 CARBayesdata: '3.0'
 CARE1: 1.1.0
@@ -1281,7 +1281,7 @@ CoTiMA: 0.7.0
 CoastlineFD: 1.1.2
 CodataGS: '1.43'
 CodeDepends: 0.6.5
-CodelistGenerator: 2.2.2
+CodelistGenerator: 2.2.3
 CohensdpLibrary: 0.5.10
 CohortAlgebra: 0.2.0
 CohortExplorer: 0.1.0
@@ -1927,6 +1927,7 @@ E4tools: 0.1.1
 EATME: 0.1.0
 EAinference: 0.2.3
 EAlasso: 0.1.0
+EBASE: 1.0.0
 EBASS: '0.1'
 EBCHS: 0.1.0
 EBEN: '5.1'
@@ -2159,7 +2160,7 @@ EpiForsk: 0.1.1
 EpiILM: 1.5.2
 EpiILMCT: 1.1.7
 EpiInvert: 0.3.1
-EpiLPS: 1.2.0
+EpiLPS: 1.3.0
 EpiModel: 2.4.0
 EpiNow2: 1.4.0
 EpiReport: 1.0.2
@@ -2400,7 +2401,7 @@ FamilyRank: '1.0'
 FarmSelect: 1.0.2
 FarmTest: 2.2.0
 FastBandChol: 0.1.1
-FastCUB: 0.0.2
+FastCUB: 0.0.3
 FastGP: '1.2'
 FastGaSP: 0.5.2
 FastHCS: 0.0.7
@@ -3293,7 +3294,7 @@ IOLS: 0.1.4
 IP: 0.1.3
 IPCAPS: 1.1.8
 IPCWK: '1.0'
-IPDFileCheck: 0.7.5
+IPDFileCheck: 0.8.1
 IPDfromKM: 0.1.10
 IPEC: 1.1.0
 IPEDS: 0.1.0
@@ -4323,7 +4324,7 @@ MazamaLocationUtils: 0.4.3
 MazamaRollUtils: 0.1.3
 MazamaSpatialPlots: 0.2.0
 MazamaSpatialUtils: 0.8.6
-MazamaTimeSeries: 0.2.16
+MazamaTimeSeries: 0.3.0
 MazamaWebUtils: 0.1.7
 McParre: 1.0.1
 McSpatial: '2.0'
@@ -4431,7 +4432,7 @@ Miney: '0.1'
 Minirand: 0.1.3
 MinkowskiSum: 1.0.0
 MisRepARMA: 0.0.2
-MiscMetabar: 0.7.9
+MiscMetabar: 0.7.10
 MiscPsycho: '1.6'
 Miso: 0.2.1
 MissCP: 0.1.0
@@ -6974,7 +6975,7 @@ SNPmaxsel: 1.0-3
 SNPtools: '1.1'
 SNSFdatasets: 0.1.1
 SNSchart: 1.4.0
-SNSeg: 1.0.1
+SNSeg: 1.0.2
 SNSequate: 1.3-4
 SNVLFDR: 1.0.1
 SNscan: '1.0'
@@ -7621,7 +7622,7 @@ TCGA2STAT: '1.2'
 TCGAretriever: 1.9.1
 TCHazaRds: '1.0'
 TCIApathfinder: 1.0.6
-TCIU: 1.2.4
+TCIU: 1.2.5
 TDA: 1.9.1
 TDAkit: 0.1.2
 TDAmapper: '1.0'
@@ -7971,6 +7972,7 @@ UCR.ColumnNames: 0.1.0
 UCSCXenaShiny: 1.1.10
 UCSCXenaTools: 1.4.8
 UComp: 4.0.2
+UHM: 0.3.0
 UKB.COVID19: 0.1.4
 UKFE: 0.3.4
 UKgrid: 0.1.3
@@ -8998,7 +9000,7 @@ atRisk: 0.1.0
 ata: 1.1.1
 atable: 0.1.14
 atakrig: 0.9.8.1
-atime: 2024.1.31
+atime: 2024.3.5
 atlantistools: 0.4.3
 atlas: 1.0.0
 atm: 0.1.0
@@ -9070,7 +9072,7 @@ autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.3
 autostats: 0.4.0
-autostsm: 3.1.3
+autostsm: 3.1.4
 autota: 0.1.3
 autothresholdr: 1.4.2
 autovarCore: 1.0-4
@@ -9103,7 +9105,7 @@ aws.sns: 0.1.7
 aws.sqs: 0.1.10
 aws.transcribe: 0.1.3
 aws.translate: 0.1.4
-aws.wrfsmn: 0.0.2
+aws.wrfsmn: 0.0.3
 awsMethods: 1.1-1
 awsjavasdk: 0.2.2
 awspack: 0.1.6
@@ -9469,6 +9471,7 @@ biblio: 0.0.8
 bibliometrix: 4.1.4
 bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
+bibliorefer: 0.1.0
 bibliospec: 0.0.4
 biblioverlap: 1.0.2
 bibs: 1.1.1
@@ -9808,7 +9811,7 @@ bootruin: 1.2-4
 bootsPLS: 1.1.2
 bootspecdens: '3.0'
 bootstrap: '2019.6'
-bootstrapFP: 0.4.5
+bootstrapFP: 0.4.6
 boottol: '2.0'
 bootwar: 0.2.1
 bor: 0.1.0
@@ -10056,7 +10059,7 @@ calibrator: 1.2-8
 calidad: 0.5.0
 caliver: 2.0.0
 callr: 3.7.5
-callsync: 0.0.6
+callsync: 0.2.1
 calmate: 0.13.0
 calpassapi: 0.0.3
 camcorder: 0.1.0
@@ -11057,6 +11060,7 @@ correspondenceTables: 0.7.4
 corrfuns: '1.0'
 corrgram: '1.14'
 corrgrapher: 1.0.4
+corrmeta: 1.0.0
 corrperm: '2.0'
 corrplot: '0.92'
 corrr: 0.4.4
@@ -11738,7 +11742,7 @@ deeplr: 2.0.1
 deepnet: 0.2.1
 deepredeff: 0.1.1
 deepregression: 1.0.0
-deeptime: 1.1.0
+deeptime: 1.1.1
 deeptrafo: 0.1-1
 default: 1.0.0
 define: 0.2.9
@@ -11838,7 +11842,7 @@ desla: 0.3.0
 desplot: '1.10'
 details: 0.3.0
 detect: 0.4-6
-detectR: 0.1.0
+detectR: 0.3.0
 detectRUNS: 0.9.6
 detectnorm: 1.0.0
 detector: 0.1.0
@@ -12457,7 +12461,7 @@ easyclimate: 0.2.1
 easycsv: 1.0.8
 easydb: 1.1.0
 easyformatr: 0.1.2
-easylabel: 0.2.7
+easylabel: 0.2.8
 easyml: 0.1.0
 easynls: '5.0'
 easypackages: 0.1.0
@@ -12618,7 +12622,7 @@ eglhmm: 0.1-3
 egoTERGM: 2.1.1
 egonet: '1.2'
 egor: 1.24.2
-eha: 2.11.2
+eha: 2.11.4
 ehaGoF: 0.1.1
 ehelp: 1.2.1
 ei: 1.3-3
@@ -13473,6 +13477,7 @@ files: 0.0.1
 filesstrings: 3.4.0
 filibustr: 0.2.0
 filling: 0.2.3
+fillpattern: 1.0.0
 fillr: 1.0.0
 filteRjsats: '1.0'
 filterNHP: 0.1.2
@@ -14291,7 +14296,7 @@ geometry: 0.4.7
 geomnet: 0.3.1
 geomod: 0.1.0
 geomorph: 4.0.7
-geomtextpath: 0.1.1
+geomtextpath: 0.1.2
 geomultistar: 1.2.1
 geonames: '0.999'
 geonapi: '0.7'
@@ -14426,7 +14431,7 @@ ggconf: 0.1.3
 ggcorrplot: 0.1.4.1
 ggcorset: 0.4.5
 ggcoverage: 0.7.1
-ggdag: 0.2.11
+ggdag: 0.2.12
 ggdark: 0.2.1
 ggdemetra: 0.2.8
 ggdendro: 0.2.0
@@ -14440,7 +14445,7 @@ ggedit: 0.4.1
 ggeffects: 1.5.0
 ggenealogy: 1.0.3
 ggetho: 0.3.7
-ggfacto: 0.2.3
+ggfacto: 0.3.0
 ggfan: 0.1.3
 ggfields: 0.0.6
 ggfittext: 0.10.2
@@ -14920,7 +14925,7 @@ graposas: 1.0.0
 grasp: 2.5-7
 grasper: 0.4-4
 grateful: 0.2.4
-grates: 1.1.1
+grates: 1.2.0
 gratia: 0.8.2
 graticule: 0.4.0
 gratis: 1.0.5
@@ -15147,7 +15152,7 @@ halp: 0.1.3
 hamlet: 0.9.6
 handcodeR: 0.1.2
 handlr: 0.3.0
-handwriter: 2.0.3
+handwriter: 3.0.0
 handyFunctions: 0.1.0
 handyplots: 1.1.3
 hans: '0.1'
@@ -15647,7 +15652,7 @@ ialiquor: 0.1.0
 iapws: '1.1'
 iarm: 0.4.3
 ib: 0.2.0
-ibawds: 0.5.0
+ibawds: 0.6.0
 ibb: 0.0.2
 ibd: '1.6'
 ibdreg: 0.3.8
@@ -16339,7 +16344,7 @@ kableExtra: 1.4.0
 kader: 0.0.8
 kaigiroku: '0.5'
 kairos: 2.1.0
-kalmanfilter: 2.1.0
+kalmanfilter: 2.1.1
 kamila: 0.1.2
 kangar00: 1.4.1
 kanjistat: 0.9.1
@@ -16366,7 +16371,7 @@ kdetrees: 0.1.5
 kdevine: 0.4.4
 kdist: '0.2'
 kdpee: 1.0.0
-kdry: 0.0.1
+kdry: 0.0.2
 kdtools: 0.6.0
 kedd: 1.0.4
 keep: '1.0'
@@ -16425,7 +16430,7 @@ kibior: 0.1.1
 kidney.epi: 1.2.0
 kidsides: 0.5.0
 kim: 0.5.422
-kimfilter: 1.0.2
+kimfilter: 1.0.3
 kimisc: '0.4'
 kin.cohort: '0.7'
 kindisperse: 0.10.2
@@ -16685,7 +16690,7 @@ lcmr: 1.6.26
 lconnect: 0.1.1
 lcopula: 1.0.7
 lcpm: 0.1.1
-lcra: 1.1.2
+lcra: 1.1.5
 lcsm: 0.3.2
 lctools: 0.2-8
 lcyanalysis: 1.0.4
@@ -16927,7 +16932,7 @@ lmPerm: 2.1.0
 lmQCM: 0.2.4
 lmSubsets: 0.5-2
 lmSupport: 2.9.13
-lmap: 0.1.1
+lmap: 0.1.2
 lmbc: 0.9.1
 lmboot: 0.0.1
 lmds: 0.1.0
@@ -17710,7 +17715,7 @@ metasens: 1.5-2
 metatest: 1.0-5
 metathis: 1.1.4
 metatools: 0.1.5
-metaumbrella: 1.0.10
+metaumbrella: 1.0.11
 metavcov: 2.1.5
 metaviz: 0.3.1
 metawho: 0.2.0
@@ -17993,7 +17998,7 @@ mixtur: 1.2.1
 mixture: 2.1.1
 mixvlmc: 0.2.1
 mize: 0.2.4
-mizer: 2.5.0
+mizer: 2.5.1
 mkde: '0.2'
 mkin: 1.2.6
 mknapsack: 0.1.0
@@ -18077,7 +18082,7 @@ mlrv: 0.1.1
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlstrOpalr: 1.0.2
-mlsurvlrnrs: 0.0.2
+mlsurvlrnrs: 0.0.3
 mlt: 1.5-0
 mlt.docreg: 1.1-7
 mltest: 1.0.1
@@ -18460,7 +18465,7 @@ multDM: 1.1.4
 multIntTestFunc: 0.2.0
 multbxxc: 1.0.1
 multcomp: 1.4-25
-multcompView: 0.1-9
+multcompView: 0.1-10
 multdyn: '1.6'
 multe: 1.0.0
 multfisher: '1.1'
@@ -18533,6 +18538,7 @@ multiocc: 0.2.1
 multipanelfigure: 2.1.5
 multipleDL: 1.0.0
 multipleNCC: 1.2-4
+multipleOutcomes: '0.2'
 multiplestressR: 0.1.1
 multiplex: 3.1.1
 multiplyr: 0.1.1
@@ -19209,6 +19215,7 @@ nvis: 0.2.1
 nvmix: 0.1-1
 nws: 1.7.0.1
 nycflights13: 1.0.2
+nycflights23: 0.1.0
 nyctaxi: 0.0.1
 nytR: '0.1'
 nzelect: 0.4.0
@@ -19328,6 +19335,7 @@ omics: 0.1-5
 omicsTools: 1.0.5
 omicwas: 0.8.0
 omnibus: 1.2.9
+omock: 0.1.0
 omopgenerics: 0.0.3
 omopr: '0.2'
 ompr: 1.0.4
@@ -19722,6 +19730,7 @@ pandocfilters: 0.1-6
 panel: 1.0.7
 panelAR: '0.1'
 panelPomp: '1.1'
+panelSUR: 0.1.0
 panelView: 1.1.17
 panelWranglR: 1.2.13
 panelaggregation: 0.1.1
@@ -20203,7 +20212,7 @@ phytools: 2.1-1
 phytotools: '1.0'
 pi0: 1.4-1
 piRF: 0.1.0
-piar: 0.6.0
+piar: 0.7.0
 picClip: 0.1.0
 picR: 1.0.0
 picante: 1.8.2
@@ -21497,7 +21506,7 @@ rankdifferencetest: '2021-11-25'
 rankdist: 1.1.4
 rankhazard: 1.1.0
 rankinPlot: 1.1.0
-rankinma: 0.2.0
+rankinma: 0.2.1
 rankrate: 1.2.0
 rankreg: 0.2-2
 ranktreeEnsemble: '0.22'
@@ -22170,6 +22179,7 @@ riceware: '0.4'
 rich: 1.0.1
 richards: 0.5.0
 ricu: 0.5.6
+rid: 0.0.1
 ridge: '3.3'
 ridgetorus: 1.0.2
 ridgregextra: 0.1.1
@@ -22730,7 +22740,7 @@ rtrie: 0.1.1
 rtrim: 2.1.1
 rtry: 1.1.0
 rts: 1.1-14
-rts2: 0.7.1
+rts2: 0.7.2
 rtsVis: 0.0.3
 rtsdata: 0.1.4
 rtson: '1.3'
@@ -22929,7 +22939,7 @@ samplingEstimates: 0.1-3
 samplingR: 1.0.1
 samplingVarEst: '1.5'
 samplingbook: 1.2.4
-samplingin: 1.0.6
+samplingin: 1.0.7
 sampsizeval: 1.0.0.0
 samr: '3.0'
 sams: 0.4.3
@@ -23086,7 +23096,7 @@ scientoText: '0.1'
 scifigure: '0.2'
 scio: 0.9.0
 sciplot: 1.2-0
-scipub: 1.2.2
+scipub: 1.2.3
 scistreer: 1.2.0
 scitb: 0.1.7
 sclero: '0.2'
@@ -23621,6 +23631,7 @@ siland: 3.0.2
 silicate: 0.7.1
 sim1000G: '1.40'
 sim2Dpredictr: 0.1.1
+simCAT: 1.0.0
 simDAG: 0.1.1
 simDNAmixtures: 1.0.1
 simET: 1.0.3
@@ -24789,7 +24800,7 @@ surveil: 0.2.2
 surveillance: 1.22.1
 survex: 1.2.0
 survexp.fr: '1.1'
-survey: 4.2-1
+survey: 4.4-1
 surveyCV: 0.2.0
 surveyNG: '0.3'
 surveybootstrap: 0.0.3
@@ -25004,7 +25015,7 @@ tabulator: 1.0.0
 tabulizer: 0.2.2
 tabulizerjars: 1.0.1
 tabulog: 0.1.1
-tabxplor: 1.1.2
+tabxplor: 1.1.3
 tacmagic: 0.3.1
 tactile: 0.2.1
 tada: 2024.1.0
@@ -25910,7 +25921,7 @@ uavRmp: 0.6.2
 uavRst: 0.5-4
 ubci: 0.0.5
 ubeR: 0.1.4
-ubiquity: 2.0.1
+ubiquity: 2.0.3
 ubms: 1.2.6
 ucbthesis: '1.0'
 uchardet: 1.1.1
@@ -26048,7 +26059,7 @@ uskew: 0.11-3
 uskewFactors: '2.0'
 usl: 3.0.3
 usmap: 0.7.0
-usmapdata: 0.2.1
+usmapdata: 0.2.2
 ussherR: '1.10'
 ustfd: 0.4.4
 ustyc: 1.0.0
@@ -26384,7 +26395,7 @@ walker: 1.0.8
 walkr: 0.4.0
 walkscore: 0.1.2
 walkscoreAPI: '1.2'
-wallace: 2.1.1
+wallace: 2.1.2
 wally: 1.0.10
 walmartAPI: 0.1.5
 walrus: 1.0.5
