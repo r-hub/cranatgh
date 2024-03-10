@@ -493,7 +493,7 @@ BMTAR: 0.1.1
 BMTME: 1.0.19
 BMhyb: 2.1.5
 BMhyd: 1.2-8
-BMisc: 1.4.5
+BMisc: 1.4.6
 BNDataGenerator: '1.0'
 BNN: 1.0.2
 BNPMIXcluster: '1.3'
@@ -923,7 +923,7 @@ CDSS: 0.2-0
 CDSeq: 1.0.8
 CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
-CDatanet: 2.1.2
+CDatanet: 2.1.3
 CEAmarkov: 0.1.0
 CEC: 0.11.1
 CEDA: 1.1.1
@@ -3033,6 +3033,7 @@ HKprocess: 0.1-1
 HLMdiag: 0.5.0
 HLSM: 0.9.0
 HMB: '1.1'
+HMC: '1.0'
 HMDHFDplus: 2.0.3
 HMM: 1.0.1
 HMMCont: '1.0'
@@ -4188,6 +4189,7 @@ MRZero: 0.1.0
 MRmediation: 1.0.1
 MRsurv: '0.2'
 MRwarping: '1.0'
+MSBStatsData: 0.0.2
 MSBVAR: 0.9-3
 MSCMT: 1.3.9
 MSCquartets: 1.3.2
@@ -5404,7 +5406,7 @@ Pomic: 1.0.4
 PoolBal: 0.1-0
 PoolDilutionR: 1.0.0
 PoolTestR: 0.1.3
-PooledCohort: 0.0.1
+PooledCohort: 0.0.2
 PooledMeanGroup: '1.0'
 PopED: 0.6.0
 PopGenHelpR: 1.2.1
@@ -9175,6 +9177,7 @@ bamm: 0.4.3
 bamp: 2.1.3
 bams: '1.6'
 banR: 0.2.2
+bandicoot: 1.0.0
 bandit: 0.5.1
 banditpam: 1.0-1
 bandsfdp: 1.1.0
@@ -13355,7 +13358,7 @@ fctbases: 1.1.1
 fcuk: 0.1.21
 fdANOVA: 0.1.2
 fdWasserstein: '1.0'
-fda: 6.1.7
+fda: 6.1.8
 fda.usc: 2.1.0
 fdaACF: 1.0.0
 fdaMixed: 0.6.1
@@ -13477,7 +13480,7 @@ files: 0.0.1
 filesstrings: 3.4.0
 filibustr: 0.2.0
 filling: 0.2.3
-fillpattern: 1.0.0
+fillpattern: 1.0.1
 fillr: 1.0.0
 filteRjsats: '1.0'
 filterNHP: 0.1.2
@@ -13532,7 +13535,7 @@ fitConic: 1.2.1
 fitDRC: 1.1.1
 fitHeavyTail: 0.2.0
 fitODBOD: 1.5.1
-fitODBODRshiny: 1.0.1
+fitODBODRshiny: 1.0.2
 fitPS: 1.0.0
 fitPoly: 3.0.0
 fitTetra: '1.0'
@@ -13897,7 +13900,7 @@ funcy: 1.0.1
 fundiversity: 1.1.1
 funest: 0.0.1.3
 funfits: 2.0-3
-fungible: 2.4.3
+fungible: 2.4.4
 funique: 0.0.1
 funkycells: 1.1.1
 funkyheatmap: 0.5.0
@@ -14509,7 +14512,7 @@ ggordiplots: 0.4.3
 ggpackets: 0.2.1
 ggpacman: 0.1.0
 ggpage: 0.2.3
-ggparallel: 0.3.0
+ggparallel: 0.4.0
 ggparliament: 2.0.0
 ggparty: 1.0.0
 ggpath: 1.0.1
@@ -14914,7 +14917,7 @@ graphicalVAR: 0.3.4
 graphicsQC: 1.0-8
 graphite: '1.1'
 graphkernels: 1.6.1
-graphlayouts: 1.1.0
+graphlayouts: 1.1.1
 graphon: 0.3.5
 graphql: 1.5.1
 graphscan: 1.1.1
@@ -15842,7 +15845,7 @@ imputeTestbench: 3.0.3
 imputeYn: '1.3'
 imsig: 1.1.3
 in2extRemes: 1.0-3
-inTextSummaryTable: 3.3.1
+inTextSummaryTable: 3.3.2
 inTrees: '1.3'
 inaparc: 1.2.0
 inarmix: '0.4'
@@ -16687,7 +16690,7 @@ lchemix: 0.1.0
 lclGWAS: 1.0.3
 lcmm: 2.1.0
 lcmr: 1.6.26
-lconnect: 0.1.1
+lconnect: 0.1.2
 lcopula: 1.0.7
 lcpm: 0.1.1
 lcra: 1.1.5
@@ -18057,7 +18060,7 @@ mlr3data: 0.7.0
 mlr3db: 0.5.2
 mlr3fairness: 0.3.2
 mlr3filters: 0.7.1
-mlr3fselect: 0.11.0
+mlr3fselect: 0.12.0
 mlr3hyperband: 0.5.0
 mlr3learners: 0.5.8
 mlr3mbo: 0.2.2
@@ -18068,7 +18071,7 @@ mlr3pipelines: 0.5.0-2
 mlr3proba: 0.4.9
 mlr3resampling: 2024.1.23
 mlr3shiny: 0.3.0
-mlr3spatial: 0.4.1
+mlr3spatial: 0.5.0
 mlr3spatiotempcv: 2.3.0
 mlr3tuning: 0.20.0
 mlr3tuningspaces: 0.5.0
@@ -18251,7 +18254,7 @@ monoreg: '2.1'
 monotone: 0.1.2
 monotonicity: 1.3.1
 monreg: 0.1.4.1
-moodef: 1.0.0
+moodef: 1.1.0
 moodleR: 1.0.1
 moodlequizR: 1.0.3
 moonBook: 0.3.1
@@ -18263,6 +18266,7 @@ mopac: 0.1.0
 mopsocd: 0.5.1
 moranajp: 0.9.6
 moreparty: '0.4'
+morepls: '0.1'
 morestopwords: 0.2.0
 morf: 1.0.0
 morgenstemning: '1.0'
@@ -18312,7 +18316,7 @@ mp: 0.4.1
 mpMap: '1.14'
 mpMap2: 1.0.4
 mpa: 0.7.3
-mpath: 0.4-2.23
+mpath: 0.4-2.25
 mpathsenser: 1.2.2
 mpbart: '0.2'
 mpc: '0.1'
@@ -18910,6 +18914,7 @@ nhs.predict: 1.4.0
 nhsnumber: 0.1.2
 nhstplot: 1.3.0
 niaidMI: 1.1.0
+niarules: 0.1.0
 nic: 0.0.2
 nice: 0.4-2
 nicheROVER: 1.1.2
@@ -19020,7 +19025,7 @@ nnetpredint: '1.2'
 nnfor: 0.9.9
 nngeo: 0.4.7
 nnlasso: '0.3'
-nnlib2Rcpp: 0.2.4
+nnlib2Rcpp: 0.2.5
 nnls: '1.5'
 nnspat: 0.1.2
 nnt: 0.1.4
@@ -19336,7 +19341,7 @@ omicsTools: 1.0.5
 omicwas: 0.8.0
 omnibus: 1.2.9
 omock: 0.1.0
-omopgenerics: 0.0.3
+omopgenerics: 0.1.2
 omopr: '0.2'
 ompr: 1.0.4
 ompr.roi: 1.0.2
@@ -19848,7 +19853,7 @@ pathological: 0.1-2
 paths: 0.1.1
 pathviewr: 1.1.7
 pathwayTMB: 0.1.3
-patientProfilesVis: 2.0.6
+patientProfilesVis: 2.0.7
 patrick: 0.2.0
 patternator: 0.1.0
 patternize: 0.0.5
@@ -21121,7 +21126,7 @@ qrmtools: 0.0-17
 qrng: 0.0-10
 qrnn: 2.1.1
 qrsvm: 0.2.1
-qs: 0.25.7
+qs: 0.26.1
 qsimulatR: 1.1.1
 qsort: 0.2.3
 qsplines: 1.0.1
@@ -21870,7 +21875,7 @@ regexr: 1.1.0
 regfilter: 1.1.1
 reghelper: 1.1.2
 regional: 0.3.3
-regioncode: 0.1.1
+regioncode: 0.1.2
 regions: 0.1.8
 registr: 2.1.0
 registry: 0.5-1
@@ -22645,7 +22650,7 @@ rsig: '1.0'
 rsimsum: 0.13.0
 rsinaica: 1.0.0
 rskey: 0.4.4
-rsleep: 1.0.11
+rsleep: 1.0.12
 rslp: 0.2.0
 rslurm: 0.6.2
 rsm: 2.10.4
@@ -23524,7 +23529,7 @@ shinyauthr: 1.0.0
 shinybootstrap2: 0.2.1
 shinybrms: 1.8.0
 shinybrowser: 1.0.0
-shinybusy: 0.3.2
+shinybusy: 0.3.3
 shinycssloaders: 1.0.0
 shinycustomloader: 0.9.0
 shinydashboard: 0.7.2
@@ -25804,6 +25809,7 @@ tsibbledata: 0.4.1
 tsibbletalk: 0.1.0
 tsintermittent: '1.10'
 tslars: '1.0'
+tsmethods: 1.0.0
 tsmp: 0.4.15
 tsna: 0.3.5
 tsne: 0.1-3.1
@@ -25934,7 +25940,7 @@ udpipe: 0.8.11
 udunits: 1.3.1
 udunits2: 0.13.2.1
 ufRisk: 1.0.7
-ufs: 0.5.10
+ufs: 0.5.12
 ugatsdb: 0.2.3
 ugomquantreg: 1.0.0
 ui: 0.1.1
@@ -26083,7 +26089,7 @@ uwot: 0.1.16
 uxr: 0.2.0
 vDiveR: 1.2.1
 vICC: 1.0.0
-vMF: 0.0.2
+vMF: 0.0.3
 vMask: '1.0'
 vaRiskScore: 1.1.0
 vabayelMix: '0.3'
@@ -26824,7 +26830,7 @@ yulab.utils: 0.1.4
 yum: 0.1.0
 yummlyr: 0.1.1
 yyjsonr: 0.1.18
-zCompositions: 1.5.0-1
+zCompositions: 1.5.0-2
 zFactor: 0.1.9
 zGPS.AO: 0.1.0
 zTree: 1.0.7
