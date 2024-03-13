@@ -234,7 +234,7 @@ Ake: 1.0.1
 AlgDesign: 1.2.1
 AlgebraicHaploPackage: '1.2'
 AlignStat: 1.3.1
-AllMetrics: 0.2.0
+AllMetrics: 0.2.1
 AllPossibleSpellings: '1.1'
 AlleleRetain: 2.0.2
 AlleleShift: 1.1-2
@@ -1316,6 +1316,7 @@ Comp2ROC: 1.1.4
 CompAREdesign: 2.3.1
 CompDist: '1.0'
 CompGLM: '2.0'
+CompGR: 0.1.3
 CompLognormal: '3.0'
 CompModels: 0.3.0
 CompPareto: 0.1.0
@@ -1430,6 +1431,7 @@ CoxPhLb: 1.2.0
 CoxPlus: 1.1.1
 CoxR2: '1.0'
 CoxRidge: 0.9.2
+Coxmos: 1.0.0
 Coxnet: '0.2'
 CpDyna: '1.0'
 CpGFilter: '1.1'
@@ -2474,6 +2476,7 @@ FlowRegEnvCost: 0.1.1
 FlowScreen: 1.2.6
 FluMoDL: 0.0.3
 FluOMatic: '1.0'
+Fluidigm: '0.2'
 Flury: 0.1-3
 FlyingR: 0.2.2
 FlywayNet: 0.1.0
@@ -2727,7 +2730,7 @@ GPoM.FDLyapu: '1.0'
 GPrank: 0.1.4
 GPseq: '0.5'
 GPvam: 3.0-9
-GPvecchia: 0.1.6
+GPvecchia: 0.1.7
 GRANBase: 2.6.20
 GRANCore: 0.2.7
 GRAPE: 0.1.1
@@ -2777,7 +2780,7 @@ GUTS: 1.2.5
 GUniFrac: '1.8'
 GVARX: '1.4'
 GWAF: '2.2'
-GWASExactHW: '1.01'
+GWASExactHW: '1.2'
 GWASbyCluster: 0.1.7
 GWASinlps: '2.2'
 GWASinspector: 1.6.5
@@ -3408,6 +3411,7 @@ InformativeCensoring: 0.3.6
 Infusion: 2.1.0
 IniStatR: 1.0.0
 InjurySeverityScore: 0.0.0.2
+Inquilab: 0.1.0
 InspectChangepoint: '1.2'
 IntCal: 0.3.1
 IntClust: 0.1.0
@@ -4072,7 +4076,7 @@ MKendall: 1.5-4
 MKinfer: '1.1'
 MKmisc: '1.9'
 MKomics: '0.7'
-MKpower: '0.7'
+MKpower: '0.8'
 ML.MSBD: 1.2.1
 ML2Pvae: 1.0.0.1
 MLCIRTwithin: 2.1.1
@@ -4355,7 +4359,7 @@ MeshesOperations: 0.1.0
 MeshesTools: 1.0.0
 Mestim: 0.2.1
 MetABEL: 0.2-0
-MetAlyzer: 0.1.0
+MetAlyzer: 1.0.0
 MetBrewer: 0.2.0
 MetChem: '0.4'
 MetFns: 3.2.2
@@ -4946,6 +4950,7 @@ OptSig: '2.2'
 OptiQuantR: 0.0.1
 OptiSembleForecasting: 0.1.0
 OptimClassifier: 0.1.5
+OptimModel: 2.0-1
 OptimaRegion: '1.2'
 OptimalCutpoints: 1.1-5
 OptimalDesign: 1.0.1
@@ -5242,7 +5247,7 @@ PVR: '0.3'
 PVplr: 0.1.2
 PWD: '1.0'
 PWEALL: 1.3.0.1
-PWEXP: 0.4.4
+PWEXP: 0.5.0
 PWFSLSmoke: 1.2.117
 PWIR: 0.0.3
 PaLMr: 0.2.0
@@ -7445,7 +7450,7 @@ SphereOptimize: 0.1.1
 SphericalCubature: '1.5'
 SphericalK: '1.2'
 SpiceFP: 0.1.2
-Spillover: 0.1.0.3
+Spillover: 0.1.1
 Splinets: 1.5.0
 SplitGLM: 1.0.5
 SplitKnockoff: '1.2'
@@ -7632,7 +7637,7 @@ TCIU: 1.2.5
 TDA: 1.9.1
 TDAkit: 0.1.2
 TDAmapper: '1.0'
-TDApplied: 3.0.2
+TDApplied: 3.0.3
 TDAstats: 0.4.1
 TDAvec: 0.1.3
 TDCM: 0.1.0
@@ -8913,7 +8918,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
-arrow: 14.0.2.1
+arrow: 15.0.1
 ars: '0.6'
 arse: 1.0.0
 arsenal: 3.6.3
@@ -9357,7 +9362,7 @@ bcrypt: '1.1'
 bcs: 1.0.0
 bcv: 1.0.2
 bdDwC: 0.1.15
-bda: 18.1.2
+bda: 18.2.2
 bdc: 1.1.4
 bdchecks: 0.1.7
 bdclean: 0.1.15
@@ -9755,7 +9760,7 @@ bnClustOmics: 1.1.1
 bnclassify: 0.4.7
 bndesr: 1.0.3
 bndovb: '1.1'
-bnlearn: 4.9.1
+bnlearn: 4.9.2
 bnma: 1.6.0
 bnmonitor: 0.1.4
 bnnSurvival: 0.1.5
@@ -10088,7 +10093,7 @@ cancerTiming: 3.1.8
 cancerscreening: 1.0.2
 candisc: 0.8-6
 canprot: 1.1.2
-cansim: 0.3.15
+cansim: 0.3.16
 canvas: 0.2-0
 canvasXpress: 1.46.9-1
 canvasXpress.data: 1.34.2
@@ -10318,7 +10323,7 @@ cfbfastR: 1.9.0
 cfda: 0.11.0
 cfdecomp: 0.4.0
 cffdrs: 1.9.0
-cffr: 0.5.0
+cffr: 1.0.0
 cfid: 0.1.7
 cfma: '1.0'
 cfmortality: 0.3.0
@@ -10599,7 +10604,7 @@ clr: 0.1.2
 clrdag: 0.6.0
 clttools: '1.3'
 clubSandwich: 0.5.10
-clubpro: 0.5.5
+clubpro: 0.6.0
 clue: 0.3-65
 clues: 0.6.2.2
 clugenr: 1.0.3
@@ -10624,6 +10629,7 @@ clusterCrit: 1.3.0
 clusterGeneration: 1.3.8
 clusterGenomics: '1.0'
 clusterHD: 1.0.2
+clusterMI: 1.0.0
 clusterPower: 0.7.0
 clusterRepro: '0.9'
 clusterSEs: 2.6.5
@@ -10807,7 +10813,7 @@ colourvalues: 0.3.9
 colourvision: 2.0.4
 colr: 0.1.900
 cols: '1.1'
-cols4all: '0.7'
+cols4all: 0.7-1
 colt: 0.1.1
 comFuncs: 0.0.6
 comat: 0.9.5
@@ -11257,7 +11263,7 @@ cropDemand: 1.0.3
 cropZoning: 1.0.3
 cropcircles: 0.2.4
 cropdatape: 1.0.0
-cropgrowdays: 0.2.0
+cropgrowdays: 0.2.1
 crops: 1.0.3
 crossReg: '1.0'
 crossdes: 1.1-2
@@ -11302,7 +11308,7 @@ crwbmetareg: '1.0'
 cry: 0.5.1
 crypto: 1.1.3
 crypto2: 1.4.6
-cryptoQuotes: 1.2.1
+cryptoQuotes: 1.3.0
 cryptoTax: 0.0.5
 cryptography: 1.0.0
 cryptotrackr: 1.2.0
@@ -11740,7 +11746,7 @@ deepMOU: 0.1.1
 deepNN: '1.2'
 deepRstudio: 0.0.9
 deepboost: 0.1.6
-deepdep: 0.4.2
+deepdep: 0.4.3
 deepdive: 1.0.4
 deepgmm: 0.2.1
 deepgp: 1.1.1
@@ -12382,7 +12388,7 @@ dynOmics: '1.2'
 dynRB: '0.18'
 dynaSpec: 1.0.1
 dynaTree: 1.2-16
-dynamAedes: 2.2.8
+dynamAedes: 2.2.9
 dynamac: 0.1.12
 dynamic: 1.1.0
 dynamicGraph: 0.2.2.6
@@ -12862,7 +12868,7 @@ epsi: 1.1-0
 epsiwal: 0.1.0
 epuR: '0.1'
 epubr: 0.6.4
-epwshiftr: 0.1.3
+epwshiftr: 0.1.4
 epxToR: 0.4-1
 eq5d: 0.15.2
 eqn2svg: 0.1.0
@@ -13145,7 +13151,7 @@ ezplot: 0.7.13
 ezr: 0.1.5
 ezsim: 0.5.5
 ezsummary: 0.2.1
-f1dataR: 1.5.0
+f1dataR: 1.5.1
 fANCOVA: 0.6-1
 fArma: '3042.81'
 fAssets: '4023.85'
@@ -13303,7 +13309,7 @@ fastcluster: 1.2.6
 fastcmh: 0.2.7
 fastcmprsk: 1.1.1
 fastcox: 1.1.3
-fastcpd: 0.10.3
+fastcpd: 0.12.1
 fastdigest: 0.6-3
 fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
@@ -13693,7 +13699,7 @@ forImage: 0.1.0
 forams: 2.0-6
 forcats: 1.0.0
 forceR: 1.0.20
-forceplate: 1.1-1
+forceplate: 1.1-3
 foreSIGHT: 1.2.0
 foreach: 1.5.2
 forecTheta: 2.6.2
@@ -14304,7 +14310,7 @@ geometry: 0.4.7
 geomnet: 0.3.1
 geomod: 0.1.0
 geomorph: 4.0.7
-geomtextpath: 0.1.2
+geomtextpath: 0.1.3
 geomultistar: 1.2.1
 geonames: '0.999'
 geonapi: '0.7'
@@ -14708,7 +14714,7 @@ glmmboot: 0.6.0
 glmmfields: 0.1.8
 glmmrBase: 0.7.1
 glmmrMCML: 0.2.2
-glmmrOptim: 0.3.3
+glmmrOptim: 0.3.4
 glmmsr: 0.2.3
 glmnet: 4.1-8
 glmnetSE: 0.0.1
@@ -14719,6 +14725,7 @@ glmpath: '0.98'
 glmpathcr: 1.0.10
 glmpca: 0.2.0
 glmperm: 1.0-5
+glmpermu: 0.0.1
 glmtlp: 2.0.1
 glmtoolbox: 0.1.10
 glmtrans: 2.0.0
@@ -15129,7 +15136,7 @@ h2o4gpu: 0.3.3
 h2otools: '0.3'
 h3jsr: 1.3.1
 h3lib: 0.1.3
-h3r: 0.1.0
+h3r: 0.1.1
 h5: 0.9.9
 h5r: 1.4.7
 hBayesDM: 1.2.1
@@ -15208,7 +15215,7 @@ hbsae: '1.2'
 hcandersenr: 0.2.0
 hcc: '0.54'
 hcci: 1.0.0
-hce: 0.5.9
+hce: 0.6.0
 hchinamap: 0.1.0
 hcidata: 0.1.0
 hclust1d: 0.1.1
@@ -15533,6 +15540,7 @@ hwriter: 1.3.2.1
 hwriterPlus: 1.0-3
 hwsdr: '1.1'
 hwwntest: 1.3.2
+hySAINT: 1.2.0
 hySpc.testthat: 0.2.1
 hybridEnsemble: 1.7.9
 hybridHclust: 1.0-5
@@ -16078,7 +16086,7 @@ ipsecr: 1.4.1
 ipsfs: 1.0.0
 iptmnetr: 0.1.8
 iptools: 0.7.2
-ipumsr: 0.7.1
+ipumsr: 0.7.2
 ipw: 1.2.1
 ipwCoxCSV: '1.0'
 ipwErrorY: '2.1'
@@ -16613,7 +16621,7 @@ landsat8: 0.1-10
 landscapeR: '1.2'
 landscapemetrics: 2.1.1
 landscapetools: 0.5.0
-landsepi: 1.3.0
+landsepi: 1.4.0
 langevitour: '0.7'
 languageR: 1.5.0
 languagelayeR: 1.2.4
@@ -17529,7 +17537,7 @@ mcmcplots: 0.4.3
 mcmcr: 0.6.1
 mcmcsae: 0.7.7
 mcmcse: 1.5-0
-mcmsupply: 0.2.2
+mcmsupply: 1.0.1
 mco: '1.16'
 mcompanion: '0.6'
 mcount: 1.0.0
@@ -17552,7 +17560,7 @@ md4r: 0.5.2.0
 mda: 0.5-4
 mdapack: 0.0.2
 mdatools: 0.14.1
-mdbr: 0.1.2
+mdbr: 0.2.1
 mde: 0.3.2
 mded: 0.1-2
 mdendro: 2.2.1
@@ -18225,7 +18233,7 @@ modopt.matlab: 1.0-2
 moduleColor: 1.8-4
 modules: 0.13.0
 modygliani: '1.0'
-moexer: 0.2.0
+moexer: 0.3.0
 moezipfR: 1.0.2
 mogavs: 1.1.0
 mojson: '0.1'
@@ -20158,6 +20166,7 @@ phillydaodata: 1.0.1
 phitest: 1.0-0
 phm: 1.1.2
 phmm: 0.7-14
+phoenix: 1.0.0
 phom: 1.0.3
 phonR: 1.0-7
 phonTools: 0.2-2.2
@@ -22124,7 +22133,7 @@ rgenie: 1.0.0
 rgenius: 0.1.0
 rgenoud: 5.9-0.10
 rgeoapi: 1.1.0
-rgeoboundaries: 1.2.9
+rgeoboundaries: '1.3'
 rgeoda: 0.0.10-4
 rgeolocate: 1.4.2
 rgeomstats: 0.0.1
@@ -22142,7 +22151,7 @@ rgl2gltf: 1.0.3
 rglobi: 0.3.4
 rglplus: '1.1'
 rglwidget: 0.2.1
-rgm: 1.0.1
+rgm: 1.0.3
 rgnoisefilt: 1.1.2
 rgnparser: 0.3.0
 rgoogleads: 0.10.0
@@ -22344,7 +22353,7 @@ rmp: '2.2'
 rmpw: 0.0.5
 rms: 6.8-0
 rms.gof: '1.0'
-rmsb: 1.0-0
+rmsb: 1.1-0
 rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
 rmstcompsens: 0.1.5
@@ -22386,7 +22395,7 @@ robber: 0.2.4
 robcbi: 1.1-4
 robcor: 0.1-6.1
 robcp: 0.3.7
-roben: 0.1.0
+roben: 0.1.1
 robeth: 2.7-8
 robets: '1.4'
 robfilter: 4.1.4
@@ -22570,7 +22579,7 @@ rprintf: 0.2.1
 rprofile: 0.4.0
 rprojroot: 2.0.4
 rprojtree: 1.0.0
-rpsftm: 1.2.8
+rpsftm: 1.2.9
 rpst: 1.0.0
 rpsychi: '0.8'
 rptR: 0.9.22
@@ -23292,7 +23301,7 @@ semdrw: 0.1.0
 semds: 0.9-6
 semfindr: 0.1.6
 semgram: 0.1.0
-semhelpinghands: 0.1.9
+semhelpinghands: 0.1.10
 semiArtificial: 2.4.1
 semicmprskcoxmsm: 0.2.0
 semicontMANOVA: 0.1-8
@@ -23400,6 +23409,7 @@ sfaR: 1.0.0
 sfadv: 1.0.1
 sfarrow: 0.4.1
 sfc: 0.1.0
+sfcentral: 0.1.0
 sfcr: 0.2.1
 sfd: 0.1.0
 sfdct: 0.3.0
@@ -24273,7 +24283,7 @@ spiders: '1.2'
 spikeSlabGAM: 1.1-19
 spikes: '1.1'
 spikeslab: 1.1.6
-spinBayes: 0.2.0
+spinBayes: 0.2.1
 spind: 2.2.1
 spinebil: 0.1.0
 spinifex: 0.3.7.0
@@ -24733,7 +24743,7 @@ sufficientForecasting: 0.1.0
 sugaR: 0.0-5
 sugarbag: 0.1.6
 suggests: 0.1.0
-sugrrants: 0.2.8
+sugrrants: 0.2.9
 sumFREGAT: 1.2.5
 sumR: 0.4.15
 sumSome: 1.1.0
@@ -24891,7 +24901,7 @@ svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: 0.1-1
 svyVGAM: '1.2'
-svydiags: '0.4'
+svydiags: '0.5'
 svylme: 1.5-1
 svyweight: 0.1.0
 swCRTdesign: '4.0'
@@ -25204,7 +25214,7 @@ texor: 1.3.0
 texreg: 1.39.3
 text: 1.2.0
 text.alignment: 0.1.4
-text2map: 0.1.8
+text2map: 0.1.9
 text2sdg: 1.1.1
 text2sdgData: 0.1.1
 text2speech: 1.0.0
@@ -25306,7 +25316,7 @@ tibbrConnector: 1.5.1
 tictactoe: 0.2.2
 tictoc: '1.2'
 tidier: 0.2.0
-tidyAML: 0.0.4
+tidyAML: 0.0.5
 tidyBF: 0.5.1
 tidyBdE: 0.3.5
 tidyCDISC: 0.2.1
@@ -25472,7 +25482,7 @@ tinysnapshot: 0.0.4
 tinyspotifyr: 0.2.2
 tinytable: 0.1.0
 tinytest: 1.4.1
-tinytest2JUnit: 1.0.1
+tinytest2JUnit: 1.0.3
 tinytex: '0.49'
 tinythemes: 0.0.2
 tinytiger: 0.0.8
@@ -26281,7 +26291,7 @@ virtuoso: 0.1.8
 viruslearner: 0.0.1
 virustotal: 0.2.2
 visNetwork: 2.1.2
-visOmopResults: 0.0.1
+visOmopResults: 0.1.1
 visR: 0.4.0
 visStatistics: 0.1.1
 visTree: 0.8.1
@@ -26793,6 +26803,7 @@ xtune: 2.0.0
 xutils: 0.0.2
 xwf: 0.2-3
 xxIRT: 2.1.2
+xxhashlite: 0.2.2
 xyloplot: '2.0'
 xyz: '0.2'
 yCrypticRNAs: 0.99.2
