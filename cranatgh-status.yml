@@ -1375,7 +1375,7 @@ ConvergenceClubs: 2.2.5
 ConvergenceConcepts: 1.2.3
 ConvertPar: '0.1'
 Convolutioner: 0.1.0
-CooRTweet: 2.0.0
+CooRTweet: 2.0.1
 CooccurrenceAffinity: '1.0'
 CoopGame: 0.2.2
 CoordinateCleaner: 3.0.1
@@ -1906,7 +1906,7 @@ DriftBurstHypothesis: 0.4.0.1
 DrillR: '0.1'
 DriveML: 0.1.5
 DrugClust: '0.2'
-DrugExposureDiagnostics: 1.0.3
+DrugExposureDiagnostics: 1.0.4
 DrugSim2DR: 0.1.1
 DrugUtilisation: 0.5.2
 DstarM: 0.4.0
@@ -2767,7 +2767,7 @@ GSED: '2.6'
 GSIF: 0.5-5.1
 GSM: 1.3.2
 GSMX: '1.3'
-GSNA: 0.1.4.1
+GSNA: 0.1.4.2
 GSODR: 3.1.10
 GSSE: '0.1'
 GSSTDA: 0.1.3
@@ -3766,7 +3766,7 @@ LabApplStat: 1.4.4
 LabRS: 0.1.0
 LabourMarketAreas: '3.4'
 LadR: 1.0.6
-LadderFuelsR: 0.0.3
+LadderFuelsR: 0.0.4
 LagSequential: 0.1.1
 Lahman: 11.0-0
 LakeMetabolizer: 1.5.5
@@ -4434,7 +4434,7 @@ MicrobiomeStat: '1.1'
 MicrobiomeSurv: 0.1.0
 Microsoft365R: 2.4.0
 MigClim: 1.6.2
-MigConnectivity: 0.4.5
+MigConnectivity: 0.4.6
 MigrationDetectR: 0.1.1
 MinBAR: 1.1.3
 MinEDfind: 0.1.3
@@ -4832,7 +4832,7 @@ ODB: 1.2.1
 ODEnetwork: 1.3.2
 ODEsensitivity: 1.1.2
 ODMconverter: '2.3'
-ODMeans: 0.2.0
+ODMeans: 0.2.1
 ODRF: 0.0.4
 ODS: 0.2.0
 OData: '0.6'
@@ -5441,7 +5441,7 @@ PoweR: 1.0.7
 Power2Stage: 0.5-4
 PowerNormal: 1.2.0
 PowerSDI: 1.0.0
-PowerTOST: 1.5-4
+PowerTOST: 1.5-6
 PowerUpR: 1.1.0
 PowerVenn: 0.0.1
 PowerfulMaxEigenpair: 0.1.1
@@ -5470,7 +5470,7 @@ PriorGen: '2.0'
 PrivateLR: 1.2-22
 ProAE: 0.2.15
 ProDenICA: '1.1'
-ProFAST: '1.3'
+ProFAST: '1.4'
 ProFit: 1.3.3
 ProFound: 1.14.1
 ProNet: 1.0.0
@@ -5549,7 +5549,7 @@ QFRM: 1.0.1
 QGameTheory: 0.1.2
 QGglmm: 0.7.4
 QHOT: 0.1.0
-QHScrnomo: 3.0.0
+QHScrnomo: 3.0.1
 QI: 0.1.0
 QICD: 1.2.0
 QKPIs: '1.0'
@@ -5571,6 +5571,7 @@ QRank: '1.0'
 QRegVCM: '1.2'
 QSARdata: '1.3'
 QT: '1.3'
+QTE.RD: 1.0.0
 QTL.gCIMapping: '3.4'
 QTL.gCIMapping.GUI: 2.1.1
 QTLEMM: 1.5.2
@@ -7230,7 +7231,7 @@ SesIndexCreatoR: 1.0-2
 SetMethods: '4.0'
 SetRank: 1.1.0
 SetTest: 0.2.0
-Seurat: 5.0.2
+Seurat: 5.0.3
 SeuratObject: 5.0.1
 ShapeChange: '1.5'
 ShapePattern: 3.0.1
@@ -7547,7 +7548,7 @@ SubgrpID: '0.12'
 SubpathwayGMir: '1.0'
 SubpathwayLNCE: '1.0'
 SubpathwayMiner: '3.1'
-SubtypeDrug: 0.1.7
+SubtypeDrug: 0.1.8
 SuessR: 0.1.5
 SummaryLasso: 1.2.1
 Sunclarco: 1.0.0
@@ -8143,7 +8144,7 @@ Vicus: 0.99.0
 VideoComparison: '0.15'
 ViewPipeSteps: 0.1.0
 VineCopula: 2.5.0
-VirtualPop: 1.0.2
+VirtualPop: 2.0.2
 VisCollin: 0.1.2
 VisCov: '1.3'
 VisitorCounts: 1.0.2
@@ -9184,7 +9185,7 @@ bama: 1.3.0
 bamboo: 0.9.25
 bambooHR: 0.1.1
 bamdit: 3.4.0
-bamlss: 1.2-2
+bamlss: 1.2-3
 bamm: 0.4.3
 bamp: 2.1.3
 bams: '1.6'
@@ -9939,7 +9940,7 @@ bs4Dash: 2.3.3
 bs4cards: 0.1.1
 bsTools: 1.0.5
 bsam: 1.1.3
-bsamGP: 1.2.4
+bsamGP: 1.2.5
 bscaling: '1.0'
 bscr: '1.1'
 bscui: 0.1.3
@@ -10127,6 +10128,7 @@ card: 0.1.0
 cardidates: 0.4.9
 cardioModel: '1.4'
 cards: 0.1.0
+cardx: 0.1.0
 care: 1.1.11
 care4cmodel: 1.0.1
 careless: 1.2.2
@@ -10206,7 +10208,7 @@ causaldata: 0.1.3
 causaldrf: 0.4.2
 causaleffect: 1.3.15
 causaloptim: 0.9.8
-causalsens: 0.1.2
+causalsens: 0.1.3
 causalweight: 1.1.0
 caviarpd: 0.3.9
 cba: 0.2-23
@@ -10315,6 +10317,7 @@ cepR: 0.1.2
 cepiigeodist: '0.1'
 cepp: '1.7'
 cepreader: 1.2-2
+cepumd: 2.1.0
 cequre: '1.5'
 ceramic: 0.9.5
 cereal: 0.1.0
@@ -10377,7 +10380,7 @@ charlson: '1.0'
 chartql: 0.1.0
 chatAI4R: 0.2.10
 chatgpt: 0.2.3
-cheapr: 0.2.0
+cheapr: 0.3.0
 cheatR: 1.2.1-1
 cheatmap: 1.0.0
 cheatsheet: 0.1.2
@@ -10490,7 +10493,7 @@ citbcmst: 1.0.4
 citccmst: 1.0.2
 citecorp: 0.3.0
 cities: 0.1.3
-cito: 1.0.2
+cito: '1.1'
 citr: 0.3.2
 citrus: 1.0.2
 ciu: 0.6.0
@@ -10935,7 +10938,7 @@ confcons: 0.3.1
 confidence: 1.1-2
 config: 0.3.2
 configr: 0.3.5
-configural: 0.1.4
+configural: 0.1.5
 confinterpret: 1.0.0
 confintr: 1.0.2
 conflicted: 1.2.0
@@ -11972,7 +11975,7 @@ diffdfs: 0.9.0
 diffeR: 0.0-8
 diffeRenTES: 0.3.2
 diffee: 1.1.0
-diffeqr: 2.0.0
+diffeqr: 2.0.1
 diffman: 0.1.1
 diffmatchpatch: 0.1.0
 diffobj: 0.3.5
@@ -12979,7 +12982,7 @@ etrm: 1.0.1
 etrunct: '0.1'
 etseed: 0.1.0
 etwfe: 0.4.0
-eudract: 0.10.2
+eudract: 1.0.0
 eufmdis.adapt: 0.1.0
 eulerian: '1.0'
 eulerr: 7.0.1
@@ -14582,7 +14585,7 @@ ggrisk: '1.3'
 ggrounded: 0.0.3
 ggroups: 2.1.2
 ggsankeyfier: 0.1.7
-ggsci: 3.0.1
+ggsci: 3.0.2
 ggscidca: 0.1.9
 ggseas: 0.5.4
 ggsector: 1.6.6
@@ -14631,7 +14634,7 @@ ghapps: 1.0.0
 ghclass: 0.2.1
 ghcm: 3.0.1
 ghee: 0.1.0
-ghibli: 0.3.3
+ghibli: 0.3.4
 ghit: 0.2.18
 ghostr: 1.0.0
 ghql: 0.1.0
@@ -15587,7 +15590,7 @@ hyper.fit: 1.1.1
 hyper2: 3.0-0
 hyperSMURF: '2.0'
 hyperSpec: 0.100.0
-hyperbolicDEA: 0.1.1
+hyperbolicDEA: 1.0.0
 hyperbrick: '1.0'
 hypercube: 0.2.1
 hyperdirichlet: 1.5-1
@@ -15837,7 +15840,7 @@ imgw: 0.3.0
 iml: 0.11.1
 immcp: 1.0.3
 immer: 1.4-15
-immunarch: 0.9.0
+immunarch: 0.9.1
 immuneSIM: 0.8.7
 imola: 0.5.0
 imp4p: '1.2'
@@ -16541,7 +16544,7 @@ kokudosuuchi: 1.0.0
 kolmim: '1.0'
 komadown: 0.2.0
 komaletter: 0.5.0
-konfound: 0.4.0
+konfound: 0.5.0
 konya: 0.1.0
 kosel: 0.0.1
 kosis: 0.0.1
@@ -17374,7 +17377,7 @@ maptree: 1.4-8
 mapview: 2.11.2
 maq: 0.3.1
 mar1s: 2.1.1
-maraca: '0.6'
+maraca: '0.7'
 marble: 0.0.2
 march: 3.3.2
 marcher: 0.0-2
@@ -17551,7 +17554,7 @@ mcmcplots: 0.4.3
 mcmcr: 0.6.1
 mcmcsae: 0.7.7
 mcmcse: 1.5-0
-mcmsupply: 1.0.1
+mcmsupply: 1.1.1
 mco: '1.16'
 mcompanion: '0.6'
 mcount: 1.0.0
@@ -18084,7 +18087,7 @@ mlr: 2.19.1
 mlr3: 0.18.0
 mlr3batchmark: 0.1.1
 mlr3benchmark: 0.1.6
-mlr3cluster: 0.1.8
+mlr3cluster: 0.1.9
 mlr3data: 0.7.0
 mlr3db: 0.5.2
 mlr3fairness: 0.3.2
@@ -19796,7 +19799,7 @@ parallelly: 1.37.1
 parallelpam: '1.4'
 param6: 0.2.4
 paramGUI: 2.2.0
-parameters: 0.21.5
+parameters: 0.21.6
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.4
@@ -20227,7 +20230,7 @@ phylogram: 2.1.0
 phyloland: '1.3'
 phylolm: 2.6.2
 phylometrics: 0.0.1
-phylopath: 1.2.0
+phylopath: 1.2.1
 phyloraster: 2.0.1
 phyloregion: 1.0.8
 phylosamp: 1.0.1
@@ -20918,7 +20921,7 @@ pryr: 0.1.6
 ps: 1.7.6
 psBayesborrow: 1.1.0
 psData: 0.2.2
-psSubpathway: 0.1.2
+psSubpathway: 0.1.3
 psbcGroup: '1.7'
 psbcSpeedUp: 2.0.5
 psborrow: 0.2.1
@@ -20955,7 +20958,7 @@ pstest: 0.1.3.900
 psy: '1.2'
 psycCleaning: 0.1.1
 psycModel: 0.5.0
-psych: 2.4.1
+psych: 2.4.3
 psychNET: 0.0.4.1
 psychReport: 3.0.2
 psychTools: 2.4.2
@@ -22398,7 +22401,7 @@ rngtools: 1.5.2
 rngwell19937: 0.6-0
 rnmamod: 0.3.0
 rnn: 1.9.0
-rnndescent: 0.1.3
+rnndescent: 0.1.4
 rnoaa: 1.4.0
 rnpn: 1.2.8.0
 rnr: 0.2.1
@@ -22496,7 +22499,7 @@ rollmatch: 2.0.3
 rollply: 0.5.0
 roloc: 0.1-2
 rolocISCCNBS: '0.1'
-rolog: 0.9.14
+rolog: 0.9.15
 rolr: 1.0.0
 rolypoly: 0.1.0
 romero.gateway: 0.4.4
@@ -23443,6 +23446,7 @@ sftime: 0.2-0
 sftrack: 0.5.4
 sgPLS: '1.8'
 sgRSEA: '0.1'
+sgapi: 1.0.0
 sgat: '0.9'
 sgd: 1.1.2
 sgee: 0.6-0
@@ -23904,7 +23908,7 @@ smbinning: '0.9'
 smcUtils: 0.2.2
 smcfcs: 1.7.1
 smco: '0.1'
-smcryptoR: 0.1.1
+smcryptoR: 0.1.2
 smcure: '2.1'
 smd: 0.6.6
 smd.and.more: 1.3-0
@@ -25079,7 +25083,7 @@ tangram.pipe: 1.1.2
 tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
-tarchetypes: 0.7.12
+tarchetypes: 0.8.0
 tardis: 0.1.4
 targeted: '0.5'
 targets: 1.6.0
@@ -25264,6 +25268,7 @@ textshape: 1.7.3
 textshaping: 0.3.7
 textstem: 0.1.4
 textutils: 0.3-2
+tf: 0.3.2
 tfCox: 0.1.0
 tfNeuralODE: 0.1.0
 tfaddons: 0.10.0
@@ -25333,7 +25338,7 @@ tibbletime: 0.1.8
 tibblify: 0.3.1
 tibbrConnector: 1.5.1
 tictactoe: 0.2.2
-tictoc: '1.2'
+tictoc: 1.2.1
 tidier: 0.2.0
 tidyAML: 0.0.5
 tidyBF: 0.5.1
@@ -25848,7 +25853,7 @@ tsibbledata: 0.4.1
 tsibbletalk: 0.1.0
 tsintermittent: '1.10'
 tslars: '1.0'
-tsmethods: 1.0.0
+tsmethods: 1.0.1
 tsmp: 0.4.15
 tsna: 0.3.5
 tsne: 0.1-3.1
@@ -26559,7 +26564,7 @@ weyl: 0.0-4
 wfe: 1.9.1
 wfg: '0.1'
 wfindr: 0.1.0
-wflo: '1.8'
+wflo: '1.9'
 wgaim: 2.0-1
 wgeesel: '1.5'
 wgsea: '1.8'
