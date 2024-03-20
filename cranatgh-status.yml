@@ -1656,7 +1656,7 @@ DPtree: 1.0.1
 DPw: 1.1.3
 DQAgui: 0.2.3
 DQAstats: 0.3.3
-DR.SC: '3.3'
+DR.SC: '3.4'
 DRAFT: 0.3.0
 DRAYL: '1.0'
 DRDID: 1.0.6
@@ -2636,7 +2636,7 @@ GFisher: 0.2.0
 GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
-GGIR: 3.0-6
+GGIR: 3.0-9
 GGIRread: 0.3.3
 GGMM: 1.0.1
 GGMncv: 2.1.1
@@ -3890,7 +3890,7 @@ MADAM: 1.2.2
 MADPop: 1.1.7
 MAFDash: 0.2.1
 MAGEE: 1.3.2
-MAGMA.R: '1.0'
+MAGMA.R: 1.0.1
 MAGNAMWAR: 2.0.4
 MAINT.Data: 2.7.1
 MAKL: 1.0.1
@@ -4159,7 +4159,7 @@ MOrder: '0.1'
 MPAgenomics: 1.2.3
 MPBoost: 0.1-6
 MPCI: 1.0.7
-MPCR: '1.0'
+MPCR: '1.1'
 MPDiR: '0.2'
 MPGE: 1.0.0
 MPI: 0.1.0
@@ -4200,7 +4200,7 @@ MRsurv: '0.2'
 MRwarping: '1.0'
 MSBStatsData: 0.0.2
 MSBVAR: 0.9-3
-MSCMT: 1.3.9
+MSCMT: 1.4.0
 MSCquartets: 1.3.2
 MSCsimtester: 1.0.0
 MSEtool: 3.7.1
@@ -4476,7 +4476,7 @@ MixedPsy: 1.1.0
 MixedTS: 1.0.4
 MixfMRI: 0.1-3
 MixtureInf: '1.1'
-MixtureMissing: 3.0.1
+MixtureMissing: 3.0.2
 MixtureRegLTIC: 1.0.0
 MixviR: 3.5.0
 MlBayesOpt: 0.3.4
@@ -5180,7 +5180,7 @@ PPtreeregViz: 2.0.5
 PQLseq: 1.2.1
 PRANA: 1.0.4
 PRDA: 1.0.0
-PRECAST: 1.6.4
+PRECAST: 1.6.5
 PREPShiny: 0.1.0
 PRIMAL: 1.0.2
 PRIMEplus: 1.0.16
@@ -5879,7 +5879,7 @@ RInno: 1.0.1
 RInside: 0.2.18
 RItools: 0.3-3
 RJDBC: 0.2-10
-RJDemetra: 0.2.5
+RJDemetra: 0.2.6
 RJSDMX: 3.1-0
 RJSONIO: 1.3-1.9
 RJSONLD: 1.0.3
@@ -7567,7 +7567,7 @@ Superpower: 0.2.0
 SuppDists: 1.1-9.7
 SurfaceReconstruction: 0.1.0
 SurfaceTortoise: 2.0.1
-Surrogate: 3.2.4
+Surrogate: 3.2.5
 SurrogateBMA: '1.0'
 SurrogateOutcome: '1.1'
 SurrogateRegression: 0.6.0.1
@@ -7965,6 +7965,7 @@ TruncatedNormal: 2.2.2
 TrustVDJ: 0.1.0
 Tsphere: '1.0'
 TukeyC: 1.3-42
+TukeyGH77: 0.1.0
 TukeyRegion: 0.1.6.3
 TunePareto: 2.5.3
 TurtleGraphics: 1.0-8
@@ -9635,7 +9636,7 @@ biomod2: 4.2-4
 bionetdata: '1.1'
 biopara: '1.5'
 bioplots: 0.0.1
-bioregion: 1.0.0
+bioregion: 1.1.0
 biorxivr: 1.0.2
 bios2mds: 1.2.3
 biosampleR: 1.0.4
@@ -9832,7 +9833,7 @@ bootstrapFP: 0.4.6
 boottol: '2.0'
 bootwar: 0.2.1
 bor: 0.1.0
-boral: '2.0'
+boral: 2.0.1
 borrowr: 0.2.0
 boss: '2.1'
 bossMaps: 0.1.0
@@ -9949,7 +9950,7 @@ bsem: 1.0.0
 bsgof: 0.23.8
 bshazard: '1.1'
 bsicons: 0.1.2
-bsitar: 0.1.1
+bsitar: 0.2.1
 bskyr: 0.1.2
 bslib: 0.6.1
 bsml: 1.5-1
@@ -11670,7 +11671,7 @@ dbnR: 0.7.8
 dbnlearn: 0.1.0
 dbparser: 2.0.2
 dbplot: 0.3.3
-dbplyr: 2.4.0
+dbplyr: 2.5.0
 dbscan: 1.1-12
 dbstats: 2.0.2
 dbx: 0.3.1
@@ -11806,7 +11807,7 @@ demodelr: 1.0.1
 demogR: 0.6.0
 demography: '2.0'
 demu: 0.3.0
-dendRoAnalyst: 0.1.4
+dendRoAnalyst: 0.1.5
 dendextend: 1.17.1
 dendextendRcpp: 0.6.1
 dendroExtra: 0.0.2
@@ -12297,7 +12298,7 @@ dropR: '0.1'
 dropout: 2.1.1
 droptest: 0.1.3
 drord: 1.0.1
-drought: '1.1'
+drought: '1.2'
 drpop: 0.0.3
 drsmooth: 1.9.0
 drtmle: 1.1.2
@@ -12470,7 +12471,7 @@ earthtide: 0.1.2
 earthtones: 0.1.1
 easi: '0.2'
 easingr: 1.0.1
-easy.utils: 0.0.3
+easy.utils: 0.0.4
 easyAHP: 0.1.1
 easyCODA: 0.34.3
 easyDes: '6.0'
@@ -13323,7 +13324,7 @@ fastcluster: 1.2.6
 fastcmh: 0.2.7
 fastcmprsk: 1.1.1
 fastcox: 1.1.3
-fastcpd: 0.12.1
+fastcpd: 0.12.2
 fastdigest: 0.6-3
 fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
@@ -13561,7 +13562,7 @@ fitDRC: 1.1.1
 fitHeavyTail: 0.2.0
 fitODBOD: 1.5.1
 fitODBODRshiny: 1.0.2
-fitPS: 1.0.0
+fitPS: 1.0.1
 fitPoly: 3.0.0
 fitTetra: '1.0'
 fitbitScraper: 0.1.8
@@ -14025,7 +14026,7 @@ gWidgetsWWW: 0.0-23
 gWidgetsrJava: 0.0-19
 gWidgetstcltk: 0.0-55.1
 gadget2: 2.3.11
-gadget3: 0.10-1
+gadget3: 0.11-1
 gafit: 0.5.1
 gaiah: 0.0.5
 gainML: 0.1.0
@@ -14105,7 +14106,7 @@ gatepoints: 0.1.5
 gatoRs: 1.0.1
 gauseR: '1.2'
 gaussDiff: '1.1'
-gausscov: 1.1.1
+gausscov: 1.1.2
 gaussfacts: 0.0.2
 gaussplotR: 0.2.5
 gausspred: 1.0-0
@@ -14388,7 +14389,7 @@ getmstatistic: 0.2.2
 getopt: 1.20.4
 getpublist: 0.1.0
 gets: '0.37'
-getspanel: 0.1.5
+getspanel: 0.2.0
 getspres: 0.2.0
 gettingtothebottom: '3.2'
 gettz: 0.0.5
@@ -15747,7 +15748,7 @@ icsw: 1.0.0
 idar: '1.5'
 idarps: 0.0.3
 idbg: '1.0'
-idbr: '1.0'
+idbr: '1.2'
 idcnrba: 1.1.0
 idealstan: 0.7.2
 ideamdb: 0.0.9
@@ -16213,7 +16214,7 @@ ivivc: 0.2.2
 ivlewbel: '1.1'
 ivmodel: 1.9.1
 ivmte: 1.4.0
-ivo.table: '0.4'
+ivo.table: 0.4.1
 ivpack: '1.2'
 ivpanel: '1.0'
 ivprobit: '1.1'
@@ -16246,7 +16247,7 @@ jadeLizardOptions: 1.0.1
 jage: 0.1.0
 jaggR: 0.1.1
 jagsUI: 1.6.2
-jagshelper: 0.2.1
+jagshelper: 0.2.2
 jagstargets: 1.1.0
 jalcal: 0.1.0
 james.analysis: 1.0.1
@@ -17156,7 +17157,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.2.3
+lrstat: 0.2.4
 lsa: 0.73.3
 lsasim: 2.1.4
 lsbclust: '1.1'
@@ -17479,7 +17480,7 @@ maxadjAUC: 0.1.0
 maxcombo: '1.0'
 maxent: 1.3.3.1
 maximin: 1.0-5
-maxlike: 0.1-10
+maxlike: 0.1-11
 maxmatching: 0.1.0
 maxnet: 0.1.4
 maxnodf: 1.0.0
@@ -17796,7 +17797,7 @@ mgc: 2.0.2
 mgcViz: 0.1.11
 mgcv: 1.9-1
 mgee2: '0.5'
-mggd: 1.1.0
+mggd: 1.2.3
 mglR: 0.1.0
 mglasso: 0.1.2
 mglmn: 0.1.0
@@ -18857,7 +18858,7 @@ netdep: 0.1.0
 netdiffuseR: 1.22.6
 netgen: 1.3.2
 netgsa: 4.0.5
-netgwas: 1.14.2
+netgwas: 1.14.3
 netie: '1.0'
 netjack: 1.2.0
 netmap: 0.1.4
@@ -19797,6 +19798,7 @@ parallelSVM: 0.1-9
 parallelize.dynamic: 0.9-1
 parallelly: 1.37.1
 parallelpam: '1.4'
+param2moment: 0.1.0
 param6: 0.2.4
 paramGUI: 2.2.0
 parameters: 0.21.6
@@ -19973,7 +19975,7 @@ pct: 0.9.9
 pctax: 0.1.0
 pcts: 0.15.7
 pcurve: 0.6-4
-pcutils: 0.2.3
+pcutils: 0.2.5
 pcv: 1.1.0
 pdR: 1.9.1
 pdSpecEst: 1.2.4
@@ -20231,7 +20233,7 @@ phyloland: '1.3'
 phylolm: 2.6.2
 phylometrics: 0.0.1
 phylopath: 1.2.1
-phyloraster: 2.0.1
+phyloraster: 2.1.0
 phyloregion: 1.0.8
 phylosamp: 1.0.1
 phylosem: 1.1.3
@@ -20961,7 +20963,7 @@ psycModel: 0.5.0
 psych: 2.4.3
 psychNET: 0.0.4.1
 psychReport: 3.0.2
-psychTools: 2.4.2
+psychTools: 2.4.3
 psychmeta: 2.6.5
 psychmetadata: 1.0.0
 psycho: 0.6.1
@@ -21218,7 +21220,7 @@ quanteda.textmodels: 0.9.6
 quanteda.textplots: 0.94.4
 quanteda.textstats: 0.96.4
 quantification: 0.2.0
-quantileDA: '1.1'
+quantileDA: '1.2'
 quantilogram: 2.2.1
 quantities: 0.2.1
 quantkriging: 0.1.0
@@ -21679,7 +21681,7 @@ rccola: 1.0.2
 rcdd: '1.6'
 rcdk: 3.8.1
 rcdklibs: '2.9'
-rcens: 0.1.0
+rcens: 0.1.1
 rchallenge: 1.3.4
 rchemo: 0.1-1
 rcheology: 4.3.3.0
@@ -22015,7 +22017,7 @@ reportROC: '3.6'
 reportReg: 0.3.0
 reportRmd: 0.1.0
 reportRx: '1.0'
-reporter: 1.4.3
+reporter: 1.4.4
 reportfactory: 0.4.0
 reportr: 1.3.0
 reports: 0.1.4
@@ -22285,7 +22287,7 @@ rjade: 0.1.1
 rjags: 4-15
 rjazz: 0.1.7
 rjdmarkdown: 0.2.2
-rjdqa: 0.1.3
+rjdqa: 0.1.4
 rje: 1.12.1
 rjmcmc: 0.4.5
 rjpdmp: 2.0.0
@@ -22614,6 +22616,7 @@ rqPen: 3.2.2
 rqdatatable: 1.3.3
 rqlm: 1.2-1
 rqmcmb2: 1.0.2-1
+rqti: 0.1.0
 rquery: 1.4.99
 rr: 1.4.2
 rr2: 1.1.1
@@ -24437,6 +24440,7 @@ ssanv: '1.1'
 ssc: 2.1-0
 sscor: '0.2'
 ssd: '0.3'
+ssd4mosaic: 1.0.1
 ssddata: 1.0.0
 ssdtools: 1.0.6
 sse: 0.7-17
@@ -24545,7 +24549,7 @@ statesRcontiguous: 0.1.0
 statespacer: 0.5.0
 statfi: 0.9.8
 statgenGWAS: 1.0.9
-statgenGxE: 1.0.6
+statgenGxE: 1.0.7
 statgenHTP: 1.0.6.1
 statgenIBD: 1.0.7
 statgenMPP: 1.0.2
@@ -24646,7 +24650,7 @@ stodom: 0.0.1
 stoichcalc: 1.1-5
 stokes: 1.2-0
 stopdetection: 0.1.2
-stopp: 0.1.1
+stopp: 0.2.0
 stoppingrule: 0.4.0
 stops: 1.0-1
 stopwords: '2.3'
@@ -24871,8 +24875,8 @@ survivalMPL: 0.2-3
 survivalMPLdc: 0.1.1
 survivalREC: '1.1'
 survivalROC: 1.0.3.1
-survivalSL: '0.93'
-survivalmodels: 0.1.13
+survivalSL: '0.94'
+survivalmodels: 0.1.191
 survivalsvm: 0.0.5
 survivoR: 2.3.1
 survminer: 0.4.9
@@ -25414,6 +25418,7 @@ tidyquant: 1.0.7
 tidyquery: 0.2.4
 tidyqwi: 0.1.2
 tidyr: 1.3.1
+tidyrates: 0.0.1
 tidyrgee: 0.1.0
 tidyrules: 0.1.5
 tidysdm: 0.9.4
@@ -26245,7 +26250,7 @@ vectorbitops: 1.1.2
 vectorwavelet: 0.1.0
 vegalite: 0.6.1
 vegan: 2.6-4
-vegan3d: 1.2-0
+vegan3d: 1.3-0
 vegawidget: 0.5.0
 vegclust: 2.0.2
 vegdata: 0.9.12
@@ -26556,7 +26561,7 @@ weird: 1.0.2
 weirs: '0.25'
 welchADF: 0.3.2
 wellknown: 0.7.4
-welo: 0.1.3
+welo: 0.1.4
 wesanderson: 0.3.7
 wethepeople: 0.6.1
 wevid: 0.6.2
