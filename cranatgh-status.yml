@@ -1470,6 +1470,7 @@ CustosAscensor: 0.1.0
 CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
+CvmortalityMult: 0.0.1
 Cyclops: 3.4.0
 CytOpT: 0.9.4
 CytoSimplex: 0.1.1
@@ -3087,6 +3088,7 @@ HTRX: 1.2.4
 HTSCluster: 2.0.11
 HTSDiff: 1.0.5
 HTSSIP: 1.4.1
+HTSeed: 0.1.0
 HTT: 0.1.2
 HUM: '2.0'
 HURDAT: 0.2.3.2
@@ -3545,6 +3547,7 @@ KCSKNNShiny: 0.1.0
 KCSNBShiny: 0.1.0
 KDViz: 1.3.1
 KENDL: '1.1'
+KEPTED: 0.1.0
 KERE: 1.0.0
 KFAS: 1.5.1
 KFKSDS: '1.6'
@@ -3754,7 +3757,7 @@ LSVAR: '1.2'
 LSWPlib: 0.1.0
 LSX: 1.4.0
 LTAR: 0.1.0
-LTASR: 0.1.2
+LTASR: 0.1.3
 LTFHPlus: 2.1.1
 LTPDvar: 1.2.1
 LTR: 1.0.0
@@ -4923,6 +4926,7 @@ OnAge: 1.0.1
 OnboardClient: 1.0.0
 OncoBayes2: 0.8-9
 OncoSubtype: 1.0.0
+Oncofilterfast: 1.0.0
 Oncotree: 0.3.5
 One4All: '0.4'
 OneArm2stage: 1.2.1
@@ -7203,7 +7207,7 @@ Sejong: '0.01'
 SeleMix: 1.0.2
 Select: '1.4'
 SelectBoost: 2.2.2
-SelectionBias: 1.0.0
+SelectionBias: 2.0.0
 SelvarMix: 1.2.1
 SemNeT: 1.4.4
 SemNetCleaner: 1.3.4
@@ -10468,7 +10472,7 @@ chplot: 1.3.1
 christmas: 1.3.0
 chromConverter: 0.2.1
 chromatographR: 0.4.4
-chromer: '0.6'
+chromer: '0.8'
 chromoMap: 4.1.1
 chromoR: '1.0'
 chromote: 0.2.0
@@ -11549,6 +11553,7 @@ dail: 1.5.2
 daiquiri: 1.1.1
 dalmatian: 1.0.0
 daltoolbox: 1.0.747
+daltoolboxdp: 1.0.767
 dam: 0.0.1
 damAOI: '0.0'
 dampack: 1.0.1
@@ -14686,7 +14691,7 @@ giniVarCI: 0.0.1-3
 ginormal: 0.0.2
 giphyr: 0.2.0
 gips: 1.2.1
-giscoR: 0.4.1
+giscoR: 0.4.2
 gistr: 0.9.0
 git2r: 0.33.0
 git2rdata: 0.4.0
@@ -14985,10 +14990,10 @@ grasp: 2.5-7
 grasper: 0.4-4
 grateful: 0.2.4
 grates: 1.2.0
-gratia: 0.8.2
+gratia: 0.9.0
 graticule: 0.4.0
 gratis: 1.0.5
-grattan: 2024.0.0
+grattan: 2024.1.1
 grattanInflators: 0.5.1
 gravitas: 0.1.3
 gravity: '1.1'
@@ -15596,6 +15601,7 @@ hydflood: 0.5.7
 hydra: 0.1.0
 hydraulics: 0.7.0
 hydroApps: 0.1-1
+hydroDCindex: 1.0.0
 hydroEvents: '0.11'
 hydroGOF: 0.5-4
 hydroMOPSO: 0.1-3
@@ -16195,7 +16201,7 @@ isoreader: 1.3.2
 isotone: 1.1-1
 isotonic.pen: '1.0'
 isotracer: 1.1.5
-isotree: 0.5.24-3
+isotree: 0.6.1-1
 ispd: '0.2'
 ispdata: 1.1.2
 isqg: '1.4'
@@ -16365,7 +16371,7 @@ jsTree: '1.2'
 jsTreeR: 2.5.0
 jshintr: 0.1.0
 jskm: 0.5.3
-jsmodule: 1.5.1
+jsmodule: 1.5.2
 json2aRgs: 0.3.0
 json64: 0.1.3
 jsonNormalize: 1.0.0
@@ -16377,7 +16383,7 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.3.2
 jsr223: 0.3.4
-jstable: 1.1.7
+jstable: 1.1.9
 jstor: 0.3.11
 jtGWAS: 1.5.1
 jtdm: 0.1-2
@@ -18387,6 +18393,7 @@ mpcv: '1.1'
 mpe: '1.0'
 mph: '0.9'
 mpindex: 0.2.1
+mpitbR: 1.0.0
 mplot: 1.0.6
 mplusParallel.automation: 0.0.1.1
 mpm: 1.0-23
@@ -20384,6 +20391,7 @@ planscorer: 0.0.1
 plantTracker: 1.1.0
 plantecophys: 1.4-6
 plantecowrap: 1.0.4
+plantphysioR: 1.0.0
 plaqr: '2.0'
 plasma: 1.0.0
 plasso: 0.1.2
@@ -21544,6 +21552,7 @@ randgeo: 0.3.0
 randnet: '0.7'
 rando: 0.2.0
 random: 0.2.6
+random.cdisc.data: 0.3.15
 random.polychor.pa: 1.1.4-5
 randomForest: 4.7-1.1
 randomForest.ddR: 0.1.2
@@ -22859,7 +22868,7 @@ rutledge: 0.1.0
 ruv: 0.9.7.1
 rv: 2.3.5
 rvHPDT: '4.0'
-rvMF: 0.0.8
+rvMF: 0.1.0
 rvTDT: '1.0'
 rvalues: 0.7.1
 rvcheck: 0.2.1
@@ -23422,7 +23431,7 @@ seqRFLP: 1.0.1
 seqest: 1.0.1
 seqgendiff: 1.2.3
 seqhandbook: 0.1.1
-seqimpute: '1.8'
+seqimpute: 2.0.0
 seqinr: 4.2-36
 seqmagick: 0.1.7
 seqminer: '9.4'
@@ -26268,7 +26277,7 @@ vcd: 1.4-12
 vcdExtra: 0.8-5
 vcf2geno: '2.3'
 vcfR: 1.15.0
-vcfppR: 0.4.0
+vcfppR: 0.4.3
 vcmeta: 1.3.0
 vcov: 0.0.1
 vcpen: '1.9'
