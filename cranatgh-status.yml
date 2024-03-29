@@ -1318,6 +1318,7 @@ CommunityCorrelogram: '1.0'
 Comp2ROC: 1.1.4
 CompAREdesign: 2.3.1
 CompDist: '1.0'
+CompExpDes: 1.0.0
 CompGLM: '2.0'
 CompGR: 0.1.3
 CompLognormal: '3.0'
@@ -2117,7 +2118,7 @@ EffectTreat: '1.1'
 EffectiveDose: 1.0-7
 EffectsRelBaseline: '0.5'
 EfficientMaxEigenpair: 0.1.4
-EgoCor: 1.1.0
+EgoCor: 1.2.0
 EigenR: 1.2.3
 ElastH: 0.3.1
 EleChemr: 1.2.0
@@ -2224,7 +2225,7 @@ ExPanDaR: 0.5.3
 ExPosition: 2.8.23
 Exact: '3.2'
 ExactCIdiff: '2.1'
-ExactCIone: 1.0.0
+ExactCIone: 1.0.5
 ExactMed: 0.3.0
 ExactMultinom: 0.1.2
 ExactNumCI: 1.0.0
@@ -2406,7 +2407,7 @@ Fahrmeir: 2016.5.31
 FairMclus: 2.2.1
 FamEvent: '3.0'
 Familias: 2.6.1
-Families: 2.0.0
+Families: 2.0.1
 FamilyRank: '1.0'
 FarmSelect: 1.0.2
 FarmTest: 2.2.0
@@ -2440,7 +2441,7 @@ FertNet: 0.1.2
 Fgmutils: 0.9.5
 FiRE: 1.0.1
 FiSh: '1.1'
-FielDHub: 1.3.4
+FielDHub: 1.3.7
 FieldSim: 3.2.1
 FieldSimR: 1.2.0
 FinAna: 0.1.2
@@ -2644,7 +2645,7 @@ GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
 GGIR: 3.0-9
-GGIRread: 0.3.3
+GGIRread: 1.0.0
 GGMM: 1.0.1
 GGMncv: 2.1.1
 GGMnonreg: 1.0.0
@@ -2723,7 +2724,7 @@ GPFDA: 3.1.3
 GPGame: 1.2.0
 GPIC: 0.1.0
 GPL2025: 1.0.1
-GPLTR: '1.4'
+GPLTR: '1.5'
 GPM: 3.0.1
 GPP: '0.1'
 GPPFourier: '2.1'
@@ -2775,7 +2776,7 @@ GSIF: 0.5-5.1
 GSM: 1.3.2
 GSMX: '1.3'
 GSNA: 0.1.4.2
-GSODR: 3.1.10
+GSODR: 4.0.0
 GSSE: '0.1'
 GSSTDA: 0.1.3
 GSelection: 0.1.0
@@ -3276,6 +3277,7 @@ IIS: '1.0'
 IIVpredictor: 0.1.0
 ILS: '0.3'
 ILSE: 1.1.7
+ILSM: 1.0.1
 IM: '1.0'
 IMAGE: '1.0'
 IMD: 1.2.2
@@ -4648,7 +4650,7 @@ NFLSimulatoR: 0.4.0
 NFP: 0.99.4
 NFWdist: 0.1.0
 NGBVS: 0.3.0
-NGCHM: 1.0.1
+NGCHM: 1.0.2
 NGLVieweR: 1.3.1
 NGSSEML: '2.2'
 NHANES: 2.1.0
@@ -5007,7 +5009,7 @@ PACE: 0.1-0
 PACLasso: 1.0.0
 PACVB: 1.1.1
 PACVr: 1.0.8
-PAFit: 1.2.5
+PAFit: 1.2.10
 PAFway: 0.1.3
 PAGFL: 1.0.1
 PAGI: '1.0'
@@ -5312,7 +5314,7 @@ PartialNetwork: 1.0.3
 Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 PathSelectMP: '1.1'
-PatientProfiles: 0.6.2
+PatientProfiles: 0.7.0
 PatternClass: 2.0.1
 Patterns: '1.4'
 PdPDB: 2.0.1
@@ -5789,7 +5791,7 @@ REDCapCAST: 24.2.1
 REDCapDM: 0.9.8
 REDCapExporter: 0.2.2
 REDCapR: 1.1.0
-REDCapTidieR: 1.0.0
+REDCapTidieR: 1.1.0
 REDI: 1.0.0
 REEMtree: 0.90.5
 REFA: 0.1.0
@@ -7173,7 +7175,7 @@ ScaleSpikeSlab: '1.0'
 Scalelink: '1.0'
 ScatterDensity: 0.0.4
 SchemaOnRead: 1.0.2
-SchoolDataIT: 0.1.0
+SchoolDataIT: 0.1.1
 SciViews: 0.9-13.1
 SciencePo: 0.3.6.12
 SciencesPo: 1.4.1
@@ -7605,7 +7607,7 @@ SurvSparse: '0.1'
 SurvTrunc: 0.2.0
 SurveyCC: 0.1.1
 Survgini: '1.0'
-SurviMChd: 0.1.1
+SurviMChd: 0.1.2
 SurvivalClusteringTree: '1.0'
 SurvivalPath: 1.3.2
 SurvivalTests: '1.0'
@@ -8278,7 +8280,7 @@ WienR: 0.3-15
 WikiSocio: 0.7.0
 WikidataQueryServiceR: 1.0.0
 WikidataR: 2.3.3
-WikipediR: 1.5.0
+WikipediR: 1.7.0
 WikipediaR: '1.1'
 WilcoxCV: 1.0-2
 WinRatio: '1.0'
@@ -8683,7 +8685,7 @@ allan: '1.01'
 allanvar: '1.1'
 allcontributors: 0.1.1
 alleHap: 0.9.9
-allelematch: 2.5.3
+allelematch: 2.5.4
 allelic: '0.1'
 allestimates: 0.2.3
 allhomes: 0.3.0
@@ -9328,7 +9330,7 @@ bayesmix: 0.7-6
 bayesmlogit: 1.0.1
 bayesmodels: 0.1.1
 bayesmove: 0.2.1
-bayesnec: 2.1.1.0
+bayesnec: 2.1.2.0
 bayespack: 1.0-2
 bayesplay: 0.9.3
 bayesplot: 1.11.1
@@ -9536,7 +9538,7 @@ bigRR: 1.3-10
 bigReg: 0.1.5
 bigSurvSGD: 0.0.1
 bigalgebra: 1.1.1
-biganalytics: 1.1.21
+biganalytics: 1.1.22
 bigassertr: 0.1.6
 bigchess: 1.9.1
 bigdata: '0.1'
@@ -9973,7 +9975,7 @@ bshazard: '1.1'
 bsicons: 0.1.2
 bsitar: 0.2.1
 bskyr: 0.1.2
-bslib: 0.6.2
+bslib: 0.7.0
 bsml: 1.5-1
 bsnsing: 1.0.1
 bspcov: 1.0.0
@@ -10014,7 +10016,7 @@ bunchr: 1.2.0
 bundesbank: 0.1-11
 bundesligR: 0.1.0
 bundle: 0.1.1
-bupaR: 0.5.3
+bupaR: 0.5.4
 bupaverse: 0.1.0
 burnr: 0.6.1
 bursa: 0.1.0
@@ -10120,7 +10122,7 @@ cancerGI: 1.0.1
 cancerTiming: 3.1.8
 cancerscreening: 1.0.2
 candisc: 0.8-6
-canprot: 1.1.2
+canprot: 2.0.0
 cansim: 0.3.16
 canvas: 0.2-0
 canvasXpress: 1.46.9-1
@@ -11245,7 +11247,7 @@ crackR: 0.3-9
 cragg: 0.0.1
 cramer: 0.9-4
 crandatapkgs: 0.1.8
-crandep: 0.3.6
+crandep: 0.3.7
 crank: 1.1-2
 cranlike: 1.0.2
 cranlogs: 2.1.1
@@ -11480,7 +11482,7 @@ cvsem: 1.0.0
 cvwrapr: '1.0'
 cvxbiclustr: 0.0.1
 cvxclustr: 1.1.1
-cwbtools: 0.4.0
+cwbtools: 0.4.1
 cwhmisc: '6.6'
 cwm: 0.0.3
 cwot: 0.1.0
@@ -11715,7 +11717,7 @@ dclust: 0.1.0
 dcm2: 1.0.2
 dcminfo: 0.1.7
 dcmle: 0.4-1
-dcmodify: 0.8.0
+dcmodify: 0.9.0
 dcmodifydb: 0.3.1
 dcmr: '1.0'
 dcorVS: '1.0'
@@ -12467,7 +12469,7 @@ eBsc: '4.17'
 eCAR: 0.1.2
 eCV: 0.0.2
 eChem: 1.0.0
-eDITH: 0.2.0
+eDITH: 0.3.0
 eDMA: 1.5-3
 eFRED: 0.1.0
 eGST: 1.0.0
@@ -13012,7 +13014,7 @@ etwfe: 0.4.0
 eudract: 1.0.0
 eufmdis.adapt: 0.1.0
 eulerian: '1.0'
-eulerr: 7.0.1
+eulerr: 7.0.2
 eummd: 0.1.4
 eunis.habitats: 0.1.0
 eurlex: 0.4.7
@@ -13105,7 +13107,7 @@ exdqlm: 0.1.3
 executablePackeR: 0.0.2
 exif: 0.1.0
 exifr: 0.3.2
-exiftoolr: 0.2.3
+exiftoolr: 0.2.4
 exoplanets: 0.2.2
 exp2flux: '0.1'
 expDB: 0.1.0
@@ -13308,7 +13310,7 @@ farver: 2.1.1
 fasano.franceschini.test: 2.2.2
 fasi: 1.0.0
 fasjem: 1.1.2
-fasstr: 0.5.1
+fasstr: 0.5.2
 fast: '0.64'
 fastAFT: '1.4'
 fastAdaboost: 1.0.0
@@ -13336,7 +13338,7 @@ fastRG: 0.3.2
 fastRhockey: 0.4.0
 fastSOM: 1.0.1
 fastStat: '1.4'
-fastTS: 1.0.0
+fastTS: 1.0.1
 fastText: 1.0.4
 fastTextR: 2.1.0
 fastTopics: 0.6-163
@@ -13479,7 +13481,7 @@ fetchR: 2.1-1
 fetchSalesforceR: 0.1.0
 ff: 4.0.12
 ffbase: 0.13.3
-fflr: 2.2.3
+fflr: 2.2.4
 ffmanova: 1.1.2
 ffmetadata: 1.0.0
 ffp: 0.2.2
@@ -13987,7 +13989,7 @@ futile.paradigm: 2.0.4
 futility: '0.4'
 future: 1.33.2
 future.BatchJobs: 0.17.0
-future.apply: 1.11.1
+future.apply: 1.11.2
 future.batchtools: 0.12.1
 future.callr: 0.8.2
 future.tests: 0.7.0
@@ -14036,7 +14038,7 @@ gRapHD: 0.2.6
 gRapfa: '1.0'
 gRaven: 1.1.8
 gRbase: 2.0.1
-gRc: 0.4.6
+gRc: 0.5.0
 gRcox: '0.1'
 gRim: 0.3.0
 gSEM: 0.4.3.4
@@ -14084,7 +14086,7 @@ gamesGA: 1.1.3.7
 gamesNws: '0.5'
 gamlr: 1.13-8
 gamlss: 5.4-22
-gamlss.add: 5.1-12
+gamlss.add: 5.1-13
 gamlss.cens: 5.0-7
 gamlss.countKinf: 3.5.1
 gamlss.data: 6.0-6
@@ -14107,6 +14109,7 @@ gamma: 1.0.4
 gamreg: '0.3'
 gamsel: 1.8-2
 gamselBayes: 2.0-1
+gamstransfer: 3.0.1
 ganDataModel: 1.1.6
 ganGenerativeData: 1.5.7
 ganalytics: 0.10.7
@@ -14335,7 +14338,7 @@ geofd: '2.0'
 geofi: 1.0.15
 geogenr: 2.0.1
 geogrid: 0.1.2
-geohabnet: 2.0.0
+geohabnet: 2.1.0
 geohash: 0.3.0
 geohashTools: 0.3.3
 geojson: 0.3.5
@@ -14470,12 +14473,12 @@ ggalluvial: 0.12.5
 ggalt: 0.4.0
 ggamma: 1.0.1
 gganimate: 1.0.9
-ggarchery: 0.4.2
+ggarchery: 0.4.3
 ggasym: 0.1.6
 ggautomap: 0.3.2
 ggbeeswarm: 0.7.2
 ggbiplot: 0.6.2
-ggblanket: 6.0.0
+ggblanket: 7.0.0
 ggblend: 0.1.0
 ggborderline: 0.2.0
 ggbrace: 0.1.1
@@ -14660,7 +14663,7 @@ ggvis: 0.4.9
 ggvoronoi: 0.8.5
 ggwordcloud: 0.6.1
 ggx: 0.1.1
-gh: 1.4.0
+gh: 1.4.1
 ghapps: 1.0.0
 ghclass: 0.3.0
 ghcm: 3.0.1
@@ -14913,7 +14916,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.4.3
-gpboost: 1.3.0
+gpboost: 1.3.1
 gpclib: 1.5-6
 gpg: 1.2.9
 gphmm: 0.99.0
@@ -15684,7 +15687,7 @@ iMRMC: 1.2.5
 iMediate: 0.5.5
 iMessager: '1.0'
 iNEXT: 3.0.1
-iNEXT.3D: 1.0.3
+iNEXT.3D: 1.0.4
 iNEXT.beta3D: 1.0.1
 iNOTE: '1.0'
 iNZightMR: 2.3.0
@@ -15807,7 +15810,7 @@ ieeeround: 0.2-0
 iemisc: 1.0.4
 iemiscdata: 1.0.1
 iemisctext: 0.9.99
-ieugwasr: 0.2.0
+ieugwasr: 0.2.2
 ifCNVR: 0.1.0
 ifa: '7.0'
 ifaTools: '0.23'
@@ -16346,7 +16349,7 @@ jointPm: 2.3.2
 jointVIP: 0.1.2
 jointseg: 1.0.2
 jomo: 2.7-6
-jordan: 1.0-1
+jordan: 1.0-5
 josaplay: 0.1.3
 jose: 1.2.0
 jot: 0.0.4
@@ -17006,7 +17009,7 @@ lmbc: 0.9.1
 lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
-lme4: 1.1-35.1
+lme4: 1.1-35.2
 lmeInfo: 0.3.2
 lmeNB: '1.3'
 lmeNBBayes: 1.3.1
@@ -17170,7 +17173,7 @@ lpSolveAPI: 5.5.2.0-17.11
 lpacf: 1.0.1
 lpbrim: 1.0.0
 lpc: 1.0.2.1
-lpcde: 0.1.2
+lpcde: 0.1.3
 lpda: 1.0.1
 lpdensity: '2.4'
 lphom: 0.3.5-5
@@ -17456,7 +17459,7 @@ maskRangeR: '1.1'
 mason: 0.3.0
 masscor: 0.0.7.1
 massiveGST: 1.2.3
-mastif: '2.2'
+mastif: '2.3'
 matR: 0.9.1
 matRiks: 0.1.3
 matahari: 0.1.3
@@ -17749,7 +17752,7 @@ metadat: 1.2-0
 metadynminer: 0.1.7
 metadynminer3d: 0.0.2
 metafolio: 0.1.2
-metafor: 4.4-0
+metafor: 4.6-0
 metaforest: 0.1.4
 metafuse: 2.0-1
 metagam: 0.4.0
@@ -17943,7 +17946,7 @@ mineSweepR: 0.1.1
 mined: 1.0-3
 minerva: 1.5.10
 minet: 3.6.0
-miniCRAN: 0.2.16
+miniCRAN: 0.3.0
 miniGUI: 0.8-1
 miniMeta: 0.3.1
 miniPCH: 0.3.2
@@ -18327,7 +18330,7 @@ moodlequizR: 2.1.0
 moonBook: 0.3.1
 moonsun: 0.1.3
 moose: 0.0.1
-mop: 0.1.1
+mop: 0.1.2
 mopa: 1.0.1
 mopac: 0.1.0
 mopsocd: 0.5.1
@@ -18632,6 +18635,7 @@ multitool: 0.1.4
 multiv: 1.1-6
 multivar: 1.1.0
 multivariance: 2.4.1
+multivarious: 0.2.0
 multivator: 1.1-11
 multiverse: 0.6.1
 multiversion: 0.3.6
@@ -19207,7 +19211,7 @@ npcure: 0.1-5
 npcurePK: 1.0-2
 npde: '3.5'
 nph: '2.1'
-nphPower: 1.0.0
+nphPower: 1.1.0
 nphRCT: 0.1.0
 npi: 0.2.0
 nplplot: '4.7'
@@ -19465,7 +19469,7 @@ oops: 0.2.0
 oosp: 0.3.3
 oosse: 1.0.11
 oottest: 0.9.1
-opGMMassessment: 0.3.5
+opGMMassessment: 0.3.6
 opa: 0.8.3
 opalr: 3.4.1
 opart: 2019.1.0
@@ -20091,7 +20095,7 @@ penfa: 0.1.1
 penppml: 0.2.3
 pense: 2.2.0
 pensim: 1.3.6
-pensynth: 0.3.0
+pensynth: 0.5.1
 peopleanalytics: 0.1.0
 peopleanalyticsdata: 0.2.1
 pepe: 1.2.0
@@ -20466,7 +20470,7 @@ plsRglm: 1.5.1
 plsVarSel: 0.9.10
 plsdepot: 0.2.0
 plsdof: 0.3-2
-plsgenomics: 1.5-2.1
+plsgenomics: 1.5-3
 plsmod: 1.0.0
 plsmselect: 0.2.0
 plspm: 0.5.1
@@ -20626,7 +20630,7 @@ popRF: 1.0.0
 popRange: 1.1.3
 popReconstruct: 1.0-6
 popbayes: 1.2.0
-popbio: '2.7'
+popbio: '2.8'
 popdemo: 1.3-1
 popgen: 1.0-3
 popgenr: '0.2'
@@ -20942,7 +20946,7 @@ proton: '1.0'
 protoshiny: 0.1.0
 prototest: '1.2'
 protr: 1.7-0
-protti: 0.7.0
+protti: 0.8.0
 proustr: 0.4.0
 provDebugR: 1.0.1
 provExplainR: 1.1.1
@@ -22128,7 +22132,7 @@ retistruct: 0.6.3
 retractcheck: 1.0.0
 retriever: 0.2.1
 retrocombinator: 1.0.0
-retrodesign: 0.2.1
+retrodesign: 0.2.2
 retroharmonize: 0.2.0
 retrosheet: 1.1.6
 retry: 0.1.1
@@ -22543,7 +22547,7 @@ rollmatch: 2.0.3
 rollply: 0.5.0
 roloc: 0.1-2
 rolocISCCNBS: '0.1'
-rolog: 0.9.15
+rolog: 0.9.16
 rolr: 1.0.0
 rolypoly: 0.1.0
 romero.gateway: 0.4.4
@@ -22982,7 +22986,7 @@ saeRobust: 0.5.0
 saeSim: 0.11.0
 saeTrafo: 1.0.2
 saebnocov: 0.1.0
-saeczi: 0.1.1
+saeczi: 0.1.2
 saeeb: 0.1.0
 saekernel: 0.1.1
 saemix: '3.3'
@@ -23266,6 +23270,7 @@ sdols: 3.0.0
 sdpdth: '0.2'
 sdprisk: 1.1-6
 sdpt3r: '0.3'
+sdrt: 1.0.0
 sdtalt: '1.03'
 sdtmval: 0.4.1
 sdtoolkit: 2.33-1
@@ -23492,7 +23497,7 @@ sftime: 0.2-0
 sftrack: 0.5.4
 sgPLS: '1.8'
 sgRSEA: '0.1'
-sgapi: 1.0.1
+sgapi: 1.0.2
 sgat: '0.9'
 sgd: 1.1.2
 sgee: 0.6-0
@@ -24139,7 +24144,7 @@ spMC: 0.3.15
 spMaps: 0.5.0
 spNNGP: 1.0.0
 spNetwork: 0.4.3.8
-spOccupancy: 0.7.2
+spOccupancy: 0.7.3
 spRingsteen: 0.1.0
 spTDyn: 2.0.2
 spTest: 0.2.5
@@ -24506,7 +24511,7 @@ ssmsn: 0.2.0
 sspir: 0.2.10
 sspline: 0.1-6
 sspm: 0.9.1
-sspse: 1.1.0
+sspse: 1.1.0-1
 ssr: 0.1.1
 ssrm.logmer: '0.1'
 ssrn: 0.1.0
@@ -24922,7 +24927,7 @@ survivalROC: 1.0.3.1
 survivalSL: '0.94'
 survivalmodels: 0.1.191
 survivalsvm: 0.0.5
-survivoR: 2.3.1
+survivoR: 2.3.2
 survminer: 0.4.9
 survmixer: '1.3'
 survobj: 3.0.0
@@ -25186,7 +25191,7 @@ td: 0.0.6
 tdROC: '2.0'
 tdata: 0.3.0
 tdaunif: 0.1.1
-tdcmStan: 2.0.0
+tdcmStan: 3.0.0
 tdigest: 0.4.1
 tdist: 0.1-1.1
 tdm: 3.0.3
@@ -25318,7 +25323,7 @@ textshape: 1.7.3
 textshaping: 0.3.7
 textstem: 0.1.4
 textutils: 0.3-2
-tf: 0.3.2
+tf: 0.3.3
 tfCox: 0.1.0
 tfNeuralODE: 0.1.0
 tfaddons: 0.10.0
@@ -25488,7 +25493,7 @@ tidytree: 0.4.6
 tidytuesdayR: 1.0.3
 tidyverse: 2.0.0
 tidyvpc: 1.5.1
-tidywikidatar: 0.5.7
+tidywikidatar: 0.5.8
 tidyxl: 1.0.10
 tiff: 0.1-12
 tiger: 0.2.3.1
@@ -25555,7 +25560,7 @@ tinylabels: 0.2.4
 tinyscholar: 0.1.7
 tinysnapshot: 0.0.4
 tinyspotifyr: 0.2.2
-tinytable: 0.2.0
+tinytable: 0.2.1
 tinytest: 1.4.1
 tinytest2JUnit: 1.0.3
 tinytex: '0.50'
@@ -25626,7 +25631,7 @@ tntpr: 1.0.2
 toOrdinal: 1.3-0.0
 toRvik: 1.1.1
 toaster: 0.5.5
-toastui: 0.3.2
+toastui: 0.3.3
 tobit1: 0.1-3
 todor: 0.1.2
 togglr: 0.2.1
@@ -25719,7 +25724,7 @@ traitdataform: 0.6.8
 traitr: '0.14'
 traits: 0.5.0
 traitstrap: 0.1.0
-traj: 2.0.1
+traj: 2.1.0
 trajeR: 0.9.0.5
 trajectories: 0.2-8
 trajmsm: 0.1.0
@@ -26342,7 +26347,7 @@ vici: 0.7.3
 video: 0.1.1
 vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
-viewpoly: 0.3.2
+viewpoly: 0.4.1
 viewscape: 1.0.0
 viewshed3d: 4.0.0
 viking: 1.0.2
@@ -26854,7 +26859,7 @@ xopen: 1.0.0
 xpectr: 0.4.3
 xplain: 0.2.2
 xplorerr: 0.1.2
-xportr: 0.3.2
+xportr: 0.4.0
 xpose: 0.4.18
 xpose.nlmixr: 0.3.0
 xpose.nlmixr2: 0.4.0
