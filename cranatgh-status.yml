@@ -950,6 +950,7 @@ CGManalyzer: 1.3.1
 CGNM: 0.6.7
 CGP: 2.1-1
 CGPfunctions: 0.6.3
+CGR: 0.1.0
 CGene: '1.2'
 CHAT: '1.1'
 CHCN: '1.5'
@@ -1379,7 +1380,7 @@ ConvergenceClubs: 2.2.5
 ConvergenceConcepts: 1.2.3
 ConvertPar: '0.1'
 Convolutioner: 0.1.0
-CooRTweet: 2.0.1
+CooRTweet: 2.0.2
 CooccurrenceAffinity: '1.0'
 CoopGame: 0.2.2
 CoordinateCleaner: 3.0.1
@@ -4526,7 +4527,7 @@ MonoPoly: 0.3-10
 MonotoneHazardRatio: 0.1.1
 Monte.Carlo.se: 0.1.1
 MonteCarlo: 1.0.6
-MonteCarloSEM: 0.0.6
+MonteCarloSEM: 0.0.7
 MoonFinder: 1.0.3
 Morpho: '2.12'
 MorphoTools2: 1.0.1.1
@@ -4697,7 +4698,7 @@ NNMIS: 1.0.1
 NNS: '10.7'
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
-NO.PING.PONG: 0.1.6
+NO.PING.PONG: 0.1.8.7
 NOAAWeather: 0.1.0
 NORMA: '0.1'
 NORMT3: 1.0.4
@@ -5247,7 +5248,7 @@ PSW: 1.1-3
 PScr: '1.1'
 PSinference: 0.1.0
 PStrata: 0.0.5
-PSweight: 1.1.8
+PSweight: 1.2.0
 PTAk: 2.0.0
 PTE: '1.7'
 PTERP: '1.0'
@@ -6516,7 +6517,7 @@ Repliscope: 1.1.1
 RepoGenerator: 0.0.1
 ReporteRs: 0.8.10
 ReporteRsjars: 0.0.4
-ReporterScore: 0.1.2
+ReporterScore: 0.1.4
 Require: 0.3.1
 ResIN: 1.1.0
 ResPBIBD: 0.1.0
@@ -7219,7 +7220,7 @@ SemiCompRisks: '3.4'
 SemiEstimate: 1.1.3
 SemiMarkov: 1.4.6
 SemiPar: 1.0-4.2
-SemiPar.depCens: 0.1.1
+SemiPar.depCens: 0.1.2
 SemiParBIVProbit: 3.8-2
 SemiParSampleSel: '1.5'
 SemiSupervised: '1.0'
@@ -8833,7 +8834,7 @@ apcf: 0.3.0
 apcluster: 1.4.11
 apdesign: 1.0.0
 ape: 5.7-1
-apercu: 0.2.4
+apercu: 0.2.5
 apex: 1.0.6
 apexcharter: 0.4.2
 aphid: 1.3.5
@@ -9406,6 +9407,7 @@ bdribs: 1.0.4
 bdrift: 1.2.2
 bdscale: 2.0.0
 bdsmatrix: 1.3-7
+bdsvd: 0.1-0
 bdvis: 0.2.37
 bdynsys: '1.3'
 bea.R: 1.0.6
@@ -9496,7 +9498,7 @@ bgmm: 1.8.5
 bgms: 0.1.3
 bgsmtr: '0.7'
 bgumbel: 0.0.3
-bgw: 0.1.2
+bgw: 0.1.3
 bhm: '1.18'
 bhmbasket: 0.9.5
 bhpm: '1.7'
@@ -10260,6 +10262,7 @@ cccd: '1.6'
 cccm: 0.1.0
 cccp: 0.3-1
 cccrm: 2.2.1
+ccdR: 1.0.0
 ccda: 1.1.1
 ccdf: 1.1.4
 ccdrAlgorithm: 0.0.6
@@ -11632,7 +11635,7 @@ datapack: 1.4.1
 datapackage.r: 1.3.5
 datapasta: 3.1.0
 dataprep: 0.1.5
-dataquieR: 2.0.1
+dataquieR: 2.1.0
 datardis: 0.0.4
 dataresqc: 1.1.1
 datarium: 0.1.0
@@ -12525,7 +12528,7 @@ easypower: 1.0.2
 easyr: 0.5-11
 easyreg: '4.0'
 easystab: '1.0'
-easystats: 0.7.0
+easystats: 0.7.1
 eat: 0.1.4
 eatATA: 1.1.2
 eatDB: 0.5.0
@@ -12745,7 +12748,7 @@ elsa: 1.1-28
 eltr: 0.1.0
 em: 1.0.0
 em2: '0.9'
-emBayes: 0.1.4
+emBayes: 0.1.5
 emIRT: 0.0.13
 emailjsr: 0.0.2
 emailvalidation: 0.1.0
@@ -13467,7 +13470,7 @@ fedz1: 0.1.0
 feedeR: 0.0.10
 feisr: 1.3.0
 fellov: '0.1'
-felp: 0.3.0
+felp: 0.4.0
 feltr: 0.0.4
 femmeR: 0.5.1.1
 fence: '1.0'
@@ -13883,7 +13886,7 @@ frequentistSSD: 0.1.1
 freqweights: 1.0.4
 fresh: 0.2.0
 freshr: 1.0.2
-frictionless: 1.0.3
+frictionless: 1.1.0
 friends: 0.1.0
 frite: 0.1.0
 fritools: 4.3.0
@@ -14279,7 +14282,7 @@ genetic.algo.optimizeR: 0.2.6
 geneticae: 0.4.0
 genetics: 1.3.8.1.3
 genie: 1.0.5
-genieBPC: 1.1.0
+genieBPC: 1.1.1
 genieclust: 1.1.5-2
 genio: 1.1.2
 genius: 2.2.3
@@ -15874,7 +15877,7 @@ imgpalr: 0.3.2
 imgrec: 0.1.3
 imguR: 1.0.3
 imgw: 0.3.0
-iml: 0.11.1
+iml: 0.11.2
 immcp: 1.0.3
 immer: 1.5-13
 immunarch: 0.9.1
@@ -16295,7 +16298,7 @@ japanmesh: 0.1.1
 japanstat: 0.1.0
 jarbes: 2.0.0
 jcext: 0.1.1
-jcolors: 0.0.4
+jcolors: 0.0.5
 jcp: '1.2'
 jdenticon: 0.1.1
 jds.rmd: 0.3.3
@@ -16354,7 +16357,7 @@ josaplay: 0.1.3
 jose: 1.2.0
 jot: 0.0.4
 journalabbr: 0.4.3
-joyn: 0.1.4
+joyn: 0.2.0
 jpcity: 0.1.1
 jpeg: 0.1-10
 jpgrid: 0.3.1
@@ -18112,7 +18115,7 @@ mlmi: 1.1.2
 mlmm: 1.5.0
 mlmm.gwas: 1.0.6
 mlmmm: 0.3-1.2
-mlmpower: 1.0.6
+mlmpower: 1.0.7
 mlmtools: 1.0.2
 mlmts: 1.1.1
 mlogit: 1.1-1
@@ -18249,7 +18252,7 @@ modelbpp: 0.1.3
 modelc: 1.0.0.0
 modelcf: 2.1.1
 modeldata: 1.3.0
-modeldatatoo: 0.2.1
+modeldatatoo: 0.3.0
 modeldb: 0.3.0
 modelenv: 0.1.1
 modelfactory: 1.0.0
@@ -18388,7 +18391,7 @@ mpMap2: 1.0.4
 mpa: 0.7.3
 mpae: 0.1.2
 mpath: 0.4-2.25
-mpathsenser: 1.2.2
+mpathsenser: 1.2.3
 mpbart: '0.2'
 mpc: '0.1'
 mpcmp: 0.3.6
@@ -19227,7 +19230,7 @@ npordtests: '1.2'
 nppbib: 1.2-0
 npphen: 2.0.0
 nprcgenekeepr: 1.0.5
-npreg: 1.0-9
+npreg: 1.1.0
 npregderiv: '1.0'
 npregfast: 1.5.2
 nprobust: 0.4.0
@@ -19441,7 +19444,7 @@ onemapsgapi: 1.1.0
 onepass: 0.1.2
 onetime: 0.2.0
 onewaytests: '3.0'
-onion: 1.5-0
+onion: 1.5-3
 onlineBcp: 0.1.8
 onlineCOV: '1.3'
 onlineCPD: '1.0'
@@ -19459,7 +19462,7 @@ ontoFAST: 1.0.0
 ontologics: 0.7.0
 ontologyIndex: '2.12'
 ontologyPlot: '1.7'
-ontologySimilarity: '2.5'
+ontologySimilarity: '2.7'
 ontophylo: 1.1.3
 oolong: 0.6.0
 oompaBase: 3.2.9
@@ -20132,6 +20135,7 @@ permuco: 1.1.2
 permutations: 1.1-2
 permute: 0.9-7
 permutes: '2.8'
+perplexR: 0.0.3
 perry: 0.3.1
 perryExamples: 0.1.1
 persDx: 0.5.0
@@ -20766,7 +20770,7 @@ predatory: '1.2'
 predbayescor: 1.1-4
 predfairness: 0.1.0
 predfinitepop: '1.0'
-predhy: 2.0.1
+predhy: 2.1.0
 predhy.GUI: '1.0'
 predict3d: 0.1.4
 predictMe: '0.1'
@@ -21128,7 +21132,7 @@ qcapower: 0.1.0
 qcauchyreg: '1.0'
 qcc: '2.7'
 qccrs: 0.1.0
-qch: 1.0.0
+qch: 2.0.0
 qclust: '1.0'
 qcpm: '0.3'
 qcr: '1.4'
@@ -21449,7 +21453,7 @@ rODE: 0.99.6
 rPACI: 0.2.2
 rPAex: 1.0.5
 rPBK: 0.2.4
-rPDBapi: '1.0'
+rPDBapi: '1.1'
 rPackedBar: 0.2.2
 rPanglaoDB: 0.2.1
 rPlant: '2.16'
@@ -21486,7 +21490,7 @@ rTRIPLEXCWFlux: 0.2.0
 rTRNG: 4.23.1-2
 rTableICC: 1.0.9
 rTensor: 1.4.8
-rTensor2: 0.2.0
+rTensor2: 2.0.0
 rTephra: '0.1'
 rTorch: 0.4.2
 rUM: 1.0.2
@@ -21885,7 +21889,7 @@ rebus.unicode: 0.0-2
 recalls: 0.1.0
 recapr: 0.4.4
 reccsim: 0.9-1
-receptiviti: 0.1.7
+receptiviti: 0.1.8
 recexcavAAR: 0.3.0
 rechonest: '1.2'
 recipes: 1.0.10
@@ -22427,7 +22431,7 @@ rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
 rmstcompsens: 0.1.5
 rmt: '1.0'
-rmumps: 5.2.1-28
+rmumps: 5.2.1-29
 rmutil: 1.1.10
 rmweather: 0.2.5
 rmytarget: 2.4.0
@@ -22732,7 +22736,7 @@ rsgcc: 1.0.6
 rsgeo: 0.1.6
 rsggm: 0.3.1
 rshift: 3.0.0
-rsi: 0.1.2
+rsi: 0.2.0
 rsig: '1.0'
 rsimsum: 0.13.0
 rsinaica: 1.0.0
@@ -23961,7 +23965,7 @@ smcfcs: 1.7.1
 smco: '0.1'
 smcryptoR: 0.1.2
 smcure: '2.1'
-smd: 0.6.6
+smd: 0.6.7
 smd.and.more: 1.3-0
 smdata: '1.2'
 smdc: 0.0.2
@@ -24402,7 +24406,7 @@ spoiler: 1.0.0
 spongebob: 0.4.0
 spongecake: 0.1.2
 spooky: 1.4.0
-spork: 0.3.2
+spork: 0.3.3
 sporm: 1.1.1
 sport: 0.2.1
 sportyR: 2.2.2
@@ -25096,7 +25100,7 @@ tablerDash: 0.1.0
 tables: 0.9.17
 tableschema.r: 1.1.2
 tablesgg: 0.9-1
-tablet: 0.6.5
+tablet: 0.6.8
 tablexlsx: 0.1.0
 tabnet: 0.5.0
 taboolaR: 0.1.0
@@ -25530,7 +25534,7 @@ timedelay: 1.0.11
 timedeppar: 1.0.3
 timeit: 0.2.1
 timekit: 0.3.1
-timeless: 0.1.0
+timeless: 0.2.0
 timeline: '0.9'
 timelineR: 1.0.0
 timelineS: 0.1.1
@@ -25698,6 +25702,7 @@ tpsDesign: '1.3'
 tqk: 0.1.8
 tr.iatgen: 1.0.0
 tracee: 0.0.4
+tracenma: 0.1.0
 tracer: 1.0.0
 tracerer: 2.2.3
 tracheideR: 0.1.1
@@ -25719,6 +25724,7 @@ tradestatistics: 4.5.0
 trafo: 1.0.1
 trainR: 0.0.1
 traineR: 2.2.0
+trainsplit: '1.0'
 traipse: 0.3.0
 traitdataform: 0.6.8
 traitr: '0.14'
@@ -26366,7 +26372,7 @@ vip: 0.4.1
 vipor: 0.4.7
 viraldomain: 0.0.3
 viralmodels: 1.2.0
-viralx: 1.2.0
+viralx: 1.3.0
 viridis: 0.6.5
 viridisLite: 0.4.2
 viromeBrowser: 1.1.0
@@ -26760,7 +26766,7 @@ wrGraph: 1.3.7
 wrMisc: 1.14.2
 wrProteo: 1.11.0.1
 wrTopDownFrag: 1.0.2
-wrangle: 0.6.3
+wrangle: 0.6.4
 wrappedtools: 0.9.5
 wrappr: 0.1.0
 wrapr: 2.1.0
@@ -26851,7 +26857,7 @@ xmlconvert: 0.1.2
 xmlparsedata: 1.0.5
 xmlr: 0.1.2
 xmlrpc2: '1.1'
-xmpdf: 0.1.4
+xmpdf: 0.2.1
 xmrr: 1.1.1
 xnet: 0.1.11
 xoi: '0.72'
@@ -26901,7 +26907,7 @@ yager: 0.1.1
 yahoofinancer: 0.3.0
 yakmoR: 0.1.1
 yaml: 2.3.8
-yamlet: 1.0.0
+yamlet: 1.0.3
 yamlme: 0.1.2
 yap: 0.1.1
 yaps: 1.2.5
