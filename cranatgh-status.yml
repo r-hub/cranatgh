@@ -441,7 +441,7 @@ BGData: 2.4.1
 BGFD: '0.1'
 BGGE: 0.6.5
 BGGM: 2.1.1
-BGLR: 1.1.1
+BGLR: 1.1.2
 BGPhazard: 2.1.1
 BGSIMD: '1.0'
 BGVAR: 2.5.5
@@ -917,7 +917,7 @@ CDF.PSIdekick: '1.2'
 CDFt: '1.2'
 CDLasso: '1.1'
 CDM: 8.2-6
-CDMConnector: 1.3.0
+CDMConnector: 1.3.1
 CDNmoney: 2012.4-2
 CDROM: '1.1'
 CDSE: 0.1.0
@@ -1290,7 +1290,7 @@ CohensdpLibrary: 0.5.10
 CohortAlgebra: 0.2.0
 CohortExplorer: 0.1.0
 CohortPlat: 1.0.5
-CohortSurvival: 0.3.0
+CohortSurvival: 0.4.0
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
 CollapsABEL: 0.10.11
@@ -1497,7 +1497,7 @@ DAFOT: 0.0.1
 DAGGER: '1.4'
 DAIME: 2.1.3
 DAISIE: 4.4.1
-DAISIEprep: 0.3.2
+DAISIEprep: 0.4.0
 DAKS: 2.1-3
 DALEX: 2.4.3
 DALEX2: '0.9'
@@ -1915,7 +1915,7 @@ DriveML: 0.1.5
 DrugClust: '0.2'
 DrugExposureDiagnostics: 1.0.4
 DrugSim2DR: 0.1.1
-DrugUtilisation: 0.5.2
+DrugUtilisation: 0.5.3
 DstarM: 0.4.0
 DtD: 0.2.2
 Dtableone: 1.1.0
@@ -2373,7 +2373,7 @@ FRESA.CAD: 3.4.7
 FRESHD: '1.0'
 FREddyPro: '1.0'
 FRI: '1.0'
-FRK: 2.2.2
+FRK: 2.2.3
 FRegSigCom: 0.3.0
 FSA: 0.9.5
 FSAdata: 0.4.1
@@ -3530,7 +3530,7 @@ JoF: 0.1.0
 JoSAE: 0.3.0
 Johnson: '1.4'
 JohnsonDistribution: '0.24'
-JointAI: 1.0.5
+JointAI: 1.0.6
 JointFPM: 1.2.0
 JointGLM: 1.0-3
 JointModel: '1.0'
@@ -5083,7 +5083,7 @@ PDN: 0.1.0
 PDQutils: 0.1.6
 PDSCE: 1.2.1
 PDShiny: 0.1.0
-PDXpower: 1.0.0
+PDXpower: 1.0.1
 PDtoolkit: 1.2.0
 PEACH: 0.1.1
 PEGroupTesting: '1.0'
@@ -6079,6 +6079,7 @@ RPyGeo: 1.0.0
 RQDA: 0.3-1
 RQEntangle: 0.1.3
 RQGIS: 1.0.4
+RQdeltaCT: 1.2.1
 RQuantLib: 0.4.21
 RRBoost: '0.1'
 RRF: 1.9.4
@@ -6309,7 +6310,7 @@ RcmdrPlugin.DoE: 0.12-5
 RcmdrPlugin.EACSPIR: 0.2-3
 RcmdrPlugin.EBM: 1.0-10
 RcmdrPlugin.EHESsampling: '2.0'
-RcmdrPlugin.EZR: '1.64'
+RcmdrPlugin.EZR: '1.65'
 RcmdrPlugin.EcoVirtual: '1.0'
 RcmdrPlugin.Export: 0.3-1
 RcmdrPlugin.FactoMineR: '1.8'
@@ -7708,7 +7709,7 @@ TLBC: '1.0'
 TLCAR: 0.1.0
 TLMoments: 0.7.5.3
 TLdating: 0.1.3
-TMB: 1.9.10
+TMB: 1.9.11
 TMDb: '1.1'
 TML: 1.2.0
 TMTI: 1.0.1
@@ -7959,7 +7960,7 @@ TreeDiagram: 0.1.1
 TreeDimensionTest: 0.0.2
 TreeDist: 2.7.0
 TreeLS: 2.0.2
-TreeMineR: 1.0.0
+TreeMineR: 1.0.1
 TreePar: '3.3'
 TreeRank: 1.1-0
 TreeSearch: 1.4.0
@@ -8002,7 +8003,7 @@ TwoPhaseInd: 1.1.2
 TwoRegression: 1.0.0
 TwoSampleTest.HD: '1.2'
 TwoStepCLogit: 1.2.5
-TwoWayFEWeights: 2.0.0
+TwoWayFEWeights: 2.0.1
 TwoWaySurvival: '2.2'
 TwslmSpikeWeight: 1.0.1
 UBCRM: 1.0.2
@@ -8064,6 +8065,7 @@ UnitCircle: 0.1.3
 UnitStat: 1.1.0
 UnivRNG: 1.2.3
 UniversalCVI: 1.1.2
+UpAndDownPlots: 0.5.0
 UpDown: 1.2.1
 UpSetR: 1.4.0
 UpSetVP: 1.0.0
@@ -8498,8 +8500,8 @@ adaptivetau: '2.3'
 adaptr: 1.3.2
 adaptsmoFMRI: '1.2'
 adass: 1.0.0
-adbcdrivermanager: 0.10.0
-adbcpostgresql: 0.10.0
+adbcdrivermanager: 0.11.0
+adbcpostgresql: 0.11.0
 adbcsqlite: 0.10.0
 adbi: 0.1.1
 adc: 1.0.0
@@ -9010,7 +9012,7 @@ assertive.strings: 0.0-3
 assertive.types: 0.0-3
 assertr: 3.0.1
 assertthat: 0.2.1
-assessor: 1.0.0
+assessor: 1.1.0
 assignPOP: 1.3.0
 assignR: 2.4.0
 assist: 3.1.9
@@ -9565,7 +9567,7 @@ bigpca: '1.1'
 bigreadr: 0.2.5
 bigrf: 0.1-11
 bigrquery: 1.5.1
-bigrquerystorage: 1.0.0
+bigrquerystorage: 1.1.0
 bigsimr: 0.12.0
 bigsnpr: 1.12.2
 bigsparser: 0.6.1
@@ -10118,7 +10120,7 @@ camsRad: 0.3.0
 camtrapR: 2.3.0
 canadacovid: 0.3.4
 canadamaps: '0.1'
-canadianmaps: 1.3.0
+canadianmaps: 2.0.0
 canaper: 1.0.1
 cancensus: 0.5.7
 cancerGI: 1.0.1
@@ -10731,6 +10733,7 @@ cna: 3.5.6
 cnaOpt: 0.5.2
 cnbdistr: 1.0.1
 cncaGUI: '1.1'
+cnmap: 0.1.0
 cnmlcd: 1.2-0
 cns: 0.1.0
 cnum: 0.1.3
@@ -10740,7 +10743,7 @@ coalescentMCMC: 0.4-4
 coalitions: 0.6.24
 coarseDataTools: 0.6-6
 coat: 0.2.0
-cobalt: 4.5.4
+cobalt: 4.5.5
 cobiclust: 0.1.2
 cobs: 1.3-8
 cobs99: 0.9-12
@@ -10969,6 +10972,7 @@ confidence: 1.1-2
 config: 0.3.2
 configr: 0.3.5
 configural: 0.1.5
+confintROB: '1.0'
 confinterpret: 1.0.0
 confintr: 1.0.2
 conflicted: 1.2.0
@@ -12349,7 +12353,7 @@ dsdp: 0.1.1
 dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
-dsem: 1.2.0
+dsem: 1.2.1
 dseplus: 2006.10-1
 dsfa: 2.0.2
 dsims: 1.0.4
@@ -12392,7 +12396,7 @@ dualScale: 1.0.0
 dualtrees: 0.1.5
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.10.0
+duckdb: 0.10.1
 duckdbfs: 0.0.4
 duckduckr: 1.0.0
 duckplyr: 0.3.2
@@ -13790,7 +13794,7 @@ formatR: '1.14'
 formatdown: 0.1.3
 formattable: 0.2.1
 formatters: 0.5.5
-formods: 0.1.3
+formods: 0.1.4
 formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
@@ -13924,7 +13928,7 @@ fst4pg: 1.0.0
 fstcore: 0.9.18
 fsthet: 1.0.1
 ftDK: '1.0'
-ftExtra: 0.6.2
+ftExtra: 0.6.3
 ftaproxim: 0.0.1
 ftnonpar: 0.1-88
 ftrCOOL: 2.0.0
@@ -16568,6 +16572,7 @@ knnIndep: '2.0'
 knnTree: 1.2.4
 knncat: 1.2.2
 knnflex: 1.1.1
+knnmi: '1.0'
 knnp: 2.0.0
 knnwtsim: 1.0.0
 knockoff: 0.3.6
@@ -16640,7 +16645,7 @@ labeledLoop: '0.1'
 labeling: 0.4.3
 labelled: 2.12.0
 labelmachine: 1.0.0
-labelr: 0.1.3
+labelr: 0.1.4
 labelrank: '0.1'
 labeltodendro: '1.3'
 lablaster: 1.0.1
@@ -17165,7 +17170,7 @@ lorad: 0.0.1.0
 lordif: 0.3-3
 lorec: 0.6.1
 lorem: 1.0.0
-lorentz: 1.0-5
+lorentz: 1.1-1
 lorenz: 0.1.0
 lori: 2.2.2
 lossDev: 3.0.0-4
@@ -17396,7 +17401,7 @@ mapiso: 0.3.0
 maple: 0.99.5
 maplegend: 0.1.0
 mapme.biodiversity: 0.5.0
-mapmisc: 2.0.6
+mapmisc: 2.0.7
 mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
@@ -18117,7 +18122,7 @@ mlmi: 1.1.2
 mlmm: 1.5.0
 mlmm.gwas: 1.0.6
 mlmmm: 0.3-1.2
-mlmpower: 1.0.7
+mlmpower: 1.0.8
 mlmtools: 1.0.2
 mlmts: 1.1.1
 mlogit: 1.1-1
@@ -19724,7 +19729,7 @@ pRF: '1.2'
 pROC: 1.18.5
 pRSR: 3.1.1
 pRecipe: 3.0.1-3
-pRepDesigns: 1.1.0
+pRepDesigns: 1.2.0
 pSI: '1.1'
 pTITAN2: 1.0.2
 pa: 1.2-4
@@ -20070,7 +20075,7 @@ pedigreemm: 0.3-4
 pedmod: 0.2.4
 pedmut: 0.7.1
 pedometrics: 0.12.1
-pedprobr: 0.9.2
+pedprobr: 0.9.3
 pedquant: 0.2.4
 pedsuite: 1.2.0
 pedtools: 2.6.0
@@ -20248,7 +20253,7 @@ photobiologyFilters: 0.6.0
 photobiologyInOut: 0.4.27
 photobiologyLEDs: 0.5.2
 photobiologyLamps: 0.5.2
-photobiologyPlants: 0.4.3
+photobiologyPlants: 0.5.0
 photobiologySensors: 0.5.1
 photobiologySun: 0.5.0
 photobiologyWavebands: 0.5.2
@@ -20284,7 +20289,7 @@ phylopath: 1.2.1
 phyloraster: 2.1.0
 phyloregion: 1.0.8
 phylosamp: 1.0.1
-phylosem: 1.1.3
+phylosem: 1.1.4
 phyloseqGraphTest: 0.1.1
 phylosignal: 1.3.1
 phylosim: 3.0.5
@@ -20359,6 +20364,7 @@ pixmap: 0.4-12
 pk4adi: 0.1.3.2
 pkDACLASS: '1.0'
 pkdata: 0.1.0
+pkgGraphR: 0.2.0
 pkgKitten: 0.2.3
 pkgbuild: 1.4.4
 pkgcache: 2.2.1
@@ -20493,6 +20499,7 @@ plumbr: 0.6.10
 plume: 0.2.3
 pluralize: 0.2.0
 plus: '1.0'
+plusCode2: 0.1.0
 pluscode: 0.1.0
 plusser: 0.4-0
 plutor: 0.1.0
@@ -21465,6 +21472,7 @@ rPraat: 1.3.2-1
 rPref: 1.4.0
 rPython: 0.0-6
 rQCC: 2.22.12
+rQSAR: 1.0.0
 rRAP: '1.1'
 rRofex: 2.0.6
 rSAFE: 0.1.4
@@ -22832,6 +22840,7 @@ rtms: 0.2.0
 rtodoist: 0.1.0
 rtoot: 0.3.4
 rtop: 0.6-9
+rtpcr: 1.0.0
 rtrek: 0.4.0
 rtrend: 0.1.5
 rtrends: 0.1.0
@@ -23113,7 +23122,7 @@ scBio: 0.1.6
 scCAN: 1.0.4
 scCATCH: 3.2.2
 scCustomize: 2.1.2
-scDHA: 1.2.1
+scDHA: 1.2.2
 scDIFtest: 0.1.1
 scDiffCom: 1.0.0
 scGOclust: 0.2.1
@@ -23556,7 +23565,7 @@ shidashi: 0.1.6
 shide: 0.2.0
 shiftR: '1.5'
 shinipsum: 0.1.1
-shiny: 1.8.1
+shiny: 1.8.1.1
 shiny.benchmark: 0.1.1
 shiny.blueprint: 0.2.0
 shiny.emptystate: 0.1.0
@@ -23998,7 +24007,7 @@ smoothHR: 1.0.5
 smoothROCtime: 0.1.0
 smoothSurv: '2.6'
 smoothedLasso: '1.6'
-smoother: '1.1'
+smoother: '1.3'
 smoothic: 1.2.0
 smoothie: 1.0-3
 smoothmest: 0.1-3
@@ -24912,7 +24921,7 @@ surveybootstrap: 0.0.3
 surveydata: 0.2.7
 surveyeditor: '1.0'
 surveyexplorer: 0.1.0
-surveygraph: 0.1.0
+surveygraph: 0.1.1
 surveyoutliers: '0.1'
 surveyplanning: '4.0'
 surveysd: 1.3.1
@@ -26064,7 +26073,7 @@ ukds: 0.1.0
 ukgasapi: '0.21'
 uklr: 1.0.2
 ukpolice: 0.2.2
-ulid: 0.3.0
+ulid: 0.3.1
 ulrb: 0.1.3
 umap: 0.2.10.0
 umbridge: '1.0'
@@ -26386,7 +26395,7 @@ virtuoso: 0.1.8
 viruslearner: 0.0.1
 virustotal: 0.2.2
 visNetwork: 2.1.2
-visOmopResults: 0.2.0
+visOmopResults: 0.2.1
 visR: 0.4.1
 visStatistics: 0.1.1
 visTree: 0.8.1
