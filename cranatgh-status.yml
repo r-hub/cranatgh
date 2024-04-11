@@ -509,7 +509,7 @@ BNrich: 0.1.1
 BOG: '2.0'
 BOIN: 2.7.2
 BOJ: '0.3'
-BOSO: 1.0.3
+BOSO: 1.0.4
 BOSSreg: 0.2.0
 BPEC: 1.3.1
 BPHO: 1.3-0
@@ -806,7 +806,7 @@ Bolstad2: 1.0-29
 BoltzMM: 0.1.4
 BonEV: '1.0'
 BondValuation: 0.1.1
-BoneProfileR: '2.4'
+BoneProfileR: '2.5'
 BoolFilter: 1.0.0
 BoolNet: 2.1.9
 Boom: 0.9.15
@@ -1168,7 +1168,7 @@ CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.1
 CausalMetaR: 0.1.1
 CausalModels: 0.2.0
-CausalQueries: 1.0.2
+CausalQueries: 1.1.0
 Causata: 4.2-0
 CautiousLearning: 1.0.1
 CePa: 0.8.0
@@ -1703,7 +1703,7 @@ DT: '0.33'
 DTAT: 0.3-6
 DTAXG: 0.1.0
 DTAplots: 1.0.2.5
-DTComPair: 1.2.2
+DTComPair: 1.2.4
 DTDA: 3.0.1
 DTDA.cif: 1.0.2
 DTDA.ni: 1.0.1
@@ -2443,6 +2443,7 @@ FeatureHashing: 0.9.2
 FeatureImpCluster: 0.1.5
 FeatureTerminatoR: 1.0.0
 FedData: 4.0.1
+FedIRT: 0.1.0
 FeedbackTS: '1.5'
 FertBoot: 0.5.0
 FertNet: 0.1.2
@@ -3023,6 +3024,7 @@ HDSinRdata: 0.1.1
 HDSpatialScan: 1.0.4
 HDStIM: 0.1.0
 HDTSA: 1.0.2
+HDXBoxeR: 0.0.1
 HDclassif: 2.2.1
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
@@ -3342,6 +3344,7 @@ IRCcheck: 1.0.0
 IRISMustangMetrics: 2.4.6
 IRISSeismic: 1.6.6
 IROmiss: 1.0.2
+IRR2FPR: '0.1'
 IRSF: 1.0.3
 IRTBEMM: 1.0.8
 IRTShiny: '1.2'
@@ -3677,7 +3680,7 @@ LDRTools: 0.2-2
 LDcorSV: 1.3.3
 LDdiag: '0.1'
 LDheatmap: 1.0-6
-LDlinkR: 1.3.0
+LDlinkR: 1.4.0
 LDtests: '1.0'
 LEANR: 1.4.9
 LEAP: '0.2'
@@ -5020,7 +5023,7 @@ PACBO: 0.1.0
 PACE: 0.1-0
 PACLasso: 1.0.0
 PACVB: 1.1.1
-PACVr: 1.0.8
+PACVr: 1.0.11
 PAFit: 1.2.10
 PAFway: 0.1.3
 PAGFL: 1.0.1
@@ -5633,7 +5636,7 @@ QuantPsyc: '1.6'
 QuantRegGLasso: 1.0.0
 QuantTools: 0.5.7.1
 QuantifQuantile: '2.2'
-QuantileGH: 0.1.5
+QuantileGH: 0.1.6
 QuantileGradeR: 0.1.1
 QuantileNPCI: 0.9.0
 QuantumClone: 1.0.0.6
@@ -7372,7 +7375,7 @@ SmartSifter: 0.1.0
 SmarterPoland: 1.8.1
 Smisc: 0.3.9.1
 SmithWilsonYieldCurve: 1.0.1
-SmoothHazard: 2023.06.27
+SmoothHazard: 2024.04.10
 SmoothTensor: 0.1.1
 SmoothWin: 3.0.0
 Snake: '1.0'
@@ -8216,7 +8219,7 @@ WEE: '1.0'
 WEGE: 0.1.0
 WGCNA: 1.72-5
 WGScan: '0.1'
-WH: 1.1.0
+WH: 1.1.1
 WHO: 0.2.1
 WINRPACK: 1.1-0
 WINS: '1.4'
@@ -8266,6 +8269,7 @@ WaveletRF: 0.1.0
 WaveletSVR: 0.1.0
 WaverR: '1.0'
 WaverideR: 0.3.2
+WayFindR: 0.1.2
 Wcompo: '1.0'
 WeMix: 4.0.3
 WebAnalytics: 0.9.12
@@ -8557,7 +8561,7 @@ adiv: 2.2.1
 adjROC: '0.3'
 adjSURVCI: '1.0'
 adjclust: 0.6.9
-adjustedCurves: 0.11.0
+adjustedCurves: 0.11.1
 adjustedcranlogs: 0.1.0
 adk: 1.0-2
 adklakedata: 0.6.1
@@ -10003,7 +10007,7 @@ bspec: '1.6'
 bspline: '2.2'
 bsplinePsd: 0.6.0
 bsplus: 0.1.4
-bspm: 0.5.6
+bspm: 0.5.7
 bspmma: 0.1-2
 bsreg: 0.0.2
 bssm: 2.0.2
@@ -10201,7 +10205,7 @@ cascadess: 0.1.0
 caschrono: '2.4'
 cascsim: '0.4'
 caseMatch: 1.1.0
-casebase: 0.10.4
+casebase: 0.10.5
 casen: 0.2.1
 cases: 0.1.1
 casino: 0.1.0
@@ -10279,7 +10283,7 @@ ccboost: 0.1-1.3
 cccd: '1.6'
 cccm: 0.1.0
 cccp: 0.3-1
-cccrm: 2.2.1
+cccrm: 2.2.2
 ccdR: 1.0.0
 ccda: 1.1.1
 ccdf: 1.1.4
@@ -11682,7 +11686,7 @@ dataview: 2.1.1
 datawizard: 0.10.0
 datazoom.amazonia: 1.1.0
 date: 1.2-42
-dateback: 1.0.3
+dateback: 1.0.4
 datefixR: 1.6.1
 datelife: 0.6.8
 daterangepicker: 0.2.0
@@ -12065,7 +12069,7 @@ dint: 2.1.4
 dipm: '1.9'
 diproperm: 0.2.0
 dipsaus: 0.2.8
-diptest: 0.77-0
+diptest: 0.77-1
 dipw: 0.1.0
 directPA: 1.5.1
 directlabels: 2024.1.21
@@ -12425,7 +12429,7 @@ dummy: 0.1.3
 dundermifflin: 0.1.1
 dunlin: 0.1.7
 dunn.test: 1.3.5
-dupNodes: 0.2.0
+dupNodes: 0.3.0
 dupiR: 1.2.1
 dupree: 0.3.0
 durmod: 1.1-4
@@ -12885,7 +12889,7 @@ epi2me2r: 0.1.0
 epiCleanr: 0.2.0
 epiDisplay: 3.5.0.2
 epiGWAS: 1.0.2
-epiR: 2.0.70
+epiR: 2.0.73
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.15.1.0
@@ -15023,7 +15027,7 @@ grateful: 0.2.4
 grates: 1.2.0
 gratia: 0.9.0
 graticule: 0.4.0
-gratis: 1.0.5
+gratis: 1.0.7
 grattan: 2024.1.1
 grattanInflators: 0.5.1
 gravitas: 0.1.3
@@ -15718,6 +15722,7 @@ iMediate: 0.5.5
 iMessager: '1.0'
 iNEXT: 3.0.1
 iNEXT.3D: 1.0.4
+iNEXT.4steps: 1.0.0
 iNEXT.beta3D: 1.0.1
 iNOTE: '1.0'
 iNZightMR: 2.3.0
@@ -15800,7 +15805,7 @@ icesSD: 2.0.0
 icesTAF: 4.2.0
 icesVMS: 1.1.4
 icesVocab: 1.2.0
-ichimoku: 1.5.0
+ichimoku: 1.5.1
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -16165,7 +16170,7 @@ ipr: 0.1.0
 ipred: 0.9-14
 iprior: 0.7.4
 ips: 0.0.11
-ipsRdbs: 0.2.6
+ipsRdbs: 1.0.0
 ipsecr: 1.4.1
 ipsfs: 1.0.0
 iptmnetr: 0.1.8
@@ -17206,7 +17211,7 @@ lpSolveAPI: 5.5.2.0-17.11
 lpacf: 1.0.1
 lpbrim: 1.0.0
 lpc: 1.0.2.1
-lpcde: 0.1.3
+lpcde: 0.1.4
 lpda: 1.0.1
 lpdensity: '2.4'
 lphom: 0.3.5-5
@@ -17799,7 +17804,7 @@ metainc: 0.2-0
 metajam: 0.2.3
 metalite: 0.1.3
 metalite.ae: 0.1.1
-metalite.table1: 0.3.0
+metalite.table1: 0.4.0
 metamedian: 1.1.1
 metamer: 0.3.0
 metamicrobiomeR: '1.2'
@@ -18165,13 +18170,13 @@ mlr3data: 0.7.0
 mlr3db: 0.5.2
 mlr3fairness: 0.3.2
 mlr3fda: 0.1.1
-mlr3filters: 0.7.1
+mlr3filters: 0.8.0
 mlr3fselect: 0.12.0
 mlr3hyperband: 0.5.0
 mlr3learners: 0.6.0
 mlr3mbo: 0.2.2
 mlr3measures: 0.5.0
-mlr3misc: 0.14.0
+mlr3misc: 0.15.0
 mlr3oml: 0.9.0
 mlr3pipelines: 0.5.1
 mlr3proba: 0.4.9
@@ -19306,6 +19311,7 @@ nsrr: 0.2.0
 nswgeo: 0.4.0
 nsyllable: 1.0.1
 ntdr: 0.3.4
+ntranova: 0.0.1
 ntsDists: 2.0.0
 ntwk: 1.0.0
 nucim: 1.0.11
@@ -20053,7 +20059,7 @@ pcrsim: 1.0.2
 pcse: 1.9.1.1
 pcsstools: 0.1.2
 pct: 0.9.9
-pctax: 0.1.0
+pctax: 0.1.1
 pcts: 0.15.7
 pcurve: 0.6-4
 pcutils: 0.2.5
@@ -20098,7 +20104,7 @@ pedalfast.data: 1.0.1
 pedantics: '1.7'
 pedbp: 1.0.2
 pedbuildr: 0.3.0
-pedgene: '3.8'
+pedgene: '3.9'
 pedigree: 1.4.2
 pedigreeTools: '0.2'
 pedigreemm: 0.3-4
@@ -20403,7 +20409,7 @@ pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
 pkgdepends: 0.7.2
-pkgdown: 2.0.7
+pkgdown: 2.0.8
 pkgfilecache: 0.1.5
 pkggraph: 0.2.3
 pkglite: 0.2.2
@@ -20801,7 +20807,7 @@ precintcon: 2.3.0
 precisePlacement: 0.1.0
 precisely: 0.1.2
 precmed: 1.0.0
-precommit: 0.4.1
+precommit: 0.4.2
 precondition: 0.1.0
 precrec: 0.14.4
 predReliability: 0.1.0
@@ -20851,7 +20857,7 @@ presmTP: 1.1.0
 press: '2.0'
 pressData: '2.0'
 presser: 1.1.0
-pressuRe: 0.2.3
+pressuRe: 0.2.4
 pretest: '0.2'
 prettifyAddins: 2.6.1
 prettyB: 0.2.2
@@ -20891,7 +20897,7 @@ prioritizrdata: 0.3.2
 prioritylasso: 0.3.1
 prism: 0.2.1
 prismadiagramR: 1.0.0
-prismatic: 1.1.1
+prismatic: 1.1.2
 prismjs: 1.1.0
 prisonbrief: 0.1.2
 prithulib: 1.0.2
@@ -21284,6 +21290,7 @@ qtwAcademic: 2022.12.13
 quRan: 0.1.0
 quad: '1.0'
 quadcleanR: 1.1.0
+quadform: 0.0-1
 quadmatrix: 0.1.0
 quadmesh: 0.5.5
 quadprog: 1.5-8
@@ -22873,7 +22880,7 @@ rtms: 0.2.0
 rtodoist: 0.1.0
 rtoot: 0.3.4
 rtop: 0.6-9
-rtpcr: 1.0.1
+rtpcr: 1.0.2
 rtrek: 0.4.0
 rtrend: 0.1.5
 rtrends: 0.1.0
@@ -23360,7 +23367,7 @@ see: 0.8.3
 seeclickfixr: 1.1.0
 seecolor: 0.2.0
 seedCCA: '3.1'
-seededlda: 1.1.0
+seededlda: 1.2.0
 seedr: 0.3.0
 seedreg: 1.0.3
 seeds: 0.9.1
@@ -23640,7 +23647,7 @@ shinyKGode: 1.0.5
 shinyKnobs: 0.1.3
 shinyLP: 1.1.3
 shinyML: 1.0.1
-shinyMatrix: 0.6.0
+shinyMatrix: 0.8.0
 shinyMergely: 0.2.0
 shinyMobile: 1.0.1
 shinyMolBio: '0.2'
@@ -24245,6 +24252,7 @@ sparkxgb: 0.1.1
 sparr: 2.3-10
 sparrpowR: 0.2.8
 sparseBC: '1.2'
+sparseCov: 0.0.1
 sparseDFM: '1.0'
 sparseEigen: 0.1.0
 sparseFLMM: 0.4.1
@@ -24953,6 +24961,7 @@ survexp.fr: '1.1'
 survey: 4.4-2
 surveyCV: 0.2.0
 surveyNG: '0.3'
+surveyPrev: 1.0.0
 surveybootstrap: 0.0.3
 surveydata: 0.2.7
 surveyeditor: '1.0'
@@ -25537,7 +25546,7 @@ tidysynth: 0.2.0
 tidytable: 0.11.0
 tidytags: 1.1.1
 tidyterra: 0.5.2
-tidytext: 0.4.1
+tidytext: 0.4.2
 tidytidbits: 0.3.2
 tidytlg: 0.1.4
 tidytransit: 1.6.1
@@ -25815,7 +25824,7 @@ transreg: 1.0.2
 transx: 0.0.1
 trapezoid: 2.0-2
 traudem: 1.0.2
-traveltimeR: 1.1.4
+traveltimeR: 1.1.5
 trawl: 0.2.2
 treasury: 0.1.0
 treasuryTR: 0.1.6
@@ -26117,7 +26126,7 @@ umbridge: '1.0'
 umiAnalyzer: 1.0.0
 umlr: 0.3.0
 ump: 0.5-8
-umx: 4.19.0
+umx: 4.20.0
 unbalanced: '2.0'
 unbalhaar: '2.1'
 uncertainty: 0.2.0
@@ -26992,7 +27001,7 @@ yuimaGUI: 1.3.1
 yulab.utils: 0.1.4
 yum: 0.1.0
 yummlyr: 0.1.1
-yyjsonr: 0.1.18
+yyjsonr: 0.1.20
 zCompositions: 1.5.0-3
 zFactor: 0.1.9
 zGPS.AO: 0.1.0
