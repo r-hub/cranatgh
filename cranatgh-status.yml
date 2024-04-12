@@ -187,6 +187,7 @@ AbsFilterGSEA: 1.5.1
 Ac3net: 1.2.2
 AcademicThemes: 0.0.2
 AccelStab: 2.0.1
+AcceptReject: 0.1.0
 AcceptanceSampling: 1.0-10
 Ace: 0.0.8
 Achilles: 1.7.2
@@ -1734,7 +1735,7 @@ DZEXPM: '2.0'
 Daim: 1.1.0
 DamiaNN: 1.0.0
 DandEFA: '1.6'
-DanielBiostatistics10th: 0.1.11
+DanielBiostatistics10th: 0.2.0
 Dark: 0.9.8
 DarkDiv: 0.3.0
 Dasst: 0.3.4
@@ -1859,7 +1860,7 @@ Dire: 2.2.0
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
 DirectedClustering: 0.1.1
-Directional: '6.5'
+Directional: '6.6'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.21
@@ -2828,7 +2829,7 @@ GapAnalysis: 1.0.2
 GauPro: 0.2.11
 GaussSuppression: 0.8.3
 GaussianHMM1d: 1.1.1
-GeDS: 0.2.0
+GeDS: 0.2.1
 GeNetIt: 0.1-6
 GeSciLiVis: 1.2.0
 GenABEL: 1.8-0
@@ -2885,7 +2886,7 @@ GeoDE: '1.0'
 GeoFIS: 1.0.4
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 2.0.0
+GeoModels: 2.0.1
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1.992
@@ -2906,7 +2907,7 @@ GetLattesData: 1.4.3
 GetNenshuJP: '0.1'
 GetQuandlData: 1.0.0
 GetR: '0.1'
-GetTDData: 1.5.4
+GetTDData: 1.5.5
 GetoptLong: 1.0.5
 Ghat: 0.2.0
 GhcnDaily: '1.5'
@@ -3562,7 +3563,7 @@ KCSKNNShiny: 0.1.0
 KCSNBShiny: 0.1.0
 KDViz: 1.3.1
 KENDL: '1.1'
-KEPTED: 0.1.0
+KEPTED: 0.1.1
 KERE: 1.0.0
 KFAS: 1.5.1
 KFKSDS: '1.6'
@@ -5329,7 +5330,7 @@ PartialNetwork: 1.0.3
 Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 PathSelectMP: '1.1'
-PatientProfiles: 0.7.0
+PatientProfiles: 0.8.0
 PatternClass: 2.0.1
 Patterns: '1.4'
 PdPDB: 2.0.1
@@ -6828,6 +6829,7 @@ SAiVE: 1.0.4
 SAutomata: 0.1.0
 SBAGM: 0.1.0
 SBCK: 1.0.0
+SBI: 0.1.0
 SBICgraph: 1.0.0
 SBMSplitMerge: 1.1.1
 SBN: 1.0.0
@@ -7314,7 +7316,7 @@ SimComp: '3.3'
 SimCop: 0.7.0
 SimCorMultRes: 1.9.0
 SimCorrMix: 0.1.1
-SimDesign: '2.14'
+SimDesign: '2.15'
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.3
 SimEngine: 1.4.0
@@ -7547,7 +7549,7 @@ SteppedPower: 0.3.4
 StepwiseTest: '1.0'
 StereoMorph: 1.6.7
 Stickbreaker: 1.0.0
-SticsRFiles: 1.2.0
+SticsRFiles: 1.3.0
 StochBlock: 0.1.2
 StochKit2R: '0.3'
 StochaTR: 1.0.4
@@ -8699,6 +8701,7 @@ algo: 0.1.0
 algorithmia: 0.3.0
 algstat: 0.0.2
 aliases2entrez: 0.1.2
+alien: 1.0.1
 align: 0.1.0
 alignfigR: 0.1.1
 alineR: 1.1.4
@@ -8855,7 +8858,7 @@ apc: 2.0.0
 apcf: 0.3.0
 apcluster: 1.4.11
 apdesign: 1.0.0
-ape: 5.7-1
+ape: '5.8'
 apercu: 0.2.5
 apex: 1.0.6
 apexcharter: 0.4.2
@@ -9008,7 +9011,7 @@ aspace: 4.1.0
 aspect: 1.0-6
 aspi: 0.2.0
 aspline: 0.2.0
-asremlPlus: 4.4.27
+asremlPlus: 4.4.32
 assemblerr: 0.1.1
 assert: 1.0.1
 assertable: 0.2.8
@@ -10048,7 +10051,7 @@ bursts: 1.0-2
 busdater: 0.2.0
 businessPlanR: 0.1-0
 bustt: 0.1.0
-butcher: 0.3.3
+butcher: 0.3.4
 butler: '0.3'
 butterflyOptions: 1.0.1
 bvarsv: '1.1'
@@ -13098,7 +13101,7 @@ evoper: 0.5.0
 evora: '1.0'
 evprof: 1.1.2
 evreg: 1.0.3
-evsim: 1.4.0
+evsim: 1.5.0
 evt0: 1.1-4
 evtclass: '1.0'
 evtree: 1.0-8
@@ -13378,7 +13381,7 @@ fastVAR: 1.2.1
 fastWavelets: 1.0.1
 fasta: 0.1.0
 fastadi: 0.1.1
-fastai: 2.2.1
+fastai: 2.2.2
 fastbeta: 0.2.0
 fastclime: 1.4.1.1
 fastcluster: 1.2.6
@@ -14158,7 +14161,7 @@ gargle: 1.5.2
 gargoyle: 0.0.1
 garma: 0.9.13
 garray: 1.1.2
-gasanalyzer: 0.3.4
+gasanalyzer: 0.4.0
 gaselect: 1.0.22
 gasfluxes: 0.6-2
 gasmodel: 0.6.0
@@ -14896,7 +14899,7 @@ goftest: 1.2-3
 goftte: 1.0.5
 gogamer: 0.4.3
 gogarch: 0.7-5
-goldfish: 1.6.4
+goldfish: 1.6.8
 goldi: 1.0.1
 goldilocks: 0.3.0
 golem: 0.4.1
@@ -14948,7 +14951,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.4.3
-gpboost: 1.3.1
+gpboost: 1.4.0
 gpclib: 1.5-6
 gpg: 1.2.9
 gphmm: 0.99.0
@@ -17430,7 +17433,7 @@ mapiso: 0.3.0
 maple: 0.99.5
 maplegend: 0.1.0
 mapme.biodiversity: 0.5.0
-mapmisc: 2.0.7
+mapmisc: 2.0.9
 mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
@@ -17532,7 +17535,7 @@ matrisk: 0.1.0
 matrixLaplacian: '1.0'
 matrixNormal: 0.1.1
 matrixProfile: 0.5.0
-matrixStats: 1.2.0
+matrixStats: 1.3.0
 matrixStrucTest: 1.0.0
 matrixTests: 0.2.3
 matrixcalc: 1.0-6
@@ -18012,7 +18015,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 0.12.1
+mirai: 0.13.2
 mirai.promises: 0.4.1
 mirf: '1.0'
 mirt: '1.41'
@@ -19434,7 +19437,7 @@ ofGEM: '1.0'
 officedown: 0.3.1
 officer: 0.6.5
 offlineChange: 0.0.4
-offsetreg: 1.0.0
+offsetreg: 1.1.0
 ofp: 1.0.0
 ofw: 1.0-0
 oglmx: 3.0.0.0
@@ -21067,7 +21070,7 @@ psychometric: '2.4'
 psychomix: 1.1-8
 psychonetrics: 0.11.6
 psychotools: 0.7-3
-psychotree: 0.16-0
+psychotree: 0.16-1
 psychrolib: 2.5.2
 psychtm: 2021.1.0
 psymetadata: 1.0.1
@@ -21313,7 +21316,7 @@ quantchem: '0.13'
 quantdates: '1.0'
 quantdr: 1.2.2
 quanteda: 4.0.1
-quanteda.textmodels: 0.9.6
+quanteda.textmodels: 0.9.7
 quanteda.textplots: 0.94.4
 quanteda.textstats: '0.97'
 quantification: 0.2.0
@@ -21406,7 +21409,7 @@ r4googleads: 0.1.1
 r4lineups: 0.1.1
 r4ss: 1.44.0
 r511: 0.1.1
-r5r: 1.1.0
+r5r: '2.0'
 r6extended: 0.1.2
 r6methods: 0.1.0
 rADA: 1.1.9
@@ -22093,7 +22096,7 @@ remstimate: 2.3.8
 renderthis: 0.2.0
 renpow: 0.1-1
 rentrez: 1.2.3
-renv: 1.0.5
+renv: 1.0.7
 renz: 0.2.1
 repairData: 0.1.0
 repana: 2.1.0
@@ -22308,7 +22311,7 @@ rhoR: 1.3.0.3
 rhoneycomb: 2.3.4
 rhosa: 0.2.0
 rhosp: '1.10'
-rhub: 1.1.2
+rhub: 2.0.0
 rhymer: 1.2.0
 rhype: 0.3.0
 ri: '0.9'
@@ -23367,7 +23370,7 @@ see: 0.8.3
 seeclickfixr: 1.1.0
 seecolor: 0.2.0
 seedCCA: '3.1'
-seededlda: 1.2.0
+seededlda: 1.2.1
 seedr: 0.3.0
 seedreg: 1.0.3
 seeds: 0.9.1
@@ -23556,6 +23559,7 @@ sgPLS: '1.8'
 sgRSEA: '0.1'
 sgapi: 1.0.2
 sgat: '0.9'
+sgboost: 0.1.0
 sgd: 1.1.2
 sgee: 0.6-0
 sgeostat: 1.0-27
@@ -24714,7 +24718,7 @@ stepp: 3.2.6
 steprf: 1.0.2
 steps: 1.3.0
 stepwise: '0.3'
-stevedata: 1.1.0
+stevedata: 1.2.0
 stevedore: 0.9.6
 stevemisc: 1.7.0
 stevetemplates: 1.0.0
@@ -25353,7 +25357,7 @@ texor: 1.3.0
 texreg: 1.39.3
 text: 1.2.0
 text.alignment: 0.1.4
-text2map: 0.1.9
+text2map: 0.2.0
 text2sdg: 1.1.1
 text2sdgData: 0.1.1
 text2speech: 1.0.0
@@ -25824,7 +25828,7 @@ transreg: 1.0.2
 transx: 0.0.1
 trapezoid: 2.0-2
 traudem: 1.0.2
-traveltimeR: 1.1.5
+traveltimeR: 1.2.0
 trawl: 0.2.2
 treasury: 0.1.0
 treasuryTR: 0.1.6
