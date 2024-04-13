@@ -951,7 +951,7 @@ CGE: 0.3.3
 CGGP: 1.0.4
 CGIwithR: 0.73-0
 CGManalyzer: 1.3.1
-CGNM: 0.6.7
+CGNM: 0.8.0
 CGP: 2.1-1
 CGPfunctions: 0.6.3
 CGR: 0.1.0
@@ -984,7 +984,7 @@ CIPerm: 0.2.3
 CIS.DGLM: 0.1.0
 CISE: 0.1.0
 CITAN: 2022.1.1
-CIfinder: 1.0.2
+CIfinder: 2.0.0
 CIplot: '1.0'
 CJAMP: 0.1.1
 CJIVE: 0.1.0
@@ -1157,7 +1157,7 @@ CatDyn: 1.1-1
 CatEncoders: 0.1.1
 CatPredi: '1.3'
 CatReg: 2.0.3
-CatastRo: 0.3.0
+CatastRo: 0.3.1
 CateSelection: '1.0'
 CauchyCP: 0.1.1
 CausCor: 0.1.3
@@ -1600,6 +1600,7 @@ DICOM: '0.13'
 DICOMread: 0.0.0.3
 DIDmultiplegt: 0.1.3
 DIDmultiplegtDYN: 1.0.5
+DIFM: '1.0'
 DIFboost: '0.3'
 DIFlasso: 1.0-4
 DIFplus: '1.1'
@@ -2548,7 +2549,7 @@ Funclustering: 1.0.2
 FunctSNP: 1.0-2
 FunctanSNP: 0.1.0
 FunctionalNetworks: 1.0.0
-FunnelPlotR: 0.4.2
+FunnelPlotR: 0.5.0
 FusedLasso: 1.0.6
 FusedPCA: '0.2'
 FusionLearn: 0.2.1
@@ -2813,7 +2814,7 @@ GWPR.light: 0.2.1
 GWRLASSO: 0.1.0
 GWRM: 2.1.0.4
 GWSDAT: 3.2.1
-GWalkR: 0.1.3
+GWalkR: 0.1.4
 GWmodel: 2.3-2
 GWnnegPCA: 0.0.4
 GWpcor: 0.1.7
@@ -3925,7 +3926,7 @@ MALDIquant: 1.22.2
 MALDIquantForeign: 0.14.1
 MALDIrppa: 1.1.0-2
 MAMA: 2.2.1
-MAMS: 2.0.1
+MAMS: 2.0.2
 MAMSE: 0.2-1
 MANCIE: '1.4'
 MANOVA.RM: 0.5.4
@@ -4382,7 +4383,7 @@ Mediana: 1.0.8
 MedianaDesigner: '0.13'
 Mega2R: 1.1.0
 Meiosis: 1.0.2
-MendelianRandomization: 0.9.0
+MendelianRandomization: 0.10.0
 MenuCollection: '1.2'
 Mercator: 1.1.2
 MergeGUI: 0.2-1
@@ -4832,7 +4833,7 @@ NonlinearRDD: 0.0.4
 NonlinearTSA: 0.5.0
 NonpModelCheck: '4.1'
 Nonpareil: 3.4.0
-NormData: '1.0'
+NormData: '1.1'
 NormExpression: 0.1.1
 NormPsy: 1.0.8
 NormalBetaPrime: '2.2'
@@ -6238,7 +6239,7 @@ RaProR: 1.1-5
 RaSEn: 3.0.0
 RaceID: 0.3.5
 Racmacs: 1.2.9
-RadData: 1.0.1
+RadData: 1.0.2
 RadOnc: 1.1.8
 RadTran: '1.0'
 RadialPlotter: '2.2'
@@ -7909,7 +7910,7 @@ ThreeGroups: '0.21'
 ThreeWay: 1.1.3
 ThreeWiseMonkeys: 0.1.0
 Thresher: 1.1.3
-ThresholdROC: 2.9.3
+ThresholdROC: 2.9.4
 ThresholdROCsurvival: 1.2.1
 ThurMod: 1.1.11
 TiPS: 1.2.3
@@ -7941,6 +7942,7 @@ Tmisc: 1.0.1
 Tnseq: 0.1.2
 TooManyCellsR: 0.1.1.0
 ToolsForCoDa: 1.0.6
+Toothnroll: '1.11'
 TopDom: 0.10.1
 TopKLists: 1.0.8
 TopKSignal: '1.0'
@@ -8773,6 +8775,7 @@ ammistability: 0.1.4
 amp: 1.0.0
 ampd: '0.2'
 ampir: 1.1.0
+amregtest: 1.0.3
 amt: 0.2.2.0
 anMC: 0.2.5
 anabel: 3.0.1
@@ -9149,6 +9152,7 @@ avfintools: 0.1.0
 avgrankoverlap: '1.0'
 avidaR: 1.2.0
 avocado: 0.1.0
+avotrex: 1.0.0
 aweSOM: '1.3'
 aweek: 1.0.3
 awinR: 0.1.0
@@ -9285,6 +9289,7 @@ basictabler: 1.0.2
 basifoR: '0.4'
 basket: 0.10.11
 baskexact: 1.0.1
+basksim: 1.0.0
 bastah: 1.0.7
 batade: '0.1'
 batata: 0.2.1
@@ -10136,7 +10141,7 @@ camel: 0.2.0
 camerondata: 1.0.0
 campaignmanageR: 0.1.0
 campfin: 1.0.11
-campsis: 1.5.1
+campsis: 1.5.2
 campsismod: 1.1.1
 camsRad: 0.3.0
 camtrapR: 2.3.0
@@ -10434,7 +10439,7 @@ charlson: '1.0'
 chartql: 0.1.0
 chatAI4R: 0.2.10
 chatgpt: 0.2.3
-cheapr: 0.5.0
+cheapr: 0.8.0
 cheatR: 1.2.1-1
 cheatmap: 1.0.0
 cheatsheet: 0.1.2
@@ -11945,7 +11950,7 @@ devRate: 0.2.4
 devoid: 0.1.2
 devtoolbox: 0.2.0
 devtools: 2.4.5
-dexter: 1.4.0
+dexter: 1.4.2
 dexterMST: 0.9.6
 dextergui: 0.2.6
 df2json: 0.0.2
@@ -12431,7 +12436,7 @@ dummies: 1.5.6
 dummy: 0.1.3
 dundermifflin: 0.1.1
 dunlin: 0.1.7
-dunn.test: 1.3.5
+dunn.test: 1.3.6
 dupNodes: 0.3.0
 dupiR: 1.2.1
 dupree: 0.3.0
@@ -14097,7 +14102,7 @@ gafit: 0.5.1
 gaiah: 0.0.5
 gainML: 0.1.0
 gains: '1.2'
-galah: 2.0.1
+galah: 2.0.2
 galamm: 0.2.0
 galgo: '1.4'
 galigor: 0.2.5
@@ -14814,7 +14819,7 @@ glmpca: 0.2.0
 glmperm: 1.0-5
 glmpermu: 0.0.1
 glmtlp: 2.0.1
-glmtoolbox: 0.1.10
+glmtoolbox: 0.1.11
 glmtrans: 2.0.0
 glmtree: 0.3.1
 glmulti: 1.0.8
@@ -14955,7 +14960,7 @@ gpboost: 1.4.0
 gpclib: 1.5-6
 gpg: 1.2.9
 gphmm: 0.99.0
-gpindex: 0.6.0
+gpindex: 0.6.1
 gpk: '1.0'
 gpkg: 0.0.8
 gplite: 0.13.0
@@ -15145,7 +15150,7 @@ gsloid: 0.2.0
 gsmaRt: '1.0'
 gsmoothr: 0.1.7
 gson: 0.1.0
-gspcr: 0.9.4.1
+gspcr: 0.9.5
 gsrc: '1.1'
 gsrs: 0.1.1
 gsrsb: 1.2.1
@@ -15358,6 +15363,7 @@ heatmapFlex: 0.1.2
 heatmaply: 1.5.0
 heatwaveR: 0.4.6
 heavy: 0.38.196
+heck: 0.1.0
 heddlr: 0.6.0
 hedgehog: '0.1'
 heemod: 1.0.1
@@ -16621,7 +16627,7 @@ kokudosuuchi: 1.0.0
 kolmim: '1.0'
 komadown: 0.2.0
 komaletter: 0.5.0
-konfound: 0.5.0
+konfound: 0.5.1
 konya: 0.1.0
 kosel: 0.0.1
 kosis: 0.0.1
@@ -17161,7 +17167,7 @@ logmult: 0.7.4
 lognorm: 0.1.10
 logr: 1.3.7
 logregperm: '1.0'
-logrx: 0.3.0
+logrx: 0.3.1
 logspline: 2.1.21
 lokern: 1.1-10.1
 lolR: '2.1'
@@ -17597,7 +17603,7 @@ mcauchyd: 1.2.0
 mcb: 0.1.15
 mcbette: 1.15.2
 mcbiopi: 1.1.6
-mcboost: 0.4.2
+mcboost: 0.4.3
 mcc: '1.0'
 mcca: 0.7.0
 mccca: 1.1.0.1
@@ -17718,7 +17724,7 @@ megaptera: 1.0-0
 meifly: 0.3.1
 mekko: 0.1.0
 melody: 0.4.7
-melt: 1.11.2
+melt: 1.11.3
 meltr: 1.0.2
 meltt: 0.4.3
 melviewr: 0.0.1
@@ -18239,7 +18245,7 @@ mmppr: '0.1'
 mmr: 0.1.0
 mmrm: 0.3.11
 mmsample: '0.1'
-mmstat4: 0.1.6
+mmstat4: 0.2.0
 mmtfa: '0.3'
 mmtsne: 0.1.0
 mnda: 1.0.9
@@ -20772,7 +20778,7 @@ ppendemic: 0.1.7
 ppgam: 1.0.1
 ppgmmga: '1.3'
 ppiPre: '1.9'
-ppitables: 0.5.4
+ppitables: 0.5.5
 ppls: 1.6-1.1
 ppmHR: '1.0'
 ppmSuite: 0.3.4
@@ -21025,7 +21031,7 @@ psSubpathway: 0.1.3
 psbcGroup: '1.7'
 psbcSpeedUp: 2.0.6
 psborrow: 0.2.1
-psborrow2: 0.0.3.2
+psborrow2: 0.0.3.3
 pscl: 1.5.9
 pscore: 0.4.0
 psd: 2.1.1
@@ -21692,7 +21698,7 @@ rasterdiv: 0.3.4
 rasterize: '0.1'
 rasterly: 0.2.0
 rasterpdf: 0.1.1
-rasterpic: 0.2.4
+rasterpic: 0.2.5
 ratPASTA: 0.2.1
 ratdat: 1.1.0
 ratelimitr: 0.4.1
@@ -22062,6 +22068,7 @@ relations: 0.6-13
 relax: 1.3.15
 relaxnet: 0.3-2
 relaxo: 0.1-2
+relcircle: '1.0'
 reldist: 1.7-2
 relen: 1.0.1
 relevance: '2.1'
@@ -24064,6 +24071,7 @@ smosr: 1.0.1
 smotefamily: 1.4.0
 smovie: 1.1.6
 smpic: 0.1.0
+smplot2: 0.1.0
 sms: 2.3.1
 smss: 1.0-2
 smurf: 1.1.5
@@ -24915,7 +24923,7 @@ support.BWS2: 0.4-0
 support.BWS3: 0.2-1
 support.CEs: 0.7-0
 supportInt: '1.1'
-supportR: 1.2.0
+supportR: 1.3.0
 supreme: 1.1.0
 sur: 1.0.4
 surbayes: 0.1.2
@@ -24999,7 +25007,7 @@ survobj: 3.0.0
 survout: 0.1.0
 survrec: 1.2-2
 survsim: 1.1.8
-survstan: 0.0.7
+survstan: 0.0.7.1
 survsup: 0.0.2
 survtmle: 1.1.1
 survutils: 1.0.2
@@ -26584,7 +26592,7 @@ warabandi: 0.1.0
 warbleR: 1.1.30
 warp: 0.2.1
 warpMix: 0.1.0
-washdata: 0.1.3
+washdata: 0.1.4
 washeR: 0.1.3
 washex: 1.2.0
 washi: 0.2.0
@@ -27021,6 +27029,7 @@ zeitgebr: 0.3.5
 zeligverse: 0.1.1
 zen4R: '0.9'
 zendeskR: '0.4'
+zendown: 0.0.1
 zenplots: 1.0.6
 zeroEQpart: 0.1.0
 zerotradeflow: 0.1.0
