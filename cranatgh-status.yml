@@ -1975,7 +1975,7 @@ EDIutils: 1.0.3
 EDMeasure: 1.2.0
 EDNE.EQ: '1.0'
 EDOIF: 0.1.3
-EDOtrans: 0.2.2
+EDOtrans: 0.2.5
 EDR: 0.6-7
 EDanalysis: 1.0.1
 EEAaq: 0.0.3
@@ -2134,6 +2134,7 @@ EleChemr: 1.2.0
 ElectionsLATAM: 0.1.1
 ElectroGraph: 0.9.3
 ElemStatLearn: 2015.6.26.2
+ElevDistr: 1.0.8
 Elja: 1.0.0
 ElliptCopulas: 0.1.3
 EloChoice: 0.29.4
@@ -3401,7 +3402,7 @@ ImaginR: 0.1.7
 Imap: '1.32'
 Immigrate: 0.2.1
 ImpShrinkage: 1.0.0
-ImpactEffectsize: 0.6.3
+ImpactEffectsize: '0.7'
 ImpactIV: '1.0'
 ImportExport: '1.3'
 ImportanceIndice: 0.0.2
@@ -4222,7 +4223,7 @@ MRSP: 0.4.3
 MRTAnalysis: 0.1.2
 MRTSampleSize: 0.3.0
 MRTSampleSizeBinary: 0.1.2
-MRZero: 0.1.0
+MRZero: 0.2.0
 MRmediation: 1.0.1
 MRsurv: '0.2'
 MRwarping: '1.0'
@@ -5648,7 +5649,7 @@ QuasiSeq: 1.0-11-0
 QuickJSR: 1.1.3
 Quor: '0.1'
 QurvE: 1.1.1
-Qval: 0.1.5
+Qval: 0.1.6
 R.SamBada: 0.1.3
 R.cache: 0.16.0
 R.devices: 2.17.2
@@ -9488,10 +9489,10 @@ bestglm: 0.37.3
 besthr: 0.3.2
 bestridge: 1.0.7
 betaBayes: 1.0.1
-betaDelta: 1.0.4
-betaMC: 1.3.1
-betaNB: 1.0.3
-betaSandwich: 1.0.6
+betaDelta: 1.0.5
+betaMC: 1.3.2
+betaNB: 1.0.4
+betaSandwich: 1.0.7
 betaboost: 1.0.1
 betacal: 0.1.0
 betaclust: 1.0.3
@@ -10152,7 +10153,7 @@ canaper: 1.0.1
 cancensus: 0.5.7
 cancerGI: 1.0.1
 cancerTiming: 3.1.8
-cancerscreening: 1.0.2
+cancerscreening: 1.1.0
 candisc: 0.8-6
 canprot: 2.0.0
 cansim: 0.3.16
@@ -16539,7 +16540,7 @@ kgen: 0.3.1
 kgp: 1.1.1
 kgrams: 0.2.0
 kgschart: 1.3.5
-khisr: 1.0.1
+khisr: 1.0.2
 khroma: 1.12.0
 kibior: 0.1.1
 kidney.epi: 1.2.0
@@ -16816,7 +16817,7 @@ lda: 1.4.2
 lda.cv: 1.1-2
 lda.svi: 0.1.0
 ldaPrototype: 0.3.1
-ldamatch: 1.0.2
+ldamatch: 1.0.3
 ldat: 0.3.3
 ldatuning: 1.0.2
 ldbod: 0.1.2
@@ -17190,6 +17191,7 @@ longke: 0.1.0
 longmemo: 1.1-2
 longmixr: 1.0.0
 longpower: 1.0.25
+longreadvqs: 0.1.2
 longsurr: '1.0'
 longurl: 0.3.3
 loo: 2.7.0
@@ -19321,7 +19323,7 @@ nswgeo: 0.4.0
 nsyllable: 1.0.1
 ntdr: 0.3.4
 ntranova: 0.0.1
-ntsDists: 2.0.0
+ntsDists: 2.1.0
 ntwk: 1.0.0
 nucim: 1.0.11
 nuggets: 1.0.2
@@ -19523,11 +19525,11 @@ oops: 0.2.0
 oosp: 0.3.3
 oosse: 1.0.11
 oottest: 0.9.1
-opGMMassessment: 0.3.6
+opGMMassessment: '0.4'
 opa: 0.8.3
 opalr: 3.4.1
 opart: 2019.1.0
-opdisDownsampling: 0.8.3
+opdisDownsampling: '1.0'
 opefimor: '1.2'
 openCR: 2.2.6
 openEBGM: 0.9.1
@@ -19904,7 +19906,7 @@ paramlink2: 1.0.4
 params: 0.7.3
 paramsim: 0.1.0
 paramtest: 0.1.0
-paran: 1.5.2
+paran: 1.5.3
 parboost: 0.1.4
 parcats: 0.0.5
 parcoords: 1.0.0
@@ -22990,7 +22992,7 @@ rysgran: 2.1.0
 rytstat: 0.3.0
 rzeit2: 0.2.3
 rzentra: 0.1.0
-rzmq: 0.9.12
+rzmq: 0.9.13
 s2: 1.1.6
 s20x: 3.1-40
 s2dv: 2.0.0
@@ -24071,7 +24073,7 @@ smosr: 1.0.1
 smotefamily: 1.4.0
 smovie: 1.1.6
 smpic: 0.1.0
-smplot2: 0.1.0
+smplot2: 0.2.0
 sms: 2.3.1
 smss: 1.0-2
 smurf: 1.1.5
@@ -25346,7 +25348,7 @@ testcorr: 0.2.0
 testdat: 0.4.2
 testequavar: 0.1.5
 tester: 0.2.0
-testex: 0.1.0
+testex: 0.2.0
 testextra: 0.1.0.1
 testforDEP: 0.2.0
 testit: '0.13'
@@ -25629,7 +25631,7 @@ tint: 0.1.4
 tinter: 0.1.0
 tinyProject: 0.6.1
 tinyarray: 2.3.3
-tinycodet: 0.4.5
+tinycodet: 0.4.6
 tinylabels: 0.2.4
 tinyscholar: 0.1.7
 tinysnapshot: 0.0.4
