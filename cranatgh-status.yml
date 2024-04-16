@@ -1615,7 +1615,7 @@ DIZtools: 1.0.1
 DIZutils: 0.1.2
 DIconvex: 1.0.0
 DImodels: 1.3.2
-DImodelsMulti: 1.0.1
+DImodelsMulti: 1.1.0
 DImodelsVis: 1.0.1
 DIscBIO: 1.2.2
 DJL: '3.9'
@@ -2730,7 +2730,7 @@ GPArotation: 2024.3-1
 GPB: '1.2'
 GPBayes: 0.1.0-5.1
 GPC: '0.1'
-GPCERF: 0.2.3
+GPCERF: 0.2.4
 GPCMlasso: 0.1-7
 GPCSIV: 0.1.0
 GPFDA: 3.1.3
@@ -3253,7 +3253,7 @@ ICvectorfields: 0.1.2
 IDCard: 0.3.0
 IDConverter: 0.3.4
 IDE: 0.3.1
-IDEAFilter: 0.1.2
+IDEAFilter: 0.2.0
 IDEATools: 3.5.2
 IDF: 2.1.2
 IDMIR: 0.1.0
@@ -5755,7 +5755,7 @@ RCGLS: 1.0.3
 RCLabels: 0.1.10
 RCMIP5: 1.2.0
 RCMinification: '1.2'
-RCPA: 0.2.1
+RCPA: 0.2.2
 RCPA3: 1.2.1
 RCPmod: '2.192'
 RCRnorm: 0.0.2
@@ -6388,7 +6388,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.8.3
 RcppAnnoy: 0.0.22
-RcppArmadillo: 0.12.8.2.0
+RcppArmadillo: 0.12.8.2.1
 RcppArray: 0.3.0
 RcppBDT: 0.2.6
 RcppBigIntAlgos: 1.1.0
@@ -6457,7 +6457,7 @@ Rcssplot: 1.0.0
 Rcurvep: 1.3.1
 Rd: 0.2.0
 Rd2md: 1.0.0
-Rd2roxygen: '1.15'
+Rd2roxygen: '1.16'
 Rdbi: 0.1-2
 Rdbi.PgSQL: 0.1-2
 Rdca: 0.1.0
@@ -6546,7 +6546,7 @@ ResidentialEnergyConsumption: 1.1.0
 ResistorArray: 1.0-32
 ResourceSelection: 0.3-6
 RespirAnalyzer: 1.0.2
-RestRserve: 1.2.1
+RestRserve: 1.2.2
 RestoreNet: 1.0.1
 RevEcoR: 0.99.3
 RevGadgets: 1.2.1
@@ -7430,7 +7430,7 @@ SpaCCr: 0.1.0
 SpaDES: 2.0.10
 SpaDES.addins: 0.1.4
 SpaDES.core: 2.0.3
-SpaDES.tools: 2.0.5
+SpaDES.tools: 2.0.6
 SpaTimeClus: 1.0.1
 SpaTopic: 1.0.1
 SpaceTimeBSS: 0.3-0
@@ -8025,7 +8025,7 @@ TwoPhaseInd: 1.1.2
 TwoRegression: 1.0.0
 TwoSampleTest.HD: '1.2'
 TwoStepCLogit: 1.2.5
-TwoWayFEWeights: 2.0.1
+TwoWayFEWeights: 2.0.2
 TwoWaySurvival: '2.2'
 TwslmSpikeWeight: 1.0.1
 UBCRM: 1.0.2
@@ -8525,7 +8525,7 @@ adaptr: 1.3.2
 adaptsmoFMRI: '1.2'
 adass: 1.0.0
 adbcdrivermanager: 0.11.0
-adbcpostgresql: 0.11.0
+adbcpostgresql: 0.11.0.1
 adbcsqlite: 0.10.0
 adbi: 0.1.1
 adc: 1.0.0
@@ -8593,7 +8593,7 @@ ads: 1.5-10
 adsDataHubR: 0.1.1
 advclust: '0.4'
 adventr: 0.1.8
-adw: 0.3.1
+adw: 0.4.0
 adwave: '1.3'
 adwordsR: 0.3.1
 aeddo: 0.1.1
@@ -8877,7 +8877,7 @@ aplpack: 1.3.5
 apmsWAPP: '1.0'
 apmx: 1.1.1
 apng: '1.1'
-apollo: 0.3.1
+apollo: 0.3.2
 appRiori: 0.0.5
 apparent: '1.1'
 appeears: '1.1'
@@ -9263,6 +9263,7 @@ bartBMA: '1.0'
 bartCause: 1.0-6
 bartMachine: 1.3.4.1
 bartMachineJARs: 1.2.1
+bartMan: 0.1.0
 bartcs: 1.2.1
 basad: 0.3.0
 base.rms: '1.0'
@@ -9760,7 +9761,7 @@ blaster: 1.0.7
 blastula: 0.3.5
 blatent: 0.1.2
 blatr: 1.0.1
-blavaan: 0.5-3
+blavaan: 0.5-4
 blendedLink: '1.0'
 blender: 0.1.2
 blighty: 3.1-4
@@ -9850,7 +9851,7 @@ bondAnalyst: 1.0.1
 bonn: 1.0.2
 bonsai: 0.2.1
 boodist: 1.0.0
-bookdown: '0.38'
+bookdown: '0.39'
 bookdownplus: 1.5.8
 boolean: 2.0-2
 boolean3: 3.1.6
@@ -10325,7 +10326,7 @@ cdcsis: 2.0.3
 cde: 0.4.1
 cder: 0.3-1
 cdfquantreg: 1.3.1-2
-cdgd: 0.3.4
+cdgd: 0.3.5
 cdlTools: '1.13'
 cdlei: '1.0'
 cdmTools: 1.0.5
@@ -11556,7 +11557,7 @@ d3heatmap: 0.6.1.2
 d3plus: 0.1.0
 d3po: 0.5.5
 d3r: 1.1.0
-d4storagehub4R: 0.4-3
+d4storagehub4R: 0.4-4
 dBlockmodeling: 0.2.3
 dCUR: 1.0.1
 dChipIO: 0.1.5
@@ -12727,7 +12728,7 @@ eiCompare: 3.0.4
 eiExpand: 1.0.5
 eiPack: 0.2-2
 eiPartialID: 0.1.2
-eia: 0.4.1
+eia: 0.4.2
 eicm: 1.0.3
 eigendog: '1.01'
 eigeninv: 2011.8-1
@@ -13165,7 +13166,7 @@ expirest: 0.1.6
 explainer: 1.0.0
 explor: 0.3.10
 exploratory: 0.3.31
-explore: 1.2.0
+explore: 1.3.0
 exploreR: '0.1'
 expm: 0.999-9
 expoRkit: 0.9.4
@@ -13233,7 +13234,7 @@ ezplot: 0.7.13
 ezr: 0.1.5
 ezsim: 0.5.5
 ezsummary: 0.2.1
-f1dataR: 1.5.1
+f1dataR: 1.5.2
 fANCOVA: 0.6-1
 fArma: '3042.81'
 fAssets: '4023.85'
@@ -13826,7 +13827,7 @@ formatBibtex: 0.1.0
 formatR: '1.14'
 formatdown: 0.1.3
 formattable: 0.2.1
-formatters: 0.5.5
+formatters: 0.5.6
 formods: 0.1.4
 formula.tools: 1.7.1
 formulaic: 0.0.8
@@ -14548,7 +14549,7 @@ ggdmc: 0.2.6.0
 gge: '1.8'
 ggeasy: 0.1.4
 ggedit: 0.4.1
-ggeffects: 1.5.1
+ggeffects: 1.5.2
 ggenealogy: 1.0.3
 ggetho: 0.3.7
 ggfacto: 0.3.0
@@ -14957,7 +14958,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.4.3
-gpboost: 1.4.0
+gpboost: 1.4.0.1
 gpclib: 1.5-6
 gpg: 1.2.9
 gphmm: 0.99.0
@@ -16024,7 +16025,7 @@ injectoR: 0.2.4
 injurytools: 1.0.3
 inlabru: 2.10.1
 inlcolor: 1.0.6
-inldata: 1.1.4
+inldata: 1.1.5
 inline: 0.3.19
 inlinedocs: 2023.9.4
 inlmisc: 0.5.5
@@ -16118,7 +16119,7 @@ intoo: 0.4.0
 intpoint: '1.0'
 intradayModel: 0.0.1
 intrinsicDimension: 1.2.0
-intrinsicFRP: 2.0.1
+intrinsicFRP: 2.1.0
 intrinsicKappa: '0.1'
 introgress: 1.2.3
 intrval: 0.1-2
@@ -16419,7 +16420,7 @@ jsTree: '1.2'
 jsTreeR: 2.5.0
 jshintr: 0.1.0
 jskm: 0.5.3
-jsmodule: 1.5.2
+jsmodule: 1.5.3
 json2aRgs: 0.3.0
 json64: 0.1.3
 jsonNormalize: 1.0.0
@@ -17309,7 +17310,7 @@ m4fe: '0.1'
 m5: 0.1.1
 m61r: 0.0.3
 mAr: 1.2-0
-mBvs: '1.6'
+mBvs: '1.92'
 mDAG: 1.2.2
 mExplorer: 1.0.0
 mFD: 1.0.7
@@ -17823,7 +17824,7 @@ metamisc: 0.4.0
 metan: 1.18.0
 metanetwork: 0.7.0
 metansue: '2.5'
-metap: '1.9'
+metap: '1.10'
 metapack: '0.3'
 metaplot: 0.8.4
 metaplotr: 0.0.3
@@ -18337,7 +18338,7 @@ modiscloud: '0.14'
 modmarg: 0.9.6
 modnets: 0.9.0
 modopt.matlab: 1.0-2
-modsem: 0.1.0
+modsem: 0.1.1
 moduleColor: 1.8-4
 modules: 0.13.0
 modygliani: '1.0'
@@ -19517,7 +19518,7 @@ ontologyIndex: '2.12'
 ontologyPlot: '1.7'
 ontologySimilarity: '2.7'
 ontophylo: 1.1.3
-oolong: 0.6.0
+oolong: 0.6.1
 oompaBase: 3.2.9
 oompaData: 3.1.3
 ooplah: 0.2.0
@@ -19529,7 +19530,7 @@ opGMMassessment: '0.4'
 opa: 0.8.3
 opalr: 3.4.1
 opart: 2019.1.0
-opdisDownsampling: '1.0'
+opdisDownsampling: 1.0.1
 opefimor: '1.2'
 openCR: 2.2.6
 openEBGM: 0.9.1
@@ -20292,7 +20293,7 @@ phom: 1.0.3
 phonR: 1.0-7
 phonTools: 0.2-2.2
 phonenumber: 0.2.3
-phonfieldwork: 0.0.11
+phonfieldwork: 0.0.13
 phonics: 1.3.10
 phosphoricons: 0.2.1
 photobiology: 0.11.2
@@ -21286,7 +21287,7 @@ qtl2fst: '0.26'
 qtl2ggplot: 1.2.4
 qtl2pattern: 1.2.1
 qtl2pleio: 1.4.3
-qtlDesign: '0.941'
+qtlDesign: '0.953'
 qtlbim: 2.0.7
 qtlbook: 0.18-8
 qtlc: '1.0'
@@ -21947,6 +21948,7 @@ rebus.base: 0.0-3
 rebus.datetimes: 0.0-2
 rebus.numbers: 0.0-1
 rebus.unicode: 0.0-2
+recalibratiNN: 0.2.0
 recalls: 0.1.0
 recapr: 0.4.4
 reccsim: 0.9-1
@@ -22142,7 +22144,7 @@ representr: 0.1.5
 represtools: 0.1.3
 reprex: 2.1.0
 reproducer: 0.5.3
-reproducible: 2.0.11
+reproducible: 2.0.12
 reproj: 0.4.3
 repsd: 1.0.1
 repurrrsive: 1.1.0
@@ -22193,7 +22195,7 @@ resumer: 0.0.5
 retel: 0.1.0
 rethinker: 1.1.0
 rethnicity: 0.2.4
-reticulate: 1.35.0
+reticulate: 1.36.0
 retimes: 0.1-2
 retistruct: 0.6.3
 retractcheck: 1.0.0
@@ -22409,7 +22411,7 @@ rjson: 0.2.21
 rjsonapi: 0.1.0
 rjsoncons: 1.2.0
 rjstat: 0.4.3
-rjtools: 1.0.12
+rjtools: 1.0.13
 rjwsacruncher: 0.2.0
 rkafka: '1.4'
 rkafkajars: '1.2'
@@ -22435,7 +22437,7 @@ rlibkriging: 0.8-0.1
 rliger: 2.0.1
 rlinkedinads: 0.2.0
 rlist: 0.4.6.2
-rlistings: 0.2.7
+rlistings: 0.2.8
 rllama: 0.4.4
 rlm: '1.2'
 rlmDataDriven: 0.4.0
@@ -22862,7 +22864,7 @@ rt: 1.1.0
 rt.test: 1.18.7.9
 rt3: 0.1.2
 rtable: 0.1.5
-rtables: 0.6.6
+rtables: 0.6.7
 rtape: '2.2'
 rtdists: 0.11-5
 rtematres: '0.2'
@@ -23054,7 +23056,7 @@ saeRobust: 0.5.0
 saeSim: 0.11.0
 saeTrafo: 1.0.2
 saebnocov: 0.1.0
-saeczi: 0.1.2
+saeczi: 0.1.3
 saeeb: 0.1.0
 saekernel: 0.1.1
 saemix: '3.3'
@@ -25316,7 +25318,7 @@ tensorEVD: 0.1.1
 tensorFun: 0.1.1
 tensorMiss: 1.1.1
 tensorTS: 1.0.1
-tensorflow: 2.15.0
+tensorflow: 2.16.0
 tensorordinal: 0.2.0
 tensorr: 0.1.1
 tensorregress: '5.1'
@@ -25510,7 +25512,7 @@ tidyfast: 0.4.0
 tidyfinance: 0.1.0
 tidyfit: 0.7.1
 tidyformula: 0.1.0
-tidyfst: 1.7.7
+tidyfst: 1.7.8
 tidyft: 0.5.7
 tidygam: 0.2.0
 tidygapminder: 0.1.1
@@ -26266,7 +26268,7 @@ uuid: 1.2-0
 uwIntroStats: 0.0.7
 uwedragon: 0.1.0
 uwo4419: 0.3.0
-uwot: 0.1.16
+uwot: 0.2.1
 uxr: 0.2.0
 vDiveR: 1.2.1
 vICC: 1.0.0
@@ -27031,7 +27033,7 @@ zeitgebr: 0.3.5
 zeligverse: 0.1.1
 zen4R: '0.9'
 zendeskR: '0.4'
-zendown: 0.0.1
+zendown: 0.0.2
 zenplots: 1.0.6
 zeroEQpart: 0.1.0
 zerotradeflow: 0.1.0
