@@ -32,6 +32,7 @@ ADCT: 0.1.0
 ADDT: '2.0'
 ADER: '1.5'
 ADGofTest: '0.3'
+ADLP: 0.1.0
 ADM3: '1.3'
 ADMM: 0.3.3
 ADMMnet: 0.1.1
@@ -152,6 +153,7 @@ ARTP: 2.0.5
 ARTP2: 0.9.45
 ARTofR: 0.4.1
 ARTool: 0.11.1
+ARUtools: 0.6.2
 ARpLMEC: 2.4.1
 ASGS.foyer: 0.3.3
 ASICS: 1.0.1
@@ -1218,6 +1220,7 @@ CircOutlier: 3.2.3
 CircSpaceTime: 0.9.0
 CircSpatial: 1.0-1
 CircStats: 0.2-6
+CirceR: 1.3.3
 CirclesIntersections: '1.1'
 CircularDDM: 0.1.0
 CircularSilhouette: 0.0.1
@@ -1233,7 +1236,7 @@ ClassDiscovery: 3.4.0
 CleanBSequences: 1.4.0
 ClickClust: 1.1.6
 ClickClustCont: 0.1.7
-ClickHouseHTTP: 0.3.2
+ClickHouseHTTP: 0.3.3
 CliftLRD: 0.1-1
 ClimClass: 2.1.0
 ClimDown: 1.0.8
@@ -1457,6 +1460,7 @@ CreditRisk: 0.1.3
 Cronbach: '0.1'
 CropDetectR: 0.0.1
 CropScapeR: 1.1.5
+CropWaterBalance: 0.2.0
 CrossCarry: 0.1.0
 CrossClustering: 4.0.3
 CrossScreening: 0.1.1
@@ -1929,6 +1933,7 @@ DtD: 0.2.2
 Dtableone: 1.1.0
 DunnettTests: '2.0'
 Durga: '2.0'
+DyMEP: 0.1.0
 DySS: '1.0'
 DySeq: '0.22'
 Dykstra: 1.0-0
@@ -3451,6 +3456,7 @@ InteRD: 0.1.1
 IntegrateBs: 0.1.0
 IntegratedJM: '1.6'
 IntegratedMRF: 1.1.9
+InterNL: 0.1.0
 InterSIM: 2.2.0
 InterVA4: 1.7.6
 InterVA5: 1.1.3
@@ -3832,7 +3838,7 @@ LearningRlab: '2.4'
 LearningStats: 0.1.0
 LendingClub: 2.0.0
 LexFindR: 1.0.2
-LexisNexisTools: 0.3.7
+LexisNexisTools: 1.0.0
 LexisPlotR: 0.4.0
 LibOPF: 2.6.2
 LiblineaR: 2.10-23
@@ -3969,7 +3975,7 @@ MBESS: 4.9.3
 MBHdesign: 2.3.15
 MBI: '1.0'
 MBMethPred: 0.1.4.2
-MBNMAdose: 0.4.2
+MBNMAdose: 0.4.3
 MBNMAtime: 0.2.4
 MBSGS: 1.1.0
 MBSP: '4.0'
@@ -3980,6 +3986,7 @@ MCAPS: 0.3-2
 MCARtest: 1.2.1
 MCAvariants: 2.6.1
 MCBackscattering: 0.1.1
+MCCM: 0.1.0
 MCDA: 0.1.0
 MCDM: '1.2'
 MCE: '1.1'
@@ -4436,6 +4443,7 @@ MetamapsDB: 0.0.2
 Metatron: 0.1-1
 Meth27QC: '1.1'
 MethComp: 1.30.0
+MethEvolSIM: '0.1'
 MethodCompare: 0.1.2
 Methplot: '1.0'
 MethyBayes: 0.1.0
@@ -8165,7 +8173,7 @@ VUROCS: '1.0'
 VWPre: 1.2.4
 VaR: '0.2'
 VaRES: 1.0.2
-VancouvR: 0.1.7
+VancouvR: 0.1.8
 VarBundle: 0.3.0
 VarED: 1.0.0
 VarEff: '1.0'
@@ -8319,6 +8327,7 @@ WindCurves: '0.2'
 Wmisc: 0.3.4
 WoodSimulatR: 0.6.1
 WoodburyMatrix: 0.0.3
+WordListsAnalytics: 0.2.0
 WordOfMouth: 1.1.0
 WordPools: 1.2.0
 WordR: 0.3.6
@@ -8907,7 +8916,7 @@ apt: '3.0'
 aptg: 0.1.1
 apyramid: 0.1.3
 aqfig: '0.8'
-aqp: 2.0.2
+aqp: 2.0.3
 aqr: '0.4'
 aquodom: 0.1.1
 ar.matrix: 0.1.0
@@ -9228,6 +9237,7 @@ baggedcv: '1.0'
 baggingbwsel: '1.0'
 baggr: 0.7.8
 baguette: 1.0.2
+bagyo: 0.1.1
 bahc: 0.3.0
 bain: 0.2.10
 bairt: 0.1.2
@@ -9301,7 +9311,7 @@ batade: '0.1'
 batata: 0.2.1
 batch: 1.1-5
 batchmeans: 1.0-4
-batchmix: 2.1.0
+batchmix: 2.2.0
 batchr: 0.0.2
 batchscr: 0.1.0
 batchtma: 0.1.6
@@ -9335,7 +9345,7 @@ bayesMig: 0.4-6
 bayesPO: 0.5.0
 bayesPop: 10.0-1
 bayesQR: '2.4'
-bayesROE: '0.1'
+bayesROE: '0.2'
 bayesRecon: 0.2.0
 bayesSurv: '3.7'
 bayesTFR: 7.4-2
@@ -9546,7 +9556,7 @@ biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.1
 biblio: 0.0.9
-bibliometrix: 4.1.4
+bibliometrix: 4.2.0
 bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
 bibliorefer: 0.1.0
@@ -9773,7 +9783,7 @@ blin: 0.0.1
 blindrecalc: 1.0.1
 blindreview: 2.0.0
 blink: 1.1.0
-bliss: 1.0.4
+bliss: 1.0.5
 blkbox: '1.0'
 blkergm: '1.1'
 blm: 2022.0.0.1
@@ -10636,7 +10646,7 @@ climbeR: 0.0.1
 climdex.pcic: 1.1-11
 clime: 0.5.0
 climenv: 1.0.0
-climetrics: 1.0-12
+climetrics: 1.0-15
 climextRemes: 0.3.1
 climtrends: 1.0.6
 climwin: 1.2.3
@@ -11645,7 +11655,7 @@ dataQualityR: '1.0'
 dataReporter: 1.0.2
 dataRetrieval: 2.7.15
 dataSDA: 0.1.0
-databraryr: 0.6.3
+databraryr: 0.6.4
 datacheck: 1.2.2
 datacheckr: 0.2.0
 dataclass: 0.3.0
@@ -12405,7 +12415,7 @@ dsos: 0.1.2
 dsr: 0.2.2
 dsrTest: 1.0.0
 dssd: 1.0.2
-dst: 1.5.2
+dst: 1.6.0
 dstabledist: 0.1.0
 dstack: 0.2.1
 dstat: 1.0.4
@@ -13168,7 +13178,7 @@ expert: 1.0-0
 expertsurv: 1.3.0
 expint: 0.1-8
 expirest: 0.1.6
-explainer: 1.0.0
+explainer: 1.0.1
 explor: 0.3.10
 exploratory: 0.3.31
 explore: 1.3.0
@@ -13400,7 +13410,7 @@ fastcluster: 1.2.6
 fastcmh: 0.2.7
 fastcmprsk: 1.1.1
 fastcox: 1.1.3
-fastcpd: 0.14.0
+fastcpd: 0.14.1
 fastdigest: 0.6-4
 fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
@@ -13514,7 +13524,7 @@ fedz1: 0.1.0
 feedeR: 0.0.10
 feisr: 1.3.0
 fellov: '0.1'
-felp: 0.4.0
+felp: 0.5.0
 feltr: 0.0.4
 femmeR: 0.5.1.1
 fence: '1.0'
@@ -14040,6 +14050,7 @@ future.BatchJobs: 0.17.0
 future.apply: 1.11.2
 future.batchtools: 0.12.1
 future.callr: 0.8.2
+future.mirai: 0.2.0
 future.tests: 0.7.0
 futureheatwaves: 1.0.3
 fuzzr: 0.2.2
@@ -14367,7 +14378,7 @@ geoSAE: 0.1.0
 geoSpectral: 0.17.5
 geoTS: 0.1.8
 geoaxe: 0.1.0
-geobr: 1.8.2
+geobr: 1.9.0
 geocacheR: 0.1.0
 geocausal: 0.3.0
 geocmeans: 0.3.4
@@ -14400,7 +14411,7 @@ geomapdata: 2.0-2
 geomaroc: 0.1.1
 geomedb: 2.0.1
 geomerge: 0.3.4
-geometa: 0.7-1
+geometa: 0.8-0
 geometr: 0.2.10
 geometries: 0.2.4
 geometry: 0.4.7
@@ -14413,6 +14424,7 @@ geonames: '0.999'
 geonapi: 0.7-2
 geonet: 0.7.3
 geonetwork: 0.5.0
+geonode4R: '0.1'
 geoops: 0.3.0
 geoparser: 0.1.2
 geoperu: 0.0.0.2
@@ -14781,7 +14793,7 @@ gld: 2.6.6
 gldist: '2160.2'
 gldrm: '1.6'
 glinternet: 1.0.12
-glinvci: 1.2.2
+glinvci: 1.2.4
 gllm: '0.38'
 gllvm: 1.4.3
 glm.ddR: 0.1.1
@@ -14789,7 +14801,7 @@ glm.deploy: 1.0.4
 glm.predict: 4.3-0
 glm2: 1.2.1
 glmBfp: 0.0-60
-glmMisrep: 0.1.0
+glmMisrep: 0.1.1
 glmaag: 0.0.6
 glmbb: 0.5-1
 glmc: 0.3-1
@@ -15025,7 +15037,7 @@ graphclust: '1.3'
 grapherator: 1.0.0
 graphframes: 0.1.2
 graphhopper: 0.1.2
-graphicalExtremes: 0.3.1
+graphicalExtremes: 0.3.2
 graphicalVAR: 0.3.4
 graphicsQC: 1.0-8
 graphite: '1.1'
@@ -16171,6 +16183,7 @@ ipdmeta: '2.4'
 ipdw: 2.0-0
 ipeaData: 0.0.2
 ipeadatar: 0.1.6
+ipeaplot: 0.3.1
 iperform: 0.0.3
 ipflasso: '1.1'
 ipfp: 1.0.2
@@ -16203,7 +16216,7 @@ iqspr: '2.3'
 ir: 0.2.1
 irace: '3.5'
 iraceplot: '1.2'
-irboost: 0.1-1.3
+irboost: 0.1-1.5
 ircor: '1.0'
 irg: 0.1.6
 iriR: 0.2.2
@@ -16507,7 +16520,7 @@ kerDAA: 0.1.1
 kerSeg: '1.1'
 kerTests: 0.1.4
 keras: 2.13.0
-keras3: 0.1.0
+keras3: 0.2.0
 kerasR: 0.8.1
 kerasformula: 1.5.1
 kerastuneR: 0.1.0.7
@@ -16754,7 +16767,7 @@ lasvmR: 0.1.2
 latcontrol: 0.1.0
 latdiag: '0.3'
 latenetwork: 1.0.1
-latentFactoR: 0.0.4
+latentFactoR: 0.0.6
 latentcor: 2.0.1
 latentgraph: '1.1'
 latentnet: 2.11.0
@@ -17162,6 +17175,7 @@ logib: 0.1.2
 logicDT: 1.0.4
 logihist: '1.0'
 logilasso: 0.1.0
+login: 0.9.3
 logistf: 1.26.0
 logistiX: 1.0-1
 logistic4p: '1.6'
@@ -17178,7 +17192,7 @@ logr: 1.3.7
 logregperm: '1.0'
 logrx: 0.3.1
 logspline: 2.1.21
-lokern: 1.1-10.1
+lokern: 1.1-11
 lolR: '2.1'
 lolliplot: 0.2.2
 lolog: 1.3.1
@@ -17470,7 +17484,7 @@ maptools: 1.1-8
 maptpx: 1.9-7
 maptree: 1.4-8
 mapview: 2.11.2
-maq: 0.3.1
+maq: 0.4.0
 mar1s: 2.1.1
 maraca: '0.7'
 marble: 0.0.3
@@ -17851,7 +17865,7 @@ metavcov: 2.1.5
 metaviz: 0.3.1
 metawho: 0.2.0
 meteR: '1.2'
-meteo: 2.0-2
+meteo: 2.0-3
 meteoEVT: 0.1.0
 meteoForecast: '0.56'
 meteogRam: '1.0'
@@ -18603,7 +18617,7 @@ mulset: 1.0.0
 mult.latent.reg: 0.1.7
 multDM: 1.1.4
 multIntTestFunc: 0.2.0
-multbxxc: 1.0.1
+multbxxc: 1.0.2
 multcomp: 1.4-25
 multcompView: 0.1-10
 multdyn: '1.6'
@@ -19839,7 +19853,7 @@ pak: 0.7.2
 palaeoSig: 2.1-3
 palaeoverse: 1.3.0
 palasso: 0.0.9
-pald: 0.0.3
+pald: 0.0.4
 paleoDiv: 0.2.2
 paleoMAS: 2.0-1
 paleoTS: 0.5.3
@@ -20431,7 +20445,7 @@ pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
 pkgdepends: 0.7.2
-pkgdown: 2.0.8
+pkgdown: 2.0.9
 pkgfilecache: 0.1.5
 pkggraph: 0.2.3
 pkglite: 0.2.2
@@ -22420,7 +22434,7 @@ rjpdmp: 2.0.0
 rjqpd: 0.2.3
 rjson: 0.2.21
 rjsonapi: 0.1.0
-rjsoncons: 1.2.0
+rjsoncons: 1.3.0
 rjstat: 0.4.3
 rjtools: 1.0.13
 rjwsacruncher: 0.2.0
@@ -22529,7 +22543,7 @@ rngtools: 1.5.2
 rngwell19937: 0.6-0
 rnmamod: 0.4.0
 rnn: 1.9.0
-rnndescent: 0.1.4
+rnndescent: 0.1.5
 rnoaa: 1.4.0
 rnpn: 1.2.8.0
 rnr: 0.2.1
@@ -22710,7 +22724,7 @@ rplos: 1.0.0
 rplotengine: 1.0-9
 rpls: 0.6.0
 rplum: 0.4.0
-rpm: 0.7-1
+rpm: 0.7-3
 rpmodel: 1.2.0
 rpms: 0.5.1
 rpn: '1.0'
@@ -22738,7 +22752,7 @@ rpud: 0.0.2
 rpvm: 1.0-4
 rpyANTs: 0.0.3
 rpymat: 0.1.7
-rqPen: 3.2.2
+rqPen: '4.0'
 rqdatatable: 1.3.3
 rqlm: 1.2-1
 rqmcmb2: 1.0.2-1
@@ -23499,7 +23513,7 @@ sentiment: '0.2'
 sentiment.ai: 0.1.1
 sentimentr: 2.9.0
 sentometrics: 1.0.0
-sentopics: 0.7.2
+sentopics: 0.7.3
 sentryR: 1.1.2
 seoR: 0.1.0
 separationplot: '1.4'
@@ -24135,7 +24149,7 @@ soc.ca: 0.8.0
 socceR: 0.1.1
 social: '1.0'
 socialh: 0.1.1
-socialmixr: 0.3.1
+socialmixr: 0.3.2
 socialranking: 1.1.0
 socialrisk: 0.5.1
 sociome: 2.2.5
@@ -24432,6 +24446,7 @@ spgwr: 0.6-36
 sphereTessellation: 1.2.0
 spherepc: 0.1.7
 sphereplot: 1.5.1
+spheresmooth: 0.1.0
 sphet: '2.0'
 sphunif: 1.3.0
 spi: '1.1'
@@ -24787,7 +24802,7 @@ stodom: 0.0.1
 stoichcalc: 1.1-5
 stokes: 1.2-0
 stopdetection: 0.1.2
-stopp: 0.2.2
+stopp: 0.2.3
 stoppingrule: 0.4.0
 stops: 1.0-1
 stopwords: '2.3'
@@ -26048,7 +26063,7 @@ tukeyGH: 1.0.0
 tukeytrend: '0.7'
 tumblR: '1.2'
 tumgr: 0.0.4
-tune: 1.2.0
+tune: 1.2.1
 tuneR: 1.4.7
 tuneRanger: '0.7'
 tuple: 0.4-02
@@ -26929,6 +26944,7 @@ xhaz: 2.0.1
 xhmmScripts: '1.1'
 xkcd: 0.0.6
 xkcdcolors: '1.0'
+xlcharts: 0.0.1
 xlcutter: 0.1.1
 xlink: 1.0.1
 xlm: 0.1.1
