@@ -628,7 +628,7 @@ BayesLogit: '2.1'
 BayesMAMS: '0.1'
 BayesMFSurv: 0.1.0
 BayesMRA: 1.0.0
-BayesMallows: 2.1.1
+BayesMallows: 2.2.0
 BayesMassBal: 1.1.0
 BayesMed: 1.0.1
 BayesMixSurv: 0.9.1
@@ -1456,7 +1456,7 @@ Cprob: 1.4.1
 CptNonPar: 0.1.1
 CramTest: '1.5'
 CreditMetrics: 0.0-2
-CreditRisk: 0.1.3
+CreditRisk: 0.1.7
 Cronbach: '0.1'
 CropDetectR: 0.0.1
 CropScapeR: 1.1.5
@@ -4721,7 +4721,7 @@ NMproject: 0.6.9
 NMsim: 0.1.0
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: '10.7'
+NNS: '10.8'
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.8.7
@@ -5545,7 +5545,7 @@ ProliferativeIndex: 1.0.1
 PrometheeTools: 0.1.0
 PropCIs: 0.3-0
 PropClust: 1.4-7
-PropScrRand: 1.1.1
+PropScrRand: 1.1.2
 PropensitySub: 0.2.0
 ProteinDescriptors: 0.1.0
 ProteoBayes: 1.0.0
@@ -5626,7 +5626,7 @@ QTOCen: 0.1.1
 QUALYPSO: '2.3'
 QUIC: 1.1.1
 QVM: 0.1.1
-QWDAP: 1.1.17
+QWDAP: 1.1.18
 QZ: 0.2-3
 Qapprox: 0.2.0
 Qardl: 0.1.1
@@ -6309,6 +6309,7 @@ Rbitcoin: 0.9.2
 RblDataLicense: 0.2.5
 Rblpapi: 0.3.14
 Rborist: 0.3-7
+RbyExample: 0.0.100
 Rcan: 1.3.82
 Rcapture: 1.4-4
 Rcatch22: 0.2.1
@@ -8239,7 +8240,7 @@ WGScan: '0.1'
 WH: 1.1.1
 WHO: 0.2.1
 WINRPACK: 1.1-0
-WINS: '1.4'
+WINS: 1.4.1
 WLasso: '1.0'
 WLinfer: 1.2.0
 WLogit: '2.1'
@@ -8842,7 +8843,7 @@ anonymizer: 0.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
 ant: 0.0-10
-antaresEditObject: 0.6.1
+antaresEditObject: 0.6.2
 antaresProcessing: 0.18.1
 antaresRead: 2.6.0
 antaresViz: 0.18.0
@@ -8873,7 +8874,7 @@ apaText: 0.1.7
 apache.sedona: 1.5.1
 apc: 2.0.0
 apcf: 0.3.0
-apcluster: 1.4.11
+apcluster: 1.4.12
 apdesign: 1.0.0
 ape: '5.8'
 apercu: 0.2.5
@@ -9024,7 +9025,7 @@ askpass: 1.2.0
 aslib: 0.1.2
 asmbPLS: 1.0.0
 asnipe: 1.1.17
-aspace: 4.1.1
+aspace: 4.1.2
 aspect: 1.0-6
 aspi: 0.2.0
 aspline: 0.2.0
@@ -9707,7 +9708,7 @@ bionetdata: '1.1'
 biopara: '1.5'
 biopixR: 0.2.4
 bioplots: 0.0.1
-bioregion: 1.1.0
+bioregion: 1.1.1
 biorxivr: 1.0.2
 bios2mds: 1.2.3
 biosampleR: 1.0.4
@@ -10061,7 +10062,7 @@ bumbl: 1.0.3
 bumblebee: 0.1.0
 bunching: 0.8.6
 bunchr: 1.2.0
-bundesbank: 0.1-11
+bundesbank: 0.1-12
 bundesligR: 0.1.0
 bundle: 0.1.1
 bupaR: 0.5.4
@@ -10245,7 +10246,7 @@ catIrt: 0.5.1
 catR: '3.17'
 catSplit: 0.1.0
 catSurv: 1.5.0
-cata: 0.1.0.5
+cata: 0.1.0.6
 catalog: 0.1.1
 catch: 1.0.1
 catchr: 0.2.31
@@ -10377,7 +10378,7 @@ censable: 0.0.5
 censo2017: 0.6.2
 censobr: 0.3.2
 censorcopula: '2.0'
-censored: 0.3.0
+censored: 0.3.1
 census: 0.2.0
 censusGeography: 0.1.0
 censusapi: 0.8.0
@@ -10570,6 +10571,7 @@ citbcmst: 1.0.4
 citccmst: 1.0.2
 citecorp: 0.3.0
 cities: 0.1.3
+citmre: 0.1.0
 cito: '1.1'
 citr: 0.3.2
 citrus: 1.0.2
@@ -10919,7 +10921,7 @@ cometExactTest: 0.1.5
 cometr: 0.4.0
 comets: 0.0-1
 comf: 0.1.12
-commafree: 0.1.0
+commafree: 0.2.0
 commandr: 1.0.1
 commentr: 1.0.4
 common: 1.1.3
@@ -12890,7 +12892,7 @@ envi: 0.1.19
 enviGCMS: 0.7.1
 enviPat: '2.6'
 enviPick: '1.5'
-envir: 0.2.2
+envir: 0.3.0
 envirem: '3.0'
 envlpaster: 0.1-2
 envnames: 0.4.1
@@ -13033,7 +13035,7 @@ esmisc: 0.0.3
 esmprep: 0.2.0
 esmtools: 1.0.1
 esotericR: '1.0'
-espadon: 1.6.0
+espadon: 1.7.0
 esquisse: 1.2.0
 esreg: 0.6.2
 ess: 1.1.2
@@ -13283,7 +13285,7 @@ fUtilities: '2110.78'
 fabCI: '0.2'
 fabMix: '5.1'
 fabPrediction: 1.0.4
-fabR: 2.0.1
+fabR: 2.1.0
 fabisearch: 0.0.4.5
 fable: 0.3.4
 fable.ata: 0.0.6
@@ -14833,7 +14835,7 @@ glmnet: 4.1-8
 glmnetSE: 0.0.1
 glmnetUtils: 1.1.9
 glmnetcr: 1.0.6
-glmnetr: 0.4-4
+glmnetr: 0.4-5
 glmpath: '0.98'
 glmpathcr: 1.0.10
 glmpca: 0.2.0
@@ -15348,7 +15350,7 @@ hddtools: 0.9.4
 hdeco: 0.4.1
 hdf5: 1.6.9
 hdf5r: 1.3.10
-hdf5r.Extra: 0.0.5
+hdf5r.Extra: 0.0.6
 hdflex: 0.2.1
 hdfqlr: 0.6-2
 hdi: 0.1-9
@@ -17000,7 +17002,7 @@ linearModel: 1.0.2
 linearOrdering: 1.0.1
 linearQ: '2.0'
 lineartestr: 1.0.0
-linelist: 1.1.0
+linelist: 1.1.2
 linemap: 0.3.0
 lineqGPR: 0.1.1
 lineup: '0.42'
@@ -17038,7 +17040,7 @@ lisrelToR: '0.3'
 list: 9.2.6
 listArray: 0.1.1
 listWithDefaults: 1.2.0
-listarrays: 0.3.1
+listarrays: 0.4.0
 listcomp: 0.4.1
 listcompr: 0.4.0
 listdown: 0.5.7
@@ -17783,7 +17785,7 @@ meshsimp: 0.1.1
 messaging: 0.1.0
 messi: 0.1.1
 messy.cats: '1.0'
-messydates: 0.3.5
+messydates: 0.4.1
 met: 0.1.0
 metR: 0.15.0
 metRology: 0.9-28-1
@@ -19012,7 +19014,7 @@ networktools: 1.5.2
 networktree: 1.0.1
 neuRosim: 0.2-14
 neural: 1.4.2.2
-neuralGAM: 1.1.0
+neuralGAM: 1.1.1
 neuralnet: 1.44.2
 neurobase: 1.32.3
 neuroblastoma: 2023.9.3
@@ -19385,7 +19387,7 @@ nzilbb.labbcat: 1.3-0
 nzpullover: 0.3.0
 o2geosocial: 1.1.2
 o2plsda: 0.0.18
-oHMMed: 1.0.1
+oHMMed: 1.0.2
 oRus: 1.0.0
 oXim: 1.2.2
 oaColors: 0.0.4
@@ -21149,6 +21151,7 @@ pulseTD: 0.1.0
 pulver: 0.1.1
 pumilioR: 1.3.1
 puniform: 0.2.7
+puremoe: 1.0.0
 pureseqtmr: '1.4'
 purge: 0.2.1
 purgeR: 1.8.2
@@ -22007,7 +22010,7 @@ red: 1.6.1
 redR: 1.0.1
 reda: 0.5.4
 redbookperu: 0.0.2
-redcapAPI: 2.8.4
+redcapAPI: 2.9.0
 reddPrec: 2.0.1
 redditadsR: 0.1.0
 redist: 4.2.0
@@ -22353,7 +22356,7 @@ rhype: 0.3.0
 ri: '0.9'
 ri2: 0.4.0
 riAFTBART: 0.3.2
-rib: 0.19.3
+rib: 0.20.0
 ribd: 1.7.0
 ribiosUtils: 1.5-6
 ricegeneann: 1.0.2
@@ -23425,7 +23428,7 @@ segclust2d: 0.3.1
 segen: 1.1.0
 segmag: 1.2.4
 segmenTier: 0.1.2
-segmented: 2.0-3
+segmented: 2.0-4
 segmentr: 0.2.0
 segmetric: 0.3.0
 segregation: 1.1.0
@@ -24242,7 +24245,7 @@ spMC: 0.3.15
 spMaps: 0.5.0
 spNNGP: 1.0.0
 spNetwork: 0.4.3.8
-spOccupancy: 0.7.3
+spOccupancy: 0.7.6
 spRingsteen: 0.1.0
 spTDyn: 2.0.2
 spTest: 0.2.5
@@ -25448,7 +25451,7 @@ tframe: 2015.12-1.1
 tframePlus: 2024.2-1
 tfrmt: 0.1.1
 tfrmtbuilder: 0.0.6
-tfruns: 1.5.2
+tfruns: 1.5.3
 tfse: 0.5.0
 tgamtheme: 0.1.0
 tgcd: '2.7'
@@ -25693,7 +25696,7 @@ tkrgl: '0.9'
 tkrplot: 0.0-27
 tktdjl2r: 0.2.0
 tlars: 1.0.1
-tldr: 0.3.0
+tldr: 0.4.0
 tlemix: 0.1.3
 tlm: 0.1.5
 tlmec: 0.0-2
