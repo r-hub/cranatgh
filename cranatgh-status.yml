@@ -189,7 +189,7 @@ AbsFilterGSEA: 1.5.1
 Ac3net: 1.2.2
 AcademicThemes: 0.0.2
 AccelStab: 2.0.1
-AcceptReject: 0.1.0
+AcceptReject: 0.1.1
 AcceptanceSampling: 1.0-10
 Ace: 0.0.8
 Achilles: 1.7.2
@@ -228,7 +228,7 @@ AeroSampleR: 0.2.0
 AggregateR: 0.1.1
 Agreement: 0.8-1
 AgreementInterval: 0.1.1
-AgroR: 1.3.5
+AgroR: 1.3.6
 AgroReg: 1.2.10
 AgroTech: 1.0.2
 AhoCorasickTrie: 0.1.2
@@ -1136,6 +1136,7 @@ CaDENCE: 1.2.5
 CaPO4Sim: 0.2.0
 Cairo: 1.6-2
 CalSim: 0.5.2
+CalcThemAll.PRM: 1.1.1
 CalciOMatic: 1.1-3
 Calculator.LR.FNs: '1.3'
 CaliCo: 0.1.1
@@ -2839,7 +2840,7 @@ GapAnalysis: 1.0.2
 GauPro: 0.2.11
 GaussSuppression: 0.8.3
 GaussianHMM1d: 1.1.1
-GeDS: 0.2.1
+GeDS: 0.2.2
 GeNetIt: 0.1-6
 GeSciLiVis: 1.2.0
 GenABEL: 1.8-0
@@ -3356,7 +3357,7 @@ IRCcheck: 1.0.0
 IRISMustangMetrics: 2.4.6
 IRISSeismic: 1.6.6
 IROmiss: 1.0.2
-IRR2FPR: '0.1'
+IRR2FPR: 0.1.1
 IRSF: 1.0.3
 IRTBEMM: 1.0.8
 IRTShiny: '1.2'
@@ -5637,7 +5638,7 @@ Qapprox: 0.2.0
 Qardl: 0.1.1
 Qest: 1.0.1
 Qindex: 0.1.5
-Qindex.data: 0.1.0
+Qindex.data: 0.1.1
 QoLMiss: 0.1.0
 QoLR: 1.0.3
 QregBB: 1.0.0
@@ -6778,7 +6779,7 @@ Rtts: 0.3.3
 Rtumblr: 0.1.0
 RtutoR: '1.2'
 Rtwalk: 1.8.0
-Rtwobitlib: 0.3.5
+Rtwobitlib: 0.3.6
 Ruchardet: 0.0-3.1
 Runiversal: 1.0.2
 Runuran: '0.38'
@@ -6960,12 +6961,13 @@ SHLR: '1.0'
 SHT: 0.1.8
 SI: 0.2.0
 SIAmodules: 0.1.1
+SIAtools: 0.1.0
 SIBER: 2.1.9
 SIBERG: 2.0.3
 SID: '1.1'
 SIDES: '1.18'
 SIGN: 0.1.0
-SIHR: 2.0.1
+SIHR: 2.1.0
 SII: 1.0.3.1
 SILGGM: 1.0.0
 SILM: 1.0.0
@@ -7308,7 +7310,7 @@ SherlockHolmes: 1.0.1
 ShiftConvolvePoibin: 1.0.0
 ShiftShareSE: 1.1.0
 ShinyImage: 0.1.0
-ShinyItemAnalysis: 1.5.0
+ShinyItemAnalysis: 1.5.1
 ShinyLink: 0.2.2
 ShinyQuickStarter: 2.0.1
 ShinyTester: 0.1.0
@@ -7337,7 +7339,7 @@ SimComp: '3.3'
 SimCop: 0.7.0
 SimCorMultRes: 1.9.0
 SimCorrMix: 0.1.1
-SimDesign: '2.15'
+SimDesign: 2.15.1
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.3
 SimEngine: 1.4.0
@@ -8859,7 +8861,7 @@ antaresRead: 2.6.1
 antaresViz: 0.18.0
 anthro: 1.0.1
 anthroplus: 0.9.0
-anticlust: 0.8.1
+anticlust: 0.8.3
 antitrust: 0.99.26
 antiword: 1.3.3
 anyLib: 1.0.5
@@ -8909,7 +8911,7 @@ appell: 0.0-4
 apple: '0.3'
 appleadsR: 0.1.0
 appler: 0.2.1
-applicable: 0.1.0
+applicable: 0.1.1
 appnn: 1.0-0
 apportion: 0.0.1
 approxOT: 1.1.1
@@ -9992,7 +9994,7 @@ bridger2: 0.1.0
 bridgesampling: 1.1-2
 brif: 1.4.1
 brinton: 0.2.7
-brio: 1.1.4
+brio: 1.1.5
 briqr: 0.1.0
 brisk: 0.1.0
 briskaR: 1.0.4
@@ -10281,7 +10283,7 @@ catspec: '0.97'
 cattonum: 0.0.5
 cauchypca: '1.3'
 cauphy: 1.0.2
-causact: 0.5.4
+causact: 0.5.5
 causal.decomp: 0.1.0
 causalBatch: 1.2.0
 causalCmprsk: 2.0.0
@@ -10639,7 +10641,7 @@ clespr: 1.1.2
 clevr: 0.1.2
 clhs: 0.9.0
 cli: 3.6.2
-cliapp: 0.1.1
+cliapp: 0.1.2
 clickR: 0.9.39
 clickb: '0.1'
 clickstream: 1.3.3
@@ -10665,7 +10667,7 @@ climextRemes: 0.3.1
 climtrends: 1.0.6
 climwin: 1.2.3
 clinDR: 2.4.1
-clinDataReview: 1.5.0
+clinDataReview: 1.5.1
 clinPK: 0.13.0
 clinUtiDNA: '1.0'
 clinUtils: 0.1.5
@@ -11318,7 +11320,7 @@ cramer: 0.9-4
 crandatapkgs: 0.1.8
 crandep: 0.3.7
 crank: 1.1-2
-cranlike: 1.0.2
+cranlike: 1.0.3
 cranlogs: 2.1.1
 cranly: 0.6.0
 crantastic: '0.1'
@@ -11339,9 +11341,9 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.9.1
+crew: 0.9.2
 crew.aws.batch: 0.0.5
-crew.cluster: 0.3.0
+crew.cluster: 0.3.1
 crfsuite: 0.4.2
 cricketdata: 0.2.3
 cricketr: 0.0.26
@@ -15182,7 +15184,7 @@ gsignal: 0.3-5
 gsisdecoder: 0.0.1
 gskat: '1.0'
 gsl: 2.1-8
-gslnls: 1.2.0
+gslnls: 1.3.0
 gsloid: 0.2.0
 gsmaRt: '1.0'
 gsmoothr: 0.1.7
@@ -16560,7 +16562,7 @@ kernscr: 1.0.6
 kernstadapt: 0.0.2
 kesernetwork: 0.1.0
 kexpmv: 0.0.3
-keyATM: 0.5.1
+keyATM: 0.5.2
 keyToEnglish: 0.2.1
 keyholder: 0.1.7
 keyperm: 0.1.1
@@ -17317,7 +17319,7 @@ ltsbase: 1.0.1
 ltsk: 1.1.1
 ltsspca: 0.1.0
 ltxsparklines: 1.1.3
-luajr: 0.1.6
+luajr: 0.1.7
 lubridate: 1.9.3
 luca: 1.0-6
 lucas: '1.0'
@@ -18213,7 +18215,7 @@ mlpack: 4.3.0.1
 mlpwr: 1.1.0
 mlquantify: 0.2.0
 mlr: 2.19.1
-mlr3: 0.18.0
+mlr3: 0.19.0
 mlr3batchmark: 0.1.1
 mlr3benchmark: 0.1.6
 mlr3cluster: 0.1.9
@@ -18235,6 +18237,7 @@ mlr3resampling: 2024.4.14
 mlr3shiny: 0.3.0
 mlr3spatial: 0.5.0
 mlr3spatiotempcv: 2.3.1
+mlr3summary: 0.1.0
 mlr3tuning: 0.20.0
 mlr3tuningspaces: 0.5.0
 mlr3verse: 0.2.8
@@ -18363,7 +18366,7 @@ modeltime.resample: 0.2.3
 modeltools: 0.2-23
 modelwordcloud: '0.1'
 moder: 0.2.1
-moderate.mediation: 0.0.8
+moderate.mediation: 0.0.9
 modernVA: 0.1.3
 moderndive: 0.5.5
 modes: 0.7.0
@@ -18399,7 +18402,7 @@ momr: '1.1'
 monaco: 0.2.2
 monashtipr: 0.1.0
 mondate: '1.0'
-mongolite: 2.7.3
+mongolite: 2.8.0
 mongopipe: 0.1.1
 monitOS: 0.1.5
 monitoR: 1.0.7
@@ -19070,7 +19073,7 @@ ngramr: 1.9.3
 ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
-nhanesA: '1.0'
+nhanesA: '1.1'
 nhdR: 0.6.1
 nhdplusTools: 1.0.0
 nhds: 1.0.3
@@ -19094,7 +19097,7 @@ nightmares: 0.0.2
 nilde: 1.1-7
 nima: 0.6.2
 nimble: 1.1.0
-nimbleAPT: 1.0.5
+nimbleAPT: 1.0.6
 nimbleCarbon: 0.2.5
 nimbleEcology: 0.4.1
 nimbleHMC: 0.2.1
@@ -19829,7 +19832,7 @@ packHV: '2.2'
 packMBPLSDA: 0.9.0
 packS4: 0.9.3
 packageDiff: '0.1'
-packageRank: 0.8.3
+packageRank: 0.9.0
 packagedocs: 0.4.0
 packagefinder: 0.3.5
 packagepal: 0.1.0
@@ -20549,6 +20552,7 @@ plotRCS: 0.1.4
 plotROC: 2.3.1
 plotSEMM: '2.4'
 plotbb: 0.0.6
+plotcli: 0.1.0
 plotdap: 1.0.3
 plotfunctions: '1.4'
 plothelper: 0.1.9
@@ -20875,7 +20879,7 @@ predhy.GUI: '1.0'
 predict3d: 0.1.5
 predictMe: '0.1'
 predictNMB: 0.2.1
-prediction: 0.3.14
+prediction: 0.3.17
 predictionInterval: 1.0.0
 predictmeans: 1.1.0
 predictoR: 3.0.3
@@ -21367,7 +21371,7 @@ quantable: 0.3.6
 quantchem: '0.13'
 quantdates: '1.0'
 quantdr: 1.2.2
-quanteda: 4.0.1
+quanteda: 4.0.2
 quanteda.textmodels: 0.9.7
 quanteda.textplots: 0.94.4
 quanteda.textstats: '0.97'
@@ -22428,7 +22432,7 @@ riskSimul: 0.1.2
 riskclustr: 0.4.1
 riskmetric: 0.2.4
 risks: 0.4.2
-riskscores: 1.1.0
+riskscores: 1.1.1
 risksetROC: 1.0.4.1
 riskyr: 0.4.0
 rite: 0.3.4
@@ -23440,7 +23444,7 @@ seg: 0.5-7
 segMGarch: '1.2'
 segRDA: 1.0.2
 segclust: '0.76'
-segclust2d: 0.3.1
+segclust2d: 0.3.3
 segen: 1.1.0
 segmag: 1.2.4
 segmenTier: 0.1.2
@@ -23727,7 +23731,7 @@ shinyTempSignal: 0.0.8
 shinyTime: 1.0.3
 shinyToastify: 2.0.0
 shinyTree: 0.3.1
-shinyWidgets: 0.8.5
+shinyWidgets: 0.8.6
 shinyXYpad: 0.2.0
 shinyaframe: 1.0.1
 shinyalert: 3.0.0
@@ -24024,6 +24028,7 @@ sla: '0.1'
 slackr: 3.3.1
 slam: 0.1-50
 slanter: 0.2-0
+slap: 2024.4.1
 slasso: 1.0.0
 slca: 1.0.0
 slcm: 0.1.0
@@ -24163,7 +24168,7 @@ snplinkage: 1.0.0
 snplist: 0.18.2
 snpsettest: 0.1.2
 sns: 1.2.2
-snvecR: 3.9.1
+snvecR: 3.9.3
 sobir: 0.1.2
 sobolnp: 0.1.0
 soc.ca: 0.8.0
@@ -24393,7 +24398,7 @@ spatstat.univar: 2.0-2
 spatstat.utils: 3.0-4
 spatsurv: 2.0-1
 spbabel: 0.6.0
-spc: 0.6.7
+spc: 0.6.8
 spc4sts: 0.6.3
 spca: 0.6.0
 spcadjust: '1.1'
@@ -24583,6 +24588,7 @@ sqlparseR: 0.1.0
 sqlscore: 0.1.4
 sqlshare: 1.0.3
 sqlstrings: 1.0.0
+sqltargets: 0.0.1
 sqlutils: '1.2'
 sqp: '0.5'
 squant: 1.1.4
@@ -25702,7 +25708,7 @@ tipmap: 0.5.2
 tipom: 1.0.2-1
 tippy: 0.1.0
 tipr: 1.0.2
-tipsae: 1.0.0
+tipsae: 1.0.1
 tis: '1.39'
 titan: 1.0-16
 titanic: 0.1.0
@@ -25889,7 +25895,7 @@ transport: 0.15-0
 transreg: 1.0.2
 transx: 0.0.1
 trapezoid: 2.0-2
-traudem: 1.0.2
+traudem: 1.0.3
 traveltimeR: 1.2.0
 trawl: 0.2.2
 treasury: 0.1.0
@@ -26034,6 +26040,7 @@ tsfeatures: 1.1.1
 tsfgrnn: 1.0.5
 tsfknn: 0.6.0
 tsfngm: 0.1.0
+tsgarch: 1.0.0
 tsgui: 0.2.1
 tsiR: 0.4.3
 tsibble: 1.1.4
@@ -27006,7 +27013,7 @@ xray: '0.2'
 xrf: 0.2.2
 xrnet: 0.1.7
 xseq: 0.2.1
-xslt: 1.4.4
+xslt: 1.4.5
 xsp: 0.1.2
 xspliner: 0.0.4
 xtable: 1.8-4
