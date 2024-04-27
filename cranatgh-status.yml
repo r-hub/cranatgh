@@ -1173,7 +1173,7 @@ CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.1
 CausalMetaR: 0.1.1
 CausalModels: 0.2.0
-CausalQueries: 1.1.0
+CausalQueries: 1.1.1
 Causata: 4.2-0
 CautiousLearning: 1.0.1
 CePa: 0.8.0
@@ -2434,7 +2434,7 @@ FarmTest: 2.2.0
 FastBandChol: 0.1.1
 FastCUB: 0.0.3
 FastGP: '1.2'
-FastGaSP: 0.5.2
+FastGaSP: 0.5.3
 FastHCS: 0.0.7
 FastImputation: 2.2.1
 FastJM: 1.4.2
@@ -3836,7 +3836,7 @@ LearnBayes: 2.15.1
 LearnClust: '1.1'
 LearnEDA: '1.2'
 LearnGeom: '1.5'
-LearnPCA: 0.2.0
+LearnPCA: 0.3.4
 LearnSL: 1.0.0
 LearningRlab: '2.4'
 LearningStats: 0.1.0
@@ -5626,7 +5626,7 @@ QT: '1.3'
 QTE.RD: 1.0.0
 QTL.gCIMapping: '3.4'
 QTL.gCIMapping.GUI: 2.1.1
-QTLEMM: 1.5.2
+QTLEMM: 1.5.3
 QTLNetworkR: 0.1-7
 QTLRel: '1.14'
 QTOCen: 0.1.1
@@ -5724,7 +5724,7 @@ RAFM: '1.1'
 RAFS: 0.2.3
 RAHRS: 1.0.2
 RAINBOWR: 0.1.35
-RALSA: 1.4.0
+RALSA: 1.4.5
 RAM: 1.2.1.7
 RAMClustR: 1.3.1
 RAMP: 2.0.2
@@ -6459,7 +6459,7 @@ RcppRoll: 0.3.0
 RcppSMC: 0.2.7
 RcppShark: 3.1.1
 RcppSimdJson: 0.1.11
-RcppSpdlog: 0.0.16
+RcppSpdlog: 0.0.17
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.2.2
@@ -7480,7 +7480,7 @@ SpatPCA: 1.3.5
 SpatialAcc: 0.1-5
 SpatialBSS: 0.14-0
 SpatialBall: 0.1.0
-SpatialDDLS: 1.0.1
+SpatialDDLS: 1.0.2
 SpatialEpi: 1.2.8
 SpatialEpiApp: '0.3'
 SpatialExtremes: 2.1-0
@@ -7946,7 +7946,7 @@ TideHarmonics: 0.1-1
 TideTables: 0.0.3
 Tides: '2.1'
 TidyConsultant: 0.1.0
-TidyDensity: 1.3.0
+TidyDensity: 1.4.0
 TidyMultiqc: 1.0.3
 TileManager: 0.4.1
 TilePlot: 1.3.1
@@ -8054,7 +8054,7 @@ TwoStepCLogit: 1.2.5
 TwoWayFEWeights: 2.0.3
 TwoWaySurvival: '2.2'
 TwslmSpikeWeight: 1.0.1
-UBCRM: 1.0.2
+UBCRM: 1.0.3
 UBL: 0.0.9
 UBayFS: '1.0'
 UCR.ColumnNames: 0.1.0
@@ -8387,7 +8387,7 @@ YRmisc: 0.1.6
 YTAnalytics: 0.1.0
 YaleToolkit: 4.2.3
 Yamm: 1.3.2
-YatchewTest: 1.0.0
+YatchewTest: 1.0.2
 YatesAlgo.FactorialExp.SR: 4.0.4
 YieldCurve: '5.1'
 YjdnJlp: 0.9.8
@@ -8515,7 +8515,7 @@ act: 1.3.1
 actLifer: 1.0.0
 actel: 1.3.0
 actilifecounts: 1.1.1
-activAnalyzer: 2.0.2
+activAnalyzer: 2.1.0
 activPAL: 0.1.3
 activatr: 0.2.0
 activegp: 1.1.0
@@ -8888,7 +8888,7 @@ apaText: 0.1.7
 apache.sedona: 1.5.1
 apc: 2.0.0
 apcf: 0.3.0
-apcluster: 1.4.12
+apcluster: 1.4.13
 apdesign: 1.0.0
 ape: '5.8'
 apercu: 0.2.5
@@ -9015,7 +9015,7 @@ arules: 1.7-7
 arulesCBA: 1.2.6
 arulesNBMiner: 0.1-8
 arulesSequences: 0.2-30
-arulesViz: 1.5-2
+arulesViz: 1.5.3
 as.color: '0.1'
 asVPC: 1.0.2
 asaur: '0.50'
@@ -9315,7 +9315,7 @@ basetheme: 0.1.3
 basf: 0.2.0
 basicMCMCplots: 0.2.7
 basicTrendline: 2.0.5
-basicdrm: 0.1.0
+basicdrm: 0.3.0
 basicspace: '0.24'
 basictabler: 1.0.2
 basifoR: '0.4'
@@ -9661,7 +9661,7 @@ binarySimCLF: '1.0'
 binaryTimeSeries: 1.0.2
 binb: 0.0.6
 binda: 1.0.4
-bindata: 0.9-20
+bindata: 0.9-21
 bindr: 0.1.1
 bindrcpp: 0.2.3
 binequality: 1.0.4
@@ -9785,7 +9785,7 @@ bjscrapeR: 0.1.0
 bkmr: 0.2.2
 bkmrhat: 1.1.3
 blackbox: 1.1.46
-blackmarbler: 0.1.2
+blackmarbler: 0.2.0
 blaise: 1.3.11
 blandr: 0.5.1
 blapsr: 0.6.1
@@ -9980,7 +9980,7 @@ bread: 0.4.1
 breakDown: 0.2.2
 breakage: 1.1-1
 breakaway: 4.8.4
-breakfast: '2.3'
+breakfast: '2.4'
 breakpoint: '1.2'
 breathtestcore: 0.8.7
 breathteststan: 0.8.5
@@ -10789,8 +10789,8 @@ cmpsR: 0.1.2
 cmrutils: 1.3.1
 cms: 0.1.0
 cmsaf: 3.5.0
-cmsafops: 1.3.0
-cmsafvis: 1.2.3
+cmsafops: 1.4.0
+cmsafvis: 1.2.6
 cmstatr: 0.9.3
 cmtest: 0.1-2
 cmvnorm: 1.0-7
@@ -10991,7 +10991,7 @@ compstatr: 0.2.1
 compute.es: 0.2-5
 comradesOO: 0.1.1
 comsimitv: 0.1.5
-comstab: 0.0.2
+comstab: 0.0.3
 comtradr: 0.4.0.0
 con2aqi: 0.1.0
 con2lki: 0.1.0
@@ -11288,7 +11288,7 @@ cpa: 1.0.1
 cpca: 0.1.2
 cpcens: 0.1.0
 cpd: 0.3.2
-cpfa: 1.1-3
+cpfa: 1.1-4
 cpgen: '0.1'
 cpi: 0.1.4
 cpk: 1.3-1
@@ -11433,7 +11433,7 @@ csabounds: 1.0.0
 csalert: 2023.6.17
 csampling: 1.2-2.1
 csci: 0.9.3
-csdata: 2024.1.17
+csdata: 2024.4.26
 cshapes: '2.0'
 cslogistic: 0.1-3
 csmaps: 2023.5.22
@@ -11912,7 +11912,7 @@ dendRoAnalyst: 0.1.5
 dendextend: 1.17.1
 dendextendRcpp: 0.6.1
 dendroExtra: 0.0.2
-dendroTools: 1.2.11
+dendroTools: 1.2.13
 dendroextras: 0.2.3
 dendrometeR: 1.0.0
 dendrometry: 0.0.2
@@ -12264,7 +12264,7 @@ dmutate: 0.1.3
 dna: 2.1-2
 dnapath: 0.7.4
 dnc: '1.2'
-dndR: 1.3.1
+dndR: 2.0.0
 dnet: 1.1.7
 dng: 0.2.1
 dnn: 0.0.6
@@ -13434,7 +13434,7 @@ fastcluster: 1.2.6
 fastcmh: 0.2.7
 fastcmprsk: 1.1.1
 fastcox: 1.1.3
-fastcpd: 0.14.1
+fastcpd: 0.14.3
 fastdigest: 0.6-4
 fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
@@ -15652,7 +15652,7 @@ httpgd: 2.0.1
 httping: 0.2.0
 httpproblems: 1.0.1
 httptest: 4.2.2
-httptest2: 1.0.0
+httptest2: 1.1.0
 httpuv: 1.6.15
 httr: 1.4.7
 httr2: 1.0.1
@@ -15947,7 +15947,7 @@ image2data: 1.0.1
 imageData: 0.1-62
 imagefluency: 0.2.5
 imagefx: 0.4.1
-imager: 0.45.8
+imager: 1.0.1
 imagerExtra: 1.3.2
 imageseg: 0.5.0
 imageviewer: 0.1.0
@@ -16462,7 +16462,7 @@ jrt: 1.1.2
 jrvFinance: 1.4.3
 js: '1.2'
 jsTree: '1.2'
-jsTreeR: 2.5.0
+jsTreeR: 2.6.0
 jshintr: 0.1.0
 jskm: 0.5.3
 jsmodule: 1.5.3
@@ -22650,7 +22650,7 @@ rocker: 0.3.1
 rockr: 1.0.0
 roclang: 0.2.2
 rocnp: 0.1.0
-rococo: 1.1.8
+rococo: 1.1.9
 rocplus: 1.0-0
 rocsvm.path: 0.1.0
 rodd: 0.2-1
@@ -23498,7 +23498,7 @@ semdrw: 0.1.0
 semds: 0.9-6
 semfindr: 0.1.8
 semgram: 0.1.0
-semhelpinghands: 0.1.10
+semhelpinghands: 0.1.11
 semiArtificial: 2.4.1
 semicmprskcoxmsm: 0.2.0
 semicontMANOVA: 0.1-8
@@ -24845,7 +24845,7 @@ storr: 1.2.5
 stortingscrape: 0.3.0
 storywranglr: 0.2.0
 stosim: 0.0.15
-stplanr: 1.1.2
+stplanr: 1.2.0
 stpm: 1.7.12
 stpp: 2.0-7
 stppResid: '1.1'
@@ -25052,7 +25052,7 @@ surveytable: 0.9.2
 surveyvoi: 1.0.6
 survidm: 1.3.2
 survivALL: 0.9.3
-survival: 3.5-8
+survival: 3.6-4
 survival.svb: 0.0-2
 survival4: 1.4-0
 survival5: '2.4'
@@ -25110,7 +25110,7 @@ svmadmm: '0.3'
 svmpath: '0.970'
 svmplus: 1.0.1
 svplots: 0.1.0
-svrep: 0.6.3
+svrep: 0.6.4
 svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: 0.1-1
@@ -26082,7 +26082,7 @@ ttbbeer: 1.1.0
 ttcg: 1.0.1
 ttdo: 0.0.9
 ttestshiny: 0.1.0
-tth: 4.12-0-1
+tth: 4.16-0
 ttime: 1.2.5
 ttrTests: '1.7'
 ttservice: 0.4.0
@@ -26822,7 +26822,7 @@ wilson: 2.4.2
 winRatioAnalysis: 0.1.1
 winch: 0.1.1
 windAC: 1.2.10
-windex: 2.0.7
+windex: 2.0.8
 windfarmGA: 3.0.0
 windows.pls: 0.1.0
 windsoraiR: 0.1.2
