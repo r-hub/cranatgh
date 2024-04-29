@@ -425,7 +425,7 @@ BDgraph: '2.72'
 BE: 0.2.4
 BEACH: 1.3.1
 BEANSP: '1.0'
-BED: 1.5.0
+BED: 1.5.1
 BEDASSLE: 1.6.1
 BEDMatrix: 2.0.3
 BEKKs: 1.4.4
@@ -1235,7 +1235,7 @@ Claddis: 0.6.3
 ClaimsProblems: 0.2.1
 ClamR: 2.1-3
 ClassComparison: 3.1.8
-ClassDiscovery: 3.4.0
+ClassDiscovery: 3.4.5
 CleanBSequences: 1.4.0
 ClickClust: 1.1.6
 ClickClustCont: 0.1.7
@@ -2139,7 +2139,7 @@ EffectiveDose: 1.0-7
 EffectsRelBaseline: '0.5'
 EfficientMaxEigenpair: 0.1.4
 EgoCor: 1.2.0
-EigenR: 1.2.3
+EigenR: 1.3.0
 ElastH: 0.3.1
 EleChemr: 1.2.0
 ElectionsLATAM: 0.1.1
@@ -2512,6 +2512,7 @@ Fluidigm: '0.2'
 Flury: 0.1-3
 FlyingR: 0.2.2
 FlywayNet: 0.1.0
+FnR: 1.0.0
 FoReco: 0.2.6
 ForIT: 2.4.0
 ForImp: 1.0.3
@@ -2525,7 +2526,7 @@ ForecastTB: 1.0.1
 ForestDisc: 0.1.0
 ForestFit: 2.2.3
 ForestGapR: 0.1.7
-ForestTools: 1.0.1
+ForestTools: 1.0.2
 FormShare: 1.0.1
 FormalSeries: '1.0'
 FormulR: 1.0.0
@@ -3931,7 +3932,7 @@ MACP: 0.1.0
 MADAM: 1.2.2
 MADPop: 1.1.7
 MAFDash: 0.2.1
-MAGEE: 1.4.0
+MAGEE: 1.4.1
 MAGMA.R: 1.0.1
 MAGNAMWAR: 2.0.4
 MAINT.Data: 2.7.1
@@ -4401,7 +4402,7 @@ Mega2R: 1.1.0
 Meiosis: 1.0.2
 MendelianRandomization: 0.10.0
 MenuCollection: '1.2'
-Mercator: 1.1.2
+Mercator: 1.1.4
 MergeGUI: 0.2-1
 MeshAgreement: 0.1.4
 MeshesOperations: 0.1.0
@@ -4490,7 +4491,7 @@ Miney: '0.1'
 Minirand: 0.1.3
 MinkowskiSum: 1.0.0
 MisRepARMA: 0.0.2
-MiscMetabar: 0.7.10
+MiscMetabar: 0.9.1
 MiscPsycho: '1.6'
 Miso: 0.2.1
 MissCP: 0.1.0
@@ -4827,7 +4828,7 @@ NeuralNetTools: 1.5.3
 NeuralSens: 1.1.2
 NeuroDecodeR: 0.2.0
 Newdistns: '2.1'
-NewmanOmics: 1.0.10
+NewmanOmics: 1.0.11
 NiLeDAM: '0.3'
 NicheBarcoding: '1.0'
 NightDay: 1.0.1.1
@@ -7936,7 +7937,7 @@ ThreeArmedTrials: 1.0-4
 ThreeGroups: '0.21'
 ThreeWay: 1.1.3
 ThreeWiseMonkeys: 0.1.0
-Thresher: 1.1.3
+Thresher: 1.1.4
 ThresholdROC: 2.9.4
 ThresholdROCsurvival: 1.2.1
 ThurMod: 1.1.11
@@ -8485,6 +8486,7 @@ accelerometry: 3.1.2
 accelmissing: '1.4'
 accept: 1.0.0
 accessibility: 1.4.0
+accessr: 1.0.1
 accessrmd: 1.0.0
 accrual: '1.4'
 accrualPlot: 1.0.7
@@ -8566,7 +8568,7 @@ addhazard: 1.1.0
 addinsJoaoMelo: 0.1.0
 addinsOutline: 0.1.6
 addinslist: 0.5.0
-additive: 0.0.5
+additive: 1.0.1
 additiveDEA: '1.1'
 additivityTests: 1.1-4.1
 addreg: '3.0'
@@ -8953,7 +8955,7 @@ archetypal: 1.3.0
 archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
-archive: 1.1.7
+archive: 1.1.8
 archiveRetriever: 0.3.1
 archivist: 2.3.6
 archivist.github: 0.2.6
@@ -9222,7 +9224,7 @@ bRacatus: 1.0.11
 bReeze: 0.4-4
 bSi: 1.0.0
 bSims: 0.3-0
-bWGR: 2.2.7
+bWGR: 2.2.8
 baRcodeR: 0.1.7
 baRulho: 2.1.0
 babar: '1.0'
@@ -9383,7 +9385,7 @@ bayesdfa: 1.3.3
 bayesdistreg: 0.1.0
 bayesefa: 0.0.0.4
 bayesforecast: 1.0.1
-bayesian: 0.0.9
+bayesian: 1.0.1
 bayesianETAS: 1.0.3
 bayesianVARs: 0.1.2
 bayeslincom: 1.3.0
@@ -9965,6 +9967,7 @@ brada: '1.0'
 braggR: 0.1.1
 braidReports: 0.5.4
 braidrm: '0.71'
+braids: 1.0.0
 brainGraph: 3.1.0
 brainKCCA: 0.1.0
 brainR: 1.6.0
@@ -10159,7 +10162,7 @@ calcWOI: 1.0.3
 calculus: 1.0.1
 calendR: '1.2'
 calendRio: 0.2.0
-calendar: 0.0.1
+calendar: 0.1.0
 calibFit: 2.1.0
 calibmsm: 1.0.0
 calibrar: 0.9.0
@@ -11427,6 +11430,7 @@ crypto2: 1.4.6
 cryptoQuotes: 1.3.0
 cryptoTax: 0.0.5
 cryptography: 1.0.0
+cryptorng: 0.1.2
 cryptotrackr: 1.2.0
 cryptoverse: 0.1.0
 cryptowatchR: 0.2.0
@@ -11561,7 +11565,7 @@ cvsem: 1.0.0
 cvwrapr: '1.0'
 cvxbiclustr: 0.0.1
 cvxclustr: 1.1.1
-cwbtools: 0.4.1
+cwbtools: 0.4.2
 cwhmisc: '6.6'
 cwm: 0.0.3
 cwot: 0.1.0
@@ -11867,7 +11871,7 @@ deepboost: 0.1.6
 deepdep: 0.4.3
 deepdive: 1.0.4
 deepgmm: 0.2.1
-deepgp: 1.1.1
+deepgp: 1.1.2
 deeplearning: 0.1.0
 deeplr: 2.0.1
 deepnet: 0.2.1
@@ -12063,7 +12067,7 @@ didrooRFM: 1.0.0
 dief: '1.2'
 dielectric: 0.2.3
 diem: '1.0'
-diemr: 1.2.2
+diemr: 1.2.3
 dietr: 1.1.4
 diezeit: 0.1-0
 difNLR: 1.4.2-1
@@ -13632,7 +13636,7 @@ financial: '0.2'
 finbif: 0.9.6
 finbipartite: 0.1.0
 finch: 0.4.0
-findInFiles: 0.4.0
+findInFiles: 0.5.0
 findInGit: 0.1.1
 findPackage: 0.2.0
 findR: 0.2.1
@@ -14764,7 +14768,7 @@ ghql: 0.1.0
 ghyp: 1.6.4
 ghypernet: 1.1.0
 giRaph: 0.1.2
-giacR: 1.0.0
+giacR: 1.0.1
 gibasa: 1.1.0
 gibble: 0.4.0
 gibbs.met: 1.1-3
@@ -16914,7 +16918,7 @@ learningCurve: 1.1.2
 learningr: 0.29.1
 learningtower: 1.0.1
 learnr: 0.11.5
-learnrbook: 1.0.2-1
+learnrbook: 2.0.1
 learnstats: 0.1.1
 leastcostpath: 2.0.12
 ledger: 2.0.9
@@ -18860,6 +18864,7 @@ nCov2019: 0.4.6
 nFCA: '0.3'
 nFDR: 0.0-1
 nFactors: 2.4.1.1
+nFunNN: '1.0'
 nJira: 0.1.1
 nLTT: 1.4.9
 nRegression: 0.5.1
@@ -19133,7 +19138,7 @@ nlgeocoder: 0.1.3
 nlgm: '1.0'
 nlirms: 3.4.4
 nlist: 0.3.3
-nlive: 0.3.0
+nlive: 0.4.0
 nlme: 3.1-164
 nlmeODE: '1.1'
 nlmeU: 0.70-9
@@ -19209,7 +19214,7 @@ nnetpredint: '1.2'
 nnfor: 0.9.9
 nngeo: 0.4.8
 nnlasso: '0.3'
-nnlib2Rcpp: 0.2.6
+nnlib2Rcpp: 0.2.7
 nnls: '1.5'
 nnspat: 0.1.2
 nnt: 0.1.4
@@ -19576,7 +19581,7 @@ ontologySimilarity: '2.7'
 ontophylo: 1.1.3
 oolong: 0.6.1
 oompaBase: 3.2.9
-oompaData: 3.1.3
+oompaData: 3.1.4
 ooplah: 0.2.0
 oops: 0.2.0
 oosp: 0.3.3
@@ -20032,7 +20037,7 @@ patentsview: 0.3.0
 path.chain: 0.2.0
 pathClass: 0.9.4
 pathdiagram: 0.1.9.1
-pathfindR: 2.3.1
+pathfindR: 2.4.0
 pathfindR.data: 2.1.0
 pathlibr: 0.1.0
 pathling: 6.4.2
@@ -20514,7 +20519,7 @@ plantecophys: 1.4-6
 plantecowrap: 1.0.4
 plantphysioR: 1.0.0
 plaqr: '2.0'
-plasma: 1.0.0
+plasma: 1.1.3
 plasso: 0.1.2
 plater: 1.0.4
 platetools: 0.1.7
@@ -23252,7 +23257,7 @@ scModels: 1.0.4
 scOntoMatch: 0.1.1
 scPDSI: 0.1.3
 scPOP: 0.1.0
-scPloidy: 0.3.0
+scPloidy: 0.6.2
 scRNAstat: 0.1.1
 scRNAtools: '1.0'
 scROSHI: 1.0.0.0
@@ -23791,7 +23796,7 @@ shinyservicebot: 0.1.0
 shinystan: 2.6.0
 shinysurveys: 0.2.0
 shinytest: 1.5.4
-shinytest2: 0.3.1
+shinytest2: 0.3.2
 shinythemes: 1.2.0
 shinytitle: 0.1.0
 shinytoastr: 2.2.0
@@ -23988,6 +23993,7 @@ sisal: '0.48'
 sisireg: 1.1.1
 sismonr: 2.1.0
 sistec: 0.2.0
+sisti: 0.0.1
 sistmr: 0.1.1
 sisus: 3.9-13
 sitar: 1.4.0
@@ -24139,7 +24145,7 @@ smosr: 1.0.1
 smotefamily: 1.4.0
 smovie: 1.1.6
 smpic: 0.1.0
-smplot2: 0.2.0
+smplot2: 0.2.1
 sms: 2.3.1
 smss: 1.0-2
 smurf: 1.1.5
@@ -24241,7 +24247,7 @@ soobench: 1.9.18
 sophisthse: 0.7.0
 soptdmaeA: 1.0.0
 soql: 0.1.1
-sorcering: 1.0.0.1
+sorcering: 1.0.1
 sorocs: 0.1.0
 sortable: 0.5.0
 sortinghat: '0.1'
@@ -26743,7 +26749,7 @@ webshot2: 0.1.1
 websocket: 1.4.1
 websockets: 1.1.7
 webtools: 0.7.12
-webtrackR: 0.1.0
+webtrackR: 0.3.0
 webuse: 0.1.3
 webutils: 1.2.0
 webvis: 0.0.2
