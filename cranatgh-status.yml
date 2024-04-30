@@ -2361,7 +2361,7 @@ FLORAL: 0.2.0
 FLR: '1.0'
 FLSSS: 9.1.3
 FLightR: 0.5.4
-FMAT: '2024.3'
+FMAT: '2024.4'
 FMAdist: 0.1.2
 FMC: 1.0.1
 FMCCSD: '1.0'
@@ -2533,8 +2533,8 @@ FormulR: 1.0.0
 Formula: 1.2-5
 FortranCallsR: '0.1'
 ForwardSearch: '1.0'
-FossilSim: 2.3.2
-FossilSimShiny: 1.1.1
+FossilSim: 2.3.3
+FossilSimShiny: 1.1.2
 FourScores: 1.5.1
 FourWayHMM: 1.0.0
 FourgameteP: 0.1.0
@@ -4596,7 +4596,7 @@ MultNonParam: 1.3.9
 MultOrdRS: 0.1-3
 MultSurvTests: '0.2'
 MultiABEL: 1.1-6
-MultiATSM: 0.3.5
+MultiATSM: 0.3.6
 MultiBD: 0.2.0
 MultiCNVDetect: 0.1-1
 MultiCOAP: '1.1'
@@ -7573,7 +7573,7 @@ StepBeta: 2.1.0
 StepGWR: 0.1.0
 StepReg: 1.5.0
 StepSignalMargiLike: 2.6.0
-SteppedPower: 0.3.4
+SteppedPower: 0.3.5
 StepwiseTest: '1.0'
 StereoMorph: 1.6.7
 Stickbreaker: 1.0.0
@@ -8257,7 +8257,7 @@ WGScan: '0.1'
 WH: 1.1.1
 WHO: 0.2.1
 WINRPACK: 1.1-0
-WINS: 1.4.1
+WINS: 1.4.2
 WLasso: '1.0'
 WLinfer: 1.2.0
 WLogit: '2.1'
@@ -8861,7 +8861,7 @@ anonymizer: 0.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
 ant: 0.0-10
-antaresEditObject: 0.6.2
+antaresEditObject: 0.6.3
 antaresProcessing: 0.18.1
 antaresRead: 2.6.1
 antaresViz: 0.18.0
@@ -9101,7 +9101,7 @@ atRisk: 0.1.0
 ata: 1.1.1
 atable: 0.1.14
 atakrig: 0.9.8.1
-atime: 2024.4.17
+atime: 2024.4.23
 atlantistools: 0.4.3
 atlas: 1.0.0
 atm: 0.1.0
@@ -9273,7 +9273,7 @@ bama: 1.3.0
 bamboo: 0.9.25
 bambooHR: 0.1.1
 bamdit: 3.4.0
-bamlss: 1.2-3
+bamlss: 1.2-4
 bamm: 0.4.3
 bamp: 2.1.3
 bams: '1.6'
@@ -9716,7 +9716,7 @@ biogas: 1.23.2
 biogeo: '1.0'
 biogeom: 1.4.3
 biogram: 1.6.3
-biogrowth: 1.0.3
+biogrowth: 1.0.4
 bioimagetools: 1.1.8
 bioinactivation: 1.2.3
 biokNN: 0.1.0
@@ -10908,7 +10908,7 @@ colorfindr: 0.1.4
 colorfulVennPlot: '2.4'
 colorhcplot: 1.3.1
 colorhex: 0.1.4
-colorist: 0.1.2
+colorist: 0.1.3
 colorizer: 0.1.0
 colormap: 0.1.4
 colorout: 0.9-9
@@ -11544,7 +11544,7 @@ cutoff: '1.3'
 cutoffR: '1.0'
 cutpointr: 1.1.2
 cuttlefish.model: '1.0'
-cv: 1.1.0
+cv: 2.0.0
 cvAUC: 1.1.4
 cvCovEst: 1.2.2
 cvGEE: 0.3-0
@@ -11897,7 +11897,7 @@ degross: 0.9.0
 deisotoper: 0.0.7
 dejaVu: 0.3.0
 delaunay: 2.0.0
-delayed: 0.4.0
+delayed: 0.5.0
 deldir: 2.0-4
 delftfews: 0.3-136
 delt: 0.8.2
@@ -12278,7 +12278,7 @@ dng: 0.2.1
 dnn: 0.0.6
 dnr: 0.3.5
 do: 2.0.0.0
-doBy: 4.6.20
+doBy: 4.6.21
 doFuture: 1.0.1
 doMC: 1.3.8
 doMIsaul: 1.0.1
@@ -12999,7 +12999,7 @@ epuR: '0.1'
 epubr: 0.6.4
 epwshiftr: 0.1.4
 epxToR: 0.4-1
-eq5d: 0.15.2
+eq5d: 0.15.3
 eqn2svg: 0.1.0
 eqs2lavaan: '3.0'
 eqtl: 1.1-7
@@ -14304,7 +14304,7 @@ gee4: 0.1.0.0
 geeCRT: 1.1.3
 geeM: 0.10.1
 geeVerse: 0.1.0
-geeasy: 0.1.1
+geeasy: 0.1.2
 geecure: 1.0-6
 geepack: 1.3.10
 geesmv: '1.3'
@@ -14571,7 +14571,7 @@ ggasym: 0.1.6
 ggautomap: 0.3.2
 ggbeeswarm: 0.7.2
 ggbiplot: 0.6.2
-ggblanket: 7.0.0
+ggblanket: 8.0.0
 ggblend: 0.1.0
 ggborderline: 0.2.0
 ggbrace: 0.1.1
@@ -17498,7 +17498,7 @@ maple: 0.99.5
 maplegend: 0.1.0
 mapme.biodiversity: 0.5.0
 mapmisc: 2.1.0
-mapmixture: 1.1.1
+mapmixture: 1.1.2
 mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
@@ -17643,7 +17643,7 @@ mbir: 1.3.5
 mblm: 0.12.1
 mbmdr: '2.6'
 mbmixture: '0.4'
-mboost: 2.9-9
+mboost: 2.9-10
 mboxr: 0.2.0
 mbr: 0.0.1
 mbrdr: 1.1.1
@@ -17683,7 +17683,7 @@ mclcar: 0.2-0
 mcll: '1.2'
 mclm: 0.2.7
 mclogit: 0.9.6
-mclust: '6.1'
+mclust: 6.1.1
 mclust02: 2.1-18
 mclust1998: 1.1-10
 mclustAddons: '0.8'
@@ -18268,7 +18268,7 @@ mlsjunkgen: 0.1.2
 mlstrOpalr: 1.0.2
 mlsurvlrnrs: 0.0.3
 mlt: 1.5-1
-mlt.docreg: 1.1-7
+mlt.docreg: 1.1-8
 mltest: 1.0.1
 mltools: 0.3.5
 mlvocab: '0.1'
@@ -18306,7 +18306,7 @@ mmppr: '0.1'
 mmr: 0.1.0
 mmrm: 0.3.11
 mmsample: '0.1'
-mmstat4: 0.2.0
+mmstat4: 0.2.1
 mmtfa: '0.3'
 mmtsne: 0.1.0
 mnda: 1.0.9
@@ -20012,7 +20012,7 @@ partitions: 1.10-7
 partools: 1.1.6
 partsm: 1.1-3
 parttime: 0.1.2
-party: 1.3-14
+party: 1.3-15
 partykit: 1.2-20
 parviol: '1.1'
 parzer: 0.4.1
@@ -22567,7 +22567,7 @@ rmutil: 1.1.10
 rmweather: 0.2.5
 rmytarget: 2.4.0
 rmzqc: 0.5.4
-rnaCrosslinkOO: 0.1.2
+rnaCrosslinkOO: 0.1.3
 rnames: 1.0.1
 rnaseqWrapper: 1.0-1
 rnassqs: 0.6.1
@@ -22960,7 +22960,7 @@ rtms: 0.2.0
 rtodoist: 0.1.0
 rtoot: 0.3.4
 rtop: 0.6-9
-rtpcr: 1.0.5
+rtpcr: 1.0.6
 rtrek: 0.4.0
 rtrend: 0.1.5
 rtrends: 0.1.0
@@ -23443,7 +23443,7 @@ secuTrialR: 1.1.1
 secure: '0.6'
 securitytxt: 0.1.1
 sedproxy: 0.7.5
-see: 0.8.3
+see: 0.8.4
 seeclickfixr: 1.1.0
 seecolor: 0.2.0
 seedCCA: '3.1'
@@ -24328,7 +24328,7 @@ sparkavro: 0.3.0
 sparkbq: 0.1.1
 sparkhail: 0.1.1
 sparkline: '2.0'
-sparklyr: 1.8.5
+sparklyr: 1.8.6
 sparklyr.flint: 0.2.2
 sparklyr.nested: 0.0.4
 sparktex: '0.1'
@@ -24413,7 +24413,7 @@ spatstat.local: 5.0-1
 spatstat.model: 3.2-11
 spatstat.random: 3.2-3
 spatstat.sparse: 3.0-3
-spatstat.univar: 2.0-2
+spatstat.univar: 2.0-3
 spatstat.utils: 3.0-4
 spatsurv: 2.0-1
 spbabel: 0.6.0
@@ -25671,7 +25671,7 @@ timbr: 0.2.2
 time: '1.1'
 time.slots: 0.2.0
 time2event: 0.1.0
-timeDF: 0.9.0
+timeDF: 0.9.1
 timeDate: '4032.109'
 timeLineGraphics: '1.0'
 timeR: 1.2.0
@@ -26628,7 +26628,7 @@ vtype: '0.8'
 vudc: '1.1'
 vueR: 0.6.0
 vvauditor: 0.6.0
-vvcanvas: 0.0.3
+vvcanvas: 0.0.4
 vvconverter: 0.5.9
 vvdoctor: 0.0.1
 vvfiller: 0.6.7
