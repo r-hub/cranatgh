@@ -76,7 +76,7 @@ AIGIS: 1.0-1
 AIM: '1.01'
 AIPW: 0.6.3.2
 AIS: '1.0'
-AIUQ: 0.5.1
+AIUQ: 0.5.2
 ALA4R: 1.9.1
 ALDqr: '1.0'
 ALEPlot: '1.1'
@@ -725,7 +725,7 @@ BiG: 0.1.0
 BiGGR: '1.8'
 BiOFI: 0.1.0
 BiProbitPartial: 1.0.3
-BiSEp: '2.2'
+BiSEp: '2.3'
 BiTrinA: 1.3.1
 BiasCorrector: 0.2.2
 BiasedUrn: 2.0.11
@@ -767,7 +767,7 @@ BioRssay: 1.1.0
 BioStatR: 4.0.1
 BioTIMEr: 0.2.2
 BioVenn: 1.1.3
-BiocManager: 1.30.22
+BiocManager: 1.30.23
 Biocomb: '0.4'
 Biodem: '0.5'
 BiodiversityR: 2.16-1
@@ -2923,7 +2923,7 @@ GetDFPData2: 0.6.3
 GetFREData: 0.8.1
 GetHFData: '1.7'
 GetITRData: '0.7'
-GetLattesData: 1.4.3
+GetLattesData: '1.5'
 GetNenshuJP: '0.1'
 GetQuandlData: 1.0.0
 GetR: '0.1'
@@ -3504,8 +3504,8 @@ IsoCorr: '1.0'
 IsoGene: 1.0-24
 IsoMemo: 23.10.1
 IsoSpecR: 2.1.3
-IsoplotR: '6.1'
-IsoplotRgui: '6.1'
+IsoplotR: '6.2'
+IsoplotRgui: '6.2'
 IsoriX: 0.9.2
 IsotopeR: 0.5.4
 ItemResponseTrees: 0.2.5
@@ -4870,7 +4870,7 @@ NormalizeMets: '0.25'
 NostalgiR: 1.0.2
 NovelDistns: 0.1.0
 NoviceDeveloperResources: 1.2.0
-NoviceDeveloperResources2: '1.0'
+NoviceDeveloperResources2: 1.1.0
 Nozzle.R1: 1.1-1.1
 Numero: 1.9.6
 NutrienTrackeR: 1.3.0
@@ -5711,7 +5711,7 @@ R2STATS: 0.68-39
 R2SWF: 0.9-9
 R2WinBUGS: 2.1-22.1
 R2admb: 0.7.16.3
-R2jags: 0.7-1.1
+R2jags: 0.8-5
 R2sample: 1.1.0
 R2ucare: 1.0.2
 R2wd: '1.5'
@@ -8332,7 +8332,7 @@ WeibullR.ALT: 0.7.2
 WeibullR.learnr: 0.1.1
 WeibullR.plotly: 0.2.0
 WeibullR.shiny: 0.2.0
-WeightIt: 1.0.0
+WeightIt: 1.1.0
 WeightSVM: 1.7-13
 Weighted.Desc.Stat: '1.0'
 WeightedCluster: 1.6-4
@@ -12338,7 +12338,7 @@ doex: '1.2'
 dogesr: 0.5.0
 dominanceanalysis: 2.1.0
 domino: 0.3.1
-domir: 1.1.1
+domir: 1.2.0
 donut: 1.0.3
 donutsk: 0.1.1
 doolkit: 1.42.2
@@ -12738,7 +12738,7 @@ ediblecity: 0.2.1
 edina: 0.1.1
 editData: 0.1.8
 editbl: 1.0.3
-editrules: 2.9.3
+editrules: 2.9.5
 edl: '1.1'
 edlibR: 1.0.2
 edmcr: 0.2.0
@@ -15353,7 +15353,7 @@ happign: 0.2.2
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
-harbinger: 1.0.767
+harbinger: 1.0.777
 hardhat: 1.3.1
 harmonicmeanp: 3.0.1
 harmonizer: 0.3.2
@@ -16456,7 +16456,7 @@ jmv: 2.4.11
 jmvReadWrite: 0.4.5
 jmvconnect: 2.3.13
 jmvcore: 2.4.7
-job: 0.3.0
+job: 0.3.1
 jocre: 0.3.3
 joinXL: 1.0.1
 joineR: 1.2.8
@@ -16641,7 +16641,7 @@ kirby21.fmri: 1.7.0
 kirby21.t1: 1.7.0
 kisopenapi: 0.0.2
 kissmig: 1.0-4
-kit: 0.0.16
+kit: 0.0.17
 kitagawa: 3.1.2
 kittyR: 1.1.0
 kiwisR: 0.2.0
@@ -17168,7 +17168,7 @@ lmodel2: 1.7-3
 lmom: '3.0'
 lmomPi: 0.6.6
 lmomRFA: '3.6'
-lmomco: 2.4.14
+lmomco: 2.5.1
 lmreg: '1.2'
 lmridge: 1.2.2
 lmtest: 0.9-40
@@ -20067,7 +20067,7 @@ patentsview: 0.3.0
 path.chain: 0.2.0
 pathClass: 0.9.4
 pathdiagram: 0.1.9.1
-pathfindR: 2.4.0
+pathfindR: 2.4.1
 pathfindR.data: 2.1.0
 pathlibr: 0.1.0
 pathling: 6.4.2
@@ -21111,7 +21111,7 @@ provParseR: '1.0'
 provSummarizeR: 1.5.1
 provTraceR: '1.0'
 provViz: 1.0.9
-provenance: '4.2'
+provenance: '4.3'
 proverbs: 0.4.0
 proxirr: '0.4'
 proxy: 0.4-27
@@ -21728,7 +21728,7 @@ randomForestVIP: 0.1.3
 randomGLM: 1.10-1
 randomLCA: 1.1-3
 randomMachines: 0.1.0
-randomNames: 1.5-0.0
+randomNames: 1.6-0.0
 randomSurvivalForest: 3.6.4
 randomUniformForest: 1.1.6
 randomcoloR: 1.1.0.1
@@ -22925,7 +22925,7 @@ rsparkling: 0.2.19
 rsparse: 0.5.1
 rspear: 0.1-2
 rspiro: '0.4'
-rspm: 0.5.1
+rspm: 0.5.2
 rsppfp: 1.0.4
 rsprite2: 0.2.1
 rsprng: '1.0'
@@ -23617,7 +23617,7 @@ seqmagick: 0.1.7
 seqminer: '9.4'
 seqmon: '2.4'
 seqtest: 0.1-0
-seqtrie: 0.2.6
+seqtrie: 0.2.8
 sequence: '2.0'
 sequences: 0.5.9
 sequenza: 3.0.0
@@ -24769,7 +24769,7 @@ stashR: 0.3-5
 stat.extend: 0.2.1
 statBasics: 0.2.0
 statConfR: 0.1.1
-statGraph: 1.0.0
+statGraph: 1.0.1
 statTarget: 1.2.2
 statVisual: 1.2.1
 statar: 0.7.6
@@ -25085,7 +25085,7 @@ survSpearman: 1.0.1
 survcomp: 1.1.6
 survcompare: 0.1.2
 surveil: 0.2.2
-surveillance: 1.22.1
+surveillance: 1.23.0
 survex: 1.2.0
 survexp.fr: '1.1'
 survey: 4.4-2
