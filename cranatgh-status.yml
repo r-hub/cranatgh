@@ -724,6 +724,7 @@ BiDimRegression: 2.0.1
 BiG: 0.1.0
 BiGGR: '1.8'
 BiOFI: 0.1.0
+BiObjClass: 0.1.0
 BiProbitPartial: 1.0.3
 BiSEp: '2.3'
 BiTrinA: 1.3.1
@@ -911,7 +912,7 @@ CBnetworkMA: 0.1.0
 CC: '1.0'
 CCA: 1.2.2
 CCAGFA: 1.0.8
-CCAMLRGIS: 4.0.8
+CCAMLRGIS: 4.1.0
 CCM: '1.2'
 CCMMR: '0.2'
 CCMnet: 0.0-3
@@ -1303,7 +1304,7 @@ CohortAlgebra: 0.2.0
 CohortCharacteristics: 0.2.0
 CohortExplorer: 0.1.0
 CohortPlat: 1.0.5
-CohortSurvival: 0.4.0
+CohortSurvival: 0.5.0
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
 CollapsABEL: 0.10.11
@@ -1488,7 +1489,7 @@ CustosAscensor: 0.1.0
 CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
-CvmortalityMult: 0.0.1
+CvmortalityMult: 1.0.1
 Cyclops: 3.4.0
 CytOpT: 0.9.4
 CytoSimplex: 0.1.1
@@ -1612,7 +1613,7 @@ DHS.rates: 0.9.2
 DICOM: '0.13'
 DICOMread: 0.0.0.3
 DIDmultiplegt: 0.1.3
-DIDmultiplegtDYN: 1.0.8
+DIDmultiplegtDYN: 1.0.9
 DIFM: '1.0'
 DIFboost: '0.3'
 DIFlasso: 1.0-4
@@ -2675,7 +2676,7 @@ GFisher: 0.2.0
 GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
-GGIR: 3.0-9
+GGIR: 3.1-0
 GGIRread: 1.0.0
 GGMM: 1.0.1
 GGMncv: 2.1.1
@@ -2824,7 +2825,7 @@ GWAF: '2.2'
 GWASExactHW: '1.2'
 GWASbyCluster: 0.1.7
 GWASinlps: '2.2'
-GWASinspector: 1.6.5
+GWASinspector: 1.7.1
 GWEX: 1.1.3
 GWG: '1.0'
 GWI: 1.0.2
@@ -4014,7 +4015,7 @@ MCM: 0.1.7
 MCMC.OTU: 1.0.10
 MCMC.qpcr: 1.2.4
 MCMC4Extremes: '1.1'
-MCMCglmm: '2.35'
+MCMCglmm: '2.36'
 MCMChybridGP: '5.4'
 MCMCpack: 1.7-0
 MCMCprecision: 0.4.0
@@ -5364,7 +5365,7 @@ Pasha: 0.99.21
 PathSelectMP: '1.1'
 PatientProfiles: 0.8.0
 PatternClass: 2.0.1
-Patterns: '1.4'
+Patterns: '1.5'
 PdPDB: 2.0.1
 Peacock.test: '1.0'
 Peak2Trough: '1.3'
@@ -5838,7 +5839,7 @@ REBayes: '2.54'
 RECA: '1.7'
 RECSO: '1.0'
 REDCapCAST: 24.2.1
-REDCapDM: 0.9.8
+REDCapDM: 0.9.9
 REDCapExporter: 0.2.2
 REDCapR: 1.1.0
 REDCapTidieR: 1.1.1
@@ -8359,7 +8360,7 @@ WindCurves: '0.2'
 Wmisc: 0.3.4
 WoodSimulatR: 0.6.1
 WoodburyMatrix: 0.0.3
-WordListsAnalytics: 0.2.1
+WordListsAnalytics: 0.2.2
 WordOfMouth: 1.1.0
 WordPools: 1.2.0
 WordR: 0.3.6
@@ -8944,7 +8945,7 @@ aprean3: 1.0.1
 apricom: 1.0.0
 aprof: 0.4.1
 apsimr: '1.2'
-apsimx: 2.6.2
+apsimx: 2.7.7
 apsrtable: 0.8-8
 apt: '3.0'
 aptg: 0.1.1
@@ -10209,7 +10210,7 @@ cancensus: 0.5.7
 cancerGI: 1.0.1
 cancerTiming: 3.1.8
 cancerscreening: 1.1.0
-candisc: 0.8-6
+candisc: 0.9.0
 canprot: 2.0.0
 cansim: 0.3.16
 canvas: 0.2-0
@@ -11610,7 +11611,7 @@ cytoDiv: 0.5-3
 cytofan: 0.1.0
 cytometree: 2.0.2
 cytominer: 0.2.2
-czechrates: 0.2.4
+czechrates: 0.2.5
 czso: 0.3.12
 d3Network: 0.5.2.1
 d3Tree: 0.3.0
@@ -12733,7 +12734,7 @@ edgeRun: 1.0.9
 edgebundle: 0.4.2
 edgebundleR: 0.1.4
 edgedata: 0.2.0
-edibble: 1.1.0
+edibble: 1.1.1
 ediblecity: 0.2.1
 edina: 0.1.1
 editData: 0.1.8
@@ -14713,7 +14714,7 @@ ggpointless: 0.1.0
 ggpol: 0.0.7
 ggpolar: 0.2.2
 ggpolypath: 0.3.0
-ggpp: 0.5.6
+ggpp: 0.5.7
 ggprism: 1.0.5
 ggpubr: 0.6.0
 ggpval: 0.2.5
@@ -15052,6 +15053,7 @@ gps: '1.2'
 gps.track: 1.0.0
 gptk: '1.08'
 gptoolsStan: 0.1.0
+gptr: 0.5.0
 gptstudio: 0.3.0
 gptzeror: 0.0.1
 gpuR: 2.0.3
@@ -16742,7 +16744,7 @@ kuniezu: 0.1.3
 kutils: '1.73'
 kvh: 1.4.2
 kwb.hantush: 0.3.0
-kyotil: 2024.1-30
+kyotil: 2024.5-8
 kza: 4.1.0.1
 kzfs: 1.5.0.2
 kzft: '0.17'
@@ -17041,6 +17043,7 @@ lilikoi: 2.1.1
 lillies: 0.2.12
 limSolve: 1.5.7.1
 lime: 0.5.3
+limexhub: 0.1.5
 liminal: 0.1.2
 limitplot: '1.2'
 limma: 2.10.7
@@ -17328,7 +17331,7 @@ lrgs: 0.5.4
 lrmest: '3.0'
 lrstat: 0.2.5
 lsa: 0.73.3
-lsasim: 2.1.4
+lsasim: 2.1.5
 lsbclust: '1.1'
 lsbs: '0.1'
 lsdbc: 0.1.0
@@ -17497,7 +17500,7 @@ manifold: 0.1.1
 manipulate: 1.0.1
 manipulateWidget: 0.11.1
 manta: 1.0.1
-manydata: 0.9.2
+manydata: 0.9.3
 manymodelr: 0.3.7
 manymome: 0.1.14
 manymome.table: 0.3.0
@@ -17540,7 +17543,7 @@ mapsPERU: 2.0.0
 mapsRinteractive: 2.0.1
 mapsapi: 0.5.4
 mapscanner: 0.0.6
-mapsf: 0.9.0
+mapsf: 0.10.1
 maptiles: 0.7.0
 maptools: 1.1-8
 maptpx: 1.9-7
@@ -17560,7 +17563,7 @@ margaret: 0.1.4
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
-marginaleffects: 0.19.0
+marginaleffects: 0.20.0
 marginalizedRisk: 2024.1-27
 marginalmodelplots: 0.4.2
 margins: 0.3.26.1
@@ -18832,6 +18835,7 @@ mvctm: '1.2'
 mvcwt: 1.3.1
 mvdalab: '1.7'
 mverse: 0.1.0
+mvgam: 1.1.0
 mvgb: 0.0.4
 mvglmmRank: 1.2-4
 mvgraph: '1.2'
@@ -19167,7 +19171,7 @@ nlgeocoder: 0.1.3
 nlgm: '1.0'
 nlirms: 3.4.4
 nlist: 0.3.3
-nlive: 0.4.0
+nlive: 0.5.0
 nlme: 3.1-164
 nlmeODE: '1.1'
 nlmeU: 0.70-9
@@ -19288,7 +19292,7 @@ nonmem2R: 0.2.5
 nonmem2rx: 0.1.3
 nonmemica: 1.0.8
 nonneg.cg: 0.1.6-1
-nonnest2: 0.5-6
+nonnest2: 0.5-7
 nonpar: 1.0.2
 nonparaeff: 0.5-13
 nonparametric.bayes: 0.0.1
@@ -19659,7 +19663,7 @@ opensensmapr: 0.6.0
 openssl: 2.1.2
 opentick: 0.1-1
 opentraj: '1.0'
-opentripplanner: 0.5.1
+opentripplanner: 0.5.2
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
 openxlsx: 4.2.5.2
@@ -19799,7 +19803,7 @@ osmose: 3.3.4
 osmplotr: 0.3.3
 ospsuite.utils: 1.2.0
 osqp: 0.6.3.2
-osrm: 4.1.1
+osrm: 4.2.0
 osrmr: 0.1.36
 ot: 0.2.0
 otargen: 1.1.1
@@ -21686,7 +21690,7 @@ radous: 0.1.3
 radsafer: 2.3.0
 radtools: 1.0.6
 rafalib: 1.0.0
-ragg: 1.3.0
+ragg: 1.3.1
 rags2ridges: 2.2.7
 ragt2ridges: 0.3.4
 ragtop: 1.1.1
@@ -22916,7 +22920,7 @@ rsmatrix: 0.2.8
 rsml: '1.3'
 rsnell: '0.1'
 rsnps: 0.6.0
-rsocialwatcher: 0.1.0
+rsocialwatcher: 0.1.1
 rsofun: '4.4'
 rsoi: 0.5.6
 rsolr: 0.0.13
@@ -24141,7 +24145,7 @@ smcfcs: 1.7.1
 smco: '0.1'
 smcryptoR: 0.1.2
 smcure: '2.1'
-smd: 0.6.7
+smd: 0.7.0
 smd.and.more: 1.3-0
 smdata: '1.2'
 smdc: 0.0.2
@@ -24785,12 +24789,12 @@ statesRcontiguous: 0.1.0
 statespacer: 0.5.0
 statfi: 0.9.8
 statgenGWAS: 1.0.9
-statgenGxE: 1.0.7
+statgenGxE: 1.0.8
 statgenHTP: 1.0.6.1
 statgenIBD: 1.0.7
 statgenMPP: 1.0.2
 statgenQTLxT: 1.0.2
-statgenSTA: 1.0.12
+statgenSTA: 1.0.13
 static: 0.1.0
 stationaRy: 0.5.1
 stationery: '1.1'
@@ -24907,7 +24911,7 @@ strand: 0.2.0
 strandCet: '1.0'
 stranger: 0.3.3
 stranslate: 0.1.3
-strap: 1.6-0
+strap: 1.6-1
 strapgod: 0.0.4
 strat: '0.1'
 stratEst: 1.1.6
@@ -24947,7 +24951,7 @@ stringdist: 0.9.12
 stringfish: 0.16.0
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
-stringi: 1.8.3
+stringi: 1.8.4
 stringkernels: 0.8.9
 stringmagic: 1.1.2
 stringr: 1.5.1
@@ -25528,7 +25532,7 @@ tfdatasets: 2.9.0
 tfdeploy: 0.6.1
 tfer: '1.3'
 tfestimators: 1.9.2
-tfevents: 0.0.2
+tfevents: 0.0.3
 tfhub: 0.8.1
 tfio: 0.4.1
 tfplot: 2021.6-1
@@ -25758,7 +25762,7 @@ tinyspotifyr: 0.2.2
 tinytable: 0.2.1
 tinytest: 1.4.1
 tinytest2JUnit: 1.0.3
-tinytex: '0.50'
+tinytex: '0.51'
 tinythemes: 0.0.2
 tinytiger: 0.0.8
 tiobeindexr: 0.1.1
@@ -26163,7 +26167,7 @@ turkeyelections: 0.1.2
 turner: 0.1.9
 tutoR: 0.3.2
 tutorial: 0.4.3
-tutorial.helpers: 0.2.6
+tutorial.helpers: 0.2.7
 tuts: 0.1.1
 tv: 2.0.2
 tvR: 0.3.2
