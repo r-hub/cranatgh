@@ -189,7 +189,7 @@ AbsFilterGSEA: 1.5.1
 Ac3net: 1.2.2
 AcademicThemes: 0.0.2
 AccelStab: 2.0.1
-AcceptReject: 0.1.1
+AcceptReject: 0.1.2
 AcceptanceSampling: 1.0-10
 Ace: 0.0.8
 Achilles: 1.7.2
@@ -5749,7 +5749,7 @@ RAP: '1.1'
 RAPIDR: 0.1.1
 RAPTOR: 1.0.1
 RAQSAPI: 2.0.3
-RARfreq: 0.1.4
+RARfreq: 0.1.5
 RAT: 0.3.1
 RATest: 0.1.10
 RAZIAD: 0.0.1
@@ -6320,7 +6320,7 @@ Ratings: 0.1-2
 RationalExp: 0.2.2
 RationalMatrix: 1.0.0
 Ravages: 1.1.3
-RavenR: 2.2.0
+RavenR: 2.2.2
 RawHummus: 0.3.3
 Rbeast: 1.0.0
 Rbent: 0.1.0
@@ -6971,7 +6971,7 @@ SGP: 2.1-0.0
 SGPdata: 27.0-0.0
 SHAPforxgboost: 0.1.3
 SHARE: 1.1.0
-SHELF: 1.9.0
+SHELF: 1.10.0
 SHIP: 1.0.2
 SHLR: '1.0'
 SHT: 0.1.8
@@ -7658,6 +7658,7 @@ SurrogateTest: '1.3'
 SurvBoost: 0.1.2
 SurvCorr: '1.1'
 SurvDisc: 0.1.1
+SurvEval: '1.0'
 SurvGSD: 1.0.0
 SurvHiDim: 0.1.1
 SurvLong: '1.4'
@@ -8740,7 +8741,7 @@ alR: 2.2.2
 alabama: 2023.1.0
 alakazam: 1.3.0
 alarmdata: 0.2.1
-albatross: 0.3-7
+albatross: 0.3-8
 albopictus: '0.5'
 ald: 1.3.1
 aldvmm: 0.8.8
@@ -8905,7 +8906,7 @@ apa: 0.3.4
 apaStyle: '0.5'
 apaTables: 2.0.8
 apaText: 0.1.7
-apache.sedona: 1.5.1
+apache.sedona: 1.5.2
 apc: 2.0.0
 apcf: 0.3.0
 apcluster: 1.4.13
@@ -10188,6 +10189,7 @@ calibrationband: 0.2.1
 calibrator: 1.2-8
 calidad: 0.5.0
 caliver: 2.0.0
+callback: 0.1.0
 callr: 3.7.6
 callsync: 0.2.1
 calmate: 0.13.0
@@ -10391,6 +10393,7 @@ cdparcoord: 1.0.1
 cdrcR: 0.1.1
 cds: 1.0.3
 ceRtainty: 1.0.0
+ceas: 1.0.0
 cec2005benchmark: 1.0.4
 cec2013: 0.1-5
 cecs: 0.2.4
@@ -10498,7 +10501,7 @@ chartql: 0.1.0
 chatAI4R: 0.2.10
 chatgpt: 0.2.3
 chattr: 0.1.0
-cheapr: 0.9.0
+cheapr: 0.9.1
 cheatR: 1.2.1-1
 cheatmap: 1.0.0
 cheatsheet: 0.1.2
@@ -10722,7 +10725,7 @@ cloudRmpi: 1.2.1
 cloudRmpiJars: '1.1'
 cloudSimplifieR: 0.1.9
 cloudUtil: 0.1.12
-cloudfs: 0.1.2
+cloudfs: 0.1.3
 cloudml: 0.6.1
 cloudos: 0.4.0
 cloudstoR: 0.2.0
@@ -10811,10 +10814,11 @@ cmprskcoxmsm: 0.2.1
 cmpsR: 0.1.2
 cmrutils: 1.3.1
 cms: 0.1.0
-cmsaf: 3.5.0
+cmsaf: 3.5.1
 cmsafops: 1.4.0
 cmsafvis: 1.2.7
 cmstatr: 0.9.3
+cmstatrExt: 0.4.0
 cmtest: 0.1-2
 cmvnorm: 1.0-7
 cna: 3.5.6
@@ -11832,6 +11836,7 @@ ddR: 0.1.2
 ddalpha: 1.3.15
 ddc: 1.0.1
 dde: 1.0.5
+ddecompose: 1.0.0
 ddeploy: 1.0.4
 ddepn: '2.2'
 ddesolve: '1.04'
@@ -12738,7 +12743,7 @@ edibble: 1.1.1
 ediblecity: 0.2.1
 edina: 0.1.1
 editData: 0.1.8
-editbl: 1.0.3
+editbl: 1.0.4
 editrules: 2.9.5
 edl: '1.1'
 edlibR: 1.0.2
@@ -13079,7 +13084,7 @@ esd4all: 1.0-9
 eseis: 0.7.3
 eselect: '1.1'
 esem: 2.0.0
-esemifar: 2.0.0
+esemifar: 2.0.1
 eshrink: 0.1.2
 esmisc: 0.0.3
 esmprep: 0.2.0
@@ -13756,6 +13761,7 @@ flexPM: '2.0'
 flexclust: 1.4-2
 flexdashboard: 0.6.2
 flexiblas: 3.4.0
+flexlsx: 0.2.1
 flexmet: '1.1'
 flexmix: 2.3-19
 flexmixNL: 0.0.1
@@ -13894,7 +13900,7 @@ forge: 0.2.0
 fork: 1.2.4
 formatBibtex: 0.1.0
 formatR: '1.14'
-formatdown: 0.1.3
+formatdown: 0.1.4
 formattable: 0.2.1
 formatters: 0.5.6
 formods: 0.1.4
@@ -14044,7 +14050,7 @@ fuel: 1.2.0
 fueleconomy: 1.0.0
 fugeR: 0.1.2
 fugue: 0.1.7
-fuj: 0.1.4
+fuj: 0.2.0
 fullROC: 0.1.0
 fullfact: 1.5.2
 fulltext: '2.0'
@@ -14678,6 +14684,7 @@ ggmosaic: 0.3.3
 ggmotif: 0.2.1
 ggmr: 0.1.1
 ggmsa: 1.0.2
+ggmugs: 0.6.0
 ggmuller: 0.5.6
 ggmulti: 1.0.7
 ggnetwork: 0.5.13
@@ -14708,7 +14715,7 @@ ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
 ggplotify: 0.1.2
 ggplotlyExtra: 0.0.1
-ggpmisc: 0.5.5
+ggpmisc: 0.5.6
 ggpointdensity: 0.1.0
 ggpointless: 0.1.0
 ggpol: 0.0.7
@@ -15053,7 +15060,7 @@ gps: '1.2'
 gps.track: 1.0.0
 gptk: '1.08'
 gptoolsStan: 0.1.0
-gptr: 0.5.0
+gptr: 0.6.0
 gptstudio: 0.3.0
 gptzeror: 0.0.1
 gpuR: 2.0.3
@@ -15351,7 +15358,7 @@ haploR: 4.0.7
 haploReconstruct: 0.1.2
 haplotyper: '0.1'
 haplotypes: 1.1.3.1
-happign: 0.2.2
+happign: 0.3.0
 happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
@@ -16499,7 +16506,7 @@ jsTree: '1.2'
 jsTreeR: 2.6.0
 jshintr: 0.1.0
 jskm: 0.5.3
-jsmodule: 1.5.3
+jsmodule: 1.5.4
 json2aRgs: 0.3.0
 json64: 0.1.3
 jsonNormalize: 1.0.0
@@ -16511,7 +16518,7 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.3.2
 jsr223: 0.3.4
-jstable: 1.1.9
+jstable: 1.2.5
 jstor: 0.3.11
 jtGWAS: 1.5.1
 jtdm: 0.1-2
@@ -17302,6 +17309,7 @@ lorenz: 0.1.0
 lori: 2.2.2
 lossDev: 3.0.0-4
 lotri: 0.4.3
+lotterybr: 0.1.0
 lowmemtkmeans: 0.1.2
 lowpassFilter: 1.0-2
 lpSolve: 5.6.20
@@ -17390,6 +17398,7 @@ lwgeom: 0.2-14
 lwqs: 0.5.0
 lxb: '1.5'
 lymphclon: 1.3.0
+lzstring: 0.1.2
 m2b: '1.0'
 m2r: 1.0.2
 m4fe: '0.1'
@@ -17502,7 +17511,7 @@ manipulateWidget: 0.11.1
 manta: 1.0.1
 manydata: 0.9.3
 manymodelr: 0.3.7
-manymome: 0.1.14
+manymome: 0.2.1
 manymome.table: 0.3.0
 manynet: 0.4.4
 maotai: 0.2.5
@@ -18397,7 +18406,7 @@ modeldb: 0.3.0
 modelenv: 0.1.1
 modelfactory: 1.0.0
 modelfree: '1.2'
-modelgrid: 1.1.1.0
+modelgrid: 1.2.0
 modelimpact: 1.0.0
 modellingTools: 0.1.0
 modello: 0.1.1
@@ -18488,6 +18497,7 @@ morphemepiece: 1.2.3
 morphemepiece.data: 1.2.0
 morpheus: 1.0-4
 morphomap: '1.5'
+morrowplots: 0.1.0
 morse: 3.3.2
 mort: 0.0.1
 mortAAR: 1.1.6
@@ -18752,7 +18762,7 @@ multinbmod: '1.0'
 multiness: 1.0.2
 multinet: 4.1.2
 multinets: 0.2.2
-multinma: 0.6.1
+multinma: 0.7.0
 multinomRob: 1.8-6.1
 multinomialLogitMix: '1.1'
 multinomineq: 0.2.6
@@ -21148,6 +21158,7 @@ psgp: 0.3-21
 psica: 1.0.2
 psidR: '2.1'
 psidread: 1.0.3
+psm3mkv: 0.3.1
 psmineR: 0.1.0
 pso: 1.0.4
 psoptim: '1.0'
@@ -22832,7 +22843,7 @@ rpud: 0.0.2
 rpvm: 1.0-4
 rpyANTs: 0.0.3
 rpymat: 0.1.7
-rqPen: '4.0'
+rqPen: '4.1'
 rqdatatable: 1.3.3
 rqlm: 1.2-1
 rqmcmb2: 1.0.2-1
@@ -24937,7 +24948,7 @@ streamDepletr: 0.2.0
 streamMOA: 1.3-1
 streamR: 0.4.5
 streambugs: '1.4'
-streetscape: 1.0.0
+streetscape: 1.0.1
 stremo: '0.2'
 stremr: '0.4'
 stressaddition: 3.1.0
@@ -25420,7 +25431,7 @@ telegram: 0.6.0
 telegram.bot: 3.0.0
 telemac: 0.1.1
 telemetR: '1.0'
-tempR: 0.9.9.23
+tempR: 0.10.1.1
 tempcyclesdata: 1.0.1
 tempdisagg: 1.1.1
 temperatureresponse: '0.2'
@@ -25754,7 +25765,7 @@ tint: 0.1.4
 tinter: 0.1.0
 tinyProject: 0.6.1
 tinyarray: 2.3.3
-tinycodet: 0.4.6
+tinycodet: 0.5.0
 tinylabels: 0.2.4
 tinyscholar: 0.1.7
 tinysnapshot: 0.0.5
@@ -26468,7 +26479,7 @@ varoc: 0.2.0
 varrank: '0.5'
 vars: 1.6-1
 varsExplore: 0.3.0
-vartest: '1.1'
+vartest: '1.2'
 vartors: 0.2.6
 varycoef: 0.3.4
 vasicek: 0.0.3
