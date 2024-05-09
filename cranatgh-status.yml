@@ -1629,7 +1629,7 @@ DIZtools: 1.0.1
 DIZutils: 0.1.2
 DIconvex: 1.0.0
 DImodels: 1.3.2
-DImodelsMulti: 1.1.0
+DImodelsMulti: 1.1.1
 DImodelsVis: 1.0.1
 DIscBIO: 1.2.2
 DJL: '3.9'
@@ -3127,7 +3127,7 @@ HTSeed: 0.1.0
 HTT: 0.1.2
 HUM: '2.0'
 HURDAT: 0.2.3.2
-HVT: 23.11.1
+HVT: 24.5.1
 HW.pval: '1.0'
 HWEBayes: '1.4'
 HWEintrinsic: 1.2.3
@@ -3985,7 +3985,7 @@ MB: 0.1.1
 MBA: 0.1-0
 MBAnalysis: 2.0.2
 MBC: 0.10-6
-MBCbook: 0.1.1
+MBCbook: 0.1.2
 MBCluster.Seq: '1.0'
 MBESS: 4.9.3
 MBHdesign: 2.3.15
@@ -4113,6 +4113,7 @@ MIIPW: 0.1.1
 MIIVefa: 0.1.2
 MIIVsem: 0.5.8
 MILC: '1.0'
+MIMER: 1.0.0
 MIMSunit: 0.11.2
 MINTplates: 1.0.1
 MIPHENO: '1.2'
@@ -4694,7 +4695,7 @@ NFLSimulatoR: 0.4.0
 NFP: 0.99.4
 NFWdist: 0.1.0
 NGBVS: 0.3.0
-NGCHM: 1.0.2
+NGCHM: 1.0.3
 NGLVieweR: 1.3.1
 NGSSEML: '2.2'
 NHANES: 2.1.0
@@ -6003,7 +6004,7 @@ RMT4DS: 0.0.1
 RMTL: 0.9.9
 RMThreshold: '1.1'
 RMTstat: 0.3.1
-RMVL: 1.0.0.1
+RMVL: 1.1.0.0
 RMaCzek: 1.5.1
 RMallow: '1.1'
 RMariaDB: 1.3.1
@@ -6421,11 +6422,11 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.8.3
 RcppAnnoy: 0.0.22
-RcppArmadillo: 0.12.8.2.1
+RcppArmadillo: 0.12.8.3.0
 RcppArray: 0.3.0
 RcppBDT: 0.2.6
 RcppBigIntAlgos: 1.1.0
-RcppBlaze: 1.0.0
+RcppBlaze: 1.0.1
 RcppCCTZ: 0.2.12
 RcppCGAL: 5.6.3
 RcppCNPy: 0.2.12
@@ -6583,6 +6584,7 @@ RestRserve: 1.2.2
 RestoreNet: 1.0.1
 RevEcoR: 0.99.3
 RevGadgets: 1.2.1
+RevSD: 0.1.1
 ReviewR: 2.3.10
 Revticulate: 1.0.0
 Rexperigen: 0.2.1
@@ -7310,7 +7312,7 @@ SetMethods: '4.0'
 SetRank: 1.1.0
 SetTest: 0.2.0
 Seurat: 5.0.3
-SeuratObject: 5.0.1
+SeuratObject: 5.0.2
 ShapDoE: 1.0.0
 ShapeChange: '1.5'
 ShapePattern: 3.0.1
@@ -7763,7 +7765,7 @@ TIMP: 1.13.6
 TITAN2: 2.4.3
 TITEgBOIN: 0.3.0
 TInPosition: 0.13.6.1
-TKCat: 1.0.7
+TKCat: 1.1.7
 TKF: 0.0.8
 TLBC: '1.0'
 TLCAR: 0.1.0
@@ -7779,7 +7781,7 @@ TOC: 0.0-6
 TOHM: '1.4'
 TORDs: 1.0.0
 TOSI: 0.3.0
-TOSTER: 0.8.2
+TOSTER: 0.8.3
 TOU: 0.1.0
 TOmicsVis: 2.0.0
 TP.idm: 1.5.1
@@ -9299,6 +9301,7 @@ bandicoot: 1.0.0
 bandit: 0.5.1
 banditpam: 1.0-1
 bandsfdp: 1.1.0
+banffIT: 1.0.0
 bang: 1.0.3
 bangladesh: 1.0.0
 bannerCommenter: 1.0.0
@@ -13046,7 +13049,7 @@ erboost: '1.4'
 ercv: 1.0.1
 erer: '3.1'
 erfe: 0.0.1
-ergMargins: '1.2'
+ergMargins: '1.3'
 ergm: 4.6.0
 ergm.count: 4.1.1
 ergm.ego: 1.1.0
@@ -13179,7 +13182,7 @@ evolvability: 2.0.0
 evoper: 0.5.0
 evora: '1.0'
 evprof: 1.1.2
-evreg: 1.0.4
+evreg: 1.1.0
 evsim: 1.5.0
 evt0: 1.1-4
 evtclass: '1.0'
@@ -14766,7 +14769,7 @@ ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
 ggsurvey: 1.0.0
-ggsurvfit: 1.0.0
+ggsurvfit: 1.1.0
 ggswissmaps: 0.1.1
 ggtea: 0.1.1
 ggtern: 3.5.0
@@ -15510,7 +15513,7 @@ hgwrr: 0.3-0
 hhcartr: 1.0.0
 hhh4contacts: 0.13.3
 hhi: 1.2.0
-hhsmm: 0.3.7
+hhsmm: 0.4.0
 hht: 2.1.6
 hiPOD: '1.0'
 hibayes: 3.0.3
@@ -15736,7 +15739,7 @@ hydraulics: 0.7.0
 hydroApps: 0.1-1
 hydroDCindex: 1.0.0
 hydroEvents: '0.11'
-hydroGOF: 0.5-4
+hydroGOF: 0.6-0
 hydroMOPSO: 0.1-3
 hydroPSO: 0.5-1
 hydroTSM: 0.7-0
@@ -17572,7 +17575,7 @@ margaret: 0.1.4
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
-marginaleffects: 0.20.0
+marginaleffects: 0.20.1
 marginalizedRisk: 2024.1-27
 marginalmodelplots: 0.4.2
 margins: 0.3.26.1
@@ -18887,6 +18890,7 @@ mwaved: 1.1.8
 mwcsr: 0.1.8
 mwlaxeref: 0.0.1
 mwshiny: 2.1.0
+mxfda: 0.2.1
 mxkssd: '1.2'
 mxmmod: 1.1.0
 mxnorm: 1.0.3
@@ -19400,7 +19404,7 @@ npsp: 0.7-13
 npsr: 0.1.1
 npst: '2.0'
 npsurv: 0.5-0
-npsurvSS: 1.0.1
+npsurvSS: 1.1.0
 nptest: '1.1'
 npwbs: 0.2.0
 nrba: 0.3.1
@@ -19552,6 +19556,7 @@ officer: 0.6.6
 offlineChange: 0.0.4
 offsetreg: 1.1.0
 ofp: 1.0.0
+ofpetrial: 0.1.0
 ofw: 1.0-0
 oglmx: 3.0.0.0
 ogrdbstats: 0.5.0
@@ -19653,7 +19658,7 @@ openai: 0.4.1
 openair: 2.18-2
 openairmaps: 0.8.1
 openaistream: 0.2.0
-openalexR: 1.3.0
+openalexR: 1.3.1
 openbankeR: 0.1.1
 openblender: 0.5.81
 opencage: 0.2.2
@@ -20229,7 +20234,7 @@ pedigreemm: 0.3-4
 pedmod: 0.2.4
 pedmut: 0.7.1
 pedometrics: 0.12.1
-pedprobr: 0.9.3
+pedprobr: 0.9.4
 pedquant: 0.2.4
 pedsuite: 1.2.0
 pedtools: 2.6.0
@@ -21333,7 +21338,7 @@ qiimer: 0.9.4
 qiitr: 0.1.1
 qkerntool: '1.19'
 qlcData: 0.2.1
-qlcMatrix: 0.9.7
+qlcMatrix: 0.9.8
 qlcVisualize: 0.1.0
 qlcal: 0.0.11
 qle: '0.18'
@@ -22003,7 +22008,7 @@ reactable.extras: 0.2.0
 reactablefmtr: 2.0.0
 reactlog: 1.1.1
 read.cwa: 0.2.1
-read.dbc: 1.0.6
+read.dbc: 1.0.7
 read.gb: '2.2'
 read.gt3x: 1.2.0
 readABF: 1.0.2
@@ -22510,7 +22515,7 @@ riverdist: 0.16.3
 rivernet: 1.2.3
 riverplot: '0.10'
 rivervis: 0.46.0
-rivnet: 0.4.1
+rivnet: 0.4.2
 rivr: 1.2-3
 rjacobi: 0.9.2
 rjade: 0.1.1
@@ -22847,7 +22852,7 @@ rqPen: '4.1'
 rqdatatable: 1.3.3
 rqlm: 1.2-1
 rqmcmb2: 1.0.2-1
-rqti: 0.1.1
+rqti: 0.2.0
 rquery: 1.4.99
 rr: 1.4.2
 rr2: 1.1.1
@@ -23372,7 +23377,7 @@ scico: 1.5.0
 scicomptools: 1.0.0
 scidb: 3.0.0
 scidesignR: 1.0.0
-scientific: '2024.1'
+scientific: '2024.2'
 scientoText: '0.1'
 scifigure: '0.2'
 scimo: 0.0.1
@@ -24227,7 +24232,7 @@ snowFT: 1.6-1
 snowboot: 1.0.2
 snowfall: 1.84-6.3
 snowflakes: 1.0.0
-snowquery: 1.0.0
+snowquery: 1.2.0
 snp.plotter: 0.5.1
 snpAIMeR: 2.1.1
 snpEnrichment: 1.7.0
@@ -25183,7 +25188,7 @@ svrpath: 0.1.2
 svs: 3.0.0
 svyPVpack: 0.1-1
 svyVGAM: '1.2'
-svydiags: '0.5'
+svydiags: '0.6'
 svylme: 1.5-1
 svyweight: 0.1.0
 swCRTdesign: '4.0'
@@ -25370,7 +25375,7 @@ taxonbridge: 1.2.2
 taxonomizr: 0.10.6
 taxotools: 0.0.139
 tayloRswift: 0.1.0
-taylor: 3.0.0
+taylor: 3.1.0
 tbart: '1.0'
 tbd: 0.1.0
 tbdiag: '0.1'
@@ -25663,7 +25668,7 @@ tidyjson: 0.3.2
 tidylab: 4.1.1
 tidylda: 0.0.5
 tidylo: 0.2.0
-tidylog: 1.0.2
+tidylog: 1.1.0
 tidymargins: 0.1.0
 tidymodels: 1.2.0
 tidymv: 3.4.2
@@ -25915,7 +25920,7 @@ tracheideR: 0.1.1
 track: 1.1.9
 track2KBA: 1.1.1
 trackObjs: 1.0-18
-trackdem: '0.6'
+trackdem: 0.7.2
 trackdf: 0.3.3
 trackdown: 1.1.1
 trackeR: 1.6.0
@@ -26116,7 +26121,7 @@ tsfeatures: 1.1.1
 tsfgrnn: 1.0.5
 tsfknn: 0.6.0
 tsfngm: 0.1.0
-tsgarch: 1.0.0
+tsgarch: 1.0.2
 tsgui: 0.2.1
 tsiR: 0.4.3
 tsibble: 1.1.4
