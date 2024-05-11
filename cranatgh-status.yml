@@ -550,7 +550,7 @@ BT: '0.4'
 BTLLasso: 0.1-13
 BTM: 0.3.7
 BTR: 1.2.4
-BTSPAS: 2024.4.1
+BTSPAS: 2024.5.9
 BTSR: 0.1.5
 BTYD: 2.4.3
 BTYDplus: 1.2.0
@@ -2082,6 +2082,7 @@ EQUIVNONINF: 1.0.2
 ER: 1.1.1
 ERDbuilder: 1.0.0
 ERP: '2.2'
+ERPM: 0.2.0
 ERPeq: 0.1.0
 ERSA: 0.1.4
 ES: '1.0'
@@ -2106,6 +2107,7 @@ EWGoF: 2.2.2
 EWOC2: '1.0'
 EWS: 0.2.0
 EWSmethods: 1.2.5
+EXPAR: 0.1.0
 EXPARMA: 0.1.0
 EXRQ: '1.0'
 EZtune: 3.1.1
@@ -2201,7 +2203,7 @@ EpiILMCT: 1.1.7
 EpiInvert: 0.3.1
 EpiLPS: 1.3.0
 EpiModel: 2.4.0
-EpiNow2: 1.4.0
+EpiNow2: 1.5.0
 EpiReport: 1.0.2
 EpiResTest: '1.0'
 EpiSemble: 0.1.1
@@ -2420,7 +2422,7 @@ FUNLDA: '1.1'
 FUNTA: 0.1.0
 FWDselect: 2.1.0
 FWRGB: 0.1.0
-FaaSr: 1.1.2
+FaaSr: 1.2.1
 FacPad: '3.0'
 FactMixtAnalysis: '1.0'
 FactoClass: 1.2.9
@@ -2558,7 +2560,7 @@ FreeSortR: '1.3'
 FreqProf: 0.0.1
 Fstability: 0.1.2
 FunCC: '1.0'
-FunChisq: 2.5.3
+FunChisq: 2.5.4
 FunCluster: '1.09'
 FunNet: 1.00-12
 FunWithNumbers: '1.2'
@@ -2988,7 +2990,7 @@ GregoryQuadrature: 1.0.0
 GreyModel: 0.1.0
 Greymodels: 2.0.1
 Grid2Polygons: 0.2.1
-GridOnClusters: 0.1.0
+GridOnClusters: 0.1.0.1
 GridR: 0.9.1
 GriegSmith: '1.0'
 GrimR: '0.5'
@@ -3677,7 +3679,7 @@ LARisk: 1.0.0
 LATERmodel: 0.2.0
 LAWBL: 1.5.0
 LBC: '1.0'
-LBI: 0.1.0
+LBI: 0.1.1
 LBLGXE: '1.4'
 LBPG: 0.1.2
 LBSPR: 0.1.6
@@ -5301,6 +5303,7 @@ PTERP: '1.0'
 PTSR: 0.1.2
 PTXQC: 1.1.1
 PTwins: 0.1.1
+PUGMM: 0.1.0
 PUMP: 1.0.3
 PUPAIM: 0.3.1
 PUPAK: 0.1.1
@@ -7311,7 +7314,7 @@ SesIndexCreatoR: 1.0-2
 SetMethods: '4.0'
 SetRank: 1.1.0
 SetTest: 0.2.0
-Seurat: 5.0.3
+Seurat: 5.1.0
 SeuratObject: 5.0.2
 ShapDoE: 1.0.0
 ShapeChange: '1.5'
@@ -8347,7 +8350,7 @@ WeightedTreemaps: 0.1.2
 WgtEff: 0.1.2
 WhatIf: 1.5-10
 WhatsR: 1.0.4
-WhiteStripe: 2.4.2
+WhiteStripe: 2.4.3
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
@@ -8908,7 +8911,7 @@ apa: 0.3.4
 apaStyle: '0.5'
 apaTables: 2.0.8
 apaText: 0.1.7
-apache.sedona: 1.5.2
+apache.sedona: 1.5.3
 apc: 2.0.0
 apcf: 0.3.0
 apcluster: 1.4.13
@@ -10035,7 +10038,7 @@ brms.mmrm: 0.1.0
 brmsmargins: 0.2.0
 brnn: 0.9.3
 brokenstick: 2.5.0
-brolgar: 1.0.0
+brolgar: 1.0.1
 broman: '0.82'
 broom: 1.0.5
 broom.helpers: 1.15.0
@@ -13799,7 +13802,7 @@ florestal: 0.1.3
 flow: 0.2.0
 flowDiv: '2.0'
 flowTraceR: 0.1.0
-flowchart: 0.2.0
+flowchart: 0.3.0
 flower: '1.0'
 flowfield: '1.0'
 flowml: 0.1.3
@@ -13832,7 +13835,7 @@ fmriqa: 0.3.0
 fmrs: 1.0-9
 fmsb: 0.7.6
 fmt: '2.0'
-fmtr: 1.6.3
+fmtr: 1.6.4
 fmx: 0.1.2
 fnets: 0.1.6
 foba: '0.1'
@@ -14030,7 +14033,7 @@ fscaret: 0.9.4.4
 fsdaR: 0.9-0
 fsemipar: 1.1.0
 fsia: 1.1.1
-fslr: 2.25.2
+fslr: 2.25.3
 fsn: '0.2'
 fso: 2.1-2
 fspe: 0.1.2
@@ -14041,7 +14044,7 @@ fst4pg: 1.0.0
 fstcore: 0.9.18
 fsthet: 1.0.1
 ftDK: '1.0'
-ftExtra: 0.6.3
+ftExtra: 0.6.4
 ftaproxim: 0.0.1
 ftnonpar: 0.1-88
 ftrCOOL: 2.0.0
@@ -14061,7 +14064,7 @@ fume: '1.0'
 fun: '0.3'
 funData: 1.3-9
 funFEM: '1.2'
-funGp: 0.3.2
+funGp: 1.0.0
 funHDDC: 2.3.1
 funLBM: '2.3'
 funModeling: 1.9.5
@@ -14358,6 +14361,7 @@ gen5helper: 1.0.1
 genBaRcode: 1.2.7
 genBart: 1.0.1
 genCountR: 1.0.0
+genMCMCDiag: 0.2.1
 genMOSS: '1.2'
 genMOSSplus: '1.0'
 genSEIR: 0.1.1
@@ -14505,7 +14509,7 @@ geospark: 0.3.1
 geosphere: 1.5-18
 geospt: 1.0-4
 geosptdb: 1.0-1
-geostan: 0.6.0
+geostan: 0.6.1
 geostats: '1.6'
 geostatsp: 2.0.6
 geotech: '1.0'
@@ -15215,7 +15219,7 @@ grwat: 0.0.4
 gsDesign: 3.6.2
 gsDesign2: 1.1.2
 gsEasy: '1.5'
-gsMAMS: 0.7.1
+gsMAMS: 0.7.2
 gsalib: 2.2.1
 gsarima: 0.1-5
 gsbDesign: 1.0-3
@@ -15297,7 +15301,7 @@ gvlma: 1.0.0.3
 gwaRs: 0.3.0
 gwasforest: 1.0.0
 gwasrapidd: 0.99.17
-gwavr: 0.2.0
+gwavr: 0.3.1
 gwbr: 1.0.5
 gwdegree: 0.1.1
 gwer: '3.0'
@@ -15459,6 +15463,7 @@ hedgehog: '0.1'
 heemod: 1.0.1
 hei: 0.1.0
 heims: 0.4.0
+heiscore: 0.0.1
 helda: 1.1.5
 helixvis: 1.0.1
 hellno: 0.0.1
@@ -17266,7 +17271,7 @@ lognorm: 0.1.10
 logr: 1.3.8
 logregperm: '1.0'
 logrx: 0.3.1
-logspline: 2.1.21
+logspline: 2.1.22
 lokern: 1.1-11
 lolR: '2.1'
 lolliplot: 0.2.2
@@ -17526,7 +17531,7 @@ mapSpain: 0.9.0
 mapStats: '3.1'
 mapaccuracy: 0.1.2
 mapbayr: 0.10.0
-mapboxapi: 0.5.3
+mapboxapi: '0.6'
 mapboxer: 0.4.0
 mapcan: 0.0.1
 mapchina: 0.1.0
@@ -18848,7 +18853,7 @@ mvctm: '1.2'
 mvcwt: 1.3.1
 mvdalab: '1.7'
 mverse: 0.1.0
-mvgam: 1.1.0
+mvgam: 1.1.1
 mvgb: 0.0.4
 mvglmmRank: 1.2-4
 mvgraph: '1.2'
@@ -20108,20 +20113,20 @@ pavo: 2.9.0
 pawacc: 1.2.3
 pawls: 1.0.0
 paws: 0.5.0
-paws.analytics: 0.5.0
-paws.application.integration: 0.5.0
+paws.analytics: 0.6.0
+paws.application.integration: 0.6.0
 paws.common: 0.7.2
 paws.compute: 0.5.0
 paws.cost.management: 0.5.0
-paws.customer.engagement: 0.5.0
-paws.database: 0.5.0
-paws.developer.tools: 0.5.0
-paws.end.user.computing: 0.5.0
-paws.machine.learning: 0.5.0
+paws.customer.engagement: 0.6.0
+paws.database: 0.6.0
+paws.developer.tools: 0.6.0
+paws.end.user.computing: 0.6.0
+paws.machine.learning: 0.6.0
 paws.management: 0.5.0
-paws.networking: 0.5.0
+paws.networking: 0.6.0
 paws.security.identity: 0.5.0
-paws.storage: 0.5.0
+paws.storage: 0.6.0
 pawscore: 1.0.3
 pbANOVA: 0.1.0
 pbapply: 1.7-2
@@ -20405,7 +20410,7 @@ phom: 1.0.3
 phonR: 1.0-7
 phonTools: 0.2-2.2
 phonenumber: 0.2.3
-phonfieldwork: 0.0.13
+phonfieldwork: 0.0.14
 phonics: 1.3.10
 phosphoricons: 0.2.1
 photobiology: 0.11.2
@@ -20658,7 +20663,7 @@ plumber: 1.2.2
 plumberDeploy: 0.2.1
 plumbertableau: 0.1.1
 plumbr: 0.6.10
-plume: 0.2.3
+plume: 0.2.4
 pluralize: 0.2.0
 plus: '1.0'
 plusCode2: 0.1.0
@@ -20746,7 +20751,7 @@ pollimetry: 1.0.1
 pollstR: 2.0.1
 pollster: 0.1.6
 polmineR: 0.8.9
-polspline: 1.1.24
+polspline: 1.1.25
 polyCub: 0.9.0
 polyMatrix: 0.9.16
 polyPK: 3.1.0
@@ -20796,7 +20801,7 @@ poorman: 0.2.7
 pop: '0.1'
 pop.lion: 1.0.1
 pop.wolf: '1.0'
-popEpi: 0.4.11
+popEpi: 0.4.12
 popKorn: 0.3-0
 popPCR: 0.1.1.1
 popPK: '1.03'
@@ -22294,7 +22299,7 @@ reslife: 0.2.1
 reslr: 0.1.1
 resmush: 0.1.0
 resourcer: 1.4.0
-respR: 2.3.2
+respR: 2.3.3
 resper: 0.3.2
 respirometry: 1.5.0
 responsePatterns: 0.1.1
@@ -23016,7 +23021,7 @@ rtms: 0.2.0
 rtodoist: 0.1.0
 rtoot: 0.3.4
 rtop: 0.6-9
-rtpcr: 1.0.6
+rtpcr: 1.0.7
 rtrek: 0.4.0
 rtrend: 0.1.5
 rtrends: 0.1.0
@@ -23839,6 +23844,7 @@ shinylogs: 0.2.1
 shinymanager: 1.0.410
 shinymaterial: 1.2.0
 shinymeta: 0.2.0.3
+shinymgr: 1.1.0
 shinymodels: 0.1.1
 shinyobjects: 0.2.0
 shinypanel: 0.1.5
@@ -25910,6 +25916,7 @@ tpfp: 0.0.1
 tpn: '1.8'
 tpr: 0.3-3
 tpsDesign: '1.3'
+tpwb: 0.1.0
 tqk: 0.1.8
 tr.iatgen: 1.0.0
 tracee: 0.0.4
@@ -26978,7 +26985,7 @@ wqs: 0.0.1
 wqspt: 1.0.1
 wqtrends: 1.4.2
 wrGraph: 1.3.7
-wrMisc: 1.14.2
+wrMisc: 1.15.0.3
 wrProteo: 1.11.0.1
 wrTopDownFrag: 1.0.2
 wrangle: 0.6.4
