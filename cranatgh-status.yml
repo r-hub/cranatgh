@@ -1887,7 +1887,7 @@ DiscreteFDR: 1.3.7
 DiscreteInverseWeibull: 1.0.2
 DiscreteLaplace: 1.1.1
 DiscreteQvalue: '1.1'
-DiscreteTests: 0.1.1
+DiscreteTests: 0.1.2
 DiscreteWeibull: '1.1'
 DiscriMiner: 0.1-29
 Disequilibrium: '1.1'
@@ -4741,7 +4741,7 @@ NMproject: 0.6.9
 NMsim: 0.1.0
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: '10.8'
+NNS: 10.8.1
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.8.7
@@ -4837,7 +4837,7 @@ NetworkRiskMeasures: 0.1.4
 NetworkSim: 0.1.0
 NetworkToolbox: 1.4.2
 NeuralNetTools: 1.5.3
-NeuralSens: 1.1.2
+NeuralSens: 1.1.3
 NeuroDecodeR: 0.2.0
 Newdistns: '2.1'
 NewmanOmics: 1.0.11
@@ -4876,7 +4876,7 @@ NovelDistns: 0.1.0
 NoviceDeveloperResources: 1.2.0
 NoviceDeveloperResources2: 1.1.0
 Nozzle.R1: 1.1-1.1
-Numero: 1.9.6
+Numero: 1.9.7
 NutrienTrackeR: 1.3.0
 OAIHarvester: 0.3-4
 OBASpatial: '1.9'
@@ -5738,7 +5738,7 @@ RADanalysis: 0.5.5
 RADstackshelpR: 0.1.0
 RAEN: '0.2'
 RAFM: '1.1'
-RAFS: 0.2.3
+RAFS: 0.2.4
 RAHRS: 1.0.2
 RAINBOWR: 0.1.35
 RALSA: 1.4.5
@@ -5852,7 +5852,7 @@ REEMtree: 0.90.5
 REFA: 0.1.0
 REGENT: 1.0.6
 REIDS: 0.1.0
-REMLA: '1.0'
+REMLA: '1.1'
 REPLesentR: 0.4.1
 REPPlab: 0.9.6
 REPPlabShiny: 0.4.2
@@ -9063,7 +9063,7 @@ asht: 1.0.1
 askgpt: 0.1.3
 askpass: 1.2.0
 aslib: 0.1.2
-asm: 0.1.0
+asm: 0.2.0
 asmbPLS: 1.0.0
 asnipe: 1.1.17
 aspace: 4.1.2
@@ -10507,7 +10507,7 @@ chartql: 0.1.0
 chatAI4R: 0.2.10
 chatgpt: 0.2.3
 chattr: 0.1.0
-cheapr: 0.9.1
+cheapr: 0.9.2
 cheatR: 1.2.1-1
 cheatmap: 1.0.0
 cheatsheet: 0.1.2
@@ -11815,7 +11815,7 @@ dbstats: 2.0.2
 dbx: 0.3.1
 dc3net: 1.2.0
 dcGOR: 1.0.6
-dcTensor: 1.2.0
+dcTensor: 1.3.0
 dccmidas: 0.1.2
 dccpp: 0.1.0
 dccvalidator: 0.3.0
@@ -17345,7 +17345,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.2.5
+lrstat: 0.2.6
 lsa: 0.73.3
 lsasim: 2.1.5
 lsbclust: '1.1'
@@ -18618,7 +18618,7 @@ msaeDB: 0.2.1
 msaeHB: 0.1.0
 msaeOB: 0.1.0
 msaeRB: 0.2.1
-msaenet: 3.1.1
+msaenet: 3.1.2
 msamp: 1.0.0
 msap: 1.1.8
 msarc: 1.4.5
@@ -20467,7 +20467,7 @@ phyr: 1.1.0
 phyreg: 1.0.2
 physiology: 1.2.1
 physx: '1.0'
-phytoclass: 1.0.0
+phytoclass: 1.2.0
 phytools: 2.1-1
 phytotools: '1.0'
 pi0: 1.4-1
@@ -21197,7 +21197,7 @@ psycho: 0.6.1
 psychometric: '2.4'
 psychomix: 1.1-8
 psychonetrics: 0.11.6
-psychotools: 0.7-3
+psychotools: 0.7-4
 psychotree: 0.16-1
 psychrolib: 2.5.2
 psychtm: 2021.1.0
@@ -22431,7 +22431,7 @@ rgrs: '0.3'
 rgsp: 0.2.0
 rgtmx: 0.1.4
 rgudhi: 0.2.0
-rgugik: 0.4.0
+rgugik: 0.4.1
 rgw: 0.3.0
 rhandsontable: 0.3.8
 rhcoclust: 2.0.0
@@ -23229,7 +23229,7 @@ samplingEstimates: 0.1-3
 samplingR: 1.0.1
 samplingVarEst: '1.5'
 samplingbook: 1.2.4
-samplingin: 1.0.7
+samplingin: 1.1.0
 sampsizeval: 1.0.0.0
 samr: '3.0'
 sams: 0.4.3
@@ -23910,7 +23910,7 @@ sigloc: 0.0.4
 sigma2tools: 1.2.5
 sigmaNet: 1.1.0
 sigmajs: 0.1.5
-sigminer: 2.3.0
+sigminer: 2.3.1
 sigmoid: 1.4.0
 signal: 1.8-0
 signal.hsmm: 1.2.1
@@ -24305,7 +24305,7 @@ somplot: 1.6.4
 somspace: 1.2.4
 sonar: 1.0.2
 sonicLength: 1.4.7
-sonicscrewdriver: 0.0.6
+sonicscrewdriver: 0.0.7
 sonify: 0.0-1
 soobench: 1.9.18
 sophisthse: 0.7.0
@@ -26513,7 +26513,7 @@ vcmeta: 1.3.0
 vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.2.2
-vcrpart: 1.0-4
+vcrpart: 1.0-5
 vctrs: 0.6.5
 vctsfr: 0.1.1
 vcvComp: 1.0.2
@@ -26656,7 +26656,7 @@ volatilityTrader: 1.0.1
 volcano3D: 2.0.9
 volcanoPlot: 1.0.0
 volesti: 1.1.2-7
-volker: 2.0.0
+volker: 2.0.1
 volleystat: 0.2.0
 voluModel: 0.2.1
 voronoi: '1.1'
