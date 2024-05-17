@@ -758,7 +758,7 @@ BioGeoBEARS: 0.2.1
 BioIDMapper: '3.0'
 BioInsight: 0.3.1
 BioInstaller: 0.3.7
-BioM2: 1.0.5
+BioM2: 1.0.6
 BioMark: 0.4.5
 BioMedR: 1.2.1
 BioPET: 0.2.2
@@ -926,6 +926,7 @@ CDCPLACES: 1.1.5
 CDECRetrieve: 0.1.5
 CDF.PSIdekick: '1.2'
 CDFt: '1.2'
+CDGHMM: 0.1.0
 CDLasso: '1.1'
 CDM: 8.2-6
 CDMConnector: 1.4.0
@@ -1263,6 +1264,7 @@ ClueR: 1.4.2
 ClusBoot: 1.2.1
 ClusPred: 1.1.0
 ClusROC: 1.0.2
+ClusTCR2: 1.7.3.01
 ClusTorus: 0.2.2
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
@@ -2205,7 +2207,7 @@ EpiILMCT: 1.1.7
 EpiInvert: 0.3.1
 EpiLPS: 1.3.0
 EpiModel: 2.4.0
-EpiNow2: 1.5.1
+EpiNow2: 1.5.2
 EpiReport: 1.0.2
 EpiResTest: '1.0'
 EpiSemble: 0.1.1
@@ -2353,7 +2355,7 @@ FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
 FIESTA: 3.6.2
-FIESTAutils: 1.2.2
+FIESTAutils: 1.2.3
 FILEST: 1.1.2
 FIT: 0.0.6
 FITSio: 2.1-6
@@ -2699,6 +2701,7 @@ GIC: 1.0.0
 GIFT: 1.3.2
 GIFTr: 0.1.0
 GIGrvg: '0.8'
+GIMMEgVAR: 0.1.0
 GISINTEGRATION: '1.0'
 GISSB: '1.1'
 GISTools: 0.7-4
@@ -2912,7 +2915,7 @@ GeoDE: '1.0'
 GeoFIS: 1.0.4
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 2.0.1
+GeoModels: 2.0.2
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1.992
@@ -3607,7 +3610,7 @@ KMDA: '1.0'
 KMLtoSHAPE: 0.1.0
 KMgene: '1.3'
 KMsurv: 0.1-5
-KMunicate: 0.2.4
+KMunicate: 0.2.5
 KNNShiny: 0.1.0
 KOBT: 0.1.0
 KODAMA: '2.4'
@@ -4173,7 +4176,7 @@ MLZ: 0.1.4
 MLeval: '0.3'
 MLmetrics: 1.1.3
 MLpreemption: 1.0.1
-MM: 1.6-7
+MM: 1.6-8
 MM2S: 1.0.6
 MM2Sdata: 1.0.3
 MM4LMM: 3.0.2
@@ -5372,7 +5375,7 @@ PartialNetwork: 1.0.4
 Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 PathSelectMP: '1.1'
-PatientProfiles: 0.8.0
+PatientProfiles: 1.0.0
 PatternClass: 2.0.1
 Patterns: '1.5'
 PdPDB: 2.0.1
@@ -5567,6 +5570,7 @@ ProfessR: 2.4-3
 ProfileLikelihood: '1.3'
 ProfoundData: 0.2.1
 ProgGUIinR: 0.0-4
+ProgModule: 0.1.0
 ProjectManagement: 1.5.2
 ProjectTemplate: 0.10.4
 ProjectionBasedClustering: 1.2.1
@@ -5673,7 +5677,7 @@ QuadRoot: 0.2.1
 QuadratiK: 1.1.0
 QualInt: 1.0.0
 Quandl: 2.11.0
-QuantBondCurves: 0.2.0
+QuantBondCurves: 0.3.0
 QuantNorm: 1.0.5
 QuantPsyc: '1.6'
 QuantRegGLasso: 1.0.0
@@ -6056,7 +6060,7 @@ ROCR: 1.0-11
 ROCS: '1.3'
 ROCSI: 0.1.0
 ROCaggregator: 1.0.1
-ROCit: 2.1.1
+ROCit: 2.1.2
 ROCket: 1.0.1
 ROCnReg: 1.0-8
 ROCpsych: '1.3'
@@ -6979,6 +6983,7 @@ SGCS: '2.7'
 SGDinference: 0.1.0
 SGL: '1.3'
 SGP: 2.1-0.0
+SGPR: 0.1.2
 SGPdata: 27.0-0.0
 SHAPforxgboost: 0.1.3
 SHARE: 1.1.0
@@ -7036,6 +7041,7 @@ SLIDE: 1.0.0
 SLModels: 0.1.2
 SLOPE: 0.5.0
 SLPresElection: 1.0.0
+SLSEdesign: 0.0.1
 SLTCA: 0.1.0
 SLmisc: 1.4.1.1
 SMARTAR: 1.1.0
@@ -7158,7 +7164,7 @@ SRRS: 0.1.1
 SRS: 0.2.3
 SRTsim: 0.99.6
 SRTtools: 1.2.0
-SSBtools: 1.5.0
+SSBtools: 1.5.2
 SSDL: '1.1'
 SSDM: 0.2.9
 SSDforR: 1.5.34
@@ -7552,6 +7558,7 @@ SplitGLM: 1.0.5
 SplitKnockoff: '1.2'
 SplitReg: 1.0.2
 SplitSoftening: 2.1-0
+SplitSplitPlot: 0.0.1
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
@@ -8093,7 +8100,7 @@ UCSCXenaTools: 1.4.8
 UComp: 4.0.2
 UHM: 0.3.0
 UKB.COVID19: 0.1.4
-UKFE: 0.3.4
+UKFE: 0.3.5
 UKgrid: 0.1.3
 UMR: 1.1.0
 UNCLES: '2.0'
@@ -8772,7 +8779,7 @@ alkahest: 1.1.1
 allMT: 0.1.0
 allan: '1.01'
 allanvar: '1.1'
-allcontributors: 0.1.1
+allcontributors: 0.2.0
 alleHap: 0.9.9
 allelematch: 2.5.4
 allelic: '0.1'
@@ -9606,7 +9613,7 @@ biGraph: 0.9-3
 biOps: 0.2.2
 biOpsGUI: 0.1.2
 biasbetareg: '1.0'
-bib2df: 1.1.1
+bib2df: 1.1.2.0
 biblio: 0.0.9
 bibliometrix: 4.2.1
 bibliometrixData: 0.3.0
@@ -10183,7 +10190,7 @@ cacIRT: '1.4'
 cacc: 0.1.0
 cache: 0.0.3
 cacheSweave: 0.6-1
-cachem: 1.0.8
+cachem: 1.1.0
 cacher: 1.1-2
 caesar: 1.1.0
 caffsim: 0.2.2
@@ -10653,7 +10660,7 @@ clampSeg: 1.1-1
 clarabel: 0.5.1
 clarifai: 0.4.2
 clarify: 0.2.0
-clarkeTest: 0.1.0
+clarkeTest: 0.2.0
 class: 7.3-22
 classGraph: 0.7-6
 classInt: 0.4-10
@@ -11745,7 +11752,7 @@ datamap: 0.1-1
 datamaps: 0.0.3
 datamart: 0.5.2
 datamerge: 1.0.3
-datamods: 1.5.0
+datamods: 1.5.1
 datana: 1.0.3
 datanugget: 1.2.4
 dataonderivatives: 0.4.0
@@ -12934,7 +12941,7 @@ english: 1.2-6
 engression: 0.1.4
 engsoccerdata: 0.1.5
 enigma: 0.3.0
-enmSdmX: 1.1.2
+enmSdmX: 1.1.5
 enmpa: 0.1.5
 ennet: 0.2.2
 enpls: '6.1'
@@ -13120,7 +13127,7 @@ estadistica: 0.2.3
 estatapi: 0.4.0
 estimability: 1.5.1
 estimateW: 0.0.1
-estimators: 0.7.3
+estimators: 0.8.5
 estimatr: 1.0.4
 estimraw: 1.0.0
 estmeansd: 1.0.1
@@ -13187,7 +13194,7 @@ evidence: 0.8.10
 evidenceFactors: '1.8'
 evident: 1.0.4
 evilDice: '1.0'
-evinf: 0.8.8
+evinf: 0.8.9
 evir: 1.7-4
 evmix: '2.12'
 evoTS: 1.0.2
@@ -13811,7 +13818,7 @@ flock: '0.7'
 flocker: 1.0-0
 flood: 0.1.1
 flora: 0.3.4
-florabr: 1.1.0
+florabr: 1.2.0
 florestal: 0.1.3
 flow: 0.2.0
 flowDiv: '2.0'
@@ -14042,7 +14049,7 @@ fruclimadapt: 0.4.5
 fs: 1.6.4
 fsMTS: 0.1.7
 fsbrain: 0.5.5
-fscache: 1.0.2
+fscache: 1.0.3
 fscaret: 0.9.4.4
 fsdaR: 0.9-0
 fsemipar: 1.1.0
@@ -14851,7 +14858,7 @@ gitgadget: 0.8.1
 githubinstall: 0.2.2
 githubr: 0.9.1
 gitignore: 0.1.6
-gitlabr: 2.0.1
+gitlabr: 2.1.0
 gitlink: 0.1.3
 gitr: 0.0.1
 gittargets: 0.0.7
@@ -15354,7 +15361,7 @@ hacks: 0.1-9
 hacksaw: 0.0.2
 hacksig: 0.1.2
 hadron: 3.2.0
-hagis: 3.1.11
+hagis: 3.1.12
 hahmmr: 1.0.0
 hail: 0.1.1
 hakaiApi: 1.0.2
@@ -16219,7 +16226,7 @@ intervalaverage: 0.8.0
 intervals: 0.15.4
 intervcomp: 0.1.2
 interventionalDBN: 1.2.2
-inti: 0.6.4
+inti: 0.6.5
 intkrige: 1.0.1
 intmap: 1.0.0
 intmed: 0.1.2
@@ -17527,7 +17534,7 @@ manet: '2.0'
 mangoTraining: 1.1.1
 manhattanly: 0.3.0
 manhplot: '1.1'
-manifestoR: 1.5.0
+manifestoR: 1.6.0
 manifold: 0.1.1
 manipulate: 1.0.1
 manipulateWidget: 0.11.1
@@ -17561,7 +17568,7 @@ maple: 0.99.5
 maplegend: 0.1.0
 mapme.biodiversity: 0.6.0
 mapmisc: 2.1.0
-mapmixture: 1.1.2
+mapmixture: 1.1.3
 mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
@@ -17904,7 +17911,7 @@ metaRMST: 1.0.0
 metaRNASeq: 1.0.7
 metaRange: 1.1.4
 metaSDTreg: 0.2.2
-metaSEM: 1.3.1
+metaSEM: 1.4.0
 metaSurvival: 0.1.0
 metabias: 0.1.1
 metaboData: 0.6.3
@@ -18087,7 +18094,7 @@ midas2: 1.1.0
 midasml: 0.1.10
 midasr: '0.8'
 midastouch: '1.3'
-midfieldr: 1.0.1
+midfieldr: 1.0.2
 midi: 0.1.0
 midrangeMCP: 3.1.1
 miesmuschel: 0.0.4
@@ -18274,7 +18281,7 @@ mleur: 1.0-6
 mlexperiments: 0.0.3
 mlf: 1.2.1
 mlfit: 0.5.3
-mlflow: 2.11.1
+mlflow: 2.12.2
 mlgt: '0.16'
 mlica: 0.6.1
 mlica2: '2.1'
@@ -19605,9 +19612,9 @@ omd: '1.0'
 omics: 0.1-5
 omicsTools: 1.0.5
 omicwas: 0.8.0
-omnibus: 1.2.12
+omnibus: 1.2.13
 omock: 0.1.0
-omopgenerics: 0.2.0
+omopgenerics: 0.2.1
 omopr: '0.2'
 ompr: 1.0.4
 ompr.roi: 1.0.2
@@ -19699,7 +19706,7 @@ openmeteo: 0.2.4
 openmetrics: 0.3.0
 openscoring: 1.0.1
 opensensmapr: 0.6.0
-openssl: 2.1.2
+openssl: 2.2.0
 opentick: 0.1-1
 opentraj: '1.0'
 opentripplanner: 0.5.2
@@ -19756,7 +19763,7 @@ optinterv: 0.1.0
 optional: 2.0.1
 options: 0.2.0
 optionstrat: 1.4.1
-optiscale: 1.2.2
+optiscale: 1.2.3
 optismixture: '0.1'
 optistock: 0.0.2
 optmatch: 0.10.7
@@ -20131,20 +20138,20 @@ pauwels2014: '1.0'
 pavo: 2.9.0
 pawacc: 1.2.3
 pawls: 1.0.0
-paws: 0.5.0
+paws: 0.6.0
 paws.analytics: 0.6.0
 paws.application.integration: 0.6.0
-paws.common: 0.7.2
-paws.compute: 0.5.0
-paws.cost.management: 0.5.0
+paws.common: 0.7.3
+paws.compute: 0.6.1
+paws.cost.management: 0.6.1
 paws.customer.engagement: 0.6.0
 paws.database: 0.6.0
 paws.developer.tools: 0.6.0
 paws.end.user.computing: 0.6.0
 paws.machine.learning: 0.6.0
-paws.management: 0.5.0
+paws.management: 0.6.1
 paws.networking: 0.6.0
-paws.security.identity: 0.5.0
+paws.security.identity: 0.6.1
 paws.storage: 0.6.0
 pawscore: 1.0.3
 pbANOVA: 0.1.0
@@ -21410,7 +21417,7 @@ qrmtools: 0.0-17
 qrng: 0.0-10
 qrnn: 2.1.1
 qrsvm: 0.2.1
-qs: 0.26.1
+qs: 0.26.3
 qsimulatR: 1.1.1
 qsort: 0.2.3
 qsplines: 1.0.1
@@ -21653,7 +21660,7 @@ rODE: 0.99.6
 rPACI: 0.2.2
 rPAex: 1.0.5
 rPBK: 0.2.4
-rPDBapi: '1.1'
+rPDBapi: '1.2'
 rPackedBar: 0.2.2
 rPanglaoDB: 0.2.1
 rPlant: '2.16'
@@ -22125,7 +22132,7 @@ red: 1.6.1
 redR: 1.0.1
 reda: 0.5.4
 redbookperu: 0.0.2
-redcapAPI: 2.9.0
+redcapAPI: 2.9.1
 reddPrec: 2.0.3
 redditadsR: 0.1.0
 redist: 4.2.0
@@ -22235,7 +22242,7 @@ remap: 0.3.1
 rematch: 2.0.0
 rematch2: 2.1.2
 remedy: 0.1.0
-remify: 3.2.5
+remify: 3.2.6
 remindR: 0.0.1
 remiod: 1.0.2
 remix: '2.1'
@@ -22247,7 +22254,7 @@ remotes: 2.5.0
 rempsyc: 0.1.7
 remss: 1.0.1
 remstats: 3.2.2
-remstimate: 2.3.9
+remstimate: 2.3.11
 renderthis: 0.2.0
 renpow: 0.1-1
 rentrez: 1.2.3
@@ -23041,7 +23048,7 @@ rtms: 0.2.0
 rtodoist: 0.1.0
 rtoot: 0.3.4
 rtop: 0.6-9
-rtpcr: 1.0.7
+rtpcr: 1.0.8
 rtrek: 0.4.0
 rtrend: 0.1.5
 rtrends: 0.1.0
@@ -24120,6 +24127,7 @@ skilljaR: 0.1.2
 skills: '1.0'
 skillsengineeR: 0.2.0
 skimr: 2.1.5
+skipTrack: 0.1.0
 sklarsomega: 3.0-2
 skm: 0.1.5.4
 skmeans: 0.2-16
@@ -24280,7 +24288,7 @@ socceR: 0.1.1
 social: '1.0'
 socialh: 0.1.1
 socialmixr: 0.3.2
-socialranking: 1.1.0
+socialranking: 1.2.0
 socialrisk: 0.5.1
 sociome: 2.2.5
 socviz: '1.2'
@@ -24891,7 +24899,7 @@ stepp: 3.2.6
 steprf: 1.0.2
 steps: 1.3.0
 stepwise: '0.3'
-stevedata: 1.2.0
+stevedata: 1.3.0
 stevedore: 0.9.6
 stevemisc: 1.7.0
 stevetemplates: 1.0.0
@@ -25269,7 +25277,7 @@ sylly: 0.1-6
 sylly.en: 0.1-3
 sym.arma: '1.0'
 symDMatrix: 2.1.1
-symSEM: '0.2'
+symSEM: '0.4'
 symbol.equation.gpt: 1.1.3
 symbolicDA: 0.7-1
 symbolicQspray: 1.0.0
@@ -25347,7 +25355,7 @@ tabplotd3: 0.3.3
 tabr: 0.4.9
 tabshiftr: 0.4.1
 tabuSearch: 1.1.1
-tabula: 3.0.1
+tabula: 3.1.0
 tabularMLC: 0.0.3
 tabularaster: 0.7.2
 tabularmaps: 0.1.0
@@ -25455,7 +25463,7 @@ teal.widgets: 0.4.2
 tealeaves: 1.0.6
 teamcolors: 0.0.4
 teamr: 0.0.1
-tectonicr: 0.2.95
+tectonicr: 0.3.1
 teda: 0.1.1
 tehtuner: 0.3.0
 teigen: 2.2.2
@@ -26932,7 +26940,7 @@ windfarmGA: 3.0.0
 windows.pls: 0.1.0
 windsoraiR: 0.1.2
 winfapReader: 0.1-5
-wingen: 2.1.1
+wingen: 2.1.2
 wingui: '0.2'
 wiod: 0.3.0
 wiqid: 0.3.3
