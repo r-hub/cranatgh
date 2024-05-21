@@ -2355,7 +2355,7 @@ FHtest: 1.5.1
 FI: '1.0'
 FIACH: 0.1.2
 FIAR: '0.6'
-FIESTA: 3.6.2
+FIESTA: 3.6.3
 FIESTAutils: 1.2.3
 FILEST: 1.1.2
 FIT: 0.0.6
@@ -3640,7 +3640,7 @@ KbMvtSkew: 1.0.2
 Kcop: 1.0.0
 KenSyn: '0.3'
 Kendall: 2.2.1
-KernSmooth: 2.23-22
+KernSmooth: 2.23-24
 KernSmoothIRT: '6.4'
 KernelICA: 0.1.0
 KernelKnn: 1.1.5
@@ -6117,7 +6117,7 @@ ROracle: 1.3-1.1
 ROracleUI: 1.3-2
 RPANDA: '2.3'
 RPCLR: '1.0'
-RPDTest: 0.0.1
+RPDTest: 0.0.2
 RPEClust: 0.1.0
 RPEGLMEN: 1.1.2
 RPEIF: 1.2.4
@@ -6721,7 +6721,7 @@ RobRSVD: '1.0'
 RobRegression: 0.1.0
 RobRex: 1.2.0
 RobStatTM: 1.0.8
-RobinCar: 0.2.0
+RobinCar: 0.3.0
 RobinHood: 1.7.0
 Robocoap: 0.1-1
 RobustAFT: 1.4-7
@@ -7065,7 +7065,7 @@ SMLoutliers: '0.1'
 SMM: 1.0.2
 SMMA: 1.0.3
 SMME: 1.1.1
-SMMT: 1.1.0
+SMMT: 1.2.0
 SMNCensReg: '3.1'
 SMOTEWB: 1.2.0
 SMPracticals: 1.4-3.1
@@ -9263,7 +9263,7 @@ bRacatus: 2.0.0
 bReeze: 0.4-4
 bSi: 1.0.0
 bSims: 0.3-0
-bWGR: 2.2.8
+bWGR: 2.2.9
 baRcodeR: 0.1.7
 baRulho: 2.1.0
 babar: '1.0'
@@ -9956,7 +9956,7 @@ bootRes: 1.2.4
 bootSVD: '1.1'
 bootStepAIC: 1.3-0
 bootTimeInference: 0.1.0
-bootUR: 1.0.3
+bootUR: 1.0.4
 bootcluster: 0.3.2
 bootf2: 0.4.1
 bootfs: 1.4.2
@@ -10443,7 +10443,7 @@ cenROC: 2.0.0
 cencrne: 1.0.0
 censCov: 1.0-0
 censNID: 0-0-1
-censReg: 0.5-36
+censReg: 0.5-38
 censable: 0.0.5
 censo2017: 0.6.2
 censobr: 0.3.2
@@ -10684,7 +10684,7 @@ cldr: 1.1.0
 cleaR: 0.0.4
 clean: 2.0.0
 cleanEHR: '1.0'
-cleanNLP: 3.0.7
+cleanNLP: 3.1.0
 cleanTS: 0.1.2
 cleancall: 0.1.3
 cleandata: 0.3.0
@@ -10820,7 +10820,7 @@ cmR: '1.1'
 cmaRs: 0.1.3
 cmaes: 1.0-12
 cmaesr: 1.0.3
-cmahalanobis: 0.2.0
+cmahalanobis: 0.3.0
 cmbClust: 0.0.1
 cmcR: 0.1.11
 cmce: 0.1.0
@@ -12908,7 +12908,7 @@ emil: 2.2.10
 emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 1.10.1
+emmeans: 1.10.2
 emoa: 0.5-2
 emoji: '15.0'
 emojifont: 0.5.5
@@ -13259,7 +13259,7 @@ expSBM: 1.3.5
 expandFunctions: 0.1.0
 expands: 2.1.3
 expectreg: '0.53'
-experDesign: 0.3.0
+experDesign: 0.4.0
 experiences: 0.1.1
 experiment: 1.2.1
 experimentr: 0.1.0
@@ -13606,7 +13606,7 @@ fecR: 0.0.2
 fechner: 1.0-3
 fect: 1.0.0
 federalregister: 0.2.0
-fedmatch: 2.0.5
+fedmatch: 2.0.6
 fedregs: 1.0.0
 fedreporter: 0.2.1
 fedstatAPIr: 1.0.3
@@ -14083,7 +14083,7 @@ fuel: 1.2.0
 fueleconomy: 1.0.0
 fugeR: 0.1.2
 fugue: 0.1.7
-fuj: 0.2.0
+fuj: 0.2.1
 fullROC: 0.1.0
 fullfact: 1.5.2
 fulltext: '2.0'
@@ -14518,7 +14518,7 @@ geonames: '0.999'
 geonapi: 0.7-2
 geonet: 0.7.3
 geonetwork: 0.5.0
-geonode4R: '0.1'
+geonode4R: 0.1-1
 geoops: 0.3.0
 geoparser: 0.1.2
 geoperu: 0.0.0.2
@@ -14776,7 +14776,7 @@ ggrounded: 0.0.3
 ggroups: 2.1.2
 ggsankeyfier: 0.1.8
 ggsci: 3.0.3
-ggscidca: 0.2.1
+ggscidca: 0.2.3
 ggseas: 0.5.4
 ggsector: 1.6.6
 ggseg: 1.6.5
@@ -16174,7 +16174,7 @@ installr: 0.23.4
 instantiate: 0.2.2
 instruments: 0.1.0
 insuranceData: '1.0'
-insurancerating: 0.7.3
+insurancerating: 0.7.4
 int64: 1.1.2
 intReg: 0.2-8
 intRegGOF: 0.85-5
@@ -16243,7 +16243,7 @@ intrinsicDimension: 1.2.0
 intrinsicFRP: 2.1.0
 intrinsicKappa: '0.1'
 introgress: 1.2.3
-intrval: 0.1-2
+intrval: 0.1-3
 intsurv: 0.2.2
 intsurvbin: 0.0.4
 intsvy: '2.9'
@@ -16991,7 +16991,7 @@ learnr: 0.11.5
 learnrbook: 2.0.1
 learnstats: 0.1.1
 leastcostpath: 2.0.12
-ledger: 2.0.9
+ledger: 2.0.11
 leem: 0.1.0
 leerSIECyL: 1.0.2
 lefko3: 6.2.1
@@ -17855,8 +17855,8 @@ medrxivr: 0.0.5
 meedr: 0.0.2
 meerva: 0.2-2
 meetupapi: 0.1.0
-mefa: 3.2-8
-mefa4: 0.3-9
+mefa: 3.2-9
+mefa4: 0.3-11
 mefdind: '0.1'
 megaptera: 1.0-0
 meifly: 0.3.1
@@ -18145,13 +18145,13 @@ minidown: 0.4.0
 minimalRSD: 1.0.0
 minimap: 0.1.0
 minimax: 1.1.1
-minimaxApprox: 0.4.1
+minimaxApprox: 0.4.2
 minimaxdesign: 0.1.5
 minimist: '0.1'
 minioclient: 0.0.6
 miniparquet: 0.1.2
 minpack.lm: 1.2-4
-minqa: 1.2.6
+minqa: 1.2.7
 minque: 2.0.0
 minsample1: 0.1.0
 minsample2: 0.1.0
@@ -19621,7 +19621,7 @@ omics: 0.1-5
 omicsTools: 1.0.5
 omicwas: 0.8.0
 omnibus: 1.2.13
-omock: 0.1.0
+omock: 0.2.0
 omopgenerics: 0.2.1
 omopr: '0.2'
 ompr: 1.0.4
@@ -21492,7 +21492,7 @@ quantoptr: 0.1.3
 quantreg: '5.97'
 quantreg.nonpar: '1.0'
 quantregForest: 1.3-7
-quantregGrowth: 1.7-0
+quantregGrowth: 1.7-1
 quantregRanger: '1.0'
 quantspec: 1.2-3
 quarks: 1.1.3
@@ -21734,7 +21734,7 @@ radiant.basics: 1.6.6
 radiant.data: 1.6.6
 radiant.design: 1.6.6
 radiant.model: 1.6.6
-radiant.multivariate: 1.6.1
+radiant.multivariate: 1.6.6
 radiomics: 0.1.3
 radir: 1.0.4
 radix: '0.6'
@@ -22985,7 +22985,7 @@ rsparkling: 0.2.19
 rsparse: 0.5.1
 rspear: 0.1-2
 rspiro: '0.4'
-rspm: 0.5.2
+rspm: 0.5.3
 rsppfp: 1.0.4
 rsprite2: 0.2.1
 rsprng: '1.0'
@@ -23795,7 +23795,7 @@ shiny.fluent: 0.3.0
 shiny.i18n: 0.3.0
 shiny.info: 0.2.0
 shiny.pwa: 0.2.1
-shiny.react: 0.3.0
+shiny.react: 0.4.0
 shiny.reglog: 0.5.2
 shiny.router: 0.3.1
 shiny.semantic: 0.5.1
@@ -24388,7 +24388,7 @@ spINAR: 0.2.0
 spMC: 0.3.15
 spMaps: 0.5.0
 spNNGP: 1.0.0
-spNetwork: 0.4.3.8
+spNetwork: 0.4.4
 spOccupancy: 0.7.6
 spRingsteen: 0.1.0
 spTDyn: 2.0.2
@@ -25167,7 +25167,7 @@ surveygraph: 0.1.1
 surveyoutliers: '0.1'
 surveyplanning: '4.0'
 surveysd: 1.3.1
-surveytable: 0.9.2
+surveytable: 0.9.4
 surveyvoi: 1.0.6
 survidm: 1.3.2
 survivALL: 0.9.3
@@ -26801,7 +26801,7 @@ waterquality: 1.0.0
 watson: '0.4'
 wav: 0.1.0
 wavScalogram: 1.1.3
-waveband: 4.7.2
+waveband: 4.7.3
 waveclock: 1.0-4
 waved: '1.3'
 waveformlidar: 1.2.0
