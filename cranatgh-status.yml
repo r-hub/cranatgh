@@ -1038,7 +1038,7 @@ CNull: '1.0'
 COAP: '1.2'
 COBRA: 0.99.4
 COCONUT: 1.0.2
-COINr: 1.1.7
+COINr: 1.1.14
 COLP: 1.0.0
 COMBAT: 0.0.4
 COMBIA: 1.0.6
@@ -1270,7 +1270,7 @@ ClusTorus: 0.2.2
 ClusVis: 1.2.0
 ClussCluster: 0.1.0
 ClustAssess: 0.3.0
-ClustBlock: 3.2.0
+ClustBlock: 4.0.0
 ClustGeo: '2.1'
 ClustImpute: 0.2.4
 ClustMMDD: 1.0.4
@@ -2142,7 +2142,7 @@ EconDemand: '1.0'
 EconGeo: '2.0'
 EcotoneFinder: 0.2.3
 Ecume: 0.9.1
-EdSurvey: 4.0.4
+EdSurvey: 4.0.6
 EditImputeCont: 1.1.6
 EffectLiteR: 0.4-6
 EffectStars: 1.9-1
@@ -2162,7 +2162,7 @@ ElevDistr: 1.0.8
 Elja: 1.0.0
 ElliptCopulas: 0.1.3
 EloChoice: 0.29.4
-EloOptimized: 0.3.1
+EloOptimized: 0.3.2
 EloRating: 0.46.11
 EloSteepness: 0.5.0
 ElstonStewart: '1.2'
@@ -2823,6 +2823,7 @@ GSSTDA: 0.1.3
 GSelection: 0.1.0
 GSparO: '1.0'
 GTDL: 1.0.0
+GUEST: 0.1.0
 GUIDE: 1.2.7
 GUILDS: 1.4.6
 GUIProfiler: 2.0.1
@@ -3629,7 +3630,7 @@ KSD: 1.0.1
 KSEAapp: 0.99.0
 KSPM: 0.2.1
 KScorrect: 1.4.0
-KSgeneral: 1.1.3
+KSgeneral: 2.0.0
 KTensorGraphs: '1.1'
 KappaGUI: 2.0.2
 KappaV: '0.3'
@@ -4226,7 +4227,7 @@ MOrder: '0.1'
 MPAgenomics: 1.2.3
 MPBoost: 0.1-6
 MPCI: 1.0.7
-MPCR: '1.1'
+MPCR: 1.1.1
 MPDiR: '0.2'
 MPGE: 1.0.0
 MPI: 0.1.0
@@ -5331,7 +5332,7 @@ PWEXP: 0.5.0
 PWFSLSmoke: 1.2.117
 PWIR: 0.0.3
 PaLMr: 0.2.0
-PaRe: 0.1.12
+PaRe: 0.1.13
 PabonLasso: '1.0'
 Pade: 1.0.6
 PairTrading: '1.1'
@@ -6366,12 +6367,12 @@ Rcmdr: 2.9-2
 Rcmdr.HH: 1.8-0
 RcmdrMisc: 2.9-1
 RcmdrPlugin.BCA: 0.9-8
-RcmdrPlugin.BWS1: 0.2-1
-RcmdrPlugin.BWS2: 0.2-1
-RcmdrPlugin.BWS3: 0.2-2
+RcmdrPlugin.BWS1: 0.2-2
+RcmdrPlugin.BWS2: 0.2-2
+RcmdrPlugin.BWS3: 0.2-3
 RcmdrPlugin.BiclustGUI: 1.1.3.1
-RcmdrPlugin.DCCV: 0.1-4
-RcmdrPlugin.DCE: 0.2-2
+RcmdrPlugin.DCCV: 0.1-5
+RcmdrPlugin.DCE: 0.2-3
 RcmdrPlugin.DoE: 0.12-5
 RcmdrPlugin.EACSPIR: 0.2-3
 RcmdrPlugin.EBM: 1.0-10
@@ -6596,7 +6597,7 @@ ResidentialEnergyConsumption: 1.1.0
 ResistorArray: 1.0-32
 ResourceSelection: 0.3-6
 RespirAnalyzer: 1.0.2
-RestRserve: 1.2.2
+RestRserve: 1.2.3
 RestoreNet: 1.0.1
 RevEcoR: 0.99.3
 RevGadgets: 1.2.1
@@ -6698,6 +6699,7 @@ Rnanoflann: 0.0.3
 RnavGraph: 0.1.8
 RnavGraphImageData: 0.0.4
 RndTexExams: '1.5'
+Rnest: 0.0.0.1
 Rnets: 1.2.1
 Rnightlights: 0.2.4
 Rnightly: 0.1.0
@@ -7580,7 +7582,7 @@ Stack: 2.0-1
 StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
 StakeholderAnalysis: '1.2'
-StanHeaders: 2.32.7
+StanHeaders: 2.32.8
 StanMoMo: 1.2.0
 StandardizeText: '1.0'
 Stat2Data: 2.0.0
@@ -7606,7 +7608,7 @@ StemAnalysis: 0.1.0
 StempCens: 1.1.0
 StepBeta: 2.1.0
 StepGWR: 0.1.0
-StepReg: 1.5.0
+StepReg: 1.5.1
 StepSignalMargiLike: 2.6.0
 SteppedPower: 0.3.5
 StepwiseTest: '1.0'
@@ -8020,7 +8022,7 @@ ToxLim: '1.0'
 ToxicR: 22.12.1.0.7
 ToxicoGx: 0.1.1
 Tplyr: 1.2.1
-TraMineR: 2.2-9
+TraMineR: 2.2-10
 TraMineRextras: 0.6.7
 TraceAssist: 0.1.0
 TrackReconstruction: '1.3'
@@ -9262,7 +9264,7 @@ bPeaks: '1.2'
 bRacatus: 2.0.0
 bReeze: 0.4-4
 bSi: 1.0.0
-bSims: 0.3-0
+bSims: 0.3-2
 bWGR: 2.2.9
 baRcodeR: 0.1.7
 baRulho: 2.1.0
@@ -9327,6 +9329,7 @@ bangladesh: 1.0.0
 bannerCommenter: 1.0.0
 banter: 0.9.6
 banxicoR: 0.9.0
+baorista: 0.1.2
 bapred: '1.1'
 barcode: 1.3.0
 bardr: 0.0.9
@@ -9371,7 +9374,7 @@ batade: '0.1'
 batata: 0.2.1
 batch: 1.1-5
 batchmeans: 1.0-4
-batchmix: 2.2.0
+batchmix: 2.2.1
 batchr: 0.0.2
 batchscr: 0.1.0
 batchtma: 0.1.6
@@ -11183,7 +11186,7 @@ cope: 0.2.3
 copent: '0.4'
 cophescan: 1.4.0
 coppeCosenzaR: 0.1.3
-copre: 0.2.0
+copre: 0.2.1
 coprimary: '1.0'
 cops: 1.3-1
 copula: 1.1-3
@@ -11999,7 +12002,7 @@ depend.truncation: '3.0'
 depigner: 0.9.1
 depmix: 0.9.16
 depmixS4: 1.5-0
-deps: 0.2.0
+deps: 0.3.0
 depth: 2.1-1.1
 depth.plot: '0.1'
 depthTools: '0.7'
@@ -12533,7 +12536,7 @@ dub: 0.2.0
 duckdb: 0.10.2
 duckdbfs: 0.0.4
 duckduckr: 1.0.0
-duckplyr: 0.3.2
+duckplyr: 0.4.0
 duke: 0.0.3
 dumbbell: '0.1'
 dummies: 1.5.6
@@ -12774,7 +12777,7 @@ edibble: 1.1.1
 ediblecity: 0.2.1
 edina: 0.1.1
 editData: 0.1.8
-editbl: 1.0.4
+editbl: 1.0.5
 editrules: 2.9.5
 edl: '1.1'
 edlibR: 1.0.2
@@ -13057,6 +13060,7 @@ epubr: 0.6.4
 epwshiftr: 0.1.4
 epxToR: 0.4-1
 eq5d: 0.15.3
+eq5dsuite: 1.0.0
 eqn2svg: 0.1.0
 eqs2lavaan: '3.0'
 eqtl: 1.1-7
@@ -13159,7 +13163,7 @@ eudract: 1.0.0
 eufmdis.adapt: 0.1.0
 eulerian: '1.0'
 eulerr: 7.0.2
-eummd: 0.1.4
+eummd: 0.1.9
 eunis.habitats: 0.1.0
 eurlex: 0.4.7
 euroMix: 1.1.1
@@ -14058,7 +14062,7 @@ fsbrain: 0.5.5
 fscache: 1.0.3
 fscaret: 0.9.4.4
 fsdaR: 0.9-0
-fsemipar: 1.1.0
+fsemipar: 1.1.1
 fsia: 1.1.1
 fslr: 2.25.3
 fsn: '0.2'
@@ -14290,7 +14294,7 @@ gatepoints: 0.1.5
 gatoRs: 1.0.2
 gauseR: '1.2'
 gaussDiff: '1.1'
-gausscov: 1.1.2
+gausscov: 1.1.3
 gaussfacts: 0.0.2
 gaussplotR: 0.2.5
 gausspred: 1.0-0
@@ -14653,6 +14657,7 @@ ggcorset: 0.5.0
 ggcoverage: 0.7.1
 ggdag: 0.2.12
 ggdark: 0.2.1
+ggdaynight: 0.1.1
 ggdemetra: 0.2.8
 ggdendro: 0.2.0
 ggdensity: 1.0.0
@@ -14775,7 +14780,7 @@ ggrisk: '1.3'
 ggrounded: 0.0.3
 ggroups: 2.1.2
 ggsankeyfier: 0.1.8
-ggsci: 3.0.3
+ggsci: 3.1.0
 ggscidca: 0.2.3
 ggseas: 0.5.4
 ggsector: 1.6.6
@@ -14844,7 +14849,7 @@ gifti: 0.8.0
 giftwrap: 0.0.4
 gigg: 0.2.1
 gim: 0.33.1
-gimme: 0.7-16
+gimme: 0.7-17
 gimmeTools: '0.1'
 gimms: 1.2.2
 giniVarCI: 0.0.1-3
@@ -15096,7 +15101,7 @@ gps.track: 1.0.0
 gptk: '1.08'
 gptoolsStan: 0.1.0
 gptr: 0.6.0
-gptstudio: 0.3.0
+gptstudio: 0.4.0
 gptzeror: 0.0.1
 gpuR: 2.0.3
 gputools: '1.1'
@@ -16132,7 +16137,7 @@ influxdbclient: 0.1.2
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
 infochimps: 0.3.1
-infoelectoral: 1.0.0
+infoelectoral: 1.0.1
 informR: 1.0-5
 informedSen: 1.0.7
 infotheo: 1.2.0.1
@@ -16623,7 +16628,7 @@ kerDAA: 0.1.1
 kerSeg: '1.1'
 kerTests: 0.1.4
 keras: 2.15.0
-keras3: 0.2.0
+keras3: 1.0.0
 kerasR: 0.8.1
 kerasformula: 1.5.1
 kerastuneR: 0.1.0.7
@@ -18299,7 +18304,7 @@ mllrnrs: 0.0.3
 mlmRev: 1.0-8
 mlma: 6.3-1
 mlmc: 1.0.0
-mlmhelpr: 0.1.0
+mlmhelpr: 0.1.1
 mlmi: 1.1.2
 mlmm: 1.5.0
 mlmm.gwas: 1.0.6
@@ -18920,7 +18925,7 @@ mvst: 1.1.1
 mvtBinaryEP: 1.0.1
 mvtboost: 0.5.0
 mvtmeta: '1.1'
-mvtnorm: 1.2-4
+mvtnorm: 1.2-5
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-4
 mwTensor: 1.1.0
@@ -19748,7 +19753,7 @@ optiSolve: '1.0'
 optic: 1.0.1
 optical: 1.7.1
 opticskxi: '0.1'
-opticut: 0.1-2
+opticut: 0.1-3
 optifunset: '1.0'
 optigrab: 0.9.2.1
 optim.functions: '0.1'
@@ -20708,7 +20713,7 @@ plyr: 1.8.9
 pm3: 0.1.9
 pm4py: 1.2.7
 pmap: 0.6.0
-pmartR: 2.4.4
+pmartR: 2.4.5
 pmatch: 0.1.4
 pmc: 1.0.6
 pmcalibration: 0.1.0
@@ -20786,7 +20791,7 @@ pollstR: 2.0.1
 pollster: 0.1.6
 polmineR: 0.8.9
 polspline: 1.1.25
-polyCub: 0.9.0
+polyCub: 0.9.1
 polyMatrix: 0.9.16
 polyPK: 3.1.0
 polyRAD: 2.0.0
@@ -20946,6 +20951,7 @@ ppseq: 0.2.4
 ppsr: 0.0.5
 ppstat: '0.9'
 pqantimalarials: '0.2'
+pql: 0.1.0
 pqrBayes: 1.0.2
 pqrfe: '1.1'
 prLogistic: '1.2'
@@ -21230,7 +21236,7 @@ psychmetadata: 1.0.0
 psycho: 0.6.1
 psychometric: '2.4'
 psychomix: 1.1-8
-psychonetrics: 0.11.6
+psychonetrics: '0.12'
 psychotools: 0.7-4
 psychotree: 0.16-1
 psychrolib: 2.5.2
@@ -21248,7 +21254,7 @@ pterrace: '1.0'
 ptest: 1.0-8
 ptf: 0.0.1
 ptinpoly: '2.8'
-ptm: 0.2.7
+ptm: 1.0.1
 ptmixed: 1.1.3
 ptools: 2.0.0
 ptproc: '1.0'
@@ -21729,7 +21735,7 @@ ractivecampaign: 0.2.0
 radar: 1.0.0
 radarBoxplot: 1.0.5
 radarchart: 0.3.1
-radiant: 1.6.1
+radiant: 1.6.6
 radiant.basics: 1.6.6
 radiant.data: 1.6.6
 radiant.design: 1.6.6
@@ -21821,7 +21827,7 @@ rankreg: 0.2-2
 ranktreeEnsemble: '0.22'
 ranlip: 1.0.1
 rapbase: 1.24.2
-rapiclient: 0.1.4
+rapiclient: 0.1.5
 rapidjsonr: 1.2.0
 rapidoc: 9.3.4
 rapidphylo: 0.1.2
@@ -22354,7 +22360,7 @@ resumer: 0.0.5
 retel: 0.1.0
 rethinker: 1.1.0
 rethnicity: 0.2.4
-reticulate: 1.36.1
+reticulate: 1.37.0
 retimes: 0.1-2
 retistruct: 0.6.3
 retractcheck: 1.0.0
@@ -22405,7 +22411,7 @@ rflann: '1.3'
 rflashtext: 1.0.0
 rflexscan: 1.1.0
 rflights: 0.1.103
-rflsgen: 1.2.1
+rflsgen: 1.2.2
 rfm: 0.3.0
 rfml: 0.1.0
 rfoaas: 2.3.2
@@ -22563,6 +22569,7 @@ rjags: 4-15
 rjazz: 0.1.7
 rjdmarkdown: 0.2.2
 rjdqa: 0.1.4
+rjdworkspace: 1.1.7
 rje: 1.12.1
 rjmcmc: 0.4.5
 rjpdmp: 2.0.0
@@ -23436,6 +23443,7 @@ scopr: 0.3.4
 score: 1.0.2
 scorecard: 0.4.4
 scorecardModelUtils: 0.0.1.0
+scorematchingad: 0.0.60
 scorepeak: 0.1.2
 scorer: 0.2.0
 scoring: '0.6'
@@ -23775,7 +23783,7 @@ sharpPen: '1.9'
 sharpeRratio: 1.4.3
 sharpr2: 1.1.1.0
 sharpshootR: '2.3'
-sharx: 1.0-5
+sharx: 1.0-6
 shattering: 1.0.7
 shatteringdt: 0.1.0
 shazam: 1.2.0
@@ -23788,10 +23796,10 @@ shiftR: '1.5'
 shinipsum: 0.1.1
 shiny: 1.8.1.1
 shiny.benchmark: 0.1.1
-shiny.blueprint: 0.2.0
+shiny.blueprint: 0.3.0
 shiny.emptystate: 0.1.0
 shiny.exe: 0.2.0
-shiny.fluent: 0.3.0
+shiny.fluent: 0.4.0
 shiny.i18n: 0.3.0
 shiny.info: 0.2.0
 shiny.pwa: 0.2.1
@@ -25367,6 +25375,7 @@ tabr: 0.4.9
 tabshiftr: 0.4.1
 tabuSearch: 1.1.1
 tabula: 3.1.0
+tabulapdf: 1.0.5-3
 tabularMLC: 0.0.3
 tabularaster: 0.7.2
 tabularmaps: 0.1.0
@@ -25924,7 +25933,7 @@ toprdata: 1.0.2
 topsa: 0.1.0
 topsis: '1.0'
 tor: 1.1.2
-torch: 0.12.0
+torch: 0.13.0
 torchaudio: 0.3.1
 torchdatasets: 0.3.0
 torchopt: 0.1.4
@@ -26573,7 +26582,7 @@ vectorbitops: 1.1.2
 vectorsurvR: 0.1.0
 vectorwavelet: 0.1.0
 vegalite: 0.6.1
-vegan: 2.6-6
+vegan: 2.6-6.1
 vegan3d: 1.3-0
 vegawidget: 0.5.0
 vegclust: 2.0.2
@@ -27225,7 +27234,7 @@ zeitgebr: 0.3.5
 zeligverse: 0.1.1
 zen4R: '0.9'
 zendeskR: '0.4'
-zendown: 0.0.2
+zendown: 0.1.0
 zenplots: 1.0.6
 zeroEQpart: 0.1.0
 zerotradeflow: 0.1.0
