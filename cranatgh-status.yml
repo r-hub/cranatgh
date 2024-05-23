@@ -426,7 +426,7 @@ BDgraph: '2.72'
 BE: 0.2.4
 BEACH: 1.3.1
 BEANSP: '1.0'
-BED: 1.5.1
+BED: 1.5.2
 BEDASSLE: 1.6.1
 BEDMatrix: 2.0.3
 BEKKs: 1.4.4
@@ -464,7 +464,7 @@ BIDistances: 0.0.2
 BIEN: 1.2.6
 BIFIEsurvey: 3.6-6
 BIGDAWG: 3.0.3
-BIGL: 1.9.0
+BIGL: 1.9.1
 BINCO: 0.1-1
 BINCOR: 0.2.0
 BINtools: 0.2.0
@@ -1341,6 +1341,7 @@ CompExpDes: 1.0.0
 CompGLM: '2.0'
 CompGR: 0.1.3
 CompLognormal: '3.0'
+CompMix: 0.1.0
 CompModels: 0.3.0
 CompPareto: 0.1.0
 CompQuadForm: 1.4.3
@@ -1409,7 +1410,7 @@ CopernicusDEM: 1.0.3
 CopernicusMarine: 0.2.3
 Copula.Markov: '2.9'
 Copula.Markov.survival: 1.0.0
-Copula.surv: '1.5'
+Copula.surv: '1.6'
 CopulaCenR: 1.2.3
 CopulaDTA: 1.0.1
 CopulaGAMM: 0.4.1
@@ -2306,7 +2307,7 @@ FAMT: '2.6'
 FAMetA: 0.1.6
 FAMoS: 0.3.0
 FAO56: '1.0'
-FAOSTAT: 2.3.1
+FAOSTAT: 2.4.0
 FARDEEP: 1.0.1
 FAS: 1.0.0
 FAST.R: 0.2.1
@@ -2858,7 +2859,7 @@ GammaTest: '2.1'
 Gammareg: 3.0.1
 GapAnalysis: 1.0.2
 GauPro: 0.2.11
-GaussSuppression: 0.8.3
+GaussSuppression: 0.8.5
 GaussianHMM1d: 1.1.1
 GeDS: 0.2.2
 GeNetIt: 0.1-6
@@ -3530,6 +3531,7 @@ JATSdecoder: 1.2.0
 JBTools: 0.7.2.9
 JBrowseR: 0.10.2
 JCRImpactFactor: 1.0.0
+JDCruncheR: 0.2.4
 JFE: 2.5.6
 JFM: '1.0'
 JGEE: '1.1'
@@ -4202,6 +4204,7 @@ MMST: 0.6-1.1
 MMVBVS: 0.8.0
 MMWRweek: 0.1.3
 MMeM: 0.1.1
+MN: '1.0'
 MNARclust: 1.1.0
 MNB: 1.1.0
 MNLR: 0.1.0
@@ -5162,7 +5165,7 @@ PGEE: '1.5'
 PGICA: '1.0'
 PGM2: 1.0-1
 PGRdup: 0.2.3.9
-PH1XBAR: 0.11.1
+PH1XBAR: 0.11.2
 PHENIX: 1.3.1
 PHENTHAUproc: 1.0.1
 PHEindicatormethods: 2.0.2
@@ -7353,7 +7356,7 @@ ShinyItemAnalysis: 1.5.1
 ShinyLink: 0.2.2
 ShinyQuickStarter: 2.0.1
 ShinyTester: 0.1.0
-ShortForm: 0.5.3
+ShortForm: 0.5.4
 ShrinkCovMat: 1.4.0
 Shrinkage: '1.0'
 SiER: 0.1.0
@@ -9508,6 +9511,7 @@ bdchecks: 0.1.7
 bdclean: 0.1.15
 bde: 1.0.1.1
 bdl: 1.0.5
+bdlim: 0.4.1
 bdlp: 0.9-2
 bdoc: '1.2'
 bdots: 1.2.5
@@ -9537,6 +9541,7 @@ beast: '1.1'
 beastier: '2.5'
 beats: 0.1.1
 beautier: 2.6.12
+beaver: 1.0.0
 bedr: 1.0.7
 beepr: '1.3'
 beeswarm: 0.4.0
@@ -9923,7 +9928,7 @@ bodycomp: 1.0.0
 boggy: 0.0.1
 boilerpipeR: 1.3.2
 boinet: 1.0.0
-boiwsa: 1.0.0
+boiwsa: 1.1.0
 bolasso: 0.2.0
 bold: 1.3.0
 bolsec: 0.1.1
@@ -11405,7 +11410,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.9.2
+crew: 0.9.3
 crew.aws.batch: 0.0.5
 crew.cluster: 0.3.1
 crfsuite: 0.4.2
@@ -13114,7 +13119,7 @@ esaddle: 0.0.7
 esaps: 0.2.2
 esback: 0.3.1
 esc: 0.5.1
-escalation: 0.1.8
+escalation: 0.1.9
 esci: 1.0.2
 esd4all: 1.0-9
 eseis: 0.7.3
@@ -13497,6 +13502,7 @@ fastWavelets: 1.0.1
 fasta: 0.1.0
 fastadi: 0.1.1
 fastai: 2.2.2
+fastbackward: 1.0.0
 fastbeta: 0.3.0
 fastclime: 1.4.1.1
 fastcluster: 1.2.6
@@ -15038,7 +15044,7 @@ gooJSON: 1.0.01
 good: 1.0.2
 goodpractice: 1.0.4
 googleAnalyticsR: 1.1.0
-googleAuthR: 2.0.1
+googleAuthR: 2.0.2
 googleCloudRunner: 0.5.0
 googleCloudStorageR: 0.7.0
 googleCloudVisionR: 0.2.0
@@ -16151,7 +16157,7 @@ injectoR: 0.2.4
 injurytools: 1.0.3
 inlabru: 2.10.1
 inlcolor: 1.0.6
-inldata: 1.2.1
+inldata: 1.2.3
 inline: 0.3.19
 inlinedocs: 2023.9.4
 inlmisc: 0.5.5
@@ -16478,7 +16484,7 @@ jenga: 1.3.0
 jenkins: '1.0'
 jetpack: 0.5.5
 jetset: 3.4.0
-jewel: 2.0.1
+jewel: 2.0.2
 jfa: 0.7.1
 jgcricolors: 1.0.0
 jgsbook: 1.0.4
@@ -16503,7 +16509,7 @@ jmetrik: '1.1'
 jmotif: 1.1.1
 jmuOutlier: '2.2'
 jmv: 2.4.11
-jmvReadWrite: 0.4.5
+jmvReadWrite: 0.4.6
 jmvconnect: 2.3.13
 jmvcore: 2.4.7
 job: 0.3.1
@@ -18160,6 +18166,7 @@ minqa: 1.2.7
 minque: 2.0.0
 minsample1: 0.1.0
 minsample2: 0.1.0
+minty: 0.0.1
 minval: 0.8-2
 minxent: '0.01'
 mipfp: 3.2.1
@@ -18573,7 +18580,7 @@ mousetrack: 1.0.0
 mousetrap: 3.2.3
 movMF: 0.2-8
 move: 4.2.4
-move2: 0.2.7
+move2: 0.3.0
 moveHMM: '1.9'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.4
@@ -19588,7 +19595,7 @@ odpc: 2.0.5
 odprism: '1.1'
 odr: 1.4.4
 oec: 2.7.8
-oeli: 0.4.1
+oeli: 0.5.0
 oem: 2.0.11
 oenb: 0.0.2
 oesr: 0.1.0
@@ -19942,7 +19949,7 @@ packHV: '2.2'
 packMBPLSDA: 0.9.0
 packS4: 0.9.3
 packageDiff: '0.1'
-packageRank: 0.9.0
+packageRank: 0.9.1
 packagedocs: 0.4.0
 packagefinder: 0.3.5
 packagepal: 0.1.0
@@ -20096,7 +20103,7 @@ partialOR: '0.9'
 partialised: 0.1.1
 particle.swarm.optimisation: '1.0'
 particles: 0.2.3
-partition: 0.2.0
+partition: 0.2.1
 partitionBEFsp: '1.0'
 partitionComparison: 0.2.6
 partitionMap: '0.5'
@@ -20133,7 +20140,7 @@ pathdiagram: 0.1.9.1
 pathfindR: 2.4.1
 pathfindR.data: 2.1.0
 pathlibr: 0.1.0
-pathling: 6.4.2
+pathling: 7.0.0
 pathlit: 0.1.0
 pathmapping: 1.0.2
 pathmodelfit: 1.0.5
@@ -20444,6 +20451,7 @@ phillydaodata: 1.0.1
 phitest: 1.0-0
 phm: 1.1.2
 phmm: 0.7-14
+phoenics: '0.1'
 phoenix: 1.1.0
 phom: 1.0.3
 phonR: 1.0-7
@@ -20606,7 +20614,7 @@ planar: '1.6'
 planets: 0.1.0
 planningML: 1.0.1
 planor: 1.5-3
-planr: 0.4.0
+planr: 0.4.1
 planscorer: 0.0.1
 plantTracker: 1.1.0
 plantecophys: 1.4-6
@@ -20684,7 +20692,7 @@ pls.pcr: 0.2.7
 plsRbeta: 0.3.0
 plsRcox: 1.7.7
 plsRglm: 1.5.1
-plsVarSel: 0.9.11
+plsVarSel: 0.9.12
 plsdepot: 0.2.0
 plsdof: 0.3-2
 plsgenomics: 1.5-3
@@ -20956,7 +20964,7 @@ pqrBayes: 1.0.2
 pqrfe: '1.1'
 prLogistic: '1.2'
 prWarp: 1.0.1
-praatpicture: 1.0.0
+praatpicture: 1.2.0
 prabclus: 2.3-3
 pracma: 2.4.4
 pracpac: 0.2.0
@@ -21046,7 +21054,7 @@ previsionio: 11.7.0
 prevtoinc: 0.12.0
 prewas: 1.1.1
 priceR: 1.0.1
-pricelevels: 1.2.0
+pricelevels: 1.3.0
 pricesensitivitymeter: 1.3.0
 prider: 1.0.4
 prim: 1.0.21
@@ -21333,7 +21341,7 @@ qAnalyst: 0.6.4
 qCBA: 0.5.1
 qGaussian: 0.1.8
 qLearn: '1.0'
-qMRI: 1.2.7
+qMRI: 1.2.7.6
 qPCR.CT: '1.1'
 qPCRhelper: 0.1.0
 qPCRtools: 1.0.1
@@ -22172,7 +22180,7 @@ refnr: 0.1.0
 reformulas: 0.2.0
 refreg: 0.1.1
 refreshr: 0.1.0
-refseqR: 1.0.1
+refseqR: 1.0.2
 refset: 0.1.1
 refuge: 0.3.3
 refugees: 2023.6.0
@@ -22338,7 +22346,7 @@ reshapeGUI: 0.1.0
 resilience: 2023.1.1
 reslife: 0.2.1
 reslr: 0.1.1
-resmush: 0.1.0
+resmush: 0.1.1
 resourcer: 1.4.0
 respR: 2.3.3
 resper: 0.3.2
@@ -23917,7 +23925,7 @@ shopifyr: 1.0.0
 shoredate: 1.1.1
 shortIRT: 0.1.3
 shortcuts: 1.4.0
-shorts: 3.1.1
+shorts: 3.2.0
 shotGroups: 0.8.2
 showimage: 1.0.0
 showtext: 0.9-7
@@ -24255,7 +24263,7 @@ smosr: 1.0.1
 smotefamily: 1.4.0
 smovie: 1.1.6
 smpic: 0.1.0
-smplot2: 0.2.1
+smplot2: 0.2.2
 sms: 2.3.1
 smss: 1.0-2
 smurf: 1.1.5
@@ -24409,7 +24417,7 @@ spaa: 0.2.2
 space: 0.1-1.1
 spaceExt: '1.0'
 spaceNet: '1.2'
-spacefillr: 0.3.2
+spacefillr: 0.3.3
 spacejam: '1.1'
 spacejamr: 0.2.1
 spacesRGB: 1.5-0
@@ -25506,7 +25514,7 @@ tensor: '1.5'
 tensorA: 0.36.2.1
 tensorBF: 1.0.2
 tensorBSS: 0.3.8
-tensorEVD: 0.1.1
+tensorEVD: 0.1.2
 tensorFun: 0.1.1
 tensorMiss: 1.1.1
 tensorTS: 1.0.2
@@ -25526,7 +25534,7 @@ tern: 0.9.4
 tern.gee: 0.1.3
 tern.mmrm: 0.3.0
 ternvis: '1.2'
-terra: 1.7-71
+terra: 1.7-78
 terrainmeshr: 0.1.0
 terrainr: 0.7.5
 tessellation: 2.3.0
@@ -25594,7 +25602,7 @@ textshape: 1.7.5
 textshaping: 0.3.7
 textstem: 0.1.4
 textutils: 0.4-1
-tf: 0.3.3
+tf: 0.3.4
 tfCox: 0.1.0
 tfNeuralODE: 0.1.0
 tfaddons: 0.10.0
@@ -25807,7 +25815,7 @@ timelineR: 1.0.0
 timelineS: 0.1.1
 timeordered: 1.0.0
 timeperiodsR: 0.7.3
-timeplyr: 0.5.0
+timeplyr: 0.8.0
 timereg: 2.0.5
 timesboot: '1.0'
 timeseriesdb: 1.0.0-1.1.2
@@ -27170,7 +27178,7 @@ xtune: 2.0.0
 xutils: 0.0.2
 xwf: 0.2-3
 xxIRT: 2.1.2
-xxdi: 0.0.1
+xxdi: 1.0.0
 xxhashlite: 0.2.2
 xyloplot: '2.0'
 xyz: '0.2'
