@@ -2013,6 +2013,7 @@ EFAutilities: 2.1.3
 EFDR: '1.3'
 EFS: 1.0.3
 EGAnet: 2.0.6
+EGM: 0.1.0
 EGRET: 3.0.9
 EGRETci: 2.0.4
 EGRNi: 0.1.6
@@ -2969,7 +2970,7 @@ Gmedian: 1.2.7
 Gmisc: 3.0.3
 GmptzCurve: 0.1.0
 GoFKernel: 2.1-1
-GofCens: '0.98'
+GofCens: '1.0'
 GofKmt: 2.2.0
 GomoGomonoMi: 0.1.0
 GoodFibes: 0.1.10
@@ -3144,7 +3145,7 @@ HWEBayes: '1.4'
 HWEintrinsic: 1.2.3
 HWxtest: 1.1.9
 HYDROCAL: 1.0.0
-HYPEtools: 1.6.1
+HYPEtools: 1.6.2
 HYRISK: '1.2'
 HaDeX: 1.2.2
 HadIBDs: 1.0.0
@@ -4455,6 +4456,7 @@ MetaIntegration: 0.1.2
 MetaIntegrator: 2.1.3
 MetaLandSim: 2.0.0
 MetaLonDA: 1.1.8
+MetaNLP: 0.1.2
 MetaNet: 0.1.2
 MetaPCA: 0.1.4
 MetaPath: '1.0'
@@ -6650,7 +6652,7 @@ Riemann: 0.1.4
 Riex: 1.0.2
 Rigma: 0.2.1
 Rigroup: 0.83.0.1
-Rilostat: 2.0.0
+Rilostat: 2.1.0
 Rinstapkg: 0.1.0
 Rip46: 1.0.2
 Rirt: 0.0.2
@@ -7235,7 +7237,7 @@ SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.5.0
 SWMPrExtension: 2.2.5.1
-SWTools: 1.0.1
+SWTools: 1.0.2
 SYNCSA: 1.3.4
 Sabermetrics: '2.0'
 SafeBayes: '1.1'
@@ -7464,6 +7466,7 @@ SoftBart: 1.0.1
 SoftClustering: 2.1.3
 SoftRandomForest: 0.1.0
 SoilConservation: 1.0.0
+SoilFunctionality: 0.1.0
 SoilHyP: 0.1.7
 SoilR: 1.2.107
 SoilTaxonomy: 0.2.4
@@ -7789,7 +7792,7 @@ TIMP: 1.13.6
 TITAN2: 2.4.3
 TITEgBOIN: 0.3.0
 TInPosition: 0.13.6.1
-TKCat: 1.1.7
+TKCat: 1.1.8
 TKF: 0.0.8
 TLBC: '1.0'
 TLCAR: 0.1.0
@@ -8055,7 +8058,7 @@ TreeMineR: 1.0.1
 TreePar: '3.3'
 TreeRank: 1.1-0
 TreeRingShape: 3.0.3
-TreeSearch: 1.5.0
+TreeSearch: 1.5.1
 TreeSim: '2.4'
 TreeSimGM: '2.5'
 TreeTools: 1.10.0
@@ -8599,9 +8602,9 @@ adaptivetau: 2.3-1
 adaptr: 1.4.0
 adaptsmoFMRI: '1.2'
 adass: 1.0.0
-adbcdrivermanager: 0.11.0
-adbcpostgresql: 0.11.0.1
-adbcsqlite: 0.11.0.1
+adbcdrivermanager: 0.12.0
+adbcpostgresql: 0.12.0
+adbcsqlite: 0.12.0
 adbi: 0.1.1
 adc: 1.0.0
 add2ggplot: 0.3.0
@@ -8995,7 +8998,7 @@ arcgisutils: 0.3.0
 archdata: 1.2-1
 archeoViz: 1.3.4
 archeofrag: 0.8.2
-archetypal: 1.3.0
+archetypal: 1.3.1
 archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
@@ -9286,7 +9289,7 @@ backblazer: 0.1.0
 backbone: 2.1.4
 backfitRichards: 0.5.0
 backpipe: 0.2.3
-backports: 1.4.1
+backports: 1.5.0
 backtest: 0.3-4
 backtestGraphics: 0.1.6
 bacondecomp: 0.1.1
@@ -9332,7 +9335,7 @@ bangladesh: 1.0.0
 bannerCommenter: 1.0.0
 banter: 0.9.6
 banxicoR: 0.9.0
-baorista: 0.1.2
+baorista: 0.1.3
 bapred: '1.1'
 barcode: 1.3.0
 bardr: 0.0.9
@@ -9407,7 +9410,7 @@ bayesLife: 5.2-0
 bayesLopod: 1.0.1
 bayesMCClust: '1.0'
 bayesMRM: 2.4.0
-bayesMeanScale: 0.1.2
+bayesMeanScale: 0.1.3
 bayesMig: 0.4-6
 bayesPO: 0.5.0
 bayesPop: 10.0-1
@@ -9627,7 +9630,7 @@ biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.2.0
 biblio: 0.0.9
-bibliometrix: 4.2.1
+bibliometrix: 4.2.2
 bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
 bibliorefer: 0.1.0
@@ -9862,7 +9865,7 @@ blm: 2022.0.0.1
 blme: 1.0-5
 blmeco: '1.4'
 blob: 1.2.4
-blockCV: 3.1-3
+blockCV: 3.1-4
 blockForest: 0.2.6
 blockRAR: 1.0.2
 blockTools: 0.6.4
@@ -13412,7 +13415,7 @@ factorQR: 0.1-4
 factorcpt: 0.1.2
 factorial2x2: 0.2.0
 factormodel: '1.0'
-factorplot: 1.1-2
+factorplot: 1.2.3
 factorstochvol: 1.1.0
 factory: 0.1.0
 factset.analyticsapi.engines: 3.0.1
@@ -14105,7 +14108,7 @@ funGp: 1.0.0
 funHDDC: 2.3.1
 funLBM: '2.3'
 funModeling: 1.9.5
-funStatTest: 1.0.2
+funStatTest: 1.0.3
 funbarRF: 1.0.2
 func2vis: 1.0-3
 funcharts: 1.4.1
@@ -14491,7 +14494,7 @@ geodaData: 0.1.0
 geodata: 0.5-9
 geodetector: 1.0-4
 geodimension: 2.0.0
-geodist: 0.0.8
+geodist: 0.1.0
 geodiv: 1.1.0
 geodrawr: 2.0.0
 geoelectrics: 0.2.2
@@ -14663,7 +14666,7 @@ ggcorset: 0.5.0
 ggcoverage: 0.7.1
 ggdag: 0.2.12
 ggdark: 0.2.1
-ggdaynight: 0.1.1
+ggdaynight: 0.1.3
 ggdemetra: 0.2.8
 ggdendro: 0.2.0
 ggdensity: 1.0.0
@@ -15109,7 +15112,7 @@ gptoolsStan: 0.1.0
 gptr: 0.6.0
 gptstudio: 0.4.0
 gptzeror: 0.0.1
-gpuR: 2.0.3
+gpuR: 2.0.6
 gputools: '1.1'
 gpx: 1.1.0
 gqlr: 0.0.2
@@ -15231,7 +15234,7 @@ grouprar: 0.1.0
 groupsubsetselection: 1.0.3
 groupwalk: 0.1.2
 grove: 1.1.1
-growR: 1.2.0
+growR: 1.3.0
 growcurves: 0.2.4.1
 growfunctions: '0.16'
 growth: 1.1.1
@@ -15477,14 +15480,14 @@ hdtg: 0.2.0
 headliner: 0.0.3
 healthcare.antitrust: 0.1.4
 healthcareai: 2.5.1
-healthdb: 0.3.0
+healthdb: 0.3.1
 healthequal: 1.0.0
 healthfinance: 0.1.0
 healthforum: 0.1.0
 healthyAddress: 0.4.2
 healthyR: 0.2.1
 healthyR.ai: 0.0.13
-healthyR.data: 1.0.3
+healthyR.data: 1.1.0
 healthyR.ts: 0.3.0
 healthyverse: 1.0.4
 heapsofpapers: 0.1.0
@@ -15860,7 +15863,7 @@ iGraphMatch: 2.0.5
 iIneq: 1.0.2
 iJRF: 1.1-4
 iLaplace: 1.1.0
-iMRMC: 1.2.5
+iMRMC: 2.0.0
 iMediate: 0.5.5
 iMessager: '1.0'
 iNEXT: 3.0.1
@@ -16102,7 +16105,7 @@ incadata: 0.9.1
 incase: 0.3.2
 incgraph: 1.0.1
 incidence: 1.7.4
-incidence2: 2.2.3
+incidence2: 2.3.0
 incidental: '0.1'
 incidentally: 1.0.2
 inctools: 1.0.15
@@ -17044,6 +17047,7 @@ lfda: 1.1.3
 lfe: 3.0-0
 lfl: 2.2.0
 lfmm: '1.1'
+lfproQC: 0.1.0
 lfstat: 0.9.12
 lg: 0.4.1
 lga: 1.1-1
@@ -17627,7 +17631,7 @@ margins: 0.3.26.1
 marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
-mark: 0.7.0
+mark: 0.8.0
 markdown: '1.12'
 markdownInput: 0.1.2
 marked: 1.2.8
@@ -18093,7 +18097,7 @@ microclustr: 0.1.0
 microcontax: '1.2'
 microdemic: 0.6.0
 microdiluteR: 1.0.1
-microeco: 1.7.0
+microeco: 1.7.1
 microhaplot: 1.0.1
 micromap: 1.9.8
 micromapST: 3.0.3
@@ -18385,7 +18389,7 @@ mmeln: '1.5'
 mmeta: 3.0.0
 mmetrics: 0.3.0
 mmiCATs: 0.1.1
-mmibain: 0.1.1
+mmibain: 0.2.0
 mmirestriktor: 0.2.1
 mmlcr: 1.3.5
 mmm: '1.4'
@@ -18476,7 +18480,7 @@ modeltime.resample: 0.2.3
 modeltools: 0.2-23
 modelwordcloud: '0.1'
 moder: 0.2.1
-moderate.mediation: 0.0.9
+moderate.mediation: 0.0.10
 modernVA: 0.1.3
 moderndive: 0.5.5
 modes: 0.7.0
@@ -18971,7 +18975,7 @@ na.tools: 0.3.1
 naaccr: 2.0.2
 nabor: 0.5.0
 nacopula: 0.8-1
-nadiv: 2.17.2
+nadiv: 2.18.0
 naflex: 0.1.0
 naijR: 0.6.0
 naive: 1.2.3
@@ -19168,7 +19172,7 @@ newTestSurvRec: 1.0.2
 newallelic: '0.1'
 newsanchor: 0.1.1
 newscatcheR: 0.1.2
-newsmap: 0.8.3
+newsmap: 0.9.0
 newsmd: 0.5.1
 nextGenShinyApps: '2.0'
 nexus: 0.2.0
@@ -20994,7 +20998,7 @@ predatory: '1.2'
 predbayescor: 1.1-4
 predfairness: 0.1.0
 predfinitepop: '1.0'
-predhy: 2.1.0
+predhy: 2.1.1
 predhy.GUI: '1.0'
 predict3d: 0.1.5
 predictMe: '0.1'
@@ -21090,6 +21094,7 @@ probemapper: 1.0.0
 probemod: 0.2.1
 probhat: 0.4.1
 probout: 1.1.2
+probstats4econ: 0.2.0
 probsvm: '1.00'
 proccalibrad: '0.14'
 proceduralnames: 0.2.2
@@ -22432,7 +22437,7 @@ rgTest: '0.1'
 rgabriel: '0.9'
 rgam: 0.6.6
 rgauges: 0.2.0
-rgbif: 3.7.9
+rgbif: 3.8.0
 rgcvpack: 0.1-4
 rgdal: 1.6-7
 rgdax: 1.2.1
@@ -22537,7 +22542,7 @@ ringscale: 0.1.2
 rintcal: 0.6.4
 rintimg: 0.1.0
 rintrojs: 0.3.4
-rio: 1.0.1
+rio: 1.1.0
 rioja: 1.0-6
 riot: 1.1.0
 ripa: 2.0-2
@@ -22905,7 +22910,7 @@ rpyANTs: 0.0.3
 rpymat: 0.1.7
 rqPen: '4.1'
 rqdatatable: 1.3.3
-rqlm: 1.3-1
+rqlm: 2.1-1
 rqmcmb2: 1.0.2-1
 rqti: 0.2.0
 rquery: 1.4.99
@@ -23233,7 +23238,7 @@ saeME: 1.3.1
 saeMSPE: '1.2'
 saeRobust: 0.5.0
 saeSim: 0.11.0
-saeTrafo: 1.0.2
+saeTrafo: 1.0.3
 saebnocov: 0.1.0
 saeczi: 0.1.3
 saeeb: 0.1.0
@@ -24286,7 +24291,7 @@ snipEM: 1.0.1
 snn: '1.1'
 snnR: '1.0'
 snort: '1.0'
-snotelr: '1.2'
+snotelr: '1.4'
 snow: 0.4-4
 snowFT: 1.6-1
 snowboot: 1.0.2
@@ -24896,6 +24901,7 @@ statsgrokse: 0.1.4
 statsguRu: 0.1.1
 statsr: 0.3.0
 statswalesr: 0.2.0
+stbl: 0.1.1
 stcm: 0.1.1
 stcos: 0.3.1
 stcov: 0.1.0
@@ -26599,6 +26605,7 @@ vegetarian: '1.2'
 vegperiod: 0.4.0
 vegtable: 0.1.8
 vein: 1.1.3
+vek: 1.0.0
 velociraptr: 1.1.0
 velox: 0.2.0
 vembedr: 0.1.5
@@ -27234,7 +27241,7 @@ zTree: 1.0.7
 zalpha: 0.3.0
 zbank: 0.1.0
 zctaCrosswalk: 2.0.0
-zcurve: 2.4.0
+zcurve: 2.4.1
 zdeskR: 0.4.1
 zeallot: 0.1.0
 zebu: 0.2.2.0
