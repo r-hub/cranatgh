@@ -780,7 +780,7 @@ BiomarkeR: '1.3'
 Biopeak: '1.0'
 Bios2cor: 2.2.1
 Biostatistics: 1.0.4
-BiostatsUHNplus: 0.0.9
+BiostatsUHNplus: 0.0.10
 Biotech: 1.0.0
 BipartiteModularityMaximization: 1.23.120.1
 BiplotGUI: 0.0-7
@@ -1706,7 +1706,7 @@ DSAIDE: 0.9.6
 DSAIRM: 0.9.6
 DSAM: 1.0.2
 DSBayes: 2023.1.0
-DSI: 1.5.0
+DSI: 1.6.0
 DSL: 0.1-7
 DSLite: 1.4.0
 DSMolgenisArmadillo: 2.0.5
@@ -1721,7 +1721,7 @@ DSsim: 1.1.5
 DStree: '1.0'
 DSviaDRM: '1.0'
 DT: '0.33'
-DTAT: 0.3-6
+DTAT: 0.3-7
 DTAXG: 0.1.0
 DTAplots: 1.0.2.5
 DTComPair: 1.2.4
@@ -4480,7 +4480,7 @@ MetamapsDB: 0.0.2
 Metatron: 0.1-1
 Meth27QC: '1.1'
 MethComp: 1.30.0
-MethEvolSIM: 0.1.1
+MethEvolSIM: 0.1.2
 MethodCompare: 0.1.2
 Methplot: '1.0'
 MethyBayes: 0.1.0
@@ -6382,7 +6382,7 @@ RcmdrPlugin.DoE: 0.12-5
 RcmdrPlugin.EACSPIR: 0.2-3
 RcmdrPlugin.EBM: 1.0-10
 RcmdrPlugin.EHESsampling: '2.0'
-RcmdrPlugin.EZR: '1.66'
+RcmdrPlugin.EZR: '1.67'
 RcmdrPlugin.EcoVirtual: '1.0'
 RcmdrPlugin.Export: 0.3-1
 RcmdrPlugin.FactoMineR: '1.8'
@@ -7237,7 +7237,7 @@ SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.5.0
 SWMPrExtension: 2.2.5.1
-SWTools: 1.0.2
+SWTools: 1.0.3
 SYNCSA: 1.3.4
 Sabermetrics: '2.0'
 SafeBayes: '1.1'
@@ -7700,7 +7700,7 @@ SurvTrunc: 0.2.0
 SurveyCC: 0.1.1
 Survgini: '1.0'
 SurviMChd: 0.1.2
-SurvivalClusteringTree: '1.1'
+SurvivalClusteringTree: 1.1.1
 SurvivalPath: 1.3.2
 SurvivalTests: '1.0'
 SvyNom: '1.2'
@@ -8046,7 +8046,7 @@ TransTGGM: 1.0.0
 TransferEntropy: '1.4'
 Transform: '1.0'
 Tratamentos.ad: 0.2.4
-TreatmentPatterns: 2.6.6
+TreatmentPatterns: 2.6.7
 TreatmentSelection: 2.1.1
 TreeBUGS: 1.5.0
 TreeDep: 0.1.3
@@ -8907,7 +8907,7 @@ anonymizer: 0.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
 ant: 0.0-10
-antaresEditObject: 0.6.3
+antaresEditObject: 0.6.4
 antaresProcessing: 0.18.1
 antaresRead: 2.6.1
 antaresViz: 0.18.0
@@ -9630,7 +9630,7 @@ biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.2.0
 biblio: 0.0.9
-bibliometrix: 4.2.2
+bibliometrix: 4.2.3
 bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
 bibliorefer: 0.1.0
@@ -10229,7 +10229,7 @@ calidad: 0.5.0
 caliver: 2.0.0
 callback: 0.1.0
 callr: 3.7.6
-callsync: 0.2.1
+callsync: 0.2.3
 calmate: 0.13.0
 calmr: 0.6.1
 calpassapi: 0.0.3
@@ -10938,7 +10938,7 @@ colcor: '1.0'
 cold: 2.0-3
 colf: 0.1.3
 collUtils: 1.0.5
-collapse: 2.0.13
+collapse: 2.0.14
 collapsibleTree: 0.1.8
 collateral: 0.5.2
 collatz: 1.0.0
@@ -11059,7 +11059,7 @@ compute.es: 0.2-5
 comradesOO: 0.1.1
 comsimitv: 0.1.5
 comstab: 0.0.3
-comtradr: 1.0.0
+comtradr: 1.0.1
 con2aqi: 0.1.0
 con2lki: 0.1.0
 conStruct: 1.0.6
@@ -11723,7 +11723,7 @@ dartR.data: 1.0.2
 dartR.popgen: '0.32'
 dartR.sim: '0.70'
 dartR.spatial: '0.78'
-dartRverse: '0.51'
+dartRverse: 1.0.2
 darts: '1.0'
 dash: 0.5.0
 dashCoreComponents: 1.10.0
@@ -12622,7 +12622,7 @@ eBsc: '4.17'
 eCAR: 0.1.2
 eCV: 0.0.2
 eChem: 1.0.0
-eDITH: 0.3.0
+eDITH: 1.0.0
 eDMA: 1.5-3
 eFRED: 0.1.0
 eGST: 1.0.0
@@ -12745,7 +12745,7 @@ ecos: 0.1.6
 ecoseries: 0.1.5
 ecosim: 1.3-4
 ecospace: 1.4.2
-ecospat: 4.0.0
+ecospat: 4.1.0
 ecostats: 1.1.11
 ecostatscale: '1.1'
 ecotox: 1.4.4
@@ -13075,7 +13075,7 @@ eqtl: 1.1-7
 equSA: 1.2.1
 equalCovs: '1.0'
 equaltestMI: 0.6.1
-equatags: 0.2.0
+equatags: 0.2.1
 equate: 2.0.8
 equateIRT: 2.4.0
 equateMultiple: 0.1.2
@@ -13446,7 +13446,7 @@ fam2r: '1.2'
 famSKATRC: 1.1.0
 fame: 2.21.1
 familial: 1.0.5
-familiar: 1.4.6
+familiar: 1.4.8
 fanc: 2.3.11
 fancycut: 0.1.2
 fangs: 0.2.13
@@ -13949,7 +13949,7 @@ formatR: '1.14'
 formatdown: 0.1.4
 formattable: 0.2.1
 formatters: 0.5.6
-formods: 0.1.5
+formods: 0.1.6
 formula.tools: 1.7.1
 formulaic: 0.0.8
 formulize: 0.1.0
@@ -14017,7 +14017,7 @@ frbinom: 1.0.0
 frbs: 3.2-0
 frechet: 0.3.0
 fredr: 2.1.0
-free: 1.0.1
+free: 1.0.2
 freealg: 1.1-1
 freebird: '1.0'
 freecurrencyapi: 0.1.0
@@ -16490,7 +16490,7 @@ jetset: 3.4.0
 jewel: 2.0.2
 jfa: 0.7.1
 jgcricolors: 1.0.0
-jgsbook: 1.0.4
+jgsbook: 1.0.5
 jiebaR: '0.11'
 jiebaRD: '0.1'
 jinjar: 0.3.1
@@ -18641,7 +18641,7 @@ mreg: 1.2.1
 mregions: 0.1.8
 mrf: 0.1.6
 mrf2d: '1.0'
-mrfDepth: 1.0.16
+mrfDepth: 1.0.17
 mrfse: 0.4.1
 mrgsim.parallel: 0.2.1
 mrgsim.sa: 0.2.0
@@ -20877,6 +20877,7 @@ poptrend: 0.2.0
 populR: 0.2.1
 population: '0.3'
 populationPDXdesign: 1.0.3
+poputils: 0.3.0
 porridge: 0.3.3
 port4me: 0.7.1
 portalr: 0.4.1
@@ -21837,7 +21838,7 @@ rankinPlot: 1.1.0
 rankinma: 0.2.2
 rankrate: 1.2.0
 rankreg: 0.2-2
-ranktreeEnsemble: '0.22'
+ranktreeEnsemble: '0.23'
 ranlip: 1.0.1
 rapbase: 1.24.2
 rapiclient: 0.1.5
@@ -22367,7 +22368,7 @@ restlos: 0.2-2
 restoptr: 1.0.6
 restorepoint: '0.2'
 restrictedMVN: '1.0'
-restriktor: 0.5-30
+restriktor: 0.5-60
 result: 0.1.0
 resumer: 0.0.5
 retel: 0.1.0
@@ -22965,7 +22966,7 @@ rscala: 3.2.25
 rscc: 0.2.1
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 1.2.2
+rsconnect: 1.3.0
 rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.26.0
@@ -23264,7 +23265,7 @@ salem: 0.2.0
 salesforcer: 1.0.1
 salso: 0.3.35
 salty: 0.1.0
-samadb: 0.2.6
+samadb: 0.3.0
 sambia: 0.1.0
 samc: 3.2.1
 samon: 4.0.2
@@ -24501,7 +24502,7 @@ spate: 1.7.5
 spatgeom: 0.3.0
 spatgraphs: '3.4'
 spathial: 0.1.2
-spaths: 1.1.0
+spaths: 1.1.1
 spatial: 7.3-17
 spatial.gev.bma: '1.0'
 spatial.tools: 1.6.2
@@ -24617,7 +24618,7 @@ spherepc: 0.1.7
 sphereplot: 1.5.1
 spheresmooth: 0.1.0
 sphet: '2.0'
-sphunif: 1.3.0
+sphunif: 1.4.0
 spi: '1.1'
 spiR: 0.2.1
 spidR: 1.0.2
@@ -25605,7 +25606,7 @@ textrecipes: 1.0.6
 textreg: 0.1.5
 textreuse: 0.1.5
 textshape: 1.7.5
-textshaping: 0.3.7
+textshaping: 0.4.0
 textstem: 0.1.4
 textutils: 0.4-1
 tf: 0.3.4
@@ -26573,7 +26574,7 @@ vcd: 1.4-12
 vcdExtra: 0.8-5
 vcf2geno: '2.3'
 vcfR: 1.15.0
-vcfppR: 0.4.5
+vcfppR: 0.4.6
 vcmeta: 1.3.0
 vcov: 0.0.1
 vcpen: '1.9'
@@ -27065,7 +27066,7 @@ wrspathrow: '0.1'
 wrspathrowData: '1.0'
 wrswoR: 1.1.1
 wrswoR.benchmark: 0.2.1
-wru: 3.0.2
+wru: 3.0.3
 wsbackfit: 1.0-5
 wsjplot: 0.1.0
 wskm: 1.4.40
@@ -27218,7 +27219,7 @@ ykmeans: '1.0'
 yll: 1.0.0
 ymd: 0.1.0
 ymlthis: 0.1.7
-ympes: 1.1.0
+ympes: 1.2.0
 yodel: 1.0.0
 yonder: 0.2.0
 yorkr: 0.0.42
