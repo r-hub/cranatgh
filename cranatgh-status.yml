@@ -5245,6 +5245,7 @@ POUMM: 2.1.7
 POV: 0.1.4
 PP: 0.6.3-11
 PP3: '1.2'
+PPCDT: 0.1.0
 PPCI: 0.1.5
 PPLasso: '2.0'
 PPMR: '1.0'
@@ -6614,7 +6615,7 @@ RfEmpImp: 2.1.8
 Rfacebook: 0.6.15
 Rfast: 2.1.0
 Rfast2: 0.1.5.2
-Rfit: 0.24.6
+Rfit: 0.27.0
 RfmriVC: 1.0.4
 Rfmtool: 4.1.10
 Rfolding: '1.0'
@@ -8147,6 +8148,7 @@ Umacs: '0.924'
 Umatrix: '4.0'
 Umoments: 0.1.1
 Umpire: 2.0.10
+UnalR: 1.0.0
 UncDecomp: 1.0.1
 UncerIn2: '2.0'
 UncertainInterval: 0.7.0
@@ -8568,7 +8570,7 @@ actilifecounts: 1.1.1
 activAnalyzer: 2.1.1
 activPAL: 0.1.3
 activatr: 0.2.0
-activegp: 1.1.0
+activegp: 1.1.1
 activity: 1.3.4
 activityCounts: 0.1.2
 activityGCMM: 1.1.1
@@ -8992,6 +8994,7 @@ aratio: '1.2'
 arc: '1.4'
 arcgeocoder: 0.2.0
 arcgis: 0.1.0
+arcgisgeocode: 0.1.0
 arcgislayers: 0.2.0
 arcgisplaces: 0.1.0
 arcgisutils: 0.3.0
@@ -9054,7 +9057,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
-arrow: 15.0.1
+arrow: 16.1.0
 ars: '0.7'
 arse: 1.0.0
 arsenal: 3.6.3
@@ -9991,6 +9994,7 @@ boundingbox: 1.0.1
 boussinesq: 1.0.6
 boutliers: 1.1-2
 box: 1.2.0
+box.linters: 0.9.0
 boxcoxmix: '0.42'
 boxfilter: '0.2'
 boxly: 0.1.1
@@ -12379,7 +12383,7 @@ document: 4.0.0
 documenter: 0.1.3
 docxtools: 0.3.0
 docxtractr: 0.6.5
-dodgr: 0.2.21
+dodgr: 0.4.0
 doebioresearch: 0.1.0
 doex: '1.2'
 dogesr: 0.5.0
@@ -13135,7 +13139,7 @@ esmprep: 0.2.0
 esmtools: 1.0.1
 esotericR: '1.0'
 espadon: 1.7.0
-esquisse: 1.2.0
+esquisse: 2.0.0
 esreg: 0.6.2
 ess: 1.1.2
 essHist: 1.2.2
@@ -14068,7 +14072,7 @@ fruclimadapt: 0.4.5
 fs: 1.6.4
 fsMTS: 0.1.7
 fsbrain: 0.5.5
-fscache: 1.0.3
+fscache: 1.0.4
 fscaret: 0.9.4.4
 fsdaR: 0.9-0
 fsemipar: 1.1.1
@@ -14373,7 +14377,7 @@ gearman: 0.1-5
 geboes.score: 1.0.0
 gecko: 1.0.0
 geckor: 0.2.0
-gee: 4.13-26
+gee: 4.13-27
 gee4: 0.1.0.0
 geeCRT: 1.1.3
 geeM: 0.10.1
@@ -14646,7 +14650,7 @@ ggasym: 0.1.6
 ggautomap: 0.3.2
 ggbeeswarm: 0.7.2
 ggbiplot: 0.6.2
-ggblanket: 9.0.0
+ggblanket: 9.1.0
 ggblend: 0.1.0
 ggborderline: 0.2.0
 ggbrace: 0.1.1
@@ -15059,7 +15063,7 @@ googlePrintr: 0.0.1
 googlePublicData: 0.16.1
 googlePubsubR: 0.0.4
 googleTagManageR: 0.2.0
-googleVis: 0.7.1
+googleVis: 0.7.3
 googleadsR: 1.0.0
 googlebigquery: '0.1'
 googledrive: 2.1.1
@@ -16537,7 +16541,7 @@ jose: 1.2.0
 jot: 0.0.4
 journalabbr: 0.4.3
 joyn: 0.2.0
-jpcity: 0.1.1
+jpcity: 0.2.0
 jpeg: 0.1-10
 jpgrid: 0.3.1
 jpmesh: 2.1.0
@@ -16590,6 +16594,7 @@ jvnVaR: '1.0'
 jwutil: 1.2.3
 k5: 0.2.1
 kBestShortestPaths: 0.1.2
+kDGLM: 1.2.0
 kNNvs: 0.1.0
 kSamples: 1.2-10
 kStatistics: 2.1.1
@@ -17068,7 +17073,7 @@ libbib: 1.6.4
 libcoin: 1.0-10
 libgeos: 3.11.1-2
 libproj: 8.1.0-1
-libr: 1.3.2
+libr: 1.3.3
 librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: 0.7.3
@@ -17853,7 +17858,7 @@ medExtractR: 0.4.1
 medSTC: 1.0.0
 medScan: 1.0.2
 mederrRank: 0.1.0
-medfate: 3.2.0
+medfate: 4.3.1
 medflex: 0.6-10
 mediacloudr: 0.1.0
 mediateP: 0.2.0
@@ -18536,7 +18541,7 @@ monotonicity: 1.3.1
 monreg: 0.1.4.1
 moodef: 1.1.0
 moodleR: 1.0.1
-moodlequizR: 2.1.0
+moodlequizR: 2.1.1
 moonBook: 0.3.1
 moonsun: 0.1.3
 moose: 0.0.1
@@ -18747,6 +18752,7 @@ mugnet: 1.02.0
 muhaz: 1.2.6.4
 muir: 0.1.0
 mulSEM: '1.0'
+mulea: 1.0.0
 mulgar: 1.0.2
 mully: 2.1.38
 mulset: 1.0.0
@@ -19080,6 +19086,7 @@ neo4r: 0.1.1
 neojags: 0.1.4
 neonOS: 1.0.0
 neonPlantEcology: 1.5.0
+neonSoilFlux: 1.0.0
 neonUtilities: 2.4.2
 neonstore: 0.5.1
 neotoma: 1.7.4
@@ -19677,6 +19684,7 @@ onnx: 0.0.3
 onpoint: 1.0.5
 onsr: 1.0.2
 onsvplot: 0.3.2
+onsvtables: 0.1.0
 ontoFAST: 1.0.0
 ontologics: 0.7.0
 ontologyIndex: '2.12'
@@ -21229,7 +21237,7 @@ psoptim: '1.0'
 psp: 1.0.0
 pspatreg: 1.1.2
 pspearman: 0.3-1
-pspline: 1.0-19
+pspline: 1.0-20
 pspline.inference: 1.0.4
 psqn: 0.3.1
 psr: 0.1.0
@@ -23168,7 +23176,7 @@ rxivistr: 0.1.1
 rxode2: 2.1.2
 rxode2et: 2.0.12
 rxode2ll: 2.0.11
-rxode2parse: 2.0.18
+rxode2parse: 2.0.19
 rxode2random: 2.0.13
 rxylib: 0.2.12
 ryandexdirect: 3.6.2
@@ -23691,6 +23699,7 @@ seqMeta: 1.6.7
 seqPERM: '1.0'
 seqR: 1.0.1
 seqRFLP: 1.0.1
+seqSHP: 0.1.1
 seqest: 1.0.1
 seqgendiff: 1.2.4
 seqhandbook: 0.1.1
@@ -23828,7 +23837,7 @@ shinyAce: 0.4.2
 shinyBS: 0.61.1
 shinyChakraSlider: 0.1.0
 shinyChakraUI: 1.1.1
-shinyChatR: 1.1.0
+shinyChatR: 1.2.0
 shinyCohortBuilder: 0.2.1
 shinyCox: 1.0.1
 shinyCyJS: 1.0.0
@@ -26160,6 +26169,7 @@ trustOptim: 0.8.7.3
 trustedtimestamping: 0.2.6
 truthiness: 1.2.5
 tryCatchLog: 1.3.1
+tryr: 0.1.1
 ts.extend: 0.1.1
 ts2net: 0.1.0
 tsBSS: 1.0.0
@@ -26645,7 +26655,7 @@ viewpoly: 0.4.1
 viewscape: 1.0.0
 viewshed3d: 4.0.0
 viking: 1.0.2
-villager: 1.1.1
+villager: 2.0.0
 vimcom: 0.9-93
 vimp: 2.3.3
 vimpclust: 0.1.0
@@ -26753,6 +26763,7 @@ vrtest: '1.2'
 vscc: '0.7'
 vsd: 0.1.0
 vsgoftest: 1.0-1
+vsmi: 0.1.0
 vsp: 0.1.1
 vstdct: '0.2'
 vstsr: 1.1.0
