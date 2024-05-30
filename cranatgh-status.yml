@@ -375,6 +375,7 @@ BALLI: 0.2.0
 BAMBI: 2.3.5
 BAMD: '3.5'
 BAMMtools: 2.1.11
+BANAM: 0.2.0
 BANEScarparkinglite: 0.1.3
 BANFF: '2.0'
 BANOVA: 1.2.1
@@ -717,7 +718,7 @@ Bestie: 0.1.5
 BetaBit: '2.2'
 BetaPASS: 1.1-2
 BetterReg: 0.2.0
-BeviMed: '5.8'
+BeviMed: '5.10'
 BeyondBenford: '1.4'
 Bhat: 0.9-12
 BiBitR: 0.3.1
@@ -1491,6 +1492,7 @@ CuCubes: 0.1.0
 Cubist: 0.4.2.1
 CureAuxSP: 0.0.1
 CureDepCens: 0.1.0
+CurricularAnalytics: 1.0.0
 CustomDerivative: 0.1.1
 CustomerScoringMetrics: 1.0.0
 CustosAscensor: 0.1.0
@@ -3023,7 +3025,7 @@ GuardianR: '0.9'
 Guerry: 1.8.3
 GuessCompx: 1.0.3
 GxEScanR: 2.0.2
-GxEprs: '1.1'
+GxEprs: '1.2'
 GxM: '1.1'
 H2x2Factorial: 2.0.0
 HAC: 1.1-0
@@ -6933,7 +6935,7 @@ SCOPRO: 0.1.0
 SCOR: 1.1.2
 SCORER2: 0.99.0
 SCORNET: 0.1.1
-SCORPION: 1.0.1
+SCORPION: 1.0.2
 SCORPIUS: 1.0.9
 SCOUTer: 1.0.0
 SCPME: '1.0'
@@ -7061,7 +7063,7 @@ SLIDE: 1.0.0
 SLModels: 0.1.2
 SLOPE: 0.5.0
 SLPresElection: 1.0.0
-SLSEdesign: 0.0.2
+SLSEdesign: 0.0.3
 SLTCA: 0.1.0
 SLmisc: 1.4.1.1
 SMARTAR: 1.1.0
@@ -7600,7 +7602,7 @@ Stack: 2.0-1
 StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
 StakeholderAnalysis: '1.2'
-StanHeaders: 2.32.8
+StanHeaders: 2.32.9
 StanMoMo: 1.2.0
 StandardizeText: '1.0'
 Stat2Data: 2.0.0
@@ -9433,7 +9435,7 @@ bayesPO: 0.5.0
 bayesPop: 10.0-1
 bayesQR: '2.4'
 bayesROE: '0.2'
-bayesRecon: 0.2.0
+bayesRecon: 0.3.0
 bayesSurv: '3.7'
 bayesTFR: 7.4-2
 bayesWatch: 0.1.3
@@ -11532,7 +11534,7 @@ cslogistic: 0.1-3
 csmaps: 2023.5.22
 csmpv: 1.0.3
 csn: 1.1.3
-csodata: 1.4.2
+csodata: 1.5.0
 csound: 0.1-1
 csp: 0.1.0
 cspec: 0.1.2
@@ -11741,7 +11743,7 @@ darksky: 1.3.0
 dartR: 2.9.7
 dartR.base: '0.65'
 dartR.captive: '0.75'
-dartR.data: 1.0.2
+dartR.data: 1.0.8
 dartR.popgen: '0.32'
 dartR.sim: '0.70'
 dartR.spatial: '0.78'
@@ -13528,7 +13530,7 @@ fastWavelets: 1.0.1
 fasta: 0.1.0
 fastadi: 0.1.1
 fastai: 2.2.2
-fastbackward: 1.0.0
+fastbackward: 1.0.1
 fastbeta: 0.3.0
 fastclime: 1.4.1.1
 fastcluster: 1.2.6
@@ -13866,7 +13868,7 @@ florestal: 0.1.3
 flow: 0.2.0
 flowDiv: '2.0'
 flowTraceR: 0.1.0
-flowchart: 0.3.0
+flowchart: 0.4.0
 flower: '1.0'
 flowfield: '1.0'
 flowml: 0.1.3
@@ -14891,7 +14893,7 @@ giniVarCI: 0.0.1-3
 ginormal: 0.0.2
 giphyr: 0.2.0
 gips: 1.2.1
-giscoR: 0.4.2
+giscoR: 0.5.0
 gistr: 0.9.0
 git2r: 0.33.0
 git2rdata: 0.4.0
@@ -16630,7 +16632,7 @@ kairos: 2.1.0
 kalmanfilter: 2.1.1
 kamila: 0.1.2
 kangar00: 1.4.2
-kanjistat: 0.9.1
+kanjistat: 0.14.0
 kantorovich: 3.2.0
 kaos: 0.1.2
 kaphom: '0.3'
@@ -16765,7 +16767,7 @@ kmodR: 0.2.0
 kmscv: 0.1.0
 knitLatex: 0.9.0
 knitcitations: 1.0.12
-knitr: '1.46'
+knitr: '1.47'
 knitrBootstrap: 1.0.3
 knitrProgressBar: 1.1.0
 knitrdata: 0.6.1
@@ -18533,7 +18535,7 @@ moexer: 0.3.0
 moezipfR: 1.0.2
 mogavs: 1.1.0
 mojson: '0.1'
-mokken: 3.1.0
+mokken: 3.1.1
 moko: 1.0.3
 molaR: '5.3'
 molic: 2.0.3
@@ -19283,9 +19285,9 @@ nlmixr: 2.0.7
 nlmixr2: 2.1.1
 nlmixr2data: 2.0.9
 nlmixr2est: 2.2.2
-nlmixr2extra: 2.0.9
+nlmixr2extra: 2.0.10
 nlmixr2lib: 0.2.0
-nlmixr2plot: 2.0.8
+nlmixr2plot: 2.0.9
 nlmixr2rpt: 0.2.0
 nlmm: 1.1.0
 nlmrt: 2016.3.2
@@ -19392,7 +19394,7 @@ nonet: 0.4.0
 nonlinearICP: 0.1.2.1
 nonlinearTseries: 0.3.0
 nonmem2R: 0.2.5
-nonmem2rx: 0.1.3
+nonmem2rx: 0.1.4
 nonmemica: 1.0.8
 nonneg.cg: 0.1.6-1
 nonnest2: 0.5-7
@@ -20603,7 +20605,7 @@ pirouette: 1.6.9
 pisaRT: 2.0.2
 pitchRx: 1.8.2
 piton: 1.0.0
-pivmet: 0.5.0
+pivmet: 0.6.0
 pivot: 18.4.17
 pivotaltrackR: 0.2.0
 pivotea: 1.0.1
@@ -20963,7 +20965,7 @@ powerCompRisk: 1.0.1
 powerEQTL: 0.3.4
 powerGWASinteraction: 1.1.3
 powerHaDeX: '1.0'
-powerLATE: 0.1.1
+powerLATE: 0.1.2
 powerMediation: 0.3.4
 powerPLS: 0.1.0
 powerSurvEpi: 0.1.3
@@ -22361,7 +22363,7 @@ representr: 0.1.5
 represtools: 0.1.3
 reprex: 2.1.0
 reproducer: 0.5.3
-reproducible: 2.0.12
+reproducible: 2.1.0
 reproj: 0.4.3
 repsd: 1.0.1
 repurrrsive: 1.1.0
@@ -22544,7 +22546,7 @@ rhymer: 1.2.0
 rhype: 0.3.0
 ri: '0.9'
 ri2: 0.4.0
-riAFTBART: 0.3.2
+riAFTBART: 0.3.3
 rib: 0.20.0
 ribd: 1.7.0
 ribiosUtils: 1.5-6
@@ -23155,7 +23157,7 @@ runonce: 0.2.3
 runstats: 1.1.0
 rusda: 1.0.8
 rusk: 0.1.1
-rusquant: 1.0.5
+rusquant: 1.1.1
 rust: 1.4.2
 ruta: 1.2.0
 rutifier: 1.0.4
@@ -23558,7 +23560,7 @@ sdetorus: 0.1.10
 sdglinkage: 0.1.0
 sdm: 1.2-40
 sdmApp: 0.0.2
-sdmTMB: 0.5.0
+sdmTMB: 0.6.0
 sdmpredictors: 0.2.15
 sdmvspecies: 0.3.2
 sdnet: 2.4.1
@@ -23836,7 +23838,7 @@ sharpData: '1.4'
 sharpPen: '1.9'
 sharpeRratio: 1.4.3
 sharpr2: 1.1.1.0
-sharpshootR: '2.3'
+sharpshootR: 2.3.1
 sharx: 1.0-6
 shattering: 1.0.7
 shatteringdt: 0.1.0
@@ -24309,7 +24311,7 @@ smosr: 1.0.1
 smotefamily: 1.4.0
 smovie: 1.1.6
 smpic: 0.1.0
-smplot2: 0.2.2
+smplot2: 0.2.3
 sms: 2.3.1
 smss: 1.0-2
 smurf: 1.1.5
@@ -24351,7 +24353,7 @@ snplinkage: 1.0.0
 snplist: 0.18.2
 snpsettest: 0.1.2
 sns: 1.2.2
-snvecR: 3.9.3
+snvecR: 3.9.4
 sobir: 0.1.2
 sobolnp: 0.1.0
 soc.ca: 0.8.0
@@ -24474,7 +24476,7 @@ spacodiR: 0.13.0115
 spacom: 1.0-5
 spacyr: 1.3.0
 spaero: 0.6.0
-spagmix: 0.3-5
+spagmix: 0.4-1
 spam: 2.10-0
 spam64: 2.10-0
 spamtree: 0.2.2
@@ -24833,7 +24835,7 @@ ssrn: 0.1.0
 sss: 0.2.2
 sssc: 1.0.0
 sstModel: 1.0.0
-sstvars: 1.0.0
+sstvars: 1.0.1
 ssvd: '1.0'
 ssym: 1.5.8
 st: 1.2.7
@@ -25250,7 +25252,7 @@ survivalSL: '0.94'
 survivalVignettes: 0.1.6
 survivalmodels: 0.1.191
 survivalsvm: 0.0.5
-survivoR: 2.3.2
+survivoR: 2.3.3
 survminer: 0.4.9
 survmixer: '1.3'
 survobj: 3.1.0
@@ -25759,7 +25761,7 @@ tidydr: 0.0.5
 tidyedgar: 1.0.1
 tidyestimate: 1.1.1
 tidyfast: 0.4.0
-tidyfinance: 0.1.0
+tidyfinance: 0.2.0
 tidyfit: 0.7.1
 tidyformula: 0.1.0
 tidyfst: 1.7.8
