@@ -117,7 +117,7 @@ AOV1R: 0.1.0
 AOfamilies: '1.01'
 APAtree: 1.0.1
 APCI: 1.0.7
-APCalign: 0.1.3
+APCalign: 1.0.1
 APCanalysis: '1.0'
 APCtools: 1.0.4
 APFr: 1.0.2
@@ -1508,7 +1508,7 @@ CytobankAPIstats: '2.0'
 CytobankBridgeR: 1.0.0
 D2C: 1.2.1
 D2MCS: 1.0.1
-D3GB: '1.1'
+D3GB: '2.0'
 D3M: 0.41.1
 D3mirt: 1.1.0
 D3partitionR: 0.5.0
@@ -2146,6 +2146,7 @@ EcoSimR: 0.1.0
 EcoTroph: 1.6.1
 EcoVirtual: '1.1'
 Ecohydmod: 1.0.0
+EconAndProdEfficiency: 0.1.0
 EconDemand: '1.0'
 EconGeo: '2.0'
 EcotoneFinder: 0.2.3
@@ -2598,7 +2599,7 @@ FuzzyM: 0.1.0
 FuzzyMCDM: '1.1'
 FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
-FuzzyPovertyR: 2.0.1
+FuzzyPovertyR: 2.1.0
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
 FuzzyResampling: 0.6.3
@@ -3555,7 +3556,7 @@ JMH: 1.0.3
 JMI: 0.1.0
 JMLSD: '1.0'
 JMbayes: 0.8-85
-JMbayes2: 0.4-5
+JMbayes2: 0.5-0
 JMcmprsk: 0.9.10
 JMdesign: '1.5'
 JNplots: 0.1.1
@@ -4105,7 +4106,7 @@ MFKnockoffs: 0.9.1
 MFO: 0.1.0
 MFPCA: 1.3-10
 MFSAS: 1.0-0
-MFSIS: 0.2.0
+MFSIS: 0.2.1
 MFT: '2.0'
 MG1StationaryProbability: 0.1.2
 MGBT: 1.0.7
@@ -4929,7 +4930,7 @@ OHCSpackage: 0.1.5
 OHPL: '1.4'
 OIdata: '1.0'
 OIsurv: '0.2'
-OLCPM: 0.1.1
+OLCPM: 0.1.2
 OLScurve: 0.2.0
 OLStrajr: 0.1.0
 ONEST: 0.1.0
@@ -5013,7 +5014,7 @@ OneSampleMR: 0.1.3
 OneStep: 0.9.3
 OneTwoSamples: 1.1-0
 OnomasticDiversity: '0.1'
-OpEnHiMR: 0.1.0
+OpEnHiMR: 0.1.1
 OpVaR: '1.2'
 OpasnetUtils: '1.3'
 OpenABMCovid19: 1.0.1
@@ -5091,7 +5092,7 @@ PAICE: 1.0.1
 PALMO: 0.1.2
 PAMA: 1.2.0
 PAMhm: 0.1.2
-PAMmisc: 1.11.6
+PAMmisc: 1.12.0
 PAMpal: 1.0.0
 PAMscapes: 0.5.3
 PANACEA: 1.0.1
@@ -5459,6 +5460,7 @@ PhyloMeasures: '2.1'
 PhylogeneticEM: 1.7.0
 PhysActBedRest: '1.1'
 PhysicalActivity: 0.2-4
+PhytosanitaryCalculator: 1.1.1
 PieGlyph: 0.1.0
 PieceExpIntensity: 1.0.4
 Pijavski: 1.0.3
@@ -6628,7 +6630,7 @@ Rfast: 2.1.0
 Rfast2: 0.1.5.2
 Rfit: 0.27.0
 RfmriVC: 1.0.4
-Rfmtool: 4.1.10
+Rfmtool: 5.0.3
 Rfolding: '1.0'
 Rforestry: 0.10.0
 Rfractran: 1.0.1
@@ -6747,7 +6749,7 @@ RobustAFT: 1.4-7
 RobustANOVA: 0.3.0
 RobustBF: 0.2.0
 RobustBayesianCopas: '2.0'
-RobustCalibration: 0.5.4
+RobustCalibration: 0.5.5
 RobustEM: '1.0'
 RobustGaSP: 0.6.6
 RobustIV: 0.2.5
@@ -7360,7 +7362,7 @@ ShapleyValue: 0.2.0
 SharedHT2: '2.0'
 SharkDemography: 1.1.0
 SharpeR: 1.3.0
-SheetReader: 1.2.0
+SheetReader: 1.2.1
 ShellChron: 0.4.0
 SherlockHolmes: 1.0.1
 ShiftConvolvePoibin: 1.0.0
@@ -7514,7 +7516,7 @@ SpaDES.core: 2.0.5
 SpaDES.tools: 2.0.7
 SpaTimeClus: 1.0.1
 SpaTopic: 1.1.0
-SpaceTimeBSS: 0.3-0
+SpaceTimeBSS: 0.4-0
 SpadeR: 0.1.1
 SparkR: 3.1.2
 SparseBiplots: 4.0.1
@@ -7526,7 +7528,7 @@ SparseGrid: 0.8.2
 SparseLPM: '1.0'
 SparseLearner: 1.0-2
 SparseLogReg: 0.1.1
-SparseM: '1.82'
+SparseM: '1.83'
 SparseMDC: 0.99.5
 SparseMSE: 2.0.1
 SparseTSCGM: '4.0'
@@ -7587,7 +7589,7 @@ SplitSplitPlot: 0.0.1
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.17.0
+SqlRender: 1.18.0
 SqueakR: 1.3.0
 Sshaped: '1.1'
 Sstack: 1.0.1
@@ -8532,7 +8534,7 @@ abjData: 1.1.2
 abjutils: 0.3.2
 ablasso: '1.0'
 abmR: 1.0.10
-abn: 3.0.6
+abn: 3.1.1
 abnormality: 0.1.0
 abodOutlier: '0.1'
 abseil: 2023.8.2.1
@@ -8718,7 +8720,7 @@ agcounts: 0.6.6
 ageg: 1.0.0
 agena.ai: 1.1.1
 ageprior: 0.9.2
-ageutils: 0.0.2
+ageutils: 0.0.3
 agfh: 0.2.1
 aggTrees: 2.0.2
 agghoo: 0.1-0
@@ -8925,7 +8927,7 @@ anonymizer: 0.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
 ant: 0.0-10
-antaresEditObject: 0.6.4
+antaresEditObject: 0.7.0
 antaresProcessing: 0.18.1
 antaresRead: 2.7.0
 antaresViz: 0.18.0
@@ -8946,7 +8948,7 @@ aoos: 0.5.0
 aop: 1.0.0
 aopdata: 1.0.3
 aoristic: 1.1.1
-aorsf: 0.1.4
+aorsf: 0.1.5
 aos: 0.1.0
 apTreeshape: 1.5-0.1
 apa: 0.3.4
@@ -9139,7 +9141,7 @@ assertr: 3.0.1
 assertthat: 0.2.1
 assessor: 1.1.0
 assignPOP: 1.3.0
-assignR: 2.4.0
+assignR: 2.4.1
 assist: 3.1.9
 assocInd: 1.0.1
 assortnet: '0.20'
@@ -9234,7 +9236,7 @@ automagic: 0.5.1
 automap: 1.1-9
 automl: 1.3.2
 automultinomial: 2.0.0
-autonewsmd: 0.0.7
+autonewsmd: 0.0.8
 autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.3
@@ -9429,7 +9431,7 @@ bayesLife: 5.2-0
 bayesLopod: 1.0.1
 bayesMCClust: '1.0'
 bayesMRM: 2.4.0
-bayesMeanScale: 0.1.3
+bayesMeanScale: 0.1.4
 bayesMig: 0.4-6
 bayesPO: 0.5.0
 bayesPop: 10.0-1
@@ -9667,7 +9669,7 @@ bife: 0.7.2
 bifurcatingr: 2.1.0
 bigBits: '1.2'
 bigD: 0.2.0
-bigDM: 0.5.3
+bigDM: 0.5.4
 bigFastlm: 0.0.2
 bigGP: 0.1.8
 bigIntegerAlgos: 0.1.2
@@ -9815,7 +9817,7 @@ biosurvey: 0.1.1
 biotic: 0.1.2
 biotools: '4.2'
 bipartite: '2.20'
-bipartiteD3: 0.3.0
+bipartiteD3: 0.3.1
 bipd: '0.3'
 bipl5: 1.0.2
 biplotEZ: 1.2.0
@@ -10697,7 +10699,7 @@ clam: 2.5.0
 clampSeg: 1.1-1
 clarabel: 0.5.1
 clarifai: 0.4.2
-clarify: 0.2.0
+clarify: 0.2.1
 clarkeTest: 0.2.0
 class: 7.3-22
 classGraph: 0.7-6
@@ -11119,7 +11121,7 @@ conductor: 0.1.1
 condusco: 0.1.0
 condvis: 0.5-1
 condvis2: 0.1.2
-coneproj: '1.17'
+coneproj: '1.18'
 conf: 1.9.1
 conf.design: 2.0.0
 confReg: 0.1.3
@@ -11414,7 +11416,7 @@ crackR: 0.3-9
 cragg: 0.0.1
 cramer: 0.9-4
 crandatapkgs: 0.1.8
-crandep: 0.3.8
+crandep: 0.3.9
 crank: 1.1-2
 cranlike: 1.0.3
 cranlogs: 2.1.1
@@ -11517,7 +11519,7 @@ crypto2: 1.4.6
 cryptoQuotes: 1.3.0
 cryptoTax: 0.0.5
 cryptography: 1.0.0
-cryptorng: 0.1.2
+cryptorng: 0.1.3
 cryptotrackr: 1.2.0
 cryptoverse: 0.1.0
 cryptowatchR: 0.2.0
@@ -11639,7 +11641,7 @@ cvTools: 0.3.3
 cvam: 0.9.3
 cvap: 0.1.5
 cvar: '0.5'
-cvasi: 0.10.5
+cvasi: 1.1.0
 cvcqv: 1.0.0
 cvcrand: 0.1.1
 cvequality: 0.2.0
@@ -12956,7 +12958,7 @@ empiricalBayes: '2.1'
 empiricalFDR.DESeq2: 1.0.3
 emplik: 1.3-1
 emplik2: '1.32'
-emplikAUC: '0.3'
+emplikAUC: '0.4'
 ems: 1.3.11
 emstreeR: 3.1.2
 emu: '4.3'
@@ -13394,7 +13396,7 @@ fHMM: 1.3.0
 fICA: 1.1-2
 fImport: '4032.87'
 fMRIscrub: 0.14.5
-fMRItools: 0.4.2
+fMRItools: 0.4.7
 fMultivar: '4031.84'
 fNonlinear: '4021.81'
 fPASS: 1.0.0
@@ -13566,7 +13568,7 @@ fastrmodels: 1.0.2
 fastrtext: 0.3.4
 fastshap: 0.1.1
 fasttime: 1.1-0
-fastverse: 0.3.2
+fastverse: 0.3.3
 fat2Lpoly: 1.2.5
 faux: 1.2.1
 fauxnaif: 0.7.1
@@ -13603,7 +13605,7 @@ fda.usc: 2.1.0
 fdaACF: 1.0.0
 fdaMixed: 0.6.1
 fdaMocca: 0.1-1
-fdaPDE: 1.1-17
+fdaPDE: 1.1-18
 fdaPOIFD: 1.0.3
 fdaSP: 1.1.1
 fdacluster: 0.3.0
@@ -13695,7 +13697,7 @@ fiberLD: 0.1-8
 fic: 1.0.0
 fidap: 0.0.3
 fidelius: 0.0.2
-fido: 1.0.4
+fido: 1.1.0
 fieldRS: 0.2.3
 fields: '15.2'
 fiery: 1.2.1
@@ -14860,7 +14862,7 @@ ggvenn: 0.1.10
 ggversa: 0.0.1
 ggvis: 0.4.9
 ggvoronoi: 0.8.5
-ggwordcloud: 0.6.1
+ggwordcloud: 0.6.2
 ggx: 0.1.1
 gh: 1.4.1
 ghapps: 1.0.0
@@ -16177,7 +16179,7 @@ influxdbclient: 0.1.2
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
 infochimps: 0.3.1
-infoelectoral: 1.0.1
+infoelectoral: 1.0.2
 informR: 1.0-5
 informedSen: 1.0.7
 infotheo: 1.2.0.1
@@ -16439,7 +16441,7 @@ itertools: 0.1-3
 itertools2: 0.1.1
 itol.toolkit: 1.1.7
 itp: 1.2.1
-itraxR: 1.12.1
+itraxR: 1.12.2
 itree: '0.1'
 its: 1.1.8
 its.analysis: 1.6.0
@@ -18369,7 +18371,7 @@ mlr3cluster: 0.1.9
 mlr3data: 0.7.0
 mlr3db: 0.5.2
 mlr3fairness: 0.3.2
-mlr3fda: 0.1.1
+mlr3fda: 0.1.2
 mlr3filters: 0.8.0
 mlr3fselect: 0.12.0
 mlr3hyperband: 0.5.0
@@ -18863,7 +18865,7 @@ multiocc: 0.2.1
 multipanelfigure: 2.1.6
 multipleDL: 1.0.0
 multipleNCC: 1.2-4
-multipleOutcomes: '0.2'
+multipleOutcomes: '0.4'
 multiplestressR: 0.1.1
 multiplex: 3.1.1
 multiplyr: 0.1.1
@@ -19029,6 +19031,7 @@ nanny: 0.1.8
 nanoarrow: 0.5.0
 nanonext: 1.0.0
 nanop: 2.0-6
+nanoparquet: 0.2.0
 nanostringr: 0.4.1
 nanotime: 0.3.7
 naptanr: 1.0.1
@@ -19114,7 +19117,7 @@ neo4jshell: 0.1.2
 neo4r: 0.1.1
 neojags: 0.1.4
 neonOS: 1.0.0
-neonPlantEcology: 1.5.0
+neonPlantEcology: 1.6.1
 neonSoilFlux: 1.0.0
 neonUtilities: 2.4.2
 neonstore: 0.5.1
@@ -19282,7 +19285,7 @@ nlmeODE: '1.1'
 nlmeU: 0.70-9
 nlmeVPC: '2.6'
 nlmixr: 2.0.7
-nlmixr2: 2.1.1
+nlmixr2: 2.1.2
 nlmixr2data: 2.0.9
 nlmixr2est: 2.2.2
 nlmixr2extra: 2.0.10
@@ -20971,7 +20974,7 @@ powerPLS: 0.1.0
 powerSurvEpi: 0.1.3
 powerbiR: 0.1.0
 powerbydesign: 1.0.5
-powerindexR: '1.5'
+powerindexR: '1.6'
 powerjoin: 0.1.0
 powerlmm: 0.4.0
 powerly: 1.8.6
@@ -21487,6 +21490,7 @@ qrnn: 2.1.1
 qrsvm: 0.2.1
 qs: 0.26.3
 qsimulatR: 1.1.1
+qslice: 0.3.1
 qsort: 0.2.3
 qsplines: 1.0.1
 qspray: 3.0.0
@@ -21744,6 +21748,7 @@ rRofex: 2.0.6
 rSAFE: 0.1.4
 rSARP: 1.0.0
 rSCA: '3.1'
+rSDI: 0.2.1
 rSEA: 2.1.1
 rSFA: '1.5'
 rSHAPE: 0.3.2
@@ -21923,7 +21928,7 @@ ratelimitr: 0.4.1
 ratematrix: 1.2.4
 rater: 1.3.1
 rateratio.test: '1.1'
-raters: 2.0.3
+raters: 2.0.4
 ratesci: 0.4-0
 ratetables: 1.0-2
 ratioOfQsprays: 1.0.0
@@ -23117,7 +23122,7 @@ rtms: 0.2.0
 rtodoist: 0.1.0
 rtoot: 0.3.4
 rtop: 0.6-9
-rtpcr: 1.0.8
+rtpcr: 1.0.9
 rtrek: 0.4.0
 rtrend: 0.1.5
 rtrends: 0.1.0
@@ -23366,7 +23371,7 @@ sasMap: 1.0.0
 sasfunclust: 1.0.0
 sasr: 0.1.2
 sass: 0.4.9
-sassy: 1.2.4
+sassy: 1.2.5
 satdad: '1.1'
 sate: 2.1.0
 satellite: 1.0.5
@@ -23517,7 +23522,7 @@ scquantum: 1.0.0
 scraEP: '1.2'
 scrapeR: 0.1.8
 scrappy: 0.0.1
-screenshot: 0.9.0
+screenshot: 0.9.1
 scribe: 0.3.0
 scrime: 1.3.5
 script: 0.1.1
@@ -23600,7 +23605,7 @@ secrettext: 0.1.0
 secrlinear: 1.2.2
 secsse: 3.1.0
 sectorgap: 0.1.0
-secuTrialR: 1.1.1
+secuTrialR: 1.3.3
 secure: '0.6'
 securitytxt: 0.1.1
 sedproxy: 0.7.5
@@ -23828,7 +23833,7 @@ shapeNA: 0.0.2
 shapeR: 1.0-1
 shapefiles: 0.7.2
 shapes: 1.2.7
-shapley: '0.1'
+shapley: '0.3'
 shapper: 0.1.3
 shapr: 0.2.2
 shapviz: 0.9.3
@@ -23872,7 +23877,7 @@ shinyChakraSlider: 0.1.0
 shinyChakraUI: 1.1.1
 shinyChatR: 1.2.0
 shinyCohortBuilder: 0.2.1
-shinyCox: 1.0.1
+shinyCox: 1.1.0
 shinyCyJS: 1.0.0
 shinyDND: 0.1.0
 shinyDatetimePickers: 1.2.0
@@ -23959,7 +23964,7 @@ shinyscreenshot: 0.2.1
 shinyservicebot: 0.1.0
 shinystan: 2.6.0
 shinysurveys: 0.2.0
-shinytest: 1.5.4
+shinytest: 1.6.1
 shinytest2: 0.3.2
 shinythemes: 1.2.0
 shinytitle: 0.1.0
@@ -24483,7 +24488,7 @@ spamtree: 0.2.2
 spanel: '0.1'
 spanish: 0.4.2
 spanr: '1.0'
-spant: 2.20.0
+spant: 2.21.0
 sparc: 0.9.0
 sparcl: 1.0.4
 spareserver: 1.0.1
@@ -24537,14 +24542,14 @@ sparta: 0.8.4
 spartan: 3.0.2
 sparvaride: 0.1.0
 spass: '1.3'
-spatPomp: 0.34.2
+spatPomp: 0.35.0
 spatclus: 1.0-3
 spatcounts: '1.1'
 spate: 1.7.5
 spatgeom: 0.3.0
 spatgraphs: '3.4'
 spathial: 0.1.2
-spaths: 1.1.1
+spaths: 1.1.2
 spatial: 7.3-17
 spatial.gev.bma: '1.0'
 spatial.tools: 1.6.2
@@ -24552,7 +24557,7 @@ spatialClust: 1.1.1
 spatialCovariance: 0.6-9
 spatialEco: 2.0-2
 spatialRF: 1.1.4
-spatialTIME: 1.3.4-3
+spatialTIME: 1.3.4-4
 spatialTailDep: 1.0.2
 spatialfil: '0.15'
 spatialfusion: 0.6-6
@@ -25565,7 +25570,7 @@ tensor: '1.5'
 tensorA: 0.36.2.1
 tensorBF: 1.0.2
 tensorBSS: 0.3.8
-tensorEVD: 0.1.2
+tensorEVD: 0.1.3
 tensorFun: 0.1.1
 tensorMiss: 1.1.1
 tensorTS: 1.0.2
@@ -25892,7 +25897,7 @@ tinysnapshot: 0.0.5
 tinyspotifyr: 0.2.2
 tinytable: 0.3.0
 tinytest: 1.4.1
-tinytest2JUnit: 1.0.3
+tinytest2JUnit: 1.1.2
 tinytex: '0.51'
 tinythemes: 0.0.2
 tinytiger: 0.0.8
