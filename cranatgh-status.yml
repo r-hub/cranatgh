@@ -1136,7 +1136,7 @@ CVR: 0.1.1
 CVST: 0.2-3
 CVThresh: 1.1.2
 CVTuningCov: '1.0'
-CVXR: 1.0-12
+CVXR: 1.0-13
 CVarE: '1.1'
 CVcalibration: 1.0-1
 CVglasso: '1.0'
@@ -1310,6 +1310,7 @@ CodelistGenerator: '3.0'
 CohensdpLibrary: 0.5.10
 CohortAlgebra: 0.2.0
 CohortCharacteristics: 0.2.0
+CohortConstructor: 0.1.0
 CohortExplorer: 0.1.0
 CohortPlat: 1.0.5
 CohortSurvival: 0.5.1
@@ -2829,7 +2830,7 @@ GSMX: '1.3'
 GSNA: 0.1.4.2
 GSODR: 4.0.0
 GSSE: '0.1'
-GSSTDA: 0.1.3
+GSSTDA: 1.0.0
 GSelection: 0.1.0
 GSparO: '1.0'
 GTDL: 1.0.0
@@ -2936,6 +2937,7 @@ GeoWeightedModel: 1.0.3
 GeoXp: 1.6.2
 GeodRegr: 0.2.0
 GeodesiCL: 1.0.0
+GeomArchetypal: 1.0.1
 GeomComb: '1.0'
 GermaParl: 1.5.2
 GerminaR: 2.1.4
@@ -3994,7 +3996,7 @@ MASS: 7.3-60.2
 MASSExtra: 1.2.2
 MASSI: '1.1'
 MASSTIMATE: 2.0-1
-MAT: 2.3.1
+MAT: 2.3.2
 MATA: 0.7.1
 MATTOOLS: '1.1'
 MAVE: 1.3.11
@@ -11565,7 +11567,7 @@ ctest: 0.9-21
 ctf: 0.1.0
 ctgdist: 0.1.0
 ctgt: 2.0.1
-cthist: 2.1.6
+cthist: 2.1.9
 cthresh: '4.5'
 cthreshER: 1.1.0
 ctl: 1.0.0-10
@@ -12453,7 +12455,7 @@ dpcR: '0.5'
 dpcc: 1.0.0
 dpcid: '1.0'
 dpglasso: '1.0'
-dplR: 1.7.6
+dplR: 1.7.7
 dplRCon: '1.0'
 dplbnDE: 0.1.3
 dplyr: 1.1.4
@@ -16028,7 +16030,7 @@ ie2miscdata: 1.0.4
 ieeeround: 0.2-0
 iemisc: 1.0.4
 iemiscdata: 1.0.1
-iemisctext: 1.0.0
+iemisctext: 1.0.1
 ieugwasr: 1.0.0
 ifCNVR: 0.1.0
 ifa: '7.0'
@@ -17173,7 +17175,7 @@ lingmatch: 1.0.7
 lingtypology: 1.1.17
 linguisticsdown: 1.2.0
 link: 2024.4.0
-link2GI: 0.5-3
+link2GI: 0.6-1
 linkR: 1.1.1
 linkcomm: 1.0-14
 linkedInadsR: 0.1.0
@@ -19272,6 +19274,7 @@ nipnTK: 0.2.0
 nitrcbot: '1.2'
 nivm: '0.5'
 nixmass: 1.0.2
+nixtlar: 0.5.2
 njgeo: 0.1.0
 njtr1: 0.3.2
 nlADG: 0.1-0
@@ -23157,6 +23160,7 @@ ruler: 0.3.0
 rules: 1.0.2
 rumidas: 0.1.2
 ruminate: 0.2.4
+runDRT: 0.1.0
 runMCMCbtadjust: 1.1.0
 runStat: '1.1'
 runcharter: 0.2.0
@@ -23373,7 +23377,7 @@ sarp.snowprofile.pyface: 0.1.3
 sars: 1.3.6
 sarsop: 0.6.14
 sas7bdat: '0.7'
-sasLM: 0.10.3
+sasLM: 0.10.4
 sasMap: 1.0.0
 sasfunclust: 1.0.0
 sasr: 0.1.2
@@ -24230,7 +24234,7 @@ slca: 1.0.0
 slcm: 0.1.0
 sld: 1.0.1
 sleekts: 1.0.2
-sleeperapi: 1.1.0
+sleeperapi: 1.1.1
 sleepr: 0.3.0
 sleepwalk: 0.3.2
 sleev: 1.0.3
@@ -26036,6 +26040,7 @@ tpAUC: 2.1.1
 tpc: '1.0'
 tpe: 1.0.1
 tpfp: 0.0.1
+tpm: 2.0.2
 tpn: '1.8'
 tpr: 0.3-3
 tpsDesign: '1.3'
@@ -27055,7 +27060,7 @@ wmlf: 0.1.2
 wmm: 1.1.1
 wmtsa: 2.0-3
 wmwpow: 0.1.3
-wnl: 0.8.0
+wnl: 0.8.1
 wnominate: '1.4'
 wodds: 0.1.0
 woe: '0.2'
