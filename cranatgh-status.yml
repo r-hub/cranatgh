@@ -1171,7 +1171,7 @@ CatDyn: 1.1-1
 CatEncoders: 0.1.1
 CatPredi: '1.3'
 CatReg: 2.0.3
-CatastRo: 0.3.1
+CatastRo: 0.4.0
 CateSelection: '1.0'
 CauchyCP: 0.1.1
 CausCor: 0.1.3
@@ -1308,7 +1308,7 @@ CodataGS: '1.43'
 CodeDepends: 0.6.6
 CodelistGenerator: '3.0'
 CohensdpLibrary: 0.5.10
-CohortAlgebra: 0.2.0
+CohortAlgebra: 0.2.1
 CohortCharacteristics: 0.2.0
 CohortConstructor: 0.1.0
 CohortExplorer: 0.1.0
@@ -1545,7 +1545,7 @@ DBEST: '1.8'
 DBFTest: '1.0'
 DBGSA: '1.2'
 DBHC: 0.0.3
-DBI: 1.2.2
+DBI: 1.2.3
 DBI.RODBC: 0.1-2
 DBI.RPgSQL: 0.1-2
 DBIsqldf: 0.9.9-2
@@ -3049,7 +3049,7 @@ HCTR: 0.1.1
 HCV: 1.2.0
 HCmodelSets: 1.1.3
 HDBRR: 1.1.4
-HDCD: '1.0'
+HDCD: '1.1'
 HDCI: 1.0-2
 HDCurves: 0.1.2
 HDDesign: '1.1'
@@ -3690,7 +3690,7 @@ L1pack: 0.41-245
 L2DensityGoFtest: 0.6.0
 L2E: '2.0'
 L2hdchange: '1.0'
-LA: '2.2'
+LA: '2.3'
 LAD: 0.1.0
 LAGOSNE: 2.0.3
 LAIr: 0.3.0
@@ -6633,7 +6633,7 @@ Rfast: 2.1.0
 Rfast2: 0.1.5.2
 Rfit: 0.27.0
 RfmriVC: 1.0.4
-Rfmtool: 5.0.3
+Rfmtool: 5.0.4
 Rfolding: '1.0'
 Rforestry: 0.10.0
 Rfractran: 1.0.1
@@ -6890,7 +6890,7 @@ SAMUR: '1.1'
 SAMURAI: 1.2.1
 SAMprior: 1.1.1
 SAMtool: 1.6.4
-SANple: 0.1.0
+SANple: 0.1.1
 SANvi: 0.1.1
 SAP: '1.0'
 SAPP: 1.0.9-1
@@ -7110,7 +7110,7 @@ SNPmaxsel: 1.0-3
 SNPtools: '1.1'
 SNSFdatasets: 0.1.1
 SNSchart: 1.4.0
-SNSeg: 1.0.2
+SNSeg: 1.0.3
 SNSequate: 1.3-5
 SNVLFDR: 1.0.1
 SNscan: '1.0'
@@ -7517,7 +7517,7 @@ SpaCCr: 0.1.0
 SpaCOAP: '1.2'
 SpaDES: 2.0.11
 SpaDES.addins: 0.1.4
-SpaDES.core: 2.0.5
+SpaDES.core: 2.1.0
 SpaDES.tools: 2.0.7
 SpaTimeClus: 1.0.1
 SpaTopic: 1.1.0
@@ -9806,7 +9806,7 @@ biometryassist: 1.2.0
 biomod2: 4.2-5
 bionetdata: '1.1'
 biopara: '1.5'
-biopixR: 0.2.4
+biopixR: 1.0.0
 bioplots: 0.0.1
 bioregion: 1.1.1
 biorxivr: 1.0.2
@@ -11524,7 +11524,7 @@ crypto2: 1.4.6
 cryptoQuotes: 1.3.1
 cryptoTax: 0.0.5
 cryptography: 1.0.0
-cryptorng: 0.1.3
+cryptorng: 0.1.4
 cryptotrackr: 1.2.0
 cryptoverse: 0.1.0
 cryptowatchR: 0.2.0
@@ -14102,7 +14102,7 @@ fruclimadapt: 0.4.5
 fs: 1.6.4
 fsMTS: 0.1.7
 fsbrain: 0.5.5
-fscache: 1.0.4
+fscache: 1.0.5
 fscaret: 0.9.4.4
 fsdaR: 0.9-0
 fsemipar: 1.1.1
@@ -14210,7 +14210,7 @@ fwildclusterboot: 0.13.0
 fwlplot: 0.2.0
 fwsim: 0.3.4
 fxTWAPLS: 0.1.2
-fxl: 1.6.3
+fxl: 1.7.0
 fxregime: 1.0-4
 fxtract: 0.9.4
 fy: 0.4.2
@@ -14887,7 +14887,7 @@ giacR: 1.0.1
 gibasa: 1.1.0
 gibble: 0.4.0
 gibbs.met: 1.1-3
-gie: 0.1.1
+gie: 0.1.2
 giedata: 0.1.1
 gif: 0.1.1
 gifski: 1.12.0-2
@@ -14974,7 +14974,7 @@ glmmboot: 0.6.0
 glmmfields: 0.1.8
 glmmrBase: 0.8.1
 glmmrMCML: 0.2.2
-glmmrOptim: 0.3.4
+glmmrOptim: 0.3.5
 glmmsr: 0.2.3
 glmnet: 4.1-8
 glmnetSE: 0.0.1
@@ -15449,7 +15449,7 @@ happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
 harbinger: 1.0.787
-hardhat: 1.3.1
+hardhat: 1.4.0
 harmonicmeanp: 3.0.1
 harmonizer: 0.3.2
 harmony: 1.2.0
@@ -15604,7 +15604,7 @@ hhsmm: 0.4.0
 hht: 2.1.6
 hiPOD: '1.0'
 hibayes: 3.0.3
-hicp: 0.5.0
+hicp: 0.5.1
 hiddenf: '2.0'
 hidecan: 1.1.0
 hidetify: 0.0.1
@@ -17896,6 +17896,7 @@ medSTC: 1.0.0
 medScan: 1.0.2
 mederrRank: 0.1.0
 medfate: 4.3.1
+medfateland: 2.4.3
 medflex: 0.6-10
 mediacloudr: 0.1.0
 mediateP: 0.2.0
@@ -18536,7 +18537,7 @@ modiscloud: '0.14'
 modmarg: 0.9.6
 modnets: 0.9.0
 modopt.matlab: 1.0-2
-modsem: 0.1.3
+modsem: 0.1.4
 moduleColor: 1.8-4
 modules: 0.13.0
 modygliani: '1.0'
@@ -19787,7 +19788,7 @@ opentripplanner: 0.5.2
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
 openxlsx: 4.2.5.2
-openxlsx2: '1.6'
+openxlsx2: '1.7'
 opera: 1.2.0
 operator.tools: 1.6.3
 operators: 0.1-8
@@ -20890,7 +20891,7 @@ pomcheckr: 0.1.1
 pomdp: 1.2.3
 pomdpSolve: 1.0.4
 pomodoro: 3.8.0
-pomp: '5.8'
+pomp: '5.9'
 pompom: 0.2.1
 pompp: 0.1.3
 pooh: 0.3-2
@@ -21785,7 +21786,7 @@ rTensor2: 2.0.0
 rTephra: '0.1'
 rTorch: 0.4.2
 rTwig: 1.0.2
-rUM: 1.0.2
+rUM: 2.0.0
 rUnemploymentData: 1.1.0
 rWBclimate: 0.1.3
 rWCVP: 1.2.4
@@ -21951,7 +21952,7 @@ ravedash: 0.1.2
 raveio: 0.9.0
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravetools: 0.1.5
+ravetools: 0.1.6
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -23124,7 +23125,7 @@ rtimicropem: 1.4.0
 rtip: 1.1.1
 rtist: 1.0.0
 rtk: 0.2.6.1
-rtkore: 1.6.10
+rtkore: 1.6.12
 rtkpp: 0.9.2
 rtlr: 0.1.0
 rtmpt: 2.0-1
@@ -23305,7 +23306,7 @@ saens: 0.1.0
 saery: '1.0'
 safeBinaryRegression: 0.1-3
 safedata: 1.1.3
-safejoin: 0.1.0
+safejoin: 0.2.0
 safer: 0.2.1
 safestats: 0.8.7
 safetensors: 0.1.2
@@ -24621,7 +24622,7 @@ spe: 1.1.2
 speakr: 3.2.2
 speaq: 2.7.0
 speaq2: 0.1.0
-spearmanCI: '1.0'
+spearmanCI: '1.1'
 spec: 0.1.9
 speccalt: 0.1.1
 speccurvieR: 0.3.0
@@ -26503,7 +26504,7 @@ usa: 0.1.2
 uscoauditlog: 1.0.3
 usdampr: 1.0.1
 usdarnass: 0.1.0
-usdata: 0.2.0
+usdata: 0.3.1
 usdc: 0.1.0
 usdm: 2.1-7
 usdoj: 1.1.0
