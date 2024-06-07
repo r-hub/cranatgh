@@ -768,6 +768,7 @@ BioMedR: 1.2.1
 BioPET: 0.2.2
 BioPETsurv: 0.1.0
 BioPhysConnectoR: 1.6-10
+BioPred: 1.0.1
 BioProbability: '1.0'
 BioRssay: 1.1.0
 BioStatR: 4.0.1
@@ -957,7 +958,7 @@ CFAcoop: 1.0.0
 CFC: 1.2.0
 CFF: '1.0'
 CFL: '0.1'
-CFO: 1.1.1
+CFO: 1.2.1
 CFilt: 0.2.1
 CFtime: 1.4.0
 CGE: 0.3.3
@@ -1286,6 +1287,7 @@ ClusterBootstrap: 1.1.2
 ClusterR: 1.3.2
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.4
+ClusterVAR: 0.0.6
 ClusteredMutations: 1.0.1
 Clustering: 1.7.10
 CoClust: 0.3-2
@@ -1503,7 +1505,7 @@ CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
 CvmortalityMult: 1.0.2
-Cyclops: 3.4.0
+Cyclops: 3.4.1
 CytOpT: 0.9.4
 CytoSimplex: 0.1.1
 CytobankAPI: 2.2.1
@@ -1696,7 +1698,7 @@ DPpack: 0.1.0
 DPpackage: 1.1-7.4
 DPtree: 1.0.1
 DPw: 1.1.3
-DQAgui: 0.2.3
+DQAgui: 0.2.4
 DQAstats: 0.3.5
 DR.SC: '3.4'
 DRAFT: 0.3.0
@@ -2017,7 +2019,7 @@ EEMDelm: 0.1.1
 EEMDlstm: 0.1.0
 EESPCA: 0.7.0
 EFA.MRFA: 1.1.2
-EFA.dimensions: 0.1.8.1
+EFA.dimensions: 0.1.8.4
 EFAtools: 0.4.4
 EFAutilities: 2.1.3
 EFDR: '1.3'
@@ -3470,6 +3472,7 @@ IndexNumR: 0.6.0
 IndexNumber: 1.3.2
 IndexWizard: 0.2.1.0
 IndianTaxCalc: 1.0.2
+Indicator: 0.1.1
 InfDim: '1.0'
 InfNet: '0.1'
 InferenceSMR: 1.0.2
@@ -4092,6 +4095,7 @@ MED: 0.1.0
 MEDITS: 0.1.7
 MEDseq: 1.4.1
 MEET: 5.1.1
+MEFM: 0.1.1
 MEGENA: 1.3.7
 MEMSS: 0.9-3
 MEPDF: '3.0'
@@ -4170,6 +4174,7 @@ ML.MSBD: 1.2.1
 ML2Pvae: 1.0.0.1
 MLCIRTwithin: 2.1.1
 MLCM: 0.4.3
+MLCOPULA: 1.0.0
 MLDA: '2.0'
 MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
@@ -4337,6 +4342,7 @@ MUCflights: 0.0-3
 MUS: 0.1.6
 MVA: 1.0-8
 MVB: '1.1'
+MVET: 0.1.0
 MVLM: 0.1.4
 MVN: '5.9'
 MVNBayesian: 0.0.8-11
@@ -8682,7 +8688,7 @@ adklakedata: 0.6.1
 adlift: 1.4-5
 admiral: 1.0.2
 admiral.test: 0.7.0
-admiraldev: 1.0.0
+admiraldev: 1.1.0
 admiralonco: 1.0.0
 admiralophtha: 1.0.0
 admiralvaccine: 0.2.0
@@ -11147,7 +11153,7 @@ confidence: 1.1-2
 config: 0.3.2
 configr: 0.3.5
 configural: 0.1.5
-confintROB: '1.0'
+confintROB: 1.0-1
 confinterpret: 1.0.0
 confintr: 1.0.2
 conflicted: 1.2.0
@@ -11169,7 +11175,7 @@ conjurer: 1.7.1
 conleyreg: 0.1.7
 conmet: 0.1.0
 connect3: 0.1.0
-connectapi: 0.1.3.1
+connectapi: 0.2.0
 connectedness: 0.2.2
 connections: 0.2.0
 connectoModa: 1.0.0
@@ -12557,7 +12563,7 @@ dsos: 0.1.2
 dsr: 0.2.2
 dsrTest: 1.0.0
 dssd: 1.0.2
-dst: 1.6.0
+dst: 1.7.0
 dstabledist: 0.1.0
 dstack: 0.2.1
 dstat: 1.0.4
@@ -12722,7 +12728,7 @@ easypower: 1.0.2
 easyr: 0.5-11
 easyreg: '4.0'
 easystab: '1.0'
-easystats: 0.7.1
+easystats: 0.7.2
 eat: 0.1.4
 eatATA: 1.1.2
 eatDB: 0.5.0
@@ -14427,7 +14433,7 @@ geeM: 0.10.1
 geeVerse: 0.1.0
 geeasy: 0.1.2
 geecure: 1.0-6
-geepack: 1.3.10
+geepack: 1.3.11
 geesmv: '1.3'
 geessbin: 0.1.2
 geex: 1.1.1
@@ -14476,7 +14482,7 @@ geneNetBP: 2.0.1
 geneSLOPE: 0.38.2
 geneSignatureFinder: 2014.02.17
 genefu: 1.0.9
-genekitr: 1.2.5
+genekitr: 1.2.7
 genemodel: 1.1.0
 genepi: 1.0.3
 genepop: 1.2.2
@@ -15856,7 +15862,7 @@ hydroscoper: 1.4.1
 hydrostats: 0.2.9
 hydrotoolbox: 1.1.2
 hyfo: 1.4.6
-hyper.fit: 1.1.1
+hyper.fit: 1.2.1
 hyper2: 3.1-0
 hyperSMURF: '2.0'
 hyperSpec: 0.100.2
@@ -15922,7 +15928,7 @@ iMRMC: 2.0.0
 iMediate: 0.5.5
 iMessager: '1.0'
 iNEXT: 3.0.1
-iNEXT.3D: 1.0.4
+iNEXT.3D: 1.0.5
 iNEXT.4steps: 1.0.0
 iNEXT.beta3D: 1.0.2
 iNOTE: '1.0'
@@ -16051,6 +16057,7 @@ ifCNVR: 0.1.0
 ifa: '7.0'
 ifaTools: '0.23'
 ifctools: 0.3.6
+ifo: 0.1.0
 ifpd: 0.1.0
 ifs: 0.1.10
 ifultools: 2.0-26
@@ -18239,7 +18246,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 1.0.0
+mirai: 1.1.0
 mirai.promises: 0.5.0
 mirf: '1.0'
 mirt: '1.41'
@@ -18500,7 +18507,7 @@ mod: 0.1.3
 mod09nrt: '0.14'
 mod2rm: 0.2.1
 modACDC: 2.0.1
-modEvA: 3.13.3
+modEvA: '3.17'
 modMax: '1.1'
 modQR: 0.1.3
 modTempEff: 1.5.2
@@ -19286,7 +19293,7 @@ nimbleAPT: 1.0.6
 nimbleCarbon: 0.2.5
 nimbleEcology: 0.4.1
 nimbleHMC: 0.2.1
-nimbleNoBounds: 1.0.2
+nimbleNoBounds: 1.0.3
 nimbleSCR: 0.2.1
 nimbleSMC: 0.11.0
 nipals: '0.8'
@@ -19898,7 +19905,7 @@ ordinalNet: '2.12'
 ordinalRR: '1.1'
 ordinalbayes: 0.1.1
 ordinalgmifs: 1.0.8
-ordinalpattern: 0.2.3
+ordinalpattern: 0.2.4
 ordr: 0.1.1
 ore: 1.7.4.1
 oreo: '1.0'
@@ -20068,7 +20075,7 @@ palasso: 0.0.9
 pald: 0.0.4
 paleoDiv: 0.3.0
 paleoMAS: 2.0-1
-paleoTS: 0.5.3
+paleoTS: 0.6.1
 paleoTSalt: 0.1-1
 paleobioDB: 1.0.0
 paleobuddy: 1.0.0
@@ -20492,7 +20499,7 @@ phantom: 0.1.3
 pharmaRTF: 0.1.4
 pharmaverse: 0.0.2
 pharmaverseadam: 0.2.0
-pharmaversesdtm: 0.2.0
+pharmaversesdtm: 1.0.0
 pharmr: 1.0.0
 phase: 1.2.9
 phase1PRMD: 1.0.2
@@ -21764,7 +21771,7 @@ rODE: 0.99.6
 rPACI: 0.2.2
 rPAex: 1.0.5
 rPBK: 0.2.4
-rPDBapi: '1.2'
+rPDBapi: '1.3'
 rPackedBar: 0.2.2
 rPanglaoDB: 0.2.1
 rPlant: '2.16'
@@ -22569,7 +22576,7 @@ rhandsontable: 0.3.8
 rhcoclust: 2.0.0
 rheroicons: 1.0.0
 rhierbaps: 1.1.4
-rhino: 1.7.0
+rhino: 1.8.0
 rhli: 0.0.2
 rhmc: 1.0.0
 rhmmer: 0.1.0
@@ -23112,6 +23119,7 @@ rsubgroup: '1.1'
 rsunlight: 0.7.0
 rsurface: 1.1.0
 rsurfer: '0.2'
+rsurv: 0.0.1
 rsurveycto: 0.1.6
 rsvd: 1.0.5
 rsvddpd: 1.0.0
@@ -23320,7 +23328,7 @@ saeRobust: 0.5.0
 saeSim: 0.11.0
 saeTrafo: 1.0.3
 saebnocov: 0.1.0
-saeczi: 0.1.3
+saeczi: 0.2.0
 saeeb: 0.1.0
 saekernel: 0.1.1
 saemix: '3.3'
@@ -23718,7 +23726,7 @@ semicontMANOVA: 0.1-8
 semidist: 0.1.0
 seminr: 2.3.2
 semisupKernelPCA: 0.1.5
-semlbci: 0.10.4
+semlbci: 0.11.2
 semmcci: 1.1.4
 semmcmc: 0.0.6
 semnar: 0.8.1
@@ -25332,7 +25340,7 @@ svenssonm: 0.1.0
 svgPanZoom: 0.3.4
 svgViewR: 1.4.3
 svglite: 2.1.3
-svgtools: 1.1.0
+svgtools: 1.1.2
 svines: 0.2.3
 svmadmm: '0.3'
 svmpath: '0.970'
@@ -25465,7 +25473,7 @@ tables: 0.9.25
 tableschema.r: 1.1.2
 tablesgg: 0.9-1
 tablet: 0.6.8
-tablexlsx: 0.1.0
+tablexlsx: 1.0.0
 tabnet: 0.5.0
 taboolaR: 0.1.0
 tabplot: 1.3-3
@@ -26778,7 +26786,7 @@ vismeteor: 1.8.5
 visova: '1.1'
 visreg: 2.7.0
 vistime: 1.2.4
-vistla: 2.0.1
+vistla: 2.0.2
 vistributions: 0.1.2
 visualFields: 1.0.1
 visualR: 2.0.2
@@ -26791,7 +26799,7 @@ vita: 1.0.0
 vitae: 0.5.4
 vital: 1.0.0
 vitality: '1.3'
-vivainsights: 0.5.2
+vivainsights: 0.5.3
 vivaldi: 1.0.1
 vivid: 0.2.8
 vivo: 0.2.1
@@ -27131,7 +27139,7 @@ worrrd: 0.1.0
 wosr: 0.3.0
 wowa: 1.0.2
 woylier: 0.0.5
-wpa: 1.9.0
+wpa: 1.9.1
 wpp2008: 1.0-1
 wpp2010: 1.2-0
 wpp2012: 2.2-1
