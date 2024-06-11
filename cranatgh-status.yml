@@ -2443,7 +2443,7 @@ FUNLDA: '1.1'
 FUNTA: 0.1.0
 FWDselect: 2.1.0
 FWRGB: 0.1.0
-FaaSr: 1.2.1
+FaaSr: 1.3.0
 FacPad: '3.0'
 FactMixtAnalysis: '1.0'
 FactoClass: 1.2.9
@@ -2874,7 +2874,7 @@ GameTheoryAllocation: '1.0'
 GammaTest: '2.1'
 Gammareg: 3.0.1
 GapAnalysis: 1.0.2
-GauPro: 0.2.11
+GauPro: 0.2.12
 GaussSuppression: 0.8.5
 GaussianHMM1d: 1.1.1
 GeDS: 0.2.2
@@ -3071,7 +3071,7 @@ HDOMDesign: 1.0-1
 HDPenReg: 0.94.9
 HDRFA: 0.1.4
 HDShOP: 0.1.5
-HDSinRdata: 0.1.1
+HDSinRdata: 0.1.2
 HDSpatialScan: 1.0.4
 HDStIM: 0.1.0
 HDTSA: 1.0.3
@@ -3295,6 +3295,7 @@ ICV: '1.0'
 ICcalib: 1.0.8
 ICcforest: 0.5.1
 ICglm: 0.1.0
+ICompELM: 0.1.0
 ICsurv: 1.0.1
 ICtest: 0.3-5
 ICvectorfields: 0.1.2
@@ -4821,7 +4822,7 @@ NSUM: '1.0'
 NScluster: 1.3.6-1
 NTLKwIEx: 0.1.0
 NTS: 1.1.3
-NTSS: 0.1.2
+NTSS: 0.1.3
 NTsets: '1.0'
 NU.Learning: '1.5'
 NUCOMBog: 1.0.4.2
@@ -5106,7 +5107,7 @@ PAICE: 1.0.1
 PALMO: 0.1.2
 PAMA: 1.2.0
 PAMhm: 0.1.2
-PAMmisc: 1.12.0
+PAMmisc: 1.12.1
 PAMpal: 1.0.0
 PAMscapes: 0.5.3
 PANACEA: 1.0.1
@@ -5574,6 +5575,7 @@ PredictABEL: 1.2-4
 PredictTestbench: 1.1.3
 PredictionR: 1.0-12
 PredictiveRegression: 0.1-4
+PredictorSelect: 0.1.0
 PresenceAbsence: 1.1.11
 PressPurt: 1.0.2
 PrettyCols: 1.0.1
@@ -6812,7 +6814,7 @@ Rrdap: 1.0.7
 Rrdrand: 0.1-16
 Rrelperm: 0.1.0
 Rrepest: 1.3.0
-RsSimulx: '2023.1'
+RsSimulx: '2024.1'
 Rsac: 0.1-8
 Rsagacmd: 0.4.2
 Rsampletrees: 1.0.3
@@ -6823,7 +6825,7 @@ Rsfar: 0.0.1
 Rsge: 0.6.3
 Rsgf: 1.0.0
 RsimMosaic: 1.0.3
-Rsmlx: 2023.1.5
+Rsmlx: 2024.1.0
 Rsolnp: '1.16'
 Rsomoclu: 1.7.6
 Rspc: 1.2.2
@@ -9097,6 +9099,7 @@ arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
 arrow: 16.1.0
+arrowheadr: 1.0.1
 ars: '0.7'
 arse: 1.0.0
 arsenal: 3.6.3
@@ -9531,7 +9534,7 @@ bcROCsurface: 1.0-6
 bcRep: 1.3.6
 bcTSNE: 0.11.1
 bcaboot: 0.2-3
-bcc: 1.3.1
+bcc: '1.5'
 bccp: 0.5.0
 bcdata: 0.4.1
 bcf: 2.0.2
@@ -10364,7 +10367,7 @@ casen: 0.2.1
 cases: 0.1.1
 casino: 0.1.0
 caspar: '1.0'
-cassandRa: 0.1.0
+cassandRa: 0.2.0
 cassowaryr: 2.0.0
 castor: 1.8.0
 cat: 0.0-9
@@ -12297,7 +12300,7 @@ displayHTS: '1.0'
 dispmod: '1.2'
 disposables: 1.0.3
 dispositionEffect: 1.0.1
-disprofas: 0.1.3
+disprofas: 0.2.0
 disprose: 0.1.6
 dissCqN: 0.1.0
 dissUtils: '1.0'
@@ -12464,7 +12467,7 @@ doublIn: 0.1.0
 double.truncation: '1.7'
 doubt: 0.1.0
 doudpackage: 2.1.0
-downlit: 0.4.3
+downlit: 0.4.4
 downloader: '0.4'
 downloadthis: 0.3.3
 downscale: 5.0.0
@@ -13190,7 +13193,7 @@ esmisc: 0.0.3
 esmprep: 0.2.0
 esmtools: 1.0.1
 esotericR: '1.0'
-espadon: 1.7.0
+espadon: 1.7.2
 esquisse: 2.0.0
 esreg: 0.6.2
 ess: 1.1.2
@@ -13243,7 +13246,7 @@ eva: 0.2.6
 evabic: 0.1.1
 evalITR: 1.0.0
 evalR: 0.0.1
-evaluate: '0.23'
+evaluate: 0.24.0
 evaluator: 0.4.3
 evapoRe: 1.0.0
 evclass: 2.0.2
@@ -14263,7 +14266,7 @@ gRaven: 1.1.8
 gRbase: 2.0.2
 gRc: 0.5.0
 gRcox: '0.1'
-gRim: 0.3.1
+gRim: 0.3.2
 gSEM: 0.4.3.4
 gSeg: '1.0'
 gStream: 0.2.0
@@ -14551,7 +14554,7 @@ geocausal: 0.3.0
 geocmeans: 0.3.4
 geocodeHERE: 0.1.3
 geodaData: 0.1.0
-geodata: 0.5-9
+geodata: 0.6-2
 geodetector: 1.0-4
 geodimension: 2.0.0
 geodist: 0.1.0
@@ -15062,6 +15065,7 @@ gmp: 0.7-4
 gmpoly: 1.1.0
 gms: 0.4.0
 gmt: 2.0.3
+gmtFD: 0.1.0
 gmum.r: 0.2.1
 gmvalid: '1.23'
 gmvarkit: 2.1.2
@@ -15411,11 +15415,12 @@ gwdegree: 0.1.1
 gwer: '3.0'
 gwerAM: '1.0'
 gwfa: 0.0.4
-gwid: 0.1.0
+gwid: 0.2.0
 gwpcormapper: 0.1.3
 gwrpvr: '1.0'
 gwrr: 0.2-2
 gwsem: 2.1.4
+gwzinbr: 0.1.0
 gym: 0.1.0
 gyriq: 1.0.2
 gyro: 1.4.0
@@ -15456,7 +15461,7 @@ halp: 0.1.3
 hamlet: 0.9.6
 handcodeR: 0.1.2
 handlr: 0.3.0
-handwriter: 3.0.0
+handwriter: 3.1.0
 handyFunctions: 0.1.0
 handyplots: 1.1.3
 hans: '0.1'
@@ -16077,6 +16082,7 @@ igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
 igraphtosonia: '1.0'
+igraphwalshdata: 0.1.0
 igrf: '1.0'
 ihclust: 0.1.0
 iheatmapr: 0.7.1
@@ -16637,6 +16643,7 @@ jsontools: 0.1.0
 jsonvalidate: 1.3.2
 jsr223: 0.3.4
 jstable: 1.2.6
+jstager: 0.0.2
 jstor: 0.3.11
 jtGWAS: 1.5.1
 jtdm: 0.1-2
@@ -16747,7 +16754,7 @@ kgen: 0.3.1
 kgp: 1.1.1
 kgrams: 0.2.0
 kgschart: 1.3.5
-khisr: 1.0.3
+khisr: 1.0.4
 khroma: 1.12.0
 kibior: 0.1.1
 kidney.epi: 1.2.0
@@ -16769,7 +16776,7 @@ kirby21.fmri: 1.7.0
 kirby21.t1: 1.7.0
 kisopenapi: 0.0.2
 kissmig: 1.0-4
-kit: 0.0.17
+kit: 0.0.18
 kitagawa: 3.1.2
 kittyR: 1.1.0
 kiwisR: 0.2.0
@@ -16911,6 +16918,7 @@ lago: 0.1-1
 lagsarlmtree: 1.0-1
 lakemorpho: 1.3.2
 laketemps: 0.5.1
+lakhesis: 0.0.1
 lamW: 2.2.3
 lambda.r: 1.2.4
 lambda.tools: 1.0.9
@@ -17049,7 +17057,7 @@ leafgl: 0.1.1
 leaflegend: 1.2.1
 leaflet: 2.2.2
 leaflet.esri: 1.0.0
-leaflet.extras: 1.0.0
+leaflet.extras: 2.0.0
 leaflet.extras2: 1.2.2
 leaflet.minicharts: 0.6.2
 leaflet.multiopacity: 0.1.1
@@ -17065,7 +17073,7 @@ leaftime: 0.2.0
 leakyIV: 0.0.1
 leanpubr: 0.3.1
 leapp: '1.3'
-leaps: '3.1'
+leaps: '3.2'
 learNN: 0.2.0
 learnPopGen: 1.0.4
 learningCurve: 1.1.2
@@ -17642,7 +17650,7 @@ mapDK: 0.3.0
 mapLD: 1.0-1
 mapReasy: '1.0'
 mapReduce: 1.2.6
-mapSpain: 0.9.0
+mapSpain: 0.9.1
 mapStats: '3.1'
 mapaccuracy: 0.1.2
 mapbayr: 0.10.0
@@ -19116,6 +19124,7 @@ ncdf: 1.6.9
 ncdf.tools: 0.7.1.295
 ncdf4: '1.22'
 ncdf4.helpers: 0.3-6
+ncdfCF: 0.1.1
 ncdfgeom: 1.1.6
 ncdump: 0.0.3
 ncf: 1.3-2
@@ -19396,7 +19405,7 @@ nnetpredint: '1.2'
 nnfor: 0.9.9
 nngeo: 0.4.8
 nnlasso: '0.3'
-nnlib2Rcpp: 0.2.7
+nnlib2Rcpp: 0.2.8
 nnls: '1.5'
 nnspat: 0.1.2
 nnt: 0.1.4
@@ -21484,7 +21493,7 @@ qif: '1.5'
 qiimer: 0.9.4
 qiitr: 0.1.1
 qkerntool: '1.19'
-qlcData: 0.2.1
+qlcData: '0.3'
 qlcMatrix: 0.9.8
 qlcVisualize: 0.2.1
 qlcal: 0.0.11
@@ -23075,6 +23084,7 @@ rsgeo: 0.1.6
 rsggm: 0.3.1
 rshift: 3.0.0
 rsi: 0.2.0
+rsides: '0.1'
 rsig: '1.0'
 rsimsum: 0.13.0
 rsinaica: 1.0.0
@@ -23333,7 +23343,7 @@ saeMSPE: '1.2'
 saePseudo: 0.1.0
 saeRobust: 0.5.0
 saeSim: 0.11.0
-saeTrafo: 1.0.3
+saeTrafo: 1.0.4
 saebnocov: 0.1.0
 saeczi: 0.2.0
 saeeb: 0.1.0
@@ -23430,7 +23440,7 @@ satscanMapper: 1.0.2
 saturnin: 1.1.1
 saves: '0.5'
 savonliquide: 0.2.0
-savvyr: 0.1.0
+savvyr: 0.1.1
 sawnuti: 0.1.1
 saws: 0.9-7.0
 sazedR: 2.0.2
@@ -24617,7 +24627,7 @@ spatialising: 0.6.0
 spatialkernel: 0.4-23
 spatialnbda: '1.0'
 spatialprobit: 1.0.4
-spatialreg: 1.3-3
+spatialreg: 1.3-4
 spatialrisk: 0.7.1
 spatialsample: 0.5.1
 spatialsegregation: '2.45'
@@ -24650,7 +24660,7 @@ spcosa: 0.4-2
 spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
-spdep: 1.3-4
+spdep: 1.3-5
 spdesign: 0.0.3
 spdl: 0.0.5
 spdownscale: 0.1.0
@@ -24711,7 +24721,7 @@ spfrontier: 0.2.5
 spftir: 0.1.0
 spgrass6: 0.8-9
 spgs: 1.0-4
-spgwr: 0.6-36
+spgwr: 0.6-37
 sphereTessellation: 1.2.0
 spherepc: 0.1.7
 sphereplot: 1.5.1
