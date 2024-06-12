@@ -112,7 +112,7 @@ ANOVAIREVA: 0.1.0
 ANOVAShiny: 0.1.0
 ANOVAShiny2: 0.1.0
 ANOVAreplication: 1.1.5
-ANSM5: 1.0.1
+ANSM5: 1.1.0
 ANTs: 0.0.16
 AOV1R: 0.1.0
 AOfamilies: '1.01'
@@ -844,7 +844,7 @@ BradleyTerry2: 1.1-2
 BradleyTerryScalable: 0.1.0
 BrailleR: 1.0.2
 BrainCon: 0.3.0
-BranchGLM: 2.1.5
+BranchGLM: 2.1.6
 Branching: 0.9.7
 BrasilMF: 1.0.0
 BrazilMet: 0.2.0
@@ -3473,7 +3473,7 @@ IndexNumR: 0.6.0
 IndexNumber: 1.3.2
 IndexWizard: 0.2.1.0
 IndianTaxCalc: 1.0.2
-Indicator: 0.1.1
+Indicator: 0.1.2
 InfDim: '1.0'
 InfNet: '0.1'
 InferenceSMR: 1.0.2
@@ -3551,7 +3551,7 @@ JBTools: 0.7.2.9
 JBrowseR: 0.10.2
 JCRImpactFactor: 1.0.0
 JDCruncheR: 0.2.4
-JFE: 2.5.6
+JFE: 2.5.7
 JFM: '1.0'
 JGEE: '1.1'
 JGL: 2.3.2
@@ -3676,7 +3676,7 @@ Kmedians: 2.2.0
 Kmisc: 0.5.0
 KnapsackSampling: 0.1.1
 KneeArrower: 1.0.0
-KnockoffHybrid: 1.0.0
+KnockoffHybrid: 1.0.1
 KnockoffScreen: 0.3.0
 KnockoffTrio: 1.0.2
 Knoema: 0.1.19
@@ -5109,7 +5109,7 @@ PAMA: 1.2.0
 PAMhm: 0.1.2
 PAMmisc: 1.12.1
 PAMpal: 1.0.0
-PAMscapes: 0.5.3
+PAMscapes: 0.5.8
 PANACEA: 1.0.1
 PANDA: 0.9.9
 PANICr: 1.0.0
@@ -5163,7 +5163,7 @@ PCRedux: 1.1-2
 PCS: '1.3'
 PCSinR: 0.1.0
 PCovR: 2.7.2
-PDE: 1.4.9
+PDE: 1.4.10
 PDFEstimator: '4.5'
 PDM: '0.1'
 PDMIF: 0.1.0
@@ -5411,7 +5411,7 @@ PartialNetwork: 1.0.4
 Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 PathSelectMP: '1.1'
-PatientProfiles: 1.0.0
+PatientProfiles: 1.1.0
 PatternClass: 2.0.1
 Patterns: '1.5'
 PdPDB: 2.0.1
@@ -7294,7 +7294,7 @@ ScaleSpikeSlab: '1.0'
 Scalelink: '1.0'
 ScatterDensity: 0.0.4
 SchemaOnRead: 1.0.2
-SchoolDataIT: 0.1.1
+SchoolDataIT: 0.1.2
 SciViews: 0.9-13.1
 SciencePo: 0.3.6.12
 SciencesPo: 1.4.1
@@ -7506,6 +7506,7 @@ SoilFDA: 0.1.0
 SoilFunctionality: 0.1.0
 SoilHyP: 0.1.7
 SoilR: 1.2.107
+SoilSaltIndex: 0.1.0
 SoilTaxonomy: 0.2.4
 SoilTesting: 0.1.0
 Sojourn: 1.1.0
@@ -8215,6 +8216,7 @@ VALERIE: 1.1.0
 VALIDICLUST: 0.1.0
 VAM: 1.1.0
 VAR.etp: '1.1'
+VAR.spec: '1.0'
 VARDetect: 0.1.7
 VARMER: 1.0.0
 VARSEDIG: '2.1'
@@ -8477,7 +8479,7 @@ YRmisc: 0.1.6
 YTAnalytics: 0.1.0
 YaleToolkit: 4.2.3
 Yamm: 1.3.2
-YatchewTest: 1.0.2
+YatchewTest: 1.1.0
 YatesAlgo.FactorialExp.SR: 4.0.4
 YieldCurve: '5.1'
 YjdnJlp: 0.9.8
@@ -9047,7 +9049,7 @@ archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
 archive: 1.1.8
-archiveRetriever: 0.3.1
+archiveRetriever: 0.4.0
 archivist: 2.3.6
 archivist.github: 0.2.6
 arcos: '1.27'
@@ -9714,7 +9716,7 @@ bigchess: 1.9.1
 bigdata: '0.1'
 bigdatadist: '1.1'
 bigdist: 0.1.4
-bigergm: 1.1.0
+bigergm: 1.2.0
 biglars: 1.0.2
 biglasso: 1.6.0
 bigleaf: 0.8.2
@@ -9851,6 +9853,7 @@ biplotEZ: 1.2.0
 biplotbootGUI: '1.3'
 birankr: 1.0.1
 birch: 1.2-3
+birdie: 0.6.1
 birdnik: 0.1.1
 birdring: '1.6'
 birdscanR: 0.2.0
@@ -10393,6 +10396,7 @@ catlearn: '1.0'
 catmap: 1.6.4
 catmaply: 0.9.4
 catnet: 1.16.1
+catregs: 0.2.0
 cats: 1.0.2
 catseyes: 0.2.5
 catsim: 0.2.3
@@ -10510,7 +10514,7 @@ censable: 0.0.5
 censo2017: 0.6.2
 censobr: 0.3.2
 censorcopula: '2.0'
-censored: 0.3.1
+censored: 0.3.2
 census: 0.2.0
 censusGeography: 0.1.0
 censusapi: 0.8.0
@@ -11005,6 +11009,7 @@ collinear: 1.1.1
 collpcm: '1.4'
 colmozzie: 1.1.1
 coloc: 5.2.3
+colocPropTest: 0.9.1
 colocalization: 1.0.2
 colocalized: 0.2.0
 colocr: 0.1.1
@@ -11150,7 +11155,7 @@ conductor: 0.1.1
 condusco: 0.1.0
 condvis: 0.5-1
 condvis2: 0.1.2
-coneproj: '1.18'
+coneproj: '1.19'
 conf: 1.9.1
 conf.design: 2.0.0
 confReg: 0.1.3
@@ -11246,7 +11251,7 @@ copas: 0.8-0
 copcor: 2023.8-27
 cope: 0.2.3
 copent: '0.5'
-cophescan: 1.4.0
+cophescan: 1.4.1
 coppeCosenzaR: 0.1.3
 copre: 0.2.1
 coprimary: '1.0'
@@ -12755,7 +12760,7 @@ ebmc: 1.0.1
 ebmstate: 0.1.4
 ebnm: 1.1-2
 ebreg: 0.1.3
-ebvcube: 0.1.7
+ebvcube: 0.2.1
 ec50estimator: 0.1.0
 ecan: 0.2.1
 ecap: 0.1.2
@@ -12781,7 +12786,7 @@ ecmwfr: 1.5.0
 eco: 4.0-3
 ecoCopula: 1.0.2
 ecocbo: 0.10.2
-ecochange: 2.9.3.1
+ecochange: 2.9.3.2
 ecocomDP: 1.3.1
 ecodist: 2.1.3
 ecoengine: 1.12.0
@@ -12967,7 +12972,7 @@ embed: 1.1.4
 embryogrowth: '9.1'
 emdatr: '0.3'
 emdbook: 1.3.13
-emdi: 2.2.1
+emdi: 2.2.2
 emdist: 0.3-3
 emery: 0.5.1
 emg: 1.0.9
@@ -14122,7 +14127,7 @@ frontiles: 1.3.1
 frost: 0.0.4
 frostr: 0.2.0
 froth: 1.1.0
-frscore: 0.4.0
+frscore: 0.4.1
 frt: '0.1'
 fruclimadapt: 0.4.5
 fs: 1.6.4
@@ -16250,7 +16255,7 @@ insectDisease: 1.2.2
 insee: 1.1.5
 insideRODE: '2.0'
 insiderTrades: 0.0.1
-insight: 0.20.0
+insight: 0.20.1
 insol: 1.2.2
 inspectdf: 0.0.12
 inspector: 1.0.3
@@ -16947,7 +16952,7 @@ languageserver: 0.3.16
 languageserversetup: 0.1.2
 lans2r: 1.2.0
 lar: 0.1-2
-lares: 5.2.7
+lares: 5.2.8
 lareshiny: 0.0.3
 largeList: 0.3.1
 largeVis: 0.2.1.1
@@ -17103,7 +17108,7 @@ lemna: 1.0.1
 lemon: 0.4.9
 lenght: 0.1.0
 lenses: 0.0.3
-leontief: '0.2'
+leontief: '0.3'
 leprechaun: 1.0.0
 leptokurticMixture: '1.1'
 leri: 0.0.1
@@ -17541,7 +17546,7 @@ mDAG: 1.2.2
 mExplorer: 1.0.0
 mFD: 1.0.7
 mFDP: 0.1.0
-mFLICA: 0.1.5
+mFLICA: 0.1.6
 mFilter: 0.1-5
 mGSZ: '1.0'
 mHG: '1.1'
@@ -17786,7 +17791,7 @@ matsbyname: 0.6.10
 matsindf: 0.4.8
 matuR: 0.0.1.0
 mau: 0.1.2
-mauricer: 2.5.2
+mauricer: 2.5.4
 maxLik: 1.5-2.1
 maxLinear: '1.0'
 maxTPR: 0.1.0
@@ -17882,6 +17887,7 @@ mcrPioda: 1.3.3
 mcradds: 1.1.0
 mcreplicate: 0.1.2
 mcsm: '1.0'
+mcstatsim: 0.1.0
 mctest: 1.3.1
 mctq: 0.3.2
 mcunit: 0.3.2
@@ -18536,7 +18542,7 @@ modelObj: '4.2'
 modelROC: '1.0'
 modelSSE: 0.1-3
 modelStudio: 3.1.2
-modelbased: 0.8.7
+modelbased: 0.8.8
 modelbpp: 0.1.3
 modelc: 1.0.0.0
 modelcf: 2.1.1
@@ -18890,7 +18896,7 @@ multilevel: '2.7'
 multilevelMatching: 1.0.0
 multilevelPSA: 1.2.5
 multilevelTools: 0.1.1
-multilevelcoda: 1.2.3
+multilevelcoda: 1.3.0
 multilevelmediation: 0.3.1
 multilevelmod: 1.0.0
 multilinguer: 0.2.4
@@ -18904,7 +18910,7 @@ multinbmod: '1.0'
 multiness: 1.0.2
 multinet: 4.1.2
 multinets: 0.2.2
-multinma: 0.7.0
+multinma: 0.7.1
 multinomRob: 1.8-6.1
 multinomialLogitMix: '1.1'
 multinomineq: 0.2.6
@@ -19079,7 +19085,7 @@ nanoarrow: 0.5.0.1
 nanonext: 1.1.0
 nanop: 2.0-6
 nanoparquet: 0.2.0
-nanostringr: 0.4.1
+nanostringr: 0.4.2
 nanotime: 0.3.7
 naptanr: 1.0.1
 naptime: 1.3.0
@@ -19589,6 +19595,7 @@ numGen: 0.1.1
 numKM: 0.2.0
 numOSL: '2.8'
 numbat: 1.4.0
+numberize: 1.0.0
 numberofalleles: 1.0.1
 numbers: 0.8-5
 numbersBR: 0.0.2
@@ -19654,7 +19661,7 @@ oce: 1.8-2
 oceCens: 0.1.2
 ocean: 0.2-4
 oceanexplorer: 0.1.0
-oceanic: 0.1.6
+oceanic: 0.1.7
 oceanis: 1.8.5
 oceanmap: 0.1.6
 oceanwaves: 0.2.0
@@ -20145,7 +20152,7 @@ papply: '0.1'
 parSim: 0.1.5
 parabar: 1.1.1
 parade: '0.1'
-paradox: 0.11.1
+paradox: 1.0.0
 parallelDist: 0.2.6
 parallelMCMCcombine: '2.0'
 parallelML: '1.2'
@@ -20597,7 +20604,7 @@ phylogram: 2.1.0
 phyloland: '1.3'
 phylolm: 2.6.2
 phylometrics: 0.0.1
-phylopath: 1.2.1
+phylopath: 1.3.0
 phyloraster: 2.1.0
 phyloregion: 1.0.8
 phylosamp: 1.0.1
@@ -20628,7 +20635,7 @@ picker: 0.2.6
 pid: '0.50'
 piecemaker: 1.0.2
 piecepackr: 1.13.10
-piecewiseSEM: 2.3.0
+piecewiseSEM: 2.3.0.1
 pifpaf: 1.0.1
 piggyback: 0.1.5
 piglet: 1.0.1
@@ -21045,6 +21052,7 @@ ppcor: '1.1'
 ppdiag: 0.1.1
 ppendemic: 0.1.7
 ppgam: 1.0.1
+ppgm: 1.0.3
 ppgmmga: '1.3'
 ppiPre: '1.9'
 ppitables: 0.5.5
@@ -21100,7 +21108,7 @@ predhy.GUI: '2.0'
 predict3d: 0.1.5
 predictMe: '0.1'
 predictNMB: 0.2.1
-prediction: 0.3.17
+prediction: 0.3.18
 predictionInterval: 1.0.0
 predictmeans: 1.1.0
 predictoR: 3.0.10
@@ -21495,7 +21503,7 @@ qiitr: 0.1.1
 qkerntool: '1.19'
 qlcData: '0.3'
 qlcMatrix: 0.9.8
-qlcVisualize: 0.2.1
+qlcVisualize: '0.3'
 qlcal: 0.0.11
 qle: '0.18'
 qlifetable: 0.0.2-4
@@ -21804,7 +21812,7 @@ rSAFE: 0.1.4
 rSARP: 1.0.0
 rSCA: '3.1'
 rSDI: 0.2.1
-rSEA: 2.1.1
+rSEA: 2.1.2
 rSFA: '1.5'
 rSHAPE: 0.3.2
 rSPACE: 1.2.0
@@ -22424,7 +22432,7 @@ represtools: 0.1.3
 reprex: 2.1.0
 reproducer: 0.5.3
 reproducible: 2.1.0
-reproj: 0.4.3
+reproj: 0.7.0
 repsd: 1.0.1
 repurrrsive: 1.1.0
 reqres: 0.2.5
@@ -24440,7 +24448,7 @@ softclassval: 1.0-20160527
 softermax: 0.3.0
 softmaxreg: '1.2'
 soil.spec: 2.1.4
-soilDB: 2.8.2
+soilDB: 2.8.3
 soilassessment: 0.2.6
 soilcarbon: 1.2.0
 soilchemistry: 0.1.0
@@ -25376,7 +25384,7 @@ swa: 0.8.1
 swaRm: 0.6.0
 swaRmverse: 0.1.0
 swag: 0.1.0
-swagger: 3.33.1
+swagger: 5.17.14
 swamp: 1.5.1
 swapClass: 1.0.1
 swaprinc: 1.0.1
@@ -26883,7 +26891,7 @@ vudc: '1.1'
 vueR: 0.6.0
 vvauditor: 0.6.0
 vvcanvas: 0.0.4
-vvconverter: 0.5.9
+vvconverter: 0.5.10
 vvdoctor: 0.0.1
 vvfiller: 0.6.7
 vvmover: 1.6.0
@@ -27115,7 +27123,7 @@ wmm: 1.1.1
 wmtsa: 2.0-3
 wmwpow: 0.1.3
 wnl: 0.8.1
-wnominate: '1.4'
+wnominate: '1.5'
 wodds: 0.1.0
 woe: '0.2'
 woeBinning: 0.1.6
