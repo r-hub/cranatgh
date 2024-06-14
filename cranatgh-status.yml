@@ -619,7 +619,7 @@ BayesDesign: 0.1.1
 BayesDissolution: 0.2.1
 BayesESS: 0.1.19
 BayesFBHborrow: 1.0.1
-BayesFM: 0.1.5
+BayesFM: 0.1.7
 BayesFactor: 0.9.12-4.7
 BayesFluxR: 0.1.3
 BayesGESM: '1.4'
@@ -665,7 +665,7 @@ BayesReversePLLH: '1.5'
 BayesS5: '1.41'
 BayesSAE: 1.0-2
 BayesSPsurv: 0.1.4
-BayesSUR: 2.1-7
+BayesSUR: 2.2-0
 BayesSampling: 1.1.0
 BayesSenMC: 0.1.5
 BayesSingleSub: 0.6.2
@@ -1888,7 +1888,7 @@ DiffusionRgqd: 0.1.3
 DiffusionRimp: 0.1.2
 DiffusionRjgqd: 0.1.1
 Digiroo2: '0.6'
-DirStats: 0.1.9
+DirStats: 0.1.10
 Dire: 2.2.0
 DirectEffects: 0.2.1
 DirectStandardisation: '1.3'
@@ -4600,7 +4600,7 @@ ModelMatrixModel: 0.1.0
 ModelMetrics: 1.2.2.2
 Modelcharts: 0.1.0
 Modeler: 3.4.5
-MolgenisArmadillo: 2.3.0
+MolgenisArmadillo: 2.6.3
 MolgenisAuth: 0.0.25
 MomTrunc: '6.0'
 Momocs: 1.4.1
@@ -5024,7 +5024,7 @@ OneArmTTE: '1.0'
 OneHandClapping: '1.5'
 OneR: '2.2'
 OneSampleLogRankTest: 0.9.2
-OneSampleMR: 0.1.3
+OneSampleMR: 0.1.4
 OneStep: 0.9.3
 OneTwoSamples: 1.1-0
 OnomasticDiversity: '0.1'
@@ -5041,7 +5041,7 @@ OpenMindat: 1.0.0
 OpenMx: 2.21.11
 OpenRepGrid: 0.1.14
 OpenRepGrid.ic: 0.6.2
-OpenSpecy: 1.0.8
+OpenSpecy: 1.1.0
 OpenStreetMap: 0.4.0
 OpenTreeChronograms: 2022.1.28
 Opportunistic: '1.2'
@@ -6840,7 +6840,7 @@ Rsundials: '1.6'
 Rsurrogate: '3.2'
 Rsymphony: 0.1-33
 RtD3: 0.0.1
-Rtapas: '1.1'
+Rtapas: '1.2'
 Rtauchen: '1.0'
 RtextSummary: 0.1.0
 Rtextrankr: 1.0.0
@@ -7737,6 +7737,7 @@ SurvRegCensCov: '1.7'
 SurvSparse: '0.1'
 SurvTrunc: 0.2.0
 SurveyCC: 0.1.1
+SurveyDefense: 0.1.0
 Survgini: '1.0'
 SurviMChd: 0.1.2
 SurvivalClusteringTree: 1.1.1
@@ -7871,7 +7872,7 @@ TRES: 1.1.5
 TREXr: 1.0.0
 TRIANG: '1.2'
 TRIANGG: '1.0'
-TRMF: 0.1.5
+TRMF: 0.2.1
 TROM: '1.3'
 TRSbook: 1.0.2
 TRexSelector: 1.0.0
@@ -8302,6 +8303,7 @@ VedicDateTime: 0.1.9
 VennDiagram: 1.7.3
 VertexSimilarity: '0.1'
 VertexSort: 0.1-1
+VertexWiseR: 1.0.0
 VeryLargeIntegers: 0.2.1
 VetResearchLMM: 1.0.0
 VhayuR: 1.1.2
@@ -8982,7 +8984,7 @@ apaTables: 2.0.8
 apaText: 0.1.7
 apache.sedona: 1.6.0
 apc: 2.0.0
-apcf: 0.3.0
+apcf: 0.3.1
 apcluster: 1.4.13
 apdesign: 1.0.0
 ape: '5.8'
@@ -9716,7 +9718,7 @@ bigchess: 1.9.1
 bigdata: '0.1'
 bigdatadist: '1.1'
 bigdist: 0.1.4
-bigergm: 1.2.0
+bigergm: 1.2.1
 biglars: 1.0.2
 biglasso: 1.6.0
 bigleaf: 0.8.2
@@ -10055,7 +10057,7 @@ bp: 2.1.0
 bpAcc: 0.0-2
 bpDir: 0.1.2
 bpa: 0.1.1
-bpbounds: 0.1.5
+bpbounds: 0.1.6
 bpca: 1.3-6
 bpcp: 1.4.2
 bpcs: 1.0.0
@@ -10134,7 +10136,7 @@ brr: 1.0.0
 brranching: 0.7.0
 brsim: '0.3'
 brt: 1.3.0
-bruceR: '2023.9'
+bruceR: '2024.6'
 brulee: 0.3.0
 brunnermunzel: '2.0'
 brxx: 0.1.2
@@ -10792,7 +10794,7 @@ climextRemes: 0.3.1
 climtrends: 1.0.6
 climwin: 1.2.3
 clinDR: 2.4.1
-clinDataReview: 1.5.2
+clinDataReview: 1.6.0
 clinPK: 0.13.0
 clinUtiDNA: '1.0'
 clinUtils: 0.2.0
@@ -11549,7 +11551,7 @@ cruts: '1.1'
 crwbmetareg: '1.0'
 cry: 0.5.1
 crypto: 1.1.3
-crypto2: 1.4.6
+crypto2: 2.0.0
 cryptoQuotes: 1.3.1
 cryptoTax: 0.0.5
 cryptography: 1.0.0
@@ -11636,6 +11638,7 @@ cuml4r: 0.1.0
 cumplyr: 0.1-1
 cumprinc: '0.1'
 cumstats: '1.0'
+cumulcalib: 0.0.1
 cumulocityr: 0.1.0
 cuperdec: 1.1.0
 curephEM: 0.3.0
@@ -11817,6 +11820,7 @@ datadictionary: 1.0.0
 datadigest: 1.0.2
 datadogr: 0.1.2
 datadr: 0.8.6.1
+datadriftR: 0.0.1
 dataesgobr: 1.0.0
 dataframe: '2.5'
 dataframeexplorer: 1.0.2
@@ -12555,7 +12559,7 @@ ds4psy: 1.0.0
 dsa: 1.0.12
 dsample: 0.91.3.4
 dsb: 1.0.3
-dscore: 1.8.0
+dscore: 1.9.0
 dsdp: 0.1.1
 dse: 2020.2-1
 dse1: 2011.11-2
@@ -12603,7 +12607,7 @@ dualScale: 1.0.0
 dualtrees: 0.1.5
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 0.10.2
+duckdb: 1.0.0
 duckdbfs: 0.0.4
 duckduckr: 1.0.0
 duckplyr: 0.4.0
@@ -13839,7 +13843,7 @@ fixedTimeEvents: 1.0.1
 fixedincome: 0.0.5
 fixedpointproperty: '1.0'
 fixerapi: 0.1.6
-fixest: 0.12.0
+fixest: 0.12.1
 fixr: 0.1.0
 fixtuRes: 0.1.3
 fizzbuzzR: 0.1.1
@@ -13940,7 +13944,7 @@ fmriqa: 0.3.0
 fmrs: 1.0-9
 fmsb: 0.7.6
 fmt: '2.0'
-fmtr: 1.6.4
+fmtr: 1.6.5
 fmx: 0.1.2
 fnets: 0.1.6
 foba: '0.1'
@@ -14340,7 +14344,7 @@ gamma: 1.0.5
 gamreg: '0.3'
 gamsel: 1.8-2
 gamselBayes: 2.0-1
-gamstransfer: 3.0.2
+gamstransfer: 3.0.3
 ganDataModel: 1.1.6
 ganGenerativeData: 1.5.7
 ganalytics: 0.10.7
@@ -14416,7 +14420,7 @@ gdalBindings: 0.1.17
 gdalUtilities: 1.2.5
 gdalUtils: 2.0.3.2
 gdalcubes: 0.7.0
-gdalraster: 1.11.0
+gdalraster: 1.11.1
 gdata: 3.0.0
 gde: 0.2.1
 gdi: 1.6.0
@@ -14551,7 +14555,7 @@ geoRglm: 0.9-16
 geoSAE: 0.1.0
 geoSpectral: 0.17.5
 geoTS: 0.1.8
-geoarrow: 0.2.0
+geoarrow: 0.2.1
 geoaxe: 0.1.0
 geobr: 1.9.0
 geocacheR: 0.1.0
@@ -14593,7 +14597,7 @@ geometry: 0.4.7
 geomnet: 0.3.1
 geomod: 0.1.0
 geomorph: 4.0.7
-geomtextpath: 0.1.3
+geomtextpath: 0.1.4
 geomultistar: 1.2.1
 geonames: '0.999'
 geonapi: 0.7-2
@@ -15527,6 +15531,7 @@ hdbinseg: 1.0.2
 hdbm: 0.9.0
 hdbma: '1.0'
 hdcate: 0.1.0
+hdcuremodels: 0.0.1
 hdd: 0.1.1
 hddplot: 0.59-2
 hddtools: 0.9.4
@@ -16703,7 +16708,7 @@ kde1d: 1.0.7
 kdecopula: 0.9.2
 kdensity: 1.1.0
 kdetrees: 0.1.5
-kdevine: 0.4.4
+kdevine: 0.4.5
 kdist: '0.2'
 kdpee: 1.0.0
 kdry: 0.0.2
@@ -16992,7 +16997,7 @@ lavaan.shiny: '1.2'
 lavaan.survey: 1.1.3.1
 lavaanExtra: 0.2.0
 lavaanPlot: 0.8.1
-lavacreg: 0.2-1
+lavacreg: 0.2-2
 lawn: 0.6.0
 lawstat: '3.6'
 lax: 1.2.3
@@ -17473,7 +17478,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.2.6
+lrstat: 0.2.7
 lsa: 0.73.3
 lsasim: 2.1.5
 lsbclust: '1.1'
@@ -17711,7 +17716,7 @@ marginalRisk: 2021.1-7
 marginaleffects: 0.20.1
 marginalizedRisk: 2024.5-17
 marginalmodelplots: 0.4.2
-margins: 0.3.26.1
+margins: 0.3.27
 marima: '2.2'
 marindicators: 1.0.0
 marinespeed: 0.1.0
@@ -19900,7 +19905,7 @@ optweight: 0.2.5
 opusminer: 0.1-1
 orQA: 0.2.1
 ora: 2.0-1
-orbweaver: 0.0.3
+orbweaver: 0.10.2
 orca: 1.1-2
 orclus: 0.2-6
 orcutt: '2.3'
@@ -20254,7 +20259,7 @@ pathological: 0.1-2
 paths: 0.1.1
 pathviewr: 1.1.7
 pathwayTMB: 0.1.3
-patientProfilesVis: 2.0.7
+patientProfilesVis: 2.0.8
 patrick: 0.2.0
 patternator: 0.1.0
 patternize: 0.0.5
@@ -20329,6 +20334,7 @@ pcg: '1.1'
 pcgen: 0.2.0
 pch: '2.1'
 pchc: '1.2'
+pci: 1.0.0
 pcmabc: 1.1.3
 pcnetmeta: '2.8'
 pco: 1.0.1
@@ -20622,7 +20628,7 @@ phyreg: 1.0.2
 physiology: 1.2.1
 physx: '1.0'
 phytoclass: 1.2.0
-phytools: 2.1-1
+phytools: 2.3-0
 phytotools: '1.0'
 pi0: 1.4-1
 piRF: 0.1.0
@@ -20853,7 +20859,7 @@ pmultinom: 1.0.0
 pmvalsampsize: 0.1.0
 pmwg: 0.2.7
 pmxTools: '1.3'
-pmxcode: 0.1.2
+pmxcode: 0.1.3
 pmxcv: 0.0.1.0
 pmxpartab: 0.5.0
 pnea: 1.2.4
@@ -20890,7 +20896,7 @@ poker: 0.8.8
 polAr: 0.2.0.1
 polaroid: 0.1.0
 polars: 0.7.0
-policytree: 1.2.2
+policytree: 1.2.3
 polidata: 0.1.0.1
 polimetrics: 1.2.1.14
 poliscidata: 2.3.0
@@ -22570,7 +22576,7 @@ rggm: 1.0.1.1
 rggobi: 2.1.22
 rgho: 3.0.2
 rgl: 1.3.1
-rgl.cry: 0.1.0
+rgl.cry: 0.1.1
 rgl2gltf: 1.0.3
 rglobi: 0.3.4
 rglplus: '1.3'
@@ -23399,6 +23405,7 @@ samplingR: 1.0.1
 samplingVarEst: '1.5'
 samplingbook: 1.2.4
 samplingin: 1.1.0
+samplrData: 1.0.0
 sampsizeval: 1.0.0.0
 samr: '3.0'
 sams: 0.4.3
@@ -23471,7 +23478,7 @@ sc2sc: 0.0.1-12
 scAnnotate: '0.3'
 scBSP: 1.0.0
 scBio: 0.1.6
-scCAN: 1.0.4
+scCAN: 1.0.5
 scCATCH: 3.2.2
 scCustomize: 2.1.2
 scDECO: 0.1.0
@@ -23842,6 +23849,7 @@ setartree: 0.2.1
 sets: 1.0-25
 setter: 0.0-1
 settings: 0.2.7
+settingsSync: 3.0.1
 setwidth: 1.0-4
 sevenbridges2: 0.1.0
 sever: 0.0.7
@@ -24105,7 +24113,7 @@ sim.BA: 0.1.0
 sim1000G: '1.40'
 sim2Dpredictr: 0.1.1
 simCAT: 1.0.0
-simDAG: 0.1.1
+simDAG: 0.1.2
 simDNAmixtures: 1.0.1
 simET: 1.0.3
 simEd: 2.0.1
@@ -24770,7 +24778,7 @@ splithalf: 0.8.2
 splithalfr: 2.2.2
 splitstackshape: 1.4.8
 splm: 1.6-5
-splmm: 1.1.3
+splmm: 1.2.0
 splot: 0.5.4
 spls: 2.2-3
 splus2R: 1.3-5
@@ -25135,7 +25143,7 @@ strawr: 0.0.91
 stray: 0.1.1
 stream: 2.0-2
 stream.net: 1.0.6
-streamConnect: 0.0-3
+streamConnect: 0.0-4
 streamDAG: '1.5'
 streamDepletr: 0.2.0
 streamMOA: 1.3-1
@@ -25249,7 +25257,7 @@ support.BWS2: 0.4-0
 support.BWS3: 0.2-1
 support.CEs: 0.7-0
 supportInt: '1.1'
-supportR: 1.3.0
+supportR: 1.4.0
 supreme: 1.1.0
 sur: 1.0.4
 surbayes: 0.1.2
@@ -25456,6 +25464,7 @@ syntenyPlotteR: 1.0.0
 synthACS: 1.7.1
 synthesis: 1.2.4
 synthesisr: 0.3.0
+synthesizer: 0.2.0
 synthpop: 1.8-0
 sys: 3.4.2
 sysfonts: 0.8.9
@@ -25960,7 +25969,7 @@ tinsel: 0.0.1
 tint: 0.1.4
 tinter: 0.1.0
 tinyProject: 0.6.1
-tinyarray: 2.4.1
+tinyarray: 2.4.2
 tinycodet: 0.5.0
 tinylabels: 0.2.4
 tinyscholar: 0.1.7
@@ -26256,7 +26265,7 @@ tripack: 1.3-9.1
 triplesmatch: 1.0.0
 triplot: 1.3.0
 tripsAndDipR: 0.1.0
-triptych: 0.1.2
+triptych: 0.1.3
 triversity: '1.0'
 troopdata: 0.1.5
 tropAlgebra: 0.1.1
