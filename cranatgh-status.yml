@@ -80,7 +80,7 @@ AIUQ: 0.5.2
 ALA4R: 1.9.1
 ALDqr: '1.0'
 ALEPlot: '1.1'
-ALFAM2: '4.0'
+ALFAM2: 4.1.3
 ALKr: 0.5.3.1
 ALS: 0.0.7
 ALSCPC: '1.0'
@@ -1318,7 +1318,7 @@ CohortConstructor: 0.2.1
 CohortExplorer: 0.1.0
 CohortPlat: 1.0.5
 CohortSurvival: 0.5.1
-CohortSymmetry: 0.1.0
+CohortSymmetry: 0.1.1
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
 CollapsABEL: 0.10.11
@@ -1753,7 +1753,7 @@ DTSg: 1.1.3
 DTWBI: '1.1'
 DTWUMI: '1.0'
 DTwrappers: 0.0.2
-DTwrappers2: 0.0.2
+DTwrappers2: 0.0.3
 DUBStepR: 1.2.0
 DVHmetrics: 0.4.2
 DWBmodelUN: 1.0.0
@@ -1818,7 +1818,7 @@ DeducerSurvival: 0.1-0
 DeducerText: 0.1-2
 DeductiveR: 1.0.0
 Defaults: 1.1-1
-Delaporte: 8.4.0
+Delaporte: 8.4.1
 DelayedEffect.Design: 1.1.3
 Delta: 0.2.0.3
 DeltaMAN: 0.5.0
@@ -2423,7 +2423,7 @@ FRESA.CAD: 3.4.7
 FRESHD: '1.0'
 FREddyPro: '1.0'
 FRI: '1.0'
-FRK: 2.2.3
+FRK: 2.3.0
 FRegSigCom: 0.3.0
 FSA: 0.9.5
 FSAdata: 0.4.1
@@ -4365,7 +4365,7 @@ MWright: 0.3.2
 MXM: 1.5.5
 MaOEA: 0.6.2
 MaXact: 0.2.1
-MacBehaviour: 1.2.1
+MacBehaviour: 1.2.2
 MachineLearning: 0.1.4
 MachineShop: 3.7.0
 MacroZooBenthosWaterA: 0.1.0
@@ -5052,7 +5052,7 @@ OptGS: '1.2'
 OptHedging: '1.0'
 OptHoldoutSize: 0.1.0.0
 OptInterim: 3.0.1
-OptM: 0.1.6
+OptM: 0.1.8
 OptSig: '2.2'
 OptiQuantR: 0.0.1
 OptiSembleForecasting: 0.1.0
@@ -5586,7 +5586,7 @@ PriceIndices: 0.1.9
 PriorCD: 0.1.0
 PriorGen: '2.0'
 PrivateLR: 1.2-22
-ProAE: 0.2.15
+ProAE: 1.0.1
 ProDenICA: '1.1'
 ProFAST: '1.4'
 ProFit: 1.3.3
@@ -6549,7 +6549,7 @@ Rcsdp: 0.1.57.5
 Rcssplot: 1.0.0
 Rcurvep: 1.3.1
 Rd: 0.2.0
-Rd2md: 1.0.0
+Rd2md: 1.0.1
 Rd2roxygen: '1.16'
 Rdbi: 0.1-2
 Rdbi.PgSQL: 0.1-2
@@ -8678,6 +8678,7 @@ adehabitatHR: 0.4.21
 adehabitatHS: 0.3.17
 adehabitatLT: 0.3.27
 adehabitatMA: 0.3.16
+adelie: 1.0.0
 adephylo: 1.1-16
 adepro: 4.1.0
 adept: '1.2'
@@ -8698,7 +8699,7 @@ adjustedcranlogs: 0.1.0
 adk: 1.0-2
 adklakedata: 0.6.1
 adlift: 1.4-5
-admiral: 1.1.0
+admiral: 1.1.1
 admiral.test: 0.7.0
 admiraldev: 1.1.0
 admiralonco: 1.0.0
@@ -8999,7 +9000,7 @@ aphylo: 0.3-3
 api2lm: '0.2'
 apisensr: 1.0.0
 aplore3: '0.9'
-aplot: 0.2.2
+aplot: 0.2.3
 aplotExtra: 0.0.2
 aplpack: 1.3.5
 apmsWAPP: '1.0'
@@ -9047,7 +9048,7 @@ arcgislayers: 0.2.0
 arcgisplaces: 0.1.0
 arcgisutils: 0.3.0
 archdata: 1.2-1
-archeoViz: 1.3.4
+archeoViz: 1.3.5
 archeofrag: 0.8.2
 archetypal: 1.3.1
 archetyper: 0.1.0
@@ -9611,7 +9612,7 @@ behavr: 0.3.2
 belex: 0.1.0
 belg: 1.5.3
 belief: 1.0.1
-bellreg: 0.0.2
+bellreg: 0.0.2.1
 bench: 1.1.3
 benchden: 1.0.8
 benchmark: 0.3-6
@@ -9997,6 +9998,7 @@ bomrang: 0.7.4
 bondAnalyst: 1.0.1
 bonn: 1.0.2
 bonsai: 0.2.1
+bonsaiforest: 0.1.0
 boodist: 1.0.0
 bookdown: '0.39'
 bookdownplus: 1.5.8
@@ -10760,6 +10762,7 @@ cleanNLP: 3.1.0
 cleanTS: 0.1.2
 cleancall: 0.1.3
 cleandata: 0.3.0
+cleanepi: 1.0.2
 cleaner: 1.5.4
 cleanerR: 0.1.1
 cleangeo: 0.3-1
@@ -10834,6 +10837,7 @@ clpm: '1.0'
 clptheory: 0.1.0
 clr: 0.1.2
 clrdag: 0.6.0
+clrng: 0.0.3
 clttools: '1.3'
 clubSandwich: 0.5.10
 clubpro: 0.6.2
@@ -13084,7 +13088,7 @@ epi2me2r: 0.1.0
 epiCleanr: 0.2.0
 epiDisplay: 3.5.0.2
 epiGWAS: 1.0.2
-epiR: 2.0.74
+epiR: 2.0.75
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.15.1.0
@@ -13428,6 +13432,7 @@ fArma: '3042.81'
 fAssets: '4023.85'
 fBasics: '4032.96'
 fBonds: '3042.78'
+fCWTr: 0.2.1
 fCalendar: 270.78.3
 fCertificates: 0.5-4
 fChange: 0.2.1
@@ -14206,7 +14211,7 @@ funprog: 0.3.0
 funr: 0.3.2
 funrar: 1.5.0
 funreg: 1.2.2
-funspace: 0.2.1
+funspace: 0.2.2
 funspotr: 0.0.4
 funtimes: '9.1'
 furniture: 1.9.14
@@ -14350,7 +14355,7 @@ gamsel: 1.8-2
 gamselBayes: 2.0-1
 gamstransfer: 3.0.3
 ganDataModel: 1.1.6
-ganGenerativeData: 1.5.7
+ganGenerativeData: 2.0.1
 ganalytics: 0.10.7
 gaoptim: '1.1'
 gap: 1.5-3
@@ -14598,6 +14603,7 @@ geometa: 0.8-0
 geometr: 0.2.10
 geometries: 0.2.4
 geometry: 0.4.7
+geommc: 0.0.0
 geomnet: 0.3.1
 geomod: 0.1.0
 geomorph: 4.0.7
@@ -14867,7 +14873,7 @@ ggrisk: '1.3'
 ggrounded: 0.0.3
 ggroups: 2.1.2
 ggsankeyfier: 0.1.8
-ggsci: 3.1.0
+ggsci: 3.2.0
 ggscidca: 0.2.3
 ggseas: 0.5.4
 ggsector: 1.6.6
@@ -16933,7 +16939,7 @@ lagsarlmtree: 1.0-1
 lakemorpho: 1.3.2
 laketemps: 0.5.1
 lakhesis: 0.0.1
-lamW: 2.2.3
+lamW: 2.2.4
 lambda.r: 1.2.4
 lambda.tools: 1.0.9
 lambdaTS: '1.1'
@@ -17214,7 +17220,7 @@ linearModel: 1.0.2
 linearOrdering: 1.0.1
 linearQ: '2.0'
 lineartestr: 1.0.0
-linelist: 1.1.3
+linelist: 1.1.4
 linelistBayes: '1.0'
 linemap: 0.3.0
 lineqGPR: 0.1.1
@@ -18151,7 +18157,7 @@ mhde: 1.0-1
 mhsmm: 0.4.21
 mht: 3.1.2
 mhtboot: 1.3.3
-mhurdle: 1.3-0
+mhurdle: 1.3-1
 mi: '1.1'
 mi4p: '1.1'
 miCoPTCM: '1.1'
@@ -19094,7 +19100,7 @@ nanny: 0.1.8
 nanoarrow: 0.5.0.1
 nanonext: 1.1.0
 nanop: 2.0-6
-nanoparquet: 0.2.0
+nanoparquet: 0.3.0
 nanostringr: 0.4.2
 nanotime: 0.3.7
 naptanr: 1.0.1
@@ -20144,7 +20150,7 @@ panel: 1.0.7
 panelAR: '0.1'
 panelPomp: '1.1'
 panelSUR: 0.1.0
-panelView: 1.1.17
+panelView: 1.1.18
 panelWranglR: 1.2.13
 panelaggregation: 0.1.1
 panelhetero: 1.0.1
@@ -20168,7 +20174,7 @@ parallelDist: 0.2.6
 parallelMCMCcombine: '2.0'
 parallelML: '1.2'
 parallelMap: 1.5.1
-parallelPlot: 0.3.1
+parallelPlot: 0.4.0
 parallelSVM: 0.1-9
 parallelize.dynamic: 0.9-1
 parallelly: 1.37.1
@@ -20534,7 +20540,7 @@ pharmaRTF: 0.1.4
 pharmaverse: 0.0.2
 pharmaverseadam: 0.2.0
 pharmaversesdtm: 1.0.0
-pharmr: 1.0.0
+pharmr: 1.0.1
 phase: 1.2.9
 phase1PRMD: 1.0.2
 phase1RMD: 1.0.9
@@ -21116,7 +21122,7 @@ predbayescor: 1.1-4
 predfairness: 0.1.0
 predfinitepop: '1.0'
 predhy: 2.1.1
-predhy.GUI: '2.0'
+predhy.GUI: 2.0.1
 predict3d: 0.1.5
 predictMe: '0.1'
 predictNMB: 0.2.1
@@ -22309,7 +22315,7 @@ refreshr: 0.1.0
 refseqR: 1.0.2
 refset: 0.1.1
 refuge: 0.3.3
-refugees: 2023.6.0
+refugees: 2023.12.0
 refund: 0.1-35
 refund.shiny: '1.0'
 refund.wave: '0.1'
@@ -23536,7 +23542,7 @@ scar: 0.2-2
 scatr: 1.0.1
 scatteR: 0.0.1
 scatterD3: 1.0.1
-scatterPlotMatrix: 0.2.0
+scatterPlotMatrix: 0.3.0
 scattermore: '1.2'
 scatterpie: 0.2.3
 scatterplot3d: 0.3-44
@@ -23764,7 +23770,7 @@ semiArtificial: 2.4.1
 semicmprskcoxmsm: 0.2.0
 semicontMANOVA: 0.1-8
 semidist: 0.1.0
-seminr: 2.3.2
+seminr: 2.3.3
 semisupKernelPCA: 0.1.5
 semlbci: 0.11.2
 semmcci: 1.1.4
@@ -24671,7 +24677,7 @@ spatstat.model: 3.2-11
 spatstat.random: 3.2-3
 spatstat.sparse: 3.0-3
 spatstat.univar: 2.0-3
-spatstat.utils: 3.0-4
+spatstat.utils: 3.0-5
 spatsurv: 2.0-1
 spbabel: 0.6.0
 spbal: 1.0.0
@@ -25610,7 +25616,7 @@ tcsinvest: 0.1.1
 td: 0.0.6
 tdROC: '2.0'
 tdata: 0.3.0
-tdaunif: 0.1.1
+tdaunif: 0.2.0
 tdcmStan: 3.0.0
 tdigest: 0.4.1
 tdist: 0.1-1.1
@@ -25843,7 +25849,7 @@ tidycat: 0.1.2
 tidycells: 0.2.2
 tidycensus: 1.6.3
 tidycharts: 0.1.3
-tidyclust: 0.2.1
+tidyclust: 0.2.2
 tidycmprsk: 1.0.0
 tidycode: 0.1.1
 tidycomm: 0.4.1
@@ -26487,8 +26493,10 @@ ukds: 0.1.0
 ukgasapi: '0.21'
 uklr: 1.0.2
 ukpolice: 0.2.2
+ulex: 0.1.0
 ulid: 0.4.0
 ulrb: 0.1.3
+ultrapolaRplot: 0.1.1
 umap: 0.2.10.0
 umbridge: '1.0'
 umiAnalyzer: 1.0.0
@@ -27148,7 +27156,7 @@ woeBinning: 0.1.6
 woeR: 0.2.1
 womblR: 1.0.5
 wombsoft: '2.0'
-woodValuationDE: 1.0.1
+woodValuationDE: 1.0.2
 woodendesc: 0.1.0
 wooldridge: 1.4-3
 worcs: 0.1.14
