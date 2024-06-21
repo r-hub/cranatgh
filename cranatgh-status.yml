@@ -376,7 +376,7 @@ BALLI: 0.2.0
 BAMBI: 2.3.5
 BAMD: '3.5'
 BAMMtools: 2.1.11
-BANAM: 0.2.0
+BANAM: 0.2.1
 BANEScarparkinglite: 0.1.3
 BANFF: '2.0'
 BANOVA: 1.2.1
@@ -560,7 +560,7 @@ BTSR: 0.1.5
 BTYD: 2.4.3
 BTYDplus: 1.2.0
 BTdecayLasso: 0.1.1
-BTtest: 0.10.1
+BTtest: 0.10.2
 BUCSS: 1.2.1
 BVAR: 1.0.5
 BVARverse: 0.0.1
@@ -847,6 +847,7 @@ BrainCon: 0.3.0
 BranchGLM: 2.1.6
 Branching: 0.9.7
 BrasilMF: 1.0.0
+BrazilCrime: '0.1'
 BrazilMet: 0.2.0
 BreakPoints: '1.2'
 BreedingSchemeLanguage: 0.9.6
@@ -1401,6 +1402,7 @@ ConsRank: 2.1.4
 ConsRankClass: 1.0.1
 ConsReg: 0.1.0
 ConsensusClustering: 1.2.0
+ConsensusOPLS: 1.0.0
 ContRespPP: 0.4.2
 Containers: '1.2'
 ContaminatedMixt: 1.3.8
@@ -1631,7 +1633,7 @@ DICOM: '0.13'
 DICOMread: 0.0.0.3
 DIDHAD: 1.0.0
 DIDmultiplegt: 0.1.4
-DIDmultiplegtDYN: 1.0.11
+DIDmultiplegtDYN: 1.0.12
 DIFM: '1.0'
 DIFboost: '0.3'
 DIFlasso: 1.0-4
@@ -1793,7 +1795,7 @@ DataVisualizations: 1.3.2
 DataViz: 0.2.8
 DatabaseConnector: 6.3.2
 DatabaseConnectorJars: 1.1.0
-DatabionicSwarm: 1.2.1
+DatabionicSwarm: 2.0.0
 Datasmith: 1.0-1
 DatastreamDSWS2R: 1.9.7
 DatastreamR: 2.0.4
@@ -2387,7 +2389,7 @@ FLCore: 1.4-4
 FLEDA: 1.4-3
 FLIM: '1.2'
 FLLat: 1.2-1
-FLOPART: 2023.8.31
+FLOPART: 2024.6.19
 FLORAL: 0.2.0
 FLR: '1.0'
 FLSSS: 9.1.3
@@ -3453,6 +3455,7 @@ ImageMetrics: '0.6'
 ImaginR: 0.1.7
 Imap: '1.32'
 Immigrate: 0.2.1
+Imneuron: 0.1.0
 ImpShrinkage: 1.0.0
 ImpactEffectsize: '0.7'
 ImpactIV: '1.0'
@@ -3790,7 +3793,7 @@ LOGANTree: 0.1.1
 LOGICOIL: 0.99.0
 LOGIT: '1.3'
 LOMAR: 0.4.0
-LOPART: 2020.6.29
+LOPART: 2024.6.19
 LOST: 2.0.2
 LPBkg: '1.2'
 LPCM: 0.47-4
@@ -4021,7 +4024,7 @@ MAnorm2: 1.2.2
 MB: 0.1.1
 MBA: 0.1-0
 MBAnalysis: 2.0.2
-MBBEFDLite: 0.0.2
+MBBEFDLite: 0.0.3
 MBC: 0.10-6
 MBCbook: 0.1.2
 MBCluster.Seq: '1.0'
@@ -4235,7 +4238,7 @@ MNB: 1.1.0
 MNLR: 0.1.0
 MNLpred: 0.0.8
 MNM: 1.0-4
-MNP: 3.1-4
+MNP: 3.1-5
 MNS: '1.0'
 MOCCA: '1.4'
 MOCHA: 1.1.0
@@ -4649,6 +4652,7 @@ MultEq: '2.4'
 MultIS: 0.6.2
 MultNonParam: 1.3.9
 MultOrdRS: 0.1-3
+MultRegCMP: 0.1.0
 MultSurvTests: '0.2'
 MultiABEL: 1.1-6
 MultiATSM: 0.3.6
@@ -5408,7 +5412,7 @@ ParamHelpers: 1.14.1
 ParentOffspring: '1.0'
 Pareto: 2.4.5
 ParetoPosStable: '1.1'
-Paris2024Colours: 0.1.2
+Paris2024Colours: 0.2.0
 PartCensReg: '1.39'
 PartialNetwork: 1.0.4
 Partiallyoverlapping: '2.0'
@@ -6097,7 +6101,7 @@ RNetCDF: 2.9-2
 RNetLogo: 1.0-4
 RNewsflow: 1.2.8
 RNifti: 1.7.0
-RNiftyReg: 2.8.2
+RNiftyReg: 2.8.3
 ROAuth: 0.9.6
 ROC632: '0.6'
 ROCFTP.MMS: 1.0.0
@@ -7043,7 +7047,7 @@ SHLR: '1.0'
 SHT: 0.1.8
 SI: 0.2.0
 SIAmodules: 0.1.1
-SIAtools: 0.1.0
+SIAtools: 0.1.1
 SIBER: 2.1.9
 SIBERG: 2.0.3
 SID: '1.1'
@@ -8681,7 +8685,7 @@ adehabitatHR: 0.4.21
 adehabitatHS: 0.3.17
 adehabitatLT: 0.3.27
 adehabitatMA: 0.3.16
-adelie: 1.0.0
+adelie: 1.0.1
 adephylo: 1.1-16
 adepro: 4.1.0
 adept: '1.2'
@@ -8974,7 +8978,7 @@ anyLib: 1.0.5
 anybadger: 0.1.0
 anyflights: 0.3.4
 anytime: 0.3.9
-ao: 0.3.3
+ao: 1.0.0
 aod: 1.3.3
 aods3: 0.4-1.2
 aof: 0.1.2
@@ -9239,7 +9243,7 @@ audubon: 0.5.2
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.7
 auk: 0.7.0
-aum: 2023.6.14
+aum: 2024.6.19
 aurelius: 0.8.4
 aurin: 0.6.0
 ausplotsR: 2.0.5
@@ -9600,6 +9604,7 @@ bear: 2.6.4
 bearishTrader: 1.0.2
 beast: '1.1'
 beastier: 2.5.1
+beastt: 0.0.1
 beats: 0.1.1
 beautier: 2.6.12
 beaver: 1.0.0
@@ -10843,7 +10848,7 @@ clr: 0.1.2
 clrdag: 0.6.0
 clrng: 0.0.3
 clttools: '1.3'
-clubSandwich: 0.5.10
+clubSandwich: 0.5.11
 clubpro: 0.6.2
 clue: 0.3-65
 clues: 0.6.2.2
@@ -11471,7 +11476,7 @@ cranly: 0.6.0
 crantastic: '0.1'
 crassmat: 0.0.6
 crawl: 2.3.0
-crayon: 1.5.2
+crayon: 1.5.3
 crayons: 0.0.3
 crblocks: 1.0-0
 crc32c: 0.0.2
@@ -11486,7 +11491,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.9.3
+crew: 0.9.4
 crew.aws.batch: 0.0.5
 crew.cluster: 0.3.1
 crfsuite: 0.4.2
@@ -11554,6 +11559,7 @@ crsnls: '0.2'
 crso: 0.1.1
 crsra: 0.2.3
 crsuggest: '0.4'
+crt2power: 1.0.0
 crtests: 0.2.1
 crul: 1.4.2
 crunch: 1.30.4
@@ -13100,7 +13106,7 @@ epicalc: 2.15.1.0
 epicasting: 0.1.0
 epicontacts: 1.1.4
 epidata: 0.4.0
-epidatr: 1.1.1
+epidatr: 1.2.0
 epidemia: 1.0.0
 epidm: 1.0.4
 epifit: 0.1.2
@@ -13296,7 +13302,7 @@ evilDice: '1.0'
 evinf: 0.8.10
 evir: 1.7-4
 evmix: '2.12'
-evoTS: 1.0.2
+evoTS: 1.0.3
 evobiR: '1.1'
 evolMap: 1.2.33
 evolqg: 0.3-4
@@ -13994,7 +14000,7 @@ forceplate: 1.1-3
 foreSIGHT: 1.2.0
 foreach: 1.5.2
 forecTheta: 2.6.2
-forecast: 8.22.0
+forecast: 8.23.0
 forecastHybrid: 5.0.19
 forecastLSW: '1.0'
 forecastML: 0.9.0
@@ -14764,7 +14770,7 @@ ggdmc: 0.2.6.0
 gge: '1.8'
 ggeasy: 0.1.4
 ggedit: 0.4.1
-ggeffects: 1.6.0
+ggeffects: 1.7.0
 ggenealogy: 1.0.3
 ggetho: 0.3.7
 ggfacto: 0.3.0
@@ -16590,7 +16596,7 @@ jetset: 3.4.0
 jewel: 2.0.2
 jfa: 0.7.1
 jgcricolors: 1.0.0
-jgsbook: 1.0.5
+jgsbook: 1.0.6
 jiebaR: '0.11'
 jiebaRD: '0.1'
 jinjar: 0.3.1
@@ -16611,7 +16617,7 @@ jmec: 1.0-4
 jmetrik: '1.1'
 jmotif: 1.1.1
 jmuOutlier: '2.2'
-jmv: 2.5.5
+jmv: 2.5.6
 jmvReadWrite: 0.4.6
 jmvconnect: 2.3.13
 jmvcore: 2.4.7
@@ -18030,7 +18036,7 @@ meta.shrinkage: 0.1.4
 meta4diag: 2.1.1
 metaBLUE: 1.0.0
 metaBMA: 0.6.9
-metaCluster: 0.1.0
+metaCluster: 0.1.1
 metaConvert: 1.0.0
 metaDigitise: 1.0.1
 metaEnsembleR: 0.1.0
@@ -18271,7 +18277,7 @@ minidown: 0.4.0
 minimalRSD: 1.0.0
 minimap: 0.1.0
 minimax: 1.1.1
-minimaxApprox: 0.4.2
+minimaxApprox: 0.4.3
 minimaxdesign: 0.1.5
 minimist: '0.1'
 minioclient: 0.0.6
@@ -18886,7 +18892,7 @@ multiRDPG: 1.0.1
 multiROC: 1.1.1
 multiUS: 1.2.3
 multiband: 0.1.0
-multibias: 1.5.0
+multibias: 1.5.1
 multibiasmeta: 0.2.2
 multibiplotGUI: '1.1'
 multiblock: 0.8.8.1
@@ -20189,7 +20195,7 @@ parallelpam: '1.4'
 param2moment: 0.1.2
 param6: 0.2.4
 paramGUI: 2.2.0
-parameters: 0.21.7
+parameters: 0.22.0
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.4
@@ -21019,6 +21025,7 @@ portion: 0.1.0
 portn: 1.0.0
 portsort: 0.1.0
 portvine: 1.0.3
+poset: 1.0.0
 posologyr: 1.2.4
 postCP: 1.7.2
 postDoubleR: 1.4.12
@@ -21208,6 +21215,7 @@ prioriactions: 0.5.0
 prioritizr: 8.0.4
 prioritizrdata: 0.3.2
 prioritylasso: 0.3.1
+priorsense: 1.0.0
 prism: 0.2.1
 prismadiagramR: 1.0.0
 prismatic: 1.1.2
@@ -21225,6 +21233,7 @@ probemapper: 1.0.0
 probemod: 0.2.1
 probhat: 0.4.1
 probout: 1.1.2
+probs: 0.9.9
 probstats4econ: 0.2.0
 probsvm: '1.00'
 proccalibrad: '0.14'
@@ -21381,7 +21390,7 @@ psychmetadata: 1.0.0
 psycho: 0.6.1
 psychometric: '2.4'
 psychomix: 1.1-8
-psychonetrics: '0.12'
+psychonetrics: '0.13'
 psychotools: 0.7-4
 psychotree: 0.16-1
 psychrolib: 2.5.2
@@ -21698,7 +21707,7 @@ r2d3: 0.2.6
 r2dRue: 1.0.4
 r2dictionary: '0.2'
 r2dii.analysis: 0.4.0
-r2dii.data: 0.5.0
+r2dii.data: 0.6.0
 r2dii.match: 0.2.1
 r2dii.plot: 0.4.0
 r2fireworks: 0.1.0
@@ -22532,7 +22541,7 @@ revgeo: '0.15'
 review: '2.5'
 revoIPC: 1.0-3
 revpref: 0.1.0
-revss: 1.0.6
+revss: 2.0.0
 revtools: 0.4.1
 revulyticsR: 0.0.3
 reweight: 1.2.1
@@ -22754,7 +22763,7 @@ rlibkriging: 0.8-0.1
 rliger: 2.0.1
 rlinkedinads: 0.2.0
 rlist: 0.4.6.2
-rlistings: 0.2.8
+rlistings: 0.2.9
 rllama: 0.4.4
 rlm: '1.2'
 rlmDataDriven: 0.4.0
@@ -23185,7 +23194,7 @@ rt: 1.1.0
 rt.test: 1.18.7.9
 rt3: 0.1.2
 rtable: 0.1.5
-rtables: 0.6.7
+rtables: 0.6.8
 rtape: '2.2'
 rtdists: 0.11-5
 rtematres: '0.2'
@@ -23255,6 +23264,7 @@ runner: 0.4.4
 runonce: 0.2.3
 runstats: 1.1.0
 rusda: 1.0.8
+rush: 0.1.0
 rusk: 0.1.1
 rusquant: 1.1.1
 rust: 1.4.2
@@ -23782,6 +23792,7 @@ semidist: 0.1.0
 seminr: 2.3.3
 semisupKernelPCA: 0.1.5
 semlbci: 0.11.2
+semlrtp: 0.1.1
 semmcci: 1.1.4
 semmcmc: 0.0.6
 semnar: 0.8.1
@@ -24881,7 +24892,7 @@ sqlparseR: 0.1.0
 sqlscore: 0.1.4
 sqlshare: 1.0.3
 sqlstrings: 1.0.0
-sqltargets: 0.0.1
+sqltargets: 0.1.0
 sqlutils: '1.2'
 sqp: '0.5'
 squant: 1.1.5
@@ -25167,7 +25178,7 @@ strawr: 0.0.91
 stray: 0.1.1
 stream: 2.0-2
 stream.net: 1.0.6
-streamConnect: 0.0-4
+streamConnect: 0.0-6
 streamDAG: '1.5'
 streamDepletr: 0.2.0
 streamMOA: 1.3-1
@@ -25575,7 +25586,7 @@ tapnet: '0.3'
 tarchetypes: 0.9.0
 tardis: 0.1.4
 targeted: '0.5'
-targets: 1.7.0
+targets: 1.7.1
 tashu: 0.1.1
 taskPR: '0.34'
 taskscheduleR: '1.8'
@@ -25997,6 +26008,7 @@ tinyProject: 0.6.1
 tinyarray: 2.4.2
 tinycodet: 0.5.0
 tinylabels: 0.2.4
+tinyplot: 0.1.0
 tinyscholar: 0.1.7
 tinysnapshot: 0.0.5
 tinyspotifyr: 0.2.2
@@ -26104,7 +26116,7 @@ topsis: '1.0'
 tor: 1.1.2
 torch: 0.13.0
 torchaudio: 0.3.1
-torchdatasets: 0.3.0
+torchdatasets: 0.3.1
 torchopt: 0.1.4
 torchvision: 0.6.0
 torchvisionlib: 0.5.0
