@@ -467,7 +467,7 @@ BIDistances: 0.0.2
 BIEN: 1.2.6
 BIFIEsurvey: 3.6-6
 BIGDAWG: 3.0.3
-BIGL: 1.9.1
+BIGL: 1.9.2
 BINCO: 0.1-1
 BINCOR: 0.2.0
 BINtools: 0.2.0
@@ -960,7 +960,7 @@ CFAcoop: 1.0.0
 CFC: 1.2.0
 CFF: '1.0'
 CFL: '0.1'
-CFO: 1.3.0
+CFO: 1.3.1
 CFilt: 0.2.1
 CFtime: 1.4.0
 CGE: 0.3.3
@@ -1599,7 +1599,7 @@ DEA: 0.1-2
 DEBBI: 0.1.0
 DECIDE: '1.3'
 DEEPR: '0.1'
-DEET: 1.0.11
+DEET: 1.0.12
 DEEVD: 1.2.3
 DEGRE: 0.2.0
 DELTD: 2.6.8
@@ -1621,7 +1621,7 @@ DFBA: 0.1.0
 DFD: 0.1.0
 DFIT: '1.1'
 DGCA: 1.0.3
-DGEAR: 0.1.3
+DGEAR: 0.1.4
 DGEobj: 1.1.2
 DGEobj.utils: 1.0.6
 DGLMExtPois: 0.2.3
@@ -5037,7 +5037,7 @@ OneArmTTE: '1.0'
 OneHandClapping: '1.5'
 OneR: '2.2'
 OneSampleLogRankTest: 0.9.2
-OneSampleMR: 0.1.4
+OneSampleMR: 0.1.5
 OneStep: 0.9.3
 OneTwoSamples: 1.1-0
 OnomasticDiversity: '0.1'
@@ -6879,7 +6879,7 @@ Runiversal: 1.0.2
 Runuran: '0.38'
 RunuranGUI: '0.3'
 Rvcg: 0.22.2
-Rveg: 0.1.4
+Rveg: 0.1.5
 Rvelslant: 0.2-3
 Rvmmin: 2018-4.17.1
 Rvoterdistance: '1.1'
@@ -8347,6 +8347,7 @@ VizOR: 0.8-5
 VorteksExport: 0.1.8
 Voss: 0.1.5
 VoxR: 1.0.0
+VsusP: 1.0.0
 VulnToolkit: 1.1.4
 W2CWM2C: '2.2'
 W3CMarkupValidator: 0.1-7
@@ -8768,7 +8769,7 @@ agcounts: 0.6.6
 ageg: 1.0.0
 agena.ai: 1.1.1
 ageprior: 0.9.2
-ageutils: 0.0.3
+ageutils: 0.0.4
 agfh: 0.2.1
 aggTrees: 2.0.2
 agghoo: 0.1-0
@@ -8818,7 +8819,7 @@ airGRdatasets: 0.2.1
 airGRdatassim: 0.1.3
 airGRiwrm: 0.6.2
 airGRteaching: 0.3.2
-aire.zmvm: 0.9.0
+aire.zmvm: 1.0.0
 airnow: 0.1.0
 airportr: 0.1.3
 airports: 0.1.0
@@ -8978,7 +8979,7 @@ ant: 0.0-10
 antaresEditObject: 0.7.0
 antaresProcessing: 0.18.2
 antaresRead: 2.7.0
-antaresViz: 0.18.0
+antaresViz: 0.18.1
 anthro: 1.0.1
 anthroplus: 0.9.0
 anticlust: 0.8.5
@@ -10827,6 +10828,7 @@ clinUtiDNA: '1.0'
 clinUtils: 0.2.0
 clines: 2.0-3
 clinfun: 1.1.5
+clinicalomicsdbR: 1.0.5
 clinicalsignificance: 2.0.0
 clinmon: 0.6.0
 clinsig: '1.2'
@@ -10890,7 +10892,7 @@ clusterMI: 1.1.1
 clusterPower: 0.7.0
 clusterRepro: '0.9'
 clusterSEs: 2.6.5
-clusterSim: 0.51-3
+clusterSim: 0.51-4
 clusterability: 0.1.1.0
 clusteredinterference: 1.0.1
 clusterfly: '0.4'
@@ -11519,7 +11521,7 @@ criticality: 0.9.3
 criticalpath: 0.2.1
 critpath: 0.2.2
 crm12Comb: 0.1.6
-crmPack: 1.0.5
+crmPack: 1.0.6
 crmReg: 1.0.2
 crminer: 0.4.0
 crmn: 0.0.21
@@ -11979,7 +11981,7 @@ ddepn: '2.2'
 ddesolve: '1.04'
 ddi: 0.1.0
 ddiv: 0.1.1
-ddml: 0.2.1
+ddml: 0.2.2
 ddp: 0.0.3
 ddpca: '1.1'
 ddpcr: 1.15.2
@@ -12069,7 +12071,7 @@ dematel: 0.1.0
 demcon: 0.4.0
 demi: 1.1.2
 demic: 2.0.0
-deming: '1.4'
+deming: 1.4-1
 demoGraphic: 0.1.0
 demoKde: 1.0.1
 demoShiny: '0.1'
@@ -13333,6 +13335,7 @@ evt0: 1.1-4
 evtclass: '1.0'
 evtree: 1.0-8
 ewoc: 0.3.0
+ewp: 0.1.1
 exCon: 0.2.5
 exDE: 1.0.0
 exPrior: 1.0.1
@@ -13697,7 +13700,7 @@ fdarep: 0.1.1
 fdasrvf: 2.2.0
 fdatest: 2.1.1
 fdcov: 1.1.0
-fddm: 0.5-2
+fddm: 1.0-1
 fdicdata: 0.1.0
 fdim: 1.0-7
 fdistr: 0.1.0
@@ -14150,8 +14153,9 @@ frequency: 0.4.1
 frequencyConnectedness: 0.2.4
 frequentdirections: 0.1.0
 frequentistSSD: 0.1.1
+frequentistSSDBinary: 0.1.0
 freqweights: 1.0.4
-fresh: 0.2.0
+fresh: 0.2.1
 freshr: 1.0.2
 frictionless: 1.1.0
 friends: 0.1.0
@@ -14374,6 +14378,7 @@ gamlss.spatial: 3.0-2
 gamlss.tr: 5.1-9
 gamlss.util: 4.3-4
 gamlssbssn: 0.1.0
+gamlssx: 1.0.1
 gamm4: 0.2-6
 gamm4.test: 0.1.0
 gammSlice: 2.0-2
@@ -14730,7 +14735,7 @@ ggDoubleHeat: 0.1.2
 ggESDA: 0.2.0
 ggExtra: 0.10.1
 ggFacetSample: 1.0.0
-ggFishPlots: 0.2.2
+ggFishPlots: 0.3.0
 ggHoriPlot: 1.0.1
 ggHorizon: '0.1'
 ggOceanMaps: 2.2.0
@@ -14882,7 +14887,7 @@ ggpointless: 0.1.0
 ggpol: 0.0.7
 ggpolar: 0.2.2
 ggpolypath: 0.3.0
-ggpp: 0.5.7
+ggpp: 0.5.8
 ggprism: 1.0.5
 ggpubr: 0.6.0
 ggpval: 0.2.5
@@ -16256,7 +16261,7 @@ ineqJD: '1.0'
 inet: 0.1.0
 inetwork: '1.2'
 infer: 1.0.7
-inferCSN: 1.0.3
+inferCSN: 1.0.5
 inference: 0.1.0
 inferference: 1.0.2
 inferr: 0.3.1
@@ -16475,7 +16480,7 @@ irtDemo: 0.1.4
 irtGUI: '0.2'
 irtProb: '1.2'
 irtQ: 0.2.0
-irtawsi: 0.3.4
+irtawsi: 0.4.1
 irtoys: 0.2.2
 irtpwr: 1.0.3
 irtrees: 1.0.0
@@ -16992,7 +16997,7 @@ landpred: '1.2'
 landsat: 1.1.2
 landsat8: 0.1-10
 landscapeR: '1.2'
-landscapemetrics: 2.1.2
+landscapemetrics: 2.1.3
 landscapetools: 0.5.0
 landsepi: 1.4.0
 langevitour: '0.7'
@@ -18360,7 +18365,7 @@ misspi: 0.1.0
 mistat: 2.0.4
 mistr: 0.0.6
 mistral: 2.2.2
-misty: 0.6.3
+misty: 0.6.4
 misuvi: 0.1.0
 mitml: 0.4-5
 mitools: '2.4'
@@ -18545,7 +18550,7 @@ mmpf: 0.0.5
 mmpp: '0.6'
 mmppr: '0.1'
 mmr: 0.1.0
-mmrm: 0.3.11
+mmrm: 0.3.12
 mmsample: '0.1'
 mmstat4: 0.2.1
 mmtfa: '0.3'
@@ -18899,7 +18904,7 @@ mulset: 1.0.0
 mult.latent.reg: 0.1.7
 multDM: 1.1.4
 multIntTestFunc: 0.2.0
-multbxxc: 1.0.2
+multbxxc: 1.0.3
 multcomp: 1.4-25
 multcompView: 0.1-10
 multdyn: '1.6'
@@ -18976,7 +18981,7 @@ multipleDL: 1.0.0
 multipleNCC: 1.2-4
 multipleOutcomes: '0.4'
 multiplestressR: 0.1.1
-multiplex: '3.3'
+multiplex: 3.3-2
 multiplyr: 0.1.1
 multipol: 1.0-9
 multirich: 2.1.3
@@ -19225,6 +19230,7 @@ nemtr: 0.0.1.0
 neo2R: 2.4.2
 neo4jshell: 0.1.2
 neo4r: 0.1.1
+neodistr: 0.1.1
 neojags: 0.1.4
 neonOS: 1.1.0
 neonPlantEcology: 1.6.1
@@ -20070,7 +20076,7 @@ owdbr: 1.0.1.1
 owidR: 1.4.2
 owl: 0.1.1
 owmr: 0.8.2
-ows4R: 0.3-6
+ows4R: '0.4'
 ox: 0.1.0
 oxcAAR: 1.1.1
 oxcgrt: 0.1.0
@@ -20353,7 +20359,7 @@ pbdSLAP: 0.3-5
 pbdZMQ: 0.3-11
 pbivnorm: 0.6.0
 pbixr: 0.1.4
-pbkrtest: 0.5.2
+pbkrtest: 0.5.3
 pbm: 1.2.1
 pbmcapply: 1.5.1
 pbo: 1.3.5
@@ -22235,7 +22241,7 @@ reGenotyper: 1.2.0
 reReg: 1.4.6
 react: 2024.1.0
 reactCheckbox: 1.0.0
-reactR: 0.5.0
+reactR: 0.6.0
 reactable: 0.4.4
 reactable.extras: 0.2.0
 reactablefmtr: 2.0.0
@@ -22262,6 +22268,7 @@ readbitmap: 0.1.5
 readbulk: 1.1.4
 reader: 1.0.6
 readit: 1.0.0
+readme2vignette: 0.1.0
 readmet: 1.7.1
 readmission: 0.1.0
 readmnist: 1.0.6
@@ -23097,7 +23104,7 @@ rrBLUP: 4.6.3
 rrBlupMethod6: '1.3'
 rrMixture: 0.1-2
 rrandvec: 1.0.0
-rrapply: 1.2.6
+rrapply: 1.2.7
 rrat: 1.0.0
 rray: 0.1.0
 rrcov: 1.7-5
@@ -23135,7 +23142,7 @@ rsae: '0.3'
 rsam: 0.1.0
 rsample: 1.2.1
 rsat: 0.1.21
-rsatscan: 1.0.7
+rsatscan: 1.0.8
 rsbml: 1.2-1
 rsbp: 0.1.0
 rscala: 3.2.25
@@ -24161,7 +24168,7 @@ sigmaNet: 1.1.0
 sigmajs: 0.1.5
 sigminer: 2.3.1
 sigmoid: 1.4.0
-signal: 1.8-0
+signal: 1.8-1
 signal.hsmm: 1.2.1
 signalHsmm: '1.5'
 signalextraction: 2.0.3
@@ -24665,13 +24672,13 @@ sparseLRMatrix: 0.1.0
 sparseLTSEigen: 0.2.0.1
 sparseMVN: 0.2.2
 sparseMatEst: 1.0.0
-sparseR: 0.2.3
+sparseR: 0.3.0
 sparseSEM: '4.0'
 sparseSVM: 1.1-6
 sparsebn: 0.1.2
 sparsebnUtils: 0.0.8
 sparsediscrim: 0.3.0
-sparsegl: 1.0.2
+sparsegl: 1.1.0
 sparseinv: 0.1.3
 sparsenet: '1.6'
 sparsepca: 0.1.2
@@ -25573,7 +25580,7 @@ tableeasy: 1.1.2
 tableone: 0.13.2
 tableplot: 0.3-5
 tablerDash: 0.1.0
-tables: 0.9.25
+tables: 0.9.28
 tableschema.r: 1.1.2
 tablesgg: 0.9-1
 tablet: 0.6.8
@@ -26462,7 +26469,7 @@ turkeyelections: 0.1.2
 turner: 0.1.9
 tutoR: 0.3.2
 tutorial: 0.4.3
-tutorial.helpers: 0.2.7
+tutorial.helpers: 0.3.0
 tuts: 0.1.1
 tv: 2.0.2
 tvR: 0.3.2
@@ -26652,7 +26659,7 @@ usdc: 0.1.0
 usdm: 2.1-7
 usdoj: 1.1.0
 usedist: 0.4.0
-usedthese: 0.4.0
+usedthese: 0.5.0
 useful: 1.2.6.1
 usefun: 0.5.0
 usemodels: 0.2.0
@@ -26824,7 +26831,7 @@ vennLasso: 0.1.6
 venneuler: 1.1-4
 vennplot: '1.0'
 verbaliseR: '0.1'
-verbalisr: 0.5.2
+verbalisr: 0.6.0
 verhoeff: 0.4.0
 verification: '1.42'
 verify: 0.8-4.1
