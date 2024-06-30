@@ -1320,7 +1320,7 @@ CohortCharacteristics: 0.2.1
 CohortConstructor: 0.2.1
 CohortExplorer: 0.1.0
 CohortPlat: 1.0.5
-CohortSurvival: 0.5.1
+CohortSurvival: 0.5.2
 CohortSymmetry: 0.1.1
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
@@ -2849,7 +2849,7 @@ GSSTDA: 1.0.0
 GSelection: 0.1.0
 GSparO: '1.0'
 GTDL: 1.0.0
-GUD: 0.0.5
+GUD: 1.0.0
 GUEST: 0.1.0
 GUIDE: 1.2.7
 GUILDS: 1.4.6
@@ -5186,7 +5186,7 @@ PDN: 0.1.0
 PDQutils: 0.1.6
 PDSCE: 1.2.1
 PDShiny: 0.1.0
-PDXpower: 1.0.1
+PDXpower: 1.0.2
 PDtoolkit: 1.2.0
 PEACH: 0.1.1
 PEGroupTesting: '1.0'
@@ -10405,7 +10405,7 @@ casino: 0.1.0
 caspar: '1.0'
 cassandRa: 0.2.0
 cassowaryr: 2.0.0
-castor: 1.8.0
+castor: 1.8.2
 cat: 0.0-9
 cat.dt: 0.3.1
 cat2cat: 0.4.7
@@ -11664,7 +11664,7 @@ cubeview: 0.2.0
 cubfits: 0.1-4
 cubicBsplines: 1.0.0
 cubing: 1.0-5
-cucumber: 1.0.3
+cucumber: 1.0.4
 cuda.ml: 0.3.2
 cudaBayesreg: 0.3-16
 cudaBayesregData: 0.3-11
@@ -13615,7 +13615,7 @@ fastStat: '1.4'
 fastTS: 1.0.1
 fastText: 1.0.4
 fastTextR: 2.1.0
-fastTopics: 0.6-163
+fastTopics: 0.6-186
 fastVAR: 1.2.1
 fastWavelets: 1.0.1
 fasta: 0.1.0
@@ -14909,7 +14909,7 @@ ggraph: 2.2.1
 ggraptR: '1.3'
 ggrasp: '1.2'
 ggrastr: 1.0.2
-ggrcs: 0.3.8
+ggrcs: 0.4.0
 ggredist: 0.0.2
 ggrepel: 0.9.5
 ggridges: 0.5.6
@@ -15127,7 +15127,7 @@ gmoTree: 1.0.1
 gmodels: 2.19.1
 gmp: 0.7-4
 gmpoly: 1.1.0
-gms: 0.4.0
+gms: 0.31.2
 gmt: 2.0.3
 gmtFD: 0.1.0
 gmum.r: 0.2.1
@@ -15309,7 +15309,7 @@ grec: 1.6.0
 greed: 0.6.1
 greekLetters: 1.0.2
 greeks: 1.4.2
-greenR: 0.0.1.1
+greenR: 0.0.1.2
 greenclust: 1.1.1
 greencrab.toolkit: '0.2'
 gregRy: 0.1.0
@@ -17917,7 +17917,7 @@ mccr: 0.4.4
 mcemGLM: 1.1.3
 mcen: 1.2.1
 mcga: 3.0.7
-mcgf: 1.1.0
+mcgf: 1.1.1
 mcgfa: 2.2.1
 mcgibbsit: 1.2.2
 mcglm: 0.8.0
@@ -18377,7 +18377,7 @@ misspi: 0.1.0
 mistat: 2.0.4
 mistr: 0.0.6
 mistral: 2.2.2
-misty: 0.6.4
+misty: 0.6.5
 misuvi: 0.1.0
 mitml: 0.4-5
 mitools: '2.4'
@@ -18498,8 +18498,8 @@ mlr3db: 0.5.2
 mlr3fairness: 0.3.2
 mlr3fda: 0.1.2
 mlr3filters: 0.8.0
-mlr3fselect: 0.12.0
-mlr3hyperband: 0.5.0
+mlr3fselect: 1.0.0
+mlr3hyperband: 0.6.0
 mlr3learners: 0.7.0
 mlr3mbo: 0.2.2
 mlr3measures: 0.5.0
@@ -18512,7 +18512,7 @@ mlr3shiny: 0.3.0
 mlr3spatial: 0.5.0
 mlr3spatiotempcv: 2.3.1
 mlr3summary: 0.1.0
-mlr3tuning: 0.20.0
+mlr3tuning: 1.0.0
 mlr3tuningspaces: 0.5.1
 mlr3verse: 0.2.8
 mlr3viz: 0.8.0
@@ -21688,7 +21688,7 @@ qualypsoss: 1.1.1
 quantCurves: 1.0.0
 quantable: 0.3.6
 quantchem: '0.13'
-quantdates: '1.0'
+quantdates: 2.0.2
 quantdr: 1.2.2
 quanteda: 4.0.2
 quanteda.textmodels: 0.9.7
@@ -23279,7 +23279,7 @@ rtodoist: 0.1.0
 rtoot: 0.3.4
 rtop: 0.6-9
 rtpcr: 1.0.9
-rtrek: 0.4.0
+rtrek: 0.5.0
 rtrend: 0.1.5
 rtrends: 0.1.0
 rtrie: 0.1.1
@@ -23678,7 +23678,7 @@ scout: 1.0.4
 scperturbR: 0.1.0
 scphaser: 1.0.0
 scpi: 2.2.5
-scplot: 0.3.3
+scplot: 0.4.0
 scpm: 2.0.0
 scpoisson: 0.0.1
 scqe: 1.0.0
@@ -23761,7 +23761,7 @@ seasonalityPlot: 1.2.1
 seasonalview: '0.3'
 seastests: 0.15.4
 seawaveQ: 2.0.2
-secr: 4.6.7
+secr: 4.6.9
 secrdesign: 2.9.1
 secret: 1.1.0
 secretbase: 1.0.0
@@ -24591,7 +24591,7 @@ sorocs: 0.1.0
 sortable: 0.5.0
 sortinghat: '0.1'
 sorvi: 0.8.21
-sos: 2.1-7
+sos: 2.1-8
 sos4R: 0.4.2
 sotkanet: 0.9.79
 sotu: 1.0.4
@@ -25429,7 +25429,7 @@ survivalSL: '0.94'
 survivalVignettes: 0.1.6
 survivalmodels: 0.1.191
 survivalsvm: 0.0.5
-survivoR: 2.3.3
+survivoR: 2.3.4
 survminer: 0.4.9
 survmixer: '1.3'
 survobj: 3.1.0
@@ -25607,7 +25607,7 @@ taboolaR: 0.1.0
 tabplot: 1.3-3
 tabplotGTK: '0.6'
 tabplotd3: 0.3.3
-tabr: 0.4.9
+tabr: 0.5.0
 tabshiftr: 0.4.1
 tabuSearch: 1.1.1
 tabula: 3.1.0
@@ -25881,7 +25881,7 @@ thgenetics: 0.4-2
 thickmatch: 0.3.1
 thief: '0.3'
 thinkr: '0.16'
-this.path: 2.4.0
+this.path: 2.5.0
 thor: 1.1.5
 thorn: 0.2.0
 thredds: 0.1-4
@@ -25981,7 +25981,7 @@ tidyqwi: 0.1.2
 tidyr: 1.3.1
 tidyrates: 0.0.1
 tidyrgee: 0.1.0
-tidyrules: 0.1.5
+tidyrules: 0.2.7
 tidysdm: 0.9.5
 tidyselect: 1.2.1
 tidyseurat: 0.8.0
@@ -27362,7 +27362,7 @@ xgobi: 1.2-15
 xgrid: 1.0-1
 xgrove: 0.1-7
 xgxr: 1.1.2
-xhaz: 2.0.1
+xhaz: 2.0.2
 xhmmScripts: '1.1'
 xkcd: 0.0.6
 xkcdcolors: '1.0'
