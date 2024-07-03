@@ -76,7 +76,7 @@ AIGIS: 1.0-1
 AIM: '1.01'
 AIPW: 0.6.3.2
 AIS: '1.0'
-AIUQ: 0.5.2
+AIUQ: 0.5.3
 ALA4R: 1.9.1
 ALDqr: '1.0'
 ALEPlot: '1.1'
@@ -913,6 +913,7 @@ CAvariants: '6.0'
 CB2: 1.3.4
 CBCgrps: 2.8.2
 CBDA: 1.0.0
+CBPE: 0.1.0
 CBPS: '0.23'
 CBSr: 1.0.5
 CBT: '1.0'
@@ -1079,6 +1080,7 @@ CP: '1.8'
 CPAT: 0.1.0
 CPBayes: 1.1.0
 CPC: 2.6.0
+CPCAT: 1.0.0
 CPE: 1.6.3
 CPGLIB: 1.1.1
 CPGchron: '1.1'
@@ -1158,7 +1160,7 @@ Calculator.LR.FNs: '1.3'
 CaliCo: 0.1.1
 CalibratR: 0.1.2
 CalibrateSSB: 1.3.0
-CalibrationCurves: 2.0.2
+CalibrationCurves: 2.0.3
 CallEshotgun: 0.2.0
 CamelUp: 2.0.3
 CancerEvolutionVisualization: 2.0.1
@@ -1499,7 +1501,7 @@ CryptRndTest: 1.2.7
 CrypticIBDcheck: 0.3-3
 CsChange: 0.1.7
 CuCubes: 0.1.0
-Cubist: 0.4.2.1
+Cubist: 0.4.4
 CureAuxSP: 0.0.1
 CureDepCens: 0.1.0
 CurricularAnalytics: 1.0.0
@@ -1960,7 +1962,7 @@ DriftBurstHypothesis: 0.4.0.1
 DrillR: '0.1'
 DriveML: 0.1.5
 DrugClust: '0.2'
-DrugExposureDiagnostics: 1.0.5
+DrugExposureDiagnostics: 1.0.6
 DrugSim2DR: 0.1.1
 DrugUtilisation: 0.6.1
 DstarM: 0.4.0
@@ -2465,7 +2467,7 @@ FactorsR: '1.5'
 Factoshiny: '2.6'
 Fahrmeir: 2016.5.31
 FairMclus: 2.2.1
-FamEvent: '3.1'
+FamEvent: '3.2'
 Familias: 2.6.1
 Families: 2.0.2
 FamilyRank: '1.0'
@@ -2711,7 +2713,7 @@ GFisher: 0.2.0
 GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
-GGIR: 3.1-1
+GGIR: 3.1-2
 GGIRread: 1.0.1
 GGMM: 1.0.1
 GGMncv: 2.1.1
@@ -3639,7 +3641,7 @@ KFPLS: '1.0'
 KGode: 1.0.4
 KHQ: 0.2.0
 KINSIMU: 0.1.2-2
-KLINK: 0.7.3
+KLINK: 1.0.0
 KLexp: 1.0.0
 KMD: 0.1.0
 KMDA: '1.0'
@@ -5034,7 +5036,7 @@ OncoBayes2: 0.8-9
 OncoSubtype: 1.0.0
 Oncofilterfast: 1.0.0
 Oncotree: 0.3.5
-One4All: '0.4'
+One4All: '0.5'
 OneArm2stage: 1.2.1
 OneArmPhaseTwoStudy: 1.0.3
 OneArmTTE: '1.0'
@@ -5302,6 +5304,7 @@ PPtree: 2.3.0
 PPtreeViz: 2.0.4
 PPtreeregViz: 2.0.5
 PQLseq: 1.2.1
+PRA: 0.2.0
 PRANA: 1.0.4
 PRDA: 1.0.0
 PRECAST: 1.6.5
@@ -5936,7 +5939,7 @@ REdaS: 0.9.4
 REddyProc: 1.3.3
 REddyProcNCDF: 1.1.4
 REffectivePred: 1.0.0
-REndo: 2.4.9
+REndo: 2.4.10
 RFA: 0.0-9
 RFCCA: 2.0.0
 RFGLS: '1.1'
@@ -7908,7 +7911,7 @@ TSCS: 0.1.1
 TSDFGS: '2.0'
 TSDT: 1.0.7
 TSE: 0.1.0
-TSEAL: 0.1.2
+TSEAL: 0.1.3
 TSEN: '1.0'
 TSEind: 0.1.0
 TSEntropies: '0.9'
@@ -8577,7 +8580,7 @@ abd: 0.2-8
 abdiv: 0.2.0
 abe: 3.0.1
 abemus: 1.0.2
-aberrance: 0.1.0
+aberrance: 0.1.1
 abess: 0.4.8
 abf2: 0.7-1
 abglasso: 0.1.1
@@ -9053,7 +9056,7 @@ apsrtable: 0.8-8
 apt: '3.0'
 aptg: 0.1.1
 apyramid: 0.1.3
-aqfig: '0.8'
+aqfig: '0.9'
 aqp: 2.0.3
 aqr: '0.4'
 aquodom: 0.1.1
@@ -10026,7 +10029,7 @@ bonn: 1.0.2
 bonsai: 0.3.0
 bonsaiforest: 0.1.0
 boodist: 1.0.0
-bookdown: '0.39'
+bookdown: '0.40'
 bookdownplus: 1.5.8
 boolean: 2.0-2
 boolean3: 3.1.6
@@ -10120,7 +10123,7 @@ bratteli: 1.0.0
 bravo: 3.2.1
 brazilmaps: 0.1.0
 brclimr: 0.2.0
-brea: 0.2.0
+brea: 0.3.0
 bread: 0.4.1
 breakDown: 0.2.2
 breakage: 1.1-1
@@ -10192,7 +10195,7 @@ bsml: 1.5-1
 bsnsing: 1.0.1
 bspcov: 1.0.0
 bspec: '1.6'
-bspline: '2.2'
+bspline: 2.2.2
 bsplinePsd: 0.6.0
 bsplus: 0.1.4
 bspm: 0.5.7
@@ -11244,7 +11247,7 @@ consortr: 0.9.1
 constants: 1.0.1
 constellation: 0.2.0
 constrainedKriging: 0.2-7
-constructive: 0.3.0
+constructive: 1.0.0
 contFracR: 1.2.1
 contTimeCausal: '1.1'
 contact: 1.2.8
@@ -11660,7 +11663,7 @@ ctv: 0.9-5
 cuRe: 1.1.1
 cubar: 0.5.0
 cubature: 2.1.0
-cubble: 0.3.0
+cubble: 0.3.1
 cubelyr: 1.0.2
 cubeview: 0.2.0
 cubfits: 0.1-4
@@ -12837,6 +12840,7 @@ ecoCopula: 1.0.2
 ecocbo: 0.10.2
 ecochange: 2.9.3.2
 ecocomDP: 1.3.1
+ecode: 0.1.0
 ecodist: 2.1.3
 ecoengine: 1.12.0
 ecolMod: 1.2.6.4
@@ -13710,7 +13714,7 @@ fdarep: 0.1.1
 fdasrvf: 2.2.0
 fdatest: 2.1.1
 fdcov: 1.1.0
-fddm: 1.0-1
+fddm: 1.0-2
 fdicdata: 0.1.0
 fdim: 1.0-7
 fdistr: 0.1.0
@@ -13999,7 +14003,7 @@ fmx: 0.1.2
 fnets: 0.1.6
 foba: '0.1'
 focusedMDS: 1.3.3
-foghorn: 1.5.2
+foghorn: 1.6.0
 foieGras: 0.7-6
 fold: 0.2.6
 folderfun: 0.1.4
@@ -16096,6 +16100,7 @@ icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
 icosa: 0.11.0
+icpack: 0.1.0
 icpsrdata: 0.6.1
 icr: 0.6.5
 icrf: 2.0.2
@@ -16310,7 +16315,7 @@ inldata: 1.2.3
 inline: 0.3.19
 inlinedocs: 2023.9.4
 inlmisc: 0.5.5
-inlpubs: 1.1.1
+inlpubs: 1.1.3
 innsight: 0.3.0
 ino: 1.0.2
 inops: 0.0.1
@@ -16646,6 +16651,7 @@ jit: 1.3-1
 jjAnno: 0.0.3
 jjb: 0.1.1
 jlctree: 0.0.2
+jlme: 0.1.0
 jlmerclusterperm: 1.1.4
 jlsm: 0.1.0
 jmBIG: 0.1.2
@@ -17852,6 +17858,7 @@ matrixTests: 0.2.3
 matrixcalc: 1.0-6
 matrixcut: 0.0.1
 matrixdist: 1.1.9
+matrixmodp: 0.2.0
 matrixpls: 1.0.13
 matrixprofiler: 0.1.9
 matrixsampling: 2.0.0
@@ -17902,6 +17909,7 @@ mcBFtest: 0.1.0
 mcGlobaloptim: '0.1'
 mcIRT: '0.41'
 mcMST: 1.1.1
+mcODE: '1.1'
 mcPAFit: 0.1.4
 mcStats: 0.1.2
 mcauchyd: 1.2.0
@@ -18440,7 +18448,7 @@ mixture: 2.1.1
 mixvlmc: 0.2.1
 mize: 0.2.4
 mizer: 2.5.1
-mkde: '0.2'
+mkde: '0.3'
 mkin: 1.2.6
 mknapsack: 0.1.0
 mkssd: '1.2'
@@ -21128,6 +21136,7 @@ powerpkg: '1.6'
 powerplus: '3.1'
 powerr: 0.1-3
 ppMeasures: '0.2'
+ppRank: 0.1.0
 ppRep: 0.42.3
 ppc: '1.01'
 ppcSpatial: 0.3.0
@@ -21392,7 +21401,7 @@ prqlr: 0.8.1
 prrd: 0.0.6
 prt: 0.2.0
 pryr: 0.1.6
-ps: 1.7.6
+ps: 1.7.7
 psBayesborrow: 1.1.0
 psData: 0.2.2
 psSubpathway: 0.1.3
@@ -22359,7 +22368,7 @@ recurse: 1.3.0
 red: 1.6.1
 redR: 1.0.1
 reda: 0.5.4
-redbookperu: 0.0.2
+redbookperu: 0.0.3
 redcapAPI: 2.9.1
 reddPrec: 2.0.3
 redditadsR: 0.1.0
@@ -23943,7 +23952,7 @@ setter: 0.0-1
 settings: 0.2.7
 settingsSync: 3.0.2
 setwidth: 1.0-4
-sevenbridges2: 0.1.0
+sevenbridges2: 0.2.0
 sever: 0.0.7
 severity: '2.0'
 sewage: 0.2.5
@@ -25331,7 +25340,7 @@ summarytools: 1.0.1
 summclust: 0.7.2
 sunburstR: 2.1.8
 suncalc: 0.5.1
-sundialr: 0.1.4.1
+sundialr: 0.1.4.2
 suntools: 1.0.0
 supc: 0.2.6.2
 supclust: 1.1-1
@@ -25933,7 +25942,7 @@ tidycat: 0.1.2
 tidycells: 0.2.2
 tidycensus: 1.6.3
 tidycharts: 0.1.3
-tidyclust: 0.2.2
+tidyclust: 0.2.3
 tidycmprsk: 1.0.0
 tidycode: 0.1.1
 tidycomm: 0.4.1
@@ -26044,7 +26053,7 @@ timedelay: 1.0.11
 timedeppar: 1.0.3
 timeit: 0.2.1
 timekit: 0.3.1
-timeless: 0.2.1
+timeless: 0.2.2
 timeline: '0.9'
 timelineR: 1.0.0
 timelineS: 0.1.1
@@ -26250,7 +26259,7 @@ trajectories: 0.2-8
 trajmsm: 0.1.0
 trajr: 1.5.1
 tram: 1.0-4
-tramME: 1.0.5
+tramME: 1.0.6
 tramicp: 0.0-2
 tramnet: 0.0-8
 trampoline: 0.1.1
@@ -26592,6 +26601,7 @@ ump: 0.5-8
 umx: 4.20.0
 unbalanced: '2.0'
 unbalhaar: '2.1'
+uncertainUCDP: 0.5.2
 uncertainty: 0.2.0
 uncmbb: 0.2.2
 uncompress: '1.34'
@@ -27271,6 +27281,7 @@ workflowr: 1.7.1
 workflows: 1.1.4
 workflowsets: 1.1.0
 workloopR: 1.1.4
+worldbank: 0.1.0
 worldfootballR: 0.6.2
 worldmet: 0.9.8
 worldriskpollr: 0.7.4
@@ -27530,7 +27541,7 @@ zooimage: 5.5.2
 zoolog: 1.1.0
 zoom: 2.0.6
 zoomGroupStats: 0.1.0
-zoomerjoin: 0.1.4
+zoomerjoin: 0.1.5
 zoomgrid: 1.0.0
 zoomr: 0.3.0
 zoon: 0.6.5
