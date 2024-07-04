@@ -452,7 +452,7 @@ BGGM: 2.1.2
 BGLR: 1.1.2
 BGPhazard: 2.1.1
 BGSIMD: '1.0'
-BGVAR: 2.5.5
+BGVAR: 2.5.6
 BGmisc: 1.3.2
 BH: 1.84.0-0
 BHAI: 0.99.2
@@ -2666,7 +2666,7 @@ GCPBayes: 4.2.0
 GCPM: 1.2.2
 GCSM: 0.1.1
 GCalcium: 1.0.0
-GCalignR: 1.0.6
+GCalignR: 1.0.7
 GD: '10.3'
 GDAdata: '0.93'
 GDAtools: '2.1'
@@ -4797,7 +4797,7 @@ NMVANOVA: 1.1.0
 NMcalc: 0.0.3
 NMdata: 0.1.6
 NMproject: 0.6.9
-NMsim: 0.1.0
+NMsim: 0.1.1
 NNLM: 0.4.3
 NNMIS: 1.0.1
 NNS: 10.8.2
@@ -4976,7 +4976,7 @@ OOmisc: '1.2'
 OPC: 0.0.2
 OPDOE: 1.0-10
 OPE: '0.7'
-OPI: 2.11.2
+OPI: 3.0.1
 OPTS: '0.1'
 OPTtesting: 1.0.0
 ORCI: '1.1'
@@ -5565,7 +5565,7 @@ PopulationGrowthR: 0.1.1
 PortRisk: 1.1.0
 PortalHacienda: 0.1.7
 PortfolioAnalysis: 1.1.1
-PortfolioAnalytics: 1.1.0
+PortfolioAnalytics: 2.0.0
 PortfolioEffectEstim: '1.4'
 PortfolioEffectHFT: '1.8'
 PortfolioOptim: 1.1.1
@@ -5862,7 +5862,7 @@ RCGLS: 1.0.3
 RCLabels: 0.1.10
 RCMIP5: 1.2.0
 RCMinification: '1.2'
-RCPA: 0.2.2
+RCPA: 0.2.3
 RCPA3: 1.2.1
 RCPmod: '2.192'
 RCRnorm: 0.0.2
@@ -7071,6 +7071,7 @@ SIDES: '1.18'
 SIGN: 0.1.0
 SIHR: 2.1.0
 SII: 1.0.3.1
+SILFS: 0.1.0
 SILGGM: 1.0.0
 SILM: 1.0.0
 SIMEXBoost: 0.2.0
@@ -7861,13 +7862,13 @@ TIMP: 1.13.6
 TITAN2: 2.4.3
 TITEgBOIN: 0.3.0
 TInPosition: 0.13.6.1
-TKCat: 1.1.8
+TKCat: 1.1.11
 TKF: 0.0.8
 TLBC: '1.0'
 TLCAR: 0.1.0
 TLMoments: 0.7.5.3
 TLdating: 0.1.3
-TMB: 1.9.13
+TMB: 1.9.14
 TMDb: '1.1'
 TML: 1.2.0
 TMTI: 1.0.1
@@ -9068,7 +9069,7 @@ aratio: '1.2'
 arc: '1.4'
 arcgeocoder: 0.2.0
 arcgis: 0.1.1
-arcgisgeocode: 0.1.0
+arcgisgeocode: 0.2.0
 arcgislayers: 0.2.0
 arcgisplaces: 0.1.0
 arcgisutils: 0.3.0
@@ -10953,7 +10954,7 @@ cmrutils: 1.3.1
 cms: 0.1.0
 cmsaf: 3.5.1
 cmsafops: 1.4.0
-cmsafvis: 1.2.7
+cmsafvis: 1.2.8
 cmstatr: 0.9.3
 cmstatrExt: 0.4.0
 cmtest: 0.1-2
@@ -11593,7 +11594,7 @@ cruts: '1.1'
 crwbmetareg: '1.0'
 cry: 0.5.1
 crypto: 1.1.3
-crypto2: 2.0.0
+crypto2: 2.0.1
 cryptoQuotes: 1.3.1
 cryptoTax: 0.0.5
 cryptography: 1.0.0
@@ -12585,7 +12586,7 @@ driveR: 0.4.1
 drm: 0.5-8
 drmdel: 1.3.2
 droll: 0.1.0
-dropR: '0.1'
+dropR: 1.0.3
 dropout: 2.1.1
 droptest: 0.1.3
 drord: 1.0.1
@@ -12931,7 +12932,7 @@ effClust: 0.8.0
 effectFusion: 1.1.3
 effectR: 1.0.2
 effects: 4.2-2
-effectsize: 0.8.8
+effectsize: 0.8.9
 effectsizescr: 0.1.0
 efflog: '1.0'
 effsize: 0.8.1
@@ -13292,7 +13293,7 @@ eulerian: '1.0'
 eulerr: 7.0.2
 eummd: 0.1.9
 eunis.habitats: 0.1.0
-eurlex: 0.4.7
+eurlex: 0.4.8
 euroMix: 1.1.1
 eurocordexr: 0.2.4
 eurodata: 1.7.0
@@ -13708,7 +13709,7 @@ fdaconcur: 0.1.2
 fdadensity: 0.1.2
 fdakma: 1.3.1
 fdaoutlier: 0.2.1
-fdapace: 0.5.9
+fdapace: 0.6.0
 fdapaceShiny: 1.0.5
 fdarep: 0.1.1
 fdasrvf: 2.2.0
@@ -14281,7 +14282,7 @@ future.BatchJobs: 0.17.0
 future.apply: 1.11.2
 future.batchtools: 0.12.1
 future.callr: 0.8.2
-future.mirai: 0.2.1
+future.mirai: 0.2.2
 future.tests: 0.7.0
 futureheatwaves: 1.0.3
 futureverse: 0.1.0
@@ -14348,7 +14349,7 @@ gWidgetsWWW: 0.0-23
 gWidgetsrJava: 0.0-19
 gWidgetstcltk: 0.0-55.1
 gadget2: 2.3.11
-gadget3: 0.11-1
+gadget3: 0.12-1
 gafit: 0.5.1
 gaiah: 0.0.5
 gainML: 0.1.0
@@ -15648,7 +15649,7 @@ heemod: 1.0.1
 hei: 0.1.0
 heimdall: 1.0.717
 heims: 0.4.0
-heiscore: 0.0.1
+heiscore: 0.1.1
 helda: 1.1.5
 helixvis: 1.0.1
 hellno: 0.0.1
@@ -17359,7 +17360,7 @@ lmbc: 0.9.1
 lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
-lme4: 1.1-35.4
+lme4: 1.1-35.5
 lme4breeding: 1.0.22
 lmeInfo: 0.3.2
 lmeNB: '1.3'
@@ -17427,7 +17428,7 @@ locfit: 1.5-9.10
 locits: 1.7.7
 locpol: 0.8.0
 locpolExpectile: 0.1.1
-locuszoomr: 0.3.0
+locuszoomr: 0.3.1
 lodGWAS: 1.0-7
 loder: 0.2.1
 lodi: 0.9.2
@@ -17499,7 +17500,7 @@ longpower: 1.0.25
 longreadvqs: 0.1.2
 longsurr: '1.0'
 longurl: 0.3.3
-loo: 2.7.0
+loo: 2.8.0
 lookout: 0.1.4
 lookup: '1.0'
 lookupTable: '0.1'
@@ -17747,7 +17748,7 @@ mapi: 1.0.5
 mapiso: 0.3.0
 maple: 0.99.5
 maplegend: 0.1.0
-mapme.biodiversity: 0.7.0
+mapme.biodiversity: 0.8.0
 mapmisc: 2.1.0
 mapmixture: 1.1.3
 mapping: 1.4.1
@@ -18129,7 +18130,7 @@ metaggR: 0.3.0
 metaheur: 0.2.0
 metaheuristicOpt: 2.0.0
 metainc: 0.2-0
-metajam: 0.2.3
+metajam: 0.3.0
 metalite: 0.1.3
 metalite.ae: 0.1.2
 metalite.table1: 0.4.0
@@ -19336,6 +19337,7 @@ neuroblastoma: 2023.9.3
 neurocInstall: 0.12.0
 neurohcp: 0.9.0
 neuroim: 0.0.6
+neuroimaGene: 0.1.0
 neuromplex: 1.0-1
 neuronorm: 1.0.2
 neuropsychology: 0.5.0
@@ -19547,6 +19549,7 @@ nonparaeff: 0.5-13
 nonparametric.bayes: 0.0.1
 nonprobsvy: 0.1.0
 nonrandom: '1.42'
+nonsmooth: 1.0.0
 nontarget: '1.9'
 nontargetData: '1.1'
 nopaco: 1.0.7
@@ -19669,6 +19672,7 @@ nswgeo: 0.4.0
 nsyllable: 1.0.1
 ntdr: 0.3.4
 ntranova: 0.0.1
+ntsDatasets: 0.1.0
 ntsDists: 2.1.1
 ntwk: 1.0.0
 nucim: 1.0.11
@@ -19821,7 +19825,7 @@ omicsTools: 1.0.5
 omicwas: 0.8.0
 omnibus: 1.2.13
 omock: 0.2.0
-omopgenerics: 0.2.2
+omopgenerics: 0.2.3
 omopr: '0.2'
 ompr: 1.0.4
 ompr.roi: 1.0.2
@@ -21096,7 +21100,7 @@ postal: 0.1.1
 postcards: 0.2.3
 postdoc: 1.2.2
 posterdown: '1.0'
-posterior: 1.5.0
+posterior: 1.6.0
 postgwas: '1.11'
 postinfectious: 0.1.0
 postlightmercury: '1.2'
@@ -21793,7 +21797,7 @@ r2symbols: '1.4'
 r3PG: 0.1.6
 r3dmol: 0.1.2
 r3js: 0.0.2
-r4ds.tutorials: 0.2.0
+r4ds.tutorials: 0.3.0
 r4googleads: 0.1.1
 r4lineups: 0.1.1
 r4ss: 1.44.0
@@ -22887,6 +22891,7 @@ rms.gof: '1.0'
 rmsb: 1.1-0
 rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
+rmstBayespara: 0.1.0
 rmstcompsens: 0.1.5
 rmt: '1.0'
 rmumps: 5.2.1-30
@@ -23640,7 +23645,7 @@ sccr: '2.1'
 scdensity: 1.0.2
 scdhlm: 0.7.3
 scdtb: 0.1.0
-scellpam: 1.4.5
+scellpam: 1.4.6.1
 scenario: '1.0'
 scenes: 0.1.0
 scfetch: 0.5.0
@@ -23789,7 +23794,7 @@ see: 0.8.4
 seeclickfixr: 1.1.0
 seecolor: 0.2.0
 seedCCA: '3.1'
-seededlda: 1.3.1
+seededlda: 1.3.2
 seedr: 0.3.0
 seedreg: 1.0.3
 seeds: 0.9.1
@@ -25089,7 +25094,7 @@ stashR: 0.3-5
 stat.extend: 0.2.1
 statBasics: 0.2.2
 statConfR: 0.1.1
-statGraph: 1.0.1
+statGraph: 1.0.2
 statTarget: 1.2.2
 statVisual: 1.2.1
 statar: 0.7.6
@@ -25512,7 +25517,7 @@ sweep: 0.2.5
 sweidnumbr: 1.5.0
 swephR: 0.3.1
 swfscAirDAS: 0.3.0
-swfscDAS: 0.6.2
+swfscDAS: 0.6.3
 swfscMisc: 1.6.5
 swgee: '1.4'
 swimplot: 1.2.0
@@ -25675,7 +25680,7 @@ taxadb: 0.2.1
 taxalight: 0.1.5
 taxize: 0.9.100
 taxizedb: 0.3.1
-taxlist: 0.2.4
+taxlist: 0.3.0
 taxonbridge: 1.2.2
 taxonomizr: 0.10.6
 taxotools: 0.0.139
@@ -25954,7 +25959,7 @@ tidydr: 0.0.5
 tidyedgar: 1.0.1
 tidyestimate: 1.1.1
 tidyfast: 0.4.0
-tidyfinance: 0.2.0
+tidyfinance: 0.2.1
 tidyfit: 0.7.1
 tidyformula: 0.1.0
 tidyfst: 1.7.9
@@ -27165,7 +27170,7 @@ welo: 0.1.4
 wesanderson: 0.3.7
 wethepeople: 0.6.1
 wevid: 0.6.2
-weyl: 0.0-4
+weyl: 0.0-5
 wfe: 1.9.1
 wfg: '0.1'
 wfindr: 0.1.0
