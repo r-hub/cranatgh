@@ -23,6 +23,7 @@ ACEt: 1.9.0
 ACMEeqtl: '1.6'
 ACNE: 0.9.1
 ACSNMineR: 0.16.8.25
+ACSSpack: 0.0.1.4
 ACSWR: '1.0'
 ACTCD: 1.3-0
 ACV: 1.0.2
@@ -442,7 +443,7 @@ BET: 0.5.3
 BETS: 0.4.9
 BElikelihood: '1.1'
 BFF: 3.0.1
-BFI: 1.1.4
+BFI: 2.0.1
 BFS: 0.5.8
 BFpack: 1.3.0
 BGData: 2.4.1
@@ -2399,7 +2400,7 @@ FLOPART: 2024.6.19
 FLORAL: 0.2.0
 FLR: '1.0'
 FLSSS: 9.1.3
-FLightR: 0.5.4
+FLightR: 0.5.5
 FMAT: '2024.6'
 FMAdist: 0.1.2
 FMC: 1.0.1
@@ -3134,7 +3135,7 @@ HMMoce: 1.0.0
 HMMpa: 1.0.1
 HMP: 2.0.1
 HMPTrees: '1.4'
-HMR: 1.0.3
+HMR: 1.0.4
 HMTL: 0.1.0
 HMVD: '1.0'
 HOasso: 1.0.1
@@ -3239,7 +3240,7 @@ HospitalNetwork: 0.9.3
 HostSwitch: 0.1.3
 HotDeckImputation: 1.1.0
 Hotelling: 1.0-8
-HotellingEllipse: 1.1.0
+HotellingEllipse: 1.2.0
 HumMeth27QCReport: 1.2.14
 HuraultMisc: 1.1.1
 HurreconR: '1.1'
@@ -3803,7 +3804,7 @@ LOGICOIL: 0.99.0
 LOGIT: '1.3'
 LOMAR: 0.4.0
 LOPART: 2024.6.19
-LOST: 2.0.2
+LOST: 2.1.1
 LPBkg: '1.2'
 LPCM: 0.47-4
 LPDynR: 1.0.4
@@ -3918,6 +3919,7 @@ LifeTables: '1.0'
 LifemapR: 1.1.1
 Lifertable: 0.0.1
 LiftTest: 0.2.0
+LightLogR: 0.3.8
 LightningR: 1.0.2
 LikertMakeR: 0.3.0
 LilRhino: 1.2.2
@@ -4683,7 +4685,7 @@ MultiJoin: 0.1.1
 MultiKink: 0.2.0
 MultiLCIRT: '2.11'
 MultiMeta: '0.1'
-MultiObjMatch: 0.1.3
+MultiObjMatch: 1.0.0
 MultiOrd: 2.4.3
 MultiPhen: 2.0.3
 MultiRNG: 1.2.4
@@ -5447,7 +5449,7 @@ PearsonDS: 1.3.1
 PearsonICA: 1.2-5
 PedCNV: '0.1'
 PeerPerformance: 2.2.5
-PenCoxFrail: 1.0.1
+PenCoxFrail: 2.0.0
 PenIC: 1.0.0
 PenLNM: '1.0'
 PepPrep: 1.1.0
@@ -6057,7 +6059,7 @@ RMAT: 0.2.0
 RMAWGEN: 1.3.7
 RMBC: 0.1.0
 RMC: '0.2'
-RMCC: 0.1.0
+RMCC: 0.1.1
 RMCriteria: 0.2.0
 RMETAR: '1.0'
 RMKL: '1.0'
@@ -6507,7 +6509,7 @@ RcppBDT: 0.2.6
 RcppBigIntAlgos: 1.1.0
 RcppBlaze: 1.0.1
 RcppCCTZ: 0.2.12
-RcppCGAL: 5.6.3
+RcppCGAL: 5.6.4
 RcppCNPy: 0.2.12
 RcppCWB: 0.6.4
 RcppCensSpatial: 0.3.0
@@ -6662,6 +6664,7 @@ ResourceSelection: 0.3-6
 RespirAnalyzer: 1.0.2
 RestRserve: 1.2.3
 RestoreNet: 1.0.1
+ReturnCurves: '1.0'
 RevEcoR: 0.99.3
 RevGadgets: 1.2.1
 RevSD: 0.1.1
@@ -7168,6 +7171,7 @@ SOIL: '1.1'
 SOLOMON: 1.0-1
 SOMEnv: 1.1.2
 SOMbrero: 1.4-2
+SOMnmR: 0.3.0
 SOP: 1.0-1
 SOPC: 0.1.0
 SOPIE: '1.6'
@@ -7623,7 +7627,7 @@ SpecsVerification: 0.5-3
 SpectralClMixed: 1.0.1
 SpectralGEM: '1.0'
 SpectralMap: '1.0'
-Spectran: 1.0.3
+Spectran: 1.0.6
 Spectrum: '1.1'
 SpherWave: 1.2.2
 SphereOptimize: 0.1.1
@@ -10734,6 +10738,7 @@ cipheR: 1.0.0
 cir: 2.3.1
 circacompare: 0.2.0
 circglmbayes: 1.3.0
+circhelp: '1.1'
 circle: 0.7.2
 circlesplot: 1.1.0
 circletyper: 1.0.2
@@ -10899,7 +10904,7 @@ clusterCrit: 1.3.0
 clusterGeneration: 1.3.8
 clusterGenomics: '1.0'
 clusterHD: 1.0.2
-clusterMI: 1.1.1
+clusterMI: '1.2'
 clusterPower: 0.7.0
 clusterRepro: '0.9'
 clusterSEs: 2.6.5
@@ -11471,7 +11476,7 @@ cpmBigData: 0.0.1
 cpmr: 0.0.9
 cpop: 1.0.7
 cpp11: 0.4.7
-cpp11armadillo: 0.2.5
+cpp11armadillo: 0.2.8
 cppRouting: '3.1'
 cppcheckR: 1.0.0
 cppcor: '1.2'
@@ -11661,8 +11666,9 @@ ctsem: 3.10.0
 ctsemOMX: 1.0.6
 ctsfeatures: 1.2.2
 ctv: 0.9-5
+ctxR: 1.0.0
 cuRe: 1.1.1
-cubar: 0.5.0
+cubar: 0.6.0
 cubature: 2.1.0
 cubble: 0.3.1
 cubelyr: 1.0.2
@@ -12524,7 +12530,7 @@ doubt: 0.1.0
 doudpackage: 2.1.0
 downlit: 0.4.4
 downloader: '0.4'
-downloadthis: 0.3.3
+downloadthis: 0.4.0
 downscale: 5.0.0
 downscaledl: '1.0'
 downsize: 0.2.3
@@ -12861,8 +12867,8 @@ ecos: 0.1.6
 ecoseries: 0.1.5
 ecosim: 1.3-4
 ecospace: 1.4.2
-ecospat: 4.1.0
-ecostats: 1.1.11
+ecospat: 4.1.1
+ecostats: 1.2.1
 ecostatscale: '1.1'
 ecotox: 1.4.4
 ecotoxicology: 1.0.1
@@ -15130,7 +15136,7 @@ gmgm: 1.1.2
 gmm: '1.8'
 gmmsslm: 1.1.5
 gmnl: 1.1-3.2
-gmoTree: 1.0.1
+gmoTree: 1.1.0
 gmodels: 2.19.1
 gmp: 0.7-4
 gmpoly: 1.1.0
@@ -15630,7 +15636,7 @@ healthforum: 0.1.0
 healthyAddress: 0.4.2
 healthyR: 0.2.2
 healthyR.ai: 0.0.13
-healthyR.data: 1.1.0
+healthyR.data: 1.1.1
 healthyR.ts: 0.3.0
 healthyverse: 1.0.4
 heapsofpapers: 0.1.0
@@ -15642,7 +15648,7 @@ heatmapFlex: 0.1.2
 heatmaply: 1.5.0
 heatwaveR: 0.4.6
 heavy: 0.38.196
-heck: 0.1.0
+heck: 0.1.1
 heddlr: 0.6.0
 hedgehog: '0.1'
 heemod: 1.0.1
@@ -15712,6 +15718,7 @@ hicp: 0.5.1
 hiddenf: '2.0'
 hidecan: 1.1.0
 hidetify: 0.0.1
+hidradenitis: 1.0.0
 hier.part: 1.0-6
 hierBipartite: 0.0.2
 hierDiversity: '0.1'
@@ -16685,7 +16692,7 @@ jointPm: 2.3.2
 jointVIP: 0.1.2
 jointseg: 1.0.2
 jomo: 2.7-6
-jordan: 1.0-5
+jordan: 1.0-6
 josaplay: 0.1.3
 jose: 1.2.0
 jot: 0.0.4
@@ -18145,7 +18152,7 @@ metap: '1.10'
 metapack: '0.3'
 metaplot: 0.8.4
 metaplotr: 0.0.3
-metaplus: 1.0-4
+metaplus: 1.0-5
 metapost: 1.0-6
 metapower: 0.2.2
 metapro: 1.5.11
@@ -19230,7 +19237,7 @@ nda: 0.1.13
 ndi: 0.1.5
 ndjson: 0.9.0
 ndl: 0.2.18
-ndtv: 0.13.3
+ndtv: 0.13.4
 ndvits: 1.0.1
 ndvtest: 1.0-0
 nearfar: '1.3'
@@ -19269,7 +19276,7 @@ nesRdata: 0.3.1
 nestcolor: 0.1.2
 nestedLogit: 0.3.2
 nestedRanksTest: '0.2'
-nestedcv: 0.7.8
+nestedcv: 0.7.9
 nestedmodels: 1.1.0
 nestedpp: 0.2.0
 nestfs: 1.0.3
@@ -20078,7 +20085,7 @@ ottr: 1.5.0
 ottrpal: 1.2.1
 otuSummary: 0.1.2
 otvPlots: 0.2.1
-ouch: '2.19'
+ouch: '2.20'
 outForest: 1.0.1
 outbreaker: 1.1-8
 outbreaker2: 1.1.3
@@ -20933,6 +20940,7 @@ pmclust: 0.2-1
 pmd: 0.2.1
 pmdplyr: 0.3.3
 pmetar: 0.5.0
+pmev: 0.0.2
 pmfdR: '1.0'
 pmg: 0.9-43
 pmhtutorial: '1.5'
@@ -21704,7 +21712,7 @@ qualypsoss: 1.1.1
 quantCurves: 1.0.0
 quantable: 0.3.6
 quantchem: '0.13'
-quantdates: 2.0.2
+quantdates: 2.0.4
 quantdr: 1.2.2
 quanteda: 4.0.2
 quanteda.textmodels: 0.9.7
@@ -22319,7 +22327,7 @@ readthat: 0.0.1
 readwritesqlite: 0.2.0
 readxl: 1.4.3
 readxlsb: 0.1.61
-ready4: 0.1.9
+ready4: 0.1.14
 readysignal: 0.0.9
 realTimeSurv: '1.0'
 realTimeloads: 1.0.0
@@ -22346,7 +22354,7 @@ receptiviti: 0.1.8
 recexcavAAR: 0.3.0
 rechaRge: 1.0.0
 rechonest: '1.2'
-recipes: 1.0.10
+recipes: 1.1.0
 reclin: 0.1.2
 reclin2: 0.5.0
 recluster: '2.9'
@@ -22997,7 +23005,7 @@ rococo: 1.1.9
 rocplus: 1.0-0
 rocsvm.path: 0.1.0
 rodd: 0.2-1
-rodeo: 0.7.8
+rodeo: 0.8.1
 rodham: 0.1.1
 rofanova: 1.0.0
 roger: 1.5-1
@@ -26058,7 +26066,7 @@ timedelay: 1.0.11
 timedeppar: 1.0.3
 timeit: 0.2.1
 timekit: 0.3.1
-timeless: 0.2.2
+timeless: 0.2.3
 timeline: '0.9'
 timelineR: 1.0.0
 timelineS: 0.1.1
@@ -26258,7 +26266,7 @@ traitdataform: 0.6.8
 traitr: '0.14'
 traits: 0.5.1
 traitstrap: 0.1.0
-traj: 2.1.0
+traj: 2.2.0
 trajeR: 0.9.0.5
 trajectories: 0.2-8
 trajmsm: 0.1.0
@@ -26561,7 +26569,7 @@ tzupdater: 0.1.5
 u5mr: 0.1.1
 uCAREChemSuiteCLI: 0.2.0
 uFTIR: 0.1.4
-uGMAR: 3.4.5
+uGMAR: 3.5.0
 uHMM: '1.0'
 uaparserjs: 0.3.5
 uavRmp: '0.7'
@@ -26827,7 +26835,7 @@ vcdExtra: 0.8-5
 vcf2geno: '2.3'
 vcfR: 1.15.0
 vcfppR: 0.4.6
-vcmeta: 1.3.0
+vcmeta: 1.4.0
 vcov: 0.0.1
 vcpen: '1.9'
 vcr: 1.2.2
@@ -27038,7 +27046,7 @@ wISAM: 0.2.8
 wNNSel: '0.1'
 wPerm: 1.0.1
 wSVM: 0.1-7
-wTO: 2.0.2
+wTO: '2.1'
 waccR: 0.1.0
 wacolors: 0.3.1
 wactor: 0.0.1
