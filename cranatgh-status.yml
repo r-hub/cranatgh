@@ -1053,7 +1053,7 @@ COINr: 1.1.14
 COLP: 1.0.0
 COMBAT: 0.0.4
 COMBIA: 1.0.6
-COMBO: 1.0.0
+COMBO: 1.1.0
 COMIX: 1.0.0
 COMMUNAL: 1.1.0
 COMPoissonReg: 0.8.1
@@ -6548,7 +6548,7 @@ RcppMsgPack: 0.2.3
 RcppNLoptExample: 0.0.1
 RcppNumerical: 0.6-0
 RcppOctave: 0.18.1
-RcppParallel: 5.1.7
+RcppParallel: 5.1.8
 RcppProgress: 0.4.2
 RcppQuantuccia: 0.1.2
 RcppRedis: 0.2.4
@@ -9407,7 +9407,7 @@ bamboo: 0.9.25
 bambooHR: 0.1.1
 bamdit: 3.4.0
 bamlss: 1.2-4
-bamm: 0.4.3
+bamm: 0.5.0
 bamp: 2.1.3
 bams: '1.6'
 banR: 0.2.2
@@ -9614,7 +9614,7 @@ bdribs: 1.0.4
 bdrift: 1.2.2
 bdscale: 2.0.0
 bdsmatrix: 1.3-7
-bdsvd: 0.1-0
+bdsvd: 0.2.0
 bdvis: 0.2.37
 bdynsys: '1.3'
 bea.R: 1.0.6
@@ -9636,7 +9636,7 @@ beautier: 2.6.12
 beaver: 1.0.0
 bedr: 1.0.7
 beeca: 0.1.3
-beepr: '1.3'
+beepr: '2.0'
 beeswarm: 0.4.0
 beezdemand: 0.1.2
 beezdiscounting: 0.3.1
@@ -9806,7 +9806,7 @@ binaryLogic: 0.3.9
 binaryMM: 0.1.1
 binarySimCLF: '1.0'
 binaryTimeSeries: 1.0.2
-binb: 0.0.6
+binb: 0.0.7
 binda: 1.0.4
 bindata: 0.9-21
 bindr: 0.1.1
@@ -13024,7 +13024,7 @@ eltr: 0.1.0
 em: 1.0.0
 em2: '0.9'
 emBayes: 0.1.5
-emIRT: 0.0.13
+emIRT: 0.0.14
 emailjsr: 0.0.2
 emailvalidation: 0.1.0
 emax.glm: 0.1.2
@@ -14829,7 +14829,7 @@ ggfocus: 1.0.0
 ggforce: 0.4.2
 ggformula: 0.12.0
 ggfortify: 0.4.17
-ggfoundry: 0.2.0
+ggfoundry: 0.3.1
 ggfun: 0.1.5
 ggfx: 1.0.1
 gggap: 1.0.1
@@ -14952,7 +14952,7 @@ ggspectra: 0.3.12
 ggstance: 0.3.7
 ggstar: 1.0.4
 ggstats: 0.6.0
-ggstatsplot: 0.12.3
+ggstatsplot: 0.12.4
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
@@ -14989,7 +14989,7 @@ ghyp: 1.6.4
 ghypernet: 1.1.0
 giRaph: 0.1.2
 giacR: 1.0.1
-gibasa: 1.1.0
+gibasa: 1.1.1
 gibble: 0.4.0
 gibbs.met: 1.1-3
 gie: 0.1.2
@@ -15007,7 +15007,7 @@ giniVarCI: 0.0.1-3
 ginormal: 0.0.2
 giphyr: 0.2.0
 gips: 1.2.1
-giscoR: 0.5.0
+giscoR: 0.5.1
 gistr: 0.9.0
 git2r: 0.33.0
 git2rdata: 0.4.0
@@ -15931,7 +15931,7 @@ hybridHclust: 1.0-5
 hybridModels: 0.3.7
 hybridogram: 0.3.2
 hybridts: 0.1.0
-hyd1d: 0.5.1
+hyd1d: 0.5.2
 hydflood: 0.5.7
 hydra: 0.1.0
 hydraulics: 0.7.0
@@ -16675,7 +16675,7 @@ jmotif: 1.1.1
 jmuOutlier: '2.2'
 jmv: 2.5.6
 jmvReadWrite: 0.4.6
-jmvconnect: 2.3.13
+jmvconnect: 2.5.7
 jmvcore: 2.4.7
 job: 0.3.1
 jocre: 0.3.3
@@ -16730,8 +16730,8 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.3.2
 jsr223: 0.3.4
-jstable: 1.2.6
-jstager: 0.0.3
+jstable: 1.3.0
+jstager: 0.0.5
 jstor: 0.3.11
 jtGWAS: 1.5.1
 jtdm: 0.1-2
@@ -17135,7 +17135,7 @@ ldr: 1.3.3
 ldsep: 2.1.5
 ldsr: 0.0.2
 ldstatsHD: 1.0.1
-ldt: 0.5.2
+ldt: 0.5.3
 leabRa: 0.1.0
 leaderCluster: '1.5'
 leafR: 0.3.5
@@ -17495,7 +17495,7 @@ longROC: '1.0'
 longRPart: '1.0'
 longRPart2: 0.2.3
 longclust: '1.5'
-longevity: 1.0.0
+longevity: '1.1'
 longit: 0.1.0
 longitudinal: 1.1.13
 longitudinalANAL: '0.2'
@@ -18520,7 +18520,7 @@ mlr3filters: 0.8.0
 mlr3fselect: 1.0.0
 mlr3hyperband: 0.6.0
 mlr3learners: 0.7.0
-mlr3mbo: 0.2.3
+mlr3mbo: 0.2.4
 mlr3measures: 0.5.0
 mlr3misc: 0.15.1
 mlr3oml: 0.10.0
@@ -20204,7 +20204,7 @@ paleobuddy: 1.0.0
 paleofire: 1.2.4
 paleomorph: 0.1.4
 paleopop: 2.1.5
-paleotree: 3.4.5
+paleotree: 3.4.7
 palette: 0.0.2
 paletteer: 1.6.0
 paletteknife: 0.4.2
@@ -20795,7 +20795,7 @@ pkgconfig: 2.0.3
 pkgcopier: 0.0.1
 pkgdepR: 1.0.0
 pkgdepends: 0.7.2
-pkgdown: 2.0.9
+pkgdown: 2.1.0
 pkgfilecache: 0.1.5
 pkggraph: 0.2.3
 pkglite: 0.2.2
@@ -22347,7 +22347,7 @@ rebus.base: 0.0-3
 rebus.datetimes: 0.0-2
 rebus.numbers: 0.0-1
 rebus.unicode: 0.0-2
-recalibratiNN: 0.2.0
+recalibratiNN: 0.3.0
 recalls: 0.1.0
 recapr: 0.4.4
 reccsim: 0.9-1
@@ -22544,7 +22544,7 @@ repra: 0.4.4
 represent: 1.0.1
 representr: 0.1.5
 represtools: 0.1.3
-reprex: 2.1.0
+reprex: 2.1.1
 reproducer: 0.5.3
 reproducible: 2.1.0
 reproj: 0.7.0
@@ -22591,7 +22591,7 @@ restlos: 0.2-2
 restoptr: 1.0.6
 restorepoint: '0.2'
 restrictedMVN: '1.0'
-restriktor: 0.5-60
+restriktor: 0.5-80
 result: 0.1.0
 resumer: 0.0.5
 retel: 0.1.0
@@ -25877,7 +25877,7 @@ tfplot: 2021.6-1
 tfprobability: 0.15.1
 tframe: 2015.12-1.1
 tframePlus: 2024.2-1
-tfrmt: 0.1.1
+tfrmt: 0.1.2
 tfrmtbuilder: 0.0.6
 tfruns: 1.5.3
 tfse: 0.5.0
@@ -26173,7 +26173,7 @@ toastui: 0.3.3
 tobit1: 0.1-3
 todor: 0.1.2
 togglr: 0.2.1
-tok: 0.1.2
+tok: 0.1.3
 tokenbrowser: 0.1.5
 tokenizers: 0.3.0
 tokenizers.bpe: 0.1.3
@@ -27166,7 +27166,7 @@ weightTAPSPACK: '0.1'
 weightedCL: '0.5'
 weightedGCM: 0.1.0
 weightedKmeans: 1.2.0
-weightedRank: 0.2.5
+weightedRank: 0.3.7
 weightedScores: 0.9.5.3
 weightedZdiff: 0.1.0
 weightr: 2.0.2
