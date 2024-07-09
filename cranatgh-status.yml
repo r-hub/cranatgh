@@ -575,7 +575,7 @@ BaM: 1.0.3
 BaMORC: 1.0.1
 BaPreStoPro: '0.1'
 BaSAR: '1.3'
-BaSTA: 1.9.5
+BaSTA: 2.0.0
 BaSkePro: 1.1.1
 BaTFLED3D: 0.2.11
 BacArena: 1.8.2
@@ -1275,7 +1275,7 @@ CloneSeeker: 1.0.11
 CluMP: 0.8.1
 CluMix: 2.3.1
 ClueR: 1.4.2
-ClusBoot: 1.2.1
+ClusBoot: 1.2.2
 ClusPred: 1.1.0
 ClusROC: 1.0.2
 ClusTCR2: 1.7.3.01
@@ -1375,7 +1375,7 @@ Compind: '3.1'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
-Compositional: '6.8'
+Compositional: '6.9'
 CompositionalML: '1.0'
 CompoundEvents: 0.3.0
 Compounding: 1.0.2
@@ -1911,7 +1911,7 @@ DisaggregateTS: 2.0.0
 Disake: '1.5'
 DiscML: 1.0.1
 DiscreteDatasets: 0.1.1
-DiscreteFDR: 1.3.7
+DiscreteFDR: 2.0.0
 DiscreteInverseWeibull: 1.0.2
 DiscreteLaplace: 1.1.1
 DiscreteQvalue: '1.1'
@@ -3855,7 +3855,7 @@ LTPDvar: 1.2.1
 LTR: 1.0.0
 LTRCforests: 0.7.0
 LTRCtrees: 1.1.1
-LUCIDus: 3.0.1
+LUCIDus: 3.0.2
 LVGP: 2.1.5
 LVMMCOR: 0.01.1
 LVQTools: '1.2'
@@ -5162,6 +5162,7 @@ PBtDesigns: 1.0.0
 PCA4TS: '0.1'
 PCA4you: 1.2.4
 PCADSC: 0.8.0
+PCAPAM50: 1.0.0
 PCAmatchR: 0.3.3
 PCAmixdata: '3.1'
 PCBS: 0.1.0
@@ -5291,7 +5292,7 @@ POUMM: 2.1.7
 POV: 0.1.4
 PP: 0.6.3-11
 PP3: '1.2'
-PPCDT: 0.1.0
+PPCDT: 0.2.0
 PPCI: 0.1.5
 PPLasso: '2.0'
 PPMR: '1.0'
@@ -5529,7 +5530,7 @@ PoSI: '1.1'
 PogromcyDanych: 1.7.1
 PoiClaClu: 1.0.2.1
 PointFore: 0.2.0
-PointedSDMs: 1.3.2
+PointedSDMs: 2.1.0
 PoisBinNonNor: 1.3.3
 PoisBinOrd: 1.4.3
 PoisBinOrdNonNor: 1.5.3
@@ -5753,7 +5754,7 @@ QuantumClone: 1.0.0.6
 QuantumOps: 3.0.1
 Quartet: 1.2.6
 QuasiSeq: 1.0-11-0
-QuickJSR: 1.2.2
+QuickJSR: 1.3.0
 Quor: '0.1'
 QurvE: 1.1.1
 Qval: 0.1.6
@@ -6503,7 +6504,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.8.3
 RcppAnnoy: 0.0.22
-RcppArmadillo: 0.12.8.4.0
+RcppArmadillo: 14.0.0-1
 RcppArray: 0.3.0
 RcppBDT: 0.2.6
 RcppBigIntAlgos: 1.1.0
@@ -6591,6 +6592,7 @@ Rdta: 1.0.1
 Rdtq: '0.1'
 Rduino: '0.1'
 Rduinoiot: 0.1.0
+Rdune: 1.0.2
 ReAD: 1.0.1
 ReCiPa: '3.0'
 ReDaMoR: 0.7.6
@@ -7450,7 +7452,7 @@ SimComp: '3.3'
 SimCop: 0.7.0
 SimCorMultRes: 1.9.0
 SimCorrMix: 0.1.1
-SimDesign: 2.15.1
+SimDesign: '2.16'
 SimDissolution: 0.1.0
 SimEUCartelLaw: 1.0.3
 SimEngine: 1.4.0
@@ -8156,7 +8158,7 @@ TrtCombo.FactorialExp.SR: 4.0.4
 TrueSkillThroughTime: 0.1.1
 TrumpetPlots: 0.0.1.1
 TruncExpFam: 1.1.1
-TruncatedNormal: 2.2.2
+TruncatedNormal: '2.3'
 TrustVDJ: 0.1.0
 Tsphere: '1.0'
 TukeyC: 1.3-42
@@ -8440,7 +8442,7 @@ WeibullFit: 0.1.0
 WeibullR: 1.2.1
 WeibullR.ALT: 0.7.2
 WeibullR.learnr: 0.1.1
-WeibullR.plotly: 0.2.0
+WeibullR.plotly: 0.2.1
 WeibullR.shiny: 0.2.0
 WeightIt: 1.1.0
 WeightSVM: 1.7-13
@@ -8756,6 +8758,7 @@ adwave: '1.3'
 adwordsR: 0.3.1
 aeddo: 0.1.1
 aedseo: 0.1.2
+aelab: 0.4.0
 aemo: 0.3.0
 afCEC: 1.0.2
 afc: 1.4.0
@@ -9558,7 +9561,7 @@ bazar: 1.0.11
 bbdetection: '1.0'
 bbefkr: '4.2'
 bbemkr: '2.0'
-bbk: 0.3.0
+bbk: 0.4.0
 bbknnR: 1.1.1
 bbl: 1.0.0
 bbmix: 1.0.0
@@ -9890,7 +9893,7 @@ bipartite: '2.20'
 bipartiteD3: 0.3.1
 bipd: '0.3'
 bipl5: 1.0.2
-biplotEZ: 1.2.0
+biplotEZ: '2.0'
 biplotbootGUI: '1.3'
 birankr: 1.0.1
 birch: 1.2-3
@@ -11045,7 +11048,7 @@ colcor: '1.0'
 cold: 2.0-3
 colf: 0.1.3
 collUtils: 1.0.5
-collapse: 2.0.14
+collapse: 2.0.15
 collapsibleTree: 0.1.8
 collateral: 0.5.2
 collatz: 1.0.0
@@ -11281,7 +11284,7 @@ convertGraph: '0.1'
 convertbonds: 0.1.0
 convertid: 0.1.8
 convertr: '0.1'
-convevol: 2.0.1
+convevol: 2.2.0
 convexHaz: '0.2'
 convexjlr: 0.8.1
 convey: 1.0.0
@@ -11445,6 +11448,7 @@ covr: 3.6.4
 covreg: '1.0'
 covsep: 1.1.0
 covsim: 1.1.0
+covtracer: 0.0.1
 cowbell: 0.1.0
 cowplot: 1.1.3
 cowsay: 0.9.0
@@ -11713,7 +11717,7 @@ curvir: 0.1.1
 cusp: 2.3.6
 custom.gauss.quad: 1.0.0
 customLayout: 0.3.2
-customiser: 0.1.0
+customiser: 0.1.1
 customizedTraining: '1.2'
 customsteps: 0.7.1.0
 cusum: 0.4.1
@@ -12731,7 +12735,7 @@ dynprog: 0.1.1
 dynr: 0.1.16-105
 dynsbm: '0.7'
 dynsim: 1.2.3
-dynsurv: 0.4-6
+dynsurv: 0.4-7
 dyntaper: '1.1'
 dynutils: 1.0.11
 dynwrap: 1.2.4
@@ -13076,7 +13080,7 @@ endogenous: '1.0'
 endorse: 1.6.2
 endtoend: '2.29'
 energy: 1.7-11
-energyr: 0.1.2
+energyr: 0.1.3
 enerscape: 1.1.0
 enetLTS: 1.1.0
 english: 1.2-6
@@ -13250,7 +13254,7 @@ esaps: 0.2.2
 esback: 0.3.1
 esc: 0.5.1
 escalation: 0.1.10
-esci: 1.0.2
+esci: 1.0.3
 esd4all: 1.0-9
 eseis: 0.7.3
 eselect: '1.1'
@@ -13353,7 +13357,7 @@ evora: '1.0'
 evprof: 1.1.2
 evreg: 1.1.1
 evsim: 1.5.0
-evt0: 1.1-4
+evt0: 1.1.5
 evtclass: '1.0'
 evtree: 1.0-8
 ewoc: 0.3.0
@@ -14065,7 +14069,7 @@ forestSAS: 1.0.1
 forestat: 1.1.0
 forestecology: 0.2.0
 forestinventory: 1.0.0
-forestly: 0.1.0
+forestly: 0.1.1
 forestmangr: 0.9.6
 forestmodel: 0.6.2
 forestplot: 3.1.3
@@ -15019,7 +15023,7 @@ gitear: 1.0.0
 gitgadget: 0.8.1
 githubinstall: 0.2.2
 githubr: 0.9.1
-gitignore: 0.1.6
+gitignore: 0.1.7
 gitlabr: 2.1.0
 gitlink: 0.1.3
 gitr: 0.0.1
@@ -15707,7 +15711,7 @@ hglm.data: 1.0-1
 hgm: '1.23'
 hgnc: 0.1.4
 hgutils: 0.2.11
-hgwrr: 0.3-0
+hgwrr: 0.4-0
 hhcartr: 1.0.0
 hhh4contacts: 0.13.3
 hhi: 1.2.0
@@ -16717,7 +16721,7 @@ js: '1.2'
 jsTree: '1.2'
 jsTreeR: 2.6.0
 jshintr: 0.1.0
-jskm: 0.5.3
+jskm: 0.5.5
 jsmodule: 1.5.5
 json2aRgs: 0.3.0
 json64: 0.1.3
@@ -18531,6 +18535,7 @@ mlr3shiny: 0.3.0
 mlr3spatial: 0.5.0
 mlr3spatiotempcv: 2.3.1
 mlr3summary: 0.1.0
+mlr3torch: 0.1.0
 mlr3tuning: 1.0.0
 mlr3tuningspaces: 0.5.1
 mlr3verse: 0.3.0
@@ -19955,7 +19960,7 @@ optbin: '1.3'
 optedr: 2.0.0
 optextras: 2019-12.4
 optiRum: 0.41.1
-optiSel: 2.0.8
+optiSel: 2.0.9
 optiSolve: '1.0'
 optic: 1.0.1
 optical: 1.7.1
@@ -20367,7 +20372,7 @@ pawls: 1.0.0
 paws: 0.6.0
 paws.analytics: 0.6.0
 paws.application.integration: 0.6.0
-paws.common: 0.7.3
+paws.common: 0.7.4
 paws.compute: 0.6.1
 paws.cost.management: 0.6.1
 paws.customer.engagement: 0.6.0
@@ -20660,7 +20665,7 @@ phitest: 1.0-0
 phm: 1.1.2
 phmm: 0.7-14
 phoenics: '0.2'
-phoenix: 1.1.0
+phoenix: 1.1.1
 phom: 1.0.3
 phonR: 1.0-7
 phonTools: 0.2-2.2
@@ -22596,7 +22601,7 @@ result: 0.1.0
 resumer: 0.0.5
 retel: 0.1.0
 rethinker: 1.1.0
-rethnicity: 0.2.4
+rethnicity: 0.2.5
 reticulate: 1.38.0
 retimes: 0.1-2
 retistruct: 0.6.3
@@ -22823,6 +22828,7 @@ rkafkajars: '1.2'
 rkdb: 0.9.0
 rkeops: 1.4.2.2
 rknn: 1.2-1
+rkriging: '1.0'
 rkt: '1.7'
 rkvo: '0.1'
 rlandfire: 1.0.0
@@ -22897,7 +22903,7 @@ rmp: '2.2'
 rmpw: 0.0.5
 rms: 6.8-1
 rms.gof: '1.0'
-rmsb: 1.1-0
+rmsb: 1.1-1
 rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
 rmstBayespara: 0.1.0
@@ -23006,7 +23012,7 @@ rococo: 1.1.9
 rocplus: 1.0-0
 rocsvm.path: 0.1.0
 rodd: 0.2-1
-rodeo: 0.8.1
+rodeo: 0.8.2
 rodham: 0.1.1
 rofanova: 1.0.0
 roger: 1.5-1
@@ -24886,7 +24892,7 @@ splash: 1.0.2
 splashr: 0.6.0
 spldv: 0.1.3
 splines: 2.0-7
-splines2: 0.5.2
+splines2: 0.5.3
 splinesurv: 0.6-14
 splinetree: 0.2.0
 splitFeas: 0.1.0
@@ -25421,7 +25427,7 @@ survSens: 1.1.0
 survSpearman: 1.0.1
 survcomp: 1.1.6
 survcompare: 0.1.2
-surveil: 0.2.2
+surveil: 0.3.0
 surveillance: 1.23.0
 survex: 1.2.0
 survexp.fr: '1.1'
@@ -25553,7 +25559,7 @@ sybilcycleFreeFlux: 2.0.2
 sylcount: 0.2-6
 syllabifyr: 0.1.1
 syllable: 0.1.3
-syllogi: 1.0.2
+syllogi: 1.0.3
 sylly: 0.1-6
 sylly.en: 0.1-3
 sym.arma: '1.0'
@@ -25690,6 +25696,7 @@ taxalight: 0.1.5
 taxize: 0.9.100
 taxizedb: 0.3.1
 taxlist: 0.3.0
+taxnames: 0.1.0
 taxonbridge: 1.2.2
 taxonomizr: 0.10.6
 taxotools: 0.0.139
@@ -26293,6 +26300,7 @@ translateR: '1.0'
 translateSPSS2R: 1.0.0
 translated: 0.1.1
 translation.ko: 0.0.1.5.2
+translit.uk: 1.0.0
 transmdl: 0.1.0
 transmem: 0.1.1
 transmission: 0.2.0
