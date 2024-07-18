@@ -3751,7 +3751,7 @@ LDAShiny: 0.9.3
 LDATS: 0.3.0
 LDATree: 0.1.2
 LDAandLDAS: 1.1.3
-LDAcoop: 0.1.1
+LDAcoop: 0.1.2
 LDAvis: 0.3.2
 LDLcalc: '2.1'
 LDM: 6.0.1
@@ -4594,7 +4594,7 @@ MixRF: '1.0'
 MixSAL: '1.0'
 MixSIAR: 3.1.12
 MixSemiRob: 1.1.0
-MixSim: 1.1-7
+MixSim: 1.1-8
 MixTwice: '2.0'
 MixedDataImpute: '0.1'
 MixedIndTests: 1.2.0
@@ -5626,7 +5626,7 @@ ProPublicaR: 1.1.4
 ProSGPV: 1.0.0
 ProTrackR: 0.4.3
 ProbBayes: '1.1'
-ProbBreed: 1.0.3.2
+ProbBreed: 1.0.4.0
 ProbForecastGOP: 1.3.2
 ProbMarg: 1.0.1
 ProbReco: 0.1.2
@@ -6508,7 +6508,7 @@ Rcoclust: 0.1.1
 Rcolombos: 2.0.2
 Rcompadre: 1.3.0
 Rcplex: 0.3-6
-Rcpp: 1.0.12
+Rcpp: 1.0.13
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
 RcppAlgos: 2.8.3
@@ -7594,7 +7594,7 @@ SparseGrid: 0.8.2
 SparseLPM: '1.0'
 SparseLearner: 1.0-2
 SparseLogReg: 0.1.1
-SparseM: '1.84'
+SparseM: 1.84-2
 SparseMDC: 0.99.5
 SparseMSE: 2.0.1
 SparseTSCGM: '4.0'
@@ -7703,7 +7703,7 @@ SteppedPower: 0.3.5
 StepwiseTest: '1.0'
 StereoMorph: 1.6.7
 Stickbreaker: 1.0.0
-SticsRFiles: 1.3.0
+SticsRFiles: 1.4.0
 StochBlock: 0.1.2
 StochKit2R: '0.3'
 StochaTR: 1.0.4
@@ -8754,7 +8754,7 @@ admix: 2.1-3
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
-admtools: 0.2.0
+admtools: 0.3.0
 adnuts: 1.1.2
 adobeanalyticsr: 0.4.0
 adoption: 0.6.4
@@ -9432,7 +9432,7 @@ bandit: 0.5.1
 banditpam: 1.0-1
 bandsfdp: 1.1.0
 banffIT: 1.0.0
-bang: 1.0.3
+bang: 1.0.4
 bangladesh: 1.0.0
 bannerCommenter: 1.0.0
 banter: 0.9.6
@@ -9966,7 +9966,7 @@ blin: 0.0.1
 blindrecalc: 1.0.1
 blindreview: 2.0.0
 blink: 1.1.0
-bliss: 1.1.0
+bliss: 1.1.1
 blkbox: '1.0'
 blkergm: '1.1'
 blm: 2022.0.0.1
@@ -10650,6 +10650,7 @@ changepointsVar: 0.1.1
 changer: 0.0.5
 chantrics: 1.0.0
 charlatan: 0.5.1
+charlesschwabapi: 1.0.2
 charlson: '1.0'
 chartql: 0.1.0
 chatAI4R: 0.2.10
@@ -11012,7 +11013,7 @@ cocotest: 1.0.3
 cocron: 1.0-1
 coda: 0.19-4.1
 coda.base: 0.5.5
-coda4microbiome: 0.2.3
+coda4microbiome: 0.2.4
 codacore: 0.0.4
 codadiags: '1.0'
 codalm: 0.1.2
@@ -11667,7 +11668,7 @@ ctest: 0.9-21
 ctf: 0.1.0
 ctgdist: 0.1.0
 ctgt: 2.0.1
-cthist: 2.1.10
+cthist: 2.1.11
 cthresh: '4.5'
 cthreshER: 1.1.0
 ctl: 1.0.0-10
@@ -13839,7 +13840,7 @@ filearray: 0.1.7
 filebin: 0.0.6
 filecacher: 0.2.9
 filehash: 2.4-6
-filehashSQLite: 0.2-6
+filehashSQLite: 0.2-7
 filelock: 1.0.3
 filematrix: '1.3'
 filenamer: 0.2.4
@@ -16511,7 +16512,7 @@ ipsecr: 1.4.1
 ipsfs: 1.0.0
 iptmnetr: 0.1.8
 iptools: 0.7.2
-ipumsr: 0.8.0
+ipumsr: 0.8.1
 ipw: 1.2.1
 ipwCoxCSV: '1.0'
 ipwErrorY: '2.1'
@@ -16830,7 +16831,7 @@ kerDAA: 0.1.1
 kerSeg: '1.1'
 kerTests: 0.1.4
 keras: 2.15.0
-keras3: 1.0.0
+keras3: 1.1.0
 kerasR: 0.8.1
 kerasformula: 1.5.1
 kerastuneR: 0.1.0.7
@@ -16915,7 +16916,7 @@ kmBlock: 0.1.2
 kmc: 0.4-2
 kmconfband: '0.1'
 kmcudaR: 1.1.0
-kmeRs: 1.1.0
+kmeRs: 2.1.0
 kmeans.ddR: 0.1.0
 kmed: 0.4.2
 kmer: 1.1.2
@@ -17368,7 +17369,7 @@ listr: 0.1.0
 listviewer: 4.0.0
 lit: 1.0.0
 litRiddle: 1.0.0
-lite: 1.1.0
+lite: 1.1.1
 liteq: 1.1.0
 literanger: 0.0.2
 litteR: 1.0.0
@@ -17762,7 +17763,7 @@ manydata: 0.9.3
 manymodelr: 0.3.7
 manymome: 0.2.2
 manymome.table: 0.3.0
-manynet: 0.4.4
+manynet: 1.0.1
 maotai: 0.2.5
 mapDK: 0.3.0
 mapLD: 1.0-1
@@ -18602,7 +18603,7 @@ mmeta: 3.0.0
 mmetrics: 0.3.0
 mmiCATs: 0.1.1
 mmibain: 0.2.0
-mmirestriktor: 0.3.0
+mmirestriktor: 0.3.1
 mmlcr: 1.3.5
 mmm: '1.4'
 mmm2: '1.2'
@@ -19752,7 +19753,7 @@ nzffdr: 2.1.0
 nzilbb.labbcat: 1.3-0
 nzpullover: 0.3.0
 o2geosocial: 1.1.3
-o2plsda: 0.0.18
+o2plsda: 0.0.22
 oHMMed: 1.0.2
 oRus: 1.0.0
 oXim: 1.2.2
@@ -20211,7 +20212,7 @@ pafdR: '1.0'
 pafr: 0.0.2
 pagedown: '0.20'
 pagemap: 0.1.3
-pagenum: '1.2'
+pagenum: '1.3'
 pageviews: 0.6.0
 pagoda2: 1.0.12
 pagoo: 0.3.17
@@ -20593,7 +20594,7 @@ perms: '1.13'
 permtest: '1.2'
 permubiome: 1.3.2
 permuco: 1.1.2
-permutations: 1.1-2
+permutations: 1.1-5
 permute: 0.9-7
 permutes: '2.8'
 perplexR: 0.0.3
@@ -22154,7 +22155,7 @@ ravedash: 0.1.2
 raveio: 0.9.0
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravetools: 0.1.6
+ravetools: 0.1.7
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -22594,7 +22595,7 @@ requiRements: 0.0.3
 requireR: 1.0.0.1
 rerandPower: 0.0.1
 rerddap: 1.1.0
-rerddapXtracto: 1.2.0
+rerddapXtracto: 1.2.1
 rerf: 2.0.4
 resample: '0.6'
 resampledata: 0.3.1
@@ -22647,7 +22648,7 @@ retrosheet: 1.1.6
 retry: 0.1.1
 reutils: 0.2.3
 reval: 3.1-0
-revdbayes: 1.5.3
+revdbayes: 1.5.4
 revealedPrefs: 0.4.1
 revealjs: '0.9'
 reveneraR: 0.1.2
@@ -23140,6 +23141,7 @@ rphylotastic: 0.0.4
 rpicosat: 1.0.1
 rpinterest: 0.3.1
 rpivotTable: 0.3.0
+rplanes: 0.1.0
 rplexos: 1.1.11
 rplos: 1.0.0
 rplotengine: 1.0-9
@@ -23447,7 +23449,7 @@ rytstat: 0.3.0
 rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.13
-s2: 1.1.6
+s2: 1.1.7
 s20x: 3.1-40
 s2dv: 2.0.0
 s2dverification: 2.10.3
@@ -23793,7 +23795,7 @@ sde: 2.0.18
 sdef: '1.7'
 sdetorus: 0.1.10
 sdglinkage: 0.1.0
-sdm: 1.2-40
+sdm: 1.2-46
 sdmApp: 0.0.2
 sdmTMB: 0.6.0
 sdmpredictors: 0.2.15
@@ -23840,7 +23842,7 @@ secuTrialR: 1.3.3
 secure: '0.6'
 securitytxt: 0.1.1
 sedproxy: 0.7.5
-see: 0.8.4
+see: 0.8.5
 seeclickfixr: 1.1.0
 seecolor: 0.2.0
 seedCCA: '3.1'
@@ -24047,7 +24049,7 @@ sglr: '0.8'
 sgmcmc: 0.2.5
 sgmodel: 0.1.2
 sgo: 0.9.2
-sgof: 2.3.4
+sgof: 2.3.5
 sgolay: 1.0.3
 sgpv: 1.1.0
 sgr: 1.3.1
@@ -24102,7 +24104,7 @@ shiny.reglog: 0.5.2
 shiny.router: 0.3.1
 shiny.semantic: 0.5.1
 shiny.tailwind: 0.2.2
-shiny.telemetry: 0.2.0
+shiny.telemetry: 0.3.0
 shiny.worker: 0.0.1
 shinyAce: 0.4.2
 shinyBS: 0.61.1
@@ -24451,7 +24453,7 @@ skynet: 1.4.3
 skyscapeR: 1.0.0
 sla: '0.1'
 slackr: 3.3.1
-slam: 0.1-50
+slam: 0.1-51
 slanter: 0.2-0
 slap: 2024.4.1
 slasso: 1.0.0
@@ -24758,7 +24760,7 @@ sparseLRMatrix: 0.1.0
 sparseLTSEigen: 0.2.0.1
 sparseMVN: 0.2.2
 sparseMatEst: 1.0.0
-sparseR: 0.3.0
+sparseR: 0.3.1
 sparseSEM: '4.0'
 sparseSVM: 1.1-6
 sparsebn: 0.1.2
@@ -25176,7 +25178,7 @@ statisticalModeling: 0.3.0
 statmod: 1.5.0
 statnet: '2019.6'
 statnet.common: 4.9.0
-statnetWeb: 0.5.6
+statnetWeb: 0.5.8
 statnipokladna: 0.7.3
 statprograms: 0.2.0
 statpsych: 1.6.0
@@ -25963,7 +25965,7 @@ threesixtygiving: 0.2.2
 threewords: 0.1.0
 threg: 1.0.3
 thregI: 1.0.4
-threshr: 1.0.5
+threshr: 1.0.6
 thriftr: 1.1.7
 thsls: '0.1'
 thunder: 1.1.3
@@ -26390,7 +26392,7 @@ treesitter.r: 1.0.1
 treesliceR: 1.0.1
 treespace: 1.1.4.3
 treestartr: 0.1.0
-treestats: 1.0.5
+treestats: 1.70.4
 treestructure: 0.1.0
 treethresh: 0.1-11
 treetop: 0.0.5
