@@ -765,7 +765,7 @@ BioGeoBEARS: 0.2.1
 BioIDMapper: '3.0'
 BioInsight: 0.3.1
 BioInstaller: 0.3.7
-BioM2: 1.0.7
+BioM2: 1.0.8
 BioMark: 0.4.5
 BioMedR: 1.2.1
 BioPET: 0.2.2
@@ -1499,7 +1499,7 @@ CrossVA: 1.0.0
 CrossValidate: 2.3.4
 Crossover: 0.1-22
 Crosstabs.Loglinear: 0.1.1
-CruzPlot: 1.4.8
+CruzPlot: 1.4.9
 CryptRndTest: 1.2.7
 CrypticIBDcheck: 0.3-3
 CsChange: 0.1.7
@@ -2137,6 +2137,7 @@ EValue: 4.1.3
 EVchargcost: 0.1.0
 EW: '1.1'
 EWGoF: 2.2.2
+EWOC.Comb: '1.0'
 EWOC2: '1.0'
 EWS: 0.2.0
 EWSmethods: 1.3.1
@@ -2225,7 +2226,7 @@ EnvStats: 2.8.1
 EnviroPRA: '1.0'
 EnviroPRA2: 1.0.1
 EnviroStat: 0.4-2
-Epi: '2.52'
+Epi: '2.53'
 EpiBayes: 0.1.2
 EpiContactTrace: 0.17.0
 EpiCurve: 2.4-2
@@ -3233,7 +3234,7 @@ HistDAWass: 1.0.8
 HistDat: 0.2.0
 HistData: 0.9-1
 HistogramTools: 0.3.2
-HiveR: 0.3.63
+HiveR: 0.4.0
 Hmisc: 5.1-3
 Hmsc: 3.0-13
 HoRM: 0.1.3
@@ -3798,6 +3799,7 @@ LMMELSM: 0.2.0
 LMMsolver: 1.0.7
 LMMstar: 1.1.0
 LMN: 1.1.3
+LMPdata: 0.1.0
 LMest: 3.1.2
 LMfilteR: 0.1.3.1
 LMoFit: 0.1.7
@@ -6162,7 +6164,7 @@ ROI.plugin.msbinlp: 1.0-1
 ROI.plugin.neos: 1.0-2
 ROI.plugin.nloptr: 1.0-1
 ROI.plugin.optimx: 1.0-1
-ROI.plugin.osqp: 1.0-1
+ROI.plugin.osqp: 1.0-2
 ROI.plugin.qpoases: 1.0-3
 ROI.plugin.quadprog: 1.0-1
 ROI.plugin.scs: 1.1-2
@@ -6282,7 +6284,7 @@ RSmallTelescopes: 1.0.4
 RSmartlyIO: 0.1.3
 RSocrata: 1.7.15-1
 RSofia: '1.1'
-RSpectra: 0.16-1
+RSpectra: 0.16-2
 RSpincalc: 1.0.2
 RSqlParser: '1.5'
 RStackExchange: 0.1.2
@@ -6601,7 +6603,7 @@ Rdta: 1.0.1
 Rdtq: '0.1'
 Rduino: '0.1'
 Rduinoiot: 0.1.0
-Rdune: 1.0.2
+Rdune: 1.1.0
 ReAD: 1.0.1
 ReCiPa: '3.0'
 ReDaMoR: 0.7.6
@@ -8694,7 +8696,7 @@ adaptiveGPCA: 0.1.3
 adaptivetau: 2.3-1
 adaptr: 1.4.0
 adaptsmoFMRI: '1.2'
-adass: 1.0.0
+adass: 1.0.1
 adbcdrivermanager: 0.13.0
 adbcpostgresql: 0.13.0
 adbcsqlite: 0.13.0
@@ -10875,7 +10877,7 @@ clipr: 0.8.0
 cliqueMS: 0.3.1
 clisymbols: 1.2.0
 clmplus: 1.0.0
-clock: 0.7.0
+clock: 0.7.1
 clockify: 0.1.6
 clogitL1: '1.5'
 clogitLasso: '1.1'
@@ -11310,7 +11312,7 @@ cooccurNet: 0.1.6
 cookiecutter: 0.1.0
 cookiemonster: 0.0.3
 cookies: 0.2.3
-cooltools: 2.1.27
+cooltools: '2.4'
 coop: 0.6-3
 coopProductGame: '2.0'
 cooptrees: '1.0'
@@ -11399,7 +11401,7 @@ cosmosR: '1.0'
 cosso: 2.1-2
 costat: 2.4.1
 costsensitive: 0.1.2.10
-cotram: 0.4-4
+cotram: 0.5-0
 cotrend: 1.0.2
 couchDB: 1.4.1
 countDM: 0.1.0
@@ -11679,7 +11681,7 @@ ctmm: 1.2.0
 ctmva: 1.4.0
 ctpm: 1.0.1
 ctqr: '2.1'
-ctrdata: 1.19.0
+ctrdata: 1.19.1
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
 cts: 1.0-22
@@ -11691,7 +11693,7 @@ ctxR: 1.0.0
 cuRe: 1.1.1
 cubar: 0.6.0
 cubature: 2.1.1
-cubble: 0.3.1
+cubble: 0.3.2
 cubelyr: 1.0.2
 cubeview: 0.2.0
 cubfits: 0.1-4
@@ -12673,7 +12675,7 @@ dtrackr: 0.4.4
 dtree: 0.4.2
 dtt: 0.1-2
 dttr2: 0.5.0
-dtts: 0.1.2
+dtts: 0.1.3
 dtw: 1.23-1
 dtwSat: 1.0.0
 dtwclust: 5.5.12
@@ -13416,7 +13418,7 @@ exdqlm: 0.1.3
 executablePackeR: 0.0.2
 exif: 0.1.0
 exifr: 0.3.2
-exiftoolr: 0.2.4
+exiftoolr: 0.2.5
 exoplanets: 0.2.2
 exp2flux: '0.1'
 expDB: 0.1.0
@@ -13743,7 +13745,7 @@ fdaoutlier: 0.2.1
 fdapace: 0.6.0
 fdapaceShiny: 1.0.5
 fdarep: 0.1.1
-fdasrvf: 2.3.0
+fdasrvf: 2.3.1
 fdatest: 2.1.1
 fdcov: 1.1.0
 fddm: 1.0-2
@@ -14391,7 +14393,7 @@ galgo: '1.4'
 galigor: 0.2.5
 galts: 1.3.2
 galvanizer: 0.5.3
-gam: 1.22-3
+gam: 1.22-4
 gam.hp: 0.0-1
 gamCopula: 0.0-7
 gamRR: 0.7.0
@@ -14431,7 +14433,7 @@ gamm4.test: 0.1.0
 gammSlice: 2.0-2
 gamma: 1.0.5
 gamreg: '0.3'
-gamsel: 1.8-3
+gamsel: 1.8-4
 gamselBayes: 2.0-1
 gamstransfer: 3.0.3
 ganDataModel: 1.1.6
@@ -16204,7 +16206,7 @@ ihpdr: 1.2.1
 ihs: '1.0'
 iid.test: '1.13'
 iilasso: 0.0.2
-iimi: 1.0.2
+iimi: 1.1.0
 ijtiff: 2.3.4
 iki.dataclim: '1.0'
 ilabelled: 0.9.0
@@ -16504,7 +16506,7 @@ ipmr: 0.0.7
 ipolygrowth: 0.1.2
 ipptoolbox: '1.2'
 ipr: 0.1.0
-ipred: 0.9-14
+ipred: 0.9-15
 iprior: 0.7.4
 ips: 0.0.12
 ipsRdbs: 1.0.0
@@ -16748,7 +16750,7 @@ jsTree: '1.2'
 jsTreeR: 2.6.0
 jshintr: 0.1.0
 jskm: 0.5.5
-jsmodule: 1.5.5
+jsmodule: 1.5.6
 json2aRgs: 0.3.0
 json64: 0.1.3
 jsonNormalize: 1.0.0
@@ -17742,7 +17744,7 @@ makeunique: 1.0.0
 malan: 1.0.3
 malani: '1.0'
 malaria.em: '2.0'
-malariaAtlas: 1.5.1
+malariaAtlas: 1.6.1
 malaytextr: 0.1.3
 maldipickr: 1.3.0
 mallet: 1.3.0
@@ -17801,7 +17803,7 @@ mapsFinland: 0.2.2
 mapsPERU: 2.0.0
 mapsRinteractive: 2.0.1
 mapsapi: 0.5.4
-mapscanner: 0.0.6
+mapscanner: 0.1.1
 mapsf: 0.10.1
 maptiles: 0.7.0
 maptools: 1.1-8
@@ -18348,7 +18350,7 @@ mimR: 2.6.2
 mime: '0.12'
 mimi: 0.2.0
 mimiSBM: 0.0.1.3
-mimsy: 0.6.4
+mimsy: 0.6.5
 minMSE: 0.5.1
 minPtest: '1.7'
 minSNPs: 0.2.0
@@ -18971,7 +18973,7 @@ mult.latent.reg: 0.1.7
 multDM: 1.1.4
 multIntTestFunc: 0.2.0
 multbxxc: 1.0.3
-multcomp: 1.4-25
+multcomp: 1.4-26
 multcompView: 0.1-10
 multdyn: '1.6'
 multe: 1.1.0
@@ -18998,7 +19000,7 @@ multibreakeR: 0.1.0
 multibridge: 1.2.0
 multic: 0.4.3.1
 multicastR: 2.0.0
-multichull: 1.0.1
+multichull: 3.0.0
 multiclassPairs: 0.4.3
 multicmp: '1.1'
 multicolor: 0.1.7
@@ -19715,7 +19717,7 @@ nswgeo: 0.4.0
 nsyllable: 1.0.1
 ntdr: 0.3.4
 ntranova: 0.0.1
-ntsDatasets: 0.1.0
+ntsDatasets: 0.2.0
 ntsDists: 2.1.1
 ntwk: 1.0.0
 nucim: 1.0.11
@@ -19753,7 +19755,7 @@ nzffdr: 2.1.0
 nzilbb.labbcat: 1.3-0
 nzpullover: 0.3.0
 o2geosocial: 1.1.3
-o2plsda: 0.0.22
+o2plsda: 0.0.25
 oHMMed: 1.0.2
 oRus: 1.0.0
 oXim: 1.2.2
@@ -20354,8 +20356,8 @@ partitions: 1.10-7
 partools: 1.1.6
 partsm: 1.1-3
 parttime: 0.1.2
-party: 1.3-15
-partykit: 1.2-20
+party: 1.3-16
+partykit: 1.2-21
 parviol: '1.1'
 parzer: 0.4.1
 pasadr: '1.0'
@@ -20577,7 +20579,7 @@ perccal: '1.0'
 perccalc: 1.0.5
 percentiles: 0.2.2
 perfectphyloR: 0.2.1
-performance: 0.12.1
+performance: 0.12.2
 performanceEstimation: 1.1.0
 pergola: '1.0'
 periscope: 1.0.4
@@ -20718,7 +20720,7 @@ photosynthesis: 2.1.4
 phpSerialize: 0.8-01
 phrasemachine: 1.1.2
 phrases: '0.1'
-phreeqc: 3.7.6
+phreeqc: 3.8.0
 phsmethods: 1.0.2
 phtt: 3.1.2
 phuassess: '1.1'
@@ -20774,6 +20776,7 @@ picasso: 1.3.1
 picker: 0.2.6
 pid: '0.50'
 piecemaker: 1.0.2
+piecenorms: 1.0.0
 piecepackr: 1.13.10
 piecewiseSEM: 2.3.0.1
 pifpaf: 1.0.1
@@ -22142,7 +22145,7 @@ ratelimitr: 0.4.1
 ratematrix: 1.2.4
 rater: 1.3.1
 rateratio.test: '1.1'
-raters: 2.0.4
+raters: 2.1.0
 ratesci: 0.4-0
 ratetables: 1.0-2
 ratioOfQsprays: 1.0.0
@@ -22416,7 +22419,7 @@ recorder: 0.8.2
 recordr: 1.0.3
 recosystem: 0.5.1
 recurrentpseudo: 1.0.0
-recurse: 1.3.0
+recurse: 1.4.0
 red: 1.6.1
 redR: 1.0.1
 reda: 0.5.4
@@ -22618,7 +22621,7 @@ resmush: 0.1.1
 resourcer: 1.4.0
 respR: 2.3.3
 resper: 0.3.2
-respirometry: 1.5.0
+respirometry: 2.0.0
 responsePatterns: 0.1.1
 restatapi: 0.23.1
 restatis: 0.1.0
@@ -23279,7 +23282,7 @@ rsprite2: 0.2.1
 rsprng: '1.0'
 rsq: '2.6'
 rsqliteadmin: 1.0.1
-rstac: 1.0.0
+rstac: 1.0.1
 rstack: 1.0.1
 rstackdeque: 1.1.1
 rstan: 2.32.6
@@ -23696,7 +23699,7 @@ sccr: '2.1'
 scdensity: 1.0.2
 scdhlm: 0.7.3
 scdtb: 0.1.0
-scellpam: 1.4.6.1
+scellpam: 1.4.6.2
 scenario: '1.0'
 scenes: 0.1.0
 scfetch: 0.5.0
@@ -24061,7 +24064,7 @@ sgt: '2.0'
 shades: 1.4.0
 shadow: 0.7.1
 shadowr: 0.0.2
-shadowtext: 0.1.3
+shadowtext: 0.1.4
 shallot: 0.4.10
 shape: 1.4.6.1
 shapeNA: 0.0.2
@@ -24385,7 +24388,7 @@ sinew: 0.4.0
 singR: 0.1.2
 singcar: 0.1.5
 singleCellHaystack: 1.0.2
-singleRcapture: 0.2.1.1
+singleRcapture: 0.2.1.2
 singlecase: '0.1'
 sinib: 1.0.0
 sinx: 0.0.13
@@ -24951,7 +24954,7 @@ splutil: 2022.6.20
 spm: 1.2.2
 spm12r: 2.8.3
 spm2: 1.1.3
-spmodel: 0.6.0
+spmodel: 0.7.0
 spmoran: 0.2.3
 spnaf: 1.0.0
 spnet: 0.9.1-0
@@ -25631,7 +25634,7 @@ synthesis: 1.2.5
 synthesisr: 0.3.0
 synthesizer: 0.2.0
 synthpop: 1.8-0
-syrup: 0.1.0
+syrup: 0.1.1
 sys: 3.4.2
 sysfonts: 0.8.9
 sysid: 1.0.4
@@ -26009,6 +26012,7 @@ tidycomm: 0.4.1
 tidycwl: 1.0.7
 tidydann: 1.0.0
 tidydatatutor: 0.1.0
+tidydelta: 0.1.0
 tidydice: 1.0.0
 tidydr: 0.0.5
 tidyedgar: 1.0.1
@@ -26064,7 +26068,7 @@ tidystats: 0.6.2
 tidystopwords: 0.9.1
 tidystringdist: 0.1.4
 tidysynth: 0.2.0
-tidytable: 0.11.0
+tidytable: 0.11.1
 tidytags: 1.1.1
 tidyterra: 0.6.1
 tidytext: 0.4.2
@@ -26147,7 +26151,7 @@ tinyspotifyr: 0.2.2
 tinytable: 0.3.0
 tinytest: 1.4.1
 tinytest2JUnit: 1.1.2
-tinytex: '0.51'
+tinytex: '0.52'
 tinythemes: 0.0.2
 tinytiger: 0.0.9
 tiobeindexr: 0.1.1
@@ -27112,13 +27116,13 @@ walker: 1.0.8
 walkr: 0.4.0
 walkscore: 0.1.2
 walkscoreAPI: '1.2'
-wallace: 2.1.2
+wallace: 2.1.3
 wally: 1.0.10
 walmartAPI: 0.1.5
 walrus: 1.0.5
 wand: 0.5.0
 warabandi: 0.1.0
-warbleR: 1.1.30
+warbleR: 1.1.31
 warp: 0.2.1
 warpMix: 0.1.0
 washdata: 0.1.4
@@ -27432,7 +27436,7 @@ xegaSelectGene: 1.0.0.0
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.45'
+xfun: '0.46'
 xgb2sql: 0.1.2
 xgboost: 1.7.7.1
 xgobi: 1.2-15
