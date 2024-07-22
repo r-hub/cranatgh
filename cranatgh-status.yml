@@ -1056,6 +1056,7 @@ COMBAT: 0.0.4
 COMBIA: 1.0.6
 COMBO: 1.1.0
 COMIX: 1.0.0
+COMMA: 1.0.0
 COMMUNAL: 1.1.0
 COMPoissonReg: 0.8.1
 CONCUR: '1.4'
@@ -1212,7 +1213,7 @@ Certara.NLME8: 1.2.4
 Certara.R: 1.1.0
 CfEstimateQuantiles: '1.0'
 ChIPtest: '1.0'
-ChainLadder: 0.2.18
+ChainLadder: 0.2.19
 ChangeAnomalyDetection: 0.1.0
 ChangePointTaylor: '0.3'
 ChangepointTesting: '1.1'
@@ -2288,7 +2289,7 @@ ExNRuleEnsemble: 0.1.1
 ExPD2D: 1.0.1
 ExPanDaR: 0.5.3
 ExPosition: 2.8.23
-Exact: '3.2'
+Exact: '3.3'
 ExactCIdiff: '2.1'
 ExactCIone: 1.0.5
 ExactCox: 0.1.0
@@ -2855,7 +2856,7 @@ GSIF: 0.5-5.1
 GSM: 1.3.2
 GSMX: '1.3'
 GSNA: 0.1.4.2
-GSODR: 4.0.0
+GSODR: 4.1.0
 GSSE: '0.1'
 GSSTDA: 1.0.0
 GSelection: 0.1.0
@@ -4211,6 +4212,7 @@ MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
 MLDS: 0.5.1
 MLDataR: 1.0.1
+MLE: '1.0'
 MLEP: 0.0-3
 MLEce: 2.1.0
 MLEcens: 0.1-7
@@ -5277,7 +5279,7 @@ PMCMRplus: 1.9.10
 PMEvapotranspiration: 0.1.0
 PML: '1.2'
 PMmisc: 0.1.2
-PMwR: 0.19-3
+PMwR: 0.19-5
 PNADcIBGE: 0.7.5
 PNAR: '1.6'
 PNDSIBGE: 0.1.1
@@ -5768,7 +5770,7 @@ QuasiSeq: 1.0-11-0
 QuickJSR: 1.3.1
 Quor: '0.1'
 QurvE: 1.1.1
-Qval: 0.1.6
+Qval: 0.1.7
 R.SamBada: 0.1.3
 R.cache: 0.16.0
 R.devices: 2.17.2
@@ -6140,6 +6142,7 @@ ROCit: 2.1.2
 ROCket: 1.0.1
 ROCnReg: 1.0-9
 ROCpsych: '1.3'
+ROCsurf: 0.1.0
 ROCt: 0.9.5
 ROCwoGS: '1.0'
 RODBC: 1.3-23
@@ -6677,6 +6680,7 @@ ResourceSelection: 0.3-6
 RespirAnalyzer: 1.0.2
 RestRserve: 1.2.3
 RestoreNet: 1.0.1
+ResultModelManager: 0.5.9
 ReturnCurves: '1.0'
 RevEcoR: 0.99.3
 RevGadgets: 1.2.1
@@ -7745,6 +7749,7 @@ SubpathwayLNCE: '1.0'
 SubpathwayMiner: '3.1'
 SubtypeDrug: 0.1.9
 SuessR: 0.1.5
+SumcaVer1: 0.1.0
 SummaryLasso: 1.2.1
 Sunclarco: 1.0.0
 Sunder: 0.0.4
@@ -10039,6 +10044,7 @@ boclust: 0.1.2
 bodenmiller: 0.1.1
 bodsr: 0.1.0
 bodycomp: 1.0.0
+bodycompref: 2.0.1
 boggy: 0.0.1
 boilerpipeR: 1.3.2
 boinet: 1.0.0
@@ -10584,6 +10590,7 @@ censusr: 0.0.4
 censusxy: 1.1.1
 censys: 0.1.0
 centiserve: 1.0.0
+centr: 0.1.0
 centralplot: 0.1.0
 centrifugeR: 0.1.7
 cents: 0.1-41
@@ -11940,7 +11947,7 @@ dataverifyr: 0.1.8
 dataverse: 0.3.14
 dataversionr: 0.9.0
 dataview: 2.1.1
-datawizard: 0.12.1
+datawizard: 0.12.2
 datazoom.amazonia: 1.1.0
 date: 1.2-42
 dateback: 1.0.5
@@ -14436,7 +14443,7 @@ gamreg: '0.3'
 gamsel: 1.8-4
 gamselBayes: 2.0-1
 gamstransfer: 3.0.3
-ganDataModel: 1.1.6
+ganDataModel: 1.1.7
 ganGenerativeData: 2.0.2
 ganalytics: 0.10.7
 gaoptim: '1.1'
@@ -14718,7 +14725,7 @@ geostats: '1.6'
 geostatsp: 2.0.6
 geotech: '1.0'
 geotools: '0.1'
-geotoolsR: '1.1'
+geotoolsR: 1.2.1
 geotopbricks: 1.5.8.2
 geouy: 0.2.8
 geoviz: 0.2.2
@@ -15945,7 +15952,7 @@ hunspell: 3.0.3
 hurdlr: '0.1'
 hurricaneexposure: 0.1.1
 hutils: 1.8.1
-hutilscpp: 0.10.4
+hutilscpp: 0.10.5
 huxtable: 5.5.6
 hwde: 0.67-3
 hwep: 2.0.2
@@ -16324,6 +16331,7 @@ inferCSN: 1.0.5
 inference: 0.1.0
 inferference: 1.0.2
 inferr: 0.3.1
+infiltrodiscR: 0.0.5
 infinitefactor: '1.0'
 infix: 0.1.0
 inflection: 1.3.6
@@ -16966,6 +16974,7 @@ konfound: 0.5.1
 konya: 0.1.0
 kosel: 0.0.1
 kosis: 0.0.1
+kpcaIG: '1.0'
 kpcalg: 1.0.1
 kpeaks: 1.1.0
 kpmt: 0.1.0
@@ -18347,6 +18356,7 @@ milonga: '1.0'
 milorGWAS: '0.7'
 milr: 0.3.1
 mimR: 2.6.2
+mimdo: 0.1.0
 mime: '0.12'
 mimi: 0.2.0
 mimiSBM: 0.0.1.3
@@ -18372,6 +18382,7 @@ minic: '1.0'
 minidown: 0.4.0
 minimalRSD: 1.0.0
 minimap: 0.1.0
+minimapR: 0.0.1.0
 minimax: 1.1.1
 minimaxApprox: 0.4.3
 minimaxdesign: 0.1.5
@@ -18644,7 +18655,7 @@ mobirep: 0.2.3
 mobr: 2.0.2
 mobsim: 0.3.1
 moc: '2.0'
-moc.gapbk: 0.1.0
+moc.gapbk: 0.1.1
 mockcpp: 0.0.1
 mockery: 0.4.4
 mockr: 0.2.1
@@ -19722,7 +19733,7 @@ ntsDists: 2.1.1
 ntwk: 1.0.0
 nucim: 1.0.11
 nuggets: 1.0.2
-nullabor: 0.3.9
+nullabor: 0.3.12
 numConversion: 0.2-4
 numDeriv: 2016.8-1.1
 numGen: 0.1.1
@@ -20305,7 +20316,7 @@ param2moment: 0.1.2
 param6: 0.2.4
 paramDemo: 1.0.1
 paramGUI: 2.2.0
-parameters: 0.22.0
+parameters: 0.22.1
 paramhetero: 1.0.0
 paramlink: 1.1-5
 paramlink2: 1.0.4
@@ -21035,6 +21046,7 @@ poker: 0.8.8
 polAr: 0.2.0.1
 polaroid: 0.1.0
 polars: 0.7.0
+poldis: 0.1.1
 policytree: 1.2.3
 polidata: 0.1.0.1
 polimetrics: 1.2.1.14
@@ -21434,7 +21446,7 @@ protolite: 2.3.0
 proton: '1.0'
 protoshiny: 0.1.0
 prototest: '1.2'
-protr: 1.7-1
+protr: 1.7-2
 protti: 0.9.0
 proustr: 0.4.0
 provDebugR: 1.0.1
@@ -23993,6 +24005,7 @@ serial: '3.0'
 serialize: 0.2-1
 seriation: 1.5.5
 serieslcb: 0.4.0
+serocalculator: 1.0.3
 seroincidence: 2.0.0
 serp: 0.2.4
 serpstatr: 0.2.1
@@ -25866,6 +25879,7 @@ testthatmulti: 0.1.0
 testthatsomemore: '0.1'
 testthis: 1.1.1
 testtwice: 1.0.3
+tetRys: '1.0'
 tetraclasse: 0.1.21
 tetragon: 1.3.0
 tetrascatt: 0.1.1
@@ -26142,7 +26156,7 @@ tint: 0.1.4
 tinter: 0.1.0
 tinyProject: 0.6.1
 tinyarray: 2.4.2
-tinycodet: 0.5.0
+tinycodet: 0.5.3
 tinylabels: 0.2.4
 tinyplot: 0.1.0
 tinyscholar: 0.1.7
@@ -26356,6 +26370,7 @@ trapezoid: 2.0-2
 traudem: 1.0.3
 traveltimeR: 1.2.1
 trawl: 0.2.2
+trdist: 1.0.1
 treasury: 0.2.0
 treasuryTR: 0.1.6
 treatSens: 2.1.3
@@ -27208,7 +27223,7 @@ wec: 0.4-1
 weco: '1.2'
 wedge: 1.0-3
 weed: 1.1.2
-wehoop: 2.0.0
+wehoop: 2.1.0
 weibull4: 1.0.0
 weibullness: 1.24.1
 weibulltools: 2.1.0
