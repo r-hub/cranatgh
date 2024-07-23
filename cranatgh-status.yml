@@ -2925,7 +2925,7 @@ GeneClusterNet: 1.0.1
 GeneCycle: 1.1.5
 GeneF: 1.0.1
 GeneFeST: 1.0.1
-GeneNMF: 0.4.0
+GeneNMF: 0.6.0
 GeneNT: 1.4.1
 GeneNet: 1.2.16
 GeneReg: 1.1.2
@@ -3092,7 +3092,7 @@ HDMT: 1.0.5
 HDNRA: 1.0.0
 HDOMDesign: 1.0-1
 HDPenReg: 0.94.9
-HDRFA: 0.1.4
+HDRFA: 0.1.5
 HDShOP: 0.1.5
 HDSinRdata: 0.1.2
 HDSpatialScan: 1.0.4
@@ -4506,7 +4506,7 @@ MetaComp: 1.1.2
 MetaCycle: 1.2.0
 MetaDBparse: 2.0.0
 MetaDE: 1.0.5
-MetaHD: 0.1.1
+MetaHD: 0.1.2
 MetaIntegration: 0.1.2
 MetaIntegrator: 2.1.3
 MetaLandSim: 2.0.0
@@ -7057,7 +7057,7 @@ SEL: 1.0-4
 SELF: 0.1.1
 SEMID: 0.4.1
 SEMModComp: '1.0'
-SEMgraph: 1.2.1
+SEMgraph: 1.2.2
 SEMrushR: 0.1.0
 SEMsens: 1.5.5
 SEPaLS: 0.1.0
@@ -7736,6 +7736,7 @@ StructFDR: '1.4'
 StructR: '1.1'
 StructuralDecompose: 0.1.1
 StructureMC: '1.0'
+StuteTest: 1.0.2
 SuRF.vs: 1.1.0.1
 SubCultCon: '1.0'
 SubLasso: '1.0'
@@ -8203,7 +8204,7 @@ UCSCXenaShiny: 2.1.0
 UCSCXenaTools: 1.4.8
 UComp: 5.0.2
 UHM: 0.3.0
-UKB.COVID19: 0.1.4
+UKB.COVID19: 0.1.5
 UKFE: 0.3.5
 UKgrid: 0.1.3
 UMR: 1.1.0
@@ -8862,6 +8863,7 @@ airr: 1.5.0
 airt: 0.2.2
 aisoph: '0.4'
 ajv: 1.0.0
+aka: 0.1.0
 akc: 0.9.9
 akiFlagger: 0.3.0
 akima: 0.6-3.4
@@ -10153,7 +10155,7 @@ bratteli: 1.0.0
 bravo: 3.2.1
 brazilmaps: 0.1.0
 brclimr: 0.2.0
-brea: 0.3.0
+brea: 0.3.1
 bread: 0.4.1
 breakDown: 0.2.2
 breakage: 1.1-1
@@ -10237,6 +10239,7 @@ bst: 0.3-24
 bstrl: 1.0.2
 bsts: 0.9.10
 bsub: 1.1.0
+bsvarSIGNs: '1.0'
 bsvars: '3.1'
 bsynth: '1.0'
 btb: 0.2.0
@@ -11833,7 +11836,7 @@ dados: 0.1.0
 dae: 3.2.28
 daewr: 1.2-11
 daff: 1.1.1
-dafishr: 1.0.0
+dafishr: 1.0.1
 dafs: 1.0-38
 dagHMM: 0.1.0
 dagR: 1.2.1
@@ -12649,7 +12652,7 @@ dsdp: 0.1.1
 dse: 2020.2-1
 dse1: 2011.11-2
 dse2: 2011.11-2
-dsem: 1.2.1
+dsem: 1.3.0
 dseplus: 2006.10-1
 dsfa: 2.0.2
 dsims: 1.0.4
@@ -12831,7 +12834,7 @@ easypower: 1.0.2
 easyr: 0.5-11
 easyreg: '4.0'
 easystab: '1.0'
-easystats: 0.7.2
+easystats: 0.7.3
 easysurv: 2.0.1
 eat: 0.1.4
 eatATA: 1.1.2
@@ -13005,7 +13008,7 @@ eigeninv: 2011.8-1
 eigenmodel: '1.11'
 eigenprcomp: '1.0'
 eikosograms: 0.1.1
-eimpute: 0.2.3
+eimpute: 0.2.4
 einet: 0.1.0
 einsum: 0.1.2
 eiopaR: 0.1.1
@@ -14837,7 +14840,7 @@ ggconf: 0.1.3
 ggcorrplot: 0.1.4.1
 ggcorset: 0.5.0
 ggcoverage: 0.7.1
-ggdag: 0.2.12
+ggdag: 0.2.13
 ggdark: 0.2.1
 ggdaynight: 0.1.3
 ggdemetra: 0.2.8
@@ -17066,7 +17069,7 @@ landpred: '1.2'
 landsat: 1.1.2
 landsat8: 0.1-10
 landscapeR: '1.2'
-landscapemetrics: 2.1.3
+landscapemetrics: 2.1.4
 landscapetools: 0.5.0
 landsepi: 1.4.0
 langevitour: '0.7'
@@ -17774,7 +17777,7 @@ manydata: 0.9.3
 manymodelr: 0.3.7
 manymome: 0.2.2
 manymome.table: 0.3.0
-manynet: 1.0.1
+manynet: 1.0.2
 maotai: 0.2.5
 mapDK: 0.3.0
 mapLD: 1.0-1
@@ -18553,14 +18556,14 @@ mlpack: 4.4.0
 mlpwr: 1.1.0
 mlquantify: 0.2.0
 mlr: 2.19.2
-mlr3: 0.20.0
+mlr3: 0.20.1
 mlr3batchmark: 0.1.1
 mlr3benchmark: 0.1.6
 mlr3cluster: 0.1.9
 mlr3data: 0.7.0
 mlr3db: 0.5.2
 mlr3fairness: 0.3.2
-mlr3fda: 0.1.2
+mlr3fda: 0.2.0
 mlr3filters: 0.8.0
 mlr3fselect: 1.0.0
 mlr3hyperband: 0.6.0
@@ -18947,7 +18950,7 @@ mstudentd: 1.1.1
 msu: 0.0.1
 mt: 2.0-1.20
 mtanan: 0.0.1
-mtarm: 0.1.1
+mtarm: 0.1.2
 mtb: 0.1.8
 mtconnectR: 1.2.1
 mtcreator: '0.1'
@@ -20379,6 +20382,7 @@ passt: 0.1.3
 password: 1.0-0
 pasta: 0.1.0
 pastaPlot: 0.1.0
+pastboon: 0.1.0
 pastclim: 2.1.0
 pasteAsComment: 0.2.1
 pastecs: 1.4.2
@@ -20709,7 +20713,7 @@ phillydaodata: 1.0.1
 phitest: 1.0-0
 phm: 1.1.2
 phmm: 0.7-14
-phoenics: '0.2'
+phoenics: '0.3'
 phoenix: 1.1.1
 phom: 1.0.3
 phonR: 1.0-7
@@ -20980,7 +20984,7 @@ pluscode: 0.1.0
 plusser: 0.4-0
 plutor: 0.1.0
 plyr: 1.8.9
-pm3: 0.1.9
+pm3: 0.2.0
 pm4py: 1.2.7
 pmap: 0.6.0
 pmartR: 2.4.5
@@ -21254,7 +21258,7 @@ precintcon: 2.3.0
 precisePlacement: 0.1.0
 precisely: 0.1.2
 precmed: 1.0.0
-precommit: 0.4.2
+precommit: 0.4.3
 precondition: 0.1.0
 precrec: 0.14.4
 predReliability: 0.1.0
@@ -21853,7 +21857,7 @@ r2shortcode: '0.2'
 r2social: '1.2'
 r2spss: 0.3.2
 r2stl: 1.0.3
-r2sundials: 6.5.0-4
+r2sundials: 6.5.0-5
 r2symbols: '1.4'
 r311: 0.3.7
 r3PG: 0.1.6
@@ -22182,7 +22186,7 @@ raymolecule: 0.5.3
 rayrender: 0.32.2
 rayshader: 0.37.3
 raytracing: 0.6.0
-rayvertex: 0.10.4
+rayvertex: 0.11.4
 rb3: 0.0.11
 rbace: 0.2.2
 rbacon: 3.2.0
@@ -23848,7 +23852,7 @@ seawaveQ: 2.0.2
 secr: 4.6.9
 secrdesign: 2.9.1
 secret: 1.1.0
-secretbase: 1.0.0
+secretbase: 1.0.1
 secrettext: 0.1.0
 secrlinear: 1.2.2
 secsse: 3.1.0
@@ -23948,7 +23952,7 @@ sendmailR: 1.4-0
 sendplot: 4.0.0
 sensR: 1.5-3
 sense: 1.1.0
-sensemakr: 0.1.4
+sensemakr: 0.1.6
 sensiPhy: 0.8.5
 sensibo.sky: 1.0.0
 sensitivity: 1.30.0
@@ -25069,6 +25073,7 @@ ssc: 2.1-0
 sscor: '0.2'
 ssd: '0.3'
 ssd4mosaic: 1.0.1
+ssdGSA: 0.1.0
 ssddata: 1.0.0
 ssdtools: 1.0.6
 sse: 0.7-17
@@ -25124,7 +25129,7 @@ stabs: 0.6-4
 stackgbm: 0.1.0
 stacking: 0.1.2
 stackoverflow: 0.7.0
-stacks: 1.0.4
+stacks: 1.0.5
 stacomiR: 0.6.1
 stacomirtools: 0.6.0.1
 stagePop: 1.1-2
@@ -25830,6 +25835,7 @@ templr: 0.2-0
 tempoR: 1.0.4.4
 tempted: 0.1.1
 tenispolaR: 0.1.4
+tenm: 0.5.1
 tensor: '1.5'
 tensorA: 0.36.2.1
 tensorBF: 1.0.2
@@ -26466,6 +26472,7 @@ trotter: '0.6'
 trouBBlme4SolveR: 0.1.1
 trread: 0.2.7
 trtf: 0.4-2
+trud: 0.1.0
 truelies: 0.2.0
 trueskill: '0.1'
 truh: 1.0.0
@@ -26592,7 +26599,7 @@ tvm: 0.5.2
 tvmComp: 1.0.2
 tvmediation: 1.1.0
 tvthemes: 1.3.3
-twang: '2.6'
+twang: 2.6.1
 twangContinuous: 1.0.0
 twangMediation: '1.2'
 twangRDC: '1.0'
@@ -27212,7 +27219,7 @@ webreadr: 0.4.0
 websearchr: 0.0.3
 webshot: 0.5.5
 webshot2: 0.1.1
-websocket: 1.4.1
+websocket: 1.4.2
 websockets: 1.1.7
 webtools: 0.7.12
 webtrackR: 0.3.1
@@ -27278,7 +27285,7 @@ widals: 0.6.1
 widenet: 0.1-2
 widgetframe: 0.3.1
 widyr: 0.1.5
-wiesbaden: 1.2.9
+wiesbaden: 1.2.10
 wig: 0.1.0
 wikiTools: 1.2.4
 wikibooks: 0.2.1
@@ -27385,7 +27392,7 @@ wqs: 0.0.1
 wqspt: 1.0.1
 wqtrends: 1.4.2
 wrGraph: 1.3.7
-wrMisc: 1.15.0.3
+wrMisc: 1.15.1
 wrProteo: 1.11.0.1
 wrTopDownFrag: 1.0.2
 wrangle: 0.6.4
