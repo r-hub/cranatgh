@@ -1639,9 +1639,9 @@ DHBins: '1.1'
 DHS.rates: 0.9.2
 DICOM: '0.13'
 DICOMread: 0.0.0.3
-DIDHAD: 1.0.0
+DIDHAD: 1.0.1
 DIDmultiplegt: 2.0.0
-DIDmultiplegtDYN: 1.0.13
+DIDmultiplegtDYN: 1.0.15
 DIFM: '1.0'
 DIFboost: '0.3'
 DIFlasso: 1.0-4
@@ -1877,7 +1877,7 @@ DiNAMIC.Duo: 1.0.2
 DiPALM: '1.2'
 DiPhiSeq: 0.2.0
 DiPs: 0.6.4
-DiSCos: 0.1.0
+DiSCos: 0.1.1
 DiSSMod: 1.0.0
 DiagTest3Grp: '1.6'
 DiagnosisMed: 0.2.3
@@ -2856,7 +2856,7 @@ GSIF: 0.5-5.1
 GSM: 1.3.2
 GSMX: '1.3'
 GSNA: 0.1.4.2
-GSODR: 4.1.0
+GSODR: 4.1.1
 GSSE: '0.1'
 GSSTDA: 1.0.0
 GSelection: 0.1.0
@@ -3897,7 +3897,7 @@ LassoNet: 0.8.3
 LassoSIR: 0.1.1
 LatentBMA: 0.1.1
 LatentREGpp: 0.2.2
-Laterality: 0.9.4
+Laterality: 0.9.5
 LatticeDesign: 2.0-5
 LatticeKrig: '8.4'
 LavaCvxr: 1.0.2
@@ -5133,7 +5133,7 @@ PACVB: 1.1.1
 PACVr: 1.0.11
 PAFit: 1.2.10
 PAFway: 0.1.3
-PAGFL: 1.1.0
+PAGFL: 1.1.1
 PAGI: '1.0'
 PAGWAS: '2.0'
 PAICE: 1.0.2
@@ -8496,7 +8496,7 @@ WordPools: 1.2.0
 WordR: 0.3.6
 WorldFlora: 1.14-3
 WorldMapR: 0.1.1
-WormTensor: 0.1.0
+WormTensor: 0.1.1
 WpProj: 0.2.1
 Wrapped: '2.0'
 WrensBookshelf: 0.1.0
@@ -8523,7 +8523,7 @@ XRJulia: 0.9.0.1
 XRPython: '0.8'
 XRSCC: '0.1'
 XReg: '1.0'
-XiMpLe: 0.11-2
+XiMpLe: 0.11-3
 Xmisc: 0.2.1
 Xplortext: 1.5.3
 YPBP: 0.0.1
@@ -8535,7 +8535,7 @@ YRmisc: 0.1.6
 YTAnalytics: 0.1.0
 YaleToolkit: 4.2.3
 Yamm: 1.3.2
-YatchewTest: 1.1.0
+YatchewTest: 1.1.1
 YatesAlgo.FactorialExp.SR: 4.0.4
 YieldCurve: '5.1'
 YjdnJlp: 0.9.8
@@ -8853,7 +8853,7 @@ airGR: 1.7.6
 airGRdatasets: 0.2.1
 airGRdatassim: 0.1.3
 airGRiwrm: 0.6.2
-airGRteaching: 0.3.2
+airGRteaching: 0.3.3
 aire.zmvm: 1.0.0
 airnow: 0.1.0
 airportr: 0.1.3
@@ -8926,7 +8926,7 @@ alr4: 1.0.6
 altR2: 1.0.0
 altadata: 0.1.1
 altair: 4.2.3
-altdoc: 0.3.0
+altdoc: 0.4.0
 alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '4.1'
@@ -9864,7 +9864,7 @@ binsegRcpp: 2023.8.31
 binseqtest: 1.0.4
 binsmooth: 0.2.2
 binspp: 0.1.26
-binsreg: '1.0'
+binsreg: '1.1'
 binst: 0.2.1
 bio.infer: 1.3-6
 bio3d: 2.4-4
@@ -10058,7 +10058,7 @@ bomWater: 0.4.1
 bomrang: 0.7.4
 bondAnalyst: 1.0.1
 bonn: 1.0.2
-bonsai: 0.3.0
+bonsai: 0.3.1
 bonsaiforest: 0.1.0
 boodist: 1.0.0
 bookdown: '0.40'
@@ -10490,7 +10490,7 @@ causaldrf: 0.4.2
 causaleffect: 1.3.15
 causaloptim: 0.9.8
 causalsens: 0.1.3
-causalweight: 1.1.0
+causalweight: 1.1.1
 caviarpd: 0.3.9
 cba: 0.2-24
 cban: '1.0'
@@ -10615,7 +10615,7 @@ cfbfastR: 1.9.0
 cfda: 0.11.0
 cfdecomp: 0.4.0
 cffdrs: 1.9.0
-cffr: 1.0.1
+cffr: 1.1.0
 cfid: 0.1.7
 cfma: '1.0'
 cfmortality: 0.3.0
@@ -12021,7 +12021,7 @@ dcorVS: '1.0'
 dcortools: 0.1.6
 dcov: 0.1.1
 dcurver: 0.9.2
-dcurves: 0.4.0
+dcurves: 0.5.0
 dcv: 0.1.1
 ddR: 0.1.2
 ddalpha: 1.3.15
@@ -12688,7 +12688,7 @@ dttr2: 0.5.0
 dtts: 0.1.3
 dtw: 1.23-1
 dtwSat: 1.0.0
-dtwclust: 5.5.12
+dtwclust: 6.0.0
 dual: 0.0.5
 dual.spls: 0.1.4
 dualScale: 1.0.0
@@ -13870,7 +13870,7 @@ filterviewR: '0.11'
 finalfit: 1.0.7
 finalsize: 0.2.1
 financial: '0.2'
-finbif: 0.9.6
+finbif: 0.9.7
 finbipartite: 0.1.0
 finch: 0.4.0
 findGSEP: 1.2.0
@@ -15503,7 +15503,7 @@ gtranslate: 0.0.1
 gtreg: 0.3.0
 gtrendsR: 1.5.1
 gtsf: 0.1.0
-gtsummary: 1.7.2
+gtsummary: 2.0.0
 gtx: 0.0.8
 guaguas: 0.3.0
 guardianapi: 0.1.1
@@ -15755,7 +15755,7 @@ hhsmm: 0.4.0
 hht: 2.1.6
 hiPOD: '1.0'
 hibayes: 3.0.3
-hicp: 0.6.0
+hicp: 0.6.1
 hiddenf: '2.0'
 hidecan: 1.1.0
 hidetify: 0.0.1
@@ -16569,7 +16569,7 @@ ismtchile: 2.1.5
 isni: '1.3'
 isnullptr: 1.0.2
 isoSurv: 0.3.0
-isoWater: 1.1.2
+isoWater: 1.2.0
 isoband: 0.2.7
 isoboost: 1.0.1
 isobxr: 2.0.0
@@ -16668,7 +16668,7 @@ jadeLizardOptions: 1.0.1
 jage: 0.1.0
 jaggR: 0.1.1
 jagsUI: 1.6.2
-jagshelper: 0.2.4
+jagshelper: 0.3.0
 jagstargets: 1.2.0
 jalcal: 0.1.0
 james.analysis: 1.0.1
@@ -16944,7 +16944,7 @@ knitLatex: 0.9.0
 knitcitations: 1.0.12
 knitr: '1.48'
 knitrBootstrap: 1.0.3
-knitrProgressBar: 1.1.0
+knitrProgressBar: 1.1.1
 knitrdata: 0.6.1
 knitxl: 0.1.0
 knn: '1.1'
@@ -18070,7 +18070,7 @@ medExtractR: 0.4.1
 medSTC: 1.0.0
 medScan: 1.0.2
 mederrRank: 0.1.0
-medfate: 4.3.1
+medfate: 4.4.0
 medfateland: 2.4.3
 medflex: 0.6-10
 mediacloudr: 0.1.0
@@ -18207,7 +18207,7 @@ metarep: 1.2.0
 metasens: 1.5-2
 metatest: 1.0-5
 metathis: 1.1.4
-metatools: 0.1.5
+metatools: 0.1.6
 metaumbrella: 1.0.11
 metavcov: 2.1.5
 metaviz: 0.3.1
@@ -19983,7 +19983,7 @@ opentraj: '1.0'
 opentripplanner: 0.5.2
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
-openxlsx: 4.2.5.2
+openxlsx: 4.2.6.1
 openxlsx2: '1.8'
 opera: 1.2.0
 operator.tools: 1.6.3
@@ -21076,7 +21076,7 @@ polySegratioMM: 0.6-4
 polyaAeppli: 2.0.2
 polyapost: '1.7'
 polychaosbasics: 1.1-1
-polyclip: 1.10-6
+polyclip: 1.10-7
 polycor: 0.8-1
 polydect: 0.1-2
 polyfreqs: 1.0.2
@@ -21215,7 +21215,7 @@ ppcong: 0.0.2
 ppcor: '1.1'
 ppdiag: 0.1.1
 ppendemic: 0.1.8
-ppgam: 1.0.1
+ppgam: 1.0.2
 ppgm: 1.0.3
 ppgmmga: '1.3'
 ppiPre: '1.9'
@@ -21670,7 +21670,7 @@ qkerntool: '1.19'
 qlcData: '0.3'
 qlcMatrix: 0.9.8
 qlcVisualize: '0.3'
-qlcal: 0.0.11
+qlcal: 0.0.12
 qle: '0.18'
 qlifetable: 0.0.2-5
 qlspack: '2.2'
@@ -24348,7 +24348,7 @@ simmer.plot: 0.1.18
 simml: 0.3.0
 simmr: 0.5.1.216
 simode: 1.2.2
-simodels: 0.0.5
+simodels: 0.1.0
 simone: 1.0-4
 simphony: 1.0.3
 simplace: 5.0.13
@@ -25661,7 +25661,7 @@ syslognet: 0.1.2.1
 systemfit: 1.1-30
 systemfonts: 1.1.0
 systemicrisk: 0.4.3
-syt: 0.4.0
+syt: 0.5.0
 syuzhet: 1.0.7
 tLagInterim: '1.0'
 tLagPropOdds: '1.9'
@@ -26038,7 +26038,7 @@ tidydr: 0.0.5
 tidyedgar: 1.0.1
 tidyestimate: 1.1.1
 tidyfast: 0.4.0
-tidyfinance: 0.2.1
+tidyfinance: 0.3.0
 tidyfit: 0.7.1
 tidyformula: 0.1.0
 tidyfst: 1.7.9
@@ -26912,7 +26912,7 @@ vcfppR: 0.4.6
 vcmeta: 1.4.0
 vcov: 0.0.1
 vcpen: '1.9'
-vcr: 1.2.2
+vcr: 1.6.0
 vcrpart: 1.0-5
 vctrs: 0.6.5
 vctsfr: 0.1.1
@@ -27211,7 +27211,7 @@ webexercises: 1.1.0
 webfakes: 1.3.1
 webglobe: 1.0.3
 webmap: 1.1.0
-webmockr: 0.9.0
+webmockr: 1.0.0
 webmorphR: 0.1.1
 webp: 1.2.0
 webr: 0.1.5
