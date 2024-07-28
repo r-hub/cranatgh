@@ -173,6 +173,7 @@ ASV: 1.1.4
 ATAforecasting: 0.0.60
 ATE: 0.2.0
 ATNr: 1.1.0
+ATQ: 0.2.0
 ATR: 0.1-1
 ATbounds: 0.1.0
 ATmet: 1.2.1
@@ -431,6 +432,7 @@ BDWreg: 1.3.0
 BDgraph: '2.72'
 BE: 0.2.4
 BEACH: 1.3.1
+BEAMR: 1.1.0
 BEANSP: '1.0'
 BED: 1.5.2
 BEDASSLE: 1.6.1
@@ -5002,6 +5004,7 @@ ORDER2PARENT: '1.0'
 ORFID: 1.0.2
 ORIClust: 1.0-2
 ORION: 1.0.3
+ORIONZ.G: 1.0.1
 ORKM: 0.8.0.0
 ORMDR: 1.3-2
 ORTSC: 1.0.0
@@ -5323,7 +5326,7 @@ PPtreeViz: 2.0.4
 PPtreeregViz: 2.0.5
 PQLseq: 1.2.1
 PRA: 0.2.0
-PRANA: 1.0.4
+PRANA: 1.0.5
 PRDA: 1.0.0
 PRECAST: 1.6.5
 PREPShiny: 0.1.0
@@ -6672,7 +6675,7 @@ RepoGenerator: 0.0.1
 ReporteRs: 0.8.10
 ReporteRsjars: 0.0.4
 ReporterScore: 0.1.6
-Require: 0.3.1
+Require: 1.0.0
 ResIN: 1.1.0
 ResPBIBD: 0.1.0
 ResearchAssociate: 1.0.1
@@ -8673,7 +8676,7 @@ actel: 1.3.0
 actilifecounts: 1.1.1
 activAnalyzer: 2.1.1
 activPAL: 0.1.3
-activatr: 0.2.0
+activatr: 0.2.1
 activegp: 1.1.1
 activity: 1.3.4
 activityCounts: 0.1.2
@@ -9417,7 +9420,7 @@ baffle: 0.2.2
 bagRboostR: 0.0.2
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
-baggingbwsel: '1.0'
+baggingbwsel: '1.1'
 baggr: 0.7.8
 baguette: 1.0.2
 bagyo: 0.1.1
@@ -9876,7 +9879,7 @@ bio3d: 2.4-4
 bioC.logs: 1.2.1
 bioOED: 0.2.1
 bioPN: 1.2.0
-bioRad: 0.7.3
+bioRad: 0.8.0
 bioSNR: '1.0'
 bioacoustics: 0.2.8
 bioassays: 1.0.1
@@ -10356,6 +10359,7 @@ calibrator: 1.2-8
 calidad: 0.5.0
 caliver: 2.0.0
 callback: 0.1.1
+callme: 0.1.10
 callr: 3.7.6
 callsync: 0.2.3
 calmate: 0.13.0
@@ -11022,6 +11026,7 @@ cobs99: 0.9-12
 coca: 1.1.0
 cocktailApp: 0.2.3
 coconots: 1.1.3
+cocons: '0.1'
 cocor: 1.1-4
 cocoreg: 0.1.1
 cocorresp: 0.4-4
@@ -12666,7 +12671,7 @@ dslice: 1.2.2
 dsm: 2.3.3
 dsmSearch: 1.0.1
 dsmisc: 0.3.3
-dsmmR: 1.0.2
+dsmmR: 1.0.5
 dsmodels: 1.1.0
 dsos: 0.1.2
 dsr: 0.2.2
@@ -14983,6 +14988,7 @@ ggseqplot: 0.8.4
 ggshadow: 0.0.5
 ggside: 0.3.1
 ggsignif: 0.6.4
+ggsmc: 0.1.2.0
 ggsn: 0.5.0
 ggsoccer: 0.1.7
 ggsolvencyii: 0.1.2
@@ -16207,6 +16213,7 @@ igate: 0.3.3
 igcop: 1.0.2
 iglu: 4.1.6
 igoR: 0.2.0
+igr: 0.1.1
 igraph: 2.0.3
 igraph0: 0.5.7
 igraphdata: 1.0.1
@@ -19566,6 +19573,7 @@ nnlib2Rcpp: 0.2.8
 nnls: '1.5'
 nnspat: 0.1.2
 nnt: 0.1.4
+nntmvn: 1.0.0
 nntrf: 0.1.4
 noaaoceans: 0.3.0
 noaastormevents: 0.2.0
@@ -20318,7 +20326,7 @@ parallelMap: 1.5.1
 parallelPlot: 0.4.0
 parallelSVM: 0.1-9
 parallelize.dynamic: 0.9-1
-parallelly: 1.37.1
+parallelly: 1.38.0
 parallelpam: 1.4.3
 param2moment: 0.1.2
 param6: 0.2.4
@@ -20580,7 +20588,7 @@ pencopulaCond: '0.2'
 pendensity: 0.2.13
 penfa: 0.1.1
 penppml: 0.2.3
-pense: 2.2.0
+pense: 2.2.2
 pensim: 1.3.6
 pensynth: 0.5.1
 peopleanalytics: 0.1.0
@@ -21086,7 +21094,7 @@ polycor: 0.8-1
 polydect: 0.1-2
 polyfreqs: 1.0.2
 polyglot: 0.3.0
-polyglotr: 1.5.0
+polyglotr: 1.5.1
 polyhedralCubature: 1.1.0
 polylabelr: 0.2.0
 polymapR: 1.1.6
@@ -21726,7 +21734,7 @@ qsimulatR: 1.1.1
 qslice: 0.3.1
 qsort: 0.2.3
 qsplines: 1.0.1
-qspray: 3.0.0
+qspray: 3.1.0
 qst: 0.1.2
 qsub: 1.1.3
 qtbase: 1.0.14
@@ -22188,7 +22196,7 @@ raws.profile: 0.1.0
 raybevel: 0.1.3
 rayimage: 0.11.0
 raymolecule: 0.5.3
-rayrender: 0.32.2
+rayrender: 0.34.2
 rayshader: 0.37.3
 raytracing: 0.6.0
 rayvertex: 0.11.4
@@ -23200,6 +23208,7 @@ rpvm: 1.0-4
 rpyANTs: 0.0.3
 rpymat: 0.1.7
 rqPen: 4.1.1
+rqcanon: 0.1.0
 rqdatatable: 1.3.3
 rqlm: 2.1-1
 rqmcmb2: 1.0.2-1
@@ -23652,7 +23661,7 @@ sboost: 0.1.2
 sbpiper: 1.9.0
 sbrl: '1.4'
 sbtools: 1.3.2
-sbw: 1.1.8
+sbw: 1.1.9
 sc2sc: 0.0.1-12
 scAnnotate: '0.3'
 scBSP: 1.0.0
@@ -26264,6 +26273,7 @@ tools4uplift: 1.0.0
 topChef: 0.2.0
 topdowntimeratio: 0.1.0
 topicdoc: 0.1.1
+topiclabels: 0.1.0
 topicmodels: 0.2-16
 topicmodels.etm: 0.1.0
 topmodel: 0.7.5
@@ -26661,6 +26671,7 @@ ucbthesis: '1.0'
 uchardet: 1.1.1
 uci: 0.3.0
 ucie: 1.0.2
+ucimlrepo: 0.0.1
 uclust: 1.0.0
 ucminf: 1.2.2
 udapi: 0.1.3
@@ -27293,7 +27304,7 @@ widgetframe: 0.3.1
 widyr: 0.1.5
 wiesbaden: 1.2.10
 wig: 0.1.0
-wikiTools: 1.2.4
+wikiTools: 1.2.7
 wikibooks: 0.2.1
 wikifacts: 0.4.2
 wikilake: 0.7.0
@@ -27338,6 +27349,7 @@ wle: 0.9-91
 wmlf: 0.1.2
 wmm: 1.1.1
 wmtsa: 2.0-3
+wmwm: 1.0.0
 wmwpow: 0.1.3
 wnl: 0.8.1
 wnominate: '1.5'
