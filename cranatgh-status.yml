@@ -207,7 +207,7 @@ Actigraphy: 1.4.0
 ActisoftR: 0.0.2
 ActiveDriver: 1.0.0
 ActiveDriverWGS: 1.2.0
-ActivePathways: 2.0.4
+ActivePathways: 2.0.5
 ActivityIndex: 0.3.7
 ActuDistns: '3.0'
 ActuarialM: 0.1.0
@@ -446,7 +446,7 @@ BESTree: 0.5.2
 BET: 0.5.3
 BETS: 0.4.9
 BElikelihood: '1.1'
-BFF: 3.0.1
+BFF: 4.2.1
 BFI: 2.0.1
 BFS: 0.5.8
 BFpack: 1.3.0
@@ -935,7 +935,7 @@ CCP: '1.2'
 CCTpack: 1.5.2
 CCWeights: 0.1.6
 CCpop: '1.0'
-CDCPLACES: 1.1.5
+CDCPLACES: 1.1.6
 CDECRetrieve: 0.1.5
 CDF.PSIdekick: '1.2'
 CDFt: '1.2'
@@ -1854,7 +1854,7 @@ DependencyReviewer: 1.2.3
 DepthProc: 2.1.5
 Deriv: 4.1.3
 DescTools: 0.99.54
-DescToolsAddIns: '1.10'
+DescToolsAddIns: '1.11'
 DescrTab2: 2.1.16
 DescribeDF: 0.2.1
 DescribeDisplay: 0.2.11
@@ -3272,7 +3272,7 @@ HydroMe: 2.1.1
 HydroPortailStats: 1.0.3
 HyperG: 1.0.0
 HyperbolicDist: 0.6-5
-HypergeoMat: 4.0.2
+HypergeoMat: 4.0.3
 IADT: 1.2.1
 IALS: 0.1.3
 IAPWS95: 1.2.4
@@ -3346,7 +3346,7 @@ IDSL.NPA: '1.2'
 IDSL.SUFA: '1.3'
 IDSL.UFA: '2.0'
 IDSL.UFAx: 1.9.1
-IDSpatialStats: 0.3.12
+IDSpatialStats: 0.4.0
 IDTurtle: '1.2'
 IDetect: 0.1.0
 IDmeasurer: 1.0.0
@@ -5452,7 +5452,7 @@ PartialNetwork: 1.0.4
 Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 PathSelectMP: '1.1'
-PatientProfiles: 1.1.0
+PatientProfiles: 1.1.1
 PatternClass: 2.0.1
 Patterns: '1.5'
 PdPDB: 2.0.1
@@ -11387,6 +11387,7 @@ corpus: 0.10.2
 corpustools: 0.5.1
 corr2D: 1.0.3
 corrDNA: 1.0.1
+corrMCT: 0.1.0
 corrViz: 0.1.0
 corrarray: 1.2.0
 corrcoverage: 1.2.1
@@ -15758,7 +15759,7 @@ hglm.data: 1.0-1
 hgm: '1.23'
 hgnc: 0.1.4
 hgutils: 0.2.11
-hgwrr: 0.4-0
+hgwrr: 0.5-0
 hhcartr: 1.0.0
 hhh4contacts: 0.13.3
 hhi: 1.2.0
@@ -18157,6 +18158,7 @@ metaConvert: 1.0.0
 metaDigitise: 1.0.1
 metaEnsembleR: 0.1.0
 metaGE: 1.0.3
+metaHelper: 1.0.0
 metaLik: 0.43.0
 metaMA: 3.1.3
 metaMix: '0.3'
@@ -18776,6 +18778,7 @@ monoreg: '2.1'
 monotone: 0.1.2
 monotonicity: 1.3.1
 monreg: 0.1.4.1
+moocore: 0.1.0
 moodef: 1.1.0
 moodleR: 1.0.1
 moodlequizR: 2.1.1
@@ -19063,7 +19066,7 @@ multimode: '1.5'
 multimorbidity: 0.5.1
 multinbmod: '1.0'
 multiness: 1.0.2
-multinet: 4.1.2
+multinet: '4.2'
 multinets: 0.2.2
 multinma: 0.7.1
 multinomRob: 1.8-6.1
@@ -19194,7 +19197,7 @@ mxfda: 0.2.1
 mxkssd: '1.2'
 mxmmod: 1.1.0
 mxnorm: 1.0.3
-mxsem: 0.0.9
+mxsem: 0.1.0
 myCRAN: '1.1'
 myClim: 1.1.0
 myTAI: 0.9.3
@@ -19333,7 +19336,7 @@ neonSoilFlux: 1.0.0
 neonUtilities: 2.4.2
 neonstore: 0.5.1
 neotoma: 1.7.4
-neotoma2: 1.0.3
+neotoma2: 1.0.4
 nephro: '1.4'
 neptune: 0.2.3
 nesRdata: 0.3.1
@@ -19833,6 +19836,7 @@ oclust: 0.2.0
 ocomposition: '1.1'
 ocp: 0.1.1
 ocs4R: 0.2-3
+octopucs: 0.1.0
 octopus: 0.4.2
 octopusR: 1.0.1
 od: 0.4.4
@@ -20061,7 +20065,7 @@ optweight: 0.2.5
 opusminer: 0.1-1
 orQA: 0.2.1
 ora: 2.0-1
-orbital: 0.1.0
+orbital: 0.2.0
 orbweaver: 0.10.2
 orca: 1.1-2
 orclus: 0.2-6
@@ -22177,7 +22181,7 @@ rateratio.test: '1.1'
 raters: 2.1.0
 ratesci: 0.4-0
 ratetables: 1.0-2
-ratioOfQsprays: 1.0.0
+ratioOfQsprays: 1.1.0
 rationalfun: 0.1-1
 ratios: 1.2.0
 rattle: 5.5.1
@@ -24987,7 +24991,7 @@ spm12r: 2.8.3
 spm2: 1.1.3
 spmodel: 0.7.0
 spmoran: 0.2.3
-spnaf: 1.0.0
+spnaf: 1.1.0
 spnet: 0.9.1-0
 spnn: 1.2.1
 spocc: 1.2.3
@@ -25121,7 +25125,7 @@ sstvars: 1.0.1
 ssvd: '1.0'
 ssym: 1.5.8
 st: 1.2.7
-stR: '0.6'
+stR: '0.7'
 stRoke: 23.9.1
 stUPscales: 1.0.3.5
 sta: 0.1.7
@@ -25640,7 +25644,7 @@ symDMatrix: 2.1.1
 symSEM: '0.4'
 symbol.equation.gpt: 1.1.3
 symbolicDA: 0.7-1
-symbolicQspray: 1.0.0
+symbolicQspray: 1.1.0
 symbols: '1.1'
 symengine: 0.2.6
 symmetry: 0.2.3
