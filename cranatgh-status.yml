@@ -173,7 +173,7 @@ ASV: 1.1.4
 ATAforecasting: 0.0.60
 ATE: 0.2.0
 ATNr: 1.1.0
-ATQ: 0.2.0
+ATQ: 0.2.2
 ATR: 0.1-1
 ATbounds: 0.1.0
 ATmet: 1.2.1
@@ -720,7 +720,7 @@ Bergm: 5.0.7
 BerkeleyEarth: '1.8'
 BerlinData: 1.0.1
 Bernadette: 1.1.5
-Bessel: 0.6-0
+Bessel: 0.6-1
 Bestie: 0.1.5
 BetaBit: '2.2'
 BetaPASS: 1.1-2
@@ -1014,7 +1014,7 @@ CJIVE: 0.1.0
 CKAT: 0.1.0
 CKLRT: 0.2.3
 CKMRpop: 0.1.3
-CLA: 0.96-2
+CLA: 0.96-3
 CLAG: 2.18.1
 CLAST: 1.0.1
 CLME: 2.0-12
@@ -1831,7 +1831,7 @@ DeducerSpatial: '0.7'
 DeducerSurvival: 0.1-0
 DeducerText: 0.1-2
 DeductiveR: 1.0.0
-DeepLearningCausal: 0.0.103
+DeepLearningCausal: 0.0.104
 Defaults: 1.1-1
 Delaporte: 8.4.1
 DelayedEffect.Design: 1.1.3
@@ -1853,7 +1853,7 @@ Depela: '0.0'
 DependencyReviewer: 1.2.3
 DepthProc: 2.1.5
 Deriv: 4.1.3
-DescTools: 0.99.54
+DescTools: 0.99.55
 DescToolsAddIns: '1.11'
 DescrTab2: 2.1.16
 DescribeDF: 0.2.1
@@ -1971,7 +1971,7 @@ DriveML: 0.1.5
 DrugClust: '0.2'
 DrugExposureDiagnostics: 1.0.6
 DrugSim2DR: 0.1.1
-DrugUtilisation: 0.6.1
+DrugUtilisation: 0.7.0
 DstarM: 0.4.0
 DtD: 0.2.2
 Dtableone: 1.1.0
@@ -2411,7 +2411,7 @@ FLORAL: 0.2.0
 FLR: '1.0'
 FLSSS: 9.1.3
 FLightR: 0.5.5
-FMAT: '2024.6'
+FMAT: '2024.7'
 FMAdist: 0.1.2
 FMC: 1.0.1
 FMCCSD: '1.0'
@@ -2889,7 +2889,7 @@ GWRLASSO: 0.1.0
 GWRM: 2.1.0.4
 GWSDAT: 3.2.1
 GWalkR: 0.1.4
-GWmodel: 2.3-2
+GWmodel: 2.3-3
 GWnnegPCA: 0.0.4
 GWpcor: 0.1.7
 GWsignif: '1.2'
@@ -3013,7 +3013,7 @@ Gmedian: 1.2.7
 Gmisc: 3.0.3
 GmptzCurve: 0.1.0
 GoFKernel: 2.1-1
-GofCens: '1.0'
+GofCens: '1.1'
 GofKmt: 2.2.0
 GomoGomonoMi: 0.1.0
 GoodFibes: 0.1.10
@@ -3682,7 +3682,7 @@ KSD: 1.0.1
 KSEAapp: 0.99.0
 KSPM: 0.2.1
 KScorrect: 1.4.0
-KSgeneral: 2.0.1
+KSgeneral: 2.0.2
 KTensorGraphs: '1.1'
 KappaGUI: 2.0.2
 KappaV: '0.3'
@@ -3848,7 +3848,7 @@ LSAfun: 0.7.1
 LSAmitR: 1.0-3
 LSC: 0.1.5
 LSD: 4.1-0
-LSDinterface: 1.2.1
+LSDinterface: 1.2.2
 LSDirf: 0.1.3
 LSDsensitivity: 1.2.3
 LSE: 1.0.0
@@ -4176,7 +4176,7 @@ MHTdiscrete: 1.0.1
 MHTmult: 0.1.0
 MHTrajectoryR: 1.0.1
 MHadaptive: 1.1-8
-MIAmaxent: 1.2.0
+MIAmaxent: 1.3.0
 MICsplines: '1.0'
 MIDASwrappeR: 0.5.1
 MIDN: '1.0'
@@ -5115,6 +5115,7 @@ OrdNor: 2.2.3
 OrdinalLogisticBiplot: '0.4'
 OrgMassSpecR: 0.5-3
 OriGen: 1.4.3
+OrigamiPlot: 0.1.0
 OrthoPanels: 1.2-4
 OryzaProbe: 0.1.0
 OscillatorGenerator: 0.1.0
@@ -6612,7 +6613,7 @@ Rdta: 1.0.1
 Rdtq: '0.1'
 Rduino: '0.1'
 Rduinoiot: 0.1.0
-Rdune: 1.1.0
+Rdune: 1.1.1
 ReAD: 1.0.1
 ReCiPa: '3.0'
 ReDaMoR: 0.7.6
@@ -7902,7 +7903,7 @@ TLMoments: 0.7.5.3
 TLdating: 0.1.3
 TMB: 1.9.14
 TMDb: '1.1'
-TML: 1.2.0
+TML: 2.3.0
 TMTI: 1.0.1
 TNC: 0.1.0
 TNRS: 0.3.6
@@ -8754,7 +8755,7 @@ adiv: 2.2.1
 adjROC: '0.3'
 adjSURVCI: '1.0'
 adjclust: 0.6.9
-adjustedCurves: 0.11.1
+adjustedCurves: 0.11.2
 adjustedcranlogs: 0.1.0
 adk: 1.0-2
 adklakedata: 0.6.1
@@ -9154,7 +9155,7 @@ ariExtra: 0.3.1
 aricode: 1.0.3
 arima2: 3.1.0
 arkdb: 0.0.18
-arkhe: 1.6.0
+arkhe: 1.7.0
 arm: 1.14-4
 armada: 0.1.0
 armspp: 0.0.2
@@ -9947,7 +9948,7 @@ bit: 4.0.5
 bit64: 4.0.5
 bite: '0.3'
 bitmexr: 0.3.3
-bitops: 1.0-7
+bitops: 1.0-8
 bitrugs: '0.1'
 bitsqueezr: 0.1.1
 bittermelon: 2.0.2
@@ -10194,7 +10195,7 @@ brlr: 0.9-1
 brlrmr: 0.1.7
 brm: 1.1.1
 brms: 2.21.0
-brms.mmrm: 1.0.1
+brms.mmrm: 1.1.0
 brmsmargins: 0.2.0
 brnn: 0.9.3
 brokenstick: 2.5.0
@@ -10230,7 +10231,7 @@ bshazard: '1.2'
 bsicons: 0.1.2
 bsitar: 0.2.1
 bskyr: 0.1.2
-bslib: 0.7.0
+bslib: 0.8.0
 bsml: 1.5-1
 bsnsing: 1.0.1
 bspcov: 1.0.0
@@ -10326,7 +10327,7 @@ caGUI: 0.1-4
 caMST: 0.1.6
 caMassClass: '1.9'
 caROC: 0.1.5
-caRamel: '1.3'
+caRamel: '1.4'
 caRecall: 0.1.0
 caRpools: '0.83'
 caTools: 1.18.2
@@ -10676,8 +10677,8 @@ charlson: '1.0'
 chartql: 0.1.0
 chatAI4R: 0.2.10
 chatgpt: 0.2.3
-chattr: 0.1.0
-cheapr: 0.9.2
+chattr: 0.2.0
+cheapr: 0.9.3
 cheatR: 1.2.1-1
 cheatmap: 1.0.0
 cheatsheet: 0.1.2
@@ -10690,7 +10691,7 @@ checked: 0.2.0
 checker: 0.1.3
 checkglobals: 0.1.0
 checkhelper: 0.1.1
-checkmate: 2.3.1
+checkmate: 2.3.2
 checkpoint: 1.0.2
 checkr: 0.5.0
 checkthat: 0.1.0
@@ -11093,6 +11094,7 @@ collatz: 1.0.0
 collectArgs: 0.4.0
 collections: 0.3.7
 collector: 0.1.3
+collegeScorecard: 0.1.0
 collidr: 0.1.3
 collin: 0.0.4
 collinear: 1.1.1
@@ -11932,7 +11934,7 @@ datamart: 0.5.2
 datamerge: 1.0.3
 datamods: 1.5.1
 datana: 1.0.3
-datanugget: 1.2.4
+datanugget: 1.3.0
 dataonderivatives: 0.4.0
 dataone: 2.2.2
 dataonelibs: 1.0.0
@@ -13286,7 +13288,7 @@ errint: '1.0'
 errorist: 0.1.2
 errorizer: 0.2.1
 errorlocate: 1.1.1
-errors: 0.4.1
+errors: 0.4.2
 errum: 0.0.3
 es.dif: 1.0.2
 esDesign: 1.0.3
@@ -14331,7 +14333,7 @@ futile.matrix: 1.2.7
 futile.options: 1.0.1
 futile.paradigm: 2.0.4
 futility: '0.4'
-future: 1.33.2
+future: 1.34.0
 future.BatchJobs: 0.17.0
 future.apply: 1.11.2
 future.batchtools: 0.12.1
@@ -14559,7 +14561,7 @@ gee: 4.13-27
 gee4: 0.1.0.0
 geeCRT: 1.1.3
 geeM: 0.10.1
-geeVerse: 0.1.0
+geeVerse: 0.2.1
 geeasy: 0.1.2
 geecure: 1.0-6
 geepack: 1.3.11
@@ -14711,7 +14713,7 @@ geomnet: 0.3.1
 geomod: 0.1.0
 geomorph: 4.0.8
 geomtextpath: 0.1.4
-geomultistar: 1.2.1
+geomultistar: 1.2.2
 geonames: '0.999'
 geonapi: 0.7-2
 geonet: 0.7.3
@@ -16434,7 +16436,7 @@ interacCircos: 1.0.0
 interactionR: 0.1.7
 interactionRCS: 0.1.1
 interactionTest: '1.2'
-interactions: 1.1.5
+interactions: 1.2.0
 interactivity: '0.2'
 interca: 0.1.2
 intercure: 0.1.0
@@ -16669,7 +16671,7 @@ jaatha: 3.2.5
 jab.adverse.reactions: 1.0.3
 jabr: 0.1.2
 jaccard: 0.1.0
-jack: 6.0.0
+jack: 6.1.0
 jackalope: 1.1.5
 jackknifeKME: '1.2'
 jackknifeR: 1.2.0
@@ -17624,7 +17626,7 @@ lsdv: '1.1'
 lsei: 1.3-0
 lsgl: 1.3.6
 lshorth: 0.1-6
-lsirm12pl: 1.3.1
+lsirm12pl: 1.3.2
 lsl: 0.5.6
 lslx: 0.6.11
 lsm: 0.2.1.4
@@ -17829,7 +17831,7 @@ mapsPERU: 2.0.0
 mapsRinteractive: 2.0.1
 mapsapi: 0.5.4
 mapscanner: 0.1.1
-mapsf: 0.10.1
+mapsf: 0.11.0
 maptiles: 0.7.0
 maptools: 1.1-8
 maptpx: 1.9-7
@@ -18030,7 +18032,7 @@ mcrPioda: 1.3.3
 mcradds: 1.1.0
 mcreplicate: 0.1.2
 mcsm: '1.0'
-mcstatsim: 0.1.0
+mcstatsim: 0.5.0
 mctest: 1.3.1
 mctq: 0.3.2
 mcunit: 0.3.2
@@ -18570,7 +18572,7 @@ mlpack: 4.4.0
 mlpwr: 1.1.0
 mlquantify: 0.2.0
 mlr: 2.19.2
-mlr3: 0.20.1
+mlr3: 0.20.2
 mlr3batchmark: 0.1.1
 mlr3benchmark: 0.1.6
 mlr3cluster: 0.1.9
@@ -18715,7 +18717,7 @@ modelplotr: 1.1.0
 modelr: 0.1.11
 modelsummary: 2.1.1
 modeltests: 0.1.6
-modeltime: 1.2.8
+modeltime: 1.3.0
 modeltime.ensemble: 1.0.4
 modeltime.gluonts: 0.1.0
 modeltime.h2o: 0.1.1
@@ -19428,14 +19430,14 @@ newsanchor: 0.1.1
 newscatcheR: 0.1.2
 newsmap: 0.9.0
 newsmd: 0.5.1
-nextGenShinyApps: '2.0'
+nextGenShinyApps: '2.1'
 nexus: 0.2.0
 nfda: 0.2-2
 nfer: 1.1.3
 nfl4th: 1.0.4
 nflfastR: 4.6.1
 nflplotR: 1.3.1
-nflreadr: 1.4.0
+nflreadr: 1.4.1
 nflseedR: 1.2.0
 nflverse: 1.0.3
 nftbart: '2.1'
@@ -20736,7 +20738,7 @@ phom: 1.0.3
 phonR: 1.0-7
 phonTools: 0.2-2.2
 phonenumber: 0.2.3
-phonfieldwork: 0.0.15
+phonfieldwork: 0.0.17
 phonics: 1.3.10
 phosphoricons: 0.2.1
 photobiology: 0.11.2
@@ -20808,7 +20810,7 @@ picasso: 1.3.1
 picker: 0.2.6
 pid: '0.50'
 piecemaker: 1.0.2
-piecenorms: 1.0.0
+piecenorms: 1.1.0
 piecepackr: 1.13.10
 piecewiseSEM: 2.3.0.1
 pifpaf: 1.0.1
@@ -21795,7 +21797,7 @@ quanteda.textstats: '0.97'
 quantification: 0.2.0
 quantileDA: '1.2'
 quantilogram: 2.2.1
-quantities: 0.2.1
+quantities: 0.2.2
 quantkriging: 0.1.0
 quantmod: 0.4.26
 quantoptr: 0.1.3
@@ -21868,10 +21870,10 @@ r2pmml: 0.28.0
 r2pptx: 0.1.0
 r2r: 0.1.1
 r2redux: 1.0.17
-r2resize: '1.9'
+r2resize: 1.9.1
 r2rtf: 1.1.1
 r2shortcode: '0.2'
-r2social: '1.2'
+r2social: 1.2.1
 r2spss: 0.3.2
 r2stl: 1.0.3
 r2sundials: 6.5.0-5
@@ -24128,7 +24130,7 @@ shidashi: 0.1.6
 shide: 0.2.1
 shiftR: '1.5'
 shinipsum: 0.1.1
-shiny: 1.8.1.1
+shiny: 1.9.0
 shiny.benchmark: 0.1.1
 shiny.blueprint: 0.3.0
 shiny.emptystate: 0.1.0
@@ -24156,7 +24158,7 @@ shinyDND: 0.1.0
 shinyDatetimePickers: 1.2.0
 shinyEffects: 0.2.0
 shinyEventLogger: 0.1.1
-shinyExprPortal: 1.2.0
+shinyExprPortal: 1.2.1
 shinyFeedback: 0.4.0
 shinyFiles: 0.9.3
 shinyGizmo: 0.4.2
@@ -24402,7 +24404,7 @@ simsalapar: 1.0-12
 simsem: 0.5-16
 simsl: 0.2.1
 simstandard: 0.6.3
-simstudy: 0.8.0
+simstudy: 0.8.1
 simsurv: 1.0.0
 simtimer: 4.0.0
 simtrait: 1.1.3
@@ -24884,7 +24886,7 @@ spdplyr: 0.4.0
 spduration: 0.17.2
 spdynmod: 1.1.6
 spe: 1.1.2
-speakeasyR: 0.1.0
+speakeasyR: 0.1.2
 speakr: 3.2.2
 speaq: 2.7.0
 speaq2: 0.1.0
@@ -25177,7 +25179,7 @@ starschemar: 1.2.5
 startR: 2.3.1
 starter: 0.1.15
 starticles: 0.1.0
-startup: 0.21.0
+startup: 0.22.0
 startupmsg: 0.9.6.1
 starvars: 1.1.10
 starvz: 0.8.0
@@ -25912,7 +25914,7 @@ texmex: 2.4.9
 texmexseq: '0.3'
 texor: 1.3.0
 texreg: 1.39.4
-text: 1.2.1
+text: 1.2.3
 text.alignment: 0.1.4
 text2map: 0.2.0
 text2sdg: 1.1.1
@@ -25984,7 +25986,7 @@ thectar: 1.0.0
 theft: 0.6.1
 theftdlc: 0.1.0
 theiaR: 0.4.0
-thematic: 0.1.5
+thematic: 0.1.6
 themetagenomics: 1.0.2
 themis: 1.0.2
 thermocouple: 1.0.2
@@ -26118,7 +26120,7 @@ tidytree: 0.4.6
 tidytuesdayR: 1.0.3
 tidyverse: 2.0.0
 tidyvpc: 1.5.1
-tidywikidatar: 0.5.8
+tidywikidatar: 0.5.9
 tidyxl: 1.0.10
 tiff: 0.1-12
 tiger: 0.2.3.1
@@ -26478,7 +26480,7 @@ trioGxE: 0.1-1
 trip: 1.10.0
 tripEstimation: 0.0-46
 tripack: 1.3-9.1
-triplesmatch: 1.0.0
+triplesmatch: 1.1.0
 triplot: 1.3.0
 tripsAndDipR: 0.1.0
 triptych: 0.1.3
@@ -26558,7 +26560,7 @@ tsnet: 0.1.0
 tsnetwork: '1.2'
 tsoutliers: 0.6-10
 tspmeta: '1.2'
-tspredit: 1.0.767
+tspredit: 1.0.777
 tsqn: 1.0.0
 tsriadditive: 1.0.0
 tsrobprep: 0.3.2
@@ -26803,7 +26805,7 @@ usefun: 0.5.0
 usemodels: 0.2.0
 userfriendlyscience: 0.7.2
 usethat: 0.3.0
-usethis: 2.2.3
+usethis: 3.0.0
 usethis2: 0.2.0
 usfertilizer: 0.1.5
 ushr: 0.2.3
@@ -26828,7 +26830,7 @@ utilityFunctionTools: 0.1.1
 utilsIPEA: 0.0.6
 utiml: 0.1.7
 utr.annotation: 1.0.4
-uuid: 1.2-0
+uuid: 1.2-1
 uwIntroStats: 0.0.7
 uwedragon: 0.1.0
 uwo4419: 0.3.0
