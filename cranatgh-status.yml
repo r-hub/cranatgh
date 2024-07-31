@@ -1325,7 +1325,7 @@ CodeDepends: 0.6.6
 CodelistGenerator: 3.1.0
 CohensdpLibrary: 0.5.10
 CohortAlgebra: 0.3.0
-CohortCharacteristics: 0.2.1
+CohortCharacteristics: 0.2.2
 CohortConstructor: 0.2.1
 CohortExplorer: 0.1.0
 CohortPlat: 1.0.5
@@ -1412,7 +1412,7 @@ ConnectednessApproach: 1.0.3
 ConsRank: 2.1.4
 ConsRankClass: 1.0.1
 ConsReg: 0.1.0
-ConsensusClustering: 1.2.0
+ConsensusClustering: 1.5.0
 ConsensusOPLS: 1.0.0
 ContRespPP: 0.4.2
 Containers: '1.2'
@@ -1969,7 +1969,7 @@ DriftBurstHypothesis: 0.4.0.1
 DrillR: '0.1'
 DriveML: 0.1.5
 DrugClust: '0.2'
-DrugExposureDiagnostics: 1.0.6
+DrugExposureDiagnostics: 1.0.7
 DrugSim2DR: 0.1.1
 DrugUtilisation: 0.7.0
 DstarM: 0.4.0
@@ -2547,7 +2547,7 @@ FitDynMix: 1.0.0
 FitUltD: 3.1.0
 FixSeqMTP: 0.1.2
 FixedPoint: 0.6.3
-FjordLight: '0.8'
+FjordLight: 1.0.0
 FlexDir: '1.0'
 FlexDotPlot: 0.2.2
 FlexGAM: 0.7.2
@@ -2867,7 +2867,7 @@ GSelection: 0.1.0
 GSparO: '1.0'
 GTDL: 1.0.0
 GUD: 1.0.2
-GUEST: 0.1.0
+GUEST: 0.2.0
 GUIDE: 1.2.7
 GUILDS: 1.4.6
 GUIProfiler: 2.0.1
@@ -4540,8 +4540,8 @@ MetamapsDB: 0.0.2
 Metatron: 0.1-1
 Meth27QC: '1.1'
 MethComp: 1.30.0
-MethEvolSIM: 0.1.3
-MethodCompare: 0.1.2
+MethEvolSIM: 0.1.4
+MethodCompare: 1.0.0
 Methplot: '1.0'
 MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
@@ -5229,6 +5229,7 @@ PEkit: 1.0.0.1000
 PEtests: 0.1.0
 PF: '9.5'
 PFIM: 6.0.3
+PFLR: 1.0.0
 PGEE: '1.5'
 PGICA: '1.0'
 PGM2: 1.0-1
@@ -9097,7 +9098,7 @@ apt: '3.0'
 aptg: 0.1.1
 apyramid: 0.1.3
 aqfig: '0.9'
-aqp: 2.0.3
+aqp: 2.0.4
 aqr: '0.4'
 aquodom: 0.1.1
 ar.matrix: 0.1.0
@@ -9352,7 +9353,7 @@ avfintools: 0.1.0
 avgrankoverlap: '1.0'
 avidaR: 1.2.1
 avocado: 0.1.0
-avotrex: 1.2.0
+avotrex: 1.3.0
 aweSOM: '1.3'
 aweek: 1.0.3
 awinR: 0.1.0
@@ -9455,7 +9456,7 @@ bangladesh: 1.0.0
 bannerCommenter: 1.0.0
 banter: 0.9.6
 banxicoR: 0.9.0
-baorista: 0.1.4
+baorista: 0.2.0
 bapred: '1.1'
 barcode: 1.3.0
 bardr: 0.0.9
@@ -9880,7 +9881,7 @@ bio3d: 2.4-4
 bioC.logs: 1.2.1
 bioOED: 0.2.1
 bioPN: 1.2.0
-bioRad: 0.8.0
+bioRad: 0.8.1
 bioSNR: '1.0'
 bioacoustics: 0.2.8
 bioassays: 1.0.1
@@ -10039,7 +10040,7 @@ bnClustOmics: 1.1.1
 bnclassify: 0.4.8
 bndesr: 1.0.3
 bndovb: '1.1'
-bnlearn: 4.9.4
+bnlearn: '5.0'
 bnma: 1.6.0
 bnmonitor: 0.2.0
 bnnSurvival: 0.1.5
@@ -11291,6 +11292,7 @@ conquer: 1.3.3
 conquestr: 1.3.4
 conrad: 1.0.0
 conserveR: 1.0.4
+consibiocloudclient: 1.0.0
 consolechoice: 1.1.1
 consort: 1.2.2
 consortr: 0.9.1
@@ -11907,7 +11909,7 @@ dataMojo: 1.0.0
 dataPreparation: 1.1.1
 dataQualityR: '1.0'
 dataReporter: 1.0.2
-dataRetrieval: 2.7.15
+dataRetrieval: 2.7.16
 dataSDA: 0.1.0
 databraryr: 0.6.6
 datacheck: 1.2.2
@@ -12279,7 +12281,7 @@ diagram: 1.6.5
 dialectR: '1.0'
 dialr: 0.4.2
 dialrjars: 8.13.36
-dials: 1.2.1
+dials: 1.3.0
 diamonds: 1.0-5
 diaplt: 1.4.0
 diathor: 0.1.0
@@ -12342,7 +12344,7 @@ digitize: 0.0.4
 dilp: 1.1.0
 dils: 0.8.1
 dimRed: 0.2.6
-dimensio: 0.8.0
+dimensio: 0.8.1
 dimensionalAnalysis: 0.1.0
 dimensionsR: 0.0.3
 dina: 2.0.0
@@ -12631,7 +12633,7 @@ dreamerr: 1.4.0
 drf: 1.1.0
 drfit: 0.7.2
 drgee: 1.1.10
-drglm: '1.0'
+drglm: '1.1'
 drhur: 1.1.0
 driftR: 1.1.0
 drifter: 0.2.1
@@ -13252,7 +13254,7 @@ equalCovs: '1.0'
 equaltestMI: 0.6.1
 equatags: 0.2.1
 equate: 2.0.8
-equateIRT: 2.4.0
+equateIRT: 2.5.0
 equateMultiple: 0.1.2
 equatiomatic: 0.3.3
 equil2: 1.0.0
@@ -13948,7 +13950,7 @@ fitplc: 1.2-3
 fitscape: 0.1.0
 fitteR: 0.2.0
 fitur: 0.6.2
-fitzRoy: 1.4.0
+fitzRoy: 1.5.0
 fivethirtyeight: 0.6.2
 fixedTimeEvents: 1.0.1
 fixedincome: 0.0.5
@@ -15314,7 +15316,7 @@ gpx: 1.1.0
 gqlr: 0.0.2
 gquad: 2.1-2
 grImport: 0.9-7
-grImport2: 0.3-1
+grImport2: 0.3-3
 grPipe: 0.1.0
 graDiEnt: 1.0.1
 grabsampling: 1.0.0
@@ -15332,7 +15334,7 @@ grandR: 0.2.5
 grangers: 0.1.0
 granova: '2.2'
 granovaGG: 1.4.1
-grantham: 0.1.1
+grantham: 0.1.2
 grapes: 1.0.0
 grapesAgri1: 1.1.0
 graph: 1.30.0
@@ -15687,7 +15689,7 @@ healthdb: 0.3.1
 healthequal: 1.0.0
 healthfinance: 0.1.0
 healthforum: 0.1.0
-healthyAddress: 0.4.2
+healthyAddress: 0.4.3
 healthyR: 0.2.2
 healthyR.ai: 0.0.13
 healthyR.data: 1.1.1
@@ -15710,7 +15712,7 @@ heemod: 1.0.1
 hei: 0.1.0
 heimdall: 1.0.717
 heims: 0.4.0
-heiscore: 0.1.1
+heiscore: 0.1.3
 helda: 1.1.5
 helixvis: 1.0.1
 hellno: 0.0.1
@@ -15734,7 +15736,7 @@ het.test: '0.1'
 hetGP: 1.1.6
 heterogen: 1.2.33
 heterometa: '0.3'
-heteromixgm: 1.0.0
+heteromixgm: 2.0.0
 hetmeta: 0.1.0
 hetsurr: '1.0'
 hett: 0.3-3
@@ -15940,7 +15942,7 @@ htmltidy: 0.5.0
 htmltools: 0.5.8.1
 htmlwidgets: 1.6.4
 htree: 2.0.0
-hts: 6.0.2
+hts: 6.0.3
 htsr: 2.1.5
 httk: 2.3.1
 httpRequest: 0.0.11
@@ -16055,6 +16057,7 @@ iCellR: 1.6.7
 iCiteR: 0.2.1
 iClick: '1.5'
 iCluster: 2.1.0
+iClusterVB: 0.1.1
 iDEMO: 0.2-01
 iDINGO: 1.0.4
 iDOS: 1.0.1
@@ -16378,7 +16381,7 @@ injurytools: 1.0.3
 inlabru: 2.11.1
 inlamemi: 1.0.0
 inlcolor: 1.0.6
-inldata: 1.2.3
+inldata: 1.2.5
 inline: 0.3.19
 inlinedocs: 2023.9.4
 inlmisc: 0.5.5
@@ -16683,7 +16686,7 @@ jadeLizardOptions: 1.0.1
 jage: 0.1.0
 jaggR: 0.1.1
 jagsUI: 1.6.2
-jagshelper: 0.3.0
+jagshelper: 0.3.1
 jagstargets: 1.2.0
 jalcal: 0.1.0
 james.analysis: 1.0.1
@@ -17428,7 +17431,7 @@ lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
 lme4: 1.1-35.5
-lme4breeding: 1.0.22
+lme4breeding: 1.0.30
 lmeInfo: 0.3.2
 lmeNB: '1.3'
 lmeNBBayes: 1.3.1
@@ -17543,7 +17546,7 @@ logr: 1.3.8
 logregperm: '1.0'
 logrx: 0.3.1
 logspline: 2.1.22
-lokern: 1.1-11
+lokern: 1.1-12
 lolR: '2.1'
 lolliplot: 0.2.2
 lolog: 1.3.1
@@ -17561,7 +17564,7 @@ longitudinalANAL: '0.2'
 longitudinalData: 2.4.5.1
 longitudinalcascade: 0.3.2.6
 longke: 0.1.0
-longmemo: 1.1-2
+longmemo: 1.1-3
 longmixr: 1.0.0
 longpower: 1.0.25
 longreadvqs: 0.1.2
@@ -18473,6 +18476,7 @@ mixEMM: '1.0'
 mixIndependR: 1.0.0
 mixKernel: 0.9-1
 mixOmics: 6.3.2
+mixOofA: '1.0'
 mixPHM: 0.7-2
 mixR: 0.2.0
 mixRasch: '1.1'
@@ -18604,7 +18608,7 @@ mlrCPO: 0.3.7-7
 mlrMBO: 1.1.5.1
 mlrintermbo: 0.5.1-1
 mlrpro: 0.1.2
-mlrv: 0.1.1
+mlrv: 0.1.2
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlstrOpalr: 1.0.3
@@ -19080,7 +19084,7 @@ multipleDL: 1.0.0
 multipleNCC: 1.2-4
 multipleOutcomes: '0.4'
 multiplestressR: 0.1.1
-multiplex: 3.3-2
+multiplex: '3.4'
 multiplyr: 0.1.1
 multipol: 1.0-9
 multirich: 2.1.3
@@ -19472,7 +19476,7 @@ nifti.io: 1.0.0
 nightmares: 0.0.2
 nilde: 1.1-7
 nima: 0.6.2
-nimble: 1.2.0
+nimble: 1.2.1
 nimbleAPT: 1.0.6
 nimbleCarbon: 0.2.5
 nimbleEcology: 0.5.0
@@ -20216,6 +20220,7 @@ pRepDesigns: 1.2.0
 pSI: '1.1'
 pTITAN2: 1.0.2
 pa: 1.2-4
+paar: 1.0.1
 pacbpred: 0.92.2
 pack: 0.1-1
 packClassic: 0.5.2
@@ -24203,7 +24208,7 @@ shinybootstrap2: 0.2.1
 shinybrms: 1.8.0
 shinybrowser: 1.0.0
 shinybusy: 0.3.3
-shinycssloaders: 1.0.0
+shinycssloaders: 1.1.0
 shinycustomloader: 0.9.0
 shinydashboard: 0.7.2
 shinydashboardPlus: 2.0.4
@@ -25644,7 +25649,7 @@ sylly.en: 0.1-3
 sym.arma: '1.0'
 symDMatrix: 2.1.1
 symSEM: '0.4'
-symbol.equation.gpt: 1.1.3
+symbol.equation.gpt: 1.1.4
 symbolicDA: 0.7-1
 symbolicQspray: 1.1.0
 symbols: '1.1'
@@ -26202,7 +26207,7 @@ tipmap: 0.5.2
 tipom: 1.0.2-1
 tippy: 0.1.0
 tipr: 1.0.2
-tipsae: 1.0.1
+tipsae: 1.0.2
 tis: '1.39'
 titan: 1.0-16
 titanic: 0.1.0
