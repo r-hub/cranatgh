@@ -174,7 +174,7 @@ ASV: 1.1.4
 ATAforecasting: 0.0.60
 ATE: 0.2.0
 ATNr: 1.1.0
-ATQ: 0.2.2
+ATQ: 0.2.3
 ATR: 0.1-1
 ATbounds: 0.1.0
 ATmet: 1.2.1
@@ -485,7 +485,7 @@ BIRDS: 0.2.0
 BIS: 0.3.1
 BISdata: 0.2-3
 BKPC: 1.0.1
-BKTR: 0.1.1
+BKTR: 0.2.0
 BLA: 1.0.1
 BLCOP: 0.3.3
 BLModel: 1.0.2
@@ -1159,7 +1159,7 @@ CVglasso: '1.0'
 CVrisk: 1.1.1
 CWT: 0.2.1
 CaDENCE: 1.2.5
-CaPO4Sim: 0.2.0
+CaPO4Sim: 0.2.1
 Cairo: 1.6-2
 CalSim: 0.5.2
 CalcThemAll.PRM: 1.1.1
@@ -1360,7 +1360,7 @@ CommunityCorrelogram: '1.0'
 Comp2ROC: 1.1.4
 CompAREdesign: 2.3.1
 CompDist: '1.0'
-CompExpDes: 1.0.0
+CompExpDes: 1.0.1
 CompGLM: '2.0'
 CompGR: 0.1.3
 CompLognormal: '3.0'
@@ -3234,7 +3234,7 @@ HiddenMarkov: 1.8-13
 HierDpart: 1.5.0
 HierO: '0.2'
 HierPorfolios: 0.1.0
-HierPortfolios: 1.0.0
+HierPortfolios: 1.0.1
 HighDimOut: 1.0.0
 HighProbability: 1.0-2
 HighestMedianRules: '1.0'
@@ -3742,7 +3742,7 @@ LARisk: 1.0.0
 LATERmodel: 0.2.0
 LAWBL: 1.5.0
 LBC: '1.0'
-LBI: 0.1.2
+LBI: 0.1.3
 LBLGXE: '1.4'
 LBPG: 0.1.2
 LBSPR: 0.1.6
@@ -4333,7 +4333,7 @@ MRwarping: '1.0'
 MSBStatsData: 0.0.2
 MSBVAR: 0.9-3
 MSCMT: 1.4.0
-MSCquartets: '2.0'
+MSCquartets: 2.0.1
 MSCsimtester: 1.0.0
 MSEtool: 3.7.1
 MSG: '0.8'
@@ -6010,7 +6010,7 @@ RGoogleAnalyticsPremium: 0.1.1
 RGoogleFit: 0.4.0
 RGrace: 0.6-6
 RGraphM: 0.1.11
-RGraphSpace: 1.0.5
+RGraphSpace: 1.0.6
 RGraphics: 3.0-2
 RGreenplum: 0.1.2
 RGremlinsConjoint: 0.9.1
@@ -7853,7 +7853,7 @@ TCA: 1.2.1
 TCC: 1.1.3
 TCGA2STAT: '1.2'
 TCGAretriever: 1.9.1
-TCHazaRds: '1.0'
+TCHazaRds: 1.1.0
 TCIApathfinder: 1.0.6
 TCIU: 1.2.6
 TCPMOR: '1.0'
@@ -8383,7 +8383,7 @@ VineCopula: 2.5.0
 VirtualPop: 2.0.2
 VisCollin: 0.1.2
 VisCov: '1.3'
-VisitorCounts: 2.0.1
+VisitorCounts: 2.0.2
 VisuClust: '1.2'
 VisualDom: 0.8.0
 Visualize.CRAN.Downloads: 1.0.3
@@ -9774,7 +9774,7 @@ biclique: 1.0.5
 biclust: 2.0.3.1
 biclustermd: 0.2.3
 bicreduc: 0.4-7
-bidask: 2.0.4
+bidask: 2.0.6
 bifactorial: 1.4.7
 bife: 0.7.2
 bifurcatingr: 2.1.0
@@ -11553,7 +11553,7 @@ crackR: 0.3-9
 cragg: 0.0.1
 cramer: 0.9-4
 crandatapkgs: 0.1.8
-crandep: 0.3.9
+crandep: 0.3.10
 crank: 1.1-2
 cranlike: 1.0.3
 cranlogs: 2.1.1
@@ -14191,7 +14191,7 @@ fractaldim: 0.8-5
 fractalrock: 1.1.0
 fractional: 0.1.3
 fracture: 0.2.1
-fragility: '1.4'
+fragility: '1.5'
 fragilityindex: 0.1.0
 frailtyEM: 1.0.1
 frailtyHL: '2.3'
@@ -14422,7 +14422,7 @@ gaiah: 0.0.5
 gainML: 0.1.0
 gains: '1.2'
 galah: 2.0.2
-galamm: 0.2.0
+galamm: 0.2.1
 galgo: '1.4'
 galigor: 0.2.5
 galts: 1.3.2
@@ -16173,7 +16173,7 @@ icesSD: 2.0.0
 icesTAF: 4.2.0
 icesVMS: 1.1.4
 icesVocab: 1.2.0
-ichimoku: 1.5.3
+ichimoku: 1.5.4
 icmm: '1.2'
 icomp: '0.1'
 iconr: 0.1.0
@@ -18437,7 +18437,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 1.1.1
+mirai: 1.2.0
 mirai.promises: 0.5.0
 mirf: '1.0'
 mirt: '1.42'
@@ -18583,7 +18583,7 @@ mlmm.gwas: 1.0.6
 mlmmm: 0.3-1.2
 mlmpower: 1.0.8
 mlmtools: 1.0.2
-mlmts: 1.1.1
+mlmts: 1.1.2
 mlogit: 1.1-1
 mlogitBMA: 0.1-7
 mlpack: 4.4.0
@@ -20422,7 +20422,7 @@ passt: 0.1.3
 password: 1.0-0
 pasta: 0.1.0
 pastaPlot: 0.1.0
-pastboon: 0.1.0
+pastboon: 0.1.1
 pastclim: 2.1.0
 pasteAsComment: 0.2.1
 pastecs: 1.4.2
@@ -20452,7 +20452,7 @@ pathwayTMB: 0.1.3
 patientProfilesVis: 2.0.9
 patrick: 0.2.0
 patternator: 0.1.0
-patterncausality: 0.1.0
+patterncausality: 0.1.1
 patternize: 0.0.5
 patternplot: 1.0.0
 pauwels2014: '1.0'
@@ -20541,7 +20541,7 @@ pcts: 0.15.7
 pcurve: 0.6-4
 pcutils: 0.2.6
 pcv: 1.1.0
-pdR: 1.9.2
+pdR: 1.9.3
 pdSpecEst: 1.2.4
 pda: 1.2.7
 pdc: 1.0.3
@@ -22416,7 +22416,7 @@ readmnist: 1.0.6
 readmoRe: 0.2-12
 readobj: 0.4.1
 readr: 2.1.5
-readrba: 0.1.8
+readrba: 0.1.10
 readroper: 0.9.3
 readsdmx: 0.3.1
 readsdr: 0.3.0
@@ -22509,7 +22509,7 @@ refnr: 0.1.0
 reformulas: 0.3.0
 refreg: 0.1.1
 refreshr: 0.1.0
-refseqR: 1.1.2
+refseqR: 1.1.4
 refset: 0.1.1
 refuge: 0.3.3
 refugees: 2023.12.0
@@ -22710,7 +22710,7 @@ retrosheet: 1.1.6
 retry: 0.1.1
 reutils: 0.2.3
 reval: 3.1-0
-revdbayes: 1.5.4
+revdbayes: 1.5.5
 revealedPrefs: 0.4.1
 revealjs: '0.9'
 reveneraR: 0.1.2
@@ -24232,7 +24232,7 @@ shinybusy: 0.3.3
 shinycssloaders: 1.1.0
 shinycustomloader: 0.9.0
 shinydashboard: 0.7.2
-shinydashboardPlus: 2.0.4
+shinydashboardPlus: 2.0.5
 shinydbauth: 1.0.0.1
 shinydisconnect: 0.1.1
 shinydlplot: 0.1.4
@@ -24311,7 +24311,7 @@ sift: 0.1.0
 siftr: 1.1.0
 sig: 0.0-6
 sigInt: 0.2.0
-sigQC: 0.1.23
+sigQC: 0.1.24
 sigclust: 1.1.0.1
 sigloc: 0.0.4
 sigma2tools: 1.2.5
