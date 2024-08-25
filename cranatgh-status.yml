@@ -827,7 +827,7 @@ Bolstad2: 1.0-29
 BoltzMM: 0.1.4
 BonEV: '1.0'
 BondValuation: 0.1.1
-BoneProfileR: '2.5'
+BoneProfileR: '3.1'
 BoolFilter: 1.0.0
 BoolNet: 2.1.9
 Boom: 0.9.15
@@ -2231,7 +2231,7 @@ EnvCpt: 1.1.3
 EnvExpInd: 0.1.0
 EnvNJ: 0.1.3
 EnvNicheR: '1.5'
-EnvStats: 2.8.1
+EnvStats: 3.0.0
 EnviroPRA: '1.0'
 EnviroPRA2: 1.0.1
 EnviroStat: 0.4-2
@@ -3029,7 +3029,7 @@ GoogleKnowledgeGraphR: 0.1.0
 Goslate: '1.0'
 Gotoh: '0.9'
 GpGp: 0.5.0
-GrFA: 0.1.1
+GrFA: '0.2'
 GrabSVG: 0.0.2
 Grace: 0.5.3
 GramQuad: 0.1.1
@@ -3107,7 +3107,7 @@ HDSinRdata: 0.1.2
 HDSpatialScan: 1.0.4
 HDStIM: 0.1.0
 HDTSA: 1.0.3
-HDXBoxeR: 0.0.1
+HDXBoxeR: 0.0.2
 HDclassif: 2.2.1
 HDclust: 1.0.3
 HDcpDetect: 0.1.0
@@ -3131,7 +3131,7 @@ HHG: 2.3.7
 HI: '0.5'
 HIBAG: 1.2.4
 HIBPwned: 0.1.7
-HIMA: 2.2.1
+HIMA: 2.2.2
 HIV.LifeTables: '0.1'
 HIest: '2.0'
 HK80: 0.0.2
@@ -6554,7 +6554,7 @@ RcppDL: 0.0.5
 RcppDate: 0.0.3
 RcppDist: 0.1.1
 RcppDynProg: 0.2.1
-RcppEigen: 0.3.4.0.1
+RcppEigen: 0.3.4.0.2
 RcppEigenAD: 1.0.0
 RcppEnsmallen: 0.2.21.1.1
 RcppExamples: 0.1.9
@@ -8486,7 +8486,7 @@ WeibullR.ALT: 0.7.2
 WeibullR.learnr: 0.1.3
 WeibullR.plotly: 0.2.1
 WeibullR.shiny: 0.2.1
-WeightIt: 1.2.0
+WeightIt: 1.3.0
 WeightSVM: 1.7-13
 Weighted.Desc.Stat: '1.0'
 WeightedCluster: 1.6-4
@@ -10077,7 +10077,7 @@ bodycomp: 1.0.0
 bodycompref: 2.0.1
 boggy: 0.0.1
 boilerpipeR: 1.3.2
-boinet: 1.0.0
+boinet: 1.1.0
 boiwsa: 1.1.1
 bolasso: 0.2.0
 bold: 1.3.0
@@ -11316,7 +11316,7 @@ consort: 1.2.2
 consortr: 0.9.1
 constants: 1.0.1
 constellation: 0.2.0
-constrainedKriging: 0.2-7
+constrainedKriging: 0.2-8
 constructive: 1.0.1
 contFracR: 1.2.1
 contTimeCausal: '1.1'
@@ -12023,7 +12023,7 @@ dbglm: 1.0.0
 dbhydroR: 0.2-8
 dblcens: 1.1.9
 dblr: 0.1.0
-dbmss: 2.9-0
+dbmss: 2.9-2
 dbnR: 0.7.9
 dbnlearn: 0.1.0
 dbparser: 2.0.3
@@ -15141,7 +15141,7 @@ glmglrt: 0.2.2
 glmgraph: 1.0.3
 glmlep: '0.2'
 glmm: 1.4.4
-glmm.hp: 0.1-3
+glmm.hp: 0.1-4
 glmmAK: '1.7'
 glmmBUGS: 2.4.2
 glmmEP: 1.0-3.1
@@ -16246,7 +16246,7 @@ igate: 0.3.3
 igcop: 1.0.2
 iglu: 4.1.6
 igoR: 0.2.0
-igr: 0.1.1
+igr: 0.2.0
 igraph: 2.0.3
 igraph0: 0.5.7
 igraphdata: 1.0.1
@@ -16375,7 +16375,7 @@ ineqJD: '1.0'
 inet: 0.1.0
 inetwork: '1.2'
 infer: 1.0.7
-inferCSN: 1.0.5
+inferCSN: 1.0.8
 inference: 0.1.0
 inferference: 1.0.2
 inferr: 0.3.1
@@ -18647,7 +18647,7 @@ mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlstrOpalr: 1.0.3
 mlsurvlrnrs: 0.0.4
-mlt: 1.5-1
+mlt: 1.5-2
 mlt.docreg: 1.1-8
 mltest: 1.0.1
 mltools: 0.3.5
@@ -20033,7 +20033,7 @@ openeo: 1.3.1
 openintro: 2.5.0
 openmeteo: 0.2.4
 openmetrics: 0.3.0
-openscoring: 1.0.3
+openscoring: 1.0.4
 opensensmapr: 0.6.0
 openssl: 2.2.1
 opentick: 0.1-1
@@ -21207,7 +21207,7 @@ porridge: 0.3.3
 port4me: 0.7.1
 portalr: 0.4.1
 portes: '6.0'
-portfolio: 0.5-2
+portfolio: 0.5-3
 portfolio.optimization: 1.0-0
 portfolioBacktest: 0.4.1
 portfolioSim: 0.2-7
@@ -22358,7 +22358,7 @@ rcube: '0.5'
 rcure: 0.1.0
 rcv: 0.2.1
 rda: 1.2-1
-rdacca.hp: 1.1-0
+rdacca.hp: 1.1-1
 rdaemon: 1.0.6
 rdaisi: 0.1.3
 rdatacite: 0.5.4
@@ -24858,7 +24858,7 @@ sparseSVM: 1.1-6
 sparsebn: 0.1.2
 sparsebnUtils: 0.0.8
 sparsediscrim: 0.3.0
-sparsegl: 1.1.0
+sparsegl: 1.1.1
 sparseinv: 0.1.3
 sparsenet: '1.6'
 sparsepca: 0.1.2
@@ -25415,7 +25415,7 @@ stressor: 0.2.0
 stressr: 1.0.0
 strex: 2.0.0
 strider: '1.3'
-string2path: 0.1.7
+string2path: 0.1.8
 stringb: 0.1.17
 stringdist: 0.9.12
 stringfish: 0.16.0
@@ -25740,7 +25740,7 @@ syuzhet: 1.0.7
 tLagInterim: '1.0'
 tLagPropOdds: '1.9'
 tRakt: 0.13.0
-tRigon: 0.3.2
+tRigon: 0.3.3
 tRnslate: 0.0.3
 tRophicPosition: 0.8.0
 tTOlr: 0.2.3
