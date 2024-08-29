@@ -141,7 +141,7 @@ AR1seg: '1.0'
 ARAMIS: 1.0.1
 ARCensReg: 3.0.1
 ARCokrig: 0.1.2
-ARDECO: 1.0.1
+ARDECO: 2.0.0
 ARDL: 0.2.4
 ARGOS: 0.1.1
 ARHT: 0.1.0
@@ -567,7 +567,7 @@ BTSR: 0.1.5
 BTYD: 2.4.3
 BTYDplus: 1.2.0
 BTdecayLasso: 0.1.1
-BTtest: 0.10.2
+BTtest: 0.10.3
 BUCSS: 1.2.1
 BVAR: 1.0.5
 BVARverse: 0.0.1
@@ -781,7 +781,7 @@ BioRssay: 1.1.0
 BioStatR: 4.0.1
 BioTIMEr: 0.2.3
 BioVenn: 1.1.3
-BiocManager: 1.30.24
+BiocManager: 1.30.25
 Biocomb: '0.4'
 Biodem: '0.5'
 BiodiversityR: 2.16-1
@@ -1632,7 +1632,7 @@ DEploid: 0.5.3
 DFA: 1.0.0
 DFA.CANCOR: 0.2.8
 DFBA: 0.1.0
-DFD: 0.1.0
+DFD: 0.2.0
 DFIT: '1.1'
 DGCA: 1.0.3
 DGEAR: 0.1.4
@@ -1808,6 +1808,7 @@ DataMetProcess: 1.0.2
 DataPackageR: 0.16.0
 DataSetsUni: '0.1'
 DataSpaceR: 0.7.6
+DataSum: 0.1.0
 DataVisualizations: 1.3.2
 DataViz: 0.2.8
 DatabaseConnector: 6.3.2
@@ -2546,6 +2547,7 @@ FisHiCal: '1.1'
 FisPro: 1.1.4
 Fiscore: 0.1.3
 FishPhyloMaker: 0.2.0
+FishProxCompAnalyzer: 0.1.0
 FishResp: 1.1.1
 FisherEM: '1.6'
 FitAR: '1.94'
@@ -3268,7 +3270,7 @@ HotellingEllipse: 1.2.0
 HumMeth27QCReport: 1.2.14
 HuraultMisc: 1.1.1
 HurreconR: '1.1'
-HyMETT: 1.1.2
+HyMETT: 1.1.3
 HyPhy: '1.0'
 HyRiM: 2.0.2
 HybridDesign: '1.0'
@@ -3476,7 +3478,7 @@ IceCast: 2.1.0
 IceSat2R: 1.0.6
 Icens: 1.24.0
 IgAScores: 0.1.2
-IgorR: 0.8.1
+IgorR: 0.9.0
 ImCluster: 0.1.0
 ImFoR: 0.1.0
 ImHD: 0.1.0
@@ -4465,6 +4467,7 @@ Matrix.utils: 0.9.8
 MatrixCorrelation: 0.10.0
 MatrixEQTL: '2.3'
 MatrixExtra: 0.1.15
+MatrixHMM: 1.0.0
 MatrixLDA: '0.2'
 MatrixMixtures: 1.0.0
 MatrixModels: 0.5-3
@@ -5653,7 +5656,7 @@ ProPublicaR: 1.1.4
 ProSGPV: 1.0.0
 ProTrackR: 0.4.3
 ProbBayes: '1.1'
-ProbBreed: 1.0.4.1
+ProbBreed: 1.0.4.2
 ProbForecastGOP: 1.3.2
 ProbMarg: 1.0.1
 ProbReco: 0.1.2
@@ -7296,7 +7299,7 @@ SSLASSO: 1.2-2
 SSLR: 0.9.3.3
 SSM: 1.0.1
 SSN: 1.1.17
-SSN2: 0.2.0
+SSN2: 0.2.1
 SSNbayes: 0.0.3
 SSOAP: 0.9-0
 SSOSVM: 0.2.1
@@ -8442,6 +8445,7 @@ WMCapacity: 0.9.6.7
 WMDB: '1.0'
 WMTregions: 3.2.6
 WMWssp: 0.4.0
+WOAkMedoids: 0.1.0
 WOTPLY: 0.1.0
 WPC: '1.0'
 WPKDE: '0.1'
@@ -9447,6 +9451,7 @@ badger: 0.2.4
 baf: 0.0.1
 baffle: 0.2.2
 bagRboostR: 0.0.2
+bage: 0.7.4
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
 baggingbwsel: '1.1'
@@ -9567,7 +9572,7 @@ bayesPO: 0.5.0
 bayesPop: 10.0-1
 bayesQR: '2.4'
 bayesROE: '0.2'
-bayesRecon: 0.3.0
+bayesRecon: 0.3.1
 bayesSurv: '3.7'
 bayesTFR: 7.4-2
 bayesWatch: 0.1.3
@@ -10231,7 +10236,7 @@ brokenstick: 2.5.0
 brolgar: 1.0.1
 broman: '0.84'
 broom: 1.0.6
-broom.helpers: 1.16.0
+broom.helpers: 1.17.0
 broom.mixed: 0.2.9.5
 broomExtra: 4.3.2
 brotli: 1.3.0
@@ -10296,6 +10301,7 @@ bulkreadr: 1.1.1
 bulletcp: 1.0.0
 bulletr: '0.1'
 bullishTrader: 1.0.1
+bullseye: 0.1.0
 bullwhipgame: 0.1.0
 bumbl: 1.0.3
 bumblebee: 0.1.0
@@ -10422,6 +10428,7 @@ canvasXpress.data: 1.34.2
 cap: '1.0'
 cape: 3.1.2
 caper: 1.0.3
+capesData: 0.0.1
 capitalR: 1.3.0
 capl: '1.42'
 caplot: '0.2'
@@ -10894,7 +10901,7 @@ clifford: 1.0-8
 clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-10
-climaemet: 1.3.0
+climaemet: 1.4.0
 climate: 1.0.5
 climate.plot: 0.1-2
 climateStability: 0.1.4
@@ -11735,7 +11742,7 @@ ctmm: 1.2.0
 ctmva: 1.4.0
 ctpm: 1.0.1
 ctqr: '2.1'
-ctrdata: 1.19.1
+ctrdata: 1.19.2
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
 cts: 1.0-22
@@ -12042,6 +12049,7 @@ dbplot: 0.3.3
 dbplyr: 2.5.0
 dbscan: 1.2-0
 dbstats: 2.0.2
+dbw: 1.1.4
 dbx: 0.3.2
 dc3net: 1.2.0
 dcGOR: 1.0.6
@@ -12924,7 +12932,7 @@ ecic: 0.0.3
 ecipex: '1.1'
 eclust: 0.1.0
 ecm: 7.2.0
-ecmwfr: 1.5.0
+ecmwfr: 2.0.0
 eco: 4.0-3
 ecoCopula: 1.0.2
 ecocbo: 0.12.0
@@ -13428,6 +13436,7 @@ evmix: '2.12'
 evoTS: 1.0.3
 evobiR: '1.1'
 evolMap: 1.2.33
+evola: 1.0.1
 evolqg: 0.3-4
 evolvability: 2.0.0
 evoper: 0.5.0
@@ -14266,7 +14275,7 @@ frequentistSSDBinary: 0.1.0
 freqweights: 1.0.4
 fresh: 0.2.1
 freshr: 1.0.2
-frictionless: 1.1.0
+frictionless: 1.2.0
 friends: 0.1.0
 frite: 0.1.0
 fritools: 4.3.0
@@ -14588,7 +14597,7 @@ gdor: 0.1-1
 gdpc: 1.1.4
 gds: 0.1.1
 gdsfmt: 1.1.0.1
-gdtools: 0.3.7
+gdtools: 0.4.0
 gdxdt: 0.1.0
 gear: 0.3.4
 gearman: 0.1-5
@@ -14919,7 +14928,7 @@ ggforce: 0.4.2
 ggformula: 0.12.0
 ggfortify: 0.4.17
 ggfoundry: 0.3.1
-ggfun: 0.1.5
+ggfun: 0.1.6
 ggfx: 1.0.1
 gggap: 1.0.1
 gggenes: 0.5.1
@@ -15012,7 +15021,7 @@ ggraph: 2.2.1
 ggraptR: '1.3'
 ggrasp: '1.2'
 ggrastr: 1.0.2
-ggrcs: 0.4.0
+ggrcs: 0.4.1
 ggredist: 0.0.2
 ggrepel: 0.9.5
 ggridges: 0.5.6
@@ -15097,7 +15106,7 @@ giniVarCI: 0.0.1-3
 ginormal: 0.0.2
 giphyr: 0.2.0
 gips: 1.2.1
-giscoR: 0.5.1
+giscoR: 0.6.0
 gistr: 0.9.0
 git2r: 0.33.0
 git2rdata: 0.4.0
@@ -15176,7 +15185,7 @@ glmnet: 4.1-8
 glmnetSE: 0.0.1
 glmnetUtils: 1.1.9
 glmnetcr: 1.0.6
-glmnetr: 0.5-2
+glmnetr: 0.5-3
 glmpath: '0.98'
 glmpathcr: 1.0.10
 glmpca: 0.2.0
@@ -15777,6 +15786,7 @@ heterometa: '0.3'
 heteromixgm: 2.0.2
 hetmeta: 0.1.0
 hetsurr: '1.0'
+hetsurrSurv: '1.0'
 hett: 0.3-3
 hettest: '1.0'
 hettreatreg: 0.1.0
@@ -16232,6 +16242,7 @@ identity: 0.2-1
 ideq: 0.1.4
 ider: 0.1.1
 idiogramFISH: 2.0.13
+idiolect: 1.0.1
 idm: 1.8.3
 idmTPreg: '1.1'
 idmact: 1.0.1
@@ -16697,7 +16708,7 @@ ivivc: 0.2.2
 ivlewbel: '1.1'
 ivmodel: 1.9.1
 ivmte: 1.4.0
-ivo.table: 0.4.1
+ivo.table: '0.5'
 ivpack: '1.2'
 ivpanel: '1.0'
 ivprobit: '1.1'
@@ -17678,7 +17689,7 @@ lsdv: '1.1'
 lsei: 1.3-0
 lsgl: 1.3.6
 lshorth: 0.1-6
-lsirm12pl: 1.3.2
+lsirm12pl: 1.3.3
 lsl: 0.5.6
 lslx: 0.6.11
 lsm: 0.2.1.4
@@ -18740,7 +18751,7 @@ mod: 0.1.3
 mod09nrt: '0.14'
 mod2rm: 0.2.1
 modACDC: 2.0.1
-modEvA: '3.17'
+modEvA: 3.18.2
 modMax: '1.1'
 modQR: 0.1.3
 modTempEff: 1.5.2
@@ -19193,7 +19204,7 @@ mvLSW: 1.2.5
 mvLSWimpute: 0.1.1
 mvMAPIT: 2.0.3
 mvMISE: '1.0'
-mvMORPH: 1.2.0
+mvMORPH: 1.2.1
 mvMonitoring: 0.2.4
 mvPot: 0.1.6
 mvProbit: 0.1-10
@@ -19465,6 +19476,7 @@ neuRosim: 0.2-14
 neural: 1.4.2.2
 neuralGAM: 1.1.1
 neuralnet: 1.44.2
+neuroUp: 0.3.1
 neurobase: 1.32.4
 neuroblastoma: 2023.9.3
 neurocInstall: 0.12.0
@@ -19678,7 +19690,7 @@ nonmem2R: 0.2.5
 nonmem2rx: 0.1.4
 nonmemica: 1.0.8
 nonneg.cg: 0.1.6-1
-nonnest2: 0.5-7
+nonnest2: 0.5-8
 nonpar: 1.0.2
 nonparaeff: 0.5-13
 nonparametric.bayes: 0.0.1
@@ -21226,7 +21238,7 @@ populationPDXdesign: 1.0.3
 poputils: 0.3.1
 porridge: 0.3.3
 port4me: 0.7.1
-portalr: 0.4.1
+portalr: 0.4.2
 portes: '6.0'
 portfolio: 0.5-3
 portfolio.optimization: 1.0-0
@@ -21701,7 +21713,7 @@ pysparklyr: 0.1.5
 pystr: 2.0.0
 pzfx: 0.3.0
 qAnalyst: 0.6.4
-qCBA: 0.5.1
+qCBA: '1.0'
 qGaussian: 0.1.8
 qLearn: '1.0'
 qMRI: 1.2.7.6
@@ -21859,7 +21871,7 @@ quantdates: 2.0.4
 quantdr: 1.2.2
 quanteda: 4.0.2
 quanteda.textmodels: 0.9.7
-quanteda.textplots: 0.94.4
+quanteda.textplots: '0.95'
 quanteda.textstats: 0.97.1
 quantification: 0.2.0
 quantileDA: '1.2'
@@ -22101,6 +22113,7 @@ rWCVP: 1.2.4
 rWMBAT: '2.0'
 rWind: 1.1.7
 rWishart: 0.1.2
+rYWAASB: '0.1'
 rYoutheria: 1.0.3
 ra4bayesmeta: 1.0-8
 rabhit: 0.2.5
@@ -23486,7 +23499,7 @@ rules: 1.0.2
 rumidas: 0.1.2
 ruminate: 0.2.4
 runDRT: 0.1.0
-runMCMCbtadjust: 1.1.1
+runMCMCbtadjust: 1.1.2
 runStat: '1.1'
 runcharter: 0.2.0
 runes: 0.1.0
@@ -23799,7 +23812,7 @@ scatteR: 0.0.1
 scatterD3: 1.0.1
 scatterPlotMatrix: 0.3.0
 scattermore: '1.2'
-scatterpie: 0.2.3
+scatterpie: 0.2.4
 scatterplot3d: 0.3-44
 scbursts: '1.6'
 sccca: 0.1.1
@@ -24005,7 +24018,7 @@ seleniumPipes: 0.3.7
 selfea: 1.0.1
 selfingTree: '0.2'
 selfmade: '0.1'
-sem: 3.1-15
+sem: 3.1-16
 semEff: 0.6.1
 semGOF: 0.2-0
 semPLS: 1.0-10
@@ -24049,7 +24062,7 @@ sense: 1.1.0
 sensemakr: 0.1.6
 sensiPhy: 0.8.5
 sensibo.sky: 1.0.0
-sensitivity: 1.30.0
+sensitivity: 1.30.1
 sensitivity2x2xk: '1.01'
 sensitivityCalibration: 0.0.1
 sensitivityPStrat: 1.0-6
@@ -26097,6 +26110,7 @@ tibbleOne: 0.1.1
 tibbletime: 0.1.8
 tibblify: 0.3.1
 tibbrConnector: 1.5.1
+tican: 1.0.1
 tictactoe: 0.2.2
 tictoc: 1.2.1
 tidier: 0.2.0
@@ -26836,13 +26850,13 @@ universals: 0.0.5
 unix: 1.5.8
 unjoin: 0.1.0
 unknownR: '0.4'
-unmarked: 1.4.1
+unmarked: 1.4.2
 unmconf: 0.1.0
 unnest: 0.0.5
 unpivotr: 0.6.3
 unrepx: 1.0-2
 unrtf: 1.4.5
-unstruwwel: 0.2.0
+unstruwwel: 0.2.1
 unsystation: 0.2.0
 untb: 1.7-7
 unusualprofile: 0.1.4
@@ -27035,7 +27049,7 @@ vectorbitops: 1.1.2
 vectorsurvR: 0.2.0
 vectorwavelet: 0.1.0
 vegalite: 0.6.1
-vegan: 2.6-6.1
+vegan: 2.6-8
 vegan3d: 1.3-0
 vegawidget: 0.5.0
 vegclust: 2.0.2
@@ -27074,7 +27088,7 @@ vglmer: 1.0.3
 vhcub: 1.0.0
 vhica: 0.2.8
 via: 0.2.0
-viafr: 0.3.0
+viafr: 0.3.1
 vici: 0.7.3
 video: 0.1.1
 vietnamcode: 0.1.1
@@ -27666,7 +27680,7 @@ ykmeans: '1.0'
 yll: 1.0.0
 ymd: 0.1.2
 ymlthis: 0.1.7
-ympes: 1.4.0
+ympes: 1.5.0
 yodel: 1.0.0
 yonder: 0.2.0
 yorkr: 0.0.42
