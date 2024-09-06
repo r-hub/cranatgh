@@ -72,6 +72,7 @@ AHSurv: 0.1.0
 AICcPermanova: 0.0.2
 AICcmodavg: 2.3-3
 AID: '2.9'
+AIFFtools: '1.0'
 AIG: 0.1.9
 AIGIS: 1.0-1
 AIM: '1.01'
@@ -885,7 +886,7 @@ CADStat: 3.0.8
 CAGExploreR: 1.0.2
 CAGR: 1.1.0
 CAISEr: 1.0.17
-CALANGO: 1.0.16
+CALANGO: 1.0.20
 CALF: 1.0.17
 CALIBERrfimpute: 1.0-7
 CALINE3: 1.0-2
@@ -1727,7 +1728,7 @@ DQAstats: 0.3.5
 DR.SC: '3.4'
 DRAFT: 0.3.0
 DRAYL: '1.0'
-DRDID: 1.0.7
+DRDID: 1.1.0
 DRDRtest: '0.1'
 DREGAR: 0.1.3.0
 DRHotNet: '2.3'
@@ -1818,7 +1819,7 @@ DatabaseConnector: 6.3.2
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 2.0.0
 Datasmith: 1.0-1
-DatastreamDSWS2R: 1.9.7
+DatastreamDSWS2R: 1.9.10
 DatastreamR: 2.0.4
 DateTimeRangePicker: 1.1.0
 Davies: 1.2-0
@@ -2605,7 +2606,7 @@ FormulR: 1.0.0
 Formula: 1.2-5
 FortranCallsR: '0.1'
 ForwardSearch: '1.0'
-FossilSim: 2.3.3
+FossilSim: 2.4.0
 FossilSimShiny: 1.1.2
 FourScores: 1.5.1
 FourWayHMM: 1.0.0
@@ -3009,7 +3010,7 @@ Ghat: 0.2.0
 GhcnDaily: '1.5'
 Ghost: 0.1.0
 GhostKnockoff: 0.1.0
-GiANT: 1.3.1
+GiANT: 1.3.4
 GiNA: 1.0.1
 GiRaF: 1.0.1
 GibbsACOV: '1.1'
@@ -3211,7 +3212,7 @@ HWEBayes: '1.4'
 HWEintrinsic: 1.2.3
 HWxtest: 1.1.9
 HYDROCAL: 1.0.0
-HYPEtools: 1.6.2
+HYPEtools: 1.6.3
 HYRISK: '1.2'
 HaDeX: 1.2.2
 HadIBDs: 1.0.1
@@ -3409,6 +3410,7 @@ IMak: 2.1.0
 IMmailgun: 0.1.2
 INCATome: '1.0'
 INDperform: 0.2.2
+INFOSET: 4.0.5
 INLABMA: 0.1-12
 INLAMSM: 0.2-3
 INLAjoint: 24.3.25
@@ -3724,7 +3726,7 @@ Keyboard: 0.1.3
 KeyboardSimulator: 2.6.2
 KinMixLite: 2.1.0
 KingCountyHouses: 0.1.0
-Kira: 1.0.5
+Kira: 1.0.6
 Kmedians: 2.2.0
 Kmisc: 0.5.0
 KnapsackSampling: 0.1.1
@@ -3987,7 +3989,7 @@ LoBrA: '1.0'
 LobsterCatch: 0.1.0
 LocFDRPois: 1.0.0
 LocKer: '1.1'
-LocaTT: 1.1.1
+LocaTT: 1.1.2
 LocalControl: 1.1.4
 LocalControlStrategy: '1.4'
 LocalCop: 0.0.1
@@ -5319,7 +5321,7 @@ PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 0.19-5
 PNADcIBGE: 0.7.5
-PNAR: '1.6'
+PNAR: '1.7'
 PNDSIBGE: 0.1.1
 PNSIBGE: 0.2.1
 PNWColors: 0.1.0
@@ -6365,7 +6367,7 @@ RTextureMetrics: '1.1'
 RTisean: 3.0.14
 RTransProb: 0.3.3
 RTransferEntropy: 0.2.21
-RTriangle: 1.6-0.13
+RTriangle: 1.6-0.14
 RUVIIIC: 1.0.19
 RUnit: 0.4.33
 RVA: 0.0.5
@@ -7569,7 +7571,7 @@ SlicedLHD: '1.0'
 SlidingWindows: 0.2.0
 SlimPLS: '0.3'
 SmCCNet: 2.0.3
-SmallCountRounding: 1.0.3
+SmallCountRounding: 1.0.5
 SmartEDA: 0.3.10
 SmartMeterAnalytics: 1.0.3
 SmartSVA: 0.1.3
@@ -7807,6 +7809,7 @@ SunsVoc: 0.1.2
 SunsetTSA: 1.0.0
 SunterSampling: 1.0.1
 SupMZ: 0.2.0
+SuperCell: '1.0'
 SuperExactTest: 1.1.0
 SuperGauss: 2.0.3
 SuperLearner: 2.0-29
@@ -11341,7 +11344,7 @@ conjurer: 1.7.1
 conleyreg: 0.1.7
 conmet: 0.1.0
 connect3: 0.1.0
-connectapi: 0.2.0
+connectapi: 0.3.0
 connectedness: 0.2.2
 connections: 0.2.0
 connectoModa: 1.0.0
@@ -11997,7 +12000,7 @@ datamap: 0.1-1
 datamaps: 0.0.3
 datamart: 0.5.2
 datamerge: 1.0.3
-datamods: 1.5.1
+datamods: 1.5.2
 datana: 1.0.4
 datanugget: 1.3.0
 dataonderivatives: 0.4.0
@@ -12905,6 +12908,7 @@ easyWechat: 0.2.0
 easyalluvial: 0.3.2
 easyanova: '10.0'
 easybgm: 0.1.2
+easybio: '1.0'
 easycensus: 1.1.1
 easyclimate: 0.2.1
 easycsv: 1.0.8
@@ -12996,6 +13000,7 @@ ecotraj: 0.1.1
 ecoval: 1.2.9
 ecp: 3.1.6
 ecpc: 3.1.1
+ecpdist: 0.2.1
 ecr: 2.1.1
 ectotemp: 0.2.0
 ed50: 0.1.1
@@ -14101,6 +14106,7 @@ flowTraceR: 0.1.0
 flowchart: 0.4.0
 flower: '1.0'
 flowfield: '1.0'
+flowmapblue: 0.0.2
 flowmapper: 0.1.1
 flowml: 0.1.3
 flowr: 0.9.11
@@ -14553,7 +14559,7 @@ garchmodels: 0.1.1
 garchx: '1.5'
 gargle: 1.5.2
 gargoyle: 0.0.1
-garma: 0.9.20
+garma: 0.9.22
 garray: 1.1.2
 gasanalyzer: 0.4.1
 gaselect: 1.0.22
@@ -14775,6 +14781,8 @@ geogrid: 0.1.2
 geohabnet: 2.1.3
 geohash: 0.3.0
 geohashTools: 0.3.3
+geoheatmap: 0.1.0
+geoidep: 0.1.0
 geojson: 0.3.5
 geojsonR: 1.1.1
 geojsonio: 0.11.3
@@ -14806,7 +14814,7 @@ geoparser: 0.1.2
 geoperu: 0.0.0.2
 geophys: 1.4-1
 georefdatar: 0.6.5
-georob: 0.3-19
+georob: 0.3-20
 geos: 0.2.4
 geosample: 0.2.1
 geosapi: 0.7-1
@@ -15106,6 +15114,7 @@ ggupset: 0.4.0
 ggvenn: 0.1.10
 ggversa: 0.0.1
 ggvis: 0.4.9
+ggvolcano: 0.1.3
 ggvoronoi: 0.8.5
 ggwordcloud: 0.6.2
 ggx: 0.1.1
@@ -15571,7 +15580,7 @@ gsrsb: 1.2.1
 gss: 2.2-7
 gsscopu: 0.9-3
 gstar: 0.1.0
-gstat: 2.1-1
+gstat: 2.1-2
 gstsm: 1.0.0
 gstudio: '1.3'
 gsubfn: '0.7'
@@ -15600,7 +15609,7 @@ gtranslate: 0.0.1
 gtreg: 0.4.0
 gtrendsR: 1.5.1
 gtsf: 0.1.0
-gtsummary: 2.0.1
+gtsummary: 2.0.2
 gtx: 0.0.8
 guaguas: 0.3.0
 guardianapi: 0.1.1
@@ -15733,6 +15742,7 @@ hcp: '0.1'
 hctrial: 0.1.0
 hdImpute: 0.2.1
 hda: 0.2-14
+hdar: 1.0.0
 hdbayes: 0.1.1
 hdbinseg: 1.0.2
 hdbm: 0.9.0
@@ -15754,7 +15764,7 @@ hdlm: 1.3.1
 hdm: 0.3.2
 hdme: 0.6.0
 hdmed: 1.0.1
-hdnom: 6.0.3
+hdnom: 6.0.4
 hdpGLM: 1.0.3
 hdpca: 1.1.5
 hdqr: 1.0.0
@@ -16031,7 +16041,7 @@ htrSPRanalysis: 0.1.0
 htree: 2.0.0
 hts: 6.0.3
 htsr: 2.1.6
-httk: 2.3.1
+httk: 2.4.0
 httpRequest: 0.0.11
 httpcache: 1.2.0
 httpcode: 0.3.0
@@ -16047,7 +16057,7 @@ hubeau: 0.5.0
 hudr: 1.2.0
 hues: 0.2.0
 huge: 1.3.5
-huito: 0.2.4
+huito: 0.2.5
 humanFormat: '1.2'
 humaniformat: 0.6.0
 humanize: 0.2.0
@@ -16189,6 +16199,7 @@ iScreen: '1.0'
 iSubGen: 1.0.1
 iSubpathwayMiner: '3.0'
 iTOP: 1.0.2
+iTOS: 1.0.3
 iTensor: 1.0.2
 iWISA: 1.0-2
 iWebPlots: 1.0-1
@@ -16954,7 +16965,7 @@ kerDAA: 0.1.1
 kerSeg: '1.1'
 kerTests: 0.1.4
 keras: 2.15.0
-keras3: 1.1.0
+keras3: 1.2.0
 kerasR: 0.8.1
 kerasformula: 1.5.1
 kerastuneR: 0.1.0.7
@@ -17507,7 +17518,7 @@ littler: 0.3.20
 liureg: 1.1.2
 live: 1.5.13
 livechatR: 0.1.0
-liver: '1.15'
+liver: '1.16'
 ljr: 1.4-0
 llama: 0.10.1
 llbayesireg: 1.0.0
@@ -17664,7 +17675,7 @@ longitudinalcascade: 0.3.2.6
 longke: 0.1.0
 longmemo: 1.1-3
 longmixr: 1.0.0
-longpower: 1.0.26
+longpower: 1.0.27
 longreadvqs: 0.1.3
 longsurr: '1.0'
 longurl: 0.3.3
@@ -18745,6 +18756,7 @@ mmeta: 3.0.0
 mmetrics: 0.3.0
 mmiCATs: 0.2.0
 mmibain: 0.2.0
+mmints: 0.1.0
 mmirestriktor: 0.3.1
 mmlcr: 1.3.5
 mmm: '1.4'
@@ -19929,7 +19941,7 @@ obsSens: '1.4'
 observer: 0.1.2
 oc: 1.2.1
 occ: '1.2'
-occCite: 0.5.7
+occCite: 0.5.8
 occTest: 0.1.1
 occUncertain: 0.1.0
 occumb: 1.1.0
@@ -20147,7 +20159,7 @@ opticut: 0.1-3
 optifunset: '1.0'
 optigrab: 0.9.2.1
 optim.functions: '0.1'
-optimCheck: '1.0'
+optimCheck: 1.0.1
 optimLanduse: 1.2.1
 optimParallel: 1.0-2
 optimStrat: '2.4'
@@ -20244,7 +20256,7 @@ osfr: 0.2.9
 oshka: 0.1.2
 osi: 0.1.0
 oskeyring: 0.1.6
-osmapiR: 0.1.0
+osmapiR: 0.2.1
 osmar: 1.1-7
 osmclass: 0.1.3
 osmdata: 0.2.5
@@ -20638,6 +20650,7 @@ pcts: 0.15.7
 pcurve: 0.6-4
 pcutils: 0.2.6
 pcv: 1.1.0
+pcvr: 1.0.0
 pdR: 1.9.3
 pdSpecEst: 1.2.4
 pda: 1.2.7
@@ -22806,7 +22819,7 @@ resumer: 0.0.5
 retel: 0.1.0
 rethinker: 1.1.0
 rethnicity: 0.2.5
-reticulate: 1.38.0
+reticulate: 1.39.0
 retimes: 0.1-2
 retistruct: 0.6.3
 retractcheck: 1.0.0
@@ -23914,7 +23927,7 @@ scorematchingad: 0.0.67
 scorepeak: 0.1.2
 scorer: 0.2.0
 scoring: '0.6'
-scoringRules: 1.1.1
+scoringRules: 1.1.2
 scoringTools: 0.1.3
 scoringfunctions: 0.0.6
 scoringutils: 1.2.2
@@ -24024,7 +24037,7 @@ see: 0.8.5
 seeclickfixr: 1.1.0
 seecolor: 0.2.0
 seedCCA: '3.1'
-seededlda: 1.3.2
+seededlda: 1.4.0
 seedr: 0.3.0
 seedreg: 1.0.3
 seeds: 0.9.1
@@ -24043,7 +24056,7 @@ segclust2d: 0.3.3
 segen: 1.1.0
 segmag: 1.2.4
 segmenTier: 0.1.2
-segmented: 2.1-1
+segmented: 2.1-2
 segmentr: 0.2.0
 segmetric: 0.3.0
 segregation: 1.1.0
@@ -24995,7 +25008,7 @@ spatialwarnings: 3.0.3
 spatialwidget: 0.2.5
 spatsoc: 0.2.2
 spatstat: 3.1-1
-spatstat.Knet: 3.1-0
+spatstat.Knet: 3.1-2
 spatstat.core: 2.4-4
 spatstat.data: 3.1-2
 spatstat.explore: 3.3-2
@@ -25006,7 +25019,7 @@ spatstat.local: 5.1-0
 spatstat.model: 3.3-1
 spatstat.random: 3.3-1
 spatstat.sparse: 3.1-0
-spatstat.univar: 3.0-0
+spatstat.univar: 3.0-1
 spatstat.utils: 3.1-0
 spatsurv: 2.0-1
 spbabel: 0.6.0
@@ -25267,6 +25280,7 @@ sssc: 1.0.0
 sstModel: 1.0.0
 sstvars: 1.0.1
 ssvd: '1.0'
+ssw: 0.2.0
 ssym: 1.5.8
 st: 1.2.7
 stR: '0.7'
@@ -25868,7 +25882,7 @@ tabplotd3: 0.3.3
 tabr: 0.5.0
 tabshiftr: 0.4.1
 tabuSearch: 1.1.1
-tabula: 3.1.0
+tabula: 3.1.1
 tabulapdf: 1.0.5-3
 tabularMLC: 0.0.3
 tabularaster: 0.7.2
@@ -26791,6 +26805,7 @@ twitterwidget: 0.1.1
 twl: '1.0'
 twn: 0.2.4
 two.stage.boot: '1.0'
+twoStageDesignTMLE: '1.0'
 twoStageGwasPower: 0.99.0
 twopartm: 0.1.0
 twopartqtl: '1.0'
@@ -27531,7 +27546,7 @@ wordcloud: '2.6'
 wordcloud2: 0.2.1
 wordgraph: 0.1.0
 wordler: 0.3.1
-wordmap: 0.8.0
+wordmap: 0.9.0
 wordmatch: '1.0'
 wordnet: 0.1-17
 wordpiece: 2.1.3
