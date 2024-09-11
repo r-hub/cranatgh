@@ -175,6 +175,7 @@ AST: 0.1.0
 ASV: 1.1.4
 ATAforecasting: 0.0.60
 ATE: 0.2.0
+ATE.ERROR: 1.0.0
 ATNr: 1.1.0
 ATQ: 0.2.3
 ATR: 0.1-1
@@ -340,7 +341,7 @@ AugmenterR: 0.1.0
 AurieLSHGaussian: 0.2.0
 AustralianPoliticians: 0.1.0
 AutoAds: 0.1.0
-AutoDeskR: 0.1.3
+AutoDeskR: 0.1.5
 AutoModel: 0.4.9
 AutoPipe: 0.1.6
 AutoPlots: 1.0.0
@@ -971,7 +972,7 @@ CFAcoop: 1.0.0
 CFC: 1.2.0
 CFF: '1.0'
 CFL: '0.1'
-CFO: 1.3.1
+CFO: 2.0.0
 CFilt: 0.2.1
 CFtime: 1.4.0
 CGE: 0.3.3
@@ -1141,6 +1142,7 @@ CTM: '0.2'
 CTNote: 0.1.0
 CTP: 3.0.1
 CTRE: 0.1.0
+CTRing: 0.1.0
 CTShiny: 0.1.0
 CTShiny2: 0.1.0
 CTT: 2.3.3
@@ -1426,7 +1428,7 @@ ConsensusOPLS: 1.0.0
 ContRespPP: 0.4.2
 Containers: '1.2'
 ContaminatedMixt: 1.3.8
-ContourFunctions: 0.1.1
+ContourFunctions: 0.1.2
 ConvCalendar: '1.2'
 ConvergenceClubs: 2.2.5
 ConvergenceConcepts: 1.2.3
@@ -1980,7 +1982,7 @@ DriftBurstHypothesis: 0.4.0.1
 DrillR: '0.1'
 DriveML: 0.1.5
 DrugClust: '0.2'
-DrugExposureDiagnostics: 1.0.7
+DrugExposureDiagnostics: 1.0.8
 DrugSim2DR: 0.1.1
 DrugUtilisation: 0.7.1
 DstarM: 0.4.0
@@ -2081,6 +2083,7 @@ EMAR: 1.0.0
 EMAS: 0.2.2
 EMAtools: 0.1.4
 EMC: '1.3'
+EMC2: 2.0.2
 EMCC: '1.3'
 EMCluster: 0.2-16
 EMD: 1.5.9
@@ -2245,7 +2248,7 @@ EnvStats: 3.0.0
 EnviroPRA: '1.0'
 EnviroPRA2: 1.0.1
 EnviroStat: 0.4-2
-Epi: '2.53'
+Epi: '2.55'
 EpiBayes: 0.1.2
 EpiContactTrace: 0.17.0
 EpiCurve: 2.4-2
@@ -3585,7 +3588,7 @@ Isinglandr: 0.1.1
 Iso: 0.0-21
 IsoCI: '1.1'
 IsoCheck: 0.1.0
-IsoCor: 0.1.40
+IsoCor: 0.2.8
 IsoCorr: '1.0'
 IsoGene: 1.0-24
 IsoMemo: 23.10.1
@@ -3808,7 +3811,7 @@ LGDtoolkit: 0.2.0
 LGEWIS: '1.1'
 LGRF: '1.0'
 LGS: '0.91'
-LHD: 1.3.3
+LHD: 1.4.0
 LIC: 0.0.2
 LICORS: 0.2.0
 LICurvature: 0.1.1
@@ -4244,7 +4247,7 @@ MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
 MLDS: 0.5.1
 MLDataR: 1.0.1
-MLE: '1.0'
+MLE: '1.1'
 MLEP: 0.0-3
 MLEce: 2.1.0
 MLEcens: 0.1-7
@@ -6621,7 +6624,7 @@ RcppRoll: 0.3.1
 RcppSMC: 0.2.7
 RcppShark: 3.1.1
 RcppSimdJson: 0.1.12
-RcppSpdlog: 0.0.17
+RcppSpdlog: 0.0.18
 RcppStreams: 0.1.3
 RcppTN: 0.2-2
 RcppTOML: 0.2.2
@@ -7499,7 +7502,7 @@ ShortForm: 0.5.5
 ShrinkCovMat: 1.4.0
 Shrinkage: '1.0'
 SiER: 0.1.0
-SiMRiv: 1.0.6
+SiMRiv: 1.0.7
 SiPhyNetwork: 1.1.0
 SiZer: 0.1-8
 Sie2nts: 0.1.0
@@ -8051,6 +8054,7 @@ TTmoment: '1.0'
 TUFLOWR: 0.1.1
 TULIP: 1.0.2
 TUWmodel: 1.1-1
+TUvalues: 0.1.0
 TVMM: 3.2.1
 TVsMiss: 0.1.1
 TWIX: 0.2.19
@@ -8099,7 +8103,7 @@ TensorPreAve: 1.1.0
 TensorTest2D: 1.1.2
 Ternary: 2.3.3
 TesiproV: 0.9.2
-TestAnaAPP: 1.0.1
+TestAnaAPP: 1.1.1
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
 TestDesign: 1.7.0
@@ -8263,7 +8267,7 @@ UComp: 5.0.4
 UEI: 0.1.0
 UHM: 0.3.0
 UKB.COVID19: 0.1.6
-UKFE: 0.3.5
+UKFE: 0.3.6
 UKgrid: 0.1.3
 UMR: 1.1.0
 UNCLES: '2.0'
@@ -8555,7 +8559,7 @@ WordListsAnalytics: 0.2.4
 WordOfMouth: 1.1.0
 WordPools: 1.2.0
 WordR: 0.3.6
-WorldFlora: 1.14-4
+WorldFlora: 1.14-5
 WorldMapR: 0.1.1
 WormTensor: 0.1.1
 WpProj: 0.2.1
@@ -10181,8 +10185,8 @@ boundingbox: 1.0.1
 boussinesq: 1.0.6
 boutliers: 1.1-2
 box: 1.2.0
-box.linters: 0.10.4
-box.lsp: 0.1.0
+box.linters: 0.10.5
+box.lsp: 0.1.1
 boxcoxmix: '0.46'
 boxfilter: '0.2'
 boxly: 0.1.1
@@ -10737,6 +10741,7 @@ changepointsHD: 0.3.3
 changepointsVar: 0.1.1
 changer: 0.0.5
 chantrics: 1.0.0
+charcuterie: 0.0.3
 charlatan: 0.5.1
 charlesschwabapi: 1.0.2
 charlson: '1.0'
@@ -13282,7 +13287,7 @@ epiflows: 0.2.1
 epigraphdb: 0.2.3
 epigrowthfit: 0.15.3
 epikit: 0.1.6
-epilogi: '1.0'
+epilogi: '1.1'
 epimdr: 0.6-5
 epimdr2: 1.0-9
 epinet: 2.1.11
@@ -14199,6 +14204,7 @@ forestHES: 1.0-1
 forestRK: 0.0-5
 forestSAS: 1.0.1
 forestat: 1.1.0
+forestdata: 0.1.0
 forestecology: 0.2.0
 forested: 0.1.0
 forestinventory: 1.0.0
@@ -14631,7 +14637,7 @@ gdim: 0.1.0
 gdimap: 0.1-9
 gdistance: 1.6.4
 gdldata: '0.1'
-gdm: 1.5.0-9.1
+gdm: 1.6.0-1
 gdmp: 0.2.0
 gdns: 0.5.0
 gdor: 0.1-1
@@ -14964,6 +14970,7 @@ ggetho: 0.3.7
 ggfacto: 0.3.1
 ggfan: 0.1.3
 ggfields: 0.0.6
+ggfigdone: 0.1.2
 ggfittext: 0.10.2
 ggfixest: 0.1.0
 ggflowchart: 1.0.0
@@ -15372,7 +15379,7 @@ govdown: 0.10.1
 governor: 0.1.3
 govinfoR: 0.0.3
 gower: 1.0.1
-goweragreement: '1.0'
+goweragreement: 1.0-1
 goxygen: 1.0.3
 gp: '1.1'
 gpDDE: 0.8.2
@@ -15923,7 +15930,7 @@ hisemi: 1.1-0
 hisse: 2.1.11
 histmdl: 0.7-1
 histogram: 0.0-25
-historicalborrow: 1.0.4
+historicalborrow: 1.1.0
 historicalborrowlong: 0.0.8
 historydata: '0.1'
 histoslider: 0.1.1
@@ -15946,6 +15953,7 @@ hmeasure: 1.0-2
 hmer: 1.6.0
 hmgm: 1.0.3
 hmi: 1.0.0
+hmix: 1.0.2
 hmlasso: 0.0.1
 hmm.discnp: 3.0-9
 hmmTMB: 1.0.2
@@ -16549,6 +16557,7 @@ interactivity: '0.2'
 interca: 0.1.2
 intercure: 0.1.0
 interep: 0.4.1
+interface: 0.1.2
 interfacer: 0.2.3
 interferenceCI: '1.1'
 interflex: 1.2.6
@@ -16719,6 +16728,7 @@ ispdata: 1.1.2
 isqg: '1.4'
 issueReporter: 0.1.0
 istacr: 0.2.2
+istat: '1.0'
 isva: '1.9'
 italy: 0.1.0
 itan: 3.1.1
@@ -17777,6 +17787,7 @@ lucid: '1.8'
 lucr: 0.2.0
 ludic: 0.2.0
 lue: 0.2.1
+lulab.utils: 0.0.2
 lulcc: 1.0.4
 lumberjack: 1.3.1
 lumendb: 0.2.2
@@ -18722,7 +18733,7 @@ mlr3spatiotempcv: 2.3.1
 mlr3summary: 0.1.0
 mlr3superlearner: 0.1.1
 mlr3torch: 0.1.0
-mlr3tuning: 1.0.0
+mlr3tuning: 1.0.1
 mlr3tuningspaces: 0.5.1
 mlr3verse: 0.3.0
 mlr3viz: 0.9.0
@@ -18971,6 +18982,7 @@ mp: 0.4.1
 mpMap: '1.14'
 mpMap2: 1.0.4
 mpa: 0.7.3
+mpactr: 0.1.0
 mpae: 0.1.2
 mpath: 0.4-2.26
 mpathsenser: 1.2.3
@@ -20298,6 +20310,7 @@ outlierensembles: 0.1.0
 outliers: '0.15'
 outliers.ts.oga: 0.0.1
 outliertree: 1.10.0
+outqrf: 1.0.0
 outreg: 0.2.2
 outsider: 0.1.1
 outsider.base: 0.1.4
@@ -20402,7 +20415,7 @@ palasso: 0.0.9
 pald: 0.0.4
 paleoDiv: 0.3.0
 paleoMAS: 2.0-1
-paleoTS: 0.6.1
+paleoTS: 0.6.2
 paleoTSalt: 0.1-1
 paleobioDB: 1.0.0
 paleobuddy: 1.0.0
@@ -21684,7 +21697,7 @@ psychmeta: 2.7.0
 psychmetadata: 1.0.0
 psycho: 0.6.1
 psychometric: '2.4'
-psychomix: 1.1-8
+psychomix: 1.1-9
 psychonetrics: '0.13'
 psychotools: 0.7-4
 psychotree: 0.16-1
@@ -22562,6 +22575,7 @@ realTimeloads: 1.0.0
 realestateDK: 0.1.0
 realized: 1.0.1
 realtest: 0.2.3
+ream: 1.0-1
 reams: '0.1'
 reappraised: 0.1.1
 rearrr: 0.3.4
@@ -22943,7 +22957,7 @@ rhandsontable: 0.3.8
 rhcoclust: 2.0.0
 rheroicons: 1.0.0
 rhierbaps: 1.1.4
-rhino: 1.9.0
+rhino: 1.10.0
 rhli: 0.0.2
 rhmc: 1.0.0
 rhmmer: 0.1.0
@@ -26655,7 +26669,7 @@ triplot: 1.3.0
 tripsAndDipR: 0.1.0
 triptych: 0.1.3
 triversity: '1.0'
-troopdata: 1.0.1
+troopdata: 1.0.2
 tropAlgebra: 0.1.1
 tropicalSparse: 0.1.0
 tropr: 0.1.2
@@ -26895,6 +26909,7 @@ unglue: 0.1.0
 ungroup: 1.4.4
 unhcrthemes: 0.6.2
 unheadr: 0.4.0
+uni.shrinkage: 1.0.0
 uni.survival.tree: '1.5'
 uniCox: '1.0'
 uniPlot: 0.3-1
@@ -27253,7 +27268,7 @@ volatilityTrader: 1.0.1
 volcano3D: 2.0.9
 volcanoPlot: 1.0.0
 volesti: 1.1.2-7
-volker: 2.0.1
+volker: 2.1.0
 volleystat: 0.2.0
 voluModel: 0.2.2
 voronoi: '1.1'
