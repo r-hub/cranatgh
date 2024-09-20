@@ -1727,7 +1727,7 @@ DPQ: 0.5-9
 DPQmpfr: 0.3-3
 DPTM: 1.5.0
 DPWeibull: '1.8'
-DPpack: 0.1.0
+DPpack: 0.2.0
 DPpackage: 1.1-7.4
 DPtree: 1.0.1
 DPw: 1.1.3
@@ -2237,6 +2237,7 @@ EncompassTest: '0.22'
 EnergyOnlineCPM: '1.0'
 EngrEcon: 1.0.0
 EngrExpt: 0.1-8
+EnrichDO: 0.1-1
 EnrichIntersect: '0.7'
 EnsCat: '1.1'
 EnsembleBase: 1.0.2
@@ -2777,7 +2778,7 @@ GIGrvg: '0.8'
 GIMMEgVAR: 0.1.0
 GISINTEGRATION: '1.0'
 GISSB: '1.1'
-GISTools: 1.0-0
+GISTools: 1.0-1
 GInSARCorW: 1.15.8
 GIplot: 0.1.0
 GJRM: 0.2-6.5
@@ -5422,6 +5423,7 @@ PSF: '0.5'
 PSGD: 1.0.3
 PSGExpress: 3.1.3
 PSGoft: 0.0.1
+PSIM: 0.1.0
 PSIMEX: '1.1'
 PSIndependenceTest: 0.0.1
 PSLM2015: 0.2.0
@@ -5435,7 +5437,7 @@ PST: 0.94.1
 PSTR: 1.2.4
 PSW: 1.1-3
 PScr: '1.1'
-PSinference: 0.2.0
+PSinference: 0.2.1
 PStrata: 0.0.5
 PSweight: 1.2.0
 PTAk: 2.0.0
@@ -6363,6 +6365,7 @@ RSofia: '1.1'
 RSpectra: 0.16-2
 RSpincalc: 1.0.2
 RSqlParser: '1.5'
+RSquaredMI: 0.1.1
 RStackExchange: 0.1.2
 RStars: '1.0'
 RStata: 1.1.1
@@ -6724,6 +6727,7 @@ Relatedness: '2.0'
 RelativeRisk: 1.1-1
 Relectoral: 0.1.0
 Relexon: 0.2.1
+ReliaGrowR: 0.1.0
 Reliability: 0.0-2
 ReliabilityTheory: 0.3.0
 RelimpPCR: 0.3.0
@@ -6757,7 +6761,7 @@ ResourceSelection: 0.3-6
 RespirAnalyzer: 1.0.2
 RestRserve: 1.2.3
 RestoreNet: 1.0.1
-ResultModelManager: 0.5.10
+ResultModelManager: 0.5.11
 ReturnCurves: '1.0'
 RevEcoR: 0.99.3
 RevGadgets: 1.2.1
@@ -10218,7 +10222,7 @@ boussinesq: 1.0.6
 boutliers: 1.1-2
 box: 1.2.0
 box.linters: 0.10.5
-box.lsp: 0.1.2
+box.lsp: 0.1.3
 boxcoxmix: '0.46'
 boxfilter: '0.2'
 boxly: 0.1.1
@@ -11993,7 +11997,7 @@ daqapo: 0.3.2
 darch: 0.12.0
 darksky: 1.3.0
 dartR: 2.9.7
-dartR.base: '0.65'
+dartR.base: '0.98'
 dartR.captive: '0.75'
 dartR.data: 1.0.8
 dartR.popgen: 1.0.0
@@ -14841,7 +14845,7 @@ geohabnet: 2.1.3
 geohash: 0.3.0
 geohashTools: 0.3.3
 geoheatmap: 0.1.0
-geoidep: 0.1.0
+geoidep: 0.2.0
 geojson: 0.3.5
 geojsonR: 1.1.1
 geojsonio: 0.11.3
@@ -15655,6 +15659,7 @@ gtWAS: 1.1.0
 gtable: 0.3.5
 gtcorr: 0.2-1
 gte: 1.2-3
+gtexr: 0.1.0
 gtexture: 1.0.0
 gtfs2emis: 0.1.0
 gtfs2gps: 2.1-1
@@ -15756,7 +15761,7 @@ hansard: 0.8.0
 hapassoc: 1.2-9
 haplo.ccs: 1.3.2
 haplo.score: 1.0.2
-haplo.stats: 1.9.5.1
+haplo.stats: 1.9.7
 haploR: 4.0.7
 haploReconstruct: 0.1.2
 haplotyper: '0.1'
@@ -20262,7 +20267,7 @@ optionstrat: 1.4.1
 optiscale: 1.2.3
 optismixture: '0.1'
 optistock: 0.0.2
-optmatch: 0.10.7
+optmatch: 0.10.8
 optparse: 1.7.5
 optpart: 3.0-3
 optrcdmaeAT: 1.0.0
@@ -21265,7 +21270,7 @@ pocketapi: '0.1'
 pocrm: '0.13'
 podcleaner: 0.1.2
 podr: 0.0.5
-poems: 1.1.0
+poems: 1.3.1
 pogit: 1.3.0
 poibin: '1.6'
 poilog: 0.4.2
@@ -24017,6 +24022,7 @@ scopr: 0.3.4
 score: 1.0.2
 scorecard: 0.4.4
 scorecardModelUtils: 0.0.1.0
+scoredec: 0.1.0
 scorematchingad: 0.0.67
 scorepeak: 0.1.2
 scorer: 0.2.0
@@ -25114,7 +25120,7 @@ spatstat.geom: 3.3-3
 spatstat.gui: 3.1-0
 spatstat.linnet: 3.2-1
 spatstat.local: 5.1-0
-spatstat.model: 3.3-1
+spatstat.model: 3.3-2
 spatstat.random: 3.3-2
 spatstat.sparse: 3.1-0
 spatstat.univar: 3.0-1
@@ -25240,7 +25246,7 @@ splot: 0.5.4
 spls: 2.2-3
 splus2R: 1.3-5
 splusTimeDate: 2.5.8
-splusTimeSeries: 1.5.5
+splusTimeSeries: 1.5.7
 splutil: 2022.6.20
 spm: 1.2.2
 spm12r: 2.8.3
@@ -25355,7 +25361,7 @@ ssev: 0.1.0
 ssfa: 1.2.2
 ssfit: '1.2'
 ssgraph: '1.15'
-ssh: 0.9.2
+ssh: 0.9.3
 ssh.utils: '1.0'
 sship: 0.9.0
 ssifs: 1.0.2
@@ -25431,7 +25437,7 @@ stars: 0.6-6
 starsExtra: 0.2.8
 starsTileServer: 0.1.1
 starschemar: 1.2.5
-startR: 2.3.1
+startR: 2.4.0
 starter: 0.1.15
 starticles: 0.1.0
 startup: 0.22.0
@@ -25466,6 +25472,7 @@ statgenMPP: 1.0.2
 statgenQTLxT: 1.0.2
 statgenSTA: 1.0.13
 static: 0.1.0
+staticryptR: 0.1.0
 stationaRy: 0.5.1
 stationery: '1.1'
 statip: 0.2.3
@@ -27117,7 +27124,7 @@ vaRiskScore: 1.1.0
 vabayelMix: '0.3'
 vaccine: 1.2.1
 vacem: 0.1-1
-vachette: 0.40.0
+vachette: 0.40.1
 vacuum: 0.1.0
 vader: 0.2.1
 vaersNDvax: 1.0.4
