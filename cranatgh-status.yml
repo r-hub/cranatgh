@@ -246,7 +246,7 @@ AirExposure: '1.0'
 AirMonitor: 0.4.0
 AirSensor: 1.0.8
 Ake: 1.0.1
-AlgDesign: 1.2.1
+AlgDesign: 1.2.1.1
 AlgebraicHaploPackage: '1.2'
 AlignStat: 1.3.1
 AllMetrics: 0.2.1
@@ -1662,7 +1662,7 @@ DICOM: '0.13'
 DICOMread: 0.0.0.3
 DIDHAD: 1.0.1
 DIDmultiplegt: 2.0.0
-DIDmultiplegtDYN: 1.0.15
+DIDmultiplegtDYN: 2.0.0
 DIFM: '1.0'
 DIFboost: '0.3'
 DIFlasso: 1.0-4
@@ -2951,7 +2951,7 @@ GenHMM1d: 0.1.0
 GenKern: 1.2-60
 GenMarkov: 0.2.0
 GenOrd: 1.4.0
-GenSA: 1.1.14
+GenSA: 1.1.14.1
 GenTag: '1.0'
 GenTwoArmsTrialSize: 0.0.5
 GenWin: '1.0'
@@ -4263,7 +4263,7 @@ MLDataR: 1.0.1
 MLE: '1.1'
 MLEP: 0.0-3
 MLEce: 2.1.0
-MLEcens: 0.1-7
+MLEcens: 0.1-7.1
 MLFS: 0.4.2
 MLGL: 1.0.0
 MLGdata: 0.1.0
@@ -6984,7 +6984,7 @@ Rtwalk: 1.8.0
 Rtwobitlib: 0.3.6
 Ruchardet: 0.0-3.1
 Runiversal: 1.0.2
-Runuran: '0.38'
+Runuran: '0.39'
 RunuranGUI: '0.3'
 Rvcg: '0.24'
 Rveg: 0.1.5
@@ -8888,7 +8888,7 @@ afdx: 1.1.1
 afex: 1.4-1
 affinity: 0.2.5
 affinitymatrix: 0.1.0
-affluenceIndex: '2.1'
+affluenceIndex: '2.2'
 afmToolkit: 0.0.1
 afmtools: 0.1.8
 afpt: 1.1.0.4
@@ -9036,7 +9036,7 @@ amVennDiagram5: 1.0.0
 amadeus: 1.0.7
 amanida: 0.3.0
 amanpg: 0.3.4
-amap: 0.8-19
+amap: 0.8-19.1
 amapGeocode: 0.6.0
 amapro: 0.1.3
 amazonadsR: 0.1.0
@@ -9071,7 +9071,7 @@ anabel: 3.0.1
 anacor: 1.1-4
 anaglyph: 0.1-1
 analogsea: 1.0.7.2
-analogue: 0.17-6
+analogue: 0.17-7
 analogueExtra: 0.1-1
 analysisPipelines: 1.0.2
 analytics: '3.0'
@@ -11089,7 +11089,7 @@ cmR: '1.1'
 cmaRs: 0.1.3
 cmaes: 1.0-12
 cmaesr: 1.0.3
-cmahalanobis: 0.4.0
+cmahalanobis: 0.4.1
 cmbClust: 0.0.1
 cmcR: 0.1.11
 cmce: 0.1.0
@@ -11313,6 +11313,7 @@ complexlm: 1.1.2
 complexplus: '2.1'
 complmrob: 0.7.0
 compoisson: '0.3'
+compositeReliabilityInNestedDesigns: 1.0.4
 compositions: 2.0-8
 compositionsGUI: '1.0'
 composits: 0.1.1
@@ -11632,7 +11633,7 @@ cpgen: '0.1'
 cpi: 0.1.4
 cpk: 1.3-1
 cplexAPI: 1.4.0
-cplm: 0.7-12
+cplm: 0.7-12.1
 cplots: 0.5-0
 cpm: '2.3'
 cpmBigData: 0.0.1
@@ -12602,7 +12603,7 @@ dkanr: 0.1.3
 dlbayes: 0.1.0
 dlib: 1.0.3.1
 dlim: 0.1.0
-dlm: 1.1-6
+dlm: 1.1-6.1
 dlmap: '1.13'
 dlmodeler: 1.4-2
 dlmtree: 1.0.0
@@ -13505,7 +13506,7 @@ evaluator: 0.4.3
 evapoRe: 1.0.0
 evclass: 2.0.2
 evclust: 2.0.3
-evd: 2.3-7
+evd: 2.3-7.1
 evdbayes: 1.1-3
 event: 1.1.1
 event.chart: '2.0'
@@ -15814,7 +15815,7 @@ hcp: '0.1'
 hctrial: 0.1.0
 hdImpute: 0.2.1
 hda: 0.2-14
-hdar: 1.0.0
+hdar: 1.0.1
 hdbayes: 0.1.1
 hdbinseg: 1.0.2
 hdbm: 0.9.0
@@ -17030,7 +17031,7 @@ kdensity: 1.1.0
 kdetrees: 0.1.5
 kdevine: 0.4.5
 kdist: '0.2'
-kdml: 1.0.0
+kdml: 1.1.0
 kdpee: 1.0.0
 kdry: 0.0.2
 kdtools: 0.6.0
@@ -20120,7 +20121,7 @@ omicsTools: 1.0.5
 omicwas: 0.8.0
 omnibus: 1.2.14
 omock: 0.3.0
-omopgenerics: 0.3.0
+omopgenerics: 0.3.1
 omopr: '0.2'
 ompr: 1.0.4
 ompr.roi: 1.0.2
@@ -20363,7 +20364,7 @@ osrm: 4.2.0
 osrmr: 0.1.36
 osum: 0.1.0
 ot: 0.2.0
-otargen: 1.1.1
+otargen: 1.1.5
 otinference: 0.1.0
 otp: 0.1.1
 otpr: 0.5.1
@@ -21652,7 +21653,7 @@ profileR: 0.3-5
 profilr: 0.1.0
 profiplots: 0.2.3
 profmem: 0.6.0
-profoc: 1.3.2
+profoc: 1.3.3
 profr: 0.3.3
 profrep: 1.0.0
 proftools: 0.99-3
@@ -27334,7 +27335,7 @@ visreg: 2.7.0
 vistime: 1.2.4
 vistla: 2.0.2
 vistributions: 0.1.2
-visualFields: 1.0.1
+visualFields: 1.0.5
 visualR: 2.0.2
 visualizationTools: 0.2.05
 visualize: 4.5.0
@@ -27850,7 +27851,7 @@ xyloplot: '2.0'
 xyz: '0.2'
 yCrypticRNAs: 0.99.2
 yaConsensus: '1.0'
-yaImpute: 1.0-34
+yaImpute: 1.0-34.1
 yacca: 1.4-2
 yager: 0.1.1
 yahoofinancer: 0.3.0
