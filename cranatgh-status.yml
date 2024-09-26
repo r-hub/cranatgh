@@ -1339,7 +1339,7 @@ CodelistGenerator: 3.2.0
 CohensdpLibrary: 0.5.11
 CohortAlgebra: 0.3.0
 CohortCharacteristics: 0.2.2
-CohortConstructor: 0.2.2
+CohortConstructor: 0.3.0
 CohortExplorer: 0.1.0
 CohortGenerator: 0.11.1
 CohortPlat: 1.0.5
@@ -1874,7 +1874,7 @@ Depela: '0.0'
 DependencyReviewer: 1.2.3
 DepthProc: 2.1.5
 Deriv: 4.1.6
-DescTools: 0.99.56
+DescTools: 0.99.57
 DescToolsAddIns: '1.11'
 DescrTab2: 2.1.16
 DescribeDF: 0.2.1
@@ -1991,7 +1991,7 @@ DriftBurstHypothesis: 0.4.0.1
 DrillR: '0.1'
 DriveML: 0.1.5
 DrugClust: '0.2'
-DrugExposureDiagnostics: 1.0.8
+DrugExposureDiagnostics: 1.0.9
 DrugSim2DR: 0.1.1
 DrugUtilisation: 0.7.1
 DstarM: 0.4.0
@@ -2018,7 +2018,7 @@ E4tools: 0.1.1
 EATME: 0.1.0
 EAinference: 0.2.3
 EAlasso: 0.1.0
-EBASE: 1.0.2
+EBASE: 1.1.0
 EBASS: '0.1'
 EBCHS: 0.1.0
 EBEN: '5.1'
@@ -2060,6 +2060,7 @@ EEML: 0.1.1
 EESPCA: 0.7.0
 EFA.MRFA: 1.1.2
 EFA.dimensions: 0.1.8.4
+EFAfactors: 1.0.0
 EFAtools: 0.4.4
 EFAutilities: 2.1.3
 EFDR: '1.3'
@@ -2723,7 +2724,7 @@ GDPuc: 1.0.4
 GDSARM: 0.1.1
 GE: 0.4.5
 GEC: 0.1.0
-GECal: 0.1.4
+GECal: 0.1.5
 GEEaSPU: 1.0.2
 GEEmediate: 1.1.4
 GEInfo: '1.0'
@@ -3410,6 +3411,7 @@ IHSEP: 0.3.1
 IIProductionUnknown: 0.0.3
 IIS: '1.0'
 IIVpredictor: 0.1.0
+IJSE: 0.1.0
 ILS: '0.3'
 ILSE: 1.1.7
 ILSM: 1.0.3.2
@@ -3963,6 +3965,7 @@ LearnEDA: '1.2'
 LearnGeom: '1.5'
 LearnPCA: 0.3.4
 LearnSL: 1.0.0
+LearnVizLMM: 1.0.0
 LearningRlab: '2.4'
 LearningStats: 0.1.0
 LendingClub: 2.0.0
@@ -4246,7 +4249,7 @@ MImix: '1.0'
 MInt: 1.0.1
 MJMbamlss: 0.1.0
 MKLE: 1.0.1
-MKMeans: '2.1'
+MKMeans: '3.0'
 MKclass: '0.5'
 MKdescr: '0.8'
 MKendall: 1.5-4
@@ -4283,7 +4286,7 @@ MLRMPA: '1.0'
 MLRShiny: 0.1.0
 MLRShiny2: 0.1.0
 MLVSBM: 0.2.4
-MLZ: 0.1.4
+MLZ: 0.1.5
 MLeval: '0.3'
 MLmetrics: 1.1.3
 MLpreemption: 1.0.1
@@ -5234,7 +5237,7 @@ PBNPA: 0.0.3
 PBRF: 1.0.0
 PBSadmb: 1.1.6
 PBSddesolve: 1.13.4
-PBSmapping: 2.73.4
+PBSmapping: 2.74.1
 PBSmodelling: 2.69.3
 PBtDesigns: 1.0.0
 PCA4TS: '0.1'
@@ -5514,6 +5517,7 @@ PartCensReg: '1.39'
 PartialNetwork: 1.0.4
 Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
+Path.Analysis: '0.1'
 PathSelectMP: '1.1'
 PathwaySpace: 0.99.4
 PatientProfiles: 1.2.0
@@ -6734,7 +6738,7 @@ Relectoral: 0.1.0
 Relexon: 0.2.1
 ReliaGrowR: 0.1.0
 Reliability: 0.0-2
-ReliabilityTheory: 0.3.0
+ReliabilityTheory: 0.3.1
 RelimpPCR: 0.3.0
 Renext: 3.1-4
 RenextGUI: 1.4-0
@@ -7209,7 +7213,7 @@ SK: '1.1'
 SK4FGA: 0.1.1
 SKAT: 2.2.5
 SKFCPD: 0.2.4
-SKNN: '3.1'
+SKNN: '4.0'
 SLBDD: 0.0.4
 SLC: '0.3'
 SLCARE: 1.2.0
@@ -7361,6 +7365,7 @@ SSM: 1.0.1
 SSN: 1.1.17
 SSN2: 0.2.1
 SSNbayes: 0.0.3
+SSNbler: 1.0.1
 SSOAP: 0.9-0
 SSOSVM: 0.2.1
 SSP: 1.0.1
@@ -7822,7 +7827,7 @@ StreamMetabolism: 1.1.3
 StreamingLm: '0.1'
 StressStrength: 1.0.2
 String2AdjMatrix: 0.1.0
-StroupGLMM: 0.1.0
+StroupGLMM: 0.2.0
 StrucDiv: 0.2.1
 StructFDR: '1.4'
 StructR: '1.1'
@@ -7985,7 +7990,7 @@ TKCat: 1.1.11
 TKF: 0.0.8
 TLBC: '1.0'
 TLCAR: 0.1.0
-TLIC: '0.1'
+TLIC: '0.2'
 TLMoments: 0.7.5.3
 TLdating: 0.1.3
 TMB: 1.9.15
@@ -8846,7 +8851,7 @@ adfExplorer: 0.1.8
 adformR: 0.1.0
 adheRenceRX: 1.0.0
 adhoc: '1.1'
-adimpro: 0.9.7
+adimpro: 0.9.7.2
 adiv: 2.2.1
 adjROC: '0.3'
 adjSURVCI: '1.0'
@@ -9275,6 +9280,7 @@ arrangements: 1.1.9
 arrayImpute: '1.3'
 arrayMissPattern: '1.3'
 arrayhelpers: 1.1-0
+arrg: 0.1.0
 arrow: 17.0.0.1
 arrowheadr: 1.0.1
 ars: '0.8'
@@ -9515,6 +9521,7 @@ backpipe: 0.2.3
 backports: 1.5.0
 backtest: 0.3-4
 backtestGraphics: 0.1.6
+baclava: '1.0'
 bacondecomp: 0.1.1
 bacr: 1.0.1
 badgecreatr: 0.2.0
@@ -10629,7 +10636,7 @@ cbl: 0.1.3
 cblasr: 1.0.0
 cbq: 0.2.0.3
 cbsem: 1.0.0
-cbsodataR: 1.0.1
+cbsodataR: '1.1'
 ccChooser: 0.2.6
 ccRemover: 1.0.4
 ccTensor: 1.0.2
@@ -10929,7 +10936,7 @@ ckanr: 0.7.0
 clValid: '0.7'
 clac: 0.1-1
 cladoRcpp: 0.15.1
-clam: 2.6.0
+clam: 2.6.1
 clampSeg: 1.1-1
 clap: 0.1.0
 clarabel: 0.9.0.1
@@ -11184,13 +11191,13 @@ coenoflex: 2.2-0
 coexist: '1.0'
 cofad: 0.3.0
 cofeatureR: 1.1.1
-coffee: 0.4.0
+coffee: 0.4.1
 cofid: 1.0.0
 coga: 1.2.2
 coglasso: 1.0.2
 cogmapr: 0.9.3
 cognitoR: 1.0.5
-cohortBuilder: 0.2.0
+cohortBuilder: 0.3.0
 cohorts: 1.0.1
 cohorttools: 0.1.6
 coil: 1.2.4
@@ -11422,7 +11429,7 @@ constructive: 1.0.1
 contFracR: 1.2.1
 contTimeCausal: '1.1'
 contact: 1.2.8
-contactdata: 1.0.0
+contactdata: 1.1.0
 container: 1.0.4
 contentid: 0.0.18
 contextual: 0.9.8.4
@@ -11484,7 +11491,7 @@ corTest: 1.0.7
 corTools: '1.0'
 cora: 0.1.0
 corazon: 0.1.0
-corbouli: 0.1.0
+corbouli: 0.1.1
 corclass: 0.2.1
 corcounts: '1.4'
 cord: 0.1.1
@@ -12251,7 +12258,7 @@ deformula: 0.1.2
 defrostR: 1.1.0
 degday: 0.4.0
 degenes: '1.1'
-degreenet: 1.3-5
+degreenet: 1.3-6
 degross: 0.9.0
 deisotoper: 0.0.7
 dejaVu: 0.3.1
@@ -12710,7 +12717,7 @@ doubcens: '1.1'
 doublIn: 0.2.0
 double.truncation: '1.7'
 doubt: 0.1.0
-douconca: 1.2.0
+douconca: 1.2.1
 doudpackage: 2.1.0
 downlit: 0.4.4
 downloader: '0.4'
@@ -12837,7 +12844,7 @@ dtrackr: 0.4.4
 dtree: 0.4.2
 dtreg: 1.0.0
 dtt: 0.1-2
-dttr2: 0.5.1
+dttr2: 0.5.2
 dtts: 0.1.3
 dtw: 1.23-1
 dtwSat: 1.0.0
@@ -13935,7 +13942,7 @@ fdrtool: 1.2.18
 fds: '1.8'
 fdth: 1.3-0
 feamiR: 0.1.0
-feasts: 0.4.0
+feasts: 0.4.1
 feather: 0.3.5
 feature: 1.2.15
 featureCorMatrix: 0.4.0
@@ -13958,7 +13965,7 @@ fedz1: 0.1.0
 feedeR: 0.0.10
 feisr: 1.3.0
 fellov: '0.1'
-felp: 0.5.0
+felp: 0.6.0
 feltr: 0.0.4
 femmeR: 0.5.1.1
 fence: '1.0'
@@ -14432,6 +14439,7 @@ ftrCOOL: 2.0.0
 fts: 0.9.9.2
 ftsa: '6.4'
 ftsspec: 1.0.0
+fucom: 0.0.2
 fude: 0.3.6
 fuel: 1.2.0
 fueleconomy: 1.0.0
@@ -15115,7 +15123,7 @@ ggpicrust2: 1.7.3
 ggpie: 0.2.5
 ggplate: 0.1.4
 ggplot: 0.4.2
-ggplot.multistats: 1.0.0
+ggplot.multistats: 1.0.1
 ggplot2: 3.5.1
 ggplot2.utils: 0.3.2
 ggplot2movies: 0.0.1
@@ -15334,7 +15342,7 @@ glogis: 1.0-2
 glossary: 1.0.0
 glossr: 0.8.0
 glottospace: 0.0.112
-glow: 0.11.0
+glow: 0.13.0
 glpk: 4.8-0.5
 glpkAPI: 1.3.4
 glrt: '2.0'
@@ -16005,7 +16013,7 @@ hisse: 2.1.11
 histmdl: 0.7-1
 histogram: 0.0-25
 historicalborrow: 1.1.0
-historicalborrowlong: 0.0.8
+historicalborrowlong: 0.1.0
 historydata: '0.1'
 histoslider: 0.1.1
 histry: 0.2.4
@@ -17449,7 +17457,7 @@ lehdr: 1.1.3
 lehuynh: 0.1.1
 leiden: 0.4.3.1
 leidenAlg: 1.1.3
-leidenbase: 0.1.30
+leidenbase: 0.1.31
 leiv: 2.0-7
 lemma: 1.3-4
 lemna: 1.0.1
@@ -17999,7 +18007,7 @@ manipulateWidget: 0.11.1
 manta: 1.0.1
 manydata: 0.9.3
 manymodelr: 0.3.7
-manymome: 0.2.2
+manymome: 0.2.3
 manymome.table: 0.3.0
 manynet: 1.1.0
 maotai: 0.2.5
@@ -18027,7 +18035,7 @@ maple: 0.99.5
 maplegend: 0.1.0
 mapme.biodiversity: 0.9.1
 mapmisc: 2.1.0
-mapmixture: 1.1.3
+mapmixture: 1.1.4
 mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
@@ -18082,6 +18090,7 @@ markophylo: 1.0.9
 markovMSM: 0.1.3
 markovchain: 0.9.5
 markovmix: 0.1.3
+markowitz: 0.1.0
 marl: '1.0'
 marlod: 0.1.1
 marmap: 1.0.10
@@ -18152,6 +18161,7 @@ maxLik: 1.5-2.1
 maxLinear: '1.0'
 maxTPR: 0.1.0
 maxadjAUC: 0.1.0
+maxaltall: 0.1.0
 maxcombo: '1.0'
 maxent: 1.3.3.1
 maxent.ot: 1.0.0
@@ -19509,7 +19519,7 @@ nberwp: 1.2.0
 nbfar: '0.1'
 nblR: 0.0.4
 nbody: '1.41'
-nbpMatching: 1.5.5
+nbpMatching: 1.5.6
 nc: 2024.9.20
 ncappc: 0.3.0
 ncar: 0.5.0
@@ -20062,7 +20072,7 @@ oceanis: 1.8.5
 oceanmap: 0.1.6
 oceanwaves: 0.2.0
 ocedata: 0.2.2
-ocf: 1.0.0
+ocf: 1.0.1
 ockc: '1.1'
 oclust: 0.2.0
 ocomposition: '1.1'
@@ -20732,7 +20742,7 @@ pcadapt: 4.4.0
 pcal: 1.0.0
 pcalg: 2.7-12
 pcalls: '1.0'
-pcaone: 1.0.0
+pcaone: 1.1.0
 pcatsAPIclientR: 1.1.0
 pccc: 1.0.5
 pcdpca: '0.4'
@@ -20888,7 +20898,7 @@ personalr: 1.0.3
 personograph: 0.1.3
 personr: 1.0.0
 perspectev: '1.1'
-persval: 1.0.0
+persval: 1.1.1
 perturb: '2.10'
 perturbR: 0.1.3
 peruflorads43: 0.1.1
@@ -21117,7 +21127,7 @@ pkgdepends: 0.8.0
 pkgdown: 2.1.1
 pkgfilecache: 0.1.5
 pkggraph: 0.2.3
-pkglite: 0.2.2
+pkglite: 0.2.3
 pkgload: 1.4.0
 pkgmaker: 0.32.10
 pkgndep: 1.99.3
@@ -21338,7 +21348,7 @@ polyRAD: 2.0.0
 polySegratio: 0.2-5
 polySegratioMM: 0.6-4
 polyaAeppli: 2.0.2
-polyapost: '1.7'
+polyapost: 1.7-1
 polychaosbasics: 1.1-1
 polyclip: 1.10-7
 polycor: 0.8-1
@@ -21444,7 +21454,7 @@ pould: 1.0.1
 povcalnetR: 0.1.1
 povmap: 1.0.1
 pow.int: '1.3'
-powRICLPM: 0.1.1
+powRICLPM: 0.2.0
 powdR: 1.3.0
 powdist: 0.1.4
 poweRbal: 0.0.1.1
@@ -22318,6 +22328,7 @@ radsafer: 2.3.0
 radtools: 1.0.6
 raem: 0.1.0
 rafalib: 1.0.0
+rafsi: 0.0.2
 ragg: 1.3.3
 rags2ridges: 2.2.7
 ragt2ridges: 0.3.4
@@ -22632,7 +22643,7 @@ readBrukerFlexData: 1.9.2
 readGenalex: '1.0'
 readHAC: '1.0'
 readJDX: 0.6.4
-readMDTable: 0.1.1
+readMDTable: 0.2.0
 readMETEO: '1.2'
 readMLData: 0.9-7
 readMzXmlData: 2.8.3
@@ -23108,7 +23119,7 @@ ringscale: 0.1.2
 rintcal: 1.0.0
 rintimg: 0.1.0
 rintrojs: 0.3.4
-rio: 1.2.2
+rio: 1.2.3
 rioja: 1.0-6
 rioplot: 1.1.1
 riot: 1.1.0
@@ -23143,6 +23154,7 @@ riverplot: '0.10'
 rivervis: 0.46.0
 rivnet: 0.5.0
 rivr: 1.2-3
+rix: 0.12.1
 rjacobi: 0.9.2
 rjade: 0.1.1
 rjags: 4-16
@@ -23411,6 +23423,7 @@ roughrf: '1.0'
 roughsf: 1.0.0
 round: 0.21-0.2
 roundhouse: 0.0.2
+roundwork: 0.0.1
 roundyh: 0.1.0
 routr: 0.4.1
 rowr: 1.1.3
@@ -24139,7 +24152,7 @@ seas: 0.6-0
 season: 0.3.15
 seasonal: 1.9.0
 seasonalclumped: 0.3.2
-seasonalityPlot: 1.2.1
+seasonalityPlot: 1.3.1
 seasonalview: '0.3'
 seastests: 0.15.4
 seawaveQ: 2.0.2
@@ -27822,6 +27835,7 @@ xmlconvert: 0.1.2
 xmlparsedata: 1.0.5
 xmlr: 0.1.2
 xmlrpc2: '1.1'
+xmlwriter: 0.1.1
 xmpdf: 0.2.1
 xmrr: 1.1.1
 xnet: 0.1.11
