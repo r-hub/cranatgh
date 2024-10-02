@@ -757,7 +757,7 @@ BigSEM: '0.2'
 BigTSP: '1.0'
 BigVAR: 1.1.2
 BimodalIndex: 1.1.9
-BinGSD: 0.0.1
+BinGSD: '1.1'
 BinMat: 0.1.5
 BinNonNor: 1.5.3
 BinNor: 2.3.3
@@ -1340,7 +1340,7 @@ CodeDepends: 0.6.6
 CodelistGenerator: 3.2.0
 CohensdpLibrary: 0.5.11
 CohortAlgebra: 0.3.0
-CohortCharacteristics: 0.2.2
+CohortCharacteristics: 0.3.0
 CohortConstructor: 0.3.0
 CohortExplorer: 0.1.0
 CohortGenerator: 0.11.2
@@ -1368,7 +1368,7 @@ CombinePortfolio: '0.4'
 CommEcol: 1.8.1
 CommKern: 1.0.1
 CommT: 0.1.1
-CommonDataModel: 0.2.0
+CommonDataModel: 1.0.1
 CommonJavaJars: 1.1-0
 CommonMean.Copula: 1.0.4
 CommonTrend: 0.7-1
@@ -2261,7 +2261,7 @@ EnvStats: 3.0.0
 EnviroPRA: '1.0'
 EnviroPRA2: 1.0.1
 EnviroStat: 0.4-2
-Epi: '2.55'
+Epi: '2.56'
 EpiBayes: 0.1.2
 EpiContactTrace: 0.17.0
 EpiCurve: 2.4-2
@@ -5749,7 +5749,7 @@ PsyControl: 1.0.0.0
 PsychWordVec: '2023.9'
 PtProcess: 3.3-16
 PubBias: '1.0'
-PubChemR: '2.1'
+PubChemR: 2.1.1
 PubMedMining: 1.0.0
 PubMedWordcloud: 0.3.6
 PublicWorksFinanceIT: 0.2.0
@@ -5853,7 +5853,7 @@ QuantumClone: 1.0.0.6
 QuantumOps: 3.0.1
 Quartet: 1.2.6
 QuasiSeq: 1.0-11-0
-QuickJSR: 1.3.1
+QuickJSR: 1.4.0
 Quor: '0.1'
 QurvE: 1.1.1
 Qval: 1.0.0
@@ -6126,7 +6126,7 @@ RInno: 1.0.1
 RInside: 0.2.18
 RItools: 0.3-4
 RJDBC: 0.2-10
-RJDemetra: 0.2.6
+RJDemetra: 0.2.7
 RJSDMX: 3.4-0
 RJSONIO: 1.3-1.9
 RJSONLD: 1.0.3
@@ -7445,7 +7445,7 @@ ScaleSpikeSlab: '1.0'
 Scalelink: '1.0'
 ScatterDensity: 0.0.4
 SchemaOnRead: 1.0.2
-SchoolDataIT: 0.2.0
+SchoolDataIT: 0.2.1
 SciViews: 0.9-13.1
 SciencePo: 0.3.6.12
 SciencesPo: 1.4.1
@@ -7656,6 +7656,7 @@ SoilConservation: 1.0.0
 SoilFDA: 0.1.0
 SoilFunctionality: 0.1.0
 SoilHyP: 0.1.7
+SoilManageR: 1.0.1
 SoilR: 1.2.107
 SoilSaltIndex: 0.1.0
 SoilTaxonomy: 0.2.4
@@ -7834,7 +7835,7 @@ StreamMetabolism: 1.1.3
 StreamingLm: '0.1'
 StressStrength: 1.0.2
 String2AdjMatrix: 0.1.0
-StroupGLMM: 0.2.0
+StroupGLMM: 0.3.0
 StrucDiv: 0.2.1
 StructFDR: '1.4'
 StructR: '1.1'
@@ -8022,7 +8023,7 @@ TPD: 1.1.0
 TPEA: 3.1.0
 TPES: 1.0.0
 TPLSr: 1.0.4
-TPMplt: 0.1.5
+TPMplt: 0.1.6
 TPmsm: 1.2.12
 TR8: 0.9.23
 TRADER: 1.2-4
@@ -9143,7 +9144,7 @@ antaresRead: 2.7.2
 antaresViz: 0.18.2
 anthro: 1.0.1
 anthroplus: 0.9.0
-anticlust: 0.8.5
+anticlust: 0.8.7
 antitrust: 0.99.26
 antiword: 1.3.3
 anyLib: 1.0.5
@@ -9185,7 +9186,7 @@ aplpack: 1.3.5
 apmsWAPP: '1.0'
 apmx: 1.1.1
 apng: '1.1'
-apollo: 0.3.3
+apollo: 0.3.4
 appRiori: 0.0.5
 apparent: '1.1'
 appeears: '1.1'
@@ -9207,7 +9208,7 @@ aprof: 0.4.1
 apsimr: '1.2'
 apsimx: 2.8.0
 apsrtable: 0.8-8
-apt: '3.0'
+apt: '4.0'
 aptg: 0.1.1
 apyramid: 0.1.3
 aqfig: '0.9'
@@ -9238,7 +9239,7 @@ archiveRetriever: 0.4.0
 archivist: 2.3.8
 archivist.github: 0.2.6
 arcos: '1.27'
-arcpbf: 0.1.5
+arcpbf: 0.1.6
 arcpullr: 0.2.9
 arcpy: 0.4-0
 arctools: 1.1.6
@@ -9929,7 +9930,7 @@ bigpca: '1.1'
 bigreadr: 0.2.5
 bigrf: 0.1-11
 bigrquery: 1.5.1
-bigrquerystorage: 1.1.0
+bigrquerystorage: 1.2.0
 bigsimr: 0.12.0
 bigsnpr: 1.12.15
 bigsparser: 0.7.3
@@ -10157,7 +10158,7 @@ bmrm: '4.1'
 bmscstan: 1.2.1.0
 bmstdr: 0.7.9
 bnClustOmics: 1.1.1
-bnRep: 0.0.1
+bnRep: 0.0.2
 bnclassify: 0.4.8
 bndesr: 1.0.3
 bndovb: '1.1'
@@ -10401,7 +10402,7 @@ bundesligR: 0.1.0
 bundle: 0.1.1
 bupaR: 0.5.4
 bupaverse: 0.1.0
-burgle: 0.1.1
+burgle: 0.1.2
 burnr: 0.6.1
 bursa: 0.1.0
 bursts: 1.0-2
@@ -10607,11 +10608,11 @@ catnet: 1.16.1
 catregs: 1.2.2
 cats: 1.0.2
 catseyes: 0.2.5
-catsim: 0.2.3
+catsim: 0.2.4
 catspec: '0.97'
 cattonum: 0.0.5
 cauchypca: '1.3'
-cauphy: 1.0.2
+cauphy: 1.0.3
 causact: 0.5.5
 causal.decomp: 0.1.0
 causalBatch: 1.2.0
@@ -11310,7 +11311,7 @@ compare: 0.2-6
 compareC: 1.3.2
 compareDF: 2.3.5
 compareGroups: 4.9.0
-compareMCMCs: 0.5.0
+compareMCMCs: 0.6.0
 compareODM: '1.2'
 comparer: 0.2.3
 comparison: 1.0.8
@@ -11448,6 +11449,7 @@ contingencytables: 3.0.1
 contourPlot: 0.2.0
 contoureR: 1.0.5
 contrast: 0.24.2
+contrastable: 1.0.2
 contribution: 0.2.2
 control: 0.2.5
 controlTest: 1.1.0
@@ -11650,7 +11652,7 @@ cpa: 1.0.1
 cpca: 0.1.2
 cpcens: 0.1.0
 cpd: 0.3.2
-cpfa: 1.1-4
+cpfa: 1.1-5
 cpgen: '0.1'
 cpi: 0.1.4
 cpk: 1.3-1
@@ -13859,7 +13861,7 @@ fastcpd: 0.14.3
 fastdigest: 0.6-4
 fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
-fasterize: 1.0.5
+fasterize: 1.1.0
 fastglm: 0.0.3
 fastglmpca: 0.1-103
 fasthplus: '1.0'
@@ -14082,7 +14084,7 @@ fipp: 1.0.0
 firebase: 1.0.2
 firebehavioR: 0.1.2
 first: '1.1'
-fishMod: 0.29.1
+fishMod: 0.29.2
 fishRman: 1.2.3
 fishbc: 0.2.1
 fishdata: 1.0.1
@@ -14681,7 +14683,7 @@ gbev: 0.1.1
 gbfs: 1.3.9
 gbifdb: 1.0.0
 gbm: 2.2.2
-gbm.auto: 2023.08.31
+gbm.auto: 2024.10.01
 gbm2sas: '3.0'
 gbm3: '3.0'
 gbmt: 0.1.3
@@ -14978,7 +14980,7 @@ gfilinreg: 2.0.1
 gfilmm: 2.0.5
 gfilogisreg: 1.0.3
 gfmR: 1.1-0
-gfoRmula: 1.0.4
+gfoRmula: 1.1.0
 gfonts: 0.2.0
 gfpop: 1.1.1
 gfunctions: '1.0'
@@ -15131,7 +15133,7 @@ ggpcp: 0.2.0
 ggperiodic: 1.0.3
 ggpicrust2: 1.7.3
 ggpie: 0.2.5
-ggplate: 0.1.4
+ggplate: 0.1.5
 ggplot: 0.4.2
 ggplot.multistats: 1.0.1
 ggplot2: 3.5.1
@@ -15727,7 +15729,7 @@ gunsales: 0.1.2
 gustave: 1.0.0
 gutenbergr: 0.2.4
 gvc: 6.4.0
-gvcR: 0.3.0
+gvcR: 0.4.0
 gvcm.cat: '1.9'
 gvlma: 1.0.0.3
 gwaRs: 0.3.0
@@ -16175,7 +16177,7 @@ hurdlr: '0.1'
 hurricaneexposure: 0.1.1
 hutils: 1.8.1
 hutilscpp: 0.10.5
-huxtable: 5.5.6
+huxtable: 5.5.7
 hwde: 0.67-3
 hwep: 2.0.2
 hwig: 0.0.2
@@ -17124,7 +17126,7 @@ khroma: 1.14.0
 kibior: 0.1.1
 kidney.epi: 1.2.0
 kidsides: 0.5.0
-kim: 0.5.422
+kim: 0.5.431
 kimfilter: 1.0.3
 kimisc: '0.4'
 kin.cohort: '0.7'
@@ -17939,7 +17941,7 @@ maRketSim: 0.9.2
 maSAE: 2.0.3
 maanova: 1.22.0
 maat: 1.1.0
-mable: 4.1.0
+mable: 4.1.1
 maboost: 1.0-0
 macc: 1.0.1
 machQA: 0.1.4
@@ -21499,7 +21501,7 @@ powerpkg: '1.6'
 powerplus: '3.1'
 powerr: 0.1-3
 ppMeasures: '0.2'
-ppRank: 0.1.0
+ppRank: 0.1.1
 ppRep: 0.42.3
 ppc: '1.01'
 ppcSpatial: 0.3.0
@@ -21642,7 +21644,7 @@ prioriactions: 0.5.0
 prioritizr: 8.0.4
 prioritizrdata: 0.3.2
 prioritylasso: 0.3.1
-priorsense: 1.0.2
+priorsense: 1.0.3
 prism: 0.2.1
 prismadiagramR: 1.0.0
 prismatic: 1.1.2
@@ -22014,7 +22016,7 @@ qrmtools: 0.0-17
 qrng: 0.0-10
 qrnn: 2.1.1
 qrsvm: 0.2.1
-qs: 0.26.3
+qs: 0.27.2
 qs2: 0.1.1
 qsimulatR: 1.1.1
 qslice: 0.3.1
@@ -23113,7 +23115,7 @@ rid: 0.0.1
 ridge: '3.3'
 ridgetorus: 1.0.2
 ridgregextra: 0.1.1
-ridigbio: 0.4.0
+ridigbio: 0.4.1
 ridittools: '0.1'
 riem: 0.3.2
 rif: 0.2.0
@@ -23997,7 +23999,7 @@ scRNAstat: 0.1.1
 scRNAtools: '1.0'
 scROSHI: 1.0.0.0
 scSorter: 0.0.2
-scSpatialSIM: 0.1.3.3
+scSpatialSIM: 0.1.3.4
 scTEP: 0.1.0
 scTenifoldKnk: 1.0.1
 scTenifoldNet: '1.3'
@@ -24472,7 +24474,7 @@ shinyFiles: 0.9.3
 shinyGizmo: 0.4.2
 shinyGovstyle: 0.1.0
 shinyHeatmaply: 0.2.0
-shinyHugePlot: 0.2.6
+shinyHugePlot: 0.3.0
 shinyIRT: '0.1'
 shinyInvoice: 0.0.5
 shinyKGode: 1.0.5
@@ -24889,7 +24891,7 @@ smof: 1.2.0
 smog: 2.1.0
 smoke: 2.0.1
 smoof: 1.6.0.3
-smooth: 4.0.2
+smooth: 4.1.0
 smoothAPC: '0.3'
 smoothHR: 1.0.5
 smoothROCtime: 0.1.0
@@ -25830,7 +25832,7 @@ survSpearman: 1.0.1
 survcomp: 1.1.6
 survcompare: 0.1.2
 surveil: 0.3.0
-surveillance: 1.23.1
+surveillance: 1.24.0
 survex: 1.2.0
 survexp.fr: '1.1'
 survey: 4.4-2
@@ -25995,7 +25997,7 @@ syntenyPlotteR: 1.0.0
 synthACS: 1.7.1
 synthesis: 1.2.5
 synthesisr: 0.3.0
-synthesizer: 0.2.0
+synthesizer: 0.3.0
 synthpop: 1.8-0
 syrup: 0.1.1
 sys: 3.4.2
@@ -27007,7 +27009,7 @@ uavRst: 0.5-4
 ubci: 0.0.5
 ubeR: 0.1.4
 ubiquity: 2.0.3
-ubms: 1.2.6
+ubms: 1.2.7
 ucbthesis: '1.0'
 uchardet: 1.1.1
 uci: 0.3.0
@@ -27117,7 +27119,7 @@ uptimeRobot: 1.0.0
 upwaver: 1.2.1
 uqr: 1.0.0
 ura: 1.0.1
-urbin: 0.1-12
+urbin: 0.1-14
 urca: 1.3-4
 urlchecker: 1.0.1
 urlshorteneR: 1.5.7
@@ -27565,6 +27567,7 @@ weatherr: 0.1.3
 webSDM: 1.1-5
 webTRISr: 0.2.0
 webchem: 1.3.0
+webdav: 0.1.0
 webddx: 0.1.0
 webdeveloper: 1.0.5
 webdriver: 1.0.6
@@ -27744,7 +27747,7 @@ worrms: 0.4.3
 worrrd: 0.1.0
 wosr: 0.3.0
 wowa: 1.0.2
-woylier: 0.0.5
+woylier: 0.0.9
 wpa: 1.9.1
 wpp2008: 1.0-1
 wpp2010: 1.2-0
