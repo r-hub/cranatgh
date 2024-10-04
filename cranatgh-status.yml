@@ -1822,7 +1822,7 @@ DataFakeR: 0.1.3
 DataFrameConstr: 1.1-2
 DataGraph: 1.2.14
 DataLoader: '1.3'
-DataMetProcess: 1.0.2
+DataMetProcess: 1.0.3
 DataPackageR: 0.16.1
 DataSetsUni: '0.1'
 DataSpaceR: 0.7.6
@@ -2299,7 +2299,7 @@ EstimationTools: 4.0.0
 EthSEQ: 3.0.2
 EuclideanMaps: '1.0'
 EuclideanSD: 0.1.0
-Euclimatch: 1.0.1
+Euclimatch: 1.0.2
 Eunomia: 2.0.0
 Euronext: 2.0.2
 EurosarcBayes: '1.1'
@@ -2494,6 +2494,7 @@ FSelectorRcpp: 0.3.13
 FSinR: 2.0.5
 FTICRMS: '0.8'
 FTRLProximal: 0.3.0
+FTSgof: 1.0.0
 FUNLDA: '1.1'
 FUNTA: 0.1.0
 FVDDPpkg: 0.1.2
@@ -2667,7 +2668,7 @@ FuzzyM: 0.1.0
 FuzzyMCDM: '1.1'
 FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
-FuzzyPovertyR: 3.0.0
+FuzzyPovertyR: 3.0.1
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
 FuzzyResampling: 0.6.3
@@ -2754,6 +2755,7 @@ GFA: 1.0.5
 GFD: 0.3.3
 GFDmcv: 0.1.0
 GFDrmst: 0.1.1
+GFDrmtl: 0.1.0
 GFDsurv: 0.1.1
 GFE: 0.1.1
 GFGM.copula: 1.0.4
@@ -3008,7 +3010,7 @@ GeoModels: 2.0.5
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1.992
-GeoThinneR: 1.0.0
+GeoThinneR: 1.1.0
 GeoWeightedModel: 1.0.3
 GeoXp: 1.6.2
 GeodRegr: 0.2.0
@@ -5763,6 +5765,7 @@ PupillometryR: 0.0.5
 PurBayes: '1.3'
 PurpleAir: 1.0.0
 Pursuit: 1.0.5
+PvSTATEM: 0.0.4
 PwrGSD: 2.3.7
 PxWebApiData: 0.9.0
 PythonInR: 0.1-12
@@ -6019,7 +6022,7 @@ REAT: 3.0.3
 REBayes: '2.56'
 RECA: '1.7'
 RECSO: '1.0'
-REDCapCAST: 24.6.1
+REDCapCAST: 24.10.3
 REDCapDM: 0.9.9
 REDCapExporter: 0.3.0
 REDCapR: 1.2.0
@@ -6154,6 +6157,7 @@ RLT: 3.2.6
 RLastFM: 0.1-5
 RLeafAngle: '1.0'
 RLogicalOps: '0.1'
+RLoptimal: 1.0.1
 RLumCarlo: 0.1.9
 RLumModel: 0.2.10
 RLumShiny: 0.2.3
@@ -7086,7 +7090,7 @@ SCBiclust: 1.0.1
 SCBmeanfd: 1.2.2
 SCCI: '1.2'
 SCCS: '1.7'
-SCDB: 0.4.0
+SCDB: 0.4.1
 SCEM: 1.1.0
 SCEPtER: 0.2-4
 SCEPtERbinary: 0.1-1
@@ -8886,7 +8890,7 @@ admix: 2.1-3
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
-admtools: 0.3.1
+admtools: 0.4.0
 adnuts: 1.1.2
 adobeanalyticsr: 0.4.0
 adoption: 0.6.4
@@ -9399,7 +9403,7 @@ atmi: '1.0'
 atmopt: 0.1.0
 atom4R: 0.3-3
 atpolR: 0.1.1
-atrrr: 0.0.3
+atrrr: 0.0.4
 atsd: 1.2.0
 attachment: 0.4.2
 attempt: 0.3.1
@@ -9647,7 +9651,7 @@ bayesAB: 1.1.3
 bayesCGH: '0.6'
 bayesCL: 0.0.1
 bayesCT: 0.99.3
-bayesCureRateModel: '1.2'
+bayesCureRateModel: '1.3'
 bayesDP: 1.3.6
 bayesDccGarch: 3.0.4
 bayesDem: 2.5-1
@@ -9919,7 +9923,7 @@ bigchess: 1.9.1
 bigdata: '0.1'
 bigdatadist: '1.1'
 bigdist: 0.1.4
-bigergm: 1.2.1
+bigergm: 1.2.2
 biglars: 1.0.2
 biglasso: 1.6.0
 bigleaf: 0.8.2
@@ -10077,7 +10081,7 @@ bit: 4.5.0
 bit64: 4.5.2
 bite: '0.3'
 bitmexr: 0.3.3
-bitops: 1.0-8
+bitops: 1.0-9
 bitrugs: '0.1'
 bitsqueezr: 0.1.1
 bittermelon: 2.0.2
@@ -10467,7 +10471,7 @@ cabinets: 0.6.0
 cablecuttr: 0.1.1
 cabootcrs: 2.1.0
 cacIRT: '1.4'
-cacc: 0.1.0
+cacc: 0.1.1
 cache: 0.0.3
 cacheSweave: 0.6-1
 cachem: 1.1.0
@@ -10550,7 +10554,7 @@ card.pro: 2.2.0
 cardidates: 0.4.9
 cardinalR: 0.1.1
 cardioModel: '1.4'
-cards: 0.2.2
+cards: 0.3.0
 cardx: 0.2.1
 care: 1.1.11
 care4cmodel: 1.0.2
@@ -11381,6 +11385,7 @@ condTruncMVN: 0.0.2
 condensr: 1.0.0
 condformat: 0.10.1
 condir: 0.1.4
+conditionalProbNspades: '1.0'
 conditions: '0.1'
 conditionz: 0.1.0
 condmixt: '1.1'
@@ -12323,7 +12328,7 @@ densityarea: 0.1.0
 densratio: 0.2.1
 denstrip: 1.5.4
 denvax: 0.1.2
-depCensoring: 0.1.1
+depCensoring: 0.1.2
 depcache: 0.1-2
 depcoeff: 0.0.1
 depend.truncation: '3.0'
@@ -13424,7 +13429,7 @@ equalCovs: '1.0'
 equaltestMI: 0.6.1
 equatags: 0.2.1
 equate: 2.0.8
-equateIRT: 2.5.0
+equateIRT: 2.5.1
 equateMultiple: 1.0.0
 equatiomatic: 0.3.3
 equiBSPD: 0.1.0
@@ -13575,7 +13580,7 @@ evoper: 0.5.0
 evora: '1.0'
 evprof: 1.1.2
 evreg: 1.1.1
-evsim: 1.5.0
+evsim: 1.6.0
 evt0: 1.1.5
 evtclass: '1.0'
 evtree: 1.0-8
@@ -13672,6 +13677,7 @@ extrafontdb: '1.0'
 extrafrail: '1.12'
 extraoperators: 0.3.0
 extras: 0.7.3
+extrasteps: 0.1.0
 extraterrestrial: 0.1.0
 extremeIndex: 0.0.3
 extremeStat: 1.5.9
@@ -14868,7 +14874,7 @@ geocacheR: 0.1.0
 geocausal: 0.3.2
 geocmeans: 0.3.4
 geocodeHERE: 0.1.3
-geocomplexity: 0.1.0
+geocomplexity: 0.2.0
 geodaData: 0.1.0
 geodata: 0.6-2
 geodetector: 1.0-5
@@ -17245,7 +17251,7 @@ ksrlive: '1.0'
 kssa: 0.0.1
 kst: 0.5-4
 kstIO: 0.4-0
-kstMatrix: 1.0-0
+kstMatrix: 1.0-1
 ktaucenters: 1.0.0
 ktsolve: 1.3.1
 ktspair: '1.0'
@@ -18338,7 +18344,7 @@ medSTC: 1.0.0
 medScan: 1.0.2
 mederrRank: 0.1.0
 medfate: 4.4.0
-medfateland: 2.4.5
+medfateland: 2.4.6
 medflex: 0.6-10
 mediacloudr: 0.1.0
 mediateP: 0.2.0
@@ -18828,13 +18834,13 @@ mlmts: 1.1.2
 mlogit: 1.1-1
 mlogitBMA: 0.1-7
 mlpack: 4.4.0
-mlpwr: 1.1.0
+mlpwr: 1.1.1
 mlquantify: 0.2.0
 mlr: 2.19.2
 mlr3: 0.21.0
 mlr3batchmark: 0.1.1
 mlr3benchmark: 0.1.6
-mlr3cluster: 0.1.9
+mlr3cluster: 0.1.10
 mlr3data: 0.7.0
 mlr3db: 0.5.2
 mlr3fairness: 0.3.2
@@ -19421,7 +19427,7 @@ mvcwt: 1.3.1
 mvdalab: '1.7'
 mverse: 0.1.0
 mvgam: 1.1.3
-mvgb: 0.0.5
+mvgb: 0.0.6
 mvglmmRank: 1.2-4
 mvgraph: '1.2'
 mvgraphnorm: '1.81'
@@ -20540,7 +20546,7 @@ pairwise: 0.6.1-0
 pairwiseCI: 0.1-27
 pairwiseComparisons: 3.2.0
 pak: 0.8.0
-pakret: 0.1.0
+pakret: 0.2.0
 palaeoSig: 2.1-3
 palaeoverse: 1.3.0
 palasso: 1.0.0
@@ -20723,7 +20729,7 @@ pawls: 1.0.0
 paws: 0.7.0
 paws.analytics: 0.7.0
 paws.application.integration: 0.7.0
-paws.common: 0.7.6
+paws.common: 0.7.7
 paws.compute: 0.7.0
 paws.cost.management: 0.7.0
 paws.customer.engagement: 0.7.0
@@ -22188,6 +22194,7 @@ r511: 0.1.1
 r5r: '2.0'
 r6extended: 0.1.2
 r6methods: 0.1.0
+r6qualitytools: 1.0.1
 rADA: 1.1.9
 rARPACK: 0.11-0
 rATTAINS: 1.0.0
@@ -23948,7 +23955,7 @@ saros.base: 0.2.1
 sarp.snowprofile: 1.3.2
 sarp.snowprofile.alignment: 2.0.2
 sarp.snowprofile.pyface: 0.1.3
-sars: 1.3.6
+sars: 1.3.7
 sarsop: 0.6.15
 sas7bdat: '0.8'
 sasLM: 0.10.5
@@ -25069,6 +25076,7 @@ spNNGP: 1.0.1
 spNetwork: 0.4.4.3
 spOccupancy: 0.7.6
 spRingsteen: 0.1.0
+spStack: 1.0.0
 spTDyn: 2.0.3
 spTest: 0.2.5
 spThin: 0.2.0
@@ -25091,7 +25099,7 @@ spacom: 1.0-5
 spacyr: 1.3.0
 spaero: 0.6.0
 spagmix: 0.4-2
-spam: 2.10-0
+spam: 2.11-0
 spam64: 2.10-0
 spamtree: 0.2.2
 spanel: '0.1'
@@ -25478,6 +25486,7 @@ stablespec: 0.3.0
 stabm: 1.2.2
 stabreg: 0.1.2
 stabs: 0.6-4
+staccuracy: 0.1.0
 stackgbm: 0.1.0
 stacking: 0.1.3
 stackoverflow: 0.7.0
@@ -25697,7 +25706,7 @@ stremr: '0.4'
 stressaddition: 3.1.0
 stressor: 0.2.0
 stressr: 1.0.0
-strex: 2.0.0
+strex: 2.0.1
 strider: '1.3'
 string2path: 0.1.8
 stringb: 0.1.17
@@ -25952,7 +25961,7 @@ sweater: 0.1.8
 sweep: 0.2.5
 sweidnumbr: 1.5.0
 swephR: 0.3.1
-swfscAirDAS: 0.3.0
+swfscAirDAS: 0.3.1
 swfscDAS: 0.6.3
 swfscMisc: 1.6.5
 swgee: '1.4'
@@ -26325,7 +26334,7 @@ thaipdf: 0.1.2
 thames: 0.1.1
 thankr: 1.0.0
 thectar: 1.0.0
-theft: 0.6.1
+theft: 0.6.3
 theftdlc: 0.1.0
 theiaR: 0.4.0
 thematic: 0.1.6
@@ -26404,7 +26413,7 @@ tidyedgar: 1.0.1
 tidyestimate: 1.1.1
 tidyfast: 0.4.0
 tidyfinance: 0.4.1
-tidyfit: 0.7.1
+tidyfit: 0.7.2
 tidyformula: 0.1.0
 tidyfst: 1.8.1
 tidyft: 0.9.20
@@ -27843,7 +27852,7 @@ xegaSelectGene: 1.0.0.0
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.47'
+xfun: '0.48'
 xgb2sql: 0.1.2
 xgboost: 1.7.8.1
 xgobi: 1.2-15
