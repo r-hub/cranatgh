@@ -965,6 +965,7 @@ CDVI: 0.1.0
 CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
 CDatanet: 2.2.0
+CDsampling: 0.1.0
 CEAmarkov: 0.1.0
 CEC: 0.11.1
 CEDA: 1.1.1
@@ -1744,7 +1745,7 @@ DQAstats: 0.3.5
 DR.SC: '3.4'
 DRAFT: 0.3.0
 DRAYL: '1.0'
-DRDID: 1.1.0
+DRDID: 1.2.0
 DRDRtest: '0.1'
 DREGAR: 0.1.3.0
 DRHotNet: '2.3'
@@ -2226,7 +2227,7 @@ ElectDecomp: 0.0.1-1
 ElectionsLATAM: 0.1.1
 ElectroGraph: 0.9.3
 ElemStatLearn: 2015.6.26.2
-ElevDistr: 1.0.8
+ElevDistr: 1.0.9
 Elja: 1.0.0
 ElliptCopulas: 0.1.4.1
 EloChoice: 0.29.4
@@ -2468,7 +2469,7 @@ FPLdata: 0.1.0
 FPV: '0.5'
 FRACTION: 1.1.1
 FRAPO: 0.4-1
-FRB: '1.8'
+FRB: 2.0-1
 FRBData: '0.3'
 FRCC: 1.1.0
 FREEtree: 0.1.0
@@ -2910,6 +2911,7 @@ GSSTDA: 1.0.0
 GSelection: 0.1.0
 GSparO: '1.0'
 GTDL: 1.0.0
+GTbasedIM: 1.0.0
 GUD: 1.0.2
 GUEST: 0.2.0
 GUIDE: 1.2.7
@@ -3008,7 +3010,7 @@ GeoDE: '1.0'
 GeoFIS: 1.1.0
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 2.0.5
+GeoModels: 2.0.6
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1.992
@@ -3779,7 +3781,7 @@ KrigInv: 1.4.2
 KsPlot: '1.3'
 Kurt: '1.1'
 L0Learn: 2.1.0
-L1centrality: 0.2.1
+L1centrality: 0.3.0
 L1mstate: 1.0.1
 L1pack: '0.50'
 L2DensityGoFtest: 0.6.0
@@ -4648,7 +4650,7 @@ Miney: '0.1'
 Minirand: 0.1.3
 MinkowskiSum: 1.0.0
 MisRepARMA: 0.0.2
-MiscMetabar: 0.9.3
+MiscMetabar: 0.10.1
 MiscPsycho: '1.6'
 Miso: 0.2.1
 MissCP: 0.1.0
@@ -5659,7 +5661,7 @@ PoolDilutionR: 1.0.0
 PoolTestR: 0.1.3
 PooledCohort: 0.0.2
 PooledMeanGroup: '1.0'
-PopED: 0.6.0
+PopED: 0.7.0
 PopGenHelpR: 1.3.2
 PopGenKit: '1.0'
 PopGenReport: '3.1'
@@ -5835,7 +5837,7 @@ QZ: 0.2-3
 Qapprox: 0.2.0
 Qardl: 0.1.1
 Qest: 1.0.1
-Qindex: 0.1.5
+Qindex: 0.1.6
 Qindex.data: 0.1.1
 QoLMiss: 0.1.0
 QoLR: 1.0.3
@@ -8926,7 +8928,7 @@ afpt: 1.1.0.4
 africamonitor: 0.2.4
 aftR2: 0.1.0
 after: 1.0.0
-aftgee: 1.2.0
+aftgee: 1.2.1
 afthd: 1.1.0
 aftsem: '1.0'
 afttest: 4.3.2.3
@@ -12597,7 +12599,7 @@ distillery: 1.2-1
 distinctiveness: 1.0.1
 disto: 0.2.0
 distops: 0.1.0
-distory: 1.4.4
+distory: 1.4.5
 distr: 2.9.5
 distr6: 1.6.9
 distrDoc: 2.8.2
@@ -12678,7 +12680,7 @@ dnn: 0.0.6
 dnr: 0.3.5
 do: 2.0.0.1
 do3PCA: 1.0.0
-doBy: 4.6.22
+doBy: 4.6.24
 doFuture: 1.0.1
 doMC: 1.3.8
 doMIsaul: 1.0.1
@@ -12979,7 +12981,7 @@ eNetXplorer: 1.1.2
 ePCR: 0.11.0
 eRTG3D: 0.7.0
 eRm: 1.0-6
-eSDM: 0.4.3
+eSDM: 0.4.4
 eSIR: 0.4.2
 eVenn: '2.4'
 eadrm: 0.1.4
@@ -13433,7 +13435,7 @@ equaltestMI: 0.6.1
 equatags: 0.2.1
 equate: 2.0.8
 equateIRT: 2.5.1
-equateMultiple: 1.0.0
+equateMultiple: 1.1.0
 equatiomatic: 0.3.3
 equiBSPD: 0.1.0
 equil2: 1.0.0
@@ -13448,7 +13450,7 @@ ercv: 1.0.1
 erer: '4.0'
 erfe: 0.0.1
 ergMargins: '1.3'
-ergm: 4.6.0
+ergm: 4.7.1
 ergm.count: 4.1.2
 ergm.ego: 1.1.0
 ergm.graphlets: 1.0.3
@@ -13603,7 +13605,7 @@ exactci: 1.4-4
 exactextractr: 0.10.0
 exactmaxsel: 1.0-4
 exactmeta: 1.0-2
-exampletestr: 1.7.2
+exampletestr: 1.7.3
 exams: 2.4-1
 exams.forge: 1.0.10
 exams.mylearn: '1.4'
@@ -14660,7 +14662,7 @@ gamsel: 1.8-5
 gamselBayes: 2.0-1
 gamstransfer: 3.0.4
 ganDataModel: 1.1.7
-ganGenerativeData: 2.1.2
+ganGenerativeData: 2.1.3
 ganalytics: 0.10.7
 gaoptim: '1.1'
 gap: '1.6'
@@ -14860,7 +14862,7 @@ gensvm: 0.1.7
 genvar: 0.0.2.0
 geo: 1.4-3
 geoAr: 1.0.0
-geoBayes: 0.7.3
+geoBayes: 0.7.4
 geoCount: '1.150120'
 geoFKF: 0.1.1
 geoFourierFDA: 0.1.0
@@ -15056,7 +15058,7 @@ ggchangepoint: 0.1.0
 ggcharts: 0.2.1
 ggcleveland: 0.1.0
 ggcolpairs: 0.2.4
-ggcompare: 0.0.1
+ggcompare: 0.0.2
 ggconf: 0.1.3
 ggcorrplot: 0.1.4.1
 ggcorset: 0.5.0
@@ -15364,7 +15366,7 @@ glmvsd: '1.5'
 glmx: 0.2-1
 glmxdiag: 1.0.0
 globalGSA: '1.0'
-globalKinhom: 0.1.8
+globalKinhom: 0.1.9
 globalOptTests: '1.1'
 globalboosttest: 1.1-0
 globals: 0.16.3
@@ -15722,7 +15724,7 @@ gtfs2emis: 0.1.0
 gtfs2gps: 2.1-1
 gtfsio: 1.1.1
 gtfsrouter: 0.1.2
-gtfstools: 1.2.0
+gtfstools: 1.3.0
 gtheory: 0.1.2
 gtkDevice: 1.9-4
 gtm: '1.0'
@@ -15922,6 +15924,7 @@ heatmaply: 1.5.0
 heatwaveR: 0.4.6
 heavy: 0.38.196
 heck: 0.1.3
+heckmanGE: 1.0.0
 heddlr: 0.6.0
 hedgedrf: 0.0.1
 hedgehog: '0.1'
@@ -15984,7 +15987,7 @@ hgnc: 0.1.4
 hgutils: 0.2.11
 hgwrr: 0.5-0
 hhcartr: 1.0.0
-hhh4contacts: 0.13.3
+hhh4contacts: 0.13.4
 hhi: 1.2.0
 hhsmm: 0.4.2
 hht: 2.1.6
@@ -16216,7 +16219,7 @@ hybridModels: 0.3.7
 hybridogram: 0.3.2
 hybridts: 0.1.0
 hyd1d: 0.5.2
-hydflood: 0.5.8
+hydflood: 0.5.9
 hydra: 0.1.0
 hydraulics: 0.7.0
 hydroApps: 0.1-1
@@ -16932,7 +16935,7 @@ janus: 1.0.0
 jaod: 0.3.0
 japanmesh: 0.1.1
 japanstat: 0.1.0
-jarbes: 2.2.1
+jarbes: 2.2.2
 jcalendaR: 0.1.0
 jcext: 0.1.1
 jcolors: 0.0.5
@@ -17232,7 +17235,7 @@ kokudosuuchi: 1.0.0
 kolmim: '1.0'
 komadown: 0.2.0
 komaletter: 0.5.0
-konfound: 0.5.1
+konfound: 1.0.1
 konya: 0.1.0
 kosel: 0.0.1
 kosis: 0.0.1
@@ -17506,7 +17509,7 @@ leptokurticMixture: '1.1'
 leri: 0.0.1
 lero.lero: '0.2'
 less: 0.1.0
-lessR: 4.3.7
+lessR: 4.3.8
 lessSEM: 1.5.5
 lest: 1.1.0
 lestat: '1.9'
@@ -17911,7 +17914,7 @@ lucid: '1.8'
 lucr: 0.2.0
 ludic: 0.2.0
 lue: 0.2.1
-lulab.utils: 0.0.3
+lulab.utils: 0.0.4
 lulcc: 1.0.4
 lumberjack: 1.3.1
 lumendb: 0.2.2
@@ -18074,7 +18077,7 @@ maplegend: 0.1.0
 mapme.biodiversity: 0.9.1
 mapmisc: 2.1.0
 mapmixture: 1.1.4
-mappeR: 0.1.5
+mappeR: 1.0.0
 mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
@@ -18771,7 +18774,7 @@ mixggm: '1.0'
 mixhvg: 1.0.1
 mixl: 1.3.4
 mixlink: 0.1.5
-mixlm: 1.3.0
+mixlm: 1.4.0
 mixlow: 1.0.1
 mixmeta: 1.2.0
 mixnet: '0.1'
@@ -19378,7 +19381,7 @@ multivar: 1.1.0
 multivariance: 2.4.1
 multivarious: 0.2.0
 multivator: 1.1-11
-multiverse: 0.6.1
+multiverse: 0.6.2
 multiversion: 0.3.6
 multiview: '0.8'
 multiviewtest: 2.0.1
@@ -19474,7 +19477,7 @@ mwaved: 1.1.8
 mwcsr: 0.1.9
 mwlaxeref: 0.0.1
 mwshiny: 2.1.0
-mxfda: 0.2.1
+mxfda: 0.2.2
 mxkssd: '1.2'
 mxmmod: 1.1.0
 mxnorm: 1.0.3
@@ -19789,7 +19792,7 @@ nlmixr2: 3.0.0
 nlmixr2data: 2.0.9
 nlmixr2est: 3.0.0
 nlmixr2extra: 3.0.0
-nlmixr2lib: 0.2.0
+nlmixr2lib: 0.3.0
 nlmixr2plot: 3.0.0
 nlmixr2rpt: 0.2.0
 nlmm: 1.1.0
@@ -20079,7 +20082,7 @@ oai: 0.4.0
 oaii: 0.5.0
 oak: 0.2.3
 oapackage: 2.0.23
-oaqc: '1.0'
+oaqc: 2.0.0
 oasis: 3.0.4
 oaxaca: 0.1.5
 obAnalytics: 0.1.1
@@ -20160,6 +20163,7 @@ offsetreg: 1.1.0
 ofp: 1.0.0
 ofpetrial: 0.1.1
 ofw: 1.0-0
+oglcnac: 0.1.2
 oglmx: 3.0.0.0
 ogrdbstats: 0.5.0
 ohenery: 0.1.1
@@ -20271,6 +20275,7 @@ opencpu: 2.2.14
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
 opencv: 0.4.1
+opendataformat: 1.3.0
 opendatatoronto: 0.1.5
 opendotaR: 0.1.4
 openeo: 1.3.1
@@ -21129,7 +21134,7 @@ pinnacle.API: 2.3.3
 pinnacle.data: 0.1.4
 pinochet: 0.1.0
 pinp: 0.0.10
-pins: 1.3.0
+pins: 1.4.0
 pinterestadsR: 0.1.0
 pinyin: 1.1.6
 pipe.design: 0.5.1
@@ -21425,7 +21430,7 @@ pomp: '5.11'
 pompom: 0.2.1
 pompp: 0.1.3
 pooh: 0.3-2
-pool: 1.0.3
+pool: 1.0.4
 poolABC: 1.0.0
 poolHelper: 1.1.0
 poolVIM: 1.0.0
@@ -21600,7 +21605,7 @@ predictionInterval: 1.0.0
 predictmeans: 1.1.0
 predictoR: 3.0.10
 predictrace: 2.0.1
-predicts: 0.1-11
+predicts: 0.1-16
 predieval: 0.1.1
 predint: 2.2.1
 predkmeans: 0.1.1
@@ -22112,7 +22117,7 @@ quantmod: 0.4.26
 quantoptr: 0.1.3
 quantreg: '5.98'
 quantreg.nonpar: '1.0'
-quantregForest: 1.3-7
+quantregForest: 1.3-7.1
 quantregGrowth: 1.7-1
 quantregRanger: '1.0'
 quantspec: 1.2-4
@@ -22673,7 +22678,7 @@ re: 0.1.0
 re2: 0.1.3
 re2r: 0.2.0
 reGenotyper: 1.2.0
-reReg: 1.4.6
+reReg: 1.4.7
 react: 2024.1.0
 reactCheckbox: 1.0.0
 reactR: 0.6.1
@@ -24365,6 +24370,7 @@ seriation: 1.5.6
 serieslcb: 0.4.0
 serocalculator: 1.0.3
 seroincidence: 2.0.0
+serosv: 1.0.0
 serp: 0.2.4
 serpstatr: 0.3.0
 serrsBayes: 0.5-0
@@ -27586,7 +27592,7 @@ wdm: 0.2.4
 wdman: 0.2.6
 wdnet: 1.2.3
 wdnr.gis: 0.1.5
-wdpar: 1.3.7
+wdpar: 1.3.8
 weaana: 0.1.1
 weakARMA: 1.0.3
 wearables: 0.8.1
@@ -27898,7 +27904,7 @@ xopen: 1.0.1
 xpectr: 0.4.3
 xplain: 0.2.2
 xplorerr: 0.1.2
-xportr: 0.4.0
+xportr: 0.4.1
 xpose: 0.4.18
 xpose.nlmixr: 0.3.0
 xpose.nlmixr2: 0.4.0
