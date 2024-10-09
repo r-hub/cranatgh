@@ -159,7 +159,7 @@ ARTP: 2.0.5
 ARTP2: 0.9.45
 ARTofR: 0.4.1
 ARTool: 0.11.1
-ARUtools: 0.7.0
+ARUtools: 0.7.1
 ARpLMEC: 2.4.1
 ASGS.foyer: 0.3.3
 ASICS: 1.0.1
@@ -463,7 +463,7 @@ BGData: 2.4.1
 BGFD: '0.1'
 BGGE: 0.6.5
 BGGM: 2.1.3
-BGLR: 1.1.2
+BGLR: 1.1.3
 BGPhazard: 2.1.1
 BGSIMD: '1.0'
 BGVAR: 2.5.8
@@ -1217,7 +1217,7 @@ CausalModels: 0.2.0
 CausalQueries: 1.1.1
 Causata: 4.2-0
 CautiousLearning: 1.0.1
-CePa: 0.8.0
+CePa: 0.8.1
 CeRNASeek: 2.1.3
 CellularAutomaton: 1.1-1
 CenBAR: 0.1.1
@@ -1345,7 +1345,7 @@ CodelistGenerator: 3.2.0
 CohensdpLibrary: 0.5.11
 CohortAlgebra: 0.3.0
 CohortCharacteristics: 0.3.0
-CohortConstructor: 0.3.0
+CohortConstructor: 0.3.1
 CohortExplorer: 0.1.0
 CohortGenerator: 0.11.2
 CohortPlat: 1.0.5
@@ -1760,7 +1760,7 @@ DSAIDE: 0.9.6
 DSAIRM: 0.9.6
 DSAM: 1.0.2
 DSBayes: 2023.1.0
-DSI: 1.6.0
+DSI: 1.7.0
 DSL: 0.1-7
 DSLite: 1.4.0
 DSMolgenisArmadillo: 2.0.9
@@ -3695,7 +3695,7 @@ JointRegBC: 0.1.1
 JudgeIt: 1.5.1
 Julia: 1.3.5
 JuliaCall: 0.17.5
-JuliaConnectoR: 1.1.3
+JuliaConnectoR: 1.1.4
 JuliaFormulae: 0.1.0
 JumpTest: '1.1'
 JumpeR: 0.3.0
@@ -4232,7 +4232,7 @@ MGRASTer: '0.9'
 MGSDA: 1.6.1
 MHCtools: 1.5.3
 MHD: 0.1.2
-MHDA: '1.2'
+MHDA: '1.3'
 MHMM: 1.0.0
 MHTcop: 0.1.1
 MHTdiscrete: 1.0.1
@@ -4262,7 +4262,7 @@ MImix: '1.0'
 MInt: 1.0.1
 MJMbamlss: 0.1.0
 MKLE: 1.0.1
-MKMeans: '3.0'
+MKMeans: '3.1'
 MKclass: '0.5'
 MKdescr: '0.8'
 MKendall: 1.5-4
@@ -4353,7 +4353,7 @@ MOrder: '0.1'
 MPAgenomics: 1.2.3
 MPBoost: 0.1-6
 MPCI: 1.0.7
-MPCR: 1.1.2
+MPCR: 1.1.3
 MPDiR: '0.2'
 MPGE: 1.0.0
 MPI: 0.1.0
@@ -4590,7 +4590,7 @@ MetaNet: 0.1.2
 MetaPCA: 0.1.4
 MetaPath: '1.0'
 MetaQC: 0.1.13
-MetaSKAT: '0.82'
+MetaSKAT: '0.90'
 MetaStan: 1.0.0
 MetaSubtract: '1.60'
 MetaUtility: 2.1.2
@@ -5768,7 +5768,7 @@ Publish: 2023.01.17
 PupilPre: 0.6.2
 PupillometryR: 0.0.5
 PurBayes: '1.3'
-PurpleAir: 1.0.0
+PurpleAir: 1.0.1
 Pursuit: 1.0.5
 PvSTATEM: 0.0.4
 PwrGSD: 2.3.7
@@ -6815,7 +6815,7 @@ Rgff: 0.1.6
 RghcnV3: '2.9'
 Rglpk: 0.6-5.1
 Rgnuplot: 1.0.3
-Rgof: 1.2.2
+Rgof: 2.1.0
 RgoogleMaps: 1.5.1
 Rgraphviz: 1.18.1
 Rgretl: 0.2.2
@@ -7230,7 +7230,7 @@ SK: '1.1'
 SK4FGA: 0.1.1
 SKAT: 2.2.5
 SKFCPD: 0.2.4
-SKNN: '4.0'
+SKNN: '4.1'
 SLBDD: 0.0.4
 SLC: '0.3'
 SLCARE: 1.2.0
@@ -8877,7 +8877,7 @@ adimpro: 0.9.7.2
 adiv: 2.2.1
 adjROC: '0.3'
 adjSURVCI: '1.0'
-adjclust: 0.6.9
+adjclust: 0.6.10
 adjustedCurves: 0.11.2
 adjustedcranlogs: 0.1.0
 adk: 1.0-2
@@ -10605,7 +10605,7 @@ catIrt: 0.5.1
 catR: '3.17'
 catSplit: 0.1.0
 catSurv: 1.5.0
-cata: 0.1.0.6
+cata: 0.1.0.7
 catalog: 0.1.1
 catch: 1.0.1
 catchr: 0.2.31
@@ -11494,7 +11494,7 @@ cooltools: '2.4'
 coop: 0.6-3
 coopProductGame: '2.0'
 cooptrees: '1.0'
-copBasic: 2.2.4
+copBasic: 2.2.6
 copCAR: 2.0-4
 copas: 0.8-0
 copcor: 2024.7-31
@@ -12968,6 +12968,7 @@ eCerto: 0.5.14
 eChem: 1.0.0
 eDITH: 1.0.0
 eDMA: 1.5-3
+eDNAjoint: '0.2'
 eFRED: 0.1.0
 eGST: 1.0.0
 eHDPrep: 1.3.3
@@ -13151,7 +13152,7 @@ educationdata: 0.1.3
 educineq: 0.1.0
 edwards97: 0.1.1
 eechidna: 1.4.1
-eefAnalytics: 1.1.1
+eefAnalytics: 1.1.2
 eegkit: 1.0-4
 eegkitdata: '1.1'
 eel: '1.1'
@@ -13404,7 +13405,7 @@ epitopR: 0.1.2
 epitopeR: 1.0.0
 epitrix: 0.4.0
 epitweetr: 2.2.16
-epiworldR: 0.1-0
+epiworldR: 0.3-2
 epiworldRShiny: 0.1-0
 epizootic: 1.0.0
 eplusr: 0.16.2
@@ -13697,7 +13698,7 @@ eye: 1.2.1
 eyeRead: 0.0.4
 eyeTrackR: 1.0.1
 eyedata: 0.1.0
-eyelinkReader: 1.0.1
+eyelinkReader: 1.0.2
 eyelinker: 0.2.1
 eyetracking: '1.1'
 eyetrackingR: 0.2.1
@@ -13909,7 +13910,7 @@ fastrmodels: 1.0.2
 fastrtext: 0.3.4
 fastshap: 0.1.1
 fasttime: 1.1-0
-fastverse: 0.3.3
+fastverse: 0.3.4
 fat2Lpoly: 1.2.5
 faux: 1.2.1
 fauxnaif: 0.7.1
@@ -14581,7 +14582,7 @@ gMWT: '1.4'
 gPCA: '1.0'
 gPdtest: '0.4'
 gProfileR: 0.7.0
-gRain: 1.4.2
+gRain: 1.4.3
 gRapHD: 0.2.6
 gRapfa: '1.0'
 gRaven: 1.1.8
@@ -15721,7 +15722,7 @@ gte: 1.2-3
 gtexr: 0.1.0
 gtexture: 1.0.0
 gtfs2emis: 0.1.0
-gtfs2gps: 2.1-1
+gtfs2gps: 2.1-2
 gtfsio: 1.1.1
 gtfsrouter: 0.1.2
 gtfstools: 1.3.0
@@ -20038,7 +20039,7 @@ ntsDatasets: 0.2.0
 ntsDists: 2.1.1
 ntwk: 1.0.0
 nucim: 1.0.11
-nuggets: 1.0.2
+nuggets: 1.1.0
 nullabor: 0.3.12
 numConversion: 0.2-4
 numDeriv: 2016.8-1.1
@@ -20713,7 +20714,7 @@ patchSynctex: 0.1-4
 patchwork: 1.3.0
 patentr: 0.1.4
 patentsview: 0.3.0
-path.chain: 0.2.0
+path.chain: 1.0.0
 pathClass: 0.9.4
 pathdiagram: 0.1.9.1
 pathfindR: 2.4.1
@@ -21885,7 +21886,7 @@ ptw: 1.9-16
 ptwikiwords: 0.0.3
 ptycho: 1.1-4
 pubchunks: 0.3.0
-pubh: 1.3.7
+pubh: 2.0.0
 public.ctn0094data: 1.0.6
 public.ctn0094extra: 1.0.4
 publipha: 0.1.2
@@ -22235,7 +22236,7 @@ rDEA: 1.2-8
 rDNA: '1.31'
 rDNAse: 1.1-1
 rDVR: 0.1.1
-rDataPipeline: 0.54.1
+rDataPipeline: 0.60.0
 rDecode: 0.1.0
 rDotNet: 0.9.1
 rDppDiversity: 0.0.2
@@ -24182,7 +24183,7 @@ sdpdth: '0.2'
 sdprisk: 1.1-6
 sdpt3r: '0.3'
 sdrt: 1.0.0
-sdsfun: 0.3.0
+sdsfun: 0.4.0
 sdtalt: '1.03'
 sdtm.oak: 0.1.0
 sdtmchecks: 1.0.0
@@ -25090,7 +25091,7 @@ spNNGP: 1.0.1
 spNetwork: 0.4.4.3
 spOccupancy: 0.7.6
 spRingsteen: 0.1.0
-spStack: 1.0.0
+spStack: 1.0.1
 spTDyn: 2.0.3
 spTest: 0.2.5
 spThin: 0.2.0
@@ -25295,6 +25296,7 @@ spgrass6: 0.8-9
 spgs: 1.0-4
 spgwr: 0.6-37
 sphereTessellation: 1.2.0
+spheredata: 0.1.0
 spherepc: 0.1.7
 sphereplot: 1.5.1
 spheresmooth: 0.1.0
@@ -25593,7 +25595,7 @@ stbl: 0.1.1
 stcm: 0.1.1
 stcos: 0.3.1
 stcov: 0.1.0
-stcpR6: 0.9.7
+stcpR6: 0.9.8
 stdReg: 3.4.1
 stdReg2: 1.0.1
 stddiff: '3.1'
@@ -25969,7 +25971,7 @@ swapClass: 1.0.1
 swaprinc: 1.0.1
 swatches: 0.5.0
 swdft: 1.0.0
-swdpwr: '1.10'
+swdpwr: '1.11'
 sweSCB: 0.3.6
 sweater: 0.1.8
 sweep: 0.2.5
@@ -26236,7 +26238,7 @@ tensorregress: '5.1'
 tensorsign: 0.1.0
 tensorsparse: '3.0'
 tensr: 1.0.1
-tergm: 4.2.0
+tergm: 4.2.1
 tergmLite: 2.6.1
 term: 0.3.5
 terminaldigits: 0.1.0
@@ -26456,7 +26458,7 @@ tidymv: 3.4.2
 tidync: 0.4.0
 tidyndr: 0.2.1
 tidypaleo: 0.1.3
-tidyplate: 2.0.0
+tidyplate: 2.0.1
 tidyplus: 0.0.2
 tidypmc: '2.0'
 tidyposterior: 1.0.1
@@ -26910,7 +26912,7 @@ tsentiment: 1.0.5
 tseries: 0.10-58
 tseriesChaos: 0.1-13.1
 tseriesEntropy: 0.7-2
-tseriesTARMA: 0.3-4
+tseriesTARMA: 0.5-1
 tsfa: 2021.1-3
 tsfeatures: 1.1.1
 tsfgrnn: 1.0.5
@@ -26993,6 +26995,7 @@ tvm: 0.5.2
 tvmComp: 1.0.2
 tvmediation: 1.1.0
 tvthemes: 1.3.3
+tvtools: 0.0.3
 twang: 2.6.1
 twangContinuous: 1.0.0
 twangMediation: '1.2'
@@ -27172,6 +27175,7 @@ uscoauditlog: 1.0.3
 usdampr: 1.0.1
 usdarnass: 0.1.0
 usdata: 0.3.1
+usdatasets: 0.1.0
 usdc: 0.1.0
 usdm: 2.1-7
 usdoj: 1.1.0
@@ -27605,7 +27609,7 @@ weatherr: 0.1.3
 webSDM: 1.1-5
 webTRISr: 0.2.0
 webchem: 1.3.0
-webdav: 0.1.0
+webdav: 0.1.1
 webddx: 0.1.0
 webdeveloper: 1.0.5
 webdriver: 1.0.6
@@ -27766,7 +27770,7 @@ wordmatch: '1.0'
 wordnet: 0.1-17
 wordpiece: 2.1.3
 wordpiece.data: 2.0.0
-wordpredictor: 0.0.3
+wordpredictor: 0.0.5
 wordpressr: 0.2.3
 words: 1.0.1
 wordsalad: 0.2.0
