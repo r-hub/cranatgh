@@ -1402,7 +1402,7 @@ Compind: '3.1'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
-Compositional: '7.0'
+Compositional: '7.1'
 CompositionalML: '1.0'
 CompositionalRF: '1.0'
 CompoundEvents: 0.3.0
@@ -2665,7 +2665,7 @@ Fuzzy.p.value: '1.1'
 FuzzyAHP: 0.9.5
 FuzzyClass: 0.1.6
 FuzzyDBScan: 0.0.3
-FuzzyImputationTest: 0.3.0
+FuzzyImputationTest: 0.3.3
 FuzzyLP: 0.1-7
 FuzzyM: 0.1.0
 FuzzyMCDM: '1.1'
@@ -3638,7 +3638,7 @@ JATSdecoder: 1.2.0
 JBTools: 0.7.2.9
 JBrowseR: 0.10.2
 JCRImpactFactor: 1.0.0
-JDCruncheR: 0.2.4
+JDCruncheR: 0.3.0
 JFE: 2.5.7
 JFM: '1.0'
 JGEE: '1.1'
@@ -3759,7 +3759,7 @@ KernelKnn: 1.1.5
 Kernelheaping: 2.3.0
 Keyboard: 0.1.3
 KeyboardSimulator: 2.6.2
-KinMixLite: 2.1.0
+KinMixLite: 2.1.1
 KingCountyHouses: 0.1.0
 Kira: 1.0.6
 Kmedians: 2.2.0
@@ -3963,7 +3963,7 @@ LatentBMA: 0.1.1
 LatentREGpp: 0.2.2
 Laterality: 0.9.5
 LatticeDesign: 2.0-5
-LatticeKrig: '8.4'
+LatticeKrig: 9.3.0
 LavaCvxr: 1.0.2
 Lavash: '1.0'
 LeArEst: 1.0.0
@@ -5709,7 +5709,7 @@ PresenceAbsence: 1.1.11
 PressPurt: 1.0.2
 PrettyCols: 1.1.0
 PrevMap: 1.5.4
-PriceIndices: 0.2.1
+PriceIndices: 0.2.2
 PriorCD: 0.1.0
 PriorGen: '2.0'
 PrivateLR: 1.2-22
@@ -6464,7 +6464,7 @@ RZabbix: 0.1.0
 RZigZag: 0.2.1
 RZooRoH: 0.3.2.1
 RaJIVE: '1.0'
-RaMS: 1.4.0
+RaMS: 1.4.3
 RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 3.0.0
@@ -7779,7 +7779,7 @@ SplitSplitPlot: 0.0.1
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
-SqlRender: 1.18.1
+SqlRender: 1.19.0
 SqueakR: 1.3.0
 Sshaped: '1.1'
 Sstack: 1.0.1
@@ -10860,7 +10860,7 @@ chess: 1.0.1
 chessR: 1.5.2
 chessboard: '0.1'
 chest: 0.3.7
-chevron: 0.2.6
+chevron: 0.2.7
 chi: '0.1'
 chi2x3way: '1.1'
 chicane: 0.1.8
@@ -12427,7 +12427,7 @@ dglm: 1.8.6
 dgmb: '1.2'
 dgo: 0.2.15
 dgodata: 0.0.2
-dgof: '1.4'
+dgof: 1.5.1
 dgpsi: 2.4.0
 dgumbel: 1.0.1
 dhReg: 0.1.1
@@ -13032,7 +13032,7 @@ easysurv: 2.0.1
 eat: 0.1.4
 eatATA: 1.1.2
 eatDB: 0.5.0
-eatGADS: 1.1.0
+eatGADS: 1.1.1
 eatRep: 0.14.7
 eatTools: 0.7.6
 ebGenotyping: 2.0.1
@@ -13459,7 +13459,7 @@ ergm.multi: 0.2.1
 ergm.rank: 4.1.1
 ergm.userterms: 3.10.0
 ergmclust: 1.0.0
-ergmgp: 0.1-1
+ergmgp: 0.1-2
 ergmharris: '1.0'
 ergmito: 0.3-1
 erhcv: 0.1.4
@@ -14577,7 +14577,7 @@ gKRLS: 1.0.3
 gLRTH: 0.2.0
 gMCP: 0.8-17
 gMCPLite: 0.1.5
-gMOIP: 1.5.2
+gMOIP: 1.5.3
 gMWT: '1.4'
 gPCA: '1.0'
 gPdtest: '0.4'
@@ -15178,7 +15178,7 @@ ggpubr: 0.6.0
 ggpval: 0.2.5
 ggquickeda: 0.3.1
 ggquiver: 0.3.3
-ggragged: 0.1.0
+ggragged: 0.2.0
 ggrain: 0.0.4
 ggraph: 2.2.1
 ggraptR: '1.3'
@@ -15812,7 +15812,7 @@ halp: 0.1.3
 hamlet: 0.9.6
 handcodeR: 0.1.2
 handlr: 0.3.0
-handwriter: 3.1.1
+handwriter: 3.2.0
 handwriterApp: 1.0.1
 handyFunctions: 0.1.0
 handyplots: 1.1.3
@@ -16646,7 +16646,7 @@ installr: 0.23.4
 instantiate: 0.2.3
 instruments: 0.1.0
 insuranceData: '1.0'
-insurancerating: 0.7.4
+insurancerating: 0.7.5
 int64: 1.1.2
 intReg: 0.2-8
 intRegGOF: 0.85-5
@@ -16961,7 +16961,7 @@ jit: 1.3-1
 jjAnno: 0.0.3
 jjb: 0.1.1
 jlctree: 0.0.2
-jlme: 0.3.0
+jlme: 0.4.0
 jlmerclusterperm: 1.1.4
 jlsm: 0.1.0
 jmBIG: 0.1.2
@@ -18693,7 +18693,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 1.2.0
+mirai: 1.3.0
 mirai.promises: 0.5.0
 mirf: '1.0'
 mirrorselect: 0.0.3
@@ -20158,7 +20158,7 @@ oews2020: 1.0.0
 oews2021: 1.0.0
 ofGEM: '1.0'
 officedown: 0.3.3
-officer: 0.6.6
+officer: 0.6.7
 offlineChange: 0.0.4
 offsetreg: 1.1.0
 ofp: 1.0.0
@@ -20681,7 +20681,7 @@ partialOR: '0.9'
 partialised: 0.1.1
 particle.swarm.optimisation: '1.0'
 particles: 0.2.3
-partition: 0.2.1
+partition: 0.2.2
 partitionBEFsp: '1.0'
 partitionComparison: 0.2.6
 partitionMap: '0.5'
@@ -24721,7 +24721,7 @@ simode: 1.2.2
 simodels: 0.2.0
 simone: 1.0-4
 simphony: 1.0.3
-simplace: 5.0.13
+simplace: 5.1.2
 simplanonym: 0.1.0
 simpleCache: 0.4.2
 simpleFDR: '1.1'
@@ -25049,7 +25049,7 @@ soobench: 1.9.18
 sophisthse: 0.7.0
 soptdmaeA: 1.0.0
 soql: 0.1.1
-sorcering: 1.0.1
+sorcering: 1.1.0
 sorocs: 0.1.0
 sortable: 0.5.0
 sortinghat: '0.1'
@@ -25246,7 +25246,7 @@ speaq2: 0.1.0
 spearmanCI: '1.1'
 spec: 0.1.9
 speccalt: 0.1.1
-speccurvieR: 0.4.1
+speccurvieR: 0.4.2
 specieschrom: 1.0.0
 speciesgeocodeR: 1.0-4
 specificity: 0.1.1
@@ -25450,7 +25450,7 @@ ssd: '0.3'
 ssd4mosaic: 1.0.1
 ssdGSA: 0.1.1
 ssddata: 1.0.0
-ssdtools: 1.0.6
+ssdtools: 2.0.0
 sse: 0.7-17
 ssev: 0.1.0
 ssfa: 1.2.2
@@ -25887,7 +25887,7 @@ surveygraph: 0.1.2
 surveyoutliers: '0.1'
 surveyplanning: '4.0'
 surveysd: 1.3.1
-surveytable: 0.9.4
+surveytable: 0.9.5
 surveyvoi: 1.0.6
 survidm: 1.3.2
 survivALL: 0.9.3
@@ -26171,7 +26171,7 @@ tcl: 0.2.1
 tcltk: 0.1-1
 tcltk2: 1.2-11
 tclust: 2.0-4
-tcpl: 3.1.0
+tcpl: 3.2.0
 tcplfit2: 0.1.7
 tcsinvest: 0.1.1
 td: 0.0.6
@@ -27461,7 +27461,7 @@ vol2birdR: 1.0.5
 volatilityTrader: 1.0.1
 volcano3D: 2.0.9
 volcanoPlot: 1.0.0
-volesti: 1.1.2-7
+volesti: 1.1.2-8
 volker: 2.1.0
 volleystat: 0.2.0
 voluModel: 0.2.2
