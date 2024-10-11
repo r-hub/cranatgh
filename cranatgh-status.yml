@@ -131,7 +131,7 @@ APML0: '0.10'
 APPEstimation: 0.1.1
 APSIM: 0.9.3
 APSIMBatch: 0.1.0.2374
-APackOfTheClones: 1.2.0
+APackOfTheClones: 1.2.1
 APfun: 0.1.6
 APtools: 6.8.8
 AQEval: 0.5.7
@@ -967,7 +967,7 @@ CDVineCopulaConditional: 0.1.1
 CDatanet: 2.2.0
 CDsampling: 0.1.0
 CEAmarkov: 0.1.0
-CEC: 0.11.1
+CEC: 0.11.2
 CEDA: 1.1.1
 CEDARS: '1.90'
 CEEMDANML: 0.1.0
@@ -1230,6 +1230,7 @@ CepLDA: 1.0.0
 CerioliOutlierDetection: 1.1.15
 Certara.NLME8: 1.2.4
 Certara.R: 1.1.0
+Certara.VPCResults: 3.0.1
 CfEstimateQuantiles: '1.0'
 ChIPtest: '1.0'
 ChainLadder: 0.2.19
@@ -1255,7 +1256,7 @@ ChillModels: 1.0.2
 ChineseNames: '2023.8'
 ChoR: 0.0-4
 ChocoLattes: 0.1.0
-ChoiceModelR: 1.3.0
+ChoiceModelR: 1.3.1
 CholWishart: 1.1.4
 CircE: '1.1'
 CircMLE: 0.3.0
@@ -1736,7 +1737,7 @@ DPQ: 0.5-9
 DPQmpfr: 0.3-3
 DPTM: 1.5.0
 DPWeibull: '1.8'
-DPpack: 0.2.0
+DPpack: 0.2.1
 DPpackage: 1.1-7.4
 DPtree: 1.0.1
 DPw: 1.1.3
@@ -3512,7 +3513,7 @@ ISR: 2022.4.22
 ISR3: '0.98'
 ISRaD: 2.5.5
 ISS: 1.0.0
-ISwR: 2.0-8
+ISwR: 2.0-9
 ITGM: '0.42'
 ITNr: 0.7.0
 ITRLearn: 1.0-1
@@ -5002,7 +5003,7 @@ NipponMap: '0.2'
 NitrogenUptake2016: 0.2.3
 NlcOptim: '0.6'
 NlinTS: 1.4.5
-NlsyLinks: 2.2.1
+NlsyLinks: 2.2.2
 Nmisc: 0.3.7
 Nmix: 2.0.5
 NobBS: 1.0.0
@@ -5771,7 +5772,7 @@ PurBayes: '1.3'
 PurpleAir: 1.0.1
 Pursuit: 1.0.5
 PvSTATEM: 0.0.4
-PwrGSD: 2.3.7
+PwrGSD: 2.3.8
 PxWebApiData: 0.9.0
 PythonInR: 0.1-12
 PytrendsLongitudinalR: 0.1.4
@@ -5832,7 +5833,7 @@ QTOCen: 0.1.1
 QUALYPSO: '2.3'
 QUIC: 1.1.1
 QVM: 0.1.1
-QWDAP: 1.1.18
+QWDAP: 1.1.20
 QZ: 0.2-3
 Qapprox: 0.2.0
 Qardl: 0.1.1
@@ -6038,6 +6039,7 @@ REFA: 0.1.0
 REGENT: 1.0.6
 REIDS: 0.1.0
 REMLA: '1.1'
+REN: 0.1.0
 REPLesentR: 0.4.1
 REPPlab: 0.9.6
 REPPlabShiny: 0.4.2
@@ -8481,11 +8483,11 @@ VedicDateTime: 0.1.9
 VennDiagram: 1.7.3
 VertexSimilarity: '0.1'
 VertexSort: 0.1-1
-VertexWiseR: 1.0.1
+VertexWiseR: 1.1.0
 VeryLargeIntegers: 0.2.1
 VetResearchLMM: 1.0.0
 VhayuR: 1.1.2
-ViSe: 0.1.2
+ViSe: 0.1.3
 ViSiElse: 1.2.2
 VicmapR: 0.2.3
 Vicus: 0.99.0
@@ -9465,6 +9467,7 @@ autoimage: 2.2.3
 autokeras: 1.0.12
 automagic: 0.5.1
 automap: 1.1-12
+autometric: 0.0.5
 automl: 1.3.2
 automultinomial: 2.0.0
 autonewsmd: 0.0.8
@@ -11875,6 +11878,7 @@ ctsfeatures: 1.2.2
 ctv: 0.9-5
 ctxR: 1.0.0
 cuRe: 1.1.1
+cuadramelo: 1.0.0
 cubar: 1.0.0
 cubature: 2.1.1
 cubble: 1.0.0
@@ -12058,7 +12062,7 @@ dashTable: 4.7.0
 dashboard: 0.1.0
 dashboardthemes: 1.1.6
 dat: 0.5.0
-data.table: 1.16.0
+data.table: 1.16.2
 data.tree: 1.1.0
 data.validator: 0.2.1
 data.world: 1.2.2
@@ -12535,7 +12539,7 @@ disaggR: 1.0.5.3
 disaggregation: 0.4.0
 disastr.api: 1.0.6
 disbayes: 1.1.0
-discAUC: 1.0.0
+discAUC: 1.0.3
 discFA: 1.0.1
 discSurv: 2.0.0
 discfrail: '0.1'
@@ -13547,7 +13551,7 @@ eva: 0.2.6
 evabic: 0.1.1
 evalITR: 1.0.0
 evalR: 0.0.1
-evaluate: 1.0.0
+evaluate: 1.0.1
 evaluator: 0.4.3
 evapoRe: 1.0.0
 evclass: 2.0.2
@@ -14123,7 +14127,7 @@ fit4NM: 3.3.3
 fitConic: 1.2.1
 fitDRC: 1.1.1
 fitHeavyTail: 0.2.0
-fitODBOD: 1.5.2
+fitODBOD: 1.5.3
 fitODBODRshiny: 1.0.2
 fitPS: 1.0.1
 fitPoly: 3.0.0
@@ -14582,7 +14586,7 @@ gMWT: '1.4'
 gPCA: '1.0'
 gPdtest: '0.4'
 gProfileR: 0.7.0
-gRain: 1.4.3
+gRain: 1.4.4
 gRapHD: 0.2.6
 gRapfa: '1.0'
 gRaven: 1.1.8
@@ -14754,7 +14758,7 @@ gdpc: 1.1.4
 gds: 0.1.1
 gdsfmt: 1.1.0.1
 gdtools: 0.4.0
-gdverse: 1.0-3
+gdverse: 1.1.0
 gdxdt: 0.1.0
 gear: 0.3.4
 gearman: 0.1-5
@@ -14830,7 +14834,7 @@ generics: 0.1.3
 genero: 0.1.0
 geneset: 0.2.7
 genesysr: 2.1.1
-genetic.algo.optimizeR: 0.2.6
+genetic.algo.optimizeR: 0.3.2
 geneticae: 0.4.0
 genetics: 1.3.8.1.3
 genfrn: 0.1.4
@@ -14860,6 +14864,7 @@ genset: 0.1.0
 gensphere: '1.3'
 genstab: 1.0.0
 gensvm: 0.1.7
+genular: 1.0.0
 genvar: 0.0.2.0
 geo: 1.4-3
 geoAr: 1.0.0
@@ -14960,6 +14965,7 @@ geozoo: 0.5.1
 gepaf: 0.1.1
 geppe: '1.0'
 gerbil: 0.1.9
+gerefer: 0.1.0
 germanpolls: '0.3'
 germinationmetrics: 0.1.8
 gert: 2.1.2
@@ -15884,7 +15890,7 @@ hdeco: 0.4.1
 hdf5: 1.6.9
 hdf5r: 1.3.11
 hdf5r.Extra: 0.0.6
-hdflex: 0.2.1
+hdflex: 0.3.0
 hdfqlr: 0.6-2
 hdi: 0.1-9
 hdiVAR: 1.0.2
@@ -15969,7 +15975,7 @@ hetu: 1.0.7
 heumilkr: 0.2.0
 heuristica: 1.0.3
 heuristicsmineR: 0.3.0
-hexDensity: 1.4.4
+hexDensity: 1.4.5
 hexFinder: 0.8.2
 hexSticker: 0.4.9
 hexView: 0.3-4
@@ -16435,7 +16441,7 @@ ids: 1.0.1
 idx2r: 1.0.0
 ie2misc: 0.9.1
 ie2miscdata: 1.0.4
-ieeeround: 0.2-0
+ieeeround: 0.2-2
 ieegio: 0.0.1
 iemisc: 1.0.5
 iemiscdata: 1.0.3
@@ -17527,7 +17533,7 @@ lfda: 1.1.3
 lfe: 3.0-0
 lfl: 2.2.0
 lfmm: '1.1'
-lfproQC: 1.3.0
+lfproQC: 1.4.0
 lfstat: 0.9.12
 lg: 0.4.1
 lga: 1.1-1
@@ -18075,7 +18081,7 @@ mapi: 1.0.5
 mapiso: 0.3.0
 maple: 0.99.5
 maplegend: 0.1.0
-mapme.biodiversity: 0.9.1
+mapme.biodiversity: 0.9.2
 mapmisc: 2.1.0
 mapmixture: 1.1.4
 mappeR: 1.0.0
@@ -19510,7 +19516,7 @@ nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.18.0
 naflex: 0.1.0
-naijR: 0.6.0
+naijR: 0.6.1
 naive: 1.2.3
 naivebayes: 1.0.0
 naivereg: 1.0.5
@@ -19614,7 +19620,7 @@ neo2R: 2.4.2
 neo4jshell: 0.1.2
 neo4r: 0.1.1
 neodistr: 0.1.1
-neojags: 0.1.4
+neojags: 0.1.5
 neonOS: 1.1.0
 neonPlantEcology: 1.6.1
 neonSoilFlux: 1.0.0
@@ -19641,7 +19647,7 @@ netClust: 1.0.1
 netCoin: 2.0.48
 netSEM: 0.6.2
 netShiny: '1.0'
-netUtils: 0.8.2
+netUtils: 0.8.3
 netassoc: 0.7.0
 netchain: 0.2.0
 netcmc: 1.0.2
@@ -19770,7 +19776,7 @@ nipnTK: 0.2.0
 nitrcbot: '1.2'
 nivm: '0.5'
 nixmass: 1.0.2
-nixtlar: 0.5.2
+nixtlar: 0.6.1
 njgeo: 0.1.0
 njtr1: 0.3.2
 nlADG: 0.1-0
@@ -19859,7 +19865,7 @@ nnetpredint: '1.2'
 nnfor: 0.9.9
 nngeo: 0.4.8
 nnlasso: '0.3'
-nnlib2Rcpp: 0.2.8
+nnlib2Rcpp: 0.2.9
 nnls: '1.5'
 nnspat: 0.1.2
 nnt: 0.1.4
@@ -20559,7 +20565,7 @@ pairwise: 0.6.1-0
 pairwiseCI: 0.1-27
 pairwiseComparisons: 3.2.0
 pak: 0.8.0
-pakret: 0.2.0
+pakret: 0.2.1
 palaeoSig: 2.1-3
 palaeoverse: 1.3.0
 palasso: 1.0.0
@@ -22414,7 +22420,7 @@ randgeo: 0.3.0
 randnet: '0.7'
 rando: 0.2.0
 random: 0.2.6
-random.cdisc.data: 0.3.15
+random.cdisc.data: 0.3.16
 random.polychor.pa: 1.1.4-5
 randomForest: 4.7-1.2
 randomForest.ddR: 0.1.2
@@ -22670,7 +22676,7 @@ rdracor: 1.0.4
 rdrobust: '2.2'
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
-rdss: 1.0.10
+rdss: 1.0.12
 rdtLite: '1.4'
 rdwd: 1.8.0
 rdwplus: 1.0.0
@@ -24878,7 +24884,7 @@ sm: 2.2-6.0
 sma: 0.5.15
 smaa: 0.3-3
 smac: '1.0'
-smacof: 2.1-6
+smacof: 2.1-7
 smacofx: 1.6-1
 smacpod: '2.6'
 smallarea: '0.1'
@@ -25440,7 +25446,7 @@ srvyr: 1.3.0
 ss3sim: 1.0.3
 ssMRCD: 1.1.0
 ssMousetrack: 1.1.6
-ssMutPA: 0.1.0
+ssMutPA: 0.1.1
 ssa: 1.3.0
 ssaBSS: 0.1.1
 ssanv: '1.1'
@@ -25963,7 +25969,7 @@ svyweight: 0.1.0
 swCRTdesign: '4.0'
 swa: 0.8.1
 swaRm: 0.6.0
-swaRmverse: 0.1.0
+swaRmverse: 0.1.1
 swag: 0.1.0
 swagger: 5.17.14.1
 swamp: 1.5.1
@@ -26449,6 +26455,7 @@ tidyinftheo: 0.2.1
 tidyjson: 0.3.2
 tidylab: 4.1.1
 tidylda: 0.0.5
+tidyllm: 0.1.0
 tidylo: 0.2.0
 tidylog: 1.1.0
 tidymargins: 0.1.0
@@ -27808,7 +27815,7 @@ wrMisc: 1.15.2
 wrProteo: 1.12.0
 wrTopDownFrag: 1.0.2
 wrangle: 0.6.4
-wrappedtools: 0.9.5
+wrappedtools: 0.9.6
 wrappr: 0.1.0
 wrapr: 2.1.0
 wrassp: 1.0.5
