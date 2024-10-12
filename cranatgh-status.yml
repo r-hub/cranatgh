@@ -232,6 +232,7 @@ AdjBQR: '1.0'
 AdvBinomApps: '1.0'
 AdvDif4: 0.7.18
 AdvancedBasketballStats: 1.0.1
+AdverseEvents: 0.0.1
 AeRobiology: 2.0.1
 Aelasticnet: 2.13.1
 AeroSampleR: 0.2.0
@@ -2037,7 +2038,7 @@ EBcoBART: 1.1.0
 EBglmnet: '6.0'
 EBrank: 1.0.0
 ECFsup: 0.1-2
-ECGofTestDx: '0.4'
+ECGofTestDx: '0.5'
 ECLRMC: '1.0'
 ECOSolveR: 0.5.5
 ECOTOXr: 1.1.1
@@ -2278,7 +2279,7 @@ EpiILM: 1.5.2
 EpiILMCT: 1.1.7
 EpiInvert: 0.3.1
 EpiLPS: 1.3.0
-EpiModel: 2.4.0
+EpiModel: 2.5.0
 EpiNow2: 1.6.0
 EpiReport: 1.0.2
 EpiResTest: '1.0'
@@ -3639,7 +3640,7 @@ JATSdecoder: 1.2.0
 JBTools: 0.7.2.9
 JBrowseR: 0.10.2
 JCRImpactFactor: 1.0.0
-JDCruncheR: 0.3.0
+JDCruncheR: 0.3.1
 JFE: 2.5.7
 JFM: '1.0'
 JGEE: '1.1'
@@ -3760,6 +3761,7 @@ KernelKnn: 1.1.5
 Kernelheaping: 2.3.0
 Keyboard: 0.1.3
 KeyboardSimulator: 2.6.2
+Kifidi: 0.1.0
 KinMixLite: 2.1.1
 KingCountyHouses: 0.1.0
 Kira: 1.0.6
@@ -4052,7 +4054,7 @@ LoopAnalyst: 1.2-7
 LoopDetectR: 0.1.2
 LoopRig: 0.1.1
 LorMe: 1.1.0
-LorenzRegression: 2.0.0
+LorenzRegression: 2.1.0
 LotkasLaw: 0.0.1.0
 LowRankQP: 1.0.6
 LowWAFOMNX: 1.1.1
@@ -6622,7 +6624,7 @@ Rcplex: 0.3-6
 Rcpp: 1.0.13
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.9
-RcppAlgos: 2.8.3
+RcppAlgos: 2.8.5
 RcppAnnoy: 0.0.22
 RcppArmadillo: 14.0.2-1
 RcppArray: 0.3.0
@@ -8545,6 +8547,7 @@ WOAkMedoids: 0.1.0
 WOTPLY: 0.1.0
 WPC: '1.0'
 WPKDE: '0.1'
+WQM: 0.1.4
 WR: '1.0'
 WRI: 0.2.0
 WRS2: 1.1-6
@@ -9020,7 +9023,7 @@ aldvmm: 0.8.8
 ale: 0.3.0
 alfr: 1.2.1
 alfred: 0.2.1
-algaeClassify: 2.0.2
+algaeClassify: 2.0.3
 algo: 0.1.0
 algorithmia: 0.3.0
 algstat: 0.0.2
@@ -9069,7 +9072,7 @@ alterryx: 0.5.0
 altfuelr: 0.1.0
 altmeta: '4.2'
 amVennDiagram5: 1.0.0
-amadeus: 1.0.7
+amadeus: 1.1.3
 amanida: 0.3.0
 amanpg: 0.3.4
 amap: 0.8-19.1
@@ -9401,7 +9404,7 @@ atRisk: 0.1.0
 ata: 1.1.1
 atable: 0.1.15
 atakrig: 0.9.8.1
-atime: 2024.10.3
+atime: 2024.10.5
 atlantistools: 0.4.3
 atlas: 1.0.0
 atm: 0.1.0
@@ -9579,7 +9582,7 @@ bama: 1.3.0
 bamboo: 0.9.25
 bambooHR: 0.1.1
 bamdit: 3.4.2
-bamlss: 1.2-4
+bamlss: 1.2-5
 bamm: 0.5.0
 bamp: 2.1.3
 bams: '1.6'
@@ -10434,7 +10437,7 @@ butterflyOptions: 1.0.1
 bvarsv: '1.1'
 bvartools: 0.2.4
 bvenn: '0.1'
-bvhar: 2.1.1
+bvhar: 2.1.2
 bvls: '1.4'
 bvpSolve: 1.4.4.1
 bvpa: 1.0.0
@@ -11731,7 +11734,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.9.5
+crew: 0.10.0
 crew.aws.batch: 0.0.6
 crew.cluster: 0.3.2
 crfsuite: 0.4.2
@@ -11809,7 +11812,7 @@ cruts: '1.1'
 crwbmetareg: '1.0'
 cry: 0.5.1
 crypto: 1.1.3
-crypto2: 2.0.2
+crypto2: 2.0.3
 cryptoQuotes: 1.3.1
 cryptoTax: 0.0.5
 cryptography: 1.0.0
@@ -12063,6 +12066,7 @@ dashboard: 0.1.0
 dashboardthemes: 1.1.6
 dat: 0.5.0
 data.table: 1.16.2
+data.table.threads: 1.0.0
 data.tree: 1.1.0
 data.validator: 0.2.1
 data.world: 1.2.2
@@ -12863,7 +12867,7 @@ dstabledist: 0.1.0
 dstack: 0.2.1
 dstat: 1.0.4
 dstat2x2xk: 0.2.0
-dtComb: 1.0.2
+dtComb: 1.0.4
 dtables: 0.2.0
 dtangle: 2.0.9
 dtgiw: 1.0.0
@@ -13038,7 +13042,7 @@ eatATA: 1.1.2
 eatDB: 0.5.0
 eatGADS: 1.1.1
 eatRep: 0.14.7
-eatTools: 0.7.6
+eatTools: 0.7.7
 ebGenotyping: 2.0.1
 ebSNP: '1.0'
 ebTobit: 1.0.2
@@ -14321,7 +14325,7 @@ forestinventory: 1.0.0
 forestly: 0.1.1
 forestmangr: 0.9.7
 forestmodel: 0.6.2
-forestplot: 3.1.3
+forestplot: 3.1.5
 forestploter: 1.1.2
 forestr: 2.0.2
 forestry: 0.1.1
@@ -14589,7 +14593,7 @@ gProfileR: 0.7.0
 gRain: 1.4.4
 gRapHD: 0.2.6
 gRapfa: '1.0'
-gRaven: 1.1.8
+gRaven: 1.1.10
 gRbase: 2.0.2
 gRc: 0.5.0
 gRcox: '0.1'
@@ -15638,7 +15642,7 @@ grmsem: 1.1.0
 grnn: 0.1.0
 grnnR: '1.0'
 grobblR: 0.2.1
-groc: 1.0.9
+groc: 1.0.10
 grofit: 1.1.1-1
 gromovlab: 0.8-3
 groqR: 0.0.1
@@ -15670,7 +15674,7 @@ grpCox: 1.0.2
 grpSLOPE: 0.3.3
 grplasso: 0.4-7
 grplassocat: '1.0'
-grpnet: '0.5'
+grpnet: '0.6'
 grppenalty: 2.1-0
 grpreg: 3.5.0
 grpregOverlap: 2.2-0
@@ -15709,7 +15713,7 @@ gspcr: 0.9.5
 gsrc: '1.1'
 gsrs: 0.1.1
 gsrsb: 1.2.1
-gss: 2.2-7
+gss: 2.2-8
 gsscopu: 0.9-3
 gstar: 0.1.0
 gstat: 2.1-2
@@ -15729,7 +15733,7 @@ gtexr: 0.1.0
 gtexture: 1.0.0
 gtfs2emis: 0.1.0
 gtfs2gps: 2.1-2
-gtfsio: 1.1.1
+gtfsio: 1.2.0
 gtfsrouter: 0.1.2
 gtfstools: 1.3.0
 gtheory: 0.1.2
@@ -15919,7 +15923,7 @@ healthyAddress: 0.4.3
 healthyR: 0.2.2
 healthyR.ai: 0.1.0
 healthyR.data: 1.1.1
-healthyR.ts: 0.3.0
+healthyR.ts: 0.3.1
 healthyverse: 1.1.0
 heapsofpapers: 0.1.0
 heatex: '1.0'
@@ -17178,7 +17182,7 @@ kissmig: 1.0-5
 kit: 0.0.19
 kitagawa: 3.1.2
 kittyR: 1.1.0
-kiwisR: 0.2.0
+kiwisR: 0.2.4
 kknn: 1.3.1
 kko: 1.0.1
 klaR: 1.7-3
@@ -17819,7 +17823,7 @@ longevity: 1.1.1
 longit: 0.1.0
 longitudinal: 1.1.13
 longitudinalANAL: '0.2'
-longitudinalData: 2.4.5.1
+longitudinalData: 2.4.7
 longitudinalcascade: 0.3.2.6
 longke: 0.1.0
 longmemo: 1.1-3
@@ -19154,7 +19158,7 @@ mppa: '1.0'
 mpr: 1.0.6
 mprobit: 0.9-3
 mpspline2: 0.1.6
-mpt: 0.8-0
+mpt: 1.0-0
 mptools: 1.0.1
 mpwR: 0.1.5
 mr: '0.1'
@@ -19492,6 +19496,7 @@ mxsem: 0.1.0
 myCRAN: '1.1'
 myClim: 1.2.0
 myTAI: 0.9.3
+mycaas: 0.0.1
 mycobacrvR: '1.1'
 mycor: 0.1.1
 myepisodes: 1.1.1
@@ -19709,6 +19714,7 @@ neuronorm: 1.0.2
 neuropsychology: 0.5.0
 neurovault: 0.5.5
 neutralitytestr: 0.0.3
+neutrostat: 0.0.1
 nevada: 0.2.0
 neverhpfilter: 0.4-0
 new.dist: 0.1.1
@@ -20045,7 +20051,7 @@ ntsDatasets: 0.2.0
 ntsDists: 2.1.1
 ntwk: 1.0.0
 nucim: 1.0.11
-nuggets: 1.1.0
+nuggets: 1.2.0
 nullabor: 0.3.12
 numConversion: 0.2-4
 numDeriv: 2016.8-1.1
@@ -20289,6 +20295,7 @@ openeo: 1.3.1
 openintro: 2.5.0
 openmeteo: 0.2.4
 openmetrics: 0.3.0
+openrouteservice: 0.5.3
 openscoring: 1.0.4
 opensensmapr: 0.6.0
 openssl: 2.2.2
@@ -20510,6 +20517,7 @@ pGRN: 0.3.5
 pKSEA: 0.0.1
 pMEM: 0.1-1
 pMineR: '0.31'
+pPCA: '1.0'
 pRF: '1.2'
 pROC: 1.18.5
 pRSR: 3.1.1
@@ -20548,7 +20556,7 @@ padr: 0.6.2
 paf: '1.0'
 pafdR: '1.0'
 pafr: 0.0.2
-pagedown: '0.20'
+pagedown: '0.21'
 pagemap: 0.1.3
 pagenum: '1.3'
 pageviews: 0.6.0
@@ -21246,6 +21254,7 @@ plinkQC: 0.3.4
 plm: 2.6-4
 plmDE: '1.0'
 plmm: 0.1-1
+plmmr: 4.0.0
 pln: 0.2-2
 plnr: 2022.11.23
 plogr: 0.2.0
@@ -21934,6 +21943,7 @@ pwlmm: 1.1.1
 pwr: 1.3-0
 pwr2: '1.0'
 pwr2ppl: 0.5.0
+pwr4exp: 0.1.0
 pwrAB: 0.1.0
 pwrFDR: 2.8.9
 pwrRasch: 0.1-2
@@ -22148,7 +22158,7 @@ quickPlot: 1.0.2
 quickReg: 1.5.0
 quickblock: 0.2.2
 quickcheck: 0.1.3
-quickcode: 1.0.0
+quickcode: 1.0.1
 quickerstats: 0.0.1
 quickmapr: 0.3.0
 quickmatch: 0.2.3
@@ -22374,7 +22384,7 @@ radiant: 1.6.6
 radiant.basics: 1.6.6
 radiant.data: 1.6.6
 radiant.design: 1.6.6
-radiant.model: 1.6.6
+radiant.model: 1.6.7
 radiant.multivariate: 1.6.6
 radiomics: 0.1.3
 radir: 1.0.4
@@ -23463,6 +23473,7 @@ ror: '1.2'
 rorcid: 0.7.0
 rorqual.morpho: 0.1.1
 rorutadis: 0.4.2
+roseRF: 0.1.0
 rosetta: 0.3.12
 rosetteApi: 1.14.4
 rosm: 0.3.0
@@ -23965,6 +23976,7 @@ saotd: 0.3.1
 sapa: 2.0-3
 sapevom: 0.2.0
 sapfluxnetr: 0.1.4
+sapo: 0.8.0
 saps: 1.0.0
 saqgetr: 0.2.21
 sara4r: 0.1.0
@@ -24400,7 +24412,7 @@ sevenbridges2: 0.2.0
 sever: 0.0.7
 severity: '2.0'
 sewage: 0.2.5
-sf: 1.0-17
+sf: 1.0-18
 sfa: 1.0-1
 sfaR: 1.0.0
 sfadv: 1.0.1
@@ -24461,7 +24473,7 @@ shapes: 1.2.7
 shapley: '0.3'
 shapper: 0.1.3
 shapr: 0.2.2
-shapviz: 0.9.5
+shapviz: 0.9.6
 shar: '2.3'
 sharp: 1.4.6
 sharpData: '1.4'
@@ -26043,7 +26055,7 @@ syntenyPlotteR: 1.0.0
 synthACS: 1.7.1
 synthesis: 1.2.5
 synthesisr: 0.3.0
-synthesizer: 0.3.0
+synthesizer: 0.3.1
 synthpop: 1.8-0
 syrup: 0.1.1
 sys: 3.4.3
@@ -26340,7 +26352,7 @@ tfprobability: 0.15.1
 tframe: 2015.12-1.1
 tframePlus: 2024.2-1
 tfrmt: 0.1.2
-tfrmtbuilder: 0.0.6
+tfrmtbuilder: 0.1.0
 tfruns: 1.5.3
 tfse: 0.5.0
 tgamtheme: 0.1.0
@@ -26925,7 +26937,7 @@ tsfeatures: 1.1.1
 tsfgrnn: 1.0.5
 tsfknn: 0.6.0
 tsfngm: 0.1.0
-tsgarch: 1.0.2
+tsgarch: 1.0.3
 tsgc: '0.0'
 tsgui: 0.2.1
 tsiR: 0.4.3
@@ -27741,7 +27753,7 @@ withdots: 0.1.1
 wither: 0.1.0
 withr: 3.0.1
 witness: '1.2'
-wk: 0.9.3
+wk: 0.9.4
 wkNNMI: 1.0.0
 wkb: 0.4-0
 wktmo: 1.0.5
@@ -27958,7 +27970,7 @@ yager: 0.1.1
 yahoofinancer: 0.3.0
 yakmoR: 0.1.1
 yaml: 2.3.10
-yamlet: 1.1.2
+yamlet: 1.1.3
 yamlme: 0.1.2
 yap: 0.1.1
 yaps: 1.2.5
