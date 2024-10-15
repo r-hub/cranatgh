@@ -551,7 +551,7 @@ BRINDA: 0.1.5
 BRISC: 1.0.6
 BRL: 0.1.0
 BRVM: 5.3.0
-BRcal: 1.0.0
+BRcal: 1.0.1
 BRugs: 0.9-2.1
 BSBT: 1.2.1
 BSDA: 1.2.2
@@ -1651,7 +1651,7 @@ DEVis: 1.0.1
 DEXiR: 1.0.2
 DEoptim: 2.2-8
 DEoptimR: 1.1-3
-DEploid: 0.5.3
+DEploid: 0.5.4
 DFA: 1.0.0
 DFA.CANCOR: 0.2.8
 DFBA: 0.1.0
@@ -2102,7 +2102,7 @@ EMAR: 1.0.0
 EMAS: 0.2.2
 EMAtools: 0.1.4
 EMC: '1.3'
-EMC2: 2.0.2
+EMC2: 2.1.0
 EMCC: '1.3'
 EMCluster: 0.2-16
 EMD: 1.5.9
@@ -2903,6 +2903,7 @@ GSD: 1.0.0
 GSDA: '1.0'
 GSE: 4.2-1
 GSED: '2.6'
+GSEMA: 0.99.3
 GSIF: 0.5-5.1
 GSM: 1.3.2
 GSMX: '1.3'
@@ -4520,7 +4521,7 @@ MatchItEXT: 0.0.1
 MatchItSE: '1.0'
 MatchLinReg: 0.8.1
 MatchThem: 1.2.1
-Matching: 4.10-14
+Matching: 4.10-15
 MatchingFrontier: 1.0.0
 Matrix: 1.7-0
 Matrix.utils: 0.9.8
@@ -4710,7 +4711,7 @@ ModelMatrixModel: 0.1.0
 ModelMetrics: 1.2.2.2
 Modelcharts: 0.1.0
 Modeler: 3.4.5
-MolgenisArmadillo: 2.6.3
+MolgenisArmadillo: 2.7.0
 MolgenisAuth: 0.0.25
 MomTrunc: '6.0'
 Momocs: 1.4.1
@@ -4893,7 +4894,7 @@ NMproject: 0.6.9
 NMsim: 0.1.3
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 10.9.2
+NNS: 10.9.3
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.8.7
@@ -4908,7 +4909,7 @@ NPC: 1.1.0
 NPCD: 1.0-11
 NPCDTools: '1.0'
 NPCirc: 3.1.1
-NPCox: '1.2'
+NPCox: '1.3'
 NPHMC: '2.3'
 NPHazardRate: '0.1'
 NPIstats: 0.1.0
@@ -4975,7 +4976,7 @@ NetMix: 0.2.0.2
 NetOrigin: 1.1-6
 NetPreProc: '1.2'
 NetRep: 1.2.7
-NetSci: 1.0.0
+NetSci: 1.0.1
 NetSim: '0.9'
 NetSimR: 0.1.5
 NetSwan: '0.1'
@@ -6643,7 +6644,7 @@ RcppClock: '1.1'
 RcppColors: 0.6.0
 RcppDE: 0.1.7
 RcppDL: 0.0.5
-RcppDate: 0.0.3
+RcppDate: 0.0.4
 RcppDist: 0.1.1
 RcppDynProg: 0.2.1
 RcppEigen: 0.3.4.0.2
@@ -7099,6 +7100,7 @@ SCBiclust: 1.0.1
 SCBmeanfd: 1.2.2
 SCCI: '1.2'
 SCCS: '1.7'
+SCDA: 0.0.1
 SCDB: 0.4.1
 SCEM: 1.1.0
 SCEPtER: 0.2-4
@@ -7438,7 +7440,7 @@ SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.5.1
 SWMPrExtension: 2.2.5.1
-SWTools: 1.0.3
+SWTools: 1.1.0
 SYNCSA: 1.3.4
 Sabermetrics: '2.0'
 SafeBayes: '1.1'
@@ -7776,7 +7778,7 @@ SpiceFP: 0.1.2
 Spillover: 0.1.1
 Splinets: 1.5.0
 SplitGLM: 1.0.5
-SplitKnockoff: '1.2'
+SplitKnockoff: '2.1'
 SplitReg: 1.0.2
 SplitSoftening: 2.1-0
 SplitSplitPlot: 0.0.1
@@ -8924,6 +8926,7 @@ afc: 1.4.0
 afcolours: 1.0.0
 afdx: 1.1.1
 afex: 1.4-1
+affiner: 0.1.1
 affinity: 0.2.5
 affinitymatrix: 0.1.0
 affluenceIndex: '2.2'
@@ -9642,6 +9645,7 @@ bastah: 1.0.7
 batade: '0.1'
 batata: 0.2.1
 batch: 1.1-5
+batchLLM: 0.2.0
 batchmeans: 1.0-4
 batchmix: 2.2.1
 batchr: 0.0.2
@@ -10832,7 +10836,7 @@ chartql: 0.1.0
 chatAI4R: 0.2.10
 chatgpt: 0.2.3
 chattr: 0.2.0
-cheapr: 0.9.8
+cheapr: 0.9.9
 cheatR: 1.2.1-1
 cheatmap: 1.0.0
 cheatsheet: 0.1.2
@@ -11093,6 +11097,7 @@ clustMD: 1.2.1
 clustMixType: 0.4-2
 clustNet: 1.2.0
 clustRcompaR: 0.2.0
+clustTMB: 0.1.0
 clustTool: 1.6.5
 clustcurv: 2.0.1
 cluster: 2.1.6
@@ -11198,7 +11203,7 @@ codadiags: '1.0'
 codalm: 0.1.2
 codaredistlm: 0.1.0
 codeCollection: 0.1.3
-codebook: 0.9.2
+codebook: 0.9.5
 codebookr: 0.1.8
 codebreaker: 1.0.1
 codecountR: 0.0.4.0
@@ -11570,7 +11575,7 @@ corrgram: '1.14'
 corrgrapher: 1.0.4
 corrmeta: 1.0.0
 corrperm: '2.0'
-corrplot: '0.94'
+corrplot: '0.95'
 corrr: 0.4.4
 corrsieve: 1.6-9
 corrtable: 0.1.1
@@ -11890,7 +11895,7 @@ cubeview: 0.2.0
 cubfits: 0.1-4
 cubicBsplines: 1.0.0
 cubing: 1.0-5
-cucumber: 1.0.4
+cucumber: 1.1.0
 cuda.ml: 0.3.2
 cudaBayesreg: 0.3-16
 cudaBayesregData: 0.3-11
@@ -12324,7 +12329,7 @@ dendroExtra: 0.0.2
 dendroNetwork: 0.5.4
 dendroTools: 1.2.13
 dendroextras: 0.2.3
-dendrometeR: 1.0.0
+dendrometeR: 1.1.0
 dendrometry: 0.0.2
 dendsort: 0.3.4
 denguedatahub: 2.1.1
@@ -12640,7 +12645,7 @@ diverge: 2.0.6
 diverse: 0.1.5
 diversitree: 0.10-1
 diversityForest: 0.5.0
-divest: 1.0.0
+divest: 1.1.0
 divisors: 0.1-4
 divo: 1.0.1
 divraster: 1.0.4
@@ -12758,7 +12763,7 @@ douconca: 1.2.1
 doudpackage: 2.1.0
 downlit: 0.4.4
 downloader: '0.4'
-downloadthis: 0.4.0
+downloadthis: 0.4.1
 downscale: 5.0.0
 downscaledl: '1.0'
 downsize: 0.2.3
@@ -13280,7 +13285,7 @@ emil: 2.2.10
 emld: 0.5.1
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 1.10.4
+emmeans: 1.10.5
 emoa: 0.5-3
 emoji: '15.0'
 emojifont: 0.5.5
@@ -13382,6 +13387,7 @@ epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.15.1.0
 epicasting: 0.1.0
+epichains: 0.1.1
 epicontacts: 1.1.4
 epidata: 0.4.0
 epidatr: 1.2.0
@@ -13539,7 +13545,7 @@ eudract: 1.0.1
 eufmdis.adapt: 0.1.0
 eulerian: '1.0'
 eulerr: 7.0.2
-eummd: 0.1.9
+eummd: 0.2.0
 eunis.habitats: 0.1.0
 eurlex: 0.4.8
 euroMix: 1.1.1
@@ -14972,7 +14978,7 @@ gerbil: 0.1.9
 gerefer: 0.1.0
 germanpolls: '0.3'
 germinationmetrics: 0.1.8
-gert: 2.1.3
+gert: 2.1.4
 gesca: 1.0.4
 gesis: 0.2.2
 gesisdata: 0.1.2
@@ -16263,7 +16269,7 @@ hyperdirichlet: 1.5-1
 hypergate: 0.8.5
 hypergea: 1.3.6
 hypergeo: 1.2-13
-hypergeo2: 0.1.0
+hypergeo2: 0.2.0
 hyperoverlap: 1.1.1
 hypersampleplan: 0.1.1
 hypervolume: 3.1.4
@@ -17213,6 +17219,7 @@ kmlShape: 0.9.5
 kmlcov: 1.0.1
 kmodR: 0.2.0
 kmscv: 0.1.0
+knfi: 1.0.0
 knitLatex: 0.9.0
 knitcitations: 1.0.12
 knitr: '1.48'
@@ -18425,7 +18432,7 @@ messi: 0.1.1
 messy.cats: '1.0'
 messydates: 0.4.1
 met: 0.1.0
-metR: 0.15.0
+metR: 0.16.0
 metRology: 0.9-28-1
 metScanR: 1.2.3
 meta: 7.0-0
@@ -18805,7 +18812,7 @@ mixtur: 1.2.1
 mixture: 2.1.1
 mixvlmc: 0.2.1
 mize: 0.2.4
-mizer: 2.5.1
+mizer: 2.5.2
 mkde: '0.3'
 mkin: 1.2.6
 mknapsack: 0.1.0
@@ -18882,7 +18889,7 @@ mlr3spatiotempcv: 2.3.1
 mlr3summary: 0.1.0
 mlr3superlearner: 0.1.2
 mlr3torch: 0.1.1
-mlr3tuning: 1.0.1
+mlr3tuning: 1.0.2
 mlr3tuningspaces: 0.5.1
 mlr3verse: 0.3.0
 mlr3viz: 0.9.0
@@ -18993,7 +19000,7 @@ modelcf: 2.1.1
 modeldata: 1.4.0
 modeldatatoo: 0.3.0
 modeldb: 0.3.0
-modelenv: 0.1.1
+modelenv: 0.2.0
 modelfactory: 1.0.0
 modelfree: '1.2'
 modelgrid: 1.2.0
@@ -19585,7 +19592,7 @@ ncdf: 1.6.9
 ncdf.tools: 0.7.1.295
 ncdf4: '1.23'
 ncdf4.helpers: 0.3-6
-ncdfCF: 0.1.1
+ncdfCF: 0.2.1
 ncdfgeom: 1.1.6
 ncdump: 0.0.3
 ncf: 1.3-2
@@ -19596,7 +19603,7 @@ ncomplete: 1.0-1
 ncpen: 1.0.0
 ncvar: 1.0-4
 ncvreg: 3.14.3
-nda: 0.1.13
+nda: 0.1.15
 ndi: 0.1.5
 ndjson: 0.9.0
 ndl: 0.2.18
@@ -20575,7 +20582,7 @@ pairwiseComparisons: 3.2.0
 pak: 0.8.0
 pakret: 0.2.1
 palaeoSig: 2.1-3
-palaeoverse: 1.3.0
+palaeoverse: 1.4.0
 palasso: 1.0.0
 pald: 0.0.4
 paleoAM: 1.0.1
@@ -20879,7 +20886,7 @@ pedbuildr: 0.3.0
 pedgene: '3.9'
 pedigree: 1.4.2
 pedigreeTools: '0.3'
-pedigreemm: 0.3-4
+pedigreemm: 0.3-5
 pedmod: 0.2.4
 pedmut: 0.7.1
 pedometrics: 0.12.1
@@ -21111,6 +21118,7 @@ phylosim: 3.0.5
 phylotaR: 1.0.0
 phylotate: '1.3'
 phylotools: 0.2.2
+phylotypr: 0.1.0
 phylter: 0.9.11
 phyndr: 0.1.0
 phyr: 1.1.0
@@ -21328,7 +21336,7 @@ plyr: 1.8.9
 pm3: 0.2.0
 pm4py: 1.2.7
 pmap: 0.6.0
-pmartR: 2.4.5
+pmartR: 2.4.6
 pmatch: 0.1.4
 pmc: 1.0.6
 pmcalibration: 0.1.0
@@ -21581,7 +21589,7 @@ pqrBayes: 1.0.2
 pqrfe: '1.1'
 prLogistic: '1.2'
 prWarp: 1.0.1
-praatpicture: 1.2.0
+praatpicture: 1.3.0
 prabclus: 2.3-4
 pracma: 2.4.4
 pracpac: 0.2.0
@@ -22507,7 +22515,7 @@ rasterKernelEstimates: 1.0.2
 rasterList: 0.5.20
 rasterVis: 0.51.6
 rasterbc: 1.0.2
-rasterdiv: 0.3.4
+rasterdiv: 0.3.5
 rasterize: '0.1'
 rasterly: 0.2.0
 rasterpdf: 0.1.1
@@ -23571,6 +23579,7 @@ rqlm: 2.1-1
 rqmcmb2: 1.0.2-1
 rqti: 0.3.0
 rquery: 1.4.99
+rquest: 1.0.2
 rr: 1.4.2
 rr2: 1.1.1
 rrBLUP: 4.6.3
@@ -23698,7 +23707,7 @@ rsvd: 1.0.5
 rsvddpd: 1.0.0
 rsvg: 2.6.1
 rswipl: 9.3.12
-rsyncrosim: 1.5.0
+rsyncrosim: 2.0.1
 rsyntax: 0.1.4
 rsyslog: 1.0.3
 rt: 1.1.0
@@ -24514,7 +24523,7 @@ shinyBS: 0.61.1
 shinyChakraSlider: 0.1.0
 shinyChakraUI: 1.1.1
 shinyChatR: 1.2.0
-shinyCohortBuilder: 0.3.0
+shinyCohortBuilder: 0.3.1
 shinyCox: 1.1.1
 shinyCyJS: 1.0.0
 shinyDND: 0.1.0
@@ -25580,11 +25589,11 @@ statespacer: 0.5.0
 statfi: 0.9.8
 statgenGWAS: 1.0.9
 statgenGxE: 1.0.9
-statgenHTP: 1.0.6.1
+statgenHTP: 1.0.7
 statgenIBD: 1.0.7
 statgenMPP: 1.0.2
 statgenQTLxT: 1.0.2
-statgenSTA: 1.0.13
+statgenSTA: 1.0.14
 static: 0.1.0
 staticryptR: 0.1.0
 stationaRy: 0.5.1
@@ -26234,7 +26243,7 @@ tempR: 0.10.1.1
 tempcyclesdata: 1.0.1
 tempdisagg: 1.1.1
 temperatureresponse: '0.2'
-templateICAr: 0.6.4
+templateICAr: 0.8.8
 templates: 0.4.0
 templr: 0.2-0
 tempoR: 1.0.4.4
@@ -26265,7 +26274,7 @@ tern: 0.9.6
 tern.gee: 0.1.5
 tern.mmrm: 0.3.2
 ternvis: '1.2'
-terra: 1.7-78
+terra: 1.7-83
 terrainmeshr: 0.1.0
 terrainr: 0.7.5
 tessellation: 2.3.0
@@ -26324,6 +26333,7 @@ textmineR: 3.0.5
 textmining: 0.0.1
 textometry: 0.1.6
 textplot: 0.2.2
+textpress: 1.0.0
 textrank: 0.3.1
 textrar: 0.8.0
 textreadr: 1.2.0
@@ -27230,6 +27240,7 @@ utilityFunctionTools: 0.1.1
 utilsIPEA: 0.0.6
 utiml: 0.1.7
 utr.annotation: 1.0.4
+utsf: 1.0.0
 uuid: 1.2-1
 uwIntroStats: 0.0.7
 uwedragon: 0.1.0
