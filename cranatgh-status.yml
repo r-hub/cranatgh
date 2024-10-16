@@ -938,7 +938,7 @@ CBnetworkMA: 0.1.0
 CC: '1.0'
 CCA: 1.2.2
 CCAGFA: 1.0.8
-CCAMLRGIS: 4.1.1
+CCAMLRGIS: 4.2.0
 CCM: '1.2'
 CCMMR: '0.2'
 CCMnet: 0.0-3
@@ -981,7 +981,7 @@ CFAcoop: 1.0.0
 CFC: 1.2.0
 CFF: '1.0'
 CFL: '0.1'
-CFO: 2.0.0
+CFO: 2.1.0
 CFilt: 0.3.0
 CFtime: 1.4.1
 CGE: 0.3.3
@@ -1229,7 +1229,7 @@ CensSpatial: '3.6'
 Census2016: 0.2.0
 CepLDA: 1.0.0
 CerioliOutlierDetection: 1.1.15
-Certara.NLME8: 1.2.4
+Certara.NLME8: 3.0.1
 Certara.R: 1.1.0
 Certara.VPCResults: 3.0.1
 CfEstimateQuantiles: '1.0'
@@ -1811,7 +1811,7 @@ DZEXPM: '2.0'
 Daim: 1.1.0
 DamiaNN: 1.0.0
 DandEFA: '1.6'
-DanielBiostatistics10th: 0.2.5
+DanielBiostatistics10th: 0.2.6
 Dark: 0.9.8
 DarkDiv: 0.3.0
 Dasst: 0.3.4
@@ -2409,7 +2409,7 @@ FDRestimation: 1.0.1
 FDRreg: '0.1'
 FDRsamplesize2: 0.2.0
 FDRsampsize: '1.0'
-FDX: 1.0.6
+FDX: 2.0.0
 FDboost: 1.1-2
 FEA: 0.0.2
 FENmlm: 2.4.4
@@ -2870,7 +2870,7 @@ GPoM: '1.4'
 GPoM.FDLyapu: '1.0'
 GPrank: 0.1.4
 GPseq: '0.5'
-GPvam: 3.1-0
+GPvam: 3.1-1
 GPvecchia: 0.1.7
 GRANBase: 2.6.20
 GRANCore: 0.2.7
@@ -3346,7 +3346,7 @@ IBDhaploRtools: '1.8'
 IBDsim: 0.9-8
 IBFS: 1.0.0
 IBHM: 1.1-11
-IBMPopSim: 1.0.0
+IBMPopSim: 1.1.0
 IBRtools: 0.1.3
 IBrokers: 0.10-2
 IC2: 1.0-1
@@ -3979,6 +3979,7 @@ LearnBayes: 2.15.1
 LearnClust: '1.1'
 LearnEDA: '1.2'
 LearnGeom: '1.5'
+LearnNonparam: 1.2.3
 LearnPCA: 0.3.4
 LearnSL: 1.0.0
 LearnVizLMM: 1.0.0
@@ -4187,6 +4188,7 @@ MDMAPR: 0.2.3
 MDMR: 0.5.1
 MDOLS: '1.0'
 MDP2: 2.1.2
+MDPIexploreR: 0.2.0
 MDPtoolbox: 4.0.3
 MDR: '1.2'
 MDSGUI: 0.1.6
@@ -4236,7 +4238,7 @@ MGRASTer: '0.9'
 MGSDA: 1.6.1
 MHCtools: 1.5.3
 MHD: 0.1.2
-MHDA: '1.3'
+MHDA: '1.4'
 MHMM: 1.0.0
 MHTcop: 0.1.1
 MHTdiscrete: 1.0.1
@@ -4687,7 +4689,7 @@ MixedPsy: 1.1.0
 MixedTS: 1.0.4
 MixfMRI: 0.1-3
 MixtureInf: '1.1'
-MixtureMissing: 3.0.2
+MixtureMissing: 3.0.3
 MixtureRegLTIC: 1.0.0
 MixviR: 3.5.0
 MlBayesOpt: 0.3.4
@@ -4761,7 +4763,7 @@ MultOrdRS: 0.1-3
 MultRegCMP: 0.1.0
 MultSurvTests: '0.2'
 MultiABEL: 1.1-6
-MultiATSM: 0.3.6
+MultiATSM: 1.0.0
 MultiBD: 0.2.0
 MultiCNVDetect: 0.1-1
 MultiCOAP: '1.1'
@@ -5130,7 +5132,7 @@ OmicsPLS: 2.0.2
 OmicsQC: 1.1.0
 Omisc: 0.1.5
 OmnibusFisher: '1.0'
-OmopSketch: 0.1.0
+OmopSketch: 0.1.1
 OnAge: 1.0.1
 OnboardClient: 1.0.0
 OncoBayes2: 0.8-9
@@ -9476,7 +9478,7 @@ automap: 1.1-12
 autometric: 0.0.5
 automl: 1.3.2
 automultinomial: 2.0.0
-autonewsmd: 0.0.8
+autonewsmd: 0.0.9
 autoplotly: 0.1.4
 autopls: '1.3'
 autoshiny: 0.0.3
@@ -9690,7 +9692,7 @@ bayesSurv: '3.8'
 bayesTFR: 7.4-2
 bayesWatch: 0.1.3
 bayesZIB: 0.0.5
-bayesammi: 0.1.0
+bayesammi: 0.2.0
 bayesanova: '1.6'
 bayesassurance: 0.1.0
 bayesbio: 1.0.0
@@ -9733,7 +9735,7 @@ baygel: 0.3.0
 baymedr: 0.1.1
 baymvb: 1.0.4
 bayou: 2.1.1
-baystability: 0.1.0
+baystability: 0.2.0
 baytrends: 2.0.12
 bazar: 1.0.11
 bbdetection: '1.0'
@@ -9746,7 +9748,7 @@ bbmix: 1.0.0
 bbmle: 1.0.25.1
 bbnet: 1.0.1
 bbo: '0.2'
-bbotk: 1.1.0
+bbotk: 1.1.1
 bbreg: 2.0.2
 bbricks: 0.1.4
 bbsBayes: 2.5.3
@@ -10219,7 +10221,7 @@ bonn: 1.0.2
 bonsai: 0.3.1
 bonsaiforest: 0.1.1
 boodist: 1.0.0
-bookdown: '0.40'
+bookdown: '0.41'
 bookdownplus: 1.5.8
 boolean: 2.0-2
 boolean3: 3.1.6
@@ -10353,7 +10355,7 @@ brolgar: 1.0.1
 broman: '0.84'
 broom: 1.0.7
 broom.helpers: 1.17.0
-broom.mixed: 0.2.9.5
+broom.mixed: 0.2.9.6
 broomExtra: 4.3.2
 brotli: 1.3.1
 brpop: 0.3.0
@@ -11188,7 +11190,7 @@ cobs99: 0.9-12
 coca: 1.1.0
 cocktailApp: 0.2.3
 coconots: 1.1.3
-cocons: 0.1.2
+cocons: 0.1.3
 cocor: 1.1-4
 cocoreg: 0.1.1
 cocorresp: 0.4-5
@@ -11546,7 +11548,7 @@ corkscrew: '1.1'
 corlink: 1.0.0
 corncob: 0.4.1
 cornet: 1.0.0
-coro: 1.0.4
+coro: 1.0.5
 coroICA: 1.0.2
 corona: 0.3.0
 coronavirus: 0.4.1
@@ -11604,7 +11606,7 @@ countTransformers: 0.0.6
 countcolors: 0.9.1
 countdata: '1.3'
 countdown: 0.4.0
-counterfactuals: 0.1.4
+counterfactuals: 0.1.5
 countfitteR: '1.4'
 countgmifs: 0.0.2
 countland: 0.1.2
@@ -12158,7 +12160,7 @@ datr: 0.1.0
 datrProfile: 0.1.0
 dauphin: 0.3.2
 dave: '2.0'
-dawai: 1.2.6
+dawai: 1.2.7
 daySupply: 0.1.0
 daymetr: 1.7.1
 db.r: 0.1.3
@@ -12828,7 +12830,7 @@ drm: 0.5-8
 drmdel: 1.3.2
 droll: 0.1.0
 dropR: 1.0.3
-dropout: 2.1.1
+dropout: 2.2.0
 droptest: 0.1.3
 drord: 1.0.1
 drought: '1.2'
@@ -13450,7 +13452,7 @@ equaltestMI: 0.6.1
 equatags: 0.2.1
 equate: 2.0.8
 equateIRT: 2.5.1
-equateMultiple: 1.1.0
+equateMultiple: 1.1.1
 equatiomatic: 0.3.3
 equiBSPD: 0.1.0
 equil2: 1.0.0
@@ -14601,9 +14603,9 @@ gRapHD: 0.2.6
 gRapfa: '1.0'
 gRaven: 1.1.10
 gRbase: 2.0.2
-gRc: 0.5.0
+gRc: 0.5.1
 gRcox: '0.1'
-gRim: 0.3.3
+gRim: 0.3.4
 gSEM: 0.4.3.4
 gSeg: '1.0'
 gStream: 0.2.0
@@ -15391,6 +15393,7 @@ globaltrends: 0.0.14
 globe: 1.2-0
 glober: '1.0'
 glogis: 1.0-2
+glossa: 1.0.0
 glossary: 1.0.0
 glossr: 0.8.0
 glottospace: 0.0.112
@@ -16112,6 +16115,7 @@ holdem: '1.2'
 holi: 0.1.1
 holiglm: 1.0.0
 holland: 0.1.2-1
+hollr: 1.0.0
 holodeck: 0.2.2
 homals: 1.0-10
 homeR: 0.3.0
@@ -16469,7 +16473,7 @@ ig: '1.2'
 ig.vancouver.2014.topcolour: 0.1.2.0
 igate: 0.3.3
 igcop: 1.0.2
-iglu: 4.1.6
+iglu: 4.2.0
 igoR: 0.2.0
 igr: 0.2.0
 igraph: 2.0.3
@@ -17714,7 +17718,7 @@ lmerTest: 3.1-3
 lmeresampler: 0.2.4
 lmf: 1.2.1
 lmfor: '1.6'
-lmhelprs: 0.3.0
+lmhelprs: 0.4.0
 lmkCHK: 1.0.0
 lmls: 0.1.0
 lmm: '1.4'
@@ -18410,7 +18414,7 @@ memnet: 0.1.0
 memo: 1.1.1
 memochange: 1.1.1
 memofunc: 1.0.2
-memoiR: 1.2-9
+memoiR: 1.2-10
 memoise: 2.0.1
 memor: 0.2.3
 memoria: 1.0.0
@@ -18873,7 +18877,7 @@ mlr3db: 0.5.2
 mlr3fairness: 0.3.2
 mlr3fda: 0.2.0
 mlr3filters: 0.8.0
-mlr3fselect: 1.1.0
+mlr3fselect: 1.1.1
 mlr3hyperband: 0.6.0
 mlr3learners: 0.7.0
 mlr3mbo: 0.2.5
@@ -18888,7 +18892,7 @@ mlr3spatial: 0.5.0
 mlr3spatiotempcv: 2.3.1
 mlr3summary: 0.1.0
 mlr3superlearner: 0.1.2
-mlr3torch: 0.1.1
+mlr3torch: 0.1.2
 mlr3tuning: 1.0.2
 mlr3tuningspaces: 0.5.1
 mlr3verse: 0.3.0
@@ -19527,7 +19531,7 @@ naaccr: 3.1.1
 nabor: 0.5.0
 nacopula: 0.8-1
 nadiv: 2.18.0
-naflex: 0.1.0
+naflex: 0.1.1
 naijR: 0.6.1
 naive: 1.2.3
 naivebayes: 1.0.0
@@ -20208,7 +20212,7 @@ omics: 0.1-5
 omicsTools: 1.0.5
 omicwas: 0.8.0
 omnibus: 1.2.14
-omock: 0.3.0
+omock: 0.3.1
 omopgenerics: 0.3.1
 omopr: '0.2'
 ompr: 1.0.4
@@ -21925,7 +21929,7 @@ pulseTD: 0.1.0
 pulver: 0.1.1
 pumilioR: 1.3.1
 puniform: 0.2.7
-puremoe: 1.0.1
+puremoe: 1.0.2
 pureseqtmr: '1.4'
 purge: 0.2.1
 purgeR: 1.8.2
@@ -22027,7 +22031,7 @@ qkerntool: '1.19'
 qlcData: '0.3'
 qlcMatrix: 0.9.8
 qlcVisualize: '0.4'
-qlcal: 0.0.12
+qlcal: 0.0.13
 qle: '0.18'
 qlifetable: 0.0.2-5
 qlspack: '2.2'
@@ -22188,7 +22192,7 @@ qvalue: 1.26.0
 qvcalc: 1.0.3
 qvirus: 0.0.2
 qwalkr: 0.1.0
-qwraps2: 0.6.0
+qwraps2: 0.6.1
 r.blip: '1.1'
 r.jive: '2.4'
 r.proxy: 0.1.3
@@ -22765,7 +22769,7 @@ reams: '0.1'
 reappraised: 0.1.1
 rearrr: 0.3.4
 reasonabletools: '0.1'
-rebib: 0.3.2
+rebib: 0.5.0
 rebird: 1.3.0
 rebmix: 2.16.0
 rebus: 0.1-3
@@ -23225,7 +23229,7 @@ rite: 0.3.4
 ritis: 1.0.0
 riv: 2.0-5
 riverconn: 0.3.31
-riverdist: 0.16.3
+riverdist: 0.17.0
 rivernet: 1.2.3
 riverplot: '0.10'
 rivervis: 0.46.0
@@ -23513,7 +23517,7 @@ roxygen2md: 1.0.1
 roxyglobals: 1.0.0
 roxylint: 0.1.0
 roxytest: 0.0.2
-roxytypes: 0.1.1
+roxytypes: 0.1.2
 royston: '1.2'
 rpact: 4.1.0
 rpaleoclim: 1.0.1
@@ -24516,7 +24520,7 @@ shiny.reglog: 0.5.2
 shiny.router: 0.3.1
 shiny.semantic: 0.5.1
 shiny.tailwind: 0.2.2
-shiny.telemetry: 0.3.0
+shiny.telemetry: 0.3.1
 shiny.worker: 0.0.1
 shinyAce: 0.4.2
 shinyBS: 0.61.1
@@ -24870,7 +24874,7 @@ skynet: 1.4.3
 skyscapeR: 1.0.0
 sla: '0.1'
 slackr: 3.3.1
-slam: 0.1-53
+slam: 0.1-54
 slanter: 0.2-0
 slap: 2024.4.1
 slasso: 1.0.0
@@ -25467,7 +25471,7 @@ srvyr: 1.3.0
 ss3sim: 1.0.3
 ssMRCD: 1.1.0
 ssMousetrack: 1.1.6
-ssMutPA: 0.1.1
+ssMutPA: 0.1.2
 ssa: 1.3.0
 ssaBSS: 0.1.1
 ssanv: '1.1'
@@ -25561,7 +25565,7 @@ starsExtra: 0.2.8
 starsTileServer: 0.1.1
 starschemar: 1.2.5
 startR: 2.4.0
-starter: 0.1.15
+starter: 0.1.16
 starticles: 0.1.0
 startup: 0.22.0
 startupmsg: 0.9.7
@@ -25983,6 +25987,7 @@ svrpath: 0.1.2
 svs: 3.1.1
 svyPVpack: 0.1-1
 svyVGAM: '1.2'
+svyVarSel: 1.0.1
 svycdiff: 0.1.1
 svydiags: '0.6'
 svylme: 1.5-1
@@ -26159,7 +26164,7 @@ taskscheduleR: '1.8'
 tastypie: 0.1.1
 tatest: '1.0'
 tatoo: 1.1.2
-tau: 0.0-25
+tau: 0.0-26
 tauProcess: 2.1.3
 tauturri: 0.3.0
 tawny: 2.1.7
@@ -26197,7 +26202,7 @@ tcie: '0.3'
 tcl: 0.2.1
 tcltk: 0.1-1
 tcltk2: 1.2-11
-tclust: 2.0-4
+tclust: 2.0-5
 tcpl: 3.2.0
 tcplfit2: 0.1.7
 tcsinvest: 0.1.1
@@ -26306,7 +26311,7 @@ tetrascatt: 0.1.1
 texPreview: 2.1.0
 texmex: 2.4.9
 texmexseq: '0.3'
-texor: 1.3.0
+texor: 1.5.0
 texreg: 1.39.4
 text: 1.2.3
 text.alignment: 0.1.4
@@ -26361,7 +26366,7 @@ tfplot: 2021.6-1
 tfprobability: 0.15.1
 tframe: 2015.12-1.1
 tframePlus: 2024.2-1
-tfrmt: 0.1.2
+tfrmt: 0.1.3
 tfrmtbuilder: 0.1.0
 tfruns: 1.5.3
 tfse: 0.5.0
@@ -27963,7 +27968,7 @@ xtermStyle: 3.0.5
 xtractomatic: 3.4.2
 xtranat: 0.1.0
 xtreg2way: 1.0.0
-xts: 0.14.0
+xts: 0.14.1
 xtsum: 0.1.0
 xtune: 2.0.0
 xutils: 0.0.2
