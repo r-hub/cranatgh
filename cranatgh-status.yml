@@ -84,6 +84,7 @@ ALDqr: '1.0'
 ALEPlot: '1.1'
 ALFAM2: 4.1.3
 ALKr: 0.5.3.1
+ALLSPICER: 0.1.9
 ALS: 0.0.7
 ALSCPC: '1.0'
 ALSM: 0.2.0
@@ -1755,7 +1756,7 @@ DRI: '1.1'
 DRIP: '2.0'
 DRR: 0.0.4
 DRaWR: 1.0.3
-DRomics: 2.6-0
+DRomics: 2.6-2
 DRquality: 0.2.1
 DRviaSPCN: 0.1.4
 DSAIDE: 0.9.6
@@ -2861,7 +2862,7 @@ GPPFourier: '2.1'
 GPRMortality: 0.1.0
 GPSCDF: 0.1.1
 GPSeqClus: 1.4.0
-GPTreeO: 1.0.0
+GPTreeO: 1.0.1
 GPUmatrix: 1.0.2
 GPareto: 1.1.8
 GPfit: 1.0-8
@@ -2908,7 +2909,7 @@ GSIF: 0.5-5.1
 GSM: 1.3.2
 GSMX: '1.3'
 GSNA: 0.1.4.2
-GSODR: 4.1.2
+GSODR: 4.1.3
 GSSE: '0.1'
 GSSTDA: 1.0.0
 GSelection: 0.1.0
@@ -3079,7 +3080,7 @@ GoogleImage2Array: 0.99.2
 GoogleKnowledgeGraphR: 0.1.0
 Goslate: '1.0'
 Gotoh: '0.9'
-GpGp: 0.5.0
+GpGp: 0.5.1
 GrFA: '0.2'
 GrabSVG: 0.0.2
 Grace: 0.5.3
@@ -3137,6 +3138,7 @@ HCTDesign: 0.7.2
 HCTR: 0.1.1
 HCV: 1.2.0
 HCmodelSets: 1.1.3
+HDANOVA: 0.8.1
 HDBRR: 1.1.4
 HDCD: '1.1'
 HDCI: 1.0-2
@@ -3450,7 +3452,7 @@ INFOSET: 4.0.6
 INLABMA: 0.1-12
 INLAMSM: 0.2-3
 INLAjoint: 24.3.25
-INLAspacetime: 0.1.9
+INLAspacetime: 0.1.10
 INLAutils: 0.0.5
 INQC: 2.0.5
 INSPECTumours: 0.1.0
@@ -3581,6 +3583,7 @@ IniStatR: 1.0.0
 InjurySeverityScore: 0.0.0.2
 Inquilab: 0.1.0
 InspectChangepoint: '1.2'
+InspectionPlanner: '1.2'
 InsuSensCalc: 0.0.1
 IntCal: 0.3.1
 IntClust: 0.1.0
@@ -3939,7 +3942,7 @@ LVGP: 2.1.5
 LVMMCOR: 0.01.1
 LVQTools: '1.2'
 LW1949: 1.1.0
-LWFBrook90R: 0.6.0
+LWFBrook90R: 0.6.1
 LZeroSpikeInference: 1.0.3
 LaF: 0.8.4
 LaMa: 1.0.0
@@ -4933,6 +4936,7 @@ NSA: 0.0.32
 NSAE: 0.4.0
 NSM3: '1.18'
 NSO1212: 1.4.0
+NSR: 0.1.0
 NST: 3.1.10
 NSUM: '1.0'
 NScluster: 1.3.6-1
@@ -6415,7 +6419,7 @@ RTCC: 0.1.1
 RTConnect: 0.1.4
 RTD: 0.4.1
 RTDAmeritrade: 0.0.1
-RTDE: 0.2-1
+RTDE: 0.2-2
 RTFA: 0.1.0
 RTIGER: 2.1.0
 RTL: 1.3.5
@@ -6622,7 +6626,7 @@ RcmdrPlugin.sutteForecastR: 1.0.0
 RcmdrPlugin.temis: 0.7.10
 Rcoclust: 0.1.1
 Rcolombos: 2.0.2
-Rcompadre: 1.3.0
+Rcompadre: 1.4.0
 Rcplex: 0.3-6
 Rcpp: 1.0.13
 Rcpp11: 3.1.2.0.1
@@ -7231,7 +7235,7 @@ SIRmcmc: 1.1.1
 SIRthresholded: 1.0.2
 SIS: 0.8-8
 SISIR: 0.2.3
-SIT: 0.1.0
+SIT: 0.1.1
 SITH: 1.1.0
 SIfEK: 0.1.0
 SK: '1.1'
@@ -7260,7 +7264,7 @@ SMARTp: 0.1.1
 SMC: '1.1'
 SMCP: 1.1.3
 SMCRM: 0.0-3
-SMDIC: 0.1.5
+SMDIC: 0.1.6
 SMFI5: '1.0'
 SMFilter: 1.0.3
 SMIR: '0.02'
@@ -7699,7 +7703,7 @@ SourceSet: 0.1.5
 SouthParkRshiny: 1.0.0
 SoyNAM: 1.6.2
 SoyURT: 1.0.0
-SpATS: 1.0-18
+SpATS: 1.0-19
 SpNMF: 0.1.1
 SpNetPrep: '1.2'
 SpPOP: 0.1.0
@@ -10467,7 +10471,7 @@ c3net: 1.1.1.1
 cAIC4: '1.0'
 cIRT: 1.3.2
 cMonkey: 4.9.2
-cNORM: 3.3.0
+cNORM: 3.3.1
 cOde: 1.1.1
 cPCG: '1.0'
 cPseudoMaRg: 1.0.1
@@ -10510,7 +10514,7 @@ calibrate: 1.7.7
 calibrateBinary: '0.1'
 calibrationband: 0.2.1
 calibrator: 1.2-8
-calidad: 0.5.0
+calidad: 0.6.0
 caliver: 2.0.0
 callback: 0.1.1
 callme: 0.1.10
@@ -10565,6 +10569,7 @@ caracas: 2.1.1
 carat: 2.2.1
 carbonate: 0.1.4
 carbondate: 1.0.1
+carbonr: 0.2.1
 carcass: '1.7'
 card: 0.1.0
 card.pro: 2.2.0
@@ -11208,7 +11213,7 @@ codeCollection: 0.1.3
 codebook: 0.9.5
 codebookr: 0.1.8
 codebreaker: 1.0.1
-codecountR: 0.0.4.0
+codecountR: 0.0.4.5
 codemeta: 0.1.1
 codemetar: 0.3.5
 codename: 0.5.0
@@ -11301,8 +11306,8 @@ colourpicker: 1.3.0
 colourvalues: 0.3.9
 colourvision: 2.0.4
 colr: 0.1.900
-cols: '1.1'
-cols4all: 0.7-1
+cols: '1.2'
+cols4all: '0.8'
 colt: 0.1.1
 comFuncs: 0.0.6
 comat: 0.9.5
@@ -11496,7 +11501,7 @@ convertr: '0.1'
 convevol: 2.2.1
 convexHaz: '0.2'
 convexjlr: 0.8.1
-convey: 1.0.0
+convey: 1.0.1
 convoSPAT: 1.2.7
 cooccur: '1.3'
 cooccurNet: 0.1.6
@@ -11887,6 +11892,7 @@ ctsemOMX: 1.0.6
 ctsfeatures: 1.2.2
 ctv: 0.9-5
 ctxR: 1.0.0
+ctypesio: 0.1.1
 cuRe: 1.1.1
 cuadramelo: 1.0.0
 cubar: 1.0.0
@@ -11955,6 +11961,7 @@ cvar: '0.5'
 cvasi: 1.2.0
 cvcqv: 1.0.0
 cvcrand: 0.1.1
+cvdprevent: 0.2.0
 cvequality: 0.2.0
 cvmaPLFAM: 0.1.0
 cvmdisc: 0.1.0
@@ -12899,7 +12906,7 @@ dualScale: 1.0.0
 dualtrees: 0.1.5
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 1.1.0
+duckdb: 1.1.1
 duckdbfs: 0.0.7
 duckduckr: 1.0.0
 duckplyr: 0.4.1
@@ -13023,6 +13030,7 @@ easyPSID: 0.1.2
 easyPubMed: '2.13'
 easySVG: 0.1.0
 easySdcTable: 1.0.7
+easySimData: 0.1.0
 easyVerification: 0.4.5
 easyWechat: 0.2.0
 easyalluvial: 0.3.2
@@ -14974,7 +14982,7 @@ geoviz: 0.2.2
 geovol: '1.0'
 geozoning: 1.0.0
 geozoo: 0.5.1
-gepaf: 0.1.1
+gepaf: 0.2.0
 geppe: '1.0'
 gerbil: 0.1.9
 gerefer: 0.1.0
@@ -15610,7 +15618,7 @@ gravmagsubs: 1.0.1
 greatR: 2.0.0
 grec: 1.6.0
 greed: 0.6.1
-greekLetters: 1.0.2
+greekLetters: 1.0.4
 greeks: 1.4.3
 greenR: 0.0.1.2
 greenclust: 1.1.1
@@ -15880,7 +15888,7 @@ hbsae: '1.2'
 hcandersenr: 0.2.0
 hcc: '0.54'
 hcci: 1.1.0
-hce: 0.6.3
+hce: 0.6.5
 hchinamap: 0.1.0
 hcidata: 0.1.0
 hclust1d: 0.1.1
@@ -16116,6 +16124,7 @@ holi: 0.1.1
 holiglm: 1.0.0
 holland: 0.1.2-1
 hollr: 1.0.0
+holobiont: 0.1.2
 holodeck: 0.2.2
 homals: 1.0-10
 homeR: 0.3.0
@@ -17100,6 +17109,7 @@ karyotapR: 1.0.1
 katex: 1.5.0
 kayadata: 1.4.0
 kazaam: 0.1-0
+kbal: 0.1.1
 kcirt: 0.6.0
 kcmeans: 0.1.0
 kcopula: 0.1.0
@@ -17407,7 +17417,7 @@ lavaan.shiny: '1.2'
 lavaan.survey: 1.1.3.1
 lavaanExtra: 0.2.1
 lavaanPlot: 0.8.1
-lavaangui: 0.1.2
+lavaangui: 0.2.0
 lavacreg: 0.2-2
 lawn: 0.6.0
 lawstat: '3.6'
@@ -17673,7 +17683,7 @@ listviewer: 4.0.0
 lit: 1.0.0
 litRiddle: 1.0.0
 lite: 1.1.1
-litedown: '0.2'
+litedown: '0.3'
 liteq: 1.1.0
 literanger: 0.1.1
 litteR: 1.0.0
@@ -17703,7 +17713,7 @@ lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
 lme4: 1.1-35.5
-lme4breeding: 1.0.31
+lme4breeding: 1.0.40
 lmeInfo: 0.3.2
 lmeNB: '1.3'
 lmeNBBayes: 1.3.1
@@ -18099,7 +18109,7 @@ maplegend: 0.1.0
 mapme.biodiversity: 0.9.2
 mapmisc: 2.1.0
 mapmixture: 1.1.4
-mappeR: 1.0.0
+mappeR: 1.1.0
 mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
@@ -18880,7 +18890,7 @@ mlr3filters: 0.8.0
 mlr3fselect: 1.1.1
 mlr3hyperband: 0.6.0
 mlr3learners: 0.7.0
-mlr3mbo: 0.2.5
+mlr3mbo: 0.2.6
 mlr3measures: 1.0.0
 mlr3misc: 0.15.1
 mlr3oml: 0.10.0
@@ -19411,6 +19421,7 @@ multiwave: '1.4'
 multiway: 1.0-6
 multiwayvcov: 1.2.3
 multmod: '1.0'
+multpois: 0.1.0
 multtest: 2.8.0
 multxpert: 0.1.1
 muma: '1.4'
@@ -19938,7 +19949,7 @@ nonrandom: '1.42'
 nonsmooth: 1.0.0
 nontarget: '1.9'
 nontargetData: '1.1'
-nopaco: 1.0.8
+nopaco: 1.0.9
 nopp: 1.1.2
 nor1mix: 1.3-3
 norMmix: 0.2-0
@@ -20173,7 +20184,7 @@ odpc: 2.0.5
 odprism: '1.1'
 odr: 1.4.4
 oec: 2.7.8
-oeli: 0.6.0
+oeli: 0.7.0
 oem: 2.0.12
 oenb: 0.0.2
 oesr: 0.1.0
@@ -20546,7 +20557,7 @@ packHV: '2.2'
 packMBPLSDA: 0.9.0
 packS4: 0.9.3
 packageDiff: '0.1'
-packageRank: 0.9.2
+packageRank: 0.9.3
 packagedocs: 0.4.0
 packagefinder: 0.3.5
 packagepal: 0.1.0
@@ -21267,7 +21278,7 @@ plm: 2.6-4
 plmDE: '1.0'
 plmm: 0.1-1
 plmmr: 4.0.0
-pln: 0.2-2
+pln: 0.2-3
 plnr: 2022.11.23
 plogr: 0.2.0
 plot.matrix: 1.6.2
@@ -22584,7 +22595,7 @@ rbison: 1.0.0
 rbit: 1.0.0
 rbitcoinchartsapi: 1.0.4
 rblt: 0.2.4.7
-rbmi: 1.2.6
+rbmi: 1.3.0
 rbmn: 0.9-6
 rbokeh: 0.5.2
 rbooster: 1.1.0
@@ -23307,7 +23318,7 @@ rmd: 0.1.5
 rmdHelpers: 1.3.1
 rmda: '1.6'
 rmdcev: 1.2.5
-rmdfiltr: 0.1.3
+rmdfiltr: 0.1.4
 rmdformats: 1.0.4
 rmdl: 0.1.0
 rmdpartials: 0.5.8
@@ -23699,7 +23710,7 @@ rstoat: 1.0.2
 rstpm2: 1.6.5
 rstream: 1.3.7
 rstudio.prefs: 0.1.9
-rstudioapi: 0.16.0
+rstudioapi: 0.17.0
 rstyles: 0.4.0
 rsubgroup: '1.1'
 rsunlight: 0.7.0
@@ -24214,7 +24225,7 @@ sdpdth: '0.2'
 sdprisk: 1.1-6
 sdpt3r: '0.3'
 sdrt: 1.0.0
-sdsfun: 0.4.0
+sdsfun: 0.4.1
 sdtalt: '1.03'
 sdtm.oak: 0.1.0
 sdtmchecks: 1.0.0
@@ -24747,7 +24758,7 @@ simmer: 4.4.7
 simmer.bricks: 0.2.2
 simmer.plot: 0.1.18
 simml: 0.3.0
-simmr: 0.5.1.216
+simmr: 0.5.1.217
 simode: 1.2.2
 simodels: 0.2.0
 simone: 1.0-4
@@ -24982,7 +24993,7 @@ smss: 1.0-2
 smurf: 1.1.5
 smvgraph: 0.1.2
 sn: 2.1.1
-snSMART: 0.2.3
+snSMART: 0.2.4
 sna: '2.8'
 snahelper: 1.4.2
 snakecase: 0.11.1
@@ -26113,7 +26124,7 @@ tables: 0.9.31
 tableschema.r: 1.1.2
 tablesgg: 0.9-1
 tablet: 0.6.8
-tablexlsx: 1.0.0
+tablexlsx: 1.1.0
 tabnet: 0.6.0
 taboolaR: 0.1.0
 tabplot: 1.3-3
@@ -26927,7 +26938,7 @@ tsLSTMx: 0.1.0
 tsModel: 0.6-2
 tsPI: 1.0.4
 tsSelect: 0.1.8
-tsallisqexp: 0.9-4
+tsallisqexp: 0.9-5
 tsapp: 1.0.4
 tsbox: 0.4.1
 tsbridge: '1.1'
@@ -27759,6 +27770,7 @@ winfapReader: 0.1-5.1
 wingen: 2.1.2
 wingui: '0.2'
 winputall: 1.0.1
+winr: 1.0.0
 wintime: 0.2.0
 wiod: 0.3.0
 wiqid: 0.3.3
