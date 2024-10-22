@@ -198,7 +198,7 @@ AbSim: 0.2.6
 AbsFilterGSEA: 1.5.1
 Ac3net: 1.2.2
 AcademicThemes: 0.0.2
-AccelStab: 2.0.1
+AccelStab: 2.0.2
 AcceptReject: 0.1.2
 AcceptanceSampling: 1.0-10
 Ace: 0.0.8
@@ -1098,7 +1098,7 @@ COUSCOus: 1.0.0
 COVID19: 3.0.3
 COVIDIBGE: 0.2.2
 COZIGAM: 2.0-3
-COveR: 1.0.3
+COveR: 1.0.4
 CP: '1.8'
 CPAT: 0.1.0
 CPBayes: 1.1.0
@@ -1363,7 +1363,7 @@ CollessLike: '2.0'
 CollocInfer: 1.0.4
 ColorNameR: 0.1.0
 ColorPalette: 1.0-1
-Colossus: 1.1.4.1
+Colossus: 1.1.4.2
 ComICS: 1.0.4
 ComPairWise: '1.01'
 ComRiskModel: 0.2.0
@@ -2674,7 +2674,7 @@ FuzzyM: 0.1.0
 FuzzyMCDM: '1.1'
 FuzzyNumbers: 0.4-7
 FuzzyNumbers.Ext.2: '3.2'
-FuzzyPovertyR: 3.0.1
+FuzzyPovertyR: 3.0.2
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
 FuzzyResampling: 0.6.4
@@ -3862,6 +3862,7 @@ LIStest: '2.1'
 LKT: 1.7.0
 LLAhclust: 0.2-2
 LLM: 1.1.0
+LLMR: 0.1.1
 LLN: 1.1.1
 LLSR: 0.0.3.1
 LLdecomp: '1.0'
@@ -4201,6 +4202,7 @@ MDSPCAShiny: 0.1.0
 MDSS: 1.0-1
 MDimNormn: 0.8.0
 MDplot: 1.0.1
+MECfda: 0.1.0
 MED: 0.1.0
 MEDITS: 0.1.7
 MEDseq: 1.4.1
@@ -4529,7 +4531,7 @@ MatchLinReg: 0.8.1
 MatchThem: 1.2.1
 Matching: 4.10-15
 MatchingFrontier: 1.0.0
-Matrix: 1.7-0
+Matrix: 1.7-1
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.10.0
 MatrixEQTL: '2.3'
@@ -5140,6 +5142,7 @@ OmicsQC: 1.1.0
 Omisc: 0.1.5
 OmnibusFisher: '1.0'
 OmopSketch: 0.1.1
+OmopViewer: 0.1.0
 OnAge: 1.0.1
 OnboardClient: 1.0.0
 OncoBayes2: 0.8-9
@@ -5660,6 +5663,7 @@ PoissonSeq: 1.1.2
 PolarCAP: 1.0.1
 PolicyPortfolios: '0.3'
 PoloniexR: 0.0.1
+Poly4AT: 1.0.1
 PolyHaplotyper: 1.0.1
 PolyPatEx: 0.9.2
 PolyTree: 0.0.1
@@ -5726,7 +5730,7 @@ PriceIndices: 0.2.2
 PriorCD: 0.1.0
 PriorGen: '2.0'
 PrivateLR: 1.2-22
-ProAE: 1.0.1
+ProAE: 1.0.3
 ProDenICA: '1.1'
 ProFAST: '1.4'
 ProFit: 1.3.3
@@ -5913,7 +5917,7 @@ R2SWF: 0.9-9
 R2WinBUGS: 2.1-22.1
 R2admb: 0.7.16.3
 R2jags: 0.8-9
-R2sample: 1.1.0
+R2sample: 2.2.0
 R2ucare: 1.0.2
 R2wd: '1.5'
 R330: '1.0'
@@ -6830,7 +6834,7 @@ Rgff: 0.1.6
 RghcnV3: '2.9'
 Rglpk: 0.6-5.1
 Rgnuplot: 1.0.3
-Rgof: 2.1.0
+Rgof: 2.1.1
 RgoogleMaps: 1.5.1
 Rgraphviz: 1.18.1
 Rgretl: 0.2.2
@@ -7384,7 +7388,7 @@ SRRS: 0.1.1
 SRS: 0.2.3
 SRTsim: 0.99.7
 SRTtools: 1.2.0
-SSBtools: 1.5.4
+SSBtools: 1.5.5
 SSDL: '1.1'
 SSDM: 0.2.9
 SSDforR: 1.5.35
@@ -8434,6 +8438,7 @@ VDA: '1.3'
 VDAP: 2.0.0
 VDCutil: '1.15'
 VDJgermlines: '0.1'
+VDPO: 0.1.0
 VDSM: 0.1.1
 VDSPCalibration: '1.0'
 VEwaning: '1.3'
@@ -8672,6 +8677,7 @@ XRJulia: 0.9.0.1
 XRPython: '0.8'
 XRSCC: '0.1'
 XReg: '1.0'
+Xcertainty: 1.0.0
 XiMpLe: 0.11-3
 Xmisc: 0.2.1
 Xplortext: 1.5.3
@@ -9089,7 +9095,7 @@ amVennDiagram5: 1.0.0
 amadeus: 1.1.3
 amanida: 0.3.0
 amanpg: 0.3.4
-amap: 0.8-19.1
+amap: 0.8-20
 amapGeocode: 0.6.0
 amapro: 0.1.3
 amazonadsR: 0.1.0
@@ -10483,6 +10489,7 @@ cPseudoMaRg: 1.0.1
 cRegulome: 0.3.2
 cSEM: 0.5.0
 cSFM: '1.1'
+cTMed: 1.0.1
 cTOST: 1.0.0
 ca: 0.71.1
 caGUI: 0.1-4
@@ -10595,7 +10602,7 @@ caretNWS: '0.25'
 carfima: 2.0.2
 cargo: 0.4.9
 caribou: 1.1-1
-caroline: 0.9.2
+caroline: 0.9.9
 carpenter: 0.2.2
 carrier: 0.1.1
 cartograflow: 1.0.5
@@ -12091,6 +12098,7 @@ data.tree: 1.1.0
 data.validator: 0.2.1
 data.world: 1.2.2
 data360r: 1.0.9
+dataCompare: 1.0.0
 dataCompareR: 0.1.4
 dataMaid: 1.4.1
 dataMeta: 0.1.1
@@ -12482,7 +12490,7 @@ dibble: 0.3.0
 dice: '1.2'
 diceR: 2.2.0
 dicecrawler: 0.1.0
-diceplot: 0.1.0
+diceplot: 0.1.1
 dichromat: 2.0-0.1
 dicionariosIBGE: '1.6'
 dictionaRy: 0.1.1
@@ -12817,7 +12825,7 @@ dragracer: 0.1.7
 dragulaR: 0.3.1
 drake: 7.13.10
 drape: 0.0.1
-drat: 0.2.4
+drat: 0.2.5
 draw: 1.0.0
 drawExpression: '1.0'
 drawer: 0.2.0.1
@@ -12898,7 +12906,7 @@ dtp: 0.1.0
 dtpcrm: 0.1.1
 dtplyr: 1.3.1
 dtrSurv: '1.4'
-dtrackr: 0.4.4
+dtrackr: 0.4.6
 dtree: 0.4.2
 dtreg: 1.0.0
 dtt: 0.1-2
@@ -13585,6 +13593,7 @@ evclass: 2.0.2
 evclust: 2.0.3
 evd: 2.3-7.1
 evdbayes: 1.1-3
+evenBreak: '1.0'
 event: 1.1.1
 event.chart: '2.0'
 eventInterval: '1.3'
@@ -15632,6 +15641,7 @@ greeks: 1.4.3
 greenR: 0.0.1.2
 greenclust: 1.1.1
 greencrab.toolkit: '0.2'
+greenfeedr: 1.0.0
 gregRy: 0.1.0
 gregmisc: 2.1.5
 gremes: 0.1.1
@@ -16965,7 +16975,7 @@ jadeLizardOptions: 1.0.1
 jage: 0.1.0
 jaggR: 0.1.1
 jagsUI: 1.6.2
-jagshelper: 0.3.2
+jagshelper: 0.4.0
 jagstargets: 1.2.1
 jalcal: 0.1.0
 james.analysis: 1.0.1
@@ -17974,7 +17984,7 @@ lwgeom: 0.2-14
 lwqs: 0.5.0
 lxb: '1.5'
 lymphclon: 1.3.0
-lzstring: 0.1.2
+lzstring: 0.1.3
 m2b: '1.0'
 m2r: 1.0.2
 m4fe: '0.1'
@@ -18116,7 +18126,7 @@ mapi: 1.0.5
 mapiso: 0.3.0
 maple: 0.99.5
 maplegend: 0.1.0
-mapme.biodiversity: 0.9.2
+mapme.biodiversity: 0.9.3
 mapmisc: 2.1.0
 mapmixture: 1.1.4
 mappeR: 1.1.0
@@ -19167,6 +19177,7 @@ mpa: 0.7.3
 mpactr: 0.1.0
 mpae: 0.1.2
 mpath: 0.4-2.26
+mpathr: 1.0.1
 mpathsenser: 1.2.3
 mpbart: '0.2'
 mpc: '0.1'
@@ -19211,7 +19222,7 @@ mregions2: 1.1.1
 mrf: 0.1.6
 mrf2d: '1.0'
 mrfDepth: 1.0.17
-mrfse: 0.4.1
+mrfse: 0.4.2
 mrgsim.parallel: 0.2.1
 mrgsim.sa: 0.2.0
 mrgsolve: 1.5.2
@@ -19526,7 +19537,7 @@ mxmmod: 1.1.0
 mxnorm: 1.0.3
 mxsem: 0.1.0
 myCRAN: '1.1'
-myClim: 1.2.0
+myClim: 1.3.0
 myTAI: 0.9.3
 mycaas: 0.0.1
 mycobacrvR: '1.1'
@@ -20328,7 +20339,7 @@ openeo: 1.3.1
 openintro: 2.5.0
 openmeteo: 0.2.4
 openmetrics: 0.3.0
-openrouteservice: 0.5.3
+openrouteservice: 0.6.1
 openscoring: 1.0.4
 opensensmapr: 0.6.0
 openssl: 2.2.2
@@ -20705,7 +20716,7 @@ pargasite: 2.1.0
 parglm: 0.1.7
 parlitools: 0.4.1
 parma: '1.7'
-parmigene: 1.1.0
+parmigene: 1.1.1
 parmsurvfit: 0.1.0
 paropt: 0.3.3
 parqr: 0.1.0
@@ -20755,7 +20766,7 @@ pasteAsComment: 0.2.1
 pastecs: 1.4.2
 pastis: 0.1-2
 patPRO: 1.1.0
-patchDVI: 1.11.0
+patchDVI: 1.11.3
 patchPlot: 0.1.5
 patchSynctex: 0.1-4
 patchwork: 1.3.0
@@ -21170,6 +21181,7 @@ piecewiseSEM: 2.3.0.1
 pifpaf: 1.0.1
 piggyback: 0.1.5
 piglet: 1.0.1
+pii: 1.0.0
 pikchr: '0.97'
 pillar: 1.9.0
 pim: 2.0.2
@@ -21419,6 +21431,7 @@ poismf: 0.4.0-4
 poisson: '1.0'
 poisson.glm.mix: '1.4'
 poissonMT: 0.3-5
+poissoned: 0.1.3
 poissonreg: 1.0.1
 poistweedie: 1.0.2
 pokemon: 0.1.3
@@ -21833,7 +21846,7 @@ proton: '1.0'
 protoshiny: 0.1.0
 prototest: '1.2'
 protr: 1.7-4
-protti: 0.9.0
+protti: 0.9.1
 proustr: 0.4.0
 provDebugR: 1.0.1
 provExplainR: 1.1.1
@@ -22834,6 +22847,7 @@ recurse: 1.4.0
 red: 1.6.1
 redR: 1.0.1
 reda: 0.5.4
+redatam: 2.0.0
 redbookperu: 0.0.3
 redcapAPI: 2.10.0
 reddPrec: 2.0.3
@@ -23189,7 +23203,7 @@ riAFTBART: 0.3.3
 rib: 0.23.1
 ribd: 1.7.0
 ribiosUtils: 1.5-6
-rice: 0.2.0
+rice: 0.3.0
 ricegeneann: 1.0.2
 riceidconverter: 1.1.1
 riceware: '0.4'
@@ -24303,6 +24317,7 @@ segmentr: 0.2.0
 segmetric: 0.3.0
 segregation: 1.1.0
 segregatr: 0.4.0
+segtest: 1.0.1
 seguid: 0.1.0
 sehrnett: 0.1.0
 seismic: '1.1'
@@ -24354,7 +24369,7 @@ semmcci: 1.1.4
 semmcmc: 0.0.6
 semnar: 0.8.2
 semnova: 0.1-6
-semptools: 0.2.10
+semptools: 0.3.0
 semsfa: '1.1'
 semtree: 0.9.20
 semver: 0.2.0
@@ -25422,7 +25437,7 @@ spotoroo: 0.1.4
 spots: 0.1.0
 spp: 1.16.0
 sppmix: 1.0.2.1
-spqdep: 0.1.3.2
+spqdep: 0.1.3.3
 spray: 1.0-26
 spread: 2019.8.5
 spreadr: 0.2.0
@@ -25504,7 +25519,7 @@ ssd: '0.3'
 ssd4mosaic: 1.0.1
 ssdGSA: 0.1.1
 ssddata: 1.0.0
-ssdtools: 2.0.0
+ssdtools: 2.1.0
 sse: 0.7-17
 ssev: 0.1.0
 ssfa: 1.2.2
@@ -25614,6 +25629,7 @@ states: 0.3.2
 statesRcontiguous: 0.1.0
 statespacer: 0.5.0
 statfi: 0.9.8
+statforbiology: 0.9.9
 statgenGWAS: 1.0.9
 statgenGxE: 1.0.9
 statgenHTP: 1.0.7
@@ -26710,7 +26726,7 @@ tools4uplift: 1.0.0
 topChef: 0.2.0
 topdowntimeratio: 0.1.0
 topicdoc: 0.1.1
-topiclabels: 0.1.0
+topiclabels: 0.2.0
 topicmodels: 0.2-17
 topicmodels.etm: 0.1.0
 topmodel: 0.7.5
@@ -26742,6 +26758,7 @@ touch: 0.1-6
 touchard: 2.0.1
 tourr: 1.2.0
 tourrGui: '0.4'
+tower: 0.2.0
 toweranNA: 0.1.0
 toxEval: 1.3.2
 toxSummary: 1.0.0
@@ -26910,7 +26927,7 @@ trio: 2.1.1
 trioGxE: 0.1-1
 trip: 1.10.0
 tripEstimation: 0.0-46
-tripack: 1.3-9.1
+tripack: 1.3-9.2
 triplesmatch: 1.1.0
 triplot: 1.3.0
 tripsAndDipR: 0.1.0
@@ -28011,7 +28028,7 @@ yager: 0.1.1
 yahoofinancer: 0.3.0
 yakmoR: 0.1.1
 yaml: 2.3.10
-yamlet: 1.1.3
+yamlet: 1.1.4
 yamlme: 0.1.2
 yap: 0.1.1
 yaps: 1.2.5
