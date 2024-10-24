@@ -572,7 +572,7 @@ BT: '0.4'
 BTLLasso: 0.1-13
 BTM: 0.3.7
 BTR: 1.2.4
-BTSPAS: 2024.5.9
+BTSPAS: 2024.11.1
 BTSR: 0.1.5
 BTTL: 1.0.0
 BTYD: 2.4.3
@@ -725,7 +725,7 @@ BeQut: 0.1.0
 BeSS: 2.0.4
 BeastJar: 1.10.6
 BeeBDC: 1.2.0
-BeeGUTS: 1.1.3
+BeeGUTS: 1.3.0
 Benchmarking: '0.32'
 BenfordTests: 1.2.0
 Bergm: 5.0.7
@@ -2015,7 +2015,7 @@ DySeq: '0.22'
 Dykstra: 1.0-0
 DynClust: '3.24'
 DynComm: 2020.1.6
-DynForest: 1.1.3
+DynForest: 1.2.0
 DynNom: '5.1'
 DynTxRegime: '4.15'
 DynaRankR: 1.1.0
@@ -4288,13 +4288,13 @@ ML.MSBD: 1.2.1
 ML2Pvae: 1.0.0.1
 MLCIRTwithin: 2.1.1
 MLCM: 0.4.3
-MLCOPULA: 1.0.0
+MLCOPULA: 1.0.1
 MLDA: '2.0'
 MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
 MLDS: 0.5.1
 MLDataR: 1.0.1
-MLE: '1.1'
+MLE: '1.2'
 MLEP: 0.0-3
 MLEce: 2.1.0
 MLEcens: 0.1-7.1
@@ -4349,7 +4349,7 @@ MNLpred: 0.0.8
 MNM: 1.0-4
 MNP: 3.1-5
 MNS: '1.0'
-MNormTest: 1.1.0
+MNormTest: 1.1.1
 MOCCA: '1.4'
 MOCHA: 1.1.0
 MODIS: 1.2.11
@@ -4377,7 +4377,7 @@ MPLikelihoodWB: '1.1'
 MPN: 0.4.0
 MPR.genotyping: '0.8'
 MPS: 2.3.1
-MPSEM: 0.4-4
+MPSEM: 0.5-1
 MPTinR: 1.14.1
 MPTmultiverse: 0.4-2
 MPV: '1.64'
@@ -5324,7 +5324,7 @@ PET: 0.5.1
 PEkit: 1.0.0.1000
 PEtests: 0.1.0
 PF: '9.5'
-PFIM: 6.0.3
+PFIM: '6.1'
 PFLR: 1.1.0
 PGEE: '1.5'
 PGICA: '1.0'
@@ -6050,8 +6050,8 @@ RECSO: '1.0'
 REDCapCAST: 24.10.3
 REDCapDM: 0.9.9
 REDCapExporter: 0.3.0
-REDCapR: 1.2.0
-REDCapTidieR: 1.1.1
+REDCapR: 1.3.0
+REDCapTidieR: 1.2.0
 REDI: 1.0.0
 REEMtree: 0.90.5
 REFA: 0.1.0
@@ -6516,7 +6516,7 @@ RandomFields: 3.3.14
 RandomFieldsUtils: 1.2.5
 RandomForestsGLS: 0.1.5
 RandomProjectionTest: 0.1.4
-RandomWalker: 0.1.0
+RandomWalker: 0.2.0
 Randomuseragent: 0.0.1
 RanglaPunjab: 2.3.4
 RankAggSIgFUR: 1.0.0
@@ -6879,7 +6879,7 @@ Rjpstatdb: '0.1'
 RkMetrics: '1.3'
 Rknots: 1.3.2
 Rlab: '4.0'
-Rlabkey: 3.3.0
+Rlabkey: 3.4.0
 Rlda: 0.2.6
 Rlgt: 0.2-2
 Rlibeemd: 1.4.3
@@ -6981,7 +6981,7 @@ RprobitB: 1.1.4
 Rprofet: 3.1.1
 Rpvt: 0.1.1
 Rquake: 2.5-1
-Rquefts: 1.2-3
+Rquefts: 1.2-4
 Rramas: 0.1-6
 Rraven: 1.0.14
 Rrdap: 1.0.7
@@ -9060,7 +9060,7 @@ alkahest: 1.2.0
 allMT: 0.1.0
 allan: '1.01'
 allanvar: '1.1'
-allcontributors: 0.2.0
+allcontributors: 0.2.2
 alleHap: 0.9.9
 allelematch: 2.5.4
 allelic: '0.1'
@@ -9849,7 +9849,7 @@ behavr: 0.3.2
 belex: 0.1.0
 belg: 1.5.3
 belief: 1.0.1
-bellreg: 0.0.2.1
+bellreg: 0.0.2.2
 bench: 1.1.3
 benchden: 1.0.8
 benchmark: 0.3-6
@@ -9959,7 +9959,7 @@ bigchess: 1.9.1
 bigdata: '0.1'
 bigdatadist: '1.1'
 bigdist: 0.1.4
-bigergm: 1.2.2
+bigergm: 1.2.3
 biglars: 1.0.2
 biglasso: 1.6.0
 bigleaf: 0.8.2
@@ -11131,7 +11131,7 @@ clusterCrit: 1.3.0
 clusterGeneration: 1.3.8
 clusterGenomics: '1.0'
 clusterHD: 1.0.2
-clusterMI: 1.2.1
+clusterMI: 1.2.2
 clusterPower: 0.7.0
 clusterRepro: '0.9'
 clusterSEs: 2.6.5
@@ -12647,7 +12647,7 @@ distr6: 1.6.9
 distrDoc: 2.8.2
 distrEllipse: 2.8.3
 distrEx: 2.9.5
-distrMod: 2.9.4
+distrMod: 2.9.6
 distrRmetrics: 2.8.2
 distrSim: 2.8.3
 distrTEst: 2.8.2
@@ -16250,7 +16250,7 @@ huito: 0.2.5
 humanFormat: '1.2'
 humaniformat: 0.6.0
 humanize: 0.2.0
-humanleague: 2.3.1
+humanleague: 2.3.2
 humarray: '1.2'
 humidity: 0.1.5
 hunspell: 3.0.5
@@ -17075,7 +17075,7 @@ js: 1.2.1
 jsTree: '1.2'
 jsTreeR: 2.6.0
 jshintr: 0.1.0
-jskm: 0.5.5
+jskm: 0.5.6
 jsmodule: 1.5.9
 json2aRgs: 0.3.0
 json64: 0.1.3
@@ -17255,8 +17255,8 @@ kmeans.ddR: 0.1.0
 kmed: 0.4.2
 kmer: 1.1.2
 kmi: 0.5.5
-kml: 2.4.6.1
-kml3d: 2.4.6.1
+kml: 2.5.0
+kml3d: 2.5.0
 kmlShape: 0.9.5
 kmlcov: 1.0.1
 kmodR: 0.2.0
@@ -18137,7 +18137,7 @@ maplegend: 0.1.0
 mapme.biodiversity: 0.9.3
 mapmisc: 2.1.0
 mapmixture: 1.1.4
-mappeR: 1.1.0
+mappeR: 1.2.0
 mapping: 1.4.1
 mappings: '0.1'
 mapplots: 1.5.2
@@ -18528,7 +18528,7 @@ metaheuristicOpt: 2.0.0
 metainc: 0.2-0
 metajam: 0.3.1
 metalite: 0.1.4
-metalite.ae: 0.1.2
+metalite.ae: 0.1.3
 metalite.table1: 0.4.0
 metamedian: 1.1.1
 metamer: 0.3.0
@@ -18827,7 +18827,7 @@ mixedMem: 1.1.2
 mixedQF: '0.3'
 mixedsde: '5.0'
 mixer: '1.9'
-mixexp: 1.2.7
+mixexp: 1.2.7.1
 mixfdr: '1.0'
 mixgb: 1.0.2
 mixggm: '1.0'
@@ -19223,7 +19223,7 @@ mrbin: 1.7.5
 mrbsizeR: '1.3'
 mrct: 0.0.1.0
 mrdrc: 1.0-6
-mrds: 2.3.0
+mrds: 3.0.0
 mreg: 1.2.1
 mregions: 0.1.8
 mregions2: 1.1.1
@@ -19803,7 +19803,7 @@ nhlapi: 0.1.4
 nhlscrape: 0.1.3
 nhlscrapr: 1.8.1
 nhm: 0.1.1
-nhppp: 0.1.4
+nhppp: 1.0.0
 nhs.predict: 1.4.0
 nhsnumber: 0.1.2
 nhstplot: 1.3.0
@@ -19923,7 +19923,7 @@ nnfor: 0.9.9
 nngeo: 0.4.8
 nnlasso: '0.3'
 nnlib2Rcpp: 0.2.9
-nnls: '1.5'
+nnls: '1.6'
 nnspat: 0.1.2
 nnt: 0.1.4
 nntmvn: 1.0.0
@@ -20313,7 +20313,7 @@ opalr: 3.4.2
 opart: 2019.1.0
 opdisDownsampling: 1.0.1
 opefimor: '1.2'
-openCR: 2.2.6
+openCR: 2.2.7
 openEBGM: 0.9.1
 openFDA: 0.1.0
 openMSE: 1.0.1
@@ -20625,7 +20625,7 @@ pairwise: 0.6.1-0
 pairwiseCI: 0.1-27
 pairwiseComparisons: 3.2.0
 pak: 0.8.0
-pakret: 0.2.1
+pakret: 0.2.2
 palaeoSig: 2.1-3
 palaeoverse: 1.4.0
 palasso: 1.0.0
@@ -21308,7 +21308,7 @@ plinkQC: 0.3.4
 plm: 2.6-4
 plmDE: '1.0'
 plmm: 0.1-1
-plmmr: 4.0.0
+plmmr: 4.1.0
 pln: 0.2-3
 plnr: 2022.11.23
 plogr: 0.2.0
@@ -21427,7 +21427,7 @@ pogit: 1.3.0
 poibin: '1.6'
 poilog: 0.4.2
 pointRes: 2.0.2
-pointblank: 0.12.1
+pointblank: 0.12.2
 pointdensityP: 0.3.5
 pointdexter: 0.1.1
 pointr: 0.2.0
@@ -22399,7 +22399,7 @@ rSPDE: 2.3.3
 rSQM: 1.3.14
 rSRD: 0.1.7
 rSpectral: 1.0.0.10
-rStrava: 1.3.1
+rStrava: 1.3.2
 rSymPy: 0.2-1.2
 rSymbiota: 1.0.0
 rTCRBCRr: 0.1.1
@@ -22438,7 +22438,7 @@ radarBoxplot: 1.0.5
 radarchart: 0.3.1
 radiant: 1.6.6
 radiant.basics: 1.6.6
-radiant.data: 1.6.6
+radiant.data: 1.6.7
 radiant.design: 1.6.6
 radiant.model: 1.6.7
 radiant.multivariate: 1.6.6
@@ -23366,7 +23366,7 @@ rmetasim: 3.1.14
 rmfanova: 0.1.0
 rmgarch: 1.3-9
 rmi: 0.1.1
-rminer: 1.4.6
+rminer: 1.4.7
 rminizinc: 0.0.8
 rminqa: 0.2.2
 rmio: 0.4.0
@@ -23683,7 +23683,7 @@ rscimark: '1.0'
 rsconnect: 1.3.1
 rscontract: 0.1.2
 rscopus: 0.6.6
-rscorecard: 0.29.0
+rscorecard: 0.30.0
 rscproxy: 2.0-5
 rsdNE: 1.1.0
 rsdepth: 0.1-22
@@ -24529,7 +24529,7 @@ shapeNA: 0.0.2
 shapeR: 1.0-1
 shapefiles: 0.7.2
 shapes: 1.2.7
-shapley: '0.3'
+shapley: '0.4'
 shapper: 0.1.3
 shapr: 0.2.2
 shapviz: 0.9.6
