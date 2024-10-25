@@ -160,6 +160,7 @@ ARTP: 2.0.5
 ARTP2: 0.9.45
 ARTofR: 0.4.1
 ARTool: 0.11.1
+ARTtransfer: 1.0.0
 ARUtools: 0.7.1
 ARpLMEC: 2.4.1
 ASGS.foyer: 0.3.3
@@ -355,6 +356,7 @@ AutoSEARCH: '1.5'
 AutoScore: 1.0.0
 AutoStepwiseGLM: 0.2.0
 AutoTransQF: 0.1.3
+AutoWMM: 1.0.1
 AutoWeatherIndices: 0.1.0
 Autoplotprotein: '1.1'
 AutoregressionMDE: '1.0'
@@ -1949,7 +1951,7 @@ Disake: '1.5'
 DiscML: 1.0.1
 DiscreteDatasets: 0.1.1
 DiscreteDists: 1.0.0
-DiscreteFDR: 2.0.0
+DiscreteFDR: 2.0.1
 DiscreteInverseWeibull: 1.0.2
 DiscreteLaplace: 1.1.1
 DiscreteQvalue: '1.1'
@@ -1959,7 +1961,7 @@ DiscriMiner: 0.1-29
 Disequilibrium: '1.1'
 DisimForMixed: '0.2'
 DistPlotter: 0.0.2
-Distance: 1.0.9
+Distance: 2.0.0
 DistatisR: 1.1.1
 Distributacalcul: 0.4.0
 DistributionFitR: '0.1'
@@ -2051,7 +2053,7 @@ ECctmc: 0.2.5
 ECharts2Shiny: 0.2.13
 ECoL: 0.3.0
 EDA: '1.3'
-EDCimport: 0.4.1
+EDCimport: 0.5.0
 EDFIR: '1.0'
 EDFtest: 0.1.0
 EDISON: 1.1.1
@@ -3076,7 +3078,7 @@ GomoGomonoMi: 0.1.0
 GoodFibes: 0.1.10
 GoodFitSBM: 0.0.1
 GoodmanKruskal: 0.0.3
-Goodreader: 0.1.1
+Goodreader: 0.1.2
 GoogleImage2Array: 0.99.2
 GoogleKnowledgeGraphR: 0.1.0
 Goslate: '1.0'
@@ -3685,6 +3687,7 @@ JamendoR: 0.1.1
 Java: '0.54'
 JavaGD: 0.6-5
 Jaya: 0.1.9
+Jcvrisk: 0.1.0
 Jdmbs: '1.4'
 JirAgileR: 0.0.2.1
 Jmisc: 0.3.1.1
@@ -4561,6 +4564,7 @@ Mcomp: '2.8'
 MeDiChI: 0.4.0
 MeTo: 0.1.1
 MeanShift: 1.1-1
+MedDataSets: 0.1.0
 MedDietCalc: 0.1.1
 MedLEA: 1.0.2
 MedOr: '0.1'
@@ -5760,7 +5764,7 @@ ProfileLikelihood: '1.3'
 ProfoundData: 0.2.1
 ProgGUIinR: 0.0-4
 ProgModule: 0.1.0
-ProjectManagement: 1.5.2
+ProjectManagement: 2.0.2
 ProjectTemplate: 0.11.0
 ProjectionBasedClustering: 1.2.2
 ProliferativeIndex: 1.0.1
@@ -6569,7 +6573,7 @@ Rchoice: 0.3-6
 Rclean: 1.0.0
 RclusTool: 0.91.6
 Rclusterpp: 0.2.3
-Rcmdr: 2.9-4
+Rcmdr: 2.9-5
 Rcmdr.HH: 1.8-0
 RcmdrMisc: 2.9-1
 RcmdrPlugin.BCA: 0.9-8
@@ -7554,7 +7558,7 @@ SeqMADE: '1.0'
 SeqNet: 1.1.3
 SequenceAnalysis: '1.3'
 SequenceSpikeSlab: 1.0.1
-Sequential: 4.3.3
+Sequential: 4.3.4
 SequentialDesign: '1.0'
 SesIndexCreatoR: 1.0-2
 SetMethods: '4.0'
@@ -7720,7 +7724,7 @@ SpNMF: 0.1.1
 SpNetPrep: '1.2'
 SpPOP: 0.1.0
 SpTe2M: 1.0.3
-SpaCCI: '1.0'
+SpaCCI: 1.0.2
 SpaCCr: 0.1.0
 SpaCOAP: '1.2'
 SpaDES: 2.0.11
@@ -7813,7 +7817,7 @@ StMoSim: 3.1.1
 StReg: '1.1'
 StVAR: '1.1'
 StabilizedRegression: '1.1'
-StableEstim: '2.2'
+StableEstim: '2.3'
 Stack: 2.0-1
 StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
@@ -8520,7 +8524,7 @@ ViewPipeSteps: 0.1.0
 VineCopula: 2.5.1
 VirtualPop: 2.0.2
 VisCollin: 0.1.2
-VisCov: '1.3'
+VisCov: 1.4.0
 VisitorCounts: 2.0.2
 VisuClust: '1.2'
 VisualDom: 0.8.0
@@ -8859,7 +8863,7 @@ adaptMT: 1.0.0
 adaptTest: '1.2'
 adaptalint: 0.2.4
 adaptiveGPCA: 0.1.3
-adaptivetau: 2.3-1
+adaptivetau: 2.3-2
 adaptr: 1.4.0
 adaptsmoFMRI: '1.2'
 adass: 1.0.1
@@ -8919,7 +8923,7 @@ admiralophtha: 1.1.0
 admiralpeds: 0.1.0
 admiralvaccine: 0.3.0
 admisc: '0.36'
-admix: 2.1-3
+admix: 2.3.1
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
@@ -10420,7 +10424,7 @@ bstrl: 1.0.2
 bsts: 0.9.10
 bsub: 1.1.0
 bsvarSIGNs: 1.0.1
-bsvars: '3.1'
+bsvars: '3.2'
 bsynth: '1.0'
 btb: 0.2.0
 btergm: 1.10.12
@@ -10619,7 +10623,7 @@ cartools: 0.1.0
 carx: 0.7.1
 casabourse: 2.0.0
 cascadeSelect: 1.1.0
-cascadess: 0.1.0
+cascadess: 0.2.0
 caschrono: '2.4'
 cascsim: '0.4'
 caseMatch: 1.1.0
@@ -10672,7 +10676,7 @@ causalMGM: 0.1.1
 causalOT: 1.0.2
 causalPAF: 1.2.5
 causalSLSE: 0.3-1
-causaldata: 0.1.3
+causaldata: 0.1.4
 causaldrf: 0.4.2
 causaleffect: 1.3.15
 causaloptim: 1.0.0
@@ -12412,7 +12416,7 @@ desirability2: 0.0.1
 desire: 1.0.7
 desk: 1.1.1
 desla: 0.3.0
-despair: 0.1.0
+despair: 0.1.1
 desplot: '1.10'
 details: 0.3.0
 detect: 0.4-6
@@ -12644,7 +12648,7 @@ distops: 0.1.0
 distory: 1.4.5
 distr: 2.9.5
 distr6: 1.6.9
-distrDoc: 2.8.2
+distrDoc: 2.8.4
 distrEllipse: 2.8.3
 distrEx: 2.9.5
 distrMod: 2.9.6
@@ -15141,7 +15145,7 @@ ggforce: 0.4.2
 ggformula: 0.12.0
 ggfortify: 0.4.17
 ggfoundry: 0.3.1
-ggfun: 0.1.6
+ggfun: 0.1.7
 ggfx: 1.0.1
 gggap: 1.0.1
 gggenes: 0.5.1
@@ -15272,7 +15276,7 @@ ggsubplot: 0.3.2
 ggsurvey: 1.0.0
 ggsurvfit: 1.1.0
 ggswissmaps: 0.1.1
-ggtangle: 0.0.2
+ggtangle: 0.0.3
 ggtea: 0.1.1
 ggtern: 3.5.0
 ggtext: 0.1.2
@@ -15402,7 +15406,7 @@ glmnet: 4.1-8
 glmnetSE: 0.0.1
 glmnetUtils: 1.1.9
 glmnetcr: 1.0.6
-glmnetr: 0.5-3
+glmnetr: 0.5-4
 glmpath: '0.98'
 glmpathcr: 1.0.10
 glmpca: 0.2.0
@@ -15865,7 +15869,7 @@ halp: 0.1.3
 hamlet: 0.9.6
 handcodeR: 0.1.2
 handlr: 0.3.0
-handwriter: 3.2.0
+handwriter: 3.2.1
 handwriterApp: 1.0.1
 handyFunctions: 0.1.0
 handyplots: 1.1.3
@@ -16446,10 +16450,10 @@ icertool: 0.0.3
 icesAdvice: 2.1.1
 icesConnect: 1.0.0
 icesDatras: 1.4.1
-icesDatsu: 1.1.0
+icesDatsu: 1.2.0
 icesDatsuQC: 1.0.1
-icesSAG: 1.4.1
-icesSD: 2.0.0
+icesSAG: 1.5.0
+icesSD: 2.1.0
 icesTAF: 4.2.0
 icesVMS: 1.1.4
 icesVocab: 1.2.0
@@ -16812,6 +16816,7 @@ ipanema: 1.1.0
 ipbase: 0.1.1
 ipc: 0.1.4
 ipcwswitch: 1.0.4
+ipd: 0.1.2
 ipdmeta: '2.4'
 ipdw: 2.0-0
 ipeaData: 0.0.2
@@ -17784,7 +17789,7 @@ lncDIFF: 1.0.0
 lnmCluster: 0.3.1
 lnmixsurv: 3.1.6
 loa: 0.2.48.3
-loadeR: 1.2.0
+loadeR: 1.3.0
 loadflux: 0.0.2
 loadings: 0.5.1
 loadr: 0.1.3
@@ -18092,6 +18097,7 @@ malaria.em: '2.0'
 malariaAtlas: 1.6.3
 malaytextr: 0.1.3
 maldipickr: 1.3.1
+mall: 0.1.0
 mallet: 1.3.0
 malvinas: 0.1.0
 managelocalrepo: 0.1.5
@@ -18447,7 +18453,7 @@ meme: 0.2.3
 memery: 0.6.0
 memgene: 1.0.2
 memify: 0.1.1
-memisc: 0.99.31.8
+memisc: 0.99.31.8.1
 memnet: 0.1.0
 memo: 1.1.1
 memochange: 1.1.1
@@ -18666,7 +18672,7 @@ microdemic: 0.6.0
 microdiluteR: 1.0.1
 microeco: 1.9.1
 microhaplot: 1.0.1
-microinverterdata: 0.1.0
+microinverterdata: 0.2.0
 micromap: 1.9.9
 micromapST: 3.0.3
 micromodal: 1.0.0
@@ -18793,7 +18799,7 @@ misspi: 0.1.0
 mistat: 2.0.4
 mistr: 0.0.6
 mistral: 2.2.2
-misty: 0.6.7
+misty: 0.6.8
 misuvi: 0.1.0
 mitml: 0.4-5
 mitools: '2.4'
@@ -19112,7 +19118,7 @@ monobinShiny: 0.1.0
 monochromeR: 0.2.0
 monogeneaGM: '1.1'
 monographaR: 1.3.1
-monolix2rx: 0.0.2
+monolix2rx: 0.0.3
 monomvn: 1.9-21
 monoreg: '2.1'
 monotone: 0.1.2
@@ -19341,7 +19347,7 @@ mulea: 1.1.0
 mulgar: 1.0.2
 mully: 2.1.38
 mulset: 1.0.0
-mult.latent.reg: 0.1.9
+mult.latent.reg: 0.2.0
 multDM: 1.1.4
 multIntTestFunc: 0.3.0
 multbxxc: 1.0.3
@@ -20680,7 +20686,7 @@ panelsummary: 0.1.2.1
 panelvar: 0.5.5
 pangaear: 1.1.0
 panstarrs: 0.2.2
-papaja: 0.1.2
+papaja: 0.1.3
 papayar: '1.0'
 papci: 0.1.0
 papeR: 1.0-5
@@ -23965,7 +23971,7 @@ saeczi: 0.2.0
 saeeb: 0.1.0
 saekernel: 0.1.1
 saemix: '3.3'
-saens: 0.1.0
+saens: 0.1.1
 saery: '1.0'
 safeBinaryRegression: 0.1-3
 safedata: 1.1.3
@@ -24986,7 +24992,7 @@ smdi: 0.3.1
 smdocker: 0.1.4
 smds: '1.0'
 sme: 1.0.2
-smerc: 1.8.3
+smerc: 1.8.4
 smetlite: 0.2.10
 smfishHmrf: '0.1'
 smfsb: '1.5'
@@ -25440,7 +25446,7 @@ sport: 0.2.1
 sportyR: 2.2.2
 spotGUI: 0.2.3
 spotidy: 0.1.0
-spotifyr: 2.2.4
+spotifyr: 2.2.5
 spotoroo: 0.1.4
 spots: 0.1.0
 spp: 1.16.0
@@ -25660,7 +25666,7 @@ statnipokladna: 0.7.4
 statprograms: 0.2.0
 statpsych: 1.6.0
 statquotes: 0.3.2
-stats19: 3.1.0
+stats19: 3.2.0
 stats4teaching: 0.1.0
 statsDK: 0.1.1
 statsExpressions: 1.6.0
@@ -25870,6 +25876,7 @@ sudokuplus: '1.0'
 sufficientForecasting: 0.1.0
 sugaR: 0.0-5
 sugarbag: 0.1.6
+sugarglider: 1.0.3
 suggests: 0.1.0
 sugrrants: 0.2.9
 sumFREGAT: 1.2.5
@@ -26270,7 +26277,7 @@ teachingApps: 1.0.8
 teal: 0.15.2
 teal.code: 0.5.0
 teal.data: 0.6.0
-teal.logger: 0.2.0
+teal.logger: 0.3.0
 teal.modules.clinical: 0.9.1
 teal.modules.general: 0.3.0
 teal.reporter: 0.3.1
@@ -26555,7 +26562,7 @@ tidysdm: 0.9.5
 tidyselect: 1.2.1
 tidyseurat: 0.8.0
 tidysmd: 0.2.0
-tidysq: 1.2.1
+tidysq: 1.2.2
 tidystats: 0.6.2
 tidystopwords: 0.9.1
 tidystringdist: 0.1.4
@@ -27023,7 +27030,7 @@ tsqn: 1.0.0
 tsriadditive: 1.0.0
 tsrobprep: 0.3.2
 tssim: 0.1.7
-tstests: 1.0.0
+tstests: 1.0.1
 tstools: 0.4.3
 tsutils: 0.9.4
 tsvio: 1.0.6
