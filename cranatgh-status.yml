@@ -234,7 +234,7 @@ AdjBQR: '1.0'
 AdvBinomApps: '1.0'
 AdvDif4: 0.7.18
 AdvancedBasketballStats: 1.0.1
-AdverseEvents: 0.0.1
+AdverseEvents: 0.0.2
 AeRobiology: 2.0.1
 Aelasticnet: 2.13.1
 AeroSampleR: 0.2.0
@@ -2093,7 +2093,7 @@ EIEntropy: 0.0.1.1
 EILA: 0.1-2
 EIX: 1.2.0
 EKMCMC: 1.1.2
-EL: '1.2'
+EL: '1.3'
 EL2Surv: '1.1'
 ELCIC: 0.2.1
 ELISAtools: 0.1.5
@@ -3192,7 +3192,7 @@ HHG: 2.3.7
 HI: '0.5'
 HIBAG: 1.2.4
 HIBPwned: 0.1.7
-HIMA: 2.2.2
+HIMA: 2.3.0
 HIV.LifeTables: '0.1'
 HIest: '2.0'
 HK80: 0.0.2
@@ -3307,7 +3307,7 @@ HistDat: 0.2.0
 HistData: 0.9-1
 HistogramTools: 0.3.2
 HiveR: 0.4.0
-Hmisc: 5.1-3
+Hmisc: 5.2-0
 Hmsc: 3.0-13
 HoRM: 0.1.3
 HodgesTools: 1.0.0
@@ -4396,7 +4396,7 @@ MRCE: '2.4'
 MRCV: 0.4-0
 MRFA: '0.6'
 MRFcov: 1.0.39
-MRG: 0.2.14
+MRG: 0.3.1
 MRH: '2.2'
 MRHawkes: '1.0'
 MRIaggr: 1.1.5
@@ -4733,7 +4733,7 @@ Modelcharts: 0.1.0
 Modeler: 3.4.5
 MolgenisArmadillo: 2.7.0
 MolgenisAuth: 0.0.25
-MomTrunc: '6.0'
+MomTrunc: '6.1'
 Momocs: 1.4.1
 Mondrian: 1.1-1
 MonetDB.R: 2.0.0
@@ -5751,6 +5751,7 @@ ProPublicaR: 1.1.4
 ProSGPV: 1.0.0
 ProSportsDraftData: 1.0.3
 ProTrackR: 0.4.3
+ProTrackR2: 0.0.4
 ProbBayes: '1.1'
 ProbBreed: 1.0.4.2
 ProbForecastGOP: 1.3.2
@@ -6729,7 +6730,7 @@ Rd2roxygen: '1.16'
 Rdbi: 0.1-2
 Rdbi.PgSQL: 0.1-2
 Rdca: 0.1.0
-Rdiagnosislist: '1.2'
+Rdiagnosislist: '1.3'
 Rdice: 1.0.0
 Rdimtools: 1.1.2
 Rdistance: 3.0.0
@@ -7310,7 +7311,7 @@ SNPMaP: 1.1.1
 SNPMaP.cdm: 1.1.1
 SNPRelate: 0.9.19
 SNPannotator: 0.2.6.0
-SNPassoc: 2.1-0
+SNPassoc: 2.1-2
 SNPfiltR: 1.0.1
 SNPknock: 0.8.2
 SNPmaxsel: 1.0-3
@@ -7457,7 +7458,7 @@ SUMO: 0.1.0
 SUNGEO: 1.3.0
 SUSY: 0.1.0
 SV: 1.3.5
-SVDNF: 0.1.10
+SVDNF: 0.1.11
 SVGMapping: '1.43'
 SVMD: 0.1.0
 SVMMaj: 0.2.9.2
@@ -7591,6 +7592,7 @@ ShinyItemAnalysis: 1.5.1
 ShinyLink: 0.2.2
 ShinyQuickStarter: 2.0.1
 ShinyTester: 0.1.0
+ShinyWizard: 1.1.3.11
 ShortForm: 0.5.5
 ShrinkCovMat: 1.4.0
 Shrinkage: '1.0'
@@ -8672,7 +8674,7 @@ WriteXLS: 6.7.0
 WtTopsis: '1.0'
 WufooR: 1.0.1
 XBRL: 0.99.19.1
-XDNUTS: '1.2'
+XDNUTS: '1.5'
 XGR: 1.1.7
 XHWE: '1.0'
 XICOR: 0.4.1
@@ -9910,6 +9912,7 @@ bfa: '0.4'
 bfast: 1.7.0
 bfork: 0.1.2
 bfp: 0.0-48
+bfpwr: 0.1.3
 bfsMaps: 1.99.3
 bfsl: 0.2.0
 bfw: 0.4.2
@@ -10980,7 +10983,7 @@ circlize: 0.4.16
 circlus: 0.0.1
 circular: 0.5-1
 circularEV: 0.1.1
-circumplex: 0.3.10
+circumplex: 1.0.0
 cirls: 0.3.1
 cit: 2.3.2
 citation: 0.8.2
@@ -11019,6 +11022,7 @@ classGraph: 0.7-6
 classInt: 0.4-10
 classPP: 1.0.2.1
 classiFunc: 0.1.1
+classicaltest: 0.7.0
 classifierplots: 1.4.0
 classifly: 0.4.1
 classify: '1.3'
@@ -11341,7 +11345,7 @@ colt: 0.1.1
 comFuncs: 0.0.6
 comat: 0.9.5
 comato: '1.1'
-combat.enigma: '1.1'
+combat.enigma: 1.1.1
 combinIT: 2.0.0
 combinat: 0.0-8
 combinationpvalues: 0.1.4
@@ -11835,7 +11839,7 @@ crqanlp: '0.3'
 crrSC: 1.1.2
 crrcbcv: '1.0'
 crrp: '1.0'
-crrstep: 2023.1.1
+crrstep: 2024.1.1
 crs: 0.15-38
 crseEventStudy: 1.2.2
 crskdiag: 1.0.1
@@ -12509,7 +12513,7 @@ dibble: 0.3.0
 dice: '1.2'
 diceR: 2.2.0
 dicecrawler: 0.1.0
-diceplot: 0.1.1
+diceplot: 0.1.2
 dichromat: 2.0-0.1
 dicionariosIBGE: '1.6'
 dictionaRy: 0.1.1
@@ -13332,7 +13336,7 @@ emma: 0.1-0
 emme2: '0.9'
 emmeans: 1.10.5
 emoa: 0.5-3
-emoji: '15.0'
+emoji: 16.0.0
 emojifont: 0.5.5
 emon: 1.3.2
 emov: 0.1.1
@@ -13356,6 +13360,7 @@ enc: 0.2.2
 encode: 0.3.6
 encryptedRmd: 0.2.1
 encryptr: 0.1.3
+enderecobr: 0.2.0
 endoSwitch: 1.0.0
 endogMNP: 0.2-1
 endogeneity: 2.1.3
@@ -13760,6 +13765,7 @@ eyeTrackR: 1.0.1
 eyedata: 0.1.0
 eyelinkReader: 1.0.2
 eyelinker: 0.2.1
+eyetools: 0.7.2
 eyetracking: '1.1'
 eyetrackingR: 0.2.1
 ez: 4.4-0
@@ -13938,9 +13944,10 @@ fastbeta: 0.3.0
 fastclime: 1.4.1.1
 fastcluster: 1.2.6
 fastcmh: 0.2.7
-fastcmprsk: 1.24.5
+fastcmprsk: 1.24.10
 fastcox: 1.1.3
 fastcpd: 0.14.3
+fastdid: 1.0.2
 fastdigest: 0.6-4
 fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
@@ -15139,7 +15146,7 @@ ggdensity: 1.0.0
 ggdist: 3.3.2
 ggdistribute: 1.0.3
 ggdmc: 0.2.6.0
-gge: '1.8'
+gge: '1.9'
 ggeasy: 0.1.4
 ggedit: 0.4.1
 ggeffects: 1.7.2
@@ -15219,6 +15226,7 @@ ggparliament: 2.0.0
 ggparty: 1.0.0
 ggpath: 1.0.2
 ggpattern: 1.1.1
+ggpca: 0.1.2
 ggpcp: 0.2.0
 ggperiodic: 1.0.3
 ggpicrust2: 1.7.3
@@ -16473,6 +16481,7 @@ icesVMS: 1.1.4
 icesVocab: 1.2.0
 ichimoku: 1.5.5
 icmm: '1.2'
+icmstate: 0.1.0
 icomp: '0.1'
 iconr: 0.1.0
 icosa: 0.11.1
@@ -17694,7 +17703,7 @@ lingmatch: 1.0.7
 lingtypology: 1.1.19
 linguisticsdown: 1.2.0
 link: 2024.4.0
-link2GI: 0.6-1
+link2GI: 0.6-2
 linkR: 1.1.1
 linkcomm: 1.0-14
 linkedInadsR: 0.1.0
@@ -17741,7 +17750,7 @@ littler: 0.3.20
 liureg: 1.1.2
 live: 1.5.13
 livechatR: 0.1.0
-liver: '1.16'
+liver: '1.17'
 ljr: 1.4-0
 llama: 0.10.1
 llbayesireg: 1.0.0
@@ -19120,6 +19129,7 @@ moments: 0.14.1
 momentuHMM: 1.5.5
 momr: '1.1'
 monaco: 0.2.2
+monad: 0.1.1
 monashtipr: 0.1.0
 mondate: '1.0'
 mongolite: 2.8.1
@@ -19856,7 +19866,7 @@ nipnTK: 0.2.0
 nitrcbot: '1.2'
 nivm: '0.5'
 nixmass: 1.0.2
-nixtlar: 0.6.1
+nixtlar: 0.6.2
 njgeo: 0.1.0
 njtr1: 0.3.2
 nlADG: 0.1-0
@@ -19875,7 +19885,7 @@ nlmeODE: '1.1'
 nlmeU: 0.70-9
 nlmeVPC: '2.6'
 nlmixr: 2.0.7
-nlmixr2: 3.0.0
+nlmixr2: 3.0.1
 nlmixr2data: 2.0.9
 nlmixr2est: 3.0.1
 nlmixr2extra: 3.0.0
@@ -20133,7 +20143,7 @@ numGen: 0.1.1
 numKM: 0.2.0
 numOSL: '2.8'
 numbat: 1.4.2
-numberize: 1.0.0
+numberize: 1.0.1
 numberofalleles: 1.0.1
 numbers: 0.8-5
 numbersBR: 0.0.2
@@ -20188,7 +20198,7 @@ obsSens: '1.4'
 observer: 0.1.2
 oc: 1.2.1
 occ: '1.2'
-occCite: 0.5.8
+occCite: 0.5.9
 occTest: 0.1.1
 occUncertain: 0.1.0
 occumb: 1.1.0
@@ -20928,7 +20938,7 @@ pdi: 0.4.2
 pdist: 1.2.1
 pdmod: 1.0.1
 pdolsms: '0.2'
-pdp: 0.8.1
+pdp: 0.8.2
 pdqr: 0.3.1
 pds3: 0.5.0
 pdt: 0.0.2
@@ -21205,6 +21215,7 @@ picR: 1.0.0
 picante: 1.8.2
 picasso: 1.3.1
 picker: 0.2.6
+picohdr: 0.1.1
 pid: '0.50'
 piecemaker: 1.0.2
 piecenorms: 1.1.0
@@ -21221,7 +21232,7 @@ pimeta: 1.1.3
 pinbasic: 1.2.2
 pinfsc50: 1.3.0
 pingers: 0.1.1
-pingr: 2.0.3
+pingr: 2.0.4
 pinktoe: '2.0'
 pinnacle.API: 2.3.3
 pinnacle.data: 0.1.4
@@ -21262,7 +21273,7 @@ pkDACLASS: '1.0'
 pkdata: 0.1.0
 pkgGraphR: 0.2.0
 pkgKitten: 0.2.4
-pkgbuild: 1.4.4
+pkgbuild: 1.4.5
 pkgcache: 2.2.3
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
@@ -21756,6 +21767,7 @@ pricelevels: 1.3.0
 pricesensitivitymeter: 1.3.0
 prider: 1.0.4
 prim: 1.0.21
+primarycensored: 1.0.0
 primate: 0.2.0
 primePCA: '1.2'
 primefactr: 0.1.1
@@ -21898,7 +21910,7 @@ prqlr: 0.9.0
 prrd: 0.0.6
 prt: 0.2.0
 pryr: 0.1.6
-ps: 1.8.0
+ps: 1.8.1
 psBayesborrow: 1.1.0
 psData: 0.2.2
 psSubpathway: 0.1.3
@@ -22225,7 +22237,7 @@ quarrint: 1.0.0
 quartets: 0.1.1
 quarto: 1.4.4
 quaternions: '0.2'
-quaxnat: 1.0.0
+quaxnat: 1.0.1
 queryBuilder: 0.1.0
 queryparser: 0.3.2
 queryup: 1.0.5
@@ -23189,7 +23201,7 @@ rgexf: 0.16.3
 rggm: 1.0.1.1
 rggobi: 2.1.22
 rgho: 3.0.2
-rgl: 1.3.1
+rgl: 1.3.12
 rgl.cry: 0.1.1
 rgl2gltf: 1.0.5
 rglobi: 0.3.4
@@ -23707,7 +23719,7 @@ rscala: 3.2.25
 rscc: 0.2.1
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 1.3.1
+rsconnect: 1.3.2
 rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.30.0
@@ -25624,7 +25636,7 @@ standGL: '1.1'
 standardize: 0.2.2
 standardlastprofile: 1.0.0
 standartox: 0.0.2
-standby: 0.1.0
+standby: 0.2.0
 stanette: 2.21.4
 stapler: 0.7.1
 staplr: 3.2.2
@@ -25763,7 +25775,7 @@ stochQN: 0.1.2-1
 stochasticGEM: 0.0-1
 stochmod: 1.2.1
 stochprofML: 2.0.3
-stochvol: 3.2.4
+stochvol: 3.2.5
 stochvolTMB: 0.2.0
 stockAnalyst: 1.0.1
 stockPortfolio: '1.2'
@@ -26228,6 +26240,7 @@ tanaka: 0.4.0
 tangles: 0.8.1
 tangram: 0.8.2
 tangram.pipe: 1.1.2
+tapLock: 0.2.0
 tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
@@ -27847,7 +27860,7 @@ wiserow: 0.1.0
 wishmom: 1.1.0
 withdots: 0.1.1
 wither: 0.1.0
-withr: 3.0.1
+withr: 3.0.2
 witness: '1.2'
 wk: 0.9.4
 wkNNMI: 1.0.0
