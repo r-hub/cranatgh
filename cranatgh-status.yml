@@ -1943,11 +1943,11 @@ Dire: 2.2.0
 DirectEffects: '0.3'
 DirectStandardisation: '1.3'
 DirectedClustering: 1.0.0
-Directional: '6.8'
+Directional: '6.9'
 DirichletReg: 0.7-1
 DisHet: 1.0.0
 DisImpact: 0.0.21
-DisaggregateTS: 2.0.0
+DisaggregateTS: 3.0.0
 Disake: '1.5'
 DiscML: 1.0.1
 DiscreteDatasets: 0.1.1
@@ -2043,7 +2043,7 @@ EBcoBART: 1.1.0
 EBglmnet: '6.0'
 EBrank: 1.0.0
 ECFsup: 0.1-2
-ECG: 0.5.1
+ECG: 0.5.2
 ECGofTestDx: '0.5'
 ECLRMC: '1.0'
 ECOSolveR: 0.5.5
@@ -2572,7 +2572,7 @@ FinAna: 0.1.2
 FinAsym: '1.0'
 FinCal: 0.6.3
 FinCovRegularization: 1.1.0
-FinNet: 0.1.2
+FinNet: '0.2'
 FinTS: 0.4-9
 FinancialInstrument: 1.3.1
 FinancialMath: 0.1.1
@@ -4151,7 +4151,7 @@ MBTAr: 2.0.0
 MBmca: 1.0.1-3
 MC2toPath: 0.0.16
 MCAPS: 0.3-2
-MCARtest: 1.2.1
+MCARtest: 1.2.2
 MCAvariants: 2.6.1
 MCBackscattering: 0.1.1
 MCCM: 0.1.0
@@ -5791,7 +5791,7 @@ PubBias: '1.0'
 PubChemR: 2.1.1
 PubMedMining: 1.0.0
 PubMedWordcloud: 0.3.6
-PublicWorksFinanceIT: 0.2.0
+PublicWorksFinanceIT: 0.3.0
 PublicationBias: 2.4.0
 Publish: 2023.01.17
 PupilPre: 0.6.2
@@ -5877,7 +5877,7 @@ QuClu: 1.0.1
 QuESTr: 0.1.1
 QuICSeedR: 0.1.2
 QuadRoot: 0.2.1
-QuadratiK: 1.1.1
+QuadratiK: 1.1.2
 QualInt: 1.0.0
 Quandl: 2.11.0
 QuantBondCurves: 0.3.0
@@ -6589,7 +6589,7 @@ RcmdrPlugin.BWS3: 0.2-3
 RcmdrPlugin.BiclustGUI: 1.1.3.1
 RcmdrPlugin.DCCV: 0.1-5
 RcmdrPlugin.DCE: 0.2-3
-RcmdrPlugin.DoE: 0.12-5
+RcmdrPlugin.DoE: 0.12-6
 RcmdrPlugin.EACSPIR: 0.2-3
 RcmdrPlugin.EBM: 1.0-10
 RcmdrPlugin.EHESsampling: '2.0'
@@ -8003,7 +8003,7 @@ TCPMOR: '1.0'
 TDA: 1.9.1
 TDAkit: 0.1.2
 TDAmapper: '1.0'
-TDApplied: 3.0.3
+TDApplied: 3.0.4
 TDAstats: 0.4.1
 TDAvec: 0.1.3
 TDCM: 0.1.0
@@ -8046,13 +8046,13 @@ TKCat: 1.1.11
 TKF: 0.0.8
 TLBC: '1.0'
 TLCAR: 0.1.0
-TLIC: '0.2'
+TLIC: '0.3'
 TLMoments: 0.7.5.3
 TLdating: 0.1.3
 TMB: 1.9.15
 TMDb: '1.1'
 TML: 2.3.0
-TMTI: 1.0.1
+TMTI: 1.0.3
 TNC: 0.1.0
 TNRS: 0.3.6
 TOC: 0.0-6
@@ -10059,7 +10059,7 @@ binspp: 0.1.26
 binsreg: '1.1'
 binst: 0.2.1
 bio.infer: 1.3-6
-bio3d: 2.4-4
+bio3d: 2.4-5
 bioC.logs: 1.2.1
 bioOED: 0.2.1
 bioPN: 1.2.0
@@ -10099,7 +10099,7 @@ bioseq: 0.1.4
 bioset: 0.2.3
 biosignalEMG: 2.1.0
 biospear: 1.0.2
-biostat3: 0.2.1
+biostat3: 0.2.2
 biostats101: 0.1.1
 biosurvey: 0.1.1
 biotic: 0.1.2
@@ -10347,7 +10347,7 @@ brandwatchR: 0.3.0
 brant: 0.3-0
 brassica: 1.0.2
 bratteli: 1.0.0
-bravo: 3.2.1
+bravo: 3.2.2
 brazilmaps: 0.1.0
 brclimr: 0.2.0
 brea: 0.3.1
@@ -12090,7 +12090,7 @@ dang: 0.0.16
 dani: 0.1-1
 dann: 1.0.0
 danstat: 0.2.0
-dapper: 1.0.0
+dapper: 1.0.1
 dapr: 0.0.3
 daqapo: 0.3.2
 darch: 0.12.0
@@ -12450,7 +12450,7 @@ devRate: 0.2.4
 devoid: 0.1.2
 devtoolbox: 0.2.0
 devtools: 2.4.5
-dexisensitivity: 1.0.0
+dexisensitivity: 1.0.1
 dexter: 1.5.0
 dexterMST: 0.9.6
 dextergui: 0.2.6
@@ -12493,7 +12493,7 @@ dhReg: 0.1.1
 dhga: '0.1'
 dhglm: '2.0'
 dhh: 0.0.1
-dhis2r: 0.1.1
+dhis2r: 0.2.0
 dhlabR: 1.0.6
 dhsage: 0.1.0
 di: 1.1.4
@@ -13298,7 +13298,7 @@ elexr: '1.0'
 elfDistr: 1.0.0
 elfgen: 2.3.3
 elgbd: 0.9.0
-elhmc: 1.2.0
+elhmc: 1.2.1
 elisr: 0.1.1
 elitism: 1.1.1
 elliplot: 1.3.0
@@ -14331,7 +14331,7 @@ focusedMDS: 1.3.3
 foghorn: 1.6.0
 foieGras: 0.7-6
 fold: 0.2.6
-folda: 0.1.0
+folda: 0.2.0
 folderfun: 0.1.4
 folders: 0.1.0
 folio: 1.5.0
@@ -14789,7 +14789,7 @@ gcExplorer: 0.9-4
 gcForest: 0.2.7
 gcKrig: 1.1.8
 gcTensor: 1.0.0
-gcbd: 0.2.6
+gcbd: 0.2.7
 gcdnet: 1.0.6
 gcerisk: 19.05.24
 gcite: 0.10.1
@@ -15275,7 +15275,7 @@ ggsector: 1.6.6
 ggseg: 1.6.5
 ggseg3d: 1.6.3
 ggseqlogo: '0.2'
-ggseqplot: 0.8.4
+ggseqplot: 0.8.5
 ggshadow: 0.0.5
 ggside: 0.3.1
 ggsignif: 0.6.4
@@ -15803,7 +15803,7 @@ gtexture: 1.0.0
 gtfs2emis: 0.1.0
 gtfs2gps: 2.1-2
 gtfsio: 1.2.0
-gtfsrouter: 0.1.2
+gtfsrouter: 0.1.3
 gtfstools: 1.3.0
 gtheory: 0.1.2
 gtkDevice: 1.9-4
@@ -18141,7 +18141,7 @@ manydata: 0.9.3
 manymodelr: 0.3.7
 manymome: 0.2.4
 manymome.table: 0.3.0
-manynet: 1.2.6
+manynet: 1.3.1
 maotai: 0.2.5
 mapDK: 0.3.0
 mapLD: 1.0-1
@@ -18695,7 +18695,7 @@ microcontax: '1.2'
 microdatasus: 2.3.1
 microdemic: 0.6.0
 microdiluteR: 1.0.1
-microeco: 1.9.1
+microeco: 1.10.0
 microhaplot: 1.0.1
 microinverterdata: 0.2.0
 micromap: 1.9.9
@@ -19051,7 +19051,7 @@ mod: 0.1.3
 mod09nrt: '0.14'
 mod2rm: 0.2.1
 modACDC: 2.0.1
-modEvA: 3.18.2
+modEvA: '3.20'
 modMax: '1.1'
 modQR: 0.1.3
 modTempEff: 1.5.2
@@ -19572,6 +19572,7 @@ mwaved: 1.1.8
 mwcsr: 0.1.9
 mwlaxeref: 0.0.1
 mwshiny: 2.1.0
+mxcc: 0.0.1
 mxfda: 0.2.2
 mxkssd: '1.2'
 mxmmod: 1.1.0
@@ -19888,7 +19889,7 @@ nlmixr: 2.0.7
 nlmixr2: 3.0.1
 nlmixr2data: 2.0.9
 nlmixr2est: 3.0.1
-nlmixr2extra: 3.0.0
+nlmixr2extra: 3.0.1
 nlmixr2lib: 0.3.0
 nlmixr2plot: 3.0.0
 nlmixr2rpt: 0.2.0
@@ -20477,7 +20478,7 @@ ordiBreadth: '1.0'
 ordinal: 2023.12-4.1
 ordinalClust: 1.3.5
 ordinalCont: 2.0.2
-ordinalForest: 2.4-3
+ordinalForest: 2.4-4
 ordinalLBM: '1.0'
 ordinalNet: '2.12'
 ordinalRR: '1.1'
@@ -21844,7 +21845,7 @@ profvis: 0.4.0
 progenyClust: '1.2'
 prognosticROC: '0.7'
 progress: 1.2.3
-progressr: 0.14.0
+progressr: 0.15.0
 proj4: 1.0-14
 projections: 0.6.0
 projector: 0.0.2
@@ -22794,7 +22795,7 @@ react: 2024.1.0
 reactCheckbox: 1.0.0
 reactR: 0.6.1
 reactable: 0.4.4
-reactable.extras: 0.2.0
+reactable.extras: 0.2.1
 reactablefmtr: 2.0.0
 reactlog: 1.1.1
 read.cwa: 0.2.1
@@ -22894,6 +22895,7 @@ red: 1.6.1
 redR: 1.0.1
 reda: 0.5.4
 redatam: 2.0.0
+redatamx: 1.0.0
 redbookperu: 0.0.3
 redcapAPI: 2.10.0
 reddPrec: 2.0.3
@@ -22922,7 +22924,7 @@ refnr: 0.1.0
 reformulas: 0.3.0
 refreg: 0.1.1
 refreshr: 0.1.0
-refseqR: 1.1.4
+refseqR: 1.1.5
 refset: 0.1.1
 refuge: 0.3.3
 refugees: 2024.6.0
@@ -23250,7 +23252,7 @@ riAFTBART: 0.3.3
 rib: 0.23.1
 ribd: 1.7.0
 ribiosUtils: 1.5-6
-rice: 0.3.0
+rice: 0.4.0
 ricegeneann: 1.0.2
 riceidconverter: 1.1.1
 riceware: '0.4'
@@ -23359,7 +23361,7 @@ rlemon: 0.2.1
 rless: 0.1.1
 rlfsm: 1.1.2
 rlibkriging: 0.9-0.4
-rliger: 2.0.1
+rliger: 2.1.0
 rlinkedinads: 0.2.0
 rlist: 0.4.6.2
 rlistings: 0.2.9
@@ -23405,7 +23407,7 @@ rmetasim: 3.1.14
 rmfanova: 0.1.0
 rmgarch: 1.3-9
 rmi: 0.1.1
-rminer: 1.4.7
+rminer: 1.4.8
 rminizinc: 0.0.8
 rminqa: 0.2.2
 rmio: 0.4.0
@@ -23660,7 +23662,7 @@ rpud: 0.0.2
 rpvm: 1.0-4
 rpyANTs: 0.0.3
 rpymat: 0.1.7
-rqPen: 4.1.1
+rqPen: 4.1.2
 rqcanon: 0.1.0
 rqdatatable: 1.3.3
 rqlm: 2.1-1
@@ -23760,7 +23762,7 @@ rsparkling: 0.2.19
 rsparse: 0.5.2
 rspear: 0.1-2
 rspiro: '0.5'
-rspm: 0.6.0
+rspm: 0.6.1
 rsppfp: 1.0.4
 rsprite2: 0.2.1
 rsprng: '1.0'
@@ -23780,7 +23782,7 @@ rstatix: 0.7.2
 rstatscn: 1.1.3
 rstiefel: 1.0.1
 rstoat: 1.0.2
-rstpm2: 1.6.5
+rstpm2: 1.6.6
 rstream: 1.3.7
 rstudio.prefs: 0.1.9
 rstudioapi: 0.17.1
@@ -24512,7 +24514,7 @@ severity: '2.0'
 sewage: 0.2.5
 sf: 1.0-18
 sfa: 1.0-1
-sfaR: 1.0.0
+sfaR: 1.0.1
 sfadv: 1.0.1
 sfarrow: 0.4.1
 sfc: 0.1.0
@@ -25682,7 +25684,7 @@ statgenGWAS: 1.0.9
 statgenGxE: 1.0.9
 statgenHTP: 1.0.7
 statgenIBD: 1.0.7
-statgenMPP: 1.0.2
+statgenMPP: 1.0.3
 statgenQTLxT: 1.0.2
 statgenSTA: 1.0.14
 static: 0.1.0
@@ -28035,7 +28037,7 @@ xoi: '0.72'
 xopen: 1.0.1
 xpectr: 0.4.3
 xplain: 0.2.2
-xplorerr: 0.1.2
+xplorerr: 0.2.0
 xportr: 0.4.1
 xpose: 0.4.18
 xpose.nlmixr: 0.3.0
