@@ -166,7 +166,7 @@ ARpLMEC: 2.4.1
 ASGS.foyer: 0.3.3
 ASICS: 1.0.1
 ASIP: 0.4.9
-ASMap: 1.0-7
+ASMap: 1.0-8
 ASMbook: 1.0.2
 ASPBay: '1.2'
 ASRgenomics: 1.1.4
@@ -261,7 +261,7 @@ AllelicSeries: 0.1.0.2
 Allspice: 1.0.7
 AlphaHull3D: 2.0.0
 AlphaPart: 0.9.8
-AlphaSimR: 1.6.0
+AlphaSimR: 1.6.1
 AlphaVantageClient: 0.0.1
 AlteredPQR: 0.1.0
 Amelia: 1.8.2
@@ -958,7 +958,7 @@ CDCPLACES: 1.1.8
 CDECRetrieve: 0.1.5
 CDF.PSIdekick: '1.2'
 CDFt: '1.2'
-CDGHMM: 0.1.0
+CDGHMM: 0.1.1
 CDLasso: '1.1'
 CDM: 8.2-6
 CDMConnector: 1.5.0
@@ -1010,7 +1010,7 @@ CHsharp: '0.4'
 CIAAWconsensus: '1.3'
 CIARA: 0.1.0
 CICA: 1.1.1
-CICI: 0.9.2
+CICI: 0.9.3
 CIDER: 0.99.1
 CIDnetworks: 0.8.1
 CIEE: 0.1.1
@@ -5012,7 +5012,7 @@ NetworkComparr: 0.0.0.9
 NetworkDistance: 0.3.4
 NetworkExtinction: 1.0.3
 NetworkInference: 1.2.4
-NetworkReg: '1.1'
+NetworkReg: '2.0'
 NetworkRiskMeasures: 0.1.4
 NetworkSim: 0.1.0
 NetworkToolbox: 1.4.2
@@ -5100,6 +5100,7 @@ OPC: 0.0.2
 OPDOE: 1.0-10
 OPE: '0.7'
 OPI: 3.0.2
+OPSR: 0.1.2
 OPTS: '0.1'
 OPTtesting: 1.0.0
 ORCI: '1.1'
@@ -5524,7 +5525,7 @@ PairViz: 1.3.6
 PairedData: 1.1.1
 PairwiseD: 0.9.62
 PakPC2017: 1.0.0
-PakPC2023: 0.1.0
+PakPC2023: 0.2.0
 PakPMICS2014Ch: 0.1.0
 PakPMICS2014HH: 0.1.0
 PakPMICS2014HL: 0.1.1
@@ -5804,7 +5805,7 @@ PurpleAir: 1.0.1
 Pursuit: 1.0.5
 PvSTATEM: 0.0.4
 PwrGSD: 2.3.8
-PxWebApiData: 0.9.0
+PxWebApiData: 1.0.0
 PythonInR: 0.1-12
 PytrendsLongitudinalR: 0.1.4
 Q2q: 0.1.0
@@ -5907,7 +5908,7 @@ R.filesets: 2.15.1
 R.huge: 0.10.1
 R.matlab: 3.7.0
 R.methodsS3: 1.8.2
-R.oo: 1.26.0
+R.oo: 1.27.0
 R.rsp: 0.46.0
 R.temis: 0.1.3
 R.utils: 2.12.3
@@ -6503,7 +6504,7 @@ RaMS: 1.4.3
 RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 3.0.0
-RaceID: 0.3.6
+RaceID: 0.3.7
 Racmacs: 1.2.9
 RadData: 1.0.2
 RadOnc: 1.1.8
@@ -6788,7 +6789,7 @@ Relatedness: '2.0'
 RelativeRisk: 1.1-1
 Relectoral: 0.1.0
 Relexon: 0.2.1
-ReliaGrowR: 0.1.0
+ReliaGrowR: 0.1.1
 Reliability: 0.0-2
 ReliabilityTheory: 0.3.1
 RelimpPCR: 0.3.0
@@ -7548,6 +7549,7 @@ SemiSupervised: '1.0'
 SenSpe: '1.3'
 SenSrivastava: 2015.6.25.1
 SenTinMixt: 1.0.0
+SensIAT: 0.1.0
 SensMap: '0.7'
 SensMixed: 2.1-0
 SensitivityCaseControl: '2.2'
@@ -7826,6 +7828,7 @@ StMoMo: 0.4.1
 StMoSim: 3.1.1
 StReg: '1.1'
 StVAR: '1.1'
+StabilityApp: 0.1.0
 StabilizedRegression: '1.1'
 StableEstim: '2.3'
 Stack: 2.0-1
@@ -9666,7 +9669,7 @@ basedosdados: 0.2.2
 baseflow: 0.13.2
 basefun: 1.1-4
 baseline: 1.3-5
-basemaps: 0.0.7
+basemaps: 0.0.8
 basemodels: 1.1.0
 baseq: 0.1.4
 basetheme: 0.1.3
@@ -10179,7 +10182,7 @@ blm: 2022.0.0.1
 blme: 1.0-6
 blmeco: '1.4'
 blob: 1.2.4
-blockCV: 3.1-4
+blockCV: 3.1-5
 blockForest: 0.2.6
 blockRAR: 1.0.2
 blockTools: 0.6.5
@@ -11724,7 +11727,7 @@ cpa: 1.0.1
 cpca: 0.1.2
 cpcens: 0.1.0
 cpd: 0.3.3
-cpfa: 1.1-5
+cpfa: 1.1-6
 cpgen: '0.1'
 cpi: 0.1.4
 cpk: 1.3-1
@@ -11826,7 +11829,7 @@ crossmap: 0.4.0
 crossmatch: 1.4-0
 crossnma: 1.2.0
 crossrun: 0.1.1
-crosstable: 0.8.0
+crosstable: 0.8.1
 crosstalk: 1.2.1
 crosstalkr: 1.0.5
 crossurr: 1.1.1
@@ -13989,6 +13992,7 @@ fat2Lpoly: 1.2.5
 faux: 1.2.1
 fauxnaif: 0.7.1
 fauxpas: 0.5.2
+favawesome: 0.1.1
 faviconPlease: 0.1.3
 favir: 0.5-1
 favnums: 1.0.0
@@ -14823,7 +14827,7 @@ gdim: 0.1.0
 gdimap: 0.1-9
 gdistance: 1.6.4
 gdldata: '0.1'
-gdm: 1.6.0-2
+gdm: 1.6.0-3
 gdmp: 0.2.0
 gdns: 0.5.0
 gdor: 0.1-1
@@ -15296,7 +15300,7 @@ ggspectra: 0.3.13
 ggstance: 0.3.7
 ggstar: 1.0.4
 ggstats: 0.7.0
-ggstatsplot: 0.12.4
+ggstatsplot: 0.12.5
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
@@ -15366,7 +15370,7 @@ gitear: 1.0.0
 gitgadget: 0.8.1
 githubinstall: 0.2.2
 githubr: 0.9.1
-gitignore: 0.1.7
+gitignore: 0.1.8
 gitlabr: 2.1.0
 gitlink: 0.1.3
 gitr: 0.0.1
@@ -15518,6 +15522,7 @@ goat: '1.0'
 goeveg: 0.7.5
 gof: 1.0.1
 gofCopula: 0.4-1
+gofIG: '1.0'
 gofMC: 1.1.2
 gofar: '0.1'
 gofastr: 0.3.0
@@ -16462,7 +16467,7 @@ iccCounts: 1.1.2
 iccTraj: 1.0.4
 iccbeta: 1.2.0
 iccde: 0.3.6
-iccmult: 1.0.0
+iccmult: 1.0.1
 icd: 4.0.9
 icd.data: '1.0'
 icd9: 1.3.1
@@ -16559,7 +16564,7 @@ ihpdr: 1.2.1
 ihs: '1.0'
 iid.test: '1.13'
 iilasso: 0.0.2
-iimi: 1.1.1
+iimi: 1.2.1
 ijtiff: 2.3.4
 iki.dataclim: '1.0'
 ilabelled: 1.0.0
@@ -17427,7 +17432,7 @@ landmulti: 0.5.0
 landpred: '1.2'
 landsat: 1.1.2
 landsat8: 0.1-10
-landscapeR: '1.2'
+landscapeR: '1.3'
 landscapemetrics: 2.1.4
 landscapetools: 0.5.0
 landsepi: 1.5.1
@@ -17586,6 +17591,7 @@ leerSIECyL: 1.0.2
 lefko3: 6.3.1
 lefse: '0.1'
 legco: 0.1.4
+legendry: 0.1.0
 legion: 0.1.2
 legislatoR: 1.1.0
 legocolors: 0.4.0
@@ -18167,7 +18173,7 @@ mapdeck: 0.3.5
 mapedit: 0.6.0
 mapfit: 1.0.0
 mapfuser: 0.1.2
-mapgl: 0.1.3
+mapgl: 0.1.4
 mapi: 1.0.5
 mapindiatools: 1.0.1
 mapiso: 0.3.0
@@ -21615,6 +21621,7 @@ postlightmercury: '1.2'
 postlogic: 0.1.0.1
 postpack: 0.5.4
 potential: 0.2.0
+poth: 0.2-0
 potions: 0.2.0
 potools: 0.2.4
 potts: 0.5-11
@@ -21794,7 +21801,7 @@ prioriactions: 0.5.0
 prioritizr: 8.0.4
 prioritizrdata: 0.3.2
 prioritylasso: 0.3.1
-priorsense: 1.0.3
+priorsense: 1.0.4
 prism: 0.2.1
 prismadiagramR: 1.0.0
 prismatic: 1.1.2
@@ -22444,7 +22451,7 @@ rSPACE: 1.2.0
 rSPARCS: 0.1.1
 rSPDE: 2.3.3
 rSQM: 1.3.14
-rSRD: 0.1.7
+rSRD: 0.1.8
 rSpectral: 1.0.0.10
 rStrava: 1.3.2
 rSymPy: 0.2-1.2
@@ -22725,6 +22732,7 @@ rcmdcheck: 1.4.0
 rco: 1.0.2
 rcoder: 0.3.0
 rcol: 0.2.0
+rcollectadhd: '0.8'
 rcolors: 0.1.0
 rcompanion: 2.4.36
 rcompendium: '1.3'
@@ -24973,7 +24981,7 @@ slam: 0.1-54
 slanter: 0.2-0
 slap: 2024.4.1
 slasso: 1.0.0
-slca: 1.0.0
+slca: 1.2.0
 slcm: 0.1.0
 sld: 1.0.1
 sleekts: 1.0.2
@@ -25562,6 +25570,7 @@ srlTS: 0.1.1
 srlars: 1.0.1
 srm: 0.4-26
 srp: 1.2.0
+srppp: 1.0.1
 srt: 1.0.4
 srvyr: 1.3.0
 ss3sim: 1.0.3
@@ -26010,6 +26019,7 @@ surveyNG: '0.3'
 surveyPrev: 1.0.0
 surveybootstrap: 0.0.3
 surveydata: 0.2.7
+surveydown: 0.4.0
 surveyeditor: '1.0'
 surveyexplorer: 0.2.0
 surveygraph: 0.1.2
@@ -26699,7 +26709,7 @@ tinyspotifyr: 0.2.2
 tinytable: 0.5.0
 tinytest: 1.4.1
 tinytest2JUnit: 1.1.2
-tinytex: '0.53'
+tinytex: '0.54'
 tinythemes: 0.0.2
 tinytiger: 0.0.9
 tiobeindexr: 0.1.1
@@ -27002,7 +27012,7 @@ trotter: '0.6'
 trouBBlme4SolveR: 0.1.2
 trread: 0.2.7
 trtf: 0.4-2
-trtswitch: 0.1.0
+trtswitch: 0.1.1
 trud: 0.1.0
 truelies: 0.2.0
 trueskill: '0.1'
@@ -27973,7 +27983,7 @@ wv: 0.1.2
 wvioplot: '0.1'
 wvtool: '1.0'
 wwntests: 1.1.0
-wxgenR: 1.4.1
+wxgenR: 1.4.2
 wyz.code.metaTesting: 1.1.22
 wyz.code.offensiveProgramming: 1.1.24
 wyz.code.rdoc: 1.1.19
