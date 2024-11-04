@@ -1429,6 +1429,7 @@ CondMVT: 0.1.0
 CondReg: '0.20'
 CondiS: 0.1.2
 ConfIntVariance: 1.0.2
+ConfMatrix: 0.1.0
 ConfZIC: 1.0.1
 ConfidenceEllipse: 1.0.0
 ConfigParser: 1.0.0
@@ -1768,7 +1769,7 @@ DSAIDE: 0.9.6
 DSAIRM: 0.9.6
 DSAM: 1.0.2
 DSBayes: 2023.1.0
-DSI: 1.7.0
+DSI: 1.7.1
 DSL: 0.1-7
 DSLite: 1.4.0
 DSMolgenisArmadillo: 2.0.9
@@ -4230,7 +4231,7 @@ MEclustnet: 1.2.2
 MEtest: '1.1'
 MExPosition: 2.0.3
 MF: 4.3.2
-MF.beta4: 1.0.3
+MF.beta4: 1.1.0
 MFAg: '2.0'
 MFDA: 1.1-4
 MFDF: 0.0-2
@@ -4562,7 +4563,7 @@ MazamaCoreUtils: 0.5.2
 MazamaLocationUtils: 0.4.4
 MazamaRollUtils: 0.1.3
 MazamaSpatialPlots: 0.2.0
-MazamaSpatialUtils: 0.8.6
+MazamaSpatialUtils: 0.8.7
 MazamaTimeSeries: 0.3.0
 MazamaWebUtils: 0.1.7
 McParre: 1.0.1
@@ -4906,7 +4907,7 @@ NMFN: 2.0.1
 NMI: '2.0'
 NMMAPSlite: 0.3-4
 NMMIPW: 0.1.0
-NMOF: 2.10-0
+NMOF: 2.10-1
 NMRS: '1.0'
 NMRphasing: 1.0.5
 NMTox: 0.1.0
@@ -5016,7 +5017,7 @@ NetworkReg: '2.0'
 NetworkRiskMeasures: 0.1.4
 NetworkSim: 0.1.0
 NetworkToolbox: 1.4.2
-NeuralEstimators: 0.1.0
+NeuralEstimators: 0.1.1
 NeuralNetTools: 1.5.3
 NeuralSens: 1.1.3
 NeuroDecodeR: 0.2.0
@@ -5405,6 +5406,7 @@ PNWColors: 0.1.0
 PO.EN: '1.0'
 POCRE: 0.6.0
 POD: 1.2.0
+PODES: 0.1.0
 POET: '2.0'
 POFIBGE: 0.1.6
 POINT: '1.3'
@@ -6197,7 +6199,7 @@ RLT: 3.2.6
 RLastFM: 0.1-5
 RLeafAngle: '1.0'
 RLogicalOps: '0.1'
-RLoptimal: 1.0.1
+RLoptimal: 1.1.0
 RLumCarlo: 0.1.9
 RLumModel: 0.2.10
 RLumShiny: 0.2.3
@@ -11295,7 +11297,7 @@ colcor: '1.0'
 cold: 2.0-3
 colf: 0.1.3
 collUtils: 1.0.5
-collapse: 2.0.16
+collapse: 2.0.17
 collapsibleTree: 0.1.8
 collateral: 0.5.2
 collatz: 1.0.0
@@ -11787,7 +11789,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.10.0
+crew: 0.10.1
 crew.aws.batch: 0.0.6
 crew.cluster: 0.3.2
 crfsuite: 0.4.2
@@ -11802,7 +11804,7 @@ crispRdesignR: 1.1.7
 criticality: 0.9.3
 criticalpath: 0.2.1
 critpath: 0.2.2
-crm12Comb: 0.1.7
+crm12Comb: 0.1.8
 crmPack: 1.0.6
 crmReg: 1.0.2
 crminer: 0.4.0
@@ -12086,7 +12088,7 @@ daiR: 1.0.0
 dail: 1.5.2
 daiquiri: 1.1.1
 dalmatian: 1.0.0
-daltoolbox: 1.0.767
+daltoolbox: 1.0.787
 daltoolboxdp: 1.0.767
 dam: 0.0.1
 damAOI: '0.1'
@@ -13384,7 +13386,7 @@ english: 1.2-6
 engression: 0.1.4
 engsoccerdata: 0.1.5
 enigma: 0.3.0
-enmSdmX: 1.1.6
+enmSdmX: 1.1.9
 enmpa: 0.1.8
 ennet: 0.2.2
 enpls: '6.1'
@@ -14518,7 +14520,7 @@ frm: 1.2.2
 frmhet: 1.1.3
 frmpd: 1.1.0
 frmqa: 0.1-5
-fromo: 0.2.1
+fromo: 0.2.2
 frontier: 1.1-8
 frontiles: 1.3.1
 frost: 0.0.4
@@ -15157,7 +15159,7 @@ ggdist: 3.3.2
 ggdistribute: 1.0.3
 ggdmc: 0.2.6.0
 gge: '1.9'
-ggeasy: 0.1.4
+ggeasy: 0.1.5
 ggedit: 0.4.1
 ggeffects: 1.7.2
 ggenealogy: 1.0.3
@@ -15904,6 +15906,7 @@ handcodeR: 0.1.2
 handlr: 0.3.0
 handwriter: 3.2.1
 handwriterApp: 1.0.1
+handwriterRF: 1.0.2
 handyFunctions: 0.1.0
 handyplots: 1.1.3
 hans: '0.1'
@@ -16294,7 +16297,7 @@ hunspell: 3.0.5
 hurdlr: '0.1'
 hurricaneexposure: 0.1.1
 hutils: 1.8.1
-hutilscpp: 0.10.5
+hutilscpp: 0.10.6
 huxtable: 5.5.7
 hwde: 0.67-3
 hwep: 2.0.2
@@ -17372,7 +17375,7 @@ kuniezu: 0.1.3
 kutils: '1.73'
 kvh: 1.4.2
 kwb.hantush: 0.3.0
-kyotil: 2024.7-31
+kyotil: 2024.11-01
 kza: 4.1.0.1
 kzfs: 1.5.0.2
 kzft: '0.17'
@@ -20277,7 +20280,7 @@ ofpetrial: 0.1.1
 ofw: 1.0-0
 oglcnac: 0.1.2
 oglmx: 3.0.0.0
-ogrdbstats: 0.5.0
+ogrdbstats: 0.5.2
 ohenery: 0.1.2
 ohoegdm: 0.1.0
 ohsome: 0.2.2
@@ -22937,7 +22940,7 @@ refitME: 1.2.2
 reflectR: 2.1.3
 reflimR: 1.0.6
 refnr: 0.1.0
-reformulas: 0.3.0
+reformulas: 0.4.0
 refreg: 0.1.1
 refreshr: 0.1.0
 refseqR: 1.1.5
@@ -23487,8 +23490,8 @@ robflreg: '1.2'
 robin: 1.2.0
 robis: 2.11.3
 roblm: '0.6'
-robmed: 1.0.2
-robmedExtra: 0.1.0
+robmed: 1.1.0
+robmedExtra: 0.1.1
 robmixglm: 1.2-4
 robnptests: 1.1.0
 roboBayes: '1.2'
@@ -25353,7 +25356,7 @@ spatstat.model: 3.3-2
 spatstat.random: 3.3-2
 spatstat.sparse: 3.1-0
 spatstat.univar: 3.0-1
-spatstat.utils: 3.1-0
+spatstat.utils: 3.1-1
 spatsurv: 2.0-1
 spbabel: 0.6.0
 spbal: 1.0.0
@@ -25362,6 +25365,7 @@ spc4sts: 0.6.3
 spca: 0.6.0
 spcadjust: '1.1'
 spclust: '1.2'
+spconf: 1.0.1
 spcosa: 0.4-2
 spcov: '1.3'
 spcr: 2.1.1
