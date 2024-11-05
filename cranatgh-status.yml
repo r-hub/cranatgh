@@ -126,7 +126,7 @@ APCalign: 1.1.0
 APCanalysis: '1.0'
 APCtools: 1.0.4
 APFr: 1.0.2
-APIS: 2.0.7
+APIS: 2.0.8
 APML: 0.0.5
 APML0: '0.10'
 APPEstimation: 0.1.1
@@ -234,7 +234,7 @@ AdjBQR: '1.0'
 AdvBinomApps: '1.0'
 AdvDif4: 0.7.18
 AdvancedBasketballStats: 1.0.1
-AdverseEvents: 0.0.2
+AdverseEvents: 0.0.3
 AeRobiology: 2.0.1
 Aelasticnet: 2.13.1
 AeroSampleR: 0.2.0
@@ -727,7 +727,7 @@ Bclim: 3.1.2
 BeQut: 0.1.0
 BeSS: 2.0.4
 BeastJar: 1.10.6
-BeeBDC: 1.2.0
+BeeBDC: 1.2.1
 BeeGUTS: 1.3.0
 Benchmarking: '0.32'
 BenfordTests: 1.2.0
@@ -789,7 +789,7 @@ BioMedR: 1.2.1
 BioPET: 0.2.2
 BioPETsurv: 0.1.0
 BioPhysConnectoR: 1.6-10
-BioPred: 1.0.1
+BioPred: 1.0.2
 BioProbability: '1.0'
 BioRssay: 1.1.0
 BioStatR: 4.0.1
@@ -1092,7 +1092,7 @@ COP: 1.0-2
 COPASutils: 0.1.6
 COR: 0.0.1
 CORE: '3.2'
-CORElearn: 1.57.3
+CORElearn: 1.57.3.1
 CORM: 1.0.2
 CORREP: 1.18.0
 COSINE: '2.1'
@@ -1388,7 +1388,7 @@ CommunityCorrelogram: '1.0'
 Comp2ROC: 1.1.4
 CompAREdesign: 2.3.1
 CompDist: '1.0'
-CompExpDes: 1.0.4
+CompExpDes: 1.0.5
 CompGLM: '2.0'
 CompGR: 0.1.3
 CompLognormal: '3.0'
@@ -2092,7 +2092,7 @@ EHR: 0.4-11
 EHRtemporalVariability: 1.2.1
 EIAapi: 0.1.2
 EIAdata: 0.1.3
-EIEntropy: 0.0.1.2
+EIEntropy: 0.0.1.3
 EILA: 0.1-2
 EIX: 1.2.0
 EKMCMC: 1.1.2
@@ -2179,6 +2179,7 @@ ETAS: 0.6.1.1
 ETASbootstrap: 0.2.0
 ETC: '1.5'
 ETLUtils: '1.5'
+ETRep: 0.1.0
 EUfootball: 0.0.1
 EVER: '1.2'
 EVI: 0.2.0-0
@@ -3769,7 +3770,7 @@ KbMvtSkew: 1.0.2
 Kcop: 1.0.0
 KenSyn: '0.3'
 Kendall: 2.2.1
-Keng: 2024.10.16
+Keng: 2024.11.02
 KernSmooth: 2.23-24
 KernSmoothIRT: '6.4'
 KernelICA: 0.1.0
@@ -4934,6 +4935,7 @@ NPCD: 1.0-11
 NPCDTools: '1.0'
 NPCirc: 3.1.1
 NPCox: '1.3'
+NPFD: 1.0.0
 NPHMC: '2.3'
 NPHazardRate: '0.1'
 NPIstats: 0.1.0
@@ -4953,7 +4955,7 @@ NRAIA: 0.9-8
 NRejections: 1.2.0
 NSA: 0.0.32
 NSAE: 0.4.0
-NSM3: '1.18'
+NSM3: '1.19'
 NSO1212: 1.4.0
 NSR: 0.1.0
 NST: 3.1.10
@@ -5189,7 +5191,7 @@ OpenMindat: 1.0.0
 OpenMx: 2.21.13
 OpenRepGrid: 0.1.15
 OpenRepGrid.ic: 0.6.2
-OpenSpecy: 1.2.0
+OpenSpecy: 1.4.0
 OpenStreetMap: 0.4.0
 OpenTreeChronograms: 2022.1.28
 Opportunistic: '1.2'
@@ -6364,7 +6366,7 @@ RQGIS: 1.0.4
 RQdeltaCT: 1.3.0
 RQuantLib: 0.4.24
 RRBoost: '0.1'
-RRF: 1.9.4
+RRF: 1.9.4.1
 RRI: '1.1'
 RRMLRfMC: 0.4.0
 RRNA: '1.2'
@@ -7863,7 +7865,7 @@ StemAnalysis: 0.1.0
 StempCens: 1.1.0
 StepBeta: 2.1.0
 StepGWR: 0.1.0
-StepReg: 1.5.4
+StepReg: 1.5.5
 StepSignalMargiLike: 2.6.0
 SteppedPower: 0.3.5
 StepwiseTest: '1.0'
@@ -8637,7 +8639,7 @@ WeedMap: '0.1'
 WeibullFit: 0.1.0
 WeibullR: 1.2.1
 WeibullR.ALT: 0.7.2
-WeibullR.learnr: 0.1.3
+WeibullR.learnr: '0.2'
 WeibullR.plotly: 0.2.1
 WeibullR.shiny: 0.2.1
 WeightIt: 1.3.1
@@ -8647,7 +8649,7 @@ WeightedCluster: 1.8-0
 WeightedEnsemble: 0.1.0
 WeightedPortTest: '1.1'
 WeightedROC: 2020.1.31
-WeightedTreemaps: 0.1.2
+WeightedTreemaps: 0.1.3
 WgtEff: 0.1.2
 WhatIf: 1.5-10
 WhatsR: 1.0.4
@@ -9017,7 +9019,7 @@ agtboost: 0.9.3
 agua: 0.1.4
 agvgd: 0.1.2
 ahMLE: 1.20.1
-ahaz: '1.15'
+ahaz: 1.15.1
 ahnr: 0.3.1
 ahp: 0.2.12
 ahpsurvey: 0.4.1
@@ -9650,7 +9652,7 @@ barcode: 1.3.0
 bardr: 0.0.9
 bark: 1.0.5
 barplot3d: 1.0.1
-barrks: 1.0.0
+barrks: 1.0.1
 barsurf: 0.7.0
 bartBMA: '1.0'
 bartCause: 1.0-9
@@ -9729,7 +9731,7 @@ bayesPO: 0.5.0
 bayesPop: 10.0-1
 bayesQR: '2.4'
 bayesROE: '0.2'
-bayesRecon: 0.3.1
+bayesRecon: 0.3.2
 bayesSurv: '3.8'
 bayesTFR: 7.4-2
 bayesWatch: 0.1.3
@@ -10510,7 +10512,7 @@ c3net: 1.1.1.1
 cAIC4: '1.0'
 cIRT: 1.3.2
 cMonkey: 4.9.2
-cNORM: 3.3.1
+cNORM: 3.4.0
 cOde: 1.1.1
 cPCG: '1.0'
 cPseudoMaRg: 1.0.1
@@ -10864,7 +10866,7 @@ changeLOS: '2.1'
 changeRangeR: 1.1.0
 changeS: 1.0.1
 changedetection: 0.2.0
-changepoint: 2.2.4
+changepoint: '2.3'
 changepoint.geo: 1.0.2
 changepoint.influence: 1.0.2
 changepoint.mv: 1.0.2
@@ -12503,7 +12505,7 @@ dhReg: 0.1.1
 dhga: '0.1'
 dhglm: '2.0'
 dhh: 0.0.1
-dhis2r: 0.2.0
+dhis2r: 0.2.1
 dhlabR: 1.0.6
 dhsage: 0.1.0
 di: 1.1.4
@@ -12832,6 +12834,7 @@ dpcR: '0.5'
 dpcc: 1.0.0
 dpcid: '1.0'
 dpglasso: '1.0'
+dpkg: 0.6.0
 dplR: 1.7.7
 dplRCon: '1.0'
 dplbnDE: 0.1.3
@@ -13958,7 +13961,7 @@ fastcmh: 0.2.7
 fastcmprsk: 1.24.10
 fastcox: 1.1.3
 fastcpd: 0.14.3
-fastdid: 1.0.2
+fastdid: 1.0.3
 fastdigest: 0.6-4
 fasterElasticNet: 1.1.2
 fasteraster: 1.1.1
@@ -14240,7 +14243,7 @@ flametree: 0.1.3
 flamingos: 0.1.0
 flan: '1.0'
 flap: 0.2.0
-flare: 1.7.0.1
+flare: 1.7.0.2
 flars: '1.0'
 flashCard: 0.1.0
 flashClust: 1.01-2
@@ -14836,7 +14839,7 @@ gdor: 0.1-1
 gdpc: 1.1.4
 gds: 0.1.1
 gdsfmt: 1.1.0.1
-gdtools: 0.4.0
+gdtools: 0.4.1
 gdverse: 1.1-1
 gdxdt: 0.1.0
 gear: 0.3.4
@@ -15691,7 +15694,7 @@ greenfeedr: 1.0.1
 gregRy: 0.1.0
 gregmisc: 2.1.5
 gremes: 0.1.1
-gremlin: 1.0.1
+gremlin: 1.1.0
 gren: 0.0.1
 greport: 0.7-4
 greta: 0.4.5
@@ -16279,7 +16282,7 @@ httptest: 4.2.2
 httptest2: 1.1.0
 httpuv: 1.6.15
 httr: 1.4.7
-httr2: 1.0.5
+httr2: 1.0.6
 hubEnsembles: 0.1.9
 hubUtils: 0.1.7
 hubeau: 0.5.0
@@ -16321,10 +16324,10 @@ hydraulics: 0.7.0
 hydroApps: 0.1-1
 hydroDCindex: 1.0.0
 hydroEvents: '0.11'
-hydroGOF: 0.6-0
+hydroGOF: 0.6-0.1
 hydroMOPSO: 0.1-3
 hydroPSO: 0.5-1
-hydroTSM: 0.7-0
+hydroTSM: 0.7-0.1
 hydroToolkit: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.10.0
@@ -16848,6 +16851,7 @@ iotools: 0.3-5
 ip2location: 8.1.3
 ip2locationio: 1.0.0
 ip2proxy: 1.2.0
+ip2whois: 1.0.0
 ipADMIXTURE: 0.1.0
 ipa: 0.1.0
 ipaddress: 1.0.2
@@ -18384,6 +18388,7 @@ mclust02: 2.1-18
 mclust1998: 1.1-10
 mclustAddons: '0.9'
 mclustcomp: 0.3.3
+mcmapper: 0.0.11
 mcmc: 0.9-8
 mcmcOutput: 0.1.3
 mcmcabn: '0.6'
@@ -19580,7 +19585,7 @@ mvst: 1.1.1
 mvtBinaryEP: 1.0.1
 mvtboost: 0.5.0
 mvtmeta: '1.1'
-mvtnorm: 1.3-1
+mvtnorm: 1.3-2
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-5
 mwTensor: 1.1.0
@@ -21286,6 +21291,7 @@ pixelpuzzle: 1.0.1
 pixels: 0.1.1
 pixiedust: 0.9.4
 pixmap: 0.4-13
+pk.unit.trans: 0.1.0
 pk4adi: 0.1.3.2
 pkDACLASS: '1.0'
 pkdata: 0.1.0
@@ -21450,7 +21456,7 @@ pmev: 0.1.2
 pmfdR: '1.0'
 pmg: 0.9-43
 pmhtutorial: '1.5'
-pmlbr: 0.2.1
+pmlbr: 0.2.2
 pmledecon: 0.2.1
 pmlr: '1.0'
 pmml: 2.5.2
@@ -21479,7 +21485,7 @@ podr: 0.0.5
 poems: 1.3.1
 pogit: 1.3.0
 poibin: '1.6'
-poilog: 0.4.2
+poilog: 0.4.2.1
 pointRes: 2.0.2
 pointblank: 0.12.2
 pointdensityP: 0.3.5
@@ -22141,7 +22147,7 @@ qmd: 1.1.2
 qmethod: 1.8.4
 qmix: 0.1.2.0
 qmrparser: 0.1.6
-qmvs: 0.2.0
+qmvs: 0.2.2
 qoi: 0.1.0
 qoma.smuggler: 0.0.1
 qp: 0.3-2
@@ -22349,7 +22355,7 @@ rBDAT: 1.0.0
 rBMF: '1.1'
 rBahadur: 1.0.0
 rBayesianOptimization: 1.2.1
-rBeta2009: '1.0'
+rBeta2009: 1.0.1
 rBiasCorrection: 0.3.4
 rCAT: 0.1.6
 rCBA: 0.4.3
@@ -22913,7 +22919,7 @@ recurse: 1.4.0
 red: 1.6.1
 redR: 1.0.1
 reda: 0.5.4
-redatam: 2.0.0
+redatam: 2.0.2
 redatamx: 1.0.0
 redbookperu: 0.0.3
 redcapAPI: 2.10.0
@@ -23403,7 +23409,7 @@ rmapshaper: 0.5.0
 rmapzen: 0.5.1
 rmarchingcubes: 0.1.3
 rmargint: 2.0.3
-rmarkdown: '2.28'
+rmarkdown: '2.29'
 rmass2: 0.0.0.2
 rmatio: 0.19.0
 rmcfs: 1.3.6
@@ -23468,6 +23474,7 @@ rngwell19937: 0.6-0
 rnmamod: 0.4.0
 rnn: 1.9.0
 rnndescent: 0.1.6
+rnnmf: 0.3.0
 rnoaa: 1.4.0
 rnpn: 1.2.9.0
 rnr: 0.2.1
@@ -24040,7 +24047,7 @@ safi: '1.0'
 sageR: 0.6.1
 sahpm: 1.0.1
 sail: 0.1.0
-salad: '1.0'
+salad: '1.1'
 salbm: '1.0'
 salem: 0.2.0
 salesforcer: 1.0.1
@@ -24345,7 +24352,7 @@ seasonalityPlot: 1.3.1
 seasonalview: 1.0.0
 seastests: 0.15.4
 seawaveQ: 2.0.2
-secr: 5.0.0
+secr: 5.1.0
 secrdesign: 2.9.2
 secret: 1.1.0
 secretbase: 1.0.3
@@ -24760,6 +24767,7 @@ siatclust: 1.0.5
 sicegar: 0.2.4
 siconfir: 2.0.3
 siconvr: 0.0.1
+sicure: 0.1.0
 sideChannelAttack: 1.0-6
 sidier: 4.1.0
 sidrar: 0.2.9
@@ -24829,7 +24837,7 @@ simcausal: 0.5.7
 simcdm: 0.1.2
 simco: '1.01'
 simcross: '0.6'
-simctest: '2.6'
+simctest: 2.6.1
 simdata: 0.4.0
 simdd: 1.1-2
 simdistr: 1.0.1
@@ -27686,7 +27694,7 @@ wahc: '1.0'
 waiter: 0.2.5
 wakefield: 0.3.6
 wal: 0.1.1
-waldo: 0.5.3
+waldo: 0.6.0
 waldwolf: '0.1'
 walkalytics: 0.1.0
 walkboutr: 0.6.0
@@ -27719,7 +27727,7 @@ waterquality: 1.0.0
 watson: '0.4'
 wav: 0.1.0
 wavScalogram: 1.1.3
-waveband: 4.7.3
+waveband: 4.7.4
 waveclock: 1.0-4
 waved: '1.3'
 waveformlidar: 1.2.0
@@ -27734,7 +27742,7 @@ wayback: 0.2.4
 waydown: 1.1.0
 waywiser: 0.6.0
 wbacon: 0.6-2
-wbs: '1.4'
+wbs: 1.4.1
 wbsd: 1.0.0
 wbstats: 1.0.4
 wbsts: '2.1'
