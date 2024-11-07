@@ -9,6 +9,7 @@ ABCp2: '1.2'
 ABHgenotypeR: 1.0.1
 ABM: 0.4.1
 ABPS: '0.3'
+ABRSQOL: 1.0.0
 ABSurvTDC: 0.1.0
 ACA: '1.1'
 ACCLMA: '1.0'
@@ -5138,7 +5139,7 @@ OVL.CI: 0.1.0
 OVtool: 1.0.3
 OWEA: 0.1.2
 Oarray: 1.4-9
-OasisR: 3.1.0
+OasisR: 3.1.1
 Observation: 0.3.0
 OceanView: 1.0.7
 OddsPlotty: 1.0.2
@@ -5362,6 +5363,7 @@ PINMA: 1.1-2
 PINSPlus: 2.0.7
 PINstimation: 0.1.2
 PIPS: 1.0.1
+PJFM: 0.1.0
 PK: 1.3-6
 PKI: 0.1-14
 PKLMtest: 1.0.1
@@ -5761,7 +5763,7 @@ ProSportsDraftData: 1.0.3
 ProTrackR: 0.4.3
 ProTrackR2: 0.0.4
 ProbBayes: '1.1'
-ProbBreed: 1.0.4.2
+ProbBreed: 1.0.4.3
 ProbForecastGOP: 1.3.2
 ProbMarg: 1.0.1
 ProbReco: 0.1.2
@@ -6013,7 +6015,7 @@ RCGLS: 1.0.3
 RCLabels: 0.1.10
 RCMIP5: 1.2.0
 RCMinification: '1.2'
-RCPA: 0.2.3
+RCPA: 0.2.5
 RCPA3: 1.2.1
 RCPmod: '2.192'
 RCRnorm: 0.0.2
@@ -6066,7 +6068,7 @@ RECA: '1.7'
 RECSO: '1.0'
 REDCapCAST: 24.10.3
 REDCapDM: 0.9.9
-REDCapExporter: 0.3.0
+REDCapExporter: 0.3.1
 REDCapR: 1.3.0
 REDCapTidieR: 1.2.0
 REDI: 1.0.0
@@ -6954,7 +6956,7 @@ RobRSVD: '1.0'
 RobRegression: 0.1.0
 RobRex: 1.2.0
 RobStatTM: 1.0.11
-RobinCar: 0.3.0
+RobinCar: 0.3.1
 RobinHood: 1.7.0
 Robocoap: 0.1-1
 RobustAFT: 1.4-7
@@ -6993,7 +6995,7 @@ Rphylip: 0.1-23
 Rphylopars: 0.3.10
 Rpipedrive: 0.1.1
 Rpoet: 1.1.0
-Rpolyhedra: 0.5.5
+Rpolyhedra: 0.5.6
 Rpoppler: 0.1-3
 RprobitB: 1.1.4
 Rprofet: 3.1.1
@@ -8640,7 +8642,7 @@ WeibullFit: 0.1.0
 WeibullR: 1.2.1
 WeibullR.ALT: 0.7.2
 WeibullR.learnr: '0.2'
-WeibullR.plotly: 0.2.1
+WeibullR.plotly: '0.3'
 WeibullR.shiny: 0.2.1
 WeightIt: 1.3.2
 WeightSVM: 1.7-16
@@ -8707,7 +8709,7 @@ XReg: '1.0'
 Xcertainty: 1.0.1
 XiMpLe: 0.11-3
 Xmisc: 0.2.1
-Xplortext: 1.5.3
+Xplortext: 1.5.4
 YPBP: 0.0.1
 YPInterimTesting: 1.0.3
 YPPE: 1.0.1
@@ -8765,7 +8767,7 @@ aPEAR: 1.0.0
 aRbs: 0.1.3
 aRchi: 2.1.3
 aRpsDCA: 1.1.1
-aRtsy: 0.2.4
+aRtsy: 1.0.0
 aRxiv: '0.10'
 aSPC: 0.1.2
 aSPU: '1.50'
@@ -8968,6 +8970,7 @@ aelab: 0.4.0
 aemo: 0.3.0
 afCEC: 1.0.2
 afc: 1.4.0
+afcharts: 0.4.0
 afcolours: 1.0.0
 afdx: 1.1.1
 afex: 1.4-1
@@ -9090,7 +9093,7 @@ allelematch: 2.5.4
 allelic: '0.1'
 allestimates: 0.2.3
 allhomes: 0.3.0
-allofus: 1.1.0
+allofus: 1.2.0
 allometric: 2.3.0
 allomr: 0.3.0
 alluvial: 0.1-2
@@ -9221,7 +9224,7 @@ anyflights: 0.3.4
 anytime: 0.3.9
 ao: 1.1.0
 aod: 1.3.3
-aods3: 0.4-1.2
+aods3: '0.5'
 aof: 0.1.2
 aoos: 0.5.0
 aop: 1.0.0
@@ -9585,7 +9588,7 @@ baRulho: 2.1.2
 babar: '1.0'
 babel: 0.3-0
 babelgene: '22.9'
-babelmixr2: 0.1.4
+babelmixr2: 0.1.5
 babelwhale: 1.2.0
 babette: 2.3.4
 babsim.hospital: 11.8.8
@@ -10586,7 +10589,7 @@ cancerTiming: 3.1.8
 cancerscreening: 1.1.1
 candisc: 0.9.0
 canprot: 2.0.0
-cansim: 0.3.16
+cansim: 0.3.17
 canvas: 0.2-0
 canvasXpress: 1.50.5
 canvasXpress.data: 1.34.2
@@ -10613,7 +10616,7 @@ carbonate: 0.1.4
 carbondate: 1.0.1
 carbonr: 0.2.1
 carcass: '1.7'
-card: 0.1.0
+card: 0.1.1
 card.pro: 2.2.0
 cardidates: 0.4.9
 cardinalR: 0.1.1
@@ -12701,6 +12704,7 @@ divagis: 1.0.0
 diveMove: 1.6.4
 diveR: 0.1.2
 diveRsity: 1.9.90
+divent: 0.4-4
 diverge: 2.0.6
 diverse: 0.1.5
 diversitree: 0.10-1
@@ -13418,7 +13422,7 @@ envDocument: 2.4.1
 envalysis: 0.7.0
 envelope: '1.0'
 enveomics.R: 1.9.1
-envi: 0.1.19
+envi: 1.0.0
 enviGCMS: 0.7.1
 enviPat: '2.6'
 enviPick: '1.5'
@@ -13531,7 +13535,7 @@ ercv: 1.0.1
 erer: '4.0'
 erfe: 0.0.1
 ergMargins: '1.3'
-ergm: 4.7.1
+ergm: 4.7.5
 ergm.count: 4.1.2
 ergm.ego: 1.1.0
 ergm.graphlets: 1.0.3
@@ -13691,6 +13695,7 @@ exampletestr: 1.7.3
 exams: 2.4-1
 exams.forge: 1.0.10
 exams.mylearn: '1.4'
+exams2forms: 0.1-0
 exams2learnr: 0.1-0
 exams2sakai: '0.4'
 exceedProb: 0.0.1
@@ -14330,7 +14335,7 @@ fmdates: 0.1.4
 fmdu: 0.1.1
 fmeffects: 0.1.4
 fmerPack: 0.0-1
-fmesher: 0.1.7
+fmesher: 0.2.0
 fmf: 1.1.1
 fmlogcondens: 1.0.2
 fmpcloudr: 0.1.5
@@ -15599,6 +15604,7 @@ gpairs: 1.3.3
 gpbStat: 0.4.4
 gpboost: 1.5.1.2
 gpclib: 1.5-6
+gpcp: 0.1.0
 gpg: 1.3.0
 gphmm: 0.99.0
 gpindex: 0.6.2
@@ -16055,6 +16061,7 @@ hero: '0.6'
 hesim: 0.5.5
 het.test: '0.1'
 hetGP: 1.1.7
+heterocop: 0.1.0.0
 heterogen: 1.2.33
 heterometa: '0.3'
 heteromixgm: 2.0.2
@@ -16652,7 +16659,7 @@ imputeTestbench: 3.0.3
 imputeYn: '1.3'
 imsig: 1.1.3
 imt: 1.0.0
-imuf: 0.2.1
+imuf: 0.3.0
 in2extRemes: 1.0-3
 inTextSummaryTable: 3.3.3
 inTrees: '1.4'
@@ -16987,6 +16994,7 @@ itscalledsoccer: 0.3.0
 itsdm: 0.2.1
 itsmr: '1.10'
 itunesr: 0.1.3
+iucnr: 0.0.0.1
 iv: 0.1.2
 ivDiag: 1.0.6
 iva: 0.1.0
@@ -17637,7 +17645,7 @@ lexiconPT: 0.1.0
 lfactors: 1.0.4
 lfc: 0.2.3
 lfda: 1.1.3
-lfe: 3.0-0
+lfe: 3.1.0
 lfl: 2.2.1
 lfmm: '1.1'
 lfproQC: 1.4.0
@@ -17661,7 +17669,7 @@ libbib: 1.6.4
 libcoin: 1.0-10
 libgeos: 3.11.1-2
 libproj: 8.1.0-1
-libr: 1.3.4
+libr: 1.3.7
 librarian: 1.8.1
 librarysnapshot: 0.1.2
 libsoc: 0.7.3
@@ -17765,7 +17773,7 @@ listviewer: 4.0.0
 lit: 1.0.0
 litRiddle: 1.0.0
 lite: 1.1.1
-litedown: '0.3'
+litedown: '0.4'
 liteq: 1.1.0
 literanger: 0.1.1
 litteR: 1.0.0
@@ -18751,7 +18759,7 @@ miesmuschel: 0.0.4-2
 mifa: 0.2.0
 mig: '1.0'
 migest: 2.0.4
-migraph: 1.4.2
+migraph: 1.4.3
 migrate: 0.5.0
 migration.indices: 0.3.1
 migrbc: 2.0.9
@@ -18799,7 +18807,7 @@ minimaxdesign: 0.1.5
 minimist: '0.1'
 minioclient: 0.0.6
 miniparquet: 0.1.2
-minired: 1.0.0
+minired: 1.0.1
 minpack.lm: 1.2-4
 minqa: 1.2.8
 minque: 2.0.0
@@ -18970,7 +18978,7 @@ mlr3: 0.21.1
 mlr3batchmark: 0.1.1
 mlr3benchmark: 0.1.6
 mlr3cluster: 0.1.10
-mlr3data: 0.7.0
+mlr3data: 0.8.0
 mlr3db: 0.5.2
 mlr3fairness: 0.3.2
 mlr3fda: 0.2.0
@@ -19483,7 +19491,7 @@ multipleDL: 1.0.0
 multipleNCC: 1.2-4
 multipleOutcomes: '0.4'
 multiplestressR: 0.1.1
-multiplex: '3.7'
+multiplex: 3.8-3
 multiplyr: 0.1.1
 multipol: 1.0-9
 multirich: 2.1.3
@@ -20159,6 +20167,7 @@ nsrr: 0.2.0
 nswgeo: 0.4.0
 nsyllable: 1.0.1
 ntdr: 0.4.0
+ntfy: 0.0.6
 ntranova: 0.0.1
 ntsDatasets: 0.2.0
 ntsDists: 2.1.1
@@ -20308,7 +20317,7 @@ ollamar: 1.2.1
 ollg: 1.0.0
 ollggamma: 1.0.2
 olr: '1.1'
-olsrr: 0.6.0
+olsrr: 0.6.1
 omd: '1.0'
 omics: 0.1-5
 omicsTools: 1.0.5
@@ -20888,7 +20897,7 @@ pbANOVA: 0.1.0
 pbapply: 1.7-2
 pbatR: 2.2-17
 pbbd: 1.0.0
-pbcc: 0.0.5
+pbcc: 0.0.7
 pbdBASE: 0.5-3
 pbdDEMO: 0.3-1
 pbdDMAT: 0.5-1
@@ -20950,7 +20959,7 @@ pcts: 0.15.7
 pcurve: 0.6-4
 pcutils: 0.2.6
 pcv: 1.1.0
-pcvr: 1.0.0
+pcvr: 1.1.1.0
 pdR: 1.9.3
 pdSpecEst: 1.2.4
 pda: 1.2.7
@@ -21367,7 +21376,7 @@ plfm: 2.2.6
 plgp: 1.1-12
 plgraphics: '1.2'
 pliable: 1.1.1
-pliman: 2.1.0
+pliman: 3.0.0
 plink: 1.5-1
 plinkFile: 0.2.1
 plinkQC: 0.3.4
@@ -21811,8 +21820,8 @@ prinsimp: 0.8-8
 printr: '0.3'
 prinvars: 1.0.0
 prioGene: 1.0.1
-prior3D: 0.1.1
-priorCON: 0.1.1
+prior3D: 0.1.2
+priorCON: 0.1.2
 prioriactions: 0.5.0
 prioritizr: 8.0.4
 prioritizrdata: 0.3.2
@@ -21963,7 +21972,7 @@ pseval: 1.3.1
 psfmi: 1.4.0
 psgp: 0.3-21
 psica: 1.0.2
-psidR: '2.2'
+psidR: '2.3'
 psidread: 1.0.3
 psm3mkv: 0.3.2
 psmineR: 0.1.0
@@ -22284,7 +22293,7 @@ quickPlot: 1.0.2
 quickReg: 1.5.0
 quickblock: 0.2.2
 quickcheck: 0.1.3
-quickcode: 1.0.1
+quickcode: 1.0.2
 quickerstats: 0.0.1
 quickmapr: 0.3.0
 quickmatch: 0.2.3
@@ -22633,7 +22642,7 @@ rasterKernelEstimates: 1.0.2
 rasterList: 0.5.20
 rasterVis: 0.51.6
 rasterbc: 1.0.2
-rasterdiv: 0.3.5
+rasterdiv: 0.3.6
 rasterize: '0.1'
 rasterly: 0.2.0
 rasterpdf: 0.1.1
@@ -22650,6 +22659,7 @@ ratetables: 1.0-2
 ratioOfQsprays: 1.1.0
 rationalfun: 0.1-1
 ratios: 1.2.0
+ratlas: 0.1.0
 rattle: 5.5.1
 rattle.data: 1.0.2
 raustats: 0.15.0
@@ -22676,6 +22686,7 @@ rbacon: 3.3.1
 rbamtools: 2.16.17
 rbart: '1.0'
 rbbnp: 0.1.0
+rbc: 0.1.0
 rbcb: 0.1.14
 rbcc: 0.1.3
 rbch: 0.1-2
@@ -23855,6 +23866,7 @@ rtide: 0.0.10
 rties: 5.0.0
 rtiff: 1.4.8
 rtika: 2.7.0
+rtiktoken: 0.0.6
 rtimes: 0.5.0
 rtimicropem: 1.4.0
 rtip: 1.1.1
@@ -23908,7 +23920,7 @@ runner: 0.4.4
 runonce: 0.2.3
 runstats: 1.1.0
 rusda: 1.0.8
-rush: 0.1.1
+rush: 0.1.2
 rusk: 0.1.1
 rusquant: 1.1.4
 rust: 1.4.3
@@ -24057,7 +24069,7 @@ sail: 0.1.0
 salad: '1.1'
 salbm: '1.0'
 salem: 0.2.0
-salesforcer: 1.0.1
+salesforcer: 1.0.2
 salso: 0.3.42
 salty: 0.1.1
 samadb: 0.3.0
@@ -25501,7 +25513,7 @@ splutil: 2022.6.20
 spm: 1.2.2
 spm12r: 2.8.3
 spm2: 1.1.3
-spmodel: 0.8.0
+spmodel: 0.9.0
 spmoran: 0.3.1
 spnaf: 1.1.0
 spnet: 0.9.1-0
@@ -25658,7 +25670,7 @@ stablespec: 0.3.0
 stabm: 1.2.2
 stabreg: 0.1.2
 stabs: 0.6-4
-staccuracy: 0.1.0
+staccuracy: 0.2.0
 stackgbm: 0.1.0
 stacking: 0.1.3
 stackoverflow: 0.7.0
@@ -25905,7 +25917,7 @@ structSSI: 1.1.1
 structree: 1.1.7
 strum: 0.6.2
 strvalidator: 2.4.1
-sts: '1.0'
+sts: '1.1'
 stsm: '1.9'
 stsm.class: '1.3'
 stuart: 0.10.2
@@ -28141,7 +28153,7 @@ yhat: 2.0-4
 yhatr: 0.15.1
 ykmeans: '1.0'
 yll: 1.0.0
-ymd: 0.1.2
+ymd: 0.1.3
 ymlthis: 0.1.7
 ympes: 1.6.0
 yodel: 1.0.0
