@@ -265,7 +265,7 @@ AlphaPart: 0.9.8
 AlphaSimR: 1.6.1
 AlphaVantageClient: 0.0.1
 AlteredPQR: 0.1.0
-Amelia: 1.8.2
+Amelia: 1.8.3
 AmericanCallOpt: '0.95'
 AmesHousing: 0.0.4
 AmigaFFH: 0.4.5
@@ -946,7 +946,7 @@ CCA: 1.2.2
 CCAGFA: 1.0.8
 CCAMLRGIS: 4.2.0
 CCM: '1.2'
-CCMMR: '0.2'
+CCMMR: 0.2.1
 CCMnet: 0.0-3
 CCMtools: '1.0'
 CCP: '1.2'
@@ -1129,7 +1129,7 @@ CREDS: 0.1.0
 CRF: 0.4-3
 CRFCSD: '3.1'
 CRM: 1.2.4
-CRMetrics: 0.3.0
+CRMetrics: 0.3.2
 CRPClustering: '1.2'
 CRTConjoint: 0.1.0
 CRTSize: '1.2'
@@ -1175,7 +1175,7 @@ CVR: 0.1.1
 CVST: 0.2-3
 CVThresh: 1.1.2
 CVTuningCov: '1.0'
-CVXR: 1.0-14
+CVXR: 1.0-15
 CVarE: '1.1'
 CVcalibration: 1.0-1
 CVglasso: '1.0'
@@ -2782,7 +2782,7 @@ GFisher: 0.2.0
 GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
-GGIR: 3.1-4
+GGIR: 3.1-5
 GGIRread: 1.0.2
 GGMM: 1.0.1
 GGMncv: 2.1.1
@@ -4614,7 +4614,7 @@ MetaIntegration: 0.1.2
 MetaIntegrator: 2.1.3
 MetaLandSim: 2.0.0
 MetaLonDA: 1.1.8
-MetaNLP: 0.1.2
+MetaNLP: 0.1.3
 MetaNet: 0.1.2
 MetaPCA: 0.1.4
 MetaPath: '1.0'
@@ -5814,7 +5814,7 @@ PwrGSD: 2.3.8
 PxWebApiData: 1.0.0
 PythonInR: 0.1-12
 PytrendsLongitudinalR: 0.1.4
-Q2q: 0.1.0
+Q2q: 0.1.1
 Q7: 0.1.0
 QAIG: 0.1.7
 QBAsyDist: 0.1.2
@@ -6179,7 +6179,7 @@ RInside: 0.2.18
 RItools: 0.3-4
 RJDBC: 0.2-10
 RJDemetra: 0.2.7
-RJSDMX: 3.4-0
+RJSDMX: 3.5-0
 RJSONIO: 1.3-1.9
 RJSONLD: 1.0.3
 RJSplot: '2.7'
@@ -6932,7 +6932,7 @@ Rnanoflann: 0.0.3
 RnavGraph: 0.1.8
 RnavGraphImageData: 0.0.4
 RndTexExams: '1.5'
-Rnest: 0.0.0.1
+Rnest: 0.0.0.2
 Rnets: 1.2.1
 Rnightlights: 0.2.4
 Rnightly: 0.1.0
@@ -6956,7 +6956,7 @@ RobRSVD: '1.0'
 RobRegression: 0.1.0
 RobRex: 1.2.0
 RobStatTM: 1.0.11
-RobinCar: 0.3.1
+RobinCar: 0.3.2
 RobinHood: 1.7.0
 Robocoap: 0.1-1
 RobustAFT: 1.4-7
@@ -7075,7 +7075,7 @@ Ryacas: 1.1.5
 Ryacas0: 0.4.4
 Rz: 0.9-1
 S2sls: '0.1'
-S7: 0.1.1
+S7: 0.2.0
 SACCR: '3.2'
 SACOBRA: '1.2'
 SADEG: 1.0.0
@@ -7101,7 +7101,7 @@ SAMTx: 0.3.0
 SAMUR: '1.1'
 SAMURAI: 1.2.1
 SAMprior: 1.1.1
-SAMtool: 1.7.0
+SAMtool: 1.8.0
 SANple: 0.1.1
 SANvi: 0.1.1
 SAP: '1.0'
@@ -7354,7 +7354,7 @@ SPA3G: '1.0'
 SPACECAP: 1.1.0
 SPADAR: '1.0'
 SPARQL: '1.16'
-SPARRAfairness: 0.0.0.1
+SPARRAfairness: 0.0.0.2
 SPARSEMODr: 1.2.0
 SPARTAAS: 1.2.4
 SPAS: 2024.1.31
@@ -8585,6 +8585,7 @@ WLasso: '1.0'
 WLinfer: 1.2.0
 WLogit: '2.1'
 WLreg: 1.0.0.1
+WMAP: 1.0.0
 WMBrukerParser: '1.2'
 WMCapacity: 0.9.6.7
 WMDB: '1.0'
@@ -9341,7 +9342,7 @@ ariExtra: 0.3.1
 aricode: 1.0.3
 arima2: 3.3.0
 arkdb: 0.0.18
-arkhe: 1.7.0
+arkhe: 1.8.0
 arlclustering: 1.0.5
 arm: 1.14-4
 armada: 0.1.0
@@ -9795,7 +9796,7 @@ bbmix: 1.0.0
 bbmle: 1.0.25.1
 bbnet: 1.0.1
 bbo: '0.2'
-bbotk: 1.2.0
+bbotk: 1.3.0
 bbreg: 2.0.2
 bbricks: 0.1.4
 bbsBayes: 2.5.3
@@ -10880,7 +10881,7 @@ changepointsHD: 0.3.3
 changepointsVar: 0.1.1
 changer: 0.0.5
 chantrics: 1.0.0
-charcuterie: 0.0.4
+charcuterie: 0.0.6
 charlatan: 0.6.1
 charlesschwabapi: 1.0.3
 charlson: '1.0'
@@ -11874,7 +11875,7 @@ crwbmetareg: '1.0'
 cry: 0.5.1
 crypto: 1.1.3
 crypto2: 2.0.3
-cryptoQuotes: 1.3.1
+cryptoQuotes: 1.3.2
 cryptoTax: 0.0.5
 cryptography: 1.0.0
 cryptorng: 0.1.4
@@ -12578,7 +12579,7 @@ diffval: 1.1.0
 diffviewer: 0.1.2
 digeR: '1.3'
 digest: 0.6.37
-digiRhythm: '2.2'
+digiRhythm: '2.3'
 digitTests: 0.1.2
 digitalDLSorteR: 1.1.0
 digitalPCR: 1.1.0
@@ -13537,7 +13538,7 @@ erfe: 0.0.1
 ergMargins: '1.3'
 ergm: 4.7.5
 ergm.count: 4.1.2
-ergm.ego: 1.1.0
+ergm.ego: 1.1.1
 ergm.graphlets: 1.0.3
 ergm.multi: 0.2.1.1
 ergm.rank: 4.1.1
@@ -14461,7 +14462,7 @@ fptdApprox: '2.5'
 fqacalc: 1.1.0
 fqadata: 1.1.0
 fqar: 0.5.4
-fr: 0.5.1
+fr: 0.5.2
 frab: 0.0-6
 fracdiff: 1.5-3
 fracdist: 0.1.1
@@ -14530,7 +14531,7 @@ frm: 1.2.2
 frmhet: 1.1.3
 frmpd: 1.1.0
 frmqa: 0.1-5
-fromo: 0.2.2
+fromo: 0.2.3
 frontier: 1.1-8
 frontiles: 1.3.1
 frost: 0.0.4
@@ -14666,7 +14667,7 @@ gDefrag: '0.3'
 gFormulaMI: 1.0.0
 gIPFrm: '3.1'
 gJLS2: 0.2.0
-gKRLS: 1.0.3
+gKRLS: 1.0.4
 gLRTH: 0.2.0
 gMCP: 0.8-17
 gMCPLite: 0.1.5
@@ -14847,7 +14848,7 @@ gdpc: 1.1.4
 gds: 0.1.1
 gdsfmt: 1.1.0.1
 gdtools: 0.4.1
-gdverse: 1.1-1
+gdverse: '1.2'
 gdxdt: 0.1.0
 gear: 0.3.4
 gearman: 0.1-5
@@ -15664,7 +15665,7 @@ graphclust: '1.3'
 grapherator: 1.0.0
 graphframes: 0.1.2
 graphhopper: 0.1.2
-graphicalEvidence: '1.0'
+graphicalEvidence: '1.1'
 graphicalExtremes: 0.3.2
 graphicalMCP: 0.2.5
 graphicalVAR: 0.3.4
@@ -16093,7 +16094,7 @@ hglm.data: 1.0-1
 hgm: '1.23'
 hgnc: 0.1.4
 hgutils: 0.2.11
-hgwrr: 0.5-0
+hgwrr: 0.6-0
 hhcartr: 1.0.0
 hhh4contacts: 0.13.4
 hhi: 1.2.0
@@ -17043,7 +17044,7 @@ jadeLizardOptions: 1.0.1
 jage: 0.1.0
 jaggR: 0.1.1
 jagsUI: 1.6.2
-jagshelper: 0.4.0
+jagshelper: 0.4.1
 jagstargets: 1.2.1
 jalcal: 0.1.0
 james.analysis: 1.0.1
@@ -18434,7 +18435,7 @@ mcwr: 1.0.0
 md: 1.0.4
 md.log: 0.2.0
 md4r: 0.5.2.0
-mda: 0.5-4
+mda: 0.5-5
 mdapack: 0.0.2
 mdatools: 0.14.2
 mdbr: 0.2.1
@@ -18978,12 +18979,12 @@ mlr3: 0.21.1
 mlr3batchmark: 0.1.1
 mlr3benchmark: 0.1.6
 mlr3cluster: 0.1.10
-mlr3data: 0.8.0
+mlr3data: 0.9.0
 mlr3db: 0.5.2
 mlr3fairness: 0.3.2
 mlr3fda: 0.2.0
 mlr3filters: 0.8.0
-mlr3fselect: 1.2.0
+mlr3fselect: 1.2.1
 mlr3hyperband: 0.6.0
 mlr3learners: 0.8.0
 mlr3mbo: 0.2.6
@@ -19002,7 +19003,7 @@ mlr3torch: 0.1.2
 mlr3tuning: 1.1.0
 mlr3tuningspaces: 0.5.1
 mlr3verse: 0.3.0
-mlr3viz: 0.9.0
+mlr3viz: 0.10.0
 mlrCPO: 0.3.7-7
 mlrMBO: 1.1.5.1
 mlrintermbo: 0.5.1-1
@@ -19356,7 +19357,7 @@ msigdbr: 7.5.1
 msir: 1.3.3
 mskcc.oncotree: 0.1.1
 msltrend: '1.0'
-msm: 1.8.1
+msm: 1.8.2
 msma: '3.1'
 msme: 0.5.3
 msmtools: 2.0.1
@@ -20771,7 +20772,7 @@ parallelMap: 1.5.1
 parallelPlot: 0.4.0
 parallelSVM: 0.1-9
 parallelize.dynamic: 0.9-1
-parallelly: 1.38.0
+parallelly: 1.39.0
 parallelpam: 1.4.3
 param2moment: 0.1.2
 param6: 0.2.4
@@ -21422,7 +21423,7 @@ plotrix: 3.8-4
 plotrr: 1.0.0
 plotscale: 0.1.6
 plotscaper: 0.2.3
-plotthis: 0.3.5
+plotthis: 0.3.6
 plotwidgets: 0.5.1
 plpoisson: 0.3.1
 pls: 2.8-5
@@ -23358,7 +23359,7 @@ rite: 0.3.4
 ritis: 1.0.0
 riv: 2.0-5
 riverconn: 0.3.31
-riverdist: 0.17.0
+riverdist: 0.17.1
 rivernet: 1.2.3
 riverplot: '0.10'
 rivervis: 0.46.0
@@ -24632,6 +24633,7 @@ shatteringdt: 0.1.0
 shazam: 1.2.0
 sheldusr: '0.1'
 shelltrace: 3.5.1
+shelter: 0.1.1
 sherlock: 0.7.0
 shidashi: 0.1.6
 shide: 0.2.1
@@ -24946,7 +24948,7 @@ sinx: 0.0.13
 siplab: '1.6'
 siqr: 0.8.1
 sirad: 2.3-3
-siren: 1.0.4
+siren: 1.0.5
 sirt: 4.1-15
 sirus: 0.3.3
 sisVIVE: '1.4'
@@ -25061,7 +25063,7 @@ smartsnp: 1.1.0
 smatr: 3.4-8
 smbinning: '0.9'
 smcUtils: 0.2.2
-smcfcs: 1.8.0
+smcfcs: 1.9.0
 smco: '0.1'
 smcryptoR: 0.1.2
 smcure: '2.1'
@@ -25697,7 +25699,7 @@ starma: '1.3'
 starmie: 0.1.2
 starnet: 0.0.7
 starry: 0.1.2
-stars: 0.6-6
+stars: 0.6-7
 starsExtra: 0.2.8
 starsTileServer: 0.1.1
 starschemar: 1.2.5
@@ -26544,7 +26546,7 @@ this.path: 2.5.0
 thor: 1.1.6
 thorn: 0.2.0
 thredds: 0.1-4
-threeBrain: 1.0.1
+threeBrain: 1.2.0
 threeboost: '1.1'
 threejs: 0.3.3
 threesixtygiving: 0.2.2
@@ -26625,7 +26627,7 @@ tidyinftheo: 0.2.1
 tidyjson: 0.3.2
 tidylab: 4.1.1
 tidylda: 0.0.5
-tidyllm: 0.1.0
+tidyllm: 0.2.0
 tidylo: 0.2.0
 tidylog: 1.1.0
 tidymargins: 0.1.0
@@ -27430,7 +27432,7 @@ validatejsonr: 1.0.4
 validatesuggest: 0.3.2
 validatetools: 0.5.2
 validator: '1.0'
-validmind: 0.1.1
+validmind: 0.1.2
 valmetrics: 1.0.0
 valorate: 1.0-1
 valottery: 0.0.1
@@ -27552,7 +27554,7 @@ vetr: 0.2.18
 vfcp: 1.4.0
 vfinputs: 0.1.0
 vfprogression: 0.7.1
-vglmer: 1.0.5
+vglmer: 1.0.6
 vhcub: 1.0.0
 vhica: 0.2.8
 via: 0.2.0
@@ -27608,12 +27610,12 @@ visova: '1.1'
 visreg: 2.7.0
 vistime: 1.2.4
 vistla: 2.0.3
-vistributions: 0.1.2
+vistributions: 0.2.0
 visualFields: 1.0.5
 visualR: 2.0.2
 visualizationTools: 0.2.05
 visualize: 4.5.0
-visualpred: 0.1.0
+visualpred: 0.1.1
 visvow: 1.3.11
 visxhclust: 1.1.0
 vita: 1.0.0
@@ -27716,7 +27718,7 @@ wahc: '1.0'
 waiter: 0.2.5
 wakefield: 0.3.6
 wal: 0.1.1
-waldo: 0.6.0
+waldo: 0.6.1
 waldwolf: '0.1'
 walkalytics: 0.1.0
 walkboutr: 0.6.0
@@ -27737,6 +27739,7 @@ washdata: 0.1.4
 washeR: 0.1.3
 washex: 1.2.0
 washi: 0.2.0
+washr: 1.0.1
 wasim: 1.1.2
 waspasR: 0.1.5
 waspr: 1.0.1
@@ -28167,7 +28170,7 @@ ypr: 0.6.0
 ypssc: 1.1.0
 yuima: 1.15.27
 yuimaGUI: 1.3.1
-yulab.utils: 0.1.7
+yulab.utils: 0.1.8
 yum: 0.1.0
 yummlyr: 0.1.1
 yyjsonr: 0.1.20
@@ -28198,7 +28201,7 @@ zic: 0.9.1
 zicounts: 1.1.5
 zip: 2.3.1
 zipR: 0.1.1
-zipangu: 0.3.2
+zipangu: 0.3.3
 zipcode: '1.0'
 zipcodeR: 0.3.5
 zipfR: 0.6-70
