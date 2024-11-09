@@ -80,10 +80,11 @@ AIM: '1.01'
 AIPW: 0.6.3.2
 AIS: '1.0'
 AIUQ: 0.5.3
+AIscreenR: 0.1.0
 ALA4R: 1.9.1
 ALDqr: '1.0'
 ALEPlot: '1.1'
-ALFAM2: 4.1.3
+ALFAM2: '4.2'
 ALKr: 0.5.3.1
 ALLSPICER: 0.1.9
 ALS: 0.0.7
@@ -810,7 +811,7 @@ Biostatistics: 1.0.4
 BiostatsUHNplus: 0.0.10
 Biotech: 1.0.0
 BipartiteModularityMaximization: 1.23.120.1
-BiplotGUI: 0.0-7
+BiplotGUI: 0.0-12
 BiplotML: 1.1.0
 BisRNA: 0.2.2
 BisqueRNA: 1.0.5
@@ -1027,7 +1028,7 @@ CIPerm: 0.2.3
 CIS.DGLM: 0.1.0
 CISE: 0.1.0
 CITAN: 2022.1.1
-CITMIC: 0.1.1
+CITMIC: 0.1.2
 CIfinder: 2.0.0
 CIplot: '1.0'
 CIpostSelect: 0.2.1
@@ -1164,7 +1165,7 @@ CTShiny2: 0.1.0
 CTT: 2.3.3
 CTTShiny: '0.1'
 CTTinShiny: 0.1.0
-CTxCC: 0.1.0
+CTxCC: 0.2.0
 CUB: 1.1.5
 CUFF: '1.9'
 CUMP: '2.0'
@@ -1800,6 +1801,7 @@ DTRlearn: '1.3'
 DTRlearn2: '1.1'
 DTRreg: '2.2'
 DTSEA: 0.0.3
+DTSR: 0.1.0
 DTSg: 1.1.3
 DTWBI: '1.1'
 DTWUMI: '1.0'
@@ -1891,7 +1893,7 @@ Depela: '0.0'
 DependencyReviewer: 1.2.3
 DepthProc: 2.1.5
 Deriv: 4.1.6
-DescTools: 0.99.57
+DescTools: 0.99.58
 DescToolsAddIns: '1.12'
 DescrTab2: 2.1.16
 DescribeDF: 0.2.1
@@ -2434,6 +2436,7 @@ FFdownload: 1.1.1
 FField: 0.1.0
 FGLMtrunc: 0.1.0
 FGN: 2.0-12
+FGRepo: 1.3.2.0
 FGSG: 1.0.2
 FGalgorithm: '1.0'
 FHDI: 1.4.1
@@ -3441,6 +3444,7 @@ IIS: '1.0'
 IIVpredictor: 0.1.0
 IJSE: 0.1.1
 ILS: '0.3'
+ILSAmerge: 1.0.0
 ILSE: 1.1.7
 ILSM: 1.0.3.2
 IM: '1.0'
@@ -5809,7 +5813,7 @@ PupillometryR: 0.0.5
 PurBayes: '1.3'
 PurpleAir: 1.0.1
 Pursuit: 1.0.5
-PvSTATEM: 0.1.1
+PvSTATEM: 0.1.2
 PwrGSD: 2.3.8
 PxWebApiData: 1.0.0
 PythonInR: 0.1-12
@@ -7642,6 +7646,7 @@ SimMultiCorrData: 0.2.2
 SimNPH: 0.5.5
 SimPhe: 0.2.0
 SimRAD: '0.96'
+SimRDS: 2.0.0
 SimRVPedigree: 0.4.4
 SimRVSequences: 0.2.7
 SimReg: '3.4'
@@ -8223,7 +8228,7 @@ TestDesign: 1.7.0
 TestDimorph: 0.5.8
 TestFunctions: 0.2.2
 TestGardener: 3.3.5
-TestGenerator: 0.3.1
+TestGenerator: 0.3.3
 TestIndVars: 0.1.0
 TestScorer: 1.7.2
 TestSurvRec: 1.2.1
@@ -8946,7 +8951,7 @@ admiralophtha: 1.1.0
 admiralpeds: 0.1.0
 admiralvaccine: 0.3.0
 admisc: '0.36'
-admix: 2.3.2
+admix: 2.3.3
 admixr: 0.9.1
 admixturegraph: 1.0.2
 admmDensestSubmatrix: 0.1.0
@@ -8964,7 +8969,7 @@ adventr: 0.1.8
 adw: 0.4.0
 adwave: '1.3'
 adwordsR: 0.3.1
-aebdata: 0.1.1
+aebdata: 0.1.2
 aeddo: 0.1.1
 aedseo: 0.1.2
 aelab: 0.4.0
@@ -9306,7 +9311,7 @@ archetypal: 1.3.1
 archetyper: 0.1.0
 archetypes: 2.2-0.1
 archiDART: '3.4'
-archive: 1.1.9
+archive: 1.1.10
 archiveRetriever: 0.4.0
 archivist: 2.3.8
 archivist.github: 0.2.6
@@ -9737,7 +9742,7 @@ bayesQR: '2.4'
 bayesROE: '0.2'
 bayesRecon: 0.3.2
 bayesSurv: '3.8'
-bayesTFR: 7.4-2
+bayesTFR: 7.4-4
 bayesWatch: 0.1.3
 bayesZIB: 0.0.5
 bayesammi: 0.2.0
@@ -9970,7 +9975,7 @@ bifactorial: 1.4.7
 bife: 0.7.2
 bifurcatingr: 2.1.0
 bigBits: '1.3'
-bigD: 0.2.0
+bigD: 0.3.0
 bigDM: 0.5.5
 bigFastlm: 0.0.2
 bigGP: 0.1.8
@@ -10091,7 +10096,7 @@ biogas: 1.23.2
 biogeo: '1.0'
 biogeom: 1.4.3
 biogram: 1.6.3
-biogrowth: 1.0.4
+biogrowth: 1.0.5
 bioimagetools: 1.1.8
 bioinactivation: 1.2.3
 biokNN: 0.1.0
@@ -11314,7 +11319,7 @@ collector: 0.1.3
 collegeScorecard: 0.1.0
 collidr: 0.1.3
 collin: 0.0.4
-collinear: 1.1.1
+collinear: 2.0.0
 collpcm: '1.4'
 colmozzie: 1.1.1
 coloc: 5.2.3
@@ -11499,7 +11504,7 @@ conjurer: 1.7.1
 conleyreg: 0.1.7
 conmet: 0.1.0
 connect3: 0.1.0
-connectapi: 0.3.0
+connectapi: 0.4.0
 connectedness: 0.2.2
 connections: 0.2.0
 connectoModa: 1.0.0
@@ -12427,7 +12432,7 @@ descr: 1.1.8
 describedata: 0.1.0
 describer: 0.2.0
 descriptio: '1.3'
-descriptr: 0.5.2
+descriptr: 0.6.0
 descstat: 0.1-2
 descstatsr: 0.1.0
 desctable: 0.3.0
@@ -12587,7 +12592,7 @@ digitize: 0.0.4
 dilp: 1.1.0
 dils: 0.8.1
 dimRed: 0.2.6
-dimensio: 0.9.0
+dimensio: 0.10.0
 dimensionalAnalysis: 0.1.0
 dimensionsR: 0.0.3
 dina: 2.0.0
@@ -13459,6 +13464,7 @@ epibasix: '1.5'
 epicalc: 2.15.1.0
 epicasting: 0.1.0
 epichains: 0.1.1
+epicmodel: 0.1.1
 epicontacts: 1.1.4
 epidata: 0.4.0
 epidatr: 1.2.0
@@ -14145,7 +14151,7 @@ figma: 0.2.0
 figpatch: '0.2'
 figuRes2: 1.0.0
 file2meco: 0.9.0
-filearray: 0.1.8
+filearray: 0.1.9
 filebin: 0.0.6
 filecacher: 0.2.9
 filehash: 2.4-6
@@ -14188,7 +14194,7 @@ fingraph: 0.1.0
 finiteruinprob: '0.6'
 finity: 0.1.5
 finnishgrid: 0.2.0
-finnsurveytext: 2.0.0
+finnsurveytext: 2.1.0
 finnts: 0.5.0
 finreportr: 1.0.4
 fio: 0.1.2
@@ -14308,7 +14314,7 @@ flourishcharts: 1.0.0.3
 flow: 0.2.0
 flowDiv: '2.0'
 flowTraceR: 0.1.0
-flowchart: 0.5.1
+flowchart: 0.6.0
 flower: '1.0'
 flowfield: '1.0'
 flowmapblue: 0.0.2
@@ -15667,7 +15673,7 @@ graphframes: 0.1.2
 graphhopper: 0.1.2
 graphicalEvidence: '1.1'
 graphicalExtremes: 0.3.2
-graphicalMCP: 0.2.5
+graphicalMCP: 0.2.6
 graphicalVAR: 0.3.4
 graphicsQC: 1.0-8
 graphite: '1.1'
@@ -16510,7 +16516,7 @@ icesVMS: 1.1.4
 icesVocab: 1.2.0
 ichimoku: 1.5.5
 icmm: '1.2'
-icmstate: 0.1.0
+icmstate: 0.1.1
 icomp: '0.1'
 iconr: 0.1.0
 icosa: 0.11.1
@@ -16557,6 +16563,7 @@ ifCNVR: 0.1.0
 ifa: '7.0'
 ifaTools: '0.23'
 ifctools: 0.3.6
+ife: 0.1.0
 ifo: 0.1.0
 ifpd: 0.1.0
 ifs: 0.1.10
@@ -16691,6 +16698,7 @@ indiedown: 0.1.1
 indirect: 0.2.1
 individual: 0.1.9
 industRial: 0.1.0
+ineAtlas: 0.1.2
 inegiR: 3.0.0
 ineptR: 0.2.1
 ineq: 0.2-13
@@ -17325,7 +17333,7 @@ kmscv: 0.1.0
 knfi: 1.0.0
 knitLatex: 0.9.0
 knitcitations: 1.0.12
-knitr: '1.48'
+knitr: '1.49'
 knitrBootstrap: 1.0.3
 knitrProgressBar: 1.1.1
 knitrdata: 0.6.1
@@ -17881,6 +17889,7 @@ lodr: '1.0'
 loe: '1.1'
 loedata: 1.0.1
 loewesadditivity: 0.1.0
+lofifonts: 0.1.3
 log: 1.1.1
 log10: 0.1.0-03
 log4r: 0.4.4
@@ -17968,7 +17977,7 @@ lotri: 1.0.0
 lotterybr: 0.2.0
 lowmemtkmeans: 0.1.2
 lowpassFilter: 1.0-2
-lpSolve: 5.6.21
+lpSolve: 5.6.22
 lpSolveAPI: 5.5.2.0-17.12
 lpacf: 1.0.1
 lpbrim: 1.0.0
@@ -18615,6 +18624,7 @@ metapro: 1.5.11
 metaprotr: 1.2.2
 metarep: 1.2.0
 metasens: 1.5-2
+metasnf: 1.1.2
 metatest: 1.0-5
 metathis: 1.1.4
 metatools: 0.1.6
@@ -18814,7 +18824,7 @@ minqa: 1.2.8
 minque: 2.0.0
 minsample1: 0.1.0
 minsample2: 0.1.0
-minty: 0.0.1
+minty: 0.0.4
 minval: 0.8-2
 minxent: '0.01'
 mipfp: 3.2.1
@@ -18960,7 +18970,7 @@ mljar: 0.1.1
 mllrnrs: 0.0.4
 mlmRev: 1.0-8
 mlma: 6.3-1
-mlmc: 2.0.2
+mlmc: 2.1.0
 mlmhelpr: 0.1.1
 mlmi: 1.1.2
 mlmm: 1.5.0
@@ -18983,7 +18993,7 @@ mlr3data: 0.9.0
 mlr3db: 0.5.2
 mlr3fairness: 0.3.2
 mlr3fda: 0.2.0
-mlr3filters: 0.8.0
+mlr3filters: 0.8.1
 mlr3fselect: 1.2.1
 mlr3hyperband: 0.6.0
 mlr3learners: 0.8.0
@@ -19000,7 +19010,7 @@ mlr3spatiotempcv: 2.3.1
 mlr3summary: 0.1.0
 mlr3superlearner: 0.1.2
 mlr3torch: 0.1.2
-mlr3tuning: 1.1.0
+mlr3tuning: 1.2.0
 mlr3tuningspaces: 0.5.1
 mlr3verse: 0.3.0
 mlr3viz: 0.10.0
@@ -19098,7 +19108,7 @@ modcmfitr: 0.1.0
 modeLLtest: 1.0.4
 modeest: 2.4.0
 modehunt: 1.0.7
-model4you: 0.9-7
+model4you: 0.9-8
 modelDown: '1.1'
 modelObj: '4.2'
 modelROC: '1.0'
@@ -19246,7 +19256,7 @@ moveWindSpeed: 0.2.4
 movecost: '2.1'
 movegroup: 2024.03.05
 movementsync: 0.1.4
-movieROC: 0.1.1
+movieROC: 0.1.2
 mozzie: 0.1.0
 mp: 0.4.1
 mpMap: '1.14'
@@ -22337,7 +22347,7 @@ r2lh: '0.7'
 r2mlm: 0.3.7
 r2pmml: 0.28.0
 r2pptx: 0.1.0
-r2r: 0.1.1
+r2r: 0.1.2
 r2redux: 1.0.17
 r2resize: 1.9.1
 r2rtf: 1.1.1
@@ -22495,7 +22505,7 @@ rTensor: 1.4.8
 rTensor2: 2.0.0
 rTephra: '0.1'
 rTorch: 0.4.2
-rTwig: 1.1.0
+rTwig: 1.2.0
 rUM: 2.0.0
 rUnemploymentData: 1.1.0
 rWBclimate: 0.1.3
@@ -22595,7 +22605,7 @@ rangeMapper: 2.0.3
 rangeModelMetadata: 0.1.5
 rangemap: 0.1.18
 rangemodelR: 1.0.4
-ranger: 0.16.0
+ranger: 0.17.0
 rank: 0.1.0
 rankCorr: 1.0.1
 rankFD: 0.1.1
@@ -22668,7 +22678,7 @@ ravedash: 0.1.2
 raveio: 0.9.0
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravetools: 0.1.8
+ravetools: 0.1.9
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -22942,6 +22952,7 @@ redatam: 2.0.2
 redatamx: 1.0.0
 redbookperu: 0.0.3
 redcapAPI: 2.10.0
+redcas: 0.1.1
 reddPrec: 2.0.3
 redditadsR: 0.1.0
 redist: 4.2.0
@@ -26133,7 +26144,7 @@ svyROC: 1.0.0
 svyVGAM: '1.2'
 svyVarSel: 1.0.1
 svycdiff: 0.1.1
-svydiags: '0.6'
+svydiags: '0.7'
 svylme: 1.5-1
 svyweight: 0.1.0
 swCRTdesign: '4.0'
@@ -26638,6 +26649,7 @@ tidync: 0.4.0
 tidyndr: 0.2.1
 tidypaleo: 0.1.3
 tidyplate: 2.0.1
+tidyplots: 0.1.2
 tidyplus: 0.0.2
 tidypmc: '2.0'
 tidyposterior: 1.0.1
