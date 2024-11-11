@@ -1351,7 +1351,7 @@ CoTiMA: 0.8.0
 CoastlineFD: 1.1.2
 CodataGS: '1.43'
 CodeDepends: 0.6.6
-CodelistGenerator: 3.2.1
+CodelistGenerator: 3.3.0
 CohensdpLibrary: 0.5.11
 CohortAlgebra: 0.3.0
 CohortCharacteristics: 0.3.0
@@ -1359,7 +1359,7 @@ CohortConstructor: 0.3.1
 CohortExplorer: 0.1.0
 CohortGenerator: 0.11.2
 CohortPlat: 1.0.5
-CohortSurvival: 0.5.2
+CohortSurvival: 0.6.0
 CohortSymmetry: 0.1.3
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
@@ -3028,7 +3028,7 @@ GeoDE: '1.0'
 GeoFIS: 1.1.0
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 2.0.7
+GeoModels: 2.0.8
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1.992
@@ -5540,7 +5540,7 @@ PakPMICS2014Ch: 0.1.0
 PakPMICS2014HH: 0.1.0
 PakPMICS2014HL: 0.1.1
 PakPMICS2014Wm: 0.1.1
-PakPMICS2018: 1.1.0
+PakPMICS2018: 1.2.0
 PakPMICS2018bh: 0.1.0
 PakPMICS2018fs: 0.1.0
 PakPMICS2018hh: 0.1.0
@@ -5767,7 +5767,7 @@ ProSportsDraftData: 1.0.3
 ProTrackR: 0.4.3
 ProTrackR2: 0.0.5
 ProbBayes: '1.1'
-ProbBreed: 1.0.4.3
+ProbBreed: 1.0.4.4
 ProbForecastGOP: 1.3.2
 ProbMarg: 1.0.1
 ProbReco: 0.1.2
@@ -6736,7 +6736,7 @@ RcppZiggurat: 0.1.6
 Rcrawler: 0.1.9-1
 Rcriticor: '2.0'
 Rcsdp: 0.1.57.5
-Rcssplot: 1.0.0
+Rcssplot: 1.1.0
 Rcurvep: 1.3.1
 Rd: 0.2.0
 Rd2md: 1.0.1
@@ -6946,7 +6946,7 @@ Rnumerai: 3.0.1
 Rnvd3: 1.0.0
 RoBMA: 3.1.0
 RoBSA: 1.0.2
-RoBTT: 1.3.0
+RoBTT: 1.3.1
 RobAStBase: 1.2.6
 RobAStRDA: 1.2.1
 RobExtremes: 1.3.1
@@ -7536,7 +7536,7 @@ SeerMapperEast: 1.2.5
 SeerMapperRegs: 1.2.5
 SeerMapperWest: 1.2.5
 SegCorr: '1.2'
-SegEnvIneq: '1.1'
+SegEnvIneq: '1.2'
 Segmentor3IsBack: '2.0'
 Sejong: '0.01'
 SeleMix: 1.0.2
@@ -8393,7 +8393,7 @@ UNCOVER: 1.1.0
 UNF: 2.0.8
 UNPaC: 1.1.1
 UPCM: 0.0-3
-UPG: 0.3.4
+UPG: 0.3.5
 UPMASK: '1.2'
 UPSvarApprox: 0.1.4
 URooTab: 0.1.0
@@ -10292,7 +10292,7 @@ boot.heterogeneity: 1.1.5
 boot.pval: '0.5'
 bootCT: 2.1.0
 bootComb: 1.1.2
-bootES: 1.3.0
+bootES: 1.3.1
 bootGOF: 0.1.0
 bootImpute: 1.2.1
 bootLR: 1.0.2
@@ -11938,7 +11938,7 @@ ctmm: 1.2.0
 ctmva: 1.4.0
 ctpm: 1.0.1
 ctqr: '2.1'
-ctrdata: 1.19.4
+ctrdata: 1.19.5
 ctrialsgov: 0.2.5
 ctrlGene: 1.0.1
 cts: 1.0-22
@@ -12135,7 +12135,7 @@ dashboard: 0.1.0
 dashboardthemes: 1.1.6
 dat: 0.5.0
 data.table: 1.16.2
-data.table.threads: 1.0.0
+data.table.threads: 1.0.1
 data.tree: 1.1.0
 data.validator: 0.2.1
 data.world: 1.2.2
@@ -15291,7 +15291,7 @@ ggrastr: 1.0.2
 ggrcs: 0.4.2
 ggredist: 0.0.2
 ggrepel: 0.9.6
-ggreveal: 0.1.3
+ggreveal: 0.1.4
 ggridges: 0.5.6
 ggrisk: '1.3'
 ggrounded: 0.0.3
@@ -16741,7 +16741,7 @@ inlabru: 2.11.1
 inlamemi: 1.1.0
 inlcolor: 1.0.6
 inldata: 1.2.7
-inline: 0.3.19
+inline: 0.3.20
 inlinedocs: 2023.9.4
 inlmisc: 0.5.5
 inlpubs: 1.1.3
@@ -16963,7 +16963,7 @@ isodistrreg: 0.1.0
 isogeochem: 1.1.1
 isokernel: 0.1.0
 isoorbi: 1.3.1
-isopam: '2.0'
+isopam: '3.0'
 isopat: '1.0'
 isoph: 1.1.3
 isopleuros: 1.2.0
@@ -17448,6 +17448,7 @@ lambda.r: 1.2.4
 lambda.tools: 1.0.9
 lambdaTS: '1.1'
 lambdr: 1.2.5
+laminr: 0.1.0
 lamle: 0.3.1
 lamme: 0.0.1
 lancet.iraqmortality: 0.2-0
@@ -17593,7 +17594,7 @@ leaflet.opacity: 0.1.0
 leaflet.providers: 2.0.0
 leafletCN: 0.2.1
 leafletR: 0.4-0
-leafletZH: 0.1.0
+leafletZH: 0.1.1
 leaflethex: 0.1.0
 leafpm: 0.1.0
 leafpop: 0.1.0
@@ -17631,7 +17632,7 @@ leidenbase: 0.1.31
 leiv: 2.0-7
 lemma: 1.3-4
 lemna: 1.0.1
-lemon: 0.4.9
+lemon: 0.5.0
 lenght: 0.1.0
 lenses: 0.0.3
 leontief: '0.3'
@@ -18116,7 +18117,7 @@ maczic: 1.0.0
 mada: 0.5.11
 maddison: '0.2'
 madgrad: 0.1.0
-maditr: 0.8.4
+maditr: 0.8.5
 madness: 0.2.8
 madr: 1.0.0
 madrat: 3.6.4
@@ -18141,6 +18142,7 @@ magree: '1.2'
 magrittr: 2.0.3
 maic: 0.1.4
 maicChecks: 0.1.2
+maicplus: 0.1.0
 mail: '1.0'
 mailR: '0.8'
 mailchimpR: 0.1.0
@@ -18220,7 +18222,7 @@ mappoly: 0.4.1
 mappp: 1.0.0
 mapproj: 1.2.11
 mapr: 0.5.2
-maps: 3.4.2
+maps: 3.4.2.1
 mapsFinland: 0.2.2
 mapsPERU: 2.0.0
 mapsRinteractive: 2.0.1
@@ -20013,7 +20015,7 @@ noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
 noctua: 2.6.2
-nodbi: 0.10.7
+nodbi: 0.11.0
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodeSub: 1.2.8
@@ -20591,7 +20593,7 @@ otrKM: 0.2.1
 otrimle: '2.0'
 otsad: 0.2.0
 otsfeatures: 1.0.0
-ottr: 1.5.0
+ottr: 1.5.1
 ottrpal: 1.2.1
 otuSummary: 0.1.2
 otvPlots: 0.2.1
@@ -22345,7 +22347,7 @@ r2glmm: 0.1.2
 r2lUniv: 0.9.4
 r2lh: '0.7'
 r2mlm: 0.3.7
-r2pmml: 0.28.0
+r2pmml: 0.29.0
 r2pptx: 0.1.0
 r2r: 0.1.2
 r2redux: 1.0.17
@@ -24090,7 +24092,7 @@ samc: 4.0.0
 samon: 4.0.2
 sampSurf: 0.7-6
 sampbias: 2.0.0
-sampcompR: 0.2.3
+sampcompR: 0.2.4
 sampfling: 0.6-3.1
 sampleSelection: 1.2-12
 sampleVADIR: 1.0.0
@@ -24291,7 +24293,7 @@ scorer: 0.2.0
 scoring: '0.6'
 scoringRules: 1.1.3
 scoringTools: 0.1.3
-scoringfunctions: 0.0.6
+scoringfunctions: 0.0.7
 scoringutils: 2.0.0
 scout: 1.0.4
 scperturbR: 0.1.0
@@ -24952,7 +24954,7 @@ sinew: 0.4.0
 singR: 0.1.2
 singcar: 0.1.5
 singleCellHaystack: 1.0.2
-singleRcapture: 0.2.1.2
+singleRcapture: 0.2.1.3
 singlecase: '0.1'
 sinib: 1.0.0
 sinx: 0.0.13
@@ -25993,7 +25995,7 @@ supclust: 1.1-1
 supcluster: 1.0.1
 superMDS: 1.0.2
 superMICE: 1.1.1
-superb: 0.95.15
+superb: 0.95.19
 superbiclust: '1.2'
 supercells: 1.0.0
 supercompress: '1.1'
@@ -27576,7 +27578,7 @@ video: 0.1.1
 vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
 viewpoly: 0.4.1
-viewscape: 2.0.0
+viewscape: 2.0.1
 viewshed3d: 4.0.0
 viking: 1.0.2
 villager: 2.0.0
