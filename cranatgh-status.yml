@@ -647,6 +647,7 @@ BayesFactor: 0.9.12-4.7
 BayesFluxR: 0.1.3
 BayesGESM: '1.4'
 BayesGOF: '5.2'
+BayesGP: 0.1.3
 BayesGPfit: 1.1.0
 BayesGWQS: 0.1.1
 BayesGmed: 0.0.3
@@ -838,7 +839,7 @@ Bmix: '0.6'
 BoSSA: '3.7'
 BoardGames: 1.0.0
 Bodi: 0.1.0
-Bolstad: 0.2-41
+Bolstad: 0.2.42
 Bolstad2: 1.0-29
 BoltzMM: 0.1.4
 BonEV: '1.0'
@@ -1018,6 +1019,7 @@ CIDnetworks: 0.8.1
 CIEE: 0.1.1
 CIFsmry: 1.0.1.1
 CIM: 1.0.0
+CIMPLE: 0.1.0
 CIMTx: 1.2.0
 CINE: 0.1.3
 CINID: 1.3-0
@@ -1931,7 +1933,7 @@ DiceDesign: '1.10'
 DiceEval: 1.6.1
 DiceKriging: 1.6.0
 DiceOptim: 2.1.1
-DiceView: 2.2-0
+DiceView: 3.1-0
 Dict: 0.1.0
 DidacticBoost: 0.1.1
 Diderot: '0.13'
@@ -2209,7 +2211,7 @@ EasyStrata: '8.6'
 EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
 Ecdat: 0.4-2
-Ecfun: 0.3-2
+Ecfun: 0.3-6
 EcoDiet: 2.0.1
 EcoEnsemble: 1.1.0
 EcoGenetics: 1.2.1-6
@@ -2594,7 +2596,7 @@ FisPro: 1.1.4
 Fiscore: 0.1.3
 FishPhyloMaker: 0.2.0
 FishProxCompAnalyzer: 0.1.0
-FishResp: 1.1.1
+FishResp: 1.1.2
 FisherEM: '1.6'
 FitAR: '1.94'
 FitARMA: 1.6.1
@@ -2994,7 +2996,7 @@ GeneClusterNet: 1.0.1
 GeneCycle: 1.1.5
 GeneF: 1.0.1
 GeneFeST: 1.0.1
-GeneNMF: 0.6.0
+GeneNMF: 0.6.2
 GeneNT: 1.4.1
 GeneNet: 1.2.16
 GeneReg: 1.1.2
@@ -3071,7 +3073,7 @@ Gini: 0.1.0
 GiniDecompLY: 1.0.0
 GiniDistance: 0.1.1
 GiniWegNeg: 1.0.1
-GitStats: 2.1.1
+GitStats: 2.1.2
 Giza: '1.0'
 GlarmaVarSel: '1.0'
 Glarmadillo: 1.1.1
@@ -3967,7 +3969,7 @@ LW1949: 1.1.0
 LWFBrook90R: 0.6.1
 LZeroSpikeInference: 1.0.3
 LaF: 0.8.4
-LaMa: 1.0.0
+LaMa: 2.0.0
 LabApplStat: 1.4.4
 LabRS: 0.1.0
 LabourMarketAreas: '3.4'
@@ -4005,7 +4007,7 @@ LearnBayes: 2.15.1
 LearnClust: '1.1'
 LearnEDA: '1.2'
 LearnGeom: '1.5'
-LearnNonparam: 1.2.3
+LearnNonparam: 1.2.4
 LearnPCA: 0.3.4
 LearnSL: 1.0.0
 LearnVizLMM: 1.0.0
@@ -4148,7 +4150,7 @@ MB: 0.1.1
 MBA: 0.1-2
 MBAnalysis: 2.0.2
 MBBEFDLite: 0.0.4
-MBC: 0.10-6
+MBC: 0.10-7
 MBCbook: 0.1.2
 MBCluster.Seq: '1.0'
 MBESS: 4.9.3
@@ -5166,7 +5168,7 @@ OmicsPLS: 2.0.2
 OmicsQC: 1.1.0
 Omisc: 0.1.5
 OmnibusFisher: '1.0'
-OmopSketch: 0.1.1
+OmopSketch: 0.1.2
 OmopViewer: 0.1.0
 OnAge: 1.0.1
 OnboardClient: 1.0.0
@@ -5233,7 +5235,7 @@ OrdNor: 2.2.3
 OrdinalLogisticBiplot: '0.4'
 OrgMassSpecR: 0.5-3
 OriGen: 1.4.3
-OrigamiPlot: 0.1.0
+OrigamiPlot: 0.2.0
 OrthoPanels: 1.2-4
 OryzaProbe: 0.1.0
 OscillatorGenerator: 0.1.0
@@ -5338,7 +5340,7 @@ PEIMAN2: 0.1.0
 PEIP: 2.2-5
 PELVIS: 2.0.4
 PEMM: '1.0'
-PEPBVS: '2.0'
+PEPBVS: '2.1'
 PERK: 0.0.9.2
 PERMANOVA: 0.2.0
 PERregress: 1.0-8
@@ -5579,7 +5581,7 @@ Partiallyoverlapping: '2.0'
 Pasha: 0.99.21
 Path.Analysis: '0.1'
 PathSelectMP: '1.1'
-PathwaySpace: 0.99.4
+PathwaySpace: 1.0.0
 PatientProfiles: 1.2.1
 PatternClass: 2.0.1
 Patterns: '1.5'
@@ -6101,7 +6103,7 @@ RESTK: 1.0.0
 REdaS: 0.9.4
 REddyProc: 1.3.3
 REddyProcNCDF: 1.1.4
-REffectivePred: 1.0.0
+REffectivePred: 1.0.1
 REndo: 2.4.10
 RFA: 0.0-9
 RFCCA: 2.0.0
@@ -6146,7 +6148,7 @@ RGoogleAnalyticsPremium: 0.1.1
 RGoogleFit: 0.4.0
 RGrace: 0.6-6
 RGraphM: 0.1.11
-RGraphSpace: 1.0.6
+RGraphSpace: 1.0.7
 RGraphics: 3.0-2
 RGreenplum: 0.1.2
 RGremlinsConjoint: 0.9.1
@@ -7227,6 +7229,7 @@ SETPath: '1.0'
 SEchart: '0.1'
 SEofM: 0.1.0
 SEset: 1.0.1
+SFM: 0.1.0
 SFPL: 1.0.0
 SFS: 0.1.4
 SFSI: 1.4.1
@@ -8554,6 +8557,7 @@ VideoComparison: '0.15'
 ViewPipeSteps: 0.1.0
 VineCopula: 2.5.1
 VirtualPop: 2.0.2
+Virusparies: 1.0.0
 VisCollin: 0.1.2
 VisCov: 1.4.0
 VisitorCounts: 2.0.2
@@ -8918,7 +8922,7 @@ additivityTests: 1.1-4.2
 addreg: '3.0'
 ade4: 1.7-22
 ade4TkGUI: 0.3-1
-adea: 1.5.1
+adea: 1.5.2
 adeba: 1.1.2
 adegenet: 2.1.10
 adegraphics: 1.0-21
@@ -9876,7 +9880,7 @@ beats: 0.1.1
 beautier: 2.6.12
 beaver: 1.0.0
 bedr: 1.0.7
-beeca: 0.1.3
+beeca: 0.2.0
 beepr: '2.0'
 beeswarm: 0.4.0
 beezdemand: 0.1.2
@@ -9949,7 +9953,7 @@ bggum: 1.0.2
 bglm: '1.0'
 bgmfiles: 0.0.6
 bgmm: 1.8.5
-bgms: 0.1.4
+bgms: 0.1.4.1
 bgsmtr: '0.7'
 bgumbel: 0.0.3
 bgw: 0.1.3
@@ -10308,7 +10312,7 @@ bootSVD: '1.1'
 bootStepAIC: 1.3-0
 bootTimeInference: 0.1.0
 bootUR: 1.0.4
-bootcluster: 0.3.2
+bootcluster: 0.4.1
 bootf2: 0.4.1
 bootfs: 1.4.2
 bootnet: '1.6'
@@ -10350,6 +10354,7 @@ bpcp: 1.4.2
 bpcs: 1.0.0
 bpgmm: 1.0.9
 bpkde: 1.0-7
+bplsr: 1.0.0
 bpmnR: 0.1.1
 bpmnVisualizationR: 0.5.0
 bpnreg: 2.0.3
@@ -10487,7 +10492,7 @@ bunching: 0.8.6
 bunchr: 1.2.0
 bundesbank: 0.1-12
 bundesligR: 0.1.0
-bundle: 0.1.1
+bundle: 0.1.2
 bupaR: 0.5.4
 bupaverse: 0.1.0
 burgle: 0.1.2
@@ -10954,7 +10959,7 @@ chisquare: 1.1.1
 chk: 0.9.2
 chkptstanr: 0.1.1
 chlorpromazineR: 0.2.0
-chngpt: 2023.11-29
+chngpt: 2024.11-15
 choiceDes: 0.9-3
 cholera: 0.8.0
 choosepc: '1.0'
@@ -11472,7 +11477,7 @@ conditionalProbNspades: '1.0'
 conditions: '0.1'
 conditionz: 0.1.0
 condmixt: '1.1'
-condor: 2.1.0
+condor: 3.0.0
 condorOptions: 1.0.1
 conductor: 0.1.1
 condusco: 0.1.0
@@ -11765,7 +11770,7 @@ cpp11tesseract: 5.3.2
 cppRouting: '3.1'
 cppcheckR: 1.0.0
 cppcor: '1.2'
-cppdoubles: 0.2.0
+cppdoubles: 0.3.0
 cpr: 0.4.0
 cprobit: 1.0.2
 cprr: 0.2.0
@@ -13746,7 +13751,7 @@ expirest: 0.1.6
 explainer: 1.0.2
 explor: 0.3.10
 exploratory: 0.3.31
-explore: 1.3.2
+explore: 1.3.3
 exploreR: '0.1'
 expm: 1.0-0
 expoRkit: 0.9.4
@@ -14000,6 +14005,7 @@ fastmap: 1.2.0
 fastmatch: 1.1-4
 fastmatrix: 0.5-7721
 fastmit: 0.1.1
+fastml: 0.1.0
 fastnet: 1.0.0
 fastplyr: 0.3.0
 fastpng: 0.1.5
@@ -14361,7 +14367,7 @@ fmt: '2.0'
 fmtr: 1.6.5
 fmx: 0.1.2
 fnets: 0.1.6
-fntl: 0.1.1
+fntl: 0.1.2
 foba: '0.1'
 focusedMDS: 1.3.3
 foghorn: 1.6.0
@@ -14413,6 +14419,7 @@ forestChange: '1.0'
 forestControl: 0.2.2
 forestError: 1.1.0
 forestFloor: 1.11.1
+forestGYM: 1.0.0
 forestHES: 2.0.1
 forestPSD: 1.0.0
 forestRK: 0.0-5
@@ -14873,7 +14880,7 @@ gee: 4.13-27
 gee4: 0.1.0.0
 geeCRT: 1.1.3
 geeM: 0.10.1
-geeVerse: 0.2.1
+geeVerse: 0.2.2
 geeasy: 0.1.2
 geecure: 1.0-6
 geepack: 1.3.12
@@ -15311,7 +15318,7 @@ ggseas: 0.5.4
 ggsector: 1.7.0
 ggseg: 1.6.5
 ggseg3d: 1.6.3
-ggsem: 0.1.0
+ggsem: 0.1.1
 ggseqlogo: '0.2'
 ggseqplot: 0.8.5
 ggshadow: 0.0.5
@@ -15721,7 +15728,7 @@ gremes: 0.1.1
 gremlin: 1.1.0
 gren: 0.0.1
 greport: 0.7-4
-greta: 0.4.5
+greta: 0.5.0
 greta.dynamics: 0.2.0
 greta.gp: 0.2.1
 gretel: 0.0.1
@@ -18219,7 +18226,7 @@ mapi: 1.0.5
 mapindiatools: 1.0.1
 mapiso: 0.3.0
 maple: 0.99.5
-maplegend: 0.1.0
+maplegend: 0.2.0
 mapme.biodiversity: 0.9.3
 mapmisc: 2.1.0
 mapmixture: 1.1.4
@@ -18854,7 +18861,7 @@ misPRIME: 0.1.0
 misaem: 1.0.1
 misc3d: 0.9-1
 miscF: 0.1-5
-miscFuncs: 1.5-9
+miscFuncs: 1.5-10
 miscIC: 0.1.0
 miscTools: 0.6-28
 misclassGLM: 0.3.5
@@ -19163,7 +19170,7 @@ modgo: 1.0.1
 modi: 0.1.2
 modifiedmk: '1.6'
 modiscloud: '0.14'
-modisfast: 0.9.1
+modisfast: 1.0.0
 modmarg: 0.9.6
 modnets: 0.9.0
 modopt.matlab: 1.0-2
@@ -19820,7 +19827,7 @@ netrankr: 1.2.3
 netregR: 1.0.1
 netropy: 0.2.0
 nets: 0.9.1
-netseer: 0.1.0
+netseer: 0.1.1
 netseg: 1.0-2
 netstat: 0.1.2
 nett: 1.0.0
@@ -20681,7 +20688,7 @@ packHV: '2.2'
 packMBPLSDA: 0.9.0
 packS4: 0.9.3
 packageDiff: '0.1'
-packageRank: 0.9.3
+packageRank: 0.9.4
 packagedocs: 0.4.0
 packagefinder: 0.3.5
 packagepal: 0.1.0
@@ -21194,7 +21201,7 @@ phenopix: 2.4.4
 phers: 1.0.2
 phiDelta: 1.0.1
 phia: 0.3-1
-philentropy: 0.8.0
+philentropy: 0.9.0
 phillydaodata: 1.0.1
 phitest: 1.0-0
 phm: 1.1.2
@@ -22472,6 +22479,7 @@ rNMF: 0.5.0
 rNOMADS: 2.5.3
 rNeighborGWAS: 1.2.4
 rNeighborQTL: 1.1.2
+rOCEAN: '1.0'
 rODE: 0.99.6
 rPACI: 0.2.2
 rPAex: 1.0.5
@@ -24373,7 +24381,7 @@ sdpt3r: '0.3'
 sdrt: 1.0.0
 sdsfun: 0.4.2
 sdtalt: '1.03'
-sdtm.oak: 0.1.0
+sdtm.oak: 0.1.1
 sdtmchecks: 1.0.0
 sdtmval: 0.4.1
 sdtoolkit: 2.33-1
@@ -24757,7 +24765,7 @@ shinyhttr: 1.1.0
 shinyjqui: 0.4.1
 shinyjs: 2.1.0
 shinylight: '1.2'
-shinylive: 0.2.0
+shinylive: 0.3.0
 shinyloadtest: 1.2.0
 shinylogs: 0.2.1
 shinymanager: 1.0.410
@@ -26491,6 +26499,7 @@ text2sdg: 1.1.1
 text2sdgData: 0.1.1
 text2speech: 1.0.0
 text2vec: 0.6.4
+textAnnotatoR: 0.1.4
 textBoxPlacement: '1.0'
 textTinyR: 1.1.8
 textTools: 0.1.0
