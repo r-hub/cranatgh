@@ -990,7 +990,7 @@ CFAcoop: 1.0.0
 CFC: 1.2.0
 CFF: '1.0'
 CFL: '0.1'
-CFO: 2.1.0
+CFO: 2.2.0
 CFilt: 0.3.0
 CFtime: 1.4.1
 CGE: 0.3.3
@@ -1363,7 +1363,7 @@ CohortExplorer: 0.1.0
 CohortGenerator: 0.11.2
 CohortPlat: 1.0.5
 CohortSurvival: 0.6.0
-CohortSymmetry: 0.1.3
+CohortSymmetry: 0.1.4
 CoinMinD: '1.1'
 Coinprofile: 0.1.9
 ColOpenData: 0.3.1
@@ -3037,6 +3037,7 @@ GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1.992
 GeoThinneR: 1.1.0
+GeoTox: 0.2.0
 GeoWeightedModel: 1.0.3
 GeoXp: 1.6.2
 GeodRegr: 0.2.0
@@ -3219,6 +3220,7 @@ HMDHFDplus: 2.0.3
 HMM: 1.0.1
 HMMCont: '1.0'
 HMMEsolver: 0.1.2
+HMMRel: 0.1.0
 HMMcopula: 1.1.0
 HMMextra0s: 1.1.0
 HMMmix: '1.0'
@@ -3832,7 +3834,7 @@ LARisk: 1.0.0
 LATERmodel: 0.2.0
 LAWBL: 1.5.0
 LBC: '1.0'
-LBI: 0.2.0
+LBI: 0.2.1
 LBLGXE: '1.4'
 LBPG: 0.1.2
 LBSPR: 0.1.6
@@ -5117,6 +5119,7 @@ OPE: '0.7'
 OPI: 3.0.2
 OPSR: 0.1.2
 OPTS: '0.1'
+OPTeCD: 1.0.0
 OPTtesting: 1.0.0
 ORCI: '1.1'
 ORCME: 2.0.2
@@ -6762,7 +6765,7 @@ Rdiagnosislist: '1.3'
 Rdice: 1.0.0
 Rdimtools: 1.1.2
 Rdistance: 3.0.0
-Rdpack: 2.6.1
+Rdpack: 2.6.2
 Rdrools: 1.1.1
 Rdroolsjars: 1.0.1
 Rdrw: 1.0.2
@@ -6835,6 +6838,7 @@ Replication: 0.1.2
 ReplicationSuccess: 1.3.3
 Repliscope: 1.1.1
 RepoGenerator: 0.0.1
+ReportSubtotal: '0.1'
 ReporteRs: 0.8.10
 ReporteRsjars: 0.0.4
 ReporterScore: 0.1.8
@@ -8348,7 +8352,7 @@ TreeLS: 2.0.2
 TreeMineR: 1.0.2
 TreePar: '3.3'
 TreeRank: 1.1-0
-TreeRingShape: 3.0.3
+TreeRingShape: 3.0.5
 TreeSearch: 1.5.1
 TreeSim: '2.4'
 TreeSimGM: '2.5'
@@ -9173,7 +9177,7 @@ amen: 1.4.5
 amer: 0.6.10
 amerifluxr: 1.0.0
 amerika: 0.1.0
-ami: 0.2.0
+ami: 0.2.1
 aml: 0.1-1
 ammiBayes: 1.0-2
 ammistability: 0.1.4
@@ -9549,7 +9553,7 @@ autoimage: 2.2.3
 autokeras: 1.0.12
 automagic: 0.5.1
 automap: 1.1-12
-autometric: 0.1.1
+autometric: 0.1.2
 automl: 1.3.2
 automultinomial: 2.0.0
 autonewsmd: 0.0.9
@@ -11460,7 +11464,7 @@ compute.es: 0.2-5
 comradesOO: 0.1.1
 comsimitv: 0.1.5
 comstab: 0.0.3
-comtradr: 1.0.2
+comtradr: 1.0.3
 con2aqi: 0.1.0
 con2lki: 0.1.0
 conStruct: 1.0.6
@@ -11828,7 +11832,7 @@ credule: 0.1.4
 cregg: 0.4.0
 crestr: 1.2.1
 crevents: 0.1.0
-crew: 0.10.1
+crew: 0.10.2
 crew.aws.batch: 0.0.6
 crew.cluster: 0.3.2
 crfsuite: 0.4.2
@@ -12417,7 +12421,7 @@ demogR: 0.6.0
 demography: '2.0'
 demu: 0.3.0
 dendRoAnalyst: 0.1.5
-dendextend: 1.18.1
+dendextend: 1.19.0
 dendextendRcpp: 0.6.1
 dendroExtra: 0.0.2
 dendroNetwork: 0.5.4
@@ -13048,7 +13052,7 @@ dynamicGraph: 0.2.2.6
 dynamicSDM: 1.3.4
 dynamicTreeCut: 1.63-1
 dynamichazard: 1.0.2
-dynamite: 1.5.2
+dynamite: 1.5.5
 dynamo: '1.0'
 dynatop: 0.2.3
 dynatopGIS: 0.2.5
@@ -14023,7 +14027,7 @@ fastmatrix: 0.5-7721
 fastmit: 0.1.1
 fastml: 0.1.0
 fastnet: 1.0.0
-fastplyr: 0.3.0
+fastplyr: 0.4.0
 fastpng: 0.1.5
 fastpos: 0.5.1
 fastpseudo: '0.1'
@@ -14347,7 +14351,7 @@ flowchart: 0.6.0
 flower: '1.0'
 flowfield: '1.0'
 flowmapblue: 0.0.2
-flowmapper: 0.1.2
+flowmapper: 0.1.3
 flowml: 0.1.3
 flowr: 0.9.11
 flows: 1.1.1
@@ -14517,7 +14521,7 @@ frailtyEM: 1.0.1
 frailtyHL: '2.3'
 frailtyMMpen: 1.2.1
 frailtySurv: 1.3.8
-frailtypack: 3.6.3
+frailtypack: 3.6.4
 frair: 0.5.100
 frambgrowth: 0.1.0
 framecleaner: 0.2.1
@@ -15052,7 +15056,7 @@ geometry: 0.5.0
 geommc: 0.1.1
 geomnet: 0.3.1
 geomod: 0.1.0
-geomorph: 4.0.8
+geomorph: 4.0.9
 geomtextpath: 0.1.4
 geomultistar: 1.2.2
 geonames: '0.999'
@@ -15640,7 +15644,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.3.3
 gpbStat: 0.4.4
-gpboost: 1.5.1.2
+gpboost: 1.5.4
 gpclib: 1.5-6
 gpcp: 0.1.0
 gpg: 1.3.0
@@ -15752,7 +15756,7 @@ gretlR: 0.1.4
 grex: '1.9'
 greybox: 2.0.2
 greyzoneSurv: '1.0'
-grf: 2.3.2
+grf: 2.4.0
 grid: 0.7-4
 gridBase: 0.4-7
 gridBezier: 1.1-1
@@ -15817,7 +15821,7 @@ grr: 0.9.5
 grt: 0.2.1
 grwat: 0.0.4
 gsDesign: 3.6.5
-gsDesign2: 1.1.2
+gsDesign2: 1.1.3
 gsEasy: '1.5'
 gsMAMS: 0.7.2
 gsalib: 2.2.1
@@ -15935,7 +15939,7 @@ hSDM: 1.4.4
 haarfisz: 4.5.4
 habCluster: 1.0.5
 hablar: 0.3.2
-habtools: 1.0.5
+habtools: 1.0.7
 hackeRnews: 0.1.0
 hacks: 0.1-9
 hacksaw: 0.0.2
@@ -17190,7 +17194,7 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.3.2
 jsr223: 0.3.4
-jstable: 1.3.5
+jstable: 1.3.6
 jstager: 0.0.6
 jstor: 0.3.11
 jtGWAS: 1.5.1
@@ -17336,7 +17340,7 @@ kiwisR: 0.2.4
 kknn: 1.3.1
 kko: 1.0.1
 klaR: 1.7-3
-klassR: 0.2.4
+klassR: 1.0.0
 klausuR: 0.12-14
 kldest: 1.0.0
 kldtools: '1.2'
@@ -18868,7 +18872,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 1.3.0
+mirai: 1.3.1
 mirai.promises: 0.5.0
 mirf: '1.0'
 mirrorselect: 0.0.3
@@ -19034,7 +19038,7 @@ mlr3filters: 0.8.1
 mlr3fselect: 1.2.1
 mlr3hyperband: 0.6.0
 mlr3learners: 0.8.0
-mlr3mbo: 0.2.6
+mlr3mbo: 0.2.7
 mlr3measures: 1.0.0
 mlr3misc: 0.15.1
 mlr3oml: 0.10.0
@@ -19193,7 +19197,7 @@ modisfast: 1.0.0
 modmarg: 0.9.6
 modnets: 0.9.0
 modopt.matlab: 1.0-2
-modsem: 1.0.3
+modsem: 1.0.4
 moduleColor: 1.8-4
 modules: 0.13.0
 modygliani: '1.0'
@@ -19458,7 +19462,7 @@ mulea: 1.1.0
 mulgar: 1.0.2
 mully: 2.1.38
 mulset: 1.0.0
-mult.latent.reg: 0.2.0
+mult.latent.reg: 0.2.1
 multDM: 1.1.4
 multIntTestFunc: 0.3.0
 multbxxc: 1.0.3
@@ -19489,7 +19493,7 @@ multibreakeR: 0.1.0
 multibridge: 1.2.0
 multic: 0.4.3.1
 multicastR: 2.0.0
-multichull: 3.0.0
+multichull: 3.0.1
 multiclassPairs: 0.4.3
 multicmp: '1.1'
 multicolor: 0.1.7
@@ -19780,6 +19784,7 @@ neatRanges: 0.1.4
 neatStats: 1.13.3
 neatmaps: 2.1.0
 nebula: 1.5.3
+necountries: 0.1-1
 needmining: 0.1.1
 needs: 0.0.3
 needy: '0.2'
@@ -21872,7 +21877,7 @@ prinsimp: 0.8-8
 printr: '0.3'
 prinvars: 1.0.0
 prioGene: 1.0.1
-prior3D: 0.1.2
+prior3D: 0.1.3
 priorCON: 0.1.2
 prioriactions: 0.5.0
 prioritizr: 8.0.4
@@ -21922,7 +21927,7 @@ prof.tree: 0.1.0
 profExtrema: 0.2.1
 profanal: 1.0-1
 profdpm: '3.3'
-proffer: 0.2.1
+proffer: 0.2.2
 profile: 1.0.3
 profileModel: 0.6.1
 profileR: 0.3-5
@@ -22339,6 +22344,7 @@ questionr: 0.7.8
 queuecomputer: 1.2.0
 queueing: 0.2.12
 quhomology: 1.1.1
+quicR: 1.0.2
 quickNmix: 1.1.1
 quickPWCR: '1.0'
 quickPlot: 1.0.2
@@ -22991,7 +22997,7 @@ recurse: 1.4.0
 red: 1.6.1
 redR: 1.0.1
 reda: 0.5.4
-redatam: 2.0.2
+redatam: 2.0.4
 redatamx: 1.0.0
 redbookperu: 0.0.3
 redcapAPI: 2.10.0
@@ -23061,7 +23067,7 @@ regrap: 1.0.1
 regreplaceR: 0.1.0
 regress: 1.3-21
 regressinator: 0.2.0
-regressoR: 3.0.2
+regressoR: 4.0.3
 regrrr: 0.1.3
 regsel: '0.2'
 regsem: 1.9.5
@@ -24401,7 +24407,7 @@ sdpdth: '0.2'
 sdprisk: 1.1-6
 sdpt3r: '0.3'
 sdrt: 1.0.0
-sdsfun: 0.4.2
+sdsfun: 0.4.3
 sdtalt: '1.03'
 sdtm.oak: 0.1.1
 sdtmchecks: 1.0.0
@@ -25434,7 +25440,7 @@ spatsoc: 0.2.2
 spatstat: 3.2-1
 spatstat.Knet: 3.1-2
 spatstat.core: 2.4-4
-spatstat.data: 3.1-2
+spatstat.data: 3.1-4
 spatstat.explore: 3.3-3
 spatstat.geom: 3.3-3
 spatstat.gui: 3.1-0
@@ -25790,7 +25796,7 @@ statesRcontiguous: 0.1.0
 statespacer: 0.5.0
 statfi: 0.9.8
 statforbiology: 0.9.9
-statgenGWAS: 1.0.9
+statgenGWAS: 1.0.10
 statgenGxE: 1.0.9
 statgenHTP: 1.0.7
 statgenIBD: 1.0.7
@@ -26326,7 +26332,7 @@ tabr: 0.5.1
 tabshiftr: 0.4.1
 tabuSearch: 1.1.1
 tabula: 3.1.1
-tabulapdf: 1.0.5-3
+tabulapdf: 1.0.5-5
 tabularMLC: 0.0.3
 tabularaster: 0.7.2
 tabularmaps: 0.1.0
@@ -26358,7 +26364,7 @@ tapLock: 0.2.0
 tapiR: 0.7-5
 tapkee: '1.2'
 tapnet: '0.3'
-tarchetypes: 0.10.0
+tarchetypes: 0.11.0
 tardis: 0.1.4
 targeted: '0.5'
 targets: 1.8.0
@@ -27328,7 +27334,7 @@ umbridge: '1.0'
 umiAnalyzer: 1.0.0
 umlr: 0.3.0
 ump: 0.5-8
-umx: 4.20.0
+umx: 4.21.0
 unbalanced: '2.0'
 unbalhaar: '2.1'
 uncertainUCDP: 0.5.2
@@ -27660,7 +27666,7 @@ visStatistics: 0.1.1
 visTree: 0.8.1
 visa: 0.1.0
 visaOTR: 0.1.0
-visachartR: 3.3.0
+visachartR: 4.0.1
 visae: 0.2.0
 viscomp: 1.0.0
 viscomplexr: 1.1.1
@@ -27829,6 +27835,7 @@ wayback: 0.2.4
 waydown: 1.1.0
 waywiser: 0.6.0
 wbacon: 0.6-2
+wbids: 0.1.0
 wbs: 1.4.1
 wbsd: 1.0.0
 wbstats: 1.0.4
