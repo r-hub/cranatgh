@@ -975,7 +975,7 @@ CDVI: 0.1.0
 CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
 CDatanet: 2.2.0
-CDsampling: 0.1.1
+CDsampling: 0.1.2
 CEAmarkov: 0.1.0
 CEC: 0.11.2
 CEDA: 1.1.1
@@ -1150,7 +1150,7 @@ CSHShydRology: 1.4.2
 CSIndicators: 1.1.1
 CSMES: 1.0.1
 CSS: 1.0.2
-CSTE: 2.0.0
+CSTE: 3.0.0
 CSTools: 5.2.0
 CSUV: 0.1.1
 CSclone: '1.0'
@@ -2085,7 +2085,7 @@ EEML: 0.1.1
 EESPCA: 0.7.0
 EFA.MRFA: 1.1.2
 EFA.dimensions: 0.1.8.4
-EFAfactors: 1.1.0
+EFAfactors: 1.1.1
 EFAtools: 0.4.4
 EFAutilities: 2.1.3
 EFDR: '1.3'
@@ -2901,6 +2901,7 @@ GREENeR: 1.0.0
 GREMLINS: 0.2.1
 GREP2: 1.0.2
 GRIDCOPULA: 1.0.0
+GRIN2: '1.0'
 GRNNs: 0.1.0
 GROAN: 1.3.1
 GRPtests: 0.1.2
@@ -3221,7 +3222,7 @@ HMDHFDplus: 2.0.3
 HMM: 1.0.1
 HMMCont: '1.0'
 HMMEsolver: 0.1.2
-HMMRel: 0.1.0
+HMMRel: 0.1.1
 HMMcopula: 1.1.0
 HMMextra0s: 1.1.0
 HMMmix: '1.0'
@@ -3293,7 +3294,7 @@ HazardDiff: 0.1.0
 HealthCal: 0.1.1
 HeckmanEM: 0.2-1
 HellCor: '1.3'
-HelpersMG: '6.2'
+HelpersMG: '6.3'
 HeritSeq: 1.0.2
 HeterFunctionalData: 0.1.0
 HeteroGGM: 1.0.1
@@ -3874,6 +3875,7 @@ LFApp: 1.4.1
 LFDR.MLE: 1.0.1
 LFDR.MME: '1.0'
 LFDREmpiricalBayes: '1.0'
+LFM: 0.1.0
 LGDtoolkit: 0.2.0
 LGEWIS: '1.1'
 LGRF: '1.0'
@@ -3953,7 +3955,7 @@ LSMRealOptions: 0.2.1
 LSMonteCarlo: '1.0'
 LSPFP: 1.0.3
 LSRS: 0.2.0
-LST: 1.1.0
+LST: 2.0.0
 LSTS: '2.1'
 LSTbook: 0.5.0
 LSVAR: '1.2'
@@ -4036,7 +4038,7 @@ Lifertable: 0.0.1
 LiftTest: 0.2.0
 LightLogR: 0.3.8
 LightningR: 1.0.2
-LikertMakeR: 0.3.0
+LikertMakeR: 0.4.0
 LilRhino: 1.2.2
 LimnoPalettes: 0.1.0
 LinCal: 1.0.1
@@ -4083,7 +4085,7 @@ LogitNet: 0.1-1
 LogrankA: '1.0'
 LogrankPower: 1.0.0
 LongCART: '3.2'
-LongDat: 1.1.2
+LongDat: 1.1.3
 LongMemoryTS: 0.1.0
 LongituRF: '0.9'
 LoopAnalyst: 1.2-7
@@ -5249,6 +5251,7 @@ OscillatorGenerator: 0.1.0
 OssaNMA: 0.1.2
 Ostats: 0.2.0
 OsteoBioR: 0.1.1
+OutSeekR: 1.0.0
 OutbreakTools: 0.1-16
 OutlierDC: 0.3-0
 OutlierDM: 1.1.1
@@ -6388,7 +6391,7 @@ RQEntangle: 0.1.3
 RQGIS: 1.0.4
 RQdeltaCT: 1.3.0
 RQuantLib: 0.4.24
-RRBoost: '0.1'
+RRBoost: '0.2'
 RRF: 1.9.4.1
 RRI: '1.1'
 RRMLRfMC: 0.4.0
@@ -9438,7 +9441,7 @@ asremlPlus: 4.4.40
 assemblerr: 0.1.1
 assert: 1.0.1
 assertable: 0.2.8
-assertions: 0.1.0
+assertions: 0.2.0
 assertive: 0.3-6
 assertive.base: 0.0-9
 assertive.code: 0.0-4
@@ -11092,7 +11095,7 @@ cleanTS: 0.1.2
 cleancall: 0.1.3
 cleandata: 0.3.0
 cleanepi: 1.0.2
-cleaner: 1.5.4
+cleaner: 1.5.5
 cleanerR: 0.1.1
 cleangeo: 0.3-1
 cleanr: 1.4.0
@@ -11255,7 +11258,7 @@ cms: 0.1.0
 cmsaf: 3.5.2
 cmsafops: 1.4.0
 cmsafvis: 1.2.9
-cmstatr: 0.9.3
+cmstatr: 0.10.0
 cmstatrExt: 0.4.0
 cmtest: 0.1-2
 cmvnorm: 1.0-7
@@ -11392,7 +11395,7 @@ colourpicker: 1.3.0
 colourvalues: 0.3.9
 colourvision: 2.0.4
 colr: 0.1.900
-cols: '1.2'
+cols: '1.3'
 cols4all: '0.8'
 colt: 0.1.1
 comFuncs: 0.0.6
@@ -12188,7 +12191,7 @@ datacheck: 1.2.2
 datacheckr: 0.2.0
 dataclass: 1.0.0
 datacleanr: 1.0.3
-datacutr: 0.1.0
+datacutr: 0.2.0
 datadictionary: 1.0.0
 datadigest: 1.0.2
 datadogr: 0.1.2
@@ -12400,6 +12403,7 @@ degday: 0.4.0
 degenes: '1.1'
 degreenet: 1.3-6
 degross: 0.9.0
+deident: 1.0.0
 deisotoper: 0.0.7
 dejaVu: 0.3.1
 delaunay: 2.0.0
@@ -13177,6 +13181,7 @@ ecap: 0.1.2
 ecb: 0.4.2
 ecce: 3.0.2
 ecd: 0.9.2.4
+ecdata: 1.1.1
 ecdfHT: 0.1.1
 ecespa: 1.1-17
 ech: 0.1.3
@@ -13475,7 +13480,7 @@ envoutliers: 1.1.0
 envstat: 0.0.3
 envvar: 0.1.2
 eoR: 0.4.0
-eoa3: 1.0.0.1
+eoa3: 1.0.0.2
 eodhd: 1.0.4
 eodhdR2: 0.5.1
 eoffice: 0.2.2
@@ -13493,7 +13498,7 @@ epiCleanr: 0.2.0
 epiCo: 1.0.0
 epiDisplay: 3.5.0.2
 epiGWAS: 1.0.2
-epiR: 2.0.76
+epiR: 2.0.77
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.15.1.0
@@ -14186,7 +14191,7 @@ figir: 0.1.7.0
 figma: 0.2.0
 figpatch: '0.2'
 figuRes2: 1.0.0
-file2meco: 0.9.0
+file2meco: 0.9.1
 filearray: 0.1.9
 filebin: 0.0.6
 filecacher: 0.2.9
@@ -14218,7 +14223,7 @@ findInGit: 0.1.1
 findPackage: 0.2.0
 findR: 0.2.1
 findSVI: 0.1.2
-findpython: 1.0.8
+findpython: 1.0.9
 findviews: 0.1.3
 finebalance: '1.0'
 finetune: 1.2.0
@@ -14449,13 +14454,14 @@ forestRK: 0.0-5
 forestSAS: 2.0.4
 forestat: 1.1.0
 forestdata: 0.1.0
+forestdynR: 0.0.1
 forestecology: 0.2.0
 forested: 0.1.0
 forestinventory: 1.0.0
 forestly: 0.1.1
 forestmangr: 0.9.7
 forestmodel: 0.6.2
-forestplot: 3.1.5
+forestplot: 3.1.6
 forestploter: 1.1.2
 forestr: 2.0.2
 forestry: 0.1.1
@@ -14749,7 +14755,7 @@ gafit: 0.5.1
 gaiah: 0.0.5
 gainML: 0.1.0
 gains: '1.2'
-galah: 2.0.2
+galah: 2.1.0
 galamm: 0.2.1
 galgo: '1.4'
 galigor: 0.2.5
@@ -15254,7 +15260,7 @@ ggimg: 0.1.2
 gginference: 0.1.3
 gginnards: 0.2.0-1
 ggip: 0.3.2
-ggiraph: 0.8.10
+ggiraph: 0.8.11
 ggiraphExtra: 0.3.0
 ggisotonic: 0.1.2
 ggjoy: 0.4.1
@@ -16020,9 +16026,9 @@ hcp: '0.1'
 hctrial: 0.1.0
 hdImpute: 0.2.1
 hda: 0.2-14
-hdar: 1.0.2
+hdar: 1.0.4
 hdbayes: 0.1.1
-hdbcp: 0.1.0
+hdbcp: 1.0.0
 hdbinseg: 1.0.2
 hdbm: 0.9.0
 hdbma: '1.0'
@@ -16401,7 +16407,7 @@ hyper.fit: 1.2.1
 hyper2: 3.1-0
 hyperSMURF: '2.0'
 hyperSpec: 0.100.2
-hyperbolicDEA: 1.0.0
+hyperbolicDEA: 1.0.1
 hyperbrick: '1.0'
 hypercube: 0.2.1
 hyperdirichlet: 1.5-1
@@ -17277,7 +17283,7 @@ kerasformula: 1.5.1
 kerastuneR: 0.1.0.7
 kerdiest: '1.2'
 kerfdr: 2.0.1
-kergp: 0.5.7
+kergp: 0.5.8
 kernDeepStackNet: 2.0.2
 kerndwd: 2.0.3
 kernelFactory: 0.3.0
@@ -19068,7 +19074,7 @@ mlsjunkgen: 0.1.2
 mlstrOpalr: 1.0.3
 mlsurvlrnrs: 0.0.4
 mlt: 1.6-1
-mlt.docreg: 1.1-9
+mlt.docreg: 1.1-10
 mltest: 1.0.1
 mltools: 0.3.5
 mlts: 1.0.0
@@ -19461,7 +19467,7 @@ mugnet: 1.02.0
 muhaz: 1.2.6.4
 muir: 0.1.0
 mulSEM: '1.0'
-mulea: 1.1.0
+mulea: 1.1.1
 mulgar: 1.0.2
 mully: 2.1.38
 mulset: 1.0.0
@@ -19481,6 +19487,7 @@ multiAssetOptions: 0.1-2
 multiCA: '1.1'
 multiColl: '2.0'
 multiDimBio: 1.2.2
+multiDoE: 0.9.2
 multiFANOVA: 0.1.0
 multiMarker: 1.0.1
 multiPIM: 1.4-3
@@ -19657,6 +19664,7 @@ mvtmeta: '1.1'
 mvtnorm: 1.3-2
 mvtnormpcs: '0.1'
 mvtsplot: 1.0-5
+mvvg: 0.1.0
 mwTensor: 1.1.0
 mwa: 0.4.4
 mwaved: 1.1.8
@@ -20455,7 +20463,7 @@ openVA: 1.1.2
 openadds: 0.2.0
 openai: 0.4.1
 openair: 2.18-2
-openairmaps: 0.9.0
+openairmaps: 0.9.1
 openaistream: 0.3.0
 openalexR: 1.4.0
 openappr: 0.2.0
@@ -20467,7 +20475,7 @@ opencpu: 2.2.14
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
 opencv: 0.4.1
-opendataformat: 1.3.0
+opendataformat: 2.0.0
 opendatatoronto: 0.1.5
 opendotaR: 0.1.4
 openeo: 1.3.1
@@ -21376,7 +21384,7 @@ pkgcache: 2.2.3
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
-pkgdepR: 1.1.0
+pkgdepR: 1.1.1
 pkgdepends: 0.8.0
 pkgdown: 2.1.1
 pkgfilecache: 0.1.5
@@ -21615,7 +21623,7 @@ polyfreqs: 1.0.2
 polyglot: 0.3.0
 polyglotr: 1.5.2
 polyhedralCubature: 1.1.0
-polylabelr: 0.2.0
+polylabelr: 0.3.0
 polymapR: 1.1.6
 polymars: 1.0-5
 polynom: 1.4-1
@@ -21641,7 +21649,7 @@ pool: 1.0.4
 poolABC: 1.0.0
 poolHelper: 1.1.0
 poolVIM: 1.0.0
-pooledpeaks: 1.0.6
+pooledpeaks: 1.0.7
 poolfstat: 2.2.0
 pooling: 1.1.2
 poolr: 1.1-1
@@ -22026,6 +22034,7 @@ psda: 1.4.0
 psdr: 1.0.1
 pse: 0.4.7
 pseudo: 1.4.3
+pseudobibeR: '1.2'
 pseudohouseholds: 0.1.1
 pseudorank: 1.0.1
 pseval: 1.3.1
@@ -23830,7 +23839,7 @@ rscala: 3.2.25
 rscc: 0.2.1
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 1.3.2
+rsconnect: 1.3.3
 rscontract: 0.1.2
 rscopus: 0.6.6
 rscorecard: 0.30.0
@@ -24306,7 +24315,7 @@ scfetch: 0.5.0
 scgwr: 0.1.2-21
 sched: 1.0.3
 schemr: 0.3.0
-schoRsch: '1.10'
+schoRsch: '1.11'
 schoenberg: 2.0.3
 scholar: 0.2.4
 schoolmath: 0.4.2
@@ -25085,7 +25094,7 @@ slca: 1.2.0
 slcm: 0.1.0
 sld: 1.0.1
 sleekts: 1.0.2
-sleeperapi: 1.1.1
+sleeperapi: 1.1.2
 sleepr: 0.3.0
 sleepwalk: 0.3.2
 sleev: 1.0.3
@@ -25440,16 +25449,16 @@ spatialsegregation: '2.45'
 spatialwarnings: 3.1.0
 spatialwidget: 0.2.5
 spatsoc: 0.2.2
-spatstat: 3.2-1
+spatstat: 3.3-0
 spatstat.Knet: 3.1-2
 spatstat.core: 2.4-4
 spatstat.data: 3.1-4
 spatstat.explore: 3.3-3
 spatstat.geom: 3.3-4
 spatstat.gui: 3.1-0
-spatstat.linnet: 3.2-2
+spatstat.linnet: 3.2-3
 spatstat.local: 5.1-0
-spatstat.model: 3.3-2
+spatstat.model: 3.3-3
 spatstat.random: 3.3-2
 spatstat.sparse: 3.1-0
 spatstat.univar: 3.1-1
@@ -25601,7 +25610,7 @@ sportyR: 2.2.2
 spotGUI: 0.2.3
 spotidy: 0.1.0
 spotifyr: 2.2.5
-spotoroo: 0.1.4
+spotoroo: 0.1.5
 spots: 0.1.0
 spp: 1.16.0
 sppmix: 1.0.2.1
@@ -26358,6 +26367,7 @@ tailloss: '1.0'
 tailr: 0.1.3
 taipan: 0.1.2
 takos: 0.2.0
+talkr: 0.1.3
 tame: 0.0.1
 tanaka: 0.4.0
 tangles: 0.8.1
@@ -26988,7 +26998,7 @@ trajeR: 0.9.0.5
 trajectories: 0.2-9
 trajmsm: 0.1.3
 trajr: 1.5.1
-tram: 1.1-2
+tram: 1.2-0
 tramME: 1.0.6
 tramicp: 0.0-2
 tramnet: 0.0-8
@@ -27694,7 +27704,7 @@ vita: 1.0.0
 vitae: 0.6.0
 vital: 1.1.0
 vitality: '1.3'
-vivainsights: 0.5.4
+vivainsights: 0.5.5
 vivaldi: 1.0.1
 vivid: 0.2.9
 vivo: 0.2.1
@@ -27821,7 +27831,7 @@ waterYearType: 1.0.1
 waterfall: 1.0.2
 waterfalls: 1.0.0
 waterquality: 1.0.0
-watson: '0.4'
+watson: '0.5'
 wav: 0.1.0
 wavScalogram: 1.1.3
 waveband: 4.7.4
@@ -27931,6 +27941,7 @@ whatr: 1.0.1
 whatthreewords: 0.1.3
 wheatmap: 0.2.0
 when: 1.0.0
+where: 1.0.0
 whereami: 0.2.0
 whereport: '0.1'
 whiboclustering: 0.1.2
