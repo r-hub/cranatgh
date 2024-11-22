@@ -146,7 +146,7 @@ AR1seg: '1.0'
 ARAMIS: 1.0.1
 ARCensReg: 3.0.1
 ARCokrig: 0.1.2
-ARDECO: 2.0.0
+ARDECO: 2.1.0
 ARDL: 0.2.4
 ARGOS: 0.1.1
 ARHT: 0.1.0
@@ -296,6 +296,7 @@ AnnoProbe: 0.1.7
 AnnotLists: '1.2'
 AnnotationBustR: 1.3.0
 AnnuityRIR: 1.0-0
+AnomalyScore: '0.1'
 AntAngiCool: '1.1'
 AntAngioCOOL: '1.2'
 AntMAN: 1.1.0
@@ -1169,6 +1170,7 @@ CTShiny2: 0.1.0
 CTT: 2.3.3
 CTTShiny: '0.1'
 CTTinShiny: 0.1.0
+CTTvis: 0.1.0
 CTxCC: 0.2.0
 CUB: 1.1.5
 CUFF: '1.9'
@@ -1767,7 +1769,7 @@ DRDRtest: '0.1'
 DREGAR: 0.1.3.0
 DRHotNet: '2.3'
 DRI: '1.1'
-DRIP: '2.2'
+DRIP: '2.3'
 DRR: 0.0.4
 DRaWR: 1.0.3
 DRomics: 2.6-2
@@ -3455,7 +3457,7 @@ IIS: '1.0'
 IIVpredictor: 0.1.0
 IJSE: 0.1.1
 ILS: '0.3'
-ILSAmerge: 1.0.0
+ILSAmerge: 1.2.5
 ILSE: 1.1.7
 ILSM: 1.0.3.2
 IM: '1.0'
@@ -5256,6 +5258,7 @@ Ostats: 0.2.0
 OsteoBioR: 0.1.1
 OutSeekR: 1.0.0
 OutbreakTools: 0.1-16
+OutcomeWeights: 0.1.0
 OutlierDC: 0.3-0
 OutlierDM: 1.1.1
 OutlierDetection: 0.1.1
@@ -6023,7 +6026,7 @@ RBNZ: 1.1.0
 RBPcurve: '1.2'
 RBaseX: 1.1.2
 RBerkeley: 0.7-5
-RBesT: 1.7-3
+RBesT: 1.7-4
 RBestMatch: 0.1.1
 RBitly: 0.7.3
 RBitmoji: 0.0.2
@@ -6230,7 +6233,7 @@ RLT: 3.2.6
 RLastFM: 0.1-5
 RLeafAngle: '1.0'
 RLogicalOps: '0.1'
-RLoptimal: 1.1.0
+RLoptimal: 1.1.1
 RLumCarlo: 0.1.9
 RLumModel: 0.2.10
 RLumShiny: 0.2.3
@@ -7917,7 +7920,7 @@ StockDistFit: 1.0.0
 Storm: '1.2'
 StormR: 0.2.1
 StrainRanking: '1.2'
-StratPal: 0.2.0
+StratPal: 0.3.0
 StratSel: '1.3'
 Strategy: 1.0.1
 StrathE2E2: 3.3.0
@@ -8301,6 +8304,7 @@ TidyDensity: 1.5.0
 TidyMultiqc: 1.0.3
 TileManager: 0.4.1
 TilePlot: 1.3.1
+TimeDepFrail: 0.0.0.9
 TimeMachine: 1.2.1
 TimeProjection: 0.2.0
 TimeSeries.OBeu: 1.2.4
@@ -8798,7 +8802,7 @@ aCGH.Spline: '2.2'
 aCRM: 0.1.1
 aGE: 0.0.9
 aIc: '1.0'
-aLBI: 0.1.6
+aLBI: 0.1.7
 aLFQ: 1.3.6
 aMNLFA: 1.1.2
 aPCoA: '1.3'
@@ -10081,7 +10085,7 @@ binaryTimeSeries: 1.0.2
 binb: 0.0.7
 binda: 1.0.4
 bindata: 0.9-21
-bindr: 0.1.1
+bindr: 0.1.2
 bindrcpp: 0.2.3
 binequality: 1.0.4
 binford: 0.1.0
@@ -10872,7 +10876,7 @@ cernn: '0.1'
 cesR: 0.1.0
 ceser: 1.0.0
 cetcolor: 0.2.0
-ceterisParibus: 0.4.2
+ceterisParibus: '0.6'
 cfa: 0.10-1
 cfbfastR: 1.9.0
 cfda: 0.12.0
@@ -10989,6 +10993,7 @@ chlorpromazineR: 0.2.0
 chngpt: 2024.11-15
 choiceDes: 0.9-3
 cholera: 0.8.0
+chooseGCM: 1.0.1
 choosepc: '1.0'
 choplump: 1.1.2
 chopthin: 0.2.2
@@ -11044,6 +11049,7 @@ circular: 0.5-1
 circularEV: 0.1.1
 circumplex: 1.0.0
 cirls: 0.3.1
+cisp: 0.1.0
 cit: 2.3.2
 citation: 0.8.2
 citationchaser: 0.0.4
@@ -11334,6 +11340,7 @@ coga: 1.2.2
 coglasso: 1.0.2
 cogmapr: 0.9.3
 cognitoR: 1.0.5
+cohetsurr: '1.0'
 cohortBuilder: 0.3.0
 cohorts: 1.0.1
 cohorttools: 0.1.6
@@ -11560,6 +11567,7 @@ consibiocloudclient: 1.0.0
 consolechoice: 1.1.1
 consort: 1.2.2
 consortr: 0.9.1
+consrq: '1.0'
 constants: 1.0.1
 constellation: 0.2.0
 constrainedKriging: 0.2-8
@@ -11726,6 +11734,7 @@ covTest: '1.02'
 covTestR: 0.1.4
 covadap: 1.0.1
 covafillr: 0.4.4
+covalchemy: 1.0.0
 covatest: 1.2.3
 covdepGE: 1.0.1
 coveR2: 1.0.0
@@ -12181,7 +12190,7 @@ data.tree: 1.1.0
 data.validator: 0.2.1
 data.world: 1.2.2
 data360r: 1.0.9
-dataCompare: 1.0.3
+dataCompare: 1.0.4
 dataCompareR: 0.1.4
 dataMaid: 1.4.1
 dataMeta: 0.1.1
@@ -12557,7 +12566,7 @@ dhReg: 0.1.1
 dhga: '0.1'
 dhglm: '2.0'
 dhh: 0.0.1
-dhis2r: 0.2.1
+dhis2r: 0.3.0
 dhlabR: 1.0.6
 dhsage: 0.1.0
 di: 1.1.4
@@ -12748,7 +12757,7 @@ disttools: 0.1.8
 dittoViz: 1.0.1
 dittodb: 0.1.8
 div: 0.3.1
-divDyn: 0.8.2
+divDyn: 0.8.3
 divagis: 1.0.0
 diveMove: 1.6.4
 diveR: 0.1.2
@@ -13013,7 +13022,7 @@ dualScale: 1.0.0
 dualtrees: 0.1.5
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 1.1.2
+duckdb: 1.1.3
 duckdbfs: 0.0.7
 duckduckr: 1.0.0
 duckplyr: 0.4.1
@@ -13680,6 +13689,7 @@ europop: 0.3.1
 eurostat: 4.0.0
 ev.trawl: 0.1.0
 eva: 0.2.6
+eva3dm: '0.99'
 evabic: 0.1.1
 evalITR: 1.0.0
 evalR: 0.0.1
@@ -14529,7 +14539,7 @@ fractaldim: 0.8-5
 fractalrock: 1.1.0
 fractional: 0.1.3
 fracture: 0.2.1
-fragility: '1.5'
+fragility: '1.6'
 fragilityindex: 0.1.0
 frailtyEM: 1.0.1
 frailtyHL: '2.3'
@@ -16789,7 +16799,7 @@ ingredients: 2.3.0
 ini: 0.3.1
 injectoR: 0.2.4
 injurytools: 1.0.3
-inlabru: 2.11.1
+inlabru: 2.12.0
 inlamemi: 1.1.0
 inlcolor: 1.0.6
 inldata: 1.2.7
@@ -17278,6 +17288,7 @@ keep: '1.0'
 kehra: '0.1'
 kelvin: 2.0-2
 kendallRandomWalks: 0.9.4
+kendallknight: 0.4.0
 kequate: 1.6.4
 kerDAA: 0.1.1
 kerSeg: '1.1'
@@ -17382,7 +17393,7 @@ kmlShape: 0.9.5
 kmlcov: 1.0.1
 kmodR: 0.2.0
 kmscv: 0.1.0
-knfi: 1.0.0
+knfi: 1.0.1
 knitLatex: 0.9.0
 knitcitations: 1.0.12
 knitr: '1.49'
@@ -17676,7 +17687,7 @@ legendry: 0.1.0
 legion: 0.1.2
 legislatoR: 1.1.0
 legocolors: 0.4.0
-lehdr: 1.1.3
+lehdr: 1.1.4
 lehuynh: 0.1.1
 leiden: 0.4.3.1
 leidenAlg: 1.1.4
@@ -18178,7 +18189,7 @@ madrat: 3.6.4
 mads: 0.1.6
 madshapR: 1.1.0
 madsim: 1.2.1
-maestro: 0.3.0
+maestro: 0.4.0
 mafR: 1.1.6
 mafs: 0.0.3
 magclass: 6.13.2
@@ -18348,6 +18359,7 @@ match2C: 1.2.4
 matchFeat: '1.0'
 matchMulti: 1.1.12.1
 matchbook: 1.0.7
+matchedcc: 0.1.1
 matchingMarkets: 1.0-4
 matchingR: 1.3.3
 matchmaker: 0.1.1
@@ -19034,6 +19046,7 @@ mlmm: 1.5.0
 mlmm.gwas: 1.0.6
 mlmmm: 0.3-1.2
 mlmpower: 1.0.9
+mlms: 1.0.2
 mlmtools: 1.0.2
 mlmts: 1.1.2
 mlogit: 1.1-1
@@ -19054,7 +19067,7 @@ mlr3filters: 0.8.1
 mlr3fselect: 1.2.1
 mlr3hyperband: 0.6.0
 mlr3learners: 0.8.0
-mlr3mbo: 0.2.7
+mlr3mbo: 0.2.8
 mlr3measures: 1.0.0
 mlr3misc: 0.15.1
 mlr3oml: 0.10.0
@@ -20736,7 +20749,7 @@ packagefinder: 0.3.5
 packagepal: 0.1.0
 packager: 1.15.2
 packagetrackr: 0.1.1
-packcircles: 0.3.6
+packcircles: 0.3.7
 packdep: 0.3.1
 packer: 0.1.3
 packrat: 0.9.2
@@ -20747,7 +20760,7 @@ pacotest: 0.4.2
 pacs: 0.6.0
 pact: 0.5.0
 pacviz: 1.0.3
-padr: 0.6.2
+padr: 0.6.3
 paf: '1.0'
 pafdR: '1.0'
 pafr: 0.0.2
@@ -21755,7 +21768,7 @@ powerly: 1.8.6
 powerpkg: '1.6'
 powerplus: '3.1'
 powerr: 0.1-3
-powertools: 0.1.0
+powertools: 0.1.2
 ppMeasures: '0.2'
 ppRank: 0.1.1
 ppRep: 0.42.3
@@ -21996,7 +22009,7 @@ protag: 1.0.0
 protein8k: 0.0.1
 proteomicdesign: '2.0'
 proteomics: '0.2'
-proteomicsCV: 0.3.0
+proteomicsCV: 0.4.0
 proteus: 1.1.4
 protiq: '1.2'
 proto: 1.0.0
@@ -22574,7 +22587,7 @@ rTensor: 1.4.8
 rTensor2: 2.0.0
 rTephra: '0.1'
 rTorch: 0.4.2
-rTwig: 1.2.0
+rTwig: 1.3.0
 rUM: 2.0.0
 rUnemploymentData: 1.1.0
 rWBclimate: 0.1.3
@@ -23019,7 +23032,7 @@ red: 1.6.1
 redR: 1.0.1
 reda: 0.5.4
 redatam: 2.0.4
-redatamx: 1.0.0
+redatamx: 1.0.1
 redbookperu: 0.0.3
 redcapAPI: 2.10.0
 redcas: 0.1.1
@@ -23330,7 +23343,7 @@ rggobi: 2.1.22
 rgho: 3.0.2
 rgl: 1.3.14
 rgl.cry: 0.1.1
-rgl2gltf: 1.0.5
+rgl2gltf: 1.0.7
 rglobi: 0.3.4
 rglplus: '1.3'
 rglwidget: 0.2.1
@@ -23723,6 +23736,7 @@ roundyh: 0.1.0
 routr: 0.4.1
 rowr: 1.1.3
 roxut: 0.4.0
+roxy.shinylive: 1.0.0
 roxyPackage: 0.03-6
 roxygen: 0.1-3
 roxygen2: 7.3.2
@@ -24055,7 +24069,7 @@ rxSeq: 0.99.3
 rxivistr: 0.1.1
 rxode2: 3.0.2
 rxode2et: 2.0.13
-rxode2ll: 2.0.11
+rxode2ll: 2.0.12
 rxode2parse: 2.0.19
 rxode2random: 2.1.1
 rxylib: 0.2.14
@@ -24366,6 +24380,7 @@ scoringTools: 0.1.3
 scoringfunctions: 0.0.7
 scoringutils: 2.0.0
 scout: 1.0.4
+scoutbaR: 0.0.1
 scperturbR: 0.1.0
 scphaser: 1.0.0
 scpi: 2.2.6
@@ -24378,6 +24393,7 @@ scraEP: '1.2'
 scrapeR: 0.1.8
 scrappy: 0.0.1
 screenshot: 0.9.1
+scregclust: 0.1.10
 scribe: 0.3.0
 scrime: 1.3.5
 script: 0.1.1
@@ -26284,7 +26300,7 @@ symmoments: 1.2.1
 symphony: 0.1.1
 symptomcheckR: 0.1.3
 syn: 0.1.0
-synMicrodata: 2.0.0
+synMicrodata: 2.1.0
 synRNASeqNet: '1.0'
 synbreed: 0.12-9
 synbreedData: '1.5'
@@ -26328,7 +26344,7 @@ taber: 0.1.2
 tabit: 0.2.1
 tablaxlsx: 1.2.5
 table.express: 0.4.2
-table.glue: 0.0.4
+table.glue: 0.0.5
 table1: 1.4.3
 table1xls: 0.4.0
 tableExtra: 1.0.1
@@ -26481,7 +26497,7 @@ tempR: 0.10.1.1
 tempcyclesdata: 1.0.1
 tempdisagg: 1.1.1
 temperatureresponse: '0.2'
-templateICAr: 0.8.8
+templateICAr: 0.9.1
 templates: 0.4.0
 templr: 0.2-0
 tempoR: 1.0.4.4
@@ -26759,7 +26775,7 @@ tidytreatment: 0.2.2
 tidytree: 0.4.6
 tidytuesdayR: 1.1.2
 tidyverse: 2.0.0
-tidyvpc: 1.5.1
+tidyvpc: 1.5.2
 tidywater: 0.6.2
 tidywikidatar: 0.5.9
 tidyxl: 1.0.10
@@ -27015,6 +27031,7 @@ tramnet: 0.0-8
 trampoline: 0.1.1
 tramvs: 0.0-6
 tranSurv: 1.2.2
+transDA: 1.0.0
 transPlotR: 0.0.2
 transcribeR: 0.0.0
 transfR: 1.0.11
@@ -28083,7 +28100,7 @@ wql: 1.0.1
 wqs: 0.0.1
 wqspt: 1.0.1
 wqtrends: 1.5.0
-wrGraph: 1.3.7
+wrGraph: 1.3.8
 wrMisc: 1.15.2
 wrProteo: 1.13.0
 wrTopDownFrag: 1.0.2
@@ -28192,6 +28209,7 @@ xportr: 0.4.1
 xpose: 0.4.18
 xpose.nlmixr: 0.3.0
 xpose.nlmixr2: 0.4.0
+xpose.xtras: 0.0.2
 xpose4: 4.7.3
 xpose4classic: 4.4.1
 xpose4data: 4.4.1
