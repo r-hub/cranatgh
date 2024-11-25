@@ -453,7 +453,7 @@ BEANSP: '1.0'
 BED: 1.6.0
 BEDASSLE: 1.6.1
 BEDMatrix: 2.0.4
-BEKKs: 1.4.4
+BEKKs: 1.4.5
 BEND: '1.0'
 BENMMI: 4.3-7
 BEQI2: 2.0-0
@@ -829,6 +829,7 @@ BlakerCI: 1.0-6
 BlandAltmanLeh: 0.3.1
 BlanketStatsments: 0.1.2
 Blaunet: 2.2.1
+Blend: 0.1.0
 Blendstat: 1.0.5
 BlockCov: 0.1.1
 BlockFeST: '2.0'
@@ -1309,6 +1310,7 @@ ClimMobTools: '1.2'
 ClimProjDiags: 0.3.3
 ClinReport: 0.9.1.14
 ClinSigMeasures: '1.2'
+ClinTrialPredict: 0.0.4
 ClinicalRobustPriors: 2.1-2
 ClinicalTrialSummary: 1.1.1
 ClinicalUtilityRecal: 0.1.0
@@ -2289,7 +2291,7 @@ EnvStats: 3.0.0
 EnviroPRA: '1.0'
 EnviroPRA2: 1.0.1
 EnviroStat: 0.4-2
-Epi: '2.57'
+Epi: '2.58'
 EpiBayes: 0.1.2
 EpiContactTrace: 0.18.0
 EpiCurve: 2.4-2
@@ -3024,7 +3026,7 @@ GeneralizedWendland: 0.6.0
 GenericML: 0.2.2
 GeneticSubsetter: '0.8'
 GeneticTools: 0.3.1
-GenoPop: 0.9.3
+GenoPop: 1.0.0
 GenoScan: '0.1'
 GenoTriplo: 1.1.0
 GenomeAdapt: 1.0.0
@@ -4580,6 +4582,7 @@ MatrixModels: 0.5-3
 MaxMC: 0.1.2
 MaxPro: 4.1-2
 MaxSkew: '1.1'
+MaxWiK: 1.0.5
 MaxentVariableSelection: 1.0-3
 MaximinInfer: 2.0.0
 MazamaCoreUtils: 0.5.2
@@ -8721,7 +8724,7 @@ WordOfMouth: 1.1.0
 WordPools: 1.2.0
 WordR: 0.3.6
 WorldFlora: 1.14-5
-WorldMapR: 0.1.3
+WorldMapR: 1.0.1
 WormTensor: 0.1.1
 WpProj: 0.2.1
 Wrapped: '2.0'
@@ -9965,7 +9968,7 @@ bethel: '0.2'
 bets.covid19: 1.0.0
 bettermc: 1.2.1
 bexy: 0.1.3
-beyondWhittle: 1.2.1
+beyondWhittle: 1.3.0
 bezier: 1.1.2
 bfa: '0.4'
 bfast: 1.7.0
@@ -10072,7 +10075,7 @@ billboard: 0.1.0
 billboarder: 0.5.0
 bim: 1.01-5
 bimetallic: '1.0'
-bimets: 4.0.2
+bimets: 4.0.3
 bimixt: '1.0'
 binGroup: 2.2-1
 binGroup2: 1.3.1
@@ -10099,7 +10102,7 @@ binmapr: 0.1.3
 binneR: 2.0.11
 binnednp: 0.4.0
 binom: 1.1-1.1
-binomCI: '1.1'
+binomCI: '1.2'
 binomSamSize: 0.1-5
 binomTools: 1.0-1
 binomen: 0.1.2
@@ -11793,7 +11796,7 @@ cpcens: 0.1.0
 cpd: 0.3.3
 cpfa: 1.1-6
 cpgen: '0.1'
-cpi: 0.1.4
+cpi: 0.1.5
 cpk: 1.3-1
 cplexAPI: 1.4.0
 cplm: 0.7-12.1
@@ -12151,7 +12154,7 @@ daiR: 1.0.1
 dail: 1.5.2
 daiquiri: 1.1.1
 dalmatian: 1.0.0
-daltoolbox: 1.0.787
+daltoolbox: 1.1.727
 daltoolboxdp: 1.0.767
 dam: 0.0.1
 damAOI: '0.1'
@@ -12701,7 +12704,7 @@ diseq: 0.4.6
 disk.frame: 0.8.3
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
-dismo: 1.3-14
+dismo: 1.3-16
 disordR: 0.9-8-4
 disp2D: '1.0'
 dispRity: '1.9'
@@ -12791,7 +12794,7 @@ dlookr: 0.6.3
 dlr: 1.0.1
 dlsem: 2.4.6
 dlstats: 0.1.7
-dm: 1.0.10
+dm: 1.0.11
 dmRTools: 1.1.1
 dma: 1.4-0
 dmacs: 0.1.0
@@ -13239,6 +13242,7 @@ ecoseries: 0.1.5
 ecosim: 1.3-4
 ecospace: 1.4.2
 ecospat: 4.1.1
+ecostate: 0.2.0
 ecostats: 1.2.1
 ecostatscale: '1.1'
 ecotox: 1.4.4
@@ -13640,7 +13644,7 @@ esmisc: 0.0.3
 esmprep: 0.2.0
 esmtools: 1.0.1
 esotericR: '1.0'
-espadon: 1.8.0
+espadon: 1.9.0
 esquisse: 2.0.1
 esreg: 0.6.2
 ess: 1.1.2
@@ -13690,7 +13694,7 @@ europop: 0.3.1
 eurostat: 4.0.0
 ev.trawl: 0.1.0
 eva: 0.2.6
-eva3dm: '0.99'
+eva3dm: 0.99.1
 evabic: 0.1.1
 evalITR: 1.0.0
 evalR: 0.0.1
@@ -16081,7 +16085,7 @@ healthatlas: 0.1.0
 healthcare.antitrust: 0.1.4
 healthcareai: 2.5.1
 healthdb: 0.3.1
-healthequal: 1.0.0
+healthequal: 1.0.1
 healthfinance: 0.1.0
 healthforum: 0.1.0
 healthyAddress: 0.4.3
@@ -16266,7 +16270,7 @@ hoa: 2.1.4.1
 hoardeR: '0.10'
 hoardr: 0.5.4
 hockeyR: 1.3.0
-hockeystick: 0.8.4
+hockeystick: 0.8.5
 hof: '0.1'
 hogsvdR: '0.1'
 holdem: '1.2'
@@ -18316,7 +18320,7 @@ margaret: 0.1.4
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
-marginaleffects: 0.23.0
+marginaleffects: 0.24.0
 marginalizedRisk: 2024.5-17
 marginalmodelplots: 0.4.2
 margins: 0.3.28
@@ -19032,7 +19036,7 @@ mleur: 1.0-6
 mlexperiments: 0.0.4
 mlf: 1.2.1
 mlfit: 0.5.3
-mlflow: 2.17.2
+mlflow: 2.18.0
 mlgt: '0.16'
 mlica: 0.6.1
 mlica2: '2.1'
@@ -19058,7 +19062,7 @@ mlpwr: 1.1.1
 mlquantify: 0.2.0
 mlr: 2.19.2
 mlr3: 0.22.0
-mlr3batchmark: 0.1.1
+mlr3batchmark: 0.2.0
 mlr3benchmark: 0.1.6
 mlr3cluster: 0.1.10
 mlr3data: 0.9.0
@@ -20835,7 +20839,7 @@ panelaggregation: 0.1.1
 panelhetero: 1.0.1
 panelr: 0.7.8
 panelsummary: 0.1.2.1
-panelvar: 0.5.5
+panelvar: 0.5.6
 pangaear: 1.1.0
 pannotator: 1.0.0.4
 panstarrs: 0.2.2
@@ -21810,7 +21814,7 @@ pracma: 2.4.4
 pracpac: 0.2.0
 practicalSigni: 0.1.2
 pragma: 0.1.3
-prais: 1.1.2
+prais: 1.1.3
 praise: 1.0.0
 praktikum: '0.1'
 praznik: 11.0.0
@@ -22432,7 +22436,7 @@ r2pmml: 0.29.0
 r2pptx: 0.1.0
 r2r: 0.1.2
 r2redux: 1.0.17
-r2resize: 1.9.1
+r2resize: 1.9.2
 r2rtf: 1.1.1
 r2shortcode: '0.2'
 r2social: 1.2.1
@@ -24140,7 +24144,7 @@ saeHB.twofold: 0.1.1
 saeHB.unit: 0.1.0
 saeHB.zinb: 0.1.1
 saeME: 1.3.1
-saeMSPE: '1.3'
+saeMSPE: '1.4'
 saePseudo: 0.1.0
 saeRobust: 0.5.0
 saeSim: 0.11.0
@@ -24323,6 +24327,7 @@ scatr: 1.0.1
 scatteR: 0.0.1
 scatterD3: 1.0.1
 scatterPlotMatrix: 0.3.0
+scatterbar: 0.1.0
 scattermore: '1.2'
 scatterpie: 0.2.4
 scatterplot3d: 0.3-44
@@ -24447,7 +24452,7 @@ sdpdth: '0.2'
 sdprisk: 1.1-6
 sdpt3r: '0.3'
 sdrt: 1.0.0
-sdsfun: 0.4.3
+sdsfun: 0.5.0
 sdtalt: '1.03'
 sdtm.oak: 0.1.1
 sdtmchecks: 1.0.0
@@ -24638,7 +24643,7 @@ serieslcb: 0.4.0
 serocalculator: 1.0.3
 seroincidence: 2.0.0
 serosv: 1.0.1
-serp: 0.2.4
+serp: 0.2.5
 serpstatr: 0.3.0
 serrsBayes: 0.5-0
 servosphereR: 0.1.1
@@ -25504,7 +25509,7 @@ spcosa: 0.4-2
 spcov: '1.3'
 spcr: 2.1.1
 spd: 2.0-1
-spdep: 1.3-6
+spdep: 1.3-7
 spdesign: 0.0.5
 spdl: 0.0.5
 spdownscale: 0.1.0
@@ -26024,7 +26029,7 @@ structSSI: 1.1.1
 structree: 1.1.7
 strum: 0.6.2
 strvalidator: 2.4.1
-sts: '1.1'
+sts: '1.2'
 stsm: '1.9'
 stsm.class: '1.3'
 stuart: 0.10.2
@@ -26160,7 +26165,7 @@ surveyNG: '0.3'
 surveyPrev: 1.0.0
 surveybootstrap: 0.0.3
 surveydata: 0.2.7
-surveydown: 0.4.0
+surveydown: 0.5.0
 surveyeditor: '1.0'
 surveyexplorer: 0.2.0
 surveygraph: 0.1.2
