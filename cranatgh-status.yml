@@ -404,7 +404,7 @@ BARD: '1.24'
 BAREB: 0.1.0
 BARIS: 1.1.3
 BART: 2.9.9
-BAS: 1.7.3
+BAS: 1.7.5
 BASIX: '1.2'
 BASS: 1.3.1
 BASiNET: 0.0.5
@@ -3271,6 +3271,7 @@ HTSCluster: 2.0.11
 HTSDiff: 1.0.5
 HTSSIP: 1.4.1
 HTSeed: 0.1.0
+HTSeedGLM: 0.1.0
 HTT: 0.1.2
 HUM: '2.0'
 HURDAT: 0.2.3.2
@@ -9813,6 +9814,7 @@ bayesian: 1.0.1
 bayesianETAS: 1.0.3
 bayesianVARs: 0.1.5
 bayeslincom: 1.3.0
+bayeslist: 0.0.1.4
 bayeslm: 1.0.1
 bayesloglin: 1.0.1
 bayeslongitudinal: 0.1.0
@@ -13551,6 +13553,7 @@ epimdr2: 1.0-9
 epinet: 2.1.11
 epinetr: '0.96'
 epiomics: 1.1.0
+epiparameterDB: 0.1.0
 epiphy: 0.5.0
 episcan: 0.0.1
 episensr: 1.3.0
@@ -16899,7 +16902,7 @@ interplex: 0.1.2
 interplot: 0.2.3
 interpolation: 0.1.1
 interpolators: 1.0.1
-interpret: 0.1.33
+interpret: 0.1.34
 interpretCI: 0.1.1
 interpretR: 0.2.5
 inters: 0.2.0
@@ -24152,7 +24155,7 @@ saeHB.hnb: 0.1.2
 saeHB.panel: 0.1.1
 saeHB.panel.beta: 0.1.5
 saeHB.spatial: 0.1.1
-saeHB.twofold: 0.1.1
+saeHB.twofold: 0.1.2
 saeHB.unit: 0.1.0
 saeHB.zinb: 0.1.1
 saeME: 1.3.1
@@ -24204,6 +24207,7 @@ samplesize4surveys: 4.1.1
 samplesizeCMH: 0.0.3
 samplesizeestimator: 1.0.0
 samplesizelogisticcasecontrol: 2.0.2
+samplezoo: 1.1.0
 sampling: '2.10'
 samplingDataCRT: '1.0'
 samplingEstimates: 0.1-3
