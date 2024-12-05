@@ -710,6 +710,7 @@ BayesfMRI: 0.3.11
 BayesianAnimalTracker: '1.2'
 BayesianFROC: 1.0.0
 BayesianFactorZoo: 0.0.0.3
+BayesianFitForecast: 1.0.0
 BayesianGLasso: 0.2.0
 BayesianLaterality: 0.1.2
 BayesianMCPMod: 1.0.1
@@ -2319,6 +2320,7 @@ Equalden.HD: 1.2.1
 EquiNorm: '2.0'
 EquiSurv: 0.1.0
 EquiTrends: 1.0.0
+ErlangC: 0.1.0
 EstCRM: '1.6'
 EstHer: '1.0'
 EstMix: 1.0.1
@@ -2754,6 +2756,7 @@ GDAtools: '2.1'
 GDD: 0.1-13.1
 GDELTtools: '1.7'
 GDILM.ME: 1.2.1
+GDILM.SEIRS: 0.0.1
 GDILM.SIR: 1.2.1
 GDINA: 2.9.4
 GDPuc: 1.0.4
@@ -2861,6 +2864,7 @@ GOCompare: 1.0.2.1
 GOFSN: '1.0'
 GOFShiny: 0.1.0
 GOGANPA: '1.0'
+GOLDprice: 0.1.0
 GORCure: '2.0'
 GOSim: 1.2.7.7
 GOplot: 1.0.2
@@ -2952,6 +2956,7 @@ GUIgems: '0.1'
 GUTS: 1.2.5
 GUniFrac: '1.8'
 GVARX: '1.4'
+GVS: 0.0.1
 GWAF: '2.2'
 GWASExactHW: '1.2'
 GWASbyCluster: 0.1.7
@@ -4300,6 +4305,7 @@ MIAmaxent: 1.3.1
 MICsplines: '1.0'
 MIDASwrappeR: 0.5.1
 MIDN: '1.0'
+MIGEE: 0.1.0
 MIICD: '2.4'
 MIIPW: 0.1.1
 MIIVefa: 0.1.2
@@ -6597,6 +6603,7 @@ RankResponse: 4.0.0
 Rankcluster: 0.98.0
 RankingProject: 0.4.0
 Rapi: 1.0.5
+RapidFuzz: '1.0'
 RapidPolygonLookup: 0.1.1
 RapidoPGS: 2.3.0
 Rapp: 0.2.0
@@ -9120,6 +9127,7 @@ airportr: 0.1.3
 airports: 0.1.0
 airqualityES: 1.0.0
 airr: 1.5.0
+airship: 1.4.3
 airt: 0.2.2
 aisoph: '0.4'
 ajv: 1.0.0
@@ -12972,6 +12980,7 @@ drfit: 0.7.2
 drgee: 1.1.10
 drglm: '1.1'
 drhur: 1.1.0
+drhutools: 1.0.0
 driftR: 1.1.0
 drifter: 0.2.1
 driftsel: 2.1.1
@@ -13320,6 +13329,7 @@ edpclient: 0.5.1
 edrGraphicalTools: '2.2'
 edstan: 1.0.6
 edtdbg: 1.0.0
+educationR: 0.1.0
 educationdata: 0.1.3
 educineq: 0.1.0
 edwards97: 0.1.1
@@ -19013,6 +19023,7 @@ mixedClust: 1.0.2
 mixedLSR: 0.1.0
 mixedMem: 1.1.2
 mixedQF: '0.3'
+mixedbiastest: 0.2.1
 mixedsde: '5.0'
 mixer: '1.9'
 mixexp: 1.2.7.1
@@ -19091,7 +19102,7 @@ mlmtools: 1.0.2
 mlmts: 1.1.2
 mlogit: 1.1-1
 mlogitBMA: 0.1-9
-mlpack: 4.5.0
+mlpack: 4.5.1
 mlpwr: 1.1.1
 mlquantify: 0.2.0
 mlr: 2.19.2
@@ -20449,7 +20460,7 @@ omicsTools: 1.0.5
 omicwas: 0.8.0
 omnibus: 1.2.14
 omock: 0.3.1
-omopgenerics: 0.4.0
+omopgenerics: 0.4.1
 omopr: '0.2'
 ompr: 1.0.4
 ompr.roi: 1.0.2
@@ -23045,6 +23056,7 @@ recapr: 0.4.4
 reccsim: 0.9-1
 receptiviti: 0.1.8
 recexcavAAR: 0.3.0
+recforest: 1.0.0
 rechaRge: 1.0.0
 rechonest: '1.2'
 recipes: 1.1.0
@@ -23662,6 +23674,7 @@ roboBayes: '1.2'
 robomit: 1.0.6
 robotoolbox: 1.3.2
 robotstxt: 0.7.15
+robqda: '1.0'
 robreg3S: '0.3'
 robregcc: '1.1'
 robsel: 0.1.0
@@ -24677,7 +24690,7 @@ sequoia: 2.11.2
 sergeant: 0.9.1
 serial: '3.0'
 serialize: 0.2-1
-seriation: 1.5.6
+seriation: 1.5.7
 serieslcb: 0.4.0
 serocalculator: 1.0.3
 seroincidence: 2.0.0
