@@ -107,7 +107,7 @@ clone_git_repo <- function(package) {
 }
 
 safe_url <- function(url) {
-  sub("://[-:a-z0-9]+@", "://<token>@", url)
+  sub("://.*@", "://<token>@", url)
 }
 
 #' Push the package to GitHub
