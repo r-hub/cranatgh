@@ -4211,7 +4211,7 @@ MAnorm2: 1.2.2
 MB: 0.1.1
 MBA: 0.1-2
 MBAnalysis: 2.0.2
-MBBEFDLite: 0.0.4
+MBBEFDLite: 0.0.5
 MBC: 0.10-7
 MBCbook: 0.1.2
 MBCluster.Seq: '1.0'
@@ -4481,6 +4481,7 @@ MRH: '2.2'
 MRHawkes: '1.0'
 MRIaggr: 1.1.5
 MRMCaov: 0.3.0
+MRMCbinary: 1.0.4
 MRMCsamplesize: 1.0.0
 MRMR: 0.1.4
 MRPC: 3.1.0
@@ -4874,6 +4875,7 @@ MultiClassROC: 0.1.0
 MultiFit: 1.1.1
 MultiGHQuad: 1.2.0
 MultiGlarmaVarSel: '1.0'
+MultiGrey: 0.1.0
 MultiGroupO: 0.4.0
 MultiGroupSequential: 1.1.0
 MultiHorizonSPA: 1.0.0
@@ -8088,6 +8090,7 @@ SurvDisc: 0.1.1
 SurvEval: '1.1'
 SurvGSD: 1.0.0
 SurvHiDim: 0.1.1
+SurvImpute: 0.1.0
 SurvLong: '1.4'
 SurvMA: 1.6.8
 SurvMI: 0.1.0
@@ -10122,7 +10125,7 @@ biblio: 0.0.10
 bibliometrix: 4.3.2
 bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
-bibliorefer: 0.1.0
+bibliorefer: 0.1.1
 bibliospec: 0.0.4
 biblioverlap: 1.0.2
 bibs: 1.1.1
@@ -15439,7 +15442,7 @@ ggfittext: 0.10.2
 ggfixest: 0.2.0
 ggflowchart: 1.0.0
 ggfocus: 1.0.0
-ggfootball: 0.1.0
+ggfootball: 0.2.0
 ggforce: 0.4.2
 ggformula: 0.12.0
 ggfortify: 0.4.17
@@ -15577,6 +15580,7 @@ ggstatsplot: 0.13.0
 ggstream: 0.1.0
 ggstudent: 0.1.1-1
 ggsubplot: 0.3.2
+ggsurveillance: 0.1.1
 ggsurvey: 1.0.0
 ggsurvfit: 1.1.0
 ggswissmaps: 0.1.1
@@ -16201,7 +16205,7 @@ happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
 harbinger: 1.1.707
-hardhat: 1.4.0
+hardhat: 1.4.1
 harmonicmeanp: 3.0.1
 harmonizer: 0.3.2
 harmony: 1.2.3
@@ -19696,6 +19700,7 @@ mtdesign: 0.1.2
 mthapower: 0.1.1
 mtk: '1.0'
 mtlgmm: 0.1.0
+mtrank: 0.1-0
 mtsc: 0.1.2
 mtscr: 1.0.2
 mtsdi: 0.3.5
@@ -20133,6 +20138,7 @@ networkR: 0.1.2
 networkTomography: '0.3'
 networkreporting: 0.1.1
 networkscaleup: 0.1-2
+networksem: '0.2'
 networksis: 2.1-3
 networktools: 1.5.2
 networktree: 1.0.1
@@ -25159,6 +25165,7 @@ shopifyr: 1.0.0
 shoredate: 1.1.1
 shortIRT: 0.1.3
 shortcuts: 1.4.0
+shortr: 1.0.0
 shorts: 3.2.0
 shotGroups: 0.8.2
 showimage: 1.0.0
@@ -27010,7 +27017,7 @@ tidybins: 0.1.1
 tidyboot: 0.1.1
 tidycat: 0.1.2
 tidycells: 0.2.2
-tidycensus: 1.7.0
+tidycensus: 1.7.1
 tidychangepoint: 0.0.1
 tidycharts: 0.1.3
 tidyclust: 0.2.4
