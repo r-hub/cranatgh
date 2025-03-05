@@ -772,6 +772,7 @@ BiObjClass: 0.1.0
 BiProbitPartial: 1.0.3
 BiSEp: '2.3'
 BiTrinA: 1.3.1
+BiVariAn: 1.0.1
 BiasCorrector: 0.2.3
 BiasedUrn: 2.0.12
 BibPlots: 0.0.8
@@ -5711,7 +5712,7 @@ Path.Analysis: '0.1'
 PathSelectMP: '1.1'
 PathwaySpace: 1.0.0
 PatientLevelPrediction: 6.4.0
-PatientProfiles: 1.3.0
+PatientProfiles: 1.3.1
 PatternClass: 2.0.1
 Patterns: '1.5'
 PdPDB: 2.0.1
@@ -5763,6 +5764,7 @@ PhaseTypeR: 1.0.4
 PheCAP: 1.2.1
 PheNorm: 0.1.0
 PheVis: 1.0.4
+PhenoSpectra: 0.1.0
 Phenotype: 0.1.0
 PhenotypeR: 0.1.3
 PhenotypeSimulator: 0.3.4
@@ -6306,6 +6308,7 @@ RGtk2.10: 2.10.6
 RGtk2DfEdit: 0.5.4
 RGtk2Extras: 0.6.1
 RH2: 0.2.4
+RHC: 0.1.0
 RHMS: '1.7'
 RHPCBenchmark: 0.1.0
 RHRT: 1.0.1
@@ -7393,7 +7396,7 @@ SETPath: '1.0'
 SEchart: '0.1'
 SEofM: 0.1.0
 SEset: 1.0.1
-SFM: 0.1.0
+SFM: 0.2.0
 SFPL: 1.0.0
 SFS: 0.1.4
 SFSI: 1.4.1
@@ -10524,7 +10527,7 @@ boostr: 1.0.0
 boostrq: 1.0.0
 boot: 1.3-31
 boot.heterogeneity: 1.1.5
-boot.pval: '0.6'
+boot.pval: 0.7.0
 bootCT: 2.1.0
 bootComb: 1.1.2
 bootES: 1.3.1
@@ -11772,6 +11775,7 @@ conmet: 0.1.0
 connect3: 0.1.0
 connectapi: 0.6.0
 connectcreds: 0.1.0
+connected: '1.1'
 connectedness: 0.2.2
 connections: 0.2.0
 connectoModa: 1.0.0
@@ -13495,6 +13499,7 @@ ecostatscale: '1.1'
 ecotox: 1.4.4
 ecotoxicology: 1.0.1
 ecotraj: 0.1.1
+ecotrends: '1.0'
 ecoval: 1.2.9
 ecp: 3.1.6
 ecpc: 3.1.1
@@ -16691,7 +16696,7 @@ hurdlr: '0.1'
 hurricaneexposure: 0.1.1
 hutils: 1.8.1
 hutilscpp: 0.10.7
-huxtable: 5.5.7
+huxtable: 5.6.0
 hwde: 0.67-3
 hwep: 2.0.2
 hwig: 0.0.2
@@ -17977,7 +17982,7 @@ leaflegend: 1.2.1
 leaflet: 2.2.2
 leaflet.esri: 1.0.0
 leaflet.extras: 2.0.1
-leaflet.extras2: 1.3.0
+leaflet.extras2: 1.3.1
 leaflet.minicharts: 0.6.2
 leaflet.multiopacity: 0.1.1
 leaflet.opacity: 0.1.0
@@ -19345,6 +19350,7 @@ mixstock: 0.9.5.1
 mixtNB: '1.0'
 mixtools: 2.0.0
 mixtox: 1.4.0
+mixtree: 0.0.1
 mixtur: 1.2.1
 mixture: 2.1.1
 mixvlmc: 0.2.1
@@ -20181,6 +20187,7 @@ neighbours: 0.1-3
 neighbr: 1.0.3
 neldermead: 1.0-12
 nemBM: 1.00.01
+nemsqar: 1.0.0
 nemtr: 0.0.1.0
 neo2R: 2.4.2
 neo4jshell: 0.1.2
@@ -21748,6 +21755,7 @@ pinochet: 0.1.0
 pinp: 0.0.11
 pins: 1.4.0
 pinterestadsR: 0.1.0
+pintervals: 0.7.5
 pinyin: 1.1.6
 pioneeR: 0.5.0
 pipe.design: 0.5.1
@@ -26437,7 +26445,7 @@ strap: 1.6-1
 strapgod: 0.0.4
 strat: '0.1'
 stratEst: 1.1.6
-strata: 1.4.0
+strata: 1.4.3
 strata.MaxCombo: 0.0.1
 strataG: 2.4.905
 stratallo: 2.2.1
@@ -27330,7 +27338,7 @@ tint: 0.1.4
 tinter: 0.1.0
 tintin: '0.2'
 tinyProject: 0.6.1
-tinyarray: 2.4.2
+tinyarray: 2.4.3
 tinycodet: 0.5.4
 tinylabels: 0.2.4
 tinylens: 0.1.0
@@ -27771,7 +27779,7 @@ turkeyelections: 0.1.2
 turner: 0.1.9
 tutoR: 0.3.2
 tutorial: 0.4.3
-tutorial.helpers: 0.3.1
+tutorial.helpers: 0.4.2
 tuts: 0.1.1
 tv: 2.0.2
 tvR: 0.3.2
