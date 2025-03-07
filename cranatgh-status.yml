@@ -610,6 +610,7 @@ BaSTA: 2.0.1
 BaSkePro: 1.1.1
 BaTFLED3D: 0.2.11
 BacArena: 1.8.2
+BacenAPI: 0.1.0
 Bagidis: '1.0'
 BalanceCheck: '0.2'
 BalancedSampling: 2.1.1
@@ -798,7 +799,7 @@ BinaryEMVS: '0.1'
 BinaryEPPM: '3.0'
 BinarybalancedCut: '0.2'
 BioCircos: 0.3.4
-BioCro: 3.1.3
+BioCro: 3.2.0
 BioFTF: 1.2-0
 BioGeoBEARS: 0.2.1
 BioIDMapper: '3.0'
@@ -1322,7 +1323,7 @@ CityPlot: '2.0'
 CityWaterBalance: 0.1.0
 Ckmeans.1d.dp: 4.3.5
 Claddis: 0.7.0
-ClaimsProblems: 0.2.1
+ClaimsProblems: 1.0.0
 ClamR: 2.1-3
 ClassComparison: 3.3.5
 ClassDiscovery: 3.4.5
@@ -5703,6 +5704,7 @@ ParallelForest: 1.1.0
 ParallelLogger: 3.3.1
 ParallelPC: '1.2'
 ParallelTree: 0.1.3
+ParamANOVA: 0.1.2
 ParamHelpers: 1.14.2
 ParentOffspring: '1.0'
 Pareto: 2.4.5
@@ -12310,7 +12312,7 @@ cvequality: 0.2.0
 cvmaPLFAM: 0.1.0
 cvmdisc: 0.1.0
 cvmgof: 1.0.3
-cvms: 1.6.3
+cvms: 1.7.0
 cvplogistic: 3.1-0
 cvq2: 1.2.0
 cvsem: 1.0.0
@@ -14194,6 +14196,7 @@ facebookleadsR: 0.1.0
 facebookorganicR: 0.1.0
 facerec: 0.1.0
 facilitation: 0.5.2
+facilityepimath: 0.1.0
 facmodCS: '1.0'
 facmodTS: '1.0'
 factReg: 1.0.0
@@ -14329,7 +14332,7 @@ fastmap: 1.2.0
 fastmatch: 1.1-6
 fastmatrix: 0.5-7721
 fastmit: 0.1.1
-fastml: 0.4.0
+fastml: 0.5.0
 fastnet: 1.0.0
 fastplyr: 0.5.1
 fastpng: 0.1.7
@@ -16431,6 +16434,7 @@ heiscore: 0.1.4
 heiscore.data: 0.0.1
 helda: 1.1.5
 helixvis: 1.0.1
+hellmer: 0.1.0
 hellno: 0.0.1
 helloJavaWorld: 0.0-9
 hellorust: 1.2.2
@@ -21112,6 +21116,7 @@ pKSEA: 0.0.1
 pMEM: 0.1-1
 pMineR: '0.31'
 pPCA: '1.1'
+pQTLdata: '0.5'
 pRF: '1.2'
 pROC: 1.18.5
 pRSR: 3.1.1
@@ -23999,7 +24004,7 @@ rmp: '2.2'
 rmpw: 0.0.5
 rms: 7.0-0
 rms.gof: '1.0'
-rmsMD: 0.1.1
+rmsMD: 0.1.2
 rmsb: 1.1-1
 rmsfact: 0.0.3
 rmsfuns: 1.0.0.1
@@ -24741,6 +24746,7 @@ scModels: 1.0.4
 scOntoMatch: 0.1.1
 scPDSI: 0.1.3
 scPOP: 0.1.0
+scPipeline: 0.2.0.0
 scPloidy: 0.6.2
 scR: 0.4.0
 scRNAstat: 0.1.1
@@ -25268,6 +25274,7 @@ shinyShortcut: 0.1.0
 shinyStorePlus: '1.4'
 shinyTempSignal: 0.0.8
 shinyTime: 1.0.3
+shinyTimer: 0.1.0
 shinyToastify: 2.0.0
 shinyTree: 0.3.1
 shinyWGD: 1.0.0
@@ -27236,6 +27243,7 @@ tidyimpute: 0.1.0
 tidyindex: 0.1.0
 tidyinftheo: 0.2.1
 tidyjson: 0.3.2
+tidyklips: 0.3.0
 tidylab: 4.1.1
 tidylda: 0.0.5
 tidyllm: 0.3.1
@@ -27551,6 +27559,7 @@ transfR: 1.1.0
 transforEmotion: 0.1.5
 transform.hazards: 0.1.1
 transformer: 0.2.0
+transformerForecasting: 0.1.0
 transformmos: 0.1.0
 transformr: 0.1.5
 translate: 0.1.2
@@ -28146,6 +28155,7 @@ vdmR: 0.2.6
 vdra: 1.0.0
 vec2dtransf: 1.1.3
 veccompare: 0.1.0
+vecmatch: 1.0.2
 vecsets: '1.4'
 vectools: 0.3.0
 vectoptim: '0.2'
@@ -28238,7 +28248,7 @@ visTree: 0.8.1
 visa: 0.1.0
 visaOTR: 0.1.0
 visachartR: 4.0.1
-visae: 0.2.0
+visae: 0.2.1
 viscomp: 1.0.0
 viscomplexr: 1.1.2
 visdat: 0.6.0
@@ -28720,6 +28730,7 @@ xlcharts: 0.0.2
 xlcutter: 0.1.1
 xlink: 1.0.1
 xlm: 0.1.1
+xlr: 1.0.3
 xlsReadWrite: 1.5.4
 xlsimple: 1.0.5
 xlsx: 0.6.5
