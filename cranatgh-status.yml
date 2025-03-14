@@ -3567,7 +3567,7 @@ INFOSET: '4.1'
 INLABMA: 0.1-12
 INLAMSM: 0.2-3
 INLAjoint: 24.3.25
-INLAspacetime: 0.1.11
+INLAspacetime: 0.1.12
 INLAutils: 0.0.5
 INQC: 2.0.5
 INSPECTumours: 0.1.0
@@ -15263,6 +15263,7 @@ geessbin: 1.0.0
 geex: 1.1.1
 geigen: '2.3'
 geiger: 2.0.11
+gek: 1.1.0
 gellipsoid: 0.7.3
 gelnet: 1.2.1
 gem: '0.19'
@@ -21396,8 +21397,8 @@ pavo: 2.9.0
 pawacc: 1.2.3
 pawls: 1.0.0
 paws: 0.8.0
-paws.analytics: 0.8.0
-paws.application.integration: 0.8.0
+paws.analytics: 0.9.0
+paws.application.integration: 0.9.0
 paws.common: 0.8.2
 paws.compute: 0.8.0
 paws.cost.management: 0.8.0
@@ -22831,6 +22832,7 @@ quantsig: 0.1.0
 quantspec: 1.2-4
 quarks: 1.1.4
 quarrint: 1.0.0
+quartabs: 0.1.0
 quartets: 0.1.1
 quarto: 1.4.4
 quaternions: '0.2'
