@@ -706,7 +706,7 @@ BayesReversePLLH: '1.5'
 BayesS5: '1.41'
 BayesSAE: 1.0-2
 BayesSPsurv: 0.1.4
-BayesSUR: 2.2-1
+BayesSUR: 2.3-0
 BayesSampling: 1.1.0
 BayesSenMC: 0.1.5
 BayesSingleSub: 0.6.2
@@ -1105,7 +1105,7 @@ CNVassocData: '1.0'
 CNVreg: '1.0'
 CNprep: '2.2'
 CNull: '1.0'
-COAP: '1.2'
+COAP: '1.3'
 COBRA: 0.99.4
 COCONUT: 1.0.2
 COINr: 1.1.14
@@ -2472,7 +2472,7 @@ FARDEEP: 1.0.1
 FAS: 1.0.0
 FAST.R: 0.2.1
 FASeg: 0.1.9
-FAVA: 1.0.7
+FAVA: 1.0.9
 FAVAR: 0.1.3
 FAdist: '2.4'
 FAfA: '0.2'
@@ -3357,7 +3357,7 @@ HTSeedGLM: 0.1.0
 HTT: 0.1.2
 HUM: '2.0'
 HURDAT: 0.2.3.2
-HVT: 25.2.2
+HVT: 25.2.3
 HW.pval: '1.0'
 HWEBayes: '1.4'
 HWEintrinsic: 1.2.3
@@ -3496,7 +3496,7 @@ ICSKAT: 0.2.0
 ICSNP: 1.1-2
 ICSOutlier: 0.4-0
 ICSS: '1.1'
-ICSShiny: '0.5'
+ICSShiny: '0.6'
 ICSsmoothing: 1.2.8
 ICV: '1.0'
 ICcalib: 1.0.8
@@ -8622,7 +8622,7 @@ TwoCop: '1.0'
 TwoPhaseInd: 1.1.2
 TwoRegression: 1.0.0
 TwoSampleTest.HD: '1.2'
-TwoStepCLogit: 1.2.5
+TwoStepCLogit: 1.2.6
 TwoTimeScales: 1.0.0
 TwoWayFEWeights: 2.0.4
 TwoWaySurvival: '2.2'
@@ -9582,7 +9582,7 @@ arcgisplaces: 0.1.1
 arcgisutils: 0.3.1
 archdata: 1.2-1
 archeoViz: 1.3.5
-archeofrag: 1.1.0
+archeofrag: 1.2.0
 archeofrag.gui: 1.0.0
 archetypal: 1.3.1
 archetyper: 0.1.0
@@ -13319,7 +13319,7 @@ dstabledist: 0.1.0
 dstack: 0.2.1
 dstat: 1.0.4
 dstat2x2xk: 0.2.0
-dtComb: 1.0.5
+dtComb: 1.0.6
 dtables: 0.2.0
 dtangle: 2.0.9
 dtgiw: 1.0.0
@@ -14345,7 +14345,7 @@ fastLSU: 0.1.0
 fastLaplace: 0.0.2
 fastLink: 0.6.1
 fastLogisticRegressionWrap: 1.2.0
-fastM: 0.0-4
+fastM: 0.0-5
 fastMatMR: 1.2.5
 fastNaiveBayes: 2.2.1
 fastOnlineCpt: '1.0'
@@ -18774,7 +18774,7 @@ markovchain: 0.10.0
 markovmix: 0.1.3
 markowitz: 0.1.0
 marl: '1.0'
-marlod: 0.1.2
+marlod: 0.2.0
 marmap: 1.0.10
 marp: 0.1.0
 marqLevAlg: 2.0.8
@@ -20595,7 +20595,7 @@ nonnest2: 0.5-8
 nonpar: 1.0.2
 nonparaeff: 0.5-13
 nonparametric.bayes: 0.0.1
-nonprobsvy: 0.1.1
+nonprobsvy: 0.2.0
 nonrandom: '1.42'
 nonsmooth: 1.0.0
 nontarget: '1.9'
@@ -20816,7 +20816,7 @@ octopucs: 0.1.1
 octopus: 0.4.2
 octopusR: 1.0.1
 od: 0.5.1
-odbc: 1.6.0
+odbc: 1.6.1
 odbr: 0.1.1
 oddnet: 0.1.1
 odds.converter: 1.4.8
@@ -22206,7 +22206,7 @@ poptrend: 0.2.0
 populR: 0.2.1
 population: '0.3'
 populationPDXdesign: 1.0.3
-poputils: 0.4.0
+poputils: 0.4.1
 porridge: 0.3.3
 port4me: 0.7.1
 portalr: 0.4.3
@@ -24252,7 +24252,7 @@ rope: '1.0'
 ropenaq: 0.2.11
 ropenblas: 0.3.0
 ropendata: 0.1.0
-ropenmeteo: '0.1'
+ropenmeteo: 0.1.1
 ropensecretsapi: 1.0.1
 ropensnp: 0.0.3
 roperators: 1.3.14
@@ -24623,7 +24623,7 @@ rworldmap: 1.3-8
 rworldxtra: '1.01'
 rwstats: '0.1'
 rwt: 1.0.2
-rwty: 1.0.2
+rwty: 1.0.3
 rwunderground: 0.1.8
 rxSeq: 0.99.3
 rxivistr: 0.1.1
@@ -27362,7 +27362,7 @@ tidyjson: 0.3.2
 tidyklips: 0.3.0
 tidylab: 4.1.1
 tidylda: 0.0.5
-tidyllm: 0.3.2
+tidyllm: 0.3.4
 tidylo: 0.2.0
 tidylog: 1.1.0
 tidymargins: 0.1.0
