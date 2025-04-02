@@ -3348,6 +3348,7 @@ HSEtest: 0.1.0
 HSPOR: 1.1.9
 HSROC: 2.1.9
 HSSVD: '1.2'
+HTGM: '1.0'
 HTLR: 0.4-4
 HTML: 0.4-1
 HTMLUtils: 0.1.9
@@ -4056,7 +4057,7 @@ LRTesteR: 1.2.1
 LRcontrast: '1.0'
 LS2W: 1.3.6
 LS2Wstat: 2.1-5
-LSAfun: 0.7.1
+LSAfun: 0.8.1
 LSAmitR: 1.0-3
 LSC: 0.1.5
 LSD: 4.1-0
@@ -5705,7 +5706,7 @@ PairTrading: '1.1'
 PairViz: 1.3.6
 PairedData: 1.1.1
 PairwiseD: 0.9.62
-PakNAcc: 0.1.0
+PakNAcc: 0.3.0
 PakPC: 0.3.0
 PakPC2017: 1.0.0
 PakPC2023: 0.2.0
@@ -6399,6 +6400,7 @@ RKEELdata: 1.0.5
 RKEELjars: 1.0.20
 RKHSMetaMod: '1.1'
 RKUM: 0.1.1.1
+RKaggle: 0.1.0
 RKelly: '1.0'
 RKlout: '1.0'
 RKorAPClient: 1.0.0
@@ -7765,6 +7767,7 @@ SeaVal: 1.2.0
 SearchTrees: 0.5.5
 SecDim: '3.2'
 SecKW: '0.2'
+SecretsProvider: 1.0.0
 SeedCalc: 1.0.0
 SeedImbibition: 0.1.0
 SeedMaker: 1.0.0
@@ -8225,6 +8228,7 @@ SurvivalClusteringTree: 1.1.1
 SurvivalPath: 1.3.2
 SurvivalTests: '1.0'
 SvyNom: '1.2'
+SwPcIndex: 0.1.0
 SwarmSVM: 0.1-7
 SweaveListingUtils: 0.7.7
 SweepDiscovery: 0.1.1
@@ -10273,6 +10277,7 @@ biclust: 2.0.3.1
 biclustermd: 0.2.3
 bicreduc: 0.4-7
 bidask: 2.1.4
+bidsr: 0.1.0
 bifactorial: 1.4.7
 bife: 0.7.2
 bifurcatingr: 2.1.0
@@ -10984,6 +10989,7 @@ casino: 0.1.0
 caspar: '1.0'
 cassandRa: 0.2.0
 cassowaryr: 2.0.2
+castgen: 1.0.2
 castor: 1.8.3
 cat: 0.0-9
 cat.dt: 0.3.1
@@ -13140,7 +13146,7 @@ dmutate: 0.1.3
 dna: 2.1-2
 dnapath: 0.7.6
 dnc: '1.2'
-dndR: 2.0.0
+dndR: 3.0.0
 dnet: 1.1.7
 dng: 0.2.1
 dnn: 0.0.6
@@ -18140,7 +18146,7 @@ lehdr: 1.1.4
 lehuynh: 0.1.1
 leiden: 0.4.3.1
 leidenAlg: 1.1.4
-leidenbase: 0.1.32
+leidenbase: 0.1.35
 leiv: 2.0-7
 lemma: 1.3-4
 lemna: 1.0.2
@@ -18864,6 +18870,7 @@ matsindf: 0.4.8
 matuR: 0.0.1.0
 mau: 0.1.2
 mauricer: 2.5.4
+maxEff: 0.1.1
 maxLik: 1.5-2.1
 maxLinear: '1.0'
 maxTPR: 0.1.0
@@ -19504,7 +19511,7 @@ mleur: 1.0-6
 mlexperiments: 0.0.5
 mlf: 1.2.1
 mlfit: 0.5.3
-mlflow: 2.20.4
+mlflow: 2.21.2
 mlgt: '0.16'
 mlica: 0.6.1
 mlica2: '2.1'
@@ -20993,7 +21000,7 @@ opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
 opencv: 0.5.1
 opendataformat: 2.2.0
-opendatatoronto: 0.1.5
+opendatatoronto: 0.1.6
 opendotaR: 0.1.4
 openeo: 1.3.1
 opengraph: 0.0.2
@@ -25821,7 +25828,7 @@ smof: 1.2.2
 smog: 2.1.0
 smoke: 2.0.1
 smoof: 1.6.0.3
-smooth: 4.1.1
+smooth: 4.2.0
 smoothAPC: '0.3'
 smoothHR: 1.0.5
 smoothROCtime: 0.1.0
@@ -26566,6 +26573,7 @@ stocc: '1.31'
 stochLAB: 1.1.2
 stochQN: 0.1.2-1
 stochasticGEM: 0.0-1
+stochcorr: 0.0.1
 stochmod: 1.2.1
 stochprofML: 2.0.3
 stochtree: 0.1.1
@@ -27092,7 +27100,7 @@ tbltools: 0.1.0
 tbm: 0.3-6
 tbma: 0.1.0
 tboot: 0.2.1
-tbrf: 0.1.5
+tbrf: 0.1.6
 tcR: 2.3.2
 tccox: 0.1.0
 tcensReg: 0.1.7
@@ -28944,7 +28952,7 @@ xxhashlite: 0.2.2
 xyloplot: '2.0'
 xyz: '0.2'
 yCrypticRNAs: 0.99.2
-yaConsensus: '1.0'
+yaConsensus: '1.1'
 yaImpute: 1.0-34.1
 yacca: 1.4-2
 yager: 0.1.1
