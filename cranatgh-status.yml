@@ -1500,7 +1500,7 @@ ConjointChecks: 0.2.0
 ConnMatTools: 0.3.5
 ConnectednessApproach: 1.0.4
 ConsRank: 2.1.5
-ConsRankClass: 1.0.1
+ConsRankClass: 1.0.2
 ConsReg: 0.1.0
 ConsensusClustering: 1.5.0
 ConsensusOPLS: 1.1.0
@@ -2219,6 +2219,7 @@ EMSNM: '1.0'
 EMSS: 1.1.1
 EMSaov: '2.3'
 EMT: 1.3.1
+EMTscore: 0.1.1
 EMV: 1.3.1.1
 EMVC: '0.3'
 EMVS: 1.2.1
@@ -4340,7 +4341,7 @@ MCPerm: 1.1.4
 MCPtests: 1.0.1
 MCS: 0.1.3
 MCSim: '1.0'
-MCSimMod: '0.9'
+MCSimMod: 0.9.1
 MCTM: '1.0'
 MCTrend: 1.0.1
 MCUSUM: '1.0'
@@ -5557,7 +5558,7 @@ PKLMtest: 1.0.1
 PKNCA: 0.11.0
 PKPDmisc: 2.1.2
 PKPDmodels: 0.3.2
-PKPDsim: 1.4.0
+PKPDsim: 1.4.1
 PKbioanalysis: 0.2.0
 PKconverter: '1.5'
 PKfit: 1.2.5
@@ -6549,7 +6550,7 @@ ROOPSD: 0.3.9
 ROP: '1.0'
 ROSE: 0.0-4
 RObsDat: '16.03'
-ROlogit: 0.1.2
+ROlogit: 0.1.3
 ROpenCVLite: 4.90.2
 ROpenDota: 0.1.2
 ROpenFIGI: 0.2.8
@@ -7661,7 +7662,7 @@ SQL: 0.1.1
 SQLFormatteR: 0.0.2
 SQLiteDF: 0.1.34
 SQLiteMap: 0.6.2
-SQLove: 1.0.1
+SQLove: 1.0.2
 SQMtools: 1.7.0
 SQN: 1.0.6
 SQRL: 1.0.2
@@ -8302,6 +8303,7 @@ TCHazaRds: 1.1.2
 TCIApathfinder: 1.0.6
 TCIU: 1.2.7
 TCPMOR: '1.0'
+TCRconvertR: '1.0'
 TDA: 1.9.4
 TDAkit: 0.1.2
 TDAmapper: '1.0'
@@ -13628,7 +13630,7 @@ ecostats: 1.2.1
 ecostatscale: '1.1'
 ecotox: 1.4.4
 ecotoxicology: 1.0.1
-ecotraj: 0.1.1
+ecotraj: 1.0.0
 ecotrends: '1.0'
 ecoval: 1.2.9
 ecp: 3.1.6
@@ -16792,7 +16794,7 @@ hrcomprisk: 0.1.1
 hrf: 0.1.3
 hrqglas: 1.1.0
 hrr: 1.1.1
-hrt: 1.0.1
+hrt: 1.0.2
 hrtlFMC: 0.1.0
 hscovar: 0.4.2
 hsdar: 1.0.4
@@ -20414,6 +20416,7 @@ netcontrol: '0.1'
 netcox: 1.0.1
 netdep: 0.1.0
 netdiffuseR: 1.22.6
+netdose: 0.6-0
 netgen: 1.3.2
 netgsa: 4.0.5
 netgwas: 1.14.3
@@ -22457,7 +22460,7 @@ prefio: 0.1.1
 prefmod: 0.8-36
 prenoms: 0.0.1
 prepdat: 1.0.8
-prepplot: 1.0-1
+prepplot: 1.0-2
 preprocomb: 0.3.0
 preprosim: 0.2.0
 preproviz: 0.2.0
@@ -22807,7 +22810,7 @@ qPCR.CT: '1.1'
 qPCRhelper: 0.1.0
 qPCRtools: 1.0.1
 qPRAentry: 0.1.1
-qVarSel: '1.1'
+qVarSel: '1.2'
 qacBase: 1.0.3
 qad: 1.0.4
 qap: 0.1-2
@@ -23634,7 +23637,7 @@ recexcavAAR: 0.3.0
 recforest: 1.0.0
 rechaRge: 1.0.0
 rechonest: '1.2'
-recipes: 1.2.1
+recipes: 1.3.0
 reclin: 0.1.2
 reclin2: 0.5.0
 recluster: '2.9'
@@ -25404,7 +25407,7 @@ sharpData: '1.4'
 sharpPen: '2.0'
 sharpeRratio: 1.4.3
 sharpr2: 1.1.1.0
-sharpshootR: 2.3.2
+sharpshootR: 2.3.3
 sharx: 1.0-6
 shattering: 1.0.7
 shatteringdt: 0.1.0
@@ -25446,6 +25449,7 @@ shinyCohortBuilder: 0.3.1
 shinyCox: 1.1.3
 shinyCyJS: 1.0.0
 shinyDND: 0.1.0
+shinyDTC: 0.1.0
 shinyDatetimePickers: 1.2.0
 shinyEffects: 0.2.0
 shinyEventLogger: 0.1.1
@@ -26880,7 +26884,7 @@ surveyNG: '0.3'
 surveyPrev: 1.0.0
 surveybootstrap: 0.0.3
 surveydata: 0.2.7
-surveydown: 0.10.1
+surveydown: 0.11.0
 surveyeditor: '1.0'
 surveyexplorer: 0.2.0
 surveygraph: 0.1.2
@@ -27186,7 +27190,7 @@ tcltk: 0.1-1
 tcltk2: 1.2-11
 tclust: 2.1-0
 tcpl: 3.2.1
-tcplfit2: 0.1.7
+tcplfit2: 0.1.8
 tcsinvest: 0.1.1
 tcxr: 0.1.0
 td: 0.0.6
@@ -28946,8 +28950,8 @@ xegaBNF: 1.0.0.0
 xegaDerivationTrees: 1.0.0.6
 xegaDfGene: 1.0.0.3
 xegaGaGene: 1.0.0.2
-xegaGeGene: 1.0.0.0
-xegaGpGene: 1.0.0.0
+xegaGeGene: 1.0.0.3
+xegaGpGene: 1.0.0.2
 xegaPermGene: 1.0.0.1
 xegaPopulation: 1.0.0.7
 xegaSelectGene: 1.0.0.3
