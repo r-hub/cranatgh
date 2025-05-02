@@ -2380,7 +2380,7 @@ EpiInvert: 0.3.1
 EpiLPS: 1.3.0
 EpiModel: 2.5.0
 EpiNow2: 1.7.1
-EpiReport: 1.0.3
+EpiReport: 1.0.4
 EpiResTest: '1.0'
 EpiSemble: 0.1.1
 EpiSignalDetection: 0.1.2
@@ -6657,7 +6657,7 @@ RSP: '0.4'
 RSPS: '1.0'
 RSQL: 0.2.2
 RSQLServer: 0.3.0
-RSQLite: 2.3.9
+RSQLite: 2.3.10
 RSQLite.extfuns: 0.0.1
 RSSL: 0.9.7
 RSSOP: '1.1'
@@ -8338,6 +8338,7 @@ TDAvec: 0.1.41
 TDCM: 0.1.0
 TDCor: 0.1-2
 TDD: '0.4'
+TDIagree: 0.1.0
 TDLM: 1.1.1
 TDMR: '2.2'
 TDPanalysis: '1.0'
@@ -8818,6 +8819,7 @@ VIM: 6.2.2
 VIMGUI: 0.10.0
 VIMPS: '1.0'
 VIMean: 0.1.0
+VIProDesign: 0.1.0
 VIRF: 0.1.0
 VLF: 1.1-3
 VLMC: 1.4-4
@@ -9656,7 +9658,7 @@ archeofrag: 1.2.0
 archeofrag.gui: 1.1.0
 archetypal: 1.3.1
 archetyper: 0.1.0
-archetypes: 2.2-0.1
+archetypes: 2.2-0.2
 archiDART: '3.4'
 archive: 1.1.12
 archiveRetriever: 0.4.0
@@ -11409,6 +11411,7 @@ circacompare: 0.2.0
 circglmbayes: 1.3.0
 circhelp: '1.1'
 circle: 0.7.3
+circles: 0.1.0
 circlesplot: 1.1.0
 circletyper: 1.0.2
 circlize: 0.4.16
@@ -11633,6 +11636,7 @@ cmm: '1.0'
 cmmr: 1.0.3
 cmna: 1.0.5
 cmocean: 0.3-2
+cmpp: 0.0.1
 cmpprocess: '1.1'
 cmprsk: 2.2-12
 cmprskContin: '1.7'
@@ -11754,6 +11758,7 @@ coloc: 5.2.3
 colocPropTest: 0.9.1
 colocalization: 1.0.2
 colocalized: 0.2.0
+colocboost: 1.0.4
 colocr: 0.1.1
 colorBlindness: 0.1.9
 colorDF: 0.1.7
@@ -16346,7 +16351,7 @@ growR: 1.3.0
 growcurves: 0.2.4.1
 growfunctions: '0.16'
 growth: 1.1.1
-growthPheno: 3.1.11
+growthPheno: 3.1.12
 growthcleanr: 2.2.0
 growthcurver: 0.3.1
 growthmodels: 1.3.1
@@ -17066,6 +17071,7 @@ ibawds: 1.1.0
 ibb: 0.0.2
 ibd: '1.6'
 ibdreg: 0.3.8
+ibdsegments: 1.0.1
 ibdsim2: 2.2.0
 ibeemd: 1.0.1
 ibelief: 1.3.1
@@ -17429,6 +17435,7 @@ interpolators: 1.0.1
 interpret: 0.1.34
 interpretCI: 0.1.1
 interpretR: 0.2.5
+interprocess: 1.0.0
 inters: 0.2.0
 interval: 1.1-1.0
 intervalaverage: 0.8.0
@@ -18063,6 +18070,7 @@ lactater: 0.2.0
 lactcurves: 1.1.0
 lacunaritycovariance: 1.1-7
 lacunr: 1.0.1
+ladder: 0.0.1
 laeken: 0.5.3
 laercio: 1.0-1
 lagged: 0.3.2
@@ -19789,7 +19797,7 @@ modelObj: '4.2'
 modelROC: '1.0'
 modelSSE: 0.1-3
 modelStudio: 3.1.2
-modelbased: 0.10.0
+modelbased: 0.11.0
 modelbpp: 0.1.5
 modelc: 1.0.0.0
 modelcf: 2.1.1
@@ -23997,7 +24005,7 @@ rewie: 0.1.0
 rex: 1.2.1
 rexer: 1.0.0
 rexpokit: 0.26.6.14
-rextendr: 0.3.1
+rextendr: 0.4.0
 rfPermute: 2.5.4
 rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.3
@@ -27450,6 +27458,7 @@ tgcd: '2.7'
 tggd: 0.1.3
 tglkmeans: 0.5.5
 tglm: '1.0'
+tgml: 0.1.0
 tgp: 2.4-23
 tgram: 0.2-4
 tgstat: 2.3.28
@@ -27846,6 +27855,7 @@ trackter: 0.1.1
 tractor.base: 3.4.2
 trade: 0.8.1
 tradeCosts: 0.3-1
+tradeoffaucdim: 0.1.0
 tradepolicy: 0.7.0
 tradestatistics: 5.0.0
 trafo: 1.0.1
