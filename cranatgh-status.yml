@@ -294,7 +294,7 @@ AnalyzeTS: '2.3'
 AnanseSeurat: 1.2.0
 AncestryMapper: '2.0'
 AnchorRegression: 0.1.3
-Andromeda: 0.6.7
+Andromeda: 1.0.0
 AnglerCreelSurveySimulation: 1.0.3
 Animal: '1.04'
 AnimalAPD: 1.0.0
@@ -1474,7 +1474,7 @@ ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
 Compositional: '7.3'
 CompositionalML: '1.0'
-CompositionalRF: '1.0'
+CompositionalRF: '1.1'
 CompoundEvents: 0.3.0
 Compounding: 1.0.2
 ComradesM: 0.1.1
@@ -5233,7 +5233,7 @@ NlinTS: 1.4.5
 NlsyLinks: 2.2.2
 Nmisc: 0.3.7
 Nmix: 2.0.5
-NobBS: 1.0.0
+NobBS: 1.1.0
 NoiseFiltersR: 0.1.0
 NominalLogisticBiplot: '0.2'
 NonCompart: 0.7.0
@@ -11148,7 +11148,7 @@ ccboost: 0.1-1.3
 cccd: '1.6'
 cccm: 0.1.0
 cccp: 0.3-1
-cccrm: 3.0.4
+cccrm: 3.0.5
 ccdR: 1.1.0
 ccda: 1.1.1
 ccdf: 1.1.4
@@ -11509,7 +11509,7 @@ clickstream: 1.3.3
 clidamonger: 1.3.0
 clidatajp: 0.5.2
 cliff: 0.1.2
-clifford: 1.1-0
+clifford: 1.1-1
 clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-10
@@ -13272,7 +13272,7 @@ doc2vec: 0.2.0
 docdescriptR: 2020.1.0
 docinfeR: 2020.1.0
 docker: 0.0.2
-dockerfiler: 0.2.4
+dockerfiler: 0.2.5
 docket: '1.33'
 docknitr: 1.0.1
 dockr: 0.8.6
@@ -13379,7 +13379,7 @@ dreamer: 3.2.0
 dreamerr: 1.5.0
 drf: 1.1.0
 drfit: 0.7.2
-drgee: 1.1.10
+drgee: 1.1.10-3
 drglm: '1.1'
 drhur: 1.1.0
 drhutools: 1.0.0
@@ -13631,7 +13631,7 @@ ebal: 0.1-8
 ebci: 1.0.0
 ebdbNet: 1.2.8
 ebimetagenomics: '0.6'
-ebirdst: 3.2022.3
+ebirdst: 3.2023.0
 ebm: 0.1.0
 ebmc: 1.0.1
 ebmstate: 0.1.5
@@ -14198,7 +14198,7 @@ evoper: 0.5.0
 evora: '1.0'
 evprof: 1.1.2
 evreg: 1.1.1
-evsim: 1.6.0
+evsim: 1.6.1
 evt0: 1.1.5
 evtclass: '1.0'
 evtree: 1.0-8
@@ -15629,7 +15629,7 @@ geotoolsR: 1.2.1
 geotopbricks: 1.5.9.1
 geouy: 0.2.8
 geoviz: 0.2.2
-geovol: '1.0'
+geovol: '1.1'
 geozoning: 1.0.0
 geozoo: 0.5.1
 gepaf: 0.2.0
@@ -18010,7 +18010,7 @@ kofdata: 0.2.1
 kofnGA: '1.3'
 kohonen: 3.0.12
 kokudosuuchi: 1.0.0
-kollaR: 1.0.4
+kollaR: 1.1.0
 kolmim: '1.0'
 komadown: 0.2.0
 komaletter: 0.5.0
@@ -21400,7 +21400,7 @@ pTITAN2: 1.0.2
 pa: 1.2-4
 paar: 1.0.1
 pacbpred: 0.92.2
-pack: 0.1-1
+pack: 0.1-2
 packClassic: 0.5.2
 packDAMipd: 1.1.0
 packHV: '2.4'
@@ -21767,7 +21767,7 @@ pedigreemm: 0.3-5
 pedmod: 0.2.4
 pedmut: 0.9.0
 pedometrics: 0.12.1
-pedprobr: 1.0.0
+pedprobr: 1.0.1
 pedquant: 0.2.4
 pedsuite: 1.3.1
 pedtools: 2.8.1
@@ -23384,6 +23384,7 @@ randomForestExplainer: 0.10.1
 randomForestSRC: 3.3.3
 randomForestVIP: 0.1.3
 randomGLM: 1.10-1
+randomGODB: '1.0'
 randomLCA: 1.1-4
 randomMachines: 0.1.0
 randomNames: 1.6-0.0
@@ -24887,7 +24888,7 @@ sae: '1.3'
 sae.projection: 0.1.3
 sae.prop: 0.1.2
 sae2: 1.2-1
-sae4health: 1.2.2
+sae4health: 1.2.3
 saeBest: 0.1.0
 saeHB: 0.2.2
 saeHB.ME: 1.0.1
@@ -25956,7 +25957,7 @@ sma: 0.5.15
 smaa: 0.3-3
 smac: '1.0'
 smacof: 2.1-7
-smacofx: 1.6-1
+smacofx: 1.20-1
 smacpod: 2.6.4
 smallarea: '0.1'
 smallsets: 2.0.0
@@ -27061,7 +27062,7 @@ svdvisual: '1.1'
 svenssonm: 0.1.0
 svgPanZoom: 0.3.4
 svgViewR: 1.4.3
-svglite: 2.1.3
+svglite: 2.2.0
 svgtools: 1.1.2
 svines: 0.2.4
 svmadmm: '0.3'
@@ -27702,7 +27703,7 @@ tint: 0.1.5
 tinter: 0.1.0
 tintin: '0.2'
 tinyProject: 0.6.1
-tinyVAST: 1.1.0
+tinyVAST: 1.1.1
 tinyarray: 2.4.3
 tinycodet: 0.5.6
 tinylabels: 0.2.5
