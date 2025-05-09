@@ -1751,6 +1751,7 @@ DICOMread: 0.0.0.3
 DIDHAD: 1.0.1
 DIDmultiplegt: 2.0.0
 DIDmultiplegtDYN: 2.1.2
+DIETCOST: 1.0.0.0
 DIFM: '1.0'
 DIFboost: '0.3'
 DIFlasso: 1.0-4
@@ -2895,7 +2896,7 @@ GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
 GGIR: 3.2-6
-GGIRread: 1.0.4
+GGIRread: 1.0.5
 GGMM: 1.0.1
 GGMncv: 2.1.1
 GGMnonreg: 1.0.0
@@ -4666,6 +4667,7 @@ MVPARTwrap: 0.1-9.2
 MVPBT: 1.2-1
 MVQuickGraphs: 0.1.2
 MVR: 1.33.0
+MVSKmod: 0.1.0
 MVT: 0.3-81
 MVTests: 2.2.2
 MVar: 2.2.7
@@ -8363,7 +8365,7 @@ TE: 0.3-0
 TEAM: 0.1.0
 TED: 1.1.1
 TEEReg: '1.1'
-TELP: 1.0.2
+TELP: 1.0.3
 TEQR: 6.0-0
 TERAplusB: '1.0'
 TESS: 2.1.2
@@ -16140,7 +16142,7 @@ goat: 1.1.2
 godley: 0.2.2
 goeveg: 0.7.5
 gof: 1.0.1
-gofCopula: 0.4-1
+gofCopula: 0.4-2
 gofIG: '1.0'
 gofMC: 1.1.2
 gofar: '0.1'
@@ -20548,7 +20550,7 @@ networkR: 0.1.2
 networkTomography: '0.3'
 networkreporting: 0.1.1
 networkscaleup: 0.1-2
-networksem: '0.3'
+networksem: '0.4'
 networksis: 2.1-3
 networktools: 1.6.0
 networktree: 1.0.1
@@ -21500,7 +21502,7 @@ pandoc: 0.2.0
 pandocfilters: 0.1-6
 panel: 1.0.7
 panelAR: '0.1'
-panelPomp: 1.6.0.0
+panelPomp: 1.7.0.0
 panelSUR: 0.1.0
 panelView: 1.1.18
 panelWranglR: 1.2.13
@@ -22098,6 +22100,7 @@ pkgdepR: 1.1.1
 pkgdepends: 0.8.0
 pkgdiff: 0.2.0
 pkgdown: 2.1.2
+pkgdown.offline: 0.1.0
 pkgfilecache: 0.1.5
 pkggraph: 0.2.3
 pkglite: 0.2.4
@@ -22357,7 +22360,7 @@ pomcheckr: 0.1.1
 pomdp: 1.2.4
 pomdpSolve: 1.0.4
 pomodoro: 3.8.0
-pomp: '6.2'
+pomp: '6.3'
 pompom: 0.2.1
 pompp: 0.1.3
 poobly: 0.1.1
@@ -25320,6 +25323,7 @@ seleniumPipes: 0.3.7
 selfea: 1.0.1
 selfingTree: '0.2'
 selfmade: '0.1'
+seliNDRIx: 0.1.2
 sem: 3.1-16
 semEff: 0.7.2
 semGOF: 0.2-0
@@ -28057,6 +28061,7 @@ trundler: 0.1.19
 trust: 0.1-8
 trustOptim: 0.8.7.3
 trustedtimestamping: 0.2.6
+trustmebro: 1.0.0
 truthiness: 1.2.5
 tryCatchLog: 1.3.1
 tryr: 0.1.1
@@ -28476,7 +28481,7 @@ vardiag: 0.2-1
 vardpoor: 0.20.1
 varhandle: 2.0.6
 variability: 0.1.0
-variables: 1.1-1
+variables: 1.1-2
 varian: 0.2.2
 variantspark: 0.1.1
 variationalDCM: 2.0.1
