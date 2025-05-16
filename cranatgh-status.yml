@@ -354,6 +354,7 @@ AsymmetricSORDs: 1.0.0
 AsynchLong: '2.4'
 AteMeVs: 0.1.0
 AtelieR: '0.24'
+Athlytics: 0.1.2
 AtlasMaker: 0.1.0
 AtmChile: 1.0.4
 AtmRay: '1.31'
@@ -1470,7 +1471,7 @@ ComparisonCR: 1.0.4
 ComparisonSurv: 1.1.1
 CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
-Compind: '3.3'
+Compind: '3.4'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
@@ -3677,7 +3678,7 @@ ISO11784Tools: 1.2.0
 ISOcodes: 2024.02.12
 ISOpureR: 1.1.3
 ISOweek: 0.6-2
-ISR: 2025.01.14
+ISR: 2025.5.16
 ISR3: '0.98'
 ISRaD: 2.5.5
 ISS: 1.0.0
@@ -5644,7 +5645,7 @@ POSSA: 0.6.4
 POSTm: '1.4'
 POSetR: 1.1.4
 POT: 1.1-11
-POUMM: 2.1.7
+POUMM: 2.1.8
 POV: 0.1.4
 PP: 0.6.3-11
 PP3: '1.2'
@@ -8379,7 +8380,7 @@ TERAplusB: '1.0'
 TESS: 2.1.2
 TExPosition: 2.9.0
 TFDEA: 0.9.8.3
-TFM: 0.3.0
+TFM: 0.4.0
 TFMPvalue: 0.0.9
 TFRE: 0.1.0
 TFX: 0.1.0
@@ -10535,6 +10536,7 @@ birdnik: 0.1.1
 birdring: '1.6'
 birdscanR: 0.3.0
 birk: 2.1.2
+birp: 0.0.3
 birtr: 1.0.0
 biscale: 1.0.0
 bise: '1.0'
@@ -10944,7 +10946,7 @@ cOde: 1.1.1
 cPCG: '1.0'
 cPseudoMaRg: 1.0.1
 cRegulome: 0.3.2
-cSEM: 0.6.0
+cSEM: 0.6.1
 cSFM: '1.1'
 cTMed: 1.0.6
 cTOST: 1.0.1
@@ -12915,6 +12917,7 @@ densitr: '0.2'
 densityClust: 0.3.3
 densityarea: 0.1.0
 densratio: 0.2.1
+denstest: 1.0.0
 denstrip: 1.5.5
 denvax: 0.1.2
 depCensoring: 0.1.7
@@ -14533,6 +14536,7 @@ fastcox: 1.1.4
 fastcpd: 0.16.2
 fastdid: 1.0.3
 fastdigest: 0.6-4
+fastei: 0.0.0.4
 fasterElasticNet: 1.1.2
 fasterRaster: 8.4.0.7
 fasteraster: 1.1.1
@@ -14956,7 +14960,7 @@ foodquotient: 0.1.1
 foodweb: 1-0
 foodwebWrapper: 1.1.0
 foolbox: 0.1.1
-footBayes: 1.0.0
+footBayes: 2.0.0
 footballpenaltiesBL: 1.0.0
 footprint: '0.2'
 foqat: 2.0.8.2
@@ -15949,6 +15953,7 @@ ggthemes: 5.1.0
 ggtibble: 1.0.1
 ggtikz: 0.1.3
 ggtrace: 0.2.0
+ggtreebar: 0.1.0
 ggtrendline: 1.0.3
 ggtricks: 0.1.0
 ggupset: 0.4.1
@@ -15977,6 +15982,7 @@ giacR: 1.0.1
 gibasa: 1.1.2
 gibble: 0.4.0
 gibbs.met: 1.1-3
+gicf: '1.0'
 gie: 0.1.3
 giedata: 0.1.1
 gif: 0.1.1
@@ -19707,7 +19713,7 @@ mlmtools: 1.0.2
 mlmts: 1.1.2
 mlogit: 1.1-2
 mlogitBMA: 0.1-9
-mlpack: 4.6.0
+mlpack: 4.6.1
 mlpwr: 1.1.1
 mlquantify: 0.2.0
 mlr: 2.19.2
@@ -23482,6 +23488,7 @@ rarms: 1.0.0
 rasciidoc: 4.1.1
 rasclass: 0.2.2
 rase: 0.3-3
+rashnu: 0.1.0
 rassta: 1.0.6
 raster: 3.6-32
 rasterDT: 0.3.2
@@ -23592,6 +23599,7 @@ rccola: 1.0.2
 rcdd: '1.6'
 rcdk: 3.8.1
 rcdklibs: '2.9'
+rcdo: 0.2.0
 rcens: 0.1.1
 rchallenge: 1.3.4
 rchemo: 0.1-3
@@ -25998,7 +26006,7 @@ smacofx: 1.20-1
 smacpod: 2.6.4
 smallarea: '0.1'
 smallsets: 2.0.0
-smallstuff: 1.0.3
+smallstuff: 1.0.5
 smam: 0.7.2
 smapr: 0.2.1
 smart: 1.0.1
@@ -28538,6 +28546,7 @@ vbsr: 0.0.5
 vcPB: 1.1.1
 vccp: 0.1.1
 vcd: 1.4-13
+vcd2df: 1.0.1
 vcdExtra: 0.8-5
 vcf2geno: '2.3'
 vcfR: 1.15.0
@@ -29012,7 +29021,7 @@ wombsoft: '2.0'
 woodValuationDE: 1.0.2
 woodendesc: 0.1.0
 wooldridge: 1.4-4
-worcs: 0.1.17
+worcs: 0.1.18
 word.alignment: '1.1'
 word2vec: 0.4.0
 wordPuzzleR: 0.1.1
