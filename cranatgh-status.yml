@@ -712,6 +712,7 @@ BayesQTLBIC: 1.0-2
 BayesQVGEL: 0.1.1
 BayesRGMM: '2.2'
 BayesRS: 0.1.3
+BayesRegDTR: 1.0.1
 BayesRep: 0.42.2
 BayesRepDesign: '0.42'
 BayesReversePLLH: '1.5'
@@ -1366,6 +1367,7 @@ ClimDown: 1.0.8
 ClimInd: 0.1-3
 ClimMobTools: '1.5'
 ClimProjDiags: 0.3.3
+ClimaRep: '0.6'
 ClinReport: 0.9.1.14
 ClinSigMeasures: '1.2'
 ClinTrialPredict: 0.0.4
@@ -2074,7 +2076,7 @@ Distance: 2.0.0
 DistatisR: 1.1.1
 Distributacalcul: 0.4.0
 DistributionFitR: '0.1'
-DistributionIV: 0.1.0
+DistributionIV: 0.1.2
 DistributionOptimization: 1.2.6
 DistributionTest: '1.1'
 DistributionUtils: 0.6-2
@@ -10014,6 +10016,7 @@ avilistr: 0.0.1
 avlm: 0.1.0
 avocado: 0.2.0
 avotrex: 1.3.0
+avseqmc: 1.0.1
 awdb: 0.1.2
 aweSOM: '1.3'
 aweek: 1.0.3
@@ -11575,7 +11578,7 @@ clValid: '0.7'
 clac: 0.1-1
 cladoRcpp: 0.15.1
 clam: 2.6.2
-clampSeg: 1.1-1
+clampSeg: 1.2-0
 clap: 0.1.0
 clarabel: 0.10.1
 clarifai: 0.4.2
@@ -14743,7 +14746,7 @@ fdaoutlier: 0.2.1
 fdapace: 0.6.0
 fdapaceShiny: 1.0.5
 fdarep: 0.1.1
-fdasrvf: 2.3.6
+fdasrvf: 2.4.0
 fdatest: 2.1.1
 fdcov: 1.1.0
 fddm: 1.0-2
@@ -26281,6 +26284,7 @@ sms: 2.3.1
 smss: 1.0-2
 smurf: 1.1.7
 smvgraph: 0.1.2
+smvr: 0.1.0
 sn: 2.1.1
 snQTL: '0.2'
 snSMART: 0.2.4
