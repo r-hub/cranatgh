@@ -5622,6 +5622,7 @@ PEtests: 0.1.0
 PF: '9.5'
 PFIM: '7.0'
 PFLR: 1.1.0
+PFW: 0.1.0
 PGEE: '1.5'
 PGICA: '1.0'
 PGM2: '1.2'
@@ -11175,6 +11176,7 @@ caretEnsemble: 4.0.1
 caretForecast: 0.1.1
 caretLSF: '1.25'
 caretNWS: '0.25'
+caretSDM: 1.1.0
 carfima: 2.0.2
 cargo: 0.4.9
 caribou: 1.1-1
@@ -12172,6 +12174,7 @@ copas: 0.8-0
 copcor: 2024.7-31
 cope: 0.2.3
 copent: '0.5'
+copernicusR: 0.1.0
 cophescan: 1.4.1
 coppeCosenzaR: 0.1.3
 copre: 0.2.1
@@ -14308,6 +14311,7 @@ etrm: 1.0.1
 etrunct: '0.1'
 etseed: 0.1.0
 etwfe: 0.5.0
+eudata: 0.1.2
 eudract: 1.0.4
 eufmdis.adapt: 0.1.0
 eulerian: '1.0'
@@ -15065,6 +15069,7 @@ fluspect: 1.0.0
 flux: 0.3-0.1
 fluxfinder: 1.1.0
 fluxible: 1.2.6
+fluxtools: 0.3.0
 fluxweb: 2.0.1
 flying: 0.1.3
 flyio: 0.1.4
@@ -15967,6 +15972,7 @@ ggfoundry: 0.3.1
 ggfun: 0.1.9
 ggfx: 1.0.1
 gggap: 1.0.1
+gggda: 0.1.0
 gggenes: 0.5.1
 gggenomes: 1.0.1
 ggghost: 0.2.3
@@ -16563,6 +16569,7 @@ groupedHyperframe: 0.2.4
 groupedHyperframe.random: 0.1.0
 groupedSurv: 1.0.5.1
 groupedstats: 2.1.0
+grouper: 0.3.1
 groupr: 0.1.2
 grouprar: 0.1.0
 groupsubsetselection: 1.0.3
@@ -21128,6 +21135,7 @@ nptest: '1.1'
 npwbs: 0.2.0
 nrba: 0.3.1
 nricens: '1.6'
+nrlR: 0.1.0
 nsRFA: 0.7-17
 nsROC: '1.1'
 nsapi: 0.1.1
@@ -24221,6 +24229,7 @@ reproducibleRchunks: 1.1.0
 reproj: 0.7.0
 repsd: 1.0.1
 reptiledb.data: 0.0.0.1
+reptiledbr: 0.0.1
 repurrrsive: 1.1.0
 reqres: 0.2.5
 request: 0.1.0
@@ -26135,6 +26144,7 @@ simukde: 1.3.0
 simul: 0.1.1
 simulMGF: 0.1.1
 simulariatools: 2.5.1
+simulateDCE: 0.3.0
 simulator: 0.2.5
 simule: 1.3.0
 simulist: 0.5.0
