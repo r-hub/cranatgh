@@ -1494,7 +1494,7 @@ ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
 Compositional: '7.6'
 CompositionalML: '1.0'
-CompositionalRF: '1.2'
+CompositionalRF: '1.3'
 CompoundEvents: 0.3.0
 Compounding: 1.0.2
 ComradesM: 0.1.1
@@ -6321,6 +6321,7 @@ RBGL: 1.28.0
 RBMRB: 2.1.7
 RBNZ: 1.1.0
 RBPcurve: '1.3'
+RBaM: 1.0.1
 RBaseX: 1.1.2
 RBerkeley: 0.7-5
 RBesT: 1.8-2
@@ -10818,6 +10819,7 @@ bootES: 1.3.1
 bootGOF: 0.1.0
 bootImpute: 1.2.2
 bootLR: 1.0.2
+bootLRTpairwise: 0.2.0
 bootPLS: 1.0.1
 bootRes: 1.2.4
 bootSVD: '1.2'
@@ -13441,7 +13443,7 @@ doc2concrete: 0.6.0
 doc2vec: 0.2.0
 docdescriptR: 2020.1.0
 docinfeR: 2020.1.0
-dockViewR: 0.1.0
+dockViewR: 0.2.0
 docker: 0.0.2
 dockerfiler: 0.2.5
 docket: '1.33'
@@ -13685,6 +13687,7 @@ dynOmics: '1.2'
 dynRB: '0.19'
 dynaSpec: 1.0.3
 dynaTree: 1.2-17
+dynafluxr: 1.0.1
 dynamAedes: 2.2.9
 dynamac: 0.1.12
 dynamic: 1.1.0
@@ -15427,6 +15430,7 @@ g.data: 2.4.1
 g.ridge: '1.0'
 g2f: '0.2'
 g3viz: 1.2.0
+g6R: 0.1.0
 gCat: '0.2'
 gDefrag: '0.3'
 gFormulaMI: 1.0.2
@@ -16128,6 +16132,7 @@ ggtibble: 1.0.2
 ggtikz: 0.1.3
 ggtime: 0.1.0
 ggtrace: 0.2.0
+ggtranslate: 0.1.0
 ggtreebar: 0.1.0
 ggtrendline: 1.0.3
 ggtricks: 0.1.0
@@ -17491,7 +17496,7 @@ impactflu: 0.1.0
 impactr: 0.4.2
 impimp: 0.3.1
 implicitExpansion: 0.1.0
-implicitMeasures: 0.2.1
+implicitMeasures: 0.3.0
 implied: '0.5'
 implyr: 0.5.0
 import: 1.3.2
@@ -22812,6 +22817,7 @@ predictmeans: 1.1.1
 predictoR: 4.1.5
 predictrace: 2.0.1
 predicts: 0.1-19
+predictsr: 0.1.0
 predieval: 0.1.1
 predint: 2.2.1
 predkmeans: 0.1.1
