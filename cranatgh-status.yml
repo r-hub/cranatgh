@@ -315,7 +315,7 @@ AntAngioCOOL: '1.2'
 AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 4.0.3
-Anthropometry: '1.19'
+Anthropometry: '1.20'
 AntibodyForests: 1.1.0
 AntibodyTiters: 0.1.24
 AnxietySleep: 0.0.1
@@ -908,7 +908,7 @@ Boptbd: 1.0.7
 Boruta: 9.0.0
 BosonSampling: 0.1.5
 BoundEdgeworth: 0.1.2.1
-BoundaryStats: 2.2.0
+BoundaryStats: 2.3.0
 BoutrosLab.plotting.general: 7.1.2
 BradleyTerry: 0.8-8
 BradleyTerry2: 1.1.3
@@ -2667,7 +2667,7 @@ FacPad: '3.0'
 FactMixtAnalysis: '1.0'
 FactoClass: 1.2.9
 FactoInvestigate: '1.9'
-FactoMineR: '2.11'
+FactoMineR: '2.12'
 FactoRizationMachines: '0.35'
 FactorAssumptions: 2.0.1
 FactorCopula: 0.9.3
@@ -6279,7 +6279,7 @@ R2PPT: 2.2.0
 R2ROC: 1.0.1
 R2STATS: 0.68-39
 R2SWF: 0.9-9
-R2WinBUGS: 2.1-22.1
+R2WinBUGS: 2.1-23
 R2admb: 0.7.16.3
 R2jags: 0.8-9
 R2sample: 4.1.0
@@ -7980,7 +7980,7 @@ SensIAT: 0.1.1
 SensMap: '0.7'
 SensMixed: 2.1-0
 SensitivityCaseControl: '2.2'
-SensoMineR: '1.27'
+SensoMineR: '1.28'
 SensusR: 2.3.1
 SentimentAnalysis: 1.3-5
 SeqAlignR: 0.1.1
@@ -8721,7 +8721,7 @@ TideHarmonics: 0.1-1
 TideTables: 0.0.3
 Tides: '2.1'
 TidyConsultant: 0.1.1
-TidyDensity: 1.5.0
+TidyDensity: 1.5.1
 TidyMultiqc: 1.0.3
 TileManager: 0.4.1
 TilePlot: 1.3.1
@@ -9141,7 +9141,7 @@ WgtEff: 0.1.2
 WhatIf: 1.5-10
 WhatsR: 1.0.6
 WhiteLabRt: 1.0.1
-WhiteStripe: 2.4.3
+WhiteStripe: 2.5.0
 WhopGenome: 0.9.7
 WiSEBoot: 1.4.0
 WideLM: 0.1-1
@@ -10659,7 +10659,7 @@ bioseq: 0.1.4
 bioset: 0.2.3
 biosignalEMG: 2.1.0
 biospear: 1.0.2
-biostat3: 0.2.2
+biostat3: 0.2.3
 biostats101: 0.1.1
 biosurvey: 0.1.1
 biotic: 0.1.2
@@ -14086,7 +14086,7 @@ embed: 1.1.5
 embryogrowth: '10.2'
 emcAdr: '1.2'
 emdatr: '0.3'
-emdbook: 1.3.13
+emdbook: 1.3.14
 emdi: 2.2.2
 emdist: 0.3-3
 emend: 0.1.0
@@ -19551,7 +19551,7 @@ met: 0.1.0
 metR: 0.18.1
 metRology: 0.9-29-2
 metScanR: 1.2.3
-meta: 8.1-0
+meta: 8.2-0
 meta.shrinkage: 0.1.4
 meta4diag: 2.1.1
 metaBLUE: 1.0.0
@@ -19869,7 +19869,7 @@ missDeaths: '2.8'
 missDiag: 1.0.1
 missForest: '1.5'
 missForestPredict: 1.0.1
-missMDA: '1.19'
+missMDA: '1.20'
 missMethods: 0.4.0
 missRanger: 2.6.1
 missSBM: 1.0.5
@@ -20881,7 +20881,7 @@ neuralGAM: 1.1.1
 neuralnet: 1.44.2
 neuroSCC: 1.0.0
 neuroUp: 0.3.1
-neurobase: 1.32.4
+neurobase: 1.33.0
 neuroblastoma: 2023.9.3
 neurocInstall: 0.12.0
 neurohcp: 0.11.0
@@ -21023,7 +21023,7 @@ nlstac: 0.2.0
 nlstimedist: 2.0.0
 nlstools: 2.1-0
 nlt: 2.2-2
-nltm: 1.4.5
+nltm: 1.4.6
 nlts: 1.0-2
 nmaINLA: 1.1.0
 nmadb: 1.2.0
@@ -23675,7 +23675,7 @@ rTensor2: 2.0.0
 rTephra: '0.1'
 rTorch: 0.4.2
 rTwig: 1.4.0
-rUM: 2.1.0
+rUM: 2.2.0
 rUnemploymentData: 1.1.0
 rWBclimate: 0.1.3
 rWCVP: 1.2.4
@@ -24037,7 +24037,7 @@ reReg: 1.4.7
 react: 2024.1.0
 reactCheckbox: 1.0.0
 reactR: 0.6.1
-reactRouter: 0.1.0
+reactRouter: 0.1.1
 reactable: 0.4.4
 reactable.extras: 0.2.1
 reactablefmtr: 2.0.0
@@ -27733,7 +27733,7 @@ tcltk: 0.1-1
 tcltk2: 1.6.1
 tclust: 2.1-2
 tcpl: 3.3.0
-tcplfit2: 0.1.8
+tcplfit2: 0.1.9
 tcsinvest: 0.1.1
 tcxr: 0.1.0
 td: 0.0.6
