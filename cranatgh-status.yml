@@ -169,7 +169,7 @@ ARTP2: 0.9.45
 ARTofR: 0.4.1
 ARTool: 0.11.2
 ARTtransfer: 1.0.0
-ARUtools: 0.7.2
+ARUtools: 0.7.3
 ARpLMEC: 2.4.1
 ASGS.foyer: 0.3.3
 ASICS: 1.0.1
@@ -249,6 +249,7 @@ AdverseEvents: 0.0.4
 AeRobiology: 2.0.1
 Aelasticnet: 2.13.1
 AeroSampleR: 0.2.0
+AgeBandDecomposition: 1.0.1
 AgePopDenom: 1.2.3
 AggregateR: 0.1.1
 Agreement: 0.8-1
@@ -751,6 +752,7 @@ BayesianFROC: 1.0.0
 BayesianFactorZoo: 0.0.0.3
 BayesianFitForecast: 1.0.0
 BayesianGLasso: 0.2.0
+BayesianLasso: 0.3.5
 BayesianLaterality: 0.1.2
 BayesianMCPMod: 1.1.0
 BayesianMediationA: 1.0.1
@@ -893,7 +895,7 @@ Bolstad2: 1.0-29
 BoltzMM: 0.1.5
 BonEV: '1.0'
 BondValuation: 0.1.1
-BoneDensityMapping: 0.1.1
+BoneDensityMapping: 0.1.2
 BoneProfileR: '4.0'
 BoolFilter: 1.0.0
 BoolNet: 2.1.9
@@ -6283,7 +6285,7 @@ R2G2: 1.0-2
 R2GUESS: '2.0'
 R2HTML: 2.3.4
 R2MLwiN: 0.8-9
-R2OpenBUGS: 3.2-3.2.1
+R2OpenBUGS: 3.2-4
 R2PPT: 2.2.0
 R2ROC: 1.0.1
 R2STATS: 0.68-39
@@ -6583,6 +6585,7 @@ RMBC: 0.1.0
 RMC: '0.2'
 RMCC: 0.1.1
 RMCDA: '0.3'
+RMCLab: 0.1.0
 RMCriteria: 0.2.0
 RMETAR: '1.0'
 RMFM: 1.1.0
@@ -9815,7 +9818,7 @@ aratio: '1.2'
 arc: 1.4.2
 arcgeocoder: 0.2.1
 arcgis: 0.2.0
-arcgisgeocode: 0.2.3
+arcgisgeocode: 0.3.0
 arcgislayers: 0.4.0
 arcgisplaces: 0.1.2
 arcgisutils: 0.3.3
@@ -11914,7 +11917,7 @@ codebreaker: 1.0.1
 codecountR: 0.0.4.8
 codelist: 0.1.0
 codemeta: 0.1.1
-codemetar: 0.3.5
+codemetar: 0.3.6
 codename: 0.5.0
 codep: 1.2-4
 coder: 0.13.10
@@ -14317,7 +14320,7 @@ ergmito: 0.3-1
 erhcv: 0.1.4
 erify: 0.6.0
 ern: 2.1.2
-ernm: 1.0.1
+ernm: 1.0.2
 erp.easy: 1.1.0
 erpR: 0.2.0
 err: 0.2.0
@@ -16020,6 +16023,7 @@ ggcleveland: 0.1.0
 ggcolpairs: 0.2.4
 ggcompare: 0.0.3
 ggconf: 0.1.3
+ggcorrheatmap: 0.1.2
 ggcorrplot: 0.1.4.1
 ggcorset: 0.5.0
 ggcoverage: 0.7.1
@@ -16129,6 +16133,7 @@ ggperiodic: 1.0.3
 ggpicrust2: 2.3.2
 ggpie: 0.2.5
 ggplate: 0.1.5
+ggplayfair: 0.1.1
 ggplot: 0.4.2
 ggplot.multistats: 1.0.1
 ggplot2: 3.5.2
@@ -18477,7 +18482,7 @@ latexpdf: 0.1.8
 latrend: 1.6.2
 latte: 0.2.2
 lattice: 0.22-7
-latticeDensity: 1.2.6
+latticeDensity: 1.2.7
 latticeExtra: 0.6-30
 latticedl: '1.2'
 latticist: 0.9-44
@@ -19182,6 +19187,7 @@ manipulate: 1.0.1
 manipulateWidget: 0.11.1
 manta: 1.0.1
 mantar: 0.1.0
+mantis: 0.4.2
 manydata: 1.0.3
 manydist: 0.4.8
 manymodelr: 0.3.9
@@ -19254,6 +19260,7 @@ marginalRisk: 2021.1-7
 marginaleffects: 0.28.0
 marginalizedRisk: 2024.5-17
 marginalmodelplots: 0.4.2
+marginme: 0.1.0
 margins: 0.3.28
 marima: '2.2'
 marindicators: 1.0.0
@@ -19562,6 +19569,7 @@ mermboost: 0.1.1
 merror: '3.0'
 meshed: 0.2.3
 meshsimp: 0.1.1
+mesonet: 0.0.1
 messaging: 0.1.0
 messi: 0.1.2
 messy: 0.1.0
@@ -20337,6 +20345,7 @@ mpwR: 0.1.5.1
 mr: '0.1'
 mr.pivw: 0.1.1
 mr.raps: '0.2'
+mrIML: 2.1.0
 mrMLM: 5.0.1
 mrMLM.GUI: 4.0.2
 mra: 2.16.11
@@ -29046,6 +29055,7 @@ vetr: 0.2.18
 vfcp: 1.4.0
 vfinputs: 0.1.0
 vfprogression: 0.7.1
+vfunc: '1.0'
 vglmer: 1.0.6
 vhcub: 1.0.0
 vhica: 0.2.8
