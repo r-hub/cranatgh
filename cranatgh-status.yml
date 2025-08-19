@@ -751,7 +751,7 @@ BayesfMRI: 0.10.1
 BayesianAnimalTracker: '1.2'
 BayesianFROC: 1.0.0
 BayesianFactorZoo: 0.0.0.3
-BayesianFitForecast: 1.0.0
+BayesianFitForecast: 1.1.0
 BayesianGLasso: 0.2.0
 BayesianLasso: 0.3.5
 BayesianLaterality: 0.1.2
@@ -1001,11 +1001,13 @@ CBPS: '0.23'
 CBRT: 0.1.1
 CBSr: 1.0.5
 CBT: '1.0'
+CBTF: 0.4.0
 CBnetworkMA: 0.1.0
 CC: '1.0'
 CCA: 1.2.2
 CCAGFA: 1.0.8
 CCAMLRGIS: 4.2.1
+CCI: 0.2.1
 CCM: '1.2'
 CCMMR: 0.2.1
 CCMnet: 0.0-3
@@ -3921,7 +3923,7 @@ JacobiEigen: 0.3-4
 Jacquard: 1.0.2
 JamendoR: 0.1.1
 Java: '0.54'
-JavaGD: 0.6-5
+JavaGD: 0.6-6
 Jaya: 1.0.3
 Jcvrisk: 0.1.2
 Jdmbs: '1.4'
@@ -4636,6 +4638,7 @@ MOEADr: 1.1.3
 MOFAT: '1.0'
 MOJOV: 1.0.1
 MOLHD: '0.2'
+MOM: 0.1.0
 MOODE: 1.1.0
 MOQA: 2.0.0
 MOSS: 0.2.2
@@ -5554,7 +5557,7 @@ OutlierDetection: 0.1.1
 OutliersLearn: 1.0.0
 OutliersO3: 0.6.3
 OutrankingTools: '1.0'
-OwenQ: 1.0.7
+OwenQ: 1.0.8
 OxSR: 1.0.1
 OxyBS: '1.5'
 P2C2M: 0.7.6
@@ -9763,6 +9766,7 @@ aopdata: 1.1.1
 aoristic: 1.1.1
 aorsf: 0.1.5
 aos: 0.1.0
+apLCMS: 6.8.3
 apTreeshape: 1.5-0.1
 apa: 0.3.4
 apaStyle: '0.5'
@@ -11250,7 +11254,7 @@ cartograflow: 1.0.5
 cartogram: 0.3.0
 cartogramR: 1.5-1
 cartographer: 0.2.1
-cartographr: 0.2.2
+cartographr: 0.2.3
 cartography: 3.1.5
 cartools: 0.1.0
 carx: 0.7.1
@@ -12148,6 +12152,7 @@ confReg: 0.1.3
 confSAM: '0.2'
 confcons: 0.3.1
 confidence: 1.1-3
+confidenceCurves: 0.1.0
 config: 0.3.2
 configr: 0.3.5
 configulaR: 0.1.1
@@ -12564,7 +12569,7 @@ crt2power: 1.2.1
 crtests: 0.2.1
 crul: 1.6.0
 crumble: 0.1.2
-crunch: 1.31.0
+crunch: 1.31.1
 crunchy: 0.3.3
 cruts: '1.1'
 crwbmetareg: '1.0'
@@ -13679,6 +13684,7 @@ dsmisc: 0.3.3
 dsmmR: 1.0.7
 dsmodels: 1.1.0
 dsos: 0.1.2
+dsp: 1.2.0
 dspline: 1.0.2
 dsr: 0.2.2
 dsrTest: 1.0.0
@@ -16045,6 +16051,7 @@ ggdaynight: 0.1.3
 ggdemetra: 0.2.9
 ggdendro: 0.2.0
 ggdensity: 1.0.0
+ggdiagram: 0.1.0
 ggdibbler: 0.1.0
 ggdist: 3.3.3
 ggdistribute: 1.0.3
@@ -17591,7 +17598,7 @@ immunarch: 0.9.1
 immunaut: 1.0.2
 immundata: 0.0.1
 immuneSIM: 0.8.7
-immunogenetr: 0.3.1
+immunogenetr: 1.0.0
 imola: 0.5.0
 imp4p: '1.2'
 impactflu: 0.1.0
@@ -17822,6 +17829,8 @@ invertiforms: 0.1.2
 investr: 1.4.2
 invgamma: '1.2'
 invgamstochvol: 1.0.0
+invitroTKdata: 0.0.1
+invitroTKstats: 0.0.13
 invivoPKfit: 2.0.1
 io: 0.3.2
 ioanalysis: 0.3.4
@@ -19616,6 +19625,7 @@ metaRNASeq: 1.0.8
 metaRange: 1.1.4
 metaSDTreg: 0.2.2
 metaSEM: 1.5.0
+metaSVR: 0.1.0
 metaSurvival: 0.1.0
 metabias: 0.1.1
 metaboData: 0.6.3
@@ -21958,7 +21968,7 @@ parsedate: 1.3.2
 parsel: 0.3.0
 parsemsf: 0.1.1
 parser: '0.1'
-parsermd: 0.1.3
+parsermd: 0.2.0
 parsetools: 0.1.3
 parsnip: 1.3.2
 parspatstat: 0.1-4
@@ -22516,7 +22526,7 @@ plac: 0.1.3
 placement: 0.1.1
 placer: 0.1.3
 places: 0.1.1
-plainview: 0.2.1
+plainview: 0.2.2
 plan: 0.4-5
 planar: '1.6'
 planets: 0.1.0
@@ -24169,7 +24179,7 @@ recipes: 1.3.1
 reclin: 0.1.2
 reclin2: 0.5.0
 recluster: '2.9'
-recmap: 1.0.17
+recmap: 1.0.20
 recmetrics: 0.1.0
 recodeflow: 0.1.0
 recoder: 0.1.2
@@ -26490,7 +26500,7 @@ smsets: 1.2.3
 smss: 1.0-2
 smurf: 1.1.7
 smvgraph: 0.1.2
-smvr: 0.2.0
+smvr: 0.2.1
 sn: 2.1.1
 snQTL: '0.2'
 snSMART: 0.2.4
