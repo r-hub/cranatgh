@@ -1253,7 +1253,7 @@ CVrisk: 1.1.1
 CWT: 0.2.1
 CaDENCE: 1.2.5
 CaPO4Sim: 0.2.1
-Cairo: 1.6-2
+Cairo: 1.6-5
 CalSim: 0.5.4
 CalcThemAll.PRM: 1.1.1
 CalciOMatic: 1.1-3
@@ -1311,7 +1311,7 @@ CepLDA: 1.0.0
 CerioliOutlierDetection: 1.1.15
 Certara.DarwinReporter: 2.0.1
 Certara.ModelResults: 3.0.1
-Certara.NLME8: 3.0.1
+Certara.NLME8: 3.0.2
 Certara.R: 1.1.0
 Certara.RDarwin: 1.1.1
 Certara.RsNLME: 3.0.1
@@ -4125,7 +4125,7 @@ LMD: 1.0.0
 LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.2.1
-LMMsolver: 1.0.10
+LMMsolver: 1.0.11
 LMMstar: 1.1.0
 LMN: 1.1.3
 LMPdata: 0.2.0
@@ -5217,7 +5217,7 @@ NMproject: 0.6.9
 NMsim: 0.2.4
 NNLM: 0.4.3
 NNMIS: 1.0.1
-NNS: 11.4.1
+NNS: '11.5'
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.8.7
@@ -5500,7 +5500,7 @@ OpenLand: 1.0.3
 OpenML: '1.12'
 OpenMPController: 0.2-5
 OpenMindat: 1.0.1
-OpenMx: 2.22.7
+OpenMx: 2.22.9
 OpenRange: 0.0.1
 OpenRepGrid: 0.1.18
 OpenRepGrid.ic: 0.6.2
@@ -7053,7 +7053,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.10
 RcppAlgos: 2.9.3
 RcppAnnoy: 0.0.22
-RcppArmadillo: 14.6.0-1
+RcppArmadillo: 14.6.3-1
 RcppArray: 0.3.0
 RcppBDT: 0.2.7
 RcppBessel: 1.0.0
@@ -8017,7 +8017,7 @@ SeqMADE: '1.0'
 SeqNet: 1.1.3
 SequenceAnalysis: '1.3'
 SequenceSpikeSlab: 1.0.1
-Sequential: 4.3.4
+Sequential: '4.4'
 SequentialDesign: '1.0'
 SerolyzeR: 1.3.0
 SesIndexCreatoR: 1.0-2
@@ -10258,7 +10258,7 @@ batchmix: 2.2.1
 batchr: 0.0.2
 batchscr: 0.1.0
 batchtma: 0.1.6
-batchtools: 0.9.17
+batchtools: 0.9.18
 bate: 0.1.0
 batman: 0.1.0
 bats: 0.1-3
@@ -10552,7 +10552,7 @@ bigQueryR: 0.5.0
 bigRR: 1.3-10
 bigReg: 0.1.5
 bigSurvSGD: 0.0.1
-bigalgebra: 1.1.2
+bigalgebra: 2.0.0
 biganalytics: 1.1.22
 bigassertr: 0.1.7
 bigchess: 1.9.1
@@ -11008,7 +11008,7 @@ brr: 1.0.0
 brranching: 0.7.0
 brsim: '0.3'
 brt: 1.3.0
-bruceR: '2024.6'
+bruceR: '2025.8'
 brulee: 0.5.0
 bruneimap: 0.3.1
 brunnermunzel: '2.0'
@@ -12851,7 +12851,7 @@ dataMojo: 1.0.0
 dataPreparation: 1.1.1
 dataQualityR: '1.0'
 dataReporter: 1.0.5
-dataRetrieval: 2.7.20
+dataRetrieval: 2.7.21
 dataSDA: 0.1.2
 databraryr: 0.6.6
 datacheck: 1.2.2
@@ -16876,7 +16876,7 @@ happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
 harbinger: 1.2.727
-hardhat: 1.4.1
+hardhat: 1.4.2
 harmonicmeanp: 3.0.1
 harmonizer: 0.3.2
 harmony: 1.2.3
@@ -18500,7 +18500,7 @@ latentcor: 2.0.1
 latentgraph: '1.1'
 latentnet: 2.11.0
 latentnetHRT: 0.7-18
-later: 1.4.2
+later: 1.4.3
 latex2exp: 0.9.6
 latexSymb: 1.0.0
 latexdiffr: 0.2.0
@@ -21059,7 +21059,7 @@ nlpembeds: 1.0.0
 nlpred: 1.0.1
 nlpsem: '0.3'
 nlr: 0.1-3
-nlraa: 1.9.7
+nlraa: 1.9.10
 nlreg: 1.2-4
 nlrq: 0.1-6
 nlrr: '0.1'
@@ -24033,7 +24033,7 @@ rcqp: '0.5'
 rcreds: 0.6.6
 rcrimeanalysis: 0.5.0
 rcrisp: 0.1.4
-rcrossref: 1.2.0
+rcrossref: 1.2.1
 rcrtan: 0.1.1
 rcrypt: 0.1.1
 rcss: '1.8'
@@ -24794,7 +24794,7 @@ roahd: 1.4.3
 rob: 0.1.0
 robCompositions: 2.4.1
 robFitConGraph: 0.4.1
-robStepSplitReg: 1.1.0
+robStepSplitReg: 2.0.0
 robber: 0.2.4
 robcat: 0.1.0
 robcbi: 1.1-4
@@ -27230,7 +27230,7 @@ stlARIMA: 0.1.0
 stlELM: 0.1.1
 stlTDNN: 0.1.0
 stlcsb: 0.1.2
-stlnpp: 0.4.0
+stlnpp: 0.5.0
 stlplus: 0.5.1
 stm: 1.3.7
 stmBrowser: '1.0'
@@ -27247,7 +27247,7 @@ stochcorr: 0.0.1
 stochmod: 1.2.1
 stochprofML: 2.0.3
 stochtree: 0.1.1
-stochvol: 3.2.6
+stochvol: 3.2.7
 stochvolTMB: 0.3.0
 stockAnalyst: 1.0.1
 stockPortfolio: '1.2'
@@ -27824,8 +27824,8 @@ teal.logger: 0.4.0
 teal.modules.clinical: 0.10.0
 teal.modules.general: 0.4.1
 teal.reporter: 0.5.0
-teal.slice: 0.6.0
-teal.transform: 0.6.0
+teal.slice: 0.7.0
+teal.transform: 0.7.0
 teal.widgets: 0.5.0
 tealeaves: 1.0.6.1
 teamcolors: 0.0.4
@@ -29596,7 +29596,7 @@ wyz.code.testthat: 1.1.20
 x.ent: 1.1.7
 x12: 1.10.3
 x12GUI: 0.13.0
-x13binary: 1.1.61
+x13binary: 1.1.61.1
 x3ptools: 0.0.4
 xLLiM: '2.3'
 xQTLbiolinks: 1.6.2
