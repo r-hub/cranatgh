@@ -3499,7 +3499,7 @@ Haplin: 7.3.2
 HaploCatcher: 1.0.4
 HaploSim: 1.8.4.2
 HaploVar: 0.1.1
-HardyWeinberg: 1.7.8
+HardyWeinberg: 1.7.9
 HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
 Hassani.SACF: '2.0'
@@ -8446,7 +8446,7 @@ SunterSampling: 1.0.1
 SupMZ: 0.2.0
 SuperCell: 1.0.1
 SuperExactTest: 1.1.0
-SuperGauss: 2.0.3
+SuperGauss: 2.0.4
 SuperLearner: 2.0-29
 SuperPCA: 0.4.0
 SuperRanker: 1.2.1
@@ -11282,7 +11282,7 @@ capme: '1.3'
 capn: 1.0.0
 captioner: 2.2.3
 captr: 0.3.0
-capushe: 1.1.2
+capushe: 1.1.3
 capwire: 1.1.4
 capybara: 1.8.0
 car: 3.1-3
@@ -13035,7 +13035,7 @@ dbnR: 0.7.9
 dbnlearn: 0.1.0
 dbparser: 2.0.3
 dbplot: 0.3.3
-dbplyr: 2.5.0
+dbplyr: 2.5.1
 dbscan: 1.2.3
 dbstats: 2.0.3
 dbw: 1.1.4
@@ -14174,7 +14174,7 @@ electionsBR: 0.5.0
 electivity: 1.0.2
 electoral: 0.1.4
 elementR: 1.3.7
-elevatr: 0.99.0
+elevatr: 0.99.1
 elexr: '1.0'
 elfDistr: 1.0.0
 elfgen: 2.3.3
@@ -15107,6 +15107,7 @@ firebase: 1.0.2
 firebase.auth.rest: 1.0.1
 firebehavioR: 0.1.2
 fireexposuR: 1.1.0
+firesafety: 0.1.0
 firesale: 0.1.0
 firestorm: 0.1.0
 first: '2.1'
@@ -15344,7 +15345,7 @@ forestdynR: 0.0.1
 forestecology: 0.2.1
 forested: 0.2.0
 forestinventory: 1.0.0
-forestly: 0.1.2
+forestly: 0.1.3
 forestmangr: 0.9.8
 forestmodel: 0.6.2
 forestplot: 3.1.7
@@ -16229,7 +16230,7 @@ ggmsa: 1.0.2
 ggmugs: 0.6.0
 ggmuller: 0.5.6
 ggmulti: 1.0.7
-ggnetwork: 0.5.13
+ggnetwork: 0.5.14
 ggnewscale: 0.5.2
 ggnormalviolin: 0.2.1
 ggnuplot: 0.1.0
@@ -16539,7 +16540,7 @@ gnFit: 0.2.0
 gnlm: 1.1.2
 gnm: 1.1-5
 gnmf: 0.7.1
-gnn: 0.0-4
+gnn: 0.0-5
 gnomeGUI: 2.7.0-2
 gnomonicM: 1.0.1
 gnonadd: 1.0.3
@@ -16997,7 +16998,7 @@ hawkes: 0.0-4
 hawkesbow: 1.0.3
 hazer: 1.1.1
 hazus: '0.1'
-hbal: 1.2.12
+hbal: 1.2.15
 hbamr: 2.4.4
 hbbr: 1.1.2
 hbdct: 1.0.1
@@ -19770,6 +19771,7 @@ metagam: 0.4.1
 metagear: '0.7'
 metagen: '1.0'
 metaggR: 0.3.0
+metagroup: 1.0.2
 metaheur: 0.2.0
 metaheuristicOpt: 2.0.0
 metainc: 0.2-1
@@ -21037,7 +21039,7 @@ netrankr: 1.2.4
 netregR: 1.0.1
 netropy: 0.2.0
 nets: 0.9.1
-netseer: 0.1.1
+netseer: 0.1.2
 netseg: 1.0-3
 netstat: 0.1.2
 nett: 1.0.0
@@ -21455,7 +21457,7 @@ nutshell.bbdb: '1.0'
 nutshellDE: 1.0-2
 nvctr: 0.1.4
 nvis: 0.2.1
-nvmix: 0.1-1
+nvmix: 0.1-2
 nws: 1.7.0.1
 nycflights13: 1.0.2
 nycflights23: 0.2.0
@@ -21850,6 +21852,7 @@ osum: 0.1.0
 ot: 0.2.0
 otargen: 2.0.0
 otel: 0.2.0
+otelsdk: 0.2.0
 otinference: 0.1.0
 otp: 0.1.1
 otpr: 0.5.1
@@ -22094,7 +22097,7 @@ parqr: 0.1.0
 parquetize: 0.5.7
 parseLatex: 0.4.1
 parseRPDR: 1.1.2
-parsec: 1.2.7
+parsec: 1.2.9
 parsedate: 1.3.2
 parsel: 0.3.0
 parsemsf: 0.1.1
@@ -22269,7 +22272,7 @@ pdfetch: 0.3.3
 pdfminer: '1.0'
 pdfsearch: 0.4.3
 pdftables: '0.1'
-pdftools: 3.5.0
+pdftools: 3.6.0
 pdi: 0.4.2
 pdist: 1.2.1
 pdmod: 1.0.1
@@ -23564,7 +23567,7 @@ qrjoint: 2.0-9
 qrlabelr: 0.2.0
 qrmdata: 2024-03-04-2
 qrmix: 0.9.0
-qrmtools: 0.0-17
+qrmtools: 0.0-18
 qrng: 0.0-10
 qrnn: 2.1.1
 qrsvm: 0.2.1
@@ -24988,6 +24991,7 @@ robustHD: 0.8.1
 robustMVMR: 0.3.1
 robustSFA: 0.2.0
 robustSingleCell: 0.1.1
+robustT2: 0.1.0
 robustX: 1.2-7
 robustarima: 0.2.7
 robustbase: 0.99-6
@@ -27867,7 +27871,7 @@ tablerDash: 0.1.5
 tables: 0.9.31
 tableschema.r: 1.1.2
 tablesgg: 0.9-1
-tablespan: 0.2.1
+tablespan: 0.3.2
 tablet: 0.6.12
 tablexlsx: 1.1.0
 tabnet: 0.7.0
