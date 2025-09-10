@@ -397,7 +397,7 @@ AzureContainers: 1.3.3
 AzureCosmosR: 1.0.0
 AzureGraph: 1.3.5
 AzureKeyVault: 1.0.6
-AzureKusto: 1.1.3
+AzureKusto: 1.1.4
 AzureML: 0.2.15
 AzureQstor: 1.0.2
 AzureRMR: 2.4.5
@@ -1336,7 +1336,7 @@ ChannelAttributionApp: '1.3'
 Chaos01: 1.2.1
 ChaosGame: '1.5'
 CharFun: 0.1.0
-Characterization: 2.1.3
+Characterization: 2.2.0
 ChargeTransport: 1.0.2
 ChauBoxplot: 1.0.0
 CheckDigit: 1.0.0
@@ -1607,6 +1607,7 @@ Countr: 3.5.8
 CountsEPPM: '3.1'
 CovCombR: '1.0'
 CovCorTest: 1.0.0
+CovEsts: 1.0.0
 CovRegRF: 2.0.1
 CovSel: 1.2.2
 CovSelHigh: 1.1.1
@@ -3069,6 +3070,7 @@ GPTreeO: 1.0.1
 GPUmatrix: 1.0.2
 GPareto: 1.1.9
 GPfit: 1.0-9
+GPflexViz: 1.0.0
 GPlab: 0.1.0
 GPoM: '1.4'
 GPoM.FDLyapu: '1.0'
@@ -4398,7 +4400,7 @@ MAR1: '1.0'
 MARMoT: 0.0.4
 MARSANNhybrid: 0.1.0
 MARSGWR: 0.1.0
-MARSS: 3.11.9
+MARSS: 3.11.10
 MARSSVRhybrid: 0.1.0
 MARVEL: 1.4.0
 MARX: '0.2'
@@ -7356,6 +7358,7 @@ RmdConcord: '0.3'
 Rmdr: 0.1-1.1
 RmecabKo: 0.1.6.2
 Rmetrics: '260.72'
+Rmfrac: 0.1.1
 Rmisc: 1.5.1
 Rmixmod: 2.1.10
 RmixmodCombi: '1.0'
@@ -10117,7 +10120,7 @@ autocogs: 0.1.5
 autodb: 3.0.0
 autoencoder: '1.1'
 autogam: 0.1.0
-autograph: 0.2.0
+autograph: 0.4.0
 autoharp: 0.0.12
 autohd: 0.1.0
 autohrf: 1.1.3
@@ -17488,6 +17491,7 @@ iNZightTS: 2.0.2
 iNZightTools: 2.0.3
 iNextPD: 0.3.2
 iPRISM: 0.1.1
+iPRSue: 1.0.0
 iRF: 2.0.0
 iRafNet: 1.1-1
 iRefR: '1.13'
@@ -18615,7 +18619,7 @@ latrend: 1.6.2
 latte: 0.2.2
 lattice: 0.22-7
 latticeDensity: 1.2.7
-latticeExtra: 0.6-30
+latticeExtra: 0.6-31
 latticedl: '1.2'
 latticist: 0.9-44
 lava: 1.8.1
@@ -19538,7 +19542,7 @@ mcIRT: '0.41'
 mcMST: 1.1.1
 mcODE: '1.1'
 mcPAFit: 0.1.4
-mcStats: 0.1.2
+mcStats: 0.1.3
 mcauchyd: 1.3.3
 mcb: 0.1.15
 mcbette: 1.15.3
@@ -24056,8 +24060,8 @@ ravedash: 0.1.2
 raveio: 0.9.0
 ravelRy: 0.1.0
 raven.rdf: 0.2.0
-ravepipeline: 0.0.1
-ravetools: 0.2.3
+ravepipeline: 0.0.3
+ravetools: 0.2.4
 raw: 0.1.8
 rawFasta: 1.0.0
 rawKS: 0.1.0
@@ -25511,7 +25515,7 @@ saeMSPE: '1.4'
 saePseudo: 0.1.0
 saeRobust: 0.5.0
 saeSim: 0.11.0
-saeTrafo: 1.0.4
+saeTrafo: 1.0.6
 saebnocov: 0.1.0
 saeczi: 0.2.0
 saeeb: 0.1.0
@@ -25646,7 +25650,7 @@ scBSP: 1.1.0
 scBio: 0.1.6
 scCAN: 1.0.5
 scCATCH: 3.2.2
-scCustomize: 3.1.3
+scCustomize: 3.2.0
 scDECO: 0.1.1
 scDHA: 1.2.2
 scDIFtest: 0.1.1
@@ -26533,7 +26537,7 @@ skilljaR: 0.1.2
 skills: '1.0'
 skillsengineeR: 0.2.0
 skimr: 2.2.1
-skipTrack: 0.1.2
+skipTrack: 0.2.0
 sklarsomega: 3.0-3
 skm: 0.1.5.4
 skmeans: 0.2-18
@@ -29301,7 +29305,7 @@ viridis: 0.6.5
 viridisLite: 0.4.2
 viromeBrowser: 1.1.0
 virtualNicheR: '1.0'
-virtualPollen: 1.0.1
+virtualPollen: 1.0.2
 virtualspecies: '1.6'
 virtuoso: 0.1.8
 viruslearner: 0.0.2
