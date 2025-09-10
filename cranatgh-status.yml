@@ -1314,6 +1314,7 @@ CensRegMod: '1.0'
 CensSpatial: '3.6'
 Census2016: 0.2.0
 CepLDA: 1.0.0
+CepReg: 0.1.0
 CerioliOutlierDetection: 1.1.15
 Certara.DarwinReporter: 2.0.1
 Certara.ModelResults: 3.0.1
@@ -1524,6 +1525,7 @@ ConConPiWiFun: 0.4.6.1
 ConFluxPro: 1.3.1
 ConNEcT: 0.7.27
 ConR: 1.3.0
+ConSciR: 0.2.0
 ConSpline: '1.2'
 Conake: 1.0.1
 ConconiAnaerobicThresholdTest: 1.0.0
@@ -4768,7 +4770,7 @@ MTPS: 1.0.2
 MTS: 1.2.1
 MTSKNN: 0.0-5
 MTSYS: 1.2.0
-MTest: 1.0.2
+MTest: 1.0.3
 MTurkR: 0.8.0
 MTurkRGUI: 0.1.5
 MUACz: 2.1.0
@@ -5177,6 +5179,7 @@ NB.MClust: 1.1.1
 NBAloveR: 0.1.3.3
 NBBDesigns: 1.1.0
 NBBttest: 1.0.1
+NBDCtools: 1.0.1
 NBDdirichlet: '1.4'
 NBDesign: 2.0.0
 NBLDA: 1.0.1
@@ -5232,7 +5235,7 @@ NLRoot: '1.0'
 NLSdata: '0.9'
 NMA: 1.4-3
 NMADiagT: 0.1.2
-NMAforest: 0.1.1
+NMAforest: 0.1.2
 NMAoutlier: 0.2.0
 NMF: '0.28'
 NMFN: 2.0.1
@@ -7118,7 +7121,7 @@ RcppDist: 0.1.1.1
 RcppDynProg: 0.2.1
 RcppEigen: 0.3.4.0.2
 RcppEigenAD: 1.0.0
-RcppEnsmallen: 0.2.22.1.1
+RcppEnsmallen: 0.2.22.1.2
 RcppExamples: 0.1.10
 RcppFaddeeva: 0.2.2
 RcppFarmHash: 0.0.3
@@ -8456,6 +8459,7 @@ SuppDists: 1.1-9.9
 SurfRough: 0.0.1.1
 SurfaceReconstruction: 0.1.0
 SurfaceTortoise: 2.0.1
+SurprisalAnalysis: '0.2'
 Surrogate: 3.4.1
 SurrogateBMA: '1.0'
 SurrogateOutcome: '1.1'
@@ -9829,6 +9833,7 @@ aos: 0.1.0
 apLCMS: 6.8.3
 apTreeshape: 1.5-0.1
 apa: 0.3.4
+apa7: 0.1.0
 apaStyle: '0.5'
 apaTables: 2.0.8
 apaText: 0.1.7
@@ -11245,6 +11250,7 @@ calms: 1.0-1
 calpassapi: 0.0.3
 camcorder: 0.1.0
 camel: 0.2.0
+camelsCL: 0.1-10
 camerondata: 1.0.0
 campaignmanageR: 0.1.0
 campfin: 1.0.11
@@ -11866,7 +11872,7 @@ clubpro: 0.6.2
 clue: 0.3-66
 clues: 0.6.2.2
 clugenr: 1.0.4
-clusEvol: 1.0.0
+clusEvol: 1.0.1
 clusTransition: '1.0'
 cluscov: 1.1.0
 clusrank: 1.0-4
@@ -14015,6 +14021,7 @@ ecolMod: 1.2.6.4
 ecolRxC: 0.1.1-10
 ecolTest: 0.0.1
 ecolottery: 1.0.2
+econdataverse: 0.1.0
 econet: 1.0.0.1
 econetwork: 0.7.0
 econid: 0.0.2
@@ -16117,7 +16124,7 @@ gganimate: 1.0.11
 ggarchery: 0.4.4
 ggarrow: 0.1.0
 ggasym: 0.1.6
-ggautomap: 0.3.2
+ggautomap: 0.3.3
 ggbeeswarm: 0.7.2
 ggbiplot: 0.6.2
 ggblanket: 12.4.0
@@ -16598,7 +16605,7 @@ googleTagManageR: 0.2.0
 googleVis: 0.7.3
 googleadsR: 1.0.0
 googlebigquery: '0.1'
-googledrive: 2.1.1
+googledrive: 2.1.2
 googleformr: 0.0.3
 googlenlp: 0.2.0
 googler: 0.0.1
@@ -23565,7 +23572,7 @@ qrfactor: '1.4'
 qris: 1.1.1
 qrjoint: 2.0-9
 qrlabelr: 0.2.0
-qrmdata: 2024-03-04-2
+qrmdata: 2025-07-24-3
 qrmix: 0.9.0
 qrmtools: 0.0-18
 qrng: 0.0-10
@@ -25618,7 +25625,7 @@ sasMap: 1.0.0
 sasfunclust: 1.0.0
 sasr: 0.1.5
 sass: 0.4.10
-sassy: 1.2.5
+sassy: 1.2.8
 satdad: '1.1'
 sate: 2.4.0
 satellite: 1.0.6
@@ -26876,6 +26883,7 @@ sparseDFM: '1.0'
 sparseEigen: 0.1.0
 sparseFLMM: 0.4.2
 sparseGAM: '1.0'
+sparseGFM: 0.1.0
 sparseHessianFD: 0.3.3.7
 sparseIndexTracking: 0.1.1
 sparseLDA: 0.1-9
@@ -27738,7 +27746,7 @@ svrpath: 0.1.2
 svs: 3.1.1
 svyPVpack: 0.1-1
 svyROC: 1.0.0
-svyVGAM: '1.2'
+svyVGAM: 1.2-17
 svyVarSel: 1.0.1
 svycdiff: 0.2.0
 svycoxme: 1.0.0
