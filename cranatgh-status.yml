@@ -1478,7 +1478,7 @@ CohortAlgebra: 0.3.1
 CohortCharacteristics: 1.0.2
 CohortConstructor: 0.6.0
 CohortExplorer: 0.1.0
-CohortGenerator: 1.0.0
+CohortGenerator: 1.0.1
 CohortPathways: 0.0.1
 CohortPlat: 1.0.5
 CohortSurvival: 1.0.3
@@ -3478,7 +3478,7 @@ HHG: 2.3.7
 HI: '0.5'
 HIBAG: 1.2.4
 HIBPwned: 0.1.7
-HIMA: 2.3.2
+HIMA: 2.3.3
 HIV.LifeTables: '0.1'
 HIViz: 0.1.2
 HIest: '2.0'
@@ -4429,7 +4429,7 @@ LongituRF: '0.9'
 LoopAnalyst: 1.2-7
 LoopDetectR: 0.1.2
 LoopRig: 0.1.1
-LorMe: 2.0.0
+LorMe: 2.0.1
 LorenzRegression: 2.3.0
 LotkasLaw: 0.0.1.0
 LowRankQP: 1.0.6
@@ -5700,7 +5700,7 @@ PACVr: 1.0.11
 PAFit: 1.2.11
 PAFway: 0.1.3
 PAGE: 0.4.0
-PAGFL: 1.1.3
+PAGFL: 1.1.4
 PAGI: '1.0'
 PAGWAS: '2.0'
 PAICE: 1.0.2
@@ -7751,6 +7751,7 @@ SCRSELECT: 1.3-3
 SCRT: 1.3.1
 SCVA: 1.3.1
 SCdeconR: 1.0.0
+SCoRES: 0.1.2
 SCperf: 1.1.1
 SCpubr: 3.0.0
 SCtools: 0.3.3.1
@@ -8272,7 +8273,7 @@ SimEvolEnzCons: 2.0.0
 SimHap: 1.2.0
 SimHaz: '0.1'
 SimIndep: 0.1.2
-SimInf: 10.0.0
+SimInf: 10.1.0
 SimJoint: 0.3.12
 SimKid: 1.0.0
 SimMultiCorrData: 0.2.2
@@ -9714,7 +9715,7 @@ adwave: '1.4'
 adwordsR: 0.3.1
 aebdata: 0.1.4
 aeddo: 0.1.1
-aedseo: 0.3.0
+aedseo: 1.0.0
 aelab: 1.0.1
 aemo: 0.3.0
 afCEC: 1.0.2
@@ -10291,7 +10292,7 @@ autoScorecard: 0.3.0
 autoTS: 0.9.11
 autocart: 1.4.5
 autocogs: 0.1.5
-autodb: 3.1.0
+autodb: 3.2.4
 autoencoder: '1.1'
 autogam: 0.1.0
 autograph: 0.4.1
@@ -11532,6 +11533,7 @@ caseMatch: 1.1.0
 casebase: 0.10.6
 casen: 0.2.1
 cases: 0.2.0
+casimir: 0.3.3
 casino: 0.1.0
 caspar: '1.0'
 cassandRa: 0.2.0
@@ -14032,7 +14034,7 @@ dualScale: 1.0.0
 dualtrees: 0.1.5
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 1.4.1
+duckdb: 1.4.2
 duckdbfs: 0.1.2
 duckduckr: 1.0.0
 duckplyr: 1.1.3
@@ -15061,7 +15063,7 @@ far: 0.6-7
 faraway: 1.0.9
 farff: 1.1.1
 farmR: '1.1'
-farr: 0.3.2
+farr: 1.0.0
 farrell: 0.2.1
 farsi: '1.0'
 farver: 2.1.2
@@ -15238,7 +15240,7 @@ features: '2025.1'
 featuretoolsR: 0.4.4
 featurizer: '0.2'
 febr: 1.9.9
-fec16: 0.1.5
+fec16: 0.1.6
 fecR: 0.0.2
 fechner: 1.0-3
 fect: 2.0.5
@@ -15533,6 +15535,7 @@ fmeffects: 0.1.4
 fmerPack: 0.0-1
 fmesher: 0.5.0
 fmf: 1.1.1
+fmi: 0.1.7
 fmlogcondens: 1.0.2
 fmpapi: 1.0.0
 fmpcloudr: 0.1.5
@@ -19811,7 +19814,7 @@ matrixsampling: 2.0.0
 matrixset: 0.4.0
 matriz: 1.0.1
 matsbyname: 0.6.13
-matsindf: 0.4.10
+matsindf: 0.4.11
 matuR: 0.0.1.0
 mau: 0.1.2
 mauricer: 2.5.4
@@ -21800,6 +21803,7 @@ nvctr: 0.1.4
 nvis: 0.2.1
 nvmix: 0.1-2
 nws: 1.7.0.1
+nycOpenData: 0.1.2
 nycflights13: 1.0.2
 nycflights23: 0.2.0
 nyctaxi: 0.0.1
@@ -22611,7 +22615,7 @@ pcv: 1.1.0
 pcvr: 1.3.1
 pdR: 1.9.4
 pdSpecEst: 1.2.6
-pda: 1.2.8
+pda: 1.3.0
 pdc: 1.0.3
 pdcor: '1.2'
 pder: 1.0-2
@@ -23546,6 +23550,7 @@ prismatic: 1.1.2
 prismjs: 2.1.0
 prisonbrief: 0.1.2
 prithulib: 1.0.2
+privacyR: 1.0.0
 prmisc: 0.0.3
 prnsamplr: 1.1.0
 pro: 0.1.1
@@ -26496,7 +26501,7 @@ sftrack: 0.5.4
 sg: 0.2.0
 sgPLS: 1.8.1
 sgRSEA: '0.1'
-sgapi: 1.1.0
+sgapi: 1.1.1
 sgat: '0.9'
 sgboost: 0.2.0
 sgd: 1.1.3
@@ -28771,7 +28776,7 @@ tightClust: '1.1'
 tightenBlock: 0.1.7
 tigreBrowserWriter: 0.1.5
 tigris: 2.2.1
-tikatuwq: 0.7.3
+tikatuwq: 0.8.0
 tiktokadsR: 0.1.0
 tikzDevice: 0.12.6
 tileHMM: 1.0-7
@@ -29294,7 +29299,7 @@ tuneRanger: 0.8.1
 tuple: 0.4-02
 turboEM: '2025.1'
 turfR: 0.8-7
-turkeyelections: 0.1.3
+turkeyelections: 0.1.4
 turner: 0.2.0
 tutoR: 0.3.2
 tutorial: 0.4.3
@@ -29415,7 +29420,7 @@ umbridge: '1.0'
 umiAnalyzer: 1.0.0
 umlr: 0.3.0
 ump: 0.5-8
-umx: 4.59.0
+umx: 4.60.0
 unbalanced: '2.0'
 unbalhaar: '2.1'
 uncertainUCDP: 0.6.1
