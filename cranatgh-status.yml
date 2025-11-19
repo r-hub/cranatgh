@@ -1333,6 +1333,7 @@ CenBAR: 0.1.1
 CensMFM: '3.1'
 CensMixReg: '3.1'
 CensRegMod: '1.0'
+CensRegSMSN: 0.0.1
 CensSpatial: '3.6'
 Census2016: 0.2.0
 CepLDA: 1.0.0
@@ -2409,6 +2410,7 @@ EasyUpliftTree: 0.0.3
 EbayesThresh: 1.4-12
 Ecdat: 0.4.7
 Ecfun: 0.4.0
+EcoCleanR: 1.0.1
 EcoDiet: 2.0.1
 EcoEnsemble: 1.1.2
 EcoGenetics: 1.2.1-6
@@ -3662,6 +3664,7 @@ IBDhaploRtools: '1.8'
 IBDsim: 0.9-8
 IBFS: 1.0.0
 IBHM: 1.1-11
+IBLM: 1.0.1
 IBMPopSim: 1.1.0
 IBRtools: 0.1.3
 IBclust: 1.2.1
@@ -5762,7 +5765,7 @@ PCMRS: 0.1-5
 PCObw: 0.0.1
 PCPS: 1.0.8
 PCRA: '1.2'
-PCRedux: 1.2-0
+PCRedux: 1.2-1
 PCS: '1.3'
 PCSinR: 0.1.0
 PCovR: 2.7.2
@@ -8372,7 +8375,7 @@ SoilR: 1.2.107
 SoilSaltIndex: 0.1.0
 SoilTaxonomy: 0.2.8
 SoilTesting: 0.1.0
-Sojourn: 1.1.0
+Sojourn: 1.2.1
 Sojourn.Data: 0.3.0
 SolveLS: '1.0'
 SolveRationalMatrixEquation: 0.1.0
@@ -9063,7 +9066,7 @@ TwoCop: '1.0'
 TwoDcDAPSA: 0.1.0
 TwoPhaseCorR: 1.1.1
 TwoPhaseInd: 1.1.2
-TwoRegression: 1.0.0
+TwoRegression: 1.1.1
 TwoSampleTest.HD: '1.2'
 TwoStepCLogit: 1.2.6
 TwoTimeScales: 1.0.0
@@ -9634,8 +9637,8 @@ adaptsmoFMRI: '1.2'
 adas.utils: 1.3.0
 adass: 1.0.1
 adbcdrivermanager: 0.20.0
-adbcpostgresql: 0.20.0
-adbcsqlite: 0.20.0
+adbcpostgresql: 0.21.0
+adbcsqlite: 0.21.0
 adbi: 0.1.2
 adc: 1.0.0
 adcontabil: 1.1.8
@@ -9770,6 +9773,7 @@ agrifeature: 1.0.3
 agriutilities: 1.2.2
 agriwater: 1.0.2
 agrmt: 1.42.12
+agrobox: 0.1.0
 agroclim: 0.3.0
 agrostab: 0.1.0
 ags: 1.0.1
@@ -15031,6 +15035,7 @@ factualR: '0.5'
 fad: 0.9-3
 faersquarterlydata: 1.2.0
 fail: '1.3'
+fairGATE: 0.1.0
 fairGNN: 0.1.0
 fairadapt: 1.0.0
 fairmetrics: 1.0.7
@@ -15185,6 +15190,7 @@ fbst: '2.2'
 fc: 0.1.0
 fca: 0.1.0
 fcaR: 1.2.2
+fcall: 0.1.5
 fcci: 1.0.1
 fcd: '0.1'
 fcfdr: 1.0.0
@@ -27145,6 +27151,7 @@ socialrisk: 0.5.1
 sociome: 2.2.5
 socratadata: 0.1.1
 socviz: '1.2'
+sodaR: 0.1.0
 sodavis: '1.2'
 sodium: 1.4.0
 sofa: 0.4.0
