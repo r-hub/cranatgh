@@ -1425,7 +1425,7 @@ ClimClass: 2.1.1
 ClimDown: 1.0.8
 ClimInd: 0.1-3
 ClimMobTools: 1.8.2
-ClimProjDiags: 0.3.4
+ClimProjDiags: 0.3.5
 ClimaRep: '1.0'
 ClinReport: 0.9.1.14
 ClinSigMeasures: '1.2'
@@ -1482,7 +1482,7 @@ CoTiMA: 1.0.2
 CoastlineFD: 1.1.2
 CodataGS: '1.43'
 CodeDepends: 0.6.6
-CodelistGenerator: 4.0.0
+CodelistGenerator: 4.0.1
 CohensdpLibrary: 0.5.11
 CohortAlgebra: 0.3.1
 CohortCharacteristics: 1.1.0
@@ -3637,7 +3637,7 @@ HierO: '0.2'
 HierPorfolios: 0.1.0
 HierPortfolios: 1.0.2
 HighDimOut: 1.0.0
-HighFive: 3.2.0
+HighFive: 3.3.0
 HighProbability: 1.0-2
 HighestMedianRules: '1.0'
 HistDAWass: 1.0.8
@@ -4543,7 +4543,7 @@ MBBEFDLite: 0.0.5
 MBC: 0.10-7
 MBCbook: 0.1.2
 MBCluster.Seq: '1.0'
-MBESS: 4.9.41
+MBESS: 4.9.42
 MBHdesign: 2.3.15
 MBI: '1.0'
 MBMethPred: 0.1.4.4
@@ -7198,7 +7198,7 @@ RclusTool: 0.91.61
 Rclusterpp: 0.2.3
 Rcmdr: 2.9-5
 Rcmdr.HH: 1.8-0
-RcmdrMisc: 2.9-2
+RcmdrMisc: 2.10.1
 RcmdrPlugin.BCA: 0.9-8
 RcmdrPlugin.BWS1: 0.3-0
 RcmdrPlugin.BWS2: 0.3-0
@@ -7329,7 +7329,7 @@ RcppRoll: 0.3.1
 RcppSMC: 0.2.9
 RcppShark: 3.1.1
 RcppSimdJson: 0.1.14
-RcppSpdlog: 0.0.23
+RcppSpdlog: 0.0.24
 RcppStreams: 0.1.4
 RcppTN: 0.2-2
 RcppTOML: 0.2.3
@@ -14383,7 +14383,7 @@ econdatasets: 0.1.0
 econdataverse: 0.1.1
 econet: 1.0.0.1
 econetwork: 0.7.0
-econid: 0.0.2
+econid: 0.0.3
 economiccomplexity: 2.0.0
 econtools: 0.1.0
 econullnetr: 0.2.2
@@ -16015,7 +16015,7 @@ fuzzyFDR: '1.0'
 fuzzyMM: 1.0.1
 fuzzyOP: '1.1'
 fuzzyRankTests: '0.5'
-fuzzySim: '4.38'
+fuzzySim: '4.46'
 fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.6.1
 fuzzylink: 0.2.5
@@ -16628,7 +16628,7 @@ gghighlight: 0.5.0
 gghilbertstrings: 0.3.3
 gghist: 0.1.0
 gghourglass: 0.0.3
-ggimage: 0.3.4
+ggimage: 0.3.5
 ggimg: 0.1.2
 ggincerta: 0.1.0
 gginference: 0.1.3
@@ -19047,7 +19047,7 @@ lagsarlmtree: 1.0-1
 lakemorpho: 1.3.2
 laketemps: 0.5.1
 lakhesis: 0.0.1
-lamW: 2.2.5
+lamW: 2.2.6
 lambda.r: 1.2.4
 lambda.tools: 1.0.9
 lambdaTS: '1.1'
@@ -19100,7 +19100,7 @@ latentcor: 2.0.2
 latentgraph: '1.1'
 latentnet: 2.12.0
 latentnetHRT: 0.7-18
-later: 1.4.4
+later: 1.4.5
 latex2exp: 0.9.6
 latexSymb: 1.0.0
 latexdiffr: 0.2.0
@@ -19835,7 +19835,7 @@ manureshed: 0.1.0
 manydata: 1.1.3
 manydist: 0.4.8
 manymodelr: 0.4.0
-manymome: 0.3.2
+manymome: 0.3.3
 manymome.table: 0.4.0
 manynet: 1.7.0
 manystates: 1.0.3
@@ -20777,7 +20777,7 @@ mmpf: 0.0.5
 mmpp: '0.6'
 mmppr: '0.1'
 mmr: 0.1.0
-mmrm: 0.3.16
+mmrm: 0.3.17
 mmsample: '0.1'
 mmstat4: 0.2.1
 mmtfa: '0.3'
@@ -21298,7 +21298,7 @@ mut: '1.1'
 mutSignatures: 2.1.1
 mutationtypes: 0.0.1
 mutatr: 0.1.2
-mutoss: 0.1-13
+mutoss: 0.1-14
 mutossGUI: 0.1-12
 muttest: 0.1.0
 mutualinf: 2.0.4
@@ -22562,7 +22562,7 @@ paleomorph: 0.1.4
 paleopop: 2.1.7
 paleotree: 3.4.7
 palette: 0.0.3
-paletteer: 1.6.0
+paletteer: 1.7.0
 paletteknife: 0.4.2
 palettes: 0.2.2
 palettesForR: 0.1.2
@@ -22623,7 +22623,7 @@ parallelMap: 1.5.1
 parallelPlot: 0.4.0
 parallelSVM: 0.1-9
 parallelize.dynamic: 0.9-1
-parallelly: 1.46.0
+parallelly: 1.46.1
 parallelpam: 1.4.3
 param2moment: 0.1.3
 param6: 0.2.4
@@ -24048,7 +24048,7 @@ pxmake: 0.19.0
 pxweb: 0.17.0
 pyMTurkR: 1.1.6
 pycno: 1.4.1
-pyinit: 1.1.4
+pyinit: 1.1.5
 pylintR: 0.1.0
 pyramid: '1.5'
 pysd2r: 0.1.0
@@ -25005,7 +25005,7 @@ refitgaps: 0.1.2
 reflectR: 2.1.4
 reflimR: 1.1.0
 refnr: 0.1.0
-reformulas: 0.4.3
+reformulas: 0.4.3.1
 refreg: 0.1.1
 refreshr: 0.1.0
 refseqR: 1.1.5
@@ -25135,7 +25135,7 @@ repo: 2.1.5
 repo.data: 0.1.5
 repoRter.nih: 0.1.4
 repolr: '3.4'
-report: 0.6.2
+report: 0.6.3
 reportROC: '3.6'
 reportReg: 0.3.0
 reportRmd: 0.1.1
