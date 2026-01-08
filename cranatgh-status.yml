@@ -252,6 +252,7 @@ AdvancedBasketballStats: 1.0.1
 AdverseEvents: 0.0.4
 AeRobiology: 2.0.1
 Aelasticnet: 2.13.1
+AeroEvapR: 0.1.6
 AeroSampleR: 0.3.0
 AgeBandDecomposition: 1.0.1
 AgePopDenom: 1.2.3
@@ -1163,6 +1164,7 @@ CNLTreg: 0.1-2
 CNLTtsa: 0.1-2
 CNOGpro: '1.1'
 CNPS: 1.0.0
+CNSigs: 0.1.0
 CNVRG: 1.0.0
 CNVScope: 3.7.2
 CNVassoc: '2.2'
@@ -5637,6 +5639,7 @@ OmicFlow: 1.4.2
 OmicInt: 1.1.7
 OmicKriging: 1.4.0
 OmicNavigator: 1.19.0
+OmicNetR: 0.1.1
 OmicSense: 0.2.0
 OmicsPLS: 2.1.0
 OmicsPrepR: 0.1.1
@@ -5665,6 +5668,7 @@ OneSampleMR: 0.1.6
 OneStep: 0.9.4
 OneTwoSamples: 1.2-0
 OnomasticDiversity: '0.1'
+OpEnCAST: 0.1.1
 OpEnHiMR: 0.1.1
 OpVaR: '1.2'
 OpasnetUtils: '1.3'
@@ -8089,6 +8093,7 @@ SRRS: 0.1.1
 SRS: 0.2.3
 SRTsim: 0.99.7
 SRTtools: 1.2.0
+SRscore: 0.1.2
 SSAforecast: 0.1.1
 SSBtools: 1.8.6
 SSDL: '1.1'
@@ -9513,7 +9518,7 @@ XRJulia: 0.9.0.1
 XRPython: '0.8'
 XRSCC: '0.2'
 XReg: '1.0'
-XYomics: 0.1.2
+XYomics: 0.1.3
 Xcertainty: 1.0.1
 XiMpLe: 0.11-3
 Xmisc: 0.2.1
@@ -14854,6 +14859,7 @@ estout: '1.2'
 estprod: '1.2'
 estudy2: 0.10.0
 esvis: 0.3.1
+esviz: 0.0.1
 et.nwfva: 0.2.0
 etable: 1.3.1
 etasFLP: 2.2.2
@@ -14925,6 +14931,7 @@ evilDice: '1.0'
 evinf: 0.8.10
 evir: 1.7-4
 evitaicossa: 0.0-1
+evmissing: 1.0.0
 evmix: '2.12'
 evoTS: 1.0.3
 evobiR: '1.1'
@@ -17102,6 +17109,7 @@ grPipe: 0.1.0
 graDiEnt: 1.0.1
 grabsampling: 1.0.0
 gradDescent: '3.0'
+gradLasso: 0.1.1
 grade: 0.2-1
 gradeR: 1.0.10
 gradientPickerD3: 0.1.0.0
@@ -17327,7 +17335,7 @@ guardianapi: 0.1.1
 guescini: 0.1.0
 guess: 0.2.1
 guf: 1.0.2
-guideR: 0.8.1
+guideR: 0.9.0
 guidedPLS: 1.1.0
 guildai: 0.0.1
 guiplot: 0.5.0
@@ -20072,7 +20080,7 @@ mcga: 3.0.9
 mcgf: 1.1.1
 mcgfa: 2.2.1
 mcgibbsit: 1.2.2
-mcglm: 0.8.0
+mcglm: 0.9.0
 mcheatmaps: 1.0.0
 mchof: '0.3'
 mclcar: 0.2-0
@@ -22094,6 +22102,7 @@ odns: 1.0.2
 odpc: 2.0.5
 odprism: '1.1'
 odr: 1.7.3
+odyssey: 1.0.0
 oec: 2.7.8
 oecdoda: 0.1.0
 oeli: 0.7.5
@@ -22432,6 +22441,7 @@ outlierMBC: 0.0.1
 outlierensembles: 0.1.3
 outliers: '0.15'
 outliers.ts.oga: 1.1.1
+outlierspinner: 0.1.0
 outliertree: 1.10.0
 outqrf: 1.0.0
 outreg: 0.2.2
@@ -22772,6 +22782,7 @@ pblm: 0.1-12
 pbm: 1.2.1
 pbmcapply: 1.5.1
 pbo: 1.3.5
+pboost: 0.2.1
 pbox: 0.1.8
 pbr: 0.0.2
 pbs: '1.1'
@@ -28975,6 +28986,7 @@ tidymargins: 0.1.0
 tidymodels: 1.4.1
 tidymodlr: 1.0.0
 tidymv: 3.4.2
+tidyna: 0.1.2
 tidync: 0.4.0
 tidyndr: 0.2.1
 tidynorm: 0.4.0
