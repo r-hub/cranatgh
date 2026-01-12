@@ -471,6 +471,7 @@ BCEE: 1.3.2
 BCEs0: 1.1-1
 BCHM: '1.00'
 BCRA: 2.1.2
+BCSreg: 1.1.0
 BCSub: '0.5'
 BCT: '1.2'
 BCellMA: 0.3.4
@@ -5049,6 +5050,7 @@ MetaComp: 1.1.2
 MetaCycle: 1.2.0
 MetaDBparse: 2.0.0
 MetaDE: 1.0.5
+MetaDose: 1.0.1
 MetaHD: 0.1.3
 MetaIntegration: 0.1.2
 MetaIntegrator: 2.1.3
@@ -5204,6 +5206,7 @@ Monte.Carlo.se: 0.1.1
 MonteCarlo: 1.0.6
 MonteCarloSEM: 0.0.8
 MoonFinder: 1.0.3
+MorphSim: 0.1.0
 Morpho: '2.13'
 MorphoRegions: 0.1.0
 MorphoTools2: 1.0.2.1
@@ -7088,7 +7091,7 @@ RVowpalWabbit: 0.0.18
 RVsharing: 1.7.0
 RVtests: '1.2'
 RWBP: '1.0'
-RWDataPlyr: 0.6.5
+RWDataPlyr: 0.6.6
 RWNN: '0.4'
 RWeather: '0.4'
 RWebLogo: 1.0.3
@@ -8982,6 +8985,7 @@ TemporalGSSA: 1.0.1
 Tendril: 2.0.4
 TensorClustering: 1.0.2
 TensorComplete: 0.2.0
+TensorMCMC: 0.1.0
 TensorPreAve: 1.1.0
 TensorTest2D: 1.1.2
 TensorTools: 1.0.0
@@ -10987,7 +10991,7 @@ binomialtrend: 0.0.0.3
 binomlogit: '1.2'
 binostics: 0.1.3
 binovisualfields: 0.1.1
-binpackr: 0.1.1
+binpackr: 0.2.0
 binr: 1.1.1
 binsegRcpp: 2025.5.13
 binseqtest: 1.0.4
@@ -11135,6 +11139,7 @@ blocklength: 0.2.2
 blockmatrix: '1.0'
 blockmodeling: 1.1.8
 blockmodels: 1.1.5
+blockr: 0.1.0
 blockr.core: 0.1.1
 blockr.dag: 0.1.0
 blockr.dock: 0.1.0
@@ -12722,6 +12727,7 @@ corrarray: 1.2.0
 corrcoverage: 1.2.1
 correctR: 0.3.1
 correctedAUC: 0.0.3
+correctref: 0.0.2
 corregp: 2.0.2
 correlate: '1.0'
 correlatio: 0.2.1
@@ -12906,6 +12912,7 @@ crblocks: 1.0-0
 crc32c: 0.0.3
 crch: 1.2-2
 crctStepdown: 0.5.2
+cre.dcf: 0.0.3
 createLogicalPCM: 0.1.0
 credentials: 2.0.3
 creditmodel: 1.3.1
@@ -14989,7 +14996,7 @@ excessmort: 0.8.2
 excluder: 0.5.2
 excursions: 2.5.11
 exdex: 1.2.4
-exdqlm: 0.1.4
+exdqlm: 0.2.0
 executablePackeR: 0.0.2
 exhaustiveRasch: 0.3.7
 exif: 0.1.1
@@ -16003,7 +16010,7 @@ fusedTree: 1.1.0
 fusedest: 1.3.1
 fusen: 0.7.2
 fuser: 1.0.1
-fusionchartsR: 1.1.0
+fusionchartsR: 1.2.0
 fusionclust: 1.0.0
 futile: 2.0.0
 futile.any: 1.3.2
@@ -16748,6 +16755,7 @@ ggseqplot: 0.8.9
 ggshadow: 0.0.5
 ggside: 0.4.1
 ggsignif: 0.6.4
+ggskewboxplots: 1.0.0
 ggsmc: 0.2.0
 ggsn: 0.5.0
 ggsoccer: 0.2.0
@@ -17128,6 +17136,7 @@ gramEvol: 2.1-4
 grand: 0.9.1
 grandR: 0.2.6
 grangers: 0.1.0
+grangersearch: 0.1.0
 granova: '2.3'
 granovaGG: 1.4.1
 grantham: 0.1.4
@@ -24275,6 +24284,7 @@ quasar: 0.2.0
 quaternions: '0.2'
 quaxnat: 1.0.1
 queryBuilder: 0.1.0
+querychat: 0.2.0
 queryparser: 0.3.2
 queryup: 1.0.5
 quest: 0.2.1
@@ -27933,6 +27943,7 @@ ssw: 0.2.1
 ssym: 1.5.8
 st: 1.2.7
 stCEG: 0.1.0
+stIHC: 0.1.0
 stR: 0.7.1
 stRoke: 25.9.2
 stUPscales: 1.0.3.5
@@ -28950,7 +28961,7 @@ tidycat: 0.1.2
 tidycells: 0.2.2
 tidycensus: 1.7.3
 tidycensuskr: 0.2.7
-tidychangepoint: 1.0.2
+tidychangepoint: 1.0.3
 tidycharts: 0.1.3
 tidyclust: 0.2.4
 tidycmprsk: 1.1.1
