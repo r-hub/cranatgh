@@ -6116,7 +6116,7 @@ PathSelectMP: '1.1'
 PathwaySpace: 1.1.0
 PathwayVote: 0.1.3
 PatientLevelPrediction: 6.5.1
-PatientProfiles: 1.4.4
+PatientProfiles: 1.4.5
 PatternClass: 2.0.1
 Patterns: '1.7'
 PdPDB: 2.0.1
@@ -9749,8 +9749,8 @@ adaptr: 1.4.0
 adaptsmoFMRI: '1.2'
 adas.utils: 1.3.0
 adass: 1.0.1
-adbcdrivermanager: 0.21.0
-adbcpostgresql: 0.21.0
+adbcdrivermanager: 0.22.0
+adbcpostgresql: 0.22.0
 adbcsqlite: 0.22.0
 adbi: 0.1.2
 adc: 1.0.0
@@ -10737,7 +10737,7 @@ bbreg: 2.0.2
 bbricks: 0.1.4
 bbsBayes: 2.5.3
 bbssr: 1.0.2
-bbw: 0.3.0
+bbw: 0.3.1
 bc3net: 1.0.5
 bcROCsurface: 1.0-6
 bcRP: 1.0.2
@@ -11686,7 +11686,7 @@ caspar: '1.0'
 cassandRa: 0.2.0
 cassowaryr: 2.0.2
 castgen: 1.0.2
-castor: 1.8.4
+castor: 1.8.5
 cat: 0.0-9
 cat.dt: 0.3.1
 cat2cat: 0.4.7
@@ -12415,7 +12415,7 @@ collapsibleTree: 0.1.8
 collateral: 0.5.2
 collatz: 1.0.0
 collectArgs: 0.4.0
-collections: 0.3.9
+collections: 0.3.10
 collector: 0.1.3
 collegeScorecard: 0.2.0
 collett: 0.1.2
@@ -13610,7 +13610,7 @@ densityratio: 0.2.2
 densratio: 0.2.1
 denstest: 1.0.0
 denstrip: 1.5.5
-dentomedical: 0.1.3
+dentomedical: 0.2.0
 denvax: 0.1.2
 depCensoring: 0.1.8
 depcache: 0.1-2
@@ -15751,7 +15751,7 @@ fmriqa: 0.3.0
 fmrs: 1.0-9
 fmsb: 0.7.6
 fmt: '2.0'
-fmtr: 1.7.0
+fmtr: 1.7.1
 fmx: 0.1.3
 fnets: 0.1.6
 fntl: 0.1.2
@@ -21406,7 +21406,7 @@ mvctm: '1.2'
 mvcwt: 1.3.1
 mvdalab: '1.7'
 mverse: 0.2.3
-mvgam: 1.1.593
+mvgam: 1.1.594
 mvgb: 0.0.6
 mvglmmRank: 1.2-4
 mvgraph: '1.2'
@@ -22084,7 +22084,7 @@ nvctr: 0.1.7
 nvis: 0.2.1
 nvmix: 0.1-2
 nws: 1.7.0.1
-nycOpenData: 0.1.3
+nycOpenData: 0.1.4
 nycflights13: 1.0.2
 nycflights23: 0.2.0
 nyctaxi: 0.0.1
@@ -24348,7 +24348,7 @@ querychat: 0.2.0
 queryparser: 0.3.2
 queryup: 1.0.5
 quest: 0.2.1
-questionr: 0.8.1
+questionr: 0.8.2
 queuecomputer: 1.2.0
 queueing: 0.2.12
 quhomology: 1.1.1
@@ -24793,7 +24793,7 @@ rbgm: 0.2.0
 rbhl: 0.9.2
 rbi: 1.0.0
 rbi.helpers: 0.4.1
-rbibutils: '2.4'
+rbibutils: 2.4.1
 rbin: 0.2.1
 rbioacc: 1.3.1
 rbioapi: 0.8.3
@@ -25652,7 +25652,7 @@ rnaturalearth: 1.2.0
 rnaturalearthdata: 1.0.0
 rnbn: 1.1.2
 rnbp: 0.2.2
-rncl: 0.8.8
+rncl: 0.8.9
 rneos: 0.4-0
 rnetcarto: 0.2.6
 rngSetSeed: 0.3-3
@@ -25802,7 +25802,7 @@ rosario: 0.1.0
 roseRF: 0.1.0
 rosetta: 0.3.12
 rosetteApi: 1.14.4
-rosm: 0.3.0
+rosm: 0.3.1
 rosmium: 0.1.0
 rospca: 1.1.1
 rosqp: 0.1.0
@@ -26034,7 +26034,7 @@ rsurvstat: 0.1.2
 rsvd: 1.0.5
 rsvddpd: 1.0.1
 rsvg: 2.7.0
-rswipl: 10.1.1
+rswipl: 10.1.1.1
 rsyncrosim: 2.1.9
 rsyntax: 0.1.4
 rsynthbio: 4.0.0
@@ -27719,7 +27719,7 @@ spatstat.gui: 3.1-0
 spatstat.linnet: 3.4-0
 spatstat.local: 5.1-0
 spatstat.model: 3.5-0
-spatstat.random: 3.4-3
+spatstat.random: 3.4-4
 spatstat.sparse: 3.1-0
 spatstat.univar: 3.1-6
 spatstat.utils: 3.2-1
