@@ -851,6 +851,7 @@ Binarize: 1.3.2
 BinaryDosage: 1.0.0
 BinaryEMVS: '0.1'
 BinaryEPPM: '3.0'
+BinaryReplicates: 1.0.0
 BinarybalancedCut: '0.2'
 BioCircos: 0.3.4
 BioCro: 3.3.0
@@ -5640,7 +5641,7 @@ OTUtable: 1.1.2
 OTclust: 1.0.6
 OTrecod: 0.1.2
 OUwie: '2.10'
-OVL.CI: 0.1.0
+OVL.CI: 0.1.1
 OVtool: 1.0.3
 OWEA: 0.1.2
 Oarray: 1.4-9
@@ -5729,6 +5730,7 @@ OptiSembleForecasting: 0.1.0
 OptimClassifier: 0.1.5
 OptimModel: 2.0-3
 OptimaRegion: '1.2'
+OptimalBinningWoE: 1.0.3
 OptimalCutpoints: 1.1-5
 OptimalDesign: 1.0.3
 OptimalGoldstandardDesigns: 1.0.1
@@ -7903,7 +7905,7 @@ SEMrushR: 0.1.0
 SEMsens: 1.5.5
 SEMsensitivity: 0.1.0
 SEPaLS: 0.1.0
-SEQTaRget: 1.3.3
+SEQTaRget: 1.3.4
 SESraster: 0.7.1
 SETPath: '1.0'
 SEchart: '0.1'
@@ -11651,7 +11653,7 @@ caradpt: 0.1.0
 carat: 2.2.1
 carbonate: 0.1.4
 carbondate: 1.1.0
-carbonpredict: 2.0.0
+carbonpredict: 2.0.1
 carbonr: 0.2.7
 carcass: '1.9'
 card: 0.1.1
@@ -13834,6 +13836,7 @@ dipsaus: 0.3.3
 diptest: 0.77-2
 dipw: 0.1.0
 dir2json: 0.1.0
+directAgeStd: 0.0.2
 directPA: 1.5.1
 directlabels: 2025.6.24
 directotree: 1.0.0
@@ -14031,7 +14034,7 @@ dockr: 0.8.6
 doconv: 0.3.3
 docopt: 0.7.2
 docopulae: 0.4.0
-docorator: 0.5.1
+docorator: 0.5.2
 docore: '1.0'
 docreview: 0.0.1
 docstring: 1.0.0
@@ -15340,7 +15343,7 @@ fasterRaster: 8.4.1.1
 fasteraster: 1.1.1
 fasterize: 1.1.0
 fastfocal: 0.1.3
-fastgeojson: 0.1.2
+fastgeojson: 0.1.3
 fastglm: 0.0.4
 fastglmpca: 0.1-108
 fasthplus: '1.0'
@@ -16681,7 +16684,7 @@ ggfittext: 0.10.3
 ggfixest: 0.4.0
 ggflowchart: 1.0.0
 ggfocus: 1.0.1
-ggfootball: 0.2.2
+ggfootball: 0.3.0
 ggforce: 0.5.0
 ggformula: 1.0.1
 ggfortify: 0.4.19
@@ -17262,6 +17265,7 @@ gremes: 0.1.1
 gremlin: 1.1.0
 gren: 0.0.1
 greport: 0.7-4
+grepreaper: 0.1.0
 greta: 0.5.0
 greta.censored: 0.1.0
 greta.dynamics: 0.2.2
@@ -17356,6 +17360,7 @@ gscaLCA: 0.0.5
 gscounts: 0.1-4
 gscramble: 1.0.1
 gsdensity: 0.1.2
+gsearly: 1.0.0
 gseries: 3.0.2
 gset: 1.1.0
 gsg: '2.0'
@@ -17607,7 +17612,7 @@ healthyAddress: 0.5.1
 healthyR: 0.2.2
 healthyR.ai: 0.1.1
 healthyR.data: 1.2.0
-healthyR.ts: 0.3.1
+healthyR.ts: 0.3.2
 healthyverse: 1.1.0
 heapsofpapers: 0.1.0
 heartbeatr: 1.0.0
@@ -21646,7 +21651,7 @@ net.security: 0.3.0
 net4pg: 0.1.2
 netCDF: '1.5'
 netClass: 1.2.1
-netClust: 1.0.1
+netClust: 1.0.2
 netCoin: 2.1.19
 netSEM: 0.6.2
 netShiny: '1.0'
@@ -22542,6 +22547,7 @@ outliers: '0.15'
 outliers.ts.oga: 1.1.1
 outlierspinner: 0.1.0
 outliertree: 1.10.0
+outlying: 0.0.1
 outqrf: 1.0.0
 outreg: 0.2.2
 outsider: 0.1.1
@@ -24475,6 +24481,7 @@ rBeta2009: 1.0.1
 rBiasCorrection: 0.3.5
 rCAT: 0.1.6
 rCBA: 0.4.3
+rCISSVAE: 0.0.4
 rCMA: 1.1.1
 rCNV: 1.3.0
 rCRM: 0.1.1
@@ -24644,7 +24651,7 @@ raem: 0.1.0
 rafalib: 1.0.4
 rafsi: 0.0.2
 ragg: 1.5.0
-ragnar: 0.2.1
+ragnar: 0.3.0
 rags2ridges: 2.2.9
 ragt2ridges: 0.3.4
 ragtop: 1.2.0
@@ -24832,7 +24839,7 @@ rbit: 1.0.0
 rbitcoinchartsapi: 1.0.4
 rblt: 0.2.4.7
 rbm25: 0.0.4
-rbmi: 1.5.2
+rbmi: 1.6.0
 rbmiUtils: 0.1.6
 rbmn: 0.9-6
 rbokeh: 0.5.2
@@ -28351,7 +28358,7 @@ subincomeR: 0.4.0
 sublime: '1.3'
 sublogo: '1.1'
 submax: 1.1.5
-subniche: '1.5'
+subniche: '1.6'
 subplex: '1.9'
 subprocess: 0.8.3
 subrank: 0.9.9.3
@@ -28946,7 +28953,7 @@ textmatching: 0.1.0
 textmineR: 3.0.6
 textmining: 0.0.1
 textometry: 0.1.6
-textplot: 0.2.2
+textplot: 0.2.3
 textpress: 1.0.0
 textrank: 0.3.1
 textrar: 0.8.0
@@ -29384,7 +29391,7 @@ tourrGui: '0.4'
 tout: 1.0.3
 tower: 0.2.0
 toweranNA: 0.1.0
-toxEval: 1.4.1
+toxEval: 1.4.2
 toxSummary: 1.0.0
 toxboot: 0.2.0
 toxdrc: 1.0.1
@@ -30438,7 +30445,7 @@ webshot2: 0.1.2
 websocket: 1.4.4
 websockets: 1.1.7
 webtools: 0.7.12
-webtrackR: 0.3.1
+webtrackR: 0.3.2
 webuse: 0.1.3
 webutils: 1.2.2
 webvis: 0.0.2
