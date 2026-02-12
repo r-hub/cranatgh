@@ -737,6 +737,7 @@ BayesNSGP: 0.2.0
 BayesNetBP: 1.6.1
 BayesNetDiscovery: '0.1'
 BayesOrdDesign: 0.1.2
+BayesPET: 0.1.0
 BayesPIM: 1.0.0
 BayesPPD: 1.1.3
 BayesPPDSurv: 1.0.3
@@ -1019,6 +1020,7 @@ CARlasso: 0.1.2
 CARramps: 0.1.2
 CARrampsOcl: 0.1.4
 CASCORE: 0.1.2
+CASIdata: 0.2.1
 CASMAP: 0.6.1
 CASMI: 2.0.0
 CAST: 1.0.4
@@ -1621,7 +1623,7 @@ ConversationAlign: 0.4.0
 ConvertPar: '0.1'
 Convolutioner: 0.1.0
 CooRTweet: 2.1.2
-CooccurrenceAffinity: 1.0.2
+CooccurrenceAffinity: 2.0.0
 CoopGame: 0.2.2
 CoordinateCleaner: 3.0.1
 CopCTS: 1.0.0
@@ -3103,7 +3105,7 @@ GGenemy: 0.1.0
 GGoutlieR: 1.0.2
 GHCNr: 1.4.6
 GHQp: '1.0'
-GHRexplore: 0.2.1
+GHRexplore: 0.2.2
 GHRmodel: 0.1.1
 GHS: '0.1'
 GHap: 3.0.0
@@ -4536,7 +4538,7 @@ MADPop: 1.1.7
 MADtests: 0.1.1
 MAFDash: 0.2.1
 MAFLD: 4.0.0
-MAGEE: 1.4.4
+MAGEE: 1.4.5
 MAGMA.R: 1.0.4
 MAGNAMWAR: 2.0.4
 MAICtools: 0.1.1
@@ -5291,7 +5293,7 @@ MultRegCMP: 0.1.0
 MultSurvTests: '0.2'
 MultiABEL: 1.1-6
 MultiATSM: 1.5.1
-MultiBD: 1.0.0
+MultiBD: 1.0.1
 MultiCNVDetect: 0.1-1
 MultiCOAP: '1.1'
 MultiChIPmixHMM: '5.0'
@@ -7842,7 +7844,7 @@ SBCK: 1.0.0
 SBI: 0.1.2
 SBICgraph: 1.0.0
 SBMSplitMerge: 1.1.1
-SBMTrees: '1.4'
+SBMTrees: '1.5'
 SBN: 1.0.0
 SBRect: '0.26'
 SBSA: 0.2.3
@@ -9426,6 +9428,7 @@ Vicus: 0.99.0
 VideoComparison: '0.15'
 ViewPipeSteps: 0.1.0
 VineCopula: 2.6.1
+ViroReportR: 1.0.3
 VirtualPop: 2.1.0
 Virusparies: 1.1.0
 VisCollin: 0.1.2
@@ -9633,7 +9636,7 @@ ZIBR: 1.0.3
 ZIBseq: '1.2'
 ZIDW: 0.1.0
 ZIGP: '3.8'
-ZIHINAR1: 0.2.0
+ZIHINAR1: 0.2.1
 ZIM: 1.1.0
 ZIM4rv: 0.1.1
 ZINAR1: 0.1.0
@@ -12369,7 +12372,7 @@ cmaRs: 0.1.4
 cmaes: 1.0-12
 cmaesr: 1.0.3
 cmahalanobis: 1.0.0
-cmbClust: 0.0.1
+cmbClust: 0.0.2
 cmcR: 0.1.11
 cmce: 0.1.0
 cmdfun: 1.0.2
@@ -12721,7 +12724,7 @@ connector.databricks: 0.1.0
 connectwidgets: 0.2.1
 conogive: 1.0.0
 conos: 1.5.2
-conover.test: 1.1.6
+conover.test: 1.1.7
 conquer: 1.3.3
 conquestr: 1.5.5
 conrad: 1.0.0.1
@@ -15759,6 +15762,7 @@ flatxml: 0.1.1
 fledge: 0.1.4
 flevr: 0.0.5
 flex: 0.1.0
+flexBART: 2.0.3
 flexBCF: 1.0.2
 flexCWM: '1.92'
 flexCountReg: 0.1.1
@@ -17193,6 +17197,7 @@ goldfish: 1.6.12
 goldi: 1.0.1
 goldilocks: 0.4.0
 golem: 0.5.1
+golfastr: 0.1.5
 golfr: 0.1.0
 gomms: '1.0'
 gomp: '1.0'
@@ -17228,7 +17233,7 @@ googleway: 2.7.8
 gooseR: 0.1.2
 gor: '2.0'
 goric: 1.1-3
-gorica: 0.1.4
+gorica: 0.1.5
 gorpiper: 1.0.1
 gosset: 1.5.1
 gotop: 0.1.4
@@ -19205,6 +19210,7 @@ kuzco: 0.1.0
 kuzuR: 0.2.3
 kvh: 1.4.2
 kvkapiR: 0.1.2
+kvr2: 0.1.0
 kwb.hantush: 0.3.0
 kyotil: 2024.11-01
 kza: 4.1.0.1
@@ -20363,6 +20369,7 @@ meanShiftR: '0.56'
 meanr: 0.1-6
 meanscore: 1.0-6
 meantables: 0.1.2
+measles: 0.1.0
 measr: 2.0.0
 measuRing: 0.5.2
 measureR: 0.0.1
@@ -20846,6 +20853,7 @@ mixopt: 0.1.3
 mixor: 1.0.4
 mixpack: 0.3.6
 mixpoissonreg: 1.0.0
+mixpower: 0.1.0
 mixreg: 2.0-10
 mixsep: 0.2.1-2
 mixsmsn: 1.1-12
@@ -25015,7 +25023,7 @@ rccmisc: 0.3.7
 rccola: 1.0.2
 rcd3: 0.1.1
 rcdd: 1.6-1
-rcdf: 0.1.2
+rcdf: 0.1.3
 rcdk: 3.8.2
 rcdklibs: '2.9'
 rcdo: 0.3.2
@@ -26008,7 +26016,7 @@ roundwork: 0.0.1
 roundyh: 0.1.0
 routr: 2.0.0
 rowr: 1.1.3
-roxigraph: 0.1.0
+roxigraph: 0.1.1
 roxut: 0.4.0
 roxy.shinylive: 1.0.0
 roxyPackage: 0.03-6
@@ -26217,7 +26225,7 @@ rsunlight: 0.7.0
 rsurface: 1.1.0
 rsurfer: '0.2'
 rsurv: 0.0.2
-rsurveycto: 0.2.4
+rsurveycto: 0.2.5
 rsurvstat: 0.1.3
 rsvd: 1.0.5
 rsvddpd: 1.0.1
@@ -26268,7 +26276,7 @@ rtmsEcho: 0.2.4
 rtodoist: 0.2.0
 rtoot: 0.3.6
 rtop: 0.6-17
-rtpcr: 2.1.3
+rtpcr: 2.1.4
 rtrek: 0.5.2
 rtrend: 0.1.5
 rtrends: 0.1.0
@@ -28184,6 +28192,7 @@ ssh: 0.9.4
 ssh.utils: '1.0'
 sshicm: 0.1.0
 sship: 0.9.0
+sshist: 0.1.1
 ssifs: 1.0.5
 ssimparser: 0.1.2
 ssize.fdr: '1.3'
@@ -28913,7 +28922,7 @@ tailr: 0.1.3
 taipan: 0.1.2
 takos: 0.2.0
 talkr: 0.1.3
-tall: 0.5.1
+tall: 0.5.2
 tame: 0.2.1
 tanaka: 0.4.0
 tangles: 2.0.1
@@ -29280,6 +29289,7 @@ tidyinftheo: 0.2.1
 tidyjson: 0.3.3.1
 tidyklips: 0.3.0
 tidylab: 4.1.1
+tidylaslog: 0.1.2
 tidylda: 0.0.7
 tidylearn: 0.1.0
 tidyllm: 0.3.5
@@ -29435,6 +29445,7 @@ tipsae: 1.0.3
 tipse: '1.2'
 tirt: 0.1.3
 tis: '1.39'
+tissot: 0.2.0
 titan: 1.0-16
 titanic: 0.1.0
 titeIR: 0.1.0
@@ -29823,7 +29834,7 @@ tsfgrnn: 1.0.5
 tsfknn: 0.6.0
 tsfngm: 0.1.0
 tsforecast: 1.3.0
-tsg: 0.1.0
+tsg: 0.1.1
 tsgarch: 1.0.3
 tsgc: '0.0'
 tsgui: 0.2.1
