@@ -342,7 +342,7 @@ ApplyPolygenicScore: 4.0.1
 AquaAnalytix: 0.1.0
 AquaBEHER: 1.4.0
 AquaBPsim: 0.0.1
-AquaEnv: 1.0-4
+AquaEnv: 1.0-5
 AquaticLifeHistory: 1.0.6
 ArArRedux: '1.0'
 ArCo: 0.3-1
@@ -1060,7 +1060,7 @@ CCTpack: 1.5.2
 CCWeights: 0.1.6
 CCd: '1.1'
 CCpop: '1.0'
-CDCPLACES: 1.1.10
+CDCPLACES: 1.2.0
 CDECRetrieve: 0.1.5
 CDF: 0.1.0
 CDF.PSIdekick: '1.2'
@@ -1326,6 +1326,7 @@ Canek: 0.2.5
 Canopy: 1.3.0
 Capsule: 0.2.0
 CarbonEL: 0.1-4
+CardiacDP: 0.4.2
 CardioCurveR: 1.0.0
 CardioDataSets: 0.2.0
 CareDensity: 0.1.0
@@ -3808,7 +3809,7 @@ IFMCDM: 0.1.17
 IFP: 0.2.4
 IFSPlot: '1.0'
 IFTPredictor: 0.1.0
-IGC.CSM: 0.2.0
+IGC.CSM: 0.3.0
 IGCities: 0.2.0
 IGG: '1.0'
 IGM.MEA: 0.3.5
@@ -4664,6 +4665,7 @@ MDSGUI: 0.1.6
 MDSMap: '1.3'
 MDSPCAShiny: 0.1.0
 MDSS: 1.0-1
+MDgof: 1.0.0
 MDimNormn: 0.8.0
 MDplot: 1.0.1
 MEAanalysis: 0.1.0
@@ -13519,7 +13521,7 @@ dbnR: 0.8.0
 dbnlearn: 0.1.0
 dbparser: 2.2.1
 dbplot: 0.3.3
-dbplyr: 2.5.1
+dbplyr: 2.5.2
 dbrobust: 1.0.0
 dbscan: 1.2.4
 dbstats: 2.0.3
@@ -14223,7 +14225,7 @@ drhutools: 1.0.1
 driftR: 1.1.0
 drifter: 0.2.1
 driftsel: 2.1.1
-drimmR: 1.0.1
+drimmR: 1.0.3
 driveR: 0.5.0
 drm: 0.5-8
 drmdel: 1.3.2
@@ -14322,7 +14324,7 @@ dummies: 1.5.6
 dummy: 0.1.3
 dundermifflin: 0.1.1
 dunlin: 0.1.12
-dunn.test: 1.3.6
+dunn.test: 1.3.7
 dupNodes: 0.3.0
 dupiR: 1.2.1
 dupree: 0.3.0
@@ -15632,7 +15634,7 @@ files: 0.0.1
 filesstrings: 3.4.0
 filibustr: 0.5.1
 filling: 0.2.4
-fillpattern: 1.0.2
+fillpattern: 1.0.3
 fillr: 1.0.0
 filteRjsats: '1.0'
 filterNHP: 0.1.2
@@ -15786,7 +15788,7 @@ flexrsurv: 2.0.18
 flexsiteboard: 0.0.7
 flexsurv: 2.3.2
 flexsurvcure: 1.3.3
-flextable: 0.9.10
+flextable: 0.9.11
 flexurba: 0.2.3
 flifo: 0.1.5
 flightplanning: 0.8.4
@@ -15983,7 +15985,7 @@ fpopw: '1.1'
 fpow: 0.0-3
 fpp: '0.5'
 fpp2: 2.5.1
-fpp3: 1.0.2
+fpp3: 1.0.3
 fpsim: 0.1.0
 fptdApprox: '2.5'
 fqacalc: 1.1.1
@@ -16859,7 +16861,7 @@ ggpca: 0.1.3
 ggpcp: 0.2.0
 ggpedigree: 1.1.0.3
 ggperiodic: 1.0.3
-ggpicrust2: 2.5.2
+ggpicrust2: 2.5.10
 ggpie: 0.2.5
 ggplate: 0.2.0
 ggplayfair: 0.1.1
@@ -17126,7 +17128,7 @@ gluvarpro: '7.0'
 glvmfit: 0.1.0
 glycanr: 0.4.0
 glyparse: 0.5.5
-glyrepr: 0.10.0
+glyrepr: 0.10.1
 gm: 2.0.0
 gmDatabase: 0.5.1
 gmGeostats: 0.11.4
@@ -17424,7 +17426,7 @@ growcurves: 0.2.4.1
 growfunctions: '0.17'
 growth: 1.1.1
 growthPheno: 3.1.18
-growthTrendR: 0.2.1
+growthTrendR: 0.2.2
 growthcleanr: 2.2.0
 growthcurver: 0.3.1
 growthmodels: 1.3.1
@@ -17445,7 +17447,7 @@ grr: 0.9.5
 grt: 0.2.1
 grwat: '0.1'
 gsDesign: 3.8.0
-gsDesign2: 1.1.7
+gsDesign2: 1.1.8
 gsDesignTune: 0.1.0
 gsEasy: '1.5'
 gsMAMS: 0.7.2
@@ -18121,7 +18123,7 @@ iCAMP: 1.5.12
 iCARH: 2.0.2.1
 iCellR: 1.7.0
 iCiteR: 0.2.1
-iClick: '1.6'
+iClick: 1.6.1
 iCluster: 2.1.0
 iClusterVB: 0.1.4
 iDEMO: 0.2-01
@@ -18326,6 +18328,7 @@ iilasso: 0.0.2
 iimi: 1.2.2
 ijtiff: 3.2.0
 iki.dataclim: '1.0'
+il.cbs.muni: 0.1.0
 ilabelled: 1.0.1
 ilc: '1.0'
 imPois: 0.1.4
@@ -18468,7 +18471,7 @@ influence.ME: 0.9-10
 influence.SEM: '2.4'
 influenceAUC: 0.1.2
 influenceR: 0.1.5
-influential: 2.2.9
+influential: 2.3.0
 influxdbclient: 0.1.2
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
@@ -19335,7 +19338,7 @@ lavaanExtra: 0.2.2
 lavaanPlot: 0.8.1
 lavaangui: 0.3.2
 lavacreg: 0.2-2
-lavinteract: 0.4.5
+lavinteract: 0.4.6
 lawn: 0.6.0
 lawstat: '3.6'
 lax: 1.2.4
@@ -20162,7 +20165,7 @@ mashr: 0.2.79
 maskRangeR: '1.1'
 maskr: 0.1.0
 mason: 0.3.0
-massProps: 0.3.4
+massProps: 0.3.5
 masscor: 0.0.7.1
 massiveGST: 1.2.4
 mastif: '2.3'
@@ -21911,7 +21914,7 @@ nightmares: 0.0.2
 nilde: 1.1-7
 nilsier: 0.1.1
 nima: 0.6.2
-nimble: 1.4.0
+nimble: 1.4.1
 nimbleAPT: 1.0.7
 nimbleCarbon: 0.2.6
 nimbleEcology: 0.5.0
@@ -22594,7 +22597,7 @@ ordinalClust: 1.3.5
 ordinalCont: 2.0.2
 ordinalForest: 2.4-4
 ordinalLBM: '1.0'
-ordinalNet: '2.13'
+ordinalNet: '2.14'
 ordinalRR: '1.1'
 ordinalTables: 1.0.0.3
 ordinalbayes: 0.1.2
@@ -23587,7 +23590,7 @@ pls.pcr: 0.2.7
 plsRbeta: 0.3.2
 plsRcox: 1.8.0
 plsRglm: 1.6.0
-plsVarSel: 0.9.13
+plsVarSel: 0.10.0
 plsdepot: 0.3.0
 plsdof: 0.4-0
 plsgenomics: 1.5-3
@@ -23652,7 +23655,7 @@ pmxTools: '1.5'
 pmxcode: 0.3.1
 pmxcv: 0.0.2
 pmxpartab: 0.5.0
-pnd: 0.1.1
+pnd: 0.1.2
 pnea: 1.2.4
 pnf: 0.1.1
 png: 0.1-8
@@ -25256,7 +25259,7 @@ redcapAPI: 2.11.5
 redcas: 0.1.1
 reddPrec: 3.0.2
 redditadsR: 0.1.0
-redist: 4.3.1
+redist: 4.3.2
 redistmetrics: 1.0.11
 redistverse: 0.1.2
 redland: 1.0.17-19
@@ -28411,7 +28414,7 @@ stochasticGEM: 0.0-1
 stochcorr: 0.0.1
 stochmod: 1.2.1
 stochprofML: 2.0.3
-stochtree: 0.3.0
+stochtree: 0.3.1
 stochvol: 3.2.8
 stochvolTMB: 0.3.0
 stockAnalyst: 1.0.1
@@ -29777,7 +29780,7 @@ trouBBlme4SolveR: 0.1.4
 trps: 0.1.0
 trread: 0.2.7
 trtf: 0.4-3
-trtswitch: 0.2.3
+trtswitch: 0.2.4
 trud: 0.2.0
 truelies: 0.2.0
 trueskill: '0.1'
@@ -30235,7 +30238,7 @@ vapour: 0.15.0
 varComp: 0.2-0
 varEst: 0.1.0
 varImp: '0.4'
-varPro: 2.0.0
+varPro: 2.1.0
 varSel: '0.2'
 varSelRF: 0.7-9
 varSelectIP: 0.2-1
@@ -30426,7 +30429,7 @@ visvow: 1.3.11
 visxhclust: 1.1.0
 vita: 1.0.0
 vitae: 0.6.0
-vital: 2.0.2
+vital: 2.0.3
 vitality: '1.3'
 vitals: 0.2.0
 vivainsights: 0.7.1
