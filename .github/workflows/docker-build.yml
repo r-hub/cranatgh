@@ -10,8 +10,8 @@ jobs:
     - name: Publish to Registry
       uses: elgohr/Publish-Docker-Github-Action@v5
       with:
-        name: docker.pkg.github.com/r-hub/cranatgh/cranatgh
+        name: ghcr.io/r-hub/cranatgh/cranatgh
         username: ${{ github.actor }}
         password: ${{ secrets.GITHUB_TOKEN }}
-        registry: docker.pkg.github.com
+        registry: ghcr.io
         workdir: actions/cranatgh
