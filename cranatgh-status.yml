@@ -4964,6 +4964,7 @@ MVET: 0.1.0
 MVLM: 0.1.4
 MVN: '6.3'
 MVNBayesian: 0.0.8-11
+MVNGmod: 0.1.0
 MVNtestchar: 1.1.3
 MVOPR: 2.0.0
 MVPARTwrap: 0.1-9.2
@@ -6431,7 +6432,7 @@ PsiHat: '1.0'
 Pstat: '1.2'
 PsumtSim: '0.4'
 PsyControl: 1.0.0.0
-PsyToolkit: 1.1.0
+PsyToolkit: 1.1.2
 PsychWordVec: '2025.11'
 PtProcess: 3.3-17
 PubBias: '1.0'
@@ -7197,7 +7198,7 @@ RaMS: 1.4.3
 RaPKod: '0.9'
 RaProR: 1.1-5
 RaSEn: 3.0.0
-RaceID: 0.3.9
+RaceID: 0.4.0
 Racmacs: 1.2.9
 RadData: 1.0.2
 RadEro: 1.0.8
@@ -7363,7 +7364,7 @@ RcppArray: 0.3.0
 RcppBDT: 0.2.7
 RcppBessel: 1.0.0
 RcppBigIntAlgos: 1.1.0
-RcppBlaze: 1.0.1
+RcppBlaze: 1.0.2
 RcppCCTZ: 0.2.14
 RcppCGAL: '6.1'
 RcppCNPy: 0.2.14
@@ -7450,6 +7451,7 @@ Rdsdp: 1.0.6
 Rdsm: 2.1.1
 Rdta: 1.0.1
 Rdtq: '0.1'
+Rduckhts: 0.1.2-0.1.4
 Rduino: '0.1'
 Rduinoiot: 0.1.0
 Rdune: 1.1.1
@@ -8864,7 +8866,7 @@ TBox: 0.2.2
 TCA: 1.2.1
 TCC: 1.1.3
 TCGA2STAT: '1.2'
-TCGAretriever: 1.10.1
+TCGAretriever: 1.10.3
 TCHazaRds: 1.1.5
 TCIApathfinder: 1.0.6
 TCIU: 1.2.8
@@ -8874,7 +8876,7 @@ TDA: 1.9.4
 TDAkit: 0.1.3
 TDAmapper: '1.0'
 TDApplied: 3.0.4
-TDAstats: 0.4.1
+TDAstats: 0.4.2
 TDAvec: 0.1.41
 TDCM: 0.1.0
 TDCor: 0.1-2
@@ -9922,7 +9924,7 @@ adwordsR: 0.3.1
 aebdata: 0.1.4
 aeddo: 0.1.1
 aedseo: 1.1.0
-aelab: 1.0.1
+aelab: 1.1.0
 aemo: 0.3.0
 aesopR: 0.1.0
 afCEC: 1.0.2
@@ -12613,7 +12615,7 @@ command: 0.1.3
 commandr: 1.0.1
 commecometrics: 1.1.1
 commentr: 1.0.4
-common: 1.1.4
+common: 1.1.5
 commonmark: 2.0.0
 commonsMath: 1.2.8
 communication: '0.1'
@@ -14892,7 +14894,7 @@ epiCleanr: 0.2.0
 epiCo: 1.0.1
 epiDisplay: 3.7.0.0
 epiGWAS: 1.0.2
-epiR: 2.0.90
+epiR: 2.0.91
 epibase: 0.1-3
 epibasix: '1.5'
 epicalc: 2.15.1.0
@@ -19050,7 +19052,7 @@ karyotapR: 1.0.2
 katex: 1.5.0
 kayadata: 1.4.0
 kazaam: 0.1-0
-kbal: 0.1.3
+kbal: 0.1.4
 kcirt: 0.6.0
 kcmeans: 0.1.0
 kcopula: 0.1.0
@@ -20056,6 +20058,7 @@ magrittr: 2.0.4
 maic: 0.1.4
 maicChecks: 0.2.0
 maicplus: 0.1.2
+maidr: 0.1.2
 mail: '1.0'
 mailR: '0.8'
 mailchimpR: 0.1.0
@@ -22441,7 +22444,7 @@ omixVizR: 1.4.0
 omnibus: 1.2.15
 omock: 0.6.1
 omopgenerics: 1.3.6
-omophub: 1.3.0
+omophub: 1.4.0
 omopr: '0.2'
 ompr: 1.0.4
 ompr.roi: 1.0.2
@@ -22680,6 +22683,7 @@ oro.nifti: 0.11.4
 oro.pet: 0.2.7
 orsifronts: 0.2.0
 orsk: 1.0-8
+ort: 0.1.0
 orth: 1.5.1
 orthGS: 0.1.8
 orthoDr: 0.6.8
@@ -26298,7 +26302,7 @@ rsurvstat: 0.1.4
 rsvd: 1.0.5
 rsvddpd: 1.0.1
 rsvg: 2.7.0
-rswipl: 10.1.1.1
+rswipl: 10.1.4
 rsyncrosim: 2.1.9
 rsyntax: 0.1.4
 rsynthbio: 4.0.1
@@ -28648,6 +28652,7 @@ summclust: 0.7.2
 sumup: 1.0.1
 sumvar: '0.1'
 sunburstR: 2.1.8
+sunburstShinyWidget: 0.5.0
 suncalc: 0.5.1
 sundialr: 0.1.6.2
 suntools: 1.1.0
@@ -28834,7 +28839,7 @@ swaglm: 0.0.1
 swamp: 1.5.1
 swapClass: 1.0.1
 swaprinc: 1.0.1
-swash: 1.3.2
+swash: 1.3.3
 swatches: 0.5.0
 swdft: 1.0.0
 swdpwr: '1.11'
@@ -29162,7 +29167,7 @@ tester: 0.3.0
 testex: 0.2.1
 testextra: 0.1.0.1
 testforDEP: 0.2.0
-testit: '0.15'
+testit: '0.16'
 testthat: 3.3.2
 testthatdocs: 1.0.23
 testthatmulti: 0.2.0
@@ -29269,8 +29274,8 @@ thickmatch: 0.3.1
 thief: '0.3'
 thinkr: '0.16'
 this.path: 2.7.1
-thisplot: 0.3.2
-thisutils: 0.3.6
+thisplot: 0.3.5
+thisutils: 0.4.2
 thor: 1.2.0
 thorn: 0.2.0
 thredds: 0.1-4
@@ -30475,7 +30480,7 @@ viruslearner: 0.0.2
 virustotal: 0.5.0
 visNetwork: 2.1.4
 visOmopResults: 1.4.2
-visPedigree: 0.7.1
+visPedigree: 1.0.1
 visR: 0.4.1
 visStatistics: 0.1.7
 visTree: 0.8.1
