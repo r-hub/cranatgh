@@ -1811,6 +1811,7 @@ DChaos: 0.1-7
 DCluster: 0.2-10
 DClusterm: 1.0-2
 DDD: 5.2.4
+DDESONN: 7.1.9
 DDHFm: 1.1.4
 DDIwR: '0.19'
 DDL: 1.0.2
@@ -5178,7 +5179,7 @@ MicroSEC: 2.1.6
 MicroStrategyR: 1.0-1
 MicrobTiSDA: 0.1.0
 MicrobialGrowth: 1.0.0
-MicrobiomeStat: '1.3'
+MicrobiomeStat: '1.4'
 MicrobiomeSurv: 0.1.0
 Microsoft365R: 2.4.1
 MigClim: 1.6.2
@@ -6699,6 +6700,7 @@ RCTrep: 1.2.0
 RCarb: 0.1.7
 RCassandra: 0.1-3
 RCaucTile: 1.0.4
+RChASM: 1.0.0
 RChest: 1.0.3
 RChronoModel: '0.4'
 RCircos: 1.2.2
@@ -18667,7 +18669,7 @@ interplex: 0.1.2
 interplot: 0.2.3
 interpolation: 0.1.1
 interpolators: 1.0.1
-interpret: 0.1.34
+interpret: 0.1.35
 interpretCI: 0.1.1
 interpretR: 0.2.5
 interprocess: 1.3.0
@@ -19995,7 +19997,7 @@ lubridate: 1.9.5
 lubrilog: 1.3.0
 luca: 1.0-6
 lucas: '1.0'
-lucid: '1.9'
+lucid: '1.11'
 lucr: 0.2.0
 ludic: 0.2.1
 lue: 0.2.1
@@ -24719,6 +24721,10 @@ r4pde: 0.1.0
 r4ss: 1.44.0
 r4subcore: 0.1.0
 r4subdata: 0.1.1
+r4subprofile: 0.1.0
+r4subrisk: 0.1.0
+r4subscore: 0.1.0
+r4subtrace: 0.1.0
 r511: 0.1.1
 r5r: 2.3.0
 r5rgui: 0.2.0
@@ -26025,6 +26031,7 @@ robsurvey: 0.7-3
 robumeta: '2.1'
 robusTest: 1.1.0
 robust: 0.7-5
+robust.prioritizr: 1.0.2
 robust2sls: 0.2.3
 robustBLME: 0.1.3
 robustDA: '1.2'
@@ -30202,6 +30209,7 @@ uniLasso: '2.11'
 uniPlot: 0.3-1
 uniReg: '1.1'
 uniah: '1.2'
+unicefData: 2.3.0
 unicol: 0.4.0
 unifDAG: 1.0.4
 unifed: 1.1.6
@@ -30840,7 +30848,7 @@ whatr: 1.0.1
 whatthreewords: 0.1.3
 wheatmap: 0.2.0
 when: 1.0.0
-whep: 0.2.0
+whep: 0.3.0
 where: 1.0.0
 whereami: 0.2.0
 whereport: '0.1'
