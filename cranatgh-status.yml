@@ -131,6 +131,7 @@ APAtree: 1.0.1
 APCI: 1.0.8
 APCalign: 1.1.3
 APCanalysis: '1.0'
+APCinteraction: 0.1.0
 APCtools: 1.0.8
 APFr: 1.0.2
 APIS: 2.0.8
@@ -11160,7 +11161,7 @@ binst: 0.2.1
 bio.infer: 1.3-6
 bio3d: 2.4-5
 bioC.logs: 1.2.1
-bioLeak: 0.2.0
+bioLeak: 0.3.0
 bioOED: 0.2.1
 bioPN: 1.2.0
 bioRad: 0.11.0
@@ -12104,6 +12105,7 @@ checkhelper: 0.1.1
 checkmate: 2.3.4
 checkpoint: 1.0.2
 checkr: 0.5.0
+checkstring: 0.1.0
 checkthat: 0.1.0
 cheddar: 0.1-639
 cheem: 0.4.2
@@ -14525,7 +14527,7 @@ easyScieloPack: 0.1.1
 easySdcTable: 1.1.2
 easySimData: 0.1.0
 easyVerification: 0.4.5
-easyViz: 2.0.2
+easyViz: 2.1.0
 easyWechat: 0.2.0
 easyalluvial: 0.4.0
 easyanova: '11.0'
@@ -15597,6 +15599,7 @@ fdaoutlier: 0.2.1
 fdapace: 0.6.0
 fdapaceShiny: 1.0.5
 fdarep: 0.1.1
+fdars: 0.3.3
 fdasrvf: 2.4.3
 fdatest: 2.1.1
 fdcov: 1.1.0
@@ -19740,6 +19743,7 @@ livechatR: 0.1.0
 liver: '1.27'
 ljr: 1.4-0
 llama: 0.10.1
+llamaR: 0.2.2
 llbayesireg: 1.0.0
 lle: '1.1'
 lllcrc: '1.2'
@@ -21624,7 +21628,7 @@ multiwayvcov: 1.2.3
 multmod: '1.0'
 multpois: 0.3.3
 multtest: 2.8.0
-multvardiv: 1.0.14
+multvardiv: 1.0.15
 multxpert: 0.1.1
 muma: '1.4'
 mumarinex: '1.0'
@@ -25249,6 +25253,7 @@ rdi: 1.0.0
 rdian: 0.1.1
 rdist: 0.0.5
 rdiversity: 2.2.0
+rdkitpyr: 0.2.1
 rdlearn: 0.1.1
 rdlocrand: '1.1'
 rdmulti: '1.2'
@@ -26705,7 +26710,7 @@ sasr: 0.1.5
 sass: 0.4.10
 sassy: 1.3.0
 satdad: '1.1'
-sate: 3.1.0
+sate: 3.1.1
 satellite: 1.0.6
 satin: 1.2.0
 satres: 1.1.1
@@ -30937,6 +30942,7 @@ wk: 0.9.5
 wkNNMI: 1.0.0
 wkb: 0.4-0
 wklsr: 0.2.6
+wkpool: 0.3.0
 wktmo: 1.0.5
 wkutils: 0.1.3
 wle: 0.9-91
