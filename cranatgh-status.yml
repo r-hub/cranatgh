@@ -640,6 +640,7 @@ BTR: 1.2.4
 BTSPAS: 2024.11.1
 BTSR: 1.0.2
 BTTL: 1.0.0
+BTWAR: 1.0.1
 BTYD: 2.4.3
 BTYDplus: 1.2.0
 BTdecayLasso: 0.1.1
@@ -1843,6 +1844,7 @@ DEPONS2R: 1.2.8
 DER: '1.3'
 DES: 1.0.0
 DESA: 1.0.0
+DESNP: 0.1.0
 DESP: 0.2-2
 DESnowball: '1.0'
 DET: 3.0.2
@@ -2131,6 +2133,7 @@ Design.parameters: 0.1.0
 DesignCTPB: 1.1.3
 DesignLibrary: 0.1.10
 DesignPatterns: 0.1.2
+Desimml: 0.1.4
 DetLifeInsurance: 0.1.3
 DetMCD: 0.0.5
 DetR: 0.0.5
@@ -4204,7 +4207,7 @@ KbMvtSkew: 1.1.0
 Kcop: 1.0.0
 KenSyn: '0.3'
 Kendall: 2.2.2
-Keng: 2025.10.8
+Keng: 2026.3.19
 KernSmooth: 2.23-26
 KernSmoothIRT: '6.4'
 KernelICA: 0.1.0
@@ -4767,6 +4770,7 @@ MIMER: 1.0.5
 MIMSunit: 0.11.2
 MINTplates: 1.0.1
 MIPHENO: '1.2'
+MIRDD: 0.1.0
 MIRES: 0.1.1
 MIRL: '1.0'
 MISA: 2.11.1-1.0.1
@@ -9621,7 +9625,7 @@ WeibullR.ALT: 0.7.2
 WeibullR.learnr: 0.2.1
 WeibullR.plotly: 0.3.2
 WeibullR.shiny: 0.3.1
-WeightIt: 1.5.1
+WeightIt: 1.6.0
 WeightMyItems: 0.1.4
 WeightSVM: 1.7-16
 Weighted.Desc.Stat: '1.0'
@@ -9829,6 +9833,7 @@ acebayes: '1.11'
 acepack: 1.6.3
 acer: 0.1.2
 acfMPeriod: 1.1.0
+achieveGap: 0.1.0
 acid: '1.1'
 acled.api: 1.1.8
 acledR: 1.0.1
@@ -11423,7 +11428,7 @@ boilerpipeR: 1.3.2
 boilerplate: 1.3.0
 boinet: 1.5.0
 boiwsa: 1.1.4
-bolasso: 0.4.0
+bolasso: 0.5.0
 bold: 1.3.0
 bolsec: 0.1.1
 bolt4jr: 1.4.0
@@ -11471,7 +11476,7 @@ bootcluster: 0.4.3
 bootf2: 0.4.1
 bootfs: 1.4.2
 bootkmeans: 1.0.0
-bootnet: 1.7.1
+bootnet: '1.8'
 bootruin: 1.2-4
 bootsPLS: 1.1.2
 bootspecdens: '3.0'
@@ -11779,7 +11784,7 @@ camelsCL: 0.1-10
 camerondata: 1.0.0
 campaignmanageR: 0.1.0
 campfin: 1.0.11
-campsis: 1.8.1
+campsis: 1.8.2
 campsismod: 1.3.1
 camsRad: 0.3.0
 camtrapR: 3.0.3
@@ -15884,6 +15889,7 @@ fitdistcp: 0.2.3
 fitdistrplus: 1.2-6
 fitlandr: 0.1.1
 fitmix: 0.1.1
+fitnmr: '1.0'
 fitode: 0.1.1
 fitplc: 1.2-3.1
 fitscape: 0.1.0
@@ -16189,6 +16195,7 @@ frbf: 1.0.1
 frbinom: 1.0.0
 frbs: 3.2-0
 frechet: 0.3.0
+fred: 0.1.2
 fredr: 2.1.0
 free: 1.0.2
 freealg: 1.1-8
@@ -18677,6 +18684,7 @@ informativeSCI: 1.0.4
 informedSen: 1.0.7
 infotest: 0.1.0
 infotheo: 1.2.0.1
+infoxtr: '0.1'
 infra: 0.1.2
 infraFDTD.assist: '0.6'
 infuser: 0.2.8
@@ -21089,6 +21097,7 @@ mkde: '0.4'
 mkin: 1.2.10
 mknapsack: 0.1.0
 mkssd: '1.2'
+ml: 0.1.2
 mlCopulaSelection: '1.3'
 mlDNA: '1.1'
 mlPhaser: '0.01'
@@ -22699,6 +22708,7 @@ openairmaps: 0.9.1
 openaistream: 0.3.0
 openalexR: 3.0.1
 openappr: 0.2.0
+openaq: 1.0.0
 openbankeR: 0.1.1
 openblender: 0.5.81
 opencage: 0.2.2
@@ -24184,6 +24194,7 @@ predictmeans: 1.1.1
 predictoR: 4.1.7
 predictrace: 2.0.1
 predicts: 0.1-19
+predictset: 0.3.0
 predictsr: 0.2.0
 predieval: 0.1.1
 predint: 2.3.0
@@ -24507,7 +24518,7 @@ pudu: 0.1.0
 puff: 0.1.0
 pullword: '0.3'
 puls: 0.1.3
-pulsar: 0.3.11
+pulsar: 0.3.12
 pulseTD: 0.1.0
 pulver: 0.1.1
 pumBayes: 1.0.2
@@ -25066,6 +25077,7 @@ railtrails: 0.1.1
 rainbow: '3.8'
 raincin: 1.0.3
 raincpc: 1.1.0
+rainerosr: 0.1.1
 rainette: 0.3.2
 rainfarmr: '0.1'
 rainfreq: '0.3'
@@ -25431,6 +25443,7 @@ readaec: 0.1.2
 readapra: 0.2.1
 readbitmap: 0.1.5
 readbulk: 1.1.4
+readecb: 0.1.2
 readepi: 1.0.4
 reader: 1.1.0
 readit: 1.0.0
@@ -25440,6 +25453,7 @@ readmission: 0.1.0
 readmit: 0.0.1
 readmnist: 1.0.6
 readmoRe: 0.2-15
+readnoaa: 0.1.1
 readobj: 0.4.1
 readoecd: 0.3.3
 readosense: 0.0.1
@@ -28066,7 +28080,7 @@ spANOVA: 0.99.4
 spAbundance: 0.2.1
 spAddins: 0.2.0
 spBFA: 1.5.0
-spBPS: 0.0-4
+spBPS: 1.0-1
 spBayes: 0.4-8
 spBayesSurv: 1.1.9
 spCF: 0.1.0
@@ -28565,6 +28579,7 @@ staninside: 0.0.4
 stanza: 1.0-3
 stapler: 0.8.0
 staplr: 3.2.2
+starburst: 0.3.8
 stargazer: 5.2.3
 starling: 0.6.5
 starm: 0.1.0
@@ -30999,6 +31014,7 @@ wethepeople: 0.6.1
 wevid: 0.6.2
 wex: 0.1.0
 weyl: 0.0-7
+wf: 0.0.1
 wfe: 1.9.1
 wfg: '0.1'
 wfindr: 0.1.0
