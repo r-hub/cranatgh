@@ -2300,6 +2300,7 @@ ECFsup: 0.1-2
 ECG: 0.5.2
 ECGofTestDx: '0.5'
 ECLRMC: '1.0'
+ECMLE: 0.1.0
 ECOSolveR: 0.6.1
 ECOTOXr: 1.2.4
 ECSFargateProvider: 1.0.0
@@ -4249,6 +4250,7 @@ Kurt: '1.1'
 L0Learn: 2.1.0
 L0TFinv: 0.1.0
 L0cpt: 0.2.0
+L0ggm: 0.0.1
 L1centrality: 0.4.0
 L1mstate: 1.0.1
 L1pack: 0.62-4
@@ -5285,7 +5287,7 @@ ModelMatrixModel: 0.1.0
 ModelMetrics: 1.2.2.2
 Modelcharts: 0.1.0
 Modeler: 3.4.9
-MolgenisArmadillo: 2.9.3
+MolgenisArmadillo: 3.0.0
 MolgenisAuth: 1.0.0
 MomTrunc: '6.1'
 Momocs: 1.5.0
@@ -8183,7 +8185,7 @@ SPADAR: '1.0'
 SPARQL: '1.16'
 SPARRAfairness: 0.1.0.0
 SPARSEMODr: 1.2.0
-SPARTAAS: 1.2.4
+SPARTAAS: 1.2.5
 SPAS: 2025.2.1
 SPAr: '0.1'
 SPAtest: 3.1.2
@@ -8437,6 +8439,7 @@ SequenceAnalysis: '1.3'
 SequenceSpikeSlab: 1.0.1
 Sequential: 4.5.2
 SequentialDesign: '1.0'
+SeroTrackR: 1.0.0
 SerolyzeR: 1.4.1
 SesIndexCreatoR: 1.0-2
 SetMethods: '4.1'
@@ -8837,6 +8840,7 @@ SuperGauss: 2.0.4
 SuperLearner: 2.0-40
 SuperPCA: 0.4.0
 SuperRanker: 1.2.1
+SuperSurv: 0.1.1
 SuperpixelImageSegmentation: 1.0.6
 Superpower: 0.2.4.1
 SuppDists: 1.1-9.9
@@ -9150,6 +9154,7 @@ TensorMCMC: 0.1.0
 TensorPreAve: 1.1.0
 TensorTest2D: 1.1.2
 TensorTools: 1.0.0
+TernTables: 1.6.4
 Ternary: 2.3.6
 TesiproV: 0.9.5
 TestAnaAPP: 1.1.2
@@ -9637,6 +9642,7 @@ WeibullR.ALT: 0.7.2
 WeibullR.learnr: 0.2.1
 WeibullR.plotly: 0.3.2
 WeibullR.shiny: 0.3.1
+WeightCraft: 1.0.0
 WeightIt: 1.6.0
 WeightMyItems: 0.1.4
 WeightSVM: 1.7-16
@@ -10242,6 +10248,7 @@ animaltracker: 0.2.0
 animate: 0.3.9.4
 animation: '2.8'
 animbook: 1.0.1
+animejs: 0.1.0
 animint2: 2025.10.17
 animl: 3.2.0
 anipaths: 0.10.6
@@ -12007,7 +12014,7 @@ ccpsyc: 0.2.6
 ccrs: 0.1.0
 ccrtm: 0.1.6
 ccss: '1.0'
-cctest: 2.3.1
+cctest: 2.3.2
 cctools: 0.1.3
 cd: 0.1.0
 cda: 2.0.0
@@ -17642,6 +17649,7 @@ growR: 1.3.0
 growcurves: 0.2.4.1
 growfunctions: '0.17'
 growth: 1.1.2
+growthDecomp: 0.1.0
 growthPheno: 3.1.18
 growthTrendR: 0.2.2
 growthcleanr: 2.2.1
@@ -18026,6 +18034,7 @@ hgnc: 0.3.0
 hgutils: 0.2.19
 hgwrr: 0.6-2
 hhcartr: 1.0.0
+hhdynamics: 1.3.2
 hhh4contacts: 0.13.4
 hhi: 1.2.0
 hhmR: 0.0.1.1
@@ -19046,6 +19055,7 @@ ivx: 1.1.1
 iwaqr: 1.8.4
 iwtp: 1.0.0
 ixplorer: 0.2.2
+ixsurface: 0.1.0
 izmir: 0.1.0
 jSDM: 0.2.7
 jScore: 0.1.0
@@ -20043,6 +20053,7 @@ longRPart2: 0.2.3
 longclust: '1.5'
 longevity: '1.3'
 longit: 0.1.0
+longitree: 1.0.0
 longitudinal: 1.1.13
 longitudinalANAL: '0.2'
 longitudinalData: 2.4.7
@@ -22086,6 +22097,7 @@ netmodels: '0.2'
 netplot: 0.3-0
 netrankr: 1.2.4
 netregR: 1.0.1
+netrics: 0.2.0
 netropy: 0.2.0
 nets: 0.9.1
 netseer: 0.1.3
@@ -25097,6 +25109,7 @@ race: 0.1.59
 raceland: 1.2.2
 racir: 2.0.0
 ractivecampaign: 0.6.0
+radEmu: 2.3.1.0
 radar: 1.0.0
 radarBoxplot: 1.0.5
 radarchart: 0.3.1
@@ -25369,6 +25382,7 @@ rcldf: 1.5.1
 rclimateca: 1.0.3
 rclinicaltrials: 1.4.7
 rclipboard: 0.2.1
+rcloner: 0.0.1
 rclsp: 0.5.0
 rcmdcheck: 1.4.0
 rco: 1.0.2
@@ -26596,6 +26610,7 @@ rtabulator: 0.1.2
 rtape: '2.2'
 rtdists: 0.11-5
 rtematres: '0.2'
+rtemis: 1.0.0
 rtemps: 0.8.0
 rtern: 0.1.2
 rtestim: 1.0.2
@@ -28064,6 +28079,7 @@ softmaxreg: '1.2'
 softwareRisk: 0.1.0
 soil.spec: 2.1.4
 soilDB: 2.8.13
+soilFlux: 0.1.5
 soilVAE: 0.1.9
 soilassessment: 0.3.1
 soilcarbon: 1.2.0
