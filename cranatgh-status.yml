@@ -1584,7 +1584,7 @@ CompositionalClust: '1.2'
 CompositionalHDDA: '1.0'
 CompositionalML: '1.0'
 CompositionalRF: '1.6'
-CompositionalSR: '1.1'
+CompositionalSR: '1.2'
 CompoundEvents: '1.0'
 Compounding: 1.0.2
 ComradesM: 0.1.1
@@ -2020,7 +2020,7 @@ DTRreg: '2.3'
 DTS: 0.1.1
 DTSEA: 0.0.3
 DTSR: 0.2.0
-DTSg: 2.0.0
+DTSg: 2.1.0
 DTWBI: '1.1'
 DTWUMI: '1.0'
 DTwrappers: 0.0.2
@@ -2849,7 +2849,7 @@ FastGaSP: 0.6.3
 FastHCS: 0.0.7
 FastHamming: '1.2'
 FastImputation: 2.2.1
-FastJM: 1.5.3
+FastJM: 1.6.0
 FastKM: '1.2'
 FastKNN: 0.0.1
 FastKRR: 0.1.2
@@ -12152,7 +12152,7 @@ changepoint.geo: 1.0.3
 changepoint.influence: 1.0.2
 changepoint.mv: 1.0.2
 changepoint.np: 1.0.5
-changepointGA: 0.1.3
+changepointGA: 0.1.4
 changepointTests: 0.1.7
 changepoints: 1.1.0
 changepointsHD: 0.3.3
@@ -16409,7 +16409,7 @@ fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.8
 fuzzylink: 0.4.1
 fuzzyreg: 0.6.2
-fuzzystring: 0.0.1
+fuzzystring: 0.0.5
 fuzzywuzzyR: 1.0.6
 fwb: 0.5.1
 fwdmsa: '0.2'
@@ -19449,7 +19449,7 @@ ks: 1.15.1
 ksNN: 0.1.2
 kscons: 0.7.0
 kselection: 0.2.1
-ksformat: 0.3.5
+ksformat: 0.4.2
 ksharp: 0.1.0.1
 ksm: '1.0'
 ksrlive: '1.0'
@@ -23821,7 +23821,7 @@ planar: '1.6'
 planets: 0.1.0
 planningML: 1.0.1
 planor: 1.5-3
-planr: 0.6.3
+planr: 0.6.4
 planscorer: 0.0.3
 plantTracker: 1.2.1
 plantecophys: 1.4-6
