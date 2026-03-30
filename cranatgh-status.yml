@@ -2558,7 +2558,7 @@ EpiContactTrace: 0.18.0
 EpiCurve: 2.4-2
 EpiDynamics: 0.3.1
 EpiEstim: 2.2-5
-EpiForsk: 0.2.1
+EpiForsk: 0.2.2
 EpiILM: 1.5.3
 EpiILMCT: 1.1.8
 EpiInvert: 0.3.1
@@ -10216,7 +10216,7 @@ aml: 0.1-1
 ammiBayes: 2.1-1
 ammistability: 0.1.4
 amp: 1.0.0
-amp.dm: 0.2.0
+amp.dm: 0.2.1
 ampd: '0.2'
 ampir: 1.1.0
 amregtest: 1.0.5
@@ -11425,7 +11425,7 @@ bmixture: '1.7'
 bmk: '1.0'
 bml: 0.9.0
 bmlm: 1.3.15
-bmm: 1.2.0
+bmm: 1.3.0
 bmmix: 0.1-2
 bmotif: 2.0.2
 bmp: 0.3.1
@@ -12871,6 +12871,7 @@ conformalInference.multi: 1.1.2
 conformalbayes: 0.1.4
 conformalpvalue: 0.1.0
 confoundr: '1.2'
+confoundvis: 0.1.0
 confreq: 1.6.1-3
 congress: 0.1.0
 congressbr: 0.2.2
@@ -15522,7 +15523,7 @@ factorcpt: 0.1.2
 factorial2x2: 0.2.0
 factormodel: '1.0'
 factorplot: '1.3'
-factorstochvol: 1.1.1
+factorstochvol: 1.1.2
 factory: 0.1.0
 factree: 0.1.0
 factset.analyticsapi.engines: 3.0.1
@@ -16088,6 +16089,7 @@ fmx: 0.1.3
 fnets: 0.1.6
 fntl: 0.1.2
 foba: '0.1'
+focus: 0.1.2
 focusedMDS: 1.3.3
 foghorn: 1.6.1
 foieGras: 0.7-6
@@ -18567,7 +18569,7 @@ igapfill: 0.0.41
 igate: 0.3.3
 igcop: 1.0.2
 igfetchr: 0.1.0
-iglm: 1.2.1
+iglm: 1.2.2
 iglu: 4.2.2
 igoR: 1.0.1
 igr: 1.0.1
@@ -19217,7 +19219,7 @@ jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.5.0
 jsr223: 0.3.4
-jstable: 1.3.24
+jstable: 1.3.25
 jstager: 0.0.6
 jstor: 0.3.11
 jsutils: 0.2.0
@@ -21813,7 +21815,7 @@ multiverse: 0.6.2
 multiversion: 0.3.6
 multiview: '0.8'
 multiviewtest: 2.0.1
-multiwave: '1.4'
+multiwave: '2.0'
 multiway: 1.0-7
 multiwayvcov: 1.2.3
 multmod: '1.0'
@@ -23503,6 +23505,7 @@ pepe: 1.2.0
 peperr: '1.7'
 peplib: 1.5.1
 peppm: 0.0.1
+peppwR: 0.1.0
 pepr: 0.6.0
 peptider: 0.2.2
 peptoolkit: 0.0.1
@@ -23956,6 +23959,7 @@ plusCode2: 0.1.0
 pluscode: 0.1.0
 plusser: 0.4-0
 plutor: 0.1.0
+ply: 0.1.0
 plyr: 1.8.9
 pm3: 0.2.0
 pm4py: 1.2.7
@@ -27154,6 +27158,7 @@ scuba: 1.11-1
 sculpt3d: 0.3-1
 scutr: 0.2.0
 scvxclustr: '0.1'
+sd2R: 0.1.7
 sdPrior: 1.0-0
 sdStaf: 1.0.2
 sda: 1.3.9
@@ -27220,7 +27225,7 @@ seawaveQ: 2.0.2
 secr: 5.4.2
 secrdesign: 2.10.1
 secret: 1.1.0
-secretbase: 1.2.0
+secretbase: 1.2.1
 secrettext: 0.1.0
 secrfunc: 1.0.0
 secrlinear: 1.2.5
@@ -27727,7 +27732,7 @@ sim1000G: '1.40'
 sim2Dpredictr: 0.1.1
 simBKMRdata: 0.2.1
 simCAT: 1.0.1
-simDAG: 0.5.1
+simDAG: 0.5.2
 simDNAmixtures: 1.1.2
 simET: 1.0.3
 simEd: 2.0.2
@@ -28269,6 +28274,7 @@ sparseGFM: 0.1.0
 sparseHessianFD: 0.3.3.7
 sparseIndexTracking: 0.1.1
 sparseLDA: 0.1-9
+sparseLM: '0.5'
 sparseLRMatrix: 0.1.0
 sparseLTSEigen: 0.2.0.1
 sparseMVN: 0.2.2
@@ -28463,7 +28469,8 @@ splash: 1.0.2
 splashr: 0.6.0
 spldv: 0.1.3
 splineCox: 0.0.8
-splineplot: 0.2.1
+splinemixmeta: 1.0.0
+splineplot: 0.3.0
 splines: 2.0-7
 splines2: 0.5.4
 splinesurv: 0.6-14
@@ -29301,7 +29308,7 @@ table1xls: 0.4.0
 tableExtra: 1.0.1
 tableHTML: 2.1.3
 tableMatrix: 0.82.0
-tableParser: 1.0.3
+tableParser: 1.0.4
 tablecompare: 0.1.1
 tabledown: 1.0.0
 tableeasy: 1.1.2
