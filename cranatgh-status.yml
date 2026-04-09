@@ -330,6 +330,7 @@ AnnuityRIR: 1.0-0
 AnomalyScore: '0.1'
 AntAngiCool: '1.1'
 AntAngioCOOL: '1.2'
+AntClassify: 0.1.0
 AntMAN: 1.1.0
 AntWeb: '0.7'
 AnthropMMD: 4.1.0
@@ -340,6 +341,7 @@ AnxietySleep: 0.0.1
 Aoptbdtvc: 0.0.3
 AovBay: 0.1.0
 ApacheLogProcessor: 0.2.3
+AplosNCA: 1.0.1
 Apoderoides: 3.0.1
 Apollonius: 1.0.1
 AppliedPredictiveModeling: 1.1-7
@@ -3622,7 +3624,7 @@ HOasso: 1.0.1
 HPLB: 1.0.0
 HPO.db: '1.2'
 HPOSim: '1.2'
-HPZoneAPI: 1.1.0
+HPZoneAPI: 1.3.0
 HPbayes: '0.1'
 HQM: '2.1'
 HRM: 1.2.1
@@ -5985,7 +5987,7 @@ PET: 0.5.1
 PEkit: 1.0.0.1000
 PEtests: 0.1.0
 PF: '9.5'
-PFIM: 7.0.2
+PFIM: 7.0.3
 PFLR: 1.1.0
 PFW: 0.1.0
 PGEE: '1.5'
@@ -12351,6 +12353,7 @@ circletyper: 1.0.2
 circlize: 0.4.18
 circlizePlus: 0.9.1
 circlus: 0.0.2
+circuitscaper: 0.1.0
 circular: 0.5-2
 circularEV: 0.1.1
 circularKDE: 0.1.1
@@ -12427,7 +12430,7 @@ clere: 1.2.0
 clespr: 1.1.2
 clevr: 0.1.2
 clhs: 0.9.2
-cli: 3.6.5
+cli: 3.6.6
 cliapp: 0.1.2
 clickR: 0.9.45
 clickableImageMap: '1.0'
@@ -13902,7 +13905,7 @@ demoGraphic: 0.1.0
 demoKde: 1.0.1
 demoShiny: '0.1'
 demodelr: 2.0.1
-demofit: 0.1.1
+demofit: 0.1.2
 demogR: 0.6.0
 demography: 2.0.1
 demu: 0.3.0
@@ -14997,7 +15000,7 @@ emil: 2.2.10
 emld: 0.5.3
 emma: 0.1-0
 emme2: '0.9'
-emmeans: 2.0.2
+emmeans: 2.0.3
 emoa: 0.5-3
 emodnet.wfs: 2.1.2
 emoji: 16.0.0
@@ -15565,7 +15568,7 @@ factoptd: 1.0.3
 factor.switching: '1.4'
 factor256: 0.1.0
 factorEx: 1.1.0
-factorH: 0.5.0
+factorH: 0.6.0
 factorMerger: 0.4.0
 factorQR: 0.1-4
 factorcpt: 0.1.2
@@ -18230,6 +18233,7 @@ hof: '0.1'
 hogsvdR: '0.1'
 holdem: '1.2'
 holi: 0.1.1
+holideh: 0.1.0
 holiglm: 1.0.1
 holland: 0.1.2-4
 hollr: 1.0.0
@@ -21046,6 +21050,7 @@ midasr: '0.9'
 midastouch: '1.3'
 midfieldr: 1.0.2
 midi: 0.1.0
+midnight: 0.2.0
 midoc: 1.0.0
 midr: 0.6.0
 midrangeMCP: 3.1.3
@@ -21341,7 +21346,7 @@ mlxR: 4.2.0
 mma: 10.8-1
 mmabig: 3.2-0
 mmand: 1.6.3
-mmap: 0.6-24
+mmap: 0.6-26
 mmapcharr: 0.3.1
 mmaqshiny: 1.0.0
 mmb: 0.13.3
@@ -23328,7 +23333,7 @@ parsemsf: 0.1.1
 parser: '0.1'
 parsermd: 0.2.0
 parsetools: 0.1.3
-parsnip: 1.4.1
+parsnip: 1.5.0
 parspatstat: 0.1-4
 partDSA: 0.9.14
 partR2: 0.9.2
@@ -25423,6 +25428,7 @@ rbedrock: 0.4.2
 rbefdata: 0.3.5
 rbenchmark: 1.0.0
 rbenvo: 1.0.5
+rbfmvar: 2.0.2
 rbgm: 0.2.0
 rbhl: 0.9.2
 rbi: 1.0.1
@@ -26108,7 +26114,7 @@ ribiosMath: 1.2.0
 ribiosPlot: 1.3.0
 ribiosUtils: 1.7.7
 ricci: 0.1.1
-rice: 2.0.1
+rice: 2.1.0
 ricegeneann: 1.0.2
 riceidconverter: 1.1.1
 riceware: '0.4'
@@ -26514,7 +26520,7 @@ roxytypes: 0.1.2
 royston: '1.2'
 rpact: 4.4.0
 rpaleoclim: 1.1.0
-rpanel: 1.1-6.1
+rpanel: 1.1-6.3
 rpart: 4.1.27
 rpart.LAD: 0.1.3
 rpart.permutation: 1.01-1
@@ -26654,7 +26660,7 @@ rsgcc: 1.0.6
 rsgeo: 0.1.7
 rsggm: 0.3.1
 rshift: 3.1.2
-rsi: 0.3.2
+rsi: 0.3.3
 rsides: '0.1'
 rsig: '1.0'
 rsimsum: 0.13.0
@@ -29184,6 +29190,7 @@ survSens: 1.1.0
 survSpearman: 1.0.1
 survcomp: 1.1.6
 survcompare: 0.3.0
+survdistr: 0.0.3
 survdnn: 0.7.5
 surveil: 0.3.0
 surveillance: 1.25.0
@@ -29843,7 +29850,7 @@ tidyklips: 0.3.0
 tidylab: 4.1.1
 tidylaslog: 0.1.2
 tidylda: 0.0.7
-tidylearn: 0.2.0
+tidylearn: 0.3.0
 tidyllm: 0.4.0
 tidylo: 0.2.0
 tidylog: 1.1.0
