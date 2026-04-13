@@ -83,7 +83,7 @@ AIM: '1.01'
 AIPW: 0.6.9.3
 AIS: '1.0'
 AIUQ: 0.5.3
-AIscreenR: 0.2.0
+AIscreenR: 0.3.0
 ALA4R: 1.9.1
 ALDEx3: 1.0.2
 ALDqr: '1.0'
@@ -757,7 +757,7 @@ BayesPen: '1.0'
 BayesPieceHazSelect: 1.1.0
 BayesPiecewiseICAR: 0.2.1
 BayesPostEst: 0.4.0
-BayesPower: 1.0.3
+BayesPower: 1.0.4
 BayesProject: '1.0'
 BayesQTLBIC: 1.0-2
 BayesQVGEL: 0.1.1
@@ -5700,7 +5700,7 @@ OECD: 0.2.5
 OEFPIL: 0.1.2
 OGI: 1.0.0
 OHCSpackage: 0.1.5
-OHPL: 1.4.1
+OHPL: 1.4.2
 OIdata: '1.0'
 OIsurv: '0.2'
 OLCPM: 0.1.2
@@ -6991,7 +6991,7 @@ RMT4DS: 0.0.1
 RMTL: 1.0.0
 RMThreshold: '1.1'
 RMTstat: 0.3.1
-RMVL: 1.1.0.2
+RMVL: 1.1.0.3
 RMX: 0.1-6
 RMaCzek: 1.6.1
 RMallow: '1.1'
@@ -8434,6 +8434,7 @@ SelectBoost: 2.3.0
 SelectBoost.FDA: 0.5.0
 SelectBoost.beta: 0.4.5
 SelectBoost.gamlss: 0.2.2
+SelectBoost.quantile: 0.3.1
 SelectionBias: 2.1.0
 SelfControlledCaseSeries: 6.1.4
 SelvarMix: 1.2.1
@@ -11713,6 +11714,7 @@ bskyr: 0.4.0
 bslib: 0.10.0
 bsml: 1.5-1
 bsnsing: 1.0.1
+bsocialv2: 0.1.1
 bspcov: 1.0.3
 bspec: '1.6'
 bspline: 2.5.1
@@ -20268,6 +20270,7 @@ luca: 1.0-6
 lucas: '1.0'
 lucid: '1.11'
 lucidr: 0.1.0
+luckieR: 0.1.0
 lucr: 0.2.0
 ludic: 0.2.1
 lue: 0.2.1
@@ -21814,7 +21817,7 @@ multiRL: 0.3.7
 multiROC: 1.1.1
 multiRec: 1.0.6
 multiSA: 0.1.1
-multiScaleR: 0.5.0
+multiScaleR: 0.6.6
 multiUS: 1.2.3
 multiband: 0.1.0
 multibias: 1.7.2
@@ -24400,6 +24403,7 @@ preferably: 0.4.1
 preference: 1.1.6
 prefio: 0.2.0
 prefmod: 0.8-37
+prefviz: 0.1.1
 pregnancy: 0.2.1
 prenoms: 0.0.1
 prepdat: 1.0.8
@@ -27664,7 +27668,7 @@ shinyExprPortal: 1.2.1
 shinyFeedback: 0.4.0
 shinyFiles: 0.9.3
 shinyGizmo: 0.5.0
-shinyGovstyle: 0.1.1
+shinyGovstyle: 0.2.0
 shinyHeatmaply: 0.2.0
 shinyHugePlot: 0.3.0
 shinyIRT: '0.1'
