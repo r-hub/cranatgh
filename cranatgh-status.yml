@@ -141,6 +141,7 @@ APML: 0.0.5
 APML0: '0.10'
 APPEstimation: 0.1.1
 APRScenario: 0.0.3.1
+APS: 1.0.1
 APSIM: 0.9.3
 APSIMBatch: 0.1.0.2374
 APTIcalc: 0.1.1
@@ -1526,6 +1527,7 @@ CohensdpLibrary: 0.5.11
 CohortAlgebra: 0.3.1
 CohortCharacteristics: 1.1.2
 CohortConstructor: 0.6.3
+CohortContrast: 1.0.0
 CohortExplorer: 0.1.0
 CohortGenerator: 1.1.0
 CohortMethod: 6.0.1
@@ -3326,6 +3328,7 @@ GWlasso: 1.0.2
 GWmodel: 2.4-1
 GWmodelVis: 1.0.1
 GWnnegPCA: 0.0.6
+GWnorm: '1.0'
 GWpcor: 0.1.8
 GWsignif: 1.2.1
 GaDiFPT: '1.0'
@@ -7788,6 +7791,7 @@ RobustEM: '1.0'
 RobustGaSP: 0.6.8
 RobustIV: 0.3.1
 RobustLinearReg: 1.2.0
+RobustMediate: 0.1.1
 RobustMetrics: 0.1.1
 RobustPrediction: 0.1.7
 RobustRankAggreg: 1.2.1
@@ -8385,6 +8389,7 @@ SampleSizeSingleArmSurvival: 0.1.0
 SamplerCompare: 1.3.4
 SamplingBigData: 1.0.0
 SamplingStrata: 1.5-5
+SamsaRaLight: 1.0.0
 SanFranBeachWater: 0.1.0
 SangerTools: 1.0.2
 SanzCircos: 0.1.0
@@ -10923,7 +10928,7 @@ bayesPop: 12.0-1
 bayesQR: '2.4'
 bayesQRsurvey: 0.2.2
 bayesROE: '0.2'
-bayesRecon: 1.0.0
+bayesRecon: 1.0.1
 bayesSSM: 0.7.1
 bayesSurv: '3.8'
 bayesTFR: 7.4-4
@@ -11951,6 +11956,7 @@ caribou: 1.1-1
 caroline: 0.9.9
 carpenter: 0.2.3
 carrier: 0.3.0.4
+carsAlgo: 0.5.0
 cartograflow: 1.0.5
 cartogram: 0.3.0
 cartogramR: 1.5-1
@@ -12284,6 +12290,7 @@ chest: 0.3.7
 chevron: 0.2.12
 chi: '0.1'
 chi2x3way: '1.1'
+chiOpenData: 0.1.0
 chicane: 0.1.8
 chickn: 1.2.3
 childdevdata: 1.1.0
@@ -17376,6 +17383,7 @@ glm.ddR: 0.1.1
 glm.deploy: 1.0.4
 glm.predict: 4.3-2
 glm2: 1.2.1
+glm4: 0.1.0
 glmBfp: 0.0-60
 glmMisrep: 0.1.1
 glmSTARMA: 1.0.0
@@ -18226,6 +18234,7 @@ hkevp: 1.1.6
 hkex.api: '0.1'
 hlaR: 1.0.0
 hlidacr: 0.2.0
+hlmLab: 0.1.0
 hlr: 0.0-4
 hlt: 1.3.1
 hmcdm: 2.1.3
@@ -20014,6 +20023,7 @@ llamaR: 0.2.3
 llbayesireg: 1.0.0
 lle: '1.1'
 lllcrc: '1.2'
+llm.api: 0.1.1
 llmflow: 3.0.2
 llmhelper: 1.0.0
 llmjson: 0.1.0
@@ -21121,7 +21131,7 @@ minerva: 1.5.10
 minesweeper: 1.0.1
 minet: 3.6.0
 mini007: 0.3.0
-miniCRAN: 0.3.1
+miniCRAN: 0.3.2
 miniGUI: 0.8-1
 miniLNM: 0.1.0
 miniMeta: 0.3.2
@@ -21936,6 +21946,7 @@ multxpert: 0.1.1
 muma: '1.4'
 mumarinex: '1.0'
 mumm: 0.2.1
+munch: 0.0.2
 munfold: 0.3.5
 munsell: 0.5.1
 munsellinterpol: 3.3-2
@@ -26624,8 +26635,10 @@ rqdatatable: 1.3.3
 rqlm: 4.3-2
 rqmcmb2: 1.0.2-1
 rqti: 1.1.0
+rqualify: 1.0.2
 rquery: 1.4.99
 rquest: 1.0.5
+rquiz: 1.0.0
 rr: 1.4.2
 rr2: 1.1.1
 rrBLUP: 4.6.3
@@ -28642,6 +28655,7 @@ splutil: 2022.6.20
 spm: 1.2.3
 spm12r: 2.8.3
 spm2: 1.1.3
+spmixW: 0.2.2
 spmodel: 0.12.0
 spmoran: 0.3.3
 spnaf: 1.1.0
@@ -31552,6 +31566,7 @@ xgrove: 0.1-15
 xgxr: 1.1.2
 xhaz: 2.1.0
 xhmmScripts: '1.1'
+xiacf: 0.4.0
 xkcd: 0.1.0
 xkcdcolors: '1.0'
 xlcharts: 0.0.2
