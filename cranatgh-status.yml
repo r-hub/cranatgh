@@ -805,6 +805,7 @@ BayesianMediationA: 1.0.1
 BayesianNetwork: 0.3.2
 BayesianPlatformDesignTimeTrend: 1.2.3
 BayesianPower: 0.2.3
+BayesianQDM: 0.1.0
 BayesianReasoning: 0.4.3
 BayesianTools: 0.1.9
 Bayesianbetareg: '1.2'
@@ -5139,6 +5140,7 @@ Mcomp: '2.8'
 MeDiChI: 0.4.0
 MeTo: 0.1.1
 MeanShift: 1.1-1
+Meanimiles: 0.1.0
 MeasurementDiagnostics: 0.3.0
 MedDataSets: 0.1.0
 MedDietCalc: 0.1.1
@@ -5818,7 +5820,9 @@ OneSampleLogRankTest: 0.9.2
 OneSampleMR: 0.1.7
 OneStep: 0.9.4
 OneTwoSamples: 1.2-0
+OnlineSurr: 0.0.3
 OnomasticDiversity: '0.1'
+OofAExp: 0.1.0
 OpEnCAST: 0.1.1
 OpEnHiMR: 0.1.1
 OpVaR: '1.2'
@@ -6071,6 +6075,7 @@ PMEvapotranspiration: 0.1.0
 PML: '1.2'
 PMmisc: 0.1.2
 PMwR: 1.2-0
+PNADCperiods: 0.1.1
 PNADcIBGE: 0.7.5
 PNAR: '1.8'
 PNC: 0.1.0
@@ -6928,7 +6933,7 @@ RII: 0.4-1
 RIIM: 2.0.0
 RISCA: 1.0.7
 RISmed: 2.3.0
-RITCH: 0.1.26
+RITCH: 0.1.30
 RIbench: 1.0.2
 RIdeogram: 0.2.2
 RImageJ: 0.3-144
@@ -9383,6 +9388,7 @@ TwoPhaseInd: 1.1.2
 TwoRegression: 1.1.1
 TwoSampleTest.HD: '1.2'
 TwoStepCLogit: 1.2.6
+TwoStepSDFM: 0.2.0
 TwoTimeScales: 1.2.1
 TwoWayFEWeights: 2.0.4
 TwoWaySurvival: '2.2'
@@ -10023,6 +10029,7 @@ adj: 0.1.0
 adjROC: '0.3'
 adjSURVCI: '1.0'
 adjclust: 0.6.11
+adjoin: 0.1.0
 adjustedCurves: 0.11.4
 adjustedcranlogs: 0.1.0
 adk: 1.0-2
@@ -10113,6 +10120,7 @@ aglm: 0.4.1
 agop: 0.2.4
 agpower: 0.1.2
 agregR: 1.0.3
+agriDQ: 0.1.3
 agriReg: 0.1.0
 agriTutorial: 0.1.5
 agricolae: 1.3-7
@@ -11712,7 +11720,7 @@ brunnermunzel: '2.0'
 brxx: 0.1.2
 bs: '1.0'
 bs4Dash: 2.3.5
-bs4Dashkit: 0.1.0
+bs4Dashkit: 0.2.0
 bs4cards: 0.1.1
 bsTools: 1.0.5
 bsam: 1.1.3
@@ -11932,6 +11940,7 @@ caracas: 2.1.1
 caradpt: 0.1.0
 carat: 2.2.1
 carbonate: 0.1.4
+carbondata: 0.1.0
 carbondate: 1.1.0
 carbonpredict: 2.0.1
 carbonr: 0.2.7
@@ -12033,6 +12042,7 @@ causalOT: 1.0.4
 causalPAF: 1.2.5
 causalQual: 1.0.0
 causalSLSE: 0.4-1
+causalWins: 0.1.0
 causaldata: 0.1.4
 causaldef: 0.2.0
 causaldrf: 0.4.2
@@ -12153,6 +12163,7 @@ censNID: 0-0-1
 censReg: 0.5-38
 censable: 0.0.8
 censo2017: 0.6.2
+censo2022arg: 1.0.1
 censobr: 0.5.0
 censorcopula: '2.0'
 censored: 0.3.4
@@ -13452,6 +13463,7 @@ ctqr: '2.2'
 ctrdata: 1.26.1
 ctrialsgov: 0.2.7
 ctrlGene: 1.0.1
+ctrlvee: 0.1.0
 cts: 1.0-25
 ctsem: 3.10.6
 ctsemOMX: 2.0.0
@@ -18643,6 +18655,7 @@ ider: 0.1.1
 idiffomix: 1.0.0
 idiogramFISH: 2.0.13
 idiolect: 1.2.0
+idionomics: 0.1.0
 idm: 1.8.3
 idmTPreg: '1.1'
 idmact: 1.0.1
@@ -20573,6 +20586,7 @@ mase: 0.1.5.2
 mashr: 0.2.79
 maskRangeR: '1.1'
 maskedcauses: 0.9.3
+maskedhaz: 0.1.0
 maskr: 0.1.0
 mason: 0.3.0
 massProps: 0.3.5
@@ -21790,6 +21804,7 @@ mstrio: 11.3.5.101
 mstudentd: 1.1.2
 msu: 0.0.1
 mt: 2.0-1.21
+mt.surv: 1.1.1
 mtaOpenData: 0.1.0
 mtanan: 0.0.1
 mtarm: 0.1.8
@@ -22268,6 +22283,7 @@ nets: 0.9.1
 netseer: 0.1.3
 netseg: 1.0-3
 netstat: 0.1.2
+netsubsamp: 1.0.0
 nett: 1.0.0
 nettools: 1.0.1
 nettskjemar: 1.0.4
@@ -24838,6 +24854,7 @@ qad: 1.0.6
 qadf: 1.0.0
 qap: 0.1-2
 qape: '2.1'
+qarPI: 0.1.0
 qardlr: 1.0.1
 qat: '0.74'
 qatarcars: 1.1.0
@@ -26461,6 +26478,7 @@ robust.prioritizr: 1.0.3
 robust2sls: 0.2.3
 robustBLME: 0.1.3
 robustDA: '1.2'
+robustDIF: 0.2.0
 robustETM: '1.0'
 robustGarch: 0.4.2
 robustHD: 0.8.4
@@ -26572,6 +26590,7 @@ roughnet: 1.0.1
 roughrf: '1.0'
 roughsf: 1.0.0
 round: 0.21-0.2
+roundRobinR: 1.0.1
 roundhouse: 0.0.2
 roundwork: 0.0.1
 roundyh: 0.1.0
@@ -26736,7 +26755,7 @@ rshift: 3.1.2
 rsi: 0.3.3
 rsides: '0.1'
 rsig: '1.0'
-rsimsum: 0.13.0
+rsimsum: 0.13.1
 rsinaica: 1.1.1
 rsixel: 0.0.4
 rskey: 0.4.19
@@ -29201,6 +29220,7 @@ sunburstShinyWidget: 0.5.0
 suncalc: 0.5.1
 sundialr: 0.1.6.2
 suntools: 1.1.0
+supabaseR: 1.0.0
 supc: 0.2.6.2
 supclust: 1.1-1
 supcluster: 1.0.1
@@ -29317,6 +29337,7 @@ survivalmodels: 0.1.191
 survivalsurrogate: '1.1'
 survivalsvm: 0.0.6
 survivoR: 2.3.10
+survkl: 1.0.0
 survlab: 0.1.0
 survminer: 0.5.2
 survmixer: '1.3'
@@ -29415,6 +29436,7 @@ switchcase: 0.1.1
 switchnpreg: 0.8-0
 switchr: 0.14.8
 switchrGist: 0.2.5
+swjm: 0.1.0
 swmmr: 0.9.1
 swst: 0.0.2
 sybil: 2.2.0
@@ -30668,6 +30690,7 @@ ukbtools: 0.11.3
 ukc19: 0.0.3
 ukds: 0.1.0
 ukgasapi: '0.21'
+ukhousing: 0.1.0
 ukhsadatR: 0.1.1
 uklr: 1.0.2
 ukpolice: 0.2.2
@@ -31261,6 +31284,7 @@ wbsd: 1.0.0
 wbstats: '1.1'
 wbsts: '2.1'
 wbwdi: 1.0.4
+wcc: 0.3.1
 wccsom: 1.2.11
 wcde: 0.0.8
 wcep: 1.0.3
