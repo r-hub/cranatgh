@@ -213,6 +213,7 @@ AWS.tools: 0.0.5
 AZIAD: 0.0.3
 AalenJohansen: '1.0'
 AbSim: 0.2.6
+AbSolution: 1.0.0
 AbsFilterGSEA: 1.5.1
 Ac3net: 1.2.2
 AcademicThemes: 0.0.2
@@ -338,6 +339,7 @@ AnthropMMD: 4.1.0
 Anthropometry: '1.21'
 AntibodyForests: 1.1.0
 AntibodyTiters: 0.1.24
+AntsNet: 1.0.0
 AnxietySleep: 0.0.1
 Aoptbdtvc: 0.0.3
 AovBay: 0.1.0
@@ -791,6 +793,7 @@ BayesX: 0.3-3
 BayesXsrc: 3.0-7.1
 BayesfMRI: 0.11.0
 BayesianAnimalTracker: '1.2'
+BayesianDEB: 0.1.4
 BayesianDisaggregation: 0.1.2
 BayesianFROC: 1.0.0
 BayesianFactorZoo: 0.0.0.3
@@ -996,6 +999,7 @@ BullsEyeR: 0.2.0
 BurStFin: '1.3'
 BurStMisc: '1.1'
 BusinessDuration: 0.2.0
+ButtR: 1.1.1
 BuyseTest: 3.3.4
 Bvalue: '1.0'
 BwQuant: 0.1.0
@@ -1368,6 +1372,7 @@ CausalImpact: 1.4.1
 CausalKinetiX: 0.2.1
 CausalMBSTS: 0.1.1
 CausalMetaR: 0.1.3
+CausalMixGPD: 0.7.0
 CausalModels: 0.2.1
 CausalQueries: 1.4.5
 CausalSpline: 0.1.0
@@ -4183,6 +4188,7 @@ JumpTest: '1.1'
 JumpeR: 0.3.0
 JuniperKernel: 1.4.1.0
 JustifyAlpha: 0.1.2
+K4Sekolah: 0.1.0
 KANT: '2.0'
 KATforDCEMRI: 1.0.1
 KCSKNNShiny: 0.1.0
@@ -4401,7 +4407,7 @@ LPM: '3.2'
 LPR: '1.0'
 LPRelevance: '3.3'
 LPS: 1.0.16
-LPStimeSeries: 1.0-5
+LPStimeSeries: 1.1-0
 LPTime: 1.0-2
 LPWC: 1.0.0
 LPmerge: '1.7'
@@ -4505,6 +4511,7 @@ LearnSL: 1.0.0
 LearnVizLMM: 1.0.0
 LearningRlab: '2.4'
 LearningStats: 0.1.0
+LeaveOutKSS: 0.1.0
 LendingClub: 2.0.0
 LexFindR: 1.1.0
 LexisNexisTools: 1.0.0
@@ -5776,6 +5783,7 @@ OasisR: 3.1.1
 Observation: 0.3.0
 OceanView: 1.0.8
 OddsPlotty: 1.0.2
+OdysseusPathwayModule: 0.0.1
 OdysseusSurvivalModule: 0.1.0
 OenoKPM: 2.4.1
 OhdsiReportGenerator: 2.1.0
@@ -7068,6 +7076,7 @@ RODBCDBI: 0.1.1
 RODBCext: 0.3.2
 RODM: '1.1'
 ROI: 1.0-2
+ROI.format.cbf: 0.1-0
 ROI.models.globalOptTests: 1.1-2
 ROI.models.miplib: 1.0-0
 ROI.models.netlib: 1.1-2
@@ -8532,7 +8541,7 @@ ShinyWizard: 1.1.3.11
 ShortForm: 0.5.6
 ShrinkCovMat: 2.1.0
 Shrinkage: '1.0'
-ShrinkageTrees: 1.2.0
+ShrinkageTrees: 2.0.2
 SiER: 0.1.0
 SiFINeT: '1.13'
 SiMRiv: 1.0.7
@@ -9774,6 +9783,7 @@ XRJulia: 0.9.0.1
 XRPython: '0.8'
 XRSCC: '0.2'
 XReg: '1.0'
+XSRecencyX: 0.1.0
 XYomics: 0.1.3
 Xcertainty: 1.0.1
 XiMpLe: 0.11-3
@@ -9828,6 +9838,7 @@ ZeroOneDists: 1.0.0
 ZetaSuite: 1.0.2
 ZillowR: 1.0.0
 ZipRadius: 1.0.1
+ZonationR: 1.0.1
 ZooID: 0.2.0
 Zseq: 0.2.2
 a11yShiny: 0.1.3
@@ -13803,6 +13814,7 @@ dcTensor: 1.3.1
 dccmidas: 0.1.2
 dccpp: 0.1.0
 dccvalidator: 0.3.0
+dceasimR: 0.1.0
 dcemri: 0.10.5
 dcemriS4: '0.55'
 dcens: '1.0'
@@ -13872,6 +13884,7 @@ decision: 0.1.0
 decisionSupport: '1.115'
 decisionpaths: 0.1.0
 deckgl: 0.3.0
+deckroadmap: 0.1.4
 declared: '0.26'
 decode: '1.2'
 decoder: 1.2.2
@@ -14537,6 +14550,7 @@ ds: '4.0'
 ds4psy: 1.2.0
 dsBase: 6.3.5
 dsBaseClient: 6.3.5
+dsROCrate: 0.0.1
 dsTidyverse: 1.1.1
 dsTidyverseClient: 1.0.3
 dsa: 1.0.12
@@ -17116,6 +17130,7 @@ ggeasy: 0.1.6
 ggedit: 0.4.1
 ggeffects: 2.3.2
 ggenealogy: 1.0.3
+ggerror: 0.3.0
 ggetho: 0.3.7
 ggfacto: 0.3.2
 ggfan: 0.1.3
@@ -18259,6 +18274,7 @@ hlaR: 1.0.0
 hlidacr: 0.2.0
 hlmLab: 0.1.0
 hlr: 0.0-4
+hlrhotrix: 0.1.0
 hlt: 1.3.1
 hmcdm: 2.1.3
 hmclearn: 0.0.5
@@ -18359,6 +18375,7 @@ hspm: '1.1'
 hsrecombi: 1.1.1
 hsstan: 0.8.2
 hstats: 1.2.2
+htaBIM: 0.1.0
 htdp: 0.1.4
 htestClust: 0.2.2
 htetree: 0.1.23
@@ -21696,6 +21713,7 @@ mppR: 1.5.0
 mppa: '1.0'
 mpr: 1.0.6
 mprobit: 0.9-3
+mpshock: 0.1.0
 mpspline2: 0.1.9
 mpt: 1.0-0
 mptools: 1.0.1
@@ -22071,6 +22089,7 @@ mwaved: 1.1.8
 mwcsr: 0.1.10
 mwlaxeref: 0.0.1
 mwshiny: 2.1.0
+mx.api: 0.1.0
 mxcc: 0.0.5
 mxfda: 0.2.2-1
 mxkssd: '1.2'
@@ -23557,6 +23576,7 @@ pcgen: 0.2.0
 pch: '2.2'
 pchc: '1.4'
 pci: 1.0.1
+pciR: 1.0.0
 pcmabc: 1.1.3
 pcnetmeta: '2.8'
 pco: 1.0.1
@@ -24525,6 +24545,7 @@ primes: 1.6.1
 princurve: 2.1.6
 prinsimp: 0.8-8
 prinsurf: '1.0'
+printify: 1.0.0
 printr: '0.3'
 printtree: 0.2.0
 prinvars: 1.0.0
@@ -25442,6 +25463,7 @@ rareGE: '0.1'
 rareNMtests: '1.2'
 rareflow: 0.1.0
 rarestR: 1.1.1
+raretrans: 1.0.4
 rarhsmm: 1.0.7
 rarms: 1.0.0
 rasciidoc: 4.1.1
@@ -26830,6 +26852,7 @@ rtape: '2.2'
 rtdists: 0.11-5
 rtematres: '0.2'
 rtemis: 1.0.0
+rtemis.core: 0.0.3
 rtemps: 0.8.0
 rtern: 0.1.2
 rtestim: 1.0.2
@@ -27724,6 +27747,7 @@ shiny.router: 0.3.1
 shiny.semantic: 0.5.1
 shiny.tailwind: 0.2.2
 shiny.telemetry: 0.3.2
+shiny.webawesome: 1.0.0
 shiny.worker: 0.0.1
 shiny2docker: 0.0.3
 shinyAce: 0.4.4
@@ -28297,6 +28321,7 @@ soc.ca: 0.8.1
 socceR: 0.1.1
 social: '1.0'
 socialSim: 0.1.9
+socialdrift: 0.1.0
 socialh: 0.1.1
 socialmixr: 0.5.1
 socialranking: 1.2.0
@@ -28522,6 +28547,7 @@ spatialAtomizeR: 0.2.8
 spatialCatalogueViewer: 0.2.1
 spatialClust: 1.1.1
 spatialCovariance: 0.6-9
+spatialData: 1.0.0
 spatialEco: 2.0-4
 spatialGE: 1.2.2
 spatialRF: 1.1.5
@@ -28796,6 +28822,7 @@ srlTS: 0.1.1
 srlars: 2.0.1
 srm: 0.4-26
 srp: 1.2.0
+srpi: 0.1.0
 srppp: 2.0.3
 srt: 1.0.4
 srvyr: 1.3.1
@@ -29577,6 +29604,7 @@ tailplots: 0.1.1
 tailr: 0.1.3
 taipan: 0.1.2
 takos: 0.2.0
+talib: 0.9-0
 talkr: 0.1.3
 tall: 1.0.0
 tame: 0.2.1
@@ -30997,6 +31025,7 @@ vectorbitops: 1.1.2
 vectorialcalculus: 1.0.5
 vectorsurvR: 1.6.3
 vectorwavelet: 0.1.0
+vectra: 0.5.1
 vecvec: 0.2.1
 veesa: 0.1.7
 vegIndexCalc: 0.1.0
@@ -31298,6 +31327,7 @@ wdman: 0.2.6
 wdnet: 1.2.4
 wdnr.gis: 0.1.7
 wdpar: 1.3.9
+wdsmatch: 0.1.1
 weaana: 0.3.0
 weakARMA: 1.0.3
 wearables: 0.11.3
