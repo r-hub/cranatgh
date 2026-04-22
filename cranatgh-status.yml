@@ -1094,7 +1094,7 @@ CDROM: '1.1'
 CDSE: 0.3.2
 CDSS: 0.3-0
 CDSeq: 1.0.8
-CDSim: 0.1.1
+CDSim: 0.1.2
 CDVI: 0.1.0
 CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
@@ -3913,7 +3913,7 @@ INLABMA: 0.1-12
 INLAMSM: 0.2-3
 INLAjoint: 25.11.10
 INLAspacetime: 0.1.13
-INLAtools: 0.1.2
+INLAtools: 0.1.3
 INLAutils: 0.0.5
 INLAvaan: 0.2.4
 INQC: 2.0.5
@@ -3921,6 +3921,7 @@ INSPECTumours: 0.1.0
 INSPIRE: '1.5'
 INTRIGUE: 0.1.0
 INetTool: 0.1.2
+IOBR: 2.2.0
 IOHanalyzer: 0.1.8.17
 IOHexperimenter: 0.1.4
 IOLS: 0.1.4
@@ -7813,6 +7814,7 @@ RobustBF: 0.2.0
 RobustBayesianCopas: '2.0'
 RobustCalibration: 0.5.6
 RobustEM: '1.0'
+RobustFlow: 0.1.1
 RobustGaSP: 0.6.8
 RobustIV: 0.3.1
 RobustLinearReg: 1.2.0
@@ -10672,7 +10674,7 @@ audit: 0.1-2
 audited: '1.9'
 auditor: 1.3.5
 audrex: 3.0.0
-audubon: 0.6.2
+audubon: 0.6.3
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.7
 auk: 0.9.1
@@ -13848,6 +13850,7 @@ dcsvm: 0.0.1
 dcurver: 0.9.3
 dcurves: 0.5.1
 dcv: 0.1.1
+dcvar: 0.1.0
 ddModel: 0.2.9.0
 ddR: 0.1.2
 dda: 0.1.1
@@ -15648,6 +15651,7 @@ factorEx: 1.1.0
 factorH: 0.6.0
 factorMerger: 0.4.0
 factorQR: 0.1-4
+factorana: 1.2.0
 factorcpt: 0.1.2
 factorial2x2: 0.2.0
 factormodel: '1.0'
@@ -17156,7 +17160,7 @@ ggflowchart: 1.0.0
 ggfocus: 1.0.1
 ggfootball: 0.3.0
 ggforce: 0.5.0
-ggforestplotR: 0.1.0
+ggforestplotR: 0.1.1
 ggformula: 1.0.1
 ggfortify: 0.4.19
 ggfoundry: 0.3.1
@@ -17212,7 +17216,7 @@ ggmatplot: 0.1.2.1
 ggmcmc: 1.5.1.2
 ggmice: 0.1.1
 ggmix: 0.0.2
-ggmlR: 0.7.5
+ggmlR: 0.7.6
 ggmosaic: 0.3.3
 ggmotif: 0.2.1
 ggmr: 0.1.1
@@ -17319,7 +17323,7 @@ ggsurveillance: 0.5.2
 ggsurvey: 1.0.0
 ggsurvfit: 1.2.0
 ggswissmaps: 0.1.2
-ggtangle: 0.1.1
+ggtangle: 0.1.2
 ggtaxplot: 0.0.1
 ggtea: 0.1.1
 ggtern: 4.0.0
@@ -20879,6 +20883,7 @@ mefdind: '0.1'
 megaptera: 1.0-0
 meifly: 0.3.1
 mekko: 0.1.0
+melidosData: 1.0.6
 melody: 0.4.7
 melt: 1.11.4
 meltr: 1.0.2
@@ -25432,6 +25437,7 @@ randomizationInference: 1.0.4
 randomizeBE: 0.3-6
 randomizeR: 3.0.2
 randomizr: 1.0.1
+randompack: 0.1.3
 randomsearch: 0.2.0
 randotools: 0.2.6
 randquotes: 0.1.1
@@ -27386,6 +27392,7 @@ scrobbler: 1.0.3
 scrollrevealR: 0.2.0
 scrubr: 0.4.0
 scrutiny: 0.6.1
+scrutr: 0.3.0
 scrypt: 0.1.6
 scryr: 1.0.0
 scs: 3.2.7
@@ -28449,6 +28456,7 @@ spCP: 1.4.0
 spData: 2.3.4
 spDates: '1.1'
 spEDM: '1.12'
+spFFBS: 0.0-2
 spFSR: 2.0.4
 spFW: 0.1.0
 spGARCH: 0.2.3
@@ -30246,7 +30254,7 @@ toastui: 0.4.0
 tobit1: 0.1-3
 todor: 0.1.2
 togglr: 0.2.1
-tok: 0.2.1
+tok: 0.2.2
 tokenbrowser: 0.1.6
 tokenizers: 0.3.0
 tokenizers.bpe: 0.1.4
@@ -30288,7 +30296,7 @@ torchMAUM: 2025.7.30
 torchaudio: 0.3.1
 torchdatasets: 0.3.1
 torchopt: 0.1.4
-torchvision: 0.8.0
+torchvision: 0.9.0
 torchvisionlib: 0.8.0
 tornado: 0.1.3
 torus: '1.01'
