@@ -3272,7 +3272,7 @@ GRASS: 0.3-9
 GRCRegression: '1.0'
 GRCdata: '1.0'
 GRCdesigns: 1.0.0
-GREENeR: 1.0.1
+GREENeR: 1.0.2
 GREMLINS: 0.2.1
 GREP2: 1.0.2
 GRIDCOPULA: 1.1.0
@@ -5581,6 +5581,7 @@ NPflow: 0.13.6
 NPsimex: 0.2-1
 NRAHDLTP: 0.1.2
 NRAIA: 0.9-8
+NRMSampling: 0.2.2
 NRejections: 1.2.0
 NSA: 0.0.32
 NSAE: 0.4.0
@@ -5788,6 +5789,7 @@ OasisR: 3.1.1
 Observation: 0.3.0
 OceanView: 1.0.8
 OddsPlotty: 1.0.2
+OdysseusCharacterizationModule: 0.0.1
 OdysseusPathwayModule: 0.0.1
 OdysseusSurvivalModule: 0.1.0
 OenoKPM: 2.4.1
@@ -6828,7 +6830,7 @@ RDSTK: '1.1'
 RDSsamplesize: 0.5.0
 RDStreeboot: '1.0'
 RDataCanvas: '0.1'
-RDesk: 1.0.4
+RDesk: 1.0.5
 RDieHarder: 0.2.7
 RDnp: '1.3'
 RDocumentation: 0.8.2
@@ -7936,7 +7938,7 @@ Rz: 0.9-1
 S2sls: '0.1'
 S3VS: '1.0'
 S4DM: 0.0.1
-S7: 0.2.1
+S7: 0.2.2
 S7schema: 0.1.0
 SACCR: '3.4'
 SACOBRA: '1.2'
@@ -8018,7 +8020,7 @@ SCI: 1.0-3
 SCIBER: 0.2.2
 SCINA: 1.2.0
 SCIntRuler: 0.99.6
-SCIproj: 1.0.0
+SCIproj: 1.0.1
 SCMA: 1.3.1
 SCOPRO: 0.1.0
 SCOR: 1.1.2
@@ -9232,7 +9234,7 @@ TensorTest2D: 1.1.2
 TensorTools: 1.0.0
 TernTables: 1.6.4
 Ternary: 2.3.6
-TesiproV: 0.9.5
+TesiproV: 0.9.6
 TestAnaAPP: 1.1.2
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
@@ -10110,7 +10112,7 @@ afpt: 1.1.0.4
 africamonitor: 0.2.4
 aftPenCDA: 0.1.0
 aftR2: 0.1.0
-aftables: 2.0.0
+aftables: 2.0.1
 after: 1.0.0
 aftgee: 1.2.1
 afthd: 1.1.0
@@ -14645,7 +14647,7 @@ dupree: 0.3.0
 durmod: 1.1-4
 dverse: 0.2.0
 dvfBm: '1.0'
-dvir: 3.3.0
+dvir: 3.4.0
 dvmisc: 1.1.4
 dvn: 0.3.5
 dvqcc: 0.1.0
@@ -15530,7 +15532,7 @@ extfunnel: '1.3'
 extlasso: '0.3'
 extr: 1.1.0
 extraBinomial: '2.1'
-extraDistr: 1.10.0.2
+extraDistr: 1.10.0.3
 extraSuperpower: 1.6.2
 extraTrees: 1.0.5
 extracat: 1.7-6
@@ -16008,6 +16010,7 @@ fingertipscharts: 0.0.11
 fingraph: 0.1.0
 finiteruinprob: '0.6'
 finity: 0.1.5
+finlabR: 1.0.0
 finna: 0.1.1
 finnishgrid: 0.2.0
 finnsurveytext: 2.1.1
@@ -17166,7 +17169,7 @@ gggenomes: 1.1.3
 ggghost: 0.2.3
 gggibbous: 0.1.1
 gggrid: 0.2-0
-ggguides: 1.1.4
+ggguides: 1.1.5
 ggguitar: 0.1.1
 ggh4x: 0.3.1
 gghalfnorm: 1.1.2
@@ -17286,7 +17289,7 @@ ggsector: 1.7.0
 ggseg: 2.1.1
 ggseg.formats: 0.0.2
 ggseg.meshes: 0.0.1
-ggseg3d: 2.1.0
+ggseg3d: 2.1.1
 ggsegmentedtotalbar: 0.1.0
 ggsem: 0.9.9
 ggseqlogo: 0.2.2
@@ -19207,6 +19210,7 @@ ivDiag: 1.0.6
 iva: 0.1.0
 ivaBSS: 1.0.0
 ivbma: '1.05'
+ivcheck: 0.1.1
 ivd: 1.0.0
 ivdesc: 1.1.2
 ivdesign: 0.1.0
@@ -20081,6 +20085,7 @@ llbayesireg: 1.0.0
 lle: '1.1'
 lllcrc: '1.2'
 llm.api: 0.1.1
+llmclean: 0.1.0
 llmflow: 3.0.2
 llmhelper: 1.0.0
 llmjson: 0.1.0
@@ -20803,6 +20808,7 @@ mda: 0.5-5
 mda.biber: 1.0.1
 mdapack: 0.0.2
 mdatools: 0.15.0
+mdbplyr: 0.3.0
 mdbr: 0.2.1
 mddmaps: 1.3.0
 mde: 0.3.3
@@ -24013,7 +24019,7 @@ pkgdiff: 1.0.2
 pkgdown: 2.2.0
 pkgdown.offline: 0.1.2
 pkgfilecache: 0.1.5
-pkggraph: 0.3.0
+pkggraph: 0.3.1
 pkglite: 0.2.5
 pkgload: 1.5.2
 pkgmaker: 0.32.10
@@ -24608,7 +24614,7 @@ processdata: 0.8.2
 processmapR: 0.5.8
 processmonitR: 0.1.0
 processpredictR: 0.1.1
-processx: 3.8.7
+processx: 3.9.0
 proclhmm: 1.0.1
 procmaps: 0.0.5
 procs: 1.0.8
@@ -25207,6 +25213,7 @@ rChEA3: 0.2.0
 rChoiceDialogs: 1.0.6.1
 rClinicalCodes: 1.0.1
 rCoinbase: 1.0.0
+rCoreGage: 1.0.0
 rD3plot: 1.1.45
 rDEA: 1.2-8
 rDNA: '1.31'
@@ -28203,6 +28210,7 @@ slr: 1.3.0
 sltl: '1.0'
 slurm: 2025.4.9
 slurmR: 0.5-4
+slxr: 0.1.1
 sm: 2.2-6.0
 sma: 0.5.15
 smaa: 0.3-3
@@ -28362,7 +28370,7 @@ soil.spec: 2.1.4
 soilDB: 2.9.1
 soilFlux: 0.1.5
 soilVAE: 0.1.9
-soilassessment: 0.3.2
+soilassessment: 1.3.0
 soilcarbon: 1.2.0
 soilchemistry: 0.1.0
 soilfoodwebs: 1.0.2
