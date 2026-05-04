@@ -3190,7 +3190,7 @@ GLCMTextures: 0.6.3
 GLDEX: 2.0.0.9.4
 GLDreg: 1.1.2
 GLIDE: 1.0.5
-GLMBasedRaschEstimation: 0.1.2
+GLMBasedRaschEstimation: 0.2.0
 GLMMGibbs: 0.5-1
 GLMMRR: 0.6.0
 GLMMadaptive: 0.9-7
@@ -3926,7 +3926,7 @@ INLABMA: 0.1-12
 INLAMSM: 0.2-3
 INLAjoint: 25.11.10
 INLAspacetime: 0.1.13
-INLAtools: 0.1.3
+INLAtools: 0.1.4
 INLAutils: 0.0.5
 INLAvaan: 0.2.4
 INQC: 2.0.5
@@ -4151,7 +4151,7 @@ JGR: 1.9-2
 JICO: '0.1'
 JJcorr: '0.01'
 JLLprod: 1.0.1
-JLPM: 1.0.3
+JLPM: 1.0.4
 JM: 1.5-2
 JMH: 1.0.4
 JMI: 0.1.0
@@ -4306,7 +4306,7 @@ L0Learn: 2.1.0
 L0TFinv: 0.1.0
 L0cpt: 0.2.0
 L0ggm: 0.0.1
-L1centrality: 0.5.0
+L1centrality: 0.5.1
 L1mstate: 1.0.1
 L1pack: 0.62-4
 L2DensityGoFtest: 0.6.0
@@ -4413,6 +4413,7 @@ LN0SCIs: 0.1.5
 LN3GV: 2.12-1
 LNIRT: 0.5.1
 LNPar: 1.1.3
+LOCOM2: '1.0'
 LOCUS: '1.0'
 LOGAN: 1.0.1
 LOGANTree: 0.1.1
@@ -10158,7 +10159,7 @@ ageutils: 0.1.2
 agfh: 0.2.1
 aggTrees: 2.1.0
 agghoo: 0.1-0
-aggreCAT: 1.0.0
+aggreCAT: 1.1.0
 aggregation: 1.0.1
 aggrisk: '1.0'
 aggutils: 1.0.2
@@ -17140,6 +17141,7 @@ ggScatRidges: 1.1.0
 ggThemeAssist: 0.1.5
 ggTimeSeries: 1.0.2
 ggVennDiagram: 1.5.7
+ggWebGL: 0.4.0
 ggalign: 1.2.0
 ggaligner: '0.1'
 ggalignment: 1.0.2
@@ -17326,7 +17328,7 @@ ggrastr: 1.0.2
 ggrcs: 0.4.3
 ggrecipes: 0.1.0
 ggredist: 0.0.4
-ggrefine: 0.3.0
+ggrefine: 0.4.0
 ggrepel: 0.9.8
 ggreveal: 0.2.0
 ggridges: 0.5.7
@@ -17337,7 +17339,7 @@ ggsankeyfier: 0.1.8
 ggsced: 0.1.6
 ggsci: 5.0.0
 ggscidca: 0.2.8
-ggscribe: 0.1.0
+ggscribe: 0.1.1
 ggseas: 0.5.4
 ggsector: 1.7.0
 ggseg: 2.1.1
@@ -17792,7 +17794,7 @@ gravitas: 0.1.3
 gravity: '1.1'
 gravityGE: 1.0.0
 gravmagsubs: 1.0.1
-greatR: 2.0.0
+greatR: 2.1.0
 grec: 1.6.3
 greed: 0.6.2
 greekLetters: 1.0.4
@@ -21707,7 +21709,7 @@ monoreg: '2.1'
 monotone: 0.1.2
 monotonicity: 1.3.1
 monreg: 0.1.4.1
-moocore: 0.3.0
+moocore: 0.3.1
 moodef: 1.2.0
 moodleR: 1.0.5
 moodlequiz: 0.2.1
@@ -22247,7 +22249,7 @@ nandb: 2.1.1
 naniar: 1.1.0
 nanny: 0.1.8
 nanoarrow: 0.8.0
-nanonext: 1.8.2
+nanonext: 1.9.0
 nanop: 2.0-6
 nanoparquet: 0.5.1
 nanostringr: 0.6.1
@@ -22385,7 +22387,7 @@ netdiffuseR: 1.25.0
 netdose: 0.7-4
 netgen: 1.3.2
 netgsa: 4.0.7
-netgwas: 1.14.4
+netgwas: 1.14.5
 netie: '1.0'
 netjack: 1.2.0
 netknitr: 0.2.1
@@ -23560,7 +23562,7 @@ partitionMap: '0.5'
 partitionMetric: '1.1'
 partitions: 1.10-9
 partools: 1.1.7
-partsm: 1.1-4
+partsm: 1.1-5
 parttime: 0.1.2
 parttree: 0.1.3
 party: 1.3-20
@@ -26028,7 +26030,7 @@ regtomean: 1.2.1
 regtools: 1.7.0
 regweight: 1.0.2
 rehh: 3.2.3
-rehh.data: 1.0.0
+rehh.data: 1.0.1
 rehydratoR: 0.5.2
 reinforcedPred: 0.1.1
 reinforcelearn: 0.2.1
@@ -26291,7 +26293,7 @@ rgl2gltf: 1.0.7
 rglobi: 0.3.4
 rglplus: '1.3'
 rglwidget: 0.2.1
-rgm: 1.0.4
+rgm: 1.2.1
 rgml0: 0.0.1
 rgnoisefilt: 1.1.3
 rgnparser: 0.3.0
@@ -26980,6 +26982,7 @@ rtematres: '0.2'
 rtemis: 1.0.0
 rtemis.a3: 0.5.3
 rtemis.core: 0.0.3
+rtemis.llm: 0.8.1
 rtemps: 0.8.0
 rtern: 0.1.2
 rtestim: 1.0.2
@@ -28389,7 +28392,7 @@ smoother: '1.3'
 smoothic: 1.2.1
 smoothie: 1.0-4
 smoothmest: 0.1-3
-smoothr: 1.2.1
+smoothr: 1.3.0
 smoothtail: 2.0.6
 smoothy: 1.0.0
 smoots: 1.1.4
@@ -28697,7 +28700,7 @@ spatialnbda: '1.0'
 spatialprobit: 1.0.4
 spatialreg: 1.4-3
 spatialreg.hp: 0.0-2
-spatialrisk: 0.7.3
+spatialrisk: 0.8.0
 spatialsample: 0.6.1
 spatialsegregation: '2.45'
 spatialwarnings: 3.1.1
@@ -29150,7 +29153,7 @@ stdReg2: 1.0.3
 stdbscan: 0.2.0
 stddiff: '3.1'
 stddiff.spark: '1.0'
-stdmod: 0.2.12
+stdmod: 0.2.13
 stdvectors: 0.0.5
 steadyICA: 1.0.1
 steemr: 0.1.3
