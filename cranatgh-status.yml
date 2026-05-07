@@ -1112,7 +1112,7 @@ CEEMDANML: 0.1.0
 CEGO: 2.4.4
 CENFA: 1.1.1
 CEOdata: 1.4.0
-CERFIT: 0.1.1
+CERFIT: 0.2.0
 CEoptim: '1.3'
 CFAcoop: 1.0.0
 CFC: 1.2.1
@@ -1396,6 +1396,7 @@ CensSpatial: '3.6'
 Census2016: 0.2.0
 CepLDA: 1.0.0
 CepReg: 0.1.3
+CepalStatR: 0.9.0
 CerioliOutlierDetection: 1.1.15
 Certara.DarwinReporter: 2.0.1
 Certara.ModelResults: 3.0.1
@@ -10348,6 +10349,7 @@ ammiBayes: 2.1-1
 ammistability: 0.1.4
 amp: 1.0.0
 amp.dm: 0.2.1
+amp.sim: 0.1.0
 ampd: '0.2'
 ampir: 1.1.0
 amregtest: 1.0.5
@@ -13855,6 +13857,7 @@ dbEmpLikeGOF: 1.2.4
 dbEmpLikeNorm: 1.0.0
 dbGaPCheckup: 1.1.0
 dbMC: 1.0.0
+dbProject: 0.1.0
 dbWebForms: 0.1.0
 dbacf: 0.2.8
 dbarts: 0.9-33
@@ -20545,7 +20548,7 @@ mads: 0.1.6
 madshapR: 2.0.0
 madsim: 1.2.1
 maestro: 1.1.0
-mafR: 1.1.6
+mafR: 1.1.14
 mafs: 0.0.3
 magclass: 7.4.3
 magentabook: 0.1.0
@@ -20908,7 +20911,7 @@ mcvis: 1.0.8
 mcwr: 1.0.0
 md: 1.0.4
 md.log: 0.2.0
-md4r: 0.5.2.0
+md4r: 0.5.3.0
 mda: 0.5-5
 mda.biber: 1.0.1
 mdapack: 0.0.2
@@ -23937,10 +23940,10 @@ phantom: 0.1.3
 pharmaRTF: 0.1.4
 pharmaverse: 0.0.2
 pharmaverseadam: 1.3.0
-pharmaverseadamjnj: 0.0.2
+pharmaverseadamjnj: 0.0.4
 pharmaverseraw: 0.1.1
 pharmaversesdtm: 1.4.1
-pharmaversesdtmjnj: 0.0.1
+pharmaversesdtmjnj: 0.0.4
 pharmr: 1.7.2
 phase: 1.2.9
 phase12designs: 0.3.1
@@ -25057,6 +25060,7 @@ qfa: '5.0'
 qfasar: 1.2.1
 qfratio: 1.1.1
 qgam: 2.0.0
+qgarch: 0.1.0
 qgcomp: 2.18.10
 qgcompint: 1.0.2
 qgen: 0.03-02
@@ -30454,6 +30458,7 @@ torchopt: 0.1.4
 torchvision: 0.9.0
 torchvisionlib: 0.8.0
 tornado: 0.1.3
+toro: 0.1.0
 torus: '1.01'
 tosca: 0.3-4
 toscca: '1.0'
