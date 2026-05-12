@@ -184,7 +184,7 @@ ASML: 1.1.0
 ASMap: 1.0-8
 ASMbook: 1.0.2
 ASPBay: '1.2'
-ASRgenomics: 1.1.5
+ASRgenomics: 1.1.6
 ASSA: '2.0'
 ASSISTant: 1.4.3
 ASSOCShiny: 0.1.0
@@ -2387,7 +2387,7 @@ EIEntropy: 0.0.1.4
 EILA: 0.1-2
 EIX: 1.2.1
 EKMCMC: 1.1.2
-EL: '1.3'
+EL: '1.4'
 EL2Surv: '1.1'
 ELCIC: 0.2.1
 ELIC: 0.1.0
@@ -3766,7 +3766,7 @@ HighestMedianRules: '1.0'
 HistDAWass: 1.0.8
 HistDat: 0.2.0
 HistData: 1.0.0
-HistogramTools: 0.3.2
+HistogramTools: 0.4.1
 HiveR: 0.4.0
 Hmisc: 5.2-5
 Hmsc: 3.3-7
@@ -5358,6 +5358,7 @@ ModEstM: 0.0.1
 ModStatR: 1.4.2
 ModTools: 0.9.13
 ModalCens: 0.1.0
+ModalForecast: 0.1.0
 Modalclust: '0.7'
 ModelGood: 1.0.9
 ModelMap: 3.4.0.8
@@ -8023,7 +8024,7 @@ SASPECT: 0.1-1
 SAScii: 1.0.2
 SASdates: 0.1.0
 SASmarkdown: 0.8.7
-SASmixed: 1.0-4
+SASmixed: 1.0-5
 SASxport: 1.7.0
 SATS: 1.0.6
 SAVE: '1.0'
@@ -9022,7 +9023,7 @@ SyncMove: 0.1-0
 SyncRNG: 1.3.3
 SynchWave: 1.1.2
 SynergizeR: '0.2'
-SynergyLMM: 1.1.2
+SynergyLMM: 1.1.3
 Synth: 1.1-10
 SynthCast: 0.2.1
 SynthETIC: 1.1.1
@@ -12042,7 +12043,7 @@ caretEnsemble: 4.0.1
 caretForecast: 0.1.3
 caretLSF: '1.25'
 caretNWS: '0.25'
-caretSDM: '1.5'
+caretSDM: 1.8.3
 carfima: 2.0.2
 cargo: 0.4.9
 caribou: 1.1-1
@@ -13798,6 +13799,7 @@ datamart: 0.5.2
 datamedios: 1.2.3
 datamerge: 1.0.3
 datamods: 1.5.3
+datamuseum: 0.1.0
 datana: 1.1.5
 datanugget: 1.4.0
 dataonderivatives: 0.4.0
@@ -14360,6 +14362,7 @@ dissCqN: 0.1.0
 dissUtils: '1.0'
 dissever: 0.2-3
 dissimilarities: 0.3.0
+dist.structure: 0.5.0
 distTails: 0.1.2
 distance.sample.size: '0.0'
 distanceHD: '1.2'
@@ -14665,7 +14668,7 @@ dsmisc: 0.3.3
 dsmmR: 1.0.7
 dsmodels: 1.1.0
 dsos: 0.1.2
-dsp: 1.3.0
+dsp: 1.4.0
 dspline: 1.0.4
 dsr: 0.2.2
 dsrTest: 1.0.0
@@ -14875,6 +14878,7 @@ easyreg: '4.0'
 easystab: '1.0'
 easystats: 0.7.5
 easysurv: 2.0.2
+easytable: 2.1.1
 eat: 0.1.4
 eatATA: 1.1.2
 eatDB: 0.5.0
@@ -16432,6 +16436,7 @@ fpest: 0.1.1
 fplot: 1.2.0
 fplyr: 1.3.0
 fpmoutliers: 0.1.0
+fpod: 1.0.1
 fpop: 2019.08.26
 fpopw: '1.1'
 fpow: 0.0-3
@@ -17238,7 +17243,7 @@ ggeasy: 0.1.6
 ggedit: 0.4.1
 ggeffects: 2.3.2
 ggenealogy: 1.0.3
-ggerror: 0.3.0
+ggerror: 1.0.0
 ggetho: 0.3.7
 ggfacto: 0.3.2
 ggfan: 0.1.3
@@ -20993,7 +20998,7 @@ meditate: 0.1.3
 meditations: 1.0.1
 medmod: 1.0.0
 medparser: 0.2.0
-medrxivr: 0.1.3
+medrxivr: 0.1.4
 meedr: 0.0.2
 meerva: 0.2-2
 meetupapi: 0.1.0
@@ -21107,6 +21112,7 @@ metaheur: 0.2.0
 metaheuristicOpt: 2.0.0
 metainc: 0.2-1
 metajam: 0.3.1
+metalcor: 1.0.0
 metalite: 0.1.4
 metalite.ae: 0.1.3
 metalite.sl: 0.1.1
@@ -21175,6 +21181,7 @@ mfGARCH: 0.2.2
 mfaces: 0.1-4
 mfblock: '1.0'
 mfbvar: 0.5.6
+mfclim: 0.1.1
 mfcurve: 1.0.2
 mfdb: 7.4-0
 mfe: 0.1.5
@@ -21878,6 +21885,7 @@ mr.raps: '0.2'
 mrIML: 2.2.0
 mrMLM: 5.0.1
 mrMLM.GUI: 4.0.2
+mrPStrata: 0.1.0
 mra: 2.16.11
 mrangr: 1.0.1
 mrap: 1.0.1
@@ -23135,7 +23143,7 @@ openbankeR: 0.1.1
 openblender: 0.5.81
 opencage: 0.2.2
 opencastR: 0.1.3
-opencis: 0.1.0
+opencis: 0.1.1
 opencpu: 2.2.14
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
@@ -29977,6 +29985,7 @@ ternvis: '1.3'
 terra: 1.9-27
 terrainmeshr: 1.0.1
 terrainr: 0.7.6
+terralink: 1.8.0
 tesouror: 0.2.2
 tessellation: 2.3.0
 tesselle: 1.6.0
@@ -30534,7 +30543,7 @@ trackdf: 0.3.3
 trackdown: 1.1.1
 trackeR: 1.6.1
 trackeRapp: '1.2'
-trackopt: 0.1.0
+trackopt: 0.1.1
 trackr: 0.10.7
 trackter: 0.1.1
 tractor.base: 3.5.0
@@ -31343,7 +31352,7 @@ visNetwork: 2.1.4
 visOmopResults: 1.4.2
 visPedigree: 1.8.1
 visR: 0.4.1
-visStatistics: 0.1.7
+visStatistics: 0.2.0
 visTree: 0.8.1
 visa: 1.0.0
 visaOTR: 0.1.0
