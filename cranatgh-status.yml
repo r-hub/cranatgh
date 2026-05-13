@@ -763,6 +763,7 @@ BayesPanel: 0.1-2
 BayesPen: '1.0'
 BayesPieceHazSelect: 1.1.0
 BayesPiecewiseICAR: 0.2.1
+BayesPocket: 0.1.0
 BayesPostEst: 0.4.0
 BayesPower: 1.0.4
 BayesProject: '1.0'
@@ -1456,6 +1457,7 @@ CircStats: 0.2-7
 CircaCP: 0.1.2
 CirceR: 1.3.3
 CirclesIntersections: '1.1'
+CircularBoxplots: 0.1.2
 CircularDDM: 0.1.0
 CircularSilhouette: 0.0.1
 Cite: 0.1.0
@@ -2887,7 +2889,7 @@ FarmTest: 2.2.0
 FastBandChol: 0.1.1
 FastCUB: 0.0.4
 FastGP: '1.3'
-FastGaSP: 0.6.3
+FastGaSP: 0.6.4
 FastHCS: 0.0.7
 FastHamming: '1.2'
 FastImputation: 2.2.1
@@ -4497,7 +4499,7 @@ LW1949: 1.1.0
 LWFBrook90R: 0.6.3
 LZeroSpikeInference: 1.0.3
 LaF: 0.8.6
-LaMa: 2.1.0
+LaMa: 2.1.1
 LabApplStat: 1.4.4
 LabRS: 0.2.1
 LabourMarketAreas: '3.4'
@@ -6710,6 +6712,7 @@ Quor: '0.1'
 QurvE: 1.1.2
 Qval: 1.2.4
 R.AlphA.Home: 2.0.2
+R.ComDim: 1.0.0
 R.SamBada: 0.1.3
 R.cache: 0.17.0
 R.devices: 2.17.4
@@ -13600,6 +13603,7 @@ curl: 7.1.0
 curlconverter: 0.7.0
 currencyapi: 0.1.0
 currentSurvival: '1.1'
+curriculr: 0.3.0
 currr: 0.1.2
 curry: 0.1.1
 cursory: 1.0.0
@@ -14626,6 +14630,7 @@ driveR: 0.5.0
 drm: 0.5-8
 drmdel: 1.3.2
 drmeta: 0.1.0
+drogonR: 0.1.6
 droll: 0.1.0
 drone: 1.0.0
 dropR: 1.0.6
@@ -15980,6 +15985,7 @@ fdth: 1.3-4
 feamiR: 0.1.0
 feasts: 0.5.0
 featForge: 0.1.2
+featdelta: 0.1.0
 feather: 0.4.0
 feature: 1.2.16
 featureCorMatrix: 0.4.0
@@ -18587,6 +18593,7 @@ hydroState: 0.2.0.0
 hydroTSM: 0.8-6
 hydroToolkit: 0.1.0
 hydrodownloadR: 0.1.3
+hydroeval: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.10.0
 hydroloom: 1.1.3
@@ -20441,7 +20448,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.3.1
+lrstat: 0.3.2
 lsReg: 1.0.0
 lsa: 0.73.4
 lsasim: 2.1.6
@@ -21813,7 +21820,7 @@ mortSOA: 0.1.0
 mortar: 0.4.0
 mortyr: 0.0.2
 mos: 0.1.3
-mosaic: 1.9.2
+mosaic: 1.10.2
 mosaic.find: 0.1.2
 mosaicCalc: 0.6.4
 mosaicCore: 0.9.5
@@ -21987,7 +21994,7 @@ mstR: '1.2'
 mstate: 0.3.3
 mstclustering: 1.0.0.0
 mstherm: 0.4.7
-mstknnclust: 0.3.2
+mstknnclust: 1.0.0
 mstrio: 11.3.5.101
 mstudentd: 1.1.2
 msu: 0.0.1
@@ -23132,6 +23139,7 @@ openCR: 2.2.7
 openEBGM: 0.9.1
 openFDA: 0.1.0
 openMSE: 1.0.1
+openNCAI: 0.1.0
 openNLP: 0.2-7
 openNLPdata: 1.5.3-5
 openNLPmodels: 0.0-3
@@ -23348,6 +23356,7 @@ osrm.backend: 0.3.1
 osrmr: 0.1.36
 osum: 0.1.0
 ot: 0.2.0
+otTensor: 0.99.0
 otargen: 2.0.0
 otel: 0.2.0
 otelsdk: 0.2.4
@@ -23590,6 +23599,7 @@ params: 0.7.7
 paramsim: 0.1.0
 paramtest: 0.1.1
 paran: 1.5.5
+parasiteR: '1.0'
 parboost: 0.1.4
 parcats: 0.1.0
 parcoords: 1.0.0
@@ -24195,6 +24205,7 @@ pkgsearch: 3.1.5
 pkgstats: 0.2.2
 pkgutils: 0.6.0
 pkgverse: 0.0.1
+pkmapr: 1.2.1
 pkmon: '1.1'
 pkpd.Release: 0.1.0
 pkr: 0.1.3
@@ -24905,6 +24916,7 @@ pseudohouseholds: 0.1.1
 pseudorank: 1.0.4
 pseval: 1.3.3
 psfmi: 1.4.0
+psgc: 0.1.0
 psgp: 0.3-26
 psica: 1.0.2
 psidR: '2.3'
@@ -27944,6 +27956,7 @@ sheldusr: '0.1'
 shelltrace: 3.5.1
 shelter: 0.2.1
 sherlock: 0.7.0
+shewhartr: 1.3.0
 shidashi: 0.2.0
 shide: 0.3.0
 shiftR: '1.5'
@@ -28294,7 +28307,7 @@ sinew: 0.4.0
 singR: 0.1.3
 singcar: 0.1.5
 singleCellHaystack: 1.0.3
-singleRcapture: 1.0.0
+singleRcapture: 1.1.0
 singlecase: '0.1'
 sinib: 1.0.0
 sinx: 0.0.13
@@ -28921,6 +28934,7 @@ splancs: 2.01-45
 splash: 1.0.2
 splashr: 0.6.0
 spldv: 0.1.3
+splikit: 2.3.1
 splineCox: 0.0.8
 splinemixmeta: 1.0.1
 splineplot: 0.3.0
@@ -29232,7 +29246,7 @@ statswalesr: 0.2.0
 statuser: 0.2.1
 stbl: 0.3.0
 stcm: 0.1.1
-stcos: 0.3.1
+stcos: 0.3.2
 stcov: 0.1.0
 stcpR6: 0.9.8
 stdReg: 3.4.2
@@ -30759,6 +30773,7 @@ tsbugs: 1.2.1
 tsc: 1.0-3
 tscopula: 0.3.9
 tscount: 1.4.3
+tscv: 1.0.0
 tsdataleaks: 2.1.1
 tsdb: 1.1-0
 tsdecomp: '0.2'
