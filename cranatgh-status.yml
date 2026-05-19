@@ -4047,6 +4047,7 @@ ImageMetrics: '0.6'
 ImaginR: 0.1.7
 Imap: '1.32'
 Immigrate: 0.2.1
+ImmuneSigR: 0.1.0
 Immutables: 1.0.1
 Imneuron: 0.1.0
 ImpShrinkage: 1.0.0
@@ -6055,7 +6056,7 @@ PDShiny: 0.1.0
 PDXpower: 1.0.5
 PDtoolkit: 1.2.0
 PEACH: 0.1.1
-PEAXAI: 1.0.0
+PEAXAI: 1.0.1
 PEGroupTesting: '1.0'
 PEIMAN2: 1.0.2
 PEIP: 2.2-5
@@ -6564,7 +6565,7 @@ ProbeR: 2.0.1
 ProbitSpatial: '1.1'
 ProcData: 0.3.2
 ProcMod: 1.0.8
-ProduceR: '1.1'
+ProduceR: '1.2'
 ProfessR: 2.4-3
 ProfileGLMM: 1.1.0
 ProfileLadder: 0.2.2
@@ -6903,6 +6904,7 @@ REDCapTidieR: 1.2.4
 REDI: 1.0.0
 REEMtree: 0.90.6
 REFA: 0.2.0
+REFT: 0.1.4
 REGENT: 1.0.6
 REIDS: 0.1.0
 REMLA: 1.2.0
@@ -8113,6 +8115,7 @@ SDDE: 1.0.1
 SDEFSR: 0.7.22
 SDGLM: 0.4.0
 SDGdetector: 2.7.3
+SDI: 0.1.0
 SDLfilter: 2.3.3
 SDMPlay: '2.0'
 SDMTools: 1.1-221.2
@@ -8678,6 +8681,7 @@ SimplyAgree: 0.3.0
 Simpsons: 0.1.0
 SimtablR: 1.2.0
 SimuChemPC: '1.3'
+SimuRg: 0.2.0
 SimultAnR: '1.1'
 SinIW: '0.2'
 SingleArmMRCT: 0.1.1
@@ -9468,7 +9472,7 @@ TwoPhaseInd: 1.1.2
 TwoRegression: 1.1.1
 TwoSampleTest.HD: '1.2'
 TwoStepCLogit: 1.2.6
-TwoStepSDFM: 0.2.1
+TwoStepSDFM: 0.2.2
 TwoTimeScales: 1.2.1
 TwoWayFEWeights: 2.0.4
 TwoWaySurvival: '2.2'
@@ -9564,6 +9568,7 @@ VARDetect: 0.1.8
 VARMER: 1.0.0
 VARSEDIG: '2.1'
 VARSELECTEXPOSURE: 1.0.3
+VARcheck: 0.1.0
 VARcpDetectOnline: 0.2.0
 VARshrink: 0.3.3
 VARsignR: 0.1.3
@@ -11492,7 +11497,7 @@ bispdep: 1.0-2
 bisque: 1.0.2
 bistablehistory: 1.1.4
 bit: 4.6.0
-bit64: 4.8.0
+bit64: 4.8.2
 bite: '0.3'
 bitfield: 1.0.0
 bitmexr: 0.3.3
@@ -13062,6 +13067,7 @@ confinterpret: 1.0.0
 confintr: 1.0.2
 conflicted: 1.2.0
 conflr: 0.1.1
+conforest: 2.0.1
 conformal: '0.2'
 conformalClassification: 1.0.0
 conformalForecast: 0.1.1
@@ -13895,6 +13901,7 @@ dbEmpLikeGOF: 1.2.4
 dbEmpLikeNorm: 1.0.0
 dbGaPCheckup: 1.1.0
 dbMC: 1.0.0
+dbMatrix: 0.1.0
 dbProject: 0.1.0
 dbWebForms: 0.1.0
 dbacf: 0.2.8
@@ -15557,6 +15564,7 @@ evsim: 1.7.1
 evt0: 1.1.5
 evtclass: '1.0'
 evtree: 1.0-8
+ewens: 0.1.0
 ewoc: 0.3.0
 ewp: 0.1.2
 exCon: 0.2.5
@@ -17939,7 +17947,7 @@ groupcompare: 1.0.1
 groupdata2: 2.0.5
 grouped: 0.6-0
 groupedHyperframe: 0.3.6
-groupedHyperframe.random: 0.2.3
+groupedHyperframe.random: 0.3.0
 groupedSurv: 1.0.5.1
 groupedstats: 2.1.0
 grouper: 0.5.0
@@ -17973,6 +17981,7 @@ grpseq: '1.0'
 grpss: 3.0.1
 grr: 0.9.5
 grt: 0.2.1
+grumpy: 0.1.1
 grwat: '0.1'
 gsClusterDetect: 1.0.0
 gsDesign: 3.9.0
@@ -22270,6 +22279,7 @@ mvna: 2.0.1
 mvnfast: 0.2.8
 mvngGrAd: 0.1.6
 mvnimpute: 1.0.1
+mvnma: 0.1-0
 mvnmle: 0.1-11.2
 mvnormalTest: 1.0.1
 mvnormtest: 0.1-9-3
@@ -23909,7 +23919,7 @@ pendensity: 0.2.13
 penetrance: 0.1.3
 penfa: 0.1.1
 penppml: 0.2.4
-pensar: 0.4.2
+pensar: 0.6.3
 pense: 2.5.2
 pensim: 1.3.6
 pensynth: 0.8.2
@@ -25298,6 +25308,7 @@ quantregGrowth: 1.7-2
 quantregRanger: '1.0'
 quantsig: 0.1.0
 quantspec: 1.2-4
+quaqcr: 1.0.4
 quarks: 1.1.6
 quarrint: 1.0.0
 quartabs: 0.1.1
@@ -27875,6 +27886,7 @@ sequences: 0.5.9
 sequential.pops: 0.1.1
 sequenza: 3.0.0
 sequoia: 3.2.0
+seqwrap: 0.7.0
 sergeant: 0.9.1
 serial: '3.0'
 serialize: 0.2-1
@@ -28541,6 +28553,7 @@ smpic: 0.1.0
 smplot2: 0.2.6
 sms: 2.3.1
 smsets: 2.0.0
+smsncut: 0.1.0
 smss: 1.0-2
 smurf: 1.1.8
 smvgraph: 0.1.2
@@ -28619,6 +28632,7 @@ softwareRisk: 0.2.0
 soil.spec: 2.1.4
 soilDB: 2.9.1
 soilFlux: 0.1.5
+soilKey: 0.9.97
 soilVAE: 0.1.9
 soilassessment: 1.3.0
 soilcarbon: 1.2.0
@@ -29997,6 +30011,7 @@ teal.data: 0.8.0
 teal.logger: 0.4.1
 teal.modules.clinical: 0.12.0
 teal.modules.general: 0.6.0
+teal.picks: 0.1.0
 teal.reporter: 0.6.1
 teal.slice: 0.7.1
 teal.transform: 0.7.1
@@ -30243,7 +30258,7 @@ tidybins: 0.1.2
 tidyboot: 0.1.3
 tidycat: 0.1.2
 tidycells: 0.2.2
-tidycensus: 1.7.5
+tidycensus: 1.8.0
 tidycensuskr: 0.2.8
 tidychangepoint: 1.0.5
 tidycharts: 0.1.3
@@ -30288,7 +30303,7 @@ tidyklips: 0.3.0
 tidylab: 4.1.1
 tidylaslog: 0.1.2
 tidylda: 0.0.7
-tidylearn: 0.3.0
+tidylearn: 0.3.1
 tidyllm: 0.5.0
 tidylo: 0.2.0
 tidylog: 1.1.0
@@ -30939,7 +30954,7 @@ twangRDC: '1.0'
 twbparser: 0.4.0
 twc: 0.0.2
 twdtw: 1.0-1
-tweedie: 3.0.19
+tweedie: 3.1.0
 tweenr: 2.0.3
 tweet2r: '1.1'
 tweetcheck: 0.1.0
