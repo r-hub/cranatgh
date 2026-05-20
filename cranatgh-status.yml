@@ -618,7 +618,7 @@ BPrinStratTTE: 0.0.7
 BRACE: 0.1.0
 BRACoD.R: 0.0.2.0
 BRBVS: 0.2.1
-BRCore: 2.0.5
+BRCore: 2.0.7
 BRDT: 0.1.0
 BREADR: 1.1.0
 BRETIGEA: 1.0.3
@@ -1334,7 +1334,7 @@ CVTuningCov: '1.0'
 CVXR: 1.8.2
 CVarE: '1.1'
 CVcalibration: 1.0-1
-CVglasso: '1.0'
+CVglasso: 1.0.1
 CVrisk: 1.2.1
 CWT: 0.2.1
 CaDENCE: 1.2.5
@@ -2350,7 +2350,7 @@ ECTSVR: 0.1.0
 ECTTDNN: 0.1.0
 ECctmc: 0.2.5
 ECharts2Shiny: 0.2.13
-ECoL: 0.3.0
+ECoL: 0.4.4
 EDA: '1.3'
 EDCimport: 0.7.0
 EDFIR: '1.0'
@@ -10602,7 +10602,7 @@ arm: 1.15-3
 armaOptions: 1.0.1
 armada: 0.1.0
 armadillo: 0.3.0
-armadillo4r: 0.8.0
+armadillo4r: 0.9.0
 armspp: 0.0.3
 arnie: 0.1.2
 aroma.affymetrix: 3.2.3
@@ -10905,7 +10905,7 @@ badp: 0.5.0
 baf: 0.0.4
 baffle: 0.2.2
 bagRboostR: 0.0.2
-bage: 0.10.8
+bage: 0.10.9
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
 baggingbwsel: '1.1'
@@ -11786,7 +11786,7 @@ brglm2: 1.1.0
 briKmeans: '1.0'
 brickr: 0.3.5
 brickset: 2026.0.0
-brickster: 0.2.12
+brickster: 0.2.13
 bride: '1.3'
 bridgedist: 0.1.3
 bridger: 0.1.0
@@ -12603,7 +12603,7 @@ climate.plot: 0.1-2
 climateStability: 0.1.4
 climatehealth: 1.0.1
 climatekit: 0.2.0
-climatol: 4.4-0
+climatol: 4.5-0
 climatrends: '1.2'
 climbeR: 0.0.1
 climdex.pcic: 1.1-11
@@ -14613,6 +14613,7 @@ dprep: 3.0.2
 dprint: 0.0.4
 dprop: 0.1.0
 dpseg: 0.1.1
+dqcheckr: 0.1.2
 dqrng: 0.4.1
 dqshiny: 0.0.4
 dr: 3.0.11
@@ -16660,7 +16661,7 @@ funtimes: '10.0'
 funviewR: 0.1.1
 furniture: 1.11.0
 furrr: 0.4.0
-fuseMLR: 0.0.2
+fuseMLR: 0.0.4
 fusedMGM: 0.1.2
 fusedTree: 1.1.0
 fusedest: 1.3.1
@@ -18041,7 +18042,7 @@ gtexr: 0.2.1
 gtexture: 1.0.1
 gtfs2emis: 0.1.2
 gtfs2gps: 2.1-4
-gtfsio: 1.2.0
+gtfsio: 1.2.1
 gtfsrouter: 0.1.4
 gtfstools: 1.4.0
 gtheory: 0.1.2
@@ -21964,7 +21965,7 @@ mrfse: 0.4.2
 mrgdp: 0.3.2
 mrgsim.parallel: 0.3.0
 mrgsim.sa: 0.3.0
-mrgsolve: 1.7.2
+mrgsolve: 2.0.1
 mri: 1.0.1
 mritc: 0.5-3
 mro: 0.1.1
@@ -22594,7 +22595,7 @@ nflverse: 1.0.3
 nftbart: '2.3'
 nga: 1.4-1
 ngboostForecast: 0.1.1
-ngme2: 0.9.7
+ngme2: 0.9.8
 ngram: 3.2.3
 ngramr: 1.10.0
 ngramrr: 0.2.0
@@ -25409,7 +25410,7 @@ r4subrisk: 0.1.0
 r4subscore: 0.1.0
 r4subtrace: 0.1.0
 r511: 0.1.1
-r5r: 2.3.0
+r5r: 2.4.0
 r5rgui: 0.2.0
 r6extended: 0.1.2
 r6methods: 0.1.0
@@ -27265,7 +27266,7 @@ rxode2mrgsolvebridge: 0.1.0
 rxode2parse: 2.0.19
 rxode2random: 2.1.1
 rxylib: 0.2.14
-ryandexdirect: 3.6.2
+ryandexdirect: 3.6.6
 rym: 1.0.6
 ryouready: '0.4'
 rysgran: 2.1.0
@@ -28844,7 +28845,7 @@ spatialCatalogueViewer: 0.2.1
 spatialClust: 1.1.1
 spatialCovariance: 0.6-9
 spatialData: 1.0.1
-spatialEco: 2.0-4
+spatialEco: 2.0-5
 spatialGE: 1.2.2
 spatialRF: 1.1.5
 spatialRegroup: 0.1.0
@@ -31822,6 +31823,7 @@ wither: 0.1.0
 withr: 3.0.2
 witness: '1.2'
 wizaRdry: 0.6.8
+wjake: 1.0.0
 wk: 0.9.5
 wkNNMI: 1.0.0
 wkb: 0.4-0
