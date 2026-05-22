@@ -632,6 +632,7 @@ BRcal: 1.0.1
 BRugs: 0.9-2.1
 BSBT: 1.2.1
 BSDA: 1.2.2
+BSET: '1.0'
 BSGS: '2.0'
 BSGW: 0.9.4
 BSL: 3.2.5
@@ -821,7 +822,7 @@ BayesianQDM: 0.1.0
 BayesianReasoning: 0.4.3
 BayesianTools: 0.1.9
 Bayesianbetareg: '1.2'
-Bayesiangammareg: 0.1.0
+Bayesiangammareg: 0.1.1
 Bayesiantreg: 1.0.1
 Bayesrel: 0.7.8
 Bayesthresh: 2.0.1
@@ -832,7 +833,7 @@ Bclim: 3.1.2
 BeQut: 0.1.0
 BeSS: 2.0.4
 BeastJar: 10.5.1
-BeeBDC: 1.3.3
+BeeBDC: 1.3.4
 BeeGUTS: 1.5.0
 Benchmarking: '0.33'
 BenfordTests: 1.2.0
@@ -4181,7 +4182,7 @@ JMI: 0.1.0
 JMLSD: '1.0'
 JMbayes: 0.9-0
 JMbayes2: 0.6-0
-JMbdirect: 0.1.0
+JMbdirect: 0.1.1
 JMcmprsk: 0.9.10
 JMdesign: '1.6'
 JNplots: 0.1.2
@@ -6980,7 +6981,7 @@ RGoogleAnalyticsPremium: 0.1.1
 RGoogleFit: 0.4.0
 RGrace: 0.6-6
 RGraphM: 0.1.11
-RGraphSpace: 1.2.0
+RGraphSpace: 1.3.0
 RGraphics: 3.0-2
 RGreenplum: 0.1.2
 RGremlinsConjoint: 0.9.1
@@ -11423,7 +11424,7 @@ binsegRcpp: 2025.5.13
 binseqtest: 1.0.4
 binsmooth: 0.2.2
 binspp: 0.2.3
-binsreg: '2.0'
+binsreg: '2.1'
 binst: 0.2.1
 binxr: 0.1.1
 bio.infer: 1.3-6
@@ -13173,7 +13174,7 @@ cooltools: '2.18'
 coop: 0.6-3
 coopProductGame: '2.0'
 cooptrees: '1.0'
-copBasic: 2.2.11
+copBasic: 2.2.14
 copCAR: 2.0-4
 copas: 0.8-0
 copcor: 2024.7-31
@@ -14097,6 +14098,7 @@ demodelr: 2.0.1
 demofit: 0.1.3
 demogR: 0.6.0
 demography: 2.0.1
+demor: 1.0.10
 demu: 0.3.0
 demulticoder: 0.1.2
 dendRoAnalyst: 0.1.6
@@ -14515,7 +14517,7 @@ dnr: 0.3.6
 do: 2.0.0.1
 do3PCA: 1.0.0
 doBy: 4.7.1
-doFuture: 1.2.1
+doFuture: 1.2.2
 doMC: 1.3.8
 doMIsaul: 1.0.1
 doMPI: 0.2.2
@@ -16532,6 +16534,7 @@ frechet: 0.3.0
 fred: 0.2.0
 fredr: 2.1.0
 free: 1.0.2
+free1way.docreg: 1.0-0
 freealg: 1.1-8
 freebird: '1.0'
 freebsdcontribs: 0.1.0
@@ -19318,7 +19321,7 @@ isni: '1.3'
 isnullptr: 1.0.2
 iso8601: 0.1.2
 isoSurv: 0.3.0
-isoWater: 1.2.1
+isoWater: 1.2.2
 isoband: 0.3.0
 isoboost: 1.0.2
 isobxr: 2.0.0
@@ -20838,7 +20841,7 @@ mateable: 0.3.3
 materialmodifier: 1.2.0
 mathgraph: 0.9-14
 mathjaxr: 2.0-0
-mathml: '1.7'
+mathml: '1.8'
 mathpix: 0.6.0
 maths.genealogy: 0.1.4
 maticce: 1.0-3
@@ -21072,6 +21075,7 @@ mefa: 3.2-10
 mefa4: 0.3-12
 mefdind: '0.1'
 megaptera: 1.0-0
+megatrees: 1.0.0
 meifly: 0.3.1
 mekko: 0.1.0
 melidosData: 1.0.6
@@ -21610,7 +21614,7 @@ mlr3batchmark: 0.2.2
 mlr3benchmark: 0.1.7
 mlr3cluster: 0.3.0
 mlr3data: 0.9.0
-mlr3db: 0.7.1
+mlr3db: 0.7.2
 mlr3fairness: 0.4.0
 mlr3fda: 0.5.0
 mlr3filters: 0.9.1
@@ -23669,7 +23673,7 @@ parcr: 0.6.1
 parfm: 2.7.8
 parfossil: 0.2.0
 pargasite: 2.1.1
-parglm: 0.1.9-1
+parglm: 0.1.10
 parlitools: 0.4.1
 parma: '1.7'
 parmigene: 1.1.1
@@ -28883,7 +28887,7 @@ spatialwarnings: 3.1.1
 spatialwidget: 0.2.6
 spatsoc: 0.2.13
 spatstat: 3.6-0
-spatstat.Knet: 3.1-2
+spatstat.Knet: 3.1-3
 spatstat.core: 2.4-4
 spatstat.data: 3.1-9
 spatstat.explore: 3.8-0
@@ -30888,6 +30892,7 @@ tsibbledata: 0.4.1
 tsibbletalk: 0.1.0
 tsintermittent: '1.10'
 tsissm: 1.0.2
+tsitter: 0.1.0
 tslars: '1.0'
 tsmarch: 1.0.0
 tsmethods: 1.0.3
