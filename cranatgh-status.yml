@@ -950,7 +950,7 @@ Blendstat: 1.0.6
 BlockCov: 0.1.1
 BlockFeST: '2.0'
 BlockMessage: '1.0'
-BlockMissingData: 0.1.0
+BlockMissingData: 0.1.1
 BlockmodelingGUI: 1.8.4
 BlockwiseRankTest: 0.1.0
 Blossom: '1.4'
@@ -2025,7 +2025,7 @@ DSAM: 1.0.2
 DSBayes: 2023.1.0
 DSFM: 1.0.1
 DSI: 1.8.0
-DSIR: 0.7.0
+DSIR: 0.7.1
 DSL: 0.1-7
 DSLite: 1.4.1
 DSMolgenisArmadillo: 4.0.1
@@ -6606,7 +6606,7 @@ PubMedMining: 1.0.0
 PubMedWordcloud: 0.3.6
 PublicWorksFinanceIT: 0.3.1
 PublicationBias: 2.4.0
-PublicationBiasBenchmark: 0.2.0
+PublicationBiasBenchmark: 0.2.1
 Publish: 2025.07.24
 PulmoDataSets: 0.2.1
 PupilPre: 0.6.3
@@ -6631,7 +6631,7 @@ QBMS: 2.0.0
 QCA: '3.25'
 QCA3: 0.0-8
 QCAGUI: '2.5'
-QCAcluster: 0.1.0
+QCAcluster: 0.2.0
 QCAfalsePositive: 1.1.1
 QCApro: 1.1-2
 QCAtools: 0.2.3
@@ -7322,7 +7322,7 @@ RTDAmeritrade: 0.0.1
 RTDE: 0.2-2
 RTFA: 0.1.0
 RTIGER: 2.1.0
-RTL: 1.3.7
+RTL: 1.3.9
 RTLknitr: 1.1.1
 RTMB: '1.9'
 RTMBdist: 1.0.4
@@ -8785,7 +8785,7 @@ SpaCCr: 0.1.0
 SpaCOAP: '1.3'
 SpaDES: 2.0.11
 SpaDES.addins: 0.1.4
-SpaDES.core: 3.1.0
+SpaDES.core: 3.1.2
 SpaDES.tools: 2.1.1
 SpaTimeClus: 1.0.1
 SpaTopic: 1.2.0
@@ -11457,7 +11457,7 @@ biom: 0.3.12
 biomartr: 1.0.7
 biometrics: 1.0.4
 biometryassist: 1.4.0
-biomod2: 4.3-4-5
+biomod2: 4.3-4-6
 bionetdata: '1.1'
 biopara: '1.5'
 biopixR: 1.2.0
@@ -13302,7 +13302,7 @@ countyhealthR: 0.1.5
 countytimezones: 1.0.0
 countyweather: 0.1.0
 coupling: '0.1'
-couplr: 1.4.0
+couplr: 1.4.1
 coursekata: 0.19.2
 covBM: 0.1.0
 covKCD: '0.1'
@@ -15977,7 +15977,7 @@ fcirt: 0.2.1
 fcl: 0.1.4
 fclust: 2.1.3
 fcm: 0.1.3
-fcmfd: 0.1.0
+fcmfd: 0.1.1
 fcp: 0.1.0
 fcr: '1.0'
 fcros: 1.6-6
@@ -16838,7 +16838,7 @@ ganttify: 0.2.5
 gaoptim: '1.1'
 gap: '1.14'
 gap.datasets: 0.0.6
-gapclosing: 1.0.2
+gapclosing: 1.0.3
 gapfill: 0.9.6-1
 gapmap: 1.0.0
 gapminder: 1.0.1
@@ -17284,7 +17284,7 @@ ggdaynight: 0.1.3
 ggdemetra: 0.2.9
 ggdendro: 0.2.0
 ggdensity: 1.0.1
-ggdiagram: 0.1.1
+ggdiagram: 0.2.0
 ggdibbler: 0.6.5
 ggdiceplot: 1.2.0
 ggdist: 3.3.3
@@ -18396,7 +18396,7 @@ hierfstat: 0.5-11
 hiertest: '1.1'
 highD2pop: '1.0'
 highDmean: 0.1.0
-highMLR: 0.1.1
+highMLR: 1.0.1
 highOrderPortfolios: 0.1.1
 highSCREEN: '0.4'
 highTtest: '1.4'
@@ -18642,7 +18642,7 @@ hydrodownloadR: 0.1.3
 hydroeval: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.10.0
-hydroloom: 1.1.3
+hydroloom: 1.2.0
 hydropeak: 0.1.2
 hydrorecipes: 0.0.3
 hydroroute: 0.1.2
@@ -18892,7 +18892,7 @@ igcop: 1.0.2
 igfetchr: 0.1.0
 iglm: 1.2.4
 iglu: 4.2.2
-igoR: 1.0.1
+igoR: 1.0.2
 igr: 1.0.1
 igraph: 2.3.1
 igraph0: 0.5.7
@@ -18963,6 +18963,7 @@ immuneSIM: 0.8.7
 immunogenetr: 1.2.0
 imola: 0.5.0
 imp4p: '1.2'
+impARI: 0.0.3
 impactflu: 0.1.0
 impactr: 0.4.2
 impectR: 2.5.5
@@ -20479,7 +20480,7 @@ lpbrim: 1.0.0
 lpc: 1.0.2.1
 lpcde: 1.0.0
 lpda: 1.2.3
-lpdensity: '3.0'
+lpdensity: 3.0.1
 lphom: 0.3.5-7
 lpint: '2.1'
 lpirfs: 0.2.5
@@ -21007,7 +21008,7 @@ mda.biber: 1.0.1
 mdapack: 0.0.2
 mdatools: 0.15.0
 mdbplyr: 0.3.0
-mdbr: 0.2.1
+mdbr: 0.3.0
 mddmaps: 1.3.0
 mde: 0.3.3
 mded: 0.1-2
@@ -23421,7 +23422,7 @@ osrmr: 0.1.36
 osum: 0.1.0
 ot: 0.2.0
 otTensor: 0.99.0
-otargen: 2.0.0
+otargen: 2.0.1
 otel: 0.2.0
 otelsdk: 0.2.4
 otinference: 0.1.0
@@ -25270,7 +25271,7 @@ qtlDesign: '0.953'
 qtlbim: 2.0.7
 qtlbook: '0.20'
 qtlc: '1.0'
-qtlcharts: '0.18'
+qtlcharts: '0.20'
 qtlhot: 1.2.10
 qtlmt: 0.1-6
 qtlnet: 1.5.4
@@ -27914,7 +27915,7 @@ sergeant: 0.9.1
 serial: '3.0'
 serialize: 0.2-1
 seriation: 1.5.8
-serieshaz: 0.1.1
+serieshaz: 0.2.0
 serieslcb: 0.4.0
 serocalculator: 1.4.1
 serofoi: 1.0.3
@@ -28893,7 +28894,7 @@ spatstat.Knet: 3.1-3
 spatstat.core: 2.4-4
 spatstat.data: 3.1-9
 spatstat.explore: 3.8-0
-spatstat.geom: 3.7-3
+spatstat.geom: 3.8-1
 spatstat.gui: 3.1-0
 spatstat.linnet: 3.5-0
 spatstat.local: 5.1-0
@@ -31409,7 +31410,7 @@ verdata: 1.0.2
 verhoeff: 0.4.0
 verification: '1.45'
 verify: 0.8-4.1
-verifyr2: 1.1.0
+verifyr2: 1.2.0
 vermeulen: 0.1.2
 versioning: 0.2.0
 versions: '0.3'
@@ -31534,7 +31535,7 @@ volesti: 1.1.2-10
 volker: 3.3.1
 volleystat: 0.2.0
 volrisk: 0.1.0
-voluModel: 0.2.3
+voluModel: 0.2.4
 voronoi: '1.1'
 voronoiTreemap: 0.2.0
 voronoifortune: '1.0'
