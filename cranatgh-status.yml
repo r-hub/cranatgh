@@ -784,7 +784,7 @@ BayesS5: '1.41'
 BayesSAE: 1.0-2
 BayesSIM: 1.0.4
 BayesSPsurv: 0.1.4
-BayesSUR: 2.3-2
+BayesSUR: 2.3-3
 BayesSampling: 1.1.0
 BayesSenMC: 0.1.5
 BayesSingleSub: 0.6.2
@@ -1415,7 +1415,7 @@ Certara.R: 1.1.0
 Certara.RDarwin: 1.2.0
 Certara.RsNLME: 3.1.1
 Certara.RsNLME.ModelBuilder: 3.0.1
-Certara.RsNLME.ModelExecutor: 3.0.2
+Certara.RsNLME.ModelExecutor: 3.1.0
 Certara.VPCResults: 3.0.2
 Certara.Xpose.NLME: 2.0.2
 CfEstimateQuantiles: '1.0'
@@ -1777,7 +1777,7 @@ CutpointsOEHR: 0.1.2
 CvM2SL1Test: 2.0-1
 CvM2SL2Test: 2.0-1
 CvmortalityMult: 1.1.1
-Cyclops: 3.7.0
+Cyclops: 3.7.1
 CytOpT: 0.9.8
 CytoProfile: 0.2.4
 CytoSimplex: 0.2.0
@@ -3373,7 +3373,7 @@ GWlasso: 1.0.2
 GWmodel: 2.4-1
 GWmodelVis: 1.0.1
 GWnnegPCA: 0.0.6
-GWnorm: '1.0'
+GWnorm: 1.0.1
 GWpcor: 0.1.8
 GWsignif: 1.2.1
 GaDiFPT: '1.0'
@@ -4832,7 +4832,7 @@ MFSD: 0.1.1
 MFSIS: 0.3.1
 MFT: '2.0'
 MG1StationaryProbability: 0.1.2
-MGBT: 1.0.7
+MGBT: 1.1.6
 MGDrivE: 1.6.2
 MGDrivE2: 2.1.1
 MGGM: '1.0'
@@ -6397,7 +6397,7 @@ PheNorm: 0.1.0
 PheVis: 1.0.4
 PhenoSpectra: 0.1.0
 Phenotype: 0.1.0
-PhenotypeR: 0.4.0
+PhenotypeR: 0.5.0
 PhenotypeSimulator: 0.3.4
 Phi2rho: 1.0.1
 PhilipsHue: 1.0.0
@@ -8585,7 +8585,7 @@ SequenceAnalysis: '1.3'
 SequenceSpikeSlab: 1.0.1
 Sequential: 4.6.0
 SequentialDesign: '1.0'
-SeroTrackR: 1.1.0
+SeroTrackR: 1.1.1
 SerolyzeR: 1.4.1
 SesIndexCreatoR: 1.0-2
 SetMethods: '4.1'
@@ -9481,7 +9481,7 @@ TwoSampleTest.HD: '1.2'
 TwoStepCLogit: 1.2.6
 TwoStepSDFM: 0.2.2
 TwoTimeScales: 1.2.1
-TwoWayFEWeights: 2.0.4
+TwoWayFEWeights: 2.1.0
 TwoWaySurvival: '2.2'
 TwslmSpikeWeight: 1.0.1
 TxEffectsSurvival: 1.0.2
@@ -9688,7 +9688,7 @@ VirtualPop: 2.1.0
 Virusparies: 1.1.0
 VisCollin: 0.1.2
 VisCov: 1.6.0
-VisitorCounts: 2.0.3
+VisitorCounts: 2.0.4
 VisuClust: '1.2'
 VisualDom: 0.8.0
 Visualize.CRAN.Downloads: 1.0.3
@@ -9927,7 +9927,7 @@ ZipRadius: 1.0.1
 ZonationR: 1.0.1
 ZooID: 0.2.0
 Zseq: 0.2.2
-a11yShiny: 0.1.3
+a11yShiny: 0.1.4
 a5R: 0.4.0
 aBioMarVsuit: '1.0'
 aCGH.Spline: '2.2'
@@ -10136,7 +10136,7 @@ adklakedata: 0.6.4
 adlift: 1.4-6
 admiral: 1.4.1
 admiral.test: 0.7.0
-admiraldev: 1.4.0
+admiraldev: 1.4.1
 admiralmetabolic: 0.3.0
 admiralneuro: 0.2.1
 admiralonco: 1.4.1
@@ -10169,7 +10169,7 @@ adverbial: 0.2.1
 adw: 0.4.2
 adwave: '1.4'
 adwordsR: 0.3.1
-aebdata: 0.1.5
+aebdata: 0.1.6
 aeddo: 0.1.1
 aedseo: 1.1.0
 aelab: 1.1.3
@@ -10585,7 +10585,7 @@ arete: '0.2'
 arf: 0.2.4
 arf3DS4: 2.5-10
 arfima: 1.8-2
-arg: 0.1.0
+arg: 0.1.1
 argminCS: 1.1.0
 argo: 3.0.3
 argoFloats: 1.0.9
@@ -10775,7 +10775,7 @@ auto.pca: '0.3'
 autoBagging: 0.1.0
 autoCovariateSelection: 1.0.0
 autoEnsemble: '0.3'
-autoFC: 0.2.0.1010
+autoFC: 1.0.0.1000
 autoFRK: 1.4.4
 autoFlagR: 1.0.0
 autoGO: 1.0.3
@@ -14292,7 +14292,7 @@ diffIRT: '1.5'
 diffMeanVar: 0.0.6
 diffMeshGP: 0.1.1
 diffcor: 0.8.4
-diffcp: 0.1.0
+diffcp: 0.1.1
 diffdepprop: 0.1-9
 diffdf: 1.1.2
 diffdfs: 0.9.0
@@ -15069,7 +15069,7 @@ edpclient: 0.5.1
 edrGraphicalTools: '2.2'
 edstan: 1.1.0
 edtdbg: 1.0.0
-educabR: 0.9.1
+educabR: 1.0.0
 educationR: 0.1.0
 educationdata: 0.1.5
 educineq: 0.1.0
@@ -23195,7 +23195,7 @@ oottest: 0.9.1
 opGMMassessment: 0.4.1
 opImputation: '0.6'
 opa: 0.8.3
-opalr: 3.6.0
+opalr: 3.6.1
 opart: 2019.1.0
 opdisDownsampling: 1.0.1
 opefimor: '1.2'
@@ -23262,7 +23262,7 @@ opitools: 1.8.0
 opm: 1.1.0
 opmdata: 0.7.0
 oposSOM: 0.2-3
-oppr: 1.0.5
+oppr: 1.1.0
 ops: '1.0'
 optAUC: '1.0'
 optBiomarker: 1.0-28
@@ -25730,7 +25730,7 @@ rappdirs: 0.3.4
 rappleads: 0.1.3
 rapport: '1.2'
 rapportools: '1.2'
-rappsflyer: 0.2.0
+rappsflyer: 0.3.2
 rapr: 1.1.3
 rapsimng: 0.5.0
 raptools: 1.23.0
@@ -27088,7 +27088,7 @@ rsnps: 0.6.0
 rsocialwatcher: 0.1.1
 rsofun: 5.1.0
 rsoi: 0.5.8
-rsolr: 0.0.13
+rsolr: 0.0.14
 rspa: 0.2.8
 rspacer: 0.3.1
 rsparkling: 0.2.19
@@ -27265,7 +27265,7 @@ rwc: '1.12'
 rwebstat: 1.1.1
 rwfec: '0.2'
 rwhatsapp: 0.2.4
-rwicc: 0.1.3
+rwicc: 0.2.0
 rwig: 0.1.0
 rwirelesscom: 1.4.3
 rwisp: 1.0.5
@@ -29827,7 +29827,7 @@ symbolicr: 1.0.0
 symbols: '1.1'
 symengine: 0.2.11
 symmetry: 0.2.3
-symmoments: 1.2.1.1
+symmoments: 1.2.2
 symphony: 0.1.3
 symptomcheckR: 0.1.3
 syn: 0.1.0
@@ -30480,7 +30480,7 @@ tip: 0.1.0
 tipa: 1.0.8
 tipitaka: 1.0.0
 tipitaka.critical: 1.0.0
-tipmap: 0.5.2
+tipmap: 1.0.0
 tipom: 1.0.2-1
 tippy: 0.1.0
 tipr: 1.0.2
@@ -31402,7 +31402,7 @@ vennDiagramLab: 2.0.5
 vennLasso: 0.1.6
 venneuler: 1.1-4
 vennplot: '1.0'
-venny: 0.0.2
+venny: 0.0.3
 verbaliseR: '0.1'
 verbalisr: 0.7.2
 verdadecu: 1.0.1
