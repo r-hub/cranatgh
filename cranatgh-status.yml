@@ -80,6 +80,7 @@ AIDA: 0.1.5
 AIFFtools: '1.0'
 AIG: 0.1.9
 AIGIS: 1.0-1
+AIGovernance: 0.1.0
 AIM: '1.01'
 AIPW: 0.6.9.3
 AIS: '1.0'
@@ -551,6 +552,7 @@ BIGr: 0.7.2
 BINCO: 0.1-1
 BINCOR: 0.2.1
 BINtools: 0.2.0
+BIOEFIC: 0.1.1
 BIOM.utils: '0.9'
 BIOMASS: 2.2.7
 BIOdry: 0.9.1
@@ -1544,6 +1546,7 @@ CoRpower: 1.0.4
 CoSMoS: 2.2.0
 CoSeg: '0.38'
 CoTiMA: 1.0.2
+CoalescentPhylo: 0.1.0
 CoastlineFD: 1.1.2
 CodataGS: '1.43'
 CodeDepends: 0.6.7
@@ -2913,6 +2916,7 @@ FastRWeb: 1.2-3
 FastRet: 1.3.0
 FastSF: 0.1.1
 FastStepGraph: 0.1.1
+FastSurvival: 0.1.0
 FastUtils: 0.2.1
 FatTailsR: 2.0.1
 FateID: 0.2.2
@@ -3141,6 +3145,7 @@ GEEaSPU: 1.0.2
 GEEmediate: 1.1.4
 GEInfo: '1.0'
 GEInter: 0.3.2
+GEMSS: 0.1.1
 GENEAclassify: 1.5.5
 GENEAcore: 1.2.0
 GENEAread: 2.0.10
@@ -3749,6 +3754,7 @@ HeatmapR: 1.1.0
 HeckmanEM: 0.2-2
 HeckmanStan: 1.0.0
 HellCor: '1.3'
+HelloFrog: 0.1.1
 HelpersMG: 2026.3.31
 HeritSeq: 1.0.2
 HetSeq: 0.1.0
@@ -6160,7 +6166,7 @@ PODES: 0.1.0
 POET: '2.0'
 POFIBGE: 0.1.6
 POINT: '1.4'
-POMADE: 0.2.0
+POMADE: 0.2.1
 POMS: 1.0.1
 POMaSPU: 1.0.0
 POPInf: 1.0.0
@@ -6329,6 +6335,7 @@ ParentOffspring: '1.0'
 Pareto: 2.4.5
 ParetoPosStable: '1.1'
 Paris2024Colours: 0.2.0
+ParmOff: 1.0.2
 PartCensReg: '1.39'
 PartialNetwork: 1.1.2
 PartialTL: 0.1.0
@@ -7693,8 +7700,8 @@ RelativeRisk: 1.1-1
 Relectoral: 0.1.0
 Relexon: 0.2.1
 ReliaGrowR: '0.7'
-ReliaLearnR: '0.3'
-ReliaPlotR: '0.5'
+ReliaLearnR: '0.5'
+ReliaPlotR: '0.6'
 ReliaShiny: '0.5'
 Reliability: 0.0-2
 ReliabilityTheory: 0.3.1
@@ -9136,7 +9143,7 @@ TInPosition: 0.13.6.1
 TKCat: 1.2.1
 TKF: 0.0.8
 TLBC: '1.0'
-TLCAR: 0.1.0
+TLCAR: 0.1.1
 TLIC: '0.4'
 TLMoments: 0.7.5.3
 TLdating: 0.1.3
@@ -9709,7 +9716,7 @@ W4MRUtils: 1.2.2
 WA: '1.0'
 WACS: 1.1.0
 WALS: 0.2.6
-WARDEN: 2.0.2
+WARDEN: 2.0.3
 WARN: 1.2-5
 WASP: 1.4.5
 WAnova: 0.4.0
@@ -10171,9 +10178,10 @@ adwave: '1.4'
 adwordsR: 0.3.1
 aebdata: 0.1.6
 aeddo: 0.1.1
+aedl: 0.1.0
 aedseo: 1.1.0
 aelab: 1.1.3
-aemo: 0.4.0
+aemo: 0.4.1
 aesopR: 0.1.0
 afCEC: 1.0.2
 afc: 1.4.0
@@ -10709,6 +10717,7 @@ astroFns: 4.2-1
 astrochron: '1.6'
 astrodatR: '0.1'
 astrolibR: '0.1'
+astronomR: 0.1.0
 astronomyengine: 0.1.0
 astsa: '2.5'
 asuR: 0.08-24
@@ -11774,7 +11783,7 @@ brant: 0.3-0
 brar: '0.1'
 brassica: 1.0.3
 bratteli: 1.0.0
-bravo: 3.2.2
+bravo: 4.0.0
 brazilmaps: 0.1.0
 brclimr: 0.2.0
 brea: 0.4.2
@@ -11920,6 +11929,7 @@ butcher: 0.4.0
 butler: '0.3'
 butterfly: 1.1.2
 butterflyOptions: 1.0.1
+bvarnet: 1.0.0
 bvarsv: '1.1'
 bvartools: 0.2.4
 bvenn: '0.1'
@@ -17278,6 +17288,7 @@ ggcorrheatmap: 0.3.0
 ggcorrplot: 0.1.4.1
 ggcorset: 0.5.0
 ggcoverage: 0.7.1
+ggcube: 0.1.0
 ggdag: 0.2.13
 ggdark: 0.2.1
 ggdaynight: 0.1.3
@@ -17463,6 +17474,7 @@ ggsom: 0.4.0
 ggspark: 0.0.2
 ggspatial: 1.1.10
 ggspectra: 0.4.0
+ggsql: 0.3.2
 ggstackplot: 0.4.1
 ggstance: 0.3.7
 ggstar: 1.0.6
@@ -18402,6 +18414,7 @@ highSCREEN: '0.4'
 highTtest: '1.4'
 highcharter: 0.9.5
 highd2means: '1.0'
+highdir: 0.5.0
 highfrequency: 1.0.3
 highlight: 0.5.2
 highlightHTML: 0.2.5
@@ -18466,6 +18479,7 @@ hmix: 1.0.3
 hmlasso: 0.0.1
 hmm.discnp: 3.0-9
 hmmTMB: 1.1.2
+hmmTensor: 0.1.0
 hmma: 1.1.0
 hmmhdd: '1.0'
 hmmm: 1.0-5
@@ -18803,6 +18817,7 @@ icd.data: '1.0'
 icd9: 1.3.1
 icdGLM: 1.0.0
 icdcomorbid: 1.0.0
+icdhelper: 0.1.2
 icdpicr: 1.0.1
 icdpicr2: 2.1.0
 icecdr: 1.2.0
@@ -18826,6 +18841,7 @@ ichimoku: 1.5.7
 iclogcondist: 1.0.1
 icmm: '1.2'
 icmstate: 0.2.0
+icomb: 0.2.0
 icomp: '0.1'
 iconr: 0.1.0
 icosa: 0.12.0
@@ -19463,7 +19479,7 @@ jentre: 0.1.0
 jetpack: 0.5.5
 jetset: 3.4.0
 jetty: 0.2.2
-jewel: 2.0.2
+jewel: 2.0.3
 jfa: 0.7.4
 jgcricolors: 1.0.0
 jgd: 0.1.0
@@ -19546,7 +19562,7 @@ jsTree: '1.2'
 jsTreeR: 2.6.0
 jsdtools: 0.1.0
 jshintr: 0.1.0
-jskm: 0.6.2
+jskm: 0.6.3
 jsmodule: 2.0.1
 json2aRgs: 0.3.0
 json64: 0.1.3
@@ -19891,6 +19907,7 @@ lancet.iraqmortality: 0.2-0
 lancor: 0.1.3
 landest: '1.2'
 landform: '0.2'
+landmaRk: 0.1.1
 landmap: 0.0.13
 landmix: '1.0'
 landmulti: 0.5.0
@@ -21285,6 +21302,7 @@ mgwrsar: 1.3.2
 mhazard: 0.2.3
 mhcnuggetsr: '1.1'
 mhde: 1.0-1
+mhn: 0.1.0
 mhpfilter: 0.1.0
 mhsmm: 0.4.21
 mht: 3.1.2
@@ -21403,7 +21421,7 @@ mined: 1.0-3
 minerva: 1.5.10
 minesweeper: 1.0.1
 minet: 3.6.0
-mini007: 0.3.0
+mini007: 0.4.0
 miniCRAN: 0.3.2
 miniGUI: 0.8-1
 miniLNM: 0.1.0
@@ -21912,7 +21930,7 @@ moveHMM: '1.12'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.4
 movecost: '2.2'
-movedesign: 0.3.2
+movedesign: 0.3.3
 movegroup: 2024.03.05
 movementsync: 0.1.5
 movieROC: 0.1.2
@@ -22394,6 +22412,7 @@ nanostringr: 0.6.1
 nanotime: 0.3.15
 naptanr: 1.0.1
 naptime: 1.3.1
+nara: 1.0.1
 nardl: 0.1.6
 narfima: 0.1.0
 narray: 0.5.2
@@ -25155,11 +25174,12 @@ qboxplot: '0.2'
 qbr: 1.3.0
 qbrms: 1.0.1
 qcQpcr: '1.5'
+qcaERT: 0.1.0
 qcapower: 0.2.0
 qcauchyreg: '1.0'
 qcc: '2.7'
 qccrs: 0.1.0
-qch: 2.1.2
+qch: 2.1.3
 qclust: '1.0'
 qcluster: 2.0.0
 qcpm: '0.4'
@@ -26518,6 +26538,7 @@ rict: 0.0.1
 ricu: 0.6.3
 rid: 0.0.1
 ridge: '3.3'
+ridgeBART: 1.0.2
 ridgetorus: 1.0.3
 ridgregextra: 0.1.1
 ridigbio: 0.4.1
@@ -27286,6 +27307,7 @@ rxode2ll: 2.0.14
 rxode2mrgsolvebridge: 0.1.0
 rxode2parse: 2.0.19
 rxode2random: 2.1.1
+rxref: 0.4.0
 rxylib: 0.2.14
 ryandexdirect: 3.6.6
 rym: 1.1.2
@@ -27738,7 +27760,7 @@ seasonalview: 1.0.0
 seasonalytics: 0.1.0
 seastests: 0.15.4
 seawaveQ: 2.0.2
-secr: 5.4.2
+secr: 5.4.3
 secrdesign: 2.10.1
 secret: 1.1.0
 secretbase: 1.2.2
@@ -31000,6 +31022,7 @@ twl: '1.0'
 twn: 0.2.6
 two.stage.boot: '1.0'
 twoCoprimary: 1.0.0
+twoPhaseGAS: 1.2.5
 twoStageDesignTMLE: 1.0.1.2
 twoStageGwasPower: 0.99.0
 twomodeclusteringGA: 1.0.0
