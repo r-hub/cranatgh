@@ -401,7 +401,7 @@ AugmenterR: 0.1.0
 AurieLSHGaussian: 0.2.0
 AustralianPoliticians: 0.1.0
 AutoAds: 0.1.0
-AutoDeskR: 0.1.5
+AutoDeskR: 0.5.0
 AutoModel: 0.4.9
 AutoNN: 0.1.0
 AutoPipe: 0.1.6
@@ -1100,7 +1100,7 @@ CDECRetrieve: 0.1.5
 CDF: 0.1.0
 CDF.PSIdekick: '1.2'
 CDFt: '1.2'
-CDGHMM: 0.1.3
+CDGHMM: 0.1.4
 CDLasso: '1.1'
 CDM: 8.3-14
 CDMConnector: 2.5.1
@@ -1304,7 +1304,7 @@ CSIndicators: 1.2.0
 CSMES: 1.0.1
 CSS: 1.0.2
 CSTE: 3.0.0
-CSTools: 5.3.1
+CSTools: 5.3.2
 CSUV: 0.1.1
 CSclone: '1.0'
 CSeQTL: 1.0.1
@@ -1919,6 +1919,7 @@ DHBins: '1.1'
 DHS.rates: 0.9.2
 DHSr: 0.1.0
 DICEM: 0.1.0
+DICErClust: 0.1.2
 DICOM: '0.13'
 DICOMread: 0.0.0.3
 DIDHAD: 2.0.0
@@ -2405,6 +2406,7 @@ EIX: 1.2.1
 EKMCMC: 1.1.2
 EL: '1.4'
 EL2Surv: '1.1'
+ELAplus: 1.0.2
 ELCIC: 0.2.1
 ELIC: 0.1.0
 ELISAtools: 0.1.8
@@ -8029,6 +8031,7 @@ SAEforest: 1.0.0
 SAEval: 1.0.0
 SAFARI: 0.1.0
 SAFD: '2.1'
+SAFEMCN: 1.0.0
 SAFEPG: 0.0.1
 SAGA: 2.0.0
 SAGM: 1.0.0
@@ -8423,6 +8426,7 @@ SSP: 1.1.0
 SSRA: 0.1-1
 SSRMST: 0.1.1
 SSRTcalc: 0.3.3
+SSReliabilityClaytonMWD: 1.0.2
 SSSR: 1.0.5
 SSVS: 2.2.0
 SSplots: 0.1.2
@@ -8487,6 +8491,7 @@ SafeQuant: 2.3.1
 SafeVote: 1.0.2
 SailoR: '1.2'
 Sample.Size: '1.0'
+SampleCore: 0.1.0
 SampleSize4ClinicalTrials: 0.2.3
 SampleSizeCalculator: 0.1.0
 SampleSizeDiagnostics: 0.1.1
@@ -10009,6 +10014,7 @@ academictwitteR: 0.3.1
 acc: 1.3.3
 accSDA: 1.1.3
 acca: '0.2'
+accbaseballr: 0.1.3
 accelEE: 0.3.1
 accelerometry: 3.1.2
 accelmissing: '2.2'
@@ -11211,7 +11217,7 @@ beats: 0.1.1
 beautier: 2.6.12
 beaver: 1.0.0
 bedr: 1.1.5
-bedrockbio: 1.3.1
+bedrockbio: 1.4.0
 beeca: 0.2.0
 beepr: '2.0'
 beeswarm: 0.4.0
@@ -14119,6 +14125,7 @@ demofit: 0.1.3
 demogR: 0.6.0
 demography: 2.0.1
 demor: 1.0.10
+demovuln: 0.1.0
 demu: 0.3.0
 demulticoder: 0.1.2
 dendRoAnalyst: 0.1.6
@@ -15779,6 +15786,7 @@ fabR: 2.1.1
 fabisearch: 0.0.4.5
 fable: 0.5.0
 fable.ata: 0.0.6
+fable.bayesRecon: 0.1.0
 fable.prophet: 0.1.0
 fableCount: 0.1.0
 fabletools: 0.7.0
@@ -16953,6 +16961,7 @@ gdsfmt: 1.1.0.1
 gdtools: 0.5.1
 gdverse: '1.6'
 gdxdt: 0.1.0
+gdxtools: 1.1.1
 gear: 0.3.4
 gearman: 0.1-5
 geboes.score: 1.0.0
@@ -19090,7 +19099,7 @@ influence.ME: 0.9-10
 influence.SEM: '2.4'
 influenceAUC: 0.1.2
 influenceR: 0.1.5
-influential: 2.3.0
+influential: 2.3.1
 influxdbclient: 0.1.2
 influxdbr: 0.14.2
 infoDecompuTE: 0.6.2
@@ -19274,7 +19283,7 @@ ipd: 0.4.1
 ipdmeta: '2.4'
 ipdw: 2.0-0
 ipeaData: 0.0.2
-ipeadatar: 0.1.6
+ipeadatar: 0.2.0
 ipeaplot: 0.5.2
 iperform: 0.0.3
 ipeval: 0.1.0
@@ -19704,7 +19713,7 @@ keyholder: 0.1.8
 keylist: 1.0.0
 keyperm: 0.1.1
 keyplayer: 1.0.4
-keypress: 1.3.1
+keypress: 1.3.2
 keyring: 1.4.1
 keyringr: 0.4.0
 keys: 0.1.1
@@ -20306,6 +20315,7 @@ llmcoder: 1.2.0
 llmflow: 3.0.2
 llmhelper: 1.0.0
 llmjson: 0.1.0
+llmshieldr: 0.1.0
 llogistic: 1.0.3
 llrem: 0.1.1
 lm.beta: 1.7-3
@@ -21792,6 +21802,7 @@ modelcf: 2.1.1
 modeldata: 1.5.1
 modeldatatoo: 0.3.0
 modeldb: 0.3.1
+modeldiag: 0.1.0
 modeldiagramR: 0.2.1
 modelenv: 0.2.0
 modelfactory: 1.0.0
@@ -22372,7 +22383,7 @@ mxnorm: 1.1.0
 mxsem: 0.1.0
 myCRAN: '1.3'
 myClim: 1.5.1
-myTAI: 2.3.5
+myTAI: 2.3.6
 mycaas: 0.0.1
 mycobacrvR: '1.1'
 mycolorsTB: 0.1.1
@@ -22427,7 +22438,7 @@ nanostringr: 0.6.1
 nanotime: 0.3.15
 naptanr: 1.0.1
 naptime: 1.3.1
-nara: 1.0.1
+nara: 1.0.2
 nardl: 0.1.6
 narfima: 0.1.0
 narray: 0.5.2
@@ -22531,7 +22542,7 @@ neptune: 0.2.3
 nesRdata: 0.3.1
 nestable: 0.1.0
 nestcolor: 0.1.3
-nestedLogit: 0.4.0
+nestedLogit: 0.4.2
 nestedRanksTest: '0.2'
 nestedcv: 0.8.2
 nestedmodels: 1.1.0
@@ -24092,7 +24103,7 @@ pharmaverseadamjnj: 0.0.5
 pharmaverseraw: 0.1.1
 pharmaversesdtm: 1.4.1
 pharmaversesdtmjnj: 0.0.4
-pharmr: 2.1.0
+pharmr: 2.1.1
 phase: 1.2.9
 phase12designs: 0.3.1
 phase1PRMD: 1.0.2
@@ -25787,7 +25798,7 @@ rashnu: 0.1.2
 rassta: 1.0.6
 raster: 3.6-32
 rasterDT: 0.3.2
-rasterImage: 0.4.0
+rasterImage: 0.4.1
 rasterKernelEstimates: 1.0.2
 rasterList: 0.5.21
 rasterVis: 0.51.7
@@ -26263,6 +26274,7 @@ remaCor: 0.0.20
 remap: 0.3.2
 rematch: 2.0.0
 rematch2: 2.1.2
+remdata: 0.2.0
 remedy: 0.1.0
 remify: 4.0.0
 remindR: 0.0.1
@@ -26279,6 +26291,7 @@ remss: 1.0.1
 remstats: 4.0.0
 remstimate: 3.0.0
 remulate: 2.1.0
+remverse: 0.1.0
 rencher: 0.1.6
 renderthis: 0.2.0
 renpow: 0.1-1
@@ -27300,6 +27313,7 @@ rwars: 1.0.0
 rwavelet: 0.4.1
 rwc: '1.12'
 rwebstat: 1.1.1
+rwetools: 0.1.2
 rwfec: '0.2'
 rwhatsapp: 0.2.4
 rwicc: 0.2.0
@@ -29115,7 +29129,7 @@ spp: 1.16.0
 spphpr: 1.1.5
 sppmix: 1.0.2.1
 spqdep: 0.1.3.6
-spray: 1.0-27
+spray: 1.1-1
 spread: 2019.8.5
 spreadr: 0.2.0
 spreval: 1.1.0
