@@ -896,6 +896,7 @@ BioFTF: 1.2-0
 BioGSP: 1.0.0
 BioGeoBEARS: 0.2.1
 BioIDMapper: '3.0'
+BioIndex: 0.6.4
 BioInsight: 0.3.1
 BioInstaller: 0.3.7
 BioM2: 1.1.3
@@ -2198,7 +2199,7 @@ Devore7: 0.7.6
 Dforest: 0.4.2
 DiDforBigData: '1.0'
 DiNAMIC.Duo: 1.0.4
-DiPALM: '1.2'
+DiPALM: '1.3'
 DiPhiSeq: 0.2.0
 DiPs: 0.6.4
 DiSCos: 0.1.3
@@ -2640,6 +2641,7 @@ Equalden.HD: 1.2.1
 EquiNorm: '2.0'
 EquiSurv: 0.1.0
 EquiTrends: 1.0.0
+EraBrewer: 0.2.0
 ErlangC: 0.1.0
 ErrorTracer: 1.1.0
 EstCRM: '1.6'
@@ -2647,7 +2649,7 @@ EstHTSeed: 0.1.0
 EstHer: '1.0'
 EstMix: 1.0.1
 EstSimPDMP: '1.2'
-EstemPMM: 0.3.2
+EstemPMM: 0.4.0
 EstimDiagnostics: 0.0.3
 EstimateBreed: 1.0.2
 EstimateGroupNetwork: 0.3.1
@@ -3314,6 +3316,7 @@ GRCFE: 0.1.0
 GRCRegression: '1.0'
 GRCdata: '1.0'
 GRCdesigns: 1.0.0
+GREENREG: 0.1.0
 GREENeR: 1.0.2
 GREMLINS: 0.2.1
 GREP2: 1.0.2
@@ -3374,7 +3377,7 @@ GWEX: 1.1.3
 GWG: '1.0'
 GWI: 1.0.2
 GWLelast: 1.2.2
-GWPR.light: 0.2.1
+GWPR.light: 1.0.0
 GWRLASSO: 0.1.0
 GWRM: 2.1.0.4
 GWSDAT: 3.3.0
@@ -3577,7 +3580,7 @@ Guerry: 1.8.3
 GuessCompx: 1.0.3
 GulFM: 0.5.0
 GxEScanR: 3.0.0
-GxEprs: '1.2'
+GxEprs: '1.3'
 GxM: '1.1'
 H2x2Factorial: 2.0.0
 HAC: 1.1-2
@@ -4440,7 +4443,7 @@ LMD: 1.2.1
 LMERConvenienceFunctions: '3.0'
 LMGene: 2.8.0
 LMMELSM: 0.2.1
-LMMsolver: 1.0.12
+LMMsolver: 1.0.13
 LMMstar: 1.1.0
 LMN: 1.1.3
 LMPdata: 0.2.0
@@ -5386,6 +5389,7 @@ MoTBFs: 1.4.2
 MobileTrigger: 0.0.31
 Mobilize: 2.16-4
 ModEstM: 0.0.1
+ModLR: 0.1.29
 ModStatR: 1.4.2
 ModTools: 0.9.13
 ModalCens: 0.1.0
@@ -6195,6 +6199,7 @@ PPMiss: 0.1.2
 PPQplan: 1.1.0
 PPRL: 0.3.9
 PPSFS: 0.1.3
+PPTS: '1.0'
 PPTcirc: 0.2.3
 PPbigdata: 1.0.0
 PPforest: 0.2.0
@@ -7290,6 +7295,7 @@ RSQLite.extfuns: 0.0.1
 RSQLite.toolkit: 0.1.2
 RSSL: 0.9.8
 RSSOP: '1.1'
+RSSRMR: 0.1.0
 RSSampling: '1.0'
 RSStest: '1.0'
 RSSthemes: 1.0.0
@@ -9725,7 +9731,7 @@ W2CWM2C: '2.2'
 W3CMarkupValidator: 0.2-3
 W4MRUtils: 1.2.2
 WA: '1.0'
-WACS: 1.1.0
+WACS: 1.2.0
 WALS: 0.2.6
 WARDEN: 2.0.3
 WARN: 1.2-5
@@ -10054,6 +10060,7 @@ acro: 0.1.7
 acroname: 0.1.0
 acrt: 1.0.1
 acs: 2.1.4
+acsmoe: 0.1.0
 acss: 0.3-2
 acss.data: '1.2'
 act: 1.3.1
@@ -10150,6 +10157,7 @@ adjclust: 0.6.11
 adjoin: 0.1.0
 adjustedCurves: 0.11.4
 adjustedcranlogs: 0.1.0
+adjustr: 0.2.0
 adk: 1.0-2
 adklakedata: 0.6.4
 adlift: 1.4-6
@@ -13408,7 +13416,7 @@ cplots: 0.5-0
 cpm: '2.3'
 cpmBigData: 0.0.2
 cpmr: 0.1.1
-cpop: 1.0.8
+cpop: 1.0.9
 cpp11: 0.5.5
 cpp11armadillo: 0.5.4
 cpp11bigwig: 0.1.3
@@ -16944,7 +16952,7 @@ gcxgclab: 1.1.0
 gdalBindings: 0.1.17
 gdalUtilities: 1.2.5
 gdalUtils: 2.0.3.2
-gdalcubes: 0.7.3
+gdalcubes: 0.7.4
 gdalraster: 2.6.1
 gdata: 3.0.1
 gde: 0.2.1
@@ -17100,7 +17108,7 @@ geoTS: 0.1.10
 geoarrow: 0.4.2
 geoarrowWidget: 0.1.0
 geoaxe: 0.1.0
-geobounds: 0.1.1
+geobounds: 0.1.2
 geobr: 2.0.0
 geocacheR: 0.1.0
 geocausal: 0.4.1
@@ -19082,6 +19090,7 @@ ineq: 0.2-13
 ineq.2d: 0.1.0
 ineqJD: '1.0'
 inequality: 0.1.0
+inequantiles: 0.1.0
 inet: 0.1.0
 inetwork: '1.2'
 infectiousR: 0.1.1
@@ -22256,6 +22265,7 @@ multisom: '1.3'
 multispatialCCM: '1.3'
 multistate: '0.2'
 multistateutils: 1.2.4
+multiswc: 0.1.2
 multitable: '1.6'
 multitaper: 1.0-17
 multitool: 0.1.5
@@ -23163,6 +23173,7 @@ ohvbd: 1.0.1
 oii: 1.0.2.1
 ojUtils: 0.1.0
 ojsr: 0.1.5
+okBATHTUB: 0.1.10
 okcolors: 0.1.0
 okmesonet: 0.1.5
 okxAPI: 0.1.1
@@ -23893,6 +23904,7 @@ pcoxtime: 1.0.4
 pcpr: 1.0.0
 pcr: 1.2.2
 pcrcoal: 1.2.0
+pcreg: 0.1.0
 pcrsim: 1.0.2
 pcse: 1.9.1.1
 pcsstools: 0.1.2
@@ -24667,6 +24679,7 @@ postlink: 0.1.0
 postlogic: 0.1.0.1
 postpack: 0.5.4
 potential: 0.2.0
+potentiomap: 0.1.0
 poth: 0.3-0
 potions: 0.2.0
 potools: 0.2.4
@@ -26376,7 +26389,7 @@ resilience: 2025.1.1
 resizableSplitLayout: 0.1.1
 reslife: 0.2.1
 reslr: 0.2.0
-resmush: 1.0.0
+resmush: 1.0.1
 resourcecode: 0.5.4
 resourcecodedata: 1.0.0
 resourcer: 1.5.1
@@ -27381,6 +27394,7 @@ sRdpData: 0.1.0
 sSDR: 1.2.0
 sTSD: 0.2.0
 sValues: 0.1.8
+saCI: 0.1.0
 saasCNV: 0.3.4
 sabarsi: 0.1.0
 saber: 0.7.1
@@ -27641,6 +27655,7 @@ scgwr: 0.1.2-21
 sched: 1.0.3
 schematic: 0.1.2
 schemr: 0.3.1
+schmear: 0.1.0
 schoRsch: '1.11'
 schoenberg: 2.0.3
 scholar: 0.2.6
@@ -28163,6 +28178,7 @@ shinySbm: 0.2.0
 shinySearchbar: 1.0.0
 shinySelect: 1.3.0
 shinyShortcut: 0.1.0
+shinyStep: 0.5.1
 shinyStorePlus: '1.6'
 shinyTempSignal: 0.0.8
 shinyTime: 1.0.3
@@ -31364,6 +31380,7 @@ vanquish: 1.0.0
 vapour: 0.16.0
 varComp: 0.2-0
 varEst: 0.1.0
+varGuid: 0.1.4
 varGuidTS: 0.1.13
 varImp: '0.4'
 varPro: 3.1.0
