@@ -755,7 +755,7 @@ BayesMixSurv: 0.9.3
 BayesMoFo: 0.1.0
 BayesMortalityPlus: 1.0.0
 BayesMultMeta: 0.1.1
-BayesMultiMode: 0.7.5
+BayesMultiMode: 1.0.0
 BayesNI: '0.1'
 BayesNSGP: 0.2.0
 BayesNetBP: 1.6.1
@@ -778,6 +778,7 @@ BayesQTLBIC: 1.0-2
 BayesQVGEL: 0.1.1
 BayesRGMM: '2.2'
 BayesRS: 0.1.3
+BayesRTMB: 0.1.1
 BayesRegDTR: 1.1.2
 BayesRep: 0.42.2
 BayesRepDesign: '0.42'
@@ -1017,7 +1018,7 @@ BurStFin: '1.3'
 BurStMisc: '1.1'
 BusinessDuration: 0.2.0
 ButtR: 1.1.1
-BuyseTest: 3.3.4
+BuyseTest: 3.3.9
 Bvalue: '1.0'
 BwQuant: 0.1.0
 C19dNUTS: 1.0.1
@@ -1311,6 +1312,7 @@ CSUV: 0.1.1
 CSclone: '1.0'
 CSeQTL: 1.0.1
 CSeqpat: 0.1.2
+CSwR: 0.1.3
 CTAShiny: 0.1.0
 CTD: '1.3'
 CTE: 0.1.5
@@ -1916,7 +1918,7 @@ DGLMExtPois: 0.2.4
 DGM: 1.7.4
 DGP4LCF: 1.0.0.1
 DGVM3D: 1.0.0
-DHARMa: 0.4.7
+DHARMa: 0.5.0
 DHBins: '1.1'
 DHS.rates: 0.9.2
 DHSr: 0.1.0
@@ -4735,7 +4737,7 @@ MBBEFDLite: 1.0.0
 MBC: 0.10-7
 MBCbook: 0.1.2
 MBCluster.Seq: '1.0'
-MBESS: 4.9.42
+MBESS: 5.0.0
 MBHdesign: 2.3.15
 MBI: '1.0'
 MBMethPred: 0.1.4.4
@@ -6195,6 +6197,7 @@ PP: 0.6.4-1
 PP3: '1.2'
 PPCDT: 0.2.0
 PPCI: 0.1.5
+PPCSexRx: 0.1.0
 PPLasso: '2.0'
 PPMR: 1.0.1
 PPMiss: 0.1.2
@@ -8473,7 +8476,7 @@ STraTUS: 1.1.2
 SUE: '1.0'
 SUMMER: 2.0.0
 SUMO: 1.2.3
-SUNGEO: 1.3.0
+SUNGEO: 1.4.0
 SUSENAS: 0.1.0
 SUSY: 0.1.0
 SV: 1.3.5
@@ -8959,6 +8962,7 @@ Stickbreaker: 1.0.0
 SticsRFiles: 1.6.0
 StochBlock: 0.1.5
 StochKit2R: '0.3'
+StochSimR: 1.1.0
 StochaTR: 1.0.4
 StockChina: 0.3.1
 StockDistFit: 1.0.0
@@ -9817,7 +9821,7 @@ WaveletSVR: 0.1.0
 WaverR: '1.0'
 WaverideR: 0.5.1
 WayFindR: 0.7.0
-Waypoint: 1.2.1
+Waypoint: 1.3.0
 Wcompo: '1.0'
 WeMix: 4.0.3
 WeatherSentiment: '1.0'
@@ -9893,6 +9897,7 @@ XML2R: 0.0.9
 XMLSchema: 0.7-0
 XMRF: '1.0'
 XNomial: 1.0.4.1
+XOMultinom: 0.8.7
 XPolaris: 1.0.2
 XR: 0.7.2
 XRJulia: 0.9.0.1
@@ -10485,7 +10490,7 @@ anovapowersim: 1.1.0
 anovir: 0.1.0
 anscombiser: 1.1.0
 ant: 0.0-10
-antaresEditObject: 1.0.0
+antaresEditObject: 1.0.1
 antaresProcessing: 0.18.3
 antaresRead: 3.0.1
 antaresViz: 0.18.3
@@ -12712,6 +12717,7 @@ cloudUtil: 0.1.12
 cloudfs: 0.1.3
 cloudml: 0.7.1
 cloudos: 0.4.0
+cloudosR: 0.2.0
 cloudstoR: 0.2.0
 clpAPI: 1.3.1
 clpm: '1.0'
@@ -13147,6 +13153,7 @@ connections: 0.2.1
 connectoModa: 1.0.0
 connector: 1.0.0
 connector.databricks: 0.1.0
+connector.sharepoint: 0.1.0
 connectwidgets: 0.2.1
 conogive: 1.0.0
 conos: 1.5.4
@@ -13239,6 +13246,7 @@ copulaedas: 1.4.3
 copulareg: 0.1.0
 copyseparator: 1.2.0
 corHMM: '2.8'
+corMLPE: 0.1.0
 corTESTsrd: 1.0-0
 corTest: 1.0.7
 corTools: '1.0'
@@ -13587,6 +13595,7 @@ csci: 0.9.3
 csdata: 2026.3.30
 csdb: 2026.5.13
 csdm: 1.0.1
+csemGT: 1.0.0
 cshapes: '2.0'
 cslogistic: 0.1-3
 csmGmm: 0.4.0
@@ -14735,7 +14744,7 @@ ds: '4.0'
 ds4psy: 1.3.0
 dsBase: 6.3.5
 dsBaseClient: 6.3.5
-dsROCrate: 0.0.2
+dsROCrate: 0.1.0
 dsTidyverse: 1.2.1
 dsTidyverseClient: 1.1.0
 dsa: 1.0.12
@@ -14894,7 +14903,7 @@ eCAR: 0.1.2
 eCV: 0.0.2
 eCerto: 0.8.11
 eChem: 1.0.0
-eClosure: 0.9.4
+eClosure: 0.9.5
 eDITH: 1.1.0
 eDMA: 1.5-4
 eDNAfuns: 0.1.0
@@ -15163,6 +15172,7 @@ ei.Datasets: 0.0.1-3
 eiCircles: 0.0.1-14
 eiCompare: 3.0.4
 eiExpand: 1.0.5
+eiIT: 0.0.1-1
 eiPack: 0.2-2
 eiPartialID: 0.1.2
 eia: 0.4.2
@@ -21380,6 +21390,7 @@ micEconSNQP: 0.6-10
 micar: 1.2.0
 micd: 1.1.2
 mice: 3.19.0
+miceDRF: 0.1.0
 miceExt: 1.1.0
 miceFast: 0.9.1
 miceMNAR: 1.0.2
@@ -21507,7 +21518,7 @@ mipfp: 3.2.1
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 2.7.0
+mirai: 2.7.1
 mirai.promises: 0.5.0
 mirf: '1.0'
 mirrorselect: 0.0.3
@@ -21685,7 +21696,7 @@ mlr3cluster: 0.3.0
 mlr3data: 0.9.0
 mlr3db: 0.7.2
 mlr3fairness: 0.4.0
-mlr3fda: 0.5.0
+mlr3fda: 0.6.0
 mlr3filters: 0.9.1
 mlr3fselect: 1.6.0
 mlr3hyperband: 1.1.0
@@ -21866,7 +21877,7 @@ modisfast: 1.0.2
 modmarg: 0.9.6
 modnets: 0.9.0
 modopt.matlab: 1.0-2
-modsem: 1.0.19
+modsem: 1.0.20
 moduleColor: 1.8-4
 modules: 0.13.0
 modygliani: '1.0'
@@ -22020,6 +22031,8 @@ mpspline2: 0.1.9
 mpt: 1.0-0
 mptools: 1.0.1
 mpwR: 0.1.5.1
+mqqcause: 1.0.0
+mqqr: 1.0.0
 mqriskR: 0.1.0
 mr: '0.1'
 mr.mashr: 0.3.44
@@ -22324,6 +22337,7 @@ mutoss: 0.1-14
 mutossGUI: 0.1-12
 muttest: 0.2.0
 mutualinf: 2.0.4
+mvBayes: 1.2.1
 mvDFA: 0.0.4
 mvGPS: 1.2.2
 mvLSW: 1.2.5
@@ -22432,6 +22446,7 @@ nLTT: 1.4.10
 nRegression: 0.5.1
 nTARP: 0.1.0
 nVennR: 0.2.3
+nVennR2: 2.0.1
 na.tools: 0.3.1
 naaccr: 3.1.1
 nabla: 0.7.1
@@ -23297,6 +23312,7 @@ openbankeR: 0.1.1
 openblender: 0.5.81
 opencage: 0.2.2
 opencastR: 0.1.3
+opencesp: 0.4.0
 opencis: 0.1.1
 opencpu: 2.2.15
 opencpu.demo: 0.7-0
@@ -23844,7 +23860,7 @@ paws.common: 0.8.9
 paws.compute: 0.10.0
 paws.cost.management: 0.10.0
 paws.customer.engagement: 0.10.0
-paws.database: 0.9.0
+paws.database: 0.10.0
 paws.developer.tools: 0.10.0
 paws.end.user.computing: 0.10.0
 paws.machine.learning: 0.10.0
@@ -24343,7 +24359,7 @@ pkgndep: 2.0.0
 pkgnet: 0.6.0
 pkgnews: 0.0.2
 pkgsearch: 3.1.5
-pkgstats: 0.2.2
+pkgstats: 0.2.3
 pkgutils: 0.6.0
 pkgverse: 0.0.1
 pkmapr: 1.2.1
@@ -25295,6 +25311,7 @@ qpmadr: 1.1.0-0
 qqboxplot: 0.3.0
 qqconf: 1.3.2
 qqid: 1.0.3
+qqkrls: 1.0.0
 qqman: 0.1.9
 qqplotr: 0.0.7
 qqplotter: '1.16'
@@ -25545,6 +25562,7 @@ rDNA: '1.31'
 rDNAse: 1.1-1
 rDVR: 0.1.1
 rDataPipeline: 0.60.0
+rDeckgl: 0.1.0
 rDecode: 0.1.0
 rDotNet: 0.9.1
 rDppDiversity: 0.0.2
@@ -26066,7 +26084,7 @@ reactable: 0.4.5
 reactable.extras: 0.2.1
 reactablefmtr: 2.0.0
 reactlog: 1.1.1
-read.abares: 2.0.0
+read.abares: 3.0.0
 read.cwa: 0.2.1
 read.dbc: 1.2.0
 read.gb: '2.2'
@@ -26412,7 +26430,7 @@ respirometry: 2.0.2
 responsePatterns: 0.1.1
 resquin: 0.1.1
 restatapi: 0.25.0
-restatis: 0.4.0
+restatis: 0.4.1
 restaurant: 0.1.0
 restez: 2.1.5
 restfulr: 0.0.16
@@ -27376,7 +27394,7 @@ rytstat: 0.3.2
 rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.16
-s2: 1.1.9
+s2: 1.1.11
 s20x: 3.2.2
 s2dv: 2.3.0
 s2dverification: 2.10.3
@@ -28645,6 +28663,7 @@ smoothAPC: '0.3'
 smoothHR: 1.0.5
 smoothROCtime: 0.1.1
 smoothSurv: '2.6'
+smoothbp: 0.2.1
 smoothedIPW: 0.1.0
 smoothedLasso: '1.6'
 smoothemplik: 0.0.17
@@ -28661,6 +28680,7 @@ smotefamily: 1.4.0
 smovie: 1.1.6
 smpic: 0.1.0
 smplot2: 0.2.6
+smqf: 1.1-1
 smriti: 0.1.0
 sms: 2.3.1
 smsets: 2.0.0
@@ -29076,6 +29096,7 @@ spgs: 1.0-4
 spgwr: 0.6-37
 sphereML: 0.1.1
 sphereTessellation: 1.2.0
+sphereclust: '1.0'
 spheredata: 0.1.3
 spherepc: 0.1.7
 sphereplot: 1.5.1
@@ -29270,6 +29291,7 @@ ssizeRNA: 1.3.3
 sskm: 1.0.0
 ssmn: '1.1'
 ssmodels: 2.0.2
+ssmooth: 0.1.0
 ssmrob: '1.0'
 ssmsn: 0.2.0
 sspir: 0.2.10
@@ -30620,6 +30642,7 @@ tmap.cartogram: 0.2-1
 tmap.glyphs: 0.1-1
 tmap.mapgl: 0.2-1
 tmap.networks: '0.2'
+tmap.sources: '0.1'
 tmaptools: '3.3'
 tmapverse: 0.1.0
 tmbstan: 1.1.0
