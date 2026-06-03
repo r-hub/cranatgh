@@ -80,6 +80,7 @@ AIDA: 0.1.5
 AIFFtools: '1.0'
 AIG: 0.1.9
 AIGIS: 1.0-1
+AIGRA: 0.1.1
 AIGovernance: 0.1.0
 AIM: '1.01'
 AIPW: 0.6.9.3
@@ -3296,7 +3297,7 @@ GPPFourier: '2.1'
 GPRMortality: 0.1.0
 GPSCDF: 0.1.1
 GPSeqClus: 1.5.0
-GPTCM: 1.1.3
+GPTCM: 2.0.0
 GPTreeO: 1.0.1
 GPUmatrix: 1.0.3
 GPareto: 1.1.9
@@ -4249,6 +4250,7 @@ Julia: 1.3.5
 JuliaCall: 0.17.6
 JuliaConnectoR: 1.1.5
 JuliaFormulae: 0.1.0
+JumpDiffSim: 0.1.0
 JumpTest: '1.1'
 JumpeR: 0.3.0
 JuniperKernel: 1.4.1.0
@@ -4814,7 +4816,7 @@ MDSGUI: 0.1.6
 MDSMap: '1.3'
 MDSPCAShiny: 0.1.0
 MDSS: 1.0-1
-MDgof: 1.0.0
+MDgof: 1.0.1
 MDimNormn: 0.8.0
 MDplot: 1.0.1
 MEAanalysis: 0.1.0
@@ -6349,7 +6351,7 @@ ParallelDSM: 0.3.7
 ParallelForest: 1.1.0
 ParallelLogger: 3.5.1
 ParallelPC: '1.2'
-ParallelTree: 0.1.3
+ParallelTree: 0.2.0
 ParamANOVA: 0.1.4
 ParamHelpers: 1.14.2
 ParentOffspring: '1.0'
@@ -9035,7 +9037,7 @@ SurfRough: 0.0.1.2
 SurfaceReconstruction: 0.1.0
 SurfaceTortoise: 2.0.1
 SurprisalAnalysis: 3.0.1
-Surrogate: 3.4.1
+Surrogate: 3.4.2
 SurrogateBMA: '1.0'
 SurrogateOutcome: '1.2'
 SurrogateParadoxTest: '2.2'
@@ -11158,6 +11160,7 @@ baygel: 0.3.0
 baymedr: '0.2'
 baymvb: 1.0.4
 bayou: 2.3.2
+bayprior: 0.2.12
 baystability: 0.2.0
 baytrends: 2.0.14
 bazar: 1.0.11
@@ -12665,7 +12668,7 @@ clifford: 1.1-3
 clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-10
-climaemet: 1.5.1
+climaemet: 1.6.0
 climate: 1.3.0
 climate.plot: 0.1-2
 climateStability: 0.1.4
@@ -14717,7 +14720,7 @@ drcarlate: 1.2.0
 drclust: 0.1.1
 drcte: 1.0.65
 drda: 2.0.5
-dream: 2.1.1
+dream: 2.1.2
 dreamer: 3.2.0
 dreamerr: 1.5.0
 dress.graph: 0.8.3
@@ -15375,7 +15378,7 @@ eodhdR2: 0.5.2
 eoffice: 0.2.3
 epade: 0.5.1
 epandist: 1.1.1
-epanet2toolkit: 1.0.8
+epanet2toolkit: 1.0.9
 epanetReader: 1.0.0
 epca: 1.1.0
 epcc: 1.4.7
@@ -16680,6 +16683,7 @@ fso: 2.1-4
 fspe: 0.1.2
 fsr: 2.0.1
 fssemR: 0.1.8
+fssg: 1.0.0
 fst: 0.9.8
 fst4pg: 1.0.0
 fstcore: 0.10.0
@@ -18014,7 +18018,7 @@ gridGraphviz: 0.3-2
 gridOT: 1.0.2
 gridSVG: 1.7-7
 griddy: 0.1.0
-gridify: 0.7.7
+gridify: 0.8.1
 gridmicrotex: 0.0.4
 gridpattern: 1.3.1
 gridsample: 0.2.1
@@ -19955,6 +19959,7 @@ lacm: 0.1.2
 lacrmr: 1.0.5
 lactater: 0.2.0
 lactcurves: 1.1.0
+lacunarity: 0.1.0
 lacunaritycovariance: 1.1-9
 lacunr: 1.0.2
 ladder: 0.0.3
@@ -23332,6 +23337,7 @@ opencage: 0.2.2
 opencastR: 0.1.3
 opencesp: 0.4.0
 opencis: 0.1.1
+opencltools: 0.8.1
 opencpu: 2.2.15
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
@@ -23847,6 +23853,7 @@ patentsview: 1.0.0
 pater: 1.0.0
 path.chain: 1.0.0
 pathClass: 0.9.4
+pathdb: 0.1.0
 pathdiagram: 0.1.9.1
 pathfindR: 2.7.0
 pathfindR.data: 2.1.0
@@ -24291,6 +24298,7 @@ picasso: '1.5'
 picker: 0.2.6
 pickmax: 0.1.0
 picohdr: 0.1.1
+picreg: 0.1.2
 pid: '0.65'
 piecemaker: 1.0.2
 piecemeal: 0.2.0
@@ -24600,6 +24608,7 @@ policytree: 1.2.4
 polidata: 0.1.0.1
 polimetrics: 1.2.1.14
 poliscidata: 2.3.0
+polish: 0.3.1
 polished: 0.8.1
 polite: 0.1.4
 politeness: 0.9.4
@@ -26263,6 +26272,7 @@ regMMD: 0.1.0
 regRSM: '0.5'
 regcensus: 1.0.1
 regclass: '1.7'
+regcorr: 0.1.0
 regda: '1.0'
 regexPipes: 0.0.1
 regexSelect: 1.0.0
@@ -26931,6 +26941,7 @@ robustrao: 1.0-5
 robustreg: 0.1-11
 robustsae: 0.1.0
 robustsur: 0.0-8
+robusttseq: 0.1.0
 robustvarComp: 0.1-7
 robvis: 0.3.1
 rocNIT: '1.0'
@@ -28113,6 +28124,7 @@ sglasso: 1.2.6
 sglg: 0.2.6
 sglr: '0.8'
 sgmcmc: 0.2.5
+sgmean: 0.1.0
 sgmodel: 0.1.2
 sgo: 0.9.2
 sgof: 2.3.5
@@ -28296,7 +28308,7 @@ shinyreforms: 0.0.1
 shinyreprex: 0.1.0
 shinyscholar: 0.4.5
 shinyscreenshot: 0.2.1
-shinyseo: 0.1.0
+shinyseo: 0.1.1
 shinyservicebot: 0.1.0
 shinystan: 2.7.0
 shinystate: 0.1.0
@@ -31157,6 +31169,7 @@ twotrials: '0.6'
 twoway: 0.6.3
 twowaytests: '1.5'
 twoxtwo: 0.1.0
+twscrapeR: 0.1.3
 twslm: 1.0.2
 txshift: 0.3.8
 txtplot: 1.0-5
