@@ -3468,6 +3468,7 @@ GenomicTools.fileHandler: 0.1.5.9
 GeoAdjust: 2.0.1
 GeoBoxplot: '1.0'
 GeoDE: '1.0'
+GeoDensityR: 0.1.2
 GeoFIS: 1.1.1
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
@@ -5620,7 +5621,7 @@ NMsim: 0.2.7
 NNLM: 0.4.3
 NNMIS: 1.0.1
 NNMoMo: 0.1.0
-NNS: '12.0'
+NNS: '12.1'
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.9.1
@@ -5739,6 +5740,7 @@ NeuralNetTools: 1.5.3
 NeuralSens: 1.1.3
 NeuroDataSets: 0.3.0
 NeuroDecodeR: 0.2.0
+NeutroIBDAnalysis: 0.1.1
 Newdistns: '2.1'
 NewmanOmics: 1.0.14
 NiLeDAM: '0.4'
@@ -7828,6 +7830,7 @@ Risk: '1.0'
 RiskMap: 1.0.0
 RiskPortfolios: 2.1.7
 RiskScorescvd: 0.3.1
+RiskyCNV: 0.1.0
 Rita: 1.2.0
 Ritc: '1.3'
 RivRetrieve: 0.1.9
@@ -7965,7 +7968,7 @@ Rraven: 1.0.16
 Rrdap: 1.0.7
 Rrdrand: 0.1-16
 Rrelperm: 0.1.0
-Rrepest: 1.6.12
+Rrepest: 1.6.13
 RsSimulx: '2024.1'
 Rsac: 0.1-8
 Rsagacmd: 0.4.3
@@ -9457,7 +9460,7 @@ TransPhylo: 1.4.5
 TransProR: 1.0.7
 TransTGGM: 1.0.0
 TransferEntropy: '1.4'
-Transform: '1.0'
+Transform: '1.1'
 Transition: 1.0.3
 Tratamentos.ad: 0.2.4
 TreatmentPatterns: 3.1.2
@@ -11295,6 +11298,7 @@ betaDelta: 1.0.6
 betaMC: 1.3.3
 betaNB: 1.0.6
 betaSandwich: 1.0.8
+betaStability: 0.0.4
 betaboost: 1.0.1
 betacal: 0.1.0
 betaclust: 1.0.5
@@ -13609,6 +13613,7 @@ csa: 0.7.1
 csabounds: 1.0.0
 csalert: 2024.6.24
 csampling: 1.2-4.1
+csbewma: 1.0.1
 csci: 0.9.3
 csdata: 2026.3.30
 csdb: 2026.5.13
@@ -15347,6 +15352,7 @@ ensemblQueryR: 0.1.0
 ensemble: 0.2-1
 ensembleBMA: 5.1.8
 ensembleEN: 1.1.2
+ensembleML: 0.2.5
 ensembleMOS: 0.8.2
 ensembleR: 0.1.0
 ensembleTax: 1.1.1
@@ -15775,7 +15781,7 @@ eyeTrackR: 1.0.1
 eyedata: 0.1.0
 eyelinkReader: 1.0.3
 eyelinker: 0.2.2
-eyeris: 3.0.1
+eyeris: 3.1.0
 eyetools: 0.9.2
 eyetracking: '1.1'
 eyetrackingR: 0.2.2
@@ -15906,7 +15912,7 @@ famSKATRC: 1.1.0
 fame: 2.21.1
 familial: 1.0.7
 familiar: 2.0.2
-famish: 0.2.0
+famish: 0.2.1
 fanc: 2.3.13
 fancycut: 0.1.3
 fangs: 0.2.22
@@ -22806,6 +22812,7 @@ nlmixr2extra: 5.0.0
 nlmixr2lib: 0.3.2
 nlmixr2plot: 5.0.1
 nlmixr2rpt: 0.2.2
+nlmixr2targets: 0.1.0
 nlmm: 1.1.1
 nlmrt: 2016.3.2
 nlnet: '1.4'
@@ -24931,7 +24938,7 @@ primarycensored: 1.5.0
 primate: 0.2.0
 primePCA: '1.2'
 primefactr: 0.1.1
-primer: 1.2.0
+primer: 1.2.1
 primerTree: 1.1.0
 primes: 1.6.1
 princurve: 2.1.6
@@ -25416,7 +25423,7 @@ quadmesh: 0.5.5
 quadprog: 1.5-8
 quadprogXT: 0.0.6
 quadraticSD: 0.1.0
-quadrupen: 0.2-13
+quadrupen: 1.0-0
 quadtree: 0.1.14
 qualCI: '0.1'
 qualV: 0.3-5
@@ -27220,6 +27227,7 @@ rsml: '1.3'
 rsnell: '0.1'
 rsnps: 0.6.0
 rsocialwatcher: 0.1.1
+rsocsim: 1.9.18
 rsofun: 5.1.0
 rsoi: 0.5.8
 rsolr: 0.0.14
@@ -27656,7 +27664,7 @@ scImmuneGraph: 1.1.3
 scLink: 1.0.1
 scMappR: 1.0.12
 scMetaTraj: 0.1.1
-scModels: 1.0.4
+scModels: 1.0.5
 scOntoMatch: 0.1.1
 scPDSI: 0.1.3
 scPOEM: 0.1.3
@@ -30846,7 +30854,7 @@ trajectories: 0.2-10
 trajmsm: 0.1.5
 trajr: 1.5.1
 traktok: 0.1.1
-tram: 1.4-2
+tram: 1.4-3
 tramME: 1.0.8
 tramicp: 0.1-0
 tramnet: 0.0-991
