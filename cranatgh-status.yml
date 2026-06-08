@@ -257,6 +257,7 @@ AdequacyModel: 2.0.0
 AdhereR: 0.8.2
 AdhereRViz: 0.2.2
 AdjBQR: '1.0'
+AdmixPoly: 1.0.0
 AdsorpR: 0.1.0
 AdvBinomApps: '1.0'
 AdvDif4: 0.7.18
@@ -2315,6 +2316,7 @@ DramaAnalysis: 3.0.2
 DriftBurstHypothesis: 0.4.0.1
 DrillR: '0.1'
 DriveML: 0.1.5
+DrivePlotR: 0.1.0
 DrugClust: '0.2'
 DrugExposureDiagnostics: 1.1.7
 DrugSim2DR: 0.1.2
@@ -8236,7 +8238,7 @@ SHAKTI: 0.1.0
 SHAPBoost: 1.0.3
 SHAPforxgboost: 0.2.0
 SHARE: 1.1.0
-SHARK4R: 1.1.1
+SHARK4R: 1.2.0
 SHELF: 1.13.0
 SHIP: 2.0.3
 SHLR: '1.0'
@@ -8965,7 +8967,7 @@ StatTools: 0.1.1
 Statamarkdown: 0.9.6
 StateLevelForest: 0.1.0
 StateTrace: 1.0-4
-StatisticTeach1: 0.1.1
+StatisticTeach1: 0.1.2
 Statomica: '1.0'
 StatsTFLValR: 1.0.0
 Statsomat: 1.1.0
@@ -9614,6 +9616,7 @@ UnitMix: 0.0.1
 UnitStat: 1.1.0
 UnivRNG: 1.2.3
 UniversalCVI: 1.4.0
+Uno: 2.7.3
 UnplanSimon: 0.1.0
 UpAndDownPlots: 0.5.0
 UpDown: 1.2.3
@@ -12001,6 +12004,7 @@ butterfly: 1.1.2
 butterflyOptions: 1.0.1
 buzzMed: 0.1.2
 bvarnet: 1.0.0
+bvars: '1.0'
 bvarsv: '1.1'
 bvartools: 0.2.4
 bvenn: '0.1'
@@ -12641,7 +12645,7 @@ clampSeg: 1.2-0
 clap: 0.1.0
 clarabel: 0.11.2
 clarifai: 0.4.2
-clarify: 0.2.2
+clarify: 0.2.3
 clarkeTest: 0.2.0
 class: 7.3-23
 classGraph: 0.7-7
@@ -13891,6 +13895,7 @@ dashTable: 4.7.0
 dashboard: 0.1.0
 dashboardthemes: 1.1.6
 dat: 0.7.0
+data.checker: 2.0.0
 data.table: 1.18.4
 data.table.threads: 1.0.1
 data.tree: 1.2.0
@@ -20464,7 +20469,7 @@ lmw: 0.0.2
 lnMLE: 1.0-1
 lncDIFF: 1.0.0
 lnmCluster: 0.3.1
-lnmixsurv: 3.1.6
+lnmixsurv: 3.1.7
 loa: 0.3.1.1
 loadeR: 1.3.0
 loadflux: 0.0.2
@@ -22827,7 +22832,7 @@ nlmeVPC: '2.8'
 nlmixr: 2.0.7
 nlmixr2: 5.0.0
 nlmixr2auto: 1.0.0
-nlmixr2autoinit: 1.0.0
+nlmixr2autoinit: 1.0.1
 nlmixr2data: 2.0.9
 nlmixr2est: 6.0.1
 nlmixr2extra: 5.1.0
@@ -23317,6 +23322,7 @@ onlineretail: 0.1.2
 onls: 0.1-4
 onmaRg: 1.0.3
 onnx: 0.0.3
+onnxr: 0.1.2
 onpoint: '1.1'
 ons: 0.1.3
 onsr: 1.0.2
@@ -27196,6 +27202,7 @@ rrp: '2.9'
 rrpack: 0.1-14
 rrr: 1.0.0
 rrscale: '1.0'
+rrstools: 1.1.0
 rrtable: 0.3.0
 rrules: 0.1-0
 rrum: 0.2.2
@@ -27215,7 +27222,7 @@ rscala: 3.2.25
 rscc: 0.2.1
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 1.8.0
+rsconnect: 1.10.0
 rscontract: 0.1.2
 rscopus: 0.9.0
 rscorecard: 0.33.0
@@ -28315,7 +28322,7 @@ shinydbauth: 1.0.0.1
 shinydisconnect: 0.1.1
 shinydlplot: 0.1.4
 shinydrive: 0.1.5
-shinyds: 0.2.2
+shinyds: 0.3.0
 shinyfa: 0.0.1
 shinyfilter: 0.1.1
 shinyfilters: 0.3.0
@@ -29015,6 +29022,7 @@ sparseVCBART: 1.0.0
 sparsebn: 0.1.2
 sparsebnUtils: 0.0.8
 sparsecommunity: 0.1.1
+sparsediff: 0.4.0
 sparsediscrim: 0.3.0
 sparsegl: 1.1.1
 sparseinv: 0.1.3
@@ -30654,7 +30662,7 @@ tintin: '0.2'
 tinyProject: 0.6.1
 tinyVAST: 1.6.0
 tinyarray: 2.4.3
-tinycodet: 0.6.2
+tinycodet: 0.7.0
 tinyimg: '0.4'
 tinylabels: 0.2.5
 tinylens: 0.1.0
@@ -31193,6 +31201,7 @@ twig: 1.0.0.0
 twilio: 0.1.0
 twingp: 1.0.0
 twinning: '1.1'
+twinsvm: 0.0.1
 twitteR: 1.1.9
 twitteradsR: 0.1.0
 twitterwidget: 0.1.1
@@ -31714,6 +31723,7 @@ vivainsights: 0.7.2
 vivaldi: 1.0.1
 vivid: 0.3.0
 vivo: 0.2.1
+vizClust: 0.1.0
 vizdraws: 2.0.0
 vkR: '0.2'
 vlad: 0.2.2
@@ -32134,7 +32144,7 @@ wqs: 0.0.1
 wqspt: 1.0.2
 wqtrends: 1.5.2
 wrGraph: 1.3.15
-wrMisc: 2.0.2
+wrMisc: 2.1.0
 wrProteo: 2.0.2
 wrTopDownFrag: 1.0.4
 wrangle: 0.6.4
