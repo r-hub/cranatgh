@@ -1093,7 +1093,7 @@ CCAMLRGIS: 4.3.1
 CCI: 0.3.6.1
 CCM: '1.2'
 CCMMR: 0.2.1
-CCMnet: 1.1.1
+CCMnet: 1.1.2
 CCMtools: '1.0'
 CCP: '1.2'
 CCSRfind: 0.1.0
@@ -1345,7 +1345,7 @@ CVR: 0.1.1
 CVST: 0.2-3
 CVThresh: 1.1.2
 CVTuningCov: '1.0'
-CVXR: 1.8.2
+CVXR: 1.9.1
 CVarE: '1.1'
 CVcalibration: 1.0-1
 CVglasso: 1.0.1
@@ -3760,7 +3760,7 @@ Hankel: 0.0-1
 HapEstXXR: 0.1-8
 Hapi: 0.0.3
 Haplin: 7.3.2
-HaploCatcher: 1.0.4
+HaploCatcher: 2.0.1
 HaploDiploidEquilibrium: 0.1.0
 HaploSim: 1.8.4.2
 HaploVar: 0.1.1
@@ -3893,7 +3893,7 @@ ICRanks: '3.2'
 ICS: 1.4-2
 ICSClust: 0.1.1
 ICSKAT: 0.3.0
-ICSNP: 1.1-2
+ICSNP: 1.1-3
 ICSOutlier: 0.4-1
 ICSS: '1.1'
 ICSShiny: '0.6'
@@ -5729,6 +5729,7 @@ NetRep: 1.2.10
 NetSci: 1.0.1
 NetSim: '0.9'
 NetSimR: 0.1.5
+NetSurvProx: 1.0.0
 NetSwan: '0.1'
 NetVAR: 0.1-2
 NetWeaver: 0.0.6
@@ -5749,6 +5750,7 @@ NeuralNetTools: 1.5.3
 NeuralSens: 1.1.3
 NeuroDataSets: 0.3.0
 NeuroDecodeR: 0.2.0
+NeutroCODsAnalysis: 0.0.1
 NeutroIBDAnalysis: 0.1.1
 NeutroRCDsAnalysis: 0.1.0
 Newdistns: '2.1'
@@ -11901,7 +11903,7 @@ brnn: 0.9.4
 broadcast: 0.1.9
 brokenstick: 2.7.0
 brolgar: 1.0.2
-broman: '0.92'
+broman: '0.94'
 broom: 1.0.13
 broom.helpers: 1.22.0
 broom.mixed: 0.2.9.7
@@ -12191,6 +12193,7 @@ caseMatch: 1.1.0
 casebase: 0.10.6
 casen: 0.2.1
 cases: 0.2.0
+cash: 1.0.2
 casimir: 0.3.3
 casino: 0.1.0
 caspar: '1.0'
@@ -13208,6 +13211,7 @@ conrad: 1.0.0.1
 conserveR: 1.0.4
 consibiocloudclient: 1.0.0
 consolechoice: 1.1.1
+consolidatePacks: 1.0.0
 consort: 1.2.3
 consortr: 0.9.1
 consrq: '1.0'
@@ -13370,7 +13374,7 @@ cosso: 2.1-2
 cossonet: '1.0'
 costat: 2.4.1
 costsensitive: 0.1.2.10
-cotram: 0.6-0
+cotram: 0.6-1
 cotrend: 1.0.2
 couchDB: 1.4.1
 countDM: 0.1.0
@@ -15775,7 +15779,7 @@ extendedFamily: 0.2.4
 exteriorMatch: 1.0.0
 extfunnel: '1.3'
 extlasso: '0.3'
-extr: 1.1.0
+extr: 1.1.1
 extraBinomial: '2.1'
 extraDistr: 1.10.0.4
 extraSuperpower: 1.6.2
@@ -21522,6 +21526,7 @@ milonga: '1.0'
 milorGWAS: 0.7.1
 milr: 0.4.1
 mimR: 2.6.2
+mimar: 0.8.0
 mimdo: 0.1.0
 mime: '0.13'
 mimi: 0.2.0
@@ -22887,7 +22892,7 @@ nmixgof: 0.1.1
 nmm: '0.9'
 nmrrr: 1.0.0
 nmslibR: 1.0.7
-nmw: 0.3.0
+nmw: 0.3.1
 nn2poly: 0.1.3
 nnDiag: 0.0-5
 nnGarrote: 1.0.4
@@ -27230,7 +27235,7 @@ rscproxy: 2.0-5
 rsdNE: 1.3.0
 rsdepth: 0.1-22
 rsdmx: 0.6-5
-rsdv: 0.1.0
+rsdv: 0.2.0
 rsed: 0.1.2
 rseedcalc: '1.3'
 rsem: 0.5.1
@@ -28482,7 +28487,7 @@ simboot: 0.2-8
 simcausal: 0.5.7
 simcdm: 0.1.2
 simco: '1.01'
-simcross: '0.8'
+simcross: '0.10'
 simctest: 2.6.1
 simdata: 0.4.1
 simdd: 1.1-2
@@ -28928,6 +28933,7 @@ spBayes: 0.4-9
 spBayesSurv: 1.1.9
 spCF: 0.1.1
 spCP: 1.4.0
+spDBL: 1.0.2
 spData: 2.3.5
 spDates: '1.1'
 spEDM: '1.12'
