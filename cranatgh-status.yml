@@ -85,7 +85,7 @@ AIGovernance: 0.1.0
 AIM: '1.01'
 AIPW: 0.6.9.3
 AIS: '1.0'
-AIUQ: 0.5.4
+AIUQ: 0.5.5
 AIscreenR: 0.3.2
 ALA4R: 1.9.1
 ALDEx3: 1.0.2
@@ -1478,6 +1478,7 @@ CirceR: 1.3.3
 CirclesIntersections: '1.1'
 CircularBoxplots: 0.1.2
 CircularDDM: 0.1.0
+CircularRegression: 0.5.1
 CircularSilhouette: 0.0.1
 Cite: 0.1.0
 CityPlot: '2.0'
@@ -5750,7 +5751,7 @@ NeuralNetTools: 1.5.3
 NeuralSens: 1.1.3
 NeuroDataSets: 0.3.0
 NeuroDecodeR: 0.2.0
-NeutroCODsAnalysis: 0.0.1
+NeutroCODsAnalysis: 0.1.0
 NeutroIBDAnalysis: 0.1.1
 NeutroRCDsAnalysis: 0.1.0
 Newdistns: '2.1'
@@ -10207,7 +10208,7 @@ adklakedata: 0.7.1
 adlift: 1.4-6
 admiral: 1.4.2
 admiral.test: 0.7.0
-admiraldev: 1.4.1
+admiraldev: 1.5.0
 admiralmetabolic: 0.3.0
 admiralneuro: 0.2.1
 admiralonco: 1.4.1
@@ -12813,6 +12814,7 @@ clusteredinterference: 1.0.1
 clusterfly: '0.4'
 clustergas: '1.0'
 clusterhap: '0.1'
+clusterindices: '1.0'
 clustering.sc.dp: '1.1'
 clusterlab: 0.0.2.8
 clustermole: 1.1.1
@@ -14065,6 +14067,7 @@ dcmodify: 0.9.0
 dcmodifydb: 0.3.1
 dcmr: '1.0'
 dcmstan: 0.1.0
+dcorBSS: 1.0-0
 dcorVS: '1.1'
 dcortools: 0.1.7
 dcov: 0.1.1
@@ -14141,6 +14144,7 @@ deductive: 1.0.1
 deduped: 0.4.0
 dedupewider: 0.1.1
 deep: 0.1.0
+deepImp: 1.1.0
 deepMOU: 0.1.1
 deepNN: '1.2'
 deepRstudio: 0.0.9
@@ -15730,6 +15734,7 @@ excursions: 2.5.11
 exdex: 1.2.4
 exdqlm: 1.0.0
 executablePackeR: 0.0.2
+exeval: 0.0.1
 exhaustiveRasch: 0.3.7
 exif: 0.1.1
 exifr: 0.3.2
@@ -15900,7 +15905,7 @@ factorEx: 1.1.0
 factorH: 0.6.0
 factorMerger: 0.4.0
 factorQR: 0.1-4
-factorana: 1.3.4
+factorana: 1.7.1
 factorcpt: 0.1.2
 factorial2x2: 0.2.0
 factormodel: '1.0'
@@ -16444,6 +16449,7 @@ flows: 1.1.1
 flps: 1.1.0
 flsa: 1.5.5
 flubase: '1.0'
+fluffy: 1.0.0
 fluidsynth: 1.0.2
 fluoSurv: 1.0.0
 fluorojip: 0.1.1
@@ -17829,7 +17835,7 @@ gmvarkit: 2.2.1
 gmvjoint: 0.4.5
 gmwm: 2.0.0
 gmwmx: 1.0.3
-gmwmx2: 0.0.4
+gmwmx2: 0.0.5
 gnFit: 0.2.0
 gnlm: 1.1.2
 gnm: 1.1-5
@@ -17867,7 +17873,7 @@ gogarch: 0.7-6
 golden: 0.0.1
 goldfish: 1.6.12
 goldi: 1.0.1
-goldilocks: 0.4.0
+goldilocks: 0.5.0
 golem: 0.5.1
 golfastr: 0.2.0
 golfr: 0.1.0
@@ -18342,6 +18348,7 @@ hcci: 1.2.0
 hce: 0.9.3
 hchinamap: 0.1.0
 hcidata: 0.1.0
+hcinfer: 0.1.0
 hclust1d: 0.1.1
 hclustTeach: 0.1.0
 hclusteasy: 0.1.0
@@ -22383,6 +22390,7 @@ multxpert: 0.1.1
 muma: '1.4'
 mumarinex: '2.0'
 mumm: 0.2.1
+mums2: 0.1.0
 munch: 0.0.2
 munfold: 0.3.5
 munsell: 0.5.1
@@ -23618,7 +23626,7 @@ outreg: 0.2.2
 outrigger: 1.1.0
 outsider: 0.1.1
 outsider.base: 0.1.4
-outstandR: 1.0.0
+outstandR: 2.0.0
 ouxy: '2.1'
 ovbsa: 2.0.0
 overdisp: 0.1.2
@@ -24432,6 +24440,7 @@ pkggraph: 0.3.1
 pkglite: 0.2.5
 pkgload: 1.5.2
 pkgmaker: 0.32.10
+pkgmatch: 0.5.4
 pkgndep: 2.0.0
 pkgnet: 0.6.0
 pkgnews: 0.0.2
@@ -25770,7 +25779,7 @@ rWCVP: 1.2.4
 rWMBAT: '2.0'
 rWind: 1.1.7
 rWishart: 0.1.2
-rYWAASB: '0.3'
+rYWAASB: '0.4'
 rYoutheria: 1.0.3
 ra4bayesmeta: 1.0-8
 rabhit: 0.2.5
@@ -27331,7 +27340,7 @@ rtables: 0.6.16
 rtables.officer: 0.1.2
 rtabulator: 0.1.2
 rtape: '2.2'
-rtdists: 0.11-5
+rtdists: 0.11-6
 rtematres: '0.2'
 rtemis: 1.0.0
 rtemis.a3: 0.5.3
@@ -27830,7 +27839,7 @@ scoutbaR: 0.2.5
 scov: 2.0.0
 scperturbR: 0.1.0
 scphaser: 1.0.0
-scpi: 4.0.0
+scpi: 4.0.1
 scplot: 0.7.0
 scpm: 2.0.0
 scpoisson: 0.0.2
@@ -30322,7 +30331,7 @@ tesouror: 0.2.3
 tessellation: 2.3.0
 tesselle: 1.6.0
 tesseract: 5.2.5
-test.assessr: 2.1.0
+test.assessr: 2.1.2
 test2norm: 0.3.0.1
 testCompareR: 1.1.1
 testComplexity: 0.1.1
