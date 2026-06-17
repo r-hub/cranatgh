@@ -811,7 +811,7 @@ BayesX: 0.3-3
 BayesXsrc: 3.0-7.1
 BayesfMRI: 0.11.0
 BayesianAnimalTracker: '1.2'
-BayesianDEB: 0.1.4
+BayesianDEB: 0.2.1
 BayesianDisaggregation: 0.1.2
 BayesianFROC: 1.0.0
 BayesianFactorZoo: 0.0.0.3
@@ -2295,7 +2295,7 @@ DoEstRare: '0.2'
 DoLa: 0.1.0
 DoTC: '0.2'
 DockerParallel: 1.0.4
-Docovt: '0.3'
+Docovt: '0.6'
 Dodge: 0.9-2
 Dogoftest: '0.3'
 Domean: '0.1'
@@ -5444,6 +5444,7 @@ Monte.Carlo.se: 0.1.1
 MonteCarlo: 1.0.6
 MonteCarloSEM: 2.0.0
 MoonFinder: 1.0.3
+MoonShineR: 1.1.0
 MorphSim: 1.2.0
 Morpho: '2.13'
 MorphoRegions: 0.1.0
@@ -5570,7 +5571,7 @@ NBShiny: 0.1.0
 NBShiny2: 0.1.0
 NBShiny3: 0.1.0
 NBtsVarSel: '1.0'
-NCA: 5.0.1
+NCA: 5.0.2
 NCBI2R: 1.4.7
 NCC: '1.0'
 NCSCopula: 1.0.1
@@ -8610,6 +8611,7 @@ SelectBoost.gamlss: 0.2.2
 SelectBoost.quantile: 0.3.1
 SelectionBias: 2.1.0
 SelfControlledCaseSeries: 6.1.5
+SelfControlledCohort: 2.0.0
 SelvarMix: 1.2.1
 SemNeT: 1.4.5
 SemNetCleaner: 1.3.7
@@ -12427,7 +12429,7 @@ cfbfastR: 2.0.0
 cfda: 0.12.1
 cfdecomp: 0.4.0
 cffdrs: 1.9.2
-cffr: 1.4.0
+cffr: 1.4.1
 cfid: 0.1.8
 cfma: '1.0'
 cfmortality: 0.3.0
@@ -13131,7 +13133,7 @@ comtrade: 0.1.0
 comtradr: 1.0.5
 con2aqi: 0.1.0
 con2lki: 0.1.0
-conMItion: 0.3.1
+conMItion: 0.4.0
 conStruct: 1.0.6
 conText: 3.0.1
 conTree: 0.3-1
@@ -17197,7 +17199,7 @@ genular: 1.0.1
 genvar: 0.0.2.0
 geo: 1.4-3
 geoAr: 1.2.2
-geoBayes: 0.7.6
+geoBayes: 0.7.7
 geoCount: '1.150120'
 geoDeltaAudit: 0.1.0
 geoFKF: 0.1.1
@@ -17553,6 +17555,7 @@ ggplotAssist: 0.1.3
 ggplotgui: 1.0.0
 ggplotify: 0.1.3
 ggplotlyExtra: 0.0.1
+ggplotplus: 0.5.5
 ggpmisc: 0.7.0
 ggpointdensity: 0.2.1
 ggpointless: 0.3.0
@@ -17712,6 +17715,7 @@ gjam: '2.7'
 gk: 0.6.0
 gkgraphR: 1.0.3
 gkmSVM: 0.83.0
+gkrreg: 0.4.0
 gkwdist: 1.1.4
 gkwreg: 2.1.14
 glacierSMBM: '0.1'
@@ -18461,6 +18465,7 @@ hellmer: 0.1.2
 hellno: 0.0.1
 helloJavaWorld: 0.0-9
 hellodatascience: 0.1.1
+hellokitty: '0.1'
 hellorust: 1.2.3
 helminthR: 1.0.10
 helpr: 0.1.2.2
@@ -20889,7 +20894,7 @@ mapLD: 1.0-1
 mapReasy: '1.0'
 mapReduce: 1.2.6
 mapSenegal: 0.1.1
-mapSpain: 1.1.0
+mapSpain: 1.2.0
 mapStats: '3.2'
 mapaccuracy: 0.1.2
 mapbayr: 0.10.2
@@ -21697,7 +21702,7 @@ mixdir: 0.3.0
 mixdist: 0.5-5
 mixedBayes: 0.2.5
 mixedCCA: 1.6.3
-mixedClust: 1.0.2
+mixedClust: 1.0.2.1
 mixedLSR: 0.1.0
 mixedMem: 1.1.2
 mixedQF: '0.3'
@@ -22887,6 +22892,7 @@ nlmixr2extra: 5.1.0
 nlmixr2lib: 0.3.2
 nlmixr2plot: 5.0.2
 nlmixr2rpt: 0.2.2
+nlmixr2save: 0.1.0
 nlmixr2targets: 0.1.0
 nlmm: 1.1.1
 nlmrt: 2016.3.2
@@ -23260,6 +23266,7 @@ octopucs: 0.1.1
 octopus: 0.4.2
 octopusR: 1.0.1
 od: 0.5.1
+oda: 0.1.2
 odbc: 1.7.0
 odbc.resourcer: 1.0.0
 odbr: 0.1.1
@@ -23351,7 +23358,7 @@ oncoPredict: '1.2'
 oncomodel: '1.0'
 oncomsm: 0.1.4
 oncrawlR: 0.2.0
-ondisc: 1.0.0
+ondisc: 1.3.5
 oneclust: 0.3.0
 onehot: 0.1.1
 oneinfl: 1.0.2
@@ -24477,6 +24484,7 @@ pkgndep: 2.0.0
 pkgnet: 0.6.0
 pkgnews: 0.0.2
 pkgsearch: 3.1.5
+pkgsite: 0.1.0
 pkgstats: 0.2.3
 pkgutils: 0.6.0
 pkgverse: 0.0.1
@@ -29336,6 +29344,7 @@ spp: 1.16.0
 spphpr: 1.1.5
 sppmix: 1.0.2.1
 spqdep: 0.1.3.6
+spqrp: 0.1.0
 spray: 1.1-1
 spread: 2019.8.5
 spreadr: 0.3.0
@@ -30318,6 +30327,7 @@ teamcolors: 0.0.4
 teamr: 0.0.1
 tectonicr: 0.4.8
 teda: 0.1.1
+teems: 0.1.1
 tehtuner: 0.3.0
 teigen: 2.2.2
 telefit: 1.0.3
