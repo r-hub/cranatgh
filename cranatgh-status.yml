@@ -4458,7 +4458,7 @@ LLIC: 3.0.0
 LLM: 1.1.0
 LLMAgentR: 0.3.2
 LLMR: 0.8.6
-LLMTranslate: 0.3.0
+LLMTranslate: 0.4.0
 LLMing: 1.2.1
 LLN: 1.1.1
 LLSR: 0.0.4
@@ -4470,7 +4470,7 @@ LMMELSM: 0.2.1
 LMMsolver: 1.0.13
 LMMstar: 1.1.0
 LMN: 1.1.3
-LMPdata: 0.2.0
+LMPdata: 0.2.1
 LMest: 3.2.8
 LMfilteR: 0.1.3.1
 LMoFit: 0.1.7
@@ -5580,6 +5580,7 @@ NCSampling: '1.0'
 NCmisc: 1.3.1
 NCutYX: 0.1.0
 NDP: 0.1.0
+NDPalette: 1.0.0
 NEArender: '1.5'
 NEONiso: 0.8.0
 NEff: '1.1'
@@ -7476,6 +7477,7 @@ RanglaPunjab: 2.3.4
 RankAggSIgFUR: 1.0.0
 RankAggreg: 0.6.6
 RankAggregator: 0.0.1
+RankGWASK: 0.1.1
 RankPCA: 0.1.0
 RankResponse: 4.0.0
 Rankcluster: 0.98.0
@@ -9910,6 +9912,7 @@ WikipediaR: '1.1'
 WilcoxCV: 1.0-2
 WinRatio: '1.0'
 WindCurves: '0.2'
+WinsCRT: 0.1.0
 Wmisc: 0.3.4
 WoodSimulatR: 0.6.2
 WoodburyMatrix: 0.0.4
@@ -10092,6 +10095,7 @@ accrued: 1.4.1
 accucor: 0.3.1
 accumulate: 1.0.0
 accuracy: '1.35'
+accuracylevel: 0.1.0
 acdcR: 1.0.0
 acdcquery: 1.2.3
 ace2fastq: 0.6.0
@@ -12726,6 +12730,7 @@ climate.plot: 0.1-2
 climateStability: 0.1.4
 climatehealth: 1.0.2
 climatekit: 0.2.0
+climatestatsr: 0.1.2
 climatol: 4.5-0
 climatrends: '1.2'
 climbeR: 0.0.1
@@ -13950,7 +13955,7 @@ datacommons: 0.1.0
 datacult: 0.1.0
 datacutr: 0.2.4
 datadictionary: 1.0.1
-datadiff: 0.4.4
+datadiff: 0.5.0
 datadigest: 1.0.2
 datadogr: 0.1.2
 datadr: 0.8.6.1
@@ -15202,6 +15207,7 @@ edmcr: 0.2.0
 edmdata: 1.3.0
 edmr: 0.6.3.1
 edpclient: 0.5.1
+edr4r: 0.1.0
 edrGraphicalTools: '2.2'
 edstan: 1.1.0
 edtdbg: 1.0.0
@@ -15649,7 +15655,7 @@ eunis.habitats: 0.1.0
 eurlex: 0.4.9
 euroMix: 1.1.1
 eurocordexr: 0.2.5
-eurodata: 1.7.0
+eurodata: 1.8.0
 euroleaguer: 0.2.0
 europeanaR: 0.1.0
 europepmc: 0.4.3
@@ -15787,7 +15793,7 @@ exploreR: '0.1'
 expm: 1.0-0
 expoRkit: 0.9.4
 expoTree: 1.0.1
-export: 0.3.2
+export: 0.3.3
 expose: 0.0.3
 expowo: '3.0'
 expp: 1.2.5
@@ -17143,6 +17149,7 @@ genderapi: 1.0.3
 gendercoder: 0.1.1
 genderizeR: 2.1.1
 genderstat: 0.1.5
+gendertext: 0.1.0
 gendist: '2.0'
 gene2pathway: 1.8.1
 geneARMA: '1.0'
@@ -17654,7 +17661,7 @@ ggvariant: 0.1.0
 ggvegan: 0.2.1
 ggvenn: 0.1.19
 ggversa: 0.1.1
-ggvfields: 1.0.0
+ggvfields: 1.0.1
 ggview: 0.2.2
 ggvis: 0.4.10
 ggvolc: 0.1.0
@@ -19882,7 +19889,7 @@ kin.cohort: '0.7'
 kindisperse: 0.10.2
 kindling: 0.3.0
 kinematics: 1.0.0
-kinesis: 0.3.1
+kinesis: 0.4.0
 kineticF: '1.0'
 kinfit: 1.1.14
 kinn: '0.2'
@@ -21246,6 +21253,7 @@ meddra.read: 0.0.1
 mederrRank: 0.1.0
 medfate: 5.0.0
 medfateland: 3.0.0
+medfit: 0.2.1
 medflex: 0.6-11
 mediacloudr: 0.1.0
 mediateP: 0.2.0
@@ -23012,6 +23020,7 @@ nomogramFormula: 1.2.0.0
 nomordR: '0.1'
 nonLinearDotPlot: 0.5.0
 nonParQuantileCausality: 0.1.0
+nonabsdid: 0.3.2
 nonbinROC: 1.0.1
 noncensus: '0.1'
 noncompliance: 0.2.2
@@ -25150,6 +25159,7 @@ proportion: 2.0.0
 proporz: 1.5.2
 propr: 4.2.6
 proptest: 0.1-5
+proratar: 0.1.0
 prospectr: 0.2.9
 protHMM: 0.1.1
 protViz: 0.7.9
@@ -27941,6 +27951,7 @@ sdam: 1.1.4
 sdamr: 0.2.0
 sdat: '1.1'
 sdbuildR: 2.0.0
+sdc.redistribute: 0.1.0
 sdcHierarchies: 0.23.1
 sdcLog: 0.5.1
 sdcMicro: 5.8.2
@@ -30030,6 +30041,7 @@ svglite: 2.2.2
 svgtools: 1.1.3
 svines: 0.2.7
 svmadmm: '0.3'
+svmf: '1.0'
 svmpath: '0.970'
 svmplus: 1.0.1
 svplots: 0.1.0
@@ -31518,6 +31530,7 @@ usmap: 1.0.0
 usmapdata: 1.0.0
 usportsR: 1.0.0
 ussherR: '1.10'
+ustats: 0.1.5
 ustfd: 0.4.4
 ustyc: 1.0.0
 utc: 0.1.5
