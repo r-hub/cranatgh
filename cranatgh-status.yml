@@ -2325,7 +2325,7 @@ DrivePlotR: 0.1.0
 DrugClust: '0.2'
 DrugExposureDiagnostics: 1.1.7
 DrugSim2DR: 0.1.2
-DrugUtilisation: 1.1.0
+DrugUtilisation: 1.2.0
 DstarM: 0.5.0
 DtD: 0.2.2
 Dtableone: 1.1.0
@@ -3290,7 +3290,7 @@ GOsummaries: '1.1'
 GOxploreR: 1.2.8
 GPAbin: 1.1.1
 GPArotateDF: 2025.7-1
-GPArotation: 2026.4-1
+GPArotation: 2026.6-1
 GPB: '1.2'
 GPBayes: 0.1.0-6
 GPC: '0.1'
@@ -4023,7 +4023,7 @@ IQMNMR: 1.0.7
 IRATER: 0.0.1
 IRCcheck: 1.0.0
 IRISMustangMetrics: 2.4.8
-IRISSeismic: 1.8.0
+IRISSeismic: 1.9.0
 IROmiss: 1.0.2
 IRR2FPR: 0.1.1
 IRSF: 1.0.3
@@ -4238,7 +4238,7 @@ JSconsole: 0.1.0
 JSmediation: 0.2.3
 JSparO: 1.5.0
 JUMP: 1.0.2
-JWileymisc: 1.4.4
+JWileymisc: 1.4.5
 JacobiEigen: 0.3-4
 Jacquard: 1.0.2
 JamendoR: 0.1.1
@@ -4642,7 +4642,7 @@ LipidMS: 3.1.3
 LipidMSdata: 1.0.0
 LipidomicsR: 0.3.6
 LipinskiFilters: 1.0.1
-LitFetchR: 0.2.2
+LitFetchR: 1.0.0
 Lmoments: 1.3-2
 LncFinder: 1.1.6
 LncMod: '1.1'
@@ -4709,7 +4709,7 @@ MAGEE: 1.4.5
 MAGMA.R: 1.0.4
 MAGNAMWAR: 2.0.4
 MAICtools: 0.1.1
-MAIHDA: 0.1.8
+MAIHDA: 0.1.11
 MAINT.Data: 2.8.0
 MAIVE: 0.2.4
 MAKL: 1.0.1
@@ -5485,7 +5485,7 @@ MultOrdRS: 0.1-3
 MultRegCMP: 0.1.0
 MultSurvTests: '0.2'
 MultiABEL: 1.1-6
-MultiATSM: 1.5.1-1
+MultiATSM: 1.5.1-2
 MultiBD: 1.0.2
 MultiCNVDetect: 0.1-1
 MultiCOAP: '1.1'
@@ -6627,7 +6627,7 @@ ProbeR: 2.0.1
 ProbitSpatial: '1.1'
 ProcData: 0.3.2
 ProcMod: 1.0.8
-ProduceR: '1.2'
+ProduceR: '1.3'
 ProfessR: 2.4-3
 ProfileGLMM: 1.1.0
 ProfileLadder: 0.2.2
@@ -7981,7 +7981,7 @@ Rphylopars: 0.3.10
 Rpipedrive: 0.1.1
 RplotterPkg: 0.1.5
 Rpoet: 1.1.0
-Rpolyhedra: 0.5.6
+Rpolyhedra: 0.6.0
 Rpoppler: 0.1-3
 RprobitB: 1.2.0
 Rprofet: 3.1.1
@@ -9654,7 +9654,7 @@ VARSEDIG: '2.1'
 VARSELECTEXPOSURE: 1.0.3
 VARcheck: 0.1.0
 VARcpDetectOnline: 0.2.0
-VARshrink: 0.3.3
+VARshrink: 0.5.0
 VARsignR: 0.1.3
 VARtests: 2.0.7
 VBJM: 0.1.0
@@ -14755,7 +14755,7 @@ dprep: 3.0.2
 dprint: 0.0.4
 dprop: 0.1.0
 dpseg: 0.1.1
-dqcheckr: 0.2.1
+dqcheckr: 0.2.2
 dqrng: 0.4.1
 dqshiny: 0.0.4
 dr: 3.0.11
@@ -15551,7 +15551,7 @@ erboost: '1.5'
 ercv: 1.0.1
 erer: '4.0'
 erfe: 0.0.1
-ergMargins: 1.6.1
+ergMargins: 1.6.2
 ergm: 4.12.0
 ergm.count: 4.1.3
 ergm.ego: 1.1.4
@@ -23196,7 +23196,7 @@ nvctr: 0.1.7
 nvis: 0.2.1
 nvmix: 0.1-2
 nws: 1.7.0.1
-nycOpenData: 0.2.1
+nycOpenData: 0.2.2
 nycflights13: 1.0.2
 nycflights23: 0.2.0
 nyctaxi: 0.0.1
@@ -25612,7 +25612,7 @@ qvalue: 1.26.0
 qvcalc: 1.0.4
 qvirus: 0.0.6
 qwalkr: 0.1.0
-qwraps2: 0.6.2
+qwraps2: 0.6.3
 r.blip: '1.1'
 r.jive: '2.4'
 r.proxy: 0.1.4
@@ -27099,7 +27099,7 @@ rollup: 0.1.0
 rollupTree: 0.4.1
 roloc: 0.1-2
 rolocISCCNBS: '0.1'
-rolog: 0.9.26
+rolog: 0.9.27
 rolr: 1.0.0
 rolypoly: 0.1.0
 romero.gateway: 0.4.4
@@ -30405,7 +30405,7 @@ tester: 0.3.0
 testex: 0.2.1
 testextra: 0.1.0.1
 testforDEP: 0.2.0
-testit: '1.0'
+testit: '1.1'
 testthat: 3.3.2
 testthatdocs: 1.0.23
 testthatmulti: 0.2.0
