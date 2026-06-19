@@ -2007,6 +2007,7 @@ DOYPAColors: 0.0.2
 DOvalidation: 1.1.0
 DPBBM: 0.2.5
 DPCD: 0.0.1
+DPComb: '1.0'
 DPI: '2026.2'
 DPM.GGM: '0.14'
 DPP: 0.1.2
@@ -9097,6 +9098,7 @@ SurvMI: 0.1.0
 SurvMetrics: 0.5.1
 SurvRank: '0.1'
 SurvRegCensCov: '1.8'
+SurvSPro: 0.1.0
 SurvSparse: '0.1'
 SurvTrunc: 0.2.0
 SurveyCC: 0.2.1
@@ -9438,6 +9440,7 @@ TidyMultiqc: 1.0.3
 TidyPanel: 0.1.2
 TileManager: 0.4.1
 TilePlot: 1.3.1
+Time.R: 1.0.0
 TimeDepFrail: 0.1.0
 TimeMachine: 1.2.1
 TimeProjection: 0.2.0
@@ -9580,7 +9583,7 @@ UEI: 0.1.0
 UGarima: 0.1.0
 UHM: 0.3.0
 UKB.COVID19: 0.1.6
-UKFE: 2.0.1
+UKFE: 2.0.2
 UKgrid: 0.1.3
 UMR: 1.1.0
 UNCLES: '2.0'
@@ -9673,6 +9676,7 @@ VBsparsePCA: 0.1.0
 VC2copula: 0.1.6
 VCA: 1.5.2
 VCBART: 1.2.5
+VCMoE: 0.1.0
 VDA: '1.3'
 VDAP: 2.0.0
 VDCutil: '1.15'
@@ -13908,6 +13912,7 @@ dang: 0.0.17
 dani: 0.1-1
 dann: 1.1.0
 danstat: 0.2.0
+daoh: 0.1.0
 dapper: 1.1.0
 dapr: 0.0.3
 daqapo: 0.3.2
@@ -14332,6 +14337,7 @@ devEMF: '4.6'
 devFunc: '0.1'
 devRate: 0.2.6
 devianLM: 1.1.0
+devkit: 1.0.0
 devoid: 0.1.2
 devtoolbox: 0.2.0
 devtools: 2.5.2
@@ -15152,7 +15158,7 @@ ecos: 0.1.7
 ecoseries: 0.1.5
 ecosim: 1.3-5
 ecospace: 1.4.2
-ecospat: 4.1.3
+ecospat: 4.1.4
 ecostate: 0.3.0
 ecostats: 1.2.2
 ecostatscale: '1.1'
@@ -19149,6 +19155,7 @@ imp4p: '1.2'
 impARI: 0.0.3
 impactflu: 0.1.0
 impactr: 0.4.2
+impala: 0.1.0
 impectR: 2.5.5
 impermanentlosscalc: 0.1.0
 impimp: 0.3.1
@@ -19969,6 +19976,7 @@ koRpus: 0.13-9
 koRpus.lang.en: 0.1-4
 kobe: 1.3.2
 kofdata: 0.2.1
+kofn: 0.4.0
 kofnGA: '1.3'
 kohonen: 3.0.13
 kokudosuuchi: 1.0.0
@@ -21900,7 +21908,7 @@ mmpf: 0.0.5
 mmpp: '0.6'
 mmppr: '0.1'
 mmr: 0.1.0
-mmrm: 0.3.17
+mmrm: 0.3.18
 mmsample: '0.1'
 mmstat4: 0.2.1
 mmtdiff: 1.0.0
@@ -22846,6 +22854,7 @@ nhlscrapr: 1.8.1
 nhm: 0.1.2
 nhppp: 1.0.5
 nhs.predict: 1.4.0
+nhscancerwaits: 1.0.2
 nhsnumber: 0.1.2
 nhstplot: 1.4.2
 niaidMI: 1.1.0
@@ -22876,6 +22885,7 @@ nimbleSMC: 0.11.1
 nimblewomble: 0.1.0
 nipals: '1.0'
 nipnTK: 0.2.2
+nirs4alldatasets: 0.2.0
 nisrarr: 0.1.1
 nitrcbot: '1.2'
 nivm: '0.6'
@@ -24139,7 +24149,7 @@ pedometrics: 0.12.1
 pedprobr: 1.0.1
 pedquant: 0.2.6
 pedsuite: 1.4.0
-pedtools: 2.10.0
+pedtools: 2.11.0
 pedtricks: 0.5.0
 peermodels: 0.10.3
 pegas: '1.4'
@@ -24700,6 +24710,7 @@ poibin: '1.6'
 poilog: 0.4.2.1
 pointRes: 2.0.2
 pointblank: 0.12.3
+pointcoral: 0.1.0
 pointdensityP: 0.3.5
 pointdexter: 0.1.1
 pointr: 0.2.0
@@ -24934,7 +24945,7 @@ pqantimalarials: '0.2'
 pql: 0.1.0
 pqrBayes: 1.2.2
 pqrfe: '1.3'
-prLogistic: '1.2'
+prLogistic: 2.0.2
 prWarp: 1.0.1
 praatpicture: 1.8.0
 prabclus: 2.3-5
@@ -25517,7 +25528,7 @@ qtlDesign: '0.953'
 qtlbim: 2.0.7
 qtlbook: '0.20'
 qtlc: '1.0'
-qtlcharts: '0.20'
+qtlcharts: '0.22'
 qtlhot: 1.2.10
 qtlmt: 0.1-6
 qtlnet: 1.5.4
@@ -26585,6 +26596,7 @@ resourcer: 1.5.1
 respR: 2.3.4
 resper: 0.3.2
 respirometry: 2.0.2
+respondeR: 0.1.0
 responsePatterns: 0.1.1
 resquin: 0.1.1
 restatapi: 0.25.0
@@ -27155,6 +27167,7 @@ rotasym: 1.2.0
 rotationForest: 0.1.3
 rotations: 1.6.6
 rotatogram: 0.1.3
+rotio: 0.1.0
 rotl: 3.1.1
 rotor: 0.3.7
 rotulador: 1.0.0
@@ -27291,7 +27304,7 @@ rrpack: 0.1-14
 rrr: 1.0.0
 rrscale: '1.0'
 rrstools: 1.1.0
-rrtable: 0.3.0
+rrtable: 0.3.4
 rrules: 0.1-0
 rrum: 0.2.2
 rrv: 0.4.1
@@ -28626,6 +28639,7 @@ simpleroptions: 0.2.0
 simpletex: 1.0.5
 simplevis: 7.1.0
 simplexdesign: 0.1.0
+simplexgof: 0.1.0
 simplexreg: '1.3'
 simplextree: 1.0.1
 simplifyNet: 0.0.1
@@ -30401,7 +30415,7 @@ tern.gee: 0.1.5
 tern.mmrm: 0.3.3
 tern.rbmi: 0.1.6
 ternvis: '1.3'
-terra: 1.9-27
+terra: 1.9-34
 terrainmeshr: 1.0.1
 terrainr: 0.7.6
 terralink: 1.8.0
