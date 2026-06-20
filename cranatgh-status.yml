@@ -1366,6 +1366,7 @@ CalibratR: 0.1.2
 CalibrateSSB: 1.4.0
 CalibrationCurves: 3.1.0
 CallEshotgun: 0.2.0
+CamelRatiosIndex: 1.0.0
 CamelUp: 2.0.3
 CancerEvolutionVisualization: 2.0.1
 CancerGram: 1.0.0
@@ -2081,7 +2082,7 @@ DTRlearn2: '1.1'
 DTRreg: '2.4'
 DTS: 0.1.1
 DTSEA: 0.0.3
-DTSR: 0.2.0
+DTSR: 0.2.2
 DTSg: 2.1.0
 DTWBI: '1.1'
 DTWUMI: '1.0'
@@ -4942,7 +4943,7 @@ MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
 MLDS: 0.5.1
 MLDataR: 1.0.1
-MLE: '1.7'
+MLE: '1.8'
 MLEP: 0.0-3
 MLEce: 2.1.0
 MLEcens: 0.1-7.1
@@ -9477,7 +9478,7 @@ ToxicR: 22.12.1.0.7
 ToxicoGx: 0.1.1
 Tplyr: 1.3.2
 TraMineR: 2.2-13
-TraMineRextras: 0.6.8
+TraMineRextras: 0.6.9
 TraceAssist: 0.1.0
 TrackReconstruction: '1.3'
 TrackTrap: 1.0.0
@@ -13500,6 +13501,7 @@ coxphw: 4.0.3
 coxrobust: 1.0.2
 coxrt: 1.0.3
 coxsei: '0.4'
+coxstream: 0.1.0
 cp4p: 0.3.6
 cpa: 1.0.1
 cpam: 0.2.1
@@ -15522,7 +15524,7 @@ epiworldR: 0.14.0.0
 epiworldRShiny: 0.2.3
 epiworldRcalibrate: 0.1.4
 epizootic: 2.0.0
-eplusr: 0.16.3
+eplusr: 0.17.0
 eply: 0.1.2
 epm: 1.1.6
 epmfd: 1.1.1
@@ -16147,6 +16149,7 @@ fdANOVA: 0.1.2
 fdWasserstein: '1.0'
 fda: 6.3.0
 fda.usc: 2.2.0
+fda.vi: 1.0.0
 fdaACF: 1.0.0
 fdaMixed: 0.6.1
 fdaMocca: 0.1-2
@@ -17519,6 +17522,7 @@ ggiraph: 0.9.6
 ggiraphExtra: 0.3.0
 ggisotonic: 0.1.2
 ggjoy: 0.4.1
+ggkodom: 1.0.3
 gglasso: '1.6'
 gglgbtq: 0.2.0
 gglinedensity: 0.2.0
@@ -17758,6 +17762,7 @@ gld: 2.6.8
 gldist: '2160.2'
 gldrm: '1.6'
 gleam: 0.8.0
+gleifr: 0.1.0
 glinternet: 1.0.12
 glinvci: 1.2.4
 glioblastomaEHRsData: 1.1.0
@@ -22308,6 +22313,7 @@ mudfold: 1.1.21
 mueRelativeRisk: 0.1.1
 mugnet: 1.02.0
 muhaz: 1.2.6.4
+muiDataGrid: 0.1.2
 muiMaterial: 0.2.0
 muiTreeView: 0.1.1
 muir: 0.1.0
@@ -22794,6 +22800,7 @@ neuRosim: 0.2-14
 neural: 1.4.2.2
 neuralGAM: 2.0.1
 neuralnet: 1.44.2
+neuralnetwork: 0.1.0
 neuroSCC: 1.0.2
 neuroUp: 0.3.1
 neurobase: 1.34.0
@@ -25896,7 +25903,7 @@ ragg: 1.5.2
 ragnar: 0.3.0
 rags2ridges: 2.2.9
 ragt2ridges: 0.3.4
-ragtop: 1.2.1
+ragtop: 1.3.1
 rai: 1.0.0
 railtrails: 0.1.1
 rainbow: '3.8'
@@ -26558,6 +26565,7 @@ reprex: 2.1.1
 reproducer: 0.6.0
 reproducible: 3.1.1
 reproducibleRchunks: 1.2.0
+reproducr: 0.2.0
 reproj: 0.7.0
 reproresearchR: 0.1.1
 repsd: 1.0.1
@@ -27912,6 +27920,7 @@ scmamp: 0.2.55
 scope: '2.2'
 scoper: 1.5.0
 scopr: 0.3.5
+scopusflow: 0.1.0
 score: 1.0.2
 scorecard: 0.4.6
 scorecardModelUtils: 0.0.1.0
@@ -29068,6 +29077,7 @@ spa: '2.0'
 spaAlign: 0.0.6
 spaMM: 4.6.65
 spaa: 0.2.5
+spacc: 0.8.3
 space: 0.1-1.1
 spaceExt: '1.0'
 spaceNet: '1.2'
@@ -29093,7 +29103,7 @@ spanish: 0.4.2
 spanishoddata: 0.2.6
 spanner: 1.0.4
 spanr: '1.0'
-spant: 4.1.0
+spant: 4.2.0
 spantest: 1.1-3
 sparc: 0.9.0
 sparcl: 1.0.4
@@ -29963,6 +29973,7 @@ survRM2perm: 0.1.0
 survRatio: '0.1'
 survSAKK: 1.3.3
 survSNP: '0.26'
+survSampleSize: 0.1.1
 survSens: 1.1.0
 survSpearman: 1.0.1
 survalis: 0.7.1
