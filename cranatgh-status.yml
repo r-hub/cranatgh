@@ -1544,6 +1544,7 @@ Cluster.OBeu: 1.2.3
 ClusterBootstrap: 2.0.0
 ClusterGVis: 0.1.4
 ClusterR: 1.3.6
+ClusterRandSSAdj: 1.0.0
 ClusterRankTest: '1.0'
 ClusterStability: 1.0.4
 ClusterVAR: 0.0.8
@@ -2141,7 +2142,7 @@ DataSpaceR: 0.7.7
 DataSum: 0.1.1
 DataVisualizations: 1.4.0
 DataViz: 0.2.8
-DatabaseConnector: 7.1.0
+DatabaseConnector: 7.2.0
 DatabaseConnectorJars: 1.1.0
 DatabionicSwarm: 2.0.0
 Datasmith: 1.0-1
@@ -2957,7 +2958,7 @@ FateID: 0.2.2
 FaultTree: 1.0.1
 FcircSEC: 1.0.0
 FeaLect: '1.20'
-FeatureExtraction: 3.13.0
+FeatureExtraction: 3.14.0
 FeatureHashing: 0.9.2
 FeatureImpCluster: 0.1.5
 FeatureTerminatoR: 1.0.0
@@ -8381,6 +8382,7 @@ SNPRelate: 0.9.19
 SNPannotator: 1.4.7
 SNPassoc: 2.3.1
 SNPfiltR: 1.0.7
+SNPkit: 0.1.0
 SNPknock: 0.8.2
 SNPmaxsel: 1.0-3
 SNPtools: '1.1'
@@ -10992,7 +10994,7 @@ axisandallies: 0.1.1
 aylmer: 1.0-11
 aziztest: 0.2.1
 azlogr: 0.0.6
-azr: 0.3.4
+azr: 0.3.5
 azuremapsr: 0.0.2
 azuremlsdk: 1.10.0
 b32: 0.1.0
@@ -13375,7 +13377,7 @@ coreheat: 0.3.2
 corehunter: 3.2.3
 corella: 0.1.4
 corels: 0.0.5
-coresynth: 0.2.0
+coresynth: 0.2.2
 corkscrew: '1.1'
 corlink: 1.0.0
 corncob: 0.4.2
@@ -14317,6 +14319,7 @@ deprivateR: 0.2.0
 deps: 0.4.1
 depth: 2.1-1.1
 depth.plot: '0.1'
+depthR: 0.1.8
 depthTools: '0.7'
 dequer: 2.0-2
 derivmkts: 0.2.5.1
@@ -14435,7 +14438,7 @@ dials: 1.4.4
 dialvalidator: 0.1.0
 diamonds: 1.0-5
 diaplt: 1.4.0
-diario: 0.1.1
+diario: 0.1.2
 diathor: 0.1.5
 dibble: 0.3.2
 dice: '1.2'
@@ -14472,6 +14475,7 @@ diffcp: 0.1.1
 diffdepprop: 0.1-9
 diffdf: 1.1.2
 diffdfs: 0.9.0
+diffdriver: 0.1.7
 diffeR: 0.0-8
 diffeRenTES: 0.3.2
 diffee: 1.1.0
@@ -14966,6 +14970,7 @@ dwapi: 0.1.3.1
 dwctaxon: 2.0.4
 dwdradar: 0.2.13
 dwlm: 0.1.0
+dwmmlRidge: 0.1.1
 dwp: '1.2'
 dySEM: 1.4.1
 dyad: '1.0'
@@ -15286,6 +15291,7 @@ efreadr: 0.2.2
 efts: 0.9-0
 ega: 2.0.0
 egcm: 1.0.13
+egfr: 1.1.1
 egg: 0.4.5
 eggCounts: 2.5-1
 eglhmm: 0.1-3
@@ -15970,7 +15976,7 @@ facmodTS: '1.0'
 factReg: 1.0.0
 factas: '2.3'
 factiv: 0.1.0
-factoextra: 2.0.0
+factoextra: 2.1.0
 factoptd: 1.0.3
 factor.switching: '1.4'
 factor256: 0.1.0
@@ -16424,7 +16430,7 @@ fixedincome: 0.0.5
 fixedpointproperty: '1.0'
 fixerapi: 0.1.6
 fixes: 0.11.2
-fixest: 0.14.1
+fixest: 0.14.2
 fixr: 0.2.0
 fixtuRes: 0.1.3
 fizzbuzzR: 0.1.1
@@ -17278,7 +17284,7 @@ geoaxe: 0.1.0
 geobounds: 0.1.2
 geobr: 2.0.1
 geocacheR: 0.1.0
-geocausal: 0.4.1
+geocausal: 0.4.2
 geocmeans: 0.3.4
 geocodeHERE: 0.1.3
 geocodebr: 0.6.3
@@ -17478,7 +17484,7 @@ ggbreak: 0.1.7
 ggbrick: 0.3.2
 ggbuildr: 0.1.0
 ggbump: 0.1.0
-ggchangepoint: 0.2.0
+ggchangepoint: 0.3.0
 ggcharts: 0.2.1
 ggchord: 0.2.0
 ggcircular: 0.1.0
@@ -19131,7 +19137,7 @@ iglm: 1.2.4
 iglu: 4.2.2
 igoR: 1.0.3
 igr: 1.0.1
-igraph: 2.3.2
+igraph: 2.3.3
 igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
@@ -19738,7 +19744,7 @@ jmec: 1.0-4
 jmetrik: '1.1'
 jmotif: 1.2.1
 jmuOutlier: '2.2'
-jmv: 2.7.7
+jmv: 2.8.0
 jmvReadWrite: 0.4.13
 jmvconnect: 2.5.7
 jmvcore: 2.7.35
@@ -20143,7 +20149,7 @@ lancet.iraqmortality: 0.2-0
 lancor: 0.1.3
 landest: '1.2'
 landform: '0.2'
-landmaRk: 0.1.1
+landmaRk: 0.1.2
 landmap: 0.0.13
 landmix: '1.0'
 landmulti: 0.5.0
@@ -20526,7 +20532,7 @@ llamaR: 0.2.4
 llbayesireg: 1.0.0
 lle: '1.1'
 lllcrc: '1.2'
-llm.api: 0.1.4
+llm.api: 0.1.8
 llmclean: 0.1.1
 llmcoder: 1.2.0
 llmflow: 3.0.2
@@ -22200,6 +22206,7 @@ mp: 0.4.1
 mpMap: '1.14'
 mpMap2: 1.0.4
 mpa: 0.7.3
+mpaR: 0.4.0
 mpactr: 0.3.3
 mpae: 0.1.2
 mpath: 0.4-2.26
@@ -24180,7 +24187,7 @@ pdfcombiner: 1.9.8
 pdfetch: 0.3.3
 pdfminer: '1.0'
 pdfsearch: 0.4.3
-pdfsigner: 0.2.2
+pdfsigner: 0.2.4
 pdftables: '0.1'
 pdftools: 3.9.0
 pdi: 0.4.2
@@ -27952,6 +27959,7 @@ scellpam: 1.4.7
 scenario: '1.0'
 scenes: 0.1.0
 scenfire: 0.1.0
+sceua: 0.1.0
 scf: 1.0.10
 scfetch: 0.5.0
 scgwr: 0.1.2-21
@@ -28843,6 +28851,7 @@ skmeans: 0.2-20
 sknifedatar: 0.1.2
 skpr: 1.9.2
 skylight: '1.4'
+skymodelr: 0.3.1
 skynet: 1.4.3
 skyscapeR: 1.0.0
 skytrackr: '2.0'
@@ -30946,7 +30955,7 @@ tm.plugin.mail: 0.3-1
 tm.plugin.webmining: '1.3'
 tm1r: 1.1.8
 tma: 0.3.1
-tmap: '4.4'
+tmap: 4.4-1
 tmap.cartogram: 0.2-1
 tmap.glyphs: '0.2'
 tmap.mapgl: '0.3'
