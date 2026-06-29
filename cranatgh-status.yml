@@ -779,7 +779,7 @@ BayesPieceHazSelect: 1.1.0
 BayesPiecewiseICAR: 0.2.1
 BayesPocket: 0.1.0
 BayesPostEst: 0.4.0
-BayesPower: 1.0.4
+BayesPower: 1.0.5
 BayesProject: '1.0'
 BayesQTLBIC: 1.0-2
 BayesQVGEL: 0.1.1
@@ -1967,7 +1967,7 @@ DIZutils: 0.1.3
 DIconvex: 1.0.0
 DImodels: 1.3.3
 DImodelsMulti: 1.2.1
-DImodelsVis: 1.0.4
+DImodelsVis: 1.0.5
 DIscBIO: 1.2.3
 DJL: '3.9'
 DLASSO: 2.0.2
@@ -3045,7 +3045,7 @@ ForecastFramework: 0.10.3
 ForecastTB: 1.0.1
 ForecastingEnsembles: 0.5.1
 ForestDisc: 0.1.0
-ForestElementsR: 2.2.0
+ForestElementsR: 3.0.0
 ForestFit: 2.4.3
 ForestGapR: 0.1.7
 ForestTools: 1.0.3
@@ -6678,6 +6678,7 @@ PsumtSim: '0.4'
 PsyControl: 1.0.0.0
 PsyToolkit: 1.1.4
 PsychWordVec: '2025.11'
+PsychoMatic: 0.3.0
 PtProcess: 3.3-17
 PubBias: '1.0'
 PubChemR: 3.0.0
@@ -6841,6 +6842,7 @@ R2STATS: 0.68-39
 R2SWF: 0.9-9
 R2WinBUGS: 2.1-24
 R2admb: 0.7.16.3
+R2camtrapdp: 2.0.0
 R2jags: 0.8-9
 R2sample: 4.1.0
 R2ucare: 1.0.3
@@ -8967,7 +8969,7 @@ SportsAnalytics: '0.2'
 SportsTour: 0.1.0
 SpotSampling: 0.1.0
 Spower: 0.6.4
-SppTrend: '0.4'
+SppTrend: '0.5'
 SpuriousMemory: 1.0.0
 SqlRender: 1.19.5
 SqueakR: 1.3.0
@@ -10930,7 +10932,7 @@ autoimport: 0.1.1
 autokeras: 1.0.12
 automagic: 0.5.1
 automap: 1.1-20
-automatedRecLin: 1.1.1
+automatedRecLin: 1.1.2
 automatedtests: 0.1.2
 automerge: 0.4.0
 autometric: 0.1.2
@@ -12193,7 +12195,7 @@ captioner: 2.2.3
 captr: 0.3.0
 capushe: 1.1.3
 capwire: 1.1.4
-capybara: 2.0.0
+capybara: 2.1.0
 car: 3.1-5
 carData: 3.0-6
 carSurv: 1.0.0
@@ -12553,7 +12555,7 @@ checkhelper: 1.0.0
 checkmate: 2.3.4
 checkpoint: 1.0.2
 checkr: 0.5.0
-checkstring: 0.1.0
+checkstring: 0.2.0
 checkthat: 0.1.0
 cheddar: 0.1-639
 cheem: 0.4.2
@@ -12806,7 +12808,7 @@ cliqueMS: 0.3.1
 clisymbols: 1.2.0
 clitable: 0.1.0
 clmplus: 1.0.1
-clmstan: 0.1.1
+clmstan: 0.1.2
 clock: 0.7.4
 clockSim: 0.1.2
 clockify: 0.1.7
@@ -14942,7 +14944,7 @@ dualScale: 1.0.0
 dualtrees: 0.1.5
 duawranglr: 0.6.7
 dub: 0.2.0
-duckdb: 1.5.4.1
+duckdb: 1.5.4.2
 duckdbfs: 0.1.2
 duckduckr: 1.0.0
 duckh3: 0.1.0
@@ -15211,6 +15213,7 @@ ecoval: 1.2.10
 ecp: 3.1.6
 ecpc: 3.1.1
 ecpdist: 0.2.1
+ecpromethee: 0.1.0
 ecr: 2.1.1
 ectotemp: 0.2.0
 ed50: 0.1.1
@@ -16297,6 +16300,7 @@ fhircrackr: 2.4.0
 fiber: 0.1.2
 fiberLD: 0.1-8
 fibos: 2.0.1
+fibr: 0.1.1
 fic: 1.0.1
 fidap: 0.0.3
 fidelius: 0.0.2
@@ -18022,6 +18026,7 @@ gower: 1.0.2
 goweragreement: 1.0-1
 goxygen: 1.4.5
 gp: '1.1'
+gp3tools: 1.0.1
 gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.4.0
@@ -18902,7 +18907,7 @@ hypergate: 0.8.5
 hypergea: 1.3.6
 hypergeo: 1.2-14
 hypergeo2: 0.2.0
-hypergraph.sizing: 1.0.0
+hypergraph.sizing: 1.0.1
 hyperoverlap: 1.1.4
 hypersampleplan: 0.1.1
 hypertext: 1.3.0
@@ -19333,7 +19338,7 @@ ingredients: 2.3.0
 ini: 0.3.1
 injectoR: 0.2.4
 injurytools: 2.0.1
-inkaR: 0.6.2
+inkaR: 0.6.6
 inlabru: 2.14.1
 inlamemi: 1.1.0
 inlcolor: 1.0.6
@@ -20908,7 +20913,7 @@ madsim: 1.2.1
 maestro: 1.1.1
 mafR: 1.1.14
 mafs: 0.0.3
-magclass: 7.4.3
+magclass: 7.5.0
 magentabook: 0.1.0
 magi: 1.2.5
 magic: 1.6-1
@@ -21352,7 +21357,7 @@ mefa: 3.2-10
 mefa4: 0.3-12
 mefdind: '0.1'
 megaptera: 1.0-0
-megatrees: 1.0.0
+megatrees: 1.0.1
 meifly: 0.3.1
 mekko: 0.1.0
 melidosData: 1.0.6
@@ -22598,7 +22603,7 @@ mvnpermute: 1.0.1
 mvord: 1.2.6
 mvout: '1.2'
 mvoutlier: 2.1.4
-mvp: 1.0-18
+mvp: 1.1-1
 mvpart: 1.6-2
 mvpd: 0.0.5
 mvprpb: 1.0.4
@@ -23347,7 +23352,7 @@ observationalBlocks: 1.0.0
 observer: 0.1.2
 oc: 1.2.1
 occ: '1.2'
-occCite: 0.6.1
+occCite: 0.6.2
 occTest: 0.1.1
 occUncertain: 0.1.0
 occumb: 1.3.0
@@ -28136,7 +28141,7 @@ secuTrialR: 1.3.3
 secure: '0.6'
 securitytxt: 0.1.1
 sedproxy: 0.7.6
-see: 0.14.0
+see: 0.14.1
 seeclickfixr: 1.1.0
 seecolor: 0.2.0
 seedCCA: '3.1'
@@ -28546,7 +28551,7 @@ shinylight: '1.2'
 shinylive: 0.5.0
 shinyloadtest: 1.2.1
 shinylogs: 0.2.1
-shinymanager: 1.0.410
+shinymanager: 1.1.0
 shinymaterial: 1.2.0
 shinymeta: 0.2.2
 shinymgr: 1.1.0
@@ -28564,7 +28569,7 @@ shinyr: 0.4.2
 shinyrecap: 0.1.0
 shinyrecipes: 0.1.0
 shinyreforms: 0.0.1
-shinyreprex: 0.1.0
+shinyreprex: 0.2.0
 shinyscholar: 0.4.5
 shinyscreenshot: 0.2.1
 shinyseo: 0.1.1
@@ -31101,7 +31106,7 @@ tractor.base: 3.5.0
 trade: 0.8.3
 tradeCosts: 0.3-1
 tradeoffaucdim: 0.2.0
-tradepolicy: 0.7.0
+tradepolicy: 0.8.0
 tradestatistics: 6.0.0
 trafficCAR: 0.1.1
 trafo: 1.0.1
@@ -31825,7 +31830,7 @@ vectorbitops: 1.1.2
 vectorialcalculus: 1.0.5
 vectorsurvR: 1.6.3
 vectorwavelet: 0.1.0
-vectra: 0.9.1
+vectra: 0.9.7
 vecvec: 1.2.0
 veesa: 0.1.7
 vegIndexCalc: 0.1.0
