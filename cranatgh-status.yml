@@ -510,7 +510,7 @@ BE: 0.2.4
 BEACH: 1.3.2
 BEAMR: 1.1.0
 BEANSP: '1.0'
-BED: 1.6.2
+BED: 1.6.3
 BEDASSLE: 1.6.1
 BEDMatrix: 2.0.4
 BEKKs: 1.4.7
@@ -559,7 +559,7 @@ BINCOR: 0.2.1
 BINtools: 0.2.0
 BIOEFIC: 0.1.1
 BIOM.utils: '0.9'
-BIOMASS: 2.2.7
+BIOMASS: 2.2.7-1
 BIOdry: 0.9.1
 BIPOD: 0.2.1
 BIRDS: 0.2.0
@@ -6496,7 +6496,7 @@ PhysicalActivity: 0.2-4
 PhysioIndexR: 0.1.0
 PhytoIn: 0.2.0
 PhytosanitaryCalculator: 1.1.3
-PiC: '3.3'
+PiC: 3.3.1
 PieGlyph: 1.1.0
 PieceExpIntensity: 1.0.4
 Pijavski: 1.0.5
@@ -9234,7 +9234,7 @@ TIMP: 1.13.6
 TITAN2: 2.4.4
 TITEgBOIN: 0.4.0
 TInPosition: 0.13.6.1
-TKCat: 1.2.1
+TKCat: 1.2.2
 TKF: 0.0.8
 TLBC: '1.0'
 TLCAR: 0.1.1
@@ -10693,7 +10693,7 @@ arcpullr: 0.3.5
 arcpy: 0.4-0
 arctools: 1.1.6
 ardl.nardl: 1.3.0
-ardlverse: 1.1.3
+ardlverse: 2.0.0
 ards: 0.1.3
 area: 0.2.0
 areaOfEffect: 0.2.4
@@ -12848,7 +12848,7 @@ clustAnalytics: 0.5.5
 clustDRM: 0.1-0
 clustEff: 0.3.1
 clustMD: 1.2.2
-clustMixType: 0.5-1
+clustMixType: 0.5-2
 clustNet: 1.2.0
 clustRcompaR: 0.2.0
 clustTMB: 0.1.0
@@ -14806,7 +14806,7 @@ dprint: 0.0.4
 dprop: 0.1.0
 dpseg: 0.1.1
 dqcheckr: 0.2.2
-dqcheckrGUI: 0.1.0
+dqcheckrGUI: 0.2.0
 dqrng: 0.4.1
 dqshiny: 0.0.4
 dr: 3.0.11
@@ -19122,7 +19122,7 @@ ifaTools: '0.23'
 ifctools: 0.3.6
 ife: 0.2.3
 ifit: 1.0.0
-ifo: 0.2.3
+ifo: 0.2.4
 ifpd: 0.1.0
 ifs: 0.1.10
 ifultools: 2.0-26
@@ -19581,7 +19581,7 @@ isobxr: 2.0.0
 isocalcR: 0.1.1
 isocat: 0.3.0
 isocir: '2.1'
-isocountry: 0.6.0
+isocountry: 0.6.1
 isocubes: 1.0.0
 isodistrreg: 0.1.0
 isogeochem: 1.1.1
@@ -20977,7 +20977,7 @@ manydist: 0.5.0
 manymodelr: 0.4.0
 manymome: 0.3.6
 manymome.table: 0.4.0
-manynet: 2.1.3
+manynet: 2.1.4
 manystates: 1.0.3
 maotai: 0.3.0
 mapDK: 0.3.0
@@ -21836,7 +21836,7 @@ mixtur: 1.2.3
 mixture: 2.2.0
 mixvlmc: 0.2.2
 mize: 0.2.5
-mizer: 3.0.0
+mizer: 3.1.0
 mkde: '0.4'
 mkin: 1.2.10
 mknapsack: 0.1.0
@@ -24060,7 +24060,7 @@ path.chain: 1.0.0
 pathClass: 0.9.4
 pathdb: 0.1.0
 pathdiagram: 0.1.9.1
-pathfindR: 3.0.0
+pathfindR: 3.0.1
 pathfindR.data: 2.1.0
 pathlibr: 0.1.0
 pathling: 9.7.1
@@ -29137,7 +29137,7 @@ spBFA: 1.5.0
 spBPS: 2.0-1
 spBayes: 0.4-9
 spBayesSurv: 1.1.9
-spCF: 0.1.1
+spCF: 0.1.2
 spCP: 1.4.0
 spDBL: 1.0.2
 spData: 2.3.5
@@ -30456,15 +30456,15 @@ tdthap: '1.4'
 tea: '1.1'
 teachingApps: 1.0.8
 teal: 1.1.0
-teal.code: 0.7.1
-teal.data: 0.8.0
-teal.logger: 0.4.1
+teal.code: 0.7.2
+teal.data: 0.8.1
+teal.logger: 0.4.2
 teal.modules.clinical: 0.12.0
 teal.modules.general: 0.6.0
-teal.picks: 0.1.0
-teal.reporter: 0.6.1
+teal.picks: 0.2.0
+teal.reporter: 0.6.2
 teal.slice: 0.8.0
-teal.transform: 0.7.1
+teal.transform: 0.7.2
 teal.widgets: 0.6.0
 tealeaves: 1.0.7
 teamcolors: 0.0.4
@@ -31518,7 +31518,7 @@ ukpolice: 0.2.2
 ulex: 0.1.1
 ulid: 0.4.0
 ulrb: 0.1.8
-ultrapolaRplot: 0.2.1
+ultrapolaRplot: 0.2.2
 umap: 0.2.10.0
 umbridge: '1.0'
 ume: 1.6.1
@@ -31825,7 +31825,7 @@ vectorbitops: 1.1.2
 vectorialcalculus: 1.0.5
 vectorsurvR: 1.6.3
 vectorwavelet: 0.1.0
-vectra: 0.7.1
+vectra: 0.9.1
 vecvec: 1.2.0
 veesa: 0.1.7
 vegIndexCalc: 0.1.0
@@ -32352,7 +32352,7 @@ workflows: 1.3.0
 workflowsets: 1.1.1
 workloopR: 1.1.4
 workspace: 0.1.6
-worldbank: 0.9.0
+worldbank: 0.9.1
 worldfootballR: 0.6.2
 worldmet: 1.1.0
 worldriskpollr: 0.7.4
