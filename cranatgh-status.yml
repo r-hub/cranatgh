@@ -922,6 +922,7 @@ BioRssay: 1.1.0
 BioStatR: 4.1.1
 BioTIMEr: 0.3.2
 BioThermR: 0.1.1
+BioTooltipR: 0.1.0
 BioTrajectory: 1.1.0
 BioUtils: 0.1.3
 BioVenn: 1.1.3
@@ -1947,7 +1948,7 @@ DICOM: '0.13'
 DICOMread: 0.0.0.3
 DIDHAD: 2.0.0
 DIDmultiplegt: 2.1.0
-DIDmultiplegtDYN: 2.3.4
+DIDmultiplegtDYN: 2.4.0
 DIETCOST: 1.0.0.0
 DIFM: 1.0.1
 DIFboost: '0.4'
@@ -2053,6 +2054,7 @@ DSAIRM: 0.9.6
 DSAM: 1.0.2
 DSBayes: 2023.1.0
 DSFM: 1.0.1
+DSGEr: 1.3.1
 DSI: 1.8.0
 DSIR: 0.7.1
 DSL: 0.1-7
@@ -6175,6 +6177,7 @@ PINMA: 1.1-2
 PINSPlus: 2.0.9
 PINstimation: 0.2.0
 PIPS: 1.0.1
+PITS: 0.1.0
 PJCcalculator: 0.1.3
 PJFM: 0.1.0
 PK: 1.3-6
@@ -8605,7 +8608,7 @@ ScrabbleScore: '1.0'
 ScreeNOT: 0.1.0
 ScreenClean: 1.0.1
 ScriptMapR: 0.0.3
-SdeaR: 1.1.0
+SdeaR: 1.1.1
 SeBR: 1.1.0
 SeaGraphs: 0.1.3
 SeaSondeR: 0.2.8
@@ -9401,6 +9404,7 @@ Temporal: 0.3.0.2
 TemporalForest: 0.1.4
 TemporalGSSA: 1.0.1
 TemporalHazard: 1.1.0
+TemporalModelR: 0.2.0
 Tendril: 2.0.4
 TensorClustering: 1.0.2
 TensorComplete: 0.2.0
@@ -9609,6 +9613,7 @@ UEI: 0.1.0
 UGarima: 0.1.0
 UHM: 0.3.0
 UKB.COVID19: 0.1.6
+UKBAnalytica: 1.0.0
 UKFE: 2.0.2
 UKgrid: 0.1.3
 UMR: 1.1.0
@@ -12649,7 +12654,7 @@ cicerone: 1.0.4
 ciecl: 0.9.6
 cif: 0.1.1
 ciflyr: 0.1.2
-cifmodeling: 0.9.8
+cifmodeling: 1.0.0
 cifti: 0.5.0
 ciftiTools: 0.19.0
 cimir: 0.4-1
@@ -12758,7 +12763,7 @@ clickstream: 1.3.4
 clidamonger: 1.5.0
 clidatajp: 0.5.2
 cliff: 0.1.2
-clifford: 1.1-3
+clifford: 1.2-0
 clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-10
@@ -13020,7 +13025,7 @@ cohortBuilder: 0.4.0
 cohorts: 1.0.1
 cohorttools: 0.1.8
 coil: 1.2.4
-coin: 1.4-3
+coin: 1.4-4
 coindeskr: 0.1.0
 coinmarketcapr: '0.4'
 cointReg: 0.2.0
@@ -15627,6 +15632,7 @@ ergmito: 0.3-2
 erhcv: 0.1.4
 erify: 0.6.0
 ern: 2.1.2
+ernest: 1.2.4
 ernm: 1.0.5
 erp.easy: 1.1.0
 erpR: 0.2.0
@@ -18028,7 +18034,7 @@ gower: 1.0.2
 goweragreement: 1.0-1
 goxygen: 1.4.5
 gp: '1.1'
-gp3tools: 1.0.1
+gp3tools: 1.0.2
 gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.4.0
@@ -19965,7 +19971,7 @@ kin.cohort: '0.7'
 kindisperse: 0.10.2
 kindling: 0.3.0
 kinematics: 1.0.0
-kinesis: 0.4.0
+kinesis: 0.5.0
 kineticF: '1.0'
 kinfit: 1.1.14
 kinn: '0.2'
@@ -20581,7 +20587,7 @@ lmerTest: 3.2-1
 lmeresampler: 0.2.4
 lmf: 1.2.1
 lmfor: '1.7'
-lmhelprs: 0.4.4
+lmhelprs: 0.4.5
 lmkCHK: 1.0.0
 lmls: 0.1.1
 lmm: '1.4'
@@ -23093,7 +23099,7 @@ nodbi: 0.14.0
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
 nodeSub: 1.2.9
-nodiv: 1.4.3
+nodiv: 1.4.4
 noegletalR: 0.2.1
 nofrills: 0.3.2
 noia: 0.97.3
@@ -23439,6 +23445,7 @@ ojUtils: 0.1.0
 ojsr: 0.1.5
 okBATHTUB: 0.1.11
 okcolors: 0.1.0
+okf: 0.5.2
 okmesonet: 0.1.5
 okxAPI: 0.1.1
 okxr: 0.4.5
@@ -23934,7 +23941,7 @@ pammtools: 0.8.0
 pampe: 1.1.2
 pamr: '1.57'
 pams: 0.1.0
-pan: '1.9'
+pan: '2.0'
 pancor: 0.1.0
 pandemics: 0.1.0
 pandemonium: 1.0.0
@@ -24070,7 +24077,7 @@ pathClass: 0.9.4
 pathdb: 0.1.0
 pathdiagram: 0.1.9.1
 pathfindR: 3.0.1
-pathfindR.data: 2.1.0
+pathfindR.data: 2.2.0
 pathlibr: 0.1.0
 pathling: 9.7.1
 pathlit: 0.1.0
@@ -24925,6 +24932,7 @@ poputils: 0.6.1
 porridge: 0.3.3
 port4me: 0.7.1
 portalr: 0.4.5
+porter: 0.1.0
 portes: '6.0'
 portfolio: 0.5-3
 portfolio.optimization: 1.0-0
@@ -27530,7 +27538,7 @@ rtdists: 0.11-6
 rtematres: '0.2'
 rtemis: 1.0.0
 rtemis.a3: 0.5.3
-rtemis.core: 0.1.0
+rtemis.core: 0.3.1
 rtemis.llm: 0.8.1
 rtemps: 0.8.0
 rtern: 0.1.2
@@ -29796,6 +29804,7 @@ stepwise: '0.3'
 stevedata: 1.8.0
 stevedore: 0.9.6
 stevemisc: 1.9.0
+steves: 0.1.1
 stevetemplates: 1.3.0
 stevethemes: 0.1.0
 stfit: 0.99.9
@@ -31447,7 +31456,7 @@ twitteR: 1.1.9
 twitteradsR: 0.1.0
 twitterwidget: 0.1.1
 twl: '1.0'
-twn: 0.2.6
+twn: 0.2.7
 two.stage.boot: '1.0'
 twoCoprimary: 1.0.0
 twoPhaseGAS: 1.2.5
