@@ -732,7 +732,7 @@ BayesDLMfMRI: 0.0.3
 BayesDecon: 0.1.6
 BayesDesign: 0.1.1
 BayesDissolution: 0.2.1
-BayesERtools: 0.2.6
+BayesERtools: 0.2.7
 BayesESS: 0.1.19
 BayesFBHborrow: 2.0.10
 BayesFM: 0.1.7
@@ -3504,7 +3504,7 @@ GeoDensityR: 0.1.2
 GeoFIS: 1.1.1
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 2.2.4
+GeoModels: 2.2.5
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1.992
@@ -4409,7 +4409,7 @@ LARGB: 0.1.0
 LARisk: 1.0.0
 LATERmodel: 0.2.0
 LAWBL: 1.5.0
-LBBNN: 0.1.5
+LBBNN: 0.1.6
 LBC: '1.0'
 LBDiscover: 0.1.0
 LBI: 0.2.5
@@ -5662,7 +5662,7 @@ NMsim: 0.2.7
 NNLM: 0.4.3
 NNMIS: 1.0.1
 NNMoMo: 0.1.0
-NNS: '12.1'
+NNS: '13.0'
 NNTbiomarker: 0.29.11
 NNbenchmark: 3.2.0
 NO.PING.PONG: 0.1.9.1
@@ -8821,7 +8821,7 @@ Slick: 1.0.1
 SlideCNA: 0.1.0
 SlidingWindows: 0.2.0
 SlimPLS: '0.3'
-SlimR: 1.1.5
+SlimR: 1.1.6
 SlotLim: 0.0.2
 SmCCNet: 2.0.7
 SmallCountRounding: 1.2.5
@@ -9510,7 +9510,7 @@ ToxCrit: '1.1'
 ToxLim: '1.0'
 ToxicR: 22.12.1.0.7
 ToxicoGx: 0.1.1
-Tplyr: 1.3.2
+Tplyr: 1.3.3
 TraMineR: 2.2-13
 TraMineRextras: 0.6.9
 TraceAssist: 0.1.0
@@ -11720,7 +11720,7 @@ blockTools: 0.6.6
 blockcluster: 4.5.5
 blockcpd: 1.0.0
 blockedFF: 0.1.0
-blocking: 1.0.2
+blocking: 1.0.3
 blockingChallenge: '1.0'
 blocklength: 0.2.2
 blockmatrix: '1.0'
@@ -12656,7 +12656,7 @@ ci: 0.0.1
 ciCalibrate: 0.42.2
 ciTools: 0.6.1
 cia: 1.0.0
-cicalc: 0.2.1
+cicalc: 0.2.2
 ciccr: 0.3.0
 cicerone: 1.0.4
 ciecl: 0.9.6
@@ -14981,7 +14981,7 @@ dupree: 0.3.0
 durmod: 1.1-4
 dverse: 0.2.0
 dvfBm: '1.0'
-dvir: 3.4.1
+dvir: 3.4.2
 dvmisc: 1.1.4
 dvn: 0.3.5
 dvqcc: 0.1.0
@@ -15718,7 +15718,7 @@ eudata: 0.1.3
 eudract: 1.1.1
 eufmdis.adapt: 0.1.0
 eulerian: '1.0'
-eulerr: 8.0.0
+eulerr: 8.1.0
 eummd: 0.2.0
 eunis.habitats: 0.1.0
 eurlex: 0.4.9
@@ -16763,7 +16763,7 @@ frechet: 0.3.0
 fred: 0.2.0
 fredr: 2.1.0
 free: 1.0.2
-free1way.docreg: 1.0-1
+free1way.docreg: 1.0-2
 freealg: 1.1-8
 freebird: '1.0'
 freebsdcontribs: 0.1.0
@@ -20230,7 +20230,7 @@ latticeExtra: 0.6-31
 latticedl: '1.2'
 latticist: 0.9-44
 lavDiag: 0.1.0
-lava: 1.9.1
+lava: 1.9.2
 lava.tobit: '0.5'
 lavaSearch2: 2.0.3
 lavaan: 0.6-21
@@ -20461,7 +20461,7 @@ likelihoodTools: 1.0.0
 likert: 1.3.5.1
 lilikoi: 2.1.1
 lillies: 0.2.12
-limSolve: 2.0.2
+limSolve: 2.0.3
 lime: 0.5.4
 limexhub: 0.1.5
 liminal: 0.1.2
@@ -20601,7 +20601,7 @@ lmfor: '1.7'
 lmhelprs: 0.4.5
 lmkCHK: 1.0.0
 lmls: 0.1.1
-lmm: '1.4'
+lmm: '1.5'
 lmmen: '1.0'
 lmmfit: '1.0'
 lmmlasso: 0.1-2
@@ -20803,7 +20803,7 @@ lsdv: '1.1'
 lsei: 1.3-1
 lsgl: 1.3.6
 lshorth: 0.1-6
-lsirm12pl: 2.0.2
+lsirm12pl: 2.0.3
 lsl: 0.5.6
 lslx: 0.6.11
 lsm: 0.2.1.5
@@ -22060,7 +22060,7 @@ modelROC: '1.0'
 modelSSE: 0.1-3
 modelSelection: 1.0.7
 modelStudio: 3.1.2
-modelbased: 0.15.0
+modelbased: 0.16.0
 modelbpp: 0.3.0
 modelc: 1.0.0.0
 modelcf: 2.1.1
@@ -22644,7 +22644,7 @@ mvvg: 0.1.0
 mwTensor: 1.2.2
 mwa: 0.5.1
 mwaved: 1.1.8
-mwcsr: 0.1.11
+mwcsr: 0.1.12
 mwlaxeref: 0.0.1
 mwmap: 1.0.0
 mwmapdata: 1.0.0
@@ -22811,7 +22811,7 @@ neodistr: 0.1.2
 neojags: 0.1.7
 neonOS: 1.1.0
 neonPlantEcology: 1.6.1
-neonSoilFlux: 3.0.0
+neonSoilFlux: 4.0.0
 neonUtilities: 4.0.0
 neonstore: 0.5.1
 neotoma: 1.7.4
@@ -24949,7 +24949,7 @@ portfolio: 0.5-3
 portfolio.optimization: 1.0-0
 portfolioBacktest: 0.4.2
 portfolioSim: 0.2-7
-portion: 0.1.2
+portion: 0.1.3
 portn: 1.0.0
 portsort: 0.1.0
 portvine: 1.0.3
@@ -25809,7 +25809,7 @@ r6qualitytools: 1.0.1
 rACMEMEEV: 1.0.1
 rADA: 1.1.9
 rARPACK: 0.11-0
-rATTAINS: 1.1.0
+rATTAINS: 1.2.0
 rAccess: 0.1.1.3
 rAltmetric: 0.7.0
 rAmCharts: 2.1.16
@@ -26251,7 +26251,7 @@ rcdklibs: '2.9'
 rcdo: 0.3.2
 rcens: 0.1.1
 rchallenge: 1.3.4
-rchemo: 0.1-3
+rchemo: 0.1-4
 rcheology: 4.6.0.0
 rchess: '0.1'
 rchie: 1.0.2
@@ -26430,7 +26430,7 @@ realestateDK: 0.1.0
 realestatebr: 1.0.1
 realized: 1.0.1
 realtest: 0.2.3
-ream: 1.0-10
+ream: 1.0-12
 reams: '0.1'
 reappraised: '0.2'
 rearrr: 0.3.5
@@ -28248,7 +28248,7 @@ semicmprskcoxmsm: 0.2.0
 semicontMANOVA: '0.2'
 semidist: 0.1.0
 seminr: 2.5.0
-seminrExtras: 1.0.1
+seminrExtras: 1.0.2
 semisupKernelPCA: 0.1.5
 semlbci: 0.11.6
 semlrtp: 0.1.1
@@ -29089,7 +29089,7 @@ softwareRisk: 0.2.0
 soil.spec: 2.1.4
 soilDB: 2.9.1
 soilFlux: 0.1.5
-soilKey: 0.9.155
+soilKey: 0.9.157
 soilVAE: 0.1.9
 soilassessment: 1.3.1
 soilcarbon: 1.2.0
@@ -29849,7 +29849,7 @@ stochasticGEM: 0.0-1
 stochcorr: 0.0.1
 stochmod: 1.2.1
 stochprofML: 2.0.3
-stochtree: 0.4.4
+stochtree: 0.4.5
 stochvol: 3.2.9
 stochvolTMB: 0.3.0
 stockAnalyst: 1.0.1
@@ -30488,7 +30488,7 @@ tdsc: 1.0.4
 tdthap: '1.4'
 tea: '1.1'
 teachingApps: 1.0.8
-teal: 1.1.0
+teal: 1.2.0
 teal.code: 0.7.2
 teal.data: 0.8.1
 teal.logger: 0.4.2
@@ -30498,7 +30498,7 @@ teal.picks: 0.2.0
 teal.reporter: 0.6.2
 teal.slice: 0.8.0
 teal.transform: 0.7.2
-teal.widgets: 0.6.0
+teal.widgets: 0.6.1
 tealeaves: 1.0.7
 teamcolors: 0.0.4
 teamr: 0.0.1
@@ -30963,7 +30963,7 @@ tkRplotR: 0.1.7
 tkrgl: '0.9'
 tkrplot: 0.0-32
 tktdjl2r: 0.2.0
-tl: 0.0.1
+tl: 0.0.2
 tlars: 1.0.1
 tlda: 0.1.0
 tldr: 0.4.0
