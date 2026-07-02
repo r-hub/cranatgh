@@ -2578,7 +2578,7 @@ Ecohydmod: 1.0.0
 EconAndProdEfficiency: 0.1.0
 EconCausal: 1.0.2
 EconDemand: '1.0'
-EconGeo: '2.0'
+EconGeo: '2.1'
 EcotoneFinder: 0.2.3
 Ecume: 0.9.2
 EdSurvey: 4.0.7
@@ -8182,7 +8182,7 @@ SCCS: '1.7'
 SCDA: 0.0.2
 SCDB: 0.6.2
 SCE: 1.1.4
-SCEM: 1.1.0
+SCEM: 1.2.0
 SCEPtER: 0.2-4
 SCEPtERbinary: 0.1-1
 SCEPtERextras: 0.1-0
@@ -8215,6 +8215,7 @@ SCperf: 1.1.1
 SCpubr: 3.0.1
 SCtools: 0.3.3.1
 SDALGCP: 0.4.0
+SDALGCP2: 0.1.0
 SDAR: 0.9-55
 SDAResources: 0.1.1
 SDBP: '1.0'
@@ -10637,6 +10638,7 @@ apexcharter: 0.5.0
 aphid: 1.3.6
 aphylo: 0.3-6
 api2lm: '0.2'
+apifetch: 0.1.0
 apisensr: 2.0.0
 aplms: 0.1.0
 aplore3: '0.9'
@@ -12579,6 +12581,7 @@ checkpoint: 1.0.2
 checkr: 0.5.0
 checkstring: 0.2.0
 checkthat: 0.1.0
+checktor: 0.1.0
 cheddar: 0.1-639
 cheem: 0.4.2
 cheese: 0.1.3
@@ -14202,6 +14205,7 @@ deadband: 0.1.0
 deadwood: 0.9.0-3
 deal: 1.2-42
 deamer: '1.0'
+deaviz: 0.1.0
 debar: 0.1.1
 debest: 0.1.0
 debiasedTrialEmulation: 0.1.2
@@ -17704,7 +17708,7 @@ ggsector: 1.7.0
 ggseg: 2.2.0
 ggseg.formats: 0.0.4
 ggseg.meshes: 0.0.1
-ggseg3d: 2.1.1
+ggseg3d: 2.1.2
 ggsegmentedtotalbar: 0.1.0
 ggsem: 1.0.0.1
 ggseqlogo: 0.2.2
@@ -21472,7 +21476,7 @@ metaSEM: 1.5.0
 metaSVR: 0.1.0
 metaSurvival: 0.1.0
 metabias: 0.1.1
-metaboData: 0.6.3
+metaboData: 0.6.4
 metaboGSE: 1.2.5
 metabodecon: 1.6.2
 metabolic: 0.1.2
@@ -21848,6 +21852,7 @@ mixedbiastest: 1.0.2
 mixedfact: 0.1.1
 mixediffusion: 1.0.1
 mixedsde: '5.0'
+mixedsubjects: 1.0.0
 mixedsubjectsirt: 1.0.0
 mixer: '1.9'
 mixexp: 1.2.7.1
@@ -24038,6 +24043,7 @@ parcats: 0.1.0
 parcoords: 1.0.0
 parcor: 0.2-6
 parcr: 0.6.1
+parcxl: 0.1.0
 parfm: 2.7.8
 parfossil: 0.2.0
 pargasite: 2.1.1
@@ -24281,6 +24287,7 @@ pedquant: 0.2.6
 pedsuite: 1.4.0
 pedtools: 2.11.0
 pedtricks: 0.5.0
+peeky: 0.1.0
 peermodels: 0.10.3
 pegas: '1.4'
 pegs: '0.2'
@@ -30605,6 +30612,7 @@ testequavar: 0.1.5
 tester: 0.3.0
 testex: 0.2.1
 testextra: 0.1.0.1
+testflow: 0.8.2
 testforDEP: 0.2.0
 testit: '1.1'
 testthat: 3.3.2
