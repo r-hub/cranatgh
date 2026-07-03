@@ -643,7 +643,7 @@ BSDA: 1.2.2
 BSET: '1.0'
 BSGS: '2.0'
 BSGW: 0.9.4
-BSL: 3.2.5
+BSL: 3.2.6
 BSPADATA: 1.1.0
 BSPBSS: 1.0.6
 BSS: 0.1.0
@@ -1011,7 +1011,7 @@ BranchGLM: 3.0.1
 Branching: 0.9.7
 BrasilMF: 1.0.0
 BrazilCrime: 0.3.0
-BrazilDataAPI: 0.2.0
+BrazilDataAPI: 0.3.0
 BrazilMet: 0.4.0
 BreakPoints: '1.2'
 BreedingSchemeLanguage: 0.9.6
@@ -1638,7 +1638,7 @@ ComparisonCR: 1.0.4
 ComparisonSurv: 1.1.1
 CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
-Compind: '3.4'
+Compind: '3.5'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
@@ -2920,7 +2920,7 @@ FactEff: '1.0'
 FactMixtAnalysis: '1.0'
 FactoClass: 1.2.9
 FactoInvestigate: 1.9.1
-FactoMineR: '2.15'
+FactoMineR: '2.16'
 FactoRizationMachines: '0.35'
 FactorAssumptions: 2.0.1
 FactorCopula: 0.9.3
@@ -10774,7 +10774,7 @@ arrow: 24.0.0
 arrowheadr: 1.0.2
 ars: '0.8'
 arse: 1.0.0
-arsenal: 3.6.3
+arsenal: 3.7.1
 artemis: 1.1.1
 artfima: '1.5'
 arthistory: 0.1.0
@@ -12699,7 +12699,7 @@ circuitscaper: 0.1.0
 circular: 0.5-2
 circularEV: 0.1.2
 circularKDE: 0.1.1
-circumplex: 1.1.0
+circumplex: 1.2.0
 cirls: 0.4.0
 cisp: 0.2.0
 cit: 2.3.2
@@ -13739,7 +13739,7 @@ csalert: 2024.6.24
 csampling: 1.2-4.1
 csbewma: 1.0.1
 csci: 0.9.3
-csdata: 2026.3.30
+csdata: 2026.7.2
 csdb: 2026.5.13
 csdm: 1.0.1
 csemGT: 1.0.0
@@ -14166,7 +14166,7 @@ dcmr: '1.0'
 dcmstan: 0.1.0
 dcorBSS: 1.0-0
 dcorVS: '1.1'
-dcortools: 0.1.7
+dcortools: 0.2.0
 dcov: 0.1.1
 dcsvm: 0.0.1
 dcurver: 0.9.3
@@ -17575,7 +17575,7 @@ ggforestplotR: 0.2.2
 ggformula: 1.0.1
 ggfortify: 0.4.19
 ggfoundry: 0.3.1
-ggfun: 0.2.0
+ggfun: 0.2.1
 ggfx: 1.0.3
 gggap: 1.0.1
 gggda: 0.1.1
@@ -17676,7 +17676,7 @@ ggpol: 0.0.7
 ggpolar: 0.2.2
 ggpolypath: 0.4.0
 ggpop: 1.7.1
-ggpp: 0.6.0
+ggpp: 0.6.1
 ggprism: 1.0.7
 ggpubr: 0.6.3
 ggpval: 0.2.5
@@ -21309,7 +21309,7 @@ mcparallelDo: 1.1.0
 mcpd: '1.0'
 mcprofile: 1.0-1
 mcprogress: 0.1.1
-mcptools: 0.2.1
+mcptools: 1.0.0
 mcqAnalysis: 0.1.0
 mcr: 1.3.3.1
 mcrPioda: 1.3.4
@@ -22837,7 +22837,7 @@ neojags: 0.1.7
 neonOS: 1.1.0
 neonPlantEcology: 1.6.1
 neonSoilFlux: 4.0.0
-neonUtilities: 4.0.0
+neonUtilities: 4.0.1
 neonstore: 0.5.1
 neotoma: 1.7.4
 neotoma2: 1.0.12
@@ -23623,7 +23623,7 @@ opentripplanner: 0.5.2
 opentriviadb: 1.0.0
 openwindfarm: 0.1.0
 openxlsx: 4.2.8.1
-openxlsx2: '1.27'
+openxlsx2: '1.28'
 opera: 1.2.0
 operator.tools: 1.6.3.1
 operators: 0.2.0
@@ -30527,11 +30527,11 @@ teal: 1.2.0
 teal.code: 0.7.2
 teal.data: 0.8.1
 teal.logger: 0.4.2
-teal.modules.clinical: 0.12.0
+teal.modules.clinical: 0.13.0
 teal.modules.general: 0.7.0
 teal.picks: 0.2.0
 teal.reporter: 0.6.2
-teal.slice: 0.8.0
+teal.slice: 0.8.1
 teal.transform: 0.7.2
 teal.widgets: 0.6.1
 tealeaves: 1.0.7
@@ -30878,7 +30878,7 @@ tidytitanic: 0.0.1
 tidytlg: 0.12.0
 tidytransit: 1.8.0
 tidytreatment: 0.3.2
-tidytree: 0.4.7
+tidytree: 0.4.8
 tidyttmoment: 0.0.5
 tidytuesdayR: 1.3.2
 tidyusmacro: 0.2.0
