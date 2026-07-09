@@ -586,7 +586,7 @@ BLSloadR: 0.4.6
 BMA: 3.18.21
 BMAmevt: 1.0.5
 BMEmapping: 1.2.2
-BMIselect: 1.0.3
+BMIselect: 1.0.4
 BMN: '1.02'
 BMRBr: 0.2.0
 BMRMM: 1.0.1
@@ -4322,7 +4322,7 @@ KHQ: 0.2.0
 KINSIMU: 0.1.3-2
 KLINK: 1.2.0
 KLexp: 1.0.0
-KMD: 0.1.0
+KMD: 0.1.1
 KMDA: '1.0'
 KMEANS.KNN: 0.1.0
 KMLtoSHAPE: 0.1.0
@@ -6352,7 +6352,7 @@ PScr: '1.1'
 PSinference: 0.2.2
 PSor: 0.1.0
 PSpower: 2.0.0
-PSsurvival: 0.2.0
+PSsurvival: 0.2.1
 PStrata: 1.0.1
 PSweight: 2.1.2
 PTAk: 2.0.0
@@ -8166,7 +8166,7 @@ SASdates: 0.1.0
 SASmarkdown: 0.8.7
 SASmixed: 1.0-5
 SASxport: 1.7.0
-SATS: 1.0.6
+SATS: 1.0.10
 SAVE: '1.0'
 SAVER: 1.1.2
 SAiVE: 1.0.6
@@ -11311,7 +11311,7 @@ bcTSNE: 0.11.1
 bcaboot: 0.2-3
 bcc: '1.5'
 bccp: 0.5.0
-bcdata: 0.5.2
+bcdata: 0.5.3
 bcf: 2.0.2
 bcfrailph: 0.1.2
 bcfrailphdv: 0.1.2
@@ -12443,6 +12443,7 @@ cdlTools: '1.13'
 cdlei: '1.0'
 cdlsim: 0.1.0
 cdmTools: 1.0.6
+cdmetapopR: 1.0.0
 cdnbcr: 1.1.1
 cdom: 0.1.1
 cdparcoord: 1.0.1
@@ -13262,7 +13263,7 @@ conditionalProbNspades: '1.0'
 conditions: '0.1'
 conditionz: 0.1.0
 condmixt: '1.1'
-condor: 3.0.2
+condor: 3.0.3
 condorOptions: 1.0.1
 conductor: 0.1.2
 condusco: 0.1.0
@@ -14025,6 +14026,7 @@ dashboard: 0.1.0
 dashboardthemes: 1.1.6
 dat: 0.7.0
 data.checker: 2.0.0
+data.sketches: 0.1.0
 data.table: 1.18.4
 data.table.threads: 1.0.1
 data.tree: 1.2.0
@@ -14095,6 +14097,7 @@ dataset: 0.4.5
 datasetjson: 0.3.0
 datasets.load: 2.3.0
 datasetsICR: '1.0'
+datasetviewer: 0.1.1
 dataspice: 1.1.1
 datastat: 0.1.0
 datastepr: 0.0.2
@@ -15388,7 +15391,7 @@ eikosograms: 1.0.0
 eimpute: 0.2.4
 einet: 0.1.0
 einops: 0.2.1
-einsum: 0.1.2
+einsum: 0.2.0
 eiopaR: 0.1.1
 eiopt2: 0.1.1-6
 eirm: '0.5'
@@ -19113,7 +19116,7 @@ ical: 0.1.6
 icamix: 1.0.6
 icapca: '1.1'
 icardaFIGSr: 1.0.2
-icarm: 0.1.0
+icarm: 0.2.0
 icarus: 0.3.3
 iccCompare: 1.1.0
 iccCounts: 1.1.4
@@ -19583,6 +19586,7 @@ ipeadatar: 0.2.0
 ipeaplot: 0.5.3
 iperform: 0.0.3
 ipeval: 0.1.0
+ipf: 0.0.1
 ipflasso: '1.1'
 ipfp: 1.0.2
 ipfr: 1.0.2
@@ -20245,7 +20249,7 @@ landsat: 1.1.2
 landsat8: 0.1-10
 landscapeR: 1.3.1
 landscapemetrics: 2.2.1
-landscapetools: 0.5.0
+landscapetools: 0.6.3
 landsepi: 1.5.3
 lang: 0.1.2
 langevitour: 0.8.1
@@ -22204,7 +22208,7 @@ monad: 0.1.1
 monashtipr: 0.1.0
 mondate: '1.0'
 mongolite: 4.0.0
-mongolstats: 0.1.1
+mongolstats: 0.2.0
 mongopipe: 0.1.2
 monitOS: 0.1.6
 monitoR: '1.2'
@@ -24806,7 +24810,7 @@ plotrix: 3.8-14
 plotrr: 1.0.2
 plotscale: 0.1.6
 plotscaper: 0.2.8
-plotthis: 0.12.1
+plotthis: 0.13.1
 plotwidgets: 0.5.1
 plpoisson: 0.3.1
 pls: 2.9-0
@@ -25284,6 +25288,7 @@ prob: 1.0-1
 probFDA: 1.0.1
 probably: 1.2.0
 probaverse: 0.1.0
+probcal: 0.2.0
 probe: '1.1'
 probemapper: 1.0.0
 probemod: 0.2.1
@@ -29213,7 +29218,7 @@ someKfwer: '1.2'
 someMTP: 1.4.1.1
 somebm: '0.1'
 somhca: 0.4.0
-sommer: 4.4.5
+sommer: 4.4.6
 somplot: 1.6.4
 somspace: 1.2.4
 sonar: 1.0.2
@@ -30524,7 +30529,7 @@ taxa: 0.4.4
 taxadb: 0.2.1
 taxalight: 0.1.5
 taxdiv: 0.1.0
-taxify: 0.2.12
+taxify: 0.3.4
 taxize: 0.10.1
 taxizedb: 0.3.2
 taxlist: 0.3.5
@@ -31813,6 +31818,7 @@ uwedragon: 0.1.0
 uwo4419: 0.3.0
 uwot: 0.2.4
 uxr: 0.2.0
+uygeo: 0.1.0
 vDiveR: 2.2.0
 vICC: 1.0.0
 vMF: 0.0.4
@@ -31856,7 +31862,7 @@ validmind: 2.12.5
 valmetrics: 1.0.0
 valorate: 1.0-5
 valottery: 0.0.1
-valr: 0.9.1
+valr: 0.10.0
 valse: 0.1-0
 valueEQ5D: 0.7.2
 valueSetCompare: 1.0.0
@@ -32590,7 +32596,7 @@ xegaSelectGene: 1.0.0.4
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
-xfun: '0.59'
+xfun: '0.60'
 xgb2sql: 0.1.3
 xgboost: 3.2.1.1
 xgobi: 1.2-15
@@ -32776,7 +32782,7 @@ zipsae: 1.0.2
 zlib: 1.0.3
 zlog: 1.0.2
 zmatrix: '1.1'
-zmctp: 0.1.0
+zmctp: 0.1.1
 zmisc: 0.2.3
 zoeppritz: 1.0-9
 zoib: 1.6.1
