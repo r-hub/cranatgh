@@ -641,6 +641,7 @@ BRVM: 5.3.0
 BRcal: 1.0.1
 BRugs: 0.9-2.1
 BSBT: 1.2.1
+BSCB: 1.0.0
 BSDA: 1.2.2
 BSET: '1.0'
 BSGS: '2.0'
@@ -1126,6 +1127,7 @@ CDSE: 0.3.2
 CDSS: 0.3-1
 CDSeq: 1.0.8
 CDSim: 0.1.2
+CDSimX: 1.1.2
 CDVI: 0.1.0
 CDVine: '1.4'
 CDVineCopulaConditional: 0.1.1
@@ -5883,6 +5885,7 @@ ONETr: 1.0.3
 OOBCurve: '0.3'
 OOI: 0.1.0
 OOR: 0.1.4
+OORRT: 0.1.0
 OOS: 1.0.0
 OOmisc: '1.2'
 OPC: 0.0.2
@@ -10714,7 +10717,7 @@ arc: 1.4.2
 arcgeocoder: 0.4.1
 arcgis: 0.2.0
 arcgisgeocode: 0.4.0
-arcgislayers: 0.6.0
+arcgislayers: 0.6.1
 arcgisplaces: 0.1.2
 arcgisrouting: 1.0.0
 arcgisutils: 0.5.0
@@ -13290,6 +13293,7 @@ configural: 0.1.5
 confintROB: 1.1-1
 confinterpret: 1.0.0
 confintr: 1.0.2
+conflibertR: 0.5.3
 conflicted: 1.2.0
 conflr: 0.1.1
 conforest: 2.0.1
@@ -14392,6 +14396,7 @@ depthR: 0.1.8
 depthTools: '0.7'
 dequer: 2.0-2
 derivmkts: 0.2.5.1
+derrick: 0.1.1
 desc: 1.4.3
 descomponer: '1.6'
 descr: 1.1.9
@@ -14792,6 +14797,7 @@ dockerfiler: 1.0.0
 docket: '1.33'
 docknitr: 1.0.1
 dockr: 0.8.6
+doclingr: 0.1.0
 doclisting: 0.1.0
 doconv: 0.4.0
 docopt: 0.7.2
@@ -17719,6 +17725,7 @@ ggpol: 0.0.7
 ggpolar: 0.2.2
 ggpolypath: 0.4.0
 ggpop: 1.7.1
+ggpower: 0.1.2
 ggpp: 0.6.1
 ggprism: 1.0.7
 ggpubr: 1.0.0
@@ -19390,6 +19397,7 @@ infer: 1.1.0
 inferCSN: 1.2.0
 inferMM: 0.0.3
 inference: 0.1.0
+inferencer: 0.1.4.5
 inferference: 1.0.3
 inferr: 0.3.2
 infiltrodiscR: 0.0.5
@@ -19685,6 +19693,7 @@ isopat: '1.0'
 isoph: 1.1.3
 isopleuros: 1.4.0
 isoreader: 1.3.2
+isoreader2: 0.6.1
 isotone: 1.1-2
 isotonic.pen: '1.0'
 isotracer: 1.1.8
@@ -19877,6 +19886,7 @@ jpeg: 0.1-11
 jpgrid: 0.4.0
 jpinfect: 2024.2026.18
 jpmap: 0.1.3
+jpmapdata: 0.1.0
 jpmesh: 2.1.0
 jpndistrict: 0.3.9
 jpstat: 0.4.0
@@ -25582,6 +25592,7 @@ pxmake: 0.20.1
 pxweb: 0.17.0
 pyMTurkR: 1.1.6
 pycno: 1.4.1
+pycnogrid: 0.2.0
 pye: 0.1.0
 pyinit: 1.1.5
 pylintR: 0.1.0
@@ -26839,6 +26850,7 @@ retimes: 0.1-2
 retistruct: 0.8.1
 retmort: 1.0.0
 retractcheck: 1.0.0
+retraction: 0.1.0
 retriever: 0.2.1
 retrocombinator: 1.0.0
 retrodesign: 0.2.2
@@ -27885,6 +27897,7 @@ safetyCharts: 0.3.0
 safetyData: 1.0.0
 safetyGraphics: 2.1.1
 safi: '1.0'
+safuzzy: 0.1.1
 sageR: 0.7.0
 sahpm: 1.0.1
 sail: 0.1.0
@@ -28233,6 +28246,7 @@ seacarb: 3.3.4
 seagull: 1.1.0
 seairmobility: 0.1.0
 sealasso: 0.1-3
+sealeveltools: 0.3.0
 sealr: 0.1.1
 seao: 0.2-1
 seao.gui: 0.2-1
@@ -29443,7 +29457,7 @@ spbal: 1.0.1
 spboost: 0.7.0
 spc: 0.7.2
 spc4sts: 0.6.5
-spca: 0.6.0
+spca: 1.1.1
 spcadjust: '1.1'
 spclust: '1.2'
 spconf: 1.0.1
@@ -29913,6 +29927,7 @@ steppedwedge: 1.0.0
 steprf: 1.0.2
 steps: 1.3.0
 stepssurvey: 0.1.0
+stepwedgepower: 0.1.0
 stepwise: '0.3'
 stevedata: 1.8.0
 stevedore: 0.9.6
@@ -30307,6 +30322,7 @@ svs: 3.1.1
 svyCausalGLM: 0.1.0
 svyPVpack: 0.1-1
 svyROC: 1.1.0
+svySE: 0.1.0
 svyVGAM: '1.3'
 svyVarSel: 1.0.1
 svycdiff: 0.2.0
@@ -31404,6 +31420,7 @@ trps: 0.1.0
 trread: 0.2.7
 trtf: 0.4-3
 trtswitch: 0.2.7
+truchet: 0.0.1.1
 trud: 0.2.1
 truelies: 0.2.0
 trueskill: '0.1'
@@ -31921,7 +31938,7 @@ vartors: 0.2.6
 varycoef: 0.3.6
 vascr: 0.1.4
 vasicek: 0.0.3
-vasicekfit: 0.1.0
+vasicekfit: 0.2.0
 vasicekreg: 1.0.2
 vaster: 0.6.0
 vatcheckapi: 0.1.0
