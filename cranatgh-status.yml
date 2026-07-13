@@ -585,7 +585,7 @@ BLSM: 0.1.0
 BLSloadR: 0.4.6
 BMA: 3.18.21
 BMAmevt: 1.0.5
-BMEmapping: 1.2.2
+BMEmapping: 2.0.0
 BMIselect: 1.0.4
 BMN: '1.02'
 BMRBr: 0.2.0
@@ -641,7 +641,7 @@ BRVM: 5.3.0
 BRcal: 1.0.1
 BRugs: 0.9-2.1
 BSBT: 1.2.1
-BSCB: 1.0.0
+BSCB: 1.0.1
 BSDA: 1.2.2
 BSET: '1.0'
 BSGS: '2.0'
@@ -789,7 +789,7 @@ BayesQTLBIC: 1.0-2
 BayesQVGEL: 0.1.1
 BayesRGMM: '2.2'
 BayesRS: 0.1.3
-BayesRTMB: 0.2.1
+BayesRTMB: 0.2.3
 BayesRegDTR: 1.1.2
 BayesRep: 0.42.2
 BayesRepDesign: '0.42'
@@ -1204,7 +1204,7 @@ CJIVE: 0.1.0
 CKAT: 0.1.0
 CKLRT: 0.2.3
 CKMRpop: 0.1.3
-CKNNRLD: 0.2.0
+CKNNRLD: 0.2.2
 CLA: 0.96-3
 CLAG: 2.18.1
 CLAST: 1.0.1
@@ -1629,7 +1629,7 @@ CompExpDes: 1.0.9
 CompGLM: '2.0'
 CompGR: 0.1.3
 CompLognormal: '3.0'
-CompMix: 0.1.0
+CompMix: 1.1.0
 CompModels: 0.3.0
 CompPareto: 0.1.0
 CompQuadForm: 1.4.4
@@ -3650,7 +3650,7 @@ HCR: 0.1.1
 HCT: 0.1.3
 HCTDesign: 0.7.4
 HCTR: 0.1.1
-HCUPtools: 1.0.1
+HCUPtools: 1.0.2
 HCV: 1.2.0
 HCmodelSets: 1.1.3
 HDANOVA: 0.8.5
@@ -4484,7 +4484,7 @@ LIHKGr: 0.1.0
 LIHNPSD: 0.2.1
 LIM: 1.4.7.2
 LINselect: 1.1.6
-LISTO: 0.7.3
+LISTO: 0.8.1
 LIStest: '2.1'
 LJexm: 1.0.5
 LJmp3converter: 1.0.7
@@ -5651,7 +5651,7 @@ NISTnls: 0.9-13
 NISTunits: 1.0.1
 NITPicker: 1.0.1
 NLMR: '1.1'
-NLP: 0.3-2
+NLP: 0.3-3
 NLPclient: '1.0'
 NLPutils: 0.0-5.1
 NLPwavelet: '1.1'
@@ -7475,7 +7475,7 @@ RWeather: '0.4'
 RWebLogo: 1.0.3
 RWebMA: 0.0.2
 RWeightedKmeans: 1.1.0
-RWeka: 0.4-48
+RWeka: 0.4-49
 RWekajars: 3.9.3-2
 RWgraph: 1.0.0
 RWiener: 1.3-3
@@ -7704,7 +7704,7 @@ RcppLbfgsBlaze: 0.1.0
 RcppML: 0.3.7.1
 RcppMLPACK: 1.0.10-7
 RcppMagicEnum: 0.0.1
-RcppMeCab: 0.0.1.6
+RcppMeCab: 0.0.1.7
 RcppMovStat: 1.0.2
 RcppMsgPack: 0.2.4
 RcppNLoptExample: 0.0.2
@@ -10670,13 +10670,13 @@ apisensr: 2.0.0
 aplms: 0.1.0
 aplore3: '0.9'
 aplot: 0.3.1
-aplotExtra: 0.0.4
+aplotExtra: 0.0.5
 aplpack: 1.3.5
 apm: 0.1.1
 apmsWAPP: '1.0'
 apmx: 1.1.1
 apng: '1.1'
-apollo: 0.3.8
+apollo: 0.3.9
 apor: 0.1.1
 appRiori: 0.0.6
 apparent: '1.1'
@@ -12027,13 +12027,13 @@ brranching: 0.7.0
 brsim: '0.3'
 brt: 1.3.0
 bruceR: '2026.1'
-brulee: 1.1.0
+brulee: 1.1.1
 bruneimap: 0.3.1
 brunnermunzel: '2.0'
 brxx: 0.1.2
 bs: '1.0'
 bs4Dash: 2.3.5
-bs4Dashkit: 0.2.0
+bs4Dashkit: 0.3.0
 bs4cards: 0.1.1
 bsTools: 1.0.5
 bsam: 1.1.3
@@ -12857,7 +12857,7 @@ clinicalomicsdbR: 1.0.6
 clinicalsignificance: 3.0.0
 clinify: 0.3.1
 clinmon: 0.6.0
-clinpubr: 1.4.0
+clinpubr: 1.4.1
 clinsig: '1.2'
 clinspacy: 1.0.2
 clintools: 0.9.10.1
@@ -13604,7 +13604,7 @@ cpam: 0.2.1
 cpca: 0.1.2
 cpcens: 0.1.0
 cpd: 0.3.3
-cpfa: 1.3.0
+cpfa: 1.3.1
 cpgen: '0.1'
 cpgfR: 0.0.1.0
 cpi: 0.1.5
@@ -13836,7 +13836,7 @@ ctrlGene: 1.0.1
 ctrlvee: 0.1.0
 cts: 1.0-26
 ctsem: 3.11.0
-ctsemOMX: 2.0.0
+ctsemOMX: 2.0.1
 ctsfeatures: 1.2.2
 ctsmTMB: 1.0.1
 ctv: 1.0-0
@@ -18648,7 +18648,7 @@ helpr: 0.1.2.2
 helsinki: 1.0.6
 hemat: 1.1.3
 hemispheR: 1.1.8
-henna: 0.7.5
+henna: 0.8.5
 heplots: 1.8.1
 hera: 0.1.1
 here: 1.0.2
@@ -20346,7 +20346,7 @@ lazyeval: 0.2.3
 lazygreedy: '1.0'
 lazyraster: 0.5.1
 lazyrmd: 0.2.0.1
-lazysf: 0.3.0
+lazysf: 0.4.0
 lazysql: 0.1.3
 lazytrade: 0.5.4
 lba: 2.4.52
@@ -21970,7 +21970,7 @@ mlPhaser: '0.01'
 mlS3: 0.1.1
 mlVAR: 0.6.1
 mlapi: 0.1.1
-mlbench: 2.1-8
+mlbench: 2.1-9
 mlbgameday: 0.2.0
 mlbplotR: 1.2.0
 mlbstats: 0.1.0
@@ -23648,7 +23648,7 @@ openEBGM: 0.9.1
 openFDA: 0.1.0
 openMSE: 1.0.1
 openNCAI: 0.1.0
-openNLP: 0.2-7
+openNLP: 0.2-8
 openNLPdata: 1.5.3-5
 openNLPmodels: 0.0-3
 openNLPmodels.en: 0.0-4
@@ -24719,7 +24719,7 @@ pkgdepR: 1.1.1
 pkgdepends: 0.9.1
 pkgdiff: 1.0.3
 pkgdown: 2.2.1
-pkgdown.offline: 0.1.2
+pkgdown.offline: 0.1.3
 pkgfilecache: 0.1.5
 pkggraph: 0.3.1
 pkglite: 0.2.6
@@ -25840,7 +25840,7 @@ quickOutlier: 0.1.5
 quickPWCR: '1.2'
 quickPlot: 1.0.4
 quickReg: 1.5.0
-quickSentiment: 0.3.4
+quickSentiment: 0.3.5
 quickblock: 0.2.2
 quickcheck: 0.1.3
 quickcode: 1.0.9
@@ -27103,7 +27103,7 @@ rjazz: 0.1.7
 rjd3bench: 3.1.2
 rjd3jars: 0.0.5
 rjd3production: 1.1.0
-rjd3providers: 3.7.1
+rjd3providers: 3.8.0
 rjd3toolkit: 3.8.0
 rjd3tramoseats: 3.8.0
 rjd3workspace: 3.7.1
@@ -27243,7 +27243,7 @@ rngSetSeed: 0.3-3
 rngWELL: 0.10-10
 rngtools: 1.5.2
 rngwell19937: 0.6-0
-rnmamod: 0.5.0
+rnmamod: 0.5.1
 rnn: 1.9.1
 rnndescent: 0.2.0
 rnnmf: 0.3.0
@@ -27502,7 +27502,7 @@ rpymat: 0.1.9
 rqPen: '4.2'
 rqcanon: 0.1.0
 rqdatatable: 1.3.3
-rqlm: 4.3-2
+rqlm: 4.4-1
 rqmcmb2: 1.0.2-1
 rqti: 1.2.1
 rqualify: 1.0.2
@@ -29015,7 +29015,7 @@ skyscapeR: 1.0.0
 skytrackr: '2.0'
 sla: '0.1'
 slackr: 3.3.1
-slam: 0.1-55
+slam: 0.1-56
 slanter: 0.2-0
 slap: 2024.4.1
 slash: 0.2.0
@@ -30556,7 +30556,7 @@ tastypie: 0.1.2
 tatest: '1.0'
 tatoo: 1.1.3
 tatooheene: 1.0.0
-tau: 0.0-28
+tau: 0.0-29
 tauProcess: 2.1.3
 tauturri: 0.3.0
 tawny: 2.1.7
@@ -31484,7 +31484,7 @@ tseLCA: 1.0.2
 tseffects: 0.2.1
 tsensembler: 0.1.0
 tsentiment: 1.0.5
-tseries: 0.10-61
+tseries: 0.10-62
 tseriesChaos: 0.1-13.1
 tseriesEntropy: 0.7-2
 tseriesTARMA: 0.5-2
@@ -32808,7 +32808,7 @@ zfit: 0.4.0
 zic: 0.9.1
 zicounts: 1.1.5
 zigg: 0.0.2
-zip: 3.0.0
+zip: 3.0.1
 zipR: 0.1.1
 zipangu: 0.3.3
 zipcode: '1.0'
