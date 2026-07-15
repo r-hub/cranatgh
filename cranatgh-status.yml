@@ -144,7 +144,7 @@ APIS: 2.0.8
 APML: 0.0.5
 APML0: '0.11'
 APPEstimation: 0.1.1
-APRScenario: 0.0.3.1
+APRScenario: 0.0.4.0
 APS: 1.0.1
 APSIM: 0.9.3
 APSIMBatch: 0.1.0.2374
@@ -884,7 +884,7 @@ BiasCorrector: 0.2.3
 BiasedUrn: 2.0.12
 BibPlots: 0.0.8
 BifactorIndicesCalculator: 0.2.2
-BigDataPE: 0.1.0
+BigDataPE: 0.2.0
 BigDataStatMeth: 2.0.3
 BigQuic: 1.1-13
 BigSEM: '0.2'
@@ -1839,7 +1839,7 @@ DAIME: 2.1.3
 DAISIE: 4.6.0
 DAISIEprep: 1.0.1
 DAKS: 2.1-3
-DALEX: 2.5.3
+DALEX: 2.5.4
 DALEX2: '0.9'
 DALEXtra: 2.3.1
 DALSM: 0.9.1
@@ -20186,7 +20186,7 @@ ksrlive: '1.0'
 kssa: 0.0.5
 kst: 0.5-5
 kstIO: 0.5-1
-kstMatrix: 2.3-3
+kstMatrix: 2.3-4
 ktaucenters: 1.0.0
 ktsolve: '1.4'
 ktspair: '1.0'
@@ -22057,7 +22057,7 @@ mlrv: 0.1.2
 mlsbm: 0.99.2
 mlsjunkgen: 0.1.2
 mlspatial: 0.1.1
-mlstats: 0.1.0
+mlstats: 0.1.1
 mlstm: 0.1.7
 mlstrOpalr: 1.0.3
 mlsurvlrnrs: 0.0.8
@@ -25375,7 +25375,7 @@ projector: 0.0.2
 projects: 2.1.3
 projmanr: 0.2.1
 projmgr: 0.1.2
-projoint: 1.1.1
+projoint: 1.1.2
 projpred: 2.10.0
 prolific.api: 0.5.2
 prolsirm: 0.1.1
@@ -26742,7 +26742,7 @@ remoter: 0.4-0
 remotes: 2.5.0
 rempsyc: 0.2.0
 remss: 1.0.1
-remstats: 4.0.0
+remstats: 4.1.0
 remstimate: 3.0.0
 remulate: 2.1.0
 remverse: 0.1.0
@@ -28762,7 +28762,7 @@ shrinkDSM: 1.0.2
 shrinkGPR: 2.0.0
 shrinkTVP: 3.1.2
 shrinkTVPVAR: 1.0.1
-shrinkem: 0.3.0
+shrinkem: 0.4.0
 shrinkr: 0.4.5
 shroomDK: 0.3.0
 shuffle: 1.0.1
