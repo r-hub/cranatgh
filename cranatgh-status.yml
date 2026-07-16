@@ -2285,6 +2285,7 @@ DiscreteFWER: 1.0.0
 DiscreteGapStatistic: 1.1.2
 DiscreteInverseWeibull: 1.0.2
 DiscreteLaplace: 1.1.1
+DiscreteMorseR: 1.0.0
 DiscreteQvalue: '1.1'
 DiscreteTests: 0.4.1
 DiscreteWeibull: '1.1'
@@ -3515,7 +3516,7 @@ GeoDensityR: 0.1.2
 GeoFIS: 1.1.1
 GeoGenetix: 0.0.2
 GeoLight: 2.0.0
-GeoModels: 2.2.5
+GeoModels: 2.2.6
 GeoMongo: 1.0.3
 GeoRange: 0.1.0
 GeoTcgaData: 1.1.1.992
@@ -4213,6 +4214,7 @@ Iscores: 1.2.0
 IsingFit: '0.4'
 IsingSampler: 0.5.0
 Isinglandr: 0.1.1
+IsletCalc: 0.0.1
 Iso: 0.0-21
 IsoCI: '1.1'
 IsoCheck: 0.1.0
@@ -8622,6 +8624,7 @@ SanFranBeachWater: 0.1.0
 SangerTools: 1.0.2
 SanzCircos: 0.1.0
 SaturnCoefficient: '1.6'
+Saylac: 0.1.3
 ScRNAIMM: '0.1'
 Scale: 1.0.4
 ScaleSpikeSlab: '1.0'
@@ -8759,6 +8762,7 @@ SiFINeT: '1.13'
 SiMRiv: 1.0.7
 SiPhyNetwork: 1.1.0
 SiZer: 0.1-8
+SidraFacil: 1.0.2
 Sie2nts: 0.1.0
 Sieve: '2.1'
 SigBridgeRUtils: 0.2.6
@@ -8808,14 +8812,14 @@ SimSurvNMarker: 0.1.3
 SimSurvey: 0.1.8
 SimTOST: 1.0.2
 SimTimeVar: 1.0.0
-SimVitD: 1.0.4
+SimVitD: 1.0.5
 SimilaR: 1.0.8
 SimilarityMeasures: '1.4'
 Simile: 1.3.4
 SimpleTable: 0.1-2
 SimpleUpset: 0.1.5
 SimplexRegression: 0.1.4
-SimplicialComplex: 0.1.0
+SimplicialComplex: 0.1.1
 SimplicialCubature: '1.3'
 SimplifyStats: 2.0.4
 SimplyAgree: 0.3.0
@@ -10413,6 +10417,7 @@ ahocorasick: 0.2.0
 ahp: 0.2.12
 ahpsurvey: 0.4.3
 ahptopsis2n: 0.2.0
+ahull3D: 1.0.0
 ahw: 0.1.0
 ai: 1.0.4.44
 aiDIF: 0.1.0
@@ -10547,7 +10552,7 @@ amei: 1.0-7
 amelie: 0.2.1
 amen: 1.4.5
 amer: 0.6.10
-ameras: 0.4.0
+ameras: 0.5.1
 amerifluxr: 1.0.0
 amerika: 0.1.1
 ami: 0.2.1
@@ -11185,6 +11190,7 @@ basicdrm: 0.3.2
 basicspace: '0.25'
 basictabler: 1.0.4
 basifoR: 0.7.8
+basil: 0.1.0
 basket: 0.10.11
 baskexact: 1.0.1
 baskoptr: 1.0.4
@@ -13813,6 +13819,7 @@ csv: 0.6.2
 csvread: 1.2.3
 csvwr: 0.1.7
 csvy: 0.3.0
+ct: 0.4.0
 ctDNAtools: 0.4.0
 cta: 1.3.0
 ctablerseh: 1.1.2
@@ -15002,6 +15009,7 @@ dstat2x2xk: 0.2.0
 dtComb: 1.0.8
 dtGAP: 0.0.2
 dtables: 0.2.0
+dtametaTMB: 0.1.0
 dtangle: 2.0.9
 dtaudit: 0.1.1
 dtgiw: 1.1.0
@@ -15159,6 +15167,7 @@ earthdatalogin: 0.0.5
 earthtide: 0.1.8
 earthtones: 0.2.0
 easi: '0.2'
+easieRnmt: 0.0.5
 easingr: 1.0.1
 easy.glmnet: '1.1'
 easy.utils: 0.1.0
@@ -16671,7 +16680,7 @@ fntl: 0.1.2
 foba: '0.1'
 focus: 0.1.8
 focusedMDS: 1.3.3
-foghorn: 1.6.1
+foghorn: 1.6.2
 foieGras: 0.7-6
 fold: 0.2.6
 folda: 0.2.0
@@ -17785,6 +17794,7 @@ ggskewboxplots: 1.0.0
 ggsky: 0.1.0
 ggsmc: 0.2.0
 ggsn: 0.5.0
+ggsnap: 0.1.2
 ggsoccer: 0.2.0
 ggsolvencyii: 0.1.2
 ggsom: 0.4.0
@@ -19067,7 +19077,7 @@ iFad: '3.0'
 iFes: '1.0'
 iForecast: 1.1.2
 iGSEA: '1.2'
-iGasso: 1.6.1
+iGasso: 1.6.2
 iGenomicViewer: 2.4.8
 iGraphMatch: 2.0.5
 iIneq: 1.0.2
@@ -19344,6 +19354,7 @@ imprinting: 0.1.1
 imptree: 0.5.1
 imputation: 2.0.1
 impute: 1.26.0
+imputeCGM: 0.0.3
 imputeFin: 0.1.2
 imputeGeneric: 0.1.0
 imputeLCMD: '2.1'
@@ -19931,6 +19942,7 @@ jsonlite: 2.0.0
 jsonstat: 0.0.2
 jsontools: 0.1.0
 jsonvalidate: 1.5.0
+jsplyr: 0.1.0
 jsr223: 0.3.4
 jstable: 1.3.25
 jstager: 0.0.6
@@ -20682,7 +20694,7 @@ lmbc: 0.9.1
 lmboot: 0.0.1
 lmds: 0.1.0
 lme: 3.1-0
-lme4: 2.0-1
+lme4: 2.0-6
 lme4GS: '0.1'
 lme4breeding: 1.1.3
 lmeInfo: 0.3.2
@@ -20853,6 +20865,7 @@ loopevd: 1.0.2
 loopr: 1.0.1
 loose.rock: 1.2.0
 lorad: 0.0.1.0
+lorax: 0.1.0
 lorbridge: 0.1.1
 lordif: 0.4.2
 lorec: 0.6.1
@@ -21815,6 +21828,7 @@ mined: 1.0-3
 minerva: 1.5.10
 minesweeper: 1.0.1
 minet: 3.6.0
+minex: 0.1.0
 mini007: 0.4.0
 miniCRAN: 0.3.2
 miniGUI: 0.8-1
@@ -21955,6 +21969,7 @@ mixpack: 0.3.6
 mixpoissonreg: 1.0.0
 mixpower: 1.1.1
 mixqr: 0.2.0
+mixqrgate: 0.1.2
 mixreg: 2.0-10
 mixsep: 0.2.1-2
 mixsmsn: 1.1-12
@@ -22182,6 +22197,7 @@ modelfactory: 1.0.0
 modelfree: 1.2.1
 modelgrid: 1.2.0
 modelimpact: 1.1.0
+modelimportance: 0.1.0
 modellingTools: 0.1.0
 modello: 0.1.1
 modelplotr: 1.1.0
@@ -22792,6 +22808,7 @@ nFactors: 2.4.1.2
 nFunNN: '1.0'
 nJira: 0.1.1
 nLTT: 1.4.10
+nQuack: 1.0.4
 nRegression: 0.5.1
 nTARP: 0.1.0
 nVennR: 0.2.3
@@ -23021,6 +23038,7 @@ neuronorm: 1.0.2
 neuropsychology: 0.5.0
 neurovault: 0.5.5
 neutralitytestr: 0.0.3
+neutroPPS: 0.1.1
 neutroSurvey: 0.1.0
 neutrostat: 0.0.2
 nev: 1.0.0.0
@@ -23031,7 +23049,7 @@ newFocus: '1.1'
 newIMVC: 0.1.0
 newTestSurvRec: 1.0.2
 newallelic: '0.1'
-newmark: 1.1.0
+newmark: 1.3.0
 newsanchor: 0.1.1
 newscatcheR: 0.1.2
 newsmap: 0.9.2
@@ -23439,6 +23457,7 @@ nvctr: 0.1.7
 nvis: 0.2.1
 nvmix: 0.1-2
 nws: 1.7.0.1
+nwsrfsr: 1.0.0
 nycOpenData: 0.2.2
 nycflights13: 1.0.2
 nycflights23: 0.2.0
@@ -23548,7 +23567,7 @@ oews2020: 1.0.0
 oews2021: 1.0.0
 ofGEM: '1.0'
 officedown: 0.4.1
-officer: 0.7.5
+officer: 0.7.6
 offlineChange: 0.0.4
 offsetreg: 1.2.0
 ofhsyn: 0.1.1
@@ -24003,7 +24022,7 @@ pacta.multi.loanbook: 0.1.1
 pacu: 0.1.74
 pacviz: 1.0.4
 paddleR: 0.1.2
-padr: 0.6.3
+padr: 0.7.0
 paf: '1.0'
 pafdR: '1.0'
 pafr: 0.0.2
@@ -25124,7 +25143,7 @@ powerHaDeX: '1.0'
 powerLATE: 0.1.2
 powerMediation: 0.3.4
 powerNLSEM: 0.1.2
-powerPLS: 0.2.1
+powerPLS: 0.2.2
 powerSurvEpi: 0.1.5
 powerbiR: 0.1.0
 powerbrmsINLA: 1.3.0
@@ -25435,6 +25454,7 @@ provParseR: '1.0'
 provSummarizeR: 1.5.1
 provTraceR: '1.0'
 provViz: 1.0.9
+prova: 1.0.0
 provenance: '4.4'
 proverbs: 0.4.0
 provolleyballr: 0.1.0
@@ -25759,7 +25779,7 @@ qtkit: 1.1.1
 qtl: '1.74'
 qtl2: '0.44'
 qtl2convert: '0.34'
-qtl2fst: '0.30'
+qtl2fst: '0.32'
 qtl2ggplot: 1.2.6
 qtl2pattern: 1.2.1
 qtl2pleio: 1.4.4
@@ -26478,9 +26498,10 @@ rdryad: 1.0.0
 rdss: 1.0.14
 rdstagger: 0.1.0
 rdtLite: '1.4'
+rdtools: 0.1.0
 rdwd: 1.9.17
 rdwplus: 1.0.1
-rdyncall: 0.10.0
+rdyncall: 0.10.1
 re: 0.1.0
 re2: 0.1.4
 re2r: 0.2.0
@@ -26696,6 +26717,7 @@ regsubseq: '0.12'
 regtest: '0.05'
 regtomean: 1.2.1
 regtools: 1.7.0
+regulog: 0.2.1
 regweight: 1.0.2
 rehh: 3.2.3
 rehh.data: 1.0.1
@@ -26863,6 +26885,7 @@ resultcheck: 0.2.1
 resumer: 0.0.5
 resumiR: 1.0.2
 retel: 0.1.1
+retentionflow: 0.1.25
 rethinker: 2.0.0
 rethnicity: 0.2.7
 reticulate: 1.46.0
@@ -27078,7 +27101,7 @@ rirods: 0.2.0
 ris: '1.2'
 risaac: '0.1'
 rise: 1.0.4
-risk.assessr: 4.1.1
+risk.assessr: 4.1.2
 riskCommunicator: 1.0.1
 riskParityPortfolio: 0.2.2
 riskPredictClustData: 0.2.6
@@ -27388,6 +27411,7 @@ romic: 1.3.3
 ronfig: 0.0.10
 rootSolve: 1.8.2.4
 rootWishart: 0.4.1
+rootWishartHD: 0.95.2
 roots: '1.0'
 rope: '1.0'
 ropenaq: 0.2.11
@@ -29226,7 +29250,7 @@ softbib: 0.0.2
 softclassval: 1.1.0
 softermax: 0.3.0
 softmaxreg: '1.2'
-softwareRisk: 0.2.0
+softwareRisk: 0.3.0
 soil.spec: 2.1.4
 soilDB: 2.9.2
 soilFlux: 0.1.5
@@ -30710,7 +30734,7 @@ tesouror: 0.2.3
 tessellation: 2.3.0
 tesselle: 1.7.0
 tesseract: 5.2.5
-test.assessr: 2.1.2
+test.assessr: 2.1.3
 test2norm: 0.3.0.1
 testCompareR: 1.1.1
 testComplexity: 0.1.1
@@ -31302,7 +31326,7 @@ trajectories: 0.2-10
 trajmsm: 0.1.5
 trajr: 1.5.1
 traktok: 0.1.1
-tram: 1.4-3
+tram: 1.4-4
 tramME: 1.0.8
 tramicp: 0.1-0
 tramnet: 0.0-991
