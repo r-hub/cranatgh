@@ -60,6 +60,7 @@ AFM: '2.0'
 AFR: 0.3.9
 AFheritability: 0.1.0
 AGBQR: 0.1.0
+AGCA4extremes: 0.1.0
 AGD: 0.45.0
 AGHmatrix: 2.1.4
 AGPRIS: '2.0'
@@ -5491,7 +5492,7 @@ MoonFinder: 1.0.3
 MoonShineR: 1.1.0
 MorphSim: 1.2.0
 Morpho: '2.13'
-MorphoRegions: 0.1.0
+MorphoRegions: 0.2.0
 MorphoTools2: 1.0.2.1
 Morphoscape: 1.0.2
 MorseGen: '1.2'
@@ -5895,7 +5896,7 @@ OORRT: 0.1.0
 OOS: 1.0.0
 OOmisc: '1.2'
 OPC: 0.0.2
-OPCreg: 3.0.0
+OPCreg: 4.0.2
 OPDOE: 1.0-10
 OPE: '0.7'
 OPI: 3.1.1
@@ -9696,6 +9697,7 @@ UnalR: 1.0.1
 UncDecomp: 1.0.1
 UncerIn2: '2.0'
 UncertainInterval: 0.7.0
+UniCensor: 0.1.0
 UniDOE: 1.0.2
 UniExactFunTest: 1.0.1
 UniIsoRegression: 0.0-0
@@ -11315,7 +11317,7 @@ bbmix: 1.0.0
 bbmle: 1.0.25.1
 bbnet: 1.2.1
 bbo: '0.2'
-bbotk: 1.11.0
+bbotk: 1.12.0
 bbreg: 2.0.2
 bbricks: 0.1.4
 bbsBayes: 2.5.3
@@ -13593,7 +13595,7 @@ cowbell: 0.1.0
 cowfootR: 0.1.3
 cowplot: 1.2.0
 cowsay: 1.2.2
-cox.rvph: 0.1.2
+cox.rvph: 0.1.3
 coxed: 0.3.3
 coxerr: '1.1'
 coxinterval: '1.2'
@@ -14995,6 +14997,7 @@ dsmSearch: 1.2.4
 dsmisc: 0.3.3
 dsmmR: 1.0.7
 dsmodels: 1.1.0
+dsn: 0.1.0
 dsos: 0.1.2
 dsp: 1.5.1
 dspline: 1.0.4
@@ -17044,7 +17047,7 @@ g.data: 2.4.1
 g.ridge: '1.0'
 g2f: '0.2'
 g3viz: 1.2.0
-g6R: 0.6.0
+g6R: 0.6.5
 gCat: '0.2'
 gDefrag: '0.3'
 gFormulaMI: 1.0.3
@@ -17569,6 +17572,7 @@ ggThemeAssist: 0.1.5
 ggTimeSeries: 1.0.2
 ggVennDiagram: 1.5.7
 ggWebGL: 0.8.0
+ggadjustedforest: 0.1.0
 ggalign: 1.2.0
 ggaligner: '0.1'
 ggalignment: 1.0.2
@@ -17790,6 +17794,7 @@ ggseqplot: 0.8.9
 ggshadow: 0.0.5
 ggside: 0.4.1
 ggsignif: 0.6.4
+ggsketch: 2.0.0
 ggskewboxplots: 1.0.0
 ggsky: 0.1.0
 ggsmc: 0.2.0
@@ -18247,7 +18252,7 @@ greatR: 2.1.0
 grec: 1.6.4
 greed: 0.6.2
 greekLetters: 1.0.4
-greeks: 1.5.3
+greeks: 1.5.6
 greenR: 0.0.1.7
 greenSD: 0.2.0
 greenbook: 0.1.0
@@ -18854,6 +18859,7 @@ homnormal: '0.1'
 homologene: 1.4.68.19.3.27
 homomorpheR: '0.3'
 homtest: 1.0-5
+hood2net: 1.0.0
 hoopR: 3.0.0
 hopach: 2.12.0
 hopbyhop: '3.41'
@@ -18947,7 +18953,7 @@ httpuv: 1.6.17
 httr: 1.4.8
 httr2: 1.3.0
 hubEnsembles: 1.0.0
-hubEvals: 0.3.0
+hubEvals: 0.3.1
 hubUtils: 1.2.1
 hubeau: 0.5.2
 hudr: 1.2.0
@@ -19992,7 +19998,7 @@ kappaSize: '1.2'
 kappalab: 0.4-12
 kaps: 1.0.2
 karaoke: '3.0'
-kardl: 2.0.2
+kardl: 2.0.4
 karel: 0.1.1
 karlen: 0.0.2
 karyotapR: 1.0.2
@@ -20605,6 +20611,7 @@ lineup: '0.46'
 lineup2: '0.8'
 lineupjs: 4.6.0
 linevis: 1.0.0
+lingamr: 0.1.2
 lingdist: '1.0'
 lingglosses: 0.0.11
 lingmatch: 1.0.7
@@ -22104,7 +22111,7 @@ mmcards: 0.1.1
 mmcif: 0.1.1
 mmcm: 1.2-8
 mmcmcBayes: 0.2.0
-mmconvert: '0.12'
+mmconvert: '0.14'
 mmds: '1.1'
 mme: 0.1-6
 mmeln: '1.5'
@@ -23075,6 +23082,7 @@ ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
 nhanesA: 1.4.1
+nhanesR: 0.1.5
 nhanesdata: 0.2.2
 nhanesdiva: 1.0.1
 nhdR: 0.6.1
@@ -23664,7 +23672,7 @@ oompaData: 3.1.5
 ooplah: 0.2.0
 oops: 0.2.0
 oosp: 0.3.3
-oosse: 1.0.11
+oosse: 1.0.12
 oottest: 0.9.1
 opGMMassessment: 0.4.1
 opImputation: '0.6'
@@ -27061,6 +27069,7 @@ ridgregextra: 0.1.1
 ridigbio: 0.4.1
 ridittools: '0.1'
 riem: 1.0.0
+riemannianStats: 0.1.1
 riemstats: 0.2.0
 riemtan: 0.2.5
 rif: 0.2.0
@@ -30429,6 +30438,7 @@ sybilEFBA: 1.0.2
 sybilSBML: 3.1.2
 sybilccFBA: 3.0.1
 sybilcycleFreeFlux: 2.0.2
+sybilion: 0.1.0
 sylcount: 0.2-6
 syllabifyr: 0.1.1
 syllable: 0.1.3
