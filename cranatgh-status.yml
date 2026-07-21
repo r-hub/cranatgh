@@ -1826,7 +1826,7 @@ D3GB: '2.0'
 D3M: 0.41.1
 D3mirt: 2.1.0
 D3partitionR: 0.5.0
-D4TAlink.light: 2.1.21
+D4TAlink.light: 2.1.22
 DA: 1.2.0
 DA.MRFA: 1.1.2
 DAAG: 1.25.7
@@ -4940,7 +4940,7 @@ MHTmult: 0.1.0
 MHTrajectoryR: 1.0.1
 MHadaptive: 1.1-8
 MIAmaxent: 1.4.1
-MIC: 2.0.0
+MIC: 2.0.1
 MICsplines: '1.0'
 MIDASim: '2.0'
 MIDASwrappeR: 0.5.1
@@ -5956,7 +5956,7 @@ OhdsiReportGenerator: 2.2.0
 OhdsiShinyAppBuilder: 1.0.0
 Ohit: 1.0.0
 Ohmage: 2.11-4.1
-OjaNP: 1.0-0
+OjaNP: '2.0'
 OkNNE: 1.0.1
 OligoSpecificitySystem: '1.3'
 OlinkAnalyze: 5.0.2
@@ -6557,7 +6557,7 @@ PlayerChart: 1.0.0
 PlayerRatings: 1.1-0
 PlotBivInvGaus: 0.1.0
 PlotContour: 0.1.0
-PlotFTIR: 1.2.1
+PlotFTIR: 1.3.0
 PlotNormTest: 1.0.1
 PlotPrjNetworks: 1.0.0
 PlotRegionHighlighter: '1.0'
@@ -8683,6 +8683,7 @@ SelectBoost.FDA: 0.5.0
 SelectBoost.beta: 0.4.5
 SelectBoost.gamlss: 0.2.2
 SelectBoost.quantile: 0.3.1
+SelectSim: 0.1.6
 SelectionBias: 2.1.0
 SelfControlledCaseSeries: 6.1.5
 SelfControlledCohort: 2.0.0
@@ -9290,7 +9291,7 @@ TLCAR: 0.1.1
 TLIC: '0.4'
 TLMoments: 0.7.5.3
 TLdating: 0.1.3
-TMB: 1.9.21
+TMB: 1.9.22
 TMDb: '1.1'
 TML: 2.3.0
 TMTI: 1.0.3
@@ -11253,6 +11254,7 @@ bayesRecon: 1.0.1
 bayesSSM: 0.7.1
 bayesSurv: '3.8'
 bayesTFR: 7.4-4
+bayesTLS: 1.0.0
 bayesWatch: 0.1.4
 bayesZIB: 0.0.5
 bayesammi: 0.3.0
@@ -11647,7 +11649,7 @@ bioSNR: '1.0'
 bioacoustics: 0.2.10
 bioassays: 1.0.1
 biobricks: 0.2.2
-biocharkit: 0.2.0
+biocharkit: 0.3.0
 bioclim: 0.4.0
 biocompute: 1.1.1
 biodosetools: 3.7.2
@@ -11954,7 +11956,7 @@ bpDir: 0.1.2
 bpa: 0.1.1
 bpbounds: 0.1.8
 bpca: 1.5-0
-bpcp: 1.5.1
+bpcp: 1.5.4
 bpcs: 1.0.0
 bpgmm: 1.3.1
 bpkde: 1.0-7
@@ -12175,7 +12177,7 @@ cPseudoMaRg: 1.0.1
 cRegulome: 0.3.2
 cSEM: 0.6.1
 cSFM: '1.1'
-cTMed: 1.0.9
+cTMed: 1.0.10
 cTOST: 1.0.1
 ca: 0.71.1
 caGUI: 0.1-4
@@ -13643,7 +13645,7 @@ cpp11bigwig: 0.3.1
 cpp11eigen: 0.2.0
 cpp11qpdf: 1.3.5
 cpp11tesseract: 5.3.5
-cpp4r: 1.0.0
+cpp4r: 1.1.0
 cppRouting: '3.2'
 cppSim: '0.2'
 cppally: 1.1.0
@@ -13752,6 +13754,7 @@ crossvalidationCP: '1.1'
 crosswalkr: 0.4.0
 crossword.r: 0.3.6
 crov: 0.3.0
+crownmetrics: 0.1.0
 crownsegmentr: 1.0.1
 crp.CSFP: 2.0.2
 crplyr: 0.4.2
@@ -14100,6 +14103,7 @@ dataframe: '2.5'
 dataframeexplorer: 1.0.2
 dataframes2xls: 0.4.7
 datafsm: 0.2.4
+dataganger: 0.6.1
 datagovindia: 1.0.5
 datagovsgR: 1.0.1
 datalist: '0.2'
@@ -14976,6 +14980,7 @@ drughelper: 0.2.0
 drugprepr: 0.0.4
 drugsens: 0.1.0
 drumr: 0.1.0
+dryingkineticmodels: 1.0.0
 ds: '4.0'
 ds4psy: 1.3.0
 dsBase: 6.3.5
@@ -16879,6 +16884,7 @@ freewall: 1.0.0
 frenchCurve: 0.2.0
 frenchdata: 0.2.0
 freqMAP: '0.2'
+freqTLS: 0.1.0
 freqdist: '0.1'
 freqdistributionNogives: 0.1.1
 freqdom: 2.0.5
@@ -18249,6 +18255,7 @@ graposas: 1.0.0
 grasp: 2.5-7
 grasper: 0.4-4
 grasps: 0.1.1
+grassr: 0.7.4
 grateful: 0.3.0
 grates: 1.8.0
 gratia: 0.11.2
@@ -18936,6 +18943,7 @@ htetree: 0.1.23
 htm2txt: 2.2.2
 htmcglm: 0.0.1
 html2R: 0.1.0
+html2excel: 1.0.1
 html2pdfR: 0.1.0
 html5: 1.0.2
 htmlTable: 2.5.0
@@ -19602,6 +19610,7 @@ inum: 1.0-5
 invGauss: '1.2'
 invLT: 0.2.1
 invacost: 1.1-7
+invasible: 0.1.0
 invctr: 0.2.0
 inventorize: 1.1.2
 inverseRegex: 0.2.0
@@ -19804,6 +19813,7 @@ ivpack: '1.2'
 ivpanel: '1.0'
 ivprobit: '1.1'
 ivreg: 0.6-8
+ivreg2r: 0.1.0
 ivregEX: '1.0'
 ivs: 0.2.0
 ivsacim: 2.1.0
@@ -20283,6 +20293,7 @@ lacunr: 1.0.2
 ladder: 0.0.3
 laeken: 0.5.3
 laercio: 1.0-1
+lagdynamics: '0.32'
 lagged: 0.3.2
 lago: 0.1-1
 lagsarlmtree: 1.0-2
@@ -20526,7 +20537,7 @@ lfactors: 1.0.4
 lfc: 0.2.3
 lfda: 1.1.3
 lfe: 3.1.1
-lfebd3: 0.2.0
+lfebd3: 0.3.0
 lfl: 2.4.0
 lfmm: '1.1'
 lfproQC: 1.4.3
@@ -22076,7 +22087,7 @@ mlr3fselect: 1.6.0
 mlr3hyperband: 1.1.0
 mlr3inferr: 0.2.1
 mlr3learners: 0.15.0
-mlr3mbo: 1.1.1
+mlr3mbo: 1.2.0
 mlr3measures: 1.3.0
 mlr3misc: 0.22.0
 mlr3oml: 0.12.0
@@ -22719,7 +22730,7 @@ mutationtypes: 0.0.1
 mutatr: 0.1.2
 mutoss: 0.1-14
 mutossGUI: 0.1-12
-muttest: 0.2.1
+muttest: 0.3.0
 mutualinf: 2.0.4
 mvBayes: 1.2.1
 mvDFA: 0.0.4
@@ -23505,6 +23516,7 @@ oaPlots: 0.0.25
 oai: 0.4.0
 oaii: 0.5.0
 oak: 0.2.3
+oalasso: 1.0.0
 oapackage: 2.0.23
 oaqc: 2.0.0
 oasis: 3.0.4
@@ -24785,7 +24797,7 @@ pkgnet: 0.6.0
 pkgnews: 0.0.2
 pkgsearch: 3.1.5
 pkgsite: 0.1.0
-pkgstats: 0.2.3
+pkgstats: 0.2.4
 pkgutils: 0.6.0
 pkgverse: 0.0.1
 pkmapr: 1.4.0
@@ -25398,7 +25410,7 @@ productivity: 1.1.0
 productplots: 0.1.2
 productshotaiR: 0.1.0
 prof.tree: 0.1.0
-profExtrema: 0.2.1
+profExtrema: 0.2.2
 profanal: 1.0-1
 profdpm: '3.3'
 proffer: 0.2.2
@@ -25736,7 +25748,7 @@ qkiosk: 0.2.31
 qlcData: '0.3'
 qlcMatrix: 0.9.9
 qlcVisualize: '0.4'
-qlcal: 0.1.2
+qlcal: 0.1.3
 qle: '0.18'
 qlifetable: 0.0.2-6
 qlspack: '2.2'
@@ -25802,7 +25814,7 @@ qtbi: 0.1.2
 qte: 1.3.1
 qtkit: 1.1.1
 qtl: '1.74'
-qtl2: '0.44'
+qtl2: '0.46'
 qtl2convert: '0.36'
 qtl2fst: '0.32'
 qtl2ggplot: 1.2.6
@@ -27060,6 +27072,7 @@ rhype: 0.3.0
 ri: '0.9'
 ri2: 0.4.1
 riAFTBART: 0.3.3
+ria.test: 0.2.1
 rib: 0.30.4
 ribd: 1.7.1
 ribiosArg: 1.5.0
@@ -27448,6 +27461,7 @@ ropensecretsapi: 1.0.1
 ropensnp: 0.0.3
 roperators: 1.4.0
 ropercenter: 0.3.2
+ropper: '0.2'
 roprov: 0.1.2
 roptim: 0.1.7
 roptions: 1.0.3
@@ -27850,6 +27864,7 @@ rwavelet: 0.4.1
 rwc: '1.12'
 rwebstat: 1.1.1
 rwetools: 0.2.0
+rwevalidate: 0.1.2
 rwfec: '0.2'
 rwhatsapp: 0.2.4
 rwicc: 0.2.0
@@ -29972,6 +29987,7 @@ statsguRu: 0.1.1
 statsr: 0.3.0
 statswalesr: 1.0.0
 statuser: 0.3.1
+statwitness: 0.1.0
 stbimageheaders: 0.1.0
 stbl: 0.3.0
 stcm: 0.1.1
@@ -29988,6 +30004,7 @@ stdvectors: 0.0.5
 steadyICA: 1.0.1
 steemr: 0.1.3
 steepness: 0.3-0
+steinsampling: 0.1.0
 stelfi: 1.0.2
 stellaR: 0.3-6
 stellaRbase: 0.1.0
@@ -30016,7 +30033,7 @@ stevedata: 1.8.0
 stevedore: 0.9.6
 stevemisc: 1.9.0
 steves: 0.1.1
-stevetemplates: 1.3.0
+stevetemplates: 1.4.0
 stevethemes: 0.1.0
 stfit: 0.99.9
 stgam: 1.2.0
@@ -30326,6 +30343,7 @@ surveysd: 2.0.3
 surveysearch: 0.1.0
 surveytable: 0.9.10
 surveytidy: 0.6.0
+surveyverse: 0.1.1
 surveyvoi: 1.1.1
 survidm: 1.3.2
 survinger: 0.1.1
@@ -31344,7 +31362,7 @@ trade: 0.8.3
 tradeCosts: 0.3-1
 tradeoffaucdim: 0.2.0
 tradepolicy: 0.8.0
-tradestatistics: 7.0.0
+tradestatistics: 7.1.0
 trafficCAR: 0.1.1
 trafo: 1.0.1
 trainR: 0.0.1
@@ -32720,6 +32738,7 @@ xgxr: 1.1.2
 xhaz: 2.1.0
 xhmmScripts: '1.1'
 xiacf: 0.6.2
+ximage: 0.1.0
 xkcd: 0.1.0
 xkcdcolors: '1.0'
 xlcharts: 0.0.2
