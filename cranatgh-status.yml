@@ -5337,6 +5337,7 @@ MetaCycle: 1.2.1
 MetaDBparse: 2.0.0
 MetaDE: 1.0.5
 MetaDose: 1.0.1
+MetaEEEA: 1.0.0
 MetaEntropy: '1.3'
 MetaHD: 0.1.6
 MetaHunt: 0.1.0
@@ -6934,6 +6935,7 @@ RAPTOR: 1.0.1
 RAQSAPI: 2.0.5
 RARfreq: 0.1.5
 RARtrials: 0.0.2
+RAS: 1.0.3
 RAT: 0.3.1
 RATest: 0.1.10
 RAZIAD: 0.0.1
@@ -7774,7 +7776,7 @@ Rdsdp: 1.0.6
 Rdsm: 2.1.1
 Rdta: 1.0.1
 Rdtq: '0.1'
-Rduckhts: 1.4.0-0.1.0
+Rduckhts: 1.5.0-0.1.0
 Rduino: '0.1'
 Rduinoiot: 0.1.0
 Rdune: 1.1.1
@@ -8473,7 +8475,7 @@ SPADAR: '1.0'
 SPARQL: '1.16'
 SPARRAfairness: 0.1.0.0
 SPARSEMODr: 1.2.0
-SPARTAAS: 1.2.6
+SPARTAAS: 1.2.7
 SPAS: 2026.4.1
 SPAr: '0.1'
 SPAtest: 3.1.2
@@ -10203,6 +10205,7 @@ acer: 0.1.2
 acfMPeriod: 1.1.0
 achieveGap: 0.1.0
 acid: '1.1'
+ackwards: 0.1.1
 acled.api: 1.1.8
 acledR: 1.0.1
 aclhs: 1.0.1
@@ -10307,6 +10310,7 @@ adestr: 1.0.0
 adfExplorer: 2.1.0
 adformR: 0.1.0
 adheRenceRX: 1.0.0
+adheaping: 1.0.0
 adhoc: '1.1'
 adimpro: 0.9.7.2
 adiv: 2.2.1
@@ -12561,6 +12565,7 @@ cesR: 0.1.0
 ceser: 1.0.0
 cetcolor: 0.2.0
 ceterisParibus: '0.6'
+cevcmm: 0.1.3
 cfa: 0.10-2
 cfbfastR: 2.0.0
 cfda: 0.12.1
@@ -16114,7 +16119,7 @@ facomplex: 0.0.3
 factReg: 1.0.0
 factas: '2.3'
 factiv: 0.1.0
-factoextra: 2.1.0
+factoextra: 2.2.0
 factoptd: 1.0.3
 factor.switching: '1.4'
 factor256: 0.1.0
@@ -16760,6 +16765,7 @@ forecastHybrid: 5.1.21
 forecastLSW: 1.1.1
 forecastML: 0.9.0
 forecastSNSTS: 1.3-0
+forecastdom: 0.1.0
 forecasteR: 3.0.2
 forecasting: '1.26'
 forega: 1.0.3
@@ -18686,6 +18692,7 @@ heatmap.plus: '1.3'
 heatmap3: 1.1.9
 heatmapFit: 2.0.4
 heatmapFlex: 0.1.2
+heatmapbehavior: 0.1.0
 heatmaply: 1.6.0
 heattree: 0.3.1
 heatwaveR: 0.5.5
@@ -21286,7 +21293,7 @@ marsrad: 1.0.1
 marsruntime: 0.0.0
 mas: '0.4'
 masc: 0.1.0
-mascarade: 0.4.1
+mascarade: 0.4.2
 mase: 0.1.5.2
 mashr: 0.2.79
 maskRangeR: '1.1'
@@ -22652,6 +22659,7 @@ multideploy: 0.1.0
 multidplyr: 0.1.4
 multifamm: 0.1.1
 multifear: 0.1.5
+multiflexscan: 0.1.0
 multifluo: '1.1'
 multifunc: 0.9.4
 multifwf: 0.2.2
@@ -23561,6 +23569,7 @@ obliqueRF: '0.3'
 obliqueRSF: 0.1.2
 obm: '2.1'
 obr: 0.2.5
+obrasgovr: 0.1.0
 obs.agree: '1.0'
 obsSens: '1.4'
 observationalBlocks: 1.0.0
@@ -26186,7 +26195,7 @@ rWishart: 0.1.2
 rYWAASB: 0.4.1
 rYoutheria: 1.0.3
 ra4bayesmeta: 1.0-8
-rabhit: 0.2.5
+rabhit: 0.4.0
 rabi: 1.0.2
 racademyocean: 0.3.3
 race: 0.1.59
@@ -28467,6 +28476,7 @@ seliNDRIx: 0.1.2
 sem: 3.1-16
 semEff: 0.7.2
 semEffect: 1.2.3
+semFromKeys: 0.2.2
 semGOF: 0.2-0
 semPLS: 1.0-10
 semPlot: 1.2.0
@@ -31430,7 +31440,7 @@ transDA: 1.0.2
 transGFM: 1.0.2
 transPlotR: 0.0.2
 transcribeR: 0.0.0
-transfR: 1.1.12
+transfR: 1.1.18
 transforEmotion: 0.1.7
 transform.hazards: 0.1.1
 transformer: 0.2.0
@@ -31671,6 +31681,7 @@ ttestshiny: 0.1.0
 tth: 4.16-0
 ttime: 1.2.5
 ttrTests: '1.7'
+tts.api: 0.3.0
 ttservice: 0.5.3
 ttt: '1.0'
 tttplot: 1.1.1
@@ -32238,7 +32249,7 @@ viscomplexr: 1.1.2
 visdat: 0.6.0
 visit: '2.2'
 vismeteor: 3.0.1
-vismi: 0.9.5
+vismi: 1.0.0
 visor: 0.1.1
 visova: '1.1'
 visreg: 2.8.1
