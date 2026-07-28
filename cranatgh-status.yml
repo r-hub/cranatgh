@@ -2112,7 +2112,7 @@ DTwrappers2: 0.0.3
 DUBStepR: 1.2.0
 DUToolkit: 1.0.2
 DVHmetrics: 0.4.3
-DWBmodelUN: 1.0.0
+DWBmodelUN: 2.0.1
 DWD: '0.11'
 DWDLargeR: 0.2-0
 DWLS: 0.1.0
@@ -3507,7 +3507,7 @@ GeneticSubsetter: '0.8'
 GeneticTools: 0.3.1
 GenoPop: 1.0.0
 GenoScan: '0.1'
-GenoTriplo: 1.1.3
+GenoTriplo: 2.2.1
 GenomeAdapt: 1.0.0
 GenomeAdmixR: 2.1.13.2
 GenomicMating: '2.0'
@@ -4497,6 +4497,7 @@ LIHKGr: 0.1.0
 LIHNPSD: 0.2.1
 LIM: 1.4.7.2
 LINselect: 1.1.6
+LISTC: 1.0.0
 LISTO: 0.8.1
 LIStest: '2.1'
 LJexm: 1.0.5
@@ -5552,6 +5553,7 @@ MultiCOAP: '1.1'
 MultiChIPmixHMM: '5.0'
 MultiClassROC: 0.1.0
 MultiDiscreteRNG: 0.1.0
+MultiEFM: 0.1.3
 MultiFit: 1.1.1
 MultiGHQuad: 1.2.0
 MultiGlarmaVarSel: '1.0'
@@ -6549,6 +6551,7 @@ PhysioIndexR: 0.1.0
 PhytoIn: 0.2.0
 PhytosanitaryCalculator: 1.1.3
 PiC: 3.3.1
+PiChange: 0.0.6
 PieGlyph: 1.1.0
 PieceExpIntensity: 1.0.4
 Pijavski: 1.0.5
@@ -9722,6 +9725,7 @@ UncDecomp: 1.0.1
 UncerIn2: '2.0'
 UncertainInterval: 0.7.0
 UniCensor: 0.1.0
+UniCensorEM: 0.1.0
 UniDOE: 1.0.2
 UniExactFunTest: 1.0.1
 UniIsoRegression: 0.0-0
@@ -10404,6 +10408,7 @@ agce: '1.2'
 agcounts: 0.7.0
 ageg: 1.0.0
 agena.ai: 1.1.2
+agenticr: 0.3.3
 agentr: 0.2.8.4
 ageprior: 0.9.2
 ageutils: 0.1.2
@@ -10981,6 +10986,7 @@ aum: 2024.6.19
 aurelius: 0.8.4
 aurin: 0.6.0
 aurora: 0.1.12
+ausOpenData: 0.1.0
 ausplotsR: 2.0.5
 auteur: 0.12.1010
 auth0: 0.3.0
@@ -12498,6 +12504,7 @@ cdiWG2WS: 0.2.0
 cdid: 0.1.1
 cdlTools: '1.13'
 cdlei: '1.0'
+cdlogit: 1.0.0
 cdlsim: 0.1.0
 cdmTools: 1.0.6
 cdmetapopR: 1.0.0
@@ -12773,6 +12780,7 @@ circacompare: 0.2.0
 circglmbayes: 1.3.0
 circhelp: '1.1'
 circle: 0.7.4
+circlecorR: 0.1.0
 circles: 0.1.0
 circlesplot: 1.1.0
 circletyper: 1.0.2
@@ -14603,6 +14611,7 @@ difconet: 1.0-4
 diff: 1.0.2
 diffEnrich: 0.1.2
 diffEq: 1.0-1
+diffHTS: 0.1.0
 diffIRT: '1.5'
 diffMeanVar: 0.0.6
 diffMeshGP: 0.1.1
@@ -15268,6 +15277,7 @@ ebGenotyping: 2.0.1
 ebSNP: '1.0'
 ebTobit: 1.0.2
 eba: 1.10-1
+ebaTools: 0.1.0
 ebal: 0.2.1
 ebci: 1.0.0
 ebdbNet: 1.2.8
@@ -16696,6 +16706,7 @@ fluoSurv: 1.0.0
 fluorojip: 0.1.1
 fluspect: 1.0.0
 flux: 0.3-0.1
+fluxCore: 2.0.0
 fluxfinder: 1.2.2
 fluxfixer: 1.1.0
 fluxible: 1.4.0
@@ -19071,6 +19082,7 @@ hydroeval: 0.1.0
 hydrogeo: 0.6-1
 hydrolinks: 0.10.0
 hydroloom: 1.2.0
+hydromeso: 0.1.0
 hydropeak: 0.1.3
 hydrorecipes: 0.0.3
 hydroroute: 0.1.2
@@ -20014,6 +20026,7 @@ jsontools: 0.1.0
 jsonvalidate: 1.5.0
 jsplyr: 0.1.0
 jsr223: 0.3.4
+jsslintr: 1.1.0-1
 jstable: 1.3.25
 jstager: 0.0.6
 jstor: 0.3.11
@@ -20465,7 +20478,7 @@ lconnect: 0.1.2
 lcopula: 1.0.7
 lcpm: 0.1.1
 lcra: 1.1.5
-lcsm: 0.3.2
+lcsm: 0.3.3
 lctools: '0.3'
 lcyanalysis: 1.0.4
 ldDesign: 2.0-1
@@ -22609,6 +22622,7 @@ mudfold: 1.1.21
 mueRelativeRisk: 0.1.1
 mugnet: 1.02.0
 muhaz: 1.2.6.4
+muiCharts: 0.1.0
 muiDataGrid: 0.1.2
 muiMaterial: 0.2.2
 muiTreeView: 0.1.1
@@ -24613,6 +24627,7 @@ pgnorm: 2.0.1
 pgraph: '1.6'
 pgs: 0.4-0
 pgsc: 1.0.0
+pgt: 0.5.0
 pguIMP: 0.1.1
 ph2bayes: 0.0.2
 ph2bye: 0.1.4
@@ -24885,7 +24900,7 @@ platetools: 0.1.7
 platowork: 0.0.1
 plattice: '1.1'
 plausibounds: 1.0.1
-plavaan: 0.0.1
+plavaan: 0.0.2
 play: 0.1.3
 player: 0.1.0
 playitbyr: 0.2-1
@@ -25183,6 +25198,7 @@ poset: 1.0.0
 poseticDataAnalysis: 1.1.1
 positron.tutorials: 0.2.1
 posologyr: 1.2.8
+possum: 0.1.0
 postCP: 1.7.2
 postDoubleR: 1.4.12
 postGGIR: 2.4.0.2
@@ -25260,6 +25276,7 @@ ppforest2: 0.1.2
 ppgam: 1.0.2
 ppgm: '1.1'
 ppgmmga: 1.3.1
+pphotspot: 0.1-2
 ppiPre: '1.9'
 ppitables: 0.6.1
 ppks: '1.0'
@@ -26491,7 +26508,7 @@ rchemo: 0.1-4
 rcheology: 4.6.1.0
 rchess: '0.1'
 rchie: 1.0.2
-rchime: 0.1.0
+rchime: 0.1.1
 rchroma: 0.2.0
 rcicr: 0.3.4.1
 rciplot: 0.1.1
@@ -27194,6 +27211,7 @@ ripums: 0.1.0
 rirods: 0.3.0
 ris: '1.2'
 risaac: '0.1'
+risdr: 0.3.1
 rise: 1.0.4
 risk.assessr: 4.1.2
 riskCommunicator: 1.0.1
@@ -28831,6 +28849,7 @@ shinyfa: 0.0.1
 shinyfilter: 0.1.1
 shinyfilters: 0.3.0
 shinyfullscreen: 1.1.0
+shinyglass: 0.1.0
 shinyglide: 0.1.4
 shinyhelper: 0.3.2
 shinyhttr: 1.1.0
@@ -29880,6 +29899,7 @@ ssddata: 1.0.0
 ssdtools: 2.6.0
 sse: 0.7-17
 ssebiEF: 1.0.1
+ssel: 0.3.1
 ssev: 0.1.0
 ssfa: 1.2.3
 ssfit: '1.2'
@@ -29919,6 +29939,7 @@ ssym: 1.5.8
 st: 1.2.7
 stCEG: 0.1.0
 stIHC: 0.1.0
+stLMM: 0.0.2
 stR: 0.7.1
 stRoke: 25.9.2
 stUPscales: 1.0.3.5
@@ -30051,7 +30072,7 @@ statswalesr: 1.0.0
 statuser: 0.3.1
 statwitness: 0.1.0
 stbimageheaders: 0.1.0
-stbl: 0.3.0
+stbl: 0.4.0
 stcm: 0.1.1
 stcos: 0.3.2
 stcov: 0.1.0
@@ -31866,7 +31887,7 @@ uncompress: '1.34'
 uncorbets: 0.1.2
 understandBPMN: 1.1.1
 undidR: 3.0.2
-unexcel: 0.1.0
+unexcel: 0.2.0
 unfold: 1.0.1
 unfoldr: 0.7.1
 unga: 0.1.0
@@ -32266,7 +32287,7 @@ vismeteor: 3.0.1
 vismi: 1.0.0
 visor: 0.1.1
 visova: '1.1'
-visreg: 2.8.1
+visreg: 3.0.0
 vistime: 1.3.0
 vistla: 2.1.2
 vistributions: 0.2.0
@@ -32584,7 +32605,7 @@ whoapi: 0.1.2
 whomds: 1.1.1
 wiad: 0.0.1.0
 wicket: 0.4.0
-wid: 0.0.2
+wid: 0.0.3
 widals: 0.6.2
 wideRhino: 1.2.0
 widenet: 0.1-2
