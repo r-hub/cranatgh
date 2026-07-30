@@ -254,6 +254,7 @@ AdaptFitOS: '0.69'
 AdaptGauss: '1.6'
 AdaptiveBoxplot: 0.1.1
 AdaptiveSparsity: '1.6'
+AdaptiveTrialsR: 0.1.2
 AddiVortes: 0.6.8
 AdequacyModel: 2.0.0
 AdhereR: 0.8.3
@@ -571,6 +572,7 @@ BIRDS: 0.2.0
 BIS: '0.4'
 BISdata: 0.2-3
 BJM: 0.1.0
+BKBreed: 0.3.2
 BKP: 0.3.1
 BKPC: 1.0.2
 BKT: 0.1.0
@@ -940,7 +942,7 @@ BioWorldR: 0.1.0
 BiocManager: 1.30.27
 Biocomb: '0.4'
 Biodem: '0.5'
-BiodiversityR: 2.17-4
+BiodiversityR: 2.18-1
 Biograph: 2.0.6
 Bioi: 0.2.10
 Biolinv: 0.1-3
@@ -2114,6 +2116,7 @@ DTwrappers2: 0.0.3
 DUBStepR: 1.2.0
 DUToolkit: 1.0.2
 DVHmetrics: 0.4.3
+DVS: 0.0.1
 DWBmodelUN: 2.0.1
 DWD: '0.11'
 DWDLargeR: 0.2-0
@@ -3060,6 +3063,7 @@ ForIT: 2.5.2
 ForImp: 1.0.3
 ForLion: 0.4.0
 ForagingOrg: 0.1.0
+ForceChoice: 1.0.0
 ForeCA: 0.2.7
 ForeComp: 1.0.0
 ForecastComb: 1.3.1
@@ -3588,6 +3592,7 @@ GoFKernel: 2.1-3
 GoMiner: '1.3'
 GofCens: '1.5'
 GofKmt: 2.3.1
+GoldenVizR: 0.1.0
 GomoGomonoMi: 0.1.0
 GoodFibes: 1.0.0
 GoodFitSBM: 0.0.1
@@ -3646,6 +3651,7 @@ HAC: 1.1-2
 HACSim: 1.0.7-1
 HAMMER: '1.1'
 HAP.ROR: '1.0'
+HAPTRACE: 0.1.1
 HAPim: '1.3'
 HARModel: '1.0'
 HARplus: 1.2.0
@@ -6018,6 +6024,7 @@ OneTwoSamples: 1.3-0
 OnlineSurr: 0.0.4
 OnomasticDiversity: '0.1'
 OofAExp: 0.1.0
+OpEnCAMeO: 0.1.1
 OpEnCAST: 0.1.1
 OpEnHiMR: 0.1.1
 OpVaR: '1.2'
@@ -6150,7 +6157,7 @@ PBtDesigns: 1.0.0
 PCA4TS: '0.1'
 PCA4you: 1.2.4
 PCADSC: 0.8.0
-PCAPAM50: 1.0.3
+PCAPAM50: 1.0.4
 PCAmatchR: 0.3.3
 PCAmixdata: '3.1'
 PCBN: 0.1.1
@@ -6209,7 +6216,7 @@ PFLR: 1.1.0
 PFW: 0.1.0
 PGEE: '1.5'
 PGICA: '1.0'
-PGM2: '1.2'
+PGM2: 2.0.0
 PGRdup: 0.3.0
 PGaGEV: 0.1.0
 PGaovR: 0.1.1
@@ -9105,6 +9112,7 @@ StereoMorph: 1.6.7
 Stickbreaker: 1.0.0
 SticsRFiles: 1.6.0
 StochBlock: 0.1.5
+StochFracPoisson: 0.1.0
 StochKit2R: '0.3'
 StochSimR: 1.1.0
 StochaTR: 1.0.4
@@ -9818,6 +9826,7 @@ VLMCX: '1.0'
 VLTimeCausality: 0.1.5
 VMDML: 0.1.1
 VMDecomp: 1.0.2
+VNDesign: 0.1.0
 VNM: '7.1'
 VOSONDash: 0.5.7
 VOWR: 0.1.0
@@ -10868,6 +10877,7 @@ as.color: '0.1'
 asVPC: 1.0.2
 asaur: '0.50'
 asbio: 1.13-1
+ascent: 0.1.1
 ascentTraining: 1.0.0
 ascii: '2.6'
 asciiSetupReader: 2.5.3
@@ -11684,6 +11694,7 @@ bioacoustics: 0.2.10
 bioassays: 1.0.1
 biobricks: 0.2.2
 biocharkit: 0.3.0
+biocharkitgui: 0.3.0
 bioclim: 0.4.0
 biocompute: 1.1.1
 biodosetools: 3.7.2
@@ -11824,7 +11835,7 @@ blockmodeling: 1.1.8
 blockmodels: 1.1.5
 blockr: 0.1.0
 blockr.core: 0.1.3
-blockr.dag: 0.1.2
+blockr.dag: 0.1.5
 blockr.dock: 0.1.2
 blockr.dplyr: 0.1.0
 blockr.ggplot: 0.1.0
@@ -12383,6 +12394,7 @@ catR: '3.17'
 catSplit: 0.1.0
 catSurv: 1.6.0
 cata: 0.1.1.2
+cataScience: 2.1.2
 catalog: 0.1.1
 catalytic: 0.1.0
 catch: 1.0.1
@@ -13651,7 +13663,7 @@ cowbell: 0.1.0
 cowfootR: 0.1.3
 cowplot: 1.2.0
 cowsay: 1.2.2
-cox.rvph: 0.1.3
+cox.rvph: 0.1.4
 coxed: 0.3.3
 coxerr: '1.1'
 coxinterval: '1.2'
@@ -15135,6 +15147,7 @@ dwmmlRidge: 0.1.1
 dwp: '1.2'
 dySEM: 1.4.1
 dyad: '1.0'
+dyadMLM: 0.1.0
 dyadicMarkov: 0.1.1
 dyads: 1.2.1
 dycdtools: 0.4.4
@@ -15612,6 +15625,7 @@ energymethod: '1.1'
 energyr: '0.4'
 enerscape: 1.2.0
 enetLTS: 1.1.0
+engager: 0.1.0
 english: 1.2-6
 engression: 0.1.6
 engsoccerdata: 0.1.5
@@ -15767,7 +15781,7 @@ equil2: 1.1.0
 equivUMP: 0.1.1
 equivalence: 0.8.2
 equivalenceTest: 0.0.1.1
-era: 0.5.0
+era: 0.6.0
 erah: 2.2.0
 eratosthenes: 0.0.9
 erboost: '1.5'
@@ -15986,6 +16000,7 @@ exhaustiveRasch: 0.3.7
 exif: 0.1.1
 exifr: 0.3.2
 exiftoolr: 0.2.8
+exmort: 0.1.0
 exoplanetdata: 0.1.0
 exoplanets: 0.2.2
 exp2flux: '0.1'
@@ -18165,6 +18180,7 @@ gofedf: 1.1.0
 goffda: 0.1.2
 gofgamma: '1.0'
 gofigR: 1.1.3
+gofmalm: 0.1.0
 gofreg: 1.0.0
 goft: 1.3.6
 goftest: 1.2-3
@@ -18225,6 +18241,8 @@ gower: 1.0.2
 goweragreement: 1.0-1
 goxygen: 1.4.5
 gp: '1.1'
+gp3ml: 0.1.0
+gp3sequences: 0.1.0
 gp3tools: 2.0.1
 gpDDE: 0.8.2
 gpHist: '0.1'
@@ -20288,11 +20306,12 @@ krige: 0.6.2
 kriging: '1.2'
 krippendorffsalpha: '2.0'
 krm: 2022.10-17
-kro.inv.test: 0.1.1
+kro.inv.test: 0.1.2
 kronos: 1.0.0
 kronxNBC: 0.1.1
 ks: 1.15.2
 ksNN: 0.1.2
+ksamplesLTRC: 0.1.0
 kscons: 0.7.0
 kselection: 0.2.1
 ksformat: 0.8.2
@@ -21221,7 +21240,7 @@ manydist: 0.5.1
 manymodelr: 0.4.0
 manymome: 0.3.6
 manymome.table: 0.4.1
-manynet: 2.2.1
+manynet: 2.2.3
 manystates: 1.0.3
 maotai: 0.3.0
 mapDK: 0.3.0
@@ -22295,6 +22314,7 @@ modelStudio: 3.1.2
 modelbased: 0.16.0
 modelbpp: 0.4.0
 modelc: 1.0.0.0
+modelcardr: 0.1.0
 modelcf: 2.1.1
 modeldata: 1.5.1
 modeldatatoo: 0.3.0
@@ -23829,6 +23849,7 @@ openesm: 0.2.0
 opengraph: 0.0.4
 openholidaysR: 0.1.0
 openintro: 2.5.1
+openlineage: 0.1.0
 openmeteo: 0.2.4
 openmetrics: 0.3.0
 openmpp: 0.0.2
@@ -24447,6 +24468,7 @@ pcr: 1.2.2
 pcrcoal: 1.2.0
 pcreg: 0.1.1
 pcrsim: 1.0.2
+pcsclr: 0.1.1
 pcse: 1.9.1.1
 pcsstools: 0.1.2
 pct: 0.10.0
@@ -24799,6 +24821,7 @@ piecenorms: 1.1.0
 piecepackr: 1.16.1
 piecewiseSEM: 2.3.1
 pifpaf: 1.0.1
+pigauto: 0.10.0
 piggyback: 0.1.5
 piglet: 1.2.0
 pii: 1.3.0
@@ -25649,6 +25672,7 @@ psychReport: 4.0.1
 psychTools: 2.6.4
 psychmeta: 2.7.0
 psychmetadata: 1.0.0
+psychnets: 0.4.3
 psycho: 0.6.2
 psychometric: '2.4'
 psychomix: 1.1-10
@@ -26866,7 +26890,7 @@ relaxnet: 0.3-2
 relaxo: 0.1-2
 relcircle: '1.0'
 reldist: 1.7-2
-releaser: 1.2.0
+releaser: 1.2.1
 relen: 1.0.1
 relevance: '2.1'
 relevent: 1.2-1
@@ -29014,6 +29038,7 @@ simMSM: 1.1.42
 simMetric: 0.1.1
 simOutrank: 0.3.0
 simPATHy: '0.6'
+simPDF: 0.1.1
 simPH: 1.3.15
 simPop: 2.1.3
 simPopulation: 0.4.1
@@ -30424,7 +30449,7 @@ survdistr: 0.0.3
 survdnn: 0.7.6
 survdt: 0.9.0
 surveil: 0.3.0
-surveillance: 1.26.0
+surveillance: 1.26.1
 survex: 1.2.0
 survexp.fr: '1.2'
 survextrap: 1.0.1
@@ -31123,7 +31148,7 @@ tidylab: 4.1.1
 tidylaslog: 0.1.2
 tidylda: 0.0.7
 tidylearn: 0.3.1
-tidyllm: 0.5.1
+tidyllm: 0.5.2
 tidylo: 0.2.0
 tidylog: 1.1.0
 tidymargins: 0.1.0
