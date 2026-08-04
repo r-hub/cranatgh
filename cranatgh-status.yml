@@ -553,7 +553,7 @@ BHSBVAR: 3.1.3
 BHTSpack: '0.6'
 BI: 1.2.0
 BICORN: 0.1.0
-BIDistances: 0.1.3
+BIDistances: 0.1.5
 BIEN: 1.2.8
 BIFIEsurvey: 3.8.0
 BIGDAWG: 3.1.0
@@ -879,6 +879,7 @@ BiDAG: 2.1.4
 BiDimRegression: 2.0.1
 BiG: 0.1.0
 BiGGR: '1.8'
+BiMaUmisc: 0.1.0
 BiOFI: 0.1.0
 BiObjClass: 0.1.0
 BiProbitPartial: 1.0.3
@@ -1831,7 +1832,7 @@ D3GB: '2.0'
 D3M: 0.41.1
 D3mirt: 2.1.0
 D3partitionR: 0.5.0
-D4TAlink.light: 2.1.22
+D4TAlink.light: 2.1.23
 DA: 1.2.0
 DA.MRFA: 1.1.2
 DAAG: 1.25.7
@@ -2389,7 +2390,7 @@ EAVA: 1.0.0
 EAinference: 0.2.3
 EAlasso: 0.1.0
 EBASE: 1.1.0
-EBASS: '0.1'
+EBASS: 0.1.1
 EBCHS: 0.1.1
 EBEN: '5.2'
 EBMAforecast: 1.0.33
@@ -4396,7 +4397,7 @@ Kendall: 2.2.2
 Keng: 2026.3.19
 KernSmooth: 2.23-26
 KernSmoothIRT: '6.6'
-KernelICA: 0.1.0
+KernelICA: 2.0.0
 KernelKnn: 1.1.6
 Kernelheaping: 2.3.0
 Keyboard: 0.1.3
@@ -4780,6 +4781,7 @@ MAIHDA: 0.2.1
 MAINT.Data: 2.8.0
 MAIVE: 0.2.4
 MAKL: 1.0.1
+MALDIassist: 1.0.2
 MALDIcellassay: 0.4.47
 MALDIquant: 1.22.3
 MALDIquantForeign: 0.14.1
@@ -4881,7 +4883,7 @@ MCUSUM: '1.0'
 MChtest: 1.0-3
 MConjoint: '0.1'
 MCseqReplic: 1.1.0
-MD2sample: 1.2.2
+MD2sample: 1.3.0
 MDBED: 1.0.0
 MDCcure: 0.1.0
 MDD: '0.5'
@@ -7277,7 +7279,7 @@ RNaviCell: '0.2'
 RNeXML: 2.4.11
 RNentropy: 1.2.3
 RNeo4j: 1.6.4
-RNetCDF: 2.11-1
+RNetCDF: 2.11-2
 RNetLogo: 1.0-4
 RNewsflow: 1.2.8
 RNifti: 1.9.0
@@ -7413,7 +7415,7 @@ RSCABS: 0.9.5
 RSCAT: 1.1.3
 RSD: 0.2.0
 RSDA: 3.2.5
-RSDC: 1.1-2
+RSDC: 1.7-0
 RSDK: 1.0.1
 RSE: '1.3'
 RSEIS: 4.2-4
@@ -9048,6 +9050,7 @@ SplitSoftening: 2.1-1
 SplitSplitPlot: 0.0.1
 SplitWise: 1.0.2
 SpoMAG: 0.1.0
+SporeLag: 0.1.1
 SportMiner: 0.1.0
 SportsAnalytics: '0.2'
 SportsTour: 0.1.0
@@ -12045,7 +12048,7 @@ brar: '0.1'
 brassica: 1.0.3
 bratteli: 1.0.0
 bravo: 4.1.0
-brazilmaps: 0.1.0
+brazilmaps: 1.0.0
 brclimr: 0.2.0
 brea: 0.4.2
 bread: 0.4.1
@@ -12344,6 +12347,7 @@ card.pro: 2.3.0
 cardargus: 0.2.5
 cardidates: 0.4.9
 cardinalR: 1.0.6
+cardinalfda: 0.2.0
 cardioModel: '1.4'
 cards: 0.8.1
 cardx: 0.3.4
@@ -13460,6 +13464,7 @@ contrastable: 1.1.0
 contribution: 0.2.2
 control: 0.2.5
 controlTest: 1.1.0
+controlcharts: 0.0.19
 controlfunctionIV: 0.1.1
 controller: 0.1.0
 contsurvplot: 0.2.3
@@ -13750,6 +13755,7 @@ crawl: 2.3.1
 crawlee: 0.1.0
 crayon: 1.5.3
 crayons: 0.0.4
+crbcc: 0.1.0
 crblocks: 1.0-0
 crc32c: 0.0.3
 crch: 1.2-2
@@ -15150,6 +15156,7 @@ dvqcc: 0.1.0
 dwapi: 0.1.3.1
 dwctaxon: 2.0.4
 dwdradar: 0.2.13
+dwg2geo: 0.2.3
 dwlm: 0.1.0
 dwmmlRidge: 0.1.1
 dwp: '1.2'
@@ -17032,7 +17039,7 @@ ftnonpar: 0.1-88
 ftrCOOL: 2.0.0
 fts: 0.9.9.2
 ftsa: '6.7'
-ftsspec: 1.0.0
+ftsspec: 1.0.1
 fucom: 0.0.4
 fude: 0.4.1
 fuel: 1.2.0
@@ -17794,7 +17801,7 @@ ggloop: 0.1.0
 gglorenz: 0.0.2
 gglycan: 0.0.3
 gglyph: 0.2.0
-ggm: 2.5.2
+ggm: 2.5.4
 ggmRSCU: 0.1.0
 ggmap: 4.0.2
 ggmapcn: 0.3.0
@@ -19070,7 +19077,7 @@ hubUtils: 1.2.1
 hubeau: 0.5.2
 hudr: 1.2.0
 hues: 0.2.0
-huge: 2.0.0
+huge: 2.0.1
 huggingfaceR: 2.1.0
 huito: 0.2.6
 humanFormat: '1.2'
@@ -19547,6 +19554,7 @@ inference: 0.1.0
 inferencer: 0.2.0
 inferference: 1.0.3
 inferr: 0.3.2
+inferstat: 0.1.1
 infiltrodiscR: 0.0.5
 infinitefactor: '1.0'
 infix: 0.1.0
@@ -23000,7 +23008,7 @@ nasapower: 4.3.0
 nasaweather: 0.1.1
 nascaR.data: 3.1.0
 naspaclust: 0.2.2
-nat: 1.8.25
+nat: 1.8.26
 nat.nblast: 1.6.9
 nat.templatebrains: 1.2.3
 nat.utils: 0.6.1
@@ -23544,7 +23552,7 @@ npst: '2.0'
 npsurv: 0.5-0
 npsurvSS: 1.1.0
 nptest: '1.2'
-npwbs: 0.4.0
+npwbs: 0.5.0
 nrba: 0.3.1
 nricens: '1.6'
 nrlR: 0.1.2
@@ -25142,7 +25150,7 @@ polaroid: 0.2.1
 polars: 0.7.0
 polarzonoid: 0.3-0
 poldis: 0.1.2
-policytree: 1.2.4
+policytree: 1.2.5
 polidata: 0.1.0.1
 polimetrics: 1.2.1.14
 poliscidata: 2.3.0
@@ -25693,7 +25701,7 @@ psychnets: 0.4.3
 psycho: 0.6.2
 psychometric: '2.4'
 psychomix: 1.1-10
-psychonetrics: 0.16.9
+psychonetrics: 0.17.8
 psychotools: 0.7-7
 psychotree: 0.16-3
 psychrolib: 2.5.2
@@ -26198,6 +26206,7 @@ rKIN: 1.0.4
 rKOMICS: '1.3'
 rKenyaForex: 0.1.0
 rKolada: 0.3.1
+rKraken: 1.0.0
 rLDCP: 1.0.2
 rLFT: 1.0.1
 rLTP: 0.1.4
@@ -26596,7 +26605,7 @@ rconf: 0.1.2
 rconfig: 0.3.0
 rcongresso: 0.4.6
 rconifers: 1.0.7
-rcontroll: 0.1.2
+rcontroll: 0.1.3
 rconvertu: 1.1.0
 rcoreoa: 0.4.0
 rcorpora: 2.0.1
@@ -27918,6 +27927,7 @@ rtoot: 1.0.0
 rtop: 0.6-17
 rtpcr: 2.1.8
 rtransparency: 1.0.0
+rtreeoflife: 0.1.0
 rtrees: 2.0.2
 rtrek: 0.5.2
 rtrend: 0.1.5
@@ -29522,7 +29532,7 @@ spBFA: 1.5.0
 spBPS: 2.0-1
 spBayes: 0.4-9
 spBayesSurv: 1.1.9
-spCF: 0.1.2
+spCF: 0.2.0
 spCP: 1.4.0
 spDBL: 1.0.2
 spData: 2.3.5
@@ -29962,7 +29972,7 @@ sscor: 0.2.1
 ssd: '0.3'
 ssd4mosaic: 1.0.4-3
 ssdGSA: 0.1.1
-ssddata: 1.0.0
+ssddata: 2.0.0
 ssdtools: 2.6.0
 sse: 0.7-17
 ssebiEF: 1.0.1
@@ -30295,12 +30305,12 @@ string2path: 0.3.1
 stringArt: 0.1.0
 stringb: 0.1.17
 stringdist: 0.9.17
-stringfish: 0.19.0
+stringfish: 0.19.2
 stringformattr: 0.1.2
 stringgaussnet: '1.1'
 stringi: 1.8.7
 stringkernels: 0.8.9
-stringmagic: 1.2.0
+stringmagic: 1.3.0
 stringr: 1.6.0
 stringstatic: 0.1.2
 stringx: 0.2.9
@@ -30311,7 +30321,7 @@ strm: 0.1.3
 strollur: 0.1.3
 strptimer: 0.1.0
 strs: 0.1.0
-strucchange: 1.5-4
+strucchange: 1.6-0
 strucchangeRcpp: 1.5-4-1.0.1
 structSSI: 1.2.1
 structenforcement: 0.3.1
@@ -31852,7 +31862,7 @@ twig: 1.0.0.0
 twilio: 0.1.0
 twingp: 1.0.0
 twinning: '1.1'
-twinsvm: 0.0.2
+twinsvm: 0.0.4
 twitteR: 1.1.9
 twitteradsR: 0.1.0
 twitterwidget: 0.1.1
