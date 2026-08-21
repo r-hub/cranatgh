@@ -246,7 +246,7 @@ ActuDistns: '3.0'
 ActuarialM: 0.1.0
 AcuityView: 1.1.1
 AdIsMF: 0.1.1
-AdMit: 2.1.9
+AdMit: 2.1.12
 AdaSampling: '1.3'
 AdapDiscom: 1.0.0
 AdapEnetClass: '1.2'
@@ -1788,6 +1788,7 @@ Covid19Wastewater: 1.0.1
 CovidMutations: 0.1.3
 Covpath: '1.0'
 CoxAIPW: 0.0.3
+CoxAalenCR: 0.1.0
 CoxBcv: 0.0.1.0
 CoxBoost: 1.5.1
 CoxICPen: 1.1.0
@@ -3000,7 +3001,7 @@ FastCUB: 0.0.4
 FastGP: '1.3'
 FastGaSP: 0.6.4
 FastHCS: 0.0.7
-FastHamming: '1.2'
+FastHamming: '1.3'
 FastImputation: 2.2.1
 FastJM: 1.7.1
 FastKM: '1.2'
@@ -5588,7 +5589,7 @@ MortalityGaps: 1.0.7
 MortalityLaws: 2.2.0
 MortalitySmooth: 2.3.4
 MortalityTables: 2.0.5
-MosaiClusteR: 0.1.0
+MosaiClusteR: 0.1.1
 MotilityLab: 0.2-5
 MovieSpider: '1.0'
 MplusAutomation: '1.3'
@@ -5605,6 +5606,7 @@ MuFiCokriging: '1.2'
 MuFiMeshGP: 0.0.1
 MuMIn: 1.48.19
 MuPETFlow: 0.1.1
+MuTATE: 0.1.0
 MuViCP: 1.3.2
 MullerPlot: 0.1.3
 MultANOVA: 1.1.0
@@ -8030,7 +8032,7 @@ Rip46: 1.0.2
 Rirt: 0.0.2
 Risk: '1.0'
 RiskMap: 1.0.0
-RiskPortfolios: 2.1.7
+RiskPortfolios: 2.1.8
 RiskScorescvd: 0.3.1
 RiskyCNV: 0.1.0
 Rita: 1.2.0
@@ -11385,7 +11387,7 @@ bayesDem: 2.5-1
 bayesDiagnostics: 0.1.0
 bayesEO: 0.2.2
 bayesGAM: 0.0.2
-bayesGARCH: 2.1.10
+bayesGARCH: 2.2.0
 bayesGDS: 0.6.2
 bayesImageS: 0.7-1
 bayesLife: 5.3-1
@@ -14126,7 +14128,7 @@ cvLM: 2.0.0
 cvTools: 0.3.3
 cvam: 0.9.3
 cvap: 0.1.6
-cvar: '0.6'
+cvar: 0.6.1
 cvasi: 1.5.1
 cvcqv: 1.0.4
 cvcrand: 0.1.1
@@ -14294,7 +14296,7 @@ dataframe: '2.5'
 dataframeexplorer: 1.0.2
 dataframes2xls: 0.4.7
 datafsm: 0.2.4
-dataganger: 0.6.1
+dataganger: 0.8.0
 datagovindia: 1.0.5
 datagovsgR: 1.0.1
 datalist: '0.2'
@@ -15182,7 +15184,7 @@ ds: '4.0'
 ds4psy: 1.3.0
 dsBase: 6.3.5
 dsBaseClient: 6.3.5
-dsROCrate: 0.2.1
+dsROCrate: 0.2.2
 dsTidyverse: 1.2.1
 dsTidyverseClient: 1.1.0
 dsa: 1.0.12
@@ -16469,7 +16471,7 @@ fastqq: 0.1.5
 fastqrs: 1.0.0
 fastquant: 0.1.2
 fastrc: 0.0.2
-fastrda: 0.1.2
+fastrda: 0.2.0
 fastreg: 0.14.1
 fastrep: '0.7'
 fastrerandomize: '0.3'
@@ -18519,6 +18521,7 @@ gravitas: 0.1.3
 gravity: '1.1'
 gravityGE: 1.0.0
 gravmagsubs: 1.0.1
+grayleafspotdata: 0.1.0
 greatR: 2.1.0
 grec: 1.6.4
 greed: 0.6.2
@@ -18560,7 +18563,7 @@ gridOT: 1.0.2
 gridSVG: 1.7-7
 griddy: 0.1.0
 gridify: 0.8.1
-gridmicrotex: 0.0.5
+gridmicrotex: 0.1.0
 gridpattern: 1.4.2
 gridsample: 0.2.1
 gridsampler: '0.6'
@@ -18905,7 +18908,7 @@ healthiar: 0.2.5
 healthmotionR: 0.2.0
 healthyAddress: 0.5.2
 healthyR: 0.2.2
-healthyR.ai: 0.1.1
+healthyR.ai: 0.1.2
 healthyR.data: 1.2.0
 healthyR.ts: 0.3.2
 healthyverse: 1.1.0
@@ -19532,7 +19535,7 @@ ifaTools: '0.23'
 ifctools: 0.3.6
 ife: 0.2.5
 ifit: 1.0.0
-ifo: 0.2.4
+ifo: 0.2.5
 ifpd: 0.1.0
 ifs: 0.1.10
 ifultools: 2.0-26
@@ -20000,7 +20003,7 @@ isocat: 1.0.1
 isocir: '2.1'
 isocountry: 0.7.0
 isocubes: 1.0.0
-isodistrreg: 0.5.2
+isodistrreg: 0.6.0
 isoexplorer: 0.4.1
 isogeochem: 1.1.1
 isokernel: 0.1.0
@@ -22363,7 +22366,7 @@ mlpack: 4.8.0-1
 mlpwr: 1.1.1
 mlquantify: 0.2.0
 mlr: 2.19.3
-mlr3: 1.7.1
+mlr3: 1.8.0
 mlr3batchmark: 0.2.2
 mlr3benchmark: 0.1.8
 mlr3cluster: 0.4.1
@@ -22406,7 +22409,7 @@ mlstats: 0.1.1
 mlstm: 0.1.7
 mlstrOpalr: 1.0.3
 mlsurvlrnrs: 0.0.8
-mlt: 1.8-1
+mlt: 1.8-2
 mlt.docreg: 1.1-13
 mltest: 1.0.3
 mltools: 0.3.5
@@ -26784,7 +26787,7 @@ rchemo: 0.1-4
 rcheology: 4.6.1.0
 rchess: '0.1'
 rchie: 1.0.2
-rchime: 0.1.1
+rchime: 0.1.2
 rchroma: 0.2.0
 rcicr: 0.3.4.1
 rciplot: 0.1.1
@@ -28568,7 +28571,7 @@ schoolmath: 0.5.0
 schrute: 1.0.1
 schtools: 0.4.1
 schumaker: 1.2.2
-schwabr: 0.1.4
+schwabr: 0.1.5
 schwartz97: 0.0.6
 sciRmdTheme: '0.1'
 scico: 1.5.0
@@ -28579,7 +28582,7 @@ scientific: '2025.1'
 scientoText: '0.1'
 scifigure: '0.2'
 scilintr: 0.1.1
-scimesh: 0.3.0
+scimesh: 0.3.4
 scimetr: 1.2.0
 scimo: 0.0.3
 scindex: 0.1.0
@@ -30360,7 +30363,7 @@ statquotes: 0.3.3
 stats19: 4.1.0
 stats4teaching: 0.1.0
 statsDK: 0.1.1
-statsExpressions: 2.0.0
+statsExpressions: 2.1.0
 statsapps: 0.1.0
 statsearchanalyticsr: 0.1.4
 statsgrokse: 0.1.4
@@ -30397,7 +30400,7 @@ stepPenal: '0.2'
 stepPlr: '0.93'
 stepR: 2.1-11
 stepSplitReg: 1.0.5
-stepcount: 0.5.0
+stepcount: 0.6.0
 stepdownfdp: 1.0.0
 stepgbm: 1.0.1
 stepjglm: 0.0.1
