@@ -1673,7 +1673,7 @@ Compind: '3.6'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
-Compositional: '8.2'
+Compositional: '8.3'
 CompositionalClust: '1.3'
 CompositionalHDDA: '1.0'
 CompositionalML: '1.0'
@@ -1747,7 +1747,7 @@ CopulaGAMM: 0.6.5
 CopulaInference: 0.5.0
 CopulaREMADA: 1.7.5
 CopulaRegression: 0.1-5
-CopulaSCR: 1.0.1
+CopulaSCR: 1.0.2
 CopyDetect: '1.3'
 CopyNumber450kCancer: 1.0.4
 CorBin: 1.0.0
@@ -5794,7 +5794,7 @@ NPFD: 1.0.1
 NPHMC: 2.4.2
 NPHazardRate: '0.3'
 NPIstats: 0.1.0
-NPLStoolbox: 1.1.0
+NPLStoolbox: 1.1.1
 NPMLENCC: '1.0'
 NPMLEcmprsk: '3.0'
 NPMLEmix: '1.2'
@@ -5926,7 +5926,7 @@ NonlinearRDD: 0.0.4
 NonlinearTSA: 0.5.0
 NonpModelCheck: '4.1'
 Nonpareil: 3.5.3
-NormData: '1.1'
+NormData: '1.2'
 NormExpression: 0.1.1
 NormPsy: 1.0.8
 NormalBetaPrime: '2.2'
@@ -6619,7 +6619,7 @@ PhySortR: 1.0.9
 PhyloMeasures: '2.1'
 PhylogeneticEM: 1.8.1
 PhysActBedRest: '1.1'
-PhysMove: 1.2.4
+PhysMove: 1.2.5
 PhysicalActivity: 0.2-4
 PhysioIndexR: 0.1.0
 PhytoIn: 0.2.0
@@ -7550,7 +7550,7 @@ RTIGER: 2.1.0
 RTL: 1.3.9
 RTLknitr: 1.1.1
 RTMB: '1.9'
-RTMBdist: 1.0.5
+RTMBdist: 1.0.6
 RTOMO: 1.1-6
 RTSA: 0.2.2
 RTTWebClient: 0.1.3
@@ -10670,7 +10670,7 @@ altdoc: 0.7.3
 alternativeROC: 1.0.5
 alterryx: 0.5.0
 altfuelr: 0.1.0
-altmeta: 4.3.1
+altmeta: '4.4'
 amVennDiagram5: 1.0.0
 amadeus: 2.0.0
 amanida: 0.3.0
@@ -14293,7 +14293,7 @@ datamerge: 1.0.3
 datamods: 1.5.3
 datamuseum: 0.1.0
 datana: 1.1.5
-datanugget: 1.4.0
+datanugget: 1.5.0
 dataonderivatives: 0.4.0
 dataone: 2.3.0
 dataonelibs: 1.0.0
@@ -17515,7 +17515,7 @@ gemlog: '0.41'
 gemmR: 1.3-2
 gemma2: 0.1.3
 gems: 1.1.1
-gemtc: 1.1-1
+gemtc: 1.1-2
 gemtc.jar: 0.14.3
 gen2stage: '1.0'
 gen3sis: 1.6.0
@@ -18675,7 +18675,7 @@ gtools: 3.9.5
 gtop: 0.2.0
 gtranslate: 0.0.1
 gtreg: 0.4.2
-gtregression: 1.0.0
+gtregression: 1.1.0
 gtrendsR: 1.5.2
 gtrendshealth: 1.0.1
 gtsf: 0.1.0
@@ -22354,11 +22354,11 @@ mlr3filters: 0.9.1
 mlr3forecast: 0.1.0
 mlr3fselect: 1.6.0
 mlr3hyperband: 1.1.1
-mlr3inferr: 0.2.1
+mlr3inferr: 0.2.2
 mlr3learners: 0.15.1
 mlr3mbo: 1.2.1
 mlr3measures: 1.3.0
-mlr3misc: 0.22.0
+mlr3misc: 0.23.0
 mlr3oml: 0.12.0
 mlr3pipelines: 0.11.0
 mlr3proba: 0.4.9
@@ -22537,7 +22537,7 @@ modisfast: 1.0.2
 modmarg: 0.9.6
 modnets: 0.9.0
 modopt.matlab: 1.0-2
-modsem: 1.0.21
+modsem: 1.0.22
 moduleColor: 1.8-4
 modules: 0.13.0
 modygliani: '1.0'
@@ -28109,7 +28109,7 @@ rtmsEcho: 0.2.4
 rtodoist: 0.4.0
 rtoot: 1.0.0
 rtop: 0.6-17
-rtpcr: 2.1.8
+rtpcr: 2.1.9
 rtransparency: 1.0.0
 rtreeoflife: 0.1.0
 rtrees: 2.0.2
@@ -29480,7 +29480,7 @@ slurmR: 0.5-4
 slxr: 0.1.1
 sm: 2.2-6.0
 sma: 0.5.15
-smaa: 0.3-3
+smaa: 0.3-4
 smac: '1.0'
 smacof: 2.1-7
 smacofx: 1.22-0
@@ -31509,7 +31509,7 @@ tinyProject: 0.6.1
 tinyVAST: 1.6.2
 tinyarray: 3.0.0
 tinycache: '0.1'
-tinycodet: 0.7.0
+tinycodet: 0.7.1
 tinydng: 0.1.0-0
 tinyimg: '0.4'
 tinylabels: 0.2.5
@@ -31521,7 +31521,7 @@ tinyrox: 0.4.1
 tinyroxygen: '0.1'
 tinyscholar: 0.1.7
 tinyshinyserver: 0.1.0
-tinysnapshot: 0.2.0
+tinysnapshot: 0.3.0
 tinyspotifyr: 0.2.3
 tinytable: 0.18.0
 tinytest: 1.4.3
@@ -32588,7 +32588,7 @@ visvaR: 1.0.0
 visvow: 1.3.11
 visxhclust: 1.1.0
 vita: 1.0.0
-vitae: 0.6.0
+vitae: 0.7.0
 vital: 2.0.3
 vitality: '1.3'
 vitals: 0.3.0
