@@ -604,7 +604,7 @@ BLSloadR: 0.4.6
 BMA: 3.18.21
 BMAmevt: 1.0.5
 BMEmapping: 2.0.0
-BMIselect: 1.0.4
+BMIselect: 1.0.9
 BMN: '1.02'
 BMRBr: 0.2.0
 BMRMM: 1.0.1
@@ -5862,7 +5862,7 @@ NestMRMC: '1.0'
 NestedCategBayesImpute: 1.2.1
 NestedCohort: 1.1-3
 NestedMenu: 0.2.0
-Nestimate: 0.8.0
+Nestimate: 0.8.5
 NetCluster: '0.2'
 NetComp: '1.6'
 NetCoupler: 0.1.1
@@ -6474,7 +6474,7 @@ PTERP: '1.0'
 PTSDdiag: 0.5.0
 PTSR: 0.1.3
 PTT: 1.0.1
-PTXQC: 1.1.5
+PTXQC: 1.1.6
 PTwins: 0.1.1
 PUGMM: 0.1.2
 PUMP: 1.0.4
@@ -6554,7 +6554,7 @@ PathwaySpace: 1.5.0
 PathwayVote: 0.1.3
 PatientGenerator: 0.1.4
 PatientLevelPrediction: 6.6.0
-PatientProfiles: 1.6.0
+PatientProfiles: 1.6.1
 PatternClass: 2.0.1
 Patterns: '1.7'
 PdPDB: 2.0.1
@@ -6947,7 +6947,7 @@ QuantumOps: 3.0.1
 Quartet: 1.3.0
 QuasiSeq: 1.0-11-0
 QuickExplore: 0.1.0
-QuickJSR: 1.10.0
+QuickJSR: 1.11.0
 Quor: '0.1'
 QurvE: 1.1.2
 Qval: 1.2.4
@@ -7105,7 +7105,7 @@ RCriteo: 1.0.2
 RCrypto: 0.1.0
 RCryptsy: '0.4'
 RCtest: '1.1'
-RCurl: 1.98-1.19
+RCurl: 1.98-1.20
 RCytoGPS: 1.2.13
 RCzechia: 1.12.10
 RDF: '1.1'
@@ -7451,7 +7451,7 @@ RPostgres: 1.4.10
 RPregression: 0.1.0
 RPresto: 1.4.8
 RProbSup: '3.0'
-RProtoBuf: 0.4.27
+RProtoBuf: 0.4.28
 RPscoring: 0.1.0
 RPtests: 0.1.5
 RPublica: 0.1.3
@@ -8254,7 +8254,7 @@ S2sls: '0.1'
 S3VS: '1.0'
 S4DM: 0.0.2
 S7: 0.2.2
-S7schema: 0.1.1
+S7schema: 0.1.2
 SACCR: '3.4'
 SACOBRA: '1.2'
 SADEG: 1.0.0
@@ -8488,7 +8488,7 @@ SLCARE: 1.2.0
 SLDAssay: '1.8'
 SLEMI: 1.0.2
 SLFPCA: '3.0'
-SLGP: 1.0.2
+SLGP: 1.1.0
 SLHD: 2.1-1
 SLIC: '0.3'
 SLICER: 0.2.0
@@ -8641,7 +8641,7 @@ SRTsim: 0.99.7
 SRTtools: 1.2.0
 SRscore: 0.1.2
 SSAforecast: 0.1.1
-SSBtools: 1.8.7
+SSBtools: 1.8.8
 SSDL: '1.1'
 SSDM: 0.2.11
 SSDforR: '2.5'
@@ -9261,7 +9261,7 @@ SupMZ: 0.2.0
 SuperCell: '1.1'
 SuperExactTest: 1.2.0
 SuperGauss: 2.0.4
-SuperLearner: 2.0-40
+SuperLearner: 2.0-41
 SuperPCA: 0.4.0
 SuperRanker: 1.2.1
 SuperSurv: 0.1.7
@@ -10163,7 +10163,7 @@ XKCDdata: 0.1.0
 XLConnect: 1.3.0
 XLConnectJars: 0.2-15
 XLS: 0.1.0
-XML: 3.99-0.23
+XML: 3.99-0.24
 XML2R: 0.0.9
 XMLSchema: 0.7-0
 XMRF: '1.0'
@@ -11262,7 +11262,7 @@ badp: 0.6.0
 baf: 0.0.4
 baffle: 0.2.2
 bagRboostR: 0.0.2
-bage: 0.10.9
+bage: 0.10.10
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
 baggingbwsel: '1.1'
@@ -20245,7 +20245,7 @@ jsslintr: 1.1.0-2
 jstable: 1.3.25
 jstager: 0.0.6
 jstor: 0.3.11
-jsutils: 0.3.0
+jsutils: 0.4.0
 jtGWAS: 1.5.1
 jtdm: 0.1-3
 jti: 1.0.0
@@ -22369,7 +22369,7 @@ mlr: 2.19.3
 mlr3: 1.8.0
 mlr3batchmark: 0.2.2
 mlr3benchmark: 0.1.8
-mlr3cluster: 0.4.1
+mlr3cluster: 0.5.0
 mlr3data: 0.9.0
 mlr3db: 0.7.2
 mlr3fairness: 0.4.0
@@ -22874,7 +22874,7 @@ multChernoff: 1.0.0
 multDM: 1.1.5
 multIntTestFunc: 0.3.0
 multbxxc: 1.0.3
-multcomp: 1.4-31
+multcomp: 1.4-32
 multcompView: 0.1-12
 multdyn: '1.6'
 multe: 1.1.0
@@ -24551,7 +24551,7 @@ partools: 1.1.7
 partsm: 1.1-5
 parttime: 0.1.2
 parttree: 0.1.3
-party: 1.3-21
+party: 1.3-22
 partycoloR: 0.2.0
 partykit: 1.2-29
 parviol: '1.1'
@@ -25116,7 +25116,7 @@ pkgdepends: 0.9.1
 pkgdiff: 1.0.4
 pkgdown: 2.2.1
 pkgdown.offline: 0.1.3
-pkgfilecache: 0.1.5
+pkgfilecache: 0.2.0
 pkggraph: 0.3.1
 pkglite: 0.2.6
 pkgload: 1.5.3
@@ -28344,7 +28344,7 @@ safejoin: 0.2.0
 safer: 0.2.2
 saferDev: 1.0.0
 safestats: 0.8.7
-safetensors: 0.2.1
+safetensors: 0.3.0
 safetyCharts: 0.3.0
 safetyData: 1.0.0
 safetyGraphics: 2.1.1
@@ -29704,7 +29704,7 @@ solvebio: 2.15.1
 solvency2rfr: 0.1.0
 som: 0.3-5.2
 som.nn: 1.4.4
-soma: 1.2.0
+soma: 1.2.1
 somaticflags: 0.1.0
 someKfwer: '1.2'
 someMTP: 1.4.1.1
@@ -30275,7 +30275,7 @@ staggered: 1.2.2
 stagsynth: 0.1.0
 stam: 0.0-1
 stampr: 0.3.1
-stan4bart: 0.0-12
+stan4bart: 0.0-13
 standGL: '1.1'
 standardize: 0.2.2
 standardlastprofile: 2.0.1
@@ -32468,7 +32468,7 @@ vcPB: 1.1.1
 vccp: 0.1.1
 vcd: 1.4-14
 vcd2df: 1.0.1
-vcdExtra: 0.9.7
+vcdExtra: 0.9.8
 vcf2geno: '2.3'
 vcfR: 1.16.0
 vcfheader: 0.1.0
