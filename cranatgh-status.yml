@@ -2931,7 +2931,7 @@ FPCdpca: 0.4.0
 FPDC: '1.0'
 FPDclustering: 2.3.6
 FPLdata: 0.1.0
-FPScausal: 0.1.0
+FPScausal: 0.1.1
 FPV: '0.5'
 FRACTION: 1.1.1
 FRAPO: 0.4-2
@@ -4699,7 +4699,7 @@ LatticeKrig: 9.4.1
 LavaCvxr: 1.0.2
 Lavash: '1.0'
 LeArEst: 1.0.0
-LeLogicielR: 1.2.1
+LeLogicielR: 1.2.3
 LeMaRns: 0.1.2
 LePage: '1.0'
 LeadSense: 0.0.2.0
@@ -6131,7 +6131,7 @@ OptiSembleForecasting: 0.1.0
 OptimClassifier: 0.1.5
 OptimModel: 2.0-3
 OptimaRegion: '1.2'
-OptimalBinningWoE: 1.0.8
+OptimalBinningWoE: 1.13.3
 OptimalCutpoints: 1.1-5
 OptimalDesign: 1.0.3
 OptimalGoldstandardDesigns: 1.0.1
@@ -6264,7 +6264,7 @@ PDShiny: 0.1.0
 PDXpower: 1.0.5
 PDtoolkit: 1.2.0
 PEACH: 0.1.1
-PEAXAI: 1.0.2
+PEAXAI: 1.0.3
 PEGroupTesting: '1.0'
 PEIMAN2: 1.1.0
 PEIP: 2.2-5
@@ -9455,7 +9455,7 @@ TRIANG: '1.2'
 TRIANGG: '1.0'
 TRMF: 0.2.1
 TROM: '1.3'
-TRSbook: 1.0.2
+TRSbook: 1.0.4
 TRexSelector: 1.0.0
 TSA: 1.3.1
 TSANN: 0.1.0
@@ -9680,7 +9680,7 @@ ToxCrit: '1.1'
 ToxLim: '1.0'
 ToxicR: 22.12.1.0.7
 ToxicoGx: 0.1.1
-Tplyr: 1.3.3
+Tplyr: 1.4.0
 TraMineR: 2.2-13
 TraMineRextras: 0.6.9
 TraceAssist: 0.1.0
@@ -11281,7 +11281,7 @@ bakerrr: 0.2.0
 balance: 0.2.4
 baldur: 0.0.4
 ballr: 0.2.6
-balnet: 0.0.3
+balnet: 0.0.4
 bama: 1.3.1
 bamboo: 0.9.25
 bambooHR: 0.1.1
@@ -12566,7 +12566,7 @@ causalsens: 0.1.3
 causalweight: 1.1.5
 causens: 0.0.3
 caustests: 1.1.1
-caverify: 0.1.2
+caverify: 0.1.3
 caviarpd: 0.3.22
 cayleyR: 0.2.6
 cba: 0.2-25
@@ -14194,7 +14194,7 @@ dMod: 1.0.2
 dMrs: 1.0.0
 dPCP: 2.0.3
 dQTG.seq: 1.0.2
-dRiftDM: 0.3.2
+dRiftDM: 0.3.3
 dSTEM: 2.0-1
 dSVA: '1.0'
 dTBM: '3.0'
@@ -14497,7 +14497,7 @@ decompositionLE: 1.0.0
 decompr: 6.9.0
 decon: 1.3-4
 deconstructSigs: 1.8.0
-deconvolveR: 1.2-1
+deconvolveR: 1.2-2
 decor: 1.0.2
 decorators: 0.3.0
 decorrelate: 0.1.6.4
@@ -15576,7 +15576,7 @@ edr4r: 0.1.1
 edrGraphicalTools: '2.2'
 edstan: 1.1.0
 edtdbg: 1.0.0
-educabR: 1.0.0
+educabR: 1.1.0
 educationR: 0.1.0
 educationdata: 0.1.5
 educineq: 0.1.0
@@ -16764,7 +16764,7 @@ fitplc: 1.2-3.1
 fitscape: 0.1.0
 fitteR: 0.2.0
 fitur: 0.6.2
-fitzRoy: 1.7.0
+fitzRoy: 1.8.0
 fivethirtyeight: 0.6.2
 fixedCV: 0.1.0
 fixedTimeEvents: 1.0.1
@@ -18403,16 +18403,16 @@ gower: 1.0.2
 goweragreement: 1.0-1
 goxygen: 1.4.5
 gp: '1.1'
-gp3bayes: 0.1.1
-gp3ml: 0.1.0
-gp3sequences: 0.1.0
+gp3bayes: 0.5.0
+gp3ml: 0.3.0
+gp3sequences: 0.3.0
 gp3tools: 2.3.0
 gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.4.0
 gpbStat: 0.4.4
 gpbiometrics: 0.1.0
-gpboost: 1.7.2
+gpboost: 1.7.4
 gpciEMprogII: 0.1.0
 gpciImpSam: 0.1.0
 gpciIntCensor: 0.1.0
@@ -19698,6 +19698,7 @@ industRial: 0.1.0
 ineAtlas: 0.1.4
 ineapir: 0.2.6
 inecolr: 0.1.0
+inedemogR: 0.1.0
 inegiR: 3.0.0
 ineptR: 0.2.1
 ineptr2: 0.3.1
@@ -20065,7 +20066,7 @@ ivd: 1.0.0
 ivdesc: 1.1.2
 ivdesign: 0.1.0
 ivdoctr: 1.0.1
-ivdtools: 0.1.2
+ivdtools: 0.1.3
 ivfixed: '1.0'
 ivgets: 0.1.2
 ivgls: 0.1.0
@@ -22049,7 +22050,7 @@ miRecSurv: 1.0.2
 miRetrieve: 1.3.4
 miRtest: '2.2'
 miWQS: 0.4.4
-miapack: 0.1.0
+miapack: 0.2.0
 micEcdat: 0.1-1
 micEcon: 0.6-20
 micEconAids: 0.6-20
@@ -24219,6 +24220,7 @@ orth: 1.5.1
 orthGS: 0.1.8
 orthanc: 0.3.0
 orthoDr: 0.6.8
+orthoMTL: 0.1.0
 orthogonalsplinebasis: 0.1.7
 orthopolynom: 1.0-6.1
 osDesign: '1.8'
@@ -24953,7 +24955,7 @@ phonTools: 0.2-2.2
 phonenumber: 0.2.3
 phonetisr: 0.1.0
 phonfieldwork: 0.0.17
-phonics: 1.3.10
+phonics: 1.4.0
 phontrast: 2.4.0
 phosphoricons: 0.2.1
 photobiology: 0.14.2
@@ -28661,7 +28663,7 @@ sdafilter: 1.0.1
 sdam: 1.1.4
 sdamr: 0.2.0
 sdat: '1.1'
-sdbuildR: 2.2.2
+sdbuildR: 2.2.3
 sdc.redistribute: 0.1.0
 sdcHierarchies: 0.23.1
 sdcLog: 0.5.1
@@ -29493,7 +29495,7 @@ slickR: 0.6.0
 slideimp: 1.2.0
 slider: 0.3.3
 slideview: 0.2.1
-slim: 0.1.1
+slim: 0.1.2
 slimrec: 0.1.0
 slippymath: 0.3.1
 slm: 1.2.0
@@ -29796,7 +29798,7 @@ spacey: 0.1.1
 spacodiR: 0.13.0115
 spacom: 1.0-5
 spacyr: 1.3.0
-spada: 0.1.7
+spada: 0.1.8
 spaero: 0.6.0
 spagmix: 0.4-2
 spam: 2.11-4
@@ -31778,7 +31780,7 @@ trajectories: 0.2-10
 trajmsm: 0.1.5
 trajr: 1.5.1
 traktok: 0.1.1
-tram: 1.4-4
+tram: 1.4-5
 tramME: 1.0.8
 tramicp: 0.1-0
 tramnet: 0.0-991
