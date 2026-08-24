@@ -1721,6 +1721,7 @@ Connection: 0.1.0
 ConsRank: '3.0'
 ConsRankClass: 1.0.2
 ConsReg: 0.1.0
+ConsensusCPA: 0.1.0
 ConsensusClustering: 1.5.0
 ConsensusOPLS: 1.1.0
 ContRespPP: 0.4.2
@@ -2992,7 +2993,7 @@ Fahrmeir: 2016.5.31
 FairMclus: 2.2.1
 FakeDataR: 0.2.2
 FamEvent: '3.3'
-Familia: 1.0.3
+Familia: 2.0.0
 Familias: 2.6.4
 Families: 2.0.2
 FamilyRank: '1.0'
@@ -6575,6 +6576,7 @@ PeerPerformance: 2.4.0
 PenCoxFrail: 2.0.1
 PenIC: 1.0.0
 PenLNM: '1.0'
+PenalReg: 0.1.0
 PenguinR: 0.1.0
 PepMapViz: 1.1.0
 PepPrep: 1.1.0
@@ -8987,6 +8989,7 @@ SmCCNet: 2.0.7
 SmallCountRounding: 1.2.5
 SmartEDA: 0.3.10
 SmartMeterAnalytics: 1.1.1
+SmartPK: 0.1.0
 SmartSVA: 0.1.3
 SmartSifter: 0.1.0
 SmarterPoland: 1.8.1
@@ -13928,6 +13931,7 @@ cropcircles: 0.2.4
 cropdatape: 1.0.0
 cropgrowdays: 0.2.2
 crops: 1.0.3
+cropwatMUL: 0.1.0
 crossReg: '1.0'
 crossdes: 1.1-2
 crossfit: 0.1.3
@@ -14034,6 +14038,7 @@ ctbi: 2.0.5
 ctest: 0.9-21
 ctf: 0.1.0
 ctgdist: 0.1.0
+ctgimme: 0.0.12
 ctgt: 2.0.1
 cthist: 2.1.12
 cthresh: '4.5'
@@ -15708,7 +15713,7 @@ emaxnls: 0.1.1
 emayili: 0.9.3
 emba: 0.1.8
 embed: 1.2.2
-embryogrowth: 2025.12.22
+embryogrowth: 2026.8.24
 emburden: 0.6.2
 emcAdr: '1.3'
 emdatr: '0.3'
@@ -18741,6 +18746,7 @@ gwerAM: '1.0'
 gwfa: 0.0.4
 gwid: 0.3.0
 gwpcormapper: 0.1.3
+gwrf: 0.1.1
 gwrpvr: '1.0'
 gwrr: 0.2-2
 gwsem: 2.1.4
@@ -18949,6 +18955,7 @@ hellno: 0.0.1
 helloJavaWorld: 0.0-9
 hellodatascience: 0.1.1
 hellokitty: '0.1'
+hellometry: 1.0.1
 hellorust: 1.2.3
 helminthR: 1.0.10
 helpr: 0.1.2.2
@@ -27513,7 +27520,7 @@ riskclustr: 0.4.1
 riskdiff: 0.3.0
 riskmetric: 0.2.7
 risks: 0.4.3
-riskscores: 1.2.3
+riskscores: 1.3.0
 risksetROC: 1.0.4.1
 riskutility: 0.1.0
 riskyr: 0.5.0
@@ -28320,7 +28327,7 @@ saeBest: 0.1.0
 saeHB: 0.2.3
 saeHB.ME: 1.0.1
 saeHB.ME.beta: 1.1.0
-saeHB.Spatial.Beta: 0.1.0
+saeHB.Spatial.Beta: 0.1.1
 saeHB.TF.beta: 0.2.0
 saeHB.ZIB: 0.1.1
 saeHB.gpois: 0.1.1
