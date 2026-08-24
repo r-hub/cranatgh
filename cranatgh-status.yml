@@ -793,7 +793,7 @@ BayesOrdDesign: 0.1.2
 BayesPET: 0.1.0
 BayesPIM: '2.0'
 BayesPPD: 1.1.3
-BayesPPDSurv: 1.0.3
+BayesPPDSurv: 1.0.4
 BayesPPR: 0.1.0
 BayesPanel: 0.1-2
 BayesPanelUR: 0.1.0
@@ -1446,6 +1446,7 @@ CausalMixGPD: 0.8.0
 CausalModels: 0.2.1
 CausalQueries: 1.4.5
 CausalSpline: 0.1.0
+CausalState: 0.10.2
 Causata: 4.2-0
 CautiousLearning: 1.0.1
 CbKST: 0.1-1
@@ -1680,6 +1681,7 @@ Compositional: '8.3'
 CompositionalClust: '1.3'
 CompositionalHDDA: '1.0'
 CompositionalML: '1.0'
+CompositionalMPT: '1.0'
 CompositionalNAimp: '1.1'
 CompositionalRF: '1.6'
 CompositionalSR: '1.4'
@@ -3867,7 +3869,7 @@ HarmonicRegression: '1.0'
 Harvest.Tree: '1.1'
 Hassani.SACF: '2.0'
 Hassani.Silva: '1.0'
-HausdorffGoF: 0.3.0
+HausdorffGoF: 0.3.1
 HawaSpatial: 0.1.10
 HazardDiff: 0.1.0
 HealthCal: 0.1.1
@@ -4620,7 +4622,7 @@ LRMiss: 0.0.1
 LRQMM: 1.2.3
 LRQVB: 1.0.0
 LRTH: '1.3'
-LRTesteR: 1.3.1
+LRTesteR: 2.0.0
 LRcontrast: '1.0'
 LS2W: 1.3.7
 LS2Wstat: 2.1-5
@@ -4982,7 +4984,7 @@ MFAg: '2.3'
 MFDA: 1.1-4
 MFDF: 0.0-2
 MFDFA: '1.1'
-MFF: 0.2.0
+MFF: 0.2.3
 MFHD: 0.0.1
 MFKnockoffs: 0.9.1
 MFO: 0.1.0
@@ -5981,7 +5983,7 @@ OLCPM: 0.1.2
 OLScurve: 0.2.0
 OLSengine: 1.1.1
 OLStrajr: 0.1.0
-ONAM: 1.0.1
+ONAM: 1.1.0
 ONEST: 0.1.0
 ONETr: 1.0.3
 OOBCurve: '0.3'
@@ -7915,7 +7917,7 @@ RegCalib: 0.1.0
 RegClust: '1.0'
 RegCombin: 0.4.1
 RegDDM: '1.1'
-RegEnRF: 1.0.0
+RegEnRF: 2.0.1
 RegKink: 0.1.0
 RegSDC: 1.0.0
 RegimeChange: 0.1.1
@@ -10513,7 +10515,7 @@ afpt: 1.1.0.4
 africamonitor: 0.2.4
 aftPenCDA: 0.1.1
 aftR2: 0.1.0
-aftables: 2.0.1
+aftables: 2.1.0
 after: 1.0.0
 aftgee: 1.2.1
 afthd: 1.1.0
@@ -12364,7 +12366,7 @@ caffsim: 0.2.2
 cairoDevice: 2.28.2.2
 cairovolt: 1.0.0
 calACS: 2.2.2
-calba: 0.1.2
+calba: 0.1.3
 calcUnique: 0.1.2
 calcWOI: 1.0.3
 calcal: 1.0.4
@@ -14259,7 +14261,7 @@ dashboardthemes: 1.1.6
 dat: 0.7.0
 data.checker: 2.0.0
 data.sketches: 0.1.0
-data.table: 1.18.4
+data.table: 1.18.6.1
 data.table.threads: 1.0.1
 data.tree: 1.2.0
 data.validator: 0.2.1
@@ -15079,7 +15081,7 @@ doubcens: '1.1'
 doublIn: 0.2.0
 double.truncation: '1.8'
 doubt: 0.1.0
-douconca: 1.2.5
+douconca: 1.2.5.1
 doudpackage: 2.1.0
 downlit: 0.4.5
 downloader: 0.4.1
@@ -17845,7 +17847,7 @@ ggbuildr: 0.1.0
 ggbump: 0.1.0
 ggchangepoint: 0.3.0
 ggcharts: 0.2.1
-ggchord: 0.2.0
+ggchord: 0.8.0
 ggchord2: 0.0.1
 ggcircular: 0.1.0
 ggcleveland: 0.1.0
@@ -17892,7 +17894,7 @@ ggfootball: 0.3.0
 ggforce: 0.5.0
 ggforestplotR: 0.3.1
 ggformula: 1.0.1
-ggfortify: 0.4.19
+ggfortify: 0.4.22
 ggfoundry: 0.3.1
 ggfun: 0.2.1
 ggfx: 1.0.3
@@ -18624,7 +18626,7 @@ grpsel: 1.3.2
 grpseq: '1.0'
 grpss: 3.0.1
 grr: 0.9.5
-grt: 0.2.1
+grt: 0.2.2
 grumpy: 0.1.1
 grwat: '0.1'
 gsClusterDetect: 1.0.1
@@ -22310,7 +22312,7 @@ mixtur: 1.2.3
 mixture: 2.2.0
 mixvlmc: 0.2.2
 mize: 0.2.5
-mizer: 3.2.1
+mizer: 3.3.0
 mkde: '0.4'
 mkin: 1.2.10
 mknapsack: 0.1.0
@@ -22376,7 +22378,7 @@ mlr3db: 0.7.2
 mlr3fairness: 0.4.0
 mlr3fda: 0.7.2
 mlr3filters: 0.9.1
-mlr3forecast: 0.1.0
+mlr3forecast: 0.2.0
 mlr3fselect: 1.7.0
 mlr3hyperband: 1.1.1
 mlr3inferr: 0.2.2
@@ -23805,7 +23807,7 @@ nycOpenData: 0.2.3
 nycflights13: 1.0.2
 nycflights23: 0.2.0
 nyctaxi: 0.0.1
-nysOpenData: 0.1.1
+nysOpenData: 0.1.3
 nytR: '0.1'
 nzelect: 0.4.0
 nzffdr: 2.1.0
@@ -23884,7 +23886,7 @@ odbr: 0.1.1
 oddnet: 0.1.2
 odds.converter: 1.4.8
 odds.n.ends: 0.1.4
-oddsapiR: 0.0.3
+oddsapiR: 1.0.0
 oddsapiio: 0.1.1
 oddsratio: 2.0.2
 oddstream: 0.5.0
@@ -26589,7 +26591,7 @@ randomizationInference: 1.0.4
 randomizeBE: 0.3-6
 randomizeR: 3.0.2
 randomizr: 1.0.1
-randompack: 0.1.3
+randompack: 0.1.10
 randomsearch: 0.2.0
 randotools: 0.2.8
 randquotes: 0.1.1
@@ -26652,7 +26654,7 @@ rarestR: 1.1.1
 raretrans: 1.0.5
 rarhsmm: 1.0.7
 rarms: 1.0.0
-rasch: 1.11.7
+rasch: 1.12.0
 rasciidoc: 4.1.1
 rasclass: 0.2.2
 rase: 0.3-3
@@ -26969,6 +26971,7 @@ realized: 1.0.1
 realtest: 0.2.3
 ream: 1.0-12
 reams: '0.1'
+reapeR: 0.2.0
 reappraised: '0.2'
 rearrr: 0.3.5
 reasonabletools: '0.1'
@@ -26990,7 +26993,7 @@ recexcavAAR: 0.3.0
 recforest: 1.0.2
 rechaRge: 1.0.0
 rechonest: '1.2'
-recipes: 1.3.3
+recipes: 1.4.0
 reclin: 0.1.2
 reclin2: 0.6.0
 recluster: '3.5'
@@ -30365,7 +30368,7 @@ statquotes: 0.3.3
 stats19: 4.1.0
 stats4teaching: 0.1.0
 statsDK: 0.1.1
-statsExpressions: 2.1.0
+statsExpressions: 2.1.1
 statsapps: 0.1.0
 statsearchanalyticsr: 0.1.4
 statsgrokse: 0.1.4
@@ -31456,7 +31459,7 @@ tidysynth: 0.2.1
 tidysynthesis: 0.1.3
 tidytable: 0.11.2
 tidytags: 1.1.1
-tidyterra: 1.2.0
+tidyterra: 1.3.0
 tidytext: 0.4.3
 tidytidbits: 0.3.3
 tidytitanic: 0.0.1
