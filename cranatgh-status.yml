@@ -435,7 +435,7 @@ Autoseed: 0.1.0
 AuxSurvey: '1.1'
 AvInertia: 0.0.2
 AzureAppInsights: 0.3.1
-AzureAuth: 1.3.4
+AzureAuth: 1.3.5
 AzureCognitive: 1.0.2
 AzureContainers: 1.3.3
 AzureCosmosR: 1.0.0
@@ -3605,7 +3605,7 @@ GetLattesData: '1.5'
 GetNenshuJP: '0.1'
 GetQuandlData: 1.0.0
 GetR: '0.1'
-GetTDData: 1.6.0
+GetTDData: 1.7.0
 GetoptLong: 1.1.1
 Ghat: 0.2.0
 GhcnDaily: '1.5'
@@ -11154,7 +11154,7 @@ autocogs: 0.1.5
 autodb: 3.3.1
 autoencoder: '1.1'
 autogam: 0.1.0
-autograph: 1.2.1
+autograph: 1.2.2
 autoharp: 0.3.2
 autohd: 0.1.0
 autohrf: 1.1.3
@@ -11173,7 +11173,7 @@ autonewsmd: 0.1.0
 autoplotly: 0.1.7
 autopls: '1.3'
 autoshiny: 0.0.3
-autoslider.core: 0.3.2
+autoslider.core: 0.3.3
 autostats: 0.4.2
 autostsm: 3.1.5
 autosync: 0.1.0
@@ -11668,7 +11668,7 @@ biOpsGUI: 0.1.2
 biasbetareg: '1.0'
 bib2df: 1.1.2.0
 biblio: 0.0.12
-bibliometrix: 5.4.1
+bibliometrix: 5.5.0
 bibliometrixData: 0.3.0
 biblionetwork: 0.1.0
 bibliorefer: 0.1.4
@@ -13066,7 +13066,7 @@ clinTrialData: 0.1.3
 clinUtiDNA: '1.0'
 clinUtils: 0.2.2
 clines: 2.0-3
-clinfun: 1.1.5
+clinfun: 1.1.6
 clinical: '0.1'
 clinicalfair: 0.1.0
 clinicalomicsdbR: 1.0.6
@@ -13809,7 +13809,7 @@ cowbell: 0.1.0
 cowfootR: 0.1.3
 cowplot: 1.2.0
 cowsay: 1.2.2
-cox.rvph: 0.1.5
+cox.rvph: 0.2.0
 coxed: 0.3.3
 coxerr: '1.1'
 coxinterval: '1.2'
@@ -16777,7 +16777,7 @@ fitbitr: 0.3.0
 fitcoach: '1.0'
 fitdc: 0.0.1
 fitdistcp: 0.2.3
-fitdistrBayes: 0.2.0
+fitdistrBayes: 0.2.2
 fitdistrplus: 1.2-6
 fitlandr: 0.1.1
 fitmix: 0.1.1
@@ -18653,7 +18653,7 @@ grt: 0.2.2
 grumpy: 0.1.1
 grwat: '0.1'
 gsClusterDetect: 1.0.1
-gsDesign: 3.10.1
+gsDesign: 3.11.0
 gsDesign2: 1.2.0
 gsDesignNB: 0.3.2
 gsDesignTune: 0.1.0
@@ -19946,7 +19946,7 @@ ipeaData: 0.0.2
 ipeadatar: 0.2.1
 ipeaplot: 0.5.4
 iperform: 0.0.3
-ipeval: 0.1.0
+ipeval: 0.1.1
 ipf: 0.0.3
 ipflasso: '1.1'
 ipfp: 1.0.2
@@ -20298,7 +20298,7 @@ jvnVaR: '1.0'
 jwutil: 1.2.3
 k5: 0.2.1
 kBestShortestPaths: 0.1.2
-kDGLM: 1.2.14
+kDGLM: 1.2.15
 kNNvs: 0.1.0
 kSamples: 1.2-12
 kStatistics: 2.1.1
@@ -21962,7 +21962,7 @@ metainsight: 7.1.0
 metajam: 0.3.1
 metalcor: 1.0.0
 metalite: 0.1.4
-metalite.ae: 0.1.3
+metalite.ae: 0.1.4
 metalite.sl: 0.1.3
 metalite.table1: 0.4.0
 metamedian: 1.2.2
@@ -25265,7 +25265,7 @@ plotrix: 3.8-14
 plotrr: 1.0.2
 plotscale: 0.1.6
 plotscaper: 0.2.8
-plotthis: 0.13.1
+plotthis: 0.14.0
 plotwidgets: 0.5.1
 plpoisson: 0.3.1
 pls: 2.9-0
@@ -26691,7 +26691,7 @@ rase: 0.3-3
 rashnu: 0.1.2
 rassta: 1.0.6
 raster: 3.6-32
-rasterDT: 0.3.2
+rasterDT: 0.3.3
 rasterImage: 0.4.1
 rasterKernelEstimates: 1.0.2
 rasterList: 0.5.21
@@ -28100,7 +28100,7 @@ rstanarm: 2.32.2
 rstanbdp: 0.0.3
 rstanemax: 0.1.10
 rstansim: 0.1.1
-rstantools: 2.7.0
+rstantools: 2.7.1
 rstap: 1.0.3
 rstatix: 1.1.0
 rstatscn: 1.1.3
@@ -28376,7 +28376,7 @@ safeBinaryRegression: 0.1-3
 safedata: 1.1.3
 safeframe: 1.0.0
 safejoin: 0.2.0
-safer: 0.2.2
+safer: 0.2.3
 saferDev: 1.0.0
 safestats: 0.8.7
 safetensors: 0.3.0
@@ -30167,7 +30167,7 @@ spsmooth: 1.1-3
 spssDDI: 0.1.1
 spsur: 1.0.2.6
 spsurv: 1.0.0
-spsurvey: 5.6.1
+spsurvey: 5.7.0
 spt: 2.5.1
 sptemExp: 0.1.4
 sptests: 0.1-4
@@ -30266,7 +30266,7 @@ sss: 0.2.2
 sssc: 1.0.0
 sssvcqr: 0.0.4
 sstModel: 1.0.0
-sstn: 1.0.1
+sstn: 1.0.2
 sstvars: 1.2.5
 ssutil: 1.0.0
 ssvd: '1.0'
@@ -31025,7 +31025,7 @@ tabulergm: 0.1.0
 tabulizer: 0.2.2
 tabulizerjars: 1.0.1
 tabulog: 0.1.1
-tabxplor: 1.3.1
+tabxplor: 2.0.0
 tacmagic: 0.3.1
 tactile: 0.2.2
 tada: 2024.1.0
@@ -31151,7 +31151,7 @@ teal.widgets: 0.7.0
 tealeaves: 1.0.7
 teamcolors: 0.0.4
 teamr: 0.0.1
-tectonicr: 0.4.8
+tectonicr: 0.4.9
 teda: 0.1.1
 teems: 0.1.1
 tehtuner: 0.3.0
@@ -31411,7 +31411,7 @@ tidycomm: 0.4.2
 tidycorrgram: 0.1.0
 tidycountries: 0.1.0
 tidycwl: 1.0.7
-tidydann: 1.0.1
+tidydann: 1.0.2
 tidydatatutor: 0.1.0
 tidydelta: 0.1.0
 tidydfidx: 0.0-3
@@ -32388,7 +32388,7 @@ uuidx: 0.0.1
 uwIntroStats: 0.0.7
 uwedragon: 0.1.0
 uwo4419: 0.3.0
-uwot: 0.2.4
+uwot: 0.2.5
 uxr: 0.2.0
 uygeo: 0.1.0
 vDiveR: 2.2.1
@@ -33316,7 +33316,7 @@ ypssc: 1.1.0
 yrnd: 0.1.6
 yuima: 1.15.34
 yuimaGUI: 1.4.0
-yulab.utils: 0.2.4
+yulab.utils: 0.2.5
 yum: 0.1.0
 yummlyr: 0.1.1
 yyjsonr: 0.1.22
