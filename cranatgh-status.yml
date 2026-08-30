@@ -1617,6 +1617,7 @@ CohortAlgebra: 0.3.1
 CohortCharacteristics: 1.1.3
 CohortConstructor: 0.6.3
 CohortContrast: 1.0.0
+CohortCosts: 0.6.1
 CohortExplorer: 0.1.0
 CohortGenerator: 1.1.1
 CohortIncidence: 4.2.0
@@ -1625,6 +1626,7 @@ CohortPathways: 0.0.1
 CohortPlat: 1.0.5
 CohortSurvival: 1.1.2
 CohortSymmetry: 0.3.0
+CohortUtilisation: 0.6.1
 CoinMinD: 1.2.1
 Coinprofile: 0.1.9
 ColOpenData: 1.0.0
@@ -2615,6 +2617,7 @@ EasyDescribe: 0.1.2
 EasyHTMLReport: 0.1.1
 EasyMARK: '1.0'
 EasyMx: 0.4-2
+EasyPCA: 0.1.1
 EasyStat: 2.0.0
 EasyStrata: '8.6'
 EasyUpliftTree: 0.0.3
@@ -5721,6 +5724,7 @@ NBShiny: 0.1.0
 NBShiny2: 0.1.0
 NBShiny3: 0.1.0
 NBtsVarSel: '1.0'
+NBvarsel: 0.1.1
 NCA: 5.0.2
 NCBI2R: 1.4.7
 NCC: '1.0'
@@ -6509,6 +6513,7 @@ PaLMr: 0.2.0
 PaRe: 0.1.16
 PabonLasso: '1.0'
 PacketLLM: 0.1.3
+PaddleOCR: 0.2.1
 Pade: 1.1.0
 PairTrading: '1.1'
 PairViz: 1.3.8
@@ -10588,6 +10593,7 @@ ahull3D: 1.0.0
 ahw: 0.1.0
 ai: 1.0.4.44
 aiDIF: 0.1.0
+aiEvalR: 0.1.0
 aiRly: 0.1.0
 aiRthermo: 1.2.2
 aibd: 0.1.9
@@ -12579,6 +12585,7 @@ causaloptim: 1.0.0
 causalplot: 0.2.1
 causalreg: 0.1.2
 causalsens: 0.1.3
+causalsim: 0.1.0
 causalweight: 1.1.5
 causens: 0.0.3
 caustests: 1.1.1
@@ -14696,7 +14703,7 @@ devkit: 1.0.0
 devoid: 0.1.2
 devtoolbox: 0.2.0
 devtools: 2.5.2
-dexisensitivity: 1.0.2
+dexisensitivity: 1.0.3
 dexter: 1.8.1
 dexterMST: 0.9.6
 dextergui: 1.0.3
@@ -14820,6 +14827,7 @@ diffusionMap: 1.2.0
 diffusr: 0.1.4
 diffval: 1.2.0
 diffviewer: 0.1.2
+diffwrap: 0.6-3
 digeR: '1.3'
 digest: 0.6.39
 digiNORM: 0.1.0
@@ -17848,6 +17856,7 @@ ggalt: 0.4.0
 ggalttext: 0.3.0
 ggamma: 1.0.2
 gganimate: 1.0.11
+gganime: 0.1.0
 ggarchery: 0.4.4
 ggarrow: 0.1.1
 ggasym: 0.1.6
@@ -21739,7 +21748,7 @@ mcmcabn: '0.6'
 mcmcderive: 0.1.2
 mcmcensemble: 3.2.0
 mcmcplots: 0.4.3
-mcmcr: 0.6.2
+mcmcr: 0.7.0
 mcmcsae: 0.8.1
 mcmcse: 1.5-1
 mcmodule: 1.3.0
@@ -22150,7 +22159,7 @@ mifa: 0.2.1
 mig: '2.0'
 migest: 2.0.6
 mighty.metadata: 0.1.0
-migraph: 1.6.8
+migraph: 1.7.0
 migrate: 0.5.1
 migration.indices: 0.3.1
 migrbc: 2.0.9
@@ -22661,6 +22670,7 @@ morf: 1.0.0
 morgenstemning: '1.0'
 mori: 0.2.2
 morph: 1.1.0
+morphErr: 1.0.0
 morphemepiece: 1.2.3
 morphemepiece.data: 1.2.0
 morpheus: 1.0-5
@@ -23160,6 +23170,7 @@ mycor: 0.1.1
 myepisodes: 1.1.1
 myownrobs: 1.0.0
 myrror: 0.1.2
+mziln: '1.0'
 mzipmed: 1.4.0
 mztwinreg: 1.0-1
 n1qn1: 6.0.1-14
@@ -23623,6 +23634,7 @@ noisyCE2: 1.1.0
 noisySBM: 0.1.4
 noisyr: 1.0.0
 noisysbmGGM: 0.1.2.3
+nolaOpenData: 0.1.1
 nolock: 1.1.0
 nomadlist: 0.1.0
 nomads: 0.0.1
@@ -24324,7 +24336,7 @@ ouxy: '2.1'
 ovbsa: 2.0.0
 overdisp: 0.1.2
 overlap: 0.3.9
-overlapping: '2.4'
+overlapping: '2.5'
 overlapptest: '1.4'
 overshiny: 0.2.0
 overture: 0.4-0
@@ -27491,6 +27503,7 @@ riemannianStats: 0.2.0
 riemstats: 0.2.0
 riemtan: 0.2.5
 rif: 0.2.0
+rifexpectile: 0.1.0
 rifle: '1.0'
 rifreg: 1.1.0
 rifttable: 0.7.2
@@ -28927,7 +28940,7 @@ seqgendiff: 1.2.4
 seqhandbook: 0.1.2
 seqimpute: 2.2.1
 seqinr: 4.2-44
-seqmagick: 0.1.8
+seqmagick: 0.1.9
 seqminer: '9.9'
 seqmon: '2.5'
 seqtest: 0.1-0
@@ -30509,6 +30522,7 @@ stors: 1.0.1
 stortingscrape: 0.4.1
 storywranglr: 0.2.0
 stosim: 0.0.15
+stow: 0.3.0
 stplanr: 1.2.3
 stpm: 1.7.12
 stpp: 2.0-8
@@ -30864,7 +30878,7 @@ swaglm: 0.0.1
 swamp: 1.5.1
 swapClass: 1.0.1
 swaprinc: 1.0.1
-swash: 2.0.1
+swash: 2.0.2
 swatches: 0.5.0
 swcEcon: 0.1.0
 swdft: 1.0.0
