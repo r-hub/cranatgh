@@ -4674,7 +4674,7 @@ LTPDvar: 1.2.1
 LTR: 1.0.0
 LTRCforests: 0.7.0
 LTRCtrees: 1.1.2
-LUCIDus: 3.2.0
+LUCIDus: 3.2.1
 LVGP: 2.1.6
 LVMMCOR: 0.01.1
 LVQTools: '1.2'
@@ -7817,7 +7817,7 @@ RcppCNPy: 0.2.15
 RcppCWB: 0.6.11
 RcppCensSpatial: 1.0.0
 RcppClassic: 0.9.14
-RcppClassicExamples: 0.1.4
+RcppClassicExamples: 0.1.5
 RcppClock: '1.1'
 RcppColMetric: 0.1.0
 RcppColors: 0.6.0
@@ -8367,7 +8367,7 @@ SCOPRO: 0.1.0
 SCOR: 1.1.2
 SCORER2: 0.99.0
 SCORNET: 0.1.1
-SCORPION: 1.3.2
+SCORPION: 1.3.3
 SCORPIUS: 1.0.10
 SCOUTer: 1.0.0
 SCPME: '1.0'
@@ -9186,7 +9186,7 @@ Stack: 2.0-1
 StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
 StakeholderAnalysis: '1.2'
-StanHeaders: 2.32.10
+StanHeaders: 2.39.1
 StanMoMo: 1.2.0
 StandardizeText: '1.0'
 Stat2Data: 2.0.0
@@ -9375,7 +9375,7 @@ TAShiny: 0.1.0
 TBA: 0.1.0
 TBEST: '5.2'
 TBFmultinomial: 0.1.3
-TBRDist: 2.0.1
+TBRDist: 2.0.2
 TBSSurvival: '1.3'
 TBox: 0.2.2
 TCA: 1.2.1
@@ -11196,7 +11196,7 @@ autotab: '1.1'
 autotestR: 1.2.16
 autotesteR: 0.1.12
 autothresholdr: 1.4.3
-autotune: 0.1.0
+autotune: 0.1.1
 autovarCore: 1.0-4
 autovi: 0.4.1
 auxvecLASSO: 0.2.0
@@ -14256,7 +14256,7 @@ daiR: 1.2.0
 dail: 1.5.2
 daiquiri: 1.2.1
 dalmatian: 1.0.0
-daltoolbox: 1.3.777
+daltoolbox: 1.3.787
 daltoolboxdp: 1.3.767
 dam: 0.0.1
 damAOI: '0.1'
@@ -19714,7 +19714,7 @@ imputeTestbench: 3.0.3
 imputeYn: '1.3'
 imsig: 1.1.3
 imt: 1.0.0
-imuGAP: 0.1.0
+imuGAP: 0.2.0
 imuf: 0.6.0
 imv: '0.3'
 in2extRemes: 1.0-3
@@ -22032,7 +22032,7 @@ meteo: 2.0-5
 meteoEVT: 0.1.0
 meteoForecast: '0.57'
 meteogRam: '1.0'
-meteoland: 2.2.7
+meteoland: 2.2.8
 meteor: 0.4-5
 meteorits: 0.1.1
 meteospain: 0.3.1
@@ -22455,7 +22455,7 @@ mlr3spatiotempcv: 2.3.5
 mlr3summary: 0.1.2
 mlr3superlearner: 0.1.2
 mlr3torch: 0.3.3
-mlr3tuning: 1.6.1
+mlr3tuning: 1.7.0
 mlr3tuningspaces: 0.7.0
 mlr3verse: 0.3.2
 mlr3viz: 0.11.1
@@ -24563,7 +24563,7 @@ param2moment: 0.1.3
 param6: 0.2.4
 paramDemo: 1.0.2
 paramGUI: 2.2.0
-parameters: 0.29.2
+parameters: 0.29.3
 paramhetero: 1.0.0
 paramix: 0.0.2
 paramlink: 1.1-6
@@ -25571,7 +25571,7 @@ poweRbal: 0.1.0
 poweRlaw: 1.0.0
 powell: 1.0-0
 power.nb: 0.1.0
-power.transform: 1.0.4
+power.transform: 1.0.5
 power4mome: 0.2.1
 powerAnalysis: 0.2.1
 powerCRT: 0.1.0
@@ -28582,7 +28582,7 @@ scSorter: 0.0.2
 scSpatialSIM: 0.1.4
 scStability: 1.0.3
 scTEP: 0.1.0
-scTenifoldKnk: 1.0.3
+scTenifoldKnk: '1.1'
 scTenifoldNet: '1.4'
 scUtils: 0.1.0
 sca: 0.9-3
@@ -30517,7 +30517,7 @@ stmBrowser: '1.0'
 stmCorrViz: '1.3'
 stmgp: 1.0.4.2
 stmgui: 0.1.6
-stminsights: 0.4.3
+stminsights: 0.4.4
 stoRy: 0.2.2
 stocc: '1.31'
 stochLAB: 1.1.2
@@ -32049,7 +32049,7 @@ tsbugs: 1.2.1
 tsc: 1.0-3
 tscopula: 0.3.9
 tscount: 1.4.3
-tscv: 1.0.0
+tscv: 1.0.1
 tsdataleaks: 2.1.1
 tsdb: 1.1-0
 tsdecomp: '0.2'
@@ -32641,7 +32641,7 @@ video: 0.1.1
 videogameinsightsR: 0.1.1
 vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
-viewpoly: 1.0.2
+viewpoly: 1.0.3
 viewscape: 3.0.0
 viewshed3d: 4.0.0
 vigicaen: 2.0.0
