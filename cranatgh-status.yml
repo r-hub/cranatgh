@@ -2718,6 +2718,7 @@ EpiILM: 1.5.3
 EpiILMCT: 1.1.8
 EpiInvert: 0.3.1
 EpiLPS: 1.3.0
+EpiLossR: 0.1.0
 EpiModel: 2.6.1
 EpiNova: 0.1.0
 EpiNow2: 1.9.0
@@ -6494,6 +6495,7 @@ PSweight: 2.1.2
 PTAk: 2.0.0
 PTE: '2.0'
 PTERP: '1.0'
+PTLENKies: 0.1.0
 PTSDdiag: 0.5.0
 PTSR: 0.1.3
 PTT: 1.0.1
@@ -7532,7 +7534,7 @@ RSQL: 0.2.2
 RSQLServer: 0.3.0
 RSQLite: 3.53.3
 RSQLite.extfuns: 0.0.1
-RSQLite.toolkit: 0.1.4
+RSQLite.toolkit: 0.1.5
 RSSL: 0.9.8
 RSSOP: '1.1'
 RSSRMR: 0.1.0
@@ -11830,6 +11832,7 @@ bioRad: 0.12.0
 bioSNR: '1.0'
 bioacoustics: 0.2.10
 bioassays: 1.0.1
+biobouncer: 0.1.4
 biobricks: 0.2.2
 biocharkit: 0.3.0
 biocharkitgui: 0.3.1
@@ -11843,6 +11846,7 @@ biogeo: '1.0'
 biogeom: 1.5.2
 biogram: 1.6.3
 biogrowth: 1.0.8
+biohttp: 0.1.2
 bioimagetools: 1.1.9
 bioinactivation: 1.3.1
 biokNN: 0.1.0
@@ -12656,6 +12660,7 @@ ccrtm: 0.1.6
 ccss: '1.0'
 cctest: 2.3.4
 cctools: 0.1.3
+ccwr: 0.0.2
 cd: 0.1.0
 cdCAT: 0.1.0
 cda: 2.0.0
@@ -16033,6 +16038,7 @@ esquisse: 2.1.0
 esreg: 0.6.2
 ess: 1.1.2.1
 essHist: 1.2.2
+essential8: 0.1.0
 essentials: 0.1.0
 essentialstools: 0.1.7
 essurvey: 1.0.8
@@ -17487,7 +17493,7 @@ gbcrosswalk: 0.0.5
 gbeta: 0.1.0
 gbev: 0.1.1
 gbfs: 1.3.10
-gbif.range: 1.9.1
+gbif.range: 1.9.2
 gbifdb: 1.0.0
 gbm: 2.3.1
 gbm.auto: 2024.10.01
@@ -17724,6 +17730,7 @@ geojsonlint: 0.4.0
 geojsonsf: 2.0.5
 geokmeans: 0.1.0
 geoknife: 1.6.11
+geolibre: 0.2.0
 geomander: 2.5.2
 geomapdata: 2.0-2
 geomaroc: 0.1.1
@@ -18410,6 +18417,7 @@ goldilocks: 0.6.0
 golem: 1.0.1
 golfastr: 0.2.0
 golfr: 0.1.0
+golosovRST: 0.0.1
 gomms: '1.0'
 gomp: '1.1'
 gompertztrunc: 0.1.2
@@ -18984,7 +18992,7 @@ heattree: 0.3.1
 heatwaveR: 0.5.5
 heavy: 0.38.196
 heavytails: 0.2.0
-heck: 0.1.5
+heck: 0.1.7
 heckmanGE: 1.0.0
 heddlr: 0.6.0
 hedgedrf: 1.0.1
@@ -19581,7 +19589,7 @@ ie2misc: 0.9.2
 ie2miscdata: 1.0.4
 ieTest: '2.1'
 ieeeround: 0.2-2
-ieegio: 0.1.0
+ieegio: 0.1.2
 iemisc: 1.0.5
 iemiscdata: 1.0.3
 iemisctext: 1.0.1
@@ -19952,6 +19960,7 @@ ionet: 0.2.2
 ionflows: '1.1'
 ionicons: 0.1.1
 ionr: 0.3.0
+iop: 0.1.0
 iopspackage: 2.1.0
 iopsych: 0.90.1
 iosmooth: '0.94'
@@ -21050,7 +21059,7 @@ llmflow: 3.0.2
 llmhelper: 1.0.0
 llmimpute: 0.1.0
 llmjoin: 0.3.0
-llmjson: 0.1.0
+llmjson: 0.2.1
 llmshieldr: 0.1.0
 llogistic: 1.0.3
 llrem: 0.1.1
@@ -21440,6 +21449,7 @@ magicrect: 1.0.0
 magma: 1.3.0-2
 magmaR: 1.0.4
 magnets: 0.2.1
+magp: 0.8.0
 magree: '1.2'
 magrittr: 2.0.5
 maic: 0.1.4
@@ -21570,7 +21580,7 @@ margaret: 0.1.4
 margie: '1.0'
 marginTree: '1.01'
 marginalRisk: 2021.1-7
-marginaleffects: 0.32.0
+marginaleffects: 1.0.0
 marginalizedRisk: 2024.5-17
 marginalmodelplots: 0.4.2
 marginme: 0.1.2
@@ -22559,6 +22569,7 @@ mod09nrt: '0.14'
 mod2rm: 0.2.1
 modACDC: 2.0.1
 modEvA: '3.46'
+modMStates: 0.0.1
 modMax: '1.1'
 modQR: 0.1.3
 modTempEff: 1.5.2
@@ -23713,6 +23724,7 @@ nordstatExtras: 0.1.0
 norgeo: 2.3.1
 norm: 1.0-11.1
 norm2: 2.0.4
+normalblockr: 0.2.1
 normaliseR: 0.1.2
 normality: 0.0.4
 normalize: 0.1.3
@@ -24736,6 +24748,7 @@ pcal: 1.0.0
 pcalg: 2.7-12
 pcalls: '1.0'
 pcaone: 1.1.0
+pcatR: 1.0.1
 pcatsAPIclientR: 1.3.0
 pccc: 1.0.7
 pcdid: 1.0.0
@@ -25743,7 +25756,7 @@ prevalence: 0.4.1
 prevederer: 0.0.1
 preventr: 0.12.0
 previsionio: 11.7.0
-prevtoinc: 0.12.0
+prevtoinc: 0.12.1
 prewas: 1.1.1
 priceR: 1.0.4
 pricelevels: 1.4.0
@@ -26496,7 +26509,7 @@ rLifting: 1.0.0
 rLindo: 8.0.1
 rMEA: 1.2.2
 rMIDAS: 1.0.1
-rMIDAS2: 0.1.1
+rMIDAS2: 0.2.0
 rMOST: 1.0.1
 rMR: 1.1.0
 rMVP: 1.4.6
@@ -28337,7 +28350,7 @@ rytstat: 0.3.2
 rzeit2: 0.2.3
 rzentra: 0.1.0
 rzmq: 0.9.16
-s2: 1.1.11
+s2: 1.1.12
 s20x: 3.3.0
 s2dv: 2.3.0
 s2dverification: 2.10.3
@@ -28982,7 +28995,7 @@ sequences: 0.5.9
 sequential.pops: 0.1.1
 sequenza: 3.0.0
 sequoia: 3.2.0
-seqwrap: 0.7.0
+seqwrap: 0.8.1
 serad: 0.2.3
 sergeant: 0.9.1
 serial: 3.1.1
@@ -29647,7 +29660,7 @@ smof: 1.2.2
 smog: 2.1.0
 smoke: 2.0.1
 smoof: 1.7.0
-smooth: 4.5.0
+smooth: 4.5.1
 smoothAPC: '0.3'
 smoothHR: 1.0.5
 smoothROC: 0.1.0
@@ -31107,7 +31120,7 @@ tarchives: 0.2.0
 tardis: 0.1.5
 targeted: 0.9.0
 targets: 1.12.0
-tarpolyglot: 0.2.0
+tarpolyglot: 0.2.1
 tashu: 0.1.1
 taskPR: '0.34'
 taskqueue: 0.2.0
@@ -33147,7 +33160,7 @@ wqrr: 1.0.0
 wqs: 0.0.1
 wqspt: 1.0.2
 wqtrends: 1.5.2
-wrGraph: 1.3.17
+wrGraph: 1.3.18
 wrMisc: 2.1.1
 wrProteo: 2.1.0
 wrTopDownFrag: 1.0.4
