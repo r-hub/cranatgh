@@ -2450,7 +2450,7 @@ EBrank: 1.0.0
 ECDFniche: '0.5'
 ECFsup: 0.1-2
 ECG: 0.5.2
-ECGofTestDx: '0.5'
+ECGofTestDx: '0.6'
 ECLRMC: '1.0'
 ECMLE: 0.1.0
 ECOSolveR: 0.6.1
@@ -3001,7 +3001,7 @@ FactEff: '1.0'
 FactMixtAnalysis: '1.0'
 FactoClass: 1.2.9
 FactoInvestigate: 1.9.1
-FactoMineR: '2.16'
+FactoMineR: '2.17'
 FactoRizationMachines: '0.35'
 FactorAssumptions: 2.0.1
 FactorCopula: 0.9.3
@@ -7814,7 +7814,7 @@ Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.10
 RcppAlgos: 2.10.1
 RcppAnnoy: 0.0.23
-RcppArmadillo: 15.4.2-1
+RcppArmadillo: 15.6.0-1
 RcppArray: 0.3.0
 RcppBDT: 0.2.8
 RcppBessel: 1.0.1
@@ -8881,7 +8881,7 @@ SeqMADE: '1.0'
 SeqNet: 1.1.3
 SequenceAnalysis: '1.3'
 SequenceSpikeSlab: 1.0.1
-Sequential: 4.6.1
+Sequential: 4.6.2
 SequentialDesign: '1.0'
 SeroTrackR: 1.1.1
 SerolyzeR: 1.4.1
@@ -9630,7 +9630,7 @@ TesiproV: 0.9.6
 TestAnaAPP: 1.1.2
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
-TestDesign: 1.7.0
+TestDesign: 1.7.1
 TestDimorph: 0.5.8
 TestFunctions: 0.2.2
 TestGardener: 3.3.6
@@ -12491,7 +12491,7 @@ carData: 3.0-6
 carSurv: 1.0.0
 caracas: 2.1.1
 caradpt: 0.1.0
-carat: 2.2.1
+carat: 2.3.0
 carbonate: 0.1.4
 carbondata: 0.1.0
 carbondate: 1.1.0
@@ -12736,7 +12736,7 @@ censo2017: 0.6.2
 censo2022arg: 1.0.1
 censobr: 0.6.0
 censorcopula: '2.0'
-censored: 0.3.4
+censored: 0.3.5
 censoredAIDS: 1.0.0
 censosbo: 2.0.0
 census: 0.2.0
@@ -14534,7 +14534,7 @@ debest: 0.1.0
 debiasedTrialEmulation: 0.1.2
 debkeepr: 0.1.1
 debrief: 0.1.0
-debtkit: 0.1.2
+debtkit: 0.1.3
 debug: 1.3.1
 debugme: 1.2.0
 debugr: 0.0.1
@@ -14993,7 +14993,7 @@ distrTEst: 2.8.3
 distrTeach: 2.9.2
 distreg.vis: 1.7.5
 distribglm: 0.4.1
-distributional: 0.8.1
+distributional: 0.9.0
 distributions: '1.3'
 distributions3: 0.3.0
 distributionsrd: 0.0.6
@@ -16355,7 +16355,7 @@ fabisearch: 0.0.4.5
 fable: 0.5.0
 fable.ata: 0.0.6
 fable.bayesRecon: 0.2.0
-fable.intermittent: 0.2.0
+fable.intermittent: 0.3.0
 fable.prophet: 0.1.0
 fableCount: 0.1.0
 fabletools: 0.8.0
@@ -18663,7 +18663,7 @@ groqR: 0.0.3
 groundhog: 3.4.0
 groupICA: 0.1.1
 groupRemMap: 0.1-0
-groupTesting: 1.3.0
+groupTesting: 1.3.1
 groupWQS: 0.0.3
 groupcompare: 1.0.1
 groupdata2: 2.0.5
@@ -19788,7 +19788,7 @@ ineptr2: 0.3.1
 ineq: 0.2-13
 ineq.2d: 0.1.0
 ineqJD: '1.0'
-inequality: 0.1.0
+inequality: 0.2.0
 inequantiles: 0.1.0
 inet: 0.1.0
 inetwork: '1.2'
@@ -20451,7 +20451,7 @@ keyring: 1.4.1
 keyringr: 0.4.0
 keys: 0.1.1
 kfa: 0.2.2
-kfda: 1.0.0
+kfda: 1.0.1
 kfigr: 1.2.1
 kfino: 1.0.0
 kfre: 0.0.2
@@ -21455,7 +21455,7 @@ maestro: 1.3.0
 mafR: 1.1.14
 mafs: 0.0.3
 magclass: 7.5.0
-magentabook: 0.1.0
+magentabook: 0.1.1
 magi: 1.2.5
 magic: 1.6-1
 magicLamp: 0.1.0
@@ -24056,7 +24056,7 @@ omicwas: 0.8.0
 omixVizR: 1.4.0
 omnibus: 1.2.15
 omock: 0.7.0
-omopgenerics: 1.4.1
+omopgenerics: 1.4.2
 omophub: 1.9.1
 omopr: '0.2'
 ompr: 1.0.4
@@ -25719,7 +25719,7 @@ predictmeans: 1.1.1
 predictoR: 4.1.7
 predictrace: 2.0.1
 predicts: 0.2-2
-predictset: 0.3.0
+predictset: 0.4.0
 predictsr: 0.2.1
 predieval: 0.1.1
 predint: 2.3.0
@@ -27588,7 +27588,7 @@ ringbp: 1.0.0
 ringbuffer: '1.1'
 ringostat: 0.1.5
 ringscale: 0.1.2
-rintcal: 1.4.1
+rintcal: 1.4.2
 rintimg: 0.1.0
 rintrojs: 0.3.4
 rio: 1.3.0
@@ -28956,7 +28956,7 @@ sendigR: 1.0.0
 sendmailR: 1.4-1
 sendplot: 4.0.0
 sensR: 1.5-3
-sense: 1.1.0
+sense: 1.2.0
 senseR: 0.1.0
 sensemakr: 0.1.6
 senseweight: 0.0.1
@@ -31477,7 +31477,7 @@ tidyMicro: '1.47'
 tidyOhdsiSolutions: 0.1.0
 tidyREDCap: 2.1.0
 tidyRSS: 2.0.7
-tidySEM: 0.2.11
+tidySEM: 0.2.12
 tidySummaries: 0.1.0
 tidyUSDA: 0.4.1
 tidyactuarial: 0.1.6
