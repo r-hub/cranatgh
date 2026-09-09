@@ -640,6 +640,7 @@ BNrich: 0.1.1
 BOG: '2.0'
 BOIN: 2.7.2
 BOJ: 0.3.4
+BOLDNODE: 1.0.0
 BOLDconnectR: 1.0.2
 BOP2FE: 1.0.3
 BORG: 0.3.1
@@ -2588,6 +2589,7 @@ EQUALencrypt: 0.1.0
 EQUALrepeat: 0.4.5
 EQUIVNONINF: 1.0.2
 ER: 1.1.2
+ERBioR: 0.9.0
 ERDbuilder: 2.0.0
 ERP: '2.2'
 ERPM: 0.2.0
@@ -3049,6 +3051,7 @@ FatTailsR: 2.0.1
 FateID: 0.2.2
 FaultTree: 1.0.1
 FcircSEC: 1.0.0
+FeNEU: 3.0.2
 FeaLect: '1.20'
 FeatureExtraction: 3.14.0
 FeatureHashing: 0.9.2
@@ -3749,6 +3752,7 @@ HDCD: '1.1'
 HDCI: 1.0-2
 HDCurves: 0.1.2
 HDDesign: '1.1'
+HDElliptical: 0.1.2
 HDGLM: '0.1'
 HDInterval: 0.2.4
 HDJM: 0.1.0
@@ -5783,6 +5787,7 @@ NIRStat: '1.1'
 NISTnls: 0.9-13
 NISTunits: 1.0.1
 NITPicker: 1.0.1
+NLIN: 0.1.0
 NLMR: '1.1'
 NLP: 0.3-3
 NLPclient: '1.0'
@@ -5907,7 +5912,7 @@ NetExplorer: 0.0.2
 NetFACS: 0.5.0
 NetGreg: 0.0.4
 NetIndices: 1.4.4.1
-NetInt: 1.0.1
+NetInt: 1.0.2
 NetLogoR: 1.0.6
 NetMix: 0.2.0.3
 NetOrigin: 1.1-7
@@ -6799,6 +6804,7 @@ PressPurt: 1.0.2
 PrettyCols: 1.1.0
 PrevMap: 1.5.4
 PriceIndices: 0.3.1
+PricingBandits: 2.0.0
 PriorCD: 0.1.0
 PriorGen: '2.0'
 PrivateLR: 1.2-22
@@ -7316,7 +7322,7 @@ RKUM: 0.1.1.1
 RKaggle: 0.1.1
 RKelly: '1.0'
 RKlout: '1.0'
-RKorAPClient: 1.3.0
+RKorAPClient: 1.4.0
 RLMM: 1.14.0
 RLRsim: 3.1-9
 RLT: 3.2.6
@@ -9125,6 +9131,7 @@ SpatFD: 0.0.1
 SpatGC: 0.1.0
 SpatGRID: 0.1.0
 SpatMCA: 1.0.7
+SpatMix: 0.1.0
 SpatPCA: 1.3.8
 SpatialAcc: 0.1-6
 SpatialBSS: 0.16-0
@@ -10593,6 +10600,7 @@ agop: 0.2.4
 agpower: 0.1.2
 agregR: 1.0.4
 agriDQ: 0.1.3
+agriME: 0.1.0
 agriReg: 0.1.0
 agriTutorial: 0.1.5
 agricolae: 1.3-7
@@ -10910,6 +10918,7 @@ appsheet: 0.1.0
 aprean3: 1.0.2
 apricom: 1.0.0
 aprof: 0.4.1
+apsimeval: 0.1.0
 apsimr: '1.2'
 apsimx: 2.8.271
 apsrtable: 0.8-8
@@ -11505,7 +11514,7 @@ bayesreg: '1.3'
 bayesrules: 0.0.3
 bayess: '1.7'
 bayest: '1.5'
-bayestestR: 0.18.1
+bayestestR: 0.19.0
 bayestransmission: 0.1.0
 bayesvl: 1.0.0
 bayfoxr: 0.0.1
@@ -12073,7 +12082,7 @@ boclust: 0.1.2
 bodenmiller: 0.1.1
 bodsr: 0.1.0
 bodycomp: 1.0.0
-bodycompref: 2.0.1
+bodycompref: 2.0.2
 boe: 0.4.0
 boggy: 0.0.1
 boids4R: 0.3.1
@@ -12315,7 +12324,7 @@ btergm: 1.11.1
 btf: '1.2'
 btml: 0.4.0
 btrm: 0.2.0
-btw: 1.4.0
+btw: 1.5.0
 bubbleHeatmap: 0.1.1
 bubblyr: 0.1.2
 bucky: 1.0.7
@@ -12660,7 +12669,7 @@ cccm: 0.1.0
 cccp: 0.3-3
 cccrm: 3.0.6
 ccdR: 1.1.0
-ccda: 1.1.1
+ccda: '1.2'
 ccdf: 1.1.4
 ccdrAlgorithm: 0.0.6
 ccems: '1.03'
@@ -12783,6 +12792,7 @@ ceterisParibus: '0.6'
 cevcmm: 0.1.4
 cfa: 0.10-2
 cfbfastR: 3.0.0
+cfbseedR: 0.2.0
 cfda: 0.12.1
 cfdecomp: 0.4.0
 cffdrs: 1.9.2
@@ -14345,6 +14355,7 @@ dataReporter: 1.0.5
 dataRetrieval: 2.7.25
 dataSDA: 0.2.7
 databraryr: 0.6.6
+datacaged: 0.2.1
 datacheck: 1.2.2
 datacheckr: 0.2.0
 dataclass: 1.0.0
@@ -14477,7 +14488,7 @@ dc3net: 1.2.0
 dcGOR: 1.0.6
 dcTensor: 1.3.1
 dcce: 0.4.2
-dccmidas: 0.1.2
+dccmidas: 0.1.3
 dccpp: 0.1.0
 dccvalidator: 0.3.0
 dceasimR: 0.1.0
@@ -15333,6 +15344,7 @@ duckdb: 1.5.5
 duckdbfs: 0.1.2
 duckduckr: 1.0.0
 duckh3: 0.1.0
+ducklake: 0.6.0
 duckplyr: 1.2.1
 duckspatial: 1.2.1
 duet: 0.1.1
@@ -15949,6 +15961,7 @@ episheet: 0.4.0
 episode: 1.0.0
 episomer: 3.0.35
 episplineDensity: 0.0-1
+epistandardiseR: 0.0.2
 epistasis: 0.0.1-1
 epitab: 0.2.2
 epitable: 0.1.2
@@ -16031,6 +16044,7 @@ ernest: 1.2.5
 ernm: 1.0.5
 erp.easy: 1.1.0
 erpR: 0.2.0
+erplots: 0.1.2
 err: 0.2.0
 erratum: 2.2.0
 errint: '1.0'
@@ -16454,6 +16468,7 @@ faq: 0.1.1
 far: 0.6-7
 faraway: 1.0.9
 farff: 1.1.1
+farmPartial: 0.1.0
 farmR: '1.1'
 farr: 1.0.1
 farrell: 0.2.1
@@ -16835,7 +16850,7 @@ fitbitr: 0.3.0
 fitcoach: '1.0'
 fitdc: 0.0.1
 fitdistcp: 0.2.3
-fitdistrBayes: 0.2.2
+fitdistrBayes: 0.2.3
 fitdistrplus: 1.2-6
 fitlandr: 0.1.1
 fitmix: 0.1.1
@@ -17394,7 +17409,7 @@ gRc: 0.5.1
 gRcox: '0.1'
 gRim: 0.3.4
 gSEM: 0.4.3.4
-gSeg: '1.0'
+gSeg: '1.1'
 gStream: 0.2.0
 gTests: '0.2'
 gTestsMulti: 0.1.1
@@ -18440,7 +18455,7 @@ gogarch: 0.7-6
 golden: 0.0.4
 goldfish: 1.6.12
 goldi: 1.0.1
-goldilocks: 0.6.0
+goldilocks: 1.0.0
 golem: 1.0.1
 golfastr: 0.2.0
 golfr: 0.1.0
@@ -18951,7 +18966,7 @@ hcp: '0.1'
 hcruR: 1.0.1
 hctrial: 0.1.0
 hdImpute: 0.2.1
-hdMTD: 0.1.4
+hdMTD: 0.1.5
 hda: 0.2-14
 hdar: 1.0.7
 hdbayes: 0.2.0
@@ -19237,7 +19252,7 @@ hoopR: 3.1.0
 hopach: 2.12.0
 hopbyhop: '3.41'
 hopit: 0.11.6
-hopkins: '1.1'
+hopkins: '1.2'
 horizon: '1.2'
 hornpa: 1.1.1
 horserule: 1.0.0
@@ -21429,7 +21444,7 @@ mRMRe: 2.1.3.1
 mRc: 0.1.2
 mRchmadness: 1.0.0
 mRm: 1.1.6
-mRpostman: 1.4.0
+mRpostman: 3.0.0
 mSTEM: 1.0-1
 mSigPlot: 2.0.42
 mSigTools: 1.0.7
@@ -28345,6 +28360,7 @@ rviewgraph: 1.4.2
 rvif: 3.2.1
 rvinecopulib: 0.7.3.1.0
 rvisidata: 1.0.0
+rvisual: 0.1.1
 rvkstat: 3.3.2
 rvmbinary: '1.0'
 rvmethod: 0.1.2
@@ -28359,7 +28375,7 @@ rwars: 1.0.0
 rwavelet: 0.4.2
 rwc: '1.12'
 rwebstat: 1.1.1
-rwetools: 0.4.0
+rwetools: 0.5.0
 rwevalidate: 0.1.2
 rwfec: '0.2'
 rwhatsapp: 0.2.4
@@ -29279,6 +29295,7 @@ shinyfa: 0.0.1
 shinyfilter: 0.1.1
 shinyfilters: 0.3.0
 shinyfullscreen: 1.1.0
+shinygenui: 0.1.0
 shinyglass: 0.2.0
 shinyglide: 0.1.4
 shinyhelper: 0.3.2
@@ -29343,7 +29360,7 @@ showtextdb: '3.0'
 shp2graph: 1-0
 shrink: 1.2.3
 shrinkDSM: 1.0.2
-shrinkGPR: 2.0.0
+shrinkGPR: 2.1.0
 shrinkTVP: 3.1.2
 shrinkTVPVAR: 1.0.1
 shrinkem: 0.4.0
@@ -29896,7 +29913,7 @@ spCP: 1.4.0
 spDBL: 1.0.2
 spData: 2.3.5
 spDates: '1.1'
-spEDM: '1.12'
+spEDM: '1.13'
 spFFBS: 1.0-1
 spFSR: 2.0.4
 spFW: 0.1.0
@@ -32199,6 +32216,7 @@ tufterhandout: 1.2.1
 tugboat: 0.1.6
 tukeyGH: 1.0.0
 tukeytrend: '0.7'
+tulpa: 0.2.0
 tulpaMesh: 0.1.3
 tumblR: '1.2'
 tumgr: 0.0.4
@@ -33118,6 +33136,7 @@ windsoraiR: 0.1.2
 winfapReader: 0.1-7.1
 wingen: 2.2.0
 wingui: '0.2'
+winning: 0.3.0
 winputall: 1.0.1
 winr: 1.0.0
 winratiosim: 1.0.0
@@ -33128,7 +33147,7 @@ wired: 1.0.1
 wiseR: 1.0.1
 wiserow: 0.1.0
 wishartinference: 0.1.0
-wishmom: 1.1.0
+wishmom: 1.2.0
 withdots: 0.1.1
 wither: 0.1.0
 withr: 3.0.3
@@ -33270,6 +33289,7 @@ xROI: 0.9.20
 xRing: 0.1.2
 xSub: 3.0.2
 xVA: '1.3'
+xaci: 0.1.0
 xactonomial: 1.2.2
 xadmix: 1.0.0
 xaringan: '0.31'
