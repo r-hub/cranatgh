@@ -139,7 +139,7 @@ AOboot: 0.1.2
 AOfamilies: '1.01'
 APAtree: 1.0.1
 APCI: 1.0.8
-APCalign: 2.0.0
+APCalign: 2.0.1
 APCanalysis: '1.0'
 APCinteraction: 0.1.0
 APCtools: 1.0.8
@@ -5930,7 +5930,7 @@ NetworkRiskMeasures: 0.1.7
 NetworkSim: 0.1.0
 NetworkToolbox: 1.4.4
 NeuDist: 1.0.1
-NeuralEstimators: 0.2.1
+NeuralEstimators: 0.2.2
 NeuralNetTools: 1.5.3
 NeuralSens: 1.1.3
 NeuroDataSets: 0.3.1
@@ -7869,7 +7869,7 @@ RcppNLoptExample: 0.0.2
 RcppNumerical: 0.7-0
 RcppOctave: 0.18.1
 RcppParallel: 6.2.1
-RcppPlanc: 2.0.15
+RcppPlanc: 2.0.16
 RcppProgress: 0.4.2
 RcppQuantuccia: 0.1.4
 RcppRedis: 0.2.6
@@ -10387,7 +10387,7 @@ acnr: 1.0.0
 acoRn: 0.1.0
 acopula: 0.9.4
 acp: '2.1'
-acro: 0.1.7
+acro: 1.0.0
 acroname: 0.1.0
 acrt: 1.0.1
 acs: 2.1.4
@@ -10851,7 +10851,7 @@ aof: 0.1.2
 aoos: 0.5.0
 aop: 1.0.0
 aopdata: 1.1.2
-aoristic: 1.1.1
+aoristic: 2.0.0
 aorsf: 0.1.6
 aos: 0.1.0
 apLCMS: 6.8.3
@@ -11188,7 +11188,7 @@ autocogs: 0.1.5
 autodb: 3.3.1
 autoencoder: '1.1'
 autogam: 0.1.0
-autograph: 1.2.2
+autograph: 1.2.3
 autoharp: 0.3.2
 autohd: 0.1.0
 autohrf: 1.1.3
@@ -13381,7 +13381,7 @@ coloc: 5.2.3
 colocPropTest: 0.9.3
 colocalization: 1.0.2
 colocalized: 0.2.0
-colocboost: 1.0.9
+colocboost: 1.0.10
 colocr: 0.1.1
 colorBlindness: 0.1.9
 colorDF: 0.1.7
@@ -15526,7 +15526,7 @@ ebm: 0.1.0
 ebmc: 1.0.1
 ebmstate: 0.1.5
 ebnm: 1.1-42
-ebrahim.gof: 2.6.0
+ebrahim.gof: 2.7.0
 ebreg: 0.1.3
 ebvcube: 0.5.3
 ebx: 1.0.0
@@ -15914,7 +15914,7 @@ epiR: 2.0.96
 epibase: 0.1-3
 epibasix: '1.5'
 epibyhand: 0.2.0
-epicR: 1.0.1
+epicR: 1.0.2
 epicalc: 2.15.1.0
 epicasting: 0.1.0
 epichains: 0.1.1
@@ -23336,7 +23336,7 @@ ncdf.tools: 0.7.1.295
 ncdf4: '1.24'
 ncdf4.helpers: 0.3-7
 ncdfCF: 0.8.2
-ncdfgeom: 1.2.2
+ncdfgeom: 1.2.3
 ncdump: 0.0.5
 ncf: 1.3-3
 ncg: 0.1.1
@@ -23526,7 +23526,7 @@ nhanesA: 1.4.1
 nhanesR: 0.1.6
 nhanesdata: 0.2.2
 nhanesdiva: 1.0.2
-nhdR: 0.6.1
+nhdR: 0.6.2
 nhdplusTools: 1.5.2
 nhds: 1.0.3
 nhlapi: 0.1.4
@@ -23567,7 +23567,7 @@ nimbleQuad: 1.4.0
 nimbleSCR: 0.2.1
 nimbleSMC: 0.11.1
 nimblewomble: 0.1.0
-nipals: '1.0'
+nipals: '1.2'
 nipnTK: 0.2.2
 nirs4alldatasets: 0.2.0
 nisone: 0.0.2
@@ -28231,7 +28231,7 @@ rtables: 0.6.16
 rtables.officer: 0.1.2
 rtabulator: 0.1.2
 rtape: '2.2'
-rtdists: 0.11-6
+rtdists: 0.12-0
 rtematres: '0.2'
 rtemis: 1.2.7
 rtemis.a3: 0.5.3
@@ -28314,7 +28314,7 @@ runonce: 0.3.3
 runstats: 1.1.0
 rupturesRcpp: 1.0.2
 rurality: 0.1.1
-rurl: 1.2.0
+rurl: 3.0.1
 rusda: 1.0.8
 rush: 1.3.0
 rusk: 0.1.1
@@ -28375,7 +28375,7 @@ rxSeq: 0.99.3
 rxivistr: 0.1.1
 rxode2: 5.1.6
 rxode2et: 2.0.13
-rxode2ll: 2.0.16
+rxode2ll: 2.0.17
 rxode2mrgsolvebridge: 0.1.0
 rxode2parse: 2.0.19
 rxode2random: 2.1.1
@@ -32154,7 +32154,7 @@ tsnet: 0.2.0
 tsnetwork: '1.2'
 tsoutliers: 0.6-10
 tspmeta: '1.2'
-tspredit: 2.0.707
+tspredit: 2.0.717
 tsqn: 1.2.0
 tsqr: 0.2.0
 tsriadditive: 1.0.0
