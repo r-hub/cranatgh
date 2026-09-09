@@ -1112,7 +1112,7 @@ CASCORE: 0.1.2
 CASIdata: 0.2.1
 CASMAP: 0.6.1
 CASMI: 2.0.0
-CAST: 1.1.1
+CAST: 1.1.2
 CATAcode: 1.0.0
 CATT: '2.0'
 CATTexact: 0.1.1
@@ -1246,6 +1246,7 @@ CLAG: 2.18.1
 CLAST: 1.0.1
 CLDedgelister: 1.0.3
 CLIC: '0.1'
+CLIQUE: 1.0.0
 CLME: 2.0-13
 CLONETv2: 2.2.1
 CLRtools: 0.1.2
@@ -2159,8 +2160,8 @@ DTS: 0.1.1
 DTSEA: 0.0.3
 DTSR: 0.2.2
 DTSg: 2.1.0
-DTWBI: '1.1'
-DTWUMI: '1.0'
+DTWBI: '1.2'
+DTWUMI: '1.1'
 DTwrappers: 0.0.2
 DTwrappers2: 0.0.3
 DUBStepR: 1.2.0
@@ -3194,6 +3195,7 @@ FuzzyClass: 0.1.7
 FuzzyDBScan: 0.0.3
 FuzzyImputationTest: 0.5.5
 FuzzyLP: 0.1-7
+FuzzyLogit: 0.1.1
 FuzzyM: 0.1.0
 FuzzyMCDM: '1.1'
 FuzzyNumbers: 0.4-7
@@ -6882,7 +6884,7 @@ Pv3Rs: 1.0.0
 PvSTATEM: 0.2.2
 PwePred: 1.1.2
 PwrGSD: 2.3.8
-PxWebApiData: 1.9.0
+PxWebApiData: 2.0.0
 PythonInR: 0.1-12
 PytrendsLongitudinalR: 0.1.4
 Q2q: 0.1.2
@@ -6997,7 +6999,7 @@ R.cache: 0.17.0
 R.devices: 2.17.4
 R.filesets: 2.15.1
 R.huge: 0.10.1
-R.matlab: 3.7.0
+R.matlab: 3.8.0
 R.methodsS3: 1.8.2
 R.oo: 1.27.1
 R.rsp: 0.46.0
@@ -7887,7 +7889,7 @@ RcppTskit: 0.2.0
 RcppUUID: 1.2.0
 RcppXPtrUtils: 0.1.3
 RcppXsimd: 7.1.6-2
-RcppXts: 0.0.6
+RcppXts: 0.0.7
 RcppZiggurat: 0.1.8
 Rcppautodiff: 0.1.0
 Rcrawler: 0.1.9-1
@@ -9813,7 +9815,7 @@ TwoRegression: 1.1.1
 TwoSampleTest.HD: '1.2'
 TwoStepCLogit: 1.2.6
 TwoStepSDFM: 0.2.2
-TwoTimeScales: 1.2.1
+TwoTimeScales: 1.3.1
 TwoWayFEWeights: 2.1.0
 TwoWaySurvival: '2.2'
 TwslmSpikeWeight: 1.0.1
@@ -10541,7 +10543,7 @@ aeddo: 0.1.1
 aedl: 0.1.0
 aedseo: 1.1.0
 aelab: 1.1.3
-aemo: 0.4.1
+aemo: 0.4.2
 aesopR: 0.1.0
 afCEC: 1.0.2
 afc: 1.4.0
@@ -10826,7 +10828,7 @@ anomalyDetection: 0.2.5
 anominate: '0.7'
 anomo: 1.3.2
 anonymizer: 0.2.0
-anovapowersim: 1.1.0
+anovapowersim: 1.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
 ant: 0.0-10
@@ -10837,7 +10839,7 @@ antaresViz: 0.18.3
 antedep: 0.2.0
 anthro: 1.1.0
 anthroplus: 1.1.0
-anticlust: 0.8.14
+anticlust: 0.8.16
 antitrust: 0.99.33
 antiword: 1.3.5
 anyLib: 1.0.5
@@ -11723,7 +11725,7 @@ bidser: 0.5.0
 bidsr: 0.1.1
 bidux: 0.4.0
 bifactorial: 1.4.7
-bifactory: 0.5.2
+bifactory: 0.6.0
 bife: 0.7.3
 bifrost: 0.1.4
 bifurcatingr: 2.1.0
@@ -11746,7 +11748,7 @@ bigQueryR: 0.5.0
 bigRR: 1.3-10
 bigReg: 0.1.5
 bigSurvSGD: 0.0.1
-bigalgebra: 3.1.0
+bigalgebra: 3.1.1
 biganalytics: 1.1.22
 bigassertr: 0.2.0
 bigbang: 0.4.0
@@ -11908,7 +11910,7 @@ birankr: 1.0.1
 birch: 1.2-3
 birdcolors: 1.0.1
 birddog: 1.0.4
-birdie: 0.7.1
+birdie: 0.8.0
 birdnetR: 0.3.2
 birdnik: 0.1.1
 birdring: '1.6'
@@ -12500,7 +12502,7 @@ caracas: 2.1.1
 caradpt: 0.1.0
 carat: 2.3.0
 carbonate: 0.1.4
-carbondata: 0.1.0
+carbondata: 0.2.0
 carbondate: 1.1.0
 carbonpredict: 2.0.1
 carbonr: 0.2.7
@@ -12965,7 +12967,7 @@ cif: 0.1.1
 ciflyr: 0.1.2
 cifmodeling: 1.0.0
 cifti: 0.5.0
-ciftiTools: 0.19.0
+ciftiTools: 0.21.1
 cimir: 0.4-1
 cimis: 0.1-7
 cin: '0.1'
@@ -13088,7 +13090,7 @@ climate.plot: 0.1-2
 climateBR: 0.2.0
 climateStability: 0.1.4
 climatehealth: 1.0.3
-climatekit: 0.2.0
+climatekit: 0.2.2
 climatestatsr: 0.1.2
 climatol: 4.5-0
 climatrends: '1.2'
@@ -13509,7 +13511,7 @@ compute.es: 0.2-6
 comradesOO: 0.1.1
 comsimitv: 0.1.5
 comstab: 0.0.3
-comtrade: 0.1.0
+comtrade: 0.1.1
 comtradr: 1.0.6
 con2aqi: 0.1.0
 con2lki: 0.1.0
@@ -15152,7 +15154,7 @@ doubcens: '1.1'
 doublIn: 0.2.0
 double.truncation: '1.8'
 doubt: 0.1.0
-douconca: 1.2.5.1
+douconca: 1.2.6
 doudpackage: 2.1.0
 downlit: 0.4.5
 downloader: 0.4.1
@@ -17166,7 +17168,7 @@ frbf: 1.0.1
 frbinom: 1.0.0
 frbs: 3.3-0
 frechet: 0.3.0
-fred: 0.2.0
+fred: 0.3.1
 fredr: 2.1.0
 free: 1.0.2
 free1way.docreg: 1.0-3
@@ -17470,7 +17472,7 @@ gammi: '0.2'
 gamreg: '0.3'
 gamsel: 1.8-5
 gamselBayes: 2.0-3
-gamstransfer: 3.0.8
+gamstransfer: 3.0.9
 gamutil: 0.8.1
 ganDataModel: 2.0.1
 ganGenerativeData: 2.1.6
@@ -17782,6 +17784,7 @@ geoperu: 0.0.1
 geophys: 1.4-1
 geoprofiler: 0.0.4
 geopsych: 0.1.0
+georefar: 0.1.0
 georefdatar: 0.6.5
 georob: 0.3-23
 geos: 0.2.5
@@ -18279,7 +18282,7 @@ glm.predict: 4.3-2
 glm2: 1.2.1
 glm4: 0.1.0
 glmBfp: 0.0-60
-glmMisrep: 0.1.2
+glmMisrep: 0.1.3
 glmSTARMA: 1.1.0
 glmaag: 0.0.6
 glmbayes: 0.9.75
@@ -18725,7 +18728,7 @@ gsEasy: '1.5'
 gsMAMS: 0.7.2
 gsMeanFreq: 0.1.0
 gsalib: 2.2.1
-gsaot: 1.1.1
+gsaot: 1.2.0
 gsarima: 0.1-5
 gsbDesign: 1.0-3
 gsbm: 0.2.2
@@ -18846,7 +18849,7 @@ h3sdm: 0.1.7
 h5: 0.9.9
 h5lite: 2.1.1.1
 h5r: 1.4.7
-hBayesDM: 2.0.0
+hBayesDM: 2.0.1
 hIRT: 0.3.0
 hJAM: 1.0.0
 hNMF: '1.0'
@@ -19379,7 +19382,7 @@ hydrochem: 0.1.0
 hydrodownloadR: 0.1.3
 hydroeval: 0.1.0
 hydrogeo: 0.6-1
-hydrogeofetch: 2.0.3
+hydrogeofetch: 2.0.4
 hydrolinks: 0.10.0
 hydroloom: 1.2.1
 hydromeso: 0.1.0
@@ -19815,7 +19818,7 @@ infiltrodiscR: 0.0.5
 infinitefactor: '1.0'
 infix: 0.1.0
 infixit: 0.3.1
-inflateR: 0.1.3
+inflateR: 0.2.0
 inflationkit: 0.1.0
 inflection: 1.3.7
 influence.ME: 0.9-10
@@ -20045,7 +20048,7 @@ iq: 2.0.1
 iqLearn: '1.5'
 iqspr: '2.3'
 ir: 0.4.2
-irace: 4.4.3
+irace: 4.4.4
 iraceplot: 2.1.0
 irboost: 0.2-1.1
 ircor: '1.0'
@@ -21020,6 +21023,7 @@ linguisticsdown: 1.2.0
 link: 2024.4.0
 link2GI: 0.7-2
 linkR: 1.1.1
+linkagg: 0.1.0
 linkcomm: 1.0-14
 linkeR: 0.1.3
 linkedInadsR: 0.1.0
@@ -23607,6 +23611,7 @@ nlmixr2plot: 5.1.0
 nlmixr2rpt: 0.2.2
 nlmixr2save: 0.2.0
 nlmixr2targets: 0.1.0
+nlmixr2utils: 0.3.1
 nlmm: 1.1.1
 nlmrt: 2016.3.2
 nlnet: '1.4'
@@ -24111,7 +24116,7 @@ onmaRg: 1.0.3
 onnx: 0.0.3
 onnxr: 0.1.2
 onpoint: '1.1'
-ons: 0.1.3
+ons: 0.1.4
 onsr: 1.0.2
 onsvplot: 0.3.2
 onsvtables: 0.1.0
@@ -25811,7 +25816,7 @@ primerTree: 1.1.0
 primes: 1.6.1
 princurve: 2.1.6
 prinsimp: 0.8-8
-prinsurf: '1.0'
+prinsurf: '2.0'
 printify: 1.0.3
 printr: '0.3'
 printtree: 0.2.1
@@ -27053,7 +27058,7 @@ readaec: 0.2.0
 readapra: 0.2.3
 readbitmap: 0.1.5
 readbulk: 1.1.4
-readecb: 0.1.2
+readecb: 0.1.4
 readelan: 0.1.0
 readepi: 1.0.6
 reader: 1.1.0
@@ -27065,9 +27070,9 @@ readmission: 0.1.0
 readmit: 0.0.1
 readmnist: 1.0.6
 readmoRe: 0.2-15
-readnoaa: 0.1.1
+readnoaa: 0.2.1
 readobj: 0.4.1
-readoecd: 0.3.3
+readoecd: 0.3.4
 readosense: 0.0.1
 readr: 2.2.0
 readrba: 0.1.12
@@ -28630,11 +28635,11 @@ scPloidy: 0.6.2
 scR: 0.7.0
 scRNAstat: 0.1.1.2
 scRNAtools: '1.0'
-scROSHI: 1.0.0.0
+scROSHI: 1.0.0.1
 scShardSplitRef: 0.1.0
 scSorter: 0.0.2
 scSpatialSIM: 0.1.4
-scStability: 1.0.3
+scStability: 1.0.4
 scTEP: 0.1.0
 scTenifoldKnk: '1.1'
 scTenifoldNet: '1.4'
@@ -31510,6 +31515,7 @@ tidycensus: 1.8.1
 tidycensuskr: 0.3.0
 tidychangepoint: 1.0.5
 tidycharts: 0.1.3
+tidycjk: 0.1.0
 tidyclust: 0.3.2
 tidycmprsk: 1.1.2
 tidycode: 0.1.1
@@ -32442,6 +32448,7 @@ urlshorteneR: 2.0.0
 urltools: 1.7.3.1
 urn: 2.2.1
 uroot: 2.1-3
+uroscores: 0.1.0
 ursa: 3.11.5
 us.census.geoheader: 1.0.2
 usa: 1.0.0
@@ -32646,7 +32653,7 @@ vectorbitops: 1.1.2
 vectorialcalculus: 1.0.5
 vectorsurvR: 1.6.3
 vectorwavelet: 0.1.0
-vectra: 0.11.8
+vectra: 0.12.0
 vecvec: 1.3.0
 veesa: 0.1.7
 vegIndexCalc: 0.1.0
@@ -32712,7 +32719,7 @@ vigicaen: 2.0.0
 viking: 1.0.2
 villager: 2.0.0
 vimcom: 0.9-93
-vimixr: 0.1.2
+vimixr: 0.1.3
 vimp: 2.3.6
 vimpclust: 0.1.0
 vindecodr: 0.1.1
@@ -32984,7 +32991,7 @@ webddx: 0.1.0
 webdeveloper: 1.0.5
 webdriver: 1.0.6
 webex: 0.9.2
-webexercises: 1.1.0
+webexercises: 1.2.0
 webfakes: 1.5.0
 webglobe: 1.0.3
 webmap: 1.1.1
