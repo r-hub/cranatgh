@@ -2573,7 +2573,7 @@ EMgaussian: 0.2.2
 EMpeaksR: 0.3.1
 ENA: 1.3-0
 ENMTools: 1.1.5
-ENMeval: 2.0.5.2
+ENMeval: 2.0.6
 ENiRG: 1.0.1
 ENmisc: 1.2-7
 EPGLM: 1.1.2
@@ -3842,7 +3842,7 @@ HPOSim: '1.2'
 HPZoneAPI: 1.3.0
 HPbayes: '0.1'
 HQM: '2.1'
-HRM: 1.2.1
+HRM: 1.3.0
 HRQoL: '1.0'
 HRTnomaly: 25.11.22
 HRW: 1.0-6
@@ -5932,7 +5932,7 @@ NetVAR: 0.1-2
 NetWeaver: 1.0.0
 NetworkAnalysis: 0.3-1
 NetworkChange: 1.1.0
-NetworkComparisonTest: 2.2.3
+NetworkComparisonTest: 2.2.4
 NetworkComparr: 0.0.0.9
 NetworkDistance: 0.3.6
 NetworkExtinction: 1.0.3
@@ -12401,9 +12401,9 @@ c2c: 0.1.0
 c2d4u.tools: '1.2'
 c2z: 0.2.0
 c3: 0.3.2
-c3dr: 0.2.0
+c3dr: 0.2.1
 c3net: 1.1.1.1
-cABCanalysis: 1.0.1
+cABCanalysis: 1.0.2
 cAIC4: '1.1'
 cIRT: 1.3.3
 cMonkey: 4.9.2
@@ -13690,7 +13690,7 @@ cookie: 1.0.0
 cookiecutter: 0.1.0
 cookiemonster: 0.1.0
 cookies: 0.2.3
-cooltools: '2.18'
+cooltools: '2.33'
 coop: 0.6-3
 coopProductGame: '2.0'
 cooptrees: '1.0'
@@ -14317,6 +14317,7 @@ damr: 0.3.8
 dams: 0.3.0
 dang: 0.0.17
 dani: 0.1-1
+danlex: 0.1.0
 dann: 1.3.0
 danstat: 0.2.0
 daoh: 0.1.0
@@ -15730,6 +15731,7 @@ eiPartialID: 0.1.2
 eia: 0.4.2
 eicm: 1.0.3
 eider: 1.0.0
+eidosapi: 1.2.0
 eigencore: 1.0.3
 eigendog: '1.01'
 eigeninv: 2011.8-1
@@ -18994,7 +18996,7 @@ hddtools: 0.9.4
 hdeco: 0.4.1
 hdf5: 1.6.9
 hdf5lib: 2.2.0.0
-hdf5r: 1.3.15
+hdf5r: 1.3.16
 hdf5r.Extra: 0.1.0
 hdflex: 0.3.2
 hdfqlr: 0.6-2
@@ -19328,7 +19330,7 @@ html2pdfR: 0.1.0
 html5: 1.0.2
 htmlTable: 2.5.0
 htmldf: 0.6.0
-htmlreportR: 1.0.0
+htmlreportR: 2.0.1
 htmltab: 0.8.2
 htmltidy: 0.5.0
 htmltools: 0.5.9
@@ -20061,7 +20063,7 @@ ipmisc: 6.0.2
 ipmr: 0.0.7
 ipolygrowth: 1.0.0
 ipptoolbox: '1.2'
-ipr: 0.1.0
+ipr: 1.0.0
 ipred: 0.9-16
 iprior: 0.7.4
 ips: 0.1.1
@@ -20194,7 +20196,7 @@ ivd: 1.0.0
 ivdesc: 1.1.2
 ivdesign: 0.1.0
 ivdoctr: 1.0.1
-ivdtools: 0.1.3
+ivdtools: 0.2.5
 ivfixed: '1.0'
 ivgets: 0.1.2
 ivgls: 0.1.0
@@ -23254,7 +23256,7 @@ mwmapdata: 1.0.0
 mwshiny: 2.1.0
 mx.api: 0.3.1
 mx.client: 0.2.0
-mx.crypto: 0.2.1
+mx.crypto: 0.2.2
 mxcc: 0.0.6
 mxfda: 0.2.2-1
 mxkssd: '1.2'
@@ -23361,6 +23363,7 @@ nblR: 0.0.4
 nbody: '1.41'
 nbpInference: 1.0.3
 nbpMatching: 1.5.6
+nbsurv: 0.5.1
 nc: 2026.4.20
 ncaavolleyballr: 0.5.1
 ncappc: 1.0.0
@@ -23921,7 +23924,7 @@ ntsDists: 2.1.1
 ntwk: 1.0.0
 nucim: 1.0.13
 nudibranch: 0.0.1.1
-nuggets: 2.2.3
+nuggets: 2.2.4
 nullabor: 0.3.15
 nullcat: 0.2.0
 numConversion: 0.2-4
@@ -24895,7 +24898,7 @@ pec: 2025.06.24
 pecan: 0.1.0
 pecanr: 0.3.1
 pecora: 0.1.3
-pedFamilias: 0.2.5
+pedFamilias: 0.2.6
 pedMermaid: 1.0.2
 pedSimulate: 1.4.3
 pedalfast.data: 1.0.2
@@ -24909,7 +24912,7 @@ pedigreemm: 0.3-5
 pedmod: 0.2.4
 pedmut: 0.9.1
 pedometrics: 0.12.1
-pedprobr: 1.1.0
+pedprobr: 1.1.1
 pedquant: 0.2.6
 pedsuite: 1.4.0
 pedtools: 2.11.0
@@ -26482,6 +26485,7 @@ r4ss: 1.44.0
 r4sub: 0.1.0
 r4subcore: 0.1.0
 r4subdata: 0.1.1
+r4subpharma: 0.1.0
 r4subprofile: 0.1.0
 r4subrisk: 0.1.0
 r4subscore: 0.1.0
@@ -28096,6 +28100,7 @@ rprojroot: 2.1.1
 rprojtree: 1.0.0
 rpsftm: 1.2.9
 rpst: 1.0.0
+rpsurv: 0.7.1
 rpsychi: '0.8'
 rptR: 0.9.23
 rpubchem: 1.5.10
@@ -28931,7 +28936,7 @@ segclust2d: 0.3.3
 segen: 2.0.1
 segmag: 1.2.4
 segmenTier: 0.1.2
-segmented: 2.2-1
+segmented: 2.2-2
 segmentr: 0.2.0
 segmetric: 0.3.0
 segregation: 1.1.0
@@ -29520,7 +29525,7 @@ simpleboot: 1.1-8
 simplecolors: 0.1.4
 simplegraph: 1.0.1
 simplegraphdb: 2021.03.10
-simplermarkdown: 0.0.6
+simplermarkdown: 0.1.0
 simpleroptions: 0.2.0
 simpletex: 1.0.5
 simplevis: 7.1.0
@@ -32579,6 +32584,7 @@ validann: '1.3'
 validata: 0.1.1
 validate: 1.1.7
 validateIt: 1.2.1
+validateR: 0.2.0
 validateRS: 1.0.0
 validatedb: 0.1.4
 validatejsonr: 1.0.4
