@@ -121,6 +121,7 @@ AMOEBA: '1.1'
 AMORE: 0.2-16
 AMPLE: 1.0.2
 AMR: 3.0.1
+AMRsurveilR: 0.1.0
 ANLP: '1.3'
 ANN: 0.1.4
 ANN2: 2.4.0
@@ -423,6 +424,7 @@ AurieLSHGaussian: 0.2.0
 AustralianPoliticians: 0.1.0
 AutoAds: 0.1.0
 AutoDeskR: 0.5.0
+AutoEDA: 0.1.1
 AutoGenAI: 0.1.0
 AutoMLR: 1.0.0
 AutoModel: 0.4.9
@@ -1708,6 +1710,7 @@ CompositionalRF: '1.7'
 CompositionalSR: '1.4'
 CompositionalZADR: '1.0'
 Compositionalasmr: '1.0'
+Compositionalscsmr: '1.0'
 Compositionalzerocens: '1.0'
 CompoundEvents: '1.0'
 Compounding: 1.0.2
@@ -3132,6 +3135,7 @@ FoCo2: 0.1.4
 FoRDM: 1.0.3
 FoReco: 1.3.1
 FoRecoML: 1.1.1
+FocusGroup: 0.5.2
 ForCausality: 0.1.0
 ForIT: 2.5.2
 ForImp: 1.0.3
@@ -4612,6 +4616,7 @@ LLMAgentR: 0.3.2
 LLMR: 0.8.11
 LLMR.shiny: 0.1.2
 LLMRagent: 0.8.1
+LLMRpanel: 0.6.1
 LLMTranslate: 0.4.0
 LLMing: 1.3.0
 LLN: 1.1.1
@@ -5373,6 +5378,7 @@ MasterBayes: '2.59'
 MatManlyMix: 1.1.1
 MatSkew: 0.1.5
 MatTransMix: 0.1.18
+MatchAlign: 0.1.2
 MatchGATE: 0.0.10
 MatchIt: 4.7.2
 MatchIt.mice: 3.0.1
@@ -5589,6 +5595,7 @@ MoMPCA: 1.0.1
 MoNAn: 1.1.0
 MoTBFs: '2.0'
 MobileTrigger: 0.0.31
+MobilityDataPT: '1.0'
 Mobilize: 2.16-4
 ModEstM: 0.0.1
 ModLR: 0.1.29
@@ -5777,6 +5784,7 @@ NGBVS: 0.3.0
 NGCHM: 1.0.4
 NGLVieweR: 1.4.0
 NGSSEML: '2.2'
+NGSToolKit: 0.1.4
 NHANES: 2.1.4
 NHEMOtree: '1.0'
 NHLData: 1.0.0
@@ -5946,6 +5954,7 @@ NetworkToolbox: 1.4.4
 NeuDist: 1.0.1
 NeuralEstimators: 0.2.2
 NeuralNetTools: 1.5.3
+NeuralSTATIS: 0.1.0
 NeuralSens: 1.1.3
 NeuroDataSets: 0.3.1
 NeuroDecodeR: 0.2.0
@@ -6172,6 +6181,7 @@ OptHedging: '1.0'
 OptHoldoutSize: 0.1.0.2
 OptInterim: 3.0.1
 OptM: 0.1.9
+OptOR: 0.1.0
 OptOTrials: 1.0.3
 OptSig: '2.2'
 OptSurvCutR: 0.10.0
@@ -6822,6 +6832,7 @@ ProDenICA: '1.1'
 ProFAST: '1.9'
 ProFit: 1.3.3
 ProFound: 1.14.1
+ProMetaR: 1.0.0
 ProNet: 1.0.0
 ProPublicaR: 1.1.4
 ProSGPV: 1.0.0
@@ -8039,6 +8050,7 @@ Revticulate: 1.0.0
 Rexperigen: 0.2.1
 RfEmpImp: 2.1.8
 Rfacebook: 0.6.15
+Rfactor: 0.2.0
 Rfast: 2.1.5.2
 Rfast2: 0.1.5.6
 Rfit: 0.27.0
@@ -8508,7 +8520,7 @@ SIDES: '1.18'
 SIEVEseq: 0.0.0
 SIGN: 0.1.0
 SIHR: 2.1.1
-SII: 1.0.3.1
+SII: 1.2.4
 SILFS: 0.1.0
 SILGGM: 1.0.0
 SILM: 1.0.0
@@ -8523,7 +8535,7 @@ SIN: '0.6'
 SINGLE: '1.3'
 SINRELEF.LD: 1.1.0
 SIP: 0.1.0
-SIPDIBGE: 0.2.1
+SIPDIBGE: 0.2.2
 SIPETool: 0.1.0
 SIPmg: '3.0'
 SIRE: 1.1.0
@@ -8791,6 +8803,7 @@ SafeVote: 1.0.2
 SailoR: '1.2'
 Sample.Size: '1.0'
 SampleCore: 0.1.0
+SampleSelectR: 1.0.0
 SampleSize4ClinicalTrials: 0.2.3
 SampleSizeCalculator: 0.1.0
 SampleSizeDiagnostics: 0.1.1
@@ -8865,7 +8878,7 @@ SelectionBias: 2.1.0
 SelfControlledCaseSeries: 6.1.5
 SelfControlledCohort: 2.0.0
 SelvarMix: 1.2.1
-SemNeT: 1.4.5
+SemNeT: 2.0.0
 SemNetCleaner: 1.3.7
 SemNetDictionaries: 0.2.1
 SemanticDistance: 0.1.1
@@ -9873,6 +9886,7 @@ USE: 0.1.6
 USGSstates2k: 1.0.1
 USP: 0.1.2
 USPS: 1.2-2
+USPopulationSampler: 0.1.1
 UScancer: 0.1-2
 UScensus2000: '1.02'
 UScensus2000add: '1.02'
@@ -10420,11 +10434,12 @@ actel: 1.4.0
 actfts: 0.3.0
 actiRhythm: 0.1.0
 actibase: 0.5.0
-actigraph.sleepr: 0.3.1
+actigraph.sleepr: 0.4.0
 actilifecounts: 1.1.1
 actinet: 0.4.0
 actiquantiles: 0.1.0
 actiread: 0.5.0
+actisensorlog: 0.2.0
 activAnalyzer: 2.1.2
 activPAL: 0.1.4
 activatr: 0.2.1
@@ -11237,6 +11252,7 @@ autostsm: 3.1.5
 autosync: 0.1.0
 autota: 0.1.3
 autotab: '1.1'
+autotest: 0.2.0
 autotestR: 1.2.16
 autotesteR: 0.1.12
 autothresholdr: 1.4.3
@@ -11330,6 +11346,7 @@ baclava: '1.1'
 bacondecomp: 0.1.1
 bacontrees: 1.0.0
 bacr: 1.0.1
+badcontrols: 1.0.1
 badgecreatr: 0.2.0
 badgen: 1.0.1
 badger: 0.2.5
@@ -11415,6 +11432,7 @@ basepenguins: 0.1.0
 baseq: 0.2.0
 baserater: 0.1.2
 bases: 0.2.1
+basetable: 1.3.2
 basetheme: 0.1.3
 baseverse: 0.1.4
 basf: 0.2.0
@@ -12619,6 +12637,7 @@ catspec: '0.97'
 cattonum: 0.0.5
 catviz: 0.1.1
 cauchypca: '1.4'
+cauchyreg: '1.0'
 caugi: 1.3.0
 cauphy: 1.0.3
 causact: 0.6.0
@@ -12748,6 +12767,7 @@ cellKey: 1.0.3
 cellOrigins: 0.1.3
 cellVolumeDist: '1.5'
 cellWise: 2.5.7
+celliverse: 0.0.2
 cellkeyperturbation: 3.0.0
 cellpypes: 0.3.0
 cellranger: 1.1.0
@@ -12915,6 +12935,7 @@ chessR: 1.5.2
 chessResults: 2026.08.27
 chessboard: '0.1'
 chest: 0.3.7
+chestR: 0.1.0
 chevron: 0.2.13
 chi: '0.1'
 chi2x3way: '1.1'
@@ -13743,6 +13764,7 @@ corehunter: 3.2.3
 corella: 0.1.4
 corels: 0.0.6
 coresynth: 0.5.0
+coreval: 0.1.0
 corkscrew: '1.1'
 corlink: 1.0.0
 corncob: 0.4.2
@@ -14467,7 +14489,7 @@ dawai: 1.2.8
 dawnn: 2.2.0
 daySupply: 0.1.0
 daymetr: 1.7.1
-days2lessons: 0.1.3
+days2lessons: 1.0.0
 db.r: 0.1.3
 db2pq: 0.0.4
 dbConnect: '1.0'
@@ -16662,6 +16684,7 @@ fdclassify: 0.1.0
 fdcov: 1.1.0
 fddm: 1.0-2
 fdesigns: '1.2'
+fdic: 0.1.2
 fdicdata: 0.1.2
 fdid: 1.0.2
 fdim: 1.0-7
@@ -17112,6 +17135,7 @@ forestploter: 1.1.4
 forestr: 2.0.2
 forestry: 0.1.1
 forestsearch: 0.1.0
+foresty: 0.1.0
 foretell: 0.2.0
 forge: 0.2.1
 forgts: 0.0.1
@@ -17277,6 +17301,7 @@ fslr: 2.27.0
 fsn: '0.4'
 fso: 2.1-4
 fspe: 0.1.2
+fspls2: 0.1.0
 fsr: 2.0.1
 fssemR: 0.1.8
 fssg: 1.0.0
@@ -17580,7 +17605,7 @@ gclink: '1.1'
 gclm: 0.0.1
 gclus: 1.3.3
 gcmr: 1.0.4
-gcmrec: 1.0-3
+gcmrec: 2.0.0
 gcolor: '1.0'
 gcomputation: '0.34'
 gconcord: '0.41'
@@ -17828,6 +17853,7 @@ geosapi: 0.8-1
 geoscale: 2.0.1
 geosed: 0.1.1
 geosimilarity: '3.9'
+geosmooth: 0.1.0
 geospacom: 0.5-8
 geospark: 0.3.1
 geospatialsuite: 0.2.0
@@ -19554,6 +19580,7 @@ ibdsim2: 2.3.3
 ibeemd: 1.0.1
 ibelief: 1.3.1
 ibger: 0.2.0
+ibist: 0.1-0
 ibkrcp: 0.1.2
 ibm: 0.3.0
 ibmAcousticR: 0.2.1
@@ -20632,6 +20659,7 @@ krm: 2022.10-17
 kro.inv.test: 0.1.3
 kronos: 1.0.0
 kronxNBC: 0.1.1
+krt: 0.1.0
 ks: 1.15.3
 ksNN: 0.1.2
 ksamplesLTRC: 0.1.0
@@ -21642,6 +21670,7 @@ marble: 0.0.4
 march: 3.3.2
 marcher: 0.0-2
 marcox: 1.0.0
+marcxmlr: 0.1.0
 marelac: 2.1.11
 marelacTeaching: '1.1'
 marg: 1.2-4
@@ -21704,6 +21733,7 @@ massiveGST: 1.2.4
 mastif: '2.4'
 matR: 0.9.1
 matRiks: 0.1.5
+matSPACE: 0.1.0
 matahari: 0.1.4
 match2C: 1.2.4
 matchFeat: '1.0'
@@ -22026,6 +22056,7 @@ metaDigitise: 1.0.2
 metaDyn: 1.0.4
 metaEnsembleR: 0.1.0
 metaGE: 1.2.2
+metaGLMM: 1.0.0
 metaHelper: 1.0.1
 metaLik: 0.44.0
 metaLong: 0.1.0
@@ -22073,7 +22104,7 @@ metaheur: 0.2.0
 metaheuristicOpt: 2.0.0
 metainc: 0.2-1
 metainsight: 7.1.0
-metajam: 0.3.1
+metajam: 0.3.2
 metalcor: 1.0.0
 metalite: 0.1.4
 metalite.ae: 0.1.4
@@ -23809,6 +23840,7 @@ normalize: 0.1.3
 normalizeH: 1.0.0
 normalp: 0.7.2.1
 normalr: 1.0.0
+normanR: 1.8.79
 normfluodbf: 2.0.3
 normix: 0.9-0
 normref: 0.1.2
@@ -26281,6 +26313,7 @@ qpNCA: 1.1.6
 qpcR: 1.4-2
 qpdf: 1.4.1
 qpmadr: 1.1.0-0
+qpost: 1.0.0
 qqboxplot: 0.3.0
 qqconf: 1.3.2
 qqid: 1.0.3
@@ -27019,6 +27052,7 @@ rdacca.hp: 1.1-3
 rdaemon: 1.0.6
 rdaisi: 0.1.3
 rdatacite: 0.5.4
+rdatagouv: 0.1.0
 rdatamarket: 0.6.5
 rdataretriever: 3.1.1
 rdav: 0.3.0
@@ -27374,7 +27408,7 @@ reportROC: '3.6'
 reportReg: 0.3.0
 reportRmd: 0.1.3
 reportRx: '1.0'
-reporter: 1.4.8
+reporter: 1.4.9
 reportfactory: 0.4.0
 reportr: 1.3.1
 reports: 0.1.4
@@ -28442,6 +28476,7 @@ rysgran: 2.1.0
 rytstat: 0.3.2
 rzeit2: 0.2.3
 rzentra: 0.1.0
+rzig: 0.2.3
 rzmq: 0.9.16
 s2: 1.1.12
 s20x: 3.3.0
@@ -29838,6 +29873,7 @@ snpsettest: 0.1.2
 snreg: 1.2.0
 sns: 1.2.2
 snvecR: 3.10.1
+soReta: 0.1.0
 sobir: 0.1.2
 sobol: 1.0.0
 sobolnp: 0.1.0
@@ -30129,6 +30165,7 @@ spca: 1.1.3
 spcadjust: '1.1'
 spclust: '1.2'
 spconf: 1.0.1
+spconform: 0.1.0
 spcosa: 0.4-6
 spcov: '1.3'
 spcr: 2.1.1
@@ -30697,10 +30734,12 @@ stratastats: '0.2'
 stratbr: '1.2'
 stratcols: 1.0.0
 strategicplayers: '1.1'
+strategyr: 0.1.7.1
 stratification: 2.2-7
 stratifiedyh: 0.1.0
 stratifyR: 2.0-1
 stratigraph: '0.66'
+stratigraphr: 0.5.0
 stratvns: '1.1'
 straweib: '1.1'
 strawr: 0.0.92
@@ -32826,6 +32865,7 @@ visreg: 3.0.0
 vistime: 1.3.0
 vistla: 2.1.2
 vistributions: 0.2.0
+visual.kaito: 0.1.0
 visualFields: 1.0.7
 visualR: 2.0.2
 visualizationTools: 0.2.05
