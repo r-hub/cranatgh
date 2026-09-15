@@ -1491,7 +1491,7 @@ Certara.ModelResults: 3.0.1
 Certara.NLME8: 3.2.0
 Certara.R: 1.1.0
 Certara.RDarwin: 1.2.0
-Certara.RsNLME: 3.1.1
+Certara.RsNLME: 3.2.0
 Certara.RsNLME.ModelBuilder: 3.0.1
 Certara.RsNLME.ModelExecutor: 3.1.0
 Certara.VPCResults: 3.0.2
@@ -1701,7 +1701,7 @@ Compind: '3.6'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
-Compositional: '8.3'
+Compositional: '8.4'
 CompositionalClust: '1.3'
 CompositionalHDDA: '1.0'
 CompositionalML: '1.0'
@@ -6352,7 +6352,7 @@ PGaovR: 0.1.1
 PH1XBAR: 0.11.3
 PHENIX: 1.3.2
 PHENTHAUproc: 1.1.2
-PHEindicatormethods: 2.1.1
+PHEindicatormethods: 2.1.2
 PHInfiniteEstimates: 2.9.5
 PHSMM: '1.0'
 PHYLOGR: 1.0.12
@@ -9261,7 +9261,7 @@ StatisticTeach1: 0.1.2
 Statomica: '1.0'
 StatsTFLValR: 1.0.0
 Statsomat: 1.1.0
-SteadyStateBVAR: 0.1.1
+SteadyStateBVAR: 0.2.0
 StealLikeBayes: '2.0'
 SteinIV: 0.1-1
 SteinerNet: 3.1.0
@@ -11208,7 +11208,7 @@ authordown: 0.1.0
 authoritative: 0.2.0
 auto.pca: '0.3'
 autoBagging: 0.1.0
-autoCovariateSelection: 1.0.0
+autoCovariateSelection: 1.0.1
 autoEnsemble: '0.3'
 autoFC: 1.0.0.1100
 autoFRK: 1.4.4
@@ -11353,7 +11353,7 @@ badcontrols: 1.0.1
 badgecreatr: 0.2.0
 badgen: 1.0.1
 badger: 0.2.5
-badp: 0.6.1
+badp: 0.7.0
 baf: 0.0.4
 baffle: 0.2.2
 bagRboostR: 0.0.2
@@ -14198,7 +14198,7 @@ cuml4r: 0.1.0
 cumplyr: 0.1-1
 cumprinc: '0.1'
 cumstats: '1.0'
-cumulcalib: 0.1.0
+cumulcalib: 0.2.0
 cumulocityr: 0.1.0
 cuperdec: 1.1.0
 cureAssess: 0.1.0
@@ -16585,7 +16585,7 @@ fasteraster: 1.1.1
 fasterize: 1.1.0
 fastfocal: 0.1.3
 fastgbm: 0.6.1
-fastgeojson: 0.1.3
+fastgeojson: 0.3.0
 fastglm: 0.1.2
 fastglmpca: 0.1-108
 fasthplus: '1.0'
@@ -17149,7 +17149,7 @@ formatBibtex: 0.1.1
 formatR: '1.14'
 formatdown: 0.2.0
 formattable: 0.2.1
-formatters: 0.5.12
+formatters: 0.5.13
 formods: 0.2.2
 formr: 1.1.0
 formula.tools: 1.7.1
@@ -20697,7 +20697,7 @@ kvkapiR: 0.1.2
 kvr2: 0.2.0
 kwb.hantush: 0.3.0
 kyotil: 2024.11-01
-kza: 4.1.0.1
+kza: 4.2.0
 kzfs: 1.5.0.2
 kzft: '0.17'
 kzs: 1.4.1
@@ -21310,7 +21310,7 @@ lognGPD: 0.1.0
 lognorm: 0.1.10
 logolink: 1.0.0
 logos: 0.1.0
-logr: 1.3.9
+logr: 1.4.0
 logregperm: '1.0'
 logrx: 0.4.0
 logrxaddin: 0.0.1
@@ -21397,7 +21397,7 @@ lrd: 0.1.0
 lrequire: 0.1.3
 lrgs: 0.5.4
 lrmest: '3.0'
-lrstat: 0.3.3
+lrstat: 0.3.4
 lsReg: 1.0.0
 lsa: 0.73.4
 lsasim: 2.1.6
@@ -21983,7 +21983,7 @@ mediationsens: 0.0.3
 medicalcoder: 0.9.0
 medicaldata: 0.2.0
 medicalrisk: '1.3'
-medicare: 0.2.1
+medicare: 0.3.0
 meditate: 0.1.3
 meditations: 1.0.1
 medmod: 1.2.0
@@ -22112,7 +22112,7 @@ metaheuristicOpt: 2.0.0
 metainc: 0.2-1
 metainsight: 7.1.0
 metajam: 0.3.2
-metalcor: 1.0.0
+metalcor: 1.0.2
 metalite: 0.1.4
 metalite.ae: 0.1.4
 metalite.sl: 0.1.3
@@ -23470,7 +23470,7 @@ neonSoilFlux: 4.0.1
 neonUtilities: 4.0.2
 neonstore: 0.5.1
 neotoma: 1.7.4
-neotoma2: 1.0.12
+neotoma2: 1.1.0
 nephro: '1.5'
 neptune: 0.2.3
 nesRdata: 0.3.1
@@ -25163,7 +25163,7 @@ phonfieldwork: 0.0.17
 phonics: 1.4.0
 phontrast: 2.4.1
 phosphoricons: 0.2.1
-photobiology: 0.14.2
+photobiology: 0.14.3
 photobiologyFilters: 0.6.1
 photobiologyInOut: 0.4.33
 photobiologyLEDs: 0.5.3
@@ -27492,7 +27492,7 @@ restrictedMVN: '1.0'
 restriktor: 0.6-50
 result: 0.1.0
 resultant: 1.0.0
-resultcheck: 0.3.0
+resultcheck: 0.3.1
 resumer: 0.0.5
 resumiR: 1.0.2
 retel: 0.1.1
@@ -27648,7 +27648,7 @@ rhythm.metrics: 1.1.0
 ri: '0.9'
 ri2: 0.5.0
 riAFTBART: 0.3.3
-ria.test: 0.2.1
+ria.test: 0.3.0
 rib: 0.30.4
 ribd: 1.7.2
 ribiosArg: 1.5.0
@@ -27833,7 +27833,7 @@ rmcorr: 0.7.0
 rmd: 0.1.5
 rmdHelpers: 1.3.1
 rmda: '1.6'
-rmdcev: 1.3.3
+rmdcev: 1.3.4
 rmdd: 0.0.0.1
 rmdfiltr: 0.1.5
 rmdformats: 1.0.4
@@ -29372,7 +29372,7 @@ shinyds: 0.5.0
 shinyelectron: 0.2.1
 shinyfa: 0.0.1
 shinyfilter: 0.1.1
-shinyfilters: 0.3.0
+shinyfilters: 0.3.1
 shinyfullscreen: 1.1.0
 shinygenui: 0.1.0
 shinyglass: 0.3.0
@@ -30806,7 +30806,7 @@ stt.api: 0.3.1
 stuart: 0.10.2
 stubthat: 1.2.1
 studentlife: 1.1.0
-studyStrap: 1.0.0
+studyStrap: 1.0.1
 stxplore: 0.1.0
 styler: 1.11.0
 stylest: 0.2.0
@@ -31683,7 +31683,7 @@ tidypmc: '2.0'
 tidypopgen: 0.4.4
 tidyposterior: 1.1.0
 tidypredict: 1.2.1
-tidyprf: 0.1.1
+tidyprf: 0.2.0
 tidyprompt: 0.4.0
 tidyquant: 1.0.12
 tidyquery: 0.2.4
