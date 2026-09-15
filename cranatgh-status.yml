@@ -1748,6 +1748,7 @@ Connection: 0.1.0
 ConsRank: '3.0'
 ConsRankClass: 1.0.2
 ConsReg: 0.1.0
+ConsTree: 1.0.0
 ConsensusCPA: 0.1.0
 ConsensusClustering: 1.5.0
 ConsensusOPLS: 1.1.0
@@ -2714,6 +2715,7 @@ EnsembleBase: 1.0.4
 EnsembleCV: '0.9'
 EnsemblePCReg: 1.1.4
 EnsemblePenReg: '0.8'
+Entropic.Scree: 1.0.1
 EntropicStatistics: 0.1.3
 EntropyEstimation: 1.2.1
 EntropyExplorer: '1.1'
@@ -2891,6 +2893,7 @@ FCPS: 1.4.1
 FCSlib: 1.3.0
 FCUSUM: 1.0.0
 FCVAR: 0.1.4
+FCtools: 2.3.1
 FD: 1.0-12.5
 FDGcopulas: '1.0'
 FDOTT: 0.2.0
@@ -7445,7 +7448,7 @@ ROCsurf: 0.1.1
 ROCsurvcomp: 0.1.2
 ROCt: 0.9.5
 ROCwoGS: '1.0'
-RODBC: 1.3-26.2
+RODBC: 1.3-26.3
 RODBCDBI: 0.1.1
 RODBCext: 0.3.2
 RODM: '1.1'
@@ -11001,6 +11004,7 @@ arcpy: 0.4-0
 arcstat: 0.3.0
 arctools: 1.1.6
 ardl.nardl: 1.3.0
+ardldml: 0.1.0
 ardlverse: 2.0.0
 ards: 0.1.3
 area: 0.2.0
@@ -11104,7 +11108,7 @@ aspace: 4.1.2
 aspect: 1.0-7
 aspi: 0.2.0
 aspline: 0.2.0
-asremlPlus: 4.4.63
+asremlPlus: 4.4.65
 assemblerr: 0.1.1
 assemblykor: 0.1.3
 assert: 1.0.1
@@ -11253,6 +11257,7 @@ automultinomial: 2.0.0
 autonewsmd: 0.1.0
 autoplotly: 0.1.7
 autopls: '1.3'
+autorelevate: 0.1.0
 autoshiny: 0.0.3
 autoslider.core: 0.3.3
 autostats: 0.4.2
@@ -11906,6 +11911,7 @@ biobouncer: 0.1.4
 biobricks: 0.2.2
 biocharkit: 0.3.0
 biocharkitgui: 0.3.1
+bioclients: 0.1.1
 bioclim: 0.4.0
 biocompute: 1.1.1
 biodosetools: 3.7.2
@@ -12973,7 +12979,7 @@ chms: '7.1'
 chmsflow: 0.1.0
 chngpt: 2024.11-15
 choiceDes: 0.9-3
-choicedata: 0.1.0
+choicedata: 0.2.0
 choicer: 0.2.1
 cholera: 0.9.1
 chomper: 0.1.3
@@ -16194,6 +16200,7 @@ evalHTE: 0.2.0
 evalITR: 1.1.0
 evalR: 0.0.1
 evaluate: 1.0.5
+evaluatellm: 0.1.0
 evaluator: 0.4.3
 evanverse: 0.5.1
 evapoRe: 1.0.1
@@ -18082,6 +18089,7 @@ gghinton: 0.1.0
 gghist: 0.1.0
 gghotelling: 0.2.1
 gghourglass: 0.0.3
+ggicons: 0.1.0
 ggimage: 0.3.5
 ggimg: 0.1.2
 ggincerta: 0.2.1
@@ -19038,6 +19046,7 @@ hdbinseg: 1.0.3
 hdbm: 0.9.0
 hdbma: '1.0'
 hdcate: 0.1.0
+hdcce: 0.1.0
 hdcuremodels: 0.0.8
 hdd: 0.1.2
 hddplot: 0.59-2
@@ -20774,6 +20783,7 @@ landform: '0.2'
 landgraph: 0.0.1
 landmaRk: 0.1.3
 landmap: 0.0.13
+landmarked: 0.2.0
 landmix: '1.0'
 landmulti: 0.5.0
 landpred: '2.0'
@@ -22111,7 +22121,7 @@ metadeconfoundR: 1.0.5
 metadynminer: 0.1.7
 metadynminer3d: 0.0.2
 metafolio: 0.1.2
-metafor: 5.0-1
+metafor: 5.2-1
 metaforest: 0.1.5
 metafrontier: 0.3.1
 metafuse: 2.0-1
@@ -23503,6 +23513,7 @@ netCDF: '1.5'
 netClass: 1.2.1
 netClust: 1.0.2
 netCoin: 2.1.19
+netDFI: 1.2.0
 netSEM: 0.7.0
 netShiny: '1.0'
 netUtils: 0.8.6
@@ -24198,6 +24209,7 @@ onemap: 3.2.6
 onemapsgapi: 2.0.0
 onepass: 0.1.2
 onetime: 0.2.0
+oneway: 0.0.2
 onewaytests: '3.1'
 onion: 1.5-3
 onlineBcp: 0.1.8
@@ -29546,6 +29558,7 @@ simPDF: 0.1.2
 simPH: 1.3.15
 simPop: 2.1.3
 simPopulation: 0.4.1
+simPsyStudy: 1.1.8
 simRestore: 1.1.5
 simStateSpace: 1.2.16
 simSummary: 0.1.0
