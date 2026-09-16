@@ -176,6 +176,7 @@ ARGOS: 0.1.1
 ARHT: 0.1.0
 ARIMAANN: 0.1.0
 ARIbrain: '0.2'
+ARInfoLSTM: 0.1.0
 ARMALSTM: 0.1.0
 AROC: 1.0-4
 ARPALData: 2.0.1
@@ -1043,7 +1044,7 @@ BorderEffect: 0.1.0
 Boruta: 10.0.0
 BosonSampling: 0.1.5
 BoundEdgeworth: 0.1.3
-BoundIRT: 0.6.0
+BoundIRT: 0.8.0
 BoundaryStats: 2.3.0
 BoutrosLab.plotting.general: 7.1.5
 BradleyTerry: 0.8-8
@@ -1327,7 +1328,7 @@ COUSCOus: 1.0.0
 COVID19: 3.0.4
 COVIDIBGE: 0.2.2
 COZIGAM: 2.0-3
-COveR: 1.1.0
+COveR: 1.1.1
 CP: '1.8'
 CPAT: 0.1.0
 CPBayes: 1.1.0
@@ -3282,7 +3283,7 @@ GDELTtools: '1.7'
 GDILM.ME: 1.2.1
 GDILM.SEIRS: 0.0.7
 GDILM.SIR: 1.2.1
-GDINA: 2.9.12
+GDINA: 2.13.1
 GDPuc: 1.6.1
 GDSARM: 0.1.1
 GE: 0.5.4
@@ -7948,7 +7949,7 @@ Rdsdp: 1.0.6
 Rdsm: 2.1.1
 Rdta: 1.0.1
 Rdtq: '0.1'
-Rduckhts: 1.5.1-0.1.3
+Rduckhts: 1.5.2-0.1.5
 Rduino: '0.1'
 Rduinoiot: 0.1.0
 Rdune: 1.1.1
@@ -12071,7 +12072,7 @@ blogdown: '1.24'
 blorr: 0.3.1
 blosc: 0.1.2
 blowtorch: 1.0.2
-blox: 0.0.1
+blox: 0.0.2
 blrm: 1.0-2
 blsAPI: 0.2.1
 blsBandit: '0.1'
@@ -12097,7 +12098,7 @@ bmixture: '1.7'
 bmk: '1.0'
 bml: 0.9.0
 bmlm: 1.3.15
-bmm: 1.3.1
+bmm: 1.3.2
 bmmix: 0.1-2
 bmotif: 2.0.2
 bmp: 0.3.1
@@ -12527,7 +12528,7 @@ cancerscreening: 1.1.1
 candisc: 1.1.1
 canprot: 2.0.0
 canpumf: 0.5.2
-cansim: 0.5.0
+cansim: 0.5.1
 cantrends: 0.1.0
 canvas: 0.2-0
 canvasXpress: 1.65.2
@@ -13412,7 +13413,7 @@ cohorts: 1.3.0
 cohorttools: 0.1.8
 coil: 1.2.4
 coin: 1.4-5
-coinclp: 0.1.0
+coinclp: 0.1.1
 coindeskr: 0.1.0
 coinmarketcapr: '0.4'
 cointReg: 0.2.0
@@ -13667,7 +13668,7 @@ connector.sharepoint: 0.1.0
 connectwidgets: 0.2.1
 conogive: 1.0.0
 conos: 1.5.4
-conover.test: 1.1.7
+conover.test: 1.2.0
 conquer: 1.3.3
 conquestr: 1.5.5
 conrad: 1.0.0.1
@@ -14492,7 +14493,7 @@ datetimeoffset: 1.0.0
 datetimeutils: 0.6-6
 datetoiso: 1.2.1
 dateutils: 0.1.5
-datey: 0.1.1
+datey: 0.1.2
 datom: 0.1.2
 datoramar: 0.1.0
 datos: 0.5.1
@@ -15245,6 +15246,7 @@ dpkg: 0.6.2
 dplR: 1.7.9
 dplRCon: '1.0'
 dplbnDE: 0.1.3
+dplyneage: 0.3.1
 dplyr: 1.2.1
 dplyr.teradata: 0.4.1
 dplyrAssist: 0.1.0
@@ -16151,7 +16153,7 @@ estats: '1.1'
 estimability: 2.0.0
 estimateW: 0.2.0
 estimators: 0.8.5
-estimatr: 1.0.6
+estimatr: 2.0.0
 estimraw: 1.0.0
 estmeansd: 1.0.1
 estout: '1.2'
@@ -16700,7 +16702,7 @@ fdapace: 0.6.0
 fdapaceShiny: 1.0.5
 fdarep: 0.1.1
 fdars: 0.3.3
-fdasrvf: 2.4.4
+fdasrvf: 2.5.0
 fdatest: 2.1.1
 fdclassify: 0.1.0
 fdcov: 1.1.0
@@ -17218,7 +17220,7 @@ fqadata: 1.1.1
 fqar: 0.5.6
 fqardl: 1.0.4
 fr: 0.5.2
-frab: 0.0-6
+frab: 0.0-7
 fracARMA: 0.1.0
 fracdiff: 1.5-4
 fracdist: 0.1.1
@@ -17788,7 +17790,7 @@ genular: 1.0.1
 genvar: 0.0.2.0
 geo: 1.4-3
 geoAr: 1.2.2
-geoBayes: 0.7.7
+geoBayes: 0.7.8
 geoCount: '1.150120'
 geoDeltaAudit: 0.1.0
 geoFKF: 0.1.1
@@ -18124,6 +18126,7 @@ ggmice: 0.1.1
 ggmix: 0.0.2
 ggmlR: 0.8.4
 ggmosaic: 0.3.3
+ggmosaic2: 0.5.1
 ggmotif: 0.2.1
 ggmr: 0.1.1
 ggmsa: 1.0.2
@@ -18227,7 +18230,7 @@ ggsom: 0.4.0
 ggspark: 0.0.2
 ggspatial: 1.1.11
 ggspec: 0.1.0
-ggspectra: 0.4.0
+ggspectra: 0.4.1
 ggsql: 0.3.3
 ggstackplot: 0.4.1
 ggstance: 0.3.7
@@ -18406,7 +18409,7 @@ glmnet: '5.0'
 glmnetSE: 0.0.1
 glmnetUtils: 1.1.9
 glmnetcr: 1.0.7
-glmnetr: 0.6-3
+glmnetr: 0.6-4
 glmpath: '0.98'
 glmpathcr: 1.0.10
 glmpca: 0.2.0
@@ -20482,7 +20485,7 @@ kappaSize: '1.2'
 kappalab: 0.4-12
 kaps: 1.0.2
 karaoke: '3.0'
-kardl: 2.0.5
+kardl: 2.0.6
 karel: 0.1.1
 karlen: 0.0.2
 karyotapR: 1.0.2
@@ -20930,8 +20933,8 @@ leafgl: 0.2.4
 leaflegend: 1.2.8
 leaflet: 2.2.3
 leaflet.esri: 1.0.0
-leaflet.extras: 2.0.2
-leaflet.extras2: 1.3.3
+leaflet.extras: 2.1.0
+leaflet.extras2: 1.3.4
 leaflet.minicharts: 0.6.3
 leaflet.multiopacity: 0.1.1
 leaflet.opacity: 0.1.0
@@ -26821,7 +26824,7 @@ randomForest.ddR: 0.1.2
 randomForestExplainer: 0.10.1
 randomForestRHF: 2.0.3
 randomForestSGT: 1.0.0
-randomForestSRC: 3.7.0
+randomForestSRC: 3.8.0
 randomForestVIP: 0.1.3
 randomGLM: 1.10-1
 randomGODB: '1.1'
@@ -27813,7 +27816,7 @@ rkdb: 0.9.0
 rkeops: 1.4.2.2
 rknn: 1.2-1
 rkriging: 1.0.2
-rkt: '1.8'
+rkt: '1.9'
 rkvo: '0.1'
 rlandfire: 2.0.2
 rlandscape: '1.0'
@@ -30692,7 +30695,7 @@ steps: 1.3.0
 stepssurvey: 0.1.0
 stepwedgepower: 0.1.3
 stepwise: '0.3'
-stevedata: 1.8.0
+stevedata: 1.9.0
 stevedore: 0.9.6
 stevemisc: 1.9.0
 steves: 0.1.1
@@ -31419,7 +31422,7 @@ tempcyclesdata: 1.0.1
 tempdisagg: 1.2.0
 temper: 1.1.1
 temperatureresponse: '0.2'
-templateICAr: 0.10.0
+templateICAr: 0.11.3
 templates: 0.4.0
 templr: 0.2-4
 tempoR: 1.0.4.4
@@ -31843,7 +31846,7 @@ tinyscholar: 0.1.7
 tinyshinyserver: 0.1.0
 tinysnapshot: 0.3.0
 tinyspotifyr: 0.2.3
-tinytable: 0.18.0
+tinytable: 0.19.0
 tinytest: 1.4.3
 tinytest2JUnit: 1.1.3
 tinytex: '0.60'
@@ -32486,7 +32489,7 @@ ume: 1.7.1
 umiAnalyzer: 1.0.0
 umlr: 0.3.0
 ump: 0.5-8
-umweltapir: 0.2.2
+umweltapir: 0.2.3
 umx: 4.65.0
 unbalanced: '2.0'
 unbalhaar: '2.1'
