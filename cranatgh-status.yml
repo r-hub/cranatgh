@@ -1793,6 +1793,7 @@ CorShrink: 0.1-6
 Corbi: 0.6-2
 CoreGx: 0.1.1
 CoreMicrobiomeR: 0.1.0
+Coreset: 1.0.0
 CornerstoneR: 2.0.2
 CoronaNetR: 0.3.0
 CorporaCoCo: '2.0'
@@ -1854,7 +1855,7 @@ CrossVA: 1.0.0
 CrossValidate: 2.3.5
 Crossover: 0.1-22
 Crosstabs.Loglinear: 0.1.1
-CrownScorchTLS: 0.1.1
+CrownScorchTLS: 0.1.2
 CruzPlot: 1.4.9
 CryptRndTest: 1.2.7
 CrypticIBDcheck: 0.3-3
@@ -2664,7 +2665,7 @@ EcoTroph: 1.6.1
 EcoVirtual: '1.1'
 Ecohydmod: 1.0.0
 EconAndProdEfficiency: 0.1.0
-EconCausal: 1.0.2
+EconCausal: 1.0.4
 EconDemand: '1.0'
 EconGeo: '2.1'
 EcotoneFinder: 0.2.3
@@ -2966,7 +2967,7 @@ FMsmsnReg: '1.0'
 FNN: 1.1.4.1
 FOCI: 0.1.3
 FORD: 0.1.2
-FORTLS: 2.0.1
+FORTLS: 2.0.2
 FPCA2D: '1.0'
 FPCA3D: '1.0'
 FPCdpca: 0.4.0
@@ -6132,6 +6133,7 @@ OmicsQC: 1.1.1
 Omisc: 0.2.0
 OmnibusFisher: '1.0'
 OmopConstructor: 0.3.0
+OmopIndices: 0.1.0
 OmopOnSpark: 0.1.0
 OmopSketch: 1.1.1
 OmopStudyBuilder: 0.1.1
@@ -6726,7 +6728,7 @@ PlayerChart: 1.0.0
 PlayerRatings: 1.1-0
 PlotBivInvGaus: 0.1.0
 PlotContour: 0.1.0
-PlotFTIR: 1.3.0
+PlotFTIR: 1.3.1
 PlotNormTest: 1.0.1
 PlotPrjNetworks: 1.0.0
 PlotRegionHighlighter: '1.0'
@@ -10446,7 +10448,7 @@ actLifer: 1.0.0
 actel: 1.4.0
 actfts: 0.3.0
 actiRhythm: 0.1.0
-actibase: 0.5.0
+actibase: 0.6.0
 actigraph.sleepr: 0.4.0
 actilifecounts: 1.1.1
 actimetrics: 0.4.0
@@ -10989,7 +10991,7 @@ arcgisutils: 0.6.1
 archdata: 1.2-1
 archeoViz: 1.4.2
 archeofrag: 1.2.4
-archeofrag.gui: 1.1.4
+archeofrag.gui: 1.2.0
 archetypal: 1.3.1
 archetyper: 0.1.0
 archetypes: 2.2-0.2
@@ -11855,7 +11857,7 @@ bimets: 4.1.2
 bimixt: '1.0'
 bin2norm: 0.1.1
 binGroup: 2.2-3
-binGroup2: 1.3.3
+binGroup2: 1.3.4
 binMto: 0.0-7
 binancer: 1.2.0
 binaryGP: '0.2'
@@ -12513,7 +12515,7 @@ camelsCL: 0.1-10
 camerondata: 1.0.0
 campaignmanageR: 0.1.0
 campfin: 1.0.11
-campsis: 1.9.0
+campsis: 1.9.1
 campsismod: 1.4.0
 campsisnca: 1.7.1
 camsRad: 0.3.0
@@ -13341,6 +13343,7 @@ cns: 0.1.0
 cnum: 0.1.5
 co2e: 0.1.0
 coFAST: 0.3.0
+coOpenData: 0.1.0
 coRanking: 0.2.5
 coala: 0.7.2
 coalescentMCMC: '0.5'
@@ -14683,7 +14686,7 @@ deflist: 0.2.0
 defm: 0.2.1.0
 deforestable: 3.1.2
 deform: 1.0.1
-deformula: 0.1.2
+deformula: 0.1.3
 defrostR: 1.1.0
 degday: 0.4.0
 degenes: '1.1'
@@ -16842,6 +16845,7 @@ fillr: 1.0.0
 filteRjsats: '1.0'
 filterNHP: 0.1.2
 filters: 0.3.1
+filters.trade: 0.0.1
 filterviewR: '0.11'
 filtro: 0.2.0
 finalfit: 1.1.0
@@ -17310,7 +17314,7 @@ frmpd: 1.1.0
 frmqa: 0.1-5
 froggeR: 1.0.1
 fromhere: 0.1.0
-fromo: 0.2.4
+fromo: 0.2.5
 frontier: 1.1-8
 frontiles: 1.3.1
 frontmatter: 0.3.0
@@ -18012,6 +18016,7 @@ ggasym: 0.1.6
 ggauto: 0.0.2
 ggautomap: 0.4.0
 ggbeeswarm: 0.7.3
+ggbipart: 0.1.3
 ggbiplot: 0.6.5
 ggblanket: 21.0.0
 ggblend: 0.1.2
@@ -19025,7 +19030,7 @@ hawkesbow: 1.0.3
 hawkinR: 2.0.1
 hazer: 1.1.1
 hazus: '0.1'
-hbal: 1.2.15
+hbal: 1.3.0
 hbamr: 2.4.7
 hbbr: 1.1.2
 hbdct: 1.0.1
@@ -19577,6 +19582,7 @@ iNZightRegression: 1.3.5
 iNZightTS: 2.0.4
 iNZightTools: 2.0.4
 iNextPD: 0.3.2
+iPEB: 0.1.1
 iPRISM: 0.1.1
 iPRSue: 1.0.0
 iRF: 2.0.0
@@ -21681,6 +21687,7 @@ mapme.biodiversity: 0.9.6
 mapmisc: 2.1.3
 mapmixture: 1.2.0
 mapnhanespa: 0.2.0
+maposm: 0.5.1
 mappeR: 2.4.0
 mappestRisk: 0.1.2
 mapping: 1.4.1
@@ -21709,7 +21716,7 @@ mar1s: 2.1.1
 maraca: 1.1.0
 marble: 0.0.4
 march: 3.3.2
-marcher: 0.0-2
+marcher: 0.0.3
 marcox: 1.0.0
 marcxmlr: 0.1.0
 mardist: 1.0.1
@@ -22323,6 +22330,7 @@ micss: 0.3.1
 micvar: 0.1.0
 midas: 1.0.1
 midas2: 1.1.0
+midasINLA: 0.1.0
 midasml: 0.1.11
 midasr: '0.9'
 midastouch: '1.3'
@@ -22442,7 +22450,7 @@ missDeaths: '2.8'
 missDiag: 1.0.1
 missForest: 1.6.1
 missForestPredict: 1.0.1
-missMDA: '1.22'
+missMDA: '1.23'
 missMethods: 0.4.0
 missPLS: 0.2.1
 missRanger: 2.6.1
@@ -24295,7 +24303,7 @@ opencltools: 0.8.3
 opencpu: 2.2.15
 opencpu.demo: 0.7-0
 opencpu.encode: '0.22'
-opencv: 0.6.0
+opencv: 0.6.1
 opendataformat: 2.2.2
 opendatatoronto: 0.1.6
 opendotaR: 0.1.4
@@ -26652,6 +26660,7 @@ rGV: 0.0.6
 rGammaGamma: 1.0.12
 rGhanaCensus: 0.1.0
 rGoodData: 0.1.1
+rGrSPTT: 0.1.0
 rGroovy: '1.3'
 rHL7: 1.0.0
 rHadoopClient: '0.2'
@@ -26834,7 +26843,7 @@ random.polychor.pa: 1.1.4-5
 randomForest: 4.7-1.2
 randomForest.ddR: 0.1.2
 randomForestExplainer: 0.10.1
-randomForestRHF: 2.0.3
+randomForestRHF: 2.1.0
 randomForestSGT: 1.0.0
 randomForestSRC: 3.8.0
 randomForestVIP: 0.1.3
@@ -27101,6 +27110,7 @@ rct3: 1.0.4
 rcube: '0.5'
 rcure: 0.1.0
 rcv: 0.2.1
+rcxl: 0.1.0
 rd2d: 1.0.0
 rda: 1.2-1
 rdacca.hp: 1.1-3
@@ -27132,7 +27142,7 @@ rdhs: 0.8.1
 rdhte: 0.2.0
 rdi: 1.0.0
 rdian: 0.1.1
-rdist: 0.0.5
+rdist: 0.0.6
 rdiversity: 2.3.0
 rdkitpyr: 0.2.1
 rdlearn: 0.1.1
@@ -27668,6 +27678,7 @@ rgraph6: 2.0-5
 rgrass: 0.5-3
 rgrass7: 0.2-13
 rgrassdoc: 1.0.0
+rgrpc: 0.1.1
 rgrs: '0.3'
 rgsp: 0.2.0
 rgsrs: 0.1.0
@@ -28361,7 +28372,7 @@ rsurvstat: 0.1.5
 rsvd: 1.0.5
 rsvddpd: 1.0.1
 rsvg: 2.7.0
-rswipl: 10.1.9
+rswipl: 10.1.15
 rsyncrosim: 2.1.13
 rsyntax: 0.1.4
 rsynthbio: 4.2.0
@@ -29833,7 +29844,7 @@ smdi: 0.3.2
 smdocker: 0.1.4
 smds: '1.0'
 sme: 1.0.2
-smer: 0.0.2
+smer: 0.0.3
 smerc: 1.8.6
 smetlite: 0.2.10
 smfa: 1.0.1
@@ -30204,6 +30215,7 @@ spatpersist: 0.1.0
 spatsoc: 0.2.13
 spatstat: 3.6-2
 spatstat.Knet: 3.1-3
+spatstat.convert: 1.0-1
 spatstat.core: 2.4-4
 spatstat.data: 3.1-9
 spatstat.explore: 3.8-2
@@ -30348,7 +30360,7 @@ splinesurv: 0.6-14
 splinetree: 0.2.0
 splinetrials: 0.1.1
 splitFeas: 0.1.0
-splitGraph: 0.3.0
+splitGraph: 0.4.0
 splitSelect: 1.0.3
 splitTools: 1.0.1
 splitfngr: 0.1.2
@@ -31648,7 +31660,7 @@ tidyCpp: 0.0.11
 tidyDenovix: 2.1.0
 tidyDisasters: 0.1.1
 tidyEdSurvey: 0.1.4
-tidyEmoji: 0.3.0
+tidyEmoji: 0.4.0
 tidyGenR: 0.1.7
 tidyHeatmap: 1.13.1
 tidyILD: 0.4.1
