@@ -264,7 +264,7 @@ AdaptHyCensor: 0.1.0
 AdaptiveBoxplot: 0.1.1
 AdaptiveSparsity: '1.6'
 AdaptiveTrialsR: 0.1.2
-AddiVortes: 0.6.9
+AddiVortes: 1.0.1
 AdequacyModel: 2.0.0
 AdhereR: 0.8.3
 AdhereRViz: 0.2.2
@@ -1165,7 +1165,7 @@ CDFt: '1.2'
 CDGHMM: 0.1.5
 CDLasso: '1.1'
 CDM: 8.3-14
-CDMConnector: 2.7.0
+CDMConnector: 2.8.0
 CDNmoney: 2012.4-2
 CDROM: '1.1'
 CDSE: 0.3.2
@@ -5394,7 +5394,7 @@ MatchLinReg: 0.8.1
 MatchThem: 1.2.1
 Matching: 4.10-15
 MatchingFrontier: 1.0.0
-MatchingPursuit: 1.2.0
+MatchingPursuit: 1.3.0
 Matrix: 1.7-6
 Matrix.utils: 0.9.8
 MatrixCorrelation: 0.10.1
@@ -6884,6 +6884,7 @@ ProteinDescriptors: 0.1.0
 ProteinPCA: 0.1.1
 ProteoBayes: 1.0.0
 ProxReg: 1.1.2
+Proximum: 1.1.0
 Przewodnik: 0.16.12
 PseudoVoigtMixt: 0.1.0
 PsiHat: '1.0'
@@ -10448,6 +10449,7 @@ actiRhythm: 0.1.0
 actibase: 0.5.0
 actigraph.sleepr: 0.4.0
 actilifecounts: 1.1.1
+actimetrics: 0.4.0
 actinet: 0.4.0
 actiquantiles: 0.1.0
 actiread: 0.5.0
@@ -11037,6 +11039,7 @@ ariExtra: 0.3.1
 aricode: 1.1.0
 aridagri: 2.0.4
 arima2: 3.4.4
+arimasel: 0.2.0
 arkdb: 0.0.19
 arkg: 0.1.0
 arkhaia: 0.5.5
@@ -12148,6 +12151,7 @@ bondAnalyst: 1.0.1
 bonn: 1.0.3
 bonsai: 0.4.1
 bonsaiforest: 0.1.1
+bonsaisitter: 0.1.2
 booami: 0.1.3
 boodd: '0.1'
 boodist: 1.0.0
@@ -12598,6 +12602,7 @@ cartographr: 0.2.5
 cartography: 3.1.5
 cartools: 0.1.0
 carts: 0.2.0
+carwatch: 1.0.1
 carx: 0.7.1
 casabourse: 2.0.0
 cascadeSelect: 1.1.0
@@ -12903,6 +12908,7 @@ charisma: 1.0.0
 charlatan: 0.6.2
 charlesschwabapi: 1.0.5
 charlson: '1.0'
+charport: 0.1.0
 chartql: 0.1.0
 chartreview: '1.0'
 chatAI4R: 1.3.1
@@ -13826,6 +13832,7 @@ corrselect: 3.3.0
 corrsieve: 1.6-9
 corrtable: 0.1.1
 corset: 0.1-5
+corsym: 1.0.1
 cort: 0.3.2
 corteza: 0.7.1
 corto: 1.3.1
@@ -14421,6 +14428,7 @@ datacleanr: 1.0.5
 datacommons: 0.1.0
 datacult: 0.1.0
 datacutr: 0.2.4
+datadict: 0.1.0
 datadictionary: 1.0.1
 datadiff: 0.6.0
 datadigest: 1.0.2
@@ -15021,7 +15029,7 @@ disk.frame: 0.8.3
 diskImageR: 1.0.0
 diskmemoiser: 1.0-1
 dismo: 1.3-16
-disordR: 0.9-8-6
+disordR: 0.9-8-7
 disp2D: '1.0'
 dispRity: 1.9.12
 disparityfilter: 2.2.3
@@ -15443,7 +15451,7 @@ dycdtools: 0.4.4
 dydea: 0.1.0
 dygraphs: 1.1.1.6
 dymo: 2.0.0
-dyn: 0.2-9.6
+dyn: 0.2-11.0
 dyn.log: 0.4.0
 dynBiplotGUI: 1.1.6
 dynConfiR: 1.1.1
@@ -15929,7 +15937,7 @@ enmpa: 0.2.5
 ennet: 0.2.2
 enpls: 6.1.1
 enrichR: '3.4'
-enrichit: 0.2.1
+enrichit: 0.2.4
 enrichvs: 0.0.5
 enrichwith: 0.5.0
 enrollcast: 0.1.0
@@ -20195,7 +20203,7 @@ isobxr: 2.0.0
 isocalcR: 0.1.1
 isocat: 1.0.1
 isocir: '2.1'
-isocountry: 0.7.0
+isocountry: 0.8.0
 isocubes: 1.0.0
 isodistrreg: 0.6.0
 isoexplorer: 0.5.0
@@ -20825,6 +20833,7 @@ latdiag: '0.3'
 latenetwork: 1.0.1
 latent2likert: 1.2.1
 latentFactoR: 0.0.9
+latentState: 1.0.0
 latentcor: 2.0.2
 latentgraph: '1.1'
 latentnet: 2.12.0
@@ -22329,7 +22338,7 @@ mifa: 0.2.1
 mig: '2.0'
 migest: 2.0.6
 mighty.metadata: 0.1.0
-migraph: 1.7.0
+migraph: 1.7.2
 migrate: 0.5.1
 migration.indices: 0.3.1
 migrbc: 2.0.9
@@ -22581,7 +22590,7 @@ mlr3: 1.8.0
 mlr3automl: 0.1.0
 mlr3batchmark: 0.2.2
 mlr3benchmark: 0.1.8
-mlr3cluster: 0.5.0
+mlr3cluster: 0.6.0
 mlr3data: 0.9.0
 mlr3db: 0.7.2
 mlr3fairness: 0.4.0
@@ -22745,6 +22754,7 @@ modello: 0.1.1
 modelplotr: 1.1.0
 modelr: 0.1.11
 modelscompete4: 0.2.6
+modelskill: 0.1.1
 modelsummary: 2.6.0
 modeltests: 0.1.8
 modeltime: 1.3.5
@@ -23904,6 +23914,7 @@ novelqualcodes: 0.13.5
 noverlap: 1.0-1
 nowcast: 0.1.0
 nowcastDFM: 1.0.0
+nowcaster: 1.0.0
 nowcasting: 1.1.4
 nowcastr: 0.2.1
 noweb: 1.1-4
@@ -25200,7 +25211,7 @@ photobiologyFilters: 0.6.1
 photobiologyInOut: 0.4.33
 photobiologyLEDs: 0.5.3
 photobiologyLamps: 0.5.3
-photobiologyPlants: 0.6.1-1
+photobiologyPlants: 0.6.2
 photobiologySensors: 0.5.3
 photobiologySun: 0.5.1
 photobiologyWavebands: 0.5.4
@@ -25542,6 +25553,7 @@ pmr: 1.2.5.1
 pmrm: 0.0.4
 pmsampsize: 1.1.3
 pmsesampling: 0.1.1
+pmsims: 1.0.0
 pmultinom: 1.0.0
 pmvalsampsize: 0.1.0
 pmwg: 0.2.7
@@ -26865,6 +26877,7 @@ rankUncertainty: 1.0.2.0
 rankdifferencetest: 2025.12.4
 rankdist: 1.1.4
 rankhazard: 1.1.1
+rankimp: 1.0.0
 rankinPlot: 1.1.0
 rankingQ: 0.2.0
 rankinma: 0.2.2
@@ -27898,6 +27911,7 @@ rmongodb: 1.8.0
 rmonocypher: 0.1.8
 rmoo: 0.3.2
 rmoriebricklayer: 0.5.0
+rmoriedata: 0.3.2
 rmp: '2.2'
 rmpw: 0.0.6
 rms: 8.1-1
@@ -29051,7 +29065,7 @@ selection: '1.0'
 selection.index: 2.0.1
 selectiongain: 2.0.710
 selectiveInference: 1.2.5
-selectr: 0.6-0
+selectr: 0.7-0
 selectspm: '0.7'
 selenider: 0.4.1
 selenium: 0.2.0
@@ -29362,7 +29376,7 @@ shinyMonacoEditor: 1.1.0
 shinyNORRRM: 0.8.6
 shinyNextUI: 0.1.0
 shinyNotes: 0.0.3
-shinyOAuth: 0.5.0
+shinyOAuth: 0.6.0
 shinyPredict: 0.1.1
 shinyQueryBuilder: 0.1.0
 shinyRGL: 0.1.0
@@ -29752,6 +29766,7 @@ slcm: 0.1.1
 sld: 1.0.1
 sleacr: 0.1.3
 sleekts: 1.0.2
+sleeper: 0.5.0
 sleeperapi: 1.1.2
 sleepr: 0.3.1
 sleepwalk: 0.3.2
@@ -29844,7 +29859,7 @@ smoothAPC: '0.3'
 smoothHR: 1.0.5
 smoothROC: 0.1.0
 smoothROCtime: 0.1.1
-smoothSurv: '2.6'
+smoothSurv: '2.7'
 smoothbp: 0.2.8
 smoothedIPW: 0.1.0
 smoothedLasso: '1.6'
@@ -31843,7 +31858,7 @@ tinyplot: 0.7.0
 tinyrox: 0.4.1
 tinyroxygen: '0.1'
 tinyscholar: 0.1.7
-tinyshinyserver: 0.1.0
+tinyshinyserver: 0.2.0
 tinysnapshot: 0.3.0
 tinyspotifyr: 0.2.3
 tinytable: 0.19.0
@@ -32559,7 +32574,7 @@ unrepx: 1.0-2
 unrtf: 1.4.8
 unstruwwel: 0.2.2
 unsum: 0.3.0
-unsurv: 0.7.0
+unsurv: 0.7.2
 unsystation: 0.2.1
 untb: 1.7-7-1
 unusualprofile: 0.1.4
