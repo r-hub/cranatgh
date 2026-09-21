@@ -1461,6 +1461,7 @@ CausalGAM: 0.1-4
 CausalGPS: 0.5.1
 CausalImpact: 1.4.1
 CausalKinetiX: 0.2.1
+CausalLoopAnalytics: 1.0.0
 CausalMBSTS: 0.1.1
 CausalMetaR: 0.1.3
 CausalMixGPD: 0.8.0
@@ -2052,6 +2053,7 @@ DLMRMV: 1.0.0
 DLMtool: 6.0.7
 DLPCA: 0.0.5
 DLSSM: 1.1.1
+DMAR: 1.0.0
 DMCfun: 4.0.1
 DMLLZU: 0.1.1
 DMMF: 0.5.2.0
@@ -3252,6 +3254,7 @@ GANPAdata: '1.0'
 GAPR: 0.1.5
 GAR: '1.1'
 GARCH.X: '3.0'
+GARCHInfoLSTM: 0.1.0
 GARCHIto: 0.1.0
 GARCHSK: 0.1.0
 GARCOM: 1.2.2
@@ -3641,7 +3644,7 @@ GetDFPData2: 0.6.5
 GetFREData: 1.1.0
 GetHFData: '1.7'
 GetITRData: '0.7'
-GetLattesData: '1.5'
+GetLattesData: 1.5.2
 GetNenshuJP: '0.1'
 GetQuandlData: 1.0.0
 GetR: '0.1'
@@ -6260,7 +6263,7 @@ PAICE: 1.0.2
 PALMO: 0.1.2
 PAMA: 1.2.0
 PAMhm: 0.1.2
-PAMmisc: 1.13.0
+PAMmisc: 1.14.2
 PAMpal: 1.5.2
 PAMscapes: 0.15.0
 PANACEA: 1.1.0
@@ -9647,6 +9650,7 @@ TargomoR: 0.2.0
 Tariff: 1.0.5
 TauP.R: '1.5'
 TauStar: 1.1.9
+TaxResolveR: 0.1.0
 TaxaNorm: '2.4'
 TaxicabCA: 0.1.2
 Taxonstand: '2.4'
@@ -9753,7 +9757,7 @@ TipDatingBeast: 1.1-0
 TippingPoint: 1.2.0
 Tivy: 0.1.1
 Tlasso: 1.0.2
-TmCalculator: 1.1.0
+TmCalculator: 1.1.1
 Tmisc: 1.0.1
 Tnseq: 0.1.2
 TooManyCellsR: 0.1.1.0
@@ -10034,6 +10038,7 @@ VUROCS: '1.0'
 VWPre: 1.2.5
 VaR: '0.2'
 VaRES: 1.0.2
+ValCurvaR: 0.1.0
 ValidationExplorer: 0.1.2
 VancouvR: 0.1.11
 VanillaCalendar: 1.0.0
@@ -16349,6 +16354,7 @@ expoTree: 1.0.1
 expoquimR: 0.1.0
 export: 0.3.3
 expose: 0.0.3
+exposureEM: 0.3.0
 expowo: '3.1'
 expp: 1.2.5
 expperm: '1.6'
@@ -18904,6 +18910,7 @@ gtregression: 1.1.0
 gtrendsR: 1.5.2
 gtrendshealth: 1.0.1
 gtsf: 0.1.0
+gtstats: 1.0.0
 gtsummary: 2.6.1
 gtx: 0.0.8
 guaguas: 0.3.0
@@ -23723,6 +23730,7 @@ nlADG: 0.1-0
 nlMS: '1.1'
 nlWaldTest: 1.1.3
 nlaR: 0.4.1
+nlcs: '1.0'
 nlcv: 0.3.6
 nleqslv: 3.3.7
 nlfh: 0.1.0
@@ -23741,7 +23749,7 @@ nlmixr2auto: 1.0.0
 nlmixr2autoinit: 1.0.1
 nlmixr2data: 2.0.10
 nlmixr2est: 7.1.0
-nlmixr2extra: 5.2.0
+nlmixr2extra: 5.2.1
 nlmixr2lib: 0.3.2
 nlmixr2plot: 5.1.0
 nlmixr2rpt: 0.2.2
@@ -26792,6 +26800,7 @@ radEmu: 2.3.2.0
 radar: 1.0.0
 radarBoxplot: 1.0.5
 radarchart: 0.3.1
+raddr: 0.1.2
 radiant: 1.6.7
 radiant.basics: 1.6.6
 radiant.data: 1.6.9
@@ -27803,6 +27812,7 @@ riskscores: 1.3.0
 risksetROC: 1.0.4.1
 riskutility: 0.2.0
 riskyr: 0.5.0
+risq: 3.0.0
 ritalic: 0.12.0
 rite: 0.3.4
 ritis: 1.0.0
@@ -28088,7 +28098,7 @@ rolleigen: 1.0.0
 rollinglda: 0.1.4
 rollmatch: 2.0.4
 rolloptim: 1.0.0
-rollout: 0.1.0
+rollout: 0.2.0
 rollply: 0.5.0
 rollshap: 1.0.1
 rollup: 0.1.0
@@ -28300,7 +28310,7 @@ rscala: 3.2.25
 rscc: 0.2.1
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 1.11.0
+rsconnect: 1.11.1
 rscontract: 0.1.2
 rscopus: 0.9.0
 rscorecard: 0.33.0
@@ -30106,6 +30116,7 @@ spacesRGB: 1.7-0
 spacesXYZ: 1.6-0
 spacetime: 1.3-4
 spacey: 0.1.1
+spaci: 0.1.1
 spacodiR: 0.13.0115
 spacom: 1.0-5
 spacyr: 1.3.0
@@ -31388,6 +31399,7 @@ tbart: '1.0'
 tbd: 0.1.0
 tbdiag: '0.1'
 tbea: 1.8.0
+tbl.now: 1.0.0
 tbl2xts: 1.0.6
 tbltools: 0.1.0
 tbm: 0.3-11
