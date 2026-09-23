@@ -738,6 +738,7 @@ BartMixVs: 1.0.0
 Barycenter: 1.3.1
 BaseSet: 1.0.0
 BaseTempSeed: 0.1.0
+BasicStatsPlots: 0.1.0
 BasketTrial: 0.1.0
 BasketballAnalyzeR: 0.8.1
 BatchExperiments: 1.4.4
@@ -1902,6 +1903,7 @@ DAAGbio: 0.63-4
 DAAGxtras: 0.8-4
 DAC: 0.1.1
 DACF: 1.1.0
+DACT: 0.1.2
 DAFOT: 0.0.1
 DAGGER: '1.4'
 DAGassist: 0.3.0
@@ -3005,6 +3007,7 @@ FSA: 0.10.1
 FSAdata: 0.4.1
 FSAtools: 2.0.5
 FSDAM: 2024.7-30
+FSHybridPLS: 0.1.0
 FSInteract: 0.1.2
 FSK2R: 0.2.0
 FSM: 1.0.0
@@ -3556,7 +3559,7 @@ GammaFrailty: 0.1.0
 GammaFrailtySPC: 0.1.0
 GammaTest: '2.1'
 Gammareg: 3.0.1
-GapAnalysis: 2.1.0
+GapAnalysis: 2.1.1
 GauPro: 0.2.17
 GaussSuppression: 1.3.0
 GaussianHMM1d: 1.1.2
@@ -6201,7 +6204,7 @@ OptHoldoutSize: 0.1.0.2
 OptInterim: 3.0.1
 OptM: 0.1.9
 OptOR: 0.1.0
-OptOTrials: 1.0.3
+OptOTrials: 1.1.0
 OptSig: '2.2'
 OptSurvCutR: 0.11.1
 OptiQuantR: 0.0.1
@@ -10166,6 +10169,7 @@ WRestimates: 0.1.0
 WSCdata: 0.1.2
 WSGeometry: 1.2.1
 WSPsignal: 1.0.0
+WSwavelet: 0.1.0
 WVPlots: 1.3.9
 WWGbook: 1.0.2
 WWR: 1.2.2
@@ -17842,7 +17846,7 @@ geocacheR: 0.1.0
 geocausal: 0.4.2
 geocmeans: 0.3.4
 geocodeHERE: 0.1.3
-geocodebr: 0.6.4
+geocodebr: 0.7.0
 geocomplexity: 0.3.0
 geodaData: 0.1.0
 geodata: 0.6-9
@@ -23761,7 +23765,7 @@ nlmixr2data: 2.0.10
 nlmixr2est: 7.1.0
 nlmixr2extra: 5.2.1
 nlmixr2lib: 0.3.2
-nlmixr2plot: 5.1.0
+nlmixr2plot: 5.2.0
 nlmixr2rpt: 0.2.2
 nlmixr2save: 0.2.0
 nlmixr2targets: 0.1.0
@@ -23809,7 +23813,7 @@ nmcdr: 0.3.0
 nmfbin: 0.2.1
 nmfem: 1.0.5
 nmfgpu4R: 0.2.5.2
-nmfkc: 0.9.6
+nmfkc: 0.9.8
 nmixgof: 0.1.1
 nmm: '0.9'
 nmrrr: 1.0.0
@@ -23889,7 +23893,7 @@ nonet: 0.4.0
 nonlinearICP: 0.1.2.1
 nonlinearTseries: 0.3.2
 nonmem2R: 0.2.5
-nonmem2rx: 0.1.9
+nonmem2rx: 0.1.11
 nonmemica: 1.2.0
 nonneg.cg: 0.1.6-1
 nonnest2: 0.5-9
@@ -24571,7 +24575,7 @@ outsider: 0.1.1
 outsider.base: 0.1.4
 outstandR: 2.0.0
 ouxy: '2.1'
-ovbsa: 2.0.0
+ovbsa: 2.1.0
 overdisp: 0.1.2
 overlap: 0.3.9
 overlapping: '2.5'
@@ -24638,7 +24642,7 @@ packHV: '2.4'
 packMBPLSDA: 0.9.0
 packS4: 0.9.3
 packageDiff: '0.1'
-packageRank: 0.9.8
+packageRank: 0.9.9
 packageRankWrapperDriver: '1.0'
 packagedocs: 0.4.0
 packagefinder: 0.3.5
@@ -25695,8 +25699,8 @@ polytomous: 0.1.6
 polywog: 0.4-2
 pom: '1.1'
 pomcheckr: 0.1.1
-pomdp: 1.2.5
-pomdpSolve: 1.0.6
+pomdp: 1.2.7
+pomdpSolve: 1.0.7
 pomodoro: 3.8.0
 pomp: '6.4'
 pompom: 0.2.1
@@ -26330,6 +26334,7 @@ qad: 1.0.6
 qadf: 1.0.0
 qap: 0.1-2
 qape: '2.1'
+qapproach: 0.1.1
 qarPI: 0.1.0
 qardlr: 1.0.1
 qat: '0.74'
@@ -29138,6 +29143,7 @@ semboottools: 0.1.2.1
 semdiag: 0.1.2
 semdrw: 0.1.0
 semds: 0.9-7
+semeqmodels: 0.1.0
 semfindr: 0.2.1
 semgram: 0.1.0
 semhelpinghands: 0.1.15
@@ -29496,6 +29502,7 @@ shinypivottabler: '1.2'
 shinyproxyLogs: 0.1.0
 shinyquiz: 0.0.1
 shinyr: 0.4.2
+shinyreact: 0.1.0
 shinyrecap: 0.2.0
 shinyrecipes: 0.1.0
 shinyreforms: 0.0.1
@@ -30253,7 +30260,7 @@ spatstat.Knet: 3.1-3
 spatstat.convert: 1.0-1
 spatstat.core: 2.4-4
 spatstat.data: 3.1-9
-spatstat.explore: 3.8-2
+spatstat.explore: 3.8-3
 spatstat.geom: 3.8-3
 spatstat.gui: 3.1-0
 spatstat.linnet: 3.5-3
@@ -32958,6 +32965,7 @@ virtualspecies: 1.6.1
 virtuoso: 0.1.8
 viruslearner: 0.0.2
 virustotal: 0.7.0
+visATC: 1.0.0
 visNetwork: 2.1.4
 visOmopResults: 1.5.0
 visPedigree: 1.9.0
