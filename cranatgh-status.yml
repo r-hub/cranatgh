@@ -1130,6 +1130,7 @@ CATTexact: 0.1.1
 CATkit: 3.3.3
 CAVIAR: 1.4-1
 CAWaR: 0.0.2
+CAbiplot: 0.1.0
 CAinterprTools: 1.1.0
 CAscaling: '1.0'
 CAvariants: '6.0'
@@ -4790,7 +4791,7 @@ LexFindR: 1.1.0
 LexisNexisTools: 1.0.0
 LexisPlotR: 0.4.0
 LibOPF: 2.6.2
-LiblineaR: 2.10-25
+LiblineaR: 2.10-26
 LiblineaR.ACF: 1.94-2
 Libra: '1.7'
 LifeHist: 1.0-1
@@ -6637,7 +6638,7 @@ Path.Analysis: '0.1'
 PathSelectMP: '1.1'
 PathwaySpace: 1.5.1
 PathwayVote: 0.1.3
-PatientGenerator: 0.2.4
+PatientGenerator: 0.2.5
 PatientLevelPrediction: 6.7.0
 PatientProfiles: 1.6.1
 PatternClass: 2.0.1
@@ -6828,7 +6829,7 @@ PrInDT: 2.0.3
 PracTools: 1.7.6
 PracticalEquiDesign: 0.0.3
 PreKnitPostHTMLRender: 0.1.0
-PreProcess: 3.1.9
+PreProcess: 3.1.10
 PreProcessRecordLinkage: 1.0.1
 PreProcessing: 0.1.0
 PrecipStat: '1.03'
@@ -7171,6 +7172,7 @@ RCSF: 1.0.2
 RCSL: 0.99.95
 RCT: '1.2'
 RCT2: 0.0.1
+RCTCovAdj: 0.1.0
 RCTRecruit: 0.2.0
 RCTS: 0.2.4
 RCTrep: 1.2.0
@@ -8225,6 +8227,7 @@ RobustMediate: 0.1.1
 RobustMetrics: 1.0.0
 RobustPrediction: 0.1.7
 RobustRankAggreg: 1.2.1
+RobustVis: 0.1.2
 Robyn: 3.12.1
 RockFab: 1.2.1
 Rodam: 0.1.14
@@ -9719,7 +9722,7 @@ TextForecast: 0.1.3
 TextMiningGUI: '0.3'
 TextRegression: 0.1-3
 TextoMineR: '1.1'
-ThSQCA: 2.0.6
+ThSQCA: 2.0.7
 ThankYouStars: 0.2.0
 TheOpenAIR: 0.1.0
 TheOrdinals: 0.1.0
@@ -12112,6 +12115,7 @@ bltm: 0.1.0
 bluebike: 0.0.3
 bluertopo: 0.0.2
 blueterra: 0.1.0
+blueycolors: 0.2.2
 blvim: 0.1.1
 bmabart: '2.0'
 bmabasket: 0.1.2
@@ -15368,7 +15372,7 @@ ds: '4.0'
 ds4psy: 1.3.0
 dsBase: 6.3.5
 dsBaseClient: 6.3.5
-dsROCrate: 0.2.2
+dsROCrate: 0.2.3
 dsTidyverse: 1.2.1
 dsTidyverseClient: 1.1.0
 dsa: 1.0.12
@@ -16282,7 +16286,7 @@ evoTS: 1.0.3
 evobiR: '1.1'
 evolMap: 1.3.14
 evola: 1.0.9
-evolqg: 0.3-6
+evolqg: 0.4-3
 evolution: 0.1.1
 evolvability: 2.0.1
 evolved: 1.0.0
@@ -17231,6 +17235,7 @@ fossilbrush: 1.0.6
 foster: 0.1.1
 foto: '1.1'
 foundry: 0.13.0
+foundryR: 0.1.0
 fourPNO: 1.1.0
 fourierin: 1.0.0
 fourinarow: 0.1.1
@@ -17434,6 +17439,7 @@ funprog: 0.3.0
 funr: 0.3.2
 funrar: 1.5.0
 funreg: 1.2.2
+funresMech: 1.0.4
 funspace: 0.2.2
 funspotr: 0.0.5
 funtimes: '10.0'
@@ -21634,7 +21640,7 @@ magicrect: 1.0.0
 magma: 1.3.0-2
 magmaR: 1.0.4
 magnets: 0.2.1
-magp: 0.8.0
+magp: 0.12.0
 magree: '1.2'
 magrittr: 2.0.5
 maic: 0.1.4
@@ -22656,7 +22662,7 @@ mlr3misc: 0.23.0
 mlr3oml: 0.12.0
 mlr3pipelines: 0.12.0
 mlr3proba: 0.4.9
-mlr3resampling: 2026.5.19
+mlr3resampling: 2026.9.24
 mlr3shiny: 0.5.0
 mlr3spatial: 0.7.0
 mlr3spatiotempcv: 2.3.5
@@ -24301,7 +24307,7 @@ ontologyPlot: '1.7'
 ontologySimilarity: '2.9'
 ontophylo: 1.1.3
 oolong: 0.7.0
-oompaBase: 3.2.11
+oompaBase: 3.2.12
 oompaData: 3.1.5
 ooplah: 0.2.0
 oops: 0.2.0
@@ -25208,7 +25214,7 @@ phantom: 0.1.3
 pharmaRTF: 0.1.5
 pharmaverse: 0.0.2
 pharmaverseadam: 1.3.0
-pharmaverseadamjnj: 0.0.5
+pharmaverseadamjnj: 0.0.6
 pharmaverseraw: 0.1.1
 pharmaversesdtm: 1.5.0
 pharmaversesdtmjnj: 0.0.6
@@ -26205,6 +26211,7 @@ pssmooth: 1.0.3
 pstest: 0.1.3.900
 psvd: 1.1-0
 psvmSDR: 3.0.1
+psvr: 0.1.0
 psy: '1.2'
 psycCleaning: 0.1.1
 psycModel: 0.5.0
@@ -28591,6 +28598,7 @@ rxSeq: 0.99.3
 rxivistr: 0.1.1
 rxode2: 5.1.7
 rxode2et: 2.0.13
+rxode2lincmt: 0.1.0
 rxode2ll: 2.0.18
 rxode2mrgsolvebridge: 0.1.0
 rxode2parse: 2.0.19
@@ -28979,6 +28987,7 @@ scquantum: 1.0.0
 scraEP: '1.2'
 scrapeR: 0.1.8
 scrappy: 0.0.1
+screenllm: 0.1.0
 screenshot: 0.9.3
 screenshotbase: 0.1.0
 scregclust: 0.2.4
