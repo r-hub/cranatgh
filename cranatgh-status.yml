@@ -563,7 +563,7 @@ BFpack: 1.6.1
 BGData: 2.4.1
 BGFD: '0.1'
 BGGE: 0.6.5
-BGGM: 2.1.6
+BGGM: 2.2.0
 BGLR: 1.1.4
 BGPhazard: 2.1.1
 BGSIMD: '1.0'
@@ -732,7 +732,7 @@ BalancedSampling: 2.1.1
 Ball: 1.3.13
 BallMapper: 0.2.0
 BarBorGradient: 1.0.5
-BarcodingR: 1.0-3
+BarcodingR: 1.0-4
 Barnard: '1.8'
 BartMixVs: 1.0.0
 Barycenter: 1.3.1
@@ -8277,6 +8277,7 @@ Rsampling: 0.1.1
 Rsconctdply: 0.1.3
 Rsearch: 1.2.0
 Rserve: 1.8-19.1
+RserveTS: 0.8.3
 Rsfar: 0.0.1
 Rsge: 0.6.3
 Rsgf: 1.0.0
@@ -14783,6 +14784,7 @@ depcache: 0.1-2
 depcoeff: 1.0.1
 depend.truncation: '3.0'
 dependentsimr: 1.0.0.0
+depguard: 0.1.0
 depictr: 0.3.0
 depigner: 0.9.1
 depmix: 0.9.16
@@ -15961,7 +15963,7 @@ enmpa: 0.2.5
 ennet: 0.2.2
 enpls: 6.1.1
 enrichR: '3.4'
-enrichit: 0.2.4
+enrichit: 0.2.5
 enrichvs: 0.0.5
 enrichwith: 0.5.0
 enrollcast: 0.1.0
@@ -17659,6 +17661,7 @@ gcKrig: 1.1.8
 gcTensor: 1.0.1
 gcbd: 0.2.7
 gcdnet: 1.0.6
+gcemod: 0.3.0
 gcerisk: 19.05.24
 gchartsmap: 1.0.2
 gcite: 0.11.0
@@ -17804,6 +17807,7 @@ genlasso: 1.6.1
 genlogis: 1.0.2
 geno2proteo: 0.0.6
 genoPlotR: 0.8.11
+genoaligner: 1.0.0
 genodds: 1.1.2
 genogeographer: 0.1.19
 genomatic: 0.0-7
@@ -18285,7 +18289,7 @@ ggsurvey: 1.0.0
 ggsurvfit: 1.2.1
 ggswissmaps: 0.1.2
 ggtaichi: 0.2.0
-ggtangle: 0.1.2
+ggtangle: 0.1.3
 ggtaxplot: 0.0.1
 ggtea: 0.1.1
 ggtern: 4.0.0
@@ -19572,7 +19576,7 @@ iBUGS: 0.1.4
 iBreakDown: 2.1.2
 iC10: 2.0.3
 iC10TrainingData: 2.0.1
-iCAMP: 1.8.6
+iCAMP: 1.9.1
 iCARH: 2.0.2.1
 iCellR: 1.7.0
 iCiteR: 0.2.1
@@ -20410,7 +20414,7 @@ jmuOutlier: '2.2'
 jmv: 2.8.0
 jmvReadWrite: 0.4.14
 jmvconnect: 2.5.7
-jmvcore: 2.7.38
+jmvcore: '28.3'
 job: 0.3.1
 jobqueue: 1.7.0
 jocre: 0.3.3
@@ -22344,7 +22348,7 @@ microcontax: '1.2'
 microdatasus: 3.0.0
 microdemic: 0.6.0
 microdiluteR: 1.0.1
-microeco: 2.3.0
+microeco: 2.4.0
 microhaplot: 1.0.1
 microinverterdata: 0.4.0
 micromap: 1.9.12
@@ -26949,7 +26953,13 @@ rapportools: '1.2'
 rappsflyer: 0.3.2
 rapr: 1.1.3
 rapsimng: 0.6.0
+rapsimng.canola: 0.1.0
+rapsimng.chickpea: 0.1.0
 rapsimng.decide.core: 0.1.1
+rapsimng.fababean: 0.1.0
+rapsimng.lentil: 0.1.0
+rapsimng.lupin: 0.1.0
+rapsimng.wheat: 0.1.0
 raptools: 1.23.0
 raptr: 1.0.1
 raqs: 1.0.2
