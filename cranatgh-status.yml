@@ -1007,7 +1007,7 @@ BlakerCI: 1.0-6
 BlandAltmanLeh: 0.3.1
 BlanketStatsments: 0.1.3
 Blaunet: 3.0.0
-Blend: 0.1.2
+Blend: 0.1.3
 Blendstat: 1.0.6
 BlockCov: 0.1.1
 BlockFeST: '2.0'
@@ -2434,7 +2434,7 @@ DriveML: 0.1.5
 DrivePlotR: 0.1.0
 DropCens: 0.1.0
 DrugClust: '0.2'
-DrugExposureDiagnostics: 1.1.10
+DrugExposureDiagnostics: 1.2.0
 DrugSim2DR: 0.1.2
 DrugUtilisation: 1.3.1
 DstarM: 0.5.0
@@ -2912,7 +2912,7 @@ FCSlib: 1.3.0
 FCUSUM: 1.0.0
 FCVAR: 0.1.4
 FCtools: 2.3.1
-FD: 1.0-12.5
+FD: 1.0-12.6
 FDGcopulas: '1.0'
 FDOTT: 0.2.0
 FDRSeg: 1.0-3
@@ -4714,7 +4714,7 @@ LSE: 1.0.0
 LSEbootLS: 0.1.0
 LSJM: 0.1.1
 LSMRealOptions: 0.2.1
-LSMjml: 0.6.0
+LSMjml: 0.7.0
 LSMonteCarlo: '1.0'
 LSPFP: 1.0.3
 LSRS: 0.2.0
@@ -6373,7 +6373,7 @@ PEkit: 1.0.0.1000
 PEtests: 0.1.0
 PF: '9.5'
 PFCI: 0.1.1
-PFIM: 7.0.3
+PFIM: '8.0'
 PFLR: 1.1.0
 PFW: 0.1.0
 PGEE: '1.5'
@@ -7453,7 +7453,7 @@ RNOmni: 1.0.1.2
 RNRCS: 0.2.5
 RNaviCell: '0.2'
 RNeXML: 2.4.11
-RNentropy: 1.2.3
+RNentropy: 1.3.3
 RNeo4j: 1.6.4
 RNetCDF: 2.11-2
 RNetLogo: 1.0-4
@@ -11053,7 +11053,7 @@ arcstat: 0.3.0
 arctools: 1.1.6
 ardl.nardl: 1.3.0
 ardldml: 0.1.0
-ardlverse: 2.0.0
+ardlverse: 2.0.2
 ards: 0.1.3
 area: 0.2.0
 areaOfEffect: 0.2.4
@@ -12261,7 +12261,7 @@ boss: '2.1'
 bossMaps: 0.1.0
 bossR: 1.0.4
 botor: 0.4.1
-boundedur: 1.0.1
+boundedur: 1.0.3
 boundingbox: 1.0.1
 boussinesq: 1.0.6
 boutliers: 2.1-3
@@ -13484,7 +13484,7 @@ coinmarketcapr: '0.4'
 cointReg: 0.2.0
 cointests: 1.0.0
 cointmonitoR: 0.1.0
-cointsmall: 1.0.2
+cointsmall: 1.0.4
 col2hex2col: 0.5.3
 colSums: '1.1'
 colbycol: '0.8'
@@ -16504,7 +16504,7 @@ fHMM: 1.4.3
 fICA: 1.1-3
 fImport: '4052.89'
 fMRIscrub: 0.15.0
-fMRItools: 0.7.2
+fMRItools: 0.8.3
 fMultivar: '4031.84'
 fNonlinear: '4052.83'
 fPASS: 1.0.0
@@ -16646,7 +16646,7 @@ fastM: 0.0-5
 fastMatMR: 1.2.8
 fastNaiveBayes: 2.2.1
 fastOnlineCpt: '1.0'
-fastPLS: '0.2'
+fastPLS: '0.3'
 fastQR: 1.1.4
 fastR: 0.10.3
 fastR2: 1.2.5
@@ -16967,7 +16967,7 @@ first: '2.1'
 fishMod: 0.29.2
 fishRman: 1.2.3
 fishbc: 0.2.2
-fishboot: 1.0.2
+fishboot: 1.0.3
 fishdata: 1.0.1
 fisheye: 0.2.0
 fisheyeR: '0.9'
@@ -17299,7 +17299,7 @@ fptdApprox: '2.5'
 fqacalc: 1.1.1
 fqadata: 1.1.1
 fqar: 0.5.6
-fqardl: 1.0.4
+fqardl: 1.0.5
 fr: 0.5.2
 frab: 0.0-7
 fracARMA: 0.1.0
@@ -19033,7 +19033,7 @@ h5: 0.9.9
 h5lite: 2.1.1.1
 h5r: 1.4.7
 hBayesDM: 2.0.1
-hIRT: 0.3.0
+hIRT: 0.4.0
 hJAM: 1.0.0
 hNMF: '1.0'
 hR: 0.3.0
@@ -20410,7 +20410,7 @@ jamba: 1.0.5
 james.analysis: 1.0.1
 janeaustenr: 1.0.0
 janitor: 2.2.1
-janssonr: 0.1.2
+janssonr: 0.1.3
 janus: 1.0.0
 janusplot: 0.1.1
 jaod: 0.3.0
@@ -22283,7 +22283,7 @@ metathis: 1.1.4
 metatools: 0.3.0
 metaumbrella: 1.1.0
 metavcov: 2.1.5
-metaviz: 0.3.1
+metaviz: 0.4.0
 metawho: 0.2.0
 meteR: '1.2'
 meteo: 2.0-5
@@ -24820,7 +24820,7 @@ paneldesc: 0.2.0
 panelhetero: 1.0.1
 panelr: 1.0.1
 panelsummary: 0.1.3
-paneltests: 1.0.5
+paneltests: 1.0.6
 panelvar: 0.5.6
 pangaear: 1.1.0
 panglm: 1.1.4
@@ -26561,7 +26561,7 @@ quadprogXT: 0.0.6
 quadraticSD: 0.1.0
 quadrupen: 1.1-0
 quadtree: 0.1.14
-quak: 0.1.0
+quak: 0.1.1
 qualCI: '0.1'
 qualV: 0.3-5
 qualityTools: '1.55'
@@ -27111,7 +27111,7 @@ rbedrock: 0.4.2
 rbefdata: 0.3.5
 rbenchmark: 1.0.1
 rbenvo: 1.0.5
-rbfmvar: 2.0.2
+rbfmvar: 2.1.0
 rbgm: 0.2.0
 rbhl: 0.9.2
 rbi: 1.0.1
@@ -28407,7 +28407,7 @@ rscala: 3.2.25
 rscc: 0.2.1
 rscielo: 1.0.0
 rscimark: '1.0'
-rsconnect: 1.11.1
+rsconnect: 1.11.2
 rscontract: 0.1.2
 rscopus: 0.9.0
 rscorecard: 0.33.0
@@ -28623,7 +28623,7 @@ rvmprior: 0.1.0
 rvolleydata: 2.0.0
 rvsel: 0.2.1
 rvtk: 0.1.3
-rwa: 1.0.0
+rwa: 1.0.1
 rwalkr: 0.5.7
 rwarrior: 0.4.1
 rwars: 1.0.0
@@ -29362,7 +29362,7 @@ sewage: 0.2.5
 sezgi: 0.1.1
 sf: 1.1-3
 sfOpenData: 0.1.2
-sfReapportion: 0.2.0
+sfReapportion: 0.2.2
 sfa: 1.2.0
 sfaR: 1.0.1
 sfadv: 1.0.2
@@ -30396,7 +30396,7 @@ speciesgeocodeR: 1.0-4
 specificity: 0.1.1
 specklestar: 0.0.1.7
 specleanr: 1.0.0
-specmine: 4.0.0
+specmine: 4.0.1
 specmine.datasets: 0.0.3
 specr: 1.0.0
 specs: 1.0.1
@@ -32249,7 +32249,7 @@ transGFM: 1.0.2
 transPlotR: 0.0.2
 transcribeR: 0.0.0
 transfR: 1.1.18
-transferegovr: 0.1.0
+transferegovr: 0.2.0
 transforEmotion: 0.1.7
 transform.hazards: 0.1.1
 transformer: 0.2.0
@@ -32546,7 +32546,7 @@ twang: 2.6.2
 twangContinuous: 1.0.0
 twangMediation: 1.2.1
 twangRDC: '1.0'
-twbparser: 0.5.0
+twbparser: 0.5.1
 twc: 0.0.2
 twdtw: 1.0-1
 tweedie: 3.1.0
@@ -32666,7 +32666,7 @@ uncertainty: 0.3.0
 uncmbb: 0.2.2
 uncompress: '1.34'
 uncorbets: 0.1.2
-underdisp: 0.1.0
+underdisp: 0.1.1
 understandBPMN: 1.1.1
 undidR: 3.0.2
 undomanager: 0.1.0
@@ -32708,7 +32708,7 @@ unitcm: 0.1.2
 unitedR: '0.4'
 unitizer: 1.4.24
 unitquantreg: 0.0.6
-unitrootests: 1.1.0
+unitrootests: 1.1.2
 units: 1.0-1
 unittest: 1.7-0
 unityForest: 0.2.0
@@ -33697,7 +33697,7 @@ xterm256: 0.1-2
 xtermStyle: 3.0.5
 xtfifevd: 1.0.2
 xtife: 0.1.4
-xtpqardl: 1.0.1
+xtpqardl: 1.0.3
 xtractomatic: 3.4.2
 xtranat: 0.1.0
 xtrec: 1.0.0
