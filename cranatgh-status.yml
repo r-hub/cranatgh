@@ -1722,7 +1722,7 @@ CompositionalZADR: '1.0'
 Compositionalasmr: '1.0'
 Compositionalcln: '1.0'
 Compositionalscsmr: '1.0'
-Compositionalzerocens: '1.0'
+Compositionalzerocens: '1.1'
 CompoundEvents: '1.0'
 Compounding: 1.0.2
 ComradesM: 0.1.1
@@ -1858,6 +1858,7 @@ CropScapeR: 1.1.5
 CropWaterBalance: 0.2.0
 CrossCarry: 1.2.0
 CrossClustering: 4.1.3
+CrossDomainAdjust: 0.1.1
 CrossExpression: 1.0.0
 CrossScreening: 0.1.1
 CrossVA: 1.0.0
@@ -3077,7 +3078,7 @@ FastRet: 1.3.0
 FastSF: 0.1.1
 FastSegmentation: 0.0.1
 FastStepGraph: 0.1.1
-FastSurvival: 0.2.0
+FastSurvival: 1.0.0
 FastUtils: 0.2.1
 FatTailsR: 2.0.1
 FateID: 0.2.2
@@ -4001,7 +4002,7 @@ HospitalNetwork: 0.9.4
 HostSwitch: 0.1.3
 HotDeckImputation: 1.1.0
 Hotelling: 1.0-8
-HotellingEllipse: 1.2.0
+HotellingEllipse: 1.3.0
 HumMeth27QCReport: 1.2.14
 HuraultMisc: 1.2.1
 HurreconR: '1.2'
@@ -9009,7 +9010,7 @@ SiZer: 0.1-8
 SidraFacil: 1.0.2
 Sie2nts: 0.1.0
 Sieve: '2.1'
-SigBridgeRUtils: 0.2.6
+SigBridgeRUtils: 0.2.7
 SigOptR: 0.0.1
 SigTree: 1.10.6
 SigWinR: 1.0.2
@@ -10167,6 +10168,7 @@ WHORiskCalculator: 1.0.0
 WINRPACK: 1.1-0
 WINS: 1.5.1
 WIPF: 0.1.0-4
+WISP.data: 1.0.0
 WLasso: '1.0'
 WLinfer: 1.2.0
 WLogit: '2.1'
@@ -11160,7 +11162,7 @@ aspi: 0.2.0
 aspline: 0.2.0
 asremlPlus: 4.4.65
 assemblerr: 0.1.1
-assemblykor: 0.1.3
+assemblykor: 0.1.4
 assert: 1.0.1
 assertHE: 1.0.1
 assertable: 0.2.8
@@ -11310,7 +11312,7 @@ autoplotly: 0.1.7
 autopls: '1.3'
 autorelevate: 0.1.0
 autoshiny: 0.0.3
-autoslider.core: 0.3.3
+autoslider.core: 0.3.4
 autostats: 0.4.2
 autostsm: 3.1.5
 autosync: 0.2.0
@@ -11712,6 +11714,7 @@ beautier: 2.6.12
 beautils: 0.2.0
 beaver: 1.0.0
 bedr: 1.1.5
+bedrock: 0.1.9
 bedrockbio: 2.0.0
 beeca: 0.2.0
 beepr: '2.0'
@@ -12589,7 +12592,7 @@ canpumf: 0.6.0
 cansim: 0.5.1
 cantrends: 0.1.0
 canvas: 0.2-0
-canvasXpress: 1.65.2
+canvasXpress: 1.70.3
 canvasXpress.data: 1.34.2
 cap: '1.0'
 cape: 3.1.2
@@ -13254,6 +13257,7 @@ cliot: 1.0.0
 clipp: 1.2.0
 clipr: 0.8.1
 cliqueMS: 0.3.1
+clis: 0.3.6
 clisymbols: 1.2.0
 clitable: 0.1.0
 clmplus: 1.1.1
@@ -13482,7 +13486,7 @@ coinclp: 0.1.1
 coindeskr: 0.1.0
 coinmarketcapr: '0.4'
 cointReg: 0.2.0
-cointests: 1.0.0
+cointests: 1.1.0
 cointmonitoR: 0.1.0
 cointsmall: 1.0.4
 col2hex2col: 0.5.3
@@ -14675,12 +14679,13 @@ deTS: '1.0'
 deTestSet: 1.1.7.4
 deaR: 1.5.4
 deadband: 0.1.0
-deadwood: 0.9.0-3
+deadwood: 0.9.1
 deal: 1.2-42
 deamer: '1.0'
 deaviz: 0.1.0
 debar: 0.1.1
 debest: 0.1.0
+debiasedInference: 0.1.0
 debiasedTrialEmulation: 0.1.2
 debkeepr: 0.1.1
 debrief: 0.1.0
@@ -15352,7 +15357,7 @@ draw: 1.0.0
 drawExpression: '1.0'
 drawer: 0.2.0.1
 drawsample: 1.0.2
-drc: 3.0-1
+drc: 4.0-0
 drcSeedGerm: 1.0.1
 drcarlate: 1.2.0
 drclust: 0.1.1
@@ -15378,7 +15383,7 @@ drlate: 0.3.1
 drm: 0.5-8
 drmTMB: 0.7.0
 drmdel: 1.3.2
-drmeta: 0.2.2
+drmeta: 0.2.3
 drogonR: 0.1.9
 droll: 0.1.0
 drone: 1.0.0
@@ -15475,7 +15480,7 @@ dualScale: 1.0.0
 dualtrees: 0.1.5
 duawranglr: 0.6.8
 dub: 0.2.0
-duckdb: 1.5.5
+duckdb: 1.5.6
 duckdbfs: 0.1.2
 duckduckr: 1.0.0
 duckh3: 0.1.0
@@ -16162,7 +16167,7 @@ ercv: 1.0.1
 erer: '4.0'
 erfe: 0.0.1
 ergMargins: 1.6.2
-erglm: 0.1.1
+erglm: 0.2.0
 ergm: 4.12.0
 ergm.count: 4.1.3
 ergm.ego: 1.1.4
@@ -16539,7 +16544,7 @@ facebookorganicR: 0.1.0
 facerec: 0.1.0
 facetsviz: 0.1.1
 facilitation: 0.5.2
-facilityepimath: 0.2.1
+facilityepimath: 0.2.3
 facmodCS: '1.0'
 facmodTS: '1.0'
 facomplex: 1.0.0
@@ -18488,7 +18493,7 @@ glmmLasso: 1.6.4
 glmmML: 1.1.7
 glmmPen: 1.5.4.8
 glmmSeq: 0.5.7
-glmmTMB: 1.1.14
+glmmTMB: 1.1.15.2
 glmmboot: 0.6.0
 glmmfields: 0.1.8
 glmmrBase: 1.4.1
@@ -20378,6 +20383,7 @@ ivregEX: '1.0'
 ivs: 0.2.0
 ivsacim: 2.1.0
 ivtools: 2.3.0
+ivue: 0.1.0
 ivx: 1.1.1
 iwaqr: 1.8.4
 iwtp: 1.0.0
@@ -20550,7 +20556,7 @@ jug: 0.1.7
 juicedown: 0.1.2
 juicr: '0.2'
 juicyjuice: 0.1.0
-jumble: 0.1.2
+jumble: 0.2.0
 jumps: '1.0'
 junco: 0.1.6
 junctions: 2.1.4
@@ -21596,6 +21602,7 @@ lvmcomp: '1.2'
 lvmisc: 0.1.2
 lvnet: 0.3.5
 lvplot: 0.2.2
+lwbgt: 0.4.1
 lwc2022: 1.0.1
 lwgeom: 0.2-17
 lwqs: 0.5.0
@@ -25622,7 +25629,7 @@ plsr: 0.0.1
 plssem: 0.1.5
 pltesim: '1.0'
 plu: 0.3.0
-plug: 0.1.0
+plug: 0.2.0
 plugdensity: 0.8-6
 plumber: 1.3.3
 plumber2: 0.2.0
@@ -26371,7 +26378,7 @@ pwrAB: 0.1.0
 pwrFDR: 3.2.4
 pwrRasch: 0.1-4
 pwranova: 1.1.5
-pwrss: 1.2.0
+pwrss: 1.3.1
 pwt: 7.1-1
 pwt10: 10.01-0
 pwt8: 8.1-1
@@ -26481,6 +26488,7 @@ qp: 0.3-2
 qpNCA: 1.1.6
 qpcR: 1.4-2
 qpdf: 1.4.1
+qpmR: 1.1.0
 qpmadr: 1.1.0-0
 qpost: 1.1.0
 qqboxplot: 0.3.0
@@ -26566,7 +26574,7 @@ qualCI: '0.1'
 qualV: 0.3-5
 qualityTools: '1.55'
 qualitycontrol: 0.1.0
-quallmer: 0.4.0
+quallmer: 0.5.0
 quallmer.app: 0.1.0
 qualmap: 0.2.2
 qualpalr: 2.0.0
@@ -26835,6 +26843,7 @@ rPython: 0.0-6
 rQCC: 2.22.12
 rQSAR: 1.0.0
 rRAP: '1.1'
+rReGSPTT: 0.1.0
 rRofex: 2.0.6
 rSAFE: 0.1.4
 rSARP: 1.0.0
@@ -26926,6 +26935,7 @@ rainfarmr: '0.1'
 rainfreq: '0.3'
 rairtable: 0.1.2
 raiseR: 0.1.0
+raisr: 0.1.0
 rake: '1.2'
 rakeR: 0.2.1
 ralger: 2.3.0
@@ -27564,7 +27574,7 @@ rencher: 0.1.6
 renderthis: 0.2.0
 renpow: 0.1-1
 rentrez: 1.2.4
-renv: 1.2.4
+renv: 1.3.0
 renz: 0.2.1
 repairData: 0.1.0
 repana: 2.2.1
@@ -27935,7 +27945,7 @@ rjd3providers: 3.9.0
 rjd3qr: 0.4.2
 rjd3toolkit: 3.9.0
 rjd3tramoseats: 3.9.0
-rjd3workspace: 3.8.0
+rjd3workspace: 3.9.0
 rjd3x13: 3.9.0
 rjd3xjars: 0.1.2
 rjdmarkdown: 0.2.2
@@ -28649,7 +28659,7 @@ rwty: 1.0.3
 rwunderground: 0.1.8
 rxSeq: 0.99.3
 rxivistr: 0.1.1
-rxode2: 5.1.7
+rxode2: 5.1.7.1
 rxode2et: 2.0.13
 rxode2lincmt: 0.1.0
 rxode2ll: 2.0.18
@@ -28891,6 +28901,7 @@ scDECO: 0.1.1
 scDHA: 1.2.4
 scDIFtest: 0.1.1
 scDiffCom: 1.2.0
+scFlex: 0.1.0
 scGOclust: 0.2.1
 scGate: 1.7.2
 scINSIGHT: 0.1.5
@@ -30625,6 +30636,7 @@ ssBartik: 0.1.1
 ssMRCD: 2.0.1
 ssMousetrack: 1.1.7
 ssMutPA: 0.1.2
+ssPilot: 1.0.0
 ssa: 1.3.0
 ssaBSS: 0.1.2
 ssanv: '1.1'
@@ -32606,6 +32618,7 @@ uCAREChemSuiteCLI: 0.2.0
 uFTIR: 0.1.4
 uGMAR: 3.6.1
 uHMM: '1.0'
+uSDT: 0.1.0
 uaparserjs: 0.4.1
 uavRmp: '0.7'
 uavRst: 0.5-4
@@ -33294,7 +33307,7 @@ wearables: 0.11.3
 weathR: 0.1.0
 weatherData: 0.5.0
 weatherMRJD: 0.1.1
-weatherOz: 3.0.0
+weatherOz: 3.0.1
 weatherStats: '0.1'
 weathercan: 0.6.2
 weatherindices: 0.1.0
@@ -33661,7 +33674,7 @@ xopen: 1.0.1
 xpect: '1.2'
 xpectr: 0.4.5
 xplain: 0.2.2
-xplaineff: 0.1.0
+xplaineff: 0.1.1
 xplainfi: 1.2.0
 xplorerr: 0.2.0
 xplus: 1.0.2
