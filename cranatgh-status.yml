@@ -91,7 +91,7 @@ AIGovernance: 0.1.0
 AIM: '1.01'
 AIPW: 0.6.9.3
 AIS: '1.0'
-AISanalyze: 3.1.2
+AISanalyze: 3.1.3
 AIUQ: 0.5.5
 AIscreenR: 0.4.0
 ALA4R: 1.9.1
@@ -1505,7 +1505,7 @@ Certara.RsNLME: 3.2.0
 Certara.RsNLME.ModelBuilder: 3.0.1
 Certara.RsNLME.ModelExecutor: 3.1.0
 Certara.VPCResults: 3.0.2
-Certara.Xpose.NLME: 2.0.2
+Certara.Xpose.NLME: 2.1.0
 CfEstimateQuantiles: '1.0'
 ChIPtest: '1.0'
 ChainLadder: 0.2.21
@@ -2517,7 +2517,7 @@ EEMDlstm: 1.0.1
 EEML: 0.1.1
 EESPCA: 0.8.0
 EFA.MRFA: 1.1.2
-EFA.dimensions: 0.1.9.1
+EFA.dimensions: 0.1.9.2
 EFAfactors: 1.2.4
 EFAtools: 1.1.0
 EFAutilities: 2.1.3
@@ -3341,7 +3341,7 @@ GFD: 0.3.3
 GFDmcv: 0.1.0
 GFDrmst: 0.1.1
 GFDrmtl: 0.1.0
-GFDsurv: 0.1.2
+GFDsurv: 0.1.3
 GFE: 0.1.2
 GFFStrandLoc: 0.1.0
 GFGM.copula: 1.0.4
@@ -5972,7 +5972,7 @@ NetPreProc: '1.2'
 NetRep: 1.2.10
 NetSci: 1.0.1
 NetSim: '0.9'
-NetSimR: 0.3.1
+NetSimR: 0.3.2
 NetSurvProx: 1.0.0
 NetSwan: '0.1'
 NetVAR: 0.1-2
@@ -6229,7 +6229,7 @@ OptiSembleForecasting: 0.1.0
 OptimClassifier: 0.1.5
 OptimModel: 2.0-3
 OptimaRegion: '1.2'
-OptimalBinningWoE: 1.13.5
+OptimalBinningWoE: 1.14.0
 OptimalCutpoints: 1.1-5
 OptimalDesign: 1.0.3
 OptimalGoldstandardDesigns: 1.0.1
@@ -6936,7 +6936,7 @@ PubMedMining: 1.0.0
 PubMedWordcloud: 0.3.7
 PublicWorksFinanceIT: 0.3.1
 PublicationBias: 2.4.0
-PublicationBiasBenchmark: 0.2.1
+PublicationBiasBenchmark: 0.3.0
 Publish: 2025.07.24
 PulmoDataSets: 0.2.1
 PupilPre: 0.6.3
@@ -8772,7 +8772,7 @@ SSIMmap: 0.4.0
 SSL: '0.1'
 SSLASSO: 1.2.3
 SSLR: 0.9.3.3
-SSLfmm: 0.2.1
+SSLfmm: 0.2.2
 SSM: 1.0.1
 SSN: 1.1.17
 SSN2: 0.4.0
@@ -9069,7 +9069,7 @@ Simile: 1.3.4
 SimpleTable: 0.1-2
 SimpleUpset: 0.1.6
 SimplexRegression: 0.1.6
-SimplicialComplex: 0.1.2
+SimplicialComplex: 0.2.1
 SimplicialCubature: '1.3'
 SimplifyStats: 2.0.4
 SimplyAgree: 0.3.0
@@ -11128,7 +11128,7 @@ arsenal: 3.7.1
 artemis: 1.1.1
 artfima: '1.5'
 arthistory: 0.1.0
-artma: 0.4.1
+artma: 0.5.0
 artoo: 0.2.0
 artpack: 0.2.0
 arules: 1.7.15
@@ -11858,7 +11858,7 @@ bigKRLS: 3.0.5.1
 bigMICE: 1.0.0
 bigMap: 2.3.1
 bigPCAcpp: 0.9.1
-bigPLSR: 0.7.2
+bigPLSR: 0.8.0
 bigPLScox: 0.8.1
 bigQF: '1.6'
 bigQueryR: 0.5.0
@@ -12543,6 +12543,7 @@ cachem: 1.1.0
 cacher: 1.1-2
 caesar: 1.1.0
 caffsim: 0.2.2
+cagedr: 0.1.0
 cairoDevice: 2.28.2.2
 cairovolt: 1.0.0
 calACS: 2.2.2
@@ -13026,7 +13027,7 @@ chessResults: 2026.08.27
 chessboard: '0.1'
 chest: 0.3.7
 chestR: 0.1.0
-chevron: 0.2.14
+chevron: 0.2.15
 chi: '0.1'
 chi2x3way: '1.1'
 chiOpenData: 0.1.1
@@ -13485,7 +13486,7 @@ coglyphr: 1.1.0
 cogmapr: 0.9.5
 cogmod: 0.3.3
 cognitoR: 1.0.5
-cograph: 2.4.4
+cograph: 2.7.2
 cohetsurr: '2.0'
 cohortBuilder: 1.0.0
 cohorts: 1.3.0
@@ -14748,7 +14749,7 @@ deeplr: 2.1.0
 deepnet: 0.2.1
 deepredeff: 0.1.1
 deepregression: 2.3.2
-deepspat: 0.3.3
+deepspat: 0.3.4
 deeptime: 2.4.0
 deeptimedata: 1.0.0
 deeptrafo: 1.0-0
@@ -15667,7 +15668,7 @@ easyr: 0.5-11
 easyreg: '4.0'
 easystab: '1.0'
 easystats: 0.7.6
-easysurv: 2.0.2
+easysurv: 2.0.3
 easytable: 2.1.1
 eat: 0.1.4
 eatATA: 1.1.2
@@ -15722,6 +15723,7 @@ ecm: 7.2.0
 ecmwfr: 2.0.3
 eco: 4.0-6
 ecoCopula: 1.0.6
+ecoGLMM: 0.1.3
 ecoTolerance: 0.1.0
 ecoXCorr: 0.2.2
 ecocbo: 1.0.0
@@ -16241,6 +16243,7 @@ estadistica: 1.2.2
 estar: 2.0-0
 estatapi: 0.4.0
 estats: '1.1'
+estbanr: 0.1.1
 estimability: 2.0.0
 estimateW: 0.2.0
 estimators: 0.8.5
@@ -17254,7 +17257,7 @@ forestly: 0.1.6
 forestmangr: 0.9.9
 forestmodel: 0.6.2
 forestplot: 3.2.0
-forestploter: 1.1.4
+forestploter: 1.2.0
 forestr: 2.0.2
 forestry: 0.1.1
 forestsearch: 0.1.0
@@ -18355,7 +18358,7 @@ ggsurveillance: 0.5.2
 ggsurvey: 1.0.0
 ggsurvfit: 1.2.1
 ggswissmaps: 0.1.2
-ggtaichi: 0.2.0
+ggtaichi: 0.3.0
 ggtangle: 0.1.3
 ggtaxplot: 0.0.1
 ggtea: 0.1.1
@@ -19417,6 +19420,7 @@ hnp: 1.2-7
 hoa: 2.1.4.1
 hoardeR: '0.10'
 hoardr: 0.5.5
+hobbs: 0.4.4
 hoboR: 1.1.0
 hockeyR: 1.3.0
 hockeystick: 1.0.0
@@ -19854,7 +19858,7 @@ iglm: 1.2.6
 iglu: 4.2.2
 igoR: 1.1.0
 igr: 1.0.1
-igraph: 2.3.3
+igraph: 2.3.4
 igraph0: 0.5.7
 igraphdata: 1.0.1
 igraphinshiny: '0.1'
@@ -22701,7 +22705,7 @@ mlmm: 1.5.0
 mlmm.gwas: 1.0.6
 mlmmm: 0.3-1.2
 mlmodels: 0.1.2
-mlmoderator: 0.2.1
+mlmoderator: 0.3.0
 mlmpower: 1.0.11
 mlms: 1.0.2
 mlmtools: 1.0.2
@@ -23396,7 +23400,7 @@ mvMORPH: 1.2.2
 mvMonitoring: 0.2.4
 mvPot: 0.1.7
 mvPred: 0.1.0
-mvProbit: 0.1-10
+mvProbit: 0.1-12
 mvQuad: 1.0-10
 mvSLOUCH: 2.7.7
 mvSUSY: 0.1.0
@@ -23660,7 +23664,7 @@ netDFI: 1.2.0
 netOP: 0.1.2
 netSEM: 0.7.0
 netShiny: '1.0'
-netUtils: 0.8.6
+netUtils: 1.0.0
 netassoc: 0.7.2
 netchain: 0.2.0
 netcmc: 1.0.2
@@ -23688,7 +23692,7 @@ netmhc2pan: 1.3.3
 netmodels: '0.2'
 netpanel: 0.0.1
 netplot: 0.4-0
-netrankr: 1.2.4
+netrankr: 2.0.0
 netregR: 1.0.1
 netrics: 1.0.3
 netropy: 0.3.0
@@ -24245,7 +24249,7 @@ ocomposition: '1.1'
 ocp: 0.1.1
 ocrRBBR: 0.1.0
 ocs4R: 0.3.1
-octawave: 0.1.0
+octawave: 0.1.1
 octopucs: 0.1.1
 octopus: 0.4.2
 octopusR: 1.0.1
@@ -24396,7 +24400,7 @@ opalr: 3.7.0
 opart: 2019.1.0
 opdisDownsampling: '1.7'
 opefimor: '1.2'
-openCR: 2.2.7
+openCR: 2.2.8
 openEBGM: 0.10.0
 openFDA: 0.1.0
 openMSE: 1.0.1
@@ -25267,7 +25271,7 @@ pgam: 0.4.17
 pgbart: 0.6.16
 pgdraw: '1.1'
 pgee.mixed: 0.1.0
-pgenlibr: 0.6.2
+pgenlibr: 0.7.0
 pgfSweave: 1.3.0
 pgirmess: 2.0.3
 pglm: 0.2-4
@@ -25468,7 +25472,7 @@ pipeflow: 0.4.0
 pipeliner: 0.1.1
 pipenostics: 0.2.0
 pipetime: 0.0.1
-pipr: 1.4.0
+pipr: 1.5.0
 piqp: 0.6.2
 pirate: 1.0.0
 piratings: 0.1.9
@@ -25755,7 +25759,7 @@ polite: 0.1.4
 politeness: 0.9.4
 politicaldata: 0.1.3
 politicsR: 0.1.0
-polle: 1.6.4
+polle: 1.6.5
 pollen: 0.83.0
 pollimetry: 1.0.1
 pollstR: 2.0.1
@@ -26294,7 +26298,7 @@ psvr: 0.1.0
 psy: '1.2'
 psycCleaning: 0.1.1
 psycModel: 0.5.0
-psych: 2.6.5
+psych: 2.6.9
 psychNET: 0.0.4.1
 psychReport: 4.0.1
 psychTools: 2.6.4
@@ -26360,7 +26364,7 @@ pulver: 0.1.1
 pumBayes: 1.0.2
 pumilioR: 1.3.1
 puniform: 0.2.8
-punycoder: 1.2.1
+punycoder: 1.3.0
 puremoe: 1.1.0
 pureseqtmr: 1.4.2
 purge: 0.2.1
@@ -26638,7 +26642,7 @@ quasar: 0.2.1
 quaternions: '0.2'
 quaxnat: 1.0.1
 queryBuilder: 0.1.0
-querychat: 0.4.0
+querychat: 0.4.1
 queryparser: 0.3.2
 queryup: 1.0.5
 quest: 0.2.1
@@ -27471,7 +27475,7 @@ refineR: 2.0.0
 refinr: 0.3.3
 refitME: 1.3.1
 refitgaps: 0.1.2
-reflectR: 2.1.4
+reflectR: 2.2.0
 reflimR: 1.1.0
 refnr: 0.1.0
 reformulas: 0.4.4
@@ -27961,7 +27965,7 @@ rjags: 4-17
 rjazz: 0.1.7
 rjd3bench: 3.1.3
 rjd3jars: 0.0.6
-rjd3production: 1.1.1
+rjd3production: 1.2.0
 rjd3providers: 3.9.0
 rjd3qr: 0.4.2
 rjd3toolkit: 3.9.0
@@ -31285,6 +31289,7 @@ svmf: '1.0'
 svmodt: 0.1.0
 svmpath: '0.970'
 svmplus: 1.0.1
+svpChange: 0.2.0
 svplots: 0.1.0
 svrep: 0.9.1
 svrpath: 0.1.2
@@ -31612,7 +31617,7 @@ tejoR: 0.2.2
 telefit: 1.0.3
 telegram: 0.7.1
 telegram.bot: 3.0.2
-telegramR: 0.0.1
+telegramR: 0.0.2
 telemac: 0.1.1
 telemetR: '1.0'
 telescope: 0.2-2
@@ -31705,7 +31710,7 @@ text2emotion: 0.1.0
 text2map: 0.4.0
 text2sdg: 1.1.2
 text2sdgData: 0.1.1
-text2speech: 1.0.0
+text2speech: 1.2.0
 text2vec: 0.6.6
 textAnnotatoR: 1.0.1
 textBoxPlacement: '1.0'
@@ -33418,7 +33423,7 @@ whatr: 1.0.1
 whatthreewords: 0.1.3
 wheatmap: 0.2.4
 when: 1.0.0
-whep: 0.3.0
+whep: 0.3.1
 where: 1.0.0
 whereami: 0.2.0
 whereport: '0.1'
