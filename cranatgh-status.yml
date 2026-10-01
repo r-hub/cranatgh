@@ -927,7 +927,7 @@ BiasCorrector: 0.2.3
 BiasedUrn: 2.0.12
 BibPlots: 0.0.8
 BifactorIndicesCalculator: 0.2.2
-BigDataPE: 0.2.0
+BigDataPE: 0.3.0
 BigDataStatMeth: 2.0.6
 BigQuic: 1.1-13
 BigSEM: '0.2'
@@ -1653,7 +1653,7 @@ CohortIncidence: 4.2.0
 CohortMethod: 6.0.3
 CohortPathways: 0.0.1
 CohortPlat: 1.0.5
-CohortSurvival: 1.1.2
+CohortSurvival: 1.2.0
 CohortSymmetry: 0.3.0
 CohortUtilisation: 0.6.1
 CoinMinD: 1.2.1
@@ -2149,7 +2149,7 @@ DSDRM: 0.1.3
 DSFM: 1.0.1
 DSGEr: 1.3.1
 DSI: 1.8.0
-DSIR: 0.9.0
+DSIR: 0.10.0
 DSL: 0.1-7
 DSLite: 1.4.1
 DSMolgenisArmadillo: 4.0.1
@@ -3301,7 +3301,7 @@ GCalignR: 1.0.7
 GCubeR: 0.1.3
 GD: '10.9'
 GDAdata: '0.93'
-GDAtools: '2.3'
+GDAtools: 2.3.1
 GDD: 0.1-13.1
 GDELTtools: '1.7'
 GDILM.ME: 1.2.1
@@ -7712,7 +7712,7 @@ RWildbook: 0.9.3
 RWinEdt: 2.0-6
 RWmisc: 0.1.2
 RWsearch: 5.2.6
-RXKCD: 2.0.1
+RXKCD: 2.0.2
 RXMCDA: 1.5.5
 RXshrink: '2.3'
 RYandexTranslate: '1.0'
@@ -7919,7 +7919,7 @@ RcppEnsmallen: 0.3.11.0.1
 RcppExamples: 0.1.11
 RcppFaddeeva: 0.2.2
 RcppFarmHash: 0.0.4
-RcppFastAD: 0.0.5
+RcppFastAD: 0.0.6
 RcppFastFloat: 0.0.6
 RcppGSL: 0.3.14
 RcppGetconf: 0.0.4
@@ -8827,7 +8827,7 @@ SUNGEO: 1.4.0
 SUSENAS: 0.1.0
 SUSY: 0.1.0
 SV: 1.3.5
-SVARtca: 1.0.2
+SVARtca: 1.0.3
 SVAlignR: 0.10.5
 SVDMx: 0.1.0
 SVDNF: 0.1.11
@@ -11722,7 +11722,7 @@ beautier: 2.6.12
 beautils: 0.2.0
 beaver: 1.0.0
 bedr: 1.1.5
-bedrock: 0.1.9
+bedrock: 0.1.16
 bedrockbio: 2.0.0
 beeca: 0.2.0
 beepr: '2.0'
@@ -14902,7 +14902,7 @@ detzrcr: 0.3.3
 devEMF: '4.6'
 devFunc: '0.1'
 devRate: 0.2.6
-devianLM: 1.1.0
+devianLM: 1.1.1
 devkit: 1.0.0
 devoid: 0.1.2
 devtoolbox: 0.2.0
@@ -15332,7 +15332,7 @@ dpcid: '1.1'
 dpdr: 0.1.0
 dpglasso: '1.0'
 dpkg: 0.6.2
-dplR: 1.7.9
+dplR: 1.8.0
 dplRCon: '1.0'
 dplbnDE: 0.1.3
 dplyneage: 0.3.1
@@ -16079,7 +16079,7 @@ epiCo: 1.0.1
 epiDeaths: 1.1.8
 epiDisplay: 3.7.0.0
 epiGWAS: 1.0.2
-epiR: 2.0.98
+epiR: 2.0.99
 epibase: 0.1-3
 epibasix: '1.5'
 epibyhand: 0.2.0
@@ -16319,7 +16319,7 @@ eventreport: 0.1.2
 events: '0.5'
 eventstream: 0.1.1
 eventstudies: 1.2.2
-eventstudyr: 1.2.0
+eventstudyr: 1.2.1
 evesim: 1.0.0
 evgam: 1.0.2
 evian: 2.1.0
@@ -17829,7 +17829,7 @@ gendata: 1.2.0
 gender: 0.6.0
 genderBR: 1.4.0
 genderNames: 0.1.0
-genderapi: 1.0.3
+genderapi: 2.0.0
 gendercoder: 0.1.1
 genderizeR: 2.1.1
 genderstat: 0.1.5
@@ -18069,8 +18069,8 @@ gg.gap: '1.3'
 gg1d: 0.1.0
 ggBubbles: 0.1.4
 ggChernoff: 0.3.0
-ggCheysson: 1.0.1
-ggChinaFlag: 0.4.0
+ggCheysson: 1.1.0
+ggChinaFlag: 1.0.0
 ggCompNet: 0.1.0
 ggDCA: '1.1'
 ggDNAvis: 1.0.1
@@ -21957,7 +21957,7 @@ matuR: 0.0.1.0
 mau: 0.4.0
 mauricer: 2.5.4
 maxEff: 0.2.3
-maxLik: 1.5-2.2
+maxLik: 1.6-10
 maxLinear: '1.0'
 maxRgain: 1.1.0
 maxTPR: 0.1.0
@@ -22451,7 +22451,7 @@ micss: 0.3.1
 micvar: 0.1.0
 midas: 1.0.1
 midas2: 1.1.0
-midasINLA: 0.1.0
+midasINLA: 0.1.1
 midasml: 0.1.11
 midasr: '0.9'
 midastouch: '1.3'
@@ -23407,7 +23407,7 @@ mvSUSY: 0.1.0
 mvShapiroTest: '1.0'
 mvabund: 4.2.8
 mvalpha: 0.6.3
-mvardlurt: 1.0.2
+mvardlurt: 1.1.0
 mvboxcox: 0.1.4
 mvbutils: 2.12.120
 mvc: '1.3'
@@ -23946,7 +23946,7 @@ noaaoceans: 0.3.0
 noaastormevents: 0.2.0
 noah: 0.1.0
 noctua: 2.6.3
-nocturn: 1.2.0
+nocturn: 1.2.1
 nodbi: 0.15.0
 node2vec: 0.1.0
 nodeHarvest: 0.7-3
@@ -25939,7 +25939,7 @@ ppcong: 0.0.2
 ppcor: '1.1'
 ppdiag: 0.1.1
 ppendemic: 0.2.2
-ppforest2: 0.1.2
+ppforest2: 0.1.3
 ppgam: 1.0.2
 ppgm: '1.1'
 ppgmmga: 1.3.1
@@ -26439,7 +26439,7 @@ qap: 0.1-2
 qape: '2.1'
 qapproach: 0.1.1
 qarPI: 0.1.0
-qardlr: 1.0.1
+qardlr: 1.1.1
 qat: '0.74'
 qatarcars: 1.1.0
 qbinplots: 0.3.3
@@ -27273,7 +27273,7 @@ rdatamarket: 0.6.5
 rdataretriever: 3.1.1
 rdav: 0.3.0
 rdbnomics: 0.6.4
-rdborrow: 0.0.4.1
+rdborrow: 0.0.4.2
 rdcmchecks: 0.1.1
 rdcor: '1.1'
 rdd: '0.57'
@@ -28078,7 +28078,7 @@ rmoo: 0.3.2
 rmoriebricklayer: 0.5.1
 rmoriedata: 0.3.3
 rmp: '2.2'
-rmpw: 0.0.6
+rmpw: 0.0.7
 rms: 8.1-1
 rms.gof: '1.0'
 rmsBMA: 0.2.0
@@ -28334,7 +28334,7 @@ rphast: 1.6.9
 rphylo: 0.1.1
 rphylopic: 1.7.0
 rphylotastic: 0.0.4
-rpic: 0.6.2
+rpic: 0.11.3
 rpicosat: 1.0.1
 rpinterest: 0.3.1
 rpivotTable: 0.4.0
@@ -28537,7 +28537,7 @@ rt.test: 1.26.9
 rt3: 0.1.2
 rtForecastEval: 0.1.0
 rtable: 0.1.5
-rtables: 0.6.16
+rtables: 0.6.17
 rtables.officer: 0.1.2
 rtabulator: 0.1.2
 rtape: '2.2'
@@ -29715,7 +29715,7 @@ signatureSurvival: 1.0.0
 signed.backbones: 0.91.5
 signibox: '1.0'
 signmedian.test: 1.5.1
-signnet: 1.0.6
+signnet: 1.1.0
 signs: 0.1.2
 sigora: 3.2.0
 sigr: 1.1.5
@@ -30497,7 +30497,7 @@ sphet: 2.1-1
 sphunif: 1.4.4
 spi: '1.1'
 spiR: 0.2.1
-spicy: 0.12.0
+spicy: 0.13.0
 spidR: 1.0.2
 spider: 1.5.3
 spiderbar: 0.2.5
@@ -31372,7 +31372,7 @@ symbolicDA: 0.7-3
 symbolicQspray: 1.1.0
 symbolicr: 1.0.0
 symbols: '1.1'
-symengine: 0.2.13
+symengine: 0.2.14
 symmetry: 0.2.3
 symmoments: 1.2.2
 symphony: 0.1.3
@@ -32234,7 +32234,7 @@ tpm: 2.0.2
 tpn: '1.12'
 tpr: 0.3-3
 tpsDesign: '1.3'
-tptest: 1.0.3
+tptest: 1.1.0
 tpwb: 0.1.0
 tqk: 0.1.8
 tr.iatgen: 1.1.0
@@ -32279,7 +32279,7 @@ trajectories: 0.2-10
 trajmsm: 0.1.5
 trajr: 1.5.1
 traktok: 0.1.1
-tram: 1.4-5
+tram: 1.4-6
 tramME: 1.0.8
 tramicp: 0.1-0
 tramnet: 0.0-991
@@ -32382,7 +32382,7 @@ trendchange: '1.2'
 trendeval: 0.1.1
 trending: 0.1.0
 trendsegmentR: 1.3.2
-trendseries: 1.4.0
+trendseries: 1.7.0
 trendtestR: 1.0.1
 trendyy: 0.1.1
 trex: '0.5'
@@ -32796,7 +32796,7 @@ upwaver: 1.2.1
 uqr: 1.0.0
 uqsa: 0.8.0
 ura: 1.0.1
-urbin: 0.1-16
+urbin: 0.1-18
 urbstatdata: 0.1.0
 urca: 1.3-4
 urlchecker: 2.0.0
@@ -33731,15 +33731,15 @@ xsp: 0.1.2
 xspliner: 0.0.4
 xtable: 1.8-8
 xtal: '1.15'
-xtbhst: 1.0.2
+xtbhst: 1.1.0
 xtbreakcoint: 1.0.6
-xtcspqardl: 1.0.2
-xtdhcoint: 1.0.1
+xtcspqardl: 1.0.5
+xtdhcoint: 1.0.3
 xtdml: 0.1.13
 xtensor: 0.14.1-0
 xterm256: 0.1-2
 xtermStyle: 3.0.5
-xtfifevd: 1.0.2
+xtfifevd: 1.1.0
 xtife: 0.1.4
 xtifedml: 0.1.4
 xtpqardl: 1.0.3
