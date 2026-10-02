@@ -758,7 +758,7 @@ BayesBD: '1.2'
 BayesBEKK: 0.1.1
 BayesBP: '1.1'
 BayesBinMix: 1.4.2
-BayesBrainMap: 0.2.0
+BayesBrainMap: 0.3.1
 BayesBridge: '0.6'
 BayesCACE: 1.2.3
 BayesCPclust: 0.1.0
@@ -1573,7 +1573,7 @@ Cleanet: 1.0.0
 CleaningValidation: '1.0'
 ClickClust: 1.1.6
 ClickClustCont: 0.1.7
-ClickHouseHTTP: 1.0.0
+ClickHouseHTTP: 1.1.2
 CliftLRD: 0.1-2
 ClimClass: 2.1.1
 ClimDown: 1.0.8
@@ -4660,7 +4660,7 @@ LMD: 1.2.1
 LMERConvenienceFunctions: '3.2'
 LMGene: 2.8.0
 LMMELSM: 0.2.1
-LMMsolver: 1.0.14
+LMMsolver: 1.0.14.1
 LMMstar: 1.1.0
 LMN: 1.1.3
 LMPdata: 0.2.1
@@ -6357,6 +6357,7 @@ PDM: '0.1'
 PDMIF: 0.1.0
 PDN: 0.1.0
 PDQutils: 0.1.6
+PDRobust: 0.3.8
 PDSCE: 1.2.1
 PDShiny: 0.1.0
 PDXpower: 1.0.5
@@ -9959,6 +9960,7 @@ UStatBookABSC: 1.0.0
 UVdose: 0.1.1
 UWHAM: '1.1'
 UdderQuarterInfectionData: 1.0.0
+UlavalSSD: 0.3.1
 Ultimixt: '2.1'
 Umacs: '0.924'
 Umatrix: 4.0.2
@@ -11868,7 +11870,7 @@ bigSurvSGD: 0.0.1
 bigalgebra: 3.1.1
 biganalytics: 1.1.22
 bigassertr: 0.2.0
-bigbang: 0.4.0
+bigbang: 0.5.0
 bigchess: 1.9.1
 bigdata: '0.1'
 bigdatadist: '1.1'
@@ -12871,7 +12873,7 @@ cenROC: 2.0.0
 cencrne: 1.0.0
 censCov: 1.0-0
 censNID: 0-0-1
-censReg: 0.5-38
+censReg: 0.5-40
 censable: 0.0.8
 censo2017: 0.6.2
 censo2022arg: 1.0.1
@@ -14805,7 +14807,7 @@ demor: 1.0.10
 demovuln: 0.1.0
 demu: 0.3.0
 demulticoder: 0.1.2
-dendRoAnalyst: 0.1.6
+dendRoAnalyst: 2.0.0
 dendextend: 1.19.1
 dendextendRcpp: 0.6.1
 dendroExtra: 0.0.2
@@ -15817,6 +15819,7 @@ edr4r: 0.1.1
 edrGraphicalTools: '2.2'
 edstan: 1.1.0
 edtdbg: 1.0.0
+eduResearchR: 0.1.0
 educabR: 1.1.0
 educationR: 0.1.0
 educationdata: 0.1.5
@@ -16618,6 +16621,7 @@ fame: 2.21.1
 familial: 1.0.7
 familiar: 2.0.3
 famish: 0.2.1
+famnesia: 0.1.1
 fanc: 2.4.0
 fancycut: 0.1.3
 fangs: 0.2.25
@@ -17116,7 +17120,7 @@ flippant: 1.5.7
 flipr: 0.3.3
 flipscores: 1.3.2
 flir: 0.6.0
-float: 0.3-3
+float: 0.3-4
 flobr: 0.2.3
 flock: '0.7'
 flocker: 1.0-2
@@ -18843,7 +18847,7 @@ greta.gp: 0.2.3
 gretel: 0.0.1
 gretlR: 0.1.4
 grex: 1.9.1
-greybox: 2.0.8
+greybox: 2.0.9
 greyzoneSurv: '1.0'
 grf: 2.6.1
 grid: 0.7-4
@@ -20790,7 +20794,7 @@ kohonen: 3.0.13
 kokudosuuchi: 1.0.0
 kollaR: 1.1.4
 kolmim: '1.0'
-koma: 0.3.1
+koma: 0.4.0
 komadown: 0.2.0
 komaletter: 0.5.0
 konfound: 1.0.3
@@ -21205,6 +21209,7 @@ likelihoodExplore: 0.1.0
 likelihoodR: 1.1.5
 likelihoodTools: 1.0.0
 likert: 1.3.5.1
+likingInitiative: 0.2.2
 lilikoi: 2.1.1
 lillies: 0.2.12
 limSolve: 2.0.3
@@ -21764,7 +21769,7 @@ manta: 1.0.1
 mantar: 0.3.1
 mantis: 1.0.2
 manureshed: 0.1.5
-manydata: 1.1.3
+manydata: 1.1.4
 manydist: 0.5.1
 manymodelr: 0.4.0
 manymome: 0.3.7
@@ -23212,6 +23217,7 @@ mudata: 0.1.1
 mudata2: 1.1.3
 mudens: 1.3.2
 mudfold: 1.1.21
+mudnester: 0.7.8
 mueRelativeRisk: 0.1.1
 mugnet: 1.02.0
 muhaz: 1.2.6.5
@@ -24626,7 +24632,7 @@ osmose: 3.3.4
 osmplotr: 0.3.3
 ospsuite.utils: 1.2.0
 osqp: 1.0.0
-osrm: 5.0.0
+osrm: 6.0.0
 osrm.backend: 0.4.1
 osrmr: 0.1.36
 osscontribs: 0.1.0
@@ -26343,6 +26349,7 @@ ptwikiwords: 0.0.3
 ptycho: 1.1-5
 pubchem.bio: 1.0.5
 pubchunks: 0.3.0
+pubformat: 0.1.0
 pubh: 3.0.0
 public.ctn0094data: 1.1.0
 public.ctn0094extra: 1.0.4
@@ -26832,6 +26839,7 @@ rLandsat: 0.1.1
 rLiDAR: 0.1.5
 rLifting: 1.0.0
 rLindo: 8.0.1
+rMDSPTT: 0.1.0
 rMEA: 1.2.2
 rMIDAS: 1.0.1
 rMIDAS2: 0.2.0
@@ -28608,6 +28616,7 @@ ruimtehol: 0.3.2
 ruin: 0.1.1
 ruler: 0.3.2
 rules: 1.0.3
+rumenGP: 0.1.1
 rumidas: 0.1.3
 ruminate: 0.3.2
 runDRT: 0.1.0
@@ -28624,7 +28633,7 @@ runonce: 0.3.3
 runstats: 1.1.0
 rupturesRcpp: 1.0.3
 rurality: 0.1.1
-rurl: 3.0.1
+rurl: 3.1.0
 rusda: 1.0.8
 rush: 1.3.0
 rusk: 0.1.1
@@ -29535,6 +29544,7 @@ shinyFiles: 0.9.3
 shinyGizmo: 0.5.0
 shinyGovstyle: 0.2.0
 shinyHeatmaply: 0.2.0
+shinyHierarchy: 0.1.0
 shinyHugePlot: 0.3.0
 shinyIRT: '0.1'
 shinyInvoice: 0.0.5
@@ -31987,7 +31997,7 @@ tiledb: 0.33.0
 tilegramsR: 0.2.0
 tilemaps: 0.2.2
 tiler: 0.3.2
-tiltdens: 0.2.0
+tiltdens: 0.2.1
 tilting: 1.1.1
 timbeR: 2.0.1
 timbr: 0.3.0
@@ -32020,6 +32030,7 @@ timeplyr: 1.1.2
 timereg: 2.0.7
 timesboot: '1.0'
 timeseriesdb: 1.0.0-1.1.2
+timesift: 0.3.1
 timeslab: 1.0-1
 timetk: 2.9.1
 timetools: 1.15.5
@@ -33554,7 +33565,7 @@ workflows: 1.3.0
 workflowsets: 1.1.1
 workloopR: 1.1.4
 workspace: 0.1.6
-worldbank: 0.10.0
+worldbank: 0.11.0
 worldfootballR: 0.6.2
 worldmet: 1.1.0
 worldriskpollr: 0.7.4
@@ -33767,6 +33778,7 @@ yacca: 1.4-2
 yager: 0.1.1
 yahoofinancer: 0.5.0
 yakmoR: 0.1.1
+yaleBraille: 0.2.2
 yaml: 2.3.12
 yaml12: 0.2.0
 yamlet: 1.3.4
@@ -33885,5 +33897,6 @@ ztable: 0.2.5
 ztils: 1.0.0
 ztpln: 0.1.3
 ztype: 0.1.0
+zujson: 0.1.0
 zyp: 0.11-1
 zzlite: 0.1.2
