@@ -91,7 +91,7 @@ AIGovernance: 0.1.0
 AIM: '1.01'
 AIPW: 0.6.9.3
 AIS: '1.0'
-AISanalyze: 3.1.3
+AISanalyze: 3.1.4
 AIUQ: 0.5.5
 AIscreenR: 0.4.0
 ALA4R: 1.9.1
@@ -1460,7 +1460,7 @@ CatDyn: 1.1-1
 CatEncoders: 0.1.1
 CatPredi: '2.0'
 CatReg: 2.0.4
-CatastRo: 1.0.2
+CatastRo: 1.1.0
 CateSelection: '1.0'
 CauMedi: 0.1.1
 CauchyCP: 0.1.1
@@ -2358,7 +2358,7 @@ Dire: 2.2.0
 DirectEffects: '0.3'
 DirectStandardisation: '1.3'
 DirectedClustering: 1.0.0
-Directional: '7.8'
+Directional: '7.9'
 DirichletRF: 0.2.0
 DirichletReg: 0.7-2
 DisHet: 1.0.0
@@ -3660,7 +3660,7 @@ GeometricMorphometricsMix: 0.6.1.1
 GephiForR: 0.1.1
 GermaParl: 1.5.2
 GerminaR: 2.1.7
-GetBCBData: 0.9.1
+GetBCBData: 0.9.5
 GetDFPData: '1.6'
 GetDFPData2: 0.6.5
 GetFREData: 1.1.0
@@ -3883,8 +3883,8 @@ HPbayes: '0.1'
 HQM: '2.1'
 HRM: 1.3.0
 HRQoL: '1.0'
-HRRI: 1.0.6
-HRTnomaly: 25.11.22
+HRRI: 1.0.9
+HRTnomaly: 26.9.19
 HRW: 1.0-6
 HS: '1.1'
 HSAR: 0.6.0
@@ -4924,7 +4924,7 @@ MAMA: 2.2.1
 MAMS: 3.0.3
 MAMSE: 0.2-1
 MANCIE: '1.4'
-MANOVA.RM: 0.5.4
+MANOVA.RM: 0.6.0
 MAP: 1.0.0
 MAPA: 2.0.7
 MAPCtools: 0.1.0
@@ -6526,7 +6526,7 @@ PROJ: 0.7.0
 PROMETHEE: '1.1'
 PROSPER: 0.3.3
 PROTOLIDAR: '0.1'
-PROreg: 1.3.2
+PROreg: 1.3.3
 PROscorer: 0.0.4
 PROscorerTools: 0.0.4
 PROsetta: 0.4.2
@@ -10263,7 +10263,7 @@ WeightedEnsemble: 0.1.0
 WeightedPortTest: '1.1'
 WeightedROC: 2026.8.27
 WeightedTreemaps: 0.1.4
-Westerlund: 0.1.3
+Westerlund: 0.1.4
 WgtEff: 0.1.2
 WhatIf: 1.5-11
 WhatsR: 1.0.6
@@ -10472,7 +10472,7 @@ accumulate: 1.0.0
 accuracy: '1.35'
 accuracylevel: 0.1.0
 acdcR: 1.0.0
-acdcquery: 1.2.3
+acdcquery: 1.2.4
 ace2fastq: 0.6.0
 aceEditor: 1.0.1
 acebayes: '1.11'
@@ -11204,7 +11204,7 @@ assignR: 2.4.3
 assist: 3.1.9
 assocInd: 1.0.1
 assortnet: '0.20'
-ast2ast: '1.0'
+ast2ast: 1.0.2
 asteRisk: 1.4.5
 aster: 1.3-7
 aster2: 0.3-2
@@ -11363,7 +11363,7 @@ aws: 2.5-7
 aws.alexa: 0.1.8
 aws.cloudtrail: 0.1.5
 aws.comprehend: 0.2.1
-aws.ec2metadata: 0.2.0
+aws.ec2metadata: 0.2.2
 aws.ecx: 1.0.6
 aws.iam: 0.1.8
 aws.kms: 0.1.4
@@ -11521,7 +11521,7 @@ basicTrendline: 2.0.5
 basicdrm: 0.3.2
 basicspace: '0.25'
 basictabler: 1.0.4
-basifoR: 0.7.9
+basifoR: 0.8.0
 basil: 0.1.0
 basket: 0.10.11
 baskexact: 1.0.1
@@ -12002,7 +12002,7 @@ biolink: 0.1.8
 biologicalActivityIndices: 0.1.0
 biom: 0.3.12
 biomartr: 1.0.7
-biomes: 0.9.4
+biomes: 0.9.5
 biometrics: 1.0.4
 biometryassist: 1.5.0
 biomod2: 4.3-4-6
@@ -13762,7 +13762,7 @@ conserveR: 1.0.4
 consibiocloudclient: 1.0.0
 consolechoice: 1.1.1
 consolidatePacks: 1.0.0
-consort: 1.2.3
+consort: 1.2.4
 consortr: 0.9.1
 consrq: '1.0'
 constants: '2022.0'
@@ -14289,7 +14289,7 @@ cubeview: 0.4.1
 cubfits: 0.1-4
 cubicBsplines: 1.0.0
 cubing: 1.0-5
-cucumber: 2.1.1
+cucumber: 2.2.0
 cuda.ml: 0.4.0
 cudaBayesreg: 0.3-16
 cudaBayesregData: 0.3-11
@@ -14631,7 +14631,7 @@ dbparser: 2.2.1
 dbplot: 0.4.0
 dbplyr: 2.6.0
 dbrobust: 1.1.1
-dbscan: 1.2.6
+dbscan: 1.2.7
 dbstats: 2.0.3
 dbw: 1.1.4
 dbx: 0.4.0
@@ -15245,7 +15245,7 @@ dnr: 0.3.6
 do: 2.0.0.1
 do3PCA: 1.0.0
 doBy: 4.7.2
-doFuture: 1.3.0
+doFuture: 1.4.0
 doMC: 1.3.8
 doMIsaul: 1.0.1
 doMPI: 0.2.2
@@ -17789,7 +17789,7 @@ gearman: 0.1-5
 geboes.score: 1.0.0
 gecko: 1.0.3
 geckor: 0.2.0
-gedi2: 2.3.4
+gedi2: 2.3.6
 gee: 4.13-30
 gee4: 0.1.0.0
 geeCRT: 1.1.5
@@ -17921,7 +17921,7 @@ geoRglm: 0.9-16
 geoSAE: 0.1.0
 geoSpectral: 0.17.5
 geoTS: 0.1.10
-geoaddSAE2: 0.1.0
+geoaddSAE2: 0.1.1
 geoarrow: 0.4.4
 geoarrowWidget: 0.1.0
 geoaxe: 0.1.0
@@ -19547,7 +19547,7 @@ httpuv: 1.6.17
 httr: 1.4.9
 httr2: 1.3.0
 hubEnsembles: 1.0.0
-hubEvals: 0.4.0
+hubEvals: 0.5.0
 hubUtils: 1.2.1
 hubeau: 0.5.2
 hudr: 1.2.0
@@ -20018,7 +20018,7 @@ industRial: 0.1.0
 ineAtlas: 0.1.4
 ineapir: 0.2.6
 inecolr: 0.1.0
-inedemogR: 0.1.0
+inedemogR: 0.2.0
 inegiR: 3.0.0
 ineptR: 0.2.1
 ineptr2: 0.3.1
@@ -20090,7 +20090,7 @@ inplace: 0.1.2
 insane: 1.0.3
 insect: 1.4.4
 insectDisease: 1.2.2
-insectecol: 1.0.1
+insectecol: 1.1.1
 insee: 1.1.7
 insetplot: 1.4.0
 inshiny: 0.1.5
@@ -20283,7 +20283,7 @@ ircor: '1.0'
 irg: 0.1.6
 iriR: 0.2.2
 irid: 0.3.0
-irlba: 2.3.7
+irlba: 2.4.1
 irls: '1.0'
 ironseed: 0.4.0
 irpfR: 0.1.1
@@ -22705,7 +22705,7 @@ mlflow: 3.10.1
 mlgt: '0.16'
 mlica: 0.6.1
 mlica2: '2.1'
-mlim: 0.3.0
+mlim: 0.6.0
 mljar: 0.1.1
 mllrnrs: 0.0.9
 mlmRev: 1.0-9
@@ -22995,7 +22995,7 @@ morestopwords: 0.2.0
 morf: 1.0.0
 morgenstemning: '1.0'
 mori: 0.2.2
-morph: 1.1.0
+morph: 2.0.0
 morphErr: 1.0.0
 morphemepiece: 1.2.3
 morphemepiece.data: 1.2.0
@@ -23268,7 +23268,7 @@ multiRL: 0.4.5
 multiROC: 1.1.1
 multiRec: 1.0.6
 multiSA: 0.5.0
-multiScaleR: 0.7.0
+multiScaleR: 0.7.2
 multiUS: 1.2.3
 multiband: 0.1.0
 multibias: 1.7.3
@@ -24284,7 +24284,7 @@ odesolve: 0.9-9
 odetector: 1.0.1
 odfWeave: 0.8.4
 odfWeave.survey: '1.0'
-odiffr: 0.5.1
+odiffr: 0.6.0
 odin: 1.2.7
 odk: '1.5'
 odkr: 0.2.0
@@ -27276,7 +27276,7 @@ rct3: 1.0.4
 rcube: '0.5'
 rcure: 0.1.0
 rcv: 0.2.1
-rcxl: 0.1.0
+rcxl: 0.1.1
 rd2d: 1.0.0
 rda: 1.2-1
 rdacca.hp: 1.1-4
@@ -27711,7 +27711,7 @@ restimizeapi: 1.0.0
 restlos: 0.2-2
 restoptr: 1.1.1
 restorepoint: '0.2'
-restrictR: 0.1.0
+restrictR: 0.3.0
 restrictedMVN: '1.0'
 restriktor: 0.6-50
 result: 0.1.0
@@ -27798,7 +27798,7 @@ rgabriel: '0.9'
 rgam: 0.6.6
 rgauges: 0.2.0
 rgbIndices: 0.1.1
-rgbif: 3.8.5
+rgbif: 3.9.0
 rgcvpack: 0.1-4
 rgdal: 1.6-7
 rgdax: 1.2.1
@@ -29275,7 +29275,7 @@ semTests: 1.0.0
 semTools: 0.5-9
 semantic.assets: 1.1.0
 semantic.dashboard: 0.2.1
-semanticfa: 0.5.0
+semanticfa: 0.5.1
 semaphore: 1.2.0
 semboottools: 0.1.2.1
 semdiag: 0.1.2
@@ -30505,7 +30505,7 @@ spgs: 1.0-4
 spgwr: 0.6-37
 sphereML: 0.1.1
 sphereTessellation: 1.2.0
-sphereclust: '1.1'
+sphereclust: '1.2'
 spheredata: 0.1.3
 spherepc: 0.1.7
 sphereplot: 1.5.1
@@ -31228,7 +31228,7 @@ surveyframe: 0.4.2
 surveygraph: 1.0.0
 surveynnet: 1.0.0
 surveyoutliers: '0.1'
-surveyplanning: '4.0'
+surveyplanning: '4.1'
 surveysd: 2.0.3
 surveysearch: 0.1.0
 surveytable: 0.10.0
@@ -31925,7 +31925,7 @@ tidylab: 4.1.1
 tidylaslog: 0.1.2
 tidylda: 0.1.1
 tidylearn: 0.5.0
-tidyllm: 0.6.0
+tidyllm: 0.7.0
 tidylo: 0.2.0
 tidylog: 1.1.0
 tidymargins: 0.1.0
@@ -32216,7 +32216,7 @@ torchopt: 0.1.4
 torchvision: 0.9.0
 torchvisionlib: 0.8.0
 tornado: 0.1.3
-toro: 0.1.0
+toro: 0.2.0
 torus: '1.01'
 tosca: 0.3-4
 toscca: '1.0'
