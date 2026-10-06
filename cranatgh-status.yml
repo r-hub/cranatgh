@@ -1711,7 +1711,7 @@ ComparisonCR: 1.0.4
 ComparisonSurv: 1.1.1
 CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
-Compind: '3.6'
+Compind: '3.7'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
@@ -4068,7 +4068,7 @@ ICDS: 0.1.3
 ICE: '0.69'
 ICED: 0.0.1
 ICEHmeasures: 2.1.0
-ICESat2VegR: 0.0.3
+ICESat2VegR: 0.0.4
 ICEbox: '1.2'
 ICEinfer: '1.3'
 ICGE: 0.4.3
@@ -9394,7 +9394,7 @@ SunsVoc: 0.1.2
 SunsetTSA: 1.0.0
 SunterSampling: 1.0.1
 SupMZ: 0.2.0
-SuperCell: '1.1'
+SuperCell: '1.2'
 SuperExactTest: 1.2.0
 SuperGauss: 2.0.4
 SuperLearner: 2.0-42
@@ -10865,6 +10865,7 @@ ambient: 1.0.3
 ambiorix: 3.0.0
 ambit: 0.2.3
 ambre: 2.1.2
+ambs: 0.1.0
 ameco: 0.2.9
 amei: 1.0-7
 amelie: 0.2.1
@@ -11790,6 +11791,7 @@ betaregscale: 2.7.4
 betas: 0.1.1
 betaselectr: 0.2.4
 betategarch: '3.4'
+betbetter: 0.1.0
 betfairly: '1.2'
 bethel: '0.2'
 bets.covid19: 1.0.0
@@ -11860,7 +11862,7 @@ bifurcatingr: 2.1.0
 bigANNOY: 0.3.0
 bigBits: '1.4'
 bigD: 0.3.1
-bigDM: 0.5.8
+bigDM: 0.5.9
 bigFastlm: 0.0.2
 bigGP: 0.1.9
 bigIntegerAlgos: 0.1.2
@@ -14583,6 +14585,7 @@ dataview: 2.1.1
 dataviewR: 1.1.0
 datawizard: 1.4.0
 datazoom.amazonia: 1.2.0
+datazoom.saude: 0.1.1
 datazoom.social: 0.1.1
 date: 1.2-43
 date4ts: 0.1.2
@@ -15656,7 +15659,7 @@ easyNCDF: 0.1.4
 easyORtables: 0.0.1
 easyPSID: 0.1.3
 easyPubMed: 3.1.6
-easyRasch2: 1.3.1
+easyRasch2: 1.4.0
 easyRaschBayes: 0.3.0
 easyRef: 0.1.0
 easySVG: 0.1.0
@@ -15926,6 +15929,7 @@ elcf4R: 0.4.2
 elec: 0.1.2.2
 elec.strat: 0.1.1
 elect: 1.2.1
+electedBR: 0.1.0
 elections: 1.0.1
 elections.dtree: 2.0.0
 electionsBR: 0.5.0
@@ -16039,7 +16043,7 @@ enmpa: 0.2.5
 ennet: 0.2.2
 enpls: 6.1.1
 enrichR: '3.4'
-enrichit: 0.2.5
+enrichit: 0.2.6
 enrichvs: 0.0.5
 enrichwith: '0.6'
 enrollcast: 0.1.0
@@ -17299,7 +17303,7 @@ formulaiv: 0.1.0
 formulize: 0.1.0
 formulops: 0.5.1
 forplo: 0.2.5
-forrel: 1.9.0
+forrel: 1.10.0
 forrest: 0.3.0
 forsearch: 6.4.0
 forstringr: 1.0.0
@@ -18186,6 +18190,7 @@ ggeffects: 2.3.2
 ggenealogy: 1.0.3
 ggerror: 1.0.0
 ggetho: 0.3.7
+ggextreme: 0.1.0
 ggfacto: 0.4.0
 ggfan: 0.1.3
 ggfields: 0.0.7
@@ -22354,7 +22359,7 @@ metricsgraphics: 0.9.0
 metrix: 1.1.0
 metro: 0.9.3
 metropolis: 0.1.8
-metrosp: 1.2.1
+metrosp: 2.0.0
 metrumrg: '5.55'
 mets: 1.3.12
 metsyn: 0.1.2
@@ -22473,7 +22478,7 @@ micss: 0.3.1
 micvar: 0.1.0
 midas: 1.0.1
 midas2: 1.1.0
-midasINLA: 0.1.1
+midasINLA: 0.1.2
 midasml: 0.1.11
 midasr: '0.9'
 midastouch: '1.3'
@@ -25496,7 +25501,7 @@ pipeliner: 0.1.1
 pipenostics: 0.2.0
 pipetime: 0.0.1
 pipr: 1.5.0
-piqp: 0.6.4
+piqp: 0.6.4.1
 pirate: 1.0.0
 piratings: 0.1.9
 pirouette: 1.6.9
@@ -25526,7 +25531,7 @@ pkgGraphR: 0.3.1
 pkgKitten: 0.2.4
 pkgbuild: 1.4.8
 pkgcache: 2.2.5
-pkgcheck: 0.3.2
+pkgcheck: 0.3.3
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
@@ -27628,7 +27633,7 @@ rencher: 0.1.6
 renderthis: 0.2.0
 renpow: 0.1-1
 rentrez: 1.2.4
-renv: 1.3.0
+renv: 1.3.1
 renz: 0.2.1
 repairData: 0.1.0
 repana: 2.2.1
@@ -33069,7 +33074,7 @@ velociraptr: 1.1.0
 velox: 0.2.0
 vembedr: 0.1.5
 venn: '1.13'
-vennDiagramLab: 2.4.2
+vennDiagramLab: 2.9.0
 vennLasso: 0.1.6
 venneuler: 1.1-4
 vennplot: '1.0'
@@ -33924,6 +33929,7 @@ ztable: 0.2.5
 ztils: 1.0.0
 ztpln: 0.1.3
 ztype: 0.1.0
+zuhtml: 0.1.0
 zujson: 0.1.0
 zyp: 0.11-1
 zzlite: 0.1.2
