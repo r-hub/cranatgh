@@ -499,7 +499,7 @@ BAT: 2.11.3
 BATSS: 1.2.1
 BAYESDEF: 0.1.0
 BAYSTAR: 0.2-10
-BAwiR: 1.5.5
+BAwiR: 1.5.6
 BB: 2026.1.0
 BBC: 1.0.0
 BBEST: 0.1-9
@@ -1789,7 +1789,7 @@ CopSens: 0.1.0
 CopernicusClimate: 0.0.6
 CopernicusDEM: 1.0.5
 CopernicusDataspace: 0.0.5
-CopernicusMarine: 0.4.9
+CopernicusMarine: 0.5.0
 Copula.Markov: '2.9'
 Copula.Markov.survival: 1.0.0
 Copula.surv: '3.1'
@@ -3641,7 +3641,7 @@ GeneticSubsetter: '0.8'
 GeneticTools: 0.3.1
 GenoPop: 1.0.0
 GenoScan: '0.1'
-GenoTriplo: 2.2.1
+GenoTriplo: 2.2.2
 GenomeAdapt: 1.0.0
 GenomeAdmixR: 2.1.13.2
 GenomicMating: '2.0'
@@ -3993,7 +3993,7 @@ HiddenMarkov: 1.8-14
 HierDpart: 1.5.0
 HierO: '0.2'
 HierPorfolios: 0.1.0
-HierPortfolios: 1.0.2
+HierPortfolios: 1.1.0
 HighDimOut: 1.0.0
 HighDimenCDM: 0.1.0
 HighFive: 3.3.0
@@ -5334,7 +5334,7 @@ MSinference: 0.2.1
 MSmix: 2.0.0
 MSoutcomes: 0.2.1
 MSwM: '1.5'
-MTA: 0.6.0
+MTA: 0.7.0
 MTAFT: 0.1.0
 MTAR: 0.1.1
 MTDrh: 0.1.0
@@ -7505,7 +7505,7 @@ ROCnGO: 0.1.0
 ROCnReg: 1.0-9
 ROCpsych: '1.4'
 ROCsurf: 0.1.1
-ROCsurvcomp: 0.1.2
+ROCsurvcomp: 0.1.3
 ROCt: 0.9.5
 ROCwoGS: '1.0'
 RODBC: 1.3-26.3
@@ -8005,7 +8005,7 @@ Rdistance: 4.5.0
 Rdpack: 2.6.6
 Rdrools: 1.1.1
 Rdroolsjars: 1.0.1
-Rdrw: 1.0.5
+Rdrw: 1.0.6
 Rdsdp: 1.0.6
 Rdsm: 2.1.1
 Rdta: 1.0.1
@@ -9886,7 +9886,7 @@ TreeTools: 2.4.1
 TrenchR: 1.2.1
 TrendInTrend: 1.1.3
 TrendLSW: 1.0.6
-TrendSLR: '1.0'
+TrendSLR: 2.0.0
 TrendTM: 2.0.21
 Trendtwosub: 0.0.2
 Tri.Hierarchical.IBDs: 1.0.0
@@ -11530,7 +11530,7 @@ baseballr: 2.0.0
 basecamb: 1.1.5
 basedosdados: 0.2.3
 baseflow: 0.13.2
-basefun: 1.2-6
+basefun: 1.2-7
 baseline: 1.3-8
 baselinenowcast: 0.2.0
 baselinr: 0.6.0
@@ -12934,7 +12934,7 @@ centrifugeR: 0.1.7
 cents: 0.1-41
 cepR: 0.1.2
 cepiigeodist: '0.1'
-cepiweek: 0.1.2
+cepiweek: 0.2.0
 cepp: '1.7'
 cepreader: 1.3-0
 cepumd: 2.1.0
@@ -14082,7 +14082,7 @@ cplots: 0.5-0
 cpm: '2.3'
 cpmBigData: 0.0.2
 cpmr: 0.1.1
-cpop: 1.0.9
+cpop: 1.0.10
 cpp11: 0.5.5
 cpp11armadillo: 0.5.4
 cpp11bigwig: 0.3.1
@@ -16792,7 +16792,7 @@ fastrtext: 0.3.4
 fastsae: 0.1.0
 fastshap: 0.1.1
 fasttime: 1.1-0
-fasttreeid: 1.0.2
+fasttreeid: 1.1.0
 fastverse: 0.3.4
 fastymd: 0.1.5
 fat2Lpoly: 1.2.6
@@ -17293,6 +17293,7 @@ forensicR: 0.0.6
 forensicolors: 1.0.0
 forensicpopdata: 1.0.4
 forensim: 4.3.3
+foresightr: 0.1.1
 forestBalance: 0.1.0
 forestChange: '1.0'
 forestControl: 0.2.2
@@ -18022,7 +18023,7 @@ geommc: 1.3.2
 geomnet: 0.3.1
 geomod: 0.1.0
 geomorph: 4.1.1
-geomorphR: 0.1.0
+geomorphR: 0.2.0
 geomtextpath: 0.2.0
 geomultistar: 1.2.2
 geonames: '0.999'
@@ -20530,7 +20531,7 @@ jgd: 0.2.1
 jgsbook: 1.0.8
 jiebaR: 0.11.1
 jiebaRD: '0.1'
-jiebaRS: 0.3.0
+jiebaRS: 0.3.1
 jinjar: 0.3.2
 jipApprox: 0.1.5
 jirar: 0.1.0
@@ -21108,6 +21109,7 @@ lddmm: 0.4.2
 ldhmm: 0.6.1
 ldlasso: '3.2'
 ldmppr: 1.1.3
+ldpdist: 0.1.0
 ldr: 1.3.3
 ldsep: 2.1.7
 ldsr: 0.0.2
@@ -22409,7 +22411,7 @@ metrumrg: '5.55'
 mets: 1.3.12
 metsyn: 0.1.2
 mev: '2.2'
-mevr: 1.1.1
+mevr: 1.3.3
 mewAvg: 0.3.1
 mexhaz: '2.6'
 mexicolors: 0.2.0
@@ -22832,12 +22834,12 @@ mlstats: 0.1.2
 mlstm: 0.1.7
 mlstrOpalr: 1.0.3
 mlsurvlrnrs: 0.0.8
-mlt: 1.8-3
+mlt: 1.8-4
 mlt.docreg: 1.1-14
 mltest: 1.0.3
 mltools: 0.3.5
 mlts: 2.0.1
-mlumr: 0.1.0
+mlumr: 0.2.0
 mlvocab: '0.1'
 mlxR: 4.2.0
 mma: 10.8-1
@@ -24436,8 +24438,8 @@ onemap: 3.2.6
 onemapsgapi: 2.0.0
 onepass: 0.1.2
 onetime: 0.2.0
-oneway: 0.0.2
-onewaytests: '3.1'
+oneway: 0.0.3
+onewaytests: '3.2'
 onion: 1.5-3
 onlineBcp: 0.1.8
 onlineCOV: '1.3'
@@ -24769,7 +24771,7 @@ oxcAAR: 1.1.2
 oxcgrt: 0.1.0
 oxcovid19: 0.1.2
 oysteR: 0.1.4
-oystermapR: 1.5.0
+oystermapR: 1.6.0
 oz: 1.0-22
 ozbabynames: 0.2.0
 ozmaps: 0.4.5
@@ -25357,7 +25359,7 @@ pgnorm: 2.0.1
 pgraph: '1.6'
 pgs: 0.4-0
 pgsc: 1.0.0
-pgt: 0.7.0
+pgt: 0.7.1
 pguIMP: 0.1.1
 ph2bayes: 0.0.2
 ph2bye: 0.1.4
@@ -25580,7 +25582,7 @@ pkgGraphR: 0.3.1
 pkgKitten: 0.2.4
 pkgbuild: 1.4.8
 pkgcache: 2.2.5
-pkgcheck: 0.3.3
+pkgcheck: 0.3.4
 pkgcond: 0.1.1
 pkgconfig: 2.0.3
 pkgcopier: 0.0.1
@@ -25956,7 +25958,7 @@ posterior: 1.7.0
 postgwas: '1.11'
 postinfectious: 0.1.0
 postlightmercury: '1.2'
-postlink: 0.1.1
+postlink: 0.1.2
 postlogic: 0.1.0.1
 postpack: 0.5.4
 postshock: 0.2.1
@@ -26357,7 +26359,7 @@ psme: 1.0.0
 psmineR: 0.1.1
 pso: 1.0.4
 psoptim: '1.0'
-psp: 1.0.5
+psp: 1.0.6
 pspatreg: 1.1.2
 pspearman: 0.3-1
 pspline: 1.0-21
@@ -27259,7 +27261,7 @@ rbounds: '2.2'
 rbranding: 0.1.1
 rbraries: 0.2.0
 rbreak: 1.0.7
-rbridge: 1.0.3
+rbridge: 1.0.4
 rbrsa: 0.2.0
 rbscCI: 0.1.1
 rbtc: 0.1-7
@@ -27713,7 +27715,7 @@ reportRmd: 0.1.3
 reportRx: '1.0'
 reporter: 1.4.9
 reportfactory: 0.4.0
-reportr: 1.3.1
+reportr: 2.0.0
 reports: 0.1.4
 reporttools: 1.1.4
 repr: 1.1.7
@@ -28032,7 +28034,7 @@ riskutility: 0.2.0
 riskweightedassets: 1.2.4
 riskyr: 0.5.0
 risq: 3.0.1
-ritalic: 0.13.0
+ritalic: 0.13.1
 rite: 0.3.4
 ritis: 1.0.0
 riv: 2.0-5
@@ -28775,7 +28777,7 @@ rwty: 1.0.3
 rwunderground: 0.1.8
 rxSeq: 0.99.3
 rxivistr: 0.1.1
-rxode2: 5.1.7.1
+rxode2: 5.1.8
 rxode2et: 2.0.13
 rxode2lincmt: 0.1.0
 rxode2ll: 2.0.18
@@ -30146,7 +30148,7 @@ smoothmest: 0.1-3
 smoothr: 1.3.0
 smoothtail: 2.0.6
 smoothy: 1.0.0
-smoots: 1.1.4
+smoots: 1.1.5
 smosr: 1.0.1
 smotefamily: 1.4.0
 smovie: 1.1.6
@@ -30894,7 +30896,7 @@ statAfrikR: 0.2.1
 statBasics: 0.2.3
 statConfR: 0.2.1
 statGraph: 1.0.6
-statMatchLCM: '1.2'
+statMatchLCM: '2.0'
 statTarget: 1.2.2
 statVisual: 1.2.1
 statar: 0.7.7
@@ -31626,7 +31628,7 @@ tastyR: 0.1.0
 tastypie: 0.1.2
 tatest: '1.0'
 tatoo: 1.1.3
-tatooheene: 1.0.0
+tatooheene: 1.0.1
 tau: 0.0-29
 tauProcess: 2.1.3
 tauturri: 0.3.0
@@ -32595,8 +32597,8 @@ tseriesEntropy: 0.7-2
 tseriesTARMA: 0.5-2
 tsfa: 2021.1-3
 tsfeatures: 1.1.1
-tsfgrnn: 1.0.5
-tsfknn: 0.6.0
+tsfgrnn: 1.0.6
+tsfknn: 0.7.1
 tsfngm: 0.1.0
 tsforecast: 1.3.1
 tsg: 0.1.4
@@ -32811,7 +32813,7 @@ umiAnalyzer: 1.0.0
 umlr: 0.3.0
 ump: 0.5-8
 umweltapir: 0.2.3
-umx: 4.80.0
+umx: 4.80.1
 unbalanced: '2.0'
 unbalhaar: '2.1'
 uncertainUCDP: 0.7.6
@@ -33346,7 +33348,7 @@ vyos: 1.0.2
 wARMASVp: 0.2.0
 wBoot: 1.0.3
 wCorr: 1.9.8
-wINEQ: 1.2.2
+wINEQ: 1.2.3
 wISAM: 0.2.8
 wNNSel: '0.1'
 wPerm: 1.0.1
