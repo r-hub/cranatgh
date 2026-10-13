@@ -2179,7 +2179,7 @@ DTComPair: 1.2.6
 DTDA: 3.0.1
 DTDA.cif: 1.0.2
 DTDA.ni: 1.0.1
-DTEAssurance: 1.1.0
+DTEAssurance: 1.3.0
 DTEBOP2: 1.0.3
 DTFM: 0.1.5
 DTK: '3.5'
@@ -3749,6 +3749,7 @@ GreedyEPL: '1.3'
 GreedyExperimentalDesign: 1.6.1
 GreedyExperimentalDesignJARs: '1.0'
 GreedySBTM: '1.0'
+GreenManureR: 0.1.0
 Greg: 2.0.3
 GregoryQuadrature: 1.0.0
 GreyModel: 0.1.0
@@ -7227,7 +7228,7 @@ RClimMAWGEN: '1.1'
 RClimacell: 0.1.4
 RClone: 1.0.3
 RCognito: 0.2.0
-RColetum: 1.1.0
+RColetum: 1.2.0
 RColorBrewer: 1.1-3
 RColorConesa: 1.0.0
 RConics: 1.1.2
@@ -7594,7 +7595,7 @@ RQDA: 0.3-1
 RQEntangle: 0.1.3
 RQGIS: 1.0.4
 RQdeltaCT: 1.3.3
-RQuantLib: 0.4.28
+RQuantLib: 0.4.29
 RRBoost: '0.2'
 RRF: 1.9.4.1
 RRI: '1.1'
@@ -8351,7 +8352,7 @@ Rtauchen: '1.0'
 RtextSummary: 0.1.0
 Rtextrankr: 1.0.0
 Rthingsboard: 0.2.7
-Rtinycc: 0.1.15
+Rtinycc: 0.1.16
 Rtnmin: 2016-7.7
 Rtrack: 2.0.4
 Rtropical: 1.2.1
@@ -8460,7 +8461,7 @@ SBmedian: 0.1.2
 SC.MEB: '1.1'
 SC2API: 1.0.0
 SCAT: 0.5.0
-SCAtools: 0.4.3
+SCAtools: 0.5.1
 SCBiclust: 1.0.2
 SCBmeanfd: 1.2.3
 SCCDdesign: 0.2.0
@@ -11048,6 +11049,7 @@ apricom: 1.0.0
 aprof: 0.4.1
 apsimeval: 0.1.0
 apsimr: '1.2'
+apsimwise: 0.1.0
 apsimx: 2.8.271
 apsrtable: 0.8-8
 apt: '4.0'
@@ -13821,7 +13823,7 @@ contentid: 0.0.19
 contentvalidR: 0.4.0
 contextFind: 1.0.1
 contextual: 0.9.8.4
-contfrac: 1.1-12
+contfrac: 1.1-13
 conting: '1.7'
 contingency: 0.0.10
 contingencytables: 3.1.0
@@ -16147,6 +16149,7 @@ epidatr: 1.4.0
 epidemia: 1.0.0
 epidesc: 0.1.0
 epidict: 0.3.0
+epidist: 1.0.0
 epidm: 1.0.6
 epifit: 0.1.2
 epifitter: 1.0.0
@@ -20150,7 +20153,7 @@ insetplot: 1.4.0
 inshiny: 0.1.5
 insideRODE: '2.0'
 insiderTrades: 0.0.1
-insight: 1.5.4
+insight: 1.6.0
 insol: 1.2.2
 inspectdf: 0.0.12.1
 inspector: 1.0.3
@@ -20643,7 +20646,7 @@ juicr: '0.2'
 juicyjuice: 0.1.0
 jumble: 0.2.0
 jumps: '1.0'
-junco: 0.1.6
+junco: 0.1.7
 junctions: 2.1.4
 junr: 0.1.3
 just.install: 1.0.2
@@ -22652,7 +22655,7 @@ missRanger: 2.6.1
 missSBM: 1.1.0
 missSOM: 1.0.1
 missalpha: 0.2.0
-missingHE: 1.6.1
+missingHE: 1.6.2
 missknn: 1.1.2
 missoNet: 1.5.1
 misspi: 0.1.1
@@ -23065,7 +23068,7 @@ morphemepiece.data: 1.2.0
 morpheus: 1.0-5
 morphomap: '1.5'
 morrowplots: 0.2.0
-morse: 3.3.5
+morse: 3.6.0
 morseDR: 0.1.3
 morseTKTD: 0.1.3
 mort: 0.0.1
@@ -23933,7 +23936,7 @@ nlmixr2: 7.0.1
 nlmixr2auto: 1.0.0
 nlmixr2autoinit: 1.0.1
 nlmixr2data: 2.0.10
-nlmixr2est: 7.1.0
+nlmixr2est: 7.2.0
 nlmixr2extra: 5.2.1
 nlmixr2lib: 0.3.2
 nlmixr2plot: 5.2.0
@@ -25547,7 +25550,7 @@ pipeGS: '0.4'
 pipeR: 0.6.1.3
 pipebind: 0.1.2
 pipefittr: 0.1.2
-pipeflow: 0.4.0
+pipeflow: 0.5.0
 pipeliner: 0.1.1
 pipenostics: 0.2.0
 pipetime: 0.0.1
@@ -25791,6 +25794,7 @@ pnf: 0.1.1
 png: 0.1-9
 pnmtrem: '1.3'
 pnn: 1.0.1
+pnotp: 0.1.0
 poLCA: 1.6.0.2
 poLCAParallel: 1.2.9
 pocketapi: '0.1'
@@ -28637,6 +28641,7 @@ rtematres: '0.2'
 rtemis: 1.2.7
 rtemis.a3: 0.5.3
 rtemis.core: 0.4.6
+rtemis.draw: 0.5.3
 rtemis.llm: 0.8.7
 rtemps: 0.8.0
 rtern: 0.1.2
@@ -28912,6 +28917,7 @@ sampfling: 0.6-3.1
 sampleSelection: 1.2-16
 sampleVADIR: 1.0.0
 sampledatasets: 0.1.0
+sampleone: 0.1.0
 sampler: 0.2.4
 samplesize: 0.2-4
 samplesize4surveys: 4.1.1
@@ -29235,6 +29241,7 @@ sdpdth: '0.2'
 sdprisk: 1.1-6
 sdpt3r: '0.3'
 sdrt: 1.0.0
+sds: 0.3.0
 sdsfun: 0.8.1
 sdstudio: 0.2.0
 sdtalt: '1.03'
@@ -29369,7 +29376,7 @@ semicmprskcoxmsm: 0.2.0
 semicontMANOVA: 0.2-1
 semidist: 0.1.0
 seminr: 2.5.0
-seminrExtras: 1.0.3
+seminrExtras: 1.0.4
 semisupKernelPCA: 0.1.5
 semlbci: 0.12.1
 semlrtp: 0.1.2
@@ -32038,7 +32045,7 @@ tidyquant: 1.0.12
 tidyquery: 0.2.4
 tidyqwi: 0.1.2
 tidyr: 1.3.2
-tidyrates: 0.0.1
+tidyrates: 0.0.2
 tidyrgee: 0.1.1
 tidyrhrv: 1.1.0
 tidyrstats: 0.1.0
