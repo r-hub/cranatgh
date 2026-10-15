@@ -636,6 +636,7 @@ BMT: 0.1.3
 BMTAR: 0.1.1
 BMTME: 1.0.19
 BMconcor: 2.0.0
+BMeRL: 1.0.0
 BMhyb: 2.1.5
 BMhyd: 1.2-8
 BMisc: 1.4.10
@@ -1138,6 +1139,7 @@ CAVIAR: 1.4-1
 CAWaR: 0.0.2
 CAbiplot: 0.1.0
 CAinterprTools: 1.1.0
+CAs: 0.24-3
 CAscaling: '1.0'
 CAvariants: '6.0'
 CB2: 1.3.8
@@ -1783,6 +1785,7 @@ Convolutioner: 0.1.0
 CooRTweet: 2.1.2
 CooccurrenceAffinity: 2.0.0
 CoopGame: 0.2.2
+CoopPostman: 0.1.0
 CoordinateCleaner: 3.0.1
 CopCTS: 1.0.0
 CopSens: 0.1.0
@@ -2572,6 +2575,7 @@ EMCC: '1.3'
 EMCluster: 0.2-18
 EMD: 1.5.9
 EMDANNhybrid: 0.2.0
+EMDSSAForecast: 0.1.0
 EMDSVRhybrid: 0.2.0
 EMDomics: 0.99.1
 EMGCR: 0.3.0
@@ -2729,7 +2733,7 @@ ElstonStewart: '1.2'
 EmbedSOM: 2.2.1
 Emcdf: 0.1.2
 EmiR: 1.0.6
-EmiStatR: 1.2.3.0
+EmiStatR: 1.2.6
 EmissV: 0.666.0.0
 EmpiricalCalibration: 3.1.4
 EmpiricalDynamics: 0.1.9
@@ -4356,6 +4360,7 @@ Interact: '1.1'
 InteractionPoweR: 0.2.4
 InteractiveIGraph: 1.0.6.1
 Interatrix: 1.1.5
+InterconectaR: 1.0.1
 InterfaceqPCR: 1.0.1
 Interpol: 1.3.1
 Interpol.T: 2.1.1
@@ -4421,7 +4426,7 @@ JMH: 1.0.4
 JMI: 0.1.0
 JMLSD: '1.0'
 JMbayes: 0.9-0
-JMbayes2: 0.6-0
+JMbayes2: 0.6-5
 JMbdirect: 0.1.1
 JMcmprsk: 0.9.10
 JMdesign: '1.6'
@@ -6154,6 +6159,7 @@ OWEA: 0.1.2
 Oarray: 1.4-9
 OasisR: 3.1.1
 Observation: 0.3.0
+OceanTracer: 1.0.2
 OceanView: 1.0.8
 OddsPlotty: 1.0.2
 OdysseusCharacterizationModule: 0.0.1
@@ -6874,7 +6880,7 @@ PreProcessing: 0.1.0
 PrecipStat: '1.03'
 PreciseSums: '0.7'
 PredCRG: 1.0.2
-PredPsych: '0.5'
+PredPsych: '0.6'
 PredTest: 0.1.0
 PredictABEL: 1.2-4
 PredictTestbench: 1.1.3
@@ -8038,6 +8044,7 @@ Recon: 0.3.0.0
 RecordLinkage: 0.4-12.6
 RecordTest: 2.2.0
 Records: '1.0'
+RecoverMetricsR: 0.1.0
 RecurRisk: 1.0.2
 RedditExtractoR: 3.0.9
 RedeAgroRadar: 0.1.1
@@ -9271,6 +9278,7 @@ SpeciesMix: 0.3.4
 SpecsVerification: 0.5-4
 SpectralClMixed: 1.0.2
 SpectralGEM: '1.0'
+SpectralMM: 0.1.0
 SpectralMap: '1.0'
 Spectran: 1.0.6
 Spectrum: '1.1'
@@ -11064,6 +11072,7 @@ aquodom: 0.1.1
 ar.matrix: 0.1.0
 arabic2kansuji: 0.1.3
 arabicStemR: '1.3'
+aradR: 0.2.0
 arakno: 1.3.3
 aramappings: 0.2.0
 araponga: 1.1.0
@@ -13564,7 +13573,7 @@ collatz: 1.0.0
 collectArgs: 0.4.0
 collections: 0.3.12
 collector: 0.1.3
-collegeScorecard: 0.2.0
+collegeScorecard: 0.3.0
 collett: 0.1.2
 colleyRstats: 0.2.0
 collidr: 0.1.3
@@ -13824,6 +13833,7 @@ contdid: 0.1.1
 contentValidity: 0.2.0
 contentanalysis: 1.1.1
 contentid: 0.0.19
+contentiousR: 0.1.0
 contentvalidR: 0.4.0
 contextFind: 1.0.1
 contextual: 0.9.8.4
@@ -14525,6 +14535,7 @@ dashTable: 4.7.0
 dashboard: 0.1.0
 dashboardapi: 0.1.0
 dashboardthemes: 1.1.6
+dasklyr: 0.1.1
 dat: 0.7.0
 data.checker: 2.0.0
 data.sketches: 0.1.1
@@ -15340,6 +15351,7 @@ doex: '1.2'
 dogesr: 0.5.2
 dominanceanalysis: 2.1.1
 domino: 0.3.1
+dominoise: 0.2.0
 domir: 1.3.0
 donut: 1.0.3
 donutsk: 0.1.1
@@ -15478,6 +15490,7 @@ ds: '4.0'
 ds4psy: 1.3.0
 dsBase: 6.3.5
 dsBaseClient: 6.3.5
+dsFedAte: 0.1.0
 dsROCrate: 0.2.3
 dsTidyverse: 1.2.1
 dsTidyverseClient: 1.1.0
@@ -15667,7 +15680,7 @@ eRTG3D: 0.7.0
 eRm: 1.0-10
 eSDM: 0.4.4
 eSIR: 0.4.2
-eVCGsampler: 1.1.2
+eVCGsampler: 1.2.0
 eVenn: '2.4'
 eadrm: 0.1.4
 eaf: 2.5.2
@@ -16220,6 +16233,7 @@ eqn2svg: 0.1.0
 eqs2lavaan: '3.0'
 eqtesting: 0.1.1
 eqtl: 1.1-7
+eqty.sdk.r: 0.9.2
 equSA: 1.2.1
 equalCovs: '1.0'
 equaltestMI: 0.6.1
@@ -16322,6 +16336,7 @@ etasFLP: 2.3.0
 ether: 0.1.6
 ethiodate: 0.3.1
 ethnobotanyR: 0.2.0
+ethnoecologyR: 0.1.4
 etl: 0.4.3
 etm: 1.1.2
 etma: 1.1-1
@@ -17520,6 +17535,7 @@ fuj: 0.3.0
 fullROC: 0.1.0
 fullRankMatrix: 0.1.0
 fullfact: '1.6'
+fullmetaphone: 0.1.0
 fulltext: '2.0'
 fume: '1.0'
 fun: '0.4'
@@ -17601,6 +17617,7 @@ fuzzyMM: 1.0.1
 fuzzyOP: '1.1'
 fuzzyRankTests: '0.5'
 fuzzySim: '4.60'
+fuzzySurvival: 0.1.0
 fuzzyforest: 1.0.8
 fuzzyjoin: 0.1.8
 fuzzylink: 0.4.1
@@ -18543,6 +18560,7 @@ gldist: '2160.2'
 gldrm: '1.6'
 gleam: 0.8.0
 gleifr: 0.3.0
+glemb: 0.1.4
 glinternet: 1.0.13
 glinvci: 1.2.4
 glioblastomaEHRsData: 1.1.0
@@ -19117,6 +19135,7 @@ gyro: 1.4.0
 h0: 1.0.1
 h2o: 3.44.0.3
 h2o4gpu: 0.3.3
+h2oplyr: 0.2.6
 h2otools: '0.4'
 h3jsr: 1.3.1
 h3lib: 0.1.4
@@ -19829,7 +19848,7 @@ iccCompare: 1.1.0
 iccCounts: 1.1.4
 iccTraj: 1.1.0
 iccbeta: 1.2.1
-iccde: 0.3.9
+iccde: 0.3.10
 iccmult: 1.0.1
 icd: 4.0.9
 icd.data: '1.0'
@@ -20270,6 +20289,7 @@ inventorize: 1.1.2
 inverseRegex: 0.2.0
 invertiforms: 0.1.2
 investdatar: 0.1.5
+investlabr: 0.0.6.2
 investr: 1.4.2
 invgamma: '1.2'
 invgamstochvol: 1.0.0
@@ -21293,6 +21313,7 @@ lilikoi: 2.1.1
 lillies: 0.2.12
 limSolve: 2.0.3
 lime: 0.5.4
+limestab: 0.1.0
 limexhub: 0.1.5
 liminal: 0.1.2
 limitplot: '1.2'
@@ -24973,7 +24994,7 @@ param2moment: 0.1.3
 param6: 0.2.4
 paramDemo: 1.0.3
 paramGUI: 2.2.0
-parameters: 0.29.3
+parameters: 0.30.0
 paramhetero: 1.0.0
 paramix: 0.0.2
 paramlink: 1.1-6
@@ -26398,6 +26419,7 @@ psych: 2.6.9
 psychNET: 0.0.4.1
 psychReport: 4.0.1
 psychTools: 2.6.4
+psychds: 0.1.0
 psychmeta: 2.7.0
 psychmetadata: 1.0.0
 psychnets: 0.5.2
@@ -27435,6 +27457,7 @@ reactRouter: 0.2.1
 reactable: 0.4.5
 reactable.extras: 0.2.1
 reactablefmtr: 2.0.0
+reactives: 0.1.0
 reactlog: 1.1.1
 read.abares: 3.0.0
 read.cwa: 0.2.1
@@ -27544,6 +27567,7 @@ recor: 1.0.3
 recorder: 0.8.2
 recordr: 1.0.3
 recosystem: 0.5.1
+recruitlag: 0.1.0
 rectpacker: 1.0.0
 recurrentpseudo: 1.0.0
 recurse: 1.4.0
@@ -27857,7 +27881,7 @@ rextor: 1.2.0
 rfPermute: 2.5.6
 rfUtilities: 2.1-5
 rfVarImpOOB: 1.0.3
-rfacebookstat: 2.16.1
+rfacebookstat: 2.17.0
 rfacts: 0.2.1
 rfair: 0.2.0
 rfars: 2.0.4
@@ -28089,6 +28113,7 @@ rje: 1.12.1
 rjmcmc: 0.4.5
 rjpdmp: 2.0.0
 rjqpd: 0.2.3
+rjsf: 0.1.0
 rjson: 0.2.23
 rjsonapi: 0.1.0
 rjsoncons: 1.3.3
@@ -28908,6 +28933,7 @@ safetyData: 1.0.0
 safetyGraphics: 2.1.1
 safi: '1.0'
 safuzzy: 0.1.1
+sage: 0.2.0
 sageR: 0.7.0
 sahpm: 1.0.1
 sail: 0.1.0
@@ -29967,6 +29993,7 @@ simuclustfactor: 0.0.3
 simukde: 1.3.0
 simul: 0.1.1
 simulMGF: 0.1.1
+simulab: 0.4.10
 simulariatools: 3.1.0
 simulateDCE: 0.3.2
 simulator: 0.2.5
@@ -30550,6 +30577,7 @@ speaq: 2.7.0
 speaq2: 0.1.0
 spearmanCI: '1.1'
 spec: 0.1.9
+specProc: 0.8.3
 speccalt: 0.1.1
 speccurvieR: 1.0.0
 specieschrom: 1.0.0
@@ -31557,6 +31585,7 @@ taRifx.geo: 1.0.6
 tab: 5.1.1
 tab2xml: 1.1.0
 tabbitR: 0.1.3
+tabby: 0.0.1
 tabbycat: 0.18.0
 taber: 0.1.2
 tabit: 0.2.1
@@ -32525,6 +32554,7 @@ triads: '0.2'
 triageR: 0.2.0
 trialSizing: 0.1.0
 trialdiff: 0.2.0
+trialfigs: 0.1.0
 trialr: 0.1.6
 triangle: 1.1.0
 triangulation: 0.5.0
@@ -32653,6 +32683,7 @@ tsqr: 0.2.0
 tsriadditive: 1.0.0
 tsrobprep: 0.3.2
 tssim: 0.2.7
+tsspiral: 0.1.1
 tstests: 1.0.2
 tstools: 0.4.4
 tsutils: 0.9.4
@@ -33730,6 +33761,7 @@ wrds: 0.1.1
 wrictools: 1.0.1
 write.snns: 0.0-4.2
 writeAlizer: 1.7.4
+writeLog: 0.1.0
 writer: 0.1.0
 writexl: 2.0.1
 wrspathrow: '0.1'
