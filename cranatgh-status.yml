@@ -122,7 +122,7 @@ AMModels: 0.1.4
 AMOEBA: '1.1'
 AMORE: 0.2-16
 AMPLE: 1.0.2
-AMR: 3.0.1
+AMR: 3.1.0
 AMRsurveilR: 0.1.0
 ANLP: '1.3'
 ANN: 0.1.4
@@ -373,6 +373,7 @@ Apoderoides: 3.0.1
 Apollonius: 1.0.1
 AppliedPredictiveModeling: 1.2.0
 ApplyPolygenicScore: 4.0.2
+ApproxOp: 0.1.0
 AquaAnalytix: 0.1.0
 AquaBEHER: 1.4.0
 AquaBPsim: 0.0.1
@@ -1070,6 +1071,7 @@ BrazilCrime: 0.3.0
 BrazilDataAPI: 0.3.0
 BrazilMet: 0.5.0
 BreakPoints: '1.2'
+BreedReliabR: 0.1.1
 BreedingSchemeLanguage: 0.9.6
 Brobdingnag: 1.3-1
 BrokenAdaptiveRidge: 1.0.2
@@ -1589,6 +1591,7 @@ ClimInd: 0.1-3
 ClimMobTools: 1.8.2
 ClimProjDiags: 0.3.6
 ClimaRep: '1.1'
+ClimateAnomaly: 1.0.0
 ClinReport: 0.9.1.14
 ClinSigMeasures: '1.3'
 ClinTrialPredict: 0.0.4
@@ -7697,6 +7700,7 @@ RTD: 0.4.2
 RTDAmeritrade: 0.0.1
 RTDE: 0.2-2
 RTFA: 0.1.0
+RTFBoost: 0.1.0
 RTIGER: 2.1.0
 RTL: 1.3.9
 RTLknitr: 1.1.1
@@ -8964,7 +8968,7 @@ SelfControlledCaseSeries: 6.1.5
 SelfControlledCohort: 2.1.0
 SelvarMix: 1.2.1
 SemNeT: 2.1.0
-SemNetCleaner: 1.3.7
+SemNetCleaner: 2.0.0
 SemNetDictionaries: 0.3.0
 SemanticDistance: 0.1.1
 Semblance: 1.1.0
@@ -9496,6 +9500,7 @@ Synth: 1.1-10
 SynthCast: 0.2.1
 SynthETIC: 1.1.2
 SynthTools: 1.0.1
+SynthesizerPlus: 0.2.9
 Sysrecon: 0.1.3
 SystemicR: 0.1.0
 T1FF: 0.1.0
@@ -9892,7 +9897,7 @@ TreeRingShape: 3.0.5
 TreeSearch: 1.7.0
 TreeSim: '2.4'
 TreeSimGM: '2.5'
-TreeTools: 2.4.1
+TreeTools: 2.5.0
 TrenchR: 1.2.1
 TrendInTrend: 1.1.3
 TrendLSW: 1.0.6
@@ -9941,7 +9946,7 @@ TwoPhaseInd: 1.1.2
 TwoRegression: 1.1.1
 TwoSampleTest.HD: '1.2'
 TwoStepCLogit: 1.2.6
-TwoStepSDFM: 0.2.2
+TwoStepSDFM: 0.3.0
 TwoTimeScales: 1.3.1
 TwoWayFEWeights: 2.1.0
 TwoWaySurvival: '2.2'
@@ -10066,6 +10071,7 @@ VBsparsePCA: 0.1.0
 VC2copula: 0.1.6
 VCA: 1.5.2
 VCBART: 1.2.5
+VCFArrow: 0.9.0
 VCMoE: 0.2.0
 VDA: '1.3'
 VDAP: 2.0.0
@@ -10545,9 +10551,11 @@ actigraph.sleepr: 0.4.0
 actilifecounts: 1.1.1
 actimetrics: 0.4.0
 actinet: 0.4.0
+actiplot: 0.1.0
 actiquantiles: 0.1.0
 actiread: 0.5.0
 actisensorlog: 0.2.0
+actisomni: 0.2.0
 activAnalyzer: 2.1.2
 activPAL: 0.1.4
 activatr: 0.2.1
@@ -11768,7 +11776,7 @@ beautier: 2.6.12
 beautils: 0.3.0
 beaver: 1.0.0
 bedr: 1.1.5
-bedrock: 0.1.16
+bedrock: 0.1.20
 bedrockbio: 2.0.0
 beeca: 0.2.0
 beepr: '2.0'
@@ -12258,6 +12266,7 @@ bolt4jr: 1.4.0
 bomWater: 0.4.1
 bomrang: 0.7.4
 bondAnalyst: 1.0.1
+bones: 0.1.1
 bonn: 1.0.3
 bonsai: 0.4.1
 bonsaiforest: 0.1.1
@@ -12791,7 +12800,7 @@ causalMGM: 0.1.1
 causalOT: 1.0.4
 causalPAF: 1.2.5
 causalQual: 1.0.0
-causalSLSE: 0.4-1
+causalSLSE: 0.4-2
 causalWins: 0.1.0
 causaldata: 0.1.4
 causaldef: 0.2.1
@@ -13550,7 +13559,7 @@ cohorts: 1.3.0
 cohorttools: 0.1.8
 coil: 1.2.4
 coin: 1.4-6
-coinclp: 0.1.1
+coinclp: 0.1.2
 coindeskr: 0.1.0
 coinmarketcapr: '0.4'
 cointReg: 0.2.0
@@ -14261,7 +14270,7 @@ csa: 0.7.1
 csabounds: 1.0.0
 csalert: 2024.6.24
 csampling: 1.2-4.1
-csbewma: 1.1.0
+csbewma: 1.2.0
 csci: 0.9.3
 csdata: 2026.7.2
 csdb: 2026.5.13
@@ -15379,6 +15388,7 @@ dotwhisker: 0.8.6
 doubcens: '1.1'
 doublIn: 0.2.0
 double.truncation: '1.8'
+doubletrs: 0.1.0
 doubt: 0.1.0
 douconca: 1.2.6
 doudpackage: 2.2.0
@@ -16002,6 +16012,7 @@ ellipsis: 0.3.3
 elliptic: 1.5-1
 ellipticalsymmetry: 0.1.2
 ellmer: 0.5.0
+ellmercodex: 0.2.0
 elmNN: '1.0'
 elmNNRcpp: 1.0.5
 elo: 3.0.2
@@ -16284,6 +16295,7 @@ errorizer: 0.2.1
 errorlocate: 1.1.2
 errors: 0.4.4
 errum: 0.0.4
+ertte: 0.1.1
 ervissexplore: 0.1.0
 es.dif: 1.0.2
 esDesign: 1.0.3
@@ -17603,7 +17615,7 @@ futile.paradigm: 2.0.4
 futility: '0.5'
 future: 1.80.0
 future.BatchJobs: 0.17.0
-future.apply: 1.20.2
+future.apply: 1.21.0
 future.batchtools: 0.22.0
 future.callr: 1.0.1
 future.mirai: 1.0.0
@@ -17625,6 +17637,7 @@ fuzzyreg: 0.6.2
 fuzzystring: 0.0.6
 fuzzyurn: 0.1.0
 fuzzywuzzyR: 1.0.6
+fvfmR: 1.0.0
 fwb: 1.0.0
 fwdmsa: '0.2'
 fwi.fbp: '1.7'
@@ -18049,7 +18062,7 @@ geommc: 1.3.2
 geomnet: 0.3.1
 geomod: 0.1.0
 geomorph: 4.1.1
-geomorphR: 0.2.0
+geomorphR: 0.2.1
 geomtextpath: 0.2.0
 geomultistar: 1.2.2
 geonames: '0.999'
@@ -18643,6 +18656,7 @@ glottospace: 0.0.112
 glow: 0.13.0
 glpk: 4.8-0.5
 glpkAPI: 1.3.4.1
+glpsol: 0.1.0
 glrt: '2.0'
 glscalibrator: 0.1.0
 glsm: 0.0.0.6
@@ -19453,7 +19467,7 @@ hilbertSimilarity: 0.4.4
 hildareadR: 0.2.0
 hillR: 0.5.2
 hilldiv: 1.5.1
-hilldiv3: 3.0.0
+hilldiv3: 3.1.1
 hillmakeR: '0.2'
 hillshader: 0.1.2
 himach: 1.0.1
@@ -20386,6 +20400,7 @@ irtProb: '1.2'
 irtQ: 1.3.1
 irtawsi: 0.4.1
 irtbem2pl: 1.0.1
+irtlink: 0.1.0
 irtoys: 0.2.2
 irtpwr: 1.0.3
 irtrees: 1.0.0
@@ -20861,6 +20876,7 @@ knitr: '1.52'
 knitrBootstrap: 1.0.4
 knitrProgressBar: 1.1.1
 knitrdata: 0.6.2
+knitroff: 0.1.0
 knitxl: 0.1.0
 knn: '1.1'
 knn.covertree: '1.1'
@@ -21005,6 +21021,7 @@ lamme: 0.0.1
 lancet.iraqmortality: 0.2-0
 lancor: 0.1.3
 land4health: 0.3.0
+lande: 0.1.0
 landest: '1.2'
 landform: '0.2'
 landgraph: 0.0.3
@@ -21506,6 +21523,7 @@ localLLM: 1.3.0
 localModel: '0.5'
 localScore: 2.0.5
 localboot: 0.9.2
+localdatasus: 0.2.0
 localdepth: 0.5-7
 localgauss: '0.41'
 localsolver: '2.3'
@@ -22991,6 +23009,7 @@ modelimpact: 1.1.0
 modelimportance: 0.1.0
 modellingTools: 0.1.0
 modello: 0.1.1
+modelname: 0.1.0
 modelplotr: 1.1.0
 modelr: 0.1.11
 modelscompete4: 0.2.6
@@ -23829,6 +23848,7 @@ networkGen: 0.1.1
 networkLite: 1.1.0
 networkR: 0.1.5
 networkTomography: '0.3'
+networkformat: 0.1.2
 networkreporting: 0.1.1
 networkscaleup: 0.2-2
 networksem: '0.4'
@@ -28134,6 +28154,7 @@ rknn: 1.2-1
 rkriging: 1.0.2
 rkt: '1.9'
 rkvo: '0.1'
+rladybugdb: 0.4.4
 rlandfire: 2.0.2
 rlandscape: '1.0'
 rlang: 1.3.0
@@ -29833,7 +29854,7 @@ siRSM: '1.1'
 siar: '4.2'
 siatclust: 1.0.5
 sicegar: 0.3.0
-sicher: 0.1.1
+sicher: 0.2.0
 siconfir: 2.0.3
 siconvr: 0.0.1
 sicure: 0.1.1
@@ -29886,7 +29907,7 @@ simBKMRdata: 0.2.2
 simCAT: 1.0.1
 simDAG: 1.0.1
 simDNAmixtures: 1.1.2
-simET: 1.0.3
+simET: 1.0.5
 simEd: 2.0.2
 simExam: 1.0.0
 simFastBOIN: 2.1.0
@@ -30400,7 +30421,7 @@ spTest: 0.2.5
 spThin: 0.2.0
 spTimer: 3.3.4
 spa: '2.0'
-spaAlign: 0.0.7
+spaAlign: 0.0.8
 spaMM: 4.7.17
 spaa: 0.2.5
 spacc: 0.11.0
@@ -30530,7 +30551,7 @@ spatialnbda: '1.0'
 spatialprobit: 1.0.4
 spatialreg: 1.4-3
 spatialreg.hp: 0.0-2
-spatialrisk: 0.8.3
+spatialrisk: 0.8.4
 spatialsample: 0.6.1
 spatialsegregation: '2.45'
 spatialwarnings: 3.1.2
@@ -32142,7 +32163,7 @@ tigger: 1.2.0
 tightClust: '1.1'
 tightenBlock: 0.1.7
 tigreBrowserWriter: 0.1.5
-tigris: 2.2.1
+tigris: 2.3.0
 tikatuwq: 0.10.0
 tiktokadsR: 0.1.0
 tikzDevice: 0.12.6
@@ -32449,7 +32470,7 @@ traktok: 0.1.1
 tram: 1.4-7
 tramME: 1.0.8
 tramicp: 0.1-0
-tramnet: 0.0-991
+tramnet: 0.1-0
 trampoline: 0.1.1
 tramvs: 0.0-9
 tranSurv: 1.2.4
@@ -32519,6 +32540,7 @@ treeducken: 1.1.0
 treefit: 1.0.3
 treeglia: 1.0.1
 treeheatr: 0.2.3
+treehunt: 0.0.2
 treelet: '1.1'
 treeman: 1.1.4
 treemap: 2.4-4
@@ -32675,7 +32697,7 @@ tsitter: 0.2.0
 tslars: '1.0'
 tsmarch: 1.0.0
 tsmethods: 1.0.3
-tsmp: 0.4.16
+tsmp: 0.5.1
 tsna: 0.3.6
 tsne: 0.2-0
 tsnet: 0.2.0
@@ -34062,8 +34084,10 @@ ztable: 0.2.5
 ztils: 1.0.0
 ztpln: 0.1.3
 ztype: 0.1.0
+zucsv: 0.1.0
 zuhtml: 0.1.0
 zujson: 0.1.0
+zukomp: 0.1.0
 zuyaml: 0.1.0
 zyp: 0.11-1
 zzlite: 0.1.2
