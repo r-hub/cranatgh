@@ -95,7 +95,7 @@ AISanalyze: 3.1.4
 AIUQ: 0.5.5
 AIscreenR: 0.5.0
 ALA4R: 1.9.1
-ALDEx3: 1.3.1
+ALDEx3: 1.4.0
 ALDqr: '1.0'
 ALEPlot: '1.1'
 ALFAM2: 4.2.14
@@ -782,7 +782,7 @@ BayesDesign: 0.1.1
 BayesDissolution: 0.2.1
 BayesERtools: 0.2.7
 BayesESS: 0.1.19
-BayesFBHborrow: 2.0.19
+BayesFBHborrow: 2.0.20
 BayesFM: 0.1.7
 BayesFR: 1.0.1
 BayesFactor: 0.9.12-4.8
@@ -1427,7 +1427,7 @@ CVR: 0.1.1
 CVST: 0.2-3
 CVThresh: 1.1.2
 CVTuningCov: '1.0'
-CVXR: 1.9.2
+CVXR: 1.9.3
 CVarE: '1.1'
 CVcalibration: 1.0-1
 CVglasso: 1.0.1
@@ -2375,7 +2375,7 @@ DirectStandardisation: '1.3'
 DirectedClustering: 1.0.0
 Directional: '7.9'
 DirichletRF: 0.2.0
-DirichletReg: 0.7-3
+DirichletReg: 0.7-4
 DisHet: 1.0.0
 DisImpact: 0.0.21
 DisaggregateTS: 3.0.1
@@ -3089,7 +3089,7 @@ FastGaSP: 0.6.4
 FastHCS: 0.0.7
 FastHamming: '1.3'
 FastImputation: 2.2.1
-FastJM: 1.7.1
+FastJM: 1.7.2
 FastKM: '1.2'
 FastKNN: 0.0.1
 FastKRR: 0.2.1
@@ -5848,7 +5848,7 @@ NFP: 0.99.4
 NFWdist: 0.1.0
 NGBVS: 0.3.0
 NGCHM: 1.0.4
-NGLVieweR: 1.4.0
+NGLVieweR: 1.5.0
 NGSSEML: '2.2'
 NGSToolKit: 0.1.4
 NHANES: 2.1.4
@@ -9547,7 +9547,7 @@ TDAvec: 0.1.41
 TDCM: 0.3.0
 TDCor: 0.1-2
 TDD: '0.4'
-TDIagree: 0.2.0
+TDIagree: 0.3.0
 TDLM: 1.1.4
 TDMR: '2.2'
 TDPanalysis: '1.0'
@@ -10503,7 +10503,7 @@ acca: '0.2'
 accbaseballr: 0.1.4
 accelEE: 0.3.2
 accelerometry: 3.1.2
-accelmissing: '2.2'
+accelmissing: '2.4'
 accept: 1.0.2
 accessibility: 1.5.0
 accessr: 1.1.4
@@ -10526,7 +10526,7 @@ acer: 0.1.2
 acfMPeriod: 1.1.0
 achieveGap: 0.1.0
 acid: '1.1'
-ackwards: 0.2.0
+ackwards: 0.3.0
 acled.api: 1.1.8
 acledR: 1.0.1
 aclhs: 1.0.1
@@ -14756,7 +14756,7 @@ ddpca: '1.1'
 ddpcr: 1.16.0
 ddplot: 0.1.0
 ddsPLS: 1.2.1
-ddst: 1.6.11
+ddst: 1.6.12
 ddtlcm: 0.2.1
 deBInfer: 0.4.4
 deBif: 0.1.9
@@ -17115,7 +17115,7 @@ fitbitr: 0.3.0
 fitcoach: '1.0'
 fitdc: 0.0.1
 fitdistcp: 0.2.3
-fitdistrBayes: 0.5.1
+fitdistrBayes: 0.6.0
 fitdistrplus: 1.2-6
 fitlandr: 0.1.1
 fitmix: 0.1.1
@@ -18815,7 +18815,7 @@ gpHist: '0.1'
 gpairs: 1.4.0
 gpbStat: 0.4.4
 gpbiometrics: 0.1.0
-gpboost: 1.7.4
+gpboost: 1.8.0
 gpci: 0.1.0
 gpciEMprogII: 0.1.0
 gpciImpSam: 0.1.0
@@ -19704,7 +19704,7 @@ hydroPSO: 0.5-1
 hydroState: 0.2.0.0
 hydroTSM: 0.8-6
 hydroToolkit: 0.1.0
-hydrocan: 0.0.1
+hydrocan: 0.0.2
 hydrochem: 0.1.0
 hydrodownloadR: 0.1.5
 hydroeval: 0.1.0
@@ -20933,7 +20933,7 @@ kpp2019: 0.0.1
 kriens: '0.1'
 krige: 0.6.2
 kriging: '1.2'
-krippendorffsalpha: '2.0'
+krippendorffsalpha: 2.0-3
 krm: 2022.10-17
 kro.inv.test: 0.1.3
 kronos: 1.0.0
@@ -23128,7 +23128,7 @@ morph: 2.0.0
 morphErr: 1.0.0
 morphemepiece: 1.2.3
 morphemepiece.data: 1.2.0
-morpheus: 1.0-5
+morpheus: 1.0-6
 morphomap: '1.5'
 morrowplots: 0.2.0
 morse: 3.6.0
@@ -27376,7 +27376,7 @@ rchemo: 0.1-4
 rcheology: 4.6.1.0
 rchess: '0.1'
 rchie: 1.0.2
-rchime: 0.1.2
+rchime: 0.1.3
 rchroma: 0.2.0
 rcicr: 1.5.0
 rciplot: 0.1.1
@@ -29183,7 +29183,7 @@ scenario: '1.0'
 scenes: 0.1.0
 scenfire: 0.1.0
 sceua: 0.1.1
-scf: 1.0.10
+scf: 1.2.0
 scfetch: 0.5.0
 scgwr: 0.1.2-21
 sched: 1.0.3
@@ -32758,7 +32758,7 @@ tufterhandout: 1.2.1
 tugboat: 0.1.6
 tukeyGH: 1.0.0
 tukeytrend: '0.7'
-tulpa: 0.6.0
+tulpa: 0.7.5
 tulpaMesh: 0.1.3
 tumblR: '1.2'
 tumgr: 0.0.4
@@ -34033,7 +34033,7 @@ zalpha: 0.3.0
 zarr: 0.5.1
 zbank: 0.1.0
 zctaCrosswalk: 2.0.1
-zcurve: 2.4.6
+zcurve: 2.4.7
 zdeskR: 0.6.0
 zeallot: 0.2.0
 zebu: 0.2.2.0
