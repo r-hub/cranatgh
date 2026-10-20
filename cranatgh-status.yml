@@ -2406,6 +2406,7 @@ DistributionIV: 0.1.3
 DistributionOptimization: 1.2.6
 DistributionTest: '1.1'
 DistributionUtils: 0.6-2
+DistributionalDDA: 0.1.1
 Ditwah: 1.0.1
 DivE: '1.3'
 DivInsight: 0.1.0
@@ -5887,7 +5888,7 @@ NMFN: 2.0.1
 NMI: '2.0'
 NMMAPSlite: 0.3-4
 NMMIPW: 0.1.0
-NMOF: 2.11-0
+NMOF: 2.12-0
 NMRS: '1.0'
 NMRphasing: 1.0.7
 NMTox: 0.1.0
@@ -6199,7 +6200,7 @@ OmopIndices: 0.1.0
 OmopOnSpark: 0.1.0
 OmopSketch: 1.1.1
 OmopStudyBuilder: 0.1.1
-OmopViewer: 0.7.0
+OmopViewer: 0.8.0
 OnAge: 1.0.2
 OnboardClient: 1.0.0
 OncoBayes2: 0.10-0
@@ -6898,7 +6899,7 @@ PressPurt: 1.0.2
 PrettyCols: 1.1.0
 PrevMap: 1.5.4
 PriceIndices: 0.3.1
-PricingBandits: 2.0.0
+PricingBandits: 2.1.0
 PriorCD: 0.1.0
 PriorGen: '2.0'
 PrivateLR: 1.2-22
@@ -8379,7 +8380,7 @@ Rtumblr: 0.1.1
 RtutoR: '1.2'
 Rtwalk: 2.1.0
 Rtwobitlib: 0.3.10
-RuHere: 1.1.0
+RuHere: 1.1.1
 Ruchardet: 0.0-3.1
 Ruido: 1.2.0
 RulesTools: 0.1.1
@@ -10336,7 +10337,7 @@ WordR: 0.3.6
 WorldFlora: 1.14-5
 WorldMapR: 1.3.0
 WormTensor: 0.1.2
-WpProj: '0.3'
+WpProj: 0.3.1
 Wrapped: '2.0'
 WrensBookshelf: 0.1.0
 WrightMap: '1.5'
@@ -10553,7 +10554,7 @@ actiRhythm: 0.1.0
 actibase: 0.6.0
 actigraph.sleepr: 0.4.0
 actilifecounts: 1.1.1
-actimetrics: 0.4.0
+actimetrics: 0.9.0
 actinet: 0.4.0
 actiplot: 0.1.0
 actiquantiles: 0.1.0
@@ -11566,7 +11567,7 @@ baserater: 0.1.2
 bases: 0.2.1
 basetable: 1.4.2
 basetheme: 0.1.3
-baseverse: 0.1.4
+baseverse: 0.1.5
 basf: 0.2.0
 basicMCMCplots: 0.2.7
 basicTrendline: 2.0.5
@@ -12479,7 +12480,7 @@ bsnsing: 1.0.1
 bsocialv2: 0.2.1
 bspcov: 1.0.3
 bspec: '1.6'
-bspline: 2.5.1
+bspline: 2.6.0
 bsplinePsd: 0.6.0
 bsplus: 0.1.5
 bspm: 0.5.8
@@ -12670,7 +12671,7 @@ cap: '1.0'
 cape: 3.1.2
 caper: 1.0.4
 capesData: 0.0.1
-capesR: 0.2.0
+capesR: 0.2.1
 capitalR: 1.3.0
 capl: '1.42'
 caples: 0.1.0
@@ -12999,7 +13000,7 @@ cgaim: 1.0.4
 cgal4h: 0.1.0
 cgalMeshes: 2.2.0
 cgalPolygons: 0.1.1
-cgam: '1.32'
+cgam: '1.33'
 cgdsr: 1.3.0
 cggd: '0.8'
 cgh: 1.0-7.1
@@ -13122,7 +13123,7 @@ chms: '7.2'
 chmsflow: 0.1.0
 chngpt: 2024.11-15
 choiceDes: 0.9-3
-choicedata: 0.2.0
+choicedata: 0.2.1
 choicer: 0.2.1
 cholera: 0.9.1
 chomper: 0.1.4
@@ -14230,7 +14231,7 @@ crosswalkr: 0.4.0
 crossword.r: 0.3.6
 crov: 0.3.0
 crownmetrics: 0.1.0
-crownsegmentr: 1.1.1
+crownsegmentr: 1.1.3
 crp.CSFP: 2.0.2
 crplyr: 0.4.2
 crq: '0.3'
@@ -16760,7 +16761,7 @@ fastM: 0.0-5
 fastMatMR: 1.2.8
 fastNaiveBayes: 2.2.1
 fastOnlineCpt: '1.0'
-fastPLS: '0.3'
+fastPLS: '0.4'
 fastQR: 1.1.4
 fastR: 0.10.3
 fastR2: 1.2.5
@@ -17468,7 +17469,7 @@ freeknotsplines: 1.0.1
 freestats: 0.0.3
 freestiler: 0.3.0
 freesurfer: 1.9.0
-freesurferformats: 1.1.0
+freesurferformats: 1.1.2
 freetypeharfbuzz: 0.2.6
 freewall: 1.0.0
 frenchCurve: 0.2.0
@@ -17564,7 +17565,7 @@ funFEM: '1.2'
 funGp: 1.0.0
 funHDDC: 2.3.1.1
 funHMM: 0.1.0
-funIHC: 0.1.0
+funIHC: 0.1.1
 funLBM: 2.3.1
 funMoDisco: 1.1.5
 funModeling: 1.9.6
@@ -18335,6 +18336,7 @@ gglorenz: 0.0.2
 gglycan: 0.0.3
 gglyph: 0.2.0
 ggm: 2.5.4
+ggmGraphEditor: 0.1.0
 ggmRSCU: 0.1.0
 ggmap: 4.0.2
 ggmapcn: 0.3.0
@@ -18619,7 +18621,7 @@ glmmGS: 0.5-1
 glmmLasso: 1.6.4
 glmmML: 1.1.7
 glmmPen: 1.5.4.8
-glmmSeq: 0.5.7
+glmmSeq: 0.5.8
 glmmTMB: 1.1.15.2
 glmmboot: 0.6.0
 glmmfields: 0.1.8
@@ -18955,7 +18957,7 @@ greta.gp: 0.2.3
 gretel: 0.0.1
 gretlR: 0.1.4
 grex: 1.9.1
-greybox: 2.0.9
+greybox: 2.0.11
 greyzoneSurv: '1.0'
 grf: 2.6.1
 grid: 0.7-4
@@ -19106,7 +19108,7 @@ gtools: 3.9.5
 gtop: 0.2.0
 gtranslate: 0.0.1
 gtreg: 0.4.2
-gtregression: 1.1.0
+gtregression: 1.2.0
 gtrendsR: 1.5.2
 gtrendshealth: 1.0.1
 gtsf: 0.1.0
@@ -19382,6 +19384,7 @@ hermiter: 2.3.1
 hero: '0.6'
 hesim: 0.5.8
 hespdiv: 1.2.10
+hestia: 0.1.0
 het.test: '0.1'
 hetGP: 1.1.9
 hetcorFS: 1.0.1
@@ -20122,10 +20125,10 @@ indirect: 0.2.1
 individual: 0.1.9
 indonesiaFootballScoutR: 0.1.3
 industRial: 0.1.0
-ineAtlas: 0.1.4
+ineAtlas: 0.2.1
 ineapir: 0.2.6
 inecolr: 0.1.0
-inedemogR: 0.2.0
+inedemogR: 0.2.1
 inegiR: 3.0.0
 ineptR: 0.2.1
 ineptr2: 0.3.1
@@ -20239,7 +20242,7 @@ integrOmics: '2.55'
 integrate: 2.2-3
 integrativeME: '1.2'
 integrativeMEdata: '1.0'
-integrity: 1.0.2
+integrity: 1.0.3
 inteli: 0.2.0
 intendo: 0.1.1
 intensegRid: 0.1.2
@@ -22198,7 +22201,7 @@ mcount: 1.0.1
 mcp: 0.3.4
 mcparallelDo: 1.1.0
 mcpd: '1.0'
-mcplite: 0.1.0
+mcplite: 0.2.0
 mcprofile: 1.0-1
 mcprogress: 0.1.1
 mcptools: 1.0.3
@@ -25581,7 +25584,7 @@ picasso: 2.0.1
 picker: 0.2.6
 pickmax: 0.1.0
 picohdr: 0.1.1
-picreg: 0.1.4
+picreg: 0.2.0
 pid: '0.65'
 piecemaker: 1.0.2
 piecemeal: 0.3.0
@@ -27696,6 +27699,7 @@ regressoR: 4.0.8
 regrrr: 0.1.3
 regsel: '0.2'
 regsem: 1.9.5
+regsensitivity: 0.2.0
 regspec: '2.7'
 regstat: 0.1.0
 regsubseq: '0.12'
@@ -28071,7 +28075,7 @@ rimu: '0.6'
 rinat: 0.1.10
 rindex: 0.12.1
 rineq: 0.3.0
-rinet: 0.1.1
+rinet: 0.2.0
 rinform: 1.0.2
 ring: 1.0.8
 ringSeg: 0.1.0
@@ -28228,7 +28232,7 @@ rmdshower: 2.1.1
 rmdwc: 0.3.1
 rmedsem: 1.1.0
 rmerec: 0.1.1
-rmet: 0.2.0
+rmet: 0.3.0
 rmeta: '3.0'
 rmetalog: 1.0.3
 rmetasim: 3.1.14
@@ -30358,6 +30362,7 @@ solr: 0.1.6
 solrad: 1.0.0
 solrium: 1.2.0
 solvebio: 2.15.1
+solvency2: 0.5.1
 solvency2rfr: 0.1.0
 som: 0.3-5.2
 som.nn: 1.4.4
@@ -30633,6 +30638,7 @@ spect: '1.0'
 spectacles: 0.5-5
 spectator: 0.2.0
 spectr: 1.0.1
+spectra2rgb: 0.1.0
 spectrakit: 0.2.0
 spectral: '2.0'
 spectral.methods: 0.7.2.133
@@ -33802,7 +33808,7 @@ wrds: 0.1.1
 wrictools: 1.0.1
 write.snns: 0.0-4.2
 writeAlizer: 1.7.4
-writeLog: 0.1.0
+writeLog: 0.1.1
 writer: 0.1.0
 writexl: 2.0.1
 wrspathrow: '0.1'
