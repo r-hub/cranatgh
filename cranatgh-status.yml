@@ -564,7 +564,7 @@ BElikelihood: '1.1'
 BFF: 5.0.0
 BFI: 3.2.0
 BFM: 0.2.11
-BFS: 0.7.2
+BFS: 0.8.0
 BFpack: 1.6.1
 BGData: 2.4.1
 BGFD: '0.1'
@@ -2250,7 +2250,7 @@ DataQualityDashboard: 2.9.1
 DataSetsUni: '0.1'
 DataSetsVerse: 0.1.0
 DataSimilarity: 0.4.0
-DataSpaceR: 1.0.2
+DataSpaceR: 1.0.3
 DataSum: 1.0.0
 DataVisualizations: 1.4.0
 DataViz: 0.2.8
@@ -2635,6 +2635,7 @@ EQUALencrypt: 0.1.0
 EQUALrepeat: 0.4.5
 EQUIVNONINF: 1.0.2
 ER: 1.1.2
+ERA5Flux: 1.0.0
 ERBioR: 0.9.0
 ERDbuilder: 2.0.0
 ERP: '2.2'
@@ -6666,7 +6667,7 @@ PanelSelect: 1.0.1
 PanelTM: '1.1'
 Paneldata: '1.0'
 PantaRhei: 0.1.2
-ParBayesianOptimization: 1.3.0
+ParBayesianOptimization: 1.4.2
 ParCC: 1.4.1
 ParDNAcopy: '2.0'
 ParallelDSM: 0.3.7
@@ -13293,6 +13294,7 @@ clifro: 3.2-5
 clikcorr: '1.0'
 clim.pact: 2.3-10
 clim4health: 0.1.0
+climabr: 0.1.0
 climaemet: 1.6.0
 climate: 1.4.2
 climate.plot: 0.1-2
@@ -17969,6 +17971,7 @@ genetic.algo.optimizeR: 0.3.3
 geneticae: 1.0.1
 genetics: 1.3.8.1.3
 geneviewer: 0.1.11
+genevintage: 0.1.3
 genfrn: 0.1.4
 genie: 1.0.7
 genieBPC: 2.2.0
@@ -19230,7 +19233,7 @@ harmony: 2.0.5
 harmonydata: 0.3.2
 harness: 0.2.0
 harrietr: 0.2.3
-harrypotter: 2.1.1
+harrypotter: 2.1.2
 harvestr: 0.7.1
 hash: 2.2.6.4
 hashFunction: '1.0'
@@ -19596,6 +19599,7 @@ hpfilter: 1.0.2
 hpiR: 0.3.2
 hpoPlot: '2.4'
 hpower: 0.1-0
+hpsreg: 1.0.0
 hqmisc: 0.2-1
 hqreg: 1.4-1
 hrIPW: 0.1.3
@@ -21068,6 +21072,7 @@ lasars: 0.1.1
 laser: 2.4-1
 lass0: 1.1.0
 lasso2: 1.2-22
+lassoinf: 0.1.0
 lassopv: 0.2.0
 lassoscore: '0.6'
 lassoshooting: 0.1.5-1.1
@@ -21220,6 +21225,7 @@ learningCurve: 1.1.2
 learningr: 0.29.1
 learningtower: 2.0.0
 learnr: 0.11.6
+learnr2: 0.1.3
 learnrbook: 2.0.1
 learnstats: 0.1.1
 leastcostpath: 2.0.13
@@ -24963,6 +24969,7 @@ palettephines: 0.1.3
 palettes: 0.2.2
 palettesForR: 0.1.2
 palettetown: 0.1.1
+palettome: 1.0.1
 palimpsestr: 0.24.1
 palinsol: '1.0'
 palm: 1.1.7
@@ -26524,7 +26531,7 @@ pumBayes: 1.0.2
 pumilioR: 1.3.1
 puniform: 0.2.8
 punycoder: 1.3.0
-puremoe: 1.1.0
+puremoe: 1.1.1
 pureseqtmr: 1.4.2
 purge: 0.2.1
 purgeR: 1.8.3
@@ -26624,6 +26631,7 @@ qdap: 2.4.6.1
 qdapDictionaries: 1.0.7
 qdapRegex: 0.7.10
 qdapTools: 1.3.7
+qdfauction: 0.1.0
 qdg: 1.0.0
 qdm: 0.1-0
 qeML: '1.1'
@@ -29785,7 +29793,7 @@ shinydbauth: 1.0.0.1
 shinydisconnect: 0.1.1
 shinydlplot: 0.1.4
 shinydrive: 0.1.5
-shinyds: 0.6.0
+shinyds: 0.7.2
 shinyelectron: 0.2.1
 shinyfa: 0.0.1
 shinyfilter: 0.1.1
@@ -34098,6 +34106,7 @@ zoon: 0.6.5
 zot: 0.1.2
 zoteR: 1.0.0
 zscorer: 0.3.1
+zstd: 0.1.0
 zstdlite: 0.2.7
 zstdr: 0.1.1
 ztable: 0.2.5
