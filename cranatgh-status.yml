@@ -2333,6 +2333,7 @@ DetLifeInsurance: 0.1.3
 DetMCD: 0.0.5
 DetR: 0.0.5
 DetSel: 1.0.4
+DetectOutlier: 0.1.1
 DevTreatRules: 1.1.0
 Devore5: 0.4-5
 Devore6: 0.6-0
@@ -2653,6 +2654,8 @@ ESKNN: '1.0'
 ESPRESSO: '2.0'
 ESTER: 0.2.0
 EScvtmle: 0.0.2
+ET0MassModels: 1.0.0
+ET0RadModels: 1.0.0
 ET0TempModels: 1.0.0
 ETAS: 0.7.2
 ETASbootstrap: 0.2.1
@@ -3267,6 +3270,7 @@ FuzzyNumbers.Ext.2: '3.2'
 FuzzyPovertyR: 3.0.2
 FuzzyQ: 0.1.0
 FuzzyR: 2.3.2
+FuzzyRandom: 0.1.0
 FuzzyResampling: 0.6.4
 FuzzySTs: '0.5'
 FuzzySimRes: 0.4.8
@@ -4807,6 +4811,7 @@ LassoNet: 0.8.3
 LassoSIR: '1.0'
 LatSquare: 0.4.1
 Latamverse: 0.1.0
+LatencyA: 1.0.2
 LatentBMA: 0.1.3
 LatentREGpp: 0.2.2
 Laterality: 0.9.5
@@ -5953,7 +5958,7 @@ NSCA: 0.4.5
 NSM3: '1.20'
 NSMM: 0.1.2
 NSO1212: 1.4.0
-NSR: 0.1.0
+NSR: 0.1.1
 NST: 3.1.10
 NSTempRFA: 0.2.0
 NSUM: '1.0'
@@ -7054,7 +7059,7 @@ QTOCen: 0.1.1
 QUALYPSO: '3.1'
 QUIC: 1.1.1
 QVM: 0.1.1
-QWDAP: 1.1.20
+QWDAP: 1.1.22
 QZ: 0.2-4
 Qapprox: 0.2.1
 Qardl: 0.1.1
@@ -8325,7 +8330,7 @@ RplotterPkg: 0.1.5
 Rpoet: 1.1.0
 Rpolyhedra: 0.6.0
 Rpoppler: 0.1-3
-RprobitB: 2.0.0
+RprobitB: 2.0.1
 Rprofet: 3.1.1
 Rpvt: 0.1.1
 Rquake: 2.5-1
@@ -9656,6 +9661,7 @@ TSEwgt: 0.1.0
 TSF: 0.1.1
 TSGS: 1.0.1
 TSGSIS: '0.1'
+TSGenerator: 2.0.0
 TSHRC: 0.1-6
 TSLA: 0.1.2
 TSLSTM: 0.1.0
@@ -9847,7 +9853,7 @@ TipDatingBeast: 1.1-0
 TippingPoint: 1.2.0
 Tivy: 0.1.1
 Tlasso: 1.0.2
-TmCalculator: 1.1.2
+TmCalculator: 1.1.3
 Tmisc: 1.0.1
 Tnseq: 0.1.2
 TooManyCellsR: 0.1.1.0
@@ -10148,6 +10154,7 @@ VariableScreening: 0.2.1
 VariableSelection: 1.0.0
 VarianceGamma: 0.4-2
 VariantScan: 1.1.9
+VasGBIF: 3.7.1
 VdgRsm: '1.5'
 Vdgraph: 2.2-7
 VecDep: 0.1.3
@@ -10659,6 +10666,7 @@ adjustedcranlogs: 0.1.0
 adjustr: 0.2.0
 adk: 1.0-2
 adklakedata: 0.7.1
+adlaplace: 0.7.4
 adlift: 1.4-6
 admetshiny: 1.0.0
 admiral: 1.5.0
@@ -10991,6 +10999,7 @@ anomalyDetection: 0.2.5
 anominate: '0.7'
 anomo: 1.3.2
 anonymizer: 0.2.0
+anotherSAS7bdat: 0.0.7
 anovapowersim: 1.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
@@ -11085,6 +11094,7 @@ aqfig: '0.9'
 aqp: 2.3.2
 aqr: '0.4'
 aquacultuR: 1.1.1
+aquats: 1.2.2
 aquodom: 0.1.1
 ar.matrix: 0.1.0
 arabic2kansuji: 0.1.3
@@ -11406,7 +11416,7 @@ avfintools: 0.1.0
 avgrankoverlap: '1.0'
 avidaR: 1.2.1
 avilistr: 0.0.1
-avlm: 0.1.0
+avlm: 0.2.0
 avocado: 0.2.0
 avotrex: 1.3.0
 avseqmc: 1.0.2
@@ -11447,6 +11457,7 @@ azuremapsr: 0.0.2
 azuremlsdk: 1.10.0
 b32: 0.1.0
 b3archives: 1.0.0
+b3gbi: 1.1.3
 b64: 0.1.7
 b6e6rl: '1.1'
 bGMYC4: 4.1.6
@@ -12337,6 +12348,7 @@ boss: '2.1'
 bossMaps: 0.1.0
 bossR: 1.0.4
 botor: 0.4.1
+boundedHill: 0.1.0
 boundedur: 1.0.3
 boundingbox: 1.0.1
 boussinesq: 1.0.6
@@ -12913,6 +12925,7 @@ cdparcoord: 1.0.1
 cdrcR: 0.1.1
 cds: 1.0.4
 cdtmbnma: 0.2.1
+cdtr: 0.1.0
 ceRtainty: 1.0.0
 ceas: 1.3.0
 ceblR: 1.0.0
@@ -13266,6 +13279,7 @@ cld2: 1.2.6
 cld3: 1.6.2
 clda: '0.1'
 cldr: 1.1.0
+cldreducer: 0.2.0
 cleaR: 0.0.4
 clean: 2.0.0
 cleanEHR: '1.0'
@@ -13483,6 +13497,7 @@ cnbdistr: 1.0.1
 cncaGUI: '1.1'
 cncleanr: 0.2.5
 cnd: 0.2.0
+cndplantanalysis: 1.0.2
 cnefetools: 0.3.0
 cnmap: 0.1.2
 cnmlcd: 1.2-0
@@ -13882,6 +13897,7 @@ convertGraph: '0.1'
 convertbonds: 0.1.0
 convertid: 0.4.0
 convertr: '0.1'
+convertxlsform: 0.3.0
 convevol: 2.2.1
 convexHaz: '0.2'
 convexjlr: 0.8.1
@@ -14106,7 +14122,7 @@ cpca: 0.1.2
 cpcens: 0.1.0
 cpd: 0.3.3
 cpfa: 1.3.3
-cpge: 1.0.2
+cpge: 1.0.3
 cpgen: '0.1'
 cpgfR: 0.0.1.0
 cpi: 0.1.5
@@ -14314,7 +14330,7 @@ csv: 0.6.2
 csvread: 1.2.3
 csvwr: 0.1.7
 csvy: 0.3.0
-ct: 0.4.0
+ct: 0.5.0
 ctDNAtools: 0.4.0
 ctOpenData: 0.1.1
 cta: 1.3.0
@@ -16468,6 +16484,7 @@ exactLoglinTest: 1.4.2
 exactRankTests: 0.8-37
 exactamente: 0.1.1
 exactci: 1.4-5
+exactcond: 0.2.0
 exactextractr: 0.10.1
 exactmaxsel: 1.0-4
 exactmeta: 1.0-2
@@ -16650,7 +16667,7 @@ fable.prophet: 1.0.0
 fableCount: 0.1.0
 fabletools: 0.8.0
 fabricQueryR: 1.0.1
-fabricatr: 1.0.2
+fabricatr: 2.0.0
 fabricerin: 0.1.2
 face: 0.1-8
 facebook.S4: 1.1.0
@@ -16956,6 +16973,7 @@ felp: 0.6.0
 feltr: 0.1.0
 femmeR: 0.5.1.1
 fence: '1.0'
+feols.asv: 0.0-1
 fergm: 1.1.4
 fermicatsR: '1.4'
 ferrn: 0.3.0
@@ -17183,6 +17201,7 @@ flexCountReg: 0.1.1
 flexCrossHaz: '0.2'
 flexFitR: 1.2.4
 flexIC: 0.1.4
+flexMatch: 0.1.0
 flexOR: 1.0.0
 flexPM: '2.0'
 flexclust: 1.5.0
@@ -17808,6 +17827,7 @@ gauseR: '1.3'
 gaussDiff: 1.1.1
 gausscov: 1.1.8
 gaussfacts: 0.0.4
+gaussianprocesses: 1.0.0
 gaussplotR: 0.2.5
 gausspred: 1.0-0
 gaussquad: 1.0-3
@@ -18095,6 +18115,8 @@ geoperu: 0.0.1
 geophys: 1.4-1
 geoprofiler: 0.0.4
 geopsych: 0.1.0
+geopt: 0.1.0
+geopytorch: 0.1.0
 georefar: 0.1.0
 georefdatar: 0.6.5
 georob: 0.3-23
@@ -18297,6 +18319,7 @@ ggforestplotR: 0.5.0
 ggformula: 2.0.0
 ggfortify: 0.4.24
 ggfoundry: 0.4.0
+ggfourfold: 0.1.0
 ggfun: 0.2.2
 ggfx: 1.0.3
 gggap: 1.0.1
@@ -20752,6 +20775,7 @@ karyotapR: 1.0.2
 katex: 1.5.0
 kayadata: 1.4.0
 kazaam: 0.1-0
+kbaabb: 0.0.1
 kbal: 0.1.4
 kcirt: 0.6.0
 kcmeans: 0.1.0
@@ -20990,6 +21014,7 @@ kzs: 1.4.1
 l0ara: 0.1.7
 l1ball: 0.1.0
 l1kdeconv: 1.2.0
+l1penSVMs: 0.1.0
 l1rotation: 1.0.1
 l1spectral: 0.99.6
 l2boost: 1.0.3
@@ -21554,7 +21579,7 @@ localgauss: '0.41'
 localsolver: '2.3'
 localsp: 0.1.0
 locateip: 0.1.2
-locatexec: 0.2.0
+locatexec: 0.2.1
 locationgamer: 0.1.0
 locatr: 0.1.0
 locdiff: '1.4'
@@ -22484,6 +22509,7 @@ metricTester: 1.3.6
 metrica: 2.1.1
 metricminer: 1.0.1
 metricsgraphics: 0.9.0
+metrictrails: 1.0.0
 metrix: 1.1.0
 metro: 0.9.3
 metropolis: 0.1.8
@@ -23542,7 +23568,7 @@ mustashe: 0.1.4
 mut: '1.1'
 mutSignatures: 2.1.1
 mutationtypes: 0.0.1
-mutator: 0.2.1
+mutator: 0.3.0
 mutatr: 0.1.2
 mutoss: 0.1-14
 mutossGUI: 0.1-12
@@ -23755,7 +23781,7 @@ ncdfgeom: 1.2.3
 ncdump: 0.0.5
 ncf: 1.3-3
 ncg: 0.1.1
-ncmR: 0.3.1
+ncmR: 0.4.0
 ncmeta: 0.5.0
 ncodeR: 0.2.0.1
 ncomplete: 1.0-1
@@ -24428,6 +24454,7 @@ odds.n.ends: 0.1.4
 oddsapiR: 1.0.1
 oddsapiio: 0.1.1
 oddsratio: 2.0.2
+oddsrelay: 0.1.0
 oddstream: 0.5.0
 odeGUTS: 1.1.0
 odeintr: 1.7.1
@@ -24618,6 +24645,7 @@ openscoring: 1.2.0
 opensensmapr: 0.6.0
 opensimplex2: 0.0.3
 openssl: 2.4.2
+openstudyval: 0.1.1
 opentick: 0.1-1
 opentraj: '1.0'
 opentripplanner: 0.5.2
@@ -24987,7 +25015,7 @@ palmtree: 0.9-1
 paloma: 1.2.2
 palr: 0.5.0
 pals: '1.10'
-palsr: 0.1.0
+palsr: 0.1.1
 paltran: 1.3-0
 pam: 2.3.0
 pamctdp: 0.3.2
@@ -26099,6 +26127,7 @@ powerplus: '3.1'
 powerprior: 1.0.0
 powerr: 0.1-3
 powertools: 1.0.0
+powerutilities: 0.7.1
 ppMeasures: '0.2'
 ppRank: 0.1.1
 ppRep: 0.42.3
@@ -26522,6 +26551,7 @@ public.ctn0094data: 1.1.0
 public.ctn0094extra: 1.0.4
 publicdataau: 0.4.1
 publipha: 0.1.2
+publishTC: 0.2.3
 pubmed.mineR: 1.0.21
 pubmedR: 1.0.2
 pubmedtk: 1.0.4
@@ -27619,6 +27649,7 @@ recometrics: 0.1.6-3
 recommenderlab: 1.1.0
 recommenderlabBX: 0.2-0
 recommenderlabJester: 0.2-0
+reconf: 0.2.0
 reconstructKM: 0.4.0
 reconstructr: 2.0.4
 recor: 1.0.3
@@ -28156,6 +28187,7 @@ rjags: 4-17
 rjazz: 0.1.7
 rjd3bench: 3.1.3
 rjd3filters: 2.4.0
+rjd3highfreq: 3.0.1
 rjd3jars: 0.0.6
 rjd3production: 1.2.0
 rjd3providers: 3.9.0
@@ -28413,7 +28445,7 @@ roger: 1.6-0
 roistats: 0.1.1
 rolap: 2.5.2
 rolasized: '1.0'
-rolescry: 0.2.0
+rolescry: 0.3.0
 roll: 1.2.1
 rollRegres: 0.1.4
 rollama: 0.3.1
@@ -29103,6 +29135,7 @@ sazedR: 2.0.2
 sbart: 0.1.1
 sbd: 0.1.0
 sbde: 1.0-2
+sbert: 0.5.8
 sbfc: 1.0.3
 sbgcop: '1.0'
 sbim: 1.0.0
@@ -30928,6 +30961,7 @@ sssvcqr: 0.0.4
 sstModel: 1.0.0
 sstn: 1.0.2
 sstvars: 1.2.6
+ssurvdr: 0.1.0
 ssutil: 1.2.0
 ssvd: '1.0'
 ssw: 0.2.1
@@ -31329,6 +31363,7 @@ sunburstR: 2.1.8
 sunburstShinyWidget: 0.5.0
 suncalc: 0.5.3
 sundialr: 0.2.1
+sundials: 7.9.0-1
 suntools: 1.1.0
 supabaseR: 1.0.0
 supc: 0.2.6.2
@@ -31382,6 +31417,7 @@ survC1: 1.0-3
 survClip: 0.2.3
 survCurve: '1.0'
 survELtest: 2.0.1
+survHC: 0.1.0
 survHE: 2.0.51
 survIDINRI: 1.1-2
 survJamda: 1.1.4
@@ -31739,6 +31775,7 @@ tardis: 0.1.5
 targeted: 0.9.0
 targets: 1.12.0
 tarpolyglot: 0.2.1
+taruwind: 0.1.1
 tashu: 0.1.1
 taskPR: '0.34'
 taskqueue: 0.2.0
@@ -32718,6 +32755,7 @@ tseries: 0.10-63
 tseriesChaos: 0.1-13.1
 tseriesEntropy: 0.7-2
 tseriesTARMA: 0.5-2
+tsexplorer: 0.1.0
 tsfa: 2021.1-3
 tsfeatures: 1.1.1
 tsfgrnn: 1.0.6
@@ -34082,6 +34120,7 @@ zfit: 0.4.0
 zic: 0.9.1
 zicounts: 1.1.5
 zigg: 0.0.2
+zinbcdpmm: 0.1.0
 zip: 3.0.2
 zipR: 0.1.1
 zipangu: 0.3.3
@@ -34127,7 +34166,9 @@ ztable: 0.2.5
 ztils: 1.0.0
 ztpln: 0.1.3
 ztype: 0.1.0
+zucbor: 0.1.0
 zucsv: 0.1.0
+zufast: 0.1.0
 zuhtml: 0.1.0
 zujson: 0.1.0
 zukomp: 0.1.0
