@@ -236,6 +236,7 @@ AccSamplingDesign: 0.1.0
 AccelStab: 2.3.2
 AcceptReject: 0.1.2
 AcceptanceSampling: 1.0.11
+AccumulatR: 1.0.0
 Ace: 0.0.8
 Achilles: 1.7.2
 AcousticNDLCodeR: 1.0.2
@@ -1082,7 +1083,7 @@ BrownDog: 0.2.1
 Brq: '3.0'
 Brundle: 1.0.9
 BsMD: '2023.920'
-BsplineQuantReg: 0.2.5
+BsplineQuantReg: 0.2.6
 BsplineQuantRegGui: 0.2.3
 BuSuCo: 0.2.0
 Buddle: 2.0.2
@@ -1245,7 +1246,7 @@ CIDnetworks: 0.8.1
 CIEE: 0.1.1
 CIFsmry: 1.0.1.1
 CIM: 1.0.0
-CIMEHR: 0.1.0
+CIMEHR: 0.2.0
 CIMPLE: 0.1.0
 CIMTx: 1.2.0
 CINE: 0.1.3
@@ -1858,6 +1859,7 @@ CoxMK: 0.1.1
 CoxPhLb: 1.2.0
 CoxPlus: 1.5.7
 CoxR2: '1.0'
+CoxRMSTSimpson: 0.1.0
 CoxRidge: 0.9.2
 Coxmos: 1.1.5
 Coxnet: '0.2'
@@ -2773,6 +2775,7 @@ EnvCpt: 1.1.5
 EnvExpInd: 0.1.0
 EnvNJ: 0.1.3
 EnvNicheR: '1.5'
+EnvRtype: 0.1.3
 EnvStats: 3.1.0
 EnviroPRA: '1.0'
 EnviroPRA2: 1.0.1
@@ -3349,7 +3352,7 @@ GEInfo: '1.0'
 GEInter: 0.3.2
 GEMSS: 0.1.2
 GENEAclassify: 1.5.5
-GENEAcore: 1.2.0
+GENEAcore: 1.3.9
 GENEAread: 2.0.10
 GENEAsphere: 1.5.1
 GENLIB: 1.1.10
@@ -3720,7 +3723,7 @@ Gini: 0.1.0
 GiniDecompLY: 1.0.1
 GiniDistance: 0.1.1
 GiniWegNeg: 1.0.1
-GitAI: 0.1.3
+GitAI: 0.1.4
 GitStats: 2.5.2
 Giza: '1.0'
 GlarmaVarSel: '1.0'
@@ -4165,7 +4168,7 @@ IHSEP: 0.3.1
 IIProductionUnknown: 0.0.3
 IIS: '1.1'
 IIVpredictor: 0.1.0
-IJSE: 0.1.2
+IJSE: 0.3.4
 ILORA: 0.1.2
 ILRCM: 0.2.0
 ILS: '0.3'
@@ -5056,7 +5059,7 @@ MCUSUM: '1.0'
 MChtest: 1.0-4
 MConjoint: '0.1'
 MCseqReplic: 1.1.0
-MD2sample: 1.4.1
+MD2sample: 1.4.2
 MDBED: 1.0.0
 MDCcure: 0.1.0
 MDD: '0.5'
@@ -5793,6 +5796,7 @@ MultinomialCI: '1.2'
 MultipleBreakpoints: 0.1.0
 MultipleBubbles: 0.2.0
 MultipleRegression: 0.1.0
+MultipleSystemsEstimation: 1.3.2
 MultiplierDEA: 0.1.19
 MultiscaleDTM: 1.0.1
 MultiscaleSCP: 0.2.0
@@ -6071,6 +6075,7 @@ NonpModelCheck: '4.1'
 Nonpareil: 3.5.3
 NormData: '1.2'
 NormExpression: 0.1.1
+NormGen: 0.0.6
 NormPsy: 1.0.8
 NormalBetaPrime: '2.2'
 NormalGamma: '1.1'
@@ -7255,7 +7260,7 @@ RColetum: 1.2.0
 RColorBrewer: 1.1-3
 RColorConesa: 1.0.0
 RConics: 1.1.2
-RCppAD: 1.20260000.0-1
+RCppAD: 1.20260000.0-2
 RCreliability: 0.1.0
 RCriteo: 1.0.2
 RCrypto: 0.1.0
@@ -7270,6 +7275,7 @@ RDHonest: 1.0.2
 RDIDQ: '1.0'
 RDM: 0.1.1
 RDML: '1.1'
+RDML7: 1.0.2
 RDP: 0.3.0
 RDS: 0.9-11
 RDSTK: '1.1'
@@ -8708,6 +8714,7 @@ SMVar: 1.3.4
 SNBdata: 0.2.1
 SNFtool: 2.3.1
 SNMA: 0.1.8
+SNPAssayR: 1.0.1
 SNPMClust: '1.3'
 SNPMaP: 1.1.1
 SNPMaP.cdm: 1.1.1
@@ -11850,7 +11857,7 @@ betalink: 2.2.1
 betapart: 1.6.1
 betaper: 1.1-3
 betareg: 3.2-6
-betaregscale: 2.7.4
+betaregscale: 3.1.1
 betas: 0.1.1
 betaselectr: 0.2.4
 betategarch: '3.4'
@@ -12660,6 +12667,7 @@ camelsCL: 0.1-10
 camerondata: 1.0.0
 campaignmanageR: 0.1.0
 campfin: 1.0.11
+camplet: 1.0.0
 campsis: 1.9.3
 campsismod: 1.4.2
 campsisnca: 1.7.3
@@ -12896,6 +12904,7 @@ ccrtm: 0.1.6
 ccss: '1.0'
 cctest: 2.3.4
 cctools: 0.1.3
+ccva: 0.1.0
 ccwr: 0.0.2
 cd: 0.1.0
 cdCAT: 0.1.0
@@ -13855,7 +13864,7 @@ consrq: '1.0'
 constants: '2022.0'
 constellation: 0.2.0
 constrainedKriging: 0.2-11
-constructive: 1.3.0
+constructive: 1.4.0
 contFracR: 1.2.1
 contTimeCausal: '1.1'
 contact: 1.2.8
@@ -13994,6 +14003,7 @@ correspondenceTables: 1.0.2
 corrfuns: '1.2'
 corrgram: '1.16'
 corrgrapher: 1.0.4
+corridoR: 0.2.0
 corrmeta: 1.0.1
 corrperm: '2.0'
 corrplot: '0.95'
@@ -14647,7 +14657,7 @@ datasauRus: 0.1.9
 datascan: 0.1.1
 dataseries: 1.1.0
 dataset: 0.4.5
-datasetjson: 0.4.0
+datasetjson: 0.4.1
 datasets.load: 2.3.0
 datasetsICR: '1.0'
 datasetviewer: 0.2.0
@@ -15325,7 +15335,7 @@ dmetatools: 1.1.1
 dml: 1.1.0
 dmlalg: 1.0.2
 dmm: 3.2-2
-dmrfit: 0.1.0
+dmrfit: 0.1.1
 dmri.tracking: 0.1.0
 dmt: 0.8.20
 dmtools: 0.2.6
@@ -15607,7 +15617,7 @@ duckdbfs: 0.1.2
 duckduckr: 1.0.0
 duckh3: 0.2.0
 ducklake: 0.6.0
-duckplyr: 1.2.1
+duckplyr: 1.2.2
 duckspatial: 1.3.0
 duet: 0.1.1
 duke: 0.0.3
@@ -15705,7 +15715,7 @@ eDMA: 1.5-5
 eDNAfuns: 0.1.0
 eDNAjoint: 0.3.3
 eFCM: '1.0'
-eFRED: 0.1.0
+eFRED: 0.2.0
 eGST: 1.0.0
 eHDPrep: 2.0.1
 eHOF: '1.16'
@@ -16282,7 +16292,7 @@ equaltestMI: 0.6.1
 equatags: 0.2.2
 equate: 2.0.9
 equateIRT: 2.5.2
-equateMultiple: 1.1.3
+equateMultiple: 1.2.0
 equatiomatic: 0.4.9
 equiBSPD: 0.1.0
 equil2: 1.1.0
@@ -16753,7 +16763,7 @@ faraway: 1.0.9
 farff: 1.1.1
 farmPartial: 0.1.0
 farmR: '1.1'
-farr: 1.1.0
+farr: 1.1.1
 farrell: 0.2.1
 farsi: '1.0'
 farver: 2.1.2
@@ -16975,6 +16985,7 @@ feltr: 0.1.0
 femmeR: 0.5.1.1
 fence: '1.0'
 feols.asv: 0.0-1
+fereg: 0.4.0
 fergm: 1.1.4
 fermicatsR: '1.4'
 ferrn: 0.3.0
@@ -17063,7 +17074,7 @@ filtro: 0.2.0
 finalfit: 1.1.0
 finalsize: 0.2.1
 financial: '0.2'
-finbif: 0.10.0
+finbif: 0.10.1
 finbipartite: 0.1.0
 finch: 0.4.0
 findGSEP: 1.2.0
@@ -17205,7 +17216,7 @@ flexCrossHaz: '0.2'
 flexFitR: 1.2.4
 flexIC: 0.1.4
 flexMatch: 0.1.0
-flexOR: 1.0.0
+flexOR: 1.0.3
 flexPM: '2.0'
 flexclust: 1.5.0
 flexdashboard: 0.6.3
@@ -18495,7 +18506,7 @@ ggstackplot: 0.4.1
 ggstance: 0.3.7
 ggstar: 1.0.6
 ggstats: 0.14.0
-ggstatsplot: 1.1.3
+ggstatsplot: 1.1.4
 ggstratify: 0.2.0
 ggstream: 0.1.0
 ggstudent: 0.1.2
@@ -18716,14 +18727,14 @@ glydraw: 0.9.0
 glymotif: 1.0.1
 glyparse: 0.8.1
 glyph: 0.2.0
-glyrepr: 1.1.0
+glyrepr: 1.2.0
 gm: 2.0.0
 gmDatabase: 0.5.1
 gmGeostats: 0.11.4
 gma: '1.0'
 gmailr: 3.0.0
 gmaps: '0.2'
-gmapsdistance: 4.0.5
+gmapsdistance: 4.1.0
 gmat: 0.2.2
 gmatrix: '0.3'
 gmeans: 0.2.0
@@ -18843,7 +18854,7 @@ gower: 1.0.2
 goweragreement: 1.0-1
 goxygen: 1.4.5
 gp: '1.1'
-gp3bayes: 0.5.0
+gp3bayes: 0.6.1
 gp3ml: 0.3.2
 gp3sequences: 0.3.2
 gp3tools: 2.3.0
@@ -18851,7 +18862,7 @@ gpDDE: 0.8.2
 gpHist: '0.1'
 gpairs: 1.4.0
 gpbStat: 0.4.4
-gpbiometrics: 0.1.0
+gpbiometrics: 2.1.1
 gpboost: 1.8.0
 gpci: 0.1.0
 gpciEMprogII: 0.1.0
@@ -19075,7 +19086,7 @@ grwat: '0.1'
 gsClusterDetect: 1.0.1
 gsDesign: 3.11.0
 gsDesign2: 1.2.0
-gsDesignNB: 0.3.2
+gsDesignNB: 0.4.0
 gsDesignTune: 0.1.0
 gsEasy: '1.5'
 gsMAMS: 0.7.2
@@ -19728,6 +19739,7 @@ hybridEHR: 0.2.0
 hybridEnsemble: 1.7.9
 hybridHclust: 1.0-5
 hybridModels: 0.3.8
+hybridclock: 0.1.1
 hybridogram: 0.3.2
 hybridts: 0.1.0
 hyd1d: 0.5.5
@@ -21075,7 +21087,7 @@ lancor: 0.1.3
 land4health: 0.3.0
 lande: 0.1.0
 landest: '1.2'
-landform: '0.2'
+landform: 0.3.0
 landgraph: 0.0.3
 landmaRk: 0.1.3
 landmap: 0.0.13
@@ -23560,7 +23572,7 @@ munsellinterpol: 3.6-0
 mupet: 0.1.0
 murphydiagram: 0.12.2
 muscle: 3.8.31-4
-musclesyneRgies: 1.3.1
+musclesyneRgies: 1.4.0
 muscor: '0.2'
 muse: 0.1.2
 music: 0.1.2
@@ -25606,11 +25618,11 @@ phyloseqGraphTest: 0.1.1
 phylosignal: 1.3.1
 phylosignalDB: 0.4.2
 phylosim: 3.0.5
-phylospatial: 1.5.0
+phylospatial: 1.6.0
 phylotaR: 1.0.0
 phylotate: '1.3'
 phylotools: 0.2.2
-phylotypr: 0.1.1
+phylotypr: 0.2.0
 phylowise: 0.0.1
 phylter: 0.9.12
 phymapnet: 0.1.3
@@ -26289,6 +26301,7 @@ pridit: 1.1.1
 prim: 1.0.23
 primarycensored: 1.6.0
 primate: 0.2.0
+prime: 0.5.5
 primePCA: '1.2'
 primefactr: 0.1.1
 primer: 1.2.1
@@ -26677,7 +26690,7 @@ qdap: 2.4.6.1
 qdapDictionaries: 1.0.7
 qdapRegex: 0.7.10
 qdapTools: 1.3.7
-qdfauction: 0.1.0
+qdfauction: 0.2.0
 qdg: 1.0.0
 qdm: 0.1-0
 qeML: '1.1'
@@ -27354,7 +27367,7 @@ raytracing: 0.6.0
 rayvertex: 0.15.0
 rb3: 0.1.0
 rbace: 0.2.2
-rbacon: 4.0.0
+rbacon: 4.0.2
 rbamtools: 2.16.17
 rbart: '1.0'
 rbbnp: 1.1.0
@@ -27503,7 +27516,7 @@ rddapp: 1.3.3
 rdddr: 1.0.0
 rddensity: '3.0'
 rddi: 0.1.1
-rddtools: 2.0.2
+rddtools: 2.0.3
 rde: 0.1.1
 rdecision: 1.3.1
 rdefra: 0.3.8
@@ -28309,7 +28322,7 @@ rmonad: 0.7.0
 rmongodb: 1.8.0
 rmonocypher: 0.1.8
 rmoo: 0.3.2
-rmoriebricklayer: 1.0.0
+rmoriebricklayer: 1.0.2
 rmoriedata: 0.4.0
 rmp: '2.2'
 rmpw: 0.0.7
@@ -31503,7 +31516,7 @@ survivalsurrogate: '1.1'
 survivalsvm: 0.0.6
 survivoR: 2.3.12
 survkl: 1.0.2
-survlab: 0.1.0
+survlab: 0.2.0
 survminer: 0.5.2
 survmixer: '1.3'
 survobj: 3.2.0
@@ -32896,6 +32909,7 @@ twn: 0.2.7
 two.stage.boot: '1.0'
 twoCoprimary: 1.1.1
 twoPhaseGAS: 1.2.5
+twoPhaseSens: 0.1.0
 twoStageDesignTMLE: 1.0.1.2
 twoStageGwasPower: 0.99.0
 twomodeclusteringGA: 1.0.0
@@ -32980,6 +32994,7 @@ ultrapolaRplot: 0.2.2
 umap: 0.2.10.0
 umbridge: '1.0'
 ume: 1.7.1
+umg: 0.6.1
 umiAnalyzer: 1.0.0
 umlr: 0.3.0
 ump: 0.5-8
