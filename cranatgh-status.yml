@@ -1812,7 +1812,7 @@ CopulaGAMM: 0.7.4
 CopulaInference: 0.5.0
 CopulaREMADA: 1.8.1
 CopulaRegression: 0.1-5
-CopulaSCR: 1.0.2
+CopulaSCR: 1.0.4
 CopyDetect: '1.3'
 CopyNumber450kCancer: 1.0.4
 CorBin: 1.0.0
@@ -2820,7 +2820,7 @@ EquiSurv: 0.1.0
 EquiTrends: 1.0.0
 EraBrewer: 0.2.0
 ErlangC: 0.1.0
-ErrorTracer: 1.3.1
+ErrorTracer: 1.4.0
 EstCRM: '1.6'
 EstHTSeed: 0.1.0
 EstHer: '1.0'
@@ -3515,7 +3515,7 @@ GPvecchia: 0.1.8
 GRAB: 0.2.5
 GRANBase: 2.6.20
 GRANCore: 0.2.7
-GRANDpriv: 0.1.3
+GRANDpriv: 0.2.0
 GRAPE: 0.1.1
 GRASS: 0.3-9
 GRCFE: 0.1.0
@@ -4945,6 +4945,7 @@ M4comp: 0.0.1
 MAAPER: 1.1.1
 MAARTS: 1.0.0
 MABOUST: 1.0.1
+MAC.address: 0.1.0
 MACER: 0.2.1
 MACP: 0.1.0
 MADAM: 1.2.2
@@ -6285,6 +6286,7 @@ OptimaRegion: '1.2'
 OptimalBinningWoE: 1.14.0
 OptimalCutpoints: 1.1-5
 OptimalDesign: 1.0.3
+OptimalFactor: 1.5.0
 OptimalGoldstandardDesigns: 1.0.1
 OptimalRerandExpDesigns: '1.1'
 OptimalSurrogate: '1.0'
@@ -9498,6 +9500,7 @@ SurvTrunc: 0.2.0
 SurveyCC: 0.2.1
 SurveyDefense: 0.2.0
 SurveyNCD: 0.1.0
+SurveySolutionsAPIv2: 0.1.2
 SurveyStat: 1.0.3
 Survgini: '1.0'
 SurviMChd: 0.1.2
@@ -12933,6 +12936,7 @@ cdfquantreg: 1.3.1-2
 cdgd: 1.0.1
 cdiWG2WS: 0.2.0
 cdid: 0.1.1
+cdiscdata: 0.2.0
 cdlTools: '1.13'
 cdlei: '1.0'
 cdlogit: 1.0.0
@@ -18920,7 +18924,7 @@ gptstudio: 0.4.0
 gptzeror: 0.0.2
 gpuR: 2.0.6
 gpuinfo: 0.2.0
-gputools: '1.1'
+gputools: 2.1.0
 gpx: 1.1.0
 gpyramid: 0.0.1
 gqlr: 0.1.0
@@ -21800,6 +21804,7 @@ ltsa: 1.4.6.1
 ltsbase: 1.0.1
 ltsk: 1.1.2
 ltsspca: 0.1.0
+ltvlms: 0.1.0
 ltxsparklines: 1.1.3
 luajr: 0.3.1
 lubridate: 1.9.5
@@ -24230,7 +24235,7 @@ nopaco: 1.0.9
 nopp: 1.1.2
 nor1mix: 1.3-3
 norMmix: 0.2-0
-norSTR: 0.2.1
+norSTR: 0.3.1
 nord: 1.0.0
 nordklimdata1: '1.2'
 nordstatExtras: 0.1.0
@@ -24811,7 +24816,7 @@ organizr: 0.1.0
 orgutils: 0.5-4
 orientlib: 0.10.5
 origami: 1.0.8
-origin: 1.2.1
+origin: 1.2.2
 originr: 0.4.0
 orisma: 0.1.0
 orloca: '5.6'
@@ -24927,6 +24932,7 @@ ozbabynames: 0.2.0
 ozmaps: 0.4.5
 p2distance: 1.0.2
 p2oncology: 0.1.1
+p3d: 0.1.0
 p3state.msm: 1.3.3
 pARI: 1.1.3
 pARccs: 0.2-2
@@ -31061,7 +31067,7 @@ staninside: 0.0.4
 stanza: 1.0-3
 stapler: 0.8.0
 staplr: 3.2.2
-starburst: 0.3.9
+starburst: 0.3.10
 stargazer: 5.2.3
 stargazer2: 0.1.1
 starling: 1.1.0
@@ -32282,7 +32288,7 @@ tigers: 0.1-3
 tigerstats: 0.3.2
 tigger: 1.2.0
 tightClust: '1.1'
-tightenBlock: 0.1.7
+tightenBlock: 0.1.8
 tigreBrowserWriter: 0.1.5
 tigris: 2.3.0
 tikatuwq: 0.11.0
@@ -33742,6 +33748,7 @@ whatr: 1.0.1
 whatthreewords: 0.1.3
 wheatmap: 0.2.4
 when: 1.0.0
+whence: 0.1.0
 whep: 0.3.1
 where: 1.0.0
 whereami: 0.2.0
