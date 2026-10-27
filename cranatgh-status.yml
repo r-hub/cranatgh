@@ -484,7 +484,7 @@ BALLI: 0.2.0
 BAMBI: 2.3.7
 BAMD: '3.5'
 BAMMtools: 2.1.12
-BANAM: 0.2.2
+BANAM: 0.2.3
 BANEScarparkinglite: 0.1.3
 BANFF: '2.0'
 BANOVA: 1.2.1
@@ -592,7 +592,7 @@ BIEN: 1.2.8
 BIFIEsurvey: 3.8.0
 BIGDAWG: 3.1.0
 BIGL: 1.9.3
-BIGpopA: 2.2.0
+BIGpopA: 2.2.1
 BIGr: 0.7.2
 BINCO: 0.1-1
 BINCOR: 0.2.1
@@ -905,7 +905,7 @@ BeeBDC: 1.3.5
 BeeGUTS: 1.5.0
 Benchmarking: '0.33'
 BenfordTests: 1.2.0
-Bergm: 5.0.7
+Bergm: 6.0.0
 BerkeleyEarth: '1.8'
 BerkeleyForestsAnalytics: 4.0.0
 BerlinData: 1.0.1
@@ -2481,6 +2481,7 @@ DynClust: '3.24'
 DynComm: 2020.1.6
 DynCount: 0.2.0
 DynForest: 1.2.0
+DynMSR: 0.1.1
 DynNom: '5.1'
 DynTxRegime: '4.16'
 DynaRankR: 1.1.0
@@ -3238,6 +3239,7 @@ FractalParameterEstimation: 1.1.2
 FragiliTidy: 0.1.0
 Fragman: 1.1.0
 FrailtyCompRisk: 0.1.1
+FrailtyPackPlus: 0.1.0
 Frames2: 0.2.1
 FrechForest: '0.9'
 FreeSortR: '1.3'
@@ -4926,7 +4928,7 @@ LongitudinalEvalue: 0.1.0
 LoopAnalyst: 1.2-8
 LoopDetectR: 0.1.2
 LoopRig: 0.1.1
-LorMe: 2.0.2
+LorMe: 2.0.3
 LorenzRegression: 2.3.2
 LotkasLaw: 0.0.1.0
 LowRankQP: 1.0.6
@@ -7842,7 +7844,7 @@ Rarefy: 1.1.1
 Rarity: 1.3-8
 RaschSampler: 0.8-10
 Rassoc: '1.03'
-RastaRocket: 1.1.5
+RastaRocket: 1.1.6
 Rata: 0.0.2
 RateDistortion: '1.01'
 RatingScaleReduction: '1.4'
@@ -8308,7 +8310,7 @@ RobustGaSP: 0.6.8
 RobustIV: 0.3.1
 RobustLPA: 1.1.0
 RobustLinearReg: 1.2.0
-RobustMediate: 0.1.1
+RobustMediate: 0.3.0
 RobustMetrics: 1.0.0
 RobustPrediction: 0.1.7
 RobustRankAggreg: 1.2.1
@@ -9730,6 +9732,7 @@ TT: '0.98'
 TTAinterfaceTrendAnalysis: 1.5.11
 TTCA: 0.1.1
 TTE: 1.1.2
+TTM: 0.1.0
 TTR: 0.24.4
 TTR.PGM: 1.0.0
 TTS: '1.1'
@@ -10634,8 +10637,8 @@ adaptsmoFMRI: '1.2'
 adas.utils: 1.4.1
 adass: 1.0.1
 adbcdrivermanager: 0.24.0-3
-adbcpostgresql: 0.24.0-2
-adbcsqlite: 0.24.0-2
+adbcpostgresql: 0.25.0
+adbcsqlite: 0.25.0
 adbi: 0.1.3
 adc: 1.0.0
 adcontabil: 1.1.8
@@ -10895,7 +10898,7 @@ allometry: 0.2.0
 allomr: 0.3.0
 alluvial: 0.1-2
 alm: 0.4.0
-almanac: 1.0.0
+almanac: 1.0.1
 alone: '0.7'
 alookr: 0.5.1
 aloom: 0.1.1
@@ -12696,7 +12699,7 @@ cancensus: 0.6.1
 cancerGI: 1.0.1
 cancerR: 0.1.1
 cancerTiming: 3.1.8
-cancerradarr: 3.0.0
+cancerradarr: 4.1.0
 cancerscreening: 1.1.1
 candisc: 1.1.1
 canprot: 2.0.0
@@ -14409,6 +14412,7 @@ cucumber: 2.2.0
 cuda.ml: 0.4.0
 cudaBayesreg: 0.3-16
 cudaBayesregData: 0.3-11
+cudacellr: 0.4.0
 cudaverse: 0.4.2
 cudia: '0.1'
 cultevo: 1.0.2
@@ -16155,6 +16159,7 @@ engager: 0.1.0
 english: 1.2-6
 engression: 0.1.6
 engsoccerdata: 0.1.5
+enhancedTtest: 0.1.0
 enhancer: 1.1.2
 enigma: 0.3.0
 enmSdmX: 1.2.12
@@ -16868,6 +16873,7 @@ fastmatrix: 0.6-6
 fastmit: 0.1.1
 fastml: 0.7.10
 fastnet: 1.0.0
+fastphylosig: 0.3.1
 fastplyr: 0.9.92
 fastpng: 0.1.9
 fastpolicytree: '1.0'
@@ -17901,6 +17907,7 @@ gcite: 0.11.0
 gcl: 1.06.5
 gclink: '1.1'
 gclm: 0.0.1
+gcloglog: '1.0'
 gclus: 1.3.3
 gcmr: 1.0.4
 gcmrec: 2.0.0
@@ -19831,7 +19838,7 @@ i18n: 0.2.0
 i2dash: 0.2.4
 i2extras: 0.2.1
 i3pack: 0.1.0
-iAR: 1.3.4
+iAR: 1.3.5
 iAdapt: 2.0.1
 iBART: 1.0.0
 iBATCGH: 1.3.1
@@ -22347,7 +22354,7 @@ medSTC: 1.0.0
 medScan: 1.0.2
 meddra.read: 0.0.1
 mederrRank: 0.1.0
-medfate: 5.1.0
+medfate: 5.2.0
 medfateland: 3.0.0
 medfit: 0.3.2
 medflex: 0.6-11
@@ -22761,6 +22768,7 @@ mirai: 2.7.3
 mirai.promises: 0.5.0
 mirf: '1.0'
 mirrorselect: 0.0.3
+mirrorslope: 0.2.1
 mirt: '1.48'
 mirtCAT: '1.14'
 mirtjml: 1.4.0
@@ -23228,6 +23236,7 @@ mosaicManip: 0.2-6
 mosaicModel: 0.3.0
 mosclust: 1.0.3
 mosmafs: 0.1.2-1
+mospiR: 0.1.0
 mosqcontrol: 0.1.0
 mosum: 1.2.7
 mota: 1.2.1
@@ -25698,7 +25707,7 @@ pinp: 0.0.11
 pins: 1.4.2
 pinsearch: 0.1.6
 pinterestadsR: 0.1.0
-pintervals: 1.1.1
+pintervals: 1.3.3
 pinyin: 1.1.6
 pioneeR: 0.5.0
 pipe.design: 0.5.1
@@ -25926,7 +25935,7 @@ pminternal: 0.1.0
 pmlbr: 0.3.0
 pmledecon: 0.2.1
 pmlr: '1.0'
-pmlsp: 1.0.1
+pmlsp: 1.0.2
 pmml: 2.6.1
 pmmlTransformations: 1.3.3
 pmparser: 1.0.26
@@ -26566,6 +26575,7 @@ psyphy: '0.3'
 psytabs: '1.0'
 psyverse: 0.2.6
 pt: '1.0'
+ptLasso: 1.0.2
 ptable: 1.0.0
 pterrace: '1.0'
 ptest: 1.0-8
@@ -26665,6 +26675,7 @@ pye: 0.1.0
 pyinit: 1.1.5
 pylintR: 0.1.0
 pyramid: '1.5'
+pyrt: 0.1.0
 pysd2r: 0.1.0
 pysparklyr: 0.2.2
 pystr: 2.0.0
@@ -26892,7 +26903,7 @@ quasar: 0.2.1
 quaternions: '0.2'
 quaxnat: 1.0.1
 queryBuilder: 0.1.0
-querychat: 0.4.1
+querychat: 0.4.2
 queryparser: 0.3.2
 queryup: 1.0.5
 quest: 0.2.1
@@ -27183,6 +27194,7 @@ radiant.data: 1.6.9
 radiant.design: 1.6.6
 radiant.model: 1.6.13
 radiant.multivariate: 1.6.9
+radiatR: 0.1.3
 radiomics: 0.1.3
 radir: 1.0.5
 radix: '0.6'
@@ -27301,6 +27313,7 @@ rapidoc: 9.3.4
 rapidphylo: 0.1.2
 rapidraker: 0.1.3
 rapidsplithalf: '0.8'
+rapidxlsx: 0.1.0
 rapidxmlr: 0.1.0
 rappdirs: 0.3.4
 rappleads: 0.1.3
@@ -27560,7 +27573,7 @@ rdmulti: 2.0.0
 rdnb: 0.1-5
 rdoc: 0.1.0
 rdocdump: 0.3.0
-rdomains: 0.5.0
+rdomains: 0.6.0
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '3.0'
@@ -27820,7 +27833,7 @@ relaxnet: 0.3-2
 relaxo: 0.1-2
 relcircle: '1.0'
 reldist: 1.7-2
-releaser: 1.2.1
+releaser: 1.3.0
 relen: 1.0.1
 relevance: '2.1'
 relevent: 1.2-1
@@ -28636,6 +28649,7 @@ rprofile: 0.4.0
 rprojroot: 2.1.1
 rprojtree: 1.0.0
 rpsftm: 1.2.9
+rpspanel: 0.1.0
 rpst: 1.0.0
 rpsurv: 0.7.1
 rpsychi: '0.8'
@@ -30229,7 +30243,7 @@ slanter: 0.2-0
 slap: 2024.4.1
 slash: 0.2.0
 slasso: 1.0.1
-slca: 1.4.1
+slca: 1.4.2
 slcm: 0.1.1
 sld: 1.0.1
 sleacr: 0.1.3
@@ -30875,6 +30889,7 @@ spots: 0.1.0
 spp: 1.16.0
 spphpr: 1.1.5
 sppmix: 1.0.2.1
+sppt: 1.0.0
 spqdep: 0.1.3.6
 spqrp: 0.1.0
 spray: 1.1-1
@@ -31510,7 +31525,7 @@ surveyeditor: '1.0'
 surveyexplorer: 0.2.0
 surveyframe: 0.4.2
 surveygraph: 1.0.0
-surveynnet: 1.0.0
+surveynnet: 1.0.1
 surveyoutliers: '0.1'
 surveyplanning: '4.1'
 surveysd: 2.0.3
@@ -31842,7 +31857,7 @@ taxa: 0.4.4
 taxadb: 0.3.0
 taxalight: 0.1.5
 taxdiv: 0.1.0
-taxify: 0.6.0
+taxify: 0.7.0
 taxize: 0.10.1
 taxizedb: 0.3.2
 taxlist: 0.3.5
@@ -32269,7 +32284,7 @@ tidytext: 0.4.3
 tidytidbits: 0.3.3
 tidytitanic: 0.0.1
 tidytlg: 0.12.0
-tidytransit: 1.8.0
+tidytransit: 1.8.1
 tidytreatment: 0.3.2
 tidytree: 0.4.8
 tidyttmoment: 0.0.5
@@ -32645,7 +32660,7 @@ treasury: 0.7.0
 treasuryTR: 0.1.6
 treatSens: 2.1.3
 treats: 1.1.6
-tree: 1.0-47
+tree: 1.0-48
 tree.bins: 0.1.1
 tree.interpreter: 0.1.3
 tree3d: 0.1.2
@@ -33393,7 +33408,7 @@ viafr: 0.3.2
 vibass: 1.0.4
 vici: 0.7.3
 video: 0.1.1
-videogameinsightsR: 0.1.1
+videogameinsightsR: 0.3.0
 vietnamcode: 0.1.1
 vietnameseConverter: 0.4.0
 viewpoly: 1.0.3
@@ -33802,6 +33817,7 @@ windAC: 1.3.0
 windex: 2.1.0
 windfarmGA: 5.0.0
 windows.pls: 0.1.0
+windscape: 2.0.0
 windsoraiR: 0.1.3
 winfapReader: 0.1-7.1
 wingen: 2.2.0
@@ -34172,6 +34188,7 @@ zfit: 0.4.0
 zic: 0.9.1
 zicounts: 1.1.5
 zigg: 0.0.2
+zigimports: 0.1.0
 zinbcdpmm: 0.1.0
 zip: 3.0.2
 zipR: 0.1.1
@@ -34227,6 +34244,7 @@ zufft: 0.1.0
 zuhtml: 0.1.0
 zujson: 0.1.0
 zukomp: 0.1.0
+zuxml: 0.1.0
 zuyaml: 0.1.0
 zyp: 0.11-1
 zzlite: 0.1.2
