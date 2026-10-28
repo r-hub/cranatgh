@@ -567,7 +567,7 @@ BET: 0.6.0
 BETS: 0.4.9
 BElikelihood: '1.1'
 BFF: 5.0.0
-BFI: 3.2.0
+BFI: 3.3.0
 BFM: 0.2.11
 BFS: 0.8.0
 BFpack: 1.6.2
@@ -2824,7 +2824,7 @@ EquiSurv: 0.1.0
 EquiTrends: 1.0.0
 EraBrewer: 0.2.0
 ErlangC: 0.1.0
-ErrorTracer: 1.4.0
+ErrorTracer: 1.4.1
 EstCRM: '1.6'
 EstHTSeed: 0.1.0
 EstHer: '1.0'
@@ -4800,7 +4800,7 @@ LW1949: 1.1.0
 LWFBrook90R: 0.6.3
 LZeroSpikeInference: 1.0.3
 LaF: 0.8.6
-LaMa: 2.1.3
+LaMa: 3.0.0
 LabApplStat: 1.4.4
 LabRS: 0.2.1
 LabourMarketAreas: '3.4'
@@ -4965,7 +4965,7 @@ MAGEE: 1.4.5
 MAGMA.R: '1.1'
 MAGNAMWAR: 2.0.4
 MAICtools: 0.1.1
-MAIHDA: 0.2.1
+MAIHDA: 0.3.0
 MAINT.Data: 2.8.0
 MAIVE: 0.3.0
 MAKL: 1.0.1
@@ -5339,7 +5339,7 @@ MSCCT: 1.0.2
 MSCMT: 1.4.4
 MSCquartets: '3.3'
 MSCsimtester: '1.2'
-MSEtool: 3.7.5
+MSEtool: 3.7.6
 MSG: '0.9'
 MSGARCH: '2.51'
 MSGARCHelm: 0.1.0
@@ -6266,7 +6266,7 @@ OpenML: '1.12'
 OpenMPController: 0.2-5
 OpenMindat: 1.0.1
 OpenMx: 2.22.11
-OpenRange: 0.0.2
+OpenRange: 0.0.3
 OpenRepGrid: 0.1.18
 OpenRepGrid.ic: 0.6.2
 OpenSourceAP.DownloadR: 0.2.0
@@ -6368,7 +6368,7 @@ PASenseWear: '1.0'
 PATHChange: '1.0'
 PAWL: '0.5'
 PAactivPAL: '2.0'
-PAmeasures: 0.1.0
+PAmeasures: 2.0.0
 PAsso: 0.1.10
 PAutilities: 1.3.0
 PBC: '1.2'
@@ -9810,7 +9810,7 @@ TensorTest2D: 1.1.2
 TensorTools: 1.0.0
 TernTables: 1.7.2
 Ternary: 2.3.7
-TesiproV: 0.9.6
+TesiproV: 1.0.0
 TestAnaAPP: 1.1.2
 TestCor: 0.0.2.2
 TestDataImputation: '2.3'
@@ -10235,7 +10235,7 @@ VoronoiBiomedPlot: '0.4'
 VorteksExport: 0.1.8
 Voss: 0.1.5
 VoxR: 1.0.0
-VsusP: 1.0.0
+VsusP: 1.1.0
 VulnToolkit: 1.1.4
 W2CWM2C: '2.2'
 W3CMarkupValidator: 0.2-4
@@ -16569,7 +16569,7 @@ exeval: 0.0.1
 exhaustiveRasch: 0.3.7
 exif: 0.1.1
 exifr: 0.3.2
-exiftoolr: 0.2.8
+exiftoolr: 0.2.10
 exmort: 0.1.1
 exnexSurv: 1.3.0
 exoplanetdata: 0.1.0
@@ -17868,7 +17868,7 @@ gapmap: 1.0.0
 gapminder: 1.0.1
 garchmodels: 0.1.1
 garchx: '1.7'
-gargle: 1.6.1
+gargle: 1.7.0
 gargoyle: 0.0.1
 garma: 1.0.1
 garray: 1.1.2
@@ -18682,6 +18682,7 @@ glinvci: 1.2.4
 glioblastomaEHRsData: 1.1.0
 gllm: '0.38'
 gllvm: 2.0.15
+gllvmTMB: 0.7.1
 glm.ddR: 0.1.1
 glm.deploy: 1.0.4
 glm.predict: 4.3-2
@@ -21350,6 +21351,7 @@ lenght: 0.1.0
 lenses: 0.0.3
 leontief: '0.5'
 lepidochroma: 0.1.0
+lepidoptera: 0.1.2
 leprechaun: 1.0.0
 leptokurticMixture: '1.1'
 leri: 0.0.1
@@ -21709,7 +21711,7 @@ logregperm: '1.0'
 logrx: 0.4.0
 logrxaddin: 0.0.1
 logspline: 2.1.22
-logtree: 0.2.0
+logtree: 0.2.1
 lokern: 1.1-12
 lolR: '2.1'
 lolliplot: 0.2.2
@@ -23777,7 +23779,7 @@ naijR: 0.7.0
 naive: 2.0.0
 naivebayes: 1.0.0
 naivereg: 1.0.7
-nakagami: 1.1.0
+nakagami: 1.2.0
 name: 0.0.2
 namedCapture: 2020.4.1
 namedropR: 2.4.1
@@ -26088,7 +26090,7 @@ pooledpeaks: 1.2.2
 poolfstat: 3.1.0
 pooling: 1.1.2
 poolr: 1.2-0
-poorman: 0.2.8
+poorman: 0.3.0
 pop: '0.1'
 pop.lion: 1.0.1
 pop.wolf: '1.0'
@@ -27539,7 +27541,7 @@ rcontroll: 0.1.3
 rconvertu: 1.1.0
 rcoreoa: 0.4.0
 rcorpora: 2.0.1
-rcosmo: 1.1.3
+rcosmo: 1.1.5
 rcppbugs: 0.1.4.2
 rcppmlpackexamples: 0.0.1
 rcpptimer: 1.2.1
@@ -28529,7 +28531,7 @@ roger: 1.6-0
 roistats: 0.1.1
 rolap: 2.5.2
 rolasized: '1.0'
-rolescry: 0.3.0
+rolescry: 0.3.1
 roll: 1.2.1
 rollRegres: 0.1.4
 rollama: 0.3.1
@@ -29959,7 +29961,7 @@ shinyreact: 0.1.0
 shinyrecap: 0.2.0
 shinyrecipes: 0.1.0
 shinyreforms: 0.0.1
-shinyreprex: 0.3.0
+shinyreprex: 0.4.0
 shinyscholar: 0.4.5
 shinyscreenshot: 0.2.1
 shinyseo: 1.2.0
@@ -30906,7 +30908,7 @@ sporm: 1.1.1
 sport: 0.2.2
 sportsR: 0.1.0
 sportsfeatures: 0.3.0
-sportyR: 2.2.3
+sportyR: 2.4.5
 spotGUI: 0.2.3
 spotidy: 0.1.0
 spotifyr: 2.2.5
@@ -31111,7 +31113,7 @@ stapler: 0.8.0
 staplr: 3.2.2
 starburst: 0.3.10
 stargazer: 5.2.3
-stargazer2: 0.1.1
+stargazer2: 0.1.2
 starling: 1.1.0
 starm: 0.1.0
 starma: '1.3'
