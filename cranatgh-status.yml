@@ -205,6 +205,7 @@ ASSISTant: 1.4.3
 ASSOCShiny: 0.1.0
 AST: 0.1.0
 ASV: 1.1.4
+ASmiR: 0.1.1
 ATAforecasting: 0.0.61
 ATE: 0.2.0
 ATE.ERROR: 1.0.0
@@ -216,6 +217,7 @@ ATmet: 1.2.1
 AUC: 0.3.2
 AUCRF: '1.1'
 AUKtest: 0.1.0
+AURMC: 0.5.0
 AUtests: '0.99'
 AV1R: 0.1.4.1
 AVGAS: 0.1.0
@@ -568,7 +570,7 @@ BFF: 5.0.0
 BFI: 3.2.0
 BFM: 0.2.11
 BFS: 0.8.0
-BFpack: 1.6.1
+BFpack: 1.6.2
 BGData: 2.4.1
 BGFD: '0.1'
 BGGE: 0.6.5
@@ -763,6 +765,7 @@ BaySIC: '1.0'
 Bayenet: '0.4'
 BayesARIMAX: 0.1.1
 BayesAT: 0.1.0
+BayesAiken: 2.0.0
 BayesBD: '1.2'
 BayesBEKK: 0.1.1
 BayesBP: '1.1'
@@ -2380,7 +2383,7 @@ Dire: 2.2.0
 DirectEffects: '0.3'
 DirectStandardisation: '1.3'
 DirectedClustering: 1.0.0
-Directional: '7.9'
+Directional: '8.0'
 DirichletRF: 0.2.0
 DirichletReg: 0.7-4
 DisHet: 1.0.0
@@ -3091,7 +3094,7 @@ Fahrmeir: 2016.5.31
 FairMclus: 2.2.1
 FakeDataR: 0.2.2
 FamEvent: '3.3'
-Familia: 2.0.0
+Familia: 2.2.0
 Familias: 2.6.4
 Families: 2.0.2
 FamilyRank: '1.0'
@@ -3392,7 +3395,7 @@ GGClassification: '0.1'
 GGEBiplotGUI: 1.0-9
 GGEBiplots: 0.1.3
 GGIR: 3.3-9
-GGIRread: 1.0.11
+GGIRread: 1.2.0
 GGMM: 1.0.1
 GGMncv: 2.1.2
 GGMnonreg: 1.0.0
@@ -3905,6 +3908,7 @@ HMMmix: '1.0'
 HMMmlselect: 0.1.6
 HMMoce: 1.0.0
 HMMpa: 1.0.2
+HMMscpg: 1.0.0
 HMP: 2.0.1
 HMPTrees: '1.4'
 HMR: 1.0.5
@@ -4203,6 +4207,7 @@ INDperform: 0.2.2
 INFOSET: 4.1.1
 INLABMA: 0.1-12
 INLAMSM: 0.2-3
+INLAcircular: 1.0.0
 INLAjoint: 26.6.2
 INLAspacetime: 0.1.14
 INLAtools: 0.1.5
@@ -5748,7 +5753,7 @@ MuPETFlow: 0.1.2
 MuTATE: 0.1.0
 MuViCP: 1.3.2
 MullerPlot: 0.1.3
-MultANOVA: 1.1.0
+MultANOVA: 1.1.1
 MultAlloc: '1.2'
 MultBiplotR: 25.11.15
 MultEq: '2.4'
@@ -6041,7 +6046,7 @@ NetworkInference: 1.2.5
 NetworkReg: '2.0'
 NetworkRiskMeasures: 0.1.7
 NetworkSim: 0.1.0
-NetworkToolbox: 1.4.4
+NetworkToolbox: 1.5.0
 NeuDist: 1.0.1
 NeuralEstimators: 0.2.2
 NeuralNetTools: 1.5.3
@@ -6885,6 +6890,7 @@ PortfolioEffectEstim: '1.4'
 PortfolioEffectHFT: '1.8'
 PortfolioOptim: 1.1.1
 PortfolioTesteR: 0.1.4
+PortinariColors: 0.3.0
 PosRatioDist: 1.2.1
 PosiR: 0.1.2
 PostcodesioR: 0.3.1
@@ -6927,6 +6933,7 @@ PriceIndices: 0.3.1
 PricingBandits: 2.1.0
 PriorCD: 0.1.0
 PriorGen: '2.0'
+PrismR: 1.0.0
 PrivateLR: 1.2-22
 ProAE: 1.0.4
 ProActive: 0.1.0
@@ -7201,6 +7208,7 @@ RAQSAPI: 2.0.5
 RARfreq: 0.1.5
 RARtrials: 0.0.2
 RAS: 1.1.2
+RASbound: 0.0.1
 RAT: 0.3.1
 RATest: 0.1.12
 RAZIAD: 0.0.1
@@ -7293,6 +7301,7 @@ RDSTK: '1.1'
 RDSsamplesize: 0.5.0
 RDStreeboot: '1.0'
 RDataCanvas: '0.1'
+RDelta: 0.1.0
 RDesk: 1.0.7
 RDieHarder: 0.2.8
 RDnp: '1.3'
@@ -8054,7 +8063,7 @@ Rdsdp: 1.0.6
 Rdsm: 2.1.1
 Rdta: 1.0.1
 Rdtq: '0.1'
-Rduckhts: 2.0.1.0.1.0
+Rduckhts: 2.0.2.0.1.1
 Rduino: '0.1'
 Rduinoiot: 0.1.0
 Rdune: 1.1.2
@@ -8201,6 +8210,7 @@ Ricetl: 0.2.5.1
 RichR: 1.0.0
 Ricrt: 0.1.0
 RidgeFusion: 1.0-3
+RidgeLRGLH: 0.1.0
 Ridit: '1.1'
 RiemBase: 0.2.6
 RiemBaseExt: 0.1.2
@@ -8913,7 +8923,7 @@ SVMMatch: '1.1'
 SVN: 1.0.1
 SWATmodel: 0.5.9
 SWIM: 1.0.0
-SWMPr: 2.5.2
+SWMPr: 2.5.3
 SWMPrExtension: 2.2.5.1
 SWTools: 1.1.1
 SYNCSA: 1.3.5
@@ -10607,6 +10617,7 @@ actiwalkability: 0.1.0
 actogrammr: 0.2.3
 actuaRE: 1.0.1
 actuar: 3.3-7
+actuarialfitdist: 0.2.3
 actuary: 0.1.2
 actuaryr: 1.1.1
 actxps: 1.6.1
@@ -10821,6 +10832,7 @@ aiEvalR: 0.1.0
 aiRly: 0.1.0
 aiRthermo: 1.2.2
 aibd: 0.1.9
+aidR: 0.2.4
 aidar: 1.0.5
 aides: 1.3.3
 aieconindex: 0.2.0
@@ -11116,7 +11128,7 @@ apt: '4.0'
 aptg: 0.4.0
 apyramid: 0.1.3
 aqfig: '0.9'
-aqp: 2.3.2
+aqp: 2.3.3
 aqr: '0.4'
 aquacultuR: 1.1.1
 aquats: 1.2.2
@@ -11470,6 +11482,7 @@ aws.transcribe: 0.1.3
 aws.translate: 0.1.4
 aws.wrfsmn: 0.1.0
 awsMethods: 1.1-2
+awscrt: 0.1.1
 awsjavasdk: 0.2.2
 awspack: 0.1.6
 axisandallies: 0.1.1
@@ -11584,6 +11597,7 @@ bartMachineJARs: 1.2.2
 bartMan: 0.2.1
 bartXViz: 1.0.11
 bartcs: 1.3.0
+bartisan: 0.1.0
 basad: 0.3.0
 base.rms: '1.0'
 base2grob: 0.0.3
@@ -11889,7 +11903,7 @@ beyondWhittle: 1.3.1
 bezier: 1.1.2
 bfa: '0.4'
 bfast: 1.7.2
-bfbin2arm: 0.1.6
+bfbin2arm: 0.1.7
 bfboin: 0.1.1
 bfboinet: 1.1.0
 bfcluster: 1.0.0
@@ -12647,6 +12661,7 @@ cacheSweave: 0.6-1
 cachem: 1.1.0
 cacher: 1.1-2
 caesar: 1.1.0
+cafast: 0.1.0
 caffsim: 0.2.2
 cagedr: 0.1.0
 cairoDevice: 2.28.2.2
@@ -12767,7 +12782,7 @@ cargo: 0.4.9
 caribou: 1.1-1
 caroline: 1.1.2
 carpenter: 0.2.3
-carrier: 0.3.0.4
+carrier: 0.4.0
 carsAlgo: 0.5.0
 cartograflow: 1.0.5
 cartogram: 0.3.0
@@ -13520,7 +13535,7 @@ cmstatrExt: 0.5.0
 cmtest: 0.1-2
 cmtkr: 0.2.3
 cmvnorm: 1.1-1
-cna: 4.0.3
+cna: 4.1.0
 cnaOpt: 0.5.3
 cnbdistr: 1.0.1
 cncaGUI: '1.1'
@@ -13865,7 +13880,7 @@ connectedness: 0.2.2
 connections: 0.2.1
 connectoModa: 1.0.0
 connector: 1.0.0
-connector.databricks: 0.1.0
+connector.databricks: 0.2.0
 connector.sharepoint: 0.1.0
 connectwidgets: 0.2.1
 conogive: 1.0.0
@@ -13916,7 +13931,7 @@ control: 0.2.5
 controlTest: 1.1.0
 controlcharts: 0.0.23
 controlfunctionIV: 0.1.1
-controlledburn: 0.3.1
+controlledburn: 0.3.2
 controller: 0.1.0
 contsurvplot: 0.2.3
 convdistr: 1.6.3
@@ -14222,6 +14237,7 @@ createLogicalPCM: 0.1.0
 credentials: 2.0.3
 creditmodel: 1.3.1
 creditr: 0.6.2
+creditratingsystem: 0.1.0
 credsubs: 1.1.1
 credule: 0.1.4
 creepyalien: 1.0.0
@@ -15081,6 +15097,7 @@ dgodata: 0.0.2
 dgof: 1.5.1
 dgpsi: 2.6.0
 dgraphs: 0.2.0
+dgtf: 0.1.0
 dgumbel: 1.0.1
 dhReg: 0.1.1
 dhga: '0.1'
@@ -15091,7 +15108,7 @@ dhlabR: 1.0.6
 dhmeasures: '1.0'
 dhsage: 0.1.0
 di: 1.1.4
-diagFDR: 0.1.2
+diagFDR: 0.2.1
 diagL1: 1.0.1
 diagcounts: 0.1.0
 diagis: 0.2.3
@@ -15180,7 +15197,7 @@ dimRed: 0.2.7
 dimensio: 0.14.2
 dimensionalAnalysis: 0.1.0
 dimensionsR: 0.0.3
-dina: 2.0.2
+dina: 2.0.3
 dinamic: 1.0.1
 dineR: 2.0.0
 dineq: 0.1.0
@@ -15219,7 +15236,7 @@ disclapmix2: 0.6.1
 disclosuR: 0.6.0
 discnorm: 0.2.2
 disco: '0.6'
-discoCVI: 0.2.0
+discoCVI: 0.2.1
 discord: '1.3'
 discourseGT: 1.2.0
 discoveR: 3.1.7
@@ -15260,7 +15277,7 @@ dissCqN: 0.1.0
 dissUtils: '1.0'
 dissever: 0.2-3
 dissimilarities: 0.3.0
-dist.structure: 0.5.0
+dist.structure: 0.5.1
 distTails: 0.1.2
 distance.sample.size: '0.0'
 distanceHD: '1.4'
@@ -16475,6 +16492,7 @@ eventstudies: 1.2.2
 eventstudyr: 1.2.1
 evesim: 1.0.0
 evgam: 1.0.2
+evgmrf: 0.1.0
 evian: 2.1.0
 evidence: 0.8.10
 evidenceFactors: '1.8'
@@ -17515,7 +17533,7 @@ frailtypack: 3.8.1
 frair: 0.5.203
 frambgrowth: 0.1.0
 framecleaner: 0.2.1
-framework: 1.0.2
+framework: 1.1.0
 franc: 1.1.4
 frapplot: 0.1.3
 frbf: 1.0.1
@@ -18704,7 +18722,7 @@ glmmrMCML: 0.2.2
 glmmrOptim: 0.5.1
 glmmsel: 1.0.3
 glmmsr: 0.2.3
-glmnet: '5.1'
+glmnet: '5.2'
 glmnetSE: 0.0.1
 glmnetUtils: 1.1.9
 glmnetcr: 1.0.7
@@ -19049,7 +19067,7 @@ gridSVG: 1.7-7
 griddy: 0.1.0
 gridify: 0.8.1
 gridmicrotex: 0.2.0
-gridpattern: 1.4.2
+gridpattern: 1.5.1
 gridsample: 0.2.1
 gridsampler: '0.6'
 gridstackeR: 0.1.0
@@ -19173,7 +19191,7 @@ gtfs2gps: 2.1-4
 gtfsio: 1.2.2
 gtfsrealtime: 0.2.1
 gtfsrouter: 0.1.4
-gtfstools: 1.4.0
+gtfstools: 2.0.0
 gtheory: 0.1.2
 gtheoryr: 0.2.0
 gtkDevice: 1.9-4
@@ -19263,6 +19281,7 @@ hadron: 3.2.0
 hagis: 4.0.0
 hahmmr: 1.0.0
 hail: 0.1.1
+hairline: 0.1.0
 hakaiApi: 1.0.5
 hal: 0.1.4
 hal9001: 0.4.6
@@ -19792,7 +19811,7 @@ hydroeval: 0.1.0
 hydrogeo: 0.6-1
 hydrogeofetch: 2.0.4
 hydrolinks: 0.10.0
-hydroloom: 1.2.2
+hydroloom: 1.3.0
 hydromeso: 0.1.0
 hydropeak: 0.1.3
 hydrorecipes: 0.0.3
@@ -20284,7 +20303,7 @@ insetplot: 1.4.0
 inshiny: 0.1.5
 insideRODE: '2.0'
 insiderTrades: 0.0.1
-insight: 1.6.0
+insight: 1.6.1
 insol: 1.2.2
 inspectdf: 0.0.12.1
 inspector: 1.0.3
@@ -20828,7 +20847,7 @@ kcopula: 0.1.0
 kcpRS: 1.1.1
 kde1d: 1.2.2
 kdecopula: 0.9.3
-kdensity: 1.2.0
+kdensity: 2.0.0
 kdetrees: 0.1.5
 kdevine: 0.4.6
 kdist: '0.2'
@@ -21239,6 +21258,7 @@ lcra: 1.1.5
 lcsm: 0.3.3
 lctools: '0.3'
 lcyanalysis: 1.0.4
+lczexplore: 0.1.1
 ldDesign: 2.0-1
 lda: 1.5.2
 lda.cv: 1.1-2
@@ -21414,7 +21434,7 @@ lightsf: 0.1.0
 lightsout: 0.3.2
 likeLTD: 6.3.0
 likelihood: '1.9'
-likelihood.contr: 0.1.1
+likelihood.contr: 0.2.0
 likelihood.model: 1.0.2
 likelihoodAsy: '0.51'
 likelihoodExplore: 0.1.0
@@ -22485,7 +22505,7 @@ metadynminer3d: 0.0.2
 metafolio: 0.1.2
 metafor: 5.2-1
 metaforest: 0.1.5
-metafrontier: 0.3.1
+metafrontier: 0.4.0
 metafuse: 2.0-1
 metagam: 0.4.1
 metagear: '0.7'
@@ -23553,6 +23573,7 @@ multinomineq: 0.2.6
 multiobjectiveMDP: 1.0.0
 multiocc: 0.2.3
 multipanelfigure: 2.1.6
+multipathaic: 0.1.3
 multipleDL: 1.0.0
 multipleITScontrol: 0.1.0
 multipleNCC: 1.2-5
@@ -23745,7 +23766,7 @@ nVennR: 0.2.3
 nVennR2: 2.0.4
 na.tools: 0.3.1
 naaccr: 3.1.1
-nabla: 0.7.1
+nabla: 0.7.2
 nabor: 0.5.0
 nacopula: 0.8-1
 nadaverse: 0.1.0
@@ -26515,6 +26536,7 @@ pscl: 1.5.9
 pscore: 0.4.1
 psd: 2.1.2
 psda: 1.4.0
+psdea: 1.0.0
 psdr: 1.0.3
 pse: 0.4.7
 pseudo: 1.4.3
@@ -27537,6 +27559,7 @@ rcure: 0.1.0
 rcv: 0.2.1
 rcxl: 0.1.1
 rd2d: 1.0.0
+rd2dnet: 0.1.0
 rda: 1.2-1
 rdacca.hp: 1.1-4
 rdaemon: 1.0.6
@@ -28252,7 +28275,7 @@ rjd3jars: 0.0.6
 rjd3production: 1.2.0
 rjd3providers: 3.9.0
 rjd3qr: 0.4.2
-rjd3toolkit: 3.9.0
+rjd3toolkit: 3.9.1
 rjd3tramoseats: 3.9.0
 rjd3workspace: 3.9.0
 rjd3x13: 3.9.0
@@ -29193,6 +29216,7 @@ savvySh: 0.1.1
 savvyr: 0.1.2
 sawnuti: 0.1.1
 saws: 0.9-7.0
+saydo: 0.1.0
 sazedR: 2.0.2
 sbart: 0.1.1
 sbd: 0.1.0
@@ -29874,7 +29898,7 @@ shinyTempSignal: 0.0.8
 shinyTime: 1.0.3
 shinyTimer: 0.1.0
 shinyToastify: 2.0.0
-shinyTree: 0.3.1
+shinyTree: 1.0.0
 shinyWGD: 1.0.0
 shinyWidgets: 0.9.1
 shinyXYpad: 0.2.0
@@ -30822,7 +30846,7 @@ spikeslab: 1.1.6
 spima: 0.2.0
 spinBayes: 0.2.2
 spind: 2.2.1
-spinebil: 1.0.5
+spinebil: 1.0.6
 spinifex: 0.3.10
 spinner: 1.1.1
 spinyReg: 0.1-0
@@ -31513,7 +31537,7 @@ survdt: 0.9.0
 surveil: 0.3.0
 surveillance: 1.26.1
 survex: 1.2.0
-survexp.fr: '1.3'
+survexp.fr: '1.4'
 survextrap: 1.0.1
 survey: '4.5'
 surveyCV: 0.2.0
@@ -32128,8 +32152,8 @@ thief: '0.3'
 thinkr: '0.16'
 thinr: 0.3.0
 this.path: 2.8.0
-thisplot: 0.4.3
-thisutils: 0.5.0
+thisplot: 0.4.6
+thisutils: 0.5.3
 thor: 1.2.0
 thorn: 0.2.0
 thredds: 0.1-5
@@ -32564,6 +32588,7 @@ tpglp: 0.1.0
 tplyr2: 0.2.0
 tpm: 2.0.2
 tpn: '1.12'
+tppcm: 0.1.0
 tpr: 0.3-3
 tpsDesign: '1.3'
 tptest: 1.1.0
@@ -33622,7 +33647,7 @@ washdata: 0.1.5
 washeR: 0.1.3
 washex: 1.2.0
 washi: 0.2.1
-washr: 1.1.0
+washr: 1.2.0
 wasim: 1.1.2
 waspasR: 0.1.5
 waspr: 1.0.1
