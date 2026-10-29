@@ -570,7 +570,7 @@ BFF: 5.0.0
 BFI: 3.3.0
 BFM: 0.2.11
 BFS: 0.8.0
-BFpack: 1.6.2
+BFpack: 1.6.3
 BGData: 2.4.1
 BGFD: '0.1'
 BGGE: 0.6.5
@@ -602,7 +602,7 @@ BINtools: 0.2.0
 BIOEFIC: 0.1.1
 BIOM.utils: '0.9'
 BIOMASS: 2.2.7-1
-BIOdry: 0.9.1
+BIOdry: 0.9.5
 BIPOD: 0.2.1
 BIRDS: 0.2.0
 BIS: '0.4'
@@ -849,7 +849,7 @@ BayesRepDesign: '0.42'
 BayesReversePLLH: '1.5'
 BayesS5: '1.41'
 BayesSAE: 1.0-2
-BayesSIM: 2.0.0
+BayesSIM: 2.0.1
 BayesSPsurv: 0.1.4
 BayesSUR: 2.3-3
 BayesSampling: 1.1.0
@@ -2773,7 +2773,7 @@ EnsembleBase: 1.0.4
 EnsembleCV: '0.9'
 EnsemblePCReg: 1.1.4
 EnsemblePenReg: '0.8'
-Entropic.Scree: 1.0.1
+Entropic.Scree: 1.0.2
 EntropicStatistics: 0.1.3
 EntropyEstimation: 1.2.1
 EntropyExplorer: '1.1'
@@ -3110,7 +3110,7 @@ FastImputation: 2.2.1
 FastJM: 1.7.2
 FastKM: '1.2'
 FastKNN: 0.0.1
-FastKRR: 0.2.1
+FastKRR: 0.2.2
 FastLZeroSpikeInference: 2018.12.10
 FastPCS: 0.1.4
 FastRCS: 0.0.9
@@ -4030,7 +4030,7 @@ HighDimenCDM: 0.1.0
 HighFive: 3.3.0
 HighProbability: 1.0-2
 HighestMedianRules: '1.0'
-HistDAWass: 1.0.9
+HistDAWass: 1.0.10
 HistDat: 0.2.0
 HistData: 1.1.1
 HistogramTools: 0.4.1
@@ -4159,6 +4159,7 @@ IDmeasurer: 1.0.0
 IDmining: 1.0.7
 IETD: 1.0.0
 IFAA: 1.1.2
+IFARIMA: 0.1.0
 IFC: 0.2.1
 IFFuzzyStats: 0.1.0
 IFMCDM: 0.1.17
@@ -4218,7 +4219,7 @@ INSPECTumours: 0.1.0
 INSPIRE: '1.5'
 INTRIGUE: 0.1.0
 INetTool: 0.1.2
-IOBR: 2.2.3
+IOBR: 2.2.4
 IOHanalyzer: 0.1.8.17
 IOHexperimenter: 0.1.4
 IOLS: 0.1.4
@@ -4725,7 +4726,7 @@ LN0SCIs: 0.1.5
 LN3GV: 2.12-1
 LNIRT: 0.5.1
 LNPar: 1.1.3
-LOCOM2: '1.0'
+LOCOM2: '1.1'
 LOCUS: '1.0'
 LOGAN: 1.0.1
 LOGANTree: 0.1.1
@@ -5665,6 +5666,7 @@ MixSim: 1.1-8
 MixStable: 0.1.0
 MixTwice: '2.0'
 MixedDataImpute: '0.1'
+MixedDiversityAnalysis: 0.1.0
 MixedIndTests: 1.2.0
 MixedLevelRSDs: 1.0.0
 MixedPoisson: '2.0'
@@ -5805,6 +5807,7 @@ MultiVarMI: '1.0'
 MultiVarSel: 1.1.3
 Multiaovbay: 0.1.0
 Multiclasstesting: 1.3.9
+MultinomFourier: '1.0'
 MultinomialCI: '1.2'
 MultipleBreakpoints: 0.1.0
 MultipleBubbles: 0.2.0
@@ -6691,7 +6694,7 @@ PandemicLP: 1.3.0
 Pandora: 24.2.0
 PanelCount: 2.0.1
 PanelMatch: 3.1.5
-PanelSelect: 1.0.1
+PanelSelect: 2.0.0
 PanelTM: '1.1'
 Paneldata: '1.0'
 PantaRhei: 0.1.2
@@ -7312,7 +7315,7 @@ REAT: 3.0.3
 REBayes: '2.60'
 RECA: 1.7.1
 RECSO: '1.0'
-REDCapCAST: 26.1.1
+REDCapCAST: 26.10.1
 REDCapDM: 1.0.1
 REDCapExporter: 0.3.6
 REDCapR: 1.7.0
@@ -7776,6 +7779,7 @@ RVsharing: 1.7.0
 RVtests: '1.2'
 RWBP: '1.0'
 RWDataPlyr: 0.6.6
+RWInfoLSTM: 0.1.0
 RWNN: '0.4'
 RWeather: '0.4'
 RWebLogo: 1.0.3
@@ -8925,6 +8929,7 @@ SWATmodel: 0.5.9
 SWIM: 1.0.0
 SWMPr: 2.5.3
 SWMPrExtension: 2.2.5.1
+SWORD: 0.1.0
 SWTools: 1.1.1
 SYNCSA: 1.3.5
 Sabermetrics: '2.0'
@@ -9909,7 +9914,7 @@ TraMineR: 2.2-14
 TraMineRextras: 0.6.9
 TraceAssist: 0.1.0
 TrackReconstruction: '1.3'
-TrackTrap: 1.0.1
+TrackTrap: 1.1.0
 TractorTsbox: 0.1.1
 TradeStrategyAnalyzer: '1.0'
 Trading: '3.2'
@@ -10598,7 +10603,7 @@ actiRhythm: 0.1.0
 actibase: 0.8.0
 actigraph.sleepr: 0.4.0
 actilifecounts: 1.1.1
-actimetrics: 0.9.0
+actimetrics: 0.10.0
 actinet: 0.4.0
 actiplot: 0.1.0
 actiquantiles: 0.1.0
@@ -10834,6 +10839,7 @@ aiRthermo: 1.2.2
 aibd: 0.1.9
 aidR: 0.2.4
 aidar: 1.0.5
+aidatabroker: 0.1.0
 aides: 1.3.3
 aieconindex: 0.2.0
 aif360: 0.1.0
@@ -12272,6 +12278,7 @@ bmem: '2.3'
 bmemLavaan: '0.7'
 bmet: 0.1.0
 bmeta: 0.1.2
+bmetapred: 0.1.0
 bmgarch: 2.1.0
 bmggum: 0.1.0
 bmixture: '1.7'
@@ -14139,7 +14146,7 @@ covmat: '1.0'
 covr: 3.6.5
 covreg: '1.0'
 covsep: 1.1.1
-covsim: 1.1.0
+covsim: 1.2.0
 covtracer: 0.0.3
 cowbell: 0.1.0
 cowfootR: 0.1.3
@@ -14237,7 +14244,7 @@ createLogicalPCM: 0.1.0
 credentials: 2.0.3
 creditmodel: 1.3.1
 creditr: 0.6.2
-creditratingsystem: 0.1.0
+creditratingsystem: 0.1.1
 credsubs: 1.1.1
 credule: 0.1.4
 creepyalien: 1.0.0
@@ -14464,7 +14471,7 @@ curvecomp: 0.1.0
 curves: 0.4.0
 curvetest: '2.2'
 curvir: 0.1.1
-cusna: 0.1.0
+cusna: 0.1.1
 cusp: 2.3.8
 custom.gauss.quad: 1.0.0
 customLayout: 0.3.2
@@ -14887,7 +14894,7 @@ deepImp: 1.1.0
 deepMOU: 0.1.1
 deepNN: '1.2'
 deepRstudio: 0.0.9
-deepSTRAPP: 1.1.0
+deepSTRAPP: 1.1.1
 deepboost: 0.1.6
 deepdep: 0.4.4
 deepdive: 1.0.4
@@ -16123,7 +16130,7 @@ emend: 0.1.0
 emery: 0.7.1
 emf: 0.2.0
 emg: 1.0.9
-emhawkes: 1.0.1
+emhawkes: 1.0.2
 emil: 2.2.10
 emld: 0.5.3
 emln: 1.2.0
@@ -16635,7 +16642,7 @@ extrafontdb: '1.1'
 extrafrail: '1.15'
 extraoperators: 0.4.0
 extras: 0.10.0
-extrasteps: 0.3.0
+extrasteps: 0.3.1
 extraterrestrial: 0.1.0
 extremeIndex: 0.0.3
 extremeStat: 1.5.12
@@ -17578,7 +17585,7 @@ freqweights: 1.0.4
 fresh: 0.2.2
 freshr: 1.0.2
 frheritage: 0.1.2
-frictionless: 1.3.0
+frictionless: 2.0.1
 friendlynumber: 1.0.0
 friends: 0.1.0
 frite: 0.1.0
@@ -18764,6 +18771,7 @@ glpsol: 0.1.0
 glrt: '2.0'
 glscalibrator: 0.1.0
 glsm: 0.0.0.6
+glt: '1.0'
 glue: 1.8.1
 glueDo: 0.1.0
 gluedown: 1.0.9
@@ -18878,12 +18886,12 @@ googleTagManageR: 0.2.0
 googleVis: 0.7.3
 googleadsR: 1.0.0
 googlebigquery: '0.1'
-googledrive: 2.1.2
+googledrive: 2.2.0
 googleformr: 0.0.3
 googlenlp: 0.2.0
 googler: 0.0.1
 googlesheets: 0.3.0
-googlesheets4: 1.1.2
+googlesheets4: 1.1.3
 googletraffic: 0.1.8
 googleway: 2.7.8
 gooseR: 0.1.2
@@ -19483,7 +19491,7 @@ hestia: 0.1.0
 het.test: '0.1'
 hetGP: 1.1.9
 hetcorFS: 1.0.1
-heteroTests: 0.11.2
+heteroTests: 0.16.0
 heterocop: 1.0.1
 heterogen: 1.2.33
 heterogeneouspeereffects: 0.1.0
@@ -19755,7 +19763,7 @@ httr: 1.4.9
 httr2: 1.3.0
 hubEnsembles: 1.0.0
 hubEvals: 0.5.0
-hubUtils: 1.2.1
+hubUtils: 1.3.0
 hubeau: 0.5.2
 hudr: 1.2.0
 hues: 0.2.0
@@ -20486,7 +20494,7 @@ iq: 2.1.0
 iqLearn: '1.5'
 iqspr: '2.3'
 ir: 0.4.2
-irace: '4.5'
+irace: 4.5.1
 iraceplot: 2.1.0
 irboost: 0.2-1.1
 ircor: '1.0'
@@ -22219,6 +22227,7 @@ maxnet: 0.1.4
 maxnodf: 1.0.0
 maxstablePCA: 0.1.2
 maxstat: 0.7-26
+maxtwin: 0.1.0
 maybe: 1.1.0
 mazeGen: 0.1.3
 mazealls: 0.2.1
@@ -22715,7 +22724,7 @@ miesmuschel: 0.0.4-3
 mifa: 0.2.1
 mig: '2.0'
 migest: 2.0.6
-mighty.metadata: 0.1.0
+mighty.metadata: 0.2.0
 migraph: 1.7.2
 migrate: 0.5.1
 migration.indices: 0.3.1
@@ -23283,7 +23292,7 @@ moveEZ: 1.3.0
 moveHMM: '1.12'
 moveVis: 0.10.5
 moveWindSpeed: 0.2.4
-movecost: 3.0.0
+movecost: 3.1.0
 movedesign: 0.3.3
 movegroup: 2026.07.01
 movementsync: 0.1.5
@@ -23414,7 +23423,7 @@ msigdbr: 26.1.1
 msir: '1.4'
 mskcc.oncotree: 0.1.1
 msltrend: '1.0'
-msm: 1.8.2
+msm: '1.9'
 msma: '4.0'
 msme: 0.5.4
 msmtools: 2.2.1
@@ -24481,7 +24490,7 @@ obliqueRF: '0.3'
 obliqueRSF: 0.1.2
 obm: '2.1'
 obr: 0.6.2
-obrasgovr: 0.1.0
+obrasgovr: 0.1.1
 obs.agree: '1.0'
 obsSens: '1.4'
 observationalBlocks: 1.1.0
@@ -25153,7 +25162,7 @@ paramDemo: 1.0.3
 paramGUI: 2.2.0
 parameters: 0.30.0
 paramhetero: 1.0.0
-paramix: 0.0.2
+paramix: 0.0.3
 paramlink: 1.1-6
 paramlink2: 1.0.6
 params: 0.7.7
@@ -26203,6 +26212,7 @@ powerplus: '3.1'
 powerprior: 1.0.0
 powerr: 0.1-3
 powertools: 1.0.0
+powerup: 0.3.1
 powerutilities: 0.7.1
 ppMeasures: '0.2'
 ppRank: 0.1.1
@@ -26693,7 +26703,7 @@ pwt10: 10.01-0
 pwt8: 8.1-1
 pwt9: 9.1-0
 pxR: 0.42.8
-pxmake: 0.21.0
+pxmake: 0.22.0
 pxweb: 0.19.2
 pyMTurkR: 1.1.6
 pycno: 1.4.1
@@ -26715,7 +26725,7 @@ qLearn: '1.0'
 qMRI: 1.2.8
 qPCR.CT: '1.1'
 qPCRhelper: 0.1.0
-qPCRtools: 1.0.1
+qPCRtools: 1.0.2
 qPRAentry: 0.1.1
 qVarSel: '1.2'
 qacBase: 1.0.3
@@ -27601,7 +27611,7 @@ rdmulti: 2.0.0
 rdnb: 0.1-5
 rdoc: 0.1.0
 rdocdump: 0.3.0
-rdomains: 0.6.0
+rdomains: 0.6.1
 rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '3.0'
@@ -28390,7 +28400,7 @@ rmoriebricklayer: 1.0.2
 rmoriedata: 0.4.1
 rmp: '2.2'
 rmpw: 0.0.7
-rms: 8.1-1
+rms: 8.2-0
 rms.gof: '1.0'
 rmsBMA: 0.2.0
 rmsMD: 1.0.1
@@ -29336,7 +29346,7 @@ schemr: 0.3.1
 schmear: 0.1.0
 schoRsch: '1.11'
 schoenberg: 2.0.3
-scholar: 1.0.0
+scholar: 1.0.1
 scholid: 0.2.1
 scholidonline: 0.2.0
 schoolmath: 0.5.1
@@ -29581,7 +29591,7 @@ semPLS: 1.0-10
 semPlot: 1.2.0
 semPower: 2.2.0
 semTable: '1.8'
-semTests: 1.0.0
+semTests: 2.0.0
 semTools: 0.5-10
 semantic.assets: 1.1.0
 semantic.dashboard: 0.2.1
@@ -31336,7 +31346,7 @@ strawr: 0.0.92
 stray: 0.1.1
 stream: 2.0.6
 stream.net: 1.0.6
-streamConnect: 0.1.0
+streamConnect: 0.1.1
 streamDAG: '1.6'
 streamDepletr: 0.2.0
 streamMOA: 1.4.0
@@ -31912,7 +31922,7 @@ tbrf: 0.1.7
 tcR: 2.3.2
 tccox: 0.1.0
 tcensReg: 0.1.7
-tceper: 0.1.4
+tceper: 0.1.5
 tcftt: 0.1.0
 tcgaViz: 1.0.2
 tcgsaseq: 2.0.5
@@ -33442,7 +33452,7 @@ vici: 0.7.3
 video: 0.1.1
 videogameinsightsR: 0.3.0
 vietnamcode: 0.1.1
-vietnameseConverter: 0.4.0
+vietnameseConverter: 0.4.1
 viewpoly: 1.0.3
 viewscape: 3.0.0
 viewshed3d: 4.0.0
@@ -34260,7 +34270,7 @@ zoon: 0.6.5
 zot: 0.5.0
 zoteR: 1.0.0
 zscorer: 0.3.1
-zstd: 0.1.0
+zstd: 0.1.1
 zstdlite: 0.2.7
 zstdr: 0.1.1
 ztable: 0.2.5
