@@ -299,7 +299,7 @@ AgroR: 1.3.7
 AgroReg: 1.2.11
 AgroTech: 1.0.2
 AhoCorasickTrie: 0.1.3
-AiES: 0.99.6
+AiES: 1.0.0
 AirExposure: '1.0'
 AirMonitor: 0.4.3
 AirScreen: 0.1.0
@@ -418,7 +418,7 @@ AssumpSure: 1.1.4
 AsthmaNHANES: 1.1.0
 AstraeaDB: 0.2.1
 AsyK: 1.5.6
-AsyPeer: 0.0.1
+AsyPeer: 0.0.2
 AsymmetricSORDs: 1.0.0
 AsynchLong: '2.4'
 AteMeVs: 0.1.0
@@ -788,7 +788,7 @@ BayesDesign: 0.1.1
 BayesDissolution: 0.2.1
 BayesERtools: 0.2.7
 BayesESS: 0.1.19
-BayesFBHborrow: 2.0.21
+BayesFBHborrow: 2.0.22
 BayesFM: 0.1.7
 BayesFR: 1.0.1
 BayesFactor: 0.9.12-4.8
@@ -1189,7 +1189,7 @@ CDFt: '1.2'
 CDGHMM: 0.1.5
 CDLasso: '1.1'
 CDM: 8.3-14
-CDMConnector: 2.8.0
+CDMConnector: 2.8.1
 CDNmoney: 2012.4-2
 CDROM: '1.1'
 CDSE: 0.3.2
@@ -2403,7 +2403,7 @@ DiscreteInverseWeibull: 1.0.2
 DiscreteLaplace: 1.1.1
 DiscreteMorseR: 1.0.0
 DiscreteQvalue: '1.1'
-DiscreteTests: 0.5.2
+DiscreteTests: 0.5.3
 DiscreteWeibull: '1.1'
 DiscriMiner: 0.1-29
 Disequilibrium: '1.1'
@@ -2485,7 +2485,7 @@ DynClust: '3.24'
 DynComm: 2020.1.6
 DynCount: 0.2.0
 DynForest: 1.2.0
-DynMSR: 0.1.1
+DynMSR: 0.1.2
 DynNom: '5.1'
 DynTxRegime: '4.16'
 DynaRankR: 1.1.0
@@ -5074,7 +5074,7 @@ MCUSUM: '1.0'
 MChtest: 1.0-4
 MConjoint: '0.1'
 MCseqReplic: 1.1.0
-MD2sample: 1.4.2
+MD2sample: 1.5.0
 MDBED: 1.0.0
 MDCcure: 0.1.0
 MDD: '0.5'
@@ -5449,7 +5449,7 @@ MantaID: 1.0.4
 ManyIVsNets: 0.1.1
 ManyTests: '1.2'
 Map2NCBI: '1.5'
-MapGAM: 1.3-1
+MapGAM: '1.4'
 MapeBay: 0.1.0
 Mapinguari: 2.0.1
 MapperAlgo: 1.3.0
@@ -5832,7 +5832,7 @@ Myrrixjars: 1.0-2
 N2H4: 0.8.4
 N2R: 1.0.5
 NAC: 0.1.0
-NACHO: 3.0.0
+NACHO: 3.0.1
 NADA: 1.6-1.2
 NADA2: 2.0.2
 NADIA: 0.4.2
@@ -7212,7 +7212,7 @@ RAPTOR: 1.0.1
 RAQSAPI: 2.0.5
 RARfreq: 0.1.5
 RARtrials: 0.0.2
-RAS: 1.1.2
+RAS: 1.1.3
 RASbound: 0.0.1
 RAT: 0.3.1
 RATest: 0.1.12
@@ -7894,7 +7894,7 @@ Rcgmin: 2022-4.30
 Rchemcpp: 1.2.1
 RchivalTag: 0.2.2
 Rchoice: 0.3-6
-Rclade: 1.1.5
+Rclade: 1.1.6
 Rclean: 1.0.0
 RclusTool: 0.91.61
 Rclusterpp: 0.2.3
@@ -8327,7 +8327,7 @@ RobustGaSP: 0.6.8
 RobustIV: 0.3.1
 RobustLPA: 1.1.0
 RobustLinearReg: 1.2.0
-RobustMediate: 0.3.0
+RobustMediate: 0.3.1
 RobustMetrics: 1.0.0
 RobustPrediction: 0.1.7
 RobustRankAggreg: 1.2.1
@@ -12160,7 +12160,7 @@ birdnik: 0.1.1
 birdring: '1.6'
 birdscanR: 0.3.0
 birk: 2.1.2
-birp: 0.9.0
+birp: 0.9.1
 birtr: 1.0.0
 biscale: 1.1.0
 bise: '1.0'
@@ -12894,7 +12894,7 @@ causalsim: 0.1.0
 causalweight: 1.1.6
 causens: 0.0.3
 caustests: 1.1.7
-caverify: 0.2.0
+caverify: 0.3.0
 caviarpd: 0.3.25
 cayleyR: 0.3.0
 cba: 0.2-25
@@ -14371,7 +14371,7 @@ cslogistic: 0.1-3
 csmGmm: 0.5.0
 csmaps: 2025.8.21
 csmbuilder: 0.1.1
-csmpv: 1.0.5
+csmpv: 1.0.6
 csn: 1.1.3
 csodata: 1.5.1
 csound: 0.1-1
@@ -16908,7 +16908,7 @@ fastmatrix: 0.6-6
 fastmit: 0.1.1
 fastml: 0.7.10
 fastnet: 1.0.0
-fastphylosig: 0.3.1
+fastphylosig: 0.3.5
 fastplyr: 0.9.92
 fastpng: 0.1.9
 fastpolicytree: '1.0'
@@ -17723,7 +17723,7 @@ futile.matrix: 1.2.7
 futile.options: 1.0.1
 futile.paradigm: 2.0.4
 futility: '0.5'
-future: 1.80.0
+future: 1.82.0
 future.BatchJobs: 0.17.0
 future.apply: 1.21.0
 future.batchtools: 0.30.0
@@ -18325,7 +18325,7 @@ ggamma: 1.0.2
 gganimate: 1.0.11
 gganime: 0.1.0
 ggarchery: 0.4.4
-ggarrow: 0.2.0
+ggarrow: 0.2.1
 ggasym: 0.1.6
 ggauto: 0.0.2
 ggautomap: 0.4.0
@@ -18345,7 +18345,7 @@ ggbuildr: 0.1.0
 ggbump: 0.1.0
 ggchangepoint: 0.5.0
 ggcharts: 0.2.1
-ggchord: 0.8.0
+ggchord: 0.16.6
 ggchord2: 0.0.1
 ggcircular: 0.1.0
 ggcleveland: 0.1.0
@@ -19679,7 +19679,7 @@ hoopR: 3.1.0
 hopach: 2.12.0
 hopbyhop: '3.41'
 hopit: 0.11.6
-hopkins: '1.2'
+hopkins: '1.3'
 horizon: '1.2'
 hornpa: 1.1.1
 horserule: 1.0.0
@@ -19708,7 +19708,7 @@ hpfilter: 1.0.2
 hpiR: 0.3.2
 hpoPlot: '2.4'
 hpower: 0.1-0
-hpsreg: 1.0.0
+hpsreg: 1.0.4
 hqmisc: 0.2-1
 hqreg: 1.4-1
 hrIPW: 0.1.3
@@ -20700,7 +20700,7 @@ jetpack: 0.5.5
 jetset: 3.4.0
 jetty: 0.2.2
 jewel: 2.0.3
-jfa: 0.7.4
+jfa: 0.7.5
 jgcricolors: 1.0.0
 jgd: 0.2.1
 jgsbook: 1.0.8
@@ -21276,7 +21276,7 @@ lcra: 1.1.5
 lcsm: 0.3.3
 lctools: '0.3'
 lcyanalysis: 1.0.4
-lczexplore: 0.1.1
+lczexplore: 0.1.2
 ldDesign: 2.0-1
 lda: 1.5.2
 lda.cv: 1.1-2
@@ -21653,7 +21653,7 @@ locaR: 0.3.0
 localFDA: 1.0.0
 localICE: 0.1.1
 localIV: 0.3.2
-localLLM: 1.3.0
+localLLM: 1.4.1
 localModel: '0.5'
 localScore: 2.0.5
 localboot: 0.9.2
@@ -22236,7 +22236,7 @@ maxnet: 0.1.4
 maxnodf: 1.0.0
 maxstablePCA: 0.1.2
 maxstat: 0.7-26
-maxtwin: 0.1.0
+maxtwin: 0.1.1
 maybe: 1.1.0
 mazeGen: 0.1.3
 mazealls: 0.2.1
@@ -22305,7 +22305,7 @@ mclust02: 2.1-18
 mclust1998: 1.1-10
 mclustAddons: '0.10'
 mclustcomp: 0.3.5
-mcmapper: 0.0.11
+mcmapper: 0.0.12
 mcmc: 0.9-8
 mcmcOutput: 0.1.3
 mcmcabn: '0.6'
@@ -22570,7 +22570,7 @@ metasnf: 2.3.0
 metasplines: 0.1.1
 metasurvey: 0.0.24
 metatest: 1.0-5
-metathis: 1.1.4
+metathis: 1.1.5
 metatools: 0.3.0
 metaumbrella: 1.1.0
 metavcov: 2.1.5
@@ -23762,7 +23762,7 @@ mycobacrvR: '1.1'
 mycolorsTB: 0.1.1
 mycor: 0.1.1
 myepisodes: 1.1.1
-myman: 0.12.0
+myman: 0.13.0
 myownrobs: 1.0.0
 myrror: 0.1.2
 mziln: '1.0'
@@ -23780,7 +23780,7 @@ nFactors: 2.4.1.2
 nFunNN: '1.0'
 nJira: 0.1.1
 nLTT: 1.4.10
-nQuack: 1.0.4
+nQuack: 1.0.5
 nRegression: 0.5.1
 nTARP: 0.1.0
 nVennR: 0.2.3
@@ -24736,7 +24736,7 @@ openrouteservice: 0.6.2
 openscoring: 1.2.0
 opensensmapr: 0.6.0
 opensimplex2: 0.0.3
-openssl: 2.4.2
+openssl: 2.5.0
 openstudyval: 0.1.1
 opentick: 0.1-1
 opentimsr: 1.2.0
@@ -24819,7 +24819,7 @@ orQA: 0.2.1
 ora: 2.0-1
 orange: 0.1.0
 orbis: 0.1.0
-orbital: 0.7.0
+orbital: 0.8.0
 orbitr: 1.0.0
 orbweaver: 0.18.3
 orca: 1.1-3
@@ -24961,7 +24961,7 @@ ouxy: '2.1'
 ovbsa: 2.1.0
 overdisp: 0.1.2
 overlap: 0.3.9
-overlapping: '2.5'
+overlapping: '2.6'
 overlapptest: '1.4'
 overshiny: 0.2.0
 overture: 0.4-0
@@ -26497,7 +26497,7 @@ propertee: 1.0.6
 properties: 0.0-9
 prophet: 1.1.7
 proportion: 2.0.0
-proporz: 1.5.3
+proporz: 1.6.0
 propr: 4.2.6
 proptest: 0.1-5
 proratar: 0.1.0
@@ -27649,7 +27649,7 @@ reactRouter: 0.2.1
 reactable: 0.4.5
 reactable.extras: 0.2.1
 reactablefmtr: 2.0.0
-reactives: 0.1.0
+reactives: 0.1.1
 reactlog: 1.1.1
 read.abares: 3.0.0
 read.cwa: 0.2.1
@@ -27753,7 +27753,7 @@ recometrics: 0.1.6-3
 recommenderlab: 1.1.0
 recommenderlabBX: 0.2-0
 recommenderlabJester: 0.2-0
-reconf: 0.2.0
+reconf: 0.2.1
 reconstructKM: 0.4.0
 reconstructr: 2.0.4
 recor: 1.0.3
@@ -27891,7 +27891,7 @@ reliabilitydiag: 0.2.1
 reliacoef: 1.0.1
 relimp: 1.0-5
 relliptical: 1.4.0
-relm: 0.5.0
+relm: 0.6.2
 relsurv: 2.3-3
 rem: 1.3.1
 remMap: 0.2-0
@@ -28667,7 +28667,7 @@ rphast: 1.6.9
 rphylo: 0.1.1
 rphylopic: 1.7.0
 rphylotastic: 0.0.4
-rpic: 0.11.3
+rpic: 0.12.1
 rpicosat: 1.0.1
 rpinterest: 0.3.1
 rpivotTable: 0.4.0
@@ -28859,7 +28859,7 @@ rsurfer: '0.2'
 rsurv: 0.0.2
 rsurveycto: 0.2.6
 rsurvstat: 0.1.5
-rsvd: 1.0.6
+rsvd: 2.0.0
 rsvddpd: 1.0.1
 rsvg: 2.7.0
 rswipl: 10.1.16
@@ -28880,7 +28880,7 @@ rtdists: 0.12-0
 rtematres: '0.2'
 rtemis: 1.4.2
 rtemis.a3: 0.5.3
-rtemis.core: 0.4.6
+rtemis.core: 0.4.7
 rtemis.draw: 0.5.3
 rtemis.llm: 0.8.7
 rtemps: 0.8.0
@@ -30085,7 +30085,7 @@ sim1000G: '1.40'
 sim2Dpredictr: 0.1.1
 simBKMRdata: 0.2.2
 simCAT: 1.0.1
-simDAG: 1.0.1
+simDAG: 1.1.0
 simDNAmixtures: 1.1.2
 simET: 1.0.5
 simEd: 2.0.2
@@ -31261,7 +31261,7 @@ steps: 1.3.0
 stepssurvey: 0.1.0
 stepwedgepower: 0.4.1
 stepwise: '0.3'
-stevedata: 1.9.0
+stevedata: 2.0.0
 stevedore: 0.9.6
 stevemisc: 1.9.0
 steves: 0.1.1
@@ -32061,7 +32061,7 @@ testex: 0.2.1
 testextra: 0.1.0.1
 testflow: 1.0.0
 testforDEP: 0.2.0
-testit: '1.2'
+testit: '1.3'
 testthat: 3.3.2
 testthatdocs: 1.0.23
 testthatmulti: 0.2.0
