@@ -461,13 +461,13 @@ AzureAuth: 1.3.5
 AzureCognitive: 1.0.2
 AzureContainers: 1.3.3
 AzureCosmosR: 1.0.0
-AzureGraph: 1.3.5
+AzureGraph: 1.3.6
 AzureKeyVault: 1.0.6
 AzureKusto: 1.1.4
 AzureML: 0.2.15
 AzureQstor: 1.0.2
 AzureRMR: 2.4.5
-AzureStor: 3.7.1
+AzureStor: 3.7.2
 AzureTableStor: 1.0.0
 AzureVM: 2.2.2
 AzureVMmetadata: 1.0.1
@@ -929,7 +929,7 @@ BiDimRegression: 2.0.1
 BiG: 0.1.0
 BiGGR: '1.8'
 BiGaRx: 0.5.1
-BiMaUmisc: 0.2.0
+BiMaUmisc: 0.2.1
 BiOFI: 0.1.0
 BiObjClass: 0.1.0
 BiProbitPartial: 1.0.3
@@ -1374,7 +1374,7 @@ CR: '1.0'
 CR2: 0.2.1
 CRABS: 1.2.0
 CRAC: '1.0'
-CRAFT: 0.2.0
+CRAFT: 0.4.0
 CRANsearcher: 1.0.0
 CRBHSF: 0.1.0
 CRE: 0.2.7
@@ -1571,7 +1571,7 @@ CircSpaceTime: 0.9.0
 CircSpatial: 1.0-1
 CircStats: 0.2-7
 CircaCP: 0.1.2
-CirceR: 1.3.3
+CirceR: 1.4.0
 CirclesIntersections: '1.1'
 CircularBoxplots: 0.1.2
 CircularDDM: 0.1.0
@@ -8980,7 +8980,7 @@ ScreenClean: 1.0.1
 ScriptMapR: 0.0.3
 SdeaR: 1.1.1
 SeBR: 1.1.0
-SeaGraphs: 0.1.3
+SeaGraphs: 0.1.4
 SeaSondeR: 0.2.8
 SeaVal: 1.2.0
 SearchTrees: 0.5.5
@@ -13407,7 +13407,7 @@ clinicalomicsdbR: 1.0.6
 clinicalsignificance: 3.0.0
 clinify: 0.4.0
 clinmon: 0.6.0
-clinpubr: 1.4.2
+clinpubr: 1.4.3
 clinsig: '1.2'
 clinspacy: 1.0.2
 clintools: 0.9.10.1
@@ -15892,7 +15892,7 @@ echor: 0.1.10
 echos: 1.0.5
 ecic: 0.0.4
 ecipex: 1.1.1
-eclipseplot: 0.9.9
+eclipseplot: 1.0.0
 eclust: 0.1.0
 ecm: 7.2.0
 ecmwfr: 2.0.3
@@ -18447,7 +18447,7 @@ ggm: 2.5.4
 ggmGraphEditor: 0.2.0
 ggmRSCU: 0.1.0
 ggmap: 4.0.2
-ggmapcn: 0.3.0
+ggmapcn: 0.3.1
 ggmapinset: 0.5.0
 ggmatplot: 0.1.3
 ggmcmc: 1.5.1.2
@@ -19582,7 +19582,7 @@ highlightr: 2.0.1
 highmean: '3.0'
 highr: '0.12'
 highriskzone: 1.4.9
-highs: 1.15.1-1
+highs: 1.15.1-2
 hightR: 0.3.0
 higlasso: 0.9.0
 higrad: 0.1.0
@@ -19943,7 +19943,7 @@ iSubGen: 1.0.5
 iSubpathwayMiner: '3.0'
 iTOP: 1.0.2
 iTOS: 1.0.3
-iTensor: 1.0.6
+iTensor: 1.0.7
 iWISA: 1.0-2
 iWebPlots: 1.0-1
 iWeigReg: '1.1'
@@ -20533,7 +20533,7 @@ irtpwr: 1.0.3
 irtrees: 1.0.0
 irtreliability: 0.1-1
 irtsim: 0.2.0
-irw: 1.3.1
+irw: 1.4.0
 isa2: 0.3.6
 isaeditor: 0.1.1
 isard: 0.2.0
@@ -20613,7 +20613,7 @@ itunesr: 0.1.3
 iucnr: 0.0.0.1
 iv: 0.1.2
 iv.sensemakr: 0.1.0
-ivDiag: 1.0.7
+ivDiag: 1.0.8
 iva: 0.1.0
 ivaBSS: 1.0.0
 ivbma: '1.05'
@@ -20874,7 +20874,7 @@ kdpee: 1.0.0
 kdps: 1.0.0
 kdry: 0.0.3
 kdtools: 0.6.0
-kedd: 1.0.4
+kedd: 2.0.0
 keep: '1.0'
 kehra: '0.1'
 kelvin: 2.0-3
@@ -21551,7 +21551,7 @@ lit: 1.0.1
 litReview: 1.1.0
 litRiddle: 1.0.0
 lite: 1.1.1
-litedown: '0.11'
+litedown: '1.0'
 liteformats: 0.2.0
 liteq: 1.1.0
 literanger: 0.2.0
@@ -21813,7 +21813,7 @@ lrmest: '3.0'
 lrstat: 0.3.4
 lsReg: 1.0.0
 lsa: 0.73.4
-lsasim: 2.1.6
+lsasim: 2.1.7
 lsbclust: '1.1'
 lsbs: '0.1'
 lsdbc: 0.1.0
@@ -22617,7 +22617,7 @@ mfcurve: 1.0.2
 mfdb: 7.4-0
 mfe: 0.1.5
 mfp: 1.5.5.1
-mfp2: 1.0.1
+mfp2: 1.1.0
 mfpp: 0.0.9
 mfr: '1.04'
 mfrmr: 0.2.4
@@ -22806,7 +22806,7 @@ mipfp: 3.2.3
 mipplot: 0.3.1
 mipred: 0.0.1
 miraculix: 0.9.23
-mirai: 2.7.3
+mirai: 2.7.4
 mirai.promises: 0.5.0
 mirf: '1.0'
 mirrorselect: 0.0.3
@@ -23184,7 +23184,7 @@ modisfast: 2.0.1
 modmarg: 0.9.6
 modnets: 0.9.0
 modopt.matlab: 1.0-2
-modsem: 1.0.23
+modsem: 1.0.24
 moduleColor: 1.8-4
 modules: 0.13.0
 modygliani: '1.0'
@@ -24128,7 +24128,7 @@ nlgm: '1.0'
 nlirms: 3.4.4
 nlist: 0.5.0
 nlive: 0.8.0
-nlme: 3.1-171
+nlme: 3.1-172
 nlmeODE: '1.1'
 nlmeU: 0.71.7
 nlmeVPC: '2.8'
@@ -25941,7 +25941,7 @@ plspm: 0.6.0
 plspm.formula: 1.0.1
 plspolychaos: 1.1-1
 plsr: 0.0.1
-plssem: 0.1.5
+plssem: 0.2.0
 pltesim: '1.0'
 plu: 0.3.0
 plug: 0.2.0
@@ -26176,7 +26176,7 @@ postlightmercury: '1.2'
 postlink: 0.1.2
 postlogic: 0.1.0.1
 postpack: 0.5.4
-postshock: 0.2.1
+postshock: 0.2.3
 postvocs: 0.2.5
 potential: 0.3.0
 potentiomap: 0.2.0
@@ -26393,8 +26393,8 @@ printr: '0.3'
 printtree: 0.2.2
 prinvars: 1.0.0
 prioGene: 1.0.1
-prior3D: 0.1.6
-priorCON: 0.1.8
+prior3D: 0.1.8
+priorCON: 0.1.9
 prioriactions: 0.5.0
 prioritizr: 9.0.1
 prioritizrdata: 0.3.3
@@ -26438,7 +26438,7 @@ processpredictR: 0.1.1
 processx: 3.9.0
 proclhmm: 1.0.1
 procmaps: 0.0.5
-procs: 1.0.9
+procs: 1.1.0
 prodest: 1.0.2
 prodigenr: 0.7.0
 prodlim: 2026.03.11
@@ -26854,7 +26854,7 @@ qrnn: 2.1.1
 qrsvm: 0.2.1
 qryflow: 0.4.0
 qs: 0.27.3
-qs2: 0.3.1
+qs2: 0.4.0
 qshap: 2.0.0
 qsimulatR: 1.1.1
 qslice: 0.4.0
@@ -27031,7 +27031,7 @@ r3dmol: 0.1.2
 r3js: 0.0.2
 r4ds.tutorials: 0.3.3
 r4googleads: 0.1.1
-r4lineups: 0.1.1
+r4lineups: 2.3.0
 r4pde: 0.2.2
 r4ss: 1.44.1
 r4sub: 0.1.0
@@ -27456,7 +27456,7 @@ rbart: '1.0'
 rbbnp: 1.1.0
 rbc: 0.1.1
 rbcb: 0.1.14
-rbcc: 0.2.0
+rbcc: 0.2.1
 rbch: 0.1-2
 rbcmodel: 1.0.1
 rbedrock: 0.4.2
@@ -28943,6 +28943,7 @@ rugarch: 1.5-6
 ruijter: 0.1.3
 ruimtehol: 0.3.2
 ruin: 0.1.1
+ruleatlas: 0.0.1
 ruler: 0.3.2
 rules: 1.0.3
 rumenGP: 0.2.1
@@ -31117,7 +31118,7 @@ stagePop: 1.1-2
 stagedtrees: 2.3.0
 staggR: 0.2.2
 staggered: 1.2.2
-staggeredGMM: 0.1.0
+staggeredGMM: 0.2.0
 stagsynth: 0.1.0
 stam: 0.0-1
 stampr: 0.3.1
@@ -31909,7 +31910,7 @@ taxa: 0.4.4
 taxadb: 0.3.0
 taxalight: 0.1.5
 taxdiv: 0.1.0
-taxify: 0.7.0
+taxify: 0.7.1
 taxize: 0.10.1
 taxizedb: 0.3.2
 taxlist: 0.3.5
@@ -32195,7 +32196,7 @@ throughyear: 0.1.0
 thsls: '0.1'
 thunder: 1.1.5
 thurstonianIRT: 0.12.5
-ti: 4.0.0
+ti: 4.3.0
 tibble: 3.3.1
 tibbleOne: 0.1.1
 tibbletime: 0.1.9
@@ -32284,7 +32285,7 @@ tidyklips: 0.3.0
 tidylab: 4.1.1
 tidylaslog: 0.1.2
 tidylda: 0.1.1
-tidylearn: 0.6.0
+tidylearn: 0.7.0
 tidyllm: 0.7.1
 tidylo: 0.2.0
 tidylog: 1.1.0
@@ -32894,7 +32895,7 @@ tsintermittent: '1.10'
 tsissm: 1.0.4
 tsitter: 0.2.0
 tslars: '1.0'
-tsmarch: 1.0.0
+tsmarch: 1.0.3
 tsmethods: 1.0.3
 tsmp: 0.5.1
 tsna: 0.3.6
