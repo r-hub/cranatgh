@@ -4869,7 +4869,7 @@ LifeInsureR: 1.0.1
 LifeTableBuilder: 0.1.3
 LifeTableFertility: 0.1.1
 LifeTables: '1.0'
-LifemapR: 1.1.6
+LifemapR: 1.1.7
 Lifertable: 1.0.1
 LiftTest: 0.2.0
 LightFitR: 1.0.0
@@ -5095,7 +5095,7 @@ MDSMap: '1.3'
 MDSPCAShiny: 0.1.0
 MDSS: 1.0-1
 MDaRes: 0.0.2
-MDgof: 1.2.1
+MDgof: 1.3.0
 MDimNormn: 0.8.0
 MDplot: 1.0.1
 MEAanalysis: 0.1.0
@@ -5204,7 +5204,7 @@ MLDAShiny: 0.1.0
 MLDAShiny2: 0.1.0
 MLDS: 0.5.1
 MLDataR: 1.0.1
-MLE: '1.9'
+MLE: '2.0'
 MLEP: 0.0-3
 MLEce: 2.1.0
 MLEcens: 0.1-7.1
@@ -6035,7 +6035,7 @@ NetPreProc: '1.2'
 NetRep: 1.2.10
 NetSci: 1.0.1
 NetSim: '0.9'
-NetSimR: 0.3.2
+NetSimR: 0.3.3
 NetSurvProx: 1.0.0
 NetSwan: '0.1'
 NetVAR: 0.1-2
@@ -9378,7 +9378,7 @@ Stack: 2.0-1
 StackImpute: 0.1.0
 StagedChoiceSplineMix: 1.0.0
 StakeholderAnalysis: '1.2'
-StanHeaders: 2.39.1
+StanHeaders: 2.39.1.1
 StanMoMo: 1.2.0
 StandardizeText: '1.0'
 Stat2Data: 2.0.0
@@ -16604,7 +16604,7 @@ expert: 1.0-0
 expertsurv: 1.4.1
 expint: 0.2-1
 expirest: 0.1.7
-explainer: 1.0.2
+explainer: 1.0.3
 explodemap: 0.2.0
 explor: 0.3.11
 exploratory: 0.3.31
@@ -17598,7 +17598,7 @@ frictionless: 2.0.1
 friendlynumber: 1.0.0
 friends: 0.1.0
 frite: 0.1.0
-fritools: 4.6.0
+fritools: 4.7.0
 fritools2: 4.1.0
 frm: 1.2.2
 frmhet: 1.1.3
@@ -20299,6 +20299,7 @@ injurytools: 2.0.1
 inkaR: 0.7.0
 inlabru: 2.15.0
 inlamemi: 1.1.0
+inlaops: 0.1.2
 inlcolor: 1.0.6
 inldata: 1.2.7
 inline: 0.3.21
@@ -20718,7 +20719,7 @@ jlme: 0.4.1
 jlmerclusterperm: 1.1.4
 jlsm: 0.1.0
 jlview: 0.1.0
-jmBIG: 0.1.3
+jmBIG: 0.1.4
 jmSurface: 0.1.0
 jmastats: 0.3.1
 jmatrix: 1.5.2
@@ -21450,6 +21451,7 @@ lightgbm: 4.7.0
 lightparser: 0.1.0
 lightr: 2.1.0
 lightsf: 0.1.0
+lightson: 0.2.0
 lightsout: 0.3.2
 likeLTD: 6.3.0
 likelihood: '1.9'
@@ -26054,7 +26056,7 @@ politicaldata: 0.1.3
 politicsR: 0.1.0
 polle: 1.6.7
 pollen: 0.83.0
-pollimetry: 1.0.1
+pollimetry: 1.1.1
 pollstR: 2.0.1
 pollster: 0.1.7
 polmineR: 0.8.9
@@ -27852,7 +27854,7 @@ regressoR: 4.0.8
 regrrr: 0.1.3
 regsel: '0.2'
 regsem: 1.9.5
-regsensitivity: 0.2.0
+regsensitivity: 0.3.0
 regspec: '2.7'
 regstat: 0.1.0
 regsubseq: '0.12'
@@ -28421,7 +28423,7 @@ rmsfuns: 1.0.0.1
 rmstBayespara: 0.1.0
 rmstcompsens: 0.1.5
 rmt: '1.0'
-rmumps: 5.2.1-43
+rmumps: 5.9.1-1
 rmutil: 1.1.10
 rmweather: 0.2.63
 rmytarget: 2.4.0
@@ -31020,7 +31022,7 @@ srm: 0.4-26
 srp: 1.2.0
 srpi: 0.1.0
 srppp: 2.0.3
-srr: 1.0.0
+srr: 1.1.0
 srsbench: '0.1'
 srt: 1.0.4
 srvyr: 1.3.1
@@ -31116,6 +31118,7 @@ stacomirtools: 0.6.0.1
 stacr: 0.1.0
 stagePop: 1.1-2
 stagedtrees: 2.3.0
+stagelife: 0.1.0
 staggR: 0.2.2
 staggered: 1.2.2
 staggeredGMM: 0.2.0
@@ -31570,7 +31573,7 @@ surveyNG: '0.3'
 surveyPrev: 2.0.0
 surveySimR: 0.1.0
 surveybootstrap: 0.0.3
-surveycore: 1.0.0
+surveycore: 1.2.0
 surveydata: 0.2.8
 surveydown: 1.3.0
 surveyeditor: '1.0'
@@ -33082,7 +33085,7 @@ ukbtools: 0.11.3
 ukc19: 0.0.3
 ukds: 0.1.0
 ukgasapi: '0.21'
-ukhousing: 0.1.0
+ukhousing: 0.2.0
 ukhsadatR: 0.1.1
 uklr: 1.0.2
 ukpolice: 0.2.2
@@ -33101,6 +33104,7 @@ umweltapir: 0.2.3
 umx: 4.80.1
 unbalanced: '2.0'
 unbalhaar: '2.1'
+uncertR: 0.1.3
 uncertainUCDP: 0.7.6
 uncertainty: 0.3.0
 uncmbb: 0.2.2
@@ -33369,6 +33373,7 @@ vaultr: 1.2.0
 vaxineR: 0.1.0
 vaxpmx: 0.0.6
 vayr: 1.1.0
+vayuayan: 0.3.0
 vazul: 1.2.0
 vbdm: 0.0.4
 vbm: 0.1.0
@@ -34089,6 +34094,7 @@ xlsx: 0.6.5
 xlsx2dfs: 0.1.0
 xlsxjars: 0.9.0
 xltabr: 0.1.2
+xlum: 0.2.0
 xlutils3: 0.1.0
 xmap: 0.2.0
 xmeta: 1.3.3
