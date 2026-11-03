@@ -1736,6 +1736,7 @@ CompositeReliability: 1.0.3
 Compositional: '8.4'
 CompositionalClust: '1.3'
 CompositionalHDDA: '1.0'
+CompositionalLASSO: '1.0'
 CompositionalML: '1.0'
 CompositionalMPT: '1.0'
 CompositionalNAimp: '1.1'
@@ -3373,7 +3374,7 @@ GESTr: '0.1'
 GET: 1.0-9
 GETdesigns: 1.2.0
 GEVACO: 1.0.1
-GEVStableGarch: '1.1'
+GEVStableGarch: 2.0.0
 GEVcdn: 1.1.6-2
 GEint: '1.1'
 GEmetrics: 1.0.0
@@ -4530,7 +4531,7 @@ KFPLS: '1.0'
 KGode: 1.0.5
 KHQ: 0.2.0
 KINSIMU: 0.1.3-2
-KLINK: 1.2.2
+KLINK: 1.3.2
 KLexp: 1.0.0
 KMD: 0.1.1
 KMDA: '1.0'
@@ -5242,6 +5243,7 @@ MMD: 1.0.0
 MMDCopula: 0.2.1
 MMDai: 2.0.0
 MMDvariance: 0.1.0
+MMEFM: 0.1.1
 MMG: 1.4.0
 MMGFM: 1.2.1
 MMINP: 0.1.0
@@ -7705,6 +7707,7 @@ RSStest: '1.0'
 RSSthemes: 1.0.0
 RSTr: 1.2.0
 RSVGTipsDevice: 1.0-7
+RSYC: 0.2.0
 RSarules: '1.0'
 RSauceLabs: 0.1.6
 RScaLAPACK: 0.6.1
@@ -9069,6 +9072,7 @@ SetTest: 0.3.1
 Seurat: 5.6.0
 SeuratExplorer: 0.1.8
 SeuratObject: 5.4.0
+SexSeek: 0.1.0
 ShapDoE: 1.0.0
 ShapeChange: '1.5'
 ShapePattern: 3.1.0
@@ -9519,7 +9523,7 @@ SurvSparse: '0.1'
 SurvTrunc: 0.2.0
 SurveyCC: 0.2.1
 SurveyDefense: 0.2.0
-SurveyNCD: 0.1.0
+SurveyNCD: 0.2.0
 SurveySolutionsAPIv2: 0.1.2
 SurveyStat: 1.0.3
 Survgini: '1.0'
@@ -9815,7 +9819,7 @@ TensorMCMC: 0.1.0
 TensorPreAve: 1.1.0
 TensorTest2D: 1.1.2
 TensorTools: 1.0.0
-TernTables: 1.7.2
+TernTables: 1.8.0
 Ternary: 2.3.7
 TesiproV: 1.0.1
 TestAnaAPP: 1.1.2
@@ -15281,7 +15285,7 @@ disp2D: '1.0'
 dispRity: 1.9.12
 disparityfilter: 2.2.3
 dispeRse: '1.1'
-dispersionIndicators: 0.1.6
+dispersionIndicators: 0.2.0
 displayHTS: '1.0'
 displease: 1.0.0
 dispmod: '1.2'
@@ -16408,7 +16412,7 @@ esd4all: 1.0-9
 eseis: 0.8.1
 eselect: '1.1'
 esem: 2.0.0
-esemifar: 2.0.1
+esemifar: 2.0.2
 esgcalc: 0.2.0
 eshrink: 0.2.0
 esmisc: 0.0.3
@@ -16890,7 +16894,7 @@ fasterRaster: 8.4.1.2
 fasteraster: 1.1.1
 fasterize: 1.1.0
 fastfocal: 0.1.3
-fastgbm: 0.6.1
+fastgbm: 0.7.0
 fastgeojson: 0.3.0
 fastglm: 0.1.2
 fastglmpca: 0.1-108
@@ -17428,7 +17432,7 @@ forecastSNSTS: 1.3-0
 forecastdom: 0.1.1
 forecasteR: 3.0.2
 forecasting: '1.26'
-forecastsuite: 1.0.2
+forecastsuite: 1.0.3
 forega: 1.0.3
 foreign: 0.8-92
 forensIT: 1.1.1
@@ -17681,7 +17685,7 @@ funchir: 0.3.0-1
 funcml: 0.9.0
 functClust: 0.1.6
 functional: '0.7'
-functionals: 0.5.1
+functionals: 0.6.0
 functiondepends: 0.2.3
 functools: 0.2.0
 funcy: 1.0.1
@@ -18071,7 +18075,7 @@ genesysr: 2.2.0
 genetic.algo.optimizeR: 0.3.3
 geneticae: 1.0.1
 genetics: 1.3.8.1.3
-geneviewer: 0.1.11
+geneviewer: 0.2.0
 genevintage: 0.1.3
 genfrn: 0.1.4
 genie: 1.0.7
@@ -18717,6 +18721,7 @@ glmdm: '2.60'
 glme: 0.1.0
 glmertree: 0.2-7
 glmfitmiss: 2.1.0
+glmfsa: 1.0.1
 glmglrt: 0.2.2
 glmgraph: 1.0.3
 glmlep: '0.2'
@@ -19943,7 +19948,7 @@ iSubGen: 1.0.5
 iSubpathwayMiner: '3.0'
 iTOP: 1.0.2
 iTOS: 1.0.3
-iTensor: 1.0.7
+iTensor: 1.0.8
 iWISA: 1.0-2
 iWebPlots: 1.0-1
 iWeigReg: '1.1'
@@ -20146,6 +20151,7 @@ imbibe: 0.1.1
 imcExperiment: 0.99.0
 imdR: 0.4.0
 imdbapi: 0.1.0
+imedR: 0.3.3
 imf.data: 0.2.0
 imfapi: 0.1.2
 imfr: 0.1.9.1
@@ -21375,7 +21381,7 @@ leptokurticMixture: '1.1'
 leri: 0.0.1
 lero.lero: '0.2'
 less: 0.1.0
-lessR: 4.5.6
+lessR: 4.5.7
 lessSEM: 1.5.7
 lest: 1.1.0
 lestat: '1.9'
@@ -23847,6 +23853,7 @@ nauf: 1.1.0
 navigation: 0.0.2
 navigatr: 0.2.1
 nawtilus: 0.1.4
+naxp: 0.1.0
 nbTransmission: 1.2.0
 nbapalettes: 0.1.0
 nbc4va: '1.2'
@@ -23923,6 +23930,7 @@ neotoma: 1.7.4
 neotoma2: 1.1.1
 nephro: '1.5'
 neptune: 0.2.3
+nerfplus: 1.0.0
 nesRdata: 0.3.1
 nesstarR: 0.1.0
 nestable: 0.1.1
@@ -23932,6 +23940,7 @@ nestedRanksTest: '0.2'
 nestedcv: 0.9.0
 nestedmodels: 1.1.0
 nestedpp: 0.2.0
+nestedscales: 0.2.0
 nestfs: 1.0.3
 nestr: 0.1.2
 net.security: 0.3.0
@@ -26903,7 +26912,7 @@ quadraticSD: 0.1.0
 quadriceps: 0.1.0
 quadrupen: 1.1-0
 quadtree: 0.1.14
-quak: 0.1.1
+quak: 0.1.2
 qualCI: '0.1'
 qualV: 0.3-5
 qualityTools: '1.55'
@@ -27021,6 +27030,7 @@ r2r: 0.1.2
 r2redux: 1.0.18
 r2resize: '2.0'
 r2rtf: 1.3.1
+r2sbml: 0.1.0
 r2shortcode: '0.2'
 r2social: 1.2.1
 r2spss: 0.3.2
@@ -27773,7 +27783,7 @@ redatam: 2.3.1
 redatamx: 1.3.0
 redbookperu: 0.0.3
 redcapAPI: 2.12.0
-redcas: 0.1.1
+redcas: 0.2.1
 reddPrec: 3.0.2
 redditadsR: 0.1.0
 redeem: 1.1.0
@@ -28625,7 +28635,7 @@ round: 0.21-0.2
 roundRobinR: 2.0.0
 roundhouse: 0.0.2
 roundr: 1.0.0
-roundwork: 0.1.0
+roundwork: 0.2.0
 roundyh: 0.1.0
 routing: 1.1.1
 routr: 2.0.0
@@ -28880,7 +28890,7 @@ rtabulator: 0.1.2
 rtape: '2.2'
 rtdists: 0.12-0
 rtematres: '0.2'
-rtemis: 1.4.2
+rtemis: 1.4.3
 rtemis.a3: 0.6.1
 rtemis.core: 0.4.7
 rtemis.draw: 0.5.4
@@ -29217,6 +29227,7 @@ sarp.snowprofile.alignment: 2.0.2
 sarp.snowprofile.pyface: 0.4.3
 sars: 2.1.1
 sarsop: 0.6.16
+sas2r: 0.5.8
 sas7bdat: '0.8'
 sasLM: 1.0.1
 sasMap: 1.0.0
@@ -29823,6 +29834,7 @@ shapefiles: 0.7.2
 shapes: 1.2.8
 shapley: 0.7.0
 shapleyHALE: 0.1.0
+shapleydecomp: 1.0.0
 shapper: 0.1.3
 shapr: 1.1.0
 shapviz: 0.10.4
@@ -31224,7 +31236,7 @@ statswalesr: 1.0.0
 statuser: 0.4.1
 statwitness: 0.1.0
 stbimageheaders: 0.1.0
-stbl: 0.5.0
+stbl: 0.6.0
 stcm: 0.1.1
 stcos: 0.3.2
 stcov: 0.1.0
@@ -31396,7 +31408,7 @@ strip: 1.0.0
 stripless: 1.0-3
 striprtf: 0.6.0
 strm: 0.1.3
-strollur: 0.1.4
+strollur: 0.1.5
 strptimer: 0.1.0
 strs: 0.1.0
 strucchange: 1.6-0
@@ -31500,6 +31512,7 @@ superml: 0.5.7
 supernova: 3.0.2
 superpc: '1.12'
 superspreading: 0.4.0
+superstats: '1.0'
 supervisedPRIM: 2.0.0
 suppdata: 1.1-9
 support: 0.1.7
@@ -31984,7 +31997,7 @@ teal.widgets: 0.7.0
 tealeaves: 1.0.7
 teamcolors: 0.0.4
 teamr: 0.0.1
-tectonicr: 0.4.9
+tectonicr: 0.4.10
 teda: 0.1.1
 teems: 1.0.1
 tehtuner: 0.3.0
@@ -32114,7 +32127,7 @@ textpress: 1.1.1
 textrank: 0.3.1
 textrar: 0.9.0
 textreadr: 1.2.0
-textrecipes: 1.1.0
+textrecipes: 1.2.0
 textreg: 0.1.6
 textreuse: 1.0.2
 textshape: 1.7.5
@@ -32160,6 +32173,7 @@ thamesblock: 0.1.0
 thamesmix: 0.1.4
 thankr: 1.0.0
 theRefdate: 1.1.0
+theaitetos: 0.1.0
 thectar: 1.0.0
 theeuh: 0.1.5
 theft: 0.8.4
@@ -32849,7 +32863,7 @@ tryr: 0.1.1
 ts.extend: 0.1.1
 ts2net: 0.1.0
 tsBSS: 1.0.1
-tsDyn: 11.0.5.2
+tsDyn: 11.0.6
 tsLSTMx: 0.1.0
 tsModel: 0.6-2
 tsPI: 1.0.4
@@ -33697,6 +33711,7 @@ wav: 0.2.0
 wavScalogram: 1.1.3
 waveband: 4.7.4
 waveclock: 1.0-4
+wavecov: 0.1.0
 waved: '1.3'
 waveformlidar: 1.2.0
 wavefunction: 1.0.0
