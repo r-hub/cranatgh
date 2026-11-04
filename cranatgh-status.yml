@@ -1175,6 +1175,7 @@ CCM: '1.2'
 CCMMR: 0.2.3
 CCMnet: 1.1.2
 CCMtools: '1.0'
+CCNR: 0.2.0
 CCP: '1.2'
 CCSRfind: 0.1.0
 CCTpack: 1.5.2
@@ -1745,6 +1746,7 @@ CompositionalSR: '1.5'
 CompositionalZADR: '1.1'
 Compositionalasmr: '1.0'
 Compositionalcln: '1.1'
+Compositionalridge: '1.0'
 Compositionalscsmr: '1.0'
 Compositionalzerocens: '1.1'
 CompoundEvents: '1.0'
@@ -1995,6 +1997,7 @@ DCchoice: 0.2.0
 DChaos: 0.1-7
 DCluster: 0.2-10
 DClusterm: 1.0-2
+DDAWASS: 1.0.0
 DDD: 5.2.5
 DDESONN: 7.1.11
 DDHFm: 1.1.4
@@ -2637,7 +2640,7 @@ ENiRG: 1.0.1
 ENmisc: 1.2-7
 EPGLM: 1.1.2
 EPGMr: 1.0.0
-EPLSIM: 1.0.1
+EPLSIM: 1.1.0
 EPP: 0.3.6.1
 EPT: 0.7.6
 EPX: 1.0.4
@@ -4201,6 +4204,7 @@ IMP: '1.1'
 IMPACT: 0.1.1
 IMR: 1.0.0
 IMTest: 1.0.0
+IMW: '1.1'
 IMWatson: 0.5.0
 IMaGES: 0.1.1
 IMak: 2.1.2
@@ -6233,7 +6237,7 @@ OmicsQC: 1.1.1
 Omisc: 0.2.0
 OmnibusFisher: '1.0'
 OmopConstructor: 0.3.0
-OmopIndices: 0.2.0
+OmopIndices: 0.3.0
 OmopOnSpark: 0.1.0
 OmopSketch: 1.1.1
 OmopStudyBuilder: 0.1.1
@@ -8281,7 +8285,7 @@ Rmonize: 2.0.0
 Rmonkey: 0.3.1
 Rmosek: 1.3.5
 Rmpfr: 1.1-3
-Rmpi: 0.7-3.4
+Rmpi: 0.7-4.1
 Rmst: 0.0.3
 Rnanoflann: 0.0.3
 Rnaught: 0.1.0
@@ -8298,7 +8302,7 @@ Rnumerai: 3.0.1
 Rnvd3: 1.0.0
 RoBMA: 4.0.0
 RoBSA: 1.0.4
-RoBTT: 1.3.1
+RoBTT: 1.4.0
 RoME: 0.2.4
 RobAStBase: 1.2.7
 RobAStRDA: 1.2.2
@@ -8432,7 +8436,7 @@ Rtwalk: 2.2.0
 Rtwobitlib: 0.3.10
 RuHere: 1.1.1
 Ruchardet: 0.0-3.1
-Ruido: 1.2.1
+Ruido: 1.2.2
 RulesTools: 0.1.1
 Runiversal: 1.0.2
 Runuran: '0.41'
@@ -8549,6 +8553,7 @@ SCINA: 1.2.0
 SCIntRuler: 0.99.8
 SCIproj: 1.0.1
 SCMA: 1.3.1
+SCMs: 0.1.1
 SCOPRO: 0.1.0
 SCOR: 1.1.2
 SCORER2: 0.99.0
@@ -9255,7 +9260,7 @@ SomaDataIO: 6.6.1
 SongEvo: 1.0.0
 SorptionAnalysis: 0.1.0
 SortableHTMLTables: 0.1-3
-SortedEffects: 1.7.0
+SortedEffects: '2.0'
 SoundShape: 1.3.2
 SoundexBR: '1.2'
 SoupX: 1.6.2
@@ -13412,7 +13417,7 @@ clinical: '0.1'
 clinicalfair: 0.1.0
 clinicalomicsdbR: 1.0.6
 clinicalsignificance: 3.0.0
-clinify: 0.4.0
+clinify: 0.4.1
 clinmon: 0.6.0
 clinpubr: 1.4.3
 clinsig: '1.2'
@@ -14848,7 +14853,7 @@ ddml: 0.3.1
 ddp: 0.0.3
 ddpca: '1.1'
 ddpcr: 1.16.0
-ddplot: 0.1.0
+ddplot: 0.2.0
 ddsPLS: 1.2.1
 ddst: 1.6.12
 ddtlcm: 0.2.1
@@ -14930,6 +14935,7 @@ default: 1.0.0
 define: 0.2.9
 defineOptions: '0.9'
 defineR: 0.0.6
+definecore: 0.1.1
 deflateBR: 1.1.2
 deflist: 0.2.0
 defm: 0.2.1.0
@@ -14960,7 +14966,7 @@ delta.sharing: 0.2.1
 deltaPlotR: '1.9'
 deltabreedquery: 1.0.4
 deltaccd: 1.0.2
-deltapif: 0.4.5
+deltapif: 0.5.0
 deltar: 1.0.0
 deltatest: 0.2.0
 dematel: 0.1.0
@@ -16180,7 +16186,7 @@ enRich: '3.1'
 enaR: 3.0.0
 enaho: 0.2.5
 enc: 0.2.2
-encharter: '0.12'
+encharter: '0.13'
 encode: 0.3.7
 encryptedRmd: 0.2.1
 encryptr: 0.1.4
@@ -16695,6 +16701,7 @@ ezmmek: 0.2.4
 ezpickr: 2.1.0
 ezplot: 0.8.2
 ezr: 0.1.5
+ezrsurvey: 0.7.1
 ezsim: 0.5.5
 ezsummary: 0.2.1
 f1dataR: 2.0.1
@@ -17553,7 +17560,7 @@ frailtyHL: '2.3'
 frailtyMMpen: 1.2.1
 frailtyROC: 1.0.0
 frailtySurv: 1.3.8
-frailtypack: 3.8.1
+frailtypack: 3.8.2
 frair: 0.5.203
 frambgrowth: 0.1.0
 framecleaner: 0.2.1
@@ -19412,7 +19419,7 @@ hddplot: 0.59-2
 hddtools: 0.9.4
 hdeco: 0.4.1
 hdf5: 1.6.9
-hdf5lib: 2.2.0.0
+hdf5lib: 2.2.0.1
 hdf5r: 1.3.16
 hdf5r.Extra: 0.1.0
 hdflex: 0.3.2
@@ -21061,6 +21068,7 @@ kpiwidget: 0.1.1
 kpmt: 0.1.0
 kpodclustr: '1.1'
 kpp2019: 0.0.1
+kpqc: 0.1.0
 kriens: '0.1'
 krige: 0.6.2
 kriging: '1.2'
@@ -22370,6 +22378,7 @@ mdendro: 2.3.0
 mdftracks: 0.2.2
 mdgc: 0.1.7
 mdhglm: '1.8'
+mdiharmonize: 0.1.0
 mdir: 0.9.0
 mdir.logrank: 0.0.4
 mditools: 0.1.1
@@ -22638,7 +22647,7 @@ mfx: 1.2-4
 mgarchBEKK: 0.0.5
 mgc: 2.0.2
 mgcViz: 0.2.1
-mgcv: 1.9-4
+mgcv: 1.9-5
 mgee2: '0.6'
 mggd: 1.3.7
 mgi.report.reader: 0.1.3
@@ -22941,7 +22950,7 @@ mixture: 2.2.1
 mixvlmc: 0.2.2
 mize: 0.3.0
 mizer: 3.4.0
-mizu: 0.0.1
+mizu: 0.1.0
 mkde: '0.4'
 mkin: 1.2.10
 mknapsack: 0.1.0
@@ -28691,6 +28700,7 @@ rpinterest: 0.3.1
 rpivotTable: 0.4.0
 rpkgkit: 0.1.7
 rplanes: 0.1.0
+rplatypus: 0.2.1
 rplec: 0.1.3
 rplexos: 1.1.11
 rplos: 1.0.0
@@ -30611,7 +30621,7 @@ spEDM: '1.13'
 spFFBS: 1.0-1
 spFSR: 2.0.4
 spFW: 0.1.0
-spGARCH: 0.2.3
+spGARCH: 0.2.4
 spGoogle: 0.1-2
 spINAR: 0.2.0
 spMC: 0.3.16
@@ -33132,7 +33142,7 @@ uncertainty: 0.3.0
 uncmbb: 0.2.2
 uncompress: '1.34'
 uncorbets: 0.1.2
-underdisp: 0.1.2
+underdisp: 0.2.0
 understandBPMN: 1.1.1
 undidR: 3.0.2
 undomanager: 0.2.0
