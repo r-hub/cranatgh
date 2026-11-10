@@ -1117,7 +1117,7 @@ CAGExploreR: 1.0.2
 CAGR: 1.1.1
 CAISEr: 1.0.17
 CALANGO: 1.0.20
-CALF: 1.0.17
+CALF: 1.2.0
 CALIBERrfimpute: 1.0-8
 CALINE3: 1.0-2
 CAM: '1.0'
@@ -5607,7 +5607,7 @@ MethodOpt: 1.0.0
 Methplot: '1.0'
 MethyBayes: 0.1.0
 MethylCapSig: 1.0.1
-MetricGraph: 1.6.0
+MetricGraph: 1.7.0
 Metrics: 0.1.4
 MetricsWeighted: 1.0.4
 MexBrewer: 0.0.2
@@ -5862,7 +5862,7 @@ NB.MClust: 1.1.1
 NBAloveR: 0.1.3.3
 NBBDesigns: 1.2.0
 NBBttest: 1.0.1
-NBDCtools: 1.1.0
+NBDCtools: 1.1.2
 NBDdirichlet: '1.4'
 NBDesign: 2.0.0
 NBKP: 0.1.0
@@ -7473,7 +7473,7 @@ RKEELdata: 1.0.5
 RKEELjars: 1.0.20
 RKHSMetaMod: '1.1'
 RKUM: 0.1.1.1
-RKaggle: 0.1.1
+RKaggle: 0.1.2
 RKelly: '1.0'
 RKlout: '1.0'
 RKorAPClient: 1.4.1
@@ -9178,7 +9178,7 @@ SimilarityMeasures: '1.4'
 Simile: 1.3.4
 SimpleTable: 0.1-2
 SimpleUpset: 0.1.6
-SimplexRegression: 0.1.6
+SimplexRegression: 0.1.7
 SimplicialComplex: 0.2.1
 SimplicialCubature: '1.3'
 SimplifyStats: 2.0.4
@@ -9401,7 +9401,7 @@ StakeholderAnalysis: '1.2'
 StanHeaders: 2.39.1.1
 StanMoMo: 1.2.0
 StandardizeText: '1.0'
-Stat2Data: 2.0.0
+Stat2Data: 2.0.1
 StatCharrms: 0.90.96
 StatDA: 1.7.11
 StatDataML: 1.0-27
@@ -10256,7 +10256,7 @@ VisualDom: 0.8.0
 Visualize.CRAN.Downloads: 1.0.3
 VisualizeSimon2Stage: 0.2.3
 VizCompX: '0.1'
-VizModules: 0.5.0
+VizModules: 0.6.0
 VizOR: 0.8-5
 VizTest: '0.8'
 VoronoiBiomedPlot: '0.4'
@@ -10439,7 +10439,7 @@ XRJulia: 0.9.0.1
 XRPython: '0.8'
 XRSCC: '0.2'
 XReg: '1.0'
-XSLmodels: 0.4.0
+XSLmodels: 0.5.0
 XSRecencyX: 0.1.0
 XYomics: 0.1.5
 Xcertainty: 1.0.1
@@ -10472,7 +10472,7 @@ ZIBR: 1.0.3
 ZIBseq: '1.2'
 ZIDW: 0.1.0
 ZIGP: '3.8'
-ZIHINAR1: 0.3.0
+ZIHINAR1: 0.3.1
 ZIM: 1.1.2
 ZIM4rv: 0.1.1
 ZINAR1: 0.1.0
@@ -11298,6 +11298,7 @@ asd: '2.2'
 asdreader: 0.1-3
 ash: 1.0-15
 ashapesampler: 1.0.0
+asharechips: 0.2.1
 ashr: 2.2-63
 asht: 1.0.3
 askgpt: 0.1.3
@@ -11723,7 +11724,7 @@ bayesTFR: 7.4-5
 bayesTLS: 1.0.0
 bayesWatch: 0.1.4
 bayesZIB: 0.0.5
-bayesammi: 0.3.0
+bayesammi: 1.0.0
 bayesanova: '1.6'
 bayesassurance: 0.1.0
 bayesbio: 1.0.0
@@ -11776,7 +11777,7 @@ baymedr: '0.2'
 baymvb: 1.0.4
 bayou: 2.3.2
 bayprior: 0.6.0
-baystability: 0.2.0
+baystability: 1.0.0
 baytaAAR: 1.0.3
 baytrends: 2.0.14
 bazar: 1.0.11
@@ -13091,7 +13092,7 @@ cfcompare: 0.2.1
 cfda: 0.12.1
 cfdecomp: 0.4.0
 cffdrs: 1.9.2
-cffr: 1.4.2
+cffr: 1.4.3
 cfid: 0.1.8
 cfma: '1.0'
 cfmortality: 0.3.0
@@ -13918,7 +13919,7 @@ conjurer: 1.7.1
 conleyreg: 0.1.9
 conmet: 0.1.0
 connect3: 0.1.0
-connectapi: 0.12.1
+connectapi: 0.13.0
 connectcreds: 0.2.0
 connected: '1.2'
 connectedness: 0.2.2
@@ -14234,7 +14235,7 @@ cpp11eigen: 0.2.0
 cpp11qpdf: 1.3.5
 cpp11tesseract: 5.3.5
 cpp4r: 1.3.0
-cppRouting: '3.2'
+cppRouting: '4.0'
 cppSim: '0.2'
 cppally: 1.2.1
 cppcheckR: 1.0.0
@@ -14847,7 +14848,7 @@ dcmodify: 0.9.0
 dcmodifydb: 0.3.1
 dcmr: '1.0'
 dcmstan: 0.1.0
-dcorBSS: 1.0-0
+dcorBSS: 1.0-1
 dcorVS: '1.1'
 dcortools: 0.2.2
 dcov: 0.1.1
@@ -15547,7 +15548,7 @@ dplyrAssist: 0.1.0
 dpm: 1.3.0
 dpmixsim: 0.0-9
 dpmr: 0.1.9
-dppca: 0.1.0
+dppca: 1.0.0
 dppmix: 0.1.2
 dprep: 3.0.2
 dprint: 0.0.4
@@ -16492,6 +16493,7 @@ etrunct: '0.1'
 etseed: 0.1.0
 etsi: '1.0'
 etwfe: 0.6.2
+euaiact: 0.1.1
 eudata: 0.1.3
 eudract: 1.1.1
 eufmdis.adapt: 0.1.0
@@ -16813,7 +16815,7 @@ factset.protobuf.stachextensions: 1.0.4
 factualR: '0.5'
 fad: 0.9-3
 faersquarterlydata: 1.3.0
-fahb: 1.0.1
+fahb: 1.0.2
 fail: '1.3'
 fairGATE: 1.0.0
 fairGNN: 0.1.0
@@ -16855,6 +16857,7 @@ faq: 0.1.1
 far: 0.6-7
 faraway: 1.0.9
 farff: 1.1.1
+farfima: 0.1.0
 farmPartial: 0.1.0
 farmR: '1.1'
 farr: 1.1.1
@@ -17504,7 +17507,7 @@ foretell: 0.2.0
 forge: 0.2.1
 forgts: 0.0.1
 fork: 1.2.4
-form.model: 0.3.2
+form.model: 0.6.2
 formatBibtex: 0.1.1
 formatR: '1.14'
 formatdown: 0.2.0
@@ -18214,7 +18217,7 @@ geometry: 0.5.2
 geommc: 1.3.2
 geomnet: 0.3.1
 geomod: 0.1.0
-geomorph: 4.1.1
+geomorph: 4.1.2
 geomorphR: 0.2.1
 geomtextpath: 0.2.0
 geomultistar: 1.2.2
@@ -18241,7 +18244,7 @@ geosapi: 0.8-1
 geoscale: 2.0.1
 geosed: 0.1.1
 geosimilarity: '3.9'
-geosmooth: 0.1.0
+geosmooth: 0.2.0
 geospacom: 0.5-8
 geospark: 0.3.1
 geospatialsuite: 0.2.0
@@ -18552,6 +18555,7 @@ ggprism: 1.0.7
 ggpsychro: 0.1.0
 ggpubr: 1.0.0
 ggpval: 0.2.5
+ggpyramid: 0.1.0
 ggquickeda: 0.3.3
 ggquiver: 0.5.0
 ggragged: 0.2.0
@@ -21199,7 +21203,7 @@ lamle: 0.3.1
 lamme: 0.0.1
 lancet.iraqmortality: 0.2-0
 lancor: 0.1.3
-land4health: 0.3.0
+land4health: 0.3.2
 lande: 0.1.0
 landest: '1.2'
 landform: 0.3.0
@@ -24526,7 +24530,7 @@ nysOpenData: 0.1.3
 nytR: '0.1'
 nzelect: 0.4.0
 nzffdr: 2.1.0
-nzilbb.labbcat: 1.5-1
+nzilbb.labbcat: 1.6-0
 nzilbb.vowels: 0.4.3
 nzpullover: 0.3.0
 o2geosocial: 1.1.3
@@ -24627,7 +24631,7 @@ oec: 2.7.8
 oecdoda: 0.2.0
 oeis.tools: 0.3.1
 oeli: 0.7.9
-oem: 2.0.12
+oem: 2.1.0
 oenb: 0.1.0
 oes: 1.0.0
 oesir: 0.3.2
@@ -26055,7 +26059,7 @@ pmr: 1.2.5.1
 pmrm: 0.0.4
 pmsampsize: 1.1.3
 pmsesampling: 0.1.1
-pmsims: 1.0.0
+pmsims: 1.1.0
 pmultinom: 1.0.0
 pmvalsampsize: 0.1.0
 pmwg: 0.2.7
@@ -29920,7 +29924,7 @@ shelltrace: 3.5.1
 shelter: 0.2.1
 sherlock: 0.7.0
 shewhartr: 1.4.0
-shidashi: 0.3.0
+shidashi: 0.3.1
 shide: 0.4.0
 shiftR: '1.6'
 shinipsum: 0.1.1
@@ -31215,7 +31219,7 @@ staninside: 0.0.4
 stanza: 1.0-3
 stapler: 0.8.0
 staplr: 3.2.2
-starburst: 0.3.11
+starburst: 0.3.12
 stargazer: 5.2.3
 stargazer2: 0.1.2
 starling: 1.1.0
@@ -33498,7 +33502,7 @@ vecsets: '1.4'
 vectools: 0.3.0
 vectoptim: '0.2'
 vectorbitops: 1.1.2
-vectorialcalculus: 1.0.5
+vectorialcalculus: 2.0.0
 vectorsurvR: 1.6.3
 vectorwavelet: 0.1.0
 vectra: 0.14.1
@@ -33948,7 +33952,7 @@ widr: 0.1.1
 widyr: 0.1.5
 wiesbaden: 1.2.10
 wig: 0.1.0
-wikiTools: 1.2.26
+wikiTools: 1.2.27
 wikibooks: 0.2.1
 wikifacts: 0.4.2
 wikilake: 0.7.0
