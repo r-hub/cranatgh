@@ -87,7 +87,7 @@ AIG: 0.1.9
 AIGENIE: 2.1.2
 AIGIS: 1.0-1
 AIGRA: 0.2.0
-AIGovernance: 0.1.0
+AIGovernance: 0.2.0
 AIM: '1.01'
 AIPW: 0.6.9.3
 AIS: '1.0'
@@ -1596,7 +1596,7 @@ Cleanet: 1.0.0
 CleaningValidation: '1.0'
 ClickClust: 1.1.6
 ClickClustCont: 0.1.7
-ClickHouseHTTP: 1.1.2
+ClickHouseHTTP: 1.1.3
 CliftLRD: 0.1-2
 ClimClass: 2.1.1
 ClimDown: 1.0.8
@@ -1940,7 +1940,7 @@ DACF: 1.1.0
 DACT: 1.0.4
 DAFOT: 0.0.1
 DAGGER: '1.4'
-DAGassist: 0.3.0
+DAGassist: 0.3.1
 DAIME: 2.1.3
 DAISIE: 5.0.2
 DAISIEprep: 1.0.1
@@ -2387,7 +2387,7 @@ DiffusionRjgqd: 0.1.1
 DigestiveDataSets: 0.2.0
 Digiroo2: '0.6'
 Dimodal: 1.0.4
-DirStats: 0.1.10
+DirStats: 1.0.0
 Dire: 2.2.0
 DirectEffects: '0.3'
 DirectStandardisation: '1.3'
@@ -2528,7 +2528,7 @@ ECMLE: 0.1.0
 ECOSolveR: 0.6.2
 ECOTOXr: 1.2.5
 ECSFargateProvider: 1.0.0
-ECTSVR: 0.1.0
+ECTSVR: 0.2.0
 ECTTDNN: 0.1.0
 ECctmc: 0.2.5
 ECharts2Shiny: 0.2.13
@@ -4034,6 +4034,7 @@ HiLMM: '1.1'
 HiPLARM: '0.1'
 HiResTEC: 0.63.1
 HiddenMarkov: 1.8-14
+HiddenTrunc: 0.2.1
 HierDpart: 1.5.0
 HierO: '0.2'
 HierPorfolios: 0.1.0
@@ -4344,7 +4345,7 @@ ImputeRobust: 1.3-1
 InDisc: 1.1.0
 InPosition: 1.0.0
 InSilicoVA: 1.4.2
-IncAAM: '1.8'
+IncAAM: '1.9'
 IncDTW: 1.1.4.6
 IncidencePrevalence: 1.2.1
 IncomPair: 0.1.0
@@ -4909,7 +4910,7 @@ LipidMS: 3.1.3
 LipidMSdata: 1.0.0
 LipidomicsR: 0.3.6
 LipinskiFilters: 1.0.1
-LitFetchR: 1.0.0
+LitFetchR: 1.1.0
 Lmoments: 1.3-2
 LncFinder: 1.1.6
 LncMod: '1.1'
@@ -5140,7 +5141,7 @@ MFDFA: '1.1'
 MFF: 0.2.5
 MFHD: 0.0.1
 MFKnockoffs: 0.9.1
-MFO: 0.1.0
+MFO: 0.2.1
 MFPCA: 1.3-11
 MFRCD: 0.1.1
 MFSAS: 1.0-0
@@ -7018,6 +7019,7 @@ Pstat: '1.2'
 PsumtSim: '0.4'
 PsyControl: 1.0.0.0
 PsyLingLLM: 0.4.0
+PsyML: 2.4.2
 PsyMetricTools: 1.2.4
 PsyToolkit: 1.1.6
 PsychWordVec: '2025.11'
@@ -9084,7 +9086,7 @@ SequenceAnalysis: '1.3'
 SequenceSpikeSlab: 1.0.1
 Sequential: 4.6.3
 SequentialDesign: '1.0'
-SeroTrackR: 1.1.1
+SeroTrackR: 1.1.2
 SerolyzeR: 1.5.0
 SesIndexCreatoR: 1.0-2
 SetMethods: '4.1'
@@ -9713,7 +9715,7 @@ TSANN: 0.1.0
 TSAgg: 1.0.1
 TSCI: 3.0.5
 TSCS: 0.1.1
-TSDFGS: '2.0'
+TSDFGS: 3.0.0
 TSDT: 1.0.8
 TSE: 0.1.0
 TSEAL: 0.1.5
@@ -10111,7 +10113,7 @@ UnitStat: 1.1.0
 Unitary: 0.3.11
 UnivRNG: 1.2.3
 UniversalCVI: 2.0.0
-Uno: 2.9.2-1
+Uno: 2.9.2-2
 UnplanSimon: 0.1.0
 UpAndDownPlots: 0.5.0
 UpDown: 1.2.3
@@ -10871,7 +10873,7 @@ aiRthermo: 1.2.2
 aibd: 0.1.9
 aidR: 0.2.4
 aidar: 1.0.5
-aidatabroker: 0.1.0
+aidatabroker: 0.2.0
 aides: 1.3.3
 aieconindex: 0.2.0
 aif360: 0.1.0
@@ -11128,6 +11130,7 @@ aphylo: 0.3-6
 api2lm: '0.2'
 apifetch: 0.2.0
 apisensr: 2.0.1
+aplime: 0.1.0
 aplms: 0.1.0
 aplore3: '0.9'
 aplot: 0.3.2
@@ -11341,7 +11344,7 @@ assertive.reflection: 0.0-5
 assertive.sets: 0.0-3
 assertive.strings: 0.0-3
 assertive.types: 0.0-3
-assertr: 3.0.1
+assertr: 3.1.0
 assertthat: 0.2.1
 assessor: 1.3.2
 assignPOP: 1.3.1
@@ -11421,6 +11424,7 @@ aurelius: 0.8.4
 aurin: 0.6.0
 aurora: 0.1.12
 ausOpenData: 0.1.0
+ausPH: 1.0.1
 ausplotsR: 2.0.5
 auteur: 0.12.1010
 auth0: 0.3.0
@@ -11559,7 +11563,7 @@ babsim.hospital: 11.8.8
 babyTimeR: 0.1.0
 babynames: 1.0.1
 babynamesIL: 0.2.3
-bacenR: 0.5.1
+bacenR: 0.6.0
 bacistool: 1.0.0
 backShift: 0.1.4.3
 backblazer: 0.1.0
@@ -11584,6 +11588,7 @@ bagRboostR: 0.0.2
 bage: 0.10.11
 bagged.outliertrees: 1.0.0
 baggedcv: '1.0'
+baggingReserve: 0.2.0
 baggingbwsel: '1.1'
 baggr: 0.8.2
 baguette: 1.1.0
@@ -12580,6 +12585,7 @@ bslibdash: 0.7.5
 bsml: 1.5-1
 bsnsing: 1.0.1
 bsocialv2: 0.2.1
+bspam: 1.2.6
 bspcov: 1.0.3
 bspec: '1.6'
 bspline: 2.6.0
@@ -13285,7 +13291,7 @@ cidian: 0.1.0
 ciecl: 1.0.0
 cif: 0.1.1
 ciflyr: 0.1.2
-cifmodeling: 1.2.3
+cifmodeling: 1.2.4
 cifti: 0.5.0
 ciftiTools: 0.21.1
 cimir: 0.4-1
@@ -13760,6 +13766,7 @@ colr: 0.1.900
 cols: '1.7'
 cols4all: '0.10'
 colt: 0.1.1
+colvR: 0.2.1
 comFuncs: 0.0.6
 comat: 0.9.7
 comato: '1.1'
@@ -14243,7 +14250,7 @@ cpp11eigen: 0.2.0
 cpp11qpdf: 1.3.5
 cpp11tesseract: 5.3.5
 cpp4r: 1.3.0
-cppRouting: '4.0'
+cppRouting: '4.1'
 cppSim: '0.2'
 cppally: 1.2.1
 cppcheckR: 1.0.0
@@ -14286,7 +14293,7 @@ crbcc: 0.1.0
 crblocks: 1.0-0
 crc32c: 0.0.3
 crch: 1.2-3
-crctStepdown: 0.5.2
+crctStepdown: 0.5.3
 cre.dcf: 0.0.5
 createLogicalPCM: 0.1.0
 credentials: 2.0.3
@@ -14782,7 +14789,7 @@ datetimeoffset: 1.0.0
 datetimeutils: 0.6-6
 datetoiso: 1.2.1
 dateutils: 0.1.5
-datey: 0.1.2
+datey: 0.1.3
 datom: 0.2.0
 datoramar: 0.1.0
 datos: 0.5.1
@@ -15052,7 +15059,7 @@ depictr: 0.3.0
 depigner: 0.9.1
 depmix: 0.9.16
 depmixS4: 1.5-4
-depower: 2026.1.30
+depower: 2026.11.11
 deprivateR: 0.2.0
 deps: 0.4.1
 depth: 2.1-1.1
@@ -15732,10 +15739,10 @@ dupree: 0.3.0
 durmod: 1.1-4
 dverse: 0.2.0
 dvfBm: '1.0'
-dvir: 3.4.2
+dvir: 3.5.1
 dvmisc: 1.1.4
 dvn: 0.3.5
-dvqcc: 0.1.0
+dvqcc: 0.1.1
 dwapi: 0.1.3.1
 dwctaxon: 2.0.4
 dwdradar: 0.2.13
@@ -15829,7 +15836,7 @@ eRTG3D: 0.7.0
 eRm: 1.0-10
 eSDM: 0.4.4
 eSIR: 0.4.2
-eVCGsampler: 1.2.0
+eVCGsampler: 1.2.1
 eVenn: '2.4'
 eadrm: 0.1.4
 eaf: 2.5.2
@@ -15845,7 +15852,7 @@ earthtones: 0.2.0
 easi: '0.2'
 easieRnmt: 0.0.5
 easingr: 1.0.1
-easy.glmnet: '1.2'
+easy.glmnet: '1.3'
 easy.utils: 0.1.0
 easyAHP: 0.1.1
 easyCODA: 0.40.2
@@ -17013,6 +17020,7 @@ fcm: 0.1.3
 fcmfd: 0.1.2
 fcp: 0.1.0
 fcr: '1.0'
+fcrci: 0.1.0
 fcros: 1.6-6
 fctbases: 1.1.1
 fctutils: 0.0.7
@@ -18252,7 +18260,7 @@ geosapi: 0.8-1
 geoscale: 2.0.1
 geosed: 0.1.1
 geosimilarity: '3.9'
-geosmooth: 0.2.0
+geosmooth: 0.2.1
 geospacom: 0.5-8
 geospark: 0.3.1
 geospatialsuite: 0.2.0
@@ -18288,7 +18296,7 @@ gesisdata: 0.1.2
 geslaR: 1.0-3
 gesso: 1.0.2
 gestalt: 0.2.0
-gestate: 1.6.0
+gestate: 1.6.2
 gesttools: 1.3.0
 getCRUCLdata: 2.0.0
 getDTeval: 0.0.2
@@ -18952,6 +18960,7 @@ googledrive: 2.2.0
 googleformr: 0.0.3
 googlenlp: 0.2.0
 googler: 0.0.1
+googlesecretmanager: 0.2.1
 googlesheets: 0.3.0
 googlesheets4: 1.1.3
 googletraffic: 0.1.8
@@ -19327,7 +19336,7 @@ gyro: 1.4.0
 h0: 1.0.1
 h2o: 3.44.0.3
 h2o4gpu: 0.3.3
-h2oplyr: 0.2.6
+h2oplyr: 0.3.0
 h2otools: '0.4'
 h3jsr: 1.3.1
 h3lib: 0.1.4
@@ -20624,7 +20633,7 @@ isodistrreg: 0.6.0
 isoexplorer: 0.5.0
 isogeochem: 1.1.1
 isokernel: 0.1.0
-isoniche: 1.0.0
+isoniche: 1.1.0
 isoorbi: 1.5.2
 isopam: '3.7'
 isopat: '1.0'
@@ -20877,7 +20886,7 @@ juicedown: 0.1.2
 juicr: '0.2'
 juicyjuice: 0.1.0
 jumble: 0.2.0
-jumps: 2.0.0
+jumps: 2.0.3
 junco: 0.1.7
 junctions: 2.1.4
 junr: 0.1.3
@@ -21279,7 +21288,7 @@ latticeExtra: 0.6-31
 latticedl: '1.2'
 latticist: 0.9-44
 lavDiag: 0.1.0
-lava: '1.10'
+lava: '1.11'
 lava.tobit: '0.5'
 lavaSearch2: 2.0.3
 lavaan: 0.7-3
@@ -21933,7 +21942,7 @@ lumberjack: 1.3.1
 lumbermark: 0.9.1
 lumendb: 0.2.2
 lunar: 0.2-1
-lupa: 0.1.0
+lupa: 0.1.1
 lutz: 0.3.2
 luz: 0.5.2
 luzlogr: 0.2.1
@@ -22202,7 +22211,7 @@ marlod: 0.2.3
 marmap: 1.0.12
 marp: 0.1.1
 marqLevAlg: 2.0.8
-marquee: 1.2.1
+marquee: 1.3.0
 marradistrees: '1.0'
 mars: 0.2.2
 marsearth: 0.0.0
@@ -24374,7 +24383,7 @@ norm2: 2.0.4
 normalblockr: 0.3.0
 normaliseR: 0.1.2
 normality: 0.0.4
-normalize: 0.1.3
+normalize: 0.2.0
 normalizeH: 1.0.0
 normalp: 0.7.2.1
 normalr: 1.0.0
@@ -26232,7 +26241,7 @@ portfolio: 0.5-3
 portfolio.optimization: 1.0-0
 portfolioBacktest: 0.4.2
 portfolioSim: 0.2-7
-portion: 0.1.3
+portion: 0.2.0
 portn: 1.0.0
 portsort: 0.1.0
 portvine: 1.0.3
@@ -26581,6 +26590,7 @@ propensity: 0.1.0
 propertee: 1.0.6
 properties: 0.0-9
 prophet: 1.1.7
+propop: 2.2.1
 proportion: 2.0.0
 proporz: 1.6.0
 propr: 4.2.6
@@ -28104,6 +28114,7 @@ resquin: 0.1.1
 restatapi: 0.30.0
 restatis: 0.4.1
 restaurant: 0.1.0
+rester: 0.1.0
 restez: 2.1.5
 restfulr: 0.0.17
 restimizeapi: 1.0.0
@@ -28478,7 +28489,7 @@ rmdshower: 2.1.1
 rmdwc: 0.3.1
 rmedsem: 1.1.0
 rmerec: 0.1.1
-rmet: 0.3.0
+rmet: 0.4.0
 rmeta: '3.0'
 rmetalog: 1.0.3
 rmetasim: 3.1.14
@@ -29559,7 +29570,7 @@ sdcLog: 0.5.1
 sdcMicro: 5.8.2
 sdcMicroGUI: 1.4.0
 sdcSpatial: 0.6.1
-sdcTable: 0.34.0
+sdcTable: 0.34.1
 sdcTarget: 0.9-11
 sddpack: '0.9'
 sddr: 0.1.1
@@ -30235,7 +30246,7 @@ simfinapi: 1.0.1
 simfit: 0.1.0
 simglm: 1.0.0
 simgof: 1.0.2
-simhelpers: 0.3.1
+simhelpers: 0.3.2
 similarityRichards: 0.5.0
 similr: 1.0.0
 simitation: 0.0.7
@@ -31591,7 +31602,7 @@ superMDS: 1.0.2
 superMICE: 1.1.1
 superb: 1.0.1
 superbiclust: '1.2'
-supercells: 1.0.0
+supercells: 2.0.1
 supercompress: '1.1'
 superdiag: '2.0'
 superheat: 0.1.0
@@ -31967,6 +31978,7 @@ tagr: 1.0.1
 tagtools: 0.3.0
 tailDepFun: 1.0.1
 tailTransform: 2.0.0
+tailcdf: 0.1.0
 tailloss: '1.0'
 tailor: 0.1.0
 tailplots: 0.1.1
@@ -33217,7 +33229,7 @@ uncertainty: 0.3.0
 uncmbb: 0.2.2
 uncompress: '1.34'
 uncorbets: 0.1.2
-underdisp: 0.2.0
+underdisp: 0.2.1
 understandBPMN: 1.1.1
 undidR: 3.0.2
 undomanager: 0.2.0
@@ -34177,7 +34189,7 @@ xegaMigration: 0.5.0.4
 xegaPermGene: 1.0.0.2
 xegaPopulation: 1.0.0.16
 xegaSelectGene: 1.0.0.4
-xemd: 0.1.6
+xemd: 0.1.7
 xergm: 1.8.3
 xergm.common: 1.7.8
 xesreadR: 0.2.3
