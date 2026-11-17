@@ -30,7 +30,7 @@ ACSSpack: 1.0.0.2
 ACSWR: 1.0.1
 ACTCD: 1.4-0
 ACV: 1.0.2
-ACWR: 0.1.0
+ACWR: 0.2.0
 ADAPTS: 1.0.22
 ADCT: 0.1.0
 ADDT: '2.0'
@@ -1432,7 +1432,7 @@ CTxCC: 0.4.0
 CUB: 1.1.5
 CUFF: '1.9'
 CUMP: '2.0'
-CUNYsports: 0.1.0
+CUNYsports: 0.1.1
 CUSUMdesign: 1.1.8
 CUtools: 0.1.0
 CVD: 1.0.2
@@ -2762,7 +2762,7 @@ Elja: 1.0.1
 ElliptCopulas: 0.1.4.1
 EloChoice: 0.29.4
 EloOptimized: 0.3.2
-EloRating: 0.46.18
+EloRating: 0.46.20
 EloSteepness: 0.5.2
 ElstonStewart: '1.2'
 EmbedSOM: 2.2.1
@@ -2959,7 +2959,7 @@ FAmle: 1.3.7
 FAwR: 1.2.0
 FBCRM: '1.1'
 FBFsearch: '1.3'
-FBMS: '1.4'
+FBMS: 1.4.1
 FBN: 1.5.2
 FCGR: 1.2-0
 FCMapper: '1.1'
@@ -3452,7 +3452,7 @@ GLIDE: 1.0.5
 GLMBasedRaschEstimation: 0.2.0
 GLMMGibbs: 0.5-1
 GLMMRR: 0.6.0
-GLMMadaptive: 0.9-7
+GLMMadaptive: 0.9-9
 GLMMarp: 0.1-1
 GLMMcosinor: 0.2.2
 GLMMselect: 1.2.0
@@ -3697,7 +3697,8 @@ GenomicTools.fileHandler: 0.1.5.9
 GeoAdjust: 2.0.1
 GeoBoxplot: '1.0'
 GeoDE: '1.0'
-GeoDensityR: 0.2.0
+GeoDensityR: 0.2.2
+GeoEpiAI: 0.1.0
 GeoFIS: 1.1.1
 GeoGenetix: 0.0.2
 GeoIndexR: 0.1.0
@@ -9230,7 +9231,7 @@ SlimPLS: '0.3'
 SlimR: 1.2.0
 SlotLim: 0.0.2
 SmCCNet: 2.0.7
-SmallCountRounding: 1.2.5
+SmallCountRounding: 1.2.7
 SmartEDA: 0.3.10
 SmartMeterAnalytics: 1.1.1
 SmartPK: 0.1.0
@@ -9269,7 +9270,7 @@ SoilConservation: 1.0.1
 SoilFDA: 0.1.0
 SoilFunctionality: 0.1.0
 SoilHyP: 0.1.7
-SoilManageR: 1.1.0
+SoilManageR: 1.2.0
 SoilR: 1.2.107
 SoilSaltIndex: 0.1.0
 SoilTaxonomy: 0.2.8
@@ -10654,7 +10655,7 @@ actisomni: 0.5.0
 activAnalyzer: 2.1.2
 activPAL: 0.1.4
 activatr: 0.2.1
-activegp: 1.1.1
+activegp: 1.1.2
 activity: 1.3.4
 activityCounts: 0.2.1
 activityGCMM: 1.1.1
@@ -12039,7 +12040,7 @@ bigSurvSGD: 0.0.1
 bigalgebra: 3.1.1
 biganalytics: 1.1.22
 bigassertr: 0.2.0
-bigbang: 0.6.0
+bigbang: 0.6.1
 bigchess: 1.9.1
 bigcurve: 0.6.0
 bigdata: '0.1'
@@ -12208,7 +12209,7 @@ birdnik: 0.1.1
 birdring: '1.6'
 birdscanR: 0.3.0
 birk: 2.1.2
-birp: 0.9.2
+birp: 0.9.3
 birtr: 1.0.0
 biscale: 1.1.0
 bise: '1.0'
@@ -12767,7 +12768,7 @@ campsis: 1.9.3
 campsismod: 1.5.0
 campsisnca: 1.7.3
 camsRad: 0.3.0
-camtrapR: 3.1.0
+camtrapR: 3.1.1
 camtrapdp: 0.6.1
 canadacovid: 0.3.4
 canadamaps: '0.1'
@@ -12921,7 +12922,7 @@ causal.decomp: 0.2.0
 causalBatch: 1.3.0
 causalCmprsk: 2.0.0
 causalDT: 1.0.1
-causalDisco: 1.2.1
+causalDisco: 1.3.0
 causalHyperGraph: 0.1.0
 causalMGM: 0.1.1
 causalMed: 0.1.3
@@ -13019,7 +13020,7 @@ cdfinv: 0.1.0
 cdfquantreg: 1.3.1-2
 cdgd: 1.0.1
 cdiWG2WS: 0.2.0
-cdid: 1.2.0.1
+cdid: 1.3.0.1
 cdiscdata: 0.2.0
 cdlTools: '1.13'
 cdlei: '1.0'
@@ -14758,7 +14759,7 @@ datapack: 1.4.2
 datapackage: 0.2.3
 datapackage.r: 1.3.5
 datapasta: 3.1.0
-datapond: 0.1.0
+datapond: 0.1.1
 dataprep: 0.1.8
 dataquieR: 2.8.15
 datardis: 0.0.5
@@ -14848,7 +14849,7 @@ dbparser: 2.3.0
 dbplot: 0.4.0
 dbplyr: 2.6.0
 dbrobust: 1.1.1
-dbscan: 1.2.7
+dbscan: 1.3.0
 dbstats: 2.0.3
 dbw: 1.1.4
 dbx: 0.4.0
@@ -15176,7 +15177,7 @@ dgodata: 0.0.2
 dgof: 1.5.1
 dgpsi: 2.6.0
 dgraphs: 0.4.1
-dgtf: 0.1.0
+dgtf: 0.1.1
 dgumbel: 1.0.1
 dhReg: 0.1.1
 dhga: '0.1'
@@ -16045,7 +16046,7 @@ edgeRun: 1.0.9
 edgebundle: 1.0.0
 edgebundleR: 0.1.4
 edgedata: 0.2.0
-edgemodelr: 0.4.5
+edgemodelr: 0.7.0
 edibble: 1.1.1
 ediblecity: 0.2.2
 edina: 0.1.2
@@ -16490,7 +16491,7 @@ esquisse: 2.1.0
 esreg: 0.6.3
 ess: 1.1.2.1
 essHist: 1.2.2
-essential8: 0.9.0
+essential8: 0.9.1
 essentials: 0.1.0
 essentialstools: 0.1.8
 essurvey: 1.0.8
@@ -16774,7 +16775,7 @@ fCertificates: 0.5-4
 fChange: 2.1.0
 fCopulae: '4052.86'
 fDMA: 2.2.9
-fEGarch: 1.0.6
+fEGarch: 1.0.7
 fExoticOptions: '3042.80'
 fExpressCertificates: '1.3'
 fExtremes: '4032.84'
@@ -16959,7 +16960,7 @@ fastdid: 1.0.6
 fastdigest: 0.6-4
 fastei: 0.0.21
 fasterElasticNet: 1.1.2
-fasterRaster: 8.4.1.2
+fasterRaster: 8.4.1.3
 fasteraster: 1.1.1
 fasterize: 1.1.0
 fastfocal: 0.1.3
@@ -17884,7 +17885,7 @@ gWidgetstcltk: 0.0-55.1
 gaQSAR: 1.2.3
 gaawr2: 0.0.9
 gadget2: 2.3.11
-gadget3: 1.0-0
+gadget3: 1.1-0
 gadjid: 0.1.0
 gafit: 0.5.1
 gageRR: 0.1.0
@@ -17916,6 +17917,7 @@ gameofthrones: 1.0.2
 games: 1.1.2
 gamesGA: 1.1.3.7
 gamesNws: '0.5'
+gamfluence: 0.1.1
 gamlr: 1.13-9
 gamlss: 5.5-5
 gamlss.add: 5.1-14
@@ -18215,7 +18217,7 @@ geodetector: 1.0-5
 geodimension: 2.0.0
 geodist: 0.1.1
 geodiv: 1.1.1
-geodl: 0.3.1
+geodl: 0.4.0
 geodrawr: 2.0.0
 geoecu: 0.4.2
 geoelectrics: 0.2.2
@@ -18299,7 +18301,7 @@ geouy: 0.2.8
 geoviz: 0.2.2
 geovizr: 1.0.0
 geovol: '1.1'
-geozarr: 0.3.0
+geozarr: 0.4.0
 geozoning: 1.0.0
 geozoo: 0.5.1
 gepaf: 0.2.0
@@ -19519,7 +19521,7 @@ healthdb: 0.5.1
 healthequal: 1.0.1
 healthfinance: 0.1.0
 healthforum: 0.1.0
-healthiar: 0.2.7
+healthiar: 0.3.0
 healthmotionR: 0.2.0
 healthsim: 0.1.0
 healthyAddress: 0.5.2
@@ -20166,7 +20168,7 @@ ifaTools: '0.23'
 ifctools: 0.3.6
 ife: 0.2.5
 ifit: 1.0.0
-ifo: 0.3.1
+ifo: 0.3.2
 ifpd: 0.1.0
 ifs: 0.1.10
 ifultools: 2.0-26
@@ -21965,7 +21967,7 @@ lumberjack: 1.3.1
 lumbermark: 0.9.1
 lumendb: 0.2.2
 lunar: 0.2-1
-lupa: 0.1.1
+lupa: 0.1.2
 lutz: 0.3.2
 luz: 0.5.2
 luzlogr: 0.2.1
@@ -22114,6 +22116,7 @@ manhplot: '1.1'
 manifesto: 0.0.2
 manifestoR: 1.6.3
 manifold: 0.1.2
+manifoldsR: 0.5.0
 manipulate: 1.0.1
 manipulateWidget: 0.11.2
 manta: 1.0.1
@@ -22257,7 +22260,7 @@ massiveGST: 1.2.4
 mastif: '2.4'
 matR: 0.9.1
 matRiks: 0.1.5
-matSPACE: 0.2.1
+matSPACE: 0.3.0
 matahari: 0.1.4
 match2C: 1.2.4
 matchFeat: '1.0'
@@ -23761,7 +23764,7 @@ mustashe: 0.1.4
 mut: '1.1'
 mutSignatures: 2.1.1
 mutationtypes: 0.0.1
-mutator: 0.3.0
+mutator: 0.3.1
 mutatr: 0.1.2
 mutoss: 0.1-14
 mutossGUI: 0.1-12
@@ -24846,7 +24849,7 @@ openrouteservice: 0.6.2
 openscoring: 1.2.0
 opensensmapr: 0.6.0
 opensimplex2: 0.0.3
-openssl: 2.5.0
+openssl: 2.6.0
 openstudyval: 0.1.1
 opentick: 0.1-1
 opentimsr: 1.2.3
@@ -25738,7 +25741,7 @@ phenopix: 2.4.5
 phers: 1.0.5
 phiDelta: 1.0.1
 phia: 0.3-2
-philentropy: 0.10.0
+philentropy: 0.10.1
 phillydaodata: 1.0.1
 phinterval: 1.0.0
 phitest: 1.0-0
@@ -25772,7 +25775,7 @@ phpSerialize: 0.8-01
 phrasemachine: 1.1.2
 phrases: '0.1'
 phreeqc: 3.8.7
-phscs: 0.2.0
+phscs: 0.3.0
 phsmethods: 1.2.0
 phsopendata: 1.1.1
 phtt: 3.1.2
@@ -25813,7 +25816,7 @@ phyloseqGraphTest: 0.1.1
 phylosignal: 1.3.1
 phylosignalDB: 0.4.2
 phylosim: 3.0.5
-phylospatial: 1.6.0
+phylospatial: 1.7.0
 phylotaR: 1.0.0
 phylotate: '1.3'
 phylotools: 0.2.2
@@ -26125,6 +26128,7 @@ pnn: 1.0.1
 pnotp: 0.1.0
 poLCA: 1.6.0.2
 poLCAParallel: 1.2.9
+pob2ef: 0.1.0
 pobecu: 0.3.1
 pocketapi: '0.1'
 pocrm: '0.13'
@@ -26690,7 +26694,7 @@ pseudohouseholds: 0.1.1
 pseudorank: 1.0.4
 pseval: 1.3.3
 psfmi: 1.4.0
-psgc: 0.1.2
+psgc: 0.2.0
 psgp: 0.3-26
 psica: 1.0.2
 psidR: '2.3'
@@ -27755,7 +27759,7 @@ rdoxygen: 1.0.0
 rdpla: 0.2.0
 rdpower: '3.0'
 rdracor: 1.1.0
-rdrobust: 4.1.1
+rdrobust: 4.1.2
 rdrop2: 0.8.2.1
 rdryad: 1.0.0
 rdss: 1.0.16
@@ -28063,6 +28067,7 @@ repfdr: 1.2.3
 repfun: 0.1.2
 repijson: 0.1.0
 replacer: 1.0.2
+replayr: 0.4.0
 replicateBE: 1.1.3
 replicatedpp2w: 0.1-6
 replicationDemos: '1.05'
@@ -28315,7 +28320,7 @@ rhythm.metrics: 1.1.0
 ri: '0.9'
 ri2: 0.5.0
 riAFTBART: 0.3.3
-ria.test: 0.3.0
+ria.test: 0.4.0
 rib: 0.32.0
 ribd: 1.7.2
 ribiosArg: 1.5.0
@@ -28860,7 +28865,7 @@ rrMixture: 0.1-2
 rrandvec: 1.0.0
 rrapply: 1.2.8
 rrat: 1.0.0
-rray: 0.1.0
+rray: 0.2.0
 rrcov: 1.7-7
 rrcov3way: 0.6-1
 rrcovHD: 0.3-1
@@ -29155,6 +29160,7 @@ rwt: 1.0.2
 rwty: 1.0.3
 rwunderground: 0.1.8
 rxSeq: 0.99.3
+rxeval: 0.1.3
 rxivistr: 0.1.1
 rxode2: 5.1.8
 rxode2et: 2.0.13
@@ -30495,7 +30501,7 @@ smatr: 3.5-2
 smbdata: 0.2.0
 smbinning: '0.9'
 smcUtils: 0.2.2
-smcfcs: 2.0.2
+smcfcs: 2.0.3
 smco: '0.1'
 smcryptoR: 0.1.2
 smcure: '2.2'
@@ -33559,7 +33565,7 @@ vdmR: 0.2.6
 vdra: 1.0.0
 vec2dtransf: 1.1.5
 veccompare: 0.1.0
-vecmatch: 1.4.0
+vecmatch: 1.4.1
 vecrep: 0.1.0
 vecsets: '1.4'
 vectools: 0.3.0
@@ -33813,6 +33819,7 @@ wakefield: 0.3.9
 wal: 0.2.1
 waldo: 0.6.2
 waldwolf: '0.1'
+walkability: 0.1.0
 walkalytics: 0.1.0
 walkboutr: 0.6.0
 walker: 1.0.10
@@ -34120,7 +34127,7 @@ workflows: 1.3.0
 workflowsets: 1.1.1
 workloopR: 1.1.4
 workspace: 0.1.6
-worldbank: 0.11.0
+worldbank: 0.11.1
 worldfootballR: 0.6.2
 worldmet: 1.2.0
 worldriskpollr: 0.7.4
@@ -34170,7 +34177,7 @@ wrswoR.benchmark: 0.2.1
 wru: 3.1.0
 wsMed: 1.2.2
 wsbackfit: 1.0-5
-wsgnstat: 0.1.0
+wsgnstat: 0.1.1
 wsjplot: 0.1.0
 wskm: 1.4.40
 wsprv: 0.1.0
@@ -34338,9 +34345,10 @@ yaImpute: 1.0-36
 yaap: 1.0.0
 yacca: 1.4-2
 yager: 0.1.1
-yahoofinancer: 0.6.1
+yahoofinancer: 0.6.2
 yakmoR: 0.1.1
 yaleBraille: 0.2.3
+yamaa: 0.6.2
 yaml: 2.3.12
 yaml12: 0.2.0
 yamlet: 1.5.0
