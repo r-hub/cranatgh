@@ -1126,7 +1126,7 @@ CALINE3: 1.0-2
 CAM: '1.0'
 CAMAN: '0.78'
 CAMML: 1.0.0
-CANE: 0.2.0
+CANE: 0.2.1
 CANSIM2R: 1.14.1
 CAOP.RAA.2024: 0.0.5
 CARBayes: 6.1.1
@@ -1606,7 +1606,7 @@ ClimDown: 1.0.8
 ClimInd: 0.1-3
 ClimMobTools: 1.8.2
 ClimProjDiags: 0.3.6
-ClimaRep: '1.1'
+ClimaRep: '1.2'
 ClimateAnomaly: 1.0.0
 ClinReport: 0.9.1.14
 ClinSigMeasures: '1.3'
@@ -1652,7 +1652,7 @@ CoCoGraph: 0.1.7.6
 CoDaImpact: 0.1.0
 CoDaLoMic: 0.1.1
 CoDiNA: 1.1.2
-CoFM: 1.1.4
+CoFM: 1.2.6
 CoFRA: '0.1002'
 CoImp: '2.2'
 CoMiRe: '0.8'
@@ -2491,7 +2491,7 @@ DySeq: '0.22'
 DyadRatios: '2.1'
 DyadiCarma: 1.0.1
 Dykstra: 1.0-0
-Dyn4cast: 11.11.28
+Dyn4cast: 11.11.28-1
 DynClust: '3.24'
 DynComm: 2020.1.6
 DynCount: 0.2.0
@@ -3691,7 +3691,7 @@ GenoPop: 1.0.0
 GenoScan: '0.1'
 GenoTriplo: 2.2.2
 GenomeAdapt: 1.0.0
-GenomeAdmixR: 2.1.13.2
+GenomeAdmixR: 2.1.15
 GenomicMating: '2.0'
 GenomicSig: 0.1.0
 GenomicTools: 0.2.9.7
@@ -4477,7 +4477,7 @@ JMH: 1.0.4
 JMI: 0.1.0
 JMLSD: '1.0'
 JMbayes: 0.9-0
-JMbayes2: 0.6-5
+JMbayes2: 0.6-6
 JMbdirect: 0.1.1
 JMcmprsk: 0.9.10
 JMdesign: '1.6'
@@ -5887,7 +5887,7 @@ NBShiny2: 0.1.0
 NBShiny3: 0.1.0
 NBtsVarSel: '1.0'
 NBvarsel: 0.1.1
-NCA: 5.0.2
+NCA: 5.1.0
 NCBI2R: 1.4.7
 NCC: '1.0'
 NCSCopula: 1.0.1
@@ -7198,7 +7198,7 @@ R2WinBUGS: 2.1-24
 R2admb: 0.7.16.3
 R2camtrapdp: 2.0.0
 R2jags: 0.8-9
-R2sample: 5.1.0
+R2sample: 5.1.1
 R2ucare: 1.0.3
 R2wd: '1.5'
 R330: '1.0'
@@ -8159,7 +8159,7 @@ RelativeDistClust: 0.1.0
 RelativeRisk: 1.1-1
 Relectoral: 0.1.0
 Relexon: 0.2.1
-ReliaGrowR: '0.7'
+ReliaGrowR: '0.8'
 ReliaLearnR: '0.5'
 ReliaPlotR: '0.7'
 ReliaShiny: '0.5'
@@ -9135,7 +9135,7 @@ ShinyWizard: 1.1.3.11
 ShortForm: 1.0.0
 ShrinkCovMat: 2.1.0
 Shrinkage: '1.0'
-ShrinkageTrees: 2.1.0
+ShrinkageTrees: 2.1.1
 SiER: 0.1.0
 SiFINeT: '1.13'
 SiMRiv: 1.0.7
@@ -13736,7 +13736,7 @@ collett: 0.1.2
 colleyRstats: 0.3.2
 collidr: 0.1.3
 collin: 0.0.4
-collinear: 3.0.2
+collinear: 3.0.3
 collpcm: '1.4'
 colmozzie: 1.1.1
 coloc: 5.2.3
@@ -14082,7 +14082,7 @@ coreheat: 0.3.2
 corehunter: 3.2.4
 corella: 0.1.4
 corels: 0.0.6
-coresynth: 1.0.1
+coresynth: 1.2.0
 coreval: 0.4.0
 corkscrew: '1.1'
 corlink: 1.0.0
@@ -16413,7 +16413,7 @@ epuR: '0.1'
 epubr: 0.6.5
 epwshiftr: 0.1.4
 epxToR: 0.4-1
-eq5d: 0.17.0
+eq5d: 0.17.1
 eq5dsuite: 2.1.0
 eqn2svg: 0.1.0
 eqs2lavaan: '3.0'
@@ -16936,7 +16936,7 @@ fastMatMR: 1.2.8
 fastNaiveBayes: 2.2.1
 fastOnlineCpt: '1.0'
 fastPLS: '0.4'
-fastQR: 1.1.5
+fastQR: 1.2.0
 fastR: 0.10.3
 fastR2: 1.2.5
 fastRG: 0.4.0
@@ -17205,7 +17205,7 @@ files: 0.0.1
 filesstrings: 3.4.0
 filibustr: 0.5.2
 filling: 0.2.4
-fillpattern: 1.0.4
+fillpattern: 1.0.5
 fillr: 1.0.0
 filteRjsats: '1.0'
 filterNHP: 0.1.2
@@ -20919,7 +20919,7 @@ juicyjuice: 0.1.0
 jumble: 0.2.0
 jumps: 2.0.3
 junco: 0.1.7
-junctions: 2.1.4
+junctions: 2.2.0
 junr: 0.1.3
 just.install: 1.0.2
 justifier: 0.2.8
@@ -21504,7 +21504,7 @@ lfstat: 0.9.15
 lg: 0.4.1
 lga: 1.1-1
 lgarch: '0.7'
-lgcp: 2.0-1
+lgcp: 2.0-2
 lglasso: 2.0.0
 lgpr: 1.2.5
 lgr: 0.5.2
@@ -22143,7 +22143,7 @@ mapLD: 1.0-1
 mapReasy: '1.0'
 mapReduce: 1.2.6
 mapSenegal: 0.1.1
-mapSpain: 1.2.1
+mapSpain: 1.3.0
 mapSpainHist: 0.1.0
 mapStats: '3.2'
 mapaccuracy: 0.1.2
@@ -22407,7 +22407,7 @@ mclink: 1.3.1
 mcll: '1.2'
 mclm: 0.2.7
 mclogit: 0.9.15
-mclust: 6.1.3
+mclust: 6.1.4
 mclust02: 2.1-18
 mclust1998: 1.1-10
 mclustAddons: '0.10'
@@ -24030,7 +24030,7 @@ neojags: 0.1.7
 neonOS: 1.1.0
 neonPlantEcology: 1.6.1
 neonSoilFlux: 4.0.1
-neonUtilities: 4.0.2
+neonUtilities: 4.1.0
 neonstore: 0.5.1
 neotoma: 1.7.4
 neotoma2: 1.1.1
@@ -24649,7 +24649,7 @@ ocomposition: '1.1'
 ocp: 0.1.1
 ocrRBBR: 0.1.0
 ocs4R: 0.3.1
-octawave: 0.1.1
+octawave: 0.1.2
 octopucs: 0.1.1
 octopus: 0.4.2
 octopusR: 1.0.1
@@ -24696,7 +24696,7 @@ oews2021: 1.0.0
 ofGEM: '1.0'
 ofemeantest: 1.0.0
 officedown: 0.4.3
-officer: 0.7.8
+officer: 0.7.9
 offlineChange: 0.0.4
 offsetreg: 1.2.0
 ofhsyn: 0.1.3
@@ -26300,7 +26300,7 @@ postcard: 1.1.0
 postcards: 0.2.3
 postdoc: 1.4.2
 posterdown: '1.0'
-posterior: 1.7.0
+posterior: 1.8.0
 postgwas: '1.11'
 postinfectious: 0.1.0
 postlightmercury: '1.2'
@@ -29106,7 +29106,7 @@ runcharter: 0.2.0
 runes: 0.1.0
 runexp: 0.2.1
 runittotestthat: 0.0-2
-runjags: 2.2.2-5
+runjags: 2.3.0-5
 runner: 0.4.6
 runonce: 0.3.3
 runstats: 1.1.0
@@ -32397,7 +32397,7 @@ tidyMicro: '1.47'
 tidyOhdsiSolutions: 0.1.0
 tidyREDCap: 2.1.0
 tidyRSS: 2.0.7
-tidySEM: 0.2.12
+tidySEM: 0.3.0
 tidySummaries: 0.1.0
 tidyUSDA: 0.4.1
 tidyactuarial: 0.2.1
@@ -33596,7 +33596,7 @@ vecvec: 1.4.0
 veesa: 0.1.8
 vegIndexCalc: 0.1.0
 vegalite: 0.6.1
-vegan: 2.7-6
+vegan: 2.7-8
 vegan3d: 1.4-1
 vegawidget: 0.5.0
 vegclust: 2.0.3
@@ -34172,7 +34172,7 @@ wqs: 0.0.1
 wqspt: 1.0.2
 wqtrends: 1.5.2
 wrGraph: 1.3.18
-wrMisc: 2.1.1
+wrMisc: 2.2.0
 wrProteo: 2.1.0
 wrTopDownFrag: 1.0.4
 wrangle: 0.6.4
@@ -34227,7 +34227,7 @@ xROI: 0.9.20
 xRing: 0.1.2
 xSub: 3.0.2
 xVA: '1.3'
-xaci: 0.1.0
+xaci: 1.1.0
 xactonomial: 1.2.2
 xadmix: 1.0.0
 xaiHydro: 0.1.0
