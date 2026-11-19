@@ -895,6 +895,7 @@ BayesianPower: 0.2.3
 BayesianQDM: 1.0.1
 BayesianReasoning: 0.4.3
 BayesianTools: 0.1.9
+BayesianTrial: 0.1.0
 Bayesianbetareg: '1.2'
 Bayesiangammareg: 0.1.1
 Bayesiantreg: 1.0.1
@@ -1319,7 +1320,7 @@ CNOGpro: '1.1'
 CNPS: 1.0.0
 CNSigs: 0.1.1
 CNVRG: 1.0.0
-CNVScope: 3.7.7
+CNVScope: 3.7.9
 CNVassoc: '2.2'
 CNVassocData: '1.0'
 CNVreg: '1.0'
@@ -1500,7 +1501,7 @@ CausalMBSTS: 0.1.1
 CausalMetaR: 0.1.3
 CausalMixGPD: 0.8.0
 CausalModels: 0.2.1
-CausalQueries: 1.4.6
+CausalQueries: 1.4.7
 CausalSpline: 0.1.0
 CausalState: 0.10.2
 Causata: 4.2-0
@@ -1734,7 +1735,7 @@ ComparisonCR: 1.0.4
 ComparisonSurv: 1.1.1
 CompetingRisk: '1.0'
 CompetingRiskFrailty: '2.0'
-Compind: '3.7'
+Compind: '3.8'
 ComplexAnalysis: '1.0'
 ComplexUpset: 1.3.3
 CompositeReliability: 1.0.3
@@ -4988,7 +4989,7 @@ MAGEE: 1.4.5
 MAGMA.R: '1.1'
 MAGNAMWAR: 2.0.4
 MAICtools: 0.1.1
-MAIHDA: 0.3.0
+MAIHDA: 0.3.1
 MAINT.Data: 2.8.0
 MAIVE: 0.3.0
 MAKL: 1.0.1
@@ -6548,7 +6549,7 @@ PMEvapotranspiration: 0.1.0
 PML: '1.2'
 PMLE4SCR: 0.1.0
 PMmisc: 0.1.2
-PMwR: 1.3-0
+PMwR: 1.3-1
 PNADCperiods: 0.1.3
 PNADcIBGE: 0.7.5
 PNAR: '1.8'
@@ -7492,7 +7493,7 @@ RKUM: 0.1.1.1
 RKaggle: 0.1.2
 RKelly: '1.0'
 RKlout: '1.0'
-RKorAPClient: 1.5.0
+RKorAPClient: 1.5.1
 RLMM: 1.14.0
 RLRsim: 3.1-9
 RLT: 3.2.6
@@ -8489,7 +8490,7 @@ Rz: 0.9-1
 S2sls: '0.1'
 S3VS: '1.1'
 S4DM: 0.0.2
-S7: 0.2.2
+S7: 1.0.0
 S7schema: 0.2.1
 SACCR: '3.4'
 SACOBRA: '1.2'
@@ -11269,7 +11270,7 @@ arkhaia: 0.5.5
 arkhe: 1.11.0
 arl: 0.1.4
 arlclustering: 1.0.5
-arm: 1.15-3
+arm: 1.15-4
 armaOptions: 1.0.1
 armada: 0.1.0
 armadillo: 0.3.0
@@ -11434,7 +11435,7 @@ audrex: 3.0.0
 audubon: 0.6.3
 augSIMEX: 3.7.4
 augmentedRCBD: 0.1.7
-auk: 0.9.1
+auk: 0.10.0
 aum: 2024.6.19
 aurelius: 0.8.4
 aurin: 0.6.0
@@ -12671,7 +12672,7 @@ butler: '0.3'
 butterfly: 1.1.2
 butterflyOptions: 1.0.1
 buzzMed: 0.1.4
-bvarnet: 1.0.3
+bvarnet: 1.0.4
 bvars: '1.1'
 bvarsv: '1.1'
 bvartools: 0.3.0
@@ -14518,6 +14519,7 @@ cudaverse: 0.4.2
 cudia: '0.1'
 cultevo: 1.0.2
 cumSeg: '1.3'
+cumba: 0.1.0
 cuml: 0.2.1
 cuml4r: 0.1.0
 cumplyr: 0.1-1
@@ -14588,6 +14590,7 @@ cvsem: 1.0.0
 cvwrapr: '1.0'
 cvxbiclustr: 0.0.1
 cvxclustr: 1.1.1
+cvxoptdes: 1.0.0
 cwad: 0.2.0
 cwbtools: 0.4.2
 cwhmisc: '6.6'
@@ -17065,7 +17068,7 @@ fdaMixed: 0.6.1
 fdaMocca: 1.1-0
 fdaPDE: 1.1-24
 fdaPOIFD: 2.0.1
-fdaSP: 1.1.3
+fdaSP: 1.1.4
 fdacluster: 0.4.2
 fdaconcur: 0.1.3
 fdadensity: 0.1.4
@@ -19049,7 +19052,7 @@ gplots: 3.3.0
 gpls: 1.24.0
 gplsim: 1.0.0
 gpmap: 0.1.3
-gpmapr: 1.0.0
+gpmapr: 1.0.1
 gppm: 0.3.0
 gppois: 0.2-1
 gpqyouden: 0.1.0
@@ -19060,7 +19063,7 @@ gps.track: 1.0.0
 gpss: 1.0.3
 gptk: '1.08'
 gptoolsStan: 1.0.0
-gptr: 1.0.0
+gptr: 1.1.0
 gptstudio: 0.4.0
 gptzeror: 0.0.2
 gpuR: 2.0.6
@@ -20998,7 +21001,7 @@ kerdiest: 1.3-1
 kerfdr: 2.0.1
 kergp: 0.5.8
 kernDeepStackNet: 2.0.2
-kernda: '1.0'
+kernda: '1.1'
 kerndwd: 2.0.3
 kernelFactory: 0.3.0
 kernelPSI: 1.1.1
@@ -21728,6 +21731,7 @@ lmmlasso: 0.1-2
 lmmot: 0.1.4
 lmmpar: 0.1.0
 lmmprobe: 0.1.0
+lmmresample: 0.1.0
 lmms: 1.3.3
 lmodel2: 1.7-4
 lmom: '3.3'
@@ -24182,6 +24186,7 @@ ngramr: 1.10.0
 ngramrr: 0.2.0
 ngspatial: 1.2-2
 ngstk: 0.2.3
+ngvb: 0.2.1
 nhanesA: 1.4.1
 nhanesR: 0.1.6
 nhanesdata: 0.2.2
@@ -24827,7 +24832,7 @@ openVA: 1.2.0
 openadds: 0.2.0
 openai: 0.4.1
 openaiRtools: 0.2.2
-openair: 3.1.0
+openair: 3.2.0
 openairmaps: 0.10.1
 openaistream: 0.3.0
 openalexR: 3.1.2
@@ -25157,7 +25162,7 @@ packHV: '2.4'
 packMBPLSDA: 0.9.0
 packS4: 0.9.3
 packageDiff: '0.1'
-packageRank: 0.9.9
+packageRank: 0.10.0
 packageRankWrapperDriver: '1.0'
 packagedocs: 0.4.0
 packagefinder: 0.3.5
@@ -25885,7 +25890,7 @@ pinnacle.data: 0.1.4
 pinochet: 0.1.0
 pinp: 0.0.11
 pins: 1.4.2
-pinsearch: 0.1.6
+pinsearch: 0.1.7
 pinterestadsR: 0.1.0
 pintervals: 1.3.3
 pinyin: 1.1.6
@@ -26575,7 +26580,7 @@ processdata: 0.8.2
 processmapR: 0.5.8
 processmonitR: 0.1.0
 processpredictR: 0.1.1
-processx: 3.9.0
+processx: 3.10.0
 proclhmm: 1.0.1
 procmaps: 0.0.5
 procs: 1.1.0
@@ -26999,7 +27004,7 @@ qrsvm: 0.2.1
 qryflow: 0.4.0
 qs: 0.27.3
 qs2: 0.4.0
-qshap: 2.0.0
+qshap: 3.0.0
 qsimulatR: 1.1.1
 qslice: 0.4.0
 qsort: 0.2.3
@@ -27620,7 +27625,7 @@ rbhl: 0.9.2
 rbi: 1.0.1
 rbi.helpers: 0.4.1
 rbibutils: 2.4.1
-rbin: 0.2.1
+rbin: 0.3.0
 rbioacc: 1.3.1
 rbioapi: 0.8.3
 rbiodatacr: 0.1.2
@@ -30274,7 +30279,7 @@ simPop: 2.1.3
 simPopulation: 0.4.1
 simPreg: 0.1.0
 simPsyStudy: 1.1.8
-simRestore: 1.1.5
+simRestore: 1.1.6
 simStateSpace: 1.2.16
 simSummary: 0.1.0
 simTargetCov: 1.0.1
@@ -31130,7 +31135,7 @@ spsComps: 0.3.4.0
 spsUtil: 0.2.2.1
 spsann: 2.2.0
 spsarlm: 0.1-3
-spscsfa: 0.1.0
+spscsfa: 0.2.0
 spselect: 0.0.1
 spsh: 1.1.0
 spsi: '0.1'
@@ -31436,7 +31441,7 @@ stevedore: 0.9.6
 stevemisc: 1.9.0
 steves: 0.1.1
 stevetemplates: 1.4.0
-stevethemes: 0.1.0
+stevethemes: 0.2.0
 stfit: 0.99.9
 stgam: 1.2.1
 stheoreme: '1.2'
@@ -34503,7 +34508,7 @@ zucsv: 0.1.0
 zuexact: 0.1.0
 zufast: 0.1.0
 zufft: 0.1.0
-zuhtml: 0.1.0
+zuhtml: 0.1.1
 zujson: 0.1.1
 zukomp: 0.1.0
 zumime: 0.1.0
