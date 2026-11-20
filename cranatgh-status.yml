@@ -1742,7 +1742,7 @@ CompositeReliability: 1.0.3
 Compositional: '8.5'
 CompositionalClust: '1.3'
 CompositionalHDDA: '1.0'
-CompositionalLASSO: '1.0'
+CompositionalLASSO: '1.1'
 CompositionalML: '1.0'
 CompositionalMPT: '1.0'
 CompositionalNAimp: '1.1'
@@ -7228,7 +7228,7 @@ RAFS: 0.2.5
 RAGFlowChainR: 0.1.7
 RAHRS: 1.0.2
 RAINBOWR: 0.1.38
-RALSA: 1.7.2
+RALSA: 1.7.3
 RAM: 1.2.1.7
 RAMClustR: 1.3.1
 RAMP: 2.0.2
@@ -8457,7 +8457,7 @@ Rttf2pt1: 1.3.14
 Rtts: 0.3.3
 Rtumblr: 0.1.1
 RtutoR: '1.2'
-Rtwalk: 2.2.0
+Rtwalk: 2.3.0
 Rtwobitlib: 0.3.10
 RuHere: 1.1.1
 Ruchardet: 0.0-3.1
@@ -8528,6 +8528,7 @@ SAP: '1.0'
 SAPP: 1.0.9-4
 SAR: 1.0.4
 SARAR: 0.1.0
+SARIMAInfoRF: 0.1.0
 SARP.compo: 0.1.8
 SARP.moodle: 1.2.3
 SASPECT: 0.1-1
@@ -11093,6 +11094,7 @@ anominate: '0.7'
 anomo: 1.3.2
 anonymizer: 0.2.0
 anotherSAS7bdat: 0.0.9
+anovakun: 1.1.0
 anovapowersim: 1.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
@@ -17141,7 +17143,7 @@ fetch: 0.1.5
 fetchGoogleAnalyticsR: 0.1.0
 fetchR: 2.1-1
 fetchSalesforceR: 0.1.0
-fetwfe: 1.10.0
+fetwfe: 1.10.1
 ff: 4.5.3
 ffaframework: 0.1.2
 ffbase: 0.13.3
@@ -17370,7 +17372,7 @@ flexclust: 1.5.0
 flexdashboard: 0.6.3
 flexhaz: 0.5.3
 flexiblas: 3.4.0
-flexlsx: 1.0.0
+flexlsx: 1.1.1
 flexmet: '1.1'
 flexmix: 2.3-21
 flexmixNL: 0.0.1
@@ -17905,7 +17907,7 @@ gageRR: 0.1.0
 gaiah: 0.0.5
 gainML: 0.1.0
 gains: '1.2'
-galah: 2.3.0
+galah: 2.4.0
 galamm: 0.4.2
 galaxias: 0.1.2
 galgo: '1.4'
@@ -18392,7 +18394,7 @@ ggHoriPlot: 1.0.1
 ggHorizon: '0.1'
 ggInterval: 0.2.6
 ggOceanMaps: 3.0.0
-ggPMX: 1.3.2
+ggPMX: 1.3.3
 ggQC: 0.0.31
 ggQQunif: 0.1.5
 ggROC: '1.0'
@@ -19556,6 +19558,7 @@ heatmapbehavior: 0.1.0
 heatmaply: 1.6.0
 heattree: 0.3.1
 heatwaveR: 0.5.5
+heaven: 2026.10.30
 heavy: 0.38.196
 heavytails: 0.2.0
 heck: 0.1.7
@@ -20361,7 +20364,7 @@ inetwork: '1.2'
 infectiousR: 0.1.1
 infer: 1.1.0
 inferCSN: 1.2.0
-inferMM: 0.1.1
+inferMM: 0.1.2
 inference: 0.1.0
 inferencer: 0.2.0
 inferference: 1.0.3
@@ -22893,7 +22896,7 @@ mini007: 0.5.0
 miniCRAN: 0.3.2
 miniGUI: 0.8-1
 miniLNM: 0.1.2
-miniMeta: 0.3.2
+miniMeta: 0.3.3
 miniPCH: 0.4.1
 miniUI: 0.1.2
 minic: 1.0.3
@@ -23403,6 +23406,7 @@ mosclust: 1.0.3
 mosmafs: 0.1.2-1
 mospiR: 0.1.0
 mosqcontrol: 0.1.0
+mossyforest: 0.1.0
 mosum: 1.2.7
 mota: 1.2.1
 motherduck: 0.2.1
@@ -23761,7 +23765,7 @@ muma: '1.4'
 mumarinex: '2.0'
 mumm: 0.2.1
 mums2: 0.1.1
-munch: 0.0.3
+munch: 0.0.4
 mundoLindey: 0.1.0
 munfold: 0.3.7
 munsell: 0.5.1
@@ -23879,7 +23883,7 @@ mxsem: 0.1.0
 myCRAN: '1.3'
 myClim: 1.6.0
 myIO: 1.4.0
-myTAI: 2.3.7
+myTAI: 2.3.8
 mycaas: 0.0.1
 mycobacrvR: '1.1'
 mycolorsTB: 0.1.1
@@ -28805,7 +28809,7 @@ roxytypes: 0.1.2
 royston: '1.2'
 rpact: 5.0.0
 rpaleoclim: 1.1.0
-rpanel: 1.1-6.3
+rpanel: 1.1-6.3.1
 rpanelauto: 1.0.0
 rpanelrev: 1.0.0
 rpart: 4.1.27
@@ -28866,7 +28870,7 @@ rpspanel: 0.1.0
 rpst: 1.0.0
 rpsurv: 0.8.2
 rpsychi: '0.8'
-rptR: 0.9.23
+rptR: 0.9.24
 rpubchem: 1.5.10
 rpubs: 0.2.2
 rpud: 0.0.2
@@ -29129,7 +29133,7 @@ rupturesRcpp: 2.0.0
 rurality: 0.1.1
 rurl: 3.1.0
 rusda: 1.0.8
-rush: 1.3.0
+rush: 1.4.0
 rusk: 0.1.1
 rusquant: 1.1.4
 rust: 1.4.4
@@ -29288,6 +29292,7 @@ saens: 0.1.2
 saeproj.multilevel: 0.1.1
 saery: '2.0'
 safeBinaryRegression: 0.1-3
+safeconduct: 0.1.0
 safedata: 1.1.3
 safeframe: 1.0.0
 safejoin: 0.2.0
@@ -29390,7 +29395,7 @@ sasfunclust: 1.0.0
 sasif: 0.1.3
 sasquatch: 0.1.3
 sasr: 0.1.5
-sass: 0.4.10
+sass: 0.5.0
 sassy: 1.3.4
 satdad: '1.1'
 sate: 3.1.1
@@ -29508,7 +29513,7 @@ scclust: 0.2.5
 sccore: 1.0.7
 sccr: '2.1'
 scdensity: 1.0.3
-scdhlm: 0.7.4
+scdhlm: 0.8.0
 scdtb: 0.2.0
 scellpam: 1.4.7
 scenario: '1.0'
@@ -29634,6 +29639,7 @@ sdcMicroGUI: 1.4.0
 sdcSpatial: 0.6.1
 sdcTable: 0.34.1
 sdcTarget: 0.9-11
+sddinf: 0.1.0
 sddpack: '0.9'
 sddr: 0.1.1
 sde: 2.0.21
@@ -30015,7 +30021,7 @@ shidashi: 0.3.1
 shide: 0.4.0
 shiftR: '1.6'
 shinipsum: 0.1.1
-shiny: 1.14.0
+shiny: 1.15.0
 shiny.benchmark: 0.1.1
 shiny.blueprint: 0.3.0
 shiny.destroy: 0.1.0
@@ -30089,7 +30095,7 @@ shinySelect: 1.3.0
 shinyShortcut: 0.1.0
 shinyStep: 0.5.1
 shinyStorePlus: '1.6'
-shinyTempSignal: 0.0.8
+shinyTempSignal: 0.0.9
 shinyTime: 1.0.3
 shinyTimer: 0.1.0
 shinyToastify: 2.0.0
@@ -30397,7 +30403,7 @@ sirt: 4.2-133
 sirus: 0.3.3
 sisVIVE: '1.4'
 sisal: '0.49'
-sisireg: 1.2.1
+sisireg: 2.0.0
 sismonr: 2.1.0
 sistec: 0.2.0
 sisti: 0.0.1
@@ -30958,7 +30964,7 @@ speaq: 2.7.0
 speaq2: 0.1.0
 spearmanCI: '1.1'
 spec: 0.1.9
-specProc: 0.8.3
+specProc: 0.9.0
 speccalt: 0.1.1
 speccurvieR: 1.0.0
 specieschrom: 1.0.0
@@ -33075,7 +33081,7 @@ tsfgrnn: 1.0.6
 tsfknn: 0.7.1
 tsfngm: 0.1.0
 tsforecast: 1.3.1
-tsg: 0.1.4
+tsg: 0.2.0
 tsgarch: 1.0.5
 tsgc: 2.0.0
 tsgui: 0.2.1
@@ -33967,6 +33973,7 @@ webqueue: 1.0.0
 webr: 0.1.7
 webreadr: 0.4.0
 websearchr: 0.0.3
+webserver: 1.0-1
 webshot: 0.5.5
 webshot2: 0.1.2
 websocket: 1.4.4
@@ -34516,6 +34523,6 @@ zukomp: 0.1.0
 zumime: 0.1.0
 zutoml: 0.1.0
 zuxml: 0.1.0
-zuyaml: 0.1.0
+zuyaml: 0.1.1
 zyp: 0.11-1
 zzlite: 0.1.2
