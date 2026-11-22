@@ -392,7 +392,7 @@ ArchaeoChron: '0.1'
 ArchaeoPhases: 2.1.1
 ArchaeoPhases.dataset: 0.2.0
 ArchipelagoEngine: 0.1.1
-ArctosR: 0.1.3
+ArctosR: 0.1.4
 ArduinoControl: '1.0'
 ArfimaMLM: '1.3'
 ArgentinAPI: 0.2.1
@@ -761,6 +761,7 @@ BatchGetSymbols: 2.6.4
 BatchJobs: '1.10'
 BatchMap: 1.0.2.0
 BayClone2: '1.1'
+BayGMST: 0.1.0
 BayHap: 1.0.1
 BayHaz: 0.1-3
 BayLum: 0.3.3
@@ -5148,7 +5149,7 @@ MFAg: '2.3'
 MFDA: 1.1-4
 MFDF: 0.0-2
 MFDFA: '1.1'
-MFF: 0.2.5
+MFF: 1.0.0
 MFHD: 0.0.1
 MFKnockoffs: 0.9.1
 MFO: 0.2.1
@@ -6204,7 +6205,7 @@ ORTSC: 1.0.0
 ORdensity: '1.0'
 ORscraper: 0.1.1
 OSACC: '1.0'
-OSCARS: 0.2.1
+OSCARS: 0.2.2
 OSCV: '1.0'
 OSDR: 1.1.4
 OSFD: '3.1'
@@ -7537,6 +7538,7 @@ RMSNumpress: 1.0.1
 RMSS: 1.2.4
 RMSTpowerBoost: 1.0.3
 RMT4DS: 0.0.1
+RMTIF: 0.3.1
 RMTL: 1.0.0
 RMThreshold: '1.1'
 RMTstat: 0.3.2
@@ -9450,7 +9452,7 @@ SteadyStateBVAR: 0.2.0
 StealLikeBayes: '2.0'
 SteinIV: 0.1-1
 SteinerNet: 3.1.0
-Stem: '1.0'
+Stem: 2.0.0
 StemAnalysis: 0.1.0
 StempCens: 1.2.0
 StepBeta: 2.1.0
@@ -11129,7 +11131,7 @@ aos: 0.1.0
 apLCMS: 6.8.3
 apTreeshape: 1.5-0.1
 apa: 0.3.5
-apa7: 0.1.3
+apa7: 0.2.0
 apaStyle: '0.5'
 apaTables: 2.0.8
 apaText: 0.1.7
@@ -14595,7 +14597,7 @@ cvsem: 1.0.0
 cvwrapr: '1.0'
 cvxbiclustr: 0.0.1
 cvxclustr: 1.1.1
-cvxoptdes: 1.0.0
+cvxoptdes: 1.0.1
 cwad: 0.2.0
 cwbtools: 0.4.2
 cwhmisc: '6.6'
@@ -16060,7 +16062,7 @@ edgarWebR: 1.1.0
 edgarfundamentals: 0.1.3
 edgeCorr: '1.0'
 edgeRun: 1.0.9
-edgebundle: 1.0.0
+edgebundle: 1.0.1
 edgebundleR: 0.1.4
 edgedata: 0.2.0
 edgemodelr: 0.7.0
@@ -16277,7 +16279,7 @@ energyGOF: '0.1'
 energymethod: '1.1'
 energyr: '0.4'
 enerscape: 1.2.0
-enetLTS: 1.1.0
+enetLTS: 1.2.0
 engager: 0.1.0
 english: 1.2-6
 engression: 0.1.6
@@ -16551,7 +16553,7 @@ eudata: 0.1.3
 eudract: 1.1.1
 eufmdis.adapt: 0.1.0
 eulerian: '1.0'
-eulerr: 8.4.2
+eulerr: 8.4.3
 eummd: 0.2.0
 eunis.habitats: 0.1.0
 eurlex: 0.5.1
@@ -20278,7 +20280,7 @@ imp4p: '1.3'
 impARI: 0.0.3
 impactflu: 0.1.0
 impactr: 0.4.2
-impala: 0.1.4
+impala: 0.2.0
 impectR: 2.7.0
 impermanentlosscalc: 0.1.0
 impimp: 0.3.1
@@ -20336,7 +20338,7 @@ incidence2: 2.6.4
 incidental: '0.1'
 incidentally: 1.0.4
 inctools: 1.0.15
-incubate: 1.4.1
+incubate: 1.4.2
 indelmiss: 1.0.10
 independence: 1.0.1
 independenceWeights: 0.0.1
@@ -22392,7 +22394,7 @@ mcBFtest: 0.1.0
 mcGlobaloptim: '0.1'
 mcIRT: '0.41'
 mcMST: 1.1.1
-mcODE: '1.1'
+mcODE: '1.2'
 mcPAFit: 0.1.4
 mcStats: 0.1.3
 mcanalysis: 0.1.0
@@ -22976,6 +22978,7 @@ missSBM: 1.1.0
 missSOM: 1.0.1
 missalpha: 0.2.0
 missingHE: 1.6.3
+misskappa: 3.0.0
 missknn: 1.2.0
 missoNet: 1.5.1
 misspi: 0.1.1
@@ -23131,7 +23134,7 @@ mlr3inferr: 0.2.2
 mlr3learners: 0.16.0
 mlr3mbo: 1.3.0
 mlr3measures: 1.3.0
-mlr3misc: 0.23.0
+mlr3misc: 0.24.0
 mlr3oml: 0.12.0
 mlr3pipelines: 0.12.0
 mlr3proba: 0.4.9
@@ -25974,6 +25977,7 @@ pkmon: '1.1'
 pkpd.Release: 0.1.0
 pkr: 0.1.8
 pks: 0.8-0
+pksR: 0.1.0
 pksensi: 1.2.3
 plRasch: '1.0'
 pla: '0.2'
@@ -26812,7 +26816,7 @@ publicdataau: 0.4.1
 publipha: 0.1.2
 publishTC: 0.2.3
 pubmed.mineR: 1.0.21
-pubmedR: 1.0.2
+pubmedR: 1.1.0
 pubmedtk: 1.0.4
 pubprint: 0.2.1
 pubrplot: 0.0.1
@@ -26846,7 +26850,7 @@ pvLRT: 0.5.1
 pvaluefunctions: 1.7.0
 pvar: 2.2.7
 pvarife: 0.1.2
-pvars: 1.1.1
+pvars: 1.2.1
 pvclass: 1.4.1
 pvclust: 2.2-0
 pvcurveanalysis: 1.0.0
@@ -27268,7 +27272,7 @@ rFUSION: '0.1'
 rFerns: 6.0.0
 rFocal: '1.0'
 rForest: 0.1.4
-rGEDI: 0.6.0
+rGEDI: 0.6.1
 rGV: 0.0.6
 rGammaGamma: 1.0.12
 rGhanaCensus: 0.1.0
@@ -28719,7 +28723,7 @@ rodd: 0.2-1
 rodeo: 0.9.2
 rodham: 0.1.1
 rofanova: 1.0.1
-roger: 1.6-0
+roger: 1.6-1
 roistats: 0.1.1
 rok: 0.2.0
 rolap: 2.5.2
@@ -31031,6 +31035,7 @@ spftir: 0.1.0
 spgrass6: 0.8-9
 spgs: 1.0-4
 spgwr: 0.6-37
+spherDir: '1.0'
 sphereML: 0.1.1
 sphereTessellation: 1.2.0
 sphereclust: '1.2'
@@ -32619,7 +32624,7 @@ tint: 0.1.6
 tinter: 0.1.0
 tintin: '0.2'
 tinyProject: 0.6.1
-tinyVAST: 1.6.3
+tinyVAST: 1.6.4
 tinyarray: 3.0.0
 tinycache: '0.1'
 tinycodet: 0.8.0
