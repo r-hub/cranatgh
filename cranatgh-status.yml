@@ -59,6 +59,7 @@ AFFECT: 0.1.2
 AFLPsim: 0.4-2
 AFM: '2.0'
 AFR: 0.3.9
+AFTMicroMed: 0.0.2
 AFheritability: 0.1.0
 AGBQR: 0.1.0
 AGCA4extremes: 0.1.0
@@ -90,6 +91,7 @@ AIGRA: 0.2.0
 AIGovernance: 0.2.0
 AIM: '1.01'
 AIPW: 0.6.9.3
+AIRes: 0.1.0
 AIS: '1.0'
 AISanalyze: 3.1.4
 AIUQ: 0.5.6
@@ -497,7 +499,7 @@ BARD: '1.24'
 BAREB: 0.1.2
 BARIS: 1.1.3
 BART: 2.9.10
-BAS: 2.0.2
+BAS: 2.1.0
 BASIX: '1.2'
 BASS: 1.3.1
 BASiNET: 0.0.5
@@ -2189,7 +2191,7 @@ DSI: 1.8.0
 DSIR: 0.15.0
 DSL: 0.1-7
 DSLite: 1.5.0
-DSMolgenisArmadillo: 4.0.1
+DSMolgenisArmadillo: 4.0.3
 DSOpal: 1.5.0
 DSSAT: 0.0.9
 DSSP: 0.1.1
@@ -2346,6 +2348,7 @@ DescriptiveWH: 1.0.3
 Design: 2.3-0
 Design.parameters: 0.1.0
 DesignCTPB: 1.1.3
+DesignComplexSurvival: 0.4.0
 DesignLibrary: 2.0.0
 DesignPatterns: 0.1.2
 Desimml: 0.1.4
@@ -2554,7 +2557,7 @@ EDOtrans: 0.3.5
 EDR: 0.6-7
 EDanalysis: 1.0.1
 EE.Data: 0.2.0
-EEAaq: 1.0.3
+EEAaq: 1.0.4
 EEEA: 1.0.1
 EEM: 1.1.1
 EEMDSVR: 0.1.0
@@ -5901,7 +5904,7 @@ NCutYX: 0.1.0
 NDP: 0.1.0
 NDPalette: 1.0.0
 NEArender: '1.5'
-NEONiso: 0.8.0
+NEONiso: 0.9.0
 NEff: '1.1'
 NEpiC: 1.0.1
 NFCP: 1.2.2
@@ -6092,6 +6095,7 @@ NeuroDecodeR: 0.2.0
 NeutroBasicDesignsAnalysis: 0.0.1
 NeutroCODsAnalysis: 0.2.1
 NeutroCrdRcbdAnalysis: 0.0.1
+NeutroDOE: 0.1.0
 NeutroIBDAnalysis: 0.1.2
 NeutroRCDsAnalysis: 0.1.1
 NeutroSplitStripAnalysis: 0.0.1
@@ -7270,7 +7274,7 @@ RBPcurve: '1.3'
 RBaM: 1.1.2
 RBaseX: 1.1.2
 RBerkeley: 0.7-5
-RBesT: 1.12-0
+RBesT: 1.12-1
 RBestMatch: 0.1.1
 RBitly: 0.7.3
 RBitmoji: 0.0.2
@@ -8009,7 +8013,7 @@ Rcplex: 0.3-8
 Rcpp: 1.1.2
 Rcpp11: 3.1.2.0.1
 RcppAPT: 0.0.10
-RcppAlgos: 2.10.2
+RcppAlgos: 2.10.4
 RcppAnnoy: 0.0.23
 RcppArmadillo: 15.8.0-1
 RcppArray: 0.3.1
@@ -8843,7 +8847,7 @@ SPCompute: 1.0.4
 SPECIES: 1.2.0
 SPECK: 1.0.1
 SPEDInstabR: '2.2'
-SPEI: 1.8.1
+SPEI: 1.9.0
 SPEV: 1.0.0
 SPIAssay: 1.1.0
 SPIChanges: 0.3.0
@@ -9290,7 +9294,7 @@ Sojourn: 1.2.1
 Sojourn.Data: 0.3.0
 SolveLS: '1.0'
 SolveRationalMatrixEquation: 0.1.0
-SolveSAPHE: 2.1.0
+SolveSAPHE: 2.1.1
 SomaDataIO: 6.6.1
 SongEvo: 1.0.0
 SorptionAnalysis: 0.1.0
@@ -10399,7 +10403,7 @@ WeibullR.learnr: 0.2.1
 WeibullR.plotly: 0.3.2
 WeibullR.shiny: 0.3.1
 WeightCraft: 1.0.0
-WeightIt: 2.1.0
+WeightIt: 2.2.0
 WeightMyItems: 0.1.4
 WeightSVM: 1.7-16
 Weighted.Desc.Stat: '1.0'
@@ -11567,7 +11571,7 @@ b3archives: 1.0.0
 b3gbi: 1.1.3
 b64: 0.1.7
 b6e6rl: '1.1'
-bGMYC4: 4.1.6
+bGMYC4: 4.3.1
 bPeaks: '1.2'
 bRacatus: 2.0.0
 bReeze: 0.4-4
@@ -12942,7 +12946,7 @@ causalDisco: 1.3.0
 causalHyperGraph: 0.1.0
 causalMGM: 0.1.1
 causalMed: 0.1.3
-causalOT: 1.0.4
+causalOT: '1.1'
 causalPAF: 1.2.5
 causalQual: 1.0.0
 causalSLSE: 0.4-2
@@ -13299,7 +13303,7 @@ chromote: 0.5.1
 chromseq: 0.1.3
 chron: 2.3-63
 chronicle: '0.3'
-chronicler: 0.3.0
+chronicler: 0.3.1
 chronochrt: 0.1.5
 chronometre: 0.0.2
 chronosphere: 0.6.1
@@ -13713,6 +13717,7 @@ cognitoR: 1.0.5
 cograph: 2.7.17
 cohetsurr: '2.0'
 cohortBuilder: 1.0.0
+cohortBuilder.db: 1.0.0
 cohorts: 1.3.0
 cohorttools: 0.1.8
 coiR: 0.1.0
@@ -14117,6 +14122,7 @@ corrarray: 1.2.0
 corrcoverage: 1.2.1
 correctR: 0.3.1
 correctedAUC: 0.0.3
+correctedWS: 0.1.0
 correctref: 0.0.2
 corregp: 2.0.2
 correlate: '1.0'
@@ -14456,7 +14462,7 @@ csp: 0.1.0
 cspec: 0.1.2
 cspp: 0.3.3
 csppData: 0.2.61
-csquares: 0.1.0
+csquares: 0.1.1
 csranks: 1.3.0
 csrplus: 1.03-0
 cssTools: '1.0'
@@ -14539,7 +14545,7 @@ cureAssess: 0.1.0
 curephEM: 0.3.2
 cureplots: 1.1.1
 curesurv: 0.1.2
-curl: 8.1.0
+curl: 8.2.0
 curlconverter: 0.7.0
 currencyapi: 0.1.0
 currentSurvival: '1.1'
@@ -15681,7 +15687,7 @@ ds4psy: 1.4.0
 dsBase: 6.3.5
 dsBaseClient: 6.3.5
 dsFedAte: 0.1.0
-dsFedAteClient: 0.1.1
+dsFedAteClient: 0.1.2
 dsROCrate: 0.2.4
 dsTidyverse: 1.2.1
 dsTidyverseClient: 1.1.0
@@ -15769,7 +15775,7 @@ dummies: 1.5.6
 dummy: 0.1.3
 dundermifflin: 0.1.1
 dunlin: 0.1.12
-dunn.test: 1.4.2
+dunn.test: 1.4.3
 dupNodes: 0.3.0
 dupiR: 1.2.1
 dupree: 0.3.0
@@ -15892,7 +15898,7 @@ easingr: 1.0.1
 easy.glmnet: '1.3'
 easy.utils: 0.1.0
 easyAHP: 0.1.1
-easyCODA: 0.40.2
+easyCODA: '0.50'
 easyComment: 2.1.0
 easyDes: '6.0'
 easyDifferentialGeneCoexpression: '1.4'
@@ -16198,7 +16204,7 @@ ellipsis: 0.3.3
 elliptic: 1.5-1
 ellipticalsymmetry: 0.1.2
 ellmer: 0.5.2
-ellmercodex: 0.2.1
+ellmercodex: 0.2.2
 elmNN: '1.0'
 elmNNRcpp: 1.0.5
 elo: 3.0.2
@@ -16252,6 +16258,7 @@ emplik: 1.3-3
 emplik2: '1.33'
 emplikAUC: '0.5'
 emplikCS: '0.4'
+emplikDTA: 0.1.0
 emreliability: 1.0.0
 ems: 1.3.11
 emstreeR: 3.2.0
@@ -17191,7 +17198,7 @@ fibr: 0.1.1
 fic: 1.0.1
 fidap: 0.0.3
 fidelius: 0.0.2
-fido: 1.1.5
+fido: 1.1.7
 fieldRS: 0.2.3
 fieldopt: 0.1.0
 fields: '18.0'
@@ -17357,6 +17364,7 @@ flashr: 0.3.0
 flassomsm: 0.1.0
 flatness: 0.1.4
 flatr: 0.1.1
+flatratemath: 0.2.0
 flattabler: 2.1.2
 flatxml: 0.1.1
 fledge: 0.1.4
@@ -18351,7 +18359,7 @@ getProxy: '1.13'
 getRad: 0.4.0
 getTBinR: 0.7.1
 getable: 1.0.3
-getaca: 0.1.6
+getaca: 0.2.0
 gethr: 0.1.0
 getip: 0.1-4
 getlandsat: 0.2.0
@@ -19386,7 +19394,7 @@ h3jsr: 1.3.1
 h3lib: 0.1.4
 h3o: 0.3.0
 h3r: 0.1.2
-h3sdm: 0.1.8
+h3sdm: 0.1.9
 h5: 0.9.9
 h5lite: 2.2.0.0
 h5r: 1.4.7
@@ -20273,7 +20281,7 @@ immcp: 1.0.3
 immer: 1.5-13
 immunarch: 0.10.3
 immunaut: 1.0.3
-immundata: 0.1.0
+immundata: 0.2.0
 immuneSIM: 0.8.7
 immunogenetr: 1.5.0
 imola: 0.5.0
@@ -22553,7 +22561,7 @@ megaptera: 1.0-0
 megatrees: 1.0.1
 meifly: 0.3.1
 mekko: 0.1.0
-melidosData: 1.0.6
+melidosData: 1.0.7
 mellio: 1.1.0
 melodi: 1.2.1
 melody: 0.4.7
@@ -22694,6 +22702,7 @@ metapro: 1.5.11
 metaprotr: 1.2.2
 metaquant: 0.1.3
 metarep: 1.2.1
+metascience: 0.1.0
 metaselection: 0.3.0
 metasens: 1.5-3
 metasnf: 2.3.0
@@ -24439,7 +24448,7 @@ nordstatExtras: 0.1.0
 norgeo: 2.3.1
 norm: 1.0-11.1
 norm2: 2.0.4
-normalblockr: 0.3.0
+normalblockr: 1.0.0
 normaliseR: 0.1.2
 normality: 0.0.4
 normalize: 0.2.0
@@ -26790,7 +26799,7 @@ ptable: 1.0.0
 ptcompare: 0.1.0
 pterrace: '1.0'
 ptest: 1.0-8
-ptetools: 1.0.1
+ptetools: 1.1.0
 ptf: 0.0.1
 ptinpoly: '2.8'
 ptm: 1.0.1
@@ -27046,7 +27055,7 @@ qtlc: '1.0'
 qtlcharts: '0.22'
 qtlhot: 1.2.10
 qtlmt: 0.1-6
-qtlnet: 1.5.4
+qtlnet: 1.6.1
 qtlpoly: 0.2.4
 qtpaint: 0.9.1
 qtsa: 0.1.1
@@ -28980,7 +28989,7 @@ rsi: 0.3.3
 rsides: '0.1'
 rsig: '1.0'
 rsimsum: 0.13.1
-rsinaica: 1.2.0
+rsinaica: 1.2.1
 rsixel: 0.0.4
 rskey: 0.4.19
 rsleep: 1.0.12
@@ -31258,6 +31267,7 @@ sspline: 0.1-6
 sspm: 1.1.0
 sspse: 1.1.0-6
 ssr: 0.1.1
+ssrfr: 1.0.0
 ssrm.logmer: '0.1'
 ssrn: 0.1.0
 sss: 0.2.2
@@ -32688,6 +32698,7 @@ tls: 0.1.0
 tlsR: 0.3.0
 tlsh: 0.1.0
 tm: 0.7-20
+tm.hyslaw: 0.2.0
 tm.plugin.alceste: 1.1.2
 tm.plugin.dc: 0.2-10
 tm.plugin.europresse: 1.4.1
@@ -32696,6 +32707,7 @@ tm.plugin.koRpus: 0.4-2
 tm.plugin.lexisnexis: 1.4.2
 tm.plugin.mail: 0.3-2
 tm.plugin.webmining: '1.3'
+tm.ttni: 0.1.0
 tm1r: 1.1.8
 tma: 0.3.1
 tmap: 4.4-1
@@ -32872,7 +32884,7 @@ trajectories: 0.2-10
 trajmsm: 0.1.7
 trajr: 1.5.1
 traktok: 0.1.1
-tram: 1.4-7
+tram: 1.4-8
 tramME: 1.0.8
 tramicp: 0.1-1
 tramnet: 0.1-0
@@ -34532,7 +34544,7 @@ zufast: 0.1.0
 zufft: 0.1.0
 zuhtml: 0.1.1
 zujson: 0.1.1
-zukomp: 0.1.0
+zukomp: 0.2.0
 zumime: 0.1.0
 zutoml: 0.1.0
 zuxml: 0.1.0
