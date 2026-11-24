@@ -145,7 +145,7 @@ AOboot: 0.1.2
 AOfamilies: '1.01'
 APAtree: 1.0.1
 APCI: 1.0.8
-APCalign: 2.0.1
+APCalign: 2.1.0
 APCanalysis: '1.0'
 APCinteraction: 0.1.0
 APCtools: 1.0.8
@@ -848,7 +848,7 @@ BayesQVGEL: 0.1.1
 BayesRE: 0.1.0
 BayesRGMM: '2.2'
 BayesRS: 0.1.3
-BayesRTMB: 0.4.0
+BayesRTMB: 0.5.0
 BayesRegDTR: 1.1.2
 BayesRep: 0.42.2
 BayesRepDesign: '0.42'
@@ -3218,7 +3218,7 @@ Fluidigm: '0.2'
 Flury: 0.1-3
 FluvialTracer: 1.0.0
 FluxPoint: 0.1.2
-FluxSeparator: 2.0.0
+FluxSeparator: 2.0.2
 FlyingR: 0.2.3
 FlywayNet: 0.1.0
 FnR: 1.1.0
@@ -5334,7 +5334,7 @@ MPV: '2.0'
 MPkn: 0.1.0
 MPsychoR: 0.10-8
 MQMF: 0.1.5
-MR.RGM: 0.1.3
+MR.RGM: 0.1.4
 MRAM: 1.0.1
 MRCE: '2.4'
 MRCV: 0.4-0
@@ -7205,7 +7205,7 @@ R2STATS: 0.68-39
 R2SWF: 0.9-9
 R2WinBUGS: 2.1-24
 R2admb: 0.7.16.3
-R2camtrapdp: 2.0.0
+R2camtrapdp: 2.1.0
 R2jags: 0.8-9
 R2sample: 5.1.1
 R2ucare: 1.0.3
@@ -8039,7 +8039,7 @@ RcppDist: 0.1.1.1
 RcppDynProg: 0.2.1
 RcppEigen: 0.3.4.0.2
 RcppEigenAD: 1.1.0
-RcppEnsmallen: 0.3.11.0.1
+RcppEnsmallen: 0.3.11.2.1
 RcppExamples: 0.1.11
 RcppFaddeeva: 0.2.2
 RcppFarmHash: 0.0.4
@@ -8500,7 +8500,7 @@ S2sls: '0.1'
 S3VS: '1.1'
 S4DM: 0.0.2
 S7: 1.0.0
-S7schema: 0.2.1
+S7schema: 0.2.2
 SACCR: '3.4'
 SACOBRA: '1.2'
 SADEG: 1.0.0
@@ -8749,7 +8749,7 @@ SLIC: '0.3'
 SLICER: 0.2.0
 SLIDE: 1.0.0
 SLModels: 0.1.2
-SLOPE: 2.1.1
+SLOPE: 2.2.0
 SLOS: 2.0.0
 SLPresElection: 2.0.0
 SLRMss: 1.1.0
@@ -8898,7 +8898,7 @@ SRTsim: 0.99.7
 SRTtools: 1.2.0
 SRscore: 0.1.2
 SSAforecast: 0.1.1
-SSBtools: 1.8.9
+SSBtools: 1.9.0
 SSDL: '1.1'
 SSDM: 0.2.11
 SSDforR: '2.5'
@@ -9659,7 +9659,7 @@ TEAM: 0.1.0
 TED: 1.1.1
 TEEReg: '1.1'
 TELP: 1.0.3
-TEMPO: 0.2.0
+TEMPO: 0.2.1
 TEQR: 6.0-0
 TERAplusB: '1.0'
 TESS: 2.1.2
@@ -9976,7 +9976,7 @@ TraitStats: 1.0.2
 Traitspace: '1.1'
 TrajDataMining: 0.1.6
 TransGraph: 1.1.0
-TransHDM: 1.1.3
+TransHDM: 1.1.6
 TransModel: '2.3'
 TransP: '0.1'
 TransPhylo: 1.4.5
@@ -13485,7 +13485,7 @@ clinicalomicsdbR: 1.0.6
 clinicalsignificance: 3.0.0
 clinify: 0.4.1
 clinmon: 0.6.0
-clinpubr: 1.4.3
+clinpubr: 1.4.4
 clinsig: '1.2'
 clinspacy: 1.0.2
 clintools: 0.9.10.1
@@ -17931,7 +17931,7 @@ galisats: 2.2.0
 gallery: 1.0.0
 galts: 1.3.2
 galvanizer: 0.5.3
-gam: 1.22-7
+gam: 1.22-8
 gam.hp: 0.0-5
 gamCopula: 0.0-8
 gamRR: 0.7.0
@@ -19891,7 +19891,7 @@ httpuv: 1.6.17
 httr: 1.4.9
 httr2: 1.3.0
 hubEnsembles: 1.0.0
-hubEvals: 0.5.0
+hubEvals: 0.6.0
 hubUtils: 1.3.0
 hubeau: 0.5.2
 hudr: 1.2.0
@@ -21725,7 +21725,7 @@ lme: 3.1-0
 lme4: 2.1-0
 lme4GS: '0.1'
 lme4breeding: 1.1.5
-lmeInfo: 0.3.4
+lmeInfo: 0.3.5
 lmeNB: '1.3'
 lmeNBBayes: 1.3.1
 lmeSplines: 1.1.20
@@ -23403,7 +23403,7 @@ morphemepiece.data: 1.2.0
 morpheus: 1.0-6
 morphomap: '1.5'
 morrowplots: 0.2.0
-morse: 3.6.0
+morse: 3.6.1
 morseDR: 0.1.3
 morseTKTD: 0.1.3
 mort: 0.0.1
@@ -23891,7 +23891,7 @@ mwmapdata: 1.0.0
 mwshiny: 2.1.0
 mx.api: 0.4.0
 mx.client: 0.3.0
-mx.crypto: 0.3.0
+mx.crypto: 0.3.1
 mxcc: 0.0.6
 mxfda: 0.2.2-1
 mxkssd: '1.2'
@@ -24013,7 +24013,7 @@ ncdf: 1.6.9
 ncdf.tools: 0.7.1.295
 ncdf4: '1.24'
 ncdf4.helpers: 0.3-7
-ncdfCF: 0.8.2
+ncdfCF: 0.9.0
 ncdfgeom: 1.2.3
 ncdump: 0.0.5
 ncf: 1.3-3
@@ -24059,7 +24059,7 @@ neo2R: 3.1.1
 neo4jshell: 0.1.2
 neo4r: 0.1.4
 neodistr: 0.1.2
-neojags: 0.1.7
+neojags: 0.1.8
 neonOS: 1.1.0
 neonPlantEcology: 1.6.1
 neonSoilFlux: 4.0.1
@@ -24116,7 +24116,7 @@ netmap: 0.1.4
 netmatchRI: 0.1.0
 netmediate: 1.1.1
 netmem: 1.1-0
-netmeta: 3.7-0
+netmeta: 3.9-0
 netmhc2pan: 1.3.3
 netmodels: '0.2'
 netpanel: 0.0.1
@@ -30952,7 +30952,7 @@ spatstat.local: 5.1-0
 spatstat.model: 3.7-2
 spatstat.random: 3.5-2
 spatstat.sparse: 3.2-0
-spatstat.univar: 3.2-0
+spatstat.univar: 3.2-1
 spatstat.utils: 3.2-6
 spatsurv: 2.0-1
 spbabel: 0.6.0
@@ -31340,7 +31340,7 @@ staplr: 3.2.2
 starburst: 0.3.12
 stargazer: 5.2.3
 stargazer2: 0.1.2
-starling: 1.1.0
+starling: 2.0.0
 starm: 0.1.0
 starma: '1.3'
 starmie: 0.1.2
@@ -32649,7 +32649,7 @@ tinyplot: 0.8.0
 tinyrox: 0.4.1
 tinyroxygen: '0.1'
 tinyscholar: 0.1.7
-tinyshinyserver: 0.2.1
+tinyshinyserver: 0.3.0
 tinysnapshot: 0.3.0
 tinyspotifyr: 0.2.3
 tinytable: 0.19.0
