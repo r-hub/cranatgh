@@ -126,6 +126,7 @@ AMORE: 0.2-16
 AMPLE: 1.0.2
 AMR: 3.1.0
 AMRsurveilR: 0.1.0
+AMRvalid: 1.0.0
 ANLP: '1.3'
 ANN: 0.1.4
 ANN2: 2.4.0
@@ -895,7 +896,7 @@ BayesianMediationA: 1.0.1
 BayesianNetwork: '0.4'
 BayesianPlatformDesignTimeTrend: 1.2.3
 BayesianPower: 0.2.3
-BayesianQDM: 1.0.1
+BayesianQDM: 1.1.0
 BayesianReasoning: 0.4.3
 BayesianTools: 0.1.9
 BayesianTrial: 0.1.0
@@ -2424,6 +2425,7 @@ DiscreteWeibull: '1.1'
 DiscriMiner: 0.1-29
 Disequilibrium: '1.1'
 DisimForMixed: '0.2'
+DistFamilyFit: 0.1.1
 DistLagHet: 0.1.0
 DistPlotter: 0.0.2
 Distance: 2.0.1
@@ -4190,6 +4192,7 @@ IFANN: 0.1.0
 IFARIMA: 0.1.0
 IFC: 0.2.1
 IFFuzzyStats: 0.1.0
+IFLSTM: 0.1.0
 IFMCDM: 0.1.17
 IFP: 0.2.4
 IFSPlot: '1.0'
@@ -5699,6 +5702,7 @@ MixSim: 1.1-8
 MixStable: 0.1.0
 MixTwice: '2.0'
 MixedDataImpute: '0.1'
+MixedDeepMM: 0.1.0
 MixedDiversityAnalysis: 0.1.0
 MixedIndTests: 1.2.0
 MixedLevelRSDs: 1.0.0
@@ -5720,6 +5724,7 @@ MoEClust: 1.6.0
 MoLE: 1.0.1
 MoMPCA: 1.0.1
 MoNAn: 2.1.1
+MoPlot: 0.1.0
 MoTBFs: 2.0.1
 MobileTrigger: 0.0.31
 MobilityDataPT: '1.0'
@@ -8476,7 +8481,7 @@ Runiversal: 1.0.2
 Runuran: '0.41'
 RunuranGUI: '0.3'
 Rvcg: '0.25'
-Rveg: 0.1.11
+Rveg: 0.2.0
 Rvelslant: 0.2-3
 Rvmmin: 2018-4.17.1
 Rvoterdistance: 2.0.0
@@ -10177,7 +10182,7 @@ VBsparsePCA: 0.1.0
 VC2copula: 0.1.6
 VCA: 1.5.2
 VCBART: 1.2.5
-VCFArrow: 0.9.0
+VCFArrow: 1.0.0
 VCMoE: 0.3.0
 VDA: '1.3'
 VDAP: 2.0.0
@@ -10363,7 +10368,7 @@ WallomicsData: '1.0'
 WarnEpi: 1.0.1
 WaterBalanceR: 0.1.22
 WaterML: 1.9.8
-Watersheds: '1.1'
+Watersheds: 1.2.0
 Wats: 1.0.1
 WaveCD: '1.0'
 WaveCGH: '2.01'
@@ -10709,6 +10714,7 @@ adaptiveGPCA: 0.1.3
 adaptivetau: 2.3-2
 adaptr: 1.5.0
 adaptsmoFMRI: '1.2'
+adarvmapsr: 0.1.20
 adas.utils: 1.5.0
 adass: 1.0.1
 adbcdrivermanager: 0.25.0
@@ -11108,7 +11114,7 @@ anovapowersim: 1.2.0
 anovir: 0.1.0
 anscombiser: 1.1.0
 ant: 0.0-10
-antaresEditObject: 1.0.1
+antaresEditObject: 1.1.0
 antaresProcessing: 0.18.3
 antaresRead: 3.2.0
 antaresViz: 0.18.3
@@ -12157,7 +12163,7 @@ bio.infer: 1.3-6
 bio3d: 2.4-5
 bioC.logs: 1.2.1
 bioIOT: 0.2.2
-bioLeak: 0.3.8
+bioLeak: 0.4.0
 bioOED: 0.2.1
 bioPN: 1.2.0
 bioRad: 0.12.0
@@ -12388,6 +12394,7 @@ bodenmiller: 0.1.1
 bodsr: 0.1.0
 bodycomp: 1.0.0
 bodycompref: 2.0.2
+bodycon: 0.2.1
 boe: 0.4.0
 boggy: 0.0.1
 boids4R: 0.3.1
@@ -12585,7 +12592,7 @@ brranching: 0.7.0
 brsim: '0.3'
 brt: 1.3.0
 bruceR: '2026.1'
-brulee: 1.2.0
+brulee: 1.3.0
 bruneimap: 0.3.1
 brunnermunzel: '2.0'
 bruno: 0.1.0
@@ -12793,7 +12800,7 @@ canadacovid: 0.3.4
 canadamaps: '0.1'
 canadianmaps: 2.0.0
 canaper: 1.0.1
-cancensus: 0.6.2
+cancensus: 0.6.3
 cancerGI: 1.0.1
 cancerR: 0.1.1
 cancerTiming: 3.1.8
@@ -13040,7 +13047,7 @@ cdfinv: 0.1.0
 cdfquantreg: 1.3.1-2
 cdgd: 1.0.1
 cdiWG2WS: 0.2.0
-cdid: 1.3.0.1
+cdid: 1.4.0.0
 cdiscdata: 0.2.0
 cdlTools: '1.13'
 cdlei: '1.0'
@@ -13716,7 +13723,7 @@ cogmod: 0.3.3
 cognitoR: 1.0.5
 cograph: 2.7.17
 cohetsurr: '2.0'
-cohortBuilder: 1.0.0
+cohortBuilder: 1.0.1
 cohortBuilder.db: 1.0.0
 cohorts: 1.3.0
 cohorttools: 0.1.8
@@ -14997,6 +15004,7 @@ deepdep: 0.4.4
 deepdive: 1.0.4
 deepgmm: 0.2.1
 deepgp: 1.2.3
+deephelp: 0.3.5
 deeplearning: 0.1.0
 deeplr: 2.1.0
 deepnet: 0.2.1
@@ -15856,7 +15864,7 @@ eAnalytics: '0.4'
 eBsc: '4.17'
 eCAR: 0.1.2
 eCV: 0.0.2
-eCerto: 0.8.30
+eCerto: 0.8.31
 eChem: 1.0.0
 eClosure: 0.9.7
 eDITH: 1.1.0
@@ -16396,7 +16404,7 @@ episheet: 0.4.0
 episode: 1.0.0
 episomer: 3.0.35
 episplineDensity: 0.0-1
-epistandardiseR: 0.0.2
+epistandardiseR: 0.0.3
 epistasis: 0.0.1-1
 epitab: 0.2.2
 epitable: 0.1.2
@@ -16857,6 +16865,7 @@ factoextra: 2.2.0
 factoptd: 1.0.3
 factor.switching: '1.4'
 factor256: 0.1.0
+factorDistADMM: 0.1.6
 factorEx: 1.1.0
 factorH: 0.6.0
 factorMerger: 0.4.0
@@ -16987,7 +16996,7 @@ fastdid: 1.0.6
 fastdigest: 0.6-4
 fastei: 0.0.21
 fasterElasticNet: 1.1.2
-fasterRaster: 8.4.1.3
+fasterRaster: 8.4.1.4
 fasteraster: 1.1.1
 fasterize: 1.1.0
 fastfocal: 0.1.3
@@ -17256,6 +17265,7 @@ fingerprint: 3.5.10
 fingertipsR: 1.0.5
 fingertipscharts: 0.0.11
 fingraph: 0.1.0
+finid: 0.1.1
 finiteruinprob: '0.6'
 finity: 0.1.5
 finlabR: 1.0.0
@@ -18287,7 +18297,7 @@ geomnet: 0.3.1
 geomod: 0.1.0
 geomorph: 4.1.2
 geomorphR: 0.2.1
-geomtextpath: 0.2.0
+geomtextpath: 0.2.1
 geomultistar: 1.2.2
 geonames: '0.999'
 geonapi: 0.8-1
@@ -18401,7 +18411,7 @@ ggDoE: '0.8'
 ggDoubleHeat: 0.1.3
 ggEDA: 0.3.0
 ggESDA: 0.2.0
-ggExametrika: 1.2.0
+ggExametrika: 1.3.0
 ggExtra: 0.11.0
 ggFacetSample: 1.0.0
 ggFishPlots: 0.4.0
@@ -18500,7 +18510,7 @@ ggfixest: 0.4.0
 ggflowchart: 1.0.0
 ggfocus: 1.0.1
 ggfootball: 0.3.0
-ggforce: 0.5.0
+ggforce: 0.6.0
 ggforestplotR: 0.6.0
 ggformula: 2.0.0
 ggfortify: 0.4.25
@@ -19198,7 +19208,7 @@ gridGraphviz: 0.3-2
 gridHR: 1.0.0
 gridOT: 1.0.2
 gridSVG: 1.7-7
-griddy: 0.1.0
+griddy: 0.2.0
 gridify: 0.8.1
 gridmicrotex: 0.2.0
 gridpattern: 1.5.1
@@ -21124,6 +21134,7 @@ kmlShape: 0.9.5
 kmlcov: 1.0.1
 kmodR: 0.2.0
 kmscv: 0.1.0
+knbsdata: 0.5.0
 knfi: 1.0.2
 knitLatex: 0.9.0
 knitcitations: 1.0.12
@@ -21308,6 +21319,7 @@ lares: 5.4.1
 lareshiny: 0.0.3
 largeList: 0.3.1
 largeVis: 0.2.1.1
+largecardinals: 0.1.0
 lars: '1.3'
 lasars: 0.1.1
 laser: 2.4-1
@@ -21685,7 +21697,7 @@ liteformats: 0.2.0
 liteq: 1.2.0
 literanger: 0.2.0
 litteR: 1.0.2
-litterfitter: 0.3.0
+litterfitter: 0.3.1
 littler: 0.3.24
 liureg: 1.1.3
 live: 1.5.13
@@ -24313,7 +24325,7 @@ nlreg: 1.2-4
 nlrq: 0.1-6
 nlrr: '0.1'
 nlrwr: 1.1-0
-nlrx: 0.4.6
+nlrx: 0.5.0
 nls: 0.5-3
 nls.multstart: 2.0.0
 nls2: 0.3-4
@@ -25349,7 +25361,7 @@ paretoinfer: 0.1.0
 parfm: 2.7.8
 parfossil: 0.2.0
 pargasite: 2.1.1
-parglm: 0.2.0
+parglm: 0.2.1
 parlitools: 0.4.1
 parma: '1.7'
 parmigene: 1.1.1
@@ -25752,6 +25764,7 @@ pharmaverseraw: 0.1.1
 pharmaversesdtm: 1.5.0
 pharmaversesdtmjnj: 0.0.6
 pharmr: 2.2.0
+pharos: 0.1.6
 phase: 1.2.9
 phase12designs: 0.3.1
 phase1PRMD: 1.0.2
@@ -27447,7 +27460,7 @@ rainerosr: 0.1.1
 rainette: 0.3.3
 rainfarmr: '0.1'
 rainfreq: '0.3'
-rairai: 0.2.7
+rairai: 0.2.8
 rairtable: 0.1.2
 raiseR: 0.1.0
 raisr: 0.1.0
@@ -30945,7 +30958,7 @@ spatstat.convert: 1.0-1
 spatstat.core: 2.4-4
 spatstat.data: 3.1-9
 spatstat.explore: 3.8-3
-spatstat.geom: 3.8-3
+spatstat.geom: 3.8-4
 spatstat.gui: 3.1-0
 spatstat.linnet: 3.5-4
 spatstat.local: 5.1-0
@@ -32656,7 +32669,7 @@ tinyspotifyr: 0.2.3
 tinytable: 0.19.0
 tinytest: 1.4.3
 tinytest2JUnit: 1.1.3
-tinytex: '0.61'
+tinytex: '0.62'
 tinythemes: 0.0.4
 tinytiger: 0.0.12
 tinytrail: 0.1.0
@@ -33729,7 +33742,7 @@ virtualPollen: 1.0.2
 virtualspecies: 1.6.1
 virtuoso: 0.1.8
 viruslearner: 0.0.2
-virustotal: 0.7.1
+virustotal: 0.8.0
 visATC: 1.1.0
 visNetwork: 2.1.4
 visOmopResults: 1.5.1
@@ -33913,7 +33926,7 @@ wasim: 1.1.2
 waspasR: 0.1.5
 waspr: 1.0.1
 watcher: 0.2.2
-water: '0.8'
+water: '1.0'
 waterData: 1.0.8
 waterYearType: 1.0.1
 waterfall: 1.0.2
