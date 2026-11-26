@@ -800,7 +800,7 @@ BayesFM: 0.1.7
 BayesFR: 1.0.1
 BayesFactor: 0.9.12-4.8
 BayesFluxR: 0.1.3
-BayesForge: 0.0.1
+BayesForge: 0.0.2
 BayesGESM: '1.4'
 BayesGOF: '5.2'
 BayesGP: 0.1.3
@@ -917,6 +917,7 @@ BeeGUTS: 1.5.0
 Benchmarking: '0.33'
 BenfordTests: 1.2.0
 Bergm: 6.0.0
+Bergm.ws: 0.1.0
 BerkeleyEarth: '1.8'
 BerkeleyForestsAnalytics: 4.0.0
 BerlinData: 1.0.1
@@ -1756,7 +1757,7 @@ CompositionalSR: '1.6'
 CompositionalZADR: '1.2'
 Compositionalasmr: '1.0'
 Compositionalcln: '1.1'
-Compositionalridge: '1.0'
+Compositionalridge: '1.1'
 Compositionalscsmr: '1.0'
 Compositionalzerocens: '1.1'
 CompoundEvents: '1.0'
@@ -3299,7 +3300,7 @@ Fuzzy.p.value: '1.1'
 FuzzyAHP: 0.9.5
 FuzzyClass: 0.3.0
 FuzzyDBScan: 0.0.3
-FuzzyImputationTest: 0.5.5
+FuzzyImputationTest: 0.5.6
 FuzzyLP: 0.1-7
 FuzzyLogit: 0.1.1
 FuzzyM: 0.1.0
@@ -4025,7 +4026,7 @@ HealthCal: 0.1.1
 HealthMarkers: 0.1.4
 HeatStressR: 3.0.0
 HeatmapR: 1.1.0
-HeckmanEM: 0.2-2
+HeckmanEM: 0.2-3
 HeckmanStan: 1.0.0
 HellCor: '1.3'
 HelloFrog: 0.1.1
@@ -4687,7 +4688,7 @@ LDAShiny: 1.1.0
 LDATS: 0.3.0
 LDATree: 0.2.0
 LDAandLDAS: 1.1.3
-LDAcoop: 0.1.2
+LDAcoop: 0.1.3
 LDAvis: 0.3.2
 LDLcalc: '2.1'
 LDM: 6.0.1
@@ -6057,7 +6058,7 @@ NestMRMC: '1.0'
 NestedCategBayesImpute: 1.2.1
 NestedCohort: 1.1-3
 NestedMenu: 0.2.0
-Nestimate: 0.9.24
+Nestimate: 1.2.0
 NetCluster: '0.2'
 NetComp: '1.6'
 NetCoupler: 0.1.1
@@ -9121,7 +9122,7 @@ SesIndexCreatoR: 1.0-2
 SetMethods: '4.1'
 SetRank: 1.1.0
 SetTest: 0.3.1
-Seurat: 6.0.0
+Seurat: 6.0.1
 SeuratExplorer: 0.1.10
 SeuratObject: 5.4.0
 SexSeek: 0.1.0
@@ -11612,7 +11613,7 @@ baclava: '1.1'
 bacondecomp: 0.1.1
 bacontrees: 1.0.0
 bacr: 1.0.1
-badcontrols: 1.0.1
+badcontrols: 1.1.0
 badgecreatr: 0.2.0
 badgen: 1.0.1
 badger: 0.2.5
@@ -12416,7 +12417,7 @@ bomrang: 0.7.4
 bondAnalyst: 1.0.1
 bones: 0.2.0
 bonn: 1.0.3
-bonsai: 0.4.1
+bonsai: 0.5.0
 bonsaiforest: 0.1.1
 bonsaisitter: 0.1.2
 booami: 0.1.3
@@ -13146,7 +13147,7 @@ cfda: 0.12.1
 cfdecomp: 0.4.0
 cffdrs: 1.9.2
 cffr: 1.4.3
-cfid: 0.1.8
+cfid: 0.2.0
 cfma: '1.0'
 cfmortality: 0.3.0
 cforecast: 0.1.1
@@ -14199,7 +14200,7 @@ countyhealthR: 0.1.5
 countytimezones: 1.0.0
 countyweather: 0.1.0
 coupling: '0.1'
-couplr: 1.9.0
+couplr: 2.0.0
 courieR: 0.3.1
 coursekata: 0.21.0
 covBM: 0.1.0
@@ -15364,7 +15365,7 @@ discretecdAlgorithm: 0.0.7
 discretefit: 0.1.3
 discretes: 0.1.1
 discretization: 1.0-1.1
-discrim: 1.1.0
+discrim: 1.2.0
 discrimARTs: '0.2'
 discrtr: 0.0.1
 discursive: 0.1.1
@@ -16695,7 +16696,7 @@ exhaustiveRasch: 0.3.7
 exif: 0.1.1
 exifr: 0.3.2
 exiftoolr: 0.2.10
-exmort: 0.1.1
+exmort: 0.1.2
 exnexSurv: 1.3.0
 exoplanetdata: 0.1.0
 exoplanets: 0.2.2
@@ -17955,7 +17956,7 @@ gamboostLSS: 2.2-0
 gamboostMSM: 1.1.88
 gamclass: 0.62.7
 gameR: 0.0.7
-gameofthrones: 1.0.2
+gameofthrones: 1.0.3
 games: 1.1.2
 gamesGA: 1.1.3.7
 gamesNws: '0.5'
@@ -18460,7 +18461,7 @@ ggborderline: 0.3.0
 ggbrace: 0.1.2
 ggbraid: 0.2.2
 ggbrain: 0.9.1
-ggbreak: 0.2.2
+ggbreak: 0.2.3
 ggbrick: 0.3.2
 ggbuildr: 0.1.0
 ggbump: 0.1.0
@@ -19463,7 +19464,7 @@ happybiRthday: 0.0.1
 happytime: 0.1.0
 hapsim: '0.31'
 harbinger: 2.1.707
-hardhat: 1.4.3
+hardhat: 1.4.4
 harf: 0.1.0
 harmonicmeanp: 3.0.1
 harmonizer: 0.3.2
@@ -19890,7 +19891,7 @@ htree: 2.0.0
 hts: 6.0.3
 htsDegenerateR: 0.1.0
 htsr: 2.1.7
-httk: 2.7.4
+httk: 3.0.0
 httkexamples: 0.0.1
 httpRequest: 0.0.11
 httpcache: 1.2.0
@@ -21522,7 +21523,7 @@ lessSEM: 1.5.7
 lest: 1.1.0
 lestat: '1.9'
 letsHerp: 0.1.0
-letsR: '6.0'
+letsR: '6.1'
 letsRept: 1.1.3
 lettercase: 0.13.1
 lettervalue: 0.2.1
@@ -22774,7 +22775,7 @@ mfp: 1.5.5.1
 mfp2: 1.1.1
 mfpp: 0.0.9
 mfr: '1.04'
-mfrmr: 0.2.4
+mfrmr: 0.3.2
 mfx: 1.2-4
 mgarchBEKK: 0.0.5
 mgc: 2.0.2
@@ -23075,7 +23076,7 @@ mixsmsn: 1.1-12
 mixsqp: 0.3-54
 mixstock: 0.9.5.1
 mixtNB: '1.0'
-mixtime: 0.5.0
+mixtime: 0.5.1
 mixtools: 2.0.0.1
 mixtox: 1.5.0
 mixtree: 0.0.1
@@ -25286,6 +25287,7 @@ palsr: 0.1.1
 paltran: 1.3-0
 pam: 2.3.0
 pamctdp: 0.3.2
+pamflow: 0.6.1
 pamm: '1.122'
 pammtools: 0.8.1
 pampe: 1.1.2
@@ -25571,7 +25573,7 @@ pdglasso: 2.0.1
 pdi: 0.4.3
 pdist: 1.2.1
 pdmod: 1.0.1
-pdokr: 0.1.0
+pdokr: 0.2.0
 pdolsms: '0.2'
 pdp: 0.10.0
 pdqr: 0.3.1
@@ -26725,7 +26727,7 @@ proxirr: '0.5'
 proxy: 0.4-29
 proxyC: 0.6.0
 proxymix: 0.17.0
-prozor: 0.3.1
+prozor: 0.5.0
 prqlr: 0.10.2
 prrd: 0.1.0
 prt: 0.2.1
@@ -29150,7 +29152,7 @@ ruimtehol: 0.3.2
 ruin: 0.1.1
 ruleatlas: 0.0.1
 ruler: 0.3.2
-rules: 1.0.3
+rules: 1.1.0
 rumenGP: 0.2.1
 rumidas: 0.1.3
 ruminate: 0.3.2
@@ -29976,7 +29978,7 @@ sfcurve: 1.0.1
 sfd: 0.1.0
 sfdct: 0.3.0
 sfdep: 0.2.5
-sffdr: 1.1.2
+sffdr: 1.2.5
 sfheaders: 0.4.5
 sfhelper: 0.2.2.0
 sfhotspot: 1.1.1
@@ -30712,7 +30714,7 @@ softermax: 0.3.0
 softmaxreg: '1.2'
 softwareRisk: 0.3.0
 soil.spec: 2.1.4
-soilDB: 2.9.2
+soilDB: 2.9.4
 soilFlux: 0.1.5
 soilKey: 0.9.403
 soilVAE: 0.2.0
@@ -30962,7 +30964,7 @@ spatstat.Knet: 3.1-3
 spatstat.convert: 1.0-1
 spatstat.core: 2.4-4
 spatstat.data: 3.1-9
-spatstat.explore: 3.8-3
+spatstat.explore: 3.8-5
 spatstat.geom: 3.8-4
 spatstat.gui: 3.1-0
 spatstat.linnet: 3.5-4
@@ -32033,7 +32035,7 @@ taRifx.geo: 1.0.6
 tab: 5.1.1
 tab2xml: 1.1.0
 tabbitR: 0.1.3
-tabby: 0.0.1
+tabby: 0.1.0
 tabbycat: 0.18.0
 taber: 0.1.2
 tabit: 0.2.1
@@ -32148,7 +32150,7 @@ taxize: 0.10.1
 taxizedb: 0.3.2
 taxlist: 0.3.5
 taxnames: 0.1.0
-taxodist: 1.0.0
+taxodist: 1.1.0
 taxonbridge: 1.2.2
 taxonomizr: 0.11.1
 taxotools: 0.0.148
@@ -32342,7 +32344,7 @@ textmineR: 3.0.6
 textmining: 0.0.1
 textometry: 0.1.7
 textplot: 0.2.3
-textpress: 1.1.1
+textpress: 1.1.2
 textrank: 0.3.1
 textrar: 0.9.0
 textreadr: 1.2.0
@@ -33569,7 +33571,7 @@ vangogh: 0.1.3
 vannstats: 1.6.8.16
 vanquish: 1.0.0
 vantorr: 0.3.0
-vapour: 0.16.0
+vapour: 0.20.0
 varComp: 0.2-0
 varEst: 0.1.0
 varGuid: 0.1.5
@@ -34476,7 +34478,7 @@ ypssc: 1.1.0
 yrnd: 0.1.8
 yuima: 1.15.34
 yuimaGUI: 1.4.0
-yulab.utils: 0.2.6
+yulab.utils: 0.2.7
 yum: 0.1.0
 yummlyr: 0.1.1
 yyjsonr: 0.1.22
