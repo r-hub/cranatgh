@@ -1198,7 +1198,7 @@ CDECRetrieve: 0.1.5
 CDF: 0.1.0
 CDF.PSIdekick: '1.2'
 CDFt: '1.2'
-CDGHMM: 0.1.6
+CDGHMM: 0.1.7
 CDLasso: '1.1'
 CDM: 8.3-14
 CDMConnector: 2.8.1
@@ -7013,7 +7013,7 @@ ProcMod: 1.0.8
 ProcessCapabilityR: 0.1.0
 ProduceR: '1.4'
 ProfessR: 2.4-3
-ProfileGLMM: 1.1.0
+ProfileGLMM: 1.2.0
 ProfileLadder: 0.2.2
 ProfileLikelihood: '1.3'
 ProfoundData: 0.2.1
@@ -8043,7 +8043,7 @@ RcppColors: 0.6.0
 RcppDE: 0.1.9
 RcppDL: 0.0.5
 RcppDPR: 0.1.10
-RcppDate: 0.0.7
+RcppDate: 0.0.8
 RcppDist: 0.1.1.1
 RcppDynProg: 0.2.1
 RcppEigen: 0.3.4.0.2
@@ -10159,7 +10159,7 @@ Usmile: 0.2.0
 UtilityFrailtyPH12: '1.0'
 V8: 8.3.0
 VA: '1.0'
-VAJointSurv: 0.1.1
+VAJointSurv: 0.1.2
 VALERIE: 1.1.0
 VALIDICLUST: 0.1.0
 VAM: 1.1.0
@@ -10894,7 +10894,7 @@ agvgd: 0.1.2
 ahMLE: 1.20.1
 ahaz: 1.15.1
 ahnr: 0.3.1
-ahocorasick: 0.2.0
+ahocorasick: 0.3.0
 ahp: 0.2.12
 ahpsurvey: 0.4.3
 ahptopsis2n: 0.2.0
@@ -11248,7 +11248,7 @@ arcos: '1.27'
 arcpbf: 0.3.0
 arcpullr: 0.3.5
 arcpy: 0.4-0
-arcstat: 0.3.1
+arcstat: 0.4.0
 arctools: 1.1.6
 ardea: 0.1.1
 ardl.nardl: 1.3.0
@@ -12321,7 +12321,7 @@ blocking: 1.0.3
 blockingChallenge: '1.0'
 blocklength: 0.2.2
 blockmatrix: '1.0'
-blockmodeling: 1.1.8
+blockmodeling: 1.1.9
 blockmodels: 1.2.1
 blockr: 0.1.0
 blockr.core: 0.1.3
@@ -12582,7 +12582,7 @@ brms: 2.23.0
 brms.mmrm: 1.1.2
 brmsmargins: 0.3.0
 brnn: 0.9.4
-broadcast: 0.1.9.8
+broadcast: 0.2.0
 brochure: 1.0.0
 brokenstick: 2.7.0
 brolgar: 1.0.2
@@ -12958,7 +12958,7 @@ causalDT: 1.0.1
 causalDisco: 1.3.0
 causalHyperGraph: 0.1.0
 causalMGM: 0.1.1
-causalMed: 0.1.3
+causalMed: 0.1.4
 causalOT: '1.1'
 causalPAF: 1.2.5
 causalQual: 1.0.0
@@ -13134,6 +13134,7 @@ cer: 0.2.0
 ceramic: 0.9.5
 cercospoRa: 0.0.2
 cereal: 0.1.0
+ceres: 0.1.0
 cernn: '0.1'
 certify: 0.1.0
 ces: 1.1.0
@@ -13725,7 +13726,7 @@ cogirt: 1.0.0
 coglasso: 1.1.1
 coglyphr: 1.1.0
 cogmapr: 0.9.5
-cogmod: 0.3.3
+cogmod: 0.3.6
 cognitoR: 1.0.5
 cograph: 2.7.17
 cohetsurr: '2.0'
@@ -13802,6 +13803,7 @@ colors3d: 1.0.1
 colorsGen: 1.0.0
 colorscience: 1.0.9
 colorspace: 2.1-4
+colortheme: 0.1.0
 colortools: 0.1.5
 colouR: 0.1.1
 colourlovers: 0.3.6
@@ -14430,7 +14432,7 @@ crsmeta: 0.3.0
 crsnls: '0.2'
 crso: 0.1.1
 crsra: 0.2.3
-crstools: 1.0.0
+crstools: 1.2.0
 crsuggest: '0.4'
 crt2power: 1.2.2
 crtests: 0.2.1
@@ -15438,7 +15440,7 @@ distreg.vis: 1.7.5
 distribglm: 0.4.1
 distributional: 0.9.0
 distributions: '1.3'
-distributions3: 0.3.0
+distributions3: 0.3.1
 distributionsrd: 0.0.6
 distro: 0.1.1
 distrom: 1.0.2
@@ -19729,7 +19731,7 @@ higrad: 0.1.0
 hilbert: 0.2.1
 hilbertSimilarity: 0.4.4
 hildareadR: 0.2.0
-hillR: 0.5.2
+hillR: 0.7.0
 hilldiv: 1.5.1
 hilldiv3: 3.2.1
 hillmakeR: '0.2'
@@ -20271,7 +20273,7 @@ image.textlinedetector: 0.2.3
 image2data: 1.0.1
 imageData: 0.1.64
 imageRy: 0.4.0
-imagefluency: 1.0.0
+imagefluency: 1.1.0
 imagefx: 0.4.1
 imager: 1.0.8
 imagerExtra: 1.3.2
@@ -22896,7 +22898,7 @@ mifa: 0.2.1
 mig: '2.0'
 migest: 2.0.6
 mighty.component: 0.2.0
-mighty.metadata: 0.2.0
+mighty.metadata: 0.2.1
 migraph: 1.7.2
 migrate: 0.5.1
 migration.indices: 0.3.1
@@ -23089,7 +23091,7 @@ mixtox: 1.5.0
 mixtree: 0.0.1
 mixtur: 1.2.3
 mixture: 2.2.1
-mixvlmc: 0.2.2
+mixvlmc: 0.3.1
 mize: 0.3.0
 mizer: 3.4.0
 mizu: 0.1.1
@@ -26363,6 +26365,7 @@ postdoc: 1.4.2
 posterdown: '1.0'
 posterior: 1.8.1
 postgwas: '1.11'
+posthocbounds: 0.1.0
 postinfectious: 0.1.0
 postlightmercury: '1.2'
 postlink: 0.1.2
@@ -26700,7 +26703,7 @@ proptest: 0.1-5
 proratar: 0.1.0
 prospectr: 0.2.11
 protHMM: 0.1.1
-protViz: 0.7.9
+protViz: 0.7.14
 protag: 1.0.0
 protein8k: 0.0.2
 proteomicdesign: '2.0'
@@ -27139,7 +27142,7 @@ quantregGrowth: 1.7-2
 quantregRanger: '1.0'
 quantsig: 0.1.0
 quantspec: 1.2-4
-quaqcr: 1.0.4
+quaqcr: 1.1.0
 quarks: 1.1.6
 quarrint: 1.0.1
 quartabs: 0.2.0
@@ -28100,7 +28103,7 @@ reliabilitydiag: 0.2.1
 reliacoef: 1.0.1
 relimp: 1.0-5
 relliptical: 1.4.0
-relm: 0.6.3
+relm: 0.6.4
 relsurv: 2.3-3
 rem: 1.3.1
 remMap: 0.2-0
@@ -29424,6 +29427,7 @@ sappviz: 1.0.16
 saps: 1.0.0
 saqgetr: 0.2.24
 sara4r: 0.1.0
+sardine: 0.1.0
 sarima: 0.9.5
 saros: 1.6.2
 saros.base: 1.2.0
@@ -29491,7 +29495,7 @@ scDIFtest: 0.1.1
 scDiffCom: 1.2.0
 scFlex: 0.1.0
 scGOclust: 0.2.1
-scGate: 1.7.2
+scGate: 1.8.0
 scINSIGHT: 0.1.5
 scISR: 0.1.1
 scITD: 1.0.4
@@ -30107,7 +30111,7 @@ shinyEventLogger: 0.1.1
 shinyExprPortal: 1.2.1
 shinyFeedback: 0.4.0
 shinyFiles: 0.9.4
-shinyGizmo: 0.5.0
+shinyGizmo: 0.6.0
 shinyGovstyle: 0.3.0
 shinyHeatmaply: 0.2.0
 shinyHierarchy: 0.1.0
@@ -30926,6 +30930,7 @@ spartan: 3.0.2
 sparvaride: 1.0.0
 spass: '1.3'
 spatPomp: 1.1.0
+spatbiome: 0.1.0
 spatclus: 1.0-3
 spatcounts: '1.1'
 spatcovar: 0.1.0
@@ -31027,7 +31032,7 @@ spect: '1.0'
 spectacles: 0.5-5
 spectator: 0.2.0
 spectr: 1.0.1
-spectra2rgb: 0.1.1
+spectra2rgb: 0.1.2
 spectrakit: 0.2.0
 spectral: '2.0'
 spectral.methods: 0.7.2.133
@@ -31893,7 +31898,7 @@ svgtools: 1.1.3
 svines: 0.3.0
 svmadmm: '0.3'
 svmf: '1.1'
-svmodt: 0.1.0
+svmodt: 0.1.2
 svmpath: '0.970'
 svmplus: 1.0.1
 svpChange: 0.2.1
@@ -32467,6 +32472,7 @@ tidyHeatmap: 1.13.1
 tidyILD: 0.4.1
 tidyLPA: 2.0.2
 tidyMC: 1.0.1
+tidyMacro: 1.1.2
 tidyMicro: '1.47'
 tidyOhdsiSolutions: 0.1.0
 tidyREDCap: 2.1.0
@@ -34573,7 +34579,7 @@ zucbor: 0.1.0
 zucrypt: 0.1.0
 zucsv: 0.1.1
 zuexact: 0.1.0
-zufast: 0.1.0
+zufast: 0.1.1
 zufft: 0.1.0
 zuhtml: 0.1.1
 zujson: 0.1.1
